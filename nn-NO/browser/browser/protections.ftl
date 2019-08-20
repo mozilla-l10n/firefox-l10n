@@ -27,9 +27,12 @@ protection-header-details-custom = Vernenivået er sett til <b>tilpasset</b>
 protection-report-page-title = Vern av personvern
 protection-report-content-title = Vern av personvern
 etp-card-title = Utvida sporingsvern
+etp-card-content = Sporfølgjarar følgjer deg rundt på nettet for å samle informasjon om surfevanane og interessene dine. { -brand-short-name } blokkerer mange av desse sporfølgjarane og andre vondsinna skript.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = I dag
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Ein graf som inneheld det totale antalet for kvar type av sporfølgjarar som har blitt blokkerte denne veka.
 social-tab-title = Sporing via sosiale medium
 cookie-tab-title = Sporingsinfokapslar på tvers av nettstadar
 tracker-tab-title = Sporingsinnhald

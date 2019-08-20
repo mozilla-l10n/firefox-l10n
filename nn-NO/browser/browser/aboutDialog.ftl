@@ -29,9 +29,7 @@ community-2 = { -brand-short-name } er utvikla av <label data-l10n-name="communi
 helpus = Vil du hjelpe til? <label data-l10n-name="helpus-donateLink">Gje ei pengegåve</label> eller <label data-l10n-name="helpus-getInvolvedLink">ver med!</label>
 bottomLinks-license = Lisensinfo
 bottomLinks-rights = Rettar for sluttbrukarar
-bottomLinks-privacy = Personvern
-aboutDialog-architecture-sixtyFourBit = 64-bitar
-aboutDialog-architecture-thirtyTwoBit = 32-bitar
+bottomLinks-privacy = Personvernpraksis
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1
