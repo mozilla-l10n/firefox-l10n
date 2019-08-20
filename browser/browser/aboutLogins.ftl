@@ -35,6 +35,12 @@ menu-menuitem-faq = প্রায়শই জিজ্ঞাসিত প্র�
 
 ## Login List
 
+login-list-count =
+    { $count ->
+        [one] { $count } লগ ইন
+       *[other] { $count } লগ ইন
+    }
+login-list-sort-label-text = ক্রমানুসার:
 login-list-name-option = নাম (A-Z)
 login-list-last-changed-option = সর্বশেষ পরিবর্তিত
 login-list-last-used-option = সর্বশেষ ব্যবহৃত
