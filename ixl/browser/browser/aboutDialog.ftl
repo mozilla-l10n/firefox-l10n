@@ -25,3 +25,8 @@ update-restarting = Ile' ni xe'tisa unpajte
 channel-description = Ile' b'anel ve't kan tuche' tu b'anb'al tatine' <label data-l10n-name="current-channel"></label> ti' ib'anax b'a'n stej!
 warningDesc-version = { -brand-short-name } ni kuxh b'anb'el unbooe' as la ib'ane' uva' la yani.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> a'e' uma'l <label data-l10n-name="community-exp-creditsLink">tetz kaajayil aq'on</label> eela chit taq'onve' aq'al uva' la tile' uva' jajlu kan kuxh u Web, tetz tenam as ab'il kuxh la b'an b'en.
+community-2 = { -brand-short-name } b'anel chitu' ta'n <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, uma'l <label data-l10n-name="community-creditsLink"> tetz kaajayil</label> uva' eela chit taq'onve' aq'al uva' jajlu kan kuxh u Web, vatz tenam as ab'il kuxh la b'anon.
+helpus = Nasa' la lochon axh? <label data-l10n-name="helpus-donateLink">Aq'kan umaj akutx</label> moj <label data-l10n-name="helpus-getInvolvedLink"><label data-l10n-name="helpus-getInvolvedLink">oksa eeb'</label>
+bottomLinks-license = Yol ti' tu'aalil
+bottomLinks-rights = Jank'al chit unq'a tetz u b'anb'en tetze'
+bottomLinks-privacy = Ootzib'al ti' ib'anb'el ti jikil
