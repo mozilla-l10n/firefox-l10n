@@ -251,6 +251,10 @@ shortcuts-letter = נא להקליד אות
 shortcuts-system = לא ניתן לדרוס קיצור דרך של { -brand-short-name }
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = קיצור דרך כפול
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } משמש כקיצור דרך ביותר ממקרה אחד. קיצורי דרך כפולים עשויים לגרום להתנהגות בלתי צפויה.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
