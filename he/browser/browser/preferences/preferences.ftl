@@ -744,6 +744,7 @@ content-blocking-fingerprinters = רכיבי זהות דיגיטלית
 content-blocking-warning-title = לתשומת לבך!
 content-blocking-warning-description = חסימת תוכן עלולה לגרום לאתרים מסוימים להישבר. קל לבטל חסימה עבור אתרים בטוחים.
 content-blocking-learn-how = מידע נוסף
+content-blocking-etp-warning-description = חסימת רכיבי מעקב עשויה להשפיע על הפונקציונליות של אתרים מסוימים. יש לטעון מחדש דף עם רכיבי מעקב כדי לטעון את כל התוכן.
 content-blocking-warning-learn-how = מידע נוסף
 content-blocking-reload-description = יהיה עליך לטעון מחדש את הלשוניות שלך כדי להחיל שינויים אלו.
 content-blocking-reload-tabs-button =
