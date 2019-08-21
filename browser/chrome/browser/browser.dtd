@@ -892,7 +892,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "האתר עדיין מוצג בצורה לא תקינה לאחר כיבוי ההגנות?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "שליחת דיווח">
 
+<!ENTITY protections.blocking2.label "חסומים">
+<!ENTITY protections.notBlocking2.label "מורשים">
 <!ENTITY protections.notBlocking.why.label "למה?">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "כיבוי ההגנות יאפשר את כל רכיבי המעקב באתר זה. זה עשוי גם לשפר את הפונקציונליות באתרים מסוימים.">
 <!ENTITY protections.notFound.label "לא אותרו">
 <!ENTITY protections.socialMediaTrackers.label "רכיבי מעקב של מדיה חברתית">
 <!ENTITY protections.crossSiteTrackingCookies.label "עוגיות מעקב חוצות אתרים">
@@ -901,6 +904,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.noTrackersFound.description "לא זוהו רכיבי מעקב המוכרים ל־&brandShortName; בדף זה.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "עוגיות אלו עוקבות אחריך מאתר לאתר כדי לאסוף נתונים על הפעילויות המקוונות שלך. הן נוצרות על־ידי גורמי צד־שלישי כמו מפרסמים וחברות אנליטיות.">
+<!ENTITY protections.cryptominers.description "כורי מטבעות דיגיטליים משתמשים בכוח העיבוד של המערכת שלך כדי לכרות כסף דיגיטלי. תסריטי כריית מטבעות מרוקנים את הסוללה שלך, מאטים את המחשב שלך ומגדילים את חשבון החשמל שלך.">
 <!ENTITY protections.trackingContent.description "אתרים עשויים לטעון פרסומות חיצוניות, סרטונים ותכנים אחרים המכילים קוד מעקב. חסימת תוכן מעקב יכולה לסייע לאתרים להיטען מהר יותר, אך יתכן שמספר כפתורים, טפסים ושדות התחברות לא יעבדו.">
 <!ENTITY protections.socialMediaTrackers.description "רשתות חברתיות מציבות רכיבי מעקב באתרים אחרים כדי לעקוב אחר מה שהינך עושה ורואה ברשת. זה מאפשר לחברות המדיה החברתית ללמוד עליך מעבר למה שבחרת לשתף בפרופילי המדיה החברתית שלך.">
 
