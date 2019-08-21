@@ -150,6 +150,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Kirjaudu &brandProductName;iin">
 <!ENTITY fxa.menu.turnOnSync.label "Ota &syncBrand.shortName.label; käyttöön">
 <!ENTITY fxa.menu.account.label "Tili">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName;-palvelut">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -889,6 +890,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.notBlocking.why.label "Miksi?">
 <!ENTITY protections.socialMediaTrackers.label "Sosiaalisen median seuraimet">
+<!ENTITY protections.fingerprinters.label "Yksilöijät">
+<!ENTITY protections.cryptominers.label "Kryptolouhijat">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
