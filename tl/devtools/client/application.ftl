@@ -69,5 +69,11 @@ serviceworker-empty-suggestions-debugger = Mag-step through sa iyong mga Service
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Mag-inspect ng mga Service Worker sa ibang mga domain. <a>Buksan ang about:debugging</a>
-# Text displayed when no manifest was found for the current page.
-manifest-empty-intro = Walang natagpuang manifest na pwedeng suriin.
+# Text displayed while we are loading the manifest file
+manifest-loading = Niloload ang manifest...
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Naiload na ang manifest.
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = Nagkaroon ng problema habang niloload ang manifest.
+# Text displayed when the page has no manifest available
+manifest-non-existing = Walang manifest na pwedeng suriin.
