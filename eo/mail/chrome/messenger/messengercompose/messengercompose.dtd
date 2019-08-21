@@ -122,21 +122,27 @@
 <!ENTITY moveAttachmentUpPanelBtn.label "Movi supren">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Movi kune">
 <!ENTITY moveAttachmentDownPanelBtn.label "Movi malsupren">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Movi plej malsupren">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Ordigi: A-Z">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Ordigi: Z-A">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Ordigi elektitajn: A-Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Ordigi elektitajn: Z-A">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "View">
-<!ENTITY viewMenu.accesskey "v">
-<!ENTITY viewToolbarsMenuNew.label "Toolbars">
-<!ENTITY viewToolbarsMenuNew.accesskey "T">
-<!ENTITY menubarCmd.label "Menu Bar">
-<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY viewMenu.label "Vido">
+<!ENTITY viewMenu.accesskey "V">
+<!ENTITY viewToolbarsMenuNew.label "Ilarstrioj">
+<!ENTITY viewToolbarsMenuNew.accesskey "I">
+<!ENTITY menubarCmd.label "Strio de menuo">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showCompositionToolbarCmd.label "Composition Toolbar">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Formatting Bar">
