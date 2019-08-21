@@ -900,11 +900,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "¿La k'a man nisamäj ta ri ruxaq chi rij toq xechup ri taq ojqanem?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Titaq jun rutzijol">
 
-<!ENTITY protections.blocking.label "Niq'at">
-<!ENTITY protections.notBlocking.label "Man Tiq'at">
+<!ENTITY protections.blocking2.label "Q'aton">
+<!ENTITY protections.notBlocking2.label "Ya'on q'ij">
 <!ENTITY protections.notBlocking.why.label "¿Achike ruma?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Toq niq'at re re' nitikïr yerutz'ila' taq kich'akulal jujun ajk'amaya'l ruxaq. We majun ojqanela' jujun taq pitz'b'äl, taq nojwuj chuqa' taq ruk'ojlib'al rutikirib'al molojri'ïl rik'in jub'a' man ütz ta yesamäj.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Yechup ri taq chajinem xkerutzïj ronojel ri rojqanela' re ruxaq re'. Chuqa' nitikïr nrutzilaj rusamaj.">
+<!ENTITY protections.notFound.label "Man Xilitäj Ta">
 <!ENTITY protections.socialMediaTrackers.label "Kojqanela' aj Winäq K'amab'ey">
 <!ENTITY protections.crossSiteTrackingCookies.label "Kikuki Rojqanela' Xoch'in taq Ruxaq">
 <!ENTITY protections.trackingContent.label "Rojqanem Rupam">
