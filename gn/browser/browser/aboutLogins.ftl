@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Tembiapo ñepyrũ ha ñe’ẽñemi
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Egueraha ne ñe’ẽñemi opa hendápe
+login-app-promo-subtitle = Emboguejy tembipuru’i reigua { -lockwise-brand-name }
+login-app-promo-android =
+    .alt = Emboguejy Google Play guive
+login-app-promo-apple =
+    .alt = Emboguejy App Store guive
 login-filter =
     .placeholder = Tembiapo ñepyrũ jeheka
 create-login-button = Tembiapo ñepyrũ moheñói
