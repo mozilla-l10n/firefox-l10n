@@ -143,36 +143,36 @@
 <!ENTITY viewToolbarsMenuNew.accesskey "I">
 <!ENTITY menubarCmd.label "Strio de menuo">
 <!ENTITY menubarCmd.accesskey "m">
-<!ENTITY showCompositionToolbarCmd.label "Composition Toolbar">
-<!ENTITY showCompositionToolbarCmd.accesskey "o">
-<!ENTITY showFormattingBarCmd.label "Formatting Bar">
-<!ENTITY showFormattingBarCmd.accesskey "F">
-<!ENTITY showTaskbarCmd.label "Status Bar">
+<!ENTITY showCompositionToolbarCmd.label "Strio de retpoŝtaj iloj">
+<!ENTITY showCompositionToolbarCmd.accesskey "r">
+<!ENTITY showFormattingBarCmd.label "Strio de formatado">
+<!ENTITY showFormattingBarCmd.accesskey "f">
+<!ENTITY showTaskbarCmd.label "Stata strio">
 <!ENTITY showTaskbarCmd.accesskey "S">
-<!ENTITY customizeToolbar.label "Customize…">
-<!ENTITY customizeToolbar.accesskey "C">
+<!ENTITY customizeToolbar.label "Personecigi…">
+<!ENTITY customizeToolbar.accesskey "P">
 
-<!ENTITY addressSidebar.label "Contacts Sidebar">
-<!ENTITY addressSidebar.accesskey "o">
+<!ENTITY addressSidebar.label "Panelo de kontaktoj">
+<!ENTITY addressSidebar.accesskey "k">
 
 <!-- Format Menu -->
-<!ENTITY formatMenu.label "Format">
-<!ENTITY formatMenu.accesskey "o">
+<!ENTITY formatMenu.label "Formato">
+<!ENTITY formatMenu.accesskey "F">
 
 <!-- Options Menu -->
-<!ENTITY optionsMenu.label "Options">
-<!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd2.label "Check Spelling…">
+<!ENTITY optionsMenu.label "Elektebloj">
+<!ENTITY optionsMenu.accesskey "E">
+<!ENTITY checkSpellingCmd2.label "Kontroli literumadon…">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
-<!ENTITY checkSpellingCmd2.accesskey "h">
-<!ENTITY enableInlineSpellChecker.label "Spell Check As You Type">
-<!ENTITY enableInlineSpellChecker.accesskey "S">
-<!ENTITY quoteCmd.label "Quote Message">
-<!ENTITY quoteCmd.accesskey "Q">
+<!ENTITY checkSpellingCmd2.accesskey "K">
+<!ENTITY enableInlineSpellChecker.label "Kontroli literumadon dum tajpado">
+<!ENTITY enableInlineSpellChecker.accesskey "o">
+<!ENTITY quoteCmd.label "Citi mesaĝon">
+<!ENTITY quoteCmd.accesskey "C">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCard.label "Attach Personal Card (vCard)">
+<!ENTITY attachVCard.label "Kunsendi personan vizitkarton (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY returnReceiptMenu.label "Return Receipt">
