@@ -898,11 +898,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Werkt de website na uitschakelen beschermingen nog steeds niet?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Rapport verzenden">
 
-<!ENTITY protections.blocking.label "Geblokkeerd">
-<!ENTITY protections.notBlocking.label "Niet geblokkeerd">
+<!ENTITY protections.blocking2.label "Geblokkeerd">
+<!ENTITY protections.notBlocking2.label "Toegestaan">
 <!ENTITY protections.notBlocking.why.label "Waarom?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Door deze te blokkeren werken elementen van sommige websites mogelijk niet. Zonder trackers werken sommige knoppen, formulieren en aanmeldvelden mogelijk niet.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Door beschermingen uit te schakelen worden alle trackers op deze website toegestaan. Het kan ook de functionaliteit van de website verbeteren.">
+<!ENTITY protections.notFound.label "Geen gedetecteerd">
 <!ENTITY protections.socialMediaTrackers.label "Sociale-mediatrackers">
 <!ENTITY protections.crossSiteTrackingCookies.label "Cross-site-trackingcookies">
 <!ENTITY protections.trackingContent.label "Volginhoud">
