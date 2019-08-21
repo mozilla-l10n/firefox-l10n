@@ -111,21 +111,29 @@
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
+<!ENTITY options.usedeveditiontheme.label   "Gamitin ang temang pang-Developer Edition">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
+<!ENTITY options.webconsole.label            "Web Console">
 
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
+<!ENTITY options.timestampMessages.label      "I-enable ang mga timestamp">
+<!ENTITY options.timestampMessages.tooltip    "Kapag inenable mo ang option na ito, magpapakita ng timestamp ang mga command at output sa Web Console">
 
 <!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
    - label for the checkbox that toggles the warningGroups feature in the Web Console -->
+<!ENTITY options.warningGroups.label      "Pangkatin ang mga magkakatulad na mensahe">
+<!ENTITY options.warningGroups.tooltip    "Kapag inenable, mailalagay sa mga pangkat ang mga magkakatulad na mensahe">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "Debugger">
 
 <!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
+<!ENTITY options.sourceMaps.label      "I-enable ang mga Source Map">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options

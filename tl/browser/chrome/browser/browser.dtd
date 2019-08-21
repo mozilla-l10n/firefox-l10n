@@ -581,11 +581,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageInfoCmd.accesskey    "i">
 <!ENTITY viewFrameInfoCmd.label       "Ipakita ang Impormasyon ng Frame">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY reloadImageCmd.label         "I-load ang Imahe muli">
+<!ENTITY reloadImageCmd.label         "I-reload ang Larawan">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "Tingnan ang Imahe">
 <!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "Ipakita ang imahe at impormasyon">
+<!ENTITY viewImageInfoCmd.label       "Tingnan ang Impormasyon ng Larawan">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "Ipakita ang mga Paglalarawan">
 <!ENTITY viewImageDescCmd.accesskey   "D">
@@ -631,7 +631,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "I-Save ang Audio Bilang…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "I-email ang Imahe....">
+<!ENTITY emailImageCmd.label          "I-email ang Larawan…">
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "I-Email ang Video…">
 <!ENTITY emailVideoCmd.accesskey      "a">
@@ -646,9 +646,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "I-copy ang Lokasyon ng Imahe">
+<!ENTITY copyImageCmd.label           "Kopyahin ang Lokasyon ng Larawan">
 <!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "Kopyahin ang Imahe">
+<!ENTITY copyImageContentsCmd.label   "Kopyahin ang Larawan">
 <!ENTITY copyImageContentsCmd.accesskey  "y">
 <!ENTITY copyVideoURLCmd.label        "Kopyahin ang lokasyon ng video">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
@@ -894,8 +894,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Sira pa rin ang site matapos isara ang mga proteksyon?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Magpadala ng report">
 
-<!ENTITY protections.blocking.label "Humaharang">
-<!ENTITY protections.notBlocking.label "Hindi Humaharang">
 <!ENTITY protections.notBlocking.why.label "Bakit?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Maaaring masira ang ilang parte ng ilang website kapag hinarang ang mga ito. Kapag walang mga tracker, may mga button, form, at login field na maaaring hindi gumana.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Mapapayagan sa site na ito ang lahat ng tracker kapag isinara ang mga proteksyon. Maaari rin nitong mapaganda ang ilang functionality ng website.">
