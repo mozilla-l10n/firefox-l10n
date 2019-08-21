@@ -175,24 +175,24 @@
 <!ENTITY attachVCard.label "Kunsendi personan vizitkarton (vCard)">
 <!ENTITY attachVCard.accesskey "v">
 
-<!ENTITY returnReceiptMenu.label "Return Receipt">
-<!ENTITY returnReceiptMenu.accesskey "t">
-<!ENTITY dsnMenu.label "Delivery Status Notification">
-<!ENTITY dsnMenu.accesskey "N">
-<!ENTITY deliveryFormatMenu.label "Delivery Format">
+<!ENTITY returnReceiptMenu.label "Postuli konfirmon pri legi">
+<!ENTITY returnReceiptMenu.accesskey "P">
+<!ENTITY dsnMenu.label "Informi pri stato de livero">
+<!ENTITY dsnMenu.accesskey "I">
+<!ENTITY deliveryFormatMenu.label "Formo de mesaĝo">
 <!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "Auto-Detect">
+<!ENTITY autoFormatCmd.label "Elekti aŭtomate">
 <!ENTITY autoFormatCmd.accesskey "a">
-<!ENTITY plainTextFormatCmd.label "Plain Text Only">
+<!ENTITY plainTextFormatCmd.label "Nur platteksto">
 <!ENTITY plainTextFormatCmd.accesskey "p">
-<!ENTITY htmlFormatCmd.label "Rich Text (HTML) Only">
-<!ENTITY htmlFormatCmd.accesskey "r">
-<!ENTITY bothFormatCmd.label "Plain and Rich (HTML) Text">
-<!ENTITY bothFormatCmd.accesskey "l">
-<!ENTITY priorityMenu.label "Priority">
-<!ENTITY priorityMenu.accesskey "p">
-<!ENTITY priorityButton.title "Priority">
-<!ENTITY priorityButton.tooltiptext "Change the message priority">
+<!ENTITY htmlFormatCmd.label "Nur HTML">
+<!ENTITY htmlFormatCmd.accesskey "H">
+<!ENTITY bothFormatCmd.label "Platteksto kaj HTML">
+<!ENTITY bothFormatCmd.accesskey "k">
+<!ENTITY priorityMenu.label "Prioritato">
+<!ENTITY priorityMenu.accesskey "r">
+<!ENTITY priorityButton.title "Prioritato">
+<!ENTITY priorityButton.tooltiptext "Difini prioritaton de mesaĝo">
 <!ENTITY priorityButton.label "Priority:">
 <!ENTITY lowestPriorityCmd.label "Lowest">
 <!ENTITY lowestPriorityCmd.accesskey "l">
