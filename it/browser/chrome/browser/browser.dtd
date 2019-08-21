@@ -602,7 +602,7 @@
 <!ENTITY protections.notBlocking.why.label "Perché?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Il blocco di questi elementi potrebbe causare il parziale malfunzionamento di alcuni siti web. Senza elementi traccianti, alcuni pulsanti, moduli e campi di accesso non funzionano correttamente.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Disattivando le protezioni verranno consentiti tutti gli elementi traccianti su questo sito. Questa operazione potrebbe anche migliorare il funzionamento di alcune parti del sito web.">
-<!ENTITY protections.notFound.label "Nessun elemento rilevato">
+<!ENTITY protections.notFound.label "Non rilevati">
 <!ENTITY protections.socialMediaTrackers.label "Traccianti dei social media">
 <!ENTITY protections.crossSiteTrackingCookies.label "Cookie traccianti intersito">
 <!ENTITY protections.trackingContent.label "Contenuti traccianti">
