@@ -898,10 +898,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Er nettstaden framleis øydelagd, sjølv etter å ha slått av vern?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Send inn ein rapport">
 
-<!ENTITY protections.blocking.label "Blokkerer">
-<!ENTITY protections.notBlocking.label "Blokkerer ikkje">
+<!ENTITY protections.blocking2.label "Blokkert">
+<!ENTITY protections.notBlocking2.label "Tillate">
 <!ENTITY protections.notBlocking.why.label "Kvifor?">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Slår du av vern, vil det tillate alle sporfølgjarar på denne nettstaden. Det kan òg forbetre funksjonalitet på nettstaden.">
+<!ENTITY protections.notFound.label "Ingen oppdaga">
 <!ENTITY protections.socialMediaTrackers.label "Sporing via sosiale medium">
 <!ENTITY protections.crossSiteTrackingCookies.label "Sporingsinfokapslar på tvers av nettstadar">
 <!ENTITY protections.trackingContent.label "Sporingsinnhald">
