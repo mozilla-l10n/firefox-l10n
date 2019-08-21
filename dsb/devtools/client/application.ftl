@@ -69,5 +69,11 @@ serviceworker-empty-suggestions-debugger = Pśeglědujśo swóju registrěrowanj
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Pśepytujśo service workers wót drugich domenow. <a>about:debugging wócyniś</a>
-# Text displayed when no manifest was found for the current page.
-manifest-empty-intro = Njejo se namakał žeden manifest za pśeglědanje.
+# Text displayed while we are loading the manifest file
+manifest-loading = Manifest se cyta…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Manifest jo se zacytał.
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = Pśi cytanju manifesta jo zmólka nastała.
+# Text displayed when the page has no manifest available
+manifest-non-existing = Žeden manifest namakany.
