@@ -9,7 +9,19 @@ about-logins-page-title = Date de autentificare și parole
 login-app-promo-title = Ia-ți cu tine parolele oriunde
 login-app-promo-subtitle = Obține aplicația gratuită { -lockwise-brand-name }
 login-app-promo-android =
-    .alt = Disponibil pe Google Play
+    .alt = Acum pe Google Play
+login-app-promo-apple =
+    .alt = Descarcă de pe App Store
+login-filter =
+    .placeholder = Caută autentificări
+create-login-button = Creează o autentificare nouă
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon pentru { $title }
+fxaccounts-sign-in-text = Obține parolele de pe celelalte dispozitive
+fxaccounts-sign-in-button = Autentifică-te în { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Gestionează contul
 
@@ -48,9 +60,11 @@ login-list-item-subtitle-missing-username = (niciun nume de utilizator)
 
 ## Introduction screen
 
+login-intro-instruction-faq = Vizitează <a data-l10n-name="faq">întrebările frecvente</a> { -lockwise-brand-short-name } pentru asistență suplimentară
 
 ## Login
 
+login-item-new-login-title = Creează o autentificare nouă
 login-item-edit-button = Editează
 login-item-delete-button = Șterge
 login-item-origin-label = Adresa site-ului web
@@ -68,16 +82,22 @@ login-item-password-reveal-checkbox-show =
 login-item-password-reveal-checkbox-hide =
     .title = Ascunde parola
 login-item-copy-password-button-text = Copiază
-login-item-copied-password-button-text = Copiat!
+login-item-copied-password-button-text = Copiată!
 login-item-save-changes-button = Salvează modificările
 login-item-save-new-button = Salvează
 login-item-cancel-button = Renunță
+login-item-time-changed = Ultima modificare: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Data creării: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Ultima utilizare: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Renunță
+confirmation-dialog-dismiss-button =
+    .title = Renunță
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -85,6 +105,7 @@ enable-password-sync-preferences-button =
            *[other] Vizitează preferințele { -sync-brand-short-name }
         }
     .accesskey = V
+confirm-delete-dialog-title = Ștergi această autentificare?
 confirm-delete-dialog-message = Această acțiune este ireversibilă.
 confirm-delete-dialog-confirm-button = Șterge
 confirm-discard-changes-dialog-title = Înlături modificările nesalvate?
