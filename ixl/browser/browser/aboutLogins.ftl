@@ -20,9 +20,22 @@ create-login-button = Cheesa uma't Ak' Ixe'tisal aq'on
 #   $title (String) - The title of the website associated with the favicon.
 login-favicon =
     .alt = Favicon ti' { $title }
+fxaccounts-sign-in-text = La lej unq'a texhlal kach'ub' tetze' tu ka'taj unq'a aq'onb'ale' uve' nab'anb'e
+fxaccounts-sign-in-button = Xe'tisa tzitza' { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = La eel isuuchil u atinb'ale'
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = Jaj u tachul tatine'
+# This menuitem is only visible on Windows
+menu-menuitem-import = Eq'oeltzan unq'a texhla uve' axh kuxh ootzin tetz
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] Unka'te
+       *[other] Uve' ni chit asa'
+    }
 
 ## Login List
 
