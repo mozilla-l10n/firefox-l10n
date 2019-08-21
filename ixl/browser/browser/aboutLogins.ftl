@@ -39,9 +39,20 @@ menu-menuitem-preferences =
 menu-menuitem-feedback = La aaq'b'en ayol
 menu-menuitem-faq = Unq'a vee' pal chit ich'otile'
 menu-menuitem-android-app = { -lockwise-brand-short-name } tetz Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } tetz iPhone as iPad
 
 ## Login List
 
+login-list =
+    .aria-label = Ixe'taj aq'on uva' eela kuxhtu' tu' u chukb'al tetze'
+login-list-count =
+    { $count ->
+        [one] { $count } ixe't aq'on
+       *[other] { $count } ixe'taj aq'on
+    }
+login-list-sort-label-text = Nuk'el ta'n:
+login-list-name-option = B'ii (A-Z)
+login-list-breached-option = Unq'a tantib'al unq'a web uva' jit b'an tatine'
 
 ## Introduction screen
 
