@@ -73,3 +73,7 @@ serviceworker-empty-suggestions-aboutdebugging = Ehechajey umi service workers a
 manifest-loading = Je’epyre ñemyanyhẽ…
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = Je’epyre ñemyanyhẽpyre.
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = Ojavy ehupikuévo pe je’epyre:
+# Text displayed when the page has no manifest available
+manifest-non-existing = Ndojejuhúi je’epyre ojehechajey hag̃ua.

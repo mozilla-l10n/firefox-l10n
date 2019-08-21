@@ -41,6 +41,14 @@ monitor-title = Ema’ẽag̃uíke mba’ekuaarã ñembyaíre
 monitor-link = Mba'éichapa oba'apo
 monitor-sign-up = Eñemboheraguapy og̃uahẽ hag̃ua ndéve ñembyai rehegua
 auto-scan = Ijehegui ohechajey ko árape
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-addresses =
+    { $count ->
+        [one] Ñanduti veve kundaharape ojehechapy’ỹiva.
+       *[other] Ñanduti veve kundaharape ojehechapy’ỹiva.
+    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Eho ñemigua moĩporãme
 # This is the title attribute describing the Lockwise card's link to about:logins
@@ -53,6 +61,20 @@ go-to-saved-logins = Eho jeikeha ñongatupyrépe
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-tracker =
+    .title = Tetepy mo’ãha
+    .aria-label =
+        { $count ->
+            [one] { $count } tetepy mo’ãha ({ $percentage }%)
+           *[other] { $count } tetepy mo’ãha ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Ñemokuãhũ
+    .aria-label =
+        { $count ->
+            [one] { $count } ñemokuãhũ ({ $percentage }%)
+           *[other] { $count } ñemokuãhũ ({ $percentage }%)
+        }
 bar-tooltip-cryptominer =
     .title = Criptomineros
     .aria-label =
