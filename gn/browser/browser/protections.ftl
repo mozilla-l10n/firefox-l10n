@@ -2,6 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+graph-week-summary =
+    { $count ->
+        [one] { -brand-short-name } ojoko { $count } rapykuehoha arapokõindy ohasaramóvape
+       *[other] { -brand-short-name } ojoko { $count } rapykuehoha arapokõindy ohasaramóvape
+    }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-summary =
+    { $count ->
+        [one] { $count } rapykuehoha ojejoko { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } guive
+       *[other] { $count } rapykuehoha ojejoko { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } guive
+    }
 protection-report-page-title = Ñemigua ñemo'ã
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.

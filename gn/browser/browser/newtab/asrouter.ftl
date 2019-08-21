@@ -73,6 +73,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Eikundaha ejehapykueho’ỹre
+cfr-protections-panel-body = Eñongatu ne mba’ekuaarã ndéve g̃uarã. { -brand-short-name } omo’ãta heta tapykuehohágui ohecháva mba’etépa ejapo ñandutípe.
 cfr-protections-panel-link-text = Eikuaave
 
 ## What's New toolbar button and panel
@@ -91,6 +92,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = Emyandy { -sync-brand-short-name }
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Anivéke nderesarái ne ñe’ẽñemígui
 
 ## Send Tab
 
