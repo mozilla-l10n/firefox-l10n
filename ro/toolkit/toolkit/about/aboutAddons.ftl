@@ -92,7 +92,7 @@ detail-update-manual =
     .label = Dezactivate
     .tooltiptext = Nu instala actualizările automat
 # Used as a description for the option to allow or block an add-on in private windows.
-detail-private-browsing-label = Execută în ferestre private
+detail-private-browsing-label = Rulează în ferestre private
 detail-private-browsing-description2 = Când are permisiunea, extensia va avea acces la activitățile tale online în timp ce navighezi privat. <label data-l10n-name="detail-private-browsing-learn-more">Află mai multe</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.

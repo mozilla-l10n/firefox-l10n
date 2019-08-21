@@ -141,6 +141,8 @@ newtab-section-menu-privacy-notice = Declarație de confidențialitate
 
 ## Section aria-labels
 
+newtab-section-expand-section-label =
+    .aria-label = Extinde secțiunea
 
 ## Section Headers.
 
@@ -160,6 +162,8 @@ newtab-empty-section-topstories = Ai ajuns la capăt. Revino mai târziu pentru 
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-try-again-button = Încearcă din nou
+newtab-discovery-empty-section-topstories-loading = Se încarcă…
 
 ## Pocket Content Section.
 

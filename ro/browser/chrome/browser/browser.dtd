@@ -137,6 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Va trebui să îți verifici contul înainte de a putea sincroniza.">
 <!ENTITY fxa.unverified.button.label "Deschide setările pentru &syncBrand.shortName.label;…">
 
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -154,6 +155,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Trimite o filă instantaneu oricărui dispozitiv pe care te-ai autentificat.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -811,6 +813,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Securitatea conexiunii">
 
 <!ENTITY identity.connectionSecure2 "Conexiune securizată">
 <!ENTITY identity.connectionNotSecure "Conexiunea nu este securizată">
@@ -823,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Datele de autentificare introduse pe această pagină ar putea fi compromise.">
 <!ENTITY identity.customRoot "Conexiune verificată de un emițător de certificate nerecunoscut de Mozilla.">
 
+<!ENTITY identity.evOwnerLabel "Site deținut de:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; a blocat părți de pe această pagină care nu sunt sigure.">
@@ -892,13 +896,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Site-ul tot nu funcționează corespunzător după dezactivarea protecțiilor?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Trimite un raport">
 
-<!ENTITY protections.blocking.label "Elemente care sunt blocate">
-<!ENTITY protections.notBlocking.label "Elemente care nu sunt blocate">
+<!ENTITY protections.blocking2.label "Blocate">
+<!ENTITY protections.notBlocking2.label "Permise">
 <!ENTITY protections.notBlocking.why.label "De ce?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Blocarea acestora poate împiedica funcționarea elementelor anumitor site-uri web. Fără elementele de urmărire, este posibil ca unele butoane, formulare și câmpuri de autentificare să nu funcționeze.">
+<!ENTITY protections.notFound.label "Nedepistate deloc">
 <!ENTITY protections.socialMediaTrackers.label "Elemente de urmărire ale rețelelor sociale">
 <!ENTITY protections.crossSiteTrackingCookies.label "Cookie-uri de urmărire între site-uri">
 <!ENTITY protections.trackingContent.label "Conținut de urmărire">
+<!ENTITY protections.fingerprinters.label "Detectoare de amprente digitale">
 <!ENTITY protections.cryptominers.label "Criptomineri">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Aceste cookie-uri te urmăresc de pe un site pe altul pentru a colecta date despre ceea ce faci online. Acestea sunt setate de terțe părți precum agenții de publicitate și companiile de analiză.">
