@@ -898,11 +898,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Site ainda com problemas após desativar proteções?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Enviar um relato">
 
-<!ENTITY protections.blocking.label "Bloqueando">
-<!ENTITY protections.notBlocking.label "Não bloqueando">
+<!ENTITY protections.blocking2.label "Bloqueado">
+<!ENTITY protections.notBlocking2.label "Permitido">
 <!ENTITY protections.notBlocking.why.label "Por que?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Bloquear isso pode interferir em elementos em alguns sites. Sem rastreadores, alguns botões, formulários e campos de acesso a contas podem não funcionar.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Desativar proteções dará permissão a todos os rastreadores neste site. Também pode melhorar algumas funcionalidades do site.">
+<!ENTITY protections.notFound.label "Nenhum detectado">
 <!ENTITY protections.socialMediaTrackers.label "Rastreadores de mídias sociais">
 <!ENTITY protections.crossSiteTrackingCookies.label "Cookies de rastreamento entre sites">
 <!ENTITY protections.trackingContent.label "Conteúdo de rastreamento">
