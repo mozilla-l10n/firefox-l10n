@@ -22,12 +22,14 @@ login-app-promo-subtitle = Eq'o ku'tzan u aplicación as oy kuxhtu'{ -lockwise-b
 
 login-item-edit-button = B'an tuche'
 login-item-delete-button = Eesa el
+login-item-save-new-button = Kola
 
 ## Master Password notification
 
 
 ## Dialogs
 
+confirm-delete-dialog-confirm-button = Eesa el
 
 ## Breach Alert notification
 
