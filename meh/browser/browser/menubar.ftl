@@ -113,15 +113,54 @@ menu-view-history-button =
 menu-view-synced-tabs-sidebar =
     .label = Pestañas sincronizadas
 menu-view-full-zoom =
-    .label = Zoom
-    .accesskey = Z
+    .label = Sá´á ka´nu
+    .accesskey = S
+menu-view-full-zoom-enlarge =
+    .label = Sá´á ka´nu
+    .accesskey = S
+menu-view-full-zoom-reduce =
+    .label = Sá´á luli
+    .accesskey = S
+menu-view-full-zoom-reset =
+    .label = Niko kua íyó
+    .accesskey = N
+menu-view-full-zoom-toggle =
+    .label = Sama tu´un
+    .accesskey = S
+menu-view-page-style-menu =
+    .label = Estilo de página
+    .accesskey = E
+menu-view-page-style-no-style =
+    .label = Nkoka
+    .accesskey = N
+menu-view-page-basic-style =
+    .label = Básico
+    .accesskey = B
+menu-view-charset =
+    .label = Codificación de texto
+    .accesskey = C
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Kajie'e pantalla ka´nu
+    .accesskey = K
+menu-view-exit-full-screen =
+    .label = Kene nuu pantalla ka'nu
+    .accesskey = K
+menu-view-full-screen =
+    .label = Pantalla ka'nu
+    .accesskey = P
 
 
 
+menu-view-show-all-tabs =
+    .label = Xituvi kuaiyo daa pestañas
+    .accesskey = X
+menu-view-bidi-switch-page-direction =
+    .label = Sama jikotiyu página ya´a
+    .accesskey = S
 
 ## History Menu
 
@@ -130,36 +169,93 @@ menu-history =
     .accesskey = s
 menu-history-show-all-history =
     .label = Tuvi kuaiyo sɨ´ɨ
+menu-history-clear-recent-history =
+    .label = Xinó a nnánukunu...
+menu-history-synced-tabs =
+    .label = Pestañas sincronizadas
+menu-history-restore-last-session =
+    .label = Nate tuku sesión yata
+menu-history-hidden-tabs =
+    .label = Pestañas yu'u
+menu-history-undo-menu =
+    .label = Pestañas skuata nnakasɨ
+menu-history-undo-window-menu =
+    .label = Ventanas skuata nnakasɨ
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = A ta´a ininu
+    .accesskey = A
+menu-bookmarks-show-all =
+    .label = Xituvi kuaiyo a ta´a ini noo´o
+menu-bookmarks-all-tabs =
+    .label = Tee daa pestañas nune...
+menu-bookmarks-toolbar =
+    .label = A ta´a ini noo´o
+menu-bookmarks-other =
+    .label = Inka a ta´a ini noo´o
+menu-bookmarks-mobile =
+    .label = A ta´a ini noo´o móviles
 
 ## Tools Menu
 
+menu-tools =
+    .label = Herramientas
+    .accesskey = H
 menu-tools-downloads =
     .label = Daa nxinú
     .accesskey = D
 menu-tools-addons =
     .label = Ka̱a̱ chunta´an
     .accesskey = C
+menu-tools-sync-sign-in =
+    .label = Kajie'e sesión { -sync-brand-short-name }...
+    .accesskey = y
+menu-tools-sync-now =
+    .label = Sincronizar ntañu´u
+    .accesskey = S
+menu-tools-sync-re-auth =
+    .label = Nakɨvu tuku { -sync-brand-short-name }...
+    .accesskey = N
 menu-tools-web-developer =
     .label = Ñivɨ sa´a Web
-    .accesskey = W
+    .accesskey = Ñ
+menu-tools-page-source =
+    .label = Código vaji yata nuu ya´a
+    .accesskey = C
+menu-tools-page-info =
+    .label = Tu´un jie´e nuu ya´a
+    .accesskey = T
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Kaji
+           *[other] Preferencias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] f
+        }
+menu-tools-layout-debugger =
+    .label = Depurador de diseño
+    .accesskey = L
 
 ## Window Menu
 
 menu-window-menu =
-    .label = ventana
+    .label = Ventana
 menu-window-bring-all-to-front =
-    .label = Nake´en kuaiyo jee tajima nua
+    .label = Nake´en kuaiyo stuvima nuu
 
 ## Help Menu
 
 menu-help =
-    .label = chineii
-    .accesskey = H
+    .label = Chinei
+    .accesskey = C
 menu-help-product =
-    .label = { -brand-shorter-name } Chineii
+    .label = { -brand-shorter-name } Chinei
     .accesskey = C
 menu-help-show-tour =
     .label = { -brand-shorter-name } Tour
