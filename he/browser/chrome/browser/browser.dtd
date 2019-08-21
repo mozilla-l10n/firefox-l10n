@@ -892,9 +892,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "האתר עדיין מוצג בצורה לא תקינה לאחר כיבוי ההגנות?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "שליחת דיווח">
 
-<!ENTITY protections.blocking.label "בחסימה">
-<!ENTITY protections.notBlocking.label "לא בחסימה">
 <!ENTITY protections.notBlocking.why.label "למה?">
+<!ENTITY protections.notFound.label "לא אותרו">
 <!ENTITY protections.socialMediaTrackers.label "רכיבי מעקב של מדיה חברתית">
 <!ENTITY protections.crossSiteTrackingCookies.label "עוגיות מעקב חוצות אתרים">
 <!ENTITY protections.trackingContent.label "תוכן מעקב">
