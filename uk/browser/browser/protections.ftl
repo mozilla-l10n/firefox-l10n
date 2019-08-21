@@ -36,7 +36,7 @@ graph-today = Сьогодні
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Графік відображає загальну кількість стеження кожного типу, заблокованого цього тижня.
 social-tab-title = Стеження соціальних мереж
-social-tab-contant = Соціальні мережі розміщують елементи стеження на інших веб-сайтах, щоб стежити за вашими діями в інтернеті. Це дозволяє соціальним мережам вивчати більше про вас, окрім того, чим ви ділитеся в своєму профілі соціальних мереж. <a data-l10n-name="learn-more-link">Докладніше</a>
+social-tab-contant = Соціальні мережі розміщують елементи стеження на інших веб-сайтах, щоб стежити за вашими діями в інтернеті. Це дозволяє їм дізнаватися більше про вас, окрім того, чим ви ділитеся в своєму профілі. <a data-l10n-name="learn-more-link">Докладніше</a>
 cookie-tab-title = Куки стеження між сайтами
 cookie-tab-content = Ці куки переслідують вас від одного сайту до іншого, з метою збирання даних про вашу діяльність онлайн. Вони встановлюються сторонніми рекламними й аналітичними компаніями. Блокування куків стеження між сайтами зменшує кількість реклами, що переслідує вас. <a data-l10n-name="learn-more-link">Докладніше</a>
 tracker-tab-title = Вміст стеження
@@ -67,16 +67,16 @@ manage-devices = Керувати пристроями
 #   $count (Number) - Number of devices connected with sync.
 lockwise-sync-status =
     { $count ->
-        [one] Синхронізація з { $count } іншим пристроєм
-        [few] Синхронізація з { $count } іншими пристроями
-       *[many] Синхронізація з { $count } іншими пристроями
+        [one] Синхронізується з { $count } іншим пристроєм
+        [few] Синхронізується з { $count } іншими пристроями
+       *[many] Синхронізується з { $count } іншими пристроями
     }
 lockwise-sync-not-syncing = Не синхронізується з іншими пристроями.
 monitor-title = Стежте за витоками даних
 monitor-link = Як це працює
 monitor-header-content = Спробуйте { -monitor-brand-name }, щоб перевірити чи ви потрапили до витоку даних, а також отримуйте попередження про нові витоки.
 monitor-header-content-logged-in = { -monitor-brand-name } попереджає вас, якщо ваша інформація з'явилася у відомих витоках даних
-monitor-sign-up = Підпишіться на сповіщення про витоки даних
+monitor-sign-up = Підписатися на сповіщення
 auto-scan = Автоматично проскановано сьогодні
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
