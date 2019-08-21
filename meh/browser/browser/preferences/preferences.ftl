@@ -14,6 +14,9 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 focus-search =
     .key = f
 close-button =
@@ -22,6 +25,7 @@ close-button =
 ## Browser Restart Dialog
 
 should-restart-ok = Nakajie´e { -brand-short-name } ntañu´u
+cancel-no-restart-button = Nkuvi-ka
 
 ## Extension Control Notifications
 ##
@@ -87,6 +91,9 @@ network-proxy-connection-learn-more = Ka´vi jiee ya´a
 ## Home Section - Home Page Customization
 
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-bar-header = Nuu nánuku
@@ -109,6 +116,9 @@ containers-remove-button =
 sync-disconnect =
     .label = Kene...
     .accesskey = K
+sync-device-name-cancel =
+    .label = Nkuvi-ka
+    .accesskey = N
 
 ## Privacy Section
 

@@ -10,4 +10,5 @@ hf-blank =
 # $percent (integer) - Number of printed percentage
 print-percent =
     .value = { $percent }%
+dialog-cancel-label = Nkuvi-ka
 dialog-close-label = Nakasɨ
