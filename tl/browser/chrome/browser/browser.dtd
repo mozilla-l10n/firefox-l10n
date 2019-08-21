@@ -426,7 +426,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Itago ang Synced Tabs Sidebar">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Ikonekta ang Isa pang Device">
 
-<!ENTITY appMenuRecentHighlights.label "Kamakailang Mga Tampok">
+<!ENTITY appMenuRecentHighlights.label "Mga Nangunguna Kamakailan">
 
 <!ENTITY customizeMenu.addToToolbar.label "Ilagay sa Toolbar">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
@@ -1056,4 +1056,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
-<!ENTITY accessibilityIndicator.tooltip "Pinagana ang Mga Tampok ng Accessibility">
+<!ENTITY accessibilityIndicator.tooltip "Naka-enable ang mga Accessibility Feature">
