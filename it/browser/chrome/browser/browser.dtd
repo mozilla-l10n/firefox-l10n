@@ -598,7 +598,7 @@
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Il sito non funziona nonostante le protezioni siano state disattivate?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Invia una segnalazione">
 <!ENTITY protections.blocking2.label "Bloccati">
-<!ENTITY protections.notBlocking2.label "Non bloccati">
+<!ENTITY protections.notBlocking2.label "Consentiti">
 <!ENTITY protections.notBlocking.why.label "Perché?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Il blocco di questi elementi potrebbe causare il parziale malfunzionamento di alcuni siti web. Senza elementi traccianti, alcuni pulsanti, moduli e campi di accesso non funzionano correttamente.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Disattivando le protezioni verranno consentiti tutti gli elementi traccianti su questo sito. Questa operazione potrebbe anche migliorare il funzionamento di alcune parti del sito web.">
@@ -614,7 +614,7 @@
 <!ENTITY protections.fingerprinters.description "I fingerprinter raccolgono informazioni sulle impostazioni del browser e del computer al fine di creare un tuo profilo. Utilizzando questa “impronta digitale” sono in grado di seguirti attraverso siti diversi.">
 <!ENTITY protections.trackingContent.description "I siti web possono caricare pubblicità, video e altri contenuti da fonti esterne che includono elementi traccianti. Il blocco degli elementi traccianti può velocizzare il caricamento dei siti, ma può causare il malfunzionamento di pulsanti, moduli e campi di accesso.">
 <!ENTITY protections.socialMediaTrackers.description "I social network impostano elementi traccianti in altri siti per scoprire cosa fai, leggi e guardi quando sei online. In questo modo sono in grado di raccogliere molte più informazioni rispetto a quello che condividi nei tuoi profili online.">
-<!ENTITY identity.contentBlockingPreferences.tooltip "Apri preferenze per il blocco contenuti">
+<!ENTITY identity.contentBlockingPreferences.tooltip "Apri preferenze relative al blocco contenuti">
 <!ENTITY tabsToolbar.label "Schede del browser">
 <!ENTITY syncTabsMenu3.label "Schede sincronizzate">
 <!ENTITY syncedTabs.sidebar.label "Schede sincronizzate">

@@ -44,7 +44,7 @@
 <!ENTITY addon.updateAvailable.label "È disponibile un aggiornamento">
 <!ENTITY addon.checkingForUpdates.label "Ricerca aggiornamenti…">
 <!ENTITY addon.releaseNotes.label "Note di versione:">
-<!ENTITY addon.loadingReleaseNotes.label "Caricamento…">
+<!ENTITY addon.loadingReleaseNotes.label "Caricamento in corso…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Siamo spiacenti, si è verificato un errore durante il caricamento delle note di versione.">
 <!ENTITY addon.createdBy.label "di ">
 <!ENTITY settings.path.button.label "Sfoglia…">
