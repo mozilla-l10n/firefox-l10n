@@ -901,6 +901,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.blocking2.label "Blokkert">
 <!ENTITY protections.notBlocking2.label "Tillate">
 <!ENTITY protections.notBlocking.why.label "Kvifor?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokkering av desse kan føre til feil med element på nokre nettstadar. Utan sporfølgjarar fungerer kanskje ikkje nokre knappar, skjema og innloggingsfelt.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Slår du av vern, vil det tillate alle sporfølgjarar på denne nettstaden. Det kan òg forbetre funksjonalitet på nettstaden.">
 <!ENTITY protections.notFound.label "Ingen oppdaga">
 <!ENTITY protections.socialMediaTrackers.label "Sporing via sosiale medium">
@@ -910,6 +911,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.label "Kryptominarar">
 <!ENTITY protections.noTrackersFound.description "Ingen sporfølgjarar kjende for &brandShortName; vart oppdaga på denne sida.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Desse infokapslane følgjer deg frå side til side for å samle inn data om kva du gjer på nettet. Dei kjem frå tredjepartar som annonsørar og analyseselskap.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
