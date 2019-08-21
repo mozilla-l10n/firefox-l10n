@@ -898,11 +898,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Er nettstedet fremdeles ødelagt, selv etter å ha slått av beskyttelsen?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Send inn en rapport">
 
-<!ENTITY protections.blocking.label "Blokkerer">
-<!ENTITY protections.notBlocking.label "Blokkerer ikke">
+<!ENTITY protections.blocking2.label "Blokkert">
+<!ENTITY protections.notBlocking2.label "Tillatt">
 <!ENTITY protections.notBlocking.why.label "Hvorfor?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokkering av disse kan føre til feil med elementer på noen nettsteder. Uten sporere fungerer kanskje ikke noen knapper, skjemaer og innloggingsfelt.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Ved å slå av beskyttelse tillates alle sporer på dette nettstedet. Det kan også forbedre noe funksjonalitet på nettstedet.">
+<!ENTITY protections.notFound.label "Ingen oppdaget">
 <!ENTITY protections.socialMediaTrackers.label "Sporing via sosiale medier">
 <!ENTITY protections.crossSiteTrackingCookies.label "Sporingsinfokapsler på tvers av nettsteder">
 <!ENTITY protections.trackingContent.label "Sporings-innhold">
