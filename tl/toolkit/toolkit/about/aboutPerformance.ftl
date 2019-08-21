@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Page title
+about-performance-title = Task Manager
 
 ## Column headers
 
@@ -12,6 +14,7 @@ column-memory = Memory
 
 ## Special values for the Name column
 
+ghost-windows = Mga isinarang tab kamakailan
 
 ## Values for the Type column
 

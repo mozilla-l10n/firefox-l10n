@@ -9,7 +9,10 @@ profiles-restart-title = I-restart
 profiles-restart-in-safe-mode = I-restart na may Add-ons Disabled...
 profiles-restart-normal = I-restart ng pangkaraniwan...
 profiles-conflict = May isa pang kopya ng { -brand-product-name } na gumawa ng pagbabago sa mga profile. Kailangan mo munang mag-restart ng { -brand-short-name } bago makagawa ng karagdagang pagbabago.
+profiles-flush-fail-title = Hindi na-save ang mga pagbabago
 profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = May di-inaasahang problemang humadlang para ma-save ang mga binago mo.
+profiles-flush-restart-button = I-restart ang { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profile: { $name }
@@ -23,6 +26,7 @@ profiles-rootdir = Root Directory
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Lokal na Direktoryo
 profiles-current-profile = Ito ang profile na ginagamit at hindi ito maaaring matanggal.
+profiles-in-use-profile = Ginagamit ng isa pang application ang profile na ito kaya hindi ito pwedeng burahin.
 profiles-rename = Palitan ang pangalan
 profiles-remove = Alisin
 profiles-set-as-default = Itakda bilang default na profile
@@ -48,6 +52,8 @@ profiles-delete-profile-confirm =
      Nais mo bang tanggalin ang mga file ng profile?
 profiles-delete-files = Tanggalin ang Mga File
 profiles-dont-delete-files = Huwag Tanggalin ang Mga File
+profiles-delete-profile-failed-title = Error
+profiles-delete-profile-failed-message = Nagkaproblema habang sinusubukang burahin ang profile na ito.
 profiles-opendir =
     { PLATFORM() ->
         [macos] Ipakita sa Finder

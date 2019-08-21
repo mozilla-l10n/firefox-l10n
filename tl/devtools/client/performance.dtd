@@ -43,6 +43,12 @@
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "Kabuuang Oras">
 <!ENTITY performanceUI.table.totalDuration.tooltip    "Ang halaga ng oras na ginugol sa function na ito at mga function na ito tawag.">
+<!ENTITY performanceUI.table.selfDuration             "Self Time">
+<!ENTITY performanceUI.table.selfDuration.tooltip     "Ang panahong ginamit lang sa loob ng function na ito.">
+<!ENTITY performanceUI.table.totalPercentage          "Pangkabuuang Halaga">
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "Ang porsyento ng panahong ginamit sa function na ito at ang mga function na tinawag nito.">
+<!ENTITY performanceUI.table.selfPercentage           "Self Cost">
+<!ENTITY performanceUI.table.selfPercentage.tooltip   "Ang porsyento ng panahong ginamit lang sa loob ng function na ito.">
 <!ENTITY performanceUI.table.samples                  "Mga halimbawa">
 <!ENTITY performanceUI.table.function                 "Function">
 
@@ -97,3 +103,5 @@
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
+<!ENTITY performanceUI.console.stopCommandStart "Itigil ang pag-record sa pamamagitan ng pagpasok ng">
+<!ENTITY performanceUI.console.stopCommandEnd   "sa loob ng console.">
