@@ -137,6 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Ehechajeyva’erã ne mba’ete embojuehe mboyve.">
 <!ENTITY fxa.unverified.button.label "Eike &syncBrand.shortName.label; Ñoĩporã…">
 
+<!ENTITY pictureInPictureHideToggle.label "Emokañy votõ Picture-in-Picture (PIP)">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -897,11 +898,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "¿Ko tenda moñemyanyhẽi gueteri ojepe’a rire ñemo’ã?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Emondo marandu'i">
 
-<!ENTITY protections.blocking.label "Ojokohína">
-<!ENTITY protections.notBlocking.label "Ani ejoko">
+<!ENTITY protections.blocking2.label "Jokopyre">
+<!ENTITY protections.notBlocking2.label "Moneĩmbyre ">
 <!ENTITY protections.notBlocking.why.label "¿Mba'ére?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Ko’ãva jejoko ikatu ombyai mba’epuru ñanduti renda pegua. Jehapykuehoha’ỹre heta votõ, myanyhẽha ha tembiapo ñepyrũ rekoha ikatu ndoikói.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Ñemo’ãha jepe’a ombojurujáta opaite jehapykuehoha ko tendápe. Ikatu avei omba’apo porãve.">
+<!ENTITY protections.notFound.label "Ndaipóri juhupyre">
 <!ENTITY protections.socialMediaTrackers.label "Ava ñandutieta rapykuehoha">
 <!ENTITY protections.crossSiteTrackingCookies.label "Kookie rapykuehoha tenda ojoasáva rehegua">
 <!ENTITY protections.trackingContent.label "Tetepu rapykuehoha">
@@ -955,6 +957,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection4.label "Tetepy jehapykueho">
 
+<!ENTITY contentBlocking.manageSettings2.label "Eñangareko ñemo’ã ñembohekóre">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Hekahára">
@@ -966,6 +969,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.socialblock.label "Ava ñandutieta vore rapykuehoha">
 
+<!ENTITY contentBlocking.cookies2.label "Kookie rapykuehoha tenda ojoasáva rehegua">
 
 <!ENTITY contentBlocking.cryptominers.label "Criptominero">
 <!ENTITY contentBlocking.cryptominersView.label "Criptominero">
