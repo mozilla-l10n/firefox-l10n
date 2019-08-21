@@ -250,6 +250,12 @@ shortcuts-modifier-other = Ctrl vagy Alt gombot tartalmaz
 shortcuts-invalid = Érvénytelen kombináció
 shortcuts-letter = Írjon be egy betűt
 shortcuts-system = Nem írhat felül egy { -brand-short-name } gyorsbillentyűt
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Ismétlődő parancsikon
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = A { $shortcut } gyorsbillentyű több mint egy esetben van használva. Az ismétlődő gyorsbillentyűk váratlan viselkedést okozhatnak.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
