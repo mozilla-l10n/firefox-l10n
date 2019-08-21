@@ -118,6 +118,10 @@
 
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Reordigi kunsendaĵojn">
+<!ENTITY moveAttachmentTopPanelBtn.label "Movi plej supren">
+<!ENTITY moveAttachmentUpPanelBtn.label "Movi supren">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Movi kune">
+<!ENTITY moveAttachmentDownPanelBtn.label "Movi malsupren">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
