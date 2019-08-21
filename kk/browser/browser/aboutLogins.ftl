@@ -3,11 +3,27 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Логиндер және парольдер
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Парольдеріңізді барлық жерде алыңыз
+login-app-promo-subtitle = Тегін { -lockwise-brand-name } қолданбасын алыңыз
+login-app-promo-android =
+    .alt = Оны Google Play ішінен алыңыз
+login-app-promo-apple =
+    .alt = App Store ішінен жүктеп алыңыз
 login-filter =
     .placeholder = Логиндерден іздеу
 create-login-button = Жаңа торапты жасау
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = { $title } үшін таңбаша
 fxaccounts-sign-in-text = Парольдеріңізді басқа құрылғыларыңызды алыңыз
 fxaccounts-sign-in-button = { -sync-brand-short-name } ішіне кіріңіз
+fxaccounts-avatar-button =
+    .title = Тіркелгіні басқару
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -35,6 +51,7 @@ login-list-count =
     }
 login-list-sort-label-text = Бойынша сұрыптау:
 login-list-name-option = Аты (A-Z)
+login-list-breached-option = Бұзылған веб-сайттар
 login-list-last-changed-option = Соңғы рет өзгертілген
 login-list-last-used-option = Соңғы қолданылған
 login-list-intro-title = Логиндер табылмады
