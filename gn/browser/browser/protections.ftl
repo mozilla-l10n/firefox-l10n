@@ -28,6 +28,19 @@ tracker-tab-title = Tetepy mo’ãha
 fingerprinter-tab-title = Ñemokuãhũ
 cryptominer-tab-title = Criptomineros
 lockwise-title-logged-in = { -lockwise-brand-name }
+manage-devices = Eñangareko mba’e’okáre
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-sync-status =
+    { $count ->
+        [one] Ñembojuehe { $count } ambue mba’e’oka rehe
+       *[other] Ñembojuehe { $count } ambue mba’e’oka rehe
+    }
+lockwise-sync-not-syncing = Nombojuehéi ambue mba’e’oka rehe.
+monitor-title = Ema’ẽag̃uíke mba’ekuaarã ñembyaíre
+monitor-link = Mba'éichapa oba'apo
+monitor-sign-up = Eñemboheraguapy og̃uahẽ hag̃ua ndéve ñembyai rehegua
+auto-scan = Ijehegui ohechajey ko árape
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Eho ñemigua moĩporãme
 # This is the title attribute describing the Lockwise card's link to about:logins
