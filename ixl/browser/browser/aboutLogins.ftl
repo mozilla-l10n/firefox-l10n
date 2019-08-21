@@ -6,6 +6,7 @@ about-logins-page-title = Ixe't aq'on as Iku' texhla uva' axh kuxh ootzin tetz
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = Eq'on chit kach'ub' jajb'al tetze' katilaj kuxhtu'
 
 ## The ⋯ menu that is in the top corner of the page
 
