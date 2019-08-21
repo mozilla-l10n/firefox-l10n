@@ -7,7 +7,7 @@ about-logins-page-title = Ixe't aq'on as iku' texhla uva' axh kuxh ootzin tetz
 # "Google Play" and "App Store" are both branding and should not be translated
 
 login-app-promo-title = Eq'on chit u texhlal kach'ub'  tetze'  see' katil  kuxhtu'
-login-app-promo-subtitle = Eq'o ku'tzan u aplicación as oy kuxhtu'{ -lockwise-brand-name }
+login-app-promo-subtitle = Eq'o ku'tzan u aplicación as oy kuxhtu' { -lockwise-brand-name }
 login-app-promo-android =
     .alt = Eq'oku'tzan tu Google Play
 login-app-promo-apple =
@@ -36,6 +36,9 @@ menu-menuitem-preferences =
         [windows] Unka'te
        *[other] Uve' ni chit asa'
     }
+menu-menuitem-feedback = La aaq'b'en ayol
+menu-menuitem-faq = Unq'a vee' pal chit ich'otile'
+menu-menuitem-android-app = { -lockwise-brand-short-name } tetz Android
 
 ## Login List
 
@@ -47,6 +50,8 @@ menu-menuitem-preferences =
 
 login-item-edit-button = B'an tuche'
 login-item-delete-button = Eesa el
+login-item-origin =
+    .placeholder = https://www.example.com
 login-item-save-new-button = Kola
 
 ## Master Password notification
