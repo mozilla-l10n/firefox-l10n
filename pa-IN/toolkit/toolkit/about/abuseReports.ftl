@@ -19,6 +19,7 @@ abuse-report-submit-button = ਭੇਜੋ
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = ਹਾਂ, ਇਹ ਹਟਾਓ
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
