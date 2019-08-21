@@ -597,11 +597,12 @@
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Video">
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Il sito non funziona nonostante le protezioni siano state disattivate?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Invia una segnalazione">
-<!ENTITY protections.blocking.label "Bloccati">
-<!ENTITY protections.notBlocking.label "Non bloccati">
+<!ENTITY protections.blocking2.label "Bloccati">
+<!ENTITY protections.notBlocking2.label "Non bloccati">
 <!ENTITY protections.notBlocking.why.label "Perché?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Il blocco di questi elementi potrebbe causare il parziale malfunzionamento di alcuni siti web. Senza elementi traccianti, alcuni pulsanti, moduli e campi di accesso non funzionano correttamente.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Disattivando le protezioni verranno consentiti tutti gli elementi traccianti su questo sito. Questa operazione potrebbe anche migliorare il funzionamento di alcune parti del sito web.">
+<!ENTITY protections.notFound.label "Nessun elemento rilevato">
 <!ENTITY protections.socialMediaTrackers.label "Traccianti dei social media">
 <!ENTITY protections.crossSiteTrackingCookies.label "Cookie traccianti intersito">
 <!ENTITY protections.trackingContent.label "Contenuti traccianti">
