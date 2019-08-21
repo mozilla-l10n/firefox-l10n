@@ -69,5 +69,11 @@ serviceworker-empty-suggestions-debugger = Service Worker kaydınızı adım ad�
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Diğer alan adlarındaki Service Worker’ları denetleyin. <a>about:debugging’i aç</a>
-# Text displayed when no manifest was found for the current page.
-manifest-empty-intro = Denetlenecek bir manifest bulunamadı.
+# Text displayed while we are loading the manifest file
+manifest-loading = Manifest yükleniyor…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Manifest yüklendi.
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = Manifest yüklenirken bir hata oluştu:
+# Text displayed when the page has no manifest available
+manifest-non-existing = İncelenecek bir manifest bulunamadı.

@@ -30,6 +30,8 @@ etp-card-title = Gelişmiş İzlenme Koruması
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Bugün
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Bu hafta engellenen her takipçi türünün toplam sayısını gösteren bir grafik.
 social-tab-title = Sosyal medya takipçileri
 cookie-tab-title = Siteler arası takip çerezleri
 tracker-tab-title = Takip amaçlı içerikler
@@ -41,6 +43,14 @@ lockwise-header-content = { -lockwise-brand-name } parolalarınızı tarayınız
 lockwise-header-content-logged-in = Parolalarınızı güvenle saklayın ve tüm cihazlarınızla senkronize edin.
 open-about-logins-button = { -brand-short-name } ile aç
 lockwise-no-logins-content = Parolalarınızı yanınızda taşımak için <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> uygulamasını yükleyin.
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] parola güvenli şekilde depolanıyor <a data-l10n-name="lockwise-how-it-works">Nasıl çalışır?</a>
+       *[other] parola güvenli şekilde depolanıyor <a data-l10n-name="lockwise-how-it-works">Nasıl çalışır?</a>
+    }
 turn-on-sync = { -sync-brand-short-name }’i etkinleştir…
     .title = Eşitleme tercihlerine git
 manage-devices = Cihazları yönet
@@ -52,7 +62,9 @@ lockwise-sync-status =
        *[other] { $count } cihazla eşitleniyor
     }
 lockwise-sync-not-syncing = Diğer cihazlarla eşitlenmiyor.
+monitor-title = Veri hırsızlıklarından haberin olsun
 monitor-link = Nasıl çalışır?
+monitor-header-content-logged-in = Bilgileriniz bilinen bir veri ihlalinde yer alırsa { -monitor-brand-name } sizi uyarır
 monitor-sign-up = İhlal uyarılarına kaydolun
 auto-scan = Bugün otomatik olarak tarandı
 # This string is displayed after a large numeral that indicates the total number
@@ -79,6 +91,7 @@ info-exposed-passwords =
         [one] parolanız veri ihlallerinde ele geçirildi.
        *[other] parolanız veri ihlallerinde ele geçirildi.
     }
+full-report-link = Raporun tamamını <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>’de görebilirsiniz
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Gizlilik ayarlarına git
 # This is the title attribute describing the Lockwise card's link to about:logins

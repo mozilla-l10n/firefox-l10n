@@ -898,11 +898,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Korumaları kapatmanıza rağmen site düzgün çalışmıyor mu?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Rapor gönderin">
 
-<!ENTITY protections.blocking.label "Engelleniyor">
-<!ENTITY protections.notBlocking.label "Engellenmiyor">
+<!ENTITY protections.blocking2.label "Engellendi">
+<!ENTITY protections.notBlocking2.label "İzin verildi">
 <!ENTITY protections.notBlocking.why.label "Neden?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Bunları engellemek bazı web sitelerini kısmen bozabilir. Takipçiler engellendiğinde bazı düğmeler, formlar ve giriş alanları çalışmayabilir.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Korumaları kapattığınızda bu sitedeki tüm takipçilere izin verilecektir. Önceden çalışmayan site işlevleri de çalışır hale gelebilir.">
+<!ENTITY protections.notFound.label "Hiçbir şey bulunamadı">
 <!ENTITY protections.socialMediaTrackers.label "Sosyal Medya Takipçileri">
 <!ENTITY protections.crossSiteTrackingCookies.label "Siteler arası takip çerezleri">
 <!ENTITY protections.trackingContent.label "Takip amaçlı içerikler">
