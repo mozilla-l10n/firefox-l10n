@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = ការចូល និង​ពាក្យ​សម្ងាត់
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = នាំ​យក​ពាក្យ​សម្ងាត់​របស់​អ្នក​គ្រប់​ទីកន្លែង
+login-app-promo-subtitle = ទាញយក​កម្មវិធី { -lockwise-brand-name } ឥត​គិតថ្លៃ
+login-app-promo-android =
+    .alt = ទាញយក​កម្មវិធី​នៅ​លើ Google Play
+login-app-promo-apple =
+    .alt = ទាញយក​នៅ​លើ App Store
 login-filter =
     .placeholder = ស្វែងរក​ការចូល
 create-login-button = បង្កើត​ការចូល​ថ្មី
