@@ -30,13 +30,13 @@
 <!ENTITY helpTroubleshootingInfo.label      "Ka´vi da ya´a saa kuvi nasa´anu ya´a de na iyo va´a">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "Chuiichi da a jianininu">
+<!ENTITY helpFeedbackPage.label      "Chuiichi da a jianininu…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
 <!ENTITY helpShowTour2.label            "&brandShorterName; Tour">
 <!ENTITY helpShowTour2.accesskey        "o">
 
-<!ENTITY preferencesCmdMac.label        "Daa-a ta´aininu...">
+<!ENTITY preferencesCmdMac.label        "Daa-a ta´aininu…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Daa a iyo">
@@ -48,3 +48,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Kune’yá kuaiyo">
+

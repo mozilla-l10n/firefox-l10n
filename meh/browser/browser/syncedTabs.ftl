@@ -14,3 +14,6 @@ synced-tabs-context-open-in-new-window =
 synced-tabs-context-open-in-new-private-window =
     .label = Síne iin ventana yu´u
     .accesskey = p
+synced-tabs-context-copy =
+    .label = Tɨɨn
+    .accesskey = C
