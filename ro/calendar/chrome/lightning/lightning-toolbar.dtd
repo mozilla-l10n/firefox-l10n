@@ -9,7 +9,7 @@
 
 <!ENTITY lightning.toolbar.sync.label "Sincronizare">
 <!ENTITY lightning.toolbar.sync.tooltip "Reîncarcă calendarele și sincronizează schimbările">
-<!ENTITY lightning.toolbar.delete.label "Ștergere">
+<!ENTITY lightning.toolbar.delete.label "Șterge">
 <!ENTITY lightning.toolbar.delete.tooltip "Șterge evenimentele sau sarcinile selectate">
 <!ENTITY lightning.toolbar.edit.label "Editare">
 <!ENTITY lightning.toolbar.edit.tooltip "Editează evenimentele sau sarcinile selectate">
