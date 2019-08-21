@@ -226,6 +226,8 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+go-back-button =
+    .tooltiptext = ਪਿੱਛੇ ਜਾਓ
 
 ## Recommended add-ons page
 
