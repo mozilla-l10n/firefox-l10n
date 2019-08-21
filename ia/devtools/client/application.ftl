@@ -69,5 +69,11 @@ serviceworker-empty-suggestions-debugger = Naviga inter le registrationes de to 
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Inspectar le Laborantes de servicio ex altere dominios. <a>Aperir re:depuration</a>
-# Text displayed when no manifest was found for the current page.
-manifest-empty-intro = Nulle file manifesto trovate a inspectar.
+# Text displayed while we are loading the manifest file
+manifest-loading = Cargante le manifesto…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Manifesto cargate
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = Il habeva un error a cargar le manifesto:
+# Text displayed when the page has no manifest available
+manifest-non-existing = Nulle manifestos a inspectar trovate.

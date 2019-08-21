@@ -90,6 +90,13 @@ cfr-doorhanger-sync-bookmarks-body = Retene tu marcapaginas, contrasignos, chron
 cfr-doorhanger-sync-bookmarks-ok-button = Activar { -sync-brand-short-name }
     .accesskey = A
 
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Nunquam perder ancora un contrasigno
+cfr-doorhanger-sync-logins-body = Salva e synchronisa con securitate tu contrasignos sur tote tu apparatos.
+cfr-doorhanger-sync-logins-ok-button = Activa { -sync-brand-short-name }
+    .accesskey = A
+
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Lege lo ubicunque tu es
