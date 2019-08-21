@@ -898,11 +898,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Jo sedło pó znjemóžnjenju šćitow hyšći wobškóźone?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Rozpšawu pósłaś">
 
-<!ENTITY protections.blocking.label "Blokěrowanje">
-<!ENTITY protections.notBlocking.label "Žedno blokěrowanje">
+<!ENTITY protections.blocking2.label "Blokěrowany">
+<!ENTITY protections.notBlocking2.label "Dowólony">
 <!ENTITY protections.notBlocking.why.label "Cogodla?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Gaž toś te elementy blokěrujośo, snaź wěste websedła wěcej pšawje njefunkcioněruju. Někotare tłocaški, formulary a pśizjawjeńske póla njemógli bźez pśeslědowakow pčawje funkcioněrowaś.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Gaž šćity znjemóžnjaśo, se wšykne pśeslědowaki na toś tom sedle dowólujo. To móžo wěstu funkcionalnosć websedła pólěpšyś.">
+<!ENTITY protections.notFound.label "Njenamakany">
 <!ENTITY protections.socialMediaTrackers.label "Pśeslědowaki socialnych medijow">
 <!ENTITY protections.crossSiteTrackingCookies.label "Slědujuce cookieje mjazy sedłami">
 <!ENTITY protections.trackingContent.label "Slědujuce wopśimjeśe">
