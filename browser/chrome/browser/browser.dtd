@@ -898,11 +898,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Сайт все одно не працює належним чином після вимкнення захисту?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Надіслати звіт">
 
-<!ENTITY protections.blocking.label "Блокування">
-<!ENTITY protections.notBlocking.label "Без блокування">
+<!ENTITY protections.blocking2.label "Заблоковано">
+<!ENTITY protections.notBlocking2.label "Дозволено">
 <!ENTITY protections.notBlocking.why.label "Чому?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Блокування їх може пошкодити елементи деяких веб-сайтів. Деякі кнопки, поля заповнення форм і входів можуть не працювати без стеження.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Вимкнення захисту дозволить всі елементи стеження на цьому сайті. Це також може покращити деякі функції веб-сайту.">
+<!ENTITY protections.notFound.label "Не виявлено">
 <!ENTITY protections.socialMediaTrackers.label "Стеження соціальних мереж">
 <!ENTITY protections.crossSiteTrackingCookies.label "Куки стеження між сайтами">
 <!ENTITY protections.trackingContent.label "Вміст стеження">
