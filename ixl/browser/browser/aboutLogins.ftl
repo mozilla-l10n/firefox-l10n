@@ -53,6 +53,8 @@ login-list-count =
 login-list-sort-label-text = Nuk'el ta'n:
 login-list-name-option = B'ii (A-Z)
 login-list-breached-option = Unq'a tantib'al unq'a web uva' jit b'an tatine'
+login-list-last-changed-option = Itzojpeb'al ve't ib'anax tuche'
+login-list-last-used-option = A'e' a'nnal kuxh ib'anb'ele'
 
 ## Introduction screen
 
