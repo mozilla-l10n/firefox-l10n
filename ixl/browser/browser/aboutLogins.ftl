@@ -14,6 +14,12 @@ login-app-promo-apple =
     .alt = Eq'oku'tzan tu App Store
 login-filter =
     .placeholder = Ichukpu ixe't aq'on
+create-login-button = Cheesa uma't Ak' Ixe'tisal aq'on
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon ti' { $title }
 
 ## The ⋯ menu that is in the top corner of the page
 
