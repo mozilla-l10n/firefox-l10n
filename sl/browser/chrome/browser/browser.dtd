@@ -898,8 +898,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Stran tudi po izklopu zaščite ne deluje?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Pošlji poročilo">
 
-<!ENTITY protections.blocking.label "Zavrnjeno">
-<!ENTITY protections.notBlocking.label "Nezavrnjeno">
+<!ENTITY protections.blocking2.label "Zavrnjeno">
+<!ENTITY protections.notBlocking2.label "Dovoljeno">
 <!ENTITY protections.notBlocking.why.label "Zakaj?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Zavračanje te vsebine lahko povzroči nedelovanje nekaterih delov spletnih strani. Brez sledilcev nekateri gumbi, obrazci in polja za prijavo morda ne bodo delovali.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Z izklopom zaščite bodo vsi sledilci na tej strani dovoljeni. Lahko se tudi izboljša delovanje spletne strani.">
