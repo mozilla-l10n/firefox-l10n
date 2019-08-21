@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Ykepegua – Tetepy jejoko
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Ojeipe’áma tetepy jejoko ko’ã tenda pegua.
+permissions-exceptions-etp-window =
+    .title = Ykepegua tapykuehoha mo’ãha iporãvévape g̃uarã
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Eipe’a mo’ãha ko’ã ñanduti renda pegua.
 
 ## Exceptions - Cookies
 

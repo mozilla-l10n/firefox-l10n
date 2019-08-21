@@ -19,9 +19,13 @@ graph-total-summary =
        *[other] { $count } rapykuehoha ojejoko { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } guive
     }
 protection-report-page-title = Ñemigua ñemo'ã
+protection-report-content-title = Ñemigua mo’ãha
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Ko árape
+social-tab-title = Ava ñandutieta rapykuehoha
+tracker-tab-title = Tetepy mo’ãha
+fingerprinter-tab-title = Ñemokuãhũ
 cryptominer-tab-title = Criptomineros
 lockwise-title-logged-in = { -lockwise-brand-name }
 # This is the title attribute describing the graph report's link to about:settings#privacy
