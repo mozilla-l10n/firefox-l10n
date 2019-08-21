@@ -69,5 +69,11 @@ serviceworker-empty-suggestions-debugger = Przejrzyj rejestrację wątków usłu
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Przejrzyj wątki usługowe z innych domen. <a>Otwórz stronę about:debugging</a>
-# Text displayed when no manifest was found for the current page.
-manifest-empty-intro = Nie odnaleziono manifestu do zbadania.
+# Text displayed while we are loading the manifest file
+manifest-loading = Wczytywanie manifestu…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Wczytano manifest.
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = Wystąpił błąd podczas wczytywania manifestu:
+# Text displayed when the page has no manifest available
+manifest-non-existing = Nie odnaleziono manifestu do zbadania.

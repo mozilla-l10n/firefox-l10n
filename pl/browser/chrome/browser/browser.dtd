@@ -898,11 +898,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Strona nie działa nawet po wyłączeniu ochrony?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Wyślij zgłoszenie">
 
-<!ENTITY protections.blocking.label "Blokowanie">
-<!ENTITY protections.notBlocking.label "Bez blokowania">
+<!ENTITY protections.blocking2.label "Zablokowane">
+<!ENTITY protections.notBlocking2.label "Dopuszczone">
 <!ENTITY protections.notBlocking.why.label "Dlaczego?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokowanie tych elementów może powodować niepoprawne działanie niektórych stron. Bez elementów śledzących niektóre przyciski, formularze i pola logowania mogą nie działać.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Wyłączenie ochrony umożliwi działanie wszystkich elementów śledzących na tej stronie. Może to także naprawić jej funkcjonowanie.">
+<!ENTITY protections.notFound.label "Nie wykryto">
 <!ENTITY protections.socialMediaTrackers.label "Elementy śledzące serwisów społecznościowych">
 <!ENTITY protections.crossSiteTrackingCookies.label "Ciasteczka śledzące między witrynami">
 <!ENTITY protections.trackingContent.label "Treści z elementami śledzącymi">
