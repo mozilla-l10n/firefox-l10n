@@ -55,6 +55,7 @@ login-list-name-option = B'ii (A-Z)
 login-list-breached-option = Unq'a tantib'al unq'a web uva' jit b'an tatine'
 login-list-last-changed-option = Itzojpeb'al ve't ib'anax tuche'
 login-list-last-used-option = A'e' a'nnal kuxh ib'anb'ele'
+login-list-intro-title = Ye'laj xe'teb'al aq'on ati
 
 ## Introduction screen
 
