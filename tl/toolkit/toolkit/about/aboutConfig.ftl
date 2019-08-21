@@ -37,7 +37,7 @@ config-value-column =
 ## These strings are used for tooltips
 
 config-pref-column-header =
-    .tooltip = Pindutin para i-sort
+    .tooltip = Pindutin para pagsunud-sunurin
 config-column-chooser =
     .tooltip = Pindutin para piliin ang hanay na ipapakita
 

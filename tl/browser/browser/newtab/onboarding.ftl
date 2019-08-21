@@ -37,7 +37,7 @@ onboarding-cards-dismiss =
 
 onboarding-sync-welcome-header = Isama ang { -brand-product-name } saan man
 onboarding-sync-welcome-content = Kunin ang mga bookmark, kasaysayan, mga password at iba pang mga setting sa lahat ng iyong mga device.
-onboarding-sync-welcome-learn-more-link = Alamin pa lalo ang tungkol sa Firefox Accounts
+onboarding-sync-welcome-learn-more-link = Alamin ang tungkol sa Firefox Accounts
 onboarding-sync-form-invalid-input = Balidong email ang kinakailangan
 onboarding-sync-legal-notice = Kung magpapatuloy, ikaw ay pumapayag sa mga <a data-l10n-name="terms">Mga Tuntunin sa Serbisyo</a> at <a data-l10n-name="privacy">Abisong Pangbribasiya</a>.
 onboarding-sync-form-input =

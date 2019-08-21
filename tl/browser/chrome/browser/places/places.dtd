@@ -22,9 +22,9 @@
 <!ENTITY view.sort.accesskey            "s">
 <!ENTITY view.unsorted.label            "Unsorted">
 <!ENTITY view.unsorted.accesskey        "U">
-<!ENTITY view.sortAscending.label       "A > Z Sort Order">
+<!ENTITY view.sortAscending.label       "A > Z na Pagkakasunud-sunod">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Z > A Sort Order">
+<!ENTITY view.sortDescending.label      "Z > A na Pagkakasunud-sunod">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY importBookmarksFromHTML.label     "Mag-import ng mga Bookmark galing sa HTML…">
@@ -59,7 +59,7 @@
 <!ENTITY cmd.properties.accesskey  "i">
 
 <!ENTITY cmd.sortby_name.label              "Pagsunod-sunurin ayon sa Pangalan">
-<!ENTITY cmd.sortby_name.accesskey          "s">
+<!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
 <!ENTITY cmd.new_bookmark.label            "Bagong Bookmark...">

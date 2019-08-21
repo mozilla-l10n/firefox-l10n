@@ -62,6 +62,8 @@ networkid-id = Network ID
 
 ## Link is intended as "network link"
 
+networkid-isUp = Ang link ay naka-up
+networkid-statusKnown = Ang katayuan ng link ay kilala
 
 
 
