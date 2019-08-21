@@ -60,7 +60,7 @@
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Redakti">
-<!ENTITY editMenu.accesskey "e">
+<!ENTITY editMenu.accesskey "R">
 <!ENTITY undoCmd.label "Malfari">
 <!ENTITY undoCmd.key "Z">
 <!ENTITY undoCmd.accesskey "M">
@@ -117,6 +117,7 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "Reordigi kunsendaĵojn">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
