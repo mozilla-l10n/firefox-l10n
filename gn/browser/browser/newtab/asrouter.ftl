@@ -93,6 +93,9 @@ cfr-doorhanger-sync-bookmarks-ok-button = Emyandy { -sync-brand-short-name }
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Anivéke nderesarái ne ñe’ẽñemígui
+cfr-doorhanger-sync-logins-body = Embyaty ha embojuehe tekorosãme ne ñe’ẽñemi opaite ne mba’e’okápe.
+cfr-doorhanger-sync-logins-ok-button = Embojuruja { -sync-brand-short-name }
+    .accesskey = E
 
 ## Send Tab
 
