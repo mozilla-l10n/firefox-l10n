@@ -86,7 +86,23 @@ info-known-breaches =
         [one] Egy ismert adatsértés során kikerültek az információi.
        *[other] Ismert adatsértések során kikerültek az információi.
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] Az összes adatsértés során kikerült jelszó.
+       *[other] Az összes adatsértés során kikerült jelszavak.
+    }
 full-report-link = A teljes jelentés megtekintése a <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> oldalon
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] A mentett bejelentkezés lehet, hogy kikerült egy adatsértésben. Módosítsa a jelszavát a nagyobb online biztonság érdekében. <a data-l10n-name="lockwise-link">Mentett bejelentkezések megtekintése</a>
+       *[other] A mentett bejelentkezések lehet, hogy kikerültek egy adatsértésben. Módosítsa a jelszavakat a nagyobb online biztonság érdekében. <a data-l10n-name="lockwise-link">Mentett bejelentkezések megtekintése</a>
+    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Ugrás az adatvédelmi beállításokhoz
 # This is the title attribute describing the Lockwise card's link to about:logins
