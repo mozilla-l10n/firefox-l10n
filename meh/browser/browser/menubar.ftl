@@ -5,23 +5,122 @@
 
 ## File Menu
 
+menu-file =
+    .label = Archivo
+    .accesskey = A
+menu-file-new-tab =
+    .label = Pestaña jíaa
+    .accesskey = P
+menu-file-new-container-tab =
+    .label = A jíaa pestaña ini
+    .accesskey = A
+menu-file-new-window =
+    .label = Ventana jíaa
+    .accesskey = V
+menu-file-new-private-window =
+    .label = Ventana jíaa yu´u
+    .accesskey = V
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Síne nuu...
+menu-file-open-file =
+    .label = Sine Archivo...
+    .accesskey = S
 menu-file-close =
     .label = Nakasɨ
     .accesskey = C
+menu-file-close-window =
+    .label = Nakasɨ ventana
+    .accesskey = N
+menu-file-save-page =
+    .label = Chuva´a kua...
+    .accesskey = C
+menu-file-email-link =
+    .label = Chu'un íchi Link...
+    .accesskey = C
+menu-file-print-setup =
+    .label = Ke'i página...
+    .accesskey = K
+menu-file-print-preview =
+    .label = Natava naja kino
+    .accesskey = N
+menu-file-print =
+    .label = Nátava
+    .accesskey = N
+menu-file-import-from-another-browser =
+    .label = Tajima jiin inka kaa nánuku
+    .accesskey = T
+menu-file-go-offline =
+    .label = Satiñu nko conexión
+    .accesskey = S
 
 ## Edit Menu
 
+menu-edit =
+    .label = Natee
+    .accesskey = N
+menu-edit-undo =
+    .label = Ntanɨ
+    .accesskey = N
+menu-edit-redo =
+    .label = Nate tukuma
+    .accesskey = N
+menu-edit-cut =
+    .label = Ke´ne
+    .accesskey = K
+menu-edit-copy =
+    .label = Tɨɨn
+    .accesskey = T
+menu-edit-paste =
+    .label = Tee
+    .accesskey = T
+menu-edit-delete =
+    .label = Xitá
+    .accesskey = X
+menu-edit-select-all =
+    .label = Kaji kuaiyo
+    .accesskey = K
+menu-edit-find-on =
+    .label = Nánuku nuu ya´a
+    .accesskey = N
+menu-edit-find-again =
+    .label = Nánuku tuku
+    .accesskey = N
+menu-edit-bidi-switch-text-direction =
+    .label = Sama jikotiyu tu'un
+    .accesskey = S
 
 ## View Menu
 
+menu-view =
+    .label = Kune'ya
+    .accesskey = K
+menu-view-toolbars-menu =
+    .label = Barra herramientas
+    .accesskey = B
+menu-view-customize-toolbar =
+    .label = Sá´á vii
+    .accesskey = S
+menu-view-sidebar =
+    .label = Barra lateral
+    .accesskey = B
+menu-view-bookmarks =
+    .label = A ta'a ini noo´o
 menu-view-history-button =
     .label = Sɨ´ɨ
+menu-view-synced-tabs-sidebar =
+    .label = Pestañas sincronizadas
+menu-view-full-zoom =
+    .label = Zoom
+    .accesskey = Z
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
 
-##
+
 
 
 ## History Menu

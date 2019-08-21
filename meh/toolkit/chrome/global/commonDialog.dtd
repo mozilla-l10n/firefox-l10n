@@ -5,5 +5,6 @@
 <!ENTITY header.label     "Título abreviado"> 
  
  
+<!ENTITY copyCmd.label    "Tɨɨn">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.accesskey "S">
