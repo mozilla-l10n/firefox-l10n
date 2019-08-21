@@ -28,3 +28,17 @@ monitor-link = Miten se toimii
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Sosiaalisen median seuraimet
+    .aria-label =
+        { $count ->
+            [one] { $count } sosiaalisen median seurain ({ $percentage } %)
+           *[other] { $count } sosiaalisen median seurainta ({ $percentage } %)
+        }
+bar-tooltip-cryptominer =
+    .title = Kryptolouhijat
+    .aria-label =
+        { $count ->
+            [one] { $count } kryptolouhija ({ $percentage } %)
+           *[other] { $count } kryptolouhijaa ({ $percentage } %)
+        }
