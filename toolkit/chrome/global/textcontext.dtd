@@ -31,6 +31,7 @@
 <!ENTITY fillLoginMenu.accesskey      "f">
 <!ENTITY fillSuggestedPassword.label  "Folosește o parolă sugerată">
 <!ENTITY fillSuggestedPassword.accesskey "S">
+<!ENTITY fillGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "Completează parola">
 <!ENTITY fillPasswordMenu.accesskey   "r">
 <!ENTITY fillUsernameMenu.label       "Completează utilizatorul">
