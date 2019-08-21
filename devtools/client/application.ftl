@@ -69,5 +69,11 @@ serviceworker-empty-suggestions-debugger = Stap tooch jo registraasje fan de Ser
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Ynspektearje Service Workers fan oare domeinen. <a>about:debugging iepenje</a>
-# Text displayed when no manifest was found for the current page.
-manifest-empty-intro = Te ynspektearjen manifest net fûn.
+# Text displayed while we are loading the manifest file
+manifest-loading = Manifest lade…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Manifest laden.
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = Der is in flater bard by it laden fan it manifest:
+# Text displayed when the page has no manifest available
+manifest-non-existing = Gjin manifest fûn om te ynspektearjen.
