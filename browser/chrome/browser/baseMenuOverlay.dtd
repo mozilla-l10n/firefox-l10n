@@ -34,7 +34,7 @@
 <!ENTITY helpFeedbackPage.label      "Anna palautetta…">
 <!ENTITY helpFeedbackPage.accesskey  "A">
 
-<!ENTITY helpShowTour2.label            "&brandShorterName;in esittely">
+<!ENTITY helpShowTour2.label            "Ohjelman esittely">
 <!ENTITY helpShowTour2.accesskey        "e">
 
 <!ENTITY preferencesCmdMac.label        "Asetukset…">

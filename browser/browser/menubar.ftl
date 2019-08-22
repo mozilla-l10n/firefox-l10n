@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Kokoruututila
     .accesskey = K
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Näytä kaikki välilehdet
@@ -255,10 +255,10 @@ menu-help =
     .label = Ohje
     .accesskey = O
 menu-help-product =
-    .label = { -brand-shorter-name }in ohje
-    .accesskey = o
+    .label = Ohjelman ohje
+    .accesskey = O
 menu-help-show-tour =
-    .label = { -brand-shorter-name }in esittely
+    .label = Ohjelman esittely
     .accesskey = e
 menu-help-keyboard-shortcuts =
     .label = Näppäinkomennot
