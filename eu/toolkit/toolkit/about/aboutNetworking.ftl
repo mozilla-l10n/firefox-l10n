@@ -62,6 +62,8 @@ networkid-id = Sarearen IDa
 
 ## Link is intended as "network link"
 
+networkid-isUp = Konexioa aktibatuta dago
+networkid-statusKnown = Konexioaren egoera ezaguna da
 
 
 

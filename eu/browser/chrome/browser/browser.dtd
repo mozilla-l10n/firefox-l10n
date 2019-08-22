@@ -898,11 +898,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Gunea oraindik apurtuta dago babesak desaktibatu ondoren?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Bidali txostena">
 
-<!ENTITY protections.blocking.label "Blokeatzen">
-<!ENTITY protections.notBlocking.label "Ez blokeatzen">
+<!ENTITY protections.blocking2.label "Blokeatuta">
+<!ENTITY protections.notBlocking2.label "Baimenduta">
 <!ENTITY protections.notBlocking.why.label "Zergatik?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Hauek blokeatuz gero, zenbait webgunetako elementuak apur litezke. Jarraipen-elementurik gabe, baliteke zenbait botoi, inprimaki eta saio-hasiera eremu ez ibiltzea.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Babesak desaktibatuz gero, jarraipen-elementu guztiak onartuko dira gune honetan. Webgunearen zenbait eginbide hobe litzake halaber.">
+<!ENTITY protections.notFound.label "Ez da bat ere antzeman">
 <!ENTITY protections.socialMediaTrackers.label "Sare sozialetako jarraipen-elementuak">
 <!ENTITY protections.crossSiteTrackingCookies.label "Guneen arteko cookie jarraipen-egileak">
 <!ENTITY protections.trackingContent.label "Edukiaren jarraipena">
