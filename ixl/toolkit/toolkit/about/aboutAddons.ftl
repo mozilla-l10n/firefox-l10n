@@ -4,6 +4,22 @@
 
 search-header-shortcut =
     .key = f
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } Unka'te
+       *[other] { -brand-short-name } Uve' ni chit asa'
+    }
+cmd-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Unka'te
+           *[other] Uve' ni chit asa'
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
 
 ## These are global warnings
 
@@ -33,6 +49,11 @@ search-header-shortcut =
 
 ## Add-on actions
 
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Unka'te
+       *[other] Uve' ni chit asa'
+    }
 
 ## Pending uninstall message bar
 

@@ -12,3 +12,6 @@
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+containers-name-label = B'ii
+    .accesskey = N
+    .style = { -containers-labels-style }

@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pref-page =
+    .title =
+        { PLATFORM() ->
+            [windows] Unka'te
+           *[other] Uve' ni chit asa'
+        }
 pane-search-title = Chuka
 category-search =
     .tooltiptext = { pane-search-title }
@@ -57,12 +63,16 @@ focus-search =
 
 ## Containers Section
 
+containers-preferences-button =
+    .label = Uve' ni chit asa'
 
 ## Sync Section - Signed out
 
 
 ## Sync Section - Signed in
 
+sync-manage-account = La eel isuuchil u atinb'ale'
+    .accesskey = o
 
 ## Privacy Section
 

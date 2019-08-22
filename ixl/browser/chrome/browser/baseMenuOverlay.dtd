@@ -1,0 +1,23 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+ 
+ 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+ 
+
+
+
+
+
+
+<!ENTITY preferencesCmdMac.label        "Uve' ni chit asa'…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
+
+
+
+
+

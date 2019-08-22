@@ -27,6 +27,10 @@ newtab-search-box-search-button =
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Jaj u tachul tatine'
+    .aria-label = Jaj u tachul tatine'
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 

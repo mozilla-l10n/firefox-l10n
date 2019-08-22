@@ -5,6 +5,8 @@
 custom-prompt-title = Eetz chitu'…
 scale-percent =
     .value = %
+options-group-label =
+    .value = Unka'te
 hf-custom =
     .label = Eetz chitu'…
 # Variables

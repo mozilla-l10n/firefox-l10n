@@ -11,6 +11,9 @@
 menu-edit =
     .label = B'an tuche'
     .accesskey = E
+menu-edit-delete =
+    .label = Eesa el
+    .accesskey = D
 
 ## View Menu
 
@@ -30,6 +33,17 @@ menu-edit =
 
 ## Tools Menu
 
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Unka'te
+           *[other] Uve' ni chit asa'
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
 
 ## Window Menu
 

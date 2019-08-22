@@ -14,6 +14,7 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 
+<!ENTITY appmenu.tooltip                     "Jaj u tachul tatine'">
 
 <!-- Tab context menu -->
 
@@ -62,6 +63,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.manageAccount.label "La eel isuuchil u atinb'ale'…">
 
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -122,6 +124,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.label         "B'an tuche'">
 <!ENTITY editMenu.accesskey       "E">
 <!ENTITY deleteCmd.label          "Eesa el">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "D">
+<!ENTITY preferencesCmd2.label       "Unka'te">
+<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY preferencesCmdUnix.label       "Uve' ni chit asa'">
+<!ENTITY preferencesCmdUnix.accesskey     "n">
 
 
 
@@ -330,6 +338,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
 
+<!ENTITY syncBrand.shortName.label    "Sync">
 
 
 <!ENTITY syncToolbarButton.label      "Sync">
