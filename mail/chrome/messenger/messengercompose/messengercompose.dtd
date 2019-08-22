@@ -194,36 +194,36 @@
 <!ENTITY priorityButton.title "Prioritato">
 <!ENTITY priorityButton.tooltiptext "Difini prioritaton de mesaĝo">
 <!ENTITY priorityButton.label "Prioritato:">
-<!ENTITY lowestPriorityCmd.label "Lowest">
-<!ENTITY lowestPriorityCmd.accesskey "l">
-<!ENTITY lowPriorityCmd.label "Low">
-<!ENTITY lowPriorityCmd.accesskey "o">
-<!ENTITY normalPriorityCmd.label "Normal">
-<!ENTITY normalPriorityCmd.accesskey "n">
-<!ENTITY highPriorityCmd.label "High">
-<!ENTITY highPriorityCmd.accesskey "i">
-<!ENTITY highestPriorityCmd.label "Highest">
-<!ENTITY highestPriorityCmd.accesskey "H">
-<!ENTITY fileCarbonCopyCmd.label "Send a Copy To">
-<!ENTITY fileCarbonCopyCmd.accesskey "d">
-<!ENTITY fileHereMenu.label "File Here">
+<!ENTITY lowestPriorityCmd.label "Plej malalta">
+<!ENTITY lowestPriorityCmd.accesskey "P">
+<!ENTITY lowPriorityCmd.label "Malalta">
+<!ENTITY lowPriorityCmd.accesskey "a">
+<!ENTITY normalPriorityCmd.label "Meza">
+<!ENTITY normalPriorityCmd.accesskey "e">
+<!ENTITY highPriorityCmd.label "Alta">
+<!ENTITY highPriorityCmd.accesskey "l">
+<!ENTITY highestPriorityCmd.label "Plej alta">
+<!ENTITY highestPriorityCmd.accesskey "j">
+<!ENTITY fileCarbonCopyCmd.label "Konservi kopion en">
+<!ENTITY fileCarbonCopyCmd.accesskey "n">
+<!ENTITY fileHereMenu.label "Tie ĉi">
 
 <!-- Tools Menu -->
-<!ENTITY tasksMenu.label "Tools">
-<!ENTITY tasksMenu.accesskey "T">
-<!ENTITY messengerCmd.label "Mail &amp; Newsgroups">
-<!ENTITY messengerCmd.accesskey "m">
+<!ENTITY tasksMenu.label "Iloj">
+<!ENTITY tasksMenu.accesskey "I">
+<!ENTITY messengerCmd.label "Retpoŝto kaj novaĵgrupoj">
+<!ENTITY messengerCmd.accesskey "R">
 <!ENTITY messengerCmd.commandkey "1">
-<!ENTITY addressBookCmd.label "Address Book">
-<!ENTITY addressBookCmd.accesskey "a">
+<!ENTITY addressBookCmd.label "Adresaro">
+<!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd2.label "Account Settings">
-<!ENTITY accountManagerCmd2.accesskey "S">
-<!ENTITY accountManagerCmdUnix2.accesskey "S">
-<!ENTITY preferencesCmd2.label "Options">
-<!ENTITY preferencesCmd2.accesskey "O">
-<!ENTITY preferencesCmdUnix.label "Preferences">
-<!ENTITY preferencesCmdUnix.accesskey "n">
+<!ENTITY accountManagerCmd2.label "Agordoj pri kontoj">
+<!ENTITY accountManagerCmd2.accesskey "k">
+<!ENTITY accountManagerCmdUnix2.accesskey "k">
+<!ENTITY preferencesCmd2.label "Elektebloj">
+<!ENTITY preferencesCmd2.accesskey "E">
+<!ENTITY preferencesCmdUnix.label "Preferoj">
+<!ENTITY preferencesCmdUnix.accesskey "P">
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
