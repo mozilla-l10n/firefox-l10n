@@ -266,7 +266,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Aloitussivu">
-<!ENTITY homeButton.defaultPage.tooltip "&brandShortName;in aloitussivu">
+<!ENTITY homeButton.defaultPage.tooltip "Aloitussivu">
 
 <!ENTITY bookmarksButton.label          "Kirjanmerkit">
 <!ENTITY bookmarksCmd.commandkey "b">
