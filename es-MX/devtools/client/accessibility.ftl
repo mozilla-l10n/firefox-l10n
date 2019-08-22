@@ -30,3 +30,5 @@ accessibility-text-label-issue-fieldset = Los elementos <code>fieldset</code> de
 accessibility-text-label-issue-fieldset-legend = Usa el elemento <code>legend</code> para etiquetar elementos <span>fieldset</span>. <a>Saber más</a>
 accessibility-text-label-issue-fieldset-legend2 = Usa el elemento <code>legend</code> para etiquetar un <span>fieldset</span>. <a>Saber más</a>
 accessibility-text-label-issue-form = Los elementos del formulario deben etiquetarse. <a>Saber más</a>
+accessibility-text-label-issue-form-visible = Los elementos de formulario debieran tener una etiqueta de texto visible. <a>Saber más</a>
+accessibility-text-label-issue-frame = Los elementos <code>frame</code> deben ser etiquetados. <a>Saber más</a>
