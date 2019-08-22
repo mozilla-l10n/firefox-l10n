@@ -63,6 +63,9 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Nkuvi-ka
 confirmation-dialog-dismiss-button =
     .title = Nkuvi-ka
+confirm-delete-dialog-confirm-button = Xita
 
 ## Breach Alert notification
 
+breach-alert-dismiss =
+    .title = Kasɨ tu´un
