@@ -18,7 +18,7 @@
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY pictureInPicture.label "Bilde-i-bilde">
 
-<!ENTITY stats.media "Media">
+<!ENTITY stats.media "Medier">
 <!ENTITY stats.size "Dimensjon">
 <!ENTITY stats.activity "Aktivitet">
 <!ENTITY stats.activityPaused "Pause">

@@ -105,7 +105,7 @@ permissions-exceptions-addons-desc = Du kan oppgi hvilke nettsted som har tillat
 permissions-exceptions-autoplay-media-window2 =
     .title = Unntak - autoavspilling
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Du kan spesifisere hvilke nettsteder som alltid eller aldri kan spille av  media med lyd. Skriv inn nettstedsadressen og trykk Blokker eller Tillat.
+permissions-exceptions-autoplay-media-desc2 = Du kan spesifisere hvilke nettsteder som alltid eller aldri kan spille av  medier med lyd. Skriv inn nettstedsadressen og trykk Blokker eller Tillat.
 
 ## Site Permissions - Autoplay
 
