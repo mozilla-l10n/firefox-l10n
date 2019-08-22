@@ -26,6 +26,7 @@ login-item-origin =
 login-item-username =
     .placeholder = sivɨ@example.com
 login-item-copy-username-button-text = Tɨɨn
+login-item-password-label = Contraseña
 login-item-copy-password-button-text = Tɨɨn
 login-item-save-new-button = Chuva´a
 login-item-cancel-button = Nkuvi-ka

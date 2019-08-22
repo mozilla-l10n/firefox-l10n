@@ -9,16 +9,16 @@ menu-file =
     .label = Archivo
     .accesskey = A
 menu-file-new-tab =
-    .label = Pestaña jíaa
+    .label = Pestaña jíía
     .accesskey = P
 menu-file-new-container-tab =
-    .label = A jíaa pestaña ini
+    .label = A jíía pestaña ini
     .accesskey = A
 menu-file-new-window =
-    .label = Ventana jíaa
+    .label = Ventana jíía
     .accesskey = V
 menu-file-new-private-window =
-    .label = Ventana jíaa yu´u
+    .label = Ventana jíía yu´u
     .accesskey = V
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
@@ -261,14 +261,23 @@ menu-help-show-tour =
     .label = { -brand-shorter-name } Tour
     .accesskey = o
 menu-help-keyboard-shortcuts =
-    .label = Sa´a ñama iin kuvi jii a kaa tée
+    .label = Sa´a ñama Ka̱a̱ tee
     .accesskey = S
 menu-help-troubleshooting-info =
-    .label = Ka´vi da ya´a saa kuvi nasa´anu ya´a de na iyo va´a
+    .label = Tu'un saa kuvi nasa'anu ya'a dee ntivu
     .accesskey = T
 menu-help-feedback-page =
-    .label = Chuiichi da a jianininu
-    .accesskey = S
+    .label = Chu'un ichí a jíaníninu...
+    .accesskey = C
 menu-help-safe-mode-without-addons =
-    .label = Nakaji´e jii daa a nachisó-kúmani na´va...
+    .label = Nakaji´e jii daa nachisó-kúmani na´va...
     .accesskey = N
+menu-help-safe-mode-with-addons =
+    .label = Nakaji´e jii daa nachisó-kúmani na´va...
+    .accesskey = N
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = Kachi dee sitio ya´a kuvi sakui´ina...
+    .accesskey = K
