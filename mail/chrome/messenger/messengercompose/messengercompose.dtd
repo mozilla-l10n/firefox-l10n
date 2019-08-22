@@ -282,23 +282,23 @@
 <!ENTITY SmileButton.tooltip "Enmeti mien-simbolon (emoĝion)">
 <!ENTITY smiley1Cmd.label "Mien-simbolo">
 <!ENTITY smiley2Cmd.label "Malkontento">
-<!ENTITY smiley3Cmd.label "Wink">
-<!ENTITY smiley4Cmd.label "Tongue-out">
-<!ENTITY smiley5Cmd.label "Laughing">
-<!ENTITY smiley6Cmd.label "Embarrassed">
-<!ENTITY smiley7Cmd.label "Undecided">
-<!ENTITY smiley8Cmd.label "Surprise">
-<!ENTITY smiley9Cmd.label "Kiss">
-<!ENTITY smiley10Cmd.label "Yell">
-<!ENTITY smiley11Cmd.label "Cool">
-<!ENTITY smiley12Cmd.label "Money-Mouth">
-<!ENTITY smiley13Cmd.label "Foot-in-Mouth">
-<!ENTITY smiley14Cmd.label "Innocent">
-<!ENTITY smiley15Cmd.label "Cry">
-<!ENTITY smiley16Cmd.label "Lips-are-Sealed">
+<!ENTITY smiley3Cmd.label "Palpebrumo">
+<!ENTITY smiley4Cmd.label "Elŝovi langon">
+<!ENTITY smiley5Cmd.label "Rido">
+<!ENTITY smiley6Cmd.label "Embaraso">
+<!ENTITY smiley7Cmd.label "Hezito">
+<!ENTITY smiley8Cmd.label "Surprizo">
+<!ENTITY smiley9Cmd.label "Kiso">
+<!ENTITY smiley10Cmd.label "Krio">
+<!ENTITY smiley11Cmd.label "Kontento">
+<!ENTITY smiley12Cmd.label "Mondeziro">
+<!ENTITY smiley13Cmd.label "Grimaco">
+<!ENTITY smiley14Cmd.label "Senkulpa">
+<!ENTITY smiley15Cmd.label "Ploro">
+<!ENTITY smiley16Cmd.label "Silento">
 
 <!-- Message Pane Context Menu -->
-<!ENTITY spellCheckNoSuggestions.label "No Suggestions Found">
+<!ENTITY spellCheckNoSuggestions.label "Ne trovis sugestojn por vorto">
 <!ENTITY spellCheckIgnoreWord.label "Ignore Word">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Add to Dictionary">
