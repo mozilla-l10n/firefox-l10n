@@ -82,7 +82,17 @@ login-item-username-label = Ib'ii u etzit tetze'
 login-item-username =
     .placeholder = name@example.com
 login-item-copy-username-button-text = Eesa ivatz
+login-item-copied-username-button-text = Eesamal ve't ivatz
+login-item-password-label = Texhlal kach'ub' tetz uva' axh kuxh ootzin tetz
+login-item-password-reveal-checkbox-show =
+    .title = La ik'uch u texhla kach'ub' tetze' uva' axh kuxh ootzin tetz
+login-item-password-reveal-checkbox-hide =
+    .title = La muj u texhlal kach'ub' tetze' uva' axh kuxh ootzin tetz
+login-item-copy-password-button-text = Eesa ivatz
+login-item-copied-password-button-text = Eesamal ve't ivatz
+login-item-save-changes-button = K'ol unq'a vee' b'anel tu ve't a'n
 login-item-save-new-button = Kola
+login-item-cancel-button = Ya'sakan
 
 ## Master Password notification
 
