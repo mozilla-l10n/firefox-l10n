@@ -95,8 +95,10 @@ detail-private-browsing-label = Funzionamento in finestre anonime
 detail-private-browsing-description2 = Se viene garantito il permesso, l’estensione potrà accedere alle tue attività online nelle finestre anonime. <label data-l10n-name="detail-private-browsing-learn-more">Ulteriori informazioni</label>
 detail-private-disallowed-label = Disattivata in finestre anonime
 detail-private-disallowed-description = Questa estensione non funziona in navigazione anonima. <label data-l10n-name="detail-private-browsing-learn-more">Ulteriori informazioni</label>
+detail-private-disallowed-description2 = Questa estensione non funziona in navigazione anonima. <<a data-l10n-name="learn-more">Ulteriori informazioni</a>
 detail-private-required-label = Richiede accesso alle finestre anonime
 detail-private-required-description = Questa estensione ha accesso alle tue attività online nelle finestre anonime. <label data-l10n-name="detail-private-browsing-learn-more">Ulteriori informazioni</label>
+detail-private-required-description2 = Questa estensione ha accesso alle tue attività online nelle finestre anonime. <a data-l10n-name="learn-more">Ulteriori informazioni</a>
 detail-private-browsing-on =
     .label = Consenti
     .tooltiptext = Attiva in Navigazione anonima
@@ -363,12 +365,18 @@ addon-detail-update-check-label = Controlla aggiornamenti
 install-update-button = Aggiorna
 addon-badge-private-browsing-allowed =
     .title = Attiva in finestre anonime
+addon-badge-private-browsing-allowed2 =
+    .title = Attiva in finestre anonime
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Se viene garantito il permesso, l’estensione potrà accedere alle tue attività online nelle finestre anonime. <a data-l10n-name="learn-more">Ulteriori informazioni</a>
 addon-detail-private-browsing-allow = Consenti
 addon-detail-private-browsing-disallow = Non consentire
 addon-badge-recommended =
   .title = Consigliata
   .alt = Consigliata
+addon-badge-recommended2 =
+  .title = Vengono consigliate solo estensioni che soddisfano i requisiti di sicurezza e prestazioni di { -brand-product-name }
+  .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Aggiornamenti disponibili
 recent-updates-heading = Aggiornamenti recenti
 release-notes-loading = Caricamento in corso…
