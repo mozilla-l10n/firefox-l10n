@@ -115,3 +115,9 @@ fonts-languages-fallback-name-turkish =
     .label = Turco
 fonts-languages-fallback-name-vietnamese =
     .label = Vietnamita
+# Variables:
+#   $name {string, "Arial"} - Name of the default font
+fonts-label-default =
+    .label = Kua vaji ({ $name })
+fonts-label-default-unnamed =
+    .label = Kua vaji

@@ -25,6 +25,7 @@ onboarding-start-browsing-button-label = Kajie´e nánuku
 
 onboarding-sync-form-input =
     .placeholder = Email
+onboarding-sync-form-continue-button = Kɨ´ɨ
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 

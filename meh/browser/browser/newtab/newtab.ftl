@@ -55,6 +55,7 @@ newtab-menu-content-tooltip =
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = Natee
 newtab-menu-open-new-window = Síne nuu iin ventana jíia
 newtab-menu-open-new-private-window = Síne iin ventana yu´u
 newtab-menu-dismiss = Xita
@@ -85,6 +86,9 @@ newtab-menu-open-file = Sine archivo
 ## the page is bookmarked, or is currently open on another device.
 
 newtab-label-visited = Nne´yanu
+newtab-label-bookmarked = Nte nuu ta´a ini noo´o
+newtab-label-removed-bookmark = Iin a ta´a ini noo´o nxita
+newtab-label-download = Nxinuu
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
@@ -105,6 +109,7 @@ newtab-label-visited = Nne´yanu
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-loading = Kunetu...
 
 ## Pocket Content Section.
 

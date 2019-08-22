@@ -2,7 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Extensión kuvi ni´inu
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ¿Navi ne´yani ya´a?
 cfr-doorhanger-extension-cancel-button = Nkuvi ntañu´u
@@ -55,9 +61,25 @@ cfr-doorhanger-pintab-animation-resume = Kaka
 ## Firefox Accounts Message
 
 
+## Protections panel
+
+cfr-protections-panel-link-text = Ka´vi kue´eka
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
     .label = Nakuvi a jíía íyo
     .tooltiptext = Nakuvi a jíía íyo
 cfr-whatsnew-panel-header = Nakuvi a jíía íyo
+
+## Bookmark Sync
+
+
+## Login Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+

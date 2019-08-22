@@ -4,6 +4,7 @@
 
 do-not-track-option-always =
     .label = Ntaka ichi
+pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = Nuu kajie´e

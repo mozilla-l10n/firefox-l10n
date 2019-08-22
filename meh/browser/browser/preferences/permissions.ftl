@@ -16,6 +16,8 @@ permissions-searchbox =
     .placeholder = Nánuku nuu Web
 permissions-capabilities-allow =
     .label = Kuvi
+permissions-capabilities-listitem-allow =
+    .value = Kuvi
 
 ## Invalid Hostname Dialog
 
@@ -36,6 +38,9 @@ permissions-capabilities-allow =
 
 
 ## Exceptions - Autoplay Media
+
+
+## Site Permissions - Autoplay
 
 
 ## Site Permissions - Notifications
