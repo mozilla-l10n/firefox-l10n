@@ -21,12 +21,15 @@
 <!ENTITY firstrun_data_message "ဒေတာအသုံးပြုမှုနည်းသည့်အတွက် ပိုမိုချွေတာနိုင်ပါသည်">
 <!ENTITY firstrun_data_subtext2 "သင်ကြည့်ရှုသည့် ဝဘ်ဆိုက်များ မိုဘိုင်းဒေတာ သုံးစွဲမှုနည်းစေရန် ရုပ်ပုံများကို ပိတ်ပါ။">
 <!ENTITY firstrun_sync_title "ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း">
+<!ENTITY updatednewfirstrun_sync_title "အကောင့်">
 <!ENTITY firstrun_sync_message2 "သင်ထွက်ခွာသွားသည့်နေရာကနေ စတင်အသုံးပြုပါ။">
 <!ENTITY firstrun_sync_subtext2 "ကိရိယာများရှိ &brandShortName; တွင် သိမ်းထားသော စာမှတ်များ၊ စကားဝှက်များနှင့် အခြားအရာများကို ရှာဖွေရန် Sync ကို အသုံးပြုပါ။">
 <!ENTITY newfirstrun_sync_subtext "သင့်သိမ်းထားသောမိုဘိုင်းပေါ်မှအချက်အလက်များကို ဒတ်စတော့ဆီသို့ လုံခြုံစွာ သီးသန့်ကူးယူပါ။">
+<!ENTITY updatednewfirstrun_sync_subtext "သင့်အကောင့်ထဲသို့ ဝင်ရောက်ပြီး &brandShortName; ကို အကောင်းဆုံးသုံးပါ">
 <!ENTITY firstrun_signin_message "ချိတ်ဆက်ပါ။ စတင်အသုံးပြုပါ။">
 <!ENTITY firstrun_signin_button "Sync လုပ်ဆောင်ရန် ဝင်ရောက်ပါ">
 <!ENTITY newfirstrun_signin_button "Sync ဖွင့်ပါ">
+<!ENTITY updatednewfirstrun_signin_button "သင့်​ &brandShortName; သို့ဝင်ရောက်ပါ">
 <!ENTITY  onboard_start_button_browser "စတင် ကြည့်ရှုရှာဖွေရန်">
 <!ENTITY firstrun_button_notnow "ယခု မဆောင်ရွက်သေးပါ">
 <!ENTITY firstrun_button_next "ရှေ့သို့">
@@ -66,6 +69,11 @@
 <!ENTITY  sending_crash_report "ပျက်စီးမှုကို သတင်းပို့နေသည်\u2026">
 <!ENTITY  crash_close_label "ပိတ်ပါ">
 <!ENTITY  crash_restart_label "&brandShortName; ကို ပြန်ဖွင့်ပါ">
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; ပိတ်သွားသှ်">
+<!ENTITY  crash_notification_message "&vendorShortName; အားသတင်းပို့ပေးရန် ထိပါ">
+<!ENTITY  crash_notification_negative_button_text "ကျော်ပါ">
 
 <!ENTITY url_bar_default_text2 "ရှာဖွေ (သို့) လိပ်စာ ထည့်သွင်းပါ">
 
@@ -108,6 +116,9 @@
 <!ENTITY bookmark_folder_updated "စာတွဲကို မွမ်းမံပြီးပြီ">
 <!ENTITY bookmark_parent_folder "အထက်ဖိုင်တွဲ">
 <!ENTITY bookmark_add_folder "ဖိုင်တွဲအသစ်ထည့်ရန်">
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(ခေါင်းစီးမရှိ)">
 
 <!ENTITY reader_saved_offline "အော့ဖ်လိုင်းအတွက် သိမ်းရန်">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -267,6 +278,7 @@
 <!ENTITY pref_cookies_menu "ကွတ်ကီးများ">
 <!ENTITY pref_cookies_accept_all "ဖွင့်ထားသည်">
 <!ENTITY pref_cookies_not_accept_foreign "3rd ပါတီ ဆော့ဝဲများပါ ဖွင့်ထားပြီး">
+<!ENTITY pref_cookies_not_accept_trackers "ကွတ်ကီးတွေမှလွဲပြီး ဖွင့်ထားသှ်">
 <!ENTITY pref_cookies_disabled "ပိတ်ထားတယ်">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -327,11 +339,6 @@
 
 <!ENTITY pref_pwa "Progressive ဝဘ်အက်ပ်များ">
 <!ENTITY pref_pwa_summary "မူလစာမျက်နှာတွင် ဝဘ်အက်ပ်များကို ထည့်ရန် ခွင့်ပြုပါ">
-
-<!ENTITY tracking_protection_prompt_title "ယခု ခြေရာခံ ကာကွယ်မှုစနစ် ပါဝင်ပါသည်">
-<!ENTITY tracking_protection_prompt_text "ခြေရာခံအစိတ်အပိုင်းများကို နိုးကြားတက်ကြွစွာ ပိတ်ပင်တားဆီးနေသည့်အတွက် စိုးရိမ်ပူပန်စရာ မလိုပါ။">
-<!ENTITY tracking_protection_prompt_tip_text "ပိုမိုလေ့လာရန် ကိုယ်ရေးအပြင်အဆင်များသို့ သွားရောက်ပါ">
-<!ENTITY tracking_protection_prompt_action_button "ရပြီ!">
 
 <!ENTITY tab_queue_toast_message3 "တပ်ဗ်ကို &brandShortName; ထဲတွင် သိမ်းထားသည်">
 <!ENTITY tab_queue_toast_action "ယခုဖွင့်ပါ">
@@ -413,14 +420,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "ဆွဲချချက်များ">
 <!ENTITY pref_private_data_syncedTabs "ချိတ်ဆက်ထားသော တပ်ဗ်များ">
 
-<!ENTITY pref_default_browser "ပုံသေအသုံးပြုမည့် ဘရောက်ဇာအဖြစ် သတ်မှတ်ပါ">
-
 <!ENTITY pref_default_browser2 "သင့်အမြဲသုံးဘရောက်ဇာအဖြစ် &brandShortName; ကို ပြုလုပ်ပါ">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "&amp; ဘရောက်ဇာအက် ကိုထိပါ &brandShortName; ကို ရွေးပါ">
-<!ENTITY pref_default_browser_mozilla_support_tablet "မော်ဇီလာ အထောက်အပံ့သို့ လည်ပတ်ကြည့်ရှုပါ">
 <!ENTITY pref_about_firefox "&brandShortName; အကြောင်း">
 <!ENTITY pref_vendor_faqs "မေးလေ့ရှိသော မေးခွန်းများ">
 <!ENTITY pref_vendor_feedback "အကြံပေးပါ">
@@ -592,6 +596,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "သော့ချက် စာလုံး">
 <!ENTITY bookmark_select_folder "ဖိုင်တွဲကို ရွေးပါ">
 
+<!ENTITY bookmark_edit_undo "မလုပ်">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "ဆိုက်အပြင်အဆင်များ">
@@ -679,6 +685,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "အသံသွင်း သို့ အသံတစ်သံအားရွေးပါ">
 <!ENTITY filepicker_image_title "ဓာတ်ပုံရွေးပါ သို့မဟုတ် ရိုက်ပါ ">
 <!ENTITY filepicker_video_title "ဗီဒီယိုရိုက် သို့ ဗီဒီယိုတစ်ခုရွေးပါ">
+<!ENTITY filepicker_permission_denied "လိုအပ်သော ဖိုင်ခွင့်ပြုချက်မရပါ။ စနစ်၏ ဖိုင်ရွေးချယ်ကိရိယာ ကိုပြန်သုံးမည်">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "သင်နဲ့ ဆက်သွယ်နေတဲ့အရာ">
@@ -918,6 +925,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "ခေတ္တရပ်တန့်ပါ">
 <!ENTITY pip_pause_button_description "ဖွင့်ထားခြင်းကို ခေတ္တရပ်တန့်ပါ">
 
+<!ENTITY pref_notification_settings_link "အကြောင်းကြားချက်များအား စီမံမည်">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "ဘရောက်ဇာ">
 <!ENTITY mls_notification_channel "&vendorShortName; Location Service">
@@ -930,3 +938,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "ဝဘ်ဆိုက်အသိပေးချက်များ">
+<!ENTITY crash_handler_notifications_channel "&brandShortName; အပျက်အဆီးတင်ပြသူ">
