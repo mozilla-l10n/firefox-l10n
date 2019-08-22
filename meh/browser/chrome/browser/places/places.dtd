@@ -7,6 +7,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.accesskey    "O">
 
+<!ENTITY file.close.label               "Nakasɨ">
 <!ENTITY file.close.accesskey           "C">
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.accesskey                "V">

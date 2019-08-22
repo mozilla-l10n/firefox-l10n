@@ -120,6 +120,9 @@ sync-disconnect =
 sync-device-name-cancel =
     .label = Nkuvi-ka
     .accesskey = N
+sync-device-name-save =
+    .label = Chuva´a
+    .accesskey = v
 
 ## Privacy Section
 

@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Tɨɨn">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY undoCmd.accesskey "D">

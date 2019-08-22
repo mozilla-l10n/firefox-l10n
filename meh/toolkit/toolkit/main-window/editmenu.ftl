@@ -2,15 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-window-close =
-    .key = w
-focus-search-shortcut =
-    .key = f
-focus-search-altshortcut =
-    .key = k
-copy-site-url-cmd =
-    .label = Tɨɨn URL
-    .accesskey = y
-close-button =
-    .label = Nakasɨ
+
+### This file contains the entities needed for the 'edit' menu
+### It's currently only used for the Browser Console and Developer Toolbox
+
+editmenu-copy =
+    .label = Tɨɨn
     .accesskey = C
