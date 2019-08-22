@@ -58,7 +58,7 @@
 <!ENTITY  tab_offline_version "Näytetään yhteydettömän tilan versio">
 
 <!ENTITY  crash_reporter_title "&brandShortName;: Kaatumisen raportointi">
-<!ENTITY  crash_message2 "&brandShortName; kohtasi odottamattoman ongelman ja kaatui. Avoinna olleiden välilehtien pitäisi olla listattuna aloitussivulla kun käynnistät &brandShortName;in uudestaan">
+<!ENTITY  crash_message2 "&brandShortName; kohtasi odottamattoman ongelman ja kaatui. Avoinna olleiden välilehtien pitäisi olla listattuna aloitussivulla kun käynnistät ohjelman uudestaan">
 <!ENTITY  crash_send_report_message3 "Kerro virheestä &vendorShortName;lle ja auta heitä korjaamaan vika">
 <!ENTITY  crash_include_url2 "Lähetä avoinna olleen sivun osoite">
 <!ENTITY  crash_sorry "Olemme pahoillamme">
@@ -252,7 +252,7 @@
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "&brandShortName;in aloitussivu">
+<!ENTITY home_homepage_radio_default "Selaimen aloitussivu">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
@@ -629,7 +629,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_title "&brandShortName;in aloitussivu">
+<!ENTITY home_title "Aloitussivu">
 <!ENTITY home_history_title "Sivuhistoria">
 <!ENTITY home_synced_devices_smartfolder "Synkronoidut laitteet">
 <!ENTITY home_synced_devices_number "&formatD; laitetta">
