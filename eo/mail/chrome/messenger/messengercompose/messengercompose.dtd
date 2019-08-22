@@ -247,27 +247,27 @@
 <!ENTITY quoteButton.tooltip "Citi la antaŭan mesaĝon">
 <!ENTITY addressButton.tooltip "Elekti ricevonton el adresaro">
 <!ENTITY attachButton.tooltip2 "Aldoni dosieron al mesaĝo">
-<!ENTITY spellingButton.tooltip "Check spelling of selection or entire message">
-<!ENTITY saveButton.tooltip "Save this message">
-<!ENTITY cutButton.tooltip              "Cut">
-<!ENTITY copyButton.tooltip             "Copy">
-<!ENTITY pasteButton.tooltip            "Paste">
-<!ENTITY printButton.tooltip "Print this message">
+<!ENTITY spellingButton.tooltip "Kontroli pri ortografiaj eraroj en la elekto aŭ en la tuta mesaĝo">
+<!ENTITY saveButton.tooltip "Konservi tiun ĉi mesaĝon">
+<!ENTITY cutButton.tooltip              "Eltondi">
+<!ENTITY copyButton.tooltip             "Kopii">
+<!ENTITY pasteButton.tooltip            "Alglui">
+<!ENTITY printButton.tooltip "Presi tiun ĉi mesaĝon">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-<!ENTITY headersSpace.style "width: 9em;">
-<!ENTITY fromAddr.label "From:">
-<!ENTITY fromAddr.accesskey "r">
-<!ENTITY toAddr.label "To:">
-<!ENTITY ccAddr.label "Cc:">
-<!ENTITY bccAddr.label "Bcc:">
-<!ENTITY replyAddr.label "Reply-To:">
-<!ENTITY newsgroupsAddr.label "Newsgroup:">
-<!ENTITY followupAddr.label "Followup-To:">
-<!ENTITY subject.label "Subject:">
-<!ENTITY subject.accesskey "S">
+<!ENTITY headersSpace.style "width: 10em;">
+<!ENTITY fromAddr.label "El:">
+<!ENTITY fromAddr.accesskey "E">
+<!ENTITY toAddr.label "Al:">
+<!ENTITY ccAddr.label "Kopio:">
+<!ENTITY bccAddr.label "Kaŝkopio:">
+<!ENTITY replyAddr.label "Respondi al:">
+<!ENTITY newsgroupsAddr.label "Novaĵgrupo:">
+<!ENTITY followupAddr.label "Pluigi al:">
+<!ENTITY subject.label "Temo:">
+<!ENTITY subject.accesskey "T">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings of attachmentCount in composeMsgs.properties.
      Please ensure that this access key is unique: Do not duplicate any other
