@@ -24,7 +24,7 @@ graph-total-summary =
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
 protection-header-details-standard = Beskyttelses-niveauet er sat til <b>Standard</b>
-protection-header-details-strict = Beskyttelses-niveauet er sat til b>Striks</b>
+protection-header-details-strict = Beskyttelses-niveauet er sat til <b>Striks</b>
 protection-header-details-custom = Beskyttelses-niveauet er sat til <b>Tilpasset</b>
 protection-report-page-title = Privatlivs-beskyttelse
 protection-report-content-title = Privatlivs-beskyttelse
