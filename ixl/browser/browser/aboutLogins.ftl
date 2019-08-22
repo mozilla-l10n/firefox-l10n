@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (Ye'l ib'ii u b'anb'en tetze')
 ## Introduction screen
 
 login-intro-heading = Nachuk unq'a kach'ub'al texhlale' uve' kolel kan? B'antuche' { -sync-brand-short-name }.
+login-intro-description = Kat ikol unq'a xe'tisab' aq'one' tu { -brand-product-name } tu uma't ch'ich kat ab'anb'e, a' unq'a vi'la la b'ane' aq'al uva' at tzitza' la ib'an unpajte:
+login-intro-instruction-fxa = Axh la b'anon moj la uch axe't tzitza' { -fxaccount-brand-name } tu vach'ich'e' uve' kolel kat kan ixe't aq'on s-a'n
 
 ## Login
 
