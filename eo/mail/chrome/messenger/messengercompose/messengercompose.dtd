@@ -193,7 +193,7 @@
 <!ENTITY priorityMenu.accesskey "r">
 <!ENTITY priorityButton.title "Prioritato">
 <!ENTITY priorityButton.tooltiptext "Difini prioritaton de mesaĝo">
-<!ENTITY priorityButton.label "Priority:">
+<!ENTITY priorityButton.label "Prioritato:">
 <!ENTITY lowestPriorityCmd.label "Lowest">
 <!ENTITY lowestPriorityCmd.accesskey "l">
 <!ENTITY lowPriorityCmd.label "Low">
