@@ -46,7 +46,7 @@ login-list-name-option = Nimi (A–Ö)
 login-list-last-changed-option = Viimeksi muokattu
 login-list-last-used-option = Viimeksi käytetty
 login-list-intro-title = Kirjautumistietoja ei löytynyt
-login-list-intro-description = Kun tallennat salasanan { -brand-product-name }iin, se ilmestyy tänne.
+login-list-intro-description = Kun tallennat salasanan { -brand-product-name }-selaimeen, se ilmestyy tänne.
 login-list-item-title-new-login = Uusi kirjautumistieto
 login-list-item-subtitle-new-login = Anna kirjautumistietosi
 login-list-item-subtitle-missing-username = (ei käyttäjätunnusta)
@@ -54,7 +54,7 @@ login-list-item-subtitle-missing-username = (ei käyttäjätunnusta)
 ## Introduction screen
 
 login-intro-heading = Etsitkö tallennettuja kirjautumistietojasi? Ota { -sync-brand-short-name } käyttöön.
-login-intro-description = Jos tallensit kirjautumistietosi { -brand-product-name }iin toisella laitteella, saat ne käyttöön seuraavasti:
+login-intro-description = Jos tallensit kirjautumistietosi { -brand-product-name }-selaimeen toisella laitteella, saat ne käyttöön seuraavasti:
 
 ## Login
 
