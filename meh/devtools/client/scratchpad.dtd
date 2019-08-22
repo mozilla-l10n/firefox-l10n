@@ -66,6 +66,10 @@
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
+<!ENTITY helpMenu.label               "Chinei">
+<!ENTITY helpMenu.accesskey           "y">
+<!ENTITY helpMenuWin.label            "Chinei">
+<!ENTITY helpMenuWin.accesskey        "y">
 
 
 

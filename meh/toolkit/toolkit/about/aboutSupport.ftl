@@ -13,6 +13,7 @@ yes = Kuvi
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+glcontext-crash-guard = OpenGL
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference

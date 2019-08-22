@@ -14,6 +14,7 @@
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
 
+<!ENTITY appmenu.tooltip                     "Síne menu">
 
 <!-- Tab context menu -->
 
@@ -42,6 +43,7 @@ in "Search through tabs". -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "Síne nuu…">
 <!ENTITY openFileCmd.accesskey "A">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.accesskey "p">

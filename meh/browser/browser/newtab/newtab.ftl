@@ -110,7 +110,7 @@ newtab-label-download = Nxinuu
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-try-again-button = Nasá´á tuku
-newtab-discovery-empty-section-topstories-loading = Kunetu...
+newtab-discovery-empty-section-topstories-loading = Kunetu…
 
 ## Pocket Content Section.
 

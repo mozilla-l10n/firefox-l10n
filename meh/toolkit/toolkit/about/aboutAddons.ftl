@@ -4,6 +4,8 @@
 
 search-header-shortcut =
     .key = f
+loading-label =
+    .value = Kunetu…
 detail-home-value =
     .value = { detail-home.label }
 detail-repository-value =
@@ -48,3 +50,4 @@ remove-addon-button = Xita
 ## Pending uninstall message bar
 
 addon-detail-updates-radio-off = Xina´va
+release-notes-loading = Kunetu…
