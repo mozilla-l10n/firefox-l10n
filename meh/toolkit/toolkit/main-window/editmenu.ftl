@@ -9,3 +9,6 @@
 editmenu-copy =
     .label = Tɨɨn
     .accesskey = C
+editmenu-delete =
+    .label = Xita
+    .accesskey = D

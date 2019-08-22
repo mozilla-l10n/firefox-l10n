@@ -11,9 +11,16 @@
 
 # Sidebar strings
 
+# Title for runtime sidebar items where we cannot get device information (network
+# locations).
+about-debugging-sidebar-runtime-item-name-no-device =
+    .title = { $displayName }
 
 # Setup Page strings
 
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = Xita
 
 # Runtime Page strings
 

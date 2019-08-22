@@ -148,6 +148,9 @@ sitedata-learn-more = Ka´vi jiee ya´a
 
 ## Privacy Section - Content Blocking
 
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
 
 ## Privacy Section - Tracking
 

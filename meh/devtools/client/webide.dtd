@@ -2,47 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY windowTitle "Firefox WebIDE">
 
 
 
@@ -56,70 +16,26 @@
 <!-- zoom -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- Lense -->
-
-
-
-
-
 
 <!-- New App -->
 
 
-
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Nakasɨ">
+
 <!-- Addons -->
 
 <!-- Prefs -->
 
-
-
-
-
-
-
-
-
-
 <!-- Runtime Details -->
-
-
-
-
-
 
 <!-- Device Preferences and Settings -->
 
-
-
-
 <!-- Device Preferences -->
 
-
-
-
 <!-- Device Settings -->
-
-
-
-
-<!-- Monitor -->
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
@@ -135,17 +51,3 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
-<!-- Simulator Options -->
-
-
-
-
-
-
-
-
-
-
-
-
-

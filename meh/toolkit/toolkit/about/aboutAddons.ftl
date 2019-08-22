@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+search-header-shortcut =
+    .key = f
 detail-home-value =
     .value = { detail-home.label }
 detail-repository-value =
@@ -32,3 +34,17 @@ extensions-warning-update-security-container =
 
 ## Status messages displayed when updating add-ons
 
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+remove-addon-button = Xita
+
+## Pending uninstall message bar
+
+addon-detail-updates-radio-off = Xina´va
