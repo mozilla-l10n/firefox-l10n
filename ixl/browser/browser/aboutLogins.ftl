@@ -66,11 +66,15 @@ login-list-item-subtitle-missing-username = (Ye'l ib'ii u b'anb'en tetze')
 login-intro-heading = Nachuk unq'a kach'ub'al texhlale' uve' kolel kan? B'antuche' { -sync-brand-short-name }.
 login-intro-description = Kat ikol unq'a xe'tisab' aq'one' tu { -brand-product-name } tu uma't ch'ich kat ab'anb'e, a' unq'a vi'la la b'ane' aq'al uva' at tzitza' la ib'an unpajte:
 login-intro-instruction-fxa = Axh la b'anon moj la uch axe't tzitza' { -fxaccount-brand-name } tu vach'ich'e' uve' kolel kat kan ixe't aq'on s-a'n
+login-intro-instruction-fxa-settings = Il chit ti jikil ti' atxaat kan unq'a texhlale' tu vee' uve' ni b'anax kat tuche' { -sync-brand-short-name }
+login-intro-instruction-faq = Saji unq'a vi'la' { -lockwise-brand-short-name } <a data-l10n-name="faq"> unq'a ch'ot tzi' uva' pal chit ib'anche' </a> aq'al uva' la lochpu axh
 
 ## Login
 
+login-item-new-login-title = Xe't'sa uma't ak' ixe't aq'on
 login-item-edit-button = B'an tuche'
 login-item-delete-button = Eesa el
+login-item-origin-label = Tatinb'al web
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-save-new-button = Kola
