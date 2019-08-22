@@ -7,18 +7,24 @@
 <!ENTITY undoCmd.accesskey         "D">
 <!ENTITY redoCmd.key               "Y">
 <!ENTITY redoCmd.accesskey         "R">
+<!ENTITY cutCmd.label              "Ke´ne">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "t">
+<!ENTITY copyCmd.label             "Tɨɨn">
 <!ENTITY copyCmd.key               "C">
 <!ENTITY copyCmd.accesskey         "C">
+<!ENTITY pasteCmd.label            "Tee">
 <!ENTITY pasteCmd.key              "V">
 <!ENTITY pasteCmd.accesskey        "P">
+<!ENTITY deleteCmd.label           "Xita">
 <!ENTITY deleteCmd.accesskey       "E">
+<!ENTITY selectAllCmd.label        "Kaji kuaiyo">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
 <!ENTITY findCmd.label             "Nánuku">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "B">
+<!ENTITY findAgainCmd.label        "Nánuku tuku">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "R">
