@@ -21,3 +21,7 @@ config-focus-search-2 =
 
 ## These strings are used for the context menu
 
+config-copy-pref =
+    .key = C
+    .label = Eesa ivatz
+    .accesskey = C

@@ -4,5 +4,8 @@
 
 <!ENTITY editMenu.label            "B'an tuche'">
 <!ENTITY editMenu.accesskey        "e">
+<!ENTITY copyCmd.label             "Eesa ivatz">
+<!ENTITY copyCmd.key               "C">
+<!ENTITY copyCmd.accesskey         "c">
 <!ENTITY deleteCmd.label           "Eesa el">
 <!ENTITY deleteCmd.accesskey       "d">

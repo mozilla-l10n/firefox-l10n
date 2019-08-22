@@ -106,6 +106,9 @@ master-password-reload-button =
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Ya'sakan
+confirmation-dialog-dismiss-button =
+    .title = Ya'sakan
 confirm-delete-dialog-confirm-button = Eesa el
 
 ## Breach Alert notification

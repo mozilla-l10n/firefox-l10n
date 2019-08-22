@@ -123,6 +123,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "B'an tuche'">
 <!ENTITY editMenu.accesskey       "E">
+<!ENTITY copyCmd.label            "Eesa ivatz">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "C">
 <!ENTITY deleteCmd.label          "Eesa el">
 <!ENTITY deleteCmd.key            "D">
 <!ENTITY deleteCmd.accesskey        "D">
@@ -359,6 +362,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Ya'sakan">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control

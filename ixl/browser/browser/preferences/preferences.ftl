@@ -16,6 +16,7 @@ focus-search =
 
 ## Browser Restart Dialog
 
+cancel-no-restart-button = Ya'sakan
 
 ## Extension Control Notifications
 ##
@@ -73,6 +74,9 @@ containers-preferences-button =
 
 sync-manage-account = La eel isuuchil u atinb'ale'
     .accesskey = o
+sync-device-name-cancel =
+    .label = Ya'sakan
+    .accesskey = n
 
 ## Privacy Section
 

@@ -11,6 +11,9 @@
 menu-edit =
     .label = B'an tuche'
     .accesskey = E
+menu-edit-copy =
+    .label = Eesa ivatz
+    .accesskey = C
 menu-edit-delete =
     .label = Eesa el
     .accesskey = D
