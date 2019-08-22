@@ -898,11 +898,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Trang web vẫn bị lỗi sau khi tắt bảo vệ?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Gửi báo cáo">
 
-<!ENTITY protections.blocking.label "Đang chặn">
-<!ENTITY protections.notBlocking.label "Không chặn">
+<!ENTITY protections.blocking2.label "Đã chặn">
+<!ENTITY protections.notBlocking2.label "Đã cho phép">
 <!ENTITY protections.notBlocking.why.label "Tại sao?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Chặn những thứ này có thể phá vỡ các yếu tố của một số trang web. Không có trình theo dõi, một số nút, biểu mẫu và trường đăng nhập có thể không hoạt động.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Tắt bảo vệ sẽ cho phép tất cả các trình theo dõi trên trang web này. Nó cũng có thể cải thiện một số chức năng trang web.">
+<!ENTITY protections.notFound.label "Không phát hiện">
 <!ENTITY protections.socialMediaTrackers.label "Trình theo dõi truyền thông xã hội">
 <!ENTITY protections.crossSiteTrackingCookies.label "Cookie theo dõi chéo trang web">
 <!ENTITY protections.trackingContent.label "Trình theo dõi nội dung">
