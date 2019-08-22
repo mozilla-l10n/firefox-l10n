@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Препоручене екстензије
+cfr-doorhanger-feature-heading = Препоручена могућност
 cfr-doorhanger-pintab-heading = Пробајте ово: закачи језичак
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Зашто видим ово
 cfr-doorhanger-extension-cancel-button = Не сада
@@ -61,6 +68,12 @@ cfr-doorhanger-pintab-animation-resume = Настави
 cfr-doorhanger-bookmark-fxa-header = Синхронизујте своје забелешке свуда.
 cfr-doorhanger-bookmark-fxa-body = Одлично откриће! Да бисте имали ову забелешку и на вашем мобилном уређају, крените са коришћењем услуге { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Синхронизуј забелешке сада…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Тастер затвори
+    .title = Затвори
+
+## Protections panel
+
 
 ## What's New toolbar button and panel
 
@@ -68,3 +81,27 @@ cfr-whatsnew-button =
     .label = Шта је ново
     .tooltiptext = Шта је ново
 cfr-whatsnew-panel-header = Шта је ново
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-header = Добијте ову забелешку на свом телефону
+cfr-doorhanger-sync-bookmarks-body = Синхронизујте забелешке, лозинке, историју и друго на свим уређајима који су пријављени у { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Укључите { -sync-brand-short-name }
+    .accesskey = т
+
+## Login Sync
+
+
+## Send Tab
+
+cfr-doorhanger-send-tab-header = Читајте ово у покрету
+cfr-doorhanger-send-tab-recipe-header = Понесите овај рецепт у кухињу
+cfr-doorhanger-send-tab-body = Слање језичка олакшава дељење веза између вашег телефона и било којих уређаја пријављених у { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Испробајте слање језичака
+    .accesskey = И
+
+## Firefox Send
+
+cfr-doorhanger-firefox-send-header = Делите овај PDF безбедно
+cfr-doorhanger-firefox-send-ok-button = Испробајте { -send-brand-name }
+    .accesskey = И

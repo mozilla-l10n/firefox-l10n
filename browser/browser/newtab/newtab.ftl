@@ -47,6 +47,9 @@ newtab-topsites-add-button = Додај
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Да ли сте сигурни да желите да обришете све посете ове странице из ваше историје?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ова радња се не може опозвати.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Забележи
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Копирај везу за преузимање
 newtab-menu-go-to-download-page = Иди на станицу за преузимања
 newtab-menu-remove-download = Уклони из историје
@@ -109,11 +116,16 @@ newtab-menu-open-file = Отвори датотеку
 
 newtab-label-visited = Посећено
 newtab-label-bookmarked = Забележено
+newtab-label-removed-bookmark = Забелешка је уклоњена
 newtab-label-recommended = У тренду
 newtab-label-saved = Сачувано у { -pocket-brand-name }
 newtab-label-download = Преузето
 
 ## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Уклони секцију
@@ -126,6 +138,13 @@ newtab-section-menu-add-search-engine = Додај претраживач
 newtab-section-menu-move-up = Помери горе
 newtab-section-menu-move-down = Помери доле
 newtab-section-menu-privacy-notice = Обавештење о приватности
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Скупи одељак
+newtab-section-expand-section-label =
+    .aria-label = Рашири одељак
 
 ## Section Headers.
 
@@ -142,6 +161,15 @@ newtab-empty-section-highlights = Почните са коришћењем ве�
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Вратите се касније за нове вести { $provider }. Не можете дочекати? Изаберите популарну тему да пронађете још занимљивих вести из света.
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = У току сте!
+newtab-discovery-empty-section-topstories-content = За више прича, вратите се нешто касније.
+newtab-discovery-empty-section-topstories-try-again-button = Покушај поново
+newtab-discovery-empty-section-topstories-loading = Учитавам…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Упс! Нисмо могли учитати овај одељак до краја.
 
 ## Pocket Content Section.
 

@@ -47,18 +47,63 @@ login-list-count =
     }
 login-list-sort-label-text = Поређај по:
 login-list-name-option = Назив (А-Ш)
+login-list-last-changed-option = Последња измена
+login-list-last-used-option = Последњи пут коришћено
+login-list-intro-title = Нема пронађених пријава
+login-list-intro-description = Када сачувате лозинку унутар програма { -brand-product-name }, појавиће се и овде.
+login-list-item-title-new-login = Нова пријава
+login-list-item-subtitle-new-login = Унесите своје податке за пријаву
+login-list-item-subtitle-missing-username = (без корисничког имена)
 
 ## Introduction screen
 
 
 ## Login
 
+login-item-new-login-title = Направи нову пријаву
+login-item-edit-button = Уреди
+login-item-delete-button = Избриши
+login-item-origin-label = Адреса веб странице
+login-item-origin =
+    .placeholder = https://primer.rs
+login-item-open-site-button = Покрени
+login-item-username-label = Корисничко име
+login-item-username =
+    .placeholder = ime@primer.rs
+login-item-copy-username-button-text = Копирај
+login-item-copied-username-button-text = Копирано!
+login-item-password-label = Лозинка
+login-item-password-reveal-checkbox-show =
+    .title = Прикажи лозинку
+login-item-password-reveal-checkbox-hide =
+    .title = Сакриј лозинку
+login-item-copy-password-button-text = Копирај
+login-item-copied-password-button-text = Копирано!
+login-item-save-changes-button = Сачувај промене
+login-item-save-new-button = Сачувај
+login-item-cancel-button = Откажи
+login-item-time-changed = Последња измена: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Направљено: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Последњи пут коришћено: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = Унесите своју главну лозинку да бисте видели сачуване пријаве и лозинке
+master-password-reload-button =
+    .label = Пријави ме
+    .accesskey = р
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Откажи
+confirmation-dialog-dismiss-button =
+    .title = Откажи
+confirm-delete-dialog-title = Избрисати ову пријаву?
+confirm-delete-dialog-message = Ова радња је неопозива.
+confirm-delete-dialog-confirm-button = Избриши
+confirm-discard-changes-dialog-title = Одбацити несачуване измене?
+confirm-discard-changes-dialog-message = Све несачуване измене ће бити изгубљене.
+confirm-discard-changes-dialog-confirm-button = Одбаци
 
 ## Breach Alert notification
 
