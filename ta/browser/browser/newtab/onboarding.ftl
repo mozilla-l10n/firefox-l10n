@@ -62,7 +62,7 @@ onboarding-benefit-privacy-title = உண்மையான தனியுர�
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
-onboarding-private-browsing-title = அந்தரங்க உலாவல்
+onboarding-private-browsing-title = கமுக்க உலாவல்
 onboarding-screenshots-title = திரைப்பிடிப்புகள்
 onboarding-addons-title = கூடுதல்-வசதிகள்
 onboarding-ghostery-title = Ghostery
@@ -74,9 +74,9 @@ onboarding-data-sync-title = உங்கள் அமைப்புகளை �
 onboarding-data-sync-button2 = { -sync-brand-short-name } ல் உள்நுழைக
 onboarding-firefox-monitor-title = தரவு மீறல்களுக்கு எச்சரிக்கையாக இருங்கள்
 onboarding-firefox-monitor-button = எச்சரிக்கைக்கு பதிவுபெறுக
-onboarding-browse-privately-title = தனிப்பட்ட முறையில் உலாவுக
-onboarding-browse-privately-button = தனிப்பட்ட சாளரத்தைத் திற
-onboarding-firefox-send-title = உங்கள் பகிரப்பட்ட கோப்புகளை தனிப்பட்டதாக வைத்திருங்கள்
+onboarding-browse-privately-title = கமுக்க முறையில் உலாவுக
+onboarding-browse-privately-button = கமுக்க சாளரத்தைத் திற
+onboarding-firefox-send-title = உங்கள் பகிரப்பட்ட கோப்புகளைத் கமுக்கமாக வைத்திருங்கள்
 onboarding-firefox-send-button = { -send-brand-name }ஐ முயற்சிக்க
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.

@@ -75,7 +75,7 @@ newtab-menu-topsites-placeholder-tooltip =
 
 newtab-menu-edit-topsites = தொகு
 newtab-menu-open-new-window = ஒரு புதிய சாளரத்தில் திற
-newtab-menu-open-new-private-window = ஒரு புதிய அந்தரங்க சாளரத்தில் திற
+newtab-menu-open-new-private-window = ஒரு புதிய கமுக்க சாளரத்தில் திற
 newtab-menu-dismiss = வெளியேற்று
 newtab-menu-pin = பொருத்து
 newtab-menu-unpin = விடுவி
