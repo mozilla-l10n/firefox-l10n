@@ -18,7 +18,7 @@ menu-file-new-window =
     .label = புதிய சாளரம்
     .accesskey = N
 menu-file-new-private-window =
-    .label = புதிய அந்தரங்க சாளரம்
+    .label = புதிய கமுக்க சாளரம்
     .accesskey = W
 # "Open Location" is only displayed on macOS, and only on windows
 # that aren't main browser windows, or when there are no windows
@@ -150,7 +150,7 @@ menu-view-full-screen =
     .label = முழுத்திரை
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = அனைத்து கீற்றுகளையும் காட்டு
