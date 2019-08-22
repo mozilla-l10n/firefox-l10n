@@ -6,11 +6,11 @@
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; உலாவியைத் தேர்ந்தமைக்கு நன்றி">
 <!ENTITY newfirstrun_urlbar_message "&brandShortName; உலாவிக்கு வரவேற்கிறேன்">
 <!ENTITY firstrun_urlbar_subtext2 "சுதந்திர மற்றும் திறந்த இணையத்திற்காக அர்பணிக்கப்பட்ட இலாபநோக்கற்ற, மொசில்லாவிலிருந்து ஒரு நவீன கைபேசி உலாவி.">
-<!ENTITY newfirstrun_urlbar_subtext "வேகமான, தனியுரிமையுள்ள மற்றும் உங்கள் பக்கத்தில்.">
+<!ENTITY newfirstrun_urlbar_subtext "வேகமான, கமுக்கமான மற்றும் உங்கள் பக்கத்தில்.">
 <!ENTITY firstrun_panel_title_privacy "தனியுரிமை">
 <!ENTITY firstrun_privacy_message "யாரும் காணா வண்ணம் உலாவுங்கள்">
-<!ENTITY firstrun_privacy_subtext "பின்தொடரல் பாதுகாப்புடன் கூடிய தனிப்பட்ட உலாவல் நீங்கள் உலாவும்போது பின்தொடரிகளை தடுக்கிறது மேலும் நீங்கள் உலாவலை முடித்தபின் உங்கள் வரலாற்றை நினைவில் கொள்ளாது.">
-<!ENTITY newfirstrun_privacy_subtext "இணையத்தில் உங்களைப் பின்தொடரும் விளம்பர பின்தொடரிகளை அந்தரங்க உலாவல் தடுக்கிறது.">
+<!ENTITY firstrun_privacy_subtext "பின்தொடரல் பாதுகாப்புடன் கூடிய கமுக்க உலாவல் நீங்கள் உலாவும்போது பின்தொடரிகளை தடுக்கிறது மேலும் நீங்கள் உலாவலை முடித்தபின் உங்கள் வரலாற்றை நினைவில் கொள்ளாது.">
+<!ENTITY newfirstrun_privacy_subtext "இணையத்தில் உங்களைப் பின்தொடரும் விளம்பர பின்தொடரிகளை கமுக்க உலாவல் தடுக்கிறது.">
 <!ENTITY firstrun_panel_title_customize "விருப்பமை">
 <!ENTITY firstrun_customize_message "&brandShortName; உங்களுடையதாக மாற்றுங்கள்.">
 <!ENTITY firstrun_customize_subtext "&brandShortName; உலாவியை மேற்சேர்க்கைகளுடன் தனிப்பயனாக்கவும். விளம்பரங்களைத் தடுக்கவும், அம்சங்களைச் சேர்க்கவும், அல்லது உங்கள் தோற்றத்தை பிரதிபலிக்கும் ஒரு புதிய கருப்பொருளைத் தேர்ந்தெடுக்கவும்.">
@@ -24,7 +24,7 @@
 <!ENTITY updatednewfirstrun_sync_title "கணக்கு">
 <!ENTITY firstrun_sync_message2 "நீங்கள் விட்டுவிட்ட இடத்தில் எடு.">
 <!ENTITY firstrun_sync_subtext2 "&brandShortName; உலாவியில் நீங்கள் சேமிக்கும் புத்தகக்குறிகள், கடவுச்சொற்கள், பிறவற்றை உங்கள் எல்லா கருவிகளிலும் எடுக்க ஒத்திசைவைப் பயன்படுத்தவும்.">
-<!ENTITY newfirstrun_sync_subtext "உங்கள் கைப்பேசியில் சேமித்தவற்றை மேசைக்கணினிக்கான பயர்பாக்சுடன் அந்தரங்கமாகவும் பாதுகாப்போடும் ஒத்திசையுங்கள்.">
+<!ENTITY newfirstrun_sync_subtext "உங்கள் கைப்பேசியில் சேமித்தவற்றை மேசைக்கணினிக்கான பயர்பாக்சுடன் கமுக்கமாகவும் பாதுகாப்போடும் ஒத்திசையுங்கள்.">
 <!ENTITY updatednewfirstrun_sync_subtext "உங்கள் கணக்கில் உள்நுழைவதின் மூலம் &brandShortName; உலாவியின் அதிக பயனைப் பெறுவீர்கள்">
 <!ENTITY firstrun_signin_message "இணையுங்கள், தொடங்குங்கள்">
 <!ENTITY firstrun_signin_button "ஒத்திசைக்க உள்நுழை">
@@ -146,7 +146,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; கீற்றுகள்">
 <!ENTITY new_tab_opened "புதிய கீற்று திறந்தது">
-<!ENTITY new_private_tab_opened "புதிய தனிப்பட்ட கீற்று திறந்தது">
+<!ENTITY new_private_tab_opened "புதிய கமுக்க கீற்று திறந்தது">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -301,7 +301,7 @@
 <!ENTITY pref_donottrack_summary "&brandShortName; தளங்களிடம் உங்களை தடமறிய வேண்டாம் என தெரிவிக்கும்">
 
 <!ENTITY pref_tracking_protection_enabled "செயலில்">
-<!ENTITY pref_tracking_protection_enabled_pb "தனிப்பட்ட உலாவு முறையில் உள்ளது">
+<!ENTITY pref_tracking_protection_enabled_pb "கமுக்க உலாவல் செயலில்">
 <!ENTITY pref_tracking_protection_disabled "முடக்கம்">
 
 <!ENTITY pref_whats_new_notification "&brandShortName; இதில் புதியது என்ன">
@@ -373,7 +373,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_char_encoding "எழுத்து குறிமுறை">
 <!ENTITY pref_char_encoding_on "பட்டியலை காட்டு">
 <!ENTITY pref_char_encoding_off "பட்டியலை காட்ட வேண்டாம்">
-<!ENTITY pref_clear_private_data2 "தனிபயன் தரவை துடைக்கவும்">
+<!ENTITY pref_clear_private_data2 "தனிபயன் தரவைத் துடைக்கவும்">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "இப்போது துடை">
@@ -503,11 +503,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY page "பக்கம்">
 <!ENTITY tools "கருவிகள்">
 <!ENTITY new_tab "புதிய கீற்று">
-<!ENTITY new_private_tab "புதிய தனிப்பயன் கீற்று">
+<!ENTITY new_private_tab "புதிய கமுக்க கீற்று">
 <!ENTITY close_all_tabs "எல்லா தத்தலையும் மூடு">
-<!ENTITY close_private_tabs "தனிப்பட்ட கீற்றுகளை மூடு">
+<!ENTITY close_private_tabs "கமுக்க கீற்றுகளை மூடு">
 <!ENTITY tabs_normal "கீற்றுகள்">
-<!ENTITY tabs_private "தனிப்பட்ட">
+<!ENTITY tabs_private "கமுக்க">
 <!ENTITY set_image_fail "படத்தை அமைக்க முடியவில்லை">
 <!ENTITY set_image_path_fail "படத்தை சேமிக்க முடியவில்லை">
 <!ENTITY set_image_chooser_title "படத்தை இப்படி அமை">
@@ -531,7 +531,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY media_stop "நிறுத்து">
 
 <!ENTITY contextmenu_open_new_tab "புதிய கீற்றில் திறக்கவும்">
-<!ENTITY contextmenu_open_private_tab "தனியார் தாவலில் திறக்கவும்">
+<!ENTITY contextmenu_open_private_tab "கமுக்க தாவலில் திறக்கவும்">
 <!ENTITY contextmenu_remove "நீக்கு">
 <!ENTITY contextmenu_add_page_shortcut "பக்கத்தின் குறுக்குவழியை சேர்">
 <!ENTITY contextmenu_set_as_homepage "முகப்பு பக்கமாக்குக">
@@ -648,7 +648,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY home_most_recent_empty "நீங்கள் அண்மையில் பார்த்த இணையத்தளங்கள் இங்கே காண்பிக்கப்படும்.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "அறிக: &formatS1; தனிப்பட்ட கீற்று&formatS2; உங்கள் வரலாற்றை சேமிக்காது.">
+<!ENTITY home_most_recent_emptyhint2 "அறிக: &formatS1; கமுக்க கீற்று&formatS2; உங்கள் வரலாற்றைச் சேமிக்காது.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -809,7 +809,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-<!ENTITY intent_uri_private_browsing_prompt "இந்த இணைப்ப &formatS; இல் திறக்கும். தனிப்பட்ட உலாவலை விட்டு வெளியேறவா?">
+<!ENTITY intent_uri_private_browsing_prompt "இந்த இணைப்ப &formatS; இல் திறக்கும். கமுக்க உலாவலை விட்டு வெளியேறவா?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -817,7 +817,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
-<!ENTITY intent_uri_private_browsing_multiple_match_title "தனிப்பட்ட உலாவலை விட்டு வெளியேறவா?">
+<!ENTITY intent_uri_private_browsing_multiple_match_title "கமுக்க உலாவலை விட்டு வெளியேறவா?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
@@ -832,8 +832,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "கூடுதல் இணைப்புகள்">
 <!ENTITY restrictable_feature_addons_installation_description "சிறப்பம்சங்கள் அல்லது செயல்பாடுகளை Firefox இல் சேர். குறிப்பு: கூடுதல் இணைப்புகள் சில கட்டுப்பாடுகளை செயலிழக்கச் செய்யலாம்.">
-<!ENTITY restrictable_feature_private_browsing "தனிப்பட்ட உலாவல்">
-<!ENTITY restrictable_feature_private_browsing_description "குடும்ப உறுப்பினர்களை அவர்கள் பார்க்கும் பக்கங்கள் மற்றும் தளங்கள் குறித்த விவரங்களை சேமிக்காமல் உலாவ அனுமதிக்கிறது.">
+<!ENTITY restrictable_feature_private_browsing "கமுக்க உலாவல்">
+<!ENTITY restrictable_feature_private_browsing_description "குடும்ப உறுப்பினர்களை அவர்கள் பார்க்கும் பக்கங்கள் மற்றும் தளங்கள்குறித்த விவரங்களைச் சேமிக்காமல் உலாவ அனுமதிக்கிறது.">
 <!ENTITY restrictable_feature_clear_history "வரலாற்றைத் துடை">
 <!ENTITY restrictable_feature_clear_history_description "குடும்ப உறுப்பினர்களை அவர்கள் பார்த்த பக்கங்கள் மற்றும் தளங்கள் குறித்த விவரங்களை அழிக்க அனுமதிக்கிறது.">
 <!ENTITY restrictable_feature_advanced_settings "மேம்பட்ட அமைவுகள்">
@@ -901,7 +901,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "நீக்கு">
 <!ENTITY activity_stream_delete_history "வரலாற்றிலிருந்து அழி">
 
-<!ENTITY private_tab_panel_title "அந்தரங்க உலாவல் + தடமறி பாதுகாப்பு">
+<!ENTITY private_tab_panel_title "கமுக்க உலாவல் + தடமறி பாதுகாப்பு">
 <!ENTITY private_tab_panel_description "&brandShortName; உங்கள் உலாவல் செயல்பாடைத் தடமறியும் பக்கத்தின் பகுதிகள் முடக்குகிறது.">
 <!ENTITY private_tab_panel_description2 "நாங்கள் எந்த வரலாற்றையும் நினைவில் கொள்ள மாட்டோம், ஆனால் பதிவிறக்கப்பட்ட கோப்புகள் மற்றும் புதிய புத்தககுறிகள் கருவியில் சேமிக்கப்படும்.">
 <!ENTITY private_tab_learn_more "அதிகம் கற்க வேண்டுமா?">
