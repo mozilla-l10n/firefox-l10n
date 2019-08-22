@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Поништи
 customize-mode-lwthemes-my-themes =
     .value = Моје теме
+customize-mode-touchbar-cmd =
+    .label = Прилагодите додирну траку…
