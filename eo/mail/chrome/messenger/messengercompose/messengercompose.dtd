@@ -92,7 +92,7 @@
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
-<!ENTITY toggleAttachmentPaneCmd.accesskey "k">
+<!ENTITY toggleAttachmentPaneCmd.accesskey "a">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
      As Mac does not have access keys, this key defines a Mac-only, cross-l10n
      shortcut key (Ctrl+M). Typically, this key should not be translated unless
@@ -274,12 +274,14 @@
      first-level access keys of the compose window, e.g. those of main menu,
      buttons, or labels (message headers, contacts side bar, attachment reminder
      bar). -->
-<!ENTITY attachments.accesskey "m">
+<!ENTITY attachments.accesskey "a">
+<!ENTITY attachmentBucketHeader.tooltip "Listo de kunsendaĵoj">
+<!ENTITY attachmentBucketCloseButton.tooltip "Kaŝi liston de kunsendaĵoj">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!ENTITY SmileButton.tooltip "Insert a smiley face">
-<!ENTITY smiley1Cmd.label "Smile">
-<!ENTITY smiley2Cmd.label "Frown">
+<!ENTITY SmileButton.tooltip "Enmeti mien-simbolon (emoĝion)">
+<!ENTITY smiley1Cmd.label "Mien-simbolo">
+<!ENTITY smiley2Cmd.label "Malkontento">
 <!ENTITY smiley3Cmd.label "Wink">
 <!ENTITY smiley4Cmd.label "Tongue-out">
 <!ENTITY smiley5Cmd.label "Laughing">
