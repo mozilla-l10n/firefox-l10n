@@ -93,9 +93,16 @@ login-item-copied-password-button-text = Eesamal ve't ivatz
 login-item-save-changes-button = K'ol unq'a vee' b'anel tu ve't a'n
 login-item-save-new-button = Kola
 login-item-cancel-button = Ya'sakan
+login-item-time-changed = Imoxtel ve't ib'anax tuche': { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = B'anel ta'n: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Imoxtel ib'anb'ele':{ DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = B'an b'a'nil, aq'ku' u eexhlale' uve' axh kuxh ootzin tetz aq'al uva' la eele' kat xe'tisaml kat aq'on x-a'n as unq'a exhlale' uve' kolel kan s-a'n unpajte
+master-password-reload-button =
+    .label = Oken
+    .accesskey = O
 
 ## Dialogs
 
