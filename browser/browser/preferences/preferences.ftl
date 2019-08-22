@@ -371,7 +371,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefoxin aloitussivu (oletus)
+    .label = Selaimen aloitussivu (oletus)
 home-mode-choice-custom =
     .label = Omat osoitteet…
 home-mode-choice-blank =
@@ -395,9 +395,9 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header = Firefoxin aloitussivun sisältö
-home-prefs-content-description = Valitse Firefoxin aloitussivulle haluamasi sisältö.
-home-prefs-content-discovery-description = Firefoxin aloitussivun sisällön esittely näyttää laadukkaita ja olennaisia artikkeleita ympäri verkkoa.
+home-prefs-content-header = Selaimen aloitussivun sisältö
+home-prefs-content-description = Valitse selaimen aloitussivulle haluamasi sisältö.
+home-prefs-content-discovery-description = Aloitussivulla olevassa sisällön esittelyosiossa näytetään laadukkaita ja olennaisia artikkeleita ympäri verkkoa.
 home-prefs-search-header =
     .label = Verkkohaku
 home-prefs-topsites-header =

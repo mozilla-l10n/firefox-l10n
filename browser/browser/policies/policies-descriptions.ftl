@@ -55,7 +55,7 @@ policy-EnableTrackingProtection = Ota käyttöön tai poista käytöstä sisäll
 policy-Extensions = Asenna, poista tai lukitse laajennuksia. Asennusasetus ottaa parametreiksi URL-osoitteita tai polkuja. Poisto- ja lukitsemisasetukset ottavat parametreiksi laajennusten ID:itä.
 policy-ExtensionSettings = Hallitse kaikkia laajennusten asennukseen liittyviä asioita.
 policy-ExtensionUpdate = Ota käyttöön tai poista käytöstä laajennusten automaattipäivitykset.
-policy-FirefoxHome = Muokkaa Firefoxin aloitussivun asetuksia.
+policy-FirefoxHome = Muokkaa Firefox-selaimen aloitussivun asetuksia.
 policy-FlashPlugin = Salli tai estä Flash-liitännäisen käyttö.
 policy-HardwareAcceleration = Jos epätosi, poista laitteistokiihdytys käytöstä.
 # “lock” means that the user won’t be able to change this setting
@@ -74,7 +74,6 @@ policy-Preferences = Aseta ja lukitse arvo asetusten osajoukolle.
 policy-PromptForDownloadLocation = Kysy ladattaessa minne tiedostot tallennetaan.
 policy-Proxy = Määritä välityspalvelimen asetukset.
 policy-RequestedLocales = Aseta pyydetyt sovelluksen kielet suosituimmuusjärjestyksessä.
-policy-SanitizeOnShutdown = Poista kaikki selailutiedot suljettaessa selain.
 policy-SanitizeOnShutdown2 = Tyhjennä selaustiedot sammutuksen yhteydessä.
 policy-SearchBar = Aseta hakupalkin oletussijainti. Käyttäjä voi silti vaihtaa sitä.
 policy-SearchEngines = Aseta hakukoneasetukset. Tämä käytäntö on käytettävissä vain Extended Support Release (ESR) -versiossa.
