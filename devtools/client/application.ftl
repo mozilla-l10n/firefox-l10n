@@ -71,5 +71,9 @@ serviceworker-empty-suggestions-debugger = Prestopite registracijo Service Worke
 serviceworker-empty-suggestions-aboutdebugging = Preglejte Service Workerje iz ostalih domen. <a>Odpri about:debugging</a>
 # Text displayed while we are loading the manifest file
 manifest-loading = Nalaganje manifesta …
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Manifest naložen.
 # Text displayed when there has been an error while trying to load the manifest
 manifest-loaded-error = Pri nalaganju manifesta je prišlo do napake:
+# Text displayed when the page has no manifest available
+manifest-non-existing = Ni najdenega manifesta za pregled.
