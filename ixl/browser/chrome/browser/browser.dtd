@@ -120,6 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY editMenu.label         "B'an tuche'">
+<!ENTITY editMenu.accesskey       "E">
 <!ENTITY deleteCmd.label          "Eesa el">
 
 
@@ -192,6 +193,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Chuka">
+<!ENTITY searchIcon.tooltip           "Chuka">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -203,6 +206,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY search.label                 "Chuka ">
+<!ENTITY searchAfter.label            "">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
@@ -274,6 +279,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettings.accesskey "E">
 
 
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
