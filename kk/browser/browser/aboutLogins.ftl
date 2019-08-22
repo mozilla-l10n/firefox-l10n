@@ -55,12 +55,14 @@ login-list-breached-option = Бұзылған веб-сайттар
 login-list-last-changed-option = Соңғы рет өзгертілген
 login-list-last-used-option = Соңғы қолданылған
 login-list-intro-title = Логиндер табылмады
+login-list-intro-description = { -brand-product-name } ішінде парольді сақтағаннан кейін, ол осында көрсетіледі.
 login-list-item-title-new-login = Жаңа логин
 login-list-item-subtitle-new-login = Логин мәліметтерін енгізіңіз
 login-list-item-subtitle-missing-username = (пайдаланушы аты жоқ)
 
 ## Introduction screen
 
+login-intro-heading = Сақталған логиндерді іздеудесіз бе? { -sync-brand-short-name } баптаңыз.
 
 ## Login
 
