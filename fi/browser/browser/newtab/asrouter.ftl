@@ -91,6 +91,8 @@ cfr-doorhanger-sync-bookmarks-ok-button = Ota { -sync-brand-short-name } käytt�
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Lopeta salasanojen unohtaminen
+cfr-doorhanger-sync-logins-ok-button = Ota { -sync-brand-short-name } käyttöön
+    .accesskey = O
 
 ## Send Tab
 
@@ -100,3 +102,5 @@ cfr-doorhanger-send-tab-recipe-header = Vie tämä resepti keittiöön
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Jaa tämä PDF turvallisesti
+cfr-doorhanger-firefox-send-ok-button = Kokeile { -send-brand-name }-palvelua
+    .accesskey = K

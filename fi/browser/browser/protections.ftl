@@ -18,8 +18,12 @@ social-tab-title = Sosiaalisen median seuraimet
 fingerprinter-tab-title = Yksilöijät
 cryptominer-tab-title = Kryptolouhijat
 lockwise-title = Lopeta salasanojen unohtaminen
+turn-on-sync = Ota { -sync-brand-short-name } käyttöön…
+    .title = Siirry synkronointiasetuksiin
 manage-devices = Hallitse laitteita
 monitor-link = Miten se toimii
+monitor-header-content = Tarkista { -monitor-brand-name }-palvelusta, ovatko tietosi olleet osana tietovuotoa ja vastaanota hälytyksiä uusista vuodoista.
+monitor-header-content-logged-in = { -monitor-brand-name } varoittaa, jos tietojasi on levinnyt tunnetun tietovuodon yhteydessä.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
