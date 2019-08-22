@@ -77,6 +77,11 @@ login-item-delete-button = Eesa el
 login-item-origin-label = Tatinb'al web
 login-item-origin =
     .placeholder = https://www.example.com
+login-item-open-site-button = Ixe'te
+login-item-username-label = Ib'ii u etzit tetze'
+login-item-username =
+    .placeholder = name@example.com
+login-item-copy-username-button-text = Eesa ivatz
 login-item-save-new-button = Kola
 
 ## Master Password notification
