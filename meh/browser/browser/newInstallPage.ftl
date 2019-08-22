@@ -8,3 +8,7 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Tu´un jíía íyo
+sync-input =
+    .placeholder = Email
+sync-button = Kɨ´ɨ
+sync-learn = Ka´vi kue´eka
