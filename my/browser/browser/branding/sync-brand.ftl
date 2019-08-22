@@ -5,7 +5,7 @@
 -sync-brand-short-name = ထပ်တူပြုပြိုင်တူအသုံးပြုခြင်း
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--sync-brand-name = မီးမြေခွေးထပ်တူအသုံးချခြင်း
+-sync-brand-name = Firefox ထပ်တူအသုံးချခြင်း
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
--fxaccount-brand-name = မီးမြေခွေးအကောင့်
+-fxaccount-brand-name = Firefox အကောင့်
