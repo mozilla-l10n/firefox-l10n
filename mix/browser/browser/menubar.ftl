@@ -140,9 +140,15 @@ menu-view-enter-full-screen =
 menu-view-exit-full-screen =
     .label = Kee Pantalla Kanu
     .accesskey = K
+menu-view-full-screen =
+    .label = Pantalla kanu
+    .accesskey = P
 
 
 
+menu-view-show-all-tabs =
+    .label = Kuna ntii xikua
+    .accesskey = K
 
 ## History Menu
 
