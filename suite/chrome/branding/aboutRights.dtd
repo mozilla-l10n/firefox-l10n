@@ -21,11 +21,16 @@
 <!ENTITY rights.intro-point1c ". Isso significa que pode usar, copiar e distribuir o &brandShortName; para outras pessoas. Também é bem-vindo para modificar o código-fonte do &brandShortName; para atender suas necessidades. A Licença Pública Mozilla também lhe dá o direito de distribuir as suas versões modificadas.">
 
 <!ENTITY rights.intro-point2a "A Mozilla não lhe concede quaisquer direitos sobre as marcas registradas ou logotipos da Mozilla e SeaMonkey. Informações adicionais sobre as marcas comerciais podem ser encontrados ">
+
+<!ENTITY rights.intro-point2aa "A &vendorShortName; não concede a você nenhum direito às marcas registradas ou logotipos do &quot;&brandFullName;&quot;. Informações adicionais sobre marcas registradas (Trademarks) podem ser encontradas ">
 <!ENTITY rights.intro-point2b "aqui">
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 2d is technically point 3. in the list -->
 <!ENTITY rights.intro-point2d "Alguns recursos no &brandShortName;, como o Relator de Problemas, dá a opção de fornecer feedback para o &vendorShortName;. Escolhendo enviar o feedback, você dá permissão para o &vendorShortName; e a Mozilla de usar o feedback para melhorar suas aplicações, de publica-lo em seus sites, e de distribuí-lo.">
+
+<!-- point 2da is technically point 3. in the list -->
+<!ENTITY rights.intro-point2da "Alguns recursos do &brandShortName;, como o Crash Reporter, lhe dão a opção de fornecer informações adicionais à &vendorShortName;. Ao escolher enviar essas informações, você dá à &vendorShortName; permissão para usá-las para aprimorar suas aplicações, publicá-las em seus sites e distribuir tais informações.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "A política de privacidade dos produtos da &vendorShortName; pode ser encontrada ">
@@ -45,6 +50,8 @@
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights3.webservices-a "&brandFullName; oferece serviços baseados na web opcionais (&quot;Serviços&quot;) que são disponíveis para seu uso com essa versão binária do &brandShortName; como descrita abaixo.  Alguns desses serviços (assim como o serviço de sugestão de Complementos e de atualização, o serviço de Navegação Segura, ou o recurso de notificação de Navegação Ciente da Localização) estão ativadas por padrão.  Se você não quer usar nenhum desses Serviços ou os termos abaixo são inaceitáveis, instruções sobre como desativar um determinado recurso ou Serviço podem ser encontradas ">
+<!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-aa "A &vendorShortName; oferece serviços opcionais baseados na web (&quot;Serviços&quot;) que estão disponíveis para seu uso com esta versão binária do &brandShortName; como descrito abaixo. Alguns desses serviços (como serviços de sugestões e atualização de extensões, o serviço de navegação segura, ou o recurso de notificação de navegação com detecção de localização) são ativados por padrão. Se você não quiser usar quaisquer desses Serviços ou os termos abaixo não são aceitáveis, instruções de como desativar um recurso ou Serviço em particular podem ser encontrados ">
 <!ENTITY rights3.webservices-b "aqui">
 <!ENTITY rights3.webservices-c ". Outros recursos e Serviços podem ser ativados ou desativados nas preferências do aplicativo.">
 
@@ -74,6 +81,8 @@
 
 <!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term0 "&vendorShortName; e Mozilla juntamente com seus colaboradores, licenciadores e parceiros trabalham para prestar serviços mais precisos e atualizados. No entanto, não podemos garantir que essa informação seja compreensiva e livre de erros. Por exemplo, o Serviço de Navegação Segura pode não identificar alguns sites perigosos e pode identificar alguns sites seguros com erro, e todos os locais do Serviço de Localização Ciente retornados pelos nossos prestadores de serviços são apenas estimativas. Nem nós, nem nossos prestadores de serviços garantem a precisão dos locais fornecidos.">
+
+<!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "A &vendorShortName; pode descontinuar ou alterar os serviços a qualquer momento.">
 <!ENTITY rights.webservices-term2 "Você é bem-vindo para utilizar estes Serviços com a versão associada do &brandShortName;, e possui todos os direitos necessários para fazê-lo. A &vendorShortName; e seus licenciadores reservam todos os outros direitos sobre os Serviços. Estes termos não são intencionados a limitar nenhum dos direitos concedidos com as licenças de código aberto aplicáveis ao &brandShortName; e as correspondentes versões do código-fonte do &brandShortName;.">
 <!ENTITY rights.webservices-term3 "Os Serviços são fornecidos “tais como estão”. A &vendorShortName;, seus colaboradores, licenciadores e distribuidores se isentam de todas as garantias, sejam expressas ou implícitas, incluindo, entre outras, garantias de que os Serviços sejam comercializáveis e apropriados para os seus fins particulares. Você tolera todo o risco quanto a seleção dos Serviços para os seus fins e quanto à qualidade e desempenho dos Serviços. Algumas jurisdições não permitem a exclusão ou limitação de garantias implícitas, de forma que esta isenção pode não se aplicar a você.">
