@@ -10,6 +10,23 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-AppUpdateURL = Aseta omavalintainen sovelluksen päivitysosoite.
+policy-Authentication = Määritä integroitu tunnistautumisen sitä tukeville sivustoille.
+policy-BlockAboutAddons = Estä pääsy lisäosien hallintaan (about:addons).
+policy-BlockAboutConfig = Estä pääsy about:config -sivulle.
+policy-BlockAboutProfiles = Estä pääsy about:profiles-sivulle.
+policy-BlockAboutSupport = Estä pääsy about:support-sivulle.
+policy-CaptivePortal = Käytä tai poista käytöstä tuki verkkojen kirjautumissivuille.
+policy-CertificatesDescription = Lisää varmenteita tai käytä sisäänrakennettuja varmenteita.
+policy-Cookies = Salli tai estä sivustoja asettamasta evästeitä.
+policy-DefaultDownloadDirectory = Aseta oletusarvoinen latauskansio.
+policy-DisableAppUpdate = Estä { -brand-short-name }in päivitykset.
+policy-DisableDeveloperTools = Estä pääsy kehittäjätyökaluihin.
+policy-DisableMasterPasswordCreation = Jos tosi, pääsalasanaa ei voi luoda.
+policy-DisableProfileImport = Poista käytöstä valikkokohta, jonka avulla voi tuoda tietoja toisesta sovelluksesta.
+policy-DisableSecurityBypass = Estä käyttäjää ohittamasta tiettyjä turvallisuusvaroituksia.
+policy-DisableSystemAddonUpdate = Estä { -brand-short-name }iä asentamasta ja päivittämästä järjestelmälisäosia.
+policy-DisplayMenuBar = Näytä valikkopalkki oletusarvoisesti.
 policy-DNSOverHTTPS = Määritä DNS:n käyttö HTTPS:n yli.
 policy-DontCheckDefaultClient = Poista käytöstä oletussähköpostiohjelman tarkistus käynnistyksen yhteydessä.
 policy-DownloadDirectory = Aseta ja lukitse latauskansio.
@@ -19,6 +36,7 @@ policy-InstallAddonsPermission = Salli tiettyjen sivustojen asentaa lisäosia.
 policy-LocalFileLinks = Salli tiettyjen sivuston linkittää paikallisiin tiedostoihin.
 policy-PromptForDownloadLocation = Kysy mihin ladattavat tiedostot tallennetaan.
 policy-Proxy = Määritä välityspalvelimen asetukset.
+policy-SearchEngines = Muokkaa hakukoneiden asetuksia. Tämä käytäntö on saatavilla vain laajennetun tuen (ESR) julkaisulle .
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Asenna PKCS #11 -moduulit.
 policy-SSLVersionMax = Aseta SSL:n enimmäisversio.
