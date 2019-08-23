@@ -27,6 +27,8 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Kuna menú
+# This menuitem is only visible on Windows
+menu-menuitem-import = Nduku tu'un see
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opciones
@@ -48,6 +50,7 @@ login-list-name-option = Sivi (A-Z)
 login-list-last-changed-option = Ña samu sa ntii
 login-list-last-used-option = Chachu'un sa nti'i
 login-list-item-title-new-login = Ktisaa Tsa'a
+login-list-item-subtitle-new-login = Chaa sivu takua kitsau
 login-list-item-subtitle-missing-username = (Koo sivi kitsau)
 
 ## Introduction screen

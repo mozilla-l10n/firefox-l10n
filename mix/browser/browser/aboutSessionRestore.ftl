@@ -29,3 +29,5 @@ welcome-back-page-title = Vaa na koo
 welcome-back-restore-button =
     .label = Kitsa
     .accesskey = K
+welcome-back-restore-all-label = Kuna ntii ventana & xikua
+welcome-back-restore-some-label = Kuna ña kunu

@@ -54,6 +54,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-link-text = Skua'a kuakaa
 
 ## What's New toolbar button and panel
 
@@ -64,9 +65,13 @@ cfr-whatsnew-panel-header = Nchi yee ña tsaa
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-ok-button = Ndatu'un { -sync-brand-short-name }
+    .accesskey = T
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-ok-button = Ndatu'un { -sync-brand-short-name }
+    .accesskey = A
 
 ## Send Tab
 

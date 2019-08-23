@@ -4,6 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = Ndutsaa ta ni kitsai
+customize-mode-overflow-list-title = Menú de desbordamiento
 customize-mode-uidensity =
     .label = Densidad
 customize-mode-done =

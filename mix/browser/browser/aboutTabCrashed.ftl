@@ -9,3 +9,6 @@ crashed-restore-all-button = Ndakuna ntii xikua
 crashed-header = Uy. Vaá xikkua.
 crashed-offer-help = ¡A ku chinchee yoo!
 crashed-single-offer-help-message = Katsi { crashed-restore-tab-button } Takua ndakitsa página.
+crashed-request-help = ¿A chincheu?
+crashed-request-report-title = Vaa xikua yo
+crashed-email-placeholder = Chaa korreo electrónico
