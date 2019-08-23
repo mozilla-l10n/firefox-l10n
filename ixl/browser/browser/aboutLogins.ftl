@@ -130,3 +130,7 @@ confirm-discard-changes-dialog-confirm-button = Eesa kan
 
 ## Breach Alert notification
 
+breach-alert-text = Jank'al chit unq'a texhlal kach'up tetze' kat elq'al tzitza' tu web  tul uva' kat ab'an tuch va b'iie' tul kat xe't axh aq'onvo. Jalpu u texhlal kach'ub' tetze' uva' axh kuxh ootzin tetz, aq'al uva' ye' la elq'ali.
+breach-alert-link = Tzitza' la ootzi kat unka't txumb'al ti va'lexhe' kat b'anchi.
+breach-alert-dismiss =
+    .title = Jup u va'le'xhe' uve' ni k'uch tib' savatz
