@@ -121,10 +121,25 @@ menu-view-full-zoom-reset =
 menu-view-full-zoom-toggle =
     .label = Sama texto
     .accesskey = S
+menu-view-page-style-no-style =
+    .label = Koo ñaá
+    .accesskey = K
+menu-view-page-basic-style =
+    .label = Básico
+    .accesskey = B
+menu-view-charset =
+    .label = Codificación de texto
+    .accesskey = C
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Kitsa Pantalla Kanu
+    .accesskey = K
+menu-view-exit-full-screen =
+    .label = Kee Pantalla Kanu
+    .accesskey = K
 
 
 
