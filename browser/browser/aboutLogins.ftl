@@ -111,8 +111,8 @@ confirmation-dialog-dismiss-button =
     .title = გაუქმება
 enable-password-sync-notification-message =
     { PLATFORM() ->
-        [windows] გსურთ თქვენი ანგარიშების გამოყენება შეგეძლოთ ყველგან, სადაც { -brand-product-name } გიყენიათ? გადადით თქვენი { -sync-brand-short-name(case: "gen") } პარამეტრებში და მონიშნეთ ანგარიშების უჯრა.
-       *[other] გსურთ თქვენი ანგარიშების გამოყენება შეგეძლოთ ყველგან, სადაც { -brand-product-name } გიყენიათ? გადადით თქვენი { -sync-brand-short-name(case: "gen") } პარამეტრებში და მონიშნეთ ანგარიშების უჯრა.
+        [windows] გსურთ თქვენი ანგარიშები თან იქონიეთ ყველგან, სადაც { -brand-product-name }-ს იყენებთ? გადადით { -sync-brand-short-name(case: "gen") } პარამეტრებში და მონიშნეთ ანგარიშების უჯრა.
+       *[other] გსურთ თქვენი ანგარიშები თან იქონიეთ ყველგან, სადაც { -brand-product-name }-ს იყენებთ? გადადით { -sync-brand-short-name(case: "gen") } პარამეტრებში და მონიშნეთ ანგარიშების უჯრა.
     }
 enable-password-sync-preferences-button =
     .label =

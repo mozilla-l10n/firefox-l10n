@@ -48,7 +48,7 @@ onboarding-sync-form-skip-login-button = გამოტოვება
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = შეიყვანეთ თქვენი ელფოსტა
-onboarding-sync-form-sub-header = { -sync-brand-name }ზე გადასასვლელად
+onboarding-sync-form-sub-header = { -sync-brand-name }-ზე გადასასვლელად
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
