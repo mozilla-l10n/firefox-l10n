@@ -109,7 +109,24 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Ya'sakan
 confirmation-dialog-dismiss-button =
     .title = Ya'sakan
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Nasa' la eele' kat xe'tisamal kat aq'on s-a'n kat kuxh at kat axh { -brand-product-name }? jaj unq'a vee' uve' ni chit ab'anb'e { -sync-brand-short-name } As la txaae' ab'iste unq'a vee' xe'tisamal kat aq'on s-a'n.
+       *[other] Nasa' la eele' kat xe'tisamal kat aq'on s-a'n kat kuxh at kat axh { -brand-product-name }? jaj unq'a vee' uve' ni chit ab'anb'e { -sync-brand-short-name } Jaj unq'a vee' uve' ni chit ab'anb'e
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Ila' ab'iste nasa' { -sync-brand-short-name }
+           *[other] Ila' ab'iste chit nasa' { -sync-brand-short-name }
+        }
+    .accesskey = I
+confirm-delete-dialog-title = La sojsa ixe'teb'al u aq'one'?
+confirm-delete-dialog-message = Ye' la uch asojsat u vaa'.
 confirm-delete-dialog-confirm-button = Eesa el
+confirm-discard-changes-dialog-title = Y'el unq'a vee' la kole' uve' b'anel ve't s-a'n?
+confirm-discard-changes-dialog-message = Jank'al chit unq'a vee' uve' nakole' la mox tz'ejxi.
+confirm-discard-changes-dialog-confirm-button = Eesa kan
 
 ## Breach Alert notification
 
