@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Prílohy">
 <!ENTITY panePrivacy.title        "Súkromie">
 <!ENTITY paneSecurity.title       "Bezpečnosť">
+<!ENTITY panePrivacySecurity.title "Súkromie a bezpečnosť">
 <!ENTITY paneLightning.title      "Kalendár">
 <!ENTITY paneAdvanced.title       "Spresnenie">
 <!ENTITY paneAccount.title        "Účty">

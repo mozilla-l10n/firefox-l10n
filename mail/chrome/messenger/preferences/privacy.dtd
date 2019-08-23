@@ -37,3 +37,6 @@
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Ďalšie informácie o funkcii Do Not Track">
 
+<!ENTITY doNotTrackCheck.label "Požiadať webové stránky pomocou signálu „Do Not Track“, aby vás nesledovali">
+<!ENTITY doNotTrackCheck.accesskey "n">
+<!ENTITY doNotTrackLearnMore.label "Ďalšie informácie">

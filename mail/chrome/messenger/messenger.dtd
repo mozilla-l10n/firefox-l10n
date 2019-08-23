@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "K">
 <!ENTITY folderPaneBar.label "Nástroje panela priečinkov">
 <!ENTITY folderPaneBar.accesskey "a">
-<!ENTITY folderModeSelector.label "Zobrazenie priečinkov">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Usporiadať podľa">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Uložiť označenú správu do súboru">
 <!ENTITY archiveButton.tooltip "Presunúť označené správy do archívu">
 <!ENTITY openConversationButton.tooltip "Zobraziť konverzáciu k vybranej správe">
+<!ENTITY openMsgConversationButton.tooltip "Zobraziť konverzáciu k vybranej správe">
 <!ENTITY nextButton.tooltip "Presunúť sa na nasledujúcu neprečítanú správu">
 <!ENTITY nextMsgButton.tooltip "Presunúť sa na nasledujúcu správu">
 <!ENTITY previousButton.tooltip "Presunúť sa na predchádzajúcu neprečítanú správu">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Priradí k správe popis">
 <!ENTITY compactButton.tooltip "Odstráni vymazané správy z označeného priečinka">
 <!ENTITY appmenuButton1.tooltip "Zobrazí ponuku aplikácie &brandShortName;">
-
 <!ENTITY addonsButton.tooltip "Správa doplnkov">
 
 <!-- Toolbar Button Popup -->
