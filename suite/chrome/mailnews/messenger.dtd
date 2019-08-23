@@ -442,6 +442,7 @@
 <!ENTITY markButton.tooltip "Marcar mensagens">
 <!ENTITY stopButton.tooltip "Interromper a transferência atual">
 <!ENTITY throbber.tooltip "Abrir o site do &vendorShortName; ">
+<!ENTITY throbber.tooltip2 "Ir para a página inicial do &brandShortName;">
 <!ENTITY junkButton.tooltip "Marcar como spam as mensagens selecionadas">
 <!ENTITY notJunkButton.tooltip "Marcar como não spam as mensagens selecionadas">
 
