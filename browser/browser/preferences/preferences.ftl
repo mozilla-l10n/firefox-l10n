@@ -91,7 +91,7 @@ extension-controlled-privacy-containers = Laajennus, <img data-l10n-name="icon"/
 extension-controlled-websites-content-blocking-all-trackers = Laajennus, <img data-l10n-name="icon"/> { $name }, hallitsee tätä asetusta.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = Laajennus, <img data-l10n-name="icon"/> { $name }, hallitsee selaimen verkkoyhteysasetuksia.
+extension-controlled-proxy-config = Laajennus, <img data-l10n-name="icon"/> { $name }, hallitsee { -brand-short-name }-selaimen verkkoyhteysasetuksia.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -350,7 +350,7 @@ browsing-cfr-recommendations-learn-more = Lue lisää
 ## General Section - Proxy
 
 network-settings-title = Verkkoasetukset
-network-proxy-connection-description = Muokkaa selaimen verkkoyhteysasetuksia.
+network-proxy-connection-description = Muokkaa { -brand-short-name }-selaimen verkkoyhteysasetuksia.
 network-proxy-connection-learn-more = Lue lisää
 network-proxy-connection-settings =
     .label = Asetukset…
