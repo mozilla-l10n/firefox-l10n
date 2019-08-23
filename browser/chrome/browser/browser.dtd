@@ -898,11 +898,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Сайт всё ещё не работает после отключения защиты?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Отправьте сообщение">
 
-<!ENTITY protections.blocking.label "Блокируются">
-<!ENTITY protections.notBlocking.label "Не блокируются">
+<!ENTITY protections.blocking2.label "Блокируются">
+<!ENTITY protections.notBlocking2.label "Разрешены">
 <!ENTITY protections.notBlocking.why.label "Почему?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Блокировка может привести к неработоспособности элементов некоторых веб-сайтов. Без трекеров некоторые кнопки, формы и поля для входа могут не работать.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Отключение защиты разрешит все трекеры на этом сайте. Также это может привести к улучшению работы веб-сайта.">
+<!ENTITY protections.notFound.label "Ничего не найдено">
 <!ENTITY protections.socialMediaTrackers.label "Трекеры социальных сетей">
 <!ENTITY protections.crossSiteTrackingCookies.label "Межсайтовые отслеживающие куки">
 <!ENTITY protections.trackingContent.label "Отслеживающее содержимое">
