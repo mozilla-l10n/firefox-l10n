@@ -307,6 +307,7 @@
 <!ENTITY TextColorButton.tooltip "ტექსტის ფერის არჩევა">
 <!ENTITY BackgroundColorButton.tooltip "ფონის ფერის არჩევა">
 <!ENTITY throbber.tooltip "&vendorShortName; – საწყის გვერდზე გადასვლა">
+<!ENTITY throbber.tooltip2 "&brandShortName; – საწყის გვერდზე გადასვლა">
 <!ENTITY HighlightColorButton.tooltip "მონიშნული ტექსტის ფერის შერჩევა">
 
 <!-- Editor toolbar -->
