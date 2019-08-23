@@ -101,9 +101,11 @@ detail-private-browsing-description2 = დაშვების შემთხ�
 # cannot be overridden by the user.
 detail-private-disallowed-label = არაა დაშვებული პირად ფანჯრებში
 detail-private-disallowed-description = ეს გაფართოება არ გაეშვება პირადი თვალიერებისას. <label data-l10n-name="detail-private-browsing-learn-more">ვრცლად</label>
+detail-private-disallowed-description2 = ეს გაფართოება არ გაეშვება პირადი თვალიერებისას. <a data-l10n-name="learn-more">ვრცლად</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = საჭიროებს პირად ფანჯრებთან წვდომას
 detail-private-required-description = ამ გაფართოებას ექნება წვდომა თქვენს მოქმედებებზე ინტერნეტში, პირადი თვალიერებისას. <label data-l10n-name="detail-private-browsing-learn-more">ვრცლად</label>
+detail-private-required-description2 = ამ გაფართოებას ექნება წვდომა თქვენს მოქმედებებზე ინტერნეტში, პირადი თვალიერებისას. <a data-l10n-name="learn-more">ვრცლად</a>
 detail-private-browsing-on =
     .label = დაშვება
     .tooltiptext = ჩართვა პირადი თვალიერებისას
@@ -372,6 +374,11 @@ install-update-button = განახლება
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = დაშვებულია პირად ფანჯრებში
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = დაშვებულია პირად ფანჯრებში
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = დაშვების შემთხვევაში, გაფართოებას წვდომა ექნება თქვენს მოქმედებებზე პირად ფანჯრებში. <a data-l10n-name="learn-more">ვრცლად</a>
 addon-detail-private-browsing-allow = დაშვება
 addon-detail-private-browsing-disallow = აკრძალვა
