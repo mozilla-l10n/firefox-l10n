@@ -69,6 +69,14 @@ serviceworker-empty-suggestions-debugger = 逐步注册您的 Service Worker，�
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = 查看其他域名的 Service Worker。<a>打开 about:debugging</a>
+# Header for the view of Manifest displayed in the application panel for the current page.
+manifest-view-header = 应用清单文件
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = 错误和警告
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = 标识
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = 图标
 # Text displayed while we are loading the manifest file
 manifest-loading = 正在载入清单文件…
 # Text displayed when the manifest has been successfully loaded
