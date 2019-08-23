@@ -65,15 +65,71 @@ login-list-item-subtitle-missing-username = (គ្មាន​ឈ្មោះ�
 login-intro-heading = កំពុង​រក​មើល​ការចូល​ដែល​បាន​រក្សាទុក​របស់​អ្នក​មែន​ទេ? រៀបចំ { -sync-brand-short-name } ។
 login-intro-description = ប្រសិនបើ​អ្នក​បាន​រក្សាទុក​ការចូល​របស់​អ្នក​ទៅ { -brand-product-name } នៅ​លើ​ឧបករណ៍​ផ្សេង នេះជា​របៀប​​ចូល​​មើល​ការចូល​ទាំងនោះ​នៅ​ត្រង់នេះ៖
 login-intro-instruction-fxa = បង្កើត ឬ​ចូល​ទៅ { -fxaccount-brand-name } របស់​អ្នក​នៅ​លើ​ឧបករណ៍ ត្រង់​កន្លែង​ដែល​បាន​រក្សាទុក​ការចូល​របស់​អ្នក
+login-intro-instruction-fxa-settings = ប្រាកដ​ថា អ្នក​បាន​ជ្រើសរើស​​ប្រអប់​ធីក​ការចូល​នៅ​ក្នុង​ការកំណត់ { -sync-brand-short-name }
+login-intro-instruction-faq = ចូល​ទៅ​កាន់ <a data-l10n-name="faq">សំណួរ​ដែល​សួរ​ញឹកញាប់</a> លើ { -lockwise-brand-short-name } សម្រាប់​ជំនួយ​បន្ថែម
 
 ## Login
 
+login-item-new-login-title = បង្កើត​ការចូល​ថ្មី
+login-item-edit-button = កែសម្រួល
+login-item-delete-button = លុប
+login-item-origin-label = អាសយដ្ឋាន​គេហទំព័រ
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-open-site-button = បើក​ដំណើរការ
+login-item-username-label = ឈ្មោះ​អ្នក​ប្រើប្រាស់
+login-item-username =
+    .placeholder = name@example.com
+login-item-copy-username-button-text = ចម្លង
+login-item-copied-username-button-text = បាន​ចម្លង!
+login-item-password-label = ពាក្យ​សម្ងាត់
+login-item-password-reveal-checkbox-show =
+    .title = បង្ហាញ​ពាក្យ​សម្ងាត់
+login-item-password-reveal-checkbox-hide =
+    .title = លាក់​ពាក្យ​សម្ងាត់
+login-item-copy-password-button-text = ចម្លង
+login-item-copied-password-button-text = បាន​ចម្លង!
+login-item-save-changes-button = រក្សាទុក​ការផ្លាស់ប្ដូរ
+login-item-save-new-button = រក្សាទុក
+login-item-cancel-button = បោះបង់
+login-item-time-changed = បាន​កែប្រែ​ចុងក្រោយ៖ { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = បាន​បង្កើត៖ { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = បាន​ប្រើប្រាស់​ចុងក្រោយ៖ { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = សូម​បញ្ចូល​ពាក្យសម្ងាត់​មេ​របស់​អ្នក ដើម្បី​មើល​ការចូល និង​ពាក្យ​សម្ងាត់​ដែល​បាន​រក្សាទុក
+master-password-reload-button =
+    .label = ចូល
+    .accesskey = ច
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = បោះបង់
+confirmation-dialog-dismiss-button =
+    .title = បោះបង់
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] ចង់បាន​ការចូល​របស់​អ្នក​នៅ​គ្រប់កន្លែង​ដែល​អ្នក​ប្រើប្រាស់ { -brand-product-name } ដែរ​ឬ​ទេ? ចូល​ទៅ​កាន់​ជម្រើស { -sync-brand-short-name } រួច​ជ្រើសរើស​ប្រអប់​ធីក​ការចូល។
+       *[other] ចង់បាន​ការចូល​របស់​អ្នក​នៅ​គ្រប់កន្លែង​ដែល​អ្នក​ប្រើប្រាស់ { -brand-product-name } ដែរ​ឬ​ទេ? ចូល​ទៅ​កាន់​​ចំណូលចិត្ត { -sync-brand-short-name } រួច​ជ្រើសរើស​ប្រអប់​ធីក​ការចូល។
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] ចូល​ទៅ​កាន់​ជម្រើស { -sync-brand-short-name }
+           *[other] ចូល​ទៅ​កាន់​ចំណូលចិត្ត { -sync-brand-short-name }
+        }
+    .accesskey = V
+confirm-delete-dialog-title = លុប​ការចូល​នេះ?
+confirm-delete-dialog-message = សកម្មភាព​នេះ​មិន​អាច​ត្រឡប់​វិញ​បាន​ទេ។
+confirm-delete-dialog-confirm-button = លុប
+confirm-discard-changes-dialog-title = បោះបង់​ការផ្លាស់ប្ដូរ​ដែល​មិន​បាន​រក្សាទុក?
+confirm-discard-changes-dialog-message = ការផ្លាស់ប្ដូរ​ដែល​មិន​បាន​រក្សាទុក​ទាំងអស់​នឹង​បាត់។
+confirm-discard-changes-dialog-confirm-button = បោះបង់
 
 ## Breach Alert notification
 
+breach-alert-text = ពាក្យ​សម្ងាត់​ត្រូវបាន​បែកធ្លាយ ឬ​លួច​ពី​គេហទំព័រ​នេះ ចាប់តាំង​ពី​អ្នក​បាន​ធ្វើបច្ចុប្បន្នភាព​​ព័ត៌មាន​លម្អិត​ការចូល​របស់​អ្នក​ចុងក្រោយ។ សូម​ប្ដូរ​ពាក្យ​សម្ងាត់​របស់​អ្នក ដើម្បី​ការពារ​គណនី​របស់​អ្នក។
+breach-alert-link = ស្វែងយល់​បន្ថែម​អំពី​​ការបំពាន​នេះ។
+breach-alert-dismiss =
+    .title = បិទ​ការជូនដំណឹង​នេះ
