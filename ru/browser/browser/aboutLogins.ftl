@@ -51,7 +51,7 @@ login-list-count =
         [few] { $count } логина
        *[many] { $count } логинов
     }
-login-list-sort-label-text = Сортировать по:
+login-list-sort-label-text = Сортировать:
 login-list-name-option = В алфавитном порядке
 login-list-breached-option = Взломанные сайты
 login-list-last-changed-option = По последнему изменению
@@ -95,7 +95,7 @@ login-item-save-changes-button = Сохранить изменения
 login-item-save-new-button = Сохранить
 login-item-cancel-button = Отмена
 login-item-time-changed = Последнее изменение: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Создано: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Создан: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Последнее использование: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification

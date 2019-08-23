@@ -92,6 +92,13 @@ cfr-doorhanger-sync-bookmarks-body = Получайте доступ к закл
 cfr-doorhanger-sync-bookmarks-ok-button = Включить { -sync-brand-short-name(case: "accusative") }…
     .accesskey = ю
 
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Никогда больше не забывайте пароли
+cfr-doorhanger-sync-logins-body = Надёжно храните и синхронизируйте свои пароли со всеми вашими устройствами.
+cfr-doorhanger-sync-logins-ok-button = Включить { -sync-brand-short-name(case: "accusative") }
+    .accesskey = В
+
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Читайте на ходу
