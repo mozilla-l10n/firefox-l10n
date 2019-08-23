@@ -364,3 +364,5 @@
 <!ENTITY aria.message.bodyName "Enhavo de mesaĝo">
 
 <!-- Status Bar -->
+<!ENTITY languageStatusButton.tooltip "Lingvo por ortografia korekto">
+<!ENTITY encodingStatusPanel.tooltip "Teksta kodprezento">
