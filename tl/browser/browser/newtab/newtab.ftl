@@ -25,7 +25,7 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-search-engine-header = Magdagdag ng Search Engine
 newtab-topsites-add-topsites-header = Bagong nangungunang site
-newtab-topsites-edit-topsites-header = I-edit ang nangungunang site
+newtab-topsites-edit-topsites-header = Baguhin ang Pangunahing Site
 newtab-topsites-title-label = Pamagat
 newtab-topsites-title-input =
     .placeholder = Magpasok ng isang pamagat
@@ -68,8 +68,8 @@ newtab-menu-content-tooltip =
     .aria-label = Buksan ang menu ng konteksto para sa { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
-    .title = I-edit ang site na ito
-    .aria-label = I-edit ang site na ito
+    .title = Baguhin ang site na ito
+    .aria-label = Baguhin ang site na ito
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
