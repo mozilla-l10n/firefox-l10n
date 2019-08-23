@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Yleiset asetukset" >
+
 <!ENTITY pref.dateformat.label "Päiväystekstin formaatti:" >
 <!ENTITY pref.dateformat.accesskey "P">
 <!ENTITY pref.dateformat.long "Pitkä" >
@@ -23,6 +24,9 @@
 
 <!ENTITY pref.default_event_length.label "Oletuspituus:" >
 <!ENTITY pref.default_event_length.accesskey "e">
+
+<!ENTITY pref.default_event_task_length.label "Oletustapahtuma ja tehtävän pituus">
+<!ENTITY pref.default_event_task_length.accesskey "o">
 
 <!ENTITY pref.default_task_none.label "Ei mitään">
 <!ENTITY pref.default_task_start_of_day.label "Päivän alku">
