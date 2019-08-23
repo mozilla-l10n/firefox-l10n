@@ -51,6 +51,7 @@ login-list-count =
     }
 login-list-sort-label-text = តម្រៀបតាម៖
 login-list-name-option = ឈ្មោះ (A-Z)
+login-list-breached-option = គេហទំព័រ​ដែល​បំពាន
 login-list-last-changed-option = បាន​កែប្រែ​ចុងក្រោយ
 login-list-last-used-option = បាន​ប្រើប្រាស់​ចុងក្រោយ
 login-list-intro-title = រក​មិន​ឃើញ​ការចូល​ទេ
@@ -63,6 +64,7 @@ login-list-item-subtitle-missing-username = (គ្មាន​ឈ្មោះ�
 
 login-intro-heading = កំពុង​រក​មើល​ការចូល​ដែល​បាន​រក្សាទុក​របស់​អ្នក​មែន​ទេ? រៀបចំ { -sync-brand-short-name } ។
 login-intro-description = ប្រសិនបើ​អ្នក​បាន​រក្សាទុក​ការចូល​របស់​អ្នក​ទៅ { -brand-product-name } នៅ​លើ​ឧបករណ៍​ផ្សេង នេះជា​របៀប​​ចូល​​មើល​ការចូល​ទាំងនោះ​នៅ​ត្រង់នេះ៖
+login-intro-instruction-fxa = បង្កើត ឬ​ចូល​ទៅ { -fxaccount-brand-name } របស់​អ្នក​នៅ​លើ​ឧបករណ៍ ត្រង់​កន្លែង​ដែល​បាន​រក្សាទុក​ការចូល​របស់​អ្នក
 
 ## Login
 
