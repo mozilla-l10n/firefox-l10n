@@ -84,7 +84,7 @@
 <!ENTITY editRewrapCmd.label "Faldi liniojn">
 <!ENTITY editRewrapCmd.key "l">
 <!ENTITY renameAttachmentCmd.label "Renomi kunsendaĵon…">
-<!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY renameAttachmentCmd.accesskey "n">
 <!ENTITY reorderAttachmentsCmd.label "Reordigi kunsendaĵojn…">
 <!ENTITY reorderAttachmentsCmd.accesskey "o">
 <!ENTITY reorderAttachmentsCmd.key "x">
@@ -112,7 +112,7 @@
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Serĉi antaŭan">
-<!ENTITY findPrevCmd.accesskey "a">
+<!ENTITY findPrevCmd.accesskey "t">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 
