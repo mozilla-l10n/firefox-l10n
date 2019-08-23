@@ -1019,7 +1019,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.panelUI.label "I-download ang &brandShorterName; na pagbabago">
 <!ENTITY updateManual.panelUI.label "I-download ang bagong kopya ng &brandShorterName;">
 <!ENTITY updateUnsupported.panelUI.label "Hindi ka maaaring magsagawa ng dagdag pang mga update">
-<!ENTITY updateRestart.panelUI.label2 "Mag-restart para ma-update &brandShorterName;">
+<!ENTITY updateRestart.panelUI.label2 "Mag-restart para ma-update ang &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "Ang iyong Bagong Tab ay nagbago.">
 <!ENTITY newTabControlled.keepButton.label "Panatilihin ang Mga Pagbabago">
