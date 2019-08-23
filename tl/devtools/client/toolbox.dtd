@@ -160,7 +160,10 @@
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
+<!ENTITY options.sourceeditor.expandtab.label           "Mga-indent gamit ang space">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Gumamit ng space sa halip na tab character">
 <!ENTITY options.sourceeditor.tabsize.label             "Sukat ng tab">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "T">
 <!ENTITY options.sourceeditor.keybinding.label          "Keybindings">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
+<!ENTITY options.sourceeditor.keybinding.default.label  "Default">

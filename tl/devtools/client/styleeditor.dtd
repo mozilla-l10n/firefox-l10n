@@ -26,6 +26,7 @@
 
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->
+<!ENTITY mediaRules.label           "@media rules">
 
 <!ENTITY editorTextbox.placeholder  "I-type ang CSS dito.">
 
