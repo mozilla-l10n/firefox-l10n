@@ -300,6 +300,10 @@ install-theme-button = Installa tema
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Gestisci
 find-more-addons = Trova altri componenti aggiuntivi
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Altre opzioni
 
 ## Add-on actions
 report-addon-button = Segnala
