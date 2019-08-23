@@ -58,3 +58,4 @@ preferences-addon-button =
 
 ## Pending uninstall message bar
 
+addon-detail-updates-radio-default = A' chite' at kan

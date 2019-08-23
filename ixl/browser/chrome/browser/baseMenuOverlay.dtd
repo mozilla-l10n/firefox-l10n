@@ -8,6 +8,7 @@
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
  
+<!ENTITY aboutProduct2.label      "Ti' u &brandShorterName;">
 
 
 

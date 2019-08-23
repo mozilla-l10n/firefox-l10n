@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+config-window =
+    .title = about:config
 
 ## Strings used to display a warning in about:config
 
@@ -25,3 +27,4 @@ config-copy-pref =
     .key = C
     .label = Eesa ivatz
     .accesskey = C
+config-default = a' chite' at kan

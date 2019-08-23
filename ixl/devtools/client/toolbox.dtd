@@ -135,3 +135,4 @@
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
+<!ENTITY options.sourceeditor.keybinding.default.label  "A' chite' at kan">

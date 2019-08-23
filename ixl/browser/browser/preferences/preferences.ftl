@@ -44,6 +44,10 @@ update-in-progress-ok-button = &Eesa kan
 
 ## General Section - Performance
 
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (a' chite' at kan)
 
 ## General Section - Browsing
 
@@ -100,6 +104,9 @@ sync-device-name-cancel =
 
 content-blocking-setting-custom =
     .label = Eetz chitu'
+    .accesskey = C
+content-blocking-cookies-label =
+    .label = Cookies
     .accesskey = C
 
 ## Privacy Section - Tracking
