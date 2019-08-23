@@ -306,7 +306,8 @@
 <!ENTITY anchorToolbarCmd.tooltip "Lisää uusi ankkuri tai muokkaa valitun ankkurin ominaisuuksia">
 <!ENTITY TextColorButton.tooltip "Valitse tekstin väri">
 <!ENTITY BackgroundColorButton.tooltip "Valitse taustaväri">
-<!ENTITY throbber.tooltip "Siirry &vendorShortName;n kotisivulle">
+<!ENTITY throbber.tooltip "Siirry &vendorShortName;n aloitussivulle">
+<!ENTITY throbber.tooltip2 "Siirry &brandShortName;in aloitussivulle">
 <!ENTITY HighlightColorButton.tooltip "Valitse tekstin korostusväri">
 
 <!-- Editor toolbar -->
