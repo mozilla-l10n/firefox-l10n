@@ -109,7 +109,7 @@ newtab-menu-open-file = Apri file
 
 newtab-label-visited = Visitato
 newtab-label-bookmarked = Nei segnalibri
-newtab-label-removed-bookmark = Segnalibro rimosso
+newtab-label-removed-bookmark = Segnalibro eliminato
 newtab-label-recommended = Di tendenza
 newtab-label-saved = Salvato in { -pocket-brand-name }
 newtab-label-download = Scaricata
