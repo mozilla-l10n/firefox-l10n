@@ -5,6 +5,7 @@
 
 
 <!ENTITY clear.label        "Sno">
+<!ENTITY clear.accesskey    "C">
 
 <!ENTITY copyCmd.label       "Tɨɨn">  
  

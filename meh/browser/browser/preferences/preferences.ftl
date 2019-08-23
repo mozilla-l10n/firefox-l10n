@@ -117,6 +117,9 @@ containers-remove-button =
 sync-disconnect =
     .label = Kene...
     .accesskey = K
+sync-engine-history =
+    .label = Sɨ´ɨ
+    .accesskey = r
 sync-device-name-cancel =
     .label = Nkuvi-ka
     .accesskey = N
@@ -132,11 +135,12 @@ sync-device-name-save =
 
 ## Privacy Section - History
 
+history-header = Sɨ´ɨ
 history-clear-on-close-settings =
     .label = Nake´i
     .accesskey = t
 history-clear-button =
-    .label = Xita sɨ´ɨ nsá´ánu
+    .label = Xita sɨ´ɨ nsá´ánu…
     .accesskey = s
 
 ## Privacy Section - Site Data
