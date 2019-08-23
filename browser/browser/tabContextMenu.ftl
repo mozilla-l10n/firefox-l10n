@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 reload-tab =
-    .label = 重新载入标签页
+    .label = 重载标签页
     .accesskey = R
 select-all-tabs =
     .label = 选择所有标签页
@@ -21,7 +21,7 @@ close-other-tabs =
     .label = 关闭其他标签页
     .accesskey = o
 reload-tabs =
-    .label = 重新载入标签页
+    .label = 重载标签页
     .accesskey = R
 pin-tab =
     .label = 固定标签页
