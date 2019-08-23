@@ -60,6 +60,8 @@
 
 <!ENTITY throbber.tooltip             "Abrir o site do &vendorShortName;">
 
+<!ENTITY throbber.tooltip2            "Ir para a página inicial do &brandShortName;">
+
 <!ENTITY locationBar.tooltip          "Digite o termo pesquisado, palavra-chave ou o endereço web">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "Endereço">
