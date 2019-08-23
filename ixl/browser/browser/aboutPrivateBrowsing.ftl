@@ -23,3 +23,6 @@ about-private-browsing-note = Axh kuxh la xaan axh stuul <strong> ni tootzi axh 
 about-private-browsing =
     .title = La chuk tu web
 about-private-browsing-not-private = Cheel chitu' u atinb'ale' at axh stuul as jit eetz
+content-blocking-title = Majel ve't ivatz u aq'one'
+content-blocking-description = Ataj unq'a web uva' ni chukun as ni ilon unq'a aq'one' uve' nab'an tu Internet. Tulaj unq'a atinb'ale' uve' eetz kuxhtu', u majb'al aq'one' tetz { -brand-short-name } as ankuxhe' ni majon b'en ivatz unq'a chukul yole' tu vee' naxaan kat.
+about-private-browsing-info-description = { -brand-short-name } sojsa el unq'a vee' chukel as unq'a chukeltu ve'te' tul uva' la el axh tu aplicación moj la jup kaajayil unq'a vee' jajel a'n as tuk' unq'a vee' uva' eetz kuxhtu'. As u vaa' ye'xh kam uva' ye' koj la tootzi axh tulaj unq'a web ta'n unq'a uxhchil uve' ni aq'on Internet. la b'ane' uva' oora kuxhtu' la iloch axh tul uva' naq'onve' uva' axh kuxhtu' vatz joltu xaaol uva' la b'anb'en va ch'ich'e'.
