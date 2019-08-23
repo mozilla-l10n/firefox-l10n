@@ -28,7 +28,6 @@ manifest-item-warnings = Errori e avvisi
 manifest-item-identity = Identità
 manifest-item-presentation = Presentazione
 manifest-item-icons = Icone
-manifest-empty-intro = Nessun manifesto trovato da analizzare.
 manifest-loading = Caricamento manifesto in corso…
 manifest-loaded-ok = Caricato manifesto.
 manifest-loaded-error = Si è verificato un errore durante il caricamento del manifesto:
