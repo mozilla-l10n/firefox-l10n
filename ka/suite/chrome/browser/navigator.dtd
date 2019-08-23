@@ -60,6 +60,8 @@
 
 <!ENTITY throbber.tooltip             "გადასვლა &vendorShortName;-ს საწყის გვერდზე">
 
+<!ENTITY throbber.tooltip2            "&brandShortName; – საწყის გვერდზე გადასვლა">
+
 <!ENTITY locationBar.tooltip          "საძიებო ტერმინის, საკვანძო სიტყვის ან მისამართის მითითება">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "მისამართი">
