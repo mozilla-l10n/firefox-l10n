@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Yleiset">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Päivä- ja viikkonäkymät">
 <!ENTITY pref.calendar.view.multiweekview.caption "Moniviikkonäkymä">
 <!ENTITY pref.calendar.view.workweek.caption "Työviikko">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Näytä viikkonumero näkymissä ja pienoiskuukaudessa">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "ä">
 <!ENTITY pref.daysoff.label "Seuraavat päivät kuuluvat työviikkoon:">
+
+<!ENTITY pref.workweekDays.label "Työviikon päivät:">
 
 <!ENTITY pref.calendar.view.daystart.label "Päivä alkaa:">
 <!ENTITY pref.calendar.view.daystart.accesskey "P">
