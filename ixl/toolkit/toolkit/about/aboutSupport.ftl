@@ -18,6 +18,11 @@ media-device-name = B'ii
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-active = Ile' b'a'n ve'te'
+# Variables
+# $remoteWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
@@ -25,3 +30,4 @@ media-device-name = B'ii
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-active = Ile' b'a'n ve'te'
