@@ -24,6 +24,9 @@ about-debugging-sidebar-runtime-item-name-no-device =
 
 # Setup Page strings
 
+# Text of a button displayed after the network locations "Host" input.
+# Clicking on it will add the new network location to the list.
+about-debugging-network-locations-add-button = Aq'o'ke'
 
 # Runtime Page strings
 

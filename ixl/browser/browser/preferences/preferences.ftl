@@ -40,6 +40,7 @@ cancel-no-restart-button = Ya'sakan
 
 ## General Section - Files and Applications
 
+update-in-progress-ok-button = &Eesa kan
 
 ## General Section - Performance
 
@@ -55,6 +56,8 @@ cancel-no-restart-button = Ya'sakan
 
 ## Home Section - Home Page Customization
 
+home-mode-choice-custom =
+    .label = Eetz chitu' URLs…
 
 ## Home Section - Firefox Home Content Customization
 
@@ -95,6 +98,9 @@ sync-device-name-cancel =
 
 ## Privacy Section - Content Blocking
 
+content-blocking-setting-custom =
+    .label = Eetz chitu'
+    .accesskey = C
 
 ## Privacy Section - Tracking
 

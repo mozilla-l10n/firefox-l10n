@@ -4,6 +4,8 @@
 
 
 
+<!ENTITY errors.label       "Yannajle">
+<!ENTITY errors.accesskey   "E">
 
 <!ENTITY copyCmd.label       "Eesa ivatz">  
 <!ENTITY copyCmd.accesskey   "C"> 

@@ -46,6 +46,7 @@ cmd-preferences =
 
 ## Recommended add-ons page
 
+privacy-policy = Ootzib'al ti' ib'anb'el ti jikil
 
 ## Add-on actions
 
