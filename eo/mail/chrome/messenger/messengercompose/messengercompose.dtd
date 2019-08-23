@@ -69,7 +69,7 @@
 <!ENTITY redoCmd.accesskey "R">
 <!ENTITY cutCmd.label "Eltondi">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "t">
+<!ENTITY cutCmd.accesskey "d">
 <!ENTITY copyCmd.label "Kopii">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "K">
@@ -78,7 +78,7 @@
 <!ENTITY pasteCmd.accesskey "g">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.accesskey "w">
+<!ENTITY editRewrapCmd.accesskey "l">
 <!ENTITY deleteCmd.label "Forigi">
 <!ENTITY deleteCmd.accesskey "F">
 <!ENTITY editRewrapCmd.label "Faldi liniojn">
@@ -299,30 +299,34 @@
 
 <!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Ne trovis sugestojn por vorto">
-<!ENTITY spellCheckIgnoreWord.label "Ignore Word">
+<!ENTITY spellCheckIgnoreWord.label "Ignori vorton">
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Add to Dictionary">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY undo.label "Undo">
-<!ENTITY undo.accesskey "U">
-<!ENTITY cut.label "Cut">
+<!ENTITY spellCheckAddToDictionary.label "Aldoni al vortaro">
+<!ENTITY spellCheckAddToDictionary.accesskey "v">
+<!ENTITY undo.label "Malfari">
+<!ENTITY undo.accesskey "M">
+<!ENTITY cut.label "Eltondi">
 <!ENTITY cut.accesskey "t">
-<!ENTITY copy.label "Copy">
-<!ENTITY copy.accesskey "C">
-<!ENTITY paste.label "Paste">
-<!ENTITY paste.accesskey "P">
-<!ENTITY pasteQuote.label "Paste As Quotation">
-<!ENTITY pasteQuote.accesskey "Q">
+<!ENTITY copy.label "Kopii">
+<!ENTITY copy.accesskey "K">
+<!ENTITY paste.label "Alglui">
+<!ENTITY paste.accesskey "g">
+<!ENTITY pasteQuote.label "Alglui kiel citaĵon">
+<!ENTITY pasteQuote.accesskey "c">
 
 <!-- Attachment Item and List Context Menus -->
-<!ENTITY openAttachment.label "Open">
-<!ENTITY openAttachment.accesskey "O">
-<!ENTITY delete.label "Delete">
-<!ENTITY delete.accesskey "D">
-<!ENTITY removeAttachment.label "Remove Attachment">
-<!ENTITY removeAttachment.accesskey "M">
-<!ENTITY renameAttachment.label "Rename…">
-<!ENTITY renameAttachment.accesskey "R">
+<!ENTITY openAttachment.label "Malfermi">
+<!ENTITY openAttachment.accesskey "M">
+<!ENTITY delete.label "Forigi">
+<!ENTITY delete.accesskey "F">
+<!ENTITY removeAttachment.label "Forigi kunsendaĵon">
+<!ENTITY removeAttachment.accesskey "F">
+<!ENTITY renameAttachment.label "Renomi…">
+<!ENTITY renameAttachment.accesskey "n">
+<!ENTITY reorderAttachments.label "Reordigi kunsendaĵojn…">
+<!ENTITY reorderAttachments.accesskey "u">
+<!ENTITY removeAllAttachments.label "Forigi ĉiujn kunsendaĵojn">
+<!ENTITY removeAllAttachments.accesskey "j">
 <!ENTITY selectAll.label "Select All">
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "Attach File(s)…">

@@ -13,7 +13,7 @@
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Alglui kiel">
 <!ENTITY pasteAs.accesskey "k">
-<!ENTITY pasteAsQuotationCmd.label "Alglui kiel citaĵo">
+<!ENTITY pasteAsQuotationCmd.label "Alglui kiel citaĵon">
 <!ENTITY pasteAsQuotationCmd.accesskey "c">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Serĉi…">
