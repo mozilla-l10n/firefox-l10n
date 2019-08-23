@@ -19,3 +19,7 @@ about-private-browsing-info-clipboard = Tz'ib' eesamal ve't ivatz
 about-private-browsing-info-temporary-files = Kolb'al aq'on uva' paasa'm kuxhtu'
 about-private-browsing-info-cookies = cookies
 tracking-protection-start-tour = Saji moj b'a'n kuxh taq'onve'
+about-private-browsing-note = Axh kuxh la xaan axh stuul <strong> ni tootzi axh </strong> tu Internet. U xaaole' uve' ni aq'on a Internet la uch tel tootzita' kam unq'a u'uje' pich'umal ve'te'.
+about-private-browsing =
+    .title = La chuk tu web
+about-private-browsing-not-private = Cheel chitu' u atinb'ale' at axh stuul as jit eetz
