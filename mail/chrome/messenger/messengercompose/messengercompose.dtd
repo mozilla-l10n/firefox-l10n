@@ -327,37 +327,40 @@
 <!ENTITY reorderAttachments.accesskey "u">
 <!ENTITY removeAllAttachments.label "Forigi ĉiujn kunsendaĵojn">
 <!ENTITY removeAllAttachments.accesskey "j">
-<!ENTITY selectAll.label "Select All">
-<!ENTITY selectAll.accesskey "A">
-<!ENTITY attachFile.label "Attach File(s)…">
-<!ENTITY attachFile.accesskey "F">
-<!ENTITY attachCloud.label "Filelink…">
-<!ENTITY attachCloud.accesskey "i">
-<!ENTITY convertCloud.label "Convert to…">
-<!ENTITY convertCloud.accesskey "C">
-<!ENTITY cancelUpload.label "Cancel Upload">
-<!ENTITY cancelUpload.accesskey "n">
-<!ENTITY convertRegularAttachment.label "Regular Attachment">
-<!ENTITY convertRegularAttachment.accesskey "A">
-<!ENTITY attachPage.label "Attach Web Page…">
-<!ENTITY attachPage.accesskey "W">
+<!ENTITY selectAll.label "Elekti ĉiujn">
+<!ENTITY selectAll.accesskey "E">
+<!ENTITY attachFile.label "Kunsendi dosiero(j)n…">
+<!ENTITY attachFile.accesskey "d">
+<!ENTITY attachCloud.label "Ligilo al dosiero…">
+<!ENTITY attachCloud.accesskey "L">
+<!ENTITY convertCloud.label "Konverti al…">
+<!ENTITY convertCloud.accesskey "K">
+<!ENTITY cancelUpload.label "Nuligi alŝuton">
+<!ENTITY cancelUpload.accesskey "N">
+<!ENTITY convertRegularAttachment.label "Norma kunsendaĵo">
+<!ENTITY convertRegularAttachment.accesskey "N">
+<!ENTITY attachPage.label "Kunsendi retpaĝon…">
+<!ENTITY attachPage.accesskey "r">
 
 <!-- Attachment Pane Header Bar Context Menu -->
 <!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
      Should use the same wording as startExpandedCmd.label
      in msgHdrViewOverlay.dtd. -->
+<!ENTITY initiallyShowAttachmentPane.label "Montri liston de kunsendaĵoj">
+<!ENTITY initiallyShowAttachmentPane.accesskey "M">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "Add Dictionaries…">
+<!ENTITY spellAddDictionaries.label "Aldoni vortarojn…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
-<!ENTITY addressesSidebarTitle.label "Contacts">
+<!ENTITY addressesSidebarTitle.label "Kontaktoj">
 
 <!-- Identity popup customize menuitem -->
-<!ENTITY customizeFromAddress.label "Customize From Address…">
-<!ENTITY customizeFromAddress.accesskey "A">
+<!ENTITY customizeFromAddress.label "Alĝustigi adreson de sendanto…">
+<!ENTITY customizeFromAddress.accesskey "l">
 
 <!-- Accessibility name for the document -->
+<!ENTITY aria.message.bodyName "Enhavo de mesaĝo">
 
 <!-- Status Bar -->
