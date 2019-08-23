@@ -442,6 +442,7 @@
 <!ENTITY markButton.tooltip "წერილების მონიშვნა">
 <!ENTITY stopButton.tooltip "მიმდინარე გაგზავნის შეჩერება">
 <!ENTITY throbber.tooltip "&vendorShortName; – საწყის გვერდზე გადასვლა">
+<!ENTITY throbber.tooltip2 "&brandShortName; – საწყის გვერდზე გადასვლა">
 <!ENTITY junkButton.tooltip "შერჩეული წერილების ჯართად მონიშვნა">
 <!ENTITY notJunkButton.tooltip "შერჩეული წერილების გამოსადეგად ჩათვლა">
 

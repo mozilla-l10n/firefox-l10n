@@ -62,6 +62,8 @@
 <!ENTITY  mediaTab.accesskey    "მ">
 <!ENTITY  mediaURL              "მისამართი:">
 <!ENTITY  mediaAlt              "ალტერნატული ტექსტი:">
+<!ENTITY  mediaLocation         "მდებარეობა:">
+<!ENTITY  mediaText             "დართული ტექსტი:">
 <!ENTITY  mediaAltHeader        "ალტერნატული ტექსტი">
 <!ENTITY  mediaAddress          "მისამართი">
 <!ENTITY  mediaType             "სახეობა">
@@ -70,6 +72,7 @@
 <!ENTITY  mediaDimensions       "მითითებული ზომები:">
 <!ENTITY  mediaPhysDimensions   "არსებული ზომები:">
 <!ENTITY  mediaTitle            "სათაური:">
+<!ENTITY  mediaDimension        "ზომები:">
 <!ENTITY  mediaLongdesc         "დეტალური აღწერა:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "შენახვა როგორც…">

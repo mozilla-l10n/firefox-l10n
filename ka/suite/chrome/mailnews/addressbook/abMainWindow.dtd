@@ -13,9 +13,9 @@
 <!ENTITY newContact.accesskey                           "კ">
 <!ENTITY newListCmd.label                               "დაგზავნის სია…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newListCmd.accesskey                           "ს">  
-<!ENTITY newAddressBookCmd.label                        "წიგნაკი…"> 
-<!ENTITY newAddressBookCmd.accesskey                    "წ">  
+<!ENTITY newListCmd.accesskey                           "ს">
+<!ENTITY newAddressBookCmd.label                        "წიგნაკი…">
+<!ENTITY newAddressBookCmd.accesskey                    "წ">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP საქაღალდე…">
 <!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
@@ -25,42 +25,42 @@
 <!ENTITY printPreviewContactViewCmd.label               "პირის მონაცემების შეთვალიერება ამობეჭდვამდე">
 <!ENTITY printPreviewContactViewCmd.accesskey           "შ">
 <!ENTITY printContactViewCmd.key                        "P">
-<!ENTITY printAddressBook.label                         "წიგნაკის ამობეჭდვა…"> 
-<!ENTITY printAddressBook.accesskey                     "ბ"> 
-<!ENTITY printPreviewAddressBook.label                  "შეთვალიერება ამობეჭდვამდე"> 
+<!ENTITY printAddressBook.label                         "წიგნაკის ამობეჭდვა…">
+<!ENTITY printAddressBook.accesskey                     "ბ">
+<!ENTITY printPreviewAddressBook.label                  "შეთვალიერება ამობეჭდვამდე">
 <!ENTITY printPreviewAddressBook.accesskey              "თ">
 
 <!-- Edit Menu -->
-<!ENTITY deleteAbCmd.label                              "წიგნაკის წაშლა">  
+<!ENTITY deleteAbCmd.label                              "წიგნაკის წაშლა">
 <!ENTITY deleteContactCmd.label                         "პირის ამოშლა">
 <!ENTITY deleteContactsCmd.label                        "შერჩეული ხალხის ამოშლა">
 <!ENTITY deleteListCmd.label                            "სიის წაშლა">
 <!ENTITY deleteListsCmd.label                           "შერჩეული სიების წაშლა">
 <!ENTITY deleteItemsCmd.label                           "შერჩეული ელემენტების წაშლა">
 <!ENTITY swapFirstNameLastNameCmd.label                 "სახელის/გვარის ადგილების გაცვლა">
-<!ENTITY swapFirstNameLastNameCmd.accesskey             "ც">  
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "ც">
 <!ENTITY propertiesCmd.label                            "პარამეტრები…">
 <!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY propertiesCmd.accesskey                        "პ">  
-<!ENTITY propertiesCmd.key                              "i">  
+<!ENTITY propertiesCmd.accesskey                        "პ">
+<!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
-<!ENTITY showAbToolbarCmd.label                         "წიგნაკის ხელსაწყოთა ზოლი"> 
-<!ENTITY showAbToolbarCmd.accesskey                     "ო">  
+<!ENTITY showAbToolbarCmd.label                         "წიგნაკის ხელსაწყოთა ზოლი">
+<!ENTITY showAbToolbarCmd.accesskey                     "ო">
 <!ENTITY layoutMenu.label                               "განლაგება">
 <!ENTITY layoutMenu.accesskey                           "გ">
 <!ENTITY showDirectoryPane.label                        "საქაღალდის არე">
 <!ENTITY showDirectoryPane.accesskey                    "რ">
 <!ENTITY showContactPane2.label                         "პირის მონაცემების არე">
 <!ENTITY showContactPane2.accesskey                     "კ">
-<!ENTITY menu_ShowNameAs.label                          "სახელის ჩვენება როგორც"> 
-<!ENTITY menu_ShowNameAs.accesskey                      "ხ"> 
-<!ENTITY firstLastCmd.label                             "სახელი, გვარი">  
-<!ENTITY firstLastCmd.accesskey                         "ს"> 
-<!ENTITY lastFirstCmd.label                             "გვარი, სახელი">  
-<!ENTITY lastFirstCmd.accesskey                         "გ"> 
-<!ENTITY displayNameCmd.label                           "გამოსაჩენი სახელი">  
-<!ENTITY displayNameCmd.accesskey                       "ჩ"> 
+<!ENTITY menu_ShowNameAs.label                          "სახელის ჩვენება როგორც">
+<!ENTITY menu_ShowNameAs.accesskey                      "ხ">
+<!ENTITY firstLastCmd.label                             "სახელი, გვარი">
+<!ENTITY firstLastCmd.accesskey                         "ს">
+<!ENTITY lastFirstCmd.label                             "გვარი, სახელი">
+<!ENTITY lastFirstCmd.accesskey                         "გ">
+<!ENTITY displayNameCmd.label                           "გამოსაჩენი სახელი">
+<!ENTITY displayNameCmd.accesskey                       "ჩ">
 
 <!-- Tasks Menu -->
 <!ENTITY importCmd.label                                "გადმოტანა…">
@@ -71,28 +71,29 @@
 <!-- Toolbar and Popup items -->
 <!ENTITY newContactButton.label                         "ახალი პირი">
 <!ENTITY newContactButton.accesskey                     "ა">
-<!ENTITY newlistButton.label                            "ახალი სია">  
-<!ENTITY newlistButton.accesskey                        "ს">  
+<!ENTITY newlistButton.label                            "ახალი სია">
+<!ENTITY newlistButton.accesskey                        "ს">
 <!ENTITY editItemButton.label                           "პარამეტრები">
 <!ENTITY editItemButton.accesskey                       "პ">
-<!ENTITY newmsgButton.label                             "შედგენა">  
-<!ENTITY newmsgButton.accesskey                         "შ">  
+<!ENTITY newmsgButton.label                             "შედგენა">
+<!ENTITY newmsgButton.accesskey                         "შ">
 <!ENTITY deleteItemButton.label                         "წაშლა">
 <!ENTITY deleteItemButton.accesskey                     "წ">
-<!ENTITY newimButton.label                              "სწრაფი შეტყობინება">  
-<!ENTITY newimButton.accesskey                          "წ">  
+<!ENTITY newimButton.label                              "სწრაფი შეტყობინება">
+<!ENTITY newimButton.accesskey                          "წ">
 <!ENTITY searchNameAndEmail.placeholder                 "სახელისა და ელფოსტის ძიება">
 <!ENTITY searchBox.title                                "ძიება">
 
 <!-- Tooltips -->
 <!ENTITY addressbookToolbar.tooltip                     "წიგნაკის ხელსაწყოთა ზოლი">
 <!ENTITY newContactButton.tooltip                       "წიგნაკში ახალი პირის მონაცემების შექმნა">
-<!ENTITY newlistButton.tooltip                          "ახალი სიის შექმნა"> 
+<!ENTITY newlistButton.tooltip                          "ახალი სიის შექმნა">
 <!ENTITY editItemButton.tooltip                         "შერჩეული ელემენტის ჩასწორება">
-<!ENTITY newmsgButton.tooltip                           "ელფოსტის გაგზავნა"> 
-<!ENTITY newIM.tooltip                                  "მყისი გზავნილი ან გასუბრება"> 
+<!ENTITY newmsgButton.tooltip                           "ელფოსტის გაგზავნა">
+<!ENTITY newIM.tooltip                                  "მყისი გზავნილი ან გასუბრება">
 <!ENTITY deleteItemButton.tooltip                       "შერჩეული ელემენტის წაშლა">
 <!ENTITY throbber.tooltip                               "&vendorShortName; – საწყის გვერდზე გადასვლა">
+<!ENTITY throbber.tooltip2                              "&brandShortName; – საწყის გვერდზე გადასვლა">
 <!ENTITY advancedButton.tooltip                         "მისამართის დეტალური ძიება">
 
 <!-- Dir Tree header -->
