@@ -60,6 +60,8 @@
 
 <!ENTITY throbber.tooltip             "转到 &vendorShortName; 主页">
 
+<!ENTITY throbber.tooltip2            "转到 &brandShortName; 主页">
+
 <!ENTITY locationBar.tooltip          "输入搜索条件、关键词或网址">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "地址">
