@@ -304,6 +304,10 @@ install-theme-button = თემის ჩადგმა
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = მართვა
 find-more-addons = სხვა დამატებების მოძიება
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = დამატებითი პარამეტრები
 
 ## Add-on actions
 
@@ -387,6 +391,11 @@ addon-detail-private-browsing-disallow = აკრძალვა
 addon-badge-recommended =
     .title = შემოთავაზებული
     .alt = შემოთავაზებული
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } მხოლოდ იმ გაფართოებებს გირჩევთ, რომლებიც აკმაყოფილებს უსაფრთხოებისა და წარმადობის მაღალ მოთხოვნებს.
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = ხელმისწვდომი განახლებები
 recent-updates-heading = ბოლო განახლებები
 release-notes-loading = იტვირთება...
