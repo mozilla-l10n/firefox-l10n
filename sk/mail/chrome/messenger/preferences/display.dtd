@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Čítanie">
 <!ENTITY display.caption                  "Zobrazenie">
+<!ENTITY displayName.label                "Zobrazované meno:">
 <!ENTITY showCondensedAddresses.label     "Zobrazovať mená len pre adresy uložené v osobných adresároch">
 <!ENTITY showCondensedAddresses.accesskey "Z">
 

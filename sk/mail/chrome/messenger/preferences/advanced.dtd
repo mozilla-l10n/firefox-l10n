@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "S">
 <!ENTITY viewSecurityDevices.label "Zariadenia">
 <!ENTITY viewSecurityDevices.accesskey "Z">
+
+<!ENTITY manageCertificates2.label "Správa certifikátov…">
+<!ENTITY manageCertificates2.accesskey "S">
+<!ENTITY viewSecurityDevices2.label "Bezpečnostné zariadenia…">
+<!ENTITY viewSecurityDevices2.accesskey "z">
