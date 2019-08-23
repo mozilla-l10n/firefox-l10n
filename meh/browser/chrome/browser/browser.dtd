@@ -132,6 +132,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY backCmd.label                "Niko yata">
 <!ENTITY backCmd.accesskey            "B">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY reloadCmd.accesskey          "R">

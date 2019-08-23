@@ -11,6 +11,9 @@
 
 # Sidebar strings
 
+# Title for runtime sidebar items that are related to a specific device (USB, WiFi).
+about-debugging-sidebar-runtime-item-name =
+    .title = { $displayName }{ $deviceName }
 # Title for runtime sidebar items where we cannot get device information (network
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
@@ -18,6 +21,8 @@ about-debugging-sidebar-runtime-item-name-no-device =
 
 # Setup Page strings
 
+# USB section of the Setup page
+about-debugging-setup-usb-title = USB
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Xita
