@@ -32,12 +32,15 @@ policy-DisplayMenuBar = Näytä valikkopalkki oletusarvoisesti.
 policy-DNSOverHTTPS = Määritä DNS:n käyttö HTTPS:n yli.
 policy-DontCheckDefaultClient = Poista käytöstä oletussähköpostiohjelman tarkistus käynnistyksen yhteydessä.
 policy-DownloadDirectory = Aseta ja lukitse latauskansio.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Salli tai estä sisällön esto tai estä sen käyttö halutessasi.
 policy-ExtensionUpdate = Käytä tai poista käytöstä laajennusten automaattiset päivitykset.
 policy-HardwareAcceleration = Jos epätosi, poista laitteistokiihdytys käytöstä.
 policy-InstallAddonsPermission = Salli tiettyjen sivustojen asentaa lisäosia.
 policy-LocalFileLinks = Salli tiettyjen sivuston linkittää paikallisiin tiedostoihin.
 policy-PromptForDownloadLocation = Kysy mihin ladattavat tiedostot tallennetaan.
 policy-Proxy = Määritä välityspalvelimen asetukset.
+policy-SanitizeOnShutdown2 = Poista selailutiedot kun ohjelma suljetaan
 policy-SearchEngines = Muokkaa hakukoneiden asetuksia. Tämä käytäntö on saatavilla vain laajennetun tuen (ESR) julkaisulle .
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Asenna PKCS #11 -moduulit.
