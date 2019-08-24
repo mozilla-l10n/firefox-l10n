@@ -5,6 +5,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } usa un certificáu de seguranza non válidu.
+cert-error-mitm-intro = Los sitios web demuestren la so identidá per cerficaos que los emiten autoridaes certificadores.
 cert-error-trust-cert-invalid = El certificáu nun ye d'enfotu porque lu emitió una CA non válida.
 cert-error-trust-untrusted-issuer = El certificáu nun ye d'enfotu porque'l so emisor tampoco lo ye.
 cert-error-trust-signature-algorithm-disabled = El certificáu nun ye d'enfotu porque se robló usando un algoritmu de robla que se desactivó porque nun ye seguru.
