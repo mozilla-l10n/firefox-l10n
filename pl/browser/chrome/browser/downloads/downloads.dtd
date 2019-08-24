@@ -31,7 +31,7 @@
 <!ENTITY cmd.retry.label                  "Spróbuj ponownie">
 <!ENTITY cmd.goToDownloadPage.label       "Przejdź do strony pobierania">
 <!ENTITY cmd.goToDownloadPage.accesskey   "P">
-<!ENTITY cmd.copyDownloadLink.label       "Kopiuj adres pobierania">
+<!ENTITY cmd.copyDownloadLink.label       "Kopiuj adres, z którego pobrano plik">
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.removeFromHistory.label      "Usuń z historii">
 <!ENTITY cmd.removeFromHistory.accesskey  "U">
