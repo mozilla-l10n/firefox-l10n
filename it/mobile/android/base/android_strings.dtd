@@ -502,6 +502,9 @@
 <!ENTITY helper_triple_readerview_open_title "Disponibile non in linea">
 <!ENTITY helper_triple_readerview_open_message "Aggiungi ai segnalibri articoli da Modalità lettura per leggerli anche senza connessione a Internet.">
 <!ENTITY helper_triple_readerview_open_button "Aggiungi ai segnalibri">
+<!ENTITY activity_stream_signin_title "Benvenuto in &brandShortName;">
+<!ENTITY activity_stream_signin_description "Inizia a sincronizzare segnalibri, password e molto altro ancora con il tuo account Firefox.">
+<!ENTITY activity_stream_signin_button "Accedi">
 <!ENTITY activity_stream_topsites "Siti principali">
 <!ENTITY activity_stream_topstories "Consigliati da &brandPocket;">
 <!ENTITY activity_stream_highlights "In evidenza">
