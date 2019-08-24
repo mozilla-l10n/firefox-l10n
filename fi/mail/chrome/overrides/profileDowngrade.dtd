@@ -12,6 +12,7 @@
 <!ENTITY window.title "Käynnistit &brandProductName;in vanhemman version">
 <!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync2 "&brandProductName;in uudempi versio on saattanut tehdä profiiliisi muutoksia, jotka eivät ole yhteensopivia tämän vanhemman version kanssa. Käytä tätä profiilia vain uudemman version kanssa, tai luo tälle &brandShortName;in versiolle uusi profiili. Uuden profiilin luomisessa tulee luoda uudelleen tili ja kalenterit ja lisäosat on asennettava uudelleen.">
 
 <!ENTITY window.moreinfo "Lisätietoja…">
 <!ENTITY window.create "Luo uusi profiili">

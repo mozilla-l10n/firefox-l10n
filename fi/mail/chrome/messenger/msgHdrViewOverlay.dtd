@@ -95,6 +95,9 @@
 
 <!ENTITY openAttachment.tooltip "Avaa liitetty tiedosto">
 
+<!ENTITY detachedAttachmentFolder.show.label        "Avaa sisältävä kansio">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Näytä Finderissa">
+
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Tallenna">
 <!ENTITY saveAttachmentButton1.tooltip     "Tallenna liitetty tiedosto">

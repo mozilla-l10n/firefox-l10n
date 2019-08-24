@@ -16,10 +16,12 @@
 <!ENTITY helpSafeMode.label     "Käynnistä uudelleen ilman lisäosia…">
 <!ENTITY helpSafeMode.accesskey "K">
 <!ENTITY helpSafeMode.stop.label     "Käynnistä uudelleen lisäosat käytössä">
+<!ENTITY helpSafeMode.stop.accesskey "K">
 <!ENTITY productHelp.label "&brandShortName;-ohje">
 <!ENTITY productHelp.accesskey "O">
 <!ENTITY productHelp.commandkey "VK_F1">
 <!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "Kiihdytä">
 
 <!ENTITY helpKeyboardShortcuts.label "Pikanäppäimet">
 <!ENTITY helpKeyboardShortcuts.accesskey "P">

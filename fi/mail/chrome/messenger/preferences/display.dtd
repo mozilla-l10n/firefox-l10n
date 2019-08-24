@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Lukeminen">
 <!ENTITY display.caption                  "Näyttäminen">
+<!ENTITY displayName.label                "Näyttönimi:">
 <!ENTITY showCondensedAddresses.label     "Näytä osoitekirjassa olevien nimet ilman sähköpostiosoitetta">
 <!ENTITY showCondensedAddresses.accesskey "N">
 
