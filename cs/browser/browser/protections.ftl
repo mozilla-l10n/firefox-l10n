@@ -2,6 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+graph-week-summary =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } během minulého týdne zablokoval
+        [feminine] { -brand-short-name } během minulého týdne zablokovala
+        [neuter] { -brand-short-name } během minulého týdne zablokovalo
+       *[other] Aplikace { -brand-short-name } během minulého týdne zablokovala
+    } { $count ->
+        [one] { $count } sledovací prvek
+        [few] { $count } sledovací prvky
+       *[other] { $count } sledovacích prvků
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
