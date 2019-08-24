@@ -543,19 +543,19 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY contextmenu_subscribe "Abonner på sida">
 <!ENTITY contextmenu_site_settings "Rediger nettstadinnstillingar">
 <!ENTITY contextmenu_top_sites_edit "Rediger">
-<!ENTITY contextmenu_top_sites_pin "Lås nettstad">
-<!ENTITY contextmenu_top_sites_unpin "Opphev låsing">
+<!ENTITY contextmenu_top_sites_pin "Fest nettstad">
+<!ENTITY contextmenu_top_sites_unpin "Løys nettstad">
 <!-- Localization note (contextmenu_pin_to_top_sites, contextmenu_unpin_from_top_sites): These strings are used to
      pin/unpin items from top sites when the user is not on the top sites screen so they'd be missing context on what
      just "Pin Site" or "Unpin Site" would mean. -->
-<!ENTITY contextmenu_pin_to_top_sites "Fest til toppliste">
-<!ENTITY contextmenu_unpin_from_top_sites "Løys frå toppliste">
+<!ENTITY contextmenu_pin_to_top_sites "Fest til mest besøkte">
+<!ENTITY contextmenu_unpin_from_top_sites "Løys frå mest besøkte">
 <!ENTITY contextmenu_add_search_engine "Legg til ein søkjemotor">
 
 <!-- Localization note (pinned_page_to_top_sites, unpinned_page_from_top_sites): These strings are shown in a snackbar
      after the user pins/unpins the currently displayed page from top sites. -->
-<!ENTITY pinned_page_to_top_sites "Festa side til populære nettstadar">
-<!ENTITY unpinned_page_from_top_sites "SIde fjerna frå toppliste">
+<!ENTITY pinned_page_to_top_sites "Festa side til mest besøkte">
+<!ENTITY unpinned_page_from_top_sites "Løyste sida frå mest besøkte">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -622,10 +622,10 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY button_clear "Tøm">
 <!ENTITY button_copy "Kopier">
 
-<!ENTITY home_top_sites_title "Populære nettstadar">
+<!ENTITY home_top_sites_title "Mest besøkte nettstadar">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
-<!ENTITY home_top_sites_add "Legg til nettstad">
+<!ENTITY home_top_sites_add "Legg til ein nettstad">
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
@@ -876,7 +876,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Bokmerk lesevisingselement for å lesa dei fråkopla.">
 <!ENTITY helper_triple_readerview_open_button "Legg til i bokmerka">
 
-<!ENTITY activity_stream_topsites "Populære nettstadar">
+<!ENTITY activity_stream_topsites "Mest besøkte nettstadar">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "Tilrådd av &brandPocket;">
 <!ENTITY activity_stream_highlights "Høgdepunkt">
