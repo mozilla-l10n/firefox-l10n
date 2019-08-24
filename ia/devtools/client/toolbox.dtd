@@ -189,7 +189,7 @@
 <!ENTITY options.sourceeditor.detectindentation.label   "Detectar le identation">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Deducer le indentation in base la contento del fonte">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Autoclauder le parentheses">
-<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Inserer automaticamente le clausura de parenthese">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Inserer automaticamente le parenthese de clausura">
 <!ENTITY options.sourceeditor.expandtab.label           "Identar usante spatios">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Usar le spatios in vice del characteres de tabulation">
 <!ENTITY options.sourceeditor.tabsize.label             "Dimension del tabulation">

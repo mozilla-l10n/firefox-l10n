@@ -160,8 +160,8 @@ was trying to connect. -->
 ">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
-<p>Le horologio de tu computator signa <span id='wrongSystemTime_systemDate2'/>. Verifica que tu computator es preparate al correcte data, tempore e fuso horari in le parametros de tu systema, e alora refresca <span class='hostname'/>.</p>
-<p>Si le tempore es jam correcte, le sito web pare ser mal configurate, e il ha nihil que tu pote facer pro resolver iste problema. Tu pote solo notificar de iste problema le administrator del sito.</p>
+<p>Le horologio de tu computator signa <span id='wrongSystemTime_systemDate2'/>. Verifica que le data, hora e fuso horari es configurate correctemente in tu systema, e alora refresca <span class='hostname'/>.</p>
+<p>Si le hora es jam correcte, le sito web es probabilemente mal configurate, e il ha nihil que tu pote facer pro resolver iste problema. Tu pote solo signalar iste problema al administrator del sito.</p>
 ">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
