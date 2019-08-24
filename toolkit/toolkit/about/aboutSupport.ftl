@@ -35,6 +35,8 @@ app-basics-name = Nume
 app-basics-version = Versiune
 app-basics-build-id = ID-ul versiunii compilate
 app-basics-update-channel = Canal de actualizare
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Directorul actualizărilor
@@ -59,7 +61,6 @@ app-basics-service-workers = Scripturi Service Worker înregistrate
 app-basics-profiles = Profiluri
 app-basics-launcher-process-status = Procesul lansatorului
 app-basics-multi-process-support = Ferestre multiproces
-app-basics-process-count = Procese pentru conținut web
 app-basics-remote-processes-count = Procese la distanță
 app-basics-enterprise-policies = Politici dedicate întreprinderilor
 app-basics-location-service-key-google = Cheie de servicii Google pentru localizare
@@ -164,9 +165,9 @@ crashes-time-hours =
 # $days (integer) - Number of days since crash
 crashes-time-days =
     { $days ->
-        [one] { $days } zi în urmă
-        [few] { $days } zile în urmă
-       *[other] { $days } de zile în urmă
+        [one] acum { $days } zi
+        [few] acum { $days } zile
+       *[other] acum { $days } de zile
     }
 # Variables
 # $reports (integer) - Number of pending reports
@@ -246,7 +247,6 @@ uses-tiling = Folosește tiling
 content-uses-tiling = Folosește Tiling (Conținut)
 off-main-thread-paint-enabled = Desenare în afara firului de execuție principal activată
 off-main-thread-paint-worker-count = Număr de workeri pentru desenare în afara firului de execuție principal
-low-end-machine = A detectat o mașină cu performanțe scăzute
 target-frame-rate = Frecvență de cadre țintă
 audio-backend = Backend audio
 max-audio-channels = Canale maxime
