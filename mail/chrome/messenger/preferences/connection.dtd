@@ -38,6 +38,10 @@
 <!ENTITY  noproxy.label                 "Ei välitystä osoitteille:">
 <!ENTITY  noproxy.accesskey             "v">
 <!ENTITY  noproxyExplain.label          "Esimerkiksi: 192.168.1.0/24, .mozilla.org, .fi">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
+<!ENTITY  noproxyLocalhostDesc.label   "Yhteyksiä kohteisiin localhost, 127.0.0.1 ja ::1 ei koskaan ohjata välityspalvelimen kautta.">
 <!ENTITY  shareproxy.label              "Sama välityspalvelin kaikille yhteyskäytännöille">
 <!ENTITY  shareproxy.accesskey          "m">
 <!ENTITY  autologinproxy.label          "Älä pyydä tunnistautumista, jos salasana on tallennettu">
@@ -47,12 +51,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  dnsOverHttps.label            "Käytä DNS:ää HTTPS:n yli">
 <!ENTITY  dnsOverHttps.accesskey        "H">
-<!ENTITY  dnsOverHttpsUrl.label         "Verkko-osoite:">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "r">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "Verkko-osoite DNS:n selvittämistä varten HTTPS:n avulla">
-<!ENTITY  dnsOverHttpsUrlDefault.label     "Käytä oletusta">
-<!ENTITY  dnsOverHttpsUrlDefault.accesskey "o">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Käytä oletusosoitetta DNS-kyselyjen selvittämiseen HTTPS:n välityksellä">
-<!ENTITY  dnsOverHttpsUrlCustom.label      "Oma">
-<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "m">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Syötä haluamasi verkko-osoite DNS-kyselyjen tekemiseen HTTPS:n avulla">

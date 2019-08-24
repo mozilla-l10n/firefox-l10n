@@ -30,9 +30,7 @@
 <!ENTITY addCloudFileAccount.description  "Lisää uusi tiedostoja linkittävä tallennuspalvelu">
 <!ENTITY removeCloudFileAccount.label     "Poista">
 <!ENTITY removeCloudFileAccount.accesskey "P">
-<!ENTITY authRequired.description         "Tilisi täytyy todentaa, jotta tallennuspalvelun asetukset ovat nähtävissä.">
-<!ENTITY authRequired.button.label        "Todenna">
-<!ENTITY authRequired.button.accesskey    "T">
+<!ENTITY findCloudFileProviders.label     "Etsi lisää palveluntarjoajia…">
 
 <!ENTITY enableCloudFileAccountOffer.label "Ehdota palvelua yli">
 <!ENTITY enableCloudFileAccountOffer.mb "Mt:n tiedostoille">

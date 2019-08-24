@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "T">
 <!ENTITY folderPaneBar.label "Kansiopaneelin työkalupalkki">
 <!ENTITY folderPaneBar.accesskey "p">
-<!ENTITY folderModeSelector.label "Kansionäkymät">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Järjestelyperuste">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Tallenna valittu viesti">
 <!ENTITY archiveButton.tooltip "Arkistoi valitut viestit">
 <!ENTITY openConversationButton.tooltip "Näytä valitun viestin keskustelu">
+<!ENTITY openMsgConversationButton.tooltip "Näytä valitun viestin keskustelu">
 <!ENTITY nextButton.tooltip "Siirry seuraavaan lukematta olevaan viestiin">
 <!ENTITY nextMsgButton.tooltip "Siirry seuraavaan viestiin">
 <!ENTITY previousButton.tooltip "Siirry edelliseen lukematta olevaan viestiin">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Aseta viesteihin tunnuksia">
 <!ENTITY compactButton.tooltip "Poista poistettu viesti valitusta kansiosta">
 <!ENTITY appmenuButton1.tooltip "Avaa &brandShortName;-valikko">
-
 <!ENTITY addonsButton.tooltip "Hallinnoi lisäosia">
 
 <!-- Toolbar Button Popup -->
