@@ -17,8 +17,10 @@ composition-category-header = Viestin luominen
 composition-attachments-header = Liitteet
 composition-spelling-title = Oikoluku
 compose-html-style-title = HTML-tyyli
+composition-addressing-header = Osoittaminen
 privacy-main-header = Yksityisyys
 privacy-passwords-header = Salasanat
+privacy-junk-header = Roska
 privacy-data-collection-header = Tietojen keruu ja käyttö
 privacy-security-header = Turvallisuus
 privacy-scam-detection-title = Huijausten havaitseminen
@@ -39,6 +41,7 @@ update-pref-write-failure-title = Kirjoitusvirhe
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Asetuksia ei voitu tallentaa. Ei voitu kirjoittaa tiedostoon: { $path }
 update-in-progress-title = Päivitys käynnissä
+update-in-progress-message = Haluatko, että { -brand-short-name } jatkaa tätä päivitystä?
 update-in-progress-ok-button = &Hylkää
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.

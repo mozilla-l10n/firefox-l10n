@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "H">
 <!ENTITY viewSecurityDevices.label "Turvallisuuslaitteet">
 <!ENTITY viewSecurityDevices.accesskey "T">
+
+<!ENTITY manageCertificates2.label "Hallitse varmenteita…">
+<!ENTITY manageCertificates2.accesskey "H">
+<!ENTITY viewSecurityDevices2.label "Turvalaitteet…">
+<!ENTITY viewSecurityDevices2.accesskey "T">

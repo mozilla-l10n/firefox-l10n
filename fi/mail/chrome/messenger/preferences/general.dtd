@@ -38,3 +38,7 @@
 <!ENTITY browse.accesskey                 "S">
 
 <!ENTITY defaultSearchEngine.label        "Oletushakukone">
+<!ENTITY addSearchEngine.label            "Lisää tiedostosta">
+<!ENTITY addSearchEngine.accesskey        "L">
+<!ENTITY removeSearchEngine.label         "Poista">
+<!ENTITY removeSearchEngine.accesskey     "p">

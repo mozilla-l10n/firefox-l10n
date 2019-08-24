@@ -36,3 +36,7 @@
 <!ENTITY dntTrackingNotOkay.label2 "Ilmoita sivustoille, etten halua niiden seuraavan minua">
 <!ENTITY dntTrackingNotOkay.accesskey "I">
 <!ENTITY doNotTrackInfo.label "Lue lisää seuranta-asetuksista">
+
+<!ENTITY doNotTrackCheck.label "Lähetä sivustoille “Do Not Track”-signaali, joka kertoo ettet halua sinua seurattavan">
+<!ENTITY doNotTrackCheck.accesskey "s">
+<!ENTITY doNotTrackLearnMore.label "Lue lisää">
