@@ -10,23 +10,12 @@
 <!ENTITY helpMenuWin.label "Ohje">
 <!ENTITY helpMenuWin.accesskey "O">
 <!ENTITY aboutProduct2.label "Tietoja - &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "T">
 <!ENTITY helpTroubleshootingInfo.label     "Tietoja ongelmatilanteisiin">
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY helpSafeMode.label     "Käynnistä uudelleen ilman lisäosia…">
 <!ENTITY helpSafeMode.accesskey "K">
-<!ENTITY releaseCmd2.label "Julkaisutiedot">
-<!ENTITY releaseCmd2.accesskey "J">
-<!ENTITY whatsNewCmd.label "Mitä uutta">
-<!ENTITY whatsNewCmd.accesskey "M">
-<!ENTITY openHelp.label "Ohjeen aiheet">
-<!ENTITY openHelp.accesskey "O">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "&brandFullName;in ohje">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
-
-<!ENTITY aboutMenuCmd2.label "Tietoja &brandFullName;istä">
-<!ENTITY aboutMenuCmd2.accesskey "T">
+<!ENTITY helpSafeMode.stop.label     "Käynnistä uudelleen lisäosat käytössä">
 <!ENTITY productHelp.label "&brandShortName;-ohje">
 <!ENTITY productHelp.accesskey "O">
 <!ENTITY productHelp.commandkey "VK_F1">
