@@ -4,7 +4,7 @@
 
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-intro = { $hostname } ay gumagamit ng imbalidong katiwasayang sertipiko.
+cert-error-intro = Ang { $hostname } ay gumagamit ng di-wastong security certificate.
 cert-error-mitm-intro = Pinapatunayan ng mga website ang kanilang identity gamit ang mga certificate, na siyang ini-issue nga mga certificate authority.
 cert-error-mitm-mozilla = Ang { -brand-short-name } ay sinusuportahan ng non-profit na Mozilla, na nagbibigay ng bukas na certificate authority (CA) store. Sinisiguro ng CA store na sumusunod ang mga certificate authority sa mga best practice para sa seguridad ng user.
 cert-error-mitm-connection = Ginagamit ng { -brand-short-name } ang Mozilla CA store para masiguro na secure ang connection, sa halip na gamitin ang mga certificate na binigay ng operating system ng user. Kaya kapag na-intercept ng isang antivirus program o network ang isang connection kung saan ang security certificate ay inissue ng isang CA na wala sa Mozilla CA store, ang connection ay hindi ligtas.
@@ -54,4 +54,4 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
-cert-error-details-cert-chain-label = Salansan ng mga sertipiko:
+cert-error-details-cert-chain-label = Certificate chain:

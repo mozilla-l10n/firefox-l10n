@@ -885,7 +885,7 @@ certs-select-auto-option =
     .label = Pumili agad ng isa
     .accesskey = S
 certs-select-ask-option =
-    .label = Magtanong sayo palagi
+    .label = Tanungin ka palagi
     .accesskey = A
 certs-enable-ocsp =
     .label = Tanungin ang mga OCSP responder server upang kumpirmahin ang kasalukuyang bisa ng mga sertipiko
@@ -894,10 +894,10 @@ certs-view =
     .label = Tingnan ang mga Sertipiko…
     .accesskey = C
 certs-devices =
-    .label = Mga device na pang-seguridad…
+    .label = Mga Security Device...
     .accesskey = D
 space-alert-learn-more-button =
-    .label = Matuto ng Higit pa
+    .label = Alamin
     .accesskey = L
 space-alert-over-5gb-pref-button =
     .label =
@@ -916,9 +916,9 @@ space-alert-over-5gb-message =
        *[other] Nauubusan na ng disk space ang { -brand-short-name }. Maaaring hindi mag-display nang maayos ang laman ng website. Pwede kang mag-clear ng naka-store na data sa Options > Privacy & Security > Mga Cookie at Site Data.
     }
 space-alert-under-5gb-ok-button =
-    .label = OK, Nakuha ko ito
+    .label = OK, Nakuha ko
     .accesskey = K
-space-alert-under-5gb-message = { -brand-short-name } ay tumatakbo sa labas ng puwang sa disk. Maaaring hindi maipakita nang wasto ang mga nilalaman ng website. Bisitahin ang "Matuto nang Higit Pa" upang i-optimize ang iyong paggamit ng disk para sa mas mahusay na karanasan sa pagba-browse.
+space-alert-under-5gb-message = Nauubusan na ng disk space ang { -brand-short-name }. Maaaring hindi maipakita nang wasto ang mga nilalaman ng website. Puntahan ang "Alamin" para maisaayos ang iyong disk usage para sa mas magandang karanasan sa pagba-browse.
 
 ## The following strings are used in the Download section of settings
 
