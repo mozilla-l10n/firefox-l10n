@@ -9,21 +9,21 @@
 <!ENTITY importFromUnix.label           "..निफ्राय पसन्द, बुकमार्क, जारिमिन, पासवर्ड आरो गुबुन डाटा लाबो:">
 <!ENTITY importFromBookmarks.label      "..निफ्राय बुकमार्कफोरखौ लाबो:">
 
-<!ENTITY importFromIE.label             "माइक्र'सफ्ट इन्टारनेट एक्सप्ल'रार (M)">
+<!ENTITY importFromIE.label             "माइक्र'सफ्ट इन्टारनेट एक्सप्ल'रार">
 <!ENTITY importFromIE.accesskey         "M">
 
 
-<!ENTITY importFromNothing.label        "जेबो लाबोनो नाङा (D)">
+<!ENTITY importFromNothing.label        "जेबो लाबोनो नाङा">
 <!ENTITY importFromNothing.accesskey    "D">
-<!ENTITY importFromSafari.label         "साफारि (S)">
+<!ENTITY importFromSafari.label         "साफारि">
 <!ENTITY importFromSafari.accesskey     "S">
 
 
-<!ENTITY importFromChrome.label         "क्रम (C)">
+<!ENTITY importFromChrome.label         "क्रम">
 <!ENTITY importFromChrome.accesskey     "C">
 
 
-<!ENTITY importFromFirefox.label        "फायारफक्स (x)">
+<!ENTITY importFromFirefox.label        "फायारफक्स">
 <!ENTITY importFromFirefox.accesskey    "x">
 
 

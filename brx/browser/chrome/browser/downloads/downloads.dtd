@@ -42,9 +42,9 @@
 
 <!ENTITY downloadsSummary.minWidth2       "21ch">
 
-<!ENTITY cmd.pause.label                  "थाद' हो (P)">
+<!ENTITY cmd.pause.label                  "थाद' हो">
 <!ENTITY cmd.pause.accesskey              "P">
-<!ENTITY cmd.resume.label                 "फिन जागाय (R)">
+<!ENTITY cmd.resume.label                 "फिन जागाय">
 <!ENTITY cmd.resume.accesskey             "R">
 
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
@@ -52,14 +52,14 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.show.label                   "फल्डार थानायखौ खेव (F)">
+<!ENTITY cmd.show.label                   "फल्डार थानायखौ खेव">
 <!ENTITY cmd.show.accesskey               "F">
-<!ENTITY cmd.showMac.label                "नागिरना दिहुनग्राआव दिन्थि (F)">
+<!ENTITY cmd.showMac.label                "नागिरना दिहुनग्राआव दिन्थि">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "फिन नाजा">
-<!ENTITY cmd.goToDownloadPage.label       "डाउनल'ड बिलाइआव थां (G)">
+<!ENTITY cmd.goToDownloadPage.label       "डाउनल'ड बिलाइआव थां">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-<!ENTITY cmd.copyDownloadLink.label       "डाउनल'ड लिंकखौ कपि खालाम (L)">
+<!ENTITY cmd.copyDownloadLink.label       "डाउनल'ड लिंकखौ कपि खालाम">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "जारिमिन निफ्राय बोखार">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
@@ -119,7 +119,7 @@
      the panel at all.
      -->
 
-<!ENTITY downloadsHistory.label           "गासै डाउनल'डखौ दिन्थि (S)">
+<!ENTITY downloadsHistory.label           "गासै डाउनल'डखौ दिन्थि">
 <!ENTITY downloadsHistory.accesskey       "S">
 <!-- LOCALIZATION NOTE (openDownloadsFolder.label):
      This command is not currently available in the user interface, but the

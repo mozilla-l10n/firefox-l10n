@@ -10,17 +10,17 @@
      on web development on the web. -->
 
 
-<!ENTITY newButton.label            "गोदान(N)">
+<!ENTITY newButton.label            "गोदान">
 <!ENTITY newButton.tooltip          "मोनसे गोदान आदब सिटखौ फोरमान बिलाइआव सोरजि आरो बांहो">
 <!ENTITY newButton.accesskey        "N">
 
-<!ENTITY importButton.label         "लाबो...(I)">
+<!ENTITY importButton.label         "लाबो...">
 <!ENTITY importButton.tooltip       "मोनसे थाखानाय आदब सिटखौ फोरमान बिलाइआव लाबो आरो बांहो">
 <!ENTITY importButton.accesskey     "I">
 
 <!ENTITY visibilityToggle.tooltip   "आदब सिट नुथावखौ टग्गल खालाम">
 
-<!ENTITY saveButton.label           "थिना दोन(S)">
+<!ENTITY saveButton.label           "थिना दोन">
 <!ENTITY saveButton.tooltip         "बे आदब सिटखौ मोनसे फाइलाव थिना दोन">
 <!ENTITY saveButton.accesskey       "S">
 

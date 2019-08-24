@@ -3,5 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 toolbar-context-menu-undo-close-tab =
-    .label = बन्द टेबखौ  सिगांनि महराव लाबोफिन (U)
+    .label = बन्द टेबखौ  सिगांनि महराव लाबोफिन
     .accesskey = U

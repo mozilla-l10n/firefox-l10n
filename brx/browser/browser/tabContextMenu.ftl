@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 reload-tab =
-    .label = टेबखौ फिन ल'ड खालाम(R)
+    .label = टेबखौ फिन ल'ड खालाम
     .accesskey = R
 close-tabs-to-the-end =
     .label = टेबखौ आगदाथिं बन्द खालाम
@@ -15,14 +15,14 @@ pin-tab =
     .label = पिन टेब
     .accesskey = P
 unpin-tab =
-    .label = टेबखौ आनपिन खालाम (b)
+    .label = टेबखौ आनपिन खालाम
     .accesskey = b
 move-to-new-window =
-    .label = गोदान उइन्ड'याव थां (W)
+    .label = गोदान उइन्ड'याव थां
     .accesskey = W
 undo-close-tab =
-    .label = बन्द टेबखौ  सिगांनि महराव लाबोफिन (U)
+    .label = बन्द टेबखौ  सिगांनि महराव लाबोफिन
     .accesskey = U
 close-tab =
-    .label = टेबखौ बन्द खालाम (C)
+    .label = टेबखौ बन्द खालाम
     .accesskey = C

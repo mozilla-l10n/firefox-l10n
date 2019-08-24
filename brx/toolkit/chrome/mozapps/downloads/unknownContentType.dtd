@@ -6,14 +6,14 @@
 <!ENTITY  from.label                  "निफ्राय:">
 <!ENTITY  actionQuestion.label        "बे फाइलजों &brandShortName; आ मा मावनो?">
 
-<!ENTITY  openWith.label              "जों खेव (O)">
+<!ENTITY  openWith.label              "जों खेव">
 <!ENTITY  openWith.accesskey          "O">
 <!ENTITY  other.label                 "गुबुन...">
 
-<!ENTITY  saveFile.label              "फाइलखौ थिना दोन (S)">
+<!ENTITY  saveFile.label              "फाइलखौ थिना दोन">
 <!ENTITY  saveFile.accesskey          "S">
 
-<!ENTITY  rememberChoice.label        "दानिफ्राय बे बादि फाइलफोरनि थाखाय गावनो गाव महरै बेखौ बाहाय। (a)">
+<!ENTITY  rememberChoice.label        "दानिफ्राय बे बादि फाइलफोरनि थाखाय गावनो गाव महरै बेखौ बाहाय।">
 <!ENTITY  rememberChoice.accesskey    "a">
 
 <!ENTITY  whichIs.label              "मबेया:">

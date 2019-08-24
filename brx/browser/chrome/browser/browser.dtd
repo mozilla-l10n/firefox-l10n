@@ -19,9 +19,9 @@
 <!ENTITY navbarOverflow.label                "गोबां टुल...">
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "टेबखौ फिन ल'ड खालाम(R)">
+<!ENTITY  reloadTab.label                    "टेबखौ फिन ल'ड खालाम">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "गासै टेबखौ फिन ल'ड खालाम(A)">
+<!ENTITY  reloadAllTabs.label                "गासै टेबखौ फिन ल'ड खालाम">
 <!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
@@ -38,7 +38,7 @@ can reach it easily. -->
 
 <!ENTITY  pinTab.label                       "पिन टेब">
 <!ENTITY  pinTab.accesskey                   "P">
-<!ENTITY  unpinTab.label                     "टेबखौ आनपिन खालाम (b)">
+<!ENTITY  unpinTab.label                     "टेबखौ आनपिन खालाम">
 <!ENTITY  unpinTab.accesskey                 "b">
 
 
@@ -46,30 +46,30 @@ can reach it easily. -->
 
 
 
-<!ENTITY  moveToNewWindow.label              "गोदान उइन्ड'याव थां (W)">
+<!ENTITY  moveToNewWindow.label              "गोदान उइन्ड'याव थां">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "गासै टेबखौ बुकमार्क खालाम (T)">
+<!ENTITY  bookmarkAllTabs.label              "गासै टेबखौ बुकमार्क खालाम">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "बन्द टेबखौ  सिगांनि महराव लाबोफिन (U)">
+<!ENTITY  undoCloseTab.label                 "बन्द टेबखौ  सिगांनि महराव लाबोफिन">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "टेबखौ बन्द खालाम (C)">
+<!ENTITY  closeTab.label                     "टेबखौ बन्द खालाम">
 <!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "गासै टेबखौ लिस्ट खालाम">
 
-<!ENTITY tabCmd.label "गोदान टेब (T)">
+<!ENTITY tabCmd.label "गोदान टेब">
 <!ENTITY tabCmd.accesskey "T">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "जायगाखौ खेव...">
-<!ENTITY openFileCmd.label "फाइलखौ खेव (O)... ">
+<!ENTITY openFileCmd.label "फाइलखौ खेव... ">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "बिलाइनि सेटआप...( u)">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "साफायनाय गिबि नुथाय(v)">
+<!ENTITY printPreviewCmd.label "साफायनाय गिबि नुथाय">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "साफाय...( P)">
 <!ENTITY printCmd.accesskey "P">
@@ -78,24 +78,24 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.label "खामानि अफलाइन">
 <!ENTITY goOfflineCmd.accesskey "k">
 
-<!ENTITY menubarCmd.label "मेनु बार (M)">
+<!ENTITY menubarCmd.label "मेनु बार">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "नेभिगेसन टुलबार">
-<!ENTITY personalbarCmd.label "बुकमार्क टुलबार (B)">
+<!ENTITY personalbarCmd.label "बुकमार्क टुलबार">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "बुकमार्क टुलबार आइटेमफोर">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "गासै टेबखौ फिन ल'ड खालाम(A)">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "गासै टेबखौ फिन ल'ड खालाम">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "गासै टेबखौ बुकमार्क खालाम (T)">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "गासै टेबखौ बुकमार्क खालाम">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "बन्द टेबखौ  सिगांनि महराव लाबोफिन (U)">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "बन्द टेबखौ  सिगांनि महराव लाबोफिन">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
-<!ENTITY pageSourceCmd.label "बिलाइ फुंखा (o)">
+<!ENTITY pageSourceCmd.label "बिलाइ फुंखा">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "बिलाइनि मोनथिहोनाय(I)">
+<!ENTITY pageInfoCmd.label "बिलाइनि मोनथिहोनाय">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "आं">
 
@@ -106,10 +106,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "आबुं स्क्रिन निफ्राय ओंखार लां">
 <!ENTITY exitFullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.label "आबुं स्क्रिन (F)">
+<!ENTITY fullScreenCmd.label "आबुं स्क्रिन">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "गासै टेबखौ दिन्थि (A)">
+<!ENTITY showAllTabsCmd.label "गासै टेबखौ दिन्थि">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
 
@@ -122,9 +122,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenMinimize.tooltip "मिनिमाइज खालाम">
 <!ENTITY fullScreenRestore.tooltip "मोनफिन">
 <!ENTITY fullScreenClose.tooltip "बन्द खालाम">
-<!ENTITY fullScreenAutohide.label "टुलबारफोरखौ दोनखोमा(H)">
+<!ENTITY fullScreenAutohide.label "टुलबारफोरखौ दोनखोमा">
 <!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY fullScreenExit.label "आबुं स्क्रिन म'ड निफ्राय ओंखार लां(F)">
+<!ENTITY fullScreenExit.label "आबुं स्क्रिन म'ड निफ्राय ओंखार लां">
 <!ENTITY fullScreenExit.accesskey "F">
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -151,7 +151,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY closeWindow.label "उइन्ड'खौ बन्द खालाम(d)">
+<!ENTITY closeWindow.label "उइन्ड'खौ बन्द खालाम">
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "बुकमार्क">
@@ -240,10 +240,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyButton.label            "जारिमिन">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
-<!ENTITY toolsMenu.label              "टुलफोर(T)">
+<!ENTITY toolsMenu.label              "टुलफोर">
 <!ENTITY toolsMenu.accesskey          "T">
 
-<!ENTITY keywordfield.label           "बे नागिरनायनि थाखाय मोनसे गाहाय सोदोबखौ दाजाबदेर...(K)">
+<!ENTITY keywordfield.label           "बे नागिरनायनि थाखाय मोनसे गाहाय सोदोबखौ दाजाबदेर...">
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "डाउनल'डफोर">
@@ -254,62 +254,62 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "वेब जौगाखांहोग्रा (W)">
+<!ENTITY webDeveloperMenu.label       "वेब जौगाखांहोग्रा">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY inspectContextMenu.label     "गुदिमुवाखौ नायदिं">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "फाइल(F)">
+<!ENTITY fileMenu.label         "फाइल">
 <!ENTITY fileMenu.accesskey       "F">
 
 
-<!ENTITY newNavigatorCmd.label        "गोदान उइन्ड'(N)">
+<!ENTITY newNavigatorCmd.label        "गोदान उइन्ड'">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "गोदान प्राइभेट उइन्ड'">
 <!ENTITY newPrivateWindow.accesskey "W">
 
 
-<!ENTITY editMenu.label         "सुजुनाय(E)">
+<!ENTITY editMenu.label         "सुजुनाय">
 <!ENTITY editMenu.accesskey       "E">
-<!ENTITY undoCmd.label            "सिगांनि महराव लाबोफिन(U)">
+<!ENTITY undoCmd.label            "सिगांनि महराव लाबोफिन">
 <!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "U">
-<!ENTITY redoCmd.label            "मावफिन(R)">
+<!ENTITY redoCmd.label            "मावफिन">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label           "दानस'(t)">
+<!ENTITY cutCmd.label           "दानस'">
 <!ENTITY cutCmd.key             "X">
 <!ENTITY cutCmd.accesskey         "t">
 
 
 
-<!ENTITY pasteCmd.label           "फोनांजाब हो(P)">
+<!ENTITY pasteCmd.label           "फोनांजाब हो">
 <!ENTITY pasteCmd.key           "V">
 <!ENTITY pasteCmd.accesskey         "P">
-<!ENTITY deleteCmd.label          "खोमोर (D)">
+<!ENTITY deleteCmd.label          "खोमोर">
 <!ENTITY deleteCmd.key            "D">
 <!ENTITY deleteCmd.accesskey        "D">
-<!ENTITY selectAllCmd.label         "गासैबो सायख(A)">
+<!ENTITY selectAllCmd.label         "गासैबो सायख">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY preferencesCmd2.label       "उफ्रा">
 <!ENTITY preferencesCmd2.accesskey     "O">
-<!ENTITY preferencesCmdUnix.label       "पसन्दफोर(n)">
+<!ENTITY preferencesCmdUnix.label       "पसन्दफोर">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY clearRecentHistory.label               "दानि जारिमिनखौ खोमोर...">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "नुथाय(V)">
+<!ENTITY viewMenu.label         "नुथाय">
 <!ENTITY viewMenu.accesskey       "V">
-<!ENTITY viewToolbarsMenu.label       "टुलबारफोर(T)">
+<!ENTITY viewToolbarsMenu.label       "टुलबारफोर">
 <!ENTITY viewToolbarsMenu.accesskey     "T">
-<!ENTITY viewSidebarMenu.label "साइडबार(e)">
+<!ENTITY viewSidebarMenu.label "साइडबार">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "गावनि गोसोबादि माव... (C)">
+<!ENTITY viewCustomizeToolbar.label       "गावनि गोसोबादि माव...">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
 
@@ -466,76 +466,76 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY openLinkCmdInTab.label       "गोदान टेबआव लिंकखौ खेव(T)">
+<!ENTITY openLinkCmdInTab.label       "गोदान टेबआव लिंकखौ खेव">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
-<!ENTITY openLinkCmd.label            "गोदान उइन्ड'आव लिंकखौ खेव(W)">
+<!ENTITY openLinkCmd.label            "गोदान उइन्ड'आव लिंकखौ खेव">
 <!ENTITY openLinkCmd.accesskey        "W">
 <!ENTITY openLinkInPrivateWindowCmd.label "लिंकखौ गोदान प्राइभेट उइन्ड'आव खेव">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
-<!ENTITY openLinkCmdInCurrent.label     "लिंकखौ खेव (O)">
+<!ENTITY openLinkCmdInCurrent.label     "लिंकखौ खेव">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openFrameCmdInTab.label      "फ्रेमखौ गोदान टेबआव खेव(T)">
+<!ENTITY openFrameCmdInTab.label      "फ्रेमखौ गोदान टेबआव खेव">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
-<!ENTITY openFrameCmd.label           "फ्रेमखौ गोदान उइन्ड'आव खेव(W)">
+<!ENTITY openFrameCmd.label           "फ्रेमखौ गोदान उइन्ड'आव खेव">
 <!ENTITY openFrameCmd.accesskey       "W">
 
 
-<!ENTITY showOnlyThisFrameCmd.label     "बे फ्रेमखौल' दिनथि(S)">
+<!ENTITY showOnlyThisFrameCmd.label     "बे फ्रेमखौल' दिनथि">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "फ्रेमखौ फिन ल'ड खालाम(R)">
+<!ENTITY reloadFrameCmd.label         "फ्रेमखौ फिन ल'ड खालाम">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "सायखनाय फुंखाखौ नाय">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML फुंखाखौ नाय">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
-<!ENTITY viewPageSourceCmd.label      "बिलाइ फुंखाखौ नाय(V)">
+<!ENTITY viewPageSourceCmd.label      "बिलाइ फुंखाखौ नाय">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
-<!ENTITY viewFrameSourceCmd.label     "फ्रेम फुंखाखौ नाय(V)">
+<!ENTITY viewFrameSourceCmd.label     "फ्रेम फुंखाखौ नाय">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
-<!ENTITY viewPageInfoCmd.label        "बिलाइनि मोनथिहोनायखौ नाय(I)">
+<!ENTITY viewPageInfoCmd.label        "बिलाइनि मोनथिहोनायखौ नाय">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
-<!ENTITY viewFrameInfoCmd.label       "फ्रेम मोनथिहोनायखौ नाय(I)">
+<!ENTITY viewFrameInfoCmd.label       "फ्रेम मोनथिहोनायखौ नाय">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
-<!ENTITY reloadImageCmd.label         "मुसुखाखौ फिन ल'ड खालाम (R)">
+<!ENTITY reloadImageCmd.label         "मुसुखाखौ फिन ल'ड खालाम">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "मुसुखाखौ नाय(I)">
+<!ENTITY viewImageCmd.label           "मुसुखाखौ नाय">
 <!ENTITY viewImageCmd.accesskey       "I">
-<!ENTITY viewImageInfoCmd.label       "मुसुखा फोरमायथिहोग्राखौ नाइ (f)">
+<!ENTITY viewImageInfoCmd.label       "मुसुखा फोरमायथिहोग्राखौ नाइ">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "बेखेवथिखौ नाय">
 <!ENTITY viewImageDescCmd.accesskey   "D">
-<!ENTITY viewVideoCmd.label           "भिडिअखौ नाइ (i)">
+<!ENTITY viewVideoCmd.label           "भिडिअखौ नाइ">
 <!ENTITY viewVideoCmd.accesskey       "i">
-<!ENTITY viewBGImageCmd.label         "सावगारिनि उनथिं थानाय मुसुखाखौ नाय(w)">
+<!ENTITY viewBGImageCmd.label         "सावगारिनि उनथिं थानाय मुसुखाखौ नाय">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "डेस्कटप सावगारिनि उनथिं थानाय बादि फज...(S)">
+<!ENTITY setDesktopBackgroundCmd.label      "डेस्कटप सावगारिनि उनथिं थानाय बादि फज...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "बे बिलाइखौ बुकमार्क हो... ">
-<!ENTITY bookmarkThisLinkCmd.label      "बे लिंकखौ बुकमार्क हो(L)">
+<!ENTITY bookmarkThisLinkCmd.label      "बे लिंकखौ बुकमार्क हो">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "बे फ्रेमखौ बुकमार्क हो(m)">
+<!ENTITY bookmarkThisFrameCmd.label      "बे फ्रेमखौ बुकमार्क हो">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 
 <!ENTITY emailPageCmd.label           "इ-मेइल लिंक...">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY savePageCmd.label            "..बादि बिलाइखौ थिना दोन...(A)">
+<!ENTITY savePageCmd.label            "..बादि बिलाइखौ थिना दोन...">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "बादि फ्रेमखौ थिना दोन...(F)">
+<!ENTITY saveFrameCmd.label           "बादि फ्रेमखौ थिना दोन...">
 <!ENTITY saveFrameCmd.accesskey       "F">
-<!ENTITY printFrameCmd.label          "साफायनाय फ्रेम...(P)">
+<!ENTITY printFrameCmd.label          "साफायनाय फ्रेम...">
 <!ENTITY printFrameCmd.accesskey      "P">
-<!ENTITY saveLinkCmd.label            "बादि लिंकखौ थिना दोन...(k)">
+<!ENTITY saveLinkCmd.label            "बादि लिंकखौ थिना दोन...">
 <!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY saveImageCmd.label           "बादि मुसुखाखौ थिना दोन...(v)">
+<!ENTITY saveImageCmd.label           "बादि मुसुखाखौ थिना दोन...">
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "बादि भिडिअ'खौ थिना दोन...">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "..बादि अडिअखौ थिना दोन (v)...">
+<!ENTITY saveAudioCmd.label           "..बादि अडिअखौ थिना दोन...">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "इ-मेइल मुसुखा...">
 <!ENTITY emailImageCmd.accesskey      "g">
@@ -549,35 +549,35 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "बे प्लागिनखौ दोनखोमा">
 <!ENTITY hidePluginCmd.accesskey      "H">
-<!ENTITY copyLinkCmd.label            "लिंक जायगाखौ कपि खालाम(a)">
+<!ENTITY copyLinkCmd.label            "लिंक जायगाखौ कपि खालाम">
 <!ENTITY copyLinkCmd.accesskey        "a">
-<!ENTITY copyImageCmd.label           "मुसुखा जायगाखौ कपि खालाम(o)">
+<!ENTITY copyImageCmd.label           "मुसुखा जायगाखौ कपि खालाम">
 <!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "मुसुखाखौ कपि खालाम(y)">
+<!ENTITY copyImageContentsCmd.label   "मुसुखाखौ कपि खालाम">
 <!ENTITY copyImageContentsCmd.accesskey  "y">
-<!ENTITY copyVideoURLCmd.label        "भिडिअनि जायगाखौ कपि खालाम (o)">
+<!ENTITY copyVideoURLCmd.label        "भिडिअनि जायगाखौ कपि खालाम">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "अडिअनि जायगाखौ कपि खालाम (o)">
+<!ENTITY copyAudioURLCmd.label        "अडिअनि जायगाखौ कपि खालाम">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "इ-मेइल थंखौ कपि खालाम(E)">
+<!ENTITY copyEmailCmd.label           "इ-मेइल थंखौ कपि खालाम">
 <!ENTITY copyEmailCmd.accesskey       "E">
-<!ENTITY thisFrameMenu.label              "बे फ्रेम(h)">
+<!ENTITY thisFrameMenu.label              "बे फ्रेम">
 <!ENTITY thisFrameMenu.accesskey          "h">
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
 
-<!ENTITY mediaPlay.label             "दाम (P)">
+<!ENTITY mediaPlay.label             "दाम">
 <!ENTITY mediaPlay.accesskey         "P">
-<!ENTITY mediaPause.label            "थाद' हो (P)">
+<!ENTITY mediaPause.label            "थाद' हो">
 <!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "सोदोबगैयै खालाम (M)">
+<!ENTITY mediaMute.label             "सोदोबगैयै खालाम">
 <!ENTITY mediaMute.accesskey         "M">
-<!ENTITY mediaUnmute.label           "सोदोबगोनां खालाम (m)">
+<!ENTITY mediaUnmute.label           "सोदोबगोनां खालाम">
 <!ENTITY mediaUnmute.accesskey       "m">
 
 
@@ -598,20 +598,20 @@ fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "दबथायनायखौ दिन्थि (C)">
+<!ENTITY mediaShowControls.label     "दबथायनायखौ दिन्थि">
 <!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.label     "दबथायनायखौ दोनथोमा (C)">
+<!ENTITY mediaHideControls.label     "दबथायनायखौ दोनथोमा">
 <!ENTITY mediaHideControls.accesskey "C">
-<!ENTITY videoFullScreen.label       "आबुं स्क्रिन (F)">
+<!ENTITY videoFullScreen.label       "आबुं स्क्रिन">
 <!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.label        "बादि स्नेपसटखौ थिना दोन...(S)">
+<!ENTITY videoSaveImage.label        "बादि स्नेपसटखौ थिना दोन...">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY videoShowStats.label        "अनजिमा सानथायखौ दिन्थि(t)">
+<!ENTITY videoShowStats.label        "अनजिमा सानथायखौ दिन्थि">
 <!ENTITY videoShowStats.accesskey    "t">
-<!ENTITY videoHideStats.label        "अनजिमा सानथायखौ दोनखोमा(t)">
+<!ENTITY videoHideStats.label        "अनजिमा सानथायखौ दोनखोमा">
 <!ENTITY videoHideStats.accesskey    "t">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -620,14 +620,14 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomEnlargeCmd.label       "गेदेरै जुम खालाम(I)">
+<!ENTITY fullZoomEnlargeCmd.label       "गेदेरै जुम खालाम">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label        "फिसायै जुम खालाम(O)">
+<!ENTITY fullZoomReduceCmd.label        "फिसायै जुम खालाम">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
@@ -637,34 +637,34 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "फराय बिजाबखौल' जुम खालाम(T)">
+<!ENTITY fullZoomToggleCmd.label        "फराय बिजाबखौल' जुम खालाम">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY fullZoom.label                 "जुम खालाम(Z)">
+<!ENTITY fullZoom.label                 "जुम खालाम">
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "साइड बारखौ बन्द खालाम">
 
 
-<!ENTITY quitApplicationCmdWin2.label       "ओंखार लां(x)">
+<!ENTITY quitApplicationCmdWin2.label       "ओंखार लां">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
 
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "नागार(Q)">
+<!ENTITY quitApplicationCmd.label       "नागार">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 
 
 
-<!ENTITY closeCmd.label                 "बन्द खालाम(C)">
+<!ENTITY closeCmd.label                 "बन्द खालाम">
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
 
-<!ENTITY pageStyleMenu.label "बिलाइनि आदब(y)">
+<!ENTITY pageStyleMenu.label "बिलाइनि आदब">
 <!ENTITY pageStyleMenu.accesskey "y">
-<!ENTITY pageStyleNoStyle.label "आदब गैया(N)">
+<!ENTITY pageStyleNoStyle.label "आदब गैया">
 <!ENTITY pageStyleNoStyle.accesskey "N">
-<!ENTITY pageStylePersistentOnly.label "गुदि बिलाइनि आदब(B)">
+<!ENTITY pageStylePersistentOnly.label "गुदि बिलाइनि आदब">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
 <!ENTITY pageReportIcon.tooltip            "बे साइटनि थाखाय पप-आप हेंथाहोनाय सेटिंखौ सोलाय">
@@ -674,26 +674,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "प'पआप ब्लकार पसन्दफोरखौ सुजु...">
-<!ENTITY editPopupSettings.label "प'पआप ब्लकार उफ्राफोरखौ सुजु...(E)">
+<!ENTITY editPopupSettings.label "प'पआप ब्लकार उफ्राफोरखौ सुजु...">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "बिलाइनि दिकाव थां(D)">
+<!ENTITY bidiSwitchPageDirectionItem.label        "बिलाइनि दिकाव थां">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
-<!ENTITY bidiSwitchTextDirectionItem.label        "फराय बिजाब बिथिंखौ चुइछ खालाम(w)">
+<!ENTITY bidiSwitchTextDirectionItem.label        "फराय बिजाब बिथिंखौ चुइछ खालाम">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "बे बिलाइआव नागिरना दिहुन...(F)">
+<!ENTITY findOnCmd.label     "बे बिलाइआव नागिरना दिहुन...">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "फिन नायगिरना दिहुन(g)">
+<!ENTITY findAgainCmd.label  "फिन नायगिरना दिहुन">
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
-<!ENTITY spellAddDictionaries.label "सोदोब बिहुखौ दाजाबदेर...(A)">
+<!ENTITY spellAddDictionaries.label "सोदोब बिहुखौ दाजाबदेर...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 
@@ -768,7 +768,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncBrand.shortName.label    "सिनक">
 
 
-<!ENTITY syncSyncNowItem.label        "दानो सिनक खालाम(S)">
+<!ENTITY syncSyncNowItem.label        "दानो सिनक खालाम">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; जों फिन फोनांजाब खालाम...">
 <!ENTITY syncReAuthItem.accesskey     "R">

@@ -22,14 +22,14 @@
 
 <!ENTITY window.title                 "स्क्रेचपेड">
 
-<!ENTITY fileMenu.label               "फाइल(F)">
+<!ENTITY fileMenu.label               "फाइल">
 <!ENTITY fileMenu.accesskey           "F">
 
-<!ENTITY newWindowCmd.label           "गोदान उइन्ड'(N)">
+<!ENTITY newWindowCmd.label           "गोदान उइन्ड'">
 <!ENTITY newWindowCmd.accesskey       "N">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "फाइलखौ खेव (O)... ">
+<!ENTITY openFileCmd.label            "फाइलखौ खेव... ">
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "o">
 
@@ -39,18 +39,18 @@
 <!ENTITY revertCmd.label              "उल्था खालाम">
 <!ENTITY revertCmd.accesskey          "t">
 
-<!ENTITY saveFileCmd.label            "थिना दोन(S)">
+<!ENTITY saveFileCmd.label            "थिना दोन">
 <!ENTITY saveFileCmd.accesskey        "S">
 <!ENTITY saveFileCmd.commandkey       "s">
 
-<!ENTITY saveFileAsCmd.label          "बादि थिना दोन...(A)">
+<!ENTITY saveFileAsCmd.label          "बादि थिना दोन...">
 <!ENTITY saveFileAsCmd.accesskey      "A">
 
-<!ENTITY closeCmd.label               "बन्द खालाम(C)">
+<!ENTITY closeCmd.label               "बन्द खालाम">
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "C">
 
-<!ENTITY viewMenu.label               "नुथाय(V)">
+<!ENTITY viewMenu.label               "नुथाय">
 <!ENTITY viewMenu.accesskey           "V">
 
 <!ENTITY lineNumbers.label             "सारि अनजिमाखौ दिन्थि">
@@ -75,18 +75,18 @@
 <!ENTITY normalSize.accesskey         "N">
 <!ENTITY normalSize.commandkey        "0">
 
-<!ENTITY editMenu.label               "सुजुनाय(E)">
+<!ENTITY editMenu.label               "सुजुनाय">
 <!ENTITY editMenu.accesskey           "E">
 
-<!ENTITY run.label                    "सालाय(R)">
+<!ENTITY run.label                    "सालाय">
 <!ENTITY run.accesskey                "R">
 <!ENTITY run.key                      "r">
 
-<!ENTITY inspect.label                "नाइबिजिर(I)">
+<!ENTITY inspect.label                "नाइबिजिर">
 <!ENTITY inspect.accesskey            "I">
 <!ENTITY inspect.key                  "आं">
 
-<!ENTITY display.label                "दिनथिफुं(D)">
+<!ENTITY display.label                "दिनथिफुं">
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "आं">
 
@@ -100,11 +100,11 @@
   -  (browser).
   -->
 
-<!ENTITY environmentMenu.label        "आबहावा(n)">
+<!ENTITY environmentMenu.label        "आबहावा">
 <!ENTITY environmentMenu.accesskey    "n">
 
 
-<!ENTITY contentContext.label         "थानायआयदा(C)">
+<!ENTITY contentContext.label         "थानायआयदा">
 <!ENTITY contentContext.accesskey     "C">
 <!-- LOCALIZATION NOTE (browserContext.label, accesskey): This menu item is used
   -  to select an execution environment for the browser window itself as opposed
@@ -113,15 +113,15 @@
   -  was called "Chrome".
   -->
 
-<!ENTITY browserContext.label         "ब्राउजार(B)">
+<!ENTITY browserContext.label         "ब्राउजार">
 <!ENTITY browserContext.accesskey     "B">
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
 
-<!ENTITY helpMenu.label               "मदद (H)">
+<!ENTITY helpMenu.label               "मदद">
 <!ENTITY helpMenu.accesskey           "H">
-<!ENTITY helpMenuWin.label            "मदद (H)">
+<!ENTITY helpMenuWin.label            "मदद">
 <!ENTITY helpMenuWin.accesskey        "H">
 
 <!ENTITY documentationLink.label      "MDN आव स्क्रेचपेड मदद">
@@ -131,14 +131,14 @@
   -->
 
 
-<!ENTITY resetContext2.label          "सोलायस्लुखौ फिन फज(t)">
+<!ENTITY resetContext2.label          "सोलायस्लुखौ फिन फज">
 <!ENTITY resetContext2.accesskey      "t">
 
 <!ENTITY reloadAndRun.label           "फिन ल'ड खालाम आरो सालाय">
 <!ENTITY reloadAndRun.accesskey       "e">
 <!ENTITY reloadAndRun.key             "r">
 
-<!ENTITY executeMenu.label            "मावफुं(x)">
+<!ENTITY executeMenu.label            "मावफुं">
 <!ENTITY executeMenu.accesskey        "x">
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of

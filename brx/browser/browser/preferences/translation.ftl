@@ -22,5 +22,5 @@ translation-sites-button-remove-all =
     .label = गासै साइटखौ बोखार
     .accesskey = i
 translation-button-close =
-    .label = बन्द खालाम(C)
+    .label = बन्द खालाम
     .accesskey = C

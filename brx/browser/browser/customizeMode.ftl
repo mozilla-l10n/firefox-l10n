@@ -15,6 +15,6 @@ customize-mode-lwthemes-menu-get-more =
     .label = गोबां थिम ला
     .accesskey = G
 customize-mode-undo-cmd =
-    .label = सिगांनि महराव लाबोफिन(U)
+    .label = सिगांनि महराव लाबोफिन
 customize-mode-lwthemes-my-themes =
     .value = आंनि थिम

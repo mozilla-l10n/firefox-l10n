@@ -3,16 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 printpreview-close =
-    .label = बन्द खालाम(C)
+    .label = बन्द खालाम
     .accesskey = C
 printpreview-portrait =
-    .label = प'र्ट्रेट(o)
+    .label = प'र्ट्रेट
     .accesskey = o
 printpreview-landscape =
-    .label = लेण्डस्केप(L)
+    .label = लेण्डस्केप
     .accesskey = L
 printpreview-scale =
-    .value = स्केल:(S)
+    .value = स्केल:
     .accesskey = S
 printpreview-shrink-to-fit =
     .label = गोरोब होनो थनथ्र हो
@@ -29,7 +29,7 @@ printpreview-page-setup =
     .label = बिलाइनि सेटआप...( u)
     .accesskey = u
 printpreview-page =
-    .value = बिलाइ:(a)
+    .value = बिलाइ:
     .accesskey = a
 
 ## Variables

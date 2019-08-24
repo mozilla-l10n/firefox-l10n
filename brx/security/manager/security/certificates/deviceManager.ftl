@@ -12,19 +12,19 @@ devmgr-header-details =
 devmgr-header-value =
     .label = बेसेन
 devmgr-button-login =
-    .label = &लग इन(n)
+    .label = &लग इन
     .accesskey = n
 devmgr-button-logout =
-    .label = &लग आउट(O)
+    .label = &लग आउट
     .accesskey = O
 devmgr-button-changepw =
-    .label = &पासवर्ड सोलाय(P)
+    .label = &पासवर्ड सोलाय
     .accesskey = P
 devmgr-button-load =
-    .label = &ल'ड खालाम(L)
+    .label = &ल'ड खालाम
     .accesskey = L
 devmgr-button-unload =
-    .label = &आनल'ड खालाम(U)
+    .label = &आनल'ड खालाम
     .accesskey = U
 
 ## Strings used for load device

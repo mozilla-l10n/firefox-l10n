@@ -10,7 +10,7 @@
 <!ENTITY blocklist.softandhard       "दिदोम एबा रैखाथि जेंनानि गोबां खैफोद गोनां add-ons खौ ब्लक खालामबाय। गुबुनआ खम खैफोदगोनां, नाथाय बेफोरखौ फुरायै लोरबां खालामनो फिन जागायनांगोन।">
 <!ENTITY blocklist.moreinfo          "गोबां फोरमायथिहोग्रा">
 
-<!ENTITY blocklist.accept.label      "&brandShortName; खौ फिन जागाय (R)">
+<!ENTITY blocklist.accept.label      "&brandShortName; खौ फिन जागाय">
 <!ENTITY blocklist.accept.accesskey  "R">
 
 <!ENTITY blocklist.blocked.label     "हेंथा होबाय">

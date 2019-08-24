@@ -16,7 +16,7 @@
 <!ENTITY listEmpty.findUpdates.label          "आपडेटफोरनि थाखाय आनजाद खालाम">
 <!ENTITY listEmpty.search.label               "add-ons जों गोरोबनाय जेबो नागिर मोनाखिसै">
 <!ENTITY listEmpty.button.label               "add-ons नि सोमोन्दै गोबां सोलों">
-<!ENTITY installAddonFromFile.label           "फाइल निफ्राय Add-on खौ इनष्टल खालाम (I)...">
+<!ENTITY installAddonFromFile.label           "फाइल निफ्राय Add-on खौ इनष्टल खालाम...">
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "गासै add-ons नि थाखाय टुल्‌स">
 
@@ -43,14 +43,14 @@
 <!ENTITY view.availableUpdates.label          "थानाय आपडेटफोर">
 <!-- addon updates -->
 
-<!ENTITY updates.checkForUpdates.label        "आपडेटफोरनि थाखाय आवजाद खालाम (C)">
+<!ENTITY updates.checkForUpdates.label        "आपडेटफोरनि थाखाय आवजाद खालाम">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
-<!ENTITY updates.viewUpdates.label            "दानि आपडेटफोरखौ नाइ (V)">
+<!ENTITY updates.viewUpdates.label            "दानि आपडेटफोरखौ नाइ">
 <!ENTITY updates.viewUpdates.accesskey        "V">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Add-ons खौ गावनो गाव महरै आपडेट खालाम (A)">
+<!ENTITY updates.updateAddonsAutomatically.label     "Add-ons खौ गावनो गाव महरै आपडेट खालाम">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "A">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
@@ -58,9 +58,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "गावनो गाव महरै आपडेट खालामनो गासै Add-ons खौ फिन फज (R)">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "गावनो गाव महरै आपडेट खालामनो गासै Add-ons खौ फिन फज">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "आखायजों आपडेट खालामनो गासै Add-ons खौ फिन फज (R)">
+<!ENTITY updates.resetUpdatesToManual.label          "आखायजों आपडेट खालामनो गासै Add-ons खौ फिन फज">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "add-ons खौ आपडेट खालाम गासिनो दं">
 <!ENTITY updates.installed.label              "नोंथांनि add-ons खौ आपडेट खालामबाय।">
@@ -72,24 +72,24 @@
 <!ENTITY updates.updateSelected.tooltip       "बे लिस्टयाव थानाय आपडेटखौ इनष्टल खालाम">
 <!-- addon actions -->
 
-<!ENTITY cmd.showDetails.label                "गोबां फोरमायथिहोग्राखौ दिन्थि (S)">
+<!ENTITY cmd.showDetails.label                "गोबां फोरमायथिहोग्राखौ दिन्थि">
 <!ENTITY cmd.showDetails.accesskey            "S">
-<!ENTITY cmd.findUpdates.label                "आपडेटफोरखौ नागिरना दिहुन (F)">
+<!ENTITY cmd.findUpdates.label                "आपडेटफोरखौ नागिरना दिहुन">
 <!ENTITY cmd.findUpdates.accesskey            "F">
 <!ENTITY cmd.preferencesWin.label             "उफ्रा">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
-<!ENTITY cmd.preferencesUnix.label            "पसन्द (P)">
+<!ENTITY cmd.preferencesUnix.label            "पसन्द">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
-<!ENTITY cmd.about.label                      "सोमोन्दै (A)">
+<!ENTITY cmd.about.label                      "सोमोन्दै">
 <!ENTITY cmd.about.accesskey                  "A">
 
-<!ENTITY cmd.enableAddon.label                "मावथि खालाम (E)">
+<!ENTITY cmd.enableAddon.label                "मावथि खालाम">
 <!ENTITY cmd.enableAddon.accesskey            "E">
-<!ENTITY cmd.disableAddon.label               "लोरबां खालाम (D)">
+<!ENTITY cmd.disableAddon.label               "लोरबां खालाम">
 <!ENTITY cmd.disableAddon.accesskey           "D">
-<!ENTITY cmd.enableTheme.label                "वेयार थिम (W)">
+<!ENTITY cmd.enableTheme.label                "वेयार थिम">
 <!ENTITY cmd.enableTheme.accesskey            "W">
-<!ENTITY cmd.disableTheme.label               "वेयारिं थिमखौ थाथ' हो (W)">
+<!ENTITY cmd.disableTheme.label               "वेयारिं थिमखौ थाथ' हो">
 <!ENTITY cmd.disableTheme.accesskey           "W">
 <!ENTITY cmd.askToActivate.label              "मावथि खालामनो सों">
 <!ENTITY cmd.askToActivate.tooltip            "खेबफ्रोमबो बे add-on खौ बाहायनो सों">
@@ -98,7 +98,7 @@
 <!ENTITY cmd.neverActivate.label              "माब्लाबाबो मावथि खालामनो नाङा">
 <!ENTITY cmd.neverActivate.tooltip            "बे add-on खौ माब्लाबाबो बाहायनो नाङा">
 <!ENTITY cmd.stateMenu.tooltip                "बे add-on खौ सालायनाय समाव सोलाय">
-<!ENTITY cmd.installAddon.label               "इनष्टल खालाम (I)">
+<!ENTITY cmd.installAddon.label               "इनष्टल खालाम">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "बोखार">
 <!ENTITY cmd.uninstallAddon.accesskey         "ब">
@@ -106,7 +106,7 @@
 <!ENTITY cmd.showPreferencesWin.tooltip       "बे add-on नि उफ्राफोरखौ सोलाय">
 <!ENTITY cmd.showPreferencesUnix.label        "पसन्दफोर">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "बे add-on नि पसन्दखौ सोलाय">
-<!ENTITY cmd.contribute.label                 "बिहोमा हो (C)">
+<!ENTITY cmd.contribute.label                 "बिहोमा हो">
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "बे add-on नि जौगाखांनायाव बिहोमा हो">
 
@@ -143,13 +143,13 @@
 <!ENTITY detail.repository                    "Add-on प्रफाइल">
 <!ENTITY detail.size                          "महर">
 
-<!ENTITY detail.checkForUpdates.label         "आपडेटफोरनि थाखाय आनजाद खालाम (f)">
+<!ENTITY detail.checkForUpdates.label         "आपडेटफोरनि थाखाय आनजाद खालाम">
 <!ENTITY detail.checkForUpdates.accesskey     "f">
 <!ENTITY detail.checkForUpdates.tooltip       "बे add-on नि थाखाय आपडेटफोरनि थाखाय आनजाद खालाम">
 <!ENTITY detail.showPreferencesWin.label      "उफ्रा">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
 <!ENTITY detail.showPreferencesWin.tooltip    "बे add-on नि उफ्राफोरखौ सोलाय">
-<!ENTITY detail.showPreferencesUnix.label     "पसन्द (P)">
+<!ENTITY detail.showPreferencesUnix.label     "पसन्द">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "बे add-on नि पसन्दखौ सोलाय">
 <!-- ratings -->

@@ -6,13 +6,13 @@
 ## File Menu
 
 menu-file =
-    .label = फाइल(F)
+    .label = फाइल
     .accesskey = F
 menu-file-new-tab =
-    .label = गोदान टेब (T)
+    .label = गोदान टेब
     .accesskey = T
 menu-file-new-window =
-    .label = गोदान उइन्ड'(N)
+    .label = गोदान उइन्ड'
     .accesskey = N
 menu-file-new-private-window =
     .label = गोदान प्राइभेट उइन्ड'
@@ -23,16 +23,16 @@ menu-file-new-private-window =
 menu-file-open-location =
     .label = जायगाखौ खेव...
 menu-file-open-file =
-    .label = फाइलखौ खेव (O)...
+    .label = फाइलखौ खेव...
     .accesskey = O
 menu-file-close =
-    .label = बन्द खालाम(C)
+    .label = बन्द खालाम
     .accesskey = C
 menu-file-close-window =
-    .label = उइन्ड'खौ बन्द खालाम(d)
+    .label = उइन्ड'खौ बन्द खालाम
     .accesskey = d
 menu-file-save-page =
-    .label = ..बादि बिलाइखौ थिना दोन...(A)
+    .label = ..बादि बिलाइखौ थिना दोन...
     .accesskey = A
 menu-file-email-link =
     .label = इ-मेइल लिंक...
@@ -41,7 +41,7 @@ menu-file-print-setup =
     .label = बिलाइनि सेटआप...( u)
     .accesskey = u
 menu-file-print-preview =
-    .label = साफायनाय गिबि नुथाय(v)
+    .label = साफायनाय गिबि नुथाय
     .accesskey = v
 menu-file-print =
     .label = साफाय...( P)
@@ -53,77 +53,77 @@ menu-file-go-offline =
 ## Edit Menu
 
 menu-edit =
-    .label = सुजुनाय(E)
+    .label = सुजुनाय
     .accesskey = E
 menu-edit-undo =
-    .label = सिगांनि महराव लाबोफिन(U)
+    .label = सिगांनि महराव लाबोफिन
     .accesskey = U
 menu-edit-redo =
-    .label = मावफिन(R)
+    .label = मावफिन
     .accesskey = R
 menu-edit-cut =
-    .label = दानस'(t)
+    .label = दानस'
     .accesskey = t
 menu-edit-paste =
-    .label = फोनांजाब हो(P)
+    .label = फोनांजाब हो
     .accesskey = P
 menu-edit-delete =
-    .label = खोमोर (D)
+    .label = खोमोर
     .accesskey = D
 menu-edit-select-all =
-    .label = गासैबो सायख(A)
+    .label = गासैबो सायख
     .accesskey = A
 menu-edit-find-on =
-    .label = बे बिलाइआव नागिरना दिहुन...(F)
+    .label = बे बिलाइआव नागिरना दिहुन...
     .accesskey = F
 menu-edit-find-again =
-    .label = फिन नायगिरना दिहुन(g)
+    .label = फिन नायगिरना दिहुन
     .accesskey = g
 menu-edit-bidi-switch-text-direction =
-    .label = फराय बिजाब बिथिंखौ चुइछ खालाम(w)
+    .label = फराय बिजाब बिथिंखौ चुइछ खालाम
     .accesskey = w
 
 ## View Menu
 
 menu-view =
-    .label = नुथाय(V)
+    .label = नुथाय
     .accesskey = V
 menu-view-toolbars-menu =
-    .label = टुलबारफोर(T)
+    .label = टुलबारफोर
     .accesskey = T
 menu-view-customize-toolbar =
-    .label = गावनि गोसोबादि माव... (C)
+    .label = गावनि गोसोबादि माव...
     .accesskey = C
 menu-view-sidebar =
-    .label = साइडबार(e)
+    .label = साइडबार
     .accesskey = e
 menu-view-bookmarks =
     .label = बुकमार्क
 menu-view-history-button =
     .label = जारिमिन
 menu-view-full-zoom =
-    .label = जुम खालाम(Z)
+    .label = जुम खालाम
     .accesskey = Z
 menu-view-full-zoom-enlarge =
-    .label = गेदेरै जुम खालाम(I)
+    .label = गेदेरै जुम खालाम
     .accesskey = I
 menu-view-full-zoom-reduce =
-    .label = फिसायै जुम खालाम(O)
+    .label = फिसायै जुम खालाम
     .accesskey = O
 menu-view-full-zoom-reset =
     .label = फिन फज'
     .accesskey = R
 menu-view-full-zoom-toggle =
-    .label = फराय बिजाबखौल' जुम खालाम(T)
+    .label = फराय बिजाबखौल' जुम खालाम
     .accesskey = T
 menu-view-page-style-menu =
-    .label = बिलाइनि आदब(y)
+    .label = बिलाइनि आदब
     .accesskey = y
 menu-view-page-style-no-style =
-    .label = आदब गैया(N)
+    .label = आदब गैया
     .accesskey = N
 menu-view-page-basic-style =
-    .label = गुदि बिलाइनि आदब(B)
+    .label = गुदि बिलाइनि आदब
     .accesskey = B
 
 ## These should match what Safari and other Apple applications
@@ -136,16 +136,16 @@ menu-view-exit-full-screen =
     .label = आबुं स्क्रिन निफ्राय ओंखार लां
     .accesskey = F
 menu-view-full-screen =
-    .label = आबुं स्क्रिन (F)
+    .label = आबुं स्क्रिन
     .accesskey = F
 
 ##
 
 menu-view-show-all-tabs =
-    .label = गासै टेबखौ दिन्थि (A)
+    .label = गासै टेबखौ दिन्थि
     .accesskey = A
 menu-view-bidi-switch-page-direction =
-    .label = बिलाइनि दिकाव थां(D)
+    .label = बिलाइनि दिकाव थां
     .accesskey = D
 
 ## History Menu
@@ -174,12 +174,12 @@ menu-bookmarks-show-all =
 menu-bookmarks-all-tabs =
     .label = गासै टेबखौ बुकमार्क हो...
 menu-bookmarks-toolbar =
-    .label = बुकमार्क टुलबार (B)
+    .label = बुकमार्क टुलबार
 
 ## Tools Menu
 
 menu-tools =
-    .label = टुलफोर(T)
+    .label = टुलफोर
     .accesskey = T
 menu-tools-downloads =
     .label = डाउनल'डफोर
@@ -188,25 +188,25 @@ menu-tools-addons =
     .label = Add-ons
     .accesskey = A
 menu-tools-sync-now =
-    .label = दानो सिनक खालाम(S)
+    .label = दानो सिनक खालाम
     .accesskey = S
 menu-tools-sync-re-auth =
     .label = { -sync-brand-short-name } जों फिन फोनांजाब खालाम...
     .accesskey = R
 menu-tools-web-developer =
-    .label = वेब जौगाखांहोग्रा (W)
+    .label = वेब जौगाखांहोग्रा
     .accesskey = W
 menu-tools-page-source =
-    .label = बिलाइ फुंखा (o)
+    .label = बिलाइ फुंखा
     .accesskey = o
 menu-tools-page-info =
-    .label = बिलाइनि मोनथिहोनाय(I)
+    .label = बिलाइनि मोनथिहोनाय
     .accesskey = I
 menu-preferences =
     .label =
         { PLATFORM() ->
             [windows] उफ्रा
-           *[other] पसन्दफोर(n)
+           *[other] पसन्दफोर
         }
     .accesskey =
         { PLATFORM() ->
@@ -224,7 +224,7 @@ menu-window-bring-all-to-front =
 ## Help Menu
 
 menu-help =
-    .label = मदद (H)
+    .label = मदद
     .accesskey = H
 menu-help-product =
     .label = { -brand-shorter-name } Help
@@ -233,11 +233,11 @@ menu-help-keyboard-shortcuts =
     .label = गाहाय सोदोब शर्टकाट
     .accesskey = K
 menu-help-troubleshooting-info =
-    .label = जेंना बोस्रांनाय फोरमायथिहोग्रा (T)
+    .label = जेंना बोस्रांनाय फोरमायथिहोग्रा
     .accesskey = T
 menu-help-feedback-page =
-    .label = फिनथाइखौ गथाय (S)...
+    .label = फिनथाइखौ गथाय...
     .accesskey = S
 menu-help-safe-mode-without-addons =
-    .label = लोरबां खालामनाय Add-ons जों जागाय (R)
+    .label = लोरबां खालामनाय Add-ons जों जागाय
     .accesskey = R

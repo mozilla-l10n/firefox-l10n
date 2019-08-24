@@ -8,10 +8,10 @@ languages-window =
 languages-close-key =
     .key = w
 languages-customize-moveup =
-    .label = गोजौआव लां(U)
+    .label = गोजौआव लां
     .accesskey = U
 languages-customize-movedown =
-    .label = गाहायाव लाबो(D)
+    .label = गाहायाव लाबो
     .accesskey = D
 languages-customize-remove =
     .label = बोखार
@@ -19,7 +19,7 @@ languages-customize-remove =
 languages-customize-select-language =
     .placeholder = दाजाबदेरनो थाखाय मोनसे राव सायख...
 languages-customize-add =
-    .label = दाजाबदेर(A)
+    .label = दाजाबदेर
     .accesskey = A
 # The pattern used to generate strings presented to the user in the
 # locale selection list.

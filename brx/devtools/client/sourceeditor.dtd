@@ -14,6 +14,6 @@
 
 
 
-<!ENTITY gotoLineCmd.label         "सारिआव बारलां...(J)">
+<!ENTITY gotoLineCmd.label         "सारिआव बारलां...">
 <!ENTITY gotoLineCmd.key           "J">
 <!ENTITY gotoLineCmd.accesskey     "J">

@@ -7,7 +7,7 @@
 <!ENTITY editfield0.label "बाहायग्रा मुं:"> 
 <!ENTITY editfield1.label "पासवार्ड:"> 
 <!ENTITY checkbox.label   "आनजाद खालाम">
-<!ENTITY copyCmd.label    "कपि खालाम(C)">
+<!ENTITY copyCmd.label    "कपि खालाम">
 <!ENTITY copyCmd.accesskey "C">
-<!ENTITY selectAllCmd.label "गासैबो सायख(A)">
+<!ENTITY selectAllCmd.label "गासैबो सायख">
 <!ENTITY selectAllCmd.accesskey "A">

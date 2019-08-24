@@ -8,11 +8,11 @@
 <!ENTITY zoomWindow.label         "जुम खालाम">
 <!ENTITY windowMenu.label         "उइन्ड'">
 
-<!ENTITY helpMenu.label           "मदद (H)"> 
+<!ENTITY helpMenu.label           "मदद"> 
 <!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "मदद (H)"> 
+<!ENTITY helpMenuWin.label        "मदद"> 
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutProduct2.label      "About &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
@@ -23,7 +23,7 @@
 <!ENTITY helpKeyboardShortcuts.label     "गाहाय सोदोब शर्टकाट">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "लोरबां खालामनाय Add-ons जों जागाय (R)">
+<!ENTITY helpSafeMode.label       "लोरबां खालामनाय Add-ons जों जागाय">
 <!ENTITY helpSafeMode.accesskey   "R">
 
 
@@ -31,10 +31,10 @@
 <!ENTITY healthReport2.label      "&brandShorterName; Health Report">
 <!ENTITY healthReport2.accesskey  "e">
 
-<!ENTITY helpTroubleshootingInfo.label      "जेंना बोस्रांनाय फोरमायथिहोग्रा (T)">
+<!ENTITY helpTroubleshootingInfo.label      "जेंना बोस्रांनाय फोरमायथिहोग्रा">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
-<!ENTITY helpFeedbackPage.label      "फिनथाइखौ गथाय (S)...">
+<!ENTITY helpFeedbackPage.label      "फिनथाइखौ गथाय...">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
 

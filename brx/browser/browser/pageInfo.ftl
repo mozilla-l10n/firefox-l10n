@@ -5,12 +5,12 @@
 copy =
     .key = C
 menu-copy =
-    .label = कपि खालाम(C)
+    .label = कपि खालाम
     .accesskey = C
 select-all =
     .key = A
 menu-select-all =
-    .label = गासैबो सायख(A)
+    .label = गासैबो सायख
     .accesskey = A
 close-window =
     .key = A

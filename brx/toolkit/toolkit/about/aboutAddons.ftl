@@ -19,21 +19,21 @@ list-empty-find-updates =
 list-empty-button =
     .label = add-ons नि सोमोन्दै गोबां सोलों
 install-addon-from-file =
-    .label = फाइल निफ्राय Add-on खौ इनष्टल खालाम (I)...
+    .label = फाइल निफ्राय Add-on खौ इनष्टल खालाम...
     .accesskey = I
 tools-menu =
     .tooltiptext = गासै add-ons नि थाखाय टुल्‌स
 cmd-show-details =
-    .label = गोबां फोरमायथिहोग्राखौ दिन्थि (S)
+    .label = गोबां फोरमायथिहोग्राखौ दिन्थि
     .accesskey = S
 cmd-find-updates =
-    .label = आपडेटफोरखौ नागिरना दिहुन (F)
+    .label = आपडेटफोरखौ नागिरना दिहुन
     .accesskey = F
 cmd-preferences =
     .label =
         { PLATFORM() ->
             [windows] उफ्रा
-           *[other] पसन्द (P)
+           *[other] पसन्द
         }
     .accesskey =
         { PLATFORM() ->
@@ -41,16 +41,16 @@ cmd-preferences =
            *[other] P
         }
 cmd-enable-theme =
-    .label = वेयार थिम (W)
+    .label = वेयार थिम
     .accesskey = W
 cmd-disable-theme =
-    .label = वेयारिं थिमखौ थाथ' हो (W)
+    .label = वेयारिं थिमखौ थाथ' हो
     .accesskey = W
 cmd-install-addon =
-    .label = इनष्टल खालाम (I)
+    .label = इनष्टल खालाम
     .accesskey = I
 cmd-contribute =
-    .label = बिहोमा हो (C)
+    .label = बिहोमा हो
     .accesskey = C
     .tooltiptext = बे add-on नि जौगाखांनायाव बिहोमा हो
 discover-title = Add-ons आ मा मा?
@@ -81,14 +81,14 @@ detail-repository =
 detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
-    .label = आपडेटफोरनि थाखाय आनजाद खालाम (f)
+    .label = आपडेटफोरनि थाखाय आनजाद खालाम
     .accesskey = f
     .tooltiptext = बे add-on नि थाखाय आपडेटफोरनि थाखाय आनजाद खालाम
 detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] उफ्रा
-           *[other] पसन्द (P)
+           *[other] पसन्द
         }
     .accesskey =
         { PLATFORM() ->
@@ -138,17 +138,17 @@ extensions-warning-update-security-enable =
 ## Strings connected to add-on updates
 
 extensions-updates-check-for-updates =
-    .label = आपडेटफोरनि थाखाय आवजाद खालाम (C)
+    .label = आपडेटफोरनि थाखाय आवजाद खालाम
     .accesskey = C
 extensions-updates-view-updates =
-    .label = दानि आपडेटफोरखौ नाइ (V)
+    .label = दानि आपडेटफोरखौ नाइ
     .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
-    .label = Add-ons खौ गावनो गाव महरै आपडेट खालाम (A)
+    .label = Add-ons खौ गावनो गाव महरै आपडेट खालाम
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -158,10 +158,10 @@ extensions-updates-update-addons-automatically =
 ## extensions-updates-update-addons-automatically.label menu item).
 
 extensions-updates-reset-updates-to-automatic =
-    .label = गावनो गाव महरै आपडेट खालामनो गासै Add-ons खौ फिन फज (R)
+    .label = गावनो गाव महरै आपडेट खालामनो गासै Add-ons खौ फिन फज
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
-    .label = आखायजों आपडेट खालामनो गासै Add-ons खौ फिन फज (R)
+    .label = आखायजों आपडेट खालामनो गासै Add-ons खौ फिन फज
     .accesskey = R
 
 ## Status messages displayed when updating add-ons

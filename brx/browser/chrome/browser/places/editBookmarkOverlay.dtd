@@ -4,25 +4,25 @@
 
 <!ENTITY editBookmarkOverlay.name.label                      "मुं N:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
-<!ENTITY editBookmarkOverlay.location.label                  "जायगा (L):">
+<!ENTITY editBookmarkOverlay.location.label                  "जायगा:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "L">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "फिडनि जायगा (F):">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "फिडनि जायगा:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
-<!ENTITY editBookmarkOverlay.siteLocation.label              "साइटनि जायगा (S):">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "साइटनि जायगा:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "फल्डार:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "गासै बुकमार्कनि फल्डारफोरखौ दिनथि">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "दोनखोमा">
-<!ENTITY editBookmarkOverlay.tags.label                      "टेगफोर (T):">
+<!ENTITY editBookmarkOverlay.tags.label                      "टेगफोर:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "T">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "कमाजों आलादा खालामनाय टेगफोर">
-<!ENTITY editBookmarkOverlay.description.label               "बेखेवनाय (D):">
+<!ENTITY editBookmarkOverlay.description.label               "बेखेवनाय:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
-<!ENTITY editBookmarkOverlay.keyword.label                   "गाहाय सोदोब (K):">
+<!ENTITY editBookmarkOverlay.keyword.label                   "गाहाय सोदोब:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "K">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "गासै टेगखौ दिनथि">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "साइडबाराव बे बुकमार्कखौ ल'ड खालाम (h)">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "साइडबाराव बे बुकमार्कखौ ल'ड खालाम">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
 <!ENTITY editBookmarkOverlay.choose.label                    "बासिख...">
-<!ENTITY editBookmarkOverlay.newFolderButton.label           "गोदान फल्डार (o)">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "गोदान फल्डार">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

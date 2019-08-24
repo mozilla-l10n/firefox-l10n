@@ -5,7 +5,7 @@
 permissions-close-key =
     .key = w
 permissions-block =
-    .label = ब्लक खालाम (B)
+    .label = ब्लक खालाम
     .accesskey = B
 permissions-session =
     .label = जथुमानि थाखाय गनायथि हो

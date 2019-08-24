@@ -15,11 +15,11 @@
 <!-- Second wizard page -->
 
 <!ENTITY profileCreationIntro.text      "नोंथाङा गोबां प्रफाइल सोरजियोब्ला नोंथाङा बिसोरनो प्रफाइल मुंखौ खिन्थानो हायो। नोंथाङा बेयाव होखानाय मुंखौ एबा नोंथांनि मोनसे निजि मुंखौ बाहायनो लुबैनो हागौ।">
-<!ENTITY profilePrompt.label            "गोदान प्रफाइल मुं हाबहो:(E)">
+<!ENTITY profilePrompt.label            "गोदान प्रफाइल मुं हाबहो:">
 <!ENTITY profilePrompt.accesskey        "E">
 <!ENTITY profileDirectoryExplanation.text   "नोंथांनि बाहायग्रा प्रफाइल, पसन्द आरो गुबुन बाहायग्रा-सोमोन्दोगोनां डाटाखौ दोनथुमगोन:">
 <!ENTITY profileDefaultName             "डिफल्ट बाहायग्रा">
-<!ENTITY button.choosefolder.label      "फल्डार बासिख...(C)">
+<!ENTITY button.choosefolder.label      "फल्डार बासिख...">
 <!ENTITY button.choosefolder.accesskey  "C">
-<!ENTITY button.usedefault.label        "डिफल्ट फल्डार बाहाय (U)">
+<!ENTITY button.usedefault.label        "डिफल्ट फल्डार बाहाय">
 <!ENTITY button.usedefault.accesskey    "U">
