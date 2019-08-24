@@ -98,9 +98,11 @@ detail-private-browsing-description2 = Utvidelsen har tilgang til dine aktivitet
 # cannot be overridden by the user.
 detail-private-disallowed-label = Ikke tillatt i private vinduer
 detail-private-disallowed-description = Denne utvidelsen fungerer ikke under privat nettlesing. <label data-l10n-name="detail-private-browsing-learn-more">Les mer</label>
+detail-private-disallowed-description2 = Denne utvidelsen kjører ikke mens du bruker privat nettlesing. <a data-l10n-name="learn-more">Les mer</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Krever tilgang til private vinduer
 detail-private-required-description = Denne utvidelsen har tilgang til din aktivitet på nettet, når du bruker privat nettlesing. <label data-l10n-name="detail-private-browsing-learn-more">Les mer</label>
+detail-private-required-description2 = Denne utvidelsen har tilgang til dine aktiviteter på nettet mens du bruker privat nettlesing. <a data-l10n-name="learn-more">Les mer</a>
 detail-private-browsing-on =
     .label = Tillat
     .tooltiptext = Tillat i privat nettlesing
@@ -299,6 +301,10 @@ install-theme-button = Installer tema
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Behandle
 find-more-addons = Finn flere utvidelser
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Flere innstillinger
 
 ## Add-on actions
 
@@ -369,6 +375,11 @@ install-update-button = Oppdater
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Tillat i private vindu
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Tillatt i private vinduer
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Når det er tillatt, vil utvidelsen få tilgang til dine aktiviteter på nett mens du bruker privat nettlesing. <a data-l10n-name="learn-more">Les mer</a>
 addon-detail-private-browsing-allow = Tillat
 addon-detail-private-browsing-disallow = Ikke tillat
@@ -377,6 +388,11 @@ addon-detail-private-browsing-disallow = Ikke tillat
 addon-badge-recommended =
     .title = Anbefalt
     .alt = Anbefalt
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } anbefaler bare utvidelser som oppfyller våre standarder for sikkerhet og ytelse
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Tilgjengelige oppdateringer
 recent-updates-heading = Nylig oppdatert
 release-notes-loading = Laster…
