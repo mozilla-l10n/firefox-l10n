@@ -43,6 +43,12 @@ onboarding-sync-welcome-header = { -brand-product-name }-ক আপোনাৰ 
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-tracking-protection-button2 = ই কেনেকৈ কাম কৰে
+onboarding-browse-privately-title = গোপনে ব্ৰাউজ কৰক
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = ম'বাইল ব্ৰাউজাৰ ডাউনল'ড কৰক
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-get-started-button = { -brand-short-name }-ৰ সৈতে আৰম্ভ হৈ যাওক
