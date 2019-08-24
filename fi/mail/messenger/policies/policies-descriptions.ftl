@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = Aseta käytännöt, joita WebExtensionit voivat käyttää chrome.storage.managed-objektin kautta.
 policy-AppUpdateURL = Aseta omavalintainen sovelluksen päivitysosoite.
 policy-Authentication = Määritä integroitu tunnistautumisen sitä tukeville sivustoille.
 policy-BlockAboutAddons = Estä pääsy lisäosien hallintaan (about:addons).
@@ -26,6 +27,7 @@ policy-DisableMasterPasswordCreation = Jos tosi, pääsalasanaa ei voi luoda.
 policy-DisableProfileImport = Poista käytöstä valikkokohta, jonka avulla voi tuoda tietoja toisesta sovelluksesta.
 policy-DisableSecurityBypass = Estä käyttäjää ohittamasta tiettyjä turvallisuusvaroituksia.
 policy-DisableSystemAddonUpdate = Estä { -brand-short-name }iä asentamasta ja päivittämästä järjestelmälisäosia.
+policy-DisableTelemetry = Poista telemetria käytöstä.
 policy-DisplayMenuBar = Näytä valikkopalkki oletusarvoisesti.
 policy-DNSOverHTTPS = Määritä DNS:n käyttö HTTPS:n yli.
 policy-DontCheckDefaultClient = Poista käytöstä oletussähköpostiohjelman tarkistus käynnistyksen yhteydessä.
@@ -42,3 +44,5 @@ policy-SecurityDevices = Asenna PKCS #11 -moduulit.
 policy-SSLVersionMax = Aseta SSL:n enimmäisversio.
 policy-SSLVersionMin = Aseta SSL:n vähimmäisversio.
 policy-SupportMenu = Lisää omavalintainen ohjevalikon kohta ohjevalikkoon.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Estä vierailut tiettyihin sivustoihin. Katso muotoon liittyviä lisätietoja dokumentaatiosta.
