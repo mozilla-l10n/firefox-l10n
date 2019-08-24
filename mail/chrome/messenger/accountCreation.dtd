@@ -3,22 +3,29 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Määritä olemassa oleva sähköpostitili">
+
+<!ENTITY emailWizard.title               "Määritä olemassa oleva sähköpostiosoite">
+<!ENTITY emailWizard.caption             "Käytä nykyistä sähköpostiosoitettasi">
 <!ENTITY name.label                      "Nimi:">
 <!ENTITY name.accesskey                  "N">
 <!ENTITY name.placeholder                "Etunimi Sukunimi">
+<!ENTITY fullname.placeholder            "Täydellinen nimesi">
 <!ENTITY name.text                       "Nimesi muille näkyvä muoto">
+<!ENTITY name.error                      "Kirjoita koko nimesi">
 <!ENTITY email.label                     "Sähköpostiosoite:">
 <!ENTITY email.accesskey                 "S">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email3.placeholder              "Sähköpostiosoitteesi">
 <!ENTITY email.text                      "Nykyinen sähköpostiosoitteesi">
+<!ENTITY email.error                     "Virheellinen sähköpostiosoite">
 <!ENTITY password.label                  "Salasana:">
 <!ENTITY password.accesskey              "a">
 <!ENTITY password.placeholder            "Salasana">
 <!ENTITY password.text                   "Valinnainen, käytetään vain todentamaan käyttäjätunnus">
+<!ENTITY password.toggle                 "Näytä/piilota salasana">
 <!ENTITY rememberPassword.label          "Tallenna salasana">
 <!ENTITY rememberPassword.accesskey      "T">
-
 <!ENTITY usernameEx.label                "Käyttäjätunnuksesi:">
 <!ENTITY usernameEx.accesskey            "K">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -26,15 +33,21 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Toimialueeseen kirjautuminen">
 
+<!ENTITY protocol.label                  "Yhteyskäytäntö:">
 <!ENTITY imapLong.label                  "IMAP (etäkansiot)">
 <!ENTITY pop3Long.label                  "POP3 (säilytä sähköpostit tietokoneellasi)">
 
 <!ENTITY incoming.label                  "Saapuva:">
+<!ENTITY incomingColumn.label            "Saapuva">
 <!ENTITY outgoing.label                  "Lähtevä:">
+<!ENTITY outgoingColumn.label            "Lähtevä">
 <!ENTITY username.label                  "Käyttäjätunnus:">
 <!ENTITY hostname.label                  "Palvelimen osoite">
 <!ENTITY port.label                      "Portti">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Palvelin:">
+<!ENTITY portRow.label                   "Portti:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Todennus">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -60,15 +73,21 @@
 <!ENTITY stop.label                      "Lopeta">
 <!ENTITY stop.accesskey                  "L">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Testaa asetuksia uudelleen">
 <!ENTITY half-manual-test.accesskey      "T">
 <!ENTITY manual-edit.label               "Muokkaa asetuksia">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY manual-config.label             "Määritä manuaalisesti…">
+<!ENTITY manual-config.accesskey         "a">
 <!ENTITY open-provisioner.label          "Hanki uusi sähköpostiosoite…">
 <!ENTITY open-provisioner.accesskey      "u">
+
+
+<!ENTITY get-help.label                  "Tuki">
+<!ENTITY get-help.accesskey              "T">
 
 
 <!ENTITY warning.label                   "Varoitus!">
