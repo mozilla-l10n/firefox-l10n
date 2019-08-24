@@ -69,6 +69,16 @@ serviceworker-empty-suggestions-debugger = Пройдіть через реєс�
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Інспектуйте Service Workers від інших доменів. <a>Відкрити about:debugging</a>
+# Header for the view of Manifest displayed in the application panel for the current page.
+manifest-view-header = Маніфест додатка
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Помилки та попередження
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Ідентифікація
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Презентація
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Піктограми
 # Text displayed while we are loading the manifest file
 manifest-loading = Завантаження маніфесту…
 # Text displayed when the manifest has been successfully loaded
