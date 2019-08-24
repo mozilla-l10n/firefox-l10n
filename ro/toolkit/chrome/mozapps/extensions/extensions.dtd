@@ -58,7 +58,7 @@
 <!ENTITY addon.install.tooltip                "Instalează acest supliment">
 <!ENTITY addon.updateNow.label                "Actualizează acum">
 <!ENTITY addon.updateNow.tooltip              "Instalează actualizarea pentru acest supliment">
-<!ENTITY addon.includeUpdate.label            "Inclus în actualizare">
+<!ENTITY addon.includeUpdate.label            "Include în actualizare">
 <!ENTITY addon.updateAvailable.label          "Este disponibilă o actualizare">
 <!ENTITY addon.checkingForUpdates.label       "Se caută actualizări…">
 <!ENTITY addon.releaseNotes.label             "Note privind versiunea:">
