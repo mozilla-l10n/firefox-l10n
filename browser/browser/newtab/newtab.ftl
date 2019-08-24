@@ -25,8 +25,10 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-topsites-header = Nuevu Sitiu más visitáu
 newtab-topsites-edit-topsites-header = Editar Sitiu más visitáu
+newtab-topsites-title-label = Títulu
 newtab-topsites-title-input =
     .placeholder = Introducir títulu
+newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Escribi o apega una URL
 newtab-topsites-url-validation = Ríquese una URL válida
@@ -39,6 +41,9 @@ newtab-topsites-save-button = Guardar
 newtab-topsites-add-button = Amestar
 
 ## Top Sites - Delete history confirmation dialog. 
+
+
+## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = ¿De xuru que quies desaniciar cada instancia d'esta páxina del to historial?
 # "This action" refers to deleting a page from history.
@@ -70,6 +75,10 @@ newtab-menu-bookmark = Amestar a marcadores
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
+
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
@@ -87,6 +96,13 @@ newtab-label-recommended = Tendencia
 ## meant as a call to action for the given section.
 
 
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
+
+## Section aria-labels
+
+
 ## Section Headers.
 
 newtab-section-header-topsites = Más visitaos
@@ -98,10 +114,16 @@ newtab-section-header-pocket = Recomendáu por { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-loading = Cargando...
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temes populares:
+newtab-pocket-more-recommendations = Más recomendaciones
+newtab-pocket-how-it-works = Cómo funciona
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

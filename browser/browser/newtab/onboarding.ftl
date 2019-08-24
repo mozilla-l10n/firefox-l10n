@@ -25,6 +25,10 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-form-input =
+    .placeholder = Corréu
+onboarding-sync-form-continue-button = Siguir
+onboarding-sync-form-skip-login-button = Saltar esti pasu
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
@@ -32,6 +36,7 @@ onboarding-cards-dismiss =
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Productos útiles
 
 ## These strings belong to the individual onboarding messages.
 
@@ -51,6 +56,7 @@ onboarding-ghostery-text = Les estensiones col Ghostery, que bloquia los anuncio
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Rexístrate pa tener una { -fxaccount-brand-name } y sincroniza los tos marcadores, contraseñes y llingüetes abiertes allá au uses { -brand-short-name }
+onboarding-tracking-protection-button2 = Cómo funciona
 
 ## Message strings belonging to the Return to AMO flow
 
