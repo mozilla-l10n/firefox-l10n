@@ -63,7 +63,7 @@ onboarding-benefit-privacy-title = Confidentialitate ver
 # Firefox Personal Data Promise is the way we honor your data in everything we
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
-onboarding-benefit-privacy-text = Toto lo que nos face honora nostre "garantia sur tu datos personal": prender minus de illos, mantener los secur e nulle secretos.
+onboarding-benefit-privacy-text = Tote lo que nos face honora nostre promissa sur tu datos personal: nos promitte de prender minus de tu datos, mantener los secur, e non guardar secretos pro te.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -77,7 +77,7 @@ onboarding-private-browsing-text = Naviga per te mesme. Navigation private con l
 onboarding-screenshots-title = Instantaneos
 onboarding-screenshots-text = Captura, salva e comparti instantaneos - sin lassar { -brand-short-name }. Captura un region o un pagina integre durante que tu naviga. Pois salva lo al web pro facile accesso e compartimento.
 onboarding-addons-title = Additivos
-onboarding-addons-text = Adde mesmo altere functionalitates que face laborar plus durmente { -brand-short-name } pro te. Compara precios, controla los meteorologic o exprime tu personalitate con un thema personalisate.
+onboarding-addons-text = Adde ancora plus functionalitates que face { -brand-short-name } travaliar pro te. Compara precios, consulta le meteo, o exprime tu personalitate con un thema personalisate.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Naviga plus veloce, in maniera plus intelligente o plus secur con extensiones como Ghostery, que te pone in grado de blocar enoiose avisos publicitari.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
