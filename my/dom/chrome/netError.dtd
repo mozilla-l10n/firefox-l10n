@@ -11,7 +11,7 @@
 <!ENTITY connectionFailure.longDesc "<p>Though the site seems valid, the browser was unable to establish a connection.</p><ul><li>Could the site be temporarily unavailable? Try again later.</li><li>Are you unable to browse other sites? Check the computer's network connection.</li><li>Is your computer or network protected by a firewall or proxy? Incorrect settings can interfere with Web browsing.</li></ul>">
 
 <!ENTITY deniedPortAccess.title "လုံခြုံရေး ကိစ္စများကြောင့်တားမြစ်ထားတဲ့ Port">
-<!ENTITY deniedPortAccess.longDesc "<p>ဖွင့်ကြည့်လိုသောလိပ်စာသည် Port တစ်ခုအား ညွှန်းနေသည် (ဥပမာ <q>mozilla.org:80</q> သည် port 80ဖြင့်မော်ဇီလာဝတ်ဆိုဒ်အားဖွင့်ရန်ဖြစ်ပြီး) များသောအားဖြင့်၎င်းသည် ဝတ်ဆိုဒ်ကြည့်ရှူခြင်းထက်<em>ပိုသော</em>အသုံးချခြင်းအတွက်သုံးသည်။ဘယောင်ဆာသည်သင်၏ တောင်းဆိုလိပ်စာအား လုံခြုံရေးနှင့်စိတ်ချရရေးအတွက်ပြုလုပ်မပေးနိုင်ပါ</p>">
+<!ENTITY deniedPortAccess.longDesc "<p>ဖွင့်ကြည့်လိုသောလိပ်စာသည် Port တစ်ခုအား ညွှန်းနေသည် (ဥပမာ <q>mozilla.org:80</q> သည် port 80 ဖြင့် mozilla.org အားဖွင့်ရန်ဖြစ်ပြီး) များသောအားဖြင့်၎င်းသည် ဝတ်ဆိုဒ်ကြည့်ရှူခြင်းထက် <em>ပိုသော</em> အသုံးချခြင်းအတွက်သုံးသည်။ ဘယောင်ဆာသည်သင်၏ တောင်းဆိုလိပ်စာအား လုံခြုံရေးနှင့်စိတ်ချရရေးအတွက်ပြုလုပ်မပေးနိုင်ပါ</p>">
 
 <!ENTITY dnsNotFound.title "ကွန်ရက် လိပ်စာ မတွေ့ရပါ">
 <!ENTITY dnsNotFound.longDesc "<p>The browser could not find the host server for the provided address.</p><ul><li>Did you make a mistake when typing the domain? (e.g. <q><strong>ww</strong>.mozilla.org</q> instead of <q><strong>www</strong>.mozilla.org</q>)</li><li>Are you certain this domain address exists?  Its registration may have expired.</li><li>Are you unable to browse other sites?  Check your network connection and DNS server settings.</li><li>Is your computer or network protected by a firewall or proxy?  Incorrect settings can interfere with Web browsing.</li></ul>">
@@ -86,3 +86,5 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>သည် အိုဟောင်းပြီး တိုက်ခိုက်ရန်လွယ်ကူသည့် လုံခြုံရေးနည်းပညာကို အသုံးပြုထားသည်။ တိုက်ခိုက်သူသည် သင်လုံခြုံသည်ဟုထင်သည့် အချက်အလက်များကို လွယ်ကူစွာ ဖော်ထုတ်နိုင်ပါလိမ့်မည်။ သင်လာရောက်မလည်ပတ်မီ ဝဘ်ဆိုဒ်စီမံခန့်ခွဲသူသည် ဆာဗာကို အရင်ဆုံး ပြုပြင်ဖြေရှင်းရန် လိုအပ်သည်။</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
+
