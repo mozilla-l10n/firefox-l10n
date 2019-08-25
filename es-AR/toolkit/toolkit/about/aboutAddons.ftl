@@ -102,9 +102,11 @@ detail-private-browsing-description2 = Cuando esté permitido, el complemento te
 # cannot be overridden by the user.
 detail-private-disallowed-label = No permitido en ventanas privadas
 detail-private-disallowed-description = Este complemento no se ejecuta en la navegación privada. <label data-l10n-name="detail-private-browsing-learn-more">Conocer más </label>
+detail-private-disallowed-description2 = Esta extensión no se ejecuta en navegación privada. <a data-l10n-name="learn-more">Conocer más</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Requiere acceso a ventanas privadas
 detail-private-required-description = Este complemento tiene acceso a sus actividades en línea mientras navega en privado. <label data-l10n-name="detail-private-browsing-learn-more"> Conocer más</label>
+detail-private-required-description2 = Esta extensión tiene acceso a las actividades en línea mientras se está en navegación privada. <a data-l10n-name="learn-more">Conocer más</a>
 detail-private-browsing-on =
     .label = Permitir
     .tooltiptext = Habilitar en navegación privada
@@ -299,6 +301,10 @@ install-theme-button = Instalar tema
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Administrar
 find-more-addons = Buscar más complementos
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Más opciones
 
 ## Add-on actions
 
@@ -369,6 +375,11 @@ install-update-button = Actualizar
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Permitir en ventanas privadas
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Permitida en ventanas privadas
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Cuando está activado, el complemento tendrá acceso a todo lo que hace mientras navega de forma privada. <a data-l10n-name="learn-more">Conozca más más</a>
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = No permitir
@@ -377,6 +388,11 @@ addon-detail-private-browsing-disallow = No permitir
 addon-badge-recommended =
     .title = Recomendado
     .alt = Recomendado
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } solo recomienda extensiones que cumplan con nuestros estándares de seguridad y rendimiento
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Actualizaciones disponibles
 recent-updates-heading = Actualizaciones recientes
 release-notes-loading = Cargando…
