@@ -60,6 +60,9 @@ cfr-doorhanger-pintab-animation-resume = Kaka
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Botón kasɨ
+    .title = Kasɨ
 
 ## Protections panel
 

@@ -6,12 +6,15 @@ about-logins-page-title = Nuu kajie´e sesión jii contraseñas
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-filter =
+    .placeholder = Nánuku nuu kajie´e sesión
 create-login-button = Sá´á jíía iin kajie´e sesión
 # This string is used as alternative text for favicon images.
 # Variables:
 #   $title (String) - The title of the website associated with the favicon.
 login-favicon =
     .alt = Favicon para { $title }
+fxaccounts-sign-in-button = Kajie´e sesión { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Administrar cuenta
 
@@ -32,6 +35,7 @@ login-list-item-subtitle-missing-username = (Na íyo sivɨ ñɨvɨ)
 
 ## Login
 
+login-item-new-login-title = Sá´á jíía nuu kajie´e sesión
 login-item-edit-button = Natee
 login-item-delete-button = Xita
 login-item-origin =

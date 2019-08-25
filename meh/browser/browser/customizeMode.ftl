@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Nasa´a
 customize-mode-lwthemes-my-themes =
     .value = Temas nuu´u
+customize-mode-touchbar-cmd =
+    .label = Sá´á vii barra táctil...
