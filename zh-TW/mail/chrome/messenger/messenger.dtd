@@ -706,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "存為即時搜尋資料夾…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "選擇訊息">
 <!ENTITY threadColumn.label "主題">
 <!ENTITY fromColumn.label "從">
 <!ENTITY recipientColumn.label "收件者">
@@ -729,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "選擇要顯示的欄位">
+<!ENTITY selectColumn.tooltip "切換選擇所有訊息">
 <!ENTITY threadColumn2.tooltip "顯示訊息討論串">
 <!ENTITY fromColumn2.tooltip "依照寄件者排序">
 <!ENTITY recipientColumn2.tooltip "依照收件者排序">
