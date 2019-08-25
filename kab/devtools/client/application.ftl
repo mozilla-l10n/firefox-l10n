@@ -69,3 +69,7 @@ serviceworker-empty-suggestions-debugger = Ddu ar ujerred n umeẓlu worker saki
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Sweḍ ameẓlu workers seg tiɣula-nniden. <a> Ldi about:debugging</a>
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Tamagit
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Tigniyin

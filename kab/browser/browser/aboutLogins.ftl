@@ -31,6 +31,7 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = Azen tikti
 menu-menuitem-faq = Isteqsiyen i d-yettuɣalen s waṭas.
+menu-menuitem-android-app = { -lockwise-brand-short-name } i Android
 
 ## Login List
 
