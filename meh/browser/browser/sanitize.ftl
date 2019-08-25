@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+sanitize-prefs-style =
+    .style = width: 17em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -26,5 +28,6 @@ item-cookies =
 item-cache =
     .label = Caché
     .accesskey = a
+data-section-label = Datos
 window-close =
     .key = w

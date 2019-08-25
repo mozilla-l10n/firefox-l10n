@@ -13,7 +13,9 @@
      -->
 <!ENTITY downloads.width                  "70ch">
 
+<!ENTITY cmd.pause.label                  "Siankuiñɨ">
 <!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.label                 "Kajie´e tuku">
 <!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Nkuvi-ka">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
@@ -24,6 +26,7 @@
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
+<!ENTITY cmd.copyDownloadLink.label       "Tɨɨn enlace nxinuu">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.clearList2.accesskey         "a">

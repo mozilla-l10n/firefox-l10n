@@ -8,3 +8,4 @@ back = Niko yata
 home = Nuu kajie´e
 find = Nánuku
 share = Kua´a ya´a
+close-window = Kasɨ ventana
