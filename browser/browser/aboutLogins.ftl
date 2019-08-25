@@ -20,10 +20,10 @@ login-list-name-option = Nome (A-Z)
 ## Login
 
 login-item-origin =
-    .placeholder = https://www.exemplu.com
+    .placeholder = https://www.example.com
 login-item-username-label = Nome d'usuariu
 login-item-username =
-    .placeholder = nome@exemplu.com
+    .placeholder = nome@example.com
 login-item-copy-username-button-text = Copiar
 login-item-copied-username-button-text = ¡Copióse!
 login-item-password-label = Contraseña
