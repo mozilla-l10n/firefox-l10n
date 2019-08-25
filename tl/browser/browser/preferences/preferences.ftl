@@ -839,7 +839,7 @@ permissions-a11y-privacy-link = Matuto ng higit pa
 ## Privacy Section - Data Collection
 
 collection-header = Pagkolekta at Paggamit ng { -brand-short-name } sa Data
-collection-description = Nagsusumikap kami na magbigay sa iyo ng mga pagpipilian at mangolekta lamang kung ano ang kailangan namin upang magbigay at pagbutihin ang { -brand-short-name } para sa lahat. Lagi kaming humihingi ng pahintulot bago matanggap ang personal na impormasyon.
+collection-description = Nagsusumikap kaming magbigyan ka ng mga pagpipilian at kolektahin lamang kung ano ang kailangan namin upang mapaganda ang { -brand-short-name } para sa lahat. Lagi kaming humihingi ng pahintulot bago tumanggap ng personal na impormasyon.
 collection-privacy-notice = Abiso pang Sarilinan
 collection-health-report =
     .label = Payagan ang { -brand-short-name } na magpadala ng data ng teknikal at pakikipag-ugnayan sa { -vendor-short-name }

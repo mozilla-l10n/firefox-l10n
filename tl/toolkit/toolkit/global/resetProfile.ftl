@@ -10,5 +10,5 @@ refresh-profile-description = Simulan ang sariwang pag-ayos ng mga problema at i
 refresh-profile-description-details = Kalooban ito:
 refresh-profile-remove = Alisin ang iyong mga add-on at mga pagpapasadya
 refresh-profile-restore = Ibalik ang iyong mga setting ng browser sa kanilang mga default
-refresh-profile = Bigyan { -brand-short-name } Isang tune up
+refresh-profile = Bigyan ng tune up ang { -brand-short-name }
 refresh-profile-button = Refresh { -brand-short-name }…

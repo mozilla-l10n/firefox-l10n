@@ -201,7 +201,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY addCurPagesCmd.label "I-bookmark Lahat ng mga Tab…">
 
-<!ENTITY showAllBookmarks2.label "Ipakita Lahat na mga Bookmark">
+<!ENTITY showAllBookmarks2.label "Ipakita Lahat ng mga Bookmark">
 <!ENTITY recentBookmarks.label "Mga Na-bookmark Kamakailan">
 <!ENTITY otherBookmarksCmd.label "Iba pang mga Bookmark">
 <!ENTITY mobileBookmarksCmd.label "Mga Mobile Bookmark">
@@ -615,7 +615,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "I-email ang Link…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.label            "I-Save ang Page Bilang…">
+<!ENTITY savePageCmd.label            "I-save ang Pahina Bilang…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
@@ -894,6 +894,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Sira pa rin ang site matapos isara ang mga proteksyon?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Magpadala ng report">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Bakit?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Maaaring masira ang ilang parte ng ilang website kapag hinarang ang mga ito. Kapag walang mga tracker, may mga button, form, at login field na maaaring hindi gumana.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Mapapayagan sa site na ito ang lahat ng tracker kapag isinara ang mga proteksyon. Maaari rin nitong mapaganda ang ilang functionality ng website.">
@@ -953,7 +962,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Mga tracker">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Upang harangan ang lahat ng mga tracker, i-set ang content blocking sa “Strict”.">
 
 <!ENTITY contentBlocking.cookies.label "Mga cookie">

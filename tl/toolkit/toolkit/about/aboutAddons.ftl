@@ -27,8 +27,8 @@ install-addon-from-file =
 help-button = Support para sa mga Add-on
 preferences =
     { PLATFORM() ->
-        [windows] { -brand-short-name } Mga pagpipilian
-       *[other] { -brand-short-name } Mga kagustohan
+        [windows] Mga pagpipilian sa { -brand-short-name }
+       *[other] Mga kagustuhan sa { -brand-short-name }
     }
 tools-menu =
     .tooltiptext = Tools para sa lahat ng add-ons
@@ -37,7 +37,7 @@ show-unsigned-extensions-button =
 show-all-extensions-button =
     .label = Ipakita ang lahat ng extensions
 debug-addons =
-    .label = I-debug ang Add-ons
+    .label = I-debug ang mga Add-on
     .accesskey = B
 cmd-show-details =
     .label = Mas Marami pang Impormasyon
@@ -187,14 +187,14 @@ extensions-updates-check-for-updates =
     .label = Maghanap ng mga Update
     .accesskey = M
 extensions-updates-view-updates =
-    .label = Tingnan ang mga Bagong Updates
+    .label = Tingnan ang mga Bagong Update
     .accesskey = T
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
-    .label = I-update ang Add-ons nang kusa
+    .label = I-update nang Kusa ang mga Add-on
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -204,7 +204,7 @@ extensions-updates-update-addons-automatically =
 ## extensions-updates-update-addons-automatically.label menu item).
 
 extensions-updates-reset-updates-to-automatic =
-    .label = I-reset lahat ng add-ons upang awtomatikong ma-update
+    .label = I-reset lahat ng mga add-on para kusang mag-update
     .accesskey = r
 extensions-updates-reset-updates-to-manual =
     .label = Ibalik ang lahat ng Add-ons upang mabago nang mano-mano
