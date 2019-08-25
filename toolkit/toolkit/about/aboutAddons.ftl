@@ -98,9 +98,11 @@ detail-private-browsing-description2 = Jeli maće prawo, ma rozšěrjenje přist
 # cannot be overridden by the user.
 detail-private-disallowed-label = W priwatnych woknach njedowoleny
 detail-private-disallowed-description = Tute rozšěrjenje w priwatnym modusu njefunguje. <label data-l10n-name="detail-private-browsing-learn-more">Dalše informacije</label>
+detail-private-disallowed-description2 = Tute rozšěrjenje w priwatnym modusu njefunguje. <a data-l10n-name="learn-more">Dalše informacije</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Wužaduje sej přistup na priwatne wokna
 detail-private-required-description = Tute rozšěrjenje ma přistup na aktiwity online w priwatnym modusu. <label data-l10n-name="detail-private-browsing-learn-more">Dalše informacije</label>
+detail-private-required-description2 = Tute rozšěrjenje ma přistup na waše aktiwity online w priwatnym modusu. <a data-l10n-name="learn-more">Dalše informacije</a>
 detail-private-browsing-on =
     .label = Dowolić
     .tooltiptext = W priwatnym modusu zmóžnić
