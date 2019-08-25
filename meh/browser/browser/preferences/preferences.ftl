@@ -148,16 +148,39 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Chuva´a
     .accesskey = v
+sync-connect-another-device = Chu´un inka ka̱a̱
+sync-manage-devices = Tetiñu daa ka̱a̱
+sync-fxa-begin-pairing = Chisó iin ka̱a̱
+sync-tos-link = Tu´un daa servicio
+sync-fxa-privacy-notice = Tutu xítu
 
 ## Privacy Section
 
+privacy-header = Nánuku yu´u
 
 ## Privacy Section - Forms
 
+forms-exceptions =
+    .label = Excepciones…
+    .accesskey = x
+forms-saved-logins =
+    .label = Nuu kajie´e sesión nchuva´a
+    .accesskey = L
 
 ## Privacy Section - History
 
 history-header = Sɨ´ɨ
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name }
+    .accesskey = w
 history-clear-on-close-settings =
     .label = Nake´i
     .accesskey = t
@@ -171,27 +194,73 @@ sitedata-learn-more = Ka´vi jiee ya´a
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-openpage-option =
+    .label = Síne pestañaS
+    .accesskey = O
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Nakasɨ contenido
+content-blocking-learn-more = Ka´vi kue´eka
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Estándar
+    .accesskey = E
+content-blocking-setting-strict =
+    .label = Estricto
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Personalizado
+    .accesskey = P
+content-blocking-custom-desc = Kaji ne´i kuvi kasɨ
+content-blocking-cryptominers = Criptomineros
+content-blocking-learn-how = Kuni naja?
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Criptomineros
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Fingerprinters
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
 
 ## Privacy Section - Permissions
 
+permissions-location = Nuu iñɨnu
+permissions-location-settings =
+    .label = Ke´i...
+    .accesskey = K
+permissions-camera-settings =
+    .label = Ke´i
+    .accesskey = K
+permissions-microphone = Micrófono %S
+permissions-microphone-settings =
+    .label = Ke´i...
+    .accesskey = K
+permissions-notification = Notificaciones
+permissions-notification-link = Ka´vi kue´eka
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = Ka´vi kue´eka
+addon-recommendations-link = Ka´vi kue´eka
+collection-backlogged-crash-reports-link = Ka´vi kue´eka
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Kumiji noo´o
+security-enable-safe-browsing-link = Ka´vi kue´eka
 
 ## Privacy Section - Certificates
 
