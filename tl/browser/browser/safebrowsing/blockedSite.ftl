@@ -2,12 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-safeb-blocked-phishing-page-title = Ang mapanlinlang na site ay maaga
+safeb-blocked-phishing-page-title = May mapanlinlang na site
 safeb-blocked-malware-page-title = Ang pagbisita sa website na ito ay maaaring makapinsala sa iyong computer
-safeb-blocked-unwanted-page-title = Ang site na nasa itaas ay maaaring maglaman ng mga mapanganib na programa
+safeb-blocked-unwanted-page-title = Ang site na pupuntahan ay maaaring maglaman ng mga mapanganib na programa
 safeb-blocked-harmful-page-title = Ang site na nasa unahan ay maaaring maglaman ng malware
 safeb-blocked-phishing-page-short-desc = Hinarang ng { -brand-short-name } ang page na ito dahil maaari ka nitong linlangin at malagay sa alanganin kagaya ng pag-install ng software o kaya'y magbigay ng personal na impormasyon kagaya ng mga password at credit card.
-safeb-blocked-malware-page-short-desc = hinarangan ng { -brand-short-name } ang page na ito dahil maaaring subukan nitong mag install ng mapaminsalang software na maaaring magnakaw o magbura ng personal na impormasyon sa iyong computer.
+safeb-blocked-malware-page-short-desc = Hinarang ng { -brand-short-name } ang pahinang ito dahil maaari nitong subukang mag-install ng mapaminsalang software na maaaring magnakaw o magbura ng personal na impormasyon sa iyong computer.
 safeb-blocked-unwanted-page-short-desc = Hinarang ng { -brand-short-name } ang page na ito dahil maaari ka nitong linlangin na mag-install ng mga program na makasasama sa iyong browsing experience (halimbawa, sa pagpalit ng iyong homepage o kaya magpakita ng dagdag na ad sa mga binibisita mong site).
 safeb-blocked-harmful-page-short-desc = Hinarang ng { -brand-short-name } ang page na ito dahil maaari nitong subukang mag-install ng mga delikadong app na nagnanakaw o nagdedelete ng iyong mga impormasyon (halimbawa, mga larawan, password, mensahe at credit card).
 safeb-palm-advisory-desc = Ang pagpapayo ay ibinigay ng <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
