@@ -201,7 +201,7 @@ media-image-type =
 #   $scaledx (number) - The scaled horizontal size of an image
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
-    .value = { $dimx }px × { $dimy }px (縮放為 { $scaledx }px × { $scaledy }px)
+    .value = { $dimx }px × { $dimy }px（縮放為 { $scaledx }px × { $scaledy }px）
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image

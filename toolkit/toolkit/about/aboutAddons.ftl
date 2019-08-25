@@ -100,11 +100,13 @@ detail-private-browsing-label = 於隱私視窗中執行
 detail-private-browsing-description2 = 若允許執行，擴充套件可在隱私瀏覽模式中取得您的線上行為。<label data-l10n-name="detail-private-browsing-learn-more">了解更多資訊</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
-detail-private-disallowed-label = 不允許於隱私視窗使用
+detail-private-disallowed-label = 不允許於隱私瀏覽視窗運作
 detail-private-disallowed-description = 此擴充套件無法於隱私瀏覽模式中運作。<label data-l10n-name="detail-private-browsing-learn-more">了解更多資訊</label>
+detail-private-disallowed-description2 = 此擴充套件不會於隱私瀏覽中運作。<a data-l10n-name="learn-more">了解更多</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = 自動於隱私瀏覽視窗運作
 detail-private-required-description = 此擴充套件可存取您在隱私瀏覽模式當中的線上行為。<label data-l10n-name="detail-private-browsing-learn-more">了解更多資訊</label>
+detail-private-required-description2 = 此擴充套件可於隱私瀏覽模式中獲得您的線上行為。<a data-l10n-name="learn-more">了解更多</a>
 detail-private-browsing-on =
     .label = 允許
     .tooltiptext = 在隱私瀏覽模式中啟用
@@ -363,6 +365,11 @@ install-update-button = 更新
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = 允許於隱私瀏覽視窗運作
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = 允許於隱私瀏覽視窗運作
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = 允許後，您在隱私瀏覽模式上網時，擴充套件將可得知您的線上行為。<a data-l10n-name="learn-more">了解更多</a>
 addon-detail-private-browsing-allow = 允許
 addon-detail-private-browsing-disallow = 不允許
@@ -371,6 +378,11 @@ addon-detail-private-browsing-disallow = 不允許
 addon-badge-recommended =
     .title = 推薦
     .alt = 推薦
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } 僅推薦符合我們的安全性與效能標準的擴充套件
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = 可用的更新
 recent-updates-heading = 最近的更新
 release-notes-loading = 載入中…
