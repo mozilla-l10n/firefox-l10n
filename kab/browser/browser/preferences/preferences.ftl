@@ -339,6 +339,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Nadi aḍris ticki tebda tira
     .accesskey = N
+browsing-picture-in-picture-learn-more = Issin ugar
 browsing-cfr-recommendations =
     .label = Welleh isizaf ticki tettiniged
     .accesskey = W

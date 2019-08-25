@@ -812,6 +812,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label2 "Taɣellist n tuqqna">
 
+<!ENTITY identity.connectionSecure2 "Taɣellist n tuqqna">
 <!ENTITY identity.connectionNotSecure "Tuqqna-a mačči d taɣelsant">
 <!ENTITY identity.connectionFile "Asebter-a yettwakles deg uselkim-inek.">
 <!ENTITY identity.connectionVerified2 "Aqli-k tura teqqneḍ s tɣellist ɣeṛ usmel-a, bab-is d:">
@@ -864,6 +865,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.settings.label "Iɣewwaṛen n tɣellist">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -875,9 +877,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Asellek">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Iwenniten">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Tividyutin">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Azen aneqqis">
 
-<!ENTITY protections.blocking.label "Asewḥel">
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Iwḥel">
+<!ENTITY protections.notBlocking2.label "Ittusireg">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Ayɣer?">
+<!ENTITY protections.trackingContent.label "Agbur n uḍfaṛ">
+<!ENTITY protections.fingerprinters.label "Idsilen umḍinen">
 <!ENTITY protections.cryptominers.label "Ikripṭuminaren">
 
 
@@ -919,11 +934,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.manageSettings.label "Sefrek Asewḥel n Ugbur">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Agbur n uḍfaṛ">
 
 <!ENTITY contentBlocking.manageSettings.accesskey "S">
 
 <!ENTITY contentBlocking.trackersView.label "Ineḍfaren">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Akken ad tesweḥleḍ akk ineḍfaren, sbadu asewḥel n ugbur ɣer “Uḥris”.">
 
 <!ENTITY contentBlocking.cookies.label "Inagan n tuqqna">
