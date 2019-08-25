@@ -4,6 +4,9 @@
 
 permissions-close-key =
     .key = w
+permissions-block =
+    .label = Kasɨ
+    .accesskey = K
 permissions-site-name =
     .label = Sitio web
 permissions-button-cancel =
@@ -18,6 +21,8 @@ permissions-capabilities-allow =
     .label = Kuvi
 permissions-capabilities-listitem-allow =
     .value = Kuvi
+permissions-capabilities-listitem-block =
+    .value = Kasɨ
 
 ## Invalid Hostname Dialog
 

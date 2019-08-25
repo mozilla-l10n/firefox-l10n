@@ -91,6 +91,7 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+play-drm-content-learn-more = Ka´vi kue´eka
 
 ## General Section - Performance
 
@@ -103,19 +104,38 @@ browsing-cfr-recommendations-learn-more = Ka´vi kue´eka
 ## General Section - Proxy
 
 network-proxy-connection-learn-more = Ka´vi jiee ya´a
+network-proxy-connection-settings =
+    .label = Ke´i
+    .accesskey = e
 
 ## Home Section
 
 
 ## Home Section - Home Page Customization
 
+home-homepage-custom-url =
+    .placeholder = Tee iin URL...
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Tu´un xinañu´u página Firefox
+home-prefs-search-header =
+    .label = Nánuku web
+home-prefs-topsites-header =
+    .label = Daa sitio vii
+home-prefs-highlights-options-bookmarks =
+    .label = A ta´a ini noo´o
 
 ## Search Section
 
 search-bar-header = Nuu nánuku
+search-choose-engine-column =
+    .label = Ka̱a̱ nánuku
+search-choose-keyword-column =
+    .label = Tu´un clave
+search-restore-default =
+    .label = Na tee tuku ka̱a̱ nánuku kua vaji
+    .accesskey = T
 search-remove-engine =
     .label = Xita
     .accesskey = R
@@ -124,6 +144,8 @@ search-find-more-link = Nani´ikue´e ka̱a̱ nánuku
 ## Containers Section
 
 containers-back-link = « Niko yata
+containers-preferences-button =
+    .label = Preferencias
 containers-remove-button =
     .label = Xita
 
@@ -135,12 +157,19 @@ containers-remove-button =
 sync-disconnect =
     .label = Kene...
     .accesskey = K
+sync-remove-account =
+    .label = Xina cuenta
+    .accesskey = X
 sync-sign-in =
     .label = Kajie´e sesión
     .accesskey = g
 sync-engine-history =
     .label = Sɨ´ɨ
     .accesskey = r
+sync-engine-addons =
+    .label = Ka̱a̱ chunta´an
+    .tooltiptext = Ka̱a̱ chunta´an Firefox escritorio
+    .accesskey = K
 sync-device-name-header = Sivɨ ka̱a̱
 sync-device-name-cancel =
     .label = Nkuvi-ka
@@ -160,6 +189,7 @@ privacy-header = Nánuku yu´u
 
 ## Privacy Section - Forms
 
+logins-header = Nuu kajie´e sesión jii contraseñas
 forms-exceptions =
     .label = Excepciones…
     .accesskey = x
@@ -191,9 +221,18 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Ka´vi jiee ya´a
+sitedata-clear =
+    .label = Sá´á noo datos
+    .accesskey = S
+sitedata-settings =
+    .label = Tetiñu datos...
+    .accesskey = T
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = A ta´a ini noo´o
+    .accesskey = A
 addressbar-locbar-openpage-option =
     .label = Síne pestañaS
     .accesskey = O
@@ -214,6 +253,7 @@ content-blocking-setting-custom =
     .label = Personalizado
     .accesskey = P
 content-blocking-custom-desc = Kaji ne´i kuvi kasɨ
+content-blocking-all-cookies = Kuaiyo daa cookies
 content-blocking-cryptominers = Criptomineros
 content-blocking-learn-how = Kuni naja?
 content-blocking-warning-learn-how = Kutu´va naja
