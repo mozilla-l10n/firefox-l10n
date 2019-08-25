@@ -18,7 +18,7 @@
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 <!ENTITY warningDesc.version        "&brandShortName; je experimentální verze a může být nestabilní.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly builds automatically send Telemetry data back to Mozilla. It is only shown in this version. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "&brandShortName; automaticky odesílá data o výkonu, hardware, používání a přizpůsobení, která slouží vývojářům z organizace &vendorShortName; k vylepšení aplikace.">
+<!ENTITY warningDesc.telemetryDesc  "&brandShortName; automaticky odesílá data o výkonu, hardware, používání a přizpůsobení, která slouží vývojářům z organizace &vendorShortName; k vylepšování aplikace.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -101,7 +101,6 @@
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Probíhá aktualizace…">
-
 <!ENTITY update.restarting          "Restartování…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
