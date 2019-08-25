@@ -75,6 +75,8 @@ manifest-view-header = 应用清单文件
 manifest-item-warnings = 错误和警告
 # Header for the Identity section of Manifest inspection displayed in the application panel.
 manifest-item-identity = 标识
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = 演示
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = 图标
 # Text displayed while we are loading the manifest file
