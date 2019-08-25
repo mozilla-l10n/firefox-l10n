@@ -60,6 +60,8 @@
 
 <!ENTITY throbber.tooltip             "&vendorShortName; 的首頁">
 
+<!ENTITY throbber.tooltip2            "前往 &brandShortName; 首頁">
+
 <!ENTITY locationBar.tooltip          "輸入網址及搜尋欄位">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "網址">
