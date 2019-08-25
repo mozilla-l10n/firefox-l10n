@@ -83,6 +83,8 @@ cfr-whatsnew-panel-header = Nakuvi a jíía íyo
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-ok-button = Ni´í Send Tab
+    .accesskey = N
 
 ## Firefox Send
 

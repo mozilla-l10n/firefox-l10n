@@ -111,9 +111,12 @@ newtab-label-download = Nxinuu
 
 newtab-discovery-empty-section-topstories-try-again-button = Nasá´á tuku
 newtab-discovery-empty-section-topstories-loading = Kunetu…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = ¡Ups! Nkuni mati´i kuvi kivɨnu ya´a, jee ntu nkuvi.
 
 ## Pocket Content Section.
 
+newtab-pocket-how-it-works = Naja satiñu
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
