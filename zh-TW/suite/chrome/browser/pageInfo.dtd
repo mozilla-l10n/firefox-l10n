@@ -62,6 +62,8 @@
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaURL              "網址:">
 <!ENTITY  mediaAlt              "替代文字:">
+<!ENTITY  mediaLocation         "位置:">
+<!ENTITY  mediaText             "關聯文字:">
 <!ENTITY  mediaAltHeader        "替代文字">
 <!ENTITY  mediaAddress          "位置">
 <!ENTITY  mediaType             "類型">
@@ -70,6 +72,7 @@
 <!ENTITY  mediaDimensions       "尺寸:">
 <!ENTITY  mediaPhysDimensions   "真實大小:">
 <!ENTITY  mediaTitle            "標題:">
+<!ENTITY  mediaDimension        "尺寸:">
 <!ENTITY  mediaLongdesc         "完整描述:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "另存新檔…">
