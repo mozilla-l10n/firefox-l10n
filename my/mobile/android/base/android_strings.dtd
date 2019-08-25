@@ -851,9 +851,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "မီးမြေခွေး။ အထောက်အပံ့">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
-<!ENTITY bookmarks_restricted_support2 "Android တက်ဘလက်ပေါ်ရှိ ကန့်သတ်ထားသည့် ပရိုဖိုင်းများအတွက် မီးမြေခွေးအကူအညီနှင့် အထောက်အပံ့">
+<!ENTITY bookmarks_restricted_support2 "Android တက်ဘလက်ပေါ်ရှိ ကန့်သတ်ထားသည့် ပရိုဖိုင်းများအတွက် Firefox အကူအညီနှင့် အထောက်အပံ့">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
-<!ENTITY bookmarks_restricted_webmaker "ဝဘ်ကို လေ့လာပါ။ မော်ဇီလာ ဝဘ်မိက္ကာ">
+<!ENTITY bookmarks_restricted_webmaker "ဝဘ်ကို လေ့လာပါ Mozilla Webmaker">
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
