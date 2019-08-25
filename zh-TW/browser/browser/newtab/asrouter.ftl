@@ -91,6 +91,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = 開啟 { -sync-brand-short-name }
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = 不再搞丟密碼
+cfr-doorhanger-sync-logins-body = 安全地儲存密碼，並同步到您的所有裝置中。
 cfr-doorhanger-sync-logins-ok-button = 開啟 { -sync-brand-short-name }
     .accesskey = T
 
