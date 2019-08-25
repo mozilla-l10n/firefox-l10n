@@ -156,10 +156,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.description "使用端對端加密，以及會自動過期的鏈結來上傳要分享的檔案。">
-<!ENTITY fxa.service.send.launch "啟動 &sendShortName;">
-<!ENTITY fxa.service.monitor.description "檢查您的電子郵件信箱是否曾出現在資料外洩事件中，並且在未來發生資料外洩時收到警報通知。">
-<!ENTITY fxa.service.monitor.launch "啟動 &monitorShortName;">
 <!ENTITY fxa.service.sendTab.description "立即傳送分頁到任何您登入過的裝置。">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
@@ -902,8 +898,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "關閉保護後網站仍然不正常？">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "回報">
 
-<!ENTITY protections.blocking.label "封鎖">
-<!ENTITY protections.notBlocking.label "不封鎖">
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "已封鎖">
+<!ENTITY protections.notBlocking2.label "已允許">
+<!ENTITY protections.notFound.label "未偵測到">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "為什麼？">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "封鎖這些項目可能會造成某些網站上的元素不正常。若沒有追蹤器，某些按鈕、表單、登入欄位可能無法正常運作。">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "若關閉保護，將放行此網站上的所有追蹤器。可能也會改善某些網站功能。">
@@ -964,7 +970,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "追蹤器">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "若要封鎖所有追蹤器，請將內容封鎖功能設定為「嚴格」。">
 
 <!ENTITY contentBlocking.cookies.label "Cookie">

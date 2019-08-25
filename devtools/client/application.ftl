@@ -69,5 +69,21 @@ serviceworker-empty-suggestions-debugger = 註冊您的 Service Worker，查看�
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = 檢測來自其他網域的 Service Worker。<a>開啟 about:debugging</a>
-# Text displayed when no manifest was found for the current page.
-manifest-empty-intro = 沒有找到可檢測的 manifest。
+# Header for the view of Manifest displayed in the application panel for the current page.
+manifest-view-header = 應用程式 Manifest
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = 錯誤與警告
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = 身份識別
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = 展現資料
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = 圖示
+# Text displayed while we are loading the manifest file
+manifest-loading = 正在載入 manifest…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = 已載入 manifest。
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = 載入 manifest 時發生錯誤:
+# Text displayed when the page has no manifest available
+manifest-non-existing = 沒有找到可以檢測的 manifest。
