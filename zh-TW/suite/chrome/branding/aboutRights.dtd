@@ -18,13 +18,13 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; 是依照 ">
 <!ENTITY rights.intro-point1b "Mozilla 公眾授權條款">
-<!ENTITY rights.intro-point1c " 中的條件所提供給您的。這表示您可以使用、複製，或散布 &brandShortName; 給其他人。歡迎您自行修改 &brandShortName; 的原始碼以滿足您的需求；Mozilla 公眾授權條款也同時賦予您散佈修改版本的權利。">
+<!ENTITY rights.intro-point1c "中的條件所提供給您的。這表示您可以使用、複製，或散布 &brandShortName; 給其他人。歡迎您自行修改 &brandShortName; 的原始碼以滿足您的需求；Mozilla 公眾授權條款也同時賦予您散佈修改版本的權利。">
 
-<!ENTITY rights.intro-point2a "Mozilla 沒有授予您使用 Mozilla 與 SeaMonkey 的商標與圖示的任何權利。您可以到 ">
+<!ENTITY rights.intro-point2a "SeaMonkey e.V 沒有授予您使用 SeaMonkey 商標與圖示的任何權利。您可以在">
 
-<!ENTITY rights.intro-point2aa "&vendorShortName; 沒有授予您使用「&brandFullName;」商標與圖示的任何權利。您可以到 ">
+<!ENTITY rights.intro-point2aa "&vendorShortName; 沒有授予您使用「&brandFullName;」商標與圖示的任何權利。您可以在">
 <!ENTITY rights.intro-point2b "這裡">
-<!ENTITY rights.intro-point2c " 找到更多關於商標的使用條款。">
+<!ENTITY rights.intro-point2c "找到更多關於商標的使用條款。">
 
 <!-- point 2d is technically point 3. in the list -->
 <!ENTITY rights.intro-point2d "&brandShortName; 當中的一些功能，像是程式錯誤回報員，將會讓您可以選擇是否要送出回饋給 &vendorShortName;。在送出回饋時，您必須授權 &vendorShortName; 及 Mozilla 使用您所送出的回饋內容以改善其產品、發布回饋內容於其網站，並散佈這些使用者回饋。">
@@ -39,8 +39,8 @@
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights2.intro-point4a "&brandShortName; 提供可選擇的網站資訊服務，諸如附加元件或 Safe Browsing 等服務。然而我們無法保證這些服務皆 100&#37; 準確。更多資訊，包含如何停用這些服務的資訊，可以在">
-<!ENTITY rights.intro-point4b "服務聲明條款">
-<!ENTITY rights.intro-point4c " 找到更多資訊，包括如何停用這些服務的說明。">
+<!ENTITY rights.intro-point4b "服務條款">
+<!ENTITY rights.intro-point4c "找到更多資訊，包括如何停用這些服務的說明。">
 
 <!ENTITY rights.webservices-header "&brandFullName; 網站資訊服務聲明條款">
 
@@ -59,7 +59,7 @@
 <!ENTITY rights.addons-a "附加元件服務:">
 <!ENTITY rights.addons-b "預設情況下，&brandShortName; 在 &view.discover.label; 頁面建議您有什麼附加元件可安裝，並持續檢查更新。若您想停用這些功能，以避免您已安裝的附加元件資訊被傳輸到伺服器上，請依照下列步驟:">
 <!ENTITY rights.addons-term1 "打開應用程式偏好設定">
-<!ENTITY rights.addons-term2 "選擇  &advance.label; 分類中的 &smart.label; 面板">
+<!ENTITY rights.addons-term2 "選擇 &advance.label; 分類中的 &smart.label; 面板">
 <!ENTITY rights.addons-term3 "取消選取「&autoAddOnsUpdates.label;」及「&enablePersonalized.label;」選項">
 <!ENTITY rights.addons-term4 "附加元件服務就會被停用">
 
