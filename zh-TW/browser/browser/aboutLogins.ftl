@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = 登入資訊與密碼
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = 密碼隨身帶著走
+login-app-promo-subtitle = 下載免費 { -lockwise-brand-name } app
+login-app-promo-android =
+    .alt = 到 Google Play 下載
+login-app-promo-apple =
+    .alt = 到 App Store 下載
 login-filter =
     .placeholder = 搜尋登入資訊
 create-login-button = 新增登入資訊
@@ -67,7 +76,6 @@ login-item-delete-button = 刪除
 login-item-origin-label = 網站網址
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = 開啟
 login-item-username-label = 使用者名稱
 login-item-username =
     .placeholder = name@example.com

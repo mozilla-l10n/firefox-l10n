@@ -290,6 +290,10 @@ install-theme-button = 安裝佈景主題
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = 管理
 find-more-addons = 看更多附加元件！
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = 更多選項
 
 ## Add-on actions
 
