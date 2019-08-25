@@ -44,8 +44,10 @@
 <!ENTITY cmd.context_new_folder.accesskey  "F">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
+<!ENTITY col.name.label          "Sivɨ">
 
 
+<!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.accesskey  "I">
 

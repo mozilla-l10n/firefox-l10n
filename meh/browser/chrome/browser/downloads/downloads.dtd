@@ -13,12 +13,16 @@
      -->
 <!ENTITY downloads.width                  "70ch">
 
+<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.accesskey             "R">
 <!ENTITY cmd.cancel.label                 "Nkuvi-ka">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
+<!ENTITY cmd.show.accesskey               "F">
+<!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
@@ -51,6 +55,7 @@
      Displayed when hovering a complete download, indicates that it's possible to
      open the file using an app available in the system.
      -->
+<!ENTITY openFile.label                   "Síne tutu">
 
 <!-- LOCALIZATION NOTE (retryDownload.label):
      Displayed when hovering a download which is able to be retried by users,
@@ -78,6 +83,7 @@
      downloads fit in the available space, or when there are no downloads in
      the panel at all.
      -->
+<!ENTITY downloadsHistory.accesskey       "s">
 
 <!-- LOCALIZATION NOTE (downloadDetails.label):
      This string is shown at the top of the Download Details Panel, to indicate

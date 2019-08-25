@@ -216,6 +216,11 @@ content-blocking-setting-custom =
 content-blocking-custom-desc = Kaji ne´i kuvi kasɨ
 content-blocking-cryptominers = Criptomineros
 content-blocking-learn-how = Kuni naja?
+content-blocking-warning-learn-how = Kutu´va naja
+content-blocking-reload-description = Nejika nakajie´e tuku daa pestañas saa kino daa nsama.
+content-blocking-reload-tabs-button =
+    .label = Nakasɨ kuaiyo daa pestañas
+    .accesskey = N
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
@@ -247,6 +252,9 @@ permissions-microphone-settings =
     .accesskey = K
 permissions-notification = Notificaciones
 permissions-notification-link = Ka´vi kue´eka
+permissions-autoplay-settings =
+    .label = Ke´i
+    .accesskey = K
 
 ## Privacy Section - Data Collection
 
@@ -264,6 +272,9 @@ security-enable-safe-browsing-link = Ka´vi kue´eka
 
 ## Privacy Section - Certificates
 
+space-alert-learn-more-button =
+    .label = Ka´vi kue´eka
+    .accesskey = K
 space-alert-under-5gb-ok-button =
     .label = OK, vatu!
     .accesskey = K
