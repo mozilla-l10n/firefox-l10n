@@ -84,6 +84,8 @@ cfr-whatsnew-panel-header = Не жаңалық
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } іске қосу
+    .accesskey = с
 
 ## Send Tab
 
