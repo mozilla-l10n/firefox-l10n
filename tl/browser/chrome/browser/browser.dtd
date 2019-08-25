@@ -164,13 +164,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "ngayon ay naka-full screen na">
+<!ENTITY fullscreenWarning.afterDomain.label "ay naka-full screen na ngayon">
 <!ENTITY fullscreenWarning.generic.label "Ang dokument na ito ay naka full screen">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-<!ENTITY exitDOMFullscreen.button "Alisin ang pagkaka-full screen(Esc)">
+<!ENTITY exitDOMFullscreen.button "Umalis sa Full Screen (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Alisin ang pakaka-full screen(esc)">
 <!ENTITY leaveDOMFullScreen.label "Lumabas sa pagka-Full Screen">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
@@ -942,7 +942,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Auto-hide">
 
-<!ENTITY getUserMedia.selectCamera.label "Camera upang para ibahagi:">
+<!ENTITY getUserMedia.selectCamera.label "Camera na ibabahagi:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Mga mikropono na pwedeng ibahagi:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
