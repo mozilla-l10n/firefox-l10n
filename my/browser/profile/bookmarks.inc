@@ -7,10 +7,10 @@
 # your locale code, and link to your translated pages as soon as they're
 # live.
 
-#define bookmarks_title မှတ်သားချက်များ
-#define bookmarks_heading မှတ်သား လိပ်စာများ
+#define bookmarks_title စာမှတ်များ
+#define bookmarks_heading စာမှတ်များ
 
-#define bookmarks_toolbarfolder မှတ်သားလိပ်စာ အစုဖိုင်
+#define bookmarks_toolbarfolder စာမှတ်ကိရိယာဘားတန်း ဖိုင်တွဲ
 #define bookmarks_toolbarfolder_description မှတ်သားလိပ်စာများအား မှတ်သားလိပ်စာဘားတန်းမှာပေါ်စေရန် ဤဖိုင်ထဲသို့ထည့်ပါ။
 
 # LOCALIZATION NOTE (getting_started):
@@ -19,7 +19,7 @@
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
-#define firefox_heading မော်ဇီလာမီးမြေခွေး
+#define firefox_heading Mozilla Firefox
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for https://www.mozilla.org/en-US/firefox/help/
@@ -27,11 +27,11 @@
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for https://www.mozilla.org/en-US/firefox/customize/
-#define firefox_customize မီးမြေးခွေးအားပြုပြင်သုံးစွဲမည်
+#define firefox_customize Firefox ကို စိတ်ကြိုက်ပြုပြင်ရန်
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for https://www.mozilla.org/en-US/contribute/
-#define firefox_community ဝင်ရောက်လှူပ်ရှားမည်။
+#define firefox_community ပါဝင်ဆောင်ရွက်ပါ
 
 # LOCALIZATION NOTE (firefox_about):
 # link title for https://www.mozilla.org/en-US/about/

@@ -9,10 +9,7 @@
 <!ENTITY retry.label "ထပ်ကြိုးစားပါ">
 <!ENTITY returnToPreviousPage.label "နောက်သို့ သွားရန်">
 <!ENTITY returnToPreviousPage1.label "ပြန်သွားပါ (အကြံပြုချက်အရ)">
-<!ENTITY advanced.label "အဆင့်မြင့်">
-<!ENTITY continue2.label "ပို၍…">
-<!ENTITY moreInformation.label "နောက်ထပ်အချက်အလက်များ">
-
+<!ENTITY advanced2.label "အဆင့်မြင့်…">
 <!ENTITY viewCertificate.label "အထောက်အထားများကို ကြည့်ရန်">
 
 <!-- Specific error messages -->
@@ -134,15 +131,11 @@
   <li>ယခုပြဿနာကို အသိပေးရန် ဝဘ်ဆိုက်ပိုင်ရှင်ကို ကျေးဇူးပြု၍ ဆက်သွယ်ပါ။</li>
 </ul>">
 
-<!ENTITY certerror.longpagetitle1 "ချိတ်ဆက်မှုသည် မလုံခြုံပါ">
 <!ENTITY certerror.longpagetitle2 "သတိပေးချက်: လုံခြုံရေးအန္တရာယ်">
 <!ENTITY certerror.sts.longpagetitle  "လုံခြုံရေးပြဿနာကြောင့် မချိတ်ဆက်ခဲ့ပါ။">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "<span class='hostname'/>၏ ပိုင်ရှင်သည် သူတို့၏ ဒီဝဘ်ဆိုက်ကို သင့်လျော်မှန်ကန်စွာ ချိန်ညှိထားခြင်း မရှိပါ။ သင့်အချက်အလက်များ ခိုးယူခံရခြင်းမှ ကာကွယ်ရန် &brandShortName; သည် ဒီဝဘ်ဆိုက်ကို မချိတ်ဆက်ထားပါ။">
-
-
 
 
 
@@ -165,9 +158,7 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.longDesc "<p>အချက်အလက်ကူးယူပြောင်းခြင်းပြသာနာကြောင့်၀တ်ဆိုက်အားမပြသနိုင်ပါ။</p><ul><li>၀တ်ဆိုက်ပိုင်ရှင်များဤပြသာနာအားအသိပေးရန်ကျေးဇူးပြုပြီးဆက်သွယ်ပေးပါ။</li></ul>">
 
 
-<!ENTITY securityOverride.exceptionButtonLabel "ချွင်းချက် ထည့်သွင်းပါ...">
-
-<!ENTITY errorReporting.automatic2 "မလိုတမာဝဘ်ဆိုက်များကို မော်ဇီလာက ခွဲခြားသတ်မှတ်ရာတွင်နှင့် ပိတ်ပင်တားဆီးရာတွင် ကူညီရန် ယခုကိစ္စကဲ့သို့သော အမှားများကို အကြောင်းကြားပေးပို့ပါ။">
+<!ENTITY errorReporting.automatic2 "မလိုတမာဝဘ်ဆိုက်များကို Mozilla က ခွဲခြားသတ်မှတ်ရာတွင်နှင့် ပိတ်ပင်တားဆီးရာတွင် ကူညီရန် ယခုကိစ္စကဲ့သို့သော အမှားများကို အကြောင်းကြားပေးပို့ပါ။">
 <!ENTITY errorReporting.learnMore "ပိုမို လေ့လာပါ…">
 
 <!ENTITY remoteXUL.title "Remote XUL">
@@ -178,20 +169,13 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Advanced info: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; သည် <span id='wrongSystemTime_URL'/> ကို မချိတ်ဆက်နိုင်ပါ။ သင့်ကွန်ပျူတာရှိနာရီသည် အချိန်မှားယွင်းနေသောကြောင့် ဖြစ်သည်။ ထို့ပြင် ၎င်းသည် လုံခြုံသောချိတ်ဆက်မှု မဖြစ်နိုင်စေပါ။</p> <p>အချိန်သည် <span id='wrongSystemTime_actualDate'/> ဖြစ်သင့်သော်လည်း သင့်ကွန်ပျူတာသည် <span id='wrongSystemTime_systemDate'/> ကို သတ်မှတ်ထားသည်။ ယခုအမှားကို ဖြေရှင်းရန် သင့်ရက်စွဲနှင့်အချိန် အပြင်အဆင်များကို မှန်ကန်သောအချိန်သို့ ပြောင်းလဲသတ်မှတ်ပါ။</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; သည် <span id='wrongSystemTimeWithoutReference_URL'/> သို့ မချိတ်ဆက်နိုင်ပါ။ အဘယ်ကြောင့်ဆိုသော် သင့်ကွန်ပျူတာ၏နာရီသည် မှားယွင်းနေပုံရသောကြောင့် ဖြစ်သည်။ ထို့ပြင် ၎င်းသည် လုံခြုံသောချိတ်ဆက်မှု မဖြစ်နိုင်စေပါ။</p> <p>သင့်ကွန်ပျူတာသည် <span id='wrongSystemTimeWithoutReference_systemDate'/> ကို မှားယွင်းသတ်မှတ်ထားသည်။ ယခုပြဿနာကို ဖြေရှင်းရန် သင့်ရက်စွဲနှင့်အချိန် အပြင်အဆင်များကို မှန်ကန်သောအချိန်သို့ ပြောင်းလဲသတ်မှတ်ပါ။</p>">
-
-<!ENTITY certerror.pagetitle1  "မလုံခြုံသော ချိတ်ဆက်မှု">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "&brandShortName; က ဒီဝဘ်ဆိုက်ကို လုံခြုံစွာ ချိတ်ဆက်နိုင်ခြင်းရှိမရှိ ဖော်ပြရန် ၎င်းဝဘ်ဆိုက်သည် HTTP Strict Transport Security (HSTS) ကို အသုံးပြုထားသည်။ ရလဒ်အနေနှင့် ဒီအထောက်အထားအတွက် ခြွင်းချက်အဖြစ်ထည့်ရန် မဖြစ်နိုင်ပါ။">
 <!ENTITY certerror.copyToClipboard.label "စာကို ကလစ်ဘုတ်သို့ ကူးပါ">
 
 <!ENTITY inadequateSecurityError.title "ချိတ်ဆက်မှုသည် မလုံခြုံပါ">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>သည် အိုဟောင်းပြီး တိုက်ခိုက်ရန်လွယ်ကူသည့် လုံခြုံရေးနည်းပညာကို အသုံးပြုထားသည်။ တိုက်ခိုက်သူသည် သင်လုံခြုံသည်ဟုထင်သည့် အချက်အလက်များကို လွယ်ကူစွာ ဖော်ထုတ်နိုင်ပါလိမ့်မည်။ သင်လာရောက်မလည်ပတ်မီ ဝဘ်ဆိုဒ်စီမံခန့်ခွဲသူသည် ဆာဗာကို အရင်ဆုံး ပြုပြင်ဖြေရှင်းရန် လိုအပ်သည်။</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
 
 
 
