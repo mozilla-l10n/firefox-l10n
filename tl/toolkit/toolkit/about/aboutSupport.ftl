@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-page-title = Tinotrobolsyot ang Impormasyon
-page-subtitle = This page contains technical information that might be useful when you're trying to solve a problem. If you are looking for answers to common questions about { -brand-short-name }, check out our <a data-l10n-name="support-link">support web site</a>.
+page-title = Impormasyon sa Pag-troubleshoot
+page-subtitle = Ang pahinang ito ay naglalaman ng teknikal na impormasyon na maaaring makatulong kapag may sinusubukan kang ayusin na problema. Kung naghahanap ka ng kasagutan sa mga karaniwang katanungan tungkol sa { -brand-short-name }, bisitahin ang ating <a data-l10n-name="support-link">support website</a>.
 crashes-title = Ulat ng mga Crash
 crashes-id = Report ID
 crashes-send-date = Nai-sumite
@@ -11,7 +11,7 @@ crashes-all-reports = Lahat ng Ulat ng Pag-crash
 crashes-no-config = Ang application na ito ay hindi pa na i-configure para ipakita ang mga crash reports.
 extensions-title = Mga extensyon
 extensions-name = Pangalan
-extensions-enabled = Payagan
+extensions-enabled = Naka-enable
 extensions-version = Bersyon
 extensions-id = ID
 security-software-title = Software Pang-seguridad
@@ -27,11 +27,11 @@ features-id = ID
 processes-title = Mga Remote Process
 processes-type = Uri
 processes-count = Bilang
-app-basics-title = Mga panimula ng Aplikasyon
+app-basics-title = Mga Paunang Katangian ng Application
 app-basics-name = Pangalan
 app-basics-version = Bersyon
 app-basics-build-id = Build ID
-app-basics-update-channel = I-update ang Channel
+app-basics-update-channel = Update Channel
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
@@ -39,8 +39,8 @@ app-basics-update-dir =
         [linux] Update Directory
        *[other] Update Folder
     }
-app-basics-update-history = I-update ang History
-app-basics-show-update-history = Ipakita ang Kasaysayan ng Update
+app-basics-update-history = Kasaysayan ng Pag-update
+app-basics-show-update-history = Ipakita ang Kasaysayan ng Pag-update
 # Represents the path to the binary used to start the application.
 app-basics-binary = Application Binary
 app-basics-profile-dir =
@@ -48,14 +48,15 @@ app-basics-profile-dir =
         [linux] Talaan ng Profile
        *[other] Folder ng Profile
     }
-app-basics-enabled-plugins = Paganahin na mga Plugin
-app-basics-build-config = Pagsasaayos ng Build
-app-basics-user-agent = Ahente ng Gumagamit
+app-basics-enabled-plugins = Mga gumaganang Plugins
+app-basics-build-config = Build Configuration
+app-basics-user-agent = User Agent
 app-basics-os = OS
 app-basics-memory-use = Paggamit ng Memory
 app-basics-performance = Pagganap
-app-basics-service-workers = Mga Nakarehistrong Manggagawa ng Serbisyo
+app-basics-service-workers = Mga Registered Service Worker
 app-basics-profiles = Mga Profile
+app-basics-launcher-process-status = Launcher Process
 app-basics-multi-process-support = Multiprocess Windows
 app-basics-remote-processes-count = Mga Remote Process
 app-basics-enterprise-policies = Mga Enterprise Policy
@@ -75,7 +76,7 @@ user-js-title = user.js Preferences
 user-js-description = Your profile folder contains a <a data-l10n-name="user-js-link">user.js file</a>, which includes preferences that were not created by { -brand-short-name }.
 locked-prefs-name = Pangalan
 locked-prefs-value = Halaga
-graphics-title = Grapiko
+graphics-title = Graphics
 graphics-features-title = Mga Katangian
 graphics-diagnostics-title = Mga diagnostics
 graphics-failure-log-title = Log ng Kabiguan
@@ -88,11 +89,11 @@ place-database-integrity = Integredad
 place-database-verify-integrity = Patunayan ang Integridad
 js-title = JavaScript
 js-incremental-gc = Incremental GC
-a11y-title = Madaling I-access
-a11y-activated = Isinaaktibo
+a11y-title = Accessibility
+a11y-activated = Naka-activate
 a11y-force-disabled = Pigilan ang pag-access
 copy-text-to-clipboard-label = Kopyahin ang text sa clipboard
-copy-raw-data-to-clipboard-label = Kopyahhin ang raw na datus sa clipboard
+copy-raw-data-to-clipboard-label = Kopyahin ang raw data sa clipboard
 sandbox-title = Sandbox
 sandbox-sys-call-index = #
 sandbox-sys-call-age = Mga segundong Nakalipas
@@ -105,10 +106,10 @@ safe-mode-title = Subukan mag-safe mode
 restart-in-safe-mode-label = Mag-restart na hindi pinapagana ang mga Add-on…
 media-title = Media
 media-device-name = Pangalan
-media-device-group = Grupo
+media-device-group = Pangkat
 media-device-vendor = Tindero
 media-device-state = Estado
-media-device-preferred = Mga Gusto
+media-device-preferred = Kagustuhan
 media-device-format = Format
 media-device-channels = Mga channel
 media-device-rate = Rate
@@ -125,42 +126,42 @@ report-crash-for-days =
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
     { $minutes ->
-        [one] { $minutes } minuto ang nakalipas
-       *[other] { $minutes } mga minuto ang nakalipas
+        [one] { $minutes } minutong nakalipas
+       *[other] { $minutes } minutong nakalipas
     }
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
     { $hours ->
-        [one] { $hours } nakalipas na oras
-       *[other] { $hours } mga nakalipas na oras
+        [one] { $hours } oras na nakalipas
+       *[other] { $hours } oras na nakalipas
     }
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
     { $days ->
         [one] { $days } araw na nakalipas
-       *[other] { $days } mga araw na nakalipas
+       *[other] { $days } araw na nakalipas
     }
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
     { $reports ->
-        [one] Lahat ng Crash Reports (kalakip ang { $reports } na pending na crash ay binigyan ng time range)
-       *[other] Lahat ng mga Crash Report (kalakip ang { $reports } pending na mga crash ay binibigyan ng time range)
+        [one] Lahat ng mga Crash Report (kasama ang { $reports } pending na crash sa nabanggit na panahon)
+       *[other] Lahat ng mga Crash Report (kasama ang { $reports } pending na mga crash sa nabanggit na panahon)
     }
-raw-data-copied = Nakuha ang data ng raw sa clipboard
-text-copied = Ang teksto ay kinopya sa clipboard
+raw-data-copied = Nakopya na ang raw data sa clipboard
+text-copied = Ang teksto ay nakopya na sa clipboard
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
-blocked-driver = Nakablock para sa iyong graphics na bersyon ng driver.
-blocked-gfx-card = Nakablock para sa iyong graphics card dahil sa mga hindi naresolbang mga problema sa driver.
-blocked-os-version = Nakablock para sa iyong bersyon ng operating system.
-blocked-mismatched-version = Nakablock para sa iyong graphics driver na bersyon na hindi pagtugma sa pagitan ng registry at DLL.
+blocked-driver = Hinarang para sa bersyon ng iyong graphics driver.
+blocked-gfx-card = Hinarang para sa iyong graphics card dahil sa mga hindi naresolbang problema sa driver.
+blocked-os-version = Hinarang para sa bersyon ng iyong operating system.
+blocked-mismatched-version = Hinarang para sa bersyon ng iyong graphics driver dahil sa pagkakaiba ng registry at DLL.
 # Variables
 # $driverVersion - The graphics driver version string
-try-newer-driver = Nakablock para sa iyong graphics na bersyon ng driver. Subukang i-update ang iyong graphics na driver sa bersyong { $driverVersion } o mas bago pa.
+try-newer-driver = Hinarang para sa bersyon ng iyong graphics driver. Subukang i-update ang iyong graphics driver sa bersyong { $driverVersion } o mas higit pa.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType na mga Parameter
@@ -211,7 +212,7 @@ d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video Decoder
 d3d9video-crash-buard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
-reset-on-next-restart = I-reset sa Sunod na Restart
+reset-on-next-restart = I-reset sa Susunod na Restart
 gpu-process-kill-button = Patigilin ang mga Proseso ng GPU
 gpu-device-reset = Device Reset
 gpu-device-reset-button = I-trigger ang Pag-reset ng Device
@@ -221,7 +222,7 @@ audio-backend = Backend ng Audio
 max-audio-channels = Max na mga Channel
 sample-rate = Mas gustong Sample Rate
 min-lib-versions = Pinakababang inaasahang bersyon
-loaded-lib-versions = Bersyon na ginamit
+loaded-lib-versions = Bersyon na ginagamit
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Seccomp Thread Synchronization
 has-user-namespaces = Mga Namespace ng Gumagamit
