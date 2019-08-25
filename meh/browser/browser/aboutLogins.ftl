@@ -6,6 +6,10 @@ about-logins-page-title = Nuu kajie´e sesión jii contraseñas
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-android =
+    .alt = Ni´ima nuu Google Play
+login-app-promo-apple =
+    .alt = Xinuun nuu App Store
 login-filter =
     .placeholder = Nánuku nuu kajie´e sesión
 create-login-button = Sá´á jíía iin kajie´e sesión
@@ -25,6 +29,10 @@ menu =
 
 ## Login List
 
+login-list-count =
+    { $count ->
+       *[other] { $count }Nuu kajie´e sesión
+    }
 login-list-name-option = Sivɨ (A-Z)
 login-list-intro-title = Ntu nani´i nuu kajie´e sesión
 login-list-item-title-new-login = A jíía inicio sesión

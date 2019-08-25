@@ -59,7 +59,9 @@ newtab-menu-edit-topsites = Natee
 newtab-menu-open-new-window = Síne nuu iin ventana jíia
 newtab-menu-open-new-private-window = Síne iin ventana yu´u
 newtab-menu-dismiss = Xita
+newtab-menu-delete-history = Xita nuu sɨ´ɨ nsá´ánu
 newtab-menu-save-to-pocket = Chuva´a nuu { -pocket-brand-name }
+newtab-menu-delete-pocket = Xita nuu { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Xita a ta´a ini noo´o
 # Bookmark is a verb here.
@@ -97,12 +99,16 @@ newtab-label-download = Nxinuu
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-move-up = Scana si̱kɨ̱
+newtab-section-menu-move-down = Scana chuve
 
 ## Section aria-labels
 
 
 ## Section Headers.
 
+newtab-section-header-topsites = Daa sitio vii
+newtab-section-header-highlights = Destacados
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
