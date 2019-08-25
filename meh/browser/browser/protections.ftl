@@ -13,3 +13,10 @@ graph-today = Ki̱vɨ̱ vitá
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-cryptominer =
+    .title = Criptomineros
+    .aria-label =
+        { $count ->
+            [one] { $count } criptominero ({ $percentage } %)
+           *[other] { $count } criptomineros ({ $percentage } %)
+        }
