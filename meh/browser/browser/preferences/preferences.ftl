@@ -4,6 +4,21 @@
 
 do-not-track-option-always =
     .label = Ntaka ichi
+# This is used to determine the width of the search field in about:preferences,
+# in order to make the entire placeholder string visible
+#
+# Please keep the placeholder string short to avoid truncation.
+#
+# Notice: The value of the `.style` attribute is a CSS string, and the `width`
+# is the name of the CSS property. It is intended only to adjust the element's width.
+# Do not translate.
+search-input-box =
+    .style = width: 18.5em
+    .placeholder =
+        { PLATFORM() ->
+            [windows] Nani´i nuu opciones
+           *[other] Nani´i nuu  configuraciones
+        }
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -25,6 +40,7 @@ close-button =
 
 ## Browser Restart Dialog
 
+should-restart-title = Nakajie´e { -brand-short-name }
 should-restart-ok = Nakajie´e { -brand-short-name } ntañu´u
 cancel-no-restart-button = Nkuvi-ka
 
@@ -44,6 +60,8 @@ cancel-no-restart-button = Nkuvi-ka
 
 ## General Section
 
+startup-header = Nuu kajie´e
+tabs-group-header = Pestañas
 browser-containers-learn-more = Ka´vi jiee ya´a
 browser-containers-settings =
     .label = Ke´i...
@@ -117,9 +135,13 @@ containers-remove-button =
 sync-disconnect =
     .label = Kene...
     .accesskey = K
+sync-sign-in =
+    .label = Kajie´e sesión
+    .accesskey = g
 sync-engine-history =
     .label = Sɨ´ɨ
     .accesskey = r
+sync-device-name-header = Sivɨ ka̱a̱
 sync-device-name-cancel =
     .label = Nkuvi-ka
     .accesskey = N

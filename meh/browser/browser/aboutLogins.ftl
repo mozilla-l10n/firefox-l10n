@@ -71,5 +71,6 @@ confirm-delete-dialog-confirm-button = Xita
 
 ## Breach Alert notification
 
+breach-alert-link = Ka´vi kue´eka jiee filtración.
 breach-alert-dismiss =
     .title = Kasɨ tu´un

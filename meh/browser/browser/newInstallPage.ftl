@@ -9,6 +9,7 @@
 
 title = Tu´un jíía íyo
 changed-title = Naku nsama?
+sync-header = Kajie´e sesión a xíín sá´á { -fxaccount-brand-name }
 sync-label = Chu´un email noo´o
 sync-input =
     .placeholder = Email

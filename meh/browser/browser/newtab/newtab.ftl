@@ -116,8 +116,10 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Ups! Nkuni mati´i kuvi 
 
 ## Pocket Content Section.
 
+newtab-pocket-more-recommendations = Kue´eka a kuvi ni´inu
 newtab-pocket-how-it-works = Naja satiñu
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Ups, iyo iin ntu nkene vii saa kuvi síne yaa´a.
