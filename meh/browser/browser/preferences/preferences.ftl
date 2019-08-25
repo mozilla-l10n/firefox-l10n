@@ -264,6 +264,9 @@ security-enable-safe-browsing-link = Ka´vi kue´eka
 
 ## Privacy Section - Certificates
 
+space-alert-under-5gb-ok-button =
+    .label = OK, vatu!
+    .accesskey = K
 
 ## The following strings are used in the Download section of settings
 
