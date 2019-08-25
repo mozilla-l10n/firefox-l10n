@@ -6,6 +6,11 @@ about-logins-page-title = Inekcam & wawalen uffiren
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = Awi awalen uffiren anda teddiḍ
+login-app-promo-android =
+    .alt = Yella di Google Play
+login-app-promo-apple =
+    .alt = Sider si App Store
 login-filter =
     .placeholder = Nadi inekcam
 create-login-button = Rnu anekcum amaynut
@@ -48,7 +53,6 @@ login-item-delete-button = Kkes
 login-item-origin-label = Tansa n usmel web
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Senker
 login-item-username-label = Isem n useqdac
 login-item-username =
     .placeholder = isem@example.com
