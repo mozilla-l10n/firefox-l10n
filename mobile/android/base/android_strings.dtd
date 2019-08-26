@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "現在不要">
 <!ENTITY firstrun_button_next "下一步">
 
+<!ENTITY firstrun_signin_button2 "登入">
+
 <!ENTITY firstrun_tabqueue_title "鏈結">
 
 <!ENTITY firstrun_readerview_title "文章">
@@ -875,6 +877,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "可於離線時閱讀">
 <!ENTITY helper_triple_readerview_open_message "將閱讀畫面項目加入書籤，以在離線時閱讀。">
 <!ENTITY helper_triple_readerview_open_button "加入書籤">
+
+<!ENTITY activity_stream_signin_title "歡迎使用 &brandShortName;">
+<!ENTITY activity_stream_signin_description "使用您的 Firefox 帳號同步書籤、密碼等資料。">
+<!ENTITY activity_stream_signin_button "登入">
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "熱門網站">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
