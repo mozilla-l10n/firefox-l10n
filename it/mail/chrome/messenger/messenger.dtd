@@ -706,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Salva la ricerca come cartella…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Seleziona messaggi">
 <!ENTITY threadColumn.label "Discussione">
 <!ENTITY fromColumn.label "Mittente">
 <!ENTITY recipientColumn.label "Destinatario">
@@ -729,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Selezionare le colonne da mostrare">
+<!ENTITY selectColumn.tooltip "Seleziona tutti i messaggi">
 <!ENTITY threadColumn2.tooltip "Mostra le discussioni">
 <!ENTITY fromColumn2.tooltip "Ordina per campo 'da'">
 <!ENTITY recipientColumn2.tooltip "Ordina per destinatario">
