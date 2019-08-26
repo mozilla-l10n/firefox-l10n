@@ -106,6 +106,6 @@ print-complete =
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
-    .value = { $percent }%
+    .value = { $percent } %
 dialog-cancel-label = Peruuta
 dialog-close-label = Sulje
