@@ -21,11 +21,16 @@
 <!ENTITY rights.intro-point1c ". Dette betyr at du kan bruke, kopiere og formidle &brandShortName; til andre. Du kan også forandre kildekoden til &brandShortName; for å passe til dine behov. Mozilla Public License gir deg også rett til å formidle forandrede versjoner.">
 
 <!ENTITY rights.intro-point2a "Mozilla gir deg ikke rett til å bruke Mozilla- eller SeaMonkey-varemerkene eller logoene. Mer informasjon om varemerker finner du ">
+
+<!ENTITY rights.intro-point2aa "&vendorShortName; gir deg ikke rett til å bruke «&brandFullName;»-varemerkene eller logoene. Mer informasjon om varemerker finner du ">
 <!ENTITY rights.intro-point2b "her">
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 2d is technically point 3. in the list -->
 <!ENTITY rights.intro-point2d "Noen funksjoner i &brandShortName;, som for eksempel krasjrapportereren, gir deg muligheten å gi tilbakemelding til &vendorShortName;. Ved å sende tilbakemelding gir du &vendorShortName; og Mozilla tillatelse til å bruke tilbakemeldingene for å forbedre programmene deres, publisere tilbakemeldingene på nettstedene deres, og å distribuere tilbakemeldingene.">
+
+<!-- point 2da is technically point 3. in the list -->
+<!ENTITY rights.intro-point2da "Noen funksjoner i &brandShortName;, som for eksempel krasjrapportereren, gir deg muligheten å gi tilbakemelding til &vendorShortName;. Ved å sende tilbakemelding gir du &vendorShortName; tillatelse til å bruke tilbakemeldingene for å forbedre programmene deres, publisere tilbakemeldingene på nettstedene deres, og å distribuere tilbakemeldingene.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Personvernerklæring for &vendorShortName;-produkter kan du finne ">
@@ -45,6 +50,8 @@
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights3.webservices-a "&brandFullName; tilbyr valgfrie nettbaserte informasjonstjenester som er tilgjengelig for din bruk med denne binære versjonen av &brandShortName;, som beskrevet nedenfor.  Noen av disse tjenestene (for eksempel utvidelsesforslag og oppdateringstjenester, tjenesten for trygg nettlesing eller varselsfunksjonen for stedsbevisst nettlesing) er aktivert som standard.  Hvis du ikke vil bruke noen av disse tjenestene, eller vilkårene nedenfor er uakseptable, kan du finne instruksjoner om hvordan du deaktiverer en bestemt funksjon eller tjeneste ">
+<!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-aa "&vendorShortName; tilbyr valgfrie nettbaserte informasjonstjenester som er tilgjengelig for din bruk med denne binære versjonen av &brandShortName;, som beskrevet nedenfor. Noen av disse tjenestene (for eksempel utvidelsesforslag og oppdateringstjenester, tjenesten for trygg nettlesing eller varselsfunksjonen for stedsbevisst nettlesing) er aktivert som standard.  Hvis du ikke vil bruke noen av disse tjenestene, eller vilkårene nedenfor er uakseptable, kan du finne instruksjoner om hvordan du deaktiverer en bestemt funksjon eller tjeneste ">
 <!ENTITY rights3.webservices-b "her">
 <!ENTITY rights3.webservices-c ". Andre funksjoner og tjenester kan slås på eller av i programinnstillingene.">
 
@@ -74,6 +81,8 @@
 
 <!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term0 "&vendorShortName; og Mozilla i lag med sine bidragsytere, lisensgivere og partnere jobber for å tilby den mest nøyaktige og oppdaterte tjenesten.  Vi kan likevel ikke garantere at denne informasjonen er fullstendig og feilfri.  Det kan for eksempel hende at tjenesten for trygg nettlesing ikke indentifiserer noen risikable nettsteder, og noen trygge nettsteder kan feilaktig ha blitt klassifisert som risikable. All plasseringsinfo som returneres fra våre tjenestetilbydere er bare estimater, og verken vi eller tjenestetilbyderne garanterer for nøyaktigheten av plasseringsinformasjonen som gis.">
+
+<!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; kan avslutte eller forandre Tjenestene etter eget ønske.">
 <!ENTITY rights.webservices-term2 "Du er velkommen til å bruke disse Tjenestene med den medfølgende versjonen av &brandShortName;, og du har alle rettigheter for å gjøre det.  &vendorShortName; og dens lisensgivere reserverer alle andre rettigheter til Tjenestene.  Disse betingelsene er ikke beregnet for å begrense rettighetene som er gitt under åpen kildekode-lisensene som gjelder for &brandShortName;, og den tilhørende kildekodeutgaven av &brandShortName;.">
 <!ENTITY rights.webservices-term3 "Tjenestene er tilbydt &quot;som-de-er.&quot;  &vendorShortName;, bidragsyterne, lisensgiverne og distributørene gir ingen garantier, verken eksplisitt eller implisitt, inkludert uten begrensinger, garantier for at Tjenestene skal passe til dine formål.  Du har den fullstendige risikoen for å velge Tjenestene for å oppnå dine hensikter, samt for kvaliteten og ytelsen til Tjenstene. Noen jurisdiksjoner tillater ikke at implisitte garantier ekskluderes, så denne disclaimeren kan muligens ikke gjelde deg.">
