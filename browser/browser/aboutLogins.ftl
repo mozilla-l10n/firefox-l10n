@@ -6,7 +6,7 @@ about-logins-page-title = כניסות וססמאות
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-subtitle = קבלת היישומון { -lockwise-brand-name } בחינם
+login-app-promo-subtitle = הורדת היישומון { -lockwise-brand-name } בחינם
 login-app-promo-android =
     .alt = הורדה מ־Google Play
 login-app-promo-apple =
@@ -70,7 +70,6 @@ login-item-delete-button = מחיקה
 login-item-origin-label = כתובת אתר
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = פתיחה
 login-item-username-label = שם משתמש
 login-item-username =
     .placeholder = name@example.com

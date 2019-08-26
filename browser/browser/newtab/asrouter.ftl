@@ -79,6 +79,20 @@ cfr-whatsnew-button =
     .label = מה חדש
     .tooltiptext = מה חדש
 cfr-whatsnew-panel-header = מה חדש
+cfr-whatsnew-release-notes-link-text = קריאת הערור השחרור
+cfr-whatsnew-tracking-protect-link-text = הצגת הדוח שלך
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] רכיבי מעקב נחסמו
+       *[other] רכיבי מעקב נחסמו
+    }
+cfr-whatsnew-tracking-blocked-subtitle = מאז { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = הצגת דוח
+cfr-whatsnew-lockwise-backup-title = גיבוי הססמאות שלך
+cfr-whatsnew-lockwise-backup-link-text = הפעלת גיבויים
 
 ## Bookmark Sync
 
@@ -88,6 +102,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = הפעלת { -sync-brand-short-name }
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-body = אחסון וסנכרון הססמאות שלך באופן מאובטח לכל המכשירים שלך.
 cfr-doorhanger-sync-logins-ok-button = הפעלת { -sync-brand-short-name }
     .accesskey = ה
 
