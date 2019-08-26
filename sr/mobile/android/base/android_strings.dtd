@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Не сада">
 <!ENTITY firstrun_button_next "Следеће">
 
+<!ENTITY firstrun_signin_button2 "Пријава">
+
 <!ENTITY firstrun_tabqueue_title "Везе">
 
 <!ENTITY firstrun_readerview_title "Чланци">
@@ -878,6 +880,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Доступно ван мреже">
 <!ENTITY helper_triple_readerview_open_message "Ставке читача забелешки се могу прочитати и ван мреже.">
 <!ENTITY helper_triple_readerview_open_button "Додај забелешкама">
+
+<!ENTITY activity_stream_signin_title "Добродошли у &brandShortName;">
+<!ENTITY activity_stream_signin_description "Почните са синхронизовањем забелешки, лозинки и других делова са вашим Firefox налогом.">
+<!ENTITY activity_stream_signin_button "Пријава">
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "Омиљени сајтови">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
