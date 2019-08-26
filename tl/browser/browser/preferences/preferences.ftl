@@ -498,7 +498,7 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
-sync-signedout-caption = Dalhin Mo Web Mo
+sync-signedout-caption = Dalhin Mo Ang Web Kahit Saan
 sync-signedout-description = I-synchronize ang iyong mga bookmark, kasaysayan, tab, password, add-on, at kagustuhan sa lahat ng iyong mga device.
 sync-signedout-account-title = Kumonekta sa isang { -fxaccount-brand-name }
 sync-signedout-account-create = Wala kang account? Magsimula
