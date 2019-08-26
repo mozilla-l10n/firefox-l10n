@@ -98,6 +98,7 @@ detail-private-browsing-description2 = När det är tillåtet kommer tillägget 
 # cannot be overridden by the user.
 detail-private-disallowed-label = Ej tillåtet i privata fönster
 detail-private-disallowed-description = Detta tillägg kan inte köras under privat surfning. <label data-l10n-name="detail-private-browsing-learn-more">Läs mer</label>
+detail-private-disallowed-description2 = Tillägget körs inte när du surfar privat. <<a data-l10n-name="learn-more">Läs mer</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Kräver åtkomst till privata fönster
 detail-private-required-description = Detta tillägg har tillgång till dina onlineaktiviteter medan du surfar. <label data-l10n-name="detail-private-browsing-learn-more">Läs mer</label>
@@ -295,6 +296,10 @@ install-theme-button = Installera tema
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Hantera
 find-more-addons = Hitta fler tillägg
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Fler alternativ
 
 ## Add-on actions
 
@@ -365,6 +370,11 @@ install-update-button = Uppdatera
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Tillåtet i privata fönster
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Tillåtet i privata fönster
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = När det är tillåtet kommer tillägget att ha tillgång till dina onlineaktiviteter under privat surfning. <a data-l10n-name="learn-more">Läs mer</a>
 addon-detail-private-browsing-allow = Tillåt
 addon-detail-private-browsing-disallow = Tillåt inte
