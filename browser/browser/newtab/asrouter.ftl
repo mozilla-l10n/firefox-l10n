@@ -79,6 +79,33 @@ cfr-whatsnew-button =
 
 cfr-whatsnew-panel-header = Novità
 
+cfr-whatsnew-release-notes-link-text = Leggi le note di versione
+
+cfr-whatsnew-fx70-title = { -brand-short-name } si batte ancora più duramente per la tua privacy
+cfr-whatsnew-fx70-body = L’ultimo aggiornamento rende la protezione antitracciamento più efficace e ti permette di creare password sicure per qualunque sito in modo semplice.
+cfr-whatsnew-tracking-protect-title = Proteggiti dal tracciamento
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } blocca molti dei traccianti social e intersito più comuni che cercano di seguire ciò che fai online.
+cfr-whatsnew-tracking-protect-link-text = Visualizza il tuo rapporto personalizzato
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+  { $blockedCount ->
+    [one] Tracciante bloccato
+   *[other] Traccianti bloccati
+  }
+cfr-whatsnew-tracking-blocked-subtitle = Dal { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Visualizza rapporto
+
+cfr-whatsnew-lockwise-backup-title = Salva le tue password
+cfr-whatsnew-lockwise-backup-body = Genera password sicure a cui puoi accedere da ogni dispositivo connesso al tuo account.
+cfr-whatsnew-lockwise-backup-link-text = Attiva il salvataggio
+
+cfr-whatsnew-lockwise-take-title = Porta le tue password sempre con te
+cfr-whatsnew-lockwise-take-body = L’app mobile { -lockwise-brand-short-name } ti permette di accedere in modo sicuro alle password salvate, ovunque ti trovi.
+cfr-whatsnew-lockwise-take-link-text = Ottieni l’app
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Ritrova questo segnalibro sul tuo telefono
