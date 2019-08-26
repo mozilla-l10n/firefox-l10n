@@ -82,6 +82,22 @@ cfr-whatsnew-button =
     .label = Oĩpa mba'e pyahu
     .tooltiptext = Oĩpa mba'e pyahu
 cfr-whatsnew-panel-header = Oĩpa mba'e pyahu
+cfr-whatsnew-release-notes-link-text = Emoñe’ẽ jehaipy rehegua
+cfr-whatsnew-fx70-title = { -brand-short-name } oñorairõve ne ñemigua rehe
+cfr-whatsnew-tracking-protect-link-text = Ehecha ne marandu’i
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Tapykuehoha jokopyre
+       *[other] Tapykuehoha jokopyre
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Oiko { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Marandu’i jehecha
+cfr-whatsnew-lockwise-backup-title = Eñongatujo’a ne ñe’ẽñemi
+cfr-whatsnew-lockwise-backup-link-text = Emyandy ñongatujo’a
+cfr-whatsnew-lockwise-take-title = Egueraha ne ñe’ẽñemi nendive
 
 ## Bookmark Sync
 
