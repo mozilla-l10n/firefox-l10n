@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Tidak saat ini">
 <!ENTITY firstrun_button_next "Selanjutnya">
 
+<!ENTITY firstrun_signin_button2 "Masuk">
+
 <!ENTITY firstrun_tabqueue_title "Tautan">
 
 <!ENTITY firstrun_readerview_title "Artikel">
@@ -875,6 +877,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Tersedia luring">
 <!ENTITY helper_triple_readerview_open_message "Markahi Tampilan Baca item untuk membacanya secara luring.">
 <!ENTITY helper_triple_readerview_open_button "Tambahkan ke Markah">
+
+<!ENTITY activity_stream_signin_title "Selamat datang di &brandShortName;">
+<!ENTITY activity_stream_signin_description "Mulai sinkronkan markah, kata sandi, dan lainnya dengan akun Firefox Anda.">
+<!ENTITY activity_stream_signin_button "Masuk">
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "Situs Teratas">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
