@@ -230,6 +230,9 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = I-manage ang mga Extension Shortcut
+    .accesskey = S
 shortcuts-no-addons = Wala kang extension na naka-enable.
 shortcuts-no-commands = Ang mga sumusunod na extension ay walang shortcut:
 shortcuts-input =
@@ -239,12 +242,25 @@ shortcuts-pageAction = I-activate ang page action
 shortcuts-sidebarAction = I-toggle ang sidebar
 shortcuts-modifier-mac = Isama ang Ctrl, Alt, o ⌘
 shortcuts-modifier-other = Isama ang Ctrl o Alt
+shortcuts-invalid = Maling kombinasyon
+shortcuts-letter = Mag-type ng letra
+shortcuts-system = Hindi maaaring baguhin ang { -brand-short-name } shortcut
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Dobleng shortcut
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = Ang { $shortcut } ay ginagamit bilang isang shortcut sa higit pa na isang kaso. Ang mga dobleng shortcut ay maaaring maging sanhi ng hindi inaasahang pag-uugali.
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Ginagamit na ng { $addon }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Magpakita ng { $numberToShow } Pa
+       *[other] Magpakita ng { $numberToShow } Pa
+    }
+shortcuts-card-collapse-button = Magpakita ng Mas Kaunti
 go-back-button =
     .tooltiptext = Bumalik
 
@@ -333,6 +349,7 @@ install-update-button = I-update
 addon-badge-private-browsing-allowed =
     .title = Pinagpayagan sa mga private window
 addon-detail-private-browsing-allow = Payagan
+addon-detail-private-browsing-disallow = Huwag Payagan
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended =
@@ -341,6 +358,8 @@ addon-badge-recommended =
 available-updates-heading = Mga Magagamit na Update
 recent-updates-heading = Mga Update Kamakailan
 release-notes-loading = Nagloload...
+release-notes-error = Paumanhin, pero nagkaroon ng problema sa pagpapakita ng mga release note.
+addon-permissions-empty = Ang extension na ito ay hindi nangangailangan ng kahit anong pahintulot.
 recommended-extensions-heading = Mga Inirerekomendang Extension
 recommended-themes-heading = Mga Inirerekomendang Tema
 # A recommendation for the Firefox Color theme shown at the bottom of the theme

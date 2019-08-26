@@ -134,12 +134,12 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButton1Label "Tanggapin ang Panganib at Magpatuloy">
 
 <!ENTITY errorReporting.automatic2 "Mag-report ng mga error kagaya neto para makatulog sa Mozilla makilala at makilatis ang mga hinihinalaang sites">
-<!ENTITY errorReporting.learnMore "Karagdagan kaalaman…">
+<!ENTITY errorReporting.learnMore "Alamin…">
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Makipag-ugnayan sa mga may-ari ng website upang ipaalam sa kanila ang problemang ito.</li></ul></p>">
 
-<!ENTITY sslv3Used.title "Hindi maka-konek ng ligtas">
+<!ENTITY sslv3Used.title "Hindi Makakonekta nang Ligtas">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Paunang impormasyon: SSL_ERROR_UNSUPPORTED_VERSION">

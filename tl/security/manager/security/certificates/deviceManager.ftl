@@ -5,6 +5,11 @@
 
 ## Strings used for device manager
 
+devmgr =
+    .title = Device Manager
+    .style = width: 67em; height: 32em;
+devmgr-devlist =
+    .label = Mga Security Module at Device
 devmgr-header-details =
     .label = Detalye
 devmgr-header-value =

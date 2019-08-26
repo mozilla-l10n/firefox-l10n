@@ -10,10 +10,10 @@
 <!ENTITY redoCmd.label             "Ulitin">
 <!ENTITY redoCmd.key               "Y">
 <!ENTITY redoCmd.accesskey         "U">
-<!ENTITY cutCmd.label              "I-Cut">
+<!ENTITY cutCmd.label              "Putulin">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "t">
-<!ENTITY copyCmd.label             "I-Copy">
+<!ENTITY copyCmd.label             "Kopyahin">
 <!ENTITY copyCmd.key               "C">
 <!ENTITY copyCmd.accesskey         "c">
 <!ENTITY pasteCmd.label            "I-Paste">

@@ -8,6 +8,7 @@ rights-intro-point-1 = { -brand-short-name } is made available to you under the 
 rights-intro-point-2 = Ikaw ay hindi nabigyan ng anumang mga karapatan sa trademark o lisensya sa trademark ng Mozilla Foundation o anumang partido, kasama ang walang limitasyon ang Firefox pangalan o logo. Maaaring matagpuan ang karagdagang impormasyon sa mga trademark<a data-l10n-name="mozilla-trademarks-link">dito</a>.
 rights-intro-point-3 = Ang iilang features sa { -brand-short-name }, kabilang na ang Crash Reporter, ay humihingi ng pahintulot bago magbigay ng feedback sa { -vendor-short-name }. Kung pumayag kayo magbigay ng feedback, pinapahintulutan din ninyo ang { -vendor-short-name } na gamitin ang feedback upang mapabuti ang mga produkto nito, i-publish ang feedback sa mga website nito, at ipamahagi ang feedback.
 rights-intro-point-4 = Kung paano namin ginagamit ang inyong personal information at feedback na pinadala sa { -vendor-short-name } gamit ang { -brand-short-name } ay nakasulat sa <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name } Privacy Policy</a>.
+rights-intro-point-4-unbranded = Ang kahit anumang patakaran sa privacy na pwede sa produktong ito ay dapat ilista rito.
 rights-intro-point-5 = Some { -brand-short-name } features make use of web-based information services, however, we cannot guarantee they are 100% accurate or error-free. More details, including information on how to disable the features that use these services, can be found in the <a data-l10n-name="mozilla-service-terms-link">service terms</a>.
 rights-intro-point-6 = In order to play back certain types of video content, { -brand-short-name } downloads certain content decryption modules from third parties.
 rights-webservices-header = { -brand-full-name } Web-Based Information Services
@@ -21,6 +22,7 @@ rights-safebrowsing-term-4 = Disabled ang Safe Browsing
 rights-locationawarebrowsing = Ang <strong>Location Aware Browsing: </strong> ay palaging opt-in. Walang impormasyon patungkol sa lokasyon ang pinadadala nang wala mong pahintulot. Kung nais mong i-disable ang feature na ito, sundan ang mga sumusunod:
 rights-locationawarebrowsing-term-1 = Sa URL bar, mag-type <code>about:config</code>
 rights-locationawarebrowsing-term-2 = Mag-type geo.enabled
+rights-locationawarebrowsing-term-3 = Mag-double click sa geo.enabled preference
 rights-locationawarebrowsing-term-4 = 'Di na pinapagana ang Location-Aware Browsing
 rights-webservices-unbranded = An overview of the web site services the product incorporates, along with instructions on how to disable them, if applicable, should be included here.
 rights-webservices-term-unbranded = Ang kahit ano mang pwedeng gamiting mga service term para sa produktong ito ay dapat ilista rito.

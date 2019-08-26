@@ -154,6 +154,10 @@ verify-ssl-server =
     .value = SSL Server Certificate
 verify-ssl-ca =
     .value = SSL Certificate Authority
+verify-email-signer =
+    .value = Email Signer Certificate
+verify-email-recip =
+    .value = Email Recipient Certificate
 # Cert verification
 cert-not-verified-cert-revoked = Hindi masiyasat ang sertipikong ito dahil napawalang-bisa ito.
 cert-not-verified-cert-expired = Hindi masiyasat ang sertipikong ito dahil ito ay lumipas na.

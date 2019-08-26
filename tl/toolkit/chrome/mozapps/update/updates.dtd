@@ -4,7 +4,7 @@
 <!ENTITY  updateWizard.title              "Update ng Software">
 
 <!ENTITY  checking.title                  "Sinusuri para sa mga Update">
-<!ENTITY  updateCheck.label               "Hinahanap para sa bagong mga bersyon ng &brandShortName;…">
+<!ENTITY  updateCheck.label               "Naghahanap ng mas bagong bersyon ng &brandShortName;…">
 
 <!ENTITY  noupdatesfound.title            "Walang Nahanap na mga Update">
 <!ENTITY  noupdatesautoenabled.intro      "Walang mga update na magagamit. &brandShortName; ay magsusuri paminsan-minsan para sa mga update">
@@ -23,7 +23,7 @@
 <!ENTITY  unsupported.label               "Ang iyong &brandShortName; ay luma na, ngunit ang bagong bersyon ay hindi
                                            suportado sa iyong sistema. Mangyaring mag-upgrade sa iyong sistema, pagkatapos ay subukan ulit.
                                            Hindi mo na makikita ang babala ulit, ngunit maaari kang">
-<!ENTITY  unsupportedLink.label           "matuto ng higit pa.">
+<!ENTITY  unsupportedLink.label           "alamin.">
 
 <!ENTITY  clickHere.label                 "Karagdagang impormasyon tungkol sa update na ito">
 
@@ -42,9 +42,11 @@
 
 <!ENTITY  error.title                     "Nabigo sa Pag-update">
 
-<!ENTITY  error.label                     "May mga problema nag-check sa mga, downloading, o nag-install ngupdate. &brandShortName; hindi ma-update dahil:">
+<!ENTITY  error.label                     "Nagkaroon ng problema sa pag-check, pag-download, o pag-install nitong                                           
+update. Hindi maaaring ma-update ang &brandShortName; dahil:">
                                            
-<!ENTITY  errorManual.label               "Maaari mong i-update ang &brandShortName; ng mano-mano sa pamamagitan ng pagbisita sa link na ito at I-download ang pinakabagong version:">
+<!ENTITY  errorManual.label               "Maaari mong i-update nang mano-mano ang &brandShortName; sa pamamagitan ng pagbisita sa link na ito
+                                           at i-download ang pinakabagong bersyon:">
                                            
 <!ENTITY  errorpatching.intro             "Ang kulang na Update ay hindi maaaring gamitin.
                                            Ang &brandShortName; ay susubok ulit sa pamamagitan ng pag-download ng kompletong Update.">
@@ -52,12 +54,12 @@
 <!ENTITY  genericBackgroundError.label    "Ang &brandShortName; ay hindi maaaring tukuyin kung may magagamit na update. Mangyaring
                                            siguraduhin na mayroon kang pinakabagong bersyon ng &brandShortName; mula sa:">
                                            
-<!ENTITY  finishedPage.title              "Nakahanda na ang Update para Iinstall">
+<!ENTITY  finishedPage.title              "Handa nang Ma-install ang Update">
 <!ENTITY  finishedPage.text               "Ang update ay maiinstall sa sunod na patakbuhin mo ang &brandShortName;. Ikaw ay maaaring mag-restart sa &brandShortName; ngayon, o magpatuloy na magtrabaho at mag-restart mamaya.">
 
 <!ENTITY  finishedBackgroundPage.text     "Ang update para sa seguridad at stabilidad ng &brandShortName; ay 
                                            nadownload na at handa nang i-install.">
-<!ENTITY  finishedBackground.name         "I-update:">
+<!ENTITY  finishedBackground.name         "Update:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Ang update ay iinstall sa sunod na panahon na tatakbo ang &brandShortName;. Ikaw
                                            ay maaaring mag-restart ng &brandShortName; ngayon, o magpatuloy na magtrabaho at mag-restart mamaya.">
