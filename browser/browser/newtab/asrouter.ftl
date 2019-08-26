@@ -81,8 +81,25 @@ cfr-whatsnew-button =
     .tooltiptext = 新版变化
 cfr-whatsnew-panel-header = 新版变化
 cfr-whatsnew-release-notes-link-text = 阅读发行说明
+cfr-whatsnew-fx70-title = { -brand-short-name } 为您的隐私而战
+cfr-whatsnew-fx70-body = 最新的更新增强了跟踪保护功能，并可比以往更容易地让为每个站点创建安全密码。
+cfr-whatsnew-tracking-protect-title = 保护自己远离跟踪器
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } 拦截了许多会窥视您浏览活动的常见社交和跨网站型跟踪器。
 cfr-whatsnew-tracking-protect-link-text = 查看您的报告
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+       *[other] 跟踪器拦截数量
+    }
+cfr-whatsnew-tracking-blocked-subtitle = 自 { DATETIME($earliestDate, month: "long", year: "numeric") } 起
 cfr-whatsnew-tracking-blocked-link-text = 查看报告
+cfr-whatsnew-lockwise-backup-title = 备份您的密码
+cfr-whatsnew-lockwise-backup-body = 立即生成安全密码，并可在您登录的任何设备访问。
+cfr-whatsnew-lockwise-backup-link-text = 开启备份
+cfr-whatsnew-lockwise-take-title = 随身携带密码
+cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } 移动端应用可让您安全地访问在所有设备中备份的密码。
 cfr-whatsnew-lockwise-take-link-text = 获取应用
 
 ## Bookmark Sync
