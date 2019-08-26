@@ -15,6 +15,7 @@ cert-error-trust-untrusted-issuer = האישור אינו מהימן מכיוו�
 cert-error-trust-signature-algorithm-disabled = האישור אינו מהימן מכיוון שהוא נחתם על־ידי אלגוריתם חתימה שנוטרל מכיוון שאינו מאובטח.
 cert-error-trust-expired-issuer = האישור אינו מהימן מכיוון שפג תוקף האישור של הגורם המנפיק.
 cert-error-trust-self-signed = האישור אינו מהימן מכיוון שהוא נחתם עצמית.
+cert-error-trust-symantec = אישורים שהונפקו על־ידי GeoTrust, ‏RapidSSL, ‏Symantec, ‏Thawte וֿVeriSign אינם נחשבים עוד כבטוחים מכיוון שרשויות האישורים הללו כשלו מבחינת נהלי אבטחה בעבר.
 cert-error-untrusted-default = האישור לא מגיע ממקור מהימן.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
