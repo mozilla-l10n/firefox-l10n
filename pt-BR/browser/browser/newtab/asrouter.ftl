@@ -83,6 +83,7 @@ cfr-whatsnew-button =
     .tooltiptext = Novidades
 cfr-whatsnew-panel-header = Novidades
 cfr-whatsnew-release-notes-link-text = Ler as notas da versão
+cfr-whatsnew-fx70-title = O { -brand-short-name } agora luta mais intensamente por sua privacidade
 cfr-whatsnew-fx70-body =
     A última atualização aprimora o recurso de proteção contra rastreamento
     e torna mais fácil que nunca criar senhas seguras para cada site.
@@ -102,6 +103,9 @@ cfr-whatsnew-tracking-blocked-link-text = Ver relatório
 cfr-whatsnew-lockwise-backup-title = Guarde uma cópia de suas senhas
 cfr-whatsnew-lockwise-backup-body = Agora gera senhas seguras que você pode ter onde quer que acesse.
 cfr-whatsnew-lockwise-backup-link-text = Ativar cópias de segurança
+cfr-whatsnew-lockwise-take-title = Leve suas senhas com você
+cfr-whatsnew-lockwise-take-body = O aplicativo de celular { -lockwise-brand-short-name } permite acessar com segurança em qualquer lugar suas senhas guardadas.
+cfr-whatsnew-lockwise-take-link-text = Instalar o aplicativo
 
 ## Bookmark Sync
 
