@@ -11,6 +11,7 @@ pref-page =
 pane-search-title = Chuka
 category-search =
     .tooltiptext = { pane-search-title }
+pane-sync-title2 = { -sync-brand-short-name }
 focus-search =
     .key = f
 
