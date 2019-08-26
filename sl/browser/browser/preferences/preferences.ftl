@@ -345,6 +345,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Začni iskati ob začetku tipkanja
     .accesskey = k
+browsing-picture-in-picture-learn-more = Več o tem
 browsing-cfr-recommendations =
     .label = Med brskanjem priporoči razširitve
     .accesskey = r
