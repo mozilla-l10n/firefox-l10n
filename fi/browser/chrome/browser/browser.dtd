@@ -154,6 +154,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Lähetä välilehti välittömästi mille tahansa laitteelle, johon olet kirjautuneena.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -811,7 +812,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "Yhteyden suojaus">
 
+<!ENTITY identity.connectionSecure2 "Suojattu yhteys">
 <!ENTITY identity.connectionNotSecure "Yhteys ei ole suojattu">
 <!ENTITY identity.connectionNotSecureSecurityView "Yhteytesi tähän sivustoon ei ole suojattu.">
 <!ENTITY identity.connectionFile "Sivu on tallennettu tietokoneellesi.">
@@ -859,14 +862,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Oikeudet">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Asetetut oikeudet">
 <!ENTITY identity.permissionsEmpty "Sivustolle ei ole myönnetty mitään erityisoikeuksia.">
 <!ENTITY identity.permissionsReloadHint "Sivu tarvitsee ehkä päivittää, jotta muutokset tulevat voimaan.">
 <!ENTITY identity.permissionsPreferences.tooltip "Avaa oikeusasetukset">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Avaa sisällön eston asetukset">
 
 
+<!ENTITY protections.etpON.header "Tehostettu seurannan suojaus on PÄÄLLÄ tällä sivustolla">
+<!ENTITY protections.etpOFF.header "Tehostettu seurannan suojaus on POIS PÄÄLTÄ tällä sivustolla">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Lisätietoja tehostetusta seurannan suojauksesta">
 <!ENTITY protections.settings.label "Suojauksen asetukset">
 <!ENTITY protections.report.label "Näytä koko raportti">
 <!-- LOCALIZATION NOTE:
@@ -879,13 +886,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "Poista suojaus käytöstä, jos kohtaat ongelmia seuraavien kanssa:">
+<!ENTITY protections.siteNotWorkingView.header "Poista suojaukset käytöstä, jos kohtaat ongelmia seuraavien kanssa:">
 <!ENTITY protections.siteNotWorkingView.issueList.logInFields "Kirjautumiskentät">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "Lomakkeet">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Maksut">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Kommentit">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Videot">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Eikö sivusto toimi suojauksen poiskytkemisen jälkeenkään?">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Eikö sivusto toimi suojausten poiskytkemisen jälkeenkään?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Lähetä raportti">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -898,10 +905,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Miksi?">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Suojauksien poistaminen käytöstä sallii kaikki seuraimet tällä sivustolla. Se saattaa myös parantaa joidenkin sivustojen toiminnallisuutta.">
 <!ENTITY protections.socialMediaTrackers.label "Sosiaalisen median seuraimet">
+<!ENTITY protections.trackingContent.label "Seurantaan tarkoitettu sisältö">
 <!ENTITY protections.fingerprinters.label "Yksilöijät">
 <!ENTITY protections.cryptominers.label "Kryptolouhijat">
+<!ENTITY protections.noTrackersFound.description "Tällä sivulla ei havaittu seuraimia, jotka &brandShortName; tuntee.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Nämä evästeet seuraavat sinua sivustolta toiselle ja keräävät tietoja tekemisistäsi verkossa. Ne on asetettu kolmansien osapuolten, kuten mainostajien ja analytiikkayhtiöiden, toimesta.">
+<!ENTITY protections.cryptominers.description "Kryptolouhijat käyttävät tietokoneesi laskentatehoa digitaalisen rahan louhintaan. Kryptolouhintaan tarkoitetut komentosarjat kuluttavat tietokoneen akkua, hidastavat tietokonetta ja voivat vaikuttaa sähkölaskun loppusummaan.">
+<!ENTITY protections.fingerprinters.description "Yksilöijät keräävät asetustietoja selaimestasi sekä tietokoneestasi ja luovat näiden tietojen avulla profiilin sinusta. Tätä digitaalista sormenjälkeä hyödyntämällä sinua voidaan seurata eri verkkosivustojen välillä.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->

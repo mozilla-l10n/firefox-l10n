@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Poikkeukset - Sisällön esto
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Olet poistanut käytöstä sisällön eston näillä sivustoilla.
+permissions-exceptions-etp-window =
+    .title = Tehostetun seurannan suojauksen poikkeukset
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Olet poistanut suojaukset käytöstä näillä sivustoilla.
 
 ## Exceptions - Cookies
 

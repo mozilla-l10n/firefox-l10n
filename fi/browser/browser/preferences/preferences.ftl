@@ -710,6 +710,7 @@ addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Sisällön esto
+content-blocking-enhanced-tracking-protection = Tehostettu seurannan suojaus
 content-blocking-section-description = Suojaa yksityisyyttäsi selatessasi. Estä näkymätön sisältö, joka seuraa vierailemiasi sivuja ja profiloi sinua. Jonkin tällaisen sisällön estäminen saattaa nopeuttaa sivujen latautumista.
 content-blocking-learn-more = Lue lisää
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -728,10 +729,13 @@ content-blocking-strict-description = Vahvempi suoja. Saattaa aiheuttaa joidenki
 content-blocking-custom-desc = Valitse, mitä estetään.
 content-blocking-private-trackers = Tunnetut seuraimet vain yksityisissä ikkunoissa
 content-blocking-third-party-cookies = Kolmannen osapuolen seurainevästeet
+content-blocking-etp-standard-desc = Tasapainotettu suojauksen ja suorituskyvyn välillä. Sivut latautuvat normaalisti.
+content-blocking-private-windows = Seurantaan tarkoitettu sisältö yksityisissä ikkunoissa
 content-blocking-social-media-trackers = Sosiaalisen median seuraimet
 content-blocking-all-cookies = Kaikki evästeet
 content-blocking-unvisited-cookies = Evästeet sivustoilta, joilla ei ole käyty
 content-blocking-all-windows-trackers = Tunnetut seuraimet kaikissa ikkunoissa
+content-blocking-all-windows-tracking-content = Seurantaan tarkoitettu sisältö kaikissa ikkunoissa
 content-blocking-all-third-party-cookies = Kaikki kolmannen osapuolen evästeet
 content-blocking-cryptominers = Kryptolouhijat
 content-blocking-fingerprinters = Yksilöijät
@@ -746,6 +750,9 @@ content-blocking-reload-tabs-button =
     .accesskey = P
 content-blocking-trackers-label =
     .label = Seuraimet
+    .accesskey = S
+content-blocking-tracking-content-label =
+    .label = Seurantaan tarkoitettu sisälö
     .accesskey = S
 content-blocking-tracking-protection-option-all-windows =
     .label = Kaikissa ikkunoissa
