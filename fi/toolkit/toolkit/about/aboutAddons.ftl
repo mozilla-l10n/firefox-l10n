@@ -101,9 +101,11 @@ detail-private-browsing-description2 = Kun sallittu, tällä laajennuksella on p
 # cannot be overridden by the user.
 detail-private-disallowed-label = Ei sallittu yksityisissä ikkunoissa
 detail-private-disallowed-description = Tätä laajennusta ei suoriteta yksityisissä ikkunoissa. <label data-l10n-name="detail-private-browsing-learn-more">Lue lisää</label>
+detail-private-disallowed-description2 = Tätä laajennusta ei suoriteta yksityisen selauksen aikana. <a data-l10n-name="learn-more">Lue lisää</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Vaatii pääsyn yksityisiin ikkunoihin
 detail-private-required-description = Tällä laajennuksella on pääsy verkkotoimintaasi yksityisissä ikkunoissa. <label data-l10n-name="detail-private-browsing-learn-more">Lue lisää</label>
+detail-private-required-description2 = Tällä laajennuksella on pääsy verkossa tekemiisi toimiin yksityisen selauksen aikana. <a data-l10n-name="learn-more">Lue lisää</a>
 detail-private-browsing-on =
     .label = Salli
     .tooltiptext = Ota käyttöön yksityisessä selauksessa
@@ -300,6 +302,10 @@ install-theme-button = Asenna teema
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Hallitse
 find-more-addons = Etsi lisää lisäosia
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Lisää valintoja
 
 ## Add-on actions
 
@@ -366,6 +372,11 @@ install-update-button = Päivitä
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Sallittu yksityisissä ikkunoissa
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Sallittu yksityisissä ikkunnoissa
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Kun sallittu, laajennus voi seurata, mitä teet verkossa yksityisen selauksen tilassa. <a data-l10n-name="learn-more">Lue lisää</a>
 addon-detail-private-browsing-allow = Salli
 addon-detail-private-browsing-disallow = Älä salli
