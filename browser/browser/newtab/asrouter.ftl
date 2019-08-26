@@ -92,9 +92,9 @@ cfr-doorhanger-sync-bookmarks-ok-button = Slå på { -sync-brand-short-name }
 
 ## Login Sync
 
-cfr-doorhanger-sync-logins-header = cfr-doorhanger-sync-logins-header = Förlora aldrig ett lösenord igen
+cfr-doorhanger-sync-logins-header = Förlora aldrig ett lösenord igen
 cfr-doorhanger-sync-logins-ok-button = Slå på { -sync-brand-short-name }
-    .accesskey = T
+    .accesskey = S
 
 ## Send Tab
 
