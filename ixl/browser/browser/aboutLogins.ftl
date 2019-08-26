@@ -30,7 +30,7 @@ fxaccounts-avatar-button =
 menu =
     .title = Jaj u tachul tatine'
 # This menuitem is only visible on Windows
-menu-menuitem-import = Eq'oeltzan unq'a texhla uve' axh kuxh ootzin tetz
+menu-menuitem-import = Eq'oeltzan unq'a texhla uve' axh kuxh ootzin tetz…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Unka'te
@@ -56,7 +56,7 @@ login-list-breached-option = Unq'a tantib'al unq'a web uva' jit b'an tatine'
 login-list-last-changed-option = Itzojpeb'al ve't ib'anax tuche'
 login-list-last-used-option = A'e' a'nnal kuxh ib'anb'ele'
 login-list-intro-title = Ye'laj xe'teb'al aq'on ati
-login-list-intro-description = Tul uva' la kol u kach'ub' tetze' uva' axh kuxh ootzin tetz tu { -brand-product-name }, a' la b'uuq' kat tzitza'
+login-list-intro-description = Tul uva' la kol u kach'ub' tetze' uva' axh kuxh ootzin tetz tu { -brand-product-name }, a' la b'uuq' kat tzitza'.
 login-list-item-title-new-login = Ixe't aq'on unpajte
 login-list-item-subtitle-new-login = A'qku' unq'a texhlale' ti' axe't aq'onvoj
 login-list-item-subtitle-missing-username = (Ye'l ib'ii u b'anb'en tetze')
@@ -77,7 +77,6 @@ login-item-delete-button = Eesa el
 login-item-origin-label = Tatinb'al web
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Ixe'te
 login-item-username-label = Ib'ii u etzit tetze'
 login-item-username =
     .placeholder = name@example.com

@@ -16,6 +16,7 @@ focus-search =
 
 ## Browser Restart Dialog
 
+should-restart-title = La xe'tisal { -brand-short-name }
 cancel-no-restart-button = Ya'sakan
 
 ## Extension Control Notifications
