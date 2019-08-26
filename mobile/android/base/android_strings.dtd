@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Nic hnydom">
 <!ENTITY firstrun_button_next "Přichodny">
 
+<!ENTITY firstrun_signin_button2 "Přizjewić">
+
 <!ENTITY firstrun_tabqueue_title "Wotkazy">
 
 <!ENTITY firstrun_readerview_title "Nastawki">
@@ -875,6 +877,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Offline k dispoziciji">
 <!ENTITY helper_triple_readerview_open_message "Składujće zapiski čitanskeho napohlada jako zapołožki, zo byšće je offline čitał.">
 <!ENTITY helper_triple_readerview_open_button "K zapołožkam přidać">
+
+<!ENTITY activity_stream_signin_title "Witajće k &brandShortName;">
+<!ENTITY activity_stream_signin_description "Synchronizujće nětko zapołožki, hesła a wjace ze swojim kontom Firefox.">
+<!ENTITY activity_stream_signin_button "Přizjewić">
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "Najhusćišo wopytane sydła">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
