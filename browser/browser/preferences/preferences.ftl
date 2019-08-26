@@ -29,6 +29,7 @@ search-input-box =
             [windows] Нађи у опцијама
            *[other] Нађи у поставкама
         }
+managed-notice = Вашим прегледачем управља ваша организација.
 pane-general-title = Опште
 category-general =
     .tooltiptext = { pane-general-title }
@@ -287,6 +288,21 @@ update-pref-write-failure-title = Неуспех при упису
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Нисам успео да сачувам поставку. Нисам могао да пишем у датотеку: { $path }
+update-setting-write-failure-title = Грешка при чувању поставки за ажурирање
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    Програм { -brand-short-name } је наишао на грешку и није сачувао ову промену. Имајте на уму да подешавање ове поставке ажурирања захтева дозволу за писање у датотеку наведену испод. Ви или администратор система можете да решите грешку тако што ћете корисничкој групи дати пуну контролу над овом датотеком.
+    
+    Нисам могао да пишем унутар датотеке: { $path }
+update-in-progress-title = Ажурирање у току
+update-in-progress-message = Желите ли да { -brand-short-name } настави са ажурирањем?
+update-in-progress-ok-button = &Одбаци
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Настави
 
 ## General Section - Performance
 
@@ -585,6 +601,12 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Изузеци
     .accesskey = е
+forms-generate-passwords =
+    .label = Предлажи и стварај јаке лозинке
+    .accesskey = а
+forms-fill-logins-and-passwords =
+    .label = Самостално попуњавај пријаве и лозинке
+    .accesskey = и
 forms-saved-logins =
     .label = Сачуване пријаве
     .accesskey = С
@@ -695,6 +717,7 @@ addressbar-suggestions-settings = Измени поставке предлога
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Блокирање садржаја
+content-blocking-enhanced-tracking-protection = Побољшана заштита од праћења
 content-blocking-section-description = Заштитите своју приватност док прегледате интернет. Блокирајте невидљиви садржај који прати веб странице које посетите и који вас профилише. Блокирањем неких од ових садржаја странице се брже учитавају.
 content-blocking-learn-more = Сазнајте више
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -713,6 +736,8 @@ content-blocking-strict-description = Снажнија заштита, може 
 content-blocking-custom-desc = Изаберите шта треба блокирати.
 content-blocking-private-trackers = Познате пратиоце само у приватним прозорима
 content-blocking-third-party-cookies = Колачиће за праћење трећих страна
+content-blocking-social-media-trackers = Трагачи с друштвених мрежа
+content-blocking-all-cookies = Сви колачићи
 content-blocking-all-windows-trackers = Познате пратиоце у свим прозорима
 content-blocking-all-third-party-cookies = Све колачиће треће стране
 content-blocking-cryptominers = Крипто-рударе
@@ -720,6 +745,7 @@ content-blocking-fingerprinters = Хватаче отиска
 content-blocking-warning-title = Напомена!
 content-blocking-warning-description = Блокирање садржаја може узроковати сломљене сајтове у неким случајевима. Лако је онемогућити блокирање за сајтове којима верујете.
 content-blocking-learn-how = Сазнајте више
+content-blocking-warning-learn-how = Научите како
 content-blocking-reload-description = Да бисте применили ове измене, морате поново учитати своје језичке.
 content-blocking-reload-tabs-button =
     .label = Поново учитај све језичке
@@ -727,6 +753,9 @@ content-blocking-reload-tabs-button =
 content-blocking-trackers-label =
     .label = Пратиоци
     .accesskey = т
+content-blocking-tracking-content-label =
+    .label = Праћење садржаја
+    .accesskey = р
 content-blocking-tracking-protection-option-all-windows =
     .label = У свим прозорима
     .accesskey = а
@@ -784,6 +813,7 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = Изузеци...
     .accesskey = И
+permissions-autoplay = Самостално покретање
 permissions-block-popups =
     .label = Блокирај искачуће прозоре
     .accesskey = ч
