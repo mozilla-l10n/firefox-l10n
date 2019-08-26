@@ -28,6 +28,8 @@ tracker-tab-title = Tetepy mo’ãha
 fingerprinter-tab-title = Ñemokuãhũ
 cryptominer-tab-title = Criptomineros
 lockwise-title-logged-in = { -lockwise-brand-name }
+turn-on-sync = Emyandy { -sync-brand-short-name }...
+    .title = Eho ñembojuehe erohoryvévape
 manage-devices = Eñangareko mba’e’okáre
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
