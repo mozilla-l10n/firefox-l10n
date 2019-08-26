@@ -82,6 +82,27 @@ cfr-whatsnew-button =
     .label = Hva er nytt
     .tooltiptext = Hva er nytt
 cfr-whatsnew-panel-header = Hva er nytt
+cfr-whatsnew-release-notes-link-text = Les utgivelsesnotatene
+cfr-whatsnew-tracking-protect-title = Beskytt deg mot sporere
+cfr-whatsnew-tracking-protect-link-text = Vis din rapport
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Sporer blokkert
+       *[other] Sporere blokkert
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Siden { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Vis rapport
+cfr-whatsnew-lockwise-backup-title = Ta sikkerhetskopi av passordene dine
+cfr-whatsnew-lockwise-backup-body = Nå kan du genere sikre passord du får tilgang til hvor som helst du logger inn.
+cfr-whatsnew-lockwise-backup-link-text = Slå på sikkerhetskopier
+cfr-whatsnew-lockwise-take-title = Ta med deg dine passord
+cfr-whatsnew-lockwise-take-body =
+    Mobilappen { -lockwise-brand-short-name } lar deg få tilgang til dine
+    sikkerhetskopierte passord hvor som helst.
+cfr-whatsnew-lockwise-take-link-text = Last ned appen
 
 ## Bookmark Sync
 
