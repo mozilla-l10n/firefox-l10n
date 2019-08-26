@@ -148,7 +148,7 @@ newtab-section-expand-section-label =
 
 ## Section Headers.
 
-newtab-section-header-topsites = Mest besøkte nettsider
+newtab-section-header-topsites = Mest besøkte nettstadar
 newtab-section-header-highlights = Høgdepunkt
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
