@@ -111,6 +111,10 @@ cfr-whatsnew-lockwise-backup-title = Utwórz kopię zapasową haseł
 cfr-whatsnew-lockwise-backup-body = Teraz generuj bezpiecznie hasła, do których masz dostęp wszędzie, gdzie się zalogujesz.
 cfr-whatsnew-lockwise-backup-link-text = Włącz kopię zapasową
 cfr-whatsnew-lockwise-take-title = Miej hasła zawsze przy sobie
+cfr-whatsnew-lockwise-take-body =
+    Aplikacja { -lockwise-brand-short-name } na telefon daje bezpieczny dostęp
+    do haseł zachowanych w kopii zapasowej z dowolnego miejsca.
+cfr-whatsnew-lockwise-take-link-text = Pobierz aplikację
 
 ## Bookmark Sync
 
