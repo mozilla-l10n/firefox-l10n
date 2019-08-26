@@ -71,6 +71,12 @@ serviceworker-empty-suggestions-debugger = Mag-step through sa iyong mga Service
 serviceworker-empty-suggestions-aboutdebugging = Mag-inspect ng mga Service Worker sa ibang mga domain. <a>Buksan ang about:debugging</a>
 # Header for the view of Manifest displayed in the application panel for the current page.
 manifest-view-header = App Manifest
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Mga Error at Warning
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Identity
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Presentation
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = Mga icon
 # Text displayed while we are loading the manifest file
