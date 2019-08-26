@@ -882,6 +882,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "Toevoegen aan bladwijzers">
 
 <!ENTITY activity_stream_signin_title "Welkom bij &brandShortName;">
+<!ENTITY activity_stream_signin_description "Start met synchroniseren van bladwijzers, wachtwoorden en meer met uw Firefox-account.">
 <!ENTITY activity_stream_signin_button "Aanmelden">
 <!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
 These labels are shown in the Activity Stream recommending the user to sign in. -->
