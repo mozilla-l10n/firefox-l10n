@@ -15,15 +15,15 @@ error-title-text = B'a'n etule' Xaaol!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = Tul kuq'elu ex tuk b'anla txeechil as tuk' chit qaama!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
-error-long-desc1 = U tootzib'al  uma'l u  Robot  as jit iyansal u xa'ole la ib'ane'.
+error-long-desc1 = U robot ye' la uch iyansat uma'l xaaol jit, ti'e' uva' ye' koj ni tiinsa tib' as nikuxh b'anat va'lexh unpajte.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = Kam kuxh kam ilel ta'n unq'a robote'  ve  ni kuxh ni pal  tu kuvi'.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
-error-long-desc3 = Amoole unq'a robote  va as  la uch a saach s-tuk'.
+error-long-desc3 = Amoole' unq'a robote' vaa' as  la uch asaach s-tuk'.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
-error-long-desc4 = Ti iq'ul unq'a robore vaa as b'anel  tuk' uma'l u  txilq'achla  kam as ye'  la uch ikampe'.
+error-long-desc4 = U ti' iqul unq'a robote'  b'anel  tuk' txilq'a'mla ch'ich' uva' ni kuxh la uch iqaple'
 # TV: Battlestar Galactica (2004 series). From the opening text.
-error-trailer-desc-text = as at uma'l taq'on.
+error-trailer-desc-text = As at uma'l taq'on.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
-error-try-again = La ka'pu unpajte'
-    .label2 = B'an b'anil ye'  ilaa u tal botone'  ti ka'pa.
+error-try-again = La ka'pu unpajte
+    .label2 = B'an b'a'nil ye'  ilaa u tal botone'  ti ka'pa.
