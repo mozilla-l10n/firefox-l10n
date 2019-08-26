@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "לא כרגע">
 <!ENTITY firstrun_button_next "הבא">
 
+<!ENTITY firstrun_signin_button2 "כניסה">
+
 <!ENTITY firstrun_tabqueue_title "קישורים">
 
 <!ENTITY firstrun_readerview_title "כתבות">
@@ -878,6 +880,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "‏‏זמין במצב לא מקוון">
 <!ENTITY helper_triple_readerview_open_message "ניתן להוסיף סימנייה של פריטי תצוגת הקריאה כדי לקרוא אותם ללא חיבור לאינטרנט.">
 <!ENTITY helper_triple_readerview_open_button "הוספה לסימניות">
+
+<!ENTITY activity_stream_signin_title "ברוכים הבאים אל &brandShortName;">
+<!ENTITY activity_stream_signin_button "כניסה">
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "אתרים מובילים">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
