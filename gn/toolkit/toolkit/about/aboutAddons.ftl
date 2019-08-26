@@ -98,9 +98,11 @@ detail-private-browsing-description2 = Oñemoneĩ vove, pe jepysokue ikatu oike 
 # cannot be overridden by the user.
 detail-private-disallowed-label = Noñemoneĩri ovetã ñemíme
 detail-private-disallowed-description = Ko jepysokue nomba’apói eikundaha ñemigua jave. <label data-l10n-name="detail-private-browsing-learn-more">Eikuaave</label>
+detail-private-disallowed-description2 = Ko jepysokue ndoikói kundaha ñemíme. <a data-l10n-name="learn-more">Eikuaave</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Oikotevẽ ovetã ñemíme jeike
 detail-private-required-description = Ko jepysokue oikekuaa neremboapópe eike javegua eikundaha ñemigua jave. <label data-l10n-name="detail-private-browsing-learn-more">Eikuaave</label>
+detail-private-required-description2 = Ko jepysokue oikekuaa ne rembiapo ñandutípe eikundaha ñeminguévo. <a data-l10n-name="learn-more">Eikuaave</a>
 detail-private-browsing-on =
     .label = Moneĩ
     .tooltiptext = Embojuruja kundaha ñemíme
@@ -249,6 +251,12 @@ shortcuts-modifier-other = Emoinge Ctrl or Alt
 shortcuts-invalid = Ñembojopyru ndoikóiva
 shortcuts-letter = Ehai peteĩ tai
 shortcuts-system = Ndaikatúi eipe’a peteĩ mbopya’eha { -brand-short-name } mba’éva
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Jeike pya’eha imokõiva
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = Pe { $shortcut } ojepuruhína mbopya’eháramo heta jey. Pe jeike pya’eha ikõiva ikatu ojapo mba’e eha’arõ’ỹva.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -285,6 +293,10 @@ install-theme-button = Emohenda téma
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Ñangareko
 find-more-addons = Ehekave moimbaha
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Jeporavorãve
 
 ## Add-on actions
 
@@ -355,6 +367,11 @@ install-update-button = Mohekopyahu
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Emoneĩ ovetã ñemíme
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Ovetã ñemíme moneĩmbyre
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Hendy jave, pe jepysokue ikatu oike ejapóva guivépe eikundaha ñemi aja. <a data-l10n-name="learn-more">Eikuaave</a>
 addon-detail-private-browsing-allow = Moneĩ
 addon-detail-private-browsing-disallow = Ani emoneĩ
@@ -363,6 +380,11 @@ addon-detail-private-browsing-disallow = Ani emoneĩ
 addon-badge-recommended =
     .title = Je'eporãpyre
     .alt = Je'eporãpyre
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } omoneĩ jepysokue oguerekóva tekorosã ha tembiapokue
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Ñembohekopyahu eipurukuaáva
 recent-updates-heading = Mohekopyahu ramoveguáva
 release-notes-loading = Henyhẽhína…
