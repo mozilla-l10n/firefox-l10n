@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-url-classifier-search-title = Chuka
-url-classifier-search-input = URL
-url-classifier-success = b'a'xi ya
+
+## Strings used for device manager
+
+devmgr-button-login =
+    .label = Ixe't aq'on
+    .accesskey = n
+
+## Strings used for load device
+
+
+## Token Manager
+

@@ -30,6 +30,7 @@ restore-page-close-button =
 ## The following strings are used in about:welcomeback
 
 welcome-back-tab-title = ¡B'a'xi ya!
+welcome-back-page-title = ¡B'a'xi ya!
 welcome-back-page-info = { -brand-short-name }b'anel ve't uche.
 welcome-back-restore-all-label = Q'aavisal ti iqul  jank'al unq'a aq'one ve jajelkan.
 welcome-back-restore-some-label = Q'aavisa ti iqul akuxh uve   ni tal aama.
