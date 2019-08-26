@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Ne zdaj">
 <!ENTITY firstrun_button_next "Naprej">
 
+<!ENTITY firstrun_signin_button2 "Prijava">
+
 <!ENTITY firstrun_tabqueue_title "Povezave">
 
 <!ENTITY firstrun_readerview_title "Članki">
@@ -878,6 +880,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Na voljo brez povezave">
 <!ENTITY helper_triple_readerview_open_message "Dodajte predmete bralnega pogleda med zaznamke za branje brez povezave.">
 <!ENTITY helper_triple_readerview_open_button "Dodaj med zaznamke">
+
+<!ENTITY activity_stream_signin_title "Dobrodošli v &brandShortName;u">
+<!ENTITY activity_stream_signin_button "Prijava">
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "Glavne strani">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
