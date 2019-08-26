@@ -27,13 +27,17 @@ protection-header-details-custom = Suojaustasoksi on asetettu <b>oma</b>
 protection-report-page-title = Yksityisyyden suojaukset
 protection-report-content-title = Yksityisyyden suojaukset
 etp-card-title = Tehostettu seurannan suojaus
+etp-card-content = Seuraimet seuraavat sinua verkossa ja keräävät tietoja selaustapoihisi ja kiinnostuksen kohteisiisi liittyen. { -brand-short-name } estää monet näistä seuraimista ja muita haitallisia komentosarjoja.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Tänään
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Kuvaaja sisältäen jokaisen tällä viikolla estetyn seuraintyypin määrän.
 social-tab-title = Sosiaalisen median seuraimet
 cookie-tab-title = Sivustorajat ylittävät seurainevästeet
 tracker-tab-title = Seurantaan tarkoitettu sisältö
 fingerprinter-tab-title = Yksilöijät
+fingerprinter-tab-content = Yksilöijät keräävät asetustietoja selaimestasi sekä tietokoneestasi ja luovat näiden tietojen avulla profiilin sinusta. Tätä digitaalista sormenjälkeä hyödyntämällä sinua voidaan seurata eri verkkosivustojen välillä. <a data-l10n-name="learn-more-link">Lue lisää</a>
 cryptominer-tab-title = Kryptolouhijat
 cryptominer-tab-content = Kryptolouhijat käyttävät tietokoneesi laskentatehoa digitaalisen rahan louhintaan. Kryptolouhintaan tarkoitetut komentosarjat kuluttavat tietokoneen akkua, hidastavat tietokonetta ja voivat vaikuttaa sähkölaskun loppusummaan. <a data-l10n-name="learn-more-link">Lue lisää</a>
 lockwise-title = Lopeta salasanojen unohtaminen

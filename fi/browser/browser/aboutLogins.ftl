@@ -15,6 +15,11 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Etsi kirjautumistietoja
 create-login-button = Luo uusi kirjautumistieto
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon sivustolle { $title }
 fxaccounts-sign-in-text = Käytä salasanojasi kaikilla laitteillasi
 fxaccounts-sign-in-button = Kirjaudu { -sync-brand-short-name }-palveluun
 fxaccounts-avatar-button =
