@@ -60,6 +60,8 @@
 
 <!ENTITY throbber.tooltip             "Gå til hjemmesiden til &vendorShortName;">
 
+<!ENTITY throbber.tooltip2            "Gå til hjemmesiden til &brandShortName;">
+
 <!ENTITY locationBar.tooltip          "Skriv inn et søkeord, nøkkelord eller en nettadresse her">
 <!ENTITY locationBar.accesskey        "d">
 <!ENTITY locationBar.title            "Adresse">
