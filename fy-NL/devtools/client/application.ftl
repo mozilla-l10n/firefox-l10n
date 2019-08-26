@@ -69,6 +69,16 @@ serviceworker-empty-suggestions-debugger = Stap tooch jo registraasje fan de Ser
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Ynspektearje Service Workers fan oare domeinen. <a>about:debugging iepenje</a>
+# Header for the view of Manifest displayed in the application panel for the current page.
+manifest-view-header = App-manifest
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Flaters en warskôgingen
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Identiteit
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Presintaasje
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Piktogrammen
 # Text displayed while we are loading the manifest file
 manifest-loading = Manifest lade…
 # Text displayed when the manifest has been successfully loaded
