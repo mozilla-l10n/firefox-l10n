@@ -97,7 +97,7 @@ cfr-whatsnew-tracking-blocked-subtitle = Siden { DATETIME($earliestDate, month: 
 cfr-whatsnew-tracking-blocked-link-text = Vis rapport
 cfr-whatsnew-lockwise-backup-title = Ta sikkerhetskopi av passordene dine
 cfr-whatsnew-lockwise-backup-body = Nå kan du genere sikre passord du får tilgang til hvor som helst du logger inn.
-cfr-whatsnew-lockwise-backup-link-text = Slå på sikkerhetskopier
+cfr-whatsnew-lockwise-backup-link-text = Slå på sikkerhetskopiering
 cfr-whatsnew-lockwise-take-title = Ta med deg dine passord
 cfr-whatsnew-lockwise-take-body =
     Mobilappen { -lockwise-brand-short-name } lar deg få tilgang til dine
