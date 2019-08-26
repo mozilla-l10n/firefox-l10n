@@ -83,6 +83,9 @@ cfr-whatsnew-button =
     .tooltiptext = Hva er nytt
 cfr-whatsnew-panel-header = Hva er nytt
 cfr-whatsnew-release-notes-link-text = Les utgivelsesnotatene
+cfr-whatsnew-fx70-body =
+    Den siste oppdateringen forbedrer sporingsbeskyttelsesfunksjonen og gjør det
+    enklere enn noen gang å lage sikre passord for hvert nettsted.
 cfr-whatsnew-tracking-protect-title = Beskytt deg mot sporere
 cfr-whatsnew-tracking-protect-link-text = Vis din rapport
 # This string is displayed before a large numeral that indicates the total
