@@ -91,6 +91,9 @@ cfr-doorhanger-sync-bookmarks-ok-button = Buksan ang { -sync-brand-short-name }
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Huwag nang Muling Makalimot ng Password
+cfr-doorhanger-sync-logins-ok-button = Buksan ang { -sync-brand-short-name }
+    .accesskey = T
 
 ## Send Tab
 
