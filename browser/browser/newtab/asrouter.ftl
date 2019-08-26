@@ -73,6 +73,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Selaa ilman seurantaa
+cfr-protections-panel-body = Pidä tietosi itselläsi. { -brand-short-name } suojaa sinua useimmilta yleisimmiltä tekemisiäsi verkossa jäljittäviltä seuraimilta.
 cfr-protections-panel-link-text = Lue lisää
 
 ## What's New toolbar button and panel
@@ -91,6 +92,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = Ota { -sync-brand-short-name } käytt�
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Lopeta salasanojen unohtaminen
+cfr-doorhanger-sync-logins-body = Talleta ja synkronoi salasanasi turvallisesti kaikkien laitteidesi välillä.
 cfr-doorhanger-sync-logins-ok-button = Ota { -sync-brand-short-name } käyttöön
     .accesskey = O
 
@@ -102,5 +104,6 @@ cfr-doorhanger-send-tab-recipe-header = Vie tämä resepti keittiöön
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Jaa tämä PDF turvallisesti
+cfr-doorhanger-firefox-send-body = Pidä arkaluonteiset asiakirjasi turvassa uteliailta silmiltä käyttämällä läpisalausta ja automaattisesti vanhenevaa linkkiä.
 cfr-doorhanger-firefox-send-ok-button = Kokeile { -send-brand-name }-palvelua
     .accesskey = K
