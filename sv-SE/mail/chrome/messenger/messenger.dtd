@@ -706,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Spara sökning som en mapp…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Välj meddelanden">
 <!ENTITY threadColumn.label "Tråd">
 <!ENTITY fromColumn.label "Från">
 <!ENTITY recipientColumn.label "Mottagare">
@@ -729,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Välj kolumner att visa">
+<!ENTITY selectColumn.tooltip "Växla välj alla meddelanden">
 <!ENTITY threadColumn2.tooltip "Visa meddelandetrådar">
 <!ENTITY fromColumn2.tooltip "Sortera efter avsändare">
 <!ENTITY recipientColumn2.tooltip "Sortera efter mottagare">

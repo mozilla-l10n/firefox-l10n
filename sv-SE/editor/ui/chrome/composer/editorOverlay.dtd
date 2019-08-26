@@ -307,6 +307,7 @@
 <!ENTITY TextColorButton.tooltip "Välj färg för texten">
 <!ENTITY BackgroundColorButton.tooltip "Välj färg för bakgrunden">
 <!ENTITY throbber.tooltip "Gå till &vendorShortName;s webbplats">
+<!ENTITY throbber.tooltip2 "Gå till &brandShortName; hemsida">
 <!ENTITY HighlightColorButton.tooltip "Välj markeringsfärg för text">
 
 <!-- Editor toolbar -->
