@@ -14,12 +14,6 @@ about-service-workers-warning-no-service-workers = Walang Serbisyong Manggagawa 
 # Variables:
 #   $originTitle: original title
 origin-title = Pinagmulan: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } Application ID { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -38,4 +32,4 @@ push-end-point-result = <strong>Itulak sa Endpoint:</strong> { $name }
 update-button = Pagsasangayon
 unregister-button = Hindi nairehisto
 unregister-error = Nabigo sa pag bura ng rehistro sa Service Worker na ito.
-waiting = Haghihintay…
+waiting = Naghihintay…
