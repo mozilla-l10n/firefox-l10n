@@ -67,7 +67,7 @@ lockwise-sync-status =
        *[other] { $count } cihazla eşitleniyor
     }
 lockwise-sync-not-syncing = Diğer cihazlarla eşitlenmiyor.
-monitor-title = Veri hırsızlıklarından haberin olsun
+monitor-title = Veri hırsızlıklarından haberiniz olsun
 monitor-link = Nasıl çalışır?
 monitor-header-content-logged-in = Bilgileriniz bilinen bir veri ihlalinde yer alırsa { -monitor-brand-name } sizi uyarır
 monitor-sign-up = İhlal uyarılarına kaydolun
