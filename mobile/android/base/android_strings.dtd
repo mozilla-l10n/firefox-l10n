@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Niet nu">
 <!ENTITY firstrun_button_next "Volgende">
 
+<!ENTITY firstrun_signin_button2 "Aanmelden">
+
 <!ENTITY firstrun_tabqueue_title "Koppelingen">
 
 <!ENTITY firstrun_readerview_title "Artikelen">
@@ -878,6 +880,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Offline beschikbaar">
 <!ENTITY helper_triple_readerview_open_message "Maak bladwijzers voor lezerweergave-items om ze offline te lezen.">
 <!ENTITY helper_triple_readerview_open_button "Toevoegen aan bladwijzers">
+
+<!ENTITY activity_stream_signin_title "Welkom bij &brandShortName;">
+<!ENTITY activity_stream_signin_button "Aanmelden">
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "Topwebsites">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
