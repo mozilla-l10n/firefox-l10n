@@ -77,7 +77,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Przeglądaj bez wścibskich oczu
-cfr-protections-panel-body = Zachowaj prywatność swoich danych. { -brand-short-name } chroni Cię przed wieloma najpopularniejszymi elementami śledzącymi, które monitorują, co robisz w Internecie.
+cfr-protections-panel-body = Zachowaj prywatność swoich danych. { -brand-short-name } chroni Cię przed wieloma najczęściej występującymi elementami śledzącymi, które monitorują, co robisz w Internecie.
 cfr-protections-panel-link-text = Więcej informacji
 
 ## What's New toolbar button and panel
@@ -86,6 +86,25 @@ cfr-whatsnew-button =
     .label = Co nowego
     .tooltiptext = Co nowego
 cfr-whatsnew-panel-header = Co nowego
+cfr-whatsnew-release-notes-link-text = Przeczytaj informacje o wydaniu
+cfr-whatsnew-fx70-title = { -brand-short-name } walczy teraz o Twoją prywatność
+cfr-whatsnew-fx70-body =
+    Najnowsza aktualizacja wzmacnia ochronę przed śledzeniem i sprawia,
+    że generowanie bezpiecznych haseł dla każdej witryny jest łatwiejsze niż kiedykolwiek.
+cfr-whatsnew-tracking-protect-title = Zabezpiecz się przed elementami śledzącymi
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } blokuje wiele najczęściej występujących elementów śledzących serwisów społecznościowych
+    oraz śledzących między witrynami, które monitorują, co robisz w Internecie.
+cfr-whatsnew-tracking-protect-link-text = Wyświetl raport
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] zablokowany element śledzący
+        [few] zablokowane elementy śledzące
+       *[many] zablokowanych elementów śledzących
+    }
 
 ## Bookmark Sync
 
