@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Nguồn dữ liệu ping:
 about-telemetry-show-current-ping-data = Dữ liệu ping hiện tại
+about-telemetry-show-current-data = Dữ liệu hiện tại
 about-telemetry-show-archived-ping-data = Dữ liệu ping đă lưu trữ
 about-telemetry-show-subsession-data = Hiển thị dữ liệu phụ
 about-telemetry-choose-ping = Chọn ping:
@@ -129,3 +130,6 @@ about-telemetry-object-header = đối tượng
 about-telemetry-extra-header = thêm
 about-telemetry-origin-origin = gốc
 about-telemetry-origin-count = đếm
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process } tiến trình
