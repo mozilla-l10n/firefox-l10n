@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Niet nu">
 <!ENTITY firstrun_button_next "Folgjende">
 
+<!ENTITY firstrun_signin_button2 "Oanmelde">
+
 <!ENTITY firstrun_tabqueue_title "Keppelingen">
 
 <!ENTITY firstrun_readerview_title "Artikelen">
@@ -878,6 +880,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Offline beskikber">
 <!ENTITY helper_triple_readerview_open_message "Meitsje blêdwizers foar lêzerwerjefte-items om se offline te lêzen.">
 <!ENTITY helper_triple_readerview_open_button "Tafoegje oan blêdwizers">
+
+<!ENTITY activity_stream_signin_title "Wolkom by &brandShortName;">
+<!ENTITY activity_stream_signin_description "Start mei syngronisearjen fan blêdwizers, wachtwurden en mear mei jo Firefox-account.">
+<!ENTITY activity_stream_signin_button "Oanmelde">
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "Topwebsites">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
