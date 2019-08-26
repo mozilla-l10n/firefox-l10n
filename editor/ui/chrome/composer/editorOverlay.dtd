@@ -307,6 +307,7 @@
 <!ENTITY TextColorButton.tooltip "Tekstkleur kieze">
 <!ENTITY BackgroundColorButton.tooltip "Eftergrûnkleur kieze">
 <!ENTITY throbber.tooltip "Gean nei de thússide fan &vendorShortName;">
+<!ENTITY throbber.tooltip2 "Gean nei de thússide fan &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Markearringskleur foar tekst kieze">
 
 <!-- Editor toolbar -->
