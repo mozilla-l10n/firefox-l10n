@@ -9,11 +9,11 @@
 ### but well-known robots in movies and books. Be creative with translations!
 
 # Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
-page-title = B'a'n etule', xa'ol!
+page-title = B'a'n etule', xaaol!
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
-error-title-text = B'a'n etule' Xa'ol!
+error-title-text = B'a'n etule' Xaaol!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
-error-short-desc-text = Kuq'elu ex tuk' b'anla txeechil as tuk' chit qaama.
+error-short-desc-text = Tul kuq'elu ex tuk b'anla txeechil as tuk' chit qaama!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = U tootzib'al  uma'l u  Robot  as jit iyansal u xa'ole la ib'ane'.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
@@ -24,3 +24,6 @@ error-long-desc3 = Amoole unq'a robote  va as  la uch a saach s-tuk'.
 error-long-desc4 = Ti iq'ul unq'a robore vaa as b'anel  tuk' uma'l u  txilq'achla  kam as ye'  la uch ikampe'.
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = as at uma'l taq'on.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = La ka'pu unpajte'
+    .label2 = B'an b'anil ye'  ilaa u tal botone'  ti ka'pa.
