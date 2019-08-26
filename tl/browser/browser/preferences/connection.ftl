@@ -57,7 +57,7 @@ connection-proxy-noproxy-desc = Halimbawa: .mozilla.org, .net.nz, 192.168.1.0/24
 # Do not translate localhost, 127.0.0.1 and ::1.
 connection-proxy-noproxy-localhost-desc = Hindi napo-proxy ang mga connection sa localhost, 127.0.0.1, at ::1.
 connection-proxy-autotype =
-    .label = Awtomatikong proxy configuration URL
+    .label = Automatic proxy configuration URL
     .accesskey = A
 connection-proxy-reload =
     .label = I-reload

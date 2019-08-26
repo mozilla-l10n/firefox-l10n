@@ -73,7 +73,7 @@ monitor-link = Paano ito gumagana
 monitor-header-content = Tingnan ang { -monitor-brand-name } para malaman kung ikaw ay naging parte ng isang data breach at maalerto sa mga bagong breach.
 monitor-header-content-logged-in = Binabalaan ka ng { -monitor-brand-name } kung lumabas ang impormasyon mo sa isang kilalang data breach
 monitor-sign-up = Mag-sign Up para sa mga Breach Alert
-auto-scan = Awtomatikong na-scan ngayon
+auto-scan = Kusang na-scan ngayon
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.

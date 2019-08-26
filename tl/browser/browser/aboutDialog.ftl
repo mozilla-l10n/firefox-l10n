@@ -9,7 +9,7 @@ update-checkForUpdatesButton =
     .label = Magsiyasat ng mga pagbabago
     .accesskey = C
 update-updateButton =
-    .label = I-restart upang i-update ang { -brand-shorter-name }
+    .label = I-restart para ma-update ang { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Naghahanap ng mga update...
 update-downloading = <img data-l10n-name="icon"/>Nagda-download ng update — <label data-l10n-name="download-status"/>

@@ -257,7 +257,7 @@ drm-content-header = Nilalaman ng Digital Rights Management (DRM)
 play-drm-content =
     .label = I-play ang DRM na kontroladong nilalaman
     .accesskey = P
-play-drm-content-learn-more = Karagdagang kaalaman
+play-drm-content-learn-more = Alamin
 update-application-title = Mga update ng { -brand-short-name }
 update-application-description = Panatilihing updated ang { -brand-short-name } para sa pinakamahusay na pagtakbo, katatagan, at seguridad.
 update-application-version = Bersyon { $version } <a data-l10n-name="learn-more">Ano ang bago?</a>
@@ -266,7 +266,7 @@ update-history =
     .accesskey = p
 update-application-allow-description = Payagan ang { -brand-short-name } na
 update-application-auto =
-    .label = Awtomatikong iinstall ang mga update (rekomendado)
+    .label = Kusang mag-install ng mga update (inirerekomenda)
     .accesskey = A
 update-application-check-choose =
     .label = I-check kung may mga update, subalit hayaan ka kung i-install ang mga ito
@@ -666,7 +666,7 @@ sitedata-total-size-calculating = Kinakalkula ang site data at cache size...
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Ikaw ay nagstore ng cookies, site data at cache ay kasalukuyang gumagamit ng { $value } { $unit } ng disk space.
-sitedata-learn-more = Karagdagang kaalaman
+sitedata-learn-more = Alamin
 sitedata-delete-on-close =
     .label = Burahin ang mga cookie at site data kapag sinarado ang { -brand-short-name }
     .accesskey = c
@@ -811,12 +811,12 @@ permissions-notification = Mga Abiso
 permissions-notification-settings =
     .label = Mga Setting…
     .accesskey = t
-permissions-notification-link = Karagdagang kaalaman
+permissions-notification-link = Alamin
 permissions-notification-pause =
     .label = I-pause ang mga notification hanggang sa i-restart ang { -brand-short-name }
     .accesskey = n
 permissions-block-autoplay-media2 =
-    .label = Harangin ang mga website mula sa awtomatikong pag-play ng tunog
+    .label = Harangin ang mga website mula sa kusang pagpapaandar ng tunog
     .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = mga Execption
@@ -850,7 +850,7 @@ collection-privacy-notice = Abiso pang Sarilinan
 collection-health-report =
     .label = Payagan ang { -brand-short-name } na magpadala ng data ng teknikal at pakikipag-ugnayan sa { -vendor-short-name }
     .accesskey = r
-collection-health-report-link = Karagdagang kaalaman
+collection-health-report-link = Alamin
 collection-studies =
     .label = Payagan ang { -brand-short-name } na mag-install at mag-run ng studies
 collection-studies-link = I-view ang studies ng { -brand-short-name }
@@ -863,7 +863,7 @@ collection-health-report-disabled = Hindi pinagana ang pag-uulat ng data para sa
 collection-backlogged-crash-reports =
     .label = Payagan ang { -brand-short-name } na magpadala ng mga naka-backlog na crash report para sa iyo
     .accesskey = c
-collection-backlogged-crash-reports-link = Karagdagang kaalaman
+collection-backlogged-crash-reports-link = Alamin
 
 ## Privacy Section - Security
 ##
