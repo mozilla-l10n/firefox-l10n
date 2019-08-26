@@ -78,6 +78,7 @@ cfr-whatsnew-button =
     .label = Не жаңалық
     .tooltiptext = Не жаңалық
 cfr-whatsnew-panel-header = Не жаңалық
+cfr-whatsnew-tracking-blocked-link-text = Есептемені қарау
 
 ## Bookmark Sync
 
