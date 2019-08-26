@@ -327,6 +327,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Tìm kiếm văn bản khi bạn bắt đầu nhập
     .accesskey = x
+browsing-picture-in-picture-learn-more = Tìm hiểu thêm
 browsing-cfr-recommendations =
     .label = Đề xuất tiện ích mở rộng khi duyệt
     .accesskey = R
