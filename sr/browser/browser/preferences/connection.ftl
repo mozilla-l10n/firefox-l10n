@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Нема проксија за
     .accesskey = н
 connection-proxy-noproxy-desc = Пример: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Везе ка localhost-у, 127.0.0.1 и ::1 никада не пролазе кроз прокси.
 connection-proxy-autotype =
     .label = Аутоматско подешавање проксија URL
     .accesskey = А
@@ -70,12 +72,8 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Омогући DNS путем HTTPS
     .accesskey = О
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Користи подразумевани ({ $url })
-    .accesskey = К
-    .tooltiptext = Користи подразумевану адресу за разрешавање DNS-а преко HTTPS-a
+connection-dns-over-https-url-resolver = Користи достављача
+    .accesskey = т
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
@@ -85,3 +83,4 @@ connection-dns-over-https-url-custom =
     .label = Прилагођено
     .accesskey = П
     .tooltiptext = Унесите жељену адресу за разрешавање DNS-a преко HTTPS-а
+connection-dns-over-https-custom-label = Прилагођено

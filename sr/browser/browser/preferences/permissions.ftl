@@ -39,6 +39,10 @@ permissions-searchbox =
     .placeholder = Претражите веб сајт
 permissions-capabilities-autoplay-allow =
     .label = Дозволи звук и видео
+permissions-capabilities-autoplay-block =
+    .label = Блокирај звук
+permissions-capabilities-autoplay-blockall =
+    .label = Блокирај звук и видео
 permissions-capabilities-allow =
     .label = Дозволи
 permissions-capabilities-block =
@@ -63,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Изузеци - блокирање садржаја
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Онемогућили сте блокирање садржаја на овим веб сајтовима.
+permissions-exceptions-etp-window =
+    .title = Изузеци од побољшане заштите од праћења
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Искључили сте заштиту на овим веб сајтовима.
 
 ## Exceptions - Cookies
 
@@ -101,6 +109,9 @@ permissions-exceptions-autoplay-media-desc2 = Можете одредити ко
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Подешавања - самостално покретање
+    .style = { permissions-window.style }
 permissions-site-autoplay-desc = Овде можете да управљате веб страницама које не прате подразумеване поставке аутоматске репродукције.
 
 ## Site Permissions - Notifications
