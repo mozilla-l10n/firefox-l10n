@@ -58,9 +58,9 @@
 <!ENTITY renameFolder.label "Byt namn på mapp…">
 <!ENTITY renameFolder.accesskey "B">
 <!ENTITY compactFolders.label "Komprimera mappar">
-<!ENTITY compactFolders.accesskey		"K">
+<!ENTITY compactFolders.accesskey "K">
 <!ENTITY emptyTrashCmd.label "Töm papperskorgen">
-<!ENTITY emptyTrashCmd.accesskey		"T">
+<!ENTITY emptyTrashCmd.accesskey "T">
 <!ENTITY offlineMenu.label "Arbeta i nedkopplat läge">
 <!ENTITY offlineMenu.accesskey "i">
 <!ENTITY synchronizeOfflineCmd.label "Hämta/Synkronisera nu…">
@@ -284,23 +284,23 @@
 <!ENTITY newNewMsgCmd.accesskey "M">
 <!ENTITY replyMsgCmd.label "Svara">
 <!ENTITY replyMsgCmd.accesskey "r">
-<!ENTITY replyMsgCmd.key	"r">
+<!ENTITY replyMsgCmd.key "r">
 <!ENTITY replyListCmd.label "Svar till lista">
 <!ENTITY replyListCmd.accesskey "l">
 <!ENTITY replyNewsgroupCmd.label "Svar till diskussionsgruppen">
-<!ENTITY replyNewsgroupCmd.accesskey	"v">
+<!ENTITY replyNewsgroupCmd.accesskey "v">
 <!ENTITY replySenderCmd.label "Svara endast avsändaren">
 <!ENTITY replySenderCmd.accesskey "r">
 <!ENTITY replyToAllMsgCmd.label "Svar till alla">
-<!ENTITY replyToAllMsgCmd.accesskey	"a">
-<!ENTITY replyToAllMsgCmd.key	"r">
+<!ENTITY replyToAllMsgCmd.accesskey "a">
+<!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToSenderAndNewsgroupCmd.label "Svar till avsändaren och gruppen">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "g">
 <!ENTITY replyToAllRecipientsCmd.label "Svar till alla mottagare">
 <!ENTITY replyToAllRecipientsCmd.accesskey "a">
 <!ENTITY forwardMsgCmd.label "Vidarebefordra">
 <!ENTITY forwardMsgCmd.accesskey "i">
-<!ENTITY forwardMsgCmd.key	"l">
+<!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Vidarebefordra som">
 <!ENTITY forwardAsMenu.accesskey "o">
 <!ENTITY forwardAsInline.label "Infogat">
@@ -442,6 +442,7 @@
 <!ENTITY markButton.tooltip "Märk meddelanden">
 <!ENTITY stopButton.tooltip "Avbryt pågående överföring">
 <!ENTITY throbber.tooltip "Gå till &vendorShortName;s webbplats">
+<!ENTITY throbber.tooltip2 "Gå till &brandShortName;s webbplats">
 <!ENTITY junkButton.tooltip "Märk de markerade meddelandena som skräppost">
 <!ENTITY notJunkButton.tooltip "Märk de markerade meddelandena som Ej skräppost">
 
