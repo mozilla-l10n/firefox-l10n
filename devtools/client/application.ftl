@@ -69,6 +69,14 @@ serviceworker-empty-suggestions-debugger = Prestopite registracijo Service Worke
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Preglejte Service Workerje iz ostalih domen. <a>Odpri about:debugging</a>
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Napake in opozorila
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Identiteta
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Predstavitev
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Ikone
 # Text displayed while we are loading the manifest file
 manifest-loading = Nalaganje manifesta …
 # Text displayed when the manifest has been successfully loaded

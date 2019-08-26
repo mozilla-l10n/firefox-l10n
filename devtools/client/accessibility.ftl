@@ -39,3 +39,4 @@ accessibility-text-label-issue-image = Vsebina s slikami mora biti označena. <a
 accessibility-text-label-issue-interactive = Interaktivni elementi morajo biti označeni. <a>Več o tem</a>
 accessibility-text-label-issue-optgroup-label = Uporabite atribut <code>label</code>, da označite elemente <span>optgroup</span>. <a>Več o tem</a>
 accessibility-text-label-issue-optgroup-label2 = Uporabite atribut <code>label</code>, da označite <span>optgroup</span>. <a>Več o tem</a>
+accessibility-text-label-issue-toolbar = Če obstaja več kot ena orodna vrstica, morajo biti orodne vrstice označene. <a>Več o tem</a>

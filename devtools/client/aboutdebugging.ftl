@@ -118,6 +118,9 @@ about-debugging-setup-usb-troubleshoot = Težave pri povezovanju z napravo USB? 
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Lokacija omrežja
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Težave pri povezovanju prek omrežne lokacije? <a>Odpravljanje težav</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Dodaj
