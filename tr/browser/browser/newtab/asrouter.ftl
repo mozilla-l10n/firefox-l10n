@@ -82,6 +82,11 @@ cfr-whatsnew-button =
     .label = Yeni neler var?
     .tooltiptext = Yeni neler var?
 cfr-whatsnew-panel-header = Yeni neler var?
+cfr-whatsnew-release-notes-link-text = Sürüm notlarını okuyun
+cfr-whatsnew-fx70-title = { -brand-short-name } artık gizliliğiniz için daha sıkı çalışıyor
+cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } tarihinden beri
+cfr-whatsnew-lockwise-backup-title = Parolalarınızı yedekleyin
+cfr-whatsnew-lockwise-take-title = Parolalarınızı yanınızda taşıyın
 
 ## Bookmark Sync
 

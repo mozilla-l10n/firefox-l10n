@@ -294,6 +294,10 @@ install-theme-button = Temayı yükle
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Yönet
 find-more-addons = Daha fazla eklenti bul
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Diğer seçenekler
 
 ## Add-on actions
 
@@ -364,6 +368,11 @@ install-update-button = Güncelle
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Gizli pencerelerde izinli
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Gizli pencerelerde izinli
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = İzin verirseniz bu eklenti, gizli gezinti sırasında çevrimiçi etkinliklerinize erişebilir. <a data-l10n-name="learn-more">Daha fazla bilgi alın</a>
 addon-detail-private-browsing-allow = İzin ver
 addon-detail-private-browsing-disallow = İzin verme
