@@ -56,7 +56,7 @@ serviceworker-worker-status-stopped = Zatrzymany
 serviceworker-worker-status-registering = Rejestrowanie…
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = Należy najpierw zarejestrować wątek usługowy, aby mógł być tutaj wyświetlany. <a>Więcej informacji</a>.
+serviceworker-empty-intro = Należy najpierw zarejestrować wątek usługowy, aby mógł być tutaj wyświetlany. <a>Więcej informacji</a>
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 serviceworker-empty-suggestions = Kilka sugestii, których warto spróbować, jeśli obecna strona powinna mieć wątek usługowy:

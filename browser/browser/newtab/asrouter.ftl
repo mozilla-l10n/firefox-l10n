@@ -105,6 +105,12 @@ cfr-whatsnew-tracking-blocked-title =
         [few] zablokowane elementy śledzące
        *[many] zablokowanych elementów śledzących
     }
+cfr-whatsnew-tracking-blocked-subtitle = Od { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Wyświetl raport
+cfr-whatsnew-lockwise-backup-title = Utwórz kopię zapasową haseł
+cfr-whatsnew-lockwise-backup-body = Teraz generuj bezpiecznie hasła, do których masz dostęp wszędzie, gdzie się zalogujesz.
+cfr-whatsnew-lockwise-backup-link-text = Włącz kopię zapasową
+cfr-whatsnew-lockwise-take-title = Miej hasła zawsze przy sobie
 
 ## Bookmark Sync
 
