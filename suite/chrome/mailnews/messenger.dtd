@@ -58,9 +58,9 @@
 <!ENTITY renameFolder.label "Přejmenovat složku…">
 <!ENTITY renameFolder.accesskey "P">
 <!ENTITY compactFolders.label "Provést údržbu složek">
-<!ENTITY compactFolders.accesskey		"b">
+<!ENTITY compactFolders.accesskey "b">
 <!ENTITY emptyTrashCmd.label "Vysypat koš">
-<!ENTITY emptyTrashCmd.accesskey		"y">
+<!ENTITY emptyTrashCmd.accesskey "y">
 <!ENTITY offlineMenu.label "Režim offline">
 <!ENTITY offlineMenu.accesskey "f">
 <!ENTITY synchronizeOfflineCmd.label "Stáhnout/Synchronizovat…">
@@ -284,23 +284,23 @@
 <!ENTITY newNewMsgCmd.accesskey "Z">
 <!ENTITY replyMsgCmd.label "Odpovědět">
 <!ENTITY replyMsgCmd.accesskey "O">
-<!ENTITY replyMsgCmd.key	"r">
+<!ENTITY replyMsgCmd.key "r">
 <!ENTITY replyListCmd.label "Odpovědět do konference">
 <!ENTITY replyListCmd.accesskey "f">
 <!ENTITY replyNewsgroupCmd.label "Odpovědět do skupiny">
-<!ENTITY replyNewsgroupCmd.accesskey	"u">
+<!ENTITY replyNewsgroupCmd.accesskey "u">
 <!ENTITY replySenderCmd.label "Odpovědět pouze odesílateli">
 <!ENTITY replySenderCmd.accesskey "i">
 <!ENTITY replyToAllMsgCmd.label "Odpovědět všem">
-<!ENTITY replyToAllMsgCmd.accesskey	"d">
-<!ENTITY replyToAllMsgCmd.key	"r">
+<!ENTITY replyToAllMsgCmd.accesskey "d">
+<!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToSenderAndNewsgroupCmd.label "Odpovědět odesílateli a do skupiny">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "p">
 <!ENTITY replyToAllRecipientsCmd.label "Odpovědět všem příjemcům">
 <!ENTITY replyToAllRecipientsCmd.accesskey "v">
 <!ENTITY forwardMsgCmd.label "Přeposlat">
 <!ENTITY forwardMsgCmd.accesskey "l">
-<!ENTITY forwardMsgCmd.key	"l">
+<!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Přeposlat jako">
 <!ENTITY forwardAsMenu.accesskey "j">
 <!ENTITY forwardAsInline.label "Vložené">
@@ -442,6 +442,7 @@
 <!ENTITY markButton.tooltip "Označí zprávu">
 <!ENTITY stopButton.tooltip "Ukončí probíhající spojení">
 <!ENTITY throbber.tooltip "Přejde na domovskou stránku aplikace &vendorShortName;">
+<!ENTITY throbber.tooltip2 "Přejde na domovskou stránku aplikace &brandShortName;">
 <!ENTITY junkButton.tooltip "Označí vybrané zprávy jako nevyžádané">
 <!ENTITY notJunkButton.tooltip "Označí vybrané zprávy jako běžné">
 
