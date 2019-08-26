@@ -80,6 +80,10 @@ cfr-whatsnew-button =
     .label = 新版变化
     .tooltiptext = 新版变化
 cfr-whatsnew-panel-header = 新版变化
+cfr-whatsnew-release-notes-link-text = 阅读发行说明
+cfr-whatsnew-tracking-protect-link-text = 查看您的报告
+cfr-whatsnew-tracking-blocked-link-text = 查看报告
+cfr-whatsnew-lockwise-take-link-text = 获取应用
 
 ## Bookmark Sync
 
