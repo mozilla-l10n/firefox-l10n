@@ -103,9 +103,11 @@ detail-private-browsing-description2 = Wanneer toegestaan, heeft de extensie toe
 # cannot be overridden by the user.
 detail-private-disallowed-label = Niet toegestaan in privévensters
 detail-private-disallowed-description = Deze extensie werkt niet tijdens privénavigatie. <label data-l10n-name="detail-private-browsing-learn-more">Meer info</label>
+detail-private-disallowed-description2 = Deze extensie wordt tijdens privénavigatie niet uitgevoerd. <a data-l10n-name="learn-more">Meer info</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Vereist toegang tot privévensters
 detail-private-required-description = Deze extensie heeft toegang tot uw online-activiteiten tijdens privénavigatie. <label data-l10n-name="detail-private-browsing-learn-more">Meer info</label>
+detail-private-required-description2 = Deze extensie heeft tijdens privénavigatie toegang tot uw online-activiteiten. <a data-l10n-name="learn-more">Meer info</a>
 detail-private-browsing-on =
     .label = Toestaan
     .tooltiptext = Inschakelen in privénavigatie
