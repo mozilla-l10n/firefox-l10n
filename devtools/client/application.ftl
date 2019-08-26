@@ -22,7 +22,7 @@ serviceworker-worker-unregister = Avregistrera
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
-serviceworker-worker-debug = Avlusa
+serviceworker-worker-debug = Felsök
     .title = Enbart service workers som kör kan felsökas
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
@@ -69,5 +69,21 @@ serviceworker-empty-suggestions-debugger = Stega igenom dina registrerade Servic
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Inspektera Service Workers från andra domäner. <a>Öppna about:debugging</a>
-# Text displayed when no manifest was found for the current page.
-manifest-empty-intro = Hittar inget manifest att inspektera.
+# Header for the view of Manifest displayed in the application panel for the current page.
+manifest-view-header = App manifest
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Fel och varningar
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Identitet
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Orientering
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Ikoner
+# Text displayed while we are loading the manifest file
+manifest-loading = Laddar manifest...
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Manifest laddat.
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = Det uppstod ett fel när man laddade manifestet:
+# Text displayed when the page has no manifest available
+manifest-non-existing = Inget manifest hittades för att inspektera.

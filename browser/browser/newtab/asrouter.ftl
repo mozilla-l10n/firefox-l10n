@@ -82,6 +82,34 @@ cfr-whatsnew-button =
     .label = Vad är nytt
     .tooltiptext = Vad är nytt
 cfr-whatsnew-panel-header = Vad är nytt
+cfr-whatsnew-release-notes-link-text = Läs versionsfakta
+cfr-whatsnew-fx70-title = { -brand-short-name } kämpar nu hårdare för din integritet
+cfr-whatsnew-fx70-body =
+    Den senaste uppdateringen förbättrar funktionen Spårningsskydd och gör det
+    lättare än någonsin att skapa säkra lösenord för varje webbplats.
+cfr-whatsnew-tracking-protect-title = Skydda dig från trackers
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } blockerar många vanliga sociala och cross-site trackers som
+    följer vad du gör online.
+cfr-whatsnew-tracking-protect-link-text = Visa din rapport
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Tracker blockerad
+       *[other] Trackers blockerade
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Sedan { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Visa rapport
+cfr-whatsnew-lockwise-backup-title = Säkerhetskopiera dina lösenord
+cfr-whatsnew-lockwise-backup-body = Generera nu säkra lösenord som du kan komma åt var du än loggar in.
+cfr-whatsnew-lockwise-backup-link-text = Slå på säkerhetskopior
+cfr-whatsnew-lockwise-take-title = Ta dina lösenord med dig
+cfr-whatsnew-lockwise-take-body =
+    Mobilappen { -lockwise-brand-short-name } låter dig säkert komma åt din
+    säkerhetskopierade lösenord var som helst.
+cfr-whatsnew-lockwise-take-link-text = Hämta appen
 
 ## Bookmark Sync
 
@@ -93,6 +121,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = Slå på { -sync-brand-short-name }
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Förlora aldrig ett lösenord igen
+cfr-doorhanger-sync-logins-body = Lagra och synkronisera dina lösenord på ett säkert sätt på alla dina enheter.
 cfr-doorhanger-sync-logins-ok-button = Slå på { -sync-brand-short-name }
     .accesskey = S
 
@@ -108,5 +137,5 @@ cfr-doorhanger-send-tab-ok-button = Prova Send Tab
 
 cfr-doorhanger-firefox-send-header = Dela denna PDF säkert
 cfr-doorhanger-firefox-send-body = Håll dina känsliga dokument säkra från nyfikna ögon med end-to-end-kryptering och en länk som försvinner när du är klar.
-cfr-doorhanger-firefox-send-ok-button = Prova{ -send-brand-name }
-    .accesskey = T
+cfr-doorhanger-firefox-send-ok-button = Prova { -send-brand-name }
+    .accesskey = P
