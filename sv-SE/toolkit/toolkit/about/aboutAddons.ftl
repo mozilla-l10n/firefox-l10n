@@ -102,6 +102,7 @@ detail-private-disallowed-description2 = Tillägget körs inte när du surfar pr
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Kräver åtkomst till privata fönster
 detail-private-required-description = Detta tillägg har tillgång till dina onlineaktiviteter medan du surfar. <label data-l10n-name="detail-private-browsing-learn-more">Läs mer</label>
+detail-private-required-description2 = Detta tillägg har tillgång till dina onlineaktiviteter när du surfar privat. <a data-l10n-name="learn-more">Läs mer</a>
 detail-private-browsing-on =
     .label = Tillåt
     .tooltiptext = Aktivera i privat surfning
@@ -383,6 +384,11 @@ addon-detail-private-browsing-disallow = Tillåt inte
 addon-badge-recommended =
     .title = Rekommenderad
     .alt = Rekommenderad
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } rekommenderar endast tillägg som uppfyller våra standarder för säkerhet och prestanda
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Tillgängliga uppdateringar
 recent-updates-heading = Senaste uppdateringar
 release-notes-loading = Laddar…
