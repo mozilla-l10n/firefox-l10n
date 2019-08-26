@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "暂时不要">
 <!ENTITY firstrun_button_next "下一步">
 
+<!ENTITY firstrun_signin_button2 "登录">
+
 <!ENTITY firstrun_tabqueue_title "链接">
 
 <!ENTITY firstrun_readerview_title "文章">
@@ -875,6 +877,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "没网也能读">
 <!ENTITY helper_triple_readerview_open_message "为阅读项目添加书签，没网也能读。">
 <!ENTITY helper_triple_readerview_open_button "添加书签">
+
+<!ENTITY activity_stream_signin_title "欢迎使用 &brandShortName;">
+<!ENTITY activity_stream_signin_description "使用您的 Firefox 账户开始同步书签、历史记录等数据。">
+<!ENTITY activity_stream_signin_button "登录">
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "常用网站">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
