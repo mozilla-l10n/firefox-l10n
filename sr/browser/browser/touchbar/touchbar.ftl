@@ -18,3 +18,4 @@ reader-view = Приказ читача
 open-location = Претражите или унесите адресу
 share = Подели
 close-window = Затвори прозор
+open-sidebar = Бочне траке
