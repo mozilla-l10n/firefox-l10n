@@ -98,6 +98,7 @@ cfr-whatsnew-tracking-blocked-link-text = Marandu’i jehecha
 cfr-whatsnew-lockwise-backup-title = Eñongatujo’a ne ñe’ẽñemi
 cfr-whatsnew-lockwise-backup-link-text = Emyandy ñongatujo’a
 cfr-whatsnew-lockwise-take-title = Egueraha ne ñe’ẽñemi nendive
+cfr-whatsnew-lockwise-take-link-text = Eguereko tembipuru'i
 
 ## Bookmark Sync
 

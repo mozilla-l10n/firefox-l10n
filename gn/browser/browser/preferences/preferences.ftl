@@ -339,6 +339,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Eheka moñe'ẽrã ehaikuévo
     .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = Embojuruja ta’ãngamýi ñangarekoha picture-in-picture
+    .accesskey = E
+browsing-picture-in-picture-learn-more = Kuaave
 browsing-cfr-recommendations =
     .label = Eñe’eporã jepysokue rehe eikumdaha aja
     .accesskey = R
@@ -681,6 +685,8 @@ sitedata-option-block-trackers =
     .label = Mbohapyháva rekaha
 sitedata-option-block-cross-site-trackers =
     .label = Tenda ojoasáva rapykuehóva
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Tenda ha ava ñandutieta rapykuehoha
 sitedata-option-block-unvisited =
     .label = Ñanduto renda kookie ojeike’ỹha
 sitedata-option-block-all-third-party =
@@ -715,6 +721,7 @@ addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu'eha je'epyre momb
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Ejoko tetepy
+content-blocking-enhanced-tracking-protection = Tapykueho mo’ãha iporãvéva
 content-blocking-section-description = Emo’ã nde rekoñemi eikundahakuévo. Ejoko tetepy ohapykuehóva umi tenda eike hague ha ojapo mba’ete. Ejokóvo ndahetái tetepy ikatuhína ombopya’eve kuatiarogue ñemyenyhẽ.
 content-blocking-learn-more = Eikuaave
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
