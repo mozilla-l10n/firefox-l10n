@@ -69,6 +69,10 @@ serviceworker-empty-suggestions-debugger = Mag-step through sa iyong mga Service
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Mag-inspect ng mga Service Worker sa ibang mga domain. <a>Buksan ang about:debugging</a>
+# Header for the view of Manifest displayed in the application panel for the current page.
+manifest-view-header = App Manifest
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Mga icon
 # Text displayed while we are loading the manifest file
 manifest-loading = Niloload ang manifest...
 # Text displayed when the manifest has been successfully loaded

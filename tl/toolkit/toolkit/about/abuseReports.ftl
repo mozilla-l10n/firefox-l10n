@@ -34,6 +34,7 @@ abuse-report-messagebar-submitted-noremove = Salamat sa pagpasa ng ulat.
 abuse-report-messagebar-removed-extension = Salamat sa pagpasa ng ulat. Tinanggal mo na ang extension na <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Salamat sa pagpasa ng ulat. Tinanggal mo na ang tema na <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Nagkaproblema sa pagpasa ng ulat para sa <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-error-recent-submit = Ang ulat para sa <span data-l10n-name="addon-name">{ $addon-name }</span> ay hindi naipadala dahil may isa nang naipadala kamakailan lang.
 
 ## Message bars actions.
 

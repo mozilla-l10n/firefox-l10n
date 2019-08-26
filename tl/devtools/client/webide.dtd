@@ -109,6 +109,7 @@
 <!ENTITY device_typeboolean "Boolean">
 <!ENTITY device_typenumber "Integer">
 <!ENTITY device_typestring "String">
+<!ENTITY device_typeobject "Object">
 <!ENTITY device_typenone "Pumili ng uri">
 
 <!-- Device Preferences -->
