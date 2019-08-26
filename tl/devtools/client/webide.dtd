@@ -40,6 +40,7 @@
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Mga Setting ng Device">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
+<!ENTITY runtimeMenu_showPerformancePanel_label "Performance">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
 <!ENTITY viewMenu_label "Tingnan">
@@ -79,7 +80,9 @@
 <!ENTITY runtimePanel_refreshDevices_label "I-refresh ang mga Device">
 
 <!-- Lense -->
+<!ENTITY details_valid_header "wasto">
 <!ENTITY details_warning_header "mga babala">
+<!ENTITY details_error_header "mga error">
 <!ENTITY details_description "Paglalarawan">
 <!ENTITY details_location "Lokasyon">
 <!ENTITY details_manifestURL "App ID">
@@ -87,6 +90,8 @@
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Bagong App">
+<!ENTITY newAppHeader "Pumili ng template">
+<!ENTITY newAppLoadingTemplate "Naglo-load ng mga template…">
 <!ENTITY newAppProjectName "Ngalan ng Proyekto:">
 
 
@@ -102,8 +107,13 @@
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Pangkalahatan">
 <!ENTITY prefs_restore "Restore Defaults">
+<!ENTITY prefs_options_rememberlastproject "Tandaan ang huling proyekto">
+<!ENTITY prefs_options_rememberlastproject_tooltip "Ibalik ang nakaraang proyekto kapag nagsimula ang WebIDE">
+<!ENTITY prefs_options_templatesurl "Templates URL">
+<!ENTITY prefs_options_templatesurl_tooltip "Index ng mga pwedeng gamiting template">
 
 <!-- Runtime Details -->
+<!ENTITY runtimedetails_title "Runtime Info">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">
@@ -115,12 +125,14 @@
 <!-- Device Preferences -->
 
 <!-- Device Settings -->
+<!ENTITY devicesetting_title "Mga Device Setting">
 <!ENTITY devicesetting_addnew "Magdagdag ng bagong setting">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
+<!ENTITY wifi_auth_header "Client Identification">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
 <!ENTITY wifi_auth_scan_request "Ang endpoint na kinokonektahan mo ay nangangailangan ng karagdagang impormasyon para ma-authenticate ang koneksyon.  Paki-scan ang QR code sa baba gamit ang prompt sa kabilang device mo.">

@@ -120,6 +120,7 @@
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
 <!ENTITY options.usedeveditiontheme.label   "Gamitin ang temang pang-Developer Edition">
+<!ENTITY options.usedeveditiontheme.tooltip "I-toggle ang temang pang-Developer Edition.">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
