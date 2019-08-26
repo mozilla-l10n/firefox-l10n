@@ -32,6 +32,7 @@
 <!ENTITY updatednewfirstrun_signin_button "Accedi a &brandShortName;">
 <!ENTITY onboard_start_button_browser "Inizia a navigare">
 <!ENTITY firstrun_button_notnow "Non adesso">
+<!ENTITY firstrun_signin_button2 "Accedi">
 <!ENTITY firstrun_button_next "Successivo">
 <!ENTITY firstrun_tabqueue_title "Link">
 <!ENTITY firstrun_readerview_title "Articoli">
