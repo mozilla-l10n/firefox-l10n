@@ -89,14 +89,20 @@ cfr-doorhanger-sync-bookmarks-ok-button = চালু করুন { -sync-bran
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = আর কখনও পাসওয়ার্ড হারাবেন না
+cfr-doorhanger-sync-logins-body = নিরাপদভাবে আপনার সকল ডিভাইসে আপনার পাসওয়ার্ড সংরক্ষণ করুন এবং সিঙ্ক করুন।
+cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } চালু করুন
+    .accesskey = T
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = যেতে যেতে এটি পড়ুন
 cfr-doorhanger-send-tab-recipe-header = এই রেসিপিটি রান্নাঘরে নিয়ে যান
 cfr-doorhanger-send-tab-ok-button = ট্যাব প্রেরণ চেষ্টা করুন
     .accesskey = ট
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = নিরাপদে এই PDF টি শেয়ার করুন
 cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } পরখ করুন
     .accesskey = T

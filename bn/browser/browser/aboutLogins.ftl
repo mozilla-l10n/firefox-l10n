@@ -33,6 +33,8 @@ menu-menuitem-preferences =
     }
 menu-menuitem-feedback = প্রতিক্রিয়া জানান
 menu-menuitem-faq = প্রায়শই জিজ্ঞাসিত প্রশ্ন
+menu-menuitem-android-app = Android জন্য { -lockwise-brand-short-name }
+menu-menuitem-iphone-app = iPhone ও iPad এর জন্য { -lockwise-brand-short-name }
 
 ## Login List
 
@@ -53,6 +55,8 @@ login-list-item-subtitle-missing-username = (কোনও ব্যবহার�
 ## Introduction screen
 
 login-intro-heading = আপনার সংরক্ষিত লগইন সন্ধান করছেন? { -sync-brand-short-name } সেট আপ করুন।
+login-intro-instruction-fxa-settings = নিশ্চিত করুন যে আপনি { -sync-brand-short-name } সেটিং এ লগইন চেকবক্সটি নির্বাচন করেছেন
+login-intro-instruction-faq = আরো সহায়তার জন্য { -lockwise-brand-short-name } <a data-l10n-name="faq"> সচরাচর জিজ্ঞাস্য প্রশ্নগুলো দেখুন
 
 ## Login
 
@@ -62,7 +66,6 @@ login-item-delete-button = মুছে ফেলুন
 login-item-origin-label = ওয়েবসাইটের ঠিকানা
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = চালু করুন
 login-item-username-label = ব্যবহারকারীর নাম
 login-item-username =
     .placeholder = name@example.com
@@ -84,6 +87,7 @@ login-item-time-used = সর্বশেষ ব্যবহৃত: { DATETIME($
 
 ## Master Password notification
 
+master-password-notification-message = সংরক্ষিত লগইন এবং পাসওয়ার্ড দেখতে দয়া করে আপনার মাস্টার পাসওয়ার্ড দিন
 master-password-reload-button =
     .label = লগ ইন
     .accesskey = L
