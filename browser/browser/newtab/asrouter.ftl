@@ -80,6 +80,27 @@ cfr-whatsnew-button =
     .label = 有什麼新鮮事
     .tooltiptext = 有什麼新鮮事
 cfr-whatsnew-panel-header = 有什麼新鮮事
+cfr-whatsnew-release-notes-link-text = 閱讀發行公告
+cfr-whatsnew-fx70-title = { -brand-short-name } 現在起為了您的隱私權更加努力
+cfr-whatsnew-fx70-body = 最新版本當中加強了追蹤保護功能，也讓您更簡單就能針對各個網站產生安全的密碼。
+cfr-whatsnew-tracking-protect-title = 保護自己，不被追蹤
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } 會封鎖許多在不同網站間追蹤您的常見社交型及跨網站追蹤器。
+cfr-whatsnew-tracking-protect-link-text = 檢視您的追蹤報告
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+       *[other] 個被封鎖的追蹤器
+    }
+cfr-whatsnew-tracking-blocked-subtitle = 自 { DATETIME($earliestDate, month: "long", year: "numeric") } 起
+cfr-whatsnew-tracking-blocked-link-text = 檢視報告
+cfr-whatsnew-lockwise-backup-title = 備份您的密碼
+cfr-whatsnew-lockwise-backup-body = 可以為任何需要登入的網站產生安全密碼。
+cfr-whatsnew-lockwise-backup-link-text = 開啟備份
+cfr-whatsnew-lockwise-take-title = 密碼隨身帶著走
+cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } 的行動 App 可讓您在任何地方安全地讀取備份下來的密碼。
+cfr-whatsnew-lockwise-take-link-text = 下載 App
 
 ## Bookmark Sync
 
