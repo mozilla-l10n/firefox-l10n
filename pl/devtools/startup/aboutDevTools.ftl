@@ -14,14 +14,14 @@ enable-learn-more-link = Więcej informacji o narzędziach dla programistów
 enable-enable-button = Włącz narzędzia
 enable-close-button = Zamknij tę kartę
 welcome-title = Witamy w narzędziach dla programistów!
-newsletter-title = Newsletter Mozilli dla programistów
+newsletter-title = Biuletyn Mozilli dla programistów
 newsletter-message = Aktualności, wskazówki i inne materiały dla programistów prosto do Twojej skrzynki.
 newsletter-email-placeholder =
     .placeholder = Adres e-mail
 newsletter-privacy-label = Pozwalam Mozilli wykorzystywać te informacje w sposób opisany w <a data-l10n-name="privacy-policy">zasadach ochrony prywatności</a>.
 newsletter-subscribe-button = Subskrybuj
 newsletter-thanks-title = Dziękujemy!
-newsletter-thanks-message = Jeśli jeszcze nigdy nie potwierdzono subskrypcji newslettera Mozilli, to możesz musieć to zrobić. Sprawdź, czy w skrzynce odbiorczej lub niechcianych jest wiadomość od nas.
+newsletter-thanks-message = Jeśli jeszcze nigdy nie potwierdzono subskrypcji biuletynu Mozilli, to możesz musieć to zrobić. Sprawdź, czy w skrzynce odbiorczej lub niechcianych jest wiadomość od nas.
 footer-title = Firefox Developer Edition
 footer-message = Szukasz czegoś więcej niż same narzędzia dla programistów? Wypróbuj przeglądarkę Firefox zbudowaną z myślą o programistach i nowoczesnych narzędziach.
 footer-learn-more-link = Więcej informacji
