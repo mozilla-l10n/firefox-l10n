@@ -7,14 +7,14 @@
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
 <!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 30em;">
 
-<!ENTITY  copy.key              "c">
-<!ENTITY  copy.label            "Kopiera">
-<!ENTITY  copy.accesskey        "K">
-<!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Markera allt">
-<!ENTITY  selectall.accesskey   "M">
-<!ENTITY  openHelpMac.key       "?">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  copy.key               "c">
+<!ENTITY  copy.label             "Kopiera">
+<!ENTITY  copy.accesskey         "K">
+<!ENTITY  selectall.key          "A">
+<!ENTITY  selectall.label        "Markera allt">
+<!ENTITY  selectall.accesskey    "M">
+<!ENTITY  openHelpMac.key        "?">
+<!ENTITY  closeWindow.key        "w">
 <!ENTITY  copyLinks.label           "Kopiera länk(ar)">
 <!ENTITY  copyLinks.accesskey       "l">
 <!ENTITY  openInNewTab.label        "Öppna i en ny flik">
@@ -22,9 +22,8 @@
 <!ENTITY  openInNewWindow.label     "Öppna i ett nytt fönster">
 <!ENTITY  openInNewWindow.accesskey "Ö">
 
-
 <!ENTITY  generalTab            "Allmänt">
-<!ENTITY  generalTab.accesskey      "A">
+<!ENTITY  generalTab.accesskey  "A">
 <!ENTITY  generalURL            "Adress:">
 <!ENTITY  generalType           "Typ:">
 <!ENTITY  generalMode           "Renderingsläge:">
@@ -39,7 +38,7 @@
 <!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  formsTab              "Formulär">
-<!ENTITY  formsTab.accesskey        "F">
+<!ENTITY  formsTab.accesskey    "F">
 <!ENTITY  formAction            "Formuläråtgärd">
 <!ENTITY  formMethod            "Metod">
 <!ENTITY  formName              "Namn">
@@ -52,7 +51,7 @@
 <!ENTITY  formCValue            "Nuvarande värde">
 
 <!ENTITY  linksTab              "Länkar">
-<!ENTITY  linksTab.accesskey        "L">
+<!ENTITY  linksTab.accesskey    "L">
 <!ENTITY  linkName              "Namn">
 <!ENTITY  linkAddress           "Adress">
 <!ENTITY  linkType              "Typ">
@@ -60,9 +59,11 @@
 <!ENTITY  linkAccessKey         "Snabbtangent">
 
 <!ENTITY  mediaTab              "Media">
-<!ENTITY  mediaTab.accesskey        "M">
+<!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaURL              "Adress:">
 <!ENTITY  mediaAlt              "Ersättningstext:">
+<!ENTITY  mediaLocation         "Plats:">
+<!ENTITY  mediaText             "Tillhörande text:">
 <!ENTITY  mediaAltHeader        "Ersättningstext">
 <!ENTITY  mediaAddress          "Adress">
 <!ENTITY  mediaType             "Typ">
@@ -71,6 +72,7 @@
 <!ENTITY  mediaDimensions       "Dimensioner:">
 <!ENTITY  mediaPhysDimensions   "Egentlig storlek:">
 <!ENTITY  mediaTitle            "Titel:">
+<!ENTITY  mediaDimension        "Storlek:">
 <!ENTITY  mediaLongdesc         "Lång beskrivning:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Spara som…">
