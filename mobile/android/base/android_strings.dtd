@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Daha sonra">
 <!ENTITY firstrun_button_next "İleri">
 
+<!ENTITY firstrun_signin_button2 "Giriş yap">
+
 <!ENTITY firstrun_tabqueue_title "Bağlantılar">
 
 <!ENTITY firstrun_readerview_title "Yazılar">
@@ -875,6 +877,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Çevrimdışı okunabilir">
 <!ENTITY helper_triple_readerview_open_message "Çevrimdışı okumak istediğiniz Okuyucu Görünümü öğelerini yer imlerine ekleyin.">
 <!ENTITY helper_triple_readerview_open_button "Yer imlerine git">
+
+<!ENTITY activity_stream_signin_title "&brandShortName; tarayıcısına hoş geldiniz">
+<!ENTITY activity_stream_signin_description "Firefox hesabınızla yer imlerinizi, parolalarınızı ve daha fazlasını eşitlemeye başlayın.">
+<!ENTITY activity_stream_signin_button "Giriş yap">
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "Önemli Siteler">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
