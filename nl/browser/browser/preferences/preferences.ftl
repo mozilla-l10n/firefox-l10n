@@ -339,6 +339,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Naar tekst zoeken wanneer u begint met typen
     .accesskey = t
+browsing-picture-in-picture-learn-more = Meer info
 browsing-cfr-recommendations =
     .label = Extensies aanbevelen terwijl u surft
     .accesskey = a
