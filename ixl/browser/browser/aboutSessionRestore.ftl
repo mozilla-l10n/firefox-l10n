@@ -10,6 +10,11 @@ restore-page-problem-desc = At ka'l unq'a kam yannale ile' niq'aavisa tu u vee' 
 restore-page-try-this = ¿Ye' tel natx'ol iq'aavisal ixe't aq'on? At chajpuul uva' uma'l u ilb'al tetze' ni b'anon. Saji unq'a ilb'al tetze' uve' b'anlik kan, eese'l unq'a vee' uve' ye' nasa' la q'aavi, as q'aavisa ve'te'.
 restore-page-hide-tabs = Muj ivatz unq'a ilb'ale' uve' chukelik kan
 restore-page-show-tabs = K'uch unq'a ilb'ale' uve' b'anelik kan
+restore-page-restore-header =
+    .label = Q'aavisal
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-page-info = { -brand-short-name }b'anel ve't uche.
+welcome-back-restore-all-label = Q'aavisal ti iqul  jank'al unq'a aq'one ve jajelkan.
+welcome-back-restore-some-label = Q'aavisa ti iqul akuxh uve   ni tal aama.
