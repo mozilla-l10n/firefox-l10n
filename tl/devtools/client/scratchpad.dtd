@@ -35,6 +35,7 @@
 
 <!ENTITY openRecentMenu.accesskey     "R">
 
+<!ENTITY revertCmd.label              "Ibalik…">
 <!ENTITY revertCmd.accesskey          "t">
 
 <!ENTITY saveFileCmd.label            "I-save">
@@ -54,8 +55,10 @@
 <!ENTITY lineNumbers.label             "Ipakita ang mga Line Number">
 <!ENTITY lineNumbers.accesskey         "L">
 
+<!ENTITY wordWrap.label                "I-wrap ang Text">
 <!ENTITY wordWrap.accesskey            "W">
 
+<!ENTITY highlightTrailingSpace.label     "I-highlight ang Trailing Space">
 <!ENTITY highlightTrailingSpace.accesskey "H">
 
 <!ENTITY largerFont.label             "Mas Malaking Font">
@@ -71,6 +74,7 @@
 <!ENTITY normalSize.accesskey         "N">
 <!ENTITY normalSize.commandkey        "0">
 
+<!ENTITY editMenu.label               "Baguhin">
 <!ENTITY editMenu.accesskey           "E">
 
 <!ENTITY run.label                    "Run">
