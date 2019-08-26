@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Ikkje akkurat no">
 <!ENTITY firstrun_button_next "Neste">
 
+<!ENTITY firstrun_signin_button2 "Logg inn">
+
 <!ENTITY firstrun_tabqueue_title "Lenker">
 
 <!ENTITY firstrun_readerview_title "Artiklar">
@@ -875,6 +877,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Tilgjengeleg fråkopla">
 <!ENTITY helper_triple_readerview_open_message "Bokmerk lesevisingselement for å lesa dei fråkopla.">
 <!ENTITY helper_triple_readerview_open_button "Legg til i bokmerka">
+
+<!ENTITY activity_stream_signin_title "Velkomen til &brandShortName;">
+<!ENTITY activity_stream_signin_description "Begynn å synkronisere bokmerke, passord og meir med Firefox-kontoen din.">
+<!ENTITY activity_stream_signin_button "Logg inn">
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "Mest besøkte nettstadar">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
