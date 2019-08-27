@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Parametros general" >
+
 <!ENTITY pref.dateformat.label "Formato testo data:" >
 <!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "Longe" >
@@ -23,6 +24,9 @@
 
 <!ENTITY pref.default_event_length.label "Longor predefinite:" >
 <!ENTITY pref.default_event_length.accesskey "O">
+
+<!ENTITY pref.default_event_task_length.label "Longgor ordinari de eventos o labores">
+<!ENTITY pref.default_event_task_length.accesskey "E">
 
 <!ENTITY pref.default_task_none.label "Nulle">
 <!ENTITY pref.default_task_start_of_day.label "Initio die">
