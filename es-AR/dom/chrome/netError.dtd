@@ -63,7 +63,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>El navegador está configurado para usar un servidor proxy, pero el proxy no pudo ser encontrado.</p><ul><li>¿Es correcta la configuración del proxy del navegador? Verifique la configuración e intente nuevamente.</li><li>¿Está la computadora conectada a una red activa?</li><li>¿Todavía tiene problemas? Consulte a su administrador de red o a su proveedor de Internet para posterior asistencia.</li></ul>">
 
 <!ENTITY redirectLoop.title "Loop de redirección">
-<!ENTITY redirectLoop.longDesc "<p>El navegador ha dejado de tratar de transferir el ítem solicitado. El sitio está redirigiendo el pedido en una manera que nunca se completará.</p><ul><li>¿Ha deshabilitado o bloqueado cookies requeridas por este sitio?</li><li><em>NOTA</em>: Si aceptar las cookies del sitio no resuelve el problema, seguramente es un inconveniente de configuración del servidor y no de su computadora.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p> El navegador dejó de intentar recuperar el elemento solicitado. El sitio está redirigiendo la solicitud de una manera que nunca se va a completar. </p> <ul> <li> ¿Deshabilitó o bloqueó las cookies requeridas por este sitio? </li> <li> <em> NOTA </em>: Si aceptar las cookies del sitio no resuelve el problema, es probable que se trate de un problema de configuración del servidor y no de su computadora. </li> </ul>">
 
 <!ENTITY unknownSocketType.title "Respuesta incorrecta">
 <!ENTITY unknownSocketType.longDesc "<p>El sitio respondió al pedido de red de una forma inesperada y el navegador no puede continuar.</p>">
