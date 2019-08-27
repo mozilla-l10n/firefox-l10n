@@ -612,7 +612,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label         "Tingnan ang Pocket List">
 
-<!ENTITY emailPageCmd.label           "I-email ang Link…">
+<!ENTITY emailPageCmd.label           "i-Email ang Link…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "I-save ang Pahina Bilang…">
@@ -631,11 +631,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "I-Save ang Audio Bilang…">
 <!ENTITY saveAudioCmd.accesskey       "v">
-<!ENTITY emailImageCmd.label          "I-email ang Larawan…">
+<!ENTITY emailImageCmd.label          "i-Email ang Larawan…">
 <!ENTITY emailImageCmd.accesskey      "g">
-<!ENTITY emailVideoCmd.label          "I-Email ang Video…">
+<!ENTITY emailVideoCmd.label          "i-Email ang Video…">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY emailAudioCmd.label          "I-email ang Audio...">
+<!ENTITY emailAudioCmd.label          "i-Email ang Audio...">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Paganahin ang plugin na ito">
 <!ENTITY playPluginCmd.accesskey      "c">

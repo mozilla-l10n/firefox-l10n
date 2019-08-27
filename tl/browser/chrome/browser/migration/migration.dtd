@@ -7,7 +7,7 @@
 
 <!ENTITY importFrom.label               "I-import ang mga Opsyon, Bookmark, History, Password atbp mula sa:">
 <!ENTITY importFromUnix.label           "I-import ang mga Preferences, Bookmark, History, Password atbp mula sa:">
-<!ENTITY importFromBookmarks.label      "I-import ang mga Bookmark mula sa:">
+<!ENTITY importFromBookmarks.label      "I-angkat ang mga Bookmark mula sa:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "M">
@@ -35,7 +35,7 @@
 <!ENTITY noMigrationSources.label       "Walang mahanap na application na naglalaman ng bookmark, history o password data.">
 
 <!ENTITY importSource.title             "Mag-import ng mga Setting at Data">
-<!ENTITY importItems.title              "I-import ang mga">
+<!ENTITY importItems.title              "Mga item na Iimport">
 <!ENTITY importItems.label              "Pumili kung aling item ang i-import:">
 
 <!ENTITY migrating.title                "Ini-import...">

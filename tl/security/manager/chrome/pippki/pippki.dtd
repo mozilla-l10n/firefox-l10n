@@ -18,7 +18,7 @@
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Kinukuha ang Sertipiko">
 <!ENTITY downloadCert.message1 "Pinapakiusapan kang pagkatiwalaan ang isang bagong Certificate Authority (CA).">
-<!ENTITY downloadCert.trustSSL "Trust this CA to identify web sites.">
+<!ENTITY downloadCert.trustSSL "Pagkatiwalaan ang CA na ito para matukoy ang mga website.">
 <!ENTITY downloadCert.trustEmail "Pagkatiwalaan ang CA na ito para matukoy ang mga email user.">
 <!ENTITY downloadCert.message3 "Bago ng magtiwala dito sa  CA  para sa anumang layunin, dapat mong suriin ang sertipiko at ang patakaran at pamamaraan (kung kinakailangan).">
 <!ENTITY downloadCert.viewCert.label "Tingnan">
