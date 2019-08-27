@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = URL na Tagauri ng Impormasyon
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-input = URL
 url-classifier-provider-title = Tagapagbigay
 url-classifier-provider = Tagapagbigay
 url-classifier-provider-last-update-time = Huling pag-update ng oras

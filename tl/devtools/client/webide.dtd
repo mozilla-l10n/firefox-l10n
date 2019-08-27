@@ -104,6 +104,7 @@
 <!ENTITY addons_aboutaddons "Buksan ang Add-on Manager">
 
 <!-- Prefs -->
+<!ENTITY prefs_title "Mga Kagustuhan">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Pangkalahatan">
 <!ENTITY prefs_restore "Restore Defaults">

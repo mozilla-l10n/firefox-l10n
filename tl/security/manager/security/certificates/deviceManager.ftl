@@ -57,6 +57,8 @@ load-device-browse =
 
 devinfo-status =
     .label = Status
+devinfo-status-disabled =
+    .label = Hindi Magagamit
 devinfo-status-not-logged-in =
     .label = Hindi Naka-Login
 devinfo-status-logged-in =

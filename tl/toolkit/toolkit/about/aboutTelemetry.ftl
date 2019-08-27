@@ -126,3 +126,6 @@ about-telemetry-category-header = categorya
 about-telemetry-method-header = paraan
 about-telemetry-object-header = bagay
 about-telemetry-extra-header = dagdag
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process } proseso

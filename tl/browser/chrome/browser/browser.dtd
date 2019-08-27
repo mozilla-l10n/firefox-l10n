@@ -342,7 +342,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY redoCmd.label            "Ulitin">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">
-<!ENTITY cutCmd.label           "I-cut">
+<!ENTITY cutCmd.label           "i-Cut">
 <!ENTITY cutCmd.key             "X">
 <!ENTITY cutCmd.accesskey         "t">
 <!ENTITY copyCmd.label            "Kopyahin">
@@ -652,7 +652,7 @@ context menu items are mutually exclusive. -->
 <!ENTITY copyImageContentsCmd.accesskey  "y">
 <!ENTITY copyVideoURLCmd.label        "Kopyahin ang lokasyon ng video">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "I-copy ang Lokasyon ng Audio">
+<!ENTITY copyAudioURLCmd.label        "Kopyahin ang Lokasyon ng Audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "Kopyahin ang E-mail Address">
 <!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
