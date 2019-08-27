@@ -97,6 +97,8 @@ cfr-doorhanger-sync-bookmarks-header = Dapatkan markah ini di telepon Anda
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Jangan Pernah Kehilangan Kata Sandi Lagi
+cfr-doorhanger-sync-logins-body = Simpan dan sinkronkan kata sandi Anda dengan aman ke semua peranti Anda.
 
 ## Send Tab
 

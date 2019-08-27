@@ -327,6 +327,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Cari teks saat Anda mulai mengetik
     .accesskey = k
+browsing-picture-in-picture-learn-more = Pelajari lebih lanjut
 browsing-cfr-recommendations =
     .label = Sarankan ekstensi seiring penjelajahan Anda
     .accesskey = r
