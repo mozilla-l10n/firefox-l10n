@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Không phải lúc này">
 <!ENTITY firstrun_button_next "Tiếp">
 
+<!ENTITY firstrun_signin_button2 "Đăng nhập">
+
 <!ENTITY firstrun_tabqueue_title "Liên kết">
 
 <!ENTITY firstrun_readerview_title "Bài viết">
@@ -875,6 +877,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Khả dụng khi ngoại tuyến">
 <!ENTITY helper_triple_readerview_open_message "Đánh dấu các mục ở chế độ đọc để đọc chúng khi ngoại tuyến.">
 <!ENTITY helper_triple_readerview_open_button "Thêm vào trang đánh dấu">
+
+<!ENTITY activity_stream_signin_title "Chào mừng đến với &brandShortName;">
+<!ENTITY activity_stream_signin_description "Bắt đầu đồng bộ hóa dấu trang, mật khẩu và hơn thế nữa với tài khoản Firefox của bạn.">
+<!ENTITY activity_stream_signin_button "Đăng nhập">
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "Các trang vào nhiều nhất">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
