@@ -10,6 +10,8 @@
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- Toolbar-only items -->
+<!ENTITY previewToolbarCmd.label "Navigar">
+<!ENTITY previewToolbarCmd.tooltip "Cargar iste pagina in le navigator">
 
 <!-- File menu items -->
 <!ENTITY exportToTextCmd.label "Exportation como texto…">

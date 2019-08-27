@@ -66,6 +66,12 @@
 
 <!ENTITY fontSizeMenu.label "Dimension">
 <!ENTITY fontSizeMenu.accesskey "s">
+<!ENTITY size-tinyCmd.label "Micre">
+<!ENTITY size-tinyCmd.accesskey "M">
+<!ENTITY size-smallCmd.label "Parve">
+<!ENTITY size-smallCmd.accesskey "P">
+<!ENTITY size-mediumCmd.label "Medie">
+<!ENTITY size-mediumCmd.accesskey "M">
 <!ENTITY size-largeCmd.label "Grande">
 <!ENTITY size-largeCmd.accesskey "G">
 
