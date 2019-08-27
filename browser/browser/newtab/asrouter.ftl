@@ -102,6 +102,14 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Sûnt { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Rapport besjen
+cfr-whatsnew-lockwise-backup-title = Meitsje in reservekopy fan jo wachtwurden
+cfr-whatsnew-lockwise-backup-body = Meitsje no feilige wachtwurden dy't jo oeral wêr't jo jo oanmelde benaderje kinne.
+cfr-whatsnew-lockwise-backup-link-text = Reservekopyen ynskeakelje
+cfr-whatsnew-lockwise-take-title = Nim jo wachtwurden mei
+cfr-whatsnew-lockwise-take-body =
+    Mei de mobile app { -lockwise-brand-short-name } hawwe jo oeral feilich
+    tagong ta jo wachtwurden.
+cfr-whatsnew-lockwise-take-link-text = App downloade
 
 ## Bookmark Sync
 
