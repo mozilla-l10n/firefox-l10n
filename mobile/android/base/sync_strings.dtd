@@ -28,7 +28,7 @@
 <!ENTITY fxaccount_getting_started_old_firefox "Stai utilizzando una vecchia versione di &syncBrand.shortName.label;?">
 <!ENTITY fxaccount_status_auth_server "Server account">
 <!ENTITY fxaccount_status_sync_now "Sincronizza adesso">
-<!ENTITY fxaccount_status_syncing2 "Sincronizzazione…">
+<!ENTITY fxaccount_status_syncing2 "Sincronizzazione in corso…">
 <!ENTITY fxaccount_status_device_name "Nome dispositivo">
 <!ENTITY fxaccount_status_sync_server "Server Sync">
 <!ENTITY fxaccount_status_needs_verification2 "È necessario verificare l’account. Tocca per inviare nuovamente l’email di verifica.">
