@@ -71,6 +71,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Menjelajah tanpa diikuti
+cfr-protections-panel-link-text = Pelajari lebih lanjut
 
 ## What's New toolbar button and panel
 
@@ -78,6 +79,7 @@ cfr-whatsnew-button =
     .label = Yang Baru
     .tooltiptext = Yang Baru
 cfr-whatsnew-panel-header = Yang Baru
+cfr-whatsnew-tracking-protect-link-text = Lihat Laporan Anda
 
 ## Bookmark Sync
 
