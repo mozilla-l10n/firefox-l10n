@@ -32,6 +32,8 @@
 <!ENTITY firstrun_button_notnow "Не сега">
 <!ENTITY firstrun_button_next "Напред">
 
+<!ENTITY firstrun_signin_button2 "Вписване">
+
 <!ENTITY firstrun_tabqueue_title "Препратки">
 
 <!ENTITY firstrun_readerview_title "Статии">
@@ -275,7 +277,8 @@
 
 <!ENTITY pref_cookies_menu "Бисквитки">
 <!ENTITY pref_cookies_accept_all "Разрешени">
-<!ENTITY pref_cookies_not_accept_foreign "Разрешени, без 3-ти страни">
+<!ENTITY pref_cookies_not_accept_foreign "Разрешени, без страничните">
+<!ENTITY pref_cookies_not_accept_trackers "Разрешени, без проследяващите">
 <!ENTITY pref_cookies_disabled "Забранени">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -874,6 +877,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Отметнете статии в прегледа за четене, за да ги имате извън мрежа.">
 <!ENTITY helper_triple_readerview_open_button "Добавяне към отметките">
 
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
+
 <!ENTITY activity_stream_topsites "Често посещавани">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "Препоръчани от &brandPocket;">
@@ -899,7 +905,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_remove "Премахване">
 <!ENTITY activity_stream_delete_history "Премахване от историята">
 
-<!ENTITY private_tab_panel_title "Поверително разглеждане + Защита от проследяване">
+<!ENTITY private_tab_panel_title "Поверително разглеждане + защита от проследяване">
 <!ENTITY private_tab_panel_description "&brandShortName; блокира части от страницата, които биха могли да ви следят докато разглеждате в Мрежата.">
 <!ENTITY private_tab_panel_description2 "История няма да бъде съхранена, но изтеглените файлове и отметките ще бъдат запазени на вашето устройство.">
 <!ENTITY private_tab_learn_more "Искате ли да научите повече?">
