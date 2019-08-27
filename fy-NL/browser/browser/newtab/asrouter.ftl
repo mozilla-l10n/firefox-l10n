@@ -82,6 +82,26 @@ cfr-whatsnew-button =
     .label = Wat is der nij
     .tooltiptext = Wat is der nij
 cfr-whatsnew-panel-header = Wat is der nij
+cfr-whatsnew-release-notes-link-text = Utjefteopmerkingen lêze
+cfr-whatsnew-fx70-title = { -brand-short-name } fjochtet no noch hurder foar jo privacy
+cfr-whatsnew-fx70-body =
+    De lêste fernijing ferbetteret de funksje Beskerming tsjin folgjen en makket it
+    makliker as ea om feilige wachtwurden foar elke website te meitsjen.
+cfr-whatsnew-tracking-protect-title = Beskermje josels tsjin trackers
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } blokkearret in protte gebrûklike sosjale en cross-site-trackers dy't
+    folgje wat jo online dogge.
+cfr-whatsnew-tracking-protect-link-text = Jo rapport besjen
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Tracker blokkearre
+       *[other] Trackers blokkearre
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Sûnt { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Rapport besjen
 
 ## Bookmark Sync
 
