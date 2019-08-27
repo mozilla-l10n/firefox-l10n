@@ -79,8 +79,15 @@ cfr-whatsnew-button =
     .label = Amaynut
     .tooltiptext = Amaynut
 cfr-whatsnew-panel-header = Amaynut
+cfr-whatsnew-tracking-protect-link-text = Wali aneqqis-ik
+cfr-whatsnew-tracking-blocked-subtitle = Si { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Wali aneqqis
+cfr-whatsnew-lockwise-take-link-text = Awi asnas
 
 ## Bookmark Sync
+
+
+## Login Sync
 
 
 ## Send Tab
