@@ -93,6 +93,42 @@ cfr-whatsnew-button =
 
 cfr-whatsnew-panel-header = Nyheder
 
+cfr-whatsnew-release-notes-link-text = Læs udgivelsesnoterne
+
+cfr-whatsnew-fx70-title = { -brand-short-name } kæmper nu hårdere for din ret til et privatliv
+cfr-whatsnew-fx70-body =
+    Den nyeste version har forbedret funktionen Beskyttelse mod sporing og gør det
+    nemmere end nogensinde før at lave sikre adgangskoder.
+
+cfr-whatsnew-tracking-protect-title = Beskyt dig selv mod at blive sporet på nettet
+cfr-whatsnew-tracking-protect-body =
+   { -brand-short-name } blokerer mange udbredte sporings-teknologier fra sociale netværk
+   og andre virksomheder, der følger med i, hvad du laver på nettet.
+cfr-whatsnew-tracking-protect-link-text = Se din rapport
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+  { $blockedCount ->
+    [one] sporings-mekanisme blokeret
+   *[other] sporings-mekanismer blokeret
+  }
+cfr-whatsnew-tracking-blocked-subtitle =
+   Siden { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Se rapport
+
+cfr-whatsnew-lockwise-backup-title = Lav backup af dine adgangskoder
+cfr-whatsnew-lockwise-backup-body =
+   Og opret sikre adgangskoder, du har adgang til overalt, hvor du logger ind.
+cfr-whatsnew-lockwise-backup-link-text = Slå backup til
+
+cfr-whatsnew-lockwise-take-title = Tag dine adgangskoder med dig
+cfr-whatsnew-lockwise-take-body =
+   Med apppen { -lockwise-brand-short-name } får du sikker adgang til dine adkangskoder,
+   uanset hvor du er.
+cfr-whatsnew-lockwise-take-link-text = Hent appen
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Få dette bogmærke på din telefon
