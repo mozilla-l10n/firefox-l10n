@@ -86,6 +86,30 @@ cfr-whatsnew-button =
     .label = Nowe funkcije a změny
     .tooltiptext = Nowe funkcije a změny
 cfr-whatsnew-panel-header = Nowe funkcije a změny
+cfr-whatsnew-release-notes-link-text = Wersijowe informacije cytaś
+cfr-whatsnew-fx70-title = { -brand-short-name } šěščej za wašu priwatnosć wójujo
+cfr-whatsnew-fx70-body = Nejnowša aktualizacija funkciju slědowański šćit pólěpšujo a wólažcujo wěcej nježli gdy do togo, wěste gronidła za kužde sedło napóraś.
+cfr-whatsnew-tracking-protect-title = Šćitajśo se pśed pśeslědowakami
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } wjele cestych pśeslědowakow socialnych a drugich sedłow, kótarež
+    slěduju, což online gótujośo.
+cfr-whatsnew-tracking-protect-link-text = Wašu rozpšawu pokazaś
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Pśeslědowak jo se zablokěrował
+        [two] Pśeslědowaka stej se zablokěrowałej
+        [few] Pśeslědowaki su se zablokěrowali
+       *[other] Přeslědowaki su se zablokěrowali
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Wót { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Rozpšawu pokazaś
+cfr-whatsnew-lockwise-backup-title = Zawěsććo swóje gronidła
+cfr-whatsnew-lockwise-backup-body = Napórajśo něnto wěste gronidła, ku kótarymž maśo wšuźi pśistup, źož se pśizjawijośo.
+cfr-whatsnew-lockwise-backup-link-text = Zawěsćenja zmóžniś
+cfr-whatsnew-lockwise-take-title = Wzejśo swóje gronidła sobu
 
 ## Bookmark Sync
 
