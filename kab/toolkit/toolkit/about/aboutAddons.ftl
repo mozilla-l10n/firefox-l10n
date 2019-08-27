@@ -267,6 +267,10 @@ install-theme-button = Sebded asentel
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Sefrek
 find-more-addons = Aff-d ugar n izegrar
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Ugar n iɣewwaṛen
 
 ## Add-on actions
 
