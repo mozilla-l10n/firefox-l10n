@@ -14,7 +14,7 @@ graph-week-summary =
 # earliest date recorded in the database.
 graph-total-summary =
     { $count ->
-       *[other] 自 { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } 起，封鎖了 { $count } 組追蹤器
+       *[other] 自 { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }起，封鎖了 { $count } 組追蹤器
     }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".

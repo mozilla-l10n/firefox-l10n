@@ -889,14 +889,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "如果遇到以下問題，請關閉保護:">
+<!ENTITY protections.siteNotWorkingView.header "如果下列功能出現問題，請關閉保護:">
 <!ENTITY protections.siteNotWorkingView.issueList.logInFields "登入欄位">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "表單">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "付款">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "註解">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "影片">
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "關閉保護後網站仍然不正常？">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "回報">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "請回報給我們">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
      In the protections panel, Content Blocking category items are in three sections:
