@@ -98,9 +98,11 @@ detail-private-browsing-description2 = Bu izni verdiğinizde eklenti, gizli gezi
 # cannot be overridden by the user.
 detail-private-disallowed-label = Gizli pencerelerde izin verilmiyor
 detail-private-disallowed-description = Gizli gezinti sırasında bu eklenti çalışmaz. <label data-l10n-name="detail-private-browsing-learn-more">Daha fazla bilgi alın</label>
+detail-private-disallowed-description2 = Gizli gezinti sırasında bu eklenti çalışmaz. <a data-l10n-name="learn-more">Daha fazla bilgi alın</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Gizli pencerelere erişmesi gerekiyor
 detail-private-required-description = Bu eklenti, gizli gezinti sırasında yaptıklarınıza erişebilir. <label data-l10n-name="detail-private-browsing-learn-more">Daha fazla bilgi alın</label>
+detail-private-required-description2 = Bu eklenti, gizli gezinti sırasında yaptıklarınıza erişebilir. <a data-l10n-name="learn-more">Daha fazla bilgi alın</a>
 detail-private-browsing-on =
     .label = İzin ver
     .tooltiptext = Gizli gezintide izin ver
@@ -381,6 +383,11 @@ addon-detail-private-browsing-disallow = İzin verme
 addon-badge-recommended =
     .title = Öneriliyor
     .alt = Öneriliyor
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } yalnızca güvenlik ve performans standartlarımızı karşılayan eklentileri önerir
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Mevcut güncellemeler
 recent-updates-heading = Son güncellenenler
 release-notes-loading = Yükleniyor…
