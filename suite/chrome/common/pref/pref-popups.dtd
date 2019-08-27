@@ -12,7 +12,7 @@
 <!ENTITY viewPermissions.label          "Administrar permisos">
 <!ENTITY viewPermissions.accesskey      "m">
 
-<!ENTITY whenBlock.description          "Cuando una ventana emergente ha sido bloqueada:">
+<!ENTITY whenBlock.description          "Cuando una ventana emergente se bloquea:">
 <!ENTITY playSound.label                "Reproducir un sonido:">
 <!ENTITY playSound.accesskey            "p">
 <!ENTITY systemSound.label              "Bip del sistema">
@@ -32,4 +32,3 @@
 <!ENTITY displayNotification.accesskey  "d">
 
 <!ENTITY popupNote.description          "Nota: Bloquear todas las ventanas emergentes puede impedir que funcionen partes importantes de algunos sitios, como por ejemplo ventanas para identificarse en sitios de compras o bancos. Para más detalles de cómo permitir a determinados sitios el uso de ventanas emergentes al tiempo que se bloquean en todos los demás, haga clic en Ayuda. Incluso si están bloqueados, los sitios pueden usar otros métodos para mostrar ventanas emergentes.">
-
