@@ -3,22 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Mevcut E-posta Adresimi Kur">
+
 <!ENTITY name.label                      "Adınız:">
 <!ENTITY name.accesskey                  "A">
 <!ENTITY name.placeholder                "Ad Soyadı">
+<!ENTITY fullname.placeholder            "Tam adınız">
 <!ENTITY name.text                       "Başkalarına gösterilecek adınız">
+<!ENTITY name.error                      "Lütfen adınızı girin">
 <!ENTITY email.label                     "E-posta adresi:">
 <!ENTITY email.accesskey                 "E">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "kullanici@example.com">
+<!ENTITY email3.placeholder              "E-posta adresiniz">
 <!ENTITY email.text                      "Mevcut e-posta adresiniz">
+<!ENTITY email.error                     "Geçersiz e-posta adresi">
 <!ENTITY password.label                  "Parola:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Parola">
 <!ENTITY password.text                   "İsteğe bağlı; sadece kullanıcı adını doğrulamada kullanılacak">
+<!ENTITY password.toggle                 "Parolayı göster/gizle">
 <!ENTITY rememberPassword.label          "Parolayı hatırla">
 <!ENTITY rememberPassword.accesskey      "h">
-
 <!ENTITY usernameEx.label                "Kullanıcı adınız:">
 <!ENTITY usernameEx.accesskey            "l">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -30,11 +35,15 @@
 <!ENTITY pop3Long.label                  "POP3 (postalar bilgisayarınızda saklanacak)">
 
 <!ENTITY incoming.label                  "Gelen:">
+<!ENTITY incomingColumn.label            "Gelen">
 <!ENTITY outgoing.label                  "Giden:">
+<!ENTITY outgoingColumn.label            "Giden">
 <!ENTITY username.label                  "Kullanıcı adı:">
 <!ENTITY hostname.label                  "Sunucu adresi">
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Sunucu:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Yetkilendirme">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -60,15 +69,18 @@
 <!ENTITY stop.label                      "Dur">
 <!ENTITY stop.accesskey                  "D">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Tekrar sına">
 <!ENTITY half-manual-test.accesskey      "s">
 <!ENTITY manual-edit.label               "Elle yapılandırma">
 <!ENTITY manual-edit.accesskey           "l">
+<!ENTITY manual-config.label             "Elle yapılandır…">
 <!ENTITY open-provisioner.label          "Yeni bir e-posta adresi al…">
 <!ENTITY open-provisioner.accesskey      "Y">
+
+
 
 
 <!ENTITY warning.label                   "Uyarı!">
