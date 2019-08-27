@@ -102,9 +102,11 @@ detail-private-browsing-description2 = Če je dovoljeno, bo imela razširitev do
 # cannot be overridden by the user.
 detail-private-disallowed-label = Ni dovoljeno v zasebnih oknih
 detail-private-disallowed-description = Ta razširitev ne deluje v zasebnem brskanju. <label data-l10n-name="detail-private-browsing-learn-more">Več o tem</label>
+detail-private-disallowed-description2 = Ta razširitev je v zasebnem brskanju izklopljena. <a data-l10n-name="learn-more">Več o tem</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Zahteva dostop do zasebnih oken
 detail-private-required-description = Ta razširitev ima dostop do vaše spletne dejavnosti v zasebnem brskanju. <label data-l10n-name="detail-private-browsing-learn-more">Več o tem</label>
+detail-private-required-description2 = Ta razširitev ima v zasebnem brskanju dostop do vaše spletne dejavnosti. <a data-l10n-name="learn-more">Več o tem</a>
 detail-private-browsing-on =
     .label = Dovoli
     .tooltiptext = Omogoči v zasebnem brskanju

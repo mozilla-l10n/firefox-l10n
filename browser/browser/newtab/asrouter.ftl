@@ -86,6 +86,15 @@ cfr-whatsnew-button =
     .label = Novosti
     .tooltiptext = Novosti
 cfr-whatsnew-panel-header = Novosti
+cfr-whatsnew-release-notes-link-text = Preberite opombe ob izdaji
+cfr-whatsnew-fx70-title = { -brand-short-name } se zdaj še močneje bori za vašo zasebnost
+cfr-whatsnew-tracking-protect-title = Zaščitite se pred sledilci
+cfr-whatsnew-tracking-protect-link-text = Oglejte si svoje poročilo
+cfr-whatsnew-tracking-blocked-subtitle = Od { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Prikaži poročilo
+cfr-whatsnew-lockwise-backup-body = Ustvarite varna gesla, do katerih lahko dostopate kjerkoli se prijavite.
+cfr-whatsnew-lockwise-take-title = Vzemite gesla s seboj
+cfr-whatsnew-lockwise-take-link-text = Prenesite aplikacijo
 
 ## Bookmark Sync
 
