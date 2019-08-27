@@ -35,6 +35,8 @@ app-basics-name = Nombre
 app-basics-version = Versión
 app-basics-build-id = ID de Build
 app-basics-update-channel = Canal de actualización
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Directorio de actualización
@@ -59,7 +61,6 @@ app-basics-service-workers = ServiceWorkers registrados
 app-basics-profiles = Perfiles
 app-basics-launcher-process-status = Proceso lanzador
 app-basics-multi-process-support = Ventanas multiproceso
-app-basics-process-count = Procesos de contenido web
 app-basics-remote-processes-count = Procesos remotos
 app-basics-enterprise-policies = Políticas empresariales
 app-basics-location-service-key-google = Clave del servicio de localización de Google
@@ -177,7 +178,7 @@ text-copied = Texto copiado al portapapeles
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 blocked-driver = Bloqueado para la versión de su driver de video.
-blocked-gfx-card = Se bloqueó el driver de video por problemas no resueltos en el drive.
+blocked-gfx-card = Se bloqueó el driver de video por problemas no resueltos en el mismo.
 blocked-os-version = Bloqueado para su versión de sistema operativo.
 blocked-mismatched-version = Bloqueado porque no coincide la versión del controlador gráfico entre registro y DLL.
 # Variables
@@ -186,13 +187,13 @@ try-newer-driver = Bloqueado para la versión de su driver de video. Intente act
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parámetros de ClearType
-compositing = Compositing
+compositing = Composición
 hardware-h264 = Decodificación H264 por hadrware
 main-thread-no-omtc = hilo principal, no OMTC
 yes = Si
 no = No
 unknown = Desconocido
-virtual-monitor-disp = Pantalla del Monitor virtual
+virtual-monitor-disp = Pantalla del monitor virtual
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -241,7 +242,6 @@ uses-tiling = Utiliza mosaicos
 content-uses-tiling = Utiliza baldosas (contenido)
 off-main-thread-paint-enabled = Pintura habilitada fuera del hilo principal
 off-main-thread-paint-worker-count = Cantidad de workers de pintura fuera del hilo principal
-low-end-machine = Se detectó una máquina de menor rendimiento
 target-frame-rate = Tasa de marco de destino
 audio-backend = Backend de audio
 max-audio-channels = Canales máximos
