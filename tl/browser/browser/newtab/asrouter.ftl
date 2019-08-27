@@ -81,6 +81,15 @@ cfr-whatsnew-button =
     .label = Ano ang Bago
     .tooltiptext = Ano ang Bago
 cfr-whatsnew-panel-header = Ano ang Bago
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Mga Trackers na Blocked
+       *[other] Mga Trackers na Blocked
+    }
+cfr-whatsnew-lockwise-take-link-text = Kunin ang app
 
 ## Bookmark Sync
 

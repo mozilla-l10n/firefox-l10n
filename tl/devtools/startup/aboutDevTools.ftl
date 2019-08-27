@@ -33,10 +33,22 @@ features-console-desc = Bantayan ang CSS, JavaScript, at mga isyung patungkol sa
 features-debugger-title = Debugger
 features-debugger-desc = Makapangyarihang JavaScript debugger na suportado ang framework mo. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-network-title = Network
+features-network-desc = Bantayan ang mga network request na maaaring makapagpabagal o harangin ang site mo. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Storage
+features-storage-desc = Magdagdag, magbago, at magtanggal ng mga cache, cookie, database at session data. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-responsive-title = Responsive Design Mode
+features-responsive-desc = Subukin ang mga site gamit ang mga emulated device sa browser mo. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Visual na Pag-edit
+features-visual-editing-desc = Pinuhin ang mga animation, alignment at padding. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-performance-title = Performance
+features-performance-desc = Paluwagin ang mga bottleneck, pabilisin ang mga proseso, at lubusin ang mga asset. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-memory-title = Memory
+features-memory-desc = Hanapin ang mga memory leak at pabilisin ang iyong application. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+# Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Bigo ang paghingi ng subscription ({ $errorDescription }).
 newsletter-error-unknown = May di-inaasahang problemang naganap.
 newsletter-error-timeout = Nag-time out ang paghingi ng subscription.
+# Variables:
+#   $shortcut (String) - The keyboard shortcut used for the tool
+welcome-message = Tagumpay mong na-enable ang mga Developer Tool! Para makapagsimula, tingnan ang Web Developer menu o buksan ang mga tool gamit ang { $shortcut }.

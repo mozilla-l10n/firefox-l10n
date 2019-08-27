@@ -112,7 +112,7 @@ detail-home =
 detail-home-value =
     .value = { detail-home.label }
 detail-repository =
-    .label = Karagdagang profile
+    .label = Profile ng Add-on
 detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
@@ -272,6 +272,7 @@ discopane-intro = Ang mga extension at tema ay parang mga app sa iyong browser, 
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Ang ilan sa mga mungkahing ito ay pasadya. Sila na binase sa ibang mga extension na ininstall mo, sa mga profile preference, at usage statistics.
 discopane-notice-learn-more = Alamin
+privacy-policy = Patakaran sa Privacy
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -282,6 +283,9 @@ created-by-author = ni <a data-l10n-name="author">{ $author }</a>
 user-count = Mga gumagamit: { $dailyUsers }
 install-extension-button = Idagdag sa { -brand-product-name }
 install-theme-button = I-install ang Tema
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Pamahalaan
 find-more-addons = Maghanap pa ng ibang mga add-on
 
 ## Add-on actions
@@ -291,6 +295,11 @@ remove-addon-button = Tanggalin
 disable-addon-button = I-disable
 enable-addon-button = I-enable
 expand-addon-button = Dagdag na mga Pagpipilian
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Mga Pagpipilian
+       *[other] Mga Kagustuhan
+    }
 details-addon-button = Mga Detalye
 release-notes-addon-button = Mga Release Note
 permissions-addon-button = Mga Permiso
@@ -348,6 +357,7 @@ install-update-button = I-update
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Pinagpayagan sa mga private window
+addon-detail-private-browsing-help = Kapag pinayagan, ang extension ay magkakaroon ng access sa iyong mga online activity habang nasa private browsing. <a data-l10n-name="learn-more">Alamin</a>
 addon-detail-private-browsing-allow = Payagan
 addon-detail-private-browsing-disallow = Huwag Payagan
 # This is the tooltip text for the recommended badge for an extension in about:addons. The

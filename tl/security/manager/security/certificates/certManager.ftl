@@ -12,6 +12,10 @@ certmgr-tab-servers =
     .label = Mga Server
 certmgr-tab-ca =
     .label = Mga AuthorityMga Awtoridad
+certmgr-mine = May mga certificate ka mula sa mga organisasyong ito na nakakakilala sa iyo
+certmgr-people = May mga certificate kang nakatago na kumikilala sa mga taong ito
+certmgr-servers = May mga certificate kang nakatago na kumikilala sa mga server na ito
+certmgr-ca = May mga certificate ka na nakatago na kumikilala sa mga certificate authority na ito
 certmgr-detail-general-tab-title =
     .label = Pangkalahatan
     .accesskey = P
@@ -112,7 +116,16 @@ exception-mgr-cert-location-download =
 exception-mgr-cert-status-view-cert =
     .label = Tingnan…
     .accesskey = v
+exception-mgr-permanent =
+    .label = Permanenteng i-store ang exception na ito
+    .accesskey = P
 pk11-bad-password = Hindi tama ang pinasok mong password.
+pkcs12-decode-err = Bigong i-decode ang file. Maaaring wala ito sa PKCS #12 format, nasira, o mali ang password na naipasok.
+pkcs12-unknown-err-restore = Bigong maibalik ang PKCS #12 file sa mga di-kilalang dahilan.
+pkcs12-unknown-err-backup = Bigong makagawa ng PKCS #12 backup file sa mga di-kilalang dahilan.
+pkcs12-unknown-err = Bigo ang operasyon ng PKCS #12 sa di-kilalang dahilan.
+pkcs12-info-no-smartcard-backup = Hindi posibleng i-back up ang mga certificate mula sa hardware security device gaya ng smart card.
+pkcs12-dup-data = Mayroon nang certificate at private key sa security device.
 
 ## PKCS#12 file dialogs
 
@@ -122,11 +135,15 @@ choose-p12-restore-file-dialog = Certificate File na Iiimport
 
 ## Import certificate(s) file dialog
 
+file-browse-certificate-spec = Mga Certificate File
 import-ca-certs-prompt = Piliin ang File na naglalaman ng CA certificate (s) upang i-import
 import-email-cert-prompt = Pumili ng file na may nglalaman na Email certificate ng isang tao upang i-import
 
 ## For editing certificates trust
 
+# Variables:
+#   $certName: the name of certificate
+edit-trust-ca = Ang certificate na “{ $certName }” ay isang Certificate Authority.
 
 ## For Deleting Certificates
 
@@ -134,15 +151,33 @@ delete-user-cert-title =
     .title = Burahin ang iyong mga Sertipiko
 delete-user-cert-confirm = Nakasisiguro ka bang nais mong burahin ang mga sertipikong ito?
 delete-user-cert-impact = Kung tatangalin mo ang isa sa iyong mga sariling sertipiko, maaari mong hindi na magagamit ito upang kilalanin ang iyong sarili.
+delete-ssl-cert-title =
+    .title = Burahin ang mga Server Certificate Exception
 delete-ssl-cert-confirm = Sigurado ka bang gusto mong burahin ang mga server exception na ito?
 delete-ssl-cert-impact = Kung ibubura mo ang serverver exception, ibalik mo ang mga karaniwang na pagsusuri ng seguridad para sa server at kailangan ito ay gumagamit ng isang wastong sertipiko.
+delete-ca-cert-title =
+    .title = Burahin o Tigilang Pagkatiwalaan ang mga CA Certificate
+delete-ca-cert-confirm = Hiningi mong burahin ang mga CA certificate na ito. Para sa mga built-in certificate lahat ay tatanggalin, na kapareho lang ng epekto. Sigurado ka bang gusto mong burahin ito o tigilang pagkatiwalaan?
+delete-ca-cert-impact = Kapag binura mo o tinigilang pagkatiwalaan ang isang certificate authority (CA) certificate, hindi na magtitiwala ang application na ito sa kahit anong certificate na binigay ng CA na iyon.
 delete-email-cert-title =
     .title = Burahin ang E-Mail Certificates
 delete-email-cert-confirm = Nakasisiguro ka bang nais mong burahin ang mga sertipiko sa email ng mga taong ito?
 delete-email-cert-impact = Kung tatangalin mo ang e-mail certificate ng isang tao, hindi mo na magagawang magpadala ng naka-encrypt na e-mail sa taong iyon.
+# Used for semi-uniquely representing a cert.
+#
+# Variables:
+#   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
+cert-with-serial =
+    .value = Certificate na may serial number: { $serialNumber }
 
 ## Cert Viewer
 
+# Title used for the Certificate Viewer.
+#
+# Variables:
+#   $certificate : a string representative of the certificate being viewed.
+cert-viewer-title =
+    .title = Certificate Viewer: ”{ $certName }”
 not-present =
     .value = <Not Part Of Certificate>
 # Cert verification

@@ -863,6 +863,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Pahintulot">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "Permissions Set">
 <!ENTITY identity.permissionsEmpty "Hindi mo ipinagkaloob ang site na ito anumang espesyal na pahintulot.">
 <!ENTITY identity.permissionsReloadHint "Maaaring kailangan mong i-reload ang pahina para mag-aplay ang mga pagbabago.">
 <!ENTITY identity.permissionsPreferences.tooltip "Open Permissions Preferences">
