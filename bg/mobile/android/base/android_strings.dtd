@@ -877,6 +877,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Отметнете статии в прегледа за четене, за да ги имате извън мрежа.">
 <!ENTITY helper_triple_readerview_open_button "Добавяне към отметките">
 
+<!ENTITY activity_stream_signin_title "Добре дошли при &brandShortName;">
 <!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
 These labels are shown in the Activity Stream recommending the user to sign in. -->
 
@@ -907,7 +908,7 @@ is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY private_tab_panel_title "Поверително разглеждане + защита от проследяване">
 <!ENTITY private_tab_panel_description "&brandShortName; блокира части от страницата, които биха могли да ви следят докато разглеждате в Мрежата.">
-<!ENTITY private_tab_panel_description2 "История няма да бъде съхранена, но изтеглените файлове и отметките ще бъдат запазени на вашето устройство.">
+<!ENTITY private_tab_panel_description2 "Историята няма да бъде запазена, но изтеглените файлове и отметките ще останат на устройството.">
 <!ENTITY private_tab_learn_more "Искате ли да научите повече?">
 
 <!ENTITY fullscreen_warning "Режим на цял екран">
