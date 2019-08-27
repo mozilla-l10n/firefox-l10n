@@ -883,6 +883,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Video">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Kirim laporan">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.notBlocking2.label "Diizinkan">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Mengapa?">
 <!ENTITY protections.socialMediaTrackers.label "Pelacak Media Sosial">
 <!ENTITY protections.crossSiteTrackingCookies.label "Kuki Pelacakan Lintas Situs">
@@ -931,7 +941,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "K">
 
 <!ENTITY contentBlocking.trackersView.label "Pelacak">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Untuk memblokir semua pelacak, setel pemblokiran konten ke “Ketat”.">
 
 <!ENTITY contentBlocking.cookies.label "Kuki">
