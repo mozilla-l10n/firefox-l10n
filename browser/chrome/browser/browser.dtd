@@ -880,6 +880,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.videos "วิดีโอ">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "ส่งรายงาน">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "ปิดกั้น">
+<!ENTITY protections.notBlocking2.label "อนุญาต">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "ทำไม?">
 <!ENTITY protections.fingerprinters.label "ลายนิ้วมือดิจิทัล">
 <!ENTITY protections.cryptominers.label "ตัวขุดเหรียญดิจิทัล">
@@ -927,7 +938,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "จ">
 
 <!ENTITY contentBlocking.trackersView.label "ตัวติดตาม">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "เพื่อปิดกั้นตัวติดตามทั้งหมด ตั้งการปิดกั้นเนื้อหาเป็น “เข้มงวด”">
 
 <!ENTITY contentBlocking.cookies.label "คุกกี้">

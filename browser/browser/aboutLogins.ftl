@@ -6,6 +6,7 @@ about-logins-page-title = การเข้าสู่ระบบและร
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = นำรหัสผ่านของคุณไปทุกที่
 login-app-promo-android =
     .alt = รับบน Google Play
 login-app-promo-apple =
@@ -64,7 +65,6 @@ login-item-delete-button = ลบ
 login-item-origin-label = ที่อยู่เว็บไซต์
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = เริ่ม
 login-item-username-label = ชื่อผู้ใช้
 login-item-username =
     .placeholder = name@example.com

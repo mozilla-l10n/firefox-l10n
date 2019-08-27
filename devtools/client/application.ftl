@@ -61,3 +61,9 @@ serviceworker-empty-suggestions-debugger = ลงทะเบียนเวิ�
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = ตรวจสอบเวิร์กเกอร์บริการจากโดเมนอื่น <a>เปิด about:debugging</a>
+# Header for the view of Manifest displayed in the application panel for the current page.
+manifest-view-header = App Manifest
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = ข้อผิดพลาดและคำเตือน
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = ไอคอน
