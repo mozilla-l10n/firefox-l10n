@@ -62,7 +62,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled 'O &syncBrand.shortName.label; está configurado, mas não está sincronizando automaticamente. Ative a opção “Sincronizar dados automaticamente” em Configurações do Android &gt; Uso de dados.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 'O &syncBrand.shortName.label; está configurado, mas não está sincronizando automaticamente. Ative a opção “Sincronizar dados automaticamente” em Configurações do Android &gt; Contas.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Toque para entrar na sua nova conta Firefox.'>
-<!ENTITY fxaccount_status_choose_what 'Escolher o que sincronizar'>
+<!ENTITY fxaccount_status_choose_what 'Escolha o que sincronizar'>
 <!ENTITY fxaccount_status_bookmarks 'Favoritos'>
 <!ENTITY fxaccount_status_history 'Histórico'>
 <!ENTITY fxaccount_status_passwords2 'Contas de acesso'>
