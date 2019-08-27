@@ -2,23 +2,30 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard2.title         "Ezarri baduzun posta elektroniko bat">
+<!ENTITY autoconfigWizard2.title         "Ezarri baduzun posta elektroniko kontu bat">
+
+<!ENTITY emailWizard.title               "Ezarri baduzun posta elektroniko helbide bat">
+<!ENTITY emailWizard.caption             "Erabili zure oraingo posta elektronikoa">
 <!ENTITY name.label                      "Zure izena:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Izena, abizena">
+<!ENTITY fullname.placeholder            "Zure izen osoa">
 <!ENTITY name.text                       "Zure izena, besteei erakutsiko zaien bezala">
+<!ENTITY name.error                      "Idatzi zure izena mesedez">
 <!ENTITY email.label                     "Helbide elektronikoa:">
 <!ENTITY email.accesskey                 "l">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email3.placeholder              "Zure posta-helbidea">
 <!ENTITY email.text                      "Zure posta elektroniko bat">
+<!ENTITY email.error                     "Posta-helbide baliogabea">
 <!ENTITY password.label                  "Pasahitza:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Pasahitza">
 <!ENTITY password.text                   "Aukerazkoa, erabiltzaile-izena egiaztatzeko erabiliko da soilik">
+<!ENTITY password.toggle                 "Erakutsi/ezkutatu pasahitza">
 <!ENTITY rememberPassword.label          "Gogoratu pasahitza">
 <!ENTITY rememberPassword.accesskey      "G">
-
 <!ENTITY usernameEx.label                "Zure saio hasiera:">
 <!ENTITY usernameEx.accesskey            "s">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -26,15 +33,21 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Saio domeinua">
 
+<!ENTITY protocol.label                  "Protokoloa:">
 <!ENTITY imapLong.label                  "IMAP (urruneko karpetak)">
 <!ENTITY pop3Long.label                  "POP3 (mantendu posta zure ordenagailuan)">
 
-<!ENTITY incoming.label                  "Hartzeko:">
+<!ENTITY incoming.label                  "Sarrerakoa:">
+<!ENTITY incomingColumn.label            "Sarrerakoa">
 <!ENTITY outgoing.label                  "Irteerakoa:">
+<!ENTITY outgoingColumn.label            "Irteerakoa">
 <!ENTITY username.label                  "Erabiltzaile-izena:">
 <!ENTITY hostname.label                  "Zerbitzariaren ostalari-izena">
 <!ENTITY port.label                      "Ataka">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Zerbitzaria:">
+<!ENTITY portRow.label                   "Ataka:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Autentifikazioa">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -60,7 +73,7 @@
 <!ENTITY stop.label                      "Gelditu">
 <!ENTITY stop.accesskey                  "G">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Birprobatu">
@@ -69,6 +82,8 @@
 <!ENTITY manual-edit.accesskey           "E">
 <!ENTITY open-provisioner.label          "Eskuratu posta elektroniko berri bat…">
 <!ENTITY open-provisioner.accesskey      "p">
+
+
 
 
 <!ENTITY warning.label                   "Kontuz!">
