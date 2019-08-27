@@ -706,8 +706,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_chromeui "Esta es una página de &brandShortName; segura">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all1 "&brandShortName; ha bloqueado el contenido inseguro en esta página.">
-<!ENTITY mixed_content_blocked_some1 "&brandShortName; ha bloqueado algún contenido inseguro en esta página.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; bloqueó el contenido inseguro en esta página.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; bloqueó parte del contenido inseguro en esta página.">
 <!ENTITY mixed_content_display_loaded1 "Partes de esta página no es segura (como las imágenes).">
 <!ENTITY mixed_content_protection_disabled1 "Ha deshabilitado la protección de contenido inseguro.">
 
