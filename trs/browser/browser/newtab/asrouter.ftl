@@ -86,6 +86,16 @@ cfr-whatsnew-release-notes-link-text = Gahia nuguan' hua rayi'î versiûn nan
 cfr-whatsnew-fx70-title = { -brand-short-name } nù huin doj da' ga nìn  gache nunt
 cfr-whatsnew-fx70-body = Sa narán riña nej sa nikò' sò' nahuin hue'ê doj dadin' nagi'iaj nakàt man ni hìo doj ga'ue gachrunt da'nga huìi danè nanj man'an ruhuât gatut.
 cfr-whatsnew-tracking-protect-title = Dugumîn man'ânt riña nej sa naga'naj a
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } naran riña daran' nej sa naga'naj sa 'iát riña aché nunt.
+cfr-whatsnew-tracking-protect-link-text = Ni'iaj nuguan' natâ't
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Narán riña sa naga'naj a
+       *[other] Narán riña nej sa naga'naj a
+    }
 
 ## Bookmark Sync
 
