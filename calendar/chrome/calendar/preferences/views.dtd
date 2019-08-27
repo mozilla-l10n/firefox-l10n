@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Nagusia">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Eguneko eta asteko ikuspegia">
 <!ENTITY pref.calendar.view.multiweekview.caption "Aste anitzeko ikuspegia">
 <!ENTITY pref.calendar.view.workweek.caption "Laneko astea">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Erakutsi aste zenbakiak ikuspegietan eta mini-hilabetetan">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "n">
 <!ENTITY pref.daysoff.label "Erabili egun hauek lan egun bezala:">
+
+<!ENTITY pref.workweekDays.label "Asteko lanegunak:">
 
 <!ENTITY pref.calendar.view.daystart.label "Eguna hasten da:">
 <!ENTITY pref.calendar.view.daystart.accesskey "E">

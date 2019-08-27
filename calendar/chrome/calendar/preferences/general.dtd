@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Ezarpen orokorrak" >
+
 <!ENTITY pref.dateformat.label "Data testu formatua:" >
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "Luzea" >
@@ -22,7 +23,10 @@
 <!ENTITY pref.tasks.label "Zereginak">
 
 <!ENTITY pref.default_event_length.label "Luzera lehenetsia:" >
-<!ENTITY pref.default_event_length.accesskey "e">
+<!ENTITY pref.default_event_length.accesskey "L">
+
+<!ENTITY pref.default_event_task_length.label "Gertaera eta zeregin lehenetsien luzera">
+<!ENTITY pref.default_event_task_length.accesskey "L">
 
 <!ENTITY pref.default_task_none.label "Bat ere ez">
 <!ENTITY pref.default_task_start_of_day.label "Egunaren hasiera">
@@ -34,9 +38,6 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Hurrengo orduarekiko erlatiboa">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Gaurko panela">
-<!ENTITY pref.soondays.label "Hurrengo atalak erakusten du:">
-<!ENTITY pref.soondays.accesskey "H">
-
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,
