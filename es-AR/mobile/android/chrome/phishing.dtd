@@ -4,14 +4,14 @@
 
 <!ENTITY safeb.palm.accept.label "¡Sáquenme de aquí!">
 <!ENTITY safeb.palm.decline.label "Ignorar esta advertencia">
-<!ENTITY safeb.palm.reportPage.label "¿Por qué fue bloqueada esta página?">
+<!ENTITY safeb.palm.reportPage.label "¿Por qué se bloqueó esta página?">
 <!-- Localization note (safeb.palm.advisory.desc) - Please don't translate <a id="advisory_provider"/> tag.  It will be replaced at runtime with advisory link-->
 <!ENTITY safeb.palm.advisory.desc "Asesoramiento proporcionado por <a id='advisory_provider'/>">
 
-<!ENTITY safeb.blocked.malwarePage.title "¡Página informada como ataque!">
+<!ENTITY safeb.blocked.malwarePage.title "¡Página informada como de ataque!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "La página web en <span id='malware_sitename'/> ha sido informada como una página de ataque y ha sido bloqueada según sus preferencias de seguridad.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Las páginas de ataque tratan de instalar programas que roban información privada, usan su computadora para atacar otras o dañan su sistema.</p><p>Algunas páginas de ataque intencionalmente distribuyen software dañino, pero muchos están comprometidos sin el conocimiento o permiso de sus dueños.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "La página web en <span id='malware_sitename'/> fue informada como una página de ataque y fue bloqueada según sus preferencias de seguridad.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Las páginas de ataque tratan de instalar programas que roban información privada, usan su computadora para atacar otras o dañan su sistema.</p><p>Algunas páginas de ataque intencionalmente distribuyen software dañino, pero muchas están comprometidas sin el conocimiento o permiso de sus dueños.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "¡Sitio engañoso!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
