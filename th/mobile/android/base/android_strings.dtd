@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "ไม่ใช่ตอนนี้">
 <!ENTITY firstrun_button_next "ถัดไป">
 
+<!ENTITY firstrun_signin_button2 "ลงชื่อเข้า">
+
 <!ENTITY firstrun_tabqueue_title "ลิงก์">
 
 <!ENTITY firstrun_readerview_title "บทความ">
@@ -875,6 +877,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "พร้อมใช้งานออฟไลน์">
 <!ENTITY helper_triple_readerview_open_message "เพิ่มที่คั่นหน้าสำหรับรายการมุมมองผู้อ่านเพื่ออ่านแบบออฟไลน์">
 <!ENTITY helper_triple_readerview_open_button "เพิ่มไปยังที่คั่นหน้า">
+
+<!ENTITY activity_stream_signin_title "ยินดีต้อนรับสู่ &brandShortName;">
+<!ENTITY activity_stream_signin_button "ลงชื่อเข้า">
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "ไซต์เด่น">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
