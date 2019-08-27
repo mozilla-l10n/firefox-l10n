@@ -250,18 +250,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administrar uso de software DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Abrir panel MIDI">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "Ha bloqueado la cámara para este sitio web.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Ha bloqueado el micrófono para este sitio web.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Ha bloqueado este sitio web para que no comparta la pantalla.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Ha bloqueado la información de ubicación para este sitio web.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ha bloqueado notificaciones para este sitio web.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Se ha bloqueado el almacenamiento persistente para este sitio web.">
-<!ENTITY urlbar.popupBlocked.tooltip             "Ha bloquedo emergentes para este sitio web.">
-<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Bloqueó el micrófono para este sitio web.">
-<!ENTITY urlbar.canvasBlocked.tooltip            "Se ha bloqueado la extracción de datos de canvas para este sitio web.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Bloqueó la cámara para este sitio web.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Bloqueó el micrófono para este sitio web.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Bloqueó este sitio web para que no comparta la pantalla.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Bloqueó la información de ubicación para este sitio web.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bloqueó las notificaciones para este sitio web.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Bloqueó el almacenamiento persistente para este sitio web.">
+<!ENTITY urlbar.popupBlocked.tooltip             "Bloqueó las ventanas emergentes para este sitio web.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Bloqueó los medios de reproducción automática con sonido para este sitio web.">
+<!ENTITY urlbar.canvasBlocked.tooltip            "Bloqueó la extracción de datos de canvas para este sitio web.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Bloqueó esta web para que no use el plugin de Adobe Flash.">
-<!ENTITY urlbar.midiBlocked.tooltip              "Ha bloqueado el acceso a MIDI para este sitio web.">
-<!ENTITY urlbar.installBlocked.tooltip           "Ha bloqueado la instalación de complementos para este sitio web.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Bloqueó el acceso a MIDI para este sitio web.">
+<!ENTITY urlbar.installBlocked.tooltip           "Bloqueó la instalación de complementos para este sitio web.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
 
@@ -898,12 +898,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "¿El sitio sigue sin cargarse después de deshabilitar las protecciones?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Enviar informe">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Bloqueado">
 <!ENTITY protections.notBlocking2.label "Permitido">
+<!ENTITY protections.notFound.label "Ninguno detectado">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "¿Por qué?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Bloquear estos podría dañar elementos de algunos sitios web. Sin rastreadores algunos botones, formularios y campos de inicio de sesión podrían no funcionar.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Desactivar las protecciones habilitará todos los rastreadores en este sitio. También puede mejorar su funcionalidad.">
-<!ENTITY protections.notFound.label "Ninguno detectado">
 <!ENTITY protections.socialMediaTrackers.label "Rastreadores de redes sociales">
 <!ENTITY protections.crossSiteTrackingCookies.label "Cookies de rastreo de sitios cruzados">
 <!ENTITY protections.trackingContent.label "Contenido de rastreo">
@@ -961,7 +970,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Rastreadores">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Para bloquear todos los rastreadores, configure el bloqueo de contenido en “Estricto”.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
