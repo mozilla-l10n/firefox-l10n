@@ -195,7 +195,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Mga Bookmark">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "I-bookmark ang Pahinang Ito">
+<!ENTITY bookmarkThisPageCmd.label "i-Bookmark ang Pahinang Ito">
 <!ENTITY editThisBookmarkCmd.label "i-Edit ang bookmark na ito">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
@@ -595,7 +595,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "Gawing Background sa Desktop…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "I-bookmark ang Pahinang Ito">
+<!ENTITY bookmarkPageCmd2.label       "i-Bookmark ang Pahinang Ito">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "I-bookmark ang Link na Ito">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
@@ -741,7 +741,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomToggleCmd.label        "I-zoom lamang ang Teksto">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
 
-<!ENTITY fullZoom.label                 "I-zoom">
+<!ENTITY fullZoom.label                 "i-Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Isara ang sidebar ">
