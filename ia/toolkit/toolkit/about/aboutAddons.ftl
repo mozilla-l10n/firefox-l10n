@@ -103,9 +103,11 @@ detail-private-browsing-description2 = Quando consentite, le extension habera ac
 # cannot be overridden by the user.
 detail-private-disallowed-label = Non permittite in fenestras private
 detail-private-disallowed-description = Iste extension non flue durante le navigation anonyme. <label data-l10n-name="detail-private-browsing-learn-more">Saper plus</label>.
+detail-private-disallowed-description2 = Iste extension non flue durante le navigation anonyme. <a data-l10n-name="learn-more">Saper plus</a>.
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Require accesso a Fenestras private
 detail-private-required-description = Iste extension ha accesso a tu activitates online durante le navigation anonyme. <label data-l10n-name="detail-private-browsing-learn-more">Saper plus</label>.
+detail-private-required-description2 = Iste extension ha accesso a tu activitates in rete durante le navigation anonyme. <a data-l10n-name="learn-more">Saper plus</a>.
 detail-private-browsing-on =
     .label = Consentir
     .tooltiptext = Activar in navigation anonime
@@ -366,6 +368,11 @@ install-update-button = Actualisar
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Permittite in fenestras private
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Consentite in navigation anonyme
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Quando consentite, le extension habera accesso a tu activitates online durante le navigation reservate. <a data-l10n-name="learn-more">Saper plus</a>
 addon-detail-private-browsing-allow = Consentir
 addon-detail-private-browsing-disallow = Non consentir
@@ -374,6 +381,11 @@ addon-detail-private-browsing-disallow = Non consentir
 addon-badge-recommended =
     .title = Recommendate
     .alt = Recommendate
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } recommenda solo le extensiones que satisface nostre standardos pro securitate e prestation.
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Actualisationes disponibile
 recent-updates-heading = Actualisationes recente
 release-notes-loading = Cargamento…

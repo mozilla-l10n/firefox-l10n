@@ -83,6 +83,7 @@ cfr-whatsnew-button =
     .tooltiptext = Novas
 cfr-whatsnew-panel-header = Novas
 cfr-whatsnew-release-notes-link-text = Lege le notas de version
+cfr-whatsnew-fx70-title = { -brand-short-name } lucta ora plus fortemente pro tu confidentialitate
 cfr-whatsnew-tracking-protect-title = Protege te ab le traciatores
 cfr-whatsnew-tracking-protect-link-text = Vide tu reporto
 # This string is displayed before a large numeral that indicates the total
@@ -96,6 +97,9 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = Desde { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Vide reporto
 cfr-whatsnew-lockwise-backup-title = Reserva tu contrasignos
+cfr-whatsnew-lockwise-backup-body = Genera contrasignos secur pro acceder ab cata apparato connexe a tu conto.
+cfr-whatsnew-lockwise-backup-link-text = Activar le salvamentos
+cfr-whatsnew-lockwise-take-title = Porta tu contrasignos con te
 cfr-whatsnew-lockwise-take-link-text = Discarga le app
 
 ## Bookmark Sync
