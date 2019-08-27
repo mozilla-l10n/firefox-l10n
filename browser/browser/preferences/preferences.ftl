@@ -437,6 +437,12 @@ browsing-search-on-start-typing =
     .label = Begynd søgning mens jeg taster
     .accesskey = s
 
+browsing-picture-in-picture-toggle-enabled =
+    .label = Vis kontrol-knapper for billed-i-billed
+    .accesskey = v
+
+browsing-picture-in-picture-learn-more = Læs mere
+
 browsing-cfr-recommendations =
     .label = Anbefal udvidelser mens jeg browser
     .accesskey = u

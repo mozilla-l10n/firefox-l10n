@@ -898,8 +898,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Virker webstedet stadig ikke, selvom du har slået beskyttelse fra?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Send en rapport">
 
-<!ENTITY protections.blocking.label "Blokerer">
-<!ENTITY protections.notBlocking.label "Blokerer ikke">
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Blokeret">
+<!ENTITY protections.notBlocking2.label "Tilladt">
+<!ENTITY protections.notFound.label "Ingen fundet">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Hvorfor?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Ved at blokere disse virker elementer på visse websteder måske ikke. Uden sporings-elementer virker nogle knapper, formularer og login-felter måske ikke.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Deaktivering af beskyttelse tillader alle sporings-elementer på dette websted. Det kan måske også forbedre webstedets funktionalitet.">

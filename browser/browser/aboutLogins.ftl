@@ -81,7 +81,6 @@ login-item-delete-button = Slet
 login-item-origin-label = Webstedets adresse
 login-item-origin =
   .placeholder = https://www.eksempel.dk
-login-item-open-site-button = Åbn
 login-item-username-label = Brugernavn
 login-item-username =
   .placeholder = navn@eksempel.dk
