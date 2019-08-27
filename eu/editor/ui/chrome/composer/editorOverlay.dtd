@@ -307,6 +307,7 @@
 <!ENTITY TextColorButton.tooltip "Aukeratu testuaren kolorea">
 <!ENTITY BackgroundColorButton.tooltip "Aukeratu atzeko planoko kolorea">
 <!ENTITY throbber.tooltip "Joan &vendorShortName;(r)en hasiera-orrira">
+<!ENTITY throbber.tooltip2 "Joan &brandShortName;(r)en hasiera-orrira">
 <!ENTITY HighlightColorButton.tooltip "Aukeratu testuaren nabarmentze-kolorea">
 
 <!-- Editor toolbar -->

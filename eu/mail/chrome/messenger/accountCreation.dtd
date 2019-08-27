@@ -80,10 +80,14 @@
 <!ENTITY half-manual-test.accesskey      "B">
 <!ENTITY manual-edit.label               "Eskuzko konfigurazioa">
 <!ENTITY manual-edit.accesskey           "E">
+<!ENTITY manual-config.label             "Eskouz konfiguratu…">
+<!ENTITY manual-config.accesskey         "E">
 <!ENTITY open-provisioner.label          "Eskuratu posta elektroniko berri bat…">
 <!ENTITY open-provisioner.accesskey      "p">
 
 
+<!ENTITY get-help.label                  "Lortu laguntza">
+<!ENTITY get-help.accesskey              "L">
 
 
 <!ENTITY warning.label                   "Kontuz!">
