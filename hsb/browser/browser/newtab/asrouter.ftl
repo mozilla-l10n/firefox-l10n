@@ -86,6 +86,10 @@ cfr-whatsnew-button =
     .label = Nowe funkcije a změny
     .tooltiptext = Nowe funkcije a změny
 cfr-whatsnew-panel-header = Nowe funkcije a změny
+cfr-whatsnew-release-notes-link-text = Wersijowe informacije čitać
+cfr-whatsnew-fx70-title = { -brand-short-name } ćešo za wašu priwatnosć wojuje
+cfr-whatsnew-fx70-body = Najnowša aktualizacije funkciju slědowanski škit polěpša a wosnadnja bóle hač hdy prjedy, wěste hesła za kóžde sydło wutworić.
+cfr-whatsnew-tracking-protect-title = Škitajće so před přesćěhowakami
 
 ## Bookmark Sync
 
