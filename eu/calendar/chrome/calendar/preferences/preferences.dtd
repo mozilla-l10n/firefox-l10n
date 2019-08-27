@@ -6,3 +6,6 @@
 <!ENTITY  paneAlarms.title        "Gogorarazleak">
 <!ENTITY  paneCategories.title    "Kategoriak">
 <!ENTITY  paneViews.title         "Ikuspegiak">
+<!ENTITY  panelHeader.title       "Egutegia">
+<!ENTITY  panelReminder.title     "Gogorarazleak">
+<!ENTITY  panelCatecory.title     "Kategoriak">

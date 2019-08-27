@@ -13,6 +13,7 @@
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Erabili soinu lehenetsia">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "l">
 <!ENTITY pref.calendar.alarms.sound.useCustom.label "Erabili hurrengo soinu-fitxategia">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "E">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Arakatu…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "A">
 <!ENTITY pref.calendar.alarms.sound.play.label "Erreproduzitu">
