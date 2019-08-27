@@ -81,12 +81,33 @@ cfr-whatsnew-button =
     .label = Qué hay de nuevo
     .tooltiptext = Qué hay de nuevo
 cfr-whatsnew-panel-header = Qué hay de nuevo
+cfr-whatsnew-tracking-protect-title = Protégete de los rastreadores
+cfr-whatsnew-tracking-protect-link-text = Mira tu reporte
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Rastreador bloqueado
+       *[other] Rastreadores bloqueados
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Desde { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Ver reporte
+cfr-whatsnew-lockwise-backup-title = Respalda tus contraseñas
+cfr-whatsnew-lockwise-backup-link-text = Activar respaldos
+cfr-whatsnew-lockwise-take-title = Lleva tus contraseñas contigo
+cfr-whatsnew-lockwise-take-link-text = Obtener la aplicación
 
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Lleva este marcador a tu teléfono
 cfr-doorhanger-sync-bookmarks-body = Lleva tus marcadores, contraseñas, historial y más a todas partes en que te conectes con tu { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Activa { -sync-brand-short-name }
+    .accesskey = T
+
+## Login Sync
+
+cfr-doorhanger-sync-logins-ok-button = Activar { -sync-brand-short-name }
     .accesskey = T
 
 ## Send Tab
