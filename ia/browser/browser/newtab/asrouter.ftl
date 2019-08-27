@@ -82,6 +82,21 @@ cfr-whatsnew-button =
     .label = Novas
     .tooltiptext = Novas
 cfr-whatsnew-panel-header = Novas
+cfr-whatsnew-release-notes-link-text = Lege le notas de version
+cfr-whatsnew-tracking-protect-title = Protege te ab le traciatores
+cfr-whatsnew-tracking-protect-link-text = Vide tu reporto
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Traciator blocate
+       *[other] Traciatores blocate
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Desde { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Vide reporto
+cfr-whatsnew-lockwise-backup-title = Reserva tu contrasignos
+cfr-whatsnew-lockwise-take-link-text = Discarga le app
 
 ## Bookmark Sync
 

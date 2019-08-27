@@ -292,6 +292,10 @@ install-theme-button = Installar thema
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Gerer
 find-more-addons = Trovar altere additivos
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Altere optiones
 
 ## Add-on actions
 

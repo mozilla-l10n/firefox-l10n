@@ -339,6 +339,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Cercar le texto quando tu comencia a scriber
     .accesskey = x
+browsing-picture-in-picture-learn-more = Saper plus
 browsing-cfr-recommendations =
     .label = Extensiones recommendate quando tu naviga
     .accesskey = r
