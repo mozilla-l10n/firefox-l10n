@@ -831,7 +831,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.evOwnerLabel "El dueño de este sitio es:">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
+<!ENTITY identity.activeBlocked "&brandShortName; bloqueó las partes de esta página que no son seguras.">
 <!ENTITY identity.passiveLoaded "Partes de esta página no son seguras (como las imágenes).">
 <!ENTITY identity.activeLoaded "Ha deshabilitado la protección en esta página.">
 <!ENTITY identity.weakEncryption "Esta página usa cifrado débil.">
@@ -841,10 +841,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecureLoginForms "La información de ingreso que se usó en esta página no es segura puede estar comprometida.">
 <!ENTITY identity.description.weakCipher "La conexión a este sitio usa cifrado débil y no es privada.">
 <!ENTITY identity.description.weakCipher2 "Otras personas pueden ver la información o modificar el comportamiento del sitio.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; bloqueó las partes de esta página que no son seguras.">
 <!ENTITY identity.description.passiveLoaded "La conexión no es privada y la información que se comparta con el sitio puede ser vista por otros.">
 <!ENTITY identity.description.passiveLoaded2 "Este sitio incluye contenido que no es seguro (como las imágenes).">
-<!ENTITY identity.description.passiveLoaded3 "Aunque &brandShortName; ha bloqueado algún contenido, aún hay contenido en la página que no es seguro (como las imágenes).">
+<!ENTITY identity.description.passiveLoaded3 "Aunque &brandShortName; bloqueó algún contenido, todavía hay contenido en la página que no es seguro (tal como las imágenes).">
 <!ENTITY identity.description.activeLoaded "Este sitio incluye contenido que no es seguro (como scripts) y la conexión no es privada.">
 <!ENTITY identity.description.activeLoaded2 "La información compartida con este sitio puede ser vista por otros (como contraseñas, mensajes, tarjetas de crédito, etc.).">
 <!ENTITY identity.description.customRoot "Mozilla no reconoce a este emisor de certificados. Puede haber sido agregado desde el sistema operativo o por un administrador.">
