@@ -110,6 +110,8 @@ cfr-whatsnew-lockwise-backup-title = Zawěsććo swóje gronidła
 cfr-whatsnew-lockwise-backup-body = Napórajśo něnto wěste gronidła, ku kótarymž maśo wšuźi pśistup, źož se pśizjawijośo.
 cfr-whatsnew-lockwise-backup-link-text = Zawěsćenja zmóžniś
 cfr-whatsnew-lockwise-take-title = Wzejśo swóje gronidła sobu
+cfr-whatsnew-lockwise-take-body = Mobilne nałoženje { -lockwise-brand-short-name } wam wěsty pśistup k wašym zawěsćonym gronidłam wót wšuźi zmóžnja,
+cfr-whatsnew-lockwise-take-link-text = Wobstarajśo se nałoženje
 
 ## Bookmark Sync
 
