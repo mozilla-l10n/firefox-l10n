@@ -80,6 +80,33 @@ cfr-whatsnew-button =
     .label = Có gì mới
     .tooltiptext = Có gì mới
 cfr-whatsnew-panel-header = Có gì mới
+cfr-whatsnew-release-notes-link-text = Đọc ghi chú phát hành
+cfr-whatsnew-fx70-title = { -brand-short-name } bây giờ chiến đấu mạnh mẽ hơn cho quyền riêng tư của bạn
+cfr-whatsnew-fx70-body =
+    Bản cập nhật mới nhất nâng cao tính năng chống theo dõi và làm cho nó
+    dễ dàng hơn bao giờ hết để tạo mật khẩu an toàn cho mọi trang web.
+cfr-whatsnew-tracking-protect-title = Bảo vệ bạn khỏi trình theo dõi
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } chặn nhiều trình theo dõi xã hội và trang web phổ biến mà
+    nó theo dõi những gì bạn làm trực tuyến
+cfr-whatsnew-tracking-protect-link-text = Xem báo cáo của bạn
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+       *[other] Trình theo dõi đã chặn
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Từ { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Xem báo cáo
+cfr-whatsnew-lockwise-backup-title = Sao lưu mật khẩu của bạn
+cfr-whatsnew-lockwise-backup-body = Bây giờ tạo mật khẩu an toàn, bạn có thể truy cập bất cứ nơi nào bạn đăng nhập.
+cfr-whatsnew-lockwise-backup-link-text = Bật sao lưu
+cfr-whatsnew-lockwise-take-title = Mang mật khẩu theo bên bạn
+cfr-whatsnew-lockwise-take-body =
+    Ứng dụng di động { -lockwise-brand-short-name } cho phép bạn truy cập an toàn
+    mật khẩu được sao lưu từ bất cứ đâu.
+cfr-whatsnew-lockwise-take-link-text = Tải ứng dụng
 
 ## Bookmark Sync
 
