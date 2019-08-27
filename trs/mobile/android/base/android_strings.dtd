@@ -879,6 +879,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "Nutò\&apos; riña sa raj sun nichro\&apos; doj">
 
 <!ENTITY activity_stream_signin_title "Guruhuât gunumânt riña &brandShortName;">
+<!ENTITY activity_stream_signin_description "Gayi\&apos;ì nagi\&apos;iaj nuguan\&apos;ànt nej si markadôt, da\&apos;nga\&apos; huìi nī doj sa huāa ngà si kuendât Firefox.">
+<!ENTITY activity_stream_signin_button "Gayi\&apos;ì sesiûn">
 <!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
 These labels are shown in the Activity Stream recommending the user to sign in. -->
 
