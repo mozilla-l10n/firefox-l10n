@@ -80,9 +80,20 @@ cfr-whatsnew-button =
     .tooltiptext = Yang Baru
 cfr-whatsnew-panel-header = Yang Baru
 cfr-whatsnew-tracking-protect-link-text = Lihat Laporan Anda
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+       *[other] Pelacak diblokir
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Sejak { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Lihat Laporan
+cfr-whatsnew-lockwise-take-link-text = Dapatkan aplikasinya
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Dapatkan markah ini di telepon Anda
 
 ## Login Sync
 
