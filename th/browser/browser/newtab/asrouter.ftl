@@ -77,8 +77,23 @@ cfr-whatsnew-button =
     .label = มีอะไรใหม่
     .tooltiptext = มีอะไรใหม่
 cfr-whatsnew-panel-header = มีอะไรใหม่
+cfr-whatsnew-tracking-protect-link-text = ดูรายงานของคุณ
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+       *[other] ตัวติดตามที่ถูกปิดกั้น
+    }
+cfr-whatsnew-tracking-blocked-link-text = ดูรายงาน
+cfr-whatsnew-lockwise-backup-title = สำรองรหัสผ่านของคุณ
+cfr-whatsnew-lockwise-backup-link-text = เปิดการสำรองข้อมูล
+cfr-whatsnew-lockwise-take-link-text = รับแอป
 
 ## Bookmark Sync
+
+
+## Login Sync
 
 
 ## Send Tab
