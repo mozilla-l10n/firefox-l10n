@@ -82,6 +82,34 @@ cfr-whatsnew-button =
     .label = Wat is er nieuw
     .tooltiptext = Wat is er nieuw
 cfr-whatsnew-panel-header = Wat is er nieuw
+cfr-whatsnew-release-notes-link-text = Uitgaveopmerkingen lezen
+cfr-whatsnew-fx70-title = { -brand-short-name } vecht nu nog harder voor uw privacy
+cfr-whatsnew-fx70-body =
+    De nieuwste update verbetert de functie Bescherming tegen volgen en maakt het
+    gemakkelijker dan ooit om veilige wachtwoorden voor elke website te maken.
+cfr-whatsnew-tracking-protect-title = Bescherm uzelf tegen trackers
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } blokkeert veel gebruikelijke sociale en cross-site-trackers die
+    volgen wat u online doet.
+cfr-whatsnew-tracking-protect-link-text = Uw rapport bekijken
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Tracker geblokkeerd
+       *[other] Trackers geblokkeerd
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Sinds { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Rapport bekijken
+cfr-whatsnew-lockwise-backup-title = Maak een back-up van uw wachtwoorden
+cfr-whatsnew-lockwise-backup-body = Maak nu veilige wachtwoorden die u overal waar u zich aanmeldt kunt benaderen.
+cfr-whatsnew-lockwise-backup-link-text = Back-ups inschakelen
+cfr-whatsnew-lockwise-take-title = Neem uw wachtwoorden mee
+cfr-whatsnew-lockwise-take-body =
+    Met de mobiele app { -lockwise-brand-short-name } heeft u overal veilig
+    toegang tot uw wachtwoorden.
+cfr-whatsnew-lockwise-take-link-text = App downloaden
 
 ## Bookmark Sync
 
