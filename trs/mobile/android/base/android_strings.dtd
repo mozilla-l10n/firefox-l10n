@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Si ga\&apos;ue a\&apos;kuan\&apos; \&apos;nin">
 <!ENTITY firstrun_button_next "ne\&apos;ñàan">
 
+<!ENTITY firstrun_signin_button2 "Gayi\&apos;ì sesiûn">
+
 <!ENTITY firstrun_tabqueue_title "Riña gun\&apos;">
 
 <!ENTITY firstrun_readerview_title "Artikulu">
@@ -875,6 +877,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Ga\&apos;ue gahui\&apos;">
 <!ENTITY helper_triple_readerview_open_message "Hua \&apos;ngo rakïj ñanj ruguñu\&apos;unj gahio\&apos; nuj si nitaj internet hua.">
 <!ENTITY helper_triple_readerview_open_button "Nutò\&apos; riña sa raj sun nichro\&apos; doj">
+
+<!ENTITY activity_stream_signin_title "Guruhuât gunumânt riña &brandShortName;">
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "Sa yitïnj doj">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
