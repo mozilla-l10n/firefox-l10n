@@ -34,6 +34,7 @@
 <!ENTITY firstrun_button_notnow "No ahora">
 <!ENTITY firstrun_button_next "Siguiente">
 
+
 <!ENTITY firstrun_tabqueue_title "Enlaces">
 
 <!ENTITY firstrun_readerview_title "Artículos">
@@ -714,7 +715,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title2 "Protección de rastreo">
 <!ENTITY doorhanger_tracking_state_enabled "Habilitada">
 <!ENTITY doorhanger_tracking_state_disabled "Deshabilitada">
-<!ENTITY doorhanger_tracking_message_enabled1 "Se han bloqueado intentos de rastrear el comportamiento en línea.">
+<!ENTITY doorhanger_tracking_message_enabled1 "Se bloquearon los intentos de rastrear su comportamiento en línea.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Esta página incluye elementos que pueden rastrear la navegación.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
@@ -878,6 +879,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Disponible sin conexión">
 <!ENTITY helper_triple_readerview_open_message "Marcar ítems de vista de lectura para leerlos sin conexión.">
 <!ENTITY helper_triple_readerview_open_button "Agregar a marcadores">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "Más visitados">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
