@@ -8,12 +8,12 @@
 <!ENTITY findAgainCmd.commandkey        "G">
 <!ENTITY findAgainCmd.commandkey2       "VK_F3">
 
-<!ENTITY backButton.label               "უკან">
-<!ENTITY backButton.accesskey           "B">
-<!ENTITY backButton.tooltip             "უკან ერთი გვერდით">
-<!ENTITY forwardButton.label            "წინ">
-<!ENTITY forwardButton.accesskey        "F">
-<!ENTITY forwardButton.tooltip          "წინ ერთი გვერდით">
+<!ENTITY backButton.label               "წინა">
+<!ENTITY backButton.accesskey           "წ">
+<!ENTITY backButton.tooltip             "მომდევნო გვერდზე გადასვლა">
+<!ENTITY forwardButton.label            "მომდევნო">
+<!ENTITY forwardButton.accesskey        "მ">
+<!ENTITY forwardButton.tooltip          "წინა გვერდზე დაბრუნება">
 <!ENTITY copyCmd.label                  "ასლი">
 <!ENTITY copyCmd.accesskey              "ლ">
 <!ENTITY selectAllCmd.label             "ყველას მონიშვნა">

@@ -43,10 +43,10 @@
 <!ENTITY editBookmark.removeBookmark.accessKey "უ">
 
 <!-- Toolbar items --> 
-<!ENTITY backButton.label             "უკან">
-<!ENTITY backButton.tooltip           "უკან ერთი გვერდით">
-<!ENTITY forwardButton.label          "წინ">
-<!ENTITY forwardButton.tooltip        "წინ ერთი გვერდით">
+<!ENTITY backButton.label             "წინა">
+<!ENTITY backButton.tooltip           "ერთი გვერდით წინ">
+<!ENTITY forwardButton.label          "მომდევნო">
+<!ENTITY forwardButton.tooltip        "ერთი გვერდით შემდგომ">
 <!ENTITY reloadButton.label           "განახლება">
 <!ENTITY reloadButton.tooltip         "აქტიური გვერდის განახლება">
 <!ENTITY stopButton.label             "შეჩერება">
@@ -63,7 +63,7 @@
 <!ENTITY throbber.tooltip2            "&brandShortName; – საწყის გვერდზე გადასვლა">
 
 <!ENTITY locationBar.tooltip          "საძიებო ტერმინის, საკვანძო სიტყვის ან მისამართის მითითება">
-<!ENTITY locationBar.accesskey        "d">
+<!ENTITY locationBar.accesskey        "თ">
 <!ENTITY locationBar.title            "მისამართი">
 <!ENTITY proxyIcon.tooltip            "ხატულას გადათრევა ამ გვერდის ბმულის შესაქმნელად">
 
