@@ -4,8 +4,9 @@
 
 -sync-brand-short-name =
     { $case ->
-       *[nom] Sync
-        [gen] Sync-ის
+       *[nom] სინქრონიზაცია
+        [dat] სინქრონიზაციას
+        [gen] სინქრონიზაციის
     }
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.

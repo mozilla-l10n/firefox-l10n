@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = სრული ეკრანი
     .accesskey = ს
 
-##
+
 
 menu-view-show-all-tabs =
     .label = ყველა ჩანართის ჩვენება
@@ -219,7 +219,7 @@ menu-tools-sync-re-auth =
     .label = { -sync-brand-short-name } – ხელახლა დაკავშირება…
     .accesskey = ხ
 menu-tools-web-developer =
-    .label = ვებშემმუშავება
+    .label = ვებშემუშავება
     .accesskey = ვ
 menu-tools-page-source =
     .label = გვერდის წყარო

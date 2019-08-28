@@ -103,6 +103,7 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = თარიღიდან { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = ანგარიშის ნახვა
 cfr-whatsnew-lockwise-backup-title = დაამარქაფეთ პაროლები
+cfr-whatsnew-lockwise-backup-body = ახლა კი შექმენით პაროლები, რომლებთან წვდომაც ნებისმიერი ადგილიდან შეგეძლებათ, ანგარიშის საშუალებით.
 cfr-whatsnew-lockwise-backup-link-text = მარქაფის ჩართვა
 cfr-whatsnew-lockwise-take-title = თან წაიყოლეთ თქვენი პაროლები
 cfr-whatsnew-lockwise-take-body =

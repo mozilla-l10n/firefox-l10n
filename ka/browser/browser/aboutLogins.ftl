@@ -77,7 +77,6 @@ login-item-delete-button = წაშლა
 login-item-origin-label = საიტის მისამართი
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = ხილვა
 login-item-username-label = მომხმარებლის სახელი
 login-item-username =
     .placeholder = სახელი@example.com
@@ -111,8 +110,8 @@ confirmation-dialog-dismiss-button =
     .title = გაუქმება
 enable-password-sync-notification-message =
     { PLATFORM() ->
-        [windows] გსურთ თქვენი ანგარიშები თან იქონიეთ ყველგან, სადაც { -brand-product-name }-ს იყენებთ? გადადით { -sync-brand-short-name(case: "gen") } პარამეტრებში და მონიშნეთ ანგარიშების უჯრა.
-       *[other] გსურთ თქვენი ანგარიშები თან იქონიეთ ყველგან, სადაც { -brand-product-name }-ს იყენებთ? გადადით { -sync-brand-short-name(case: "gen") } პარამეტრებში და მონიშნეთ ანგარიშების უჯრა.
+        [windows] გსურთ თქვენი ანგარიშები თან იქონიოთ ყველგან, სადაც { -brand-product-name(case: "dat") } იყენებთ? გადადით { -sync-brand-short-name(case: "gen") } პარამეტრებში და მონიშნეთ ანგარიშების უჯრა.
+       *[other] გსურთ თქვენი ანგარიშები თან იქონიოთ ყველგან, სადაც { -brand-product-name(case: "dat") } იყენებთ? გადადით { -sync-brand-short-name(case: "gen") } პარამეტრებში და მონიშნეთ ანგარიშების უჯრა.
     }
 enable-password-sync-preferences-button =
     .label =
