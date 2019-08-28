@@ -101,3 +101,5 @@ cfr-whatsnew-lockwise-take-link-text = รับแอป
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-ok-button = ลอง { -send-brand-name }
+    .accesskey = ล
