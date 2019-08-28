@@ -32,7 +32,7 @@ menu-file-close-window =
     .label = उइन्ड'खौ बन्द खालाम
     .accesskey = d
 menu-file-save-page =
-    .label = ..बादि बिलाइखौ थिना दोन...
+    .label = बादि बिलाइखौ थिना दोन...
     .accesskey = A
 menu-file-email-link =
     .label = इ-मेइल लिंक...
@@ -139,7 +139,7 @@ menu-view-full-screen =
     .label = आबुं स्क्रिन
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = गासै टेबखौ दिन्थि
