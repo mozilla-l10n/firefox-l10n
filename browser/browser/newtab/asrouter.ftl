@@ -83,7 +83,14 @@ cfr-whatsnew-button =
     .tooltiptext = Kva er nytt
 cfr-whatsnew-panel-header = Kva er nytt
 cfr-whatsnew-release-notes-link-text = Les versjonsnotatet
+cfr-whatsnew-fx70-title = { -brand-short-name } jobbar no endå meir for personvernet ditt
+cfr-whatsnew-fx70-body =
+    Den siste oppdateringa forbetrar sporingsbesvernfunksjonen og gjer det
+    enklare enn nokon gong å lage sikre passord for kvar nettstad.
 cfr-whatsnew-tracking-protect-title = Beskytt deg mot sporfølgjarar
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } blokkerer mange vanlege sporfølgjarar på sosiale medium og sporing på tvers av nettstadar som
+    følgjer det du gjer på nettet.
 cfr-whatsnew-tracking-protect-link-text = Vis rapporten din
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
