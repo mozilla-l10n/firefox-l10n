@@ -173,6 +173,8 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-highlights-option-visited-pages =
+    .label = Páginas ntsinu
 home-prefs-sections-rows-option =
     .label = { $num } fila
 

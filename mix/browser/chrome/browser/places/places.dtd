@@ -1,0 +1,26 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+
+
+
+
+
+<!ENTITY cmd.open.label                  "Kuna">
+<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open_window.label           "Kunàa nu inka nu sachuun tsàa">
+<!ENTITY cmd.open_window.accesskey       "N">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
+
+
+
+
+
+
+
+
+
+
+
