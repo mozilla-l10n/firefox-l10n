@@ -803,7 +803,7 @@ permissions-addon-exceptions =
     .label = Eisgeachdan…
     .accesskey = E
 permissions-a11y-privacy-checkbox =
-    .label = Na leig le seirbheisean so-inntrigeachd cothrom fhaighinn air a’ bhrabhsair agad
+    .label = Na leig le seirbheisean so-ruigsinneachd cothrom fhaighinn air a’ bhrabhsair agad
     .accesskey = a
 permissions-a11y-privacy-link = Barrachd fiosrachaidh
 
