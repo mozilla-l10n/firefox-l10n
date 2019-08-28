@@ -730,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Izberite stolpce za prikaz">
+<!ENTITY selectColumn.tooltip "Preklopi izbor vseh sporočil">
 <!ENTITY threadColumn2.tooltip "Prikaži niti sporočil">
 <!ENTITY fromColumn2.tooltip "Razvrsti po od">
 <!ENTITY recipientColumn2.tooltip "Razvrsti po prejemniku">
