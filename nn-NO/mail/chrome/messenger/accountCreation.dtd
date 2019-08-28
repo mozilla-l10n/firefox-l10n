@@ -3,21 +3,32 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Konfigurer ein eksisterende e-postkonto">
+
+<!ENTITY emailWizard.title               "Konfigurer den eksisterande e-postkontoen din">
+<!ENTITY emailWizard.caption             "Bruk e-postadressa du har no">
 <!ENTITY name.label                      "Namnet ditt:">
 <!ENTITY name.accesskey                  "N">
 <!ENTITY name.placeholder                "Fornamn, etternamn">
+<!ENTITY fullname.placeholder            "Ditt fulle namn">
 <!ENTITY name.text                       "Namnet ditt, slik det vert vist til andre">
+<!ENTITY name.error                      "Skriv inn namnet ditt">
 <!ENTITY email.label                     "E-postaddresse:">
 <!ENTITY email.accesskey                 "E">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "deg@example.com">
+<!ENTITY email3.placeholder              "E-postadressa di">
 <!ENTITY email.text                      "Di eksisterande e-postadresse">
+<!ENTITY email.error                     "Ugyldig e-postadresse">
 <!ENTITY password.label                  "Passord:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Passord">
 <!ENTITY password.text                   "Valfritt, -vert berre brukt til å stadfeste brukarnamnet.">
+<!ENTITY password.toggle                 "Vis/Gøym passord">
 <!ENTITY rememberPassword.label          "Hugs passord">
 <!ENTITY rememberPassword.accesskey      "H">
+<!ENTITY usernameEx.label                "Di innlogging:">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 
 <!ENTITY imapLong.label                  "IMAP (mapper på tenaren)">
 <!ENTITY pop3Long.label                  "POP3 (e-post vert lagra på datamaskina di)">
@@ -30,7 +41,8 @@
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Autentisering">
 <!ENTITY imap.label                      "IMAP">
-<!ENTITY pop3.label                       "POP3">
+<!ENTITY pop3.label                      "POP3">
+<!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Oppdag automatisk">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
@@ -38,6 +50,8 @@
 <!ENTITY noEncryption.label              "Ingen">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
+
+<!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
 
 <!ENTITY advancedSetup.label             "Avanserte innstillingar">
 <!ENTITY advancedSetup.accesskey         "A">
@@ -48,7 +62,7 @@
 <!ENTITY stop.label                      "Stopp">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Test på nytt">
@@ -57,6 +71,8 @@
 <!ENTITY manual-edit.accesskey           "M">
 <!ENTITY open-provisioner.label          "Få ei ny e-postadresse…">
 <!ENTITY open-provisioner.accesskey      "a">
+
+
 
 
 <!ENTITY warning.label                   "Åtvaring!">
