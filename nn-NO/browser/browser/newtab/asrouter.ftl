@@ -99,6 +99,9 @@ cfr-whatsnew-lockwise-backup-title = Ta sikkerheitskopi av passorda dine
 cfr-whatsnew-lockwise-backup-body = No kan du generere sikre passord du får tilgang til kvar som helst du loggar inn.
 cfr-whatsnew-lockwise-backup-link-text = Slå på sikkerheitskopiering
 cfr-whatsnew-lockwise-take-title = Ta med deg passorda dine
+cfr-whatsnew-lockwise-take-body =
+    Mobilappen { -lockwise-brand-short-name } lèt deg få tilgang til dei
+    sikkerheitskopierte passorda dine kvar som helst.
 cfr-whatsnew-lockwise-take-link-text = Last ned appen
 
 ## Bookmark Sync

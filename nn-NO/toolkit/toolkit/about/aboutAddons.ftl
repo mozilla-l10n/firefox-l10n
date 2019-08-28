@@ -98,9 +98,11 @@ detail-private-browsing-description2 = Viss du tillèt det, vil utvidinga ha til
 # cannot be overridden by the user.
 detail-private-disallowed-label = Ikkje tillate i private vindauge
 detail-private-disallowed-description = Denne utvidinga fungerer ikkje med privat surfning. <label data-l10n-name="detail-private-browsing-learn-more">Les meir</label>
+detail-private-disallowed-description2 = Denne utvidinga køyrer ikkje medan du brukar privat nettlesing. <a data-l10n-name="learn-more">Les meir</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Krev tilgang til private vindauge
 detail-private-required-description = Denne udvidinga har tilgang til aktiviteten din på nettet når du brukar privat nettlesing.<label data-l10n-name="detail-private-browsing-learn-more">Les meir</label>
+detail-private-required-description2 = Denne utvidinga har tilgang til aktivitetane dine på nettet medan du brukar privat nettlesing. <a data-l10n-name="learn-more">Les meir</a>
 detail-private-browsing-on =
     .label = Tillat
     .tooltiptext = Tillat i privat nettlesing
@@ -252,6 +254,10 @@ shortcuts-letter = Skriv ein bokstav
 shortcuts-system = Kan ikkje overskrive ein { -brand-short-name }-snarveg
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Duplisert hurtigtast
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } blir brukt som ein hurtigtast i meir enn eitt tilfelle. Dublerte hurtigtastar kan vere årsak til uventa oppførsel.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -382,6 +388,11 @@ addon-detail-private-browsing-disallow = Ikkje tillat
 addon-badge-recommended =
     .title = Tilrådd
     .alt = Tilrådd
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } tilrår berre utvidingar som oppfyller standardane våre for sikkerheit og yting
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Tilgjengelege oppdateringar
 recent-updates-heading = Nylege oppdateringar
 release-notes-loading = Lastar…
