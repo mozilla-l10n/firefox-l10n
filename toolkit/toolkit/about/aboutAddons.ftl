@@ -103,9 +103,11 @@ detail-private-browsing-description2 = Якщо дозволено, розшир
 # cannot be overridden by the user.
 detail-private-disallowed-label = Не дозволено в приватних вікнах
 detail-private-disallowed-description = Це розширення не працює під час приватного перегляду. <label data-l10n-name="detail-private-browsing-learn-more">Докладніше</label>
+detail-private-disallowed-description2 = Це розширення не працює під час приватного перегляду. <a data-l10n-name="learn-more">Докладніше</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Потребує доступу до приватних вікон
 detail-private-required-description = Це розширення має доступ до вашої діяльності в мережі під час приватного перегляду. <label data-l10n-name="detail-private-browsing-learn-more">Докладніше</label>
+detail-private-required-description2 = Це розширення має доступ до вашої онлайн діяльності під час приватного перегляду. <a data-l10n-name="learn-more">Докладніше</a>
 detail-private-browsing-on =
     .label = Дозволити
     .tooltiptext = Увімкнути в приватному перегляді
@@ -303,6 +305,10 @@ install-theme-button = Встановити тему
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Керувати
 find-more-addons = Знайти інші додатки
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Інші варіанти
 
 ## Add-on actions
 
@@ -374,6 +380,11 @@ install-update-button = Оновити
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Дозволено в приватних вікнах
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Дозволено в приватних вікнах
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Якщо дозволено, розширення матиме доступ до вашої діяльності в режимі приватного перегляду. <a data-l10n-name="learn-more">Докладніше</a>
 addon-detail-private-browsing-allow = Дозволити
 addon-detail-private-browsing-disallow = Не дозволяти
@@ -382,6 +393,11 @@ addon-detail-private-browsing-disallow = Не дозволяти
 addon-badge-recommended =
     .title = Рекомендовано
     .alt = Рекомендовано
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } рекомендує лише розширення, що задовольняють наші стандарти безпеки та швидкодії
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Доступні оновлення
 recent-updates-heading = Недавні оновлення
 release-notes-loading = Завантаження…
