@@ -10,6 +10,6 @@
 <!ENTITY copyCmd.label       "Eesa ivatz">  
 <!ENTITY copyCmd.accesskey   "C"> 
 <!ENTITY copyCmd.commandkey  "C"> 
-  
+<!ENTITY closeCmd.commandkey "w">  
   
   

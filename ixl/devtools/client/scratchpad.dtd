@@ -28,6 +28,9 @@
 
 
 
+<!ENTITY closeCmd.label               "Jupa">
+<!ENTITY closeCmd.key                 "W">
+<!ENTITY closeCmd.accesskey           "C">
 
 
 

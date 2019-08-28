@@ -5,6 +5,9 @@
 
 ## File Menu
 
+menu-file-close =
+    .label = Jupa
+    .accesskey = C
 
 ## Edit Menu
 

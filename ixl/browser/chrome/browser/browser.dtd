@@ -52,6 +52,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY fullScreenClose.tooltip "Jupa">
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
@@ -283,7 +284,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY closeCmd.label                 "Jupa">
 
+<!ENTITY closeCmd.key                   "W">
+<!ENTITY closeCmd.accesskey             "C">
 
 
 
@@ -389,6 +393,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
 
+<!ENTITY uiTour.infoPanel.close "Jupa">
 
 
 

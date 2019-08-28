@@ -14,3 +14,4 @@ hf-custom =
 print-percent =
     .value = { $percent }%
 dialog-cancel-label = Ya'sakan
+dialog-close-label = Jupa

@@ -4,6 +4,9 @@
 
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
+<!ENTITY file.close.label               "Jupa">
+<!ENTITY file.close.accesskey           "C">
+<!ENTITY cmd.close.key                  "w">
 
 
 

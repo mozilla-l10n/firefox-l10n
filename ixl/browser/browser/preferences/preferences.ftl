@@ -14,6 +14,8 @@ category-search =
 pane-sync-title2 = { -sync-brand-short-name }
 focus-search =
     .key = f
+close-button =
+    .aria-label = Jupa
 
 ## Browser Restart Dialog
 

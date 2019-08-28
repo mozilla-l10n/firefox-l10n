@@ -5,6 +5,7 @@
 <!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
+<!ENTITY closeCmd.key  "W">
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
