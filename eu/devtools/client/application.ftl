@@ -69,3 +69,9 @@ serviceworker-empty-suggestions-debugger = Begiratu urratsez urrats zerbitzu-lan
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Ikustatu beste domeinuetako zerbitzu-langileak. <a>Ireki about:debugging</a>
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Erroreak eta abisuak
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Aurkezpena
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Ikonoak
