@@ -7,14 +7,14 @@
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
 <!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 38em;">
 
-<!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "Kopiëren">
-<!ENTITY  copy.accesskey        "K">
-<!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Alles selecteren">
-<!ENTITY  selectall.accesskey   "A">
-<!ENTITY  openHelpMac.key       "?">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  copy.key               "C">
+<!ENTITY  copy.label             "Kopiëren">
+<!ENTITY  copy.accesskey         "K">
+<!ENTITY  selectall.key          "A">
+<!ENTITY  selectall.label        "Alles selecteren">
+<!ENTITY  selectall.accesskey    "A">
+<!ENTITY  openHelpMac.key        "?">
+<!ENTITY  closeWindow.key        "w">
 <!ENTITY  copyLinks.label           "Koppeling(en) kopiëren">
 <!ENTITY  copyLinks.accesskey       "K">
 <!ENTITY  openInNewTab.label        "Openen in nieuw tabblad">
@@ -34,7 +34,7 @@
 <!ENTITY  generalEncoding2      "Tekstcodering:">
 <!ENTITY  generalMetaName       "Naam">
 <!ENTITY  generalMetaContent    "Inhoud">
-<!ENTITY  generalSecurityDetails   "Details">
+<!ENTITY  generalSecurityDetails           "Details">
 <!ENTITY  generalSecurityDetails.accesskey "D">
 
 <!ENTITY  formsTab              "Formulieren">
@@ -62,6 +62,8 @@
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaURL              "Adres:">
 <!ENTITY  mediaAlt              "Alternatieve tekst:">
+<!ENTITY  mediaLocation         "Locatie:">
+<!ENTITY  mediaText             "Geassocieerde tekst:">
 <!ENTITY  mediaAltHeader        "Alternatieve tekst">
 <!ENTITY  mediaAddress          "Adres">
 <!ENTITY  mediaType             "Type">
@@ -70,6 +72,7 @@
 <!ENTITY  mediaDimensions       "Afmetingen:">
 <!ENTITY  mediaPhysDimensions   "Werkelijke afmetingen:">
 <!ENTITY  mediaTitle            "Titel:">
+<!ENTITY  mediaDimension        "Afmetingen:">
 <!ENTITY  mediaLongdesc         "Lange beschrijving:">
 <!ENTITY  mediaBlockImage.accesskey "e">
 <!ENTITY  mediaSaveAs           "Opslaan als…">
