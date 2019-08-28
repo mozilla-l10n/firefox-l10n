@@ -44,9 +44,9 @@
 
 <!-- Toolbar items --> 
 <!ENTITY backButton.label             "წინა">
-<!ENTITY backButton.tooltip           "ერთი გვერდით წინ">
+<!ENTITY backButton.tooltip           "წინა გვერდზე დაბრუნება">
 <!ENTITY forwardButton.label          "მომდევნო">
-<!ENTITY forwardButton.tooltip        "ერთი გვერდით შემდგომ">
+<!ENTITY forwardButton.tooltip        "მომდევნო გვერდზე გადასვლა">
 <!ENTITY reloadButton.label           "განახლება">
 <!ENTITY reloadButton.tooltip         "აქტიური გვერდის განახლება">
 <!ENTITY stopButton.label             "შეჩერება">
