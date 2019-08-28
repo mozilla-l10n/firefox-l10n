@@ -82,6 +82,28 @@ cfr-whatsnew-button =
     .label = რა სიახლეებია
     .tooltiptext = რა სიახლეებია
 cfr-whatsnew-panel-header = რა სიახლეებია
+cfr-whatsnew-release-notes-link-text = იხილეთ გამოშვების შენიშვნები
+cfr-whatsnew-tracking-protect-title = თავი დაიცავით მეთვალყურეებისგან
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } ზღუდავს ცნობილი სოციალური ქსელებისა და საიტთაშორისი
+    მეთვალყურეების უმეტესობას, რომლებიც თან დაგყვებათ ინტერნეტში.
+cfr-whatsnew-tracking-protect-link-text = იხილეთ თქვენი ანგარიში
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] მეთვალყურე შეიზღუდა
+       *[other] მეთვალყურე შეიზღუდა
+    }
+cfr-whatsnew-tracking-blocked-subtitle = თარიღიდან { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = ანგარიშის ნახვა
+cfr-whatsnew-lockwise-backup-title = დაამარქაფეთ პაროლები
+cfr-whatsnew-lockwise-backup-link-text = მარქაფის ჩართვა
+cfr-whatsnew-lockwise-take-title = თან წაიყოლეთ თქვენი პაროლები
+cfr-whatsnew-lockwise-take-body =
+    { -lockwise-brand-short-name }-აპლიკაცია მობილურისთვის, საშუალებას მოგცემთ
+    უსაფრთხოდ დაამარქაფოთ პაროლები, ნებისმიერ ადგილიდან.
 
 ## Bookmark Sync
 
