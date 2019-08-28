@@ -105,6 +105,11 @@ cfr-whatsnew-tracking-blocked-link-text = Ver el informe
 cfr-whatsnew-lockwise-backup-title = Haga copia de seguridad de sus contraseñas
 cfr-whatsnew-lockwise-backup-body = Ahora puede generar contraseñas seguras a las que puede acceder desde cualquier lugar donde inicie sesión.
 cfr-whatsnew-lockwise-backup-link-text = Activar copias de seguridad
+cfr-whatsnew-lockwise-take-title = Lleve sus contraseñas con usted
+cfr-whatsnew-lockwise-take-body =
+    La aplicación móvil { -lockwise-brand-short-name } le permite acceder de forma segura a sus
+    copias de seguridad de las contraseñas desde cualquier lugar.
+cfr-whatsnew-lockwise-take-link-text = Obtenga la aplicación
 
 ## Bookmark Sync
 
