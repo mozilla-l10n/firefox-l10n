@@ -70,9 +70,6 @@
 <!ENTITY cmd.new_separator.label           "ახალი გამყოფი">
 <!ENTITY cmd.new_separator.accesskey       "გ">
 
-<!ENTITY cmd.reloadLivebookmark.label      "პირდაპირი სანიშნის ხელახლა გახსნა">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "ნ">
-
 <!ENTITY col.name.label          "სახელი">
 <!ENTITY col.tags.label          "ჭდეები">
 <!ENTITY col.url.label           "მისამართი">
@@ -90,14 +87,9 @@
 <!ENTITY maintenance.accesskey  "შ">
 <!ENTITY maintenance.tooltip    "შემოიტანეთ და დაამარქაფეთ თქვენი სანიშნები">
 
-<!ENTITY backButton.tooltip  "უკან დაბრუნება">
+<!ENTITY backButton.tooltip  "წინაზე გადასვლა">
 
-<!ENTITY forwardButton.tooltip  "გადასვლა წინ">
-
-<!ENTITY detailsPane.more.label "ვრცლად">
-<!ENTITY detailsPane.more.accesskey "ვ">
-<!ENTITY detailsPane.less.label "შემოკლებულად">
-<!ENTITY detailsPane.less.accesskey "ე">
+<!ENTITY forwardButton.tooltip  "მომდევნოზე გადასვლა">
 
 <!ENTITY detailsPane.selectAnItemText.description "შეარჩიეთ ელემენტი მისი პარამეტრების სანახავად და ჩასასწორებლად">
 
