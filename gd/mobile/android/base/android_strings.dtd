@@ -34,6 +34,7 @@
 <!ENTITY firstrun_button_notnow "Chan ann an-dràsta">
 <!ENTITY firstrun_button_next "Air adhart">
 
+
 <!ENTITY firstrun_tabqueue_title "Ceanglaichean">
 
 <!ENTITY firstrun_readerview_title "Artaigealan">
@@ -204,7 +205,7 @@
 
 <!ENTITY pref_category_search3 "Lorg">
 <!ENTITY pref_category_search_summary2 "Cuir ris, suidhich bun-roghainn, seall molaidhean">
-<!ENTITY pref_category_accessibility "So-inntrigeachd">
+<!ENTITY pref_category_accessibility "So-ruigsinneachd">
 <!ENTITY pref_category_accessibility_summary2 "Meud an teacsa, sùm, ion‑chur gutha">
 <!ENTITY pref_category_privacy_short "Prìobhaideachd">
 <!ENTITY pref_category_privacy_summary4 "Tracadh, clàraidhean, roghainnean dàta">
@@ -269,7 +270,7 @@
 <!ENTITY pref_header_general "Coitcheann">
 <!ENTITY pref_header_search "Lorg">
 <!ENTITY pref_header_privacy_short "Prìobhaideachd">
-<!ENTITY pref_header_accessibility "So-inntrigeachd">
+<!ENTITY pref_header_accessibility "So-ruigsinneachd">
 <!ENTITY pref_header_notifications "Brathan">
 <!ENTITY pref_header_advanced "Adhartach">
 <!ENTITY pref_header_help "Cobhair">
@@ -875,6 +876,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Ri fhaighinn far loidhne">
 <!ENTITY helper_triple_readerview_open_message "Cruthaich comharran-leabhair san t-sealladh leughaidh is leugh iad far loidhne.">
 <!ENTITY helper_triple_readerview_open_button "Cuir ris na comharran-lìn">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "Brod nan làrach">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
