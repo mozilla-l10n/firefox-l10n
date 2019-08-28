@@ -84,6 +84,31 @@ cfr-whatsnew-button =
     .label = Що нового
     .tooltiptext = Що нового
 cfr-whatsnew-panel-header = Що нового
+cfr-whatsnew-release-notes-link-text = Ознайомитися з інформацією про випуск
+cfr-whatsnew-fx70-title = { -brand-short-name } тепер ще надійніше захищає вашу приватність
+cfr-whatsnew-fx70-body =
+    Остання версія має вдосконалений захист від стеження і дозволяє
+    простіше, ніж раніше, створювати надійні паролі для сайтів.
+cfr-whatsnew-tracking-protect-title = Захистіть себе від стеження
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } блокує багато поширених елементів стеження соціальних мереж
+    та стеження між сайтами, що переслідують вас в інтернеті.
+cfr-whatsnew-tracking-protect-link-text = Переглянути звіт
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Заблокований елемент стеження
+        [few] Заблоковані елементи стеження
+       *[many] Заблокованих елементів стеження
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Створено { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Переглянути звіт
+cfr-whatsnew-lockwise-backup-title = Резервне копіювання паролів
+cfr-whatsnew-lockwise-backup-body = Тепер генеруйте надійні паролі, до яких ви можете отримати доступ де завгодно.
+cfr-whatsnew-lockwise-backup-link-text = Увімкнути резервне копіювання
+cfr-whatsnew-lockwise-take-title = Візьміть свої паролі з собою
 
 ## Bookmark Sync
 
