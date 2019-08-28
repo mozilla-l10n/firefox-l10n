@@ -46,8 +46,8 @@
 <!ENTITY pref.soondays2.label "Seallaidh earrann nan tachartasan a tha gu bhith ann:">
 <!ENTITY pref.soondays2.accesskey "U">
 
-<!ENTITY pref.accessibility.label "So-inntrigeachd" >
-<!ENTITY pref.systemcolors.label "Pisich na dathan a chum so-inntrigeachd" >
+<!ENTITY pref.accessibility.label "So-ruigsinneachd" >
+<!ENTITY pref.systemcolors.label "Pisich na dathan a chùm so-ruigsinneachd" >
 <!ENTITY pref.systemcolors.accesskey "c">
 
 <!ENTITY pref.eventsandtasks.label "Tachartasan is saothraichean" >
