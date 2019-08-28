@@ -6,3 +6,5 @@ crashed-title = U uxhchile' uve' ni ilon isuuchil unq'a ilb'al tetze' uve' ni ya
 crashed-close-tab-button = Jup u ilb'al tetze'
 crashed-restore-tab-button = Q'aavisa u texhlale' unpajte
 crashed-restore-all-button = Q'aavisa kaajayil unq'a texhlale' uve' kat yani
+crashed-header = !kam q'ii! Kat yanyu u texhlale' unpajte
+crashed-offer-help = La uch kulochone'!
