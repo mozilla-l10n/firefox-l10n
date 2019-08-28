@@ -5,6 +5,21 @@
 
 ## File Menu
 
+menu-file =
+    .label = Kolb'al aaq'on
+    .accesskey = K
+menu-file-new-tab =
+    .label = Ak' Texhlal
+    .accesskey = T
+menu-file-new-container-tab =
+    .label = Ak Texhlal Txeyol Tetz
+    .accesskey = T
+menu-file-new-window =
+    .label = Ak' Ilb'al
+    .accesskey = A
+menu-file-new-private-window =
+    .label = Ak' Ilb'al uva' Eetz kuxhutu'
+    .accesskey = I
 menu-file-close =
     .label = Jupa
     .accesskey = C
