@@ -287,6 +287,10 @@ install-theme-button = Instalatu itxura
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Kudeatu
 find-more-addons = Bilatu gehigarri gehiago
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Aukera gehiago
 
 ## Add-on actions
 
@@ -357,6 +361,11 @@ install-update-button = Eguneratu
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Leiho pribatuetan baimenduta
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Leiho pribatuetan baimenduta
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Baimenduta dagoenean, hedapenak zure lineako jardueretarako sarbidea izango du nabigatze pribatuko moduan. <a data-l10n-name="learn-more">Argibide gehiago</a>
 addon-detail-private-browsing-allow = Baimendu
 addon-detail-private-browsing-disallow = Ez baimendu
