@@ -20,21 +20,68 @@ menu-file-new-window =
 menu-file-new-private-window =
     .label = Ak' Ilb'al uva' Eetz kuxhutu'
     .accesskey = I
+# "Open Location" is only displayed on macOS, and only on windows
+# that aren't main browser windows, or when there are no windows
+# but Firefox is still running.
+menu-file-open-location =
+    .label = Jaja Katil at kat
+menu-file-open-file =
+    .label = Jaj u Kolb'al aaq'one'
+    .accesskey = J
 menu-file-close =
     .label = Jupa
     .accesskey = C
+menu-file-close-window =
+    .label = Jup u Ilb'ale'
+    .accesskey = b
+menu-file-save-page =
+    .label = Jup u U'uje' Eche' uva'...
+    .accesskey = E
+menu-file-email-link =
+    .label = Aq'b'en uve' kat Alej kat
+    .accesskey = A
+menu-file-print-setup =
+    .label = Ib'anax tuch u U'uje'
+    .accesskey = n
+menu-file-print-preview =
+    .label = Tilax B'axa
+    .accesskey = x
+menu-file-print =
+    .label = Tel ch'u'l vatz u'uj
+    .accesskey = T
+menu-file-import-from-another-browser =
+    .label = Teq'ol eltzan tu Uma't Xaasab' tetz...
+    .accesskey = T
+menu-file-go-offline =
+    .label = Aq'on kuxhtu' tul ye'l Internet ati
+    .accesskey = n
 
 ## Edit Menu
 
 menu-edit =
     .label = B'an tuche'
+    .accesskey = B
+menu-edit-undo =
+    .label = Eesael
     .accesskey = E
+menu-edit-redo =
+    .label = Q'aavisa unpajte
+    .accesskey = Q
+menu-edit-cut =
+    .label = Tzok'a
+    .accesskey = a
 menu-edit-copy =
     .label = Eesa ivatz
-    .accesskey = C
+    .accesskey = E
+menu-edit-paste =
+    .label = Lak'ku'
+    .accesskey = L
 menu-edit-delete =
-    .label = Eesa el
-    .accesskey = D
+    .label = Sojsa
+    .accesskey = S
+menu-edit-select-all =
+    .label = Txaa Kaajayil
+    .accesskey = K
 
 ## View Menu
 
