@@ -82,7 +82,7 @@
 <!ENTITY fxaccount_remove_account 'Deskonektatu&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Sync-etik deskonektatu?'>
-<!ENTITY fxaccount_remove_account_dialog_message2 'Zure nabigazio-datuak gailu honetan mantenduko dira baina hemendik aurrera ez dira zure kontuarekin sinkronizatuko.'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Zure nabigatze-datuak gailu honetan mantenduko dira baina hemendik aurrera ez dira zure kontuarekin sinkronizatuko.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast2 '&formatS; Firefoxeko kontua deskonektatu egin da.'>
