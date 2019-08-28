@@ -21,11 +21,16 @@
 <!ENTITY rights.intro-point1c " feltételei szerint lett közreadva. Ez azt jelenti, hogy a  &brandShortName; használható, másolható és terjeszthető. A &brandShortName; forráskódjának igény szerinti módosítása szintén megengedett. A Mozilla Public License megadja a jogot a módosított verziók terjesztésére is.">
 
 <!ENTITY rights.intro-point2a "Ön nem kapott jogot vagy felhatalmazást a védjegyek használatára sem a Mozilla Foundationtől, sem mástól, beleértve – de nem csak erre korlátozva – a SeaMonkey nevet és logót. A védjegyekről további tudnivaló ">
+
+<!ENTITY rights.intro-point2aa "A &vendorShortName; nem ad Önnek semmilyen jogot a &quot;&brandFullName;&quot; védjegyekhez vagy logókhoz. A védjegyekről további tudnivaló ">
 <!ENTITY rights.intro-point2b "itt">
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 2d is technically point 3. in the list -->
 <!ENTITY rights.intro-point2d "A &brandShortName; néhány funkciója, mint az Összeomlásjelentő lehetőséget ad visszajelzést adni a &vendorShortName; felé. A visszajelzés beküldésével engedélyt ad, hogy a &vendorShortName; és a Mozilla felhasználja az alkalmazásai javításához, közzétegye a visszajelzést a weblapján, és terjessze azt.">
+
+<!-- point 2da is technically point 3. in the list -->
+<!ENTITY rights.intro-point2da "A &brandShortName; néhány funkciója, mint az Összeomlás-jelentő lehetőséget ad visszajelzést adni a &vendorShortName; felé. A visszajelzés beküldésével engedélyt ad, hogy a &vendorShortName; felhasználja az alkalmazásai javításához, közzétegye a visszajelzést a weblapján, és terjessze azt.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "A &vendorShortName; terméke által beküldött személyes adatokat és visszajelzéseket a ">
@@ -45,6 +50,8 @@
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights3.webservices-a "A &brandFullName; választható web-alapú szolgáltatásokat biztosít (&quot;Szolgáltatások&quot;), amelyek a &brandShortName; ezen bináris verziójában érhetőek el, a lent leírtak szerint. Néhány ilyen szolgáltatás (mint a Kiegészítő javaslat és a frissítési szolgáltatások, a Biztonságos böngészés szolgáltatás vagy a Helyfüggő értesítés funkció) alapból be van kapcsolva. Ha nem szeretné valamelyik Szolgáltatást használni, vagy a lenti feltételek nem elfogadhatóak, akkor a funkció vagy Szolgáltatás letiltásának leírása elérhető">
+<!-- intro paragraph for branded builds -->
+<!ENTITY rights3.webservices-aa "A &vendorShortName; választható web-alapú szolgáltatásokat biztosít (&quot;Szolgáltatások&quot;), amelyek a &brandShortName; ezen bináris verziójában érhetőek el, a lent leírtak szerint. Néhány ilyen szolgáltatás (mint a Kiegészítő javaslat és a frissítési szolgáltatások, a Biztonságos böngészés szolgáltatás vagy a Helyfüggő értesítés funkció) alapból be van kapcsolva. Ha nem szeretné valamelyik Szolgáltatást használni, vagy a lenti feltételek nem elfogadhatóak, akkor a funkció vagy Szolgáltatás letiltásának leírása elérhető ">
 <!ENTITY rights3.webservices-b "itt">
 <!ENTITY rights3.webservices-c ". Más funkciók és Szolgáltatások az alkalmazásbeállításokban engedélyezhetők vagy tilthatóak le.">
 
@@ -74,8 +81,12 @@
 
 <!-- points 0-6 text for branded builds -->
 <!ENTITY rights.webservices-term0 "A &vendorShortName; és a Mozilla, a közreműködők, licencadók, és a partnerek azon dolgoznak, hogy a legpontosabb és naprakészebb szolgáltatást nyújtsák.  Azonban nem tudjuk garantálni, hogy ezek az információk átfogóak és hibamentesek.  Például a Biztonságos böngészés szolgáltatás lehet hogy nem azonosít néhány veszélyes webhelyet, és a Helyfüggő szolgáltatás által visszaadott helyek csak hozzávetőlegesek. Sem mi, sem a szolgáltatóink nem garantálják a helyek pontosságát.">
+
+<!-- points 0-6 text for branded builds -->
+<!ENTITY rights.webservices-term0a "A &vendorShortName;, a közreműködők, licencadók, és a partnerek azon dolgoznak, hogy a legpontosabb és naprakészebb szolgáltatást nyújtsák.  Azonban nem tudjuk garantálni, hogy ezek az információk átfogóak és hibamentesek.  Például a Biztonságos böngészés szolgáltatás lehet hogy nem azonosít néhány veszélyes webhelyet, és a Helyfüggő szolgáltatás által visszaadott helyek csak hozzávetőlegesek. Sem mi, sem a szolgáltatóink nem garantálják a helyek pontosságát.">
 <!ENTITY rights.webservices-term1 "A &vendorShortName; saját hatáskörében megszüntetheti vagy módosíthatja a Szolgáltatásokat.">
 <!ENTITY rights.webservices-term2 "Ön igénybe veheti ezeket a Szolgáltatásokat a &brandShortName; mellékelt verziójával, ehhez minden szükséges joga megvan. A &vendorShortName; és licencadói minden más jogot fenntartanak a Szolgáltatásokkal kapcsolatban. Ezek a feltételek nem korlátozzák a &brandShortName;re és a &brandShortName; forráskódjára alkalmazott nyílt forrású licencek által biztosított jogokat.">
+<!ENTITY rights.webservices-term2a "Ön igénybe veheti ezeket a Szolgáltatásokat a &brandShortName; mellékelt verziójával, ehhez minden szükséges joga megvan. A &vendorShortName; és licencadói minden más jogot fenntartanak a Szolgáltatásokkal kapcsolatban. Ezek a feltételek nem korlátozzák a &brandShortName;re és a &brandShortName; forráskódjára alkalmazott nyílt forrású licencek által biztosított jogokat.">
 <!ENTITY rights.webservices-term3 "A Szolgáltatások „olyanok, amilyenek”. A &vendorShortName;, a közreműködők, a licencadók és a terjesztők minden garanciát elutasítanak, legyen az kifejezett vagy vélelmezett, beleértve, de nem erre korlátozva azt, hogy a Szolgáltatások hasznosak és megfelelnek a felhasználó céljainak. Teljes egészében a felhasználó viseli annak kockázatát, hogy a Szolgáltatásokat saját céljára igénybe veszi, és hogy a Szolgáltatások az adott minőségben és teljesítménnyel működnek. Egyes jogrendszerek nem teszik lehetővé a vélelmezett garanciák kizárását vagy korlátozását, tehát ez az elutasítás lehet, hogy Önre nem vonatkozik.">
 <!ENTITY rights.webservices-term4 "Ha a törvény másképp nem rendelkezik, a &vendorShortName;, a közreműködők, a licencadók és a terjesztők nem felelnek semmilyen közvetlen, különleges, következményes, büntetőjogi vagy példamutató kárért, amely a &brandShortName; és a Szolgáltatások használatából következett, vagy azzal bármilyen módon összefüggésbe hozható. A kollektív felelősség ezen feltételek szerint nem haladja meg az 500 (ötszáz) USA-dollárt. Egyes jogrendszerek nem teszik lehetővé bizonyos károk kizárását vagy korlátozását, tehát ez a kizárás és korlátozás lehet, hogy Önre nem vonatkozik.">
 <!ENTITY rights.webservices-term5 " &vendorShortName; időről időre frissítheti ezeket a feltételeket, ha szükségesnek látja. Ezek a feltételek nem módosíthatók vagy érvényteleníthetők a &vendorShortName; írásos beleegyezése nélkül.">
