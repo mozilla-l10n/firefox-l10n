@@ -23,10 +23,10 @@
 <!ENTITY keywordfield.accesskey       "კ">
 <!ENTITY showOnlyThisFrameCmd.label     "მხოლოდ ამ ჩარჩოს ჩვენება">
 <!ENTITY showOnlyThisFrameCmd.accesskey "ო">
-<!ENTITY goBackCmd.label              "უკან">
-<!ENTITY goBackCmd.accesskey          "უ">
-<!ENTITY goForwardCmd.label           "წინ">
-<!ENTITY goForwardCmd.accesskey       "წ">
+<!ENTITY goBackCmd.label              "წინა">
+<!ENTITY goBackCmd.accesskey          "წ">
+<!ENTITY goForwardCmd.label           "მომდევნო">
+<!ENTITY goForwardCmd.accesskey       "მ">
 <!ENTITY goUpCmd.label                "ზემოთ">
 <!ENTITY goUpCmd.accesskey            "ზ">
 <!ENTITY reloadCmd.label              "განახლება">

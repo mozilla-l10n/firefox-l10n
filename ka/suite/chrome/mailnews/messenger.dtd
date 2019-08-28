@@ -264,11 +264,11 @@
 <!ENTITY prevUnreadMsgCmd.label "წასაკითხი წერილი">
 <!ENTITY prevUnreadMsgCmd.accesskey "ს">
 <!ENTITY prevUnreadMsgCmd.key "p">
-<!ENTITY goBackCmd.label "უკან">
-<!ENTITY goBackCmd.accesskey "უ">
+<!ENTITY goBackCmd.label "წინა">
+<!ENTITY goBackCmd.accesskey "წ">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goForwardCmd.label "წინ">
-<!ENTITY goForwardCmd.accesskey "წ">
+<!ENTITY goForwardCmd.label "მომდევნო">
+<!ENTITY goForwardCmd.accesskey "მ">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY prevFlaggedMsgCmd.label "ალმიანი წერილი">
 <!ENTITY prevFlaggedMsgCmd.accesskey "ა">
@@ -412,8 +412,8 @@
 <!ENTITY forwardButton.label "გადაგზავნა">
 <!ENTITY fileButton.label "მოთავსება">
 <!ENTITY nextButton.label "შემდეგი">
-<!ENTITY goBackButton.label "უკან">
-<!ENTITY goForwardButton.label "წინ">
+<!ENTITY goBackButton.label "წინა">
+<!ENTITY goForwardButton.label "მომდევნო">
 <!ENTITY deleteButton.label "წაშლა">
 <!ENTITY undeleteButton.label "აღდგენა">
 <!ENTITY markButton.label "მონიშვნა">
@@ -435,8 +435,8 @@
 <!ENTITY forwardButton.tooltip "არჩეული წერილის გადაგზავნა">
 <!ENTITY fileButton.tooltip "არჩეული წერილის შენახვა">
 <!ENTITY nextButton.tooltip "გადასვლა შემდეგ წასაკითხ წერილზე">
-<!ENTITY goBackButton.tooltip "უკან ერთი წერილით">
-<!ENTITY goForwardButton.tooltip "წინ ერთი წერილით">
+<!ENTITY goBackButton.tooltip "წინა წერილზე დაბრუნება">
+<!ENTITY goForwardButton.tooltip "მომდევნო წერილზე გადასვლა">
 <!ENTITY deleteButton.tooltip "მონიშნული წერილის ან საქაღალდის წაშლა">
 <!ENTITY undeleteButton.tooltip "მონიშნული წერილის აღდგენა">
 <!ENTITY markButton.tooltip "წერილების მონიშვნა">
