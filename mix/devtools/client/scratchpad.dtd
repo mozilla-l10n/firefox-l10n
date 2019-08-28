@@ -23,7 +23,11 @@
 
 
 
+<!ENTITY openFileCmd.label            "Kuna tutu…">
+<!ENTITY openFileCmd.accesskey        "O">
+<!ENTITY openFileCmd.commandkey       "o">
 
+<!ENTITY openRecentMenu.accesskey     "R">
 
 
 
