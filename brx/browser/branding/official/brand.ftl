@@ -13,6 +13,11 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
--vendor-short-name = मजिला
+-brand-shorter-name = फायारफक्स
+-brand-short-name = फायारफक्स
 -brand-full-name = मजिला फायारफक्स
+# This brand name can be used in messages where the product name needs to
+# remain unchanged across different versions (Nightly, Beta, etc.).
+-brand-product-name = फायारफक्स
+-vendor-short-name = मजिला
 trademarkInfo = फायारफक्स आरो फायारफक्स ल'ग'फोरा मजिला फाउन्डेसननि ट्रेडमार्क।
