@@ -48,6 +48,7 @@ login-list-count =
     }
 login-list-sort-label-text = Järjestys:
 login-list-name-option = Nimi (A–Ö)
+login-list-breached-option = Tietovuodon kokeneet sivustot
 login-list-last-changed-option = Viimeksi muokattu
 login-list-last-used-option = Viimeksi käytetty
 login-list-intro-title = Kirjautumistietoja ei löytynyt
