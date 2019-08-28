@@ -295,6 +295,10 @@ install-theme-button = Installer tema
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Handter
 find-more-addons = Finn fleire tillegg
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Fleire innstillingar
 
 ## Add-on actions
 
@@ -365,6 +369,11 @@ install-update-button = Oppdater
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Tillat i private vindauge
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Tillatt i private vindauge
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Når det er tillate, vil utvidinga få tilgang til aktivitetane dine på nettet medan du brukar privat nettlesing. <a data-l10n-name="learn-more">Les meir</a>
 addon-detail-private-browsing-allow = Tillat
 addon-detail-private-browsing-disallow = Ikkje tillat
