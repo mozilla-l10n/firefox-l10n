@@ -6,6 +6,17 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = Kunetu…
+cmd-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Opciones
+           *[other] Preferencias
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
 detail-home-value =
     .value = { detail-home.label }
 detail-repository-value =
@@ -46,6 +57,11 @@ extensions-warning-update-security-container =
 ## Add-on actions
 
 remove-addon-button = Xita
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Opciones
+       *[other] Preferencias
+    }
 
 ## Pending uninstall message bar
 

@@ -24,3 +24,7 @@ config-focus-search-2 =
 config-reset =
     .label = Niko kua íyó
     .accesskey = R
+config-boolean =
+    .label = Booleano
+    .accesskey = B
+config-property-bool = booleano

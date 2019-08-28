@@ -4,6 +4,7 @@
 
 <!ENTITY windowTitle "Firefox WebIDE">
 
+<!ENTITY projectMenu_showPrefs_label "Preferencias">
 
 
 
@@ -28,10 +29,12 @@
 <!-- Addons -->
 
 <!-- Prefs -->
+<!ENTITY prefs_title "Preferencias">
 
 <!-- Runtime Details -->
 
 <!-- Device Preferences and Settings -->
+<!ENTITY device_typeboolean "Booleano">
 
 <!-- Device Preferences -->
 

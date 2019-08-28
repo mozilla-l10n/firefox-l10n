@@ -26,6 +26,11 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Síne menu
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] Kaji
+       *[other] Preferencias
+    }
 
 ## Login List
 

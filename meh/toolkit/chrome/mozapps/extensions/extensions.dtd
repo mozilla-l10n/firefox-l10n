@@ -9,6 +9,7 @@
 
 <!ENTITY cmd.uninstallAddon.label             "Xita">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
+<!ENTITY cmd.showPreferencesUnix.label        "Preferencias">
 
 
 <!-- download/install progress -->

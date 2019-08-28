@@ -4,6 +4,12 @@
 
 do-not-track-option-always =
     .label = Ntaka ichi
+pref-page =
+    .title =
+        { PLATFORM() ->
+            [windows] Kaji
+           *[other] Preferencias
+        }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -13,7 +19,7 @@ do-not-track-option-always =
 # is the name of the CSS property. It is intended only to adjust the element's width.
 # Do not translate.
 search-input-box =
-    .style = width: 18.5em
+    .style = width: 15.4em
     .placeholder =
         { PLATFORM() ->
             [windows] Nani´i nuu opciones
