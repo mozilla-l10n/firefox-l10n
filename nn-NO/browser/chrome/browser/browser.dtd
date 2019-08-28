@@ -898,12 +898,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Er nettstaden framleis øydelagd, sjølv etter å ha slått av vern?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Send inn ein rapport">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Blokkert">
 <!ENTITY protections.notBlocking2.label "Tillate">
+<!ENTITY protections.notFound.label "Ingen oppdaga">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Kvifor?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokkering av desse kan føre til feil med element på nokre nettstadar. Utan sporfølgjarar fungerer kanskje ikkje nokre knappar, skjema og innloggingsfelt.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Slår du av vern, vil det tillate alle sporfølgjarar på denne nettstaden. Det kan òg forbetre funksjonalitet på nettstaden.">
-<!ENTITY protections.notFound.label "Ingen oppdaga">
 <!ENTITY protections.socialMediaTrackers.label "Sporing via sosiale medium">
 <!ENTITY protections.crossSiteTrackingCookies.label "Sporingsinfokapslar på tvers av nettstadar">
 <!ENTITY protections.trackingContent.label "Sporingsinnhald">
@@ -912,6 +921,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.noTrackersFound.description "Ingen sporfølgjarar kjende for &brandShortName; vart oppdaga på denne sida.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Desse infokapslane følgjer deg frå side til side for å samle inn data om kva du gjer på nettet. Dei kjem frå tredjepartar som annonsørar og analyseselskap.">
+<!ENTITY protections.cryptominers.description "Kryptominarar brukar datakrafta til systemet for å utvinne digitale pengar. Kryptomineringsskript tappar batteriet, gjer datamaskina tregare og kan auke straumrekninga.">
+<!ENTITY protections.fingerprinters.description "Fingerprinters samlar innstillingar frå nettlesaren din og datamaskina for å opprette ein profil av deg. Ved hjelp av dette digitale fingeravtrykket kan dei spore deg på ulike nettstadar.">
+<!ENTITY protections.trackingContent.description "Nettstadar kan laste inn eksterne annonsar, videoar og anna innhald som inneheld sporingskode. Blokkering av sporingsinnhald kan hjelpe nettstadar å laste raskare, men nokre knappar, skjema og innloggingsfelt fungerer kanskje ikkje.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -957,7 +969,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "H">
 
 <!ENTITY contentBlocking.trackersView.label "Sporfølgjarar">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "For å blokkere alle sporfølgjarar, set innhaldsblokkering til «Streng».">
 
 <!ENTITY contentBlocking.cookies.label "Infokapslar">
