@@ -88,6 +88,9 @@ cfr-whatsnew-fx70-body =
     Den siste oppdateringen forbedrer sporingsbeskyttelsesfunksjonen og gjør det
     enklere enn noen gang å lage sikre passord for hvert nettsted.
 cfr-whatsnew-tracking-protect-title = Beskytt deg mot sporere
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } blokkerer mange vanlige sosiale medier-sporere og sporing på tvers av nettsteder som
+    følg det du gjør på nettet.
 cfr-whatsnew-tracking-protect-link-text = Vis din rapport
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
