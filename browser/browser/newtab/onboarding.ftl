@@ -89,7 +89,7 @@ onboarding-tracking-protection-button2 = როგორ მუშაობს
 onboarding-data-sync-title = წაიყოლეთ თქვენი პარამეტრები თან
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = დაასინქრონეთ თქვენი სანიშნები, პაროლები და სხვა მონაცემები ყველგან, სადაც გიყენიათ { -brand-product-name }.
-onboarding-data-sync-button2 = გამოიყენეთ { -sync-brand-short-name }
+onboarding-data-sync-button2 = { -sync-brand-short-name } – შესვლა
 onboarding-firefox-monitor-title = შეიტყვეთ, მონაცემების მიტაცების შესახებ
 onboarding-firefox-monitor-text = { -monitor-brand-name } მუდმივად გადაამოწმებს, არის თუ არა თქვენი ელფოსტა მიტაცებულ მონაცემებს შორის და გაცნობებთ აღმოჩენის შემთხვევაში.
 onboarding-firefox-monitor-button = გამოიწერეთ ცნობები
