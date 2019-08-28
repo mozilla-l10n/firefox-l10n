@@ -25,7 +25,7 @@ type-tab = Aba
 type-subframe = Subframe
 type-tracker = Tracker
 type-addon = Extensão
-type-browser = Browser
+type-browser = Navegador
 type-worker = Worker
 type-other = Outro
 
@@ -53,7 +53,7 @@ size-GB = { $value } GB
 close-tab =
     .title = Fechar aba
 show-addon =
-    .title = Mostrar no Gerenciador de extensões
+    .title = Mostrar no gerenciador de extensões
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded
