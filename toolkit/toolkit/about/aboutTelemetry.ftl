@@ -77,6 +77,7 @@ about-telemetry-settings-explanation = Telemetri samlar inn { about-telemetry-da
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Kvar informasjonsdel vert sendt i ein pakke til “<a data-l10n-name="ping-link">ping</a>”. Du ser på ping { $name }, { $timestamp }.
 about-telemetry-ping-details-current = Kvar informasjonsdel vert sendt i ein pakke til “<a data-l10n-name="ping-link">ping</a>“. Du ser på gjeldande ping.
+about-telemetry-data-details-current = Kvar informasjonsdel blir sendt i ein pakke til «<a data-l10n-name="ping-link">pings</a>». Du ser på gjeldande data.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
