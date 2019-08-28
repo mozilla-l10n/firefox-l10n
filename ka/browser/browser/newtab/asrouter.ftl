@@ -104,6 +104,7 @@ cfr-whatsnew-lockwise-take-title = თან წაიყოლეთ თქვ�
 cfr-whatsnew-lockwise-take-body =
     { -lockwise-brand-short-name }-აპლიკაცია მობილურისთვის, საშუალებას მოგცემთ
     უსაფრთხოდ დაამარქაფოთ პაროლები, ნებისმიერ ადგილიდან.
+cfr-whatsnew-lockwise-take-link-text = გადმოწერა
 
 ## Bookmark Sync
 
