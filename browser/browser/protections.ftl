@@ -33,7 +33,7 @@ etp-card-content = Sporere følger deg rundt på nettet for å samle informasjon
 graph-today = I dag
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = En graf som inneholder det totale antallet for hver type av sporere som har blitt blokkert denne uken.
-social-tab-title = Sporing via sosiale medier
+social-tab-title = Sporere fra sosiale medier
 social-tab-contant = Sosiale nettverk plasserer sporere på andre nettsteder for å følge det du gjør og ser på nettet. Dette gjør at sosiale media-selskaper kan lære mer om deg utover det du deler på profilene dine på sosiale medier. <a data-l10n-name="learn-more-link">Les mer</a>
 cookie-tab-title = Sporingsinfokapsler på tvers av nettsteder
 cookie-tab-content = Disse infokapslene følger deg fra nettsted til nettsted for å samle inn data om hva du gjør på nettet. De er satt av tredjeparter som annonsører og analyseselskaper. Blokkering av sporingsinfokapsler på tvers av nettsteder reduserer antall annonser som følger deg. <a data-l10n-name="learn-more-link">Les mer</a>
@@ -120,11 +120,11 @@ go-to-saved-logins = Gå til lagrede innlogginger
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Sporing via sosiale medier
+    .title = Sporere fra sosiale medier
     .aria-label =
         { $count ->
-            [one] { $count } sosiale media-sporer ({ $percentage } %)
-           *[other] { $count } sosiale media-sporere ({ $percentage } %)
+            [one] { $count } sporer fra sosiale medier ({ $percentage } %)
+           *[other] { $count } sporere fra sosiale medier ({ $percentage } %)
         }
 bar-tooltip-cookie =
     .title = Sporingsinfokapsler på tvers av nettsteder
