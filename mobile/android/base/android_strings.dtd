@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Не зараз">
 <!ENTITY firstrun_button_next "Далі">
 
+<!ENTITY firstrun_signin_button2 "Увійти">
+
 <!ENTITY firstrun_tabqueue_title "Посилання">
 
 <!ENTITY firstrun_readerview_title "Статті">
@@ -878,6 +880,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Доступ без Інтернету">
 <!ENTITY helper_triple_readerview_open_message "Додавайте закладки для елементів режиму читання, щоб читати їх без Інтернету.">
 <!ENTITY helper_triple_readerview_open_button "Додати до закладок">
+
+<!ENTITY activity_stream_signin_title "Вітаємо в &brandShortName;">
+<!ENTITY activity_stream_signin_description "Почніть синхронізувати закладки, паролі та інші дані з Обліковим записом Firefox.">
+<!ENTITY activity_stream_signin_button "Увійти">
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "Популярні сайти">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
