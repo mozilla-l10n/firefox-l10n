@@ -68,7 +68,7 @@
 <!ENTITY updateApp.version.pre           "Versión ">
 <!ENTITY updateApp.version.post          "">
 <!ENTITY updateAppAllow.description      "Permitir que &brandShortName;">
-<!ENTITY updateAuto.label                "Instalar actualizaciones automáticamente (recomendado: seguridad mejorada)">
+<!ENTITY updateAuto.label                "Instalar actualizaciones automáticamente (recomendado: seguridad aumentada)">
 <!ENTITY updateAuto.accesskey            "a">
 <!ENTITY updateCheck.label               "Buscar actualizaciones, pero dejarme decidir si las instalo">
 <!ENTITY updateCheck.accesskey           "c">
@@ -122,3 +122,4 @@
 <!ENTITY manageCertificates.accesskey "m">
 <!ENTITY viewSecurityDevices.label "Dispositivos de seguridad">
 <!ENTITY viewSecurityDevices.accesskey "u">
+
