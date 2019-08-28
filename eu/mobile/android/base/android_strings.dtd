@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Orain ez">
 <!ENTITY firstrun_button_next "Hurrengoa">
 
+<!ENTITY firstrun_signin_button2 "Hasi saioa">
+
 <!ENTITY firstrun_tabqueue_title "Loturak">
 
 <!ENTITY firstrun_readerview_title "Artikuluak">
@@ -875,6 +877,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Lineaz kanpo erabilgarri">
 <!ENTITY helper_triple_readerview_open_message "Egin irakurtzeko ikuspegiko elementuen laster-markak hauek lineaz kanpo irakurtzeko.">
 <!ENTITY helper_triple_readerview_open_button "Gehitu laster-marketan">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "Gune erabilienak">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
