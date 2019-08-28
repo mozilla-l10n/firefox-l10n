@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Most nem">
 <!ENTITY firstrun_button_next "Következő">
 
+<!ENTITY firstrun_signin_button2 "Bejelentkezés">
+
 <!ENTITY firstrun_tabqueue_title "Hivatkozások">
 
 <!ENTITY firstrun_readerview_title "Cikkek">
@@ -875,6 +877,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Elérhető kapcsolat nélkül">
 <!ENTITY helper_triple_readerview_open_message "Könyvjelzőzze az Olvasó nézet lapjait, hogy kapcsolat nélkül is el tudja olvasni.">
 <!ENTITY helper_triple_readerview_open_button "Hozzáadás a könyvjelzőkhöz">
+
+<!ENTITY activity_stream_signin_title "Üdvözli a &brandShortName;">
+<!ENTITY activity_stream_signin_description "Kezdje el szinkronizálni a könyvjelzőit, jelszavait és egyeket a Firefox-fiókjával.">
+<!ENTITY activity_stream_signin_button "Bejelentkezés">
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "Népszerű oldalak">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
