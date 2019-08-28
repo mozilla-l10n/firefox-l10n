@@ -37,7 +37,7 @@
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Dacă produsul include servicii web, orice termeni aplicabili de utilizare a serviciilor trebuie să fie accesibili din secțiunea ">
+<!ENTITY rights.intro-point4a-unbranded "Dacă acest produs include servicii web, orice termeni aplicabili de utilizare a serviciilor trebuie să fie accesibili din secțiunea ">
 <!ENTITY rights.intro-point4b-unbranded "Servicii pentru site-uri web">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
@@ -58,7 +58,7 @@
 <!ENTITY rights.webservices-unbranded "Aici trebuie incluse prezentarea generală a serviciilor înglobate în produs pentru site-uri web și instrucțiunile aferente de dezactivare, dacă este cazul.">
 
 <!-- point 1 text for unbranded builds -->
-<!ENTITY rights.webservices-term1-unbranded "Aici trebuie enumerați orice termeni de utilizare a serviciilor aplicabili produsului.">
+<!ENTITY rights.webservices-term1-unbranded "Aici trebuie listați orice termeni de utilizare a serviciilor aplicabili produsului.">
 
 <!-- points 1-7 text for branded builds -->
 <!ENTITY rights.webservices-term1 "&vendorShortName; poate întrerupe sau modifica Serviciile la libera sa apreciere.">
