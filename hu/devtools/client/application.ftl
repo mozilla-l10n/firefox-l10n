@@ -69,6 +69,14 @@ serviceworker-empty-suggestions-debugger = Lépjen végig a Service Worker regis
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Vizsgálja meg a más tartományokból származó Service Workereket. <a>Nyissa meg az about:debugging oldalt</a>
+# Header for the view of Manifest displayed in the application panel for the current page.
+manifest-view-header = Alkalmazás leírófájl
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Hibák és figyelmeztetések
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Felhasználó
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Ikonok
 # Text displayed while we are loading the manifest file
 manifest-loading = Leírófájl betöltése…
 # Text displayed when the manifest has been successfully loaded

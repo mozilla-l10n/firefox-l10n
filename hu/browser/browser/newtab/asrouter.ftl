@@ -82,6 +82,26 @@ cfr-whatsnew-button =
     .label = Újdonságok
     .tooltiptext = Újdonságok
 cfr-whatsnew-panel-header = Újdonságok
+cfr-whatsnew-release-notes-link-text = Olvassa el a kiadási megjegyzéseket
+cfr-whatsnew-fx70-title = A { -brand-short-name } mostantól még keményebben küzd az adatvédelemért
+cfr-whatsnew-tracking-protect-title = Védje magát a nyomkövetőktől
+cfr-whatsnew-tracking-protect-link-text = Tekintse meg a jelentését
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Követő blokkolva
+       *[other] Követők blokkolva
+    }
+cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } óta
+cfr-whatsnew-tracking-blocked-link-text = Jelentés megtekintése
+cfr-whatsnew-lockwise-backup-title = Készítsen biztonsági másolatot a jelszavairól
+cfr-whatsnew-lockwise-backup-body = Állítson elő biztonságos jelszavakat, amelyeket elérhet, bárhol is jelentkezzen be.
+cfr-whatsnew-lockwise-backup-link-text = Kapcsolja be a biztonsági mentéseket
+cfr-whatsnew-lockwise-take-title = Vigye magával a jelszavait
+cfr-whatsnew-lockwise-take-body = A { -lockwise-brand-short-name } mobilalkalmazással bárhol biztonságosan hozzáférhet a jelszavaihoz.
+cfr-whatsnew-lockwise-take-link-text = Alkalmazás beszerzése
 
 ## Bookmark Sync
 
