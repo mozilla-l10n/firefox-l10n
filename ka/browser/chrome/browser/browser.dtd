@@ -207,11 +207,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY mobileBookmarksCmd.label "მობილურის სანიშნები">
 <!ENTITY bookmarksToolbarChevron.tooltip "სხვა სანიშნების გამოჩენაც">
 
-<!ENTITY backCmd.label                "უკან">
-<!ENTITY backCmd.accesskey            "უ">
+<!ENTITY backCmd.label                "წინა">
+<!ENTITY backCmd.accesskey            "წ">
 <!ENTITY backButton.tooltip           "წინა გვერდი">
-<!ENTITY forwardCmd.label             "წინ">
-<!ENTITY forwardCmd.accesskey         "წ">
+<!ENTITY forwardCmd.label             "მომდევნო">
+<!ENTITY forwardCmd.accesskey         "მ">
 <!ENTITY forwardButton.tooltip        "მომდევნო გვერდი">
 <!ENTITY backForwardButtonMenu.tooltip "ისტორიის საჩვენებლად გამოიყენეთ მარჯვენა წკაპი ან ჩამოქაჩეთ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ისტორიის საჩვენებლად ჩამოქაჩეთ">
@@ -898,12 +898,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "დაცვის გამორთვის შემდეგაც დაზიანებულია საიტი?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "მოგვახსენეთ">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "შეზღუდულია">
 <!ENTITY protections.notBlocking2.label "დაშვებულია">
+<!ENTITY protections.notFound.label "არ აღმოჩენილა">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "რატომ?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "მათი შეზღუდვის შედეგად, შესაძლოა საიტების ნაწილმა ვერ იმუშაოს გამართულად. მეთვალყურეების მოცილებისას, ზოგიერთი ღილაკი, ანგარიშების შესაყვანი და სხვა შესავსები ველები, აღარ მოქმედებს ხოლმე.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "დაცვის გამორთვა დაუშვებს ყველა მეთვალყურეს ამ საიტზე. ამით, შესაძლოა გაუმჯობესდეს ვებგვერდის შესაძლებლობების ნაწილი.">
-<!ENTITY protections.notFound.label "არ აღმოჩენილა">
 <!ENTITY protections.socialMediaTrackers.label "სოციალური ქსელის მეთვალყურეები">
 <!ENTITY protections.crossSiteTrackingCookies.label "საიტთაშორისი მეთვალყურე ფუნთუშები">
 <!ENTITY protections.trackingContent.label "თვალის მდევნელი შიგთავსი">
@@ -961,7 +970,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "მ">
 
 <!ENTITY contentBlocking.trackersView.label "მეთვალყურეები">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "ყველა მეთვალყურის შესაზღუდად, მიუთითეთ „მკაცრი” შეზღუდვა.">
 
 <!ENTITY contentBlocking.cookies.label "ფუნთუშები">

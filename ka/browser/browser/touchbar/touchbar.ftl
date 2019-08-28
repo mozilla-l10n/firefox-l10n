@@ -4,8 +4,8 @@
 
 # Strings in this file are used to localize button titles displayed on the 
 # MacBook Touch Bar.
-back = უკან
-forward = წინ
+back = წინა
+forward = მომდევნო
 reload = განახლება
 home = საწყისი გვერდი
 fullscreen = სრული ეკრანი
