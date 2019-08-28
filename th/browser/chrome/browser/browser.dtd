@@ -810,7 +810,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label2)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label2 "ความปลอดภัยของการเชื่อมต่อ">
 
+<!ENTITY identity.connectionSecure2 "การเชื่อมต่อปลอดภัย">
 <!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่ปลอดภัย">
 <!ENTITY identity.connectionFile "หน้านี้ถูกจัดเก็บไว้ในคอมพิวเตอร์ของคุณ">
 <!ENTITY identity.connectionVerified2 "คุณได้เชื่อมต่ออย่างปลอดภัยไปยังไซต์นี้ เจ้าของ:">
@@ -855,6 +857,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "สิทธิอนุญาต">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions2 "การตั้งสิทธิอนุญาต">
 <!ENTITY identity.permissionsEmpty "คุณไม่ได้อนุญาตไซต์นี้ด้วยสิทธิอนุญาตพิเศษใด ๆ">
 <!ENTITY identity.permissionsReloadHint "คุณอาจจำเป็นต้องโหลดหน้าใหม่เพื่อให้การเปลี่ยนแปลงมีผล">
 <!ENTITY identity.permissionsPreferences.tooltip "เปิดค่ากำหนดสิทธิอนุญาต">
@@ -865,10 +868,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpOFF.header "การป้องกันการติดตามที่มากขึ้นถูก ปิด สำหรับไซต์นี้">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.settings.label "การตั้งค่าการป้องกัน">
 <!ENTITY protections.report.label "แสดงรายงานฉบับเต็ม">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "ไซต์ไม่ทำงาน?">
+<!ENTITY protections.siteNotWorkingView.title "ไซต์ไม่ทำงาน?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
