@@ -98,9 +98,11 @@ detail-private-browsing-description2 = Ha engedélyezve van, akkor a kiegészít
 # cannot be overridden by the user.
 detail-private-disallowed-label = Privát ablakokban nem engedélyezett
 detail-private-disallowed-description = Ez a kiegészítő nem fut privát böngészéskor. <label data-l10n-name="detail-private-browsing-learn-more">További információk</label>
+detail-private-disallowed-description2 = Ez a kiegészítő nem fut privát böngészéskor. <a data-l10n-name="learn-more">További tudnivalók</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Hozzáférés szükséges a privát ablakokhoz
 detail-private-required-description = Ez a kiegészítő hozzáfér az online tevékenységéhez privát böngészés közben. <label data-l10n-name="detail-private-browsing-learn-more">További információ</label>
+detail-private-required-description2 = Ez a kiegészítő hozzáfér az online tevékenységéhez privát böngészéskor. <a data-l10n-name="learn-more">További tudnivalók</a>
 detail-private-browsing-on =
     .label = Engedélyezés
     .tooltiptext = Engedélyezés privát böngészésben
