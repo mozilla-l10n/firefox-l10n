@@ -92,6 +92,9 @@ download-choose-folder =
            *[other] o
         }
 play-drm-content-learn-more = Ka´vi kue´eka
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Kɨ´ɨ
 
 ## General Section - Performance
 
