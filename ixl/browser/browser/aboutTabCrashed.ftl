@@ -8,3 +8,6 @@ crashed-restore-tab-button = Q'aavisa u texhlale' unpajte
 crashed-restore-all-button = Q'aavisa kaajayil unq'a texhlale' uve' kat yani
 crashed-header = !kam q'ii! Kat yanyu u texhlale' unpajte
 crashed-offer-help = La uch kulochone'!
+crashed-single-offer-help-message = txa-a { crashed-restore-tab-button } aq'al la teq'otzan u u'uje'
+crashed-multiple-offer-help-message = Txa-a { crashed-restore-tab-button } moj { crashed-restore-all-button } aq'al la teq'otzan u/unq'a u'uje'.
+crashed-request-help = La loch o'?
