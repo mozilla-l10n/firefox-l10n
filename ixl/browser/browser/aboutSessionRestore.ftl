@@ -32,5 +32,9 @@ restore-page-close-button =
 welcome-back-tab-title = ¡B'a'xi ya!
 welcome-back-page-title = ¡B'a'xi ya!
 welcome-back-page-info = { -brand-short-name }b'anel ve't uche.
+welcome-back-restore-button =
+    .label = Ko'on
+    .accesskey = K
 welcome-back-restore-all-label = Q'aavisal ti iqul  jank'al unq'a aq'one ve jajelkan.
 welcome-back-restore-some-label = Q'aavisa ti iqul akuxh uve   ni tal aama.
+welcome-back-page-info-link = Jank'al chit unq'a tz'ajsab' tetze' as unq'a vee' eetz kuxhtu' kat mox eesalyu el  as ib'anax tuch u vee' naxaan kat ile' kat kaayu tu tatinb'al uve' kam chit b'an ta'n. asoj ye' ni b'an b'a'n stej, <a data-l10n-name="link-more"> la sik'le nimal ti' uva' kam la uch ab'anata.</a>
