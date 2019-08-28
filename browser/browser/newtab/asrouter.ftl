@@ -84,6 +84,27 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Novedades
 cfr-whatsnew-release-notes-link-text = Leer las notas de la versión
 cfr-whatsnew-fx70-title = { -brand-short-name } ahora lucha más fuerte por su privacidad
+cfr-whatsnew-fx70-body =
+    La última actualización mejora la función de protección de rastreo y hace
+    que sea muy sencillo crear contraseñas seguras para cada sitio.
+cfr-whatsnew-tracking-protect-title = Protéjase de los rastreadores
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } bloquea muchos rastreadores sociales y de sitios cruzados comunes que
+    siguen lo que hace en línea.
+cfr-whatsnew-tracking-protect-link-text = Vea su informe
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Rastreador bloqueado
+       *[other] Rastreadores bloqueados
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Desde { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Ver el informe
+cfr-whatsnew-lockwise-backup-title = Haga copia de seguridad de sus contraseñas
+cfr-whatsnew-lockwise-backup-body = Ahora puede generar contraseñas seguras a las que puede acceder desde cualquier lugar donde inicie sesión.
+cfr-whatsnew-lockwise-backup-link-text = Activar copias de seguridad
 
 ## Bookmark Sync
 
