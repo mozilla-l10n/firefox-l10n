@@ -11,3 +11,4 @@ crashed-offer-help = La uch kulochone'!
 crashed-single-offer-help-message = txa-a { crashed-restore-tab-button } aq'al la teq'otzan u u'uje'
 crashed-multiple-offer-help-message = Txa-a { crashed-restore-tab-button } moj { crashed-restore-all-button } aq'al la teq'otzan u/unq'a u'uje'.
 crashed-request-help = La loch o'?
+crashed-request-help-message = Jank'al unq'a vee' ni talax sqej uve'  ni yane' ni loch o' ti' ib'anat b'a'n stej { -brand-short-name }
