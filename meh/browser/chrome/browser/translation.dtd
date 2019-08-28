@@ -35,6 +35,7 @@
 <!ENTITY translation.tryAgain.button            "Nasá´á tuku">
 
 
+<!ENTITY translation.options.menu               "Kaji">
 <!-- LOCALIZATION NOTE (translation.options.neverForSite.accesskey,
   -                     translation.options.preferences.accesskey):
   -  The accesskey values used here should not clash with the value used for

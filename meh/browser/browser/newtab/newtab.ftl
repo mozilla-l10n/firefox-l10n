@@ -99,6 +99,7 @@ newtab-label-download = Nxinuu
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-add-search-engine = Chisó ka̱a̱ nánuku
 newtab-section-menu-move-up = Scana si̱kɨ̱
 newtab-section-menu-move-down = Scana chuve
 

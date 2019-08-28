@@ -9,6 +9,7 @@
 
 <!ENTITY cmd.uninstallAddon.label             "Xita">
 <!ENTITY cmd.uninstallAddon.accesskey         "r">
+<!ENTITY cmd.showPreferencesWin.label         "Kaji">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferencias">
 
 

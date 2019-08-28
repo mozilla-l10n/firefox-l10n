@@ -7,6 +7,8 @@
 # your locale code, and link to your translated pages as soon as they're
 # live.
 
+#define bookmarks_title A ta´a ini noo´o
+#define bookmarks_heading A ta´a ini noo´o
 
 #define bookmarks_toolbarfolder Bookmarks Toolbar Folder
 

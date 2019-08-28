@@ -6,10 +6,15 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = Kunetu…
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } Kaji
+       *[other] { -brand-short-name } Preferencias
+    }
 cmd-preferences =
     .label =
         { PLATFORM() ->
-            [windows] Opciones
+            [windows] Kaji
            *[other] Preferencias
         }
     .accesskey =
@@ -59,7 +64,7 @@ extensions-warning-update-security-container =
 remove-addon-button = Xita
 preferences-addon-button =
     { PLATFORM() ->
-        [windows] Opciones
+        [windows] Kaji
        *[other] Preferencias
     }
 

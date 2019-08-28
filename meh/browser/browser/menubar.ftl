@@ -107,7 +107,7 @@ menu-view-sidebar =
     .label = Barra lateral
     .accesskey = B
 menu-view-bookmarks =
-    .label = A ta'a ini noo´o
+    .label = A ta´a ini noo´o
 menu-view-history-button =
     .label = Sɨ´ɨ
 menu-view-synced-tabs-sidebar =
@@ -185,7 +185,7 @@ menu-history-undo-window-menu =
 ## Bookmarks Menu
 
 menu-bookmarks-menu =
-    .label = A ta´a ininu
+    .label = A ta´a ini noo´o
     .accesskey = A
 menu-bookmarks-show-all =
     .label = Xituvi kuaiyo a ta´a ini noo´o

@@ -4,6 +4,8 @@
 
 scale-percent =
     .value = %
+options-group-label =
+    .value = Kaji
 hf-blank =
     .label = --nada--
 # Variables
