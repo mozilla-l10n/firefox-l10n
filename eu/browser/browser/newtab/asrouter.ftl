@@ -82,6 +82,7 @@ cfr-whatsnew-button =
     .label = Nobedadeak
     .tooltiptext = Nobedadeak
 cfr-whatsnew-panel-header = Nobedadeak
+cfr-whatsnew-release-notes-link-text = Irakurri bertsio-oharrak
 
 ## Bookmark Sync
 
