@@ -134,9 +134,9 @@
 
 <!ENTITY search "ძიება">
 <!ENTITY reload "გაახლება">
-<!ENTITY forward "წინ">
+<!ENTITY forward "მომდევნო">
 <!ENTITY menu "მენიუ">
-<!ENTITY back "უკან">
+<!ENTITY back "წინა">
 <!ENTITY stop "შეჩერება">
 <!ENTITY site_security "საიტის უსაფრთხოება">
 <!ENTITY edit_mode_cancel "გაუქმება">
@@ -881,6 +881,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "ჩანიშვნა">
 
 <!ENTITY activity_stream_signin_title "მოგესალმებათ &brandShortName;">
+<!ENTITY activity_stream_signin_description "დაიწყეთ დასინქრონება სანიშნების, პაროლებისა და სხვა მონაცემების, თქვენი Firefox-ანგარიშის მეშვეობით.">
+<!ENTITY activity_stream_signin_button "შესვლა">
 <!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
 These labels are shown in the Activity Stream recommending the user to sign in. -->
 
