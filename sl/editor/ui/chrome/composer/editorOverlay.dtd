@@ -307,6 +307,7 @@
 <!ENTITY TextColorButton.tooltip "Izberi barvo besedila">
 <!ENTITY BackgroundColorButton.tooltip "Izberi barvo ozadja">
 <!ENTITY throbber.tooltip "Pojdi na spletno stran &vendorShortName;">
+<!ENTITY throbber.tooltip2 "Pojdi na domačo stran &brandShortName;a">
 <!ENTITY HighlightColorButton.tooltip "Izberi označevalno barvo besedila">
 
 <!-- Editor toolbar -->
