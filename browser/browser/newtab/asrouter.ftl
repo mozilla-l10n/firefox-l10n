@@ -83,6 +83,7 @@ cfr-whatsnew-button =
     .tooltiptext = Hva er nytt
 cfr-whatsnew-panel-header = Hva er nytt
 cfr-whatsnew-release-notes-link-text = Les utgivelsesnotatene
+cfr-whatsnew-fx70-title = { -brand-short-name } jobber nå enda mer for ditt personvern
 cfr-whatsnew-fx70-body =
     Den siste oppdateringen forbedrer sporingsbeskyttelsesfunksjonen og gjør det
     enklere enn noen gang å lage sikre passord for hvert nettsted.
@@ -99,7 +100,7 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = Siden { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Vis rapport
 cfr-whatsnew-lockwise-backup-title = Ta sikkerhetskopi av passordene dine
-cfr-whatsnew-lockwise-backup-body = Nå kan du genere sikre passord du får tilgang til hvor som helst du logger inn.
+cfr-whatsnew-lockwise-backup-body = Nå kan du generere sikre passord du får tilgang til hvor som helst du logger inn.
 cfr-whatsnew-lockwise-backup-link-text = Slå på sikkerhetskopiering
 cfr-whatsnew-lockwise-take-title = Ta med deg dine passord
 cfr-whatsnew-lockwise-take-body =
