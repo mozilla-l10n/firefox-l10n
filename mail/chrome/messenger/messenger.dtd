@@ -591,8 +591,8 @@
 <!ENTITY nextMsgButton.tooltip "გადასვლა შემდეგ წერილზე">
 <!ENTITY previousButton.tooltip "გადასვლა წინა წასაკითხ წერილზე">
 <!ENTITY previousMsgButton.tooltip "გადასვლა წინა წერილზე">
-<!ENTITY goForwardButton.tooltip "წინ გადასვლა ერთი წერილით">
-<!ENTITY goBackButton.tooltip "უკან დაბრუნება ერთი წერილით">
+<!ENTITY goForwardButton.tooltip "მომდევნო წერილზე გადასვლა">
+<!ENTITY goBackButton.tooltip "წინა წერილზე დაბრუნება">
 <!ENTITY deleteButton.tooltip "მონიშნული წერილის ან საქაღალდის წაშლა">
 <!ENTITY undeleteButton.tooltip "მონიშნული წერილის აღდგენა">
 <!ENTITY markButton.tooltip "წერილების მონიშვნა">
