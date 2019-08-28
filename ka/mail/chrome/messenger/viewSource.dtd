@@ -73,10 +73,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
-<!ENTITY backCmd.label "უკან">
-<!ENTITY backCmd.accesskey "უ">
-<!ENTITY forwardCmd.label "წინ">
-<!ENTITY forwardCmd.accesskey "წ">
+<!ENTITY backCmd.label "წინა">
+<!ENTITY backCmd.accesskey "წ">
+<!ENTITY forwardCmd.label "მომდევნო">
+<!ENTITY forwardCmd.accesskey "მ">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
