@@ -34,6 +34,7 @@
 <!ENTITY firstrun_button_notnow "ახლა არა">
 <!ENTITY firstrun_button_next "შემდეგი">
 
+
 <!ENTITY firstrun_tabqueue_title "ბმულები">
 
 <!ENTITY firstrun_readerview_title "სტატიები">
@@ -878,6 +879,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "კავშირგარეშე წვდომა">
 <!ENTITY helper_triple_readerview_open_message "ჩაინიშნეთ წასაკითხი სტატიები, კავშირგარეშე წვდომისთვის.">
 <!ENTITY helper_triple_readerview_open_button "ჩანიშვნა">
+
+<!ENTITY activity_stream_signin_title "მოგესალმებათ &brandShortName;">
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "რჩეული საიტები">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
