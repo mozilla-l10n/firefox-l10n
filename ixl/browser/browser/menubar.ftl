@@ -82,6 +82,9 @@ menu-edit-delete =
 menu-edit-select-all =
     .label = Txaa Kaajayil
     .accesskey = K
+menu-edit-find-on =
+    .label = Chuk tu U'uja' Vaa'
+    .accesskey = C
 
 ## View Menu
 
