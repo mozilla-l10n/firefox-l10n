@@ -3,8 +3,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 -->
-<!-- Note to localizers, don't localize the strings 'width' or 'height' -->
 
+<!-- Note to localizers, don't localize the strings 'width' or 'height' -->
 <!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 30em;">
 
 <!ENTITY  copy.key               "C">
@@ -62,6 +62,8 @@
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaURL              "URL:">
 <!ENTITY  mediaAlt              "Alternatív szöveg:">
+<!ENTITY  mediaLocation         "Hely:">
+<!ENTITY  mediaText             "Kapcsolódó szöveg:">
 <!ENTITY  mediaAltHeader        "Alternatív szöveg">
 <!ENTITY  mediaAddress          "Cím">
 <!ENTITY  mediaType             "Típus">
@@ -70,6 +72,7 @@
 <!ENTITY  mediaDimensions       "Megadott méretek:">
 <!ENTITY  mediaPhysDimensions   "Tényleges méretek:">
 <!ENTITY  mediaTitle            "Cím:">
+<!ENTITY  mediaDimension        "Méretek:">
 <!ENTITY  mediaLongdesc         "Hosszú leírás:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Mentés másként…">
