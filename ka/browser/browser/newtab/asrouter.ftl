@@ -83,6 +83,10 @@ cfr-whatsnew-button =
     .tooltiptext = რა სიახლეებია
 cfr-whatsnew-panel-header = რა სიახლეებია
 cfr-whatsnew-release-notes-link-text = იხილეთ გამოშვების შენიშვნები
+cfr-whatsnew-fx70-title = { -brand-short-name } ახლა უფრო მტკიცედ იბრძვის თქვენი პირადი მონაცემების დასაცავად
+cfr-whatsnew-fx70-body =
+    ბოლო განახლების შედეგად, გაძლიერებულია თვალთვალისგან დაცვის შესაძლებლობა
+    და მეტად გამარტივებულია ძლიერი პაროლების გამოყენება, თითოეული საიტისთვის.
 cfr-whatsnew-tracking-protect-title = თავი დაიცავით მეთვალყურეებისგან
 cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } ზღუდავს ცნობილი სოციალური ქსელებისა და საიტთაშორისი
