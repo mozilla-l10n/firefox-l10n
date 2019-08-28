@@ -50,11 +50,11 @@ permissions-capabilities-block =
 permissions-capabilities-prompt =
     .label = შეკითხვა ყოველ ჯერზე
 permissions-capabilities-listitem-allow =
-    .value = ნებართვა
+    .value = ნებადართული
 permissions-capabilities-listitem-block =
-    .value = აკრძალვა
+    .value = შეზღუდული
 permissions-capabilities-listitem-allow-session =
-    .value = ნებართვა ამ სეანსზე
+    .value = ნებადართული ამ სეანსზე
 
 ## Invalid Hostname Dialog
 
