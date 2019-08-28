@@ -82,6 +82,8 @@ cfr-whatsnew-button =
     .label = Novedades
     .tooltiptext = Novedades
 cfr-whatsnew-panel-header = Novedades
+cfr-whatsnew-release-notes-link-text = Leer las notas de la versión
+cfr-whatsnew-fx70-title = { -brand-short-name } ahora lucha más fuerte por su privacidad
 
 ## Bookmark Sync
 
