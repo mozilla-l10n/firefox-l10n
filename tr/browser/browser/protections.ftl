@@ -40,7 +40,7 @@ tracker-tab-title = Takip amaçlı içerikler
 tracker-tab-content = Web siteleri; takip kodu içeren harici reklamlar, videolar ve başka içerikler yükleyebilir. Takip amaçlı içerikleri engellemek sitelerin daha hızlı yüklenmesini sağlayabilir ama bazı düğmeler, formlar ve giriş alanları çalışmayabilir. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
 fingerprinter-tab-title = Parmak izi toplayıcılar
 fingerprinter-tab-content = Parmak izi toplayıcıları profilinizi oluşturmak için tarayıcı ve bilgisayarınızdaki ayarları toplarlar. Bu dijital parmak izini kullanarak farklı web siteler arasında sizi takip edebilirler. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
-cryptominer-tab-title = Kripto madenciler
+cryptominer-tab-title = Kripto madencileri
 cryptominer-tab-content = Kripto madencileri sayısal para madenciliğinde bulunmak için sisteminizin hesaplama gücünü kullanır. Kripto madencilik komut dosyaları pilinizi tüketir, bilgisayarınızı yavaşlatır ve elektrik faturanızı kabartabilir. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
 lockwise-title = Bir daha hiçbir parolayı unutmayın
 lockwise-title-logged-in = { -lockwise-brand-name }
@@ -138,9 +138,9 @@ bar-tooltip-fingerprinter =
            *[other] { $count } parmak izi toplayıcı (%{ $percentage })
         }
 bar-tooltip-cryptominer =
-    .title = Kripto madenciler
+    .title = Kripto madencileri
     .aria-label =
         { $count ->
-            [one] { $count } kripto madenci (%{ $percentage })
-           *[other] { $count } kripto madenci (%{ $percentage })
+            [one] { $count } kripto madencisi (%{ $percentage })
+           *[other] { $count } kripto madencisi (%{ $percentage })
         }

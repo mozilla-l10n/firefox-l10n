@@ -898,17 +898,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Korumaları kapatmanıza rağmen site düzgün çalışmıyor mu?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Rapor gönderin">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Engellendi">
 <!ENTITY protections.notBlocking2.label "İzin verildi">
+<!ENTITY protections.notFound.label "Bulunmadı">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Neden?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Bunları engellemek bazı web sitelerini kısmen bozabilir. Takipçiler engellendiğinde bazı düğmeler, formlar ve giriş alanları çalışmayabilir.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Korumaları kapattığınızda bu sitedeki tüm takipçilere izin verilecektir. Önceden çalışmayan site işlevleri de çalışır hale gelebilir.">
-<!ENTITY protections.notFound.label "Bulunmadı">
 <!ENTITY protections.socialMediaTrackers.label "Sosyal Medya Takipçileri">
 <!ENTITY protections.crossSiteTrackingCookies.label "Siteler arası takip çerezleri">
 <!ENTITY protections.trackingContent.label "Takip amaçlı içerikler">
 <!ENTITY protections.fingerprinters.label "Parmak izi toplayıcılar">
-<!ENTITY protections.cryptominers.label "Kripto madenciler">
+<!ENTITY protections.cryptominers.label "Kripto madencileri">
 <!ENTITY protections.noTrackersFound.description "Bu sayfada &brandShortName; tarayıcısının tanıdığı bir takipçi tespit edilmedi.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Bu çerezler çevrimiçi olarak yaptığınız şeyler hakkında veriler toplamak için sizi siteden siteye takip eder. Reklamverenler ve analiz şirketleri gibi üçüncü taraflar tarafından ayarlanmışlardır.">
@@ -961,7 +970,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "e">
 
 <!ENTITY contentBlocking.trackersView.label "Takipçiler">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Tüm takipçileri engellemek için içerik engellemeyi “Sıkı” olarak ayarlayın.">
 
 <!ENTITY contentBlocking.cookies.label "Çerezler">
@@ -971,8 +979,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies2.label "Siteler arası takip çerezleri">
 
-<!ENTITY contentBlocking.cryptominers.label "Kripto madenciler">
-<!ENTITY contentBlocking.cryptominersView.label "Kripto madenciler">
+<!ENTITY contentBlocking.cryptominers.label "Kripto madencileri">
+<!ENTITY contentBlocking.cryptominersView.label "Kripto madencileri">
 
 <!ENTITY contentBlocking.fingerprinters.label "Parmak izi toplayıcılar">
 <!ENTITY contentBlocking.fingerprintersView.label "Parmak izi toplayıcılar">
