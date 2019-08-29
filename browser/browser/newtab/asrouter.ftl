@@ -82,6 +82,8 @@ cfr-whatsnew-button =
     .label = Mitä uutta
     .tooltiptext = Mitä uutta
 cfr-whatsnew-panel-header = Mitä uutta
+cfr-whatsnew-tracking-protect-title = Suojaa itsesi seuraimilta
+cfr-whatsnew-lockwise-take-link-text = Hanki sovellus
 
 ## Bookmark Sync
 
