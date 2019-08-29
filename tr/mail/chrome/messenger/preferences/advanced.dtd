@@ -124,3 +124,5 @@
 <!ENTITY viewSecurityDevices.accesskey "G">
 
 <!ENTITY manageCertificates2.label "Sertifikaları yönet…">
+<!ENTITY viewSecurityDevices2.label "Güvenlik aygıtları…">
+<!ENTITY viewSecurityDevices2.accesskey "G">

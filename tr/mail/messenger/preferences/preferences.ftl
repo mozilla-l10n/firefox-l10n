@@ -3,8 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = Genel
+category-general =
+    .tooltiptext = { pane-general-title }
 general-tags-header = Etiketler
 general-updates-header = Güncellemeler
+composition-category-header = Düzenleme
+composition-attachments-header = Ekler
 composition-spelling-title = Yazım denetimi
 compose-html-style-title = HTML stili
 privacy-main-header = Gizlilik
@@ -28,6 +32,8 @@ update-pref-write-failure-title = Yazma Hatası
 update-pref-write-failure-message = Tercih kaydedilemiyor. Dosyaya yazılamadı: { $path }
 update-setting-write-failure-title = Güncelleme tercihleri kaydedilirken hata oluştu
 update-in-progress-title = Güncelleme sürüyor
+update-in-progress-message = { -brand-short-name } bu güncellemeyi uygulamaya devam etsin mi?
+update-in-progress-ok-button = &Vazgeç
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Devam et

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Mail Content -->
 
+<!-- Mail Content -->
 <!ENTITY captionMailContent.label "E-Posta İçeriği">
 
 <!ENTITY acceptRemoteContent.label "İletilerde uzaktan çekilen içeriğe izin ver">
@@ -10,8 +10,8 @@
 <!ENTITY remoteContentExceptions.label "Ayrıcalıklar…">
 <!ENTITY remoteContentExceptions.accesskey "c">
 <!ENTITY acceptRemoteContentInfo.label "Uzaktan içeriklerin gizlilik sorunları hakkında daha fazla bilgi alın">
-<!-- Web Content -->
 
+<!-- Web Content -->
 <!ENTITY captionWebContent.label "Web İçeriği">
 
 <!ENTITY keepHistory.label "Ziyaret ettiğim Web sitelerini ve bağlantıları hatırla">
@@ -36,3 +36,7 @@
 <!ENTITY dntTrackingNotOkay.label2 "Sitelere izlenmek istemediğimi söyle">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Beni İzleme hakkında daha fazla bilgi alın">
+
+<!ENTITY doNotTrackCheck.label "Web sitelerine izlenmek istemediğimi bildiren “Do Not Track” sinyalini gönder">
+<!ENTITY doNotTrackCheck.accesskey "n">
+<!ENTITY doNotTrackLearnMore.label "Daha fazla bilgi al">
