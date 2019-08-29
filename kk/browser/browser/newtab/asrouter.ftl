@@ -82,14 +82,20 @@ cfr-whatsnew-tracking-blocked-link-text = Есептемені қарау
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } іске қосу
+    .accesskey = с
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Парольдерді енді ешқашан ұмытпаңыз
+cfr-doorhanger-sync-logins-body = Парольдерді қауіпсіз түрде сақтаңыз және құрылғыларыңыз арасында синхрондаңыз.
 cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } іске қосу
     .accesskey = с
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Мұны жолда оқыңыз
+cfr-doorhanger-send-tab-recipe-header = Бұл рецептті ас үйге апарыңыз
 
 ## Firefox Send
 
