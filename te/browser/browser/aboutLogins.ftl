@@ -26,6 +26,7 @@ login-list-item-subtitle-missing-username = (వాడుకరి పేరు 
 ## Login
 
 login-item-delete-button = తొలగించు
+login-item-origin-label = వెబ్‌సైటు చిరునామా
 login-item-username-label = వాడుకరి పేరు
 login-item-copy-username-button-text = కాపీచేయి
 login-item-copied-username-button-text = కాపీ అయ్యింది!
@@ -50,6 +51,7 @@ confirmation-dialog-dismiss-button =
     .title = రద్దుచేయి
 confirm-delete-dialog-title = ఈ ప్రవేశాన్ని తొలగించాలా?
 confirm-delete-dialog-confirm-button = తొలగించు
+confirm-discard-changes-dialog-title = భద్రపరచని మార్పులను విస్మరించాలా?
 
 ## Breach Alert notification
 
