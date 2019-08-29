@@ -115,7 +115,7 @@ cfr-whatsnew-tracking-blocked-title =
    *[other] sporings-mekanismer blokeret
   }
 cfr-whatsnew-tracking-blocked-subtitle =
-   Siden { DATETIME($earliestDate, month: "long", year: "numeric") }
+   siden { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Se rapport
 
 cfr-whatsnew-lockwise-backup-title = Lav backup af dine adgangskoder
@@ -125,7 +125,7 @@ cfr-whatsnew-lockwise-backup-link-text = Slå backup til
 
 cfr-whatsnew-lockwise-take-title = Tag dine adgangskoder med dig
 cfr-whatsnew-lockwise-take-body =
-   Med apppen { -lockwise-brand-short-name } får du sikker adgang til dine adkangskoder,
+   Med apppen { -lockwise-brand-short-name } får du sikker adgang til dine adgangskoder,
    uanset hvor du er.
 cfr-whatsnew-lockwise-take-link-text = Hent appen
 
