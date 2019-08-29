@@ -664,6 +664,7 @@ content-blocking-all-third-party-cookies = మూడవ-పక్ష కుక�
 content-blocking-cryptominers = క్రిప్టోమైనర్లు
 content-blocking-warning-title = గమనిక!
 content-blocking-learn-how = ఎలానో తెలుసుకోండి
+content-blocking-warning-learn-how = ఎలానో తెలుసుకోండి
 content-blocking-trackers-label =
     .label = ట్రాకర్లు
     .accesskey = T
