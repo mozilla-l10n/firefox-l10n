@@ -44,6 +44,7 @@ lockwise-title = Lopeta salasanojen unohtaminen
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } tallentaa salasanasi turvallisesti selaimeesi.
 lockwise-header-content-logged-in = Tallenna salasanasi turvallisesti ja synkronoi ne eri laitteiden välillä.
+open-about-logins-button = Avaa { -brand-short-name }-selaimessa
 lockwise-no-logins-content = Hanki <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>-sovellus ja ota salasanat mukaasi minne menetkin.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
