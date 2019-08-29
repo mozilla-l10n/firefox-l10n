@@ -34,15 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Uložit změny
     .accesskey = U
-permissions-autoplay-menu = Ve výchozím nastavení automatického přehrávání
+permissions-autoplay-menu = Výchozí nastavení:
 permissions-searchbox =
     .placeholder = Hledat
 permissions-capabilities-autoplay-allow =
-    .label = povolit zvuk i video
+    .label = povolit automatické přehrávání videí i médií se zvukem
 permissions-capabilities-autoplay-block =
-    .label = blokovat zvuk
+    .label = blokovat automatické přehrávání médií se zvukem
 permissions-capabilities-autoplay-blockall =
-    .label = blokovat zvuk i video
+    .label = blokovat automatické přehrávání videí a médií se zvukem
 permissions-capabilities-allow =
     .label = Povolit
 permissions-capabilities-block =
@@ -110,7 +110,7 @@ permissions-exceptions-autoplay-media-desc2 = Zde můžete určit, které server
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window =
-    .title = Blokování automatického přehrávání
+    .title = Oprávnění automatického přehrávání
     .style = { permissions-window.style }
 permissions-site-autoplay-desc = Níže můžete nastavit výjimky a vlastní nastavení pro vámi vybrané servery.
 
