@@ -6,6 +6,7 @@
 
 accessibility-learn-more = Ulteriori informazioni
 accessibility-text-label-header = Etichette di testo e nomi
+accessibility-keyboard-header = Tastiera
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 accessibility-warning =
@@ -39,3 +40,13 @@ accessibility-text-label-issue-interactive = Gli elementi interattivi devono ave
 accessibility-text-label-issue-optgroup-label = Utilizzare l’attributo <code>label</code> per assegnare un’etichetta agli elementi <span>optgroup</span>. <a>Ulteriori informazioni</a>
 accessibility-text-label-issue-optgroup-label2 = Utilizzare un attributo <code>label</code> per assegnare un’etichetta a un elemento <span>optgroup</span>. <a>Ulteriori informazioni</a>
 accessibility-text-label-issue-toolbar = Le barre degli strumenti devono avere un’etichetta quando è presente più di una barra degli strumenti. <a>Ulteriori informazioni</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
+accessibility-keyboard-issue-semantics = Gli elementi che possono essere attivati (“focusable”) dovrebbero avere una semantica interattiva. <a>Ulteriori informazioni</a>
+accessibility-keyboard-issue-tabindex = Evitare l’uso dell’attributo <code>tabindex</code> con valori superiori a zero. <a>Ulteriori informazioni</a>
+accessibility-keyboard-issue-action = Dovrebbe essere possibile attivare gli elementi interattivi attraverso la tastiera. <a>Ulteriori informazioni</a>
+accessibility-keyboard-issue-focusable = Gli elementi interattivi devono poter essere attivati (“focusable”). <a>Ulteriori informazioni</a>
+accessibility-keyboard-issue-focus-visible = Gli elementi che possono essere attivati (“focusable”) potrebbero non avere uno stile associato per il focus. <a>Ulteriori informazioni</a>
