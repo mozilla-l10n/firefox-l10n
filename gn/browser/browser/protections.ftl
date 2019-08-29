@@ -18,8 +18,15 @@ graph-total-summary =
         [one] { $count } rapykuehoha ojejoko { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } guive
        *[other] { $count } rapykuehoha ojejoko { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } guive
     }
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-header-details-standard = Ñemo’ã oñembohape <b>Estándar</b>-pe
+protection-header-details-strict = Ñemo’ã oñembohape <b>Estricto</b>-pe
+protection-header-details-custom = Ñemo’ã oñembohape <b>Personalizado</b>
 protection-report-page-title = Ñemigua ñemo'ã
 protection-report-content-title = Ñemigua mo’ãha
+etp-card-title = Tapykueho mo’ãha mbotuichapyre
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Ko árape
@@ -28,6 +35,8 @@ tracker-tab-title = Tetepy mo’ãha
 fingerprinter-tab-title = Ñemokuãhũ
 cryptominer-tab-title = Criptomineros
 lockwise-title-logged-in = { -lockwise-brand-name }
+open-about-logins-button = Embojuruja { -brand-short-name }-pe
+lockwise-no-logins-content = Eguereko pe tembipuru’i <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> egueraha hag̃ua ne ñe’ẽñemi opa hendápe.
 turn-on-sync = Emyandy { -sync-brand-short-name }...
     .title = Eho ñembojuehe erohoryvévape
 manage-devices = Eñangareko mba’e’okáre
