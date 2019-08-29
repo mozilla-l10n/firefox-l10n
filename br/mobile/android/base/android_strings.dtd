@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Ket evit ar mare">
 <!ENTITY firstrun_button_next "War-lerc\&apos;h">
 
+<!ENTITY firstrun_signin_button2 "Kennaskañ">
+
 <!ENTITY firstrun_tabqueue_title "Ereoù">
 
 <!ENTITY firstrun_readerview_title "Pennadoù">
@@ -875,6 +877,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Hegerz ezlinenn">
 <!ENTITY helper_triple_readerview_open_message "Lakait elfennoù ar mod lenn er sinedoù evit o lenn ezlinenn.">
 <!ENTITY helper_triple_readerview_open_button "Ouzhpennañ d\&apos;ar sinedoù">
+
+<!ENTITY activity_stream_signin_title "Donemat war &brandShortName;">
+<!ENTITY activity_stream_signin_description "Krogit da c\&apos;houbredañ sinedoù, gerioù-tremen, ha muioc\&apos;h c\&apos;hoazh gant ho kont Firefox.">
+<!ENTITY activity_stream_signin_button "Kennaskañ">
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "Lec\&apos;hiennoù e-touez re wellañ">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
