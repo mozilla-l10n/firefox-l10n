@@ -83,6 +83,13 @@ cfr-whatsnew-button =
     .tooltiptext = Nobedadeak
 cfr-whatsnew-panel-header = Nobedadeak
 cfr-whatsnew-release-notes-link-text = Irakurri bertsio-oharrak
+cfr-whatsnew-tracking-blocked-link-text = Ikusi txostena
+cfr-whatsnew-lockwise-backup-title = Egin zure pasahitzen babeskopia
+cfr-whatsnew-lockwise-backup-body = Sortu saioa hasi behar duzun toki orotan atzi ditzakezun pasahitz seguruak.
+cfr-whatsnew-lockwise-backup-link-text = Aktibatu babeskopiak
+cfr-whatsnew-lockwise-take-title = Eraman pasahitzak zurekin
+cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } mugikorrerako aplikazioarekin babeskopian dituzun pasahitzak edonondik atzitu ahal izango dituzu.
+cfr-whatsnew-lockwise-take-link-text = Eskuratu aplikazioa
 
 ## Bookmark Sync
 

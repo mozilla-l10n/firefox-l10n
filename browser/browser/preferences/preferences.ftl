@@ -339,6 +339,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Bilatu testua idazten hasi bezain laster
     .accesskey = B
+browsing-picture-in-picture-learn-more = Argibide gehiago
 browsing-cfr-recommendations =
     .label = Gomendatu hedapenak nabigatu ahala
     .accesskey = G
