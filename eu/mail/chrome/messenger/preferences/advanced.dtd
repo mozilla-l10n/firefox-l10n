@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "K">
 <!ENTITY viewSecurityDevices.label "Segurtasun-gailuak">
 <!ENTITY viewSecurityDevices.accesskey "u">
+
+<!ENTITY manageCertificates2.label "Kudeatu ziurtagiriak…">
+<!ENTITY manageCertificates2.accesskey "K">
+<!ENTITY viewSecurityDevices2.label "Segurtasun-gailuak…">
+<!ENTITY viewSecurityDevices2.accesskey "S">

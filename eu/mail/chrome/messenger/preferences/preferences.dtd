@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Eranskinak">
 <!ENTITY panePrivacy.title        "Pribatutasuna">
 <!ENTITY paneSecurity.title       "Segurtasuna">
+<!ENTITY panePrivacySecurity.title "Pribatutasuna eta segurtasuna">
 <!ENTITY paneLightning.title      "Egutegia">
 <!ENTITY paneAdvanced.title       "Aurreratua">
 <!ENTITY paneAccount.title        "Kontuak">

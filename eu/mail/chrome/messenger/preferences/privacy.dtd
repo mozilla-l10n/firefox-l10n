@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Mail Content -->
 
+<!-- Mail Content -->
 <!ENTITY captionMailContent.label "Postaren edukia">
 
 <!ENTITY acceptRemoteContent.label "Baimendu urruneko edukia mezuetan">
@@ -10,8 +10,8 @@
 <!ENTITY remoteContentExceptions.label "Salbuespenak…">
 <!ENTITY remoteContentExceptions.accesskey "e">
 <!ENTITY acceptRemoteContentInfo.label "Urruneko edukiaren pribatutasun-arazoei buruzko argibide gehiago">
-<!-- Web Content -->
 
+<!-- Web Content -->
 <!ENTITY captionWebContent.label "Web edukia">
 
 <!ENTITY keepHistory.label "Gogoratu bisitatu ditudan webgune eta loturak">
@@ -36,3 +36,7 @@
 <!ENTITY dntTrackingNotOkay.label2 "Esan guneei nire jarraipenik ez egiteko">
 <!ENTITY dntTrackingNotOkay.accesskey "s">
 <!ENTITY doNotTrackInfo.label "Do No Track-i buruzko argibide gehiago">
+
+<!ENTITY doNotTrackCheck.label "Bidali webguneei &quot;Do Not Track&quot; seinalea zure jarraipena ez egitea adierazteko">
+<!ENTITY doNotTrackCheck.accesskey "n">
+<!ENTITY doNotTrackLearnMore.label "Argibide gehiago">
