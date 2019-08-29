@@ -84,6 +84,7 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Oĩpa mba'e pyahu
 cfr-whatsnew-release-notes-link-text = Emoñe’ẽ jehaipy rehegua
 cfr-whatsnew-fx70-title = { -brand-short-name } oñorairõve ne ñemigua rehe
+cfr-whatsnew-tracking-protect-title = Eñemo’ã tapykuehohágui
 cfr-whatsnew-tracking-protect-link-text = Ehecha ne marandu’i
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
