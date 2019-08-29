@@ -84,7 +84,11 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Yeni neler var?
 cfr-whatsnew-release-notes-link-text = Sürüm notlarını okuyun
 cfr-whatsnew-fx70-title = { -brand-short-name } artık gizliliğiniz için daha sıkı çalışıyor
+cfr-whatsnew-tracking-protect-title = Kendinizi takipçilerden koruyun
+cfr-whatsnew-tracking-protect-body = { -brand-short-name }, internette yaptıklarınızı izleyen çoğu sosyal medya takipçisini ve siteler arası takipçiyi engeller.
+cfr-whatsnew-tracking-protect-link-text = Raporunuzu görün
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } tarihinden beri
+cfr-whatsnew-tracking-blocked-link-text = Raporu görüntüle
 cfr-whatsnew-lockwise-backup-title = Parolalarınızı yedekleyin
 cfr-whatsnew-lockwise-take-title = Parolalarınızı yanınızda taşıyın
 
