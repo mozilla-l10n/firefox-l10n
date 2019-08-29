@@ -34,11 +34,11 @@ same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  unpinTab.accesskey                 "p">
 <!ENTITY  sendPageToDevice.label             "Gửi trang tới thiết bị">
-<!ENTITY  sendPageToDevice.accesskey         "D">
+<!ENTITY  sendPageToDevice.accesskey         "n">
 <!ENTITY  sendLinkToDevice.label             "Gửi đường dẫn tới thiết bị">
-<!ENTITY  sendLinkToDevice.accesskey         "D">
+<!ENTITY  sendLinkToDevice.accesskey         "n">
 <!ENTITY  undoCloseTab.label                 "Mở lại thẻ vừa đóng">
 <!ENTITY  undoCloseTab.accesskey             "U">
 <!ENTITY  hiddenTabs.label                   "Thẻ đã ẩn">
@@ -898,12 +898,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Trang web vẫn bị lỗi sau khi tắt bảo vệ?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Gửi báo cáo">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Đã chặn">
 <!ENTITY protections.notBlocking2.label "Đã cho phép">
+<!ENTITY protections.notFound.label "Không phát hiện">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Tại sao?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Chặn những thứ này có thể phá vỡ các yếu tố của một số trang web. Không có trình theo dõi, một số nút, biểu mẫu và trường đăng nhập có thể không hoạt động.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Tắt bảo vệ sẽ cho phép tất cả các trình theo dõi trên trang web này. Nó cũng có thể cải thiện một số chức năng trang web.">
-<!ENTITY protections.notFound.label "Không phát hiện">
 <!ENTITY protections.socialMediaTrackers.label "Trình theo dõi truyền thông xã hội">
 <!ENTITY protections.crossSiteTrackingCookies.label "Cookie theo dõi chéo trang web">
 <!ENTITY protections.trackingContent.label "Trình theo dõi nội dung">
@@ -961,7 +970,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Trình theo dõi">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Để chặn tất cả trình theo dõi, hãy đặt chặn nội dung thành “Nghiêm ngặt”.">
 
 <!ENTITY contentBlocking.cookies.label "Cookie">
