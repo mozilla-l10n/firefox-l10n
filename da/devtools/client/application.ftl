@@ -84,5 +84,29 @@ serviceworker-empty-suggestions-debugger = Gennemgå  registreringen for din ser
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Inspicere service-workers fra andre domæner. <a>Åbn about:debugging</a>
 
-# Text displayed when no manifest was found for the current page.
-manifest-empty-intro = Kunne ikke finde et manifest at inspicere.
+# Header for the view of Manifest displayed in the application panel for the current page.
+manifest-view-header = App-manifest
+
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Fejl og advarsler
+
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Identitet
+
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Præsentation
+
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Ikoner
+
+# Text displayed while we are loading the manifest file
+manifest-loading = Indlæser manifest…
+
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Manifest indlæst.
+
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = Der opstod en fejl under indlæsning af manifestet:
+
+# Text displayed when the page has no manifest available
+manifest-non-existing = Der blev ikke fundet noget manifest at inspicere.
