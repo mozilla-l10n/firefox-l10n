@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Irakurketa">
 <!ENTITY display.caption                  "Bistaratzea">
+<!ENTITY displayName.label                "Bistaratzeko izena:">
 <!ENTITY showCondensedAddresses.label     "Erakutsi nire helbide-liburuko pertsonen bistarazte-izena bakarrik">
 <!ENTITY showCondensedAddresses.accesskey "p">
 

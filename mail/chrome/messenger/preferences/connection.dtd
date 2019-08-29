@@ -38,6 +38,10 @@
 <!ENTITY  noproxy.label                 "Proxy-rik ez hauentzat:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Adibidez: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
+<!ENTITY  noproxyLocalhostDesc.label   "localhost, 127.0.0.1 eta ::1 helbideetarako konexioak inoiz ez dira proxy bidez egiten.">
 <!ENTITY  shareproxy.label              "Erabili proxy hau protokolo guztientzako">
 <!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "Ez eskatu autentifikaziorik pasahitza gordeta badago">
@@ -47,12 +51,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "Gaitu HTTPS gaineko DNSa">
 <!ENTITY  dnsOverHttps.accesskey        "b">
-<!ENTITY  dnsOverHttpsUrl.label         "URLa">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URLa DNS ebazteko HTTPS gainean">
-<!ENTITY  dnsOverHttpsUrlDefault.label     "Erabili lehenetsia">
-<!ENTITY  dnsOverHttpsUrlDefault.accesskey "l">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Erabili URL lehenetsia DNSa ebazteko HTTPS gainean">
-<!ENTITY  dnsOverHttpsUrlCustom.label      "Pertsonalizatua">
-<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "P">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Sartu zure URL hobetsia DNSa ebazteko HTTPS gainean">
