@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Askouezh erbedet
+cfr-doorhanger-feature-heading = Keweriuster erbedet
 cfr-doorhanger-pintab-heading = Klaskit an dra-se: spilhennañ an ivinell
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Perak e welan an dra-mañ
 cfr-doorhanger-extension-cancel-button = Ket bremañ
@@ -68,3 +75,32 @@ cfr-doorhanger-bookmark-fxa-link-text = Goubredit ar sinedoù bremañ...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Afell serriñ
     .title = Serriñ
+
+## Protections panel
+
+cfr-protections-panel-header = Merdeit hep bezañ heuliet
+cfr-protections-panel-body = Mirit ho roadennoù ganeoc'h. { -brand-short-name } a warez ac'hanoc'h eus lodenn vrasañ an heulierien a sell ouzh ar pezh a rit enlinenn.
+cfr-protections-panel-link-text = Gouzout hiroc'h
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Petra nevez
+    .tooltiptext = Petra nevez
+cfr-whatsnew-panel-header = Petra nevez
+cfr-whatsnew-release-notes-link-text = Lenn an notennoù ermaeziañ
+cfr-whatsnew-fx70-title = { -brand-short-name } a stourm evit ho puhez prevez
+cfr-whatsnew-fx70-body = Gant an hizivadenn ziwezhañ eo kreñvaet ar gwarez a-enep d'an heuliañ hag aesoc'h c'hoazh eo da grouiñ gerioù-tremen diogel evit pep lec'hienn.
+cfr-whatsnew-tracking-protect-title = Gwarezit ac'hanoc'h a-enep d'an heulierien
+
+## Bookmark Sync
+
+
+## Login Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+
