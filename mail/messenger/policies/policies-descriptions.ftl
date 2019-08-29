@@ -17,6 +17,7 @@ policy-BlockAboutAddons = Eklenti Yöneticisi'ne (about:addons) erişimi engelle
 policy-BlockAboutConfig = about:config sayfasına erişimi engelle.
 policy-BlockAboutProfiles = about:profiles sayfasına erişimi engelle.
 policy-BlockAboutSupport = about:support sayfasına erişimi engelle.
+policy-CaptivePortal = Kısıtlama portali desteğini aç veya kapat.
 policy-CertificatesDescription = Sertifika ekle veya yerleşik sertifikaları kullan.
 policy-Cookies = Web sitelerinin çerez yerleştirmesine izin ver veya engelle.
 policy-DefaultDownloadDirectory = Varsayılan indirme klasörünü ayarla.
@@ -34,8 +35,31 @@ policy-DisplayMenuBar = Varsayılan olarak menü çubuğunu göster.
 policy-DNSOverHTTPS = HTTP üzerinden DNS’i yapılandır.
 policy-DontCheckDefaultClient = Başlangıçta varsayılan istemci kontrolünü devre dışı bırak.
 policy-DownloadDirectory = İndirme klasörünü ayarla ve kilitle.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = İçerik engellemeyi etkinleştir veya devre dışı bırak ve isteğe bağlı olarak kilitle.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Eklentileri yükle, kaldır veya kilitle. Yükleme seçeneğinde parametre olarak URL veya yol kullanılır. Kaldırma ve kilitleme seçeneklerinde ise eklenti kimliği kullanılır.
+policy-ExtensionSettings = Eklenti kurulumunun tüm yönlerini yönet.
+policy-ExtensionUpdate = Otomatik eklenti güncellemelerini aç veya kapat.
+policy-HardwareAcceleration = false ise donanım ivmelenmesini kapat.
+policy-InstallAddonsPermission = Belirli websitelerinin eklenti yüklemesine izin ver.
+policy-LocalFileLinks = Belirli web sitelerinin yerel dosyalara bağlantı vermesine izin ver.
+policy-NetworkPrediction = Ağ tahminini (DNS prefetching) aç veya kapat.
+policy-OfferToSaveLogins = { -brand-short-name } tarayıcısının kullanıcı adı ve parolaları kaydetmeyi önermesini ayarla. true veya false olarak ayarlanabilir.
+policy-OverrideFirstRunPage = İlk açılış sayfasını değiştir. İlk açılış sayfasını devre dışı bırakmak istiyorsanız bu ilkeyi boş olarak ayarlayın.
+policy-OverridePostUpdatePage = Güncelleme sonrası “Yenilikler” sayfasını değiştir. Güncelleme sonrası sayfasını devre dışı bırakmak istiyorsanız bu ilkeyi boş olarak ayarlayabilirsiniz.
+policy-Preferences = Bir tercihler alt kümesinin değerini ayarlayıp kilitle.
+policy-PromptForDownloadLocation = Dosya indirirken nereye kaydedileceklerini sor.
 policy-Proxy = Vekil sunucu ayarlarını yapılandır.
+policy-RequestedLocales = Uygulamada kullanılması istenen dilleri tercih sırasına göre ayarla.
 policy-SanitizeOnShutdown2 = Kapatırken gezinti verilerini temizle.
+policy-SearchEngines = Arama motoru ayarlarını yapılandır. Bu ilke yalnızca Extended Support Release (ESR) sürümünde geçerlidir.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = PKCS #11 modüllerini yükle.
 policy-SSLVersionMax = Maksimum SSL sürümünü ayarla.
 policy-SSLVersionMin = Minimum SSL sürümünü ayarla.
 policy-SupportMenu = Yardım menüsüne özel bir destek öğesi ekle.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Web sitelerinin ziyaret edilmesini engelle. Biçimle ilgili daha fazla bilgi için belgelendirmeye bakın.

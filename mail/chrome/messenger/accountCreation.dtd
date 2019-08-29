@@ -77,10 +77,13 @@
 <!ENTITY manual-edit.label               "Elle yapılandırma">
 <!ENTITY manual-edit.accesskey           "l">
 <!ENTITY manual-config.label             "Elle yapılandır…">
+<!ENTITY manual-config.accesskey         "E">
 <!ENTITY open-provisioner.label          "Yeni bir e-posta adresi al…">
 <!ENTITY open-provisioner.accesskey      "Y">
 
 
+<!ENTITY get-help.label                  "Yardım alın">
+<!ENTITY get-help.accesskey              "Y">
 
 
 <!ENTITY warning.label                   "Uyarı!">

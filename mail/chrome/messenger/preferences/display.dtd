@@ -21,12 +21,12 @@
 <!ENTITY quotedTextColor.accesskey        "n">
 <!ENTITY displayWidth.label               "Düz Metinli İletiler">
 <!ENTITY displayText.label                "Alıntılanmış düz metin iletileri görüntülerken:">
-<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Duygu simgelerini grafik olarak göster">
 <!ENTITY convertEmoticons.accesskey    "D">
-<!-- labels -->
 
+<!-- labels -->
 <!ENTITY displayTagsText.label     "Etiketler iletilerinizi sınıflandırmak ve önemlerini belirlemek için kullanılabilir.">
 <!ENTITY newTagButton.label        "Yeni…">
 <!ENTITY newTagButton.accesskey    "Y">
@@ -34,8 +34,8 @@
 <!ENTITY editTagButton1.accesskey  "D">
 <!ENTITY removeTagButton.label     "Sil">
 <!ENTITY removeTagButton.accesskey "S">
-<!-- Fonts and Colors -->
 
+<!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Yazı Tipleri ve Renkler">
 <!ENTITY defaultFont.label       "Varsayılan yazı tipi:">
 <!ENTITY defaultFont.accesskey   "z">
@@ -45,10 +45,11 @@
 <!ENTITY fontOptions.label       "Gelişmiş…">
 <!ENTITY colorButton.label       "Renkler…">
 <!ENTITY colorButton.accesskey   "R">
-<!-- Advanced -->
 
+<!-- Advanced -->
 <!ENTITY reading.caption                  "Okuma">
 <!ENTITY display.caption                  "Görünüm">
+<!ENTITY displayName.label                "Görünen ad:">
 <!ENTITY showCondensedAddresses.label     "Adres defterimdeki kişilerin sadece gösterilen adını göster">
 <!ENTITY showCondensedAddresses.accesskey "d">
 
