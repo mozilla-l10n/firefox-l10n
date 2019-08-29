@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "सध्या नाही">
 <!ENTITY firstrun_button_next "पुढे">
 
+<!ENTITY firstrun_signin_button2 "साइन इन करा">
+
 <!ENTITY firstrun_tabqueue_title "दुवे">
 
 <!ENTITY firstrun_readerview_title "लेख">
@@ -875,6 +877,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "ऑफलाइन उपलब्ध">
 <!ENTITY helper_triple_readerview_open_message "वाचक पद्धत घटकांना ऑफलाइन वाचण्यासाठी वाचनखूण लावा.">
 <!ENTITY helper_triple_readerview_open_button "वाचनखुणांमध्ये समाविष्ट करा">
+
+<!ENTITY activity_stream_signin_title "&brandShortName; मध्ये स्वागत आहे">
+<!ENTITY activity_stream_signin_button "साइन इन करा">
+<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
+These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "खास साईट">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
