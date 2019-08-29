@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "n">
 <!ENTITY folderPaneBar.label "Karpeten panelaren tresna-barra">
 <!ENTITY folderPaneBar.accesskey "K">
-<!ENTITY folderModeSelector.label "Karpeta ikuspegiak">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sailkapen irizpidea">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Artxibatu hautatutako mezua">
 <!ENTITY archiveButton.tooltip "Artxibatu hautatutako mezuak">
 <!ENTITY openConversationButton.tooltip "Erakutsi aukeratutako mezuaren elkarrizketa">
+<!ENTITY openMsgConversationButton.tooltip "Erakutsi aukeratutako mezuaren elkarrizketa">
 <!ENTITY nextButton.tooltip "Mugitu irakurri gabeko hurrengo mezura">
 <!ENTITY nextMsgButton.tooltip "Joan hurrengo mezura">
 <!ENTITY previousButton.tooltip "Mugitu irakurri gabeko aurreko mezura">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Etiketatu mezuak">
 <!ENTITY compactButton.tooltip "Kendu ezabatutako mezuak hautatutako karpetatik">
 <!ENTITY appmenuButton1.tooltip "Bistaratu &brandShortName; menua">
-
 <!ENTITY addonsButton.tooltip "Kudeatu zure gehigarriak">
 
 <!-- Toolbar Button Popup -->
@@ -707,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Gorde bilaketa karpeta gisa…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Aukeratu mezuak">
 <!ENTITY threadColumn.label "Haria">
 <!ENTITY fromColumn.label "Nork">
 <!ENTITY recipientColumn.label "Hartzailea">
@@ -730,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Hautatu bistaratzeko zutabeak">
+<!ENTITY selectColumn.tooltip "Txandakatu aukeratutako mezu guztiak">
 <!ENTITY threadColumn2.tooltip "Bistaratu mezuen hariak">
 <!ENTITY fromColumn2.tooltip "Ordenatu bidaltzailearen arabera">
 <!ENTITY recipientColumn2.tooltip "Ordenatu hartzailearen arabera">
