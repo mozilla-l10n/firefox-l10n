@@ -40,6 +40,7 @@ menu-menuitem-preferences =
      *[other] Preferenze
   }
 menu-menuitem-feedback = Comunicaci la tua opinione
+about-logins-menu-menuitem-help = Supporto
 menu-menuitem-faq = Domande più frequenti
 menu-menuitem-android-app = { -lockwise-brand-short-name } per Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } per iPhone e iPad
