@@ -32,7 +32,7 @@ about-config-pref-delete-button =
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
-about-config-pref-add-type-boolean = ლოგიკური ცვლადი
+about-config-pref-add-type-boolean = ლოგიკური
 about-config-pref-add-type-number = რიცხვი
 about-config-pref-add-type-string = ტექსტი
 
