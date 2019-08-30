@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Innstillingar
        *[other] Val
     }
-menu-menuitem-feedback = Send tilbakemelding
-menu-menuitem-faq = Vanlege spørsmål
+about-logins-menu-menuitem-help = HJelp
 menu-menuitem-android-app = { -lockwise-brand-short-name } for Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } for iPhone og iPad
 
@@ -57,6 +56,8 @@ login-list-last-changed-option = Sist endra
 login-list-last-used-option = Sist brukt
 login-list-intro-title = Fann ingen innloggingar
 login-list-intro-description = Når du lagrar eit passord i { -brand-product-name }, vil det visast her.
+about-logins-login-list-empty-search-title = Fann ingen innloggingar
+about-logins-login-list-empty-search-description = Ingen resultat passar med søket ditt.
 login-list-item-title-new-login = Ny innlogging
 login-list-item-subtitle-new-login = Skriv inn innloggingsopplysningar
 login-list-item-subtitle-missing-username = (ikkje noko brukarnamn)
@@ -67,7 +68,7 @@ login-intro-heading = Ser du etter lagra innloggingar? Konfigurer { -sync-brand-
 login-intro-description = Slik kan du få { -brand-product-name }-innloggingane dine hit, om du har lagra dei på ei anna eining:
 login-intro-instruction-fxa = Lag eller logg inn på { -fxaccount-brand-name } på eininga der innloggingane dine er lagra
 login-intro-instruction-fxa-settings = Forsikre deg om at du har markert avkryssingsboksen for innloggingar i { -sync-brand-short-name }-innstillingane
-login-intro-instruction-faq = Gå til { -lockwise-brand-short-name } <a data-l10n-name="faq">ofte stilte spørsmål</a> for meir hjelp
+about-logins-intro-instruction-help = Gå til <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Support</a> for meir hjelp.
 
 ## Login
 
@@ -77,10 +78,11 @@ login-item-delete-button = Slett
 login-item-origin-label = Nettstadadresse
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Start
 login-item-username-label = Brukarnamn
 login-item-username =
     .placeholder = name@example.com
+about-logins-login-item-username =
+    .placeholder = (ikkje noko brukarnamn)
 login-item-copy-username-button-text = Kopier
 login-item-copied-username-button-text = Kopiert!
 login-item-password-label = Passord
