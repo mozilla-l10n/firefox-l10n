@@ -7,7 +7,6 @@ about-config-warning-title = Cca cci su' li liuna!
 about-config-warning-text = Canciari sti mpustazziuna avanzati po èssiri piriculusu pâ stabbilità, pâ sicurizza e pî pristazziuna di sta applicazziuni. Cuntinua sulu si sì sicuru di zoccu fai.
 about-config-warning-checkbox = Ncuètami arrè, pi fauri!
 about-config-warning-button = Accettu lu rìsicu
-about-config-title = about:config
 about-config2-title = Cunfijurazziuna avanzati
 about-config-search-input =
     .placeholder = Cerca
@@ -18,6 +17,18 @@ about-config-pref-edit = Cancia
 about-config-pref-save = Sarba
 about-config-pref-reset = Rimposta
 about-config-pref-delete = Cancella
+about-config-pref-add-button =
+    .title = Agghiunci
+about-config-pref-toggle-button =
+    .title = Attiva
+about-config-pref-edit-button =
+    .title = Cancia
+about-config-pref-save-button =
+    .title = Sarba
+about-config-pref-reset-button =
+    .title = Rimposta
+about-config-pref-delete-button =
+    .title = Cancella
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
