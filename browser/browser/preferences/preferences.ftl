@@ -716,6 +716,7 @@ addressbar-suggestions-settings = Modifica le impostazioni relative ai suggerime
 content-blocking-header = Blocco contenuti
 content-blocking-enhanced-tracking-protection = Protezione antitracciamento avanzata
 content-blocking-section-description = Proteggi la tua privacy durante la navigazione. Blocca contenuti invisibili in grado di tracciare i siti che visiti e creare un profilo con le tue informazioni. Il blocco di alcuni di questi contenuti potrebbe velocizzare il caricamento delle pagine.
+content-blocking-section-top-level-description = Gli elementi traccianti ti seguono online al fine di raccogliere informazioni sui tuoi interessi e le tue abitudini di navigazione. { -brand-short-name } blocca molti di questi traccianti e altri script dannosi.
 content-blocking-learn-more = Ulteriori informazioni
 content-blocking-setting-standard =
     .label = Normale
