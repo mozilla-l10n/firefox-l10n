@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Du er blevet bedt om at stole på en ny certifikatautoritet (CA).">
 <!ENTITY downloadCert.trustSSL "Stol på denne CA til at identificere websteder.">
 <!ENTITY downloadCert.trustEmail "Stol på denne CA til at identificere mailbrugere.">
-<!ENTITY downloadCert.trustObjSign "Stol på denne CA til at identificere programudviklere.">
 <!ENTITY downloadCert.message3 "Før du bruger denne CA til noget som helst, bør du undersøge dens certifikat, dens holdninger og fremgangsmåder (hvis de findes).">
 <!ENTITY downloadCert.viewCert.label "Vis">
 <!ENTITY downloadCert.viewCert.text "Undersøg CA-certifikat">
