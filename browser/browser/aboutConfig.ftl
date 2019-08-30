@@ -7,7 +7,6 @@ about-config-warning-title = Hic sunt leones!
 about-config-warning-text = Ndryshimi i këtyre rregullimeve të thelluara mund të jetë i dëmshëm për qëndrueshmërinë, sigurinë dhe funksionimin e këtij aplikacioni. Do të duhej të vazhdonit vetëm nëse jeni i sigurt për atë çka po bëni.
 about-config-warning-checkbox = Bezdismëni prapë, ju lutem!
 about-config-warning-button = E pranoj rrezikun
-about-config-title = about:config
 about-config2-title = Formësime të Thelluara
 about-config-search-input =
     .placeholder = Kërkoni
@@ -18,6 +17,18 @@ about-config-pref-edit = Përpunojeni
 about-config-pref-save = Ruaje
 about-config-pref-reset = Riktheje te parazgjedhjet
 about-config-pref-delete = Fshije
+about-config-pref-add-button =
+    .title = Shtoje
+about-config-pref-toggle-button =
+    .title = Shfaqe/Fshihe
+about-config-pref-edit-button =
+    .title = Përpunojeni
+about-config-pref-save-button =
+    .title = Ruaje
+about-config-pref-reset-button =
+    .title = Riktheje te parazgjedhjet
+about-config-pref-delete-button =
+    .title = Fshije
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
