@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Hantera användningen av DRM-programvara">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Öppna MIDI-panelen">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Du har beviljat denna webbplats ytterligare behörigheter.">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Du har blockerat din kamera för denna webbsida.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Du har blockerat din mikrofon för denna webbsida.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Du har blockerat denna webbsida från att få dela din skärm">
@@ -813,10 +815,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Anslutning">
 <!ENTITY identity.connectionSecure "Säker anslutning">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Anslutningssäkerhet">
-
 <!ENTITY identity.connectionSecure2 "Anslutningen är säker">
 <!ENTITY identity.connectionNotSecure "Anslutningen är inte säker">
 <!ENTITY identity.connectionNotSecureSecurityView "Du är inte säkert ansluten till den här webbplatsen.">
@@ -866,6 +864,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Rättigheter angivna">
+
+<!ENTITY identity.permissions3 "Behörigheter">
 <!ENTITY identity.permissionsEmpty "Du har inte beviljat denna webbplats några särskilda rättigheter.">
 <!ENTITY identity.permissionsReloadHint "Du kan behöva ladda om sidan för att ändringarna ska verkställas.">
 <!ENTITY identity.permissionsPreferences.tooltip "Öppna behörighetsinställningar">
@@ -879,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "Mer information om Förbättrat spårningsskydd">
 <!ENTITY protections.settings.label "Skyddsinställningar">
 <!ENTITY protections.report.label "Visa fullständig rapport">
+<!ENTITY protections.showreport.label "Visa rapport">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->

@@ -723,6 +723,7 @@ addressbar-suggestions-settings = Ändra inställningar för förslag från sök
 content-blocking-header = Innehållsblockering
 content-blocking-enhanced-tracking-protection = Förbättrat spårningsskydd
 content-blocking-section-description = Skydda din integritet medan du surfar. Blockera osynligt innehåll som spårar de webbplatser du besöker och profilerar dig. Att blockera något av detta innehåll kan göra att sidor laddas snabbare.
+content-blocking-section-top-level-description = Trackers följer dig runt online för att samla in information om dina surfvanor och intressen. { -brand-short-name } blockerar många av dessa trackers och andra skadliga skript.
 content-blocking-learn-more = Läs mer
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".

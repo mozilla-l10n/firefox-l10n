@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Lär dig mer
 accessibility-text-label-header = Textetiketter och namn
+accessibility-keyboard-header = Tangentbord
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -41,3 +42,13 @@ accessibility-text-label-issue-interactive = Interaktiva element måste märkas 
 accessibility-text-label-issue-optgroup-label = Använd attributet <code>label</code> för att märka elementet <span>optgroup</span>. <a>Läs mer</a>
 accessibility-text-label-issue-optgroup-label2 = Använd attributet <code>label</code> för att markera en <span>optgrupp</span>. <a>Läs mer</a>
 accessibility-text-label-issue-toolbar = Verktygsfält måste namnges när det finns mer än ett verktygsfält. <a>Läs mer</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
+accessibility-keyboard-issue-semantics = Fokuserbara element bör ha interaktiv semantik. <a>Läs mer</a>
+accessibility-keyboard-issue-tabindex = Undvik att använda attribut <code>tabindex</code> större än noll. <a>Läs mer</a>
+accessibility-keyboard-issue-action = Interaktiva element måste kunna aktiveras med ett tangentbord. <a>Läs mer</a>
+accessibility-keyboard-issue-focusable = Interaktiva element måste vara fokuserbara. <a>Läs mer</a>
+accessibility-keyboard-issue-focus-visible = Fokuserbara element kan sakna fokus-styling. <a>Läs mer</a>

@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Inställningar
        *[other] Inställningar
     }
-menu-menuitem-feedback = Skicka återkoppling
-menu-menuitem-faq = Vanliga frågor
+about-logins-menu-menuitem-help = Hjälp
 menu-menuitem-android-app = { -lockwise-brand-short-name } för Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } för iPhone och iPad
 
@@ -57,6 +56,8 @@ login-list-last-changed-option = Senast ändrad
 login-list-last-used-option = Senast använd
 login-list-intro-title = Inga inloggningar hittades
 login-list-intro-description = När du sparar ett lösenord i { -brand-product-name }, kommer det att visas här.
+about-logins-login-list-empty-search-title = Inga inloggningar hittades
+about-logins-login-list-empty-search-description = Det finns inga resultat som matchar din sökning.
 login-list-item-title-new-login = Ny inloggning
 login-list-item-subtitle-new-login = Ange dina inloggningsuppgifter
 login-list-item-subtitle-missing-username = (inget användarnamn)
@@ -67,7 +68,7 @@ login-intro-heading = Letar du efter dina sparade inloggningar? Konfigurera{ -sy
 login-intro-description = Om du sparat dina inloggningar i { -brand-product-name } på en annan enhet, så här får du dem hit:
 login-intro-instruction-fxa = Skapa eller logga in på ditt { -fxaccount-brand-name } på enheten där dina inloggningar sparades
 login-intro-instruction-fxa-settings = Se till att du har markerat kryssrutan för inloggningar i { -sync-brand-short-name } inställningar
-login-intro-instruction-faq = Besök { -lockwise-brand-short-name } <a data-l10n-name="faq">vanliga frågor</a> för mer hjälp
+about-logins-intro-instruction-help = Besök <a data-l10n-name="help-link">{ -lockwise-brand-short-name } support</a> för mer hjälp
 
 ## Login
 
@@ -77,10 +78,11 @@ login-item-delete-button = Ta bort
 login-item-origin-label = Webbadress
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Starta
 login-item-username-label = Användarnamn
 login-item-username =
     .placeholder = name@example.com
+about-logins-login-item-username =
+    .placeholder = (Inget användarnamn)
 login-item-copy-username-button-text = Kopiera
 login-item-copied-username-button-text = Kopierad!
 login-item-password-label = Lösenord
