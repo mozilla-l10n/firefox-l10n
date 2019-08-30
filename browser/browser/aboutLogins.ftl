@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Dewisiadau
        *[other] Dewisiadau
     }
-menu-menuitem-feedback = Anfon Adborth
-menu-menuitem-faq = Cwestiynau Cyffredin
+about-logins-menu-menuitem-help = Cymorth
 menu-menuitem-android-app = { -lockwise-brand-short-name } ar gyfer Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } ar gyfer iPhone ac iPad
 
@@ -61,6 +60,8 @@ login-list-last-changed-option = Newidiwyd Diwethaf
 login-list-last-used-option = Defnyddiwyd Diwethaf
 login-list-intro-title = Heb ganfod mewngofnodion
 login-list-intro-description = Pan fyddwch yn cadw cyfrinair yn { -brand-product-name }, bydd yn ymddangos yma.
+about-logins-login-list-empty-search-title = Heb ganfod mewngofnodion
+about-logins-login-list-empty-search-description = Nid oes unrhyw ganlyniadau sy'n cyfateb i'ch chwiliad.
 login-list-item-title-new-login = Mewngofnod Newydd
 login-list-item-subtitle-new-login = Rhowch eich manylion mewngofnodi
 login-list-item-subtitle-missing-username = (dim enw defnyddwyr)
@@ -71,7 +72,7 @@ login-intro-heading = Chwilio am eich mewngofnodi wedi'u cadw? Gosodwch { -sync-
 login-intro-description = Os gwnaethoch gadw eich mewngofnodion i { -brand-product-name } ar ddyfais wahanol, dyma sut i'w cael yma:
 login-intro-instruction-fxa = Creu neu fewngofnodi i'ch { -fxaccount-brand-name } ar y ddyfais lle mae'ch mewngofnodion yn cael eu cadw
 login-intro-instruction-fxa-settings = Sicrhewch eich bod wedi dewis y blwch gwirio Mewngofnodion yng Ngosodiadau { -sync-brand-short-name }
-login-intro-instruction-faq = Ewch i { -lockwise-brand-short-name } <a data-l10n-name="faq">cwestiynau cyffredin</a> i gael mwy o gymorth
+about-logins-intro-instruction-help = Ewch i <a data-l10n-name="help-link"> { -lockwise-brand-short-name }Cefnogaeth</a> i gael rhagor o gymorth
 
 ## Login
 
@@ -81,10 +82,11 @@ login-item-delete-button = Dileu
 login-item-origin-label = Cyfeiriad Gwefan
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Cychwyn
 login-item-username-label = Enw Defnyddiwr
 login-item-username =
     .placeholder = name@example.com
+about-logins-login-item-username =
+    .placeholder = (dim enw defnyddwyr)
 login-item-copy-username-button-text = Copïo
 login-item-copied-username-button-text = Copïwyd
 login-item-password-label = Cyfrinair
