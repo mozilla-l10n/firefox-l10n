@@ -80,6 +80,17 @@ cfr-whatsnew-button =
     .label = নতুন কি আছে
     .tooltiptext = নতুন যা আছে
 cfr-whatsnew-panel-header = নতুন কি আছে
+cfr-whatsnew-release-notes-link-text = রিলিজ নোট পড়ুন
+cfr-whatsnew-fx70-title = { -brand-short-name } এখন আপনার গোপনীয়তার জন্য আরও কঠোরভাবে লড়াই করে
+cfr-whatsnew-tracking-protect-link-text = আপনার রিপোর্ট দেখুন
+cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } হতে
+cfr-whatsnew-tracking-blocked-link-text = রিপোর্ট দেখুন
+cfr-whatsnew-lockwise-backup-title = আপনার পাসওয়ার্ড ব্যাকআপ করুন
+cfr-whatsnew-lockwise-backup-body = সুরক্ষিত পাসওয়ার্ড তৈরি করুন এখন আপনি সাইন ইন করে যে কোনও জায়গায় ব্যবহার করতে পারবেন।
+cfr-whatsnew-lockwise-backup-link-text = ব্যাকআপ চালু করুন
+cfr-whatsnew-lockwise-take-title = আপনার সাথে আপনার পাসওয়ার্ড নিন
+cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } মোবাইল অ্যাপ্লিকেশনটি যেকোন জায়গা থেকে আপনাকে সুরক্ষিতভাবে আপনার ব্যাকআপ করা পাসওয়ার্ডকে এক্সেস করতে দেয়।
+cfr-whatsnew-lockwise-take-link-text = অ্যাপটি ডাউনলোড করুন
 
 ## Bookmark Sync
 
