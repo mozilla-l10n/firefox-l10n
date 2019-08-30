@@ -63,6 +63,18 @@ onboarding-ghostery-text = Прегледајте брже, паметније �
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Направите { -fxaccount-brand-name } налог и синхронизујте ваше забелешке, лозинке и отворене језичке где год да користите { -brand-short-name }.
+onboarding-data-sync-title = Понесите своја подешавања са собом
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Синхронизујте своје забелешке, лозинке и остало свуда где користите { -brand-product-name }.
+onboarding-data-sync-button2 = Пријавите се у { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Будите у приправности од повреде података
+onboarding-firefox-monitor-text = { -monitor-brand-name } надгледа да ли се ваша адреса е-поште појавила у повреди података и упозорава вас ако се појави у новој повреди.
+onboarding-firefox-monitor-button = Пријавите се за упозорења
+onboarding-mobile-phone-title = Преузмите { -brand-product-name } на Ваш телефон
+onboarding-mobile-phone-text = Преузмите { -brand-product-name } за iOS или Андроид и синхронизујте податке између уређаја.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Преузмите мобилни прегледач
 
 ## Message strings belonging to the Return to AMO flow
 
