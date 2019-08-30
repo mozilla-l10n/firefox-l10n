@@ -7,7 +7,6 @@ about-config-warning-title = Här finns drakar!
 about-config-warning-text = Att ändra dessa avancerade inställningar kan skada programmets stabilitet, säkerhet och prestanda. Du bör endast fortsätta om du är säker på vad du gör.
 about-config-warning-checkbox = Irritera mig igen, tack!
 about-config-warning-button = Jag accepterar risken
-about-config-title = about:config
 about-config2-title = Avancerade konfigurationer
 about-config-search-input =
     .placeholder = Sök
@@ -18,6 +17,16 @@ about-config-pref-edit = Redigera
 about-config-pref-save = Spara
 about-config-pref-reset = Återställ
 about-config-pref-delete = Ta bort
+about-config-pref-add-button =
+    .title = Lägg till
+about-config-pref-edit-button =
+    .title = Redigera
+about-config-pref-save-button =
+    .title = Spara
+about-config-pref-reset-button =
+    .title = Återställ
+about-config-pref-delete-button =
+    .title = Ta bort
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
