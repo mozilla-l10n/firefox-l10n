@@ -212,7 +212,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
-files-and-applications-title = 파일과 애플리케이션
+files-and-applications-title = 파일 및 응용 프로그램
 download-header = 다운로드
 download-save-to =
     .label = 저장 위치
@@ -231,10 +231,10 @@ download-choose-folder =
 download-always-ask-where =
     .label = 파일 저장 위치 항상 묻기
     .accesskey = A
-applications-header = 애플리케이션
+applications-header = 응용 프로그램
 applications-description = { -brand-short-name } 가 다운로드 받은 파일이나 브라우저에서 사용하고 있는 응용프로그램에 대해 어떻게 처리할 지 선택하십시오.
 applications-filter =
-    .placeholder = 파일 타입 혹은 애플리케이션 검색
+    .placeholder = 파일 형식 또는 응용 프로그램 검색
 applications-type-column =
     .label = 파일 형식
     .accesskey = T
@@ -248,7 +248,7 @@ play-drm-content =
 play-drm-content-learn-more = 더 알아보기
 update-application-title = { -brand-short-name } 업데이트
 update-application-description = { -brand-short-name }가 최상의 성능, 안정성, 보안을 유지할 수 있도록 최신 버전으로 유지합니다.
-update-application-version = 버전 { $version } <a data-l10n-name="learn-more">새로운 기능</a>
+update-application-version = 버전 { $version } <a data-l10n-name="learn-more">새 기능</a>
 update-history =
     .label = 업데이트 기록 보기…
     .accesskey = p
@@ -327,6 +327,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = 타이핑을 시작하면 검색
     .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = 화면 속 화면 비디오 컨트롤 사용
+    .accesskey = E
+browsing-picture-in-picture-learn-more = 더 알아보기
 browsing-cfr-recommendations =
     .label = 탐색시 확장 기능 추천
     .accesskey = R
@@ -703,6 +707,7 @@ addressbar-suggestions-settings = 검색 엔진 추천 설정 변경
 content-blocking-header = 콘텐츠 차단
 content-blocking-enhanced-tracking-protection = 향상된 추적 방지 기능
 content-blocking-section-description = 탐색하는 동안 개인 정보를 보호하십시오. 사용자가 방문하는 사이트를 추적하고 개인을 식별하는 보이지 않는 콘텐츠를 차단합니다. 이 콘텐츠 중 일부를 차단하면 페이지가 더 빨리 로드 될 수 있습니다.
+content-blocking-section-top-level-description = 추적기는 온라인에서 사용자를 따라다니며 브라우징 습관과 관심사에 대한 정보를 수집합니다. { -brand-short-name }는 이러한 많은 추적기 및 기타 악성 스크립트를 차단합니다.
 content-blocking-learn-more = 자세히 보기
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".

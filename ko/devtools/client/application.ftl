@@ -69,5 +69,19 @@ serviceworker-empty-suggestions-debugger = 서비스 워커 등록과정을 살�
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = 다른 도메인의 서비스 워커를 조사해 보세요. <a>about:debugging 열기</a>
-# Text displayed when no manifest was found for the current page.
-manifest-empty-intro = 검사할 매니페스트가 없습니다.
+# Header for the view of Manifest displayed in the application panel for the current page.
+manifest-view-header = 앱 매니페스트
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = 오류 및 경고
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = 프레젠테이션
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = 아이콘
+# Text displayed while we are loading the manifest file
+manifest-loading = 매니페스트 로딩 중…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = 매니페스트가 로드되었습니다.
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = 매니페스트를 로드하는 동안 오류가 발생했습니다:
+# Text displayed when the page has no manifest available
+manifest-non-existing = 검사할 매니페스트가 없습니다.

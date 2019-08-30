@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] 설정
        *[other] 설정
     }
-menu-menuitem-feedback = 의견 보내기
-menu-menuitem-faq = 자주 묻는 질문
+about-logins-menu-menuitem-help = 도움말
 menu-menuitem-android-app = Android 용 { -lockwise-brand-short-name }
 menu-menuitem-iphone-app = iPhone과 iPad 용 { -lockwise-brand-short-name }
 
@@ -56,6 +55,8 @@ login-list-last-changed-option = 마지막 수정
 login-list-last-used-option = 마지막 사용
 login-list-intro-title = 로그인을 찾을 수 없음
 login-list-intro-description = { -brand-product-name }에 비밀번호를 저장하면, 여기에 표시됩니다.
+about-logins-login-list-empty-search-title = 로그인을 찾을 수 없음
+about-logins-login-list-empty-search-description = 검색어와 일치하는 결과가 없습니다.
 login-list-item-title-new-login = 새 로그인
 login-list-item-subtitle-new-login = 로그인 자격 증명을 입력하십시오
 login-list-item-subtitle-missing-username = (사용자 이름 없음)
@@ -66,7 +67,7 @@ login-intro-heading = 저장된 로그인을 찾으십니까? { -sync-brand-shor
 login-intro-description = 다른 기기에 { -brand-product-name }의 로그인을 저장한 경우, 다음 방법을 참조하시기 바랍니다:
 login-intro-instruction-fxa = 로그인이 저장된 기기에서 { -fxaccount-brand-name }을 만들거나 로그인하십시오
 login-intro-instruction-fxa-settings = { -sync-brand-short-name } 설정에서 로그인 확인란을 선택했는지 확인하십시오
-login-intro-instruction-faq = 자세한 내용은 { -lockwise-brand-short-name } <a data-l10n-name="faq">자주 묻는 질문</a>을 참조하시기 바랍니다
+about-logins-intro-instruction-help = 더 많은 도움이 필요하면 <a data-l10n-name="help-link">{ -lockwise-brand-short-name } 지원</a>을 방문하십시오
 
 ## Login
 
@@ -76,10 +77,11 @@ login-item-delete-button = 삭제
 login-item-origin-label = 웹 사이트 주소
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = 실행
 login-item-username-label = 사용자 이름
 login-item-username =
     .placeholder = name@example.com
+about-logins-login-item-username =
+    .placeholder = (사용자 이름 없음)
 login-item-copy-username-button-text = 복사
 login-item-copied-username-button-text = 복사됨!
 login-item-password-label = 비밀번호

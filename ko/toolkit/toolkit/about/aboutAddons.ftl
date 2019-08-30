@@ -98,9 +98,11 @@ detail-private-browsing-description2 = 허용되면, 확장 기능은 사생활 
 # cannot be overridden by the user.
 detail-private-disallowed-label = 사생활 보호 창에서 허용안됨
 detail-private-disallowed-description = 이 확장기능은 사생활 보호 모드에서는 실행되지 않습니다. <label data-l10n-name="detail-private-browsing-learn-more">더 알아보기</label>
+detail-private-disallowed-description2 = 이 확장기능은 사생활 보호 모드에서는 실행되지 않습니다. <a data-l10n-name="learn-more">더 알아보기</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = 사생활 보호 창에 대한 접근 필요
 detail-private-required-description = 이 확장기능은 사생활 보호모드에서 온라인 활동에 접근 할 수 있습니다. <label data-l10n-name="detail-private-browsing-learn-more">더 알아보기</label>
+detail-private-required-description2 = 이 확장기능은 사생활 보호 모드에서 온라인 활동에 접근 할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
 detail-private-browsing-on =
     .label = 허용
     .tooltiptext = 사생활 보호 모드에서 사용
@@ -290,6 +292,10 @@ install-theme-button = 테마 설치하기
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = 관리
 find-more-addons = 부가기능 더 찾기
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = 추가 옵션
 
 ## Add-on actions
 
@@ -359,6 +365,11 @@ install-update-button = 업데이트
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = 사생활 보호 창에서 허용됨
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = 사생활 보호 창에서 허용됨
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = 허용된 경우, 확장기능은 사생활 보호 브라우징 중에 온라인 활동에 접근 할 수 있습니다. <a data-l10n-name="learn-more">더 알아보기</a>
 addon-detail-private-browsing-allow = 허용
 addon-detail-private-browsing-disallow = 허용하지 않음
@@ -367,6 +378,11 @@ addon-detail-private-browsing-disallow = 허용하지 않음
 addon-badge-recommended =
     .title = 추천
     .alt = 추천
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name }는 보안 및 성능 표준을 충족하는 확장기능만 권장합니다
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = 업데이트 가능 항목
 recent-updates-heading = 최근 업데이트
 release-notes-loading = 읽는 중…

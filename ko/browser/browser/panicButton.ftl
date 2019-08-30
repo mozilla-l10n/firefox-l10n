@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-panic-button-open-new-window = 빈 새로운 창 열기
+panic-button-open-new-window = 빈 새 창 열기
 panic-button-undo-warning = 이 작업은 취소할 수 없습니다.
 panic-button-forget-button =
     .label = 삭제!
