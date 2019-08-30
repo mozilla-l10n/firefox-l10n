@@ -25,6 +25,8 @@ about-config-pref-save-button =
     .title = I-save
 about-config-pref-reset-button =
     .title = I-reset
+about-config-pref-delete-button =
+    .title = Burahin
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
