@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Teraz nie">
 <!ENTITY firstrun_button_next "Ďalej">
 
+<!ENTITY firstrun_signin_button2 "Prihlásiť sa">
+
 <!ENTITY firstrun_tabqueue_title "Odkazy">
 
 <!ENTITY firstrun_readerview_title "Články">
@@ -595,7 +597,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Umiestnenie">
 <!ENTITY bookmark_edit_keyword "Kľúčové slovo">
 <!ENTITY bookmark_select_folder "Vybrať priečinok">
-
 <!ENTITY bookmark_edit_undo "Späť">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -875,6 +876,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Dostupné offline">
 <!ENTITY helper_triple_readerview_open_message "Založte si položky v zobrazení Čítačka pre ich čítanie v režime offline.">
 <!ENTITY helper_triple_readerview_open_button "Pridať medzi záložky">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "Víta vás &brandShortName;">
+<!ENTITY activity_stream_signin_description "S účtom Firefox môžete synchronizovať záložky, históriu prehliadania a omnoho viac.">
+<!ENTITY activity_stream_signin_button "Prihlásiť sa">
 
 <!ENTITY activity_stream_topsites "Top stránky">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
