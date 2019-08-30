@@ -7,7 +7,6 @@ about-config-warning-title = Bu yerda ajdarholar bor!
 about-config-warning-text = Qoʻshimcha moslamalarni oʻzgartirsangiz, ushbu ilova dasturning barqarorligi, xavfsizligi  va ishlashiga zarar yetkazishi mumkin. Toʻliq ishionchingiz komil boʻlsa, davom ettiring.
 about-config-warning-checkbox = Bu haqida menga keyingi safar eslatilsin!
 about-config-warning-button = Xavfda qolishga roziman
-about-config-title = about:config
 about-config2-title = Qoʻshimcha sozlamalar
 about-config-search-input =
     .placeholder = Qidirish
@@ -18,6 +17,18 @@ about-config-pref-edit = Tahrirlash
 about-config-pref-save = Saqlash
 about-config-pref-reset = Tiklash
 about-config-pref-delete = Oʻchirish
+about-config-pref-add-button =
+    .title = Qoʻshish
+about-config-pref-toggle-button =
+    .title = Almashish
+about-config-pref-edit-button =
+    .title = Tahrirlash
+about-config-pref-save-button =
+    .title = Saqlash
+about-config-pref-reset-button =
+    .title = Tiklash
+about-config-pref-delete-button =
+    .title = Oʻchirish
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
