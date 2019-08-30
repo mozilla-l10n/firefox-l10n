@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Керувати використанням програмного забезпечення DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Відкрити MIDI панель">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ви надали цьому веб-сайту додаткові дозволи.">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ви заблокували камеру для цього веб-сайту.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ви заблокували мікрофон для цього веб-сайту.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ви заблокували доступ до екрану для цього веб-сайту.">
@@ -813,10 +815,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "З'єднання">
 <!ENTITY identity.connectionSecure "Захищене з'єднання">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Безпека з'єднання">
-
 <!ENTITY identity.connectionSecure2 "З'єднання безпечне">
 <!ENTITY identity.connectionNotSecure "Незахищене з'єднання">
 <!ENTITY identity.connectionNotSecureSecurityView "Ваше з'єднання з цим сайтом незахищене.">
@@ -866,6 +864,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Дозволи встановлено">
+
+<!ENTITY identity.permissions3 "Дозволи">
 <!ENTITY identity.permissionsEmpty "Ви не надали цьому сайту жодних спеціальних дозволів.">
 <!ENTITY identity.permissionsReloadHint "Для застосування змін, можливо, доведеться перезавантажити сторінку.">
 <!ENTITY identity.permissionsPreferences.tooltip "Відкрити налаштування дозволів">
@@ -879,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "Більше інформації про розширений захист від стеження">
 <!ENTITY protections.settings.label "Налаштування захисту">
 <!ENTITY protections.report.label "Показати повний звіт">
+<!ENTITY protections.showreport.label "Показати звіт">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -898,12 +899,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Сайт все одно не працює належним чином після вимкнення захисту?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Надіслати звіт">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Заблоковано">
 <!ENTITY protections.notBlocking2.label "Дозволено">
+<!ENTITY protections.notFound.label "Не виявлено">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Чому?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Блокування їх може пошкодити елементи деяких веб-сайтів. Деякі кнопки, поля заповнення форм і входів можуть не працювати без стеження.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Вимкнення захисту дозволить всі елементи стеження на цьому сайті. Це також може покращити деякі функції веб-сайту.">
-<!ENTITY protections.notFound.label "Не виявлено">
 <!ENTITY protections.socialMediaTrackers.label "Стеження соціальних мереж">
 <!ENTITY protections.crossSiteTrackingCookies.label "Куки стеження між сайтами">
 <!ENTITY protections.trackingContent.label "Вміст стеження">
@@ -961,7 +971,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "К">
 
 <!ENTITY contentBlocking.trackersView.label "Стеження">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label 'Щоб заблокувати все стеження, встановіть значення блокування вмісту "Суворе".'>
 
 <!ENTITY contentBlocking.cookies.label "Куки">

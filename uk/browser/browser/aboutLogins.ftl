@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Налаштування
        *[other] Налаштування
     }
-menu-menuitem-feedback = Надіслати відгук
-menu-menuitem-faq = Часті питання
+about-logins-menu-menuitem-help = Допомога
 menu-menuitem-android-app = { -lockwise-brand-short-name } для Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } для iPhone та iPad
 
@@ -58,6 +57,8 @@ login-list-last-changed-option = Змінено
 login-list-last-used-option = Використано
 login-list-intro-title = Паролів не знайдено
 login-list-intro-description = Коли ви зберігаєте пароль в { -brand-product-name }, він з'являтиметься тут.
+about-logins-login-list-empty-search-title = Паролів не знайдено
+about-logins-login-list-empty-search-description = Немає результатів, які відповідають вашому пошуку.
 login-list-item-title-new-login = Новий запис
 login-list-item-subtitle-new-login = Введіть облікові дані
 login-list-item-subtitle-missing-username = (без імені користувача)
@@ -68,7 +69,7 @@ login-intro-heading = Шукаєте свої збережені паролі? �
 login-intro-description = Якщо ви зберегли паролі в { -brand-product-name } на іншому пристрої, ось як отримати їх тут:
 login-intro-instruction-fxa = Зареєструйтеся чи увійдіть до свого { -fxaccount-brand-name(case: "gen") } на пристрої, де збережено ваші паролі
 login-intro-instruction-fxa-settings = Переконайтеся, що встановлено прапорець на Паролі в Налаштуваннях { -sync-brand-short-name(case: "dat") }
-login-intro-instruction-faq = Перегляньте <a data-l10n-name="faq">часті запитання</a> стосовно { -lockwise-brand-short-name } для отримання докладнішої інформації
+about-logins-intro-instruction-help = Відвідайте <a data-l10n-name="help-link">Підтримку { -lockwise-brand-short-name }</a> для отримання допомоги
 
 ## Login
 
@@ -78,10 +79,11 @@ login-item-delete-button = Видалити
 login-item-origin-label = Адреса веб-сайту
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Запустити
 login-item-username-label = Ім'я користувача
 login-item-username =
     .placeholder = name@example.com
+about-logins-login-item-username =
+    .placeholder = (без імені користувача)
 login-item-copy-username-button-text = Копіювати
 login-item-copied-username-button-text = Скопійовано!
 login-item-password-label = Пароль
