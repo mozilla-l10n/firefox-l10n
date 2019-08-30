@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Докладніше
 accessibility-text-label-header = Текстові мітки та імена
+accessibility-keyboard-header = Клавіатура
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -41,3 +42,13 @@ accessibility-text-label-issue-interactive = Інтерактивні елеме
 accessibility-text-label-issue-optgroup-label = Використовуйте атрибут <code>label</code> для позначення елементів <span>optgroup</span>. <a>Докладніше</a>
 accessibility-text-label-issue-optgroup-label2 = Використовуйте атрибут <code>label</code>, щоб задати альтернативний текст для елементів <span>optgroup</span>. <a>Докладніше</a>
 accessibility-text-label-issue-toolbar = Панелі інструментів повинні бути позначені, якщо існує більше однієї панелі інструментів. <a>Докладніше</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
+accessibility-keyboard-issue-semantics = Фокусовані елементи повинні мати інтерактивну семантику. <a>Докладніше</a>
+accessibility-keyboard-issue-tabindex = Уникайте значення атрибуту <code>tabindex</code> більше нуля. <a>Докладніше</a>
+accessibility-keyboard-issue-action = Інтерактивні елементи повинні мати можливість активуватися клавіатурою. <a>Докладніше</a>
+accessibility-keyboard-issue-focusable = Інтерактивні елементи повинні бути фокусовані. <a>Докладніше</a>
+accessibility-keyboard-issue-focus-visible = У фокусованому елементі може бути відсутній styling фокусу. <a>Докладніше</a>
