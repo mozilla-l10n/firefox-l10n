@@ -707,6 +707,7 @@ addressbar-suggestions-settings = 修改搜尋建議偏好設定
 content-blocking-header = 內容封鎖
 content-blocking-enhanced-tracking-protection = 加強型追蹤保護
 content-blocking-section-description = 在上網時保護您的隱私。封鎖會在不同網站間追蹤您上網，並對使用者進行分類的隱藏內容。封鎖這類內容也可能讓網頁更快載入。
+content-blocking-section-top-level-description = 追蹤器會在網路上跟蹤您，收集您的興趣與喜好。{ -brand-short-name } 會封鎖許多追蹤器與其他有害指令碼。
 content-blocking-learn-more = 了解更多
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
