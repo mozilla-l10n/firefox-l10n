@@ -6,7 +6,6 @@
 about-config-warning-title = ¡Kunchee ña yee!
 about-config-warning-checkbox = ¡Katu'un nu, saa ña mani!
 about-config-warning-button = Vaa
-about-config-title = about:config
 about-config-search-input =
     .placeholder = Nduku
 about-config-show-all = Snaa ntia
@@ -16,6 +15,18 @@ about-config-pref-edit = Sama
 about-config-pref-save = Chika vaà
 about-config-pref-reset = Ndakitsaà
 about-config-pref-delete = Stoò
+about-config-pref-add-button =
+    .title = Chikaa
+about-config-pref-toggle-button =
+    .title = Sama
+about-config-pref-edit-button =
+    .title = Sama
+about-config-pref-save-button =
+    .title = Chika vaà
+about-config-pref-reset-button =
+    .title = Ndakitsaà
+about-config-pref-delete-button =
+    .title = Stoò
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
