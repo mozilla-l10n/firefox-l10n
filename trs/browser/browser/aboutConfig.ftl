@@ -17,6 +17,18 @@ about-config-pref-edit = Nagi'iô'
 about-config-pref-save = Na'nïnj sà'
 about-config-pref-reset = Nagi'iaj ñû
 about-config-pref-delete = Dure'
+about-config-pref-add-button =
+    .title = Nutà'
+about-config-pref-toggle-button =
+    .title = Toggle
+about-config-pref-edit-button =
+    .title = Nagi'iô'
+about-config-pref-save-button =
+    .title = Na'nïnj sà'
+about-config-pref-reset-button =
+    .title = Nagi'iaj ñû
+about-config-pref-delete-button =
+    .title = Dure'
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
