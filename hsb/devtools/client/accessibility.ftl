@@ -48,4 +48,6 @@ accessibility-text-label-issue-toolbar = Symbolowe lajsty dyrbja so woznamjenić
 ## issue.
 
 accessibility-keyboard-issue-semantics = Fokusujomne elementy měli interaktiwnu semantiku měć. <a>Dalše informacije</a>
+accessibility-keyboard-issue-tabindex = Njewužiwajće atribut <code>tabindex</code> z hódnotu, kotraž je wjetša hač nul. <a>Dalše informacije</a>
+accessibility-keyboard-issue-action = Interaktiwne elementy dyrbja so z tastaturu aktiwizować dać. <a>Dalše informacije</a>
 accessibility-keyboard-issue-focusable = Interaktiwne elementy dyrbja so fokusować dać. <a>Dalše informacije</a>
