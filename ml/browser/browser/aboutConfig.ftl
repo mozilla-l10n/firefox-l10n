@@ -7,7 +7,6 @@ about-config-warning-title = ജാഗ്രതൈ!!
 about-config-warning-text = ഈ സവിശേഷക്രമീകരണങ്ങൾ മാറ്റുന്നത് ഈ ആപ്ലിക്കേഷന്റെ സ്ഥിരത, സുരക്ഷ, പ്രകടനം എന്നിവയ്ക്ക് ദോഷകരമായേക്കും. ചെയ്യുന്നതെന്തെന്ന് ഉറപ്പുണ്ടെങ്കിൽ മാത്രം തുടരുക.
 about-config-warning-checkbox = ദയവായി ഇതേ കാര്യം വീണ്ടും ഓർമ്മിപ്പിക്കുക!
 about-config-warning-button = ഞാൻ അപകടസാദ്ധ്യത മനസ്സിലാക്കുന്നു
-about-config-title = about: config
 about-config2-title = വിപുലമായ കോൺഫിഗറേഷനുകൾ
 about-config-search-input =
     .placeholder = തെരയുക
@@ -18,6 +17,18 @@ about-config-pref-edit = തിരുത്തുക
 about-config-pref-save = സംരക്ഷിക്കുക
 about-config-pref-reset = പുനഃക്രമീകരിക്കുക
 about-config-pref-delete = ഇല്ലാതാക്കുക
+about-config-pref-add-button =
+    .title = ചേർക്കുക
+about-config-pref-toggle-button =
+    .title = ടോഗിൾ ചെയ്യുക
+about-config-pref-edit-button =
+    .title = തിരുത്തുക
+about-config-pref-save-button =
+    .title = സംരക്ഷിക്കുക
+about-config-pref-reset-button =
+    .title = പുനഃക്രമീകരിക്കുക
+about-config-pref-delete-button =
+    .title = ഇല്ലാതാക്കുക
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
