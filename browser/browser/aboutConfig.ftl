@@ -7,7 +7,6 @@ about-config-warning-title = ფრთხილად, ეს იარაღი
 about-config-warning-text = ამ დამატებითი პარამეტრების ცვლილებამ შესაძლოა პროგრამის მდგრადობა, უსაფრთხოება და წარმადობა დააზიანოს. მხოლოდ იმ შემთხვევაში განაგრძეთ, თუ დარწმუნებული ხართ რომ იცით, რასაც აკეთებთ.
 about-config-warning-checkbox = გაფრთხილება, ყოველ ჯერზე!
 about-config-warning-button = ვაცნობიერებ საფრთხეებს!
-about-config-title = about:config
 about-config2-title = დამატებით გამართვა
 about-config-search-input =
     .placeholder = ძიება
@@ -18,6 +17,18 @@ about-config-pref-edit = ჩასწორება
 about-config-pref-save = შენახვა
 about-config-pref-reset = აღდგენა
 about-config-pref-delete = წაშლა
+about-config-pref-add-button =
+    .title = დამატება
+about-config-pref-toggle-button =
+    .title = გადართვა
+about-config-pref-edit-button =
+    .title = ჩასწორება
+about-config-pref-save-button =
+    .title = შენახვა
+about-config-pref-reset-button =
+    .title = აღდგენა
+about-config-pref-delete-button =
+    .title = წაშლა
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
