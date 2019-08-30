@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Dim nawr">
 <!ENTITY firstrun_button_next "Nesaf">
 
+<!ENTITY firstrun_signin_button2 "Mewngofnodi">
+
 <!ENTITY firstrun_tabqueue_title "Dolenni">
 
 <!ENTITY firstrun_readerview_title "Erhyglau">
@@ -595,7 +597,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Lleoliad">
 <!ENTITY bookmark_edit_keyword "Allweddair">
 <!ENTITY bookmark_select_folder "Dewis ffolder">
-
 <!ENTITY bookmark_edit_undo "Dadwneud">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -875,6 +876,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Ar gael All-lein">
 <!ENTITY helper_triple_readerview_open_message "Gosod Nod Tudalen i eitemau Golwg Darllen i\&apos;w darllen all-lein.">
 <!ENTITY helper_triple_readerview_open_button "Ychwanegu at y Nodau Tudalen">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "Croeso i &brandShortName;">
+<!ENTITY activity_stream_signin_description "Cychwynnwch gydweddu nodau tudalen, cyfrineiriau, a rhagor gyda\&apos;ch cyfrif Firefox.">
+<!ENTITY activity_stream_signin_button "Mewngofnodi">
 
 <!ENTITY activity_stream_topsites "Hoff Wefannau">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
