@@ -4,7 +4,9 @@
 
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-intro = { $hostname } izmontoj nadereigu drūseibys sertifikatu.
+cert-error-intro = { $hostname } izmontoj nadereigu drūšeibys sertifikatu.
+cert-error-mitm-intro = Škārsteikla lopys aplīcynoj sovu eistumu ar sertifikatym, kurus izsnādz sertifikacejis centri.
+cert-error-mitm-mozilla = { -brand-short-name } podtur nakomerciala organizaceja Mozilla, kurai ir sova piļneibā atklōta sertifikacejis centru izdūtu sertifikatu globōtuve. Globōtuve paleidz porzalīcynōt, ka sertifikacejis centri ryupejās par lītōtōju datim pec lobōkōs prakses.
 cert-error-trust-unknown-issuer-intro = Īspiejams, kaids rauga izalikt par itū lopu un tev navajadzātu turpynōt.
 cert-error-trust-cert-invalid = Itys sertifikats nav uztycams, kam tū ir izdevs nadereigs CA sertifikats.
 cert-error-trust-untrusted-issuer = Itys sertifikats nav uztycams, kam tei izdevieja sertifikats nav uztycams.
