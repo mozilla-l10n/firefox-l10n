@@ -7,7 +7,6 @@ about-config-warning-title = Her er det drakar!
 about-config-warning-text = Dersom du endrar desse avanserte innstillingane kan det verke negativt inn på sikkerheit, stabilitet og yting i dette programmet. Fortset berre dersom du veit kva du gjer.
 about-config-warning-checkbox = Irriter meg igjen, takk!
 about-config-warning-button = Eg veit kva eg gjer
-about-config-title = about:config
 about-config2-title = Avanserte innstillingar
 about-config-search-input =
     .placeholder = Søk
@@ -18,6 +17,18 @@ about-config-pref-edit = Rediger
 about-config-pref-save = Lagre
 about-config-pref-reset = Nullstill
 about-config-pref-delete = Slett
+about-config-pref-add-button =
+    .title = Legg til
+about-config-pref-toggle-button =
+    .title = Veksle
+about-config-pref-edit-button =
+    .title = Rediger
+about-config-pref-save-button =
+    .title = Lagre
+about-config-pref-reset-button =
+    .title = Nullstill
+about-config-pref-delete-button =
+    .title = Slett
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
