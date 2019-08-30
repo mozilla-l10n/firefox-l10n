@@ -350,7 +350,7 @@
 <!ENTITY replySenderCmd.label "Afzender beantwoorden">
 <!ENTITY replySenderCmd.accesskey "z">
 <!ENTITY replyNewsgroupCmd2.label "Reageren naar nieuwsgroep">
-<!ENTITY replyNewsgroupCmd2.accesskey  "R">
+<!ENTITY replyNewsgroupCmd2.accesskey "R">
 <!ENTITY replyToAllMsgCmd.label "Allen beantwoorden">
 <!ENTITY replyToAllMsgCmd.accesskey "d">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -706,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Zoekopdracht als een map bewaren…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Berichten selecteren">
 <!ENTITY threadColumn.label "Conversatie">
 <!ENTITY fromColumn.label "Van">
 <!ENTITY recipientColumn.label "Ontvanger">
