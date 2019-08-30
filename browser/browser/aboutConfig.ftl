@@ -7,7 +7,6 @@ about-config-warning-title = ระวังมังกร!
 about-config-warning-text = การเปลี่ยนการตั้งค่าขั้นสูงเหล่านี้อาจเป็นอันตรายต่อเสถียรภาพ ความปลอดภัย และประสิทธิภาพของแอปพลิเคชันนี้ คุณควรดำเนินการต่อเฉพาะเมื่อคุณแน่ใจว่าคุณกำลังทำอะไรอยู่เท่านั้น
 about-config-warning-checkbox = ได้โปรดกวนฉันอีกที!
 about-config-warning-button = ฉันยอมรับความเสี่ยง
-about-config-title = about:config
 about-config2-title = การกำหนดค่าขั้นสูง
 about-config-search-input =
     .placeholder = ค้นหา
@@ -18,6 +17,18 @@ about-config-pref-edit = แก้ไข
 about-config-pref-save = บันทึก
 about-config-pref-reset = กลับค่าเดิม
 about-config-pref-delete = ลบ
+about-config-pref-add-button =
+    .title = เพิ่ม
+about-config-pref-toggle-button =
+    .title = เปิด/ปิด
+about-config-pref-edit-button =
+    .title = แก้ไข
+about-config-pref-save-button =
+    .title = บันทึก
+about-config-pref-reset-button =
+    .title = กลับค่าเดิม
+about-config-pref-delete-button =
+    .title = ลบ
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
