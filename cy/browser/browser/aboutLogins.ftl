@@ -72,7 +72,7 @@ login-intro-heading = Chwilio am eich mewngofnodi wedi'u cadw? Gosodwch { -sync-
 login-intro-description = Os gwnaethoch gadw eich mewngofnodion i { -brand-product-name } ar ddyfais wahanol, dyma sut i'w cael yma:
 login-intro-instruction-fxa = Creu neu fewngofnodi i'ch { -fxaccount-brand-name } ar y ddyfais lle mae'ch mewngofnodion yn cael eu cadw
 login-intro-instruction-fxa-settings = Sicrhewch eich bod wedi dewis y blwch gwirio Mewngofnodion yng Ngosodiadau { -sync-brand-short-name }
-about-logins-intro-instruction-help = Ewch i <a data-l10n-name="help-link"> { -lockwise-brand-short-name }Cefnogaeth</a> i gael rhagor o gymorth
+about-logins-intro-instruction-help = Ewch i <a data-l10n-name="help-link"> Cefnogaeth { -lockwise-brand-short-name }</a> i gael rhagor o gymorth
 
 ## Login
 
