@@ -98,9 +98,11 @@ detail-private-browsing-description2 = Pan fydd yna ganiatâd, bydd yr estyniad 
 # cannot be overridden by the user.
 detail-private-disallowed-label = Heb ei ganiatáu mewn Ffenestri Preifat
 detail-private-disallowed-description = Nid yw'r estyniad hwn yn rhedeg tra'n pori'n preifat. <label data-l10n-name = "details-private-browsing-learning-more">Rhagor o wybodaeth</label>
+detail-private-disallowed-description2 = Nid yw'r estyniad hwn yn rhedeg tra'n pori'n preifat. <a data-l10n-name="learn-more">Dysgu rhagor</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Angen Mynediad i Ffenestri Preifat
 detail-private-required-description = Mae gan yr estyniad hwn fynediad i'ch gweithgareddau ar-lein tra'n pori'n breifat. <label data-l10n-name = "details-private-browsing-learning-more">Rhagor o wybodaeth</label>
+detail-private-required-description2 = Mae gan yr estyniad hwn fynediad i'ch gweithgareddau ar-lein wrth bori'n breifat. <a data-l10n-name="learn-more">Dysgu mwy</a>
 detail-private-browsing-on =
     .label = Caniatáu
     .tooltiptext = Caniatáu wrth Bori Preifat
@@ -299,6 +301,10 @@ install-theme-button = Gosod Thema
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Rheoli
 find-more-addons = Canfod rhagor o ychwanegion
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Rhagor o Ddewisiadau
 
 ## Add-on actions
 
@@ -373,6 +379,11 @@ install-update-button = Diweddaru
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Caniatáu mewn ffenestri preifat
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Caniatáu mewn ffenestri preifat
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Pan mae'n cael ei ganiatáu, bydd yr estyniad ar gael i'ch gweithgareddau ar-lein tra byddwch yn pori'n breifat. <a data-l10n-name="learn-more"> Gwybod rhagor</a>
 addon-detail-private-browsing-allow = Caniatáu
 addon-detail-private-browsing-disallow = Peidio Caniatáu
@@ -381,6 +392,11 @@ addon-detail-private-browsing-disallow = Peidio Caniatáu
 addon-badge-recommended =
     .title = Cymeradwy
     .alt = Cymeradwy
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = Dim ond estyniadau sy'n cwrdd â'n safonau ar gyfer diogelwch a pherfformiad y mae { -brand-product-name } yn eu hargymell
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Diweddariadau ar Gael
 recent-updates-heading = Diweddariadau Diweddar
 release-notes-loading = Llwytho…

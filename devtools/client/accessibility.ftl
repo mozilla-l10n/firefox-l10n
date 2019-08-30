@@ -50,5 +50,5 @@ accessibility-text-label-issue-toolbar = Rhaid labelu bariau offer pan fydd mwy 
 accessibility-keyboard-issue-semantics = Dylai elfennau ffocwsadwy fod â semanteg ryngweithiol. <a>Dysgu rhagor</a>
 accessibility-keyboard-issue-tabindex = Ceisiwch osgoi defnyddio priodoledd <code>tabindex</code> sy'n fwy na sero. <a>Dysgu rhagor</a>
 accessibility-keyboard-issue-action = Rhaid gallu actifadu elfennau rhyngweithiol gan ddefnyddio bysellfwrdd. <a>Dysgu rhagor</a>
-accessibility-keyboard-issue-focusable = Rhaid i elfennau rhyngweithiol fod yn ffocwsadwy. <a>Dysgu mwy</a>
-accessibility-keyboard-issue-focus-visible = Efallai bod elfen ffocwsadwy yn brin o steilio ffocws. <a>Dysgu mwy</a>
+accessibility-keyboard-issue-focusable = Rhaid i elfennau rhyngweithiol fod yn ffocwsadwy. <a>Dysgu rhagor</a>
+accessibility-keyboard-issue-focus-visible = Efallai bod elfen ffocwsadwy yn brin o steilio ffocws. <a>Dysgu rhagor</a>

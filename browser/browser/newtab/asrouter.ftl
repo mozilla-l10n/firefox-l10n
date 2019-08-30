@@ -95,9 +95,9 @@ cfr-whatsnew-fx70-title = Mae { -brand-short-name } nawr yn ymladd yn galetach d
 cfr-whatsnew-fx70-body =
     Mae'r diweddariad diweddaraf yn gwella'r nodwedd Diogelu rhag Tracio ac yn ei wneud
     haws nag erioed i greu cyfrineiriau diogel ar gyfer pob gwefan.
-cfr-whatsnew-tracking-protect-title = Dioge3lwch eich hun rhag trcwyr
+cfr-whatsnew-tracking-protect-title = Diogelwch eich hun rhag tracwyr
 cfr-whatsnew-tracking-protect-body =
-    Mae { -brand-short-name } yn blocio llawer o dracwyr cymdeithasol a thraws-gwefan cyffredin sy'n eich 
+    Mae { -brand-short-name } yn rhwystro llawer o dracwyr cymdeithasol a thraws-gwefan cyffredin sy'n 
     dilyn yr hyn rydych chi'n ei wneud ar-lein.
 cfr-whatsnew-tracking-protect-link-text = Gweld Eich Adroddiad
 # This string is displayed before a large numeral that indicates the total
@@ -107,9 +107,9 @@ cfr-whatsnew-tracking-blocked-title =
     { $blockedCount ->
         [zero] Tracwyr wedi'u rhwystro
         [one] Traciwr wedi'i rwystro
-        [two] Traciwr wedi'u rhwystro
+        [two] Draciwr wedi'u rhwystro
         [few] Traciwr wedi'u rhwystro
-        [many] Traciwr wedi'u rhwystro
+        [many] Thraciwr wedi'u rhwystro
        *[other] Traciwr wedi'u rhwystro
     }
 cfr-whatsnew-tracking-blocked-subtitle = Ers { DATETIME($earliestDate, month: "long", year: "numeric") }
