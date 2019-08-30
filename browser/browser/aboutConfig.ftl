@@ -22,6 +22,8 @@ about-config-pref-edit-button =
     .title = సరిచేయి
 about-config-pref-save-button =
     .title = భద్రపరుచు
+about-config-pref-reset-button =
+    .title = పునరుద్ధరించు
 about-config-pref-delete-button =
     .title = తొలగించు
 
