@@ -7,7 +7,6 @@ about-config-warning-title = Тут цмокі!
 about-config-warning-text = Змяненне прадвызначаных значэнняў гэтых пашыраных налад можа быць шкодным для ўстойлівасці, бяспекі і прадукцыйнасці гэтай праграмы. Вы павінны рабіць гэта толькі тады, калі ўпэўнены ў тым, што робіце.
 about-config-warning-checkbox = Нагадваць пра гэта ў наступны раз!
 about-config-warning-button = Я прымаю рызыку
-about-config-title = about:config
 about-config2-title = Пашыраная наладка
 about-config-search-input =
     .placeholder = Шукаць
@@ -18,6 +17,18 @@ about-config-pref-edit = Змяніць
 about-config-pref-save = Захаваць
 about-config-pref-reset = Скінуць
 about-config-pref-delete = Выдаліць
+about-config-pref-add-button =
+    .title = Дадаць
+about-config-pref-toggle-button =
+    .title = Пераключыць
+about-config-pref-edit-button =
+    .title = Змяніць
+about-config-pref-save-button =
+    .title = Захаваць
+about-config-pref-reset-button =
+    .title = Скінуць
+about-config-pref-delete-button =
+    .title = Выдаліць
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
