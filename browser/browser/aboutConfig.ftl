@@ -7,15 +7,10 @@ about-config-warning-title = Warnung!
 about-config-warning-text = Änderungen der Standardwerte dieser erweiterten Einstellungen können die Stabilität, Sicherheit und Geschwindigkeit dieser Anwendung gefährden. Sie sollten nur fortfahren, wenn Sie genau wissen, was Sie tun.
 about-config-warning-checkbox = Erneut warnen
 about-config-warning-button = Ich bin mir der Gefahren bewusst
-
-about-config-title = about:config
-
 about-config2-title = Erweiterte Konfiguration
-
 about-config-search-input =
     .placeholder = Suchen
 about-config-show-all = Alle Einstellungen anzeigen
-
 about-config-pref-add = Hinzufügen
 about-config-pref-toggle = Umschalten
 about-config-pref-edit = Bearbeiten
@@ -24,6 +19,7 @@ about-config-pref-reset = Zurücksetzen
 about-config-pref-delete = Löschen
 
 ## Labels for the type selection radio buttons shown when adding preferences.
+
 about-config-pref-add-type-boolean = Boolean
 about-config-pref-add-type-number = Number
 about-config-pref-add-type-string = String
@@ -34,6 +30,7 @@ about-config-pref-add-type-string = String
 ##
 ## Variables:
 ##   $value (String): The full value of the preference.
+
 about-config-pref-accessible-value-default =
     .aria-label = { $value } (Standard)
 about-config-pref-accessible-value-custom =
