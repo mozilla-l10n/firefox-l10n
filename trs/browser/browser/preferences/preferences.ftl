@@ -723,6 +723,7 @@ addressbar-suggestions-settings = Naduno' riña sa ruguñu'unj da' gache nu'
 content-blocking-header = Garun' riña sa ma
 content-blocking-enhanced-tracking-protection = Sa hua hue'ê doj guendâ nará riña sa naga'naj a
 content-blocking-section-description = Dugumî man'ânt nga aché nunt. Narán riña nej nuguan' nitaj si ra'ngà' hua sani naga'na nùhuin si 'iát nga aché nunt asi nej pefî. Si naránt riña da'aj nej nuguan' nan nj ga'ue gi'iaj sun hìo doj pajinâ nan.
+content-blocking-section-top-level-description = Sa 'iaj nej sa naga'naj a huin sisi nikò' nej man sò' ngà aché nunt ni 'iaj tuj nej nuguan' hua 'iát ni nej sa 'iát. { -brand-short-name } narán riña ga'ì nej sa naga'naj nan ni riña a'ngô nej sa yi'ìi.
 content-blocking-learn-more = Gahuin chrūn doj
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".

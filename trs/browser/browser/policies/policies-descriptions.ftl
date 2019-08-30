@@ -66,6 +66,7 @@ policy-NetworkPrediction = Nachrun asi duna'ajt sa nadigân dàj ga red (dananj 
 policy-NewTabPage = Nachrun asi duna'ajt pajiná Rakïj ñanj Nakàa.
 policy-NoDefaultBookmarks = Duyichin' si sun sa ri markadôr daj rû' riña { -brand-short-name }, ni nej markadôr chruun (Nej sa ni'iaj nìkot doj). Nuguan' huaa: sisi asîj gachin girit perfîl sinïin ni ga'ue garasunt nan.
 policy-OfferToSaveLogins = Dunahuij sa nagi'iát da' ga'nïn riña { -brand-short-name } dunanun ruhuaj ngà gayi'ìt gatut asi da'nga' huì màn sà' 'iát. Ga'ue nada'a sa yangà'a asi sa diga'ñun'unj un.
+policy-OfferToSaveLoginsDefault = Nachrun nej sa nika 'na' da' ga'nïn riña { -brand-short-name } da' dunanu ruhuaj nej riña ayi'ìt sesiûn ni nej da'nga' huì nu sà' 'iát. Ga'ue gatu nej sa yangà'a asi sa diga'ñu'unj un.
 policy-OverrideFirstRunPage = Nadure' Pajinâ nayi'nïnj sinïïn. Dunâj gatsì nuguan' nan sisi ruhuât nadurê't pajinâ nayi'nïnj sinïïn.
 policy-OverridePostUpdatePage = Nadure' pajinâ nagi'iaj nakà gahui rukû sa nahuin nakà nan. Dunâj gatsì nan sisi ruhuât duyichin't pajinâ ne' rukù sa nahuin nakàa.
 policy-Permissions = Natsïj riña achín ni'iát rayi'î aga' nari', aga' uxun nanèe ni nej nuguan' rugûñun'unj un.

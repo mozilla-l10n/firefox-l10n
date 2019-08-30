@@ -99,6 +99,11 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = Asìj
 cfr-whatsnew-tracking-blocked-link-text = Dàj rugui' riña infôrme
 cfr-whatsnew-lockwise-backup-title = Na'nïnj sà' a'ngô hiuj u da'nga' huì nikajt
+cfr-whatsnew-lockwise-backup-body = Ga'ue girit nej da'nga' huì  ni'ñanj guendâ gatut gache nunt danè' man'an huajt.
+cfr-whatsnew-lockwise-backup-link-text = Nachrun ñadu'ua nej kopiâ seguridâ
+cfr-whatsnew-lockwise-take-title = Gata nej da'nga' huì nikajt gache nunt
+cfr-whatsnew-lockwise-take-body = Aplikasiûn li { -lockwise-brand-short-name } a'nïnj gatut riña mà ñadu'ua nej kopiâ seguridâ nej da'nga' huì nikajt danè' man'an huajt.
+cfr-whatsnew-lockwise-take-link-text = Nadunïnj aplikasiûn
 
 ## Bookmark Sync
 
