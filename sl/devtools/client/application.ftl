@@ -69,6 +69,8 @@ serviceworker-empty-suggestions-debugger = Prestopite registracijo Service Worke
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Preglejte Service Workerje iz ostalih domen. <a>Odpri about:debugging</a>
+# Header for the view of Manifest displayed in the application panel for the current page.
+manifest-view-header = Manifest aplikacije
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Napake in opozorila
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -85,3 +87,11 @@ manifest-loaded-ok = Manifest naložen.
 manifest-loaded-error = Pri nalaganju manifesta je prišlo do napake:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Ni najdenega manifesta za pregled.
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Ikona opozorila
+    .title = Opozorilo
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Ikona napake
+    .title = Napaka

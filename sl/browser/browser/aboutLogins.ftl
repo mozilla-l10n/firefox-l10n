@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Možnosti
        *[other] Nastavitve
     }
-menu-menuitem-feedback = Pošlji povratne informacije
-menu-menuitem-faq = Pogosto zastavljena vprašanja
+about-logins-menu-menuitem-help = Pomoč
 menu-menuitem-android-app = { -lockwise-brand-short-name } za Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } za iPhone in iPad
 
@@ -59,6 +58,8 @@ login-list-last-changed-option = Času zadnje spremembe
 login-list-last-used-option = Času zadnje uporabe
 login-list-intro-title = Ni prijav
 login-list-intro-description = Ko geslo shranite v { -brand-product-name }, se bo prikazalo tukaj.
+about-logins-login-list-empty-search-title = Ni prijav
+about-logins-login-list-empty-search-description = Ni rezultatov, ki bi ustrezali vašemu iskanju.
 login-list-item-title-new-login = Nova prijava
 login-list-item-subtitle-new-login = Vnesite podatke za prijavo
 login-list-item-subtitle-missing-username = (ni uporabniškega imena)
@@ -69,7 +70,7 @@ login-intro-heading = Iščete shranjene prijave? Nastavite { -sync-brand-short-
 login-intro-description = Če ste svoje prijave shranili v { -brand-product-name } v drugi napravi, jih lahko prenesete sem, tako da:
 login-intro-instruction-fxa = Ustvarite { -fxaccount-brand-name } ali se prijavite na napravi, kjer so shranjene vaše prijave
 login-intro-instruction-fxa-settings = Prepričajte se, da ste v Nastavitvah { -sync-brand-short-name }a označili polje Prijave
-login-intro-instruction-faq = Za dodatno pomoč obiščite <a data-l10n-name="faq">pogosto zastavljena vprašanja</a> za { -lockwise-brand-short-name }
+about-logins-intro-instruction-help = Za dodatno pomoč obiščite <a data-l10n-name="help-link">Podporo { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -79,10 +80,11 @@ login-item-delete-button = Izbriši
 login-item-origin-label = Naslov spletnega mesta
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Odpri
 login-item-username-label = Uporabniško ime
 login-item-username =
     .placeholder = ime@example.com
+about-logins-login-item-username =
+    .placeholder = (brez uporabniškega imena)
 login-item-copy-username-button-text = Kopiraj
 login-item-copied-username-button-text = Kopirano!
 login-item-password-label = Geslo
