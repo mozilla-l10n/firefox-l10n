@@ -7,7 +7,6 @@ about-config-warning-title = Ɣur-k dagi talafsa!
 about-config-warning-text = Asnifel n ismenyifen-agi zemren ad sexṣeren arkad, taɣellist d timellit n usnas-agi. Tzemreḍ kan ad kemleḍ ma yella teẓriḍ ayen tmahaleḍ.
 about-config-warning-checkbox = Mmekti-yi-d tikkelt-nniḍen.
 about-config-warning-button = Gziɣ uguren!
-about-config-title = ɣef:tawila
 about-config2-title = Tawila leqqayen
 about-config-search-input =
     .placeholder = Nadi
@@ -18,6 +17,16 @@ about-config-pref-edit = Ẓreg
 about-config-pref-save = Sekles
 about-config-pref-reset = Wennez tikkelt-nniḍen
 about-config-pref-delete = Kkes
+about-config-pref-add-button =
+    .title = Rnu
+about-config-pref-toggle-button =
+    .title = Nṭew
+about-config-pref-edit-button =
+    .title = Ẓreg
+about-config-pref-save-button =
+    .title = Sekles
+about-config-pref-delete-button =
+    .title = Kkes
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
