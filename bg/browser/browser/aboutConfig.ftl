@@ -7,7 +7,6 @@ about-config-warning-title = Тук обитават дракони!
 about-config-warning-text = Промяната на някои от тези разширени настройки може да се отрази пагубно върху стабилността, безопасността и производителността на приложението. Продължете, само ако сте сигурни какво правите.
 about-config-warning-checkbox = Повторно напомняне
 about-config-warning-button = Приемам риска!
-about-config-title = about:config
 about-config2-title = Разширени настройки
 about-config-search-input =
     .placeholder = Търсене
@@ -18,6 +17,18 @@ about-config-pref-edit = Променяне
 about-config-pref-save = Запазване
 about-config-pref-reset = Нулиране
 about-config-pref-delete = Изтриване
+about-config-pref-add-button =
+    .title = Добавяне
+about-config-pref-toggle-button =
+    .title = Превключване
+about-config-pref-edit-button =
+    .title = Променяне
+about-config-pref-save-button =
+    .title = Запазване
+about-config-pref-reset-button =
+    .title = Нулиране
+about-config-pref-delete-button =
+    .title = Изтриване
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
