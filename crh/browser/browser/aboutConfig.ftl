@@ -7,7 +7,6 @@ about-config-warning-title = Dikkat, ejderha çıkabilir!
 about-config-warning-text = Bu gelişmiş ayarları değiştirmek bu uygulamanın istikrarına, güvenliğine ve performansına zarar verebilir. Sadece ne yaptığınızdan eminseniz devam etmelisiniz.
 about-config-warning-checkbox = Bu uyarıyı göstermeye devam et.
 about-config-warning-button = Riski kabul ediyorum
-about-config-title = about:config
 about-config-search-input =
     .placeholder = Arama
 about-config-show-all = Tümünü göster
@@ -17,6 +16,18 @@ about-config-pref-edit = Düzenle
 about-config-pref-save = Kaydet
 about-config-pref-reset = Sıfırla
 about-config-pref-delete = Sil
+about-config-pref-add-button =
+    .title = Ekle
+about-config-pref-toggle-button =
+    .title = Değiştir
+about-config-pref-edit-button =
+    .title = Düzenle
+about-config-pref-save-button =
+    .title = Kaydet
+about-config-pref-reset-button =
+    .title = Sıfırla
+about-config-pref-delete-button =
+    .title = Sil
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
