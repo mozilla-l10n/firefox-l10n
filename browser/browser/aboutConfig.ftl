@@ -7,7 +7,6 @@ about-config-warning-title = Міне, айдаһар!
 about-config-warning-text = Осы баптауларды өзгерту тұрақтылық, қауіпсіздік пен өнімділіктің құлдырауына әкеп соғуы мүмкін. Сенімді болсаңыз ғана, өзгертіңіз.
 about-config-warning-checkbox = Маған бұл туралы келесіде ескерту!
 about-config-warning-button = Осыны қабылдаймын!
-about-config-title = about:config
 about-config2-title = Кеңейтілген баптаулар
 about-config-search-input =
     .placeholder = Іздеу
@@ -18,6 +17,18 @@ about-config-pref-edit = Түзету
 about-config-pref-save = Сақтау
 about-config-pref-reset = Тастау
 about-config-pref-delete = Өшіру
+about-config-pref-add-button =
+    .title = Қосу
+about-config-pref-toggle-button =
+    .title = Ауыстыру
+about-config-pref-edit-button =
+    .title = Түзету
+about-config-pref-save-button =
+    .title = Сақтау
+about-config-pref-reset-button =
+    .title = Тастау
+about-config-pref-delete-button =
+    .title = Өшіру
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
