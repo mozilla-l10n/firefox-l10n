@@ -75,6 +75,8 @@ manifest-view-header = Alkalmazás leírófájl
 manifest-item-warnings = Hibák és figyelmeztetések
 # Header for the Identity section of Manifest inspection displayed in the application panel.
 manifest-item-identity = Felhasználó
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Megjelenítés
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = Ikonok
 # Text displayed while we are loading the manifest file
@@ -85,3 +87,11 @@ manifest-loaded-ok = Leírófájl betöltve.
 manifest-loaded-error = Hiba történt a leírófájl betöltésekor:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Nem található vizsgálható leírófájl.
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Figyelmeztetés ikon
+    .title = Figyelmeztetés
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Hiba ikon
+    .title = Hiba
