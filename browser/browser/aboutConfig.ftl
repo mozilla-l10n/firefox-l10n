@@ -7,7 +7,6 @@ about-config-warning-title = Hemen dragoiak daude!
 about-config-warning-text = Ezarpen aurreratu hauek aldatzea kaltegarria izan daiteke aplikazio honen egonkortasun, segurtasun eta errendimenduarentzat. Zertan ari zaren baldin badakizu jarraitu behar zenuke soilik.
 about-config-warning-checkbox = Abisatu hurrengoan ere, mesedez!
 about-config-warning-button = Arriskua onartzen dut
-about-config-title = about:config
 about-config2-title = Konfigurazio aurreratuak
 about-config-search-input =
     .placeholder = Bilatu
@@ -18,6 +17,18 @@ about-config-pref-edit = Editatu
 about-config-pref-save = Gorde
 about-config-pref-reset = Berrezarri
 about-config-pref-delete = Ezabatu
+about-config-pref-add-button =
+    .title = Gehitu
+about-config-pref-toggle-button =
+    .title = Txandakatu
+about-config-pref-edit-button =
+    .title = Editatu
+about-config-pref-save-button =
+    .title = Gorde
+about-config-pref-reset-button =
+    .title = Berrezarri
+about-config-pref-delete-button =
+    .title = Ezabatu
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
