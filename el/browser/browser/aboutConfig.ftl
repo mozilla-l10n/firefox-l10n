@@ -7,7 +7,6 @@ about-config-warning-title = Εδώ βρίσκονται δράκοι!
 about-config-warning-text = Η αλλαγή αυτών των προηγμένων ρυθμίσεων μπορεί να βλάψει τη σταθερότητα, την ασφάλεια και τις επιδόσεις αυτής της εφαρμογής. Συνεχίστε μόνο αν ξέρετε σίγουρα τι κάνετε.
 about-config-warning-checkbox = Να ενοχληθώ ξανά, παρακαλώ!
 about-config-warning-button = Αποδέχομαι τον κίνδυνο
-about-config-title = about:config
 about-config2-title = Προηγμένες ρυθμίσεις
 about-config-search-input =
     .placeholder = Αναζήτηση
@@ -18,6 +17,18 @@ about-config-pref-edit = Επεξεργασία
 about-config-pref-save = Αποθήκευση
 about-config-pref-reset = Επαναφορά
 about-config-pref-delete = Διαγραφή
+about-config-pref-add-button =
+    .title = Προσθήκη
+about-config-pref-toggle-button =
+    .title = Εναλλαγή
+about-config-pref-edit-button =
+    .title = Επεξεργασία
+about-config-pref-save-button =
+    .title = Αποθήκευση
+about-config-pref-reset-button =
+    .title = Επαναφορά
+about-config-pref-delete-button =
+    .title = Διαγραφή
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
