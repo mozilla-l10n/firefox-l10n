@@ -7,7 +7,6 @@ about-config-warning-title = Njech su tu zmije!
 about-config-warning-text = Hdyž tute rozšěrjene nastajenja změniće, móže so to škódnje na stabilitu, wěstotu a wukon tutoho nałoženja wuskutkować. Wy měł jenož z tym pokročować, jeli sće sej wěsty, štož činiće.
 about-config-warning-checkbox = Wobćežuj mje zaso prošu!
 about-config-warning-button = Akceptuju riziko
-about-config-title = about:config
 about-config2-title = Rozšěrjene konfiguracije
 about-config-search-input =
     .placeholder = Pytać
@@ -18,6 +17,18 @@ about-config-pref-edit = Wobdźěłać
 about-config-pref-save = Składować
 about-config-pref-reset = Wróćo stajić
 about-config-pref-delete = Zhašeć
+about-config-pref-add-button =
+    .title = Přidać
+about-config-pref-toggle-button =
+    .title = Přešaltować
+about-config-pref-edit-button =
+    .title = Wobdźěłać
+about-config-pref-save-button =
+    .title = Składować
+about-config-pref-reset-button =
+    .title = Wróćo stajić
+about-config-pref-delete-button =
+    .title = Zhašeć
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
