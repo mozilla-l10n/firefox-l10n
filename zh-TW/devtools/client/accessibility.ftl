@@ -47,3 +47,8 @@ accessibility-text-label-issue-toolbar = 有超過一個工具列時，必須為
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = 可聚焦的元素，應有互動語意。<a>了解更多</a>
+accessibility-keyboard-issue-tabindex = 避免使用大於 0 的 <code>tabindex</code> 屬性。<a>了解更多</a>
+accessibility-keyboard-issue-action = 互動式元素必須可用鍵盤作動。<a>了解更多</a>
+accessibility-keyboard-issue-focusable = 互動式元素必須可聚焦。<a>了解更多</a>
+accessibility-keyboard-issue-focus-visible = 可聚焦元素可能缺少聚焦樣式。<a>了解更多</a>

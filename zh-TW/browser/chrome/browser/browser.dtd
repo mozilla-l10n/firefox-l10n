@@ -250,6 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "管理 DRM 軟體使用">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "開啟 MIDI 面板">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "您已授予此網站更多權限。">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "您已封鎖此網站的攝影機存取權限。">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "您已封鎖此網站存取您麥克風的權限。">
@@ -878,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "關於加強型追蹤保護功能的更多資訊">
 <!ENTITY protections.settings.label "保護設定">
 <!ENTITY protections.report.label "顯示完整報告">
+<!ENTITY protections.showreport.label "顯示報告">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->

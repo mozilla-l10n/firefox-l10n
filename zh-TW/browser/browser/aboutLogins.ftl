@@ -55,6 +55,8 @@ login-list-last-changed-option = 上次修改
 login-list-last-used-option = 上次使用
 login-list-intro-title = 找不到登入資訊
 login-list-intro-description = 當您在 { -brand-product-name } 中儲存密碼後，就會顯示於此處。
+about-logins-login-list-empty-search-title = 沒有找到登入資訊
+about-logins-login-list-empty-search-description = 沒有符合您搜尋條件的結果。
 login-list-item-title-new-login = 新增登入資訊
 login-list-item-subtitle-new-login = 請輸入您的登入帳密
 login-list-item-subtitle-missing-username = （無使用者名稱）
@@ -65,6 +67,7 @@ login-intro-heading = 在找您儲存的登入資訊嗎？請設定 { -sync-bran
 login-intro-description = 若您在其他裝置上儲存登入資訊到 { -brand-product-name } 過，請參考下列步驟，即可在此裝置使用:
 login-intro-instruction-fxa = 在您儲存登入資訊的裝置，註冊或登入 { -fxaccount-brand-name }
 login-intro-instruction-fxa-settings = 確定在 { -sync-brand-short-name } 設定中勾選了「登入資訊」選取盒
+about-logins-intro-instruction-help = 若需協助，請到 <a data-l10n-name="help-link">{ -lockwise-brand-short-name } 技術支援站</a>
 
 ## Login
 
@@ -77,6 +80,8 @@ login-item-origin =
 login-item-username-label = 使用者名稱
 login-item-username =
     .placeholder = name@example.com
+about-logins-login-item-username =
+    .placeholder = （無使用者名稱）
 login-item-copy-username-button-text = 複製
 login-item-copied-username-button-text = 已複製！
 login-item-password-label = 密碼
