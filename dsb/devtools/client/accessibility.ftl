@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Dalšne informacije
 accessibility-text-label-header = Tekstowe wóznamjenjenja a mjenja
+accessibility-keyboard-header = Tastatura
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -41,3 +42,12 @@ accessibility-text-label-issue-interactive = Interaktiwne elementy muse se wózn
 accessibility-text-label-issue-optgroup-label = Wužywajśo atribut <code>label</code>, aby elementy <span>optgroup</span> wóznamjenił. <a>Dalšne informacije</a>
 accessibility-text-label-issue-optgroup-label2 = Wužywajśo atribut <code>label</code>, aby element <span>optgroup</span> pópisał. <a>Dalšne informacije</a>
 accessibility-text-label-issue-toolbar = Symbolowe rědki muse se wóznamjeniś, gaž dajo wěcej ako jadneje symboloweje rědki. <a>Dalšne informacije</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
+accessibility-keyboard-issue-semantics = Fokusujobne elementy měli interaktiwnu semantiku měś. <a>Dalšne informacije</a>
+accessibility-keyboard-issue-tabindex = Njewužywajśo atribut <code>tabindex</code> z gódnotu, kótaraž jo wětša ako nul. <a>Dalšne informacije</a>
+accessibility-keyboard-issue-action = Interaktiwne elementy muse se z tastaturu aktiwěrowaś daś. <a>Dalšne informacije</a>
+accessibility-keyboard-issue-focusable = Interaktiwne elementy muse se fokusěrowaś daś. <a>Dalšne informacije</a>
