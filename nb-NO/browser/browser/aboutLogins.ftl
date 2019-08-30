@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Innstillinger
        *[other] Innstillinger
     }
-menu-menuitem-feedback = Send tilbakemelding
-menu-menuitem-faq = Ofte stilte spørsmål
+about-logins-menu-menuitem-help = Hjelp
 menu-menuitem-android-app = { -lockwise-brand-short-name } for Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } for iPhone og iPad
 
@@ -57,6 +56,7 @@ login-list-last-changed-option = Sist endret
 login-list-last-used-option = Sist brukt
 login-list-intro-title = Fant ingen innlogginger
 login-list-intro-description = Når du lagrer et passord i { -brand-product-name }, vil det vises her.
+about-logins-login-list-empty-search-title = Fant ingen innlogginger
 login-list-item-title-new-login = Ny innlogging
 login-list-item-subtitle-new-login = Skriv inn innloggingsinformasjon
 login-list-item-subtitle-missing-username = (uten brukernavn)
@@ -67,7 +67,7 @@ login-intro-heading = Ser du etter lagrede innlogginger? Konfigurer { -sync-bran
 login-intro-description = Slik kan du få dine { -brand-product-name } innlogginger hit, om du har lagret de på en annen enhet
 login-intro-instruction-fxa = Lag eller logg inn på din { -fxaccount-brand-name } på enheten der dine innlogginger er lagret
 login-intro-instruction-fxa-settings = Forsikre deg om at du har markert avkryssingsboksen for innlogginger i { -sync-brand-short-name }-innstillingene
-login-intro-instruction-faq = Besøk { -lockwise-brand-short-name } <a data-l10n-name="faq">ofte stilte spørsmål</a> for mer hjelp
+about-logins-intro-instruction-help = Gå til <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Support</a> for mer hjelp
 
 ## Login
 
@@ -77,10 +77,11 @@ login-item-delete-button = Slett
 login-item-origin-label = Nettadresse
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Åpne
 login-item-username-label = Brukernavn
 login-item-username =
     .placeholder = name@example.com
+about-logins-login-item-username =
+    .placeholder = (ingen brukernavn)
 login-item-copy-username-button-text = Kopier
 login-item-copied-username-button-text = Kopiert!
 login-item-password-label = Passord

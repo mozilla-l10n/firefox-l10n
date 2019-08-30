@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Behandle bruk av DRM-programmer">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Åpne MIDI-panelet">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Du har gitt dette nettstedet noen spesialtillatelser.">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Du har blokkert kameraet for dette nettstedet.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Du har blokkert mikrofonen for dette nettstedet.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Du har blokkert dette nettstedet fra å dele din skjerm.">
@@ -813,10 +815,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Tilkobling">
 <!ENTITY identity.connectionSecure "Sikker tilkobling">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Tilkoblingssikkerhet">
-
 <!ENTITY identity.connectionSecure2 "Tilkoblingen er sikker">
 <!ENTITY identity.connectionNotSecure "Tilkoblingen er ikke sikker">
 <!ENTITY identity.connectionNotSecureSecurityView "Du er ikke sikkert koblet til dette nettstedet.">
@@ -866,6 +864,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Tillatelser satt">
+
+<!ENTITY identity.permissions3 "Tillatelser">
 <!ENTITY identity.permissionsEmpty "Du har ikke gitt dette nettstedet noen spesialtillatelser.">
 <!ENTITY identity.permissionsReloadHint "Du må kanskje laste siden på nytt for at endringene skal gjelde.">
 <!ENTITY identity.permissionsPreferences.tooltip "Åpne innstillinger for tillatelser">
@@ -879,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "Mer informasjon om utvidet sporingsbeskyttelse">
 <!ENTITY protections.settings.label "Innstillinger for beskyttelse">
 <!ENTITY protections.report.label "Vis full rapport">
+<!ENTITY protections.showreport.label "Vis rapport">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -898,12 +899,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Er nettstedet fremdeles ødelagt, selv etter å ha slått av beskyttelsen?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Send inn en rapport">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Blokkert">
 <!ENTITY protections.notBlocking2.label "Tillatt">
+<!ENTITY protections.notFound.label "Ingen oppdaget">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Hvorfor?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokkering av disse kan føre til feil med elementer på noen nettsteder. Uten sporere fungerer kanskje ikke noen knapper, skjemaer og innloggingsfelt.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Ved å slå av beskyttelse tillates alle sporer på dette nettstedet. Det kan også forbedre noe funksjonalitet på nettstedet.">
-<!ENTITY protections.notFound.label "Ingen oppdaget">
 <!ENTITY protections.socialMediaTrackers.label "Sporing via sosiale medier">
 <!ENTITY protections.crossSiteTrackingCookies.label "Sporingsinfokapsler på tvers av nettsteder">
 <!ENTITY protections.trackingContent.label "Sporings-innhold">
@@ -961,7 +971,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "n">
 
 <!ENTITY contentBlocking.trackersView.label "Sporere">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "For å blokkere alle sporere, sett innholdsblokkering til «Streng».">
 
 <!ENTITY contentBlocking.cookies.label "Infokapsler">
