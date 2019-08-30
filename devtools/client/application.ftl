@@ -87,3 +87,11 @@ manifest-loaded-ok = 已載入 manifest。
 manifest-loaded-error = 載入 manifest 時發生錯誤:
 # Text displayed when the page has no manifest available
 manifest-non-existing = 沒有找到可以檢測的 manifest。
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = 警告圖示
+    .title = 警告
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = 錯誤圖示
+    .title = 錯誤

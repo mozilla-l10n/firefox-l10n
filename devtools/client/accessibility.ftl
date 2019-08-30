@@ -7,6 +7,7 @@
 
 accessibility-learn-more = 了解更多
 accessibility-text-label-header = 文字標籤與名稱
+accessibility-keyboard-header = 鍵盤
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -41,3 +42,8 @@ accessibility-text-label-issue-interactive = 互動式元素必須加入標籤�
 accessibility-text-label-issue-optgroup-label = 使用 <code>label</code> 屬性來為 <span>optgroup</span> 元素加入標籤。<a>了解更多</a>
 accessibility-text-label-issue-optgroup-label2 = 使用 <code>label</code> 屬性來為 <span>optgroup</span> 加上標籤。<a>了解更多</a>
 accessibility-text-label-issue-toolbar = 有超過一個工具列時，必須為所有工具列加入標籤。<a>了解更多</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+

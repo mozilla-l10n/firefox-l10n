@@ -250,6 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "管理 DRM 軟體使用">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "開啟 MIDI 面板">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "您已封鎖此網站的攝影機存取權限。">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "您已封鎖此網站存取您麥克風的權限。">
 <!ENTITY urlbar.screenBlocked.tooltip            "您已封鎖此網站分享您螢幕畫面的權限。">
@@ -813,10 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "連線">
 <!ENTITY identity.connectionSecure "安全連線">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "連線安全性">
-
 <!ENTITY identity.connectionSecure2 "安全連線">
 <!ENTITY identity.connectionNotSecure "連線不安全">
 <!ENTITY identity.connectionNotSecureSecurityView "您並未安全地連線至此網站。">
@@ -866,6 +863,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "權限集">
+
+<!ENTITY identity.permissions3 "權限">
 <!ENTITY identity.permissionsEmpty "您並未授予此網站任何特殊權限。">
 <!ENTITY identity.permissionsReloadHint "您可能需要重新載入頁面才能讓變更生效。">
 <!ENTITY identity.permissionsPreferences.tooltip "開啟權限偏好設定">
