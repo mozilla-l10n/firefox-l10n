@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Opciones
        *[other] Preferencias
     }
-menu-menuitem-feedback = Enviar opinión
-menu-menuitem-faq = Preguntas frecuentes
+about-logins-menu-menuitem-help = Ayuda
 menu-menuitem-android-app = { -lockwise-brand-short-name } para Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } para iPhone y iPad
 
@@ -57,6 +56,8 @@ login-list-last-changed-option = Última modificación
 login-list-last-used-option = Usado por última vez
 login-list-intro-title = No se encontraron inicios de sesión
 login-list-intro-description = Cuando guarde una contraseña en { -brand-product-name }, va a aparecer aquí.
+about-logins-login-list-empty-search-title = No se encontraron inicios de sesión
+about-logins-login-list-empty-search-description = No hay resultados que coincidan con su busqueda.
 login-list-item-title-new-login = Nuevo inicio de sesión
 login-list-item-subtitle-new-login = Ingrese sus credenciales de inicio de sesión
 login-list-item-subtitle-missing-username = (sin nombre de usuario)
@@ -67,7 +68,7 @@ login-intro-heading = ¿Está buscando sus inicios de sesión guardados? Configu
 login-intro-description = Si guardó sus inicios de sesión en { -brand-product-name } en un dispositivo diferente, estos son los pasos a seguir para tenerlas aquí también:
 login-intro-instruction-fxa = Cree o inicie sesión en su { -fxaccount-brand-name } en el dispositivo donde guardó sus inicios de sesión
 login-intro-instruction-fxa-settings = Asegúrese de haber seleccionado la casilla de verificación Inicios de sesión en la Configuración de { -sync-brand-short-name }
-login-intro-instruction-faq = Vaya a { -lockwise-brand-short-name } <a data-l10n-name="faq"> preguntas frecuentes </a> para obtener más ayuda
+about-logins-intro-instruction-help = Vaya a <a data-l10n-name="help-link"> { -lockwise-brand-short-name } Ayuda</a> para obtener más ayuda
 
 ## Login
 
@@ -80,6 +81,8 @@ login-item-origin =
 login-item-username-label = Nombre de usuario
 login-item-username =
     .placeholder = nombre@example.com
+about-logins-login-item-username =
+    .placeholder = (sin nombre de usuario)
 login-item-copy-username-button-text = Copiar
 login-item-copied-username-button-text = ¡Copiado!
 login-item-password-label = Contraseña
