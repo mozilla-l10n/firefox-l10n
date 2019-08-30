@@ -7,21 +7,31 @@ about-config-warning-title = Qui ci sono i draghi!
 about-config-warning-text = La modifica di queste impostazioni avanzate può compromettere la stabilità, la sicurezza e le prestazioni del browser. Si consiglia di proseguire solo se consapevoli delle proprie azioni.
 about-config-warning-checkbox = Ricordamelo la prossima volta, grazie.
 about-config-warning-button = Accetto i rischi
-
 about-config2-title = Configurazioni avanzate
-
 about-config-search-input =
     .placeholder = Cerca
 about-config-show-all = Visualizza tutto
-
 about-config-pref-add = Aggiungi
 about-config-pref-toggle = Cambia
 about-config-pref-edit = Modifica
 about-config-pref-save = Salva
 about-config-pref-reset = Ripristina
 about-config-pref-delete = Elimina
+about-config-pref-add-button =
+    .title = Aggiungi
+about-config-pref-toggle-button =
+    .title = Cambia
+about-config-pref-edit-button =
+    .title = Modifica
+about-config-pref-save-button =
+    .title = Salva
+about-config-pref-reset-button =
+    .title = Ripristina
+about-config-pref-delete-button =
+    .title = Elimina
 
 ## Labels for the type selection radio buttons shown when adding preferences.
+
 about-config-pref-add-type-boolean = Booleano
 about-config-pref-add-type-number = Numero
 about-config-pref-add-type-string = Stringa
@@ -32,6 +42,7 @@ about-config-pref-add-type-string = Stringa
 ##
 ## Variables:
 ##   $value (String): The full value of the preference.
+
 about-config-pref-accessible-value-default =
     .aria-label = { $value } (predefinito)
 about-config-pref-accessible-value-custom =
