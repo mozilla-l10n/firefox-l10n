@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administrer brug af DRM-software">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Åbn MIDI-panel">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Du har givet dette websted yderligere tilladelser.">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Du har blokeret dit kamera for dette websted.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Du har blokeret din mikrofon for dette websted.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Du har blokeret skærmdeling for dette websted.">
@@ -813,10 +815,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Forbindelse">
 <!ENTITY identity.connectionSecure "Sikker forbindelse">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Sikkerhed for forbindelse">
-
 <!ENTITY identity.connectionSecure2 "Forbindelsen er sikker">
 <!ENTITY identity.connectionNotSecure "Forbindelsen er usikker">
 <!ENTITY identity.connectionNotSecureSecurityView "Din forbindelse til webstedet er ikke sikker.">
@@ -866,6 +864,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Tilladelser indstillet">
+
+<!ENTITY identity.permissions3 "Tilladelser">
 <!ENTITY identity.permissionsEmpty "Du har ikke tildelt dette websted nogen særlige tilladelser.">
 <!ENTITY identity.permissionsReloadHint "Du skal muligvis genindlæse siden, før at ændringerne slår igennem.">
 <!ENTITY identity.permissionsPreferences.tooltip "Åbn indstillinger for tilladelser">
@@ -879,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "Mere information om udvidet beskyttelse mod sporing">
 <!ENTITY protections.settings.label "Indstillinger for beskyttelse">
 <!ENTITY protections.report.label "Vis fuld rapport">
+<!ENTITY protections.showreport.label "Show Report">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -970,7 +971,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "H">
 
 <!ENTITY contentBlocking.trackersView.label "Sporings-tjenester">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Sæt blokering af indhold til &quot;Striks &quot;for at blokere alle sporings-tjenester.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
