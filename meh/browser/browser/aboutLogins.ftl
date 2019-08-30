@@ -31,6 +31,7 @@ menu-menuitem-preferences =
         [windows] Kaji
        *[other] Preferencias
     }
+about-logins-menu-menuitem-help = Chinei
 
 ## Login List
 
@@ -45,6 +46,7 @@ login-list-item-subtitle-missing-username = (Na íyo sivɨ ñɨvɨ)
 
 ## Introduction screen
 
+about-logins-intro-instruction-help = Kivu <a data-l10n-name="help-link">{ -lockwise-brand-short-name }  </a> nuu kuvi chineidani noo´o
 
 ## Login
 
@@ -56,6 +58,8 @@ login-item-origin =
 login-item-username-label = Sɨvu ñɨvu
 login-item-username =
     .placeholder = sivɨ@example.com
+about-logins-login-item-username =
+    .placeholder = (Na íyo sivɨ ñɨvɨ)
 login-item-copy-username-button-text = Tɨɨn
 login-item-copied-username-button-text = Ntɨɨn
 login-item-password-label = Contraseña

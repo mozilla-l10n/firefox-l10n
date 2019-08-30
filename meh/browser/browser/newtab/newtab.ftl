@@ -25,6 +25,7 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-search-engine-header = Chisó ka̱a̱ nánuku
 newtab-topsites-add-topsites-header = Daa sitio xinañu´u
+newtab-topsites-title-label = Título
 newtab-topsites-url-label = URL
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.

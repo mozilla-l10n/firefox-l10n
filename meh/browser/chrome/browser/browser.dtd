@@ -148,6 +148,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Kutuvi sɨ´ɨ">
 
 <!ENTITY searchItem.title             "Nánuku">
@@ -242,7 +243,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Tuvi kuaiyo sɨ´ɨ">
-<!ENTITY appMenuHelp.label "Chineí">
+<!ENTITY appMenuHelp.label "Chinei">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -529,9 +530,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-
 
 
 <!-- Strings for connection state warnings. -->
@@ -548,6 +546,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+
 
 
 <!-- LOCALIZATION NOTE:

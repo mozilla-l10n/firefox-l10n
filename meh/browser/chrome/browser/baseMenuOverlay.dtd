@@ -8,11 +8,11 @@
 <!ENTITY zoomWindow.label         "Nasa´a ka´nu/Nasa´a luli">
 <!ENTITY windowMenu.label         "ventana">
 
-<!ENTITY helpMenu.label           "chineii"> 
+<!ENTITY helpMenu.label           "Chinei"> 
 <!ENTITY helpMenu.accesskey       "H"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "chineii"> 
+<!ENTITY helpMenuWin.label        "Chinei"> 
 <!ENTITY helpMenuWin.accesskey    "H">
 <!ENTITY aboutProduct2.label      "Jie'e &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "J">
