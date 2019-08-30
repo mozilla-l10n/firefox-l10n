@@ -14,6 +14,16 @@ about-config-pref-edit = සැකසුම්
 about-config-pref-save = සුරකින්න
 about-config-pref-reset = යළි සැකසුම
 about-config-pref-delete = මකන්න
+about-config-pref-add-button =
+    .title = එකතු
+about-config-pref-edit-button =
+    .title = සැකසුම්
+about-config-pref-save-button =
+    .title = සුරකින්න
+about-config-pref-reset-button =
+    .title = යළි සැකසුම
+about-config-pref-delete-button =
+    .title = මකන්න
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
