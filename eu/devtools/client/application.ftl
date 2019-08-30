@@ -75,3 +75,11 @@ manifest-item-warnings = Erroreak eta abisuak
 manifest-item-presentation = Aurkezpena
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = Ikonoak
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Abisu-ikonoa
+    .title = Abisua
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Errore-ikonoa
+    .title = Errorea

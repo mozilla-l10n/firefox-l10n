@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Aukerak
        *[other] Hobespenak
     }
-menu-menuitem-feedback = Bidali iritzia
-menu-menuitem-faq = Ohiko galderak
+about-logins-menu-menuitem-help = Laguntza
 menu-menuitem-android-app = Androiderako { -lockwise-brand-short-name }
 menu-menuitem-iphone-app = iPhone ta iPad-erako { -lockwise-brand-short-name }
 
@@ -57,6 +56,8 @@ login-list-last-changed-option = Azken aldaketa
 login-list-last-used-option = Azkenekoz erabilia
 login-list-intro-title = Ez da saio-hasierarik aurkitu
 login-list-intro-description = { -brand-product-name }(e)n pasahitza gordetzean, hemen agertuko da.
+about-logins-login-list-empty-search-title = Ez da saio-hasierarik aurkitu
+about-logins-login-list-empty-search-description = Ez dago zure bilaketarekin bat datorren emaitzarik.
 login-list-item-title-new-login = Saio-hasiera berria
 login-list-item-subtitle-new-login = Idatzi zure saio-hasierako kredentzialak
 login-list-item-subtitle-missing-username = (erabiltzaile-izenik ez)
@@ -67,7 +68,7 @@ login-intro-heading = Gordetako saio-hasieren bila? Konfiguratu { -sync-brand-sh
 login-intro-description = Saio-hasierarik gorde baduzu beste gailu bateko { -brand-product-name }(e)n, jarraian dituzu hauek hemen eskuratzeko urratsak:
 login-intro-instruction-fxa = Sortu edo hasi saioa zure { -fxaccount-brand-name } kontuan saio-hasierak gordeta dituzun gailuan
 login-intro-instruction-fxa-settings = Ziurtatu 'Saio-hasierak' kontrol-laukia hautatu duzula { -sync-brand-short-name } ezarpenetan
-login-intro-instruction-faq = Laguntza gehiago jasotzeko, bisitatu { -lockwise-brand-short-name } aplikazioaren <a data-l10n-name="faq">ohiko galderak</a>
+about-logins-intro-instruction-help = Laguntza jasotzeko, bisitatu <a data-l10n-name="help-link">{ -lockwise-brand-short-name } laguntza</a>
 
 ## Login
 
@@ -77,10 +78,11 @@ login-item-delete-button = Ezabatu
 login-item-origin-label = Webgunearen helbidea
 login-item-origin =
     .placeholder = https://www.adibidea.eus
-login-item-open-site-button = Abiarazi
 login-item-username-label = Erabiltzaile-izena
 login-item-username =
     .placeholder = izena@adibidea.eus
+about-logins-login-item-username =
+    .placeholder = (erabiltzaile-izenik ez)
 login-item-copy-username-button-text = Kopiatu
 login-item-copied-username-button-text = Kopiatuta!
 login-item-password-label = Pasahitza

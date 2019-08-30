@@ -6,6 +6,7 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = Argibide gehiago
+accessibility-keyboard-header = Teklatua
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -25,9 +26,25 @@ accessibility-text-label-issue-figure = Aukerako epigrafeak dituzten irudiak eti
 accessibility-text-label-issue-fieldset = <code>fieldset</code> elementuak etiketatu egin behar dira. <a>Argibide gehiago</a>
 accessibility-text-label-issue-fieldset-legend = Erabili <code>legend</code> elementua <span>fieldset</span> elementuak etiketatzeko. <a>Argibide gehiago</a>
 accessibility-text-label-issue-fieldset-legend2 = Erabili <code>legend</code> elementua <span>fieldset</span> elementua etiketatzeko. <a>Argibide gehiago</a>
+accessibility-text-label-issue-form = Inprimakietako elementuak etiketatu egin behar dira. <a>Argibide gehiago</a>
+accessibility-text-label-issue-form-visible = Inprimakietako elementuetako testu-etiketak ikusteko modukoak izan beharko lirateke. <a>Argibide gehiago</a>
 accessibility-text-label-issue-frame = <code>frame</code> elementuak etiketatu egin behar dira. <a>Argibide gehiago</a>
+accessibility-text-label-issue-glyph = Erabili <code>alt</code> atributua <span>mglyph</span> elementuak etiketatzeko. <a>Argibide gehiago</a>
+accessibility-text-label-issue-heading = Goiburuak etiketatu egin behar dira. <a>Argibide gehiago</a>
+accessibility-text-label-issue-heading-content = Goiburuetako testu-edukiak ikusteko modukoa izan beharko luke. <a>Argibide gehiago</a>
+accessibility-text-label-issue-iframe = Erabili <code>title</code> atributua <span>iframe</span> edukia deskribatzeko. <a>Argibide gehiago</a>
 accessibility-text-label-issue-image = Irudiak dituen edukia etiketatu egin behar da. <a>Argibide gehiago</a>
 accessibility-text-label-issue-interactive = Elementu interaktiboak etiketatu egin behar dira. <a>Argibide gehiago</a>
 accessibility-text-label-issue-optgroup-label = Erabili <code>label</code> atributua <span>optgroup</span> elementuak etiketatzeko. <a>Argibide gehiago</a>
 accessibility-text-label-issue-optgroup-label2 = Erabili <code>label</code> atributua <span>optgroup</span> elementua etiketatzeko. <a>Argibide gehiago</a>
 accessibility-text-label-issue-toolbar = Tresna-barra bat baino gehiago dagoenean, etiketatu egin behar dira. <a>Argibide gehiago</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
+accessibility-keyboard-issue-semantics = Fokua har dezaketen elementuek esanahi interaktiboa izan beharko lukete. <a>Argibide gehiago</a>
+accessibility-keyboard-issue-tabindex = Saiatu ez erabiltzen zero baino handiagoa den balioa <code>tabindex</code> atributurako. <a>Argibide gehiago</a>
+accessibility-keyboard-issue-action = Elementu interaktiboak teklatua erabiliz aktibatzeko modukoak izan behar dute. <a>Argibide gehiago</a>
+accessibility-keyboard-issue-focusable = Elementu interaktiboak fokua hartzeko gai izan behar dira. <a>Argibide gehiago</a>
+accessibility-keyboard-issue-focus-visible = Fokua har dezakeen elementuak agian fokuaren estiloa falta du. <a>Argibide gehiago</a>

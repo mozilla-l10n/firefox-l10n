@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Kudeatu DRM softwarearen erabilpena">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Ireki MIDI panela">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Baimen bereziak eman dizkiozu webgune honi.">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Kamera blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Mikrofonoa blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Pantaila partekatzea blokeatuta daukazu webgune honetarako.">
@@ -813,10 +815,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Konexioa">
 <!ENTITY identity.connectionSecure "Konexio segurua">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Konexioaren segurtasuna">
-
 <!ENTITY identity.connectionSecure2 "Konexio segurua">
 <!ENTITY identity.connectionNotSecure "Konexioa ez da segurua">
 <!ENTITY identity.connectionNotSecureSecurityView "Ez zaude modu seguruan konektatuta gune honetara.">
@@ -866,6 +864,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Baimenen multzoa">
+
+<!ENTITY identity.permissions3 "Baimenak">
 <!ENTITY identity.permissionsEmpty "Ez diozu gune honi baimen berezirik eman.">
 <!ENTITY identity.permissionsReloadHint "Agian orria berritu beharko duzu aldaketek eragina izan dezaten.">
 <!ENTITY identity.permissionsPreferences.tooltip "Ireki baimenen hobespenak">
@@ -879,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "Jarraipenaren babes hobetuari buruzko informazio gehiago">
 <!ENTITY protections.settings.label "Babesaren ezarpenak">
 <!ENTITY protections.report.label "Erakutsi txosten osoa">
+<!ENTITY protections.showreport.label "Erakutsi txostena">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -898,12 +899,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Gunea oraindik apurtuta dago babesak desaktibatu ondoren?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Bidali txostena">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Blokeatuta">
 <!ENTITY protections.notBlocking2.label "Baimenduta">
+<!ENTITY protections.notFound.label "Ez da bat ere antzeman">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Zergatik?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Hauek blokeatuz gero, zenbait webgunetako elementuak apur litezke. Jarraipen-elementurik gabe, baliteke zenbait botoi, inprimaki eta saio-hasiera eremu ez ibiltzea.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Babesak desaktibatuz gero, jarraipen-elementu guztiak onartuko dira gune honetan. Webgunearen zenbait eginbide hobe litzake halaber.">
-<!ENTITY protections.notFound.label "Ez da bat ere antzeman">
 <!ENTITY protections.socialMediaTrackers.label "Sare sozialetako jarraipen-elementuak">
 <!ENTITY protections.crossSiteTrackingCookies.label "Guneen arteko cookie jarraipen-egileak">
 <!ENTITY protections.trackingContent.label "Edukiaren jarraipena">
@@ -961,7 +971,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "K">
 
 <!ENTITY contentBlocking.trackersView.label "Jarraipen-elementuak">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Jarraipen-elementu guztiak blokeatzeko, ezarri eduki-blokeo zorrotza.">
 
 <!ENTITY contentBlocking.cookies.label "Cookieak">
