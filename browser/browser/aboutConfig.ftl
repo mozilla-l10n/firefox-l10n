@@ -7,7 +7,6 @@ about-config-warning-title = Cymrwch ofal - dreigiau peryglus!
 about-config-warning-text = Gall newid y gosodiadau uwch hyn wneud niwed i sefydlogrwydd, diogelwch a pherfformiad y rhaglen. Dylech barhau dim ond os ydych yn gwybod beth rydych yn ei wneud.
 about-config-warning-checkbox = Blinwch fi eto, os gwelwch chi'n dda!
 about-config-warning-button = Rwy'n deall y peryglon
-about-config-title = about:config
 about-config2-title = Ffurfweddiadau Uwch
 about-config-search-input =
     .placeholder = Chwilio
@@ -18,6 +17,18 @@ about-config-pref-edit = Golygu
 about-config-pref-save = Cadw
 about-config-pref-reset = Ailosod
 about-config-pref-delete = Dileu
+about-config-pref-add-button =
+    .title = Ychwanegu
+about-config-pref-toggle-button =
+    .title = Newid
+about-config-pref-edit-button =
+    .title = Golygu
+about-config-pref-save-button =
+    .title = Cadw
+about-config-pref-reset-button =
+    .title = Ailosod
+about-config-pref-delete-button =
+    .title = Dileu
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
