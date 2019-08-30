@@ -86,7 +86,7 @@ login-item-username-label = Nome utente
 login-item-username =
   .placeholder = nome@example.com
 about-logins-login-item-username =
-  .placeholder = (nessun nome utente)  
+  .placeholder = (nessun nome utente)
 login-item-copy-username-button-text = Copia
 login-item-copied-username-button-text = Copiato.
 login-item-password-label = Password
@@ -142,3 +142,14 @@ breach-alert-text = Dall’ultima volta in cui hai aggiornato questa credenziale
 breach-alert-link = Ulteriori informazioni su questa violazione.
 breach-alert-dismiss =
     .title = Chiudi questo avviso
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = È già presente un elemento per { $loginTitle } con lo stesso nome utente.
+
+# This is a generic error message.
+about-logins-error-message-default = Si è verificato un errore durante il salvataggio della password.
