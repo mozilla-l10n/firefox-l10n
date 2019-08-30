@@ -723,6 +723,7 @@ addressbar-suggestions-settings = Change preferences for search engine suggestio
 content-blocking-header = Content Blocking
 content-blocking-enhanced-tracking-protection = Enhanced Tracking Protection
 content-blocking-section-description = Protect your privacy while you browse. Block invisible content that tracks the sites you visit and profiles you. Blocking some of this content may make pages load faster.
+content-blocking-section-top-level-description = Trackers follow you around online to collect information about your browsing habits and interests. { -brand-short-name } blocks many of these trackers and other malicious scripts.
 content-blocking-learn-more = Learn more
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
