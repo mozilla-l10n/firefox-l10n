@@ -87,3 +87,11 @@ manifest-loaded-ok = Manifest laddat.
 manifest-loaded-error = Det uppstod ett fel när man laddade manifestet:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Inget manifest hittades för att inspektera.
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Varningsikon
+    .title = Varning
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Felikon
+    .title = Fel
