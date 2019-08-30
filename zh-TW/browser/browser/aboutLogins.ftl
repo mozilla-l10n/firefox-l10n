@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] 選項
        *[other] 偏好設定
     }
-menu-menuitem-feedback = 傳送意見回饋
-menu-menuitem-faq = 常見問題
+about-logins-menu-menuitem-help = 說明
 menu-menuitem-android-app = { -lockwise-brand-short-name } for Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } for iPhone and iPad
 
@@ -66,7 +65,6 @@ login-intro-heading = 在找您儲存的登入資訊嗎？請設定 { -sync-bran
 login-intro-description = 若您在其他裝置上儲存登入資訊到 { -brand-product-name } 過，請參考下列步驟，即可在此裝置使用:
 login-intro-instruction-fxa = 在您儲存登入資訊的裝置，註冊或登入 { -fxaccount-brand-name }
 login-intro-instruction-fxa-settings = 確定在 { -sync-brand-short-name } 設定中勾選了「登入資訊」選取盒
-login-intro-instruction-faq = 若有更多問題，可參考 { -lockwise-brand-short-name } <a data-l10n-name="faq">常見問題</a>
 
 ## Login
 
