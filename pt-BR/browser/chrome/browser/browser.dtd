@@ -250,6 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gerenciar o uso do software DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Abrir o painel MIDI">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Você bloqueou sua câmera neste site.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Você bloqueou seu microfone neste site.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Você bloqueou o compartilhamento de tela neste site.">
@@ -813,10 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Conexão">
 <!ENTITY identity.connectionSecure "Conexão segura">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Segurança da conexão">
-
 <!ENTITY identity.connectionSecure2 "Conexão segura">
 <!ENTITY identity.connectionNotSecure "Conexão não é segura">
 <!ENTITY identity.connectionNotSecureSecurityView "Você não está conectado com segurança a este site.">
@@ -866,6 +863,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Permissões definidas">
+
+<!ENTITY identity.permissions3 "Permissões">
 <!ENTITY identity.permissionsEmpty "Você não concedeu permissões especiais a este site.">
 <!ENTITY identity.permissionsReloadHint "Pode ser necessário recarregar a página para que as alterações sejam aplicadas.">
 <!ENTITY identity.permissionsPreferences.tooltip "Abrir preferências de permissões">
@@ -898,12 +897,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Site ainda com problemas após desativar proteções?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Enviar um relato">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Bloqueado">
 <!ENTITY protections.notBlocking2.label "Permitido">
+<!ENTITY protections.notFound.label "Nenhum detectado">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Por que?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Bloquear isso pode interferir em elementos em alguns sites. Sem rastreadores, alguns botões, formulários e campos de acesso a contas podem não funcionar.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Desativar proteções dará permissão a todos os rastreadores neste site. Também pode melhorar algumas funcionalidades do site.">
-<!ENTITY protections.notFound.label "Nenhum detectado">
 <!ENTITY protections.socialMediaTrackers.label "Rastreadores de mídias sociais">
 <!ENTITY protections.crossSiteTrackingCookies.label "Cookies de rastreamento entre sites">
 <!ENTITY protections.trackingContent.label "Conteúdo de rastreamento">
@@ -961,7 +969,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
 
 <!ENTITY contentBlocking.trackersView.label "Rastreadores">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Para bloquear todos os rastreadores, defina o bloqueio de conteúdo como “Rigoroso”.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
