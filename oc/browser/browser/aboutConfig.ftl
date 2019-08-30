@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-config-warning-button = Preni lo risc
-about-config-title = about:config
 about-config-search-input =
     .placeholder = Recercar
 about-config-pref-add = Apondre
@@ -11,6 +10,16 @@ about-config-pref-edit = Modificar
 about-config-pref-save = Enregistrar
 about-config-pref-reset = Reïnicializar
 about-config-pref-delete = Suprimir
+about-config-pref-add-button =
+    .title = Apondre
+about-config-pref-edit-button =
+    .title = Modificar
+about-config-pref-save-button =
+    .title = Enregistrar
+about-config-pref-reset-button =
+    .title = Reïnicializar
+about-config-pref-delete-button =
+    .title = Suprimir
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
