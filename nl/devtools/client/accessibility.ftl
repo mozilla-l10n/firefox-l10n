@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Meer info
 accessibility-text-label-header = Tekstlabels en -namen
+accessibility-keyboard-header = Toetsenbord
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -41,3 +42,13 @@ accessibility-text-label-issue-interactive = Interactieve elementen moeten worde
 accessibility-text-label-issue-optgroup-label = Gebruik het attribuut <code>label</code> om <span>optgroup</span>-elementen te labelen. <a>Meer info</a>
 accessibility-text-label-issue-optgroup-label2 = Gebruik een attribuut <code>label</code> om een <span>optgroup</span> te labelen. <a>Meer info</a>
 accessibility-text-label-issue-toolbar = Werkbalken moeten worden gelabeld als er meer dan een werkbalk is. <a>Meer info</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
+accessibility-keyboard-issue-semantics = Focusbare elementen moeten interactieve semantiek hebben. <a>Meer info</a>
+accessibility-keyboard-issue-tabindex = Vermijd het gebruik van een <code>tabindex</code>-attribuut groter dan nul. <a>Meer info</a>
+accessibility-keyboard-issue-action = Interactieve elementen moeten geactiveerd kunnen worden met behulp van een toetsenbord. <a>Meer info</a>
+accessibility-keyboard-issue-focusable = Interactieve elementen moeten een focus kunnen krijgen. <a>Meer info</a>
+accessibility-keyboard-issue-focus-visible = Een element die een focus kan krijgen mist mogelijk de focusstijl. <a>Meer info</a>
