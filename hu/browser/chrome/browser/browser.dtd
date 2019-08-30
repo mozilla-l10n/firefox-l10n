@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM-es szoftver használatának kezelése">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI panel megnyitása">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "További engedélyeket adott ennek az oldalnak.">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Blokkolta a kamerát ezen az oldalon.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Blokkolta a mikrofont ezen az oldalon.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Blokkolta a képernyőmegosztást ezen az oldalon.">
@@ -813,10 +815,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Kapcsolat">
 <!ENTITY identity.connectionSecure "Biztonságos kapcsolat">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Kapcsolat biztonsága">
-
 <!ENTITY identity.connectionSecure2 "A kapcsolat biztonságos">
 <!ENTITY identity.connectionNotSecure "A kapcsolat nem biztonságos">
 <!ENTITY identity.connectionNotSecureSecurityView "Nem biztonságosan kapcsolódik ehhez az oldalhoz.">
@@ -866,6 +864,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Beállított engedélyek">
+
+<!ENTITY identity.permissions3 "Engedélyek">
 <!ENTITY identity.permissionsEmpty "Nem adott speciális engedélyeket ennek az oldalnak.">
 <!ENTITY identity.permissionsReloadHint "Lehet hogy újra kell töltenie az oldalt a változások érvényesítéséhez.">
 <!ENTITY identity.permissionsPreferences.tooltip "Engedélybeállítások megnyitása">
@@ -879,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "További információk a továbbfejlesztett követés elleni védelemről">
 <!ENTITY protections.settings.label "Védelmi beállítások">
 <!ENTITY protections.report.label "Teljes jelentés megjelenítése">
+<!ENTITY protections.showreport.label "Jelentés megjelenítése">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -898,12 +899,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "A webhely a védelem kikapcsolása után is hibás?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Jelentés küldése">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Blokkolva">
 <!ENTITY protections.notBlocking2.label "Engedélyezve">
+<!ENTITY protections.notFound.label "Nincs észlelve">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Miért?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Ezek blokkolása egyes webhelyek elemeinek hibáit okozhatja. A nyomkövetők nélkül egyes gombok, űrlapok és bejelentkezési mezők lehet, hogy nem fognak működni.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "A védelem kikapcsolása engedélyezi az összes nyomkövetőt ezen a webhelyen. Ez javíthatja a weboldal egyes funkcióit.">
-<!ENTITY protections.notFound.label "Nincs észlelve">
 <!ENTITY protections.socialMediaTrackers.label "Közösségimédia-követők">
 <!ENTITY protections.crossSiteTrackingCookies.label "Webhelyek közötti nyomkövető sütik">
 <!ENTITY protections.trackingContent.label "Nyomkövető tartalom">
@@ -961,7 +971,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "T">
 
 <!ENTITY contentBlocking.trackersView.label "Követők">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Az összes követő blokkolásához állítson be „Szigorú” tartalomblokkolást.">
 
 <!ENTITY contentBlocking.cookies.label "Sütik">

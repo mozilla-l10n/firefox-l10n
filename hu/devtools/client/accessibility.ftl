@@ -7,6 +7,7 @@
 
 accessibility-learn-more = További tudnivalók
 accessibility-text-label-header = Szövegcímkék és nevek
+accessibility-keyboard-header = Billentyűzet
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -41,3 +42,12 @@ accessibility-text-label-issue-interactive = Az interaktív elemeket címkézni 
 accessibility-text-label-issue-optgroup-label = Használja a <code>label</code> attribútumot az <span>optgroup</span> elemek címkézéséhez. <a>További tudnivalók</a>
 accessibility-text-label-issue-optgroup-label2 = Használja a <code>label</code> elemet, hogy címkét adjon a <span>optgroup</span> elemnek. <a>További tudnivalók</a>
 accessibility-text-label-issue-toolbar = Az eszköztárakat címkézni kell, ha egynél több is van. <a>További tudnivalók</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
+accessibility-keyboard-issue-tabindex = Kerülje a nullánál nagyobb <code>tabindex</code> attribútum használatát. <a>További tudnivalók</a>
+accessibility-keyboard-issue-action = Az interaktív elemeknek billentyűzettel aktiválhatónak kell lenniük. <a>További tudnivalók</a>
+accessibility-keyboard-issue-focusable = Az interaktív elemeknek fókuszálhatóknak kell lenniük. <a>További tudnivalók</a>
+accessibility-keyboard-issue-focus-visible = Lehet, hogy a fókuszálható elemről hiányzik a fókuszstílus. <a>További tudnivalók</a>

@@ -723,6 +723,7 @@ addressbar-suggestions-settings = Keresőszolgáltatás-javaslatok beállítása
 content-blocking-header = Tartalomblokkolás
 content-blocking-enhanced-tracking-protection = Továbbfejlesztett követés elleni védelem
 content-blocking-section-description = Védje meg a magánszféráját böngészés közben. Blokkolja a láthatatlan tartalmakat, melyek követik, hogy mely oldalakat látogat, és profilt építenek Önről. Egyes tartalmak blokkolása a weboldalak gyorsabb betöltését is eredményezheti.
+content-blocking-section-top-level-description = A nyomkövetők követik Önt online, és információkat gyűjtenek a böngészési szokásairól és érdeklődési köreiről. A { -brand-short-name } számos ilyen követőt és rosszindulatú parancsfájlt blokkol.
 content-blocking-learn-more = További tudnivalók
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
