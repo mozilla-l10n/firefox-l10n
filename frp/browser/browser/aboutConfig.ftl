@@ -6,7 +6,6 @@
 about-config-warning-title = Iqui demôront los dragons
 about-config-warning-checkbox = Me rapèlar la prochèna vês, mèrci!
 about-config-warning-button = Accèpto lo risco
-about-config-title = about:config
 about-config-search-input =
     .placeholder = Chèrchér
 about-config-show-all = Tot montrar
@@ -16,6 +15,18 @@ about-config-pref-edit = Èditar
 about-config-pref-save = Sârvar
 about-config-pref-reset = Recomenciér
 about-config-pref-delete = Garar
+about-config-pref-add-button =
+    .title = Apondre
+about-config-pref-toggle-button =
+    .title = Envèrsar
+about-config-pref-edit-button =
+    .title = Èditar
+about-config-pref-save-button =
+    .title = Sârvar
+about-config-pref-reset-button =
+    .title = Recomenciér
+about-config-pref-delete-button =
+    .title = Garar
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
