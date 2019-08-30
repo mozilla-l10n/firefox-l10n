@@ -7,7 +7,6 @@ about-config-warning-title = Tu sú draci!
 about-config-warning-text = Zmena týchto pokročilých nastavení môže nepriaznivo ovplyvniť stabilitu, bezpečnosť a výkon tejto aplikácie. Pokračovať by ste mali len v prípade, že viete, čo robíte.
 about-config-warning-checkbox = Upozorniť ma aj nabudúce
 about-config-warning-button = Rozumiem riziku
-about-config-title = about:config
 about-config2-title = Pokročilé nastavenia
 about-config-search-input =
     .placeholder = Hľadať
@@ -18,6 +17,18 @@ about-config-pref-edit = Upraviť
 about-config-pref-save = Uložiť
 about-config-pref-reset = Obnoviť
 about-config-pref-delete = Odstrániť
+about-config-pref-add-button =
+    .title = Pridať
+about-config-pref-toggle-button =
+    .title = Prepnúť
+about-config-pref-edit-button =
+    .title = Upraviť
+about-config-pref-save-button =
+    .title = Uložiť
+about-config-pref-reset-button =
+    .title = Obnoviť
+about-config-pref-delete-button =
+    .title = Odstrániť
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
