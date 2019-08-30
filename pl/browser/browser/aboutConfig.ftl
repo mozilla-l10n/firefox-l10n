@@ -7,7 +7,6 @@ about-config-warning-title = Uwaga, niebezpieczeństwo!
 about-config-warning-text = Modyfikacja tych ustawień może spowodować problemy, takie jak utrata stabilności i wydajności programu oraz zagrożenie bezpieczeństwa. Kontynuuj tylko wtedy, gdy masz pewność tego, co robisz.
 about-config-warning-checkbox = Wyświetlanie tego ostrzeżenia za każdym razem
 about-config-warning-button = Akceptuję ryzyko
-about-config-title = about:config
 about-config2-title = Konfiguracja zaawansowana
 about-config-search-input =
     .placeholder = Szukaj
@@ -18,6 +17,18 @@ about-config-pref-edit = Edytuj
 about-config-pref-save = Zapisz
 about-config-pref-reset = Resetuj
 about-config-pref-delete = Usuń
+about-config-pref-add-button =
+    .title = Dodaj
+about-config-pref-toggle-button =
+    .title = Przełącz
+about-config-pref-edit-button =
+    .title = Edytuj
+about-config-pref-save-button =
+    .title = Zapisz
+about-config-pref-reset-button =
+    .title = Resetuj
+about-config-pref-delete-button =
+    .title = Usuń
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
