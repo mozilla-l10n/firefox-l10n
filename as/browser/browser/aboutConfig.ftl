@@ -13,6 +13,18 @@ about-config-pref-edit = সম্পাদন কৰক
 about-config-pref-save = সঞ্চয় কৰক
 about-config-pref-reset = পুনঃছেট কৰক
 about-config-pref-delete = বিলোপ কৰক
+about-config-pref-add-button =
+    .title = যোগ কৰক
+about-config-pref-toggle-button =
+    .title = ট'গল কৰক
+about-config-pref-edit-button =
+    .title = সম্পাদন কৰক
+about-config-pref-save-button =
+    .title = সঞ্চয় কৰক
+about-config-pref-reset-button =
+    .title = পুনঃছেট কৰক
+about-config-pref-delete-button =
+    .title = বিলোপ কৰক
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
