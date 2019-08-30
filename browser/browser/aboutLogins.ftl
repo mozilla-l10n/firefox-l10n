@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Možnosti
        *[other] Možnosti
     }
-menu-menuitem-feedback = Odoslať spätnú väzbu
-menu-menuitem-faq = Často kladené otázky
+about-logins-menu-menuitem-help = Pomocník
 menu-menuitem-android-app = { -lockwise-brand-short-name } pre Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } pre iPhone a iPad
 
@@ -58,6 +57,8 @@ login-list-last-changed-option = poslednej úpravy
 login-list-last-used-option = posledného použitia
 login-list-intro-title = Nenašli sa žiadne prihlasovacie údaje
 login-list-intro-description = Tu sa zobrazia prihlasovacie údaje uložené v aplikácii { -brand-product-name }.
+about-logins-login-list-empty-search-title = Nenašli sa žiadne prihlasovacie údaje
+about-logins-login-list-empty-search-description = Vášmu vyhľadávaniu nezodpovedajú žiadne výsledky.
 login-list-item-title-new-login = Nové prihlasovacie údaje
 login-list-item-subtitle-new-login = Zadajte svoje prihlasovacie údaje
 login-list-item-subtitle-missing-username = (žiadne používateľské meno)
@@ -74,10 +75,11 @@ login-item-delete-button = Odstrániť
 login-item-origin-label = Adresa webovej stránky
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Otvoriť
 login-item-username-label = Používateľské meno
 login-item-username =
     .placeholder = name@example.com
+about-logins-login-item-username =
+    .placeholder = (žiadne používateľské meno)
 login-item-copy-username-button-text = Kopírovať
 login-item-copied-username-button-text = Skopírované!
 login-item-password-label = Heslo
@@ -109,6 +111,9 @@ confirmation-dialog-dismiss-button =
 confirm-delete-dialog-title = Odstrániť tieto prihlasovacie údaje?
 confirm-delete-dialog-message = Túto akciu nie je možné vrátiť späť.
 confirm-delete-dialog-confirm-button = Odstrániť
+confirm-discard-changes-dialog-title = Chcete zahodiť neuložené zmeny?
+confirm-discard-changes-dialog-message = Všetky neuložené zmeny budú stratené.
+confirm-discard-changes-dialog-confirm-button = Zahodiť
 
 ## Breach Alert notification
 

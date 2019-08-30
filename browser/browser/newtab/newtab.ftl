@@ -116,6 +116,7 @@ newtab-menu-open-file = Otvoriť súbor
 
 newtab-label-visited = Navštívené
 newtab-label-bookmarked = V záložkách
+newtab-label-removed-bookmark = Záložka bola odstránená
 newtab-label-recommended = Trendy
 newtab-label-saved = Uložené do služby { -pocket-brand-name }
 newtab-label-download = Prevzaté
