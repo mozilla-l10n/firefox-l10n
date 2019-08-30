@@ -7,7 +7,6 @@ about-config-warning-title = এখানে ড্রাগন হতে হব
 about-config-warning-text = উচ্চ পর্যায়ের এই সেটিংসমূহ পরিবর্তনের ফলে অ্যাপ্লিকেশনের স্থায়ীত্ব, নিরাপত্তা ও কার্যকারিতা প্রভাবিত হতে পারে। আপনি সম্পূর্ণভাবে নিশ্চিত হলে তবেই এগিয়ে যান।
 about-config-warning-checkbox = অনুগ্রহ করে, আমাকে আবার বিরক্ত কর!
 about-config-warning-button = আমি ঝুঁকি গ্রহণ করলাম
-about-config-title = about:config
 about-config2-title = উন্নত কনফিগারেশন
 about-config-search-input =
     .placeholder = অনুসন্ধান করুন
@@ -18,6 +17,18 @@ about-config-pref-edit = সম্পাদনা
 about-config-pref-save = সংরক্ষণ
 about-config-pref-reset = রিসেট
 about-config-pref-delete = অপসারণ
+about-config-pref-add-button =
+    .title = যোগ
+about-config-pref-toggle-button =
+    .title = টগল
+about-config-pref-edit-button =
+    .title = সম্পাদনা
+about-config-pref-save-button =
+    .title = সংরক্ষণ
+about-config-pref-reset-button =
+    .title = রিসেট
+about-config-pref-delete-button =
+    .title = অপসারণ
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
