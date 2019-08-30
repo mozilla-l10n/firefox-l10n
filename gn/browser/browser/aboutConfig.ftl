@@ -26,9 +26,9 @@ about-config-pref-edit-button =
 about-config-pref-save-button =
     .title = Ñongatu
 about-config-pref-reset-button =
-    .title = Mbojevyjey
+    .title = Ñepyrũjey
 about-config-pref-delete-button =
-    .title = Mboguete
+    .title = Mbogue
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
