@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Nastajenja
        *[other] Nastajenja
     }
-menu-menuitem-feedback = Komentar pósłać
-menu-menuitem-faq = Huste prašenja
+about-logins-menu-menuitem-help = Pomoc
 menu-menuitem-android-app = { -lockwise-brand-short-name } za Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } za iPhone a iPad
 
@@ -59,6 +58,8 @@ login-list-last-changed-option = Poslednjej změnje
 login-list-last-used-option = Poslednim wužiću
 login-list-intro-title = Žane přizjewjenja namakane
 login-list-intro-description = Hdyž hesło w { -brand-product-name } składujeće, wono so tu pokaza.
+about-logins-login-list-empty-search-title = Žane přizjewjenja namakane
+about-logins-login-list-empty-search-description = Njejsu žane wuslědki, kotrež wašemu pytanju wotpowěduja.
 login-list-item-title-new-login = Nowe přizjewjenje
 login-list-item-subtitle-new-login = Zapodajće swoje přizjewjenske daty
 login-list-item-subtitle-missing-username = (žane wužiwarske mjeno)
@@ -69,7 +70,7 @@ login-intro-heading = Pytaće swoje składowane přizjewjenja? Konfigurujće { -
 login-intro-description = Jeli sće swoje přizjewjenja { -brand-product-name } na druhim graće składował, tak móžeće je sem přinjesć:
 login-intro-instruction-fxa = Załožće abo přizjewće so pola swojeho { -fxaccount-brand-name } na graće, hdźež waše přizjewjenja su składowane
 login-intro-instruction-fxa-settings = Přeswědčće so, zo sće kontrolny kašćik přizjewjenjow w nastajenjach { -sync-brand-short-name } wubrał
-login-intro-instruction-faq = Čitajće { -lockwise-brand-short-name } <a data-l10n-name="faq">huste prašenja</a> za wjace pomocy
+about-logins-intro-instruction-help = Wopytajće <a data-l10n-name="help-link">pomoc { -lockwise-brand-short-name }</a> za wjace pomocy
 
 ## Login
 
@@ -79,10 +80,11 @@ login-item-delete-button = Zhašeć
 login-item-origin-label = Adresa websydła
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Startować
 login-item-username-label = Wužiwarske mjeno
 login-item-username =
     .placeholder = name@example.com
+about-logins-login-item-username =
+    .placeholder = (žane wužiwarske mjeno)
 login-item-copy-username-button-text = Kopěrować
 login-item-copied-username-button-text = Kopěrowane!
 login-item-password-label = Hesło
