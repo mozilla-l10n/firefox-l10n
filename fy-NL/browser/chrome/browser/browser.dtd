@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gebrûk fan DRM-software beheare">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI-paniel iepenje">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Jo hawwe dizze website oanfoljende spesjale tastimmingen jûn.">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Jo hawwe jo kamera foar dizze website blokkearre.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Jo hawwe jo mikrofoan foar dizze website blokkearre.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Jo hawwe jo it dielen fan jo skerm foar dizze website blokkearre.">
@@ -813,10 +815,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Ferbining">
 <!ENTITY identity.connectionSecure "Befeilige ferbining">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Ferbiningsbefeiliging">
-
 <!ENTITY identity.connectionSecure2 "Ferbining feilich">
 <!ENTITY identity.connectionNotSecure "Ferbining is net befeilige">
 <!ENTITY identity.connectionNotSecureSecurityView "Jo hawwe in ûnbefeilige ferbining mei dizze website.">
@@ -866,6 +864,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Tastimmingen ynsteld">
+
+<!ENTITY identity.permissions3 "Tastimmingen">
 <!ENTITY identity.permissionsEmpty "Jo hawwe dizze website gjin spesjale tastimmingen jûn.">
 <!ENTITY identity.permissionsReloadHint "It is mooglik dat jo de side opnij lade moatte om de wizigingen aktyf te meitsjen.">
 <!ENTITY identity.permissionsPreferences.tooltip "Opsjes tastimmingen iepenje">
@@ -879,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "Mear ynformaasje oer Ferbettere beskerming tsjin folgjen">
 <!ENTITY protections.settings.label "Beskermingsynstellingen">
 <!ENTITY protections.report.label "Folslein rapport toane">
+<!ENTITY protections.showreport.label "Rapport toane">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -898,12 +899,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Wurket de website nei útskeakeljen beskermingen noch hieltyd net?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Rapport ferstjoere">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Blokkearre">
 <!ENTITY protections.notBlocking2.label "Tastien">
+<!ENTITY protections.notFound.label "Gjin detektearre">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Wêrom?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Troch dizze te blokkearjen wurkje eleminten fan guon websites mooglik net. Sûnder trackers wurkje guon knoppen, formulieren en oanmeldfjilden mooglik net.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Troch beskermingen út te skeakeljen wurde alle trackers op dizze website tastien. It kin ek de funksjonaliteit fan de website ferbetterje.">
-<!ENTITY protections.notFound.label "Gjin detektearre">
 <!ENTITY protections.socialMediaTrackers.label "Sosjale-mediatrackers">
 <!ENTITY protections.crossSiteTrackingCookies.label "Cross-site-trackingcookies">
 <!ENTITY protections.trackingContent.label "Folchynhâld">
@@ -961,7 +971,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "Y">
 
 <!ENTITY contentBlocking.trackersView.label "Trackers">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Stel ynhâldsblokkearring yn op ‘Strang’ om alle trackers te blokkearjen.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
