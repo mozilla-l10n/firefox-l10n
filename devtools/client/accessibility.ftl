@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Learn more
 accessibility-text-label-header = Text Labels and Names
+accessibility-keyboard-header = Keyboard
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -28,6 +29,7 @@ accessibility-text-label-issue-embed = Embedded content must be labelled. <a>Lea
 accessibility-text-label-issue-figure = Figures with optional captions should be labelled. <a>Learn more</a>
 accessibility-text-label-issue-fieldset = <code>fieldset</code> elements must be labelled. <a>Learn more</a>
 accessibility-text-label-issue-fieldset-legend = Use <code>legend</code> element to label <span>fieldset</span> elements. <a>Learn more</a>
+accessibility-text-label-issue-fieldset-legend2 = Use a <code>legend</code> element to label a <span>fieldset</span>. <a>Learn more</a>
 accessibility-text-label-issue-form = Form elements must be labelled. <a>Learn more</a>
 accessibility-text-label-issue-form-visible = Form elements should have a visible text label. <a>Learn more</a>
 accessibility-text-label-issue-frame = <code>frame</code> elements must be labelled. <a>Learn more</a>
@@ -38,4 +40,15 @@ accessibility-text-label-issue-iframe = Use <code>title</code> attribute to desc
 accessibility-text-label-issue-image = Content with images must be labelled. <a>Learn more</a>
 accessibility-text-label-issue-interactive = Interactive elements must be labelled. <a>Learn more</a>
 accessibility-text-label-issue-optgroup-label = Use <code>label</code> attribute to label <span>optgroup</span> elements. <a>Learn more</a>
+accessibility-text-label-issue-optgroup-label2 = Use a <code>label</code> attribute to label an <span>optgroup</span>. <a>Learn more</a>
 accessibility-text-label-issue-toolbar = Toolbars must be labelled when there is more than one toolbar. <a>Learn more</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
+accessibility-keyboard-issue-semantics = Focusable elements should have interactive semantics. <a>Learn more</a>
+accessibility-keyboard-issue-tabindex = Avoid using <code>tabindex</code> attribute greater than zero. <a>Learn more</a>
+accessibility-keyboard-issue-action = Interactive elements must be able to be activated using a keyboard. <a>Learn more</a>
+accessibility-keyboard-issue-focusable = Interactive elements must be focusable. <a>Learn more</a>
+accessibility-keyboard-issue-focus-visible = Focusable element may be missing focus styling. <a>Learn more</a>

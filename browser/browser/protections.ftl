@@ -90,6 +90,27 @@ info-known-breaches =
         [one] Known data breach has exposed your information.
        *[other] Known data breaches have exposed your information.
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords =
+    { $count ->
+        [one] Password exposed across all breaches.
+       *[other] Passwords exposed across all breaches.
+    }
+full-report-link = View full report on <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Saved login may have been exposed in a data breach. Change this password for better online security. <a data-l10n-name="lockwise-link">View Saved Logins</a>
+       *[other] Saved logins may have been exposed in a data breach. Change these passwords for better online security. <a data-l10n-name="lockwise-link">View Saved Logins</a>
+    }
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = Go to Privacy Settings
+# This is the title attribute describing the Lockwise card's link to about:logins
+go-to-saved-logins = Go to Saved Logins
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -98,3 +119,38 @@ info-known-breaches =
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Social Media Trackers
+    .aria-label =
+        { $count ->
+            [one] { $count } social media tracker ({ $percentage }%)
+           *[other] { $count } social media trackers ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Cross-Site Tracking Cookies
+    .aria-label =
+        { $count ->
+            [one] { $count } cross-site tracking cookie ({ $percentage }%)
+           *[other] { $count } cross-site tracking cookies ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Tracking Content
+    .aria-label =
+        { $count ->
+            [one] { $count } tracking content ({ $percentage }%)
+           *[other] { $count } tracking content ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Fingerprinters
+    .aria-label =
+        { $count ->
+            [one] { $count } fingerprinter ({ $percentage }%)
+           *[other] { $count } fingerprinters ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Cryptominers
+    .aria-label =
+        { $count ->
+            [one] { $count } cryptominer ({ $percentage }%)
+           *[other] { $count } cryptominers ({ $percentage }%)
+        }
