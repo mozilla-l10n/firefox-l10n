@@ -17,6 +17,18 @@ about-config-pref-edit = B'an tuche'
 about-config-pref-save = Kola
 about-config-pref-reset = Q'aavisa unpajte
 about-config-pref-delete = Eesa el
+about-config-pref-add-button =
+    .title = Aq'o'ke'
+about-config-pref-toggle-button =
+    .title = Jalpu
+about-config-pref-edit-button =
+    .title = B'an tuche'
+about-config-pref-save-button =
+    .title = Kola
+about-config-pref-reset-button =
+    .title = Q'aavisa unpajte
+about-config-pref-delete-button =
+    .title = Eesa el
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
