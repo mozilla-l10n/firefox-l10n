@@ -250,6 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administrar uso de software DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Abrir panel MIDI">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Bloqueó la cámara para este sitio web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Bloqueó el micrófono para este sitio web.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Bloqueó este sitio web para que no comparta la pantalla.">
@@ -813,10 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Conexión">
 <!ENTITY identity.connectionSecure "Conexión segura">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Seguridad de la conexión">
-
 <!ENTITY identity.connectionSecure2 "Conexión asegurada">
 <!ENTITY identity.connectionNotSecure "Conexión insegura">
 <!ENTITY identity.connectionNotSecureSecurityView "Su conexión a este sitio no es segura.">
@@ -866,6 +863,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Ajuste de permisos">
+
 <!ENTITY identity.permissionsEmpty "No ha dado permisos especiales a este sitio.">
 <!ENTITY identity.permissionsReloadHint "Hay que recargar la página para que se apliquen los cambios.">
 <!ENTITY identity.permissionsPreferences.tooltip "Abrir las preferencias de permisos">
@@ -876,7 +874,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpOFF.header "La protección contra rastreo aumentada ahora está deshabilitada para este sitio">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "Más información sobre la protección de seguimiento aumentada">
+<!ENTITY protections.etpMoreInfo.label "Más información sobre la protección contra rastreo aumentada">
 <!ENTITY protections.settings.label "Configuración de protección">
 <!ENTITY protections.report.label "Mostrar informe completo">
 <!-- LOCALIZATION NOTE:

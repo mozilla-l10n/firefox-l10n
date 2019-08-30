@@ -721,7 +721,7 @@ addressbar-suggestions-settings = Cambiar preferencias para sugerencias de busca
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloqueo de contenido
-content-blocking-enhanced-tracking-protection = Protección de rastreo aumentada
+content-blocking-enhanced-tracking-protection = Protección contra rastreo aumentada
 content-blocking-section-description = Proteja su privacidad al navegar. Bloquee contenido que rastree los sitios visitados y arma perfiles. Bloquear algún contenido puede hacer que las páginas carguen más rápido.
 content-blocking-learn-more = Conocer más
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.

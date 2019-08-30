@@ -26,7 +26,7 @@ protection-header-details-strict = El nivel de protección se establece en <b> E
 protection-header-details-custom = El nivel de protección se establece en <b> Personalizado </b>
 protection-report-page-title = Protecciones de privacidad
 protection-report-content-title = Protecciones de privacidad
-etp-card-title = Protección de rastreo aumentada
+etp-card-title = Protección contra rastreo aumentada
 etp-card-content = Los rastreadores lo siguen en línea para recopilar información sobre sus hábitos e intereses de navegación. { -brand-short-name } bloquea muchos de estos rastreadores y otros scripts maliciosos.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
