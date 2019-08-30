@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM პროგრამის გამოყენების მართვა">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI დაფის გახსნა">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "ამ საიტისთვის დამატებითი უფლებები გაქვთ მინიჭებული.">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "ამ საიტისთვის თქვენი კამერის გამოყენების უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "ამ საიტისთვის თქვენი მიკროფონის გამოყენების უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.screenBlocked.tooltip            "ამ საიტისთვის თქვენი ეკრანის გაზიარების უფლება შეზღუდული გაქვთ.">
@@ -813,10 +815,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "კავშირი">
 <!ENTITY identity.connectionSecure "დაცული კავშირი">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "კავშირის უსაფრთხოება">
-
 <!ENTITY identity.connectionSecure2 "კავშირი დაცულია">
 <!ENTITY identity.connectionNotSecure "კავშირი დაუცველია">
 <!ENTITY identity.connectionNotSecureSecurityView "თქვენი კავშირი ამ საიტთან არაა დაცული.">
@@ -866,6 +864,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "მითითებული უფლებები">
+
+<!ENTITY identity.permissions3 "ნებართვები">
 <!ENTITY identity.permissionsEmpty "ამ საიტისთვის განსაკუთრებული უფლებები არ მიგიციათ.">
 <!ENTITY identity.permissionsReloadHint "ცვლილებების ასამოქმედებლად შესაძლოა გვერდის ხელახლა ჩატვირთვა დაგჭირდეთ.">
 <!ENTITY identity.permissionsPreferences.tooltip "ნებართვების პარამეტრების გახსნა">
@@ -879,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "ვრცლად, თვალთვალისგან გაძლიერებული დაცვის შესახებ">
 <!ENTITY protections.settings.label "უსაფრთხოების პარამეტრები">
 <!ENTITY protections.report.label "სრული ანგარიშის ჩვენება">
+<!ENTITY protections.showreport.label "ანგარიშის ნახვა">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
