@@ -7,7 +7,6 @@ about-config-warning-title = اینجا اژدهاها هستند!
 about-config-warning-text = تغییر این تنظیماتِ پیشرفته، می‌تواند برای پایداری، امنیت، و کارایی این برنامه مضر باشد. تنها در صورتی که از کاری که می‌کنید اطمینان دارید، ادامه دهید.
 about-config-warning-checkbox = دوباره من را آزار دهید، لطفاً!
 about-config-warning-button = خطر را می‌پذیرم
-about-config-title = about:config
 about-config2-title = پیکربندی‌های پیشرفته
 about-config-search-input =
     .placeholder = جستجو
@@ -18,6 +17,18 @@ about-config-pref-edit = ویرایش
 about-config-pref-save = ذخیره
 about-config-pref-reset = بازنشانی
 about-config-pref-delete = حذف
+about-config-pref-add-button =
+    .title = اضافه کردن
+about-config-pref-toggle-button =
+    .title = تغییر وضعیت
+about-config-pref-edit-button =
+    .title = ویرایش
+about-config-pref-save-button =
+    .title = ذخیره
+about-config-pref-reset-button =
+    .title = بازنشانی
+about-config-pref-delete-button =
+    .title = حذف
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
