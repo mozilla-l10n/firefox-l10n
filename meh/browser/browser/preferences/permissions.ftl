@@ -17,18 +17,31 @@ permissions-button-ok =
     .accesskey = C
 permissions-searchbox =
     .placeholder = Nánuku nuu Web
+permissions-capabilities-autoplay-block =
+    .label = Kasɨ audio
+permissions-capabilities-autoplay-blockall =
+    .label = Kasɨ audio jii video
 permissions-capabilities-allow =
     .label = Kuvi
+permissions-capabilities-block =
+    .label = Kasɨ
+permissions-capabilities-prompt =
+    .label = Ntaka ichi katu´un
 permissions-capabilities-listitem-allow =
     .value = Kuvi
 permissions-capabilities-listitem-block =
     .value = Kasɨ
+permissions-capabilities-listitem-allow-session =
+    .value = Kuvi nuu sesión ya´a
 
 ## Invalid Hostname Dialog
 
+permissions-invalid-uri-title = Nuu ka̱a̱ servidor ntu vatu
+permissions-invalid-uri-label = Nejika chu´unu iin nuu vatu
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-content-blocking-desc = Nxitanu nkutuvi tu´un nuu daa sitios ya´a.
 
 ## Exceptions - Cookies
 

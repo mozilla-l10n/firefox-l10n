@@ -18,6 +18,7 @@ onboarding-button-label-get-started = Kajie´e
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Kusɨɨ inidáni nkantanu { -brand-short-name }
+onboarding-welcome-learn-more = Ka´vi kue´eka jiee a va´a ya´a.
 onboarding-join-form-header = Náyonika { -brand-product-name }
 onboarding-join-form-body = Chu´un correo noo´o saa kajie´e.
 onboarding-join-form-email =

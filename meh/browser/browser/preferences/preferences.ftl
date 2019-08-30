@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-learn-more = Ka´vi kue´eka
 do-not-track-option-always =
     .label = Ntaka ichi
 pref-page =
@@ -98,6 +99,7 @@ download-choose-folder =
            *[other] o
         }
 play-drm-content-learn-more = Ka´vi kue´eka
+update-application-version = Versión { $version } <a data-l10n-name="learn-more"> Nakuvi a jíía íyo</a>
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kɨ´ɨ
@@ -108,6 +110,7 @@ performance-settings-learn-more = Ka´vi jiee ya´a
 
 ## General Section - Browsing
 
+browsing-picture-in-picture-learn-more = Ka´vi kue´eka
 browsing-cfr-recommendations-learn-more = Ka´vi kue´eka
 
 ## General Section - Proxy
@@ -132,6 +135,7 @@ home-prefs-search-header =
     .label = Nánuku web
 home-prefs-topsites-header =
     .label = Daa sitio vii
+home-prefs-recommended-by-learn-more = Naja satiñu
 home-prefs-highlights-options-bookmarks =
     .label = A ta´a ini noo´o
 
@@ -307,6 +311,7 @@ permissions-notification-link = Ka´vi kue´eka
 permissions-autoplay-settings =
     .label = Ke´i
     .accesskey = K
+permissions-a11y-privacy-link = Ka´vi kue´eka
 
 ## Privacy Section - Data Collection
 

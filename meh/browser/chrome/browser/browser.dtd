@@ -602,6 +602,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY contentBlocking.breakageReportView.learnMore "Ka´vi kue´eka">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Ka´vi kue´eka">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Nkuvi">
 
