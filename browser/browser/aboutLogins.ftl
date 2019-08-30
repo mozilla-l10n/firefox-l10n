@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Opties
        *[other] Voorkeuren
     }
-menu-menuitem-feedback = Feedback verzenden
-menu-menuitem-faq = Veelgestelde vragen
+about-logins-menu-menuitem-help = Help
 menu-menuitem-android-app = { -lockwise-brand-short-name } voor Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } voor iPhone en iPad
 
@@ -57,6 +56,8 @@ login-list-last-changed-option = Laatst gewijzigd
 login-list-last-used-option = Laatst gebruikt
 login-list-intro-title = Geen aanmeldingen gevonden
 login-list-intro-description = Wanneer u een wachtwoord opslaat in { -brand-product-name }, wordt dit hier weergegeven.
+about-logins-login-list-empty-search-title = Geen aanmeldingen gevonden
+about-logins-login-list-empty-search-description = Uw zoekopdracht heeft geen resultaten opgeleverd.
 login-list-item-title-new-login = Nieuwe aanmelding
 login-list-item-subtitle-new-login = Voer uw aanmeldgegevens in
 login-list-item-subtitle-missing-username = (geen gebruikersnaam)
@@ -67,7 +68,7 @@ login-intro-heading = Op zoek naar uw opgeslagen aanmeldingen? Stel { -sync-bran
 login-intro-description = Als u uw aanmeldgegevens bij { -brand-product-name } op een ander apparaat hebt opgeslagen, kunt u ze zo ophalen:
 login-intro-instruction-fxa = Maak op het apparaat waarop uw aanmeldgegevens staan een { -fxaccount-brand-name } of meld u aan
 login-intro-instruction-fxa-settings = Zorg ervoor dat u het veld Aanmeldingen in de instellingen van { -sync-brand-short-name } hebt aangevinkt
-login-intro-instruction-faq = Bezoek voor meer hulp de <a data-l10n-name="faq">veelgestelde vragen</a> voor { -lockwise-brand-short-name }
+about-logins-intro-instruction-help = Bezoek <a data-l10n-name="help-link">Ondersteuning voor { -lockwise-brand-short-name }</a> voor meer hulp
 
 ## Login
 
@@ -77,10 +78,11 @@ login-item-delete-button = Verwijderen
 login-item-origin-label = Websiteadres
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Starten
 login-item-username-label = Gebruikersnaam
 login-item-username =
     .placeholder = uwnaam@example.com
+about-logins-login-item-username =
+    .placeholder = (geen gebruikersnaam)
 login-item-copy-username-button-text = Kopiëren
 login-item-copied-username-button-text = Gekopieerd!
 login-item-password-label = Wachtwoord
