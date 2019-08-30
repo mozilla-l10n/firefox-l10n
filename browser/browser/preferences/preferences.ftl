@@ -723,6 +723,7 @@ addressbar-suggestions-settings = Arama motoru önerileri için tercihleri deği
 content-blocking-header = İçerik engelleme
 content-blocking-enhanced-tracking-protection = Gelişmiş izlenme koruması
 content-blocking-section-description = Gezinirken gizliliğinizi koruyun. Ziyaret ettiğiniz siteleri izleyen ve profilinizi çıkarak görünmez içerikleri engelleyebilirsiniz. Bu içerikleri engellemek sayfaların daha hızlı yüklenmesini de sağlayabilir.
+content-blocking-section-top-level-description = Takipçiler, gezinti alışkanlıklarınız ve ilgi alanlarınız hakkında bilgi toplamak için internette sizi takip eder. { -brand-short-name } bu takipçilerin ve diğer kötü amaçlı betiklerin çoğunu engeller.
 content-blocking-learn-more = Daha fazla bilgi al
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
