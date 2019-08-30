@@ -7,7 +7,6 @@ about-config-warning-title = इथे ड्रॅगन आहेत!
 about-config-warning-text = प्रगत सेटिंग्जमधील बदल या ॲप्लिकेशनची स्थिरता, सुरक्षा, व कार्यक्षमता करीता धोकादायक ठरू शकते. पुढे नक्की असल्यावरच पुढे जावे.
 about-config-warning-checkbox = कृपया मला पुन्हा त्रास द्या!
 about-config-warning-button = मी ही जोखीम पत्करतो
-about-config-title = about:config
 about-config2-title = प्रगत संरचना
 about-config-search-input =
     .placeholder = शोधा
@@ -18,6 +17,18 @@ about-config-pref-edit = संपादित करा
 about-config-pref-save = साठवा
 about-config-pref-reset = मूळस्थितीत आणा
 about-config-pref-delete = नष्ट करा
+about-config-pref-add-button =
+    .title = जोडा
+about-config-pref-toggle-button =
+    .title = बदला
+about-config-pref-edit-button =
+    .title = संपादित करा
+about-config-pref-save-button =
+    .title = साठवा
+about-config-pref-reset-button =
+    .title = मूळस्थितीत आणा
+about-config-pref-delete-button =
+    .title = नष्ट करा
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
