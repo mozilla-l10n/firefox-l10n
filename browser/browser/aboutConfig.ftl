@@ -7,7 +7,6 @@ about-config-warning-title = Varo vaaraa!
 about-config-warning-text = Tällä sivulla olevien asetusten muuttamisella voi olla vahingollisia vaikutuksia tämän ohjelman turvallisuuteen, vakauteen ja suorituskykyyn. Älä koske näihin asetuksiin ellet tiedä tarkalleen, mitä olet tekemässä.
 about-config-warning-checkbox = Häiritse myös ensi kerralla
 about-config-warning-button = Otan riskin
-about-config-title = about:config
 about-config2-title = Lisäasetukset
 about-config-search-input =
     .placeholder = Haku
