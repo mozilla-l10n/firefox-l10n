@@ -31,9 +31,11 @@ etp-card-title = Tapykueho mo’ãha mbotuichapyre
 # capitalization for this string should match the output for your locale.
 graph-today = Ko árape
 social-tab-title = Ava ñandutieta rapykuehoha
+cookie-tab-title = Kookie rapykuehoha tenda ojoasávape
 tracker-tab-title = Tetepy mo’ãha
 fingerprinter-tab-title = Ñemokuãhũ
 cryptominer-tab-title = Criptomineros
+lockwise-title = Anivéke nderesarái ne ñe’ẽñemígui
 lockwise-title-logged-in = { -lockwise-brand-name }
 open-about-logins-button = Embojuruja { -brand-short-name }-pe
 lockwise-no-logins-content = Eguereko pe tembipuru’i <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> egueraha hag̃ua ne ñe’ẽñemi opa hendápe.

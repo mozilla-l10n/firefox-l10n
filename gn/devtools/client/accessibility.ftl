@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Kuaave
 accessibility-text-label-header = Moñe’ẽrã ha téra reramoĩ
+accessibility-keyboard-header = Tairenda
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -41,3 +42,8 @@ accessibility-text-label-issue-interactive = Pe mba’epuru oñondivegua oñembo
 accessibility-text-label-issue-optgroup-label = Eipuru <code>label</code> rekome’ẽ emboheramoĩ hag̃ua mba’epuru <span>optgroup<span>. <a>Eikuaave</a>
 accessibility-text-label-issue-optgroup-label2 = Eipuru mba’epuru <code>label</code> emboheramoĩvo <span>optgroup</span>. <a>Eikuaave</a>
 accessibility-text-label-issue-toolbar = Umi tembipuru renda oñemboherava’erã oĩramo hetave peteĩgui. <a>Eikuaave</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
