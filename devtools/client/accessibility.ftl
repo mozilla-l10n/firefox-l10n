@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Več o tem
 accessibility-text-label-header = Oznake besedila in imena
+accessibility-keyboard-header = Tipkovnica
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -25,6 +26,7 @@ accessibility-text-label-issue-area = Uporabite atribut <code>alt</code>, da ozn
 accessibility-text-label-issue-dialog = Pogovorna okna morajo biti označena. <a>Več o tem</a>
 accessibility-text-label-issue-document-title = Dokumenti morajo imeti <code>naslov</code>. <a>Več o tem</a>
 accessibility-text-label-issue-embed = Vdelana vsebina mora biti označena. <a>Več o tem</a>
+accessibility-text-label-issue-figure = Slike z izbirnimi napisi morajo biti označene. <a>Več o tem</a>
 accessibility-text-label-issue-fieldset = Elementi <code>fieldset</code> morajo biti označeni. <a>Več o tem</a>
 accessibility-text-label-issue-fieldset-legend = Uporabite element <code>legend</code>, da označite elemente <span>fieldset</span>. <a>Več o tem</a>
 accessibility-text-label-issue-fieldset-legend2 = Uporabite element <code>legend</code>, da označite <span>fieldset</span>. <a>Več o tem</a>
@@ -40,3 +42,9 @@ accessibility-text-label-issue-interactive = Interaktivni elementi morajo biti o
 accessibility-text-label-issue-optgroup-label = Uporabite atribut <code>label</code>, da označite elemente <span>optgroup</span>. <a>Več o tem</a>
 accessibility-text-label-issue-optgroup-label2 = Uporabite atribut <code>label</code>, da označite <span>optgroup</span>. <a>Več o tem</a>
 accessibility-text-label-issue-toolbar = Če obstaja več kot ena orodna vrstica, morajo biti orodne vrstice označene. <a>Več o tem</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
+accessibility-keyboard-issue-tabindex = Izogibajte se uporabi atributa <code>tabindex</code>, ki je večji od nič. <a>Več o tem</a>

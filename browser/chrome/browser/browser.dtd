@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Upravljajte uporabo programske opreme DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Odpri ploščo MIDI">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Tej strani ste dodelili dodatna dovoljenja.">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Za to stran ste zavrnili uporabo kamere.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Za to stran ste zavrnili uporabo mikrofona.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Za to stran ste zavrnili deljenje zaslona.">
@@ -813,10 +815,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Povezava">
 <!ENTITY identity.connectionSecure "Varna povezava">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Varnost povezave">
-
 <!ENTITY identity.connectionSecure2 "Povezava varna">
 <!ENTITY identity.connectionNotSecure "Povezava ni varna">
 <!ENTITY identity.connectionNotSecureSecurityView "Niste varno povezani na to stran.">
@@ -866,6 +864,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Dovoljenja so nastavljena">
+
+<!ENTITY identity.permissions3 "Dovoljenja">
 <!ENTITY identity.permissionsEmpty "Tej strani niste dodelili posebnih dovoljenj.">
 <!ENTITY identity.permissionsReloadHint "Za uveljavitev sprememb boste morda morali ponovno naložiti stran.">
 <!ENTITY identity.permissionsPreferences.tooltip "Odpri nastavitve dovoljenj">
@@ -879,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "Več o izboljšani zaščiti pred sledenjem">
 <!ENTITY protections.settings.label "Nastavitve zaščite">
 <!ENTITY protections.report.label "Prikaži celotno poročilo">
+<!ENTITY protections.showreport.label "Prikaži poročilo">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->

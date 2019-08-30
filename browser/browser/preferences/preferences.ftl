@@ -345,6 +345,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Začni iskati ob začetku tipkanja
     .accesskey = k
+browsing-picture-in-picture-toggle-enabled =
+    .label = Omogoči kontrolnike za sliko v sliki
+    .accesskey = s
 browsing-picture-in-picture-learn-more = Več o tem
 browsing-cfr-recommendations =
     .label = Med brskanjem priporoči razširitve
@@ -728,6 +731,7 @@ addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 content-blocking-header = Zavračanje vsebine
 content-blocking-enhanced-tracking-protection = Izboljšana zaščita pred sledenjem
 content-blocking-section-description = Zaščitite svojo zasebnost med brskanjem. Zavrnite nevidno vsebino, ki spremlja vaše obiskane strani in ustvarja profil o vas. Če zavrnete nekaj te vsebine, se lahko strani hitreje naložijo.
+content-blocking-section-top-level-description = Sledilci vas spremljajo po spletu ter zbirajo podatke o vaših navadah in zanimanjih. { -brand-short-name } zavrača veliko teh sledilcev in drugih zlonamernih skriptov.
 content-blocking-learn-more = Več o tem
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
