@@ -7,7 +7,6 @@ about-config-warning-title = Hic sunt dracones!
 about-config-warning-text = La modificaziun da quests parameters avanzads po cumprometter la stabilitad, segirezza e prestaziun da questa applicaziun. Cuntinuescha mo sche ti sas tge che ti fas.
 about-config-warning-checkbox = Puspè dumandar la proxima giada, grazia.
 about-config-warning-button = Jau accept il ristg
-about-config-title = about:config
 about-config2-title = Configuraziuns avanzadas
 about-config-search-input =
     .placeholder = Tschertgar
@@ -18,6 +17,18 @@ about-config-pref-edit = Modifitgar
 about-config-pref-save = Memorisar
 about-config-pref-reset = Redefinir
 about-config-pref-delete = Stizzar
+about-config-pref-add-button =
+    .title = Agiuntar
+about-config-pref-toggle-button =
+    .title = Alternar
+about-config-pref-edit-button =
+    .title = Modifitgar
+about-config-pref-save-button =
+    .title = Memorisar
+about-config-pref-reset-button =
+    .title = Redefinir
+about-config-pref-delete-button =
+    .title = Stizzar
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
