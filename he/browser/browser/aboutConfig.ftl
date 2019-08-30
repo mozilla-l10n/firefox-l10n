@@ -7,7 +7,6 @@ about-config-warning-title = כאן יש דרקונים!
 about-config-warning-text = שינוי ערכי בררת המחדל של הגדרות מתקדמות אלו יכול להזיק ליציבות, אבטחה והביצועים של ישום זה. מוטב להמשיך רק אם השלכות מעשיך ברורות לך לחלוטין.
 about-config-warning-checkbox = תציקו לי שוב, בבקשה!
 about-config-warning-button = הסיכון מקובל עלי
-about-config-title = about:config
 about-config2-title = תצורות מתקדמות
 about-config-search-input =
     .placeholder = חיפוש
@@ -18,6 +17,18 @@ about-config-pref-edit = עריכה
 about-config-pref-save = שמירה
 about-config-pref-reset = איפוס
 about-config-pref-delete = מחיקה
+about-config-pref-add-button =
+    .title = הוספה
+about-config-pref-toggle-button =
+    .title = החלפה
+about-config-pref-edit-button =
+    .title = עריכה
+about-config-pref-save-button =
+    .title = שמירה
+about-config-pref-reset-button =
+    .title = איפוס
+about-config-pref-delete-button =
+    .title = מחיקה
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
