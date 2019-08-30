@@ -17,6 +17,18 @@ about-config-pref-edit = Уреди
 about-config-pref-save = Сачувај
 about-config-pref-reset = Поново постави
 about-config-pref-delete = Обриши
+about-config-pref-add-button =
+    .title = Додај
+about-config-pref-toggle-button =
+    .title = Промени стање
+about-config-pref-edit-button =
+    .title = Уреди
+about-config-pref-save-button =
+    .title = Сачувај
+about-config-pref-reset-button =
+    .title = Поново постави
+about-config-pref-delete-button =
+    .title = Обриши
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
