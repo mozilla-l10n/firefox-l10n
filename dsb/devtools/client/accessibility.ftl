@@ -51,3 +51,4 @@ accessibility-keyboard-issue-semantics = Fokusujobne elementy měli interaktiwnu
 accessibility-keyboard-issue-tabindex = Njewužywajśo atribut <code>tabindex</code> z gódnotu, kótaraž jo wětša ako nul. <a>Dalšne informacije</a>
 accessibility-keyboard-issue-action = Interaktiwne elementy muse se z tastaturu aktiwěrowaś daś. <a>Dalšne informacije</a>
 accessibility-keyboard-issue-focusable = Interaktiwne elementy muse se fokusěrowaś daś. <a>Dalšne informacije</a>
+accessibility-keyboard-issue-focus-visible = Zda se, až fokusujobnemu elementoju fokusowy stil felujo. <a>Dalšne informacije</a>
