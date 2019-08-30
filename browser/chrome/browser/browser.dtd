@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Wužywanje softwary DRM zastojaś">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI-wobcerk wócyniś">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Sćo pśizwólił toś tomu websedłoju pśidatne pšawa.">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Sćo swóju kameru za toś to websedło zablokěrował.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Sćo swój mikrofon za toś to websedło zablokěrował.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Sćo toś tomu websedłoju źělenje swójeje wobrazowki zakazał.">
@@ -813,10 +815,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Zwisk">
 <!ENTITY identity.connectionSecure "Wěsty zwisk">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Zwiskowa wěstota">
-
 <!ENTITY identity.connectionSecure2 "Zwisk jo wěsty">
 <!ENTITY identity.connectionNotSecure "Zwisk njejo wěsty">
 <!ENTITY identity.connectionNotSecureSecurityView "Njejsćo wěsće zwězany z toś tym sedłom.">
@@ -866,6 +864,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Dane pšawa">
+
+<!ENTITY identity.permissions3 "Pšawa">
 <!ENTITY identity.permissionsEmpty "Njejsćo toś tomu sedłoju wósebne pšawa pśizwólił.">
 <!ENTITY identity.permissionsReloadHint "Musyśo snaź bok znowego zacytaś, aby se změny wustatkowali.">
 <!ENTITY identity.permissionsPreferences.tooltip "Nastajenja pšawow wócyniś">
@@ -879,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "Dalšne informacije wó pólěpšonem slědowańskem šćiśe">
 <!ENTITY protections.settings.label "Šćitowe nastajenja">
 <!ENTITY protections.report.label "Dopołnu rozpšawu pokazaś">
+<!ENTITY protections.showreport.label "Rozpšawu pokazaś">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -898,12 +899,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Jo sedło pó znjemóžnjenju šćitow hyšći wobškóźone?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Rozpšawu pósłaś">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Blokěrowany">
 <!ENTITY protections.notBlocking2.label "Dowólony">
+<!ENTITY protections.notFound.label "Njenamakany">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Cogodla?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Gaž toś te elementy blokěrujośo, snaź wěste websedła wěcej pšawje njefunkcioněruju. Někotare tłocaški, formulary a pśizjawjeńske póla njemógli bźez pśeslědowakow pčawje funkcioněrowaś.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Gaž šćity znjemóžnjaśo, se wšykne pśeslědowaki na toś tom sedle dowólujo. To móžo wěstu funkcionalnosć websedła pólěpšyś.">
-<!ENTITY protections.notFound.label "Njenamakany">
 <!ENTITY protections.socialMediaTrackers.label "Pśeslědowaki socialnych medijow">
 <!ENTITY protections.crossSiteTrackingCookies.label "Slědujuce cookieje mjazy sedłami">
 <!ENTITY protections.trackingContent.label "Slědujuce wopśimjeśe">
@@ -961,7 +971,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "z">
 
 <!ENTITY contentBlocking.trackersView.label "Pśeslědowaki">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Aby wšykne pśeslědowaki blokěrował, stajśo blokěrowanje wopśimjeśa na “Striktny”.">
 
 <!ENTITY contentBlocking.cookies.label "Cookieje">
