@@ -17,6 +17,18 @@ about-config-pref-edit = កែសម្រួល
 about-config-pref-save = រក្សាទុក
 about-config-pref-reset = កំណត់ឡើងវិញ
 about-config-pref-delete = លុប
+about-config-pref-add-button =
+    .title = បញ្ចូល
+about-config-pref-toggle-button =
+    .title = បិទ/បើក
+about-config-pref-edit-button =
+    .title = កែសម្រួល
+about-config-pref-save-button =
+    .title = រក្សាទុក
+about-config-pref-reset-button =
+    .title = កំណត់ឡើងវិញ
+about-config-pref-delete-button =
+    .title = លុប
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
