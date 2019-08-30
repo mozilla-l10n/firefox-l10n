@@ -57,6 +57,7 @@ login-list-last-used-option = Sist brukt
 login-list-intro-title = Fant ingen innlogginger
 login-list-intro-description = Når du lagrer et passord i { -brand-product-name }, vil det vises her.
 about-logins-login-list-empty-search-title = Fant ingen innlogginger
+about-logins-login-list-empty-search-description = Det er ingen resultater som samsvarer med søket ditt.
 login-list-item-title-new-login = Ny innlogging
 login-list-item-subtitle-new-login = Skriv inn innloggingsinformasjon
 login-list-item-subtitle-missing-username = (uten brukernavn)
