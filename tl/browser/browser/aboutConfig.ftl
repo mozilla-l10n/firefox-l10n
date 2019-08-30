@@ -17,6 +17,14 @@ about-config-pref-edit = Edit
 about-config-pref-save = I-save
 about-config-pref-reset = I-reset
 about-config-pref-delete = Burahin
+about-config-pref-add-button =
+    .title = Idagdag
+about-config-pref-toggle-button =
+    .title = I-toggle
+about-config-pref-save-button =
+    .title = I-save
+about-config-pref-reset-button =
+    .title = I-reset
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
