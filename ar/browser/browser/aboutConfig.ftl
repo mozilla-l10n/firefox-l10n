@@ -7,7 +7,6 @@ about-config-warning-title = أمامك أهوال لست تعرف ما ستكو
 about-config-warning-text = تغيير القيم المبدئية لهذه الإعدادات المتقدمة قد يضر بثبات وأمان وأداء التطبيق. عليك المواصلة في حال كنت واثقا مما تفعل.
 about-config-warning-checkbox = أزعِجني بهذا المرة القادمة!
 about-config-warning-button = أقبل المخاطرة
-about-config-title = about:config
 about-config2-title = الإعدادات المتقدمة
 about-config-search-input =
     .placeholder = ابحث
@@ -18,6 +17,18 @@ about-config-pref-edit = حرّر
 about-config-pref-save = احفظ
 about-config-pref-reset = صفّر
 about-config-pref-delete = احذف
+about-config-pref-add-button =
+    .title = أضِف
+about-config-pref-toggle-button =
+    .title = بدّل
+about-config-pref-edit-button =
+    .title = حرّر
+about-config-pref-save-button =
+    .title = احفظ
+about-config-pref-reset-button =
+    .title = صفّر
+about-config-pref-delete-button =
+    .title = احذف
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
