@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Saper plus
 accessibility-text-label-header = Etiquettas e nomines texto
+accessibility-keyboard-header = Claviero
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -41,3 +42,8 @@ accessibility-text-label-issue-interactive = Elementos interactive debe ser etiq
 accessibility-text-label-issue-optgroup-label = Usa attributo <code>label</code> pro etiquettar elementos <span>optgroup</span>. <a>Saper plus</a>
 accessibility-text-label-issue-optgroup-label2 = Usa un attributo  <code>label</code> pro etiquettar un elemento <span>optgroup</span>. <a>Saper plus</a>
 accessibility-text-label-issue-toolbar = Barras del instrumentos debe ser etiquettate quando on ha plus de uno. <a>Saper plus</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+

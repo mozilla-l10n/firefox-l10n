@@ -250,6 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gerer le utilisation de software de DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Aperir le quadro MIDI">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Tu ha blocate tu camera pro iste sito web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tu ha blocate tu microphono pro iste sito web.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Tu ha blocate iste sito web de compartir tu schermo.">
@@ -813,10 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Connexion">
 <!ENTITY identity.connectionSecure "Connexion secur">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Securitate de connexion">
-
 <!ENTITY identity.connectionSecure2 "Connexion secur">
 <!ENTITY identity.connectionNotSecure "Le connexion non es secur">
 <!ENTITY identity.connectionNotSecureSecurityView "Tu non es connectite con securitate a iste sito.">
@@ -866,6 +863,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Configuration de permissiones">
+
+<!ENTITY identity.permissions3 "Permissos">
 <!ENTITY identity.permissionsEmpty "Tu non ha concedite ulle permission special a iste sito.">
 <!ENTITY identity.permissionsReloadHint "Il es possibile que tu debe recargar le pagina pro que le cambios se applica.">
 <!ENTITY identity.permissionsPreferences.tooltip "Aperir le preferentias del permissos">
@@ -879,6 +878,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "Saper plus re Protection de traciamento meliorate">
 <!ENTITY protections.settings.label "Parametros de protection">
 <!ENTITY protections.report.label "Monstrar le reporto complete">
+<!ENTITY protections.showreport.label "Monstrar le reporto">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -898,12 +898,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Sito ancora corrupte post disactivation de protectiones?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Inviar un reporto">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Blocate">
 <!ENTITY protections.notBlocking2.label "Permittite">
+<!ENTITY protections.notFound.label "Nulle detection">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Perque?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Blocar isto poterea rumper elementos de alcun sitos web. Sin traciatores, alcun buttones, formas, e campos pro accesso pote non functionar.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Disactivar protectiones consentira tote le traciatores sur iste sito. Pote alsi meliorar alcun functionalitates del sito web.">
-<!ENTITY protections.notFound.label "Nulle detection">
 <!ENTITY protections.socialMediaTrackers.label "Traciatores de medios social">
 <!ENTITY protections.crossSiteTrackingCookies.label "Le cookies de traciamento tra sitos">
 <!ENTITY protections.trackingContent.label "Contento traciante">
@@ -913,7 +922,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Iste cookies te seque de sito a sito pro colliger datos re lo que tu face online. Illos es ponite per tertie partes tal como publicitarios e companias de analyse datos.">
 <!ENTITY protections.cryptominers.description "Minatores occulte usa potentia de calculo de tu systema pro cavar moneta digital. Scripts del minatores occulte exhauri tu batteria, relenta tu computator e pote accrescer le factura de tu energia.">
-<!ENTITY protections.fingerprinters.description "Identificatores collige parametros de tu navigator e computator pro crear un profilo de te. Per iste impression digital, illos pote traciar te inter le differente sitos web.">
+<!ENTITY protections.fingerprinters.description "Dactylogrammatores collige parametros de tu navigator e computator pro crear un profilo de te. Per iste dactylogramma, illos pote traciar te inter differente sitos web.">
 <!ENTITY protections.trackingContent.description "Sitos web pote cargar avisos publicitari externe, videos e altere contento que contine codification de traciamento. Blocar contento traciator pote adjutar a cargar sitos plus velocemente, ma alcun buttones, formas e campos de accesso pote non functionar.">
 <!ENTITY protections.socialMediaTrackers.description "Retes social placia traciatores sur altere sitos web pro sequer lo que tu face, vide e observa online. Iste consenti al companias de retes social de saper plus re te, ultra illo que tu comparti sur tu profilo de retes social.">
 
@@ -961,7 +970,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
 
 <!ENTITY contentBlocking.trackersView.label "Traciatores">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Pro blocar tote le traciatores dispone a “Stricte” le blocage del contento.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">

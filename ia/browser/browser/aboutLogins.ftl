@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Optiones
        *[other] Preferentias
     }
-menu-menuitem-feedback = Invia tu opinion
-menu-menuitem-faq = Demandas frequente
+about-logins-menu-menuitem-help = Adjutar
 menu-menuitem-android-app = { -lockwise-brand-short-name } pro Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } pro iPhone e iPad
 
@@ -57,6 +56,8 @@ login-list-last-changed-option = Ultime modification
 login-list-last-used-option = Ultime vice usate
 login-list-intro-title = Nulle credentiales trovate
 login-list-intro-description = Le contrasignos salvate in { -brand-product-name } sera monstrate hic.
+about-logins-login-list-empty-search-title = Nulle credentiales trovate
+about-logins-login-list-empty-search-description = Il ha nulle resultatos concordante tu recerca.
 login-list-item-title-new-login = Nove credential
 login-list-item-subtitle-new-login = Insere le credentiales de accesso
 login-list-item-subtitle-missing-username = (nulle nomine de usator)
@@ -67,7 +68,7 @@ login-intro-heading = Cerca tu le credentiales salvate? Configura { -sync-brand-
 login-intro-description = Si tu salvava tu credentiales pro { -brand-product-name } sur un apparato differente, ecce ci como a los obtener:
 login-intro-instruction-fxa = Crea o accede a tu { -fxaccount-brand-name } sur le apparato ubi es salvate tu credentiales.
 login-intro-instruction-fxa-settings = Assecura te que le quadro de selection Credentiales es seligite in le parametros de { -sync-brand-short-name }
-login-intro-instruction-faq = Consulta le <a data-l10n-name="faq">demandas frequente</a> de { -lockwise-brand-short-name } pro altere informationes
+about-logins-intro-instruction-help = Visita le <a data-l10n-name="help-link">supporto pro { -lockwise-brand-short-name }</a> per altere adjuta
 
 ## Login
 
@@ -77,10 +78,11 @@ login-item-delete-button = Deler
 login-item-origin-label = Adresse web
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Lancear
 login-item-username-label = Nomine del usator
 login-item-username =
     .placeholder = name@example.com
+about-logins-login-item-username =
+    .placeholder = (nulle nomine de usator)
 login-item-copy-username-button-text = Copiar
 login-item-copied-username-button-text = Copiate!
 login-item-password-label = Contrasigno

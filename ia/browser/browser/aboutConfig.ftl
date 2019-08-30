@@ -20,13 +20,13 @@ about-config-pref-delete = Deler
 about-config-pref-add-button =
     .title = Adder
 about-config-pref-toggle-button =
-    .title = Mutar
+    .title = Commutar
 about-config-pref-edit-button =
     .title = Rediger
 about-config-pref-save-button =
     .title = Salvar
 about-config-pref-reset-button =
-    .title = Restabilir
+    .title = Remontar
 about-config-pref-delete-button =
     .title = Deler
 
