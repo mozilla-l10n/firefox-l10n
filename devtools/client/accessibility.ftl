@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Dysgu rhagor
 accessibility-text-label-header = Labeli ac Enwau Testun
+accessibility-keyboard-header = Bysellfwrdd
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -41,3 +42,13 @@ accessibility-text-label-issue-interactive = Rhaid labelu elfennau rhyngweithiol
 accessibility-text-label-issue-optgroup-label = Defnyddiwch briodoledd <code>label</code> i labelu elfennau <p>optgroup</span>. <a>Dysgu rhagor</a>
 accessibility-text-label-issue-optgroup-label2 = Defnyddiwch briodoledd <code>label</code> i labelu <span>optgroup</span>. <a>Dysgu rhagor</a>
 accessibility-text-label-issue-toolbar = Rhaid labelu bariau offer pan fydd mwy nag un bar offer. <a>Dysgu rhagor</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
+accessibility-keyboard-issue-semantics = Dylai elfennau ffocwsadwy fod â semanteg ryngweithiol. <a>Dysgu rhagor</a>
+accessibility-keyboard-issue-tabindex = Ceisiwch osgoi defnyddio priodoledd <code>tabindex</code> sy'n fwy na sero. <a>Dysgu rhagor</a>
+accessibility-keyboard-issue-action = Rhaid gallu actifadu elfennau rhyngweithiol gan ddefnyddio bysellfwrdd. <a>Dysgu rhagor</a>
+accessibility-keyboard-issue-focusable = Rhaid i elfennau rhyngweithiol fod yn ffocwsadwy. <a>Dysgu mwy</a>
+accessibility-keyboard-issue-focus-visible = Efallai bod elfen ffocwsadwy yn brin o steilio ffocws. <a>Dysgu mwy</a>

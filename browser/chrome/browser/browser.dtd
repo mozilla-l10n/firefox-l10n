@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Rheoli'r defnydd o feddalwedd DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Agor panel MIDI">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Rydych wedi rhoi caniatâd ychwanegol i'r wefan hon.">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Rydych wedi diffodd eich camera ar gyfer y wefan hon.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Rydych wedi diffodd eich meicroffon ar gyfer y wefan hon.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Rydych wedi rhwystro'r wefan rhag rhannu eich sgrin.">
@@ -813,10 +815,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Cysylltiad">
 <!ENTITY identity.connectionSecure "Cysylltiad Pell">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Diogelwch y Cysylltiad">
-
 <!ENTITY identity.connectionSecure2 "Cysylltiad yn Ddiogel">
 <!ENTITY identity.connectionNotSecure "Nid yw'r Cysylltiad yn Ddiogel">
 <!ENTITY identity.connectionNotSecureSecurityView "Nid ydych wedi'ch cysylltu'n ddiogel â'r wefan hon.">
@@ -866,6 +864,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Caniatâd wedi eu Gosod">
+
+<!ENTITY identity.permissions3 "Caniatâd">
 <!ENTITY identity.permissionsEmpty "Nid ydych wedi rhoi i'r wefan hon unrhyw ganiatâd arbennig.">
 <!ENTITY identity.permissionsReloadHint "Efallai y bydd angen ail lwytho'r dudalen i newidiadau ddod ar waith.">
 <!ENTITY identity.permissionsPreferences.tooltip "Agor Dewisiadau Caniatâd">
@@ -879,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "Rhagor o wybodaeth am Ddiogelwch Rhag Tracio Uwch">
 <!ENTITY protections.settings.label "Gosodiadau Diogelu">
 <!ENTITY protections.report.label "Dangos yr Adroddiad Llawn">
+<!ENTITY protections.showreport.label "Dangos yr Adroddiad">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -898,12 +899,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Mae'r wefan dal wedi torri ar ôl diffodd y diogelu?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Anfon adroddiad">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Rhwystrwyd">
 <!ENTITY protections.notBlocking2.label "Caniatawyd">
+<!ENTITY protections.notFound.label "Heb Ganfod Dim">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Pam?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Gallai rhwystro'r rhain dorri elfennau o rai gwefannau. Heb dracwyr, efallai na fydd rhai botymau, ffurflenni a meysydd mewngofnodi'n gweithio.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Bydd diffodd diogelu'n caniatáu pob traciwr ar y wefan hon. Efallai hefyd, y bydd yn gwella rhywfaint o ymarferoldeb gwefan.">
-<!ENTITY protections.notFound.label "Heb Ganfod Dim">
 <!ENTITY protections.socialMediaTrackers.label "Tracwyr Cyfryngau Cymdeithasol">
 <!ENTITY protections.crossSiteTrackingCookies.label "Cwcis Tracio Traws-Gwefan">
 <!ENTITY protections.trackingContent.label "Cynnwys Tracio">
@@ -961,7 +971,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "R">
 
 <!ENTITY contentBlocking.trackersView.label "Tracwyr">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label 'I rwystro pob traciwr, gosodwch rhwystro cynnwys "Llym".'>
 
 <!ENTITY contentBlocking.cookies.label "Cwcis">

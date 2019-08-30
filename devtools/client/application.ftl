@@ -69,6 +69,16 @@ serviceworker-empty-suggestions-debugger = Camu drwy gofrestriad eich Gweithiwr 
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Archwilio'r Gweithwyr Gwasanaeth o barthau eraill. <a>Agor about:debugging</a>
+# Header for the view of Manifest displayed in the application panel for the current page.
+manifest-view-header = Maniffest Ap
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Gwallau a Rhybuddion
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Hunaniaeth
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Cyflwyniad
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Eiconau
 # Text displayed while we are loading the manifest file
 manifest-loading = Llwytho maniffest ...
 # Text displayed when the manifest has been successfully loaded
@@ -77,3 +87,11 @@ manifest-loaded-ok = Manifest wedi'i lwytho.
 manifest-loaded-error = Bu gwall wrth lwytho'r maniffest:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Heb ganfod maniffest i'w arolygu
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Eicon rhybuddio
+    .title = Rhybudd
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Eicon gwall
+    .title = Gwall

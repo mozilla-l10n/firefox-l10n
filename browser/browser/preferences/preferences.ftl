@@ -351,6 +351,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Chwilio am destun wrth i mi gychwyn teipio
     .accesskey = d
+browsing-picture-in-picture-toggle-enabled =
+    .label = Galluogi rheolyddion fideo llun-mewn-llun
+    .accesskey = G
+browsing-picture-in-picture-learn-more = Dysgu rhagor
 browsing-cfr-recommendations =
     .label = Argymell estyniadau wrth i chi bori
     .accesskey = A
@@ -735,6 +739,7 @@ addressbar-suggestions-settings = Newid dewisiadau am awgrymiadau peiriannau chw
 content-blocking-header = Rhwystro Cynnwys
 content-blocking-enhanced-tracking-protection = Diogelwch Uwch Rhag Tracio
 content-blocking-section-description = Diogelwch eich preifatrwydd wrth bori. Rhwystrwch gynnwys cudd sy'n tracio'r gwefannau fyddwch chi'n ymweld â nhw ac sy'n creu proffil ohonoch chi. Gall rwystro peth o'r cynnwys hwn wneud i dudalennau lwytho'n gynt.
+content-blocking-section-top-level-description = Mae tracwyr yn eich dilyn ar-lein i gasglu gwybodaeth am eich arferion pori a'ch diddordebau. Mae { -brand-short-name } yn rhwystro llawer o'r tracwyr hyn a sgriptiau maleisus eraill.
 content-blocking-learn-more = Dysgu Rhagor
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
