@@ -7,7 +7,6 @@ about-config-warning-title = Aqui estão dragões!
 about-config-warning-text = Alterar estas definições avançadas pode ser prejudicial para a estabilidade, segurança e desempenho desta aplicação. Apenas deve continuar se tiver a certeza do que está a fazer.
 about-config-warning-checkbox = Chatear-me novamente, por favor!
 about-config-warning-button = Eu aceito o risco
-about-config-title = about:config
 about-config2-title = Configurações avançadas
 about-config-search-input =
     .placeholder = Pesquisar
@@ -18,6 +17,18 @@ about-config-pref-edit = Editar
 about-config-pref-save = Guardar
 about-config-pref-reset = Repor
 about-config-pref-delete = Apagar
+about-config-pref-add-button =
+    .title = Adicionar
+about-config-pref-toggle-button =
+    .title = Alternar
+about-config-pref-edit-button =
+    .title = Editar
+about-config-pref-save-button =
+    .title = Guardar
+about-config-pref-reset-button =
+    .title = Repor
+about-config-pref-delete-button =
+    .title = Apagar
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
