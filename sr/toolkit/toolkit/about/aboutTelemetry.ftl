@@ -72,7 +72,7 @@ about-telemetry-ping-details-current = Сваки део информације 
 about-telemetry-filter-placeholder =
     .placeholder = Нађите у { $selectedTitle }
 about-telemetry-filter-all-placeholder =
-    .placeholder = Пронађи све секције
+    .placeholder = Пронађи све одељке
 # Variables:
 #   $searchTerms (String): the searched terms
 about-telemetry-results-for-search = Резултати за “{ $searchTerms }”
@@ -83,7 +83,7 @@ about-telemetry-results-for-search = Резултати за “{ $searchTerms }
 about-telemetry-no-search-results = Жао нам је! Нема резултата у { $sectionName } за “{ $currentSearchText }”
 # Variables:
 #   $searchTerms (String): the searched terms
-about-telemetry-no-search-results-all = Жао нам је! Нема резултата претраге ни у једној секцији “{ $searchTerms }”
+about-telemetry-no-search-results-all = Жао нам је! Нема резултата претраге ни у једном одељку “{ $searchTerms }”
 # This message is displayed when a section is empty.
 # Variables:
 #   $sectionName (String): is replaced by the section name.

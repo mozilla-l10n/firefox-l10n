@@ -30,8 +30,7 @@ menu-menuitem-preferences =
         [windows] Опције
        *[other] Поставке
     }
-menu-menuitem-feedback = Пошаљи повратне информације
-menu-menuitem-faq = Често постављана питања
+about-logins-menu-menuitem-help = Помоћ
 menu-menuitem-android-app = { -lockwise-brand-short-name } за Андроид
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } за iPhone и iPad
 
@@ -57,6 +56,11 @@ login-list-item-subtitle-missing-username = (без корисничког им�
 
 ## Introduction screen
 
+login-intro-heading = Тражите сачуване пријаве? Подесите { -sync-brand-short-name }.
+login-intro-description = Уколико сте пријаве сачували у програму { -brand-product-name } на неком другом уређају, следите ове кораке:
+login-intro-instruction-fxa = Направите или се пријавите на ваш { -fxaccount-brand-name } налог, на уређају где су ваше пријаве сачуване
+login-intro-instruction-fxa-settings = Уверите се да сте штиклирали „Пријаве“ { -sync-brand-short-name } подешавањима
+about-logins-intro-instruction-help = Посетите <a data-l10n-name="help-link">страницу подршке за { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -66,7 +70,6 @@ login-item-delete-button = Избриши
 login-item-origin-label = Адреса веб странице
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Покрени
 login-item-username-label = Корисничко име
 login-item-username =
     .placeholder = ime@example.com

@@ -81,6 +81,7 @@ cfr-whatsnew-button =
     .label = Шта је ново
     .tooltiptext = Шта је ново
 cfr-whatsnew-panel-header = Шта је ново
+cfr-whatsnew-lockwise-backup-link-text = Укључите резерве
 
 ## Bookmark Sync
 
@@ -91,6 +92,8 @@ cfr-doorhanger-sync-bookmarks-ok-button = Укључите { -sync-brand-short-n
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-ok-button = Укључите { -sync-brand-short-name }
+    .accesskey = т
 
 ## Send Tab
 

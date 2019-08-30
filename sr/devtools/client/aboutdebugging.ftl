@@ -37,5 +37,7 @@ about-debugging-network-locations-remove-button = Remove
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Remove
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = Stopped
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = Детаљи
