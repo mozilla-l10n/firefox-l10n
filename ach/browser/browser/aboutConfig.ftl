@@ -7,7 +7,6 @@ about-config-warning-title = Gwokke!
 about-config-warning-text = Loko ter magi me rwom ma malu twero kelo bal i bedo mot, gwoko kuc, ki tic maber pa purugram man. Omyero I mede keken kacce I ngeyo ngo ma in itye katimo.
 about-config-warning-checkbox = Cwe cwinya doki, tim ber!
 about-config-warning-button = Aye acara ne!
-about-config-title = ikom:cano
 about-config2-title = Ter ma lamal
 about-config-search-input =
     .placeholder = Yeny
@@ -18,6 +17,18 @@ about-config-pref-edit = Yubi
 about-config-pref-save = Gwoki
 about-config-pref-reset = Nwo tero
 about-config-pref-delete = Kwany
+about-config-pref-add-button =
+    .title = Medi
+about-config-pref-toggle-button =
+    .title = Loki
+about-config-pref-edit-button =
+    .title = Yubi
+about-config-pref-save-button =
+    .title = Gwoki
+about-config-pref-reset-button =
+    .title = Nwo tero
+about-config-pref-delete-button =
+    .title = Kwany
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
