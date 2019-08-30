@@ -70,18 +70,59 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Close button
     .title = Close
 
+## Protections panel
+
+cfr-protections-panel-header = Browse without being followed
+cfr-protections-panel-body = Keep your data to yourself. { -brand-short-name } protects you from many of the most common trackers that follow what you do online.
+cfr-protections-panel-link-text = Learn more
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
     .label = What’s New
     .tooltiptext = What’s New
 cfr-whatsnew-panel-header = What’s New
+cfr-whatsnew-release-notes-link-text = Read the release notes
+cfr-whatsnew-fx70-title = { -brand-short-name } now fights harder for your privacy
+cfr-whatsnew-fx70-body =
+    The latest update enhances the Tracking Protection feature and makes it
+    easier than ever to create secure passwords for every site.
+cfr-whatsnew-tracking-protect-title = Protect yourself from trackers
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } blocks many common social and cross-site trackers that
+    follow what you do online.
+cfr-whatsnew-tracking-protect-link-text = View Your Report
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Tracker blocked
+       *[other] Trackers blocked
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Since { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = View Report
+cfr-whatsnew-lockwise-backup-title = Back up your passwords
+cfr-whatsnew-lockwise-backup-body = Now generate secure passwords you can access anywhere you sign in.
+cfr-whatsnew-lockwise-backup-link-text = Turn on backups
+cfr-whatsnew-lockwise-take-title = Take your passwords with you
+cfr-whatsnew-lockwise-take-body =
+    The { -lockwise-brand-short-name } mobile app lets you securely access your
+    backed up passwords from anywhere.
+cfr-whatsnew-lockwise-take-link-text = Get the app
 
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Get this bookmark on your phone
 cfr-doorhanger-sync-bookmarks-body = Take your bookmarks, passwords, history and more everywhere you’re signed into { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Turn on { -sync-brand-short-name }
+    .accesskey = T
+
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Never Lose a Password Again
+cfr-doorhanger-sync-logins-body = Securely store and synchronise your passwords to all your devices.
+cfr-doorhanger-sync-logins-ok-button = Turn on { -sync-brand-short-name }
     .accesskey = T
 
 ## Send Tab
