@@ -7,7 +7,6 @@ about-config-warning-title = ¡Jekuaa’ỹha gotyo!
 about-config-warning-text = Ko ñemboheko moambue ikatu ombyaihína pytareko, tekorosã ha tembipuru’i rembiapo. Eku’ejey ejeroviáramo hese añoite.
 about-config-warning-checkbox = ¡Erekuaajey chéve, ikatúramo!
 about-config-warning-button = Amoneĩ pe kyhyjerã
-about-config-title = about:config
 about-config2-title = Ñemboheko henyhẽtamava
 about-config-search-input =
     .placeholder = Heka
@@ -18,6 +17,18 @@ about-config-pref-edit = Mbosako'i
 about-config-pref-save = Ñongatu
 about-config-pref-reset = Mbojevyjey
 about-config-pref-delete = Mboguete
+about-config-pref-add-button =
+    .title = Mbojuaju
+about-config-pref-toggle-button =
+    .title = Moambue
+about-config-pref-edit-button =
+    .title = Mbosako'i
+about-config-pref-save-button =
+    .title = Ñongatu
+about-config-pref-reset-button =
+    .title = Mbojevyjey
+about-config-pref-delete-button =
+    .title = Mboguete
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
