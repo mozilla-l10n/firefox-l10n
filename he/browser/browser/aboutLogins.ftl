@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] אפשרויות
        *[other] העדפות
     }
-menu-menuitem-feedback = שליחת משוב
-menu-menuitem-faq = תשובות לשאלות נפוצות
+about-logins-menu-menuitem-help = עזרה
 menu-menuitem-android-app = ‏{ -lockwise-brand-short-name } עבור Android
 menu-menuitem-iphone-app = ‏{ -lockwise-brand-short-name } עבור iPhone ו־iPad
 
@@ -55,6 +54,8 @@ login-list-name-option = שם (A-Z)
 login-list-last-changed-option = שינוי אחרון
 login-list-last-used-option = שימוש אחרון
 login-list-intro-title = לא נמצאו כניסות
+about-logins-login-list-empty-search-title = לא נמצאו כניסות
+about-logins-login-list-empty-search-description = אין תוצאות התואמות לחיפוש שלך.
 login-list-item-title-new-login = כניסה חדשה
 login-list-item-subtitle-new-login = נא להזין את פרטי הכניסה שלך
 login-list-item-subtitle-missing-username = (אין שם משתמש)

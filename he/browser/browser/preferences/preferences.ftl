@@ -339,6 +339,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = חיפוש מלל עם תחילת הקלדה
     .accesskey = מ
+browsing-picture-in-picture-learn-more = מידע נוסף
 browsing-cfr-recommendations =
     .label = קבלת המלצות על הרחבות תוך כדי גלישה
     .accesskey = ק

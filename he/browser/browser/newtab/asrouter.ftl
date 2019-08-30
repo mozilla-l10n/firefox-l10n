@@ -93,6 +93,7 @@ cfr-whatsnew-tracking-blocked-subtitle = מאז { DATETIME($earliestDate, month:
 cfr-whatsnew-tracking-blocked-link-text = הצגת דוח
 cfr-whatsnew-lockwise-backup-title = גיבוי הססמאות שלך
 cfr-whatsnew-lockwise-backup-link-text = הפעלת גיבויים
+cfr-whatsnew-lockwise-take-link-text = הורדת היישומון
 
 ## Bookmark Sync
 
