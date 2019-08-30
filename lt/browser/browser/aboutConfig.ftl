@@ -7,7 +7,6 @@ about-config-warning-title = Čia yra drakonų!
 about-config-warning-text = Šių ekspertinių nustatymų keitimas gali pakenkti programos stabilumui, saugumui ir darbo greičiui. Turėtumėte tai daryti tik tuomet, jei tikrai žinote, ką darote.
 about-config-warning-checkbox = Suerzinkite mane ir vėl, prašau!
 about-config-warning-button = Sutinku su rizika
-about-config-title = about:config
 about-config2-title = Papildoma sąranka
 about-config-search-input =
     .placeholder = Ieškoti
@@ -18,6 +17,18 @@ about-config-pref-edit = Keisti
 about-config-pref-save = Įrašyti
 about-config-pref-reset = Atstatyti
 about-config-pref-delete = Pašalinti
+about-config-pref-add-button =
+    .title = Pridėti
+about-config-pref-toggle-button =
+    .title = Perjungti
+about-config-pref-edit-button =
+    .title = Keisti
+about-config-pref-save-button =
+    .title = Įrašyti
+about-config-pref-reset-button =
+    .title = Atstatyti
+about-config-pref-delete-button =
+    .title = Pašalinti
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
