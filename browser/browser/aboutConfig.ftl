@@ -7,7 +7,6 @@ about-config-warning-title = 隨便亂搞會讓保固失效！
 about-config-warning-text = 更改進階設定可能會影響本程式的穩定性、安全性及執行效能。在修改前請確定您知道在做什麼，或者確定參考的文件值得信賴。
 about-config-warning-checkbox = 請繼續吵我，謝謝！
 about-config-warning-button = 我發誓，我一定會小心的！
-about-config-title = about:config
 about-config2-title = 進階設定
 about-config-search-input =
     .placeholder = 搜尋
@@ -18,6 +17,18 @@ about-config-pref-edit = 編輯
 about-config-pref-save = 儲存
 about-config-pref-reset = 重設
 about-config-pref-delete = 刪除
+about-config-pref-add-button =
+    .title = 新增
+about-config-pref-toggle-button =
+    .title = 切換
+about-config-pref-edit-button =
+    .title = 編輯
+about-config-pref-save-button =
+    .title = 儲存
+about-config-pref-reset-button =
+    .title = 重設
+about-config-pref-delete-button =
+    .title = 刪除
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
