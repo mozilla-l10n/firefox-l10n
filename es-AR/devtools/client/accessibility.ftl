@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Conocer más
 accessibility-text-label-header = Etiquetas de texto y de nombres
+accessibility-keyboard-header = Teclado
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -41,3 +42,12 @@ accessibility-text-label-issue-interactive = Los elementos interactivos tienen q
 accessibility-text-label-issue-optgroup-label = Usá el atributo <code>label</code> para etiquetar elementos <span>optgroup</span>. <a>Aprender más</a>
 accessibility-text-label-issue-optgroup-label2 = Use el atributo <code>label</code> para etiquetar un <span>optgroup</span>. <a>Conocer más</a>
 accessibility-text-label-issue-toolbar = Las barras de herramientas tienen que estar etiquetadas cuando hay más de una. <a>Aprender más</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
+accessibility-keyboard-issue-semantics = Los elementos que se pueden enfocar deberían tener una semántica interactiva. <a> Conocer más</a>
+accessibility-keyboard-issue-tabindex = Evite utilizar el atributo <code> tabindex </code> mayor que cero. <a> Conocer más</a>
+accessibility-keyboard-issue-action = Los elementos interactivos tienen que poder activarse con un teclado. <a> Conocer más</a>
+accessibility-keyboard-issue-focusable = Los elementos interactivos tiene quen ser focalizables. <a>Conocer más</a>
