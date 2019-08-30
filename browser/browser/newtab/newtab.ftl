@@ -128,10 +128,10 @@ newtab-label-download = Преузето
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = Уклони секцију
-newtab-section-menu-collapse-section = Скупи секцију
-newtab-section-menu-expand-section = Прошири секцију
-newtab-section-menu-manage-section = Управљај секцијом
+newtab-section-menu-remove-section = Уклони одељак
+newtab-section-menu-collapse-section = Скупи одељак
+newtab-section-menu-expand-section = Прошири одељак
+newtab-section-menu-manage-section = Управљај одељком
 newtab-section-menu-manage-webext = Управљај екстензијама
 newtab-section-menu-add-topsite = Додај омиљени сајт
 newtab-section-menu-add-search-engine = Додај претраживач

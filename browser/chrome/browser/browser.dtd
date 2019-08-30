@@ -851,16 +851,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Отвори поставке блокирања садржаја">
 
 
+<!ENTITY protections.etpON.header "Побољшана заштита од праћења је УКЉУЧЕНА на овој страници">
+<!ENTITY protections.etpOFF.header "Побољшана заштита од праћења је ИСКЉУЧЕНА на овој страници">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Више података о побољшаној заштити од праћења">
+<!ENTITY protections.settings.label "Подешавања заштите">
+<!ENTITY protections.report.label "Прикажи читав извештај">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Страница не ради?">
+<!ENTITY protections.siteNotWorkingView.title "Страница не ради?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Искључите заштиту ако имате проблеме са ставкама:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Поља за пријаву">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Обрасци">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Плаћања">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Коментари">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Видео записи">
+<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Страница је неисправна чак и након искључивања заштите?">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Пошаљите извештај">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
      In the protections panel, Content Blocking category items are in three sections:
@@ -868,9 +883,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Блокирано">
+<!ENTITY protections.notBlocking2.label "Дозвољено">
+<!ENTITY protections.notFound.label "Нису уочени">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
+<!ENTITY protections.notBlocking.why.label "Зашто?">
+<!ENTITY protections.trackingContent.label "Садржај који прати">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -911,6 +931,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.label "Управљај блокирањем садржаја">
 
 
+<!ENTITY contentBlocking.manageSettings2.label "Управљајте подешавањима заштите">
 <!ENTITY contentBlocking.manageSettings.accesskey "У">
 
 <!ENTITY contentBlocking.trackersView.label "Пратиоци">
