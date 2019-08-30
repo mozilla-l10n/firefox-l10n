@@ -17,9 +17,6 @@ menu-select-all =
     .label = Marker alt
     .accesskey = a
 
-close-window =
-    .key = A
-
 close-dialog =
     .key = w
 
