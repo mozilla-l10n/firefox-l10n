@@ -4,7 +4,6 @@
 
 about-config-warning-checkbox = অনুগ্রহ করে, আমাকে আবার বিরক্ত কর!
 about-config-warning-button = আমি ঝুঁকি গ্রহণ করলাম
-about-config-title = about:config
 about-config-search-input =
     .placeholder = অনুসন্ধান করুন
 about-config-show-all = সব দেখাও
@@ -14,6 +13,18 @@ about-config-pref-edit = সম্পাদনা
 about-config-pref-save = সংরক্ষণ
 about-config-pref-reset = রিসেট
 about-config-pref-delete = অপসারণ
+about-config-pref-add-button =
+    .title = যোগ
+about-config-pref-toggle-button =
+    .title = টগল
+about-config-pref-edit-button =
+    .title = সম্পাদনা
+about-config-pref-save-button =
+    .title = সংরক্ষণ
+about-config-pref-reset-button =
+    .title = রিসেট
+about-config-pref-delete-button =
+    .title = অপসারণ
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
