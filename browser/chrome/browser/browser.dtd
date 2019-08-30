@@ -545,6 +545,8 @@
 <!ENTITY identity.connectionSecure "Connessione sicura">
 <!ENTITY identity.connectionSecure2 "Connessione sicura">
 <!ENTITY identity.connectionNotSecure "Connessione non sicura">
+<!ENTITY identity.connectionSecure3 "Connessione sicura">
+<!ENTITY identity.connectionNotSecure2 "Connessione non sicura">
 <!ENTITY identity.connectionNotSecureSecurityView "La connessione con questo sito non è sicura.">
 <!ENTITY identity.connectionFile "Questa pagina è salvata sul dispositivo in uso.">
 <!ENTITY identity.connectionVerified2 "La connessione con questo sito è sicura. Il proprietario del sito è:">
@@ -554,6 +556,7 @@
 <!ENTITY identity.insecureLoginForms2 "Gli accessi effettuati in questa pagina potrebbero essere vulnerabili.">
 <!ENTITY identity.customRoot "Connessione verificata da un certificato emesso da un’autorità non riconosciuta da Mozilla.">
 <!ENTITY identity.evOwnerLabel "Proprietario sito:">
+<!ENTITY identity.evOwnerLabel2 "Certificato rilasciato a:">
 <!ENTITY identity.activeBlocked "Alcuni elementi non sicuri di questa pagina sono stati bloccati da &brandShortName;.">
 <!ENTITY identity.passiveLoaded "Alcuni elementi di questa pagina non sono sicuri (ad esempio immagini).">
 <!ENTITY identity.activeLoaded "La protezione è disattivata per questa pagina.">
