@@ -7,7 +7,6 @@ about-config-warning-title = Tie ĉi loĝas drakoj!
 about-config-warning-text = Ŝanĝo de tiuj spertulaj agordoj povas efiki malbone sur la stabileco, sekureco kaj efikeco de tiu ĉi programo. Vi devus daŭrigi nur se vi estas certa, ke vi scias kion vi faras.
 about-config-warning-checkbox = Bonvolu averti min venontfoje!
 about-config-warning-button = Mi akceptas la riskon
-about-config-title = about:config
 about-config2-title = Spertulaj agordoj
 about-config-search-input =
     .placeholder = Serĉi
@@ -18,6 +17,18 @@ about-config-pref-edit = Redakti
 about-config-pref-save = Konservi
 about-config-pref-reset = Norma valoro
 about-config-pref-delete = Forigi
+about-config-pref-add-button =
+    .title = Aldoni
+about-config-pref-toggle-button =
+    .title = Baskuligi
+about-config-pref-edit-button =
+    .title = Redakti
+about-config-pref-save-button =
+    .title = Konservi
+about-config-pref-reset-button =
+    .title = Norma valoro
+about-config-pref-delete-button =
+    .title = Forigi
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
