@@ -5,7 +5,6 @@
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = Այստեղ զգույշ եղեք:
 about-config-warning-button = Ես ընդունում եմ վտանգը:
-about-config-title = about:config
 about-config2-title = Ընդլայնված կազմաձևեր
 about-config-search-input =
     .placeholder = Որոնում
@@ -16,6 +15,18 @@ about-config-pref-edit = Խմբագրել
 about-config-pref-save = Պահպանել
 about-config-pref-reset = Վերակայել
 about-config-pref-delete = Ջնջել
+about-config-pref-add-button =
+    .title = Ավելացնել
+about-config-pref-toggle-button =
+    .title = Փոփոխել
+about-config-pref-edit-button =
+    .title = Խմբագրել
+about-config-pref-save-button =
+    .title = Պահպանել
+about-config-pref-reset-button =
+    .title = Վերակայել
+about-config-pref-delete-button =
+    .title = Ջնջել
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
