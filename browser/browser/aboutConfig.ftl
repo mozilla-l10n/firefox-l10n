@@ -17,6 +17,18 @@ about-config-pref-edit = Muokkaa
 about-config-pref-save = Tallenna
 about-config-pref-reset = Nollaa
 about-config-pref-delete = Poista
+about-config-pref-add-button =
+    .title = Lisää
+about-config-pref-toggle-button =
+    .title = Vaihda tilaa
+about-config-pref-edit-button =
+    .title = Muokkaa
+about-config-pref-save-button =
+    .title = Tallenna
+about-config-pref-reset-button =
+    .title = Nollaa
+about-config-pref-delete-button =
+    .title = Poista
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
