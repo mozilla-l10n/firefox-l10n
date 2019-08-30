@@ -7,7 +7,6 @@ about-config-warning-title = Here be dragons!
 about-config-warning-text = Changing these advanced settings can be harmful to the stability, security, and performance of this application. You should only continue if you are sure of what you are doing.
 about-config-warning-checkbox = Annoy me again, please!
 about-config-warning-button = I accept the risk
-about-config-title = about:config
 about-config2-title = Advanced Configurations
 about-config-search-input =
     .placeholder = Search
