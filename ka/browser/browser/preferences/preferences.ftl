@@ -432,7 +432,7 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = ცნობები
-home-prefs-snippets-description = სიახლეები { -vendor-short-name }-სა და { -brand-product-name }-ისგან
+home-prefs-snippets-description = სიახლეები, რომელთაც გთავაზობთ { -vendor-short-name } და { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
