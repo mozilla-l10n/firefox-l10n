@@ -7,7 +7,6 @@ about-config-warning-title = 内有恶龙！
 about-config-warning-text = 修改这些高级设置可能对本应用程序的稳定性、安全性以及性能造成不良影响。请仅在您十分清楚的情况下继续操作。
 about-config-warning-checkbox = 下次仍显示此警告
 about-config-warning-button = 我会小心的
-about-config-title = about:config
 about-config2-title = 高级配置
 about-config-search-input =
     .placeholder = 搜索
@@ -18,6 +17,18 @@ about-config-pref-edit = 编辑
 about-config-pref-save = 保存
 about-config-pref-reset = 重置
 about-config-pref-delete = 删除
+about-config-pref-add-button =
+    .title = 添加
+about-config-pref-toggle-button =
+    .title = 切换
+about-config-pref-edit-button =
+    .title = 编辑
+about-config-pref-save-button =
+    .title = 保存
+about-config-pref-reset-button =
+    .title = 重置
+about-config-pref-delete-button =
+    .title = 删除
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
