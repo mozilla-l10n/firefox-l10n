@@ -30,8 +30,7 @@ menu-menuitem-preferences =
         [windows] ตัวเลือก
        *[other] ค่ากำหนด
     }
-menu-menuitem-feedback = ส่งข้อคิดเห็น
-menu-menuitem-faq = คำถามที่พบบ่อย
+about-logins-menu-menuitem-help = ช่วยเหลือ
 menu-menuitem-android-app = { -lockwise-brand-short-name } สำหรับ Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } สำหรับ iPhone และ iPad
 
@@ -47,6 +46,7 @@ login-list-last-changed-option = วันที่เปลี่ยนแป�
 login-list-last-used-option = วันที่ใช้ครั้งล่าสุด
 login-list-intro-title = ไม่พบการเข้าสู่ระบบ
 login-list-intro-description = เมื่อคุณบันทึกรหัสผ่านใน { -brand-product-name } รหัสผ่านจะปรากฏขึ้นที่นี่
+about-logins-login-list-empty-search-title = ไม่พบการเข้าสู่ระบบ
 login-list-item-title-new-login = การเข้าสู่ระบบใหม่
 login-list-item-subtitle-missing-username = (ไม่มีชื่อผู้ใช้)
 
@@ -68,6 +68,8 @@ login-item-origin =
 login-item-username-label = ชื่อผู้ใช้
 login-item-username =
     .placeholder = name@example.com
+about-logins-login-item-username =
+    .placeholder = (ไม่มีชื่อผู้ใช้)
 login-item-copy-username-button-text = คัดลอก
 login-item-copied-username-button-text = คัดลอกแล้ว!
 login-item-password-label = รหัสผ่าน
