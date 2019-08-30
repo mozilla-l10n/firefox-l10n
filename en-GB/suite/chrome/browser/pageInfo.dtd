@@ -7,14 +7,14 @@
 <!-- Note to localizers, don't localize the strings 'width' or 'height' -->
 <!ENTITY  pageInfoWindow.dimensions  "width: 100ch; height: 38em;">
 
-<!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "Copy">
-<!ENTITY  copy.accesskey        "C">
-<!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "Select All">
-<!ENTITY  selectall.accesskey   "A">
-<!ENTITY  openHelpMac.key       "?">
-<!ENTITY  closeWindow.key       "w">
+<!ENTITY  copy.key               "C">
+<!ENTITY  copy.label             "Copy">
+<!ENTITY  copy.accesskey         "C">
+<!ENTITY  selectall.key          "A">
+<!ENTITY  selectall.label        "Select All">
+<!ENTITY  selectall.accesskey    "A">
+<!ENTITY  openHelpMac.key        "?">
+<!ENTITY  closeWindow.key        "w">
 <!ENTITY  copyLinks.label           "Copy Link(s)">
 <!ENTITY  copyLinks.accesskey       "L">
 <!ENTITY  openInNewTab.label        "Open in New Tab">
@@ -62,6 +62,8 @@
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaURL              "Address:">
 <!ENTITY  mediaAlt              "Alternate Text:">
+<!ENTITY  mediaLocation         "Location:">
+<!ENTITY  mediaText             "Associated Text:">
 <!ENTITY  mediaAltHeader        "Alternate Text">
 <!ENTITY  mediaAddress          "Address">
 <!ENTITY  mediaType             "Type">
@@ -70,6 +72,7 @@
 <!ENTITY  mediaDimensions       "Specified Dimensions:">
 <!ENTITY  mediaPhysDimensions   "Actual Dimensions:">
 <!ENTITY  mediaTitle            "Title:">
+<!ENTITY  mediaDimension        "Dimensions:">
 <!ENTITY  mediaLongdesc         "Long Description:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "Save As…">
