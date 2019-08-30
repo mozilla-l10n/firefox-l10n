@@ -160,13 +160,14 @@
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip "Gestisci la traduzione della pagina">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip "Gestisci l’utilizzo del software DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip "Apri pannello MIDI">
-<!ENTITY urlbar.cameraBlocked.tooltip "La fotocamera è bloccata per questo sito.">
-<!ENTITY urlbar.microphoneBlocked.tooltip "Il microfono è bloccato per questo sito.">
-<!ENTITY urlbar.screenBlocked.tooltip "La condivisione dello schermo è bloccata per questo sito.">
-<!ENTITY urlbar.geolocationBlocked.tooltip "Il rilevamento della posizione è bloccato per questo sito.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip "Le notifiche sono bloccate per questo sito.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Il salvataggio dati nell’archivio permanente è bloccato per questo sito.">
-<!ENTITY urlbar.popupBlocked.tooltip "Sono state bloccate delle finestre pop-up per questo sito web.">
+<!ENTITY urlbar.permissionsGranted.tooltip "Sono stati concessi permessi aggiuntivi a questo sito web.">
+<!ENTITY urlbar.cameraBlocked.tooltip "La fotocamera è bloccata per questo sito web.">
+<!ENTITY urlbar.microphoneBlocked.tooltip "Il microfono è bloccato per questo sito web.">
+<!ENTITY urlbar.screenBlocked.tooltip "La condivisione dello schermo è bloccata per questo sito web.">
+<!ENTITY urlbar.geolocationBlocked.tooltip "Il rilevamento della posizione è bloccato per questo sito web.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip "Le notifiche sono bloccate per questo sito web.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Il salvataggio dati nell’archivio permanente è bloccato per questo sito web.">
+<!ENTITY urlbar.popupBlocked.tooltip "Sono state bloccate delle finestre pop-up per questo sito web web.">
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip "È stata bloccata la riproduzione automatica di contenuti sonori per questo sito web.">
 <!ENTITY urlbar.canvasBlocked.tooltip "È stato bloccato l’accesso ai dati dei canvas per questo sito web.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip "È stato bloccato l’utilizzo del plugin Adobe Flash per questo sito web.">
@@ -579,6 +580,7 @@
 <!ENTITY identity.clearSiteData "Elimina cookie e dati dei siti web…">
 <!ENTITY identity.permissions "Permessi">
 <!ENTITY identity.permissions2 "Permessi impostati">
+<!ENTITY identity.permissions3 "Permessi">
 <!ENTITY identity.permissionsEmpty "Nessun permesso speciale associato a questo sito.">
 <!ENTITY identity.permissionsReloadHint "Potrebbe essere necessario ricaricare la pagina per rendere effettive le modifiche.">
 <!ENTITY identity.permissionsPreferences.tooltip "Apri preferenze per i permessi">
