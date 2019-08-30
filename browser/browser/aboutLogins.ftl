@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Opsjes
        *[other] Foarkarren
     }
-menu-menuitem-feedback = Kommentaar ferstjoere
-menu-menuitem-faq = Faak stelde fragen
+about-logins-menu-menuitem-help = Help
 menu-menuitem-android-app = { -lockwise-brand-short-name } foar Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } foar iPhone en iPad
 
@@ -57,6 +56,8 @@ login-list-last-changed-option = Lêst wizige
 login-list-last-used-option = Lêst brûkt
 login-list-intro-title = Gjin oanmeldingen fûn
 login-list-intro-description = Wannear jo in wachtwurd bewarje yn { -brand-product-name }, wurdt dit hjir werjûn.
+about-logins-login-list-empty-search-title = Gjin oanmeldingen fûn
+about-logins-login-list-empty-search-description = Jo sykopdracht hat gjin resultaten oplevere.
 login-list-item-title-new-login = Nije oanmelding
 login-list-item-subtitle-new-login = Fier jo oanmeldgegevens yn
 login-list-item-subtitle-missing-username = (gjin brûkersnamme)
@@ -67,7 +68,7 @@ login-intro-heading = Sykje jo bewarre oanmeldingen? Stel { -sync-brand-short-na
 login-intro-description = As jo jo oanmeldgegevens by { -brand-product-name } op in oar apparaat bewarre hawwe, kinne jo se sa ophelje:
 login-intro-instruction-fxa = Meitsje op it apparaat wêrop jo oanmeldgegevens stean in { -fxaccount-brand-name } of meld jo oan
 login-intro-instruction-fxa-settings = Soargje derfoar dat jo it fjild Oanmeldingen yn de ynstellingen fan { -sync-brand-short-name } oanfinkt hawwe
-login-intro-instruction-faq = Besykje foar mear help de <a data-l10n-name="faq">faak stelde fragen</a> foar { -lockwise-brand-short-name }
+about-logins-intro-instruction-help = Besykje <a data-l10n-name="help-link">Stipe foar { -lockwise-brand-short-name }</a> foar mear help
 
 ## Login
 
@@ -77,10 +78,11 @@ login-item-delete-button = Fuortsmite
 login-item-origin-label = Websiteadres
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Starte
 login-item-username-label = Brûkersnamme
 login-item-username =
     .placeholder = jonamme@example.com
+about-logins-login-item-username =
+    .placeholder = (gjin brûkersnamme)
 login-item-copy-username-button-text = Kopiearje
 login-item-copied-username-button-text = Kopiearre!
 login-item-password-label = Wachtwurd
