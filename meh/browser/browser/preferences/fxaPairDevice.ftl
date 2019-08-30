@@ -5,4 +5,6 @@
 fxa-pair-device-dialog =
     .title = Chu´un inka ka̱a̱
     .style = width: 26em; min-height: 35em;
+fxa-qrcode-heading-phase1 = 1. Dee kuni sá´ánu, chu´un <a data-l10n-name="connect-another-device"> Firefox nuu ka̱a̱ móvil</a>
+fxa-qrcode-error-title = Ntu nkuvi chunta´an.
 fxa-qrcode-error-body = Nasá´á tuku

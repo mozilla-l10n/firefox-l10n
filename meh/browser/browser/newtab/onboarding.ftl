@@ -64,3 +64,5 @@ onboarding-lockwise-passwords-button2 = Ni'i App
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-extension-button = Tee extensión
+return-to-amo-get-started-button = Nakajie´e  jii{ -brand-short-name }

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+panic-button-open-new-window = Nsine iin ventana jíía
 panic-button-forget-button =
     .label = Nnaa
 
@@ -23,3 +24,6 @@ panic-button-day =
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
+panic-button-delete-cookies = Nxita <strong>Cookies</strong>
+panic-button-delete-history = Nxita <strong>Sɨ´ɨ</strong>
+panic-button-delete-tabs-and-windows = Nkasɨ<strong>Pestañas</strong> jii <strong>Ventanas</strong>
