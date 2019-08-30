@@ -7,7 +7,6 @@ about-config-warning-title = ¡B'enam pa ri man etaman ta ruwäch!
 about-config-warning-text = Nik'ex re q'axinäq nuk'ulem re' rik'in jub'a' xtutz'ila' rujikilal, rujikomal chuqa' rub'eyal nisamäj re chokoy re'. Ütz yasamäj chik el we at jikïl rik'in ri nab'än.
 about-config-warning-checkbox = ¡Tiya' chik pe rutzijol k'ayewal chwe, tib'ana' utzil!
 about-config-warning-button = Yinok chuwäch ri k'ayewal
-about-config-title = about:config
 about-config2-title = Q'axinäq taq Nuk'ulem
 about-config-search-input =
     .placeholder = Tikanöx
@@ -18,6 +17,18 @@ about-config-pref-edit = Tinuk'
 about-config-pref-save = Tiyak
 about-config-pref-reset = Titzolïx pe
 about-config-pref-delete = Tiyuj
+about-config-pref-add-button =
+    .title = Titz'aqatisäx
+about-config-pref-toggle-button =
+    .title = Tik'exlöx
+about-config-pref-edit-button =
+    .title = Tinuk'
+about-config-pref-save-button =
+    .title = Tiyak
+about-config-pref-reset-button =
+    .title = Titzolïx pe
+about-config-pref-delete-button =
+    .title = Tiyuj
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
