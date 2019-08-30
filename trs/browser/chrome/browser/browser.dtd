@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Ganikaj ñu'ù' da' garasun' software DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Na'nïn' MIDI panel">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Huā doj nej sa dunâ ni'nïnjt riña sitiô nan da' gi'iaj sun man.">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Gi'iaj blokeandot si kamarat guenda sitio web na.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Gi'iaj blokeandot sa uxun nanèe guenda sitio web na.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Gi'iaj blokeandot da' ni si gini'iaj nej dugui' a'ngo hiuj u riña du'ua si aga't.">
@@ -813,10 +815,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Koneksiôn">
 <!ENTITY identity.connectionSecure "Konexiôn yitinj in">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Si seguridâ koneksiôn">
-
 <!ENTITY identity.connectionSecure2 "Huā seguridâ nikāj koneksiôn">
 <!ENTITY identity.connectionNotSecure "Nitaj si yitïnj hua coneksion na">
 <!ENTITY identity.connectionNotSecureSecurityView "Nitāj si huā hue'e seguridâ nikāj sitiô nan.">
@@ -866,6 +864,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Yi'nïn' nej sa da'uî' gachìnj ni'iô'">
+
+<!ENTITY identity.permissions3 "Gachinj ni'iô'">
 <!ENTITY identity.permissionsEmpty "Nitaj si huaj gatut riña sitio na daj garan' ruat.">
 <!ENTITY identity.permissionsReloadHint "Nagi'iaj nakà ñut pajinâ na da' gi'iaj sun sa nadunat.">
 <!ENTITY identity.permissionsPreferences.tooltip "Na'nïn' sa achín ni'iaj">
@@ -879,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "Gini'in doj dàj hua rayi'î sa narán rayi'ît nga aché nunt">
 <!ENTITY protections.settings.label "Riña 'na' nej sa nagi'iô' sa narán rayi'î'">
 <!ENTITY protections.report.label "Ni'iaj da' huā ngej">
+<!ENTITY protections.showreport.label "Nadigân repôrte">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -898,8 +899,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Huā nïn' na'ue gi'iaj sun sitio nga gisîj naránt riña sa dugumîn sò' a'?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Ga'nïnj 'ngo infôrme">
 
-<!ENTITY protections.blocking.label "Garun'">
-<!ENTITY protections.notBlocking.label "Nitaj si hua ran">
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Nitāj si hūaj nayi'nin">
+<!ENTITY protections.notBlocking2.label "Ga'nïn'">
+<!ENTITY protections.notFound.label "Nitāj à'ngòj nari'ij">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Nù huin saj?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Ga'ue gahui a'nan' huā da'āj nej sa 'na' riña sîtio sisī naránt riña man. Huā da'āj nej butûn, formulârio nī riña gayi'ìt sesiûn si gi'iaj sun hue'ê sisī nitāj nej sa naga'nāj a hua.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Sisī dunâ'àjt nej sa dugumî sò' nī gatū daran' nej sa naga'nāj sò'. Ga'ue nagi'iaj sà'aj da'āj nej sa 'na' riña sîtio nej.">
@@ -960,7 +971,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Sa naga'naj">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Da' garánt riña daran' sa naga'naj ni ganahuit sa arán gahuin ma ya yitinj in.">
 
 <!ENTITY contentBlocking.cookies.label "Nej kôki">
