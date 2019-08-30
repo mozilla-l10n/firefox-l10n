@@ -87,3 +87,11 @@ manifest-loaded-ok = Manifest je so začitał.
 manifest-loaded-error = Při čitanju manifesta je zmylk nastał.
 # Text displayed when the page has no manifest available
 manifest-non-existing = Žadyn manifest namakany.
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Warnowanski symbol
+    .title = Warnowanje
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Zmylkowy symbol
+    .title = Zmylk

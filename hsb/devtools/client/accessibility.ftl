@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Dalše informacije
 accessibility-text-label-header = Tekstowe etikety a mjena
+accessibility-keyboard-header = Tastatura
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -41,3 +42,10 @@ accessibility-text-label-issue-interactive = Interaktiwne elementy dyrbja so woz
 accessibility-text-label-issue-optgroup-label = Wužiwajće atribut <code>label</code>, zo byšće elementy <span>optgroup</span> popisał. <a>Dalše informacije</a>
 accessibility-text-label-issue-optgroup-label2 = Wužiwajće atribut <code>label</code>, zo byšće element <span>optgroup</span> popisał. <a>Dalše informacije</a>
 accessibility-text-label-issue-toolbar = Symbolowe lajsty dyrbja so woznamjenić, hdyž je wjace hač jedneje symboloweje lajsty. <a>Dalše informacije</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
+accessibility-keyboard-issue-semantics = Fokusujomne elementy měli interaktiwnu semantiku měć. <a>Dalše informacije</a>
+accessibility-keyboard-issue-focusable = Interaktiwne elementy dyrbja so fokusować dać. <a>Dalše informacije</a>
