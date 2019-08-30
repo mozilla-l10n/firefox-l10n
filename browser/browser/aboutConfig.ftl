@@ -7,7 +7,6 @@ about-config-warning-title = Aneu amb compte!
 about-config-warning-text = Canviar aquests paràmetres avançats pot ser perillós per a l'estabilitat, la seguretat i el rendiment de l'aplicació. Només hauríeu de continuar si sabeu què esteu fent.
 about-config-warning-checkbox = Mostra'm aquest avís la propera vegada
 about-config-warning-button = Accepto el risc
-about-config-title = about:config
 about-config2-title = Configuracions avançades
 about-config-search-input =
     .placeholder = Cerca
@@ -18,6 +17,18 @@ about-config-pref-edit = Edita
 about-config-pref-save = Desa
 about-config-pref-reset = Reinicia
 about-config-pref-delete = Suprimeix
+about-config-pref-add-button =
+    .title = Afegeix
+about-config-pref-toggle-button =
+    .title = Commuta
+about-config-pref-edit-button =
+    .title = Edita
+about-config-pref-save-button =
+    .title = Desa
+about-config-pref-reset-button =
+    .title = Reinicia
+about-config-pref-delete-button =
+    .title = Suprimeix
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
