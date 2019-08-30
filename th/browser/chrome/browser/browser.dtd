@@ -150,6 +150,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "ลงชื่อเข้า &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "เปิด &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "บัญชี">
+<!ENTITY fxa.menu.firefoxServices.label "บริการของ &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "จัดการการแปลหน้านี้">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "จัดการการใช้ซอฟต์แวร์ DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "เปิดแผง MIDI">
+
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "คุณได้ปิดกั้นกล้องของคุณสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "คุณได้ปิดกั้นไมโครโฟนของคุณสำหรับเว็บไซต์นี้">
@@ -808,10 +810,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "การเชื่อมต่อ">
 <!ENTITY identity.connectionSecure "การเชื่อมต่อปลอดภัย">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "ความปลอดภัยของการเชื่อมต่อ">
-
 <!ENTITY identity.connectionSecure2 "การเชื่อมต่อปลอดภัย">
 <!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่ปลอดภัย">
 <!ENTITY identity.connectionFile "หน้านี้ถูกจัดเก็บไว้ในคอมพิวเตอร์ของคุณ">
@@ -858,6 +856,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "การตั้งสิทธิอนุญาต">
+
+<!ENTITY identity.permissions3 "สิทธิอนุญาต">
 <!ENTITY identity.permissionsEmpty "คุณไม่ได้อนุญาตไซต์นี้ด้วยสิทธิอนุญาตพิเศษใด ๆ">
 <!ENTITY identity.permissionsReloadHint "คุณอาจจำเป็นต้องโหลดหน้าใหม่เพื่อให้การเปลี่ยนแปลงมีผล">
 <!ENTITY identity.permissionsPreferences.tooltip "เปิดค่ากำหนดสิทธิอนุญาต">
@@ -870,6 +870,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.settings.label "การตั้งค่าการป้องกัน">
 <!ENTITY protections.report.label "แสดงรายงานฉบับเต็ม">
+<!ENTITY protections.showreport.label "แสดงรายงาน">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -892,8 +893,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "ปิดกั้น">
-<!ENTITY protections.notBlocking2.label "อนุญาต">
+<!ENTITY protections.blocking2.label "ปิดกั้นแล้ว">
+<!ENTITY protections.notBlocking2.label "อนุญาตแล้ว">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
@@ -941,6 +942,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.label "จัดการการปิดกั้นเนื้อหา">
 
 
+<!ENTITY contentBlocking.manageSettings2.label "จัดการการตั้งค่าการป้องกัน">
 <!ENTITY contentBlocking.manageSettings.accesskey "จ">
 
 <!ENTITY contentBlocking.trackersView.label "ตัวติดตาม">
