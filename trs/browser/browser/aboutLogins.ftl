@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Nej sa huaa
        *[other] Nej sa arajsunt doj
     }
-menu-menuitem-feedback = Ga'nïnj si nuguàn't gan'an
-menu-menuitem-faq = Nej nuguan' nachín nan'anj yitïn
+about-logins-menu-menuitem-help = Sa rugûñu'unj un
 menu-menuitem-android-app = { -lockwise-brand-short-name } guenda Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } guenda iPhone ni iPad
 
@@ -57,6 +56,8 @@ login-list-last-changed-option = Sa nagi'iât ne' rukù ni'inj
 login-list-last-used-option = Sa garajsun rukù nï't
 login-list-intro-title = Nu nari'ij riña gayi'ī sesiôn
 login-list-intro-description = Ngà na'ní sa't da'ngā' huìi { -brand-product-name }, ni ñuna gahui ma ni'iajt.
+about-logins-login-list-empty-search-title = Nu nari'ij riña gayi'ì sesiôn
+about-logins-login-list-empty-search-description = Nitaj nuguan' nikaj dugui' ngà sa nana'uî't 'na'.
 login-list-item-title-new-login = Gayi'ì sesiûn nakàa
 login-list-item-subtitle-new-login = Gacrun dánt riña gayi'ìt sesiûn
 login-list-item-subtitle-missing-username = (nitaj si yugui usuario hua)
@@ -67,7 +68,7 @@ login-intro-heading = Nana'uit riña gayi'i si sesiôn raj? Gi'iaj yuhui { -sync
 login-intro-description = Si nari't riña gayi'ìt sesiôn riña { -brand-product-name } riña a'ngo aga'aj, ni ñuna ni'iaj daj gi'iát da' nari't riña aga' na.
 login-intro-instruction-fxa = Giri nej si gayi'ì sesiôn riña { -fxaccount-brand-name } riña nej aga' ngaà nun sa' ma.
 login-intro-instruction-fxa-settings = Ni'iaj si ganahuit riña gayi'iìt sesioôn riña { -sync-brand-short-name }
-login-intro-instruction-faq = Huij riña { -lockwise-brand-short-name } <a data-l10n-name="faq">sa nachin' na'anj yitinj</a>daj gini'int doj
+about-logins-intro-instruction-help = Guij riña <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Sopôrte</a> da' narì't doj sa rugûñu'unj sò'
 
 ## Login
 
@@ -77,10 +78,11 @@ login-item-delete-button = Dure'
 login-item-origin-label = Si Direlsiûn Sîtio
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Sa nakà nadigân si
 login-item-username-label = Si yuguî rè'
 login-item-username =
     .placeholder = name@example.com
+about-logins-login-item-username =
+    .placeholder = (nitaj si yugui usuario hua)
 login-item-copy-username-button-text = Guxun' ni nachrun' a'ngô hiuj u
 login-item-copied-username-button-text = 'Ngà guxun'
 login-item-password-label = Da'nga' huìi

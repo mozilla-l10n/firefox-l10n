@@ -96,6 +96,9 @@ cfr-whatsnew-tracking-blocked-title =
         [one] Narán riña sa naga'naj a
        *[other] Narán riña nej sa naga'naj a
     }
+cfr-whatsnew-tracking-blocked-subtitle = Asìj
+cfr-whatsnew-tracking-blocked-link-text = Dàj rugui' riña infôrme
+cfr-whatsnew-lockwise-backup-title = Na'nïnj sà' a'ngô hiuj u da'nga' huì nikajt
 
 ## Bookmark Sync
 
