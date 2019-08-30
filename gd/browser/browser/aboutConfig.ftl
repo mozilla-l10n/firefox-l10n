@@ -7,7 +7,6 @@ about-config-warning-title = An aire, oir an t-saoghail!
 about-config-warning-text = Ma dh’atharraicheas tu na roghainnean adhartach seo, dh’fhaoidte gun cuir thu claon seasmhachd, tèarainteachd agus dèanadas na h-aplacaid seo. Cha bu chòir dhut leantainn air adhart ach ma tha thu eòlach air a leithid a rud.
 about-config-warning-checkbox = Cùm a’ dol a’ sealltainn seo!
 about-config-warning-button = Tha mi leagte ris a’ chunnart
-about-config-title = about:config
 about-config2-title = Roghainnean adhartach
 about-config-search-input =
     .placeholder = Lorg
@@ -18,6 +17,18 @@ about-config-pref-edit = Deasaich
 about-config-pref-save = Sàbhail
 about-config-pref-reset = Ath-shuidhich
 about-config-pref-delete = Sguab às
+about-config-pref-add-button =
+    .title = Cuir ris
+about-config-pref-toggle-button =
+    .title = Toglaich
+about-config-pref-edit-button =
+    .title = Deasaich
+about-config-pref-save-button =
+    .title = Sàbhail
+about-config-pref-reset-button =
+    .title = Ath-shuidhich
+about-config-pref-delete-button =
+    .title = Sguab às
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
