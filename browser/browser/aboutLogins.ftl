@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Opções
        *[other] Preferências
     }
-menu-menuitem-feedback = Enviar opinião
-menu-menuitem-faq = Perguntas frequentes
+about-logins-menu-menuitem-help = Ajuda
 menu-menuitem-android-app = { -lockwise-brand-short-name } para Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } para iPhone e iPad
 
@@ -57,6 +56,8 @@ login-list-last-changed-option = Última modificação
 login-list-last-used-option = Último uso
 login-list-intro-title = Nenhuma conta encontrada
 login-list-intro-description = Quando você salva uma senha no { -brand-product-name }, ela aparece aqui.
+about-logins-login-list-empty-search-title = Nenhuma conta encontrada
+about-logins-login-list-empty-search-description = Nenhum resultado corresponde à sua busca.
 login-list-item-title-new-login = Nova conta
 login-list-item-subtitle-new-login = Informe as credenciais da sua conta
 login-list-item-subtitle-missing-username = (sem nome de usuário)
@@ -67,7 +68,7 @@ login-intro-heading = Procurando suas contas salvas? Configure o { -sync-brand-s
 login-intro-description = Se você salvou suas contas no { -brand-product-name } em outro dispositivo, veja como tê-las aqui:
 login-intro-instruction-fxa = Crie ou entre na sua { -fxaccount-brand-name } no dispositivo onde suas contas estão salvas
 login-intro-instruction-fxa-settings = Selecione a opção 'Contas de acesso' nas configurações do { -sync-brand-short-name }
-login-intro-instruction-faq = Visite as <a data-l10n-name="faq">perguntas frequentes</a> do { -lockwise-brand-short-name } para mais ajuda
+about-logins-intro-instruction-help = Visite o <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Suporte</a> para mais ajuda
 
 ## Login
 
@@ -77,10 +78,11 @@ login-item-delete-button = Excluir
 login-item-origin-label = Endereço do site
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Iniciar
 login-item-username-label = Nome de usuário
 login-item-username =
     .placeholder = nome@example.com
+about-logins-login-item-username =
+    .placeholder = (sem nome de usuário)
 login-item-copy-username-button-text = Copiar
 login-item-copied-username-button-text = Copiado!
 login-item-password-label = Senha
