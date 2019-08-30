@@ -85,7 +85,7 @@ cfr-whatsnew-panel-header = Novedades
 cfr-whatsnew-release-notes-link-text = Leer las notas de la versión
 cfr-whatsnew-fx70-title = { -brand-short-name } ahora lucha más fuerte por su privacidad
 cfr-whatsnew-fx70-body =
-    La última actualización mejora la función de protección de rastreo y hace
+    La última actualización mejora la función de protección contra rastreo y hace
     que sea muy sencillo crear contraseñas seguras para cada sitio.
 cfr-whatsnew-tracking-protect-title = Protéjase de los rastreadores
 cfr-whatsnew-tracking-protect-body =
