@@ -4,7 +4,6 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = ¡Kaka nuu ntu jinio!
-about-config-title = about:config
 about-config-search-input =
     .placeholder = Nánuku
 about-config-show-all = Kune´ya kuaiyo
@@ -14,6 +13,18 @@ about-config-pref-edit = Natee
 about-config-pref-save = Chuva´a
 about-config-pref-reset = Niko kua íyó
 about-config-pref-delete = Náxitá-má
+about-config-pref-add-button =
+    .title = Tee
+about-config-pref-toggle-button =
+    .title = Conmutar
+about-config-pref-edit-button =
+    .title = Natee
+about-config-pref-save-button =
+    .title = Chuva´a
+about-config-pref-reset-button =
+    .title = Niko kua íyó
+about-config-pref-delete-button =
+    .title = Náxitá-má
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
