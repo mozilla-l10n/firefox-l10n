@@ -24,7 +24,7 @@ newtab-search-box-search-the-web-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = 검색 엔진 추가
-newtab-topsites-add-topsites-header = 새로운 인기 사이트
+newtab-topsites-add-topsites-header = 새 인기 사이트
 newtab-topsites-edit-topsites-header = 인기 사이트 편집
 newtab-topsites-title-label = 제목
 newtab-topsites-title-input =

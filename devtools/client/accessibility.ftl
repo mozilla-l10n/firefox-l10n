@@ -7,6 +7,7 @@
 
 accessibility-learn-more = 더 알아보기
 accessibility-text-label-header = 텍스트 레이블 및 이름
+accessibility-keyboard-header = 키보드
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -41,3 +42,9 @@ accessibility-text-label-issue-interactive = 대화형 요소에 레이블을 �
 accessibility-text-label-issue-optgroup-label = <code>label</code> 속성을 사용하여 <span>optgroup</span> 요소에 레이블을 지정합니다. <a>더 알아보기</a>
 accessibility-text-label-issue-optgroup-label2 = <code>label</code> 속성을 사용하여 <span>optgroup</span>에 레이블을 지정합니다. <a>더 알아보기</a>
 accessibility-text-label-issue-toolbar = 도구 모음이 두 개 이상 있는 경우 도구 모음에 레이블을 지정해야 합니다. <a>더 알아보기</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
+accessibility-keyboard-issue-tabindex = 0 보다 큰 <code>tabindex</code> 속성을 사용하지 마십시오. <a>더 알아보기</a>
