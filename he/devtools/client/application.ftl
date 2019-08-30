@@ -58,3 +58,15 @@ serviceworker-empty-suggestions-console = לחפש אחר שגיאות במסו�
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = לחקור Service Workers ממתחמים אחרים. <a>פתיחת about:debugging</a>
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = שגיאות ואזהרות
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = סמלים
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = סמל אזהרה
+    .title = אזהרה
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = סמל שגיאה
+    .title = שגיאה
