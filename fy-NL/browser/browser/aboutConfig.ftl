@@ -7,7 +7,6 @@ about-config-warning-title = Here be dragons!
 about-config-warning-text = It wizigjen fan dizze wiidweidige foarkarren kin skealik wêze foar de stabiliteit, feilichheid en prestaasjes fan dizze tapassing. Gean allinnich troch as jo witte wat jo dogge.
 about-config-warning-checkbox = Bliuw my yrritearje!
 about-config-warning-button = Ik oanfurdigje it risiko
-about-config-title = about:config
 about-config2-title = Avansearre konfiguraasjes
 about-config-search-input =
     .placeholder = Sykje
@@ -18,6 +17,18 @@ about-config-pref-edit = Bewurkje
 about-config-pref-save = Bewarje
 about-config-pref-reset = Opnij inisjalisearje
 about-config-pref-delete = Fuortsmite
+about-config-pref-add-button =
+    .title = Tafoegje
+about-config-pref-toggle-button =
+    .title = Omskeakelje
+about-config-pref-edit-button =
+    .title = Bewurkje
+about-config-pref-save-button =
+    .title = Bewarje
+about-config-pref-reset-button =
+    .title = Opnij inisjalisearje
+about-config-pref-delete-button =
+    .title = Fuortsmite
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
