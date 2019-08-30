@@ -6,7 +6,6 @@
 about-config-warning-title = ସାବଧାନ! ଟିକେ ଦେଖିକି
 about-config-warning-checkbox = ଦୟାକରି ମତେ ପୁଣିଥରେ ଚିଡ଼ାନ୍ତୁ
 about-config-warning-button = ମୁଁ ସଙ୍କଟକୁ ଅନୁମୋଦନ କରୁଛି
-about-config-title = ବିଷୟ:ସଂରଚନା
 about-config2-title = ଉନ୍ନତ ସଂରଚନା
 about-config-search-input =
     .placeholder = ଖୋଜନ୍ତୁ
@@ -17,6 +16,18 @@ about-config-pref-edit = ସମ୍ପାଦନ କରନ୍ତୁ
 about-config-pref-save = ସାଇତି ରଖନ୍ତୁ
 about-config-pref-reset = ପୁନଃସ୍ଥାପନ କରନ୍ତୁ
 about-config-pref-delete = ଲିଭାନ୍ତୁ
+about-config-pref-add-button =
+    .title = ଯୋଗ କରନ୍ତୁ
+about-config-pref-toggle-button =
+    .title = ଏପଟ ସେପଟ କରନ୍ତୁ
+about-config-pref-edit-button =
+    .title = ସମ୍ପାଦନ କରନ୍ତୁ
+about-config-pref-save-button =
+    .title = ସାଇତି ରଖନ୍ତୁ
+about-config-pref-reset-button =
+    .title = ପୁନଃସ୍ଥାପନ କରନ୍ତୁ
+about-config-pref-delete-button =
+    .title = ଲିଭାନ୍ତୁ
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
