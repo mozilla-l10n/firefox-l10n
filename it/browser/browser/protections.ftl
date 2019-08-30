@@ -23,6 +23,11 @@ graph-total-summary =
      [one] { $count } tracciante bloccato dal { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     *[other] { $count } traccianti bloccati dal { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
   }
+graph-total-tracker-summary =
+  { $count ->
+     [one] <b>{ $count }</b> tracciante bloccato dal { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+    *[other] <b>{ $count }</b> traccianti bloccati dal { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+  }
 
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -51,6 +56,7 @@ cookie-tab-content = Questi cookie ti seguono da un sito all’altro per raccogl
 
 tracker-tab-title = Contenuti traccianti
 tracker-tab-content = I siti web possono caricare pubblicità, video e altri contenuti da fonti esterne che includono elementi traccianti. Il blocco degli elementi traccianti può velocizzare il caricamento dei siti, ma può causare il malfunzionamento di pulsanti, moduli e campi di accesso. <a data-l10n-name="learn-more-link">Ulteriori informazioni</a>
+tracker-tab-description = I siti web possono caricare pubblicità, video e altri contenuti da fonti esterne che includono elementi traccianti. Il blocco degli elementi traccianti può velocizzare il caricamento dei siti, ma può causare il malfunzionamento di pulsanti, moduli e campi di accesso <a data-l10n-name="learn-more-link">Ulteriori informazioni</a>
 
 fingerprinter-tab-title = Fingerprinter
 fingerprinter-tab-content = I fingerprinter raccolgono informazioni sulle impostazioni del browser e del computer al fine di creare un tuo profilo. Utilizzando questa “impronta digitale” sono in grado di seguirti attraverso siti diversi. <a data-l10n-name="learn-more-link">Ulteriori informazioni</a>
@@ -83,11 +89,14 @@ lockwise-sync-status =
     *[other] Sincronizzato con { $count } altri dispositivi
   }
 lockwise-sync-not-syncing = Non sincronizzato con altri dispositivi.
+lockwise-sync-not-syncing-devices = Non sincronizzato con altri dispositivi
 
 monitor-title = Tieni sotto controllo le violazioni di dati
 monitor-link = Come funziona
 monitor-header-content = Controlla { -monitor-brand-name } per verificare se sei stato coinvolto in una violazione di dati e ricevere avvisi per nuove violazioni.
 monitor-header-content-logged-in = { -monitor-brand-name } ti avvisa se le tue informazioni compaiono in una violazione di dati conosciuta.
+monitor-header-content-no-account = Controlla { -monitor-brand-name } per verificare se sei stato coinvolto in una violazione di dati conosciuta e ricevere avvisi per nuove violazioni.
+monitor-header-content-signed-in = { -monitor-brand-name } ti avvisa se le tue informazioni compaiono in una violazione di dati conosciuta.
 monitor-sign-up = Iscriviti per ricevere avvisi sulle violazioni
 auto-scan = Controllato automaticamente oggi
 
@@ -99,6 +108,11 @@ info-monitored-addresses =
      [one] Indirizzo email monitorato.
     *[other] Indirizzi email monitorati.
   }
+info-monitored-emails =
+  { $count ->
+     [one] Indirizzo email monitorato
+    *[other] Indirizzi email monitorati
+  }
 
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
@@ -108,11 +122,17 @@ info-known-breaches =
      [one] Violazione di dati conosciuta che ha esposto le tue informazioni.
     *[other] Violazioni di dati conosciute che hanno esposto le tue informazioni.
   }
+info-known-breaches-found =
+  { $count ->
+     [one] Violazione di dati conosciuta che ha esposto le tue informazioni
+    *[other] Violazioni di dati conosciute che hanno esposto le tue informazioni
+  }
 
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords = Password esposte da tutte le violazioni
+info-exposed-passwords-found = Password esposte da tutte le violazioni
 
 full-report-link = Visualizza il rapporto completo in <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 
