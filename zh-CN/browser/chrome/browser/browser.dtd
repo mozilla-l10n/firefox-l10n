@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "管理 DRM 软件使用">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "打开 MIDI 面板">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "您已授予此站点更多权限。">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "您已阻止此网站使用您的摄像头。">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "您已阻止此网站使用您的麦克风。">
 <!ENTITY urlbar.screenBlocked.tooltip            "您已阻止此网站共享您的屏幕。">
@@ -813,10 +815,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "连接">
 <!ENTITY identity.connectionSecure "安全连接">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "连接安全性">
-
 <!ENTITY identity.connectionSecure2 "安全连接">
 <!ENTITY identity.connectionNotSecure "连接不安全">
 <!ENTITY identity.connectionNotSecureSecurityView "您并未安全地连接至此网站。">
@@ -866,6 +864,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "权限设置">
+
+<!ENTITY identity.permissions3 "权限">
 <!ENTITY identity.permissionsEmpty "您尚未授予此站点任何权限。">
 <!ENTITY identity.permissionsReloadHint "您可能需要重新载入此页面以应用更改。">
 <!ENTITY identity.permissionsPreferences.tooltip "打开权限偏好设置">
@@ -879,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "关于增强型跟踪保护功能的更多信息">
 <!ENTITY protections.settings.label "保护设置">
 <!ENTITY protections.report.label "显示完整报告">
+<!ENTITY protections.showreport.label "显示报告">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -898,12 +899,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "关闭保护后，网站仍然异常？">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "发送反馈">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "已拦截">
 <!ENTITY protections.notBlocking2.label "已允许">
+<!ENTITY protections.notFound.label "未检测到">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "咦？">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "拦截这些内容可能导致某些网站上的元素异常。若无跟踪器，某些按钮、表单、登录字段可能无法正常工作。">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "若关闭保护，将放行此网站上的所有跟踪器。可能也会改善某些网站功能。">
-<!ENTITY protections.notFound.label "未检测到">
 <!ENTITY protections.socialMediaTrackers.label "社交媒体跟踪器">
 <!ENTITY protections.crossSiteTrackingCookies.label "跨网站跟踪型 Cookie">
 <!ENTITY protections.trackingContent.label "跟踪性内容">
@@ -961,7 +971,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "跟踪器">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "要拦截所有跟踪器，请将内容拦截设置为“严格”。">
 
 <!ENTITY contentBlocking.cookies.label "Cookie">

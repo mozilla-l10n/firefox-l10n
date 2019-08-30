@@ -87,3 +87,11 @@ manifest-loaded-ok = 清单文件加载完毕。
 manifest-loaded-error = 载入清单文件时发生错误：
 # Text displayed when the page has no manifest available
 manifest-non-existing = 未发现要查看的清单文件。
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = 警告图标
+    .title = 警告
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = 错误图标
+    .title = 错误
