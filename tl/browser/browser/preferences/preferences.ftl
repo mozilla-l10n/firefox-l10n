@@ -363,12 +363,12 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Bagong Mga Window at Tab
-home-new-windows-tabs-description2 = Pumili ng kung ano ang gustong makita kapag binubuksan ang iyong homepage, bagong windows, at bagong tabs.
+home-new-windows-tabs-description2 = Pumili ng kung ano ang gustong makita kapag binubuksan ang iyong homepage, mga bagong window, at mga bagong tab.
 
 ## Home Section - Home Page Customization
 
-home-homepage-mode-label = Homepage at bagong windows
-home-newtabs-mode-label = Bagong mga tab
+home-homepage-mode-label = Homepage at mga bagong window
+home-newtabs-mode-label = Mga bagong tab
 home-restore-defaults =
     .label = Ibalik sa dating ayos
     .accesskey = I
@@ -399,7 +399,7 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header = Nilalaman ng Home ng Firefox
+home-prefs-content-header = Makikita sa Home ng Firefox
 home-prefs-content-description = Piliin kung anong nilalaman ang gusto mo sa iyong screen ng Home ng Firefox.
 home-prefs-content-discovery-description = Ang Content Discovery sa Firefox Home ay tumutulong sa iyo para makahanap ng mataas na uri at may-katuturang impormasyon mula sa web.
 home-prefs-search-header =
