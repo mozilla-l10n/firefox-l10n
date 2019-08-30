@@ -14,6 +14,16 @@ about-config-pref-edit = సరిచేయి
 about-config-pref-save = భద్రపరుచు
 about-config-pref-reset = పునరుద్ధరించు
 about-config-pref-delete = తొలగించు
+about-config-pref-add-button =
+    .title = చేర్చు
+about-config-pref-toggle-button =
+    .title = అటుదిటుచేయి
+about-config-pref-edit-button =
+    .title = సరిచేయి
+about-config-pref-save-button =
+    .title = భద్రపరుచు
+about-config-pref-delete-button =
+    .title = తొలగించు
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
