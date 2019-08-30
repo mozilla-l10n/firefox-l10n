@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Seçenekler
        *[other] Tercihler
     }
-menu-menuitem-feedback = Görüş gönder
-menu-menuitem-faq = Sıkça sorulan sorular
+about-logins-menu-menuitem-help = Yardım
 menu-menuitem-android-app = Android için { -lockwise-brand-short-name }
 menu-menuitem-iphone-app = iPhone ve iPad için { -lockwise-brand-short-name }
 
@@ -57,6 +56,8 @@ login-list-last-changed-option = Son değişiklik
 login-list-last-used-option = Son kullanım
 login-list-intro-title = Hiç hesap bulunamadı
 login-list-intro-description = { -brand-product-name } tarayıcısında kaydettiğiniz parolalar burada görünecektir.
+about-logins-login-list-empty-search-title = Hiç hesap bulunamadı
+about-logins-login-list-empty-search-description = Aramanızla eşleşen sonuç bulunamadı.
 login-list-item-title-new-login = Yeni hesap
 login-list-item-subtitle-new-login = Hesap bilgilerinizi girin
 login-list-item-subtitle-missing-username = (kullanıcı adı yok)
@@ -67,7 +68,7 @@ login-intro-heading = Kayıtlı hesaplarınızı mı arıyorsunuz? { -sync-brand
 login-intro-description = Hesaplarınızı farklı bir cihazdaki { -brand-product-name } tarayıcınıza kaydettiyseniz onları buraya aktarabilirsiniz:
 login-intro-instruction-fxa = Hesaplarınızın kayıtlı olduğu cihazda  { -fxaccount-brand-name } hesabı açın veya hesabınıza giriş yapın
 login-intro-instruction-fxa-settings = { -sync-brand-short-name } ayarlarında “Hesaplar”ı işaretlediğinizden emin olun
-login-intro-instruction-faq = Daha fazla yardım için { -lockwise-brand-short-name } <a data-l10n-name="faq">sıkça sorulan sorular</a> sayfasını ziyaret edin
+about-logins-intro-instruction-help = Daha fazla yardım için <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Destek</a>'i ziyaret edebilirsiniz
 
 ## Login
 
@@ -77,10 +78,11 @@ login-item-delete-button = Sil
 login-item-origin-label = Web sitesi adresi
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Aç
 login-item-username-label = Kullanıcı adı
 login-item-username =
     .placeholder = kullanici@example.com
+about-logins-login-item-username =
+    .placeholder = (kullanıcı adı yok)
 login-item-copy-username-button-text = Kopyala
 login-item-copied-username-button-text = Kopyalandı!
 login-item-password-label = Parola

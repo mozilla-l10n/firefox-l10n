@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM yazılımı kullanımını yönet">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI panelini aç">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Bu siteye ek izinler verdiniz.">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Bu sitenin kameranızı kullanmasını engellediniz.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Bu sitenin mikrofonunuzu kullanmasını engellediniz.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Bu sitenin ekranınızı paylaşmasını engellediniz.">
@@ -813,10 +815,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Bağlantı">
 <!ENTITY identity.connectionSecure "Güvenli bağlantı">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Bağlantı Güvenliği">
-
 <!ENTITY identity.connectionSecure2 "Bağlantı güvenli">
 <!ENTITY identity.connectionNotSecure "Bağlantı güvenli değil">
 <!ENTITY identity.connectionNotSecureSecurityView "Bu siteye güvenli bir şekilde bağlanmadınız.">
@@ -866,6 +864,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Ayarlanan izinler">
+
+<!ENTITY identity.permissions3 "İzinler">
 <!ENTITY identity.permissionsEmpty "Bu siteye özel bir izin vermediniz.">
 <!ENTITY identity.permissionsReloadHint "Değişikliklerin uygulanması için bu sayfayı tazelemeniz gerekebilir.">
 <!ENTITY identity.permissionsPreferences.tooltip "İzin tercihlerini aç">
@@ -879,6 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "Gelişmiş izlenme koruması hakkında daha fazla bilgi">
 <!ENTITY protections.settings.label "Koruma ayarları">
 <!ENTITY protections.report.label "Raporun tamamını göster">
+<!ENTITY protections.showreport.label "Raporu göster">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
