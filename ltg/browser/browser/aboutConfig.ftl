@@ -7,7 +7,6 @@ about-config-warning-title = Te dzeivoj pūķi!
 about-config-warning-text = Itū īstatejumu izmaineišona var pazamynōt lītōtnes stabilitāti, drūšeibu un ōtrdarbeibu. Turpynoj viņ tod, ja saprūti, kū dori.
 about-config-warning-checkbox = Atgōdynōt ari iz prīkšdīnom!
 about-config-warning-button = Es pīkreitu riskam
-about-config-title = about:config
 about-config2-title = Paplašinōta īstateišona
 about-config-search-input =
     .placeholder = Mekleit
@@ -18,6 +17,18 @@ about-config-pref-edit = Redigeit
 about-config-pref-save = Saglobōt
 about-config-pref-reset = Atstateit
 about-config-pref-delete = Dzēst
+about-config-pref-add-button =
+    .title = Pīvīnōt
+about-config-pref-toggle-button =
+    .title = Porslēgt
+about-config-pref-edit-button =
+    .title = Redigeit
+about-config-pref-save-button =
+    .title = Saglobōt
+about-config-pref-reset-button =
+    .title = Atstateit
+about-config-pref-delete-button =
+    .title = Dzēst
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
