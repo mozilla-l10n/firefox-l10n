@@ -58,9 +58,9 @@
 <!ENTITY renameFolder.label "Переименовать папку…">
 <!ENTITY renameFolder.accesskey "и">
 <!ENTITY compactFolders.label "Сжать папки">
-<!ENTITY compactFolders.accesskey		"ж">
+<!ENTITY compactFolders.accesskey "ж">
 <!ENTITY emptyTrashCmd.label "Очистить «Удалённые»">
-<!ENTITY emptyTrashCmd.accesskey		"ч">
+<!ENTITY emptyTrashCmd.accesskey "ч">
 <!ENTITY offlineMenu.label "Автономная работа">
 <!ENTITY offlineMenu.accesskey "А">
 <!ENTITY synchronizeOfflineCmd.label "Загрузить/синхронизировать сейчас…">
@@ -284,23 +284,23 @@
 <!ENTITY newNewMsgCmd.accesskey "б">
 <!ENTITY replyMsgCmd.label "Ответить">
 <!ENTITY replyMsgCmd.accesskey "О">
-<!ENTITY replyMsgCmd.key	"r">
+<!ENTITY replyMsgCmd.key "r">
 <!ENTITY replyListCmd.label "Ответить в рассылку">
 <!ENTITY replyListCmd.accesskey "ы">
 <!ENTITY replyNewsgroupCmd.label "Ответить в группу новостей">
-<!ENTITY replyNewsgroupCmd.accesskey	"г">
+<!ENTITY replyNewsgroupCmd.accesskey "г">
 <!ENTITY replySenderCmd.label "Ответить отправителю">
 <!ENTITY replySenderCmd.accesskey "ь">
 <!ENTITY replyToAllMsgCmd.label "Ответить всем">
-<!ENTITY replyToAllMsgCmd.accesskey	"в">
-<!ENTITY replyToAllMsgCmd.key	"r">
+<!ENTITY replyToAllMsgCmd.accesskey "в">
+<!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToSenderAndNewsgroupCmd.label "Ответить отправителю и в группу новостей">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "и">
 <!ENTITY replyToAllRecipientsCmd.label "Ответить всем получателям">
 <!ENTITY replyToAllRecipientsCmd.accesskey "в">
 <!ENTITY forwardMsgCmd.label "Переслать">
 <!ENTITY forwardMsgCmd.accesskey "П">
-<!ENTITY forwardMsgCmd.key	"l">
+<!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Переслать как">
 <!ENTITY forwardAsMenu.accesskey "к">
 <!ENTITY forwardAsInline.label "Часть сообщения">
@@ -442,6 +442,7 @@
 <!ENTITY markButton.tooltip "Отметить сообщения">
 <!ENTITY stopButton.tooltip "Остановить текущую передачу данных">
 <!ENTITY throbber.tooltip "Перейти на домашнюю страницу &vendorShortName;">
+<!ENTITY throbber.tooltip2 "Перейти на домашнюю страницу &brandShortName;">
 <!ENTITY junkButton.tooltip "Отметить выбранные сообщения как спам">
 <!ENTITY notJunkButton.tooltip "Отметить выбранные сообщение как не спам">
 

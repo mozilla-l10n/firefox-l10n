@@ -62,6 +62,8 @@
 <!ENTITY  mediaTab.accesskey    "л">
 <!ENTITY  mediaURL              "Адрес:">
 <!ENTITY  mediaAlt              "Альтернативный текст:">
+<!ENTITY  mediaLocation         "Расположение:">
+<!ENTITY  mediaText             "Связанный текст:">
 <!ENTITY  mediaAltHeader        "Альтернативный текст">
 <!ENTITY  mediaAddress          "Адрес">
 <!ENTITY  mediaType             "Тип">
@@ -70,6 +72,7 @@
 <!ENTITY  mediaDimensions       "Указанные размеры:">
 <!ENTITY  mediaPhysDimensions   "Реальные размеры:">
 <!ENTITY  mediaTitle            "Описание:">
+<!ENTITY  mediaDimension        "Размеры:">
 <!ENTITY  mediaLongdesc         "Длинное описание:">
 <!ENTITY  mediaBlockImage.accesskey "л">
 <!ENTITY  mediaSaveAs           "Сохранить как…">
