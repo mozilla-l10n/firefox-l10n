@@ -817,6 +817,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure2 "Connection Secure">
 <!ENTITY identity.connectionNotSecure "Connection is Not Secure">
+
+<!ENTITY identity.connectionSecure3 "Connection secure">
+<!ENTITY identity.connectionNotSecure2 "Connection not secure">
 <!ENTITY identity.connectionNotSecureSecurityView "You are not securely connected to this site.">
 <!ENTITY identity.connectionFile "This page is stored on your computer.">
 <!ENTITY identity.connectionVerified2 "You are securely connected to this site, owned by:">
@@ -827,6 +830,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "Connection verified by a certificate issuer that is not recognized by Mozilla.">
 
 <!ENTITY identity.evOwnerLabel "Site owned by:">
+
+<!ENTITY identity.evOwnerLabel2 "Certificate issued to:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; has blocked parts of this page that are not secure.">
@@ -925,6 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "Cryptominers use your system’s computing power to mine digital money. Cryptomining scripts drain your battery, slow down your computer, and can increase your energy bill.">
 <!ENTITY protections.fingerprinters.description "Fingerprinters collect settings from your browser and computer to create a profile of you. Using this digital fingerprint, they can track you across different websites.">
 <!ENTITY protections.trackingContent.description "Websites may load external ads, videos, and other content that contain tracking code. Blocking tracking content can help sites load faster, but some buttons, forms, and login fields might not work.">
+<!ENTITY protections.trackingContent2.description "Websites may load external ads, videos, and other content with tracking code. Blocking tracking content can help sites load faster, but some buttons, forms, and login fields might not work.">
 <!ENTITY protections.socialMediaTrackers.description "Social networks place trackers on other websites to follow what you do, see, and watch online. This allows social media companies to learn more about you beyond what you share on your social media profiles.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
