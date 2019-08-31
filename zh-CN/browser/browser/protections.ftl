@@ -16,6 +16,14 @@ graph-total-summary =
     { $count ->
        *[other] 自 { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } 起，已拦截 { $count } 个跟踪器
     }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+       *[other] 自 { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } 起，已拦截 <b>{ $count }</b> 个跟踪器
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -37,6 +45,7 @@ cookie-tab-title = 跨网站跟踪型 Cookie
 cookie-tab-content = 这些 Cookie 由第三方广告商或分析公司设置，能够在不同网站间跟踪您，以收集您的在线活动数据。<a data-l10n-name="learn-more-link">详细了解</a>
 tracker-tab-title = 跟踪性内容
 tracker-tab-content = 网站可能会加载包含跟踪代码的外部广告、视频、其他内容。拦截跟踪内容可以让网站加载更快，但某些按钮、表单、登录字段可能无法正常工作。<a data-l10n-name="learn-more-link">详细了解</a>
+tracker-tab-description = 网站可能会加载包含跟踪代码的外部广告、视频、其他内容。拦截跟踪内容可以让网站加载更快，但某些按钮、表单、登录字段可能无法正常工作。<a data-l10n-name="learn-more-link">详细了解</a>
 fingerprinter-tab-title = 数字指纹跟踪程序
 fingerprinter-tab-content = 数字指纹追踪程序收集您的浏览器、计算机设置，勾勒出您的精准画像，并在不同网站间跟踪您。<a data-l10n-name="learn-more-link">详细了解</a>
 cryptominer-tab-title = 加密货币挖矿程序
@@ -46,6 +55,7 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } 将您的密码安全地存储在浏览器中。
 lockwise-header-content-logged-in = 安全地存储密码，并同步到您的所有设备。
 open-about-logins-button = 在 { -brand-short-name } 中打开
+about-logins-view-logins-button = 查看登录信息
 lockwise-no-logins-content = 下载 <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> 应用程序，将密码随身携带。
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -64,10 +74,13 @@ lockwise-sync-status =
        *[other] 与其他 { $count } 台设备同步
     }
 lockwise-sync-not-syncing = 未与其他设备同步。
+lockwise-sync-not-syncing-devices = 未与其他设备同步
 monitor-title = 帮你关心数据泄漏事故
 monitor-link = 工作原理
 monitor-header-content = 到 { -monitor-brand-name } 检测您是否处于数据外泄事件之中，并在有新外泄事件时收到警报。
 monitor-header-content-logged-in = 若您的信息出现在已知的数据外泄事件中，{ -monitor-brand-name } 将警告您
+monitor-header-content-no-account = 到 { -monitor-brand-name } 检测您是否处于已知数据外泄事件之中，并在有新外泄事件时收到警报。
+monitor-header-content-signed-in = 若您的信息出现在已知的数据外泄事件中，{ -monitor-brand-name } 将警告您。
 monitor-sign-up = 订阅数据外泄警报
 auto-scan = 今日已自动扫描
 # This string is displayed after a large numeral that indicates the total number
@@ -90,6 +103,27 @@ info-known-breaches =
 info-exposed-passwords =
     { $count ->
        *[other] 组密码在数据外泄事件中泄露。
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+       *[other] 正在监控的电子邮件地址
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+       *[other] 有已知的数据外泄事件，泄露了您的信息
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+       *[other] 在所有事件中泄露的密码
     }
 full-report-link = 到 <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> 查看完整报告
 # This string is displayed after a large numeral that indicates the total number
