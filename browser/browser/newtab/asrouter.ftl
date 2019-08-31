@@ -84,6 +84,12 @@ cfr-whatsnew-button =
     .label = Kas naujo
     .tooltiptext = Kas naujo
 cfr-whatsnew-panel-header = Kas naujo
+cfr-whatsnew-release-notes-link-text = Skaityti laidos apžvalgą
+cfr-whatsnew-fx70-title = „{ -brand-short-name }“ už jūsų privatumą dabar kovoja dar labiau
+cfr-whatsnew-fx70-body =
+    Paskiausias naujinimas pagerina apsaugą nuo stebėjimo, ir leidžia dar lengviau
+    sukurti saugius slaptažodžius visoms svetainėms.
+cfr-whatsnew-tracking-protect-title = Apsaugokite save nuo stebėjimo elementų
 
 ## Bookmark Sync
 
