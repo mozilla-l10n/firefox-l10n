@@ -604,6 +604,10 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Magmungkahi at gumawa ng malakas na password
     .accesskey = u
+forms-breach-alerts =
+    .label = Magpakita ng mga alerto tungkol sa mga password sa mga breached website
+    .accesskey = b
+forms-breach-alerts-learn-more-link = Alamin
 forms-fill-logins-and-passwords =
     .label = I-autofill ang mga login at password
     .accesskey = i
@@ -721,7 +725,9 @@ addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga suhesti
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Content Blocking
+content-blocking-enhanced-tracking-protection = Enhanced Tracking Protection
 content-blocking-section-description = Protektahan ang iyong privacy habang ikaw ay nagba-browse. Harangin ang mga tagong content na tinatrack ang mga site na binibisita mo at pino-profile ka. Maaaring bumilis ang pag-load ng mga page sa pagharang ng mga content na ito.
+content-blocking-section-top-level-description = Sinusundan ka ng mga tracker online para mangolekta ng impormasyon tungkol sa iyong mga kaugalian at interes sa pag-browse. Hinaharang ng { -brand-short-name } ang karamihan sa mga tracker na ito at iba pang mga delikadong script.
 content-blocking-learn-more = Alamin pa
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -742,6 +748,7 @@ content-blocking-third-party-cookies = Mga Third-party na tracking cookie
 content-blocking-etp-strict-desc = Mas malakas na proteksyon, pero maaaring ikasira ng ilang mga site o content.
 content-blocking-etp-custom-desc = Piliin kung aling mga tracker at scripts ang dapat harangin.
 content-blocking-private-windows = Tracking content sa mga Private Window
+content-blocking-cross-site-tracking-cookies = Mga cross-site tracking cookie
 content-blocking-social-media-trackers = Mga social media tracker
 content-blocking-all-cookies = Lahat ng mga cookie
 content-blocking-unvisited-cookies = Mga cookie mula sa mga hindi binibisitang site
@@ -753,6 +760,7 @@ content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = Mag-ingat!
 content-blocking-warning-description = Ang pagharang sa mga content ay maaaring maging sanhi para masira ang ilang mga website. Madali namang mag-disable ng pagharang para sa mga pinagkakatiwalaang site.
 content-blocking-learn-how = Alamin kung papaano
+content-blocking-etp-warning-description = Ang pag-block sa mga tracker ay maaaring maka-apekto sa functionality ng ilang mga site. Mag-reload ng pahina na may mga tracker para mai-load lahat ng content.
 content-blocking-warning-learn-how = Alamin kung paano
 content-blocking-reload-description = Kailangan mong i-reload ang iyong tabs upang makita ang mga pagbabago.
 content-blocking-reload-tabs-button =

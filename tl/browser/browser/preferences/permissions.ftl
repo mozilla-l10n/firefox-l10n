@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Firefox Content Blocking
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Pinatay mo ang Pagharang ng Nilalaman sa site na ito.
+permissions-exceptions-etp-window =
+    .title = Mga Exception para sa Enhanced Tracking Protection
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Isinara mo ang mga protection sa mga website na ito.
 
 ## Exceptions - Cookies
 

@@ -73,6 +73,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Mag-browse nang hindi sinusundan
+cfr-protections-panel-body = Itago mo ang data na para sa iyo lamang. Pinoprotektahan ka ng { -brand-short-name } mula sa mga karaniwang tracker na nagmamanman sa mga gawain mo online.
 cfr-protections-panel-link-text = Karagdagang kaalaman
 
 ## What's New toolbar button and panel
@@ -81,6 +82,12 @@ cfr-whatsnew-button =
     .label = Ano ang Bago
     .tooltiptext = Ano ang Bago
 cfr-whatsnew-panel-header = Ano ang Bago
+cfr-whatsnew-release-notes-link-text = Basahin ang mga release note
+cfr-whatsnew-fx70-title = Ipinaglalaban ka ng { -brand-short-name } para sa iyong privacy.
+cfr-whatsnew-fx70-body = Pinaigi sa pinakabagong update ang Tracking Protection feature at lalong pinadali ang paggawa ng ligtas na mga password para sa bawat site.
+cfr-whatsnew-tracking-protect-title = Protektahan ang iyong sarili mula sa mga tracker
+cfr-whatsnew-tracking-protect-body = Hinaharang ng { -brand-short-name } ang karaniwang mga social at cross-site tracker na nagmamanman sa mga gawain mo online.
+cfr-whatsnew-tracking-protect-link-text = Tingnan ang Iyong Ulat
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -89,6 +96,13 @@ cfr-whatsnew-tracking-blocked-title =
         [one] Mga Trackers na Blocked
        *[other] Mga Trackers na Blocked
     }
+cfr-whatsnew-tracking-blocked-subtitle = Magmula pa noong { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Tingnan ang Ulat
+cfr-whatsnew-lockwise-backup-title = I-back up ang iyong mga password
+cfr-whatsnew-lockwise-backup-body = Ngayon ay nakagagawa na ng mga ligtas na password na pwede mong ma-access saan man ka mag-sign in.
+cfr-whatsnew-lockwise-backup-link-text = Buksan ang mga backup
+cfr-whatsnew-lockwise-take-title = Dalhin kahit saan ang iyong mga password
+cfr-whatsnew-lockwise-take-body = Hinahayaan ka ng { -lockwise-brand-short-name } mobile app na ligtas na ma-access kahit saan ang iyong mga naka-backup na mga password.
 cfr-whatsnew-lockwise-take-link-text = Kunin ang app
 
 ## Bookmark Sync
@@ -101,6 +115,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = Buksan ang { -sync-brand-short-name }
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Huwag nang Muling Makalimot ng Password
+cfr-doorhanger-sync-logins-body = Ligtas na iimbak at i-sync ang mga password mo sa lahat ng iyong mga device.
 cfr-doorhanger-sync-logins-ok-button = Buksan ang { -sync-brand-short-name }
     .accesskey = T
 
