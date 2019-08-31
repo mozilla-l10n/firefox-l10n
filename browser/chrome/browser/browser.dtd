@@ -818,6 +818,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure2 "Tilkoplinga er sikker">
 <!ENTITY identity.connectionNotSecure "Tilkoplinga er ikkje sikker">
 
+<!ENTITY identity.connectionSecure3 "Tilkoplinga er sikker">
+<!ENTITY identity.connectionNotSecure2 "Tilkoplinga er ikkje sikker">
 <!ENTITY identity.connectionNotSecureSecurityView "Du er ikkje sikkert kopla til denne nettstaden.">
 <!ENTITY identity.connectionFile "Denne sida er lagra på datamaskina di.">
 <!ENTITY identity.connectionVerified2 "Sikker tilkopling til nettstaden, eigd av:">
@@ -829,6 +831,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.evOwnerLabel "Nettstaden eigd av:">
 
+<!ENTITY identity.evOwnerLabel2 "Sertifikat skrive ut til:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; har blokkert delar av denne sida som ikkje er sikre.">
@@ -927,6 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "Kryptominarar brukar datakrafta til systemet for å utvinne digitale pengar. Kryptomineringsskript tappar batteriet, gjer datamaskina tregare og kan auke straumrekninga.">
 <!ENTITY protections.fingerprinters.description "Fingerprinters samlar innstillingar frå nettlesaren din og datamaskina for å opprette ein profil av deg. Ved hjelp av dette digitale fingeravtrykket kan dei spore deg på ulike nettstadar.">
 <!ENTITY protections.trackingContent.description "Nettstadar kan laste inn eksterne annonsar, videoar og anna innhald som inneheld sporingskode. Blokkering av sporingsinnhald kan hjelpe nettstadar å laste raskare, men nokre knappar, skjema og innloggingsfelt fungerer kanskje ikkje.">
+<!ENTITY protections.trackingContent2.description "Nettstadar kan laste eksterne annonsar, videoar og annna innhald med sporingskode. Blokkering av sporingsinnhald kan gjere at nettstadar lastar raskare, men det kan hende at nokre knappar, skjema og innloggingsfelt ikkje fungerer.">
 <!ENTITY protections.socialMediaTrackers.description "Sosiale nettverk plasserer sporfølgjarar på andre nettstadar for å følgje det du gjer og ser på nettet. Dette gjer at sosiale media-selskap kan lære meir om deg utover det du deler på profilane dine på sosiale medium.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
