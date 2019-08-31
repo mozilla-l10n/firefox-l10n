@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Не сейчас">
 <!ENTITY firstrun_button_next "Далее">
 
+<!ENTITY firstrun_signin_button2 "Войти">
+
 <!ENTITY firstrun_tabqueue_title "Ссылки">
 
 <!ENTITY firstrun_readerview_title "Статьи">
@@ -57,7 +59,7 @@
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Показ автономной версии">
 
-<!ENTITY  crash_reporter_title "Сообщение о падении &brandShortName;">
+<!ENTITY  crash_reporter_title "Сообщения о падениях &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; столкнулся с проблемой и упал. После перезапуска список ваших вкладок будет показан на начальной странице &brandShortName;.">
 <!ENTITY  crash_send_report_message3 "Сообщить в &vendorShortName; об этом падении, чтобы они смогли это исправить">
 <!ENTITY  crash_include_url2 "Включить адрес страницы на которой я был в это время">
@@ -595,7 +597,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Расположение">
 <!ENTITY bookmark_edit_keyword "Краткое имя">
 <!ENTITY bookmark_select_folder "Выбрать папку">
-
 <!ENTITY bookmark_edit_undo "Отменить">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -875,6 +876,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Доступно без подключения">
 <!ENTITY helper_triple_readerview_open_message "Добавьте пункты Списка для чтения в Закладки, чтобы читать их без подключения к Интернету.">
 <!ENTITY helper_triple_readerview_open_button "Добавить в закладки">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "Добро пожаловать в &brandShortName;">
+<!ENTITY activity_stream_signin_description "Начните синхронизировать закладки, пароли и многое другое с вашим Аккаунтом Firefox.">
+<!ENTITY activity_stream_signin_button "Войти">
 
 <!ENTITY activity_stream_topsites "Топ сайтов">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
