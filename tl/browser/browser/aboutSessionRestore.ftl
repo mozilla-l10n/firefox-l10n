@@ -6,9 +6,9 @@ restore-page-tab-title = Ibalik ang nakaraang Session
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Paumanhin. Nagkakaproblema kami sa pagkuha ng iyong mga pahina pabalik.
-restore-page-problem-desc = Nagkakaproblema kami sa pagpapanumbalik ng iyong huling sesyon ng pagba-browse. Piliin ang Ibalik ang Session upang subukang muli.
-restore-page-try-this = Hindi pa rin kayang ibalik ang iyong session? Kung minsan ang isang tab ay nagiging sanhi ng isyu. Tingnan ang nakaraang mga tab, alisin ang checkmark mula sa mga tab na hindi mo kailangang mabawi, at pagkatapos ay ibalik.
-restore-page-hide-tabs = Itago ang Nakaraan na mga Tab
+restore-page-problem-desc = Nagkakaproblema kami ibalik ang iyong huling browsing session. Piliin ang Ibalik ang Session para masubukan uli.
+restore-page-try-this = Hindi pa rin maibalik ang iyong session? Minsan, isang tab ang dahilan ng problema. Tingnan ang mga nakaraang tab, tanggalin ang checkmark sa mga tab na hindi na kailangan, at subukan uli.
+restore-page-hide-tabs = Itago ang mga Nakaraang Tab
 restore-page-show-tabs = Tingnan ang Nakaraan na mga Tab
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
