@@ -138,6 +138,15 @@ info-known-breaches-found =
         [few] Известных утечки данных раскрыли вашу информацию
        *[many] Известных утечек данных раскрыли вашу информацию
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Раскрытый пароль во всех утечках
+        [few] Раскрытых пароля во всех утечках
+       *[many] Раскрытых паролей во всех утечках
+    }
 full-report-link = Посмотреть полный отчёт на <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
