@@ -145,4 +145,4 @@ breach-alert-dismiss =
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login = Ei oppføring for { $loginTitle } med dette brukarnamnet finst allereie.
 # This is a generic error message.
-about-logins-error-message-default = Det oppdtod ein feil ved forsøk på å lagre dette passordet.
+about-logins-error-message-default = Det oppstod ein feil ved forsøk på å lagre dette passordet.
