@@ -69,6 +69,7 @@ login-intro-heading = Szukasz swoich zachowanych haseł? Skonfiguruj { -sync-bra
 login-intro-description = Aby przenieść tutaj dane logowania zachowane w przeglądarce { -brand-product-name } na innym urządzeniu:
 login-intro-instruction-fxa = Zarejestruj się lub zaloguj na { -fxaccount-brand-name(case: "loc", capitalization: "lower") } na urządzeniu, w którym zachowano dane logowania
 login-intro-instruction-fxa-settings = Upewnij się, że opcja „Dane logowania” jest zaznaczona w ustawieniach { -sync-brand-short-name(case: "gen", capitalization: "lower") }
+about-logins-intro-instruction-help = <a data-l10n-name="help-link">Pomoc usługi { -lockwise-brand-short-name }</a> zawiera więcej informacji
 
 ## Login
 
@@ -81,6 +82,8 @@ login-item-origin =
 login-item-username-label = Nazwa użytkownika
 login-item-username =
     .placeholder = e-mail@example.com
+about-logins-login-item-username =
+    .placeholder = (bez nazwy użytkownika)
 login-item-copy-username-button-text = Kopiuj
 login-item-copied-username-button-text = Skopiowano
 login-item-password-label = Hasło
@@ -137,3 +140,10 @@ breach-alert-dismiss =
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Dane logowania dla witryny „{ $loginTitle }” z tą nazwą użytkownika już istnieją.
+# This is a generic error message.
+about-logins-error-message-default = Wystąpił błąd podczas zapisywania tego hasła.
