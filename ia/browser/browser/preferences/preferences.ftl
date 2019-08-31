@@ -604,6 +604,7 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Suggerer e generar contrasignos robuste
     .accesskey = u
+forms-breach-alerts-learn-more-link = Saper plus
 forms-fill-logins-and-passwords =
     .label = Auto-popular le authenticationes pro accessos e contrasignos
     .accesskey = A

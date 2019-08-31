@@ -816,6 +816,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure2 "Connexion secur">
 <!ENTITY identity.connectionNotSecure "Le connexion non es secur">
+
+<!ENTITY identity.connectionSecure3 "Connexion secur">
+<!ENTITY identity.connectionNotSecure2 "Connexion non secur">
 <!ENTITY identity.connectionNotSecureSecurityView "Tu non es connectite con securitate a iste sito.">
 <!ENTITY identity.connectionFile "Iste pagina es stockate in tu computator.">
 <!ENTITY identity.connectionVerified2 "Tu es connectite con securitate a iste sito, cuje proprietario es:">
@@ -826,6 +829,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "Connexion verificate per un certificate emittite per un autoritate non recognoscite per Mozilla.">
 
 <!ENTITY identity.evOwnerLabel "Proprietario del sito:">
+
+<!ENTITY identity.evOwnerLabel2 "Certificato expedite a:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ha blocate partes de iste pagina que non es secur.">

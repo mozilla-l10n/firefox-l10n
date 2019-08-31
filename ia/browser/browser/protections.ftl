@@ -68,10 +68,12 @@ lockwise-sync-status =
        *[other] Synchronisation a { $count } altere dispositivos
     }
 lockwise-sync-not-syncing = Nulle synchronisation a altere apparatos
+lockwise-sync-not-syncing-devices = Nulle synchronisation a altere apparatos
 monitor-title = Reguardar violationes de datos
 monitor-link = Como illo functiona
 monitor-header-content = Discoperi { -monitor-brand-name } si tu ha essite parte de un violation de datos e recipe avisos re nove violationes.
 monitor-header-content-logged-in = { -monitor-brand-name } te adverti si tu information ha apparite in un note violation de datos
+monitor-header-content-signed-in = { -monitor-brand-name } te adverti si tu information ha apparite in un note violation de datos
 monitor-sign-up = Inscribe te al Avisos de violation
 auto-scan = Automaticamente scandite hodie
 # This string is displayed after a large numeral that indicates the total number
@@ -94,6 +96,30 @@ info-known-breaches =
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords =
+    { $count ->
+        [one] Contrasigno exponite tra tote le violationes
+       *[other] Contrasignos exponite tra tote le violationes
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Adresse email a controlar
+       *[other] Adresses email a controlar
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Violation de datos note que exponeva tu informationes
+       *[other] Violationes de datos note que exponeva tu informationes
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
     { $count ->
         [one] Contrasigno exponite tra tote le violationes
        *[other] Contrasignos exponite tra tote le violationes

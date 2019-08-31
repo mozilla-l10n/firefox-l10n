@@ -87,3 +87,7 @@ manifest-loaded-ok = Manifesto cargate
 manifest-loaded-error = Il habeva un error a cargar le manifesto:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Nulle manifestos a inspectar trovate.
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Icone de error
+    .title = Error
