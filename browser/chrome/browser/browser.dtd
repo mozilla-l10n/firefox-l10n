@@ -817,6 +817,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure2 "Anslutningen är säker">
 <!ENTITY identity.connectionNotSecure "Anslutningen är inte säker">
+
+<!ENTITY identity.connectionSecure3 "Anslutningen säker">
+<!ENTITY identity.connectionNotSecure2 "Anslutningen är inte säker">
 <!ENTITY identity.connectionNotSecureSecurityView "Du är inte säkert ansluten till den här webbplatsen.">
 <!ENTITY identity.connectionFile "Den här sidan är lagrad på din dator.">
 <!ENTITY identity.connectionVerified2 "Du är säkert ansluten till denna webbplats, som tillhör:">
@@ -827,6 +830,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "Anslutning verifierad av en certifikatutgivare som inte känns igen av Mozilla.">
 
 <!ENTITY identity.evOwnerLabel "Webbplats som ägs av:">
+
+<!ENTITY identity.evOwnerLabel2 "Certifikat utfärdat till:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; har blockerat några osäkra komponenter på sidan.">
@@ -925,6 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "Cryptominers använder ditt systems datakraft för att mina digitala pengar. Cryptomining-skript tömmer ditt batteri, slöar ner din dator och kan öka energiräkningen.">
 <!ENTITY protections.fingerprinters.description "Fingerprinters samlar inställningar från din webbläsare och dator för att skapa en profil av dig. Med det här digitala fingeravtrycket kan de spåra dig på olika webbplatser.">
 <!ENTITY protections.trackingContent.description "Webbplatser kan ladda externa annonser, videor och annat innehåll som innehåller spårningskod. Blockering av spårningsinnehåll kan hjälpa webbplatser att ladda snabbare, men vissa knappar, formulär och inloggningsfält kanske inte fungerar.">
+<!ENTITY protections.trackingContent2.description "Webbplatser kan ladda externa annonser, videor och annat innehåll som innehåller spårningskod. Blockering av spårningsinnehåll kan hjälpa webbplatser att ladda snabbare, men vissa knappar, formulär och inloggningsfält kanske inte fungerar.">
 <!ENTITY protections.socialMediaTrackers.description "Sociala nätverk placerar trackers på andra webbplatser för att följa vad du gör, ser och tittar på online. Detta gör att företag i sociala medier kan lära sig mer om dig utöver vad du delar i dina sociala medieprofiler.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
