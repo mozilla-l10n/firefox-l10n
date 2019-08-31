@@ -55,6 +55,7 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } 會安全地在您的瀏覽器中儲存密碼。
 lockwise-header-content-logged-in = 安全地儲存密碼，並同步到您的所有裝置中。
 open-about-logins-button = 用 { -brand-short-name } 開啟
+about-logins-view-logins-button = 檢視登入資訊
 lockwise-no-logins-content = 下載 <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> App，把密碼隨身帶著走。
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -109,6 +110,13 @@ info-exposed-passwords =
 info-monitored-emails =
     { $count ->
        *[other] 監控中的電子郵件信箱地址
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+       *[other] 場資料外洩事件，流出了您的個資。
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
