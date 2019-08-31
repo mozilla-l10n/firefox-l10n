@@ -817,6 +817,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure2 "Tilkoplinga er sikker">
 <!ENTITY identity.connectionNotSecure "Tilkoplinga er ikkje sikker">
+
 <!ENTITY identity.connectionNotSecureSecurityView "Du er ikkje sikkert kopla til denne nettstaden.">
 <!ENTITY identity.connectionFile "Denne sida er lagra på datamaskina di.">
 <!ENTITY identity.connectionVerified2 "Sikker tilkopling til nettstaden, eigd av:">
@@ -827,6 +828,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "Tilkoplinga vart stadfesta av ein sertifikatutskrivar som Mozilla ikkje kjenner.">
 
 <!ENTITY identity.evOwnerLabel "Nettstaden eigd av:">
+
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; har blokkert delar av denne sida som ikkje er sikre.">
@@ -858,7 +860,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Meir informasjon">
 
-<!ENTITY identity.clearSiteData "Slett infokapslar og nettsidedata…">
+<!ENTITY identity.clearSiteData "Slett infokapslar og nettstaddata…">
 
 <!ENTITY identity.permissions "Løyve">
 
