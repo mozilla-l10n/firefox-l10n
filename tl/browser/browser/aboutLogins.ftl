@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Mga Kagustuhan
        *[other] Mga Kagustuhan
     }
-menu-menuitem-feedback = Magbigay ng puna
-menu-menuitem-faq = Mga Kadalasang Tinatanong
+about-logins-menu-menuitem-help = Tulong
 menu-menuitem-android-app = { -lockwise-brand-short-name } para sa Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } para sa iPhone at iPad
 
@@ -57,6 +56,7 @@ login-list-last-changed-option = Huling Binago
 login-list-last-used-option = Huling Ginamit
 login-list-intro-title = Walang natagpuang mga login
 login-list-intro-description = Kapag nagse-save ka ng isang password sa { -brand-product-name }, lalabas iyon dito.
+about-logins-login-list-empty-search-title = Walang natagpuang mga login
 login-list-item-title-new-login = Bagong Login
 login-list-item-subtitle-new-login = Ipasok ang iyong mga login credential
 login-list-item-subtitle-missing-username = (walang username)
@@ -67,7 +67,6 @@ login-intro-heading = Hinahanap mo ba ang iyong naka-save na mga login? I-set up
 login-intro-description = Kung nag-save ka ng mga login mo sa { -brand-product-name } sa ibang device, ganito ang dapat gawin para makuha mo sila rito:
 login-intro-instruction-fxa = Gumawa ng o mag-sign in sa iyong { -fxaccount-brand-name } sa device kung saan naka-save ang mga login mo
 login-intro-instruction-fxa-settings = Siguruhin na napili mo ang checkbox na Mga Login sa Mga { -sync-brand-short-name } Setting
-login-intro-instruction-faq = Bisitahin ang <a data-l10n-name="faq">Mga Kadalasang Tinatanong</a> sa { -lockwise-brand-short-name } para sa karagdagang tulong
 
 ## Login
 
@@ -77,7 +76,6 @@ login-item-delete-button = Burahin
 login-item-origin-label = Website Address
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Ilunsad
 login-item-username-label = Username
 login-item-username =
     .placeholder = name@example.com
