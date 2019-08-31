@@ -15,12 +15,12 @@ changed-desc-dedicated = Aby bylo možné bezpečně používat více instalací
 lost = <b>O žádná svá data a nastavení nepřijdete.</b> Vše je bezpečně uloženo v profilu a dostupné pro první spuštěnou instalaci Firefoxu.
 options-title = Co mohu dělat dál?
 options-do-nothing =
-    { -brand-short-name.gender ->
-        [masculine] Pokud nebudete dělat nic, váš { -brand-short-name } bude používat samostatný profil a nebude sdílet žádná data s ostatními instalacemi Firefoxu.
-        [feminine] Pokud nebudete dělat nic, vaše { -brand-short-name } bude používat samostatný profil a nebude sdílet žádná data s ostatními instalacemi Firefoxu.
-        [neuter] Pokud nebudete dělat nic, vaše { -brand-short-name } bude používat samostatný profil a nebude sdílet žádná data s ostatními instalacemi Firefoxu.
-       *[other] Pokud nebudete dělat nic, vaše aplikace { -brand-short-name } bude používat samostatný profil a nebude sdílet žádná data s ostatními instalacemi Firefoxu.
-    }
+    Pokud nebudete dělat nic, { -brand-short-name.gender ->
+        [masculine] váš { -brand-short-name }
+        [feminine] vaše { -brand-short-name }
+        [neuter] vaše { -brand-short-name }
+       *[other] vaše aplikace { -brand-short-name }
+    } bude používat samostatný profil a nebude sdílet žádná data s ostatními instalacemi Firefoxu.
 options-use-sync = Pokud chcete mít stejná data ve více instalacích Firefoxu, použijte bezpečnou synchronizaci pomocí účtu Firefoxu.
 resources = Zdroje:
 support-link = Správa profilů - článek nápovědy
