@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Więcej informacji
 accessibility-text-label-header = Etykiety tekstowe i nazwy
+accessibility-keyboard-header = Klawiatura
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -41,3 +42,13 @@ accessibility-text-label-issue-interactive = Elementy interaktywne muszą mieć 
 accessibility-text-label-issue-optgroup-label = Użyj atrybutu <code>label</code>, aby nadać etykiety elementom <span>optgroup</span>. <a>Więcej informacji</a>
 accessibility-text-label-issue-optgroup-label2 = Użyj atrybutu <code>label</code>, aby nadać etykietę elementowi <span>optgroup</span>. <a>Więcej informacji</a>
 accessibility-text-label-issue-toolbar = Paski narzędzi muszą mieć etykiety, jeśli jest więcej niż jeden pasek. <a>Więcej informacji</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
+accessibility-keyboard-issue-semantics = Elementy z możliwością aktywacji powinny mieć interaktywną semantykę. <a>Więcej informacji</a>
+accessibility-keyboard-issue-tabindex = Unikaj używania atrybutu <code>tabindex</code> większego niż zero. <a>Więcej informacji</a>
+accessibility-keyboard-issue-action = Elementy interaktywne muszą być możliwe do aktywacji za pomocą klawiatury. <a>Więcej informacji</a>
+accessibility-keyboard-issue-focusable = Elementy interaktywne muszą mieć możliwość aktywacji. <a>Więcej informacji</a>
+accessibility-keyboard-issue-focus-visible = W elemencie z możliwością aktywacji może brakować stylu aktywacji. <a>Więcej informacji</a>
