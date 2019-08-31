@@ -113,9 +113,9 @@ policy-NewTabPage = Slå siden Nyt faneblad til eller fra.
 
 policy-NoDefaultBookmarks = Deaktiver oprettelse af standard-bogmærker, der følger med { -brand-short-name }, samt de smarte bogmærker (Mest besøgte, Seneste mærkater). NB: Denne politik virker kun, hvis den aktiveres før profilen anvendes første gang.
 
-policy-OfferToSaveLogins = Indstil om { -brand-short-name } skal tilbyde at huske gemte logins og adgangskoder. Tilladte værdier er true og false.
+policy-OfferToSaveLogins = Indstil om { -brand-short-name } skal tilbyde at huske gemte logins og adgangskoder. Vælg true, hvis { -brand-short-name } skal tilbyde at huske logins og adgangskoder, ellers vælg false.
 
-policy-OfferToSaveLoginsDefault = Indstil standard-værdien for at tillade at { -brand-short-name } tilbyder at huske gemte logins og adgangskoder. Tilladte værdier er true og false.
+policy-OfferToSaveLoginsDefault = Vælg om { -brand-short-name } skal tilbyde at huske logins og adgangskoder. Vælg true, hvis { -brand-short-name } skal tilbyde at huske logins og adgangskoder, ellers vælg false.
 
 policy-OverrideFirstRunPage = Erstat siden, der vises ved første opstart. Lad politikken være tom, hvis siden ved første opstart skal deaktiveres. 
 
