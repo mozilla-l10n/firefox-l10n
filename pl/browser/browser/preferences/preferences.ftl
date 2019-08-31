@@ -608,6 +608,10 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Proponowanie i generowanie silnych haseł
     .accesskey = s
+forms-breach-alerts =
+    .label = Powiadomienia o hasłach do stron, z których wyciekły dane
+    .accesskey = o
+forms-breach-alerts-learn-more-link = Więcej informacji
 forms-fill-logins-and-passwords =
     .label = Wypełnianie danych logowania i haseł
     .accesskey = W
@@ -727,6 +731,7 @@ addressbar-suggestions-settings = Zmień ustawienia podpowiedzi dostarczanych pr
 content-blocking-header = Blokowanie treści
 content-blocking-enhanced-tracking-protection = Wzmocniona ochrona przed śledzeniem
 content-blocking-section-description = Chroń swoją prywatność podczas przeglądania. Blokuj niewidoczne elementy, które śledzą odwiedzane witryny i Cię profilują. Zablokowanie niektórych treści może przyspieszyć wczytywanie stron.
+content-blocking-section-top-level-description = Elementy śledzące monitorują Cię w Internecie, zbierając informacje o Twoich działaniach i zainteresowaniach. { -brand-short-name } blokuje wiele tych elementów i inne złośliwe skrypty.
 content-blocking-learn-more = Więcej informacji
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -942,4 +947,4 @@ choose-download-folder-title = Wybór folderu dla pobieranych plików
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =
-    .label = Wysyłanie plików do usługi „{ $service-name }”
+    .label = Wysyłanie plików do usługi { $service-name }

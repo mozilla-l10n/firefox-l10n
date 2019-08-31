@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Opcje
        *[other] Preferencje
     }
-menu-menuitem-feedback = Wyślij opinię
-menu-menuitem-faq = Najczęściej zadawane pytania
+about-logins-menu-menuitem-help = Pomoc
 menu-menuitem-android-app = { -lockwise-brand-short-name } na Androida
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } na iPhone’a i iPada
 
@@ -58,6 +57,8 @@ login-list-last-changed-option = Ostatnia modyfikacja
 login-list-last-used-option = Ostatnie użycie
 login-list-intro-title = Brak danych logowania
 login-list-intro-description = Tutaj będą wyświetlane hasła zachowane w przeglądarce { -brand-product-name }.
+about-logins-login-list-empty-search-title = Nie odnaleziono danych logowania
+about-logins-login-list-empty-search-description = Brak wyników pasujących do wyszukiwania.
 login-list-item-title-new-login = Nowe dane logowania
 login-list-item-subtitle-new-login = Wprowadź dane logowania
 login-list-item-subtitle-missing-username = (bez nazwy użytkownika)
@@ -68,7 +69,6 @@ login-intro-heading = Szukasz swoich zachowanych haseł? Skonfiguruj { -sync-bra
 login-intro-description = Aby przenieść tutaj dane logowania zachowane w przeglądarce { -brand-product-name } na innym urządzeniu:
 login-intro-instruction-fxa = Zarejestruj się lub zaloguj na { -fxaccount-brand-name(case: "loc", capitalization: "lower") } na urządzeniu, w którym zachowano dane logowania
 login-intro-instruction-fxa-settings = Upewnij się, że opcja „Dane logowania” jest zaznaczona w ustawieniach { -sync-brand-short-name(case: "gen", capitalization: "lower") }
-login-intro-instruction-faq = <a data-l10n-name="faq">Najczęściej zadawane pytania</a> usługi { -lockwise-brand-short-name } zawierają więcej informacji
 
 ## Login
 
@@ -78,7 +78,6 @@ login-item-delete-button = Usuń
 login-item-origin-label = Adres witryny
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Otwórz
 login-item-username-label = Nazwa użytkownika
 login-item-username =
     .placeholder = e-mail@example.com
@@ -135,3 +134,6 @@ breach-alert-text = Od czasu ostatniej zmiany danych logowania hasła z tej wit
 breach-alert-link = Więcej informacji o tym wycieku.
 breach-alert-dismiss =
     .title = Zamknij to powiadomienie
+
+## Error Messages
+
