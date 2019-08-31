@@ -69,6 +69,7 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } salva le tue password in modo sicuro direttamente nel browser.
 lockwise-header-content-logged-in = Salva le password in modo sicuro e sincronizzale su tutti i tuoi dispositivi.
 open-about-logins-button = Apri in { -brand-short-name }
+about-logins-view-logins-button = Visualizza credenziali
 lockwise-no-logins-content = Installa l’app <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> e porta le tue password sempre con te.
 
 # This string is displayed after a large numeral that indicates the total number
