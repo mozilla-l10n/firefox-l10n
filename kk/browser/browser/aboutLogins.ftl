@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Баптаулар
        *[other] Баптаулар
     }
-menu-menuitem-feedback = Кері байланыс хабарламасын жіберу
-menu-menuitem-faq = Жиі қойылатын сұрақтар
+about-logins-menu-menuitem-help = Көмек
 menu-menuitem-android-app = Android үшін { -lockwise-brand-short-name }
 menu-menuitem-iphone-app = iPhone және iPad үшін { -lockwise-brand-short-name }
 
@@ -56,6 +55,8 @@ login-list-last-changed-option = Соңғы рет өзгертілген
 login-list-last-used-option = Соңғы қолданылған
 login-list-intro-title = Логиндер табылмады
 login-list-intro-description = { -brand-product-name } ішінде парольді сақтағаннан кейін, ол осында көрсетіледі.
+about-logins-login-list-empty-search-title = Логиндер табылмады
+about-logins-login-list-empty-search-description = Іздеуіңізге сәйкес нәтижелер жоқ.
 login-list-item-title-new-login = Жаңа логин
 login-list-item-subtitle-new-login = Логин мәліметтерін енгізіңіз
 login-list-item-subtitle-missing-username = (пайдаланушы аты жоқ)
@@ -72,7 +73,6 @@ login-item-delete-button = Өшіру
 login-item-origin-label = Веб-сайт адресі
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Жөнелту
 login-item-username-label = Пайдаланушы аты
 login-item-username =
     .placeholder = name@example.com
@@ -118,4 +118,7 @@ confirm-discard-changes-dialog-message = Барлық сақталмаған ө�
 confirm-discard-changes-dialog-confirm-button = Тайдыру
 
 ## Breach Alert notification
+
+
+## Error Messages
 
