@@ -120,3 +120,11 @@ confirm-discard-changes-dialog-message = כל השינויים שלא נשמרו
 breach-alert-text = ססמאות הודלפו או נגנבו מאתר זה מאז שעדכנת לאחרונה את פרטי הכניסה שלך. יש לשנות את הססמה שלך כדי להגן על חשבונך.
 breach-alert-dismiss =
     .title = סגירת התראה זו
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = כבר קיים רשומה עבור { $loginTitle } עם שם משתמש זה.
