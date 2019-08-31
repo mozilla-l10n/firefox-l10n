@@ -92,7 +92,7 @@ translate-exceptions =
 
 download-header = Da a xinuun
 download-save-to =
-    .label = Chuva´a nu
+    .label = Chuva´a tutu nuu
     .accesskey = C
 download-choose-folder =
     .label =
@@ -132,6 +132,8 @@ network-proxy-connection-settings =
 
 ## Home Section - Home Page Customization
 
+home-mode-choice-custom =
+    .label = Sa´a vii URLs
 home-homepage-custom-url =
     .placeholder = Tee iin URL...
 
