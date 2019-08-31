@@ -46,10 +46,10 @@
 <!ENTITY netOffline.longDesc2 "<ul> <li>Натиснете „Повторен опит“, за да превключите към режим с връзка и да презаредите страницата.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Грешка в кодировката на съдържанието">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Моля, уведомете собствениците на страницата за проблема.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Опасен вид файл">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Моля, уведомете собствениците на страницата за проблема.</li> </ul>">
 
 <!ENTITY netReset.title "Връзката е прекъсната">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -80,7 +80,7 @@
 <!ENTITY unknownSocketType.longDesc "<ul><li>Проверете дали системата има инсталиран Personal Security Manager.</li><li>Настройките на сървъра може да са нестандартни.</li></ul>">
 
 <!ENTITY nssFailure2.title "Неуспешно установяване на шифрована връзка">
-<!ENTITY nssFailure2.longDesc2 "<ul> <li>Страницата, която се опитвате да видите, не може да бъде показана, защото автентичността на получените данни не може да бъде потвърдена.</li> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Страницата, която се опитвате да видите, не може да бъде показана, защото автентичността на получените данни не може да бъде потвърдена.</li> <li>Моля, уведомете собствениците на страницата за проблема.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Неуспешно установяване на шифрована връзка">
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Това може да е проблем с конфигурацията на сървъра или може някой се опитва да се представя за сървъра.</li> <li>Ако преди сте се свързвали към този сървър успешно, проблема може да е временен, затова опитайте отново по-късно.</li> </ul>">
@@ -95,7 +95,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; предотврати зареждането на страницата по този начин, защото тя има политика за сигурност, която го забранява.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Грешка поради развалено съдържание">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Страницата не може да бъде показана поради грешка при прехвърляне на данните.</p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Страницата не може да бъде показана поради грешка при прехвърляне на данните.</p><ul><li>Моля, уведомете собствениците на страницата за проблема.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Или може да добавите изключение…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Махнете ме от тук!">
@@ -112,7 +112,7 @@ functionality specific to thunderbird. -->
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 <!ENTITY remoteXUL.title "Отдалечен XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Моля, уведомете собствениците на страницата за проблема.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "Връзката е незащитена">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
@@ -121,4 +121,4 @@ functionality specific to thunderbird. -->
 
 <!ENTITY blockedByPolicy.title "Забранена страница">
 
-<!ENTITY networkProtocolError.longDesc "<p>Страницата не може да бъде показана поради грешка в мрежовия протокол.</p><ul><li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Страницата не може да бъде показана поради грешка в мрежовия протокол.</p><ul><li>Моля, уведомете собствениците на страницата за проблема.</li></ul>">
