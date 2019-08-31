@@ -42,6 +42,7 @@
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.authored "Bilang May-akda">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
@@ -75,21 +76,25 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "I-enable ang remote debugging">
+<!ENTITY options.enableRemote.tooltip2  "Ang pagbukas sa option na ito ay pahihintulutan ang mga developer tool para makapag-debug ng remote instance kagaya ng Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "I-disable ang JavaScript *">
+<!ENTITY options.disableJavaScript.tooltip   "Ang pagbukas sa option na ito ay magdi-disable ng JavaScript para sa kasalukuyang tab. Kapag isinara ang tab o toolbox, makakalimutan ang setting na ito.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 <!ENTITY options.disableHTTPCache.label     "I-disable ang HTTP Cache (kapag nakabukas ang toolbox)">
+<!ENTITY options.disableHTTPCache.tooltip   "Ang pagbukas sa option na ito ay magdi-disable sa HTTP cache para sa lahat ng mga tab kung saan nakabukas ang toolbox. Hindi apektado ang mga Service Worker sa option na ito.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 <!ENTITY options.enableServiceWorkersHTTP.label     "I-enable ang mga Service Worker over HTTP (kapag nakabukas ang toolbox)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Ang pagbukas sa option na ito ay mag-e-enable sa mga service worker over HTTP para sa lahat ng mga tab kung saan nakabukas ang toolbox.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -143,6 +148,7 @@
 <!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
 <!ENTITY options.sourceMaps.label      "I-enable ang mga Source Map">
+<!ENTITY options.sourceMaps.tooltip1   "Kapag inenable ang option na ito, ang mga source ay ima-map sa mga tool.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
@@ -152,10 +158,12 @@
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 <!ENTITY options.stylesheetAutocompletion.label      "Autocomplete CSS">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Mag-autocomplete ng mga CSS property, value at selector sa Style Editor habang nagta-type ka">
 
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+<!ENTITY options.screenshot.label            "Screenshot Behavior">
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
@@ -165,16 +173,19 @@
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Magpatunog ng camera shutter">
+<!ENTITY options.screenshot.audio.tooltip    "Pinatutunog ang camera audio kapag kumuha ng screenshot">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
 <!ENTITY options.showPlatformData.label    "Ipakita ang Gecko Platform Data">
+<!ENTITY options.showPlatformData.tooltip  "Kapag inenable ang option na ito, ang mga JavaScript profiler report ay magsasama ng mga Gecko platform symbol">
 
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
+<!ENTITY options.sourceeditor.label                     "Mga Editor Preference">
 <!ENTITY options.sourceeditor.detectindentation.label   "Mag-detect ng indentation">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Hulaan ang indentation base sa source content">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "I-autoclose ang mga bracket">
