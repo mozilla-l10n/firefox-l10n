@@ -136,3 +136,13 @@ breach-alert-text = Lösenord har läckt eller stulits från den här webbplatse
 breach-alert-link = Läs mer om detta intrång.
 breach-alert-dismiss =
     .title = Stäng denna varning
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = En post för { $loginTitle } med det användarnamnet finns redan.
+# This is a generic error message.
+about-logins-error-message-default = Ett fel uppstod vid försök att spara lösenordet.
