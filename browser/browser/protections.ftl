@@ -48,6 +48,7 @@ cookie-tab-title = Sporingsinfokapslar på tvers av nettstadar
 cookie-tab-content = Desse infokapslane følgjer deg frå nettstad til nettstad for å samle inn data om kva du gjer på nettet. Dei vert brukte av tredjepartar som annonsørar og analyseselskap. Blokkering av sporingsinfokapslar på tvers av nettstadar reduserer talet på annonsar som følgjer deg. <a data-l10n-name="learn-more-link">Les meir</a>
 tracker-tab-title = Sporingsinnhald
 tracker-tab-content = Nettstadar kan laste inn eksterne annonsar, videoar og anna innhald som inneheld sporingskode. Blokkering av sporingsinnhald kan hjelpe nettstdar å laste raskare, men nokre knappar, skjema og innloggingsfelt fungerer kanskje ikkje. <a data-l10n-name="learn-more-link">Les meir</a>
+tracker-tab-description = Nettstadar kan laste eksterne annonsar, videoar og anna innhald med sporingskode. Blokkering av sporingsinnhald kan gjere at nettstadar lastar raskare, men det kan vere at  nokre knappar, skjema og innloggingsfelt ikkje fungerer. <a data-l10n-name="learn-more-link">Les meir</a>
 fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters samlar innstillingar frå nettlesaren din og datamaskina di for å lage ein profil av deg. Ved hjelp av dette digitale fingeravtrykket kan dei spore deg på forskjellige nettstadar. <a data-l10n-name="learn-more-link">Les meir</a>
 cryptominer-tab-title = Kryptominarar
@@ -78,10 +79,13 @@ lockwise-sync-status =
        *[other] Synkroniserer med { $count } andre einingar
     }
 lockwise-sync-not-syncing = Synkroniserer ikkje med andre einingar.
+lockwise-sync-not-syncing-devices = Synkroniserer ikkje til andre einingar
 monitor-title = Sjå opp for på datalekkasjer.
 monitor-link = Korleis det verkar
 monitor-header-content = Sjekk { -monitor-brand-name } for å sjå om du har vore ein del av ein datalekkasje, og få varsel om nye lekkasjar.
 monitor-header-content-logged-in = { -monitor-brand-name } åtvarar deg om informasjonen din har dukka opp i ein kjend datalekkasje
+monitor-header-content-no-account = SJekk { -monitor-brand-name } for å sjå om du har vore ein del av ein datalekkasje, og få varsel om nye datalekkasjar.
+monitor-header-content-signed-in = { -monitor-brand-name } åtvarar deg om informasjonen din har dukka opp i ein kjend datalekkasje.
 monitor-sign-up = Registrer deg for datalekkasjevarsel
 auto-scan = Automatisk skanna i dag
 # This string is displayed after a large numeral that indicates the total number
@@ -107,6 +111,22 @@ info-exposed-passwords =
     { $count ->
         [one] Passord eksponert frå alle lekkasjar.
        *[other] Passord eksponerte frå alle lekkasjar.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] E-postadressa vert overvaka
+       *[other] E-postadressa vert overvaka
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Kjend datalekkasje har eksponert informasjonen din
+       *[other] Kjende datalekkasjar har eksponert informasjonen din
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
