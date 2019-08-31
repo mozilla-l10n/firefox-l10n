@@ -598,6 +598,7 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = חריגות…
     .accesskey = ר
+forms-breach-alerts-learn-more-link = מידע נוסף
 forms-fill-logins-and-passwords =
     .label = מילוי אוטומטי של כניסות וססמאות
     .accesskey = מ

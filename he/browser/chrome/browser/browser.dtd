@@ -249,6 +249,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "ניהול השימוש בתכניות DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "פתיחת חלונית MIDI">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "הענקת לאתר זה הרשאות נוספות.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "חסמת את המצלמה שלך עבור אתר זה.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "חסמת את המיקרופון שלך עבור אתר זה.">
@@ -815,6 +816,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure2 "החיבור מאובטח">
 <!ENTITY identity.connectionNotSecure "חיבור זה אינו מאובטח">
+
+<!ENTITY identity.connectionSecure3 "החיבור מאובטח">
+<!ENTITY identity.connectionNotSecure2 "החיבור אינו מאובטח">
 <!ENTITY identity.connectionFile "העמוד הזה מאוחסן במחשב שלך.">
 <!ENTITY identity.connectionVerified2 "התחברת לאתר זה באופן מאובטח, בבעלות:">
 <!ENTITY identity.connectionInternal "דף זה הנו דף מאובטח של &brandShortName;.">
@@ -823,6 +827,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "חיבור מאומת על־ידי מנפיק אישורים שאינו מזוהה על־ידי Mozilla.">
 
 <!ENTITY identity.evOwnerLabel "האתר בבעלות:">
+
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; חסם חלקים שאינם בטוחים בדף זה.">
@@ -861,6 +866,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "הרשאות מוגדרות">
 
+<!ENTITY identity.permissions3 "הרשאות">
 <!ENTITY identity.permissionsEmpty "לא סופקו לאתר זה הרשאות מיוחדות.">
 <!ENTITY identity.permissionsReloadHint "יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.">
 <!ENTITY identity.permissionsPreferences.tooltip "פתיחת העדפות הרשאות">
@@ -914,6 +920,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "עוגיות אלו עוקבות אחריך מאתר לאתר כדי לאסוף נתונים על הפעילויות המקוונות שלך. הן נוצרות על־ידי גורמי צד־שלישי כמו מפרסמים וחברות אנליטיות.">
 <!ENTITY protections.cryptominers.description "כורי מטבעות דיגיטליים משתמשים בכוח העיבוד של המערכת שלך כדי לכרות כסף דיגיטלי. תסריטי כריית מטבעות מרוקנים את הסוללה שלך, מאטים את המחשב שלך ומגדילים את חשבון החשמל שלך.">
 <!ENTITY protections.trackingContent.description "אתרים עשויים לטעון פרסומות חיצוניות, סרטונים ותכנים אחרים המכילים קוד מעקב. חסימת תוכן מעקב יכולה לסייע לאתרים להיטען מהר יותר, אך יתכן שמספר כפתורים, טפסים ושדות התחברות לא יעבדו.">
+<!ENTITY protections.trackingContent2.description "אתרים עשויים לטעון פרסומות חיצוניות, סרטונים ותכנים אחרים עם קוד מעקב. חסימת תוכן מעקב יכולה לסייע לאתרים להיטען מהר יותר, אך יתכן שמספר כפתורים, טפסים ושדות התחברות לא יעבדו.">
 <!ENTITY protections.socialMediaTrackers.description "רשתות חברתיות מציבות רכיבי מעקב באתרים אחרים כדי לעקוב אחר מה שהינך עושה ורואה ברשת. זה מאפשר לחברות המדיה החברתית ללמוד עליך מעבר למה שבחרת לשתף בפרופילי המדיה החברתית שלך.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
