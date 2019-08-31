@@ -817,6 +817,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure2 "Zwisk jo wěsty">
 <!ENTITY identity.connectionNotSecure "Zwisk njejo wěsty">
+
+<!ENTITY identity.connectionSecure3 "Zwisk jo wěsty">
+<!ENTITY identity.connectionNotSecure2 "Zwisk njejo wěsty">
 <!ENTITY identity.connectionNotSecureSecurityView "Njejsćo wěsće zwězany z toś tym sedłom.">
 <!ENTITY identity.connectionFile "Toś ten bok jo se na wašom licadle składł.">
 <!ENTITY identity.connectionVerified2 "Sćo z toś tym sedłom wěsće zwězany, kótaregož wobsejźaŕ jo:">
@@ -827,6 +830,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "Zwisk jo se pśeglědował pśez certifikatowego wudawarja, kótaryž njejo pśipóznaty wót Mozilla.">
 
 <!ENTITY identity.evOwnerLabel "Swójstwownik sedła:">
+
+<!ENTITY identity.evOwnerLabel2 "Certifikat wudany na:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; jo źěle toś togo boka blokěrował, kótarež njejsu wěste.">

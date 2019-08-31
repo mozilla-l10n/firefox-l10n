@@ -22,6 +22,17 @@ graph-total-summary =
         [few] { $count } pśeslědowaki su se  zablokěrowali wót { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] { $count } pśeslědowakow jo se  zablokěrowało wót { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] <b>{ $count }</b> pśeslědowak jo se  zablokěrował wót { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [two] <b>{ $count }</b> pśeslědowaka stej se  zablokěrowałej wót { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [few] <b>{ $count }</b> pśeslědowaki su se  zablokěrowali wót { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> pśeslědowakow jo se  zablokěrowało wót { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -52,6 +63,7 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } waše gronidła we wašom wobglědowaku wěsće składujo.
 lockwise-header-content-logged-in = Składujśo a synchronizěrujśo gronidła za wšykne waše rědy.
 open-about-logins-button = W { -brand-short-name } wócyniś
+about-logins-view-logins-button = Pśizjawjenja pokazaś
 lockwise-no-logins-content = Wobstarajśo se nałoženje <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }, aby swóje gronidła wšuźi sobu wzeł.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -76,10 +88,13 @@ lockwise-sync-status =
        *[other] Synchronizěrujo se z { $count } drugimi rědami
     }
 lockwise-sync-not-syncing = Z drugimi rědami njesynchronizěrowaś
+lockwise-sync-not-syncing-devices = Z drugimi rědami njesynchronizěrowaś
 monitor-title = Rozglědujśo se za datowymi źěrami
 monitor-link = Kak funkcioněrujo
 monitor-header-content = Pśeglědajśo { -monitor-brand-name }, aby zwěsćił, lěc sćo padnuł na datowu źěru a warnowanja wó nowych źěrach dostawaśo.
 monitor-header-content-logged-in = { -monitor-brand-name } was warnujo, jolic waše informacije su se pokazali w znatej datowej źěrje
+monitor-header-content-no-account = Pśeglědajśo { -monitor-brand-name }, aby zwěsćił, lěc sćo padnuł na znatu datowu źěru a warnowanja wó nowych źěrach dostawaśo.
+monitor-header-content-signed-in = { -monitor-brand-name } was warnujo, jolic waše informacije su se pokazali w znatej datowej źěrje.
 monitor-sign-up = Registrěrujśo se za warnowanja wó datowych źěrach
 auto-scan = Źinsa awtomatiski skannowany
 # This string is displayed after a large numeral that indicates the total number
@@ -111,6 +126,36 @@ info-exposed-passwords =
         [two] Gronidle stej se pśeraźiłej pśez wšykne datowe źery.
         [few] Gronidła su se pśeraźili pśez wšykne datowe źery.
        *[other] Gronidła su se pśeraźili pśez wšykne datowe źery.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] E-mailowa adresa, kótarež se doglědujo
+        [two] E-mailowej adresy, kótarež se doglědujotej
+        [few] E-mailowe adrese, kótarež se doglěduju
+       *[other] E-mailowe adrese, kótarež se doglěduju
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Znata datowa źěra jo pśeraźiła waše informacije
+        [two] Znatej datowej źěrje stej pśeraźiłej waše informacije
+        [few] Znate datowe źěry su pśeraźili waše informacije
+       *[other] Znate datowe źěry su pśeraźili waše informacije
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Gronidło jo se pśeraźiło pśez wšykne datowe źery
+        [two] Gronidle stej se pśeraźiłej pśez wšykne datowe źery
+        [few] Gronidła su se pśeraźili pśez wšykne datowe źery
+       *[other] Gronidła su se pśeraźili pśez wšykne datowe źery
     }
 full-report-link = Woglědajśo se dopołnu rozpšawu na <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
