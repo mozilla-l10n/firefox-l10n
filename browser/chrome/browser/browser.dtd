@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Управление запуском программы DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Открыть MIDI-панель">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Вы предоставили этому веб-сайту дополнительные разрешения.">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Вы заблокировали доступ этого веб-сайта к вашей камере.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Вы заблокировали доступ этого веб-сайта к вашему микрофону.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Вы заблокировали доступ этого веб-сайта к вашему экрану.">
@@ -813,12 +815,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Соединение">
 <!ENTITY identity.connectionSecure "Защищённое соединение">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Защита соединения">
-
 <!ENTITY identity.connectionSecure2 "Защищённое соединение">
 <!ENTITY identity.connectionNotSecure "Незащищённое соединение">
+
+<!ENTITY identity.connectionSecure3 "Защищённое соединение">
+<!ENTITY identity.connectionNotSecure2 "Незащищённое соединение">
 <!ENTITY identity.connectionNotSecureSecurityView "Вы подключились к этому сайту по незащищённому соединению.">
 <!ENTITY identity.connectionFile "Эта страница хранится на вашем компьютере.">
 <!ENTITY identity.connectionVerified2 "Вы подключились по защищённому соединению к сайту, которым владеет:">
@@ -829,6 +830,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "Соединение удостоверено сертификатом, издатель которого не распознан Mozilla.">
 
 <!ENTITY identity.evOwnerLabel "Сайтом владеет:">
+
+<!ENTITY identity.evOwnerLabel2 "Сертификат выдан:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; заблокировал незащищённые части этой страницы.">
@@ -866,6 +869,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Установленные разрешения">
+
+<!ENTITY identity.permissions3 "Разрешения">
 <!ENTITY identity.permissionsEmpty "Вы не давали этому сайту каких-либо специальных разрешений.">
 <!ENTITY identity.permissionsReloadHint "Чтобы изменения возымели действие, вам, возможно, потребуется перезагрузить страницу.">
 <!ENTITY identity.permissionsPreferences.tooltip "Открыть настройки разрешений">
@@ -879,6 +884,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "Больше информации об улучшенной защите от отслеживания">
 <!ENTITY protections.settings.label "Настройки защиты">
 <!ENTITY protections.report.label "Посмотреть полный отчёт">
+<!ENTITY protections.showreport.label "Посмотреть отчёт">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -898,12 +904,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Сайт всё ещё не работает после отключения защиты?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Отправьте сообщение">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Блокируются">
 <!ENTITY protections.notBlocking2.label "Разрешены">
+<!ENTITY protections.notFound.label "Ничего не найдено">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Почему?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Блокировка может привести к неработоспособности элементов некоторых веб-сайтов. Без трекеров некоторые кнопки, формы и поля для входа могут не работать.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Отключение защиты разрешит все трекеры на этом сайте. Также это может привести к улучшению работы веб-сайта.">
-<!ENTITY protections.notFound.label "Ничего не найдено">
 <!ENTITY protections.socialMediaTrackers.label "Трекеры социальных сетей">
 <!ENTITY protections.crossSiteTrackingCookies.label "Межсайтовые отслеживающие куки">
 <!ENTITY protections.trackingContent.label "Отслеживающее содержимое">
@@ -961,7 +976,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "п">
 
 <!ENTITY contentBlocking.trackersView.label "Трекеры">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Чтобы блокировать все трекеры, выберите «строгую» блокировку содержимого.">
 
 <!ENTITY contentBlocking.cookies.label "Куки">

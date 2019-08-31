@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Подробнее
 accessibility-text-label-header = Текстовые метки и имена
+accessibility-keyboard-header = Клавиатура
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -41,3 +42,9 @@ accessibility-text-label-issue-interactive = Интерактивные элем
 accessibility-text-label-issue-optgroup-label = Используйте атрибут <code>label</code> для задания альтернативного текста для элементов <span>optgroup</span>. <a>Подробнее</a>
 accessibility-text-label-issue-optgroup-label2 = Используйте атрибут <code>label</code> для задания альтернативного текста для элементов <span>optgroup</span>. <a>Подробнее</a>
 accessibility-text-label-issue-toolbar = Панели инструментов должны иметь альтернативный текст, когда присутствует более одной панели инструментов. <a>Подробнее</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
+accessibility-keyboard-issue-focusable = Интерактивные элементы должны быть фокусируемыми. <a>Подробнее</a>
