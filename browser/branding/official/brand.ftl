@@ -23,4 +23,4 @@
 -brand-product-name = Firefox
     .gender = masculine
 -vendor-short-name = Mozilla
-trademarkInfo = Firefox a logo Firefoxu jsou ochrannými známkami organizace Mozilla Foundation.
+trademarkInfo = Firefox a jeho logo jsou ochrannými známkami organizace Mozilla Foundation.
