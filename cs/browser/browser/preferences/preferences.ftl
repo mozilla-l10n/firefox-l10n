@@ -618,6 +618,10 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Generovat a navrhovat silná hesla
     .accesskey = G
+forms-breach-alerts =
+    .label = Upozorňovat na hesla uložená pro servery, kde došlo k úniku dat
+    .accesskey = b
+forms-breach-alerts-learn-more-link = Zjistit více
 forms-fill-logins-and-passwords =
     .label = Automaticky vyplňovat přihlašovací údaje
     .accesskey = y
@@ -737,6 +741,7 @@ addressbar-suggestions-settings = Nastavit našeptávání vyhledávače
 content-blocking-header = Blokování obsahu
 content-blocking-enhanced-tracking-protection = Rozšířená ochrana proti sledování
 content-blocking-section-description = Chraňte své soukromí při prohlížení internetu. Zablokujte neviditelný obsah, který vás sleduje na navštívených stránkách a vytváří profil vašeho chování. Blokování takového obsahu navíc může zrychlit načítání stránek.
+content-blocking-section-top-level-description = Sledující prvky sbírají informace, co a kde na internetu děláte, jaké máte návyky a co vás zajímá. { -brand-short-name } blokuje mnoho takových prvků i dalších škodlivých skriptů.
 content-blocking-learn-more = Zjistit více
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
