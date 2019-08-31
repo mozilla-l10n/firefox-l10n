@@ -156,6 +156,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "ส่งแท็บทันทีไปยังอุปกรณ์ใด ๆ ที่คุณลงชื่อเข้าใช้">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -924,6 +925,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.noTrackersFound.description "ไม่มีตัวติดตามที่ &brandShortName; รู้จักถูกตรวจพบที่หน้านี้">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "คุกกี้เหล่านี้ติดตามคุณจากไซต์หนึ่งไปยังอีกไซต์หนึ่งเพื่อรวบรวมข้อมูลเกี่ยวกับสิ่งที่คุณทำทางออนไลน์ พวกมันถูกตั้งค่าโดยบุคคลที่สามเช่น นักโฆษณาและบริษัทวิเคราะห์">
+<!ENTITY protections.cryptominers.description "ตัวขุดเหรียญคริปโตดิจิตอลใช้พลังการคำนวณของระบบของคุณเพื่อสร้างเงินคริปโตดิจิทัล สคริปต์ขุดเหรียญดิจิทัลจะทำให้พลังงานแบตเตอรี่ของคุณลดลง คอมพิวเตอร์ของคุณช้าลง และเพิ่มค่าไฟฟ้าของคุณได้">
+<!ENTITY protections.trackingContent.description "เว็บไซต์อาจโหลดโฆษณา วิดีโอ และเนื้อหาอื่น ๆ นอกเว็บที่มีโค้ดติดตาม การปิดกั้นเนื้อหาการติดตามจะทำให้เว็บไซต์โหลดเร็วขึ้น แต่ปุ่มบางปุ่ม ฟอร์ม และเขตข้อมูลการเข้าสู่ระบบอาจไม่ทำงาน">
+<!ENTITY protections.trackingContent2.description "เว็บไซต์อาจโหลดโฆษณา วิดีโอ และเนื้อหาอื่น ๆ นอกเว็บที่มีโค้ดติดตาม การปิดกั้นเนื้อหาการติดตามจะทำให้เว็บไซต์โหลดเร็วขึ้น แต่ปุ่มบางปุ่ม ฟอร์ม และเขตข้อมูลการเข้าสู่ระบบอาจไม่ทำงาน">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -989,6 +993,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "การบล็อกเนื้อหาอาจทำให้เกิดปัญหากับบางเว็บไซต์ได้ เมื่อคุณรายงานปัญหา นั่นก็เท่ากับคุณช่วยทำให้ &brandShortName; ดีขึ้นสำหรับทุกๆ คน (การดำเนินการนี้จะส่ง URL พร้อมทั้งข้อมูลเกี่ยวกับการตั้งค่าเบราว์เซอร์ของคุณไปให้กับ Mozilla)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "เรียนรู้เพิ่มเติม">
 <!ENTITY contentBlocking.breakageReportView.title "รายงานไซต์ที่ใช้งานไม่ได้">
+<!ENTITY contentBlocking.breakageReportView3.description "การปิดกั้นตัวติดตามบางตัวอาจทำให้เกิดปัญหากับบางเว็บไซต์ได้ การรายงานปัญหา ก็เท่ากับคุณช่วยทำให้ &brandShortName; ดีขึ้นสำหรับทุก ๆ คน การรายงานนี้จะส่ง URL พร้อมทั้งข้อมูลเกี่ยวกับการตั้งค่าเบราว์เซอร์ของคุณไปให้กับ Mozilla">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "เรียนรู้เพิ่มเติม">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "คุณมีปัญหาอะไร? (ไม่จำเป็นต้องระบุ)">
