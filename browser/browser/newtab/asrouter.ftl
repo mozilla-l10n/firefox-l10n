@@ -84,6 +84,27 @@ cfr-whatsnew-button =
     .label = Что нового
     .tooltiptext = Что нового
 cfr-whatsnew-panel-header = Что нового
+cfr-whatsnew-release-notes-link-text = Прочитать примечания к выпуску
+cfr-whatsnew-fx70-title = { -brand-short-name } теперь ещё сильнее борется за вашу приватность
+cfr-whatsnew-fx70-body = Последняя версия вносит улучшения в защиту от отслеживания и делает создание надёжных паролей для каждого сайта ещё более простым.
+cfr-whatsnew-tracking-protect-title = Защитите себя от трекеров
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } блокирует многие социальные и межсайтовые трекеры, которые
+    отслеживают вас в Интернете.
+cfr-whatsnew-tracking-protect-link-text = Посмотреть мой отчёт
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Трекер заблокирован
+        [few] Трекера заблокировано
+       *[many] Трекеров заблокировано
+    }
+cfr-whatsnew-tracking-blocked-subtitle = С { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Посмотреть отчёт
+cfr-whatsnew-lockwise-take-title = Возьмите свои пароли с собой
+cfr-whatsnew-lockwise-take-link-text = Загрузить приложение
 
 ## Bookmark Sync
 
