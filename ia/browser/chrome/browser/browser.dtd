@@ -250,6 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gerer le utilisation de software de DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Aperir le quadro MIDI">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Tu ha concedite altere permissos a iste sito web.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Tu ha blocate tu camera pro iste sito web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tu ha blocate tu microphono pro iste sito web.">
@@ -929,6 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "Minatores occulte usa potentia de calculo de tu systema pro cavar moneta digital. Scripts del minatores occulte exhauri tu batteria, relenta tu computator e pote accrescer le factura de tu energia.">
 <!ENTITY protections.fingerprinters.description "Dactylogrammatores collige parametros de tu navigator e computator pro crear un profilo de te. Per iste dactylogramma, illos pote traciar te inter differente sitos web.">
 <!ENTITY protections.trackingContent.description "Sitos web pote cargar avisos publicitari externe, videos e altere contento que contine codification de traciamento. Blocar contento traciator pote adjutar a cargar sitos plus velocemente, ma alcun buttones, formas e campos de accesso pote non functionar.">
+<!ENTITY protections.trackingContent2.description "Sitos web pote cargar avisos publicitari externe, videos e altere contento con codification de traciamento. Blocar contento traciator pote adjutar a cargar sitos plus velocemente, ma alcun buttones, formas e campos de accesso pote non functionar.">
 <!ENTITY protections.socialMediaTrackers.description "Retes social placia traciatores sur altere sitos web pro sequer lo que tu face, vide e observa online. Iste consenti al companias de retes social de saper plus re te, ultra illo que tu comparti sur tu profilo de retes social.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
