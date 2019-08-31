@@ -57,6 +57,7 @@ login-list-last-used-option = Huling Ginamit
 login-list-intro-title = Walang natagpuang mga login
 login-list-intro-description = Kapag nagse-save ka ng isang password sa { -brand-product-name }, lalabas iyon dito.
 about-logins-login-list-empty-search-title = Walang natagpuang mga login
+about-logins-login-list-empty-search-description = Walang resultang tumugma sa iyong hinahanap.
 login-list-item-title-new-login = Bagong Login
 login-list-item-subtitle-new-login = Ipasok ang iyong mga login credential
 login-list-item-subtitle-missing-username = (walang username)
@@ -67,6 +68,7 @@ login-intro-heading = Hinahanap mo ba ang iyong naka-save na mga login? I-set up
 login-intro-description = Kung nag-save ka ng mga login mo sa { -brand-product-name } sa ibang device, ganito ang dapat gawin para makuha mo sila rito:
 login-intro-instruction-fxa = Gumawa ng o mag-sign in sa iyong { -fxaccount-brand-name } sa device kung saan naka-save ang mga login mo
 login-intro-instruction-fxa-settings = Siguruhin na napili mo ang checkbox na Mga Login sa Mga { -sync-brand-short-name } Setting
+about-logins-intro-instruction-help = Bisitahin ang <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Support</a> para sa karagdagang tulong
 
 ## Login
 
@@ -79,6 +81,8 @@ login-item-origin =
 login-item-username-label = Username
 login-item-username =
     .placeholder = name@example.com
+about-logins-login-item-username =
+    .placeholder = (walang username)
 login-item-copy-username-button-text = Kopyahin
 login-item-copied-username-button-text = Nakopya na!
 login-item-password-label = Password
