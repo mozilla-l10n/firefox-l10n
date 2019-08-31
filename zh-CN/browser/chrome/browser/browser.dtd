@@ -831,6 +831,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.evOwnerLabel "网站所有者：">
 
+<!ENTITY identity.evOwnerLabel2 "证书颁发给：">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; 已拦截此页面上不安全的内容。">
