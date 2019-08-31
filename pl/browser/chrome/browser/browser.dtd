@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Zarządzaj ustawieniami DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Otwórz panel MIDI">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Witryna korzysta z dodatkowych uprawnień.">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Udostępnianie kamery tej witrynie zostało zablokowane">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Udostępnianie mikrofonu tej witrynie zostało zablokowane">
 <!ENTITY urlbar.screenBlocked.tooltip            "Udostępnianie obrazu ekranu tej witrynie zostało zablokowane">
@@ -813,12 +815,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Połączenie">
 <!ENTITY identity.connectionSecure "Zabezpieczone połączenie">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Bezpieczeństwo połączenia">
-
 <!ENTITY identity.connectionSecure2 "Zabezpieczone połączenie">
 <!ENTITY identity.connectionNotSecure "Połączenie nie jest bezpieczne">
+
+<!ENTITY identity.connectionSecure3 "Zabezpieczone połączenie">
+<!ENTITY identity.connectionNotSecure2 "Niezabezpieczone połączenie">
 <!ENTITY identity.connectionNotSecureSecurityView "Połączenie z tą stroną nie jest zabezpieczone.">
 <!ENTITY identity.connectionFile "Strona wczytana z tego komputera.">
 <!ENTITY identity.connectionVerified2 "Połączenie bezpieczne, strona:">
@@ -829,6 +830,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "Połączenie zweryfikowane przez wystawcę certyfikatu, który nie jest rozpoznawany przez Mozillę.">
 
 <!ENTITY identity.evOwnerLabel "Zarządzana przez:">
+
+<!ENTITY identity.evOwnerLabel2 "Certyfikat wystawiony dla:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny.">
@@ -866,7 +869,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Nadane uprawnienia">
-<!ENTITY identity.permissionsEmpty "Strona korzysta z domyślnych uprawnień.">
+
+<!ENTITY identity.permissions3 "Uprawnienia">
+<!ENTITY identity.permissionsEmpty "Witryna korzysta z domyślnych uprawnień.">
 <!ENTITY identity.permissionsReloadHint "Ponowne wczytanie strony może być konieczne, aby wprowadzone zmiany przyniosły skutek.">
 <!ENTITY identity.permissionsPreferences.tooltip "Otwórz ustawienia uprawnień">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Otwórz ustawienia blokowania treści">
@@ -879,6 +884,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "Więcej informacji o wzmocnionej ochronie przed śledzeniem">
 <!ENTITY protections.settings.label "Ustawienia ochrony">
 <!ENTITY protections.report.label "Wyświetl pełny raport">
+<!ENTITY protections.showreport.label "Wyświetl raport">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -898,12 +904,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Strona nie działa nawet po wyłączeniu ochrony?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Wyślij zgłoszenie">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Zablokowane">
 <!ENTITY protections.notBlocking2.label "Dopuszczone">
+<!ENTITY protections.notFound.label "Niewykryte">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Dlaczego?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokowanie tych elementów może powodować niepoprawne działanie niektórych stron. Bez elementów śledzących niektóre przyciski, formularze i pola logowania mogą nie działać.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Wyłączenie ochrony umożliwi działanie wszystkich elementów śledzących na tej stronie. Może to także naprawić jej funkcjonowanie.">
-<!ENTITY protections.notFound.label "Niewykryte">
 <!ENTITY protections.socialMediaTrackers.label "Elementy śledzące serwisów społecznościowych">
 <!ENTITY protections.crossSiteTrackingCookies.label "Ciasteczka śledzące między witrynami">
 <!ENTITY protections.trackingContent.label "Treści z elementami śledzącymi">
@@ -915,6 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "Te elementy wykorzystują moc obliczeniową Twojego komputera do generowania cyfrowych walut. Skrypty generujące kryptowaluty rozładowują baterię, spowalniają komputer i mogą zwiększyć rachunek za prąd.">
 <!ENTITY protections.fingerprinters.description "Te elementy zbierają ustawienia przeglądarki i komputera, aby utworzyć profil użytkownika. Za pomocą tego cyfrowego odcisku palca mogą śledzić Cię między różnymi witrynami.">
 <!ENTITY protections.trackingContent.description "Witryny mogą wczytywać zewnętrzne reklamy, filmy i inne treści zawierające elementy śledzące. Blokowanie ich może przyspieszyć wczytywanie stron, ale niektóre przyciski, formularze i pola logowania mogą działać niepoprawnie.">
+<!ENTITY protections.trackingContent2.description "Witryny mogą wczytywać zewnętrzne reklamy, filmy i inne treści z elementami śledzącymi. Blokowanie ich może przyspieszyć wczytywanie stron, ale niektóre przyciski, formularze i pola logowania mogą działać niepoprawnie.">
 <!ENTITY protections.socialMediaTrackers.description "Serwisy społecznościowe umieszczają elementy śledzące na innych witrynach, aby śledzić co robisz, widzisz i oglądasz w Internecie. Dzięki temu ich właściciele wiedzą o Tobie więcej, niż udostępniasz w ich serwisach.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -961,7 +977,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "Z">
 
 <!ENTITY contentBlocking.trackersView.label "Elementy śledzące">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Ustaw blokowanie na „ścisłe”, aby blokować wszystkie elementy śledzące.">
 
 <!ENTITY contentBlocking.cookies.label "Ciasteczka">
