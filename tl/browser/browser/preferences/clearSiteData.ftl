@@ -22,7 +22,7 @@ clear-site-data-cookies-with-data =
 # or the same as clear-site-data-cookies-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cookies-empty =
-    .label = Mga cookie at Site Data
+    .label = Mga Cookie at Site Data
     .accesskey = S
 clear-site-data-cookies-info = Maaari kang ma-sign out sa mga website kapag binura
 # The parameters in parentheses in this string describe disk usage

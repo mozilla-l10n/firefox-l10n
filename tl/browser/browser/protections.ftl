@@ -18,6 +18,15 @@ graph-total-summary =
         [one] May naharang na { $count } tracker magmula noong { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] May naharang na { $count } tracker magmula noong { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] May naharang na <b>{ $count }</b> tracker magmula noong { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] May naharang na <b>{ $count }</b> tracker magmula noong { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -48,6 +57,7 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = Ligtas na iniimbak ng { -lockwise-brand-name } ang mga password mo sa iyong browser.
 lockwise-header-content-logged-in = Ligtas na iimbak at i-sync ang mga password mo sa lahat ng mga device.
 open-about-logins-button = Buksan sa { -brand-short-name }
+about-logins-view-logins-button = Tingan ang mga Login
 lockwise-no-logins-content = Kunin ang <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> app para madala kahti saan ang iyong mga password.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -68,10 +78,12 @@ lockwise-sync-status =
        *[other] Nagsi-sync sa { $count } iba pang mga device
     }
 lockwise-sync-not-syncing = Hindi nagsi-sync sa ibang mga device
+lockwise-sync-not-syncing-devices = Hindi nagsi-sync sa ibang mga device
 monitor-title = Maging alisto sa mga data breach
 monitor-link = Paano ito gumagana
 monitor-header-content = Tingnan ang { -monitor-brand-name } para malaman kung ikaw ay naging parte ng isang data breach at maalerto sa mga bagong breach.
 monitor-header-content-logged-in = Binabalaan ka ng { -monitor-brand-name } kung lumabas ang impormasyon mo sa isang kilalang data breach
+monitor-header-content-no-account = Tingnan ang { -monitor-brand-name } para malaman kung ikaw ay naging parte ng isang naiulat na data breach, at maalerto sa mga bagong breach.
 monitor-sign-up = Mag-sign Up para sa mga Breach Alert
 auto-scan = Kusang na-scan ngayon
 # This string is displayed after a large numeral that indicates the total number

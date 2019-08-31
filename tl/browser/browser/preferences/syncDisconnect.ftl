@@ -9,7 +9,7 @@ sync-disconnect-heading = Gusto mo bang tanggalin ang mga datus ng browser sa ko
 sync-disconnect-remove-sync-caption = Tanggalin ang data ng { -sync-brand-name }
 sync-disconnect-remove-sync-data = Mga bookmark, kasaysayan, password, atbp.
 sync-disconnect-remove-other-caption = Magtanggal ng Iba Pang Pribadong Data
-sync-disconnect-remove-other-data = Mga Cookie, cache, offline na datos ng website, atbp.
+sync-disconnect-remove-other-data = Mga cookie, cache, offline website data, atbp.
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Disconnecting...
 sync-disconnect-cancel =

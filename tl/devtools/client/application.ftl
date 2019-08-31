@@ -87,3 +87,11 @@ manifest-loaded-ok = Naiload na ang manifest.
 manifest-loaded-error = Nagkaroon ng problema habang niloload ang manifest.
 # Text displayed when the page has no manifest available
 manifest-non-existing = Walang manifest na pwedeng suriin.
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Warning icon
+    .title = Warning
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Error icon
+    .title = Error

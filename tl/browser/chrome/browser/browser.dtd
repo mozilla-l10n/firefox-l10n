@@ -163,7 +163,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.beforeDomain.label "Ang">
 <!ENTITY fullscreenWarning.afterDomain.label "ay naka-full screen na ngayon">
 <!ENTITY fullscreenWarning.generic.label "Ang dokument na ito ay naka full screen">
 
@@ -249,6 +249,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "I-manage ang page translation">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Pamahalaan ang paggamit ng DRM software">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Buksan ang MIDI panel">
+
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Hinarangan mo ang iyong camera para sa website na ito.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Na-block mo ang iyong mikropono para sa website na ito.">
@@ -813,10 +814,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Koneksyon">
 <!ENTITY identity.connectionSecure "I-secure ang Koneksyon">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-
 <!ENTITY identity.connectionNotSecure "Hindi Sigurado ang Koneksyon">
+
 <!ENTITY identity.connectionNotSecureSecurityView "Ikaw ay hindi ligtas na nakakonekta sa site na ito.">
 <!ENTITY identity.connectionFile "Ang pahinang ito ay naka-imbak sa iyong computer.">
 <!ENTITY identity.connectionVerified2 "Malayo kang konektado sa site na ito, na pag-aari ng:">
@@ -827,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "Ang connection ay na-verify ng isang certificate issuer na hindi kinikilala ng Mozilla.">
 
 <!ENTITY identity.evOwnerLabel "Ang site ay pagmamay-ari ni:">
+
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; Na-block ang mga bahagi ng pahinang ito na hindi ligtas.">
@@ -858,12 +858,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Karagdagang Impormasyon">
 
-<!ENTITY identity.clearSiteData "Burahin ang mga Cookies at Site Data…">
+<!ENTITY identity.clearSiteData "Burahin ang mga Cookie at Site Data…">
 
 <!ENTITY identity.permissions "Pahintulot">
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Permissions Set">
+
 <!ENTITY identity.permissionsEmpty "Hindi mo ipinagkaloob ang site na ito anumang espesyal na pahintulot.">
 <!ENTITY identity.permissionsReloadHint "Maaaring kailangan mong i-reload ang pahina para mag-aplay ang mga pagbabago.">
 <!ENTITY identity.permissionsPreferences.tooltip "Open Permissions Preferences">
@@ -975,10 +976,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies2.label "Mga Cross-Site Tracking Cookie">
 
 <!ENTITY contentBlocking.cryptominers.label "Mga Cryptominer">
-<!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
+<!ENTITY contentBlocking.cryptominersView.label "Mga cryptominer">
 
-<!ENTITY contentBlocking.fingerprinters.label "Fingerprinters">
-<!ENTITY contentBlocking.fingerprintersView.label "Fingerprinters">
+<!ENTITY contentBlocking.fingerprinters.label "Mga fingerprinter">
+<!ENTITY contentBlocking.fingerprintersView.label "Mga fingerprinter">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "I-report ang problema">
 <!ENTITY contentBlocking.breakageReportView.label "I-report ang mga problema">

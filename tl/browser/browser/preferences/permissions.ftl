@@ -75,35 +75,35 @@ permissions-exceptions-etp-desc = Isinara mo ang mga protection sa mga website n
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =
-    .title = Mga Exception - Cookies at Site Data
+    .title = Mga Exception - Mga Cookie at Site Data
     .style = { permissions-window.style }
 permissions-exceptions-cookie-desc = Maaari mong tukuyin kung aling website ang lagi o hindi mo papahintulutang gumamit ng cookies at site data. I-type ang exact address ng site na gusto mong i-manage at i-click ang Block, Allow for Session, o Allow.
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
-    .title = Pinapayagan ang Mga Website - Mga Pop-up
+    .title = Mga Website na Pinapayagan - Mga Pop-up
     .style = { permissions-window.style }
 permissions-exceptions-popup-desc = You can specify which web sites are allowed to open pop-up windows. Type the exact address of the site you want to allow and then click Allow.
 
 ## Exceptions - Saved Logins
 
 permissions-exceptions-saved-logins-window =
-    .title = Mga Pagbubukod - Mga Nai-save na Pag-login
+    .title = Mga Exception - Mga Naka-save na Login
     .style = { permissions-window.style }
-permissions-exceptions-saved-logins-desc = Ang mga pag-login para sa mga sumusunod na website ay hindi mai-save
+permissions-exceptions-saved-logins-desc = Ang mga login para sa mga sumusunod na website ay hindi ise-save
 
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window =
-    .title = Pinapayagan ang Mga Website - Pag-install ng Mga Add-on
+    .title = Mga Website na Pinapayagan - Pag-install ng mga Add-on
     .style = { permissions-window.style }
 permissions-exceptions-addons-desc = You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
 
 ## Exceptions - Autoplay Media
 
 permissions-exceptions-autoplay-media-window2 =
-    .title = Mga Pagbubukod - Autoplay
+    .title = Mga Exception - Autoplay
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Maaari mong banggitin aling mga website ang palagi o di-kailanman papayagan na mag-autoplay ng media na walang tunog. I-type ang address ng site na gusto mong i-manage at pagkatapos ay pindutin ang Harangin o Payagan.
 

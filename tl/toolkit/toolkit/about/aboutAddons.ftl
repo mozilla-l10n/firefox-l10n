@@ -98,6 +98,7 @@ detail-private-browsing-description2 = Kapag pinayagan, ang extension ay magkaka
 # cannot be overridden by the user.
 detail-private-disallowed-label = Hindi Pinapayagan sa mga Private Window
 detail-private-disallowed-description = Hindi tumatakbo ang extension na ito habang nasa private browsing. <label data-l10n-name="detail-private-browsing-learn-more">Alamin</label>
+detail-private-disallowed-description2 = Ang extension na ito ay hindi tumatakbo kapag nasa private browsing. <a data-l10n-name="learn-more">Alamin</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Nangangailangan ng Access sa mga Private Window
 detail-private-required-description = Ang extension na ito ay may access sa iyong mga online activity habang nasa private browsing. <label data-l10n-name="detail-private-browsing-learn-more">Alamin</label>

@@ -133,7 +133,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButton1Label "Tanggapin ang Panganib at Magpatuloy">
 
-<!ENTITY errorReporting.automatic2 "Mag-report ng mga error kagaya neto para makatulog sa Mozilla makilala at makilatis ang mga hinihinalaang sites">
+<!ENTITY errorReporting.automatic2 "Mag-ulat ng mga error na kagaya nito para matulungan ang Mozilla na matukoy at maharang ang mga delikadong site">
 <!ENTITY errorReporting.learnMore "Alamin…">
 
 <!ENTITY remoteXUL.title "Remote XUL">

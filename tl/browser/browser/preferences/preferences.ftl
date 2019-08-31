@@ -5,7 +5,7 @@
 do-not-track-description = Magpadala ng mga website ng signal na ”Huwag Subaybayan” na hindi mo gustong masubaybayan
 do-not-track-learn-more = Matuto ng higit pa
 do-not-track-option-default-content-blocking-known =
-    .label = Payagan lang kung ang { -brand-short-name } ay naka-set na mag-block ng mga kilalang trackers.
+    .label = Payagan lang kung ang { -brand-short-name } ay naka-set na mag-block ng mga kilalang tracker.
 do-not-track-option-always =
     .label = Palagi
 pref-page =
@@ -146,7 +146,7 @@ warn-on-close-multiple-tabs =
     .label = Babalaan ka kapag nagsasara ng maraming mga tab
     .accesskey = m
 warn-on-open-many-tabs =
-    .label = Binabalaan ka kapag nagbubukas ng maramihang mga tab ay maaaring makapagpabagal { -brand-short-name }
+    .label = Balaan ka kapag ang pagbukas ng maraming mga tab ay maaaring makapagpabagal sa { -brand-short-name }
     .accesskey = d
 switch-links-to-new-tabs =
     .label = Kapag binuksan mo ang link sa bagong tab, lumipat kaagad doon
@@ -216,7 +216,7 @@ translate-web-pages =
 # used to provide machine translations for web pages.
 translate-attribution = Mga pagsasalin sa pamamagitan ng <img data-l10n-name="logo"/>
 translate-exceptions =
-    .label = Mga exceptions...
+    .label = Mga exception...
     .accesskey = x
 check-user-spelling =
     .label = Suriin ang pagkakabaybay habang nagta-type
@@ -241,7 +241,7 @@ download-choose-folder =
            *[other] o
         }
 download-always-ask-where =
-    .label = Laging itanong sa iyo kung saan magse-save ng mga file
+    .label = Lagi kang tanungin kung saan magse-save ng mga file
     .accesskey = A
 applications-header = Applications
 applications-description = Piliin kung ano ang gagawin ng { -brand-short-name } sa mga file na iyong na-download mula sa web o mga application na iyong ginagamit habang nagba-browse.
@@ -262,7 +262,7 @@ update-application-title = Mga update ng { -brand-short-name }
 update-application-description = Panatilihing updated ang { -brand-short-name } para sa pinakamahusay na pagtakbo, katatagan, at seguridad.
 update-application-version = Bersyon { $version } <a data-l10n-name="learn-more">Ano ang bago?</a>
 update-history =
-    .label = Ipakita ang kasaysayan nang pag-update…
+    .label = Ipakita ang Kasaysayan ng Pag-update...
     .accesskey = p
 update-application-allow-description = Payagan ang { -brand-short-name } na
 update-application-auto =
@@ -279,7 +279,7 @@ update-application-use-service =
     .label = Gumamit ng background service upang i-install ang mga update
     .accesskey = b
 update-enable-search-update =
-    .label = Awtomatikong i-update ang mga search engine
+    .label = Kusang i-update ang mga search engine
     .accesskey = e
 update-pref-write-failure-title = Isulat ang Kabiguan
 # Variables:
@@ -337,7 +337,7 @@ browsing-use-cursor-navigation =
     .label = Palagiang gamitin ang mga cursor key upang libutin ang mga pahina
     .accesskey = c
 browsing-search-on-start-typing =
-    .label = Maghahanap ng text kapag nag umpisang mag-type
+    .label = Maghanap ng text kapag nag-umpisang mag-type
     .accesskey = x
 browsing-picture-in-picture-toggle-enabled =
     .label = I-enable ang picture-in-picture video control
@@ -423,9 +423,9 @@ home-prefs-highlights-option-visited-pages =
 home-prefs-highlights-options-bookmarks =
     .label = Mga bookmark
 home-prefs-highlights-option-most-recent-download =
-    .label = Pinakabagong Nai-download
+    .label = Mga Download Kamakailan
 home-prefs-highlights-option-saved-to-pocket =
-    .label = Mga Pahina na Nai-save sa { -pocket-brand-name }
+    .label = Mga Pahinang Naka-save sa { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
@@ -546,7 +546,7 @@ sync-engine-history =
     .accesskey = r
 sync-engine-tabs =
     .label = Buksan ang mga tab
-    .tooltiptext = Listahan ng kung ano ang naka bukas sa mga synced na mga device
+    .tooltiptext = Listahan ng kung ano ang nakabukas sa mga naka-sync na device
     .accesskey = B
 sync-engine-logins =
     .label = Mga login
@@ -664,12 +664,12 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Cookies at Site Data
+sitedata-header = Mga Cookie at Site Data
 sitedata-total-size-calculating = Kinakalkula ang site data at cache size...
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Ikaw ay nagstore ng cookies, site data at cache ay kasalukuyang gumagamit ng { $value } { $unit } ng disk space.
+sitedata-total-size = Ang iyong mga nakaimbak na cookie, site data, at cache ay kasalukuyang gumagamit ng { $value } { $unit } ng disk space.
 sitedata-learn-more = Alamin
 sitedata-delete-on-close =
     .label = Burahin ang mga cookie at site data kapag sinarado ang { -brand-short-name }
@@ -710,7 +710,7 @@ sitedata-cookies-permissions =
 ## Privacy Section - Address Bar
 
 addressbar-header = Address Bar
-addressbar-suggest = Kapag ginagamit ang address bar, iminumungkahi
+addressbar-suggest = Kapag ginagamit ang address bar, magmungkahi ng
 addressbar-locbar-history-option =
     .label = Kasaysayan ng pag-browse
     .accesskey = H
@@ -718,9 +718,9 @@ addressbar-locbar-bookmarks-option =
     .label = Mga bookmark
     .accesskey = k
 addressbar-locbar-openpage-option =
-    .label = Buksan ang mga tab
+    .label = Mga nakabukas na tab
     .accesskey = O
-addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga suhestiyon sa search engine
+addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga mungkahi ng search engine
 
 ## Privacy Section - Content Blocking
 
@@ -755,8 +755,8 @@ content-blocking-unvisited-cookies = Mga cookie mula sa mga hindi binibisitang s
 content-blocking-all-windows-trackers = Mga kilalang tracker sa lahat ng window
 content-blocking-all-windows-tracking-content = Tracking content sa lahat ng mga window
 content-blocking-all-third-party-cookies = Lahat ng mga third-party na cookies
-content-blocking-cryptominers = Cryptominers
-content-blocking-fingerprinters = Fingerprinters
+content-blocking-cryptominers = Mga Cryptominer
+content-blocking-fingerprinters = Mga Fingerprinter
 content-blocking-warning-title = Mag-ingat!
 content-blocking-warning-description = Ang pagharang sa mga content ay maaaring maging sanhi para masira ang ilang mga website. Madali namang mag-disable ng pagharang para sa mga pinagkakatiwalaang site.
 content-blocking-learn-how = Alamin kung papaano
@@ -786,12 +786,12 @@ content-blocking-expand-section =
     .tooltiptext = Karagdagang impormasyon
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
-    .label = Cryptominers
+    .label = Mga Cryptominer
     .accesskey = y
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Fingerprinters
+    .label = Mga Fingerprinter
     .accesskey = F
 
 ## Privacy Section - Tracking
@@ -827,7 +827,7 @@ permissions-block-autoplay-media2 =
     .label = Harangin ang mga website mula sa kusang pagpapaandar ng tunog
     .accesskey = B
 permissions-block-autoplay-media-exceptions =
-    .label = mga Execption
+    .label = Mga Exception...
     .accesskey = E
 permissions-autoplay = Autoplay
 permissions-autoplay-settings =
@@ -837,13 +837,13 @@ permissions-block-popups =
     .label = Harangin ang mga pop-up windows
     .accesskey = H
 permissions-block-popups-exceptions =
-    .label = Mga Exceptions...
+    .label = Mga Exception...
     .accesskey = E
 permissions-addon-install-warning =
     .label = Pagbabala sa iyo kapag sinusubukan ng mga website na mag-install ng mga add-on
     .accesskey = W
 permissions-addon-exceptions =
-    .label = Mga exceptions...
+    .label = Mga exception...
     .accesskey = e
 permissions-a11y-privacy-checkbox =
     .label = Pigilan ang mga serbisyo sa pag-access sa pag-access sa iyong browser
@@ -853,7 +853,7 @@ permissions-a11y-privacy-link = Matuto ng higit pa
 ## Privacy Section - Data Collection
 
 collection-header = Pagkolekta at Paggamit ng { -brand-short-name } sa Data
-collection-description = Nagsusumikap kaming magbigyan ka ng mga pagpipilian at kolektahin lamang kung ano ang kailangan namin upang mapaganda ang { -brand-short-name } para sa lahat. Lagi kaming humihingi ng pahintulot bago tumanggap ng personal na impormasyon.
+collection-description = Nagsusumikap kaming mabigyan ka ng mga pagpipilian at kolektahin lamang kung ano ang kailangan namin upang mapaganda ang { -brand-short-name } para sa lahat. Lagi kaming humihingi ng pahintulot bago tumanggap ng personal na impormasyon.
 collection-privacy-notice = Abiso pang Sarilinan
 collection-health-report =
     .label = Payagan ang { -brand-short-name } na magpadala ng data ng teknikal at pakikipag-ugnayan sa { -vendor-short-name }
@@ -869,7 +869,7 @@ addon-recommendations-link = Alamin pa
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Hindi pinagana ang pag-uulat ng data para sa build configuration na ito
 collection-backlogged-crash-reports =
-    .label = Payagan ang { -brand-short-name } na magpadala ng mga naka-backlog na crash report para sa iyo
+    .label = Payagan ang { -brand-short-name } na magpadala ng mga naka-backlog na crash report sa ngalan mo
     .accesskey = c
 collection-backlogged-crash-reports-link = Alamin
 
@@ -879,17 +879,17 @@ collection-backlogged-crash-reports-link = Alamin
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Seguridad
-security-browsing-protection = Pandaraya na Nilalaman at Proteksyon ng Delikadong Software
+security-browsing-protection = Mapanlinlang na Content at Proteksyon mula sa Delikadong Software
 security-enable-safe-browsing =
-    .label = I-block ang mga content na delikado at nakakahinala
+    .label = Harangin ang delikado at mapanlinlang na content
     .accesskey = B
 security-enable-safe-browsing-link = Matuto ng higit pa
 security-block-downloads =
     .label = Huwag hayaan ang mga delikado na downloads
     .accesskey = D
 security-block-uncommon-software =
-    .label = Mag-babala sa mga hindi kilala at hindi ginusto na software
-    .accesskey = C
+    .label = Balaan ka tungkol sa mga di-kanais-nais at di-karaniwang software
+    .accesskey = c
 
 ## Privacy Section - Certificates
 

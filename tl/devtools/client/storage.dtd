@@ -8,7 +8,7 @@
 <!ENTITY searchBox.placeholder         "Filter items">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all storage items. -->
-<!ENTITY storage.popupMenu.deleteAllLabel "Tanggalin ang Lahat">
+<!ENTITY storage.popupMenu.deleteAllLabel "Burahin Lahat">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all session cookies. -->
 <!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "Burahin Lahat ng mga Session Cookie">
