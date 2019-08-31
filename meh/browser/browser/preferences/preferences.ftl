@@ -76,6 +76,7 @@ browser-containers-settings =
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Tu´un jii naja tuvi
 colors-settings =
     .label = Teku...
     .accesskey = C
@@ -83,10 +84,16 @@ language-header = Tu'un
 choose-button =
     .label = Sama...
     .accesskey = S
+translate-exceptions =
+    .label = Excepciones…
+    .accesskey = X
 
 ## General Section - Files and Applications
 
 download-header = Da a xinuun
+download-save-to =
+    .label = Chuva´a nu
+    .accesskey = C
 download-choose-folder =
     .label =
         { PLATFORM() ->

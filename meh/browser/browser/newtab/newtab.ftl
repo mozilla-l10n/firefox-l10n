@@ -126,6 +126,7 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Ups! Nkuni mati´i kuvi 
 
 newtab-pocket-more-recommendations = Kue´eka a kuvi ni´inu
 newtab-pocket-how-it-works = Naja satiñu
+newtab-pocket-cta-button = Taji { -pocket-brand-name }
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

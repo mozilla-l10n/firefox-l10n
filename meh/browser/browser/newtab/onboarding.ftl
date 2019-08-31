@@ -58,12 +58,20 @@ onboarding-fxa-title = Sync
 onboarding-tracking-protection-button2 = Naja satiñu
 onboarding-data-sync-button2 = Kajie´e sesión { -sync-brand-short-name }
 onboarding-browse-privately-button = Síne iin ventana yu´u
+onboarding-mobile-phone-text = Xinuun { -brand-product-name } nuu iOS a xíín Android jee saa sincronizar datos jii inka ka̱a̱.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Xinuun ka̱a̱ nánuku nuu celular
 onboarding-lockwise-passwords-button2 = Ni'i App
+onboarding-facebook-container-button = Tee extensión
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Va´a, kuminu { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Vitan tajiani <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Tee extensión
 return-to-amo-get-started-button = Nakajie´e  jii{ -brand-short-name }
