@@ -817,6 +817,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure2 "安全连接">
 <!ENTITY identity.connectionNotSecure "连接不安全">
+
+<!ENTITY identity.connectionSecure3 "安全连接">
+<!ENTITY identity.connectionNotSecure2 "连接不安全">
 <!ENTITY identity.connectionNotSecureSecurityView "您并未安全地连接至此网站。">
 <!ENTITY identity.connectionFile "此页面存储在您的计算机上。">
 <!ENTITY identity.connectionVerified2 "您已安全连接至此网站。网站所有者：">
@@ -827,6 +830,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "连接由 Mozilla 不认可的证书颁发者所验证。">
 
 <!ENTITY identity.evOwnerLabel "网站所有者：">
+
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; 已拦截此页面上不安全的内容。">
@@ -925,6 +929,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "加密货币挖矿程序使用您的计算机算力来“挖”数字货币，耗尽您的设备电量、拖慢机器性能、增加电费支出。">
 <!ENTITY protections.fingerprinters.description "数字指纹追踪程序收集您的浏览器、计算机设置，勾勒出您的精准画像，并在不同网站间跟踪您。">
 <!ENTITY protections.trackingContent.description "网站可能会加载包含跟踪代码的外部广告、视频、其他内容。拦截跟踪性内容可以让网站加载更快，但某些按钮、表单、登录字段可能无法正常工作。">
+<!ENTITY protections.trackingContent2.description "网站可能会加载包含跟踪代码的外部广告、视频、其他内容。拦截跟踪内容可以让网站加载更快，但某些按钮、表单、登录字段可能无法正常工作。">
 <!ENTITY protections.socialMediaTrackers.description "社交网站将跟踪器嵌到其他网站，跟踪您在网上做了或看了什么。社交媒体公司对您的了解，绝不止于您在社交媒体上分享的信息。">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
