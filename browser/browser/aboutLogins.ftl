@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Možnosti
        *[other] Předvolby
     }
-menu-menuitem-feedback = Odeslat zpětnou vazbu
-menu-menuitem-faq = Často kladené otázky
+about-logins-menu-menuitem-help = Nápověda
 menu-menuitem-android-app = { -lockwise-brand-short-name } pro Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } pro iPhone a iPad
 
@@ -60,6 +59,8 @@ login-list-last-changed-option = naposledy změněno
 login-list-last-used-option = naposledy použito
 login-list-intro-title = Nenalezeny žádné přihlašovací údaje
 login-list-intro-description = Tady se zobrazí přihlašovací údaje uložené v aplikaci { -brand-product-name }.
+about-logins-login-list-empty-search-title = Nenalezeny žádné přihlašovací údaje
+about-logins-login-list-empty-search-description = Vašemu vyhledávání neodpovídají žádné přihlašovací údaje.
 login-list-item-title-new-login = Nové přihlašovací údaje
 login-list-item-subtitle-new-login = Zadejte své přihlašovací údaje
 login-list-item-subtitle-missing-username = (žádné uživatelské jméno)
@@ -70,7 +71,7 @@ login-intro-heading = Hledáte své uložené přihlašovací údaje? Přihlaste
 login-intro-description = Pokud jste si uložili přihlašovací údaje do aplikace { -brand-product-name }, ale na jiném zařízení, můžete je zde získat takto:
 login-intro-instruction-fxa = Vytvořte nebo se přihlaste k účtu { -fxaccount-brand-name } na zařízení, kde máte přihlašovací údaje uložené
 login-intro-instruction-fxa-settings = V nastavení služby { -sync-brand-short-name } na daném zařízení se ujistěte, že máte vybranou synchronizaci přihlašovacích údajů
-login-intro-instruction-faq = Pro více informací navštivte <a data-l10n-name="faq">často kladené otázky</a> slubžy { -lockwise-brand-short-name }
+about-logins-intro-instruction-help = Pro další pomoc navštivte <a data-l10n-name="help-link">nápovědu { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -80,10 +81,11 @@ login-item-delete-button = Smazat
 login-item-origin-label = Adresa serveru
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Spustit
 login-item-username-label = Uživatelské jméno
 login-item-username =
     .placeholder = vase-adresa@example.com
+about-logins-login-item-username =
+    .placeholder = (žádné uživatelské jméno)
 login-item-copy-username-button-text = Kopírovat
 login-item-copied-username-button-text = Zkopírováno!
 login-item-password-label = Heslo
@@ -137,3 +139,13 @@ breach-alert-text = U tohoto serveru došlo od vaší poslední změny přihlaš
 breach-alert-link = Zjistit více o tomto úniku dat.
 breach-alert-dismiss =
     .title = Zavřít toto upozornění
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Přihlašovací údaje pro { $loginTitle } se stejným uživatelským jménem už existují.
+# This is a generic error message.
+about-logins-error-message-default = Při ukládání hesla nastala chyba.
