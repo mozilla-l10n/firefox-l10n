@@ -87,3 +87,11 @@ manifest-loaded-ok = Wczytano manifest.
 manifest-loaded-error = Wystąpił błąd podczas wczytywania manifestu:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Nie odnaleziono manifestu do zbadania.
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Ikona ostrzeżenia
+    .title = Ostrzeżenie
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Ikona błędu
+    .title = Błąd
