@@ -307,6 +307,7 @@
 <!ENTITY TextColorButton.tooltip "Выбор цвета для текста">
 <!ENTITY BackgroundColorButton.tooltip "Выбор цвета для фона">
 <!ENTITY throbber.tooltip "Перейти на домашнюю страницу &vendorShortName;">
+<!ENTITY throbber.tooltip2 "Перейти на домашнюю страницу &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Выберите цвет подсветки текста">
 
 <!-- Editor toolbar -->
