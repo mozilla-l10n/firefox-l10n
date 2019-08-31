@@ -47,7 +47,6 @@
 <!-- View Menu -->
 <!ENTITY showAbToolbarCmd.label                         "Panel nástrojov Adresár">
 <!ENTITY showAbToolbarCmd.accesskey                     "A">
-
 <!ENTITY layoutMenu.label                               "Rozloženie">
 <!ENTITY layoutMenu.accesskey                           "R">
 <!ENTITY showDirectoryPane.label                        "Panel adresárov">
@@ -94,6 +93,7 @@
 <!ENTITY newIM.tooltip                                  "Odoslať rýchlu správu alebo začať konverzáciu (Instant message - IM)">
 <!ENTITY deleteItemButton.tooltip                       "Odstrániť označenú položku">
 <!ENTITY throbber.tooltip                               "Prejsť na domovskú stránku &vendorShortName;">
+<!ENTITY throbber.tooltip2                              "Prejsť na domovskú stránku &brandShortName;">
 <!ENTITY advancedButton.tooltip                         "Pokročilé hľadanie adresy">
 
 <!-- Dir Tree header -->
@@ -114,7 +114,7 @@
 <!ENTITY mapIt.tooltip                                  "Zobraziť adresu na mape">
 
 <!-- Status Bar -->
-<!ENTITY statusText.label "">
+<!ENTITY statusText.label                               "">
 
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
