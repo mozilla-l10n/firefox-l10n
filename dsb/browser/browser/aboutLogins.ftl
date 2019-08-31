@@ -138,3 +138,13 @@ breach-alert-text = Gronidła su se z toś togo websedła roznjasli abo kšadnul
 breach-alert-link = Zgóńśo wěcej wó toś tej źěrje
 breach-alert-dismiss =
     .title = Toś to warnowanje zacyniś
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Zapisk za { $loginTitle } z tym wužywarskim mjenim južo eksistěrujo.
+# This is a generic error message.
+about-logins-error-message-default = Pśi wopyśe toś to gronidło składowaś, jo zmólka nastała.
