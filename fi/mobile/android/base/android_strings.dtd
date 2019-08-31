@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Ei nyt">
 <!ENTITY firstrun_button_next "Seuraava">
 
+<!ENTITY firstrun_signin_button2 "Kirjaudu sisään">
+
 <!ENTITY firstrun_tabqueue_title "Linkit">
 
 <!ENTITY firstrun_readerview_title "Artikkelit">
@@ -595,7 +597,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Osoite">
 <!ENTITY bookmark_edit_keyword "Avainsana">
 <!ENTITY bookmark_select_folder "Valitse kansio">
-
 <!ENTITY bookmark_edit_undo "Kumoa">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -878,6 +879,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Saatavilla yhteydettömässä tilassa">
 <!ENTITY helper_triple_readerview_open_message "Lisää sivuja lukunäkymässä kirjanmerkkeihin lukeaksesi niitä yhteydettömässä tilassa.">
 <!ENTITY helper_triple_readerview_open_button "Lisää kirjanmerkkeihin">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_description "Aloita kirjanmerkkiesi, salasanojesi ja paljon muun synkronointi Firefox-tilillä.">
+<!ENTITY activity_stream_signin_button "Kirjaudu sisään">
 
 <!ENTITY activity_stream_topsites "Ykkössivustot">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
