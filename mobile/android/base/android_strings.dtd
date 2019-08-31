@@ -880,6 +880,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Sveiki, čia „&brandShortName;“">
+<!ENTITY activity_stream_signin_description "Pradėkite sinchronizuoti adresyną, slaptažodžius, ir daugiau su savo „Firefox“ paskyra.">
+<!ENTITY activity_stream_signin_button "Prisijungti">
 
 <!ENTITY activity_stream_topsites "Lankomiausios">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
