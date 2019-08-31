@@ -817,6 +817,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure2 "安全連線">
 <!ENTITY identity.connectionNotSecure "連線不安全">
+
+<!ENTITY identity.connectionSecure3 "安全連線">
+<!ENTITY identity.connectionNotSecure2 "不安全連線">
 <!ENTITY identity.connectionNotSecureSecurityView "您並未安全地連線至此網站。">
 <!ENTITY identity.connectionFile "此頁面位於您的電腦上。">
 <!ENTITY identity.connectionVerified2 "您已安全地連線至此網站，本網站擁有者為:">
@@ -827,6 +830,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "連線是由 Mozilla 不認識的憑證簽發者所驗證。">
 
 <!ENTITY identity.evOwnerLabel "網站擁有者:">
+
+<!ENTITY identity.evOwnerLabel2 "憑證簽發給:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; 已經封鎖此頁面中不安全的部分。">
@@ -925,6 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "加密貨幣採礦程式會使用您電腦的運算能力來對數位貨幣「採礦」，消耗您的電腦電力、拖慢系統效能、增加電費支出。">
 <!ENTITY protections.fingerprinters.description "數位指紋追蹤程式會針對您的瀏覽器、電腦設定來建立您的獨特輪廓，並在不同網站間追蹤您。">
 <!ENTITY protections.trackingContent.description "網站中可能會有含有追蹤用程式碼的外部廣告、影片、其他內容。封鎖追蹤內容可以讓網站更快載入，但某些按鈕、表單、登入欄位可能無法正常運作。">
+<!ENTITY protections.trackingContent2.description "網站中可能會有包含追蹤碼的外部廣告、影片或其他內容。封鎖追蹤內容可以讓網站更快載入，但某些按鈕、表單、登入欄位可能無法正常運作。">
 <!ENTITY protections.socialMediaTrackers.description "社群網站會在其他網站放置追蹤器，以追蹤您除了在社群網站分享的東西之外，還在網路上做了或看了什麼，更加了解您的一舉一動。">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
