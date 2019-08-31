@@ -604,6 +604,7 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Foreslå og generer sterke passord
     .accesskey = o
+forms-breach-alerts-learn-more-link = Les meir
 forms-fill-logins-and-passwords =
     .label = Autoutfyll innloggingar og passord
     .accesskey = i
