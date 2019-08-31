@@ -58,9 +58,9 @@
 <!ENTITY renameFolder.label "Premenovať priečinok…">
 <!ENTITY renameFolder.accesskey "m">
 <!ENTITY compactFolders.label "Vykonať údržbu priečinkov">
-<!ENTITY compactFolders.accesskey		"V">
+<!ENTITY compactFolders.accesskey "V">
 <!ENTITY emptyTrashCmd.label "Vyprázdniť kôš">
-<!ENTITY emptyTrashCmd.accesskey		"i">
+<!ENTITY emptyTrashCmd.accesskey "i">
 <!ENTITY offlineMenu.label "Režim offline">
 <!ENTITY offlineMenu.accesskey "f">
 <!ENTITY synchronizeOfflineCmd.label "Prijať/Synchronizovať…">
@@ -284,23 +284,23 @@
 <!ENTITY newNewMsgCmd.accesskey "S">
 <!ENTITY replyMsgCmd.label "Odpovedať">
 <!ENTITY replyMsgCmd.accesskey "d">
-<!ENTITY replyMsgCmd.key	"r">
+<!ENTITY replyMsgCmd.key "r">
 <!ENTITY replyListCmd.label "Odpovedať zoznamu">
 <!ENTITY replyListCmd.accesskey "O">
 <!ENTITY replyNewsgroupCmd.label "Odpovedať do diskusnej skupiny">
-<!ENTITY replyNewsgroupCmd.accesskey	"O">
+<!ENTITY replyNewsgroupCmd.accesskey "O">
 <!ENTITY replySenderCmd.label "Odpovedať odosielateľovi">
 <!ENTITY replySenderCmd.accesskey "d">
 <!ENTITY replyToAllMsgCmd.label "Odpovedať všetkým">
-<!ENTITY replyToAllMsgCmd.accesskey	"m">
-<!ENTITY replyToAllMsgCmd.key	"r">
+<!ENTITY replyToAllMsgCmd.accesskey "m">
+<!ENTITY replyToAllMsgCmd.key "r">
 <!ENTITY replyToSenderAndNewsgroupCmd.label "Odpovedať odosielateľovi a do diskusnej skupiny">
 <!ENTITY replyToSenderAndNewsgroupCmd.accesskey "e">
 <!ENTITY replyToAllRecipientsCmd.label "Odpovedať všetkým príjemcom">
 <!ENTITY replyToAllRecipientsCmd.accesskey "m">
 <!ENTITY forwardMsgCmd.label "Odoslať ďalej">
 <!ENTITY forwardMsgCmd.accesskey "l">
-<!ENTITY forwardMsgCmd.key	"l">
+<!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Odoslať ďalej ako">
 <!ENTITY forwardAsMenu.accesskey "a">
 <!ENTITY forwardAsInline.label "Súčasť textu">
@@ -442,6 +442,7 @@
 <!ENTITY markButton.tooltip "Označiť správy">
 <!ENTITY stopButton.tooltip "Zastaviť aktuálny prenos">
 <!ENTITY throbber.tooltip "Prejsť na domovskú stránku &vendorShortName;">
+<!ENTITY throbber.tooltip2 "Prejsť na domovskú stránku &brandShortName;">
 <!ENTITY junkButton.tooltip "Označiť vybrané správy ako nevyžiadané (SPAM)">
 <!ENTITY notJunkButton.tooltip "Označiť vybrané správy ako Nie Spam">
 
