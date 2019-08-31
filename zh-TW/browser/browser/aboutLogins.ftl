@@ -135,3 +135,13 @@ breach-alert-text = 自您上次更新登入資訊以來，此網站發生了密
 breach-alert-link = 了解此事件的更多資訊
 breach-alert-dismiss =
     .title = 關閉此警報
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = 使用該使用者名稱的 { $loginTitle } 項目已經存在。
+# This is a generic error message.
+about-logins-error-message-default = 嘗試儲存此密碼時發生錯誤。
