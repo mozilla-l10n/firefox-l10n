@@ -127,4 +127,4 @@ breach-alert-dismiss =
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = כבר קיים רשומה עבור { $loginTitle } עם שם משתמש זה.
+about-logins-error-message-duplicate-login = כבר קיימת רשומה עבור { $loginTitle } עם שם משתמש זה.
