@@ -138,3 +138,13 @@ breach-alert-text = Hesła su so z tutoho websydła roznjesli abo kradnyli, wot 
 breach-alert-link = Zhońće wjace wo tutej dźěrje.
 breach-alert-dismiss =
     .title = Tute warnowanje začinić
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Zapisk za { $loginTitle } z tym wužiwarskim mjenom hižo eksistuje.
+# This is a generic error message.
+about-logins-error-message-default = Při pospyće tute hesło składować, je zmylk nastał.

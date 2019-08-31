@@ -817,6 +817,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure2 "Zwisk je wěsty">
 <!ENTITY identity.connectionNotSecure "Zwisk wěsty njeje">
+
+<!ENTITY identity.connectionSecure3 "Zwisk wěsty">
+<!ENTITY identity.connectionNotSecure2 "Zwisk njewěsty">
 <!ENTITY identity.connectionNotSecureSecurityView "Njejsće wěsće z tutym sydłom zwjazany.">
 <!ENTITY identity.connectionFile "Tuta strona je so na wašim ličaku składowała.">
 <!ENTITY identity.connectionVerified2 "Sće z tutym sydłom wěsće zwjazany, kotrehož wobsedźer je:">
@@ -827,6 +830,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "Zwisk je so přez certifikatoweho wudawarja přepruwował, kotryž wot Mozilla připóznaty njeje.">
 
 <!ENTITY identity.evOwnerLabel "Swójstwownik sydła:">
+
+<!ENTITY identity.evOwnerLabel2 "Certifikat wupisany na:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; je dźěle tuteje strony zablokował, kotrež wěste njejsu.">
@@ -925,6 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "Kryptokopanje ličenski wukon wašeho systema wužiwa, zo by digitalne pjenjezy dobyło. Kryptokopanske skripty wašu bateriju prózdnja, waš ličak spomaleja a móža wašu přetrjebu energije powyšić.">
 <!ENTITY protections.fingerprinters.description "Porstowe wotćišće zběraja nastajenja z wašeho wobhladowaka a ličaka, zo bychu profil wo was wutworili. Hdyž tutón digitalny porstowy wotćišć wužiwaće, móža wam přez rozdźělne websydła slědować.">
 <!ENTITY protections.trackingContent.description "Websydła móža eksterne wabjenje, wideja a druhi wobsah začitać, kotryž slědowacy kod wobsahuja. Hdyž slědowacy wobsah blokujeće, móže to pomhać, sydła spěšnišo začitać, ale někotre tłóčatka, formulary a přizjewjenske pola snano hižo njebudu fungować.">
+<!ENTITY protections.trackingContent2.description "Websydła móža eksterne wabjenje, wideja a druhi wobsah ze slědowacym kodom začitać. Hdyž slědowacy wobsah blokujeće, móže to pomhać, sydła spěšnišo začitać, ale někotre tłóčatka, formulary a přizjewjenske pola snano hižo njebudu fungować.">
 <!ENTITY protections.socialMediaTrackers.description "Socialne syće placěruja přesćěhowaki na druhich websydłach, zo bychu slědowali, što online činiće, widźiće a wobkedźbujeće. To předewzaćam socialnych medijow dowola, wjace wo was zhonił hač w profilach socialnych medijow dźěliće.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
