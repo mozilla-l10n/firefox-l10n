@@ -18,6 +18,15 @@ graph-total-summary =
         [one] { $count } sporfølgjar blokkert sida { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] { $count } sporfølgjarar blokkert sida { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] <b>{ $count }</b> sporfølgjarar blokkerte sidan { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> sporfølgjarar blokerte sidan { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -98,6 +107,14 @@ info-exposed-passwords =
     { $count ->
         [one] Passord eksponert frå alle lekkasjar.
        *[other] Passord eksponerte frå alle lekkasjar.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Passord eksponert for alle datalekkasjar
+       *[other] Passord eksponerte for alle datalekkasjar
     }
 full-report-link = Sjå heile rapporten på <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
