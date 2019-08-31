@@ -879,7 +879,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "Mere information om udvidet beskyttelse mod sporing">
 <!ENTITY protections.settings.label "Indstillinger for beskyttelse">
 <!ENTITY protections.report.label "Vis fuld rapport">
-<!ENTITY protections.showreport.label "Show Report">
+<!ENTITY protections.showreport.label "Vis rapport">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
