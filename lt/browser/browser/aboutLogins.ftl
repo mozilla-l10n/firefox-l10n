@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Nuostatos
        *[other] Nuostatos
     }
-menu-menuitem-feedback = Siųsti atsiliepimą
-menu-menuitem-faq = Dažniausi klausimai ir atsakymai
+about-logins-menu-menuitem-help = Žinynas
 menu-menuitem-android-app = „{ -lockwise-brand-short-name }“, skirta „Android“
 menu-menuitem-iphone-app = „{ -lockwise-brand-short-name }“, skirta „iPhone“ ir „iPad“
 
@@ -58,6 +57,8 @@ login-list-last-changed-option = Atnaujinimo laikas
 login-list-last-used-option = Paskiausias naudojimo laikas
 login-list-intro-title = Prisijungimų nerasta
 login-list-intro-description = Kai įrašysite slaptažodį į „{ -brand-product-name }“, jis atsiras čia.
+about-logins-login-list-empty-search-title = Prisijungimų nerasta
+about-logins-login-list-empty-search-description = Nėra jūsų paiešką atitinkančių rezultatų.
 login-list-item-title-new-login = Naujas prisijungimas
 login-list-item-subtitle-new-login = Įveskite prisijungimo duomenis
 login-list-item-subtitle-missing-username = (nėra naudotojo vardo)
@@ -68,7 +69,7 @@ login-intro-heading = Ieškote įrašytų prisijungimų? Naudokite „{ -sync-br
 login-intro-description = Jeigu esate įrašę prisijungimus į „{ -brand-product-name }“ kitame įrenginyje, juos galite turėti čia:
 login-intro-instruction-fxa = Susikurkite arba prisijunkite prie savo „{ -fxaccount-brand-name }“ paskyros tame įrenginyje, kur yra prisijungimai.
 login-intro-instruction-fxa-settings = Įsitikinkite, kad „{ -sync-brand-short-name }“ nuostatose pažymėjote langelį „Prisijungimai“.
-login-intro-instruction-faq = Peržiūrėkite „{ -lockwise-brand-short-name }“ <a data-l10n-name="faq">dažniausius klausimus ir atsakymus</a>
+about-logins-intro-instruction-help = Aplankę <a data-l10n-name="help-link">„{ -lockwise-brand-short-name }“ žinyną</a>, rasite daugiau informacijos
 
 ## Login
 
@@ -78,10 +79,11 @@ login-item-delete-button = Pašalinti
 login-item-origin-label = Svetainės adresas
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Paleisti
 login-item-username-label = Naudotojo vardas
 login-item-username =
     .placeholder = vpavardenis@example.com
+about-logins-login-item-username =
+    .placeholder = (nėra naudotojo vardo)
 login-item-copy-username-button-text = Kopijuoti
 login-item-copied-username-button-text = Nukopijuota!
 login-item-password-label = Slaptažodis
@@ -135,3 +137,13 @@ breach-alert-text = Po jūsų paskutinio prisijungimo duomenų atnaujinimo, iš 
 breach-alert-link = Sužinokite apie šį pažeidimą daugiau.
 breach-alert-dismiss =
     .title = Užverti šį perspėjimą
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Jau yra { $loginTitle } įrašas su tokiu naudotojo vardu.
+# This is a generic error message.
+about-logins-error-message-default = Bandant įrašyti šį slaptažodį įvyko klaida.
