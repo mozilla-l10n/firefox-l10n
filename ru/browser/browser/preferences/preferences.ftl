@@ -342,6 +342,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Искать текст на странице по мере его набора
     .accesskey = а
+browsing-picture-in-picture-learn-more = Подробнее
 browsing-cfr-recommendations =
     .label = Рекомендовать расширения при просмотре
     .accesskey = к
@@ -604,6 +605,7 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Предлагать и генерировать надежные пароли
     .accesskey = н
+forms-breach-alerts-learn-more-link = Подробнее
 forms-fill-logins-and-passwords =
     .label = Автозаполнять логины и пароли
     .accesskey = в
@@ -723,6 +725,7 @@ addressbar-suggestions-settings = Изменить настройки для п�
 content-blocking-header = Блокировка содержимого
 content-blocking-enhanced-tracking-protection = Улучшенная защита от отслеживания
 content-blocking-section-description = Защищайте свою приватность во время веб-сёрфинга. Блокируйте невидимый контент, который отслеживает, какие сайты вы посещаете, и профилирует вас. Блокировка некоторого содержимого может ускорить загрузку страниц.
+content-blocking-section-top-level-description = Трекеры отслеживают вас в Интернете, чтобы собирать информацию о ваших привычках и интересах. { -brand-short-name } блокирует многие из этих трекеров и других вредоносных скриптов.
 content-blocking-learn-more = Подробнее
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".

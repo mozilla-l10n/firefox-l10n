@@ -69,6 +69,12 @@ serviceworker-empty-suggestions-debugger = Пройдите по шагам пр
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Исследуйте Service Workers с других доменов. <a>Открыть about:debugging</a>
+# Header for the view of Manifest displayed in the application panel for the current page.
+manifest-view-header = Манифест приложения
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Ошибки и предупреждения
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Значки
 # Text displayed while we are loading the manifest file
 manifest-loading = Загрузка манифеста…
 # Text displayed when the manifest has been successfully loaded
@@ -77,3 +83,11 @@ manifest-loaded-ok = Манифест загружен.
 manifest-loaded-error = При загрузка манифеста произошла ошибка:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Не найден манифест для отладки.
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Значок предупреждения
+    .title = Предупреждение
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Значок ошибки
+    .title = Ошибка
