@@ -18,6 +18,15 @@ graph-total-summary =
         [one] { $count } sporer blokkert siden { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] { $count } sporere blokkert siden { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] <b>{ $count }</b> sporer blokkert siden { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> sporere blokkert siden { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -39,6 +48,7 @@ cookie-tab-title = Sporingsinfokapsler på tvers av nettsteder
 cookie-tab-content = Disse infokapslene følger deg fra nettsted til nettsted for å samle inn data om hva du gjør på nettet. De er satt av tredjeparter som annonsører og analyseselskaper. Blokkering av sporingsinfokapsler på tvers av nettsteder reduserer antall annonser som følger deg. <a data-l10n-name="learn-more-link">Les mer</a>
 tracker-tab-title = Sporings-innhold
 tracker-tab-content = Nettsteder kan laste inn eksterne annonser, videoer og annet innhold som inneholder sporingskode. Blokkering av sporingsinnhold kan hjelpe nettsteder å laste raskere, men noen knapper, skjemaer og innloggingsfelt fungerer kanskje ikke. <a data-l10n-name="learn-more-link">Les mer</a>
+tracker-tab-description = Nettsteder kan laste inn eksterne annonser, videoer og annet innhold med sporingskode. Blokkering av sporingsinnhold kan hjelpe nettsteder å laste raskere, men noen knapper, skjemaer og innloggingsfelt fungerer kanskje ikke. <a data-l10n-name="learn-more-link">Les mer</a>
 fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters samler innstillinger fra nettleseren din og datamaskinen for å opprette en profil av deg. Ved hjelp av dette digitale fingeravtrykket kan de spore deg på forskjellige nettsteder. <a data-l10n-name="learn-more-link">Les mer</a>
 cryptominer-tab-title = Kryptominere
@@ -48,6 +58,7 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } lagrer passordene dine sikkert i nettleseren din.
 lockwise-header-content-logged-in = Lagre passordene dine sikkert og synkroniser dem med alle enhetene dine.
 open-about-logins-button = Åpne i { -brand-short-name }
+about-logins-view-logins-button = Vis innlogginger
 lockwise-no-logins-content = Få appen <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> for å ta passordene dine med overalt.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -68,10 +79,13 @@ lockwise-sync-status =
        *[other] Synkroniserer med { $count } andre enheter
     }
 lockwise-sync-not-syncing = Synkroniserer ikke med andre enheter.
+lockwise-sync-not-syncing-devices = Synkroniserer ikke med andre enheter
 monitor-title = Se opp for på datalekkasjer.
 monitor-link = Hvordan det virker
 monitor-header-content = Sjekk { -monitor-brand-name } for å se om du har vært en del av en datalekkasje og få varsler om nye lekkasjer.
 monitor-header-content-logged-in = { -monitor-brand-name } advarer deg om informasjonen din har dukket opp i en kjent datalekkasje
+monitor-header-content-no-account = Sjekk { -monitor-brand-name } for å se om du har vært en del av en kjent datalekkasje og få varsler om nye lekkasjer.
+monitor-header-content-signed-in = { -monitor-brand-name } advarer deg om informasjonen din har dukket opp i en kjent datalekkasje.
 monitor-sign-up = Registrer deg for datalekkasjevarsler
 auto-scan = Skannes automatisk i dag
 # This string is displayed after a large numeral that indicates the total number
@@ -97,6 +111,30 @@ info-exposed-passwords =
     { $count ->
         [one] Passord eksponert fra alle lekkasjer.
        *[other] Passord eksponert fra alle lekkasjer.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] E-postadresse som overvåkes
+       *[other] E-postadresser som overvåkes
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Kjent datalekkasje har eksponert din informasjon
+       *[other] Kjente datalekkasjer har eksponert din informasjon
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Passord eksponert fra alle datalekkasjer.
+       *[other] Passord eksponert fra alle datalekkasjer.
     }
 full-report-link = Se hele rapporten på <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
