@@ -137,3 +137,13 @@ breach-alert-text = З часу останнього оновлення облі
 breach-alert-link = Дізнатися більше про цей витік даних.
 breach-alert-dismiss =
     .title = Закрити це попередження
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Запис для { $loginTitle } з таким іменем користувача вже існує.
+# This is a generic error message.
+about-logins-error-message-default = При збереженні цього пароля сталася помилка.
