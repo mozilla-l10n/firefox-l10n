@@ -79,6 +79,7 @@ cfr-whatsnew-button =
     .tooltiptext = Не жаңалық
 cfr-whatsnew-panel-header = Не жаңалық
 cfr-whatsnew-tracking-blocked-link-text = Есептемені қарау
+cfr-whatsnew-lockwise-take-link-text = Қолданбаны алу
 
 ## Bookmark Sync
 
