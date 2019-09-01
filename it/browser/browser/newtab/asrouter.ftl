@@ -96,7 +96,7 @@ cfr-whatsnew-tracking-blocked-title =
    *[other] Traccianti bloccati
   }
 cfr-whatsnew-tracking-blocked-subtitle = Dal { DATETIME($earliestDate, month: "long", year: "numeric") }
-cfr-whatsnew-tracking-blocked-link-text = Visualizza rapporto
+cfr-whatsnew-tracking-blocked-link-text = Visualizza il rapporto
 
 cfr-whatsnew-lockwise-backup-title = Salva le tue password
 cfr-whatsnew-lockwise-backup-body = Genera password sicure a cui puoi accedere da ogni dispositivo connesso al tuo account.
