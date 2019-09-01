@@ -136,3 +136,13 @@ breach-alert-text = May mga passwords na nabunyag o ninakaw mula sa website na i
 breach-alert-link = Matuto ng higit pa tungkol sa paglabag na ito.
 breach-alert-dismiss =
     .title = Isara ang alerto na ito
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Mayroon nang tala para sa { $loginTitle } na may ganitong username.
+# This is a generic error message.
+about-logins-error-message-default = Nagkaroon ng problema habang sine-save ang password na ito.
