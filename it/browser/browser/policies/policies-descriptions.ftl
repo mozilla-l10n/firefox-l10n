@@ -63,6 +63,7 @@ policy-OfferToSaveLogins = Gestisci la richiesta in { -brand-short-name } di sal
 policy-OfferToSaveLoginsDefault = Imposta il valore predefinito per consentire a { -brand-short-name } di chiedere se salvare le credenziali di accesso. Entrambi i valori “true” e “false” sono validi.
 policy-OverrideFirstRunPage = Sostituisci la pagina visualizzata alla prima esecuzione. Impostare questo criterio con un valore vuoto per disattivarne la visualizzazione.
 policy-OverridePostUpdatePage = Sostituisci la pagina “Novità” visualizzata dopo un aggiornamento. Impostare questo criterio con un valore vuoto per disattivarne la visualizzazione.
+policy-PasswordManagerEnabled = Attiva il salvataggio delle password nel gestore password.
 policy-Permissions = Configura i permessi per fotocamera, microfono, posizione e notifiche.
 policy-PopupBlocking = Consenti ad alcuni siti web di visualizzare finestre popup per impostazione predefinita.
 policy-Preferences = Imposta un gruppo di preferenze e bloccane il valore.
