@@ -882,6 +882,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "Tervetuloa &brandShortName;-selaimen pariin">
 <!ENTITY activity_stream_signin_description "Aloita kirjanmerkkiesi, salasanojesi ja paljon muun synkronointi Firefox-tilillä.">
 <!ENTITY activity_stream_signin_button "Kirjaudu sisään">
 
