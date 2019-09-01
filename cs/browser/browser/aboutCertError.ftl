@@ -36,11 +36,11 @@ cert-error-domain-mismatch-multiple = Webové stránky prokazují svou totožnos
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
-cert-error-expired-now = Webové stránky prokazují svou totožnost pomocí certifikátů, které mají omezenou platnost. Platnost certifikátu pro server { $hostname } vypršela { $not-after-local-time }.
+cert-error-expired-now = Webové stránky prokazují svou totožnost pomocí certifikátů, které mají přesně stanovenou dobu platnosti. Platnost certifikátu pro server { $hostname } vypršela { $not-after-local-time }.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
-cert-error-not-yet-valid-now = Webové stránky prokazují svou totožnost pomocí certifikátů, které mají omezenou platnost. Certifikát pro server { $hostname } bude platný až od { $not-before-local-time }.
+cert-error-not-yet-valid-now = Webové stránky prokazují svou totožnost pomocí certifikátů, které mají přesně stanovenou dobu platnosti. Certifikát pro server { $hostname } bude platný až od { $not-before-local-time }.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Kód chyby: <a data-l10n-name="error-code-link">{ $error }</a>

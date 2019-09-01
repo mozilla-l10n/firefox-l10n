@@ -84,6 +84,9 @@ cfr-whatsnew-button =
     .label = Co je nového
     .tooltiptext = Co je nového
 cfr-whatsnew-panel-header = Co je nového
+cfr-whatsnew-release-notes-link-text = Přečtěte si poznámky k vydání
+cfr-whatsnew-fx70-title = { -brand-short-name } tvrdě bojuje za vaše soukromí
+cfr-whatsnew-fx70-body = Nejnovější aktualizace vylepšuje funkci ochrany proti sledování a usnadňuje vytváření bezpečných hesel pro každý server.
 
 ## Bookmark Sync
 
