@@ -48,6 +48,7 @@ cookie-tab-title = Cookies de rastreo de sitios cruzados
 cookie-tab-content = Estas cookies lo siguen de un sitio a otro para recopilar datos sobre lo que hace en línea. Las establecen terceros, como anunciantes y empresas de análisis. El bloqueo de las cookies de rastreo entre sitios reduce la cantidad de publicidad que lo sigue. <a data-l10n-name="learn-more-link"> Conocer más </a>
 tracker-tab-title = Contenido de rastreo
 tracker-tab-content = Los sitios web pueden cargar anuncios externos, videos y otro contenido que contenga código de rastreo. El bloqueo del contenido de rastreo puede ayudar a que los sitios se carguen más rápido, pero es posible que algunos botones, formularios y campos de inicio de sesión no funcionen. <a data-l10n-name="learn-more-link">Conocer más</a>
+tracker-tab-description = Los sitios web pueden cargar anuncios externos, videos y otro contenido con código de rastreo. El bloqueo del contenido de rastreo puede ayudar a que los sitios se carguen más rápido, pero es posible que algunos botones, formularios y campos de inicio de sesión no funcionen. <a data-l10n-name="learn-more-link">Conocer más</a>
 fingerprinter-tab-title = Identificadores de huellas digitales
 fingerprinter-tab-content = Los identificadores de huellas digitales recolectan los ajustes de su navegador y su computadora para crear un perfil suyo. Usando esta huella digital pueden seguirlo a través de diferentes sitios web. <a data-l10n-name="learn-more-link">Conocer más</a>
 cryptominer-tab-title = Criptomineros
@@ -57,6 +58,7 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } almacena sus contraseñas en su navegador de manera segura.
 lockwise-header-content-logged-in = Almacene y sincronice sus contraseñas en todos sus dispositivos de manera segura.
 open-about-logins-button = Abrir en { -brand-short-name }
+about-logins-view-logins-button = Ver inicios de sesión
 lockwise-no-logins-content = Obtenga la aplicación <a data-l10n-name="lockwise-inline-link"> { -lockwise-brand-name } </a> para llevar sus contraseñas a todas partes.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -77,10 +79,13 @@ lockwise-sync-status =
        *[other] Sincronización con { $count } otros dispositivos
     }
 lockwise-sync-not-syncing = No sincroniza con otros dispositivos.
+lockwise-sync-not-syncing-devices = No sincroniza con otros dispositivos
 monitor-title = Esté atento a las violaciones de datos
 monitor-link = Cómo funciona
 monitor-header-content = Controle { -monitor-brand-name } para ver si fue parte de una violación de datos y recibir alertas sobre nuevas violaciones.
 monitor-header-content-logged-in = { -monitor-brand-name } lo advierte si su información apareció en una violación de datos conocida
+monitor-header-content-no-account = Controle { -monitor-brand-name } para ver si fue parte de una violación de datos conocida y para recibir alertas sobre nuevas violaciones.
+monitor-header-content-signed-in = { -monitor-brand-name } le advierte si su información apareció en una violación de datos conocida.
 monitor-sign-up = Regístrese para recibir alertas de violaciones
 auto-scan = Escaneado automáticamente hoy
 # This string is displayed after a large numeral that indicates the total number
@@ -106,6 +111,14 @@ info-exposed-passwords =
     { $count ->
         [one] Contraseña expuesta en todas las violaciones.
        *[other] Contraseñas expuestas en todas las violaciones.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Dirección de correo electrónico monitoreada
+       *[other] Direcciones de correo electrónico monitoreadas
     }
 full-report-link = Ver informe completo sobre <a data-l10n-name="monitor-inline-link"> { -monitor-brand-name } </a>
 # This string is displayed after a large numeral that indicates the total number
