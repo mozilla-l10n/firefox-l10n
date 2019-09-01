@@ -136,3 +136,13 @@ breach-alert-text = Senhas foram vazadas ou roubadas deste site desde a última 
 breach-alert-link = Saiba mais sobre este vazamento.
 breach-alert-dismiss =
     .title = Fechar este alerta
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Já existe um item de { $loginTitle } com este nome de usuário.
+# This is a generic error message.
+about-logins-error-message-default = Ocorreu um erro ao tentar salvar esta senha.
