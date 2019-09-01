@@ -6,15 +6,15 @@
 <!ENTITY  offlineGoOfflineCmd.label                 "Trabajar sin conexión">
 <!ENTITY  offlineGoOfflineCmd.accesskey             "T">
 
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
-<!ENTITY fileMenu.label					"Archivo"> 
-<!ENTITY fileMenu.accesskey				"A">
-<!ENTITY newMenu.label					"Nuevo">
-<!ENTITY newMenu.accesskey				"N">
-<!ENTITY newBlankPageCmd.label "Página de Composer">
-<!ENTITY newBlankPageCmd.accesskey "P" >
-<!ENTITY newBlankPageCmd.key "n" >
+<!ENTITY fileMenu.label                   "Archivo">
+<!ENTITY fileMenu.accesskey               "A">
+<!ENTITY newMenu.label                    "Nuevo">
+<!ENTITY newMenu.accesskey                "N">
+<!ENTITY newBlankPageCmd.label            "Página de Composer">
+<!ENTITY newBlankPageCmd.accesskey        "P">
+<!ENTITY newBlankPageCmd.key              "n">
 <!ENTITY newPageFromTemplateCmd.label "Página que usa plantilla">
 <!ENTITY newPageFromTemplateCmd.accesskey "t">
 <!ENTITY newPageFromDraftCmd.label "Página usando borrador">
@@ -23,7 +23,7 @@
 <!ENTITY newNavigatorCmd.key "N">
 <!ENTITY newNavigatorCmd.accesskey "V">
 <!ENTITY newPrivateWindowCmd.label "Ventana privada">
-<!ENTITY newPrivateWindowCmd.key "p">
+<!ENTITY newPrivateWindowCmd.key "B">
 <!ENTITY newPrivateWindowCmd.accesskey "e">
 <!ENTITY printSetupCmd.label "Configurar página…">
 <!ENTITY printSetupCmd.accesskey "u">
@@ -33,42 +33,42 @@
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.key "p">
 
-<!ENTITY editMenu.label					"Editar"> 
-<!ENTITY editMenu.accesskey				"E"> 
-<!ENTITY undoCmd.label						"Deshacer">  
-<!ENTITY undoCmd.key						"Z">  
-<!ENTITY undoCmd.accesskey					"D"> 
-<!ENTITY redoCmd.label						"Rehacer">  
-<!ENTITY redoCmd.key						"Y">  
-<!ENTITY redoCmd.accesskey					"R"> 
-<!ENTITY cutCmd.label						"Cortar">  
-<!ENTITY cutCmd.key							"X">  
-<!ENTITY cutCmd.accesskey					"t"> 
-<!ENTITY copyCmd.label						"Copiar">  
-<!ENTITY copyCmd.key						"C">  
-<!ENTITY copyCmd.accesskey					"C"> 
-<!ENTITY pasteCmd.label						"Pegar">  
-<!ENTITY pasteCmd.key						"V">  
-<!ENTITY pasteCmd.accesskey					"P"> 
-<!ENTITY pasteGoCmd.label					"Pegar e ir">
-<!ENTITY pasteGoCmd.accesskey				"g">
+<!ENTITY editMenu.label                   "Editar">
+<!ENTITY editMenu.accesskey               "E">
+<!ENTITY undoCmd.label                    "Deshacer">
+<!ENTITY undoCmd.key                      "Z">
+<!ENTITY undoCmd.accesskey                "D">
+<!ENTITY redoCmd.label                    "Rehacer">
+<!ENTITY redoCmd.key                      "Y">
+<!ENTITY redoCmd.accesskey                "R">
+<!ENTITY cutCmd.label                     "Cortar">
+<!ENTITY cutCmd.key                       "X">
+<!ENTITY cutCmd.accesskey                 "t">
+<!ENTITY copyCmd.label                    "Copiar">
+<!ENTITY copyCmd.key                      "C">
+<!ENTITY copyCmd.accesskey                "C">
+<!ENTITY pasteCmd.label                   "Pegar">
+<!ENTITY pasteCmd.key                     "V">
+<!ENTITY pasteCmd.accesskey               "P">
+<!ENTITY pasteGoCmd.label                 "Pegar e ir">
+<!ENTITY pasteGoCmd.accesskey             "g">
 
 <!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
-     search bar equivalent to the url bar's "Paste & Go"  --> 
-<!ENTITY pasteSearchCmd.label				"Pegar y buscar">
-<!ENTITY pasteSearchCmd.accesskey			"e">
-<!ENTITY deleteCmd.label					"Borrar">  
-<!ENTITY deleteCmd.accesskey				"B"> 
-<!ENTITY selectAllCmd.label					"Seleccionar todo">  
-<!ENTITY selectAllCmd.key					"A">  
-<!ENTITY selectAllCmd.accesskey				"S"> 
-<!ENTITY clearHistoryCmd.label				"Borrar historial de búsquedas">  
-<!ENTITY clearHistoryCmd.accesskey			"h"> 
-<!ENTITY showSuggestionsCmd.label			"Mostrar sugerencias">  
-<!ENTITY showSuggestionsCmd.accesskey		"s"> 
-<!ENTITY preferencesCmd.label				"Preferencias…">
-<!ENTITY preferencesCmd.key					"E">  
-<!ENTITY preferencesCmd.accesskey			"e"> 
+     search bar equivalent to the url bar's "Paste & Go"  -->
+<!ENTITY pasteSearchCmd.label             "Pegar y buscar">
+<!ENTITY pasteSearchCmd.accesskey         "e">
+<!ENTITY deleteCmd.label                  "Borrar">
+<!ENTITY deleteCmd.accesskey              "B">
+<!ENTITY selectAllCmd.label               "Seleccionar todo">
+<!ENTITY selectAllCmd.key                 "A">
+<!ENTITY selectAllCmd.accesskey           "S">
+<!ENTITY clearHistoryCmd.label            "Borrar historial de búsquedas">
+<!ENTITY clearHistoryCmd.accesskey        "h">
+<!ENTITY showSuggestionsCmd.label         "Mostrar sugerencias">
+<!ENTITY showSuggestionsCmd.accesskey     "s">
+<!ENTITY preferencesCmd.label             "Preferencias…">
+<!ENTITY preferencesCmd.key               "E">
+<!ENTITY preferencesCmd.accesskey         "e">
 <!ENTITY findBarCmd.key "F">
 <!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
@@ -88,42 +88,42 @@
 <!ENTITY findTypeLinksCmd.label "Buscar enlaces mientras se escribe">
 <!ENTITY findTypeLinksCmd.accesskey "e">
 
-<!ENTITY viewMenu.label					"Ver"> 
-<!ENTITY viewMenu.accesskey				"V"> 
-<!ENTITY viewToolbarsMenu.label				"Mostrar/Ocultar"> 
-<!ENTITY viewToolbarsMenu.accesskey			"M"> 
-<!ENTITY showTaskbarCmd.label					"Barra de estado">  
-<!ENTITY showTaskbarCmd.accesskey				"s"> 
+<!ENTITY viewMenu.label                   "Ver">
+<!ENTITY viewMenu.accesskey               "V">
+<!ENTITY viewToolbarsMenu.label           "Mostrar/Ocultar">
+<!ENTITY viewToolbarsMenu.accesskey       "M">
+<!ENTITY showTaskbarCmd.label             "Barra de estado">
+<!ENTITY showTaskbarCmd.accesskey         "s">
 
-<!ENTITY helpMenu.label					"Ayuda"> 
-<!ENTITY helpMenu.accesskey				"y"> 
+<!ENTITY helpMenu.label                   "Ayuda">
+<!ENTITY helpMenu.accesskey               "y">
 
 <!ENTITY helpTroubleshootingInfo.label      "Solución de problemas">
 <!ENTITY helpTroubleshootingInfo.accesskey  "S">
-<!ENTITY releaseCmd.label				"Notas de la versión">
-<!ENTITY releaseCmd.accesskey                   "N">
+<!ENTITY releaseCmd.label                   "Notas de la versión">
+<!ENTITY releaseCmd.accesskey               "N">
 <!ENTITY helpSafeMode.label                 "Reiniciar con los complementos deshabilitados">
 <!ENTITY helpSafeMode.accesskey             "R">
-<!ENTITY updateCmd.label                        "Buscar actualizaciones…">
-<!ENTITY updateCmd.accesskey                    "c">
-<!ENTITY aboutCmd.label					"Acerca de &brandShortName;">
-<!ENTITY aboutCmd.accesskey				"A">
-<!ENTITY aboutCommPluginsCmd.label			"Acerca de plugins">
-<!ENTITY aboutCommPluginsCmd.accesskey			"p">
+<!ENTITY updateCmd.label                    "Buscar actualizaciones…">
+<!ENTITY updateCmd.accesskey                "c">
+<!ENTITY aboutCmd.label                     "Acerca de &brandShortName;">
+<!ENTITY aboutCmd.accesskey                 "A">
+<!ENTITY aboutCommPluginsCmd.label          "Acerca de plugins">
+<!ENTITY aboutCommPluginsCmd.accesskey      "p">
 
-<!ENTITY direct.label                                   "Conectado (Proxy: ninguno)">
-<!ENTITY direct.accesskey                               "n">
-<!ENTITY manual.label                                   "Conectado (Proxy: manual)">
-<!ENTITY manual.accesskey                               "M">
-<!ENTITY pac.label                                      "Conectado (Proxy: URL automática)">
-<!ENTITY pac.accesskey                                  "a">
-<!ENTITY wpad.label                                     "Conectado (Proxy: descubierto automáticamente)">
-<!ENTITY wpad.accesskey                                 "D">
-<!ENTITY system.label                                   "Conectado (Proxy: proxy del sistema)">
-<!ENTITY system.accesskey                               "s">
+<!ENTITY direct.label                             "Conectado (Proxy: ninguno)">
+<!ENTITY direct.accesskey                         "n">
+<!ENTITY manual.label                             "Conectado (Proxy: manual)">
+<!ENTITY manual.accesskey                         "M">
+<!ENTITY pac.label                                "Conectado (Proxy: URL automática)">
+<!ENTITY pac.accesskey                            "a">
+<!ENTITY wpad.label                               "Conectado (Proxy: descubierto automáticamente)">
+<!ENTITY wpad.accesskey                           "D">
+<!ENTITY system.label                             "Conectado (Proxy: proxy del sistema)">
+<!ENTITY system.accesskey                         "s">
 
-<!ENTITY proxy.label                                    "Configuración de proxy…">
-<!ENTITY proxy.accesskey                                "C">
+<!ENTITY proxy.label                              "Configuración de proxy…">
+<!ENTITY proxy.accesskey                          "C">
 
 <!ENTITY bidiSwitchTextDirectionItem.label        "Cambiar dirección del texto">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "C">
