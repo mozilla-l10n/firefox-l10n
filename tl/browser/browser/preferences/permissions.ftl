@@ -13,7 +13,7 @@ permissions-block =
     .label = Harangin
     .accesskey = H
 permissions-session =
-    .label = Payagan para sa Sesyon
+    .label = Payagan para sa Session
     .accesskey = S
 permissions-allow =
     .label = Payagan
@@ -58,13 +58,13 @@ permissions-capabilities-listitem-allow-session =
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = Hindi wastong Hostname Ipinasok
-permissions-invalid-uri-label = Mangyaring magpasok ng wastong hostname
+permissions-invalid-uri-title = May naipasok na Di-wastong Hostname
+permissions-invalid-uri-label = Maglagay ng wastong hostname
 
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-content-blocking-window =
-    .title = Firefox Content Blocking
+    .title = Mga Exception - Content Blocking
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Pinatay mo ang Pagharang ng Nilalaman sa site na ito.
 permissions-exceptions-etp-window =
@@ -84,7 +84,7 @@ permissions-exceptions-cookie-desc = Maaari mong tukuyin kung aling website ang 
 permissions-exceptions-popup-window =
     .title = Mga Website na Pinapayagan - Mga Pop-up
     .style = { permissions-window.style }
-permissions-exceptions-popup-desc = You can specify which web sites are allowed to open pop-up windows. Type the exact address of the site you want to allow and then click Allow.
+permissions-exceptions-popup-desc = Maaari mong tukuyin aling mga website ang pinapayagang magbukas ng mga pop-up window. I-type ang eksaktong address ng site na gusto mong payagan at pindutin ang Payagan.
 
 ## Exceptions - Saved Logins
 
