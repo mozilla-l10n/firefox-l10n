@@ -14,7 +14,7 @@
 <!ENTITY select.storage.label "Solo almacenamiento">
 
 <!ENTITY domain.search.placeholder "Dominios de búsqueda">
-<!ENTITY domain.search.key "b">
+<!ENTITY domain.search.key "f">
 
 <!ENTITY domain.tree.domain.label "Dominio">
 
