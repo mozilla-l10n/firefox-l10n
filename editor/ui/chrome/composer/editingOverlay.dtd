@@ -5,10 +5,10 @@
 <!-- File menu items -->
 <!ENTITY openFileCmd.label "Abrir archivo…">
 <!ENTITY openFileCmd.accesskey "a">
-<!ENTITY openFileCmd.key "a">
+<!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "Abrir dirección…">
 <!ENTITY openRemoteCmd.accesskey "d">
-<!ENTITY openRemoteCmd.key "d">
+<!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Páginas recientes">
 <!ENTITY fileRecentMenu.accesskey "r">
 <!ENTITY saveCmd.label "Guardar">
@@ -36,4 +36,3 @@
 <!ENTITY openToolbarCmd.tooltip "Abrir un archivo local">
 <!ENTITY saveToolbarCmd.tooltip "Guardar archivo localmente">
 <!ENTITY publishToolbarCmd.tooltip "Subir archivo a ubicación remota">
-
