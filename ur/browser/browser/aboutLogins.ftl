@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = لاگ ان اور پاس ورڈ
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
 login-filter =
     .placeholder = لاگ ان تلاش کریں
 create-login-button = نیا لاگ ان بنائیں
@@ -13,7 +16,7 @@ menu =
     .title = مینیو کھولیں
 # This menuitem is only visible on Windows
 menu-menuitem-import = پاس ورڈ درآمد کریں…
-menu-menuitem-feedback = رائے بھیجیں
+about-logins-menu-menuitem-help = مدد
 
 ## Login List
 
@@ -25,6 +28,9 @@ login-list-item-title-new-login = نیا لاگ ان
 login-list-item-subtitle-new-login = لاگ ان کی سندیں درج کریں۔
 login-list-item-subtitle-missing-username = (صارف نام کا نہیں)
 
+## Introduction screen
+
+
 ## Login
 
 login-item-new-login-title = نیا لاگ ان بنائیں
@@ -33,7 +39,6 @@ login-item-delete-button = مٹائیں
 login-item-origin-label = ویب سائٹ ایڈریس
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = اجراء کریں
 login-item-username-label = صارف کا نام
 login-item-username =
     .placeholder = name@example.com
@@ -68,4 +73,7 @@ confirm-delete-dialog-confirm-button = مٹائیں
 confirm-discard-changes-dialog-confirm-button = رد کريں
 
 ## Breach Alert notification
+
+
+## Error Messages
 
