@@ -817,6 +817,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure2 "Conexión asegurada">
 <!ENTITY identity.connectionNotSecure "Conexión insegura">
+
+<!ENTITY identity.connectionSecure3 "Conexión segura">
+<!ENTITY identity.connectionNotSecure2 "Conexión insegura">
 <!ENTITY identity.connectionNotSecureSecurityView "Su conexión a este sitio no es segura.">
 <!ENTITY identity.connectionFile "Esta página está guardada en su computadora.">
 <!ENTITY identity.connectionVerified2 "La conexión a este sitio es segura, provisto por:">
@@ -827,6 +830,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "Conexión verificada por un emisor de certificados no reconocido por Mozilla.">
 
 <!ENTITY identity.evOwnerLabel "El dueño de este sitio es:">
+
+<!ENTITY identity.evOwnerLabel2 "Certificado emitido a:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; bloqueó las partes de esta página que no son seguras.">
@@ -925,6 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "Los criptomineros utilizan la potencia informática de su sistema para extraer dinero digital. Las secuencias de comandos de cifrado de los mismos agotan su batería, ralentizan su computadora y pueden aumentar su factura de electricidad.">
 <!ENTITY protections.fingerprinters.description "Los identificadores de huellas digitales recopilan la configuración de su navegador y computadora para crear un perfil suyo. Usando esta huella digital, pueden rastrearlo a través de diferentes sitios web.">
 <!ENTITY protections.trackingContent.description "Los sitios web pueden cargar anuncios externos, videos y otro contenido que contenga código de rastreo. El bloqueo del contenido de rastreo puede ayudar a que los sitios se carguen más rápido, pero es posible que algunos botones, formularios y campos de inicio de sesión no funcionen.">
+<!ENTITY protections.trackingContent2.description "Los sitios pueden cargar publicidades externas, videos y otro contenido con código de rastreo. Bloquear el contenido de rastreo puede ayudar a que los sitios carguen más rápido pero algunos botones, formularios y campos de ingreso pueden dejar de funcionar.">
 <!ENTITY protections.socialMediaTrackers.description "Las redes sociales ubican rastreadores en otros sitios web para seguir lo que hace, ve y mira en línea. Esto permite que las empresas de redes sociales aprendan más sobre usted más allá de lo que comparte en sus perfiles de redes sociales.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
