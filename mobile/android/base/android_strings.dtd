@@ -34,6 +34,7 @@
 <!ENTITY firstrun_button_notnow "Nyní ne">
 <!ENTITY firstrun_button_next "Další">
 
+
 <!ENTITY firstrun_tabqueue_title "Odkazy">
 
 <!ENTITY firstrun_readerview_title "Články">
@@ -277,8 +278,8 @@
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Povolit">
-<!ENTITY pref_cookies_not_accept_foreign "Povolit mimo 3. stran">
-<!ENTITY pref_cookies_not_accept_trackers "Povolit, kromě sledovacích cookies">
+<!ENTITY pref_cookies_not_accept_foreign "Povolit kromě třetích stran">
+<!ENTITY pref_cookies_not_accept_trackers "Povolit kromě sledovacích">
 <!ENTITY pref_cookies_disabled "Zakázat">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -595,7 +596,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Adresa">
 <!ENTITY bookmark_edit_keyword "Klíčové slovo">
 <!ENTITY bookmark_select_folder "Vybrat složku">
-
 <!ENTITY bookmark_edit_undo "Vrátit změny">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -875,6 +875,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Dostupné offline">
 <!ENTITY helper_triple_readerview_open_message "Založte si položky Zobrazení čtečky pro jejich čtení offline.">
 <!ENTITY helper_triple_readerview_open_button "Přidat do záložek">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "Top stránky">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
