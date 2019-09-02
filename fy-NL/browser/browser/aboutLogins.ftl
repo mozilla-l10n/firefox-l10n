@@ -136,3 +136,13 @@ breach-alert-text = Wachtwurden út dizze website binne lekt of stellen sûnt jo
 breach-alert-link = Mear ynfo oer dit datalek
 breach-alert-dismiss =
     .title = Dizze warskôging slute
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Der bestiet al in fermelding foar { $loginTitle } mei dy brûkersnamme.
+# This is a generic error message.
+about-logins-error-message-default = Der is in flater bard wylst it bewarjen fan dit wachtwurd.
