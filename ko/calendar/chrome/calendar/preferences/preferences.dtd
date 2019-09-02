@@ -6,3 +6,6 @@
 <!ENTITY  paneAlarms.title        "알람">
 <!ENTITY  paneCategories.title    "분류">
 <!ENTITY  paneViews.title         "보기">
+<!ENTITY  panelHeader.title       "달력">
+<!ENTITY  panelReminder.title     "알림">
+<!ENTITY  panelCatecory.title     "분류">
