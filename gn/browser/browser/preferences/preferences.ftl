@@ -604,6 +604,7 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Ere ha emoheñói ñe’ẽñemi hekorosãva
     .accesskey = u
+forms-breach-alerts-learn-more-link = Kuaave
 forms-fill-logins-and-passwords =
     .label = Tembiapo ñepyrũ ha ñe’ẽñemi myanyhẽjehegui
     .accesskey = i

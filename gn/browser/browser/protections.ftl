@@ -38,6 +38,7 @@ cryptominer-tab-title = Criptomineros
 lockwise-title = Anivéke nderesarái ne ñe’ẽñemígui
 lockwise-title-logged-in = { -lockwise-brand-name }
 open-about-logins-button = Embojuruja { -brand-short-name }-pe
+about-logins-view-logins-button = Ehecha tembiapo ñepyrũ
 lockwise-no-logins-content = Eguereko pe tembipuru’i <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> egueraha hag̃ua ne ñe’ẽñemi opa hendápe.
 turn-on-sync = Emyandy { -sync-brand-short-name }...
     .title = Eho ñembojuehe erohoryvévape
@@ -50,6 +51,7 @@ lockwise-sync-status =
        *[other] Ñembojuehe { $count } ambue mba’e’oka rehe
     }
 lockwise-sync-not-syncing = Nombojuehéi ambue mba’e’oka rehe.
+lockwise-sync-not-syncing-devices = Ndojuehéi ambue mba’e’oka ndive
 monitor-title = Ema’ẽag̃uíke mba’ekuaarã ñembyaíre
 monitor-link = Mba'éichapa oba'apo
 monitor-sign-up = Eñemboheraguapy og̃uahẽ hag̃ua ndéve ñembyai rehegua
