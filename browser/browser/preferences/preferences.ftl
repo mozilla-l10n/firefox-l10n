@@ -604,6 +604,7 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Sterke wachtwoorden voorstellen en genereren
     .accesskey = w
+forms-breach-alerts-learn-more-link = Meer info
 forms-fill-logins-and-passwords =
     .label = Aanmeldingen en wachtwoorden automatisch invullen
     .accesskey = A
