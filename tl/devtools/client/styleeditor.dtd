@@ -18,7 +18,7 @@
 <!ENTITY importButton.tooltip       "I-import at idagdag ang kasalukuyang style sheet sa documento">
 <!ENTITY importButton.accesskey     "I">
 
-<!ENTITY visibilityToggle.tooltip   "I-toggle ang style sheet visibility">
+<!ENTITY visibilityToggle.tooltip   "i-Toggle ang style sheet visibility">
 
 <!ENTITY saveButton.label           "I-save">
 <!ENTITY saveButton.tooltip         "I-save ang style sheet na ito sa isang file">

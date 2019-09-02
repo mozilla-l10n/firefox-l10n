@@ -171,8 +171,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "Umalis sa Full Screen (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Alisin ang pakaka-full screen(esc)">
-<!ENTITY leaveDOMFullScreen.label "Lumabas sa pagka-Full Screen">
+<!ENTITY exitDOMFullscreenMac.button "Umalis sa Full Screen (Esc)">
+<!ENTITY leaveDOMFullScreen.label "Umalis sa Full Screen">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
@@ -199,7 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "i-Edit ang bookmark na ito">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY addCurPagesCmd.label "I-bookmark Lahat ng mga Tab…">
+<!ENTITY addCurPagesCmd.label "i-bookmark Lahat ng mga Tab…">
 
 <!ENTITY showAllBookmarks2.label "Ipakita Lahat ng mga Bookmark">
 <!ENTITY recentBookmarks.label "Mga Na-bookmark Kamakailan">
@@ -598,9 +598,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "i-Bookmark ang Pahinang Ito">
 <!ENTITY bookmarkPageCmd2.accesskey   "m">
-<!ENTITY bookmarkThisLinkCmd.label      "I-bookmark ang Link na Ito">
+<!ENTITY bookmarkThisLinkCmd.label      "i-Bookmark ang Link na Ito">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
-<!ENTITY bookmarkThisFrameCmd.label      "I-bookmark ang Frame na Ito">
+<!ENTITY bookmarkThisFrameCmd.label      "i-Bookmark ang Frame na Ito">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY pageAction.copyLink.label    "Kopyahin ang Link">
 
@@ -755,7 +755,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Huminto">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
-<!ENTITY quitApplicationCmdMac2.label   "Quit &brandShorterName;">
+<!ENTITY quitApplicationCmdMac2.label   "Isara ang &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Isara">

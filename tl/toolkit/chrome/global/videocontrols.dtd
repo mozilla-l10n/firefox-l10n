@@ -7,7 +7,7 @@
 <!ENTITY muteButton.muteLabel "I-mute">
 <!ENTITY muteButton.unmuteLabel "I-unmute">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Buong Screen">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Lumabas sa pagka-Full Screen">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Umalis sa Full Screen">
 <!ENTITY castingButton.castingLabel "Isalin sa Screen">
 <!ENTITY closedCaption.off "Nakapatay">
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
