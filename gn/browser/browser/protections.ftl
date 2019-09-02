@@ -81,8 +81,15 @@ bar-tooltip-social =
     .title = Ava ñandutieta rapykuehoha
     .aria-label =
         { $count ->
-            [one] { $count } ava ñandutieta rapykuehoha  ({ $percentage }%)
-           *[other] { $count } rastreador de redes sociales ({ $percentage }%)
+            [one] { $count } ava ñandutieta rapykuehoha ({ $percentage } %)
+           *[other] { $count } ava ñandutieta rapykuehoha ({ $percentage } %)
+        }
+bar-tooltip-cookie =
+    .title = Kookie rapykuehoha tenda ojoasahápe
+    .aria-label =
+        { $count ->
+            [one] { $count } kookie rapykuehoha tenda ojoasahápe ({ $percentage }%)
+           *[other] { $count } kookie rapykuehoha tenda ojoasahápe ({ $percentage }%)
         }
 bar-tooltip-tracker =
     .title = Tetepy mo’ãha

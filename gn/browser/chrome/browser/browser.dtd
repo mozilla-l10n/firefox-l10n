@@ -250,6 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Eñangareko DRM software jepuru rehe">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Eike ta'ãngarupa MIDI pe">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ejokóma ne ta'ãngamýi ko ñanduti rendápe g̃uarã.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ejokóma ne ñe'ẽatãha ko ñanduti rendápe g̃uarã.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ejokóma ko ñanduti renda emoherakuã hag̃ua ne mba'erechaha.">
@@ -813,12 +814,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Jeike">
 <!ENTITY identity.connectionSecure "Jeikekatu">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Jeikeha hekorosãva">
-
 <!ENTITY identity.connectionSecure2 "Eike tekorosãme">
 <!ENTITY identity.connectionNotSecure "Jeikekatu'ỹre">
+
+<!ENTITY identity.connectionSecure3 "Jeikekatu">
+<!ENTITY identity.connectionNotSecure2 "Jeikekatu'ỹ">
 <!ENTITY identity.connectionNotSecureSecurityView "Nde jeike nahekorosãi ko tendápe.">
 <!ENTITY identity.connectionFile "Ko kuatiarogue oñeñongatu mohendahápe.">
 <!ENTITY identity.connectionVerified2 "Eikhína tekorosãme ko tendápe, mba'eteépe:">
@@ -829,6 +829,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "Jeike ohechapyréva mboajepyre me’ẽha Mozilla omoneĩ’ỹva.">
 
 <!ENTITY identity.evOwnerLabel "Tenda ijárava:">
+
+<!ENTITY identity.evOwnerLabel2 "Mboajepyre osẽmava:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ojokóma ko kuatiarogue pehẽ ijerovia'ỹha.">
@@ -866,6 +868,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Ñemoneĩ aty">
+
+<!ENTITY identity.permissions3 "Moneĩ">
 <!ENTITY identity.permissionsEmpty "Nome'ẽi ko tenda ñemoneĩ ha'etéva.">
 <!ENTITY identity.permissionsReloadHint "Ikatu hína kuatiarogue emyanyhẽjey umi moambuepyre oñemboheko hag̃ua.">
 <!ENTITY identity.permissionsPreferences.tooltip "Oĩ moneĩ jeguerohoryvéva">
@@ -879,6 +883,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "Maranduve jehapykuehoha iporãvéva mo’ãha rehegua">
 <!ENTITY protections.settings.label "Ñemo’ã ñemboheko">
 <!ENTITY protections.report.label "Ehechaukapaite marandu’i">
+<!ENTITY protections.showreport.label "Ehechauka marandu'i">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -898,12 +903,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "¿Ko tenda moñemyanyhẽi gueteri ojepe’a rire ñemo’ã?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Emondo marandu'i">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Jokopyre">
 <!ENTITY protections.notBlocking2.label "Moneĩmbyre ">
+<!ENTITY protections.notFound.label "Ndaipóri juhupyre">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "¿Mba'ére?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Ko’ãva jejoko ikatu ombyai mba’epuru ñanduti renda pegua. Jehapykuehoha’ỹre heta votõ, myanyhẽha ha tembiapo ñepyrũ rekoha ikatu ndoikói.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Ñemo’ãha jepe’a ombojurujáta opaite jehapykuehoha ko tendápe. Ikatu avei omba’apo porãve.">
-<!ENTITY protections.notFound.label "Ndaipóri juhupyre">
 <!ENTITY protections.socialMediaTrackers.label "Ava ñandutieta rapykuehoha">
 <!ENTITY protections.crossSiteTrackingCookies.label "Kookie rapykuehoha tenda ojoasáva rehegua">
 <!ENTITY protections.trackingContent.label "Tetepu rapykuehoha">
@@ -961,7 +975,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Hekahára">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Ejoko hag̃ua opaite tapykuehoha, emboheko tetepy jokoha “Strict”-pe.">
 
 <!ENTITY contentBlocking.cookies.label "Kookie">
