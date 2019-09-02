@@ -730,6 +730,7 @@ content-blocking-strict-description = Високото ниво на защит�
 content-blocking-custom-desc = Изберете какво да бъде ограничавано.
 content-blocking-private-trackers = Известните проследявания само в поверителни прозорци
 content-blocking-third-party-cookies = Странични бисквитки за проследяване
+content-blocking-cross-site-tracking-cookies = Бисквитки за следене в различни сайтове
 content-blocking-all-cookies = Всички бисквитки
 content-blocking-unvisited-cookies = Бисквитки от непосетени страници
 content-blocking-all-windows-trackers = Проследявания във всички прозорци
