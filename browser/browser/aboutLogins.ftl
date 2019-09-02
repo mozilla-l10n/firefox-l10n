@@ -15,6 +15,11 @@ login-app-promo-apple =
 login-filter =
     .placeholder = লগইন অনুসন্ধান
 create-login-button = নতুন লগইন তৈরি করুন
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = { $title } এর জন্য ফ্যাভিকন
 fxaccounts-sign-in-text = আপনার অন্যান্য ডিভাইসে আপনার পাসওয়ার্ড পান
 fxaccounts-sign-in-button = { -sync-brand-short-name } এ সাইন ইন করুন
 fxaccounts-avatar-button =
@@ -31,8 +36,7 @@ menu-menuitem-preferences =
         [windows] অপশন
        *[other] পছন্দসমূহ
     }
-menu-menuitem-feedback = প্রতিক্রিয়া জানান
-menu-menuitem-faq = প্রায়শই জিজ্ঞাসিত প্রশ্ন
+about-logins-menu-menuitem-help = সহায়তা
 menu-menuitem-android-app = Android জন্য { -lockwise-brand-short-name }
 menu-menuitem-iphone-app = iPhone ও iPad এর জন্য { -lockwise-brand-short-name }
 
@@ -49,6 +53,7 @@ login-list-last-changed-option = সর্বশেষ পরিবর্তি�
 login-list-last-used-option = সর্বশেষ ব্যবহৃত
 login-list-intro-title = কোন লগ ইন পাওয়া যায়নি
 login-list-intro-description = আপনি যখন { -brand-product-name } এ পাসওয়ার্ড সরক্ষণ করবেন, তা এখানে প্রদর্শিত হবে।
+about-logins-login-list-empty-search-title = কোনও লগইন পাওয়া যায়নি
 login-list-item-title-new-login = নতুন লগইন
 login-list-item-subtitle-missing-username = (কোনও ব্যবহারকারীর নাম নেই)
 
@@ -56,7 +61,6 @@ login-list-item-subtitle-missing-username = (কোনও ব্যবহার�
 
 login-intro-heading = আপনার সংরক্ষিত লগইন সন্ধান করছেন? { -sync-brand-short-name } সেট আপ করুন।
 login-intro-instruction-fxa-settings = নিশ্চিত করুন যে আপনি { -sync-brand-short-name } সেটিং এ লগইন চেকবক্সটি নির্বাচন করেছেন
-login-intro-instruction-faq = আরো সহায়তার জন্য { -lockwise-brand-short-name } <a data-l10n-name="faq"> সচরাচর জিজ্ঞাস্য প্রশ্নগুলো দেখুন
 
 ## Login
 
@@ -69,6 +73,8 @@ login-item-origin =
 login-item-username-label = ব্যবহারকারীর নাম
 login-item-username =
     .placeholder = name@example.com
+about-logins-login-item-username =
+    .placeholder = (কোনও ব্যবহারকারীর নাম নেই)
 login-item-copy-username-button-text = অনুলিপি
 login-item-copied-username-button-text = অনুলিপি করা হয়েছে!
 login-item-password-label = পাসওয়ার্ড
@@ -108,3 +114,6 @@ confirm-discard-changes-dialog-confirm-button = বাতিল
 
 breach-alert-dismiss =
     .title = সতর্ক করা বন্ধ করুন
+
+## Error Messages
+
