@@ -817,6 +817,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure2 "Bağlantı güvenli">
 <!ENTITY identity.connectionNotSecure "Bağlantı güvenli değil">
+
+<!ENTITY identity.connectionSecure3 "Bağlantı güvenli">
+<!ENTITY identity.connectionNotSecure2 "Bağlantı güvenli değil">
 <!ENTITY identity.connectionNotSecureSecurityView "Bu siteye güvenli bir şekilde bağlanmadınız.">
 <!ENTITY identity.connectionFile "Bu sayfa bilgisayarınızda depolanıyor.">
 <!ENTITY identity.connectionVerified2 "Bu siteye güvenli bir şekilde bağlandınız. Site sahibi:">
@@ -827,6 +830,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "Bağlantı, Mozilla’nın tanımadığı bir sertifika yayıncısı tarafından doğrulandı.">
 
 <!ENTITY identity.evOwnerLabel "Site sahibi:">
+
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; bu sayfanın güvenli olmayan kısımlarını engelledi.">

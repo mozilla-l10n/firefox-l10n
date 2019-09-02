@@ -18,6 +18,15 @@ graph-total-summary =
         [one] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } tarihinden beri { $count } takipçi engellendi.
        *[other] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } tarihinden beri { $count } takipçi engellendi.
     }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } tarihinden beri <b>{ $count }</b> takipçi { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } tarihinden beri <b>{ $count }</b> takipçi engellendi
+       *[other] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } tarihinden beri <b>{ $count }</b> takipçi { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } tarihinden beri <b>{ $count }</b> takipçi engellendi
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -47,6 +56,7 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } parolalarınızı tarayınızda güvenle saklar.
 lockwise-header-content-logged-in = Parolalarınızı güvenle saklayın ve tüm cihazlarınızla senkronize edin.
 open-about-logins-button = { -brand-short-name } ile aç
+about-logins-view-logins-button = Hesapları göster
 lockwise-no-logins-content = Parolalarınızı yanınızda taşımak için <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> uygulamasını yükleyin.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -67,6 +77,7 @@ lockwise-sync-status =
        *[other] { $count } cihazla eşitleniyor
     }
 lockwise-sync-not-syncing = Diğer cihazlarla eşitlenmiyor.
+lockwise-sync-not-syncing-devices = Diğer cihazlarla eşitlenmiyor
 monitor-title = Veri hırsızlıklarından haberiniz olsun
 monitor-link = Nasıl çalışır?
 monitor-header-content-logged-in = Bilgileriniz bilinen bir veri ihlalinde yer alırsa { -monitor-brand-name } sizi uyarır
@@ -95,6 +106,30 @@ info-exposed-passwords =
     { $count ->
         [one] parolanız veri ihlallerinde ele geçirildi.
        *[other] parolanız veri ihlallerinde ele geçirildi.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] e-posta adresi izleniyor
+       *[other] e-posta adresi izleniyor
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] veri ihlalinde bilgileriniz ele geçirildi
+       *[other] veri ihlalinde bilgileriniz ele geçirildi
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] parolanız veri ihlallerinde ele geçirildi
+       *[other] parolanız veri ihlallerinde ele geçirildi
     }
 full-report-link = Raporun tamamını <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>’de görebilirsiniz
 # This is the title attribute describing the graph report's link to about:settings#privacy
