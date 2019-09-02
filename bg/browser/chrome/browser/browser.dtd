@@ -916,6 +916,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Проследяващо съдържание">
 <!ENTITY protections.fingerprinters.label "Снемане на цифров отпечатък">
 <!ENTITY protections.cryptominers.label "Добиване на криптовалути">
+<!ENTITY protections.noTrackersFound.description "На страницата не са открити известни на &brandShortName; проследяващи елементи.">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -952,16 +953,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.detected "В сайта е открито съдържание подлежащо на спиране.">
 <!ENTITY contentBlocking.notDetected "Страницата няма съдържание годно за спиране.">
 
-<!ENTITY contentBlocking.trackingProtection3.label "Проследявания">
+<!ENTITY contentBlocking.trackingProtection3.label "Проследяване">
 
 <!ENTITY contentBlocking.manageSettings.label "Управление на ограничаването на съдържание">
 
 <!ENTITY contentBlocking.trackingProtection4.label "Проследяващо съдържание">
 
 <!ENTITY contentBlocking.manageSettings2.label "Настройки на защитите">
-<!ENTITY contentBlocking.manageSettings.accesskey "у">
+<!ENTITY contentBlocking.manageSettings.accesskey "н">
 
-<!ENTITY contentBlocking.trackersView.label "Проследявания">
+<!ENTITY contentBlocking.trackersView.label "Проследяване">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "За да ограничите всички проследявания използвайте ниво „Строго“.">
 
 <!ENTITY contentBlocking.cookies.label "Бисквитки">
