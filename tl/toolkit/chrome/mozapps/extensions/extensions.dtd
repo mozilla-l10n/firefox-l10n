@@ -20,7 +20,7 @@
 <!ENTITY cmd.uninstallAddon.accesskey         "A">
 <!ENTITY cmd.showPreferencesWin.label         "Options">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Palitan ang options ng add-on na ito">
-<!ENTITY cmd.showPreferencesUnix.label        "Mga Preferences">
+<!ENTITY cmd.showPreferencesUnix.label        "Mga Kagustuhan">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Palitan ang preferences ng add-on na ito">
 
 <!ENTITY cmd.showReleaseNotes.label           "Ipakita ang mga Release Notes">

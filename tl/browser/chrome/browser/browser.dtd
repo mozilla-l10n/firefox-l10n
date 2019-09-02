@@ -360,7 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.accesskey       "A">
 <!ENTITY preferencesCmd2.label       "Options">
 <!ENTITY preferencesCmd2.accesskey     "O">
-<!ENTITY preferencesCmdUnix.label       "Mga Preferences">
+<!ENTITY preferencesCmdUnix.label       "Mga Kagustuhan">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 <!ENTITY logins.label                           "Mga Login at Password">
 

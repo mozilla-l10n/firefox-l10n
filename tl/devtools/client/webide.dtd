@@ -22,7 +22,7 @@
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Alisin ang Proyekto">
 <!ENTITY projectMenu_remove_accesskey "R">
-<!ENTITY projectMenu_showPrefs_label "Kagustuhan">
+<!ENTITY projectMenu_showPrefs_label "Mga Kagustuhan">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Pamahalaan ang Mga Dagdag na Mga Bahagi">
 <!ENTITY projectMenu_manageComponents_accesskey "M">

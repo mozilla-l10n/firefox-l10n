@@ -49,7 +49,7 @@ cmd-preferences =
     .label =
         { PLATFORM() ->
             [windows] Options
-           *[other] Mga Preferences
+           *[other] Mga Kagustuhan
         }
     .accesskey =
         { PLATFORM() ->
@@ -124,7 +124,7 @@ detail-show-preferences =
     .label =
         { PLATFORM() ->
             [windows] Options
-           *[other] Mga Preferences
+           *[other] Mga Kagustuhan
         }
     .accesskey =
         { PLATFORM() ->

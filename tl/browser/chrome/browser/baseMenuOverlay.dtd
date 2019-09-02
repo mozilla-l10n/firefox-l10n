@@ -37,7 +37,7 @@
 <!ENTITY helpShowTour2.label            "&brandShorterName; Tour">
 <!ENTITY helpShowTour2.accesskey        "o">
 
-<!ENTITY preferencesCmdMac.label        "Mga Preferences…">
+<!ENTITY preferencesCmdMac.label        "Mga Kagustuhan...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Mga Serbisyo">

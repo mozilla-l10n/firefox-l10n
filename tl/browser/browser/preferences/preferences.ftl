@@ -12,7 +12,7 @@ pref-page =
     .title =
         { PLATFORM() ->
             [windows] Options
-           *[other] Mga Preferences
+           *[other] Mga Kagustuhan
         }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -492,7 +492,7 @@ containers-add-button =
     .label = Dagdagan ng Bagong Contianer
     .accesskey = A
 containers-preferences-button =
-    .label = Mga kagustuhan
+    .label = Mga Kagustuhan
 containers-remove-button =
     .label = Alisin
 
@@ -568,7 +568,7 @@ sync-engine-prefs =
     .label =
         { PLATFORM() ->
             [windows] Mga Option
-           *[other] Mga Preference
+           *[other] Mga Kagustuhan
         }
     .tooltiptext = Mga kagustuhan at pagpipilian naa iyong binago
     .accesskey = P
@@ -917,7 +917,7 @@ space-alert-over-5gb-pref-button =
     .label =
         { PLATFORM() ->
             [windows] Buksan ang Pagpipilian
-           *[other] Buksan ang Mga Ibig
+           *[other] Buksan ang mga Kagustuhan
         }
     .accesskey =
         { PLATFORM() ->
