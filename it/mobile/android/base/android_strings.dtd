@@ -346,7 +346,7 @@
 <!ENTITY contextmenu_add_search_engine "Aggiungi motore di ricerca">
 <!ENTITY pinned_page_to_top_sites "Aggiunto ai siti principali">
 <!ENTITY unpinned_page_from_top_sites "Rimosso dai siti principali">
-<!ENTITY doorhanger_login_no_username "[nessun nome utente]">
+<!ENTITY doorhanger_login_no_username "(nessun nome utente)">
 <!ENTITY doorhanger_login_edit_title "Modifica credenziali">
 <!ENTITY doorhanger_login_edit_username_hint "Nome utente">
 <!ENTITY doorhanger_login_edit_password_hint "Password">
