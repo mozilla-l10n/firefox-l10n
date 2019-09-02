@@ -67,6 +67,9 @@ permissions-exceptions-content-blocking-window =
     .title = Изключения – Ограничаване на съдържание
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Изключили сте ограничаването на съдържание за тези страници.
+permissions-exceptions-etp-window =
+    .title = Изключения в разширената защита от проследяване
+    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
