@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Alamin
 accessibility-text-label-header = Mga Text Label at Pangalan
+accessibility-keyboard-header = Keyboard
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -41,3 +42,8 @@ accessibility-text-label-issue-interactive = Dapat naka-label ang mga interactiv
 accessibility-text-label-issue-optgroup-label = Gamitin ang <code>label</code> attribute para mabigyan ng label ang mga <span>optgroup</span> element. <a>Alamin</a>
 accessibility-text-label-issue-optgroup-label2 = Gumamit ng <code>label</code> attribute para makapag-label ng <span>optgroup</span>. <a>Alamin</a>
 accessibility-text-label-issue-toolbar = Dapat naka-label ang mga toolbar kapag mayroong higit sa isang toolbar. <a>Alamin</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+

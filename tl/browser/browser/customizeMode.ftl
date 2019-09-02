@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 customize-mode-restore-defaults =
-    .label = Ibalik sa Dati
+    .label = Ibalik ang Default
 customize-mode-menu-and-toolbars-header = I-drag ang iyong mga paboritong item sa toolbar o overflow menu.
 customize-mode-overflow-list-title = Overflow Menu
 customize-mode-uidensity =

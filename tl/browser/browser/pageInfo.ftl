@@ -69,10 +69,10 @@ media-save-image-as =
 media-preview =
     .value = Preview ng Media:
 perm-tab =
-    .label = Pahintulot
+    .label = Mga Pahintulot
     .accesskey = P
 permissions-for =
-    .value = Mga Pahintulot para sa:
+    .value = Mga pahintulot para sa:
 security-tab =
     .label = Seguridad
     .accesskey = S
@@ -145,7 +145,7 @@ media-select-folder = Pumili ng Folder na Paglalagyan ng mga Larawan
 media-unknown-not-cached =
     .value = Di-tiyak (hindi na cache)
 permissions-use-default =
-    .label = Gamitin ang Nakatakda
+    .label = Gamitin ang Default
 security-no-visits = Hindi
 # This string is used to display the number of meta tags
 # in the General Tab

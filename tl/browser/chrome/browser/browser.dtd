@@ -814,8 +814,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Koneksyon">
 <!ENTITY identity.connectionSecure "I-secure ang Koneksyon">
 
+<!ENTITY identity.connectionSecure2 "Matibay na Koneksyon">
 <!ENTITY identity.connectionNotSecure "Hindi Sigurado ang Koneksyon">
 
+<!ENTITY identity.connectionSecure3 "Matibay na Koneksyon">
+<!ENTITY identity.connectionNotSecure2 "Di Matibay na Koneksyon">
 <!ENTITY identity.connectionNotSecureSecurityView "Ikaw ay hindi ligtas na nakakonekta sa site na ito.">
 <!ENTITY identity.connectionFile "Ang pahinang ito ay naka-imbak sa iyong computer.">
 <!ENTITY identity.connectionVerified2 "Malayo kang konektado sa site na ito, na pag-aari ng:">
@@ -865,6 +868,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Permissions Set">
 
+<!ENTITY identity.permissions3 "Mga Pahintulot">
 <!ENTITY identity.permissionsEmpty "Hindi mo ipinagkaloob ang site na ito anumang espesyal na pahintulot.">
 <!ENTITY identity.permissionsReloadHint "Maaaring kailangan mong i-reload ang pahina para mag-aplay ang mga pagbabago.">
 <!ENTITY identity.permissionsPreferences.tooltip "Open Permissions Preferences">
@@ -877,6 +881,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.settings.label "Mga Protection Setting">
 <!ENTITY protections.report.label "Ipakita ang Buong Ulat">
+<!ENTITY protections.showreport.label "Ipakita ang Ulat">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -904,6 +909,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Hinarang">
 <!ENTITY protections.notBlocking2.label "Pinapayagan">
+<!ENTITY protections.notFound.label "Walang Nakita">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
