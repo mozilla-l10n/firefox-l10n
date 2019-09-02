@@ -53,6 +53,8 @@
 <!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontTimes.label "Tempores">
 <!ENTITY fontTimes.accesskey "T">
+<!ENTITY fontCourier.label "Courier">
+<!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
 <!ENTITY decreaseFontSize.label "Plus micre">
@@ -74,14 +76,23 @@
 <!ENTITY size-mediumCmd.accesskey "M">
 <!ENTITY size-largeCmd.label "Grande">
 <!ENTITY size-largeCmd.accesskey "G">
+<!ENTITY size-extraLargeCmd.label "Multo grande">
+<!ENTITY size-extraLargeCmd.accesskey "M">
+<!ENTITY size-hugeCmd.label "Enorme">
+<!ENTITY size-hugeCmd.accesskey "E">
 
 <!-- Font Style SubMenu -->
+<!ENTITY fontStyleMenu.label "Stylo">
+<!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "Hardite">
 <!ENTITY styleBoldCmd.accesskey "H">
 <!ENTITY styleBoldCmd.key "H">
 <!ENTITY styleItalicCmd.label "Italico">
 <!ENTITY styleItalicCmd.accesskey "I">
 <!ENTITY styleItalicCmd.key "I">
+<!ENTITY styleUnderlineCmd.label "Sublinear">
+<!ENTITY styleUnderlineCmd.accesskey "S">
+<!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleEm.label "Emphase">
 <!ENTITY styleEm.accesskey "E">
 <!ENTITY styleStrong.label "Emphase plus forte">
@@ -117,6 +128,8 @@
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Adresse">
 <!ENTITY paragraphAddressCmd.accesskey "A">
+<!ENTITY paragraphPreformatCmd.label "Preformattate">
+<!ENTITY paragraphPreformatCmd.accesskey "f">
 
 <!-- List menu items -->
 <!ENTITY formatlistMenu.label "Lista">
@@ -136,6 +149,8 @@
 <!ENTITY advancedPropertiesCmd.accesskey "v">
 
 <!-- Align menu items -->
+<!ENTITY alignMenu.label "Alinear">
+<!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "Sinistra">
 <!ENTITY alignLeft.accesskey "S">
 <!ENTITY alignLeft.tooltip "Alinear a sinistra">
