@@ -138,6 +138,9 @@ legacy-warning-show-legacy = Mostrar las extensiones heredadas
 legacy-extensions =
     .value = Extensiones heredadas
 legacy-extensions-description = Estas extensiones no cumplen los estándares actuales de { -brand-short-name } por lo que han sido desactivadas. <label data-l10n-name="legacy-learn-more">Aprender más sobre los cambios de los complementos</label>
+extensions-view-discopane =
+    .name = Recomendaciones
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Actualizaciones recientes
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -240,11 +243,16 @@ discopane-intro =
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Algunas de estas recomendaciones son personalizadas. Se basan complementos instaladas, preferencias de tu perfil y estadísticas de uso.
 discopane-notice-learn-more = Saber más
+install-extension-button = Agregar a { -brand-product-name }
 install-theme-button = Instalar tema
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Administrar
 find-more-addons = Encuentra más complementos
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Más opciones
 
 ## Add-on actions
 
@@ -285,7 +293,14 @@ addon-badge-private-browsing-allowed =
     .title = Permitido en ventanas privadas
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = No permitir
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Recomendada
+    .alt = Recomendada
 available-updates-heading = Actualizaciones disponibles
 recent-updates-heading = Actualizaciones recientes
 release-notes-loading = Cargando…
+addon-permissions-empty = Esta extensión no requiere ningún permiso
 recommended-extensions-heading = Complementos recomendados
+recommended-themes-heading = Temas recomendados
