@@ -288,7 +288,7 @@
 <!ENTITY replyListCmd.label "Lijst beantwoorden">
 <!ENTITY replyListCmd.accesskey "i">
 <!ENTITY replyNewsgroupCmd.label "Nieuwsgroep beantwoorden">
-<!ENTITY replyNewsgroupCmd.accesskey	"r">
+<!ENTITY replyNewsgroupCmd.accesskey "r">
 <!ENTITY replySenderCmd.label "Afzender beantwoorden">
 <!ENTITY replySenderCmd.accesskey "a">
 <!ENTITY replyToAllMsgCmd.label "Allen beantwoorden">
@@ -442,6 +442,7 @@
 <!ENTITY markButton.tooltip "Berichten markeren">
 <!ENTITY stopButton.tooltip "De huidige overdracht stoppen">
 <!ENTITY throbber.tooltip "Naar de &vendorShortName;-startpagina gaan">
+<!ENTITY throbber.tooltip2 "Naar de &brandShortName;-startpagina gaan">
 <!ENTITY junkButton.tooltip "Geselecteerde berichten als ongewenst markeren">
 <!ENTITY notJunkButton.tooltip "Geselecteerde berichten als gewenst markeren">
 
