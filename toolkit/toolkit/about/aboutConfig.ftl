@@ -10,7 +10,7 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Questa operazione potrebbe invalidare la garanzia
-config-about-warning-text = La modifica dei valori predefiniti delle seguenti impostazioni avanzate può compromettere la stabilità, la sicurezza e le prestazioni di questa applicazione. Si consiglia di proseguire solo se consapevoli delle proprie azioni.
+config-about-warning-text = La modifica di queste impostazioni avanzate può compromettere la stabilità, la sicurezza e le prestazioni del browser. Si consiglia di proseguire solo se consapevoli delle proprie azioni.
 config-about-warning-button =
     .label = Accetto i rischi
 config-about-warning-checkbox =

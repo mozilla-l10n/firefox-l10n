@@ -64,7 +64,7 @@ about-logins-login-list-empty-search-title = Nessuna credenziale trovata
 about-logins-login-list-empty-search-description = Non ci sono risultati corrispondenti ai criteri di ricerca inseriti.
 login-list-item-title-new-login = Nuova credenziale
 login-list-item-subtitle-new-login = Inserisci le credenziali di accesso
-login-list-item-subtitle-missing-username = [nessun nome utente]
+login-list-item-subtitle-missing-username = (nessun nome utente)
 
 ## Introduction screen
 
