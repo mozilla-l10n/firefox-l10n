@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+etp-card-title = Разширена защита от проследяване
 cookie-tab-title = Бисквитки за следене в различни сайтове
 fingerprinter-tab-title = Снемане на цифров отпечатък
 
