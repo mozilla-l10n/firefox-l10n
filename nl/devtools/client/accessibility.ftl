@@ -51,4 +51,4 @@ accessibility-keyboard-issue-semantics = Focusbare elementen moeten interactieve
 accessibility-keyboard-issue-tabindex = Vermijd het gebruik van een <code>tabindex</code>-attribuut groter dan nul. <a>Meer info</a>
 accessibility-keyboard-issue-action = Interactieve elementen moeten geactiveerd kunnen worden met behulp van een toetsenbord. <a>Meer info</a>
 accessibility-keyboard-issue-focusable = Interactieve elementen moeten een focus kunnen krijgen. <a>Meer info</a>
-accessibility-keyboard-issue-focus-visible = Een element die een focus kan krijgen mist mogelijk de focusstijl. <a>Meer info</a>
+accessibility-keyboard-issue-focus-visible = Een element dat een focus kan krijgen mist mogelijk de focusstijl. <a>Meer info</a>
