@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Origen de los datos de ping:
 about-telemetry-show-current-ping-data = Datos acuales de ping
+about-telemetry-show-current-data = Datos actuales
 about-telemetry-show-archived-ping-data = Datos archivados de ping
 about-telemetry-show-subsession-data = Mostrar datos de subsesión
 about-telemetry-choose-ping = Elegir ping:
