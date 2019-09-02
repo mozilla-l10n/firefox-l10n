@@ -3,13 +3,32 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
+<!ENTITY publishTab.label             "Publicar">
 <!ENTITY settingsTab.label            "Parametros">
 <!ENTITY publishButton.label          "Publicar">
 
 <!-- Publish Tab Panel -->
+<!ENTITY siteList.label               "Nomine del sito:">
+<!ENTITY siteList.accesskey           "o">
+<!ENTITY siteList.tooltip             "Elige le sito ubi tu desira publicar">
+<!ENTITY newSiteButton.label          "Nove sito">
+<!ENTITY newSiteButton.accesskey      "N">
+<!ENTITY sameLocationRadio.label      "Utilisar le mesme adresse que le pagina">
+<!ENTITY sameLocationRadio.accesskey  "U">
+<!ENTITY pageTitle.label              "Titulo del pagina:">
+<!ENTITY pageTitle.accesskey          "T">
+<!ENTITY removeButton.label           "Remover le sito">
+<!ENTITY removeButton.accesskey       "R">
 
 <!-- Settings Tab Panel -->
+<!ENTITY publishSites.label           "Publication del sitos">
+<!ENTITY serverInfo.label             "Informationes del servitor">
+<!ENTITY loginInfo.label              "Informationes de accesso">
+<!ENTITY siteName.label               "Nomine del sito:">
+<!ENTITY siteName.accesskey           "o">
 <!ENTITY username.label               "Nomine del usator:">
 <!ENTITY username.accesskey           "U">
 <!ENTITY password.label               "Contrasigno:">
 <!ENTITY password.accesskey           "s">
+<!ENTITY savePassword.label           "Salvar le contrasigno">
+<!ENTITY savePassword.accesskey       "S">

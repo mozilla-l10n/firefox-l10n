@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
+<!ENTITY windowTitle.label "Proprietates del pagina">
+<!ENTITY location.label "Loco:">
+<!ENTITY lastModified.label "Ultime modification:">
 <!ENTITY titleInput.label "Titulo:">
 <!ENTITY titleInput.accessKey "T">
 <!ENTITY authorInput.label "Autor:">

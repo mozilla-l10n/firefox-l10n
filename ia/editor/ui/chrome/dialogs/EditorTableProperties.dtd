@@ -18,6 +18,9 @@
 <!ENTITY tableWidth.accessKey             "L">
 <!ENTITY tableBorderWidth.label           "Bordo:">
 <!ENTITY tableBorderWidth.accessKey       "B">
+<!ENTITY tableCaption.label               "Legenda:">
+<!ENTITY tableCaption.accessKey           "L">
+<!ENTITY tableCaptionAbove.label          "Super tabella">
 
 <!ENTITY cellSelection.label              "Selection">
 <!ENTITY cellSelectCell.label             "Cella">

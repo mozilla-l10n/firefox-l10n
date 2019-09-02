@@ -7,4 +7,6 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
+<!ENTITY documentTitleTitle.label "Titulo del pagina">
+<!ENTITY documentCharsetTitle2.label "Codification del texto">
 <!ENTITY documentExportToText.label "Exportar como texto">
