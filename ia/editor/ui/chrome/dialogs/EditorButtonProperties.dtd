@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle.label "Proprietates del button">
 
 <!ENTITY Settings.label "Parametros">
 
@@ -15,6 +16,8 @@
 <!ENTITY ButtonName.accesskey "P">
 <!ENTITY ButtonValue.label "Valor:">
 <!ENTITY ButtonValue.accesskey "V">
+<!ENTITY tabIndex.label "Indice de tabulation:">
+<!ENTITY tabIndex.accesskey "I">
 <!ENTITY ButtonDisabled.label "Disactivate">
 <!ENTITY ButtonDisabled.accesskey "D">
 <!ENTITY AccessKey.label "Clave de accesso:">

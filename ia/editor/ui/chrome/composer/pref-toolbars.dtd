@@ -8,6 +8,7 @@
 <!ENTITY new.label              "Nove">
 <!ENTITY open.label             "Aperir">
 <!ENTITY save.label             "Salvar">
+<!ENTITY cut.label              "Taliar">
 <!ENTITY copy.label             "Copiar">
 <!ENTITY paste.label            "Collar">
 <!ENTITY print.label            "Imprimer">
@@ -18,5 +19,12 @@
 <!ENTITY anchor.label           "Ancora">
 
 
+<!ENTITY smaller.label          "Plus micre">
+<!ENTITY larger.label           "Plus grande">
+<!ENTITY bold.label             "Hardite">
 <!ENTITY numbers.label          "Numeros">
+<!ENTITY italic.label           "Italico">
+<!ENTITY outdent.label          "Disindentar">
+<!ENTITY indent.label           "Indentar">
+<!ENTITY underline.label        "Sublinear">
 

@@ -5,5 +5,14 @@
 
 <!ENTITY Settings.label "Parametros">
 
+<!ENTITY FormName.label "Ab nomine:">
+<!ENTITY FormName.accesskey "n">
+<!ENTITY FormAction.label "URL del action:">
 <!ENTITY FormMethod.label "Methodo:">
+<!ENTITY FormEncType.label "Codification:">
+<!ENTITY FormEncType.accesskey "d">
+<!ENTITY FormTarget.label "Quadro destinatario:">
+<!ENTITY FormTarget.accesskey "d">
 
+<!ENTITY RemoveForm.label "Remover formulario">
+<!ENTITY RemoveForm.accesskey "R">

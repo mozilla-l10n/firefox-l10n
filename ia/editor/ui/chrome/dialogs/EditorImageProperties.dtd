@@ -52,6 +52,7 @@
 <!-- These controls are in the Link Box -->
 
 <!-- These tabs are currently used in the image input dialog -->
+<!ENTITY imageInputTab.label "Formulario">
 <!ENTITY imageLocationTab.label "Position">
 <!ENTITY imageDimensionsTab.label "Dimensiones">
 <!ENTITY imageAppearanceTab.label "Apparentia">
