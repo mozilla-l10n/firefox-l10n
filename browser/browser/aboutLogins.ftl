@@ -135,3 +135,13 @@ breach-alert-text = 마지막 로그인 정보를 업데이트 한 후 이 웹 �
 breach-alert-link = 이 유출에 대해 자세히 알아보기.
 breach-alert-dismiss =
     .title = 이 알림 닫기
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = 해당 사용자 이름으로 { $loginTitle }에 대한 항목이 이미 존재합니다.
+# This is a generic error message.
+about-logins-error-message-default = 이 비밀번호를 저장하는 중 오류가 발생했습니다.

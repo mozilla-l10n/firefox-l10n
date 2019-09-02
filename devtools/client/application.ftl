@@ -85,3 +85,11 @@ manifest-loaded-ok = 매니페스트가 로드되었습니다.
 manifest-loaded-error = 매니페스트를 로드하는 동안 오류가 발생했습니다:
 # Text displayed when the page has no manifest available
 manifest-non-existing = 검사할 매니페스트가 없습니다.
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = 경고 아이콘
+    .title = 경고
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = 오류 아이콘
+    .title = 오류
