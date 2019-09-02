@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "일반 설정" >
+
 <!ENTITY pref.dateformat.label "날짜 형식:" >
 <!ENTITY pref.dateformat.accesskey "D">
 <!ENTITY pref.dateformat.long "긴 형식" >
@@ -24,6 +25,8 @@
 <!ENTITY pref.default_event_length.label "기본 시간:" >
 <!ENTITY pref.default_event_length.accesskey "E">
 
+<!ENTITY pref.default_event_task_length.accesskey "E">
+
 <!ENTITY pref.default_task_none.label "없음">
 <!ENTITY pref.default_task_start_of_day.label "하루의  시작">
 <!ENTITY pref.default_task_end_of_day.label "하루의 끝">
@@ -34,9 +37,6 @@
 <!ENTITY pref.default_task_offset_next_hour.label "다음 시간 부터">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "오늘 창">
-<!ENTITY pref.soondays.label "다가오는 이벤트 섹션:">
-<!ENTITY pref.soondays.accesskey "u">
-
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,

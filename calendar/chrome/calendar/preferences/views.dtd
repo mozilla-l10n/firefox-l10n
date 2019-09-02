@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "일반">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "날짜와 주일 보기">
 <!ENTITY pref.calendar.view.multiweekview.caption "여러 주 보기">
 <!ENTITY pref.calendar.view.workweek.caption "근무 주">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "주차 표시">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "w">
 <!ENTITY pref.daysoff.label "근무 주 포함 요일:">
+
+<!ENTITY pref.workweekDays.label "평일:">
 
 <!ENTITY pref.calendar.view.daystart.label "일일 시작 시점:">
 <!ENTITY pref.calendar.view.daystart.accesskey "D">
