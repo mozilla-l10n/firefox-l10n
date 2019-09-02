@@ -730,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Weer te geven kolommen selecteren">
+<!ENTITY selectColumn.tooltip "Alle berichten selecteren/deselecteren">
 <!ENTITY threadColumn2.tooltip "Berichtconversaties weergeven">
 <!ENTITY fromColumn2.tooltip "Sorteren op van">
 <!ENTITY recipientColumn2.tooltip "Sorteren op ontvanger">

@@ -66,3 +66,5 @@ remove-all-shown =
     .label = Alle getoonde verwijderen
     .accesskey = A
 remove-all-passwords-prompt = Weet u zeker dat u alle wachtwoorden wilt verwijderen?
+remove-all-passwords-title = Alle wachtwoorden verwijderen
+no-master-password-prompt = Weet u zeker dat u uw wachtwoorden wilt tonen?
