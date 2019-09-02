@@ -147,7 +147,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Добавяне на устройство…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "Вписване в &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Включване на &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Сметка">
+<!ENTITY fxa.menu.firefoxServices.label "Услуги от &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -244,6 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Управление използването на софтуер с DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Отваря панела за MIDI">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Дали сте допълнителни права на страницата.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Забранили сте на страницата достъп до вашата камера.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Забранили сте на страницата достъп до вашия микрофон.">
@@ -812,6 +816,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionNotSecure "Връзката е незащитена">
 
 <!ENTITY identity.connectionSecure3 "Връзката е защитена">
+<!ENTITY identity.connectionNotSecure2 "Връзката не е защитена">
 <!ENTITY identity.connectionFile "Страницата е запазена в компютъра.">
 <!ENTITY identity.connectionVerified2 "Защитена връзка към този сайт, управляван от:">
 <!ENTITY identity.connectionInternal "Това е защитена страница на &brandShortName;.">
@@ -861,7 +866,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions2 "Променени права">
 
 <!ENTITY identity.permissions3 "Права">
-<!ENTITY identity.permissionsEmpty "Не сте дали специфични права на този сайт.">
+<!ENTITY identity.permissionsEmpty "Не сте дали допълнителни права на страницата.">
 <!ENTITY identity.permissionsReloadHint "За да бъдат приложени промените може да се наложи да презаредите страницата.">
 <!ENTITY identity.permissionsPreferences.tooltip "Отваряне настройките на права">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Настройки за ограничаване на съдържание">
