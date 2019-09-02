@@ -4,7 +4,7 @@
 
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-intro = { $hostname } দ্বারা একটি অকার্যকর নিরাপত্তার সার্টিফিকেট ব্যবহার করে।
+cert-error-intro = { $hostname } একটি অকার্যকর নিরাপত্তার সার্টিফিকেট ব্যবহার করে।
 cert-error-mitm-intro = ওয়েবসাইট সার্টিফিকেটের মাধ্যমে তাদের পরিচয় প্রমাণ করে, যা সার্টিফিকেট কর্তৃপক্ষ ইস্যু করে।
 cert-error-trust-unknown-issuer-intro = কেউ সাইটটির ছদ্মবেশ তৈরি করার চেষ্টা করতে পারে এবং আপনার চালিয়ে যাওয়া উচিত নয়।
 cert-error-trust-cert-invalid = অকার্যকর CA সার্টিফিকেট দ্বারা সার্টিফিকেট নির্মিত হওয়ার ফলে সেটি বিশ্বস্ত নয়।
