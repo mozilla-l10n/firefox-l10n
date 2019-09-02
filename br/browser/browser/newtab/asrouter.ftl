@@ -111,15 +111,27 @@ cfr-whatsnew-lockwise-backup-title = Gwarediñ ho kerioù-tremen
 cfr-whatsnew-lockwise-backup-body = Bremañ eo gouest da grouiñ gerioù-tremen diogel a c'hallit gwelet eus kement lec'h a gennaskit outañ.
 cfr-whatsnew-lockwise-backup-link-text = Gweredekaat ar gwaredoù
 cfr-whatsnew-lockwise-take-title = Kemerit ho kerioù-tremen ganeoc'h
+cfr-whatsnew-lockwise-take-body = Gant arload hezoug { -lockwise-brand-short-name } e c'hallit gwelout ho kerioù-tremen gwaredet adalek forzh pe lec'h.
+cfr-whatsnew-lockwise-take-link-text = Kaout an arload
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Kaout ar sined-mañ war ho pellgomz
+cfr-doorhanger-sync-bookmarks-body = Tapit ho sinedoù, gerioù-tremen roll istor ha muioc'h c'hoazh e pep lec'h ma 'z oc'h kennasket ouzh { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Gweredekaat { -sync-brand-short-name }
+    .accesskey = G
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Na zisoñjit ket ho ker-tremen ken
+cfr-doorhanger-sync-logins-body = Kadavit ha goubredit ho kerioù-tremen war ho holl drevnadoù.
+cfr-doorhanger-sync-logins-ok-button = Gweredekaat { -sync-brand-short-name }
+    .accesskey = G
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Lennit an dra-se pa fell deoc'h
+cfr-doorhanger-send-tab-recipe-header = Kasit ar rekipe-mañ er gegin
 
 ## Firefox Send
 
