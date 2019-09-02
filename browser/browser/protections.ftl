@@ -120,6 +120,22 @@ info-monitored-emails =
         [one] Dirección de correo electrónico monitoreada
        *[other] Direcciones de correo electrónico monitoreadas
     }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Una violación de datos conocida expuso su información
+       *[other] Violaciones de datos conocidas que expusieron su información
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Contraseña expuesta a través de todas las filtraciones
+       *[other] Contraseñas expuestas a través de todas las filtraciones
+    }
 full-report-link = Ver informe completo sobre <a data-l10n-name="monitor-inline-link"> { -monitor-brand-name } </a>
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
