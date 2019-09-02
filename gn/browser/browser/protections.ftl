@@ -54,6 +54,7 @@ lockwise-sync-not-syncing = Nombojuehéi ambue mba’e’oka rehe.
 lockwise-sync-not-syncing-devices = Ndojuehéi ambue mba’e’oka ndive
 monitor-title = Ema’ẽag̃uíke mba’ekuaarã ñembyaíre
 monitor-link = Mba'éichapa oba'apo
+monitor-header-content = Ema’ẽjey { -monitor-brand-name } ehecha hag̃ua ha’épa mba’ekuaarã ñembyairã ha ou hag̃ua ndéve kyhyjyrã mba’evai rehegua.
 monitor-sign-up = Eñemboheraguapy og̃uahẽ hag̃ua ndéve ñembyai rehegua
 auto-scan = Ijehegui ohechajey ko árape
 # This string is displayed after a large numeral that indicates the total number
@@ -76,6 +77,13 @@ go-to-saved-logins = Eho jeikeha ñongatupyrépe
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Ava ñandutieta rapykuehoha
+    .aria-label =
+        { $count ->
+            [one] { $count } ava ñandutieta rapykuehoha  ({ $percentage }%)
+           *[other] { $count } rastreador de redes sociales ({ $percentage }%)
+        }
 bar-tooltip-tracker =
     .title = Tetepy mo’ãha
     .aria-label =
