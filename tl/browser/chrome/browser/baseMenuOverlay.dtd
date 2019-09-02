@@ -42,7 +42,7 @@
 
 <!ENTITY servicesMenuMac.label          "Mga Serbisyo">
 
-<!ENTITY hideThisAppCmdMac2.label       "Hide &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.label       "Itago ang &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Itago ang Iba">
