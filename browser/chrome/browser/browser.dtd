@@ -817,6 +817,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure2 "Kết nối an toàn">
 <!ENTITY identity.connectionNotSecure "Kết nối này không an toàn">
+
+<!ENTITY identity.connectionSecure3 "Kết nối an toàn">
+<!ENTITY identity.connectionNotSecure2 "Kết nối không an toàn">
 <!ENTITY identity.connectionNotSecureSecurityView "Bạn không được kết nối an toàn với trang web này.">
 <!ENTITY identity.connectionFile "Trang này đã được lưu ở máy tính của bạn.">
 <!ENTITY identity.connectionVerified2 "Bạn đang kết nối an toàn tới trang này, được sở hữu bởi:">
@@ -827,6 +830,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "Kết nối được xác minh bởi nhà phát hành chứng chỉ không được Mozilla công nhận.">
 
 <!ENTITY identity.evOwnerLabel "Trang web thuộc sở hữu của:">
+
+<!ENTITY identity.evOwnerLabel2 "Chứng chỉ được cấp cho:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; đã chặn những phần không an toàn của trang này.">
@@ -925,6 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "Tiền điện tử sử dụng sức mạnh tính toán của hệ thống của bạn để khai thác tiền kỹ thuật số. Các tập lệnh mã hóa làm cạn kiệt pin của bạn, làm chậm máy tính của bạn và có thể tăng hóa đơn năng lượng của bạn.">
 <!ENTITY protections.fingerprinters.description "Dấu vân tay thu thập cài đặt từ trình duyệt và máy tính của bạn để tạo hồ sơ về bạn. Sử dụng dấu vân tay kỹ thuật số này, họ có thể theo dõi bạn trên các trang web khác nhau.">
 <!ENTITY protections.trackingContent.description "Trang web có thể tải quảng cáo bên ngoài, video và nội dung khác có chứa mã theo dõi. Chặn nội dung theo dõi có thể giúp các trang web tải nhanh hơn, nhưng một số nút, biểu mẫu và trường đăng nhập có thể không hoạt động.">
+<!ENTITY protections.trackingContent2.description "Trang web có thể tải quảng cáo bên ngoài, video và nội dung khác với đoạn mã theo dõi. Chặn nội dung theo dõi có thể giúp các trang web tải nhanh hơn, nhưng một số nút, biểu mẫu và trường đăng nhập có thể không hoạt động.">
 <!ENTITY protections.socialMediaTrackers.description "Mạng xã hội đặt trình theo dõi trên các trang web khác để theo dõi những gì bạn làm, xem và xem trực tuyến. Điều này cho phép các công ty truyền thông xã hội tìm hiểu thêm về bạn ngoài những gì bạn chia sẻ trên hồ sơ truyền thông xã hội của mình.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
