@@ -534,6 +534,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchWithDesc.label):
      This string prompts the user to use the list of one-click search engines in
      the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Този път търсете с:">
 
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
@@ -807,8 +808,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Връзка">
 <!ENTITY identity.connectionSecure "Защитена връзка">
 
+<!ENTITY identity.connectionSecure2 "Връзката е защитена">
 <!ENTITY identity.connectionNotSecure "Връзката е незащитена">
 
+<!ENTITY identity.connectionSecure3 "Връзката е защитена">
 <!ENTITY identity.connectionFile "Страницата е запазена в компютъра.">
 <!ENTITY identity.connectionVerified2 "Защитена връзка към този сайт, управляван от:">
 <!ENTITY identity.connectionInternal "Това е защитена страница на &brandShortName;.">
@@ -816,7 +819,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Въведените на страницата данни за вход може да бъдат компрометирани.">
 <!ENTITY identity.customRoot "Връзката е потвърдена от издател на сертификат, който не е разпознат от Mozilla.">
 
+<!ENTITY identity.evOwnerLabel "Собственик:">
 
+<!ENTITY identity.evOwnerLabel2 "Сертификатът е издаден на:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; блокира части от страницата, които не са шифрирани.">
@@ -855,6 +860,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Променени права">
 
+<!ENTITY identity.permissions3 "Права">
 <!ENTITY identity.permissionsEmpty "Не сте дали специфични права на този сайт.">
 <!ENTITY identity.permissionsReloadHint "За да бъдат приложени промените може да се наложи да презаредите страницата.">
 <!ENTITY identity.permissionsPreferences.tooltip "Отваряне настройките на права">
@@ -867,6 +873,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.settings.label "Настройки на защитите">
 <!ENTITY protections.report.label "Пълен отчет">
+<!ENTITY protections.showreport.label "Отчет">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -892,11 +899,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Спрени">
+<!ENTITY protections.notBlocking2.label "Разрешени">
+<!ENTITY protections.notFound.label "Не намерени">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Защо?">
 <!ENTITY protections.socialMediaTrackers.label "Проследяване от социални мрежи">
+<!ENTITY protections.crossSiteTrackingCookies.label "Бисквитки за следене в различни сайтове">
 <!ENTITY protections.trackingContent.label "Проследяващо съдържание">
 <!ENTITY protections.fingerprinters.label "Снемане на цифров отпечатък">
 <!ENTITY protections.cryptominers.label "Добиване на криптовалути">
@@ -942,6 +953,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection4.label "Проследяващо съдържание">
 
+<!ENTITY contentBlocking.manageSettings2.label "Настройки на защитите">
 <!ENTITY contentBlocking.manageSettings.accesskey "у">
 
 <!ENTITY contentBlocking.trackersView.label "Проследявания">
@@ -952,6 +964,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.socialblock.label "Проследяване от социални мрежи">
 
+<!ENTITY contentBlocking.cookies2.label "Бисквитки за следене в различни сайтове">
 
 <!ENTITY contentBlocking.cryptominers.label "Добиване на криптовалути">
 <!ENTITY contentBlocking.cryptominersView.label "Добиване на криптовалути">
