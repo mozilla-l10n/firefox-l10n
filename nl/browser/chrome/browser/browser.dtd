@@ -818,7 +818,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure2 "Verbinding veilig">
 <!ENTITY identity.connectionNotSecure "Verbinding is niet beveiligd">
 
-<!ENTITY identity.connectionSecure3 "Verbinding veilig">
+<!ENTITY identity.connectionSecure3 "Verbinding beveiligd">
 <!ENTITY identity.connectionNotSecure2 "Verbinding niet beveiligd">
 <!ENTITY identity.connectionNotSecureSecurityView "U hebt een onbeveiligde verbinding met deze website.">
 <!ENTITY identity.connectionFile "Deze pagina is op uw computer opgeslagen.">
