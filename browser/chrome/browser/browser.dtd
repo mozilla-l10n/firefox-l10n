@@ -817,6 +817,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure2 "Povezava varna">
 <!ENTITY identity.connectionNotSecure "Povezava ni varna">
+
+<!ENTITY identity.connectionNotSecure2 "Povezava ni varna">
 <!ENTITY identity.connectionNotSecureSecurityView "Niste varno povezani na to stran.">
 <!ENTITY identity.connectionFile "Ta stran je shranjena na vašem računalniku.">
 <!ENTITY identity.connectionVerified2 "Varno ste povezani na to stran, ki jo upravlja:">
@@ -827,6 +829,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "Povezavo je preveril izdajatelj digitalnega potrdila, ki ga Mozilla ne prepozna.">
 
 <!ENTITY identity.evOwnerLabel "Lastnik spletnega mesta:">
+
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; je zavrnil dele strani, ki niso varni.">
@@ -925,6 +928,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "Kriptorudarji izrabljajo zmogljivost vašega računalnika za rudarjenje digitalnega denarja. Rudarski skripti vam praznijo baterijo, upočasnjujejo računalnik in zasolijo račun za elektriko.">
 <!ENTITY protections.fingerprinters.description "Sledilci prstnih odtisov zbirajo nastavitve vašega brskalnika in računalnika, da si ustvarijo vaš profil. S pomočjo digitalnega prstnega odtisa vam lahko sledijo na različnih spletnih straneh.">
 <!ENTITY protections.trackingContent.description "Spletne strani lahko naložijo zunanje oglase, videoposnetke in drugo vsebino, ki vsebuje kodo za sledenje. Zavračanje sledilne vsebine lahko pospeši nalaganje spletnih strani, vendar nekateri gumbi in obrazci morda ne bodo delovali.">
+<!ENTITY protections.trackingContent2.description "Spletne strani lahko naložijo zunanje oglase, videoposnetke in drugo vsebino s kodo za sledenje. Zavračanje sledilne vsebine lahko pospeši nalaganje spletnih strani, vendar nekateri gumbi in obrazci morda ne bodo delovali.">
 <!ENTITY protections.socialMediaTrackers.description "Družbena omrežja postavljajo sledilce na druga spletna mesta, da bi spremljali, kaj počnete, vidite in gledate na spletu. To družbenim medijem omogoča, da o vas izvedo več kot le tisto, kar delite na svojih družbenih profilih.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
