@@ -20,7 +20,11 @@
 <!ENTITY tableBorderWidth.accessKey       "B">
 <!ENTITY tableCaption.label               "Legenda:">
 <!ENTITY tableCaption.accessKey           "L">
-<!ENTITY tableCaptionAbove.label          "Super tabella">
+<!ENTITY tableCaptionAbove.label          "Supra del tabella">
+<!ENTITY tableCaptionBelow.label          "Infra del tabella">
+<!ENTITY tableCaptionLeft.label           "A sinistra del tabella">
+<!ENTITY tableCaptionRight.label          "A dextra del tabella">
+<!ENTITY tableCaptionNone.label           "Nulle">
 
 <!ENTITY cellSelection.label              "Selection">
 <!ENTITY cellSelectCell.label             "Cella">

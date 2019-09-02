@@ -21,6 +21,7 @@
 <!ENTITY warningDesc.telemetryDesc  "Illo automaticamente invia informationes super rendimento, hardware, utilisation e personalisationes a &vendorShortName; pro adjutar meliorar &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly builds, instead of the other "community.*" strings below. -->
+<!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to https://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
 <!ENTITY community.exp.middle       " es un ">

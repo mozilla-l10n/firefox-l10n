@@ -30,8 +30,12 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP3">
 <!ENTITY popType.accesskey "P">
+<!ENTITY defaultPortLabel.label "Predefinite:">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
+<!ENTITY incomingServer.label "Servitor in arrivata:">
+<!ENTITY incomingServer.accesskey "S">
 <!-- LOCALIZATION NOTE (incomingUsername.description) : do not translate "&quot;jsmith&quot;" in below line -->
+<!ENTITY incomingUsername.label "Nomine de usator:">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 
 <!-- Entities for Outgoing Server page -->
@@ -61,8 +65,10 @@
 
 <!-- Entities for Account name page -->
 
+<!ENTITY accnameTitle.label "Nomine del conto">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 
 <!-- Entities for Done (Congratulations) page -->
 
+<!ENTITY completionTitle.label "Congratulationes!">
 <!ENTITY smtpServerNamePrefix.label "Nomine del servitor in exito (SMTP):">
