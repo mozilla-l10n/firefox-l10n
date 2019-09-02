@@ -84,7 +84,11 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Oĩpa mba'e pyahu
 cfr-whatsnew-release-notes-link-text = Emoñe’ẽ jehaipy rehegua
 cfr-whatsnew-fx70-title = { -brand-short-name } oñorairõve ne ñemigua rehe
+cfr-whatsnew-fx70-body = Ñembohekopyahu omo’ã porãve jehapykuehópe ha ikatu emoheñói ñe’ẽñemi hekorosãva peteĩteĩva tendápe g̃uarã.
 cfr-whatsnew-tracking-protect-title = Eñemo’ã tapykuehohágui
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } ojoko heta tapykuehoha ava’atygua ha tenda ojuasáva
+    ohapykuerehóva oikóva ñandutípe.
 cfr-whatsnew-tracking-protect-link-text = Ehecha ne marandu’i
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
@@ -97,8 +101,10 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = Oiko { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Marandu’i jehecha
 cfr-whatsnew-lockwise-backup-title = Eñongatujo’a ne ñe’ẽñemi
+cfr-whatsnew-lockwise-backup-body = Ko’ág̃a ikatúma ejapo ñe’ẽñemi hekorosãva ikatuhápe eike emoñepyrũhápe tembiapo.
 cfr-whatsnew-lockwise-backup-link-text = Emyandy ñongatujo’a
 cfr-whatsnew-lockwise-take-title = Egueraha ne ñe’ẽñemi nendive
+cfr-whatsnew-lockwise-take-body = Pe tembipuru’i oku’éva { -lockwise-brand-short-name } omoneĩ eikévo tekorosãme nde ñe’ẽñemi ñongatupyrépe oimeraẽva tenda guive.
 cfr-whatsnew-lockwise-take-link-text = Eguereko tembipuru'i
 
 ## Bookmark Sync
