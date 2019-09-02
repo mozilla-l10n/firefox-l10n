@@ -57,6 +57,7 @@ login-list-last-used-option = Ojepurúva ipahaitépe
 login-list-intro-title = Ndojejuhúi jeikeha
 login-list-intro-description = Eñongatúvo ñe’ẽñemi { -brand-product-name } ndive, kóva ojehecháta ápe.
 about-logins-login-list-empty-search-title = Ndojejuhúi tembiapo ñepyrũ
+about-logins-login-list-empty-search-description = Ndaipóri pe ehekáva.
 login-list-item-title-new-login = Tembiapo ñepyrũ pyahu
 login-list-item-subtitle-new-login = Emoinge nde reraite tembiapo ñepyrũme
 login-list-item-subtitle-missing-username = (puruhára hera'ỹva)
@@ -67,6 +68,7 @@ login-intro-heading = ¿Eheka ne ñe’ẽñemi ñongatupyre? Emboheko { -sync-b
 login-intro-description = Eñongatúvo nde jeike { -brand-product-name }-pe ambue mba’e’okápe.
 login-intro-instruction-fxa = Emoheñói térã eike nde { -fxaccount-brand-name }-pe mba’e’oka eñongatuhápe eikehague
 login-intro-instruction-fxa-settings = Eiporavokuaáke nde jeike { -sync-brand-short-name } ñemoĩporãme
+about-logins-intro-instruction-help = Eho <a data-l10n-name="help-link">-pe { -lockwise-brand-short-name } Pytyvõ</a> eñepytyvõve hag̃ua
 
 ## Login
 
@@ -134,3 +136,13 @@ breach-alert-text = Umi ñe’ẽñemi oñembogua térã oñemonda ko ñanduti r
 breach-alert-link = Eñemomaranduve ko mba’evai rehegua.
 breach-alert-dismiss =
     .title = Emboty ko kyhyjeha
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Eikekuaáma { $loginTitle }-pe ko puruhára reheve.
+# This is a generic error message.
+about-logins-error-message-default = Oiko jejavy eñongatukuévo ñe’ẽñemi.
