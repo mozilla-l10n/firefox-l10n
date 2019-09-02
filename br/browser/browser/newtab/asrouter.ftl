@@ -92,6 +92,25 @@ cfr-whatsnew-release-notes-link-text = Lenn an notennoù ermaeziañ
 cfr-whatsnew-fx70-title = { -brand-short-name } a stourm evit ho puhez prevez
 cfr-whatsnew-fx70-body = Gant an hizivadenn ziwezhañ eo kreñvaet ar gwarez a-enep d'an heuliañ hag aesoc'h c'hoazh eo da grouiñ gerioù-tremen diogel evit pep lec'hienn.
 cfr-whatsnew-tracking-protect-title = Gwarezit ac'hanoc'h a-enep d'an heulierien
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } a stank meur a heulier kevredadel hag etre-lec'hienn a vez o spiañ ar pezh a rit enlinenn.
+cfr-whatsnew-tracking-protect-link-text = Gwelout ho tanevell
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Heulier stanket
+        [two] Heulierien stanket
+        [few] Heulierien stanket
+        [many] Heulierien stanket
+       *[other] Heulierien stanket
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Abaoe { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Gwelout an danevell
+cfr-whatsnew-lockwise-backup-title = Gwarediñ ho kerioù-tremen
+cfr-whatsnew-lockwise-backup-body = Bremañ eo gouest da grouiñ gerioù-tremen diogel a c'hallit gwelet eus kement lec'h a gennaskit outañ.
+cfr-whatsnew-lockwise-backup-link-text = Gweredekaat ar gwaredoù
+cfr-whatsnew-lockwise-take-title = Kemerit ho kerioù-tremen ganeoc'h
 
 ## Bookmark Sync
 

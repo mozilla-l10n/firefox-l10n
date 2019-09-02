@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Dibarzhioù
        *[other] Gwellvezioù
     }
-menu-menuitem-feedback = Kas hoc'h ali
-menu-menuitem-faq = Foar ar goulennoù
+about-logins-menu-menuitem-help = Skoazell
 menu-menuitem-android-app = { -lockwise-brand-short-name } evit Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } evit iPhone hag iPad
 
@@ -60,6 +59,8 @@ login-list-last-changed-option = Kemmet da ziwezhañ
 login-list-last-used-option = Arveret da ziwezhañ
 login-list-intro-title = Titour kennaskañ ebet kavet
 login-list-intro-description = Pa enrollit ur ger-tremen e { -brand-product-name } e vo diskouezet amañ
+about-logins-login-list-empty-search-title = Titour kennaskañ ebet kavet
+about-logins-login-list-empty-search-description = N'eus disoc'h ebet a glot gant ho c'hlask
 login-list-item-title-new-login = Titour kennaskañ nevez
 login-list-item-subtitle-new-login = Enankit ho titouroù kennaskañ
 login-list-item-subtitle-missing-username = (anv arveriad ebet)
@@ -70,7 +71,7 @@ login-intro-heading = Klask a rit ho titouroù kennaskañ? Arventennit { -sync-b
 login-intro-description = M'ho peus enrollet ho titouroù kennaskañ { -brand-product-name } war un trevnad all, setu penaos kaout anezho amañ:
 login-intro-instruction-fxa = Krouit pe kennaskit d'ho { -fxaccount-brand-name } war an trevnad lec'h m'eo enrollet ho titouroù kennaskañ
 login-intro-instruction-fxa-settings = Gwiriekait ho peus diuzet ar boestoù kevaskañ Kennaskañ e arventennoù { -sync-brand-short-name }
-login-intro-instruction-faq = Gweladennit { -lockwise-brand-short-name } <a data-l10n-name="faq">Foar ar goulennoù</a> evit kaout skoazell
+about-logins-intro-instruction-help = Kit war <a data-l10n-name="help-link">skoazell { -lockwise-brand-short-name }</a> evit kaout sikour
 
 ## Login
 
@@ -83,6 +84,8 @@ login-item-origin =
 login-item-username-label = Anv arveriad
 login-item-username =
     .placeholder = anv@example.com
+about-logins-login-item-username =
+    .placeholder = (anv arveriad ebet)
 login-item-copy-username-button-text = Eilañ
 login-item-copied-username-button-text = Eilet!
 login-item-password-label = Ger-tremen
@@ -136,3 +139,13 @@ breach-alert-text = Gerioù-tremen a zo bet diskuilhet pe laeret abaoe ar wech z
 breach-alert-link = Gouzout hiroc'h a-zivout ar frailh.
 breach-alert-dismiss =
     .title = Serriñ ar galv-diwall-mañ.
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Un enankad gant an anv arveriad-se a zo evit { $loginTitle } endeo.
+# This is a generic error message.
+about-logins-error-message-default = Degouezhet ez eus bet ur fazi en ur glask enrollañ ar ger-tremen-mañ
