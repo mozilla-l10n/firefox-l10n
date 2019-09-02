@@ -18,6 +18,15 @@ graph-total-summary =
         [one] { $count } tracker blokkearre sûnt { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] { $count } trackers blokkearre sûnt { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] <b>{ $count }</b> tracker blokkearre sûnt { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> trackers blokkearre sûnt { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -39,6 +48,7 @@ cookie-tab-title = Cross-site-trackingcookies
 cookie-tab-content = Dizze cookies folgje jo op ferskate websites om gegevens te sammeljen oer wat jo online dogge. Se wurde pleatst troch tredden, lykas advertearders en analysebedriuwen. Troch cross-sitetrackingcookies te blokkearjen, ferminderet it oantal advertinsjes dat jo folget. <a data-l10n-name="learn-more-link">Mear ynfo</a>
 tracker-tab-title = Folchynhâld
 tracker-tab-content = Websites kinne eksterne advertinsjes, fideo’s en oare ynhâld lade dy't folchkoade befettet. It blokkearjen fan folchynhâld kin websites helpe flugger te laden, mar guon knoppen, formulieren en oanmeldfjilden wurkje mooglik net. <a data-l10n-name="learn-more-link">Mear ynfo</a>
+tracker-tab-description = Websites kinne eksterne advertinsjes, fideo’s en oare ynhâld lade mei folchkoade. It blokkearjen fan folchynhâld kin websites helpe flugger te laden, mar guon knoppen, formulieren en oanmeldfjilden wurkje mooglik net. <a data-l10n-name="learn-more-link">Mear ynfo</a>
 fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters sammelje ynstellingen fan jo browser en kompjûter om in profyl fan jo te meitsjen. Mei help fan dizze digitale fingerôfdruk kinne se jo op ferskate websites folgje. <a data-l10n-name="learn-more-link">Mear ynfo</a>
 cryptominer-tab-title = Cryptominers
@@ -48,6 +58,7 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } bewarret jo wachtwurden feilich yn jo browser.
 lockwise-header-content-logged-in = Bewarje en syngronisearje jo wachtwurden feilich op al jo apparaten.
 open-about-logins-button = Iepenje yn { -brand-short-name }
+about-logins-view-logins-button = Oanmeldingen werjaan
 lockwise-no-logins-content = Download de <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>-app om jo wachtwurden oeral mei hinne te nimmen.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -68,10 +79,13 @@ lockwise-sync-status =
        *[other] Syngronisearret mei { $count } oare apparaten
     }
 lockwise-sync-not-syncing = Syngronisearret net mei oare apparaten.
+lockwise-sync-not-syncing-devices = Syngronisearret net mei oare apparaten
 monitor-title = Let op datalekken
 monitor-link = Hoe't it wurket
 monitor-header-content = Sjoch op { -monitor-brand-name } om te sjen oft jo troffen binne troch in datalek en ûntfang warskôgingen oer nije datalekken.
 monitor-header-content-logged-in = { -monitor-brand-name } warskôget jo as jo gegevens foarkomme yn in bekend datalek
+monitor-header-content-no-account = Sjoch op { -monitor-brand-name } om te sjen oft jo troffen binne troch in bekend datalek en ûntfang warskôgingen oer nije datalekken.
+monitor-header-content-signed-in = { -monitor-brand-name } warskôget jo as jo gegevens foarkomme yn in bekend datalek
 monitor-sign-up = Ynskriuwe foar warskôgingen oer datalekken
 auto-scan = Hjoed automatysk scand
 # This string is displayed after a large numeral that indicates the total number
@@ -97,6 +111,30 @@ info-exposed-passwords =
     { $count ->
         [one] wachtwurd lekt yn alle lekken.
        *[other] wachtwurden lekt yn alle lekken.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] e-mailadres wurdt bewekke
+       *[other] e-mailadressen wurde bewekke
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] bekend datalek hat jo gegevens lekt
+       *[other] bekende datalekken hawwe jo gegevens lekt
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] wachtwurd lekt yn alle datalekken
+       *[other] wachtwurden lekt yn alle datalekken
     }
 full-report-link = Besjoch it folsleine rapport op <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
