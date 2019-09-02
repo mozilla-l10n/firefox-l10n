@@ -87,3 +87,11 @@ manifest-loaded-ok = Je’epyre ñemyanyhẽpyre.
 manifest-loaded-error = Ojavy ehupikuévo pe je’epyre:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Ndojejuhúi je’epyre ojehechajey hag̃ua.
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Ta'ãngachu'i kyhyjerã
+    .title = Kyhyjerã
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Ta'ãngachu'i javygua
+    .title = Javy
