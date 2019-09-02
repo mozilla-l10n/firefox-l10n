@@ -22,6 +22,7 @@ learn-more = <span data-l10n-name="link">Več o tem</span>
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ni niti vsebnik flex niti vsebnik grid.
+inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ni vsebnik flex, vsebnik grid ali vsebnik z več stolpci.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ne vpliva na ta element, ker ni vsebnik grid ali flex.
 inactive-css-not-grid-item = <strong>{ $property }</strong> ne vpliva na ta element, ker ni element grid.
 inactive-css-not-grid-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ni vsebnik grid.

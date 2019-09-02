@@ -612,6 +612,7 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Predlagaj in ustvarjaj močna gesla
     .accesskey = u
+forms-breach-alerts-learn-more-link = Več o tem
 forms-fill-logins-and-passwords =
     .label = Samodejno izpolni prijave in gesla
     .accesskey = S
