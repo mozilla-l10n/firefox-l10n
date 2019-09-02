@@ -273,7 +273,7 @@ discopane-intro = Ang mga extension at tema ay parang mga app sa iyong browser, 
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Ang ilan sa mga mungkahing ito ay pasadya. Sila na binase sa ibang mga extension na ininstall mo, sa mga profile preference, at usage statistics.
 discopane-notice-learn-more = Alamin
-privacy-policy = Patakaran sa Privacy
+privacy-policy = Patakaran sa Pribasiya
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.

@@ -57,7 +57,7 @@ onboarding-benefit-products-title = Mga mahalagang produkto
 onboarding-benefit-products-text = Tapusin ang mga bagay-bagay sa pamamagitan ng mga gamit na gumagalang sa iyong privacy sa lahat ng iyong mga device.
 onboarding-benefit-knowledge-title = Praktikal na Kaalaman
 onboarding-benefit-knowledge-text = Alamin lahat ng kailangan malaman upang manatiling listo at ligtas online.
-onboarding-benefit-privacy-title = Tunay na Privacy
+onboarding-benefit-privacy-title = Tunay na Pribasiya
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
 # Firefox Personal Data Promise is the way we honor your data in everything we

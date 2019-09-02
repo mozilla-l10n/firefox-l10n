@@ -137,7 +137,7 @@ newtab-section-menu-add-topsite = Magdagdag ng Nangungunang Site
 newtab-section-menu-add-search-engine = Magdagdag ng Search Engine
 newtab-section-menu-move-up = Ilipat Pataas
 newtab-section-menu-move-down = Ilipat Pababa
-newtab-section-menu-privacy-notice = Paunawa sa Privacy
+newtab-section-menu-privacy-notice = Paunawa sa Pribasiya
 
 ## Section aria-labels
 

@@ -39,7 +39,7 @@ category-home =
 pane-search-title = Paghanap
 category-search =
     .tooltiptext = { pane-search-title }
-pane-privacy-title = Privacy & Security
+pane-privacy-title = Pribasiya at Seguridad
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title2 = { -sync-brand-short-name }
@@ -362,7 +362,7 @@ network-proxy-connection-settings =
 
 ## Home Section
 
-home-new-windows-tabs-header = Bagong Mga Window at Tab
+home-new-windows-tabs-header = Bagong mga Window at Tab
 home-new-windows-tabs-description2 = Pumili ng kung ano ang gustong makita kapag binubuksan ang iyong homepage, mga bagong window, at mga bagong tab.
 
 ## Home Section - Home Page Customization
@@ -586,7 +586,7 @@ sync-connect-another-device = Ikonekta ang ibang device
 sync-manage-devices = I-manage ang mga device
 sync-fxa-begin-pairing = I-pares ang isa pang device
 sync-tos-link = Tuntunin ng Serbisyo
-sync-fxa-privacy-notice = Paunawa sa Privacy
+sync-fxa-privacy-notice = Paunawa sa Pribasiya
 
 ## Privacy Section
 
@@ -726,7 +726,7 @@ addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga mungkah
 
 content-blocking-header = Content Blocking
 content-blocking-enhanced-tracking-protection = Enhanced Tracking Protection
-content-blocking-section-description = Protektahan ang iyong privacy habang ikaw ay nagba-browse. Harangin ang mga tagong content na tinatrack ang mga site na binibisita mo at pino-profile ka. Maaaring bumilis ang pag-load ng mga page sa pagharang ng mga content na ito.
+content-blocking-section-description = Protektahan ang iyong pribasiya habang ikaw ay nagba-browse. Harangin ang mga tagong content na tinatrack ang mga site na binibisita mo at pino-profile ka. Maaaring bumilis ang pag-load ng mga page sa pagharang ng mga content na ito.
 content-blocking-section-top-level-description = Sinusundan ka ng mga tracker online para mangolekta ng impormasyon tungkol sa iyong mga kaugalian at interes sa pag-browse. Hinaharang ng { -brand-short-name } ang karamihan sa mga tracker na ito at iba pang mga delikadong script.
 content-blocking-learn-more = Alamin pa
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -854,7 +854,7 @@ permissions-a11y-privacy-link = Matuto ng higit pa
 
 collection-header = Pagkolekta at Paggamit ng { -brand-short-name } sa Data
 collection-description = Nagsusumikap kaming mabigyan ka ng mga pagpipilian at kolektahin lamang kung ano ang kailangan namin upang mapaganda ang { -brand-short-name } para sa lahat. Lagi kaming humihingi ng pahintulot bago tumanggap ng personal na impormasyon.
-collection-privacy-notice = Abiso pang Sarilinan
+collection-privacy-notice = Abisong Pribasiya
 collection-health-report =
     .label = Payagan ang { -brand-short-name } na magpadala ng data ng teknikal at pakikipag-ugnayan sa { -vendor-short-name }
     .accesskey = r

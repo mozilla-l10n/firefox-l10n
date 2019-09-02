@@ -33,8 +33,8 @@ graph-total-tracker-summary =
 protection-header-details-standard = Ang Antas ng Proteksyon ay naka-set sa <b>Standard</b>
 protection-header-details-strict = Ang Antas ng Proteksyon ay naka-set sa <b>Strikto</b>
 protection-header-details-custom = Ang Antas ng Proteksyon ay naka-set sa <b>Pasadya</b>
-protection-report-page-title = Mga Privacy Protection
-protection-report-content-title = Mga Privacy Protection
+protection-report-page-title = Mga Proteksyong Pribasiya
+protection-report-content-title = Mga Proteksyong Pribasiya
 etp-card-title = Enhanced Tracking Protection
 etp-card-content = Sinusundan ka ng mga tracker online para makakuha ng impormasyon tungkol sa iyong mga kaugalian at interes sa pagba-browse. Hinaharang ng { -brand-short-name } ang karamihan sa mga tracker na ito at ibang mga delikadong script.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
