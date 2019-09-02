@@ -136,3 +136,8 @@ breach-alert-text = Giriş bilgilerinizi son güncellemenizden bu yana bu web si
 breach-alert-link = Bu ihlal hakkında daha fazla bilgi edinin.
 breach-alert-dismiss =
     .title = Bu uyarıyı kapat
+
+## Error Messages
+
+# This is a generic error message.
+about-logins-error-message-default = Bu parola kaydedilirken bir hata oluştu.
