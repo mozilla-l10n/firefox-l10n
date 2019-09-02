@@ -4,6 +4,8 @@
 
 <!ENTITY autoconfigWizard2.title         "Mevcut E-posta Adresimi Kur">
 
+<!ENTITY emailWizard.title               "Mevcut E-posta Adresinizi Ayarlayın">
+<!ENTITY emailWizard.caption             "Mevcut e-posta adresimi kullanacağım">
 <!ENTITY name.label                      "Adınız:">
 <!ENTITY name.accesskey                  "A">
 <!ENTITY name.placeholder                "Ad Soyadı">
@@ -31,6 +33,7 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Etki alanındaki kullanıcı adı">
 
+<!ENTITY protocol.label                  "Protokol:">
 <!ENTITY imapLong.label                  "IMAP (uzak dizinler)">
 <!ENTITY pop3Long.label                  "POP3 (postalar bilgisayarınızda saklanacak)">
 
@@ -43,6 +46,7 @@
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Sunucu:">
+<!ENTITY portRow.label                   "Port:">
 <!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Yetkilendirme">
 <!ENTITY imap.label                      "IMAP">

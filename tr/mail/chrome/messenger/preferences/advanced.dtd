@@ -41,9 +41,9 @@
 <!ENTITY showReturnReceipts.accesskey  "A">
 
 <!-- Data Choices -->
-<!ENTITY telemetrySection.label          "Telemetry">
+<!ENTITY telemetrySection.label          "Telemetri">
 <!ENTITY telemetryDesc.label             "&brandShortName; uygulamasını iyileştirmemize yardımcı olmak için e-posta istemcinizle ilgili performans, kullanım, donanım ve özelleştirme verilerini &vendorShortName; ile paylaşır">
-<!ENTITY enableTelemetry.label           "Telemetry'yi etkinleştir">
+<!ENTITY enableTelemetry.label           "Telemetri'yi etkinleştir">
 <!ENTITY enableTelemetry.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Daha fazla bilgi alın">
 
@@ -124,5 +124,6 @@
 <!ENTITY viewSecurityDevices.accesskey "G">
 
 <!ENTITY manageCertificates2.label "Sertifikaları yönet…">
+<!ENTITY manageCertificates2.accesskey "ö">
 <!ENTITY viewSecurityDevices2.label "Güvenlik aygıtları…">
 <!ENTITY viewSecurityDevices2.accesskey "G">
