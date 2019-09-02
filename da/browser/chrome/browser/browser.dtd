@@ -817,6 +817,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure2 "Forbindelsen er sikker">
 <!ENTITY identity.connectionNotSecure "Forbindelsen er usikker">
+
+<!ENTITY identity.connectionSecure3 "Forbindelsen er sikker">
+<!ENTITY identity.connectionNotSecure2 "Forbindelsen er usikker">
 <!ENTITY identity.connectionNotSecureSecurityView "Din forbindelse til webstedet er ikke sikker.">
 <!ENTITY identity.connectionFile "Denne side er gemt på din computer.">
 <!ENTITY identity.connectionVerified2 "Du er forbundet på en sikker måde til dette websted, der er ejet af:">
@@ -827,6 +830,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "Forbindelsen blev bekræftet af en certifikatudsteder, som Mozilla ikke kender.">
 
 <!ENTITY identity.evOwnerLabel "Webstedet er ejet af:">
+
+<!ENTITY identity.evOwnerLabel2 "Certifikatet er udstedt til:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; har blokeret usikre dele af denne side.">
@@ -925,6 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "Cryptominers bruger din computers ressourcer til at udvinde digital valuta. Cryptomining-scripts gør din computer langsommere og får den til at bruge mere strøm, og de kan dermed dræne dit batteri.">
 <!ENTITY protections.fingerprinters.description "Fingerprinters indsamler indstillinger fra din browser og din computer for at skabe en profil af dig. Ved at bruge dette digitale fingeraftryk kan de spore dig på tværs af forskellige websteder.">
 <!ENTITY protections.trackingContent.description "Websteder kan indlæse eksterne reklamer, videoer og andet indhold, der indeholder sporings-kode. Ved at blokere sporings-indhold kan sider ofte indlæses hurtigere, men nogle knapper, formularer og login-felter virker måske ikke.">
+<!ENTITY protections.trackingContent2.description "Websteder kan indlæse eksterne reklamer, videoer og andet indhold, der indeholder sporings-kode. Ved at blokere sporings-indhold kan sider ofte indlæses hurtigere, men nogle knapper, formularer og login-felter virker måske ikke.">
 <!ENTITY protections.socialMediaTrackers.description "Sociale netværk placerer sporings-mekanismer på andre websteder for at følge med i, hvad du gør og ser på nettet. Det giver virksomhederne bag de sociale medier mulighed for at lære mere om dig, end det du ellers selv deler på de sociale medier.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.

@@ -143,3 +143,14 @@ breach-alert-text = Adgangskoder er blevet lækket eller stjålet fra dette webs
 breach-alert-link = Læs mere om denne datalæk.
 breach-alert-dismiss = 
     .title = Luk denne advarsel
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Der findes allerede et login for { $loginTitle } med samme brugernavn.
+
+# This is a generic error message.
+about-logins-error-message-default = Der opstod en fejl med at gemme adgangskoden.
