@@ -135,3 +135,13 @@ breach-alert-text = Mật khẩu đã bị rò rỉ hoặc đánh cắp từ tra
 breach-alert-link = Tìm hiểu thêm về rò rỉ này.
 breach-alert-dismiss =
     .title = Đóng cảnh báo này
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Một mục nhập cho { $loginTitle } với tên người dùng đó đã tồn tại.
+# This is a generic error message.
+about-logins-error-message-default = Đã xảy ra lỗi trong khi cố gắng lưu mật khẩu này.
