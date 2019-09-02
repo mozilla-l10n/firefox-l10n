@@ -614,7 +614,7 @@
 <!ENTITY protections.trackingContent.label "Contenuti traccianti">
 <!ENTITY protections.fingerprinters.label "Fingerprinter">
 <!ENTITY protections.cryptominers.label "Cryptominer">
-<!ENTITY protections.noTrackersFound.description "Nessun elemento tracciante noto a &brandShortName; è stato rilevato in questa pagina.">
+<!ENTITY protections.noTrackersFound.description "Nessun elemento tracciante conosciuto da &brandShortName; è stato rilevato in questa pagina.">
 <!ENTITY protections.crossSiteTrackingCookies.description "Questi cookie ti seguono da un sito all’altro per raccogliere informazioni su ciò che fai online. Sono impostati da terze parti come agenzie pubblicitarie e di analisi dati.">
 <!ENTITY protections.cryptominers.description "I cryptominer utilizzano le risorse del sistema per effettuare il “mining” di valute digitali. Questi script consumano la batteria, rallentano il computer e possono aumentare il costo della bolletta elettrica.">
 <!ENTITY protections.fingerprinters.description "I fingerprinter raccolgono informazioni sulle impostazioni del browser e del computer al fine di creare un tuo profilo. Utilizzando questa “impronta digitale” sono in grado di seguirti attraverso siti diversi.">
