@@ -16,6 +16,7 @@ about-telemetry-option-group-older = Más antiguo
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Datos de Telemetry
+about-telemetry-current-store = Almacenamiento actual:
 about-telemetry-more-information = ¿Buscas más información?
 about-telemetry-firefox-data-doc = La <a data-l10n-name="data-doc-link">documentación de datos de Firefox</a> contiene guías sobre cómo trabajar con tus herramientas de datos.
 about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">documentación de cliente de Firefox Telemetry</a> incluye definiciones para conceptos, documentación de API y referencias de datos.
@@ -92,6 +93,8 @@ about-telemetry-no-search-results-all = ¡Lo sentimos! No se encontraron resulta
 about-telemetry-no-data-to-display = ¡Lo sentimos! No hay datos disponibles en este momento en “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = ping actual
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = datos actuales
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = todo
 # button label to copy the histogram
@@ -126,3 +129,8 @@ about-telemetry-category-header = categoría
 about-telemetry-method-header = método
 about-telemetry-object-header = objeto
 about-telemetry-extra-header = extra
+about-telemetry-origin-origin = origen
+about-telemetry-origin-count = recuento
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = Proceso de { $process }
