@@ -48,6 +48,7 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name }(e)k zure pasahitzak nabigatzailean gordetzen ditu modu seguruan.
 lockwise-header-content-logged-in = Gorde eta sinkronizatu zure pasahitzak modu seguruan zure gailu guztietara.
 open-about-logins-button = Ireki { -brand-short-name }(e)n
+about-logins-view-logins-button = Ikusi saio-hasierak
 lockwise-no-logins-content = Eskuratu <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> aplikazioa zure pasahitzak edonora eramateko.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -68,6 +69,7 @@ lockwise-sync-status =
        *[other] Beste { $count } gailuetara sinkronizatzen
     }
 lockwise-sync-not-syncing = Ez da beste gailuetara sinkronizatzen ari.
+lockwise-sync-not-syncing-devices = Ez da beste gailuetara sinkronizatzen ari
 monitor-title = Erne ibili datuen inguruko urratzeekin
 monitor-link = Nola dabilen
 monitor-header-content = Egiaztatu { -monitor-brand-name } datuen inguruko urratze batekin zerikusirik izan duzun ikusteko eta urratze berriei buruzko abisuak jasotzeko.

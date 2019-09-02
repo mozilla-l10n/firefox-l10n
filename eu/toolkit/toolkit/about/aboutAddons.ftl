@@ -98,9 +98,11 @@ detail-private-browsing-description2 = Baimenduta dagoenean, hedapenak zure line
 # cannot be overridden by the user.
 detail-private-disallowed-label = Ez da leiho pribatuetan onartzen
 detail-private-disallowed-description = Hedapen hau ez dabil leiho pribatuetan. <label data-l10n-name="detail-private-browsing-learn-more">Argibide gehiago</label>
+detail-private-disallowed-description2 = Hedapen hau ez dabil nabigatze pribatuan. <a data-l10n-name="learn-more">Argibide gehiago</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Leiho pribatuetarako sarbidea behar du
 detail-private-required-description = Hedapen honek zure lineako jardueren sarbidea du nabigatze pribatuko moduan. <label data-l10n-name="detail-private-browsing-learn-more">Argibide gehiago</label>
+detail-private-required-description2 = Hedapen honek zure online jardueretarako sarbidea du nabigatze pribatuan. <a data-l10n-name="learn-more">Argibide gehiago</a>
 detail-private-browsing-on =
     .label = Baimendu
     .tooltiptext = Gaitu nabigatze pribatuan
@@ -374,6 +376,11 @@ addon-detail-private-browsing-disallow = Ez baimendu
 addon-badge-recommended =
     .title = Gomendatua
     .alt = Gomendatua
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = Segurtasun eta errendimendurako gure estandarrak betetzen dituzten hedapenak gomendatzen ditu { -brand-product-name }(e)k
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Eguneraketa erabilgarriak
 recent-updates-heading = Azken eguneraketak
 release-notes-loading = Kargatzen…
