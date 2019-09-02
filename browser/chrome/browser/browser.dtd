@@ -137,6 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Трябва да потвърдите сметката си преди да може да използвате синхронизиране.">
 <!ENTITY fxa.unverified.button.label "Настройки на &syncBrand.shortName.label;…">
 
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -242,6 +243,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Управление превеждането на страници">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Управление използването на софтуер с DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Отваря панела за MIDI">
+
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Забранили сте на страницата достъп до вашата камера.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Забранили сте на страницата достъп до вашия микрофон.">
@@ -528,6 +530,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Търсене с:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -800,16 +807,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Връзка">
 <!ENTITY identity.connectionSecure "Защитена връзка">
 
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-
 <!ENTITY identity.connectionNotSecure "Връзката е незащитена">
+
 <!ENTITY identity.connectionFile "Страницата е запазена в компютъра.">
 <!ENTITY identity.connectionVerified2 "Защитена връзка към този сайт, управляван от:">
 <!ENTITY identity.connectionInternal "Това е защитена страница на &brandShortName;.">
 <!ENTITY identity.extensionPage "Страницата е отворена от разширение.">
 <!ENTITY identity.insecureLoginForms2 "Въведените на страницата данни за вход може да бъдат компрометирани.">
 <!ENTITY identity.customRoot "Връзката е потвърдена от издател на сертификат, който не е разпознат от Mozilla.">
+
 
 
 <!-- Strings for connection state warnings. -->
@@ -848,6 +854,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 <!ENTITY identity.permissions2 "Променени права">
+
 <!ENTITY identity.permissionsEmpty "Не сте дали специфични права на този сайт.">
 <!ENTITY identity.permissionsReloadHint "За да бъдат приложени промените може да се наложи да презаредите страницата.">
 <!ENTITY identity.permissionsPreferences.tooltip "Отваряне настройките на права">
@@ -856,6 +863,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.etpON.header "Защитата от проследяване е ВКЛЮЧЕНА за сайта">
 <!ENTITY protections.etpOFF.header "Защитата от проследяване е ИЗКЛЮЧЕНА за сайта">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.settings.label "Настройки на защитите">
 <!ENTITY protections.report.label "Пълен отчет">
 <!-- LOCALIZATION NOTE:
@@ -877,9 +886,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Страницата все още е не работи, въпреки изключените защити?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Докладване">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Защо?">
-<!ENTITY protections.socialMediaTrackers.label "Проследявания от социални мрежи">
-
+<!ENTITY protections.socialMediaTrackers.label "Проследяване от социални мрежи">
+<!ENTITY protections.trackingContent.label "Проследяващо съдържание">
+<!ENTITY protections.fingerprinters.label "Снемане на цифров отпечатък">
+<!ENTITY protections.cryptominers.label "Добиване на криптовалути">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -918,18 +938,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "Проследявания">
 
-
 <!ENTITY contentBlocking.manageSettings.label "Управление на ограничаването на съдържание">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Проследяващо съдържание">
+
 <!ENTITY contentBlocking.manageSettings.accesskey "у">
 
 <!ENTITY contentBlocking.trackersView.label "Проследявания">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "За да ограничите всички проследявания използвайте ниво „Строго“.">
 
-<!ENTITY contentBlocking.socialblock.label "Проследявания от социални мрежи">
-<!ENTITY contentBlocking.socialblockView.label "Спрени проследявания от социални мрежи">
-
 <!ENTITY contentBlocking.cookies.label "Бисквитки">
 <!ENTITY contentBlocking.cookiesView.label "Бисквитки и данни на страници">
+
+<!ENTITY contentBlocking.socialblock.label "Проследяване от социални мрежи">
+
 
 <!ENTITY contentBlocking.cryptominers.label "Добиване на криптовалути">
 <!ENTITY contentBlocking.cryptominersView.label "Добиване на криптовалути">
