@@ -58,6 +58,7 @@ extensions-warning-update-security-container =
 
 ## Recommended add-ons page
 
+discopane-notice-learn-more = Ka´vi kue´eka
 
 ## Add-on actions
 
