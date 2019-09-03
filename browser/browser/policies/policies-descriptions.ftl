@@ -69,6 +69,7 @@ policy-OfferToSaveLogins = Hacer cumplir la configuración para permitir que { -
 policy-OfferToSaveLoginsDefault = Establecer el valor predeterminado para permitir que { -brand-short-name } ofrezca recordar inicios de sesión y contraseñas guardados. Se aceptan valores verdaderos y falsos.
 policy-OverrideFirstRunPage = Anular la página de la primera ejecución. Establecer esta política en blanco si desea deshabilitar la página de la primera ejecución.
 policy-OverridePostUpdatePage = Anular la página "Novedades" posterior a la actualización. Establecer esta política en blanco si quiere deshabilitar la página posterior a la actualización.
+policy-PasswordManagerEnabled = Habilitar guardar contraseñas en el administrador de contraseñas.
 policy-Permissions = Configurar permisos para cámara, micrófono, ubicación y notificaciones.
 policy-PopupBlocking = Permitir que ciertos sitios web muestren ventanas emergentes de manera predeterminada.
 policy-Preferences = Establezca y bloquee el valor para un subconjunto de preferencias.
