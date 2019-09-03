@@ -814,9 +814,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Konexioa">
 <!ENTITY identity.connectionSecure "Konexio segurua">
-
-<!ENTITY identity.connectionSecure2 "Konexio segurua">
 <!ENTITY identity.connectionNotSecure "Konexioa ez da segurua">
+
+<!ENTITY identity.connectionSecure3 "Konexio segurua">
+<!ENTITY identity.connectionNotSecure2 "Konexio ez-segurua">
 <!ENTITY identity.connectionNotSecureSecurityView "Ez zaude modu seguruan konektatuta gune honetara.">
 <!ENTITY identity.connectionFile "Orri hau zure ordenagailuan biltegiratuta dago.">
 <!ENTITY identity.connectionVerified2 "Modu seguruan zaude konektatuta gune honetara. Arduraduna:">
@@ -826,7 +827,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Orri honetan sartutako saio-hasierak arriskuan egon litezke.">
 <!ENTITY identity.customRoot "Mozillak onetsi gabeko ziurtagiri-jaulkitzaile batek egiaztatu du konexioa.">
 
-<!ENTITY identity.evOwnerLabel "Gunearen jabea:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName;(e)k seguruak ez diren orri honetako zatiak blokeatu ditu.">
@@ -862,9 +862,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Baimenak">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Baimenen multzoa">
-
 <!ENTITY identity.permissions3 "Baimenak">
 <!ENTITY identity.permissionsEmpty "Ez diozu gune honi baimen berezirik eman.">
 <!ENTITY identity.permissionsReloadHint "Agian orria berritu beharko duzu aldaketek eragina izan dezaten.">
@@ -878,7 +875,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Jarraipenaren babes hobetuari buruzko informazio gehiago">
 <!ENTITY protections.settings.label "Babesaren ezarpenak">
-<!ENTITY protections.report.label "Erakutsi txosten osoa">
 <!ENTITY protections.showreport.label "Erakutsi txostena">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -896,7 +892,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Ordainketak">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Iruzkinak">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Bideoak">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Gunea oraindik apurtuta dago babesak desaktibatu ondoren?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Bidali txostena">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -924,7 +919,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Cookie hauek guneen artean jarraitzen zaituzte zure lineako jarduerari buruzko datuak biltzeko. Hirugarrenek ezartzen dituzte hauek, adibidez iragarleen eta estatistiken enpresek.">
 <!ENTITY protections.cryptominers.description "Kriptomeatzariek zure sistemaren konputazio-ahalmena erabiltzen dute diru digitala ustiatzeko. Script kriptomeatzariek zure bateria agortzen dute, zure ordenagailua makaltzen dute eta zure elektrizitate-faktura igo dezakete.">
 <!ENTITY protections.fingerprinters.description "Hatz-marka bidezko jarraipenak zuri buruzko profil bat osatzen du zure nabigatzailetik eta ordenagailutik ezarpenak bilduz. Hatz-marka digital hau erabiliz, hainbat webgunetan zehar zure jarraipena egin dezakete.">
-<!ENTITY protections.trackingContent.description "Webguneek kanpoko iragarkiak, bideoak eta jarraipen-kodea izan lezaketen bestelako edukiak karga ditzakete. Edukiaren jarraipena blokeatzeak guneak azkarrago kargatzen lagun dezake baina zenbait botoi, inprimaki eta saio-hasierako eremu ez ibiltzea eragin lezake.">
 <!ENTITY protections.socialMediaTrackers.description "Egiten eta ikusten duzunaren jarraipena egin ahal izateko, jarraipen-elementuak ipintzen dituzte sare sozialek beste webguneetan. Honen bitartez sare sozialetako enpresek zuri buruz dagoeneko dakitena baino gehiago jakin dezakete.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.

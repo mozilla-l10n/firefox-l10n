@@ -79,8 +79,6 @@ login-item-origin-label = Webgunearen helbidea
 login-item-origin =
     .placeholder = https://www.adibidea.eus
 login-item-username-label = Erabiltzaile-izena
-login-item-username =
-    .placeholder = izena@adibidea.eus
 about-logins-login-item-username =
     .placeholder = (erabiltzaile-izenik ez)
 login-item-copy-username-button-text = Kopiatu
@@ -136,3 +134,8 @@ breach-alert-text = Zure saio-hasierako datuak eguneratu zenituen azken alditik 
 breach-alert-link = Segurtasun-urratze honi buruzko argibide gehiago.
 breach-alert-dismiss =
     .title = Itxi abisu hau
+
+## Error Messages
+
+# This is a generic error message.
+about-logins-error-message-default = Errorea gertatu da pasahitz hau gordetzen saiatzean.
