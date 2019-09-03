@@ -703,15 +703,15 @@ sitedata-cookies-permissions =
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra degli indirizzi
-addressbar-suggest = Nella barra degli indirizzi visualizza suggerimenti da
+addressbar-suggest = Nella barra degli indirizzi visualizza suggerimenti da:
 addressbar-locbar-history-option =
-    .label = cronologia di navigazione
+    .label = Cronologia di navigazione
     .accesskey = n
 addressbar-locbar-bookmarks-option =
-    .label = segnalibri
+    .label = Segnalibri
     .accesskey = g
 addressbar-locbar-openpage-option =
-    .label = schede aperte
+    .label = Schede aperte
     .accesskey = d
 addressbar-suggestions-settings = Modifica le impostazioni relative ai suggerimenti dei motori di ricerca
 
