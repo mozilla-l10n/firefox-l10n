@@ -52,3 +52,4 @@ accessibility-keyboard-issue-tabindex = Уникайте значення атр
 accessibility-keyboard-issue-action = Інтерактивні елементи повинні мати можливість активуватися клавіатурою. <a>Докладніше</a>
 accessibility-keyboard-issue-focusable = Інтерактивні елементи повинні бути фокусовані. <a>Докладніше</a>
 accessibility-keyboard-issue-focus-visible = У фокусованому елементі може бути відсутній styling фокусу. <a>Докладніше</a>
+accessibility-keyboard-issue-mouse-only = Елементи, які можна натиснути, повинні бути фокусовані і мати інтерактивну семантику. <a>Докладніше</a>
