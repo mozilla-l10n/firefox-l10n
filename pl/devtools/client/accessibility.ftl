@@ -52,3 +52,4 @@ accessibility-keyboard-issue-tabindex = Unikaj używania atrybutu <code>tabindex
 accessibility-keyboard-issue-action = Elementy interaktywne muszą być możliwe do aktywacji za pomocą klawiatury. <a>Więcej informacji</a>
 accessibility-keyboard-issue-focusable = Elementy interaktywne muszą mieć możliwość aktywacji. <a>Więcej informacji</a>
 accessibility-keyboard-issue-focus-visible = W elemencie z możliwością aktywacji może brakować stylu aktywacji. <a>Więcej informacji</a>
+accessibility-keyboard-issue-mouse-only = Elementy, które można kliknąć, muszą mieć możliwość aktywacji i powinny mieć interaktywną semantykę. <a>Więcej informacji</a>
