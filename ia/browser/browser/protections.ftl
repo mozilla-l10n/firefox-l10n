@@ -79,8 +79,8 @@ auto-scan = Automaticamente scandite hodie
 # your localization, because it would result in the number showing twice.
 info-monitored-emails =
     { $count ->
-        [one] Adresse email a controlar
-       *[other] Adresses email a controlar
+        [one] Adresse de e-mail surveliate
+       *[other] Adresses de e-mail surveliate
     }
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
