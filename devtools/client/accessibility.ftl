@@ -52,3 +52,4 @@ accessibility-keyboard-issue-tabindex = 避免使用大于 0 的 <code>tabindex<
 accessibility-keyboard-issue-action = 交互式元素必须可用键盘激活。<a>详细了解</a>
 accessibility-keyboard-issue-focusable = 交互式元素必须可被聚焦。<a>详细了解</a>
 accessibility-keyboard-issue-focus-visible = 可聚焦元素可能缺少聚焦样式。<a>详细了解</a>
+accessibility-keyboard-issue-mouse-only = 可点击元素必须可被聚焦，且应有交互式语义。<a>详细了解</a>
