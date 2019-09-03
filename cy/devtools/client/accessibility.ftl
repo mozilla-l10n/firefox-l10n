@@ -52,3 +52,4 @@ accessibility-keyboard-issue-tabindex = Ceisiwch osgoi defnyddio priodoledd <cod
 accessibility-keyboard-issue-action = Rhaid gallu actifadu elfennau rhyngweithiol gan ddefnyddio bysellfwrdd. <a>Dysgu rhagor</a>
 accessibility-keyboard-issue-focusable = Rhaid i elfennau rhyngweithiol fod yn ffocwsadwy. <a>Dysgu rhagor</a>
 accessibility-keyboard-issue-focus-visible = Efallai bod elfen ffocwsadwy yn brin o steilio ffocws. <a>Dysgu rhagor</a>
+accessibility-keyboard-issue-mouse-only = Dylai elfennau clicadwy fod â semanteg ryngweithiol. <a>Dysgu rhagor</a>

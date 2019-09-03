@@ -83,8 +83,6 @@ login-item-origin-label = Cyfeiriad Gwefan
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Enw Defnyddiwr
-login-item-username =
-    .placeholder = name@example.com
 about-logins-login-item-username =
     .placeholder = (dim enw defnyddwyr)
 login-item-copy-username-button-text = Copïo
@@ -140,3 +138,13 @@ breach-alert-text = Cafodd cyfrineiriau eu ryddhau neu eu dwyn o'r wefan hon ers
 breach-alert-link = Dysgu rhagor am y tor-data hwn.
 breach-alert-dismiss =
     .title = Diffodd y rhybudd
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Mae mewngofnod ar gyfer { $loginTitle } â'r enw defnyddiwr hwnnw'n bodoli eisoes.
+# This is a generic error message.
+about-logins-error-message-default = Digwyddodd gwall wrth geisio gadw'r cyfrinair hwn.
