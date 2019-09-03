@@ -39,9 +39,7 @@ menu-menuitem-preferences =
       [windows] Opzioni
      *[other] Preferenze
   }
-menu-menuitem-feedback = Comunicaci la tua opinione
 about-logins-menu-menuitem-help = Supporto
-menu-menuitem-faq = Domande più frequenti
 menu-menuitem-android-app = { -lockwise-brand-short-name } per Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } per iPhone e iPad
 
@@ -72,7 +70,6 @@ login-intro-heading = Stai cercando le credenziali che hai salvato? Configura { 
 login-intro-description = Se le credenziali sono salvate in { -brand-product-name } su un altro dispositivo, ecco come renderle disponibili qui:
 login-intro-instruction-fxa = Accedi o crea un { -fxaccount-brand-name } sul dispositivo dove sono salvate le credenziali
 login-intro-instruction-fxa-settings = Assicurati che la casella “Credenziali” sia selezionata nelle impostazioni di { -sync-brand-short-name }
-login-intro-instruction-faq = Consulta le <a data-l10n-name="faq">domande più frequenti</a> di { -lockwise-brand-short-name } per ulteriori informazioni
 about-logins-intro-instruction-help = Visita il <a data-l10n-name="help-link">supporto per { -lockwise-brand-short-name }</a> per ulteriori informazioni
 
 ## Login
@@ -83,8 +80,6 @@ login-item-origin-label = Indirizzo web
 login-item-origin =
   .placeholder = https://www.example.com
 login-item-username-label = Nome utente
-login-item-username =
-  .placeholder = nome@example.com
 about-logins-login-item-username =
   .placeholder = (nessun nome utente)
 login-item-copy-username-button-text = Copia
