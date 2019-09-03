@@ -153,6 +153,8 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-highlights-options-bookmarks =
+    .label = बुकमाकॅफोर
 
 ## Search Section
 
@@ -182,6 +184,8 @@ search-keyword-warning-bookmark = नोंथाङा बावैसो ब�
 
 containers-preferences-button =
     .label = पसन्दफोर
+containers-remove-button =
+    .label = बोखार
 
 ## Sync Section - Signed out
 
@@ -243,7 +247,7 @@ history-clear-on-close-settings =
 ## Privacy Section - Address Bar
 
 addressbar-locbar-bookmarks-option =
-    .label = बुकमार्क
+    .label = बुकमाकॅफोर
     .accesskey = k
 addressbar-locbar-openpage-option =
     .label = टेबखौ खेव

@@ -96,6 +96,7 @@ try-newer-driver = नोंथांनि ग्राफिक्स ड्�
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType पेरामिटारफोर
+yes = नंगौ
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -111,6 +112,7 @@ loaded-lib-versions = बाहायनाय बिसान
 has-seccomp-bpf = Seccomp-BPF (सिस्टेम कल फिल्टारिं)
 can-sandbox-content = कन्टेन्ट प्रचेस सेण्डबक्सिं
 can-sandbox-media = मेडिया प्लागिन सेण्डबक्सिं
+launcher-process-status-0 = मावथि खालामबाय
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

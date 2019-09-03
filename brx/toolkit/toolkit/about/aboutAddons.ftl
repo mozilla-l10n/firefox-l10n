@@ -104,9 +104,6 @@ detail-rating =
     .value = थाखो फारि
 addon-restart-now =
     .label = दानो फिन जागाय
-extensions-view-discover =
-    .name = Add-ons खौ मोन
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = दानि आपडेट
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -181,3 +178,22 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = आपडेटफोरखौ इनष्टल खालाम
     .tooltiptext = बे लिस्टयाव थानाय आपडेटखौ इनष्टल खालाम
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+remove-addon-button = बोखार
+addons-enabled-heading = मावथि खालामबाय
+extension-enabled-heading = मावथि खालामबाय
+theme-enabled-heading = मावथि खालामबाय
+plugin-enabled-heading = मावथि खालामबाय
+dictionary-enabled-heading = मावथि खालामबाय
+locale-enabled-heading = मावथि खालामबाय
+
+## Pending uninstall message bar
+
