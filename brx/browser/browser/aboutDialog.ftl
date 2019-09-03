@@ -7,7 +7,7 @@ aboutDialog-title =
 update-checkForUpdatesButton =
     .label = आपडेटखौ आनजाद खालाम
     .accesskey = C
-update-checkingForUpdates = आपडेटफोरनि थाखाय आनजाद खालाम
+update-checkingForUpdates = आपडेटफोरनि थाखाय आनजाद खालाम...
 update-downloading = <img data-l10n-name="icon"/>आपडेटखौ डाउनल'ड खालाम गासिनो दं — <label data-l10n-name="download-status"/>
 update-applying = आपडेटखौ बाहायगासिनो दं...
 update-failed = आपडेट खालामनाया फेलें जाबाय।<label data-l10n-name="failed-link">गोदानथार लिरस्लायनायखौ डाउनल'ड खालाम</label>
@@ -17,6 +17,7 @@ update-noUpdatesFound = { -brand-short-name } आ गोदान
 update-otherInstanceHandlingUpdates = { -brand-short-name } आ गुबुन मोनसे बिदिन्थिजों आपडेट खालामजागासिनो दं।
 update-manual = ..आव आपडेटफोर दं<label data-l10n-name="manual-link"/>
 update-unsupported = नोंथाङा बे सिस्टेमआव आरोबाव आपडेट खालामनो हाया।<label data-l10n-name="unsupported-link">गोबां सोलों</label>
+update-restarting = फिन जागाय गासिनो दङ...
 channel-description = नोंथाङा दासान्दि दं<label data-l10n-name="current-channel"></label>सेनेलखौ आपडेट खालाम।
 warningDesc-version = { -brand-short-name } आ आनजादलु आरो दिदोमनङै जानो हागौ।
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>आ मोनसे<label data-l10n-name="community-exp-creditsLink">बुहुमनां माहारि</label>वेबखौ खेवनानै दोननो, राइजो-राजा आरो बयबो हाबहो हाथाव खालामनो जयै खामानि मावगासिनो दं
@@ -25,3 +26,14 @@ helpus = मदद खालामनो लुबैयो? <label data-l10n-na
 bottomLinks-license = लाइसेन्सिं फोरमायथिहोग्रा
 bottomLinks-rights = जोबथा-बाहायग्रा मोनथाइ
 bottomLinks-privacy = गुमुरगोनां पलिसि
+# Example of resulting string: 66.0.1 (64-bit)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version = { $version }({ $bits }-बिट)
+# Example of resulting string: 66.0a1 (2019-01-16) (64-bit)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version-nightly = { $version } ({ $isodate }) ({ $bits }-बिट)

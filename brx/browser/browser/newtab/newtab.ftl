@@ -8,6 +8,10 @@
 
 ## Search box component.
 
+# "Search" is a verb/action
+newtab-search-box-search-button =
+    .title = नागिर
+    .aria-label = नागिर
 
 ## Top Sites - General form dialog.
 

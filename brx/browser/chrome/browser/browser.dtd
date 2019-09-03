@@ -180,6 +180,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY searchItem.title             "नागिर">
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "ह'म">
@@ -210,8 +211,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "डाउनल'डफोर">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "दावनल'दफोर">
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Add-ons">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
@@ -313,6 +316,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "गोबां आइटेम दाजाबदेर...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
@@ -360,6 +364,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "नागिर">
+<!ENTITY searchIcon.tooltip           "नागिर">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -373,6 +379,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY search.label                 "नागिर">
 <!ENTITY searchAfter.label            "">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
