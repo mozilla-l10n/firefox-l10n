@@ -25,6 +25,7 @@
 <!ENTITY pref.default_event_length.label "기본 시간:" >
 <!ENTITY pref.default_event_length.accesskey "E">
 
+<!ENTITY pref.default_event_task_length.label "기본 이벤트와 작업 길이">
 <!ENTITY pref.default_event_task_length.accesskey "E">
 
 <!ENTITY pref.default_task_none.label "없음">
