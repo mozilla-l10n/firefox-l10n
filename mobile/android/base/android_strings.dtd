@@ -34,6 +34,7 @@
 <!ENTITY firstrun_button_notnow "ఇప్పుడు కాదు">
 <!ENTITY firstrun_button_next "తదుపరి">
 
+<!ENTITY firstrun_signin_button2 "ప్రవేశించు">
 
 <!ENTITY firstrun_tabqueue_title "లంకెలు">
 
@@ -596,7 +597,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "ప్రాంతం">
 <!ENTITY bookmark_edit_keyword "కీపదం">
 <!ENTITY bookmark_select_folder "సంచికని ఎంచుకోండి">
-
 <!ENTITY bookmark_edit_undo "చర్యరద్దు">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -880,9 +880,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "ఆఫ్ లైన్లో చదవడానికి బుక్మార్క్ రీడర్ వ్యూ ఉపయోగించండి.">
 <!ENTITY helper_triple_readerview_open_button "బుక్ మార్క్ లకు జోడించండి">
 
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "&brandShortName;‌కి స్వాగతం">
-<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
-These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_description "మీ Firefox ఖాతాతో ఇష్టాంశాలను, సంకేతపదాలను, ఇంకా మరెన్నిటినో సింక్రనించుకోవడం మొదలుపెట్టండి.">
+<!ENTITY activity_stream_signin_button "ప్రవేశించు">
 
 <!ENTITY activity_stream_topsites "మేటి సైట్లు">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
