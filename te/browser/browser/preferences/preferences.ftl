@@ -298,6 +298,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = మీరు టైపుచేయడం ప్రారంభించినప్పటి నుంచి పాఠ్యము‍ కొరకు శోధించు
     .accesskey = x
+browsing-picture-in-picture-learn-more = ఇంకా తెలుసుకోండి
 browsing-cfr-recommendations-learn-more = ఇంకా తెలుసుకోండి
 
 ## General Section - Proxy
@@ -545,6 +546,7 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = మినహాయింపులు…
     .accesskey = x
+forms-breach-alerts-learn-more-link = ఇంకా తెలుసుకోండి
 forms-saved-logins =
     .label = భద్రపరచిన ప్రవేశాలు…
     .accesskey = L

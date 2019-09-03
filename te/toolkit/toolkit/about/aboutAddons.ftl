@@ -223,6 +223,10 @@ discopane-notice-learn-more = ఇంకా తెలుసుకోండి
 #   $dailyUsers (number) - The number of daily users.
 user-count = వాడుకరులు: { $dailyUsers }
 install-theme-button = అలంకారాన్ని స్థాపించు
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = మరిన్ని ఎంపికలు
 
 ## Add-on actions
 
