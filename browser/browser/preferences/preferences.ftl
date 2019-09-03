@@ -727,8 +727,8 @@ addressbar-suggestions-settings = Настройки на предложения
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Ограничаване на съдържание
-content-blocking-enhanced-tracking-protection = Разширена защита от проследяване
 content-blocking-section-description = Защитете личните си данни, докато разглеждате. Ограничете невидимото съдържание, което следи посещаваните от вас страници и ви профилира. Спирането на част от това съдържание може да подобри зареждането на страниците.
+content-blocking-enhanced-tracking-protection = Разширена защита от проследяване
 content-blocking-learn-more = Научете повече
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -798,7 +798,7 @@ content-blocking-fingerprinters-label =
 ## Privacy Section - Tracking
 
 tracking-manage-exceptions =
-    .label = Управление на изключенията…
+    .label = Изключения…
     .accesskey = и
 
 ## Privacy Section - Permissions
