@@ -62,6 +62,8 @@ browser-containers-settings =
 
 ## General Section - Language & Appearance
 
+default-font-size = महर
+    .accesskey = S
 advanced-fonts =
     .label = Advanced…
     .accesskey = A

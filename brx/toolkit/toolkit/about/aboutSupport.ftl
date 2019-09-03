@@ -107,6 +107,7 @@ gpu-device-id = डिभाइस ID
 gpu-subsys-id = Subsys ID
 gpu-driver-version = ड्राइभार बिसान
 gpu-driver-date = ड्राइभार अक्ट'
+gpu-active = मावथि
 min-lib-versions = खमसिन बिसान मिजिंथिबाय
 loaded-lib-versions = बाहायनाय बिसान
 has-seccomp-bpf = Seccomp-BPF (सिस्टेम कल फिल्टारिं)
@@ -124,3 +125,4 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-active = मावथि

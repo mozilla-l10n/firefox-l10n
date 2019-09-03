@@ -71,10 +71,14 @@ fonts-default-serif =
     .label = सेरिफ
 fonts-default-sans-serif =
     .label = सान्स सेरिफ
+fonts-proportional-size = महर
+    .accesskey = z
 fonts-serif = सेरिफ
     .accesskey = S
 fonts-sans-serif = सान्स-सेरिफ
     .accesskey = n
+fonts-monospace-size = महर
+    .accesskey = e
 fonts-minsize-none =
     .label = मोनसेबो नङा
 
