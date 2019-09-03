@@ -20,7 +20,7 @@ list-empty-recent-updates =
 list-empty-find-updates =
     .label = 업데이트 확인
 list-empty-button =
-    .label = 부가 기능 자세히 보기
+    .label = 부가 기능 더 알아보기
 install-addon-from-file =
     .label = 파일에서 부가 기능 설치…
     .accesskey = I
@@ -301,8 +301,8 @@ addon-options-button =
 
 report-addon-button = 신고하기
 remove-addon-button = 제거
-disable-addon-button = 비활성화
-enable-addon-button = 활성화
+disable-addon-button = 사용 안 함
+enable-addon-button = 사용함
 expand-addon-button = 옵션 더보기
 preferences-addon-button =
     { PLATFORM() ->

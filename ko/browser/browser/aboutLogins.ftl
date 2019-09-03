@@ -132,7 +132,7 @@ confirm-discard-changes-dialog-confirm-button = 버리기
 ## Breach Alert notification
 
 breach-alert-text = 마지막 로그인 정보를 업데이트 한 후 이 웹 사이트에서 비밀번호가 유출되거나 도난당했습니다. 계정을 보호하기 위해 비밀번호를 변경하십시오.
-breach-alert-link = 이 유출에 대해 자세히 알아보기.
+breach-alert-link = 이 유출에 대해 더 알아보기.
 breach-alert-dismiss =
     .title = 이 알림 닫기
 

@@ -213,7 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardCmd.label             "앞으로">
 <!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "한 페이지 앞으로 가기">
-<!ENTITY backForwardButtonMenu.tooltip "오른쪽 클릭 혹은 풀다운으로 방문 기록 보기">
+<!ENTITY backForwardButtonMenu.tooltip "오른쪽 클릭 또는 아래로 잡아당겨 방문 기록 보기">
 <!ENTITY backForwardButtonMenuMac.tooltip "방문 기록 내려 보기">
 <!ENTITY reloadCmd.label              "새로 고침">
 <!ENTITY reloadCmd.accesskey          "R">
@@ -884,7 +884,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpMoreInfo.label "향상된 추적 방지 기능에 대한 추가 정보">
 <!ENTITY protections.settings.label "보호 설정">
 <!ENTITY protections.report.label "전체 보고서 보기">
-<!ENTITY protections.showreport.label "보고서 표시">
+<!ENTITY protections.showreport.label "보고서 보기">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -995,7 +995,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.openBreakageReportView2.label "오류 보고">
 <!ENTITY contentBlocking.breakageReportView.label "문제 보고">
 <!ENTITY contentBlocking.breakageReportView2.description "콘텐츠 차단기는 어떤 사이트에서 문제를 일으킬 수 있습니다. 문제를 보고하면 &brandShortName;가 더 좋아지는데 도움을 주게 됩니다. (브라우저 설정에 관한 정보와 함께 URL도 Mozilla에 전송됩니다.)">
-<!ENTITY contentBlocking.breakageReportView.learnMore "자세히 보기">
+<!ENTITY contentBlocking.breakageReportView.learnMore "더 알아보기">
 <!ENTITY contentBlocking.breakageReportView.title "깨진 사이트 신고">
 <!ENTITY contentBlocking.breakageReportView3.description "특정 추적기를 차단하면 일부 웹 사이트에서 문제가 발생할 수 있습니다. 이러한 문제를 보고하면 모든 사람에게 더 나은 &brandShortName;를 제공하는데 도움이 됩니다. 이 보고서를 보내면 URL과 브라우저 설정에 대한 정보가 Mozilla로 전송됩니다.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "더 알아보기">

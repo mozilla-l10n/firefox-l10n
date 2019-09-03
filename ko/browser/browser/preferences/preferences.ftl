@@ -343,7 +343,7 @@ browsing-cfr-recommendations-learn-more = 더 알아보기
 
 network-settings-title = 네트워크 설정
 network-proxy-connection-description = { -brand-short-name }가 인터넷에 접근하는 방법을 설정하세요.
-network-proxy-connection-learn-more = 자세히 보기
+network-proxy-connection-learn-more = 더 알아보기
 network-proxy-connection-settings =
     .label = 설정…
     .accesskey = e
@@ -712,7 +712,7 @@ content-blocking-header = 콘텐츠 차단
 content-blocking-enhanced-tracking-protection = 향상된 추적 방지 기능
 content-blocking-section-description = 탐색하는 동안 개인 정보를 보호하십시오. 사용자가 방문하는 사이트를 추적하고 개인을 식별하는 보이지 않는 콘텐츠를 차단합니다. 이 콘텐츠 중 일부를 차단하면 페이지가 더 빨리 로드 될 수 있습니다.
 content-blocking-section-top-level-description = 추적기는 온라인에서 사용자를 따라다니며 브라우징 습관과 관심사에 대한 정보를 수집합니다. { -brand-short-name }는 이러한 많은 추적기 및 기타 악성 스크립트를 차단합니다.
-content-blocking-learn-more = 자세히 보기
+content-blocking-learn-more = 더 알아보기
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
@@ -849,7 +849,7 @@ collection-studies =
 collection-studies-link = { -brand-short-name } 연구 보기
 addon-recommendations =
     .label = { -brand-short-name }가 개인화된 확장 기능 추천을 하도록 허용
-addon-recommendations-link = 자세히 보기
+addon-recommendations-link = 더 알아보기
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = 이 빌드 설정에서는 데이터 보고가 비활성화 되어 있음
