@@ -69,6 +69,7 @@ policy-OfferToSaveLogins = 强制启用或禁用 { -brand-short-name } 的登录
 policy-OfferToSaveLoginsDefault = 允许 { -brand-short-name } 提供登录账号与密码保存功能。接受 true 或 false。
 policy-OverrideFirstRunPage = 覆盖首次运行页面。如果您想禁用首次运行页面，将此策略设为空白。
 policy-OverridePostUpdatePage = 覆盖更新后的“新版变化”页面。如果您想禁用更新后页面，将此策略设为空白。
+policy-PasswordManagerEnabled = 启用密码管理器的密码保存功能。
 policy-Permissions = 配置摄像头、麦克风、位置和通知的权限。
 policy-PopupBlocking = 默认允许特定网站显示弹出式窗口。
 policy-Preferences = 设置并锁定若干首选项的值。
