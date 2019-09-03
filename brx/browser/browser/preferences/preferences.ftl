@@ -16,8 +16,6 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-category-sync =
-    .tooltiptext = { pane-sync-title }
 focus-search =
     .key = f
 close-button =
@@ -51,12 +49,16 @@ startup-header = जागायजेन्नाइ
 separate-profile-mode =
     .label = एखे समावनो सालायनो { -brand-short-name } आरो फायारफक्सखौ गनायथि हो
 use-firefox-sync = इंगित: बेयो आलादा प्रफाइलखौ बाहायो। बेफोरनि गेजेराव डाटाखौ शेयार खालामनो सिन्कखौ बाहाय
+get-started-configured = पसन्दफोर { -sync-brand-short-name } खेव
 is-default = { -brand-short-name } आ दासान्दि नोंथांनि डिफल्ट ब्राउजार
 is-not-default = { -brand-short-name } आ नोंथांनि डिफल्ट ब्राउजार नङा
 tabs-group-header = टेब
 show-tabs-in-taskbar =
     .label = टेब गिबिनुथाइखौ उइन्ड' टास्कबाराव दिन्थि
     .accesskey = k
+browser-containers-settings =
+    .label = सेटिं....
+    .accesskey = i
 
 ## General Section - Language & Appearance
 
@@ -149,6 +151,9 @@ choose-bookmark =
     .label = बुकमाकॅखौ... बाहाय
     .accesskey = ब
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-engine-default-header = डिफल्ट नागिरनाय इन्जिन
@@ -175,6 +180,8 @@ search-keyword-warning-bookmark = नोंथाङा बावैसो ब�
 
 ## Containers Section
 
+containers-preferences-button =
+    .label = पसन्दफोर
 
 ## Sync Section - Signed out
 
@@ -232,9 +239,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-cookies-exceptions =
-    .label = Exceptions…
-    .accesskey = E
 
 ## Privacy Section - Address Bar
 
@@ -253,6 +257,21 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Permissions
 
+permissions-location-settings =
+    .label = सेटिं....
+    .accesskey = t
+permissions-camera-settings =
+    .label = सेटिं....
+    .accesskey = t
+permissions-microphone-settings =
+    .label = सेटिं....
+    .accesskey = t
+permissions-notification-settings =
+    .label = सेटिं....
+    .accesskey = t
+permissions-autoplay-settings =
+    .label = सेटिं....
+    .accesskey = t
 permissions-block-popups =
     .label = जौखांनाय उनद'सखौ होबथा
     .accesskey = ह
@@ -278,9 +297,24 @@ certs-header = चार्टिफिकेटफोर
 certs-enable-ocsp =
     .label = सार्टिफिकेटनि दानि बाहायथायखौ रोखा खालामनो सोंलु OCSP फिन होग्रा सार्भार
     .accesskey = Q
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] उफ्राफोर खेव
+           *[other] पसन्दफोर खेव
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = डेस्कटप
 downloads-folder-name = दावनल'दफोर
 choose-download-folder-title = डाउनल'ड फल्डारखौ बासिख:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = फाइलफोरखौ सेब खालाम बेयाव { $service-name }

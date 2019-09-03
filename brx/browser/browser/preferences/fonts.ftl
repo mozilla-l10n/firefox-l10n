@@ -71,6 +71,10 @@ fonts-default-serif =
     .label = सेरिफ
 fonts-default-sans-serif =
     .label = सान्स सेरिफ
+fonts-serif = सेरिफ
+    .accesskey = S
+fonts-sans-serif = सान्स-सेरिफ
+    .accesskey = n
 fonts-minsize-none =
     .label = मोनसेबो नङा
 
@@ -115,3 +119,5 @@ fonts-languages-fallback-name-other =
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = डिफल्ट ({ $name })
+fonts-label-default-unnamed =
+    .label = डिफल्ट
