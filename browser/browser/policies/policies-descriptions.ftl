@@ -69,6 +69,7 @@ policy-OfferToSaveLogins = De instelling voor het toestaan dat { -brand-short-na
 policy-OfferToSaveLoginsDefault = De standaardwaarde instellen voor het toestaan dat { -brand-short-name } mag aanbieden opgeslagen aanmeldingen en wachtwoorden te onthouden afdwingen. Zowel de waarde true als false wordt geaccepteerd.
 policy-OverrideFirstRunPage = De pagina voor eerste keer uitvoeren vervangen. Stel deze beleidsregel in op leeg als u de betreffende pagina wilt uitschakelen.
 policy-OverridePostUpdatePage = De pagina ‘Wat is er nieuw’ na een update vervangen. Stel deze beleidsregel in op leeg als u de betreffende pagina wilt uitschakelen.
+policy-PasswordManagerEnabled = Opslaan van wachtwoorden in de wachtwoordbeheerder inschakelen.
 policy-Permissions = Toestemmingen voor camera, microfoon, locatie en notificaties configureren.
 policy-PopupBlocking = Toestaan dat bepaalde websites standaard pop-ups weergeven.
 policy-Preferences = De waarde voor een subset van voorkeuren instellen en vergrendelen.
