@@ -69,6 +69,7 @@ policy-OfferToSaveLogins = Tving innstillinga til å tillate { -brand-short-name
 policy-OfferToSaveLoginsDefault = Spesifiser standardverdien for å tillate { -brand-short-name } å kunne hugse lagra innloggingar og passord. Både true- og false-verdiar er godkjende.
 policy-OverrideFirstRunPage = Erstatt sida som vert vist ved første oppstart. La policyen vere tom, viss sida ved første oppstart skal deaktiverast.
 policy-OverridePostUpdatePage = Byt ut «Kva er nytt»-sida som vert vist etter ei oppdatering. La policyen stå tom viss sida etter ei oppdatering skal deaktiverast.
+policy-PasswordManagerEnabled = Slå på lagring av passord til passordhandteraren.
 policy-Permissions = Still inn løyve for kamera, mikrofon, plassering og varsel.
 policy-PopupBlocking = Tillat at visse nettstadar skal kunne vise sprettoppvindauge som standard.
 policy-Preferences = Still inn og lås verdien for ei delmengde av innstillingar.
