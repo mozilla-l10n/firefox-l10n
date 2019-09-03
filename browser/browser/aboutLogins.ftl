@@ -73,8 +73,6 @@ login-item-origin-label = כתובת אתר
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = שם משתמש
-login-item-username =
-    .placeholder = name@example.com
 about-logins-login-item-username =
     .placeholder = (אין שם משתמש)
 login-item-copy-username-button-text = העתקה
@@ -128,3 +126,5 @@ breach-alert-dismiss =
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login = כבר קיימת רשומה עבור { $loginTitle } עם שם משתמש זה.
+# This is a generic error message.
+about-logins-error-message-default = אירעה שגיאה במהלך הניסיון לשמור ססמה זו.
