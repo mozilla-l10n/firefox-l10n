@@ -48,7 +48,7 @@ startup-header = जागायजेन्नाइ
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = एखे समावनो सालायनो { -brand-short-name } आरो फायारफक्सखौ गनायथि हो
-use-firefox-sync = इंगित: बेयो आलादा प्रफाइलखौ बाहायो। बेफोरनि गेजेराव डाटाखौ शेयार खालामनो सिन्कखौ बाहाय
+use-firefox-sync = इंगित: बेयो आलादा प्रफाइलखौ बाहायो। बेफोरनि गेजेराव डाटाखौ शेयार खालामनो { -sync-brand-short-name } बाहाय।
 get-started-configured = पसन्दफोर { -sync-brand-short-name } खेव
 is-default = { -brand-short-name } आ दासान्दि नोंथांनि डिफल्ट ब्राउजार
 is-not-default = { -brand-short-name } आ नोंथांनि डिफल्ट ब्राउजार नङा
