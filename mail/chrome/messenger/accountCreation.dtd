@@ -3,22 +3,29 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "기존 이메일 계정 설정">
+
+<!ENTITY emailWizard.title               "기존 이메일 주소 설정">
+<!ENTITY emailWizard.caption             "현재 이메일 주소를 사용하십시오">
 <!ENTITY name.label                      "이름:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "이름이나 닉네임">
+<!ENTITY fullname.placeholder            "이름">
 <!ENTITY name.text                       "다른 사람에게 보여줄 이름">
+<!ENTITY name.error                      "이름을 입력하세요">
 <!ENTITY email.label                     "메일 주소:">
 <!ENTITY email.accesskey                 "l">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email3.placeholder              "이메일 주소">
 <!ENTITY email.text                      "기존 이메일 주소">
+<!ENTITY email.error                     "잘못된 이메일 주소">
 <!ENTITY password.label                  "암호:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "계정 암호 입력">
 <!ENTITY password.text                   "계정 이름을 검증하기 위해 사용">
+<!ENTITY password.toggle                 "비밀번호 표시/숨기기">
 <!ENTITY rememberPassword.label          "암호 저장">
 <!ENTITY rememberPassword.accesskey      "m">
-
 <!ENTITY usernameEx.label                "사용자 로그인:">
 <!ENTITY usernameEx.accesskey            "l">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -26,15 +33,21 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "도메인 로그인">
 
+<!ENTITY protocol.label                  "프로토콜:">
 <!ENTITY imapLong.label                  "IMAP (원격)">
 <!ENTITY pop3Long.label                  "POP3 (메일을 컴퓨터에 저장)">
 
 <!ENTITY incoming.label                  "송신 서버:">
+<!ENTITY incomingColumn.label            "수신">
 <!ENTITY outgoing.label                  "발신 서버:">
+<!ENTITY outgoingColumn.label            "발신">
 <!ENTITY username.label                  "아이디:">
 <!ENTITY hostname.label                  "서버 호스트명">
 <!ENTITY port.label                      "포트 번호">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "서버:">
+<!ENTITY portRow.label                   "포트:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "인증 방법">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -60,15 +73,21 @@
 <!ENTITY stop.label                      "중지">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "다시 테스트">
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "수동 설정">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY manual-config.label             "수동으로 구성…">
+<!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "새 메일 주소 만들기…">
 <!ENTITY open-provisioner.accesskey      "g">
+
+
+<!ENTITY get-help.label                  "도움말">
+<!ENTITY get-help.accesskey              "H">
 
 
 <!ENTITY warning.label                   "주의!">
