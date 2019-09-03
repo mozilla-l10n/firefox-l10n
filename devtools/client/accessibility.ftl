@@ -52,3 +52,4 @@ accessibility-keyboard-issue-tabindex = Njewužiwajće atribut <code>tabindex</c
 accessibility-keyboard-issue-action = Interaktiwne elementy dyrbja so z tastaturu aktiwizować dać. <a>Dalše informacije</a>
 accessibility-keyboard-issue-focusable = Interaktiwne elementy dyrbja so fokusować dać. <a>Dalše informacije</a>
 accessibility-keyboard-issue-focus-visible = Zda so, zo fokusujomnemu elementej fokusowy stil faluje. <a>Dalše informacije</a>
+accessibility-keyboard-issue-mouse-only = Klikajomne elementy dyrbi so fokusować dać a měli interaktiwnu semantiku měć. <a>Dalše informacije</a>
