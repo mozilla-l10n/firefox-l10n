@@ -14,7 +14,7 @@
 <!ENTITY projectMenu_importHostedApp_accesskey "h">
 <!ENTITY projectMenu_selectApp_label "Aperir un application...">
 <!ENTITY projectMenu_selectApp_accesskey "A">
-<!ENTITY projectMenu_play_label "Installar e exequer">
+<!ENTITY projectMenu_play_label "Installar e executar">
 <!ENTITY projectMenu_play_accesskey "I">
 <!ENTITY projectMenu_stop_label "Cessar le application">
 <!ENTITY projectMenu_stop_accesskey "C">
@@ -40,7 +40,6 @@
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "r">
 <!ENTITY runtimeMenu_showSettings_label "Parametros del apparato">
 <!ENTITY runtimeMenu_showSettings_accesskey "P">
-
 <!ENTITY runtimeMenu_showPerformancePanel_label "Prestationes">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
@@ -77,7 +76,6 @@
 <!ENTITY runtimePanel_usb "Dispositivos USB">
 <!ENTITY runtimePanel_wifi "Dispositivos Wi-Fi">
 <!ENTITY runtimePanel_other "Alteres">
-<!ENTITY runtimePanel_noadbhelper "Installar ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Impossibile vider tu apparato?">
 <!ENTITY runtimePanel_refreshDevices_label "Actualisar le apparatos">
 
@@ -120,12 +118,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Informationes sur le ambiente de execution">
-<!ENTITY runtimedetails_adbIsRoot "ADB es radice: ">
-<!ENTITY runtimedetails_summonADBRoot "apparato con privilegios de administrator">
-<!ENTITY runtimedetails_ADBRootWarning "(require un cargator de initio disblocate)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Privilegios non restricte de DevTools: ">
-<!ENTITY runtimedetails_requestPrivileges "sollicitar privilegios superior">
-<!ENTITY runtimedetails_privilegesWarning "(Reinitiara le apparato. Privilegios de administrator es necessari.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">
