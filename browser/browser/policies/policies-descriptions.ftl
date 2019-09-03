@@ -69,6 +69,7 @@ policy-OfferToSaveLogins = Gorfodi'r gosodiad i ganiatáu i { -brand-short-name 
 policy-OfferToSaveLoginsDefault = Gosodwch y gwerth ragosodedig ar gyfer caniatáu i { -brand-short-name } gynnig cofio mewngofnodion a chyfrineiriau wedi'u cadw. Mae gwerthoedd gwir a ffug yn cael eu derbyn.
 policy-OverrideFirstRunPage = Diystyru y dudalen rhediad gyntaf. Gosod y polisi hwn i gwag os ydych am analluogi'r dudalen rhediad cyntaf.
 policy-OverridePostUpdatePage = Diystyru'r dudalen ôl ddiweddaru "Beth sy'n Newydd". Gosodwch y polisi hwn i gwag os hoffech chi analluogi'r dudalen ôl ddiweddaru.
+policy-PasswordManagerEnabled = Galluogi cadw cyfrineiriau i'r rheolwr cyfrinair.
 policy-Permissions = Ffurfweddu caniatâd ar gyfer camera, meicroffon, lleoliad a hysbysiadau.
 policy-PopupBlocking = Caniatáu rhai gwefannau i ddangos llamlenni drwy ragosodiad.
 policy-Preferences = Gosod a chloi gwerth is-set o ddewisiadau.

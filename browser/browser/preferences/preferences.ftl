@@ -620,6 +620,10 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Awgrymu a chynhyrchu cyfrineiriau cryf
     .accesskey = A
+forms-breach-alerts =
+    .label = Dangos rhybuddion am gyfrineiriau ar gyfer gwefannau sydd wedi' cael tor-data
+    .accesskey = r
+forms-breach-alerts-learn-more-link = Dysgu rhagor
 forms-fill-logins-and-passwords =
     .label = Awtolanw mewngofnodion a chyfrineiriau
     .accesskey = A
@@ -737,8 +741,8 @@ addressbar-suggestions-settings = Newid dewisiadau am awgrymiadau peiriannau chw
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Rhwystro Cynnwys
-content-blocking-enhanced-tracking-protection = Diogelwch Uwch Rhag Tracio
 content-blocking-section-description = Diogelwch eich preifatrwydd wrth bori. Rhwystrwch gynnwys cudd sy'n tracio'r gwefannau fyddwch chi'n ymweld â nhw ac sy'n creu proffil ohonoch chi. Gall rwystro peth o'r cynnwys hwn wneud i dudalennau lwytho'n gynt.
+content-blocking-enhanced-tracking-protection = Diogelwch Uwch Rhag Tracio
 content-blocking-section-top-level-description = Mae tracwyr yn eich dilyn ar-lein i gasglu gwybodaeth am eich arferion pori a'ch diddordebau. Mae { -brand-short-name } yn rhwystro llawer o'r tracwyr hyn a sgriptiau maleisus eraill.
 content-blocking-learn-more = Dysgu Rhagor
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
