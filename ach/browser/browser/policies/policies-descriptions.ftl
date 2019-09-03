@@ -28,6 +28,7 @@ policy-FlashPlugin = Yee onyo juk tic ki larwak me Flash
 policy-InstallAddonsPermission = Yee ki kakube mogo me keto med-ikome.
 policy-NewTabPage = Cak onyo juk potbuk me Dirica Matidi Mnayen.
 policy-Permissions = Ter twero pi kamera, mikropon, kabedo ki jami angeya.
+policy-PromptForDownloadLocation = Peny kwene me gwoko pwail ikare me gamo.
 policy-SearchSuggestEnabled = Cak onyo juk tam amiya me yeny.
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Geng limo kakube. Nen gin acoya pi ngec mapol i kite.

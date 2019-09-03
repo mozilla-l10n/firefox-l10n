@@ -273,6 +273,12 @@ update-application-use-service =
 update-enable-search-update =
     .label = Ket pire kene ngec manyen i injin yeny
     .accesskey = e
+update-in-progress-title = Tye ka keto Ngec Manyen
+update-in-progress-message = Imito ni { -brand-short-name } omede ki keto ngec manyen man?
+update-in-progress-ok-button = &Juki
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Mede
 
 ## General Section - Performance
 
@@ -307,6 +313,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Yeny coc ka acako coyo coc
     .accesskey = c
+browsing-picture-in-picture-learn-more = Nong ngec mapol
 browsing-cfr-recommendations-learn-more = Nong ngec mapol
 
 ## General Section - Proxy
@@ -550,6 +557,7 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Ma kiweko woko…
     .accesskey = a
+forms-breach-alerts-learn-more-link = Nong ngec mapol
 forms-saved-logins =
     .label = Donyo iyie ma kigwoko…
     .accesskey = D

@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = Gwok alokaloka
     .accesskey = G
+permissions-autoplay-menu = Makwongo pi kakube weng:
 permissions-searchbox =
     .placeholder = Yeny kakube
+permissions-capabilities-autoplay-allow =
+    .label = Yer Dwon ki Video
+permissions-capabilities-autoplay-block =
+    .label = Geng Dwon
+permissions-capabilities-autoplay-blockall =
+    .label = Geng Dwon ki Video
 permissions-capabilities-allow =
     .label = Ye
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = Ye
 permissions-capabilities-listitem-block =
     .value = Geng
-permissions-capabilities-listitem-allow-first-party =
-    .value = Ye dul mukwongo keken
 permissions-capabilities-listitem-allow-session =
     .value = Ye pi kare
 
@@ -58,6 +63,7 @@ permissions-invalid-uri-label = Tim ber iket nying lami kube matye atir
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-etp-desc = Ijuko woko gwokke ki i kakube magi.
 
 ## Exceptions - Cookies
 
@@ -82,6 +88,9 @@ permissions-exceptions-addons-window =
 permissions-exceptions-addons-desc = I twero cimo kakube mene ma kiye me keto med-ikome. Co kanonge kikome me kakube ma imito ye kadong i dii Ye.
 
 ## Exceptions - Autoplay Media
+
+
+## Site Permissions - Autoplay
 
 
 ## Site Permissions - Notifications

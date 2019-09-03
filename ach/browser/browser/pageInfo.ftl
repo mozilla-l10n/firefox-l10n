@@ -14,8 +14,6 @@ select-all =
 menu-select-all =
     .label = Yer weng
     .accesskey = w
-close-window =
-    .key = A
 general-tab =
     .label = Lumuku
     .accesskey = G
@@ -147,6 +145,16 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Tii ki makwongo
 security-no-visits = Pe
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Pe
+        [one] Eyo, kicel
+       *[other] Eyo, tyen { $visits }
+    }
 # This string is used to display the type of
 # an image
 # Variables:
