@@ -43,7 +43,7 @@ fingerprinter-tab-title = Dactylogrammatores
 fingerprinter-tab-content = Dactylogrammatores collige parametros de tu navigator e computator pro crear un profilo re te. Per iste dactylogramma digital, illos pote traciar te inter le differente sitos web. <a data-l10n-name="learn-more-link">
 cryptominer-tab-title = Cryptominatores
 cryptominer-tab-content = Cryptominatores usa potentia de calculo de tu systema pro cavar moneta digital. Scripts del minatores occulte exhauri tu batteria, relenta tu computator e pote accrescer le factura de tu energia.<a data-l10n-name="learn-more-link">Saper plus</a>
-lockwise-title = Jammais oblidar plus un contrasigno
+lockwise-title = Non oblida plus tu contrasignos
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } immagazina con securitate tu contrasignos in tu navigator.
 lockwise-header-content-logged-in = Reserva e synchronisa con securitate tu contrasignos pro totes tu apparatos.
