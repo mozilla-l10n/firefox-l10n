@@ -814,8 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Conexão">
 <!ENTITY identity.connectionSecure "Conexão segura">
-
-<!ENTITY identity.connectionSecure2 "Conexão segura">
 <!ENTITY identity.connectionNotSecure "Conexão não é segura">
 
 <!ENTITY identity.connectionSecure3 "Conexão segura">
@@ -828,8 +826,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Esta página é carregada a partir de uma extensão.">
 <!ENTITY identity.insecureLoginForms2 "As contas de acesso inseridas nesta página podem ser comprometidas.">
 <!ENTITY identity.customRoot "Conexão homologada por uma entidade certificadora que não é reconhecida pela Mozilla.">
-
-<!ENTITY identity.evOwnerLabel "Site pertencente a:">
 
 <!ENTITY identity.evOwnerLabel2 "Certificado emitido para:">
 
@@ -867,9 +863,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Permissões">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Permissões definidas">
-
 <!ENTITY identity.permissions3 "Permissões">
 <!ENTITY identity.permissionsEmpty "Você não concedeu permissões especiais a este site.">
 <!ENTITY identity.permissionsReloadHint "Pode ser necessário recarregar a página para que as alterações sejam aplicadas.">
@@ -883,7 +876,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Mais informações sobre a proteção aprimorada contra rastreamento">
 <!ENTITY protections.settings.label "Configurações de proteção">
-<!ENTITY protections.report.label "Mostrar relatório completo">
 <!ENTITY protections.showreport.label "Mostrar relatório">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -901,7 +893,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Pagamento">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Comentários">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Vídeos">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Site ainda com problemas após desativar proteções?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Enviar um relato">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -910,9 +901,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "Bloqueado">
-<!ENTITY protections.notBlocking2.label "Permitido">
-<!ENTITY protections.notFound.label "Nenhum detectado">
+<!ENTITY protections.blocking2.label "Bloqueado:">
+<!ENTITY protections.notBlocking2.label "Permitido:">
+<!ENTITY protections.notFound.label "Não detectado:">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
@@ -929,7 +920,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Esses cookies seguem você de um site para outro para coletar dados sobre o que você faz online. Eles são criados por terceiros, como anunciantes e empresas de análises.">
 <!ENTITY protections.cryptominers.description "Criptomineradores usam o poder computacional do seu sistema para minerar moedas digitais. Scripts de criptomineradores drenam sua bateria, fazem seu computador ficar mais lento e podem aumentar sua conta de energia elétrica.">
 <!ENTITY protections.fingerprinters.description "Fingerprinters coletam configurações do seu navegador e do seu computador para traçar um perfil seu. Usando esta identidade digital, eles podem rastrear você em vários sites.">
-<!ENTITY protections.trackingContent.description "Sites podem carregar anúncios, vídeos e outros conteúdos externos que contêm código de rastreamento. Bloquear conteúdo de rastreamento pode ajudar a carregar sites mais rápido, mas alguns botões, formulários e campos de acesso a contas podem não funcionar.">
 <!ENTITY protections.trackingContent2.description "Sites podem carregar anúncios, vídeos e outros conteúdos externos com código de rastreamento. Bloquear conteúdo de rastreamento pode ajudar a carregar sites mais rápido, mas alguns botões, formulários e campos de acesso a contas podem não funcionar.">
 <!ENTITY protections.socialMediaTrackers.description "Redes sociais colocam rastreadores em outros sites para seguir o que você faz, vê e assiste online. Isto permite que empresas de mídias sociais saibam mais sobre você, muito além do que você compartilha nos perfis de suas mídias sociais.">
 
