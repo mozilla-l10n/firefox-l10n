@@ -45,6 +45,7 @@
 <!ENTITY NormalModeTab.label "Bình thường">
 <!ENTITY NormalMode.label "Chế độ chỉnh sửa bình thường">
 <!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.tooltip "Hiển thị đường viền bảng và neo được đặt tên">
 <!ENTITY AllTagsModeTab.label "Thẻ HTML">
 <!ENTITY AllTagsMode.label "Thẻ HTML">
 <!ENTITY AllTagsMode.accesskey "a">

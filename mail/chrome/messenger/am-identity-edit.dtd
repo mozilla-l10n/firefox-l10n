@@ -8,7 +8,11 @@
 <!ENTITY identityDialog.style "min-width: 75ch;">
 <!ENTITY identityListDesc.label "Cấu hình các thiết lập cho định danh này:">
 
-<!ENTITY settingsTab.label       "Thiết lập">
-<!ENTITY copiesFoldersTab.label "Bản sao &amp; Thư mục">
-<!ENTITY addressingTab.label    "Soạn thảo &amp; Xác định Địa chỉ">
+<!ENTITY settingsTab.label       "Cài đặt">
+<!ENTITY copiesFoldersTab.label "Bản sao &amp; thư mục">
+<!ENTITY addressingTab.label    "Soạn thảo &amp; xác định địa chỉ">
 
+<!ENTITY publicData.label        "Dữ liệu công khai">
+<!ENTITY privateData.label       "Dữ liệu riêng tư">
+<!ENTITY identityAlias.label     "Nhãn nhận dạng:">
+<!ENTITY identityAlias.accesskey "b">
