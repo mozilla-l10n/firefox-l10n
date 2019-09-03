@@ -80,6 +80,7 @@ monitor-link = 작동 원리
 monitor-header-content = { -monitor-brand-name }를 확인하여 사용자가 데이터 유출 사건의 피해자인지 확인하고 새로운 유출에 대한 알림을 받습니다.
 monitor-header-content-logged-in = 사용자의 정보가 알려진 데이터 유출 사건에 있으면 { -monitor-brand-name }가 경고합니다
 monitor-header-content-no-account = { -monitor-brand-name }를 확인하여 사용자가 알려진 데이터 유출 사건의 피해자인지 확인하고 새로운 유출에 대한 알림을 받습니다.
+monitor-header-content-signed-in = 알려진 데이터 유출 사건에 사용의 정보가 있으면 { -monitor-brand-name }가 경고합니다.
 monitor-sign-up = 유출 알림 가입하기
 auto-scan = 오늘의 자동 스캔
 # This string is displayed after a large numeral that indicates the total number
@@ -100,6 +101,27 @@ info-known-breaches =
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords =
+    { $count ->
+       *[other] 모든 유출에 걸처 비밀번호가 노출되었습니다.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+       *[other] 모니터되는 이메일 주소
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+       *[other] 알려진 데이터 유출로 인해 정보가 노출되었습니다.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
     { $count ->
        *[other] 모든 유출에 걸처 비밀번호가 노출되었습니다.
     }
