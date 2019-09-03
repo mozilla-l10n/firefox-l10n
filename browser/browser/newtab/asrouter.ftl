@@ -84,13 +84,26 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Yeni neler var?
 cfr-whatsnew-release-notes-link-text = Sürüm notlarını okuyun
 cfr-whatsnew-fx70-title = { -brand-short-name } artık gizliliğiniz için daha sıkı çalışıyor
+cfr-whatsnew-fx70-body = Bu güncellemede İzlenme Koruması özelliğini geliştirdik ve sitelere kaydolurken güvenli parola üretmeyi daha da kolaylaştırdık.
 cfr-whatsnew-tracking-protect-title = Kendinizi takipçilerden koruyun
 cfr-whatsnew-tracking-protect-body = { -brand-short-name }, internette yaptıklarınızı izleyen çoğu sosyal medya takipçisini ve siteler arası takipçiyi engeller.
 cfr-whatsnew-tracking-protect-link-text = Raporunuzu görün
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] takipçi engellendi
+       *[other] takipçi engellendi
+    }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } tarihinden beri
 cfr-whatsnew-tracking-blocked-link-text = Raporu görüntüle
 cfr-whatsnew-lockwise-backup-title = Parolalarınızı yedekleyin
+cfr-whatsnew-lockwise-backup-body = Giriş yaptığınız her yerden ulaşabileceğiniz, güvenli parolalar oluşturun.
+cfr-whatsnew-lockwise-backup-link-text = Yedeklemeyi aç
 cfr-whatsnew-lockwise-take-title = Parolalarınızı yanınızda taşıyın
+cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } mobil uygulaması, yedeklediğiniz parolalara her yerden güvenli ulaşmanızı sağlar.
+cfr-whatsnew-lockwise-take-link-text = Uygulamayı indir
 
 ## Bookmark Sync
 

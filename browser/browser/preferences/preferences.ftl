@@ -604,6 +604,10 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Güçlü parolalar öner ve oluştur
     .accesskey = G
+forms-breach-alerts =
+    .label = Veri ihlaline uğrayan sitelerdeki parolalarla ilgili uyarı göster
+    .accesskey = V
+forms-breach-alerts-learn-more-link = Daha fazla bilgi al
 forms-fill-logins-and-passwords =
     .label = Kullanıcı adı ve parolaları otomatik doldur
     .accesskey = ı
@@ -721,8 +725,8 @@ addressbar-suggestions-settings = Arama motoru önerileri için tercihleri deği
 ## Privacy Section - Content Blocking
 
 content-blocking-header = İçerik engelleme
-content-blocking-enhanced-tracking-protection = Gelişmiş izlenme koruması
 content-blocking-section-description = Gezinirken gizliliğinizi koruyun. Ziyaret ettiğiniz siteleri izleyen ve profilinizi çıkarak görünmez içerikleri engelleyebilirsiniz. Bu içerikleri engellemek sayfaların daha hızlı yüklenmesini de sağlayabilir.
+content-blocking-enhanced-tracking-protection = Gelişmiş izlenme koruması
 content-blocking-section-top-level-description = Takipçiler, gezinti alışkanlıklarınız ve ilgi alanlarınız hakkında bilgi toplamak için internette sizi takip eder. { -brand-short-name } bu takipçilerin ve diğer kötü amaçlı betiklerin çoğunu engeller.
 content-blocking-learn-more = Daha fazla bilgi al
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
