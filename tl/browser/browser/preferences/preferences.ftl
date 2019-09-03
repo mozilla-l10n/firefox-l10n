@@ -46,7 +46,7 @@ pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
 help-button-label = Suporta sa { -brand-short-name }
-addons-button-label = Mga Extension & Tema
+addons-button-label = Mga Extension at Tema
 focus-search =
     .key = f
 close-button =
@@ -187,7 +187,7 @@ containers-remove-cancel-button = Huwag alisin ang Lalagyan na ito
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Wika at Hitsura
-fonts-and-colors-header = Mga Font & Kulay
+fonts-and-colors-header = Mga Font at Kulay
 default-font = Default na font
     .accesskey = D
 default-font-size = Laki
@@ -243,7 +243,7 @@ download-choose-folder =
 download-always-ask-where =
     .label = Lagi kang tanungin kung saan magse-save ng mga file
     .accesskey = A
-applications-header = Applications
+applications-header = Mga Application
 applications-description = Piliin kung ano ang gagawin ng { -brand-short-name } sa mga file na iyong na-download mula sa web o mga application na iyong ginagamit habang nagba-browse.
 applications-filter =
     .placeholder = Maghanap ng mga uri ng file o mga application
@@ -296,7 +296,7 @@ update-setting-write-failure-message =
     Hindi makasulat sa file: { $path }
 update-in-progress-title = Kasalukuyang Nag-a-update
 update-in-progress-message = Gusto mo bang ipagpatuloy ng { -brand-short-name } ang update na ito?
-update-in-progress-ok-button = &Discard
+update-in-progress-ok-button = Isangtabi
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Magpatuloy
@@ -725,8 +725,8 @@ addressbar-suggestions-settings = Baguhin ang mga kagustuhan para sa mga mungkah
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Content Blocking
-content-blocking-enhanced-tracking-protection = Enhanced Tracking Protection
 content-blocking-section-description = Protektahan ang iyong pribasiya habang ikaw ay nagba-browse. Harangin ang mga tagong content na tinatrack ang mga site na binibisita mo at pino-profile ka. Maaaring bumilis ang pag-load ng mga page sa pagharang ng mga content na ito.
+content-blocking-enhanced-tracking-protection = Enhanced Tracking Protection
 content-blocking-section-top-level-description = Sinusundan ka ng mga tracker online para mangolekta ng impormasyon tungkol sa iyong mga kaugalian at interes sa pag-browse. Hinaharang ng { -brand-short-name } ang karamihan sa mga tracker na ito at iba pang mga delikadong script.
 content-blocking-learn-more = Alamin pa
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.

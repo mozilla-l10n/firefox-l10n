@@ -457,7 +457,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
-<!ENTITY customizeMenu.reportExtension.label "I-report ang Extension">
+<!ENTITY customizeMenu.reportExtension.label "i-Report ang Extension">
 <!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -813,8 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Koneksyon">
 <!ENTITY identity.connectionSecure "I-secure ang Koneksyon">
-
-<!ENTITY identity.connectionSecure2 "Matibay na Koneksyon">
 <!ENTITY identity.connectionNotSecure "Hindi Sigurado ang Koneksyon">
 
 <!ENTITY identity.connectionSecure3 "Matibay na Koneksyon">
@@ -827,8 +825,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Ang pahinang ito ay nai-load mula sa isang extension.">
 <!ENTITY identity.insecureLoginForms2 "Ang mga pag-login na ipinasok sa pahinang ito ay maaaring makompromiso.">
 <!ENTITY identity.customRoot "Ang connection ay na-verify ng isang certificate issuer na hindi kinikilala ng Mozilla.">
-
-<!ENTITY identity.evOwnerLabel "Ang site ay pagmamay-ari ni:">
 
 
 <!-- Strings for connection state warnings. -->
@@ -865,9 +861,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Pahintulot">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Permissions Set">
-
 <!ENTITY identity.permissions3 "Mga Pahintulot">
 <!ENTITY identity.permissionsEmpty "Hindi mo ipinagkaloob ang site na ito anumang espesyal na pahintulot.">
 <!ENTITY identity.permissionsReloadHint "Maaaring kailangan mong i-reload ang pahina para mag-aplay ang mga pagbabago.">
@@ -880,7 +873,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.settings.label "Mga Protection Setting">
-<!ENTITY protections.report.label "Ipakita ang Buong Ulat">
 <!ENTITY protections.showreport.label "Ipakita ang Ulat">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -898,7 +890,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Mga kabayaran">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Mga komento">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Mga video">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Sira pa rin ang site matapos isara ang mga proteksyon?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Magpadala ng report">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -926,7 +917,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Sinusundan ka ng mga cookie na ito sa iba't-ibang mga site para matyagan ka sa kung ano ang ginagawa mo online. Itinakda ito ng mga third party kagaya ng mga advertiser at kumpanyang may kinalaman sa analytics.">
 <!ENTITY protections.cryptominers.description "Ginagamit ng mga cryptominer ang computing power ng sistema mo para kumita ng digital na pera. Ang mga cryptomining script ay nakakaubos ng baterya mo, nagpapabagal sa computer, at pwedeng dumagdag sa bayarin mo sa kuryente.">
 <!ENTITY protections.fingerprinters.description "Ang mga fingerprinter ay nangongolekta ng mga setting sa browser at computer mo para makilala ka. Gamit ang digital fingerprint na ito, pwede ka nilang manmanan sa iba't-ibang mga website.">
-<!ENTITY protections.trackingContent.description "Maaaring mag-load ang mga website ng panlabas na mga ad, video, at iba pang content na may tracking code. Pwedeng bumilis ang pag-load ng mga site kapag hinarang ang mga tracking content, pero may mga button, form, at login field na maaaring hindi gumana.">
 <!ENTITY protections.socialMediaTrackers.description "Naglalagay ng mga tracker ang mga social network sa ibang mga website para sundan ang iyong mga ginagawa, tinitingnan, at pinapanood online. Dahil dito'y mas nakikilala ka ng mga kumpanya ng social media bukod sa kung ano ang ibinabahagi mo sa iyong social media profile.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.

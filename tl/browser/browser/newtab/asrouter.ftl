@@ -27,7 +27,7 @@ cfr-doorhanger-extension-learn-more-link = Alamin
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
-cfr-doorhanger-extension-author = Ni { $name }
+cfr-doorhanger-extension-author = ni { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendasyon
