@@ -82,6 +82,7 @@ onboarding-data-sync-title = আপনার সেটিং আপনার স
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = আপনি যেখানেই { -brand-product-name } ব্যবহার করুন, আপনার বুকমার্ক, পাসওয়ার্ড এবং আরো অনেক কিছু সিঙ্ক করুন।
 onboarding-data-sync-button2 = { -sync-brand-short-name } এ সাইন ইন করুন
+onboarding-firefox-monitor-title = ডাটা ব্রীচ সম্পর্কে সতর্ক থাকুন
 onboarding-firefox-monitor-button = সতর্কতা জন্য সাইন আপ করুন
 onboarding-browse-privately-title = গোপনভাবে ব্রাউজ করুন
 onboarding-browse-privately-text = আপনার কম্পিউটার ব্যবহার করে এমন কারো কাছ থেকে গোপন রাখতে গোপনীয় ব্রাউজিং আপনার অনুসন্ধান এবং ব্রাউজিং ইতিহাস সংরক্ষণ করে না ।
