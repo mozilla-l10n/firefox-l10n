@@ -69,6 +69,7 @@ policy-OfferToSaveLogins = Nastajenje wunuźiś, kótarež { -brand-short-name }
 policy-OfferToSaveLoginsDefault = Stajśo standardnu gódnotu, kótaraž { -brand-short-name } zmóžnja, se skłaźone pśizjawjenja a gronidłaa spomnjeś. Ako true tak teke false se akceptěrujotej.
 policy-OverrideFirstRunPage = Bok pśepisaś, kótaryž se pśi prědnom starśe pokazujo. Stajśo toś to pšawidło na prozne, jolic cośo toś ten bok znjemóžniś.
 policy-OverridePostUpdatePage = Bok Nowe funkcije a změny pó aktualizaciji pśepisaś. Stajśo toś to pšawidło na prozne, jolic cośo toś ten bok znjemóžniś.
+policy-PasswordManagerEnabled = Składowanje gronidłow do zastojnika gronidłow zmóžniś.
 policy-Permissions = Pšawa za kameru, mikrofon, stojnišćo a powěźeńki konfigurěrowaś.
 policy-PopupBlocking = Wěstym websedłam dowóliś, wuskokujuce wokna pó standarźe pokazaś.
 policy-Preferences = Gódnotu za pódsajźbu nastajenjow stajiś a zastajiś
