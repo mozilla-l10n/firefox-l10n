@@ -18,11 +18,6 @@ graph-week-summary =
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
 # earliest date recorded in the database.
-graph-total-summary =
-  { $count ->
-     [one] { $count } tracciante bloccato dal { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-    *[other] { $count } traccianti bloccati dal { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-  }
 graph-total-tracker-summary =
   { $count ->
      [one] <b>{ $count }</b> tracciante bloccato dal { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
@@ -55,7 +50,6 @@ cookie-tab-title = Cookie traccianti intersito
 cookie-tab-content = Questi cookie ti seguono da un sito all’altro per raccogliere informazioni su ciò che fai online. Sono impostati da terze parti come agenzie pubblicitarie e di analisi dati. Il blocco di questi cookie riduce il numero di pubblicità personalizzate che ti seguono attraverso tutto il Web. <a data-l10n-name="learn-more-link">Ulteriori informazioni</a>
 
 tracker-tab-title = Contenuti traccianti
-tracker-tab-content = I siti web possono caricare pubblicità, video e altri contenuti da fonti esterne che includono elementi traccianti. Il blocco degli elementi traccianti può velocizzare il caricamento dei siti, ma può causare il malfunzionamento di pulsanti, moduli e campi di accesso. <a data-l10n-name="learn-more-link">Ulteriori informazioni</a>
 tracker-tab-description = I siti web possono caricare pubblicità, video e altri contenuti da fonti esterne che includono elementi traccianti. Il blocco degli elementi traccianti può velocizzare il caricamento dei siti, ma può causare il malfunzionamento di pulsanti, moduli e campi di accesso. <a data-l10n-name="learn-more-link">Ulteriori informazioni</a>
 
 fingerprinter-tab-title = Fingerprinter
@@ -68,7 +62,6 @@ lockwise-title = Non dimenticare più le tue password
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } salva le tue password in modo sicuro direttamente nel browser.
 lockwise-header-content-logged-in = Salva le password in modo sicuro e sincronizzale su tutti i tuoi dispositivi.
-open-about-logins-button = Apri in { -brand-short-name }
 about-logins-view-logins-button = Visualizza credenziali
 lockwise-no-logins-content = Installa l’app <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> e porta le tue password sempre con te.
 
@@ -89,13 +82,10 @@ lockwise-sync-status =
      [one] Sincronizzato con un altro dispositivo
     *[other] Sincronizzato con { $count } altri dispositivi
   }
-lockwise-sync-not-syncing = Non sincronizzato con altri dispositivi.
 lockwise-sync-not-syncing-devices = Non sincronizzato con altri dispositivi
 
 monitor-title = Tieni sotto controllo le violazioni di dati
 monitor-link = Come funziona
-monitor-header-content = Controlla { -monitor-brand-name } per verificare se sei stato coinvolto in una violazione di dati e ricevere avvisi per nuove violazioni.
-monitor-header-content-logged-in = { -monitor-brand-name } ti avvisa se le tue informazioni compaiono in una violazione di dati conosciuta.
 monitor-header-content-no-account = Controlla { -monitor-brand-name } per verificare se sei stato coinvolto in una violazione di dati conosciuta e ricevere avvisi per nuove violazioni.
 monitor-header-content-signed-in = { -monitor-brand-name } ti avvisa se le tue informazioni compaiono in una violazione di dati conosciuta.
 monitor-sign-up = Iscriviti per ricevere avvisi sulle violazioni
@@ -104,11 +94,6 @@ auto-scan = Controllato automaticamente oggi
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
-info-monitored-addresses =
-  { $count ->
-     [one] Indirizzo email monitorato.
-    *[other] Indirizzi email monitorati.
-  }
 info-monitored-emails =
   { $count ->
      [one] Indirizzo email monitorato
@@ -118,11 +103,6 @@ info-monitored-emails =
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
-info-known-breaches =
-  { $count ->
-     [one] Violazione di dati conosciuta che ha esposto le tue informazioni.
-    *[other] Violazioni di dati conosciute che hanno esposto le tue informazioni.
-  }
 info-known-breaches-found =
   { $count ->
      [one] Violazione di dati conosciuta che ha esposto le tue informazioni
@@ -132,7 +112,6 @@ info-known-breaches-found =
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
-info-exposed-passwords = Password esposte da tutte le violazioni
 info-exposed-passwords-found = Password esposte da tutte le violazioni
 
 full-report-link = Visualizza il rapporto completo in <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>

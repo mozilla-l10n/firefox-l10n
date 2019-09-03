@@ -540,10 +540,8 @@
 <!ENTITY editBookmark.showForNewBookmarks.label "Visualizza editor quando si salva">
 <!ENTITY editBookmark.showForNewBookmarks.accesskey "V">
 <!ENTITY identity.securityView.label "Sicurezza del sito">
-<!ENTITY identity.securityView.label2 "Sicurezza connessione">
 <!ENTITY identity.connection "Connessione">
 <!ENTITY identity.connectionSecure "Connessione sicura">
-<!ENTITY identity.connectionSecure2 "Connessione sicura">
 <!ENTITY identity.connectionNotSecure "Connessione non sicura">
 <!ENTITY identity.connectionSecure3 "Connessione sicura">
 <!ENTITY identity.connectionNotSecure2 "Connessione non sicura">
@@ -555,7 +553,6 @@
 <!ENTITY identity.extensionPage "Questa pagina è caricata da un’estensione.">
 <!ENTITY identity.insecureLoginForms2 "Gli accessi effettuati in questa pagina potrebbero essere vulnerabili.">
 <!ENTITY identity.customRoot "Connessione verificata da un certificato emesso da un’autorità non riconosciuta da Mozilla.">
-<!ENTITY identity.evOwnerLabel "Proprietario sito:">
 <!ENTITY identity.evOwnerLabel2 "Certificato rilasciato a:">
 <!ENTITY identity.activeBlocked "Alcuni elementi non sicuri di questa pagina sono stati bloccati da &brandShortName;.">
 <!ENTITY identity.passiveLoaded "Alcuni elementi di questa pagina non sono sicuri (ad esempio immagini).">
@@ -582,7 +579,6 @@
 <!ENTITY identity.moreInfoLinkText2 "Ulteriori informazioni">
 <!ENTITY identity.clearSiteData "Elimina cookie e dati dei siti web…">
 <!ENTITY identity.permissions "Permessi">
-<!ENTITY identity.permissions2 "Permessi impostati">
 <!ENTITY identity.permissions3 "Permessi">
 <!ENTITY identity.permissionsEmpty "Nessun permesso speciale associato a questo sito.">
 <!ENTITY identity.permissionsReloadHint "Potrebbe essere necessario ricaricare la pagina per rendere effettive le modifiche.">
@@ -591,7 +587,6 @@
 <!ENTITY protections.etpOFF.header "La protezione antitracciamento avanzata è DISATTIVATA per questo sito">
 <!ENTITY protections.etpMoreInfo.label "Ulteriori informazioni sulla protezione antitracciamento avanzata">
 <!ENTITY protections.settings.label "Impostazioni protezione">
-<!ENTITY protections.report.label "Visualizza il rapporto completo">
 <!ENTITY protections.showreport.label "Visualizza rapporto">
 <!ENTITY protections.siteNotWorking.label "Il sito non funziona?">
 <!ENTITY protections.siteNotWorkingView.title "Sito non funzionante">
@@ -601,7 +596,6 @@
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Pagamenti">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Commenti">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Video">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Il sito non funziona nonostante le protezioni siano state disattivate?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Invia una segnalazione">
 <!ENTITY protections.blocking2.label "Bloccati">
 <!ENTITY protections.notBlocking2.label "Consentiti">
@@ -618,7 +612,6 @@
 <!ENTITY protections.crossSiteTrackingCookies.description "Questi cookie ti seguono da un sito all’altro per raccogliere informazioni su ciò che fai online. Sono impostati da terze parti come agenzie pubblicitarie e di analisi dati.">
 <!ENTITY protections.cryptominers.description "I cryptominer utilizzano le risorse del sistema per effettuare il “mining” di valute digitali. Questi script consumano la batteria, rallentano il computer e possono aumentare il costo della bolletta elettrica.">
 <!ENTITY protections.fingerprinters.description "I fingerprinter raccolgono informazioni sulle impostazioni del browser e del computer al fine di creare un tuo profilo. Utilizzando questa “impronta digitale” sono in grado di seguirti attraverso siti diversi.">
-<!ENTITY protections.trackingContent.description "I siti web possono caricare pubblicità, video e altri contenuti da fonti esterne che includono elementi traccianti. Il blocco degli elementi traccianti può velocizzare il caricamento dei siti, ma può causare il malfunzionamento di pulsanti, moduli e campi di accesso.">
 <!ENTITY protections.trackingContent2.description "I siti web possono caricare pubblicità, video e altri contenuti da fonti esterne che includono elementi traccianti. Il blocco degli elementi traccianti può velocizzare il caricamento dei siti, ma può causare il malfunzionamento di pulsanti, moduli e campi di accesso.">
 <!ENTITY protections.socialMediaTrackers.description "I social network impostano elementi traccianti in altri siti per scoprire cosa fai, leggi e guardi quando sei online. In questo modo sono in grado di raccogliere molte più informazioni rispetto a quello che condividi nei tuoi profili online.">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Apri preferenze relative al blocco contenuti">
