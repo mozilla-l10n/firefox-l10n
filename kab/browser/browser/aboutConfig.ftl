@@ -26,7 +26,7 @@ about-config-pref-edit-button =
 about-config-pref-save-button =
     .title = Sekles
 about-config-pref-reset-button =
-    .title = Wennez tikkelt-nniḍen
+    .title = Wennez tikelt nniḍen
 about-config-pref-delete-button =
     .title = Kkes
 
