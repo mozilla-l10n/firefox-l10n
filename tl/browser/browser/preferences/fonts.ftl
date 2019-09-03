@@ -117,9 +117,9 @@ fonts-languages-fallback-name-ceiso =
 fonts-languages-fallback-name-cewindows =
     .label = Central European, Microsoft
 fonts-languages-fallback-name-simplified =
-    .label = Chinese, Pinasimple
+    .label = Tsino, Pinasimple
 fonts-languages-fallback-name-traditional =
-    .label = Chinese, Tradisyunal
+    .label = Tsino, Tradisyunal
 fonts-languages-fallback-name-cyrillic =
     .label = Cyrillic
 fonts-languages-fallback-name-greek =
@@ -138,9 +138,6 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamese
 fonts-languages-fallback-name-other =
     .label = Iba pa (kasama ang Western European)
-fonts-very-large-warning-title = Malaking minimum na laki ng font
-fonts-very-large-warning-message = Napili mo ang isang napakalaking minimum na laki ng font (higit sa 24 pixel). Maaari itong maging mahirap o imposible na gumamit ng ilang mahahalagang configuration page tulad ng isang ito.
-fonts-very-large-warning-accept = Panatilihin pa rin ang aking mga pagbabago
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
