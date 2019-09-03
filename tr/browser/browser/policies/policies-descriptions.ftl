@@ -68,6 +68,7 @@ policy-NoDefaultBookmarks = { -brand-short-name }  ile birlikte gelen varsayıla
 policy-OfferToSaveLogins = { -brand-short-name } tarayıcısının kullanıcı adı ve parolaları kaydetmeyi önermesini ayarla. true veya false olarak ayarlanabilir.
 policy-OverrideFirstRunPage = İlk açılış sayfasını değiştir. İlk açılış sayfasını devre dışı bırakmak istiyorsanız bu ilkeyi boş olarak ayarlayın.
 policy-OverridePostUpdatePage = Güncelleme sonrası “Yenilikler” sayfasını değiştir. Güncelleme sonrası sayfasını devre dışı bırakmak istiyorsanız bu ilkeyi boş olarak ayarlayabilirsiniz.
+policy-PasswordManagerEnabled = Parolaları parola yöneticisine kaydetmeyi aç.
 policy-Permissions = Kamera, mikrofon, konum ve bildirim izinlerini yapılandır.
 policy-PopupBlocking = Belirli web sitelerin varsayılan olarak açılır pencere açmasına izin ver.
 policy-Preferences = Bir tercihler alt kümesinin değerini ayarlayıp kilitle.

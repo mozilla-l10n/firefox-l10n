@@ -19,7 +19,7 @@ onboarding-button-label-get-started = Başlayalım
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = { -brand-short-name } tarayıcısına hoş geldiniz
-onboarding-welcome-body = Tarayıcınız hazır.<br/>Ama { -brand-product-name } yalnızca bir tarayıcı değil.
+onboarding-welcome-body = Tarayıcınız hazır. Ama { -brand-product-name } yalnızca bir tarayıcı değil.
 onboarding-welcome-learn-more = Avantajlar hakkında daha fazla bilgi alın.
 onboarding-join-form-header = { -brand-product-name }’a katılın
 onboarding-join-form-body = Başlamak için e-posta adresinizi yazın.

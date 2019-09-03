@@ -79,8 +79,6 @@ login-item-origin-label = Web sitesi adresi
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Kullanıcı adı
-login-item-username =
-    .placeholder = kullanici@example.com
 about-logins-login-item-username =
     .placeholder = (kullanıcı adı yok)
 login-item-copy-username-button-text = Kopyala
@@ -139,5 +137,10 @@ breach-alert-dismiss =
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Bu kullanıcı adına sahip bir { $loginTitle } hesabı zaten var.
 # This is a generic error message.
 about-logins-error-message-default = Bu parola kaydedilirken bir hata oluştu.
