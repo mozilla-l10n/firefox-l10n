@@ -19,6 +19,10 @@ onboarding-button-label-get-started = Први кораци
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Добродошли у { -brand-short-name }
+onboarding-join-form-email =
+    .placeholder = Унесите е-адресу
+onboarding-join-form-email-error = Потребна је важећа е-адреса
+onboarding-join-form-continue = Настави
 onboarding-start-browsing-button-label = Почните са прегледањем
 onboarding-cards-dismiss =
     .title = Уклони
@@ -44,6 +48,9 @@ onboarding-sync-form-sub-header = да бисте наставили на { -syn
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Корисни производи
+onboarding-benefit-knowledge-title = Примењена знања
+onboarding-benefit-privacy-title = Права приватност
 
 ## These strings belong to the individual onboarding messages.
 

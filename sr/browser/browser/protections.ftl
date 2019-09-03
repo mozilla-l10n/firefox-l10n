@@ -5,10 +5,14 @@
 protection-report-page-title = Заштите приватности
 protection-report-content-title = Заштите приватности
 etp-card-title = Побољшана заштита од праћења
+# This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
+# capitalization for this string should match the output for your locale.
+graph-today = Данас
 social-tab-title = Трагачи с друштвених мрежа
 tracker-tab-title = Садржај који прати
 turn-on-sync = Укључите { -sync-brand-short-name }…
     .title = Отворите подешавања синхронизовања
+auto-scan = Аутоматски скенирано данас
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

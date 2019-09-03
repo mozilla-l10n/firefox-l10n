@@ -71,8 +71,8 @@ login-item-origin-label = Адреса веб странице
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Корисничко име
-login-item-username =
-    .placeholder = ime@example.com
+about-logins-login-item-username =
+    .placeholder = (без корисничког имена)
 login-item-copy-username-button-text = Копирај
 login-item-copied-username-button-text = Копирано!
 login-item-password-label = Лозинка
@@ -109,4 +109,7 @@ confirm-discard-changes-dialog-message = Све несачуване измен�
 confirm-discard-changes-dialog-confirm-button = Одбаци
 
 ## Breach Alert notification
+
+
+## Error Messages
 
