@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "बिजाब बाख्रि">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
@@ -48,8 +48,8 @@
 <!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.open_window.label           "मोनसे गोदान उइन्ड'आव खेव">
 <!ENTITY cmd.open_window.accesskey       "N">
-
-
+<!ENTITY cmd.open_private_window.label     "मोनसे गोदान प्राइभेट उइन्ड'खौ खेव">
+<!ENTITY cmd.open_private_window.accesskey "P">
 <!ENTITY cmd.open_tab.label              "मोनसे गोदान टेबआव खेव">
 <!ENTITY cmd.open_tab.accesskey          "w">
 <!ENTITY cmd.open_all_in_tabs.label      "गासैखौबो टेबाव खेव">
@@ -70,21 +70,15 @@
 <!ENTITY cmd.new_separator.label           "गोदान बोखावग्रा">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "लाइभ बुकमार्कखौ फिन ल'ड खालाम...">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-
-<!ENTITY cmd.moveBookmarks.label                  "लोरिहो...">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
-
 <!ENTITY col.name.label          "मुं">
 <!ENTITY col.tags.label          "टेगफोर">
 <!ENTITY col.url.label           "जायगा">
 <!ENTITY col.mostrecentvisit.label "दासो थांनाय">
 <!ENTITY col.visitcount.label    "नायनो थांनाय काउन्ट">
-<!ENTITY col.description.label   "बेखेवनाय">
 <!ENTITY col.dateadded.label     "दाजाबदेरबाय">
 <!ENTITY col.lastmodified.label  "जोबथा महर सोलायबाय">
 
+<!ENTITY bookmarksSearch.placeholder  "बुकमार्कफोरखौ नागिर">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -96,10 +90,6 @@
 
 <!ENTITY forwardButton.tooltip  "सिगांथि थां">
 
-<!ENTITY detailsPane.more.label "गोबां">
-<!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "खम">
-<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "नायनो थाखाय मोनसे आइटेम सायख आरो बेनि आखुथायफोरखौ सुजु">
 
 <!ENTITY view.label               "नुथाय">

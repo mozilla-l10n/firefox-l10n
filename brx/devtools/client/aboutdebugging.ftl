@@ -16,9 +16,15 @@
 
 # USB section of the Setup page (USB status)
 about-debugging-setup-usb-status-enabled = मावथि खालामबाय
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = बोखार
 
 # Runtime Page strings
 
 
 # Debug Targets strings
 
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will uninstall the extension and remove it from the page.
+about-debugging-tmp-extension-remove-button = बोखार

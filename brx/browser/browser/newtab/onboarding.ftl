@@ -35,6 +35,7 @@
 
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = सिनक
+onboarding-browse-privately-button = मोनसे प्राइभेट उइन्ड'खौ खेव
 
 ## Message strings belonging to the Return to AMO flow
 

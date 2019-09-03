@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-
-
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -17,45 +17,30 @@
 
 <!ENTITY appmenu.tooltip                     "मेनु खेव">
 <!ENTITY navbarOverflow.label                "गोबां टुल...">
+
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "टेबखौ फिन ल'ड खालाम">
-<!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "गासै टेबखौ फिन ल'ड खालाम">
-<!ENTITY  reloadAllTabs.accesskey            "A">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "टेबखौ आगदाथिं बन्द खालाम">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "गुबुन टेबखौ बन्द खालाम">
-<!ENTITY  closeOtherTabs.accesskey           "o">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-
 <!ENTITY  pinTab.label                       "पिन टेब">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "टेबखौ आनपिन खालाम">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "b">
-
-
-
-
-
-
-<!ENTITY  moveToNewWindow.label              "गोदान उइन्ड'याव थां">
-<!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "गासै टेबखौ बुकमार्क खालाम">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "बन्द टेबखौ  सिगांनि महराव लाबोफिन">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "टेबखौ बन्द खालाम">
-<!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "गासै टेबखौ लिस्ट खालाम">
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
 
 <!ENTITY tabCmd.label "गोदान टेब">
 <!ENTITY tabCmd.accesskey "T">
@@ -75,6 +60,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
+
 <!ENTITY goOfflineCmd.label "खामानि अफलाइन">
 <!ENTITY goOfflineCmd.accesskey "k">
 
@@ -85,21 +71,18 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "बुकमार्क टुलबार आइटेमफोर">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "गासै टेबखौ फिन ल'ड खालाम">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "गासै टेबखौ बुकमार्क खालाम">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "बन्द टेबखौ  सिगांनि महराव लाबोफिन">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
-
 <!ENTITY pageSourceCmd.label "बिलाइ फुंखा">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+
 <!ENTITY pageInfoCmd.label "बिलाइनि मोनथिहोनाय">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "आं">
-
-
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "आबुं स्क्रिनखौ हाबहो">
@@ -112,11 +95,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "गासै टेबखौ दिन्थि">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
-
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; आव साइन-इन खालाम">
-
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; जों फिन फोनांजाब खालाम">
-
 
 
 <!ENTITY fullScreenMinimize.tooltip "मिनिमाइज खालाम">
@@ -126,30 +106,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "आबुं स्क्रिन म'ड निफ्राय ओंखार लां">
 <!ENTITY fullScreenExit.accesskey "F">
+
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
 <!ENTITY leaveDOMFullScreen.label "आबुं स्क्रिन निफ्राय ओंखार लां">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
+
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
 
 <!ENTITY closeWindow.label "उइन्ड'खौ बन्द खालाम">
 <!ENTITY closeWindow.accesskey "d">
@@ -160,18 +155,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "बे बुकमार्कखौ सुजु">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-
-<!ENTITY subscribeToPageMenuitem.label "बे बिलाइखौ चाबस्क्राइब खालाम...">
 <!ENTITY addCurPagesCmd.label "गासै टेबखौ बुकमार्क हो...">
+
 <!ENTITY showAllBookmarks2.label "गासै बुकमार्कखौ दिन्थि">
-
-
-
 <!ENTITY bookmarksToolbarChevron.tooltip "गोबां बुकमार्कखौ दिन्थि">
-
-
-
-
 
 <!ENTITY backCmd.label                "उनथिं">
 <!ENTITY backButton.tooltip           "मोनसे पेस उनफिन">
@@ -194,46 +181,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- Toolbar items -->
-
 <!ENTITY homeButton.label             "ह'म">
 
 <!ENTITY bookmarksButton.label          "बुकमार्क">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "बुकमार्क">
-
-
+<!ENTITY bookmarksSubview.label             "बुकमाकॅफोर">
 <!ENTITY viewBookmarksSidebar2.label        "बुकमार्क साइडबारखौ नाय">
-
 <!ENTITY viewBookmarksToolbar.label         "बुकमार्क टुलबारखौ नाइ">
+<!ENTITY searchBookmarks.label              "बुकमार्कफोरखौ नागिर">
 
-
-
-
-
-
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "आं">
 
@@ -247,9 +208,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "डाउनल'डफोर">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
-
 <!ENTITY addons.label                 "Add-ons">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
@@ -260,16 +222,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "गुदिमुवाखौ नायदिं">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
+
 <!ENTITY fileMenu.label         "फाइल">
 <!ENTITY fileMenu.accesskey       "F">
-
 
 <!ENTITY newNavigatorCmd.label        "गोदान उइन्ड'">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "गोदान प्राइभेट उइन्ड'">
 <!ENTITY newPrivateWindow.accesskey "W">
-
 
 <!ENTITY editMenu.label         "सुजुनाय">
 <!ENTITY editMenu.accesskey       "E">
@@ -282,9 +243,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "दानस'">
 <!ENTITY cutCmd.key             "X">
 <!ENTITY cutCmd.accesskey         "t">
-
-
-
 <!ENTITY pasteCmd.label           "फोनांजाब हो">
 <!ENTITY pasteCmd.key           "V">
 <!ENTITY pasteCmd.accesskey         "P">
@@ -309,10 +267,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "साइडबार">
 <!ENTITY viewSidebarMenu.accesskey "e">
+
 <!ENTITY viewCustomizeToolbar.label       "गावनि गोसोबादि माव...">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
-
-
 
 <!ENTITY historyMenu.label "जारिमिन">
 <!ENTITY historyMenu.accesskey "s">
@@ -322,70 +279,44 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "आवगयनि जथुम्माखौ लाबोफिन">
 
 <!ENTITY showAllHistoryCmd2.label "गासै जारिमिनखौ दिनथि">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "गावनि गोसोबादि माव">
-<!ENTITY appMenuCustomize.tooltip "मेनु आरो ट्लबारखौ गावनि गोसोबादि खालाम">
-<!ENTITY appMenuCustomizeExit.label "गावनि गोसोबादि खालामनाय निफ्राय ओंखार लां">
-<!ENTITY appMenuCustomizeExit.tooltip "गावनि गोसोबादि खालामनायखौ फोजोब">
-<!ENTITY appMenuHistory.label "जारिमिन">
 <!ENTITY appMenuHistory.showAll.label "गासै जारिमिनखौ दिनथि">
 <!ENTITY appMenuHistory.clearRecent.label "दानि जारिमिनखौ खोमोर...">
 <!ENTITY appMenuHistory.restoreSession.label "आवगयनि जथुम्माखौ लाबोफिन">
 <!ENTITY appMenuHistory.viewSidebar.label "जारिमिन साइडबारखौ नाय">
 
-
-<!ENTITY appMenuHelp.tooltip "मदद मेनुखौ खेव">
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 
 
-
-
-
-
-
 <!ENTITY customizeMenu.addToToolbar.label "टुलबारजों दाजाबदेर">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "मेनुजों दाजाबदेर">
-<!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
-
-<!ENTITY customizeMenu.moveToToolbar.label "टुलबारआव लां">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
+     in the location bar. -->
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "मेनुआव लां">
-<!ENTITY customizeMenu.moveToPanel.accesskey "o">
-
-
-
-
+     so they should have different access keys.  -->
 <!ENTITY customizeMenu.removeFromToolbar.label "टुलबार निफ्राय बोखार">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
-<!ENTITY customizeMenu.removeFromMenu.label "मेनु निफ्राय बोखार">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "गोबां आइटेम दाजाबदेर...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -396,17 +327,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.switchToTab.label     "टेबाव थां:">
 
-
-
-<!ENTITY urlbar.searchSuggestionsNotification.disable "नङा">
-
-<!ENTITY urlbar.searchSuggestionsNotification.enable "नंगौ">
-
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-
-
-
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -428,10 +350,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
-
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
@@ -442,9 +364,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
-
 <!ENTITY searchFor.label              "नि थाखाय नागिर">
 <!ENTITY searchWith.label             "जों:">
+
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
      providers when a one off engine has been selected.  The searchAfter text is
@@ -452,18 +374,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
 <!ENTITY searchAfter.label            "">
+
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "नागिरनाय सेटिंखौ सोलाय">
-
-
-
-
 
 
 <!ENTITY openLinkCmdInTab.label       "गोदान टेबआव लिंकखौ खेव">
@@ -478,17 +402,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "फ्रेमखौ गोदान उइन्ड'आव खेव">
 <!ENTITY openFrameCmd.accesskey       "W">
-
-
 <!ENTITY showOnlyThisFrameCmd.label     "बे फ्रेमखौल' दिनथि">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "फ्रेमखौ फिन ल'ड खालाम">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "सायखनाय फुंखाखौ नाय">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML फुंखाखौ नाय">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "बिलाइ फुंखाखौ नाय">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
@@ -518,11 +437,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "बे फ्रेमखौ बुकमार्क हो">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+
 <!ENTITY emailPageCmd.label           "इ-मेइल लिंक...">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "..बादि बिलाइखौ थिना दोन...">
 <!ENTITY savePageCmd.accesskey        "A">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "बादि फ्रेमखौ थिना दोन...">
@@ -541,8 +463,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "इ-मेइल भिडिअ'...">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "भिडिअ'खौ डिभाइसआव दैथाय हर">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "इ-मेइल अडिअ'...">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "बे प्लागिनखौ मावथि खालाम">
@@ -550,6 +470,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "बे प्लागिनखौ दोनखोमा">
 <!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "लिंक जायगाखौ कपि खालाम">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "मुसुखा जायगाखौ कपि खालाम">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -560,14 +483,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "अडिअनि जायगाखौ कपि खालाम">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "इ-मेइल थंखौ कपि खालाम">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "बे फ्रेम">
 <!ENTITY thisFrameMenu.accesskey          "h">
+
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-
 <!ENTITY mediaPlay.label             "दाम">
 <!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "थाद' हो">
@@ -579,22 +505,9 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "सोदोबगोनां खालाम">
 <!ENTITY mediaUnmute.accesskey       "m">
-
-
-
-
-
-
-
-
-
-
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -613,49 +526,49 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "अनजिमा सानथायखौ दोनखोमा">
 <!ENTITY videoHideStats.accesskey    "t">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-
 <!ENTITY fullZoomEnlargeCmd.label       "गेदेरै जुम खालाम">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "फिसायै जुम खालाम">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "फिन फज'">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "फराय बिजाबखौल' जुम खालाम">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
+
 <!ENTITY fullZoom.label                 "जुम खालाम">
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "साइड बारखौ बन्द खालाम">
 
-
 <!ENTITY quitApplicationCmdWin2.label       "ओंखार लां">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
-
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "नागार">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 
-
-
 <!ENTITY closeCmd.label                 "बन्द खालाम">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
@@ -666,8 +579,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "गुदि बिलाइनि आदब">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
-
-<!ENTITY pageReportIcon.tooltip            "बे साइटनि थाखाय पप-आप हेंथाहोनाय सेटिंखौ सोलाय">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -696,29 +607,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "सोदोब बिहुखौ दाजाबदेर...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "S">
 
-
-
-
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
 
 
 
 
 <!-- Strings for connection state warnings. -->
 
-
-
 <!-- Strings for connection state warnings in the subview. -->
-
-
-
-
-
-
-
-
-
-
 
 <!ENTITY identity.disableMixedContentBlocking.label "दानि थाखाय रैखाथिखौ लोरबां खालाम">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
@@ -726,43 +628,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
 <!ENTITY identity.permissions "गनायथि">
+
+
+
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-
 <!ENTITY tabsToolbar.label "ब्राउजार टेबफोर">
+
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-
-
-
-
-
-
-
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!ENTITY syncBrand.shortName.label    "सिनक">
@@ -774,108 +670,43 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "सिनक">
 
-<!ENTITY customizeMode.menuAndToolbars.empty "गोबां टुल लुबैयो?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "गोबां add-ons निफ्राय बासिख">
-<!ENTITY customizeMode.restoreDefaults "डिफल्टखौ मोनफिन">
-
-<!ENTITY customizeMode.titlebar "बिमुं बार">
-
-<!ENTITY customizeMode.lwthemes "थिम">
-<!ENTITY customizeMode.lwthemes.myThemes "आंनि थिम">
-<!ENTITY customizeMode.lwthemes.recommended "थिनबाय">
-<!ENTITY customizeMode.lwthemes.menuManage "मेनेज खालाम">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "गोबां थिम ला">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-
-
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-
-
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-
-
-
 
 <!ENTITY getUserMedia.selectCamera.label "शेयार खालामनो केमेरा:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "शेयार खालामनो माइक्र'फन:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
 <!ENTITY getUserMedia.allWindowsShared.message "नोंथांनि स्क्रिननि गासै नुथाव उइन्ड'खौ शेयार खालामगोन।">
 
 
 
 
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
-
-
-
-<!ENTITY trackingContentBlocked.message "ट्रेक खालाम गासिनो दं">
-<!ENTITY trackingContentBlocked.moreinfo "नोंथांनि अनलाइन खामानिखौ ट्रेक खालामनाय बिलाइनि बाहागोखौ ब्लक खालामबाय।">
-<!ENTITY trackingContentBlocked.learnMore "गोबां सोलों">
-
-
-
-<!ENTITY trackingContentBlocked.block.label "रैखाथिखौ हाहोनाय खालाम">
-<!ENTITY trackingContentBlocked.block.accesskey "E">
-<!ENTITY trackingContentBlocked.disabled.message "रैखाथि ट्रेक खालामनायखौ लोरबां खालामनाय जायो।">
-
 <!ENTITY pluginNotification.showAll.label "गासैबो दिन्थि">
 <!ENTITY pluginNotification.showAll.accesskey "S">
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-<!ENTITY pluginActivateNow.label "दानो गनायथि हो">
-<!ENTITY pluginActivateAlways.label "गनायथि हो आरो गोसोखां">
-<!ENTITY pluginBlockNow.label "प्लागिनखौ ब्लक खालाम">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
-
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "बन्द खालाम">
-
-<!ENTITY appMenuSidebars.label         "साइटबार">
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-
-<!ENTITY panicButton.view.mainTimeframeDesc       "जोबथाखौ बावलां:">
-<!ENTITY panicButton.view.5min                    "बा मिनिट">
-<!ENTITY panicButton.view.2hr                     "नै घन्टा">
-<!ENTITY panicButton.view.day                     "24 घन्टा">
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-
-<!ENTITY panicButton.view.mainActionDesc          "दावगालांगोन:">
-<!ENTITY panicButton.view.deleteCookies           "दानि <html:strong>कुकि</html:strong>खौ खोमोर">
-<!ENTITY panicButton.view.deleteHistory           "दानि <html:strong>जारिमिन</html:strong>खौ खोमोर">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "गासै <html:strong>टेब</html:strong> आरो <html:strong>उइन्ड'स</html:strong>खौ बन्द खालाम">
-<!ENTITY panicButton.view.openNewWindow           "गोदान साफा उइन्ड'खौ खेव">
-
-<!ENTITY panicButton.view.undoWarning             "बे हाबाखौ मावनो हायै खालामनो हाया।">
-<!ENTITY panicButton.view.forgetButton            "बावलां!">
 
 <!ENTITY panicButton.thankyou.msg1                "नोंथांनि दानि जारिमिनखौ खोमोरनाय जायो।">
 <!ENTITY panicButton.thankyou.msg2                "रैखाथि ब्राउजिं!">
@@ -890,23 +721,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->

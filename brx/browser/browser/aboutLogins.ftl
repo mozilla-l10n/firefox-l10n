@@ -17,6 +17,7 @@
 
 ## Login
 
+login-item-delete-button = खोमोर
 login-item-username-label = बाहायग्रा मुं
 login-item-password-label = पासवर्डखौ
 
@@ -25,6 +26,7 @@ login-item-password-label = पासवर्डखौ
 
 ## Dialogs
 
+confirm-delete-dialog-confirm-button = खोमोर
 
 ## Breach Alert notification
 

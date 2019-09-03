@@ -4,3 +4,4 @@
 
 profiles-remove = बोखार
 profiles-yes = नंगौ
+profiles-delete-files = फाइलफोरखौ खोमोर
