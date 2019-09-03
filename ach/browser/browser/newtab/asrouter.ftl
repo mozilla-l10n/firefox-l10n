@@ -54,15 +54,31 @@ cfr-whatsnew-panel-header = Ngo Manyen
 cfr-whatsnew-fx70-title = { -brand-short-name } dong lwenyo matek kato pi mung mamegi
 cfr-whatsnew-tracking-protect-title = Gwokke ki ikom lulub kor
 cfr-whatsnew-tracking-protect-link-text = Nen Ripot Mamegi
+cfr-whatsnew-tracking-blocked-subtitle = Nicake { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Nen Ripot
+cfr-whatsnew-lockwise-take-title = Cwal mung me donyo mamegi kwedi
+cfr-whatsnew-lockwise-take-link-text = Nong purugram ne
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Nong alamabuk man i cim mamegi
+cfr-doorhanger-sync-bookmarks-body = Cwal alamabuk mamegi, mung me donyo, gin mukato ki mapol ka weng ma i donyo iyie { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Cak { -sync-brand-short-name }
+    .accesskey = C
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Pe Irweny Mung me donyo Doki Matwal
+cfr-doorhanger-sync-logins-ok-button = Cak { -sync-brand-short-name }
+    .accesskey = C
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-body = Send Tab weko inywako mayot kakube man ki cim mamegi onyo ka mo keken ma idonyo iyie { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Tem Send Tab
+    .accesskey = T
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-ok-button = Tem { -send-brand-name }
+    .accesskey = T

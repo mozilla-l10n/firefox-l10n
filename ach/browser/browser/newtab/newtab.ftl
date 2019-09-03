@@ -47,6 +47,9 @@ newtab-topsites-add-button = Medi
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Imoko ni imito kwanyo nyig jami weng me potbuk man ki i gin mukato mamegi?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Pe ki twero gonyo tic man.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Alamabuk
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Lok Kakube me Gam
 newtab-menu-go-to-download-page = Cit i Potbuk me Gam
 newtab-menu-remove-download = Kwany ki i Gin mukato
@@ -109,11 +116,16 @@ newtab-menu-open-file = Yab Pwail
 
 newtab-label-visited = Kilimo
 newtab-label-bookmarked = Kiketo alamabuk
+newtab-label-removed-bookmark = Kikwanyo alamabuk
 newtab-label-recommended = Ma cuke lamal
 newtab-label-saved = Kigwoko i { -pocket-brand-name }
 newtab-label-download = Ki gamo
 
 ## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Kwany bute
@@ -126,6 +138,13 @@ newtab-section-menu-add-search-engine = Med ingin me yeny
 newtab-section-menu-move-up = Kob Malo
 newtab-section-menu-move-down = Kob Piny
 newtab-section-menu-privacy-notice = Ngec me mung
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Kan Bute
+newtab-section-expand-section-label =
+    .aria-label = Yar Bute
 
 ## Section Headers.
 
@@ -142,6 +161,12 @@ newtab-empty-section-highlights = Cak yeny, ka wa binyuto coc akwana mabeco, vid
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ityeko weng. Rot doki lacen pi lok madito mapol ki bot { $provider }. Pe itwero kuro? Yer lok macuke lamal me nongo lok mabeco mapol ki i but kakube.
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-content = Rot doki lacen pi lok mapol.
+newtab-discovery-empty-section-topstories-try-again-button = Tem Doki
+newtab-discovery-empty-section-topstories-loading = Tye ka cano…
 
 ## Pocket Content Section.
 

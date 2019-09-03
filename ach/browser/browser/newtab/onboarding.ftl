@@ -48,6 +48,7 @@ onboarding-sync-form-skip-login-button = Kal citep man
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = Ket email mamegi
+onboarding-sync-form-sub-header = me mede i { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -82,6 +83,7 @@ onboarding-browse-privately-text = Yeny i mung jwayo yeny ki gin mukato me yeny 
 onboarding-browse-privately-button = Yab dirica me mung
 onboarding-firefox-send-button = Tem { -send-brand-name }
 onboarding-mobile-phone-title = Nong { -brand-product-name } i Cim mamegi
+onboarding-send-tabs-button = Cak tic ki Send Tabs
 onboarding-pocket-anywhere-title = Kwan ki Winy Ka mo keken
 onboarding-pocket-anywhere-button = Tem { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Wot ki mung me donyo mamegi ka mo keken
