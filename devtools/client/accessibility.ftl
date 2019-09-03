@@ -52,3 +52,4 @@ accessibility-keyboard-issue-tabindex = Undvik att använda attribut <code>tabin
 accessibility-keyboard-issue-action = Interaktiva element måste kunna aktiveras med ett tangentbord. <a>Läs mer</a>
 accessibility-keyboard-issue-focusable = Interaktiva element måste vara fokuserbara. <a>Läs mer</a>
 accessibility-keyboard-issue-focus-visible = Fokuserbara element kan sakna fokus-styling. <a>Läs mer</a>
+accessibility-keyboard-issue-mouse-only = Klickabara element måste vara fokuserbara och ska ha interaktiv semantik. <a>Läs mer</a>

@@ -69,6 +69,7 @@ policy-OfferToSaveLogins = Påtvinga inställningen att tillåta { -brand-short-
 policy-OfferToSaveLoginsDefault = Ange standardvärdet för att { -brand-short-name } ska erbjuda att komma ihåg sparade inloggningar och lösenord. Både sanna och falska värden accepteras.
 policy-OverrideFirstRunPage = Åsidosätt sidan som visas första gången. Sätt denna policy till blankt om du vill inaktivera sidan som visas första gången.
 policy-OverridePostUpdatePage = Åsidosätt sidan "Vad är nytt" efter uppdateringar. Sätt denna policy till blankt om du vill inaktivera sidan efter uppdateringar.
+policy-PasswordManagerEnabled = Aktivera att spara lösenord i lösenordshanteraren.
 policy-Permissions = Ställ in behörigheter för kamera, mikrofon, plats och notifieringar.
 policy-PopupBlocking = Tillåt vissa webbplatser att visa popup-fönster som standard.
 policy-Preferences = Ställ in och lås värdet för en delmängd av inställningar.
