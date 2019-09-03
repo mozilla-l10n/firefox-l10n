@@ -52,3 +52,4 @@ accessibility-keyboard-issue-tabindex = 避免使用大於 0 的 <code>tabindex<
 accessibility-keyboard-issue-action = 互動式元素必須可用鍵盤作動。<a>了解更多</a>
 accessibility-keyboard-issue-focusable = 互動式元素必須可聚焦。<a>了解更多</a>
 accessibility-keyboard-issue-focus-visible = 可聚焦元素可能缺少聚焦樣式。<a>了解更多</a>
+accessibility-keyboard-issue-mouse-only = 可點擊的元素需可聚焦，且應有互動語意。<a>了解更多</a>
