@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Opciones
        *[other] Preferencias
     }
-menu-menuitem-feedback = Enviar comentario
-menu-menuitem-faq = Preguntas frecuentes
+about-logins-menu-menuitem-help = Ayuda
 menu-menuitem-android-app = { -lockwise-brand-short-name } para Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } para iPhone y iPad
 
@@ -57,6 +56,8 @@ login-list-last-changed-option = Última modificación
 login-list-last-used-option = Último uso
 login-list-intro-title = No se encontraron inicios de sesión
 login-list-intro-description = Cuando guardas una contraseña en { -brand-product-name }, se mostrará aquí.
+about-logins-login-list-empty-search-title = No se encontraron credenciales
+about-logins-login-list-empty-search-description = No hay resultados que coincidan con tu búsqueda
 login-list-item-title-new-login = Nuevo inicio de sesión
 login-list-item-subtitle-new-login = Ingresa tus credenciales de inicio de sesión
 login-list-item-subtitle-missing-username = (sin nombre de usuario)
@@ -67,7 +68,7 @@ login-intro-heading = ¿Buscas tus inicios de sesión guardados? Configura { -sy
 login-intro-description = Si salvaste tus inicios de sesión en { -brand-product-name } en un dispositivo diferente, aquí se muestra como obtenerlas para aquí también:
 login-intro-instruction-fxa = Crea o inicia sesión en tu { -fxaccount-brand-name } en el dispositivo donde tus inicios de sesión están guardados
 login-intro-instruction-fxa-settings = Asegúrate que has seleccionado la casilla de inicios de sesión en los ajustes de { -sync-brand-short-name }
-login-intro-instruction-faq = Visita { -lockwise-brand-short-name } <a data-l10n-name="faq">preguntas frecuentes</a> para más ayuda
+about-logins-intro-instruction-help = Consulta <a data-l10n-name="help-link">ayuda de { -lockwise-brand-short-name }</a> para obtener más ayuda
 
 ## Login
 
@@ -77,10 +78,11 @@ login-item-delete-button = Eliminar
 login-item-origin-label = Dirección de sitio web
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Iniciar
 login-item-username-label = Nombre de usuario
 login-item-username =
     .placeholder = nombre@example.com
+about-logins-login-item-username =
+    .placeholder = (sin nombre de usuario)
 login-item-copy-username-button-text = Copiar
 login-item-copied-username-button-text = ¡Copiado!
 login-item-password-label = Contraseña
@@ -134,3 +136,13 @@ breach-alert-text = Las contraseñas fueron filtradas o robadas de este sitio we
 breach-alert-link = Saber más acerca de esta filtración
 breach-alert-dismiss =
     .title = Cerrar esta alerta
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Ya hay una entrada para { $loginTitle } con ese nombre de usuario.
+# This is a generic error message.
+about-logins-error-message-default = Se produjo un error al intentar guardar esta contraseña.
