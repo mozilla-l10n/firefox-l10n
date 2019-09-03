@@ -29,8 +29,7 @@ menu-menuitem-preferences =
         [windows] iɣewwaṛen
        *[other] Ismenyifen
     }
-menu-menuitem-feedback = Azen tikti
-menu-menuitem-faq = Isteqsiyen i d-yettuɣalen s waṭas.
+about-logins-menu-menuitem-help = Tallalt
 menu-menuitem-android-app = { -lockwise-brand-short-name } i Android
 
 ## Login List
@@ -40,7 +39,9 @@ login-list-name-option = Isem (A-Z)
 login-list-last-changed-option = Asnifel aneggaru
 login-list-last-used-option = Aseqdec anneggaru
 login-list-intro-title = Ulac inekcam yettwafen
+about-logins-login-list-empty-search-title = Ulac inekcam yettwafen
 login-list-item-title-new-login = Anekcum amaynut
+login-list-item-subtitle-new-login = Sekcem inekcumen-ik n tuqqna
 login-list-item-subtitle-missing-username = (ulas isem n useqdac)
 
 ## Introduction screen
@@ -55,8 +56,8 @@ login-item-origin-label = Tansa n usmel web
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Isem n useqdac
-login-item-username =
-    .placeholder = isem@example.com
+about-logins-login-item-username =
+    .placeholder = (ulas isem n useqdac)
 login-item-copy-username-button-text = Nɣel
 login-item-copied-username-button-text = Inɣel!
 login-item-password-label = Awal uffir
@@ -91,3 +92,6 @@ confirm-discard-changes-dialog-confirm-button = Kkes
 
 breach-alert-dismiss =
     .title = Mdel ulɣu-agi
+
+## Error Messages
+
