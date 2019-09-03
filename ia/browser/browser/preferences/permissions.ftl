@@ -77,7 +77,7 @@ permissions-exceptions-etp-desc = Tu ha arrestate le protectiones sur iste sitos
 permissions-exceptions-cookie-window =
     .title = Exceptiones - Cookies e Datos de sito
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Tu pote specificar qual sitos web es sempre o jammais consentite a usar cookies e datos de sito.  Scribe le adresse exacte del sito que tu voler gerer e pois clicca Blocar, Consentir pro le session, o Consentir.
+permissions-exceptions-cookie-desc = Tu pote specificar qual sitos web sempre o nunquam pote usar cookies e datos de sito.  Scribe le adresse exacte del sito que tu vole gerer e pois clicca sur Blocar, Permitter pro le session, o Permitter.
 
 ## Exceptions - Pop-ups
 
@@ -105,7 +105,7 @@ permissions-exceptions-addons-desc = Tu pote specificar que sitos web es permitt
 permissions-exceptions-autoplay-media-window2 =
     .title = Exceptiones - Reproduction automatic
     .style = { permissions-window.style }
-permissions-exceptions-autoplay-media-desc2 = Tu pote specificar le sitos web que es sempre permittite e illos que non es jammais permittite a presentar automatiamente le media con son.  Scribe le adresse del sito e tunc clicca sur Blocar o Permitter.
+permissions-exceptions-autoplay-media-desc2 = Tu pote specificar qual sitos web sempre o nunquam pote reproducer automaticamente le multimedia con sono. Scribe le adresse del sito que tu vole gerer e pois clicca sur Blocar o Permitter.
 
 ## Site Permissions - Autoplay
 
