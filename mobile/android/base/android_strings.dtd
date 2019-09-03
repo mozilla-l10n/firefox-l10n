@@ -280,7 +280,7 @@
 <!ENTITY pref_cookies_menu "Piškotki">
 <!ENTITY pref_cookies_accept_all "Omogočeno">
 <!ENTITY pref_cookies_not_accept_foreign "Omogočeno, brez tretjih strani">
-<!ENTITY pref_cookies_not_accept_trackers "Omogočeno, razen sledilnih piškotkov">
+<!ENTITY pref_cookies_not_accept_trackers "Omogočeno, brez sledilnih piškotkov">
 <!ENTITY pref_cookies_disabled "Onemogočeno">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -597,7 +597,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Naslov">
 <!ENTITY bookmark_edit_keyword "Ključna beseda">
 <!ENTITY bookmark_select_folder "Izberite mapo">
-
 <!ENTITY bookmark_edit_undo "Razveljavi">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -881,11 +880,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Dodajte predmete bralnega pogleda med zaznamke za branje brez povezave.">
 <!ENTITY helper_triple_readerview_open_button "Dodaj med zaznamke">
 
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Dobrodošli v &brandShortName;u">
 <!ENTITY activity_stream_signin_description "Začnite sinhronizirati zaznamke, gesla in ostalo s Firefox Računom.">
 <!ENTITY activity_stream_signin_button "Prijava">
-<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
-These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "Glavne strani">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
