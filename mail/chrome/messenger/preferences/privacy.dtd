@@ -36,3 +36,7 @@
 <!ENTITY dntTrackingNotOkay.label2 "웹 사이트에 방문자 추적 중지를 요청">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "방문자 추적 중지에 대해 더 알아보기">
+
+<!ENTITY doNotTrackCheck.label "웹사이트에 “방문자 추적 금지” 신호를 보내서 추적을 원하지 않는다고 알림">
+<!ENTITY doNotTrackCheck.accesskey "n">
+<!ENTITY doNotTrackLearnMore.label "더 알아보기">

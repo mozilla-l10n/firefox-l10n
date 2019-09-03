@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "첨부">
 <!ENTITY panePrivacy.title        "개인정보">
 <!ENTITY paneSecurity.title       "보안">
+<!ENTITY panePrivacySecurity.title "개인 정보 및 보안">
 <!ENTITY paneLightning.title      "캘린더">
 <!ENTITY paneAdvanced.title       "고급">
 <!ENTITY paneAccount.title        "계정">

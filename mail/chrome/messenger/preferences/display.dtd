@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "읽기">
 <!ENTITY display.caption                  "표시">
+<!ENTITY displayName.label                "표시 이름:">
 <!ENTITY showCondensedAddresses.label     "주소록에서 사람에 대한 표시명만 보이기">
 <!ENTITY showCondensedAddresses.accesskey "S">
 

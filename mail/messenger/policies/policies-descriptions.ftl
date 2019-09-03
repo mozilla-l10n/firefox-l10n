@@ -41,6 +41,7 @@ policy-EnableTrackingProtection = 콘텐츠 차단을 작동시키거나 작동�
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = 확장기능을 설치하거나 제거, 잠급니다. 설치 옵션은 URL이나 경로를 파라메터로 받습니다. 설치 제거와 잠금 옵션은 확장기능의 ID를 받습니다.
+policy-ExtensionSettings = 확장기능 설치의 모든 측면을 관리합니다.
 policy-ExtensionUpdate = 확장기능의 자동 업데이트를 활성화하거나 비활성화합니다.
 policy-HardwareAcceleration = False면 하드웨어 가속을 끕니다.
 policy-InstallAddonsPermission = 특정 웹사이트가 애드온을 설치하도록 허용합니다.

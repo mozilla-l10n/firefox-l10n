@@ -2,6 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pane-general-title = 일반
+category-general =
+    .tooltiptext = { pane-general-title }
+general-language-and-appearance-header = 언어와 표현
+general-incoming-mail-header = 받는 메일
+general-files-and-attachment-header = 파일 및 첨부
+general-tags-header = 태그
+general-reading-and-display-header = 읽기 및 표시
+general-updates-header = 업데이트
+general-network-and-diskspace-header = 네트워크 및 디스크 공간
+general-indexing-label = 인덱싱
+composition-category-header = 쓰기
+composition-attachments-header = 첨부
+composition-spelling-title = 맞춤법
+compose-html-style-title = HTML 스타일
+composition-addressing-header = 주소
+privacy-main-header = 개인 정보
+privacy-passwords-header = 비밀번호
+privacy-junk-header = 스팸
+privacy-data-collection-header = 데이터 수집 및 사용
+privacy-security-header = 보안
+privacy-scam-detection-title = 사기 탐지
+privacy-anti-virus-title = 바이러스 방지 프로그램
+privacy-certificates-title = 인증서
+chat-pane-header = 채팅
+chat-status-title = 상태
+chat-notifications-title = 알림
+chat-pane-styling-header = 스타일링
 choose-messenger-language-description = { -brand-short-name }가 메뉴와 메시지, 알림을 표시할 언어를 선택하세요.
 manage-messenger-languages-button =
     .label = 대체 수단 설정…
