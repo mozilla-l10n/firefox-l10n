@@ -56,7 +56,7 @@ serviceworker-worker-status-stopped = 중지됨
 serviceworker-worker-status-registering = 등록중
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = 여기서 검사하려면 서비스 워커를 등록해야 합니다. <a>자세히 보기</a>
+serviceworker-empty-intro = 여기서 검사하려면 서비스 워커를 등록해야 합니다. <a>더 알아보기</a>
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 serviceworker-empty-suggestions = 현재 페이지에 서비스 워커가 있어야 한다면 몇가지 시도해 볼 수 있습니다
@@ -73,6 +73,8 @@ serviceworker-empty-suggestions-aboutdebugging = 다른 도메인의 서비스 �
 manifest-view-header = 앱 매니페스트
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = 오류 및 경고
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = 아이디
 # Header for the Presentation section of Manifest inspection displayed in the application panel.
 manifest-item-presentation = 프레젠테이션
 # Header for the Icon section of Manifest inspection displayed in the application panel.

@@ -37,7 +37,7 @@ onboarding-cards-dismiss =
 
 onboarding-sync-welcome-header = { -brand-product-name }와 함께 하세요
 onboarding-sync-welcome-content = 즐겨찾기와 방문기록, 비밀번호, 다른 설정을 모든 기기에서 사용해 보세요.
-onboarding-sync-welcome-learn-more-link = Firefox 계정 자세히 알아보기
+onboarding-sync-welcome-learn-more-link = Firefox 계정 더 알아보기
 onboarding-sync-form-invalid-input = 유효한 이메일 필요함
 onboarding-sync-legal-notice = 진행하면 <a data-l10n-name="terms">이용 약관</a>과 <a data-l10n-name="privacy">개인 정보 보호 정책</a>에 동의하게 됩니다.
 onboarding-sync-form-input =
