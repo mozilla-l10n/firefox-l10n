@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-option-group-today = दिनै
 about-telemetry-page-title = Telemetry डाटा
 about-telemetry-general-data-section = सरासनस्रा डाटा
 about-telemetry-histograms-section = हिस्ट'ग्राम
