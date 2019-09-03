@@ -814,8 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Bağlantı">
 <!ENTITY identity.connectionSecure "Güvenli bağlantı">
-
-<!ENTITY identity.connectionSecure2 "Bağlantı güvenli">
 <!ENTITY identity.connectionNotSecure "Bağlantı güvenli değil">
 
 <!ENTITY identity.connectionSecure3 "Bağlantı güvenli">
@@ -828,8 +826,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Bu sayfa bir eklenti üzerinden yüklendi.">
 <!ENTITY identity.insecureLoginForms2 "Bu sayfaya girilen hesap bilgileri ele geçirilebilir.">
 <!ENTITY identity.customRoot "Bağlantı, Mozilla’nın tanımadığı bir sertifika yayıncısı tarafından doğrulandı.">
-
-<!ENTITY identity.evOwnerLabel "Site sahibi:">
 
 
 <!-- Strings for connection state warnings. -->
@@ -866,9 +862,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "İzinler">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Ayarlanan izinler">
-
 <!ENTITY identity.permissions3 "İzinler">
 <!ENTITY identity.permissionsEmpty "Bu siteye özel bir izin vermediniz.">
 <!ENTITY identity.permissionsReloadHint "Değişikliklerin uygulanması için bu sayfayı tazelemeniz gerekebilir.">
@@ -882,7 +875,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Gelişmiş izlenme koruması hakkında daha fazla bilgi">
 <!ENTITY protections.settings.label "Koruma ayarları">
-<!ENTITY protections.report.label "Raporun tamamını göster">
 <!ENTITY protections.showreport.label "Raporu göster">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -900,7 +892,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Ödemeler">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Yorumlar">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Videolar">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Korumaları kapatmanıza rağmen site düzgün çalışmıyor mu?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Rapor gönderin">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -925,10 +916,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.label "Kripto madencileri">
 <!ENTITY protections.noTrackersFound.description "Bu sayfada &brandShortName; tarayıcısının tanıdığı bir takipçi tespit edilmedi.">
 
-<!ENTITY protections.crossSiteTrackingCookies.description "Bu çerezler çevrimiçi olarak yaptığınız şeyler hakkında veriler toplamak için sizi siteden siteye takip eder. Reklamverenler ve analiz şirketleri gibi üçüncü taraflar tarafından ayarlanmışlardır.">
+<!ENTITY protections.crossSiteTrackingCookies.description "Bu çerezler, internette yaptığınız şeyler hakkında veri toplamak için sizi siteden siteye takip eder. Reklam verenler ve analiz şirketleri gibi üçüncü taraflar tarafından yerleştirilirler.">
 <!ENTITY protections.cryptominers.description "Kripto madencileri sayısal para madenciliğinde bulunmak için sisteminizin hesaplama gücünü kullanır. Kripto madencilik komut dosyaları pilinizi tüketir, bilgisayarınızı yavaşlatır ve elektrik faturanızı kabartabilir.">
 <!ENTITY protections.fingerprinters.description "Parmak izi toplayıcıları profilinizi oluşturmak için tarayıcı ve bilgisayarınızdaki ayarları toplarlar. Bu dijital parmak izini kullanarak farklı web siteler arasında sizi takip edebilirler.">
-<!ENTITY protections.trackingContent.description "Web siteleri; takip kodu içeren harici reklamlar, videolar ve başka içerikler yükleyebilir. Takip amaçlı içerikleri engellemek sitelerin daha hızlı yüklenmesini sağlayabilir ama bazı düğmeler, formlar ve giriş alanları çalışmayabilir.">
 <!ENTITY protections.socialMediaTrackers.description "Sosya ağlar, internette yaptıklarınızı, gördüklerinizi ve izlediklerinizi takip etmek için diğer web sitelerine takipçiler yerleştirirler. Bu sayede sosyal medya şirketleri, sosyal medya profillerinizde paylaştıklarınızdan çok daha fazla şey öğrenebilir.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
