@@ -83,3 +83,5 @@ confirm-discard-changes-dialog-message = Alokaloka weng ma pe kigwoko bi rweny w
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = Bal mo otime ikare me temo gwoko mung me donyo man.
