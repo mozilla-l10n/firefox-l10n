@@ -12,7 +12,9 @@ abuse-report-learnmore = Es tu incerte re qual problema seliger? <a data-l10n-na
 abuse-report-submit-description = Describe le problema (optional)
 abuse-report-textarea =
     .placeholder = Il es plus facile pro nos abbordar un problema si nos ha detalios. Per favor describe tu experientia. Gratias pro adjutar nos a mantener le Web salubre.
-abuse-report-submit-note = Nota: non includer informationes personal (tal como nomine, adresse de email, numero de telephono, adresse physic). { -vendor-short-name } mantene un registration permanente de iste reportos.
+abuse-report-submit-note =
+    Nota: non include informationes personal (como nomine, adresse de e-mail, numero de telephono, adresse physic).
+    { -vendor-short-name } mantene un registration permanente de iste reportos.
 
 ## Panel buttons.
 
