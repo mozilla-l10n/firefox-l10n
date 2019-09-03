@@ -104,7 +104,7 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codification de texto pro le contento obsolete
 fonts-languages-fallback-desc = Iste codification es usate pro contento obsolete que non ha declarate su codification.
-fonts-languages-fallback-label = Codification de texto de contingentia
+fonts-languages-fallback-label = Codification de texto de ultime recurso
     .accesskey = T
 fonts-languages-fallback-name-auto =
     .label = Predefinition pro le lingua actual
@@ -138,9 +138,6 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamese
 fonts-languages-fallback-name-other =
     .label = Altere (incl. europeo occidental)
-fonts-very-large-warning-title = Dimension minime del character troppo grande
-fonts-very-large-warning-message = Tu ha seligite un valor multo alte pro le dimension minime del (plus que 24 pixels). Isto pote facer difficile o impossibile de usar alcun paginas de configuration importante como iste.
-fonts-very-large-warning-accept = Mantener mi cambios comocunque
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
