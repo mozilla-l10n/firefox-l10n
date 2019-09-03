@@ -45,3 +45,5 @@ appmenu-addon-private-browsing =
     .buttonaccesskey = T
     .secondarybuttonlabel = B'a'n kuxhe'
     .secondarybuttonaccesskey = B'
+appmenu-addon-private-browsing-message = Kamaj kuxh ak' taq'eb'al la aaq'ku' tu { -brand-shorter-name } ye'xh la aq'onvi tulaj unq'a ilb'ale' uva' eetz kuxtu', la ib'ane' asoj axh la b'anon kan stej.
+appmenu-addon-private-browsing-learn-more = Chusa kam chit la ulb'el u tatin unq'a taq'ile'
