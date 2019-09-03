@@ -69,6 +69,7 @@ policy-OfferToSaveLogins = Thực thi cài đặt để cho phép { -brand-short
 policy-OfferToSaveLoginsDefault = Đặt giá trị mặc định để cho phép { -brand-short-name } cung cấp ghi nhớ các thông tin đăng nhập và mật khẩu đã lưu. Cả giá trị đúng và sai đều được chấp nhận.
 policy-OverrideFirstRunPage = Ghi đè trang chạy đầu tiên. Bỏ trống chính sách này nếu bạn muốn vô hiệu hóa trang chạy đầu tiên.
 policy-OverridePostUpdatePage = Ghi đè lên trang cập nhật "Có gì mới". Bỏ trống chính sách này nếu bạn muốn tắt trang cập nhật sau.
+policy-PasswordManagerEnabled = Cho phép lưu mật khẩu vào trình quản lý mật khẩu.
 policy-Permissions = Cấu hình quyền truy cập cho máy ảnh, micrô, vị trí và thông báo.
 policy-PopupBlocking = Cho phép các trang web nhất định hiển thị cửa sổ bật lên theo mặc định.
 policy-Preferences = Đặt và khóa giá trị cho một tập hợp con ưu tiên.
