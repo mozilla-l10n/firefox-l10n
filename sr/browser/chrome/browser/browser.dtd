@@ -142,12 +142,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "Пријављени као">
 <!ENTITY fxa.menu.manageAccount.label "Управљај налогом…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; подешавања…">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Повежи други уређај…">
 
+<!ENTITY fxa.menu.signin.label "Пријавите се у &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Укључите &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Налог">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; услуге">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "У трену пошаљите језичак на било који други уређај где сте већ пријављени.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -799,8 +803,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Веза">
 <!ENTITY identity.connectionSecure "Безбедна веза">
-
 <!ENTITY identity.connectionNotSecure "Веза није безбедна">
+
 <!ENTITY identity.connectionFile "Ова страница се складишти на рачунару.">
 <!ENTITY identity.connectionVerified2 "Безбедно сте повезани на овај сајт, који је у власништву:">
 <!ENTITY identity.connectionInternal "Ово је безбедна &brandShortName; страница.">
@@ -843,8 +847,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Дозволе">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-
 <!ENTITY identity.permissionsEmpty "Овом сајту нису додељене никакве посебне дозволе.">
 <!ENTITY identity.permissionsReloadHint "Можда ћете морати поново учитати страницу да примените промене.">
 <!ENTITY identity.permissionsPreferences.tooltip "Отвори поставке дозвола">
@@ -857,7 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Више података о побољшаној заштити од праћења">
 <!ENTITY protections.settings.label "Подешавања заштите">
-<!ENTITY protections.report.label "Прикажи читав извештај">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -874,7 +875,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Плаћања">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Коментари">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Видео записи">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Страница је неисправна чак и након искључивања заштите?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Пошаљите извештај">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
