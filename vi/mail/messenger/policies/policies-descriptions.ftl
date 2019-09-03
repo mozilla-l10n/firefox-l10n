@@ -41,6 +41,7 @@ policy-EnableTrackingProtection = Bật hoặc tắt chặn nội dung và tùy 
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Cài đặt, gỡ cài đặt hoặc khóa tiện ích mở rộng. Tùy chọn cài đặt lấy URL hoặc đường dẫn làm tham số. Các tùy chọn gỡ cài đặt và khóa có ID tiện ích mở rộng.
+policy-ExtensionSettings = Quản lý các cài đặt cài đặt khác nhau cho tiện ích mở rộng.
 policy-ExtensionUpdate = Bật hoặc tắt cập nhật tiện ích mở rộng tự động.
 policy-HardwareAcceleration = Nếu sai, tắt tăng tốc phần cứng.
 policy-InstallAddonsPermission = Cho phép các trang web nhất định để cài đặt tiện ích.

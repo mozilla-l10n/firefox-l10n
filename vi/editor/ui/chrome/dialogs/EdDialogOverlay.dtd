@@ -14,3 +14,5 @@
 <!ENTITY makeUrlRelative.tooltip "Thay đổi giữa URL tuyệt đối và tương đối. Bạn phải lưu trang trước khi thay đổi.">
 
 <!-- Shared by Link and Image dialogs -->
+<!ENTITY LinkURLEditField2.label "Nhập vị trí trang web, tệp cục bộ hoặc chọn neo được đặt tên hoặc tiêu đề từ menu ngữ cảnh của trường:">
+<!ENTITY LinkURLEditField2.accessKey "w">

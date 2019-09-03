@@ -12,7 +12,7 @@
 <!ENTITY window.title "Bạn đã chạy một phiên bản cũ hơn của &brandProductName;">
 <!ENTITY window.style "width: 490px;">
 
-<!ENTITY window.nosync "Sử dụng phiên bản cũ hơn của &brandProductName; có thể làm hỏng hồ sơ hiện có của &brandProductName;. Để bảo vệ thông tin của bạn, hãy tạo một hồ sơ mới cho bản cài đặt &brandShortName;.">
+<!ENTITY window.nosync2 "Phiên bản mới hơn của &brandProductName; có thể đã thực hiện các thay đổi đối với hồ sơ của bạn mà nó không còn tương thích với phiên bản cũ hơn này. Chỉ sử dụng cấu hình này với phiên bản mới hơn hoặc tạo cấu hình mới cho bản cài đặt &brandShortName;. Tạo một hồ sơ mới yêu cầu thiết lập lại tài khoản, lịch và các tiện ích mở rộng của bạn.">
 
 <!ENTITY window.moreinfo "Thông tin chi tiết…">
 <!ENTITY window.create "Tạo hồ sơ mới">
