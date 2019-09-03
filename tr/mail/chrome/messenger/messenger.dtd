@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "Y">
 <!ENTITY folderPaneBar.label "Dizin bölmesi araç çubuğu">
 <!ENTITY folderPaneBar.accesskey "D">
-<!ENTITY folderModeSelector.label "Dizin görünümleri">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sıralama koşulu">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Seçilen iletiyi dosyala">
 <!ENTITY archiveButton.tooltip "Seçilen iletileri arşivle">
 <!ENTITY openConversationButton.tooltip "Seçili iletinin yazışmasını göster">
+<!ENTITY openMsgConversationButton.tooltip "Seçili iletinin yazışmasını göster">
 <!ENTITY nextButton.tooltip "Sonraki okunmamış iletiye git">
 <!ENTITY nextMsgButton.tooltip "Sonraki iletiye git">
 <!ENTITY previousButton.tooltip "Önceki okunmamış iletiye git">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "İletileri etiketle">
 <!ENTITY compactButton.tooltip "Seçilen dizinden silinmiş iletileri kaldır">
 <!ENTITY appmenuButton1.tooltip "&brandShortName; menüsünü göster">
-
 <!ENTITY addonsButton.tooltip "Eklentinizi yönetin">
 
 <!-- Toolbar Button Popup -->
@@ -707,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Aramayı dizin olarak kaydet…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "İletileri seç">
 <!ENTITY threadColumn.label "Dizi">
 <!ENTITY fromColumn.label "Gönderen">
 <!ENTITY recipientColumn.label "Alıcı">
@@ -730,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Gösterilecek sütunları seç">
+<!ENTITY selectColumn.tooltip "Tüm iletileri seç/seçme">
 <!ENTITY threadColumn2.tooltip "İleti dizilerini göster">
 <!ENTITY fromColumn2.tooltip "Gönderene göre sırala">
 <!ENTITY recipientColumn2.tooltip "Alıcıya göre sırala">
