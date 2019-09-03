@@ -20,7 +20,7 @@
 <!ENTITY fullnameLabel.label "Tu nomine:">
 <!ENTITY fullnameLabel.accesskey "T">
 
-<!ENTITY emailLabel.label "Adresse email:">
+<!ENTITY emailLabel.label "Adresse de e-mail:">
 
 <!-- Entities for Incoming Server page -->
 

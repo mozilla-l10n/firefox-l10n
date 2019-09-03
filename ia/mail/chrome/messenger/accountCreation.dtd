@@ -6,13 +6,13 @@
 <!ENTITY name.label                      "Tu nomine:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY fullname.placeholder            "Tu nomine integre">
-<!ENTITY email.label                     "Adresse email:">
+<!ENTITY email.label                     "Adresse de e-mail:">
 <!ENTITY email.accesskey                 "e">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
-<!ENTITY email3.placeholder              "Tu adresse email">
-<!ENTITY email.text                      "Tu adresse email existente">
-<!ENTITY email.error                     "Adresse email non valide">
+<!ENTITY email3.placeholder              "Tu adresse de e-mail">
+<!ENTITY email.text                      "Tu adresse de e-mail existente">
+<!ENTITY email.error                     "Adresse de e-mail non valide">
 <!ENTITY password.label                  "Contrasigno:">
 <!ENTITY password.accesskey              "C">
 <!ENTITY password.placeholder            "Contrasigno">
