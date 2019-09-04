@@ -52,3 +52,4 @@ accessibility-keyboard-issue-tabindex = 0 보다 큰 <code>tabindex</code> 속�
 accessibility-keyboard-issue-action = 대화형 요소는 키보드를 사용하여 활성화 할 수 있어야 합니다. <a>더 알아보기</a>
 accessibility-keyboard-issue-focusable = 대화형 요소는 포커스 가능해야 합니다. <a>더 알아보기</a>
 accessibility-keyboard-issue-focus-visible = 포커스 가능한 요소에 포커스 스타일이 없을 수 있습니다. <a>더 알아보기</a>
+accessibility-keyboard-issue-mouse-only = 클릭 가능한 요소는 포커스 가능해야하며 대화형 의미가 있어야 합니다. <a>더 알아보기</a>
