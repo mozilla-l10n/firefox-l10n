@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing 'ກັບຄືນໄປສູ່ການຄົ້ນຫາ'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'ຍິນດີຕ້ອນຮັບສູ່ &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description2 'ລົ່ງຊື່ເຂົ້າໃຊ້ເພື່ອ Sync ແທັບຂອງທ່ານ, ບຸກມາກສ໌, ການເຂົ້າສູ່ລະບົບ ແລະ ອື່ນໆ.'>
+<!ENTITY fxaccount_getting_started_description2 'ເຂົ້າສູ່ລະບົບເພື່ອ Sync ແທັບຂອງທ່ານ, ບຸກມາກສ໌, ການເຂົ້າສູ່ລະບົບ ແລະ ອື່ນໆ.'>
 <!ENTITY fxaccount_getting_started_get_started 'ເລີ່ມຕົ້ນເຮັດວຽກ'>
 <!ENTITY fxaccount_getting_started_old_firefox 'ກຳລັງນຳໃຊ້ຮຸ່ນເກົ່າຂອງ &syncBrand.shortName.label;?'>
 

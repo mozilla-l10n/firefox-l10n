@@ -29,10 +29,12 @@
 <!ENTITY firstrun_signin_message "ຮັບການເຊື່ອມຕໍ່ ເລີມຕົ້ນເຮັດວຽກ">
 <!ENTITY firstrun_signin_button "ເຂົ້າສູ່ລະບົບເພື່ອ Sync">
 <!ENTITY newfirstrun_signin_button "ເປີດ Sync">
-<!ENTITY updatednewfirstrun_signin_button "ລົງຊື່ເຂົ້າ &brandShortName;">
+<!ENTITY updatednewfirstrun_signin_button "ເຂົ້າສູ່ລະບົບ &brandShortName;">
 <!ENTITY  onboard_start_button_browser "ເລີ່ມການທ່ອງເວັບ">
 <!ENTITY firstrun_button_notnow "ບໍ່ແມ່ນຕອນນີ້">
 <!ENTITY firstrun_button_next "ຕໍ່ໄປ">
+
+<!ENTITY firstrun_signin_button2 "ເຂົ້າສູ່ລະບົບ">
 
 <!ENTITY firstrun_tabqueue_title "ລີ້ງຄ໌">
 
@@ -595,7 +597,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "ຕຳແຫນ່ງທີ່ຢູ່">
 <!ENTITY bookmark_edit_keyword "ຄຳທື່ຕ້ອງການຄົ້ນຫາ">
 <!ENTITY bookmark_select_folder "ເລືອກໂຟນເດີ">
-
 <!ENTITY bookmark_edit_undo "ເອົາກັບຄືນ">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -877,6 +878,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "ໃຊ້ງານໄດ້ໃນໂຫມດອັອບໄລນ໌">
 <!ENTITY helper_triple_readerview_open_message "ບຸກມາກລາຍການອ່ານເອົາໄວ້ເພື່ອເອົາໄວ້ອ່ານຕອນອັອບລາຍ.">
 <!ENTITY helper_triple_readerview_open_button "ເພີ່ມເຂົ້າໄປໃນບຸກມາກສ໌">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "ຍິນດີຕ້ອນຮັບສູ່ &brandShortName;">
+<!ENTITY activity_stream_signin_description "ເລີ່ມການ Sync ຂໍ້ມູນບືກມາກ, ລະຫັດຜ່ານ ແລະ ອື່ນໆດ້ວຍບັນຊີ Firefox ຂອງທ່ານ.">
+<!ENTITY activity_stream_signin_button "ເຂົ້າສູ່ລະບົບ">
 
 <!ENTITY activity_stream_topsites "ເວັບໄຊທ໌ຍອດນິຍົມ">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
