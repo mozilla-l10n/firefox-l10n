@@ -35,12 +35,14 @@ app-basics-name = Název
 app-basics-version = Verze
 app-basics-build-id = ID sestavení
 app-basics-update-channel = Kanál aktualizací
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir = Složka, kde je aplikace nainstalována
 app-basics-update-history = Historie aktualizací
 app-basics-show-update-history = Zobrazit historii aktualizací
 # Represents the path to the binary used to start the application.
 app-basics-binary = Binární soubor aplikace
-app-basics-profile-dir = Složka s profilem aplikace
+app-basics-profile-dir = Složka s profilem
 app-basics-enabled-plugins = Povolené zásuvné moduly
 app-basics-build-config = Nastavení sestavení
 app-basics-user-agent = Identifikace prohlížeče
@@ -51,7 +53,6 @@ app-basics-service-workers = Registrovaní Service Workers
 app-basics-profiles = Profily
 app-basics-launcher-process-status = Spouštěcí proces
 app-basics-multi-process-support = Multiprocesová okna
-app-basics-process-count = Procesy pro webový obsah
 app-basics-remote-processes-count = Vzdálené procesy
 app-basics-enterprise-policies = Podniková pravidla
 app-basics-location-service-key-google = Klíč služby Google Location Service
@@ -237,7 +238,6 @@ uses-tiling = Používá skládání
 content-uses-tiling = Používá skládání (obsah)
 off-main-thread-paint-enabled = Vykreslování mimo hlavní vlákno povoleno
 off-main-thread-paint-worker-count = Počet vláken pro vykreslování mimo hlavní vlákno
-low-end-machine = Rozpoznáno méně výkonné zařízení
 target-frame-rate = Cílová frekvenci snímkování
 audio-backend = Audio Backend
 max-audio-channels = Maximální počet kanálů
