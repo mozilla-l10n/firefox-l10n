@@ -95,8 +95,8 @@ info-known-breaches-found =
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
     { $count ->
-        [one] Contrasigno exponite tra tote le violationes
-       *[other] Contrasignos exponite tra tote le violationes
+        [one] Contrasigno exponite inter tote le violationes
+       *[other] Contrasignos exponite inter tote le violationes
     }
 full-report-link = Vider reporto complete sur <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number

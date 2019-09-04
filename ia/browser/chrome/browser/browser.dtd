@@ -909,7 +909,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Perque?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Blocar isto poterea rumper elementos de alcun sitos web. Sin traciatores, alcun buttones, formas, e campos pro accesso pote non functionar.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Disactivar protectiones consentira tote le traciatores sur iste sito. Pote alsi meliorar alcun functionalitates del sito web.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Disactivar le protectiones permittera tote le traciatores sur iste sito. Isto poterea totevia meliorar alcun functionalitates del sito web.">
 <!ENTITY protections.socialMediaTrackers.label "Traciatores de medios social">
 <!ENTITY protections.crossSiteTrackingCookies.label "Le cookies de traciamento tra sitos">
 <!ENTITY protections.trackingContent.label "Contento traciante">
@@ -967,7 +967,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
 
 <!ENTITY contentBlocking.trackersView.label "Traciatores">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Pro blocar tote le traciatores dispone a “Stricte” le blocage del contento.">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Pro blocar tote le traciatores, mitte le blocage de contento a “Stricte”.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies e datos de sitos">
@@ -987,7 +987,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Le Blocada de contentos pote causar problemas con alcun sitos web. Quando tu reporta problemas, tu adjutara a render &brandShortName; melior pro totes. (Isto inviara a Mozilla un URL tam ben como informationes circa configurationes de tu navigator.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Saper plus">
 <!ENTITY contentBlocking.breakageReportView.title "Reportar sito rupte">
-<!ENTITY contentBlocking.breakageReportView3.description "Blocar certe traciatores pote causar problemas con alcun sitos web. Reportar iste problemas adjuta render melior &brandShortName; pro totes. Le invio de iste reporto transmittera a Mozilla un URL e informationes re parametros de tu navigator.">
+<!ENTITY contentBlocking.breakageReportView3.description "Blocar certe traciatores pote causar problemas con alcun sitos web. Reportar iste problemas adjuta a meliorar &brandShortName; pro totes. Le invio de iste reporto transmittera a Mozilla un URL e informationes sur le configuration de tu navigator.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Saper plus">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Que problema ha tu? (Optional)">
