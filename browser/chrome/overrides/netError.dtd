@@ -46,7 +46,9 @@
 ">
 
 <!ENTITY generic.title "שגיאה כללית">
-<!ENTITY generic.longDesc "<p>&brandShortName; אינו יכול לטעון דף זה מסיבה לא ידועה.</p>">
+<!ENTITY generic.longDesc "
+<p>מסיבה בלתי ידועה, אין ל־&brandShortName; אפשרות לטעון דף זה.</p>
+">
 
 <!ENTITY captivePortal.title "כניסה לרשת">
 <!ENTITY captivePortal.longDesc2 "

@@ -813,8 +813,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "חיבור">
 <!ENTITY identity.connectionSecure "חיבור מאובטח">
-
-<!ENTITY identity.connectionSecure2 "החיבור מאובטח">
 <!ENTITY identity.connectionNotSecure "חיבור זה אינו מאובטח">
 
 <!ENTITY identity.connectionSecure3 "החיבור מאובטח">
@@ -825,8 +823,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "עמוד זה נטען מתוך הרחבה.">
 <!ENTITY identity.insecureLoginForms2 "פרטי ההתחברות המוזנים בעמוד זה עשויים להיות חשופים בפני גורמי צד שלישי.">
 <!ENTITY identity.customRoot "חיבור מאומת על־ידי מנפיק אישורים שאינו מזוהה על־ידי Mozilla.">
-
-<!ENTITY identity.evOwnerLabel "האתר בבעלות:">
 
 
 <!-- Strings for connection state warnings. -->
@@ -840,7 +836,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecureLoginForms "פרטי ההתחברות שיוכנסו בדף זה אינם מאובטחים ועלולים להיות בסכנה.">
 <!ENTITY identity.description.weakCipher "החיבור שלך לאתר זה משתמש בהצפנה חלשה ואינו פרטי.">
 <!ENTITY identity.description.weakCipher2 "אנשים אחרים יכולים לצפות במידע שלך או לשנות את התנהגות האתר.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; חסם חלקים מהדף שאינם בטוחים.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; חסם חלקים שאינם בטוחים בדף זה.">
 <!ENTITY identity.description.passiveLoaded "החיבור שלך לאתר זה אינו פרטי, ומידע שישותף עם האתר עשוי להיות נגיש לאחרים.">
 <!ENTITY identity.description.passiveLoaded2 "אתר זה מכיל תוכן שאינו מאובטח (כגון תמונות).">
 <!ENTITY identity.description.passiveLoaded3 "למרות ש־&brandShortName; חסם חלק מהתוכן, עדיין קיים בדף תוכן שאינו מאובטח (כגון תמונות).">
@@ -863,9 +859,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "הרשאות">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "הרשאות מוגדרות">
-
 <!ENTITY identity.permissions3 "הרשאות">
 <!ENTITY identity.permissionsEmpty "לא סופקו לאתר זה הרשאות מיוחדות.">
 <!ENTITY identity.permissionsReloadHint "יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.">
@@ -876,7 +869,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.settings.label "הגדרות הגנה">
-<!ENTITY protections.report.label "הצגת דוח מלא">
 <!ENTITY protections.showreport.label "הצגת דוח">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -894,7 +886,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "תשלומים">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "תגובות">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "סרטוני וידאו">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "האתר עדיין מוצג בצורה לא תקינה לאחר כיבוי ההגנות?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "שליחת דיווח">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -919,7 +910,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.crossSiteTrackingCookies.description "עוגיות אלו עוקבות אחריך מאתר לאתר כדי לאסוף נתונים על הפעילויות המקוונות שלך. הן נוצרות על־ידי גורמי צד־שלישי כמו מפרסמים וחברות אנליטיות.">
 <!ENTITY protections.cryptominers.description "כורי מטבעות דיגיטליים משתמשים בכוח העיבוד של המערכת שלך כדי לכרות כסף דיגיטלי. תסריטי כריית מטבעות מרוקנים את הסוללה שלך, מאטים את המחשב שלך ומגדילים את חשבון החשמל שלך.">
-<!ENTITY protections.trackingContent.description "אתרים עשויים לטעון פרסומות חיצוניות, סרטונים ותכנים אחרים המכילים קוד מעקב. חסימת תוכן מעקב יכולה לסייע לאתרים להיטען מהר יותר, אך יתכן שמספר כפתורים, טפסים ושדות התחברות לא יעבדו.">
 <!ENTITY protections.trackingContent2.description "אתרים עשויים לטעון פרסומות חיצוניות, סרטונים ותכנים אחרים עם קוד מעקב. חסימת תוכן מעקב יכולה לסייע לאתרים להיטען מהר יותר, אך יתכן שמספר כפתורים, טפסים ושדות התחברות לא יעבדו.">
 <!ENTITY protections.socialMediaTrackers.description "רשתות חברתיות מציבות רכיבי מעקב באתרים אחרים כדי לעקוב אחר מה שהינך עושה ורואה ברשת. זה מאפשר לחברות המדיה החברתית ללמוד עליך מעבר למה שבחרת לשתף בפרופילי המדיה החברתית שלך.">
 
