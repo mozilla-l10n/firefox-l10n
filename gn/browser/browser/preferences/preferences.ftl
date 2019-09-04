@@ -604,6 +604,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Ere ha emoheñói ñe’ẽñemi hekorosãva
     .accesskey = u
+forms-breach-alerts =
+    .label = Ehechauka kyhyjerã ñe’ẽñemi rehegua tenda imarãvape
+    .accesskey = b
 forms-breach-alerts-learn-more-link = Kuaave
 forms-fill-logins-and-passwords =
     .label = Tembiapo ñepyrũ ha ñe’ẽñemi myanyhẽjehegui
@@ -722,8 +725,8 @@ addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu'eha je'epyre momb
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Ejoko tetepy
-content-blocking-enhanced-tracking-protection = Tapykueho mo’ãha iporãvéva
 content-blocking-section-description = Emo’ã nde rekoñemi eikundahakuévo. Ejoko tetepy ohapykuehóva umi tenda eike hague ha ojapo mba’ete. Ejokóvo ndahetái tetepy ikatuhína ombopya’eve kuatiarogue ñemyenyhẽ.
+content-blocking-enhanced-tracking-protection = Tapykueho mo’ãha iporãvéva
 content-blocking-learn-more = Eikuaave
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -741,6 +744,7 @@ content-blocking-strict-description = Peteĩ ñemo’ã imbaretevéva ikatu ombo
 content-blocking-custom-desc = Eiporavo mba’etépa ejokóta.
 content-blocking-private-trackers = Jehekaha ojekuaáva ovetã ñemiguápe añoite
 content-blocking-third-party-cookies = Jehekaha kookie mbohapyguáva
+content-blocking-etp-standard-desc = Imbytéva ñemo’ã ha tembiapokuépe g̃uarã. Umi kuatiarogue henyhẽta hekoitépe.
 content-blocking-private-windows = Tetepy rapykueho ovetã ñemíme
 content-blocking-cross-site-tracking-cookies = Kookie rapykuehoha hendaitáva
 content-blocking-social-media-trackers = Ava ñandutieta rapykuehoha
