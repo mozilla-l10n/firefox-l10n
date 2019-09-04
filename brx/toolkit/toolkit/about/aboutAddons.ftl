@@ -211,3 +211,4 @@ addon-name-disabled = { $name } (लोरबां जाबाय)
 
 ## Pending uninstall message bar
 
+pending-uninstall-undo-button = सिगांनि महराव लाबोफिन

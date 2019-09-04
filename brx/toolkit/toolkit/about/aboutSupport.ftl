@@ -14,6 +14,11 @@ extensions-name = मुं
 extensions-enabled = मावथि खालामबाय
 extensions-version = लिरस्लायनाय
 extensions-id = ID
+security-software-title = रैखाथि सफ्टवेयार
+security-software-type = रोखोम
+security-software-name = मुं
+features-name = मुं
+features-version = लिरस्लायनाय
 app-basics-title = एप्लिकेसन गुदि
 app-basics-name = मुं
 app-basics-version = लिरस्लायनाय
@@ -47,6 +52,7 @@ library-version-title = बिजाब बाख्रि बिसानफो
 copy-text-to-clipboard-label = फराखौ क्लिपबर्डआव कपि खालाम
 copy-raw-data-to-clipboard-label = गोथां डाटाखौ क्लिपबर्डआव कपि खालाम
 sandbox-title = सेन्डबक्स
+media-device-name = मुं
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

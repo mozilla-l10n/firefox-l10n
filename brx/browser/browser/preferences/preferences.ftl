@@ -167,6 +167,8 @@ choose-bookmark =
 
 home-prefs-topsites-header =
     .label = गिबि साइटफोर
+home-prefs-highlights-header =
+    .label = हाइलाइटफोर
 home-prefs-highlights-options-bookmarks =
     .label = बुकमाकॅफोर
 
