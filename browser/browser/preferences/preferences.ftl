@@ -339,6 +339,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Lancer la recherche lors de la saisie de texte
     .accesskey = c
+browsing-picture-in-picture-learn-more = En savoir plus
 browsing-cfr-recommendations =
     .label = Recommander des extensions en cours de navigation
     .accesskey = R
@@ -717,8 +718,8 @@ addressbar-suggestions-settings = Modifier les préférences pour les suggestion
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blocage de contenu
-content-blocking-enhanced-tracking-protection = Protection renforcée contre le pistage
 content-blocking-section-description = Protégez votre vie privée pendant votre navigation. Bloquez les contenus invisibles qui vous pistent de site en site et dressent votre profil. Le blocage d’une partie de ces contenus peut accélérer le chargement des pages.
+content-blocking-enhanced-tracking-protection = Protection renforcée contre le pistage
 content-blocking-learn-more = En savoir plus
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".

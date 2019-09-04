@@ -69,5 +69,23 @@ serviceworker-empty-suggestions-debugger = Parcourir le registre des inscription
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Inspecter les service workers des autres domaines. <a>Ouvrir about:debugging</a>
-# Text displayed when no manifest was found for the current page.
-manifest-empty-intro = Aucun manifeste à inspecter trouvé.
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Erreurs et avertissements
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Identité
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Présentation
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Icônes
+# Text displayed while we are loading the manifest file
+manifest-loading = Chargement du manifeste…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Manifeste chargé.
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = Une erreur s’est produite lors du chargement du manifeste :
+# Text displayed when the page has no manifest available
+manifest-non-existing = Aucun manifeste trouvé à inspecter.
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Icône d’avertissement
+    .title = Avertissement

@@ -250,6 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gérer l’utilisation des logiciels DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Ouvrir le panneau MIDI">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Vous avez empêché ce site d’accéder à votre caméra.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Vous avez empêché ce site d’accéder à votre microphone.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Vous avez empêché ce site de partager votre écran.">
@@ -812,13 +813,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Connexion">
 <!ENTITY identity.connectionSecure "Connexion sécurisée">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Sécurité de la connexion">
-
-<!ENTITY identity.connectionSecure2 "Connexion sécurisée">
 <!ENTITY identity.connectionNotSecure "Connexion non sécurisée">
+
+<!ENTITY identity.connectionSecure3 "Connexion sécurisée">
+<!ENTITY identity.connectionNotSecure2 "Connexion non sécurisée">
 <!ENTITY identity.connectionNotSecureSecurityView "Votre connexion à ce site n’est pas sécurisée.">
 <!ENTITY identity.connectionFile "Cette page est stockée sur votre ordinateur.">
 <!ENTITY identity.connectionVerified2 "Votre connexion à ce site est sécurisée. Son détenteur est :">
@@ -828,7 +826,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Les identifiants saisis sur cette page pourraient être compromis.">
 <!ENTITY identity.customRoot "Connexion vérifiée par un émetteur de certificat non reconnu par Mozilla.">
 
-<!ENTITY identity.evOwnerLabel "Site détenu par :">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; a bloqué des éléments non sécurisés sur cette page.">
@@ -864,8 +861,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Permissions">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Liste de permissions">
 <!ENTITY identity.permissionsEmpty "Vous n’avez pas accordé de permission particulière à ce site.">
 <!ENTITY identity.permissionsReloadHint "Vous devrez peut-être actualiser la page pour que les changements prennent effet.">
 <!ENTITY identity.permissionsPreferences.tooltip "Ouvrir les préférences des permissions">
@@ -878,7 +873,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Plus d’informations sur la protection renforcée contre le pistage">
 <!ENTITY protections.settings.label "Paramètres de protection">
-<!ENTITY protections.report.label "Afficher le rapport complet">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -895,11 +889,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Les paiements">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Les commentaires">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Les vidéos">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Le site ne fonctionne toujours pas après avoir désactivé les protections ?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Envoyer un rapport">
 
-<!ENTITY protections.blocking.label "Bloqués">
-<!ENTITY protections.notBlocking.label "Non bloqués">
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Bloqués">
+<!ENTITY protections.notBlocking2.label "Autorisés">
+<!ENTITY protections.notFound.label "Aucun détecté">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Pourquoi ?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Bloquer ces éléments peut entraîner un dysfonctionnement partiel de certains sites web. Sans les traqueurs, certains boutons, formulaires ou champs de connexion peuvent ne pas fonctionner correctement.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Désactiver les protections autorisera tous les traqueurs sur ce site. Cette action peut aussi améliorer le fonctionnement de certaines parties du site web.">
@@ -913,7 +916,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Ces cookies vous suivent de site en site pour collecter des données sur vos faits et gestes en ligne. Ils sont déposés par des tiers, tels que des annonceurs ou des entreprises d’analyse de données.">
 <!ENTITY protections.cryptominers.description "Les mineurs de cryptomonnaies utilisent la puissance de calcul de votre système pour « extraire » de l’argent numérique. Les scripts de cryptominage déchargent votre batterie, ralentissent votre ordinateur et peuvent augmenter votre facture énergétique.">
 <!ENTITY protections.fingerprinters.description "Les détecteurs d’empreinte numérique recueillent les paramètres de votre navigateur et de votre ordinateur pour créer un profil de vous. En utilisant cette empreinte numérique, ils peuvent vous pister sur différents sites web.">
-<!ENTITY protections.trackingContent.description "Les sites web peuvent charger des publicités, des vidéos et d’autres contenus externes qui contiennent des éléments de pistage. Le blocage du contenu utilisé pour le pistage peut accélérer le chargement des sites, mais certains boutons, formulaires ou champs de connexion risquent de ne pas fonctionner.">
 <!ENTITY protections.socialMediaTrackers.description "Les réseaux sociaux placent des traqueurs sur d’autres sites web pour suivre ce que vous faites, lisez et regardez en ligne. Cela permet aux entreprises de réseaux sociaux d’en savoir plus sur vous au-delà de ce que vous partagez sur vos profils en ligne.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -960,7 +962,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
 
 <!ENTITY contentBlocking.trackersView.label "Traqueurs">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Pour bloquer tous les traqueurs, définissez le blocage du contenu sur « Strict ».">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
