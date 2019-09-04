@@ -36,7 +36,7 @@
 <!ENTITY useMasterPassword.label        "השתמש בססמה ראשית">
 <!ENTITY useMasterPassword.accesskey    "ר">
 <!ENTITY masterPassword.intro           "כאשר נקבעה, הססמה הראשית מגינה על כל ססמאותיך - אולם תצטרך להקליד אותה פעם אחת בכל הפעלה.">
-<!ENTITY changeMasterPassword.label     "שנה ססמה ראשית…">
+<!ENTITY changeMasterPassword.label     "שינוי ססמה ראשית…">
 <!ENTITY changeMasterPassword.accesskey "ש">
 <!ENTITY savedPasswords.label           "ססמאות שמורות…">
 <!ENTITY savedPasswords.accesskey       "מ">
@@ -45,4 +45,3 @@
 <!ENTITY antiVirus.intro      "&brandShortName; יכול לגרום לתוכנות אנטי-וירוס לנתח בקלות הודעות דואר נכנס עבור וירוסים לפני שהן מאוכסנות באופן מקומי.">
 <!ENTITY antiVirus.label      "אפשר ללקוחות אנטי וירוס לבודד הודעות יחידות מתוך ההודעות הנכנסות">
 <!ENTITY antiVirus.accesskey  "ב">
-

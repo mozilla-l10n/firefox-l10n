@@ -93,13 +93,12 @@
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     With OS-specific access modifier, this defines the shortcut key for showing/
-     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
-     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
-     for the bucket view state machinery to work. -->
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
 <!ENTITY selectAllCmd.label "בחר הכול">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "ב">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "חיפוש…">
 <!ENTITY findBarCmd.accesskey "ח">
 <!ENTITY findBarCmd.key "ח">
@@ -244,7 +243,6 @@
 <!ENTITY sendlaterButton.tooltip "שלח הודעה זו מאוחר יותר">
 <!ENTITY quoteButton.tooltip "צטט הודעה קודמת">
 <!ENTITY addressButton.tooltip "בחר נמען מפנקס כתובות">
-<!ENTITY attachButton.tooltip "צרף נספח">
 <!ENTITY attachButton.tooltip2 "הוספת קובץ">
 <!ENTITY spellingButton.tooltip "בדיקת איות בבחירה או בהודעה כולה">
 <!ENTITY saveButton.tooltip "שמור הודעה זו">
@@ -268,11 +266,12 @@
 <!ENTITY subject.label "נושא:">
 <!ENTITY subject.accesskey "נ">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings in attachmentCount in composeMsgs.properties,
-     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
-     work, as the shortcut key functionality supersedes the access key. -->
+     be taken from the strings of attachmentCount in composeMsgs.properties.
+     Please ensure that this access key is unique: Do not duplicate any other
+     first-level access keys of the compose window, e.g. those of main menu,
+     buttons, or labels (message headers, contacts side bar, attachment reminder
+     bar). -->
 <!ENTITY attachments.accesskey "מ">
-
 <!ENTITY attachmentBucketHeader.tooltip "לוח קבצים מצורפים">
 <!ENTITY attachmentBucketCloseButton.tooltip "הסתרת לוח קבצים מצורפים">
 
@@ -299,7 +298,7 @@
 <!ENTITY spellCheckNoSuggestions.label "לא נמצאו הצעות">
 <!ENTITY spellCheckIgnoreWord.label "התעלם ממילה">
 <!ENTITY spellCheckIgnoreWord.accesskey "ת">
-<!ENTITY spellCheckAddToDictionary.label "הוסף למילון">
+<!ENTITY spellCheckAddToDictionary.label "הוספה למילון">
 <!ENTITY spellCheckAddToDictionary.accesskey "ס">
 <!ENTITY undo.label "ביטול">
 <!ENTITY undo.accesskey "ט">
@@ -357,6 +356,8 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "התאמה מכתובת…">
 <!ENTITY customizeFromAddress.accesskey "כ">
+
+<!-- Accessibility name for the document -->
 
 <!-- Status Bar -->
 <!ENTITY languageStatusButton.tooltip "שפת בדיקת האיות">
