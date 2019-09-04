@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  paneGeneral.title       "Yleiset">
-<!ENTITY  paneAlarms.title        "Hälyytykset">
+<!ENTITY  paneAlarms.title        "Hälytykset">
 <!ENTITY  paneCategories.title    "Luokat">
 <!ENTITY  paneViews.title         "Näkymät">
 <!ENTITY  panelHeader.title       "Kalenteri">
-<!ENTITY  panelReminder.title     "Hälyytykset">
+<!ENTITY  panelReminder.title     "Hälytykset">
 <!ENTITY  panelCatecory.title     "Luokat">
