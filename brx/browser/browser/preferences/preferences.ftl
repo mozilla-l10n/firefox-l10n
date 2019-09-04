@@ -202,6 +202,9 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = जारिमिन
     .accesskey = म
+sync-device-name-save =
+    .label = थिना दोन
+    .accesskey = v
 sync-tos-link = सिबिथायनि रादाय
 sync-fxa-privacy-notice = गुमुरथि मिथिसारहोनाय
 

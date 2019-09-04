@@ -19,6 +19,7 @@ newtab-search-box-search-button =
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-delete-history-button = जारिमिन निफ्राय खोमोर
+newtab-topsites-save-button = थिना दोन
 
 ## Top Sites - Delete history confirmation dialog. 
 

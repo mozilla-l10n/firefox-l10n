@@ -446,6 +446,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
 
 <!ENTITY emailPageCmd.label           "इ-मेइल लिंक...">
 <!ENTITY emailPageCmd.accesskey       "E">
@@ -464,7 +466,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "बादि भिडिअ'खौ थिना दोन...">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "..बादि अडिअखौ थिना दोन...">
+<!ENTITY saveAudioCmd.label           "बादि अडिअखौ थिना दोन...">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "इ-मेइल मुसुखा...">
 <!ENTITY emailImageCmd.accesskey      "g">
