@@ -28,6 +28,7 @@ fingerprinter-tab-title = Ñemokuãhũ
 cryptominer-tab-title = Criptomineros
 lockwise-title = Anivéke nderesarái ne ñe’ẽñemígui
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-header-content-logged-in = Embyaty ha embojuehe ne ñe’ẽñemi opaite ne mba’e’okápe tekorosãme.
 about-logins-view-logins-button = Ehecha tembiapo ñepyrũ
 lockwise-no-logins-content = Eguereko pe tembipuru’i <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> egueraha hag̃ua ne ñe’ẽñemi opa hendápe.
 turn-on-sync = Emyandy { -sync-brand-short-name }...
@@ -53,6 +54,15 @@ info-monitored-emails =
         [one] Ñanduti veve kundaharape jehechameméva
        *[other] Ñanduti veve kundaharape jehechameméva
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Ñe’ẽñemi ojehecháva heta ñemboguaha rupive
+       *[other] Ñe’ẽñemi ojehecháva heta ñemboguaha rupive
+    }
+full-report-link = Ehechapa marandu’i <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> rehegua
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Eho ñemigua moĩporãme
 # This is the title attribute describing the Lockwise card's link to about:logins

@@ -250,6 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Eñangareko DRM software jepuru rehe">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Eike ta'ãngarupa MIDI pe">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Oñeme’ẽ ko ñanduti rendápe ñemoneĩ jo’a.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ejokóma ne ta'ãngamýi ko ñanduti rendápe g̃uarã.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ejokóma ne ñe'ẽatãha ko ñanduti rendápe g̃uarã.">
@@ -813,8 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Jeike">
 <!ENTITY identity.connectionSecure "Jeikekatu">
-
-<!ENTITY identity.connectionSecure2 "Eike tekorosãme">
 <!ENTITY identity.connectionNotSecure "Jeikekatu'ỹre">
 
 <!ENTITY identity.connectionSecure3 "Jeikekatu">
@@ -827,8 +826,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Ko kuatiarogue oñemyanyhẽ jepysokue guive.">
 <!ENTITY identity.insecureLoginForms2 "Ojehaiva'ekue jeike hag̃ua ko kuatiaroguépe oñemondakuaa.">
 <!ENTITY identity.customRoot "Jeike ohechapyréva mboajepyre me’ẽha Mozilla omoneĩ’ỹva.">
-
-<!ENTITY identity.evOwnerLabel "Tenda ijárava:">
 
 <!ENTITY identity.evOwnerLabel2 "Mboajepyre osẽmava:">
 
@@ -866,9 +863,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Moneĩ">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Ñemoneĩ aty">
-
 <!ENTITY identity.permissions3 "Moneĩ">
 <!ENTITY identity.permissionsEmpty "Nome'ẽi ko tenda ñemoneĩ ha'etéva.">
 <!ENTITY identity.permissionsReloadHint "Ikatu hína kuatiarogue emyanyhẽjey umi moambuepyre oñemboheko hag̃ua.">
@@ -882,7 +876,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Maranduve jehapykuehoha iporãvéva mo’ãha rehegua">
 <!ENTITY protections.settings.label "Ñemo’ã ñemboheko">
-<!ENTITY protections.report.label "Ehechaukapaite marandu’i">
 <!ENTITY protections.showreport.label "Ehechauka marandu'i">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -900,7 +893,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Jehepume'ẽ">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Je'erei">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Ta'ãngamýi">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "¿Ko tenda moñemyanyhẽi gueteri ojepe’a rire ñemo’ã?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Emondo marandu'i">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -928,7 +920,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Ko’ã kookie ohapykueho opaite hendápe ombyaty hag̃ua mba’ekuaarã ojapóva ñandutípe. Omboaje mbohapyháva, mombe’uháramo ha mba’apoha tesa’ỹijoha.">
 <!ENTITY protections.cryptominers.description "Ymi criptominero oipurúva nde apopyvusu rembipurupyahu oguenohẽ hag̃ua viru ñandutiguáva. Umi ojuapykuerigua ipapapýva mbohapeha oipurupa ibatería, omombegue ne mohendaha ha ikatu ohupi electricidad repy.">
 <!ENTITY protections.fingerprinters.description "Umi Kuãhũ kuaaukaha ombyaty ne kundaha ha mohendaha ñemboheko omoheñói hag̃ua imba’eterã. Oipurúva ko kuãhũ ikatu ohapykueho heta ñanduti renda rupive.">
-<!ENTITY protections.trackingContent.description "Umi ñanduti renda ikatu omyanyhẽ marandu ñemurã okayguávagui, ta’ãngamýi ha ambue tetepy oguerekóva ayvu rapykuehoha. Pe tetepy jejoko rapykuehoha ikatu nepytyvõ umi tenda henyhẽ pya’eve hag̃ua, hákatu ikatuhína ndahetái votõ, myanyhẽha ha tembiapo ñepyrũ rekoha ndoikói.">
 <!ENTITY protections.socialMediaTrackers.description "Umi ava ñandutieta ohechakuaa tapykuehoha ambue ñanduti rendápe ohapykueho hag̃ua hembiapo, ohecha tapia ñandutípe. Kóva omoneĩ mba’apohaguasu ava ñandutietápe oikuaavévo ndehegui umi emoherakuãvagui ava ñandutietápe.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
