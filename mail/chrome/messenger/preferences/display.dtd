@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Leser">
 <!ENTITY display.caption                  "Visning">
+<!ENTITY displayName.label                "Visningsnavn:">
 <!ENTITY showCondensedAddresses.label     "Vis bare visningsnavnet for personer i adresseboken">
 <!ENTITY showCondensedAddresses.accesskey "V">
 

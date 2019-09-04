@@ -123,3 +123,7 @@
 <!ENTITY viewSecurityDevices.label "Sikkerhetsenheter">
 <!ENTITY viewSecurityDevices.accesskey "S">
 
+<!ENTITY manageCertificates2.label "Behandle sertifikater…">
+<!ENTITY manageCertificates2.accesskey "B">
+<!ENTITY viewSecurityDevices2.label "Sikkerhetsenheter…">
+<!ENTITY viewSecurityDevices2.accesskey "e">

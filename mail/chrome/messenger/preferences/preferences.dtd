@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Vedlegg">
 <!ENTITY panePrivacy.title        "Personvern">
 <!ENTITY paneSecurity.title       "Sikkerhet">
+<!ENTITY panePrivacySecurity.title "Personvern og sikkerhet">
 <!ENTITY paneLightning.title      "Kalender">
 <!ENTITY paneAdvanced.title       "Avansert">
 <!ENTITY paneAccount.title        "Kontoer">

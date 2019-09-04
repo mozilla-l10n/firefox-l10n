@@ -586,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Arkiver valgt melding">
 <!ENTITY archiveButton.tooltip "Arkiver valgt melding">
 <!ENTITY openConversationButton.tooltip "Vis samtalen for valgt melding">
+<!ENTITY openMsgConversationButton.tooltip "Vis samtalen for valgt melding">
 <!ENTITY nextButton.tooltip "Gå til neste uleste melding">
 <!ENTITY nextMsgButton.tooltip "Gå til neste melding">
 <!ENTITY previousButton.tooltip "Gå til forrige uleste melding">
@@ -705,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Lagre søk som mappe …">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Velg meldinger">
 <!ENTITY threadColumn.label "Tråd">
 <!ENTITY fromColumn.label "Fra">
 <!ENTITY recipientColumn.label "Mottaker">
@@ -728,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Velg kolonner du vil vise">
+<!ENTITY selectColumn.tooltip "Skift velg alle meldingene">
 <!ENTITY threadColumn2.tooltip "Vis meldingstråder">
 <!ENTITY fromColumn2.tooltip "Sorter etter fra">
 <!ENTITY recipientColumn2.tooltip "Sorter etter mottaker">
