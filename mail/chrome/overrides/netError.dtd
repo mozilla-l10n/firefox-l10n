@@ -37,7 +37,7 @@
 
 <!ENTITY generic.title "שגיאה כללית">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; אינו יכול לטעון דף זה מסיבה לא ידועה.</p>
+<p>מסיבה בלתי ידועה, אין ל־&brandShortName; אפשרות לטעון דף זה.</p>
 ">
 
 <!ENTITY malformedURI.title "כתובת לא חוקית">
@@ -154,3 +154,5 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.title "החיבור שלך אינו מאובטח">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
