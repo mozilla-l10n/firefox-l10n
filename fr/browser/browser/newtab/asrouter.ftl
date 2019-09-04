@@ -82,6 +82,29 @@ cfr-whatsnew-button =
     .label = Nouveautés
     .tooltiptext = Nouveautés
 cfr-whatsnew-panel-header = Nouveautés
+cfr-whatsnew-release-notes-link-text = Lire les notes de version
+cfr-whatsnew-fx70-title = { -brand-short-name } lutte maintenant plus dur pour votre vie privée
+cfr-whatsnew-fx70-body =
+    La dernière mise à jour améliore la fonctionnalité de protection contre le pistage et rend
+    plus facile que jamais de créer des mots de passe sécurisés pour chaque site.
+cfr-whatsnew-tracking-protect-title = Protégez-vous des traqueurs
+cfr-whatsnew-tracking-protect-link-text = Consulter votre rapport
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Traqueur bloqué
+       *[other] Traqueurs bloqués
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Depuis { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Voir le rapport
+cfr-whatsnew-lockwise-backup-title = Sauvegardez vos mots de passe
+cfr-whatsnew-lockwise-backup-body = Générez maintenant des mots de passe sécurisés auxquels vous pouvez accéder partout où vous vous connectez.
+cfr-whatsnew-lockwise-backup-link-text = Activer les sauvegardes
+cfr-whatsnew-lockwise-take-title = Emportez vos mots de passe avec vous
+cfr-whatsnew-lockwise-take-body = L’application mobile { -lockwise-brand-short-name } vous permet d’accéder en toute sécurité à vos mots de passe sauvegardés depuis n'importe où.
+cfr-whatsnew-lockwise-take-link-text = Obtenir l’application
 
 ## Bookmark Sync
 

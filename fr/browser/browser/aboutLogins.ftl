@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Options
        *[other] Préférences
     }
-menu-menuitem-feedback = Donner mon avis
-menu-menuitem-faq = Questions fréquentes
+about-logins-menu-menuitem-help = Aide
 menu-menuitem-android-app = { -lockwise-brand-short-name } pour Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } pour iPhone et iPad
 
@@ -57,6 +56,7 @@ login-list-last-changed-option = Dernière modification
 login-list-last-used-option = Dernière utilisation
 login-list-intro-title = Aucun identifiant trouvé
 login-list-intro-description = Lorsque vous enregistrez un mot de passe dans { -brand-product-name }, il apparaît ici.
+about-logins-login-list-empty-search-title = Aucun identifiant trouvé
 login-list-item-title-new-login = Nouvel identifiant
 login-list-item-subtitle-new-login = Saisissez vos informations de connexion
 login-list-item-subtitle-missing-username = (aucun nom d’utilisateur)
@@ -67,7 +67,6 @@ login-intro-heading = Vous recherchez vos identifiants enregistrés ? Configure
 login-intro-description = Si vous avez enregistré vos identifiants dans { -brand-product-name } sur un autre appareil, voici comment y accéder ici :
 login-intro-instruction-fxa = Connectez-vous ou créez un { -fxaccount-brand-name } sur l’appareil où vos identifiants sont enregistrés
 login-intro-instruction-fxa-settings = Assurez-vous d’avoir coché la case Identifiants dans les paramètres de { -sync-brand-short-name }
-login-intro-instruction-faq = Consultez la <a data-l10n-name="faq">foire aux questions</a> de { -lockwise-brand-short-name } pour obtenir de l’aide supplémentaire
 
 ## Login
 
@@ -77,10 +76,9 @@ login-item-delete-button = Supprimer
 login-item-origin-label = Adresse web
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Ouvrir
 login-item-username-label = Nom d’utilisateur
-login-item-username =
-    .placeholder = nom@example.com
+about-logins-login-item-username =
+    .placeholder = (aucun nom d’utilisateur)
 login-item-copy-username-button-text = Copier
 login-item-copied-username-button-text = Copié !
 login-item-password-label = Mot de passe
@@ -134,3 +132,6 @@ breach-alert-text = Les mots de passe de ce site ont été divulgués ou volés 
 breach-alert-link = En savoir plus sur cette fuite de données.
 breach-alert-dismiss =
     .title = Fermer cette alerte
+
+## Error Messages
+
