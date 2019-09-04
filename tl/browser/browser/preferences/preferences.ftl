@@ -640,7 +640,7 @@ history-remember-option-all =
 history-remember-option-never =
     .label = Huwag kailanman tandaan ang kasaysayan
 history-remember-option-custom =
-    .label = Gamitin ang custom settings para sa history
+    .label = Gumamit ng mga custom setting para sa kasaysayan
 history-remember-description = Tatandaan ng { -brand-short-name } ang iyong browsing, download, form at search history.
 history-dontremember-description = Gagamit ng parehong settings ng private browsing ang { -brand-short-name }, at hindi nito tatandaan ang kasaysayan ng pag-browse ninyo ng Web.
 history-private-browsing-permanent =
@@ -656,10 +656,10 @@ history-clear-on-close-option =
     .label = Limasin ang kasaysayan kapag nagsara ang { -brand-short-name }
     .accesskey = r
 history-clear-on-close-settings =
-    .label = Settings…
+    .label = Mga Setting…
     .accesskey = t
 history-clear-button =
-    .label = Burahin ang History...
+    .label = Burahin ang Kasaysayan...
     .accesskey = s
 
 ## Privacy Section - Site Data

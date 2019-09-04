@@ -180,7 +180,7 @@ menu-history-hidden-tabs =
 menu-history-undo-menu =
     .label = Mga Naisarang Tab
 menu-history-undo-window-menu =
-    .label = Bagong Sarang mga Window
+    .label = Mga Isinarang Window Kamakailan
 
 ## Bookmarks Menu
 

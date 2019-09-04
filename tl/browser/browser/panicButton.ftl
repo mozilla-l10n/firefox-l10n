@@ -25,7 +25,7 @@ panic-button-day =
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
-panic-button-action-desc = Pagpatuloy ay:
-panic-button-delete-cookies = Burahin ang nakaraang <strong>Cookies</strong>
-panic-button-delete-history = Burahin ang nakaraang <strong>History</strong>
-panic-button-delete-tabs-and-windows = Isara lahat ng <strong>Tabs</strong> at <strong>Windows</strong>
+panic-button-action-desc = Kapag nagpatuloy:
+panic-button-delete-cookies = Burahin ang mga Nakaraang <strong>Cookie</strong>
+panic-button-delete-history = Burahin ang Nakaraang <strong>Kasaysayan</strong>
+panic-button-delete-tabs-and-windows = Isara lahat ng <strong>Mga Tab</strong> at <strong>Mga Window</strong>

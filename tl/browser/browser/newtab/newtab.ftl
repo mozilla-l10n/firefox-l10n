@@ -40,7 +40,7 @@ newtab-topsites-image-validation = Nabigo ang pag-load ng larawan. Subukan ang i
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Kanselahin
-newtab-topsites-delete-history-button = Tanggalin mula History
+newtab-topsites-delete-history-button = Burahin sa Kasaysayan
 newtab-topsites-save-button = I-save
 newtab-topsites-preview-button = I-preview
 newtab-topsites-add-button = Idagdag
@@ -79,7 +79,7 @@ newtab-menu-open-new-private-window = Buksan sa Bagong Private Window
 newtab-menu-dismiss = Paalisin
 newtab-menu-pin = I-pin
 newtab-menu-unpin = I-unpin
-newtab-menu-delete-history = Tanggalin mula History
+newtab-menu-delete-history = Burahin sa Kasaysayan
 newtab-menu-save-to-pocket = I-save sa { -pocket-brand-name }
 newtab-menu-delete-pocket = I-delete sa { -pocket-brand-name }
 newtab-menu-archive-pocket = Mag-archive sa { -pocket-brand-name }
