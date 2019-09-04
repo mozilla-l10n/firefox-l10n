@@ -34,7 +34,7 @@ fonts-langgroup-georgian =
 fonts-langgroup-el =
     .label = Řečtina
 fonts-langgroup-gujarati =
-    .label = Gujarati
+    .label = Gudžarátština
 fonts-langgroup-gurmukhi =
     .label = Gurmukhí
 fonts-langgroup-japanese =
@@ -138,9 +138,6 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamská
 fonts-languages-fallback-name-other =
     .label = Jiná (zahrnuje západoevropské)
-fonts-very-large-warning-title = Velká minimální velikost písma
-fonts-very-large-warning-message = Vybrali jste příliš velkou minimální velikost písma (větší než 24 pixelů). Při této velikosti písma už může být obtížné nebo nemožné používat některé důležité konfigurační stránky, jako je například tato.
-fonts-very-large-warning-accept = I přesto uložit změny
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
