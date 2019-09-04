@@ -4,3 +4,4 @@
 
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = मावथि
+errors-tab = गोरोन्थि
