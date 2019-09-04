@@ -33,6 +33,7 @@
 <!ENTITY onboard_start_button_browser "Inizia a navigare">
 <!ENTITY firstrun_button_notnow "Non adesso">
 <!ENTITY firstrun_signin_button2 "Accedi">
+<!ENTITY firstrun_signup_button "Registrati">
 <!ENTITY firstrun_button_next "Successivo">
 <!ENTITY firstrun_tabqueue_title "Link">
 <!ENTITY firstrun_readerview_title "Articoli">
@@ -506,6 +507,9 @@
 <!ENTITY activity_stream_signin_title "Benvenuto in &brandShortName;">
 <!ENTITY activity_stream_signin_description "Inizia a sincronizzare segnalibri, password e molto altro ancora con il tuo account Firefox.">
 <!ENTITY activity_stream_signin_button "Accedi">
+<!ENTITY activity_stream_signup_button "Iscriviti">
+<!ENTITY activity_stream_signin_prompt "Hai già un account?">
+<!ENTITY activity_stream_signin_prompt_button "Accedi.">
 <!ENTITY activity_stream_topsites "Siti principali">
 <!ENTITY activity_stream_topstories "Consigliati da &brandPocket;">
 <!ENTITY activity_stream_highlights "In evidenza">
