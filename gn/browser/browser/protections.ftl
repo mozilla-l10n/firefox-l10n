@@ -9,15 +9,6 @@ graph-week-summary =
         [one] { -brand-short-name } ojoko { $count } rapykuehoha arapokõindy ohasaramóvape
        *[other] { -brand-short-name } ojoko { $count } rapykuehoha arapokõindy ohasaramóvape
     }
-# Variables:
-#   $count (Number) - Number of tracking events blocked.
-#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
-# earliest date recorded in the database.
-graph-total-summary =
-    { $count ->
-        [one] { $count } rapykuehoha ojejoko { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } guive
-       *[other] { $count } rapykuehoha ojejoko { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } guive
-    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -37,7 +28,6 @@ fingerprinter-tab-title = Ñemokuãhũ
 cryptominer-tab-title = Criptomineros
 lockwise-title = Anivéke nderesarái ne ñe’ẽñemígui
 lockwise-title-logged-in = { -lockwise-brand-name }
-open-about-logins-button = Embojuruja { -brand-short-name }-pe
 about-logins-view-logins-button = Ehecha tembiapo ñepyrũ
 lockwise-no-logins-content = Eguereko pe tembipuru’i <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> egueraha hag̃ua ne ñe’ẽñemi opa hendápe.
 turn-on-sync = Emyandy { -sync-brand-short-name }...
@@ -50,20 +40,18 @@ lockwise-sync-status =
         [one] Ñembojuehe { $count } ambue mba’e’oka rehe
        *[other] Ñembojuehe { $count } ambue mba’e’oka rehe
     }
-lockwise-sync-not-syncing = Nombojuehéi ambue mba’e’oka rehe.
 lockwise-sync-not-syncing-devices = Ndojuehéi ambue mba’e’oka ndive
 monitor-title = Ema’ẽag̃uíke mba’ekuaarã ñembyaíre
 monitor-link = Mba'éichapa oba'apo
-monitor-header-content = Ema’ẽjey { -monitor-brand-name } ehecha hag̃ua ha’épa mba’ekuaarã ñembyairã ha ou hag̃ua ndéve kyhyjyrã mba’evai rehegua.
 monitor-sign-up = Eñemboheraguapy og̃uahẽ hag̃ua ndéve ñembyai rehegua
 auto-scan = Ijehegui ohechajey ko árape
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
-info-monitored-addresses =
+info-monitored-emails =
     { $count ->
-        [one] Ñanduti veve kundaharape ojehechapy’ỹiva.
-       *[other] Ñanduti veve kundaharape ojehechapy’ỹiva.
+        [one] Ñanduti veve kundaharape jehechameméva
+       *[other] Ñanduti veve kundaharape jehechameméva
     }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Eho ñemigua moĩporãme
