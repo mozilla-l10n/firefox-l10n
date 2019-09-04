@@ -163,7 +163,7 @@ about-debugging-runtime-shared-workers =
     .name = Shared Workers
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
-    .name = Other Workers
+    .name = Ostatní Workers
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = Procesy

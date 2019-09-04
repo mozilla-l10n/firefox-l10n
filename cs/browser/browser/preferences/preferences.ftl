@@ -704,7 +704,7 @@ sitedata-option-block-trackers =
 sitedata-option-block-cross-site-trackers =
     .label = Sledující prvky
 sitedata-option-block-cross-site-and-social-media-trackers =
-    .label = Sledující prvky, např. sociálních sítí
+    .label = Sledovací cookies, např. sociálních sítí
 sitedata-option-block-unvisited =
     .label = Cookies z dosud nenavštívených stránek
 sitedata-option-block-all-third-party =
@@ -739,8 +739,8 @@ addressbar-suggestions-settings = Nastavit našeptávání vyhledávače
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokování obsahu
-content-blocking-enhanced-tracking-protection = Rozšířená ochrana proti sledování
 content-blocking-section-description = Chraňte své soukromí při prohlížení internetu. Zablokujte neviditelný obsah, který vás sleduje na navštívených stránkách a vytváří profil vašeho chování. Blokování takového obsahu navíc může zrychlit načítání stránek.
+content-blocking-enhanced-tracking-protection = Rozšířená ochrana proti sledování
 content-blocking-section-top-level-description = Sledující prvky sbírají informace, co a kde na internetu děláte, jaké máte návyky a co vás zajímá. { -brand-short-name } blokuje mnoho takových prvků i dalších škodlivých skriptů.
 content-blocking-learn-more = Zjistit více
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -768,10 +768,10 @@ content-blocking-social-media-trackers = Sledující prvky sociálních sítí
 content-blocking-all-cookies = Všechny cookies
 content-blocking-unvisited-cookies = Cookies z dosud nenavštívených stránek
 content-blocking-all-windows-trackers = Sledovací prvky blokovány ve všech oknech
-content-blocking-all-windows-tracking-content = Sledující obsah ve všech oknech
+content-blocking-all-windows-tracking-content = Sledující obsah blokován ve všech oknech
 content-blocking-all-third-party-cookies = Všechny cookies třetích stran blokovány vždy
-content-blocking-cryptominers = Těžba kryptoměn blokována ve všech oknech
-content-blocking-fingerprinters = Vytváření otisku prohlížeče blokováno ve všech oknech
+content-blocking-cryptominers = Těžba kryptoměn
+content-blocking-fingerprinters = Vytváření otisku prohlížeče
 content-blocking-warning-title = Pozor!
 content-blocking-warning-description = Blokování obsahu může omezit fungování některých stránek. Pro stránky, kterým důvěřujete, ho můžete snadno vypnout.
 content-blocking-learn-how = Jak na to?

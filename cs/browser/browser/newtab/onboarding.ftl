@@ -43,7 +43,7 @@ onboarding-sync-welcome-header = Vezměte si { -brand-product-name } s sebou
 onboarding-sync-welcome-content = Mějte své záložky, historii i uložená hesla s sebou na všech svých zařízeních.
 onboarding-sync-welcome-learn-more-link = Zjistit více o účtech Firefoxu
 onboarding-sync-form-invalid-input = Je požadován platný e-mail
-onboarding-sync-legal-notice = Pokračováním souhlasíte s <a data-l10n-name="terms">Podmínkami používání služby</a> a <a data-l10n-name="privacy">Zásadami ochrany osobních údajů</a>.
+onboarding-sync-legal-notice = Pokračováním souhlasíte s <a data-l10n-name="terms">podmínkami poskytování služby</a> a <a data-l10n-name="privacy">zásadami ochrany osobních údajů</a>.
 onboarding-sync-form-input =
     .placeholder = E-mail
 onboarding-sync-form-continue-button = Pokračovat

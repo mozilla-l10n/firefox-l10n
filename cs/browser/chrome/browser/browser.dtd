@@ -814,8 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Spojení">
 <!ENTITY identity.connectionSecure "Zabezpečené spojení">
-
-<!ENTITY identity.connectionSecure2 "Spojení je zabezpečeno">
 <!ENTITY identity.connectionNotSecure "Spojení není zabezpečeno">
 
 <!ENTITY identity.connectionSecure3 "Zabezpečené spojení">
@@ -828,8 +826,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Tato stránka je načtena z doplňku.">
 <!ENTITY identity.insecureLoginForms2 "Přihlašovací údaje zadané na této stránce mohou být vyzrazeny.">
 <!ENTITY identity.customRoot "Připojení je ověřeno vydavatelem certifikátů, kterého Mozilla nezná.">
-
-<!ENTITY identity.evOwnerLabel "Provozovatel serveru:">
 
 <!ENTITY identity.evOwnerLabel2 "Certifikát vydán pro:">
 
@@ -867,9 +863,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Oprávnění">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Oprávnění nastavena">
-
 <!ENTITY identity.permissions3 "Oprávnění">
 <!ENTITY identity.permissionsEmpty "Tento server nemá žádná zvláštní oprávnění.">
 <!ENTITY identity.permissionsReloadHint "Pro provedení změn budete možná muset obnovit stránku.">
@@ -883,7 +876,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Více informací o rozšířené ochraně proti sledování">
 <!ENTITY protections.settings.label "Nastavení ochrany">
-<!ENTITY protections.report.label "Podrobné statistiky">
 <!ENTITY protections.showreport.label "Zobrazit podrobnosti">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -901,7 +893,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "platbami">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "psaním komentářů">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "přehráváním videí">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Stránka nefunguje ani po vypnutí ochrany proti sledování?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Poslat hlášení">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -919,7 +910,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.why.label "Proč?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokování těchto prvků může ovlivnit fungování webové stránky. Bez sledovacích prvků nemusí některá tlačítka nebo formuláře správně fungovat.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Vypnutí ochrany povolí načtení všech sledovacích prvků na této stránce. Může to vyřešit případné problémy s jejím fungováním.">
-<!ENTITY protections.socialMediaTrackers.label "Sledovací prvky sociálních sítí">
+<!ENTITY protections.socialMediaTrackers.label "Sledující prvky sociálních sítí">
 <!ENTITY protections.crossSiteTrackingCookies.label "Sledovací cookies">
 <!ENTITY protections.trackingContent.label "Sledující obsah">
 <!ENTITY protections.fingerprinters.label "Vytváření otisku prohlížeče">
@@ -929,7 +920,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Tyto cookies slouží k vašemu sledování napříč webovými stránkami a sběru dat o tom, co na internetu děláte. Používají je třetí strany jako jsou reklamní systémy nebo analytické společnosti.">
 <!ENTITY protections.cryptominers.description "Těžba kryptoměn využívá výpočetní výkon vašeho počítače k získávání digitálních měn. Běžící skripty vybíjí vaši baterii a zpomalují váš počítač.">
 <!ENTITY protections.fingerprinters.description "Sběrem informací o vašem prohlížeči a počítači lze vytvořit unikátní otisk a ten pak použít k vašemu sledování napříč různými a nijak nesouvisejícími servery a webovými stránkami.">
-<!ENTITY protections.trackingContent.description "Webové stránky mohou načítat externí reklamy, videa a další obsah, který obsahuje sledovací kód. Po zablokování sledujícího obsahu se stránky načítají rychleji, ale některá tlačítka nebo formuláře nemusí správně fungovat.">
 <!ENTITY protections.trackingContent2.description "Webové stránky mohou načítat externí reklamy, videa a další obsah, který obsahuje sledovací kód. Po zablokování sledujícího obsahu se stránky načítají rychleji, ale některá tlačítka nebo formuláře nemusí správně fungovat.">
 <!ENTITY protections.socialMediaTrackers.description "Sociální sítě umisťují na ostatní stránky sledovací prvky, pomocí kterých mohou sledovat, co na internetu sledujete. Tím získávají informace o vašich zájmech i bez toho, abyste na dané sítí něco sdíleli s ostatními.">
 
@@ -982,7 +972,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies a data stránek">
 
-<!ENTITY contentBlocking.socialblock.label "Sledovací prvky sociálních sítí">
+<!ENTITY contentBlocking.socialblock.label "Sledující prvky sociálních sítí">
 
 <!ENTITY contentBlocking.cookies2.label "Sledovací cookies">
 

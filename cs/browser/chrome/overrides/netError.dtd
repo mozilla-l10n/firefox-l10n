@@ -9,9 +9,7 @@
 <!ENTITY retry.label "Zkusit znovu">
 <!ENTITY returnToPreviousPage.label "Zpátky">
 <!ENTITY returnToPreviousPage1.label "Zpátky (doporučeno)">
-<!ENTITY advanced.label "Rozšířené">
 <!ENTITY advanced2.label "Rozšířené…">
-<!ENTITY moreInformation.label "Více informací">
 <!ENTITY viewCertificate.label "Zobrazit certifikát">
 
 <!-- Specific error messages -->
@@ -144,14 +142,8 @@ Personal Security Manager.</li>
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle1 "Vaše připojení není zabezpečené">
-
 <!ENTITY certerror.longpagetitle2 "Varování: možné bezpečnostní riziko">
 <!ENTITY certerror.sts.longpagetitle  "Nepřipojeno: Možný bezpečnostní problém">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
-will be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara "Majitel webu <span class='hostname'/> nakonfiguroval svůj server nesprávně. Abychom chránili vaše údaje před odcizením, aplikace &brandShortName; se k tomuto webu nepřipojila.">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -195,9 +187,6 @@ za chvíli.</li>
 <!ENTITY corruptedContentErrorv2.title "Chyba v obsahu stránky">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Požadovanou stránku nelze zobrazit, protože při přenosu dat došlo k chybě.</p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Přidat výjimku…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Beru na vědomí a chci pokračovat">
 
 <!ENTITY errorReporting.automatic2 "Hlásit chyby jako je tato a pomoci tak organizaci Mozilla identifikovat a blokovat škodlivé stránky">
@@ -211,26 +200,15 @@ za chvíli.</li>
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Podrobné informace: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; se nemůže připojit k adrese <span id='wrongSystemTime_URL'/>, protože hodiny ve vašem počítači jsou zřejmě špatně nastavené a brání tak v navázání zabezpečeného spojení.</p> <p>Datum ve vašem počítači je nastaveno na <span id='wrongSystemTime_systemDate'/>, ale mělo by být na <span id='wrongSystemTime_actualDate'/>. Nastavte prosím v systémovém nastavení správné datum a čas.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; se nemůže připojit k adrese <span id='wrongSystemTimeWithoutReference_URL'/>, protože hodiny ve vašem počítači jsou zřejmě špatně nastavené a brání tak v navázání zabezpečeného spojení.</p> <p>Datum ve vašem počítači je nastaveno na <span id='wrongSystemTimeWithoutReference_systemDate'/>. Nastavte prosím v systémovém nastavení správné datum a čas.</p>">
-
-<!ENTITY certerror.pagetitle1  "Nezabezpečené spojení">
-
 <!ENTITY certerror.pagetitle2  "Varování: možné bezpečnostní riziko">
 <!ENTITY certerror.sts.pagetitle  "Nepřipojeno: Možný bezpečnostní problém">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tento server používá HTTP
-Strict Transport Security (HSTS), čímž určuje, že se má &brandShortName; připojovat
-pouze zabezpečeně. Z tohoto důvodu není možné přidat pro tento certifikát výjimku.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Server <span class='hostname'></span> má nastaveno bezpečnostní pravidlo HTTP Strict Transport Security (HSTS), které vynucuje používání pouze zabezpečeného spojení. Pro připojení k této stránce nelze udělit výjimku.">
 <!ENTITY certerror.copyToClipboard.label "Zkopírovat text do schránky">
 
 <!ENTITY inadequateSecurityError.title "Vaše připojení není zabezpečené">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "Web <p><span class='hostname'></span> používá technologii, která je zastaralá a zranitelná vůči útokům. Útočník může snadno získat údaje, které si myslíte, že jsou zabezpečené. Správce webu musí dát nejprve server do pořádku, než budete moci stránku navštívit.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "Server <p><span class='hostname'></span> používá technologii, která je zastaralá a zranitelná vůči útokům. Útočník může snadno získat informace, které považujete za zabezpečené. Správce serveru musí server opravit, než budete moci stránku navštívit.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Zablokovaná stránka">
 
