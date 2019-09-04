@@ -108,7 +108,7 @@ newtab-menu-show-file =
         [macos] Ipakita sa Finder
        *[other] Buksan ang Naglalaman na Folder
     }
-newtab-menu-open-file = Buksan ang File
+newtab-menu-open-file = Magbukas ng File
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
