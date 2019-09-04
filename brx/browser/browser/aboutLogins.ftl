@@ -20,6 +20,7 @@ menu-menuitem-import = पासवर्डफोरखौ लाबो...
 
 ## Login
 
+login-item-edit-button = सुजुनाय
 login-item-delete-button = खोमोर
 login-item-origin-label = वेबसाइट थं
 login-item-origin =

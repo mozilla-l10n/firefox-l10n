@@ -4,6 +4,9 @@
 
 addons-window =
     .title = Add-ons मेनेजार
+search-header =
+    .placeholder = नागिर addons.mozilla.org
+    .searchbuttonlabel = नागिर
 search-header-shortcut =
     .key = f
 loading-label =
@@ -190,11 +193,21 @@ discopane-notice-learn-more = गोबां सोलों
 
 remove-addon-button = बोखार
 addons-enabled-heading = मावथि खालामबाय
+addons-disabled-heading = लोरबां जाबाय
 extension-enabled-heading = मावथि खालामबाय
+extension-disabled-heading = लोरबां जाबाय
 theme-enabled-heading = मावथि खालामबाय
+theme-disabled-heading = लोरबां जाबाय
 plugin-enabled-heading = मावथि खालामबाय
+plugin-disabled-heading = लोरबां जाबाय
 dictionary-enabled-heading = मावथि खालामबाय
+dictionary-disabled-heading = लोरबां जाबाय
 locale-enabled-heading = मावथि खालामबाय
+locale-disabled-heading = लोरबां जाबाय
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (लोरबां जाबाय)
 
 ## Pending uninstall message bar
 

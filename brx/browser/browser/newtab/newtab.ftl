@@ -36,6 +36,7 @@ newtab-topsites-add-button = दाजाबदेर
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = सुजुनाय
 newtab-menu-open-new-private-window = मोनसे गोदान प्राइभेट उइन्ड'खौ खेव
 newtab-menu-delete-history = जारिमिन निफ्राय खोमोर
 newtab-menu-delete-pocket = { -pocket-brand-name } निफ्राय खोमोर

@@ -6,6 +6,9 @@
 ### This file contains the entities needed for the 'edit' menu
 ### It's currently only used for the Browser Console and Developer Toolbox
 
+editmenu-copy =
+    .label = कपि
+    .accesskey = C
 editmenu-delete =
     .label = खोमोर
     .accesskey = D

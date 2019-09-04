@@ -4,3 +4,4 @@
 
 url-classifier-search-title = नागिर
 url-classifier-enabled = मावथि खालामबाय
+url-classifier-disabled = लोरबां जाबाय
