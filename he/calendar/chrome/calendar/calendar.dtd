@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "צור מטלה חדשה" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "מטלות" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "הצג משימות שהושלמו">
 
 <!ENTITY calendar.today.button.label          "היום">
@@ -386,7 +387,7 @@
 <!ENTITY calendar.error.detail "פרטים…">
 <!ENTITY calendar.error.code "קוד שגיאה:">
 <!ENTITY calendar.error.description "תיאור:">
-<!ENTITY calendar.error.title "אירעה תקלה">
+<!ENTITY calendar.error.title "אירעה שגיאה">
 
 <!-- Extract buttons in message header -->
 <!ENTITY calendar.extract.event.button         "הוספה כאירוע">
