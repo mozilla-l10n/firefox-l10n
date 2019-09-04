@@ -73,13 +73,15 @@
 </ul>">
 
 <!ENTITY contentEncodingError.title "שגיאה בקידוד תוכן">
-<!ENTITY contentEncodingError.longDesc "<ul> 
-<li>אנא צור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li> 
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
 </ul>">
 
 <!ENTITY unsafeContentType.title "סוג קובץ מסוכן">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>בבקשה צור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li> 
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
 </ul>">
 
 <!ENTITY netReset.title "החיבור הופסק">
@@ -173,7 +175,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "מידע נוסף…">
 
 <!ENTITY remoteXUL.title "XUL מרוחק">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>נא לפנות אל בעלי האתר כדי ליידע אותם על הבעיה.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "לא ניתן להתחבר באופן מאובטח">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
