@@ -4,3 +4,6 @@
 
 newsletter-email-placeholder =
     .placeholder = इ-मेइल
+newsletter-thanks-title = साबायखर!
+footer-learn-more-link = गोबां सोलों
+features-learn-more = गोबां सोलों

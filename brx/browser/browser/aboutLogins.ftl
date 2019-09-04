@@ -19,6 +19,7 @@ about-logins-page-title = लगिन & पासवर्डखौ
 ## Login
 
 login-item-delete-button = खोमोर
+login-item-origin-label = वेबसाइट थं
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = बाहायग्रा मुं

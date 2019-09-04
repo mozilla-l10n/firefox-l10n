@@ -184,6 +184,7 @@ extensions-updates-update-selected =
 
 ## Recommended add-ons page
 
+discopane-notice-learn-more = गोबां सोलों
 
 ## Add-on actions
 
