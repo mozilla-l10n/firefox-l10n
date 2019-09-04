@@ -41,16 +41,14 @@
 <!ENTITY  errorpatching.intro             "Dźělna aktualizacija njeda so nałožić. &brandShortName; spyta hišće raz, zo by dospołnu aktualizaciju sćahnył.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; njemóže zwěsćić, hač aktualizacija k dispoziciji steji. Prošu zawěsćće, zo maće najnowšu wersiju &brandShortName; z:">
-
+                                           
 <!ENTITY  finishedPage.title              "Aktualizacija hotowa za instalaciju">
 <!ENTITY  finishedPage.text               "Aktualizacija budźe so přichodny raz startować, hdyž &brandShortName; startuje. Móžeće &brandShortName; nětko znowa startować abo dale dźěłać a pozdźišo znowa startować.">
 
-<!ENTITY  finishedBackgroundPage.text     "Aktualizacija wěstoty a stabilnosće za &brandShortName; bu sćehnjena a móže so nětko instalować.">
+<!ENTITY  finishedBackgroundPage.text     "Aktualizacija wěstoty a stabilnosće za &brandShortName; je so sćahnyła a móže so nětko instalować.">
 <!ENTITY  finishedBackground.name         "Aktualizacija:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Aktualizacija budźe so instalować přichodny raz, hdyž &brandShortName; startuje. Móžeće &brandShortName; nětko znowa startować abo dale dźěłać a pozdźišo znowa startować.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.moreElevated "Tuta aktualizacija sej administratorowe priwilegije wužaduje. Aktualizacija budźe so přichodny raz instalować, hdyž so &brandShortName; startuje. Móžeće &brandShortName; nětko znowa startować, dale dźěłać a pozdźišo znowa startować abo tutu aktualizaciju wotpokazać.">
 
-<!ENTITY  update.details.label            "Podrobnosće">
-<!ENTITY  update.installedOn.label        "Instalowany na:">
-<!ENTITY  update.status.label             "Status:">
