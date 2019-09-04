@@ -294,6 +294,10 @@ install-theme-button = Installer le thème
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Gérer
 find-more-addons = Découvrir davantage de modules
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Plus d’options
 
 ## Add-on actions
 
@@ -364,6 +368,11 @@ install-update-button = Mettre à jour
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Autorisée dans les fenêtres privées
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Autorisé dans les fenêtres de navigation privées
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Lorsqu’elle est autorisée, l’extension a accès à vos activités en ligne lors d’une navigation privée. <a data-l10n-name="learn-more">En savoir plus</a>
 addon-detail-private-browsing-allow = Autoriser
 addon-detail-private-browsing-disallow = Ne pas autoriser
@@ -372,6 +381,11 @@ addon-detail-private-browsing-disallow = Ne pas autoriser
 addon-badge-recommended =
     .title = Recommandée
     .alt = Recommandée
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } ne recommande que des extensions conformes à nos normes en matière de sécurité et de performances.
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Mises à jour disponibles
 recent-updates-heading = Mises à jour récentes
 release-notes-loading = Chargement…
