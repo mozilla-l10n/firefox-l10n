@@ -50,3 +50,5 @@ accessibility-text-label-issue-toolbar = Umi tembipuru renda oñemboherava’er�
 accessibility-keyboard-issue-semantics = Umi mba’epuru oñemoma’ẽporãtava oguerekova’erã ñe’ẽpykuaa juajúva. <a>Eikuaave</a>
 accessibility-keyboard-issue-tabindex = Ani eipuru tekome’ẽ <code>tabindex</code> tuichavéva sérogui. <a>Eikuaave</a>
 accessibility-keyboard-issue-action = Umi mba’epuru ojuajúva oñemyandyva’erã tairendápe. <a>Eikuaave</a>
+accessibility-keyboard-issue-focusable = Umi mba’epuru ojuajúva oñemoma’ẽporãva’erã. <a>Eikuaave</a>
+accessibility-keyboard-issue-focus-visible = Pe mba’epuru moma’ẽkuaáva ikatu ndoguerekói moma’ẽkuaaha. <a>Eikuaave</a>
