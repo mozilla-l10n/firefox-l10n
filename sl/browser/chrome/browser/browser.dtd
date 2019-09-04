@@ -814,10 +814,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Povezava">
 <!ENTITY identity.connectionSecure "Varna povezava">
-
-<!ENTITY identity.connectionSecure2 "Povezava varna">
 <!ENTITY identity.connectionNotSecure "Povezava ni varna">
 
+<!ENTITY identity.connectionSecure3 "Povezava varna">
 <!ENTITY identity.connectionNotSecure2 "Povezava ni varna">
 <!ENTITY identity.connectionNotSecureSecurityView "Niste varno povezani na to stran.">
 <!ENTITY identity.connectionFile "Ta stran je shranjena na vašem računalniku.">
@@ -827,8 +826,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "To stran je naložila razširitev.">
 <!ENTITY identity.insecureLoginForms2 "Prijave, ki jih vnesete na tej strani, so lahko ogrožene.">
 <!ENTITY identity.customRoot "Povezavo je preveril izdajatelj digitalnega potrdila, ki ga Mozilla ne prepozna.">
-
-<!ENTITY identity.evOwnerLabel "Lastnik spletnega mesta:">
 
 
 <!-- Strings for connection state warnings. -->
@@ -865,9 +862,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Dovoljenja">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Dovoljenja so nastavljena">
-
 <!ENTITY identity.permissions3 "Dovoljenja">
 <!ENTITY identity.permissionsEmpty "Tej strani niste dodelili posebnih dovoljenj.">
 <!ENTITY identity.permissionsReloadHint "Za uveljavitev sprememb boste morda morali ponovno naložiti stran.">
@@ -881,7 +875,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Več o izboljšani zaščiti pred sledenjem">
 <!ENTITY protections.settings.label "Nastavitve zaščite">
-<!ENTITY protections.report.label "Prikaži celotno poročilo">
 <!ENTITY protections.showreport.label "Prikaži poročilo">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -899,7 +892,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "s plačili">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "s komentarji">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "z videi">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Stran tudi po izklopu zaščite ne deluje?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Pošlji poročilo">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -927,7 +919,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Ti piškotki vas spremljajo po straneh in zbirajo podatke o tem, kaj počnete na spletu. Namestijo jih tretje strani, kot so oglaševalci in analitična podjetja.">
 <!ENTITY protections.cryptominers.description "Kriptorudarji izrabljajo zmogljivost vašega računalnika za rudarjenje digitalnega denarja. Rudarski skripti vam praznijo baterijo, upočasnjujejo računalnik in zasolijo račun za elektriko.">
 <!ENTITY protections.fingerprinters.description "Sledilci prstnih odtisov zbirajo nastavitve vašega brskalnika in računalnika, da si ustvarijo vaš profil. S pomočjo digitalnega prstnega odtisa vam lahko sledijo na različnih spletnih straneh.">
-<!ENTITY protections.trackingContent.description "Spletne strani lahko naložijo zunanje oglase, videoposnetke in drugo vsebino, ki vsebuje kodo za sledenje. Zavračanje sledilne vsebine lahko pospeši nalaganje spletnih strani, vendar nekateri gumbi in obrazci morda ne bodo delovali.">
 <!ENTITY protections.trackingContent2.description "Spletne strani lahko naložijo zunanje oglase, videoposnetke in drugo vsebino s kodo za sledenje. Zavračanje sledilne vsebine lahko pospeši nalaganje spletnih strani, vendar nekateri gumbi in obrazci morda ne bodo delovali.">
 <!ENTITY protections.socialMediaTrackers.description "Družbena omrežja postavljajo sledilce na druga spletna mesta, da bi spremljali, kaj počnete, vidite in gledate na spletu. To družbenim medijem omogoča, da o vas izvedo več kot le tisto, kar delite na svojih družbenih profilih.">
 
