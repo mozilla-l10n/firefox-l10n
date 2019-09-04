@@ -36,7 +36,7 @@
 
 <!ENTITY fileNotFound.title "Archivo no encontrado">
 <!ENTITY fileNotFound.longDesc "<ul>
-  <li>Verificá que el nombre de archivo no contenga errores de mayúsculas o de tipeo.</li>
+  <li>Verificá si el nombre del archivo tiene errores de mayúsculas o de tipeo.</li>
   <li>Fijate si el archivo fue movido, renombrado o borrado.</li>
 </ul>
 ">
@@ -188,7 +188,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
-No deberías agregar una excepción si estás usando una conexión a Internet en la que no confiás por completo o si no estás acostumbrado a ver mensajes de advertencia de este servidor.
+<p>No deberías agregar una excepción si estás usando una conexión a Internet en la que no confiás por completo o si no estás acostumbrado a ver mensajes de advertencia de este servidor.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
