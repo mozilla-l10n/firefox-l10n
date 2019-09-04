@@ -4,11 +4,17 @@
 
 customize-mode-restore-defaults =
     .label = डिफल्टखौ मोनफिन
+customize-mode-done =
+    .label = जाखांबाइ
 customize-mode-lwthemes-menu-manage =
     .label = मेनेज खालाम
     .accesskey = M
 customize-mode-titlebar =
     .label = बिमुं बार
+customize-mode-uidensity-menu-touch =
+    .label = टाच
+    .accesskey = T
+    .tooltiptext = टाच
 customize-mode-lwthemes =
     .label = थिम
 customize-mode-lwthemes-menu-get-more =

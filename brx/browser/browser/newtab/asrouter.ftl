@@ -17,6 +17,8 @@ cfr-doorhanger-extension-learn-more-link = गोबां सोलों
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-animation-pause = थाद' हो
+cfr-doorhanger-pintab-animation-resume = फिन जागाय
 
 ## Firefox Accounts Message
 

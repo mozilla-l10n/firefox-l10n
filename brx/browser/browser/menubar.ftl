@@ -46,6 +46,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = साफाय...( P)
     .accesskey = P
+menu-file-import-from-another-browser =
+    .label = गुबुन मोनसे ब्राउजार निफ्राय लाबो...
+    .accesskey = I
 menu-file-go-offline =
     .label = खामानि अफलाइन
     .accesskey = k
@@ -178,6 +181,8 @@ menu-bookmarks-all-tabs =
     .label = गासै टेबखौ बुकमार्क हो...
 menu-bookmarks-toolbar =
     .label = बुकमार्क टुलबार
+menu-bookmarks-other =
+    .label = गुबुन बुकमाकॅफोर
 
 ## Tools Menu
 
@@ -190,6 +195,9 @@ menu-tools-downloads =
 menu-tools-addons =
     .label = Add-ons
     .accesskey = A
+menu-tools-sync-sign-in =
+    .label = { -sync-brand-short-name } आव साइन-इन खालाम
+    .accesskey = y
 menu-tools-sync-now =
     .label = दानो सिनक खालाम
     .accesskey = S
@@ -230,7 +238,7 @@ menu-help =
     .label = मदद
     .accesskey = H
 menu-help-product =
-    .label = { -brand-shorter-name } Help
+    .label = { -brand-shorter-name } मदद नांगौ
     .accesskey = H
 menu-help-keyboard-shortcuts =
     .label = गाहाय सोदोब शर्टकाट

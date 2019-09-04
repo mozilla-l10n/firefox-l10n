@@ -68,9 +68,6 @@ browser-containers-settings =
 
 default-font-size = महर
     .accesskey = S
-advanced-fonts =
-    .label = Advanced…
-    .accesskey = A
 colors-settings =
     .label = गाबफोर...
     .accesskey = ग
@@ -174,6 +171,12 @@ home-prefs-highlights-header =
     .label = हाइलाइटफोर
 home-prefs-highlights-options-bookmarks =
     .label = बुकमाकॅफोर
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = स्निपेटफोर
 
 ## Search Section
 
