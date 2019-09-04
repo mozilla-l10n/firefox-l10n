@@ -178,7 +178,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; מנע מהעמוד הזה להיטען באופן הזה כיוון שמדיניות התוכן של הדף אינה מאפשרת זאת.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "שגיאת תוכן משובש">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>העמוד המבוקש אינו ניתן לצפייה עקב שגיאה שאותרה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם מנהלי האתר וליידע אותם על תקלה זו.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>העמוד המבוקש אינו ניתן להצגה עקב שגיאה שאותרה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">
 
 <!ENTITY securityOverride.linkText "באפשרותך גם להוסיף חריגה…">
 <!ENTITY securityOverride.getMeOutOfHereButton "קחו אותי מכאן!">
@@ -196,7 +196,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 ">
 
 <!ENTITY remoteXUL.title "XUL מרוחק">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>פנה אל בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>נא לפנות אל בעלי האתר כדי ליידע אותם על הבעיה.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "לא ניתן להיכנס באופן מאובטח">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
@@ -211,7 +211,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "החיבור שלך אינו מאובטח">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p>ב־<span class='hostname'></span> נעשה שימוש בטכנולוגיית אבטחה מיושנת וחשופה לתקיפות. לתוקף יש אפשרות לחשוף בקלות מידע שעשוי להחשב כמאובטח. על מנהל האתר לתקן את השרת תחילה לפני שיתאפשר לך לבקר באתר.</p><p>קוד שגיאה: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p>האתר בכתובת <span class='hostname'></span> משתמש בטכנולוגיית אבטחה מיושנת החשופה לתקיפות. תוקף יכול לחשוף בקלות מידע שעשוי להחשב כמאובטח. על מנהל האתר לתקן את השרת לפני שיהיה ניתן לבקר באתר.</p><p>קוד שגיאה: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY networkProtocolError.title "שגיאת פרוטוקול רשת">
 <!ENTITY networkProtocolError.longDesc "<p>לא ניתן להציג את הדף שברצונך לצפות מכיוון שאותרה שגיאה בפרוטוקול הרשת.</p><ul><li>נא ליצור קשר עם בעלי האתר וליידע אותם על בעיה זו.</li></ul>">
