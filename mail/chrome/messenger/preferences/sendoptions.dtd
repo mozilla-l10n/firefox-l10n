@@ -22,9 +22,9 @@
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "מתחמי טקסט פשוט">
 <!ENTITY PlainTextTab.accesskey       "p">
-<!ENTITY AddHtmlDomain.label          "הוסף…">
+<!ENTITY AddHtmlDomain.label          "הוספה…">
 <!ENTITY AddHtmlDomain.accesskey      "ה">
-<!ENTITY AddPlainText.label           "הוסף…">
+<!ENTITY AddPlainText.label           "הוספה…">
 <!ENTITY AddPlainText.accesskey       "ס">
 <!ENTITY DeleteHtmlDomain.label       "מחק">
 <!ENTITY DeleteHtmlDomain.accesskey   "מ">
