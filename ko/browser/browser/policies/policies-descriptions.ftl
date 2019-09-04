@@ -69,6 +69,7 @@ policy-OfferToSaveLogins = { -brand-short-name }가 로그인과 비밀번호 �
 policy-OfferToSaveLoginsDefault = 저장된 로그인과 비밀번호를 기억하도록 { -brand-short-name }가 제공하는 기본값을 설정하십시오. true 및 false 값이 모두 허용됩니다.
 policy-OverrideFirstRunPage = 처음 시작 페이지 설정을 재정의 합니다. 처음 시작 페이지를 비활성화 하려면 이 정책을 빈칸으로 설정하세요.
 policy-OverridePostUpdatePage = "새기능" 업데이트 후 페이지를 재정의 합니다. 업데이트 후 페이지를 비활성화 하려면 이 정책을 빈칸으로 설정하세요.
+policy-PasswordManagerEnabled = 비밀번호 관리자에 비밀번호 저장을 사용합니다.
 policy-Permissions = 카메라나 마이크, 위치, 알림 권한을 설정합니다.
 policy-PopupBlocking = 기본으로 특정 웹사이트가 팝업을 보여주도록 허용합니다.
 policy-Preferences = 설정의 하위 집합에 대한 값을 설정하고 잠급니다.
