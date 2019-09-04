@@ -68,6 +68,7 @@ policy-NoDefaultBookmarks = Onemogoči ustvarjanje privzetih zaznamkov, vključe
 policy-OfferToSaveLogins = Vsili shranjevanje prijav in gesel v { -brand-short-name }u. Možna je tako vrednost "true" kot "false".
 policy-OverrideFirstRunPage = Preglasi stran prvega zagona. Če želite onemogočiti prikaz strani prvega zagona, nastavite pravilnik na prazno vrednost.
 policy-OverridePostUpdatePage = Preglasi stran "Kaj je novega", ki se odpre po posodobitvi. Če želite onemogočiti prikaz strani po posodobitvi, nastavite pravilnik na prazno vrednost.
+policy-PasswordManagerEnabled = Omogoči shranjevanje gesel v upravitelja gesel.
 policy-Permissions = Nastavi dovoljenja za kamero, mikrofon, lokacijo in obvestila.
 policy-PopupBlocking = Določenim spletnim stranem dovoli privzeto prikazovanje pojavnih oken.
 policy-Preferences = Nastavi in zakleni vrednost podnabora nastavitev.
