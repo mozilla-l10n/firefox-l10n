@@ -3,10 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY pluginActivationWarning                             "אתר זה משתמש בתוסף חיצוני אשר עלול להאט את &brandShortName;.">
 <!ENTITY tapToPlayPlugin                                     "נא ללחוץ כאן להפעלת התוסף החיצוני.">
 <!ENTITY clickToActivatePlugin                               "הפעלת תוסף חיצוני.">
-<!ENTITY checkForUpdates                                     "בדיקת עדכונים…">
+<!ENTITY checkForUpdates                                     "בדיקה אחר עדכונים…">
 <!ENTITY blockedPlugin.label                                 "תוסף חיצוני זה נחסם כדי להגן עליך.">
 <!ENTITY hidePluginBtn.label                                 "הסתרת תוסף חיצוני">
 <!ENTITY managePlugins                                       "ניהול תוספים חיצוניים…">
@@ -24,7 +23,7 @@
 <!ENTITY report.disabled                                     "דיווחי קריסה מנוטרלים.">
 <!ENTITY report.failed                                       "שליחה כשלה.">
 <!ENTITY report.unavailable                                  "אין דיווח זמין.">
-<!ENTITY report.comment                                      "הוספת הערה (הערות חשופות לקהל)">
+<!ENTITY report.comment                                      "הוספת הערה (ההערות חשופות לקהל)">
 <!ENTITY report.pageURL                                      "לכלול את כתובת הדף">
 
 <!ENTITY plugin.file                                         "קובץ">
