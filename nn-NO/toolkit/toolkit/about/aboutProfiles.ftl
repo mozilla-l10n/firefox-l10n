@@ -47,8 +47,8 @@ profiles-delete-profile-title = Slett profilen
 # Variables:
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm =
-    Om du slettar ein profil vil det fjerna profilen frå lista over tilgjengelege profilar, og det kan ikkje angrast. 
-    Du kan òg velje å slette profildata-filene, inkludert innstillingar, sertifikat og andre brukar-relaterte data. Dette valet vil òg sletta mappa ‹‹{ $dir }››, og kan ikkje gjerast om.
+    Om du slettar ein profil vil det fjerne profilen frå lista over tilgjengelege profilar, og det kan ikkje angrast. 
+    Du kan òg velje å slette profildata-filene, inkludert innstillingar, sertifikat og andre brukar-relaterte data. Dette valet vil òg slette mappa ‹‹{ $dir }››, og kan ikkje gjerast om.
     Vil du slette profildata-filene?
 profiles-delete-files = Slett filer
 profiles-dont-delete-files = Ikkje slett filer
