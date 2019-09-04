@@ -427,7 +427,7 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "נא ללחוץ על ישומון הדפדפן ולבחור את &brandShortName;">
-<!ENTITY pref_about_firefox "מידע על &brandShortName;">
+<!ENTITY pref_about_firefox "פרטים על &brandShortName;">
 <!ENTITY pref_vendor_faqs "תשובות לשאלות נפוצות">
 <!ENTITY pref_vendor_feedback "שליחת משוב">
 
