@@ -26,7 +26,7 @@ onboarding-join-form-body = Digite seu endereço de e-mail para começar.
 onboarding-join-form-email =
     .placeholder = Digite seu e-mail
 onboarding-join-form-email-error = É necessário um e-mail válido
-onboarding-join-form-legal = Ao continuar, você concorda com os <a data-l10n-name="terms">Termos de Serviço</a> e o <a data-l10n-name="privacy">Aviso de Privacidade</a>.
+onboarding-join-form-legal = Ao continuar, você concorda com os <a data-l10n-name="terms">Termos do serviço</a> e o <a data-l10n-name="privacy">Aviso de privacidade</a>.
 onboarding-join-form-continue = Continuar
 onboarding-start-browsing-button-label = Comece a navegar
 onboarding-cards-dismiss =
@@ -39,7 +39,7 @@ onboarding-sync-welcome-header = Leve o { -brand-product-name } com você
 onboarding-sync-welcome-content = Tenha seus favoritos, histórico, senhas e outras configurações em todos os seus dispositivos.
 onboarding-sync-welcome-learn-more-link = Saiba mais sobre a Conta Firefox
 onboarding-sync-form-invalid-input = Necessário um e-mail válido
-onboarding-sync-legal-notice = Ao continuar você concorda com os <a data-l10n-name="terms">Termos de serviço</a> e a <a data-l10n-name="privacy">Política de privacidade</a>.
+onboarding-sync-legal-notice = Ao continuar, você concorda com os <a data-l10n-name="terms">Termos do serviço</a> e o <a data-l10n-name="privacy">Aviso de privacidade</a>.
 onboarding-sync-form-input =
     .placeholder = E-mail
 onboarding-sync-form-continue-button = Continuar
