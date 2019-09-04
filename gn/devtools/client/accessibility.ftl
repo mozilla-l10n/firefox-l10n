@@ -47,3 +47,6 @@ accessibility-text-label-issue-toolbar = Umi tembipuru renda oñemboherava’er�
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = Umi mba’epuru oñemoma’ẽporãtava oguerekova’erã ñe’ẽpykuaa juajúva. <a>Eikuaave</a>
+accessibility-keyboard-issue-tabindex = Ani eipuru tekome’ẽ <code>tabindex</code> tuichavéva sérogui. <a>Eikuaave</a>
+accessibility-keyboard-issue-action = Umi mba’epuru ojuajúva oñemyandyva’erã tairendápe. <a>Eikuaave</a>
