@@ -201,7 +201,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY addCurPagesCmd.label "Bokmerk alle faner…">
 
-<!ENTITY showAllBookmarks2.label "Vis alle bokmerka">
+<!ENTITY showAllBookmarks2.label "Vis alle bokmerke">
 <!ENTITY recentBookmarks.label "Nyleg bokmerkt">
 <!ENTITY otherBookmarksCmd.label "Andre bokmerke">
 <!ENTITY mobileBookmarksCmd.label "Mobile bokmerke">
@@ -814,8 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Tilkopling">
 <!ENTITY identity.connectionSecure "Trygt samband">
-
-<!ENTITY identity.connectionSecure2 "Tilkoplinga er sikker">
 <!ENTITY identity.connectionNotSecure "Tilkoplinga er ikkje sikker">
 
 <!ENTITY identity.connectionSecure3 "Tilkoplinga er sikker">
@@ -828,8 +826,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Denne sida er lasta frå ei utviding.">
 <!ENTITY identity.insecureLoginForms2 "Innloggingsinfo skrive inn på denne sida kan lesast av tredjepart.">
 <!ENTITY identity.customRoot "Tilkoplinga vart stadfesta av ein sertifikatutskrivar som Mozilla ikkje kjenner.">
-
-<!ENTITY identity.evOwnerLabel "Nettstaden eigd av:">
 
 <!ENTITY identity.evOwnerLabel2 "Sertifikat skrive ut til:">
 
@@ -867,9 +863,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Løyve">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Løyve spesifiserte">
-
 <!ENTITY identity.permissions3 "Løyve">
 <!ENTITY identity.permissionsEmpty "Du har ikkje gjeve denne nettstaden spesielle løyve.">
 <!ENTITY identity.permissionsReloadHint "Du må kanskje laste sida på nytt for at endringane skal gjelde.">
@@ -883,7 +876,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Meir informasjon om utvida sporingsvern">
 <!ENTITY protections.settings.label "Innstillingar for vern">
-<!ENTITY protections.report.label "Vis full rapport">
 <!ENTITY protections.showreport.label "Vis rapport">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -901,7 +893,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Betalingar">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Kommentarar">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Videoar">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Er nettstaden framleis øydelagd, sjølv etter å ha slått av vern?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Send inn ein rapport">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -929,7 +920,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Desse infokapslane følgjer deg frå side til side for å samle inn data om kva du gjer på nettet. Dei kjem frå tredjepartar som annonsørar og analyseselskap.">
 <!ENTITY protections.cryptominers.description "Kryptominarar brukar datakrafta til systemet for å utvinne digitale pengar. Kryptomineringsskript tappar batteriet, gjer datamaskina tregare og kan auke straumrekninga.">
 <!ENTITY protections.fingerprinters.description "Fingerprinters samlar innstillingar frå nettlesaren din og datamaskina for å opprette ein profil av deg. Ved hjelp av dette digitale fingeravtrykket kan dei spore deg på ulike nettstadar.">
-<!ENTITY protections.trackingContent.description "Nettstadar kan laste inn eksterne annonsar, videoar og anna innhald som inneheld sporingskode. Blokkering av sporingsinnhald kan hjelpe nettstadar å laste raskare, men nokre knappar, skjema og innloggingsfelt fungerer kanskje ikkje.">
 <!ENTITY protections.trackingContent2.description "Nettstadar kan laste eksterne annonsar, videoar og annna innhald med sporingskode. Blokkering av sporingsinnhald kan gjere at nettstadar lastar raskare, men det kan hende at nokre knappar, skjema og innloggingsfelt ikkje fungerer.">
 <!ENTITY protections.socialMediaTrackers.description "Sosiale nettverk plasserer sporfølgjarar på andre nettstadar for å følgje det du gjer og ser på nettet. Dette gjer at sosiale media-selskap kan lære meir om deg utover det du deler på profilane dine på sosiale medium.">
 
