@@ -597,7 +597,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "מיקום">
 <!ENTITY bookmark_edit_keyword "מילת מפתח">
 <!ENTITY bookmark_select_folder "בחירת תיקייה">
-
 <!ENTITY bookmark_edit_undo "ביטול">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -631,7 +630,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_title "דף הבית של &brandShortName;">
+<!ENTITY home_title "מסך הבית של &brandShortName;">
 <!ENTITY home_history_title "היסטוריה">
 <!ENTITY home_synced_devices_smartfolder "מכשירים מסונכרנים">
 <!ENTITY home_synced_devices_number "&formatD; מכשירים">
@@ -881,10 +880,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "ניתן להוסיף סימנייה של פריטי תצוגת הקריאה כדי לקרוא אותם ללא חיבור לאינטרנט.">
 <!ENTITY helper_triple_readerview_open_button "הוספה לסימניות">
 
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "ברוכים הבאים אל &brandShortName;">
 <!ENTITY activity_stream_signin_button "כניסה">
-<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
-These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "אתרים מובילים">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
