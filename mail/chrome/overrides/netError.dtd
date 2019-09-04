@@ -32,7 +32,7 @@
 <!ENTITY fileNotFound.title "Archivo no encontrado">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Verifique el nombre de archivo por errores de mayúsculas o de tipeo.</li>
+  <li>Verifique si el nombre del archivo tiene errores de mayúsculas o de tipeo.</li>
   <li>Fíjese si el archivo fue movido, renombrado o borrado.</li>
 </ul>
 ">
