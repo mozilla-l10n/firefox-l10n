@@ -105,7 +105,7 @@ cfr-whatsnew-lockwise-take-link-text = 获取应用
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = 在手机上获取此书签
-cfr-doorhanger-sync-bookmarks-body = 将您的书签、密码、历史记录及更多，同步到登录至 { -brand-product-name } 的所有设备。
+cfr-doorhanger-sync-bookmarks-body = 将您的书签、密码、历史记录等数据，同步到登录了{ -brand-product-name }服务的所有设备。
 cfr-doorhanger-sync-bookmarks-ok-button = 开启{ -sync-brand-short-name }
     .accesskey = T
 
@@ -120,7 +120,7 @@ cfr-doorhanger-sync-logins-ok-button = 开启{ -sync-brand-short-name }
 
 cfr-doorhanger-send-tab-header = 随时随地阅读
 cfr-doorhanger-send-tab-recipe-header = 把这篇食谱带到厨房
-cfr-doorhanger-send-tab-body = Send Tab 可轻松地将链接分享到手机，或任何登录至 { -brand-product-name } 的设备。
+cfr-doorhanger-send-tab-body = 标签页发送功能可轻松把网页发到手机上打开，任何登录了{ -brand-product-name }服务的设备也都支持。
 cfr-doorhanger-send-tab-ok-button = 试试标签页发送功能
     .accesskey = T
 

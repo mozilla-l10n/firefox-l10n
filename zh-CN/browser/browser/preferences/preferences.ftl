@@ -118,7 +118,7 @@ startup-header = 启动
 separate-profile-mode =
     .label = 允许 { -brand-short-name } 和 Firefox 同时运行
 use-firefox-sync = 提示：这将使用单独的配置文件，可使用“{ -sync-brand-short-name }”在两套浏览器间共享数据。
-get-started-not-logged-in = 登录至{ -sync-brand-short-name }…
+get-started-not-logged-in = 登录{ -sync-brand-short-name }服务…
 get-started-configured = 打开{ -sync-brand-short-name }服务首选项
 always-check-default =
     .label = 总是检查 { -brand-short-name } 是否是您的默认浏览器
@@ -717,8 +717,8 @@ addressbar-suggestions-settings = 更改搜索引擎建议的首选项
 ## Privacy Section - Content Blocking
 
 content-blocking-header = 内容拦截
-content-blocking-enhanced-tracking-protection = 增强型跟踪保护
 content-blocking-section-description = 在浏览时保护您的隐私。拦截会跟踪您访问活动，并分析用户特征的隐藏内容。拦截此类内容也可能使页面加载更快。
+content-blocking-enhanced-tracking-protection = 增强型跟踪保护
 content-blocking-section-top-level-description = 跟踪器会跟踪您的在线活动，收集您的浏览习惯与兴趣爱好。{ -brand-short-name } 可拦截众多跟踪器和其他恶意脚本。
 content-blocking-learn-more = 详细了解
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
