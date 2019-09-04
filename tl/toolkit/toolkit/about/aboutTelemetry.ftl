@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = I-ping ang data source:
 about-telemetry-show-current-ping-data = Kasalukuyang ping data
+about-telemetry-show-current-data = Kasalukuyang data
 about-telemetry-show-archived-ping-data = Naka-archive na ping data
 about-telemetry-show-subsession-data = Ipakita ang subsession data
 about-telemetry-choose-ping = Piliin ang ping:
@@ -15,6 +16,7 @@ about-telemetry-option-group-older = Luma
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetry Data
+about-telemetry-current-store = Kasalukuyang Store:
 about-telemetry-more-information = Naghahanap ng karagdagang impormasyon?
 about-telemetry-firefox-data-doc = Ang <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> ay naglalaman ng mga gabay tungkol sa kung paano gumagana ang aming mga kagamitan sa mga datos.
 about-telemetry-telemetry-client-doc = Ang <a data-l10n-name="client-doc-link">Firefox Telemetry client documentation</a> ay naglalakip ng mga pagbigay-kahulugan para sa mga konsepto, mga dokumentasyon sa API at pinanggagalingan ng mga datos.
@@ -54,6 +56,16 @@ about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] pinagana
        *[disabled] hindi pinagana
+    }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } sample, average = { $prettyAverage }, kabuuan = { $sum }
+       *[other] { $sampleCount } sample, average = { $prettyAverage }, kabuuan = { $sum }
     }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"

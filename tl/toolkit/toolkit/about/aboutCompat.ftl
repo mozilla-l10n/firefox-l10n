@@ -8,4 +8,6 @@ label-interventions = Mga Intervention
 label-more-information = Dagdag na Impormasyon: Bug { $bug }
 label-overrides = Mga User Agent Override
 text-disabled-in-about-config = Ang feature na ito ay hindi naka-enable sa about:config
+text-no-interventions = Walang ginagamit na mga intervention
+text-no-overrides = Walang ginagamit na mga UA override
 text-title = about:compat
