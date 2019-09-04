@@ -150,8 +150,8 @@
 <!ENTITY nssFailure2.title "קישור מאובטח נכשל">
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
-  <li>לא ניתן להציג את העמוד בו ניסית לצפות כיוון שלא ניתן לאמת את אמינות הנתונים שהתקבלו.</li>
-  <li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על הבעיה הזאת.</li>
+  <li>לא ניתן להציג את הדף המבוקש מכיוון שאין אפשרות לאמת את אמינות הנתונים שהתקבלו.</li>
+  <li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
 </ul>
 ">
 
@@ -178,11 +178,11 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; מנע מהעמוד הזה להיטען באופן הזה כיוון שמדיניות התוכן של הדף אינה מאפשרת זאת.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "שגיאת תוכן משובש">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>העמוד המבוקש אינו ניתן להצגה עקב שגיאה שאותרה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>לא ניתן להציג את הדף המבוקש מכיוון שאותרה שגיאה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">
 
 <!ENTITY securityOverride.linkText "באפשרותך גם להוסיף חריגה…">
 <!ENTITY securityOverride.getMeOutOfHereButton "קחו אותי מכאן!">
-<!ENTITY securityOverride.exceptionButtonLabel "הוסף חריגה…">
+<!ENTITY securityOverride.exceptionButtonLabel "הוספת חריגה…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
@@ -214,4 +214,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.longDesc "<p>האתר בכתובת <span class='hostname'></span> משתמש בטכנולוגיית אבטחה מיושנת החשופה לתקיפות. תוקף יכול לחשוף בקלות מידע שעשוי להחשב כמאובטח. על מנהל האתר לתקן את השרת לפני שיהיה ניתן לבקר באתר.</p><p>קוד שגיאה: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY networkProtocolError.title "שגיאת פרוטוקול רשת">
-<!ENTITY networkProtocolError.longDesc "<p>לא ניתן להציג את הדף שברצונך לצפות מכיוון שאותרה שגיאה בפרוטוקול הרשת.</p><ul><li>נא ליצור קשר עם בעלי האתר וליידע אותם על בעיה זו.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>לא ניתן להציג את הדף המבוקש מכיוון שאותרה שגיאה בפרוטוקול הרשת.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">
