@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = आपडेट जारिमिन
+history-intro = गाहायनि आपडेटफोरखौ इनष्टल खालामनाय जाबाय
 close-button-label =
     .buttonlabelcancel = बन्द खालाम
     .title = आपडेट जारिमिन
@@ -11,13 +12,6 @@ name-header = आपडेटनि मुं
 date-header = इनष्टल खालार
 type-header = रोखोम
 state-header = रायजो
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name } ({ $buildID })
 # Used to display update history
 #
 # Variables:
