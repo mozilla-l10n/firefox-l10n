@@ -113,6 +113,12 @@
 ">
 
 <!ENTITY nssFailure2.title "קישור מאובטח נכשל">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>לא ניתן להציג את הדף המבוקש מכיוון שאין אפשרות לאמת את אמינות הנתונים שהתקבלו.</li>
+  <li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "קישור מאובטח נכשל">
 <!ENTITY nssBadCert.longDesc2 "
@@ -132,11 +138,11 @@
 
 
 <!ENTITY corruptedContentErrorv2.title "שגיאת תוכן פגום">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>העמוד המבוקש אינו ניתן להצגה עקב שגיאה שאותרה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>לא ניתן להציג את הדף המבוקש מכיוון שאותרה שגיאה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">
 
 <!ENTITY securityOverride.linkText "באפשרותך גם להוסיף חריגה…">
 <!ENTITY securityOverride.getMeOutOfHereButton "תוציא אותי מכאן!">
-<!ENTITY securityOverride.exceptionButtonLabel "הוסף חריגה…">
+<!ENTITY securityOverride.exceptionButtonLabel "הוספת חריגה…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
