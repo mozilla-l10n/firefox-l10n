@@ -132,6 +132,7 @@
 
 
 <!ENTITY corruptedContentErrorv2.title "שגיאת תוכן פגום">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>העמוד המבוקש אינו ניתן להצגה עקב שגיאה שאותרה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">
 
 <!ENTITY securityOverride.linkText "באפשרותך גם להוסיף חריגה…">
 <!ENTITY securityOverride.getMeOutOfHereButton "תוציא אותי מכאן!">
@@ -149,10 +150,11 @@ functionality specific to thunderbird. -->
 ">
 
 <!ENTITY remoteXUL.title "XUL מרוחק">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>פנה אל בעלי האתר כדי ליידע אותם על הבעיה.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>נא לפנות אל בעלי האתר כדי ליידע אותם על הבעיה.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "החיבור שלך אינו מאובטח">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p>האתר בכתובת <span class='hostname'></span> משתמש בטכנולוגיית אבטחה מיושנת החשופה לתקיפות. תוקף יכול לחשוף בקלות מידע שעשוי להחשב כמאובטח. על מנהל האתר לתקן את השרת לפני שיהיה ניתן לבקר באתר.</p><p>קוד שגיאה: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 
