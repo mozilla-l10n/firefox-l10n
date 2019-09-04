@@ -28,6 +28,7 @@ close-button =
 feature-enable-requires-restart = बे आखुथायखौ हाहोनाय खालामनो { -brand-short-name } खौ फिन जागायनांगोन।
 feature-disable-requires-restart = बे आखुथायखौ लोरबां खालामनो { -brand-short-name } खौ फिन जागायनांगोन।
 should-restart-title = { -brand-short-name } फिन जागाय
+cancel-no-restart-button = नेवसि
 
 ## Extension Control Notifications
 ##
@@ -213,6 +214,9 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = जारिमिन
     .accesskey = म
+sync-device-name-cancel =
+    .label = नेवसि
+    .accesskey = n
 sync-device-name-save =
     .label = थिना दोन
     .accesskey = v

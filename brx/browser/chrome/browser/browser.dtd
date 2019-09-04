@@ -702,6 +702,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.breakageReportView.learnMore "गोबां सोलों">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "गोबां सोलों">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "नेवसि">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control

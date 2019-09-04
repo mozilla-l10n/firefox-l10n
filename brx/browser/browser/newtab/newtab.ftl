@@ -20,6 +20,7 @@ newtab-topsites-title-label = बिमुं
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = नेवसि
 newtab-topsites-delete-history-button = जारिमिन निफ्राय खोमोर
 newtab-topsites-save-button = थिना दोन
 newtab-topsites-add-button = दाजाबदेर

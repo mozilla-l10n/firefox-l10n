@@ -27,6 +27,10 @@ cfr-protections-panel-link-text = गोबां सोलों
 
 ## What's New toolbar button and panel
 
+cfr-whatsnew-button =
+    .label = मा गोदान
+    .tooltiptext = मा गोदान
+cfr-whatsnew-panel-header = मा गोदान
 
 ## Bookmark Sync
 

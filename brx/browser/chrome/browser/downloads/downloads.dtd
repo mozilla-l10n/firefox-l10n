@@ -17,6 +17,7 @@
 <!ENTITY cmd.pause.accesskey              "P">
 <!ENTITY cmd.resume.label                 "फिन जागाय">
 <!ENTITY cmd.resume.accesskey             "R">
+<!ENTITY cmd.cancel.label                 "नेवसिगार">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share

@@ -33,12 +33,16 @@ login-item-password-reveal-checkbox-show =
 login-item-copy-password-button-text = कपि खालाम
 login-item-copied-password-button-text = कपि खालामबाय!
 login-item-save-new-button = थिना दोन
+login-item-cancel-button = नेवसि
 
 ## Master Password notification
 
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = नेवसि
+confirmation-dialog-dismiss-button =
+    .title = नेवसि
 confirm-delete-dialog-confirm-button = खोमोर
 
 ## Breach Alert notification

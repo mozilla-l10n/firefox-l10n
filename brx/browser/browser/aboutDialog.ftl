@@ -4,6 +4,7 @@
 
 aboutDialog-title =
     .title = { -brand-full-name } नि सोमोन्दै
+releaseNotes-link = मा गोदान
 update-checkForUpdatesButton =
     .label = आपडेटखौ आनजाद खालाम
     .accesskey = C
