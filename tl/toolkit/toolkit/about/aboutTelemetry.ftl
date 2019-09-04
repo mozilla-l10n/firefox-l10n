@@ -64,6 +64,7 @@ about-telemetry-settings-explanation = Ang telemetry ay nangongolekta ng { about
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Bawat piraso ng impormasyon ay pinadala na nakabungkos sa “<a data-l10n-name="ping-link">pings</a>”. Ikaw ay nakatingin sa { $name }, { $timestamp } na ping.
 about-telemetry-ping-details-current = Bawat piraso ng impormasyon ay pinadala na nakabungkos sa “<a data-l10n-name="ping-link">pings</a>“. Ikaw ay nakatingin sa kasalukuyan na ping.
+about-telemetry-data-details-current = Bawat piraso ng impormasyon ay pinapadala nang naka-bundle sa mga “<a data-l10n-name="ping-link">ping</a>“. Tinitingnan mo ang kasalukuyang data.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -126,6 +127,12 @@ about-telemetry-category-header = categorya
 about-telemetry-method-header = paraan
 about-telemetry-object-header = bagay
 about-telemetry-extra-header = dagdag
+about-telemetry-origin-section = Origin Telemetry
+about-telemetry-origin-origin = pinanggalingan
+about-telemetry-origin-count = bilang
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = Ang <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> ay nag-e-encode ng data bago ipadala para makapagbilang ang { $telemetryServerOwner }, pero hindi malalaman kung may kahit anong { -brand-product-name } na dumagdag sa bilang na iyon. (<a data-l10n-name="prio-blog-link">alamin</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } proseso

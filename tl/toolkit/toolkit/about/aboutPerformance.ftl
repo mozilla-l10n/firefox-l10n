@@ -52,3 +52,5 @@ size-GB = { $value } GB
 
 close-tab =
     .title = Isara ang tab
+show-addon =
+    .title = Ipakita sa Add-on Manager
