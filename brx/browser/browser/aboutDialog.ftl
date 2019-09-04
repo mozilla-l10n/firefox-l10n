@@ -8,8 +8,11 @@ releaseNotes-link = मा गोदान
 update-checkForUpdatesButton =
     .label = आपडेटखौ आनजाद खालाम
     .accesskey = C
+update-updateButton =
+    .label = { -brand-shorter-name } आपडेट खालामनो फिन जागाय
+    .accesskey = R
 update-checkingForUpdates = आपडेटफोरनि थाखाय आनजाद खालाम...
-update-downloading = <img data-l10n-name="icon"/>आपडेटखौ डाउनल'ड खालाम गासिनो दं — <label data-l10n-name="download-status"/>
+update-downloading = <img data-l10n-name="icon"/> आपडेटखौ डाउनल'ड खालाम गासिनो दं — <label data-l10n-name="download-status"/>
 update-applying = आपडेटखौ बाहायगासिनो दं...
 update-failed = आपडेट खालामनाया फेलें जाबाय।<label data-l10n-name="failed-link">गोदानथार लिरस्लायनायखौ डाउनल'ड खालाम</label>
 update-failed-main = आपडेट खालामनाया फेलें जाबाय।<a data-l10n-name="failed-link-main">गोदानथार लिरस्लायनायखौ डाउनल'ड खालाम</a>

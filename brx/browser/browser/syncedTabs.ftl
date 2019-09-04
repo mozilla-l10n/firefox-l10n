@@ -8,4 +8,7 @@ synced-tabs-context-open-in-new-tab =
 synced-tabs-context-open-in-new-private-window =
     .label = मोनसे गोदान प्राइभेट उइन्ड'खौ खेव
     .accesskey = P
+synced-tabs-context-copy =
+    .label = कपि खालाम
+    .accesskey = C
 fxa-sign-in = { -sync-brand-short-name } आव साइन-इन खालाम

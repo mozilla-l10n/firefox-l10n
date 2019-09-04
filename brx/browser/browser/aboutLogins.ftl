@@ -12,11 +12,19 @@ login-app-promo-android =
 login-app-promo-apple =
     .alt = App Store निफ्राय दावनलड खालाम
 create-login-button = गोदान ल'गइन खुलि
+fxaccounts-sign-in-button = { -sync-brand-short-name } आव साइन-इन खालाम
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = मेनु खेव
 # This menuitem is only visible on Windows
 menu-menuitem-import = पासवर्डफोरखौ लाबो...
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] उफ्राफोर
+       *[other] पसन्दफोर
+    }
 about-logins-menu-menuitem-help = हेफाजाब
 menu-menuitem-android-app = एनद्र'यद नि थाखाय { -lockwise-brand-short-name }
 menu-menuitem-iphone-app = iPhone आरो iPad नि थाखाय { -lockwise-brand-short-name }
