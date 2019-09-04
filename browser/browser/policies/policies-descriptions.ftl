@@ -69,6 +69,7 @@ policy-OfferToSaveLogins = Enforce the setting to allow { -brand-short-name } to
 policy-OfferToSaveLoginsDefault = Set the default value for allowing { -brand-short-name } to offer to remember saved logins and passwords. Both true and false values are accepted.
 policy-OverrideFirstRunPage = Override the first run page. Set this policy to blank if you want to disable the first run page.
 policy-OverridePostUpdatePage = Override the post-update “What’s New” page. Set this policy to blank if you want to disable the post-update page.
+policy-PasswordManagerEnabled = Enable saving passwords to the password manager.
 policy-Permissions = Configure permissions for camera, microphone, location and notifications.
 policy-PopupBlocking = Allow certain web sites to display popups by default.
 policy-Preferences = Set and lock the value for a subset of preferences.

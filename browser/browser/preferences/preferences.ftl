@@ -604,6 +604,10 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Suggest and generate strong passwords
     .accesskey = u
+forms-breach-alerts =
+    .label = Show alerts about passwords for breached we bsites
+    .accesskey = b
+forms-breach-alerts-learn-more-link = Learn more
 forms-fill-logins-and-passwords =
     .label = Autofill logins and passwords
     .accesskey = i
@@ -721,8 +725,8 @@ addressbar-suggestions-settings = Change preferences for search engine suggestio
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Content Blocking
-content-blocking-enhanced-tracking-protection = Enhanced Tracking Protection
 content-blocking-section-description = Protect your privacy while you browse. Block invisible content that tracks the sites you visit and profiles you. Blocking some of this content may make pages load faster.
+content-blocking-enhanced-tracking-protection = Enhanced Tracking Protection
 content-blocking-section-top-level-description = Trackers follow you around online to collect information about your browsing habits and interests. { -brand-short-name } blocks many of these trackers and other malicious scripts.
 content-blocking-learn-more = Learn more
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
