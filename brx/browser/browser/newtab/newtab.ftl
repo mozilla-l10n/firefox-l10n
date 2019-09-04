@@ -68,6 +68,7 @@ newtab-menu-open-new-private-window = मोनसे गोदान प्र�
 newtab-menu-pin = पिन खालाम
 newtab-menu-unpin = पिन दिहुन
 newtab-menu-delete-history = जारिमिन निफ्राय खोमोर
+newtab-menu-save-to-pocket = { -pocket-brand-name } आव थिना दोन
 newtab-menu-delete-pocket = { -pocket-brand-name } निफ्राय खोमोर
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = बुकमाकॅखौ बोखार
@@ -103,6 +104,7 @@ newtab-menu-open-file = फाइलखौ खेव
 newtab-label-visited = थांखांनाय
 newtab-label-bookmarked = बुकमाकॅ दङ
 newtab-label-removed-bookmark = बुकमाॅक बोखारबाय
+newtab-label-saved = { -pocket-brand-name } आव थिना दोनबाय
 newtab-label-download = डाउनल'ड खालामबाय
 
 ## Section Menu: These strings are displayed in the section context menu and are 
@@ -112,6 +114,10 @@ newtab-label-download = डाउनल'ड खालामबाय
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-add-topsite = गिबि साइट आव दाजाब
+newtab-section-menu-move-up = गोजौआव लाबो
+newtab-section-menu-move-down = गाहायाव लाबो
+newtab-section-menu-privacy-notice = गुमुरथि मिथिसारहोनाय
 
 ## Section aria-labels
 
@@ -126,6 +132,7 @@ newtab-section-header-highlights = हाइलाइटफोर
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-loading = ल'ड खालाम गासिनो दं...
 
 ## Pocket Content Section.
 

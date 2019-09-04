@@ -19,9 +19,18 @@ create-login-button = गोदान ल'गइन खुलि
 menu-menuitem-import = पासवर्डफोरखौ लाबो...
 about-logins-menu-menuitem-help = हेफाजाब
 menu-menuitem-android-app = एनद्र'यद नि थाखाय { -lockwise-brand-short-name }
+menu-menuitem-iphone-app = iPhone आरो iPad नि थाखाय { -lockwise-brand-short-name }
 
 ## Login List
 
+login-list-name-option = मुं (A-Z)
+login-list-last-changed-option = जोबथि सोलायनाय
+login-list-last-used-option = जोबथि बाहायनाय
+login-list-intro-title = लगइन फोर गैया
+login-list-intro-description = पासवर्दखौ { -brand-product-name }याव दोनोब्ला, बेयाव नुजागोन
+about-logins-login-list-empty-search-title = लगइन फोर गैया
+about-logins-login-list-empty-search-description = नोथाङा नागिरनाय बादि जेबो गैया
+login-list-item-title-new-login = गोदान लगइन
 
 ## Introduction screen
 

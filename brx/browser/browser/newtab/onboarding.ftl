@@ -18,10 +18,12 @@ onboarding-button-label-learn-more = गोबां सोलों
 
 onboarding-join-form-email =
     .placeholder = इ-मेइल हाबहो
+onboarding-join-form-email-error = बाहाय जाथाय इ-मेइल नांगौ
 onboarding-join-form-continue = सालाय लांबाय था
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-form-invalid-input = बाहाय जाथाय इ-मेइल नांगौ
 onboarding-sync-form-input =
     .placeholder = इ-मेइल
 onboarding-sync-form-continue-button = सालाय लांबाय था
@@ -42,9 +44,13 @@ onboarding-sync-form-header = नोंथांनि इ-मेइल हा�
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = निजि ब्राउजिं
+onboarding-screenshots-title = स्क्रिनसटफोर
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = सिनक
+onboarding-data-sync-button2 = { -sync-brand-short-name } आव साइन-इन खालाम
 onboarding-browse-privately-button = मोनसे प्राइभेट उइन्ड'खौ खेव
+onboarding-firefox-send-button = { -send-brand-name } नाजा
+onboarding-lockwise-passwords-title = नोंनि पासवर्दखौ जेरावबो लांंफा
 
 ## Message strings belonging to the Return to AMO flow
 
