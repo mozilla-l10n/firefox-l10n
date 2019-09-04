@@ -90,13 +90,13 @@
 <!ENTITY contentEncodingError.title "שגיאה בקידוד תוכן">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>אנא צור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
+  <li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
 </ul>">
 
 <!ENTITY unsafeContentType.title "סוג קובץ מסוכן">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>בבקשה צור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
+  <li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
 </ul>
 ">
 
@@ -196,7 +196,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 ">
 
 <!ENTITY remoteXUL.title "XUL מרוחק">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>נא לפנות אל בעלי האתר כדי ליידע אותם על הבעיה.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "לא ניתן להיכנס באופן מאובטח">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
