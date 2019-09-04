@@ -38,7 +38,7 @@
 <!ENTITY netOffline.longDesc2 "<p>הדפדפן פועל כעת במצב לא מקוון ואינו יכול להתחבר לפריט שהתבקש.</p><ul><li>האם המחשב מחובר לרשת פעילה?</li><li>לחץ &quot;נסה שוב&quot; כדי לעבור למצב מקוון ולטעון מחדש את הדף.</li></ul>">
 
 <!ENTITY contentEncodingError.title "שגיאה בקידוד תוכן">
-<!ENTITY contentEncodingError.longDesc "<p>הדף בו הנך מנסה לצפות בו לא ניתן להצגה מאחר שהוא משתמש בסוג דחיסה שאינו חוקי או שאינו נתמך.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">
+<!ENTITY contentEncodingError.longDesc "<p>לא ניתן להציג את הדף המבוקש מכיוון שהוא משתמש בסוג דחיסה שאינו חוקי או שאינו נתמך.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">
 
 <!ENTITY unsafeContentType.title "סוג קובץ מסוכן">
 <!ENTITY unsafeContentType.longDesc "<ul>
@@ -67,7 +67,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>האתר הגיב לבקשה מהרשת באופן בלתי צפוי, והדפדפן אינו יכול להמשיך.</p>">
 
 <!ENTITY nssFailure2.title "קישור מאובטח נכשל">
-<!ENTITY nssFailure2.longDesc2 "<p>האתר שהנך מנסה לגשת אליו לא ניתן להצגה מאחר שלא ניתן לוודא את האותנטיות של המידע שהתקבל.</p><ul><li>נא ליצור קשר עם בעלי האתר ולדווח להם על בעיה זו. ניתן גם להשתמש בפקודת הדיווח על אתרים פגומים הממוקמת בתפריט העזרה.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>לא ניתן להציג את הדף המבוקש מכיוון שלא ניתן לאמת את אמינות הנתונים שהתקבלו.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">
 
 <!ENTITY nssBadCert.title "התקשרות מאובטחת נכשלה">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -75,7 +75,7 @@
 <li>אם התחברת לשרת זה בהצלחה בעבר, ייתכן השגיאה זמנית, ומומלץ לנסות שוב מאוחר יותר.</li>
 </ul>">
 
-<!ENTITY securityOverride.linkText "או להוסיף חריגה…">
+<!ENTITY securityOverride.linkText "באפשרותך גם להוסיף חריגה…">
 <!ENTITY securityOverride.warningContent "<p>רצוי להימנע מהוספת חריגה אם חיבור האינטרנט אינו מהימן במלואו או שבעבר לא הופיעו אזהרות לגבי שרת זה.</p>
 <p>כדי להוסיף חריגה עבור אתר זה בכל זאת, יש לעבור להגדרות ההצפנה המתקדמות.</p>">
 
@@ -83,17 +83,17 @@
 <!ENTITY cspBlocked.longDesc "<p>הדפדפן מונע מדף זה להיטען בדרך זו מאחר שמדיניות אבטחת התוכן מונעת זאת.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "שגיאת תוכן פגום">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>לא ניתן להציג דף זה מכיון שאותרה שגיאה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי לדווח להם על בעיה זו.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>לא ניתן להציג את הדף המבוקש מכיוון שאותרה שגיאה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">
 
 <!ENTITY remoteXUL.title "XUL מרוחק">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>רצוי לפנות אל בעלי האתר וליידע אותם על הבעיה.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>נא לפנות אל בעלי האתר כדי ליידע אותם על הבעיה.</li></ul></p>">
 
 <!ENTITY inadequateSecurityError.title "החיבור שלך אינו מאובטח">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p>האתר בכתובת <span class='hostname'></span> משתמש בטכנולוגית אבטחה שאינה עדכנית וחשופה להתקפות. תוקף יכול בקלות לחשוף מידע שלכאורה אמור היה להיות מוגן. על מנהל האתר לתקן את השרת לפני שיהיה ניתן לבקר באתר זה.</p><p>קוד שגיאה: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p>האתר בכתובת <span class='hostname'></span> משתמש בטכנולוגיית אבטחה מיושנת החשופה לתקיפות. תוקף יכול לחשוף בקלות מידע שעשוי להחשב כמאובטח. על מנהל האתר לתקן את השרת לפני שיהיה ניתן לבקר באתר.</p><p>קוד שגיאה: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "עמוד חסום">
 
 <!ENTITY networkProtocolError.title "שגיאת פרוטוקול רשת">
-<!ENTITY networkProtocolError.longDesc "<p>לא ניתן להציג את הדף שברצונך לצפות מכיוון שאותרה שגיאה בפרוטוקול הרשת.</p><ul><li>נא ליצור קשר עם בעלי האתר וליידע אותם על בעיה זו.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>לא ניתן להציג את הדף המבוקש מכיוון שאותרה שגיאה בפרוטוקול הרשת.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">

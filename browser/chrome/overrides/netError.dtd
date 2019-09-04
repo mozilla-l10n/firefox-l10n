@@ -124,8 +124,8 @@
 <!ENTITY nssFailure2.title "קישור מאובטח נכשל">
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
-  <li>לא ניתן להציג את הדף המבוקש כיוון שאין אפשרות לאמת את אמינות המידע שהתקבל.</li>
-  <li>נא ליצור קשר עם בעלי האתר וליידע אותם על בעיה זו.</li>
+  <li>לא ניתן להציג את הדף המבוקש מכיוון שאין אפשרות לאמת את אמינות הנתונים שהתקבלו.</li>
+  <li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
 </ul>
 ">
 
@@ -165,7 +165,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; מונע מדף זה להיטען בצורה זו מאחר שהדף כולל מדיניות אבטחת תוכן שמונעת זאת.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "שגיאת תוכן פגום">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>לא ניתן להציג דף זה מכיון שאותרה שגיאה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי לדווח להם על בעיה זו.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>לא ניתן להציג את הדף המבוקש מכיוון שאותרה שגיאה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "קבלת הסיכון והמשך">
 
@@ -173,7 +173,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "מידע נוסף…">
 
 <!ENTITY remoteXUL.title "XUL מרוחק">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>פנה אל בעלי האתר כדי ליידע אותם על הבעיה.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>נא לפנות אל בעלי האתר כדי ליידע אותם על הבעיה.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "לא ניתן להתחבר באופן מאובטח">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
@@ -188,7 +188,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.title "החיבור שלך אינו מאובטח">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p>האתר בכתובת <span class='hostname'></span> משתמש בטכנולוגית אבטחה שאינה עדכנית וחשופה להתקפות. תוקף יכול בקלות לחשוף מידע שלכאורה אמור היה להיות מוגן. על מנהל האתר לתקן את השרת לפני שיהיה ניתן לבקר באתר זה.</p><p>קוד שגיאה: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p>האתר בכתובת <span class='hostname'></span> משתמש בטכנולוגיית אבטחה מיושנת החשופה לתקיפות. תוקף יכול לחשוף בקלות מידע שעשוי להחשב כמאובטח. על מנהל האתר לתקן את השרת לפני שיהיה ניתן לבקר באתר.</p><p>קוד שגיאה: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "עמוד חסום">
 
@@ -206,4 +206,4 @@ was trying to connect. -->
 <!ENTITY prefReset.label "שחזור הגדרות בררת המחדל">
 
 <!ENTITY networkProtocolError.title "שגיאת פרוטוקול רשת">
-<!ENTITY networkProtocolError.longDesc "<p>לא ניתן להציג את הדף שברצונך לצפות מכיוון שאותרה שגיאה בפרוטוקול הרשת.</p><ul><li>נא ליצור קשר עם בעלי האתר וליידע אותם על בעיה זו.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>לא ניתן להציג את הדף המבוקש מכיוון שאותרה שגיאה בפרוטוקול הרשת.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">
