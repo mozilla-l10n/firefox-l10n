@@ -13,6 +13,8 @@ permissions-session =
 permissions-allow =
     .label = गनायथि हो
     .accesskey = A
+permissions-site-name =
+    .label = वेबसाइट
 permissions-status =
     .label = थाखोमान
 permissions-capabilities-allow =
@@ -23,8 +25,6 @@ permissions-capabilities-listitem-allow =
     .value = हगार
 permissions-capabilities-listitem-block =
     .value = ब्लक खालाम
-permissions-capabilities-listitem-allow-first-party =
-    .value = गिबि बाहागोखौल' गनायथि हो
 permissions-capabilities-listitem-allow-session =
     .value = जथुमानि थाखाय गनायथि हो
 
@@ -51,6 +51,9 @@ permissions-exceptions-popup-desc = पप-आप उइन्ड'खौ खे�
 permissions-exceptions-addons-desc = add-ons खौ इनष्टल खालामनो मबे वेबसाइटखौ गनायथि होनांगौ बेखौ नोंथाङा थि खालामनो हायो। नोंथाङा गनायथि होनो लुबैनाय साइटनि थंखौ एखेयै टाइप खालाम आरो बेनि उनाव गनायथि हो-खौ क्लिक खालाम।
 
 ## Exceptions - Autoplay Media
+
+
+## Site Permissions - Autoplay
 
 
 ## Site Permissions - Notifications

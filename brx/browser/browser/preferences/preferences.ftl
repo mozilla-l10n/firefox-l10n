@@ -155,6 +155,8 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-topsites-header =
+    .label = गिबि साइटफोर
 home-prefs-highlights-options-bookmarks =
     .label = बुकमाकॅफोर
 

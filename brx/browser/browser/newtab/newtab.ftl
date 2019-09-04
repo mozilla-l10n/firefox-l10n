@@ -20,6 +20,7 @@ newtab-search-box-search-button =
 
 newtab-topsites-delete-history-button = जारिमिन निफ्राय खोमोर
 newtab-topsites-save-button = थिना दोन
+newtab-topsites-add-button = दाजाबदेर
 
 ## Top Sites - Delete history confirmation dialog. 
 
@@ -67,6 +68,7 @@ newtab-menu-delete-pocket = { -pocket-brand-name } निफ्राय खो�
 
 ## Section Headers.
 
+newtab-section-header-topsites = गिबि साइटफोर
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 

@@ -71,8 +71,8 @@ security-tab =
 security-view =
     .label = चार्टिफिकेटखौ नाय
     .accesskey = V
-security-view-unknown = (मोनथिमोनै)
-    .value = (मोनथिमोनै)
+security-view-unknown = मोनथिमोनै
+    .value = मोनथिमोनै
 security-view-identity =
     .value = वेबसाइट सिनायथि
 security-view-identity-owner =
@@ -99,7 +99,8 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
-image-size-unknown = (मोनथिमोनै)
+security-site-data-no = नङा
+image-size-unknown = मोनथिमोनै
 not-set-verified-by = थि खालामै
 not-set-alternative-text = थि खालामै
 not-set-date = थि खालामै
