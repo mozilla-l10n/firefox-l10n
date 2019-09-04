@@ -391,7 +391,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_use_system_font_size "שימוש בגודל הגופן של המערכת">
 <!ENTITY pref_use_system_font_size_summary "שינוי גודל תוכן האתר בהתאם לגודל גופן המערכת">
 
-<!ENTITY pref_media_autoplay_enabled "אפשר הפעלה אוטומטית">
+<!ENTITY pref_media_autoplay_enabled "לאפשר ניגון אוטומטי">
 <!ENTITY pref_media_autoplay_allow "לאפשר ניגון אוטומטי">
 <!ENTITY pref_media_autoplay_block "לחסום ניגון אוטומטי">
 <!ENTITY pref_zoom_force_enabled "תמיד להפעיל תקריב">
