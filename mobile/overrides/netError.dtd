@@ -44,7 +44,7 @@
 <!ENTITY fileAccessDenied.title "Acceso denegado al archivo">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
-  <li>Puede haber sido eliminado, movido o los permisos pueden evitar el acceso.</li>
+  <li>Puede haber sido eliminado, movido o los del archivo permisos pueden evitar el acceso.</li>
 </ul>
 ">
 
