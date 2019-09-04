@@ -52,3 +52,4 @@ accessibility-keyboard-issue-tabindex = Foarkom gebrûk fan in <code>tabindex</c
 accessibility-keyboard-issue-action = Ynteraktive eleminten moatte aktivearre wurde kinne mei in toetseboerd. <a>Mear ynfo</a>
 accessibility-keyboard-issue-focusable = Ynteraktive eleminten moatte in fokus krije kinne. <a>Mear ynfo</a>
 accessibility-keyboard-issue-focus-visible = In elemint dy't in fokus krije kin mist mooglik de fokusstyl. <a>Mear ynfo</a>
+accessibility-keyboard-issue-mouse-only = Klikbere eleminten moatte fokus krije kinne en ynteraktive semantyk hawwe. <a>Mear ynfo</a>
