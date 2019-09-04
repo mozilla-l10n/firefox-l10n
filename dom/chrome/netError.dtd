@@ -17,7 +17,7 @@
 <!ENTITY dnsNotFound.longDesc "<p>Wobhladowak njemóžeše hostowy serwer za podatu adresu namakać.</p><ul><li>Sće zmylk činił, hdyž sće domenu napisał? (na př. <q><strong>ww</strong>.mozilla.org</q> město <q><strong>www</strong>.mozilla.org</q>)</li><li>Sće wěsty, zo tuta domena eksistuje? Jeje registracija móhła njepłaćiwa być.</li><li>Njemóžeće druhe sydła přehladować? Skontrolujće swoje nastajenja syćoweho zwiska a DNS-serwera.</li><li>Škita so waš ličak abo syć přez wohnjowu murju abo proksy? Wopačne nastajenja móža webpřehladowanju haćić.</li></ul>">
 
 <!ENTITY fileNotFound.title "Dataja njenamakana">
-<!ENTITY fileNotFound.longDesc "<ul><li>Je móžno, zo bu objekt přemjenowany, wotstronjeny abo přesunjeny?</li><li>Je zmylk prawopisa, wulkopisanja, abo hinaši typografiski zmylk w adresy?</li><li>Maće dosahace přistupne prawa za požadany objekt?</li></ul>">
+<!ENTITY fileNotFound.longDesc "<ul><li>Je móžno, zo je so objekt přemjenował, wotstronił abo přesunył?</li><li>Je zmylk prawopisa, wulkopisanja, abo hinaši typografiski zmylk w adresy?</li><li>Maće dosahace přistupne prawa za požadany objekt?</li></ul>">
 
 <!ENTITY fileAccessDenied.title "Přistup na dataju je so wotpokazał">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Snano je so wotstroniła, přesunyła, abo datajowe prawa zadźěwaju přistupej.</li></ul>">
@@ -29,7 +29,7 @@
 <!ENTITY malformedURI.longDesc "<p>Podata adresa w připóznatym formaće njeje. Prošu přepruwujće adresowu lajstu za zmylkami a spytajće hišće raz.</p>">
 
 <!ENTITY netInterrupt.title "Přenjesenje datow přetorhnjene">
-<!ENTITY netInterrupt.longDesc "<p>Wobhladowak wuspěšnje zwjaza, ale zwisk bu přetorhnjeny, mjeztym zo su so informacije přenošowali. Prošu spytajće hišće raz.</p><ul><li>Njemóžeće druhe sydła přehladować? Přepruwujće syćowy zwisk ličaka.</li><li>Maće hišće ćeže? Skonsultujće swojeho syćoweho administratora abo internetneho poskićowarja za podpěru.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Wobhladowak wuspěšnje zwjaza, ale zwisk je so přetorhnył, mjeztym zo su so informacije přenošowali. Prošu spytajće hišće raz.</p><ul><li>Njemóžeće druhe sydła přehladować? Přepruwujće syćowy zwisk ličaka.</li><li>Maće hišće ćeže? Skonsultujće swojeho syćoweho administratora abo internetneho poskićowarja za podpěru.</li></ul>">
 
 <!ENTITY notCached.title "Dokument je njepłaćiwy">
 <!ENTITY notCached.longDesc "<p>Požadany dokument w pufrowaku wobhladowaka k dispoziciji njesteji.</p><ul><li>Jako wěstnotnu naprawu wobhldowak delikatne dokumenty awtomatisce znowa njewotwołuje.</li><li>Klikńće na Hišće raz, zo byšće dokument hišće raz z websydła wotwołać.</li></ul>">
@@ -44,7 +44,7 @@
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li> </ul>">
 
 <!ENTITY netReset.title "Zwisk přetorhnjeny">
-<!ENTITY netReset.longDesc "<p>Syćowy wotkaz bu přetorhnjeny, hdyž so zwisk wujednawaše. Prošu spytajće hišće raz.</p>">
+<!ENTITY netReset.longDesc "<p>Syćowy wotkaz je so přetorhnył, hdyž so zwisk wujednawaše. Prošu spytajće hišće raz.</p>">
 
 <!ENTITY netTimeout.title "Časowe překročenje syće">
 <!ENTITY netTimeout.longDesc "<p>Požadane sydło na zwiskowe naprašowanje njewotmołwi a wobhladowak přesta na wotmołwu čakać.</p><ul><li>Móže być, zo serwer je přećeženy abo ma nachwilne mylenje? Spytajće pozdźišo hišće raz.</li><li>Njemóžeće druhe sydła přehladować? Přepruwujće syćowy zwisk ličaka.</li><li>Škita so waš ličak abo waša syć z wohnjowej murju abo proksy? Njekorektne nastajenja móža webpřehladowanju wadźić.</li><li>Maće hišće ćeže? Skonsultujće swojeho syćoweho administratora abo internetneho poskićowarja za podpěru.</li></ul>">
@@ -53,10 +53,10 @@
 <!ENTITY unknownProtocolFound.longDesc "<p>Adresa podawa protokol (na př. <q>wxyz://</q>), kotryž wobhladowak njepřipóznawa, tak zo wobhladowak njemóže prawje ze sydłom zwjazać.</p><ul><li>Pospytujeće na multimedia abo druhe njetekstowe słužby přistup měć? Přepruwujće sydło za wosebitymi potrěbnosćemi.</li><li>Někotre protokole trjebaja programy třećich abo tykače, prjedy hač wobhladowak móže je připóznać.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Proksy serwera je zwisk wotpokazał">
-<!ENTITY proxyConnectFailure.longDesc "<p>Wobhladowak bu konfigurowany, zo by so proksyjowy serwer wužiwa, ale proksy zwisk wotpokaza.</p><ul><li>Je konfiguracija proksy wobhladowaka korektna? Přepruwujće nastajenja a spytajće hišće raz.</li><li>Dowola słužba proksy zwiski z tuteje syće?</li><li>Maće hišće ćeže? Skonsultujće swojeho syćoweho administratora abo internetneho poskićowarja za podpěru.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>Wobhladowak je so konfigurował, zo by so proksyjowy serwer wužiwa, ale proksy zwisk wotpokaza.</p><ul><li>Je konfiguracija proksy wobhladowaka korektna? Přepruwujće nastajenja a spytajće hišće raz.</li><li>Dowola słužba proksy zwiski z tuteje syće?</li><li>Maće hišće ćeže? Skonsultujće swojeho syćoweho administratora abo internetneho poskićowarja za podpěru.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Proksyjowy serwer njenamakany">
-<!ENTITY proxyResolveFailure.longDesc "<p>Wobhladowak bu konfigurowany, zo by so proksyjowy serwer wužiwa, ale proksy njeda so namakać.</p><ul><li>Je konfiguracija proksyja wobhladowaka korektna? Přepruwujće nastajenja a spytajće hišće raz.</li><li>Je ličak z aktiwnej syću zwjazany?</li><li>Maće hišće ćeže? Stajće so ze swojim syćowym administratorom abo internetnym poskićowarjom za podpěru do zwiska.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>Wobhladowak je so konfigurował, zo by so proksyjowy serwer wužiwa, ale proksy njeda so namakać.</p><ul><li>Je konfiguracija proksyja wobhladowaka korektna? Přepruwujće nastajenja a spytajće hišće raz.</li><li>Je ličak z aktiwnej syću zwjazany?</li><li>Maće hišće ćeže? Stajće so ze swojim syćowym administratorom abo internetnym poskićowarjom za podpěru do zwiska.</li></ul>">
 
 <!ENTITY redirectLoop.title "Sekla dalesposrědkowanja">
 <!ENTITY redirectLoop.longDesc "<p>Wobhladowak přesta požadany objekt wotwołować. Sydło sposrědkuje naprašowanje na wašnje, kotrež so njekónči.</p><ul><li>Sće placki znjemóžnił abo zablokował, kotrež su trěbne za tute sysdło?</li><li><em>KEDŹBU</em>: Jeli akceptowanje plackow tutoho sydła problem njerozrisa, je to najskerje problem konfiguracije serwera a nic wašeho ličaka.</li></ul>">

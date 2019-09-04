@@ -46,7 +46,7 @@
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY malformedURI.title1 "Hm. Zda so, zo tuta adresa korektna njeje.">
 
-<!ENTITY netInterrupt.title "Zwisk bu přetorhnjeny">
+<!ENTITY netInterrupt.title "Zwisk je so přetorhnył">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokument je njepłaćiwy">
@@ -61,7 +61,7 @@
 <!ENTITY unsafeContentType.title "Njewěsty datajowy typ">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li> </ul>">
 
-<!ENTITY netReset.title "Zwisk bu wróćo stajeny">
+<!ENTITY netReset.title "Zwisk je so wróćo stajił">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Zwisk je čas překročił">
