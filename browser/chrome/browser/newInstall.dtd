@@ -9,7 +9,7 @@
 
 <!ENTITY window.title "Notícias importantes">
 <!ENTITY window.style "width: 490px">
-<!ENTITY sync "Para sincronizar informações que você já tinha salvo no Firefox com esta instalação do &brandShortName;, entre na sua &syncBrand.fxAccount.label;.">
+<!ENTITY sync "Para sincronizar com esta instalação do &brandShortName; informações que você tinha salvo no Firefox, entre na sua &syncBrand.fxAccount.label;.">
 <!ENTITY continue-button "Continuar">
 
-<!ENTITY mainText "Esta instalação do &brandShortName; tem um novo perfil. Ele não compartilha favoritos, senhas e preferências do usuário com outras instalações do Firefox (incluindo Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition e Firefox Nightly) neste computador.">
+<!ENTITY mainText "Esta instalação do &brandShortName; tem um novo perfil. Ele não compartilha favoritos, senhas e preferências do usuário com outras instalações do Firefox neste computador (incluindo Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition e Firefox Nightly).">
