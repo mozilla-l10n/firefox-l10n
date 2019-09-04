@@ -10,7 +10,7 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = פעולה זו עשויה לבטל את האחריות!
-config-about-warning-text = שינוי ערכי ברירת המחדל של הגדרות מתקדמות אלו יכול להזיק ליציבות, אבטחה, והביצועים של ישום זה. מוטב להמשיך רק אם השלכות מעשיך ברורות לך לחלוטין.
+config-about-warning-text = שינוי ערכי ברירת המחדל של הגדרות מתקדמות אלו יכול להזיק ליציבות, אבטחה, והביצועים של יישום זה. מוטב להמשיך רק אם השלכות מעשיך ברורות לך לחלוטין.
 config-about-warning-button =
     .label = הסיכון מקובל עלי!
 config-about-warning-checkbox =

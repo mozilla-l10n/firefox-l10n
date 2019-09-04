@@ -18,7 +18,7 @@ list-empty-available-updates =
 list-empty-recent-updates =
     .value = לא עדכנת תוספות כלשהן לאחרונה
 list-empty-find-updates =
-    .label = בדיקת עדכונים
+    .label = בדיקה אחר עדכונים
 list-empty-button =
     .label = מידע נוסף על תוספות
 install-addon-from-file =
@@ -120,7 +120,7 @@ detail-repository =
 detail-repository-value =
     .value = { detail-repository.label }
 detail-check-for-updates =
-    .label = בדיקת עדכונים
+    .label = בדיקה אחר עדכונים
     .accesskey = ב
     .tooltiptext = בדיקת עדכונים לתוספת זו
 detail-show-preferences =
@@ -190,7 +190,7 @@ extensions-warning-update-security-enable =
 ## Strings connected to add-on updates
 
 extensions-updates-check-for-updates =
-    .label = בדיקת עדכונים
+    .label = בדיקה אחר עדכונים
     .accesskey = ב
 extensions-updates-view-updates =
     .label = הצגת עדכונים אחרונים
@@ -351,7 +351,7 @@ addon-detail-updates-label = עדכונים אוטומטיים
 addon-detail-updates-radio-default = ברירת מחדל
 addon-detail-updates-radio-on = פעיל
 addon-detail-updates-radio-off = כבוי
-addon-detail-update-check-label = בדיקת עדכונים
+addon-detail-update-check-label = בדיקה אחר עדכונים
 install-update-button = עדכון
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
@@ -360,7 +360,7 @@ addon-badge-private-browsing-allowed =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = מורשית בחלונות פרטיים
+    .title = מופעלת בחלונות פרטיים
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = אם אפשרות זו מופעלת, להרחבה תהיה גישה לפעילויות המקוונות שלך בזמן גלישה פרטית. <a data-l10n-name="learn-more">מידע נוסף</a>
 addon-detail-private-browsing-allow = לאפשר
