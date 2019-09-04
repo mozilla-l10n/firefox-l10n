@@ -211,7 +211,7 @@
 <!ENTITY pref_category_privacy_short "Tietosuoja">
 <!ENTITY pref_category_privacy_summary4 "Seuranta, kirjautumistiedot, kerätyt tiedot">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "Tietoja &brandShortName;ista, UKK, palaute">
+<!ENTITY pref_category_vendor_summary2 "Tietoja &brandShortName;-selaimesta, UKK, palaute">
 <!ENTITY pref_category_datareporting "Kerätyt tiedot">
 <!ENTITY pref_category_logins "Kirjautumistiedot">
 <!ENTITY pref_learn_more "Lue lisää">
@@ -427,7 +427,7 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Paina Selainsovellus &amp; valitse &brandShortName;">
-<!ENTITY pref_about_firefox "Tietoja &brandShortName;ista">
+<!ENTITY pref_about_firefox "Tietoja: &brandShortName;">
 <!ENTITY pref_vendor_faqs "UKK">
 <!ENTITY pref_vendor_feedback "Anna palautetta">
 
