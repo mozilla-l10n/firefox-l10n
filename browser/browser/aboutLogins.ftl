@@ -21,7 +21,7 @@ create-login-button = 新建登录信息
 login-favicon =
     .alt = { $title } - 网站图标
 fxaccounts-sign-in-text = 在您的其他设备上取得您的密码
-fxaccounts-sign-in-button = 登录至{ -sync-brand-short-name }
+fxaccounts-sign-in-button = 登录{ -sync-brand-short-name }服务
 fxaccounts-avatar-button =
     .title = 管理账户
 
@@ -78,8 +78,6 @@ login-item-origin-label = 网址
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = 用户名
-login-item-username =
-    .placeholder = name@example.com
 about-logins-login-item-username =
     .placeholder = （无用户名）
 login-item-copy-username-button-text = 复制

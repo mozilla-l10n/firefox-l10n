@@ -89,7 +89,7 @@ onboarding-tracking-protection-button2 = 工作原理
 onboarding-data-sync-title = 将您的设置随身带着走
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = 在任何使用 { -brand-product-name } 的地方同步书签、密码等数据。
-onboarding-data-sync-button2 = 登录至{ -sync-brand-short-name }
+onboarding-data-sync-button2 = 登录{ -sync-brand-short-name }服务
 onboarding-firefox-monitor-title = 警惕数据外泄
 onboarding-firefox-monitor-text = { -monitor-brand-name } 会监控您的电子邮件地址是否出现在数据外泄事件中，并在有新外泄事件时通知您。
 onboarding-firefox-monitor-button = 订阅警报

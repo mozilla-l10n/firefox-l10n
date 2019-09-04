@@ -814,8 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "连接">
 <!ENTITY identity.connectionSecure "安全连接">
-
-<!ENTITY identity.connectionSecure2 "安全连接">
 <!ENTITY identity.connectionNotSecure "连接不安全">
 
 <!ENTITY identity.connectionSecure3 "安全连接">
@@ -828,8 +826,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "此页面是扩展页面。">
 <!ENTITY identity.insecureLoginForms2 "在此网页上输入的登录信息可能会泄露。">
 <!ENTITY identity.customRoot "连接由 Mozilla 不认可的证书颁发者所验证。">
-
-<!ENTITY identity.evOwnerLabel "网站所有者：">
 
 <!ENTITY identity.evOwnerLabel2 "证书颁发给：">
 
@@ -867,9 +863,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "权限">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "权限设置">
-
 <!ENTITY identity.permissions3 "权限">
 <!ENTITY identity.permissionsEmpty "您尚未授予此站点任何权限。">
 <!ENTITY identity.permissionsReloadHint "您可能需要重新载入此页面以应用更改。">
@@ -883,7 +876,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "关于增强型跟踪保护功能的更多信息">
 <!ENTITY protections.settings.label "保护设置">
-<!ENTITY protections.report.label "显示完整报告">
 <!ENTITY protections.showreport.label "显示报告">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -901,7 +893,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "支付">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "评论">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "视频">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "关闭保护后，网站仍然异常？">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "发送反馈">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -929,7 +920,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "这些 Cookie 由第三方广告商或分析公司设置，能够在不同网站间跟踪您，以收集您的在线活动数据。">
 <!ENTITY protections.cryptominers.description "加密货币挖矿程序使用您的计算机算力来“挖”数字货币，耗尽您的设备电量、拖慢机器性能、增加电费支出。">
 <!ENTITY protections.fingerprinters.description "数字指纹追踪程序收集您的浏览器、计算机设置，勾勒出您的精准画像，并在不同网站间跟踪您。">
-<!ENTITY protections.trackingContent.description "网站可能会加载包含跟踪代码的外部广告、视频、其他内容。拦截跟踪性内容可以让网站加载更快，但某些按钮、表单、登录字段可能无法正常工作。">
 <!ENTITY protections.trackingContent2.description "网站可能会加载包含跟踪代码的外部广告、视频、其他内容。拦截跟踪内容可以让网站加载更快，但某些按钮、表单、登录字段可能无法正常工作。">
 <!ENTITY protections.socialMediaTrackers.description "社交网站将跟踪器嵌到其他网站，跟踪您在网上做了或看了什么。社交媒体公司对您的了解，绝不止于您在社交媒体上分享的信息。">
 
@@ -944,7 +934,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "同步">
 
-<!ENTITY syncSignIn.label             "登录至&syncBrand.shortName.label;服务…">
+<!ENTITY syncSignIn.label             "登录&syncBrand.shortName.label;服务…">
 <!ENTITY syncSignIn.accesskey         "Y">
 
 <!ENTITY syncSyncNowItem.label        "立即同步">
