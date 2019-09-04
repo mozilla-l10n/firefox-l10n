@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Ahora no">
 <!ENTITY firstrun_button_next "Siguiente">
 
+<!ENTITY firstrun_signin_button2 "Iniciar sesión">
+
 <!ENTITY firstrun_tabqueue_title "Enlaces">
 
 <!ENTITY firstrun_readerview_title "Artículos">
@@ -595,7 +597,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Dirección">
 <!ENTITY bookmark_edit_keyword "Palabra clave">
 <!ENTITY bookmark_select_folder "Seleccionar carpeta">
-
 <!ENTITY bookmark_edit_undo "Deshacer">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -878,6 +879,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Disponible sin conexión">
 <!ENTITY helper_triple_readerview_open_message "Añada a Marcadores elementos de la vista de lectura para leerlos sin conexión.">
 <!ENTITY helper_triple_readerview_open_button "Añadir a marcadores">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "Bienvenido a &brandShortName;">
+<!ENTITY activity_stream_signin_description "Empieza a sincronizar marcadores, contraseñas y más con tu cuenta de Firefox.">
+<!ENTITY activity_stream_signin_button "Iniciar sesión">
 
 <!ENTITY activity_stream_topsites "Frecuentes">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
