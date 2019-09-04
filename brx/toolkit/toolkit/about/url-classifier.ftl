@@ -3,5 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-search-title = नागिर
+url-classifier-cache-clear-btn = खोमोर
 url-classifier-enabled = मावथि खालामबाय
 url-classifier-disabled = लोरबां जाबाय
