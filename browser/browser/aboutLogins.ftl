@@ -56,12 +56,35 @@ login-list-item-subtitle-missing-username = (sin nombre de usuario)
 ## Login
 
 login-item-new-login-title = Crear nuevo inicio de sesión
+login-item-edit-button = Editar
+login-item-delete-button = Eliminar
+login-item-username-label = Nombre de usuario
+login-item-copy-username-button-text = Copiar
+login-item-copied-username-button-text = ¡Copiado!
+login-item-password-label = Contraseña
+login-item-password-reveal-checkbox-show =
+    .title = Mostrar contraseña
+login-item-password-reveal-checkbox-hide =
+    .title = Ocultar contraseña
+login-item-copy-password-button-text = Copiar
+login-item-copied-password-button-text = ¡Copiado!
+login-item-save-changes-button = Guardar cambios
+login-item-save-new-button = Guardar
+login-item-cancel-button = Cancelar
 
 ## Master Password notification
 
+master-password-reload-button =
+    .label = Iniciar sesión
+    .accesskey = I
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Cancelar
+confirmation-dialog-dismiss-button =
+    .title = Cancelar
+confirm-delete-dialog-confirm-button = Eliminar
+confirm-discard-changes-dialog-confirm-button = Descartar
 
 ## Breach Alert notification
 
