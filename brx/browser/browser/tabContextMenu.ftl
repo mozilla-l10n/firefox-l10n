@@ -26,3 +26,6 @@ undo-close-tab =
 close-tab =
     .label = टेबखौ बन्द खालाम
     .accesskey = C
+close-tabs =
+    .label = टेबफोरखौ बन्द खालाम
+    .accesskey = S

@@ -5,6 +5,7 @@
 
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
+newtab-page-title = गोदान टेब
 
 ## Search box component.
 
@@ -15,6 +16,7 @@ newtab-search-box-search-button =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-title-label = बिमुं
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -54,6 +56,7 @@ newtab-menu-delete-pocket = { -pocket-brand-name } निफ्राय खो�
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
+newtab-label-download = डाउनल'ड खालामबाय
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.

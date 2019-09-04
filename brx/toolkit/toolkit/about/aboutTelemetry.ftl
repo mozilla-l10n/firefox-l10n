@@ -4,6 +4,7 @@
 
 about-telemetry-option-group-today = दिनै
 about-telemetry-page-title = Telemetry डाटा
+about-telemetry-home-section = ह'म
 about-telemetry-general-data-section = सरासनस्रा डाटा
 about-telemetry-histograms-section = हिस्ट'ग्राम
 about-telemetry-keyed-histogram-section = Keyed हिस्ट'ग्राम

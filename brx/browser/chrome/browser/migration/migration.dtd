@@ -5,28 +5,26 @@
 
 <!ENTITY migrationWizard.title          "उइजार्डखौ लाबो">
 
-<!ENTITY importFrom.label               "..निफ्राय उफ्रा, बुकमार्क, जारिमिन, पासवर्ड आरो गुबुन डाटा लाबो:">
-<!ENTITY importFromUnix.label           "..निफ्राय पसन्द, बुकमार्क, जारिमिन, पासवर्ड आरो गुबुन डाटा लाबो:">
-<!ENTITY importFromBookmarks.label      "..निफ्राय बुकमार्कफोरखौ लाबो:">
+<!ENTITY importFrom.label               "निफ्राय उफ्रा, बुकमार्क, जारिमिन, पासवर्ड आरो गुबुन डाटा लाबो:">
+<!ENTITY importFromUnix.label           "निफ्राय पसन्द, बुकमार्क, जारिमिन, पासवर्ड आरो गुबुन डाटा लाबो:">
+<!ENTITY importFromBookmarks.label      "निफ्राय बुकमार्कफोरखौ लाबो:">
 
 <!ENTITY importFromIE.label             "माइक्र'सफ्ट इन्टारनेट एक्सप्ल'रार">
 <!ENTITY importFromIE.accesskey         "M">
-
-
+<!ENTITY importFromEdge.accesskey       "E">
 <!ENTITY importFromNothing.label        "जेबो लाबोनो नाङा">
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSafari.label         "साफारि">
 <!ENTITY importFromSafari.accesskey     "S">
-
-
+<!ENTITY importFromCanary.accesskey     "n">
 <!ENTITY importFromChrome.label         "क्रम">
 <!ENTITY importFromChrome.accesskey     "C">
-
-
+<!ENTITY importFromChromeBeta.accesskey "B">
+<!ENTITY importFromChromeDev.accesskey  "D">
+<!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "फायारफक्स">
 <!ENTITY importFromFirefox.accesskey    "x">
-
-
+<!ENTITY importFrom360se.accesskey      "3">
 
 <!ENTITY noMigrationSources.label       "बुकमार्क, जारिमिन एबा पासवार्ड डाटा थानाय जेबो डाटा मोनाखै।">
 

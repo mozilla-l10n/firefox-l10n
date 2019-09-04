@@ -59,6 +59,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "साफाय...( P)">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 
 <!ENTITY goOfflineCmd.label "खामानि अफलाइन">

@@ -12,6 +12,7 @@ pref-page =
 pane-general-title = सरासनस्रा
 category-general =
     .tooltiptext = { pane-general-title }
+pane-home-title = ह'म
 pane-search-title = नागिर
 category-search =
     .tooltiptext = { pane-search-title }
@@ -145,6 +146,7 @@ network-proxy-connection-settings =
 
 ## Home Section - Home Page Customization
 
+home-newtabs-mode-label = गोदान टेबफोर
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -316,6 +318,7 @@ collection-backlogged-crash-reports-link = गोबां सोलों
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = रैखाथि
 security-enable-safe-browsing-link = गोबां सोलों
 
 ## Privacy Section - Certificates

@@ -9,6 +9,8 @@ about-logins-page-title = लगिन & पासवर्डखौ
 
 ## The ⋯ menu that is in the top corner of the page
 
+# This menuitem is only visible on Windows
+menu-menuitem-import = पासवर्डफोरखौ लाबो...
 
 ## Login List
 
