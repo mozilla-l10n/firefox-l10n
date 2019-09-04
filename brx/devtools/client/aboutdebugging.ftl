@@ -11,6 +11,13 @@
 
 # Sidebar strings
 
+# Title for runtime sidebar items that are related to a specific device (USB, WiFi).
+about-debugging-sidebar-runtime-item-name =
+    .title = { $displayName }{ $deviceName }
+# Title for runtime sidebar items where we cannot get device information (network
+# locations).
+about-debugging-sidebar-runtime-item-name-no-device =
+    .title = { $displayName }
 
 # Setup Page strings
 
@@ -23,6 +30,13 @@ about-debugging-network-locations-remove-button = बोखार
 
 # Runtime Page strings
 
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = टेबफोर
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name }{ $version }
 
 # Debug Targets strings
 

@@ -13,6 +13,7 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = गोबां सोलों
+onboarding-button-label-try-now = बेखौ दा नाजा
 
 ## Welcome modal dialog strings
 

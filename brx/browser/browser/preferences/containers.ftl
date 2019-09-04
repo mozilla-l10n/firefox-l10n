@@ -2,11 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-clear-site-data-close-key =
+containers-window-close =
     .key = w
-clear-site-data-cancel =
-    .label = नेवसि
-    .accesskey = C
-clear-site-data-clear =
-    .label = खोमोर
+containers-name-label = मुं
+    .accesskey = N
+    .style = { -containers-labels-style }
+containers-icon-label = आइकन
     .accesskey = I
+    .style = { -containers-labels-style }
