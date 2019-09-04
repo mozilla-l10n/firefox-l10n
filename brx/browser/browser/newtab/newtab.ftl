@@ -13,16 +13,26 @@ newtab-page-title = गोदान टेब
 newtab-search-box-search-button =
     .title = नागिर
     .aria-label = नागिर
+newtab-search-box-search-the-web-text = वेबौ नागिर
+newtab-search-box-search-the-web-input =
+    .placeholder = वेबौ नागिर
+    .title = वेबौ नागिर
+    .aria-label = वेबौ नागिर
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-topsites-header = गोदान गिबि साइट खेव
+newtab-topsites-edit-topsites-header = गिबि साइटखौ सुजु
 newtab-topsites-title-label = बिमुं
+newtab-topsites-title-input =
+    .placeholder = मोनसे बिमुं हो
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = नेवसि
 newtab-topsites-delete-history-button = जारिमिन निफ्राय खोमोर
 newtab-topsites-save-button = थिना दोन
+newtab-topsites-preview-button = गिबि नुथाय
 newtab-topsites-add-button = दाजाबदेर
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -30,16 +40,39 @@ newtab-topsites-add-button = दाजाबदेर
 
 ## Top Sites - Delete history confirmation dialog.
 
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = बे हाबाखौ मावनो हायै खालामनो हाया।
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = मेनु खेव
+    .aria-label = मेनु खेव
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = मेनु खेव
+    .aria-label = मेनु खेव
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = बे साइटखौ सुजु
+    .aria-label = बे साइटखौ सुजु
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = सुजुनाय
+newtab-menu-open-new-window = मोनसे गोदान उइन्ड'आव खेव
 newtab-menu-open-new-private-window = मोनसे गोदान प्राइभेट उइन्ड'खौ खेव
+newtab-menu-pin = पिन खालाम
+newtab-menu-unpin = पिन दिहुन
 newtab-menu-delete-history = जारिमिन निफ्राय खोमोर
 newtab-menu-delete-pocket = { -pocket-brand-name } निफ्राय खोमोर
+# Bookmark is a noun in this case, "Remove bookmark".
+newtab-menu-remove-bookmark = बुकमाकॅखौ बोखार
+# Bookmark is a verb here.
+newtab-menu-bookmark = बुकमार्क
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -48,17 +81,28 @@ newtab-menu-delete-pocket = { -pocket-brand-name } निफ्राय खो�
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = डाउनल'ड लिंकखौ कपि खालाम
+newtab-menu-go-to-download-page = डाउनल'ड बिलाइआव थां
+newtab-menu-remove-download = जारिमिन निफ्राय बोखार
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] फल्डार थानायखौ खेव
+       *[other] फल्डार थानायखौ खेव
+    }
 newtab-menu-open-file = फाइलखौ खेव
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
+newtab-label-visited = थांखांनाय
+newtab-label-bookmarked = बुकमाकॅ दङ
+newtab-label-removed-bookmark = बुकमाॅक बोखारबाय
 newtab-label-download = डाउनल'ड खालामबाय
 
 ## Section Menu: These strings are displayed in the section context menu and are 

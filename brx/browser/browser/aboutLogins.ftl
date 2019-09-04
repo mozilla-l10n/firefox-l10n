@@ -6,11 +6,19 @@ about-logins-page-title = लगिन & पासवर्डखौ
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = नोंनि पासवर्दखौ जेरावबो लांंफा
+login-app-promo-android =
+    .alt = Google Play निफ्राय ला
+login-app-promo-apple =
+    .alt = App Store निफ्राय दावनलड खालाम
+create-login-button = गोदान ल'गइन खुलि
 
 ## The ⋯ menu that is in the top corner of the page
 
 # This menuitem is only visible on Windows
 menu-menuitem-import = पासवर्डफोरखौ लाबो...
+about-logins-menu-menuitem-help = हेफाजाब
+menu-menuitem-android-app = एनद्र'यद नि थाखाय { -lockwise-brand-short-name }
 
 ## Login List
 
