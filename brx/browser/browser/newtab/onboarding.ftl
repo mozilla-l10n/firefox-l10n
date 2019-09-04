@@ -41,6 +41,7 @@ onboarding-sync-form-header = नोंथांनि इ-मेइल हा�
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-private-browsing-title = निजि ब्राउजिं
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = सिनक
 onboarding-browse-privately-button = मोनसे प्राइभेट उइन्ड'खौ खेव

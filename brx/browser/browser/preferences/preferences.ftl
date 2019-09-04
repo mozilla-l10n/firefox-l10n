@@ -112,6 +112,9 @@ play-drm-content-learn-more = गोबां सोलों
 update-application-use-service =
     .label = आपडेटफोरखौ इनष्टल खालामनो थाखाय मोनसे सावगारिनि उनथिं थानाय सुबुथायखौ बाहाय
     .accesskey = b
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &सालाय लांबाय था
 
 ## General Section - Performance
 
@@ -263,6 +266,9 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = सेटिं....
     .accesskey = t
+history-clear-button =
+    .label = जारिमिनखौ खोमोर...
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
@@ -270,6 +276,9 @@ sitedata-learn-more = गोबां सोलों
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-history-option =
+    .label = ब्राउजिं जारिमिन
+    .accesskey = h
 addressbar-locbar-bookmarks-option =
     .label = बुकमाकॅफोर
     .accesskey = k

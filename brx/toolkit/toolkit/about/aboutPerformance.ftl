@@ -8,6 +8,7 @@
 
 ## Special values for the Name column
 
+ghost-windows = बावैसो बन्द खालामनाय टेबफोर
 
 ## Values for the Type column
 

@@ -293,6 +293,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "दानि जारिमिनखौ खोमोर...">
 <!ENTITY appMenuHistory.restoreSession.label "आवगयनि जथुम्माखौ लाबोफिन">
 <!ENTITY appMenuHistory.viewSidebar.label "जारिमिन साइडबारखौ नाय">
+<!ENTITY appMenuHistory.recentHistory.label "दानि जारिमिन">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -306,6 +307,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 
+<!ENTITY appMenuRecentHighlights.label "दानि हाइलाइटफोर">
 
 <!ENTITY customizeMenu.addToToolbar.label "टुलबारजों दाजाबदेर">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
