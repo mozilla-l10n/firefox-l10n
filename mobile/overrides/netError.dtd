@@ -88,13 +88,13 @@
 
 <!ENTITY contentEncodingError.title "Error de codificación de contenido">
 <!ENTITY contentEncodingError.longDesc "<ul>
-  <li>Ponete en contacto con los propietarios del sitio web para informarles acerca de este problema.</li>
+  <li>Contactate con los dueños del sitio web para informarles sobre este problema.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Tipo de archivo inseguro">
 <!ENTITY unsafeContentType.longDesc "<ul>
-  <li>Ponete en contacto con los propietarios del sitio web para informarles acerca de este problema.</li>
+  <li>Contactate con los dueños del sitio web para informarles sobre este problema.</li>
 </ul>
 ">
 
