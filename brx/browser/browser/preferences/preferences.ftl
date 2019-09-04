@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-learn-more = गोबां सोलों
 pref-page =
     .title =
         { PLATFORM() ->
@@ -56,6 +57,7 @@ tabs-group-header = टेब
 show-tabs-in-taskbar =
     .label = टेब गिबिनुथाइखौ उइन्ड' टास्कबाराव दिन्थि
     .accesskey = k
+browser-containers-learn-more = गोबां सोलों
 browser-containers-settings =
     .label = सेटिं....
     .accesskey = i
@@ -104,12 +106,14 @@ applications-type-column =
 applications-action-column =
     .label = हाबा
     .accesskey = A
+play-drm-content-learn-more = गोबां सोलों
 update-application-use-service =
     .label = आपडेटफोरखौ इनष्टल खालामनो थाखाय मोनसे सावगारिनि उनथिं थानाय सुबुथायखौ बाहाय
     .accesskey = b
 
 ## General Section - Performance
 
+performance-settings-learn-more = गोबां सोलों
 performance-allow-hw-accel =
     .label = थायोब्ला हार्डवेयार खारथाय बांलांनायखौ बाहाय
     .accesskey = r
@@ -126,9 +130,12 @@ browsing-use-smooth-scrolling =
 browsing-use-cursor-navigation =
     .label = बिलाइफोरनि सिङाव नेभिगेट खालामनो अरायबो कार्सर साबिफोरखौ बाहाय
     .accesskey = c
+browsing-picture-in-picture-learn-more = गोबां सोलों
+browsing-cfr-recommendations-learn-more = गोबां सोलों
 
 ## General Section - Proxy
 
+network-proxy-connection-learn-more = गोबां सोलों
 network-proxy-connection-settings =
     .label = सेटिं...
     .accesskey = e
@@ -218,6 +225,7 @@ sync-fxa-privacy-notice = गुमुरथि मिथिसारहोन�
 forms-exceptions =
     .label = Exceptions…
     .accesskey = x
+forms-breach-alerts-learn-more-link = गोबां सोलों
 forms-master-pw-use =
     .label = मोनसे मास्थार बारग'सोदोब बाहाय
     .accesskey = ब
@@ -250,6 +258,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-learn-more = गोबां सोलों
 
 ## Privacy Section - Address Bar
 
@@ -262,6 +271,7 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Content Blocking
 
+content-blocking-learn-more = गोबां सोलों
 
 ## Privacy Section - Tracking
 
@@ -280,6 +290,7 @@ permissions-microphone-settings =
 permissions-notification-settings =
     .label = सेटिं....
     .accesskey = t
+permissions-notification-link = गोबां सोलों
 permissions-autoplay-settings =
     .label = सेटिं....
     .accesskey = t
@@ -292,15 +303,20 @@ permissions-block-popups-exceptions =
 permissions-addon-exceptions =
     .label = Exceptions…
     .accesskey = E
+permissions-a11y-privacy-link = गोबां सोलों
 
 ## Privacy Section - Data Collection
 
+collection-health-report-link = गोबां सोलों
+addon-recommendations-link = गोबां सोलों
+collection-backlogged-crash-reports-link = गोबां सोलों
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-enable-safe-browsing-link = गोबां सोलों
 
 ## Privacy Section - Certificates
 
@@ -308,6 +324,9 @@ certs-header = चार्टिफिकेटफोर
 certs-enable-ocsp =
     .label = सार्टिफिकेटनि दानि बाहायथायखौ रोखा खालामनो सोंलु OCSP फिन होग्रा सार्भार
     .accesskey = Q
+space-alert-learn-more-button =
+    .label = गोबां सोलों
+    .accesskey = L
 space-alert-over-5gb-pref-button =
     .label =
         { PLATFORM() ->

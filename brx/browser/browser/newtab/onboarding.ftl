@@ -12,15 +12,23 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
+onboarding-button-label-learn-more = गोबां सोलों
 
 ## Welcome modal dialog strings
 
+onboarding-join-form-email =
+    .placeholder = इ-मेइल हाबहो
+onboarding-join-form-continue = सालाय लांबाय था
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-form-input =
+    .placeholder = इ-मेइल
+onboarding-sync-form-continue-button = सालाय लांबाय था
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = नोंथांनि इ-मेइल हाबहो
 
 ## These are individual benefit messages shown with an image, title and
 ## description.

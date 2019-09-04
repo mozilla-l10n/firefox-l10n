@@ -97,6 +97,7 @@ try-newer-driver = नोंथांनि ग्राफिक्स ड्�
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType पेरामिटारफोर
 yes = नंगौ
+unknown = मोनथिमोनै
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
