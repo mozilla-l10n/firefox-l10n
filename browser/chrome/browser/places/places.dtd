@@ -55,8 +55,8 @@
 <!ENTITY cmd.open_all_in_tabs.label      "Alle openen in tabbladen">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "t">
 
-<!ENTITY cmd.properties.label            "Eigenschappen">
-<!ENTITY cmd.properties.accesskey        "E">
+<!ENTITY cmd.properties.label      "Eigenschappen">
+<!ENTITY cmd.properties.accesskey  "E">
 
 <!ENTITY cmd.sortby_name.label              "Sorteren op naam">
 <!ENTITY cmd.sortby_name.accesskey          "S">
@@ -87,7 +87,7 @@
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "Uw bladwijzers importeren en een reservekopie maken">
 
-<!ENTITY backButton.tooltip  "Terug gaan">
+<!ENTITY backButton.tooltip  "Teruggaan">
 
 <!ENTITY forwardButton.tooltip  "Vooruit gaan">
 

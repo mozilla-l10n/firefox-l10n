@@ -143,7 +143,7 @@ detail-show-preferences =
            *[other] Voorkeuren van deze add-on wijzigen
         }
 detail-rating =
-    .value = Beoordeling
+    .value = Waardering
 addon-restart-now =
     .label = Nu herstarten
 disabled-unsigned-heading =

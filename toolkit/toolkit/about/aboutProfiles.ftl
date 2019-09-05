@@ -12,7 +12,7 @@ profiles-conflict = Een ander exemplaar van { -brand-product-name } heeft wijzig
 profiles-flush-fail-title = Wijzigingen niet opgeslagen
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = Door een onverwachte fout zijn uw wijzigingen niet opgeslagen.
-profiles-flush-restart-button = { -brand-short-name } opnieuw starten
+profiles-flush-restart-button = { -brand-short-name } herstarten
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profiel: { $name }

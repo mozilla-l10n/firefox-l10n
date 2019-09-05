@@ -74,7 +74,7 @@ onboarding-benefit-privacy-text = Alles wat we doen, staat in het teken van onze
 
 onboarding-private-browsing-title = Privénavigatie
 onboarding-private-browsing-text = Surf in uw eentje. Privénavigatie met Inhoudsblokkering blokkeert online trackers die u op het web volgen.
-onboarding-screenshots-title = Screenshots
+onboarding-screenshots-title = Schermafbeeldingen
 onboarding-screenshots-text = Maak, bewaar en deel schermafbeeldingen - zonder { -brand-short-name } te verlaten. Leg een gebied of een hele pagina vast terwijl u surft. Sla het daarna op voor makkelijke toegang en delen.
 onboarding-addons-title = Add-ons
 onboarding-addons-text = Voeg nog meer functies toe die { -brand-short-name } harder voor u laten werken. Vergelijk prijzen, bekijk het weerbericht of druk uw persoonlijkheid uit met een aangepast thema.

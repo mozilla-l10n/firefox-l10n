@@ -147,13 +147,13 @@ menu-view-enter-full-screen =
     .label = Schermvullende weergave
     .accesskey = S
 menu-view-exit-full-screen =
-    .label = Schermvullende weergave verlaten
-    .accesskey = S
+    .label = Volledig scherm verlaten
+    .accesskey = V
 menu-view-full-screen =
     .label = Volledig scherm
     .accesskey = d
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Alle tabbladen tonen

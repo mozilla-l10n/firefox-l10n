@@ -4,7 +4,7 @@
 
 <!ENTITY  button-back-mac.label        "Teruggaan">
 <!ENTITY  button-back-mac.accesskey    "T">
-<!ENTITY  button-next-mac.label        "Verdergaan">
+<!ENTITY  button-next-mac.label        "Doorgaan">
 <!ENTITY  button-next-mac.accesskey    "V">
 <!ENTITY  button-finish-mac.label      "Gereed">
 <!ENTITY  button-cancel-mac.label      "Annuleren">
