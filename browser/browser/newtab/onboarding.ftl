@@ -12,12 +12,20 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
+onboarding-button-label-learn-more = بیشتر یاد بگیرید
 onboarding-button-label-try-now = همین حالا امتحان کنید
 onboarding-button-label-get-started = شروع کنید
 
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = به { -brand-short-name } خوش آمدید
+onboarding-welcome-learn-more = در مورد مزایای آن بیشتر یاد بگیرید.
+onboarding-join-form-header = به { -brand-product-name } بپیوندید
+onboarding-join-form-body = برای شروع، آدرس ایمیل خود را وارد کنید.
+onboarding-join-form-email =
+    .placeholder = ایمیل را وارد کنید
+onboarding-join-form-email-error = به ایمیل معتبر نیاز است
+onboarding-join-form-continue = ادامه
 onboarding-start-browsing-button-label = شروع وب‌گردی
 onboarding-cards-dismiss =
     .title = رد کردن
@@ -25,7 +33,7 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
-onboarding-sync-welcome-header = فایرفاکس را همراه خود داشته باشید
+onboarding-sync-welcome-header = { -brand-product-name } را همراه خود داشته باشید
 onboarding-sync-welcome-content = نشانک‌ها، تاریخچه، گذرواژه‌ها و تنظیمات دیگر خود را بر روی تمام دستگاه‌های خود همراه خود داشته باشید.
 onboarding-sync-welcome-learn-more-link = در مورد حساب‌های فایرفاکس بیشتر بدانید
 onboarding-sync-form-invalid-input = رایانامهٔ معتبر لازم است
@@ -38,11 +46,15 @@ onboarding-sync-form-skip-login-button = پرش از این مرحله
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = پست‌الکترونیکی خود را وارد کنید
-onboarding-sync-form-sub-header = برای فعال کردن همگام‌سازی فایرفاکس.
+onboarding-sync-form-sub-header = برای ادامه به { -sync-brand-name }.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = محصولات مفید
+onboarding-benefit-products-text = به کمک گروهی از ابزارها که به حریم خصوصی شما بر روی دستگاه‌هایتان احترام می‌گذارند، کارها را انجام دهید.
+onboarding-benefit-knowledge-title = دانش کاربردی
+onboarding-benefit-privacy-title = حریم شخصی واقعی
 
 ## These strings belong to the individual onboarding messages.
 

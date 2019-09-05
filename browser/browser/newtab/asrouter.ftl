@@ -2,14 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = افزونه‌های توصیه شده
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = چرا این را می‌بینم
 cfr-doorhanger-extension-cancel-button = اکنون نه
     .accesskey = N
 cfr-doorhanger-extension-ok-button = اکنون اضافه کن
     .accesskey = A
-cfr-doorhanger-extension-manage-settings-button = مدیریت تنظیمات پیشنهاد
+cfr-doorhanger-pintab-ok-button = سنجاق کردن این زبانه
+    .accesskey = س
+cfr-doorhanger-extension-manage-settings-button = مدیریت تنظیمات پیشنهادی
     .accesskey = M
 cfr-doorhanger-extension-never-show-recommendation = این پیشنهاد را به من نشان نده
     .accesskey = S
@@ -41,3 +49,37 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } کاربر
        *[other] { $total } کاربر
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-animation-pause = توقف
+cfr-doorhanger-pintab-animation-resume = راه اندازی
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = نشانک‌های خود را در هر جایی همگام کنید.
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = دکمه بستن
+    .title = بستن
+
+## Protections panel
+
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = تازه‌ها
+    .tooltiptext = تازه‌ها
+cfr-whatsnew-panel-header = تازه‌ها
+
+## Bookmark Sync
+
+
+## Login Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+
