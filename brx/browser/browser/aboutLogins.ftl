@@ -13,6 +13,8 @@ login-app-promo-apple =
     .alt = App Store निफ्राय दावनलड खालाम
 create-login-button = गोदान ल'गइन खुलि
 fxaccounts-sign-in-button = { -sync-brand-short-name } आव साइन-इन खालाम
+fxaccounts-avatar-button =
+    .title = एकाउन्ट सामलाय
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -39,12 +41,14 @@ login-list-intro-description = पासवर्दखौ { -brand-product-name
 about-logins-login-list-empty-search-title = लगइन फोर गैया
 about-logins-login-list-empty-search-description = नोथाङा नागिरनाय बादि जेबो गैया
 login-list-item-title-new-login = गोदान लगइन
+login-list-item-subtitle-missing-username = (बाहायग्रा मुं गया)
 
 ## Introduction screen
 
 
 ## Login
 
+login-item-new-login-title = गोदान ल'गइन खुलि
 login-item-edit-button = सुजुनाय
 login-item-delete-button = खोमोर
 login-item-origin-label = वेबसाइट थं
@@ -58,6 +62,8 @@ login-item-copied-username-button-text = कपि खालामबाय!
 login-item-password-label = पासवर्डखौ
 login-item-password-reveal-checkbox-show =
     .title = पासवर्डखौ दिन्थि
+login-item-password-reveal-checkbox-hide =
+    .title = पासवोर्ड दोनखोमा
 login-item-copy-password-button-text = कपि खालाम
 login-item-copied-password-button-text = कपि खालामबाय!
 login-item-save-new-button = थिना दोन
