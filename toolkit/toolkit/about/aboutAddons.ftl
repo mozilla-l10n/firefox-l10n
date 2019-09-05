@@ -371,7 +371,7 @@ addon-badge-private-browsing-allowed =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Autorisé dans les fenêtres de navigation privées
+    .title = Autorisée dans les fenêtres de navigation privée
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Lorsqu’elle est autorisée, l’extension a accès à vos activités en ligne lors d’une navigation privée. <a data-l10n-name="learn-more">En savoir plus</a>
 addon-detail-private-browsing-allow = Autoriser
