@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = ส่วนขยายที่แนะนำ
+cfr-doorhanger-feature-heading = คุณลักษณะที่แนะนำ
 cfr-doorhanger-pintab-heading = ลองนี่: ปักหมุดแท็บ
 
 
@@ -77,6 +78,7 @@ cfr-whatsnew-button =
     .label = มีอะไรใหม่
     .tooltiptext = มีอะไรใหม่
 cfr-whatsnew-panel-header = มีอะไรใหม่
+cfr-whatsnew-release-notes-link-text = อ่านบันทึกประจำรุ่น
 cfr-whatsnew-tracking-protect-link-text = ดูรายงานของคุณ
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
@@ -92,9 +94,13 @@ cfr-whatsnew-lockwise-take-link-text = รับแอป
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-ok-button = เปิด { -sync-brand-short-name }
+    .accesskey = ป
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-ok-button = เปิด { -sync-brand-short-name }
+    .accesskey = ป
 
 ## Send Tab
 

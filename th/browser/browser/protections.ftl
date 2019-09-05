@@ -8,30 +8,20 @@ etp-card-title = การป้องกันการติดตามที
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = วันนี้
+cookie-tab-title = คุกกี้ติดตามข้ามไซต์
 tracker-tab-title = ตัวติดตามเนื้อหา
 fingerprinter-tab-title = ลายนิ้วมือดิจิทัล
 cryptominer-tab-title = ตัวขุดเหรียญดิจิทัล
 cryptominer-tab-content = ตัวขุดเหรียญคริปโตดิจิตอลใช้พลังการคำนวณของระบบของคุณเพื่อสร้างเงินคริปโตดิจิทัล สคริปต์ขุดเหรียญดิจิทัลจะทำให้พลังงานแบตเตอรี่ของคุณลดลง คอมพิวเตอร์ของคุณช้าลง และเพิ่มค่าไฟฟ้าของคุณได้ <a data-l10n-name="learn-more-link">เรียนรู้เพิ่มเติม</a>
 lockwise-title = จะไม่ลืมรหัสผ่านอีก
-open-about-logins-button = เปิดใน { -brand-short-name }
+lockwise-title-logged-in = { -lockwise-brand-name }
+about-logins-view-logins-button = ดูการเข้าสู่ระบบ
 manage-devices = จัดการอุปกรณ์
 monitor-link = มันทำงานอย่างไร
-# This string is displayed after a large numeral that indicates the total number
-# of known data breaches. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-known-breaches =
-    { $count ->
-       *[other] มีการรั่วไหลของข้อมูลที่เรารู้เกิดขึ้น ที่ได้เปิดเผยข้อมูลของคุณ
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of exposed passwords. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-exposed-passwords =
-    { $count ->
-       *[other] รหัสผ่านถูกเปิดเผยในช่องโหว่ทั้งหมด
-    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = ไปที่การตั้งค่าความเป็นส่วนตัว
+# This is the title attribute describing the Lockwise card's link to about:logins
+go-to-saved-logins = ไปยังการเข้าสู่ระบบที่บันทึกไว้
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
