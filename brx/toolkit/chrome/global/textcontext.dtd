@@ -28,3 +28,7 @@
 <!ENTITY searchTextBox.clear.label "खोमोर">
 
 <!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillSuggestedPassword.accesskey "S">
+<!ENTITY fillGeneratedPassword.accesskey "S">
+<!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.accesskey   "F">
