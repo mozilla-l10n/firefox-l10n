@@ -32,6 +32,8 @@ app-basics-name = Enw
 app-basics-version = Fersiwn
 app-basics-build-id = Cyfeirnod Adeiladu
 app-basics-update-channel = Sianel Diweddaru
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Diweddaru Cyfeiriadur
@@ -56,7 +58,6 @@ app-basics-service-workers = Service Workers Cofrestredig
 app-basics-profiles = Proffiliau
 app-basics-launcher-process-status = Proses Lansio
 app-basics-multi-process-support = Ffenestri Amlbroses
-app-basics-process-count = Prosesau Cynnwys Gwe
 app-basics-remote-processes-count = Prosesau Pell
 app-basics-enterprise-policies = Polisïau Mentrau
 app-basics-location-service-key-google = Allwedd Google Location Service
@@ -112,6 +113,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Ymresymiadau
 safe-mode-title = Defnyddiwch y Modd Diogel
 restart-in-safe-mode-label = Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi…
+
+## Media titles
+
+audio-backend = Cefn Sain
+max-audio-channels = Mwyaf o Sianeli
+channel-layout = Cynllun Sianeli Amgen
+sample-rate = Graddfa Samplo Amgen
 media-title = Cyfrwng
 media-output-devices-title = Dyfeisiau Allbwn
 media-input-devices-title = Dyfeisiau Mewnbwn
@@ -124,6 +132,12 @@ media-device-format = Fformat
 media-device-channels = Sianeli
 media-device-rate = Cyfradd
 media-device-latency = Cuddni
+media-capabilities-title = Gallu Cyfryngol
+# List all the entries of the database.
+media-capabilities-enumerate = Cyfrifo'r gronfa ddata
+
+
+
 intl-title = Rhyngwladoli a Lleoleiddio
 intl-app-title = Gosodiadau'r Rhaglen
 intl-locales-requested = Locales Gofynnwyd Amdanynt
@@ -258,12 +272,7 @@ uses-tiling = Yn defnyddio Teilsio
 content-uses-tiling = Yn Defnyddio Teilsio (Cynnwys)
 off-main-thread-paint-enabled = Galluogwyd Paentio All Brif Drywydd
 off-main-thread-paint-worker-count = Cyfrif Gweithiwr Paentio Oddi ar y Brif Drywydd
-low-end-machine = Wedi canfod peiriant llai amlwg
 target-frame-rate = Graddfa Ffrâm Darged
-audio-backend = Cefn Sain
-max-audio-channels = Mwyaf o Sianeli
-channel-layout = Cynllun Sianeli Amgen
-sample-rate = Graddfa Samplo Amgen
 min-lib-versions = Fersiwn lleiaf disgwyliedig
 loaded-lib-versions = Fersiwn mewn defnydd
 has-seccomp-bpf = Seccomp-BPF (Hidlo Galw System)
