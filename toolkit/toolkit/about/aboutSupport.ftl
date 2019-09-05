@@ -32,6 +32,8 @@ app-basics-name = Mě
 app-basics-version = Wersija
 app-basics-build-id = Wersijowy ID
 app-basics-update-channel = Aktualizěrowański kanal
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Aktualizěrowański zapis
@@ -56,7 +58,6 @@ app-basics-service-workers = Zregistrěrowane "service workers"
 app-basics-profiles = Profile
 app-basics-launcher-process-status = Startowański proces
 app-basics-multi-process-support = Multiprocesowe wokna
-app-basics-process-count = Webwopśimjeśowe procese
 app-basics-remote-processes-count = Zdalone procese
 app-basics-enterprise-policies = Pśedewześowe pšawidła
 app-basics-location-service-key-google = Kluc stojnišćoweje słužby Google
@@ -112,6 +113,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenty
 safe-mode-title = Wěsty modus wopytaś
 restart-in-safe-mode-label = Ze znjemóžnjonymi dodankami znowego startowaś…
+
+## Media titles
+
+audio-backend = Awdiobackend
+max-audio-channels = Maksimalna licba kanalow
+channel-layout = Preferěrowane kanalowe wugótowanje
+sample-rate = Preferěrowana wótsmasowańska rata
 media-title = Medije
 media-output-devices-title = Wudawańske rědy
 media-input-devices-title = Zapódawańske rědy
@@ -124,6 +132,12 @@ media-device-format = Format
 media-device-channels = Kanale
 media-device-rate = Rata
 media-device-latency = Latenca
+media-capabilities-title = Medijowe móžnosći
+# List all the entries of the database.
+media-capabilities-enumerate = Datowu banku nalicyś
+
+
+
 intl-title = Internacionalizacija a lokalizacija
 intl-app-title = Nastajenja nałoženja
 intl-locales-requested = Pominane rěcy
@@ -248,12 +262,7 @@ uses-tiling = Wužywa kachlicki
 content-uses-tiling = Wužywa kachlickowanje (wopśimjeśe)
 off-main-thread-paint-enabled = Off Main Thread Painting zmóžnjony
 off-main-thread-paint-worker-count = Licba workerow Off Main Thread Painting
-low-end-machine = Mjenjej wugbała mašina namakana
 target-frame-rate = Celowa wobcerkowa cestosć
-audio-backend = Awdiobackend
-max-audio-channels = Maksimalna licba kanalow
-channel-layout = Preferěrowane kanalowe wugótowanje
-sample-rate = Preferěrowana wótsmasowańska rata
 min-lib-versions = Wótcakowana minimalna wersija
 loaded-lib-versions = Wužyta wersija
 has-seccomp-bpf = Seccomp-BPF (Filtrowanje systemowych zawołanjow)
