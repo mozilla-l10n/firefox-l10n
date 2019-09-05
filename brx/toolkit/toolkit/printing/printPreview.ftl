@@ -25,6 +25,7 @@ printpreview-of =
     .value = नि
 printpreview-custom-prompt =
     .value = कासटम स्केल...
+printpreview-custom-scale-prompt-title = कासटम स्केल
 printpreview-page-setup =
     .label = बिलाइनि सेटआप...
     .accesskey = u

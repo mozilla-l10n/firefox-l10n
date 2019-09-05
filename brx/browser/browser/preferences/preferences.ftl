@@ -18,6 +18,9 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 focus-search =
     .key = f
 close-button =
@@ -29,6 +32,7 @@ feature-enable-requires-restart = बे आखुथायखौ हाहो�
 feature-disable-requires-restart = बे आखुथायखौ लोरबां खालामनो { -brand-short-name } खौ फिन जागायनांगोन।
 should-restart-title = { -brand-short-name } फिन जागाय
 cancel-no-restart-button = नेवसि
+restart-later = उनाव फिन जागाय
 
 ## Extension Control Notifications
 ##
@@ -52,6 +56,7 @@ startup-header = जागायजेन्नाइ
 separate-profile-mode =
     .label = एखे समावनो सालायनो { -brand-short-name } आरो फायारफक्सखौ गनायथि हो
 use-firefox-sync = इंगित: बेयो आलादा प्रफाइलखौ बाहायो। बेफोरनि गेजेराव डाटाखौ शेयार खालामनो { -sync-brand-short-name } बाहाय।
+get-started-not-logged-in = { -sync-brand-short-name } आव साइन-इन खालाम...
 get-started-configured = पसन्दफोर { -sync-brand-short-name } खेव
 is-default = { -brand-short-name } आ दासान्दि नोंथांनि डिफल्ट ब्राउजार
 is-not-default = { -brand-short-name } आ नोंथांनि डिफल्ट ब्राउजार नङा
@@ -74,6 +79,7 @@ advanced-fonts =
 colors-settings =
     .label = गाबफोर...
     .accesskey = ग
+language-header = राव
 choose-language-description = पेजफोर डिसफ्ले खालामनायनि थाखाय नोंथांनि थाखिनाय रावखौ सायख'
 choose-button =
     .label = Choose…
@@ -109,6 +115,10 @@ applications-action-column =
     .label = हाबा
     .accesskey = A
 play-drm-content-learn-more = गोबां सोलों
+update-application-title = { -brand-short-name } नि आपडेटफोर
+update-history =
+    .label = आपडेट जारिमिनखौ दिन्थि...
+    .accesskey = p
 update-application-use-service =
     .label = आपडेटफोरखौ इनष्टल खालामनो थाखाय मोनसे सावगारिनि उनथिं थानाय सुबुथायखौ बाहाय
     .accesskey = b
@@ -122,6 +132,10 @@ performance-settings-learn-more = गोबां सोलों
 performance-allow-hw-accel =
     .label = थायोब्ला हार्डवेयार खारथाय बांलांनायखौ बाहाय
     .accesskey = r
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (डिफल्ट)
 
 ## General Section - Browsing
 
@@ -147,10 +161,14 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = गोदान उइन्ड'स आरो टेबफोर
 
 ## Home Section - Home Page Customization
 
 home-newtabs-mode-label = गोदान टेबफोर
+home-restore-defaults =
+    .label = डिफल्टखौ मोनफिन
+    .accesskey = R
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -172,14 +190,24 @@ home-prefs-topsites-header =
     .label = गिबि साइटफोर
 home-prefs-highlights-header =
     .label = हाइलाइटफोर
+home-prefs-highlights-option-visited-pages =
+    .label = थांखांनाय पेजफोर
 home-prefs-highlights-options-bookmarks =
     .label = बुकमाकॅफोर
+home-prefs-highlights-option-most-recent-download =
+    .label = दानिवौसो डाउनल'ड खालामनाया
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = स्निपेटफोर
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } सारि
+           *[other] { $num } सारिफोर
+        }
 
 ## Search Section
 
@@ -207,6 +235,7 @@ search-keyword-warning-bookmark = नोंथाङा बावैसो ब�
 
 ## Containers Section
 
+containers-back-link = « उनथिं थांफिन
 containers-preferences-button =
     .label = पसन्दफोर
 containers-remove-button =
@@ -301,6 +330,7 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
+sitedata-header = कुकिफोर आरो साइट दाटा
 sitedata-learn-more = गोबां सोलों
 
 ## Privacy Section - Address Bar
@@ -355,6 +385,7 @@ permissions-a11y-privacy-link = गोबां सोलों
 
 ## Privacy Section - Data Collection
 
+collection-privacy-notice = गुमुरथि मिथिसारहोनाय
 collection-health-report-link = गोबां सोलों
 addon-recommendations-link = गोबां सोलों
 collection-backlogged-crash-reports-link = गोबां सोलों

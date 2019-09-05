@@ -132,10 +132,12 @@ newtab-section-header-highlights = हाइलाइटफोर
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-try-again-button = फिन नाजा
 newtab-discovery-empty-section-topstories-loading = ल'ड खालाम गासिनो दं...
 
 ## Pocket Content Section.
 
+newtab-pocket-how-it-works = बेयो माबादि खामानि मावो
 newtab-pocket-cta-button = { -pocket-brand-name } ला
 
 ## Error Fallback Content.
