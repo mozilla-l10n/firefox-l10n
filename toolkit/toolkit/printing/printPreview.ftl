@@ -33,6 +33,7 @@ printpreview-of =
     .value = van
 printpreview-custom-prompt =
     .value = Aangepaste schaal…
+printpreview-custom-scale-prompt-title = Aangepaste schaal
 printpreview-page-setup =
     .label = Pagina-instellingen…
     .accesskey = i
