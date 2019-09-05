@@ -33,6 +33,7 @@ printpreview-of =
     .value = 页 共
 printpreview-custom-prompt =
     .value = 自定义比例…
+printpreview-custom-scale-prompt-title = 自定义比例
 printpreview-page-setup =
     .label = 页面设置…
     .accesskey = u
