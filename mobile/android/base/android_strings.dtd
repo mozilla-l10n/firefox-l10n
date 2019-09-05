@@ -36,6 +36,8 @@
 
 <!ENTITY firstrun_signin_button2 "Giriş yap">
 
+<!ENTITY firstrun_signup_button "Kaydol">
+
 <!ENTITY firstrun_tabqueue_title "Bağlantılar">
 
 <!ENTITY firstrun_readerview_title "Yazılar">
@@ -597,7 +599,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Konum">
 <!ENTITY bookmark_edit_keyword "Anahtar kelime">
 <!ENTITY bookmark_select_folder "Dizin seç">
-
 <!ENTITY bookmark_edit_undo "Geri al">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -878,11 +879,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Çevrimdışı okumak istediğiniz Okuyucu Görünümü öğelerini yer imlerine ekleyin.">
 <!ENTITY helper_triple_readerview_open_button "Yer imlerine git">
 
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "&brandShortName; tarayıcısına hoş geldiniz">
 <!ENTITY activity_stream_signin_description "Firefox hesabınızla yer imlerinizi, parolalarınızı ve daha fazlasını eşitlemeye başlayın.">
 <!ENTITY activity_stream_signin_button "Giriş yap">
-<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
-These labels are shown in the Activity Stream recommending the user to sign in. -->
+
+<!ENTITY activity_stream_signup_button "Kaydol">
+<!ENTITY activity_stream_signin_prompt "Zaten hesabınız var mı?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Giriş yapın.">
 
 <!ENTITY activity_stream_topsites "Önemli Siteler">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
