@@ -133,6 +133,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY exitDOMFullscreen.button "आबुं स्क्रिन निफ्राय ओंखार लां (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "आबुं स्क्रिन निफ्राय ओंखार लां (esc)">
 <!ENTITY leaveDOMFullScreen.label "आबुं स्क्रिन निफ्राय ओंखार लां">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
@@ -453,6 +455,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "पोकेटव थिना दोन">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
 

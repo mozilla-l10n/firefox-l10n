@@ -136,6 +136,7 @@ newtab-discovery-empty-section-topstories-loading = ल'ड खालाम ग�
 
 ## Pocket Content Section.
 
+newtab-pocket-cta-button = { -pocket-brand-name } ला
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

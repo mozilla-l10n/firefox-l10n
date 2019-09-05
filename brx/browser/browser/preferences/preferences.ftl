@@ -214,11 +214,17 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+sync-signedout-account-signin =
+    .label = साइन-इन...
+    .accesskey = I
 
 ## Sync Section - Signed in
 
 sync-signedin-unverified = { $email } थारबिजिरनाय जाया।
 sync-signedin-login-failure = फिन फोनांजाब खालामनो थाखाय साइन-इन खालाम { $email }
+sync-sign-in =
+    .label = साइन-इन
+    .accesskey = g
 sync-engine-bookmarks =
     .label = बुकमाकॅफोर
     .accesskey = म

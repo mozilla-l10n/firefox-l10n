@@ -12,6 +12,11 @@ login-app-promo-android =
 login-app-promo-apple =
     .alt = App Store निफ्राय दावनलड खालाम
 create-login-button = गोदान ल'गइन खुलि
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = { $title } नि फेबआइकोन
 fxaccounts-sign-in-button = { -sync-brand-short-name } आव साइन-इन खालाम
 fxaccounts-avatar-button =
     .title = एकाउन्ट सामलाय
@@ -33,6 +38,11 @@ menu-menuitem-iphone-app = iPhone आरो iPad नि थाखाय { -lockw
 
 ## Login List
 
+login-list-count =
+    { $count ->
+        [one] { $count } ल'गइन
+       *[other] { $count } ल'हइनफोर
+    }
 login-list-name-option = मुं (A-Z)
 login-list-last-changed-option = जोबथि सोलायनाय
 login-list-last-used-option = जोबथि बाहायनाय
@@ -73,7 +83,7 @@ login-item-cancel-button = नेवसि
 ## Master Password notification
 
 master-password-reload-button =
-    .label = लग इन
+    .label = ल'ग इन
     .accesskey = L
 
 ## Dialogs
