@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = जथुम्माखौ लाबोफिन
+restore-page-hide-tabs = आवगयनि टेबफोरखौ दोनखोमा
+restore-page-show-tabs = आवगयनि टेबफोरखौ नाय
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #

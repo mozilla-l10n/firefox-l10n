@@ -5,10 +5,20 @@
 
 ## Settings
 
+site-data-search-textbox =
+    .placeholder = वेबसाइटफोर नागिर
+    .accesskey = S
+site-data-column-host =
+    .label = साइट
+site-data-column-cookies =
+    .label = कुकिफोर
 site-data-column-storage =
     .label = दोनथुमग्रा
 site-data-column-last-used =
     .label = जोबथा बाहायखानाय
+site-data-remove-selected =
+    .label = सायखोनायखौ बोखार
+    .accesskey = R
 site-data-button-cancel =
     .label = नेवसि
     .accesskey = C
@@ -23,6 +33,12 @@ site-storage-usage =
 site-data-remove-all =
     .label = गासैखौ बोखार
     .accesskey = e
+site-data-remove-shown =
+    .label = गासै दिन्थिनायखौ बोखार
+    .accesskey = e
 
 ## Removing
 
+site-data-removing-dialog =
+    .title = { site-data-removing-header }
+    .buttonlabelaccept = बोखार

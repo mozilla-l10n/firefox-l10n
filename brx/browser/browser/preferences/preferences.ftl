@@ -68,6 +68,9 @@ browser-containers-settings =
 
 default-font-size = महर
     .accesskey = S
+advanced-fonts =
+    .label = जौगाहोनाय...
+    .accesskey = A
 colors-settings =
     .label = गाबफोर...
     .accesskey = ग
@@ -292,6 +295,8 @@ addressbar-locbar-openpage-option =
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = गोबां सोलों
+content-blocking-expand-section =
+    .tooltiptext = गोबां फोरमायथिहोग्रा
 
 ## Privacy Section - Tracking
 

@@ -5,6 +5,7 @@
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = गोरोन्थि
 about-config-warning-button = आं बे रिस्क खौ गनायो
+about-config2-title = जौगाहोनाय बाइजोमहरफोर
 about-config-search-input =
     .placeholder = नागिर
 about-config-show-all = गासैबो दिन्थि
