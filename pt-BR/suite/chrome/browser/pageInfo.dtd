@@ -90,7 +90,7 @@
 <!ENTITY  permUseDefault        "Usar padrão">
 <!ENTITY  permAskAlways         "Sempre perguntar">
 <!ENTITY  permAllow             "Permitir">
-<!ENTITY  permAllowSession      "Permitir para sessão">
+<!ENTITY  permAllowSession      "Permitir nesta sessão">
 <!ENTITY  permBlock             "Bloquear">
 <!ENTITY  permissionsFor        "Permissões para:">
 <!ENTITY  permImage             "Carregar imagens">
@@ -102,7 +102,7 @@
 
 <!ENTITY  securityTab           "Segurança">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityHeader        "Informações de segurança para esta página">
+<!ENTITY  securityHeader        "Informações de segurança desta página">
 <!ENTITY  securityView.certView "Ver certificado">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "Desconhecido">
@@ -118,7 +118,7 @@
 <!ENTITY  securityView.privacy.cookies                  "Este site está armazenando informações (cookies) no meu computador?">
 <!ENTITY  securityView.privacy.viewCookies              "Ver cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
-<!ENTITY  securityView.privacy.passwords                "Eu tenho alguma senha salva para este site?">
+<!ENTITY  securityView.privacy.passwords                "Eu salvei alguma senha deste site?">
 <!ENTITY  securityView.privacy.viewPasswords            "Ver senhas armazenadas">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "r">
 

@@ -99,9 +99,9 @@
 <!ENTITY cookieAllowCookiesCmd.label "Permitir cookies deste site">
 <!ENTITY cookieAllowCookiesCmd.accesskey "d">
 <!ENTITY cookieAllowCookiesMsg.label "Todos cookies deste site serão permitidos.">
-<!ENTITY cookieAllowSessionCookiesCmd.label "Permitir cookies por sessão para este site">
+<!ENTITY cookieAllowSessionCookiesCmd.label "Permitir cookies de sessão deste site">
 <!ENTITY cookieAllowSessionCookiesCmd.accesskey "s">
-<!ENTITY cookieAllowSessionCookiesMsg.label "Este website será capaz de definir cookies apenas para a sessão atual.">
+<!ENTITY cookieAllowSessionCookiesMsg.label "Este site poderá criar cookies apenas para a sessão atual.">
 <!ENTITY cookieCookiesDefaultCmd.label "Usar as permissões padrão de cookies">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "U">
 <!ENTITY cookieCookiesDefaultMsg.label "Cookies deste website serão aceitos ou rejeitados com base nas configurações padrão.">
