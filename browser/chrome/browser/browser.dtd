@@ -138,7 +138,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "เปิดการตั้งค่า &syncBrand.shortName.label;…">
 
 <!ENTITY pictureInPictureHideToggle.label "ซ่อนสลับภาพที่เล่นควบคู่">
-<!ENTITY pictureInPictureHideToggle.accesskey "H">
+<!ENTITY pictureInPictureHideToggle.accesskey "อ">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -814,8 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "การเชื่อมต่อ">
 <!ENTITY identity.connectionSecure "การเชื่อมต่อปลอดภัย">
-
-<!ENTITY identity.connectionSecure2 "การเชื่อมต่อปลอดภัย">
 <!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่ปลอดภัย">
 
 <!ENTITY identity.connectionSecure3 "การเชื่อมต่อปลอดภัย">
@@ -828,8 +826,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "หน้านี้ถูกโหลดจากส่วนขยาย">
 <!ENTITY identity.insecureLoginForms2 "การเข้าสู่ระบบที่ป้อนในหน้านี้อาจถูกบุกรุกได้">
 <!ENTITY identity.customRoot "การเชื่อมต่อถูกตรวจสอบโดยผู้ออกใบรับรองที่ Mozilla ไม่รู้จัก">
-
-<!ENTITY identity.evOwnerLabel "ไซต์เป็นเจ้าของโดย:">
 
 <!ENTITY identity.evOwnerLabel2 "ออกใบรับรองให้กับ:">
 
@@ -867,9 +863,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "สิทธิอนุญาต">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "การตั้งสิทธิอนุญาต">
-
 <!ENTITY identity.permissions3 "สิทธิอนุญาต">
 <!ENTITY identity.permissionsEmpty "คุณไม่ได้อนุญาตไซต์นี้ด้วยสิทธิอนุญาตพิเศษใด ๆ">
 <!ENTITY identity.permissionsReloadHint "คุณอาจจำเป็นต้องโหลดหน้าใหม่เพื่อให้การเปลี่ยนแปลงมีผล">
@@ -883,7 +876,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "รายละเอียดเพิ่มเติมเกี่ยวกับการป้องกันการติดตามที่มากขึ้น">
 <!ENTITY protections.settings.label "การตั้งค่าการป้องกัน">
-<!ENTITY protections.report.label "แสดงรายงานฉบับเต็ม">
 <!ENTITY protections.showreport.label "แสดงรายงาน">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -901,7 +893,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "การชำระเงิน">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "ความคิดเห็น">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "วิดีโอ">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "ไซต์ยังคงใช้งานไม่ได้หลังจากปิดใช้งานการป้องกัน?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "ส่งรายงาน">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -926,7 +917,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.crossSiteTrackingCookies.description "คุกกี้เหล่านี้ติดตามคุณจากไซต์หนึ่งไปยังอีกไซต์หนึ่งเพื่อรวบรวมข้อมูลเกี่ยวกับสิ่งที่คุณทำทางออนไลน์ พวกมันถูกตั้งค่าโดยบุคคลที่สามเช่น นักโฆษณาและบริษัทวิเคราะห์">
 <!ENTITY protections.cryptominers.description "ตัวขุดเหรียญคริปโตดิจิตอลใช้พลังการคำนวณของระบบของคุณเพื่อสร้างเงินคริปโตดิจิทัล สคริปต์ขุดเหรียญดิจิทัลจะทำให้พลังงานแบตเตอรี่ของคุณลดลง คอมพิวเตอร์ของคุณช้าลง และเพิ่มค่าไฟฟ้าของคุณได้">
-<!ENTITY protections.trackingContent.description "เว็บไซต์อาจโหลดโฆษณา วิดีโอ และเนื้อหาอื่น ๆ นอกเว็บที่มีโค้ดติดตาม การปิดกั้นเนื้อหาการติดตามจะทำให้เว็บไซต์โหลดเร็วขึ้น แต่ปุ่มบางปุ่ม ฟอร์ม และเขตข้อมูลการเข้าสู่ระบบอาจไม่ทำงาน">
 <!ENTITY protections.trackingContent2.description "เว็บไซต์อาจโหลดโฆษณา วิดีโอ และเนื้อหาอื่น ๆ นอกเว็บที่มีโค้ดติดตาม การปิดกั้นเนื้อหาการติดตามจะทำให้เว็บไซต์โหลดเร็วขึ้น แต่ปุ่มบางปุ่ม ฟอร์ม และเขตข้อมูลการเข้าสู่ระบบอาจไม่ทำงาน">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
