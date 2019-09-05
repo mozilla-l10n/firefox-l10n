@@ -119,6 +119,8 @@ policy-OfferToSaveLoginsDefault = Vælg om { -brand-short-name } skal tilbyde at
 
 policy-OverrideFirstRunPage = Erstat siden, der vises ved første opstart. Lad politikken være tom, hvis siden ved første opstart skal deaktiveres. 
 
+policy-PasswordManagerEnabled = Tillad at brugeren kan gemme adgangskode i Adgangskode-håndteringen.
+
 policy-OverridePostUpdatePage = Erstat siden Nyheder, der vises efter opdatering. Lad politikken være tom, hvis siden efter opdatering skal deaktiveres. 
 
 policy-Permissions = Indstil tilladelser for kamera, mikrofon, position og beskeder.

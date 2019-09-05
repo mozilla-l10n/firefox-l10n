@@ -11,18 +11,25 @@ search-header =
 
 search-header-shortcut =
     .key = f
+
 loading-label =
     .value = Henter…
+
 list-empty-installed =
     .value = Du har ikke nogen tilføjelser af denne type installeret
+
 list-empty-available-updates =
     .value = Ingen opdateringer fundet
+
 list-empty-recent-updates =
     .value = Du har ikke opdateret nogen tilføjelser for nyligt
+
 list-empty-find-updates =
     .label = Søg efter opdateringer
+
 list-empty-button =
     .label = Lær mere om tilføjelser
+
 install-addon-from-file =
     .label = Installer tilføjelse fra fil…
     .accesskey = I
@@ -35,22 +42,27 @@ preferences =
        *[other]  Indstillinger for { -brand-short-name }
     }
 
-
 tools-menu =
     .tooltiptext = Indstillinger for alle tilføjelser
+
 show-unsigned-extensions-button =
     .label = Nogle udvidelser kunne ikke bekræftes
+
 show-all-extensions-button =
     .label = Vis alle udvidelser
+
 debug-addons =
     .label = Debug udvidelser
     .accesskey = e
+
 cmd-show-details =
     .label = Vis flere detaljer
     .accesskey = V
+
 cmd-find-updates =
     .label = Find opdateringer
     .accesskey = F
+
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -62,31 +74,41 @@ cmd-preferences =
             [windows] I
            *[other] I
         }
+
 cmd-enable-theme =
     .label = Brug tema
     .accesskey = t
+
 cmd-disable-theme =
     .label = Stop brug af tema
     .accesskey = t
+
 cmd-install-addon =
     .label = Installer
     .accesskey = I
+
 cmd-contribute =
     .label = Bidrag
     .accesskey = B
     .tooltiptext = Bidrag til udviklingen af denne tilføjelse
+
 discover-title = Hvad er tilføjelser?
+
 discover-description =
     Tilføjelser er små programmer som du kan bruge til at tilpasse { -brand-short-name } med
     ekstra funktioner eller andet udseende. Prøv et tidsbesparende sidepanel, bliv gjort opmærksom på vejret, eller prøv et nyt look og gør
     dermed  { -brand-short-name } til din helt egen.
+
 discover-footer =
     Når du er koblet til nettet vil denne oversigt
     vise nogle af de bedste og mest populære tilføjelser, som du kan prøve af.
+
 detail-version =
     .label = Version
+
 detail-last-updated =
     .label = Senest opdateret
+
 detail-contributions-description = Udvikleren af denne tilføjelse forespøger om du vil hjælpe dens videre udvikling ved at bidrage med en lille donation.
 
 detail-contributions-button = Bidrag
@@ -95,12 +117,15 @@ detail-contributions-button = Bidrag
 
 detail-update-type =
     .value = Automatiske opdateringer
+
 detail-update-default =
     .label = Standard
     .tooltiptext = Installer kun opdateringer automatisk hvis det er standardindstillingen
+
 detail-update-automatic =
     .label = Til
     .tooltiptext = Installer opdateringer automatisk
+
 detail-update-manual =
     .label = Fra
     .tooltiptext = Installer ikke opdateringer automatisk
@@ -115,11 +140,13 @@ detail-private-browsing-description2 = Udvidelsen har adgang til dine aktivitete
 detail-private-disallowed-label = Virker ikke i privat browsing
 detail-private-disallowed-description = Denne udvidelse virker ikke under privat browsing. <label data-l10n-name="detail-private-browsing-learn-more">Læs mere</label>
 
+detail-private-disallowed-description2 = Denne udvidelse virker ikke under privat browsing. <a data-l10n-name="learn-more">Læs mere</a>
+
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Har altid adgang til private vinduer
 detail-private-required-description = Denne udvidelse har adgang til din aktivitet på nettet, når du anvender privat browsing.<label data-l10n-name="detail-private-browsing-learn-more">Læs mere</label>
 
-detail-private-browsing-description = Udvidelsen vil fungere, når du bruger privat browsing og har dermed adgang til dine aktiviteter på nettet. <label data-l10n-name="detail-private-browsing-learn-more">Læs mere</label>
+detail-private-required-description2 = Denne udvidelse har adgang til dine aktiviteter på nettet, når du bruger privat browsing. <a data-l10n-name="learn-more">Læs mere</a>
 
 detail-private-browsing-on =
     .label = Tillad
@@ -131,16 +158,21 @@ detail-private-browsing-off =
 
 detail-home =
     .label = Webside
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = Profil af tilføjelse
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = Søg efter opdateringer
     .accesskey = T
     .tooltiptext = Søg efter tilgængelige opdateringer til denne tilføjelse
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -157,20 +189,36 @@ detail-show-preferences =
             [windows] Rediger indstillinger for denne tilføjelse
            *[other] Rediger indstillinger for denne tilføjelse
         }
+
 detail-rating =
     .value = Vurdering
+
 addon-restart-now =
     .label = Genstart nu
+
 disabled-unsigned-heading =
     .value = Nogle tilføjelser er blevet deaktiveret
-disabled-unsigned-description = De følgende tilføjelser er ikke bekræftet til brug i { -brand-short-name }. Du kan <label data-l10n-name="find-addons">finde alternative tilføjelser</label> eller du kan bede udvikleren om at få dem bekræftet.
+
+disabled-unsigned-description = 
+    De følgende tilføjelser er ikke bekræftet til brug i { -brand-short-name }. Du kan 
+    <label data-l10n-name="find-addons">finde alternative tilføjelser</label> eller du kan bede udvikleren om at få dem bekræftet.
+
 disabled-unsigned-learn-more = Læs mere om vores indsats for at hjælpe dig med at være sikker på nettet.
-disabled-unsigned-devinfo = Udviklere, som vil have deres tilføjelser bekræftet, kan starte med at læse vores <label data-l10n-name="learn-more">manual</label>.
-plugin-deprecation-description = Mangler du noget? Nogle plugins er ikke længere understøttet af { -brand-short-name }. <label data-l10n-name="learn-more">Læs mere.</label>
+
+disabled-unsigned-devinfo = 
+        Udviklere, som vil have deres tilføjelser bekræftet, kan starte med at læse vores 
+        <label data-l10n-name="learn-more">manual</label>.
+
+plugin-deprecation-description = 
+    Mangler du noget? Nogle plugins er ikke længere understøttet af { -brand-short-name }. <label data-l10n-name="learn-more">Læs mere.</label>
+
 legacy-warning-show-legacy = Vis forældede udvidelser
+
 legacy-extensions =
     .value = Forældede udvidelser
-legacy-extensions-description = Disse udvidelser møder ikke de nuværende { -brand-short-name }- standarder, så de er blevet deaktiveret. <label data-l10n-name="legacy-learn-more">Læs mere om ændringerne af tilføjelser</label>
+
+legacy-extensions-description = 
+    Disse udvidelser møder ikke de nuværende { -brand-short-name }- standarder, så de er blevet deaktiveret. <label data-l10n-name="legacy-learn-more">Læs mere om ændringerne af tilføjelser</label>
 
 private-browsing-description2 =
     { -brand-short-name } har ændret, hvordan udvidelser fungerer i private vinduer. Som standard vil alle nyinstallerede
@@ -179,16 +227,6 @@ private-browsing-description2 =
     på nettet, når du benytter privat browsing.
     <label data-l10n-name="private-browsing-learn-more">Læs her, hvordan du håndterer indstillingerne for udvidelser.
 
-private-browsing-description = 
-     Udvidelser har ikke tilladelse til at køre som standard i private vinduer. Det betyder, 
-     at de ikke fungerer under privat browsing, og at de ikke har adgang til dine aktiviteter i 
-     privat browsing. Vælg en udvidelse nedenfor for at ændre indstillingerne og give udvidelsen tilladelse til at køre i private vinduer.
-    <label data-l10n-name="private-browsing-learn-more">Læs mere.</label>
-
-extensions-view-discover =
-    .name = Find tilføjelser
-    .tooltiptext = { extensions-view-discover.name }
-
 extensions-view-discopane =
     .name = Anbefalinger
     .tooltiptext = { extensions-view-discopane.name }
@@ -196,6 +234,7 @@ extensions-view-discopane =
 extensions-view-recent-updates =
     .name = Seneste opdateringer
     .tooltiptext = { extensions-view-recent-updates.name }
+
 extensions-view-available-updates =
     .name = Tilgængelige opdateringer
     .tooltiptext = { extensions-view-available-updates.name }
@@ -206,17 +245,21 @@ extensions-warning-safe-mode-label =
     .value = Alle tilføjelser er blevet deaktiveret i fejlsikker tilstand.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+
 extensions-warning-check-compatibility-label =
     .value = Kompatibilitetstjek for tilføjelser er deaktiverert. Du kan have inkompatible tilføjelser.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+
 extensions-warning-check-compatibility-enable =
     .label = Aktiver
     .tooltiptext = Aktiver kompatibilitetstjek for tilføjelser
+
 extensions-warning-update-security-label =
     .value = Sikkerhedstjek ved opdatering af tilføjelser er deaktiveret. Du kan blive kompromiteret ved opdateringer.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+
 extensions-warning-update-security-enable =
     .label = Aktiver
     .tooltiptext = Aktiver sikkerhedstjek ved opdatering af tilføjelser
@@ -226,6 +269,7 @@ extensions-warning-update-security-enable =
 extensions-updates-check-for-updates =
     .label = Søg efter opdateringer
     .accesskey = T
+
 extensions-updates-view-updates =
     .label = Vis seneste opdateringer
     .accesskey = V
@@ -246,6 +290,7 @@ extensions-updates-update-addons-automatically =
 extensions-updates-reset-updates-to-automatic =
     .label = Nulstil alle tilføjelser til automatisk opdatering
     .accesskey = N
+
 extensions-updates-reset-updates-to-manual =
     .label = Nulstil alle tilføjelser til manuel opdatering
     .accesskey = N
@@ -273,7 +318,6 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = Håndter genveje til udvidelser
     .accesskey = H
-shortcuts-empty-message = Der er ingen genvej for denne udvidelse.
 shortcuts-no-addons = Du har ikke aktiveret nogen udvidelser.
 shortcuts-no-commands = Følgende udvidelser han ingen genveje: 
 shortcuts-input =
@@ -347,13 +391,17 @@ install-theme-button = Installer tema
 manage-addon-button = Håndter
 find-more-addons = Find flere tilføjelser
 
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Flere indstillinger
+
 ## Add-on actions
 report-addon-button = Rapportér
 remove-addon-button = Fjern
 disable-addon-button = Deaktiver
 enable-addon-button = Aktiver
 expand-addon-button = Flere indstillinger
-
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Indstillinger
@@ -429,6 +477,12 @@ install-update-button = Opdater
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Tilladt i private vinduer
+
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Tilladt i private vinduer
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Udvidelsen har adgang til dine aktiviteter i privat browsing-tilstand, hvis du giver den tilladelse til det. <a data-l10n-name="learn-more">Læs mere</a>
 addon-detail-private-browsing-allow = Tillad
 addon-detail-private-browsing-disallow = Tillad ikke
@@ -438,6 +492,12 @@ addon-detail-private-browsing-disallow = Tillad ikke
 addon-badge-recommended =
   .title = Anbefalet
   .alt = Anbefalet
+
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+  .title = { -brand-product-name } anbefaler kun udvidelser, der overholder vores krav til sikkerhed og ydelse.
+  .aria-label = { addon-badge-recommended2.title }
 
 available-updates-heading = Tilgængelige opdateringer
 recent-updates-heading = Seneste opdateringer
