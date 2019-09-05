@@ -57,6 +57,7 @@ login-list-last-used-option = Dernière utilisation
 login-list-intro-title = Aucun identifiant trouvé
 login-list-intro-description = Lorsque vous enregistrez un mot de passe dans { -brand-product-name }, il apparaît ici.
 about-logins-login-list-empty-search-title = Aucun identifiant trouvé
+about-logins-login-list-empty-search-description = Aucun résultat ne correspond à votre recherche.
 login-list-item-title-new-login = Nouvel identifiant
 login-list-item-subtitle-new-login = Saisissez vos informations de connexion
 login-list-item-subtitle-missing-username = (aucun nom d’utilisateur)
@@ -136,3 +137,10 @@ breach-alert-dismiss =
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Une entrée pour { $loginTitle } avec ce nom d’utilisateur existe déjà.
+# This is a generic error message.
+about-logins-error-message-default = Une erreur s’est produite en essayant d’enregistrer ce mot de passe.
