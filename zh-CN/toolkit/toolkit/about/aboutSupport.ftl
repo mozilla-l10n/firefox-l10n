@@ -35,6 +35,8 @@ app-basics-name = 名称
 app-basics-version = 版本
 app-basics-build-id = 版本 ID
 app-basics-update-channel = 更新通道
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] 更新目录
@@ -59,7 +61,6 @@ app-basics-service-workers = 已注册的 Service Worker
 app-basics-profiles = 配置文件
 app-basics-launcher-process-status = 启动器进程
 app-basics-multi-process-support = 多进程窗口
-app-basics-process-count = 网页内容处理进程
 app-basics-remote-processes-count = 远程进程
 app-basics-enterprise-policies = 企业策略
 app-basics-location-service-key-google = Google 位置服务密钥
@@ -115,6 +116,13 @@ sandbox-sys-call-number = 系统调用
 sandbox-sys-call-args = 参数
 safe-mode-title = 尝试安全模式
 restart-in-safe-mode-label = 以安全模式重新打开…
+
+## Media titles
+
+audio-backend = 音频后端
+max-audio-channels = 最大声道
+channel-layout = 首选声道布局
+sample-rate = 首选采样率
 media-title = 媒体
 media-output-devices-title = 输出设备
 media-input-devices-title = 输入设备
@@ -127,6 +135,12 @@ media-device-format = 格式
 media-device-channels = 声道
 media-device-rate = 采样率
 media-device-latency = 延迟
+media-capabilities-title = 媒体能力
+# List all the entries of the database.
+media-capabilities-enumerate = 枚举数据库
+
+
+
 intl-title = 国际化与本地化
 intl-app-title = 应用程序设置
 intl-locales-requested = 要求的语言环境
@@ -221,12 +235,7 @@ uses-tiling = 使用 Tiling
 content-uses-tiling = 使用 Tiling（内容）
 off-main-thread-paint-enabled = 非主线程绘制已启用
 off-main-thread-paint-worker-count = 非主线程绘制工作器数量
-low-end-machine = 检测到性能较弱的机器
 target-frame-rate = 目标帧率
-audio-backend = 音频后端
-max-audio-channels = 最大声道
-channel-layout = 首选声道布局
-sample-rate = 首选采样率
 min-lib-versions = 预期最低版本
 loaded-lib-versions = 目前使用版本
 has-seccomp-bpf = Seccomp-BPF（系统调用过滤）
