@@ -19,6 +19,9 @@ security-software-type = रोखोम
 security-software-name = मुं
 features-name = मुं
 features-version = लिरस्लायनाय
+features-id = ID
+processes-type = रोखोम
+processes-count = काउन्ट
 app-basics-title = एप्लिकेसन गुदि
 app-basics-name = मुं
 app-basics-version = लिरस्लायनाय
@@ -32,6 +35,7 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = हाहोनाय प्लागिनफोर
 app-basics-build-config = बिल्ड बाइजोमहर
 app-basics-user-agent = बाहायग्रा थान्दै
+app-basics-os = OS
 app-basics-memory-use = मेमरि बाहायनाय
 app-basics-multi-process-support = माल्टिप्रसेस उइन्ड'स
 modified-key-prefs-title = गोनांथार फोसाबनाय पसन्दफोर
@@ -43,6 +47,8 @@ locked-key-prefs-title = गोनांथार लक खालामखा�
 locked-prefs-name = मुं
 locked-prefs-value = बेसेन
 graphics-title = ग्राफिक्स
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
 js-title = जाभास्क्रिप्ट
 js-incremental-gc = बारायलांनाय GC
 a11y-title = हाबनो हाथाव
@@ -52,7 +58,15 @@ library-version-title = बिजाब बाख्रि बिसानफो
 copy-text-to-clipboard-label = फराखौ क्लिपबर्डआव कपि खालाम
 copy-raw-data-to-clipboard-label = गोथां डाटाखौ क्लिपबर्डआव कपि खालाम
 sandbox-title = सेन्डबक्स
+sandbox-sys-call-index = #
+
+## Media titles
+
+media-title = मेडिया
 media-device-name = मुं
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -115,11 +129,13 @@ gpu-subsys-id = Subsys ID
 gpu-driver-version = ड्राइभार बिसान
 gpu-driver-date = ड्राइभार अक्ट'
 gpu-active = मावथि
+glcontext-crash-guard = OpenGL
 min-lib-versions = खमसिन बिसान मिजिंथिबाय
 loaded-lib-versions = बाहायनाय बिसान
 has-seccomp-bpf = Seccomp-BPF (सिस्टेम कल फिल्टारिं)
 can-sandbox-content = कन्टेन्ट प्रचेस सेण्डबक्सिं
 can-sandbox-media = मेडिया प्लागिन सेण्डबक्सिं
+sandbox-proc-type-content = थानायआयदा
 launcher-process-status-0 = मावथि खालामबाय
 # Variables
 # $remoteWindows (integer) - Number of remote windows
@@ -134,3 +150,4 @@ multi-process-status-2 = लोरबां जाबाय
 ## Strings representing the status of the Enterprise Policies engine.
 
 policies-active = मावथि
+policies-error = गोरोन्थि
