@@ -36,6 +36,8 @@
 
 <!ENTITY firstrun_signin_button2 "Logga in">
 
+<!ENTITY firstrun_signup_button "Registrera dig">
+
 <!ENTITY firstrun_tabqueue_title "Länkar">
 
 <!ENTITY firstrun_readerview_title "Artiklar">
@@ -597,7 +599,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Plats">
 <!ENTITY bookmark_edit_keyword "Nyckelord">
 <!ENTITY bookmark_select_folder "Välj mapp">
-
 <!ENTITY bookmark_edit_undo "Ångra">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -878,11 +879,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Bokmärk läsvyobjekt för att läsa dem offline.">
 <!ENTITY helper_triple_readerview_open_button "Lägg till i bokmärken">
 
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Välkommen till &brandShortName;">
 <!ENTITY activity_stream_signin_description "Börja synkronisera bokmärken, lösenord och mer med ditt Firefox-konto.">
 <!ENTITY activity_stream_signin_button "Logga in">
-<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
-These labels are shown in the Activity Stream recommending the user to sign in. -->
+
+<!ENTITY activity_stream_signup_button "Registrera dig">
+<!ENTITY activity_stream_signin_prompt "Har du redan ett konto?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Logga in.">
 
 <!ENTITY activity_stream_topsites "Mest besökta">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
