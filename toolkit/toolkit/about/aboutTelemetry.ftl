@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = แหล่งข้อมูล Ping:
 about-telemetry-show-current-ping-data = ข้อมูล ping ปัจจุบัน
+about-telemetry-show-current-data = ข้อมูลปัจจุบัน
 about-telemetry-show-archived-ping-data = ข้อมูล ping ที่เก็บถาวร
 about-telemetry-choose-ping = เลือก ping:
 about-telemetry-archive-ping-type = ชนิด Ping
