@@ -6,6 +6,7 @@
 ## Panel buttons.
 
 abuse-report-cancel-button = नेवसि
+abuse-report-submit-button = गथाय
 
 ## Message bars descriptions.
 

@@ -78,6 +78,7 @@
 <!ENTITY col.dateadded.label     "दाजाबदेरबाय">
 <!ENTITY col.lastmodified.label  "जोबथा महर सोलायबाय">
 
+<!ENTITY historySearch.placeholder  "नागिरनायनि जारिमिन">
 <!ENTITY bookmarksSearch.placeholder  "बुकमार्कफोरखौ नागिर">
 
 <!ENTITY cmd.find.key  "f">
