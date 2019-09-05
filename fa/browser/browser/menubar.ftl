@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = چاپ...
     .accesskey = چ
+menu-file-import-from-another-browser =
+    .label = وارد کردن از مرورگری دیگر
+    .accesskey = و
 menu-file-go-offline =
     .label = آفلاین کار کن
     .accesskey = ک
@@ -150,7 +153,7 @@ menu-view-full-screen =
     .label = تمام‌صفحه
     .accesskey = ت
 
-##
+
 
 menu-view-show-all-tabs =
     .label = نمایش همه زبانه‌ها

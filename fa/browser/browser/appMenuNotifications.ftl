@@ -45,4 +45,5 @@ appmenu-addon-private-browsing =
     .buttonaccesskey = م
     .secondarybuttonlabel = باشه فهمیدم
     .secondarybuttonaccesskey = ب
+appmenu-addon-private-browsing-message = هر افزونه جدیدی که به { -brand-shorter-name } اضافه می‌کنید تا وقتی در تنظیمات به آن اجازه ندهید، در پنجره خصوصی کار نخواهد کرد.
 appmenu-addon-private-browsing-learn-more = مدیریت تنظیمات افزونه‌ها را یاد بگیرید
