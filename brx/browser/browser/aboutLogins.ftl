@@ -66,6 +66,7 @@ login-item-password-reveal-checkbox-hide =
     .title = पासवोर्ड दोनखोमा
 login-item-copy-password-button-text = कपि खालाम
 login-item-copied-password-button-text = कपि खालामबाय!
+login-item-save-changes-button = सोलायनायफोर थिना दोन
 login-item-save-new-button = थिना दोन
 login-item-cancel-button = नेवसि
 
