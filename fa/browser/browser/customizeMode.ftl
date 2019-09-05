@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = برگردان
 customize-mode-lwthemes-my-themes =
     .value = زمینه های من
+customize-mode-touchbar-cmd =
+    .label = تنظیم کردن نوار لمسی…
