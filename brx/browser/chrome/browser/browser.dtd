@@ -35,8 +35,11 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  sendPageToDevice.accesskey         "n">
+<!ENTITY  sendLinkToDevice.accesskey         "n">
 <!ENTITY  undoCloseTab.label                 "बन्द टेबखौ सिगांनि महराव लाबोफिन">
 <!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  hiddenTabs.label                   "दोनखोमानाय टेबफोर">
 
 <!ENTITY  listAllTabs.label      "गासै टेबखौ लिस्ट खालाम">
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
@@ -60,6 +63,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "साफाय...( P)">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
+<!ENTITY importFromAnotherBrowserCmd.label "गुबुन मोनसे ब्राउजार निफ्राय लाबो...">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 
@@ -81,10 +85,13 @@ Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 
 <!ENTITY pageInfoCmd.label "बिलाइनि मोनथिहोनाय">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "आं">
+<!ENTITY ldbCmd.accesskey "L">
+<!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "आबुं स्क्रिनखौ हाबहो">
@@ -96,10 +103,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "गासै टेबखौ दिन्थि">
 <!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY toggleReaderMode.key "R">
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; आव साइन-इन खालाम">
+<!ENTITY fxaSignedIn.tooltip "पसन्दफोर &syncBrand.shortName.label; खेव">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; जों फिन फोनांजाब खालाम">
+<!ENTITY fxaUnverified.label "नोंथांनि एकाउन्टखौ नायबिजिर">
 
 
 <!ENTITY fullScreenMinimize.tooltip "मिनिमाइज खालाम">
@@ -115,11 +125,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; खेव सेटिं…">
 
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.manageAccount.label "एकाउन्ट सामलाय…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; सेटिं…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.account.label "एकाउन्ट">
 
@@ -144,6 +159,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -164,16 +180,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "गासै टेबखौ बुकमार्क हो...">
 
 <!ENTITY showAllBookmarks2.label "गासै बुकमार्कखौ दिन्थि">
+<!ENTITY otherBookmarksCmd.label "गुबुन बुकमाकॅफोर">
 <!ENTITY bookmarksToolbarChevron.tooltip "गोबां बुकमार्कखौ दिन्थि">
 
 <!ENTITY backCmd.label                "उनथिं">
+<!ENTITY backCmd.accesskey            "B">
 <!ENTITY backButton.tooltip           "मोनसे पेस उनफिन">
 <!ENTITY forwardCmd.label             "दावगा हो">
+<!ENTITY forwardCmd.accesskey         "F">
 <!ENTITY forwardButton.tooltip        "मोनसे पेज बारहो">
 <!ENTITY backForwardButtonMenu.tooltip "जारिमिनखौ दिन्थिनो आगदा क्लिक खालाम एबा गाहायाव बोबो">
 <!ENTITY backForwardButtonMenuMac.tooltip "जारिमिनखौ दिन्थिनो गाहायाव बोबो">
 <!ENTITY reloadCmd.label              "फिन ल'ड खालाम">
+<!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "बन्द खालाम">
+<!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "लकेसन बारनि थंआव थां">
 <!ENTITY printButton.label            "साफाय">
@@ -182,6 +203,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "बे बिलाइखौ राव सोलाय">
 
 
 
@@ -235,6 +257,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "फाइल">
 <!ENTITY fileMenu.accesskey       "F">
 
+<!ENTITY newUserContext.accesskey         "B">
+<!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "गोदान उइन्ड'">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -329,23 +353,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "गोबां आइटेम दाजाबदेर...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+<!ENTITY customizeMenu.manageExtension.accesskey "E">
+<!ENTITY customizeMenu.removeExtension.accesskey "v">
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "गोबां">
 
 <!ENTITY openCmd.commandkey           "आं">
 <!ENTITY urlbar.placeholder2          "थंखौ नागिर एबा हाबहो">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "बारायनायफोर:">
 <!ENTITY urlbar.switchToTab.label     "टेबाव थां:">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "उफ्राखौ सलाय…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "पसन्दफोरखौ सोलाय...">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -412,6 +444,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY changeSearchSettings.tooltip "नागिरनाय सेटिंखौ सोलाय">
 
 <!ENTITY searchInNewTab.label         "गोदान टेबआव नागिर">
+<!ENTITY searchInNewTab.accesskey     "T">
+<!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "गोदान टेबआव लिंकखौ खेव">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -425,6 +459,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "फ्रेमखौ गोदान उइन्ड'आव खेव">
 <!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "बे फ्रेमखौल' दिनथि">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -649,6 +684,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "दानि थाखाय रैखाथिखौ लोरबां खालाम">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "गोबां सोलों">
@@ -656,6 +692,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "गोबां फोरमायथिहोग्रा">
 
+<!ENTITY identity.clearSiteData "कुकिज आरो साइट दाटा फोरखौ खोमोर...">
 
 <!ENTITY identity.permissions "गनायथि">
 

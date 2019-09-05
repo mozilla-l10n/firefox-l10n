@@ -7,6 +7,7 @@ privatebrowsingpage-open-private-window-label = मोनसे प्राइ�
     .accesskey = P
 about-private-browsing-search-placeholder = वेबौ नागिर
 about-private-browsing-info-bookmarks = बुकमाकॅफोर
+about-private-browsing-info-searches = नागिरनायफोर
 about-private-browsing-info-downloads = दावनल'दफोर
 private-browsing-title = निजि ब्राउजिं
 about-private-browsing-info-cookies = कुकिफोर
