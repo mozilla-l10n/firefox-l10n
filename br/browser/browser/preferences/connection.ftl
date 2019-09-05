@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Proksi ebet evit
     .accesskey = e
 connection-proxy-noproxy-desc = Skouer : .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = N'eo morse lakaet ar c'hennaskoù da localhost, 127.0.0.1, ha ::1 a-dreñv ur proksi.
 connection-proxy-autotype =
     .label = URL kefluniañ emgefreek ar proksi
     .accesskey = U
@@ -70,12 +72,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = Gweredekaat DNS dre HTTPS
     .accesskey = G
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = DNS dre ziouer ({ $url })
-    .accesskey = D
-    .tooltiptext = Arverit an URL dre ziouer evit diskoulmañ an DNS war HTTPS
 connection-dns-over-https-url-resolver = Ober gant ar pourchaser
     .accesskey = O
 # Variables:

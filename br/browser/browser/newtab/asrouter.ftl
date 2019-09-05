@@ -132,6 +132,13 @@ cfr-doorhanger-sync-logins-ok-button = Gweredekaat { -sync-brand-short-name }
 
 cfr-doorhanger-send-tab-header = Lennit an dra-se pa fell deoc'h
 cfr-doorhanger-send-tab-recipe-header = Kasit ar rekipe-mañ er gegin
+cfr-doorhanger-send-tab-body = Gant "Kas an ivinell" e c'hallit rannañ an ere-mañ d'ho pellgomz pe forzh pelec'h mard hoc'h kennasket ouzh { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Esaeit da gas an ivinell
+    .accesskey = E
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Rannit ar restr PDF-mañ en un doare diogel
+cfr-doorhanger-firefox-send-body = Mirit ho teulioù kizidik da vezañ spiet gant an enrinegañ penn-ouzh-penn hag un ere a vo dilamet ur wech ma vo echu ganeoc'h.
+cfr-doorhanger-firefox-send-ok-button = Esaeit { -send-brand-name }
+    .accesskey = E

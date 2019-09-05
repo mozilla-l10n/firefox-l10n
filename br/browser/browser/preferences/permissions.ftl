@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Nemedennoù - stankadur endalc'had
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Diweredekaet ho peus ar stankadur endalc'had war al lec'hiennoù-mañ.
+permissions-exceptions-etp-window =
+    .title = Nemedennoù evit ar gwarez heuliañ araokaet.
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Diweredekaet ho peus ar gwarez war al lec'hiennoù-mañ.
 
 ## Exceptions - Cookies
 

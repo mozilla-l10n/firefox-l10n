@@ -47,6 +47,9 @@ newtab-topsites-add-button = Ouzhpennañ
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Sur oc'h e fell deoc'h dilemel kement eriol eus ar bajenn-mañ diouzh ho roll istor?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ne c'haller ket dizober ar gwezh-mañ.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Sined
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Eilañ ere ar pellgargadur
 newtab-menu-go-to-download-page = Mont da bajenn ar pellgargadur
 newtab-menu-remove-download = Dilemel diwar ar roll
@@ -109,11 +116,16 @@ newtab-menu-open-file = Digeriñ ar restr
 
 newtab-label-visited = Gweladennet
 newtab-label-bookmarked = Lakaet er sinedoù
+newtab-label-removed-bookmark = Sined dilamet
 newtab-label-recommended = Brudet
 newtab-label-saved = Enrollet e { -pocket-brand-name }
 newtab-label-download = Pellgarget
 
 ## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Dilemel ar gevrenn
@@ -126,6 +138,13 @@ newtab-section-menu-add-search-engine = Ouzhpennañ ul lusker klask
 newtab-section-menu-move-up = Dilec'hiañ etrezek ar c'hrec'h
 newtab-section-menu-move-down = Dilec'hiañ etrezek an traoñ
 newtab-section-menu-privacy-notice = Evezhiadennoù a-fet buhez prevez
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Bihanaat ar gevrenn
+newtab-section-expand-section-label =
+    .aria-label = Astenn ar gevrenn
 
 ## Section Headers.
 
@@ -142,6 +161,15 @@ newtab-empty-section-highlights = Krogit da verdeiñ hag e tiskouezimp deoc’h 
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Aet oc'h betek penn. Distroit diwezhatoc'h evit muioc’h a istorioù digant { $provider }. N’oc'h ket evit gortoz? Dibabit un danvez brudet evit klask muioc’h a bennadoù dedennus eus pep lec’h er web.
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = Echuet eo ganeoc'h!
+newtab-discovery-empty-section-topstories-content = Distroit amañ diwezhatoc'h evit lenn pennadoù all.
+newtab-discovery-empty-section-topstories-try-again-button = Klaskit en-dro
+newtab-discovery-empty-section-topstories-loading = O kargañ...
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Chaous! N'eo ket bet karget ar gevrenn en he fezh.
 
 ## Pocket Content Section.
 
