@@ -58,6 +58,7 @@ cfr-doorhanger-pintab-animation-resume = راه اندازی
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = نشانک‌های خود را در هر جایی همگام کنید.
+cfr-doorhanger-bookmark-fxa-link-text = نشانک‌ها را همگام کن...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = دکمه بستن
     .title = بستن

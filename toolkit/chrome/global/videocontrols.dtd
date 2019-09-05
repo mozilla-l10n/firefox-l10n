@@ -14,6 +14,10 @@
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "نوار کنترل حجم">
 
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "تصویر-در-تصویر">
+
 <!ENTITY stats.media "رسانه">
 <!ENTITY stats.size "اندازه">
 <!ENTITY stats.activity "فعالیت">
@@ -33,6 +37,8 @@
 <!ENTITY error.srcNotSupported "قالب ویدئو یا نوع MIME پشتیبانی نمیشود.">
 <!ENTITY error.noSource2 "هیچ ویدئویی با قالب پشتیبانی شده و نوع MIME یافت نشد.">
 <!ENTITY error.generic "به دلیل خطای نامشخض، پخش ویدئو متوقف گردید.">
+
+<!ENTITY status.pictureInPicture "ویدئو در حال اجرا در حالت تصویر-در-تصویر است.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

@@ -116,6 +116,7 @@ newtab-menu-open-file = باز کردن پرونده
 
 newtab-label-visited = مشاهده شده
 newtab-label-bookmarked = نشانک شده
+newtab-label-removed-bookmark = نشانک حذف شد
 newtab-label-recommended = موضوعات داغ
 newtab-label-saved = در { -pocket-brand-name } ذخیره شد
 newtab-label-download = دریافت شد
@@ -159,7 +160,7 @@ newtab-empty-section-highlights = مرور کردن را شروع کنید و ش
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = فعلا تموم شد. بعدا دوباره سر بزن تا مطالب جدید از { $provider } ببینی. نمی‌تونی صبر کنی؟ یک موضوع محبوب رو انتخاب کن تا مطالب جالب مرتبط از سراسر دنیا رو پیدا کنی.
+newtab-empty-section-topstories = فعلاً تمام شد. بعداً دوباره سر بزن تا مطالب جدیدی از { $provider } ببینی. نمی‌توانی صبر کنی؟ یک موضوع محبوب را انتخاب کن تا مطالب جالب مرتبط از سراسر دنیا را پیدا کنی.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -177,7 +178,7 @@ newtab-pocket-read-more = موضوع‌های محبوب:
 newtab-pocket-more-recommendations = توصیه‌های بیشتر
 newtab-pocket-how-it-works = این چطور کار می‌کند
 newtab-pocket-cta-button = دریافت { -pocket-brand-name }
-newtab-pocket-cta-text = مطالبی که دوست دارید را در { -pocket-brand-name } ذخیره کنید، و به ذهن خود را با مطالب فوق‌العاده انرژی بدهید.
+newtab-pocket-cta-text = مطالبی که دوست دارید را در { -pocket-brand-name } ذخیره کنید، و به ذهن خود با مطالب فوق‌العاده انرژی بدهید.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
