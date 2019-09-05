@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = بدون پروکسی برای
     .accesskey = n
 connection-proxy-noproxy-desc = مثال: ‎.mozilla.org،‏ ‎.net.zv، ‏‬‪192.168.1.0/24‬
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = ارتباط با localhost، 127.0.0.1، و ::1 هیچوقت پروکسی نمی‌شوند.
 connection-proxy-autotype =
     .label = پیوند مربوط به پیکربندی خودکار پروکسی
     .accesskey = A
@@ -70,16 +72,15 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = فعال‌سازی دی‌ان‌اس از طریق HTTPS
     .accesskey = b
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = آدرسی برای پیدا کردن دی‌ان‌اس از طریق HTTPS
+connection-dns-over-https-url-resolver = استفاده از فراهم‌کننده
+    .accesskey = ا
 # Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = استفاده از پیش‌فرض ({ $url })
-    .accesskey = U
-    .tooltiptext = از URL پیش فرض برای مدیریت DNS روی HTTPS استفاده کنید
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (پیش‌فرض)
+    .tooltiptext = استفاده از آدرس پیش‌فرض برای ترجمهٔ DNS بر روی HTTPS
 connection-dns-over-https-url-custom =
     .label = سفارشی
     .accesskey = C
     .tooltiptext = URL دلخواه خود را برای مدیریت DNS از طریق HTTPS وارد کنید
+connection-dns-over-https-custom-label = سفارشی

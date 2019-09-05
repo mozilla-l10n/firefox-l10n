@@ -34,8 +34,15 @@ permissions-button-cancel =
 permissions-button-ok =
     .label = ذخیره تغییرات
     .accesskey = ذ
+permissions-autoplay-menu = پیش‌فرض برای تمام پایگاه‌ها:
 permissions-searchbox =
     .placeholder = جست‌وجو وب‌سایت
+permissions-capabilities-autoplay-allow =
+    .label = اجازه دادن صوت و ویدئو
+permissions-capabilities-autoplay-block =
+    .label = مسدود کردن صوت
+permissions-capabilities-autoplay-blockall =
+    .label = مسدود کردن صوت و ویدئو
 permissions-capabilities-allow =
     .label = اجازه دادن
 permissions-capabilities-block =
@@ -46,8 +53,6 @@ permissions-capabilities-listitem-allow =
     .value = اجازه دادن
 permissions-capabilities-listitem-block =
     .value = باز داشتن
-permissions-capabilities-listitem-allow-first-party =
-    .value = فقط شخص اول را اجازه بده
 permissions-capabilities-listitem-allow-session =
     .value = اجازه دادن برای نشست
 
@@ -62,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = استثناها - مسدودسازی محتوا
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = شما مسدودسازی محتوا را در این وب‌سایت‌ها غیرفعال کرده‌اید.
+permissions-exceptions-etp-window =
+    .title = استثناها برای سیستم محافظت پیشرفته در برابر ردگیری
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = شما محافظت از ردگیری را در پایگاه‌های زیر خاموش کرده‌اید.
 
 ## Exceptions - Cookies
 
@@ -97,6 +106,13 @@ permissions-exceptions-autoplay-media-window2 =
     .title = استثناها - پخش خودکار
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = شما می‌توانید مشخص کنید که کدام وب‌گاه‌ها همیشه یا هیچ‌وقت مجاز به پخش رسانه با صدا باشند. نشانی پایگاهی را که می‌خواهید مدیریت کنید وارد و سپس روی «باز داشتن» یا «اجازه دادن» کلیک کنید.
+
+## Site Permissions - Autoplay
+
+permissions-site-autoplay-window =
+    .title = تنظیمات - پخش خودکار
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = شما می‌توانید پایگاه‌هایی که از تنظیمات پخش خودکار شما پیروی نمی‌کنند را اینجا مدیریت کنید.
 
 ## Site Permissions - Notifications
 
