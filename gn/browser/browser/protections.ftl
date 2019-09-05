@@ -18,9 +18,12 @@ protection-header-details-custom = Ñemo’ã oñembohape <b>Personalizado</b>
 protection-report-page-title = Ñemigua ñemo'ã
 protection-report-content-title = Ñemigua mo’ãha
 etp-card-title = Tapykueho mo’ãha mbotuichapyre
+etp-card-content = Umi tapykuehoha oike ñandutípe ombyaty hag̃ua marandu umi nerembiapo rapykuere. { -brand-short-name } ojoko heta tapykuehoha ha ambue scripts imarãva.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Ko árape
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Ta’ãnga’i oguerekóva papapy tuichaháicha opaichagua tapykuehoha jokopyre ko arapokõindýpe guare.
 social-tab-title = Ava ñandutieta rapykuehoha
 cookie-tab-title = Kookie rapykuehoha tenda ojoasávape
 tracker-tab-title = Tetepy mo’ãha
