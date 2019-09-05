@@ -30,6 +30,7 @@
 <!ENTITY fillLoginMenu.label          "Rellenar inicio de sesión">
 <!ENTITY fillLoginMenu.accesskey      "R">
 <!ENTITY fillSuggestedPassword.label  "Utilizar una contraseña sugerida">
+<!ENTITY fillSuggestedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "Rellenar contraseña">
 <!ENTITY fillPasswordMenu.accesskey   "R">
 <!ENTITY fillUsernameMenu.label       "Rellenar nombre de usuario">
