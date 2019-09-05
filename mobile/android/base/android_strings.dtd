@@ -36,6 +36,8 @@
 
 <!ENTITY firstrun_signin_button2 "Đăng nhập">
 
+<!ENTITY firstrun_signup_button "Đăng ký">
+
 <!ENTITY firstrun_tabqueue_title "Liên kết">
 
 <!ENTITY firstrun_readerview_title "Bài viết">
@@ -597,7 +599,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Địa chỉ">
 <!ENTITY bookmark_edit_keyword "Từ khóa">
 <!ENTITY bookmark_select_folder "Chọn thư mục">
-
 <!ENTITY bookmark_edit_undo "Hoàn tác">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -878,11 +879,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Đánh dấu các mục ở chế độ đọc để đọc chúng khi ngoại tuyến.">
 <!ENTITY helper_triple_readerview_open_button "Thêm vào trang đánh dấu">
 
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Chào mừng đến với &brandShortName;">
 <!ENTITY activity_stream_signin_description "Bắt đầu đồng bộ hóa dấu trang, mật khẩu và hơn thế nữa với tài khoản Firefox của bạn.">
 <!ENTITY activity_stream_signin_button "Đăng nhập">
-<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
-These labels are shown in the Activity Stream recommending the user to sign in. -->
+
+<!ENTITY activity_stream_signup_button "Đăng ký">
+<!ENTITY activity_stream_signin_prompt "Đã có một tài khoản?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Đăng nhập.">
 
 <!ENTITY activity_stream_topsites "Các trang vào nhiều nhất">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
