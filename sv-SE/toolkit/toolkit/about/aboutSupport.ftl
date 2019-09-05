@@ -32,6 +32,8 @@ app-basics-name = Namn
 app-basics-version = Version
 app-basics-build-id = Versions-ID
 app-basics-update-channel = Uppdateringskanal
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Uppdatera mapp
@@ -56,7 +58,6 @@ app-basics-service-workers = Registrerade Service Workers
 app-basics-profiles = Profiler
 app-basics-launcher-process-status = Uppstartsprocess
 app-basics-multi-process-support = Multiprocess fönster
-app-basics-process-count = Webbinnehållsprocesser
 app-basics-remote-processes-count = Fjärrprocesser
 app-basics-enterprise-policies = Företagspolicyer
 app-basics-location-service-key-google = Nyckel Google Location Service
@@ -112,6 +113,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argument
 safe-mode-title = Prova felsäkert läge
 restart-in-safe-mode-label = Starta om utan tillägg…
+
+## Media titles
+
+audio-backend = Ljudgränssnitt
+max-audio-channels = Max kanaler
+channel-layout = Önskad kanallayout
+sample-rate = Önskad samplingshastighet
 media-title = Media
 media-output-devices-title = Utmatningsenheter
 media-input-devices-title = Inmatningsenheter
@@ -124,6 +132,12 @@ media-device-format = Format
 media-device-channels = Kanaler
 media-device-rate = Hastighet
 media-device-latency = Fördröjning
+media-capabilities-title = Mediefunktioner
+# List all the entries of the database.
+media-capabilities-enumerate = Räkna upp databasen
+
+
+
 intl-title = Internationalisering & lokalisering
 intl-app-title = Programinställningar
 intl-locales-requested = Begärda språkversioner
@@ -238,12 +252,7 @@ uses-tiling = Använder Tiling
 content-uses-tiling = Använder Tiling (innehåll)
 off-main-thread-paint-enabled = Målning utanför huvudtråden aktiverad
 off-main-thread-paint-worker-count = Målning utanför huvudtråden Worker-antal
-low-end-machine = Upptäckte mindre presterande maskin
 target-frame-rate = Målramhastighet
-audio-backend = Ljudgränssnitt
-max-audio-channels = Max kanaler
-channel-layout = Önskad kanallayout
-sample-rate = Önskad samplingshastighet
 min-lib-versions = Förväntad minimiversion
 loaded-lib-versions = Version som används
 has-seccomp-bpf = Seccomp-BPF (Systemanropsfiltrering)
