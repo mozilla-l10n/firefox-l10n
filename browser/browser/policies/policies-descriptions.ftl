@@ -69,6 +69,7 @@ policy-OfferToSaveLogins = אכיפת ההגדרה המאפשרת ל־{ -brand-s
 policy-OfferToSaveLoginsDefault = הגדרת הערך ברירת המחדל המאפשר ל־{ -brand-short-name } להציע לזכור פרטי כניסה וסיסמאות שמורים. גם ערכי אמת וגם ערכי שקר יתקבלו.
 policy-OverrideFirstRunPage = עקיפת דף ההפעלה הראשון. ניתן לנקות מדיניות זו אם ברצונך להשבית את דף ההפעלה הראשון.
 policy-OverridePostUpdatePage = שינוי כתובת הדף ״מה חדש״ המוצג לאחר עדכון. ניתן לקבוע מדיניות זו לריקה כדי להשבית את הצגת הדף לאחר עדכון.
+policy-PasswordManagerEnabled = הפעלה של שמירת ססמאות במנהל הססמאות.
 policy-Permissions = קביעת תצורה של הרשאות עבור מצלמה, מיקרופון, מיקום והתרעות.
 policy-PopupBlocking = לאפשר לאתרים מסוימים להקפיץ חלונות כברירת מחדל.
 policy-Preferences = הגדרה ונעילת הערכים עבור חלק מההעדפות.
