@@ -6,7 +6,7 @@
 <!ENTITY cutCmd.accesskey "t">
 <!ENTITY copyCmd.label "Kopyahin">
 <!ENTITY copyCmd.accesskey "c">
-<!ENTITY pasteCmd.label "I-paste">
+<!ENTITY pasteCmd.label "i-Paste">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY undoCmd.label "i-Undo">
 <!ENTITY undoCmd.accesskey "I">

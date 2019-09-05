@@ -60,7 +60,7 @@
 <!ENTITY addon.updateNow.tooltip              "Mag-install ng update para sa add-on na ito">
 <!ENTITY addon.includeUpdate.label            "Isama sa update">
 <!ENTITY addon.updateAvailable.label          "May update na available">
-<!ENTITY addon.checkingForUpdates.label       "Naghahanap ng updates…">
+<!ENTITY addon.checkingForUpdates.label       "Naghahanap ng mga update…">
 <!ENTITY addon.releaseNotes.label             "Release Note:">
 <!ENTITY addon.loadingReleaseNotes.label      "Loading…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "Pasensya na po, pero may error sa pagload ng release notes.">
