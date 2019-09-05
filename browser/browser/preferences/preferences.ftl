@@ -601,6 +601,7 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Suggérer et créer des mots de passe robustes
     .accesskey = u
+forms-breach-alerts-learn-more-link = En savoir plus
 forms-fill-logins-and-passwords =
     .label = Renseigner automatiquement les identifiants et les mots de passe
     .accesskey = R

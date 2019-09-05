@@ -69,6 +69,8 @@ serviceworker-empty-suggestions-debugger = Parcourir le registre des inscription
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Inspecter les service workers des autres domaines. <a>Ouvrir about:debugging</a>
+# Header for the view of Manifest displayed in the application panel for the current page.
+manifest-view-header = Manifeste d’application
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Erreurs et avertissements
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -89,3 +91,7 @@ manifest-non-existing = Aucun manifeste trouvé à inspecter.
 icon-warning =
     .alt = Icône d’avertissement
     .title = Avertissement
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Icône d’erreur
+    .title = Erreur
