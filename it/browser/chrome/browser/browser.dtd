@@ -43,8 +43,10 @@
 <!ENTITY menubarCmd.label "Barra dei menu">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Barra di navigazione">
+<!ENTITY navbar.accessibleLabel "Navigazione">
 <!ENTITY personalbarCmd.label "Barra dei segnalibri">
 <!ENTITY personalbarCmd.accesskey "s">
+<!ENTITY personalbar.accessibleLabel "Segnalibri">
 <!ENTITY bookmarksToolbarItem.label "Elementi della barra dei segnalibri">
 <!ENTITY pageSourceCmd.label "Sorgente pagina">
 <!ENTITY pageSourceCmd.accesskey "o">
