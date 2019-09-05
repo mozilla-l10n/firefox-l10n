@@ -34,6 +34,8 @@
 <!ENTITY firstrun_button_notnow "Όχι τώρα">
 <!ENTITY firstrun_button_next "Επόμενο">
 
+
+
 <!ENTITY firstrun_tabqueue_title "Σύνδεσμοι">
 
 <!ENTITY firstrun_readerview_title "Άρθρα">
@@ -396,7 +398,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_zoom_force_enabled_summary "Εξαναγκασμός δυνατότητας μεγέθυνσης σε κάθε σελίδα">
 <!ENTITY pref_voice_input "Φωνητική είσοδος">
 <!ENTITY pref_voice_input_summary2 "Να επιτρέπεται η υπαγόρευση στη γραμμή URL">
-<!ENTITY pref_qrcode_enabled "Αναγνώστης κωδικών QR">
+<!ENTITY pref_qrcode_enabled "Ανάγνωση κωδικών QR">
 <!ENTITY pref_qrcode_enabled_summary2 "Να επιτρέπεται η σάρωση QR στη γραμμή URL">
 
 <!ENTITY pref_use_master_password "Χρήση ενός κύριου κωδικού">
@@ -595,7 +597,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Τοποθεσία">
 <!ENTITY bookmark_edit_keyword "Λέξη κλειδί">
 <!ENTITY bookmark_select_folder "Επιλογή φακέλου">
-
 <!ENTITY bookmark_edit_undo "Αναίρεση">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -878,6 +879,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Διαθέσιμο χωρίς σύνδεση">
 <!ENTITY helper_triple_readerview_open_message "Προσθέστε τα στοιχεία της προβολής ανάγνωσης στους σελιδοδείκτες για να τα διαβάζετε χωρίς σύνδεση.">
 <!ENTITY helper_triple_readerview_open_button "Προσθήκη στους σελιδοδείκτες">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 
 <!ENTITY activity_stream_topsites "Κορυφαίες ιστοσελίδες">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
