@@ -103,7 +103,7 @@ cfr-whatsnew-lockwise-backup-title = Sauvegardez vos mots de passe
 cfr-whatsnew-lockwise-backup-body = Générez maintenant des mots de passe sécurisés auxquels vous pouvez accéder partout où vous vous connectez.
 cfr-whatsnew-lockwise-backup-link-text = Activer les sauvegardes
 cfr-whatsnew-lockwise-take-title = Emportez vos mots de passe avec vous
-cfr-whatsnew-lockwise-take-body = L’application mobile { -lockwise-brand-short-name } vous permet d’accéder en toute sécurité à vos mots de passe sauvegardés depuis n'importe où.
+cfr-whatsnew-lockwise-take-body = L’application mobile { -lockwise-brand-short-name } vous permet d’accéder en toute sécurité à vos mots de passe sauvegardés depuis n’importe où.
 cfr-whatsnew-lockwise-take-link-text = Obtenir l’application
 
 ## Bookmark Sync
