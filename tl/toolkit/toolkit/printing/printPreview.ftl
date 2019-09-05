@@ -33,6 +33,7 @@ printpreview-of =
     .value = ng
 printpreview-custom-prompt =
     .value = Custom Scale…
+printpreview-custom-scale-prompt-title = Custom Scale
 printpreview-page-setup =
     .label = Page Setup…
     .accesskey = u

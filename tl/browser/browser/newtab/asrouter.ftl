@@ -122,6 +122,7 @@ cfr-doorhanger-sync-logins-ok-button = Buksan ang { -sync-brand-short-name }
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Basahin habang bumibyahe
+cfr-doorhanger-send-tab-recipe-header = Dalhin ang recipe na ito sa kusina
 cfr-doorhanger-send-tab-body = Pinapadali ng Send Tab ang pagbahagi ng link na ito sa phone mo o sa kahit saang lugar na naka-sign in ka sa { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Subukan ang Send Tab
     .accesskey = T
