@@ -14,8 +14,8 @@ select-all =
 menu-select-all =
     .label = انتخاب همه
     .accesskey = ه
-close-window =
-    .key = A
+close-dialog =
+    .key = w
 general-tab =
     .label = عمومی
     .accesskey = ع
@@ -147,6 +147,36 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = استفاده از مقدار پیش‌فرض
 security-no-visits = خیر
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Meta (1 tag)
+           *[other] Meta (1 tag)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] نه
+        [one] بله، یک بار
+       *[other] بله، { $visits } بار
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KB ({ $bytes } byte)
+           *[other] { $kb } KB ({ $bytes } bytes)
+        }
 # This string is used to display the type of
 # an image
 # Variables:
