@@ -116,6 +116,13 @@ sandbox-sys-call-number = Chamadas de sistema
 sandbox-sys-call-args = Argumentos
 safe-mode-title = Experimente o modo de segurança
 restart-in-safe-mode-label = Reiniciar com extensões desativadas…
+
+## Media titles
+
+audio-backend = Infraestrutura de Áudio
+max-audio-channels = Máximo de Canais
+channel-layout = Formato de Canal Preferido
+sample-rate = Taxa de amostragem preferida
 media-title = Mídia
 media-output-devices-title = Dispositivos de Saída
 media-input-devices-title = Dispositivos de Entrada
@@ -128,6 +135,12 @@ media-device-format = Formato
 media-device-channels = Canais
 media-device-rate = Taxa
 media-device-latency = Latência
+media-capabilities-title = Capacidades de mídia
+# List all the entries of the database.
+media-capabilities-enumerate = Enumeração de banco de dados
+
+
+
 intl-title = Internacionalização & Localização
 intl-app-title = Configurações do aplicativo
 intl-locales-requested = Idiomas solicitados
@@ -243,10 +256,6 @@ content-uses-tiling = Usa mosaicos (conteúdo)
 off-main-thread-paint-enabled = Ativado o desenho fora do processo principal
 off-main-thread-paint-worker-count = Contagem de desenho fora do thread principal
 target-frame-rate = Alvo de taxa de atualização
-audio-backend = Infraestrutura de Áudio
-max-audio-channels = Máximo de Canais
-channel-layout = Formato de Canal Preferido
-sample-rate = Taxa de amostragem preferida
 min-lib-versions = Versão mínima esperada
 loaded-lib-versions = Versão em uso
 has-seccomp-bpf = Seccomp-BPF (Sistema de filtragem de chamadas)
