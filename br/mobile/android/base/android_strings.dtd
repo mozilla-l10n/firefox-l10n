@@ -36,6 +36,8 @@
 
 <!ENTITY firstrun_signin_button2 "Kennaskañ">
 
+<!ENTITY firstrun_signup_button "Marilhañ">
+
 <!ENTITY firstrun_tabqueue_title "Ereoù">
 
 <!ENTITY firstrun_readerview_title "Pennadoù">
@@ -597,7 +599,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Lec\&apos;h">
 <!ENTITY bookmark_edit_keyword "Gerioù alc\&apos;hwez">
 <!ENTITY bookmark_select_folder "Dibab un teuliad">
-
 <!ENTITY bookmark_edit_undo "Dizober">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -878,11 +879,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Lakait elfennoù ar mod lenn er sinedoù evit o lenn ezlinenn.">
 <!ENTITY helper_triple_readerview_open_button "Ouzhpennañ d\&apos;ar sinedoù">
 
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Donemat war &brandShortName;">
 <!ENTITY activity_stream_signin_description "Krogit da c\&apos;houbredañ sinedoù, gerioù-tremen, ha muioc\&apos;h c\&apos;hoazh gant ho kont Firefox.">
 <!ENTITY activity_stream_signin_button "Kennaskañ">
-<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
-These labels are shown in the Activity Stream recommending the user to sign in. -->
+
+<!ENTITY activity_stream_signup_button "Marilhañ">
+<!ENTITY activity_stream_signin_prompt "Ur gont hoc\&apos;h eus dija ?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Kennaskañ.">
 
 <!ENTITY activity_stream_topsites "Lec\&apos;hiennoù e-touez re wellañ">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
