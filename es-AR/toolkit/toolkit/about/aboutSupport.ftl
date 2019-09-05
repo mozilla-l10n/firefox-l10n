@@ -116,6 +116,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumentos
 safe-mode-title = Intentar modo seguro
 restart-in-safe-mode-label = Reiniciar con complementos deshabilitados…
+
+## Media titles
+
+audio-backend = Backend de audio
+max-audio-channels = Canales máximos
+channel-layout = Configuración de canales pincipal
+sample-rate = Frecuencia de muestreo principal
 media-title = Medios
 media-output-devices-title = Dispositivos de salida
 media-input-devices-title = Dispositivos de entrada
@@ -128,6 +135,12 @@ media-device-format = Formato
 media-device-channels = Canales
 media-device-rate = Frecuencia
 media-device-latency = Latencia
+media-capabilities-title = Capacidades de medios
+# List all the entries of the database.
+media-capabilities-enumerate = Enumerar base de datos
+
+
+
 intl-title = Internacionalización y localización
 intl-app-title = Configuración de la aplicación
 intl-locales-requested = Idiomas solicitados
@@ -243,10 +256,6 @@ content-uses-tiling = Utiliza baldosas (contenido)
 off-main-thread-paint-enabled = Pintura habilitada fuera del hilo principal
 off-main-thread-paint-worker-count = Cantidad de workers de pintura fuera del hilo principal
 target-frame-rate = Tasa de marco de destino
-audio-backend = Backend de audio
-max-audio-channels = Canales máximos
-channel-layout = Configuración de canales pincipal
-sample-rate = Frecuencia de muestreo principal
 min-lib-versions = Versión mínima esperada
 loaded-lib-versions = Versión en uso
 has-seccomp-bpf = Seccomp-BPF (Filtrado de llamadas del sistema)
