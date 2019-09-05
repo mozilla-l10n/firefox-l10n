@@ -814,8 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Forbindelse">
 <!ENTITY identity.connectionSecure "Sikker forbindelse">
-
-<!ENTITY identity.connectionSecure2 "Forbindelsen er sikker">
 <!ENTITY identity.connectionNotSecure "Forbindelsen er usikker">
 
 <!ENTITY identity.connectionSecure3 "Forbindelsen er sikker">
@@ -828,8 +826,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Denne side er indlæst fra en udvidelse.">
 <!ENTITY identity.insecureLoginForms2 "Logins foretaget på denne side kan blive kompromitteret.">
 <!ENTITY identity.customRoot "Forbindelsen blev bekræftet af en certifikatudsteder, som Mozilla ikke kender.">
-
-<!ENTITY identity.evOwnerLabel "Webstedet er ejet af:">
 
 <!ENTITY identity.evOwnerLabel2 "Certifikatet er udstedt til:">
 
@@ -867,9 +863,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Tilladelser">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Tilladelser indstillet">
-
 <!ENTITY identity.permissions3 "Tilladelser">
 <!ENTITY identity.permissionsEmpty "Du har ikke tildelt dette websted nogen særlige tilladelser.">
 <!ENTITY identity.permissionsReloadHint "Du skal muligvis genindlæse siden, før at ændringerne slår igennem.">
@@ -883,7 +876,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Mere information om udvidet beskyttelse mod sporing">
 <!ENTITY protections.settings.label "Indstillinger for beskyttelse">
-<!ENTITY protections.report.label "Vis fuld rapport">
 <!ENTITY protections.showreport.label "Vis rapport">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -901,7 +893,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Betalinger">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Kommentarer">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Videoer">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Virker webstedet stadig ikke, selvom du har slået beskyttelse fra?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Send en rapport">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -929,7 +920,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Disse cookies følger dig fra websted til websted for at indsamle data om din adfærd på nettet. De stammer fra tredjepart som fx annoncører og anlyse-virksomheder.">
 <!ENTITY protections.cryptominers.description "Cryptominers bruger din computers ressourcer til at udvinde digital valuta. Cryptomining-scripts gør din computer langsommere og får den til at bruge mere strøm, og de kan dermed dræne dit batteri.">
 <!ENTITY protections.fingerprinters.description "Fingerprinters indsamler indstillinger fra din browser og din computer for at skabe en profil af dig. Ved at bruge dette digitale fingeraftryk kan de spore dig på tværs af forskellige websteder.">
-<!ENTITY protections.trackingContent.description "Websteder kan indlæse eksterne reklamer, videoer og andet indhold, der indeholder sporings-kode. Ved at blokere sporings-indhold kan sider ofte indlæses hurtigere, men nogle knapper, formularer og login-felter virker måske ikke.">
 <!ENTITY protections.trackingContent2.description "Websteder kan indlæse eksterne reklamer, videoer og andet indhold, der indeholder sporings-kode. Ved at blokere sporings-indhold kan sider ofte indlæses hurtigere, men nogle knapper, formularer og login-felter virker måske ikke.">
 <!ENTITY protections.socialMediaTrackers.description "Sociale netværk placerer sporings-mekanismer på andre websteder for at følge med i, hvad du gør og ser på nettet. Det giver virksomhederne bag de sociale medier mulighed for at lære mere om dig, end det du ellers selv deler på de sociale medier.">
 
