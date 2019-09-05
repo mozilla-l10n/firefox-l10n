@@ -36,6 +36,8 @@
 
 <!ENTITY firstrun_signin_button2 "Aanmelden">
 
+<!ENTITY firstrun_signup_button "Registreren">
+
 <!ENTITY firstrun_tabqueue_title "Koppelingen">
 
 <!ENTITY firstrun_readerview_title "Artikelen">
@@ -538,7 +540,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY contextmenu_add_page_shortcut "Paginasnelkoppeling toevoegen">
 <!ENTITY contextmenu_set_as_homepage "Instellen als startpagina">
 <!ENTITY contextmenu_share "Delen">
-<!ENTITY contextmenu_pasteandgo "Plakken &amp; Gaan">
+<!ENTITY contextmenu_pasteandgo "Plakken &amp; gaan">
 <!ENTITY contextmenu_paste "Plakken">
 <!ENTITY contextmenu_copyurl "Adres kopiëren">
 <!ENTITY contextmenu_edit_bookmark "Bewerken">
@@ -597,7 +599,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Locatie">
 <!ENTITY bookmark_edit_keyword "Sleutelwoord">
 <!ENTITY bookmark_select_folder "Map selecteren">
-
 <!ENTITY bookmark_edit_undo "Ongedaan maken">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -769,7 +770,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      remotely advertised updates in the Nightly and Aurora channels. -->
 <!ENTITY updater_permission_text "Verleen &brandShortName; de machtiging voor toegang tot opslag om bestanden en updates te downloaden.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Verlenen">
+<!ENTITY updater_permission_allow "Toestaan">
 
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Nieuwe gastsessie">
@@ -881,11 +882,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Maak bladwijzers voor lezerweergave-items om ze offline te lezen.">
 <!ENTITY helper_triple_readerview_open_button "Toevoegen aan bladwijzers">
 
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Welkom bij &brandShortName;">
 <!ENTITY activity_stream_signin_description "Start met synchroniseren van bladwijzers, wachtwoorden en meer met uw Firefox-account.">
 <!ENTITY activity_stream_signin_button "Aanmelden">
-<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
-These labels are shown in the Activity Stream recommending the user to sign in. -->
+
+<!ENTITY activity_stream_signup_button "Registreren">
+<!ENTITY activity_stream_signin_prompt "Hebt u al een account?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Aanmelden.">
 
 <!ENTITY activity_stream_topsites "Topwebsites">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
