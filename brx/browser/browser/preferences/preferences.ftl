@@ -284,6 +284,9 @@ forms-exceptions =
     .label = Exceptions…
     .accesskey = x
 forms-breach-alerts-learn-more-link = गोबां सोलों
+forms-saved-logins =
+    .label = थिना दोनखानाय लगिनफोर...
+    .accesskey = L
 forms-master-pw-use =
     .label = मोनसे मास्थार बारग'सोदोब बाहाय
     .accesskey = ब
@@ -332,6 +335,9 @@ history-clear-button =
 
 sitedata-header = कुकिफोर आरो साइट दाटा
 sitedata-learn-more = गोबां सोलों
+sitedata-clear =
+    .label = दाटाफोरखौ खोमोर...
+    .accesskey = I
 
 ## Privacy Section - Address Bar
 
@@ -348,6 +354,11 @@ addressbar-locbar-openpage-option =
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = गोबां सोलों
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = मानदान्दा
+    .accesskey = d
 content-blocking-expand-section =
     .tooltiptext = गोबां फोरमायथिहोग्रा
 

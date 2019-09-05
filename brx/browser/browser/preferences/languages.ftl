@@ -32,3 +32,5 @@ languages-code-format =
     .label = { $locale }  [{ $code }]
 languages-active-code-format =
     .value = { languages-code-format.label }
+browser-languages-downloading =
+    .label = डाउनल'ड खालाम गासिनो दं...
