@@ -2,8 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Extensión recomendada
 cfr-doorhanger-pintab-heading = Intenta esto: Fijar pestaña
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ¿Por qué estoy viendo esto?
 cfr-doorhanger-extension-cancel-button = Ahora no
@@ -44,7 +50,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } usuario
        *[other] { $total } usuarios
     }
-cfr-doorhanger-pintab-description = Obtén acceso rápido a tus sitios más visitados. Mantén sitios abiertos en una pestaña (incluso cuando reinicies).
+cfr-doorhanger-pintab-description = Obtenga acceso rápido a sus sitios más visitados. Mantenga sitios abiertos en una pestaña (incluso cuando reinicie).
 
 ## These messages are steps on how to use the feature and are shown together.
 
@@ -63,9 +69,24 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Cerrar botón
     .title = Cerrar
 
+## Protections panel
+
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
     .label = Novedades
     .tooltiptext = Novedades
 cfr-whatsnew-panel-header = Novedades
+
+## Bookmark Sync
+
+
+## Login Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+

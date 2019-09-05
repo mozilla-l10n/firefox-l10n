@@ -857,6 +857,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.settings.label "Ajustes de protección">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -867,10 +868,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Desactive las protecciones si tiene problemas con:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Campos de inicio de sesión">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "Formularios">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Pagos">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Comentarios">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Vídeos">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Enviar un informe">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
      In the protections panel, Content Blocking category items are in three sections:
@@ -882,6 +886,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "¿Por qué?">
+<!ENTITY protections.socialMediaTrackers.label "Rastreadores de redes sociales">
+<!ENTITY protections.trackingContent.label "Contenido de rastreo">
+<!ENTITY protections.fingerprinters.label "Creadores de huellas (Fingerprinters)">
 <!ENTITY protections.cryptominers.label "Criptomineros">
 
 
@@ -923,6 +930,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.manageSettings.label "Administrar el bloqueo de contenido">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Contenido de rastreo">
 
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
@@ -932,6 +940,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies y datos del sitio">
 
+<!ENTITY contentBlocking.socialblock.label "Rastreadores de redes sociales">
 
 
 <!ENTITY contentBlocking.cryptominers.label "Criptomineros">
@@ -944,8 +953,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Informar de problemas">
 <!ENTITY contentBlocking.breakageReportView2.description "El bloqueo de contenido puede causar problemas con algunos sitios. Cuando informa de problemas, ayuda a mejorar &brandShortName; para todos (esto enviará a Mozilla la URL junto con información de la configuración del navegador).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Más información">
+<!ENTITY contentBlocking.breakageReportView.title "Informar de problemas con un sitio">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Saber más">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "¿Qué problemas tuviste? (Opcional)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Opcional: describa el problema">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Enviar reporte">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Cancelar">
 
