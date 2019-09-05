@@ -13,15 +13,6 @@ graph-week-summary =
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
 # earliest date recorded in the database.
-graph-total-summary =
-    { $count ->
-        [one] רכיב מעקב אחד נחסם מאז { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] { $count } רכיבי מעקב נחסמו מאז { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-    }
-# Variables:
-#   $count (Number) - Number of tracking events blocked.
-#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
-# earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
         [one] רכיב מעקב <b>אחד</b> נחסם מאז { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
@@ -46,13 +37,12 @@ social-tab-contant = רשתות חברתיות מציבות רכיבי מעקב 
 cookie-tab-title = עוגיות מעקב חוצות אתרים
 cookie-tab-content = עוגיות אלו עוקבות אחריך מאתר לאתר כדי לאסוף נתונים על הפעילויות המקוונות שלך. הן נוצרות על־ידי גורמי צד־שלישי כמו מפרסמים וחברות אנליטיות. חסימת עוגיות מעקב חוצות אתרים מפחיתה את מספר הפרסומות שעוקבות אחריך. <a data-l10n-name="learn-more-link">מידע נוסף</a>
 tracker-tab-title = תוכן מעקב
-tracker-tab-content = אתרים עשויים לטעון פרסומות חיצוניות, סרטונים ותכנים אחרים המכילים קוד מעקב. חסימת תוכן מעקב יכולה לסייע לאתרים להיטען מהר יותר, אך יתכן שמספר כפתורים, טפסים ושדות התחברות לא יעבדו. <a data-l10n-name="learn-more-link">מידע נוסף</a>
 tracker-tab-description = אתרים עשויים לטעון פרסומות חיצוניות, סרטונים ותכנים אחרים עם קוד מעקב. חסימת תוכן מעקב יכולה לסייע לאתרים להיטען מהר יותר, אך יתכן שמספר כפתורים, טפסים ושדות התחברות לא יעבדו. <a data-l10n-name="learn-more-link">מידע נוסף</a>
 cryptominer-tab-title = כורי מטבעות דיגיטליים
 cryptominer-tab-content = כורי מטבעות דיגיטליים משתמשים בכוח העיבוד של המערכת שלך כדי לכרות כסף דיגיטלי. תסריטי כריית מטבעות מרוקנים את הסוללה שלך, מאטים את המחשב שלך ומגדילים את חשבון החשמל שלך. <a data-l10n-name="learn-more-link">מידע נוסף</a>
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } מאחסן באופן מאובטח את הססמאות שלך בדפדפן.
-open-about-logins-button = פתיחה ב־{ -brand-short-name }
+lockwise-header-content-logged-in = אחסון וסנכרון הססמאות שלך באופן מאובטח לכל המכשירים שלך.
 about-logins-view-logins-button = הצגת כניסות
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -72,7 +62,6 @@ lockwise-sync-status =
         [one] בסנכרון עם מכשיר אחד נוסף
        *[other] בסנכרון עם { $count } מכשירים נוספים
     }
-lockwise-sync-not-syncing = לא בסנכרון עם מכשירים נוספים.
 lockwise-sync-not-syncing-devices = לא בסנכרון עם מכשירים נוספים
 monitor-link = איך זה עובד
 auto-scan = נסרק באופן אוטומטי היום
