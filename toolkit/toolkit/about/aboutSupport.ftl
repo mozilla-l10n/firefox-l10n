@@ -32,6 +32,8 @@ app-basics-name = Mjeno
 app-basics-version = Wersija
 app-basics-build-id = Wersijowy ID
 app-basics-update-channel = Aktualizowanski kanal
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Aktualizowanski zapis
@@ -56,7 +58,6 @@ app-basics-service-workers = Zregistrowane service workers
 app-basics-profiles = Profile
 app-basics-launcher-process-status = Startowanski proces
 app-basics-multi-process-support = Multiprocesowe wokna
-app-basics-process-count = Webwobsahowe procesy
 app-basics-remote-processes-count = Zdalene procesy
 app-basics-enterprise-policies = Předewzaćelske prawidła
 app-basics-location-service-key-google = Kluč stejišćoweje słužby Google
@@ -112,6 +113,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenty
 safe-mode-title = Wěsty modus spytać
 restart-in-safe-mode-label = Ze znjemóžnjenymi přidatkami startować…
+
+## Media titles
+
+audio-backend = Awdiobackend
+max-audio-channels = Maksimalna ličba kanalow
+channel-layout = Preferowane kanalowe wuhotowanje
+sample-rate = Preferowana wottasowanska rata
 media-title = Medije
 media-output-devices-title = Wudawanske graty
 media-input-devices-title = Zapodawanske graty
@@ -124,6 +132,12 @@ media-device-format = Format
 media-device-channels = Kanale
 media-device-rate = Rata
 media-device-latency = Latenca
+media-capabilities-title = Medijowe móžnosće
+# List all the entries of the database.
+media-capabilities-enumerate = Datowu banku naličić
+
+
+
 intl-title = Internacionalizacija a lokalizacija
 intl-app-title = Nastajenja nałoženja
 intl-locales-requested = Požadane rěče
@@ -248,12 +262,7 @@ uses-tiling = Wužiwa kachlički
 content-uses-tiling = Wužiwa kachlicowanje (wobsah)
 off-main-thread-paint-enabled = Off Main Thread Painting zmóžnjeny
 off-main-thread-paint-worker-count = Ličba workerow Off Main Thread Painting
-low-end-machine = Mjenje wukonliwa mašina namakana
 target-frame-rate = Cilowa wobłukowa hustosć
-audio-backend = Awdiobackend
-max-audio-channels = Maksimalna ličba kanalow
-channel-layout = Preferowane kanalowe wuhotowanje
-sample-rate = Preferowana wottasowanska rata
 min-lib-versions = Wočakowana minimalna wersija
 loaded-lib-versions = Wužita wersija
 has-seccomp-bpf = Seccomp-BPF (Filtrowanje systemowych zawołanjow)
