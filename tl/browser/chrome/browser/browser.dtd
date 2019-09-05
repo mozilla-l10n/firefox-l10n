@@ -395,7 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Burahin ang Kasaysayan">
 <!ENTITY appMenuHistory.restoreSession.label "Ibalik ang Nakaraang Session">
 <!ENTITY appMenuHistory.viewSidebar.label "Tingnan ang Sidebar ng Kasaysayan">
-<!ENTITY appMenuHistory.hideSidebar.label "Itago ang History Sidebar">
+<!ENTITY appMenuHistory.hideSidebar.label "Itago ang Sidebar para sa Kasaysayan">
 <!ENTITY appMenuHistory.recentHistory.label "Nakaraang Kasaysayan">
 <!ENTITY appMenuHelp.label "Tulong">
 

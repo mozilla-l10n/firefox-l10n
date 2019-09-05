@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = I-update ang Kasaysayan
-history-intro = Ang mga sumusunod na update ay na install na
+history-intro = Ang mga sumusunod na update ay na-install na
 close-button-label =
     .buttonlabelcancel = Isara
     .title = I-update ang Kasaysayan

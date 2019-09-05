@@ -103,8 +103,8 @@
      downloads fit in the available space, or when there are no downloads in
      the panel at all.
      -->
-<!ENTITY downloadsHistory.label           "Ipakita ang Lahat ng Downloads">
-<!ENTITY downloadsHistory.accesskey       "L">
+<!ENTITY downloadsHistory.label           "Ipakita ang Lahat ng mga Download">
+<!ENTITY downloadsHistory.accesskey       "S">
 
 <!-- LOCALIZATION NOTE (downloadDetails.label):
      This string is shown at the top of the Download Details Panel, to indicate

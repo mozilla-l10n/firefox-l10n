@@ -20,9 +20,9 @@ findbar-highlight-all2 =
         }
     .tooltiptext = I-highlight lahat kung saan matatagpuan ang parirala
 findbar-case-sensitive =
-    .label = Pagtutugma ng Case
+    .label = Itugma ang Case
     .accesskey = c
-    .tooltiptext = Maghanap sa sensitivity ng case
+    .tooltiptext = Maghanap na may case sensitivity
 findbar-entire-word =
     .label = Buong Salita
     .accesskey = w
