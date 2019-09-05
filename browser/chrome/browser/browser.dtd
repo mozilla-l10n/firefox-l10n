@@ -127,23 +127,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "فایرفاکس را همراه خود داشته باشید">
+<!ENTITY fxa.signin.button.label "فعال‌سازی &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "ایمیلتان را بررسی کنید">
+<!ENTITY fxa.unverified.description.label "قبل از همگام‌سازی باید حساب خود را تأیید کنید.">
+<!ENTITY fxa.unverified.button.label "باز کردن تنظیمات &syncBrand.shortName.label;…">
 
+<!ENTITY pictureInPictureHideToggle.label "مخفی کردن تصویر-در-تصویر">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "وارد شده به عنوان">
 <!ENTITY fxa.menu.manageAccount.label "مدیریت حساب…">
+<!ENTITY fxa.menu.syncSettings.label "تنظیمات &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "اتصال به دستگاه دیگر…">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "ورود به &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "فعال‌سازی &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "حساب">
+<!ENTITY fxa.menu.firefoxServices.label "خدمات &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "یک زبانه را فوراً به هر دستگاهی که با آن وارد سیستم شده‌اید ارسال کنید.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -165,6 +176,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
+<!ENTITY pictureInPicture.label "تصویر-در-تصویر">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -802,7 +814,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "این یک صفحهٔ امن &brandShortName; است.">
 <!ENTITY identity.extensionPage "این صفحه توسط یک افزونه بارگیری شده است.">
 <!ENTITY identity.insecureLoginForms2 "اطلاعات ورودی که در این صفحه وارد می‌کنید می‌توانند فاش شوند.">
+<!ENTITY identity.customRoot "گواهیِ این اتصال، توسط صادرکننده‌ای ایجاد شده است که برای موزیلا قابل شناسایی نیست.">
 
+<!ENTITY identity.evOwnerLabel2 "گواهی صادر شده برای:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; قسمت‌هایی از این صفحه را که ایمن نیستند، مسدود کرده است.">
@@ -821,6 +835,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "با اینکه &brandShortName; بعضی از محتوا را مسدود کرده است، هنوز محتوای در این سایت هستند که ایمن نیستند (مانند تصاویر).">
 <!ENTITY identity.description.activeLoaded "این سایت شامل محتوایی است که ایمن نیستند (مانند کدنوشته‌ها) و اتصال شما به آن خصوصی نیست.">
 <!ENTITY identity.description.activeLoaded2 "اطلاعاتی که با این سایت به‌اشتراک می‌گذارید ممکن است توسط دیگران دیده شوند (مانند گذرواژه‌ها، پیام‌ها، کارت‌های اعتباری و غیره).">
+<!ENTITY identity.description.customRoot "صادر کنندهٔ این گواهی برای موزیلا قابل شناسایی نیست. ممکن است از طریق سیستم‌عامل یا مدیرِ سیستم شما اضافه شده باشد.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "فعال‌سازی محافظت">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "ف">
@@ -841,10 +856,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "شما به این سایت هیچ دسترسی خاصی نداده‌اید.">
 <!ENTITY identity.permissionsReloadHint "ممکن است لازم باشد که صفحه را برای اعمال تغییرات دوباره بارگیری کنید.">
 <!ENTITY identity.permissionsPreferences.tooltip "باز کردن ترجیحات مجوزها">
+<!ENTITY identity.contentBlockingPreferences.tooltip "باز کردن ترجیحات مسدود کردن محتواها">
 
 
+<!ENTITY protections.etpON.header "حفاظت پیشرفته در برابر ردیابی برای این سایت روشن است">
+<!ENTITY protections.etpOFF.header "حفاظت پیشرفته در برابر ردیابی برای این سایت خاموش است">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "اطلاعات بیشتر در مورد حفاظت پیشرفته در برابر ردیابی">
 <!ENTITY protections.settings.label "تنظیمات حفاظتی">
 <!ENTITY protections.showreport.label "نمایش گزارش">
 <!-- LOCALIZATION NOTE:
@@ -857,6 +876,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "اگر هر کدام از مشکلات مقابل را دارید، محافظت‌ها را خاموش کنید:">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "فرم‌ها">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "پرداخت‌های مالی">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "نظرات">
@@ -870,9 +890,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "مسدود شده">
+<!ENTITY protections.notBlocking2.label "مجاز">
+<!ENTITY protections.notFound.label "موردی پیدا نشد">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
+<!ENTITY protections.notBlocking.why.label "چرا؟">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "مسدود کردن این موارد می‌تواند عناصر برخی از وب سایت‌ها را خراب کند. بدون ردیاب‌ها، ممکن است برخی از دکمه‌ها، فرم‌ها و قسمت‌های ورود کار نکنند.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "خاموش کردن محافظت، به همه ردیاب‌های این سایت اجازه فعالیت می‌دهد. اینکار همچنین ممکن است برخی از عملکردهای وب سایت را بهبود ببخشد.">
+<!ENTITY protections.socialMediaTrackers.label "ردیاب‌های شبکه‌های اجتماعی">
+<!ENTITY protections.crossSiteTrackingCookies.label "کوکی‌هایِ ردیابِ بین-سایتی">
+<!ENTITY protections.trackingContent.label "محتوای ردیابی">
+<!ENTITY protections.cryptominers.label "استخراج کننده‌های رمزارزها">
+<!ENTITY protections.noTrackersFound.description "هیچ ردیابی که برای &brandShortName; آشنا باشد در این صفحه شناسایی شدند.">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -890,6 +920,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.accesskey         "Y">
 
 <!ENTITY syncSyncNowItem.label        "انجام هم‌گام‌سازی">
+<!ENTITY syncSyncNowItemSyncing.label "همگام‌سازی…">
 <!ENTITY syncSyncNowItem.accesskey    "ه">
 <!ENTITY syncReAuthItem.label         "اتصال مجدد به &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "ت">
@@ -910,8 +941,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "ردیاب‌ها">
 
+<!ENTITY contentBlocking.manageSettings.label "مدیریت مسدودسازی محتوا">
 
+<!ENTITY contentBlocking.trackingProtection4.label "محتوای ردیابی">
 
+<!ENTITY contentBlocking.manageSettings2.label "مدیریت تنظیمات حفاظتی">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "ردیاب‌ها">
@@ -919,7 +953,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "کوکی‌ها">
 <!ENTITY contentBlocking.cookiesView.label "کوکی‌ها و داده‌های سایت">
 
+<!ENTITY contentBlocking.socialblock.label "ردیاب‌های شبکه‌های اجتماعی">
 
+<!ENTITY contentBlocking.cookies2.label "کوکی‌هایِ ردیابِ بین-سایتی">
 
 <!ENTITY contentBlocking.cryptominers.label "استخراج کننده‌های رمزارزها">
 <!ENTITY contentBlocking.cryptominersView.label "استخراج کننده‌های رمزارزها">
@@ -929,8 +965,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "گزارش مشکلات">
 <!ENTITY contentBlocking.breakageReportView2.description "مسدود کردن محتوا در این وب‌ سایت می‌تواند منجر به مشکلاتی شود. وقتی شما این مشکلات را گزارش دهید،‌ شما به &brandShortName; کمک می‌کنید تا برای همگان بهتر شود. ( این کار یک URL به همراه اطلاعات در خصوص تنظیمات مرورگر شما به موزیلا ارسال می‌کند.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "بیشتر بدانید">
+<!ENTITY contentBlocking.breakageReportView.title "گزارش یک سایت خراب">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "اطلاعات بیشتر">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "چه مشکلی داشتید؟ (اختیاری)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "اختیاری: مشکل را شرح دهید">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "ارسال گزارش">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "انصراف">
 
@@ -942,7 +981,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "غیرفعال کردن مسدودسازی‌ها به صورت موقت">
 <!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
+<!ENTITY trackingProtection.block6.label "فعال‌سازی مسدودسازی‌ها برای این سایت">
 <!ENTITY trackingProtection.block6.accesskey "T">
 <!ENTITY trackingProtection.reload2.label "بازآوری صفحه">
 <!ENTITY trackingProtection.reload2.accesskey "R">
@@ -968,6 +1009,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.panelUI.label "دریافت بروزرسانی های &brandShorterName;">
 <!ENTITY updateManual.panelUI.label "دریافت یک برداشت تازه از &brandShorterName;">
+<!ENTITY updateUnsupported.panelUI.label "شما نمی‌توانید به‌روزرسانی‌های بیشتری را انجام دهید">
 <!ENTITY updateRestart.panelUI.label2 "راه‌اندازی مجدد برای بروزرسانی &brandShorterName;">
 
 <!ENTITY newTabControlled.header.message "زبانه جدید شما دچار تغییر شده است.">
