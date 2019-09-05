@@ -107,7 +107,7 @@
 <!ENTITY prefs_title "Voorkeuren">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Algemeen">
-<!ENTITY prefs_restore "Standaardwaarden">
+<!ENTITY prefs_restore "Standaardwaarden herstellen">
 <!ENTITY prefs_manage_components "Extra onderdelen beheren">
 <!ENTITY prefs_options_autoconnectruntime "Opnieuw met vorige runtime verbinden">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Opnieuw met vorige runtime verbinden als WebIDE start">

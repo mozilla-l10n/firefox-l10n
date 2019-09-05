@@ -594,7 +594,7 @@ privacy-header = Browserprivacy
 
 ## Privacy Section - Forms
 
-logins-header = Aanmeldingen en Wachtwoorden
+logins-header = Aanmeldingen en wachtwoorden
 forms-ask-to-save-logins =
     .label = Vragen voor opslaan van aanmeldingen en wachtwoorden voor websites
     .accesskey = r
@@ -712,8 +712,8 @@ sitedata-cookies-permissions =
 addressbar-header = Adresbalk
 addressbar-suggest = Bij gebruik van de adresbalk, suggesties weergeven uit
 addressbar-locbar-history-option =
-    .label = Geschiedenis
-    .accesskey = G
+    .label = Navigatiegeschiedenis
+    .accesskey = g
 addressbar-locbar-bookmarks-option =
     .label = Bladwijzers
     .accesskey = d
@@ -725,8 +725,8 @@ addressbar-suggestions-settings = Voorkeuren voor zoekmachinesuggesties wijzigen
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Inhoudsblokkering
-content-blocking-enhanced-tracking-protection = Verbeterde bescherming tegen volgen
 content-blocking-section-description = Bescherm uw privacy terwijl u surft. Blokkeer onzichtbare inhoud die de door u bezochte websites volgt en u profileert. Door wat van deze inhoud te blokkeren laden pagina’s mogelijk sneller.
+content-blocking-enhanced-tracking-protection = Verbeterde bescherming tegen volgen
 content-blocking-section-top-level-description = Trackers volgen u online om gegevens over uw surfgedrag en interesses te verzamelen. { -brand-short-name } blokkeert veel van deze trackers en andere kwaadwillende scripts.
 content-blocking-learn-more = Meer info
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.

@@ -48,7 +48,7 @@ same accesskey but will never be visible at the same time. -->
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Tabbladen doorzoeken">
 
-<!ENTITY tabCmd.label "&#xad;Nieuw tabblad">
+<!ENTITY tabCmd.label "Nieuw tabblad">
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
@@ -99,9 +99,9 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY mirrorTabCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Schermvullende weergave">
+<!ENTITY enterFullScreenCmd.label "Volledig scherm">
 <!ENTITY enterFullScreenCmd.accesskey "S">
-<!ENTITY exitFullScreenCmd.label "Schermvullende weergave verlaten">
+<!ENTITY exitFullScreenCmd.label "Volledig scherm verlaten">
 <!ENTITY exitFullScreenCmd.accesskey "S">
 <!ENTITY fullScreenCmd.label "Volledig scherm">
 <!ENTITY fullScreenCmd.accesskey "d">
@@ -814,8 +814,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Verbinding">
 <!ENTITY identity.connectionSecure "Beveiligde verbinding">
-
-<!ENTITY identity.connectionSecure2 "Verbinding veilig">
 <!ENTITY identity.connectionNotSecure "Verbinding is niet beveiligd">
 
 <!ENTITY identity.connectionSecure3 "Verbinding beveiligd">
@@ -828,8 +826,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Deze pagina is geladen vanuit een extensie.">
 <!ENTITY identity.insecureLoginForms2 "Ingevoerde aanmeldingen op deze pagina zouden kunnen worden onderschept.">
 <!ENTITY identity.customRoot "Verbinding geverifieerd door een certificaatuitgever die niet door Mozilla wordt herkend.">
-
-<!ENTITY identity.evOwnerLabel "Website beheerd door:">
 
 <!ENTITY identity.evOwnerLabel2 "Certificaat uitgegeven aan:">
 
@@ -867,9 +863,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Toestemmingen">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Toestemmingen ingesteld">
-
 <!ENTITY identity.permissions3 "Toestemmingen">
 <!ENTITY identity.permissionsEmpty "U hebt deze website geen speciale toestemmingen gegeven.">
 <!ENTITY identity.permissionsReloadHint "Mogelijk dient u de pagina te vernieuwen om wijzigingen van kracht te laten worden.">
@@ -883,7 +876,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Meer informatie over Verbeterde bescherming tegen volgen">
 <!ENTITY protections.settings.label "Beschermingsinstellingen">
-<!ENTITY protections.report.label "Volledig rapport tonen">
 <!ENTITY protections.showreport.label "Rapport tonen">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -901,7 +893,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Betalingen">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Opmerkingen">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Video’s">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Werkt de website na uitschakelen beschermingen nog steeds niet?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Rapport verzenden">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -929,7 +920,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Deze cookies volgen u van website naar website om gegevens over wat u online doet te verzamelen. Ze worden geplaatst door derden, zoals advertentiebureaus en analysebedrijven.">
 <!ENTITY protections.cryptominers.description "Cryptominers gebruiken de rekenkracht van uw systeem om digitale valuta te genereren. Cryptominer-scripts trekken uw accu leeg, vertragen uw computer en kunnen uw energierekening omhoog jagen.">
 <!ENTITY protections.fingerprinters.description "Fingerprinters verzamelen instellingen van uw browser en computer om een profiel van u te maken. Met behulp van deze digitale vingerafdruk kunnen ze u op verschillende websites volgen.">
-<!ENTITY protections.trackingContent.description "Websites kunnen externe advertenties, video’s en andere inhoud laden die volgcode bevat. Het blokkeren van volginhoud kan websites helpen sneller te laden, maar sommige knoppen, formulieren en aanmeldvelden werken mogelijk niet.">
 <!ENTITY protections.trackingContent2.description "Websites kunnen externe advertenties, video’s en andere inhoud laden met volgcode. Het blokkeren van volginhoud kan websites helpen sneller te laden, maar sommige knoppen, formulieren en aanmeldvelden werken mogelijk niet.">
 <!ENTITY protections.socialMediaTrackers.description "Sociale netwerken plaatsen trackers op andere websites om te volgen wat u online doet, ziet en bekijkt. Hierdoor kunnen sociale-mediabedrijven meer over u leren dan wat u deelt op uw sociale-mediaprofielen.">
 
@@ -952,7 +942,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSyncNowItem.accesskey    "N">
 <!ENTITY syncReAuthItem.label         "Opnieuw verbinden met &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "O">
-<!ENTITY syncToolbarButton.label      "&#xad;Synchroniseren">
+<!ENTITY syncToolbarButton.label      "Synchroniseren">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Automatisch verbergen">
 
