@@ -33,7 +33,7 @@
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "背景:">
 <!ENTITY bgColor.accesskey                    "B">
-<!ENTITY defaultCompose.label                 "預設合成格式:">
+<!ENTITY defaultCompose.label                 "預設編輯格式:">
 <!ENTITY defaultBodyText.label                "內容文字（Enter 鍵換新行）">
 <!ENTITY defaultBodyText.accesskey            "o">
 <!ENTITY defaultParagraph.label               "段落（Enter 鍵產生新段落）">
