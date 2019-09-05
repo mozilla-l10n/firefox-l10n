@@ -35,6 +35,8 @@ app-basics-name = Naam
 app-basics-version = Versie
 app-basics-build-id = Build-ID
 app-basics-update-channel = Updatekanaal
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Map bijwerken
@@ -59,7 +61,6 @@ app-basics-service-workers = Geregistreerde Service Workers
 app-basics-profiles = Profielen
 app-basics-launcher-process-status = Launcher-proces
 app-basics-multi-process-support = Multiprocess-vensters
-app-basics-process-count = Webinhoudsprocessen
 app-basics-remote-processes-count = Externe processen
 app-basics-enterprise-policies = Bedrijfsbeleidsregels
 app-basics-location-service-key-google = Google-locatieservicesleutel
@@ -115,6 +116,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenten
 safe-mode-title = Veilige modus proberen
 restart-in-safe-mode-label = Herstarten met uitgeschakelde add-ons…
+
+## Media titles
+
+audio-backend = Audio-backend
+max-audio-channels = Max. kanalen
+channel-layout = Kanaalindeling van voorkeur
+sample-rate = Samplefrequentie van voorkeur
 media-title = Media
 media-output-devices-title = Uitvoerapparaten
 media-input-devices-title = Invoerapparaten
@@ -127,6 +135,10 @@ media-device-format = Indeling
 media-device-channels = Kanalen
 media-device-rate = Frequentie
 media-device-latency = Latentie
+media-capabilities-title = Mediamogelijkheden
+
+
+
 intl-title = Internationalisatie & lokalisatie
 intl-app-title = Toepassingsinstellingen
 intl-locales-requested = Gevraagde locales
@@ -241,12 +253,7 @@ uses-tiling = Gebruikt Tiling
 content-uses-tiling = Gebruikt Tiling (Inhoud)
 off-main-thread-paint-enabled = Off Main Thread Painting ingeschakeld
 off-main-thread-paint-worker-count = Aantal Off Main Thread Painting-workers
-low-end-machine = Minder krachtige machine gedetecteerd
 target-frame-rate = Doelframerate
-audio-backend = Audio-backend
-max-audio-channels = Max. kanalen
-channel-layout = Kanaalindeling van voorkeur
-sample-rate = Samplefrequentie van voorkeur
 min-lib-versions = Verwachte minimale versie
 loaded-lib-versions = Gebruikte versie
 has-seccomp-bpf = Seccomp-BPF (Systeemaanroepfiltering)
