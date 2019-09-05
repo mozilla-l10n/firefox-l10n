@@ -8,5 +8,6 @@
 -->
 
 <!ENTITY window.title "خبرهای مهم">
+<!ENTITY window.style "width: 490px">
 <!ENTITY continue-button "ادامه">
 

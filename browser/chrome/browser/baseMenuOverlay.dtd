@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "راه‌اندازی مجدد به همراه غیرفعال کردن افزودنی‌ها">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY healthReport2.label      "گزارش سلامتی &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "e">
-
 <!ENTITY helpTroubleshootingInfo.label      "اطلاعات رفع اشکال">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
@@ -52,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "نشان دادن همه">
+
+<!ENTITY touchBarCmdMac.label           "سفارشی‌سازی نوار لمسی…">
