@@ -71,12 +71,16 @@ login-item-cancel-button = नेवसि
 
 ## Master Password notification
 
+master-password-reload-button =
+    .label = लग इन
+    .accesskey = L
 
 ## Dialogs
 
 confirmation-dialog-cancel-button = नेवसि
 confirmation-dialog-dismiss-button =
     .title = नेवसि
+confirm-delete-dialog-message = बे हाबाखौ मावनो हायै खालामनो हाया।
 confirm-delete-dialog-confirm-button = खोमोर
 
 ## Breach Alert notification

@@ -8,6 +8,8 @@
 
 
 
+cfr-doorhanger-extension-cancel-button = दानो नङा
+    .accesskey = N
 cfr-doorhanger-extension-learn-more-link = गोबां सोलों
 
 ## Add-on statistics

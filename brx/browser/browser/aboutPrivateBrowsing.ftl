@@ -7,4 +7,6 @@ privatebrowsingpage-open-private-window-label = मोनसे प्राइ�
 about-private-browsing-info-bookmarks = बुकमाकॅफोर
 about-private-browsing-info-downloads = दावनल'दफोर
 private-browsing-title = निजि ब्राउजिं
+about-private-browsing =
+    .title = वेबौ नागिर
 about-private-browsing-not-private = नोंथाङा दासान्दि मोनसे प्राइभेट उइन्ड'आव गैया।
