@@ -33,6 +33,7 @@ printpreview-of =
     .value = o
 printpreview-custom-prompt =
     .value = Graddfa Cyfaddasu…
+printpreview-custom-scale-prompt-title = Graddfa Cyfaddasu
 printpreview-page-setup =
     .label = Gosodiad Tudalen…
     .accesskey = u
