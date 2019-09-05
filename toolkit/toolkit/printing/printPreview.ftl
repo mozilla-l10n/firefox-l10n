@@ -33,6 +33,7 @@ printpreview-of =
     .value = מתוך
 printpreview-custom-prompt =
     .value = קנה מידה מותאם אישית...
+printpreview-custom-scale-prompt-title = קנה מידה מותאם אישית
 printpreview-page-setup =
     .label = הגדרות עמוד...
     .accesskey = ה
