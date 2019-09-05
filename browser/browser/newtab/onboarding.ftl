@@ -74,6 +74,11 @@ onboarding-ghostery-text = با افزونه‌هایی مثل Ghostery که ب�
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = هم‌گام‌سازی
 onboarding-fxa-text = برای { -fxaccount-brand-name } ثبت نام کنید و نشانک‌ها، گدرواژه‌ها و زبانه‌ها را با هرجایی که از { -brand-short-name } استفاده می‌کنید، هم‌گام‌سازی نمایید.
+onboarding-tracking-protection-title2 = محافظت از ردگیری شدن
+onboarding-tracking-protection-button2 = چطور کار می‌کند
+onboarding-browse-privately-title = مرور ناشناس
+onboarding-browse-privately-text = مرور ناشناس، سابقه جستجو و مرور شما را پاک می‌کند تا آن را از دید کسانی که از کامپیوتر شما استفاده می‌کنند مخفی نگه دارد.
+onboarding-firefox-send-button = { -send-brand-name } را امتحان کنید
 
 ## Message strings belonging to the Return to AMO flow
 
