@@ -33,6 +33,7 @@ printpreview-of =
     .value = ／
 printpreview-custom-prompt =
     .value = 自訂縮放…
+printpreview-custom-scale-prompt-title = 自訂縮放
 printpreview-page-setup =
     .label = 頁面設定…
     .accesskey = u
