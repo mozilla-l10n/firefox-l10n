@@ -11,6 +11,8 @@ login-app-promo-android =
     .alt = Google Play निफ्राय ला
 login-app-promo-apple =
     .alt = App Store निफ्राय दावनलड खालाम
+login-filter =
+    .placeholder = ल'गइनफोर नागिर
 create-login-button = गोदान ल'गइन खुलि
 # This string is used as alternative text for favicon images.
 # Variables:
@@ -91,6 +93,7 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = नेवसि
 confirmation-dialog-dismiss-button =
     .title = नेवसि
+confirm-delete-dialog-title = बे ल'गइनखौ बोखारनो?
 confirm-delete-dialog-message = बे हाबाखौ मावनो हायै खालामनो हाया।
 confirm-delete-dialog-confirm-button = खोमोर
 

@@ -41,6 +41,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  listAllTabs.label      "गासै टेबखौ लिस्ट खालाम">
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "गासै टेबफोरौ नागिर">
 
 <!ENTITY tabCmd.label "गोदान टेब">
 <!ENTITY tabCmd.accesskey "T">
@@ -95,6 +96,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "गासै टेबखौ दिन्थि">
 <!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; आव साइन-इन खालाम">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; जों फिन फोनांजाब खालाम">
@@ -119,6 +121,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 
+<!ENTITY fxa.menu.account.label "एकाउन्ट">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -396,6 +399,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+<!ENTITY searchWithHeader.label       "..जों नागिर:">
 
 <!-- LOCALIZATION NOTE (searchWithDesc.label):
      This string prompts the user to use the list of one-click search engines in
@@ -405,6 +409,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "नागिरनाय सेटिंखौ सोलाय">
+<!ENTITY changeSearchSettings.tooltip "नागिरनाय सेटिंखौ सोलाय">
 
 <!ENTITY searchInNewTab.label         "गोदान टेबआव नागिर">
 

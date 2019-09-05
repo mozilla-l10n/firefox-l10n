@@ -220,8 +220,13 @@ sync-signedout-account-signin =
 
 ## Sync Section - Signed in
 
+sync-manage-account = एकाउन्ट सामलाय
+    .accesskey = o
 sync-signedin-unverified = { $email } थारबिजिरनाय जाया।
 sync-signedin-login-failure = फिन फोनांजाब खालामनो थाखाय साइन-इन खालाम { $email }
+sync-remove-account =
+    .label = एकाउन्टखौ बोखार
+    .accesskey = R
 sync-sign-in =
     .label = साइन-इन
     .accesskey = g

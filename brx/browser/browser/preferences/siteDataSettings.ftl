@@ -42,3 +42,4 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = बोखार
+site-data-removing-header = कुकिफोर आरो साइट दाटाफोरखौ बोखारगासिनो

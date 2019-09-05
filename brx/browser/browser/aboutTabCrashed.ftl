@@ -3,4 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 crashed-close-tab-button = टेबखौ बन्द खालाम
+crashed-restore-tab-button = बे टेबखौ लाबोफिन
 crashed-email-placeholder = नोंथांनि इ-मेइल थंखौ बेयाव हाबहो
