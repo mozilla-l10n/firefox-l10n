@@ -31,7 +31,7 @@
 <!ENTITY minimizeButton.tooltip       "Minimizar">
 <!ENTITY restoreButton.tooltip        "Restaurar">
 
-<!ENTITY feedsMenu.label "Se inscrever para esta página">
+<!ENTITY feedsMenu.label "Se inscrever nesta página">
 <!ENTITY feedsMenu.accesskey "S">
 
 <!ENTITY menuBar.tooltip                  "Menu (clique para exibir)">
