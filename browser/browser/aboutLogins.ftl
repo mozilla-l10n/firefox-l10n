@@ -75,12 +75,10 @@ about-logins-intro-instruction-help = Visit <a data-l10n-name="help-link">{ -loc
 login-item-new-login-title = Create New Login
 login-item-edit-button = Edit
 login-item-delete-button = Delete
-login-item-origin-label = Website Address
+login-item-origin-label = Website address
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Username
-login-item-username =
-    .placeholder = name@example.com
 about-logins-login-item-username =
     .placeholder = (no username)
 login-item-copy-username-button-text = Copy
