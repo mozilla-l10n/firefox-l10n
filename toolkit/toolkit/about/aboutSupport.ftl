@@ -32,6 +32,8 @@ app-basics-name = Tên
 app-basics-version = Phiên bản
 app-basics-build-id = ID bản dựng
 app-basics-update-channel = Kênh cập nhật
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Cập nhật thư mục
@@ -56,7 +58,6 @@ app-basics-service-workers = Các Service Worker đã đăng ký
 app-basics-profiles = Tiểu sử
 app-basics-launcher-process-status = Quá trình khởi chạy
 app-basics-multi-process-support = Các cửa sổ đa tiến trình
-app-basics-process-count = Quy trình nội dung web
 app-basics-remote-processes-count = Tiến trình từ xa
 app-basics-enterprise-policies = Chính sách doanh nghiệp
 app-basics-location-service-key-google = Khóa dịch vụ định vị Google
@@ -112,6 +113,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Tham số
 safe-mode-title = Thử dùng chế độ an toàn
 restart-in-safe-mode-label = Khởi động lại và vô hiệu hóa các tiện ích…
+
+## Media titles
+
+audio-backend = Âm thanh đầu cuối
+max-audio-channels = Kênh tối đa
+channel-layout = Bố cục kênh ưu tiên
+sample-rate = Tỷ lệ mẫu ưu tiên
 media-title = Đa phương tiện
 media-output-devices-title = Các thiết bị đầu ra
 media-input-devices-title = Thiết bị đầu vào
@@ -124,6 +132,12 @@ media-device-format = Định dạng
 media-device-channels = Kênh
 media-device-rate = Tỉ lệ
 media-device-latency = Độ trễ
+media-capabilities-title = Khả năng truyền thông
+# List all the entries of the database.
+media-capabilities-enumerate = Liệt kê cơ sở dữ liệu
+
+
+
 intl-title = Quốc tế hóa & bản địa hóa
 intl-app-title = Cài đặt ứng dụng
 intl-locales-requested = Yêu cầu ngôn ngữ
@@ -218,12 +232,7 @@ uses-tiling = Sử dụng ốp lát
 content-uses-tiling = Sử dụng ốp lát (Nội dung)
 off-main-thread-paint-enabled = Off Main Thread Painting được kích hoạt
 off-main-thread-paint-worker-count = Bộ đếm Off Main Thread Painting Worker
-low-end-machine = Đã phát hiện máy ít hiệu suất
 target-frame-rate = Tỷ lệ khung mục tiêu
-audio-backend = Âm thanh đầu cuối
-max-audio-channels = Kênh tối đa
-channel-layout = Bố cục kênh ưu tiên
-sample-rate = Tỷ lệ mẫu ưu tiên
 min-lib-versions = Phiên bản tối thiểu dự kiến
 loaded-lib-versions = Phiên bản đang dùng
 has-seccomp-bpf = Seccomp-BPF (Lọc cuộc gọi hệ thống)
