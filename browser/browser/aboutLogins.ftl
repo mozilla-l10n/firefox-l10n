@@ -14,7 +14,7 @@ create-login-button = Crear nuevo inicio de sesión
 #   $title (String) - The title of the website associated with the favicon.
 login-favicon =
     .alt = Favicon para { $title }
-fxaccounts-sign-in-text = Accede a tus contraseñas en todos tus dispositivos
+fxaccounts-sign-in-text = Acceda a sus contraseñas en todos sus dispositivos
 fxaccounts-sign-in-button = Inicia sesión en { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Administrar cuenta
@@ -47,17 +47,24 @@ login-list-name-option = Nombre (A-Z)
 login-list-last-changed-option = Última modificación
 login-list-last-used-option = Último uso
 login-list-intro-title = No se encontraron inicios de sesión
+login-list-intro-description = Cuando guarde una contraseña en { -brand-product-name }, aparecerá aquí.
 login-list-item-title-new-login = Nuevo inicio de sesión
+login-list-item-subtitle-new-login = Escriba sus credenciales de inicio de sesión
 login-list-item-subtitle-missing-username = (sin nombre de usuario)
 
 ## Introduction screen
 
+login-intro-heading = ¿Busca sus inicios de sesión guardados? Configure { -sync-brand-short-name }.
+login-intro-instruction-fxa = Cree o inicie sesión en su { -fxaccount-brand-name } en el dispositivo donde se guardan sus inicios de sesión
 
 ## Login
 
 login-item-new-login-title = Crear nuevo inicio de sesión
 login-item-edit-button = Editar
 login-item-delete-button = Eliminar
+login-item-origin-label = Dirección del sitio web
+login-item-origin =
+    .placeholder = https://www.example.com
 login-item-username-label = Nombre de usuario
 login-item-copy-username-button-text = Copiar
 login-item-copied-username-button-text = ¡Copiado!
@@ -83,11 +90,16 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
+confirm-delete-dialog-title = ¿Eliminar este inicio de sesión?
+confirm-delete-dialog-message = Esta acción no se puede deshacer.
 confirm-delete-dialog-confirm-button = Eliminar
+confirm-discard-changes-dialog-title = ¿Descartar cambios no guardados?
+confirm-discard-changes-dialog-message = Todos los cambios no guardados se perderán.
 confirm-discard-changes-dialog-confirm-button = Descartar
 
 ## Breach Alert notification
 
+breach-alert-text = Las contraseñas fueron filtradas o robadas de este sitio web desde la última vez que actualizó sus datos de inicio de sesión. Cambie su contraseña para proteger su cuenta.
 
 ## Error Messages
 

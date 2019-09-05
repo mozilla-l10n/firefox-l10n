@@ -2,10 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+protection-report-page-title = Protecciones de privacidad
+protection-report-content-title = Protecciones de privacidad
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Hoy
 cryptominer-tab-title = Criptomineros
+lockwise-header-content-logged-in = Guarde y sincronice sus contraseñas en todos sus dispositivos de manera segura.
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-sync-status =
+    { $count ->
+        [one] Sincronizando con { $count } dispositivo más
+       *[other] Sincronizando con otros { $count } dispositivos
+    }
 monitor-link = Cómo funciona
 
 ## The title attribute is used to display the type of protection.

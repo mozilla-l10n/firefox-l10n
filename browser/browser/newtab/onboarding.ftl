@@ -86,7 +86,7 @@ onboarding-fxa-text = Regístrese para tener una { -fxaccount-brand-name } y sin
 onboarding-tracking-protection-title2 = Protección contra rastreo
 onboarding-tracking-protection-text2 = { -brand-short-name } le ayuda a impedir que los sitios le rastreen en línea, por lo que será más difícil que la publicidad le siga mientras navega.
 onboarding-tracking-protection-button2 = Cómo funciona
-onboarding-data-sync-title = Llévate tus ajustes contigo
+onboarding-data-sync-title = Lleve sus ajustes consigo
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Sincronice sus marcadores, contraseñas y mucho más donde quiera que use { -brand-product-name }.
 onboarding-data-sync-button2 = Iniciar sesión en { -sync-brand-short-name }
@@ -107,7 +107,7 @@ onboarding-mobile-phone-button = Descargar navegador móvil
 onboarding-send-tabs-title = Envíese las pestañas instantáneamente
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
-onboarding-send-tabs-text = Send Tabs comparte páginas de forma instantánea entre tus dispositivos sin copiar, pegar ni abandonar el navegador.
+onboarding-send-tabs-text = Send Tabs comparte páginas de forma instantánea entre sus dispositivos sin copiar, pegar ni abandonar el navegador.
 onboarding-send-tabs-button = Empieza a usar Send Tabs
 onboarding-pocket-anywhere-title = Lee y escucha sea donde sea
 onboarding-pocket-anywhere-text2 = Guarde su contenido favorito sin conexión gracias a la aplicación de { -pocket-brand-name } y léalo, escúchelo o véalo dónde y cuándo mejor le convenga.
