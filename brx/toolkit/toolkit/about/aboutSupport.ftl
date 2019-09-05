@@ -59,6 +59,8 @@ copy-text-to-clipboard-label = फराखौ क्लिपबर्डआव
 copy-raw-data-to-clipboard-label = गोथां डाटाखौ क्लिपबर्डआव कपि खालाम
 sandbox-title = सेन्डबक्स
 sandbox-sys-call-index = #
+sandbox-sys-call-pid = PID
+sandbox-sys-call-tid = TID
 
 ## Media titles
 
@@ -117,15 +119,18 @@ try-newer-driver = नोंथांनि ग्राफिक्स ड्�
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType पेरामिटारफोर
 yes = नंगौ
+no = नङा
 unknown = मोनथिमोनै
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-process = GPUProcess
 gpu-vendor-id = भेन्डर ID
 gpu-device-id = डिभाइस ID
 gpu-subsys-id = Subsys ID
+gpu-ram = RAM
 gpu-driver-version = ड्राइभार बिसान
 gpu-driver-date = ड्राइभार अक्ट'
 gpu-active = मावथि

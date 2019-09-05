@@ -184,14 +184,24 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+go-back-button =
+    .tooltiptext = थांफिन
 
 ## Recommended add-ons page
 
 discopane-notice-learn-more = गोबां सोलों
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = मेनेज खालाम
 
 ## Add-on actions
 
 remove-addon-button = बोखार
+disable-addon-button = लोरबां खालाम
+enable-addon-button = हाहोनाय खालाम
+details-addon-button = गुवारै
+release-notes-addon-button = ओंखारनाय लिरसुंथाइ
+permissions-addon-button = गनायथि
 addons-enabled-heading = मावथि खालामबाय
 addons-disabled-heading = लोरबां जाबाय
 extension-enabled-heading = मावथि खालामबाय
@@ -204,6 +214,14 @@ dictionary-enabled-heading = मावथि खालामबाय
 dictionary-disabled-heading = लोरबां जाबाय
 locale-enabled-heading = मावथि खालामबाय
 locale-disabled-heading = लोरबां जाबाय
+ask-to-activate-button = मावथि खालामनो सों
+always-activate-button = अरायबो मावथि खालाम
+never-activate-button = माब्लाबाबो मावथि खालामनो नाङा
+addon-detail-author-label = लिरगिरि
+addon-detail-version-label = लिरस्लायनाय
+addon-detail-last-updated-label = जोबथा आपडेट खालामनाय
+addon-detail-homepage-label = ह'मबिलाइ
+addon-detail-rating-label = थाखो फारि
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -212,4 +230,13 @@ addon-name-disabled = { $name } (लोरबां जाबाय)
 ## Pending uninstall message bar
 
 pending-uninstall-undo-button = सिगांनि महराव लाबोफिन
+addon-detail-updates-radio-default = डिफल्ट
+addon-detail-updates-radio-on = अन
+addon-detail-updates-radio-off = अफ
+addon-detail-update-check-label = आपडेटफोरनि थाखाय आनजाद खालाम
+install-update-button = आपडेट खालाम
+addon-detail-private-browsing-allow = गनायथि हो
+available-updates-heading = थानाय आपडेटफोर
 recent-updates-heading = दानि आपडेट
+release-notes-loading = ल'ड खालाम गासिनो दं...
+release-notes-error = निमाहा, नाथाय ओंखारनाय लिरसुंथाइखौ ल'ड खालामनाय समाव गोरोन्थि जादों।
