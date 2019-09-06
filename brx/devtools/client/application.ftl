@@ -12,9 +12,16 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start = जागाय
+# Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
+serviceworker-worker-source = फुंखा
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
 
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = सिनायथि
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = आइकनफोर
