@@ -116,6 +116,13 @@ sandbox-sys-call-number = Системний виклик
 sandbox-sys-call-args = Аргументи
 safe-mode-title = Спробувати безпечний режим
 restart-in-safe-mode-label = Перезапустити з вимкненими додатками…
+
+## Media titles
+
+audio-backend = Обробка аудіо
+max-audio-channels = Максимальне число каналів
+channel-layout = Основний формат каналів
+sample-rate = Основна частота
 media-title = Медіа
 media-output-devices-title = Пристрої відтворення
 media-input-devices-title = Пристрої введення
@@ -128,6 +135,12 @@ media-device-format = Формат
 media-device-channels = Канали
 media-device-rate = Частота
 media-device-latency = Затримка
+media-capabilities-title = Медіа-можливості
+# List all the entries of the database.
+media-capabilities-enumerate = Перерахувати базу даних
+
+
+
 intl-title = Інтернаціоналізація та локалізація
 intl-app-title = Налаштування програми
 intl-locales-requested = Запитані локалі
@@ -248,10 +261,6 @@ content-uses-tiling = Використовує тайлінг (вміст)
 off-main-thread-paint-enabled = Вимальовування поза основним потоком увімкнено
 off-main-thread-paint-worker-count = Число воркерів вимальовування поза основним потоком
 target-frame-rate = Цільова частота кадрів
-audio-backend = Обробка аудіо
-max-audio-channels = Максимальне число каналів
-channel-layout = Основний формат каналів
-sample-rate = Основна частота
 min-lib-versions = Очікувана мінімальна версія
 loaded-lib-versions = Поточна версія
 has-seccomp-bpf = Seccomp-BPF (Фільтрування системних викликів)
