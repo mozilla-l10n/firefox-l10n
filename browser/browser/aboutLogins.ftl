@@ -6,8 +6,14 @@ about-logins-page-title = ورودها و گذرواژه‌ها
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = گذرواژه‌هایتان را همه جا با خود داشته باشید
+login-app-promo-subtitle = برنامه آزاد و رایگان { -lockwise-brand-name } را نصب کنید
+login-app-promo-android =
+    .alt = از Google Play دریافت کنید
 login-app-promo-apple =
     .alt = از App Store دریافت کنید
+login-filter =
+    .placeholder = جست‌وجو در اطلاعات ورودها
 fxaccounts-sign-in-button = ورود به { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = مدیریت حساب
