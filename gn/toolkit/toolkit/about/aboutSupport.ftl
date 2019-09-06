@@ -32,6 +32,8 @@ app-basics-name = Téra
 app-basics-version = Peteĩchagua
 app-basics-build-id = ID jejapo
 app-basics-update-channel = Ñembohekopyahu mbohapeha
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Embohekopyahu Marandurenda'aty
@@ -56,7 +58,6 @@ app-basics-service-workers = Mba'apohára mba'epytyvõrã mboguapyréva
 app-basics-profiles = Mba'etekuéra
 app-basics-launcher-process-status = Momboha jepuru
 app-basics-multi-process-support = Windows rembiapoita
-app-basics-process-count = Ñanduti Retepy Rembiapo
 app-basics-remote-processes-count = Tapereko okayguáva
 app-basics-enterprise-policies = Purureko mba'apoha rehegua
 app-basics-location-service-key-google = Google ñemoñe’ẽasa ñe’ẽñemi
@@ -112,6 +113,13 @@ sandbox-sys-call-number = Ñehenói pumbyrýpe
 sandbox-sys-call-args = Je'ekuaaite
 safe-mode-title = Eipuru teko jerovia
 restart-in-safe-mode-label = Moĩmbaha oguepyréva moñepyrũjey…
+
+## Media titles
+
+audio-backend = Mba'epu ñangarekoha huguapeguáva
+max-audio-channels = Max mbohapeha
+channel-layout = Mbohapeha ñemoĩ ojererohorýva
+sample-rate = Techaukarã py'ỹigua ojererohorýva
 media-title = Marandu myasãiha
 media-output-devices-title = Mba'e'oka osẽha
 media-input-devices-title = Mba'e'oka oikeha
@@ -124,6 +132,12 @@ media-device-format = Ysaja
 media-device-channels = Mbohapeha
 media-device-rate = Mba'erepy
 media-device-latency = Tekoteete
+media-capabilities-title = Hupytyha pyrusukue
+# List all the entries of the database.
+media-capabilities-enumerate = Embopapapy mba’ekuaarã guapyha
+
+
+
 intl-title = Mongakuaa & ñemohenda
 intl-app-title = Tembipuru'i ñemboheko
 intl-locales-requested = Ñe'ẽnguéra jerurepyre
@@ -238,12 +252,7 @@ uses-tiling = Eipuru mosáiko
 content-uses-tiling = Eipuru mosáiko (tetepy)
 off-main-thread-paint-enabled = Opyta okápe inimbo tuichavéva mbosa'yha ijurujáva
 off-main-thread-paint-worker-count = Ñemoha'anga resa'ỹijo téma tuichavéva opyta okápe
-low-end-machine = Ojehechakuaa peteĩ mohendaha hembiapo’ivéva
 target-frame-rate = Ta’anga py’ỹi hupytyrã
-audio-backend = Mba'epu ñangarekoha huguapeguáva
-max-audio-channels = Max mbohapeha
-channel-layout = Mbohapeha ñemoĩ ojererohorýva
-sample-rate = Techaukarã py'ỹigua ojererohorýva
 min-lib-versions = Peteĩchagua michĩmíva ha'arõpy
 loaded-lib-versions = Peteĩchagua ojepurúva
 has-seccomp-bpf = Seccomp-BPF (Ñehenói mboguaha rehegua)
