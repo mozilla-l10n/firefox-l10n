@@ -10,12 +10,27 @@
 
 cfr-doorhanger-extension-cancel-button = दानो नङा
     .accesskey = N
+cfr-doorhanger-extension-ok-button = दानो दाजाबदेर
+    .accesskey = A
+cfr-doorhanger-pintab-ok-button = बे टेबखो पिन खालाम
+    .accesskey = P
 cfr-doorhanger-extension-learn-more-link = गोबां सोलों
+# This string is used on a new line below the add-on name
+# Variables:
+#   $name (String) - Add-on author name
+cfr-doorhanger-extension-author = { $name } जों
 
 ## Add-on statistics
 ## These strings are used to display the total number of
 ## users and rating for an add-on. They are shown next to each other.
 
+# Variables:
+#   $total (Number) - The total number of users using the add-on
+cfr-doorhanger-extension-total-users =
+    { $total ->
+        [one] { $total } बाहायग्रा
+       *[other] { $total } बाहायग्राफोर
+    }
 
 ## These messages are steps on how to use the feature and are shown together.
 
