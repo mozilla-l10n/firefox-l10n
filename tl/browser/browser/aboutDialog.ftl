@@ -27,7 +27,7 @@ warningDesc-version = Ang { -brand-short-name } ay eksperimental at hindi pa pir
 community-exp = Ang <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ay isang <label data-l10n-name="community-exp-creditsLink">pandaigdigang komunidad</label> na sama-samang nagtutulungan upang ang Web ay mapanatiling malaya, bukas sa publiko at para sa lahat.
 community-2 = Ang { -brand-short-name } ay dinisenyo ng <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, isang <label data-l10n-name="community-creditsLink">pandaigdigang komunidad</label> na sama-samang nagtutulungan upang ang Web ay mapanatiling malaya, bukas sa publiko at para sa lahat.
 helpus = Nais mo bang tumulong? <label data-l10n-name="helpus-donateLink">Magdonasyon</label> o <label data-l10n-name="helpus-getInvolvedLink">sumali na!</label>
-bottomLinks-license = Impormasyon sa Pag-lisensya
+bottomLinks-license = Impormasyon sa Paglisensya
 bottomLinks-rights = Mga Karapatan ng Gumagamit
 bottomLinks-privacy = Patakarang Pangpribasiya
 # Example of resulting string: 66.0.1 (64-bit)
