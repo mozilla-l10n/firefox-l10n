@@ -858,6 +858,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Hak Akses">
 
+<!ENTITY identity.permissions3 "Izin">
 <!ENTITY identity.permissionsEmpty "Anda belum memberikan izin khusus apa pun untuk situs ini. ">
 <!ENTITY identity.permissionsReloadHint "Anda mungkin perlu memuat ulang laman untuk menerapkan perubahan.">
 <!ENTITY identity.permissionsPreferences.tooltip "Buka Preferensi Izin">
@@ -866,14 +867,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.settings.label "Setelan Perlindungan">
+<!ENTITY protections.showreport.label "Tampilkan Laporan">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Situs tidak berfungsi?">
+<!ENTITY protections.siteNotWorkingView.title "Situs Tidak Berfungsi?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Nonaktifkan perlindungan jika Anda memiliki masalah dengan:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Bidang log masuk">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "Formulir">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Pembayaran">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Komentar">
@@ -886,6 +893,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Diblokir">
 <!ENTITY protections.notBlocking2.label "Diizinkan">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
