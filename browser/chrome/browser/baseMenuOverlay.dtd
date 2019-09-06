@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "অ্যাড-অন সক্রিয় করে পুনরায় চালু করুন">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY healthReport2.label      "&brandShorterName; Health Report">
-<!ENTITY healthReport2.accesskey  "e">
-
 <!ENTITY helpTroubleshootingInfo.label      "সমাধান করার তথ্য">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
@@ -52,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "সব প্রদর্শন">
+
+<!ENTITY touchBarCmdMac.label           "টাচ বার কাস্টোমাইজ করুন…">

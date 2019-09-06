@@ -2,27 +2,44 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+protection-header-details-strict = সুরক্ষা স্তরটি <b> কঠোর </ b> সেট করা আছে
+protection-header-details-custom = সুরক্ষা স্তরটি <b> কাস্টম </ b> সেট করা আছে
 protection-report-page-title = গোপনীয়তা সুরক্ষা
 protection-report-content-title = গোপনীয়তা সুরক্ষা
+etp-card-title = বর্ধিত ট্র্যাকিং সুরক্ষা
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = আজ
+social-tab-title = সোশ্যাল মিডিয়া ট্র্যাকার
+cookie-tab-title = ক্রস-সাইট ট্র্যাকিং কুকিজ
+tracker-tab-title = ট্র্যাকিং কন্টেন্ট
+cryptominer-tab-title = ক্রিপ্টোমাইনার
+lockwise-title = আবার কখনো পাসওয়ার্ড ভুলে যাবেন না
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } নিরাপদভাবে ব্রাউজারে আপনার পাসওয়ার্ড সংরক্ষণ করে।
-open-about-logins-button = { -brand-short-name } এ খুলুন
+lockwise-header-content-logged-in = নিরাপদভাবে আপনার সকল ডিভাইসে আপনার পাসওয়ার্ড সংরক্ষণ করুন এবং সিঙ্ক করুন।
+about-logins-view-logins-button = লগইন সমূহ দেখুন
 turn-on-sync = { -sync-brand-short-name } চালু করুন...
     .title = সিঙ্ক পছন্দগুলোতে যান
 manage-devices = ডিভাইস ব্যবস্থাপনা
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-sync-status =
+    { $count ->
+        [one] { $count } অন্য ডিভাইসে সিঙ্ক হচ্ছে
+       *[other] { $count } অন্য ডিভাইসগুলোতে সিঙ্ক হচ্ছে
+    }
+lockwise-sync-not-syncing-devices = অন্যান্য ডিভাইসে সিঙ্ক হচ্ছে না
 monitor-title = ডাটা ফাটল সন্ধান করুন
 monitor-link = কিভাবে এটি কাজ করে
 auto-scan = আজ স্বয়ংক্রিয়ভাবে স্ক্যান করা হয়েছে
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
-info-monitored-addresses =
+info-monitored-emails =
     { $count ->
-        [one] ইমেল ঠিকানাগুলি পর্যবেক্ষণ করা হচ্ছে।
-       *[other] ইমেল ঠিকানাগুলি পর্যবেক্ষণ করা হচ্ছে।
+        [one] ইমেইল ঠিকানা পর্যবেক্ষণ করা হচ্ছে।
+       *[other] ইমেইল ঠিকানাগুলো পর্যবেক্ষণ করা হচ্ছে।
     }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = গোপনীয়তা সেটিং এ যান
@@ -36,3 +53,31 @@ go-to-saved-logins = সংরক্ষিত লগইন এ যান
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = সোশ্যাল মিডিয়া ট্র্যাকার
+    .aria-label =
+        { $count ->
+            [one] { $count } সোশ্যাল মিডিয়া ট্র্যাকার ({ $percentage }%)
+           *[other] { $count } সোশ্যাল মিডিয়া ট্র্যাকারগুলো ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = ক্রস-সাইট ট্র্যাকিং কুকিজ
+    .aria-label =
+        { $count ->
+            [one] { $count } ক্রস-সাইট ট্র্যাকিং কুকি ({ $percentage }%)
+           *[other] { $count } ক্রস-সাইট ট্র্যাকিং কুকিজ ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = ট্র্যাকিং কন্টেন্ট
+    .aria-label =
+        { $count ->
+            [one] { $count } ট্র্যাকিং কন্টেন্ট ({ $percentage }%)
+           *[other] { $count } ট্র্যাকিং কন্টেন্ট ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = ক্রিপ্টোমাইনার
+    .aria-label =
+        { $count ->
+            [one] { $count } ক্রিপ্টোমাইনার ({ $percentage }%)
+           *[other] { $count } ক্রিপ্টোমাইনার ({ $percentage }%)
+        }

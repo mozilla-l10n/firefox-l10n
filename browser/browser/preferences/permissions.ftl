@@ -67,6 +67,9 @@ permissions-exceptions-content-blocking-window =
     .title = ব্যতিক্রম - কন্টেন্ট ব্লকিং
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = আপনি এই ওয়েবসাইটগুলোতে কন্টেন্ট ব্লকিং নিস্ক্রিয় করেছেন।
+permissions-exceptions-etp-window =
+    .title = বর্ধিত ট্র্যাকিং সুরক্ষার জন্য ব্যতিক্রম
+    .style = { permissions-window.style }
 permissions-exceptions-etp-desc = আপনি এই ওয়েবসাইটে সুরক্ষা বন্ধ করেছেন।
 
 ## Exceptions - Cookies
