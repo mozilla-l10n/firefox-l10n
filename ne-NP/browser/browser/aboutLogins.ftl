@@ -52,9 +52,22 @@ login-list-count =
 login-list-sort-label-text = क्रमबद्ध गर्नुहोस्:
 login-list-name-option = नाम (A-Z)
 login-list-breached-option = Breached वेबसाइट
+login-list-last-changed-option = पछिल्लो परिमार्जित
+login-list-last-used-option = अन्तिम प्रयोग गरिएको
+login-list-intro-title = लगइनहरू फेला परेन
+login-list-intro-description = जब तपाईं पासवर्ड बचत गर्नुहुन्छ { -brand-product-name }, यो यहाँ देखिनेछ।
+about-logins-login-list-empty-search-title = लगइनहरू फेला परेन
+about-logins-login-list-empty-search-description = तपाईको खोजसँग मिल्ने कुनै परिणामहरू छैनन्।
+login-list-item-title-new-login = नयाँ लगईन
+login-list-item-subtitle-new-login = तपाईको लगईन प्रमाणहरू प्रविष्ट गर्नुहोस्
+login-list-item-subtitle-missing-username = (प्रयोगकर्ता नाम छैन)
 
 ## Introduction screen
 
+login-intro-heading = तपाईका सुरक्षित गरिएका लग ईनहरू खोज्दै हुनुहुन्छ? { -sync-brand-short-name } सेट अप गर्नुहोस्
+login-intro-description = यदि तपाईंले आफ्नो लगइनहरू { -brand-product-name }  मा बिभिन्न उपकरणमा बचत गर्नुभयो भने, तिनीहरूलाई यहाँ कसरी लिने भन्ने बारे यहाँ छ:
+login-intro-instruction-fxa = सिर्जना गर्नुहोस् वा साइन इन गर्नुहोस् तपाईंको { -fxaccount-brand-name } उपकरणमा जहाँ तपाईंको लगइनहरू बचत हुन्छन्।
+login-intro-instruction-fxa-settings = यो निश्चित गर्नुहोस् कि तपाईंले लगइन चेकबक्सलाई { -sync-brand-short-name } सेटिंग्समा चयन गर्नुभयो
 
 ## Login
 
