@@ -27,6 +27,7 @@
 <!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "नागिरना दिहुनग्राआव दिन्थि">
 <!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "डाउनल'ड फल्डारखौ दिन्थि">
 <!ENTITY cmd.retry.label                  "फिन नाजा">
 <!ENTITY cmd.goToDownloadPage.label       "डाउनल'ड बिलाइआव थां">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
@@ -34,11 +35,14 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "जारिमिन निफ्राय बोखार">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "डाउनल'डफोरखौ खोमोर">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
+<!ENTITY cmd.unblock2.label               "डाउनॱलद खालामनो गनायथि होर">
+<!ENTITY cmd.unblock2.accesskey           "o">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
@@ -58,6 +62,7 @@
      Displayed when hovering a blocked download, indicates that it's possible to
      show more information for user to take the next action.
      -->
+<!ENTITY showMoreInformation.label        "गोबां फोरमायथिहोग्राखौ दिन्थि">
 
 <!-- LOCALIZATION NOTE (openFile.label):
      Displayed when hovering a complete download, indicates that it's possible to
@@ -74,6 +79,7 @@
      Displayed when hovering a download which is able to be cancelled by users,
      indicates that it's possible to cancel and stop the download.
      -->
+<!ENTITY cancelDownload.label             "डाउनल'डखौ नेवसि">
 
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
@@ -100,11 +106,13 @@
      This string is shown at the top of the Download Details Panel, to indicate
      that we are showing the details of a single download.
      -->
+<!ENTITY downloadDetails.label            "डाउनॱलदखौ बुंफोतनाय">
 
 <!-- LOCALIZATION NOTE (openDownloadsFolder.label):
      This command is not currently available in the user interface, but the
      string was preserved by bug 1362207 to be used in a future version.
      -->
+<!ENTITY openDownloadsFolder.label        "डाउनल'ड फल्डारखौ खेव">
 
 <!ENTITY clearDownloadsButton.label       "डाउनल'डफोरखौ खोमोर">
 <!ENTITY clearDownloadsButton.tooltip     "डाउनल'डनि फुरा जानाय, बातिल जानाय आरो फेलें जानायखौ खोमोरो">

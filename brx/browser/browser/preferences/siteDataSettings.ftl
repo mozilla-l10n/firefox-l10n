@@ -5,6 +5,8 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = कुकिज आरो साइट दाटा मेनेज खालाम
 site-data-search-textbox =
     .placeholder = वेबसाइटफोर नागिर
     .accesskey = S
