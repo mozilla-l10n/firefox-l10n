@@ -22,6 +22,9 @@
 
 <!-- Field labels for input type=date -->
 
+<!ENTITY date.year.label "बोसोर">
+<!ENTITY date.month.label "मास">
+<!ENTITY date.day.label "सान">
 
 <!-- Date/time clear button -->
 
