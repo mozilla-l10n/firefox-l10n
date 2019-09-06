@@ -42,6 +42,8 @@ menu-menuitem-iphone-app = iPhone ও iPad এর জন্য { -lockwise-brand
 
 ## Login List
 
+login-list =
+    .aria-label = অনুসন্ধানের সাথে লগইন মিলেছে
 login-list-count =
     { $count ->
         [one] { $count } লগ ইন
@@ -54,6 +56,7 @@ login-list-last-used-option = সর্বশেষ ব্যবহৃত
 login-list-intro-title = কোন লগ ইন পাওয়া যায়নি
 login-list-intro-description = আপনি যখন { -brand-product-name } এ পাসওয়ার্ড সরক্ষণ করবেন, তা এখানে প্রদর্শিত হবে।
 about-logins-login-list-empty-search-title = কোনও লগইন পাওয়া যায়নি
+about-logins-login-list-empty-search-description = আপনার অনুসন্ধানের সাথে কোনও কিছু মিলছে না।
 login-list-item-title-new-login = নতুন লগইন
 login-list-item-subtitle-missing-username = (কোনও ব্যবহারকারীর নাম নেই)
 
@@ -71,8 +74,6 @@ login-item-origin-label = ওয়েবসাইটের ঠিকানা
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ব্যবহারকারীর নাম
-login-item-username =
-    .placeholder = name@example.com
 about-logins-login-item-username =
     .placeholder = (কোনও ব্যবহারকারীর নাম নেই)
 login-item-copy-username-button-text = অনুলিপি
@@ -103,6 +104,13 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = বাতিল
 confirmation-dialog-dismiss-button =
     .title = বাতিল
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] অপশনের জন্য { -sync-brand-short-name } দেখুন
+           *[other] পছন্দসমূহের জন্য { -sync-brand-short-name } দেখুন
+        }
+    .accesskey = v
 confirm-delete-dialog-title = লগইন মুছে দেওয়া হবে?
 confirm-delete-dialog-message = এই পরিবর্তনটি অপরিবর্তনীয়!
 confirm-delete-dialog-confirm-button = মুছে ফেলুন
@@ -117,3 +125,5 @@ breach-alert-dismiss =
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = এই পাসওয়ার্ডটি সংরক্ষণ করার চেষ্টা করার সময় একটি ত্রুটি ঘটেছে।

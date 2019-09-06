@@ -72,6 +72,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = অনুসৃত না হয়েই ব্রাউজ করুন
 cfr-protections-panel-link-text = আরও জানুন
 
 ## What's New toolbar button and panel

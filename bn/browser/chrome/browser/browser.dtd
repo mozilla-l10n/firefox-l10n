@@ -133,8 +133,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "আপনার ইমেইল দেখুন">
+<!ENTITY fxa.unverified.description.label "আপনি সিঙ্ক করার আগে আপনাকে নিজের অ্যাকাউন্টটি যাচাই করাতে হবে।">
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; সেটিংস খুলুন…">
 
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -145,6 +147,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "অন্য ডিভাইস সংযুক্ত করুন…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "&brandProductName; এ সাইন ইন করুন">
+<!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; চালু করুন">
+<!ENTITY fxa.menu.account.label "অ্যাকাউন্ট">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName; সার্ভিস">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -240,6 +246,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "পাতার অনুবাদ নিয়ন্ত্রণ করুন">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM সফটওয়্যারের ব্যবহার নিয়ন্ত্রণ করুন">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI প্যানেল খুলুন">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "আপনি এই সাইটের জন্য বিশেষ অনুমতি দিয়েছেন।">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "আপনি এই ওয়েব সাইটের জন্য আপনার ক্যামেরা ব্লক করেছেন।">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "আপনি এই ওয়েব সাইটের জন্য আপনার মাইক্রোফোন ব্লক করেছেন">
@@ -444,6 +452,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "রিপোর্ট এক্সটেনশন">
+<!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -798,13 +808,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "সংযোগ">
 <!ENTITY identity.connectionSecure "নিরাপদ সংযোগ">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "সংযোগ সুরক্ষা">
-
-<!ENTITY identity.connectionSecure2 "সংযোগ সুরক্ষিত">
 <!ENTITY identity.connectionNotSecure "সংযোগ নিরাপদ নয়">
+
 <!ENTITY identity.connectionNotSecureSecurityView "এই সাইটে আপনার সংযোগ সুরক্ষিত নয়।">
 <!ENTITY identity.connectionFile "এই পাতা আপনার কম্পিউটারে জমা হয়েছে।">
 <!ENTITY identity.connectionVerified2 "আপনি নিরাপদে এই সাইটে সংযুক্ত, যার মালিক:">
@@ -847,8 +852,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "অনুমোদন">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "অনুমতির সেট">
 <!ENTITY identity.permissionsEmpty "আপনি এই সাইটের জন্য কোনো বিশেষ অনুমতি দেননি।">
 <!ENTITY identity.permissionsReloadHint "পরিবর্তনগুলি প্রয়োগ করার জন্য আপনাকে পাতাটি পুনরায় লোড করার প্রয়োজন হতে পারে।">
 <!ENTITY identity.permissionsPreferences.tooltip "অনুমতির পছন্দ খুলুন">
@@ -857,7 +860,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.settings.label "সুরক্ষা সেটিং">
-<!ENTITY protections.report.label "সম্পূর্ণ প্রতিবেদন দেখুন">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -874,7 +876,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "পেমেন্ট">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "মন্তব্যসমূহ">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "ভিডিওগুলো">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "সুরক্ষা বন্ধ করার পরও সাইটটি কাজ করছে না?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "একটি রিপোর্ট পাঠান">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):

@@ -7,6 +7,7 @@ about-policies-title = এন্টারপ্রাইজ নীতি
 active-policies-tab = সক্রিয়
 errors-tab = ত্রুটি
 documentation-tab = ডকুমেন্টেশন
+no-specified-policies-message = এন্টারপ্রাইজ পলিসি পরিষেবা সক্রিয় তবে কোনও নীতি সক্রিয় নেই।
 inactive-message = এন্টারপ্রাইজ নীতি পরিষেবা নিষ্ক্রিয়।
 policy-name = পলিসি নাম
 policy-value = নীতির মূল্য

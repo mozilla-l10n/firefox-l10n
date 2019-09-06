@@ -93,6 +93,7 @@ onboarding-mobile-phone-title = আপনার ফোনে { -brand-product-na
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = মোবাইল ব্রাউজার ডাউনলোড করুন
+onboarding-send-tabs-title = তাৎক্ষনিক নিজেকে ট্যাব পাঠান
 onboarding-send-tabs-button = Send Tabs ব্যবহার শুরু করুন
 onboarding-pocket-anywhere-title = যেকোন স্থানে পড়ুন এবং শুনুন।
 onboarding-pocket-anywhere-button = { -pocket-brand-name } পরখ করুন
