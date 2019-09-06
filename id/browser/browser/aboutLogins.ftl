@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Pengaturan
        *[other] Pengaturan
     }
-menu-menuitem-feedback = Kirim Umpan Balik
-menu-menuitem-faq = Tanya-Jawab
+about-logins-menu-menuitem-help = Bantuan
 menu-menuitem-android-app = { -lockwise-brand-short-name } untuk Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } untuk iPhone dan iPad
 
@@ -56,6 +55,7 @@ login-list-last-changed-option = Terakhir Diubah
 login-list-last-used-option = Terakhir Digunakan
 login-list-intro-title = Tidak ada login ditemukan
 login-list-intro-description = Ketika Anda menyimpan kata sandi di { -brand-product-name }, itu akan muncul di sini.
+about-logins-login-list-empty-search-title = Tidak ada log masuk ditemukan
 login-list-item-title-new-login = Log Masuk Baru
 login-list-item-subtitle-new-login = Masukkan kredensial login Anda
 login-list-item-subtitle-missing-username = (tidak ada nama pengguna)
@@ -66,7 +66,7 @@ login-intro-heading = Mencari login Anda yang tersimpan? Siapkan { -sync-brand-s
 login-intro-description = Jikan Anda menyimpan login Anda di { -brand-product-name } pada perangkat lain, berikut cara mendapatkannya di sini:
 login-intro-instruction-fxa = Buat atau masuk ke { -fxaccount-brand-name } Anda pada perangkat tempat login Anda tersimpan
 login-intro-instruction-fxa-settings = Pastikan Anda telah memilih kotak centang Login pada Pengaturan { -sync-brand-short-name }
-login-intro-instruction-faq = Kunjungi <a data-l10n-name="faq">tanya-jawab</a> { -lockwise-brand-short-name } untuk bantuan lebih lanjut
+about-logins-intro-instruction-help = Kunjungi <a data-l10n-name="help-link">Bantuan { -lockwise-brand-short-name }</a>untuk bantuan lebih lanjut
 
 ## Login
 
@@ -76,10 +76,9 @@ login-item-delete-button = Hapus
 login-item-origin-label = Alamat Situs Web
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Luncurkan
 login-item-username-label = Nama Pengguna
-login-item-username =
-    .placeholder = nama@example.com
+about-logins-login-item-username =
+    .placeholder = (tidak ada nama pengguna)
 login-item-copy-username-button-text = Salin
 login-item-copied-username-button-text = Tersalin!
 login-item-password-label = Sandi
@@ -133,3 +132,13 @@ breach-alert-text = Kata sandi telah bocor atau dicuri dari situs Web ini sejak 
 breach-alert-link = Pelajari selengkapnya tentang pembobolan ini.
 breach-alert-dismiss =
     .title = Tutup peringatan ini
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Entriu untuk { $loginTitle } dengan nama pengguna tersebut sudah ada.
+# This is a generic error message.
+about-logins-error-message-default = Terjadi kesalahan saat mencoba menyimpan kata sandi ini.
