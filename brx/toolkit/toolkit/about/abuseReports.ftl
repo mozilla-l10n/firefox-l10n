@@ -6,6 +6,8 @@
 ## Panel buttons.
 
 abuse-report-cancel-button = नेवसि
+abuse-report-next-button = उननि
+abuse-report-goback-button = उनथिं थांफिन
 abuse-report-submit-button = गथाय
 
 ## Message bars descriptions.
@@ -17,6 +19,7 @@ abuse-report-submit-button = गथाय
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-retry = फिन नाजा
 abuse-report-messagebar-action-cancel = नेवसि
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)

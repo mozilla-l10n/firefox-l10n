@@ -147,6 +147,7 @@ launcher-process-status-0 = मावथि खालामबाय
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-2 = लोरबां जाबाय
+apz-none = मोनसेबो नङा
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference

@@ -75,6 +75,8 @@ detail-update-automatic =
 detail-update-manual =
     .label = अफ
     .tooltiptext = आपडेटफोरखौ गावनो गाव महरै इनष्टल खालामा
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = प्राइभेटफोरौ सोलाय
 detail-home =
     .label = ह'मबिलाइ
 detail-home-value =
@@ -193,12 +195,22 @@ discopane-notice-learn-more = गोबां सोलों
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = मेनेज खालाम
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = गोबां उफ्रा
 
 ## Add-on actions
 
 remove-addon-button = बोखार
 disable-addon-button = लोरबां खालाम
 enable-addon-button = हाहोनाय खालाम
+expand-addon-button = गोबां उफ्रा
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] उफ्रा
+       *[other] पसन्दफोर
+    }
 details-addon-button = गुवारै
 release-notes-addon-button = ओंखारनाय लिरसुंथाइ
 permissions-addon-button = गनायथि
@@ -236,6 +248,11 @@ addon-detail-updates-radio-off = अफ
 addon-detail-update-check-label = आपडेटफोरनि थाखाय आनजाद खालाम
 install-update-button = आपडेट खालाम
 addon-detail-private-browsing-allow = गनायथि हो
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = बोसोन होबाय
+    .alt = बोसोन होबाय
 available-updates-heading = थानाय आपडेटफोर
 recent-updates-heading = दानि आपडेट
 release-notes-loading = ल'ड खालाम गासिनो दं...
