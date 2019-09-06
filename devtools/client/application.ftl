@@ -61,3 +61,17 @@ serviceworker-empty-suggestions-debugger = Jalankan tiap langkah pendaftaran Ser
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Periksa Service Workers dari domain lainnya. <a>Buka about:debugging</a>
+# Header for the view of Manifest displayed in the application panel for the current page.
+manifest-view-header = Manifes Aplikasi
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Galat dan Peringatan
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Identitas
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Presentasi
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Ikon
+# Text displayed while we are loading the manifest file
+manifest-loading = Memuat manifes…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Manifes dimuat.

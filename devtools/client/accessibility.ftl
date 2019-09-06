@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Pelajari lebih lanjut
 accessibility-text-label-header = Label dan Nama Teks
+accessibility-keyboard-header = Papan Ketik
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -29,3 +30,8 @@ accessibility-text-label-issue-form-visible = Elemen formulir harus memiliki lab
 accessibility-text-label-issue-image = Konten dengan gambar harus diberi label. <a>Pelajari lebih lanjut</a>
 accessibility-text-label-issue-interactive = Elemen interaktif harus diberi label. <a>Pelajari lebih lanjut</a>
 accessibility-text-label-issue-toolbar = JIka ada lebih dari satu, bilah alat harus diberi label. <a>Pelajari lebih lanjut</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
