@@ -8,6 +8,7 @@ about-logins-page-title = ورودها و گذرواژه‌ها
 
 login-app-promo-apple =
     .alt = از App Store دریافت کنید
+fxaccounts-sign-in-button = ورود به { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = مدیریت حساب
 
@@ -22,6 +23,7 @@ menu-menuitem-preferences =
         [windows] گزینه‌ها
        *[other] ترجیحات
     }
+about-logins-menu-menuitem-help = راهنما
 
 ## Login List
 
@@ -57,6 +59,9 @@ login-item-cancel-button = انصراف
 
 ## Master Password notification
 
+master-password-reload-button =
+    .label = ورود
+    .accesskey = و
 
 ## Dialogs
 
