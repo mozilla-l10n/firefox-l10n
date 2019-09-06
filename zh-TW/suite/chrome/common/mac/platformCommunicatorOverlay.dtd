@@ -52,7 +52,7 @@
 <!ENTITY zoomWindowCmd.label            "縮放">
 
 <!-- Help menu -->
-<!ENTITY openHelpCmd.label              "&brandShortName; 說明">
+<!ENTITY openHelpCmd.label              "&brandShortName; 使用說明">
 <!ENTITY openHelpCmd.accesskey          "h">
 <!ENTITY openHelpCmd.key                "?">
 <!ENTITY openHelpCmd.modifiers          "accel">
@@ -61,4 +61,3 @@
 <!ENTITY ctrlKey.label                   "Ctrl">
 <!ENTITY altKey.label                    "Option">
 <!ENTITY shiftKey.label                  "Shift">
-
