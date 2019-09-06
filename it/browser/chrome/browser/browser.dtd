@@ -70,6 +70,9 @@
 <!ENTITY showAllTabsCmd.accesskey "h">
 <!ENTITY toggleReaderMode.key "R">
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
+<!-- Original keys: ] and }, using the characters on the same key for the Italian keyboard layout -->
+<!ENTITY togglePictureInPicture.key2 "*">
+<!ENTITY togglePictureInPicture.key "+">
 <!ENTITY fxaSignIn.label "Accedi a &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Apri le impostazioni di &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Riconnetti a &syncBrand.shortName.label;">
