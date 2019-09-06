@@ -38,7 +38,7 @@ onboarding-cards-dismiss =
 onboarding-sync-welcome-header = { -brand-product-name } 隨身帶著走
 onboarding-sync-welcome-content = 在您的各種裝置上同步書籤、瀏覽紀錄、登入資訊及其他設定。
 onboarding-sync-welcome-learn-more-link = 了解 Firefox Accounts 的更多資訊
-onboarding-sync-form-invalid-input = 必須輸入有效的電子郵件地址
+onboarding-sync-form-invalid-input = 請輸入有效的電子郵件信箱
 onboarding-sync-legal-notice = 若繼續，代表您同意<a data-l10n-name="terms">服務條款</a>及<a data-l10n-name="privacy">隱私權公告</a>。
 onboarding-sync-form-input =
     .placeholder = 電子郵件
