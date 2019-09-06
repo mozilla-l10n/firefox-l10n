@@ -250,6 +250,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestionar uso de software DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Abra panel MIDI">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Has dado permisos adicionales a este sitio.">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Has bloqueado tu cámara para este sitio.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Has bloqueado tu micrófono para este sitio.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Has bloqueado a este sitio la posibilidad de compartir tu pantalla.">
@@ -812,13 +814,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Conexión">
 <!ENTITY identity.connectionSecure "Conexión segura">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Seguridad de la conexión">
-
-<!ENTITY identity.connectionSecure2 "Conexión segura">
 <!ENTITY identity.connectionNotSecure "Conexión no segura">
+
+<!ENTITY identity.connectionSecure3 "Conexión segura">
+<!ENTITY identity.connectionNotSecure2 "Conexión no segura">
 <!ENTITY identity.connectionNotSecureSecurityView "No estás conectado de forma segura a este sitio.">
 <!ENTITY identity.connectionFile "Esta página está almacenada en tu computador.">
 <!ENTITY identity.connectionVerified2 "Estás conectado de forma segura a este sitio, perteneciente a:">
@@ -828,7 +827,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Las conexiones realizadas en esta página pueden verse comprometidas.">
 <!ENTITY identity.customRoot "Conexión verificada por un emisor de certificados que no es reconocido por Mozilla.">
 
-<!ENTITY identity.evOwnerLabel "Sitio perteneciente a:">
+<!ENTITY identity.evOwnerLabel2 "Certificado emitido para:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
@@ -864,8 +863,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Permisos">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Permisos ajustados">
+<!ENTITY identity.permissions3 "Permisos">
 <!ENTITY identity.permissionsEmpty "No has dado permisos especiales a este sitio.">
 <!ENTITY identity.permissionsReloadHint "Puede que tengas que recargar la página para que los cambios se apliquen.">
 <!ENTITY identity.permissionsPreferences.tooltip "Abrir preferencias de permisos">
@@ -878,7 +876,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Más información sobre la protección de seguimiento mejorada">
 <!ENTITY protections.settings.label "Ajustes de protección">
-<!ENTITY protections.report.label "Mostrar informe completo">
+<!ENTITY protections.showreport.label "Mostrar reporte">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -895,7 +893,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Pagos">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Comentarios">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Videos">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "¿El sitio sigue sin funcionar después de desactivar las protecciones?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Envía un reporte">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -920,7 +917,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.cryptominers.description "Los criptomineros utilizan la potencia de cómputo de tu sistema para la minería de dinero digital. Los scripts utilizados para ello consumen tu batería, relentecen tu computador e incrementan el valor de tu boleta de electricidad.">
 <!ENTITY protections.fingerprinters.description "Los creadores de huellas (Fingerprinters) recolectan ajustes de tu navegador y computador para crear un perfil tuyo. Usando esta huella digital ellos pueden seguirte a través de diferentes sitios web.">
-<!ENTITY protections.trackingContent.description "Los sitios web pueden cargar anuncios publicitarios, videos y otros elementos que contienen códigos para seguimiento. Bloquearlos contenidos de seguimiento puede ayudar a que los sitios carguen más rápido, pero algunos botones, formularios y campos para conectarse podrían dejar de funcionar.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
