@@ -79,8 +79,6 @@ login-item-origin-label = Honlap címe
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Felhasználónév
-login-item-username =
-    .placeholder = email@example.com
 about-logins-login-item-username =
     .placeholder = (nincs felhasználónév)
 login-item-copy-username-button-text = Másolás
@@ -136,3 +134,13 @@ breach-alert-text = A jelszavai kiszivárogtak vagy ellopták őket a weboldalr�
 breach-alert-link = Tudjon meg többet erről az adatsértésről.
 breach-alert-dismiss =
     .title = Figyelmeztetés bezárása
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Már létezik egy bejegyzés azzal a felhasználónévvel ennél: { $loginTitle }.
+# This is a generic error message.
+about-logins-error-message-default = Hiba történt a jelszó mentésekor.
