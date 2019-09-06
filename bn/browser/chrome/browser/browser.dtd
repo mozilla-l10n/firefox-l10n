@@ -128,6 +128,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
 <!ENTITY fxa.signin.callout.label "Firefox কে আপনার সাথে নিন">
+<!ENTITY fxa.signin.description.label "আপনার সমস্ত ডিভাইসে আপনার বুকমার্ক, ইতিহাস, পাসওয়ার্ড এবং অন্যান্য সেটিংস পাওয়া যাবে।">
 <!ENTITY fxa.signin.button.label "&syncBrand.shortName.label; চালু করুন…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
@@ -154,6 +155,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "আপনি সাইন ইন থাকা যে কোনও ডিভাইসে তাৎক্ষনিক একটি ট্যাব প্রেরণ করুন।">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -260,6 +262,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "আপনি এই ওয়েবসাইটের জন্য ক্যানভাস ডেটা নিষ্কাশন অবরোধ করেছেন।">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Adobe Flash প্লাগিন দিয়ে ওয়েবসাইটটি আপনি ব্লক করেছেন।">
 <!ENTITY urlbar.midiBlocked.tooltip              "আপনি সাইটটির জন্য MIDI এর প্রবেশ ব্লক করেছেন।">
+<!ENTITY urlbar.installBlocked.tooltip           "আপনি এই ওয়েবসাইটের জন্য অ্যাড-অন ইনস্টলেশন বন্ধ করেছেন।">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ইতিহাস দেখুন">
 
@@ -862,6 +865,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY protections.etpON.header "উন্নত ট্র্যাকিং সুরক্ষা এই সাইটের জন্য চালু আছে">
+<!ENTITY protections.etpOFF.header "উন্নত ট্র্যাকিং সুরক্ষা এই সাইটের জন্য বন্ধ আছে">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "উন্নত ট্র্যাকিং সুরক্ষা সম্পর্কে আরও তথ্য">
@@ -901,6 +905,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.socialMediaTrackers.label "সোশ্যাল মিডিয়া ট্র্যাকার">
 <!ENTITY protections.crossSiteTrackingCookies.label "ক্রস-সাইট ট্র্যাকিং কুকিজ">
 <!ENTITY protections.trackingContent.label "ট্র্যাকিং কন্টেন্ট">
+<!ENTITY protections.fingerprinters.label "ফিঙ্গারপ্রিন্টারস">
 <!ENTITY protections.cryptominers.label "ক্রিপ্টোমাইনার">
 
 

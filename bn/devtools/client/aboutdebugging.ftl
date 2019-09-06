@@ -102,6 +102,8 @@ about-debugging-setup-usb-step-enable-dev-menu2 = আপনার অ্যা�
 about-debugging-setup-usb-step-enable-debug2 = অ্যান্ড্রয়েড ডেভেলপার মেনুতে ইউএসবি ডিবাগিং সক্রিয় করুন।
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = অ্যান্ড্রয়েড ডিভাইসে Firefox এ ইউএসবি ডিবাগিং সক্রিয় করুন।
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Android ডিভাইসটিকে আপনার কম্পিউটারে সংযুক্ত করুন।
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
 about-debugging-setup-usb-troubleshoot = ইউএসবি ডিভাইসে সংযোগ স্থাপনে সমস্যা?<a> ট্রাবলশুট </a>
