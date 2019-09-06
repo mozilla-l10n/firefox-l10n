@@ -9,6 +9,15 @@ graph-week-summary =
         [one] { -brand-short-name } a bloqué { $count } traqueur au cours de la semaine passée
        *[other] { -brand-short-name } a bloqué { $count } traqueurs au cours de la semaine passée
     }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] <b>{ $count }</b> traqueur bloqué depuis { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> traqueurs bloqués depuis { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -29,6 +38,7 @@ social-tab-contant = Les réseaux sociaux placent des traqueurs sur d’autres s
 cookie-tab-title = Cookies utilisés pour le pistage entre les sites
 cookie-tab-content = Ces cookies vous suivent de site en site pour collecter des données sur vos faits et gestes en ligne. Ils sont déposés par des tiers, tels que des annonceurs ou des entreprises d’analyse de données. Bloquer les cookies utilisés pour le pistage entre les sites permet de réduire le nombre de publicités qui vous suivent d’un site à l’autre. <a data-l10n-name="learn-more-link">En savoir plus</a>
 tracker-tab-title = Contenu utilisé pour le pistage
+tracker-tab-description = Les sites web peuvent charger des publicités, des vidéos et d’autres contenus externes qui contiennent des éléments de pistage. Le blocage du contenu utilisé pour le pistage peut accélérer le chargement des sites, mais certains boutons, formulaires ou champs de connexion risquent de ne pas fonctionner. <a data-l10n-name="learn-more-link">En savoir plus</a>
 fingerprinter-tab-title = Détecteurs d’empreinte numérique
 fingerprinter-tab-content = Les détecteurs d’empreinte numérique recueillent les paramètres de votre navigateur et de votre ordinateur pour créer un profil de vous. En utilisant cette empreinte numérique, ils peuvent vous pister sur différents sites web. <a data-l10n-name="learn-more-link">En savoir plus</a>
 cryptominer-tab-title = Mineurs de cryptomonnaies
@@ -60,8 +70,34 @@ lockwise-sync-status =
 lockwise-sync-not-syncing-devices = Pas de synchronisation avec d’autres appareils
 monitor-title = Gardez un œil sur les fuites de données
 monitor-link = Principes de fonctionnement
+monitor-header-content-no-account = Consultez { -monitor-brand-name } pour vérifier si une fuite de données vous concerne et pour recevoir des alertes en cas de nouvelles fuites.
+monitor-header-content-signed-in = { -monitor-brand-name } vous alerte si vos informations apparaissent dans une fuite de données connue
 monitor-sign-up = S’inscrire aux alertes de fuites de données
 auto-scan = Vérifiées aujourd’hui automatiquement
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] adresse électronique surveillée
+       *[other] adresses électroniques surveillées
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] fuite de données connue a compromis vos informations
+       *[other] fuites de données connues ont compromis vos informations
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] mot de passe compromis parmi toutes les fuites de données
+       *[other] mots de passe compromis parmi toutes les fuites de données
+    }
 full-report-link = Consultez le rapport complet sur <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to

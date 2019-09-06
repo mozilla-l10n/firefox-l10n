@@ -10,7 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
-policy-3rdparty = Permet de fixer les stratégies auxquelles les WebExtensions peuvent accéder par chrome.storage.managed.
+policy-3rdparty = Permet de définir les stratégies auxquelles les WebExtensions peuvent accéder par chrome.storage.managed.
 policy-AppUpdateURL = Permet de définir une URL de mise à jour personnalisée pour l’application.
 policy-Authentication = Configure l’authentification intégrée pour les sites web qui la proposent.
 policy-BlockAboutAddons = Bloque l’accès au gestionnaire de modules (about:addons).
@@ -65,7 +65,8 @@ policy-LocalFileLinks = Autorise des sites précis à utiliser des liens vers de
 policy-NetworkPrediction = Permet ou interdit la prédiction réseau (prélecture DNS).
 policy-NewTabPage = Active ou désactive la page de nouvel onglet
 policy-NoDefaultBookmarks = Désactive la création des marque-pages par défaut fournis avec { -brand-short-name } ainsi que les marque-pages intelligents (sites les plus visités, sites récents). Note : cette politique ne fonctionne que si elle est activée avant le premier lancement du profil.
-policy-OfferToSaveLogins = Applique les paramètres qui permettent à { -brand-short-name } de se souvenir des identifiants et des mots de passe enregistrés. Les valeurs true et false sont toutes deux acceptées.
+policy-OfferToSaveLogins = Forcer le paramètre qui détermine si { -brand-short-name } doit proposer de mémoriser des identifiants et des mots de passe. Les valeurs true et false sont toutes deux acceptées.
+policy-OfferToSaveLoginsDefault = Définir si, par défaut, { -brand-short-name } doit proposer de mémoriser des identifiants et des mots de passe. Les valeurs true et false sont toutes deux acceptées.
 policy-OverrideFirstRunPage = Contrôle la page de premier démarrage. Laissez cette règle vide pour désactiver la page de premier démarrage.
 policy-OverridePostUpdatePage = Contrôle la page « Nouveautés » après une mise à jour. Laissez cette règle vide pour désactiver la page après mise à jour.
 policy-PasswordManagerEnabled = Active l’enregistrement des mots de passe dans le gestionnaire de mots de passe.
