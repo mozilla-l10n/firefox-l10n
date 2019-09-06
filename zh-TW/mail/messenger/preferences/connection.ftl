@@ -12,5 +12,5 @@ connection-dns-over-https-url-item-default =
 connection-dns-over-https-url-custom =
     .label = 自訂
     .accesskey = C
-    .tooltiptext = 輸入您偏好用來解析 DNS over HTTPS 的網址
+    .tooltiptext = 輸入您想要用來解析 DNS over HTTPS 的網址
 connection-dns-over-https-custom-label = 自訂
