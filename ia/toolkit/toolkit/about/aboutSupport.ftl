@@ -35,6 +35,8 @@ app-basics-name = Nomine
 app-basics-version = Version
 app-basics-build-id = ID de compilation
 app-basics-update-channel = Canal de actualisation
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Actualisar  directorio
@@ -59,7 +61,6 @@ app-basics-service-workers = Service Workers registrate
 app-basics-profiles = Profilos
 app-basics-launcher-process-status = Processo del lanceator
 app-basics-multi-process-support = Fenestras in multiprocesso
-app-basics-process-count = Processos del contento del web
 app-basics-remote-processes-count = Processos remote
 app-basics-enterprise-policies = Politicas de interprisa
 app-basics-location-service-key-google = Clave del servicio de localisation de Google
@@ -115,6 +116,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumentos
 safe-mode-title = Probar le modo secur
 restart-in-safe-mode-label = Reinitiar con le additivos inactive…
+
+## Media titles
+
+audio-backend = Backend audio
+max-audio-channels = Numero maxime de canales
+channel-layout = Disposition de canal preferite
+sample-rate = Frequentia de campion preferite
 media-title = Media
 media-output-devices-title = Apparatos de exita
 media-input-devices-title = Apparatos de entrata
@@ -127,6 +135,10 @@ media-device-format = Formato
 media-device-channels = Canales
 media-device-rate = Rata
 media-device-latency = Latentia
+media-capabilities-title = Functionalitates del medios
+
+
+
 intl-title = Internationalisation & Localisation
 intl-app-title = Parametros del application
 intl-locales-requested = Localisationes requirite
@@ -241,12 +253,7 @@ uses-tiling = Usa mosaicos
 content-uses-tiling = Usa mosaicos (contento)
 off-main-thread-paint-enabled = Pictura foras le filo de execution principal active
 off-main-thread-paint-worker-count = Quantitate de workers de pictura foras le filo de execution principal
-low-end-machine = Relevate hardware con scarse prestationes
 target-frame-rate = Objectivo de frequentia de photogrammas
-audio-backend = Backend audio
-max-audio-channels = Numero maxime de canales
-channel-layout = Disposition de canal preferite
-sample-rate = Frequentia de campion preferite
 min-lib-versions = Version minime expectate
 loaded-lib-versions = Version in uso
 has-seccomp-bpf = Seccomp-BPF (filtrage del appellos del systema)

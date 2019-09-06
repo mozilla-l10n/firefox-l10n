@@ -33,6 +33,7 @@ printpreview-of =
     .value = de
 printpreview-custom-prompt =
     .value = Personalisar le scala…
+printpreview-custom-scale-prompt-title = Personalisar le scala
 printpreview-page-setup =
     .label = Configurar le pagina…
     .accesskey = C
