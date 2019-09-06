@@ -10,5 +10,5 @@ documentation-tab = 文件
 no-specified-policies-message = 已開啟企業政策服務，但未設定任何政策。
 inactive-message = 未開啟企業政策服務。
 policy-name = 政策名稱
-policy-value = 政策值
+policy-value = 政策設定值
 policy-errors = 政策錯誤

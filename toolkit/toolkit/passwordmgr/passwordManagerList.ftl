@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 saved-logins =
-    .title = 已存帳密
+    .title = 儲存的登入資訊
 window-close =
     .key = w
 focus-search-shortcut =

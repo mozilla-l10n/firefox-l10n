@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = 傳送 “Do Not Track” 訊號，告訴網站您不想被追蹤
+do-not-track-description = 傳送「Do Not Track」訊號，告訴網站您不想被追蹤
 do-not-track-learn-more = 了解更多
 do-not-track-option-default-content-blocking-known =
     .label = 僅在 { -brand-short-name } 設定為封鎖已知追蹤器時
@@ -283,7 +283,7 @@ update-setting-write-failure-message =
     
     無法寫入下列檔案: { $path }
 update-in-progress-title = 更新中
-update-in-progress-message = 您希望 { -brand-short-name } 繼續此更新嗎？
+update-in-progress-message = 您希望 { -brand-short-name } 使用此更新繼續嗎？
 update-in-progress-ok-button = 捨棄 (&D)
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -709,8 +709,8 @@ addressbar-suggestions-settings = 修改搜尋建議偏好設定
 ## Privacy Section - Content Blocking
 
 content-blocking-header = 內容封鎖
-content-blocking-enhanced-tracking-protection = 加強型追蹤保護
 content-blocking-section-description = 在上網時保護您的隱私。封鎖會在不同網站間追蹤您上網，並對使用者進行分類的隱藏內容。封鎖這類內容也可能讓網頁更快載入。
+content-blocking-enhanced-tracking-protection = 加強型追蹤保護
 content-blocking-section-top-level-description = 追蹤器會在網路上跟蹤您，收集您的興趣與喜好。{ -brand-short-name } 會封鎖許多追蹤器與其他有害指令碼。
 content-blocking-learn-more = 了解更多
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.

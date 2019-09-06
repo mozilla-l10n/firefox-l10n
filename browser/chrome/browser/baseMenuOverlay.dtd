@@ -34,7 +34,7 @@
 <!ENTITY helpFeedbackPage.label      "送出意見回饋…">
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
-<!ENTITY helpShowTour2.label            "&brandShorterName; 導覽">
+<!ENTITY helpShowTour2.label            "&brandShorterName; 使用導覽">
 <!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "偏好設定…">
