@@ -27,7 +27,7 @@
 <!ENTITY rights.intro-point2c "找到更多關於商標的使用條款。">
 
 <!-- point 2d is technically point 3. in the list -->
-<!ENTITY rights.intro-point2d "&brandShortName; 當中的一些功能，像是程式錯誤回報員，將會讓您可以選擇是否要送出回饋給 &vendorShortName;。在送出回饋時，您必須授權 &vendorShortName; 及 Mozilla 使用您所送出的回饋內容以改善其產品、發布回饋內容於其網站，並散佈這些使用者回饋。">
+<!ENTITY rights.intro-point2d "&brandShortName; 當中的一些功能，像是程式錯誤回報員，將會讓您可以選擇是否要送出回饋給 &vendorShortName;。在送出回饋時，您必須授權 &vendorShortName; 使用您所送出的回饋內容以改善其產品、發布回饋內容於其網站，並散佈這些使用者回饋。">
 
 <!-- point 2da is technically point 3. in the list -->
 <!ENTITY rights.intro-point2da "&brandShortName; 當中的一些功能，像是程式錯誤回報員，將會讓您可以選擇是否要送出回饋給 &vendorShortName;。在送出回饋時，您必須授權 &vendorShortName; 使用您所送出的回饋內容以改善其產品、發布回饋內容於其網站，並散佈這些使用者回饋。">
