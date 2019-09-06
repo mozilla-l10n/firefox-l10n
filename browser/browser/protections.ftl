@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+graph-week-summary =
+    { $count ->
+        [one] { $count } ট্র্যাকার গত সপ্তাহে { -brand-short-name } ব্লক করেছে
+       *[other] { $count } ট্র্যাকার গত সপ্তাহে { -brand-short-name } ব্লক করেছে
+    }
 protection-header-details-strict = সুরক্ষা স্তরটি <b> কঠোর </ b> সেট করা আছে
 protection-header-details-custom = সুরক্ষা স্তরটি <b> কাস্টম </ b> সেট করা আছে
 protection-report-page-title = গোপনীয়তা সুরক্ষা
@@ -13,6 +20,7 @@ graph-today = আজ
 social-tab-title = সোশ্যাল মিডিয়া ট্র্যাকার
 cookie-tab-title = ক্রস-সাইট ট্র্যাকিং কুকিজ
 tracker-tab-title = ট্র্যাকিং কন্টেন্ট
+fingerprinter-tab-title = ফিঙ্গারপ্রিন্টারস
 cryptominer-tab-title = ক্রিপ্টোমাইনার
 lockwise-title = আবার কখনো পাসওয়ার্ড ভুলে যাবেন না
 lockwise-title-logged-in = { -lockwise-brand-name }

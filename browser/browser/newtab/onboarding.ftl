@@ -90,6 +90,7 @@ onboarding-browse-privately-button = ব্যাক্তিগত উইন্
 onboarding-firefox-send-title = আপনার শেয়ার করা ফাইলগুলো গোপন রাখুন
 onboarding-firefox-send-button = { -send-brand-name } পরখ করুন
 onboarding-mobile-phone-title = আপনার ফোনে { -brand-product-name } ডাউনলোড করুন
+onboarding-mobile-phone-text = iOS বা Android জন্য { -brand-product-name } ডাউনলোড করুন এবং ডিভাইসগুলোতে আপনার ডেটা সিঙ্ক করুন।
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = মোবাইল ব্রাউজার ডাউনলোড করুন
@@ -98,6 +99,7 @@ onboarding-send-tabs-button = Send Tabs ব্যবহার শুরু ক�
 onboarding-pocket-anywhere-title = যেকোন স্থানে পড়ুন এবং শুনুন।
 onboarding-pocket-anywhere-button = { -pocket-brand-name } পরখ করুন
 onboarding-lockwise-passwords-title = আপনার পাসওয়ার্ড সবখানে নিন।
+onboarding-lockwise-passwords-text2 = আপনি যে পাসওয়ার্ডগুলো সংরক্ষণ করেছেন সেগুলি সুরক্ষিত রাখুন এবং সহজেই আপনার অ্যাকাউন্টগুলোতে { -lockwise-brand-name } দিয়ে লগ ইন করুন।
 onboarding-lockwise-passwords-button2 = অ্যাপটি ডাউনলোড করুন
 onboarding-facebook-container-title = Facebook মাধ্যমে সীমানা নির্ধারণ করুন
 onboarding-facebook-container-button = এক্সটেনশনটি যোগ করুন
