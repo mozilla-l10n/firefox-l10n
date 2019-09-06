@@ -113,6 +113,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argument
 safe-mode-title = Prøv sikker modus
 restart-in-safe-mode-label = Start på nytt uten utvidelser …
+
+## Media titles
+
+audio-backend = Lydgrensesnitt
+max-audio-channels = Maks kanaler
+channel-layout = Foretrukket kanaloppsett
+sample-rate = Foretrukket samplingshastighet
 media-title = Medier
 media-output-devices-title = Ut-enheter
 media-input-devices-title = Inn-enheter
@@ -125,6 +132,12 @@ media-device-format = Format
 media-device-channels = Kanaler
 media-device-rate = Hastighet
 media-device-latency = Forsinkelse
+media-capabilities-title = Mediefunksjoner
+# List all the entries of the database.
+media-capabilities-enumerate = Telle opp databasen
+
+
+
 intl-title = Internasjonalisering og lokalisering
 intl-app-title = Programinnstillinger
 intl-locales-requested = Forespurte språkversjoner
@@ -240,10 +253,6 @@ content-uses-tiling = Bruker Tiling (innhold)
 off-main-thread-paint-enabled = Opptegning utenfor hovedtråd aktivert
 off-main-thread-paint-worker-count = Opptegning utenfor hovedtråd workerantall
 target-frame-rate = Mål for framerate
-audio-backend = Lydgrensesnitt
-max-audio-channels = Maks kanaler
-channel-layout = Foretrukket kanaloppsett
-sample-rate = Foretrukket samplingshastighet
 min-lib-versions = Forventet minimumsversjon
 loaded-lib-versions = Versjon i bruk
 has-seccomp-bpf = Seccomp-BPF (systemkall-filtrering)
