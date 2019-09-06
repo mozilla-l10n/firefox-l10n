@@ -47,4 +47,6 @@ accessibility-text-label-issue-toolbar = Barras del instrumentos debe ser etique
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = Le elementos focalisabile debe haber semantica interactive. <a>Saper plus</a>
 accessibility-keyboard-issue-focusable = Elementos interactive debe ser focalisabile. <a>Saper plus</a>
+accessibility-keyboard-issue-mouse-only = Le elementos cliccabile debe esser localisabile e haber semantica interactive. <a>Saper plus</a>
