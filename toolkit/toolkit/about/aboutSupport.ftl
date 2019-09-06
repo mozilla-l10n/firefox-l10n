@@ -32,6 +32,8 @@ app-basics-name = Név
 app-basics-version = Verzió
 app-basics-build-id = Build az.
 app-basics-update-channel = Frissítési csatorna
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Könyvtár frissítése
@@ -56,7 +58,6 @@ app-basics-service-workers = Regisztrált Service Workerek
 app-basics-profiles = Profilok
 app-basics-launcher-process-status = Indító folyamat
 app-basics-multi-process-support = Több folyamatú ablakok
-app-basics-process-count = Webes tartalomfolyamat
 app-basics-remote-processes-count = Távoli folyamatok
 app-basics-enterprise-policies = Vállalati házirendek
 app-basics-location-service-key-google = Google helymeghatározási szolgáltatás kulcs
@@ -112,6 +113,13 @@ sandbox-sys-call-number = Rendszerhívás
 sandbox-sys-call-args = Argumentumok
 safe-mode-title = Biztonságos mód kipróbálása
 restart-in-safe-mode-label = Újraindítás letiltott kiegészítőkkel…
+
+## Media titles
+
+audio-backend = Hang háttérprogram
+max-audio-channels = Csatornák maximum
+channel-layout = Elsődleges csatornakiosztás
+sample-rate = Elsődleges mintavételezési sebesség
 media-title = Média
 media-output-devices-title = Kimeneti eszközök
 media-input-devices-title = Bemeneti eszközök
@@ -124,6 +132,12 @@ media-device-format = Formátum
 media-device-channels = Csatornák
 media-device-rate = Sebesség
 media-device-latency = Késleltetés
+media-capabilities-title = Médiafunkciók
+# List all the entries of the database.
+media-capabilities-enumerate = Adatbázis felsorolása
+
+
+
 intl-title = Nemzetköziesítés és honosítás
 intl-app-title = Alkalmazásbeállítások
 intl-locales-requested = Kért területi beállítások
@@ -238,12 +252,7 @@ uses-tiling = Csempézés használata
 content-uses-tiling = Csempézés használata (Tartalom)
 off-main-thread-paint-enabled = Fő szálon kívüli rajzolás engedélyezve
 off-main-thread-paint-worker-count = Fő szálon kívüli rajzoló workerek száma
-low-end-machine = Kisebb teljesítményű gép érzékelve
 target-frame-rate = Cél képkockasebesség
-audio-backend = Hang háttérprogram
-max-audio-channels = Csatornák maximum
-channel-layout = Elsődleges csatornakiosztás
-sample-rate = Elsődleges mintavételezési sebesség
 min-lib-versions = Elvárt minimális verzió
 loaded-lib-versions = Használt verzió
 has-seccomp-bpf = Seccomp-BPF (rendszerhívás-szűrés)

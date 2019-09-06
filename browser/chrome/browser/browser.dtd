@@ -814,9 +814,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Kapcsolat">
 <!ENTITY identity.connectionSecure "Biztonságos kapcsolat">
-
-<!ENTITY identity.connectionSecure2 "A kapcsolat biztonságos">
 <!ENTITY identity.connectionNotSecure "A kapcsolat nem biztonságos">
+
+<!ENTITY identity.connectionSecure3 "A kapcsolat biztonságos">
+<!ENTITY identity.connectionNotSecure2 "A kapcsolat nem biztonságos">
 <!ENTITY identity.connectionNotSecureSecurityView "Nem biztonságosan kapcsolódik ehhez az oldalhoz.">
 <!ENTITY identity.connectionFile "Ez az oldal a számítógépén van tárolva.">
 <!ENTITY identity.connectionVerified2 "Biztonságosan kapcsolódott ehhez ez oldalhoz; a tulajdonosa:">
@@ -826,7 +827,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Az oldalon megadott bejelentkezési adatok nincsenek biztonságban.">
 <!ENTITY identity.customRoot "A kapcsolatot egy olyan tanúsítványkibocsátó igazolta, amelyet a Mozilla nem ismeri fel.">
 
-<!ENTITY identity.evOwnerLabel "A webhely tulajdonosa:">
+<!ENTITY identity.evOwnerLabel2 "Tanúsítvány kiállítva ennek:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "A &brandShortName; blokkolta az oldal néhány nem biztonságos elemét.">
@@ -862,9 +863,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Engedélyek">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Beállított engedélyek">
-
 <!ENTITY identity.permissions3 "Engedélyek">
 <!ENTITY identity.permissionsEmpty "Nem adott speciális engedélyeket ennek az oldalnak.">
 <!ENTITY identity.permissionsReloadHint "Lehet hogy újra kell töltenie az oldalt a változások érvényesítéséhez.">
@@ -878,7 +876,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "További információk a továbbfejlesztett követés elleni védelemről">
 <!ENTITY protections.settings.label "Védelmi beállítások">
-<!ENTITY protections.report.label "Teljes jelentés megjelenítése">
 <!ENTITY protections.showreport.label "Jelentés megjelenítése">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -896,7 +893,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Fizetések">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Megjegyzések">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Videók">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "A webhely a védelem kikapcsolása után is hibás?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Jelentés küldése">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -924,7 +920,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Ezek a sütik követik Ön oldalról oldalra, és adatokat gyűjtenek az online tevékenységéről. Ezeket olyan harmadik felek állítják be, mint a hirdetők és az elemző cégek.">
 <!ENTITY protections.cryptominers.description "A kriptobányászok az Ön rendszerének erőforrásait használják digitális pénzek bányászatához. A kriptobányászok lemerítik az akkumulátort, lelassítják a számítógépét és növelhetik a villanyszámláját.">
 <!ENTITY protections.fingerprinters.description "A ujjlenyomat-készítők beállításokat gyűjtenek a böngészőjéből és számítógépéből, hogy profilt hozzanak létre Önről. A digitális ujjlenyomat használatával követhetik Ön a különböző webhelyek között.">
-<!ENTITY protections.trackingContent.description "A weboldalak külső hirdetéseket, videókat és más tartalmakat tölthetnek be, amelyek követési kódot is tartalmazhatnak. A nyomkövető tartalmak blokkolása az oldalak gyorsabb betöltését eredményezheti, de egyes gombok, űrlapok és bejelentkezési mezők lehet, hogy nem fognak működni.">
+<!ENTITY protections.trackingContent2.description "A weboldalak külső hirdetéseket, videókat és más követési kódot tartalmazó tartalmakat tölthetnek be. A nyomkövető tartalmak blokkolása az oldalak gyorsabb betöltését eredményezheti, de egyes gombok, űrlapok és bejelentkezési mezők lehet, hogy nem fognak működni.">
 <!ENTITY protections.socialMediaTrackers.description "A közösségi hálózatok nyomkövetőket helyeznek el más weboldalakon, hogy kövessék mit tesz, lát és néz online. Így a közösségi médiával foglalkozó cégek többet tudhatnak meg Önről, mint amit megoszt a közösségimédia-profiljaiban.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.

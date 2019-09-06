@@ -9,15 +9,6 @@ graph-week-summary =
         [one] A { -brand-short-name } { $count } nyomkövetőt blokkolt az elmúlt héten
        *[other] A { -brand-short-name } { $count } nyomkövetőt blokkolt az elmúlt héten
     }
-# Variables:
-#   $count (Number) - Number of tracking events blocked.
-#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
-# earliest date recorded in the database.
-graph-total-summary =
-    { $count ->
-        [one] { $count } nyomkövető blokkolva { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } óta
-       *[other] { $count } nyomkövető blokkolva { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } óta
-    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -37,7 +28,6 @@ social-tab-title = Közösségimédia-követők
 social-tab-contant = A közösségi hálózatok nyomkövetőket helyeznek el más weboldalakon, hogy kövessék mit tesz, lát és néz online. Így a közösségi médiával foglalkozó cégek többet tudhatnak meg Önről, mint amit megoszt a közösségimédia-profiljaiban. <a data-l10n-name="learn-more-link">További tudnivalók</a>
 cookie-tab-title = Webhelyek közötti nyomkövető sütik
 tracker-tab-title = Nyomkövető tartalom
-tracker-tab-content = A weboldalak külső hirdetéseket, videókat és más tartalmakat tölthetnek be, amelyek követési kódot is tartalmazhatnak. A nyomkövető tartalmak blokkolása az oldalak gyorsabb betöltését eredményezheti, de egyes gombok, űrlapok és bejelentkezési mezők lehet, hogy nem fognak működni. <a data-l10n-name="learn-more-link">További tudnivalók</a>
 fingerprinter-tab-title = Ujjlenyomat-készítők
 fingerprinter-tab-content = A ujjlenyomat-készítők beállításokat gyűjtenek a böngészőjéből és számítógépéből, hogy profilt hozzanak létre Önről. A digitális ujjlenyomat használatával követhetik Ön a különböző webhelyek között. <a data-l10n-name="learn-more-link">További tudnivalók</a>
 cryptominer-tab-title = Kriptobányászok
@@ -46,7 +36,6 @@ lockwise-title = Ne felejtsen el egyetlen jelszót sem
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = A { -lockwise-brand-name } biztonságosan tárolja a jelszavait a böngészőjében.
 lockwise-header-content-logged-in = Tárolja biztonságosan, és szinkronizálja a jelszavait az összes eszközén.
-open-about-logins-button = Megnyitás a { -brand-short-name }ban
 lockwise-no-logins-content = Szerezze be a <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> alkalmazást, hogy bárhová elvigye a jelszavait.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -66,36 +55,33 @@ lockwise-sync-status =
         [one] Szinkronizálás { $count } további eszközre
        *[other] Szinkronizálás { $count } további eszközre
     }
-lockwise-sync-not-syncing = Nincs szinkronizálás más eszközökre.
 monitor-title = Legyen résen az adatsértések miatt.
 monitor-link = Hogyan működik
-monitor-header-content = Ellenőrizze a { -monitor-brand-name } oldalt, és nézze meg, hogy szerepelt-e valamilyen adatsértésben, és kapjon értesítést az új adatsértésekről.
-monitor-header-content-logged-in = A { -monitor-brand-name } figyelmezteti, ha az adatai új adatsértésben jelennek meg
 monitor-sign-up = Iratkozzon fel az adatsértési figyelmeztetésekre
 auto-scan = Automatikusan ellenőrizve ma
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
-info-monitored-addresses =
+info-monitored-emails =
     { $count ->
-        [one] Figyelt e-mail cím.
-       *[other] Figyelt e-mail címek.
+        [one] Figyelt e-mail cím
+       *[other] Figyelt e-mail címek
     }
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
-info-known-breaches =
+info-known-breaches-found =
     { $count ->
-        [one] Egy ismert adatsértés során kikerültek az információi.
-       *[other] Ismert adatsértések során kikerültek az információi.
+        [one] Ismert adatsértésben kerültek ki az információi
+       *[other] Ismert adatsértésben kerültek ki az információi
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
-info-exposed-passwords =
+info-exposed-passwords-found =
     { $count ->
-        [one] Az összes adatsértés során kikerült jelszó.
-       *[other] Az összes adatsértés során kikerült jelszavak.
+        [one] Adatsértés során kikerült jelszó
+       *[other] Adatsértések során kikerült jelszavak
     }
 full-report-link = A teljes jelentés megtekintése a <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> oldalon
 # This string is displayed after a large numeral that indicates the total number
