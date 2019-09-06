@@ -87,3 +87,7 @@ manifest-loaded-ok = Manifiesto cargado.
 manifest-loaded-error = Hubo un error al cargar el manifiesto:
 # Text displayed when the page has no manifest available
 manifest-non-existing = No se encontró ningún manifiesto para inspeccionar.
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Ícono de error
+    .title = Error
