@@ -2,7 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-telemetry-archive-ping-header = पिन
 about-telemetry-option-group-today = दिनै
+about-telemetry-option-group-yesterday = मैया
+about-telemetry-previous-ping = <<
+about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetry डाटा
 about-telemetry-home-section = ह'म
 about-telemetry-general-data-section = सरासनस्रा डाटा
@@ -16,6 +20,8 @@ about-telemetry-full-sql-warning = नायनो गोनां: लासै
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = बे बिलाइआ Telemetry जों बुथुमजानाय मावफुंनाय, हार्डवेयार, बाहायथि आरो गावनि गोसोबादि खालामनायनि सोमोन्दै फोरमायथिहोग्राखौ दिन्थियो। { -brand-full-name } खौ जौगा होनो मदद खालामनो बे फोरमायथिहोग्राखौ { $telemetryServerOwner } आव गथायनाय जायो।
+# used in the “Ping Type” select
+about-telemetry-telemetry-ping-type-all = गासैबो
 # button label to copy the histogram
 about-telemetry-histogram-copy = कपि खालाम
 # these strings are used in the “Slow SQL Statements” section
@@ -31,9 +37,12 @@ about-telemetry-addon-table-details = गुवारै
 #   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } होग्रा
 about-telemetry-keys-header = आखुथाय
+about-telemetry-names-header = मुं
+about-telemetry-values-header = बेसेन
 # Variables:
 #   $lateWriteCount (Integer): the number of the late writes
 about-telemetry-late-writes-title = गोबाव लिरनाय #{ $lateWriteCount }
 about-telemetry-stack-title = स्टेक:
 about-telemetry-memory-map-title = मेमरि मेप:
 about-telemetry-error-fetching-symbols = दिन्थिसिन लाबोनाय समाव मोनसे गोरोन्थि जादोंमोन। इन्टारनेटजों फोनांजाबनाय नामा आनजाद खालाम आरो फिन नाजा।
+about-telemetry-origin-count = काउन्ट
