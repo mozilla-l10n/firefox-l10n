@@ -26,6 +26,13 @@ about-debugging-sidebar-runtime-item-name-no-device =
 # USB section of the Setup page (USB status)
 about-debugging-setup-usb-status-enabled = मावथि खालामबाय
 about-debugging-setup-usb-status-disabled = लोरबां जाबाय
+# Text of a button displayed after the network locations "Host" input.
+# Clicking on it will add the new network location to the list.
+about-debugging-network-locations-add-button = दाजाबदेर
+# Text of the label for the text input that allows users to add new network locations in
+# the Connect page. A host is a hostname and a port separated by a colon, as suggested by
+# the input's placeholder "localhost:6080".
+about-debugging-network-locations-host-input-label = हस्ट
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = बोखार

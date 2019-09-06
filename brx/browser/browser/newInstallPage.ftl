@@ -8,6 +8,7 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = गोनांथि रादाब
+resources = सम्पदफोर
 sync-label = नोंथांनि इ-मेइल हाबहो
 sync-input =
     .placeholder = इ-मेइल
