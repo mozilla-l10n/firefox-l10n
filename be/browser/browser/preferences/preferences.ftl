@@ -342,6 +342,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Шукаць тэкст, калі вы пачынаеце набор
     .accesskey = ч
+browsing-picture-in-picture-toggle-enabled =
+    .label = Уключыць элементы кіравання відэа ў выяве
+    .accesskey = У
 browsing-picture-in-picture-learn-more = Падрабязней
 browsing-cfr-recommendations =
     .label = Рэкамендаваць пашырэнні цягам аглядання
@@ -605,7 +608,10 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Прапаноўваць і генераваць надзейныя паролі
     .accesskey = г
-forms-breach-alerts-learn-more-link = Даведацца больш
+forms-breach-alerts =
+    .label = Паказваць апавяшчэнні аб паролях для сайтаў, у якіх уцеклі дадзеныя
+    .accesskey = і
+forms-breach-alerts-learn-more-link = Падрабязней
 forms-fill-logins-and-passwords =
     .label = Аўтаматычна запаўняць лагіны і паролі
     .accesskey = ў
@@ -723,8 +729,8 @@ addressbar-suggestions-settings = Змяніць налады для падка�
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Блакаванне змесціва
-content-blocking-enhanced-tracking-protection = Узмоцненая ахова ад сачэння
 content-blocking-section-description = Ахоўвайце сваю прыватнасць у час аглядання. Блакуйце нябачнае змесціва, якое асочвае сайты, што вы наведваеце, і збірае ваш профіль. Блакаванне часткі гэтага змесціва можа паскорыць загрузку старонак.
+content-blocking-enhanced-tracking-protection = Узмоцненая ахова ад сачэння
 content-blocking-section-top-level-description = Трэкеры ідуць за вамі па сеціве, каб сабраць інфармацыю пра вашыя звычкі і зацікаўленасці. { -brand-short-name } блакуе многія з гэтых трэкераў і іншых зламысных скрыптоў.
 content-blocking-learn-more = Падрабязней
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
