@@ -66,5 +66,5 @@ remove-all-shown =
     .label = 移除全部顯示項目
     .accesskey = A
 remove-all-passwords-prompt = 您確定要刪除所有密碼嗎？
-remove-all-passwords-title = 移除所有密碼
+remove-all-passwords-title = 刪除所有密碼
 no-master-password-prompt = 您確定要顯示密碼嗎？
