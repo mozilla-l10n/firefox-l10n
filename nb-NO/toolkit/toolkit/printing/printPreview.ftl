@@ -33,6 +33,7 @@ printpreview-of =
     .value = av
 printpreview-custom-prompt =
     .value = Annen skala …
+printpreview-custom-scale-prompt-title = Tilpasset skala
 printpreview-page-setup =
     .label = Utskriftsformat …
     .accesskey = o
