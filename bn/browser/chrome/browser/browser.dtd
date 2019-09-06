@@ -810,6 +810,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "নিরাপদ সংযোগ">
 <!ENTITY identity.connectionNotSecure "সংযোগ নিরাপদ নয়">
 
+<!ENTITY identity.connectionSecure3 "সংযোগ সুরক্ষিত">
+<!ENTITY identity.connectionNotSecure2 "সংযোগ নিরাপদ নয়">
 <!ENTITY identity.connectionNotSecureSecurityView "এই সাইটে আপনার সংযোগ সুরক্ষিত নয়।">
 <!ENTITY identity.connectionFile "এই পাতা আপনার কম্পিউটারে জমা হয়েছে।">
 <!ENTITY identity.connectionVerified2 "আপনি নিরাপদে এই সাইটে সংযুক্ত, যার মালিক:">
@@ -852,14 +854,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "অনুমোদন">
 
+<!ENTITY identity.permissions3 "অনুমোদন">
 <!ENTITY identity.permissionsEmpty "আপনি এই সাইটের জন্য কোনো বিশেষ অনুমতি দেননি।">
 <!ENTITY identity.permissionsReloadHint "পরিবর্তনগুলি প্রয়োগ করার জন্য আপনাকে পাতাটি পুনরায় লোড করার প্রয়োজন হতে পারে।">
 <!ENTITY identity.permissionsPreferences.tooltip "অনুমতির পছন্দ খুলুন">
+<!ENTITY identity.contentBlockingPreferences.tooltip "কন্টেন্ট ব্লক করার অপশন খুলুন">
 
 
+<!ENTITY protections.etpON.header "উন্নত ট্র্যাকিং সুরক্ষা এই সাইটের জন্য চালু আছে">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "উন্নত ট্র্যাকিং সুরক্ষা সম্পর্কে আরও তথ্য">
 <!ENTITY protections.settings.label "সুরক্ষা সেটিং">
+<!ENTITY protections.showreport.label "রিপোর্ট দেখান">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -891,6 +898,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "কেন?">
+<!ENTITY protections.socialMediaTrackers.label "সোশ্যাল মিডিয়া ট্র্যাকার">
+<!ENTITY protections.crossSiteTrackingCookies.label "ক্রস-সাইট ট্র্যাকিং কুকিজ">
+<!ENTITY protections.trackingContent.label "ট্র্যাকিং কন্টেন্ট">
+<!ENTITY protections.cryptominers.label "ক্রিপ্টোমাইনার">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -931,7 +942,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.manageSettings.label "কন্টেন্ট ব্লকিং ব্যবস্থাপনা">
 
+<!ENTITY contentBlocking.trackingProtection4.label "ট্র্যাকিং কন্টেন্ট">
 
+<!ENTITY contentBlocking.manageSettings2.label "সুরক্ষা সেটিংস পরিচালনা করুন">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "ট্রাকার">
@@ -940,7 +953,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "কুকি">
 <!ENTITY contentBlocking.cookiesView.label "কুকি ও সাইট ডাটা">
 
+<!ENTITY contentBlocking.socialblock.label "সোশ্যাল মিডিয়া ট্র্যাকার">
 
+<!ENTITY contentBlocking.cookies2.label "ক্রস-সাইট ট্র্যাকিং কুকিজ">
 
 <!ENTITY contentBlocking.cryptominers.label "ক্রিপ্টোমাইনার">
 <!ENTITY contentBlocking.cryptominersView.label "ক্রিপ্টোমাইনার">
