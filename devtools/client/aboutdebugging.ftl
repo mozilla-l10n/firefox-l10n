@@ -96,12 +96,26 @@ about-debugging-setup-usb-updating-button = হালনাগাদ হচ্�
 about-debugging-setup-usb-status-enabled = সক্রিয় হয়েছে
 about-debugging-setup-usb-status-disabled = নিষ্ক্রিয় হয়েছে
 about-debugging-setup-usb-status-updating = হালনাগাদ হচ্ছে...
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = আপনার অ্যান্ড্রয়েড ডিভাইসে ডেভেলপার মেনু সক্রিয় করুন।
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = অ্যান্ড্রয়েড ডেভেলপার মেনুতে ইউএসবি ডিবাগিং সক্রিয় করুন।
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = অ্যান্ড্রয়েড ডিভাইসে Firefox এ ইউএসবি ডিবাগিং সক্রিয় করুন।
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = ইউএসবি ডিভাইসে সংযোগ স্থাপনে সমস্যা?<a> ট্রাবলশুট </a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = নেটওয়ার্ক এর অবস্থান
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = নেটওয়ার্ক অবস্থানের মাধ্যমে সংযোগ স্থাপনে সমস্যা? <a>ট্রাবলশুট </a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = যোগ
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = কোনও নেটওয়ার্ক অবস্থান এখনও যুক্ত করা হয়নি।
 # Text of the label for the text input that allows users to add new network locations in
 # the Connect page. A host is a hostname and a port separated by a colon, as suggested by
 # the input's placeholder "localhost:6080".
@@ -109,6 +123,10 @@ about-debugging-network-locations-host-input-label = হোস্ট
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = অপসারণ
+# Text used as error message if the input value was already registered in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-duplicate = হোস্ট "{ $host-value }" ইতিমধ্যে নিবন্ধিত
 
 # Runtime Page strings
 
@@ -148,6 +166,8 @@ about-debugging-connection-prompt-enable-button = দ্রুত সংযো�
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = দ্রুত সংযোগ নিষ্ক্রিয় করুন
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = প্রোফাইলার
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -165,6 +185,8 @@ about-debugging-debug-target-inspect-button = পরীক্ষা
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = অস্থায়ী অ্যাড-অন লোড করুন…
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = অস্থায়ী অ্যাড-অন ইনস্টলেশনের সময় একটি ত্রুটি হয়েছিল।
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = পুনরায় লোড
