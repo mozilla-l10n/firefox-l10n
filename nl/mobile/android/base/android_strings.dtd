@@ -540,7 +540,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY contextmenu_add_page_shortcut "Paginasnelkoppeling toevoegen">
 <!ENTITY contextmenu_set_as_homepage "Instellen als startpagina">
 <!ENTITY contextmenu_share "Delen">
-<!ENTITY contextmenu_pasteandgo "Plakken &amp; gaan">
+<!ENTITY contextmenu_pasteandgo "Plakken &amp; openen">
 <!ENTITY contextmenu_paste "Plakken">
 <!ENTITY contextmenu_copyurl "Adres kopiëren">
 <!ENTITY contextmenu_edit_bookmark "Bewerken">
