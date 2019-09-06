@@ -6,3 +6,6 @@
 <!ENTITY  paneAlarms.title        "Alarmer">
 <!ENTITY  paneCategories.title    "Kategorier">
 <!ENTITY  paneViews.title         "Utseende">
+<!ENTITY  panelHeader.title       "Kalender">
+<!ENTITY  panelReminder.title     "Påminnelser">
+<!ENTITY  panelCatecory.title     "Kategorier">

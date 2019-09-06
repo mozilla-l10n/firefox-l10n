@@ -85,7 +85,10 @@
 
 <!ENTITY lightning.imipbar.btnSend.label                                    "Send et svar nå">
 <!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Send et svar til arrangøren">
+<!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Send et svar for hele serien til arrangøren">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Send ikke et svar">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Endre deltagelsesstatusen din uten å sende et svar til arrangøren">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Endre deltagelsesstatusen din for serien uten å sende et svar til arrangøren">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
