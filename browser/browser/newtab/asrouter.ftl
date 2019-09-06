@@ -79,6 +79,8 @@ cfr-whatsnew-button =
     .label = Yang Baru
     .tooltiptext = Yang Baru
 cfr-whatsnew-panel-header = Yang Baru
+cfr-whatsnew-release-notes-link-text = Baca catatan rilis
+cfr-whatsnew-fx70-title = { -brand-short-name } kini berjuang lebih keras untuk privasi Anda
 cfr-whatsnew-tracking-protect-link-text = Lihat Laporan Anda
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
@@ -89,6 +91,8 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Sejak { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Lihat Laporan
+cfr-whatsnew-lockwise-backup-title = Cadangkan kata sandi Anda
+cfr-whatsnew-lockwise-backup-link-text = Nyalakan pencadangan
 cfr-whatsnew-lockwise-take-link-text = Dapatkan aplikasinya
 
 ## Bookmark Sync

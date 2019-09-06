@@ -22,11 +22,11 @@ about-config-pref-add-button =
 about-config-pref-toggle-button =
     .title = Aktifkan/Nonaktifkan
 about-config-pref-edit-button =
-    .title = Edit
+    .title = Sunting
 about-config-pref-save-button =
     .title = Simpan
 about-config-pref-reset-button =
-    .title = Setel Ulang
+    .title = Setel ulang
 about-config-pref-delete-button =
     .title = Hapus
 

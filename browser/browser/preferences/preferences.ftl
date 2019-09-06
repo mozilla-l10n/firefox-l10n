@@ -585,6 +585,7 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Sarankan dan hasilkan kata sandi yang kuat
     .accesskey = u
+forms-breach-alerts-learn-more-link = Pelajari lebih lanjut
 forms-saved-logins =
     .label = Info Masuk Tersimpan…
     .accesskey = I
@@ -698,6 +699,7 @@ addressbar-suggestions-settings = Ubah pengaturan untuk saran mesin pencari
 
 content-blocking-header = Pemblokiran Konten
 content-blocking-section-description = Lindungi privasi Anda saat menjelajah. Blokir konten tak terlihat yang melacak situs yang Anda kunjungi dan profil Anda. Memblokir sebagian konten ini dapat membuat laman dimuat lebih cepat.
+content-blocking-enhanced-tracking-protection = Perlindungan Pelacakan yang Ditingkatkan
 content-blocking-learn-more = Pelajari Lebih Lanjut
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
