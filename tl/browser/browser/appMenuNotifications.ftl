@@ -35,7 +35,7 @@ appmenu-update-restart-message = Matapos ang isang mabilis na pag-restart, { -br
 appmenu-addon-private-browsing-installed =
     .buttonlabel = OK, nakuha ko
     .buttonaccesskey = O
-appmenu-addon-post-install-message = Pindutin ang <image data-l10n-name='addon-install-icon'></image> upang i-manage ang iyong mga add-on sa menu ng <image data-l10n-name='addon-menu-icon'></image>.
+appmenu-addon-post-install-message = Pindutin ang <image data-l10n-name='addon-install-icon'></image> para i-manage ang iyong mga add-on sa <image data-l10n-name='addon-menu-icon'> menu.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Payagan ang extension na ito upang tumakbo sa mga Pribadong Window
     .accesskey = A
