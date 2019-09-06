@@ -44,7 +44,7 @@ policy-DisableSystemAddonUpdate = Annak a megakadályozása, hogy a böngésző 
 policy-DisableTelemetry = Telemetria kikapcsolása.
 policy-DisplayBookmarksToolbar = A Könyvjelző eszköztár megjelenítése alapértelmezetten.
 policy-DisplayMenuBar = A Menüsáv megjelenítése alapértelmezetten.
-policy-DNSOverHTTPS = HTTPS feletti DNS beállítása.
+policy-DNSOverHTTPS = HTTPS-en keresztüli DNS beállítása.
 policy-DontCheckDefaultBrowser = Az alapértelmezett böngésző ellenőrzés kikapcsolása indításkor.
 policy-DownloadDirectory = A letöltési könyvtár beállítása és zárolása.
 # “lock” means that the user won’t be able to change this setting
@@ -74,7 +74,6 @@ policy-Preferences = Értékek beállítása és zárolása a beállítások egy
 policy-PromptForDownloadLocation = Kérdezze meg, hogy hová legyenek letöltve a fájlok.
 policy-Proxy = Proxy-beállítások konfigurálása.
 policy-RequestedLocales = Adja meg a kért területi beállításokat az alkalmazásnak, az Ön által előnyben részesített sorrendben.
-policy-SanitizeOnShutdown = Összes navigációs adat törlése leállításkor.
 policy-SanitizeOnShutdown2 = Navigációs adatok törlése leállításkor.
 policy-SearchBar = A keresősáv alapértelmezett helyének megadása. A felhasználó továbbra is testreszabhatja.
 policy-SearchEngines = Keresőszolgáltatások beállításainak konfigurálása. Ez a házirend csak a kibővített támogatású kiadásban (ESR) érhető el.
