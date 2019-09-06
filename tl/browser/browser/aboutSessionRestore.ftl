@@ -31,7 +31,7 @@ restore-page-close-button =
 
 welcome-back-tab-title = Tagumpay!
 welcome-back-page-title = Tagumpay!
-welcome-back-page-info = Ang { -brand-short-name } ay handa na.
+welcome-back-page-info = Handa na ang { -brand-short-name }.
 welcome-back-restore-button =
     .label = Tara!
     .accesskey = T

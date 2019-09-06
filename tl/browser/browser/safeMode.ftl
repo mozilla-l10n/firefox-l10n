@@ -9,7 +9,7 @@ start-safe-mode =
     .label = Magsimula sa Safe Mode
 refresh-profile =
     .label = I-refresh ang { -brand-short-name }
-safe-mode-description = Safe Mode ay isang espesyal na mode ng { -brand-short-name } na maaaring magamit upang i-troubleshoot ang mga isyu.
+safe-mode-description = Ang Safe Mode ay isang special mode ng { -brand-short-name } na maaaring magamit para makapag-troubleshoot ng mga isyu.
 safe-mode-description-details = Ang iyong mga add-on at mga pasadyang setting ay pansamantalang madi-disable, at ang mga feature ng { -brand-short-name } ay maaaring hindi gumana gaya ng nakagawian.
 refresh-profile-instead = Pwede mong laktawan ang troubleshooting at subukan na i-refresh muli ang { -brand-short-name }.
 # Shown on the safe mode dialog after multiple startup crashes. 

@@ -745,6 +745,7 @@ content-blocking-strict-description = Mas malakas na proteksyon, maaaring maging
 content-blocking-custom-desc = Piliin kung ano ang i-block.
 content-blocking-private-trackers = Mga kilalang tracker lamang sa mga Private Window
 content-blocking-third-party-cookies = Mga Third-party na tracking cookie
+content-blocking-etp-standard-desc = Balansado para sa proteksyon at performance. Normal na maglo-load ang mga pahina.
 content-blocking-etp-strict-desc = Mas malakas na proteksyon, pero maaaring ikasira ng ilang mga site o content.
 content-blocking-etp-custom-desc = Piliin kung aling mga tracker at scripts ang dapat harangin.
 content-blocking-private-windows = Tracking content sa mga Private Window
