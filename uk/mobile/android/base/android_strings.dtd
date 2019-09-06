@@ -36,6 +36,8 @@
 
 <!ENTITY firstrun_signin_button2 "Увійти">
 
+<!ENTITY firstrun_signup_button "Зареєструватись">
+
 <!ENTITY firstrun_tabqueue_title "Посилання">
 
 <!ENTITY firstrun_readerview_title "Статті">
@@ -597,7 +599,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Адреса">
 <!ENTITY bookmark_edit_keyword "Ключове слово">
 <!ENTITY bookmark_select_folder "Обрати теку">
-
 <!ENTITY bookmark_edit_undo "Повернути">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -881,11 +882,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Додавайте закладки для елементів режиму читання, щоб читати їх без Інтернету.">
 <!ENTITY helper_triple_readerview_open_button "Додати до закладок">
 
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Вітаємо в &brandShortName;">
 <!ENTITY activity_stream_signin_description "Почніть синхронізувати закладки, паролі та інші дані з Обліковим записом Firefox.">
 <!ENTITY activity_stream_signin_button "Увійти">
-<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
-These labels are shown in the Activity Stream recommending the user to sign in. -->
+
+<!ENTITY activity_stream_signup_button "Зареєструватись">
+<!ENTITY activity_stream_signin_prompt "Вже маєте обліковий запис?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Увійти.">
 
 <!ENTITY activity_stream_topsites "Популярні сайти">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
