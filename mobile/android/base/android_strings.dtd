@@ -34,6 +34,10 @@
 <!ENTITY firstrun_button_notnow "هم‌اکنون نه">
 <!ENTITY firstrun_button_next "بعدی">
 
+<!ENTITY firstrun_signin_button2 "وارد شدن">
+
+<!ENTITY firstrun_signup_button "ثبت نام کردن">
+
 <!ENTITY firstrun_tabqueue_title "پیوندها">
 
 <!ENTITY firstrun_readerview_title "مقالات">
@@ -595,7 +599,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "مکان">
 <!ENTITY bookmark_edit_keyword "کلیدواژه">
 <!ENTITY bookmark_select_folder "انتخاب پوشه">
-
 <!ENTITY bookmark_edit_undo "واگرد">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -875,6 +878,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "به صورت آفلاین در دسترس است">
 <!ENTITY helper_triple_readerview_open_message "نمایش موارد نشانک های مطالعه جهت مطالعه آن ها به صورت آفلاین.">
 <!ENTITY helper_triple_readerview_open_button "اضافه کردن به نشانک‌ها">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "به &brandShortName; خوش آمدید">
+<!ENTITY activity_stream_signin_description "شروع به همگام سازی نشانک‌ها،‌ گذرواژه ها و چیزهای بیشتر با حساب فایرفاکس شما.">
+<!ENTITY activity_stream_signin_button "وارد شدن">
+
+<!ENTITY activity_stream_signup_button "ثبت نام کردن">
+<!ENTITY activity_stream_signin_prompt "شما در حال حاضر حساب کاربری دارید؟">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "وارد شدن.">
 
 <!ENTITY activity_stream_topsites "سایت‌های برتر">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
