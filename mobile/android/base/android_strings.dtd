@@ -34,7 +34,9 @@
 <!ENTITY firstrun_button_notnow "Όχι τώρα">
 <!ENTITY firstrun_button_next "Επόμενο">
 
+<!ENTITY firstrun_signin_button2 "Σύνδεση">
 
+<!ENTITY firstrun_signup_button "Εγγραφή">
 
 <!ENTITY firstrun_tabqueue_title "Σύνδεσμοι">
 
@@ -883,8 +885,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
 activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "Καλώς ήλθατε στο &brandShortName;">
+<!ENTITY activity_stream_signin_button "Σύνδεση">
 
+<!ENTITY activity_stream_signup_button "Εγγραφή">
+<!ENTITY activity_stream_signin_prompt "Έχετε ήδη λογαριασμό;">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Σύνδεση.">
 
 <!ENTITY activity_stream_topsites "Κορυφαίες ιστοσελίδες">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
