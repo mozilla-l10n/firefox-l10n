@@ -14,11 +14,11 @@ graph-week-summary =
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
 # earliest date recorded in the database.
-graph-total-summary =
+graph-total-tracker-summary =
     { $count ->
-        [one] Nuo { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } buvo užblokuotas { $count } stebėjimo elementas
-        [few] Nuo { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } buvo užblokuoti { $count } stebėjimo elementai
-       *[other] Nuo { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } buvo užblokuota { $count } stebėjimo elementų
+        [one] Nuo { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } buvo užblokuotas <b>{ $count }</b> stebėjimo elementas
+        [few] Nuo { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } buvo užblokuoti <b>{ $count }</b> stebėjimo elementai
+       *[other] Nuo { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } buvo užblokuota <b>{ $count }</b> stebėjimo elementų
     }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -40,7 +40,7 @@ social-tab-contant = Socialiniai tinklai deda stebėjimo elementus kitose svetai
 cookie-tab-title = Tarp svetainių veikiantys stebėjimo slapukai
 cookie-tab-content = Šie slapukai seka jus tarp skirtingų svetainių, rinkdami informaciją, ką veikiate naršydami. Jie yra valdomi trečiųjų šalių, pvz., reklamų kūrėjų arba analitikos kompanijų. Juos blokuodami sumažinsite jus sekančių reklamų kiekį. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
 tracker-tab-title = Stebėjimui naudojamas turinys
-tracker-tab-content = Svetainės gali įkelti išorines reklamas, vaizdo įrašus, ir kitą stebėjimo kodo turintį turinį. Tokio turinio blokavimas gali leisti gerčiau įkelti svetaines, tačiau kartu gali neveikti dalis mygtukų, formų, prisijungimo laukų. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
+tracker-tab-description = Svetainės gali įkelti išorines reklamas, vaizdo įrašus, ir kitą turinį su stebėjimo kodu. Tokio turinio blokavimas gali leisti gerčiau įkelti svetaines, tačiau kartu gali neveikti dalis mygtukų, formų, prisijungimo laukų. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
 fingerprinter-tab-title = Skaitmeninių atspaudų stebėjimas
 fingerprinter-tab-content = Skaitmeninių atspaudų stebėjimo metu surenkama informacija apie jūsų naršyklės ir kompiuterio parametrus, kad būtų sudarytas jūsų profilis. Jį turint, jus galima sekti tarp skirtingų svetainių. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
 cryptominer-tab-title = Kriptovaliutų kasėjai
@@ -49,7 +49,6 @@ lockwise-title = Daugiau nepamirškite nė vieno slaptažodžio
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = „{ -lockwise-brand-name }“ saugiai įrašo slaptažodžius į jūsų naršyklę.
 lockwise-header-content-logged-in = Saugiai laikykite ir sinchronizuokite slaptažodžius tarp visų savo įrenginių.
-open-about-logins-button = Atverti per „{ -brand-short-name }“
 about-logins-view-logins-button = Peržiūrėti prisijungimus
 lockwise-no-logins-content = Naudokite programą <a data-l10n-name="lockwise-inline-link">„{ -lockwise-brand-name }“</a>, norėdami savo slaptažodžius turėti visur.
 # This string is displayed after a large numeral that indicates the total number
@@ -72,39 +71,39 @@ lockwise-sync-status =
         [few] Sinchronizuojama su { $count } kitais įrenginiais
        *[other] Sinchronizuojama su { $count } kitų įrenginių
     }
-lockwise-sync-not-syncing = Nesinchronizuojama su kitais įrenginiais.
+lockwise-sync-not-syncing-devices = Nesinchronizuojama su kitais įrenginiais
 monitor-title = Būkite informuoti apie duomenų pažeidimus
 monitor-link = Kaip tai veikia
-monitor-header-content = „{ -monitor-brand-name }“ pateikia informaciją apie tai, ar jūsų duomenys yra patekę tarp nutekėjusių, ir gali pranešti apie naujus pažeidimus.
-monitor-header-content-logged-in = „{ -monitor-brand-name }“ perspėja, kai jūsų duomenys pasirodo žinomuose duomenų nutekėjimuose
+monitor-header-content-no-account = „{ -monitor-brand-name }“ pateikia informaciją apie tai, ar jūsų duomenys yra patekę tarp nutekėjusių, ir gali pranešti apie naujus pažeidimus.
+monitor-header-content-signed-in = „{ -monitor-brand-name }“ perspėja, kai jūsų duomenys pasirodo žinomuose duomenų nutekėjimuose.
 monitor-sign-up = Gauti įspėjimus apie duomenų nutekėjimus
 auto-scan = Automatiškai skenuota šiandien
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
-info-monitored-addresses =
+info-monitored-emails =
     { $count ->
-        [one] stebimas el. pašto adresas.
-        [few] stebimi el. pašto adresai.
-       *[other] stebimų el. pašto adresų.
+        [one] stebimas el. pašto adresas
+        [few] stebimi el. pašto adresai
+       *[other] stebimų el. pašto adresų
     }
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
-info-known-breaches =
+info-known-breaches-found =
     { $count ->
-        [one] žinomas duomenų nutekėjimas atskleidė jūsų informaciją.
-        [few] žinomi duomenų nutekėjimai atskleidė jūsų informaciją.
-       *[other] žinomų duomenų nutekėjimų atskleidė jūsų informaciją.
+        [one] žinomas duomenų nutekėjimas atskleidė jūsų informaciją
+        [few] žinomi duomenų nutekėjimai atskleidė jūsų informaciją
+       *[other] žinomų duomenų nutekėjimų atskleidė jūsų informaciją
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
-info-exposed-passwords =
+info-exposed-passwords-found =
     { $count ->
-        [one] atskleistas slaptažodis tarp visų nutekėjimų.
-        [few] atskleisti slaptažodžiai tarp visų nutekėjimų.
-       *[other] atskleistų slaptažodžių tarp visų nutekėjimų.
+        [one] atskleistas slaptažodis tarp visų nutekėjimų
+        [few] atskleisti slaptažodžiai tarp visų nutekėjimų
+       *[other] atskleistų slaptažodžių tarp visų nutekėjimų
     }
 full-report-link = Peržiūrėti visą ataskaitą per <a data-l10n-name="monitor-inline-link">„{ -monitor-brand-name }“</a>
 # This string is displayed after a large numeral that indicates the total number
