@@ -126,6 +126,9 @@ newtab-section-menu-privacy-notice = गुमुरथि मिथिसार
 
 newtab-section-header-topsites = गिबि साइटफोर
 newtab-section-header-highlights = हाइलाइटफोर
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = { $provider } आ बसोन होनाइ
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 

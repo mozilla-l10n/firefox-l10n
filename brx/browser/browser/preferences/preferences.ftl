@@ -181,7 +181,7 @@ use-current-pages =
         }
     .accesskey = द
 choose-bookmark =
-    .label = बुकमाकॅखौ... बाहाय
+    .label = बुकमाकॅखौ बाहाय...
     .accesskey = ब
 
 ## Home Section - Firefox Home Content Customization

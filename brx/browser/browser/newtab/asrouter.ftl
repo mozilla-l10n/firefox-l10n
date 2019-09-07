@@ -12,7 +12,7 @@ cfr-doorhanger-extension-cancel-button = दानो नङा
     .accesskey = N
 cfr-doorhanger-extension-ok-button = दानो दाजाबदेर
     .accesskey = A
-cfr-doorhanger-pintab-ok-button = बे टेबखो पिन खालाम
+cfr-doorhanger-pintab-ok-button = बे टेबखौ पिन खालाम
     .accesskey = P
 cfr-doorhanger-extension-learn-more-link = गोबां सोलों
 # This string is used on a new line below the add-on name
@@ -34,6 +34,8 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = पिन खालामनो थाखाय टेब आव<b>आगदा क्लिक</b> खालाम।
+cfr-doorhanger-pintab-step2 = <b>पिन टेब</b> खौ मेनु निफ्राय सायख।
 cfr-doorhanger-pintab-animation-pause = थाद' हो
 cfr-doorhanger-pintab-animation-resume = फिन जागाय
 
@@ -50,15 +52,23 @@ cfr-whatsnew-button =
     .label = मा गोदान
     .tooltiptext = मा गोदान
 cfr-whatsnew-panel-header = मा गोदान
+cfr-whatsnew-lockwise-take-link-text = आपखौ ला
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = बे बुकमार्क खौ फन आव ला
+cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } अन खालाम
+    .accesskey = T
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } अन खालाम
+    .accesskey = T
 
 ## Send Tab
 
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } नाजा
+    .accesskey = T
