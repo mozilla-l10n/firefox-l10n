@@ -18,7 +18,7 @@ about-config-pref-save = ذخیره
 about-config-pref-reset = بازنشانی
 about-config-pref-delete = حذف
 about-config-pref-add-button =
-    .title = اضافه کردن
+    .title = افزودن
 about-config-pref-toggle-button =
     .title = تغییر وضعیت
 about-config-pref-edit-button =
@@ -26,7 +26,7 @@ about-config-pref-edit-button =
 about-config-pref-save-button =
     .title = ذخیره
 about-config-pref-reset-button =
-    .title = بازنشانی
+    .title = مقدار اولیه
 about-config-pref-delete-button =
     .title = حذف
 

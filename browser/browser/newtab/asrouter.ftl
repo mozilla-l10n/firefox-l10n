@@ -72,9 +72,13 @@ cfr-whatsnew-button =
     .label = تازه‌ها
     .tooltiptext = تازه‌ها
 cfr-whatsnew-panel-header = تازه‌ها
+cfr-whatsnew-tracking-blocked-link-text = نمایش گزارش
+cfr-whatsnew-lockwise-backup-link-text = فعال‌سازی پشتیبان گیری
+cfr-whatsnew-lockwise-take-link-text = دریافت اپ
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = این نشانک را بر روی تلفن خود دریافت کنید
 
 ## Login Sync
 

@@ -79,6 +79,7 @@ onboarding-tracking-protection-text2 = { -brand-short-name } کمک می‌کن�
 onboarding-tracking-protection-button2 = چطور کار می‌کند
 onboarding-browse-privately-title = مرور ناشناس
 onboarding-browse-privately-text = مرور ناشناس، سابقه جستجو و مرور شما را پاک می‌کند تا آن را از دید کسانی که از کامپیوتر شما استفاده می‌کنند مخفی نگه دارد.
+onboarding-browse-privately-button = یک پنجره ناشناس باز کنید
 onboarding-firefox-send-button = { -send-brand-name } را امتحان کنید
 
 ## Message strings belonging to the Return to AMO flow
