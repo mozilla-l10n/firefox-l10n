@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-learn-more = गोबां सोलों
+do-not-track-option-always =
+    .label = जेब्लायबो
 pref-page =
     .title =
         { PLATFORM() ->
@@ -13,6 +15,8 @@ pane-general-title = सरासनस्रा
 category-general =
     .tooltiptext = { pane-general-title }
 pane-home-title = ह'म
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = नागिर
 category-search =
     .tooltiptext = { pane-search-title }
@@ -31,6 +35,7 @@ close-button =
 feature-enable-requires-restart = बे आखुथायखौ हाहोनाय खालामनो { -brand-short-name } खौ फिन जागायनांगोन।
 feature-disable-requires-restart = बे आखुथायखौ लोरबां खालामनो { -brand-short-name } खौ फिन जागायनांगोन।
 should-restart-title = { -brand-short-name } फिन जागाय
+should-restart-ok = { -brand-short-name } खौ दानो फिनजागाय
 cancel-no-restart-button = नेवसि
 restart-later = उनाव फिन जागाय
 
@@ -47,6 +52,8 @@ restart-later = उनाव फिन जागाय
 
 ## Preferences UI Search Results
 
+search-results-header = नागिरनायनि फिन
+search-results-help-link = हेफाजाब नांगौ ? <a data-l10n-name="url">{ -brand-short-name } हेफाजाब </a> आव थां
 
 ## General Section
 
@@ -60,6 +67,8 @@ get-started-not-logged-in = { -sync-brand-short-name } आव साइन-इ�
 get-started-configured = पसन्दफोर { -sync-brand-short-name } खेव
 is-default = { -brand-short-name } आ दासान्दि नोंथांनि डिफल्ट ब्राउजार
 is-not-default = { -brand-short-name } आ नोंथांनि डिफल्ट ब्राउजार नङा
+startup-restore-warn-on-quit =
+    .label = ब्रावजार नागारनायनि सिगां नोंनो फोरमायगोन
 tabs-group-header = टेब
 show-tabs-in-taskbar =
     .label = टेब गिबिनुथाइखौ उइन्ड' टास्कबाराव दिन्थि

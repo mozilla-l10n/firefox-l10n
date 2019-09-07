@@ -54,6 +54,7 @@ cfr-whatsnew-button =
     .tooltiptext = मा गोदान
 cfr-whatsnew-panel-header = मा गोदान
 cfr-whatsnew-tracking-protect-link-text = नोंथांनि रिपर्ट खौ नाय
+cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } निफ्रायनो
 cfr-whatsnew-tracking-blocked-link-text = रिपर्ट खौ नाय
 cfr-whatsnew-lockwise-backup-link-text = बेकआपफोरखौ अन खालाम
 cfr-whatsnew-lockwise-take-link-text = आपखौ ला
