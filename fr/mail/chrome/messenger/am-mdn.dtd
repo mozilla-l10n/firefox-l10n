@@ -22,7 +22,7 @@
 <!ENTITY returnSome.accesskey         "r">
 <!ENTITY never.label                  "Ne jamais envoyer d’accusé de réception">
 <!ENTITY never.accesskey              "N">
-<!ENTITY notInToCc.label              "Si je ne suis pas dans le destinataire ou en copie du message :">
+<!ENTITY notInToCc.label              "Si je ne suis ni le destinataire ni en copie du message :">
 <!ENTITY notInToCc.accesskey          "S">
 <!ENTITY outsideDomain.label          "Si l’expéditeur est hors de mon domaine :">
 <!ENTITY outsideDomain.accesskey      "x">
