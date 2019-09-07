@@ -93,6 +93,7 @@ choose-language-description = पेजफोर डिसफ्ले खाल
 choose-button =
     .label = Choose…
     .accesskey = o
+confirm-browser-language-change-description = सोलायनायखौ बाहायनो थाखाय { -brand-short-name }खौ फिनजागाय
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = जों राव सोलायनाय <img data-l10n-name="logo"/>
