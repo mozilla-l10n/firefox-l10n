@@ -185,9 +185,14 @@ menu-bookmarks-toolbar =
     .label = Marka
 menu-bookmarks-other =
     .label = Inka markador
+menu-bookmarks-mobile =
+    .label = Markador kaa ndusu
 
 ## Tools Menu
 
+menu-tools =
+    .label = Herramientas
+    .accesskey = H
 menu-tools-downloads =
     .label = Snuù
     .accesskey = D
@@ -206,6 +211,12 @@ menu-tools-sync-re-auth =
 menu-tools-web-developer =
     .label = Kue ña sa'à
     .accesskey = W
+menu-tools-page-source =
+    .label = Código fuente de esta página
+    .accesskey = o
+menu-tools-page-info =
+    .label = Tu'un tsa página yo
+    .accesskey = I
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -217,6 +228,9 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = Nda saa diseño
+    .accesskey = L
 
 ## Window Menu
 
@@ -231,3 +245,6 @@ menu-help =
 menu-help-product =
     .label = { -brand-shorter-name } Chinchee
     .accesskey = H
+menu-help-show-tour =
+    .label = { -brand-shorter-name } Kunchee
+    .accesskey = o

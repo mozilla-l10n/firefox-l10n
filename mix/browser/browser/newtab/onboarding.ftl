@@ -33,6 +33,7 @@ onboarding-sync-form-input =
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Chaa korreoku
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
