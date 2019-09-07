@@ -86,6 +86,7 @@ cfr-whatsnew-release-notes-link-text = Lege le notas de version
 cfr-whatsnew-fx70-title = { -brand-short-name } lucta ora plus fortemente pro tu confidentialitate
 cfr-whatsnew-fx70-body = Le ultime actualisation meliora le functionalitate de protection del traciamento e rende plus facile que mais crear contrasignos secur pro cata sito.
 cfr-whatsnew-tracking-protect-title = Protege te ab le traciatores
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } bloca multe commun traciatores, social e tra sitos, que seque lo que tu face online.
 cfr-whatsnew-tracking-protect-link-text = Vide tu reporto
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
@@ -101,6 +102,7 @@ cfr-whatsnew-lockwise-backup-title = Reserva tu contrasignos
 cfr-whatsnew-lockwise-backup-body = Genera contrasignos secur pro acceder ab cata apparato connexe a tu conto.
 cfr-whatsnew-lockwise-backup-link-text = Activar le salvamentos
 cfr-whatsnew-lockwise-take-title = Porta tu contrasignos con te
+cfr-whatsnew-lockwise-take-body = Le application mobile { -lockwise-brand-short-name } te pone in grado de acceder ab ubique e con securitate a tu contrasignos reservate.
 cfr-whatsnew-lockwise-take-link-text = Discarga le app
 
 ## Bookmark Sync
