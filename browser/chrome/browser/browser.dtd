@@ -890,7 +890,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Зашто?">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Ако искључите заштиту, дозволићете пратиоце на овој страници. Овим можете побољшати рад ове веб странице.">
+<!ENTITY protections.socialMediaTrackers.label "Пратиоци с друштвених мрежа">
 <!ENTITY protections.trackingContent.label "Садржај који прати">
+<!ENTITY protections.noTrackersFound.description "&brandShortName; није уочио познате пратиоце на овој страници.">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -908,6 +911,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.accesskey         "П">
 
 <!ENTITY syncSyncNowItem.label        "Синхронизуј сада">
+<!ENTITY syncSyncNowItemSyncing.label "Синхронизујем…">
 <!ENTITY syncSyncNowItem.accesskey    "С">
 <!ENTITY syncReAuthItem.label         "Поново се повежи на &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "ж">
@@ -930,6 +934,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.manageSettings.label "Управљај блокирањем садржаја">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Садржаји који прате">
 
 <!ENTITY contentBlocking.manageSettings2.label "Управљајте подешавањима заштите">
 <!ENTITY contentBlocking.manageSettings.accesskey "У">
@@ -940,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Колачићи">
 <!ENTITY contentBlocking.cookiesView.label "Колачићи и подаци сајта">
 
+<!ENTITY contentBlocking.socialblock.label "Пратиоци с друштвених мрежа">
 
 
 <!ENTITY contentBlocking.cryptominers.label "Крипто-рудари">
