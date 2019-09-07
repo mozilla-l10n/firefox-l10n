@@ -174,6 +174,17 @@ menu-history-hidden-tabs =
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = Markadores
+    .accesskey = M
+menu-bookmarks-show-all =
+    .label = Sna'a ntii markador
+menu-bookmarks-all-tabs =
+    .label = Chika xikua nuna...
+menu-bookmarks-toolbar =
+    .label = Marka
+menu-bookmarks-other =
+    .label = Inka markador
 
 ## Tools Menu
 
