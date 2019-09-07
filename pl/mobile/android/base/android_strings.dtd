@@ -36,6 +36,8 @@
 
 <!ENTITY firstrun_signin_button2 "Zaloguj się">
 
+<!ENTITY firstrun_signup_button "Utwórz konto">
+
 <!ENTITY firstrun_tabqueue_title "Odnośniki">
 
 <!ENTITY firstrun_readerview_title "Artykuły">
@@ -597,7 +599,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Adres URL">
 <!ENTITY bookmark_edit_keyword "Słowo kluczowe">
 <!ENTITY bookmark_select_folder "Wybierz folder">
-
 <!ENTITY bookmark_edit_undo "Cofnij">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -881,11 +882,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Dodanie zakładki umożliwia czytanie strony bez Internetu.">
 <!ENTITY helper_triple_readerview_open_button "Dodaj zakładkę">
 
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Witamy w przeglądarce &brandShortName;">
 <!ENTITY activity_stream_signin_description "Zacznij synchronizować zakładki, hasła i nie tylko za pomocą konta Firefoksa.">
 <!ENTITY activity_stream_signin_button "Zaloguj się">
-<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
-These labels are shown in the Activity Stream recommending the user to sign in. -->
+
+<!ENTITY activity_stream_signup_button "Utwórz konto">
+<!ENTITY activity_stream_signin_prompt "Masz już konto?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Zaloguj się.">
 
 <!ENTITY activity_stream_topsites "Popularne">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
