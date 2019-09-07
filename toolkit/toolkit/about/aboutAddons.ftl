@@ -218,7 +218,7 @@ legacy-extensions =
     .value = Forældede udvidelser
 
 legacy-extensions-description = 
-    Disse udvidelser møder ikke de nuværende { -brand-short-name }- standarder, så de er blevet deaktiveret. <label data-l10n-name="legacy-learn-more">Læs mere om ændringerne af tilføjelser</label>
+    Disse udvidelser møder ikke de nuværende { -brand-short-name }-standarder, så de er blevet deaktiveret. <label data-l10n-name="legacy-learn-more">Læs mere om ændringerne af tilføjelser</label>
 
 private-browsing-description2 =
     { -brand-short-name } har ændret, hvordan udvidelser fungerer i private vinduer. Som standard vil alle nyinstallerede
