@@ -36,6 +36,8 @@
 
 <!ENTITY firstrun_signin_button2 "Prisijungti">
 
+<!ENTITY firstrun_signup_button "Registruotis">
+
 <!ENTITY firstrun_tabqueue_title "Saitai">
 
 <!ENTITY firstrun_readerview_title "Straipsniai">
@@ -877,11 +879,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Įtraukite skaitymo rodinio elementus į adresyną, kad galėtumėte juos skaityti neprisijungę.">
 <!ENTITY helper_triple_readerview_open_button "Įtraukti į adresyną">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Sveiki, čia „&brandShortName;“">
 <!ENTITY activity_stream_signin_description "Pradėkite sinchronizuoti adresyną, slaptažodžius, ir daugiau su savo „Firefox“ paskyra.">
 <!ENTITY activity_stream_signin_button "Prisijungti">
+
+<!ENTITY activity_stream_signup_button "Registruotis">
+<!ENTITY activity_stream_signin_prompt "Jau turite paskyrą?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Prisijunkite.">
 
 <!ENTITY activity_stream_topsites "Lankomiausios">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
