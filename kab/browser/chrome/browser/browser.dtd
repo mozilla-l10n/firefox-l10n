@@ -246,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Sefrek aseqdec n useɣẓan DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Ldi agalis MIDI">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Tesweḥleḍ asawaḍ-ik i usmelweb-a.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tesweḥleḍ asawaḍ-inek i usmelweb-a.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Tesweḥleḍ asmelweb-a seg beṭṭu n ugdil-inek.">
@@ -807,13 +808,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Tuqqna">
 <!ENTITY identity.connectionSecure "Tuqqna taɣelsant">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Taɣellist n tuqqna">
-
-<!ENTITY identity.connectionSecure2 "Taɣellist n tuqqna">
 <!ENTITY identity.connectionNotSecure "Tuqqna-a mačči d taɣelsant">
+
 <!ENTITY identity.connectionFile "Asebter-a yettwakles deg uselkim-inek.">
 <!ENTITY identity.connectionVerified2 "Aqli-k tura teqqneḍ s tɣellist ɣeṛ usmel-a, bab-is d:">
 <!ENTITY identity.connectionInternal "Wa d asebter &brandShortName; aɣelsan.">
@@ -856,7 +852,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Tisirag">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions3 "Tisirag">
 <!ENTITY identity.permissionsEmpty "Ur tefkiḍ ara kra n tsiregt i usmel-a.">
 <!ENTITY identity.permissionsReloadHint "Ahat tesriḍ ad d-tessaliḍ tikelt-nniḍen asebter akken ad yemmed wayen i tbeddleḍ.">
 <!ENTITY identity.permissionsPreferences.tooltip "Ldi ismenyifen n tsirag">

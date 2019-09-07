@@ -36,6 +36,7 @@ menu-menuitem-android-app = { -lockwise-brand-short-name } i Android
 
 login-list-sort-label-text = Smizzwer s:
 login-list-name-option = Isem (A-Z)
+login-list-breached-option = Ismal web ittwakren
 login-list-last-changed-option = Asnifel aneggaru
 login-list-last-used-option = Aseqdec anneggaru
 login-list-intro-title = Ulac inekcam yettwafen

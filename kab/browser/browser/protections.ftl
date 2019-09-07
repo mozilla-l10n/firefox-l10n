@@ -6,6 +6,7 @@
 # capitalization for this string should match the output for your locale.
 graph-today = Ass-a
 fingerprinter-tab-title = Idsilen umḍinen
+about-logins-view-logins-button = Sken-d tuqniwin
 manage-devices = Sefrek ibenkan
 monitor-link = Amek iteddu
 # This is the title attribute describing the graph report's link to about:settings#privacy
