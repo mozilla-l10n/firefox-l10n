@@ -7,3 +7,4 @@ newsletter-email-placeholder =
 newsletter-thanks-title = साबायखर!
 footer-learn-more-link = गोबां सोलों
 features-learn-more = गोबां सोलों
+features-debugger-title = डेबागार
