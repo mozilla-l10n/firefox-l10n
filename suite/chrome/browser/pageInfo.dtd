@@ -56,6 +56,8 @@
 <!ENTITY mediaTab.accesskey "M">
 <!ENTITY mediaURL "Dirección:">
 <!ENTITY mediaAlt "Texto alternativo:">
+<!ENTITY mediaLocation "Dirección:">
+<!ENTITY mediaText "Texto asociado:">
 <!ENTITY mediaAltHeader "Texto alternativo">
 <!ENTITY mediaAddress "Dirección">
 <!ENTITY mediaType "Tipo">
@@ -64,6 +66,7 @@
 <!ENTITY mediaDimensions "Dimensiones especificadas:">
 <!ENTITY mediaPhysDimensions "Dimensiones reales:">
 <!ENTITY mediaTitle "Título:">
+<!ENTITY mediaDimension "Dimensiones:">
 <!ENTITY mediaLongdesc "Descripción larga:">
 <!ENTITY mediaBlockImage.accesskey "B">
 <!ENTITY mediaSaveAs "Guardar como…">
