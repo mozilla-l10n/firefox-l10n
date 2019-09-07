@@ -683,8 +683,10 @@ sitedata-block-desc = Тип блокираних колачића
     .accesskey = Т
 sitedata-option-block-trackers =
     .label = Пратиоци треће стране
+sitedata-option-block-cross-site-trackers =
+    .label = Виешстранични пратиоци
 sitedata-option-block-cross-site-and-social-media-trackers =
-    .label = Трагачи на унакрсним сајтовима и друштвеним мрежама
+    .label = Вишестранични пратиоци и пратиоци са друштвених мрежа
 sitedata-option-block-unvisited =
     .label = Колачићи са непосећених веб сајтова
 sitedata-option-block-all-third-party =
@@ -719,8 +721,8 @@ addressbar-suggestions-settings = Измени поставке предлога
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Блокирање садржаја
-content-blocking-enhanced-tracking-protection = Побољшана заштита од праћења
 content-blocking-section-description = Заштитите своју приватност док прегледате интернет. Блокирајте невидљиви садржај који прати веб странице које посетите и који вас профилише. Блокирањем неких од ових садржаја странице се брже учитавају.
+content-blocking-enhanced-tracking-protection = Побољшана заштита од праћења
 content-blocking-learn-more = Сазнајте више
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -738,7 +740,8 @@ content-blocking-strict-description = Снажнија заштита, може 
 content-blocking-custom-desc = Изаберите шта треба блокирати.
 content-blocking-private-trackers = Познате пратиоце само у приватним прозорима
 content-blocking-third-party-cookies = Колачиће за праћење трећих страна
-content-blocking-social-media-trackers = Трагачи с друштвених мрежа
+content-blocking-etp-custom-desc = Изаберите које пратиоце и скрипте треба блокирати.
+content-blocking-social-media-trackers = Пратиоци с друштвених мрежа
 content-blocking-all-cookies = Сви колачићи
 content-blocking-all-windows-trackers = Познате пратиоце у свим прозорима
 content-blocking-all-third-party-cookies = Све колачиће треће стране
@@ -747,6 +750,7 @@ content-blocking-fingerprinters = Хватаче отиска
 content-blocking-warning-title = Напомена!
 content-blocking-warning-description = Блокирање садржаја може узроковати сломљене сајтове у неким случајевима. Лако је онемогућити блокирање за сајтове којима верујете.
 content-blocking-learn-how = Сазнајте више
+content-blocking-etp-warning-description = Блокирање пратилаца може узроковати неисправности на неким веб страницама. Поново учитајте страницу са омогућеним пратиоцима да бисте учитали сав садржај.
 content-blocking-warning-learn-how = Научите како
 content-blocking-reload-description = Да бисте применили ове измене, морате поново учитати своје језичке.
 content-blocking-reload-tabs-button =
