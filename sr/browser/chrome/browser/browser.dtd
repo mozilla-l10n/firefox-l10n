@@ -244,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Управљајте употребом DRM софтвера">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Отвори MIDI панел">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Дали сте овој страници додатне дозволе.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Блокирали сте камеру за овај веб сајт.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Блокирали сте микрофон за овај веб сајт.">
@@ -805,8 +806,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Безбедна веза">
 <!ENTITY identity.connectionNotSecure "Веза није безбедна">
 
+<!ENTITY identity.connectionSecure3 "Безбедна веза">
+<!ENTITY identity.connectionNotSecure2 "Небезбедна веза">
+<!ENTITY identity.connectionNotSecureSecurityView "Нисте безбедно повезани са овом страницом.">
 <!ENTITY identity.connectionFile "Ова страница се складишти на рачунару.">
 <!ENTITY identity.connectionVerified2 "Безбедно сте повезани на овај сајт, који је у власништву:">
+<!ENTITY identity.connectionVerified3 "Безбедно сте повезани са овом страницом.">
 <!ENTITY identity.connectionInternal "Ово је безбедна &brandShortName; страница.">
 <!ENTITY identity.extensionPage "Ова страница је учитана са екстензије.">
 <!ENTITY identity.insecureLoginForms2 "Пријаве које су унесене на овој страници су можда угрожене.">
@@ -847,6 +852,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Дозволе">
 
+<!ENTITY identity.permissions3 "Дозволе">
 <!ENTITY identity.permissionsEmpty "Овом сајту нису додељене никакве посебне дозволе.">
 <!ENTITY identity.permissionsReloadHint "Можда ћете морати поново учитати страницу да примените промене.">
 <!ENTITY identity.permissionsPreferences.tooltip "Отвори поставке дозвола">

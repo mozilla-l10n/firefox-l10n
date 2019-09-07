@@ -9,10 +9,6 @@
 <!ENTITY retry.label "Пoкушај поново">
 <!ENTITY returnToPreviousPage.label "Иди назад">
 <!ENTITY returnToPreviousPage1.label "Врати се назад (препоручено)">
-<!ENTITY advanced.label "Напредно">
-
-<!ENTITY continue2.label "Још…">
-<!ENTITY moreInformation.label "Више информација">
 
 <!-- Specific error messages -->
 
@@ -147,16 +143,13 @@
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle1 "Веза није сигурна">
 <!ENTITY certerror.longpagetitle2 "Упозорење: Потенцијални безбедносни ризик">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Власник <span class='hostname'/> је неправилно подесио веб сајт. Да бисмо заштитили ваше информације од крађе, &brandShortName; се није повезао на овај веб сајт.">
-
 <!ENTITY certerror.introPara2 "&brandShortName; је открио потенцијалну безбедносну претњу и није наставио на <span class='hostname'/>. Ако посетите овај сајт, нападачи би могли покушати украсти ваше податке као што су лозинке, е-адресе или кредитне картице.">
+<!ENTITY certerror.sts.introPara "&brandShortName; је открио потенцијалну безбедносну опасност и није наставио на <span class='hostname'/> зато што ова веб страница захтева безбедну везу.">
 
-<!ENTITY certerror.expiredCert.secondPara "Проблем је највероватније у томе што ваш сат на рачунару приказује погрешно време, што би спречило &brandShortName; да се повеже безбедно.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Шта можете учинити поводом тога?">
 
@@ -191,9 +184,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Грешка оштећеног садржаја">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Страница коју желите да погледате не може бити приказана због грешке у преносу података.</p><ul><li>Обратите се власницима веб странице и обавестите их о проблему.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Додај изузетак…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Прихвати ризик и настави">
 
 <!ENTITY errorReporting.automatic2 "Аутоматски пријавите грешке да бисте помогли Mozilla-и да идентификује и блокира злонамере сајтове">
@@ -207,18 +197,7 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Додатне информације: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; се није повезао на <span id='wrongSystemTime_URL'/> јер рачунаров сат није тачан и спречава повезивање.</p> <p>Ваш рачунар је подешен на <span id='wrongSystemTime_systemDate'/>, а требало би да буде <span id='wrongSystemTime_actualDate'/>. Да решите овај проблем, промените датум и време да одговарају тачном времену.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; се није повезао на <span id='wrongSystemTimeWithoutReference_URL'/> јер рачунаров сат показује на погрешно време и спречава безбедно повезивање.</p> <p>Ваш рачунар је подешен на <span id='wrongSystemTimeWithoutReference_systemDate'/>. Да решите овај проблем, промените датум и време да одговарају тачном времену.</p>">
-
-<!ENTITY certerror.pagetitle1  "Несигурна веза">
 <!ENTITY certerror.pagetitle2  "Упозорење: Потенцијални безбедносни ризик">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Овај сајт користи HTTP
-Strict Transport Security (HSTS) да би одредио да се &brandShortName; на њега повезује
-само безбедно. Као резултат тога, није могуће додати изузетак за овај 
-сертификат.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> има безбедносну полису под именом HTTP Strict Transport Security (HSTS), што значи да се &brandShortName; може повезати само безбедно. Можете додати изузетак да посетите овај сајт.">
 <!ENTITY certerror.copyToClipboard.label "Копирај текст у бележницу">
 
@@ -229,8 +208,11 @@ Strict Transport Security (HSTS) да би одредио да се &brandShortN
 
 <!ENTITY blockedByPolicy.title "Блокиране странице">
 
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> је највероватније безбедна веб страница, али није могуће успоставити безбедну везу са њом. Овај проблем узрокује програм <span class='mitm-name'/>, који се налази на вашем рачунару или на вашој мрежи.">
+
 <!ENTITY clockSkewError.title "Време на вашем рачунару је погрешно">
 <!ENTITY clockSkewError.longDesc "Ваш рачунар мисли да је <span id='wrongSystemTime_systemDate1'/>, што спречава &brandShortName; да се повеже безбедно. Да бисте посетили <span class='hostname'></span>, ажурирајте ваш сат на рачунару у вашим системским подешавањима на тренутан датум, време и временску зону и освежите <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Ваше поставке безбедности можда проузрокују овај проблем. Да ли желите да вратите подразумеване поставке?">
 <!ENTITY prefReset.label "Врати подразумеване поставке">
+
