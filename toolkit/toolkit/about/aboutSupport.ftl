@@ -36,6 +36,8 @@ app-basics-name = Nazwa
 app-basics-version = Wersja
 app-basics-build-id = ID kompilacji
 app-basics-update-channel = Kanał aktualizacji
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Katalog aktualizacji
@@ -60,7 +62,6 @@ app-basics-service-workers = Zarejestrowane wątki usługowe
 app-basics-profiles = Profile
 app-basics-launcher-process-status = Proces uruchamiający
 app-basics-multi-process-support = Okna wieloprocesowe
-app-basics-process-count = Procesy treści sieciowych
 app-basics-remote-processes-count = Zdalne procesy
 app-basics-enterprise-policies = Zasady organizacji
 app-basics-location-service-key-google = Klucz usługi lokalizacji Google
@@ -116,6 +117,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Parametry
 safe-mode-title = Tryb awaryjny
 restart-in-safe-mode-label = Uruchom ponownie z wyłączonymi dodatkami…
+
+## Media titles
+
+audio-backend = Mechanizm dźwięku
+max-audio-channels = Maksymalna liczba kanałów
+channel-layout = Preferowany układ kanałów
+sample-rate = Preferowana częstotliwość próbkowania
 media-title = Media
 media-output-devices-title = Urządzenia wyjściowe
 media-input-devices-title = Urządzenia wejściowe
@@ -128,6 +136,12 @@ media-device-format = Format
 media-device-channels = Kanały
 media-device-rate = Częstotliwość próbkowania
 media-device-latency = Opóźnienie
+media-capabilities-title = Możliwości medialne
+# List all the entries of the database.
+media-capabilities-enumerate = Wyświetl zawartość bazy danych
+
+
+
 intl-title = Umiędzynaradawianie i lokalizacja
 intl-app-title = Ustawienia programu
 intl-locales-requested = Żądane ustawienia regionalne
@@ -247,12 +261,7 @@ uses-tiling = Używa kafelkowania
 content-uses-tiling = Używa kafelkowania (treść)
 off-main-thread-paint-enabled = Rysowanie poza głównym wątkiem
 off-main-thread-paint-worker-count = Wątki rysujące poza głównym
-low-end-machine = Wykryto mniej wydajny komputer
 target-frame-rate = Docelowa liczba klatek na sekundę
-audio-backend = Mechanizm dźwięku
-max-audio-channels = Maksymalna liczba kanałów
-channel-layout = Preferowany układ kanałów
-sample-rate = Preferowana częstotliwość próbkowania
 min-lib-versions = Oczekiwana wersja minimalna
 loaded-lib-versions = Wersja w użyciu
 has-seccomp-bpf = Seccomp-BPF (filtrowanie wywołań systemowych)

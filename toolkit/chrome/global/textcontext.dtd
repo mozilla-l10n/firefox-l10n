@@ -19,7 +19,7 @@
 <!ENTITY spellAddToDictionary.accesskey "D">
 <!ENTITY spellUndoAddToDictionary.label "Cofnij dodanie do słownika">
 <!ENTITY spellUndoAddToDictionary.accesskey "o">
-<!ENTITY spellCheckToggle.label "Sprawdź pisownię">
+<!ENTITY spellCheckToggle.label "Sprawdzanie pisowni">
 <!ENTITY spellCheckToggle.accesskey "S">
 <!ENTITY spellNoSuggestions.label "(brak sugestii)">
 <!ENTITY spellDictionaries.label "Języki">

@@ -33,6 +33,7 @@ printpreview-of =
     .value = z
 printpreview-custom-prompt =
     .value = Skalowanie…
+printpreview-custom-scale-prompt-title = Skalowanie
 printpreview-page-setup =
     .label = Ustawienia strony…
     .accesskey = u
