@@ -34,6 +34,7 @@ certmgr-cert-detail =
     .buttonaccesskeyaccept = I
 certmgr-cert-detail-commonname = Common Name (CN)
 certmgr-cert-detail-org = Organisasyon (O)
+certmgr-cert-detail-orgunit = Organizational Unit (OU)
 certmgr-cert-detail-serial-number = Serial Number
 certmgr-cert-detail-sha-256-fingerprint = SHA-256 Fingerprint
 certmgr-cert-detail-sha-1-fingerprint = SHA1 Fingerprint

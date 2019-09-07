@@ -86,6 +86,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Log ng mga Desisyon
 graphics-crash-guards-title = Crash Guard Disabled Features
 graphics-workarounds-title = Workarounds
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Window Protocol
 place-database-title = Places Database
 place-database-integrity = Integredad
 place-database-verify-integrity = Patunayan ang Integridad
@@ -110,6 +112,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = Subukan mag-safe mode
 restart-in-safe-mode-label = Mag-restart na hindi pinapagana ang mga Add-on…
+
+## Media titles
+
+audio-backend = Backend ng Audio
+max-audio-channels = Max na mga Channel
+channel-layout = Ninanais na Channel Layout
+sample-rate = Ninanais na Sample Rate
 media-title = Media
 media-output-devices-title = Mga Output Device
 media-input-devices-title = Mga Input Device
@@ -122,6 +131,9 @@ media-device-format = Format
 media-device-channels = Mga channel
 media-device-rate = Rate
 media-device-latency = Latency
+
+
+
 intl-title = Internationalization & Localization
 intl-app-title = Mga Application Setting
 intl-locales-requested = Mga Hininging Locale
@@ -237,10 +249,6 @@ content-uses-tiling = Gumagamit ng Tiling (Content)
 off-main-thread-paint-enabled = Naka-enable ang Off Main Thread Painting
 off-main-thread-paint-worker-count = Bilang ng Off Main Thread Painting Worker
 target-frame-rate = Target Frame Rate
-audio-backend = Backend ng Audio
-max-audio-channels = Max na mga Channel
-channel-layout = Ninanais na Channel Layout
-sample-rate = Ninanais na Sample Rate
 min-lib-versions = Inaasahang pinakamababang bersyon
 loaded-lib-versions = Bersyon na ginagamit
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
