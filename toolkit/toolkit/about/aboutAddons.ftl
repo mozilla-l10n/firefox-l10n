@@ -326,6 +326,7 @@ addon-badge-recommended =
     .alt = Препоручено
 release-notes-loading = Учитава се...
 release-notes-error = Нажалост, дошло је до грешке при учитавању напомена о издању.
+addon-permissions-empty = Ово проширење не захтева никакве дозволе
 recommended-extensions-heading = Препоручена проширења
 recommended-themes-heading = Препоручене теме
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
