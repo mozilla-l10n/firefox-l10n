@@ -567,6 +567,7 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = استثناها…
     .accesskey = ث
+forms-breach-alerts-learn-more-link = بیشتر بدانید
 forms-saved-logins =
     .label = ورودهای ذخیره شده
     .accesskey = و
@@ -672,6 +673,7 @@ addressbar-suggestions-settings = تغییر ترجیحات مربوط به پی
 ## Privacy Section - Content Blocking
 
 content-blocking-header = مسدود کردن محتوا
+content-blocking-enhanced-tracking-protection = محفاظت پیشرفته در برابر ردیابی
 content-blocking-learn-more = بیشتر بدانید
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -686,6 +688,7 @@ content-blocking-setting-custom =
     .accesskey = C
 content-blocking-custom-desc = انتخاب کنید چه چیزی مسدود شود.
 content-blocking-third-party-cookies = کوکی‌هایِ ردیبابِ متفرقه
+content-blocking-all-cookies = همه کوکی‌ها
 content-blocking-all-windows-trackers = ردیاب‌های شناخته شده در تمام پنجره‌ها
 content-blocking-all-third-party-cookies = تمام کوکی‌های متفرقه
 content-blocking-warning-title = هوشیار باشید!
