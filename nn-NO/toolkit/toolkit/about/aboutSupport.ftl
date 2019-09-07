@@ -32,6 +32,8 @@ app-basics-name = Namn
 app-basics-version = Versjon
 app-basics-build-id = Bygg-ID
 app-basics-update-channel = Oppdateringskanal
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Oppdateringsmappe
@@ -56,7 +58,6 @@ app-basics-service-workers = Registrerte tenestearbeidarar
 app-basics-profiles = Profilar
 app-basics-launcher-process-status = Oppstartsprosess
 app-basics-multi-process-support = Multiprosess-vindauge
-app-basics-process-count = Nettinnhaldsprosessar
 app-basics-remote-processes-count = Fjernprosessar
 app-basics-enterprise-policies = Bedriftspolitikk
 app-basics-location-service-key-google = Google Location Service-nøkkel
@@ -112,6 +113,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argument
 safe-mode-title = Prøv trygg modus
 restart-in-safe-mode-label = Start på nytt utan tillegg…
+
+## Media titles
+
+audio-backend = Lydgrensesnitt
+max-audio-channels = Maks kanalar
+channel-layout = Føretrekt kanaloppsett
+sample-rate = Føretrekt samplingsfart
 media-title = Media
 media-output-devices-title = Ut-einingar
 media-input-devices-title = Inn-einingar
@@ -124,6 +132,12 @@ media-device-format = Format
 media-device-channels = Kanalar
 media-device-rate = Fart
 media-device-latency = Forseinking
+media-capabilities-title = Mediefunksjonar
+# List all the entries of the database.
+media-capabilities-enumerate = Telje opp databasen
+
+
+
 intl-title = Internasjonalisering og lokalisering
 intl-app-title = Programinnstillingar
 intl-locales-requested = Førespurde språkversjonar
@@ -238,12 +252,7 @@ uses-tiling = Brukar Tiling
 content-uses-tiling = Brukar Tiling (innhald)
 off-main-thread-paint-enabled = Oppteikning utanfor hovudtråd aktivert
 off-main-thread-paint-worker-count = Opptegning utanfor hovudtråd worker-mengde
-low-end-machine = Oppdaga ei maskin med låg yting
 target-frame-rate = Målrammefart
-audio-backend = Lydgrensesnitt
-max-audio-channels = Maks kanalar
-channel-layout = Føretrekt kanaloppsett
-sample-rate = Føretrekt samplingsfart
 min-lib-versions = Forventa minimumsversjon
 loaded-lib-versions = Versjon i bruk
 has-seccomp-bpf = Seccomp-BPF (Systemkall-filtrering)
