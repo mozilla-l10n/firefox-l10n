@@ -95,3 +95,5 @@ cfr-whatsnew-lockwise-take-link-text = Awi asnas
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-ok-button = Reḍ { -send-brand-name }
+    .accesskey = T
