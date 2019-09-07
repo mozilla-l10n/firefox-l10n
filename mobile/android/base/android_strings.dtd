@@ -36,6 +36,8 @@
 
 <!ENTITY firstrun_signin_button2 "Logg inn">
 
+<!ENTITY firstrun_signup_button "Registrer deg">
+
 <!ENTITY firstrun_tabqueue_title "Lenker">
 
 <!ENTITY firstrun_readerview_title "Artiklar">
@@ -597,7 +599,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Adresse">
 <!ENTITY bookmark_edit_keyword "Nykelord">
 <!ENTITY bookmark_select_folder "Vel mappe">
-
 <!ENTITY bookmark_edit_undo "Angre">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -878,11 +879,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Bokmerk lesevisingselement for å lesa dei fråkopla.">
 <!ENTITY helper_triple_readerview_open_button "Legg til i bokmerka">
 
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Velkomen til &brandShortName;">
 <!ENTITY activity_stream_signin_description "Begynn å synkronisere bokmerke, passord og meir med Firefox-kontoen din.">
 <!ENTITY activity_stream_signin_button "Logg inn">
-<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
-These labels are shown in the Activity Stream recommending the user to sign in. -->
+
+<!ENTITY activity_stream_signup_button "Registrer deg">
+<!ENTITY activity_stream_signin_prompt "Har du allerieie ein konto?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Logg inn.">
 
 <!ENTITY activity_stream_topsites "Mest besøkte nettstadar">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
