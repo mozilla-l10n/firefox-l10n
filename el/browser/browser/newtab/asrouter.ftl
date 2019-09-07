@@ -81,6 +81,8 @@ cfr-whatsnew-button =
     .label = Τι νέο υπάρχει
     .tooltiptext = Τι νέο υπάρχει
 cfr-whatsnew-panel-header = Τι νέο υπάρχει
+cfr-whatsnew-tracking-blocked-link-text = Προβολή αναφοράς
+cfr-whatsnew-lockwise-take-link-text = Λήψη εφαρμογής
 
 ## Bookmark Sync
 
@@ -89,6 +91,8 @@ cfr-doorhanger-sync-bookmarks-ok-button = Ενεργοποίηση { -sync-brand
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-ok-button = Ενεργοποίηση { -sync-brand-short-name }
+    .accesskey = Ε
 
 ## Send Tab
 
