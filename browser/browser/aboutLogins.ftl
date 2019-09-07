@@ -20,6 +20,7 @@ create-login-button = Δημιουργία νέας σύνδεσης
 #   $title (String) - The title of the website associated with the favicon.
 login-favicon =
     .alt = Εικονίδιο για { $title }
+fxaccounts-sign-in-text = Αποκτήστε πρόσβαση στους κωδικούς πρόσβασής σας από άλλες συσκευές
 fxaccounts-sign-in-button = Σύνδεση στο { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Διαχείριση λογαριασμού

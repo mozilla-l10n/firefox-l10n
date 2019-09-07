@@ -304,6 +304,10 @@ install-theme-button = Εγκατάσταση θέματος
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Διαχείριση
 find-more-addons = Εύρεση περισσότερων προσθέτων
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Περισσότερες επιλογές
 
 ## Add-on actions
 
@@ -374,6 +378,11 @@ install-update-button = Ενημέρωση
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Επιτρέπεται σε ιδιωτικά παράθυρα
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Επιτρέπεται σε ιδιωτικά παράθυρα
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Όταν επιτρέπεται, η επέκταση θα έχει πρόσβαση στις δραστηριότητές σας στο διαδίκτυο κατά την ιδιωτική περιήγηση. <a data-l10n-name="learn-more">Μάθετε περισσότερα</a>
 addon-detail-private-browsing-allow = Αποδοχή
 addon-detail-private-browsing-disallow = Απόρριψη

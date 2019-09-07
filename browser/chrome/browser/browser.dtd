@@ -247,6 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Διαχείριση χρήσης λογισμικού DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Άνοιγμα πίνακα MIDI">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Έχετε αποκλείσει την κάμερά σας για αυτή την ιστοσελίδα.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Έχετε αποκλείσει το μικρόφωνό σας για αυτή την ιστοσελίδα.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Έχετε αποκλείσει τον ιστοτόπο από το μοίρασμα της οθόνης σας.">
@@ -808,13 +809,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Σύνδεση">
 <!ENTITY identity.connectionSecure "Ασφαλής σύνδεση">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Ασφάλεια σύνδεσης">
-
-<!ENTITY identity.connectionSecure2 "Ασφαλής σύνδεση">
 <!ENTITY identity.connectionNotSecure "Η σύνδεση δεν είναι ασφαλής">
+
+<!ENTITY identity.connectionSecure3 "Ασφαλής σύνδεση">
+<!ENTITY identity.connectionNotSecure2 "Μη ασφαλής σύνδεση">
 <!ENTITY identity.connectionNotSecureSecurityView "Η σύνδεσή σας σε αυτή την ιστοσελίδα δεν είναι ασφαλής.">
 <!ENTITY identity.connectionFile "Αυτή η σελίδα είναι αποθηκευμένη στον υπολογιστή σας.">
 <!ENTITY identity.connectionVerified2 "Έχετε συνδεθεί με ασφαλή τρόπο στην ιστοσελίδα, που ανήκει σε:">
@@ -859,7 +857,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Δικαιώματα">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions3 "Δικαιώματα">
 <!ENTITY identity.permissionsEmpty "Δεν έχετε χορηγήσει ειδικές άδειες στη σελίδα.">
 <!ENTITY identity.permissionsReloadHint "Ίσως χρειαστεί να φορτώσετε εκ νέου τη σελίδα για εφαρμογή των αλλαγών.">
 <!ENTITY identity.permissionsPreferences.tooltip "Άνοιγμα προτιμήσεων δικαιωμάτων">
@@ -869,7 +867,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.settings.label "Ρυθμίσεις προστασίας">
-<!ENTITY protections.report.label "Εμφάνιση πλήρους αναφοράς">
+<!ENTITY protections.showreport.label "Εμφάνιση αναφοράς">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -888,8 +886,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Βίντεο">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Αποστολή αναφοράς">
 
-<!ENTITY protections.blocking.label "Φραγή">
-<!ENTITY protections.notBlocking.label "Χωρίς φραγή">
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Γιατί;">
 
 
@@ -935,7 +940,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "Δ">
 
 <!ENTITY contentBlocking.trackersView.label "Ιχνηλάτες">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Για να αποκλείσετε όλους τους ιχνηλάτες, ορίστε τη φραγή περιεχομένου σε “Αυστηρή”.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
