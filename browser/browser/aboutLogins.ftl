@@ -58,7 +58,6 @@ login-list-item-subtitle-missing-username = (بدون نام‌کاربری)
 ## Introduction screen
 
 login-intro-heading = دنبال اطلاعات ورود خود می‌گردید؟ { -sync-brand-short-name } را تنظیم کنید.
-about-logins-intro-instruction-help = برای راهنمایی بیشتر به { -lockwise-brand-short-name }پشتیبانی</a> مراجعه کنید.
 
 ## Login
 
