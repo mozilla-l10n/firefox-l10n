@@ -13,15 +13,6 @@ graph-week-summary =
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
 # earliest date recorded in the database.
-graph-total-summary =
-    { $count ->
-        [one] May naharang na { $count } tracker magmula noong { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] May naharang na { $count } tracker magmula noong { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-    }
-# Variables:
-#   $count (Number) - Number of tracking events blocked.
-#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
-# earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
         [one] May naharang na <b>{ $count }</b> tracker magmula noong { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
@@ -47,7 +38,7 @@ social-tab-contant = Naglalagay ang mga social network ng mga tracker sa ibang m
 cookie-tab-title = Mga Cross-Site Tracking Cookie
 cookie-tab-content = Sinusundan ka ng mga cookie na ito sa iba't-ibang mga site para mangalap ng data tungkol sa mga gawain mo online. Inilalagay ito ng mga third party tulad ng mga advertiser at kumpanyang may kinalaman sa analytics. Ang pagharang ng mga cross-site tracking cookie ay nagbabawas sa bilang ng mga ad na sumusunod sa iyo. <a data-l10n-name="learn-more-link">Alamin</a>
 tracker-tab-title = Tracking Content
-tracker-tab-content = Maaaring mag-load ang mga website ng mga external ad, video, at ibang content na may tracking code. Ang pagharang sa mga tracking content ay makatutulong magpabilis sa pag-load ng mga site, pero maaaring may mga button, form, at login field na hindi gumana. <a data-l10n-name="learn-more-link">Alamin</a>
+tracker-tab-description = Ang mga website ay maaaring mag-load ng mga external ad, video, at iba pang content na may tracking code. Ang pagharang sa tracking content ay pwedeng makatulong sa mga site na mag-load nang mas mabilis, pero baka may mga button, form, at login field na hindi gumana. <a data-l10n-name="learn-more-link">Alamin</a>
 fingerprinter-tab-title = Mga fingerprinter
 fingerprinter-tab-content = Nangangalap ang mga fingerprinter ng mga setting sa iyong browser at computer para makagawa ng profile mo. Gamit ang digital fingerprint na ito, pwede ka nilang bantayan sa iba't-ibang mga website. <a data-l10n-name="learn-more-link">Alamin</a>
 cryptominer-tab-title = Mga cryptominer
@@ -56,7 +47,6 @@ lockwise-title = Huwag nang muling makalimot ng password
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = Ligtas na iniimbak ng { -lockwise-brand-name } ang mga password mo sa iyong browser.
 lockwise-header-content-logged-in = Ligtas na iimbak at i-sync ang mga password mo sa lahat ng mga device.
-open-about-logins-button = Buksan sa { -brand-short-name }
 about-logins-view-logins-button = Tingan ang mga Login
 lockwise-no-logins-content = Kunin ang <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> app para madala kahti saan ang iyong mga password.
 # This string is displayed after a large numeral that indicates the total number
@@ -77,38 +67,36 @@ lockwise-sync-status =
         [one] Nagsi-sync sa { $count } device
        *[other] Nagsi-sync sa { $count } iba pang mga device
     }
-lockwise-sync-not-syncing = Hindi nagsi-sync sa ibang mga device
 lockwise-sync-not-syncing-devices = Hindi nagsi-sync sa ibang mga device
 monitor-title = Maging alisto sa mga data breach
 monitor-link = Paano ito gumagana
-monitor-header-content = Tingnan ang { -monitor-brand-name } para malaman kung ikaw ay naging parte ng isang data breach at maalerto sa mga bagong breach.
-monitor-header-content-logged-in = Binabalaan ka ng { -monitor-brand-name } kung lumabas ang impormasyon mo sa isang kilalang data breach
 monitor-header-content-no-account = Tingnan ang { -monitor-brand-name } para malaman kung ikaw ay naging parte ng isang naiulat na data breach, at maalerto sa mga bagong breach.
+monitor-header-content-signed-in = Binabalaan ka ng { -monitor-brand-name } kung lumabas ang impormasyon mo sa isang kilalang data breach.
 monitor-sign-up = Mag-sign Up para sa mga Breach Alert
 auto-scan = Kusang na-scan ngayon
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
-info-monitored-addresses =
+info-monitored-emails =
     { $count ->
-        [one] Ang email address ay sinusubaybayan.
-       *[other] Ang mga email address ay sinusubaybayan.
+        [one] Sinusubaybayan ang email address
+       *[other] Sinusubaybayan ang mga email address
     }
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
-info-known-breaches =
+info-known-breaches-found =
     { $count ->
-        [one] Kilalang paglabag sa data ay naglantad sa iyong impormasyon.
-       *[other] Mga kilalang paglabag sa data ay naglantad sa iyong impormasyon.
+        [one] May kilalang data breach na naglantad sa iyong impormasyon
+       *[other] May mga kilalang data breach na naglantad sa iyong impormasyon
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
-info-exposed-passwords =
+info-exposed-passwords-found =
     { $count ->
-        [one] Password na nalantad sa lahat ng mga breach.
-       *[other] Mga password na nalantad sa lahat ng mga breach.
+        [one] May password na nalantad sa lahat ng mga breach
+       *[other] May mga password na nalantad sa lahat ng mga breach
     }
 full-report-link = Tingnan ang kumpletong ulat sa <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number

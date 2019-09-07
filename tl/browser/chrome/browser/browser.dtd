@@ -250,6 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Pamahalaan ang paggamit ng DRM software">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Buksan ang MIDI panel">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ipinagkaloob mo sa website na ito ang mga karagdagang pahintulot.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Hinarangan mo ang iyong camera para sa website na ito.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Na-block mo ang iyong mikropono para sa website na ito.">
@@ -478,7 +479,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.hint "Humingi ng tulong sa paghahanap ng mga bagay! Hanapin ang &#x1F50E; Sa tabi ng mga mungkahi sa paghahanap.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Baguhin ang Pagpipilian…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Baguhin ang Preferences…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Baguhin ang mga Kagustuhan…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
@@ -565,7 +566,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Buksan ang Frame sa Bagong Window">
 <!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openLinkCmdInContainerTab.label "Mag-bukas ng Link sa Bagong Container Tab">
+<!ENTITY openLinkCmdInContainerTab.label "Buksan ang Link sa Bagong Container Tab">
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Ipakita lang ang Frame na ito">
 <!ENTITY showOnlyThisFrameCmd.accesskey "k">
@@ -776,7 +777,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Baguhin ang mga Prefences sa Pop-up Blocker…">
+<!ENTITY editPopupSettingsUnix.label "Baguhin ang mga Kagustuhan para sa Pop-up Blocker…">
 <!ENTITY editPopupSettings.label "Baguhin ang mga Opsyon sa Pop-up Blocker…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "D">
@@ -872,6 +873,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.etpOFF.header "Sarado ang Enhanced Tracking Protection para sa site na ito">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Karagdagang impormasyon tungkol sa Enhanced Tracking Protection">
 <!ENTITY protections.settings.label "Mga Protection Setting">
 <!ENTITY protections.showreport.label "Ipakita ang Ulat">
 <!-- LOCALIZATION NOTE:
