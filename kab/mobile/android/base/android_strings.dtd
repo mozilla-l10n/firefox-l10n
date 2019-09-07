@@ -34,6 +34,10 @@
 <!ENTITY firstrun_button_notnow "Mačči tura">
 <!ENTITY firstrun_button_next "Ɣer sdat">
 
+<!ENTITY firstrun_signin_button2 "Kcem">
+
+<!ENTITY firstrun_signup_button "Jerred">
+
 <!ENTITY firstrun_tabqueue_title "Iseγwan">
 
 <!ENTITY firstrun_readerview_title "Imagraden">
@@ -595,7 +599,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Tansa:">
 <!ENTITY bookmark_edit_keyword "Awal n tsaruţ">
 <!ENTITY bookmark_select_folder "Fren akaram">
-
 <!ENTITY bookmark_edit_undo "Sefsex">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -875,6 +878,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Yella deg uskar war tuqqna">
 <!ENTITY helper_triple_readerview_open_message "Iferdisen n tmeẓri n umeɣri n tecraḍ ara teɣreḍ deg uskar war tuqqna.">
 <!ENTITY helper_triple_readerview_open_button "Rnu ɣer tecraḍ">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "Ansuf ɣer &brandShortName;">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 
 <!ENTITY activity_stream_topsites "Ismal yettwarzan aṭas">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
