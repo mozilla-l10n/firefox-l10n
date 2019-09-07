@@ -342,6 +342,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Pradėti paiešką pradėjus rinkti tekstą
     .accesskey = P
+browsing-picture-in-picture-toggle-enabled =
+    .label = Įjungti vaizdo vaizde įrašo valdymą
+    .accesskey = j
 browsing-picture-in-picture-learn-more = Sužinoti daugiau
 browsing-cfr-recommendations =
     .label = Rekomenduoti priedus naršant
@@ -605,6 +608,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Siūlyti ir generuoti stiprius slaptažodžius
     .accesskey = i
+forms-breach-alerts =
+    .label = Rodyti įspėjimus apie slaptažodžius pažeistose svetainėse
+    .accesskey = d
 forms-breach-alerts-learn-more-link = Sužinoti daugiau
 forms-fill-logins-and-passwords =
     .label = Automatiškai užpildyti prisijungimus ir slaptažodžius
@@ -723,8 +729,9 @@ addressbar-suggestions-settings = Keisti ieškyklių siūlymų nuostatas
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Turinio blokavimas
-content-blocking-enhanced-tracking-protection = Išplėsta apsauga nuo stebėjimo
 content-blocking-section-description = Saugokite savo privatumą naršydami. Blokuokite nematomą turinį, kuris seka jūsų lankomas svetaines ir jus profiliuoja. Užblokavus dalį šio turinio gali pagreitėti tinklalapių įkėlimas.
+content-blocking-enhanced-tracking-protection = Išplėsta apsauga nuo stebėjimo
+content-blocking-section-top-level-description = Stebėjimo elementai seka jus internete, siekdami surinkti informacijos apie jūsų naršymo įpročius ir pomėgius. „{ -brand-short-name }“ blokuoja daugelį šių elementų ir kitų kenksmingų scenarijų.
 content-blocking-learn-more = Sužinoti daugiau
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
