@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Sužinoti daugiau
 accessibility-text-label-header = Tekstinės žymės ir pavadinimai
+accessibility-keyboard-header = Klaviatūra
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -41,3 +42,14 @@ accessibility-text-label-issue-interactive = Interaktyvūs elementai privalo bū
 accessibility-text-label-issue-optgroup-label = Naudokite <code>label</code> atributą <span>optgroup</span> elementų žymėjimui. <a>Sužinoti daugiau</a>
 accessibility-text-label-issue-optgroup-label2 = Naudokite <code>label</code> atributą, norėdami pažymėti <span>optgroup</span>. <a>Sužinoti daugiau</a>
 accessibility-text-label-issue-toolbar = Priemonių juostos privalo būti sužymėtos, jeigu yra daugiau nei viena. <a>Sužinoti daugiau</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
+accessibility-keyboard-issue-semantics = Fokusuojami elementai turėtų turėti interaktyvias semantikas. <a>Sužinoti daugiau</a>
+accessibility-keyboard-issue-tabindex = Venkite <code>tabindex</code> atributo, didesnio negu nulis, naudojimo. <a>Sužinoti daugiau</a>
+accessibility-keyboard-issue-action = Interaktyvūs elementai privalo turėti galimybę būti aktyvuojami klaviatūra. <a>Sužinoti daugiau</a>
+accessibility-keyboard-issue-focusable = Interaktyvūs elementai privalo būti fokusuojami. <a>Sužinoti daugiau</a>
+accessibility-keyboard-issue-focus-visible = Fokusuojamas elementas galimai neturi „focus“ stiliaus taisyklių. <a>Sužinoti daugiau</a>
+accessibility-keyboard-issue-mouse-only = Paspaudžiami elementai privalo būti fokusuojami ir turėtų turėti interaktyvias semantikas. <a>Sužinoti daugiau</a>
