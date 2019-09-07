@@ -14,6 +14,12 @@ login-app-promo-apple =
     .alt = از App Store دریافت کنید
 login-filter =
     .placeholder = جست‌وجو در اطلاعات ورودها
+create-login-button = ایجاد کردن ورود جدید
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = نمایه برای { $title }
 fxaccounts-sign-in-text = گذرواژه‌هایتان را دستگاه‌های دیگر خود همراه داشته باشید
 fxaccounts-sign-in-button = ورود به { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -45,6 +51,7 @@ login-list-count =
     }
 login-list-sort-label-text = مرتب کردن بر اساس:
 login-list-name-option = نام (A-Z)
+login-list-breached-option = پایگاه اینترنتی رخنه شده
 login-list-last-changed-option = آخرین تغییر
 login-list-last-used-option = آخرین استفاده
 login-list-intro-title = هیچ اطلاعات ورودی پیدا نشد
@@ -58,6 +65,7 @@ login-list-item-subtitle-missing-username = (بدون نام‌کاربری)
 ## Introduction screen
 
 login-intro-heading = دنبال اطلاعات ورود خود می‌گردید؟ { -sync-brand-short-name } را تنظیم کنید.
+login-intro-description = اگر شما ورودتون به{ -brand-product-name } را بر روی دستگاه دیگری ذخیره کرده‌اید،‌ به این شکل بدستشون بیارید:
 
 ## Login
 
