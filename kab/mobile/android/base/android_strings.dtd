@@ -883,8 +883,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Ansuf ɣer &brandShortName;">
+<!ENTITY activity_stream_signin_description "Bdu amtawi n ticraḍ, awalen uffiren, akked waṭas-nniḍen s umiḍan n Firefox.">
+<!ENTITY activity_stream_signin_button "Kcem">
 
+<!ENTITY activity_stream_signup_button "Jerred">
+<!ENTITY activity_stream_signin_prompt "Ɣur-k yakan amiḍan?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Kcem.">
 
 <!ENTITY activity_stream_topsites "Ismal yettwarzan aṭas">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
