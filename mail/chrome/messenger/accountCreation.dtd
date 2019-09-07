@@ -42,6 +42,9 @@
 <!ENTITY hostname.label                  "ชื่อโฮสต์เซิร์ฟเวอร์">
 <!ENTITY port.label                      "พอร์ต">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "เซิร์ฟเวอร์:">
+<!ENTITY portRow.label                   "พอร์ต:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "การรับรองความถูกต้อง">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -74,10 +77,12 @@
 <!ENTITY half-manual-test.accesskey      "ท">
 <!ENTITY manual-edit.label               "การกำหนดค่าด้วยตนเอง">
 <!ENTITY manual-edit.accesskey           "ก">
+<!ENTITY manual-config.label             "ตั้งค่าด้วยตนเอง…">
 <!ENTITY open-provisioner.label          "รับที่อยู่อีเมลใหม่…">
 <!ENTITY open-provisioner.accesskey      "ร">
 
 
+<!ENTITY get-help.label                  "รับความช่วยเหลือ">
 
 
 <!ENTITY warning.label                   "คำเตือน!">
