@@ -8,6 +8,8 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = गोनांथि रादाब
+heading = नोंनि { -brand-short-name }प्रफाइल आव सोलायनाय
+changed-title = मा सोलायखो?
 resources = सम्पदफोर
 sync-label = नोंथांनि इ-मेइल हाबहो
 sync-input =
