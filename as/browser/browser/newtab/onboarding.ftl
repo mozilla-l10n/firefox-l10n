@@ -13,6 +13,7 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = অধিক জানক
+onboarding-button-label-try-now = এতিয়াই পৰীক্ষা কৰক
 onboarding-button-label-get-started = আৰম্ভ কৰক
 
 ## Welcome modal dialog strings
@@ -23,14 +24,25 @@ onboarding-join-form-body = আৰম্ভ কৰিবলৈ আপোনা�
 onboarding-join-form-email =
     .placeholder = ইমেইল প্ৰবিষ্ট কৰক
 onboarding-join-form-email-error = বৈধ ইমেইলৰ প্ৰয়োজন
+onboarding-join-form-continue = অব্যাহত ৰাখক
 onboarding-start-browsing-button-label = ব্ৰাউজ কৰা আৰম্ভ কৰক
+onboarding-cards-dismiss =
+    .title = খাৰিজ কৰক
+    .aria-label = খাৰিজ কৰক
 
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = { -brand-product-name }-ক আপোনাৰ সৈতে লৈ যাওক
+onboarding-sync-form-invalid-input = বৈধ ইমেইল আৱশ্যক
+onboarding-sync-legal-notice = আগবাঢ়ি, আপুনি <a data-l10n-name="terms">সেৱাৰ চৰ্তসমূহ</a> আৰু <a data-l10n-name="privacy">গোপনিয়তা জাননী</a>ক সন্মতি জনাইছে।
+onboarding-sync-form-input =
+    .placeholder = ইমেইল
+onboarding-sync-form-continue-button = অব্যাহত ৰাখক
+onboarding-sync-form-skip-login-button = এই পদক্ষেপ এৰক
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = আপোনাৰ ইমেইল প্ৰবিষ্ট কৰক
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -45,6 +57,7 @@ onboarding-sync-welcome-header = { -brand-product-name }-ক আপোনাৰ 
 
 onboarding-tracking-protection-button2 = ই কেনেকৈ কাম কৰে
 onboarding-browse-privately-title = গোপনে ব্ৰাউজ কৰক
+onboarding-mobile-phone-title = আপোনাৰ ফোনত { -brand-product-name } লাভ কৰক
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = ম'বাইল ব্ৰাউজাৰ ডাউনল'ড কৰক
