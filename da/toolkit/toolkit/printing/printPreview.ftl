@@ -33,6 +33,7 @@ printpreview-of =
     .value = af
 printpreview-custom-prompt =
     .value = Tilpasset skalering…
+printpreview-custom-scale-prompt-title = Tilpasset skalering
 printpreview-page-setup =
     .label = Sideopsætning…
     .accesskey = o

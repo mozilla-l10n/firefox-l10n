@@ -36,6 +36,8 @@ app-basics-name = Navn
 app-basics-version = Version
 app-basics-build-id = Build-ID
 app-basics-update-channel = Opdateringskanal
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Opdateringsmappe
@@ -60,12 +62,10 @@ app-basics-service-workers = Registrerede Service Workers
 app-basics-profiles = Profiler
 app-basics-launcher-process-status = Launcher Process
 app-basics-multi-process-support = Multiproces-vinduer
-app-basics-process-count = Webindholds-processer
 app-basics-remote-processes-count = Fjern-processer
 app-basics-enterprise-policies = Virksomheds-politikker
 app-basics-location-service-key-google = Google Location Service-nøgle
 app-basics-safebrowsing-key-google = Google Safebrowsing-nøgle
-app-basics-key-google = Google-nøgle
 app-basics-key-mozilla = Mozilla Location Service-nøgle
 app-basics-safe-mode = Fejlsikret tilstand
 show-dir-label =
@@ -117,6 +117,14 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenter
 safe-mode-title = Prøv fejlsikret tilstand
 restart-in-safe-mode-label = Genstart med tilføjelser deaktiveret…
+
+## Media titles
+
+audio-backend = Audio-backend
+max-audio-channels = Max antal kanaler
+channel-layout = Foretrukket kanal-layout
+sample-rate = Foretrukken sample-rate
+
 media-title = Medieindhold
 media-output-devices-title = Output-enheder
 media-input-devices-title = Input-enheder
@@ -129,6 +137,11 @@ media-device-format = Format
 media-device-channels = Kanaler
 media-device-rate = Rate
 media-device-latency = Latenstid
+media-capabilities-title = Media-evner
+# List all the entries of the database.
+media-capabilities-enumerate = Vis database-poster
+##
+
 intl-title = Tilpasning til andre sprog og lande
 intl-app-title = Indstillinger for applikation
 intl-locales-requested = Forespurgte sprog
@@ -243,12 +256,7 @@ uses-tiling = Anvender tiling
 content-uses-tiling = Anvender tiling (indhold)
 off-main-thread-paint-enabled = Rasteriser sider i særskilt proces
 off-main-thread-paint-worker-count = Antal workers til rastering af sider i særskilt proces
-low-end-machine = Konstateret en maskine med lav ydelse.
 target-frame-rate = Mål for framerate
-audio-backend = Audio-backend
-max-audio-channels = Max antal kanaler
-channel-layout = Foretrukket kanal-layout
-sample-rate = Foretrukken sample-rate
 min-lib-versions = Forventet minimumsversion
 loaded-lib-versions = Version i brug
 has-seccomp-bpf = Seccomp-BPF (filtrering af systemkald)
