@@ -33,6 +33,8 @@ onboarding-cards-dismiss =
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = { -brand-product-name }-ক আপোনাৰ সৈতে লৈ যাওক
+onboarding-sync-welcome-content = আপোনাৰ বুকমাৰ্ক, ইতিহাস, পাছৱৰ্ড আৰু অন্য ছেটিংছ আপোনাৰ সকলো ডিভাইচতে লাভ কৰক।
+onboarding-sync-welcome-learn-more-link = Firefox একাউণ্টবোৰৰ বিষয়ে অধিক জানক
 onboarding-sync-form-invalid-input = বৈধ ইমেইল আৱশ্যক
 onboarding-sync-legal-notice = আগবাঢ়ি, আপুনি <a data-l10n-name="terms">সেৱাৰ চৰ্তসমূহ</a> আৰু <a data-l10n-name="privacy">গোপনিয়তা জাননী</a>ক সন্মতি জনাইছে।
 onboarding-sync-form-input =
@@ -43,10 +45,12 @@ onboarding-sync-form-skip-login-button = এই পদক্ষেপ এৰক
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = আপোনাৰ ইমেইল প্ৰবিষ্ট কৰক
+onboarding-sync-form-sub-header = { -sync-brand-name }-ত অব্যাহত ৰাখিবলৈ
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = উপযোগী পণ্য
 
 ## These strings belong to the individual onboarding messages.
 
@@ -55,8 +59,10 @@ onboarding-sync-form-header = আপোনাৰ ইমেইল প্ৰবি
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-screenshots-title = স্ক্ৰীণশ্ব'ট
 onboarding-tracking-protection-button2 = ই কেনেকৈ কাম কৰে
 onboarding-browse-privately-title = গোপনে ব্ৰাউজ কৰক
+onboarding-browse-privately-button = ব্যক্তিগত উইণ্ড' এখন খোলক
 onboarding-mobile-phone-title = আপোনাৰ ফোনত { -brand-product-name } লাভ কৰক
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
