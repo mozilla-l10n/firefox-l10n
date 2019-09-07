@@ -24,6 +24,7 @@ serviceworker-empty-suggestions-console = Verifica la presenza di errori nella c
 serviceworker-empty-suggestions-debugger = Analizza passo per passo la registrazione del service worker e verifica la presenza di eccezioni. <a>Apri Debugger</a>
 serviceworker-empty-suggestions-aboutdebugging = Analizza i service worker da altri domini. <a>Apri about:debugging</a>
 manifest-view-header = Manifesto dell’app
+manifest-empty-intro = È necessario aggiungere il manifesto di una web app per analizzarlo qui. <a>Ulteriori informazioni</a>
 manifest-item-warnings = Errori e avvisi
 manifest-item-identity = Identità
 manifest-item-presentation = Presentazione
