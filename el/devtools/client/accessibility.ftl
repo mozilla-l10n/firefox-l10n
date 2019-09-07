@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Μάθετε περισσότερα
 accessibility-text-label-header = Ετικέτες κειμένου και ονόματα
+accessibility-keyboard-header = Πληκτρολόγιο
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -20,4 +21,9 @@ accessibility-best-practices =
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
+
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
 

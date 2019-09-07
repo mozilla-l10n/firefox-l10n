@@ -35,6 +35,8 @@ app-basics-name = Όνομα
 app-basics-version = Έκδοση
 app-basics-build-id = ID έκδοσης
 app-basics-update-channel = Κανάλι ενημερώσεων
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Ενημέρωση καταλόγου
@@ -59,7 +61,6 @@ app-basics-service-workers = Εγγεγραμμένα Service Workers
 app-basics-profiles = Προφίλ
 app-basics-launcher-process-status = Διαδικασία προγράμματος εκκίνησης
 app-basics-multi-process-support = Παράθυρα πολυδιεργασιών
-app-basics-process-count = Διεργασίες διαδικτυακού περιεχομένου
 app-basics-remote-processes-count = Απομακρυσμένες διεργασίες
 app-basics-enterprise-policies = Πολιτικές επιχειρήσεων
 app-basics-location-service-key-google = Κλειδί υπηρεσίας τοποθεσίας Google
@@ -115,6 +116,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Επιχειρήματα
 safe-mode-title = Δοκιμή ασφαλούς λειτουργίας
 restart-in-safe-mode-label = Επανεκκίνηση με τα πρόσθετα απενεργοποιημένα…
+
+## Media titles
+
+audio-backend = Υποσύστημα ήχου
+max-audio-channels = Μέγιστος αριθμός καναλιών
+channel-layout = Επιθυμητή διάταξη καναλιών
+sample-rate = Επιθυμητός ρυθμός δειγματοληψίας
 media-title = Πολυμέσα
 media-output-devices-title = Συσκευές εξόδου
 media-input-devices-title = Συσκευές εισόδου
@@ -127,6 +135,10 @@ media-device-format = Τύπος
 media-device-channels = Κανάλια
 media-device-rate = Ρυθμός
 media-device-latency = Καθυστέρηση
+media-capabilities-title = Δυνατότητες μέσων
+
+
+
 intl-title = Διεθνοποίηση & μετάφραση
 intl-app-title = Ρυθμίσεις εφαρμογής
 intl-locales-requested = Ζητούμενες γλώσσες
@@ -241,12 +253,7 @@ uses-tiling = Χρησιμοποιεί παράθεση
 content-uses-tiling = Χρησιμοποιεί παράθεση (περιεχόμενο)
 off-main-thread-paint-enabled = Η απόδοση γραφικών εκτός κύριου νήματος ενεργοποιήθηκε
 off-main-thread-paint-worker-count = Πλήθος workers ζωγραφικής εκτός κυρίου νήματος
-low-end-machine = Ανιχνεύθηκε μη αποδοτικό μηχάνημα
 target-frame-rate = Ρυθμός καρέ στόχου
-audio-backend = Υποσύστημα ήχου
-max-audio-channels = Μέγιστος αριθμός καναλιών
-channel-layout = Επιθυμητή διάταξη καναλιών
-sample-rate = Επιθυμητός ρυθμός δειγματοληψίας
 min-lib-versions = Αναμενόμενη ελάχιστη έκδοση
 loaded-lib-versions = Έκδοση σε χρήση
 has-seccomp-bpf = Seccomp-BPF (Φιλτράρισμα κλήσεων συστήματος)
