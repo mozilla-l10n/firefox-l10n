@@ -35,8 +35,7 @@ menu-menuitem-preferences =
         [windows] Επιλογές
        *[other] Προτιμήσεις
     }
-menu-menuitem-feedback = Αποστολή σχολίων
-menu-menuitem-faq = Συχνές ερωτήσεις
+about-logins-menu-menuitem-help = Βοήθεια
 menu-menuitem-android-app = { -lockwise-brand-short-name } για Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } για iPhone και iPad
 
@@ -53,6 +52,7 @@ login-list-breached-option = Παραβιασμένες ιστοσελίδες
 login-list-last-changed-option = Τελευταία αλλαγή
 login-list-last-used-option = Τελευταία χρήση
 login-list-intro-title = Δεν βρέθηκαν συνδέσεις
+about-logins-login-list-empty-search-title = Δεν βρέθηκαν συνδέσεις
 login-list-item-title-new-login = Νέα σύνδεση
 login-list-item-subtitle-new-login = Εισαγάγετε τα διαπιστευτήριά σας
 login-list-item-subtitle-missing-username = (χωρίς όνομα χρήστη)
@@ -68,10 +68,9 @@ login-item-delete-button = Διαγραφή
 login-item-origin-label = Διεύθυνση ιστοσελίδας
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Άνοιγμα
 login-item-username-label = Όνομα χρήστη
-login-item-username =
-    .placeholder = name@example.com
+about-logins-login-item-username =
+    .placeholder = (χωρίς όνομα χρήστη)
 login-item-copy-username-button-text = Αντιγραφή
 login-item-copied-username-button-text = Αντιγράφηκε!
 login-item-password-label = Κωδικός πρόσβασης
@@ -118,3 +117,6 @@ confirm-discard-changes-dialog-confirm-button = Απόρριψη
 breach-alert-link = Μάθετε περισσότερα σχετικά με αυτή την παραβίαση
 breach-alert-dismiss =
     .title = Κλείσιμο αυτής της ειδοποίησης
+
+## Error Messages
+
