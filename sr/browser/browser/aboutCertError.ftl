@@ -5,6 +5,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } користи неважећи безбедносни сертификат.
+cert-error-mitm-intro = Веб странице доказују свој идентитет путем сертификата које издају сертификациона тела.
 cert-error-trust-unknown-issuer-intro = Неко можда покушава да лажира сајт и не би требало да наставите.
 cert-error-trust-cert-invalid = Сертификат није од поверења јер га је издао неважећи ауторитет.
 cert-error-trust-untrusted-issuer = Сертификат није од поверења јер је издавач није од поверења.

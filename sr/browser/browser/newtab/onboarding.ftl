@@ -19,6 +19,8 @@ onboarding-button-label-get-started = Први кораци
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Добродошли у { -brand-short-name }
+onboarding-join-form-header = Придружи се пројекту { -brand-product-name }
+onboarding-join-form-body = Унесите своју е-адресу да бисте започели.
 onboarding-join-form-email =
     .placeholder = Унесите е-адресу
 onboarding-join-form-email-error = Потребна је важећа е-адреса
@@ -70,6 +72,9 @@ onboarding-ghostery-text = Прегледајте брже, паметније �
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Направите { -fxaccount-brand-name } налог и синхронизујте ваше забелешке, лозинке и отворене језичке где год да користите { -brand-short-name }.
+onboarding-tracking-protection-title2 = Заштита од праћења
+onboarding-tracking-protection-text2 = { -brand-short-name } помаже вам у спречавању веб страница да вас прате на мрежи, што отежава огласима да вас прате на вебу.
+onboarding-tracking-protection-button2 = Како то ради
 onboarding-data-sync-title = Понесите своја подешавања са собом
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Синхронизујте своје забелешке, лозинке и остало свуда где користите { -brand-product-name }.
@@ -77,11 +82,16 @@ onboarding-data-sync-button2 = Пријавите се у { -sync-brand-short-na
 onboarding-firefox-monitor-title = Будите у приправности од повреде података
 onboarding-firefox-monitor-text = { -monitor-brand-name } надгледа да ли се ваша адреса е-поште појавила у повреди података и упозорава вас ако се појави у новој повреди.
 onboarding-firefox-monitor-button = Пријавите се за упозорења
+onboarding-browse-privately-title = Прегледајте приватно
+onboarding-browse-privately-button = Отвори приватни прозор
+onboarding-firefox-send-title = Држите своје дељене датотеке приватним
+onboarding-firefox-send-button = Испробајте { -send-brand-name }
 onboarding-mobile-phone-title = Преузмите { -brand-product-name } на Ваш телефон
 onboarding-mobile-phone-text = Преузмите { -brand-product-name } за iOS или Андроид и синхронизујте податке између уређаја.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Преузмите мобилни прегледач
+onboarding-facebook-container-button = Додајте проширење
 
 ## Message strings belonging to the Return to AMO flow
 
