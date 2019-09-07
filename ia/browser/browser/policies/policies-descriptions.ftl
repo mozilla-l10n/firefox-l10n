@@ -69,6 +69,7 @@ policy-OfferToSaveLogins = Fortiar le configuration pro consentir a { -brand-sho
 policy-OfferToSaveLoginsDefault = Definir le valor ordinari pro consentir a { -brand-short-name } de offerer de memorar connexiones e contrasignos salvate. Ambe valores ver e false es acceptate.
 policy-OverrideFirstRunPage = Supplantar le pagina del lanceamento initial.
 policy-OverridePostUpdatePage = Supplantar le pagina de “Novas” post-actualisation. Defini iste criterio a blanc si tu desira disactivar le pagina de post-actualisation.
+policy-PasswordManagerEnabled = Activar salvamento de contrasignos al gestor de contrasignos.
 policy-Permissions = Configurar le permissos de camera, microphono, position e notificationes.
 policy-PopupBlocking = Consentir a certe sitos web de monstrar de ordinario messages emergente.
 policy-Preferences = Defini e bloca le valor de un sub-ensemble de preferentias.

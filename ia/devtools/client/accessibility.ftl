@@ -48,6 +48,8 @@ accessibility-text-label-issue-toolbar = Barras del instrumentos debe ser etique
 ## issue.
 
 accessibility-keyboard-issue-semantics = Le elementos focalisabile debe haber semantica interactive. <a>Saper plus</a>
+accessibility-keyboard-issue-tabindex = Evita de usar le attributo <code>tabindex</code> major que zero. <a>Saper plus</a>
+accessibility-keyboard-issue-action = Il deberea ser possibile activar elementos interactive per un claviero. <a>Saper plus</a>
 accessibility-keyboard-issue-focusable = Elementos interactive debe ser focalisabile. <a>Saper plus</a>
 accessibility-keyboard-issue-focus-visible = Le elemento focalisabile pote ser carente del stylo de foco. <a>Saper plus</a>
 accessibility-keyboard-issue-mouse-only = Le elementos cliccabile debe esser localisabile e haber semantica interactive. <a>Saper plus</a>
