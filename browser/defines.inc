@@ -6,9 +6,7 @@
 #define MOZ_LANGPACK_CREATOR mozilla.org
 
 # If non-English locales wish to credit multiple contributors, uncomment this
-
 # variable definition and use the format specified.
-
-#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Mozilla M&#233;xico &#40;Responsable: Mauricio Navarro&#41;</em:contributor>
+#define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Roberto Alvarado</em:contributor> <em:contributor>Mauricio Navarro</em:contributor>
 
 #unfilter emptyLines
