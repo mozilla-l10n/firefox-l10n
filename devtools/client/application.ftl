@@ -110,3 +110,13 @@ manifest-loaded-error = Der opstod en fejl under indlæsning af manifestet:
 
 # Text displayed when the page has no manifest available
 manifest-non-existing = Der blev ikke fundet noget manifest at inspicere.
+
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+  .alt = Advarsels-ikon
+  .title = Advarsel
+
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+  .alt = Fejl-ikon
+  .title = Fejl
