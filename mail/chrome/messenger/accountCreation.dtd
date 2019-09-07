@@ -3,19 +3,26 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "ตั้งค่าบัญชีอีเมลที่มีอยู่">
+
+<!ENTITY emailWizard.caption             "ใช้ที่อยู่อีเมลปัจจุบันของคุณ">
 <!ENTITY name.label                      "ชื่อของคุณ:">
 <!ENTITY name.accesskey                  "ช">
 <!ENTITY name.placeholder                "ชื่อจริง นามสกุล">
+<!ENTITY fullname.placeholder            "ชื่อเต็มของคุณ">
 <!ENTITY name.text                       "ชื่อของคุณที่จะแสดงให้ผู้อื่นเห็น">
+<!ENTITY name.error                      "โปรดป้อนชื่อของคุณ">
 <!ENTITY email.label                     "ที่อยู่อีเมล:">
 <!ENTITY email.accesskey                 "ท">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email3.placeholder              "ที่อยู่อีเมลของคุณ">
 <!ENTITY email.text                      "ที่อยู่อีเมลที่มีอยู่ของคุณ">
+<!ENTITY email.error                     "ที่อยู่อีเมลผิดรูปแบบ">
 <!ENTITY password.label                  "รหัสผ่าน:">
 <!ENTITY password.accesskey              "ร">
 <!ENTITY password.placeholder            "รหัสผ่าน">
 <!ENTITY password.text                   "ไม่บังคับกรอก จะใช้เพื่อตรวจสอบชื่อผู้ใช้เท่านั้น">
+<!ENTITY password.toggle                 "แสดง/ซ่อน รหัสผ่าน">
 <!ENTITY rememberPassword.label          "จดจำรหัสผ่าน">
 <!ENTITY rememberPassword.accesskey      "จ">
 <!ENTITY usernameEx.label                "ข้อมูลการเข้าสู่ระบบของคุณ:">
@@ -25,6 +32,7 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "การเข้าสู่ระบบโดเมน">
 
+<!ENTITY protocol.label                  "โปรโตคอล:">
 <!ENTITY imapLong.label                  "IMAP (โฟลเดอร์ระยะไกล)">
 <!ENTITY pop3Long.label                  "POP3 (เก็บจดหมายไว้ในคอมพิวเตอร์ของคุณ)">
 
@@ -59,7 +67,7 @@
 <!ENTITY stop.label                      "หยุด">
 <!ENTITY stop.accesskey                  "ห">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "ทดสอบใหม่">
@@ -68,6 +76,8 @@
 <!ENTITY manual-edit.accesskey           "ก">
 <!ENTITY open-provisioner.label          "รับที่อยู่อีเมลใหม่…">
 <!ENTITY open-provisioner.accesskey      "ร">
+
+
 
 
 <!ENTITY warning.label                   "คำเตือน!">
