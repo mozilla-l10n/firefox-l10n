@@ -41,6 +41,7 @@ cfr-doorhanger-pintab-animation-resume = फिन जागाय
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = जेरावबो नोंथांनि बुकमार्कफोर सिनक खालाम
 
 ## Protections panel
 
@@ -52,6 +53,9 @@ cfr-whatsnew-button =
     .label = मा गोदान
     .tooltiptext = मा गोदान
 cfr-whatsnew-panel-header = मा गोदान
+cfr-whatsnew-tracking-protect-link-text = नोंथांनि रिपर्ट खौ नाय
+cfr-whatsnew-tracking-blocked-link-text = रिपर्ट खौ नाय
+cfr-whatsnew-lockwise-backup-link-text = बेकआपफोरखौ अन खालाम
 cfr-whatsnew-lockwise-take-link-text = आपखौ ला
 
 ## Bookmark Sync
@@ -67,6 +71,8 @@ cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } अन खा�
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-ok-button = दैथायहोग्रा टेबखौ नाजा
+    .accesskey = T
 
 ## Firefox Send
 
