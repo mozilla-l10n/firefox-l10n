@@ -84,6 +84,7 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Novas
 cfr-whatsnew-release-notes-link-text = Lege le notas de version
 cfr-whatsnew-fx70-title = { -brand-short-name } lucta ora plus fortemente pro tu confidentialitate
+cfr-whatsnew-fx70-body = Le ultime actualisation meliora le functionalitate de protection del traciamento e rende plus facile que mais crear contrasignos secur pro cata sito.
 cfr-whatsnew-tracking-protect-title = Protege te ab le traciatores
 cfr-whatsnew-tracking-protect-link-text = Vide tu reporto
 # This string is displayed before a large numeral that indicates the total
