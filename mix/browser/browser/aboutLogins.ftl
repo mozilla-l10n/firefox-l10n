@@ -6,6 +6,7 @@ about-logins-page-title = Kitsa tsi cha sivu
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = Kuná tu'un see nchi tsiku
 login-app-promo-android =
     .alt = Ndanii nu Google Play
 login-app-promo-apple =
@@ -34,7 +35,7 @@ menu-menuitem-preferences =
         [windows] Opciones
        *[other] Preferencias
     }
-menu-menuitem-feedback = Tachu'un tu'un
+about-logins-menu-menuitem-help = Chinchee
 menu-menuitem-android-app = { -lockwise-brand-short-name } Kuachu'un tsi Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } Cuachu'un tsi iPhone cha iPad
 
@@ -47,6 +48,7 @@ login-list-count =
     }
 login-list-sort-label-text = Ntachi yuku
 login-list-name-option = Sivi (A-Z)
+login-list-breached-option = Sitio web vaá
 login-list-last-changed-option = Ña samu sa ntii
 login-list-last-used-option = Chachu'un sa nti'i
 login-list-item-title-new-login = Ktisaa Tsa'a
@@ -64,10 +66,9 @@ login-item-delete-button = Stoò
 login-item-origin-label = Dirección web
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Lanzamiento
 login-item-username-label = Sivi siki
-login-item-username =
-    .placeholder = sivi@example.com
+about-logins-login-item-username =
+    .placeholder = (koo sivi kitsau)
 login-item-copy-username-button-text = Ndatava
 login-item-copied-username-button-text = ¡Ndataviña!
 login-item-password-label = Tu'un seè
@@ -96,6 +97,7 @@ confirmation-dialog-cancel-button = Kunchatu
 confirmation-dialog-dismiss-button =
     .title = Kunchatu
 confirm-delete-dialog-title = ¿A Stuù sivi yo'o?
+confirm-delete-dialog-message = Ma kuu sau chu'un yo
 confirm-delete-dialog-confirm-button = Stoò
 confirm-discard-changes-dialog-confirm-button = Descartar
 
@@ -103,3 +105,6 @@ confirm-discard-changes-dialog-confirm-button = Descartar
 
 breach-alert-dismiss =
     .title = Kasi tu'un yo
+
+## Error Messages
+

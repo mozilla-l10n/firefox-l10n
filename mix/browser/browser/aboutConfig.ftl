@@ -24,7 +24,7 @@ about-config-pref-edit-button =
 about-config-pref-save-button =
     .title = Chika vaà
 about-config-pref-reset-button =
-    .title = Ndakitsaà
+    .title = Ndaki tsaà
 about-config-pref-delete-button =
     .title = Stoò
 

@@ -124,6 +124,9 @@ menu-view-full-zoom-reset =
 menu-view-full-zoom-toggle =
     .label = Sama texto
     .accesskey = S
+menu-view-page-style-menu =
+    .label = Estilo de página
+    .accesskey = E
 menu-view-page-style-no-style =
     .label = Koo ñaá
     .accesskey = K
@@ -158,8 +161,16 @@ menu-view-show-all-tabs =
 menu-history =
     .label = Ña ntsinu
     .accesskey = s
+menu-history-show-all-history =
+    .label = Sna'a ntii ña tsinu
 menu-history-clear-recent-history =
     .label = Stoó ña ntsinu sa nuu…
+menu-history-synced-tabs =
+    .label = Xikua ndakita'an
+menu-history-restore-last-session =
+    .label = Nchiko sesión yata
+menu-history-hidden-tabs =
+    .label = XIkua se'e
 
 ## Bookmarks Menu
 

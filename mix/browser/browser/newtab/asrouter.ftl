@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Extensión ña ku kuncheu
+cfr-doorhanger-pintab-heading = Saa ña ño'o: sti'in xikua
 
 
 
@@ -15,11 +16,16 @@ cfr-doorhanger-extension-cancel-button = VIchi nkuu
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Chika Vichi
     .accesskey = C
+cfr-doorhanger-pintab-ok-button = Chika xikua yo
+    .accesskey = C
 cfr-doorhanger-extension-learn-more-link = Skua'a kuakaa…
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ña { $name }
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-extension-notification = Recomendación
 
 ## Add-on statistics
 ## These strings are used to display the total number of
