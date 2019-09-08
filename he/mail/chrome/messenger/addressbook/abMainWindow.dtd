@@ -29,9 +29,9 @@
 <!ENTITY closeCmd.label                                 "סגירה">
 <!ENTITY closeCmd.key                                   "W">
 <!ENTITY closeCmd.accesskey                             "c">
-<!ENTITY printSetupCmd.label                            "הגדרות עמוד…">
+<!ENTITY printSetupCmd.label                            "הגדרת עמוד…">
 <!ENTITY printSetupCmd.accesskey                        "ג">
-<!ENTITY printPreviewContactCmd.label                   "הצגה לפני הדפסה של איש הקשר">
+<!ENTITY printPreviewContactCmd.label                   "תצוגה לפני הדפסה של איש הקשר">
 <!ENTITY printPreviewContactCmd.accesskey               "ה">
 <!ENTITY printPreviewAddressBook.label                  "הצג לפני הדפסה את פנקס הכתובות">
 <!ENTITY printPreviewAddressBook.accesskey              "צ">
@@ -173,9 +173,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "שלח הודעת דואר">
 <!ENTITY newIM.tooltip                                  "שלח הודעה מידית או צ׳אט">
 <!ENTITY deleteButton2.tooltip                          "מחיקת פריטים נבחרים">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "ספר כתובות">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "שם או דוא״ל">
