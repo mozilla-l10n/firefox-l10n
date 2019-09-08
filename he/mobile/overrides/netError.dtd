@@ -45,7 +45,7 @@
 <!ENTITY fileAccessDenied.title "הגישה לקובץ נדחתה">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
-  <li>יתכן שהוסר, הועבר או שהרשאות הקובץ מונעות את הגישה.</li>
+  <li>ייתכן שהקובץ הוסר, הועבר או שההרשאות מונעות את הגישה אליו.</li>
 </ul>
 ">
 
@@ -91,7 +91,8 @@
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
-</ul>">
+</ul>
+">
 
 <!ENTITY unsafeContentType.title "סוג קובץ מסוכן">
 <!ENTITY unsafeContentType.longDesc "
@@ -109,7 +110,7 @@
 <!ENTITY unknownProtocolFound.title "כתובת זו אינה מובנת">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>יתכן שיש צורך ביישומונים נוספים כדי לפתוח כתובת זו.</li>
+  <li>ייתכן שיהיה צורך להתקין יישום אחר כדי לפתוח כתובת זו.</li>
 </ul>
 ">
 
