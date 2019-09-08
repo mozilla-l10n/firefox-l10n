@@ -167,12 +167,45 @@ menu-view-bidi-switch-page-direction =
 menu-history =
     .label = Chukeltu ve'te'
     .accesskey = C
+menu-history-show-all-history =
+    .label = K'uch Kaajayil uve' Chukeltu ve'te'
+menu-history-clear-recent-history =
+    .label = Sojsa kaajayil unq'a vee' A'nnal kuxh achukata'
+menu-history-synced-tabs =
+    .label = Texhlal uva' Kolel ve'te'
+menu-history-restore-last-session =
+    .label = Q'aavisa uve' unpajte uve' kat Axe'tisa kan
+menu-history-hidden-tabs =
+    .label = Texhlal uva' mujel kan
+menu-history-undo-menu =
+    .label = Texhlal uva' a'n chit ni juplik kan
+menu-history-undo-window-menu =
+    .label = Ilb'al uva' a'n chit ni juplik kan
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = K'uchb'al tetz
+    .accesskey = K
+menu-bookmarks-show-all =
+    .label = K'uch Kaajayil unq'a K'uchb'al tetze'
+menu-bookmarks-all-tabs =
+    .label = Aq' texhlal unq'a K'uchb'al tetze'
+menu-bookmarks-toolbar =
+    .label = Q'e'lich texhlal unq'a K'uchb'al tetze'
+menu-bookmarks-other =
+    .label = Ka't kuchb'al tetz
+menu-bookmarks-mobile =
+    .label = K'uchb'al tetz uva' tetz mololb'al
 
 ## Tools Menu
 
+menu-tools =
+    .label = Aq'onb'al
+    .accesskey = A
+menu-tools-downloads =
+    .label = Eq'omal ku'tzan
+    .accesskey = E
 menu-preferences =
     .label =
         { PLATFORM() ->
