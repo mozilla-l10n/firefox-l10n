@@ -217,6 +217,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksSubview.label             "बुकमाकॅफोर">
+<!ENTITY bookmarksMenuButton2.label         "बुकमार्कफोरनि मेनु">
+<!ENTITY bookmarksMenuButton.other.label    "गुबुन बुकमाकॅफोर">
 <!ENTITY viewBookmarksSidebar2.label        "बुकमार्क साइडबारखौ नाय">
 <!ENTITY viewBookmarksToolbar.label         "बुकमार्क टुलबारखौ नाइ">
 <!ENTITY searchBookmarks.label              "बुकमार्कफोरखौ नागिर">
@@ -325,13 +327,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "आवगयनि जथुम्माखौ लाबोफिन">
 <!ENTITY appMenuHistory.viewSidebar.label "जारिमिन साइडबारखौ नाय">
 <!ENTITY appMenuHistory.recentHistory.label "दानि जारिमिन">
+<!ENTITY appMenuHelp.label "मदद">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "गोबां दिन्थि">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "गासैबो दिन्थि">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
@@ -494,6 +499,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY setDesktopBackgroundCmd.label      "डेस्कटप सावगारिनि उनथिं थानाय बादि फज...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "बे बिलाइखौ बुकमार्क हो... ">
+<!ENTITY bookmarkPageCmd2.accesskey   "m">
 <!ENTITY bookmarkThisLinkCmd.label      "बे लिंकखौ बुकमार्क हो">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "बे फ्रेमखौ बुकमार्क हो">
@@ -578,6 +584,8 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -629,6 +637,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "साइड बारखौ बन्द खालाम">
+<!ENTITY sidebarMenuClose.label         "साइड बारखौ बन्द खालाम">
 
 <!ENTITY quitApplicationCmdWin2.label       "ओंखार लां">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
@@ -714,6 +723,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.showreport.label "रिपर्ट खौ दिन्थि">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -722,6 +732,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.issueList.videos "भिडिअफोर">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
      In the protections panel, Content Blocking category items are in three sections:
@@ -729,6 +740,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "हेंथा होबाय">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
@@ -786,6 +798,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
 <!ENTITY trackingProtection.block6.accesskey "T">
+<!ENTITY trackingProtection.reload2.label "बिलाइखौ फिन ल'ड खालाम">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.label "गासैबो दिन्थि">

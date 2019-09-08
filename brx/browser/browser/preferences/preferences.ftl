@@ -67,12 +67,18 @@ get-started-not-logged-in = { -sync-brand-short-name } आव साइन-इ�
 get-started-configured = पसन्दफोर { -sync-brand-short-name } खेव
 is-default = { -brand-short-name } आ दासान्दि नोंथांनि डिफल्ट ब्राउजार
 is-not-default = { -brand-short-name } आ नोंथांनि डिफल्ट ब्राउजार नङा
+set-as-my-default-browser =
+    .label = डिफल्ट बानाय...
+    .accesskey = D
 startup-restore-warn-on-quit =
     .label = ब्रावजार नागारनायनि सिगां नोंनो फोरमायगोन
 tabs-group-header = टेब
 show-tabs-in-taskbar =
     .label = टेब गिबिनुथाइखौ उइन्ड' टास्कबाराव दिन्थि
     .accesskey = k
+browser-containers-enabled =
+    .label = खनथेनार टेब मावथि खालाम
+    .accesskey = n
 browser-containers-learn-more = गोबां सोलों
 browser-containers-settings =
     .label = सेटिं....
@@ -196,8 +202,15 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-search-header =
+    .label = वेबौ नागिर
 home-prefs-topsites-header =
     .label = गिबि साइटफोर
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = { $provider } आ बसोन होनाइ
+home-prefs-recommended-by-learn-more = बेयो माबादि खामानि मावो
 home-prefs-highlights-header =
     .label = हाइलाइटफोर
 home-prefs-highlights-option-visited-pages =
@@ -369,6 +382,9 @@ content-blocking-learn-more = गोबां सोलों
 content-blocking-setting-standard =
     .label = मानदान्दा
     .accesskey = d
+content-blocking-cookies-label =
+    .label = कुकिफोर
+    .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = गोबां फोरमायथिहोग्रा
 
