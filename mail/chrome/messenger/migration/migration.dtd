@@ -20,7 +20,7 @@
 <!ENTITY importItems.title              "פריטים ליבוא">
 <!ENTITY importItems.label              "בחר אלו פריטים ליבא:">
 
-<!ENTITY migrating.title                "מייבא…">
+<!ENTITY migrating.title                "מתבצע ייבוא…">
 <!ENTITY migrating.label                "הפריטים הבאים מיובאים כעת…">
 
 <!ENTITY selectProfile.title            "בחר פרופיל">

@@ -48,4 +48,4 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY select.label             "בחר סוג חומר ליבוא:">
 
 <!ENTITY title.label              "תפקיד">
-<!ENTITY processing.label         "מייבא...">
+<!ENTITY processing.label         "מתבצע ייבוא…">
