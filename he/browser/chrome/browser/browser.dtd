@@ -60,7 +60,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "הגדרת עמוד…">
 <!ENTITY printSetupCmd.accesskey "ה">
-<!ENTITY printPreviewCmd.label "הצגה לפני הדפסה">
+<!ENTITY printPreviewCmd.label "תצוגה לפני הדפסה">
 <!ENTITY printPreviewCmd.accesskey "נ">
 <!ENTITY printCmd.label "הדפסה…">
 <!ENTITY printCmd.accesskey "ד">
@@ -118,7 +118,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY fullScreenMinimize.tooltip "מזער">
-<!ENTITY fullScreenRestore.tooltip "שחזר">
+<!ENTITY fullScreenRestore.tooltip "שחזור">
 <!ENTITY fullScreenClose.tooltip "סגירה">
 <!ENTITY fullScreenAutohide.label "הסתרת סרגלים">
 <!ENTITY fullScreenAutohide.accesskey "ה">
@@ -355,14 +355,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY deleteCmd.label          "מחיקה">
 <!ENTITY deleteCmd.key            "D">
 <!ENTITY deleteCmd.accesskey        "ח">
-<!ENTITY selectAllCmd.label         "בחירת הכול">
+<!ENTITY selectAllCmd.label         "בחירת הכל">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "ב">
 <!ENTITY preferencesCmd2.label       "אפשרויות">
 <!ENTITY preferencesCmd2.accesskey     "א">
 <!ENTITY preferencesCmdUnix.label       "העדפות">
 <!ENTITY preferencesCmdUnix.accesskey     "ד">
-<!ENTITY logins.label                           "פרטי גישה וססמאות">
+<!ENTITY logins.label                           "כניסות וססמאות">
 
 <!ENTITY clearRecentHistory.label               "ניקוי היסטוריה אחרונה…">
 
@@ -824,10 +824,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "פרטי ההתחברות המוזנים בעמוד זה עשויים להיות חשופים בפני גורמי צד שלישי.">
 <!ENTITY identity.customRoot "חיבור מאומת על־ידי מנפיק אישורים שאינו מזוהה על־ידי Mozilla.">
 
+<!ENTITY identity.evOwnerLabel2 "האישור הונפק עבור:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; חסם חלקים שאינם בטוחים בדף זה.">
-<!ENTITY identity.passiveLoaded "חלקים מהדף הזה אינם בטוחים (כגון תמונות).">
+<!ENTITY identity.passiveLoaded "חלקים מדף זה אינם מאובטחים (כגון תמונות).">
 <!ENTITY identity.activeLoaded "ניטרלת את אמצעי האבטחה על דף זה.">
 <!ENTITY identity.weakEncryption "דף זה משתמש בהצפנה חלשה.">
 
@@ -863,7 +864,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "לא סופקו לאתר זה הרשאות מיוחדות.">
 <!ENTITY identity.permissionsReloadHint "יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.">
 <!ENTITY identity.permissionsPreferences.tooltip "פתיחת העדפות הרשאות">
-<!ENTITY identity.contentBlockingPreferences.tooltip "פתיחת העדפות לחסימת תוכן">
+<!ENTITY identity.contentBlockingPreferences.tooltip "פתיחת העדפות חסימת תוכן">
 
 
 <!-- LOCALIZATION NOTE:
@@ -1000,7 +1001,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.reload2.label "טעינה מחדש של העמוד">
 <!ENTITY trackingProtection.reload2.accesskey "ט">
 
-<!ENTITY pluginNotification.showAll.label "הצגת הכול">
+<!ENTITY pluginNotification.showAll.label "הצגת הכל">
 <!ENTITY pluginNotification.showAll.accesskey "כ">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the

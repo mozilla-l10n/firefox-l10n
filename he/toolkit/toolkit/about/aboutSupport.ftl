@@ -8,7 +8,7 @@ page-subtitle =
     כשתנסה לפתור בעיות. אם אתה מחפש תשובות לשאלות נפוצות
     על { -brand-short-name }, עבור ל<a data-l10n-name="support-link">אתר התמיכה</a>.
 crashes-title = דיווחי קריסה
-crashes-id = קוד דיווח
+crashes-id = מזהה דיווח
 crashes-send-date = נשלח
 crashes-all-reports = כל דיווחי הקריסה
 crashes-no-config = יישום זה לא הוגדר להציג דיווחי קריסה.
