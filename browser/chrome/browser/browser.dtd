@@ -899,12 +899,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Estetty">
+<!ENTITY protections.notBlocking2.label "Sallittu">
+<!ENTITY protections.notFound.label "Ei havaittu">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Miksi?">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Suojauksien poistaminen käytöstä sallii kaikki seuraimet tällä sivustolla. Se saattaa myös parantaa joidenkin sivustojen toiminnallisuutta.">
 <!ENTITY protections.socialMediaTrackers.label "Sosiaalisen median seuraimet">
+<!ENTITY protections.crossSiteTrackingCookies.label "Sivustorajat ylittävät seurainevästeet">
 <!ENTITY protections.trackingContent.label "Seurantaan tarkoitettu sisältö">
 <!ENTITY protections.fingerprinters.label "Yksilöijät">
 <!ENTITY protections.cryptominers.label "Kryptolouhijat">
@@ -965,6 +969,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.socialblock.label "Sosiaalisen median seuraimet">
 
+<!ENTITY contentBlocking.cookies2.label "Sivustorajat ylittävät seurainevästeet">
 
 <!ENTITY contentBlocking.cryptominers.label "Kryptolouhijat">
 <!ENTITY contentBlocking.cryptominersView.label "Kryptolouhijat">
