@@ -854,7 +854,7 @@ collection-studies =
     .label = Salli, että { -brand-short-name } asentaa ja suorittaa tutkimuksia
 collection-studies-link = Näytä { -brand-short-name }-tutkimukset
 addon-recommendations =
-    .label = Salli { -brand-short-name }in tehdä henkilökohtaisia laajennussuosituksia
+    .label = Salli, että { -brand-short-name } tekee henkilökohtaisia laajennussuosituksia
 addon-recommendations-link = Lue lisää
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.

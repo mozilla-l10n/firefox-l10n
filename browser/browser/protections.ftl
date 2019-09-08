@@ -98,6 +98,14 @@ info-exposed-passwords-found =
        *[other] Salasanaa paljastunut kaikissa vuodoissa
     }
 full-report-link = Katso koko raportti: <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Tallennettu kirjautumistieto saattaa olla paljastunut tietovuodossa. Vaihda tämä salasana parantaaksesi tietoturvaasi verkossa. <a data-l10n-name="lockwise-link">Näytä tallennetut kirjautumistiedot</a>
+       *[other] Tallennettuja kirjautumistietoja saattaa olla paljastunut tietovuodossa. Vaihda nämä salasanat parantaaksesi tietoturvaasi verkossa. <a data-l10n-name="lockwise-link">Näytä tallennetut kirjautumistiedot</a>
+    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Siirry yksityisyysasetuksiin
 # This is the title attribute describing the Lockwise card's link to about:logins
