@@ -131,6 +131,9 @@ media-device-format = Format
 media-device-channels = Mga channel
 media-device-rate = Rate
 media-device-latency = Latency
+media-capabilities-title = Mga Media Capability
+# List all the entries of the database.
+media-capabilities-enumerate = Ilista ang database
 
 
 
