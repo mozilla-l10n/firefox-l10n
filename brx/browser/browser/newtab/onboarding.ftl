@@ -56,12 +56,14 @@ onboarding-screenshots-title = स्क्रिनसटफोर
 onboarding-addons-title = दाजाबदाफोर
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = सिनक
+onboarding-tracking-protection-button2 = बेयो माबादि खामानि मावो
 onboarding-data-sync-button2 = { -sync-brand-short-name } आव साइन-इन खालाम
 onboarding-browse-privately-button = मोनसे प्राइभेट उइन्ड'खौ खेव
 onboarding-firefox-send-button = { -send-brand-name } खौ नाजा
 onboarding-mobile-phone-title = { -brand-product-name } खौ नोंथांनि जानबुङाव नांगौब्ला
 onboarding-pocket-anywhere-button = { -pocket-brand-name } खौ नाजा
 onboarding-lockwise-passwords-title = नोंनि पासवर्दखौ जेरावबो लांंफा
+onboarding-lockwise-passwords-button2 = आपखौ ला
 
 ## Message strings belonging to the Return to AMO flow
 

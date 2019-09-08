@@ -21,11 +21,14 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = नागिरनाय इन्जिनखौ दाजाबदेर
 newtab-topsites-add-topsites-header = गोदान गिबि साइट खेव
 newtab-topsites-edit-topsites-header = गिबि साइटखौ सुजु
 newtab-topsites-title-label = बिमुं
 newtab-topsites-title-input =
     .placeholder = मोनसे बिमुं हो
+newtab-topsites-url-label = URL
+newtab-topsites-url-validation = बाहाय जाथाव URL नांगौ
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -115,6 +118,7 @@ newtab-label-download = डाउनल'ड खालामबाय
 ## meant as a call to action for the given section.
 
 newtab-section-menu-add-topsite = गिबि साइट आव दाजाब
+newtab-section-menu-add-search-engine = नागिरनाय इन्जिनखौ दाजाबदेर
 newtab-section-menu-move-up = गोजौआव लाबो
 newtab-section-menu-move-down = गाहायाव लाबो
 newtab-section-menu-privacy-notice = गुमुरथि मिथिसारहोनाय

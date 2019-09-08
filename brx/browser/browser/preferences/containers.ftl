@@ -29,3 +29,7 @@ containers-color-label = गाब
 containers-button-done =
     .label = जाखांबाइ
     .accesskey = D
+containers-icon-fingerprint =
+    .label = आसिनि दाग
+containers-icon-circle =
+    .label = बिंदु
