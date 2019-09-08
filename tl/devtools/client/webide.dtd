@@ -124,6 +124,8 @@
 <!ENTITY device_typenone "Pumili ng uri">
 
 <!-- Device Preferences -->
+<!ENTITY devicepreference_title "Mga Kagustuhan para sa Device">
+<!ENTITY devicepreference_search "Mga kagustuhan sa paghahanap">
 
 <!-- Device Settings -->
 <!ENTITY devicesetting_title "Mga Device Setting">
