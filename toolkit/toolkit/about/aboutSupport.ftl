@@ -151,6 +151,7 @@ intl-locales-default = Standard-sprog
 intl-os-title = Operativsystem
 intl-os-prefs-system-locales = System-sprog
 intl-regional-prefs = Regionale indstillinger
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -158,6 +159,7 @@ report-crash-for-days =
         [one] Fejlrapporter for det seneste døgn
        *[other] Fejlrapporter for de seneste { $days } døgn
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -165,6 +167,7 @@ crashes-time-minutes =
         [one] { $minutes } minut siden
        *[other] { $minutes } minutter siden
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -172,6 +175,7 @@ crashes-time-hours =
         [one] { $hours } time siden
        *[other] { $hours } timer siden
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -179,6 +183,7 @@ crashes-time-days =
         [one] { $days } dag siden
        *[other] { $days } dage siden
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -186,11 +191,11 @@ pending-reports =
         [one] Alle fejlrapporter (inklusive { $reports } afventende fejl i den angivne tidsramme)
        *[other] Alle fejlrapporter (inklusive { $reports } afventende fejl i den angivne tidsramme)
     }
+
 raw-data-copied = Rå data blev kopieret til udklipsholderen
 text-copied = Tekst blev kopieret til udklipsholderen
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
-
 blocked-driver = Ikke understøttet i denne grafik-driver-version.
 blocked-gfx-card = Ikke understøttet i denne grafik-driver-version grundet uløste driver-forhold.
 blocked-os-version = Ikke understøttet i denne version af dit operativsystem.
@@ -198,9 +203,11 @@ blocked-mismatched-version = Ikke understøttet af driveren til dit grafikkort p
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Ikke understøttet i denne grafik-driver-version. Prøv at opgradere din grafik-driver til version { $driverVersion } eller nyere.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType parametre
+
 compositing = Komposition
 hardware-h264 = H264-afkodning i hardware
 main-thread-no-omtc = main thread, ingen OMTC
@@ -238,16 +245,20 @@ webgl2-version = WebGL 2 Driver-version
 webgl2-driver-extensions = WebGL 2 Driver-udvidelser
 webgl2-extensions = WebGL 2-udvidelser
 blocklisted-bug = Blokeret på grund af kendte problemer
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blokeret; fejlkode { $failureCode }
+
 d3d11layers-crash-guard = D3D11-kompositoren
 d3d11video-crash-guard = D3D11-videodekoder
 d3d9video-crash-buard = D3D9-videodekoder
 glcontext-crash-guard = OpenGL
+
 reset-on-next-restart = Nulstil ved næste genstart
 gpu-process-kill-button = Afslut GPU-process
 gpu-device-reset = Device Reset
@@ -257,8 +268,10 @@ content-uses-tiling = Anvender tiling (indhold)
 off-main-thread-paint-enabled = Rasteriser sider i særskilt proces
 off-main-thread-paint-worker-count = Antal workers til rastering af sider i særskilt proces
 target-frame-rate = Mål for framerate
+
 min-lib-versions = Forventet minimumsversion
 loaded-lib-versions = Version i brug
+
 has-seccomp-bpf = Seccomp-BPF (filtrering af systemkald)
 has-seccomp-tsync = Seccomp tråd-synkronisering
 has-user-namespaces = Navneområder
@@ -270,7 +283,6 @@ effective-content-sandbox-level = Effective Content Process Sandbox Level
 sandbox-proc-type-content = indhold
 sandbox-proc-type-file = fil-indhold
 sandbox-proc-type-media-plugin = medie-plugin
-
 sandbox-proc-type-data-decoder = data-decoder
 
 launcher-process-status-0 = Aktiveret
@@ -290,6 +302,7 @@ multi-process-status-6 = Deaktiveret på grund af ikke-understøttet indsætning
 multi-process-status-7 = Deaktiveret af tilføjelser
 multi-process-status-8 = Gennemtving deaktivering
 multi-process-status-unknown = Ukendt status
+
 async-pan-zoom = Asynkron panorering/zoom
 apz-none = ingen
 wheel-enabled = input fra rullehjul
@@ -300,12 +313,10 @@ autoscroll-enabled = autoscroll
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
-
 wheel-warning = asynkront input fra rullehjul er deaktiveret på grund af en ikke understøttet indstilling: { $preferenceKey }
 touch-warning = asynkront input fra trykfølsom skærm er deaktiveret på grund af en ikke understøttet indstilling: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
-
 policies-inactive = Inaktiv
 policies-active = Aktiv
 policies-error = Fejl

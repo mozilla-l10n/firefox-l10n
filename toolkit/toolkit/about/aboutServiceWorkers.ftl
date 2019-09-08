@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### The term "Service Workers" and "Workers" should not be translated
 
 about-service-workers-title = Om service workers
@@ -14,12 +13,6 @@ about-service-workers-warning-no-service-workers = Ingen service workers registr
 # Variables:
 #   $originTitle: original title
 origin-title = Oprindelse: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name }, application-ID { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +27,12 @@ active-cache-name = <strong>Aktuel cache-navn:</strong> { $name }
 waiting-cache-name = <strong>Ventende cache-navn:</strong> { $name }
 push-end-point-waiting = <strong>Push netværksplacering:</strong> { waiting }
 push-end-point-result = <strong>Push netværksplacering:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Opdater
+
 unregister-button = Afregistrering
+
 unregister-error = Kunne ikke afregistrere denne Service Worker.
+
 waiting = Venter…

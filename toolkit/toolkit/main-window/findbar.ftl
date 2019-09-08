@@ -9,12 +9,9 @@ findbar-next =
     .tooltiptext = Find den næste forekomst
 findbar-previous =
     .tooltiptext = Find den forrige forekomst
+
 findbar-find-button-close =
     .tooltiptext = Luk søgebjælke
-findbar-highlight-all =
-    .label = Fremhæv alle
-    .accesskey = a
-    .tooltiptext = Fremhæv alle forekomster
 
 findbar-highlight-all2 =
     .label = fremhæv alle

@@ -4,19 +4,14 @@
 
 crash-reports-title = Fejlrapporter
 
-clear-all-reports-label = Slet alle fejlrapporter
-
 delete-button-label = Slet alle
 delete-confirm-title = Er du sikker?
-delete-confirm-description = Dette vil slette alle fejlrapporter og kan ikke fortrydes.
-
 delete-unsubmitted-description = Dette vil slette alle ikke-sendte fejlrapporter og kan ikke fortrydes.
 delete-submitted-description = Dette vil fjerne listen over sendte fejlrapporter, men vil ikke slette de sendte data. Dette kan ikke fortrydes.
 
 crashes-unsubmitted-label = Ikke-sendte fejlrapporter
 id-heading = Rapport-ID
 date-crashed-heading = Nedbrudsdato
-
 submit-crash-button-label = Indsend
 # This text is used to replace the label of the crash submit button
 # if the crash submission fails.
@@ -24,7 +19,6 @@ submit-crash-button-failure-label = Mislykkedes
 
 crashes-submitted-label = Sendte fejlrapporter
 date-submitted-heading = Indsendelsesdato
-
 view-crash-button-label = Vis
 
 no-reports-label = Du har ikke indsendt nogen fejlrapporter.
