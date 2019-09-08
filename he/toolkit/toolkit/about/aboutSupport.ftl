@@ -7,11 +7,11 @@ page-subtitle =
     דף זה מכיל מידע טכני שאולי שימושי עבורך
     כשתנסה לפתור בעיות. אם אתה מחפש תשובות לשאלות נפוצות
     על { -brand-short-name }, עבור ל<a data-l10n-name="support-link">אתר התמיכה</a>.
-crashes-title = דיווחי קריסות
+crashes-title = דיווחי קריסה
 crashes-id = קוד דיווח
 crashes-send-date = נשלח
-crashes-all-reports = כל דיווחי הקריסות
-crashes-no-config = יישום זה לא הוגדר להציג דיווחי קריסות.
+crashes-all-reports = כל דיווחי הקריסה
+crashes-no-config = יישום זה לא הוגדר להציג דיווחי קריסה.
 extensions-title = הרחבות
 extensions-name = שם
 extensions-enabled = מאופשר
@@ -141,7 +141,7 @@ intl-regional-prefs = העדפות אזוריות
 report-crash-for-days =
     { $days ->
         [one] דיווחי קריסה מהיום האחרון
-       *[other] דיווחי קריסה מ־{ $days } הימים האחרונים.
+       *[other] דיווחי קריסה מ־{ $days } הימים האחרונים
     }
 # Variables
 # $minutes (integer) - Number of minutes since crash
@@ -168,8 +168,8 @@ crashes-time-days =
 # $reports (integer) - Number of pending reports
 pending-reports =
     { $reports ->
-        [one] כל דיווחי הקריסות (כולל קריסה נוספת בטווח הזמן הנתון)
-       *[other] כל דיווחי הקריסות (כולל { $reports } קריסות נוספות בטווח הזמן הנתון)
+        [one] כל דיווחי הקריסה (כולל קריסה נוספת בטווח הזמן הנתון)
+       *[other] כל דיווחי הקריסה (כולל { $reports } קריסות נוספות בטווח הזמן הנתון)
     }
 raw-data-copied = מידע גולמי הועתק ללוח
 text-copied = טקסט הועתק ללוח

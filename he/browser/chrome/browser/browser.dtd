@@ -392,7 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "הצגת כל ההיסטוריה">
-<!ENTITY appMenuHistory.clearRecent.label "מחיקת היסטוריה אחרונה…">
+<!ENTITY appMenuHistory.clearRecent.label "ניקוי היסטוריה אחרונה…">
 <!ENTITY appMenuHistory.restoreSession.label "שחזור הפעלה קודמת">
 <!ENTITY appMenuHistory.viewSidebar.label "הצגת סרגל הצד היסטוריה">
 <!ENTITY appMenuHistory.hideSidebar.label "הסתרת סרגל הצד היסטוריה">
@@ -647,7 +647,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "ה">
-<!ENTITY copyImageCmd.label           "העתקת מיקום התמונה">
+<!ENTITY copyImageCmd.label           "העתקת מיקום תמונה">
 <!ENTITY copyImageCmd.accesskey       "ע">
 <!ENTITY copyImageContentsCmd.label   "העתקת תמונה">
 <!ENTITY copyImageContentsCmd.accesskey  "ת">
@@ -1027,7 +1027,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.header.message "הלשונית החדשה שלך השתנתה.">
 <!ENTITY newTabControlled.keepButton.label "להשאיר שינויים">
 <!ENTITY newTabControlled.keepButton.accesskey "ש">
-<!ENTITY newTabControlled.disableButton.label "נטרול הרחבה">
+<!ENTITY newTabControlled.disableButton.label "השבתת הרחבה">
 <!ENTITY newTabControlled.disableButton.accesskey "נ">
 
 <!ENTITY homepageControlled.message "הרחבה שינתה את הדף המופיע כדף הבית שלך. ניתן לשחזר את ההגדרות שלך אם שינוי זה אינו רצוי.">
