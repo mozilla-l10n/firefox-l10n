@@ -36,6 +36,8 @@
 
 <!ENTITY firstrun_signin_button2 "Kirjaudu sisään">
 
+<!ENTITY firstrun_signup_button "Rekisteröidy">
+
 <!ENTITY firstrun_tabqueue_title "Linkit">
 
 <!ENTITY firstrun_readerview_title "Artikkelit">
@@ -880,11 +882,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Lisää sivuja lukunäkymässä kirjanmerkkeihin lukeaksesi niitä yhteydettömässä tilassa.">
 <!ENTITY helper_triple_readerview_open_button "Lisää kirjanmerkkeihin">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Tervetuloa &brandShortName;-selaimen pariin">
 <!ENTITY activity_stream_signin_description "Aloita kirjanmerkkiesi, salasanojesi ja paljon muun synkronointi Firefox-tilillä.">
 <!ENTITY activity_stream_signin_button "Kirjaudu sisään">
+
+<!ENTITY activity_stream_signup_button "Rekisteröidy">
+<!ENTITY activity_stream_signin_prompt "Onko sinulla jo tili?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Kirjaudu sisään.">
 
 <!ENTITY activity_stream_topsites "Ykkössivustot">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
