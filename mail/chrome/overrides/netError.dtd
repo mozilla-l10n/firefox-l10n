@@ -34,6 +34,11 @@
 </ul>
 ">
 
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>ייתכן שהקובץ הוסר, הועבר או שההרשאות מונעות את הגישה אליו.</li>
+</ul>
+">
 
 <!ENTITY generic.title "שגיאה כללית">
 <!ENTITY generic.longDesc "
@@ -65,7 +70,8 @@
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
-</ul>">
+</ul>
+">
 
 <!ENTITY unsafeContentType.title "סוג קובץ מסוכן">
 <!ENTITY unsafeContentType.longDesc "
@@ -80,6 +86,11 @@
 <!ENTITY netTimeout.title "תם הזמן המוקצב לחיבור">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>ייתכן שיהיה צורך להתקין יישום אחר כדי לפתוח כתובת זו.</li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.title "השרת המתווך דחה את ההתחברות">
 <!ENTITY proxyConnectFailure.longDesc "
