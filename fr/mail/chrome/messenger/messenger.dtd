@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "V">
 <!ENTITY folderPaneBar.label "Barre d’outils du panneau des dossiers">
 <!ENTITY folderPaneBar.accesskey "B">
-<!ENTITY folderModeSelector.label "Vues des dossiers">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Trier par">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Classer les messages sélectionnés">
 <!ENTITY archiveButton.tooltip "Archiver les messages sélectionnés">
 <!ENTITY openConversationButton.tooltip "Afficher la conversation du message sélectionné">
+<!ENTITY openMsgConversationButton.tooltip "Afficher la conversation du message sélectionné">
 <!ENTITY nextButton.tooltip "Aller au prochain message non lu">
 <!ENTITY nextMsgButton.tooltip "Aller au prochain message">
 <!ENTITY previousButton.tooltip "Aller au précédent message non lu">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Étiqueter les messages">
 <!ENTITY compactButton.tooltip "Retirer les messages supprimés du dossier sélectionné">
 <!ENTITY appmenuButton1.tooltip "Afficher le menu de &brandShortName;">
-
 <!ENTITY addonsButton.tooltip "Gérer les modules complémentaires">
 
 <!-- Toolbar Button Popup -->
@@ -707,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Enregistrer la recherche comme dossier…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Sélectionner des messages">
 <!ENTITY threadColumn.label "Discussion">
 <!ENTITY fromColumn.label "Expéditeur">
 <!ENTITY recipientColumn.label "Destinataire">
@@ -730,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Choisir les colonnes à afficher">
+<!ENTITY selectColumn.tooltip "Sélectionner/désélectionner tous les messages">
 <!ENTITY threadColumn2.tooltip "Afficher les fils de discussion">
 <!ENTITY fromColumn2.tooltip "Trier par expéditeur">
 <!ENTITY recipientColumn2.tooltip "Trier par destinataire">

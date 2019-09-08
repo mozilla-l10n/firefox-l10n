@@ -41,6 +41,7 @@ policy-EnableTrackingProtection = Activer ou désactiver le blocage de contenu e
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Installer, désinstaller ou verrouiller les extensions. L’option Installer accepte des URL ou des chemins comme paramètres. Les options Désinstaller et Verrouiller utilisent les identifiants des extensions.
+policy-ExtensionSettings = Gérer tous les aspects de l’installation d’extensions.
 policy-ExtensionUpdate = Activer ou désactiver les mises à jour automatiques des extensions.
 policy-HardwareAcceleration = Si la valeur est sur false, l’accélération matérielle est désactivée.
 policy-InstallAddonsPermission = Autoriser certains sites web à installer des modules complémentaires.
