@@ -36,6 +36,8 @@
 
 <!ENTITY firstrun_signin_button2 "সাইন ইন">
 
+<!ENTITY firstrun_signup_button "সাইন আপ">
+
 <!ENTITY firstrun_tabqueue_title "লিঙ্ক">
 
 <!ENTITY firstrun_readerview_title "নিবন্ধ">
@@ -597,7 +599,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "অবস্থান">
 <!ENTITY bookmark_edit_keyword "কীওয়ার্ড">
 <!ENTITY bookmark_select_folder "ফোল্ডার নির্বাচন">
-
 <!ENTITY bookmark_edit_undo "পূর্বাবস্থায় আনো">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -878,11 +879,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "অফলাইলে পড়তে পাঠক প্রদর্শন আইটেম বুকমার্ক করুন।">
 <!ENTITY helper_triple_readerview_open_button "বুকমার্কে যুক্ত কর">
 
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "&brandShortName; এ স্বাগতম">
 <!ENTITY activity_stream_signin_description "আপনার Firefox অ্যাকাউন্টের সাথে বুকমার্ক, পাসওয়ার্ড এবং আরও অনেক কিছু সিঙ্ক করা শুরু করুন।">
 <!ENTITY activity_stream_signin_button "সাইন ইন">
-<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
-These labels are shown in the Activity Stream recommending the user to sign in. -->
+
+<!ENTITY activity_stream_signup_button "সাইন আউট">
+<!ENTITY activity_stream_signin_prompt "ইতিমধ্যে একটি অ্যাকাউন্ট রয়েছে?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "সাইন ইন।">
 
 <!ENTITY activity_stream_topsites "শীর্ষ সাইট">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
