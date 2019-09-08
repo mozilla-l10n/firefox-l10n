@@ -10,56 +10,56 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
-policy-3rdparty = Permet de définir les stratégies auxquelles les WebExtensions peuvent accéder par chrome.storage.managed.
-policy-AppUpdateURL = Permet de définir une URL de mise à jour personnalisée pour l’application.
-policy-Authentication = Configure l’authentification intégrée pour les sites web qui la proposent.
-policy-BlockAboutAddons = Bloque l’accès au gestionnaire de modules (about:addons).
-policy-BlockAboutConfig = Bloque l’accès à la page about:config.
-policy-BlockAboutProfiles = Bloque l’accès à la page about:profiles.
-policy-BlockAboutSupport = Bloque l’accès à la page about:support.
-policy-Bookmarks = Permet de créer des marque-pages dans la Barre personnelle, le menu des marque-pages ou un de leurs sous-dossiers.
-policy-CaptivePortal = Permet ou interdit la prise en charge du portail captif.
-policy-CertificatesDescription = Permet d’ajouter des certificats ou d’utiliser des certificats prédéfinis.
-policy-Cookies = Permet ou interdit aux sites de définir des cookies.
-policy-DefaultDownloadDirectory = Définit le répertoire de téléchargement par défaut.
-policy-DisableAppUpdate = Empêche le navigateur de se mettre à jour.
-policy-DisableBuiltinPDFViewer = Désactive PDF.js, la visionneuse PDF intégrée dans { -brand-short-name }.
-policy-DisableDeveloperTools = Bloque l’accès aux outils de développement.
-policy-DisableFeedbackCommands = Désactive les commandes permettant d’envoyer des commentaires dans le menu d’aide (Donner votre avis et Signaler un site trompeur).
-policy-DisableFirefoxAccounts = Désactive les services basés sur un { -fxaccount-brand-name }, y compris la synchronisation.
+policy-3rdparty = Permettre de définir les stratégies auxquelles les WebExtensions peuvent accéder par chrome.storage.managed.
+policy-AppUpdateURL = Définir une URL de mise à jour personnalisée pour l’application.
+policy-Authentication = Configurer l’authentification intégrée pour les sites web qui la proposent.
+policy-BlockAboutAddons = Bloquer l’accès au gestionnaire de modules (about:addons).
+policy-BlockAboutConfig = Bloquer l’accès à la page about:config.
+policy-BlockAboutProfiles = Bloquer l’accès à la page about:profiles.
+policy-BlockAboutSupport = Bloquer l’accès à la page about:support.
+policy-Bookmarks = Créer des marque-pages dans la Barre personnelle, le menu des marque-pages ou un de leurs sous-dossiers.
+policy-CaptivePortal = Permettre ou interdire la prise en charge des portails captifs.
+policy-CertificatesDescription = Ajouter des certificats ou utiliser des certificats prédéfinis.
+policy-Cookies = Permettre ou interdire aux sites de définir des cookies.
+policy-DefaultDownloadDirectory = Définir le répertoire de téléchargement par défaut.
+policy-DisableAppUpdate = Empêcher le navigateur de se mettre à jour.
+policy-DisableBuiltinPDFViewer = Désactiver PDF.js, la visionneuse PDF intégrée dans { -brand-short-name }.
+policy-DisableDeveloperTools = Bloquer l’accès aux outils de développement.
+policy-DisableFeedbackCommands = Désactiver les commandes permettant d’envoyer des commentaires dans le menu d’aide (Donner votre avis et Signaler un site trompeur).
+policy-DisableFirefoxAccounts = Désactiver les services basés sur un { -fxaccount-brand-name }, y compris la synchronisation.
 # Firefox Screenshots is the name of the feature, and should not be translated.
-policy-DisableFirefoxScreenshots = Désactive la fonctionnalité Firefox Screenshots.
-policy-DisableFirefoxStudies = Empêche { -brand-short-name } d’exécuter des études.
-policy-DisableForgetButton = Empêche l’accès au bouton d’effacement des données.
-policy-DisableFormHistory = Désactive la conservation de l’historique des recherches et des formulaires.
-policy-DisableMasterPasswordCreation = Si activé, empêche la création d’un mot de passe principal.
-policy-DisablePocket = Désactive la fonctionnalité d’enregistrement de pages web dans Pocket.
-policy-DisablePrivateBrowsing = Désactive la navigation privée.
-policy-DisableProfileImport = Désactive la commande de menu permettant d’importer des données à partir d’un autre navigateur.
-policy-DisableProfileRefresh = Désactive le bouton Réparer { -brand-short-name } dans la page about:support.
-policy-DisableSafeMode = Désactive le redémarrage en mode sans échec. Note : sous Windows, le passage en mode sans échec via la touche Majuscule ne peut être désactivé qu’à l’aide d’une stratégie de groupe.
-policy-DisableSecurityBypass = Empêche l’utilisateur de contourner certains avertissements de sécurité.
-policy-DisableSetAsDesktopBackground = Désactive la commande contextuelle Choisir l’image comme fond d’écran pour les images.
-policy-DisableSystemAddonUpdate = Empêche le navigateur d’installer et de mettre à jour des modules complémentaires.
-policy-DisableTelemetry = Désactive la télémétrie.
-policy-DisplayBookmarksToolbar = Affiche la barre personnelle par défaut.
-policy-DisplayMenuBar = Affiche la barre de menus par défaut.
-policy-DNSOverHTTPS = Permet de configurer le DNS via HTTPS.
-policy-DontCheckDefaultBrowser = Désactive la vérification du navigateur par défaut au démarrage.
-policy-DownloadDirectory = Permet de définir et verrouiller le répertoire de téléchargement.
+policy-DisableFirefoxScreenshots = Désactiver la fonctionnalité Firefox Screenshots.
+policy-DisableFirefoxStudies = Empêcher { -brand-short-name } d’exécuter des études.
+policy-DisableForgetButton = Empêcher l’accès au bouton d’effacement des données.
+policy-DisableFormHistory = Désactiver la conservation de l’historique des recherches et des formulaires.
+policy-DisableMasterPasswordCreation = Si activé, il sera impossible de créer un mot de passe principal.
+policy-DisablePocket = Désactiver la fonctionnalité d’enregistrement de pages web dans Pocket.
+policy-DisablePrivateBrowsing = Désactiver la navigation privée.
+policy-DisableProfileImport = Désactiver la commande de menu permettant d’importer des données à partir d’un autre navigateur.
+policy-DisableProfileRefresh = Désactiver le bouton Réparer { -brand-short-name } dans la page about:support.
+policy-DisableSafeMode = Désactiver le redémarrage en mode sans échec. Note : sous Windows, le passage en mode sans échec via la touche Majuscule ne peut être désactivé qu’à l’aide d’une stratégie de groupe.
+policy-DisableSecurityBypass = Empêcher l’utilisateur de contourner certains avertissements de sécurité.
+policy-DisableSetAsDesktopBackground = Désactiver la commande contextuelle Choisir l’image comme fond d’écran pour les images.
+policy-DisableSystemAddonUpdate = Empêcher le navigateur d’installer et de mettre à jour des modules complémentaires.
+policy-DisableTelemetry = Désactiver la télémétrie.
+policy-DisplayBookmarksToolbar = Afficher la barre personnelle par défaut.
+policy-DisplayMenuBar = Afficher la barre de menus par défaut.
+policy-DNSOverHTTPS = Configurer le DNS via HTTPS.
+policy-DontCheckDefaultBrowser = Désactiver la vérification du navigateur par défaut au démarrage.
+policy-DownloadDirectory = Définir et verrouiller le répertoire de téléchargement.
 # “lock” means that the user won’t be able to change this setting
-policy-EnableTrackingProtection = Active ou désactive le blocage de contenu et permet de verrouiller ce choix.
+policy-EnableTrackingProtection = Activer ou désactiver le blocage de contenu et permettre de verrouiller ce choix.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
-policy-Extensions = Installe, désinstalle ou verrouille les extensions. L’option d’installation accepte des URL ou des chemins comme paramètres. Les options Désinstaller et Verrouiller utilisent les identifiants des extensions.
-policy-ExtensionSettings = Gére tous les aspects de l’installation d’extensions.
-policy-ExtensionUpdate = Active ou désactive la mise à jour automatique des extensions.
-policy-FirefoxHome = Configure l’accueil de Firefox.
-policy-FlashPlugin = Autorise ou non l’utilisation du plugin Flash.
+policy-Extensions = Installer, désinstaller ou verrouiller les extensions. L’option d’installation accepte des URL ou des chemins comme paramètres. Les options Désinstaller et Verrouiller utilisent les identifiants des extensions.
+policy-ExtensionSettings = Gérer tous les aspects de l’installation d’extensions.
+policy-ExtensionUpdate = Activer ou désactiver la mise à jour automatique des extensions.
+policy-FirefoxHome = Configurer l’accueil de Firefox.
+policy-FlashPlugin = Autoriser ou non l’utilisation du plugin Flash.
 policy-HardwareAcceleration = Si faux, désactive l’accélération matérielle.
 # “lock” means that the user won’t be able to change this setting
-policy-Homepage = Définit la page d’accueil et permet de la verrouiller.
+policy-Homepage = Définir la page d’accueil et permettre de la verrouiller.
 policy-InstallAddonsPermission = Autorise certains sites web à installer des extensions.
 policy-LocalFileLinks = Autorise des sites précis à utiliser des liens vers des fichiers locaux.
 policy-NetworkPrediction = Permet ou interdit la prédiction réseau (prélecture DNS).
