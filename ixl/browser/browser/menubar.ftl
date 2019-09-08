@@ -121,16 +121,52 @@ menu-view-full-zoom-enlarge =
 menu-view-full-zoom-reduce =
     .label = Ich'oob'isale'
     .accesskey = I
+menu-view-full-zoom-reset =
+    .label = Ixe'te'
+    .accesskey = I
+menu-view-full-zoom-toggle =
+    .label = A' kuxh u Tz'ib'e' la nimb'isali
+    .accesskey = T
+menu-view-page-style-menu =
+    .label = Ika'y u U'uje'
+    .accesskey = I
+menu-view-page-style-no-style =
+    .label = Ye'l tilon ika'ye' ati
+    .accesskey = Y
+menu-view-page-basic-style =
+    .label = Kam chit Tilon Ika'y u U'uje'
+    .accesskey = K
+menu-view-charset =
+    .label = Taq'ax  texhlal u Tz'ib'e'
+    .accesskey = T
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Oken tu vee' na'k chit Vatze' Kaajayil
+    .accesskey = K
+menu-view-exit-full-screen =
+    .label = Elen ch'u'l tu vee' na'l kat chit  Vivatze' Kaajayil
+    .accesskey = K
+menu-view-full-screen =
+    .label = Ivatz Kaajayil
+    .accesskey = K
 
 
 
+menu-view-show-all-tabs =
+    .label = K'uch Kaajayil chit unq'a Texhlale'
+    .accesskey = K
+menu-view-bidi-switch-page-direction =
+    .label = Jalpu Tatin u U'uje'
+    .accesskey = T
 
 ## History Menu
 
+menu-history =
+    .label = Chukeltu ve'te'
+    .accesskey = C
 
 ## Bookmarks Menu
 
