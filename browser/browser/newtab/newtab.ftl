@@ -97,7 +97,7 @@ newtab-menu-bookmark = הוספת סימנייה
 
 newtab-menu-copy-download-link = העתקת קישור ההורדה
 newtab-menu-go-to-download-page = מעבר לעמוד ההורדה
-newtab-menu-remove-download = הסרה מההיסטוריה
+newtab-menu-remove-download = הסרה מההיסטורייה
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
