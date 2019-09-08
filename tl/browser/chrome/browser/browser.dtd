@@ -827,6 +827,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Ang mga pag-login na ipinasok sa pahinang ito ay maaaring makompromiso.">
 <!ENTITY identity.customRoot "Ang connection ay na-verify ng isang certificate issuer na hindi kinikilala ng Mozilla.">
 
+<!ENTITY identity.evOwnerLabel2 "Inisyu ang certificate kay:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; Na-block ang mga bahagi ng pahinang ito na hindi ligtas.">
@@ -919,6 +920,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Sinusundan ka ng mga cookie na ito sa iba't-ibang mga site para matyagan ka sa kung ano ang ginagawa mo online. Itinakda ito ng mga third party kagaya ng mga advertiser at kumpanyang may kinalaman sa analytics.">
 <!ENTITY protections.cryptominers.description "Ginagamit ng mga cryptominer ang computing power ng sistema mo para kumita ng digital na pera. Ang mga cryptomining script ay nakakaubos ng baterya mo, nagpapabagal sa computer, at pwedeng dumagdag sa bayarin mo sa kuryente.">
 <!ENTITY protections.fingerprinters.description "Ang mga fingerprinter ay nangongolekta ng mga setting sa browser at computer mo para makilala ka. Gamit ang digital fingerprint na ito, pwede ka nilang manmanan sa iba't-ibang mga website.">
+<!ENTITY protections.trackingContent2.description "Ang mga website ay maaaring mag-load ng mga external ad, video, at iba pang content na may tracking code. Ang pagharang sa tracking content ay makatutulong sa mga site na mag-load nang mas mabilis, pero may mga button, form, at login field na maaaring hindi gumana.">
 <!ENTITY protections.socialMediaTrackers.description "Naglalagay ng mga tracker ang mga social network sa ibang mga website para sundan ang iyong mga ginagawa, tinitingnan, at pinapanood online. Dahil dito'y mas nakikilala ka ng mga kumpanya ng social media bukod sa kung ano ang ibinabahagi mo sa iyong social media profile.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -961,6 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection4.label "Mga Tracking Content">
 
+<!ENTITY contentBlocking.manageSettings2.label "I-manage ang mga Protection Setting">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Mga tracker">
