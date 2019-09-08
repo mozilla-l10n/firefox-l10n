@@ -102,6 +102,7 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } lähtien
 cfr-whatsnew-tracking-blocked-link-text = Näytä raportti
 cfr-whatsnew-lockwise-backup-title = Varmuuskopioi salasanasi
+cfr-whatsnew-lockwise-backup-body = Luo turvallisia salasanoja ja käytä niitä mistä hyvänsä kirjaudut sisään.
 cfr-whatsnew-lockwise-backup-link-text = Ota varmuuskopiot käyttöön
 cfr-whatsnew-lockwise-take-title = Ota salasanat mukaasi
 cfr-whatsnew-lockwise-take-body =
@@ -112,6 +113,7 @@ cfr-whatsnew-lockwise-take-link-text = Hanki sovellus
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Saa tämä kirjanmerkki puhelimeesi
+cfr-doorhanger-sync-bookmarks-body = Ota kirjanmerkit, salasanat, historia ja muuta mukaasi minne menetkin, kun kirjaudut { -brand-product-name }-selaimeen.
 cfr-doorhanger-sync-bookmarks-ok-button = Ota { -sync-brand-short-name } käyttöön
     .accesskey = O
 

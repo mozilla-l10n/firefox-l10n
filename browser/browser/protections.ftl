@@ -9,6 +9,15 @@ graph-week-summary =
         [one] { -brand-short-name } esti  { $count } seuraimen viime viikon aikana
        *[other] { -brand-short-name } esti { $count } seurainta viime viikon aikana
     }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] <b>{ $count }</b> seurain estetty { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } lähtien
+       *[other] <b>{ $count }</b> seurainta estetty { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } lähtien
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -25,8 +34,11 @@ graph-today = Tänään
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Kuvaaja sisältäen jokaisen tällä viikolla estetyn seuraintyypin määrän.
 social-tab-title = Sosiaalisen median seuraimet
+social-tab-contant = Sosiaaliset verkot asettavat seuraimia muille verkkosivuille, ja niiden avulla sinua sekä tekemisiäsi voidaan seurata verkossa. Tämä mahdollistaa sosiaalisen median yhtiöiden kerätä sinusta enemmän tietoa kuin mitä itse jaat sosiaalisen median profiileissa. <a data-l10n-name="learn-more-link">Lue lisää</a>
 cookie-tab-title = Sivustorajat ylittävät seurainevästeet
+cookie-tab-content = Nämä evästeet seuraavat eri sivustoilla ja keräävät tietoja tekemisistäsi verkossa. Ne on asetettu kolmansien osapuolten, kuten mainostajien ja analytiikkayhtiöiden, toimesta. <a data-l10n-name="learn-more-link">Lue lisää</a>
 tracker-tab-title = Seurantaan tarkoitettu sisältö
+tracker-tab-description = Verkkosivustot saattavat ladata ulkoisia mainoksia, videoita ja muuta seurantakoodin sisältävää sisältöä. Seurantaan tarkoitetun sisällön estämällä voit nopeuttaa sivujen latautumista, mutta jotkin painikkeet, lomakkeet ja kirjautumiskentät eivät välttämättä toimi. <a data-l10n-name="learn-more-link">Lue lisää</a>
 fingerprinter-tab-title = Yksilöijät
 fingerprinter-tab-content = Yksilöijät keräävät asetustietoja selaimestasi sekä tietokoneestasi ja luovat näiden tietojen avulla profiilin sinusta. Tätä digitaalista sormenjälkeä hyödyntämällä sinua voidaan seurata eri verkkosivustojen välillä. <a data-l10n-name="learn-more-link">Lue lisää</a>
 cryptominer-tab-title = Kryptolouhijat
@@ -58,7 +70,34 @@ lockwise-sync-status =
 lockwise-sync-not-syncing-devices = Ei synkronointia muille laitteille
 monitor-title = Ota tietovuodot tarkkailuun
 monitor-link = Kuinka se toimii
+monitor-header-content-signed-in = { -monitor-brand-name } varoittaa sinua, jos tietosi paljastuvat tunnetussa tietovuodossa.
 monitor-sign-up = Tilaa vuotohälytykset
+auto-scan = Automaattisesti tarkistettu tänään
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Tarkkailtava sähköpostiosoite
+       *[other] Tarkkailtavaa sähköpostiosoitetta
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Tunnettu tietovuoto on paljastanut tietojasi
+       *[other] Tunnettua tietovuotoa on paljastanut tietojasi
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Salasana paljastunut kaikissa vuodoissa
+       *[other] Salasanaa paljastunut kaikissa vuodoissa
+    }
+full-report-link = Katso koko raportti: <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Siirry yksityisyysasetuksiin
 # This is the title attribute describing the Lockwise card's link to about:logins
