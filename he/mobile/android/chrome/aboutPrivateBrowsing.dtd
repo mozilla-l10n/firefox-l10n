@@ -19,7 +19,7 @@
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
-<!ENTITY privatebrowsingpage.description.normal2 "בגלישה פרטית, לא נשאיר שום היסטורית גלישה או עוגיות. סימניות שיתווספו וקבצים שיורדו עדיין יישמרו במכשיר שלך.">
+<!ENTITY privatebrowsingpage.description.normal2 "בגלישה פרטית, לא נשאיר שום היסטוריית גלישה או עוגיות. סימניות שיתווספו וקבצים שיורדו עדיין יישמרו במכשיר שלך.">
 
 <!ENTITY privatebrowsingpage.link.private "מידע נוסף">
 <!ENTITY privatebrowsingpage.link.normal "פתיחת לשונית פרטית חדשה">
