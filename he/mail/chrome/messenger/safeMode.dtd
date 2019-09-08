@@ -1,15 +1,3 @@
-<!--
-# Translator(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
-<!--
-# Reviewer(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-#
--->
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
@@ -23,7 +11,7 @@
 <!ENTITY disableAddons.label              "נטרל את כל התוספות">
 <!ENTITY disableAddons.accesskey          "נ">
 
-<!ENTITY resetToolbars.label              "שחזר סרגלי כלים ופקדים">
+<!ENTITY resetToolbars.label              "איפוס סרגלי כלים ופקדים">
 <!ENTITY resetToolbars.accesskey          "ש">
 
 <!ENTITY changeAndRestartButton.label     "בצע שינויים והפעל מחדש">
@@ -31,4 +19,3 @@
 
 <!ENTITY continueButton.label             "המשך במצב בטוח">
 <!ENTITY continueButton.accesskey         "מ">
-

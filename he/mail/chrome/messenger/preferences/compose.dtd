@@ -18,13 +18,11 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "גופן:">
 <!ENTITY font.accesskey                       "פ">
-<!ENTITY size.label                           "גודל:">
-<!ENTITY size.accesskey                       "ג">
 <!ENTITY fontColor.label                      "צבע טקסט:">
 <!ENTITY fontColor.accesskey                  "ט">
 <!ENTITY bgColor.label                        "צבע רקע:">
 <!ENTITY bgColor.accesskey                    "ר">
-<!ENTITY restoreHTMLDefaults.label            "שחזר ברירות מחדל">
+<!ENTITY restoreHTMLDefaults.label            "שחזור ברירות מחדל">
 <!ENTITY restoreHTMLDefaults.accesskey        "ב">
 <!ENTITY defaultToParagraph.label             "שימוש בתבנית פסקה במקום גוף ההודעה כבררת מחדל">
 <!ENTITY defaultToParagraph.accesskey         "פ">
