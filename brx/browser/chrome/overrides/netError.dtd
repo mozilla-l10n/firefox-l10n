@@ -7,6 +7,7 @@
 
 <!ENTITY loadError.label "बिलाइखौ ल'ड खालामनायाव जानाय जेंना">
 <!ENTITY retry.label "फिन नाजा">
+<!ENTITY returnToPreviousPage.label "उनथिं थांफिन">
 <!ENTITY advanced2.label "जौगाहोनाय…">
 
 <!-- Specific error messages -->
@@ -28,6 +29,7 @@
 
 
 
+<!ENTITY malformedURI.pageTitle "बाहायजायै URL">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "फोनांजाबआ हेंथा होजाबाय">
@@ -66,6 +68,7 @@
 <!ENTITY unknownSocketType.title "सार्भार निफ्राय मिजिंथियै फिननाय           ">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>नोंथांनि सिस्टेमआ निजि रैखाथि मेनेजारखौ इनष्टल खालामबाय नामा रोखा खालामनो आनजाद खालाम।</li> <li>बेयो सार्भारआव स्टेण्डार्ड-नङै बाइजोमहरनि थाखाय जानो हागौ।</li> </ul>">
 
+<!ENTITY nssFailure2.title "रैखाथि फोनांजाबा फेलें जाबाय">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>नोंथाङा नायनो नाजाबाय थानाय बिलाइखौ दिन्थिनो हाया मानोना मोननाय डाटानि गुबैथिखौ थारबिजिरनो हायाखै।</li> <li>बे जेंनाखौ वेबसाइट बिगोमानो खिन्थानो जगाजग खालाम।</li> </ul>">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
