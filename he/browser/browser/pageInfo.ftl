@@ -101,7 +101,7 @@ security-view-privacy-viewpasswords =
     .label = הצגת ססמאות שמורות
     .accesskey = ס
 security-view-technical =
-    .value = פירוט טכני
+    .value = פרטים טכניים
 help-button =
     .label = עזרה
 

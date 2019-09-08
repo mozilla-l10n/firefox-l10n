@@ -172,7 +172,7 @@ pending-reports =
        *[other] כל דיווחי הקריסה (כולל { $reports } קריסות נוספות בטווח הזמן הנתון)
     }
 raw-data-copied = מידע גולמי הועתק ללוח
-text-copied = טקסט הועתק ללוח
+text-copied = הטקסט הועתק ללוח
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 

@@ -4,7 +4,7 @@
 
 title = מידע על רכיב התקשורת
 warning = רכיב זה הוא בשלבי ניסוי. אין להשתמש ללא השגחת מבוגר.
-show-next-time-checkbox = להציג בפני את ההודעה הזאת בפעם הבאה
+show-next-time-checkbox = הצגת אזהרה זו בפעם הבאה
 ok = אישור
 http = HTTP
 sockets = Sockets
@@ -56,3 +56,9 @@ rcwn-avg-long = ממוצע ארוך
 rcwn-std-dev-long = סטיית תקן ארוכה
 rcwn-cache-slow = ספירת אטיות במטמון
 rcwn-cache-not-slow = ספירת חוסר אטיות במטמון
+
+## Link is intended as "network link"
+
+
+
+
