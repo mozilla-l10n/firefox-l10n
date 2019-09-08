@@ -206,6 +206,27 @@ menu-tools =
 menu-tools-downloads =
     .label = Eq'omal ku'tzan
     .accesskey = E
+menu-tools-addons =
+    .label = Tz'ajsab' tetz
+    .accesskey = T
+menu-tools-sync-sign-in =
+    .label = Xe'tisa aq'on tu { -sync-brand-short-name }...
+    .accesskey = X
+menu-tools-sync-now =
+    .label = Kol kaajayil cheel chitu'
+    .accesskey = K
+menu-tools-sync-re-auth =
+    .label = Okso'k tu { -sync-brand-short-name }...
+    .accesskey = O
+menu-tools-web-developer =
+    .label = B'anol tuch Web
+    .accesskey = B
+menu-tools-page-source =
+    .label = Texhlal u U'uje'
+    .accesskey = T
+menu-tools-page-info =
+    .label = Yol ti' u U'uje'
+    .accesskey = Y
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -217,9 +238,37 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = Uve' oora kuxh ni b'anon tuch tilone'
+    .accesskey = U
 
 ## Window Menu
 
+menu-window-menu =
+    .label = Ilb'al
+menu-window-bring-all-to-front =
+    .label = Eq'otzan kaajayil S-vatz
 
 ## Help Menu
 
+menu-help =
+    .label = Lochb'al
+    .accesskey = L
+menu-help-product =
+    .label = Lochb'al tetz { -brand-shorter-name }
+    .accesskey = L
+menu-help-show-tour =
+    .label = La xaan axh tu { -brand-shorter-name }
+    .accesskey = L
+menu-help-keyboard-shortcuts =
+    .label = Majb'al tetz unq'a itz'ib'b'ale'
+    .accesskey = M
+menu-help-troubleshooting-info =
+    .label = Yol aq'al uva' la eel isuuchil unq'a vee' yannajle
+    .accesskey = Y
+menu-help-feedback-page =
+    .label = Aq'b'en ayol
+    .accesskey = A
+menu-help-safe-mode-without-addons =
+    .label = Xe'tisa tuk' unq'a tz'ajsab' tetze' uve' majel kan ivatz
+    .accesskey = X
