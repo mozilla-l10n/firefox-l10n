@@ -102,7 +102,7 @@
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "כבר נוצרה סימנייה">
-<!ENTITY bookmark_removed "סימנייה נמחקה">
+<!ENTITY bookmark_removed "הסימנייה הוסרה">
 <!ENTITY bookmark_updated "סימניה עודכנה">
 <!ENTITY bookmark_options "אפשרויות">
 <!ENTITY bookmark_save "שמירה">
@@ -408,7 +408,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_sync2 "כניסה">
 <!ENTITY pref_sync_summary2 "סנכרון הלשוניות, הסימניות, הכניסות וההיסטוריה שלך">
 <!ENTITY pref_search_suggestions "הצגת הצעות חיפוש">
-<!ENTITY pref_history_search_suggestions "הצגת היסטורית חיפוש">
+<!ENTITY pref_history_search_suggestions "הצגת היסטוריית חיפוש">
 <!ENTITY pref_import_options "אפשרויות יבוא">
 <!ENTITY pref_import_android_summary "יבוא סימניות והיסטוריה מהדפדפן המובנה">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
