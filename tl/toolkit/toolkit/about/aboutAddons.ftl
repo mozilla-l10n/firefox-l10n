@@ -288,6 +288,10 @@ install-theme-button = I-install ang Tema
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Pamahalaan
 find-more-addons = Maghanap pa ng ibang mga add-on
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Karagdagang Pagpipilian
 
 ## Add-on actions
 
@@ -358,6 +362,11 @@ install-update-button = I-update
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Pinagpayagan sa mga private window
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Pinagpayagan sa mga private window
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Kapag pinayagan, ang extension ay magkakaroon ng access sa iyong mga online activity habang nasa private browsing. <a data-l10n-name="learn-more">Alamin</a>
 addon-detail-private-browsing-allow = Payagan
 addon-detail-private-browsing-disallow = Huwag Payagan
@@ -366,6 +375,11 @@ addon-detail-private-browsing-disallow = Huwag Payagan
 addon-badge-recommended =
     .title = Inirerekomenda
     .alt = Inirerekomenda
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = Inirerekomenda lamang ng { -brand-product-name } ang mga extension na pasok sa aming mga pamantayan pagdating sa seguridad at performance
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Mga Magagamit na Update
 recent-updates-heading = Mga Update Kamakailan
 release-notes-loading = Nagloload...
