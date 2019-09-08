@@ -12,7 +12,7 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "צ">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "השתמש בצליל ברירת מחדל">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "ב">
-<!ENTITY pref.calendar.alarms.sound.browse.label "עיין…">
+<!ENTITY pref.calendar.alarms.sound.browse.label "עיון…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "ע">
 <!ENTITY pref.calendar.alarms.sound.play.label "השמעה">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "ש">
