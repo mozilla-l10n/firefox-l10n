@@ -16,6 +16,6 @@
 <!ENTITY span.label                 "Span">
 <!ENTITY color.label                "Kulay:">
 <!ENTITY setDesktopBackground.title "Gawing Background ng Desktop">
-<!ENTITY openDesktopPrefs.label     "Buksan ang mga Preferences ng Desktop">
+<!ENTITY openDesktopPrefs.label     "Buksan ang mga Kagustuhan para sa Desktop">
 <!ENTITY closeWindow.key            "w">
 <!ENTITY previewUnavailable         "Hindi available ang preview">
