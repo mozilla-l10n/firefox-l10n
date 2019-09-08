@@ -86,10 +86,11 @@
 <!ENTITY saveAllAttachmentsCmd.accesskey    "מ">
 <!ENTITY detachAllAttachmentsCmd.label    "נתק הכול…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "נ">
-<!ENTITY deleteAllAttachmentsCmd.label    "מחק הכול…">
+<!ENTITY deleteAllAttachmentsCmd.label    "מחיקת הכל…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "ח">
 
 <!ENTITY openAttachment.tooltip "פתח את הקובץ המצורף">
+
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "שמירה">
