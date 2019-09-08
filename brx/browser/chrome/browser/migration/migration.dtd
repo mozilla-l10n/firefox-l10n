@@ -20,6 +20,7 @@
 <!ENTITY importFromChrome.label         "क्रम">
 <!ENTITY importFromChrome.accesskey     "C">
 <!ENTITY importFromChromeBeta.accesskey "B">
+<!ENTITY importFromChromeDev.label      "क्रम देभ">
 <!ENTITY importFromChromeDev.accesskey  "D">
 <!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "फायारफक्स">

@@ -9,6 +9,7 @@
 <!ENTITY retry.label "फिन नाजा">
 <!ENTITY returnToPreviousPage.label "उनथिं थांफिन">
 <!ENTITY advanced2.label "जौगाहोनाय…">
+<!ENTITY viewCertificate.label "चार्टिफिकेटखौ नाय">
 
 <!-- Specific error messages -->
 
@@ -18,6 +19,7 @@
 <!ENTITY deniedPortAccess.title "बे थंखौ हेंथा होबाय">
 <!ENTITY deniedPortAccess.longDesc "">
 
+<!ENTITY dnsNotFound.pageTitle "सारभार मोनाखौ">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "फाइलखौ मोनाखै">
@@ -27,6 +29,7 @@
 <!ENTITY generic.title "हाय">
 <!ENTITY generic.longDesc "<p>माखासे जाहोननि थाखाय &brandShortName; आ बिलाइखौ ल'ड खालामनो हाया।</p>">
 
+<!ENTITY captivePortal.title "नेटॱवर्क अव लगॱइन खालाम">
 
 
 <!ENTITY malformedURI.pageTitle "बाहायजायै URL">
@@ -108,3 +111,4 @@ was trying to connect. -->
 
 
 
+<!ENTITY networkProtocolError.title "नेटॱवर्क प्रोटोकल गोनांथि">
