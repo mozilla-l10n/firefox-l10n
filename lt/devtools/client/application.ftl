@@ -69,5 +69,29 @@ serviceworker-empty-suggestions-debugger = Pažingsniuokite per savo aptarnavimo
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Tirkite aptarnavimo scenarijus iš kitų domenų. <a>Atverti about:debugging</a>
-# Text displayed when no manifest was found for the current page.
-manifest-empty-intro = Tyrimui nerastas joks manifestas.
+# Header for the view of Manifest displayed in the application panel for the current page.
+manifest-view-header = Programos manifestas
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Klaidos ir įspėjimai
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Tapatumo duomenys
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Pateiktis
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Piktogramos
+# Text displayed while we are loading the manifest file
+manifest-loading = Įkeliamas manifestas…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Manifestas įkeltas.
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = Įkeliant manifestą įvyko klaida:
+# Text displayed when the page has no manifest available
+manifest-non-existing = Nerastas joks manifestas.
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Įspėjimo piktograma
+    .title = Įspėjimas
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Klaidos piktograma
+    .title = Klaida
