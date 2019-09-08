@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Hallinnoi DRM-ohjelmiston käyttöä">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Avaa MIDI-paneeli">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Olet estänyt kameran tältä sivustolta.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Olet estänyt mikrofonin tältä sivustolta.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Olet estänyt tämän sivuston jakamasta näyttöäsi.">
@@ -267,7 +268,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Aloitussivu">
-<!ENTITY homeButton.defaultPage.tooltip "Aloitussivu">
+<!ENTITY homeButton.defaultPage.tooltip "&brandShortName;-aloitussivu">
 
 <!ENTITY bookmarksButton.label          "Kirjanmerkit">
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -810,13 +811,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Yhteys">
 <!ENTITY identity.connectionSecure "Suojattu yhteys">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Yhteyden suojaus">
-
-<!ENTITY identity.connectionSecure2 "Suojattu yhteys">
 <!ENTITY identity.connectionNotSecure "Yhteys ei ole suojattu">
+
 <!ENTITY identity.connectionNotSecureSecurityView "Yhteytesi tähän sivustoon ei ole suojattu.">
 <!ENTITY identity.connectionFile "Sivu on tallennettu tietokoneellesi.">
 <!ENTITY identity.connectionVerified2 "Yhteys sivustoon on suojattu ja sivuston omistaa:">
@@ -826,7 +822,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Tälle sivulle kirjoitettujen kirjautumistietojen turvallisuus voi vaarantua.">
 <!ENTITY identity.customRoot "Yhteys on suojattu varmenteella, jonka myöntäjää Mozilla ei tunnista.">
 
-<!ENTITY identity.evOwnerLabel "Sivuston omistaa:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; on estänyt suojaamattoman sisällön näyttämisen.">
@@ -862,8 +857,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Oikeudet">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Asetetut oikeudet">
 <!ENTITY identity.permissionsEmpty "Sivustolle ei ole myönnetty mitään erityisoikeuksia.">
 <!ENTITY identity.permissionsReloadHint "Sivu tarvitsee ehkä päivittää, jotta muutokset tulevat voimaan.">
 <!ENTITY identity.permissionsPreferences.tooltip "Avaa oikeusasetukset">
@@ -876,7 +869,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Lisätietoja tehostetusta seurannan suojauksesta">
 <!ENTITY protections.settings.label "Suojauksen asetukset">
-<!ENTITY protections.report.label "Näytä koko raportti">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -893,7 +885,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Maksut">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Kommentit">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Videot">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Eikö sivusto toimi suojausten poiskytkemisen jälkeenkään?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Lähetä raportti">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):

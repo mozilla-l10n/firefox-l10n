@@ -339,6 +339,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Ala etsiä tekstistä heti kirjoitettaessa
     .accesskey = A
+browsing-picture-in-picture-learn-more = Lue lisää
 browsing-cfr-recommendations =
     .label = Suosittele laajennuksia selaamisen yhteydessä
     .accesskey = S
@@ -371,7 +372,7 @@ home-restore-defaults =
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Selaimen aloitussivu (oletus)
+    .label = Firefox-aloitussivu (oletus)
 home-mode-choice-custom =
     .label = Omat osoitteet…
 home-mode-choice-blank =
@@ -395,9 +396,9 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header = Selaimen aloitussivun sisältö
-home-prefs-content-description = Valitse selaimen aloitussivulle haluamasi sisältö.
-home-prefs-content-discovery-description = Aloitussivulla olevassa sisällön esittelyosiossa näytetään laadukkaita ja olennaisia artikkeleita ympäri verkkoa.
+home-prefs-content-header = Firefox-aloitussivun sisältö
+home-prefs-content-description = Valitse Firefox-aloitussivulle haluamasi sisältö.
+home-prefs-content-discovery-description = Firefox-aloitussivulla olevassa sisällön esittelyosiossa näytetään laadukkaita ja olennaisia artikkeleita ympäri verkkoa.
 home-prefs-search-header =
     .label = Verkkohaku
 home-prefs-topsites-header =
@@ -600,6 +601,7 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Ehdota ja luo vahvoja salasanoja
     .accesskey = u
+forms-breach-alerts-learn-more-link = Lue lisää
 forms-saved-logins =
     .label = Tallennetut kirjautumistiedot…
     .accesskey = k
@@ -710,8 +712,8 @@ addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Sisällön esto
-content-blocking-enhanced-tracking-protection = Tehostettu seurannan suojaus
 content-blocking-section-description = Suojaa yksityisyyttäsi selatessasi. Estä näkymätön sisältö, joka seuraa vierailemiasi sivuja ja profiloi sinua. Jonkin tällaisen sisällön estäminen saattaa nopeuttaa sivujen latautumista.
+content-blocking-enhanced-tracking-protection = Tehostettu seurannan suojaus
 content-blocking-learn-more = Lue lisää
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
