@@ -8,7 +8,7 @@
 <!ENTITY tracking.label                   "Pistage de l’utilisateur">
 <!ENTITY trackingIntro.label              "Les sites web peuvent pister la façon dont vous les utilisez, ce qui affecte votre vie privée.">
 
-<!ENTITY doNotTrack.label                 "Indiquer aux sites que je ne souhaite pas être pisté">
+<!ENTITY doNotTrack.label                 "Indiquer aux sites que je ne souhaite pas être pisté·e">
 <!ENTITY doNotTrack.accesskey             "I">
 <!ENTITY trackProtect.label               "Empêcher les sites connus de me pister">
 <!ENTITY trackProtect.accesskey           "E">
