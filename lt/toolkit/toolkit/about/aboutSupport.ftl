@@ -32,6 +32,8 @@ app-basics-name = Pavadinimas
 app-basics-version = Laida
 app-basics-build-id = Versijos ID
 app-basics-update-channel = Atnaujinimų kanalas
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Naujinimų aplankas
@@ -56,7 +58,6 @@ app-basics-service-workers = Registruoti aptarnavimo scenarijai
 app-basics-profiles = Profiliai
 app-basics-launcher-process-status = Paleidimo procesas
 app-basics-multi-process-support = Daugiaprocesiai langai
-app-basics-process-count = Saityno turinio procesai
 app-basics-remote-processes-count = Nuotoliniai procesai
 app-basics-enterprise-policies = Įmonės strategijos
 app-basics-location-service-key-google = „Google“ buvimo vietos nustatymo paslaugos raktas
@@ -112,6 +113,13 @@ sandbox-sys-call-number = Kreipimasis į sistemą
 sandbox-sys-call-args = Argumentai
 safe-mode-title = Išbandykite ribotąją veikseną
 restart-in-safe-mode-label = Perleisti išjungus priedus…
+
+## Media titles
+
+audio-backend = Garso posistemė
+max-audio-channels = Daugiausiai kanalų
+channel-layout = Pageidautinas kanalų išdėstymas
+sample-rate = Pageidautinas atkūrimo dažnis
 media-title = Laikmenos
 media-output-devices-title = Išvedimo įrenginiai
 media-input-devices-title = Įvedimo įrenginiai
@@ -124,6 +132,12 @@ media-device-format = Formatas
 media-device-channels = Kanalai
 media-device-rate = Dažnis
 media-device-latency = Delsa
+media-capabilities-title = Medijos galimybės
+# List all the entries of the database.
+media-capabilities-enumerate = Išvardinti duomenų bazės turinį
+
+
+
 intl-title = Internacionalizacija ir lokalizacija
 intl-app-title = Programos nuostatos
 intl-locales-requested = Užklaustos lokalės
@@ -243,12 +257,7 @@ uses-tiling = Naudoja išdėstymą išklotine
 content-uses-tiling = Naudoja išdėstymą išklotine (turinys)
 off-main-thread-paint-enabled = Piešimas ne pagrindinėje gijoje įjungtas
 off-main-thread-paint-worker-count = Piešimo ne pagrindinėje gijoje scenarijų kiekis
-low-end-machine = Aptiktas silpniau veikiantis kompiuteris
 target-frame-rate = Tikslinis kadrų dažnis
-audio-backend = Garso posistemė
-max-audio-channels = Daugiausiai kanalų
-channel-layout = Pageidautinas kanalų išdėstymas
-sample-rate = Pageidautinas atkūrimo dažnis
 min-lib-versions = Minimali priimtina versija
 loaded-lib-versions = Naudojama versija
 has-seccomp-bpf = „Seccomp-BPF“ (kreipimųsi į sistemą filtravimas)

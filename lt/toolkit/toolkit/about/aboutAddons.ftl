@@ -98,9 +98,11 @@ detail-private-browsing-description2 = Jums leidus, šis priedas turės prieigą
 # cannot be overridden by the user.
 detail-private-disallowed-label = Neleidžiama privačiojo naršymo languose
 detail-private-disallowed-description = Šis priedas neveikia privačiojo naršymo languose. <label data-l10n-name="detail-private-browsing-learn-more">Sužinokite daugiau</label>
+detail-private-disallowed-description2 = Šis priedas neveikia privačiojo naršymo languose. <a data-l10n-name="learn-more">Sužinoti daugiau</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Reikalinga prieiga prie privačiojo naršymo langų
 detail-private-required-description = Šis priedas turi prieigą prie jūsų veiksmų naršant privačiai. <label data-l10n-name="detail-private-browsing-learn-more">Sužinokite daugiau</label>
+detail-private-required-description2 = Šis priedas turi priėjimą prie jūsų veiklos naršant privačiai. <a data-l10n-name="learn-more">Sužinoti daugiau</a>
 detail-private-browsing-on =
     .label = Leisti
     .tooltiptext = Įjungti privačiajame naršyme
@@ -301,6 +303,10 @@ install-theme-button = Įdiegti grafinį apvalkalą
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Tvarkyti
 find-more-addons = Rasti daugiau priedų
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Daugiau veiksmų
 
 ## Add-on actions
 
@@ -372,6 +378,11 @@ install-update-button = Atnaujinti
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Leidžiama privačiojo naršymo languose
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Leidžiama privačiojo naršymo languose
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Leidus, priedas turės priėjimą prie jūsų veiklos internete naršant privačiai. <a data-l10n-name="learn-more">Sužinokite daugiau</a>
 addon-detail-private-browsing-allow = Leisti
 addon-detail-private-browsing-disallow = Neleisti
@@ -380,6 +391,11 @@ addon-detail-private-browsing-disallow = Neleisti
 addon-badge-recommended =
     .title = Rekomenduojamas
     .alt = Rekomenduojamas
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = „{ -brand-product-name }“ rekomenduoja tik mūsų saugumo ir našumo reikalavimus atitinkančius priedus
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Galimi naujinimai
 recent-updates-heading = Paskiausiai atnaujinti
 release-notes-loading = Įkeliama…
