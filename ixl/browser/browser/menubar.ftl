@@ -85,9 +85,42 @@ menu-edit-select-all =
 menu-edit-find-on =
     .label = Chuk tu U'uja' Vaa'
     .accesskey = C
+menu-edit-find-again =
+    .label = Chuk unpajte
+    .accesskey = n
+menu-edit-bidi-switch-text-direction =
+    .label = La Jalouul tatinb'al u Tz'ib'e'
+    .accesskey = a
 
 ## View Menu
 
+menu-view =
+    .label = Ila
+    .accesskey = I
+menu-view-toolbars-menu =
+    .label = Q'e'lich tatinb'al aq'on
+    .accesskey = Q
+menu-view-customize-toolbar =
+    .label = Ib'anax tuche'
+    .accesskey = I
+menu-view-sidebar =
+    .label = Q'e'lich s-txala
+    .accesskey = Q
+menu-view-bookmarks =
+    .label = Aq'ol texhlal
+menu-view-history-button =
+    .label = Unq'a vee' chukel ve'te'
+menu-view-synced-tabs-sidebar =
+    .label = Texhlal uva' kolel ve't sta'n
+menu-view-full-zoom =
+    .label = Ich'iie'
+    .accesskey = I
+menu-view-full-zoom-enlarge =
+    .label = Inimb'isale'
+    .accesskey = I
+menu-view-full-zoom-reduce =
+    .label = Ich'oob'isale'
+    .accesskey = I
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
