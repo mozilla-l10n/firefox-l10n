@@ -83,7 +83,7 @@
 <!ENTITY printCmd.label "הדפסה…">
 <!ENTITY printCmd.accesskey "ד">
 <!ENTITY printCmd.key "p">
-<!ENTITY printPreviewCmd.label "הצגת לפני הדפסה">
+<!ENTITY printPreviewCmd.label "תצוגה לפני הדפסה">
 <!ENTITY printPreviewCmd.accesskey "נ">
 <!ENTITY printSetupCmd.label "הגדרת עמוד…">
 <!ENTITY printSetupCmd.accesskey "ה">
@@ -168,7 +168,6 @@
 <!ENTITY compactVersion.accesskey "ח">
 <!ENTITY folderPaneBar.label "סרגל כלים של חלונית תיקיות">
 <!ENTITY folderPaneBar.accesskey "ס">
-<!ENTITY folderModeSelector.label "תצוגות תיקייה">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "סדר לפי">
@@ -431,9 +430,6 @@
 <!ENTITY openMessageWindowCmd.label "פתיחה">
 <!ENTITY openMessageWindowCmd.accesskey "פ">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "פתח בדיון">
-<!ENTITY openConversationCmd.accesskey "ד">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "קבצים מצורפים">
 <!ENTITY openFeedMessage1.label "בעת פתיחת הודעות בהזנה">
 <!ENTITY openFeedMessage1.accesskey "פ">
@@ -639,7 +635,7 @@
 <!ENTITY folderContextPauseUpdates.accesskey "ע">
 <!ENTITY folderContextOpenInNewWindow.label "פתיחה בחלון חדש">
 <!ENTITY folderContextOpenInNewWindow.accesskey "ל">
-<!ENTITY folderContextOpenNewTab.label "פתח בלשונית חדשה">
+<!ENTITY folderContextOpenNewTab.label "פתיחה בלשונית חדשה">
 <!ENTITY folderContextOpenNewTab.accesskey "ש">
 <!ENTITY folderContextNew.label "תת תיקייה חדשה…">
 <!ENTITY folderContextNew.accesskey "ת">
@@ -782,15 +778,9 @@
 <!ENTITY contextSaveAs.accesskey "ש">
 <!ENTITY contextPrint.label "הדפסה...">
 <!ENTITY contextPrint.accesskey "ד">
-<!ENTITY contextPrintPreview.label "הצג לפני הדפסה">
+<!ENTITY contextPrintPreview.label "תצוגה לפני הדפסה">
 <!ENTITY contextPrintPreview.accesskey "ל">
 
-<!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "אפס עמודות לברירת המחדל">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -831,15 +821,14 @@
   -->
 <!ENTITY columnPicker.thisFolder.label "תיקייה זו">
 
-
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "נגן">
 <!ENTITY contextPlay.accesskey "נ">
 <!ENTITY contextPause.label "השהה">
 <!ENTITY contextPause.accesskey "ה">
-<!ENTITY contextMute.label "השתק">
+<!ENTITY contextMute.label "השתקה">
 <!ENTITY contextMute.accesskey "ש">
-<!ENTITY contextUnmute.label "בטל השתקה">
+<!ENTITY contextUnmute.label "ביטול השתקה">
 <!ENTITY contextUnmute.accesskey "ב">
 
 <!-- Quick Search Bar -->
