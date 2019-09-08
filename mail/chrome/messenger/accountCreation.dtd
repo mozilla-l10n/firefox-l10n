@@ -16,7 +16,7 @@
 <!ENTITY email.accesskey                 "E">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "deg@example.com">
-<!ENTITY email3.placeholder              "E-postadressa di">
+<!ENTITY email3.placeholder              "Di e-postadresse">
 <!ENTITY email.text                      "Di eksisterande e-postadresse">
 <!ENTITY email.error                     "Ugyldig e-postadresse">
 <!ENTITY password.label                  "Passord:">
