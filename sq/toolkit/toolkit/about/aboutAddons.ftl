@@ -98,9 +98,11 @@ detail-private-browsing-description2 = Po u lejua, zgjerimi do të mund të hyj�
 # cannot be overridden by the user.
 detail-private-disallowed-label = Nuk Lejohet në Dritare Private
 detail-private-disallowed-description = Ky zgjerim nuk punon nën shfletim privat. <label data-l10n-name="detail-private-browsing-learn-more">Mësoni më tepër</label>
+detail-private-disallowed-description2 = Ky zgjerim nuk punon nën shfletim privat. <a data-l10n-name="learn-more">Mësoni më tepër</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Lyp Hyrje në Dritare Private
 detail-private-required-description = Ky zgjerim ka hyrje te veprimtaritë tuaja <em>online</em> gjatë shfletimi privat. <label data-l10n-name="detail-private-browsing-learn-more">Mësoni më tepër</label>
+detail-private-required-description2 = Ky zgjerim ka hyrje te veprimtaritë tuaja internetore, teksa gjendeni nën shfletim privat. <a data-l10n-name="learn-more">Mësoni më tepër</a>
 detail-private-browsing-on =
     .label = Lejoje
     .tooltiptext = Aktivizojeni te Shfletimi Privat
@@ -153,9 +155,6 @@ private-browsing-description2 =
     Në { -brand-short-name } po ndryshon mënyra se si funksionojnë zgjerimet nën shfletim privat. Çfarëdo zgjerimi i ri që shtoni te
     { -brand-short-name } s’do të xhirohet në Dritare Private, si parazgjedhje. Veç në e lejofshi te rregullimet, zgjerimi s’do të funksionojë, teksa gjendeni nën shfletim privat, dhe s’do të mund të përdorë veprimtaritë tuaja internetore të atyshme. Këtë ndryshim e kemi bërë për ta mbajtur privat shfletimin tuaj privat.
     <label data-l10n-name="private-browsing-learn-more">Mësoni si të administroni rregullime zgjerimi.</label>
-extensions-view-discover =
-    .name = Merrni Shtesa
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Rekomandime
     .tooltiptext = { extensions-view-discopane.name }
@@ -251,6 +250,12 @@ shortcuts-modifier-other = Përfshi Ctrl ose Alt
 shortcuts-invalid = Kombinim i pavlefshëm
 shortcuts-letter = Shtypni një shkronjë
 shortcuts-system = S’anashkalohet dot shkurtore { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Shkurtore e përsëdytur
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } po përdoret si shkurtore në më shumë se një rast. Shkurtoret e përsëdytura mund të shkaktojnë sjellje të papritur.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -290,6 +295,10 @@ install-theme-button = Instaloni Temë
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Administroni
 find-more-addons = Gjeni më tepër shtesa
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Më tepër Mundësi
 
 ## Add-on actions
 
@@ -308,6 +317,16 @@ release-notes-addon-button = Shënime Versioni
 permissions-addon-button = Leje
 addons-enabled-heading = I aktivizuar
 addons-disabled-heading = I çaktivizuar
+extension-enabled-heading = E aktivizuar
+extension-disabled-heading = E çaktivizuar
+theme-enabled-heading = E aktivizuar
+theme-disabled-heading = E çaktivizuar
+plugin-enabled-heading = E aktivizuar
+plugin-disabled-heading = E çaktivizuar
+dictionary-enabled-heading = I aktivizuar
+dictionary-disabled-heading = I çaktivizuar
+locale-enabled-heading = E aktivizuar
+locale-disabled-heading = E çaktivizuar
 ask-to-activate-button = Pyet për Aktivizim
 always-activate-button = Aktivizoje Përherë
 never-activate-button = Mos e Aktivizo Kurrë
@@ -350,6 +369,11 @@ install-update-button = Përditësojeni
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = E lejuar në dritare private
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Lejuar në dritare private
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Nën lejim, zgjerimi do të mund të shohë veprimtaritë tuaja në linjë, teksa shfletoni privatisht. <a data-l10n-name="learn-more">Mësoni më tepër</a>
 addon-detail-private-browsing-allow = Lejoje
 addon-detail-private-browsing-disallow = Mos e Lejo
@@ -358,6 +382,11 @@ addon-detail-private-browsing-disallow = Mos e Lejo
 addon-badge-recommended =
     .title = E këshilluar
     .alt = E këshilluar
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } rekomandon vetëm zgjerime që pajohen me standadet tona mbi sigurinë dhe funksionimin
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Përditësime të Gatshme
 recent-updates-heading = Përditësime Së Fundi
 release-notes-loading = Po ngarkohet…
