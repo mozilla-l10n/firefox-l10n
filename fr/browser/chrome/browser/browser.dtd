@@ -910,7 +910,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Bloquer ces éléments peut entraîner un dysfonctionnement partiel de certains sites web. Sans les traqueurs, certains boutons, formulaires ou champs de connexion peuvent ne pas fonctionner correctement.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Désactiver les protections autorisera tous les traqueurs sur ce site. Cette action peut aussi améliorer le fonctionnement de certaines parties du site web.">
 <!ENTITY protections.socialMediaTrackers.label "Traqueurs de réseaux sociaux">
-<!ENTITY protections.crossSiteTrackingCookies.label "Cookies utilisés pour le pistage entre les sites">
+<!ENTITY protections.crossSiteTrackingCookies.label "Cookies de pistage intersites">
 <!ENTITY protections.trackingContent.label "Contenu utilisé pour le pistage">
 <!ENTITY protections.fingerprinters.label "Détecteurs d’empreinte numérique">
 <!ENTITY protections.cryptominers.label "Mineurs de cryptomonnaies">
@@ -973,7 +973,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.socialblock.label "Traqueurs de réseaux sociaux">
 
-<!ENTITY contentBlocking.cookies2.label "Cookies utilisés pour le pistage entre les sites">
+<!ENTITY contentBlocking.cookies2.label "Cookies de pistage intersites">
 
 <!ENTITY contentBlocking.cryptominers.label "Mineurs de cryptomonnaies">
 <!ENTITY contentBlocking.cryptominersView.label "Mineurs de cryptomonnaies">

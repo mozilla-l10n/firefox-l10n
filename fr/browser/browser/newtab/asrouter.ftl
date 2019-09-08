@@ -88,6 +88,7 @@ cfr-whatsnew-fx70-body =
     La dernière mise à jour améliore la fonctionnalité de protection contre le pistage et rend
     plus facile que jamais de créer des mots de passe sécurisés pour chaque site.
 cfr-whatsnew-tracking-protect-title = Protégez-vous des traqueurs
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } bloque de nombreux traqueurs sociaux et intersites courants qui suivent vos faits et gestes en ligne.
 cfr-whatsnew-tracking-protect-link-text = Consulter votre rapport
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
