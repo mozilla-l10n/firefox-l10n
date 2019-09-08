@@ -272,3 +272,12 @@ menu-help-feedback-page =
 menu-help-safe-mode-without-addons =
     .label = Xe'tisa tuk' unq'a tz'ajsab' tetze' uve' majel kan ivatz
     .accesskey = X
+menu-help-safe-mode-with-addons =
+    .label = Xe'tisa tuk' unq'a tz'ajsab' tetze' uve' jajlu kan kuxhtu'
+    .accesskey = X
+# Label of the Help menu item. Either this or
+# safeb.palm.notdeceptive.label from
+# phishing-afterload-warning-message.dtd is shown.
+menu-help-report-deceptive-site =
+    .label = La aalb'en ab'iste yannajle
+    .accesskey = L
