@@ -46,7 +46,7 @@ clear-time-duration-suffix =
 
 history-section-label = היסטוריה
 item-history-and-downloads =
-    .label = היסטורית גלישה והורדות
+    .label = היסטוריית גלישה והורדות
     .accesskey = ה
 item-cookies =
     .label = עוגיות
@@ -58,7 +58,7 @@ item-cache =
     .label = מטמון
     .accesskey = מ
 item-form-search-history =
-    .label = היסטורית טפסים וחיפוש
+    .label = היסטוריית טפסים וחיפוש
     .accesskey = ט
 data-section-label = נתונים
 item-site-preferences =
