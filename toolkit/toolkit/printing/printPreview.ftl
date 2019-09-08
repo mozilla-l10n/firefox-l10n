@@ -33,6 +33,7 @@ printpreview-of =
     .value = e
 printpreview-custom-prompt =
     .value = Shkallë Vetjake…
+printpreview-custom-scale-prompt-title = Shkallë Vetjake
 printpreview-page-setup =
     .label = Rregullim Faqeje…
     .accesskey = R

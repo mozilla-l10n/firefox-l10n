@@ -35,6 +35,8 @@ app-basics-name = Emër
 app-basics-version = Version
 app-basics-build-id = ID Montimi
 app-basics-update-channel = Kanal Përditësimi
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Drejtori Përditësimesh
@@ -59,7 +61,6 @@ app-basics-service-workers = Service Workers të Regjistruar
 app-basics-profiles = Profile
 app-basics-launcher-process-status = Proces Nisësi
 app-basics-multi-process-support = Dritare Multiproces
-app-basics-process-count = Procese Lënde Web
 app-basics-remote-processes-count = Procese të Largët
 app-basics-enterprise-policies = Rregulla të Ndërmarrjes
 app-basics-location-service-key-google = Ky Shërbimi Vendndodhjesh Google
@@ -113,6 +114,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumente
 safe-mode-title = Provoni Mënyrën e Parrezik
 restart-in-safe-mode-label = Riniseni me Shtesat të Çaktivizuara…
+
+## Media titles
+
+audio-backend = Mekanizëm Audio
+max-audio-channels = Kanale Maksimum
+channel-layout = Skemë e Parapëlqyer Për Kanalin
+sample-rate = Shpejtësi e Parapëlqyer Kampionizimesh
 media-title = Media
 media-output-devices-title = Pajisje Dalje
 media-input-devices-title = Pajisje Hyrje
@@ -125,6 +133,10 @@ media-device-format = Format
 media-device-channels = Kanale
 media-device-rate = Shpeshti
 media-device-latency = Vonesë
+media-capabilities-title = Aftësi Media
+
+
+
 intl-title = Ndërkombëtarizim & Përkthim
 intl-app-title = Rregullime Aplikacionesh
 intl-locales-requested = Gjuhë të Kërkuara
@@ -237,11 +249,6 @@ gpu-device-reset = Rikthim i Pajisjes Në Fillimet
 gpu-device-reset-button = Shkakto Rikthim të Pajisjes Në Fillimet
 uses-tiling = Përdor Tjegullzim
 content-uses-tiling = Përdor Tjegullzim (Lëndë)
-low-end-machine = U pikas makinë më pak e suksesshme
-audio-backend = Mekanizëm Audio
-max-audio-channels = Kanale Maksimum
-channel-layout = Skemë e Parapëlqyer Për Kanalin
-sample-rate = Shpejtësi e Parapëlqyer Kampionizimesh
 min-lib-versions = Version minimum i pritshëm
 loaded-lib-versions = Version në përdorim
 has-seccomp-bpf = Seccomp-BPF (Filtrim Thirrjesh Sistemi)

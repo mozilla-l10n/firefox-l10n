@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Përjashtime - Bllokim Lënde
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = E keni çaktivizuar bllokimin e lëndës në këto sajte.
+permissions-exceptions-etp-window =
+    .title = Përjashtime për Mbrojtje të Thelluar Nga Gjurmimet
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = I keni çaktivizuar mbrojtjet në këto sajte.
 
 ## Exceptions - Cookies
 

@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Zhbëje
 customize-mode-lwthemes-my-themes =
     .value = Temat e Mia
+customize-mode-touchbar-cmd =
+    .label = Përshtatni Shtyllën e Prekjeve…
