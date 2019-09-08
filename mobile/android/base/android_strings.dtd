@@ -247,7 +247,7 @@
 <!ENTITY pref_category_home_add_ons "תוספות">
 <!ENTITY pref_home_updates2 "עדכוני תוכן">
 <!ENTITY pref_home_updates_enabled "מופעל">
-<!ENTITY pref_home_updates_wifi "על רשתות Wi-Fi בלבד">
+<!ENTITY pref_home_updates_wifi "רק בחיבורי Wi-Fi">
 <!ENTITY pref_category_home_homepage "דף בית">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
