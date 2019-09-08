@@ -57,6 +57,6 @@ profiles-delete-profile-failed-message = אירעה שגיאה בעת ניסיו
 profiles-opendir =
     { PLATFORM() ->
         [macos] הצגה ב־Finder
-        [windows] פתיחת תיקיה
-       *[other] פתיחת תיקיה
+        [windows] פתיחת תיקייה
+       *[other] פתיחת ספרייה
     }
