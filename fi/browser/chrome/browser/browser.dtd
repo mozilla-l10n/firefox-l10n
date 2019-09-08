@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Hallinnoi DRM-ohjelmiston käyttöä">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Avaa MIDI-paneeli">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Olet myöntänyt tälle sivustolle lisäoikeuksia.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Olet estänyt kameran tältä sivustolta.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Olet estänyt mikrofonin tältä sivustolta.">
@@ -813,6 +814,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Suojattu yhteys">
 <!ENTITY identity.connectionNotSecure "Yhteys ei ole suojattu">
 
+<!ENTITY identity.connectionSecure3 "Yhteys on suojattu">
+<!ENTITY identity.connectionNotSecure2 "Yhteys ei ole suojattu">
 <!ENTITY identity.connectionNotSecureSecurityView "Yhteytesi tähän sivustoon ei ole suojattu.">
 <!ENTITY identity.connectionFile "Sivu on tallennettu tietokoneellesi.">
 <!ENTITY identity.connectionVerified2 "Yhteys sivustoon on suojattu ja sivuston omistaa:">
@@ -822,6 +825,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Tälle sivulle kirjoitettujen kirjautumistietojen turvallisuus voi vaarantua.">
 <!ENTITY identity.customRoot "Yhteys on suojattu varmenteella, jonka myöntäjää Mozilla ei tunnista.">
 
+<!ENTITY identity.evOwnerLabel2 "Varmenne myönnetty taholle:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; on estänyt suojaamattoman sisällön näyttämisen.">
@@ -857,6 +861,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Oikeudet">
 
+<!ENTITY identity.permissions3 "Käyttöoikeudet">
 <!ENTITY identity.permissionsEmpty "Sivustolle ei ole myönnetty mitään erityisoikeuksia.">
 <!ENTITY identity.permissionsReloadHint "Sivu tarvitsee ehkä päivittää, jotta muutokset tulevat voimaan.">
 <!ENTITY identity.permissionsPreferences.tooltip "Avaa oikeusasetukset">
@@ -869,6 +874,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Lisätietoja tehostetusta seurannan suojauksesta">
 <!ENTITY protections.settings.label "Suojauksen asetukset">
+<!ENTITY protections.showreport.label "Näytä raportti">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->

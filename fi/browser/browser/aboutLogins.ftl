@@ -62,6 +62,8 @@ login-list-item-subtitle-missing-username = (ei käyttäjätunnusta)
 
 login-intro-heading = Etsitkö tallennettuja kirjautumistietojasi? Ota { -sync-brand-short-name } käyttöön.
 login-intro-description = Jos tallensit kirjautumistietosi { -brand-product-name }-selaimeen toisella laitteella, saat ne käyttöön seuraavasti:
+login-intro-instruction-fxa-settings = Varmista, että Kirjautumistiedot-valinta on rastitettu { -sync-brand-short-name }-asetuksissa
+about-logins-intro-instruction-help = Siirry <a data-l10n-name="help-link">{ -lockwise-brand-short-name }-tukeen</a> saadaksesi ohjeita
 
 ## Login
 
@@ -102,6 +104,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Peruuta
 confirmation-dialog-dismiss-button =
     .title = Peruuta
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Haluatko kirjautumistietosi mukaasi minne tahansa, kun käytät { -brand-product-name }ia? Siirry { -sync-brand-short-name }-asetuksiin ja rastita Kirjautumistiedot-valinta.
+       *[other] Haluatko kirjautumistietosi mukaasi minne tahansa, kun käytät { -brand-product-name }ia? Siirry { -sync-brand-short-name }-asetuksiin ja rastita Kirjautumistiedot-valinta.
+    }
 enable-password-sync-preferences-button =
     .label = Siirry { -sync-brand-short-name }-asetuksiin
     .accesskey = S
@@ -114,9 +121,12 @@ confirm-discard-changes-dialog-confirm-button = Hylkää
 
 ## Breach Alert notification
 
+breach-alert-text = Salasanat vuotivat tai niitä varastettiin tältä sivustolta sen jälkeen, kun olet viimeksi päivittänyt kirjautumistietosi. Suojaa tilisi vaihtamalla salasanasi.
 breach-alert-link = Lue lisää tästä vuodosta.
 breach-alert-dismiss =
     .title = Sulje tämä hälytys
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = Tätä salasanaa tallentaessa ilmeni virhe.
