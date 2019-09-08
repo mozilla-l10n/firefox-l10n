@@ -17,7 +17,7 @@
 <!ENTITY saveTo.accesskey             "ש">
 <!ENTITY alwaysAsk.label              "שאל תמיד היכן לשמור קבצים">
 <!ENTITY alwaysAsk.accesskey          "ת">
-<!ENTITY chooseFolderWin.label        "סייר…">
+<!ENTITY chooseFolderWin.label        "עיון…">
 <!ENTITY chooseFolderWin.accesskey    "ס">
 <!ENTITY chooseFolderMac.label        "בחירה…">
 <!ENTITY chooseFolderMac.accesskey    "ב">
@@ -28,8 +28,6 @@
 <!ENTITY addCloudFileAccount1.label       "הוספה…">
 <!ENTITY addCloudFileAccount1.accesskey   "ס">
 <!ENTITY removeCloudFileAccount.label     "הסרה">
-<!ENTITY authRequired.button.label        "אימות">
-<!ENTITY authRequired.button.accesskey    "א">
 
 <!ENTITY enableCloudFileAccountOffer.label "הצעה לשתף עבור קבצים בגודל מעל">
 <!ENTITY enableCloudFileAccountOffer.mb "מ״ב">
