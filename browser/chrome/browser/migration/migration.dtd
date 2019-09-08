@@ -38,7 +38,7 @@
 <!ENTITY importItems.title              "פריטים ליבוא">
 <!ENTITY importItems.label              "נא לבחור אילו פריטים לייבא:">
 
-<!ENTITY migrating.title                "מייבא...">
+<!ENTITY migrating.title                "מתבצע ייבוא…">
 <!ENTITY migrating.label                "הפריטים הבאים מיובאים כעת...">
 
 <!ENTITY selectProfile.title            "בחירת פרופיל">

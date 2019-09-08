@@ -25,7 +25,7 @@
 
 <!ENTITY  evangelism.desc                 "מומלץ כי תפעיל את עדכון זה עבור &brandShortName; בהקדם האפשרי.">
 
-<!ENTITY  downloadPage.title              "מוריד את &brandShortName;">
+<!ENTITY  downloadPage.title              "&brandShortName; בהורדה">
 <!ENTITY  downloading.intro               "מוריד את העדכון…">
 <!ENTITY  connecting.label                "מתחבר אל שרת העדכון…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; אינו יכול לאמת את שלמות 
@@ -47,7 +47,7 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; לא הצליח לקבוע אם יש עדכון זמין. נא
                                            לוודא כי ברשותך הגרסה העדכנית ביותר של &brandShortName; דרך:">
-
+                                           
 <!ENTITY  finishedPage.title              "עדכון מוכן להתקנה">
 <!ENTITY  finishedPage.text               "עדכון זה יותקן בהפעלה הבאה של &brandShortName;. תוכל להפעיל מחדש את &brandShortName; כעת, או להמשיך לעבוד ולהפעיל מחדש מאוחר יותר.">
 
@@ -55,11 +55,9 @@
 <!ENTITY  finishedBackground.name         "עדכון:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "העדכון יותקן בהפעלה הבאה של &brandShortName;. תוכל להפעיל מחדש את &brandShortName; כעת, או להמשיך לעבוד ולהפעיל מחדש מאוחר יותר.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.moreElevated "עדכון זה דורש הרשאות מנהל. העדכון
                                            יותקן בפעם הבאה ש־&brandShortName; יופעל. ניתן להפעיל מחדש
                                            את &brandShortName; כעת, להמשיך בעבודה ולהפעיל מחדש מאוחר יותר, או לסרב
                                            לעדכון זה.">
 
-<!ENTITY  update.details.label            "פרטים">
-<!ENTITY  update.installedOn.label        "הותקן בתאריך:">
-<!ENTITY  update.status.label             "מצב:">
