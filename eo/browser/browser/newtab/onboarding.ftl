@@ -86,7 +86,7 @@ onboarding-fxa-text = Registriĝu ĉe { -fxaccount-brand-name } por speguli viaj
 onboarding-tracking-protection-title2 = Protekto kontraŭ spurado
 onboarding-tracking-protection-text2 = { -brand-short-name } helpas vin eviti spuradon dum retumo, pro tio estos pli malfacile por reklamoj sekvi vin tra la reto.
 onboarding-tracking-protection-button2 = Kiel tio funkcias
-onboarding-data-sync-title = Poru viajn agordojn kun vi
+onboarding-data-sync-title = Portu viajn agordojn kun vi
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Spegulu viajn legosignojn, pasvortojn, kaj pli da aferoj, ĉie, kie vi uzas { -brand-product-name }.
 onboarding-data-sync-button2 = Komenci seancon en { -sync-brand-short-name }
