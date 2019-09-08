@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "אחסון הודעות">
 <!ENTITY securitySettings.label "הגדרות אבטחה">
 <!ENTITY serverSettings.label "הגדרות שרת">
@@ -44,7 +42,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "הורד הודעות חדשות אוטומטית">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "שם המשתמש שלך">
 <!ENTITY deleteMessagePrefix.label "כאשר אני מוחק הודעה:">
 <!ENTITY modelMoveToTrash.label "העבר לתיקיית אשפה">
 <!ENTITY modelMoveToTrash.accesskey "א">
@@ -79,9 +76,9 @@
 <!ENTITY serverDefaultCharset2.label "קידוד טקסט כבררת מחדל:">
 <!ENTITY localPath.label "ספרייה מקומית:">
 <!ENTITY localFolderPicker.label "בחר ספרייה מקומית">
-<!ENTITY browseFolder.label "עיין…">
+<!ENTITY browseFolder.label "עיון…">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY browseNewsrc.label "עיין…">
+<!ENTITY browseNewsrc.label "עיון…">
 <!ENTITY browseNewsrc.accesskey "e">
 
 <!ENTITY accountTitle.label "הגדרות חשבון">
