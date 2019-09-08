@@ -8,6 +8,7 @@ protection-report-content-title = Protecciones de privacidad
 # capitalization for this string should match the output for your locale.
 graph-today = Hoy
 cryptominer-tab-title = Criptomineros
+cryptominer-tab-content = Los criptomineros utilizan la potencia informática de su sistema para obtener dinero digital. Los scripts de criptominería agotan la batería de su ordenador, lo ralentizan y pueden aumentar su factura de electricidad. <a data-l10n-name="learn-more-link">Saber más</a>
 lockwise-header-content-logged-in = Guarde y sincronice sus contraseñas en todos sus dispositivos de manera segura.
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
@@ -25,3 +26,10 @@ monitor-link = Cómo funciona
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-cryptominer =
+    .title = Criptomineros
+    .aria-label =
+        { $count ->
+            [one] { $count } criptominero ({ $percentage }%)
+           *[other] { $count } criptomineros ({ $percentage }%)
+        }
