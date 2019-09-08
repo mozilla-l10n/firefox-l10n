@@ -75,12 +75,12 @@ newtab-menu-topsites-placeholder-tooltip =
 
 newtab-menu-edit-topsites = עריכה
 newtab-menu-open-new-window = פתיחה בחלון חדש
-newtab-menu-open-new-private-window = פתיחה בלשונית פרטית חדשה
+newtab-menu-open-new-private-window = פתיחה בחלון פרטי חדש
 newtab-menu-dismiss = הסרה
 newtab-menu-pin = נעיצה
 newtab-menu-unpin = ביטול נעיצה
 newtab-menu-delete-history = מחיקה מההיסטוריה
-newtab-menu-save-to-pocket = שמירה ל־{ -pocket-brand-name }
+newtab-menu-save-to-pocket = שמירה אל { -pocket-brand-name }
 newtab-menu-delete-pocket = מחיקה מ־{ -pocket-brand-name }
 newtab-menu-archive-pocket = העברה לארכיון ב־{ -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".

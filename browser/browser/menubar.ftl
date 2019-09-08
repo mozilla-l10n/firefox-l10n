@@ -44,7 +44,7 @@ menu-file-print-setup =
     .label = הגדרת עמוד…
     .accesskey = ה
 menu-file-print-preview =
-    .label = הצגה לפני הדפסה
+    .label = תצוגה לפני הדפסה
     .accesskey = נ
 menu-file-print =
     .label = הדפסה…
@@ -80,7 +80,7 @@ menu-edit-delete =
     .label = מחיקה
     .accesskey = ח
 menu-edit-select-all =
-    .label = בחירת הכול
+    .label = בחירת הכל
     .accesskey = ב
 menu-edit-find-on =
     .label = חיפוש בדף זה…
@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = מסך מלא
     .accesskey = ס
 
-##
+
 
 menu-view-show-all-tabs =
     .label = הצגת כל הלשוניות

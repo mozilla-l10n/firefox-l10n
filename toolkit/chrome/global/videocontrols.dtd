@@ -4,7 +4,7 @@
 
 <!ENTITY playButton.playLabel "ניגון">
 <!ENTITY playButton.pauseLabel "השהיה">
-<!ENTITY muteButton.muteLabel "השתק">
+<!ENTITY muteButton.muteLabel "השתקה">
 <!ENTITY muteButton.unmuteLabel "ביטול השתקה">
 <!ENTITY fullscreenButton.enterfullscreenlabel "מסך מלא">
 <!ENTITY fullscreenButton.exitfullscreenlabel "יציאה ממסך מלא">

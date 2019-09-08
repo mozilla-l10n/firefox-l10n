@@ -125,7 +125,7 @@
 <li>ייכתן וההגדרות השרת אינן תקניות</li> 
 </ul>">
 
-<!ENTITY nssFailure2.title "קישור מאובטח נכשל">
+<!ENTITY nssFailure2.title "חיבור מאובטח נכשל">
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>לא ניתן להציג את הדף המבוקש מכיוון שאין אפשרות לאמת את אמינות הנתונים שהתקבלו.</li>
