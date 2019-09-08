@@ -47,3 +47,9 @@ accessibility-text-label-issue-toolbar = Dapat naka-label ang mga toolbar kapag 
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = May interactive semantics dapat ang mga focusable element. <a>Alamin</a>
+accessibility-keyboard-issue-tabindex = Iwasan gamitin ang <code>tabindex</code> attribute na higit sa zero. <a>Alamin</a>
+accessibility-keyboard-issue-action = Ang mga interactive element ay dapat pwedeng ma-activate gamit ang keyboard. <a>Alamin</a>
+accessibility-keyboard-issue-focusable = Ang mga interactive element ay dapat pwedeng maging focusable. <a>Alamin</a>
+accessibility-keyboard-issue-focus-visible = Ang focusable element ay maaaring walang focus styling. <a>Alamin</a>
+accessibility-keyboard-issue-mouse-only = Ang mga clickable element ay dapat focusable at dapat may interactive semantics. <a>Alamin</a>
