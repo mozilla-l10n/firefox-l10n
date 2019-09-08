@@ -4,6 +4,10 @@
 
 crashed-close-tab-button = टेबखौ बन्द खालाम
 crashed-restore-tab-button = बे टेबखौ लाबोफिन
+crashed-offer-help = जों हेफाजाब होनो हायो !
+crashed-single-offer-help-message = पेज खौ जागायफिन्नो थाखाय { crashed-restore-tab-button } खौ सायख'
+crashed-multiple-offer-help-message = पेज/पेजफोरखौ जागायफिन्नो थाखाय{ crashed-restore-tab-button } नङाब्ला { crashed-restore-all-button } खौ सायख'
+crashed-request-help = जोंखौ हेफाजाब होगोनदा ?
 crashed-request-report-title = बे टेबखौ रिपर्ट खालाम
-crashed-email-placeholder = नोंथांनि इ-मेइल थंखौ बेयाव हाबहो
+crashed-email-placeholder = नोंथांनि इ-मेइल थंखौ बेयाव हो
 crashed-request-auto-submit-title = बे सावगारिनि उनथिं टेबखौ रिपर्ट खालाम

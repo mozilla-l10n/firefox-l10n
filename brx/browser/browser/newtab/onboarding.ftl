@@ -14,9 +14,13 @@
 
 onboarding-button-label-learn-more = गोबां सोलों
 onboarding-button-label-try-now = बेखौ दा नाजा
+onboarding-button-label-get-started = जागायनोसै
 
 ## Welcome modal dialog strings
 
+onboarding-welcome-header = { -brand-short-name } आव बरायबाय
+onboarding-welcome-learn-more = बे मुलामफानि सायाव बांसिन मिथिनो
+onboarding-join-form-body = जागायनो थाखाय नोंथांनि इ-मेइल खौ हो
 onboarding-join-form-email =
     .placeholder = इ-मेइल हाबहो
 onboarding-join-form-email-error = बाहाय जाथाय इ-मेइल नांगौ
@@ -24,14 +28,17 @@ onboarding-join-form-continue = सालाय लांबाय था
 
 ## Firefox Sync modal dialog strings.
 
-onboarding-sync-form-invalid-input = बाहाय जाथाय इ-मेइल नांगौ
+onboarding-sync-welcome-header = { -brand-product-name } खौ लोगोसे लांफा
+onboarding-sync-form-invalid-input = बाहाय जाथाव इ-मेइल नांगौ
 onboarding-sync-form-input =
     .placeholder = इ-मेइल
 onboarding-sync-form-continue-button = सालाय लांबाय था
+onboarding-sync-form-skip-login-button = बे खोन्दोखौ बारस'
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = नोंथांनि इ-मेइल हाबहो
+onboarding-sync-form-sub-header = { -sync-brand-name } सिम थांनोब्ला
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -46,12 +53,16 @@ onboarding-sync-form-header = नोंथांनि इ-मेइल हा�
 
 onboarding-private-browsing-title = निजि ब्राउजिं
 onboarding-screenshots-title = स्क्रिनसटफोर
+onboarding-addons-title = दाजाबदाफोर
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = सिनक
 onboarding-data-sync-button2 = { -sync-brand-short-name } आव साइन-इन खालाम
 onboarding-browse-privately-button = मोनसे प्राइभेट उइन्ड'खौ खेव
-onboarding-firefox-send-button = { -send-brand-name } नाजा
+onboarding-firefox-send-button = { -send-brand-name } खौ नाजा
+onboarding-mobile-phone-title = { -brand-product-name } खौ नोंथांनि जानबुङाव नांगौब्ला
+onboarding-pocket-anywhere-button = { -pocket-brand-name } खौ नाजा
 onboarding-lockwise-passwords-title = नोंनि पासवर्दखौ जेरावबो लांंफा
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-get-started-button = { -brand-short-name } खौ जागायनोसै
