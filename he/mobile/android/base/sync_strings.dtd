@@ -53,7 +53,7 @@
 
 <!ENTITY fxaccount_status_auth_server 'שרת חשבון'>
 <!ENTITY fxaccount_status_sync_now 'סנכרון כעת'>
-<!ENTITY fxaccount_status_syncing2 'מסנכרן…'>
+<!ENTITY fxaccount_status_syncing2 'בתהליך סנכרון…'>
 <!ENTITY fxaccount_status_device_name 'שם המכשיר'>
 <!ENTITY fxaccount_status_sync_server 'שרת סנכרון'>
 <!ENTITY fxaccount_status_needs_verification2 'יש לאמת את החשבון שלך. עליך לגעת כדי לשלוח את דוא״ל האימות מחדש.'>
