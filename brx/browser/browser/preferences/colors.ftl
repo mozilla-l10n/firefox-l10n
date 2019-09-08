@@ -11,6 +11,8 @@ colors-window =
         }
 colors-close-key =
     .key = w
+colors-page-override = बिलायाव होखानाय गाबफोराखौ नों सायख'नाय गाबजों सोलाय
+    .accesskey = O
 colors-page-override-option-always =
     .label = अरायबो
 colors-page-override-option-never =
@@ -27,5 +29,7 @@ colors-underline-links =
     .label = लिंकफोरखौ आन्डारलाइन खालाम
     .accesskey = U
 colors-links-header = लिंक गाबफोर
-colors-visited-links = थांखांनाय लिंकफोर
+colors-unvisited-links = दावबायजायै लिंकफोर
+    .accesskey = L
+colors-visited-links = दावबायजाखांनाय लिंकफोर
     .accesskey = V
