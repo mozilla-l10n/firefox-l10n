@@ -888,6 +888,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.forms "Formularë">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Pagesa">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Komente">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Video">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Dërgoni një raport">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
      In the protections panel, Content Blocking category items are in three sections:
@@ -895,9 +897,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Të bllokuara">
+<!ENTITY protections.notBlocking2.label "Të lejuara">
+<!ENTITY protections.notFound.label "S&apos;u Pikas Ndonjë">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
+<!ENTITY protections.notBlocking.why.label "Pse?">
+<!ENTITY protections.socialMediaTrackers.label "Gjurmues Mediash Shoqërore">
+<!ENTITY protections.trackingContent.label "Lëndë Gjurmimi">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -938,7 +946,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.manageSettings.label "Administroni Bllokim Lënde">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Lëndë Gjurmimi">
 
+<!ENTITY contentBlocking.manageSettings2.label "Administroni Rregullime për Mbrojtje">
 <!ENTITY contentBlocking.manageSettings.accesskey "A">
 
 <!ENTITY contentBlocking.trackersView.label "Gjurmues">
@@ -947,7 +957,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies dhe të Dhëna Sajti">
 
+<!ENTITY contentBlocking.socialblock.label "Gjurmues Mediash Shoqërore">
 
+<!ENTITY contentBlocking.cookies2.label "<em>Cookies</em> Gjurmimi Nga Sajte Në Sajte">
 
 <!ENTITY contentBlocking.cryptominers.label "Nxjerrës kriptomonedhash">
 <!ENTITY contentBlocking.cryptominersView.label "Nxjerrës kriptomonedhash">
@@ -959,6 +971,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Raportoni Probleme">
 <!ENTITY contentBlocking.breakageReportView2.description "Bllokimi i lëndë mund të shkaktojë probleme me disa sajte. Kur raportoni probleme, ndihmoni për ta bërë &brandShortName;-in më të mirë për këdo. (Kështu do të dërgohet te Mozilla edhe një URL, përveç të dhënave mbi rregullimet tuaja të shfletuesit.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Mësoni Më Tepër">
+<!ENTITY contentBlocking.breakageReportView.title "Njoftoni një Sajt të Dëmtuar">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Ç’probleme patët? (Opsionale)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Dërgoje Raportin">
