@@ -41,7 +41,7 @@
 <!ENTITY fileAccessDenied.title "הגישה לקובץ נדחתה">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
-  <li>יתכן שהקובץ הוסר, הועבר או שההרשאות מונעות את הגישה אליו.</li>
+  <li>ייתכן שהקובץ הוסר, הועבר או שההרשאות מונעות את הגישה אליו.</li>
 </ul>
 ">
 
@@ -76,13 +76,15 @@
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
-</ul>">
+</ul>
+">
 
 <!ENTITY unsafeContentType.title "סוג קובץ מסוכן">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li>
-</ul>">
+</ul>
+">
 
 <!ENTITY netReset.title "החיבור הופסק">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -93,9 +95,7 @@
 <!ENTITY unknownProtocolFound.title "כתובת זו אינה מובנת">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
-  <li>
-    ייתכן שצריך להתקין יישום אחר כדי לגשת לכתובת זו.
-  </li>
+  <li>ייתכן שיהיה צורך להתקין יישום אחר כדי לפתוח כתובת זו.</li>
 </ul>
 ">
 
@@ -113,9 +113,11 @@
 </ul>">
 
 <!ENTITY redirectLoop.title "הדף מבצע העברה לא תקינה">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>בעיה זו נגרמת לעיתים מסירוב לקבל עוגיות או ניטרולן.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>בעיה זו נגרמת לעיתים מסירוב לקבל עוגיות או ניטרולן.</li>
+</ul>
+">
 
 <!ENTITY unknownSocketType.title "תגובה לא צפויה מהשרת">
 <!ENTITY unknownSocketType.longDesc "<ul> 
@@ -164,7 +166,7 @@ was trying to connect. -->
 </ul>">
 
 <!ENTITY cspBlocked.title "נחסם בהתאם למדיניות האבטחה של התוכן">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; מונע מדף זה להיטען בצורה זו מאחר שהדף כולל מדיניות אבטחת תוכן שמונעת זאת.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; מנע מדף זה להיטען בדרך הזו מכיוון שלדף יש מדיניות אבטחת תוכן שאינה מאפשרת זאת.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "שגיאת תוכן פגום">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>לא ניתן להציג את הדף המבוקש מכיוון שאותרה שגיאה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">

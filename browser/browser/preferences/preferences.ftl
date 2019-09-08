@@ -262,7 +262,7 @@ update-application-title = עדכוני { -brand-short-name }
 update-application-description = כדאי להשאיר את { -brand-short-name } עדכני לטובת ביצועים, יציבות ואבטחה ברמה הטובה ביותר.
 update-application-version = גרסה { $version } <a data-l10n-name="learn-more">מה חדש</a>
 update-history =
-    .label = הצגת היסטורית עדכונים…
+    .label = הצגת היסטוריית עדכונים…
     .accesskey = ה
 update-application-allow-description = לאפשר ל־{ -brand-short-name }
 update-application-auto =
@@ -458,7 +458,7 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = הצגת הצעות חיפוש לפני היסטורית הגלישה בתוצאות שורת הכתובת
+    .label = הצגת הצעות חיפוש לפני היסטוריית הגלישה בתוצאות שורת הכתובת
 search-suggestions-cant-show = הצעות חיפוש לא יופיעו בתוצאות סרגל המיקום מכיוון שהגדרת ש־{ -brand-short-name } לעולם לא לזכור היסטוריה.
 search-one-click-header = מנועי חיפוש בלחיצה אחת
 search-one-click-desc = בחירת מנועי חיפוש חלופיים שיופיעו מתחת לסרגל הכתובת וסרגל החיפוש עם תחילת ההקלדה של מילות מפתח.
@@ -632,16 +632,16 @@ history-remember-option-never =
     .label = לעולם לא ישמור היסטוריה
 history-remember-option-custom =
     .label = ישתמש בהגדרות מותאמות אישית להיסטוריה
-history-remember-description = ‏{ -brand-short-name } יזכור את היסטורית הגלישה, ההורדות, הטפסים והחיפוש שלך.
+history-remember-description = ‏{ -brand-short-name } יזכור את היסטוריית הגלישה, ההורדות, הטפסים והחיפוש שלך.
 history-dontremember-description = { -brand-short-name } ישתמש באותן ההגדרות לגלישה פרטית, ולא יזכור היסטוריה כלשהי במהלך הגלישה שלך ברשת.
 history-private-browsing-permanent =
     .label = שימוש תמידי במצב גלישה פרטית
     .accesskey = ה
 history-remember-browser-option =
-    .label = שמירת היסטורית גלישה והורדות
+    .label = שמירת היסטוריית גלישה והורדות
     .accesskey = ש
 history-remember-search-option =
-    .label = שמירת חיפושים והיסטורית טפסים
+    .label = שמירת חיפושים והיסטוריית טפסים
     .accesskey = ט
 history-clear-on-close-option =
     .label = מחיקת היסטוריה כאשר { -brand-short-name } נסגר

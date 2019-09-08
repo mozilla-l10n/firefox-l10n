@@ -27,7 +27,7 @@
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "בקשה לזיהוי המשתמש">
 <!ENTITY clientAuthAsk.message1 "אתר זה ביקש שתזהה את עצמך עם אישור:">
-<!ENTITY clientAuthAsk.message2 "נא לבחור אישור להצגה בתור זיהוי:">
+<!ENTITY clientAuthAsk.message2 "נא לבחור באישור להצגה כזיהוי:">
 <!ENTITY clientAuthAsk.message3 "פרטי האישור שנבחר:">
 
 <!ENTITY pkcs12.setpassword.title  "בחירת ססמה לגיבוי אישור">
