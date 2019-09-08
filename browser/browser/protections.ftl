@@ -9,15 +9,6 @@ graph-week-summary =
         [one] { -brand-short-name } esti  { $count } seuraimen viime viikon aikana
        *[other] { -brand-short-name } esti { $count } seurainta viime viikon aikana
     }
-# Variables:
-#   $count (Number) - Number of tracking events blocked.
-#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
-# earliest date recorded in the database.
-graph-total-summary =
-    { $count ->
-        [one] { $count } seurain estetty { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } lähtien
-       *[other] { $count } seurainta estetty { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } lähtien
-    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -44,7 +35,7 @@ lockwise-title = Lopeta salasanojen unohtaminen
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } tallentaa salasanasi turvallisesti selaimeesi.
 lockwise-header-content-logged-in = Tallenna salasanasi turvallisesti ja synkronoi ne eri laitteiden välillä.
-open-about-logins-button = Avaa { -brand-short-name }-selaimessa
+about-logins-view-logins-button = Näytä kirjautumistiedot
 lockwise-no-logins-content = Hanki <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>-sovellus ja ota salasanat mukaasi minne menetkin.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -64,36 +55,10 @@ lockwise-sync-status =
         [one] Synkronoidaan { $count } muulle laitteelle
        *[other] Synkronoidaan { $count } muulle laitteelle
     }
-lockwise-sync-not-syncing = Ei synkronoida muille laitteille.
+lockwise-sync-not-syncing-devices = Ei synkronointia muille laitteille
 monitor-title = Ota tietovuodot tarkkailuun
 monitor-link = Kuinka se toimii
-monitor-header-content = Tarkista { -monitor-brand-name }-palvelusta, ovatko tietosi olleet osana tietovuotoa ja vastaanota hälytyksiä uusista vuodoista.
-monitor-header-content-logged-in = { -monitor-brand-name } varoittaa, jos tietojasi on levinnyt tunnetun tietovuodon yhteydessä.
 monitor-sign-up = Tilaa vuotohälytykset
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-monitored-addresses =
-    { $count ->
-        [one] Tarkkailtava sähköpostiosoite.
-       *[other] Tarkkailtavat sähköpostiosoitteet.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of known data breaches. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-known-breaches =
-    { $count ->
-        [one] Tunnettu tietovuoto on paljastanut tietojasi.
-       *[other] Tunnetut tietovuodot ovat paljastaneet tietojasi.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of exposed passwords. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-exposed-passwords =
-    { $count ->
-        [one] Salasana paljastanut tietovuodoissa.
-       *[other] Salasanoja paljastanut tietovuodoissa.
-    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Siirry yksityisyysasetuksiin
 # This is the title attribute describing the Lockwise card's link to about:logins
@@ -126,6 +91,13 @@ bar-tooltip-tracker =
         { $count ->
             [one] { $count } seurantaan tarkoitettu sisältö ({ $percentage } %)
            *[other] { $count } seurantaan tarkoitettu sisältöä ({ $percentage } %)
+        }
+bar-tooltip-fingerprinter =
+    .title = Yksilöijät
+    .aria-label =
+        { $count ->
+            [one] { $count } yksilöijä ({ $percentage } %)
+           *[other] { $count } yksilöijää ({ $percentage } %)
         }
 bar-tooltip-cryptominer =
     .title = Kryptolouhijat

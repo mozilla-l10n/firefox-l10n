@@ -82,12 +82,31 @@ cfr-whatsnew-button =
     .label = Mitä uutta
     .tooltiptext = Mitä uutta
 cfr-whatsnew-panel-header = Mitä uutta
+cfr-whatsnew-fx70-title = { -brand-short-name } taistelee nyt entistä lujemmin yksityisyytesi puolesta
+cfr-whatsnew-fx70-body =
+    Viimeisin päivitys parantaa seurannan suojausta ja tekee entistä
+    helpommaksi luoda turvallisen salasanan jokaiselle sivustolle.
 cfr-whatsnew-tracking-protect-title = Suojaa itsesi seuraimilta
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } estää monet yleisimmistä sosiaalisen median ja sivustorajat
+    ylittävistä seuraimista, jotka seuraavat tekemisiäsi verkossa.
 cfr-whatsnew-tracking-protect-link-text = Näytä raportti
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Seurain estetty
+       *[other] Seurainta estetty
+    }
+cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } lähtien
 cfr-whatsnew-tracking-blocked-link-text = Näytä raportti
 cfr-whatsnew-lockwise-backup-title = Varmuuskopioi salasanasi
 cfr-whatsnew-lockwise-backup-link-text = Ota varmuuskopiot käyttöön
 cfr-whatsnew-lockwise-take-title = Ota salasanat mukaasi
+cfr-whatsnew-lockwise-take-body =
+    { -lockwise-brand-short-name }-mobiilisovellus mahdollistaa salasanojesi
+    käytön turvallisesti mistä tahansa.
 cfr-whatsnew-lockwise-take-link-text = Hanki sovellus
 
 ## Bookmark Sync
