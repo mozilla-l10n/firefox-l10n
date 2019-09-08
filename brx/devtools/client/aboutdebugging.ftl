@@ -11,6 +11,9 @@
 
 # Sidebar strings
 
+# Display name of the runtime for the currently running instance of Firefox. Used in the
+# Sidebar and in the Setup page.
+about-debugging-this-firefox-runtime-name = बे { -brand-shorter-name }
 # Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
 about-debugging-sidebar-usb-enabled = USB मावथि खालामबाय
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
@@ -23,9 +26,15 @@ about-debugging-sidebar-runtime-item-name-no-device =
 
 # Setup Page strings
 
+# USB section of the Setup page
+about-debugging-setup-usb-title = युएसबि
+# Text of the button displayed in the USB section of the setup page while USB debugging
+# components are downloaded and installed.
+about-debugging-setup-usb-updating-button = आपडेट खालामगासिनो...
 # USB section of the Setup page (USB status)
 about-debugging-setup-usb-status-enabled = मावथि खालामबाय
 about-debugging-setup-usb-status-disabled = लोरबां जाबाय
+about-debugging-setup-usb-status-updating = आपडेट खालामगासिनो...
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = दाजाबदेर
@@ -49,6 +58,17 @@ about-debugging-runtime-name = { $name }{ $version }
 
 # Debug Targets strings
 
+# Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
+# button will open a DevTools toolbox that will allow inspecting the target.
+# A target can be an addon, a tab, a worker...
+about-debugging-debug-target-inspect-button = इन्सपेक्ट
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will reload the extension.
+about-debugging-tmp-extension-reload-button = फिन ल'ड खालाम
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = बोखार
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start = जागाय
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = गुवारै

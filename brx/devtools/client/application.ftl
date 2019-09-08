@@ -17,6 +17,8 @@
 serviceworker-worker-start = जागाय
 # Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
 serviceworker-worker-source = फुंखा
+# Text displayed next to the current status of the service worker.
+serviceworker-worker-status = थाखोमान
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
