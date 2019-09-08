@@ -7,7 +7,7 @@
 <!ENTITY enableStartPage.accesskey        "ג">
 <!ENTITY location.label                   "מיקום:">
 <!ENTITY location1.accesskey               "מ">
-<!ENTITY useDefault.label                 "שחזר ברירת מחדל">
+<!ENTITY useDefault.label                 "שחזור ברירת מחדל">
 <!ENTITY useDefault.accesskey             "מ">
 
 <!ENTITY changeDockIconOptions.label      "שינוי ההעדפות לסמל היישום">
