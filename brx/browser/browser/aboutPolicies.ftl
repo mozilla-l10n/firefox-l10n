@@ -6,3 +6,5 @@
 active-policies-tab = मावथि
 errors-tab = गोरोन्थि
 policy-name = पलिसि मुं
+policy-value = पोलिसि बेसेन
+policy-errors = पोलिसि गोरोन्थिफोर

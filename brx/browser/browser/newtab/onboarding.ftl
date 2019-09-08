@@ -54,6 +54,7 @@ onboarding-sync-form-sub-header = { -sync-brand-name } सिम थांनो
 onboarding-private-browsing-title = निजि ब्राउजिं
 onboarding-screenshots-title = स्क्रिनसटफोर
 onboarding-addons-title = दाजाबदाफोर
+onboarding-ghostery-title = Ghostery
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = सिनक
 onboarding-tracking-protection-button2 = बेयो माबादि खामानि मावो

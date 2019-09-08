@@ -125,7 +125,7 @@ download-choose-folder =
            *[other] व
         }
 applications-type-column =
-    .label = थानाय आयदानि रोखोम
+    .label = थानाय-आयदानि रोखोम
     .accesskey = T
 applications-action-column =
     .label = हाबा
