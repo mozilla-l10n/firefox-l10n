@@ -78,7 +78,7 @@
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 'תנאי השירות'>
-<!ENTITY fxaccount_status_linkprivacy2 'הודעת פרטיות'>
+<!ENTITY fxaccount_status_linkprivacy2 'הצהרת פרטיות'>
 <!ENTITY fxaccount_remove_account 'ניתוק&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'האם ברצונך להתנתק מ־Sync?'>

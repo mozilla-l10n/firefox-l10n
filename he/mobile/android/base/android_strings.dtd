@@ -435,7 +435,7 @@ shown from Android O while a tab is being queued.-->
 
 <!ENTITY pref_dialog_set_default "הגדרה כברירת מחדל">
 <!ENTITY pref_dialog_default "ברירת מחדל">
-<!ENTITY pref_dialog_remove "מחיקה">
+<!ENTITY pref_dialog_remove "הסרה">
 <!ENTITY pref_dialog_activitystream_header_content "תכנים נוספים">
 <!ENTITY pref_dialog_activitystream_recentBookmarks "סימניות אחרונות">
 <!ENTITY pref_dialog_activitystream_visited "ביקורים קודמים">
@@ -536,7 +536,7 @@ shown from Android O while a tab is being queued.-->
 
 <!ENTITY contextmenu_open_new_tab "פתיחה בלשונית חדשה">
 <!ENTITY contextmenu_open_private_tab "פתיחה בלשונית פרטית">
-<!ENTITY contextmenu_remove "מחיקה">
+<!ENTITY contextmenu_remove "הסרה">
 <!ENTITY contextmenu_add_page_shortcut "הוספת קיצור דרך לדף">
 <!ENTITY contextmenu_set_as_homepage "הגדרה כדף הבית">
 <!ENTITY contextmenu_share "שיתוף">
