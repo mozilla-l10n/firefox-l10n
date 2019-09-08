@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Pièces jointes">
 <!ENTITY panePrivacy.title        "Vie privée">
 <!ENTITY paneSecurity.title       "Sécurité">
+<!ENTITY panePrivacySecurity.title "Vie privée et sécurité">
 <!ENTITY paneLightning.title      "Agenda">
 <!ENTITY paneAdvanced.title       "Avancé">
 <!ENTITY paneAccount.title        "Comptes">

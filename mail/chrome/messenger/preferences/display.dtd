@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Lecture">
 <!ENTITY display.caption                  "Affichage">
+<!ENTITY displayName.label                "Nom à afficher :">
 <!ENTITY showCondensedAddresses.label     "N’afficher que le nom pour les personnes se trouvant dans le carnet d’adresses">
 <!ENTITY showCondensedAddresses.accesskey "N">
 

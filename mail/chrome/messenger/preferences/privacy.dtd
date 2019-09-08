@@ -36,3 +36,7 @@
 <!ENTITY dntTrackingNotOkay.label2 "Indiquer aux sites que je ne souhaite pas être pisté">
 <!ENTITY dntTrackingNotOkay.accesskey "d">
 <!ENTITY doNotTrackInfo.label "En savoir plus sur Ne pas me pister">
+
+<!ENTITY doNotTrackCheck.label "Envoyer aux sites web un signal « Ne pas me pister » indiquant que vous ne souhaitez pas être pisté·e">
+<!ENTITY doNotTrackCheck.accesskey "n">
+<!ENTITY doNotTrackLearnMore.label "En savoir plus">

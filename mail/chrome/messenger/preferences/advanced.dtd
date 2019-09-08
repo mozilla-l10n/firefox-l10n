@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "G">
 <!ENTITY viewSecurityDevices.label "Périphériques de sécurité">
 <!ENTITY viewSecurityDevices.accesskey "P">
+
+<!ENTITY manageCertificates2.label "Gérer les certificats…">
+<!ENTITY manageCertificates2.accesskey "G">
+<!ENTITY viewSecurityDevices2.label "Périphériques de sécurité…">
+<!ENTITY viewSecurityDevices2.accesskey "P">
