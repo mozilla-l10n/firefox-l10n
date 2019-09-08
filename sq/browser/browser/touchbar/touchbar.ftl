@@ -18,3 +18,4 @@ reader-view = Pamja Lexues
 open-location = Bëni kërkim ose jepni adresë
 share = Ndajeni me të tjerët
 close-window = Mbylleni Dritaren
+open-sidebar = Anështylla

@@ -19,52 +19,6 @@
 <!ENTITY navbarOverflow.label                "Më tepër mjete…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Ringarkoje Skedën">
-<!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  selectAllTabs.label                "Përzgjidhi Krejt Skedat">
-<!ENTITY  selectAllTabs.accesskey            "P">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "Përsëdyte Skedën">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "P">
-<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTabs.label                "Përsëdytni Skeda">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTabs.accesskey            "P">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Mbyll Skedat në të Djathtë">
-<!ENTITY  closeTabsToTheEnd.accesskey        "D">
-<!ENTITY  closeOtherTabs.label               "Mbylli Skedat e Tjera">
-<!ENTITY  closeOtherTabs.accesskey           "T">
-
-<!ENTITY  closeTabs.label                    "Mbylli Skedat">
-<!ENTITY  closeTabs.accesskey                "S">
-<!ENTITY  pinSelectedTabs.label              "Fiksoji Skedat">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "F">
-<!ENTITY  unpinSelectedTabs.label            "Shfiksoji Skedat">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "S">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "Ringarko Skedat">
-<!ENTITY  reloadTabs.accesskey               "R">
-<!ENTITY  bookmarkSelectedTabs.label         "Faqeruani Skeda…">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "q">
-
-<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -85,28 +39,8 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "P">
 <!ENTITY  sendLinkToDevice.label             "Dërgoje Lidhjen te Pajisja">
 <!ENTITY  sendLinkToDevice.accesskey         "P">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "Lëvizeni Skedën">
-<!ENTITY  moveTabOptions.accesskey           "v">
-<!ENTITY  moveSelectedTabOptions.label       "Lëvizni Skeda">
-<!ENTITY  moveSelectedTabOptions.accesskey   "v">
-<!ENTITY  moveToStart.label                  "Shpjere në Fillim">
-<!ENTITY  moveToStart.accesskey              "i">
-<!ENTITY  moveToEnd.label                    "Shpjere në Fund">
-<!ENTITY  moveToEnd.accesskey                "u">
-<!ENTITY  moveToNewWindow.label              "Kaloje në Dritare të Re">
-<!ENTITY  moveToNewWindow.accesskey          "D">
-<!ENTITY  reopenInContainer.label            "Rihape në Kontejner">
-<!ENTITY  reopenInContainer.accesskey        "h">
-<!ENTITY  bookmarkTab.label                  "Faqeruaje Skedën">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "q">
 <!ENTITY  undoCloseTab.label                 "Zhbëje Mbylljen e Skedës">
 <!ENTITY  undoCloseTab.accesskey             "Z">
-<!ENTITY  closeTab.label                     "Mbylleni Skedën">
-<!ENTITY  closeTab.accesskey                 "M">
 <!ENTITY  hiddenTabs.label                   "Skeda të Fshehura">
 
 <!ENTITY  listAllTabs.label      "Paraqiti krejt skedat">
@@ -145,31 +79,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Panel Faqerojtësish">
 <!ENTITY personalbarCmd.accesskey "F">
 <!ENTITY bookmarksToolbarItem.label "Objekte Paneli Faqerojtësish">
-
-<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Ringarko Skedën e Përzgjedhur">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Ringarko Skedat e Përzgjedhura">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Faqeruani Skedën e Përzgjedhur…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "S">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Faqeruani Skedat e Përzgjedhura…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "S">
-<!ENTITY toolbarContextMenu.selectAllTabs.label "Përzgjidhi Krejt Skedat">
-<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "P">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Zhbëje Mbylljen e Skedës">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "Z">
 
 <!ENTITY pageSourceCmd.label "Burim Faqeje">
 <!ENTITY pageSourceCmd.accesskey "B">
@@ -228,15 +137,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Do t’ju duhet të verifikoni llogarinë tuaj, përpara se të bëni njëkohësim.">
 <!ENTITY fxa.unverified.button.label "Hapni Rregullime të &syncBrand.shortName.label;…">
 
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "I futur si">
 <!ENTITY fxa.menu.manageAccount.label "Administroni Llogari…">
 <!ENTITY fxa.menu.syncSettings.label "Rregullime të &syncBrand.shortName.label;…">
-<!ENTITY fxa.menu.connectAnotherDevice.label "&syncedTabs.sidebar.connectAnotherDevice;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Lidhni Një Tjetër Pajisje…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.signin.label "Hyni te &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Aktivizoni &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.account.label "Llogari">
+<!ENTITY fxa.menu.firefoxServices.label "Shërbime &brandProductName;">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Dërgoni aty për aty një skedë te cilado pajisje në të cilën keni bërë hyrje.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -280,6 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Faqeruani Krejt Skedat…">
+
 <!ENTITY showAllBookmarks2.label "Shfaqni Krejt Faqerojtësit">
 <!ENTITY recentBookmarks.label "Faqeruajtur Së Fundi">
 <!ENTITY otherBookmarksCmd.label "Faqerojtës të Tjerë">
@@ -329,6 +248,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administroni përdorim software-i DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Hapni panel MIDI">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "I keni akorduar leje shtesë këtij sajti.">
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "E keni bllokuar kamerën tuaj për këtë sajt.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "E keni bllokuar kamerën tuaj për këtë sajt.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ia keni bllokuar këtij sajti përdorimin e ekranit tuaj.">
@@ -340,7 +261,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "Për këtë sajt e keni bllokuar përftimin e të dhënave të kanavacës.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ia keni bllokuar këtij sajti përdorimin e shtojcës Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "E keni bllokuar hyrjen MIDI për këtë sajt.">
-
 <!ENTITY urlbar.installBlocked.tooltip           "Ia keni bllokuar këtij sajti instalimin e shtesave.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Shfaqni historikun">
@@ -403,6 +323,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Kartelë">
 <!ENTITY fileMenu.accesskey       "K">
+
 <!ENTITY newUserContext.label             "Skedë e Re Kontejneri">
 <!ENTITY newUserContext.accesskey         "o">
 <!ENTITY manageUserContext.label          "Administroni Kontejner">
@@ -452,6 +373,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "P">
 <!ENTITY viewSidebarMenu.label "Anështyllë">
 <!ENTITY viewSidebarMenu.accesskey "A">
+
 <!ENTITY viewCustomizeToolbar.label       "Përshtateni…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 <!ENTITY overflowCustomizeToolbar.label       "Përshtateni Panelin…">
@@ -465,6 +387,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Riktheni Sesionin e Mëparshëm">
 
 <!ENTITY showAllHistoryCmd2.label "Shfaq Krejt Historikun">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Shfaqni Krejt Historikun">
@@ -530,7 +453,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.manageExtension.accesskey "A">
 <!ENTITY customizeMenu.removeExtension.label "Hiqe Zgjerimin">
 <!ENTITY customizeMenu.removeExtension.accesskey "q">
-
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
@@ -613,6 +535,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Kërko me:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Këtë herë kërko me:">
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -686,9 +614,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Dërgoni Lidhje me Email…">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Ruajeni Faqen Si…">
 <!ENTITY savePageCmd.accesskey        "R">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "S">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Ruajeni Kuadrin Si…">
@@ -793,22 +721,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Zmadhoje">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "M">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Zvogëloje">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Zeroje">
 <!ENTITY fullZoomResetCmd.accesskey     "e">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Zmadho ose Zvogëlo Vetëm Tekstin">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
+
 <!ENTITY fullZoom.label                 "Zmadhim/Zvogëlim">
 <!ENTITY fullZoom.accesskey             "Z">
 
@@ -826,6 +758,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Mbylleni">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "M">
 
@@ -880,13 +813,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Lidhje">
 <!ENTITY identity.connectionSecure "Lidhje e Sigurt">
 <!ENTITY identity.connectionNotSecure "Lidhja S&apos;është e Sigurt">
+
+<!ENTITY identity.connectionSecure3 "Lidhje e sigurt">
+<!ENTITY identity.connectionNotSecure2 "Lidhje jo e sigurt">
+<!ENTITY identity.connectionNotSecureSecurityView "S&apos;jeni lidhur në mënyrë të siguruar me këtë sajt.">
 <!ENTITY identity.connectionFile "Kjo është faqe e depozituar në kompjuterin tuaj.">
 <!ENTITY identity.connectionVerified2 "Jeni i lidhur në mënyrë të sigurt te ky sajt, pronë e:">
+<!ENTITY identity.connectionVerified3 "Jeni lidhur në mënyrë të siguruar me këtë sajt.">
 <!ENTITY identity.connectionInternal "Kjo është një faqe &brandShortName; e sigurt.">
 <!ENTITY identity.extensionPage "Kjo faqe është ngarkuar nga një zgjerim.">
 <!ENTITY identity.insecureLoginForms2 "Kredencialet e hyrjeve të dhëna në këtë faqe mund të komprometohen.">
-
 <!ENTITY identity.customRoot "Lidhje e verifikuar nga një lëshues dëshmish që s’njihet nga Mozilla.">
+
+<!ENTITY identity.evOwnerLabel2 "Dëshmi lëshuar për:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName;-i ka bllokuar pjesë të kësaj faqeje që s&apos;janë të sigurta.">
@@ -905,7 +844,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Edhe pse &brandShortName;-i ka bllokuar një pjesë të lëndës, në këtë faqe prapë ka lëndë që s&apos;është e sigurt (fjala vjen, figura).">
 <!ENTITY identity.description.activeLoaded "Ky sajt përmban lëndë që s&apos;është e sigurt (fjala vjen, programthe) dhe lidhja juaj me të s&apos;është private.">
 <!ENTITY identity.description.activeLoaded2 "Të dhënat që ndani me këtë sajt mund të shihen nga të tjerë (fjala vjen, fjalëkalime, mesazhe, karta krediti, etj.).">
-
 <!ENTITY identity.description.customRoot "Mozilla nuk e njeh këtë lëshues dëshmish. Mund të jetë shtuar nga sistemi juaj operativ ose nga një përgjegjës.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Aktivizo mbrojtjen">
@@ -922,10 +860,44 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Pastroni Cookie-t dhe të Dhëna Sajti…">
 
 <!ENTITY identity.permissions "Leje">
+
+<!ENTITY identity.permissions3 "Leje">
 <!ENTITY identity.permissionsEmpty "S&apos;i keni dhënë këtij sajti ndonjë leje speciale.">
 <!ENTITY identity.permissionsReloadHint "Mund t&apos;ju duhet të ringarkoni faqen që të hyjnë në fuqi ndryshimet.">
 <!ENTITY identity.permissionsPreferences.tooltip "Hap Parapëlqime Lejesh">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Hap Parapëlqimet për Bllokim Lënde">
+
+
+<!ENTITY protections.etpON.header "Mbrojtja e Thelluar Nga Gjurmimet është ON për këtë sajt">
+<!ENTITY protections.etpOFF.header "Mbrojtja e Thelluar Nga Gjurmimet është OFF për këtë sajt">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Më tepër të dhëna rreth Mbrojtjes së Thelluar Nga Gjurmimet">
+<!ENTITY protections.settings.label "Rregullime Mbrojtjeje">
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "S&apos;funksionon sajti?">
+<!ENTITY protections.siteNotWorkingView.title "S&apos;funksionon Sajti?">
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Fusha krendecialesh hyrjeje">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Formularë">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Pagesa">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Komente">
+
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -936,87 +908,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Skeda të Njëkohësuara">
 
 <!ENTITY syncedTabs.sidebar.label              "Skeda të Njëkohësuara">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Bëni hyrjen te llogaritë tuaja Firefox prej pajisjeve tuaja të tjera që të shihni këtu skedat e tyre.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Doni të shihni këtu skedat tuaja prej pajisjesh të tjera?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Bëni hyrjen që të shihni një listë skedash prej pajisjesh tuajat të tjera.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "Llogaria juaj duhet verifikuar.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "S&apos;ka skeda të hapura">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Hapni Parapëlqimet për &syncBrand.shortName.label;-un">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktivizoni njëkohësim skedash që të shihni një listë skedash prej pajisjeve tuaja të tjera.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Kërko në skeda të njëkohësuara">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Lidhni Një Tjetër Pajisje">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "Hape">
-<!ENTITY syncedTabs.context.open.accesskey                   "H">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Hape në Skedë të Re">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "s">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "Hape në Dritare të Re">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "D">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Hape në Dritare të Re Private">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Faqeruajeni Këtë Skedë…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "F">
-<!ENTITY syncedTabs.context.copy.label                       "Kopjoje">
-<!ENTITY syncedTabs.context.copy.accesskey                   "K">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "Hapi Krejt në Skeda">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "H">
-<!ENTITY syncedTabs.context.managedevices.label              "Administroni Pajisje…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "P">
-
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "Hyni Te &syncBrand.shortName.label;-u…">
 <!ENTITY syncSignIn.accesskey         "H">
+
 <!ENTITY syncSyncNowItem.label        "Njëkohësohu Tani">
 <!ENTITY syncSyncNowItemSyncing.label "Po njëkohësohet…">
 <!ENTITY syncSyncNowItem.accesskey    "N">
 <!ENTITY syncReAuthItem.label         "Rilidhuni me &syncBrand.shortName.label;-un…">
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Njëkohësoni">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "Tërhiqini elementët tuaj të parapëlqyer te paneli ose te menuja Më Tepër Mjete.">
-<!ENTITY customizeMode.restoreDefaults "Rikthejeni te Parazgjedhjet">
-<!ENTITY customizeMode.done "U bë">
-<!ENTITY customizeMode.titlebar "Shtyllë Titujsh">
-<!ENTITY customizeMode.extraDragSpace "Tërhiqni hapësirë">
-<!ENTITY customizeMode.toolbars2 "Panele">
-<!ENTITY customizeMode.lwthemes "Tema">
-<!ENTITY customizeMode.lwthemes.myThemes "Temat e Mia">
-<!ENTITY customizeMode.lwthemes.recommended "Të këshillueshme">
-<!ENTITY customizeMode.lwthemes.menuManage "Administrojini">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Merrni Më Shumë Tema">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "M">
-<!ENTITY customizeMode.overflowList.title2 "Menuja Më Tepër Mjete">
-<!ENTITY customizeMode.overflowList.description "Tërhiqni dhe lini këtu elementë për t&apos;i mbajtur një hap larg, por jashtë panelit tuaj…">
-<!ENTITY customizeMode.uidensity "Dendësi">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "Normale">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normale">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "Kompakte">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompakte">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "Me Prekje">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Me Prekje">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "P">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Përdor Prekje për Mënyrën Tablet">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Vetëfshihe">
 
@@ -1034,6 +937,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Gjurmues">
 
 <!ENTITY contentBlocking.manageSettings.label "Administroni Bllokim Lënde">
+
+
 <!ENTITY contentBlocking.manageSettings.accesskey "A">
 
 <!ENTITY contentBlocking.trackersView.label "Gjurmues">
@@ -1041,6 +946,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies dhe të Dhëna Sajti">
+
+
 
 <!ENTITY contentBlocking.cryptominers.label "Nxjerrës kriptomonedhash">
 <!ENTITY contentBlocking.cryptominersView.label "Nxjerrës kriptomonedhash">
@@ -1084,27 +991,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Mbylleni">
 
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Harro:">
-<!ENTITY panicButton.view.5min                    "Pesë minutat e fundit">
-<!ENTITY panicButton.view.2hr                     "Dy orët e fundit">
-<!ENTITY panicButton.view.day                     "24 orët e fundit">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "Vazhdimi:">
-<!ENTITY panicButton.view.deleteCookies           "Do të fshijë <html:strong>Cookies</html:strong> Së Fundi">
-<!ENTITY panicButton.view.deleteHistory           "Do të fshijë <html:strong>Historikun</html:strong> Së Fundi">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Do të mbyllë krejt <html:strong>Skedat</html:strong> dhe <html:strong>Dritaret</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "Hapni një Dritare të re të pastër">
-
-<!ENTITY panicButton.view.undoWarning             "Ky veprim nuk mund të zhbëhet.">
-<!ENTITY panicButton.view.forgetButton            "Lëre fare!">
-
 <!ENTITY panicButton.thankyou.msg1                "Historiku juaj së fundi u pastrua.">
 <!ENTITY panicButton.thankyou.msg2                "Shfletim i parrezik!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Faleminderit!">
@@ -1112,31 +998,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Mësoni më tepër rreth DRM-s…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "Për fjalën e fundit në shpejtësi dhe privatësi, përditësoni &brandShorterName;-in tuaj.">
-<!ENTITY updateAvailable.whatsnew.label "Shihni ç&apos;ka të re.">
-<!ENTITY updateAvailable.header.message "Ka gati një përditësim të ri për &brandShorterName;-in.">
-<!ENTITY updateAvailable.acceptButton.label "Shkarkoje Përditësimin">
-<!ENTITY updateAvailable.acceptButton.accesskey "k">
-<!ENTITY updateAvailable.cancelButton.label "Jo Tani">
-<!ENTITY updateAvailable.cancelButton.accesskey "J">
-
 <!ENTITY updateAvailable.panelUI.label "Shkarko përditësim &brandShorterName;-i">
-
-<!ENTITY updateManual.message "Shkarkoni një kopje të re të &brandShorterName;-it dhe do t&apos;ju ndihmojmë ta instaloni.">
-<!ENTITY updateManual.whatsnew.label "Shihni ç&apos;ka të re.">
-<!ENTITY updateManual.header.message "&brandShorterName;-i s&apos;mund të përditësohet me versionin më të ri.">
-<!ENTITY updateManual.acceptButton.label "Shkarkoje &brandShorterName;-in">
-<!ENTITY updateManual.acceptButton.accesskey "S">
-<!ENTITY updateManual.cancelButton.label "Jo Tani">
-<!ENTITY updateManual.cancelButton.accesskey "J">
 <!ENTITY updateManual.panelUI.label "Shkarkoni një kopje të freskët të &brandShorterName;-it">
-
-<!ENTITY updateRestart.message2 "Pas një rinisjeje të shpejtë, &brandShorterName;-i do të rikthejë krejt skedat dhe dritaret tuaja të hapura që nuk gjenden nën mënyrën Shfletim Privat.">
-<!ENTITY updateRestart.header.message2 "Që të përditësohet &brandShorterName;-i, riniseni.">
-<!ENTITY updateRestart.acceptButton.label "Rinise dhe Riktheji">
-<!ENTITY updateRestart.acceptButton.accesskey "R">
-<!ENTITY updateRestart.cancelButton.label "Jo Tani">
-<!ENTITY updateRestart.cancelButton.accesskey "J">
 <!ENTITY updateUnsupported.panelUI.label "S&apos;mund të kryeni përditësime të mëtejshme">
 <!ENTITY updateRestart.panelUI.label2 "Që të përditësohet &brandShorterName;-i, riniseni">
 
@@ -1176,18 +1039,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "Me Veçori Përdorshmërie të Aktivizuara ">
-
-<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
-     The first <image> tag is replaced with the icon for the add-ons menu.
-     The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "Administroni shtesat tuaj duke klikuar <image class='addon-addon-icon'/> te menuja <image class='addon-toolbar-icon'/>.">
-<!ENTITY addonPostInstall.incognito.checkbox.label "Lejoje këtë zgjerim të xhirojë në Dritare Private">
-<!ENTITY addonPostInstall.incognito.checkbox.accesskey "L">
-
-<!ENTITY addonPrivateBrowsing.header2.label "Ndryshim te zgjerime në Dritare Private">
-<!ENTITY addonPrivateBrowsing.body2.label "Çfarëdo zgjerimesh të reja që shtoni te &brandShorterName; s’do të funksionojë në Dritare Private, veç në e lejofshi ju këtë te rregullimet.">
-<!ENTITY addonPrivateBrowsing.learnMore.label "Mësoni si të administroni rregullime zgjerimesh.">
-<!ENTITY addonPrivateBrowsing.okButton.label "OK, e mora vesh">
-<!ENTITY addonPrivateBrowsing.okButton.accesskey "O">
-<!ENTITY addonPrivateBrowsing.manageButton.label "Administroni Zgjerime">
-<!ENTITY addonPrivateBrowsing.manageButton.accesskey "A">

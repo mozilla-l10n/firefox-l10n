@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Burim të dhënash ping-u:
 about-telemetry-show-current-ping-data = Të dhëna ping-u të tanishme
+about-telemetry-show-current-data = Të dhëna të tanishme
 about-telemetry-show-archived-ping-data = Të dhëna ping-u të arkivuara
 about-telemetry-show-subsession-data = Shfaqni të dhëna nënsesioni
 about-telemetry-choose-ping = Zgjidhni ping:
@@ -15,6 +16,7 @@ about-telemetry-option-group-older = Më të vjetër
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Të dhëna Telemetry-e
+about-telemetry-current-store = Depo e Tanishme:
 about-telemetry-more-information = Po kërkoni për më tepër informacion?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Dokumentimi i të Dhënave të Firefox-it</a> përmban udhërrëfyes se si të punohet me mjetet tona për të dhënat.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Dokumentimi i klientit të Firefox Telemetry-së</a> përfshin përkufizime për koncepte, dokumentim të API-t dhe referenca të dhënash.
@@ -75,6 +77,7 @@ about-telemetry-settings-explanation = Telemetry-a po grumbullon { about-telemet
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Çdo pjesë të dhënash dërgohet e paketuar në “<a data-l10n-name="ping-link">ping-e</a>”. Po shihni ping-un { $name }, { $timestamp }.
 about-telemetry-ping-details-current = Çdo pjesë të dhënash dërgohet e paketuar në “<a data-l10n-name="ping-link">ping-e</a>”. Po shihni ping-un i tanishmi.
+about-telemetry-data-details-current = Çdo element informacioni dërgohet i paketuar në “<a data-l10n-name="ping-link">pingje</a>“.Po shihni të dhënat e tanishme.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -101,6 +104,8 @@ about-telemetry-no-search-results-all = Na ndjeni! S’ka përfundime në ndonj�
 about-telemetry-no-data-to-display = Na ndjeni! S’ka të dhëna të passhme në “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = ping-u i tanishëm
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = të dhëna të tanishme
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = krejt
 # button label to copy the histogram

@@ -28,9 +28,6 @@
 <!ENTITY helpSafeMode.stop.label       "Rinise me Shtesat të Aktivizuara">
 <!ENTITY helpSafeMode.stop.accesskey   "A">
 
-<!ENTITY healthReport2.label      "Raport Mbi Shëndetin e &brandShorterName;-it">
-<!ENTITY healthReport2.accesskey  "a">
-
 <!ENTITY helpTroubleshootingInfo.label      "Të dhëna Diagnostikimi">
 <!ENTITY helpTroubleshootingInfo.accesskey  "D">
 
@@ -52,3 +49,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Shfaqi të Tëra">
+
+<!ENTITY touchBarCmdMac.label           "Përshtatni Shtyllën e Prekjeve…">
