@@ -108,6 +108,7 @@
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Pangkalahatan">
 <!ENTITY prefs_restore "Restore Defaults">
+<!ENTITY prefs_manage_components "I-manage ang mga Extra Component">
 <!ENTITY prefs_options_rememberlastproject "Tandaan ang huling proyekto">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Ibalik ang nakaraang proyekto kapag nagsimula ang WebIDE">
 <!ENTITY prefs_options_templatesurl "Templates URL">
@@ -124,8 +125,9 @@
 <!ENTITY device_typenone "Pumili ng uri">
 
 <!-- Device Preferences -->
-<!ENTITY devicepreference_title "Mga Kagustuhan para sa Device">
-<!ENTITY devicepreference_search "Mga kagustuhan sa paghahanap">
+<!ENTITY devicepreference_title "Mga Kagustuhan sa Device">
+<!ENTITY devicepreference_search "Mga kagustuhan sa paghanap">
+<!ENTITY devicepreference_newname "Bagong pangalan ng kagustuhan">
 
 <!-- Device Settings -->
 <!ENTITY devicesetting_title "Mga Device Setting">

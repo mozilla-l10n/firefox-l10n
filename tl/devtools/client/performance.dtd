@@ -17,6 +17,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "I-enable ang multiprocess Firefox sa mga kagustuhan para sa realtime na pag-render ng recording data.">
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
@@ -54,6 +55,8 @@
 <!ENTITY performanceUI.table.function                 "Function">
 <!ENTITY performanceUI.table.function.tooltip         "Ang pangalan at source location ng na-sample na function.">
 <!ENTITY performanceUI.table.totalAlloc               "Total Sampled Allocations">
+<!ENTITY performanceUI.table.selfAlloc                "Mga Self Sampled Allocation">
+<!ENTITY performanceUI.table.selfAlloc.tooltip        "Ang bilang ng mga Object allocation na sinample sa lokasyong ito.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
@@ -105,6 +108,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
+<!ENTITY performanceUI.console.recordingNoticeStart "Kasalukuyang nagre-record sa pamamagitan ng">
 <!ENTITY performanceUI.console.recordingNoticeEnd   "">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.stopCommandStart/stopCommandEnd):
