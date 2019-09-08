@@ -35,8 +35,8 @@ graph-today = aujourd’hui
 graph-legend-description = Un graphique contenant le nombre total de chaque type de traqueur bloqué cette semaine.
 social-tab-title = Traqueurs de réseaux sociaux
 social-tab-contant = Les réseaux sociaux placent des traqueurs sur d’autres sites web pour suivre ce que vous faites, lisez et regardez en ligne. Cela permet aux entreprises de réseaux sociaux d’en savoir plus sur vous au-delà de ce que vous partagez sur vos profils en ligne. <a data-l10n-name="learn-more-link">En savoir plus</a>
-cookie-tab-title = Cookies utilisés pour le pistage entre les sites
-cookie-tab-content = Ces cookies vous suivent de site en site pour collecter des données sur vos faits et gestes en ligne. Ils sont déposés par des tiers, tels que des annonceurs ou des entreprises d’analyse de données. Bloquer les cookies utilisés pour le pistage entre les sites permet de réduire le nombre de publicités qui vous suivent d’un site à l’autre. <a data-l10n-name="learn-more-link">En savoir plus</a>
+cookie-tab-title = Cookies de pistage intersites
+cookie-tab-content = Ces cookies vous suivent d’un site à l’autre pour collecter des données sur vos faits et gestes en ligne. Ils sont déposés par des tiers, tels que des annonceurs ou des entreprises d’analyse de données. Bloquer les cookies de pistage intersites permet de réduire le nombre de publicités qui vous suivent d’un site à l’autre. <a data-l10n-name="learn-more-link">En savoir plus</a>
 tracker-tab-title = Contenu utilisé pour le pistage
 tracker-tab-description = Les sites web peuvent charger des publicités, des vidéos et d’autres contenus externes qui contiennent des éléments de pistage. Le blocage du contenu utilisé pour le pistage peut accélérer le chargement des sites, mais certains boutons, formulaires ou champs de connexion risquent de ne pas fonctionner. <a data-l10n-name="learn-more-link">En savoir plus</a>
 fingerprinter-tab-title = Détecteurs d’empreinte numérique
@@ -127,11 +127,11 @@ bar-tooltip-social =
            *[other] { $count } traqueurs de réseaux sociaux ({ $percentage } %)
         }
 bar-tooltip-cookie =
-    .title = Cookies utilisés pour le pistage entre les sites
+    .title = Cookies de pistage intersites
     .aria-label =
         { $count ->
-            [one] { $count } cookie utilisé pour le pistage entre les sites ({ $percentage } %)
-           *[other] { $count } cookies utilisés pour le pistage entre les sites ({ $percentage } %)
+            [one] { $count } cookie de pistage intersites ({ $percentage } %)
+           *[other] { $count } cookies de pistage intersites ({ $percentage } %)
         }
 bar-tooltip-tracker =
     .title = Contenu utilisé pour le pistage
