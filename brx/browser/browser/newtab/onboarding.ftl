@@ -61,6 +61,9 @@ onboarding-data-sync-button2 = { -sync-brand-short-name } आव साइन-�
 onboarding-browse-privately-button = मोनसे प्राइभेट उइन्ड'खौ खेव
 onboarding-firefox-send-button = { -send-brand-name } खौ नाजा
 onboarding-mobile-phone-title = { -brand-product-name } खौ नोंथांनि जानबुङाव नांगौब्ला
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = मबाइल बुकमार्कफोर डाउनल'ड खालाम
 onboarding-pocket-anywhere-button = { -pocket-brand-name } खौ नाजा
 onboarding-lockwise-passwords-title = नोंनि पासवर्दखौ जेरावबो लांंफा
 onboarding-lockwise-passwords-button2 = आपखौ ला

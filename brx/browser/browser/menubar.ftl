@@ -188,6 +188,8 @@ menu-bookmarks-toolbar =
     .label = बुकमार्क टुलबार
 menu-bookmarks-other =
     .label = गुबुन बुकमाकॅफोर
+menu-bookmarks-mobile =
+    .label = मबाइल बुकमार्कफोर
 
 ## Tools Menu
 

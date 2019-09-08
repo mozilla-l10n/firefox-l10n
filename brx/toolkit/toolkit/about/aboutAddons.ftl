@@ -192,6 +192,7 @@ go-back-button =
 ## Recommended add-ons page
 
 discopane-notice-learn-more = गोबां सोलों
+privacy-policy = गुमुरगोनां पलिसि
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = मेनेज खालाम

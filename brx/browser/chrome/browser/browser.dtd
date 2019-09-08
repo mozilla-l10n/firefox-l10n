@@ -181,6 +181,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY showAllBookmarks2.label "गासै बुकमार्कखौ दिन्थि">
 <!ENTITY otherBookmarksCmd.label "गुबुन बुकमाकॅफोर">
+<!ENTITY mobileBookmarksCmd.label "मबाइल बुकमार्कफोर">
 <!ENTITY bookmarksToolbarChevron.tooltip "गोबां बुकमार्कखौ दिन्थि">
 
 <!ENTITY backCmd.label                "उनथिं">
@@ -219,6 +220,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksSubview.label             "बुकमाकॅफोर">
 <!ENTITY bookmarksMenuButton2.label         "बुकमार्कफोरनि मेनु">
 <!ENTITY bookmarksMenuButton.other.label    "गुबुन बुकमाकॅफोर">
+<!ENTITY bookmarksMenuButton.mobile.label   "मबाइल बुकमार्कफोर">
 <!ENTITY viewBookmarksSidebar2.label        "बुकमार्क साइडबारखौ नाय">
 <!ENTITY viewBookmarksToolbar.label         "बुकमार्क टुलबारखौ नाइ">
 <!ENTITY searchBookmarks.label              "बुकमार्कफोरखौ नागिर">
