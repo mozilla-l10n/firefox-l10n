@@ -21,6 +21,7 @@ about-telemetry-more-information = Naghahanap ng karagdagang impormasyon?
 about-telemetry-firefox-data-doc = Ang <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> ay naglalaman ng mga gabay tungkol sa kung paano gumagana ang aming mga kagamitan sa mga datos.
 about-telemetry-telemetry-client-doc = Ang <a data-l10n-name="client-doc-link">Firefox Telemetry client documentation</a> ay naglalakip ng mga pagbigay-kahulugan para sa mga konsepto, mga dokumentasyon sa API at pinanggagalingan ng mga datos.
 about-telemetry-telemetry-dashboard = Ang <a data-l10n-name="dashboard-link">Telemetry dashboards</a> ay nagbigay daan sa iyo na maipakita ang mga datos na matatanggap ng Mozilla sa pamamagitan ng Telemetry.
+about-telemetry-telemetry-probe-dictionary = Ang <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> ay nagbibigay ng mga detalye at paglalarawan sa mga probe na kinolekta ng Telemetry.
 about-telemetry-show-in-Firefox-json-viewer = Buksan sa viewer ng JSON
 about-telemetry-home-section = Home
 about-telemetry-general-data-section = Pangkalahatang Impormasyon

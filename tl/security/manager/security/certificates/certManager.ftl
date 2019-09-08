@@ -201,6 +201,7 @@ cert-not-verified-cert-not-trusted = Hindi masiyasat ang sertipikong ito dahil h
 cert-not-verified-issuer-not-trusted = Hindi ma-verify itong sertipiko dahil ang issuer ay hindi mapagkakatiwalaan.
 cert-not-verified-issuer-unknown = Hindi ma-verify itong sertipiko dahil ang issuer ay hindi kilala.
 cert-not-verified-ca-invalid = Hindi ma-verify itong sertipiko dahil ang CA certificate ay hindi wasto.
+cert-not-verified_algorithm-disabled = Hindi ma-verify ang certificate na ito dahil ito ay signed gamit ang signature algorithm na naka-disable dahil hindi ito ligtas gamitin.
 cert-not-verified-unknown = Hindi ma-verify ang sertipiko na ito para sa hindi kilalang dahilan.
 
 ## Add Security Exception dialog
