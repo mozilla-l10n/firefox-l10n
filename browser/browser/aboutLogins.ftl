@@ -32,8 +32,7 @@ menu =
 # This menuitem is only visible on Windows
 menu-menuitem-import = Tuo salasanoja…
 menu-menuitem-preferences = Asetukset
-menu-menuitem-feedback = Lähetä palautetta
-menu-menuitem-faq = Usein kysytyt kysymykset
+about-logins-menu-menuitem-help = Ohje
 menu-menuitem-android-app = { -lockwise-brand-short-name } Androidille
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } iPhonelle ja iPadille
 
@@ -53,6 +52,8 @@ login-list-last-changed-option = Viimeksi muokattu
 login-list-last-used-option = Viimeksi käytetty
 login-list-intro-title = Kirjautumistietoja ei löytynyt
 login-list-intro-description = Kun tallennat salasanan { -brand-product-name }-selaimeen, se ilmestyy tänne.
+about-logins-login-list-empty-search-title = Kirjautumistietoja ei löytynyt
+about-logins-login-list-empty-search-description = Hakuasi vastaavia tuloksia ei löytynyt.
 login-list-item-title-new-login = Uusi kirjautumistieto
 login-list-item-subtitle-new-login = Anna kirjautumistietosi
 login-list-item-subtitle-missing-username = (ei käyttäjätunnusta)
@@ -71,8 +72,8 @@ login-item-origin-label = Verkkosivuston osoite
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Käyttäjätunnus
-login-item-username =
-    .placeholder = nimi@example.com
+about-logins-login-item-username =
+    .placeholder = (ei käyttäjätunnusta)
 login-item-copy-username-button-text = Kopioi
 login-item-copied-username-button-text = Kopioitu!
 login-item-password-label = Salasana
@@ -116,3 +117,6 @@ confirm-discard-changes-dialog-confirm-button = Hylkää
 breach-alert-link = Lue lisää tästä vuodosta.
 breach-alert-dismiss =
     .title = Sulje tämä hälytys
+
+## Error Messages
+
