@@ -9,7 +9,7 @@
 <!ENTITY setup.pickSetupType.description "Welkom! Als u &syncBrand.fullName.label; nog nooit eerder hebt gebruikt, dient u een nieuwe account aan te maken.">
 <!ENTITY button.createNewAccount.label "Een nieuwe account aanmaken">
 <!ENTITY setup.haveAccount.label "Ik heb al een &syncBrand.fullName.label;-account.">
-<!ENTITY button.connect.label    "Verbinden">
+<!ENTITY button.connect.label "Verbinden">
 
 <!ENTITY setup.choicePage.title.label     "Hebt u &syncBrand.fullName.label; eerder gebruikt?">
 <!ENTITY setup.choicePage.new.label       "Ik heb &syncBrand.shortName.label; nooit eerder gebruikt">
@@ -24,22 +24,22 @@
 <!ENTITY signIn.account2.accesskey  "A">
 <!ENTITY signIn.password.label      "Wachtwoord">
 <!ENTITY signIn.password.accesskey  "W">
-<!ENTITY signIn.recoveryKey.label       "Herstelsleutel">
-<!ENTITY signIn.recoveryKey.accesskey   "H">
+<!ENTITY signIn.recoveryKey.label     "Herstelsleutel">
+<!ENTITY signIn.recoveryKey.accesskey "H">
 
 <!-- New Account Page 1: Basic Account Info -->
 <!ENTITY setup.newAccountDetailsPage.title.label "Accountdetails">
-<!ENTITY setup.confirmPassword.label  "Wachtwoord bevestigen">
-<!ENTITY setup.confirmPassword.accesskey  "b">
-<!ENTITY setup.emailAddress.label     "E-mailadres">
-<!ENTITY setup.emailAddress.accesskey "E">
+<!ENTITY setup.confirmPassword.label             "Wachtwoord bevestigen">
+<!ENTITY setup.confirmPassword.accesskey         "b">
+<!ENTITY setup.emailAddress.label                "E-mailadres">
+<!ENTITY setup.emailAddress.accesskey            "E">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
      joined with implicit white space, so spaces in the strings aren't necessary -->
 <!ENTITY setup.tosAgree1.label      "Ik ga akkoord met de">
 <!ENTITY setup.tosAgree1.accesskey  "a">
 <!ENTITY setup.tosLink.label        "servicevoorwaarden">
 <!ENTITY setup.tosAgree2.label      "en het">
-<!ENTITY setup.ppLink.label         "privacybeleid">
+<!ENTITY setup.ppLink.label         "Privacybeleid">
 <!ENTITY setup.tosAgree3.label      "">
 <!ENTITY setup.tosAgree2.accesskey  "">
 
