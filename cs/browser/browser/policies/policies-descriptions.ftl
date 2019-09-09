@@ -44,7 +44,7 @@ policy-DisableSystemAddonUpdate = Zablokování instalace a aktualizací systém
 policy-DisableTelemetry = Vypnutí telemetrie.
 policy-DisplayBookmarksToolbar = Zobrazení lišty záložek ve výchozím nastavení.
 policy-DisplayMenuBar = Zobrazení hlavní nabídky ve výchozím nastavení.
-policy-DNSOverHTTPS = Nastavení DNS přes HTTPS.
+policy-DNSOverHTTPS = Nastavení DNS over HTTPS.
 policy-DontCheckDefaultBrowser = Vypnutí kontroly nastavení výchozího prohlížeče při spuštění.
 policy-DownloadDirectory = Nastavení a uzamčení nastavení adresáře pro stahování souborů.
 # “lock” means that the user won’t be able to change this setting
