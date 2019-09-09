@@ -136,6 +136,8 @@ media-device-channels = Kanalen
 media-device-rate = Frequentie
 media-device-latency = Latentie
 media-capabilities-title = Mediamogelijkheden
+# List all the entries of the database.
+media-capabilities-enumerate = Database inventariseren
 
 
 
