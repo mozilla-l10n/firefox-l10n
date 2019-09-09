@@ -71,6 +71,8 @@ fonts-langgroup-other =
 
 ## Default fonts and their sizes
 
+fonts-proportional-header = थाम अन्जिमा गोनां
+    .accesskey = p
 fonts-default-serif =
     .label = सेरिफ
 fonts-default-sans-serif =
