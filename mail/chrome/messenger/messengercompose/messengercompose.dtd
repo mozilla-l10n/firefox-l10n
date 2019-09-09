@@ -21,7 +21,7 @@
 <!ENTITY attachFileCmd.label "Arquivos…">
 <!ENTITY attachFileCmd.accesskey "A">
 <!ENTITY attachFileCmd.key "a">
-<!ENTITY attachCloudCmd.label "Anexo on-line">
+<!ENTITY attachCloudCmd.label "Anexo online">
 <!ENTITY attachCloudCmd.accesskey "l">
 <!ENTITY attachPageCmd.label "Página web…">
 <!ENTITY attachPageCmd.accesskey "w">

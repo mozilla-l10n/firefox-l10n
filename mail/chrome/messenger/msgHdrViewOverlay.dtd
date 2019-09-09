@@ -95,7 +95,7 @@
 
 <!ENTITY openAttachment.tooltip "Abrir o arquivo anexo">
 
-<!ENTITY detachedAttachmentFolder.show.label        "Abrir pasta">
+<!ENTITY detachedAttachmentFolder.show.label        "Abrir pasta do arquivo">
 <!ENTITY detachedAttachmentFolder.show.accesskey    "s">
 <!ENTITY detachedAttachmentFolder.showMac.label     "Mostrar no Finder">
 <!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
