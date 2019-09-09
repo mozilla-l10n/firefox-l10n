@@ -77,9 +77,9 @@
 <!ENTITY localPath.label "ספרייה מקומית:">
 <!ENTITY localFolderPicker.label "בחר ספרייה מקומית">
 <!ENTITY browseFolder.label "עיון…">
-<!ENTITY browseFolder.accesskey "B">
+<!ENTITY browseFolder.accesskey "ע">
 <!ENTITY browseNewsrc.label "עיון…">
-<!ENTITY browseNewsrc.accesskey "e">
+<!ENTITY browseNewsrc.accesskey "ע">
 
 <!ENTITY accountTitle.label "הגדרות חשבון">
 <!ENTITY accountSettingsDesc.label "הבא הוא חשבון מיוחד. אינו זהויות שמקושרות אליו.">
