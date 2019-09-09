@@ -582,7 +582,7 @@ sync-device-name-save =
 sync-connect-another-device = חיבור מכשיר נוסף
 sync-manage-devices = ניהול מכשירים
 sync-fxa-begin-pairing = צימוד מכשיר
-sync-tos-link = תנאי שימוש
+sync-tos-link = תנאי השירות
 sync-fxa-privacy-notice = הצהרת פרטיות
 
 ## Privacy Section
