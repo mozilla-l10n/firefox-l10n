@@ -37,7 +37,9 @@ social-tab-title = Ava ñandutieta rapykuehoha
 cookie-tab-title = Kookie rapykuehoha tenda ojoasávape
 tracker-tab-title = Tetepy mo’ãha
 fingerprinter-tab-title = Ñemokuãhũ
+fingerprinter-tab-content = Umi kuãhũ kuaaukaha ombyaty ne kundahára ñemoĩporã ha ne mohendaha omoheñói hag̃ua mba’ete nenba’erã. Oipurúvo ko kuãhũ ikatu ohapykueho opaichagua ñanduti renda guive. <a data-l10n-name="learn-more-link">Kuaave</a>
 cryptominer-tab-title = Criptomineros
+cryptominer-tab-content = Umi criptominero oipurúva nde apopyvusu rembipurupyahu oguenohẽ hag̃ua viru ñandutiguáva. Umi ojuapykuerigua ipapapýva mbohapeha oipurupa ibatería, omombegue ne mohendaha ha ikatu ohupi electricidad repy. <a data-l10n-name="learn-more-link">Kuaave</a>
 lockwise-title = Anivéke nderesarái ne ñe’ẽñemígui
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } ombyaty iñe’ẽñemi ikundahápe tekorosãme.
@@ -68,6 +70,14 @@ info-monitored-emails =
     { $count ->
         [one] Ñanduti veve kundaharape jehechameméva
        *[other] Ñanduti veve kundaharape jehechameméva
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Mba’ekuaarã kuaapýva ñembyai omomarãkuaa ne marandu
+       *[other] Mba’ekuaarãkuéra kuaapýva ñembyai omomarãkuaa ne marandu
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
