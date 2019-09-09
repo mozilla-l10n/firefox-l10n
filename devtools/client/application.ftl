@@ -33,6 +33,14 @@ manifest-loading = Caricamento manifesto in corso…
 manifest-loaded-ok = Caricato manifesto.
 manifest-loaded-error = Si è verificato un errore durante il caricamento del manifesto:
 manifest-non-existing = Nessun manifesto trovato da analizzare.
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifesto
+  .alt = Icona manifesto
+  .title = Manifesto
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Service worker
+  .alt = Icona service worker
+  .title = Service worker
 icon-warning =
   .alt = Icona avviso
   .title = Avviso
