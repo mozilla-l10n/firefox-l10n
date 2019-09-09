@@ -13,3 +13,5 @@
 <!ENTITY cmd.removeFromHistory.accesskey           "e">
 <!ENTITY cmd.clearList.label                       "Clarar le lista">
 <!ENTITY cmd.clearList.accesskey                   "C">
+<!ENTITY cmd.searchDownloads.label                 "Cercar…">
+<!ENTITY cmd.searchDownloads.key                   "C">
