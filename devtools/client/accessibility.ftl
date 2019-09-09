@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Tìm hiểu thêm
 accessibility-text-label-header = Nhãn và tên văn bản
+accessibility-keyboard-header = Bàn phím
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -28,6 +29,7 @@ accessibility-text-label-issue-embed = Nội dung nhúng phải được dán nh
 accessibility-text-label-issue-figure = Số liệu với chú thích tùy chọn nên được dán nhãn. <a>Tìm hiểu thêm</a>
 accessibility-text-label-issue-fieldset = Các phần tử </code>fieldset</code> phải được dán nhãn. <a>Tìm hiểu thêm</a>
 accessibility-text-label-issue-fieldset-legend = Sử dụng phần tử <code>legend</code> để gắn nhãn các phần tử <span>fieldset</span>. <a>Tìm hiểu thêm</a>
+accessibility-text-label-issue-fieldset-legend2 = Sử dụng một phần tử <code>legend</code> để gắn nhãn <span>fieldset</span>. <a>Tìm hiểu thêm</a>
 accessibility-text-label-issue-form = Các yếu tố hình thức phải được dán nhãn. <a>Tìm hiểu thêm</a>
 accessibility-text-label-issue-form-visible = Các yếu tố hình thức nên có một nhãn văn bản có thể nhìn thấy. <a>Tìm hiểu thêm</a>
 accessibility-text-label-issue-frame = Các phần tử <code>frame</code> phải được dán nhãn. <a>Tìm hiểu thêm</a>
@@ -38,4 +40,12 @@ accessibility-text-label-issue-iframe = Sử dụng thuộc tính <code>title</c
 accessibility-text-label-issue-image = Nội dung với hình ảnh phải được dán nhãn. <a>Tìm hiểu thêm</a>
 accessibility-text-label-issue-interactive = Các yếu tố tương tác phải được dán nhãn. <a>Tìm hiểu thêm</a>
 accessibility-text-label-issue-optgroup-label = Sử dụng thuộc tính <code>label</code> để gắn nhãn các phần tử <span>optgroup</span>. <a>Tìm hiểu thêm</a>
+accessibility-text-label-issue-optgroup-label2 = Sử dụng một thuộc tính <code>label</code> để gắn nhãn <span>optgroup</span>. <a>Tìm hiểu thêm</a>
 accessibility-text-label-issue-toolbar = Thanh công cụ phải được dán nhãn khi có nhiều hơn một thanh công cụ. <a>Tìm hiểu thêm</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
+accessibility-keyboard-issue-tabindex = Tránh sử dụng thuộc tính <code>tabindex</code> lớn hơn 0. <a>Tìm hiểu thêm</a>
+accessibility-keyboard-issue-action = Các yếu tố tương tác phải có thể được kích hoạt bằng bàn phím. <a>Tìm hiểu thêm</a>

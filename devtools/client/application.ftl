@@ -69,5 +69,29 @@ serviceworker-empty-suggestions-debugger = Bước qua đăng ký Service Worker
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Kiểm tra Service Worker từ các lĩnh vực khác. <a>Mở about:debugging</a>
+# Header for the view of Manifest displayed in the application panel for the current page.
+manifest-view-header = Bản kê khai ứng dụng
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Lỗi và cảnh báo
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Nhận dạng
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Trình bày
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Biểu tượng
+# Text displayed while we are loading the manifest file
+manifest-loading = Đang tải bản kê khai…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Đã tải manifest.
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = Có lỗi trong khi tải tập tin kê khai:
+# Text displayed when the page has no manifest available
+manifest-non-existing = Không tìm thấy bảng kê khai để kiểm tra.
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Biểu tượng cảnh báo
+    .title = Cảnh báo
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Biểu tượng lỗi
+    .title = Lỗi
