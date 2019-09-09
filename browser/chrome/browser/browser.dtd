@@ -255,7 +255,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.cameraBlocked.tooltip            "Du har blokeret dit kamera for dette websted.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Du har blokeret din mikrofon for dette websted.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Du har blokeret skærmdeling for dette websted.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Du har blokeret dette websteds mulighed for at kende din position.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Du har blokeret dette websteds mulighed for at se din position.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Du har blokeret beskeder fra dette websted.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Du har blokeret vedvarende lager for dette websted.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Du har blokeret pop op-vinduer for dette websted.">
