@@ -35,7 +35,7 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
-onboarding-sync-welcome-header = { -brand-product-name } אתך בדרכים
+onboarding-sync-welcome-header = { -brand-product-name } איתך בכל מקום
 onboarding-sync-welcome-content = קבלת המועדפים, ההיסטוריה, הססמאות והגדרות נוספות בכל המכשירים שלך.
 onboarding-sync-welcome-learn-more-link = מידע נוסף על חשבונות Firefox
 onboarding-sync-form-invalid-input = נדרשת כתובת דוא״ל חוקית
