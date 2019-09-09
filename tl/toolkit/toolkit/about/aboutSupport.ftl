@@ -75,6 +75,7 @@ modified-prefs-name = Pangalan
 modified-prefs-value = Halaga
 user-js-title = user.js Preferences
 user-js-description = Your profile folder contains a <a data-l10n-name="user-js-link">user.js file</a>, which includes preferences that were not created by { -brand-short-name }.
+locked-key-prefs-title = Mga Importanteng Nakapinid na Kagustuhan
 locked-prefs-name = Pangalan
 locked-prefs-value = Halaga
 graphics-title = Graphics

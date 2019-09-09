@@ -128,6 +128,7 @@
 <!ENTITY devicepreference_title "Mga Kagustuhan sa Device">
 <!ENTITY devicepreference_search "Mga kagustuhan sa paghanap">
 <!ENTITY devicepreference_newname "Bagong pangalan ng kagustuhan">
+<!ENTITY devicepreference_newtext "Preference value">
 <!ENTITY devicepreference_addnew "Magdagdag ng bagong kagustuhan">
 
 <!-- Device Settings -->

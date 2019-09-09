@@ -33,6 +33,7 @@
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "O">
 
+<!ENTITY openRecentMenu.label         "Open Recent">
 <!ENTITY openRecentMenu.accesskey     "R">
 
 <!ENTITY revertCmd.label              "Ibalik…">
