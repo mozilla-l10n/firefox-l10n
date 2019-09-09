@@ -107,6 +107,13 @@ sandbox-sys-call-number = Systémové volání
 sandbox-sys-call-args = Argumenty
 safe-mode-title = Vyzkoušet nouzový režim
 restart-in-safe-mode-label = Restartovat se zakázanými doplňky…
+
+## Media titles
+
+audio-backend = Audio Backend
+max-audio-channels = Maximální počet kanálů
+channel-layout = Preferované rozložení kanálů
+sample-rate = Preferovaná vzorkovací frekvence
 media-title = Média
 media-output-devices-title = Výstupní zařízení
 media-input-devices-title = Vstupní zařízení
@@ -119,6 +126,12 @@ media-device-format = Formát
 media-device-channels = Kanály
 media-device-rate = Vzorkování
 media-device-latency = Prodleva
+media-capabilities-title = Podpora médií
+# List all the entries of the database.
+media-capabilities-enumerate = Vypsat databázi
+
+
+
 intl-title = Internacionalizace a lokalizace
 intl-app-title = Nastavení aplikace
 intl-locales-requested = Požadované jazyky
@@ -239,10 +252,6 @@ content-uses-tiling = Používá skládání (obsah)
 off-main-thread-paint-enabled = Vykreslování mimo hlavní vlákno povoleno
 off-main-thread-paint-worker-count = Počet vláken pro vykreslování mimo hlavní vlákno
 target-frame-rate = Cílová frekvenci snímkování
-audio-backend = Audio Backend
-max-audio-channels = Maximální počet kanálů
-channel-layout = Preferované rozložení kanálů
-sample-rate = Preferovaná vzorkovací frekvence
 min-lib-versions = Očekávaná minimální verze
 loaded-lib-versions = Používaná verze
 has-seccomp-bpf = Seccomp-BPF (filtrování systémových volání)
