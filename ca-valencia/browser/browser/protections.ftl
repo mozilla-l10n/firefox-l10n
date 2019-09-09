@@ -41,7 +41,7 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } emmagatzema les contrasenyes de forma segura en el vostre navegador.
 lockwise-header-content-logged-in = Guardeu i sincronitzeu les contrasenyes de forma segura en tots els vostres dispositius.
 open-about-logins-button = Obri al { -brand-short-name }
-lockwise-no-logins-content = Instal·leu l'aplicació <a data-l10n-name"lockwise-inline-link">{ -lockwise-brand-name }</a> per accedir a les vostres contrasenyes des de qualsevol lloc.
+lockwise-no-logins-content = Instal·leu l'aplicació <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> per accedir a les vostres contrasenyes des de qualsevol lloc.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -91,7 +91,7 @@ info-exposed-passwords =
         [one] contrasenya exposada entre totes les filtracions.
        *[other] contrasenyes exposades entre totes les filtracions.
     }
-full-report-link = Vegeu l'informe complet al <a data-l10n-name"monitor-inline-link">{ -monitor-brand-name }</a>
+full-report-link = Vegeu l'informe complet al <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
 # your localization, because it would result in the number showing twice.

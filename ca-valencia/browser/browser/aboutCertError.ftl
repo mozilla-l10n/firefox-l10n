@@ -25,7 +25,7 @@ cert-error-domain-mismatch = Els llocs web demostren la seua identitat mitjança
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = Els llocs web demostren la seua identitat mitjançant certificats. El { -brand-short-name } no confia en este lloc perquè utilitza un certificat que no és vàlid per a { $hostname }. El certificat només és vàlid per a <a data-l10n-name"domain-mismatch-link">{ $alt-name }</a>.
+cert-error-domain-mismatch-single = Els llocs web demostren la seua identitat mitjançant certificats. El { -brand-short-name } no confia en este lloc perquè utilitza un certificat que no és vàlid per a { $hostname }. El certificat només és vàlid per a <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $alt-name (String) - Alternate domain name for which the cert is valid.
@@ -43,7 +43,7 @@ cert-error-expired-now = Els llocs web demostren la seua identitat mitjançant c
 cert-error-not-yet-valid-now = Els llocs web demostren la seua identitat mitjançant certificats, que són vàlids durant un període de temps determinat. El certificat de { $hostname } no serà vàlid fins al { $not-before-local-time }.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix-link = Codi d'error: <a data-l10n-name"error-code-link">{ $error }</a>
+cert-error-code-prefix-link = Codi d'error: <a data-l10n-name="error-code-link">{ $error }</a>
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Els llocs web demostren la seua identitat mitjançant certificats emesos per entitats certificadores.  La majoria de navegadors ja no confien en els certificats emesos per GeoTrust, RapidSSL, Symantec, Thawte i VeriSign. { $hostname } utilitza un certificat d'una d'estes entitats i, per tant, no es pot provar la identitat del lloc web.

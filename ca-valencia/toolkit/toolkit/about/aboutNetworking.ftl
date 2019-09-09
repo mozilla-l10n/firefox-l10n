@@ -30,7 +30,7 @@ messages-received = Missatges rebuts
 bytes-sent = Bytes enviats
 bytes-received = Bytes rebuts
 logging = Registre
-log-tutorial = Vegeu <a data-l10n-name"logging">HTTP Logging</a> per obtindre instruccions sobre com utilitzar esta eina.
+log-tutorial = Vegeu <a data-l10n-name="logging">HTTP Logging</a> per obtindre instruccions sobre com utilitzar esta eina.
 current-log-file = Fitxer de registre actual:
 current-log-modules = Mòduls de registre actuals:
 set-log-file = Defineix el fitxer de registre

@@ -12,7 +12,7 @@ welcome-title = Vos donem la benvinguda a les eines per a desenvolupadors del Fi
 newsletter-title = Butlletí de desenvolupadors de Mozilla
 newsletter-email-placeholder =
     .placeholder = Adreça electrònica
-newsletter-privacy-label = Accepte que Mozilla gestione la meua informació en els termes descrits en la <a data-l10n-name"privacy-policy">política de privadesa</a>.
+newsletter-privacy-label = Accepte que Mozilla gestione la meua informació en els termes descrits en la <a data-l10n-name="privacy-policy">política de privadesa</a>.
 newsletter-subscribe-button = Subscriu-m'hi
 newsletter-thanks-title = Gràcies!
 newsletter-thanks-message = Si anteriorment no heu confirmat la subscripció a algun butlletí de notícies relacionat amb Mozilla, és possible que ho hàgeu de fer. Comproveu la safata d'entrada o el filtre de correu brossa per veure si hi ha algun missatge de Mozilla.

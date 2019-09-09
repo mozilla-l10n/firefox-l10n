@@ -37,4 +37,4 @@ welcome-back-restore-button =
     .accesskey = S
 welcome-back-restore-all-label = Restaura totes les finestres i pestanyes
 welcome-back-restore-some-label = Restaura només algunes pestanyes
-welcome-back-page-info-link = S'han eliminat els vostres complements i personalitzacions i s'han restaurat els paràmetres del navegador per defecte. Si això no resol el problema, <a data-l10n-name"link-more">obteniu més informació sobre què podeu fer.</a>
+welcome-back-page-info-link = S'han eliminat els vostres complements i personalitzacions i s'han restaurat els paràmetres del navegador per defecte. Si això no resol el problema, <a data-l10n-name="link-more">obteniu més informació sobre què podeu fer.</a>

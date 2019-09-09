@@ -93,14 +93,14 @@ detail-update-manual =
     .tooltiptext = No instal·les actualitzacions automàticament
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Executa en finestres privades
-detail-private-browsing-description2 = Si ho permeteu, l'extensió tindrà accés a la vostra activitat a Internet encara que utilitzeu la navegació privada. <label data-l10n-name"detail-private-browsing-learn-more">Més informació</label>
+detail-private-browsing-description2 = Si ho permeteu, l'extensió tindrà accés a la vostra activitat a Internet encara que utilitzeu la navegació privada. <label data-l10n-name="detail-private-browsing-learn-more">Més informació</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = No es permet en finestres privades
-detail-private-disallowed-description = Esta extensió no s'executa durant la navegació privada. <label data-l10n-name"detail-private-browsing-learn-more">Més informació</label>
+detail-private-disallowed-description = Esta extensió no s'executa durant la navegació privada. <label data-l10n-name="detail-private-browsing-learn-more">Més informació</label>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Necessita accés a les finestres privades
-detail-private-required-description = Esta extensió té accés a la vostra activitat a Internet durant la navegació privada. <label data-l10n-name"detail-private-browsing-learn-more">Més informació</label>
+detail-private-required-description = Esta extensió té accés a la vostra activitat a Internet durant la navegació privada. <label data-l10n-name="detail-private-browsing-learn-more">Més informació</label>
 detail-private-browsing-on =
     .label = Permet
     .tooltiptext = Activa en la navegació privada
@@ -141,14 +141,14 @@ addon-restart-now =
     .label = Reinicia ara
 disabled-unsigned-heading =
     .value = S'han inhabilitat alguns complements
-disabled-unsigned-description = Els complements següents no s'han verificat per al seu ús al { -brand-short-name }. Podeu <label data-l10n-name"find-addons">cercar un altre complement similar</label> o demanar al desenvolupador que els verifiqui.
+disabled-unsigned-description = Els complements següents no s'han verificat per al seu ús al { -brand-short-name }. Podeu <label data-l10n-name="find-addons">cercar un altre complement similar</label> o demanar al desenvolupador que els verifiqui.
 disabled-unsigned-learn-more = Més informació sobre els nostres esforços per garantir la vostra seguretat a Internet.
-disabled-unsigned-devinfo = Els desenvolupadors interessats en la verificació dels seus complements poden llegir el nostre <label data-l10n-name"learn-more">manual</label>.
-plugin-deprecation-description = Vos falta res? Alguns complements ja no són compatibles amb el { -brand-short-name }. <label data-l10n-name"learn-more">Més informació.</label>
+disabled-unsigned-devinfo = Els desenvolupadors interessats en la verificació dels seus complements poden llegir el nostre <label data-l10n-name="learn-more">manual</label>.
+plugin-deprecation-description = Vos falta res? Alguns complements ja no són compatibles amb el { -brand-short-name }. <label data-l10n-name="learn-more">Més informació.</label>
 legacy-warning-show-legacy = Mostra les extensions antigues
 legacy-extensions =
     .value = Extensions antigues
-legacy-extensions-description = Estes extensions no compleixen els estàndards actuals del { -brand-short-name } i s'han desactivat. <label data-l10n-name"legacy-learn-more">Més informació sobre els canvis en els complements</label>
+legacy-extensions-description = Estes extensions no compleixen els estàndards actuals del { -brand-short-name } i s'han desactivat. <label data-l10n-name="legacy-learn-more">Més informació sobre els canvis en els complements</label>
 private-browsing-description2 =
     El { -brand-short-name } ha canviat el funcionament de les extensions en la navegació privada. Per defecte, les extensions noves que s'afegeixin al { -brand-short-name } no s'executaran en les finestres privades. Llevat que ho permeteu als paràmetres, l'extensió no funcionarà durant la navegació privada i no tindrà accés a les vostres activitats en línia. Hem fet aquest canvi per garantir la privadesa de la vostra navegació quan s'utilitzen les finestres privades.
     <label data-l10n-name="private-browsing-learn-more">Més informació sobre com gestionar els paràmetres de les extensions</label>
@@ -270,7 +270,7 @@ go-back-button =
 
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Les extensions i els temes són com les aplicacions per al navegador i vos permeten protegir les contrasenyes, baixar vídeos, trobar ofertes, bloquejar anuncis molestos, canviar com es veu el vostre navegador i molt més. Estos petits programes sovint són desenvolupats per tercers. Ací teniu una selecció <a data-l10n-name"learn-more-trigger">recomanada</a> pel { -brand-product-name } per aconseguir un nivell excepcional de seguretat, rendiment i funcionalitat.
+discopane-intro = Les extensions i els temes són com les aplicacions per al navegador i vos permeten protegir les contrasenyes, baixar vídeos, trobar ofertes, bloquejar anuncis molestos, canviar com es veu el vostre navegador i molt més. Estos petits programes sovint són desenvolupats per tercers. Ací teniu una selecció <a data-l10n-name="learn-more-trigger">recomanada</a> pel { -brand-product-name } per aconseguir un nivell excepcional de seguretat, rendiment i funcionalitat.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Algunes d’aquestes recomanacions són personalitzades. Es basen en altres
@@ -280,7 +280,7 @@ privacy-policy = Política de privadesa
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
-created-by-author = per <a data-l10n-name"author">{ $author }</a>
+created-by-author = per <a data-l10n-name="author">{ $author }</a>
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
@@ -349,7 +349,7 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = <span data-l10n-name"addon-name">{ $addon }</span> s'ha eliminat.
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> s'ha eliminat.
 pending-uninstall-undo-button = Desfés
 addon-detail-updates-label = Permet actualitzacions automàtiques
 addon-detail-updates-radio-default = Per defecte
@@ -361,7 +361,7 @@ install-update-button = Actualitza
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Es permet en finestres privades
-addon-detail-private-browsing-help = Si ho permeteu, l'extensió tindrà accés a la vostra activitat a Internet encara que utilitzeu la navegació privada. <label data-l10n-name"detail-private-browsing-learn-more">Més informació</label>
+addon-detail-private-browsing-help = Si ho permeteu, l'extensió tindrà accés a la vostra activitat a Internet encara que utilitzeu la navegació privada. <label data-l10n-name="detail-private-browsing-learn-more">Més informació</label>
 addon-detail-private-browsing-allow = Permet
 addon-detail-private-browsing-disallow = No ho permetes
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
@@ -378,4 +378,4 @@ recommended-extensions-heading = Extensions recomanades
 recommended-themes-heading = Temes recomanats
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
-recommended-theme-1 = Vos sentiu creatiu? <a data-l10n-name"link">Creeu el vostre propi tema amb el Firefox Color.</a>
+recommended-theme-1 = Vos sentiu creatiu? <a data-l10n-name="link">Creeu el vostre propi tema amb el Firefox Color.</a>

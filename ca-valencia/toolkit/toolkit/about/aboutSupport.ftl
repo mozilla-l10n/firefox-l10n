@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Informació de resolució de problemes
-page-subtitle = Esta pàgina conté informació tècnica que pot ser útil quan proveu de resoldre un problema. Si cerqueu respostes per a preguntes freqüents del { -brand-short-name }, visiteu el nostre <a data-l10n-name"support-link">lloc web d'assistència</a>.
+page-subtitle = Esta pàgina conté informació tècnica que pot ser útil quan proveu de resoldre un problema. Si cerqueu respostes per a preguntes freqüents del { -brand-short-name }, visiteu el nostre <a data-l10n-name="support-link">lloc web d'assistència</a>.
 crashes-title = Informes de fallada
 crashes-id = Identificador de l'informe
 crashes-send-date = Data d'enviament
@@ -73,7 +73,7 @@ modified-key-prefs-title = Preferències modificades importants
 modified-prefs-name = Nom
 modified-prefs-value = Valor
 user-js-title = Preferències d'user.js
-user-js-description = La vostra carpeta de perfil conté un <a data-l10n-name"user-js-link">fitxer user.js</a>, que inclou preferències que no han estat creades pel { -brand-short-name }.
+user-js-description = La vostra carpeta de perfil conté un <a data-l10n-name="user-js-link">fitxer user.js</a>, que inclou preferències que no han estat creades pel { -brand-short-name }.
 locked-key-prefs-title = Preferències importants blocades
 locked-prefs-name = Nom
 locked-prefs-value = Valor

@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-private-browsing-learn-more = Més informació sobre la <a data-l10n-name"learn-more">Navegació privada</a>.
+about-private-browsing-learn-more = Més informació sobre la <a data-l10n-name="learn-more">Navegació privada</a>.
 about-private-browsing-info-visited = pàgines visitades
 privatebrowsingpage-open-private-window-label = Obri una finestra privada
     .accesskey = p

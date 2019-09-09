@@ -28,8 +28,8 @@ app-title = { -brand-short-name } - ID d'aplicació { $appId } - InBrowserElemen
 ##  $url: the url of script specification and current worker.
 
 scope = <strong>Àmbit:</strong> { $name }
-script-spec = <strong>Especificació de l'script:</strong> <a data-l10n-name"link">{ $url }</a>
-current-worker-url = <strong>URL del procés de treball actual:</strong> <a data-l10n-name"link">{ $url }</a>
+script-spec = <strong>Especificació de l'script:</strong> <a data-l10n-name="link">{ $url }</a>
+current-worker-url = <strong>URL del procés de treball actual:</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>Nom de la memòria cau activa:</strong> { $name }
 waiting-cache-name = <strong>Nom de la memòria cau en espera:</strong> { $name }
 push-end-point-waiting = <strong>Punt final de transferència Push:</strong> { waiting }

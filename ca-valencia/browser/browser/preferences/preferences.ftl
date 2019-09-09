@@ -73,31 +73,31 @@ restart-later = Reinicia més tard
 
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
-extension-controlled-homepage-override = L'extensió «<img data-l10n-name"icon"/> { $name }» controla la vostra pàgina d'inici.
+extension-controlled-homepage-override = L'extensió «<img data-l10n-name="icon"/> { $name }» controla la vostra pàgina d'inici.
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
-extension-controlled-new-tab-url = L'extensió «<img data-l10n-name"icon"/> { $name }» controla la vostra pàgina de pestanya nova.
+extension-controlled-new-tab-url = L'extensió «<img data-l10n-name="icon"/> { $name }» controla la vostra pàgina de pestanya nova.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
-extension-controlled-web-notifications = Una extensió, <img data-l10n-name"icon"/> { $name }, controla este paràmetre.
+extension-controlled-web-notifications = Una extensió, <img data-l10n-name="icon"/> { $name }, controla este paràmetre.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
-extension-controlled-default-search = L'extensió «<img data-l10n-name"icon"/> { $name }» ha definit el vostre motor de cerca per defecte.
+extension-controlled-default-search = L'extensió «<img data-l10n-name="icon"/> { $name }» ha definit el vostre motor de cerca per defecte.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = L'extensió «<img data-l10n-name"icon"/> { $name }» requereix pestanyes de contenidor.
+extension-controlled-privacy-containers = L'extensió «<img data-l10n-name="icon"/> { $name }» requereix pestanyes de contenidor.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlled-websites-content-blocking-all-trackers = Una extensió,  <img data-l10n-name"icon"/> { $name }, està controlant este paràmetre.
+extension-controlled-websites-content-blocking-all-trackers = Una extensió,  <img data-l10n-name="icon"/> { $name }, està controlant este paràmetre.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = L'extensió «<img data-l10n-name"icon"/> { $name }» controla la forma com el { -brand-short-name } es connecta a Internet.
+extension-controlled-proxy-config = L'extensió «<img data-l10n-name="icon"/> { $name }» controla la forma com el { -brand-short-name } es connecta a Internet.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
-extension-controlled-enable = Per activar l'extensió, aneu a <img data-l10n-name"addons-icon"/> Complements del menú <img data-l10n-name"menu-icon"/>.
+extension-controlled-enable = Per activar l'extensió, aneu a <img data-l10n-name="addons-icon"/> Complements del menú <img data-l10n-name="menu-icon"/>.
 
 ## Preferences UI Search Results
 
@@ -108,7 +108,7 @@ search-results-empty-message =
         [windows] No s'ha trobat «<span data-l10n-name="query"></span>» a les opcions.
        *[other] No s'ha trobat «<span data-l10n-name="query"></span>» a les preferències.
     }
-search-results-help-link = Necessiteu ajuda? Visiteu l'<a data-l10n-name"url">assistència del { -brand-short-name }</a>
+search-results-help-link = Necessiteu ajuda? Visiteu l'<a data-l10n-name="url">assistència del { -brand-short-name }</a>
 
 ## General Section
 
@@ -214,7 +214,7 @@ translate-web-pages =
     .accesskey = T
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
-translate-attribution = Traducció feta per <img data-l10n-name"logo"/>
+translate-attribution = Traducció feta per <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepcions…
     .accesskey = x
@@ -260,7 +260,7 @@ play-drm-content =
 play-drm-content-learn-more = Més informació
 update-application-title = Actualitzacions del { -brand-short-name }
 update-application-description = Manteniu el { -brand-short-name } actualitzat per obtindre el millor rendiment, estabilitat i seguretat.
-update-application-version = Versió { $version } <a data-l10n-name"learn-more">Novetats</a>
+update-application-version = Versió { $version } <a data-l10n-name="learn-more">Novetats</a>
 update-history =
     .label = Mostra l'historial d'actualitzacions…
     .accesskey = h
@@ -292,7 +292,7 @@ update-setting-write-failure-title = Error en guardar les preferències d'actual
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
     El { -brand-short-name } ha trobat un error i no ha desat aquest canvi. Tingueu en compte que, per definir aquesta preferència d'actualització, necessiteu permís per escriure al fitxer següent. Podeu resoldre l’error, o un administrador del sistema, concedint al grup «Usuaris» el control total d'aquest fitxer.
-    
+
     No s'ha pogut escriure al fitxer: { $path }
 update-in-progress-title = Actualització en curs
 update-in-progress-message = Voleu que el { -brand-short-name } continue amb esta actualització?
@@ -315,7 +315,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Límit de processos de contingut
     .accesskey = L
 performance-limit-content-process-enabled-desc = Més processos de contingut poden millorar el rendiment quan utilitzeu diverses pestanyes, però també utilitzaran més memòria.
-performance-limit-content-process-blocked-desc = El nombre de processos de contingut només es pot modificar amb el { -brand-short-name } multiprocés. <a data-l10n-name"learn-more">Més informació sobre com comprovar si el multiprocés està activat.</a>
+performance-limit-content-process-blocked-desc = El nombre de processos de contingut només es pot modificar amb el { -brand-short-name } multiprocés. <a data-l10n-name="learn-more">Més informació sobre com comprovar si el multiprocés està activat.</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -511,7 +511,7 @@ sync-signedout-account-signin =
 #
 # They can be moved within the sentence as needed to adapt
 # to your language, but should not be changed or translated.
-sync-mobile-promo = Baixeu el Firefox per a l'<img data-l10n-name"android-icon"/> <a data-l10n-name"android-link">Android</a> o per a l'<img data-l10n-name"ios-icon"/> <a data-l10n-name"ios-link">iOS</a> per sincronitzar amb el vostre dispositiu mòbil.
+sync-mobile-promo = Baixeu el Firefox per a l'<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o per a l'<img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> per sincronitzar amb el vostre dispositiu mòbil.
 
 ## Sync Section - Signed in
 

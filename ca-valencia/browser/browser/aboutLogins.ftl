@@ -67,7 +67,7 @@ login-intro-heading = Esteu cercant els inicis de sessió que heu guardat? Confi
 login-intro-description = Si heu guardat els vostres inicis de sessió en el { -brand-product-name } des d'un altre dispositiu, esta és la manera de tindre-los també ací:
 login-intro-instruction-fxa = Creeu un { -fxaccount-brand-name } o inicieu-hi la sessió des del dispositiu on teniu guardats els vostres inicis de sessió
 login-intro-instruction-fxa-settings = Assegureu-vos que heu seleccionat la casella de selecció Inicis de sessió en els paràmetres del { -sync-brand-short-name }
-login-intro-instruction-faq = Vegeu les <a data-l10n-name"faq">preguntes més freqüents</a> del { -lockwise-brand-short-name } per obtindre més ajuda
+login-intro-instruction-faq = Vegeu les <a data-l10n-name="faq">preguntes més freqüents</a> del { -lockwise-brand-short-name } per obtindre més ajuda
 
 ## Login
 
