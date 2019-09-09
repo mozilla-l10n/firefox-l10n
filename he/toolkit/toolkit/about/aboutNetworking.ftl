@@ -34,8 +34,8 @@ logging = רישום
 log-tutorial = לקבלת הוראות לגבי השימוש בכלי זה, נא לפנות אל המאמר <a data-l10n-name="logging">רישום HTTP</a>.
 current-log-file = קובץ רישום נוכחי:
 current-log-modules = מודולי רישום נוכחיים:
-set-log-file = קביעת קובץ רישום
-set-log-modules = קביעת מודולי רישום
+set-log-file = הגדרת קובץ רישום
+set-log-modules = הגדרת מודולי רישום
 start-logging = התחלת רישום
 stop-logging = הפסקת רישום
 dns-lookup = חיפוש ב־DNS
