@@ -331,7 +331,7 @@
 <!ENTITY selectAll.accesskey "S">
 <!ENTITY attachFile.label "Anexar arquivos…">
 <!ENTITY attachFile.accesskey "n">
-<!ENTITY attachCloud.label "Anexo on-line…">
+<!ENTITY attachCloud.label "Anexo online…">
 <!ENTITY attachCloud.accesskey "l">
 <!ENTITY convertCloud.label "Converter para…">
 <!ENTITY convertCloud.accesskey "C">
