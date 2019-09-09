@@ -9,6 +9,15 @@ graph-week-summary =
         [one] { -brand-short-name } ojoko { $count } rapykuehoha arapokõindy ohasaramóvape
        *[other] { -brand-short-name } ojoko { $count } rapykuehoha arapokõindy ohasaramóvape
     }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] <b>{ $count }</b> tapykuehoha jokopyre { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } guive
+       *[other] <b>{ $count }</b> tapykuehoha jokopyre { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } guive
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -31,6 +40,7 @@ fingerprinter-tab-title = Ñemokuãhũ
 cryptominer-tab-title = Criptomineros
 lockwise-title = Anivéke nderesarái ne ñe’ẽñemígui
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-header-content = { -lockwise-brand-name } ombyaty iñe’ẽñemi ikundahápe tekorosãme.
 lockwise-header-content-logged-in = Embyaty ha embojuehe ne ñe’ẽñemi opaite ne mba’e’okápe tekorosãme.
 about-logins-view-logins-button = Ehecha tembiapo ñepyrũ
 lockwise-no-logins-content = Eguereko pe tembipuru’i <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> egueraha hag̃ua ne ñe’ẽñemi opa hendápe.
@@ -47,6 +57,7 @@ lockwise-sync-status =
 lockwise-sync-not-syncing-devices = Ndojuehéi ambue mba’e’oka ndive
 monitor-title = Ema’ẽag̃uíke mba’ekuaarã ñembyaíre
 monitor-link = Mba'éichapa oba'apo
+monitor-header-content-no-account = Ehecha { -monitor-brand-name } eikuaa hag̃ua oĩpara’e mba’ekuaarã kuaapýva ñembyaípe ha oñembou hag̃ua ndéve kyhyjyrã mba’evai rehegua.
 monitor-sign-up = Eñemboheraguapy og̃uahẽ hag̃ua ndéve ñembyai rehegua
 auto-scan = Ijehegui ohechajey ko árape
 # This string is displayed after a large numeral that indicates the total number
