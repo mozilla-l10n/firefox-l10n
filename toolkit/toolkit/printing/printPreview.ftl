@@ -33,6 +33,7 @@ printpreview-of =
     .value = fan
 printpreview-custom-prompt =
     .value = Oanpaste skaal…
+printpreview-custom-scale-prompt-title = Oanpaste skaal
 printpreview-page-setup =
     .label = Side-ynstellingen…
     .accesskey = y

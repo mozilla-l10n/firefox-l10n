@@ -35,6 +35,8 @@ app-basics-name = Namme
 app-basics-version = Ferzje
 app-basics-build-id = Build-ID
 app-basics-update-channel = Fernijingskanaal
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Map fernije
@@ -59,7 +61,6 @@ app-basics-service-workers = Registrearre Service Workers
 app-basics-profiles = Profilen
 app-basics-launcher-process-status = Launcher-proses
 app-basics-multi-process-support = Multiproses-finsters
-app-basics-process-count = Webynhâldsproses
 app-basics-remote-processes-count = Eksterne prosessen
 app-basics-enterprise-policies = Bedriuwsbelied
 app-basics-location-service-key-google = Google-lokaasjetsjinstkaai
@@ -115,6 +116,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguminten
 safe-mode-title = Probearje de feilige modus
 restart-in-safe-mode-label = Werstart mei útskeakele add-ons…
+
+## Media titles
+
+audio-backend = Audio-backend
+max-audio-channels = Maks kanalen
+channel-layout = Oanrekommandearre kanaalmodus
+sample-rate = Oanrekommandearre foarbyldfrekwinsje
 media-title = Media
 media-output-devices-title = Utfierapparaten
 media-input-devices-title = Ynfierapparaten
@@ -127,6 +135,12 @@ media-device-format = Formaat
 media-device-channels = Kanalen
 media-device-rate = Wurdearrring
 media-device-latency = Latintens
+media-capabilities-title = Mediamooglikheden
+# List all the entries of the database.
+media-capabilities-enumerate = Database ynventarisearje
+
+
+
 intl-title = Ynternasjonalisaasje & lokalisaasje
 intl-app-title = Applikaasjeynstellingen
 intl-locales-requested = Fersochte talen
@@ -241,12 +255,7 @@ uses-tiling = Brûkt tegels
 content-uses-tiling = Brûkt Tiling (Ynhâld)
 off-main-thread-paint-enabled = Off Main Thread Painting ynskeakele
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Count
-low-end-machine = Minder krêftige masine detektearre
 target-frame-rate = Doelframerate
-audio-backend = Audio-backend
-max-audio-channels = Maks kanalen
-channel-layout = Oanrekommandearre kanaalmodus
-sample-rate = Oanrekommandearre foarbyldfrekwinsje
 min-lib-versions = Minimale ferzje ferwachte
 loaded-lib-versions = Brûkte ferzje
 has-seccomp-bpf = Seccomp-BPF (Systeemoanropfiltering)
