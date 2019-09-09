@@ -27,13 +27,9 @@
 
 <!ENTITY addCloudFileAccount1.label       "Adicionar…">
 <!ENTITY addCloudFileAccount1.accesskey   "A">
-<!ENTITY addCloudFileAccount.description  "Adicionar um serviço de armazenamento on-line">
+<!ENTITY addCloudFileAccount.description  "Adicionar um serviço de armazenamento de anexos online">
 <!ENTITY removeCloudFileAccount.label     "Remover">
 <!ENTITY removeCloudFileAccount.accesskey "R">
-<!ENTITY authRequired.description         "Sua autorização é necessária para verificar as configurações deste serviço de armazenamento.">
-<!ENTITY authRequired.button.label        "Autorizar">
-<!ENTITY authRequired.button.accesskey    "u">
-
 <!ENTITY findCloudFileProviders.label     "Procurar mais provedores…">
 
 <!ENTITY enableCloudFileAccountOffer.label "Oferecer compartilhamento para arquivos maiores que">
