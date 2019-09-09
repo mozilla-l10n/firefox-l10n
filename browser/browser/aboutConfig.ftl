@@ -7,16 +7,20 @@ about-config-warning-title = Farligt farvand forude!
 about-config-warning-text = Ved at ændre disse avancerede indstillinger kan du risikere at skade programmets stabilitet, sikkerhed og ydelse. Du bør kun fortsætte, hvis du ved, hvad du laver.
 about-config-warning-checkbox = Advar mig en anden gang
 about-config-warning-button = Jeg ved, hvad jeg laver
+
 about-config2-title = Avancerede indstillinger
+
 about-config-search-input =
     .placeholder = Søg
 about-config-show-all = Vis alle
+
 about-config-pref-add = Tilføj
 about-config-pref-toggle = Skift
 about-config-pref-edit = Rediger
 about-config-pref-save = Gem
 about-config-pref-reset = Nulstil
 about-config-pref-delete = Slet
+
 about-config-pref-add-button =
     .title = Tilføj
 about-config-pref-toggle-button =
@@ -31,7 +35,6 @@ about-config-pref-delete-button =
     .title = Slet
 
 ## Labels for the type selection radio buttons shown when adding preferences.
-
 about-config-pref-add-type-boolean = Boolsk værdi
 about-config-pref-add-type-number = Tal
 about-config-pref-add-type-string = Streng
@@ -42,7 +45,6 @@ about-config-pref-add-type-string = Streng
 ##
 ## Variables:
 ##   $value (String): The full value of the preference.
-
 about-config-pref-accessible-value-default =
     .aria-label = { $value } (standard)
 about-config-pref-accessible-value-custom =
