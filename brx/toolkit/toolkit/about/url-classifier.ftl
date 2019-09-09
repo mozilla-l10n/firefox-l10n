@@ -7,6 +7,7 @@ url-classifier-search-result-uri = URI: { $uri }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = बाहायजायै URL
 url-classifier-cache-clear-btn = खोमोर
+url-classifier-not-available = N/A
 url-classifier-enabled = मावथि खालामबाय
 url-classifier-disabled = लोरबां जाबाय
 url-classifier-success = जाफुंसारनाय

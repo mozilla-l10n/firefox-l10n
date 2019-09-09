@@ -27,3 +27,10 @@ messages-sent = खौरां दैथाय हरबाय
 messages-received = खौरां मोनबाय
 bytes-sent = बाइट्स दैथाय हरबाय
 bytes-received = बाइट्स मोनबाय
+rcwn-perf-open = खेव
+
+## Link is intended as "network link"
+
+
+
+
