@@ -8,6 +8,7 @@
 <!ENTITY new.label              "Nove">
 <!ENTITY open.label             "Aperir">
 <!ENTITY save.label             "Salvar">
+<!ENTITY preview.label          "Navigar">
 <!ENTITY cut.label              "Taliar">
 <!ENTITY copy.label             "Copiar">
 <!ENTITY paste.label            "Collar">

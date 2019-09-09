@@ -10,6 +10,8 @@
 <!ENTITY pixelsPopup.value "pixels">
 
 <!-- These are in the Location tab panel -->
+<!ENTITY locationEditField.label "Adresse del imagine:">
+<!ENTITY locationEditField.accessKey "А">
 <!ENTITY title.label "Consilio:">
 <!ENTITY title.accessKey "C">
 <!ENTITY altText.label "Texto alternative">
