@@ -4,7 +4,12 @@
 
 newsletter-email-placeholder =
     .placeholder = इ-मेइल
+newsletter-subscribe-button = साबस्क्रिप्ट
 newsletter-thanks-title = साबायखर!
 footer-learn-more-link = गोबां सोलों
 features-learn-more = गोबां सोलों
+features-inspector-title = नायबिजिरग्रा
+features-console-title = कनस'ल
 features-debugger-title = डेबागार
+features-network-title = नेटवार्क
+features-storage-title = दोनथुमग्रा

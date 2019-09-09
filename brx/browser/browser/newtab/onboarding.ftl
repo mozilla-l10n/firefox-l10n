@@ -25,6 +25,9 @@ onboarding-join-form-email =
     .placeholder = इ-मेइल हाबहो
 onboarding-join-form-email-error = बाहाय जाथाय इ-मेइल नांगौ
 onboarding-join-form-continue = सालाय लांबाय था
+onboarding-cards-dismiss =
+    .title = फोजोब
+    .aria-label = फोजोब
 
 ## Firefox Sync modal dialog strings.
 

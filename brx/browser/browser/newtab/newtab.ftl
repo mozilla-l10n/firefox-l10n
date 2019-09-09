@@ -68,6 +68,7 @@ newtab-menu-topsites-placeholder-tooltip =
 newtab-menu-edit-topsites = सुजुनाय
 newtab-menu-open-new-window = मोनसे गोदान उइन्ड'आव खेव
 newtab-menu-open-new-private-window = मोनसे गोदान प्राइभेट उइन्ड'खौ खेव
+newtab-menu-dismiss = फोजोब
 newtab-menu-pin = पिन खालाम
 newtab-menu-unpin = पिन दिहुन
 newtab-menu-delete-history = जारिमिन निफ्राय खोमोर

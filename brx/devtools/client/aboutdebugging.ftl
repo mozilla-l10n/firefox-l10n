@@ -14,8 +14,16 @@
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = बे { -brand-shorter-name }
+# Sidebar heading for connecting to some remote source
+about-debugging-sidebar-setup =
+    .name = सेटआप
 # Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
 about-debugging-sidebar-usb-enabled = USB मावथि खालामबाय
+# Text displayed in buttons found in sidebar items representing remote runtimes.
+# Clicking on the button will attempt to connect to the runtime.
+about-debugging-sidebar-item-connect-button = फोनांजाब खालाम
+# Text displayed in buttons found in sidebar items when the runtime is connecting.
+about-debugging-sidebar-item-connect-button-connecting = फोनांजाब होगासिनो दं
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName }{ $deviceName }
@@ -26,6 +34,8 @@ about-debugging-sidebar-runtime-item-name-no-device =
 
 # Setup Page strings
 
+# Title of the Setup page.
+about-debugging-setup-title = सेटआप
 # USB section of the Setup page
 about-debugging-setup-usb-title = युएसबि
 # Text of the button displayed in the USB section of the setup page while USB debugging
