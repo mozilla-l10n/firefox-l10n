@@ -250,6 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gérer l’utilisation des logiciels DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Ouvrir le panneau MIDI">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Vous avez accordé des permissions supplémentaires à ce site web.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Vous avez empêché ce site d’accéder à votre caméra.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Vous avez empêché ce site d’accéder à votre microphone.">
