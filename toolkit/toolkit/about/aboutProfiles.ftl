@@ -8,6 +8,10 @@ profiles-create = Създаване на профил
 profiles-restart-title = Рестартиране
 profiles-restart-in-safe-mode = Рестартиране с изключени добавки…
 profiles-restart-normal = Нормално рестартиране…
+profiles-flush-fail-title = Промените не са запазени
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Грешка попречи промените да бъдат запазени.
+profiles-flush-restart-button = Рестартиране на { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Профил: { $name }
@@ -41,7 +45,7 @@ profiles-delete-profile-title = Изтриване на профил
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm =
     При изтриване профилът ще бъде необратимо премахнат от списъка с налични профили.
-    Може да изберете дали и файловете с данни на профила като настройки, сертификати и други потребителски данни също да бъдат премахнат. По този начин и папката „{ $dir }“ ще бъде необратимо премахната.
+    Може да изберете дали и файловете с данни на профила като настройки, сертификати и други потребителски данни също да бъдат премахнати. По този начин и папката „{ $dir }“ ще бъде необратимо премахната.
     Бихте ли желали файловете с данни на профила да бъдат премахнати?
 profiles-delete-files = Премахване на файлове
 profiles-dont-delete-files = Без премахване на файлове
