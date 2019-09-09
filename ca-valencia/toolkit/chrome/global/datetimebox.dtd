@@ -12,24 +12,24 @@
 <!-- Field labels for input type=time -->
 
 
-<!ENTITY time.hour.label "Hours">
-<!ENTITY time.minute.label "Minutes">
-<!ENTITY time.second.label "Seconds">
-<!ENTITY time.millisecond.label "Milliseconds">
+<!ENTITY time.hour.label "Hores">
+<!ENTITY time.minute.label "Minuts">
+<!ENTITY time.second.label "Segons">
+<!ENTITY time.millisecond.label "Mil·lisegons">
 <!ENTITY time.dayperiod.label "AM/PM">
 <!-- Placeholders for input type=date -->
 
 
-<!ENTITY date.year.placeholder "yyyy">
+<!ENTITY date.year.placeholder "aaaa">
 <!ENTITY date.month.placeholder "mm">
 <!ENTITY date.day.placeholder "dd">
 <!-- Field labels for input type=date -->
 
 
-<!ENTITY date.year.label "Year">
-<!ENTITY date.month.label "Month">
-<!ENTITY date.day.label "Day">
+<!ENTITY date.year.label "Any">
+<!ENTITY date.month.label "Mes">
+<!ENTITY date.day.label "Dia">
 <!-- Date/time clear button -->
 
 
-<!ENTITY datetime.reset.label "Clear">
+<!ENTITY datetime.reset.label "Neteja">

@@ -135,6 +135,11 @@
 
 <!ENTITY options.timestampMessages.label      "Habilita les marques horàries">
 <!ENTITY options.timestampMessages.tooltip    "Si habiliteu esta opció, es mostraran marques horàries en les ordes i en l'eixida de la consola web">
+<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
+   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
+
+<!ENTITY options.warningGroups.label      "Group similar messages">
+<!ENTITY options.warningGroups.tooltip    "When enabled, similar messages are placed into groups">
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
 
@@ -143,7 +148,7 @@
    - label for the checkbox that toggles source maps in all tools -->
 
 <!ENTITY options.sourceMaps.label      "Habilita els mapes de fonts">
-<!ENTITY options.sourceMaps.tooltip1   "If you enable this option sources will be mapped in the tools.">
+<!ENTITY options.sourceMaps.tooltip1   "Si habiliteu esta opció, es maparan les fonts en les eines.">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
@@ -158,17 +163,17 @@
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
 
-<!ENTITY options.screenshot.label            "Screenshot Behavior">
+<!ENTITY options.screenshot.label            "Comportament de la captura de pantalla">
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
 
-<!ENTITY options.screenshot.clipboard.label      "Screenshot to clipboard">
-<!ENTITY options.screenshot.clipboard.tooltip    "Saves to the screenshot directly to the clipboard">
+<!ENTITY options.screenshot.clipboard.label      "Captura de pantalla al porta-retalls">
+<!ENTITY options.screenshot.clipboard.tooltip    "Guarda la captura de pantalla directament al porta-retalls">
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 
-<!ENTITY options.screenshot.audio.label      "Play camera shutter sound">
-<!ENTITY options.screenshot.audio.tooltip    "Enables the camera audio sound when taking screenshot">
+<!ENTITY options.screenshot.audio.label      "Reprodueix un so d'obturador de càmera">
+<!ENTITY options.screenshot.audio.tooltip    "Activa el so d'obturador de càmera fotogràfica en fer una captura de pantalla">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference

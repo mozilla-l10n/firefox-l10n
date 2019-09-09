@@ -11,7 +11,7 @@
 <!ENTITY storage.popupMenu.deleteAllLabel "Suprimeix-ho tot">
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all session cookies. -->
 
-<!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "Delete All Session Cookies">
+<!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "Suprimeix totes les galetes de sessió">
 <!-- LOCALIZATION NOTE : Label of popup menu action to copy a storage item. -->
 
 <!ENTITY storage.popupMenu.copyLabel "Copy">

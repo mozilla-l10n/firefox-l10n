@@ -12,11 +12,11 @@
 <!ENTITY closedCaption.off "Desactivat">
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
-<!ENTITY volumeScrubber.label "Volume slider">
+<!ENTITY volumeScrubber.label "Control de volum">
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 
-<!ENTITY pictureInPicture.label "Picture-in-Picture">
+<!ENTITY pictureInPicture.label "Imatge sobre imatge">
 
 <!ENTITY stats.media "Suports">
 <!ENTITY stats.size "Mida">
@@ -38,7 +38,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.noSource2 "No s'ha trobat cap vídeo amb un format o un tipus MIME compatibles.">
 <!ENTITY error.generic "S'ha interromput la reproducció del vídeo a causa d'un problema desconegut.">
 
-<!ENTITY status.pictureInPicture "This video is playing in Picture-in-Picture mode.">
+<!ENTITY status.pictureInPicture "Este vídeo s'està reproduint en mode d'Imatge sobre imatge.">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

@@ -16,8 +16,8 @@
 <!ENTITY cmd.neverActivate.tooltip            "No utilitzes mai este complement">
 <!ENTITY cmd.stateMenu.tooltip                "Canvia quan s'executa este complement">
 
-<!ENTITY cmd.uninstallAddon.label             "Suprimeix">
-<!ENTITY cmd.uninstallAddon.accesskey         "r">
+<!ENTITY cmd.uninstallAddon.label             "Elimina">
+<!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "Opcions">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Canvia les opcions del complement">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferències">
@@ -39,7 +39,7 @@
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
 <!ENTITY addon.legacy.label                   "ANTIC">
-<!ENTITY addon.privateBrowsing.label          "ALLOWED IN PRIVATE WINDOWS">
+<!ENTITY addon.privateBrowsing.label          "ES PERMET EN FINESTRES PRIVADES">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->

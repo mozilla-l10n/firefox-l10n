@@ -78,8 +78,8 @@
 <!ENTITY col.dateadded.label     "Addició">
 <!ENTITY col.lastmodified.label  "Darrera modificació">
 
-<!ENTITY historySearch.placeholder  "Search history">
-<!ENTITY bookmarksSearch.placeholder  "Search bookmarks">
+<!ENTITY historySearch.placeholder  "Cerca en l'historial">
+<!ENTITY bookmarksSearch.placeholder  "Cerca en les adreces d'interés">
 
 <!ENTITY cmd.find.key  "f">
 

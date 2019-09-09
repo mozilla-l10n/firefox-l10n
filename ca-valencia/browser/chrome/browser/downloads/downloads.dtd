@@ -23,17 +23,17 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.show.label                   "Obre la carpeta de baixades">
+<!ENTITY cmd.show.label                   "Obre la carpeta on es troba">
 <!ENTITY cmd.show.accesskey               "b">
-<!ENTITY cmd.showMac.label                "Obri la carpeta on es troba">
-<!ENTITY cmd.showMac.accesskey            "c">
-<!ENTITY cmd.showDownloads.label          "Show Downloads Folder">
+<!ENTITY cmd.showMac.label                "Mostra-ho en el Finder">
+<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.showDownloads.label          "Mostra la carpeta de baixades">
 <!ENTITY cmd.retry.label                  "Reintenta">
-<!ENTITY cmd.goToDownloadPage.label       "Vés a la pàgina de baixades">
+<!ENTITY cmd.goToDownloadPage.label       "Vés a la pàgina de la baixada">
 <!ENTITY cmd.goToDownloadPage.accesskey   "V">
 <!ENTITY cmd.copyDownloadLink.label       "Copia l'enllaç de la baixada">
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
-<!ENTITY cmd.removeFromHistory.label      "Suprimeix de l'historial">
+<!ENTITY cmd.removeFromHistory.label      "Elimina de l'historial">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.clearList2.label             "Buida la subfinestra de previsualització">
 <!ENTITY cmd.clearList2.accesskey         "B">
@@ -47,7 +47,7 @@
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
-<!ENTITY cmd.removeFile.label             "Suprimeix el fitxer">
+<!ENTITY cmd.removeFile.label             "Elimina el fitxer">
 <!-- LOCALIZATION NOTE (cmd.chooseUnblock.label):
      This is the tooltip of the action button shown when potentially unwanted
      downloads are blocked. This opens a dialog where the user can choose
@@ -110,7 +110,7 @@
      that we are showing the details of a single download.
      -->
 
-<!ENTITY downloadDetails.label            "Download Details">
+<!ENTITY downloadDetails.label            "Detalls de la baixada">
 <!-- LOCALIZATION NOTE (openDownloadsFolder.label):
      This command is not currently available in the user interface, but the
      string was preserved by bug 1362207 to be used in a future version.

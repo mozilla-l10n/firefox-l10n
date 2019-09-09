@@ -35,14 +35,6 @@
 <!ENTITY pkcs12.setpassword.label1 "Contrasenya de la còpia de seguretat del certificat:">
 <!ENTITY pkcs12.setpassword.label2 "Contrasenya de la còpia de seguretat del certificat (un altre cop):">
 <!ENTITY pkcs12.setpassword.reminder "Important: si oblideu la contrasenya de la còpia de seguretat del certificat no podreu recuperar-la més avant. Guardeu-la en un lloc segur.">
-
-<!ENTITY chooseToken.title  "Diàleg de tria del testimoni">
-<!ENTITY chooseToken.message1 "Trieu un testimoni.">
-<!-- Strings for the CreateCertInfo dialog  -->
-
-<!ENTITY createCertInfo.title "S'està generant una clau privada">
-<!ENTITY createCertInfo.msg1 "S'està generant la clau… Pot trigar uns minuts…">
-<!ENTITY createCertInfo.msg2 "Espereu…">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "Autenticació de testimoni protegit">
