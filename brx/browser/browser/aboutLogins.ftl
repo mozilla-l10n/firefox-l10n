@@ -96,6 +96,7 @@ confirmation-dialog-dismiss-button =
 confirm-delete-dialog-title = बे ल'गइनखौ बोखारनो?
 confirm-delete-dialog-message = बे हाबाखौ मावनो हायै खालामनो हाया।
 confirm-delete-dialog-confirm-button = खोमोर
+confirm-discard-changes-dialog-confirm-button = नागार
 
 ## Breach Alert notification
 

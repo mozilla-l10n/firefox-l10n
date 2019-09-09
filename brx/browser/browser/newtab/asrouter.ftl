@@ -50,6 +50,9 @@ cfr-doorhanger-pintab-animation-resume = फिन जागाय
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = जेरावबो नोंथांनि बुकमार्कफोर सिनक खालाम
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = बन्द खालामनाय बोटन
+    .title = बन्द खालाम
 
 ## Protections panel
 

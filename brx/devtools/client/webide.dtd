@@ -27,7 +27,6 @@
 <!ENTITY projectMenu_manageComponents_label "बांद्राय थाफानाय-मुवाखौ मेनेज खालाम">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 
-
 <!ENTITY runtimeMenu_label "रानटाइम">
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "फोनांजाबगैयै खालाम">
@@ -35,13 +34,11 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "स्क्रिनसट">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "रानटाइन फोरमायथिहोग्रा">
-
-<!ENTITY runtimeMenu_showMonitor_label "मनिटर">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showDevicePrefs_label "डिभाइस पसन्द">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
-
-
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
 <!ENTITY viewMenu_label "नुथाय">
 <!ENTITY viewMenu_accesskey "V">
@@ -54,9 +51,9 @@
 
 <!ENTITY projectButton_label "एपखौ खेव">
 <!ENTITY runtimeButton_label "रानटाइमखौ सायख">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -75,14 +72,10 @@
 <!ENTITY projectPanel_tabs "टेब">
 <!ENTITY runtimePanel_usb "USB डिभाइस">
 <!ENTITY runtimePanel_wifi "Wi-Fi डिभाइस">
-<!ENTITY runtimePanel_simulator "Simulators">
 <!ENTITY runtimePanel_other "गुबुन">
-<!ENTITY runtimePanel_installsimulator "दिन्थिफ्लाग्राखौ इनष्टल खालाम">
-<!ENTITY runtimePanel_noadbhelper "ADB हेल्पारखौ इनष्टल खालाम">
 <!ENTITY runtimePanel_nousbdevice "नोंथांनि डिभाइसखौ नायनो हाया?">
 
 <!-- Lense -->
-
 <!ENTITY details_valid_header "बाहाय जाथाव">
 <!ENTITY details_warning_header "सांग्रांथि">
 <!ENTITY details_error_header "गोरोन्थि">
@@ -90,64 +83,50 @@
 <!ENTITY details_location "जायगा">
 <!ENTITY details_manifestURL "एप ID">
 <!ENTITY details_removeProject_button "प्रजेक्टखौ बोखार">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "गोदान एप">
 <!ENTITY newAppHeader "टेमप्लेटखौ सायख">
 <!ENTITY newAppLoadingTemplate "टेमप्लेटखौ ल'ड खालामगासिनो दं...">
 <!ENTITY newAppProjectName "प्रजेक्टनि मुं:">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "बन्द खालाम">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "बांद्राय थाफानाय-मुवा">
 <!ENTITY addons_aboutaddons "Add-ons मेनेजारखौ खेव">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "पसन्दफोर">
 <!ENTITY prefs_editor_title "सुजुगिरि">
 <!ENTITY prefs_general_title "सरासनस्रा">
-
 <!ENTITY prefs_manage_components "बांद्राय थाफानाय-मुवाखौ मेनेज खालाम">
-
-
 <!ENTITY prefs_options_rememberlastproject "जोबथा प्रजेक्टखौ गोसोखां">
 <!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE खौ जागायनाय समाव आगोलनि प्रजेक्टखौ लाबोफिन">
 <!ENTITY prefs_options_templatesurl "टेमप्लेट URL">
 <!ENTITY prefs_options_templatesurl_tooltip "मोननो हाथाव टेमप्लेटनि नायखांफारि">
+
 <!-- Runtime Details -->
-
 <!ENTITY runtimedetails_title "रानटाइम फोरमायथिहोग्रा">
-<!ENTITY runtimedetails_adbIsRoot "ADB आ रुट: ">
-<!ENTITY runtimedetails_summonADBRoot "रुट डिभाइस">
-<!ENTITY runtimedetails_ADBRootWarning "(आनल'ड बुटल'डार नांगौ)">
 
-<!ENTITY runtimedetails_requestPrivileges "गोजौसिन सुबिधाखौ खावलाय">
-<!ENTITY runtimedetails_privilegesWarning "(रिबुट डिभाइस। रुट हाबनायखौ खावलायो।)">
 <!-- Device Preferences and Settings -->
-
 <!ENTITY device_typeboolean "बुलियान">
 <!ENTITY device_typenumber "आबुं अनजिमा">
 <!ENTITY device_typestring "स्ट्रिं">
 <!ENTITY device_typeobject "बेसाद">
 <!ENTITY device_typenone "मोनसे रोखोम सायख">
+
 <!-- Device Preferences -->
 <!ENTITY devicepreference_search "नागिरनाय पसन्द">
 <!ENTITY devicepreference_newname "गोदान पसन्द मुं">
 <!ENTITY devicepreference_newtext "पसन्द बेसेन">
 <!ENTITY devicepreference_addnew "गोदान पसन्दखौ दाजाबदेर">
+
 <!-- Device Settings -->
 
-
-
-
-<!-- Monitor -->
-
-<!ENTITY monitor_title "मनिटर">
-<!ENTITY monitor_help "मदद">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -162,17 +141,3 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
-<!-- Simulator Options -->
-
-
-
-
-<!ENTITY simulator_version "लिरस्लायनाय">
-
-
-<!ENTITY simulator_device "डिभाइस">
-
-
-
-
-

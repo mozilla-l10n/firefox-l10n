@@ -13,6 +13,7 @@ about-private-browsing-info-searches = नागिरनायफोर
 about-private-browsing-info-downloads = डाउनल'डफोर
 private-browsing-title = निजि ब्राउजिं
 about-private-browsing-info-clipboard = कपि खालामनाय फरा
+about-private-browsing-info-temporary-files = ओस्थायि फाइलफोर
 about-private-browsing-info-cookies = कुकिफोर
 tracking-protection-start-tour = माबोरै खामानि मावो नाय
 about-private-browsing =

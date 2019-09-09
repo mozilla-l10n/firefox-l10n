@@ -138,6 +138,7 @@ update-history =
 update-application-use-service =
     .label = आपडेटफोरखौ इनष्टल खालामनो थाखाय मोनसे सावगारिनि उनथिं थानाय सुबुथायखौ बाहाय
     .accesskey = b
+update-in-progress-ok-button = &नागार
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &सालाय लांबाय था
