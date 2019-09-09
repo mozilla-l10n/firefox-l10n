@@ -4,8 +4,12 @@
 
 saved-logins =
     .title = Gordetako saio-hasierak
+window-close =
+    .key = i
 focus-search-shortcut =
     .key = f
+focus-search-altshortcut =
+    .key = k
 copy-provider-url-cmd =
     .label = Kopiatu URLa
     .accesskey = U
