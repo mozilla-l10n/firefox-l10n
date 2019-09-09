@@ -117,7 +117,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "אימות החשבון שלך">
 
 
-<!ENTITY fullScreenMinimize.tooltip "מזער">
+<!ENTITY fullScreenMinimize.tooltip "מזעור">
 <!ENTITY fullScreenRestore.tooltip "שחזור">
 <!ENTITY fullScreenClose.tooltip "סגירה">
 <!ENTITY fullScreenAutohide.label "הסתרת סרגלים">
@@ -1029,7 +1029,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.keepButton.label "להשאיר שינויים">
 <!ENTITY newTabControlled.keepButton.accesskey "ש">
 <!ENTITY newTabControlled.disableButton.label "השבתת הרחבה">
-<!ENTITY newTabControlled.disableButton.accesskey "נ">
+<!ENTITY newTabControlled.disableButton.accesskey "ה">
 
 <!ENTITY homepageControlled.message "הרחבה שינתה את הדף המופיע כדף הבית שלך. ניתן לשחזר את ההגדרות שלך אם שינוי זה אינו רצוי.">
 <!ENTITY homepageControlled.header.message "דף הבית שלך השתנה.">
