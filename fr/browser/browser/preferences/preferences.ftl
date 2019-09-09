@@ -604,6 +604,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Suggérer et créer des mots de passe robustes
     .accesskey = u
+forms-breach-alerts =
+    .label = Afficher des alertes pour les mots de passe de sites concernés par des fuites de données
+    .accesskey = A
 forms-breach-alerts-learn-more-link = En savoir plus
 forms-fill-logins-and-passwords =
     .label = Renseigner automatiquement les identifiants et les mots de passe
@@ -724,6 +727,7 @@ addressbar-suggestions-settings = Modifier les préférences pour les suggestion
 content-blocking-header = Blocage de contenu
 content-blocking-section-description = Protégez votre vie privée pendant votre navigation. Bloquez les contenus invisibles qui vous pistent de site en site et dressent votre profil. Le blocage d’une partie de ces contenus peut accélérer le chargement des pages.
 content-blocking-enhanced-tracking-protection = Protection renforcée contre le pistage
+content-blocking-section-top-level-description = Les traqueurs vous suivent en ligne pour collecter des informations sur vos habitudes de navigation et vos centres d’intérêt. { -brand-short-name } bloque un grand nombre de ces traqueurs et de scripts malveillants.
 content-blocking-learn-more = En savoir plus
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
