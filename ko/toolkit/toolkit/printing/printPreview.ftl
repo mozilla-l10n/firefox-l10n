@@ -33,6 +33,7 @@ printpreview-of =
     .value = 중
 printpreview-custom-prompt =
     .value = 사용자 지정 크기
+printpreview-custom-scale-prompt-title = 사용자 지정 크기
 printpreview-page-setup =
     .label = 페이지 설정…
     .accesskey = u
