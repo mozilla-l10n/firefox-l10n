@@ -146,9 +146,9 @@ permissions-site-notification-disable-desc = Dette vil forhindre websteder, der 
 permissions-site-location-window =
     .title = Indstillinger - Tilladelser for position
     .style = { permissions-window.style }
-permissions-site-location-desc = Følgende websteder har anmodet om at tilgå din position. Du kan angive, hvilke websteder, der må tilgå din position. Du kan også blokere nye anmodninger om at tilgå din position.
+permissions-site-location-desc = Følgende websteder har anmodet om at se din position. Du kan angive, hvilke websteder, der må se din position. Du kan også blokere nye anmodninger om at se din position.
 permissions-site-location-disable-label =
-    .label = Bloker nye anmodninger om at tilgå din position.
+    .label = Bloker nye anmodninger om at se din position.
 permissions-site-location-disable-desc = Dette vil forhindre websteder, der ikke er angivet ovenfor, i at anmode om din position. At blokere anmodninger om din position kan muligvis forhindre nogle websteder i at fungere optimalt.
 
 ## Site Permissions - Camera
