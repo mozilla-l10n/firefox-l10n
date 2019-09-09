@@ -100,6 +100,15 @@ cfr-whatsnew-tracking-blocked-title =
         [one] Tracker geblockt
        *[other] Tracker geblockt
     }
+cfr-whatsnew-tracking-blocked-subtitle = Seit { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-lockwise-backup-title = Speichere deine Passwörter ab
+cfr-whatsnew-lockwise-backup-body = Generiere jetzt sichere Passwörter, auf die du mit deinem Konto von überall aus zugreifen kannst.
+cfr-whatsnew-lockwise-backup-link-text = Backups einschalten
+cfr-whatsnew-lockwise-take-title = Nimm deine Passwörter mit
+cfr-whatsnew-lockwise-take-body =
+    Mit der { -lockwise-brand-short-name } App für mobile Geräte kannst du von überall aus sicher auf deine
+    gespeicherten Passwörter zugreifen.
+cfr-whatsnew-lockwise-take-link-text = Hol dir die App
 
 ## Bookmark Sync
 
