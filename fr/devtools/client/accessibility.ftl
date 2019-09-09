@@ -47,3 +47,9 @@ accessibility-text-label-issue-toolbar = Les barres d’outils doivent être ét
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = Les éléments pouvant obtenir le focus doivent disposer d’une sémantique interactive. <a>En savoir plus</a>
+accessibility-keyboard-issue-tabindex = Évitez d’utiliser une valeur d’attribut <code>tabindex</code> supérieure à zéro. <a>En savoir plus</a>
+accessibility-keyboard-issue-action = Les éléments interactifs doivent pouvoir être activés à l’aide d’un clavier. <a>En savoir plus</a>
+accessibility-keyboard-issue-focusable = Les éléments interactifs doivent pouvoir obtenir le focus. <a>En savoir plus</a>
+accessibility-keyboard-issue-focus-visible = Un élément pouvant obtenir le focus pourrait ne pas avoir de style indiquant le focus. <a> En savoir plus </a>
+accessibility-keyboard-issue-mouse-only = Les éléments cliquables doivent pouvoir obtenir le focus et avoir une sémantique interactive. <a>En savoir plus</a>
