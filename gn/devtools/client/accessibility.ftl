@@ -52,3 +52,4 @@ accessibility-keyboard-issue-tabindex = Ani eipuru tekome’ẽ <code>tabindex</
 accessibility-keyboard-issue-action = Umi mba’epuru ojuajúva oñemyandyva’erã tairendápe. <a>Eikuaave</a>
 accessibility-keyboard-issue-focusable = Umi mba’epuru ojuajúva oñemoma’ẽporãva’erã. <a>Eikuaave</a>
 accessibility-keyboard-issue-focus-visible = Pe mba’epuru moma’ẽkuaáva ikatu ndoguerekói moma’ẽkuaaha. <a>Eikuaave</a>
+accessibility-keyboard-issue-mouse-only = Umi mba’epuru eikutukuaáva oñemoma’ẽporãva’erã ha oguerekova’erã ñe’ẽpykuaa juajúva. <a>Kuaave</a>
