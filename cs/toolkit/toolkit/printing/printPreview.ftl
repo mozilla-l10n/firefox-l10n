@@ -33,6 +33,7 @@ printpreview-of =
     .value = z
 printpreview-custom-prompt =
     .value = Vlastní měřítko…
+printpreview-custom-scale-prompt-title = Vlastní měřítko
 printpreview-page-setup =
     .label = Vzhled stránky…
     .accesskey = V

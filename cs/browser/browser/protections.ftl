@@ -75,7 +75,9 @@ lockwise-sync-status =
 lockwise-sync-not-syncing-devices = Není nastavena synchronizace s dalšími zařízeními
 monitor-title = Pozor na úniky dat
 monitor-link = Jak to funguje
+monitor-header-content-no-account = { -monitor-brand-name } zkotrolujte, zda byly vaše údaje součástí nějakého známého úniku dat, a může vás i upozornit, pokud se vyskytnou nějakém novém.
 monitor-header-content-signed-in = { -monitor-brand-name } vás upozorní, pokud se nějaké vaše údaje objeví ve známém úniku dat.
+monitor-sign-up = Nastavit upozornění na úniky dat
 auto-scan = Automaticky skenováno: dnes
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -90,6 +92,14 @@ info-known-breaches-found = Počet známých úniků dat, které obsahují vaše
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found = Počet vašich hesel vyzrazených ve všech únicích
 full-report-link = Zobrazit kompletní přehled ve službě <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning = Počet přihlašovacích údajů, které byly ohroženy nějakým únikem dat. Z bezpečnostních důvodů doporučujeme taková hesla změnit. <a data-l10n-name="lockwise-link">Zobrazit uložené přihlašovací údaje</a>
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = Nastavení soukromí
+# This is the title attribute describing the Lockwise card's link to about:logins
+go-to-saved-logins = Zobrazit uložené přihlašovací údaje
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
