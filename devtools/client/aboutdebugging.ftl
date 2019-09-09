@@ -85,7 +85,7 @@ about-debugging-setup-intro = Configurez la méthode de connexion avec laquelle 
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Utilisez <a>{ about-debugging-this-firefox-runtime-name }</a> pour déboguer des onglets, extensions et service workers sur cette version de { -brand-shorter-name }.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox2 = Utilisez <a>{ about-debugging-this-firefox-runtime-name }</a> pour déboguer des onglets, extensions et service workers sur cette version de { -brand-shorter-name }.
+about-debugging-setup-this-firefox2 = Utilisez <a>{ about-debugging-this-firefox-runtime-name }</a> pour déboguer des extensions et service workers sur cette version de { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Connecter un appareil
 # USB section of the Setup page
