@@ -727,6 +727,7 @@ addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu'eha je'epyre momb
 content-blocking-header = Ejoko tetepy
 content-blocking-section-description = Emo’ã nde rekoñemi eikundahakuévo. Ejoko tetepy ohapykuehóva umi tenda eike hague ha ojapo mba’ete. Ejokóvo ndahetái tetepy ikatuhína ombopya’eve kuatiarogue ñemyenyhẽ.
 content-blocking-enhanced-tracking-protection = Tapykueho mo’ãha iporãvéva
+content-blocking-section-top-level-description = Umi tapykuehoha oike ñandutípe ombyaty hag̃ua marandu umi nerembiapo rapykuere. { -brand-short-name } ojoko heta tapykuehoha ha ambue scripts imarãva.
 content-blocking-learn-more = Eikuaave
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -760,6 +761,7 @@ content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = ¡Ema'ẽmi!
 content-blocking-warning-description = Tetepy jejoko ikatu nomomba’apo porãi ñanduti renda. Ikatúramo eipe’a pe jokoha tenda ejeroviaha pegua.
 content-blocking-learn-how = Mba’éicha eikuaa
+content-blocking-etp-warning-description = Ejokóva tapykuehoha ikatu ombyai heta tenda rembiapoite. Emyanyhẽjey kuatiarogue tapykuehoha ndive emyanyhẽ hag̃ua tetepy tuichaháicha.
 content-blocking-warning-learn-how = Mba'éichapa eikuaáta
 content-blocking-reload-description = Emonyhẽjeyva’erã umi tendayke oiko hag̃ua ko’ã moambuepyre.
 content-blocking-reload-tabs-button =
