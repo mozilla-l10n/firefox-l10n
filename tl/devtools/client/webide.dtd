@@ -128,9 +128,13 @@
 <!ENTITY devicepreference_title "Mga Kagustuhan sa Device">
 <!ENTITY devicepreference_search "Mga kagustuhan sa paghanap">
 <!ENTITY devicepreference_newname "Bagong pangalan ng kagustuhan">
+<!ENTITY devicepreference_addnew "Magdagdag ng bagong kagustuhan">
 
 <!-- Device Settings -->
 <!ENTITY devicesetting_title "Mga Device Setting">
+<!ENTITY devicesetting_search "Hanapin sa mga setting">
+<!ENTITY devicesetting_newname "Bagong ngalan ng setting">
+<!ENTITY devicesetting_newtext "Halaga ng setting">
 <!ENTITY devicesetting_addnew "Magdagdag ng bagong setting">
 
 <!-- WiFi Authentication -->
