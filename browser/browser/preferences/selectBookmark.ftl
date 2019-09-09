@@ -3,6 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 select-bookmark-window =
-    .title = קביעה כדף הבית
+    .title = הגדרת דף הבית
     .style = width: 32em;
 select-bookmark-desc = נא לבחור בסימנייה שתשמש בתור דף הבית שלך. אם בחירתך היא תיקייה, הסימניות שבאותה התיקייה תיפתחנה בלשוניות.
