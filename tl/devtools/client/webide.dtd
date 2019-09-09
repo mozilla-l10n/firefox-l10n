@@ -109,6 +109,8 @@
 <!ENTITY prefs_general_title "Pangkalahatan">
 <!ENTITY prefs_restore "Restore Defaults">
 <!ENTITY prefs_manage_components "I-manage ang mga Extra Component">
+<!ENTITY prefs_options_autoconnectruntime "Kumonekta uli sa nakaraang runtime">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Kumonekta uli sa nakaraang runtime kapag nagsimula ang WebIDE">
 <!ENTITY prefs_options_rememberlastproject "Tandaan ang huling proyekto">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Ibalik ang nakaraang proyekto kapag nagsimula ang WebIDE">
 <!ENTITY prefs_options_templatesurl "Templates URL">
