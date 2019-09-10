@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Zgjerim i Këshilluar
+cfr-doorhanger-feature-heading = Veçori e Këshilluar
 cfr-doorhanger-pintab-heading = Provoni Këtë: Fiksoni Skedë
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pse më del kjo?
 cfr-doorhanger-extension-cancel-button = Jo Tani
@@ -62,3 +69,45 @@ cfr-doorhanger-bookmark-fxa-link-text = Njëkohësoni faqerojtës që tani…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Buton mbylljeje
     .title = Mbylle
+
+## Protections panel
+
+cfr-protections-panel-header = Shfletoni pa qenë i ndjekur
+cfr-protections-panel-body = Mbajini për vete të dhënat tuaja. { -brand-short-name } ju mbron nga shumë prej gjurmuesve më të rëndomtë që ndjekin ç’bëni në internet.
+cfr-protections-panel-link-text = Mësoni më tepër
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Ç’ka të Re
+    .tooltiptext = Ç’ka të Re
+cfr-whatsnew-panel-header = Ç’ka të Re
+cfr-whatsnew-release-notes-link-text = Lexoni shënimet mbi hedhjen në qarkullim
+cfr-whatsnew-fx70-title = { -brand-short-name } tanimë ndeshet më fort për privatësinë tuaj
+cfr-whatsnew-fx70-body = Përditësimet më të reja thellojnë veçorinë e Mbrojtjes Nga Gjurmimi dhe e bëjnë më të lehtë se kurrë krijimin e fjalëkalimeve të siguruar për çdo sajt.
+cfr-whatsnew-tracking-protect-title = Mbroni veten nga gjurmuesit
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } bllokon mjaft gjurmues të rëndomtë rrjetesh shoqërorë dhe të tjerë që ju ndjekin nga sajti në sajt për të gjurmuar ç’bëni në internet.
+cfr-whatsnew-tracking-protect-link-text = Shihni Raportin Tuaj
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Gjurmues i bllokuar
+       *[other] Gjurmues të bllokuar
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Që prej { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Shihni Raportin
+cfr-whatsnew-lockwise-backup-title = Kopjeruani fjalëkalimet tuaj
+
+## Bookmark Sync
+
+
+## Login Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+
