@@ -71,6 +71,9 @@ serviceworker-empty-suggestions-debugger = Přehladujće swoju registrowanje ser
 serviceworker-empty-suggestions-aboutdebugging = Přepytujće service workers wot druhich domenow. <a>about:debugging wočinić</a>
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifest nałoženja
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Dyrbiće manifest webnałoženja přidać, zo byšće jón tu přepruwował. <a>Dalše informacije</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Zmylki a warnowanja
 # Header for the Identity section of Manifest inspection displayed in the application panel.
