@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "আনুভূমিক রেখার বৈশিষ্ট্য">
+
+<!ENTITY dimensionsBox.label "দিকমাত্রা">
+<!ENTITY heightEditField.label "উচ্চতা:">
+<!ENTITY heightEditField.accessKey "G">
+<!ENTITY widthEditField.label "প্রস্থ:">
+<!ENTITY widthEditField.accessKey "W">
+<!ENTITY pixelsPopup.value "পিক্সেল">
+<!ENTITY alignmentBox.label "দিক বিন্যাস">
+<!ENTITY leftRadio.value "বাঁদিকে">
+<!ENTITY leftRadio.accessKey "L">
+<!ENTITY centerRadio.value "কেন্দ্রস্থিত">
+<!ENTITY centerRadio.accessKey "C">
+<!ENTITY rightRadio.value "ডানদিকে">
+<!ENTITY rightRadio.accessKey "R">
+
+<!ENTITY threeDShading.label "3-D ছায়া">
+<!ENTITY threeDShading.accessKey "S">
+<!ENTITY saveSettings.label "ডিফল্ট রূপে ব্যবহৃত হবে">
+<!ENTITY saveSettings.accessKey "D">
+<!ENTITY saveSettings.tooltip "নতুন আনুভূমিক রেখা আঁকার সময় এই সমস্ত মান ব্যবহার করার উদ্দেশ্যে সংরক্ষণ করুন">

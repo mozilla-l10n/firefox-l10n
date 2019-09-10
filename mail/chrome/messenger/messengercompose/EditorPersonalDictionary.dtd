@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "ব্যক্তিগত অভিধান">
+
+<!ENTITY wordEditField.label "নতুন শব্দ:">
+<!ENTITY wordEditField.accessKey "N">
+<!ENTITY AddButton.label "যোগ করুন">
+<!ENTITY AddButton.accessKey "A">
+<!ENTITY DictionaryList.label "অভিধানের শব্দ:">
+<!ENTITY DictionaryList.accessKey "W">
+<!ENTITY ReplaceButton.label "প্রতিস্থাপন">
+<!ENTITY ReplaceButton.accessKey "R">
+<!ENTITY RemoveButton.label "অপসারণ">
+<!ENTITY RemoveButton.accessKey "e">
+
+<!ENTITY CloseButton.label "বন্ধ করুন">
+<!ENTITY CloseButton.accessKey "C">
