@@ -25,7 +25,7 @@
 <!ENTITY spellDictionaries.label "Gjuhë">
 <!ENTITY spellDictionaries.accesskey "G">
 
-<!ENTITY searchTextBox.clear.label "Pastroje">
+<!ENTITY searchTextBox.clear.label "Spastroje">
 
 <!ENTITY fillLoginMenu.label          "Jepni Kredenciale Hyrjeje">
 <!ENTITY fillLoginMenu.accesskey      "J">

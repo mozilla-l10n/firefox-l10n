@@ -653,13 +653,13 @@ history-remember-search-option =
     .label = Mba mend historik kërkimesh dhe formularësh
     .accesskey = e
 history-clear-on-close-option =
-    .label = Pastroje historikun, kur mbyllet { -brand-short-name }-i
+    .label = Spastroje historikun, kur mbyllet { -brand-short-name }-i
     .accesskey = y
 history-clear-on-close-settings =
     .label = Rregullime…
     .accesskey = R
 history-clear-button =
-    .label = Pastroni Historikun…
+    .label = Spastroni Historikun…
     .accesskey = S
 
 ## Privacy Section - Site Data
@@ -674,7 +674,7 @@ sitedata-learn-more = Mësoni më tepër
 sitedata-delete-on-close =
     .label = Fshi cookies dhe të dhëna sajti kur mbyllet { -brand-short-name }-i
     .accesskey = F
-sitedata-delete-on-close-private-browsing = Nën mënyrën shfletim i përhershëm privat, cookie-t dhe të dhënat e sajtit do të pastrohen përherë, kur mbyllet { -brand-short-name }-i.
+sitedata-delete-on-close-private-browsing = Nën mënyrën shfletim i përhershëm privat, cookie-t dhe të dhënat e sajtit do të spastrohen përherë, kur mbyllet { -brand-short-name }-i.
 sitedata-allow-cookies-option =
     .label = Prano të dhëna cookie-sh dhe sajti
     .accesskey = P
