@@ -1,0 +1,116 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-1999
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+
+<!ENTITY tableWindow.title "Iimpahla Zetafula">
+<!ENTITY applyButton.label "Sebenzisa">
+<!ENTITY applyButton.accesskey "S">
+<!ENTITY closeButton.label "Vala">
+<!ENTITY tableTab.label "Itafula">
+<!ENTITY cellTab.label "Amaseli">
+<!ENTITY tableRows.label "Imida:">
+<!ENTITY tableRows.accessKey "I">
+<!ENTITY tableColumns.label "Amakholomu:">
+<!ENTITY tableColumns.accessKey "A">
+<!ENTITY tableHeight.label "Ubude:">
+<!ENTITY tableHeight.accessKey "U">
+<!ENTITY tableWidth.label "Ububanzi:">
+<!ENTITY tableWidth.accessKey "U">
+<!ENTITY tableBorderSpacing.label "Imikhawulo nokuhlukanisa">
+<!ENTITY tableBorderWidth.label "Imikhawulo:">
+<!ENTITY tableBorderWidth.accessKey "I">
+<!ENTITY tableSpacing.label "Ukuhlukanisa:">
+<!ENTITY tableSpacing.accessKey "U">
+<!ENTITY tablePadding.label "Ukuzaliselela:">
+<!ENTITY tablePadding.accessKey "U">
+<!ENTITY tablePxBetwCells.label "iintokana zeenthombe hlangana kwamaseli">
+<!ENTITY tablePxBetwBrdrCellContent.label "iintokana zeenthombe hlangana nemikhawulo yamaseli nokumumethweko">
+<!ENTITY tableAlignment.label "Ukulinganisa Itafula:">
+<!ENTITY tableAlignment.accessKey "U">
+<!ENTITY tableCaption.label "Isihloko:">
+<!ENTITY tableCaption.accessKey "I">
+<!ENTITY tableCaptionAbove.label "Ngaphezulu Kwetafula">
+<!ENTITY tableCaptionBelow.label "Ngaphasi Kwetafula">
+<!ENTITY tableCaptionLeft.label "Ngesinceleni Kwetafula">
+<!ENTITY tableCaptionRight.label "Ngesidleni Kwetafula">
+<!ENTITY tableCaptionNone.label "Akunalitho">
+<!ENTITY tableInheritColor.label "(Umbala wekhasi awuzibonakalise)">
+
+<!ENTITY cellPercent.label "amaphesenti wetafula">
+<!ENTITY cellSelection.label "Ikhetho">
+<!ENTITY cellSelectCell.label "Amaseli">
+<!ENTITY cellSelectRow.label "Umuda">
+<!ENTITY cellSelectColumn.label "Amakholomu">
+<!ENTITY cellSelectNext.label "Okulandelako">
+<!ENTITY cellSelectNext.accessKey "O">
+<!ENTITY cellSelectPrevious.label "Okudlulileko">
+<!ENTITY cellSelectPrevious.accessKey "O">
+<!ENTITY cellApplyBeforeMove.label "Sebenzisa itjhuguluko ngaphambili kobana utjhugulule ikhetho">
+<!ENTITY cellKeepCurrentData.label "Lisa izakhiwo zanje">
+<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
+<!ENTITY applyBeforeChange1.label "Itjhuguluko lanje lizakusetjenziswa">
+<!ENTITY applyBeforeChange2.label "ngaphambili kobana utjhugulule ikhetho.">
+<!ENTITY cellRowSpan.label "Isikhathi somuda:">
+<!ENTITY cellColSpan.label "Isikhathi Sekholomu:">
+<!ENTITY cellContentAlignment.label "Ukulinganisa Okumumethweko">
+<!ENTITY cellHorizontal.label "Okuthabaleleko:">
+<!ENTITY cellHorizontal.accessKey "O">
+<!ENTITY cellVertical.label "Okujamileko:">
+<!ENTITY cellVertical.accessKey "O">
+<!ENTITY cellStyle.label "Isimo Samaseli:">
+<!ENTITY cellStyle.accessKey "I">
+<!ENTITY cellNormal.label "Okujayelekileko">
+<!ENTITY cellHeader.label "Isihloko">
+<!ENTITY cellTextWrap.label "Ukusongeka Komtlolo:">
+<!ENTITY cellTextWrap.accessKey "U">
+<!ENTITY cellWrap.label "Songa">
+<!ENTITY cellNoWrap.label "Ungasongi">
+<!ENTITY cellAlignTop.label "Ngaphezulu">
+<!ENTITY cellAlignMiddle.label "Phakathi">
+<!ENTITY cellAlignBottom.label "Ngaphasi">
+<!ENTITY cellAlignJustify.label "Lungisa">
+<!ENTITY cellAlignAtChar.label "Kuhlavu:">
+<!ENTITY cellInheritColor.label "(Umbala wekhasi awuzibonakalise)">
+<!ENTITY cellUseCheckboxHelp.label "Sebenzisa amabhokisi wokuqalisisa ukubona bonyana ngiziphi iimpahla ezisetjenziswa kumaseli woke akhethiweko">
+<!-- Used in both Table and Cell panels  -->
+
+<!ENTITY size.label "Isayizi">
+<!ENTITY pixels.label "iintokana zeenthombe">
+<!ENTITY backgroundColor.label "Umbala Wangemuva:">
+<!ENTITY backgroundColor.accessKey "U">
+<!ENTITY AlignLeft.label "Ngesinceleni">
+<!ENTITY AlignCenter.label "Phakathi">
+<!ENTITY AlignRight.label "Ngesidleni">
