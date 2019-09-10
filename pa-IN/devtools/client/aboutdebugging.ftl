@@ -162,6 +162,10 @@ about-debugging-collapse-expand-debug-targets = ਸਮੇਟੋ/ਫੈਲਾਓ
 # Displayed in the categories of "runtime" pages that don't have any debug target to
 # show. Debug targets depend on the category (extensions, tabs, workers...).
 about-debugging-debug-target-list-empty = ਹਾਲੇ ਤੱਕ ਕੁਝ ਨਹੀਂ।
+# Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
+# button will open a DevTools toolbox that will allow inspecting the target.
+# A target can be an addon, a tab, a worker...
+about-debugging-debug-target-inspect-button = ਜਾਂਚ ਕਰੋ
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = ਮੁੜ-ਲੋਡ ਕਰੋ
@@ -193,3 +197,34 @@ about-debugging-worker-action-push = ਦੱਬੋ
 about-debugging-worker-action-start = ਸ਼ੁਰੂ ਕਰੋ
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = ਅਣ-ਰਜਿਸਟਰ ਕਰੋ
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = ਲਵੋ
+    .value = ਫੈਚ ਈਵੈਂਟਾਂ ਲਈ ਸੁਣਨਾ
+# Displayed for service workers in runtime pages that do not listen to Fetch events.
+about-debugging-worker-fetch-not-listening =
+    .label = ਲਵੋ
+    .value = ਲੈਣ ਦੀਆਂ ਘਟਨਾਵਾਂ ਲਈ ਨਹੀਂ ਸੁਣ ਰਿਹਾ
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = ਚੱਲ-ਰਿਹਾ
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = ਰੁਕਿਆ
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = ਰਜਿਸਟਰ ਕਰਨਾ
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = ਸਕੋਪ
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = ਪੁਸ਼ ਸੇਵਾ
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = ਸੁਨੇਹਾ ਬੰਦ ਕਰੋ
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = ਗਲਤੀ ਵੇਰਵੇ
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = ਚੇਤਾਵਨੀ ਵੇਰਵੇ
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = ਵੇਰਵੇ
