@@ -466,7 +466,7 @@
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Přidatki">
 <!ENTITY addons.accesskey "d">
-<!ENTITY addonPrefs.label "Nastanja přidatka">
+<!ENTITY addonPrefs.label "Nastajenja přidatka">
 <!ENTITY addonPrefs.accesskey "N">
 <!ENTITY addonPrefsUnix.label "Nastajenja přidatka">
 <!ENTITY addonPrefsUnix.accesskey "N">
