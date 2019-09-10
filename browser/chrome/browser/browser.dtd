@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "選單列">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "瀏覽工具列">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "導覽">
 <!ENTITY personalbarCmd.label "書籤工具列">
 <!ENTITY personalbarCmd.accesskey "B">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "書籤">
 <!ENTITY bookmarksToolbarItem.label "書籤工具列項目">
 
 <!ENTITY pageSourceCmd.label "頁面原始碼">
 <!ENTITY pageSourceCmd.accesskey "o">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "頁面資訊">
 <!ENTITY pageInfoCmd.accesskey "I">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "版面除錯器">
 <!ENTITY ldbCmd.accesskey "L">
@@ -116,6 +126,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "重新連線至 &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "確認您的帳號">
 
+
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "縮到最小">
 <!ENTITY fullScreenRestore.tooltip "還原">
@@ -145,6 +158,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "已登入為">
 <!ENTITY fxa.menu.manageAccount.label "管理帳號…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; 設定…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "連結其他裝置…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -195,6 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "書籤">
 <!ENTITY bookmarksMenu.accesskey "B">
+
 <!ENTITY bookmarkThisPageCmd.label "將本頁加入書籤">
 <!ENTITY editThisBookmarkCmd.label "編輯此書籤">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -510,6 +528,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "搜尋字串">
+
 <!ENTITY contentSearchSubmit.tooltip  "送出搜尋">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -814,8 +833,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "連線">
 <!ENTITY identity.connectionSecure "安全連線">
-
-<!ENTITY identity.connectionSecure2 "安全連線">
 <!ENTITY identity.connectionNotSecure "連線不安全">
 
 <!ENTITY identity.connectionSecure3 "安全連線">
@@ -828,8 +845,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "此頁面是擴充套件頁面。">
 <!ENTITY identity.insecureLoginForms2 "在此頁面輸入的登入資訊可能會被洩漏。">
 <!ENTITY identity.customRoot "連線是由 Mozilla 不認識的憑證簽發者所驗證。">
-
-<!ENTITY identity.evOwnerLabel "網站擁有者:">
 
 <!ENTITY identity.evOwnerLabel2 "憑證簽發給:">
 
@@ -867,9 +882,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "權限">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "權限集">
-
 <!ENTITY identity.permissions3 "權限">
 <!ENTITY identity.permissionsEmpty "您並未授予此網站任何特殊權限。">
 <!ENTITY identity.permissionsReloadHint "您可能需要重新載入頁面才能讓變更生效。">
@@ -883,7 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "關於加強型追蹤保護功能的更多資訊">
 <!ENTITY protections.settings.label "保護設定">
-<!ENTITY protections.report.label "顯示完整報告">
 <!ENTITY protections.showreport.label "顯示報告">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -901,7 +912,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "付款">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "註解">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "影片">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "關閉保護後網站仍然不正常？">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "請回報給我們">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -929,7 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "一些第三方廣告商或分析公司，會設定這些 Cookie 在不同網站間跟蹤您，收集您的上網紀錄。">
 <!ENTITY protections.cryptominers.description "加密貨幣採礦程式會使用您電腦的運算能力來對數位貨幣「採礦」，消耗您的電腦電力、拖慢系統效能、增加電費支出。">
 <!ENTITY protections.fingerprinters.description "數位指紋追蹤程式會針對您的瀏覽器、電腦設定來建立您的獨特輪廓，並在不同網站間追蹤您。">
-<!ENTITY protections.trackingContent.description "網站中可能會有含有追蹤用程式碼的外部廣告、影片、其他內容。封鎖追蹤內容可以讓網站更快載入，但某些按鈕、表單、登入欄位可能無法正常運作。">
 <!ENTITY protections.trackingContent2.description "網站中可能會有包含追蹤碼的外部廣告、影片或其他內容。封鎖追蹤內容可以讓網站更快載入，但某些按鈕、表單、登入欄位可能無法正常運作。">
 <!ENTITY protections.socialMediaTrackers.description "社群網站會在其他網站放置追蹤器，以追蹤您除了在社群網站分享的東西之外，還在網路上做了或看了什麼，更加了解您的一舉一動。">
 
@@ -996,6 +1005,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "回報問題">
 <!ENTITY contentBlocking.breakageReportView2.description "內容封鎖功能可能會造成某些網站運作不正常。當您回報問題時，就能幫助讓所有人的 &brandShortName; 變得更好。（將會回報網址與您的瀏覽器相關設定給 Mozilla。）">
 <!ENTITY contentBlocking.breakageReportView.learnMore "了解更多">
+
 <!ENTITY contentBlocking.breakageReportView.title "回報網站問題">
 <!ENTITY contentBlocking.breakageReportView3.description "封鎖部分追蹤器後，可能會造成某些網站運作不正常。回報問題可幫助讓所有人的 &brandShortName; 變得更好。將會回報網址與您的瀏覽器相關設定給 Mozilla。">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "了解更多">
@@ -1051,6 +1061,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "有套擴充套件修改了您的首頁。若您不想要這個修改，可還原此設定。">
+
 <!ENTITY homepageControlled.header.message "您的「新分頁」已經變更。">
 <!ENTITY homepageControlled.keepButton.label "保留變更">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
