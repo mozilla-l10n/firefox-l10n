@@ -57,6 +57,60 @@ lockwise-passwords-stored =
         [one] Fjalëkalim i depozituar në mënyrë të sigurt <a data-l10n-name="lockwise-how-it-works">Si funksionon</a>
        *[other] Fjalëkalime të depozituar në mënyrë të sigurt <a data-l10n-name="lockwise-how-it-works">Si funksionon</a>
     }
+turn-on-sync = Aktivizoni { -sync-brand-short-name }…
+    .title = Shkoni te parapëlqimet rreth njëkohësimit
+manage-devices = Administroni pajisje
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-sync-status =
+    { $count ->
+        [one] Po njëkohësohet te { $count } pajisje tjetër
+       *[other] Po njëkohësohet te { $count } pajisje të tjera
+    }
+lockwise-sync-not-syncing-devices = S’po njëkohësohet te pajisje të tjera
+monitor-title = Shihni për cenime të dhënash
+monitor-link = Si funksionon
+monitor-header-content-no-account = Kontrolloni me { -monitor-brand-name } që të shihni nëse keni qenë prekur nga një cenim i ditur të dhënash, dhe merrni sinjalizime mbi cenime të reja.
+monitor-header-content-signed-in = { -monitor-brand-name } ju vë në dijeni, nëse të dhënat tuaja janë shfaqur te një cenim i ditur të dhënash.
+monitor-sign-up = Regjistrohuni për Sinjalizime rreth Cenimesh
+auto-scan = Kontrolluar automatikisht sot
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Adresë email që mbikëqyret
+       *[other] Adresa email që mbikëqyren
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Cenim i ditur të dhënash që ka ekspozuar të dhëna tuajat
+       *[other] Cenime të ditur të dhënash që kanë ekspozuar të dhëna tuajat
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Fjalëkalim i ekspozuar në krejt cenimet
+       *[other] Fjalëkalime të ekspozuar në krejt cenimet
+    }
+full-report-link = Shihni raportin e plotë te <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Palë kredenciale të ruajtur hyrjesh mund të jetë ekspozuar në një cenim të dhënash.Për siguri më të mirë në internet, ndryshojeni këtë fjalëkalim. <a data-l10n-name="lockwise-link">Shihni Kredenciale Hyrjesh të Ruajtur</a>
+       *[other] Palë kredenciale të ruajtur hyrjesh mund të jenë ekspozuar në një cenim të dhënash.Për siguri më të mirë në internet, ndryshojeni këtë fjalëkalim. <a data-l10n-name="lockwise-link">Shihni Kredenciale Hyrjesh të Ruajtur</a>
+    }
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = Kaloni te Rregullime për Privatësinë
+# This is the title attribute describing the Lockwise card's link to about:logins
+go-to-saved-logins = Kaloni te Kredenciale të Ruajtura Hyrjesh
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -65,3 +119,38 @@ lockwise-passwords-stored =
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Gjurmues Mediash Shoqërore
+    .aria-label =
+        { $count ->
+            [one] { $count } gjurmues mediash shoqërore ({ $percentage }%)
+           *[other] { $count } gjurmues mediash shoqërore ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = <em>Cookies</em> Gjurmimi Nga Sajte Në Sajte
+    .aria-label =
+        { $count ->
+            [one] { $count } <em>cookie</em> gjurmimi nga sajte në sajte ({ $percentage }%)
+           *[other] { $count } <em>cookies</em> gjurmimi nga sajte në sajte ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Lëndë Gjurmimi
+    .aria-label =
+        { $count ->
+            [one] { $count } lëndë gjurmimi ({ $percentage }%)
+           *[other] { $count } lëndë gjurmimi ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Krijues shenja gishtash
+    .aria-label =
+        { $count ->
+            [one] { $count } krijues shenjash gishtash ({ $percentage }%)
+           *[other] { $count } krijues shenjash gishtash ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Nxjerrës kriptomonedhash
+    .aria-label =
+        { $count ->
+            [one] { $count } nxjerrës kriptomonedhash ({ $percentage }%)
+           *[other] { $count } nxjerrës kriptomonedhash ({ $percentage }%)
+        }
