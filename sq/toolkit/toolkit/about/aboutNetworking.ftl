@@ -52,3 +52,13 @@ rcwn-perf-write = Shkrim
 rcwn-perf-entry-open = Mesatare e Shkurtër
 rcwn-avg-short = Mesatare e Shkurtër
 rcwn-avg-long = Mesatare e Gjerë
+networkid = ID Rrjeti
+networkid-id = ID Rrjeti
+
+## Link is intended as "network link"
+
+networkid-isUp = Lidhja funksionon
+networkid-statusKnown = Gjendja e lidhjes është e njohur
+
+
+

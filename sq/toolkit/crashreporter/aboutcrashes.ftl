@@ -3,10 +3,8 @@
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
 crash-reports-title = Njoftime Vithisjesh
-clear-all-reports-label = Hiqi Krejt Njoftimet
-delete-button-label = Pastroje Krejt
+delete-button-label = Spastroje Krejt
 delete-confirm-title = Jeni i sigurt?
-delete-confirm-description = Kjo do të fshijë tërë njoftimet dhe nuk mund të zhbëhet
 delete-unsubmitted-description = Kjo do të fshijë tërë njoftimet e paparashtruara të vithisjeve dhe s’mund të zhbëhet
 delete-submitted-description = Kjo do të sjellë heqjen e listës së njoftimeve të parashtruara të vithisjeve, por s’do të fshijë të dhënat e parashtruara. Kjo s’mund të zhbëhet.
 crashes-unsubmitted-label = Njoftime Vithisjesh të Paparashtruar

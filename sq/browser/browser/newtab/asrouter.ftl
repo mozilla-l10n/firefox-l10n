@@ -108,12 +108,28 @@ cfr-whatsnew-lockwise-take-link-text = Merrni aplikacionin
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Merreni këtë faqerojtës në telefonin tuaj
+cfr-doorhanger-sync-bookmarks-body = Merrini faqerojtësit tuaj, fjalëkalimet, historikun, etj, kudo ku keni bërë hyrjen në { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Aktivizoni { -sync-brand-short-name }
+    .accesskey = A
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Mos Humbni Kurrë Më një Fjalëkalim
+cfr-doorhanger-sync-logins-body = Depozitoni dhe njëkohësoni në mënyrë të sigurt fjalëkalimet tuaj në krejt pajisjet tuaja.
+cfr-doorhanger-sync-logins-ok-button = Aktivizoni { -sync-brand-short-name }
+    .accesskey = A
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Lexojeni në rrugë e sipër
+cfr-doorhanger-send-tab-recipe-header = Merreni këtë recetë gatimi me vete në kuzhinë
+cfr-doorhanger-send-tab-body = Dërgoni Skeda ju lejon ta ndani lehtësisht këtë lidhje në telefonin tuaj ose kudo ku keni bërë hyrjen te { -brand-product-name }-i.
+cfr-doorhanger-send-tab-ok-button = Provoni Dërgim Skedash
+    .accesskey = P
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Ndajeni me të tjerët në mënyrë të parrezik këtë PDF
+cfr-doorhanger-firefox-send-body = Mbajini dokumentet tuaj rezervat të parrezikuar nga sy përgjues, me fshehtëzim skaj-më-skaj dhe një lidhje që zhduket pasi të keni mbaruar punë.
+cfr-doorhanger-firefox-send-ok-button = Provoni { -send-brand-name }
+    .accesskey = P

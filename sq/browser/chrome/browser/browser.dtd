@@ -76,12 +76,19 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Shtyllë Menush">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Panel Lëvizjesh">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbarCmd.label "Panel Faqerojtësish">
 <!ENTITY personalbarCmd.accesskey "F">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY bookmarksToolbarItem.label "Objekte Paneli Faqerojtësish">
 
 <!ENTITY pageSourceCmd.label "Burim Faqeje">
 <!ENTITY pageSourceCmd.accesskey "B">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +99,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Të dhëna Faqeje">
 <!ENTITY pageInfoCmd.accesskey "T">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Diagnostikues Skemash">
 <!ENTITY ldbCmd.accesskey "D">
@@ -116,6 +124,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Rilidhuni te &syncBrand.shortName.label;-u">
 <!ENTITY fxaUnverified.label "Verifikoni Llogarinë Tuaj">
 
+
+ <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizojeni">
 <!ENTITY fullScreenRestore.tooltip "Rikthejeni">
@@ -143,6 +153,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "I futur si">
 <!ENTITY fxa.menu.manageAccount.label "Administroni Llogari…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "Rregullime të &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Lidhni Një Tjetër Pajisje…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -193,6 +207,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Faqerojtës">
 <!ENTITY bookmarksMenu.accesskey "F">
+
 <!ENTITY bookmarkThisPageCmd.label "Faqeruaje Këtë Faqe">
 <!ENTITY editThisBookmarkCmd.label "Përpunojeni Këtë Faqerojtës">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -363,7 +378,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.accesskey     "a">
 <!ENTITY logins.label                           "Kredenciale Hyrjesh dhe Fjalëkalime">
 
-<!ENTITY clearRecentHistory.label               "Pastroni Historikun Së Fundi…">
+<!ENTITY clearRecentHistory.label               "Spastroni Historikun Së Fundi…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -391,7 +406,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Shfaqni Krejt Historikun">
-<!ENTITY appMenuHistory.clearRecent.label "Pastroni Historikun Së Fundi…">
+<!ENTITY appMenuHistory.clearRecent.label "Spastroni Historikun Së Fundi…">
 <!ENTITY appMenuHistory.restoreSession.label "Riktheni Sesionin e Mëparshëm">
 <!ENTITY appMenuHistory.viewSidebar.label "Shihni Anështyllë Historiku">
 <!ENTITY appMenuHistory.hideSidebar.label "Fshih Anështyllë Historiku">
@@ -508,6 +523,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Varg kërkimi">
+
 <!ENTITY contentSearchSubmit.tooltip  "Parashtrojeni kërkimin">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -857,7 +873,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.moreInfoLinkText2 "Më Tepër të Dhëna">
 
-<!ENTITY identity.clearSiteData "Pastroni Cookie-t dhe të Dhëna Sajti…">
+<!ENTITY identity.clearSiteData "Spastroni Cookie-t dhe të Dhëna Sajti…">
 
 <!ENTITY identity.permissions "Leje">
 
@@ -971,6 +987,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Raportoni Probleme">
 <!ENTITY contentBlocking.breakageReportView2.description "Bllokimi i lëndë mund të shkaktojë probleme me disa sajte. Kur raportoni probleme, ndihmoni për ta bërë &brandShortName;-in më të mirë për këdo. (Kështu do të dërgohet te Mozilla edhe një URL, përveç të dhënave mbi rregullimet tuaja të shfletuesit.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Mësoni Më Tepër">
+
 <!ENTITY contentBlocking.breakageReportView.title "Njoftoni një Sajt të Dëmtuar">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Ç’probleme patët? (Opsionale)">
@@ -1004,7 +1021,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Mbylleni">
 
-<!ENTITY panicButton.thankyou.msg1                "Historiku juaj së fundi u pastrua.">
+<!ENTITY panicButton.thankyou.msg1                "Historiku juaj së fundi u spastrua.">
 <!ENTITY panicButton.thankyou.msg2                "Shfletim i parrezik!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Faleminderit!">
 
@@ -1023,6 +1040,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "Ç">
 
 <!ENTITY homepageControlled.message "Një zgjerim ka ndryshuar atë që shihni si faqen tuaj hyrëse. Nëse nuk e doni këtë ndryshim, mund të riktheni rregullimet tuaja të mëparshme.">
+
 <!ENTITY homepageControlled.header.message "Faqja juaj hyrëse ka ndryshuar.">
 <!ENTITY homepageControlled.keepButton.label "Mbaji Ndryshimet">
 <!ENTITY homepageControlled.keepButton.accesskey "M">

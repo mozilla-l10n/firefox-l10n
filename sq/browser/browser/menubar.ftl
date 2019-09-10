@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Sa Krejt Ekrani
     .accesskey = E
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Shfaqini Krejt Skedat
@@ -170,7 +170,7 @@ menu-history =
 menu-history-show-all-history =
     .label = Shfaq Krejt Historikun
 menu-history-clear-recent-history =
-    .label = Pastroni Historikun Së Fundi…
+    .label = Spastroni Historikun Së Fundi…
 menu-history-synced-tabs =
     .label = Skeda të Njëkohësuara
 menu-history-restore-last-session =

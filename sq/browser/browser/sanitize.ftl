@@ -3,19 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs =
-    .title = Rregullime për Pastrim Historiku
+    .title = Rregullime për Spastrim Historiku
     .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em
 dialog-title =
-    .title = Pastro Historikun Së Fundi
+    .title = Spastro Historikun Së Fundi
     .style = width: 34em
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
-    .title = Pastro Krejt Historikun
+    .title = Spastro Krejt Historikun
     .style = width: 34em
-clear-data-settings-label = Kur mbyllet, { -brand-short-name }-i duhet t'i pastrojë të tëra automatikisht
+clear-data-settings-label = Kur mbyllet, { -brand-short-name }-i duhet t'i spastrojë të tëra automatikisht
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -26,7 +26,7 @@ clear-data-settings-label = Kur mbyllet, { -brand-short-name }-i duhet t'i pastr
 ## Time range to clear: (Last Hour, Today, etc.)
 
 clear-time-duration-prefix =
-    .value = Interval kohor për t'u pastruar:{ " " }
+    .value = Interval kohor për t’u spastruar:{ " " }
     .accesskey = I
 clear-time-duration-value-last-hour =
     .label = Ora e Fundit
@@ -71,16 +71,16 @@ sanitize-everything-undo-warning = Ky veprim nuk mund të zhbëhet.
 window-close =
     .key = w
 sanitize-button-ok =
-    .label = Pastroje Tani
+    .label = Spastroje Tani
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
-    .label = Po pastrohet
+    .label = Po spastrohet
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
-sanitize-everything-warning = Do të pastrohet krejt historiku.
+sanitize-everything-warning = Do të spastrohet krejt historiku.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
-sanitize-selected-warning = Do të hiqen krejt objektet e përzgjedhur.
+sanitize-selected-warning = Do të spastrohen krejt objektet e përzgjedhur.
