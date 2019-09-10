@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY wizard.title             "Create New Calendar" >
-<!ENTITY wizard.label             "Create a new calendar" >
+<!ENTITY wizard.title             "ਨਵਾਂ ਕੈਲੰਡਰ ਬਣਾਓ" >
+<!ENTITY wizard.label             "ਨਵਾਂ ਕੈਲੰਡਰ ਬਣਾਓ" >
 <!ENTITY wizard.description       "Locate your calendar" >
 
 <!ENTITY initialpage.description    "Your calendar can be stored on your computer or be stored on a server in order to access it remotely or share it with your friends or co-workers." >
@@ -20,3 +20,14 @@
 
 <!ENTITY finishpage.shortdescription  "Calendar Created" >
 <!ENTITY finishpage.longdescription   "Your calendar has been created." >
+
+<!-- Below are new strings for the revised new calendar dialog. The above strings should be
+    removed/renamed later on -->
+
+
+
+
+
+
+
+
