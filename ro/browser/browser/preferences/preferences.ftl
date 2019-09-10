@@ -342,6 +342,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Caută textul când încep să tastez
     .accesskey = x
+browsing-picture-in-picture-learn-more = Află mai multe
 browsing-cfr-recommendations =
     .label = Recomandă extensii pe măsură ce navighezi
     .accesskey = R
@@ -604,6 +605,10 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Sugerează și generează parole puternice
     .accesskey = u
+forms-breach-alerts =
+    .label = Afișează alerte despre parole pentru site-uri web sparte
+    .accesskey = b
+forms-breach-alerts-learn-more-link = Află mai multe
 forms-fill-logins-and-passwords =
     .label = Completează automat autentificări și parole
     .accesskey = i
@@ -683,6 +688,8 @@ sitedata-block-desc = Tipul conținutului blocat
     .accesskey = T
 sitedata-option-block-trackers =
     .label = Elemente de urmărire de la terți
+sitedata-option-block-cross-site-trackers =
+    .label = Elemente de urmărire între site-uri
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Elemente de urmărire ale rețelelor sociale și cel între site-uri
 sitedata-option-block-unvisited =
@@ -719,8 +726,9 @@ addressbar-suggestions-settings = Schimbă preferințele pentru sugestiile motoa
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blocare de conținut
-content-blocking-enhanced-tracking-protection = Protecție îmbunătățită împotriva urmăririi
 content-blocking-section-description = Protejează-ți intimitatea la navigare. Blochează conținuturile invizibile care urmăresc ce site-uri vizitezi și îți creează profilul. Blocarea unei părți din aceste conținuturi poate conduce la încărcarea mai rapidă a paginilor.
+content-blocking-enhanced-tracking-protection = Protecție îmbunătățită împotriva urmăririi
+content-blocking-section-top-level-description = Elementele de urmărire te urmăresc online pentru a colecta informații despre obiceiurile și interesele tale de navigare. { -brand-short-name } blochează multe dintre aceste elementele de urmărire și alte scripturi rău-intenționate.
 content-blocking-learn-more = Află mai multe
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
