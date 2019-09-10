@@ -18,3 +18,4 @@ reader-view = Mod de lectură
 open-location = Caută sau introdu adresa
 share = Distribuie
 close-window = Închide fereastra
+open-sidebar = Bare laterale
