@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Anulează
 customize-mode-lwthemes-my-themes =
     .value = Temele mele
+customize-mode-touchbar-cmd =
+    .label = Personalizează Bara tactilă...

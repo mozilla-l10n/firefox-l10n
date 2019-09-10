@@ -36,13 +36,14 @@ menu-menuitem-preferences =
         [windows] Opțiuni
        *[other] Preferințe
     }
-menu-menuitem-feedback = Trimite feedback
-menu-menuitem-faq = Întrebări adresate frecvent
+about-logins-menu-menuitem-help = Ajutor
 menu-menuitem-android-app = { -lockwise-brand-short-name } pentru Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } pentru iPhone și iPad
 
 ## Login List
 
+login-list =
+    .aria-label = Date de autentificare corespondente criteriilor de căutare
 login-list-count =
     { $count ->
         [one] { $count } dată de autentificare
@@ -55,12 +56,20 @@ login-list-breached-option = Site-uri web care au suferit breșe
 login-list-last-changed-option = Ultima modificare
 login-list-last-used-option = Ultima utilizare
 login-list-intro-title = Nicio autentificare găsită
+login-list-intro-description = Când salvezi o parolă în { -brand-product-name }, va apărea aici.
+about-logins-login-list-empty-search-title = Nu s-au găsit date de autentificare
+about-logins-login-list-empty-search-description = Nu există rezultate care să corespundă căutării.
+login-list-item-title-new-login = Date de autentificare noi
 login-list-item-subtitle-new-login = Introdu datele tale de autentificare
 login-list-item-subtitle-missing-username = (niciun nume de utilizator)
 
 ## Introduction screen
 
-login-intro-instruction-faq = Vizitează <a data-l10n-name="faq">întrebările frecvente</a> { -lockwise-brand-short-name } pentru asistență suplimentară
+login-intro-heading = Îți cauți datele de autentificare salvate? Configurează { -sync-brand-short-name }.
+login-intro-description = Dacă ți-ai salvat datele de autentificare în { -brand-product-name } pe un alt dispozitiv, iată cum le poți aduce aici:
+login-intro-instruction-fxa = Creează un cont sau autentifică-te în { -fxaccount-brand-name } pe dispozitivul pe care ai salvat datele de autentificare
+login-intro-instruction-fxa-settings = Asigură-te că ai bifat caseta de selectare Date de autentificare în Setările { -sync-brand-short-name }
+about-logins-intro-instruction-help = Intră pe <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Asistență</a> pentru ajutor suplimentar
 
 ## Login
 
@@ -70,10 +79,9 @@ login-item-delete-button = Șterge
 login-item-origin-label = Adresa site-ului web
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Lansează
 login-item-username-label = Nume de utilizator
-login-item-username =
-    .placeholder = nume@example.com
+about-logins-login-item-username =
+    .placeholder = (lipsă nume de utilizator)
 login-item-copy-username-button-text = Copiază
 login-item-copied-username-button-text = Copiat!
 login-item-password-label = Parolă
@@ -92,6 +100,10 @@ login-item-time-used = Ultima utilizare: { DATETIME($timeUsed, day: "numeric", m
 
 ## Master Password notification
 
+master-password-notification-message = Te rugăm să introduci parola principală ca să vezi datele de autentificare și parolele salvate
+master-password-reload-button =
+    .label = Autentificare
+    .accesskey = L
 
 ## Dialogs
 
@@ -114,6 +126,17 @@ confirm-discard-changes-dialog-confirm-button = Înlătură
 
 ## Breach Alert notification
 
+breach-alert-text = Parolele au fost divulgate sau furate de pe acest site web după ce ți-ai actualizat ultima oară datele de autentificare. Schimbă-ți parola ca să îți protejezi contul.
 breach-alert-link = Află mai multe despre această breșă.
 breach-alert-dismiss =
     .title = Închide această alertă
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Deja există o intrare pentru { $loginTitle } cu acel nume de utilizator.
+# This is a generic error message.
+about-logins-error-message-default = A apărut o eroare la încercarea de salvare a acestei parole.
