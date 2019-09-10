@@ -46,14 +46,9 @@
 <!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "Nu solicita autentificarea dacă parola este salvată">
 <!ENTITY  autologinproxy.accesskey      "i">
-<!ENTITY  autologinproxy.tooltip        "Această opțiune te autentifică silențios la proxy-urile pentru care ai salvate date de autentificare. Îți va fi solicitată autentificarea dacă aceasta eșuează.">
+<!ENTITY  autologinproxy.tooltip        "Această opțiune te autentifică silențios la proxy-urile pentru care ai salvate date de autentificare. Dacă autentificarea eșuează, ți se vor cere datele de autentificare.">
 <!ENTITY  socksRemoteDNS.label          "Proxy DNS când folosești SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "Activează DNS prin HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "z">
-<!ENTITY  dnsOverHttpsUrlDefault.label     "Folosește setările implicite">
-<!ENTITY  dnsOverHttpsUrlDefault.accesskey "I">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Folosește adresa URL implicită pentru a rezolva DNS prin HTTPS">
-<!ENTITY  dnsOverHttpsUrlCustom.label      "Personalizat">
-<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "t">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Introdu adresa URL preferată pentru a rezolva DNS prin HTTPS">
