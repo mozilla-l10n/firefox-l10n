@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!-- Window title -->
+<!ENTITY windowTitle.label "অক্ষর সন্নিবেশ করুন">
+<!ENTITY category.label "বিভাগ">
+<!ENTITY letter.label "অক্ষর:">
+<!ENTITY letter.accessKey "L">
+<!ENTITY character.label "অক্ষর:">
+<!ENTITY character.accessKey "C">
+<!ENTITY accentUpper.label "শ্বাসাঘাত সহ বড় হরফ">
+<!ENTITY accentLower.label "শ্বাসাঘাত সহ ছোট হরফ">
+<!ENTITY otherUpper.label "অন্যান্য বড় হরফ">
+<!ENTITY otherLower.label "অন্যান্য ছোট হরফ">
+<!ENTITY commonSymbols.label "সাধারণ চিহ্ন">
+<!ENTITY insertButton.label "সন্নিবেশ করুন">
+<!ENTITY closeButton.label "বন্ধ করুন">

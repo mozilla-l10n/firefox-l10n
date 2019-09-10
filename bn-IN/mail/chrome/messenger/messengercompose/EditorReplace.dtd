@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from EdReplace.xul -->
+
+<!ENTITY replaceDialog.title "অনুসন্ধান ও প্রতিস্থাপন">
+<!ENTITY findField.label "অনুসন্ধান করা হবে:">
+<!ENTITY findField.accesskey "n">
+<!ENTITY replaceField.label "চিহ্নিত লেখা দ্বারা প্রতিস্থাপন করা হবে:">
+<!ENTITY replaceField.accesskey "e">
+<!ENTITY caseSensitiveCheckbox.label "হরফের ছাঁদ মেলানো হবে">
+<!ENTITY caseSensitiveCheckbox.accesskey "c">
+<!ENTITY wrapCheckbox.label "বিভাজন করা হবে">
+<!ENTITY wrapCheckbox.accesskey "W">
+<!ENTITY backwardsCheckbox.label "বিপরীত দিশায় অনুসন্ধান করা হবে">
+<!ENTITY backwardsCheckbox.accesskey "b">
+<!ENTITY findNextButton.label "পরবর্তী উপস্থিতি অনুসন্ধান করুন">
+<!ENTITY findNextButton.accesskey "F">
+<!ENTITY replaceButton.label "প্রতিস্থাপন">
+<!ENTITY replaceButton.accesskey "R">
+<!ENTITY replaceAndFindButton.label "অনুসন্ধান ও প্রতিস্থাপন">
+<!ENTITY replaceAndFindButton.accesskey "d">
+<!ENTITY replaceAllButton.label "সমস্ত প্রতিস্থাপন করা হবে">
+<!ENTITY replaceAllButton.accesskey "A">
+<!ENTITY closeButton.label "বন্ধ করুন">
+<!ENTITY notFoundWarning.label "উল্লিখিত টেক্সট পাওয়া যায়নি।">

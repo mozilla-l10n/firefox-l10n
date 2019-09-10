@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY WindowTitle.label              "উন্নত বৈশিষ্ট্য সম্পাদন ব্যবস্থা">
+<!ENTITY AttName.label                  "গুণ: ">
+<!ENTITY AttValue.label                 "মান: ">
+<!ENTITY PropertyName.label             "বৈশিষ্ট্য: ">
+<!ENTITY currentattributesfor.label     "চিহ্নিত বস্তু গুণাবলী: ">
+<!ENTITY tree.attributeHeader.label     "গুণ">
+<!ENTITY tree.propertyHeader.label      "বৈশিষ্ট্য">
+<!ENTITY tree.valueHeader.label         "মান">
+<!ENTITY tabHTML.label                  "HTML-র গুণাবলী">
+<!ENTITY tabCSS.label                   "ইন-লাইন বিন্যাস">
+<!ENTITY tabJSE.label                   "JavaScript'র ইভেন্ট">
+
+<!ENTITY editAttribute.label    "মান পরিবর্তনের উদ্দেশ্যে উপরোক্ত কোনো বস্তুর উপর ক্লিক করুন">
+<!ENTITY removeAttribute.label  "মুছে ফেলুন">
