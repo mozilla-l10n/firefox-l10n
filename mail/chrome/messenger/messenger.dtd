@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "P">
 <!ENTITY folderPaneBar.label "Panel Kuadrati Dosjesh">
 <!ENTITY folderPaneBar.accesskey "D">
-<!ENTITY folderModeSelector.label "Pamje Dosjesh">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Renditi sipas">
@@ -499,7 +498,7 @@
 <!ENTITY deleteJunk.accesskey "v">
 <!ENTITY importCmd.label "Importoni…">
 <!ENTITY importCmd.accesskey "I">
-<!ENTITY clearRecentHistory.label "Pastroni Historikun Së Fundi…">
+<!ENTITY clearRecentHistory.label "Spastroni Historikun Së Fundi…">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "Rregullime Llogarie">
 <!ENTITY accountManagerCmd2.accesskey "R">
@@ -605,7 +604,6 @@
 <!ENTITY tagButton.tooltip "Etiketoni mesazhe">
 <!ENTITY compactButton.tooltip "Hiqini mesazhet e fshirë prej dosjes së përzgjedhur">
 <!ENTITY appmenuButton1.tooltip "Shfaq Menunë e &brandShortName;-it">
-
 <!ENTITY addonsButton.tooltip "Administroni shtesat tuaja">
 
 <!-- Toolbar Button Popup -->

@@ -14,11 +14,11 @@
 <!ENTITY encryptionCert.message "Përdorni këtë dëshmi për të fshehtëzuar &amp; shfshehtëzuar mesazhe të dërguar te ju:">
 <!ENTITY digitalSign.certificate.button "Përzgjidhni…">
 <!ENTITY digitalSign.certificate.accesskey "P">
-<!ENTITY digitalSign.certificate_clear.button "Pastroje">
+<!ENTITY digitalSign.certificate_clear.button "Spastroje">
 <!ENTITY digitalSign.certificate_clear.accesskey "o">
 <!ENTITY encryption.certificate.button "Përzgjidhni…">
 <!ENTITY encryption.certificate.accesskey "z">
-<!ENTITY encryption.certificate_clear.button "Pastroje">
+<!ENTITY encryption.certificate_clear.button "Spastroje">
 <!ENTITY encryption.certificate_clear.accesskey "a">
 <!ENTITY signingGroupTitle.label "Nënshkrim Numerik">
 <!ENTITY signMessage.label "Nënshkruaji mesazhet në mënyrë shifrore (si parazgjedhje)">
