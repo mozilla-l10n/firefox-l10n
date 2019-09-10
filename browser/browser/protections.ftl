@@ -106,6 +106,15 @@ info-exposed-passwords-found =
        *[other] de parole expuse în toate breșele
     }
 full-report-link = Vezi raportul complet pe <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] set de date de autentificare salvat este posibil să fi fost expus într-o breșă de date. Schimbă această parolă pentru o mai bună securitate online. <a data-l10n-name="lockwise-link">Afișează datele de autentificare salvate</a>
+        [few] seturi de date de autentificare salvate este posibil să fi fost expuse într-o breșă de date. Schimbă aceste parole pentru o mai bună securitate online. <a data-l10n-name="lockwise-link">Afișează datele de autentificare salvate</a>
+       *[other] de seturi de date de autentificare salvate este posibil să fi fost expuse într-o breșă de date. Schimbă aceste parole pentru o mai bună securitate online. <a data-l10n-name="lockwise-link">Afișează datele de autentificare salvate</a>
+    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Mergi la Setări de confidențialitate
 # This is the title attribute describing the Lockwise card's link to about:logins
