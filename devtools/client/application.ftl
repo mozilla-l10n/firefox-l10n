@@ -69,8 +69,11 @@ serviceworker-empty-suggestions-debugger = 逐步注册您的 Service Worker，�
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = 查看其他域名的 Service Worker。<a>打开 about:debugging</a>
-# Header for the view of Manifest displayed in the application panel for the current page.
+# Header for the Manifest page when we have an actual manifest
 manifest-view-header = 应用清单文件
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = 先添加一个 Web 应用清单文件才可在此查看。<a>详细了解</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = 错误和警告
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -87,6 +90,14 @@ manifest-loaded-ok = 清单文件加载完毕。
 manifest-loaded-error = 载入清单文件时发生错误：
 # Text displayed when the page has no manifest available
 manifest-non-existing = 未发现要查看的清单文件。
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = 清单文件
+    .alt = 清单文件图标
+    .title = 清单文件
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Service Worker
+    .alt = Service Worker 图标
+    .title = Service Worker
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = 警告图标

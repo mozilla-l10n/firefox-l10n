@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "菜单栏">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "导航工具栏">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "导航">
 <!ENTITY personalbarCmd.label "书签工具栏">
 <!ENTITY personalbarCmd.accesskey "B">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "书签">
 <!ENTITY bookmarksToolbarItem.label "书签工具栏项目">
 
 <!ENTITY pageSourceCmd.label "页面源代码">
 <!ENTITY pageSourceCmd.accesskey "o">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "页面信息">
 <!ENTITY pageInfoCmd.accesskey "I">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "布局调试器">
 <!ENTITY ldbCmd.accesskey "L">
@@ -116,6 +126,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "重新连接&syncBrand.shortName.label;服务">
 <!ENTITY fxaUnverified.label "验证您的账户">
 
+
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "最小化">
 <!ENTITY fullScreenRestore.tooltip "还原">
@@ -145,6 +158,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "已登录">
 <!ENTITY fxa.menu.manageAccount.label "管理账户…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;服务设置…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "连接其他设备…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -195,6 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "书签">
 <!ENTITY bookmarksMenu.accesskey "B">
+
 <!ENTITY bookmarkThisPageCmd.label "为此页添加书签">
 <!ENTITY editThisBookmarkCmd.label "编辑此书签">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -510,6 +528,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "搜索查询">
+
 <!ENTITY contentSearchSubmit.tooltip  "提交搜索">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -986,6 +1005,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "反馈故障">
 <!ENTITY contentBlocking.breakageReportView2.description "内容拦截可能导致某些网站出现问题。在您反馈故障时，您得以帮助 &brandShortName; 为所有人提供更好的体验。这将会向 Mozilla 发送网页的地址及浏览器的有关信息。">
 <!ENTITY contentBlocking.breakageReportView.learnMore "详细了解">
+
 <!ENTITY contentBlocking.breakageReportView.title "反馈网站问题">
 <!ENTITY contentBlocking.breakageReportView3.description "拦截某些跟踪器可能导致部分网站出现问题。在您反馈故障时，您得以帮助 &brandShortName; 为所有人提供更好的体验。发送反馈将会向 Mozilla 发送网页的地址及浏览器的有关信息。">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "详细了解">
@@ -1041,6 +1061,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "有扩展修改了您的主页。如果您不想做此更改，可以还原此设置。">
+
 <!ENTITY homepageControlled.header.message "您的主页已变更。">
 <!ENTITY homepageControlled.keepButton.label "保留更改">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
