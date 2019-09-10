@@ -35,7 +35,7 @@ appmenu-update-restart-message = Després d'un reinici ràpid, el { -brand-short
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Entesos
     .buttonaccesskey = E
-appmenu-addon-post-install-message = Gestioneu els vostres complements fent clic a <image data-l10n-name'addon-install-icon'></image> al menú <image data-l10n-name'addon-menu-icon'></image>.
+appmenu-addon-post-install-message = Gestioneu els vostres complements fent clic a <image data-l10n-name='addon-install-icon'></image> al menú <image data-l10n-name='addon-menu-icon'></image>.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Permet que esta extensió s'execute en finestres privades
     .accesskey = P
