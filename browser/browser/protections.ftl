@@ -10,8 +10,8 @@
 #   $count (Number) - Number of tracking events blocked.
 graph-week-summary =
   { $count ->
-     [one] { -brand-short-name } ha bloccato { $count } tracciante nell’ultima settimana
-    *[other] { -brand-short-name } ha bloccato { $count } traccianti nell’ultima settimana
+     [one] { -brand-short-name } ha bloccato { $count } elemento tracciante nell’ultima settimana
+    *[other] { -brand-short-name } ha bloccato { $count } elementi traccianti nell’ultima settimana
   }
 
 # Variables:
