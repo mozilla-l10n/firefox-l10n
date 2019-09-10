@@ -98,9 +98,11 @@ detail-private-browsing-description2 = Când are permisiunea, extensia va avea a
 # cannot be overridden by the user.
 detail-private-disallowed-label = Nepermis în ferestre private
 detail-private-disallowed-description = Această extensie nu rulează în navigare privată. <label data-l10n-name="detail-private-browsing-learn-more">Află mai multe</label>
+detail-private-disallowed-description2 = Această extensie nu rulează în navigare privată. <a data-l10n-name="learn-more">Află mai multe</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Necesită acces la ferestre private
 detail-private-required-description = Această extensie are acces la activitățile tale online în navigare privată. <label data-l10n-name="detail-private-browsing-learn-more">Află mai multe</label>
+detail-private-required-description2 = Această extensie are acces la activitățile tale online în navigarea privată. <a data-l10n-name="learn-more">Află mai multe</a>
 detail-private-browsing-on =
     .label = Permite
     .tooltiptext = Activează în navigarea privată
@@ -247,6 +249,12 @@ shortcuts-modifier-other = Include Ctrl sau Alt
 shortcuts-invalid = Combinație nevalidă
 shortcuts-letter = Tastează o literă
 shortcuts-system = Scurtăturile { -brand-short-name } nu pot fi înlocuite
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Comandă rapidă duplicat
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } este folosită drept comandă rapidă în mai mult de un caz. Comenzile rapide duplicat pot produce comportamente neașteptate.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -284,6 +292,10 @@ install-theme-button = Instalează tema
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Gestionează
 find-more-addons = Găsește mai multe suplimente
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Mai multe opțiuni
 
 ## Add-on actions
 
@@ -355,6 +367,11 @@ install-update-button = Actualizare
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Permis în ferestre private
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Permis în ferestre private
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Când are accesul permis, extensia va avea acces la activitățile tale online în navigarea privată. <a data-l10n-name="learn-more">Află mai multe</a>
 addon-detail-private-browsing-allow = Permite
 addon-detail-private-browsing-disallow = Nu permite

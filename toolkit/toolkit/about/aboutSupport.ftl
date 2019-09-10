@@ -116,6 +116,13 @@ sandbox-sys-call-number = Apel sistem
 sandbox-sys-call-args = Argumente
 safe-mode-title = Încearcă modul sigur
 restart-in-safe-mode-label = Repornește cu suplimentele dezactivate…
+
+## Media titles
+
+audio-backend = Backend audio
+max-audio-channels = Canale maxime
+channel-layout = Aspect preferat al canalelor
+sample-rate = Rată de eșantionare preferată
 media-title = Media
 media-output-devices-title = Dispozitive de ieșire
 media-input-devices-title = Dispozitive de intrare
@@ -128,6 +135,12 @@ media-device-format = Format
 media-device-channels = Canale
 media-device-rate = Rată
 media-device-latency = Latență
+media-capabilities-title = Capabilități media
+# List all the entries of the database.
+media-capabilities-enumerate = Enumerare bază de date
+
+
+
 intl-title = Internaționalizare și localizare
 intl-app-title = Setări privind aplicația
 intl-locales-requested = Limbile solicitate
@@ -248,10 +261,6 @@ content-uses-tiling = Folosește Tiling (Conținut)
 off-main-thread-paint-enabled = Desenare în afara firului de execuție principal activată
 off-main-thread-paint-worker-count = Număr de workeri pentru desenare în afara firului de execuție principal
 target-frame-rate = Frecvență de cadre țintă
-audio-backend = Backend audio
-max-audio-channels = Canale maxime
-channel-layout = Aspect preferat al canalelor
-sample-rate = Rată de eșantionare preferată
 min-lib-versions = Versiune minimă așteptată
 loaded-lib-versions = Versiune în uz
 has-seccomp-bpf = Seccomp-BPF (filtrarea apelurilor de sistem)
