@@ -6,6 +6,7 @@
 <!ENTITY name.label                      "Tu nomine:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY fullname.placeholder            "Tu nomine integre">
+<!ENTITY name.error                      "Insere tu nomine">
 <!ENTITY email.label                     "Adresse de e-mail:">
 <!ENTITY email.accesskey                 "e">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
@@ -16,6 +17,7 @@
 <!ENTITY password.label                  "Contrasigno:">
 <!ENTITY password.accesskey              "C">
 <!ENTITY password.placeholder            "Contrasigno">
+<!ENTITY password.toggle                 "Monstrar/Celar le contrasigno">
 <!ENTITY rememberPassword.label          "Rememorar le contrasigno">
 <!ENTITY rememberPassword.accesskey      "m">
 <!ENTITY usernameEx.label                "Tu credential:">
@@ -40,6 +42,7 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
 <!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange.label                  "Excambiar">
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Detectar automaticamente">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
@@ -94,4 +97,5 @@
 
 
 <!ENTITY insecureServer.tooltip.title    "Attention! Servitor insecur.">
+<!ENTITY insecureServer.tooltip.details  "Clicca hic pro altere detalios.">
 

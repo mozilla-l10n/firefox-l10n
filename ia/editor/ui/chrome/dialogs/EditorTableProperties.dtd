@@ -34,6 +34,7 @@
 <!ENTITY cellSelectNext.accessKey         "S">
 <!ENTITY cellSelectPrevious.label         "Precedente">
 <!ENTITY cellSelectPrevious.accessKey     "P">
+<!ENTITY cellContentAlignment.label       "Alineamento del contento">
 <!ENTITY cellHorizontal.label             "Horizontal:">
 <!ENTITY cellHorizontal.accessKey         "Z">
 <!ENTITY cellVertical.label               "Vertical:">

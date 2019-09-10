@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY Settings.label "Parametros">
 
 <!ENTITY TextAreaName.label "Nomine del campo:">
 <!ENTITY TextAreaName.accessKey "N">
@@ -21,6 +22,7 @@
 <!ENTITY InitialText.label "Texto initial:">
 <!ENTITY InitialText.accessKey "T">
 
+<!ENTITY WrapDefault.value "Predefinite">
 <!ENTITY WrapOff.value "Inactive">
 <!ENTITY WrapHard.value "Dur">
 <!ENTITY WrapPhysical.value "Physic">
