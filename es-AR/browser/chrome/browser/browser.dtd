@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Barra de menú">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Barra de navegación">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Navegación">
 <!ENTITY personalbarCmd.label "Barra de marcadores">
 <!ENTITY personalbarCmd.accesskey "B">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Marcadores">
 <!ENTITY bookmarksToolbarItem.label "Items de la barra de marcadores">
 
 <!ENTITY pageSourceCmd.label "Código fuente">
 <!ENTITY pageSourceCmd.accesskey "o">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Información de la página">
 <!ENTITY pageInfoCmd.accesskey "I">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Depurador de diseño">
 <!ENTITY ldbCmd.accesskey "L">
@@ -116,6 +126,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Reconectar a &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verifique su cuenta">
 
+
+<!ENTITY togglePictureInPicture.key2 "}">
+ <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
@@ -145,6 +158,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Ingresado como">
 <!ENTITY fxa.menu.manageAccount.label "Administrar cuenta…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "Configuración de &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectar otro dispositivo…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -195,6 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Marcadores">
 <!ENTITY bookmarksMenu.accesskey "M">
+
 <!ENTITY bookmarkThisPageCmd.label "Marcar esta página">
 <!ENTITY editThisBookmarkCmd.label "Editar este marcador">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -510,6 +528,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Pedido de búsqueda">
+
 <!ENTITY contentSearchSubmit.tooltip  "Enviar búsqueda">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -814,8 +833,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Conexión">
 <!ENTITY identity.connectionSecure "Conexión segura">
-
-<!ENTITY identity.connectionSecure2 "Conexión asegurada">
 <!ENTITY identity.connectionNotSecure "Conexión insegura">
 
 <!ENTITY identity.connectionSecure3 "Conexión segura">
@@ -828,8 +845,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Esta página está cargada desde una extensión.">
 <!ENTITY identity.insecureLoginForms2 "Los ingresos en esta página pueden estar comprometidos.">
 <!ENTITY identity.customRoot "Conexión verificada por un emisor de certificados no reconocido por Mozilla.">
-
-<!ENTITY identity.evOwnerLabel "El dueño de este sitio es:">
 
 <!ENTITY identity.evOwnerLabel2 "Certificado emitido a:">
 
@@ -867,9 +882,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Permisos">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Ajuste de permisos">
-
 <!ENTITY identity.permissions3 "Permisos">
 <!ENTITY identity.permissionsEmpty "No ha dado permisos especiales a este sitio.">
 <!ENTITY identity.permissionsReloadHint "Hay que recargar la página para que se apliquen los cambios.">
@@ -883,7 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Más información sobre la protección contra rastreo aumentada">
 <!ENTITY protections.settings.label "Configuración de protección">
-<!ENTITY protections.report.label "Mostrar informe completo">
 <!ENTITY protections.showreport.label "Mostrar informe">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -901,7 +912,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Pagos">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Comentarios">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Videos">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "¿El sitio sigue sin cargarse después de deshabilitar las protecciones?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Enviar informe">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -929,7 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Estas cookies lo siguen de un sitio a otro para recopilar datos sobre lo que hace en línea. Las establecen terceros, como anunciantes y empresas de análisis.">
 <!ENTITY protections.cryptominers.description "Los criptomineros utilizan la potencia informática de su sistema para extraer dinero digital. Las secuencias de comandos de cifrado de los mismos agotan su batería, ralentizan su computadora y pueden aumentar su factura de electricidad.">
 <!ENTITY protections.fingerprinters.description "Los identificadores de huellas digitales recopilan la configuración de su navegador y computadora para crear un perfil suyo. Usando esta huella digital, pueden rastrearlo a través de diferentes sitios web.">
-<!ENTITY protections.trackingContent.description "Los sitios web pueden cargar anuncios externos, videos y otro contenido que contenga código de rastreo. El bloqueo del contenido de rastreo puede ayudar a que los sitios se carguen más rápido, pero es posible que algunos botones, formularios y campos de inicio de sesión no funcionen.">
 <!ENTITY protections.trackingContent2.description "Los sitios pueden cargar publicidades externas, videos y otro contenido con código de rastreo. Bloquear el contenido de rastreo puede ayudar a que los sitios carguen más rápido pero algunos botones, formularios y campos de ingreso pueden dejar de funcionar.">
 <!ENTITY protections.socialMediaTrackers.description "Las redes sociales ubican rastreadores en otros sitios web para seguir lo que hace, ve y mira en línea. Esto permite que las empresas de redes sociales aprendan más sobre usted más allá de lo que comparte en sus perfiles de redes sociales.">
 
@@ -996,6 +1005,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Informar problemas">
 <!ENTITY contentBlocking.breakageReportView2.description "El bloqueo de contenido puede causar problemas con algunos sitios. Cuando informa sobre problemas, ayuda a mejorar &brandShortName; para todos. (Esto enviará la URL a Mozilla así como la información de la configuración del navegador).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Conocer más">
+
 <!ENTITY contentBlocking.breakageReportView.title "Informar de un sitio que no se carga">
 <!ENTITY contentBlocking.breakageReportView3.description "El bloqueo de ciertos rastreadores puede causar problemas con algunos sitios web. Informar sobre estos problemas ayuda a que &brandShortName; sea mejor para todos. Al enviar este informe, se enviará a Mozilla una URL e información sobre la configuración de su navegador.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Aprender más">
@@ -1051,6 +1061,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "Una extensión cambió lo que ve como su página de inicio. Puede restaurar su configuración si no desea este cambio.">
+
 <!ENTITY homepageControlled.header.message "Cambió su página de inicio.">
 <!ENTITY homepageControlled.keepButton.label "Mantener los cambios">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
