@@ -99,6 +99,14 @@ info-exposed-passwords-found =
        *[other] Ñe’ẽñemi ojehecháva heta ñemboguaha rupive
     }
 full-report-link = Ehechapa marandu’i <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> rehegua
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Tembiapo ñepyrũ ñongatupyre ikatu kuri oĩ mba’ekuaarã imarãkuaahápe. Emoambue ko ñe’ẽñemi hekorosãve hag̃ua ñandutípe. <a data-l10n-name="lockwise-link">Ehecha tembiapo ñepyrũ ñongatupyre</a>
+       *[other] Tembiapo ñepyrũ ñongatupyre ikatu kuri oĩ mba’ekuaarã imarãkuaahápe. Emoambue ko ñe’ẽñemi hekorosãve hag̃ua ñandutípe. <a data-l10n-name="lockwise-link">Ehecha tembiapo ñepyrũ ñongatupyre</a>
+    }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Eho ñemigua moĩporãme
 # This is the title attribute describing the Lockwise card's link to about:logins
