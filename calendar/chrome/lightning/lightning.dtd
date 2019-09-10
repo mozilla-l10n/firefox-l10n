@@ -74,7 +74,7 @@
 <!ENTITY lightning.imipbar.btnReschedule.label                              "Riplanifikojeni">
 <!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Riplanifikojeni veprimtarinë">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Ruaj një kopje">
-<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Ruan te kalendari një kopje të veprimtarisë, pavarësisht përgjigjes për organizatorët. Lista e pjesëmarrësve do të fshihet.">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Ruan te kalendari një kopje të veprimtarisë, pavarësisht përgjigjes për organizatorët. Lista e pjesëmarrësve do të spastrohet.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Prano përkohësisht ftesë veprimtarie">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Të gjitha përkohësisht">
