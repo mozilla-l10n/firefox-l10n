@@ -69,8 +69,11 @@ serviceworker-empty-suggestions-debugger = Ehecha service worker mboheraguapy je
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Ehechajey umi service workers ambue mba’éva. <a>Embojuruja about:debugging</a>
-# Header for the view of Manifest displayed in the application panel for the current page.
+# Header for the Manifest page when we have an actual manifest
 manifest-view-header = Je’epyre rembipuru’i
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Embojuaju ñanduti rembipuru’i Je’epyre ehechajey hag̃ua ko’ápe. <a>Maranduve</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Jejavy ha kyhyjerã
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -87,6 +90,14 @@ manifest-loaded-ok = Je’epyre ñemyanyhẽpyre.
 manifest-loaded-error = Ojavy ehupikuévo pe je’epyre:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Ndojejuhúi je’epyre ojehechajey hag̃ua.
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Je'epyre
+    .alt = Je'epyre ra'ãnga
+    .title = Je'epyre
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Mba'apohára mba'epytyvõrãguáva
+    .alt = Mba'apohára mba'epytyvõrãguáva ra'ãnga
+    .title = Mba'apohára mba'epytyvõrãguáva
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Ta'ãngachu'i kyhyjerã

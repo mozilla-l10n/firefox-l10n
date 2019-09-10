@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Poravorã renda">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Kundaha rembipuru renda">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Ñekundaha">
 <!ENTITY personalbarCmd.label "Techaukaha rembipuru renda">
 <!ENTITY personalbarCmd.accesskey "B">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Techaukaha">
 <!ENTITY bookmarksToolbarItem.label "Techaukaha rembipuru renda remimoĩ">
 
 <!ENTITY pageSourceCmd.label "Ayvu reñoiha kuatiarogue">
 <!ENTITY pageSourceCmd.accesskey "o">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Kuatiarogue rehegua marandu">
 <!ENTITY pageInfoCmd.accesskey "I">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Moha'ãnga mopotĩha">
 <!ENTITY ldbCmd.accesskey "L">
@@ -116,6 +126,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label;-pe jeikejey">
 <!ENTITY fxaUnverified.label "Ehechajey nemba'ete">
 
+
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Momichĩ">
 <!ENTITY fullScreenRestore.tooltip "Mbojevy">
@@ -145,6 +158,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Heraguapy kóicha">
 <!ENTITY fxa.menu.manageAccount.label "Mba'ete ñangareko…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Moĩporã…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Embojuaju ambue mba’e’oka…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -195,6 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Techaukaha">
 <!ENTITY bookmarksMenu.accesskey "B">
+
 <!ENTITY bookmarkThisPageCmd.label "Kuatiarogue mbojoapy">
 <!ENTITY editThisBookmarkCmd.label "Ko techaukaha mbosako'i">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -510,6 +528,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Porandu jeheka rehegua">
+
 <!ENTITY contentSearchSubmit.tooltip  "Jeheka mondo">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -986,6 +1005,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Emombe’u apañuãi">
 <!ENTITY contentBlocking.breakageReportView2.description "Pe tetepy jejoko ikatu omoapañuãi tendápe. Oñemomarandúvo apañuãi, oipytyvõ &brandShortName; opavavépe g̃uarã. (Kóva oguerahaukáta URL Mozilla-pe ha péicha avei marandu’i kundahára ñemboheko rehegua).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Kuaave">
+
 <!ENTITY contentBlocking.breakageReportView.title "Emombe’u tenda henyhẽ’ỹva">
 <!ENTITY contentBlocking.breakageReportView3.description "Pe tapykuehoha jejoko ikatu omoapañuãi heta ñanduti rendápe. Emombe’úvo ko’ã apañuãi eipytyvõta &brandShortName; oikoporãvétaha opavavépe g̃uarã. Emondóvo ko marandu, og̃uahẽta Mozilla-pe peteĩ URL ha marandu ne kundaha ñemboheko rehegua.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Kuaave">
@@ -1041,6 +1061,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "Peteĩ jepysokue omoambue ojehecháva nde kuatiarogue ñepyrũramo. Ikatu ombojevy iñemboheko ndereipotáirõ iñambue.">
+
 <!ENTITY homepageControlled.header.message "Emoambue nde kuatiarogue ñepyrũ.">
 <!ENTITY homepageControlled.keepButton.label "Eguerekóke moambuepyre">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
