@@ -9,7 +9,7 @@
 <!ENTITY newfirstrun_urlbar_subtext "Rychlý, soukromý a vždy na vaší straně.">
 <!ENTITY firstrun_panel_title_privacy "Soukromí">
 <!ENTITY firstrun_privacy_message "Prohlížejte web, jako když se nikdo nedívá">
-<!ENTITY firstrun_privacy_subtext "Anonymní prohlížení s funkcí Ochrana proti sledování blokuje sledovací prvky, zatímco prohlížíte web, a nebude si pamatovat vaši historii.">
+<!ENTITY firstrun_privacy_subtext "Anonymní prohlížení s funkcí Ochrana proti sledování blokuje sledující prvky, zatímco prohlížíte web, a nebude si pamatovat vaši historii.">
 <!ENTITY newfirstrun_privacy_subtext "Anonymní prohlížení blokuje sledující reklamy, které sledují vaše chování na internetu.">
 <!ENTITY firstrun_panel_title_customize "Přizpůsobení">
 <!ENTITY firstrun_customize_message "Udělejte si aplikaci &brandShortName; podle sebe.">
