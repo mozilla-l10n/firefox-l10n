@@ -1,0 +1,119 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1998-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- These strings are for use specifically in the editor's image and form image dialogs. -->
+<!-- Window title -->
+
+
+<!ENTITY windowTitle.label "Vhuvha ha Tshivhumbeo">
+
+<!ENTITY pixelsPopup.value "dzipixel">
+<!ENTITY percentPopup.value "phesenthe">
+<!-- These are in the Location tab panel -->
+
+<!ENTITY locationEditField.label "Tshumbeo Fhethu:">
+<!ENTITY locationEditField.accessKey "F">
+<!ENTITY locationEditField.tooltip "Thaiphani dzina la faela la tshivhumbeo kana fhethu">
+<!ENTITY title.label "Tsivhudzo ya tshishumiswa:">
+<!ENTITY title.accessKey "T">
+<!ENTITY title.tooltip "Ndeme ya 'title' ya html ine ya tanea sa tsivhudzo ya tshishumiswa">
+<!ENTITY altText.label "Linwalwa linwe-vho:">
+<!ENTITY altText.accessKey "L">
+<!ENTITY altTextEditField.tooltip "Thaiphani linwalwa line na do li tana vhudzuloni ha tshivhumbeo">
+<!ENTITY noAltText.label "Ni songo shumisa linwalwa linwe-vho">
+<!ENTITY noAltText.accessKey "N">
+
+<!ENTITY previewBox.label "Mbonalo ya Tshuvhumbeo">
+<!ENTITY MoreFewerButton.tooltip "Tanani vhuvha vhunzhi kana vhutuku ha u lulamisa">
+<!-- These controls are in the Dimensions tab panel -->
+<!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+
+<!ENTITY actualSize.label "Muelo wa Vhukuma:">
+<!ENTITY actualSizeRadio.label "Muelo wa Vhukuma">
+<!ENTITY actualSizeRadio.accessKey "M">
+<!ENTITY actualSizeRadio.tooltip "Humelani kha muvhala wa tshivhumbeo wa vhukuma">
+<!ENTITY customSizeRadio.label "Mvelele Muelo">
+<!ENTITY customSizeRadio.accessKey "M">
+<!ENTITY customSizeRadio.tooltip "Shandukisani muelo wa tshivhumbeo sa zwe wa taniswa zwone kha siatari">
+<!ENTITY heightEditField.label "Vhuntha:">
+<!ENTITY heightEditField.accessKey "V">
+<!ENTITY widthEditField.label "Vhuphara:">
+<!ENTITY widthEditField.accessKey "V">
+<!ENTITY constrainCheckbox.label "Fhungudzani">
+<!ENTITY constrainCheckbox.accessKey "F">
+<!ENTITY constrainCheckbox.tooltip "Dzudzani vhushaka ha tshipida tsha tshivhumbeo">
+<!-- These controls are in the Image Map box of the expanded area -->
+
+<!ENTITY imagemapBox.label "Mepe wa Tshivhumbeo">
+<!ENTITY removeImageMapButton.label "Bvisani">
+<!ENTITY removeImageMapButton.accessKey "B">
+<!ENTITY editImageMapButton.label "Lulamisani...">
+<!ENTITY editImageMapButton.tooltip "Vhumbani khombo dzine dza kilikea u itela hetshi tshivhumbeo">
+<!-- These are the options for image alignment -->
+
+<!ENTITY alignment.label "Vhekanyani Linwalwa kha Tshivhumbeo">
+<!ENTITY bottomPopup.value "Mafhedziseloni">
+<!ENTITY topPopup.value "Ntha">
+<!ENTITY centerPopup.value "Vhukati">
+<!ENTITY wrapRightPopup.value "Putelani ni tshi isa kha tsha u ḽa">
+<!ENTITY wrapLeftPopup.value "Putelani ni tshi isa kha tsha monde">
+<!-- These controls are in the Spacing Box -->
+
+<!ENTITY spacingBox.label "U vula tshikhala">
+<!ENTITY spacingBox.tooltip "Thaiphani nomboro u itela tshivhalo tsha tshikhala tsho monaho na tshivhumbeo">
+<!ENTITY leftRightEditField.label "Tsha Monde na tsha u Ḽa:">
+<!ENTITY leftRightEditField.accessKey "T">
+<!ENTITY topBottomEditField.label "Nṱha na Fhasi:">
+<!ENTITY topBottomEditField.accessKey "N">
+<!ENTITY borderEditField.label "Tsho Khwaṱhaho Matungo:">
+<!ENTITY borderEditField.accessKey "M">
+<!-- These controls are in the Link Box -->
+
+<!ENTITY showImageLinkBorder.label "Sumbedzani Matungo u mona na tshivhumbeo tsha ṱhumano">
+<!ENTITY showImageLinkBorder.accessKey "M">
+<!-- These controls may be added some day; currently not used -->
+
+<!ENTITY makePageBackgroundCheckbox.label "Itani Siangane ya Siaṱari">
+<!ENTITY makePageBackgroundCheckbox.tooltip "Shumisani tshivhumbeo sa siangane ya heḽi siaṱari">
+<!ENTITY editImageButton.label "Lulamisani Tshivhumbeo">
+<!ENTITY editImageButton.tooltip "Faela ya ndulamiso kha iṅwe mbekanyamushumo">
+<!-- These tabs are currently used in the image input dialog -->
+
+<!ENTITY imageInputTab.label "Tshivhumbeo">
+<!ENTITY imageLocationTab.label "Fhethu">
+<!ENTITY imageDimensionsTab.label "Daimensheni">
+<!ENTITY imageAppearanceTab.label "Mbonalo">
+<!ENTITY imageLinkTab.label "Ṱhumanyo">
