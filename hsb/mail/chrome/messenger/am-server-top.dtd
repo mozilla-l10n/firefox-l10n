@@ -1,8 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-server-top.xul -->
-
 
 <!ENTITY messageStorage.label "Składowanje powěsćow">
 <!ENTITY securitySettings.label "Wěstotne nastajenja">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Standard:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -44,7 +42,6 @@
 <!ENTITY deleteOnServer2.accesskey "D">
 <!ENTITY downloadOnBiff.label "Nowe powěsće awtomatisce sćahnyć">
 <!ENTITY downloadOnBiff.accesskey "N">
-<!ENTITY username.label "Waše wužiwarske mjeno">
 <!ENTITY deleteMessagePrefix.label "Hdyž so powěsć zhaša:">
 <!ENTITY modelMoveToTrash.label "Do tutoho rjadowaka přesunyć:">
 <!ENTITY modelMoveToTrash.accesskey "r">
@@ -57,11 +54,11 @@
 <!ENTITY expungeOnExit.accesskey "k">
 <!ENTITY emptyTrashOnExit.label "Papjernik při skónčenju wuprózdnić">
 <!ENTITY emptyTrashOnExit.accesskey "e">
-<!ENTITY loginAtStartup.label "Při starće za nowmyi powěsćemi pruwować">
+<!ENTITY loginAtStartup.label "Při starće za nowymi powěsćemi pruwować">
 <!ENTITY loginAtStartup.accesskey "n">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Prašeć so, prjedy hač so wjace hač">
 <!ENTITY maxMessagesStart.accesskey "c">
