@@ -34,8 +34,11 @@ graph-today = Ko árape
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Ta’ãnga’i oguerekóva papapy tuichaháicha opaichagua tapykuehoha jokopyre ko arapokõindýpe guare.
 social-tab-title = Ava ñandutieta rapykuehoha
+social-tab-contant = Umi ava ñandutieta ohechakuaa tapykuehoha ambue tendápe oikuaa hag̃ua ne rembiapo, omoñe’ẽ ha ohecha ñandutípe. Kóva omoneĩ mba’apohaguasúpe oikuaavévo ndehegui umi emoherakuãvagui nde ava ñandutietápe. <a data-l10n-name="learn-more-link">Kuaave</a>
 cookie-tab-title = Kookie rapykuehoha tenda ojoasávape
+cookie-tab-content = Ko’ã kookie ohapykueho opaite hendápe ombyaty hag̃ua mba’ekuaarã ojapóva ñandutípe. Omboaje mbohapyháva, mombe’uháramo ha mba’apoha tesa’ỹijoha. Pe kookie rapykuehoha jejoko tendakuéra pa’ũme omomichĩ maranduñemurã ehecháva. <a data-l10n-name="learn-more-link">Kuaave</a>
 tracker-tab-title = Tetepy mo’ãha
+tracker-tab-description = Ñandutikuéra renda ikatu omyanyhẽ marandu ñemurã okayguáva, ta’ãngamýi ha ambue tetepy orekóva tapykuehoha ayvu. Tetepy rapykuehoha jejoko ikatu oipytyvõ tendakuérape henyhẽ pya’eve hag̃ua, hákatu heta votõ, myanyhẽha ha tembiapo ñepyrũ kora ikatu ndoikovéi. <a data-l10n-name="learn-more-link">Kuaave</a>
 fingerprinter-tab-title = Ñemokuãhũ
 fingerprinter-tab-content = Umi kuãhũ kuaaukaha ombyaty ne kundahára ñemoĩporã ha ne mohendaha omoheñói hag̃ua mba’ete nenba’erã. Oipurúvo ko kuãhũ ikatu ohapykueho opaichagua ñanduti renda guive. <a data-l10n-name="learn-more-link">Kuaave</a>
 cryptominer-tab-title = Criptomineros
@@ -46,6 +49,14 @@ lockwise-header-content = { -lockwise-brand-name } ombyaty iñe’ẽñemi ikund
 lockwise-header-content-logged-in = Embyaty ha embojuehe ne ñe’ẽñemi opaite ne mba’e’okápe tekorosãme.
 about-logins-view-logins-button = Ehecha tembiapo ñepyrũ
 lockwise-no-logins-content = Eguereko pe tembipuru’i <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> egueraha hag̃ua ne ñe’ẽñemi opa hendápe.
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] Ñe’ẽñemi mbyatypyre tekorosãme <a data-l10n-name="lockwise-how-it-works">Mba’éicha omba’apo</a>
+       *[other] Ñe’ẽñemi mbyatypyre tekorosãme <a data-l10n-name="lockwise-how-it-works">Mba’éicha omba’apo</a>
+    }
 turn-on-sync = Emyandy { -sync-brand-short-name }...
     .title = Eho ñembojuehe erohoryvévape
 manage-devices = Eñangareko mba’e’okáre
