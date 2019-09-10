@@ -69,8 +69,11 @@ serviceworker-empty-suggestions-debugger = Pśeglědujśo swóju registrěrowanj
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Pśepytujśo service workers wót drugich domenow. <a>about:debugging wócyniś</a>
-# Header for the view of Manifest displayed in the application panel for the current page.
+# Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifest nałoženja
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Musyśo manifest webnałoženja pśidaś, aby jen how pśepytował. <a>Dalšne informacije</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Zmólki a warnowanja
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -87,6 +90,14 @@ manifest-loaded-ok = Manifest jo se zacytał.
 manifest-loaded-error = Pśi cytanju manifesta jo zmólka nastała.
 # Text displayed when the page has no manifest available
 manifest-non-existing = Žeden manifest namakany.
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifest
+    .alt = Manifestowy symbol
+    .title = Manifest
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Service Workers
+    .alt = Symbol Service Workers
+    .title = Service Workers
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Warnowański symbol
