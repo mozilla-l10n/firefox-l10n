@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "c">
 <!ENTITY folderPaneBar.label "Bară de unelte în panoul de dosare">
 <!ENTITY folderPaneBar.accesskey "F">
-<!ENTITY folderModeSelector.label "Vizualizări dosare">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortează după">
@@ -522,7 +521,7 @@
 <!ENTITY errorConsoleCmd.label "Consolă de erori">
 <!ENTITY errorConsoleCmd.accesskey "e">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "Ciornă">
+<!ENTITY scratchpadCmd.label "Panou de probe JavaScript">
 <!ENTITY scratchpadCmd.accesskey "S">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
@@ -605,7 +604,6 @@
 <!ENTITY tagButton.tooltip "Etichetează mesaje">
 <!ENTITY compactButton.tooltip "Elimină mesajele șterse din dosarul selectat">
 <!ENTITY appmenuButton1.tooltip "Afișare meniu &brandShortName;">
-
 <!ENTITY addonsButton.tooltip "Gestionează-ți suplimentele">
 
 <!-- Toolbar Button Popup -->
