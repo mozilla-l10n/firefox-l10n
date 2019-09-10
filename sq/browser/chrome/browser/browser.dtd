@@ -79,11 +79,13 @@ when there are no windows but Firefox is still running. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Lëvizje">
 <!ENTITY personalbarCmd.label "Panel Faqerojtësish">
 <!ENTITY personalbarCmd.accesskey "F">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Faqerojtës">
 <!ENTITY bookmarksToolbarItem.label "Objekte Paneli Faqerojtësish">
 
 <!ENTITY pageSourceCmd.label "Burim Faqeje">
@@ -125,7 +127,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Verifikoni Llogarinë Tuaj">
 
 
- <!-- } is above this key on many keyboards -->
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizojeni">
 <!ENTITY fullScreenRestore.tooltip "Rikthejeni">
@@ -890,6 +893,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Më tepër të dhëna rreth Mbrojtjes së Thelluar Nga Gjurmimet">
 <!ENTITY protections.settings.label "Rregullime Mbrojtjeje">
+<!ENTITY protections.showreport.label "Shfaqe Raportin">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -900,6 +904,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Çaktivizojini mbrojtjet, nëse keni probleme me:">
 <!ENTITY protections.siteNotWorkingView.issueList.logInFields "Fusha krendecialesh hyrjeje">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "Formularë">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Pagesa">
@@ -920,9 +925,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Pse?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Bllokimi i këtyre mund të dëmtojmë funksionimin e disa elementëve në disa sajte. Pa gjurmues, disa butona, formularë, dhe fusha kredencialesh hyrjeje mund të mos funksionojnë.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Çaktivizimi i mbrojtjeve do të lejojë krejt gjurmuesit në këtë sajt. Kjo mundet edhe të përmirësojë disa anë të funksionimit të sajteve.">
 <!ENTITY protections.socialMediaTrackers.label "Gjurmues Mediash Shoqërore">
+<!ENTITY protections.crossSiteTrackingCookies.label "<em>Cookies</em> Gjurmimi Nga Sajte Në Sajte">
 <!ENTITY protections.trackingContent.label "Lëndë Gjurmimi">
+<!ENTITY protections.fingerprinters.label "Krijues shenja gishtash">
+<!ENTITY protections.cryptominers.label "Nxjerrës kriptomonedhash">
+<!ENTITY protections.noTrackersFound.description "Në këtë faqe s’u pikasën gjurmues të ditur nga &brandShortName;.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Këto <em>cookies</em> ju ndjekin nga sajti në sajt për të mbledhur të dhëna rreth çka bëni në internet. Ato depozitohen nga palë të treta, të tilla si shoqëri reklamash dhe analizash.">
+<!ENTITY protections.cryptominers.description "Nxjerrësit e kriptomonedhave e përdorin fuqinë përllogaritëse të sistemit tuaj për të nxjerrë para dixhitale. Programthet për nxjerrje kriptomonedhash konsumojnë energjinë e baterisë tuaj, ngadalësojnë kompjuterin tuaj dhe mund të sjellin shtim të faturës tuaj për energjinë.">
+<!ENTITY protections.fingerprinters.description "Krijuesit e shenjave të gishtave (<em>Fingerprinters</em>) grumbullojnë rregullime nga shfletuesi dhe kompjuteri juaj për të krijuar një profil rreth jush. Duke përdorur këto shenja gishtash dixhitale, ata mund t’ju ndjekin nëpër sajte të ndryshme.">
+<!ENTITY protections.trackingContent2.description "Sajtet mund të ngarkojnë reklama, video dhe tjetër lëndë të jashtme me kod gjurmimi. Bllokimi i lëndës gjurmuese mund të ndihmojë për ngarkimin më të shpejtë të sajteve, por disa butona, formularë dhe fusha kredenciale hyrjesh mund të mos punojnë.">
+<!ENTITY protections.socialMediaTrackers.description "Gjurmuesit prej rrjetesh shoqërore vendosin gjurmues në sajte të tjerë për të ndjekur ç’bëni, ç’shihni dhe vëzhgoni kur jeni në internet. Kjo u lejon shoqërive të rrjeteve shoqërore të mësojnë më tepër rreth jush, tej asaj çka ndani me të tjerët në profilet tuaj në media shoqërore.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -985,12 +1001,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Raportoni një problem">
 <!ENTITY contentBlocking.breakageReportView.label "Raportoni Probleme">
-<!ENTITY contentBlocking.breakageReportView2.description "Bllokimi i lëndë mund të shkaktojë probleme me disa sajte. Kur raportoni probleme, ndihmoni për ta bërë &brandShortName;-in më të mirë për këdo. (Kështu do të dërgohet te Mozilla edhe një URL, përveç të dhënave mbi rregullimet tuaja të shfletuesit.)">
+<!ENTITY contentBlocking.breakageReportView2.description "Bllokimi i lëndës mund të shkaktojë probleme me disa sajte. Kur raportoni probleme, ndihmoni për ta bërë &brandShortName;-in më të mirë për këdo. (Kështu do të dërgohet te Mozilla edhe një URL, përveç të dhënave mbi rregullimet tuaja të shfletuesit.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Mësoni Më Tepër">
 
 <!ENTITY contentBlocking.breakageReportView.title "Njoftoni një Sajt të Dëmtuar">
+<!ENTITY contentBlocking.breakageReportView3.description "Bllokimi i disa gjurmuesve mund të shkaktojë probleme me disa sajte. Raportimi i këtyre problemeve ndihmon për ta bërë &brandShortName;-in më të mirë për këdo. Dërgimi i këtij raporti do të shkaktojë dërgimin te Mozilla të një URL-je dhe të të dhënave mbi rregullimet tuaja të shfletuesit">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Mësoni më tepër">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Ç’probleme patët? (Opsionale)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Në daçi: Përshkruani problemin">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Dërgoje Raportin">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Anuloje">
 
