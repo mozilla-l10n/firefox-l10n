@@ -69,8 +69,11 @@ serviceworker-empty-suggestions-debugger = Naviga inter le registrationes de to 
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Inspectar le Laborantes de servicio ex altere dominios. <a>Aperir re:depuration</a>
-# Header for the view of Manifest displayed in the application panel for the current page.
+# Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifesto del app
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Tu debe adder un Manifesto de app web pro lo inspectar ci. <a>Saper plus</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Errores e avisos
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -87,6 +90,14 @@ manifest-loaded-ok = Manifesto cargate
 manifest-loaded-error = Il habeva un error a cargar le manifesto:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Nulle manifestos a inspectar trovate.
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifesto
+    .alt = Icone manifesto
+    .title = Manifesto
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Obreros de servicio
+    .alt = Icone de obreros de servicio
+    .title = Obreros de servicio
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Icone de aviso
