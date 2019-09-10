@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "שורת תפריט">
 <!ENTITY menubarCmd.accesskey "פ">
 <!ENTITY navbarCmd.label "סרגל כלים ניווט">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "ניווט">
 <!ENTITY personalbarCmd.label "סרגל כלים סימניות">
 <!ENTITY personalbarCmd.accesskey "ס">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "סימניות">
 <!ENTITY bookmarksToolbarItem.label "פריטי סרגל כלים סימניות">
 
 <!ENTITY pageSourceCmd.label "מקור הדף">
 <!ENTITY pageSourceCmd.accesskey "ר">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "מידע על הדף">
 <!ENTITY pageInfoCmd.accesskey "מ">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "ניפוי שגיאות פריסה">
 <!ENTITY ldbCmd.accesskey "פ">
@@ -116,6 +126,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "התחברות מחדש אל &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "אימות החשבון שלך">
 
+
+ <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "מזעור">
 <!ENTITY fullScreenRestore.tooltip "שחזור">
@@ -145,6 +157,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "מחובר בתור">
 <!ENTITY fxa.menu.manageAccount.label "ניהול חשבון…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "הגדרות &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "חיבור מכשיר נוסף…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -194,6 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "סימניות">
 <!ENTITY bookmarksMenu.accesskey "ס">
+
 <!ENTITY bookmarkThisPageCmd.label "יצירת סימנייה לדף זה">
 <!ENTITY editThisBookmarkCmd.label "עריכת סימנייה זו">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -509,6 +526,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Search query">
+
 <!ENTITY contentSearchSubmit.tooltip  "שליחת החיפוש">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -977,6 +995,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "דיווח על בעיות">
 <!ENTITY contentBlocking.breakageReportView2.description "חסימת תוכן עשויה לגרום לתקלות במגוון אתרים. עצם הדיווח מצדך, מסייע בשיפור &brandShortName; לטובת הכלל. (פעולה זו תשלח כתובת לרבות מידע על הגדרות הדפדפן שלך ל‏־Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "מידע נוסף">
+
 <!ENTITY contentBlocking.breakageReportView.title "דיווח על אתר שבור">
 <!ENTITY contentBlocking.breakageReportView3.description "חסימת רכיבי מעקב מסויימים עשויה לגרום לתקלות במגוון אתרים. דיווח על הבעיות האלה מסייע בשיפור &brandShortName; לטובת הכלל. בדיווח זה תשלח את כתובת האתר ומידע על הגדרות הדפדפן שלך ל‏־Mozilla.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "מידע נוסף">
@@ -1032,6 +1051,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "ה">
 
 <!ENTITY homepageControlled.message "הרחבה שינתה את הדף המופיע כדף הבית שלך. ניתן לשחזר את ההגדרות שלך אם שינוי זה אינו רצוי.">
+
 <!ENTITY homepageControlled.header.message "דף הבית שלך השתנה.">
 <!ENTITY homepageControlled.keepButton.label "שמירת השינויים">
 <!ENTITY homepageControlled.keepButton.accesskey "ש">
