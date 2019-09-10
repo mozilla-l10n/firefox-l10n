@@ -67,8 +67,13 @@
 
 <!ENTITY accnameTitle.label "Nomine del conto">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
+<!ENTITY accnameLabel.label "Nomine del conto:">
+<!ENTITY accnameLabel.accesskey "C">
 
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Congratulationes!">
+<!ENTITY completionText.label "Verifica que le information infra es correcte.">
+<!ENTITY serverTypePrefix.label "Typo de servitor in arrivata:">
+<!ENTITY serverNamePrefix.label "Nomine del servitor in arrivata:">
 <!ENTITY smtpServerNamePrefix.label "Nomine del servitor in exito (SMTP):">

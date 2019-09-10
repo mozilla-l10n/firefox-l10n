@@ -12,11 +12,24 @@
 -->
 
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
+<!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
+<!ENTITY NameField2.id                  "LastName">
 <!-- LOCALIZATION NOTE (PhoneticField1.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField1.id              "PhoneticFirstName">
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
+<!ENTITY PhoneticField2.id              "PhoneticLastName">
 
+<!ENTITY NameField1.label               "Prime:">
+<!ENTITY NameField1.accesskey           "P">
+<!ENTITY PhoneticField1.label           "Phonetic:">
+<!ENTITY PhoneticField2.label           "Phonetic:">
+<!ENTITY DisplayName.label              "Monstrar:">
+<!ENTITY DisplayName.accesskey          "M">
+<!ENTITY NickName.label                 "Supernomine:">
+<!ENTITY NickName.accesskey             "S">
 
+<!ENTITY PrimaryEmail.label             "Email:">
 
 
 <!ENTITY HomeCountry.label              "Pais:">
