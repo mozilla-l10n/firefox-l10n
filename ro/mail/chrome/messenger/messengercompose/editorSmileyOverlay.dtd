@@ -1,0 +1,57 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Smiley Menu items -->
+<!ENTITY insertSmiley.label "Emoticon">
+<!ENTITY insertSmiley.accesskey "Z">
+
+<!ENTITY smiley1Cmd.label "Zâmbitor">
+<!ENTITY smiley1Cmd.accesskey "Z">
+<!ENTITY smiley1Cmd.tooltip "Inserează o figură zâmbitoare">
+<!ENTITY smiley2Cmd.label "Încruntat">
+<!ENTITY smiley2Cmd.accesskey "c">
+<!ENTITY smiley2Cmd.tooltip "Inserează o figură încruntată">
+<!ENTITY smiley3Cmd.label "Făcând cu ochiul">
+<!ENTITY smiley3Cmd.accesskey "F">
+<!ENTITY smiley3Cmd.tooltip "Inserează o figură care face cu ochiul">
+<!ENTITY smiley4Cmd.label "Cu limba scoasă">
+<!ENTITY smiley4Cmd.accesskey "l">
+<!ENTITY smiley4Cmd.tooltip "Inserează o figură care scoate limba">
+<!ENTITY smiley5Cmd.label "Râzând">
+<!ENTITY smiley5Cmd.accesskey "R">
+<!ENTITY smiley5Cmd.tooltip "Inserează o figură care râde">
+<!ENTITY smiley6Cmd.label "Rușinat">
+<!ENTITY smiley6Cmd.accesskey "u">
+<!ENTITY smiley6Cmd.tooltip "Inserează o figură rușinată">
+<!ENTITY smiley7Cmd.label "Nehotărât">
+<!ENTITY smiley7Cmd.accesskey "N">
+<!ENTITY smiley7Cmd.tooltip "Inserează o figură nehotărâtă">
+<!ENTITY smiley8Cmd.label "Surprins">
+<!ENTITY smiley8Cmd.accesskey "p">
+<!ENTITY smiley8Cmd.tooltip "Inserează o figură surprinsă">
+<!ENTITY smiley9Cmd.label "Sărutând">
+<!ENTITY smiley9Cmd.accesskey "t">
+<!ENTITY smiley9Cmd.tooltip "Inserează o figură care trimite un sărut">
+<!ENTITY smiley10Cmd.label "Țipând">
+<!ENTITY smiley10Cmd.accesskey "d">
+<!ENTITY smiley10Cmd.tooltip "Inserează o figură care țipă">
+<!ENTITY smiley11Cmd.label "Șmecher">
+<!ENTITY smiley11Cmd.accesskey "c">
+<!ENTITY smiley11Cmd.tooltip "Inserează o figură șmecheră">
+<!ENTITY smiley12Cmd.label "Cu banul în gură">
+<!ENTITY smiley12Cmd.accesskey "a">
+<!ENTITY smiley12Cmd.tooltip "Inserează o figură cu gura în formă de dolar">
+<!ENTITY smiley13Cmd.label "Cu piciorul în gură">
+<!ENTITY smiley13Cmd.accesskey "g">
+<!ENTITY smiley13Cmd.tooltip "Inserează o figură distrusă">
+<!ENTITY smiley14Cmd.label "Inocent">
+<!ENTITY smiley14Cmd.accesskey "I">
+<!ENTITY smiley14Cmd.tooltip "Inserează o figură inocentă">
+<!ENTITY smiley15Cmd.label "Plângând">
+<!ENTITY smiley15Cmd.accesskey "g">
+<!ENTITY smiley15Cmd.tooltip "Inserează o figură care plânge">
+<!ENTITY smiley16Cmd.label "Cu buzele pecetluite">
+<!ENTITY smiley16Cmd.accesskey "b">
+<!ENTITY smiley16Cmd.tooltip "Inserează o figură cu buzele pecetluite">
+<!ENTITY SmileButton.tooltip "Inserează o figură zâmbitoare">
