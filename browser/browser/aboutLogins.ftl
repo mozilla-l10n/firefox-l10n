@@ -56,6 +56,7 @@ login-list-last-used-option = Terakhir Digunakan
 login-list-intro-title = Tidak ada login ditemukan
 login-list-intro-description = Ketika Anda menyimpan kata sandi di { -brand-product-name }, itu akan muncul di sini.
 about-logins-login-list-empty-search-title = Tidak ada log masuk ditemukan
+about-logins-login-list-empty-search-description = Tidak ada hasil pencarian yang cocok
 login-list-item-title-new-login = Log Masuk Baru
 login-list-item-subtitle-new-login = Masukkan kredensial login Anda
 login-list-item-subtitle-missing-username = (tidak ada nama pengguna)

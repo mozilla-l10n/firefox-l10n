@@ -71,6 +71,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Menjelajah tanpa diikuti
+cfr-protections-panel-body = Simpan data Anda untuk diri sendiri. { -brand-short-name } melindungi Anda dari banyak pelacak umum yang mengikuti apa yang Anda lakukan daring.
 cfr-protections-panel-link-text = Pelajari lebih lanjut
 
 ## What's New toolbar button and panel
@@ -81,6 +82,10 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Yang Baru
 cfr-whatsnew-release-notes-link-text = Baca catatan rilis
 cfr-whatsnew-fx70-title = { -brand-short-name } kini berjuang lebih keras untuk privasi Anda
+cfr-whatsnew-fx70-body =
+    Pembaruan terbaru meningkatkan fitur Perlindungan Pelacakan dan membuatnya
+    lebih mudah dari sebelumnya untuk membuat kata sandi aman untuk setiap situs.
+cfr-whatsnew-tracking-protect-title = Lindungi diri anda dari para pelacak
 cfr-whatsnew-tracking-protect-link-text = Lihat Laporan Anda
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
