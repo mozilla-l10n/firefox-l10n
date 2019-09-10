@@ -99,9 +99,15 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = Që prej { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Shihni Raportin
 cfr-whatsnew-lockwise-backup-title = Kopjeruani fjalëkalimet tuaj
+cfr-whatsnew-lockwise-backup-body = Tanimë prodhoni fjalëkalime të siguruar që mund t’i përdorni kudo që bëni hyrje.
+cfr-whatsnew-lockwise-backup-link-text = Aktivizoni kopjeruajtjet
+cfr-whatsnew-lockwise-take-title = Merrini fjalëkalimet tuaj me vete
+cfr-whatsnew-lockwise-take-body = Aplikacioni { -lockwise-brand-short-name } për celular ju lejon të përdorni në mënyrë të parrezik prej ngado fjalëkalimet që keni kopjeruajtur.
+cfr-whatsnew-lockwise-take-link-text = Merrni aplikacionin
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Merreni këtë faqerojtës në telefonin tuaj
 
 ## Login Sync
 
