@@ -57,3 +57,13 @@ rcwn-avg-long = Medie lungă
 rcwn-std-dev-long = Deviație standard lungă
 rcwn-cache-slow = De câte ori memoria cache este lentă
 rcwn-cache-not-slow = De câte ori memoria cache nu este lentă
+networkid = ID rețea
+networkid-id = ID rețea
+
+## Link is intended as "network link"
+
+networkid-isUp = Link stabilit
+networkid-statusKnown = Starea linkului este necunoscută
+
+
+
