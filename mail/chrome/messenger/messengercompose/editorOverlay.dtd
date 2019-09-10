@@ -1,0 +1,608 @@
+<!-- ***** BEGIN LICENSE BLOCK *****
+   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
+   -
+   - The contents of this file are subject to the Mozilla Public License Version
+   - 1.1 (the "License"); you may not use this file except in compliance with
+   - the License. You may obtain a copy of the License at
+   - http://www.mozilla.org/MPL/
+   -
+   - Software distributed under the License is distributed on an "AS IS" basis,
+   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+   - for the specific language governing rights and limitations under the
+   - License.
+   -
+   - The Original Code is Mozilla Communicator client code, released
+   - March 31, 1998.
+   -
+   - The Initial Developer of the Original Code is
+   - Netscape Communications Corporation.
+   - Portions created by the Initial Developer are Copyright (C) 1999-2000
+   - the Initial Developer. All Rights Reserved.
+   -
+   - Contributor(s):
+   -   Sammy Ford
+   -   Blake Ross
+   -   Ryan Cassin (rcassin@supernova.org)
+   -   Daniel Glazman (glazman@netscape.com)
+   -   Stephen Donner (technutz@netscape.net)
+   -
+   - Alternatively, the contents of this file may be used under the terms of
+   - either of the GNU General Public License Version 2 or later (the "GPL"),
+   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+   - in which case the provisions of the GPL or the LGPL are applicable instead
+   - of those above. If you wish to allow use of your version of this file only
+   - under the terms of either the GPL or the LGPL, and not to allow others to
+   - use your version of this file under the terms of the MPL, indicate your
+   - decision by deleting the provisions above and replace them with the notice
+   - and other provisions required by the GPL or the LGPL. If you do not delete
+   - the provisions above, a recipient may use your version of this file under
+   - the terms of any one of the MPL, the GPL or the LGPL.
+   -
+   - ***** END LICENSE BLOCK ***** -->
+<!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
+<!-- File menu items -->
+
+
+<!ENTITY fileMenu.label "Lefayela">
+<!ENTITY filemenu.accesskey "f">
+<!ENTITY newBlankPageCmd.label "Lipheji Lemcambi">
+<!ENTITY newBlankPage.accesskey "P">
+<!ENTITY newMenu.label "Lensha">
+<!ENTITY openFileCmd.label "Lifayela lelivuliwe...">
+<!ENTITY fileopen.accesskey "o">
+<!ENTITY fileopen.keybinding "o">
+<!ENTITY openremoteCmd.label "Indzawo levulekile yewebu...">
+<!ENTITY fileopenremote.accesskey "l">
+<!ENTITY fileopenremote.keybinding "l">
+<!ENTITY fileRecentMenu.label "Lipheji lelisandza kwengca">
+<!ENTITY filerecentmenu.accesskey "r">
+<!ENTITY fileRevert.label "Jikela">
+<!ENTITY filerevert.accesskey "v">
+<!ENTITY saveCmd.label "Seva">
+<!ENTITY filesave.accesskey "s">
+<!ENTITY filesave.keybinding "s">
+<!ENTITY saveAsCmd.label "Seva njenge...">
+<!ENTITY filesaveas.accesskey "A">
+
+<!ENTITY publishCmd.label "Khicita">
+<!ENTITY publishcmd.accesskey "b">
+<!ENTITY publishAsCmd.label "Khicita njenge...">
+<!ENTITY publishas.accesskey "h">
+<!ENTITY exportToTextCmd.label "Tfumela embhalweni...">
+<!ENTITY fileexporttotext.accesskey "T">
+<!ENTITY saveAsChangeEncodingCmd.label "Seva bese ugucula kukhodwa kwetinhlavu">
+<!ENTITY filesaveandchangeencoding.accesskey "E">
+<!ENTITY previewCmd.label "Lipheji lekutfunguluta">
+<!ENTITY filepreview.accesskey "w">
+<!ENTITY sendPageCmd.label "Lipheji lekutfumela...">
+<!ENTITY sendPage.accesskey "d">
+<!ENTITY printSetupCmd.label "Misa kahle lipheji...">
+<!ENTITY fileprintsetup.accesskey "u">
+<!ENTITY printPreviewCmd.label "Lunguta iphrinti">
+<!ENTITY fileprintpreview.accesskey "v">
+<!ENTITY printCmd.label "Phrinta...">
+<!ENTITY printButtonCmd.label "Phrinta...">
+<!ENTITY fileprint.accesskey "p">
+<!ENTITY fileprint.keybinding "p">
+<!ENTITY closeCmd.label "Vala">
+<!ENTITY fileclose.accesskey "c">
+<!ENTITY fileclose.keybinding "w">
+<!ENTITY exitCmd.label "Phuma">
+<!ENTITY fileexit.accesskey "q">
+<!ENTITY fileexit.keybinding "q">
+<!-- Edit menu items -->
+
+<!ENTITY editMenu.label "Editha">
+<!ENTITY editmenu.accesskey "e">
+<!ENTITY pasteNoFormatting.label "Namatsisela ngaphandle kwekufometha">
+<!ENTITY pasteNoFormatting.accesskey "n">
+<!ENTITY pasteAs.label "Namatsisela njenge">
+<!ENTITY pasteAs.accesskey "n">
+<!ENTITY publishSettings.label "Tinhlelo tesayithi yekukhicita...">
+<!ENTITY publishSettings.accesskey "k">
+<!-- For a "Paste" submenu when more than 1 
+     clipboard formats are available -->
+
+<!ENTITY pasteHTMLCmd.label "HTML">
+<!ENTITY pasteHTML.accesskey "h">
+<!ENTITY pasteTextCmd.label "Umbhalo">
+<!ENTITY pasteText.accesskey "t">
+<!ENTITY pasteImageCmd.label "Sitfombe">
+<!ENTITY pasteImage.accesskey "i">
+<!ENTITY pasteRowsCmd.label "Imigca">
+<!ENTITY pasteRows.accesskey "r">
+<!ENTITY pasteColumnsCmd.label "Emakholamu">
+<!ENTITY pasteColumns.accesskey "c">
+<!-- LOCALIZATION NOTE: Text for menu item is in editor.properties
+     Set to: "Table" or "Nested Table" depending on context 
+     This accesskey must be in both strings -->
+<!ENTITY pasteTable.accesskey "b">
+<!ENTITY pasteLinkCmd.label "Hlanganisi">
+<!ENTITY editpastelink.accesskey "l">
+<!ENTITY pasteAsQuotationCmd.label "Namatsisela njengalokucashuniwe">
+<!ENTITY editpastequotation.accesskey "q">
+<!ENTITY editpastequotation.keybinding "v">
+<!ENTITY editStripQuotesCmd.label "Ticahunwa leitihlutjuliwe">
+<!ENTITY editRewrapCmd.label "Phindza usonge">
+<!ENTITY findCmd.label "Funa ubuyisele...">
+<!ENTITY editfind.accesskey "f">
+<!ENTITY editfind.keybinding "f">
+<!ENTITY editfind.keybinding2 "VK_F19">
+<!ENTITY findAgainCmd.label "Phindza utfole">
+<!ENTITY editfindnext.accesskey "g">
+<!ENTITY editfindnext.keybinding "g">
+<!ENTITY editfindnext.keybinding2 "VK_F3">
+<!ENTITY findPrevCmd.label "Funa lokwengcile">
+<!ENTITY editfindprev.accesskey "v">
+<!ENTITY editfindprev.keybinding "g">
+<!ENTITY editfindprev.keybinding2 "VK_F3">
+<!ENTITY checkSpellingCmd.label "Hlola sipelingi">
+<!ENTITY validateCmd.label "Cabisa HTML">
+<!ENTITY validate.accesskey "v">
+<!ENTITY checkLinksCmd.label "Hlola tihlanganis">
+<!ENTITY editcheckspelling.accesskey "s">
+<!ENTITY editcheckspelling.keybinding "k">
+<!-- View menu items -->
+
+<!ENTITY viewPageSource.label "Siyalupheji">
+<!ENTITY viewpagesource.accesskey "s">
+<!ENTITY viewParagraphMarks.label "Emamaki epharagrafu">
+<!ENTITY viewparagraphmarks.accesskey "p">
+<!-- Insert menu items -->
+
+<!ENTITY insertMenu.label "Faka">
+<!ENTITY insertmenu.accesskey "i">
+<!ENTITY insertLinkCmd.label "Hlanganisa...">
+<!ENTITY insertlink.accesskey "l">
+<!ENTITY insertlink.keybinding "l">
+<!ENTITY insertAnchorCmd.label "Yetsa sisimisi...">
+<!ENTITY insertanchor.accesskey "A">
+<!ENTITY insertImageCmd.label "Sitfombe...">
+<!ENTITY insertimage.accesskey "i">
+<!ENTITY insertImageMapCmd.label "Sitfombe selibalave...">
+<!ENTITY insertHLineCmd.label "Umgca lovundlile">
+<!ENTITY inserthline.accesskey "o">
+<!ENTITY insertTableCmd.label "Litafula...">
+<!ENTITY inserttable.accesskey "t">
+<!ENTITY insertFormMenu.label "Lifomu">
+<!ENTITY insertformmenu.accesskey "F">
+<!ENTITY insertHTMLCmd.label "HTML...">
+<!ENTITY insertHTMLCmd.accesskey "h">
+<!ENTITY insertCharsCmd.label "Tinhlavu netimphawu...">
+<!ENTITY insertchars.accesskey "C">
+<!ENTITY insertBreakCmd.label "Kuncamuka kwemugca">
+<!ENTITY insertbreak.accesskey "b">
+<!ENTITY insertBreakAllCmd.label "Ncamula titfombe letingaphansi">
+<!ENTITY insertbreakall.accesskey "d">
+<!-- Insert form menu items -->
+
+<!ENTITY insertFormCmd.label "Chaza lifomu...">
+<!ENTITY insertform.accesskey "D">
+<!ENTITY insertInputTagCmd.label "Insimi yelifomu...">
+<!ENTITY insertinputtag.accesskey "e">
+<!ENTITY insertInputImageCmd.label "Sitfombe selifomu...">
+<!ENTITY insertinputimage.accesskey "I">
+<!ENTITY insertTextAreaCmd.label "Indawo yembhalo...">
+<!ENTITY inserttextarea.accesskey "T">
+<!ENTITY insertSelectCmd.label "Luhlu lwekukhetsa...">
+<!ENTITY insertselect.accesskey "S">
+<!ENTITY insertButtonCmd.label "Chaza likinobho...">
+<!ENTITY insertbutton.accesskey "B">
+<!ENTITY insertLabelCmd.label "Chaza ilebuli">
+<!ENTITY insertlabel.accesskey "L">
+<!ENTITY insertFieldSetCmd.label "Chaza isethi yensimi...">
+<!ENTITY insertfieldset.accesskey "F">
+<!ENTITY insertIsIndexCmd.label "Luphenyo lwe-indeksi">
+<!ENTITY insertisindex.accesskey "x">
+<!-- Used just in context popup. -->
+
+<!ENTITY createLinkCmd.label "Yakha sihlanganisi...">
+<!ENTITY createlink.accesskey "k">
+<!ENTITY editLinkCmd.label "Editha sihlanganisi kulekhompoza lensha">
+<!ENTITY editlink.accesskey "i">
+<!-- (Toplevel Edit menu uses utilityOverlay) -->
+<!ENTITY undoCmd.label "Yesula">
+<!ENTITY undo.accesskey "u">
+<!ENTITY redoCmd.label "Phindza">
+<!ENTITY redo.accesskey "r">
+<!ENTITY cutCmd.label "Juba">
+<!ENTITY cut.accesskey "t">
+<!ENTITY copyCmd.label "Kopa">
+<!ENTITY copy.accesskey "c">
+<!ENTITY pasteCmd.label "Namatsisela">
+<!ENTITY paste.accesskey "p">
+<!ENTITY deleteCmd.label "Susa">
+<!ENTITY delete.accesskey "d">
+<!ENTITY clearCmd.label "Hlobisa">
+<!ENTITY clear.accesskey "l">
+<!ENTITY selectAllCmd.label "Khetsa konkhe">
+<!ENTITY selectall.accesskey "a">
+<!-- Font Face SubMenu -->
+
+<!ENTITY FontFaceSelect.tooltip "Khetsa ifonti">
+<!ENTITY fontfaceMenu.label "Ifonti">
+<!ENTITY formatfontmenu.accesskey "f">
+<!ENTITY fontVarWidth.label "Bubanti lobujikijikiswako">
+<!ENTITY fontvarwidth.accesskey "v">
+<!ENTITY fontFixedWidth.label "Bubanti lobungajiki">
+<!ENTITY fontfixedwidth.accesskey "x">
+<!ENTITY formatfontfixed.keybinding "t">
+<!ENTITY fontHelveticaFont.label "I-eriyeli, ihelvethika">
+<!ENTITY fonthelvetica.accesskey "l">
+<!ENTITY fontTimes.label "Tikhatsi">
+<!ENTITY fonttimes.accesskey "t">
+<!ENTITY fontCourier.label "Galajane">
+<!ENTITY fontcourier.accesskey "c">
+<!ENTITY localfontfaceMenu.label "Emafonti endzawo">
+<!ENTITY localfontmenu.accesskey "f">
+<!-- Font Size SubMenu -->
+
+<!ENTITY FontSizeSelect.tooltip "Khetsa isayizi yefonti">
+<!ENTITY decreaseFontSize.label "Lengaphansi">
+<!ENTITY decreasefontsize.accesskey "r">
+<!ENTITY decreaseFontSize.keybinding "-">
+<!ENTITY increaseFontSize.label "Ngetulu">
+<!ENTITY increasefontsize.accesskey "g">
+<!ENTITY increaseFontSize.keybinding "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY increaseFontSize.keybinding2 "=">
+
+<!ENTITY fontsizeMenu.label "Isayizi">
+<!ENTITY formatsizemenu.accesskey "z">
+<!ENTITY size-xx-smallCmd.label "xx-lencane">
+<!ENTITY size-xx-small.accesskey "a">
+<!ENTITY size-x-smallCmd.label "x-lencane">
+<!ENTITY size-x-small.accesskey "m">
+<!ENTITY size-smallCmd.label "ncane">
+<!ENTITY size-small.accesskey "s">
+<!ENTITY size-mediumCmd.label "semkhatsini">
+<!ENTITY size-medium.accesskey "d">
+<!ENTITY size-largeCmd.label "khulu">
+<!ENTITY size-large.accesskey "l">
+<!ENTITY size-x-largeCmd.label "x-khulu">
+<!ENTITY size-x-large.accesskey "x">
+<!ENTITY size-xx-largeCmd.label "xx-khulu kabili">
+<!ENTITY size-xx-large.accesskey "e">
+<!-- Font Style SubMenu -->
+
+<!ENTITY fontStyleMenu.label "Sitayela sembhalo">
+<!ENTITY formatstylemenu.accesskey "s">
+<!ENTITY styleBoldCmd.label "Licinsi">
+<!ENTITY stylebold.accesskey "b">
+<!ENTITY stylebold.keybinding "b">
+<!ENTITY styleItalicCmd.label "Ithalikhi">
+<!ENTITY styleitalic.accesskey "I">
+<!ENTITY styleitalic.keybinding "i">
+<!ENTITY styleUnderlineCmd.label "Dvwebela">
+<!ENTITY styleunderline.accesskey "u">
+<!ENTITY styleunderline.keybinding "u">
+<!ENTITY styleStrikeThruCmd.label "Dvwebakonkhe">
+<!ENTITY stylestrikethru.accesskey "k">
+<!ENTITY styleSuperscriptCmd.label "Suphaskripthi">
+<!ENTITY stylesuperscript.accesskey "p">
+<!ENTITY styleSubscriptCmd.label "Sabskripthi">
+<!ENTITY stylesubscript.accesskey "S">
+<!ENTITY styleNonbreakingCmd.label "Ngephuki">
+<!ENTITY stylenonbreaking.accesskey "N">
+<!ENTITY styleEm.label "Kucindzetela">
+<!ENTITY styleEm.accesskey "k">
+<!ENTITY styleStrong.label "Kucindzetela ngemandla">
+<!ENTITY styleStrong.accesskey "m">
+<!ENTITY styleCite.label "Kufundzabusha">
+<!ENTITY styleCite.accesskey "k">
+<!ENTITY styleAbbr.label "Sifishaniso">
+<!ENTITY styleAbbr.accesskey "S">
+<!ENTITY styleAcronym.label "Sifinyeto">
+<!ENTITY styleAcronym.accesskey "n">
+<!ENTITY styleCode.label "Ikhodi">
+<!ENTITY styleCode.accesskey "d">
+<!ENTITY styleSamp.label "Isampula yemkhicito">
+<!ENTITY styleSamp.accesskey "s">
+<!ENTITY styleVar.label "Kwehlukahluka">
+<!ENTITY styleVar.accesskey "k">
+
+<!ENTITY formatFontColor.label "Umbala wembhalo...">
+<!ENTITY formatfontcolor.accesskey "c">
+<!ENTITY tableOrCellColor.label "Litafula nome iseli umbala welingemuva...">
+<!ENTITY tableOrCellColor.accesskey "U">
+
+<!ENTITY formatremovestyles.keybinding "y">
+<!ENTITY formatremovelinks.keybinding "k">
+<!ENTITY formatRemoveNamedAnchors.label "Susa sisimiso lesishitiwo">
+<!ENTITY formatRemoveNamedAnchors.accesskey "S">
+<!ENTITY formatremovenamedanchors.keybinding "a">
+
+<!ENTITY formatindent.keybinding "]">
+<!ENTITY formatoutdent.keybinding "[">
+<!ENTITY paragraphMenu.label "Ipharagrafu">
+<!ENTITY formatparagraphmenu.accesskey "P">
+<!ENTITY paragraphParagraphCmd.label "Ipharagrafu">
+<!ENTITY paragraphparagraph.accesskey "P">
+<!ENTITY heading1Cmd.label "Sihloko 1">
+<!ENTITY heading1.accesskey "1">
+<!ENTITY heading2Cmd.label "Sihloko 2">
+<!ENTITY heading2.accesskey "2">
+<!ENTITY heading3Cmd.label "Sihloko 3">
+<!ENTITY heading3.accesskey "3">
+<!ENTITY heading4Cmd.label "Sihloko 4">
+<!ENTITY heading4.accesskey "4">
+<!ENTITY heading5Cmd.label "Sihloko 5">
+<!ENTITY heading5.accesskey "5">
+<!ENTITY heading6Cmd.label "Sihloko6">
+<!ENTITY heading6.accesskey "6">
+<!ENTITY paragraphAddressCmd.label "Likheli">
+<!ENTITY paragraphaddress.accesskey "a">
+<!ENTITY paragraphPreformatCmd.label "Iprifomethi">
+<!ENTITY paragraphpreformat.accesskey "f">
+<!ENTITY paragraphBlockquoteCmd.label "Vimbasicaphuno">
+<!ENTITY paragraphblockquote.accesskey "b">
+<!-- List menu items -->
+
+<!ENTITY formatlistMenu.label "Luhlu">
+<!ENTITY formatlistmenu.accesskey "l">
+<!ENTITY noneCmd.label "Kute">
+<!ENTITY none.accesskey "N">
+<!ENTITY listBulletCmd.label "Bhulethiwe">
+<!ENTITY listbullet.accesskey "b">
+<!ENTITY listNumberedCmd.label "Nomboliwe">
+<!ENTITY listnumbered.accesskey "m">
+<!ENTITY listTermCmd.label "Litemu/ithemu">
+<!ENTITY listterm.accesskey "t">
+<!ENTITY listDefinitionCmd.label "Inchazelo">
+<!ENTITY listdefinition.accesskey "d">
+<!ENTITY listProps.label "Landzelanisa timphahla...">
+<!ENTITY listprops.accesskey "l">
+
+<!ENTITY ParagraphSelect.tooltip "Khetsa ifomethi yepharagrafu">
+<!-- Shared in Paragraph, and Toolbar menulist -->
+<!ENTITY bodyTextCmd.label "Umtimba wembhalo">
+<!ENTITY bodytext.accesskey "T">
+<!-- isn't used in menu now, but may be added in future -->
+<!ENTITY advancedPropertiesCmd.label "Timphahla letichubekile">
+<!ENTITY advancedproperties.accesskey "v">
+
+<!ENTITY NormalAbbr.label "Umbhalo">
+<!ENTITY ParagraphAbbr.label "P">
+<!ENTITY Heading1Abbr.label "H1">
+<!ENTITY Heading2Abbr.label "H2">
+<!ENTITY Heading3Abbr.label "H3">
+<!ENTITY Heading4Abbr.label "H4">
+<!ENTITY Heading5Abbr.label "H5">
+<!ENTITY Heading6Abbr.label "H6">
+<!ENTITY BlockquoteAbbr.label "BQ">
+<!ENTITY AddressAbbr.label "Addr.">
+<!ENTITY PreformatAbbr.label "Pre.">
+<!-- Style Sheet submenu NOT IMPLEMENTED -->
+
+<!ENTITY stylesheetMenu.label "Sebentisa sitayela selishithi">
+<!ENTITY formatstylesheetmenu.accesskey "y">
+<!-- Align menu items -->
+
+<!ENTITY alignMenu.label "Linganisa">
+<!ENTITY formatalignmenu.accesskey "a">
+<!ENTITY alignLeft.label "Sancele">
+<!ENTITY alignleft.accesskey "l">
+<!ENTITY alignLeft.tooltip "Linganisa ngesancele">
+<!ENTITY alignCenter.label "Inkhaba">
+<!ENTITY aligncenter.accesskey "c">
+<!ENTITY alignCenter.tooltip "Linganisa inkhaba">
+<!ENTITY alignRight.label "Sekudla">
+<!ENTITY alignright.accesskey "r">
+<!ENTITY alignRight.tooltip "Linganisa lingesekudla">
+<!ENTITY alignJustify.label "Jastifaya">
+<!ENTITY alignjustify.accesskey "j">
+<!ENTITY alignJustify.tooltip "Linganisa kujastifaya">
+<!-- Layer toolbar items -->
+
+<!ENTITY layer.tooltip "Ileya">
+<!ENTITY layerSendToBack.tooltip "Tfumela emuva">
+<!ENTITY layerBringToFront.tooltip "Yisa embili">
+
+<!ENTITY increaseIndent.label "Yandzisa I-indenti">
+<!ENTITY increaseindent.accesskey "i">
+<!ENTITY increaseindentkb "=">
+<!ENTITY decreaseIndent.label "Nciphisa I-indenti">
+<!ENTITY decreaseindent.accesskey "D">
+<!ENTITY decreaseindentkb "-">
+
+<!ENTITY grid.label "Kumisa igridi">
+<!ENTITY grid.accesskey "s">
+
+<!ENTITY pageProperties.label "Sihloko selipheji netimphahla...">
+<!ENTITY pageproperties.accesskey "g">
+<!ENTITY colorsAndBackground.label "Imibala yelipheji nelingemuva...">
+<!ENTITY colorsandbackground.accesskey "u">
+<!-- Table Menu -->
+
+<!ENTITY tableMenu.label "Litafula">
+<!ENTITY tablemenu.accesskey "b">
+<!-- Select Submenu -->
+<!ENTITY tableSelectMenu.label "Phawula">
+<!ENTITY tableselectmenu.accesskey "s">
+
+<!ENTITY tableSelectMenu2.label "Kuphawula litafula">
+<!ENTITY tableInsertMenu2.label "Kufaka litafula">
+<!ENTITY tableDeleteMenu2.label "Kucisha litafula">
+<!-- Insert SubMenu -->
+
+<!ENTITY tableInsertMenu.label "Faka">
+<!ENTITY tableinsertmenu.accesskey "i">
+<!ENTITY tableTable.label "Litafula">
+<!ENTITY tabletable.accesskey "t">
+<!ENTITY tableRow.label "Umgca">
+<!ENTITY tableRows.label "Imigca">
+<!ENTITY tablerow.accesskey "r">
+<!ENTITY tableRowAbove.label "Umgca longetulu">
+<!-- uses tablerow.accesskey -->
+<!ENTITY tableRowBelow.label "Umgca longaphansi">
+<!ENTITY tablerowbelow.accesskey "b">
+<!ENTITY tableColumn.label "Ikholamu">
+<!ENTITY tableColumns.label "Emakholamu">
+<!ENTITY tablecolumn.accesskey "o">
+<!ENTITY tableColumnBefore.label "Emakholamu langembili">
+<!-- uses tablecolumn.accesskey -->
+<!ENTITY tableColumnAfter.label "Emakholamu langemuva">
+<!ENTITY tablecolumnafter.accesskey "a">
+<!ENTITY tableCell.label "Iseli">
+<!ENTITY tableCells.label "Emaseli">
+<!ENTITY tablecell.accesskey "c">
+<!ENTITY tableCellContents.label "Lokucuketfwe kumaseli">
+<!ENTITY tablecellcontents.accesskey "n">
+<!ENTITY tableAllCells.label "Onkhe emaseli">
+<!ENTITY tableCellBefore.label "Iseli lengembili">
+<!ENTITY tableallcells.accesskey "a">
+<!-- uses tablecell.accesskey -->
+<!ENTITY tableCellAfter.label "Iseli lengemuva">
+<!ENTITY tablecellafter.accesskey "f">
+<!-- Delete SubMenu -->
+<!ENTITY tableDeleteMenu.label "Cisha">
+<!ENTITY tabledeletemenu.accesskey "D">
+
+<!ENTITY tableFix.label "Cinisa Kumiswa Kwelitafula">
+<!ENTITY tablefix.accesskey "f">
+<!-- text for "Join Cells" is in editor.properties 
+     ("JoinSelectedCells" and "JoinCellToRight")
+     the access key must exist in both of those strings
+     But value must be set here for accesskey to draw properly
+-->
+<!ENTITY tableJoinCells.label "j">
+<!ENTITY tablejoincells.accesskey "j">
+<!ENTITY tableSplitCell.label "Yehlukanisa emaseli">
+<!ENTITY tablesplitcell.accesskey "c">
+<!ENTITY convertToTable.label "Yakha litafula kulokukhetsiwe">
+<!ENTITY converttotable.accesskey "r">
+<!ENTITY tableProperties.label "Timphahla telitafula...">
+<!ENTITY tableProperties.accesskey "h">
+<!-- Tools menu -->
+
+<!ENTITY toolsmenu.accesskey "l">
+<!ENTITY toolbrowser.accesskey "b">
+<!ENTITY toolplaineditor.accesskey "p">
+<!ENTITY toolsetfocus.accesskey "f">
+<!-- Debug menu items -->
+
+<!ENTITY debugMenu.label "Ungabhagi">
+<!ENTITY newEditorTestPage.label "Umcambi Nelipheji Lethesti">
+<!ENTITY textEditorCmd.label "Umhleli wembhalo lolula">
+<!ENTITY outputTextCmd.label "Umbhalo wekukhipha">
+<!ENTITY outputHTMLCmd.label "HTML yekukhipha">
+<!ENTITY insertTextCmd.label "Faka umbhalo">
+<!ENTITY testSelectionCmd.label "Kuphawula kwesivivinyo">
+<!ENTITY testTableLayoutCmd.label "Vivinya kumiswa kwelitafula">
+<!ENTITY testDocumentCmd.label "Vivinya idokhumenti">
+<!ENTITY showEmbeddedCmd.label "Khombisa tintfo letimbelekile">
+<!ENTITY dumpContentCmd.label "Lahla lokucuketfwe esihlahleni">
+<!ENTITY runUnitTestsCmd.label "Yenta lohlolo lweyunithi">
+<!ENTITY dumpUndoStack.label "Lahla sitaki sekususa">
+<!ENTITY dumpRedoStack.label "Lahla sitaki sekuphindza">
+<!ENTITY executeJSTransactionViaTxmgr.label "Yenta kutsi luhambo lwa JS lwengce kumeninjeli">
+<!ENTITY executeJSTransactionViaEditor.label "Yenta kutsi luhambo lwa JS lwengce kumhleli">
+<!ENTITY startLogCmd.label "Cala kuloga">
+<!ENTITY stopLogCmd.label "Mani kuloga">
+<!ENTITY runLogCmd.label "Yenta kuloga">
+<!ENTITY setFocusCmd.label "Setha umgomo">
+<!-- Toolbar-only items -->
+
+<!ENTITY menuBar.tooltip "Imenyu-bha">
+<!ENTITY compositionToolbar.tooltip "Kwentiwa kwethulu-bha">
+<!ENTITY formatToolbar.tooltip "Kumiswa kwethulu-bha">
+<!ENTITY newToolbarCmd.tooltip "Yakha lelisha lipheji lemcambi">
+<!ENTITY openToolbarCmd.label "Vula">
+<!ENTITY openToolbarCmd.tooltip "Vula lifayela lendzawo">
+<!ENTITY saveToolbarCmd.tooltip "Seva lifayela esikhaleni sendzawo">
+<!ENTITY publishToolbarCmd.tooltip "Phakamisela lifayela endzaweni lengaphandle">
+<!ENTITY previewToolbarCmd.label "Tfunguluta">
+<!ENTITY previewToolbarCmd.tooltip "Layishela lelipheji esintjwizini">
+<!ENTITY printToolbarCmd.label "Printa">
+<!ENTITY printToolbarCmd.tooltip "Printa lelipheji">
+<!ENTITY findToolbarCmd.label "Tfola">
+<!ENTITY findToolbarCmd.tooltip "Tfola umbhalo ephejini">
+<!ENTITY spellToolbarCmd.label "Pela">
+<!ENTITY spellToolbarCmd.tooltip "Hlola sipelingi salokuphawuliwe nome salo lonkhe lelipheji">
+<!ENTITY imageToolbarCmd.label "Sitfombe">
+<!ENTITY imageToolbarCmd.tooltip "Fala sitfombe lesisha nome uhlele timphahla tesitfombe lesikhetsiwe">
+<!ENTITY hruleToolbarCmd.label "H. Lilayini">
+<!ENTITY hruleToolbarCmd.tooltip "Faka umgca lovundlako nome uhlele timphahla temgca lokhetsiwe">
+<!ENTITY tableToolbarCmd.label "Litafula">
+<!ENTITY tableToolbarCmd.tooltip "Faka litafula lelisha nome uhlele timphahla telitafula lelikhetsiwe">
+<!ENTITY linkToolbarCmd.label "Hlanganisa">
+<!ENTITY linkToolbarCmd.tooltip "Faka sihlanganisi lesisha nome uhlele timphahla tesihlanganisi lesikhetsiwe">
+<!ENTITY anchorToolbarCmd.label "Sisimiso">
+<!ENTITY anchorToolbarCmd.tooltip "Faka sisimiso lesinelibito lesisha nome uhlele timphahla tesisimiso lesikhetsiwe">
+<!ENTITY textColorCaption.label "Umbala wembhalo">
+<!ENTITY TextColorButton.tooltip "Khetsa umbala wembhalo">
+<!ENTITY BackgroundColorButton.tooltip "Khetsa umbala welingemuva">
+<!ENTITY throbber.tooltip "Yani ku&vendorShortName; Likhayapheji">
+<!ENTITY HighlightColorButton.tooltip "Khetsa umbala logqamile wembhalo">
+<!-- Editor toolbar -->
+
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Isayizi lencane yefonti">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Isayizi lenkhulu yefonti">
+<!ENTITY boldToolbarCmd.tooltip "Licinsi">
+<!ENTITY italicToolbarCmd.tooltip "I-ithaliki">
+<!ENTITY underlineToolbarCmd.tooltip "Dvwebela">
+<!ENTITY bulletListToolbarCmd.tooltip "Sebentisa nome ususe luhlu lwemabhulethi">
+<!ENTITY numberListToolbarCmd.tooltip "Sebentisa nome ususe luhlu lwetinombolo">
+<!ENTITY outdentToolbarCmd.tooltip "Khipha identi yembhalo (uye ngesancele)">
+<!ENTITY indentToolbarCmd.tooltip "Dentisha umbhalo (uye ngesekudla)">
+<!ENTITY AlignPopupButton.tooltip "Khetsa kulinganiswa kwembhalo">
+<!ENTITY InsertPopupButton.tooltip "Faka sihlanganisi, sisimiso, sitfombe, lilayini lelivundlile, nome litafula">
+<!ENTITY alignLeftButton.tooltip "Linganisa umbalo ngakumajini lengesancele">
+<!ENTITY alignCenterButton.tooltip "Linganisa umbhalo losenkhabeni">
+<!ENTITY alignRightButton.tooltip "Linganisa umbhalo ngakumajini lengesekudla">
+<!ENTITY alignjustifyButton.tooltip "Linganisa umbhalo lokumajini yangesancele nayangesekudla">
+<!-- Formatting toolbar not used, but may be in future -->
+
+<!ENTITY formatToolbar.boldChar "B">
+<!ENTITY formatToolbar.italicChar "I">
+<!ENTITY formatToolbar.underlineChar "U">
+<!-- Used with color pickers in Format toolbar and Format Menu -->
+
+<!ENTITY colorPicker.default.label "Umbala wedifolthi yemfundzi">
+<!ENTITY colorPicker.default.accesskey "f">
+<!ENTITY colorLabel.label "Umbala:">
+<!ENTITY ok.label "OK">
+<!-- Display Mode toolbar and View menu items -->
+
+<!ENTITY NormalModeTab.label "Nomali">
+<!ENTITY NormalMode.label "Simo lesivamile seku-editha">
+<!ENTITY NormalMode.accesskey "s">
+<!ENTITY NormalMode.tooltip "Khombisa emabhoda elitafula newetisimiso letinemabito">
+<!ENTITY AllTagsMode.label "HTML Emathegi">
+<!ENTITY AllTagsMode.accesskey "G">
+<!ENTITY AllTagsMode.tooltip "Khombisa ema-ayikhoni awo onkhe emathegi HTML">
+
+<!ENTITY HTMLSourceMode.label "Siyalu seHTML">
+<!-- Toolbar has an image with "HTML" text, so don't include it in the string -->
+<!ENTITY SourceMode.label "Siyalu">
+<!ENTITY HTMLSourceMode.accesskey "h">
+<!ENTITY HTMLSourceMode.tooltip "Editha siyalu HTML">
+<!ENTITY PreviewMode.label "Kulunguta">
+<!ENTITY PreviewMode.accesskey "k">
+<!ENTITY PreviewMode.tooltip "Khombisa njenge WYSIWYG (njengesintjwizi)">
+<!-- LOCALIZATION NOTE: Do NOT translate text for 'SourceTabDirection'
+     Use latin "ltr" if you want the <html> image to left of the 
+     'SourceMode.label' text defined above,
+     or use latin "rtl" if you want this image to the right of text
+     This is the value of the HTML 'dir' attribute
+-->
+
+<!ENTITY SourceTabDirection "ltr">
+<!-- Structure Toolbar Context Menu items -->
+
+<!ENTITY structSelect.label "Khetsa">
+<!ENTITY structSelect.accesskey "k">
+<!ENTITY structRemoveTag.label "Susa ithegi">
+<!ENTITY structRemoveTag.accesskey "s">
+<!ENTITY structChangeTag.label "Gucula ithegi">
+<!ENTITY structChangeTag.accesskey "g">
+<!-- TOC manipulation -->
+
+<!ENTITY insertTOC.label "Faka">
+<!ENTITY insertTOC.accesskey "f">
+<!ENTITY updateTOC.label "Buyeketa">
+<!ENTITY updateTOC.accesskey "b">
+<!ENTITY removeTOC.label "Susa">
+<!ENTITY removeTOC.accesskey "s">
+<!ENTITY tocMenu.label "Litafula Lalokucuketfwe...">
+<!ENTITY tocMenu.accesskey "f">
