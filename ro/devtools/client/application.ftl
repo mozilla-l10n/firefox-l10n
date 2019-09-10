@@ -27,6 +27,14 @@ serviceworker-worker-debug = Depanează
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Pornește
+# Text for the debug link displayed for an already started Service Worker, when we
+# are in multi e10s mode, which effectively disables this link.
+serviceworker-worker-debug-forbidden = Depanare
+    .title = Poți depana service workeri numai dacă multi e10s este dezactivat
+# Text for the start link displayed for a registered but not running Service Worker.
+# Clicking on the link will attempt to start the service worker.
+serviceworker-worker-start2 = Start
+    .title = Poți porni service workeri numai dacă multi e10s este dezactivat
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.
 serviceworker-worker-updated = Actualizat <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
@@ -61,3 +69,29 @@ serviceworker-empty-suggestions-debugger = Execută pas cu pas înregistrarea sc
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Inspectează scripturile Service Worker de pe alte domenii. <a>Deschide about:debugging</a>
+# Header for the view of Manifest displayed in the application panel for the current page.
+manifest-view-header = Manifestul aplicației
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Erori și avertismente
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Identitate
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Prezentare
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Pictograme
+# Text displayed while we are loading the manifest file
+manifest-loading = Se încarcă manifestul...
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Manifest încărcat.
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = A apărut o eroare la încărcarea manifestului:
+# Text displayed when the page has no manifest available
+manifest-non-existing = Nu s-a găsit niciun manifest de inspectat.
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Pictogramă de avertizare
+    .title = Avertisment
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Pictogramă de eroare
+    .title = Eroare
