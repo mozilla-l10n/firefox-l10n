@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Barra de menu">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Barra de navegação">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Navegação">
 <!ENTITY personalbarCmd.label "Barra de favoritos">
 <!ENTITY personalbarCmd.accesskey "r">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Favoritos">
 <!ENTITY bookmarksToolbarItem.label "Itens da barra de favoritos">
 
 <!ENTITY pageSourceCmd.label "Código-fonte da página">
 <!ENTITY pageSourceCmd.accesskey "f">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Informações da página">
 <!ENTITY pageInfoCmd.accesskey "I">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Depurador de layout">
 <!ENTITY ldbCmd.accesskey "L">
@@ -116,6 +126,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Reconectar ao &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verificar sua conta">
 
+
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
@@ -145,6 +158,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Usuário">
 <!ENTITY fxa.menu.manageAccount.label "Gerenciar conta…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "Configurações do &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectar outro dispositivo…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -195,6 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Favoritos">
 <!ENTITY bookmarksMenu.accesskey "v">
+
 <!ENTITY bookmarkThisPageCmd.label "Adicionar página aos favoritos">
 <!ENTITY editThisBookmarkCmd.label "Editar este favorito">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -510,6 +528,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Parâmetros da pesquisa">
+
 <!ENTITY contentSearchSubmit.tooltip  "Enviar pesquisa">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -986,6 +1005,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Relatar problemas">
 <!ENTITY contentBlocking.breakageReportView2.description "O bloqueio de conteúdo pode causar problemas com alguns sites. Ao relatar problemas, você ajuda a tornar o &brandShortName; melhor para todos (o endereço da página é enviado à Mozilla, bem como informações sobre as configurações do navegador).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Saiba mais">
+
 <!ENTITY contentBlocking.breakageReportView.title "Relatar um site com problemas">
 <!ENTITY contentBlocking.breakageReportView3.description "Bloquear certos rastreadores pode causar problemas em alguns sites. Relatar esses problemas ajuda a melhorar o &brandShortName; para todos. Ao enviar este relato, é enviado para a Mozilla uma URL e informações sobre configurações do seu navegador.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Saiba mais">
@@ -1041,6 +1061,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "Uma extensão alterou o que você vê como página inicial. Você pode restaurar a sua configuração se não quiser esta alteração.">
+
 <!ENTITY homepageControlled.header.message "Sua página inicial foi alterada.">
 <!ENTITY homepageControlled.keepButton.label "Manter alterações">
 <!ENTITY homepageControlled.keepButton.accesskey "M">
