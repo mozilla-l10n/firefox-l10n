@@ -106,7 +106,7 @@
 <!ENTITY useCacheAfter.label             "MB hapësirë për fshehtinën">
 <!ENTITY overrideSmartCacheSize.label    "Anashkalo administrim të vetvetishëm fshehtine">
 <!ENTITY overrideSmartCacheSize.accesskey "A">
-<!ENTITY clearCacheNow.label             "Pastroje Tani">
+<!ENTITY clearCacheNow.label             "Spastroje Tani">
 <!ENTITY clearCacheNow.accesskey         "P">
 
 <!-- Certificates -->
@@ -122,3 +122,4 @@
 <!ENTITY manageCertificates.accesskey "A">
 <!ENTITY viewSecurityDevices.label "Pajisje Sigurie">
 <!ENTITY viewSecurityDevices.accesskey "a">
+

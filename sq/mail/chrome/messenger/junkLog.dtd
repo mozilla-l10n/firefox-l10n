@@ -4,7 +4,7 @@
 
 <!ENTITY adaptiveJunkLog.title "Regjistër Poste të Pavlerë Përshtatëse">
 <!ENTITY adaptiveJunkLogInfo.label "Regjistër i veprimtarisë së kontrollit vetëpërshtatës për postën e pavlerë.">
-<!ENTITY clearLog.label "Pastroje Regjistrin">
+<!ENTITY clearLog.label "Spastroje Regjistrin">
 <!ENTITY clearLog.accesskey "P">
 <!ENTITY closeLog.label "Mbylleni">
 <!ENTITY closeLog.accesskey "M">

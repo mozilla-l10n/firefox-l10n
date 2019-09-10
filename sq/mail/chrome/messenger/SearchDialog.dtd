@@ -9,7 +9,7 @@
 <!ENTITY searchSubfolders.accesskey  "n">
 <!ENTITY searchOnServer.label        "Xhiroje kërkimin në shërbyes">
 <!ENTITY searchOnServer.accesskey    "X">
-<!ENTITY resetButton.label           "Pastroje">
+<!ENTITY resetButton.label           "Spastroje">
 <!ENTITY resetButton.accesskey       "P">
 <!ENTITY openButton.label            "Hape">
 <!ENTITY openButton.accesskey        "H">
@@ -19,7 +19,7 @@
 <!ENTITY results.label               "Përfundime">
 <!ENTITY moveButton.label            "Kaloje Te">
 <!ENTITY moveButton.accesskey        "T">
-<!ENTITY closeCmd.key                "W"> 
+<!ENTITY closeCmd.key                "W">
 <!ENTITY openInFolder.label          "Hape në Dosje">
 <!ENTITY openInFolder.accesskey      "H">
 <!ENTITY saveAsVFButton.label        "Ruaje si Dosje Kërkimi">
@@ -35,46 +35,3 @@
 <!ENTITY deleteCardButton.label      "Fshije">
 <!ENTITY deleteCardButton.accesskey  "F">
 <!ENTITY abSearchDialogTitle.label   "Kërkim i Mëtejshëm në Libër Adresash">
-
-<!-- Thread Pane -->
-<!ENTITY threadColumn.label "Rrjedhë">
-<!ENTITY fromColumn.label "Nga">
-<!ENTITY recipientColumn.label "Marrës">
-<!ENTITY correspondentColumn.label "Korrespondentë">
-<!ENTITY subjectColumn.label "Subjekt">
-<!ENTITY dateColumn.label "Datë">
-<!ENTITY priorityColumn.label "Përparësi">
-<!ENTITY tagsColumn.label "Etiketa">
-<!ENTITY accountColumn.label "Llogari">
-<!ENTITY statusColumn.label "Gjendje">
-<!ENTITY sizeColumn.label "Madhësi">
-<!ENTITY junkStatusColumn.label "Gjendje e Pavlerë">
-<!ENTITY unreadColumn.label "Të palexuar">
-<!ENTITY totalColumn.label "Gjithsej">
-<!ENTITY readColumn.label "Lexuar">
-<!ENTITY receivedColumn.label "Marrë më">
-<!ENTITY starredColumn.label "Me yllkë">
-<!ENTITY locationColumn.label "Vendndodhje">
-<!ENTITY idColumn.label "Rend sipas Mbërritjes">
-
-<!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser2.tooltip "Përzgjidhni shtylla që të shfaqen">
-<!ENTITY threadColumn2.tooltip "Shfaq rrjedha mesazhesh">
-<!ENTITY fromColumn2.tooltip "Renditi sipas nga-ve">
-<!ENTITY recipientColumn2.tooltip "Renditi sipas marrësish">
-<!ENTITY correspondentColumn2.tooltip "Renditi sipas korrespondentësh">
-<!ENTITY subjectColumn2.tooltip "Renditi sipas subjektesh">
-<!ENTITY dateColumn2.tooltip "Renditi sipas datash">
-<!ENTITY priorityColumn2.tooltip "Renditi sipas përparësish">
-<!ENTITY tagsColumn2.tooltip "Renditi sipas etiketash">
-<!ENTITY accountColumn2.tooltip "Renditi sipas llogarish">
-<!ENTITY statusColumn2.tooltip "Renditi sipas gjendjesh">
-<!ENTITY sizeColumn2.tooltip "Renditi sipas madhësish">
-<!ENTITY junkStatusColumn2.tooltip "Renditi sipas gjendjes hedhurinë">
-<!ENTITY unreadColumn2.tooltip "Numër mesazhesh të palexuara në rrjedhë">
-<!ENTITY totalColumn2.tooltip "Numër mesazhesh gjithsej në rrjedhë">
-<!ENTITY readColumn2.tooltip "Renditi sipas të lexuarish">
-<!ENTITY receivedColumn2.tooltip "Renditi sipas datash marrjeje">
-<!ENTITY starredColumn2.tooltip "Renditi sipas yjesh">
-<!ENTITY locationColumn2.tooltip "Renditi sipas vendndodhjesh">
-<!ENTITY idColumn2.tooltip "Renditi sipas radhe marrjeje">
