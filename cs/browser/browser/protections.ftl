@@ -22,9 +22,9 @@ graph-week-summary =
 graph-total-tracker-summary =
     Od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     { $count ->
-        [one] byl zablokován <b>jeden</b> sledující prvek
-        [few] byly zablokovány <b>{ $count }</b> sledující prvky
-       *[other] bylo zalokováno <b>{ $count }</b> sledujících prvků
+        [one] byl zablokován <b>jeden</b> sledovací prvek
+        [few] byly zablokovány <b>{ $count }</b> sledovací prvky
+       *[other] bylo zalokováno <b>{ $count }</b> sledovacích prvků
     }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -35,14 +35,14 @@ protection-header-details-custom = Nastavena <b>vlastní</b> úroveň ochrany
 protection-report-page-title = Ochrana soukromí
 protection-report-content-title = Ochrana soukromí
 etp-card-title = Rozšířená ochrana proti sledování
-etp-card-content = Sledující prvky sbírají informace, co a kde na internetu děláte, jaké máte návyky a co vás zajímá. { -brand-short-name } blokuje mnoho takových prvků i dalších škodlivých skriptů.
+etp-card-content = Sledovací prvky sbírají informace, co a kde na internetu děláte, jaké máte návyky a co vás zajímá. { -brand-short-name } blokuje mnoho takových prvků i dalších škodlivých skriptů.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Dnes
 # This string is used to describe the graph for screenreader users.
-graph-legend-description = Graf s celkovým počtem všech typů sledujících prvků, které byly tento týden zablokovány.
+graph-legend-description = Graf s celkovým počtem všech typů sledovacích prvků, které byly tento týden zablokovány.
 social-tab-title = Sledující prvky sociálních sítí
-social-tab-contant = Sociální sítě umisťují na ostatní stránky sledující prvky, pomocí kterých mohou zjistit, co na internetu sledujete. Tím získávají informace o vašich zájmech i bez toho, abyste na dané sítí něco sdíleli s ostatními. <a data-l10n-name="learn-more-link">Zjistit více</a>
+social-tab-contant = Sociální sítě umisťují na ostatní stránky sledovací prvky, pomocí kterých mohou zjistit, co na internetu sledujete. Tím získávají informace o vašich zájmech i bez toho, abyste na dané sítí něco sdíleli s ostatními. <a data-l10n-name="learn-more-link">Zjistit více</a>
 cookie-tab-title = Sledovací cookies
 cookie-tab-content = Tyto cookies slouží k vašemu sledování napříč webovými stránkami a sběru dat o tom, co na internetu děláte. Používají je třetí strany jako jsou reklamní systémy nebo analytické společnosti. Blokování sledovacích cookies třetích stran omezí množství reklam, které o vás vědí příliš mnoho podrobností. <a data-l10n-name="learn-more-link">Zjistit více</a>
 tracker-tab-title = Sledující obsah
