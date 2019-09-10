@@ -84,10 +84,34 @@ cfr-whatsnew-button =
     .label = Ce este nou
     .tooltiptext = Ce este nou
 cfr-whatsnew-panel-header = Ce este nou
+cfr-whatsnew-release-notes-link-text = Citește notele de lansare
+cfr-whatsnew-fx70-title = { -brand-short-name } acum luptă și mai mult pentru intimitatea ta
+cfr-whatsnew-fx70-body = Ultima actualizare sporește funcția de Protecție împotriva urmării și face mai ușoară ca niciodată crearea de parole securizate pentru fiecare site.
+cfr-whatsnew-tracking-protect-title = Protejează-te împotriva elementelor de urmărire
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } blochează multe elemente frecvente de urmărire pe site-urile de socializare și de urmărire încrucișată care îți urmăresc acțiunile online.
+cfr-whatsnew-tracking-protect-link-text = Vezi raportul
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] element de urmărire blocat
+        [few] elemente de urmărire blocate
+       *[other] de elemente de urmărire blocate
+    }
+cfr-whatsnew-tracking-blocked-subtitle = De la { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Vezi raportul
+cfr-whatsnew-lockwise-backup-title = Creează o copie de siguranță cu parolele
+cfr-whatsnew-lockwise-backup-body = Acum generează parole securizate pe care le poți accesa de oriunde te conectezi.
+cfr-whatsnew-lockwise-backup-link-text = Activează crearea de copii de siguranță
+cfr-whatsnew-lockwise-take-title = Ia-ți parolele cu tine
+cfr-whatsnew-lockwise-take-body = Aplicația pentru dispozitive mobile { -lockwise-brand-short-name } îți permite să îți accesezi în siguranță parolele din copia de siguranță oriunde te-ai afla.
+cfr-whatsnew-lockwise-take-link-text = Obține aplicația
 
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Obține acest marcaj pe telefon
+cfr-doorhanger-sync-bookmarks-body = Ia cu tine marcajele, parolele, istoricul și multe altele oriunde te conectezi la { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Activează  { -sync-brand-short-name }
     .accesskey = T
 
@@ -100,8 +124,15 @@ cfr-doorhanger-sync-logins-ok-button = Activează { -sync-brand-short-name }
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Citește din mers
+cfr-doorhanger-send-tab-recipe-header = Du această rețetă în bucătărie
+cfr-doorhanger-send-tab-body = Send Tabs îți permite să partajezi ușor acest link pe telefon sau oriunde te conectezi la { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Încearcă Send Tab
+    .accesskey = T
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Partajează în siguranță acest PDF
+cfr-doorhanger-firefox-send-body = Păstrează-ți documentele sensibile în siguranță și protejate de ochii indiscreți cu o criptare end-to-end și un link ce dispare când ai terminat.
 cfr-doorhanger-firefox-send-ok-button = Încearcă { -send-brand-name }
     .accesskey = T
