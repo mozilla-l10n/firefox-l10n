@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Vrstica z menijem">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Vrstica za brskanje">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Navigacija">
 <!ENTITY personalbarCmd.label "Vrstica zaznamkov">
 <!ENTITY personalbarCmd.accesskey "Z">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Zaznamki">
 <!ENTITY bookmarksToolbarItem.label "Predmeti orodne vrstice z zaznamki">
 
 <!ENTITY pageSourceCmd.label "Izvorna koda strani">
 <!ENTITY pageSourceCmd.accesskey "v">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Podatki o strani">
 <!ENTITY pageInfoCmd.accesskey "I">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Razhroščevalnik postavitve">
 <!ENTITY ldbCmd.accesskey "P">
@@ -116,6 +126,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Znova poveži s &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Potrdite svoj račun">
 
+
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Skrči">
 <!ENTITY fullScreenRestore.tooltip "V običajen način">
@@ -145,6 +158,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Prijavljen kot">
 <!ENTITY fxa.menu.manageAccount.label "Upravljanje računa …">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "Nastavitve &syncBrand.shortName.label;a …">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Poveži drugo napravo …">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -195,6 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Zaznamki">
 <!ENTITY bookmarksMenu.accesskey "Z">
+
 <!ENTITY bookmarkThisPageCmd.label "Dodaj stran med zaznamke">
 <!ENTITY editThisBookmarkCmd.label "Uredi ta zaznamek">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -510,6 +528,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Iskalna poizvedba">
+
 <!ENTITY contentSearchSubmit.tooltip  "Začni iskati">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -985,6 +1004,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Prijavite težave">
 <!ENTITY contentBlocking.breakageReportView2.description "Zavračanje vsebine lahko povzroči težave z nekaterimi spletnimi stranmi. S prijavo težav pomagate izboljšati &brandShortName; za vse uporabnike. (Mozilli bo poslan naslov spletne strani, kot tudi informacije o nastavitvah vašega brskalnika.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Več o tem">
+
 <!ENTITY contentBlocking.breakageReportView.title "Prijavi nedelujočo stran">
 <!ENTITY contentBlocking.breakageReportView3.description "Zavračanje določenih sledilcev lahko povzroči težave z nekaterimi spletnimi stranmi. S prijavo težav pomagate izboljšati &brandShortName; za vse uporabnike. Mozilli bo poslan naslov spletne strani, kot tudi informacije o nastavitvah vašega brskalnika.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Več o tem">
@@ -1040,6 +1060,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "n">
 
 <!ENTITY homepageControlled.message "Razširitev je zamenjala vašo domačo stran. Če te spremembe ne želite, obnovite nastavitve.">
+
 <!ENTITY homepageControlled.header.message "Domača stran se je spremenila.">
 <!ENTITY homepageControlled.keepButton.label "Ohrani spremembe">
 <!ENTITY homepageControlled.keepButton.accesskey "h">
