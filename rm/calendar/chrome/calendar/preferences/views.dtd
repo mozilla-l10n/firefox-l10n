@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "General">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Vistas da di ed emna">
 <!ENTITY pref.calendar.view.multiweekview.caption "Vista da pliras emnas">
 <!ENTITY pref.calendar.view.workweek.caption "Emna da lavur">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Mussar il number da l'emna en vistas e mini-mais">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "v">
 <!ENTITY pref.daysoff.label "Includer quests dis en l'emna da lavur:">
+
+<!ENTITY pref.workweekDays.label "Lavurdis:">
 
 <!ENTITY pref.calendar.view.daystart.label "Il di cumenza las:">
 <!ENTITY pref.calendar.view.daystart.accesskey "d">
