@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "C">
 <!ENTITY folderPaneBar.label "Trav d'utensils da la panela d'ordinaturs">
 <!ENTITY folderPaneBar.accesskey "e">
-<!ENTITY folderModeSelector.label "Vistas dad ordinaturs">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Zavrar tenor">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Archivar il messadi tschernì">
 <!ENTITY archiveButton.tooltip "Archivar ils messadis tschernids">
 <!ENTITY openConversationButton.tooltip "Mussar la conversaziun dal messadi tschernì">
+<!ENTITY openMsgConversationButton.tooltip "Mussar la conversaziun dal messadi tschernì">
 <!ENTITY nextButton.tooltip "Ir al proxim messadi nunlegì">
 <!ENTITY nextMsgButton.tooltip "Ir al proxim messadi">
 <!ENTITY previousButton.tooltip "Ir al messadi nunlegì precedent">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "(De)etichettar ils messadis">
 <!ENTITY compactButton.tooltip "Eliminar definitivamain ils messadis stizzads da l'ordinatur tschernì">
 <!ENTITY appmenuButton1.tooltip "Mussar il menu da &brandShortName;">
-
 <!ENTITY addonsButton.tooltip "Administrar ils supplements">
 
 <!-- Toolbar Button Popup -->
@@ -707,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Memorisar sco ordinatur virtual…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Tscherner ils messadis">
 <!ENTITY threadColumn.label "Tema">
 <!ENTITY fromColumn.label "Da">
 <!ENTITY recipientColumn.label "Destinatur">
@@ -730,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Tscherner las colonnas che duain vegnir mussadas">
+<!ENTITY selectColumn.tooltip "(De)selecziunar tut ils messadis">
 <!ENTITY threadColumn2.tooltip "Mussar gruppà tenor tema">
 <!ENTITY fromColumn2.tooltip "Zavrar tenor speditur">
 <!ENTITY recipientColumn2.tooltip "Zavrar tenor destinatur">

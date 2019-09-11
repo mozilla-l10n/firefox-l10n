@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "m">
 <!ENTITY viewSecurityDevices.label "Moduls da criptadi">
 <!ENTITY viewSecurityDevices.accesskey "c">
+
+<!ENTITY manageCertificates2.label "Administrar ils certificats…">
+<!ENTITY manageCertificates2.accesskey "A">
+<!ENTITY viewSecurityDevices2.label "Apparats da segirezza…">
+<!ENTITY viewSecurityDevices2.accesskey "s">

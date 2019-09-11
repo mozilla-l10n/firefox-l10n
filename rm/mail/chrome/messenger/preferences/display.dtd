@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Leger">
 <!ENTITY display.caption                  "Mussar">
+<!ENTITY displayName.label                "Num mussà:">
 <!ENTITY showCondensedAddresses.label     "Mo mussar il 'Num per mussar' per persunas en mes cudeschet d'adressas">
 <!ENTITY showCondensedAddresses.accesskey "M">
 
