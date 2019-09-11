@@ -6,8 +6,8 @@
 <!ENTITY calendar.calendar.label     "Agenda">
 <!ENTITY calendar.calendar.accesskey "A">
 
-<!ENTITY calendar.newevent.button.tooltip         "Criar um novo evento" >
-<!ENTITY calendar.newtask.button.tooltip          "Criar uma nova tarefa" >
+<!ENTITY calendar.newevent.button.tooltip         "Criar novo evento" >
+<!ENTITY calendar.newtask.button.tooltip          "Criar nova tarefa" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tarefas" >
 
@@ -102,7 +102,7 @@
 <!ENTITY calendar.completedtasks.checkbox.label     "Exibir tarefas concluídas" >
 <!ENTITY calendar.completedtasks.checkbox.accesskey "c" >
 
-<!ENTITY calendar.orientation.label "Girar visualização" >
+<!ENTITY calendar.orientation.label "Alternar visão" >
 <!ENTITY calendar.orientation.accesskey "G" >
 
 <!ENTITY calendar.search.options.searchfor " contém">
@@ -392,7 +392,7 @@
 <!ENTITY calendar.print.custom.label "Período personalizado:">
 <!ENTITY calendar.print.from.label "De:">
 <!ENTITY calendar.print.to.label "Até:">
-<!ENTITY calendar.print.settingsGroup.label "Configurações de impressão">
+<!ENTITY calendar.print.settingsGroup.label "Configuração de impressão">
 <!ENTITY calendar.print.optionsGroup.label "Opções">
 <!ENTITY calendar.print.taskswithnoduedate.label "Tarefas sem data de vencimento">
 <!ENTITY calendar.print.completedtasks.label "Tarefas concluídas">

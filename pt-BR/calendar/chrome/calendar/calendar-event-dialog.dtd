@@ -91,7 +91,7 @@
 
 <!ENTITY  event.menu.item.delete.label                    "Excluir…">
 <!ENTITY  event.menu.item.delete.accesskey                "E">
-<!ENTITY  event.menu.item.page.setup.label                "Configurações de página">
+<!ENTITY  event.menu.item.page.setup.label                "Configuração de página">
 <!ENTITY  event.menu.item.page.setup.accesskey            "C">
 <!ENTITY  event.menu.item.print.label                     "Imprimir">
 <!ENTITY  event.menu.item.print.accesskey                 "I">

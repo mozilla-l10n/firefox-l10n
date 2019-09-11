@@ -7,7 +7,7 @@
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
 
-<!ENTITY pref.mainbox.label "Configurações gerais" >
+<!ENTITY pref.mainbox.label "Configuração geral" >
 
 <!ENTITY pref.dateformat.label "Formato de data:" >
 <!ENTITY pref.dateformat.accesskey "F">

@@ -12,7 +12,7 @@
 <!ENTITY lightning.toolbar.delete.label "Excluir">
 <!ENTITY lightning.toolbar.delete.tooltip "Excluir eventos ou tarefas selecionadas">
 <!ENTITY lightning.toolbar.edit.label "Editar">
-<!ENTITY lightning.toolbar.edit.tooltip "Excluir evento ou tarefa selecionada">
+<!ENTITY lightning.toolbar.edit.tooltip "Editar evento ou tarefa selecionada">
 <!ENTITY lightning.toolbar.gototoday.label "Ir para hoje">
 <!ENTITY lightning.toolbar.gototoday.tooltip "Ir para hoje">
 <!ENTITY lightning.toolbar.print.label "Imprimir">
@@ -28,9 +28,9 @@
 
 <!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Evento">
-<!ENTITY lightning.toolbar.newevent.tooltip   "Cria um novo evento">
+<!ENTITY lightning.toolbar.newevent.tooltip   "Criar novo evento">
 <!ENTITY lightning.toolbar.newtask.label      "Tarefa">
-<!ENTITY lightning.toolbar.newtask.tooltip    "Cria uma nova tarefa">
+<!ENTITY lightning.toolbar.newtask.tooltip    "Criar nova tarefa">
 
 <!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Dia">
