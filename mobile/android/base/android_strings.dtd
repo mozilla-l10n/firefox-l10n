@@ -34,6 +34,10 @@
 <!ENTITY firstrun_button_notnow "Ara no">
 <!ENTITY firstrun_button_next "Següent">
 
+<!ENTITY firstrun_signin_button2 "Inicia la sessió">
+
+<!ENTITY firstrun_signup_button "Registre">
+
 <!ENTITY firstrun_tabqueue_title "Enllaços">
 
 <!ENTITY firstrun_readerview_title "Articles">
@@ -595,7 +599,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Ubicació">
 <!ENTITY bookmark_edit_keyword "Paraula clau">
 <!ENTITY bookmark_select_folder "Trieu una carpeta">
-
 <!ENTITY bookmark_edit_undo "Desfés">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -875,6 +878,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Disponible fora de línia">
 <!ENTITY helper_triple_readerview_open_message "Afegiu elements de la llista de lectura a les adreces d\&apos;interès per llegir-los fora de línia.">
 <!ENTITY helper_triple_readerview_open_button "Afegeix a les adreces d\&apos;interès">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "Us donem la benvinguda al &brandShortName;">
+<!ENTITY activity_stream_signin_description "Comenceu a sincronitzar les adreces d\&apos;interès, les contrasenyes i molt més amb el vostre compte del Firefox.">
+<!ENTITY activity_stream_signin_button "Inicia la sessió">
+
+<!ENTITY activity_stream_signup_button "Registre">
+<!ENTITY activity_stream_signin_prompt "Ja teniu un compte?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Inicieu la sessió.">
 
 <!ENTITY activity_stream_topsites "Llocs principals">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
