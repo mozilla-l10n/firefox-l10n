@@ -35,6 +35,8 @@ app-basics-name = Nom
 app-basics-version = Version
 app-basics-build-id = Identifiant de compilation
 app-basics-update-channel = Canal de mise à jour
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Répertoire pour les mises à jour
@@ -59,7 +61,6 @@ app-basics-service-workers = Service workers inscrits
 app-basics-profiles = Profils
 app-basics-launcher-process-status = Processus de lancement
 app-basics-multi-process-support = Fenêtres multiprocessus
-app-basics-process-count = Processus de contenu web
 app-basics-remote-processes-count = Processus distants
 app-basics-enterprise-policies = Stratégies d’entreprise
 app-basics-location-service-key-google = Clé du service de localisation de Google
@@ -115,6 +116,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = Essayez en mode sans échec
 restart-in-safe-mode-label = Redémarrer avec les modules désactivés…
+
+## Media titles
+
+audio-backend = Backend audio
+max-audio-channels = Nombre maximum de canaux
+channel-layout = Mode de canal préféré
+sample-rate = Fréquence d’échantillonnage préférée
 media-title = Multimédia
 media-output-devices-title = Périphériques de sortie
 media-input-devices-title = Périphériques d’entrée
@@ -127,6 +135,12 @@ media-device-format = Format
 media-device-channels = Canaux
 media-device-rate = Fréquence
 media-device-latency = Latence
+media-capabilities-title = Capacités média
+# List all the entries of the database.
+media-capabilities-enumerate = Parcourir la base de données
+
+
+
 intl-title = Langue et internationalisation
 intl-app-title = Paramètres d’application
 intl-locales-requested = Langues demandées
@@ -241,12 +255,7 @@ uses-tiling = Utilise le pavage
 content-uses-tiling = Utilise le pavage (contenu)
 off-main-thread-paint-enabled = Painting en dehors du fil d’exécution principal activé
 off-main-thread-paint-worker-count = Nombre de workers participant au painting en dehors du fil d’exécution principal
-low-end-machine = Machine peu performante détectée
 target-frame-rate = Fréquence d’images cible
-audio-backend = Backend audio
-max-audio-channels = Nombre maximum de canaux
-channel-layout = Mode de canal préféré
-sample-rate = Fréquence d’échantillonnage préférée
 min-lib-versions = Version minimale attendue
 loaded-lib-versions = Version utilisée
 has-seccomp-bpf = Seccomp-BPF (Filtrage des appels système)

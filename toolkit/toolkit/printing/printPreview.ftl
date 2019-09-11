@@ -33,6 +33,7 @@ printpreview-of =
     .value = sur
 printpreview-custom-prompt =
     .value = Échelle personnalisée…
+printpreview-custom-scale-prompt-title = Échelle personnalisée
 printpreview-page-setup =
     .label = Mise en page…
     .accesskey = i
