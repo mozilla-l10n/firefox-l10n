@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY header.label     "Título abreviado"> 
- 
+<!ENTITY editfield0.label "Sɨvu ñɨvu:"> 
  
 <!ENTITY copyCmd.label    "Tɨɨn">
 <!ENTITY copyCmd.accesskey "C">
