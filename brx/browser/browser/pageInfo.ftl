@@ -33,6 +33,8 @@ general-referrer =
     .value = URL खौ मखनानै:
 general-modified =
     .value = महर सोलायबाय:
+general-encoding =
+    .value = फराय बिजाब एनक'डिं:
 general-meta-name =
     .label = मुं
 general-meta-content =
@@ -110,6 +112,9 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = नंगौ, कुकिज आरो { $value } { $unit } नि साइट दाटा
+security-site-data-only = नंगौ, { $value } { $unit } नि साइट दाटा
+security-site-data-cookies-only = नंगौ, कुकिज
 security-site-data-no = नङा
 image-size-unknown = मोनथिमोनै
 not-set-verified-by = थि खालामै
