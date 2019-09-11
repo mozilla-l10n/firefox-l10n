@@ -20,6 +20,7 @@ category-home =
 pane-search-title = नागिर
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = गुमुरथि आरो रैखाथि
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title2 = { -sync-brand-short-name }
@@ -93,6 +94,10 @@ containers-disable-alert-cancel-button = हाहोनाय खालाम�
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = राव आरो नुजाथिनाय
+fonts-and-colors-header = फन्टफोर आरो गाबफोर
+default-font = डिफल्ट फन्ट
+    .accesskey = D
 default-font-size = महर
     .accesskey = S
 advanced-fonts =
