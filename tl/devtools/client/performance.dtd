@@ -13,6 +13,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
+<!ENTITY performanceUI.bufferStatusTooltip "Ang profiler ay nag-iimbak ng mga sample sa circular buffer, at kapag napuno na ang buffer sa isang recording, mao-overwrite na ng mga bagong sample ang nasa simula ng recording.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
