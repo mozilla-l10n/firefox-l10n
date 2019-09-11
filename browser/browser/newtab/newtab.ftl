@@ -116,6 +116,7 @@ newtab-menu-open-file = افتح الملف
 
 newtab-label-visited = مُزارة
 newtab-label-bookmarked = معلّمة
+newtab-label-removed-bookmark = أُزيلت العلامة
 newtab-label-recommended = مُتداول
 newtab-label-saved = حُفِظت في { -pocket-brand-name }
 newtab-label-download = نُزّل

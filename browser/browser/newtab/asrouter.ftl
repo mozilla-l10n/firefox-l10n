@@ -80,6 +80,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = تصفّح ولا أحد ورائك
+cfr-protections-panel-body = لتعبّر الكاف في ”بياناتك“ عنك أنت. يحميك { -brand-short-name } من عديد من المتعقّبات المعروفة والتي تريد معرفة ما تفعله في المواقع.
 cfr-protections-panel-link-text = اطّلع على المزيد
 
 ## What's New toolbar button and panel
@@ -89,16 +90,25 @@ cfr-whatsnew-button =
     .tooltiptext = ما الجديد
 cfr-whatsnew-panel-header = ما الجديد
 cfr-whatsnew-release-notes-link-text = اقرأ ملاحظات الإصدار
+cfr-whatsnew-fx70-title = الآن، يكافح { -brand-short-name } أكثر فأكثر لحماية خصوصيتك
 cfr-whatsnew-tracking-protect-title = احمِ نفسك من خطر المتعقّبات
 cfr-whatsnew-tracking-protect-body =
     يحجب { -brand-short-name } عددًا من المتعقّبات الاجتماعية والمتعقّبات بين المواقع،
     متعقّبات هدفها معرفة ما تفعله في المواقع.
+cfr-whatsnew-tracking-blocked-link-text = اعرض التقرير
+cfr-whatsnew-lockwise-backup-title = انسخ كلمات السر احتياطيًا
+cfr-whatsnew-lockwise-take-link-text = نزّل التطبيق
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-body = خُذ معك علاماتك وكلمات السر والتأريخ وغيرها الكثير في أيّ مكان تلج فيه إلى { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = فعّل { -sync-brand-short-name }
+    .accesskey = ف
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-ok-button = فعّل { -sync-brand-short-name }
+    .accesskey = ف
 
 ## Send Tab
 
