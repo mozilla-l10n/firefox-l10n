@@ -69,8 +69,11 @@ serviceworker-empty-suggestions-debugger = Camu drwy gofrestriad eich Gweithiwr 
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Archwilio'r Gweithwyr Gwasanaeth o barthau eraill. <a>Agor about:debugging</a>
-# Header for the view of Manifest displayed in the application panel for the current page.
+# Header for the Manifest page when we have an actual manifest
 manifest-view-header = Maniffest Ap
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Mae angen ychwanegu Maniffest ap gwe i'w archwilio yma. <a>Dysgu rhagor</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Gwallau a Rhybuddion
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -87,6 +90,14 @@ manifest-loaded-ok = Manifest wedi'i lwytho.
 manifest-loaded-error = Bu gwall wrth lwytho'r maniffest:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Heb ganfod maniffest i'w arolygu
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Maniffest
+    .alt = Eicon Maniffest
+    .title = Maniffest
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Gweithwyr Gwasanaeth
+    .alt = Eicon Gweithwyr Gwasanaeth
+    .title = Gweithwyr Gwasanaeth
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Eicon rhybuddio
