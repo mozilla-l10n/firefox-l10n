@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Menubalke">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Navigaasje-arkbalke">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Navigaasje">
 <!ENTITY personalbarCmd.label "Blêdwizerarkbalke">
 <!ENTITY personalbarCmd.accesskey "B">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Blêdwizers">
 <!ENTITY bookmarksToolbarItem.label "Blêdwizerarkbalke-ûnderdiel">
 
 <!ENTITY pageSourceCmd.label "Sideboarne">
 <!ENTITY pageSourceCmd.accesskey "r">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Side-ynfo">
 <!ENTITY pageInfoCmd.accesskey "f">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Layout Debugger">
 <!ENTITY ldbCmd.accesskey "L">
@@ -116,6 +126,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Opnij ferbine mei &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Jo account ferifiearje">
 
+
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalisearje">
 <!ENTITY fullScreenRestore.tooltip "Werom bringe">
@@ -145,6 +158,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Oanmeld as">
 <!ENTITY fxa.menu.manageAccount.label "Account beheare…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;-ynstellingen…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "In oar apparaat ferbine…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -195,6 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Blêdwizers">
 <!ENTITY bookmarksMenu.accesskey "D">
+
 <!ENTITY bookmarkThisPageCmd.label "Blêdwizer foar dizze side meitsje">
 <!ENTITY editThisBookmarkCmd.label "Dizze blêdwizer bewurkje">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -510,6 +528,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Sykterm">
+
 <!ENTITY contentSearchSubmit.tooltip  "Sykopdracht ferstjoere">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -814,8 +833,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Ferbining">
 <!ENTITY identity.connectionSecure "Befeilige ferbining">
-
-<!ENTITY identity.connectionSecure2 "Ferbining feilich">
 <!ENTITY identity.connectionNotSecure "Ferbining is net befeilige">
 
 <!ENTITY identity.connectionSecure3 "Ferbining befeilige">
@@ -828,8 +845,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Dizze side is laden fan in útwreiding út.">
 <!ENTITY identity.insecureLoginForms2 "Ynfierde oanmeldingen op dizze side soene oernommen wurde kinne.">
 <!ENTITY identity.customRoot "Ferbining ferifiearre troch in sertifikaatútjouwer dy't net troch Mozilla werkend wurdt.">
-
-<!ENTITY identity.evOwnerLabel "Website beheard troch:">
 
 <!ENTITY identity.evOwnerLabel2 "Sertifikaat útjûn oan:">
 
@@ -867,9 +882,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Tastimmingen">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Tastimmingen ynsteld">
-
 <!ENTITY identity.permissions3 "Tastimmingen">
 <!ENTITY identity.permissionsEmpty "Jo hawwe dizze website gjin spesjale tastimmingen jûn.">
 <!ENTITY identity.permissionsReloadHint "It is mooglik dat jo de side opnij lade moatte om de wizigingen aktyf te meitsjen.">
@@ -883,7 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Mear ynformaasje oer Ferbettere beskerming tsjin folgjen">
 <!ENTITY protections.settings.label "Beskermingsynstellingen">
-<!ENTITY protections.report.label "Folslein rapport toane">
 <!ENTITY protections.showreport.label "Rapport toane">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -901,7 +912,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Betellingen">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Opmerkingen">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Fideo's">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Wurket de website nei útskeakeljen beskermingen noch hieltyd net?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Rapport ferstjoere">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -929,7 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Dizze cookies folgje jo fan website nei website om gegevens oer wat jo online dogge te sammeljen. Se wurde pleatst troch tredden, lykas advertinsjeburo's en analysebedriuwen.">
 <!ENTITY protections.cryptominers.description "Cryptominers brûke de rekkenkrêft fan jo systeem om digitale faluta te generearjen. Cryptominer-scripts lûke jo batterij leech, fertraagje jo kompjûter en kinne jo enerzjyrekkening omheech jeie.">
 <!ENTITY protections.fingerprinters.description "Fingerprinters sammelje ynstellingen fan jo browser en kompjûter om in profyl fan jo te meitsjen. Mei help fan dizze digitale fingerôfdruk kinne se jo op ferskate websites folgje.">
-<!ENTITY protections.trackingContent.description "Websites kinne eksterne advertinsjes, fideo’s en oare ynhâld lade dy't folchkoade befettet. It blokkearjen fan folchynhâld kin websites helpe flugger te laden, mar guon knoppen, formulieren en oanmeldfjilden wurkje mooglik net.">
 <!ENTITY protections.trackingContent2.description "Websites kinne eksterne advertinsjes, fideo’s en oare ynhâld lade mei folchkoade. It blokkearjen fan folchynhâld kin websites helpe flugger te laden, mar guon knoppen, formulieren en oanmeldfjilden wurkje mooglik net.">
 <!ENTITY protections.socialMediaTrackers.description "Sosjale netwurken pleatse trackers op oare websites om te folgjen wat jo online dogge en besjogge. Hjirtroch kinne sosjale-mediabedriuwen mear oer jo leare dan wat jo diele op jo sosjale-mediaprofilen.">
 
@@ -996,6 +1005,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Problemen rapportearje">
 <!ENTITY contentBlocking.breakageReportView2.description "Ynhâldsblokkearring kin problemen mei bepaalde websites feroarsaakje. As jo problemen rapportearje, helpe jo &brandShortName; foar elkenien te ferbetterjen. (Hjirtroch wurdt sawol in URL as ynformaasje oer jo browserynstellingen nei Mozilla ferstjoerd.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Mear ynfo">
+
 <!ENTITY contentBlocking.breakageReportView.title "Net-wurkjende website melde">
 <!ENTITY contentBlocking.breakageReportView3.description "It blokkearjen fan bepaalde trackers kin problemen mei bepaalde websites feroarsaakje. Troch dizze problemen te melden, helpe jo &brandShortName; foar elkenien te ferbetterjen. As jo dit rapport ferstjoere, wurdt sawol in URL as ynformaasje oer jo browserynstellingen nei Mozilla ferstjoerd.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Mear ynfo">
@@ -1051,6 +1061,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "U">
 
 <!ENTITY homepageControlled.message "In útwreiding hat in wiziging makke yn wat jo sjogge as jo startside. As jo dizze wiziging net wolle, kinne jo jo ynstellingen weromsette.">
+
 <!ENTITY homepageControlled.header.message "Jo startside is wizige.">
 <!ENTITY homepageControlled.keepButton.label "Wizigingen bewarje">
 <!ENTITY homepageControlled.keepButton.accesskey "W">
