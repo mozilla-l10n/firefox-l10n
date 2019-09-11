@@ -306,7 +306,7 @@
 <!ENTITY anchorToolbarCmd.tooltip "Inserir ina nova ancra cun num u modifitgar las caracteristicas da l'ancra selecziunada">
 <!ENTITY TextColorButton.tooltip "Tscherner ina colur per il text">
 <!ENTITY BackgroundColorButton.tooltip "Tscherner ina colur per il fund davos">
-<!ENTITY throbber.tooltip "Visitar la pagina d'internet da &vendorShortName;">
+<!ENTITY throbber.tooltip2 "Visitar la pagina iniziala da &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Tscherner ina colur per text relevà">
 
 <!-- Editor toolbar -->

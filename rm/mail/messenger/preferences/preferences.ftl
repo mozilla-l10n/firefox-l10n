@@ -2,6 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pane-general-title = General
+category-general =
+    .tooltiptext = { pane-general-title }
+general-language-and-appearance-header = Lingua & apparientscha
+general-incoming-mail-header = E-mails che entran
+general-files-and-attachment-header = Datotecas & agiuntas
+general-tags-header = Etichettas
+general-reading-and-display-header = Lectura & visualisaziun
+general-updates-header = Actualisaziuns
+general-network-and-diskspace-header = Rait & capacitad da memorisar
+general-indexing-label = Indexar
+composition-category-header = Scriver
+composition-attachments-header = Agiuntas
+composition-spelling-title = Ortografia
+compose-html-style-title = Stil HTML
+composition-addressing-header = Adressar
+privacy-main-header = Protecziun da datas
+privacy-passwords-header = Pleds-clav
+privacy-junk-header = Nungiavischà
+privacy-data-collection-header = Rimnada ed utilisaziun da datas
+privacy-security-header = Segirezza
+privacy-scam-detection-title = Chattar engions
+privacy-anti-virus-title = Antivirus
+privacy-certificates-title = Certificats
+chat-pane-header = Chat
+chat-status-title = Status
+chat-notifications-title = Communicaziuns
+chat-pane-styling-header = Stils
 choose-messenger-language-description = Tscherna la lingua da menus, messadis ed avis da { -brand-short-name }.
 manage-messenger-languages-button =
     .label = Tscherner las alternativas…
