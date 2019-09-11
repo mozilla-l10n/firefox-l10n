@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Preferenzas generalas" >
+
 <!ENTITY pref.dateformat.label "Format per data e temp:" >
 <!ENTITY pref.dateformat.accesskey "d">
 <!ENTITY pref.dateformat.long "Lung" >
@@ -24,6 +25,9 @@
 <!ENTITY pref.default_event_length.label "Durada da standard:" >
 <!ENTITY pref.default_event_length.accesskey "t">
 
+<!ENTITY pref.default_event_task_length.label "Durada predefinida dad eveniments ed incumbensas">
+<!ENTITY pref.default_event_task_length.accesskey "e">
+
 <!ENTITY pref.default_task_none.label "Nagin">
 <!ENTITY pref.default_task_start_of_day.label "Cumenzament dal di">
 <!ENTITY pref.default_task_end_of_day.label "Fin dal di">
@@ -34,9 +38,6 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Relativamain a l'ura proxima">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Lastra dal di">
-<!ENTITY pref.soondays.label "La secziun «Proximamain» mussa:">
-<!ENTITY pref.soondays.accesskey "p">
-
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,
