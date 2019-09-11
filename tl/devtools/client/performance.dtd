@@ -36,10 +36,13 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "Waterfall">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Ipinapakita ang mga iba't-ibang operasyon na ginagawa ng browser habang nagre-record, nakalatag nang sunud-sunod bilang isang waterfall.">
 <!ENTITY performanceUI.toolbar.js-calltree "Call Tree">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Nagha-highlight ng mga JavaScript function kung saan pinakanagtagal ang browser habang nagre-record.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Allocations">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Ipinapakita kung saan nailaan ang memory noong recording.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Ipinapakita ang JavaScript call stack sa kabuuan ng recording.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Allocations Flame Chart">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
@@ -53,9 +56,11 @@
 <!ENTITY performanceUI.table.selfPercentage           "Self Cost">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "Ang porsyento ng panahong ginamit lang sa loob ng function na ito.">
 <!ENTITY performanceUI.table.samples                  "Mga halimbawa">
+<!ENTITY performanceUI.table.samples.tooltip          "Kung gaano kadalas ang function na ito ay nasa stack noong kumuha ng sample ang profiler.">
 <!ENTITY performanceUI.table.function                 "Function">
 <!ENTITY performanceUI.table.function.tooltip         "Ang pangalan at source location ng na-sample na function.">
 <!ENTITY performanceUI.table.totalAlloc               "Total Sampled Allocations">
+<!ENTITY performanceUI.table.totalAlloc.tooltip       "Ang kabuuang bilang ng mga Object allocation na na-sample sa lokasyon na ito at sa mga callee.">
 <!ENTITY performanceUI.table.selfAlloc                "Mga Self Sampled Allocation">
 <!ENTITY performanceUI.table.selfAlloc.tooltip        "Ang bilang ng mga Object allocation na sinample sa lokasyong ito.">
 
@@ -70,15 +75,18 @@
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 <!ENTITY performanceUI.invertTree             "Invert Call Tree">
+<!ENTITY performanceUI.invertTree.tooltiptext "Ang pagbaliktad sa call tree ay nagpapakita ng na-profile na mga call path simula sa mga pinakabagong frame papunta sa mga pinakalumang frame.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 <!ENTITY performanceUI.invertFlameGraph             "Invert Flame Chart">
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Ang pagbaliktad sa flame chart ay nagpapakita ng na-profile na mga call path simula sa mga pinakabagong frame papunta sa mga pinakalumang frame.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 <!ENTITY performanceUI.showPlatformData             "Ipakita ang Gecko Platform Data">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "Ang pagpapakita sa platform data ay nag-e-enable sa mga JavaScript Profiler report na magsama ng mga Gecko platform symbol.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
