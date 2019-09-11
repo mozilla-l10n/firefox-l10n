@@ -87,6 +87,10 @@ serviceworker-empty-suggestions-aboutdebugging = Inspicere service-workers fra a
 # Header for the view of Manifest displayed in the application panel for the current page.
 manifest-view-header = App-manifest
 
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Du skal tilføje et app-manifest for at kunne inspicere det her. <a>Læs mere</a>
+
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Fejl og advarsler
 
@@ -110,6 +114,16 @@ manifest-loaded-error = Der opstod en fejl under indlæsning af manifestet:
 
 # Text displayed when the page has no manifest available
 manifest-non-existing = Der blev ikke fundet noget manifest at inspicere.
+
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifest
+  .alt = Manifest-ikon
+  .title = Manifest
+
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Service-workers
+  .alt = Service-workers-ikon
+  .title = Service-workers
 
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
