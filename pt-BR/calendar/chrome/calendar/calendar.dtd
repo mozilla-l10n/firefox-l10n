@@ -21,7 +21,7 @@
 <!ENTITY calendar.events.filter.today.label "Eventos de hoje">
 <!ENTITY calendar.events.filter.future.label "Todos os eventos futuros">
 <!ENTITY calendar.events.filter.current.label "Dia selecionado">
-<!ENTITY calendar.events.filter.currentview.label "Eventos na visualização atual">
+<!ENTITY calendar.events.filter.currentview.label "Eventos na visão atual">
 <!ENTITY calendar.events.filter.next7Days.label "Eventos nos próximos 7 dias">
 <!ENTITY calendar.events.filter.next14Days.label "Eventos nos próximos 14 dias">
 <!ENTITY calendar.events.filter.next31Days.label "Eventos nos próximos 31 dias">
@@ -61,10 +61,10 @@
 <!ENTITY calendar.today.button.tooltip          "Vai para hoje" >
 <!ENTITY calendar.todaypane.button.tooltip      "Exibe painel hoje" >
 
-<!ENTITY calendar.day.button.tooltip            "Altera para visualização diária" >
-<!ENTITY calendar.week.button.tooltip           "Altera para visualização semanal" >
-<!ENTITY calendar.month.button.tooltip          "Altera para visualização mensal" >
-<!ENTITY calendar.multiweek.button.tooltip      "Altera para visualização multissemanal" >
+<!ENTITY calendar.day.button.tooltip            "Muda para visão do dia" >
+<!ENTITY calendar.week.button.tooltip           "Muda para visão da semana" >
+<!ENTITY calendar.month.button.tooltip          "Muda para visão do mês" >
+<!ENTITY calendar.multiweek.button.tooltip      "Muda para visão semanal" >
 
 <!ENTITY calendar.nextday.label                 "Próximo dia" >
 <!ENTITY calendar.prevday.label                 "Dia anterior" >
@@ -94,7 +94,7 @@
 <!ENTITY calendar.day.button.label              "Dia" >
 <!ENTITY calendar.week.button.label             "Semana" >
 <!ENTITY calendar.month.button.label            "Mês" >
-<!ENTITY calendar.multiweek.button.label        "Multissemana" >
+<!ENTITY calendar.multiweek.button.label        "Semanal" >
 <!ENTITY calendar.onlyworkday.checkbox.label    "Somente dias úteis" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "o" >
 <!ENTITY calendar.displaytodos.checkbox.label   "Ver tarefas" >
@@ -385,7 +385,7 @@
 <!ENTITY calendar.print.title.label "Título:">
 <!ENTITY calendar.print.layout.label "Modelo:">
 <!ENTITY calendar.print.range.label "O que imprimir">
-<!ENTITY calendar.print.currentView2.label "Visualização atual">
+<!ENTITY calendar.print.currentView2.label "Visão atual">
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Eventos/tarefas selecionados">
 <!ENTITY calendar.print.tasks.label "Tarefas">
 <!ENTITY calendar.print.events.label "Eventos">
