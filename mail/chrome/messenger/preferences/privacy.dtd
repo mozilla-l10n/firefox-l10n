@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Mail Content -->
 
+<!-- Mail Content -->
 <!ENTITY captionMailContent.label "Contingut del correu">
 
 <!ENTITY acceptRemoteContent.label "Permet contingut remot en els missatges">
@@ -10,8 +10,8 @@
 <!ENTITY remoteContentExceptions.label "Excepcions…">
 <!ENTITY remoteContentExceptions.accesskey "x">
 <!ENTITY acceptRemoteContentInfo.label "Més informació sobre els problemes de privadesa del contingut remot">
-<!-- Web Content -->
 
+<!-- Web Content -->
 <!ENTITY captionWebContent.label "Contingut web">
 
 <!ENTITY keepHistory.label "Recorda els llocs web i els enllaços que he visitat">
@@ -36,3 +36,7 @@
 <!ENTITY dntTrackingNotOkay.label2 "Fes saber als llocs web que no vull que se'm segueixi">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Més informació de «No vull que se'm segueixi»">
+
+<!ENTITY doNotTrackCheck.label "Envia als llocs web el senyal «No vull ser seguit» per informar-los que no vull que em facin el seguiment">
+<!ENTITY doNotTrackCheck.accesskey "n">
+<!ENTITY doNotTrackLearnMore.label "Més informació">

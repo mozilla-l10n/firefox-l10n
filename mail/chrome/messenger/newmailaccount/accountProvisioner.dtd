@@ -2,23 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title "Benvingut al &brandShortName;">
+<!ENTITY window.title "Us donem la benvinguda al &brandShortName;">
 <!ENTITY header2.label "Voleu una adreça electrònica nova?">
 <!ENTITY other.languages "Només s'estan mostrant els proveïdors que ofereixen adreces a la vostra regió.  Feu clic aquí per mostrar tots els proveïdors.">
 <!ENTITY error.line1 "No s'ha pogut suggerir cap adreça electrònica.">
 <!ENTITY error.line2 "Podeu provar de cercar sobrenoms o qualsevol altre terme per trobar més missatges.">
+
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
      of free account alternatives. -->
-
 <!ENTITY error.suggest.before "També podeu provar un dels ">
 <!ENTITY error.suggest.middle "comptes de correu electrònic gratuïts alternatius">
 <!ENTITY error.suggest.after ".">
+
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->
-
 <!ENTITY success.title.before "Hola ">
 <!ENTITY success.title.after ", l'adreça electrònica següent està disponible:">
 <!ENTITY success.tip "(Per trobar més missatges, també podeu cercar sobrenoms o qualsevol altre terme)">
