@@ -90,6 +90,9 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = ما الجديد
 cfr-whatsnew-release-notes-link-text = اقرأ ملاحظات الإصدار
 cfr-whatsnew-tracking-protect-title = احمِ نفسك من خطر المتعقّبات
+cfr-whatsnew-tracking-protect-body =
+    يحجب { -brand-short-name } عددًا من المتعقّبات الاجتماعية والمتعقّبات بين المواقع،
+    متعقّبات هدفها معرفة ما تفعله في المواقع.
 
 ## Bookmark Sync
 
