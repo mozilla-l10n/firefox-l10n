@@ -141,6 +141,16 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = डिफल्ट बाहाय
 security-no-visits = नङा
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } के बि ({ $bytes } बाइट)
+           *[other] { $kb } के बि ({ $bytes } बाइट्स)
+        }
 # This string is used to display the type of
 # an image
 # Variables:

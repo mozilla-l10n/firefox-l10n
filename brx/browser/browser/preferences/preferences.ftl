@@ -25,6 +25,7 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+help-button-label = { -brand-short-name } सापोर्ट
 focus-search =
     .key = f
 close-button =
@@ -83,6 +84,7 @@ browser-containers-learn-more = गोबां सोलों
 browser-containers-settings =
     .label = सेटिं....
     .accesskey = i
+containers-disable-alert-cancel-button = हाहोनाय खालामना दोननाय
 
 ## General Section - Language & Appearance
 

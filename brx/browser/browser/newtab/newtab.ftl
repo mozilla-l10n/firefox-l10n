@@ -108,6 +108,7 @@ newtab-menu-open-file = फाइलखौ खेव
 newtab-label-visited = थांखांनाय
 newtab-label-bookmarked = बुकमाकॅ दङ
 newtab-label-removed-bookmark = बुकमाॅक बोखारबाय
+newtab-label-recommended = त्रेन्दिगं
 newtab-label-saved = { -pocket-brand-name } आव थिना दोनबाय
 newtab-label-download = डाउनल'ड खालामबाय
 
