@@ -36,3 +36,7 @@
 <!ENTITY dntTrackingNotOkay.label2 "Infurmar websites ch'jau na vul betg ch'ellas suondan mes fastizs">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Dapli infurmaziuns">
+
+<!ENTITY doNotTrackCheck.label "Trametter a websites il signal «Do Not Track» per inditgar che ti na vuls betg vegnir fastizà">
+<!ENTITY doNotTrackCheck.accesskey "D">
+<!ENTITY doNotTrackLearnMore.label "Ulteriuras infurmaziuns">

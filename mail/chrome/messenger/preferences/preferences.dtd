@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Agiuntas">
 <!ENTITY panePrivacy.title        "Protecziun da datas">
 <!ENTITY paneSecurity.title       "Segirezza">
+<!ENTITY panePrivacySecurity.title "Protecziun da datas &amp; segirezza">
 <!ENTITY paneLightning.title      "Chalender">
 <!ENTITY paneAdvanced.title       "Extendì">
 <!ENTITY paneAccount.title        "Contos">

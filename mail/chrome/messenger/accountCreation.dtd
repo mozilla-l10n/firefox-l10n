@@ -3,22 +3,29 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Configurar in conto dad e-mail existent">
+
+<!ENTITY emailWizard.title               "Configurar tia adressa dad e-mail existenta">
+<!ENTITY emailWizard.caption             "Utilisar tia adressa dad e-mail actuala">
 <!ENTITY name.label                      "Tes num:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Prenum Num">
+<!ENTITY fullname.placeholder            "Tes num cumplet">
 <!ENTITY name.text                       "Tes num, uschia co el duai vegnir mussà ad auters">
+<!ENTITY name.error                      "Endatescha per plaschair tes num">
 <!ENTITY email.label                     "Adressa dad e-mail:">
 <!ENTITY email.accesskey                 "a">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "ti@example.com">
+<!ENTITY email3.placeholder              "Tia adressa dad e-mail">
 <!ENTITY email.text                      "Tia adressa dad e-mail existenta">
+<!ENTITY email.error                     "Adressa dad e-mail nunvalida">
 <!ENTITY password.label                  "Pled-clav:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Pled-clav">
 <!ENTITY password.text                   "Opziunal, vegn mo utilisà per validar il num d'utilisader">
+<!ENTITY password.toggle                 "Mussar/zuppentar il pled-clav">
 <!ENTITY rememberPassword.label          "Memorisar il pled-clav">
 <!ENTITY rememberPassword.accesskey      "M">
-
 <!ENTITY usernameEx.label                "Tias infurmaziuns d'annunzia:">
 <!ENTITY usernameEx.accesskey            "i">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -26,15 +33,21 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Infurmaziun d'annunzia da la domena">
 
+<!ENTITY protocol.label                  "Protocol:">
 <!ENTITY imapLong.label                  "IMAP (memorisar ils e-mails sin il server)">
 <!ENTITY pop3Long.label                  "POP3 (memorisar ils e-mails sin quest computer)">
 
 <!ENTITY incoming.label                  "Entrada:">
+<!ENTITY incomingColumn.label            "Posta che entra">
 <!ENTITY outgoing.label                  "Sortida:">
+<!ENTITY outgoingColumn.label            "Posta che sorta">
 <!ENTITY username.label                  "Num d'utilisader:">
 <!ENTITY hostname.label                  "Num da host dal server">
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Server:">
+<!ENTITY portRow.label                   "Port:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Autentificaziun">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -60,15 +73,21 @@
 <!ENTITY stop.label                      "Fermar">
 <!ENTITY stop.accesskey                  "F">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Retestar">
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Configuraziun manuala">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY manual-config.label             "Configurar manualmain…">
+<!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Ir per ina nova adressa dad e-mail…">
 <!ENTITY open-provisioner.accesskey      "o">
+
+
+<!ENTITY get-help.label                  "Ir per agid">
+<!ENTITY get-help.accesskey              "A">
 
 
 <!ENTITY warning.label                   "Attenziun!">

@@ -41,6 +41,7 @@ policy-EnableTrackingProtection = Activar u deactivar la bloccada da cuntegn e t
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Installar, deinstallar u bloccar extensiuns. L'opziun «Installar» pretenda URLs u percurs sco parameters. Las opziuns «Deinstallar» e «Bloccar» acceptan IDs dad extensiuns.
+policy-ExtensionSettings = Administrar tut ils aspects da l'installaziun dad extensiuns.
 policy-ExtensionUpdate = Activar u deactivar actualisaziuns automaticas dad extensiuns.
 policy-HardwareAcceleration = Sche «false», deactivar l'acceleraziun cun agid da la hardware.
 policy-InstallAddonsPermission = Permetter a tschertas websites dad installar supplements.
