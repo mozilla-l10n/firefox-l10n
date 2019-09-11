@@ -645,8 +645,9 @@
 <!ENTITY contentBlocking.trackingProtection3.label "Elementi traccianti">
 <!ENTITY contentBlocking.trackingProtection4.label "Contenuti traccianti">
 <!ENTITY contentBlocking.manageSettings.label "Gestisci blocco contenuti">
-<!ENTITY contentBlocking.manageSettings2.label "Gestisci impostazioni protezione">
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
+<!ENTITY contentBlocking.manageSettings2.label "Gestisci impostazioni protezione">
+<!ENTITY contentBlocking.manageSettings2.accesskey "G">
 <!ENTITY contentBlocking.trackersView.label "Elementi traccianti">
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Per bloccare tutti gli elementi traccianti, impostare il blocco contenuti su “Restrittivo”.">
 <!ENTITY contentBlocking.socialblock.label "Traccianti dei social media">
