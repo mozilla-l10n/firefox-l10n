@@ -34,6 +34,10 @@
 <!ENTITY firstrun_button_notnow "ليس الآن">
 <!ENTITY firstrun_button_next "التالي">
 
+<!ENTITY firstrun_signin_button2 "لِج">
+
+<!ENTITY firstrun_signup_button "اخرج">
+
 <!ENTITY firstrun_tabqueue_title "الروابط">
 
 <!ENTITY firstrun_readerview_title "المقالات">
@@ -595,7 +599,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "المكان">
 <!ENTITY bookmark_edit_keyword "كلمة مفتاحية">
 <!ENTITY bookmark_select_folder "اختر مجلدًا">
-
 <!ENTITY bookmark_edit_undo "تراجَع">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -875,6 +878,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "متاح بدون اتصال">
 <!ENTITY helper_triple_readerview_open_message "علّم عناصر منظور القارئ لقراءتهم دون اتصال.">
 <!ENTITY helper_triple_readerview_open_button "أضِف إلى العلامات">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "مرحبًا بك مع &brandShortName;">
+<!ENTITY activity_stream_signin_description "اشرع الآن بمزامنة العلامات وكلمات السر وغيرها الكثير عبر حساب فَيَرفُكس.">
+<!ENTITY activity_stream_signin_button "لِج">
+
+<!ENTITY activity_stream_signup_button "اخرج">
+<!ENTITY activity_stream_signin_prompt "ألديك حساب أساسا؟">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "لِج.">
 
 <!ENTITY activity_stream_topsites "المواقع الأكثر زيارة">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
