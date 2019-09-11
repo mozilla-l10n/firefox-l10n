@@ -110,6 +110,8 @@ menu-view-bookmarks =
     .label = बुकमार्क
 menu-view-history-button =
     .label = जारिमिन
+menu-view-synced-tabs-sidebar =
+    .label = टेबफोरखौ सिनक खालामबाय
 menu-view-full-zoom =
     .label = जुम खालाम
     .accesskey = Z
@@ -169,6 +171,8 @@ menu-history-show-all-history =
     .label = गासै जारिमिनखौ दिनथि
 menu-history-clear-recent-history =
     .label = दानि जारिमिनखौ खोमोर...
+menu-history-synced-tabs =
+    .label = टेबफोरखौ सिनक खालामबाय
 menu-history-restore-last-session =
     .label = आवगयनि जथुम्माखौ लाबोफिन
 menu-history-hidden-tabs =
@@ -234,6 +238,9 @@ menu-preferences =
             [windows] O
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = लेआउट डेबागार
+    .accesskey = L
 
 ## Window Menu
 

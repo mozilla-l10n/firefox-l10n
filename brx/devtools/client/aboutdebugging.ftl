@@ -19,11 +19,16 @@ about-debugging-sidebar-setup =
     .name = सेटआप
 # Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
 about-debugging-sidebar-usb-enabled = USB मावथि खालामबाय
+# Connection status (connected) for runtime items in the sidebar
+aboutdebugging-sidebar-runtime-connection-status-connected = फोनांजाब खालामबाय
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = फोनांजाब खालाम
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
 about-debugging-sidebar-item-connect-button-connecting = फोनांजाब होगासिनो दं
+# Temporary text displayed in sidebar items representing remote runtimes after
+# successfully connecting to them. Temporary UI, do not localize.
+about-debugging-sidebar-item-connected-label = फोनांजाब खालामबाय
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName }{ $deviceName }

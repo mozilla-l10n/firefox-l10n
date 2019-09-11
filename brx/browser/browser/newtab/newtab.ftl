@@ -119,6 +119,7 @@ newtab-label-download = डाउनल'ड खालामबाय
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = खोन्दो बोखार
 newtab-section-menu-add-topsite = गिबि साइट आव दाजाब
 newtab-section-menu-add-search-engine = नागिरनाय इन्जिनखौ दाजाबदेर
 newtab-section-menu-move-up = गोजौआव लाबो
