@@ -12,6 +12,9 @@ about-config2-title = Avancerede indstillinger
 
 about-config-search-input =
     .placeholder = Søg
+
+about-config-search-input1 =
+    .placeholder = Søg efter indstilling
 about-config-show-all = Vis alle
 
 about-config-pref-add = Tilføj

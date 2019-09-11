@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Menulinje">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Navigationslinje">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Navigation">
 <!ENTITY personalbarCmd.label "Bogmærkelinje">
 <!ENTITY personalbarCmd.accesskey "B">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Bogmærker">
 <!ENTITY bookmarksToolbarItem.label "Bogmærkelinje-elementer">
 
 <!ENTITY pageSourceCmd.label "Sidens kildekode">
 <!ENTITY pageSourceCmd.accesskey "k">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Sideoplysninger">
 <!ENTITY pageInfoCmd.accesskey "o">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Layout-debugger">
 <!ENTITY ldbCmd.accesskey "d">
@@ -116,6 +126,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Genopret forbindelse til &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Bekræft din konto">
 
+
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Minimer">
 <!ENTITY fullScreenRestore.tooltip "Gendan">
@@ -145,6 +158,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Logget ind som">
 <!ENTITY fxa.menu.manageAccount.label "Håndter konto…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "Indstillinger for &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Opret forbindelse til en ny enhed…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -195,6 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Bogmærker">
 <!ENTITY bookmarksMenu.accesskey "B">
+
 <!ENTITY bookmarkThisPageCmd.label "Bogmærk denne side">
 <!ENTITY editThisBookmarkCmd.label "Rediger bogmærke">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -510,6 +528,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Søgeforespørgsel">
+
 <!ENTITY contentSearchSubmit.tooltip    "Søg">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -986,6 +1005,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Rapportér problemer">
 <!ENTITY contentBlocking.breakageReportView2.description "Blokering af indhold kan skabe problemer for nogle websteder. Ved at rapportere problemer hjælper du med at gøre &brandShortName; bedre for alle. (Dette sender en URL samt information om dine browser-indstillinger til Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Læs mere">
+
 <!ENTITY contentBlocking.breakageReportView.title "Rapportér problemer med et websted">
 <!ENTITY contentBlocking.breakageReportView3.description "Blokering af indhold kan skabe problemer for nogle websteder. Ved at rapportere problemer hjælper du med at gøre &brandShortName; bedre for alle. Dette sender en URL samt information om dine browser-indstillinger til Mozilla.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Læs mere">
@@ -1041,6 +1061,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "En udvidelse har ændret din startside. Du kan nulstille dine indstillinger, hvis du ikke ønsker denne ændring.">
+
 <!ENTITY homepageControlled.header.message "Din startside er ændret">
 <!ENTITY homepageControlled.keepButton.label "Behold ændringen">
 <!ENTITY homepageControlled.keepButton.accesskey "B">
