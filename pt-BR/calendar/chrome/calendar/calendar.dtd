@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Criar uma nova tarefa" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tarefas" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Exibir tarefas concluídas">
 
 <!ENTITY calendar.today.button.label          "Hoje">
@@ -362,7 +363,7 @@
 <!ENTITY calendarproperties.name.label                     "Nome:">
 <!ENTITY calendarproperties.readonly.label                 "Somente leitura">
 <!ENTITY calendarproperties.firealarms.label               "Exibir lembretes">
-<!ENTITY calendarproperties.cache3.label                   "Suporte off-line">
+<!ENTITY calendarproperties.cache3.label                   "Suporte offline">
 <!ENTITY calendarproperties.enabled.label                  "Ativar esta agenda">
 <!ENTITY calendarproperties.forceDisabled.label            "O provedor desta agenda não foi encontrado. Isto normalmente ocorre quando você desativa ou desinstala certas extensões.">
 <!ENTITY calendarproperties.unsubscribe.label              "Cancelar inscrição">
