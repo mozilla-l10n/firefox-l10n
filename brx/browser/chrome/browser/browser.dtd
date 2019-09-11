@@ -73,12 +73,19 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "मेनु बार">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "नेभिगेसन टुलबार">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbarCmd.label "बुकमार्क टुलबार">
 <!ENTITY personalbarCmd.accesskey "B">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY bookmarksToolbarItem.label "बुकमार्क टुलबार आइटेमफोर">
 
 <!ENTITY pageSourceCmd.label "बिलाइ फुंखा">
 <!ENTITY pageSourceCmd.accesskey "o">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -89,6 +96,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "बिलाइनि मोनथिहोनाय">
 <!ENTITY pageInfoCmd.accesskey "I">
+
 <!ENTITY pageInfoCmd.commandkey "आं">
 <!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.accesskey "m">
@@ -112,6 +120,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "नोंथांनि एकाउन्टखौ नायबिजिर">
 
 
+ <!-- } is above this key on many keyboards -->
+
 <!ENTITY fullScreenMinimize.tooltip "मिनिमाइज खालाम">
 <!ENTITY fullScreenRestore.tooltip "मोनफिन">
 <!ENTITY fullScreenClose.tooltip "बन्द खालाम">
@@ -133,6 +143,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.manageAccount.label "एकाउन्ट सामलाय…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; सेटिं…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -173,6 +187,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "बुकमार्क">
 <!ENTITY bookmarksMenu.accesskey "B">
+
 <!ENTITY bookmarkThisPageCmd.label "बे बिलाइखौ बुकमार्क हो... ">
 <!ENTITY editThisBookmarkCmd.label "बे बुकमार्कखौ सुजु">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -417,6 +432,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
+
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
@@ -736,6 +752,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.issueList.forms "फर्मफोर">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "भिडिअफोर">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -789,6 +806,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY contentBlocking.breakageReportView.learnMore "गोबां सोलों">
+
 <!ENTITY contentBlocking.breakageReportView2.learnMore "गोबां सोलों">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "नेवसि">
@@ -826,6 +844,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
+
 
 <!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.accesskey "D">

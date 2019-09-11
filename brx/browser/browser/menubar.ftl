@@ -134,6 +134,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = गुदि बिलाइनि आदब
     .accesskey = B
+menu-view-charset =
+    .label = फराय बिजाब एनक'डिं
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
