@@ -76,12 +76,20 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Valikkopalkki">
 <!ENTITY menubarCmd.accesskey "V">
 <!ENTITY navbarCmd.label "Navigointipalkki">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbarCmd.label "Kirjanmerkkipalkki">
 <!ENTITY personalbarCmd.accesskey "K">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Kirjanmerkit">
 <!ENTITY bookmarksToolbarItem.label "Kirjanmerkkipalkin linkit">
 
 <!ENTITY pageSourceCmd.label "Sivun lähdekoodi">
 <!ENTITY pageSourceCmd.accesskey "n">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +100,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Tietoja sivusta">
 <!ENTITY pageInfoCmd.accesskey "T">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Layout Debugger">
 <!ENTITY ldbCmd.accesskey "L">
@@ -116,6 +125,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Palauta yhteys &syncBrand.shortName.label;-palveluun">
 <!ENTITY fxaUnverified.label "Vahvista tilisi">
 
+
+ <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Pienennä ikkuna">
 <!ENTITY fullScreenRestore.tooltip "Palauta">
@@ -143,6 +154,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Kirjautuneena tilillä">
 <!ENTITY fxa.menu.manageAccount.label "Hallitse tiliä…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;-asetukset…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Yhdistä toiseen laitteeseen…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -193,6 +208,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Kirjanmerkit">
 <!ENTITY bookmarksMenu.accesskey "K">
+
 <!ENTITY bookmarkThisPageCmd.label "Lisää sivu kirjanmerkkeihin">
 <!ENTITY editThisBookmarkCmd.label "Muokkaa kirjanmerkkiä">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -508,6 +524,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Hakutermit">
+
 <!ENTITY contentSearchSubmit.tooltip  "Lähetä haku">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -982,6 +999,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Ilmoita ongelmista">
 <!ENTITY contentBlocking.breakageReportView2.description "Sisällön esto voi aiheuttaa ongelmia joillakin sivustoilla. Ongelmista ilmoittaminen auttaa tekemään &brandShortName;ista paremman kaikille. (Ilmoittaminen lähettää Mozillalle sivun osoitteen sekä tietoja selainasetuksistasi.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Lue lisää">
+
 <!ENTITY contentBlocking.breakageReportView.title "Ilmoita rikkinäisestä sivustosta">
 <!ENTITY contentBlocking.breakageReportView3.description "Joidenkin seuraimien estäminen saattaa aiheuttaa ongelmia joillain sivustoilla. Ilmoittamalla näistä ongelmista autat parantamaan &brandShortName;-selainta. Tämän raportin lähettäminen lähettää Mozillalle sivun osoitteen ja tietoja selaimesi asetuksista.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Lue lisää">
@@ -1037,6 +1055,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "E">
 
 <!ENTITY homepageControlled.message "Laajennus on vaihtanut, mitä näet aloitussivuna. Voit palauttaa asetukset, jos et halua tätä muutosta.">
+
 <!ENTITY homepageControlled.header.message "Aloitussivusi on muuttunut.">
 <!ENTITY homepageControlled.keepButton.label "Säilytä muutokset">
 <!ENTITY homepageControlled.keepButton.accesskey "S">
