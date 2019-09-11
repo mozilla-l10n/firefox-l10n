@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Adjuncions">
 <!ENTITY panePrivacy.title        "Privadesa">
 <!ENTITY paneSecurity.title       "Seguretat">
+<!ENTITY panePrivacySecurity.title "Privadesa i seguretat">
 <!ENTITY paneLightning.title      "Calendari">
 <!ENTITY paneAdvanced.title       "Avançat">
 <!ENTITY paneAccount.title        "Comptes">
