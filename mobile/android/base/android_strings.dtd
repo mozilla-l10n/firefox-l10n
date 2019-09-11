@@ -36,6 +36,8 @@
 
 <!ENTITY firstrun_signin_button2 "Войти">
 
+<!ENTITY firstrun_signup_button "Регистрация">
+
 <!ENTITY firstrun_tabqueue_title "Ссылки">
 
 <!ENTITY firstrun_readerview_title "Статьи">
@@ -877,11 +879,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Добавьте пункты Списка для чтения в Закладки, чтобы читать их без подключения к Интернету.">
 <!ENTITY helper_triple_readerview_open_button "Добавить в закладки">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Добро пожаловать в &brandShortName;">
 <!ENTITY activity_stream_signin_description "Начните синхронизировать закладки, пароли и многое другое с вашим Аккаунтом Firefox.">
 <!ENTITY activity_stream_signin_button "Войти">
+
+<!ENTITY activity_stream_signup_button "Регистрация">
+<!ENTITY activity_stream_signin_prompt "Уже есть аккаунт?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Войти.">
 
 <!ENTITY activity_stream_topsites "Топ сайтов">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
