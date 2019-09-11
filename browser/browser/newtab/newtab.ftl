@@ -47,6 +47,9 @@ newtab-topsites-add-button = Agiuntar
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Vuls ti propi stizzar mintga instanza da questa pagina ord la cronologia?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Questa acziun na po betg vegnir revocada.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Marcar sco segnapagina
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Copiar la colliaziun a la telechargiada
 newtab-menu-go-to-download-page = Ir a la pagina da telechargiada
 newtab-menu-remove-download = Allontanar da la cronologia
@@ -116,6 +123,10 @@ newtab-label-download = Telechargià
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Allontanar la secziun
 newtab-section-menu-collapse-section = Reducir la secziun
 newtab-section-menu-expand-section = Expander la secziun
@@ -126,6 +137,13 @@ newtab-section-menu-add-search-engine = Agiuntar maschina da tschertgar
 newtab-section-menu-move-up = Spustar ensi
 newtab-section-menu-move-down = Spustar engiu
 newtab-section-menu-privacy-notice = Infurmaziuns davart la protecziun da datas
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Reducir la secziun
+newtab-section-expand-section-label =
+    .aria-label = Expander la secziun
 
 ## Section Headers.
 
