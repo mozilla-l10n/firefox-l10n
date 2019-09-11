@@ -5,6 +5,11 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
+# The original title of service workers' information
+#
+# Variables:
+#   $originTitle: original title
+origin-title = गुबै: { $originTitle }
 
 ## These strings are for showing the information of workers.
 ##

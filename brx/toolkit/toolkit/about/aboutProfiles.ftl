@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiles-restart-title = फिन जागाय
+# Variables:
+#   $name (String) - Name of the profile
+profiles-name = प्रफाइल: { $name }
 profiles-remove = बोखार
 profiles-yes = नंगौ
 profiles-delete-files = फाइलफोरखौ खोमोर

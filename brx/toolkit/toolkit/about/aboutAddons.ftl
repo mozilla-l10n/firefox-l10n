@@ -193,6 +193,10 @@ go-back-button =
 
 discopane-notice-learn-more = गोबां सोलों
 privacy-policy = गुमुरगोनां पलिसि
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = जों <a data-l10n-name="author">{ $author }</a>
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = मेनेज खालाम

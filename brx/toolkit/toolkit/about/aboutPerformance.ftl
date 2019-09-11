@@ -25,6 +25,9 @@ ghost-windows = बावैसो बन्द खालामनाय टे�
 ## Variables:
 ##   $value (Number) - How much memory is used
 
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 

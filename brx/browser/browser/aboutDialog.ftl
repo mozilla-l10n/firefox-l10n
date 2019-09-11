@@ -25,7 +25,7 @@ update-restarting = फिन जागाय गासिनो दङ...
 channel-description = नोंथाङा दासान्दि दं<label data-l10n-name="current-channel"></label>सेनेलखौ आपडेट खालाम।
 warningDesc-version = { -brand-short-name } आ आनजादलु आरो दिदोमनङै जानो हागौ।
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>आ मोनसे<label data-l10n-name="community-exp-creditsLink">बुहुमनां माहारि</label>वेबखौ खेवनानै दोननो, राइजो-राजा आरो बयबो हाबहो हाथाव खालामनो जयै खामानि मावगासिनो दं
-community-2 = ..जों { -brand-short-name } खौ डिजाइन खालामनाय जाबाय<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">बुहुमनां माहारि</label>वेबखौ खेवनानै दोननो, राइजो-राजा आरो बयबो हाबहो हाथाव खालामनो जयै खामानि मावगासिनो दं
+community-2 = जों { -brand-short-name } खौ डिजाइन खालामनाय जाबाय<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">बुहुमनां माहारि</label>वेबखौ खेवनानै दोननो, राइजो-राजा आरो बयबो हाबहो हाथाव खालामनो जयै खामानि मावगासिनो दं
 helpus = मदद खालामनो लुबैयो? <label data-l10n-name="helpus-donateLink">दान खालाम</label>एबा<label data-l10n-name="helpus-getInvolvedLink">थाफादेर!</label>
 bottomLinks-license = लाइसेन्सिं फोरमायथिहोग्रा
 bottomLinks-rights = जोबथा-बाहायग्रा मोनथाइ
