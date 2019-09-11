@@ -6,6 +6,8 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = Kunetu…
+list-empty-button =
+    .label = Ka´vi kue´eka jie´e ka̱a̱ chunta´an
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } Kaji

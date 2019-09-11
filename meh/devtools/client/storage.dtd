@@ -7,6 +7,7 @@
 <!-- LOCALIZATION NOTE : Placeholder for the searchbox that allows you to filter the table items. -->
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all storage items. -->
+<!ENTITY storage.popupMenu.deleteAllLabel "Xita kuaiyo">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all session cookies. -->
 

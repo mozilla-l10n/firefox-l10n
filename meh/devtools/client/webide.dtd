@@ -11,6 +11,7 @@
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
+<!ENTITY key_quit "W">
 <!-- open menu -->
 <!-- reload app -->
 <!-- show toolbox -->

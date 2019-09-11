@@ -132,6 +132,10 @@ network-proxy-connection-settings =
 
 ## Home Section - Home Page Customization
 
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Xinañu´u página Firefox
 home-mode-choice-custom =
     .label = Sa´a vii URLs
 home-homepage-custom-url =
