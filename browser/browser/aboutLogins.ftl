@@ -3,9 +3,27 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = جلسات الولوج وكلمات السر
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = خُذ معك كلمات السر أينما ذهبت
+login-app-promo-subtitle = نزّل مجانًا تطبيق { -lockwise-brand-name }
+login-app-promo-android =
+    .alt = نزّله من متجر غوغل
+login-app-promo-apple =
+    .alt = نزّله من متجر آبل
+login-filter =
+    .placeholder = ابحث في جلسات الولوج
 create-login-button = أنشئ جلسة ولوج جديدة
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = أيقونة Favicon لِ‍ { $title }
 fxaccounts-sign-in-text = استعمل كلمات السر لحساباتك في أجهزتك الأخرى
 fxaccounts-sign-in-button = لِج إلى { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = أدِر الحساب
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -18,8 +36,7 @@ menu-menuitem-preferences =
         [windows] الخيارات
        *[other] التفضيلات
     }
-menu-menuitem-feedback = أرسِل انطباعك
-menu-menuitem-faq = الأسئلة الشائعة
+about-logins-menu-menuitem-help = مساعدة
 menu-menuitem-android-app = { -lockwise-brand-short-name } على أندرويد
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } على آيفون وآيباد
 
@@ -42,6 +59,8 @@ login-list-last-changed-option = آخر تعديل
 login-list-last-used-option = آخر استخدام
 login-list-intro-title = لا جلسات ولوج
 login-list-intro-description = متى ما حفظت كلمة سر في { -brand-product-name } ستظهر هنا.
+about-logins-login-list-empty-search-title = لا جلسات ولوج
+about-logins-login-list-empty-search-description = لا نتائج تطابق البحث.
 login-list-item-title-new-login = جلسة ولوج جديدة
 login-list-item-subtitle-missing-username = (لا اسم مستخدم)
 
@@ -51,7 +70,7 @@ login-intro-heading = أتبحث عن جلسات ولوجك المحفوظة؟ �
 login-intro-description = إن حفظت جلسات ولوجك في { -brand-product-name } على جهاز آخر، فهكذا يمكنك أن تزامنها هنا:
 login-intro-instruction-fxa = أنشِئ أو لِج إلى { -fxaccount-brand-name } على الأجهزة التي لديك عليها جلسات ولوج محفوظة
 login-intro-instruction-fxa-settings = تحقّق من تحديد مربع ”جلسات الولوج“ في إعدادات { -sync-brand-short-name }
-login-intro-instruction-faq = زُر <a data-l10n-name="faq">الأسئلة الشائعة</a> حول { -lockwise-brand-short-name } للمساعدة
+about-logins-intro-instruction-help = زُر <a data-l10n-name="help-link">دعم { -lockwise-brand-short-name }</a> لمزيد من المساعدة
 
 ## Login
 
@@ -62,6 +81,8 @@ login-item-origin-label = عنوان الموقع
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = اسم المستخدم
+about-logins-login-item-username =
+    .placeholder = (لا اسم مستخدم)
 login-item-copy-username-button-text = انسخ
 login-item-copied-username-button-text = نُسخ.
 login-item-password-label = كلمة السر
@@ -112,3 +133,8 @@ confirm-discard-changes-dialog-confirm-button = أهمِل
 ## Breach Alert notification
 
 breach-alert-text = تسرّبت كلمات السر (أو سُرقت) من هذا الموقع مذ حدّثت بيانات ولوجك فيه. غيّر كلمة السر لتحمي حسابك من الاختراق.
+breach-alert-dismiss =
+    .title = أغلِق هذا التنبيه
+
+## Error Messages
+
