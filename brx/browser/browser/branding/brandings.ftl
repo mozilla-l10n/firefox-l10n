@@ -9,7 +9,7 @@
 ## - Transliterated.
 ## - Translated.
 
--facebook-container-brand-name = Facebook Container
+-facebook-container-brand-name = Facebook खनथेनार
 -lockwise-brand-name = Firefox Lockwise
 -lockwise-brand-short-name = Lockwise
 -monitor-brand-name = फायारफक्स Monitor

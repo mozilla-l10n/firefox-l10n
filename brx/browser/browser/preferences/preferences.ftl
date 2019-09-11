@@ -78,12 +78,17 @@ show-tabs-in-taskbar =
     .label = टेब गिबिनुथाइखौ उइन्ड' टास्कबाराव दिन्थि
     .accesskey = k
 browser-containers-enabled =
-    .label = खनथेनार टेब मावथि खालाम
+    .label = खनथेनार टेबफोर मावथि खालाम
     .accesskey = n
 browser-containers-learn-more = गोबां सोलों
 browser-containers-settings =
     .label = सेटिं....
     .accesskey = i
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] { $tabCount } खनथेनार टेब बन्द खालाम
+       *[other] { $tabCount } खनथेनार टेबफोर बन्द खालाम
+    }
 containers-disable-alert-cancel-button = हाहोनाय खालामना दोननाय
 
 ## General Section - Language & Appearance
@@ -262,6 +267,10 @@ search-keyword-warning-bookmark = नोंथाङा बावैसो ब�
 ## Containers Section
 
 containers-back-link = « उनथिं थांफिन
+containers-header = खनथेनार  टेबफोर
+containers-add-button =
+    .label = गोदान खनथेनार दाजाबदेर
+    .accesskey = A
 containers-preferences-button =
     .label = पसन्दफोर
 containers-remove-button =
@@ -447,6 +456,9 @@ certs-header = चार्टिफिकेटफोर
 certs-enable-ocsp =
     .label = सार्टिफिकेटनि दानि बाहायथायखौ रोखा खालामनो सोंलु OCSP फिन होग्रा सार्भार
     .accesskey = Q
+certs-view =
+    .label = चार्टिफिकेटखौ नाय...
+    .accesskey = C
 space-alert-learn-more-button =
     .label = गोबां सोलों
     .accesskey = L

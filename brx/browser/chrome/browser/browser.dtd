@@ -76,11 +76,13 @@ when there are no windows but Firefox is still running. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "नेभिगेसन">
 <!ENTITY personalbarCmd.label "बुकमार्क टुलबार">
 <!ENTITY personalbarCmd.accesskey "B">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "बुकमार्क">
 <!ENTITY bookmarksToolbarItem.label "बुकमार्क टुलबार आइटेमफोर">
 
 <!ENTITY pageSourceCmd.label "बिलाइ फुंखा">
@@ -276,7 +278,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "फाइल">
 <!ENTITY fileMenu.accesskey       "F">
 
+<!ENTITY newUserContext.label             "गोदान खनथेनार टेब">
 <!ENTITY newUserContext.accesskey         "B">
+<!ENTITY manageUserContext.label          "खनथेनारफोरखौ सामलाय">
 <!ENTITY manageUserContext.accesskey      "O">
 <!ENTITY newNavigatorCmd.label        "गोदान उइन्ड'">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -486,6 +490,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "फ्रेमखौ गोदान उइन्ड'आव खेव">
 <!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openLinkCmdInContainerTab.label "गोदान खनथेनार टेब आव लिंकखौ खेव">
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "बे फ्रेमखौल' दिनथि">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
@@ -717,6 +722,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "साइट रैखाथि">
 
 
 

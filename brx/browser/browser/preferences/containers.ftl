@@ -5,6 +5,11 @@
 containers-window-new =
     .title = गोदान खनथेनार दाजाबदेर
     .style = width: 45em
+# Variables
+#   $name (String) - Name of the container
+containers-window-update =
+    .title = { $name } खनथेनार पसन्दफोर
+    .style = width: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
@@ -20,6 +25,8 @@ containers-window-close =
 containers-name-label = मुं
     .accesskey = N
     .style = { -containers-labels-style }
+containers-name-text =
+    .placeholder = मोनसे खनथेनार मुं हो
 containers-icon-label = आइकन
     .accesskey = I
     .style = { -containers-labels-style }
@@ -43,6 +50,8 @@ containers-color-pink =
     .label = गलाब
 containers-color-purple =
     .label = फानथाव गाब
+containers-color-toolbar =
+    .label = गोरोबनाय टुलबार
 containers-icon-fingerprint =
     .label = आसिनि दाग
 containers-icon-circle =
