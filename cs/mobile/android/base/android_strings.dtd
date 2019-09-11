@@ -36,6 +36,7 @@
 
 <!ENTITY firstrun_signin_button2 "Přihlásit se">
 
+<!ENTITY firstrun_signup_button "Přihlásit se">
 
 <!ENTITY firstrun_tabqueue_title "Odkazy">
 
@@ -885,7 +886,10 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 <!ENTITY activity_stream_signin_description "S účtem Firefoxu můžete synchronizovat záložky, hesla i další svá data.">
 <!ENTITY activity_stream_signin_button "Přihlásit se">
 
+<!ENTITY activity_stream_signup_button "Přihlásit se">
+<!ENTITY activity_stream_signin_prompt "Už máte účet?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Přihlásit se.">
 
 <!ENTITY activity_stream_topsites "Top stránky">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
