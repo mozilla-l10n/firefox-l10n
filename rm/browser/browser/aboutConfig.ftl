@@ -26,7 +26,7 @@ about-config-pref-edit-button =
 about-config-pref-save-button =
     .title = Memorisar
 about-config-pref-reset-button =
-    .title = Redefinir
+    .title = Reinizialisar
 about-config-pref-delete-button =
     .title = Stizzar
 

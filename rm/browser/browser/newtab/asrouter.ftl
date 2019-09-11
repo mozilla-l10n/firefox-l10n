@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Extensiun recumandada
+cfr-doorhanger-feature-heading = Funcziunalitad recumandada
 cfr-doorhanger-pintab-heading = Emprova quai: Fixar quest tab
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pertge ves jau quai
 cfr-doorhanger-extension-cancel-button = Betg ussa
@@ -63,9 +70,65 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Buttun per serrar
     .title = Serrar
 
+## Protections panel
+
+cfr-protections-panel-header = Navighescha senza persequitaders
+cfr-protections-panel-body = Tegna per tai tias datas. { -brand-short-name } ta protegia da blers dals fastizaders ils pli frequents che registreschan tias activitads online.
+cfr-protections-panel-link-text = Ulteriuras infurmaziuns
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
     .label = Novaziuns
     .tooltiptext = Novaziuns
 cfr-whatsnew-panel-header = Novaziuns
+cfr-whatsnew-release-notes-link-text = Leger las notizias davart la versiun
+cfr-whatsnew-fx70-title = { -brand-short-name } cumbatta ussa anc pli ferm per tia sfera privata
+cfr-whatsnew-fx70-body = L'ultima actualisaziun augmenta la funcziun da protecziun cunter il fastizar e ta gida da crear a moda simpla pleds-clav segirs per mintga website.
+cfr-whatsnew-tracking-protect-title = Ta protegia dals fastizaders
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } blochescha blers fastizaders socials ed interpaginals frequents che registreschan tias activitads online.
+cfr-whatsnew-tracking-protect-link-text = Vesair tes rapport
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Fastizader bloccà
+       *[other] Fastizaders bloccads
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Dapi { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Vesair il rapport
+cfr-whatsnew-lockwise-backup-title = Segirescha tes pleds-clav
+cfr-whatsnew-lockwise-backup-body = Generescha ussa pleds-clav segirs als quals ti pos acceder cun mintga apparat connectà cun tes conto.
+cfr-whatsnew-lockwise-backup-link-text = Activescha copias da segirezza
+cfr-whatsnew-lockwise-take-title = Prenda tes pleds-clav cun tai
+cfr-whatsnew-lockwise-take-body = L'app mobila { -lockwise-brand-short-name } ta permetta dad acceder a moda segira als pleds-clav memorisads, nua ch'i saja.
+cfr-whatsnew-lockwise-take-link-text = Ir per l'app
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-header = Acceda a quest segnapagina sin tes telefonin
+cfr-doorhanger-sync-bookmarks-body = Prenda tes segnapaginas e pleds-clav, tia cronologia ed auter pli cun tai – sin tut ils apparats connectads cun { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Activar { -sync-brand-short-name }
+    .accesskey = A
+
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Mai pli perder in pled-clav
+cfr-doorhanger-sync-logins-body = Memorisescha e sincronisescha a moda segira tes pleds-clav sin tut tes apparats.
+cfr-doorhanger-sync-logins-ok-button = Activar { -sync-brand-short-name }
+    .accesskey = A
+
+## Send Tab
+
+cfr-doorhanger-send-tab-header = Legia quai sin via
+cfr-doorhanger-send-tab-recipe-header = Prenda cun tai quest recept en cuschina
+cfr-doorhanger-send-tab-body = «Trametter il tab» ta permetta da trametter a moda simpla questa colliaziun a tes telefon u ad auters apparats connectads cun tes conto da { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Emprova «Trametter il tab»
+    .accesskey = E
+
+## Firefox Send
+
+cfr-doorhanger-firefox-send-header = Cundivida quest PDF a moda segira
+cfr-doorhanger-firefox-send-ok-button = Emprova { -send-brand-name }
+    .accesskey = E
