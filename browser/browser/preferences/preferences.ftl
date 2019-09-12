@@ -729,6 +729,23 @@ content-blocking-strict-description = 保護更強，可能造成某些網站無
 content-blocking-custom-desc = 選擇要封鎖哪些內容。
 content-blocking-private-trackers = 僅在隱私視窗中封鎖已知的追蹤器
 content-blocking-third-party-cookies = 第三方追蹤 Cookie
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = 標準
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = 嚴格
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = 自訂
+    .accesskey = C
+
+
+
 content-blocking-etp-standard-desc = 兼顧保護與效能。網站可正常運作。
 content-blocking-etp-strict-desc = 保護更強大，但可能會導致某些網站或內容故障。
 content-blocking-etp-custom-desc = 選擇要封鎖哪些追蹤器與指令碼。

@@ -1,5 +1,10 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
 ### This file contains the entities needed for the 'edit' menu
-### It's currently only used for the Browser Console
+### It's currently only used for the Browser Console and Developer Toolbox
 
 editmenu-undo =
     .label = 復原
@@ -20,5 +25,5 @@ editmenu-delete =
     .label = 刪除
     .accesskey = D
 editmenu-select-all =
-    .label = 選擇全部
+    .label = 全選
     .accesskey = A

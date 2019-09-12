@@ -130,3 +130,16 @@ cfr-doorhanger-firefox-send-header = 安全地分享這份 PDF
 cfr-doorhanger-firefox-send-body = 使用端對端加密，以及會在使用完之後自動消失的鏈結，來確保您敏感性文件的安全。
 cfr-doorhanger-firefox-send-ok-button = 試用 { -send-brand-name }
     .accesskey = T
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = 請參考保護內容
+    .accesskey = P
+cfr-doorhanger-socialtracking-close-button = 關閉
+    .accesskey = C
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } 防止社群網站在此追蹤您
+cfr-doorhanger-socialtracking-description = 您的隱私相當重要。{ -brand-short-name } 現在起會封鎖常見的社交媒體追蹤器，限制這些網站收集您的線上活動。
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } 封鎖了此頁面上的數位指紋追蹤程式
+cfr-doorhanger-fingerprinters-description = 您的隱私相當重要。{ -brand-short-name } 現在起會封鎖數位指紋追蹤程式，不讓這些程式為了追蹤您而收集可識別出所使用裝置的相關資訊。
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } 封鎖了此頁面上的加密貨幣採礦程式
+cfr-doorhanger-cryptominers-description = 您的隱私相當重要。{ -brand-short-name } 現在起會封鎖加密貨幣採礦程式，不讓這些程式使用您的電腦運算能力來對數位貨幣「採礦」。
