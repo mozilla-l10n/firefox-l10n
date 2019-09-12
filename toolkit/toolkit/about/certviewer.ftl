@@ -6,6 +6,7 @@ certificate-viewer-certificate-section-title = 证书
 
 ## Error messages
 
+certificate-viewer-error-message = 找不到证书信息，或该证书已损坏。请再试一次。
 certificate-viewer-error-title = 出问题了。
 
 ## Certificate information labels
@@ -25,6 +26,9 @@ certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = 密钥交换组
 certificate-viewer-key-id = 密钥 ID
 certificate-viewer-key-size = 密钥大小
+certificate-viewer-locality = 区域
+certificate-viewer-location = 地址
+certificate-viewer-logid = 日志 ID
 certificate-viewer-method = 方法
 certificate-viewer-modulus = 模块
 certificate-viewer-name = 名称
@@ -34,10 +38,13 @@ certificate-viewer-organization = 组织
 certificate-viewer-organizational-unit = 组织单位
 certificate-viewer-policy = 政策
 certificate-viewer-protocol = 协议
+certificate-viewer-public-value = 公开值
 certificate-viewer-purposes = 用途
 certificate-viewer-qualifier = 限定符
 certificate-viewer-qualifiers = 限定符
 certificate-viewer-required = 必需
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-state-province = 注册州/省
 certificate-viewer-state-province = 州/省
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
