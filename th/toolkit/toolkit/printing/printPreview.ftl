@@ -33,6 +33,7 @@ printpreview-of =
     .value = จาก
 printpreview-custom-prompt =
     .value = มาตราส่วนที่กำหนดเอง…
+printpreview-custom-scale-prompt-title = มาตราส่วนที่กำหนดเอง
 printpreview-page-setup =
     .label = ตั้งค่าหน้ากระดาษ…
     .accesskey = ง
