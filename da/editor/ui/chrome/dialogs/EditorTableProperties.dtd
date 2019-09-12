@@ -62,7 +62,7 @@
 <!ENTITY cellAlignBottom.label "Bunden">
 <!ENTITY cellAlignJustify.label "Lige margen">
 <!ENTITY cellInheritColor.label "(Dæk ikke tabellens baggrundsfarve)">
-<!ENTITY cellUseCheckboxHelp.label "Brug afkrydsningsfelter til at bestemme hvilke egenskaber der gælder alle markerede celler">
+<!ENTITY cellUseCheckboxHelp.label "Brug afkrydsningsfelter til at bestemme, hvilke egenskaber der gælder alle markerede celler">
 <!ENTITY size.label "Størrelse:">
 <!ENTITY pixels.label "pixler">
 <!ENTITY backgroundColor.label "Baggrundsfarve">
