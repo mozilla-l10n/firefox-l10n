@@ -725,8 +725,8 @@ addressbar-suggestions-settings = Endre innstillinger for søkeforslag
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Innholdsblokkering
-content-blocking-enhanced-tracking-protection = Utvidet sporingsbeskyttelse
 content-blocking-section-description = Beskytt personvernet ditt mens du surfer. Blokker usynlig innhold som sporer nettsidene du besøker og profilerer deg. Blokkering av noe av dette innholdet kan gjøre nettsider raskere å laste.
+content-blocking-enhanced-tracking-protection = Utvidet sporingsbeskyttelse
 content-blocking-section-top-level-description = Sporere følger deg rundt på nettet for å samle informasjon om surfevanene og interessene dine. { -brand-short-name } blokkerer mange av disse sporere og andre ondsinnede skript.
 content-blocking-learn-more = Les mer
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -745,6 +745,23 @@ content-blocking-strict-description = Sterkere beskyttelse, men kan forhindre no
 content-blocking-custom-desc = Velg hva du vil blokkere.
 content-blocking-private-trackers = Kjente sporere bare i Private vindu
 content-blocking-third-party-cookies = Tredjeparts sporingsinfokapsler
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standard
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Streng
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Tilpasset
+    .accesskey = T
+
+
+
 content-blocking-etp-standard-desc = Balansert for beskyttelse og ytelse. Sider lastes normalt.
 content-blocking-etp-strict-desc = Sterkere beskyttelse, men kan føre til at noen nettsteder eller innhold ikke vil fungere.
 content-blocking-etp-custom-desc = Velg hvilke sporere og skript som skal blokkeres.
