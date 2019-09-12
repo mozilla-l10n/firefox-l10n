@@ -725,8 +725,8 @@ addressbar-suggestions-settings = Change preferences for search engine suggestio
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Content Blocking
-content-blocking-enhanced-tracking-protection = Enhanced Tracking Protection
 content-blocking-section-description = Protect your privacy while you browse. Block invisible content that tracks the sites you visit and profiles you. Blocking some of this content may make pages load faster.
+content-blocking-enhanced-tracking-protection = Enhanced Tracking Protection
 content-blocking-section-top-level-description = Trackers follow you around online to collect information about your browsing habits and interests. { -brand-short-name } blocks many of these trackers and other malicious scripts.
 content-blocking-learn-more = Learn more
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -745,6 +745,23 @@ content-blocking-strict-description = Stronger protection, may cause some sites 
 content-blocking-custom-desc = Choose what to block.
 content-blocking-private-trackers = Known trackers only in Private Windows
 content-blocking-third-party-cookies = Third-party tracking cookies
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standard
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Strict
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Custom
+    .accesskey = C
+
+
+
 content-blocking-etp-standard-desc = Balanced for protection and performance. Pages will load normally.
 content-blocking-etp-strict-desc = Stronger protection, but may cause some sites or content to break.
 content-blocking-etp-custom-desc = Choose which trackers and scripts to block.
