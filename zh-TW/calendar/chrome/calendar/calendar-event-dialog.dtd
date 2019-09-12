@@ -237,7 +237,7 @@
 <!ENTITY event.attachments.popup.remove.accesskey         "R" >
 <!ENTITY event.attachments.popup.open.label               "開啟舊檔" >
 <!ENTITY event.attachments.popup.open.accesskey           "O" >
-<!ENTITY event.attachments.popup.removeAll.label          "全部移除" >
+<!ENTITY event.attachments.popup.removeAll.label          "移除全部" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
 <!ENTITY event.attachments.popup.attachPage.label         "附加網頁" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "W" >
@@ -407,11 +407,6 @@
 <!ENTITY read.only.location.label        "位置:">
 <!ENTITY read.only.category.label        "分類:">
 <!ENTITY read.only.organizer.label       "召集人:">
-<!ENTITY read.only.reply.label           "回覆:">
-<!ENTITY read.only.accept.label          "我會參加">
-<!ENTITY read.only.decline.label         "我不會參加">
-<!ENTITY read.only.tentative.label       "我可能會參加">
-<!ENTITY read.only.needs.action.label    "我晚點確認">
 <!ENTITY read.only.reminder.label        "提醒:">
 <!ENTITY read.only.attachments.label     "附件:">
 <!ENTITY read.only.attendees.label       "與會者">
