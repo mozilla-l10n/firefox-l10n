@@ -18,6 +18,9 @@ process-type-file = Lokalna dataja
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Wulke přirjadowanje składa
+# process used to isolate a webpage from other web pages
+# to improve security
+process-type-webisolated = Izolowany webwobsah
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
