@@ -991,6 +991,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Placki">
 <!ENTITY contentBlocking.cookiesView.label "Placki a sydłowe daty">
 
+<!ENTITY contentBlocking.manageSettings2.accesskey "n">
+
 <!ENTITY contentBlocking.socialblock.label "Přesćěhowaki socialnych medijow">
 
 <!ENTITY contentBlocking.cookies2.label "Slědowace placki mjez sydłami">

@@ -733,8 +733,8 @@ addressbar-suggestions-settings = Nastajenja za namjety pytawy změnić
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokowanje wobsaha
-content-blocking-enhanced-tracking-protection = Polěpšeny slědowanski škit
 content-blocking-section-description = Škitajće swoju priwatnosć, mjeztym zo přehladujeće. Blokujće njewidźomny wobsah, kotryž sydła slěduje, kotrež wopytujeće, a profil wo was twori. Hdyž tajki wobsah blokujeće, dadźa so strony snano spěšnišo začitać.
+content-blocking-enhanced-tracking-protection = Polěpšeny slědowanski škit
 content-blocking-section-top-level-description = Přesćěhowaki wam online slěduja, zo bychu informacije wo wašich přehladowanskich zwučenosćach a zajimach hromadźili. { -brand-short-name } wjele z tutych přesćěhowakow a druhe złóstne skripty blokuje.
 content-blocking-learn-more = Dalše informacije
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -753,6 +753,23 @@ content-blocking-strict-description = Sylniši škit, móže zawinować, zo něk
 content-blocking-custom-desc = Wubjerće, štož chceće blokować.
 content-blocking-private-trackers = Znate přeścěhowaki jenož w priwatnych woknach
 content-blocking-third-party-cookies = Slědowace placki třećich
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standard
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Striktny
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Swójski
+    .accesskey = S
+
+
+
 content-blocking-etp-standard-desc = Wuwaženy za škit a wukon. Strony so normalnje začitaja.
 content-blocking-etp-strict-desc = Mócniši škit, ale móže zawinować, zo někotre sydła abo wobsa hižo njefunguja.
 content-blocking-etp-custom-desc = Wubjerće, kotre přesćěhowaki a skripty maja so blokować.
