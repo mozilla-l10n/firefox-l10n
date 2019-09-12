@@ -149,3 +149,6 @@ cfr-doorhanger-socialtracking-close-button = Cerrar
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } impidió que una red social lo rastreara aquí
 cfr-doorhanger-socialtracking-description = Su privacidad es importante. { -brand-short-name } ahora bloquea los rastreadores de redes sociales comunes, limitando la cantidad de datos que pueden recopilar sobre lo que hace en línea.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } bloqueó un identificador de huellas digitales en esta página
+cfr-doorhanger-fingerprinters-description = Su privacidad es importante. { -brand-short-name } ahora bloquea los identificadores de huellas digitales, que recopilan piezas de información de identificación única sobre su dispositivo para rastrearlo.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } bloqueó un criptominero en esta página
+cfr-doorhanger-cryptominers-description = Su privacidad es importante. { -brand-short-name } ahora bloquea los criptomineros, que utilizan la potencia informática de su sistema para extraer dinero digital.

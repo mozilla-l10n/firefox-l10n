@@ -725,8 +725,8 @@ addressbar-suggestions-settings = Cambiar preferencias para sugerencias de busca
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloqueo de contenido
-content-blocking-enhanced-tracking-protection = Protección contra rastreo aumentada
 content-blocking-section-description = Proteja su privacidad al navegar. Bloquee contenido que rastree los sitios visitados y arma perfiles. Bloquear algún contenido puede hacer que las páginas carguen más rápido.
+content-blocking-enhanced-tracking-protection = Protección contra rastreo aumentada
 content-blocking-section-top-level-description = Los rastreadores lo siguen en línea para recolectar información sobre sus hábitos e intereses de navegación. { -brand-short-name } bloquea muchos de estos rastreadores y otros scripts maliciosos.
 content-blocking-learn-more = Conocer más
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -745,6 +745,23 @@ content-blocking-strict-description = Una protección más fuerte puede causar q
 content-blocking-custom-desc = Elegir qué bloquear
 content-blocking-private-trackers = Rastreadores conocidos solo en Ventanas privadas
 content-blocking-third-party-cookies = Cookies de rastreo de terceros
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Estándar
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Estricta
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Personalizada
+    .accesskey = C
+
+
+
 content-blocking-etp-standard-desc = Equilibrado para protección y rendimiento. Las páginas se van a cargar normalmente.
 content-blocking-etp-strict-desc = Mayor protección, pero puede causar que algunos sitios o contenido no se carguen.
 content-blocking-etp-custom-desc = Elija qué rastreadores y secuencias de comandos quiere bloquear.
