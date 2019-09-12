@@ -142,5 +142,13 @@ cfr-doorhanger-firefox-send-ok-button = Prova { -send-brand-name }
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Se skydd
+    .accesskey = S
 cfr-doorhanger-socialtracking-close-button = Stäng
-    .accesskey = C
+    .accesskey = S
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } hindrade ett socialt nätverk från att spåra dig här
+cfr-doorhanger-socialtracking-description = Din integritet är viktig. { -brand-short-name } blockerar nu vanliga trackers för sociala medier, vilket begränsar hur mycket data de kan samla in om vad du gör online.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blockerade en fingerprinter på den här sidan
+cfr-doorhanger-fingerprinters-description = Din integritet är viktig. { -brand-short-name } blockerar nu fingerprinters, som samlar in delar av unik identifierbar information om din enhet för att spåra dig.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } blockerade en cryptominer på den här sidan
+cfr-doorhanger-cryptominers-description = Din integritet är viktig. { -brand-short-name } blockerar nu cryptominers, som använder ditt systems datakraft för att utvinna digitala pengar.

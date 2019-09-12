@@ -753,9 +753,12 @@ content-blocking-third-party-cookies = Spårningskakor från tredje part
 enhanced-tracking-protection-setting-standard =
     .label = Standard
     .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Strikt
+    .accesskey = r
 enhanced-tracking-protection-setting-custom =
     .label = Anpassad
-    .accesskey = C
+    .accesskey = A
 
 
 
