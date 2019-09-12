@@ -103,4 +103,4 @@ functionality specific to thunderbird. -->
 <!ENTITY blockedByPolicy.title "Tudalen wedi ei Rhwystro">
 
 <!ENTITY networkProtocolError.title "Gwall Protocol Rhwydwaith">
-<!ENTITY networkProtocolError.longDesc "<p>Nid oes modd dangos y dudalen rydych chi'n ceisio'i weld oherwydd canfuwyd gwall yn y protocol rhwydwaith.</p><ul><li> Cysylltwch â pherchenogion y wefan i roi gwybod iddynt am y broblem hon.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Nid oes modd dangos y dudalen rydych yn ceisio'i gweld oherwydd canfuwyd gwall yn y protocol rhwydwaith.</p><ul><li>Cysylltwch â pherchenogion y wefan i roi gwybod iddynt am y broblem hon.</li></ul>">

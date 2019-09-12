@@ -51,7 +51,7 @@ update-setting-write-failure-message =
     Doedd dim modd ysgrifennu i ffeil: { $path }
 update-in-progress-title = Diweddariad ar y Gweill
 update-in-progress-message = Ydych chi eisiau i { -brand-short-name } barhau gyda'r diweddariad hwn?
-update-in-progress-ok-button = & Dileu
+update-in-progress-ok-button = &Dileu
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Parhau
