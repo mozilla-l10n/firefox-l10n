@@ -761,6 +761,23 @@ content-blocking-strict-description = Gall amddiffyniad cryfach beri i rai safle
 content-blocking-custom-desc = Dewis beth i'w rhwystro.
 content-blocking-private-trackers = Tracwyr hysbys mewn Ffenestri Preifat yn unig.
 content-blocking-third-party-cookies = Cwcis tracio trydydd parti
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Safonol
+    .accesskey = S
+enhanced-tracking-protection-setting-strict =
+    .label = Llym
+    .accesskey = L
+enhanced-tracking-protection-setting-custom =
+    .label = Cyfaddas
+    .accesskey = C
+
+
+
 content-blocking-etp-standard-desc = Yn gytbwys ar gyfer diogelwch a pherfformiad. Bydd tudalennau'n llwytho'n arferol.
 content-blocking-etp-strict-desc = Diogelwch cryfach, ond gall achosi i rai gwefannau neu gynnwys dorri.
 content-blocking-etp-custom-desc = Dewiswch pa dracwyr a sgriptiau i'w rhwystro.
