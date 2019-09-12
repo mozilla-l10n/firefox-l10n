@@ -731,8 +731,26 @@ content-blocking-strict-description = הגנה חזקה יותר, שעשויה �
 content-blocking-custom-desc = בחירת הפריטים שייחסמו.
 content-blocking-private-trackers = רכיבי מעקב מוכרים בחלונות פרטיים בלבד
 content-blocking-third-party-cookies = עוגיות מעקב צד־שלישי
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = רגיל
+    .accesskey = ר
+enhanced-tracking-protection-setting-strict =
+    .label = מחמיר
+    .accesskey = מ
+enhanced-tracking-protection-setting-custom =
+    .label = התאמה אישית
+    .accesskey = ה
+
+
+
 content-blocking-etp-standard-desc = מאוזן בין הגנה לביצועים. דפים ייטענו כרגיל.
 content-blocking-etp-strict-desc = הגנה חזקה יותר, אך עשויה לשבש פעילות של אתרים או תוכן.
+content-blocking-etp-custom-desc = בחירה באילו רכיבי מעקב ותסריטים יש לחסום.
 content-blocking-private-windows = תוכן מעקב בחלונות פרטיים
 content-blocking-cross-site-tracking-cookies = עוגיות מעקב חוצות אתרים
 content-blocking-social-media-trackers = רכיבי מעקב של מדיה חברתית
