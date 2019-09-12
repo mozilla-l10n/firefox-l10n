@@ -6,6 +6,7 @@ certificate-viewer-certificate-section-title = Certificato
 
 ## Error messages
 
+certificate-viewer-error-message = Impossibile trovar le informationes del certificato o illo es corrupte. Retenta.
 certificate-viewer-error-title = Alco errate eveniva.
 
 ## Certificate information labels
@@ -14,6 +15,8 @@ certificate-viewer-algorithm = Algorithmo
 certificate-viewer-certificate-authority = Autoritate de certificato
 certificate-viewer-cipher-suite = Suite de cryptographia
 certificate-viewer-common-name = Nomine commun
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-country = Pais de constitution
 certificate-viewer-country = Pais
 certificate-viewer-curve = Curva
 certificate-viewer-distribution-point = Puncto de distribution
@@ -36,3 +39,19 @@ certificate-viewer-organizational-unit = Unitate organisative
 certificate-viewer-policy = Criterio
 certificate-viewer-protocol = Protocollo
 certificate-viewer-public-value = Valor del criterio
+certificate-viewer-purposes = Propositos
+certificate-viewer-qualifier = Qualificator
+certificate-viewer-qualifiers = Qualificatores
+certificate-viewer-required = Necessari
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-state-province = Stato/provincia constitutional
+certificate-viewer-state-province = Stato/provincia
+certificate-viewer-sha-1 = SHA-1
+certificate-viewer-sha-256 = SHA-256
+certificate-viewer-serial-number = Numero serial
+certificate-viewer-signature-algorithm = Algorithmo de firma
+certificate-viewer-signature-scheme = Schema de firma
+certificate-viewer-timestamp = Marca temporal
+certificate-viewer-value = Valor
+certificate-viewer-version = Version
+certificate-viewer-business-category = Categoria de negotio
