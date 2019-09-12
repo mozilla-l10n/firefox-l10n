@@ -50,7 +50,7 @@
 <!ENTITY WorkPhone.label                "Pune:">
 <!ENTITY WorkPhone.accesskey            "u">
 <!ENTITY HomePhone.label                "Shtëpie:">
-<!ENTITY HomePhone.accesskey            "B">
+<!ENTITY HomePhone.accesskey            "ë">
 <!ENTITY FaxNumber.label                "Faks:">
 <!ENTITY FaxNumber.accesskey            "F">
 <!ENTITY PagerNumber.label              "Faques:">
@@ -76,14 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "a">
 <!ENTITY Birthday.label                 "Datëlindje:">
 <!ENTITY Birthday.accesskey             "D">
-<!ENTITY In.label                       "">
 <!ENTITY Month.placeholder              "Muaj">
 <!ENTITY Day.placeholder                "Ditë">
 <!ENTITY Year.placeholder               "Vit">
-<!ENTITY Or.value                       "ose">
 <!ENTITY Age.label                      "Moshë:">
 <!ENTITY Age.placeholder                "Moshë">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Pune">
 <!ENTITY Work.accesskey                 "P">

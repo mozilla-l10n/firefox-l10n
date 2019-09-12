@@ -14,7 +14,7 @@
 <!ENTITY pasteAs.label "Ngjite Si">
 <!ENTITY pasteAs.accesskey "S">
 <!ENTITY pasteAsQuotationCmd.label "Ngjite Si Citim">
-<!ENTITY pasteAsQuotationCmd.accesskey "P">
+<!ENTITY pasteAsQuotationCmd.accesskey "C">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Gjeni…">
 <!ENTITY findReplaceCmd.label "Gjeni dhe Zëvendësoni…">
@@ -306,7 +306,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Futni spirancë të re të emërtuar ose përpunoni vetitë e spirancës së përzgjedhur">
 <!ENTITY TextColorButton.tooltip "Zgjidhni ngjyrë për tekstin">
 <!ENTITY BackgroundColorButton.tooltip "Zgjidhni ngjyrë për sfondin">
-<!ENTITY throbber.tooltip "Shko tek kreu i &vendorShortName;-it">
 <!ENTITY HighlightColorButton.tooltip "Zgjidhni ngjyrë theksimi teksti">
 
 <!-- Editor toolbar -->

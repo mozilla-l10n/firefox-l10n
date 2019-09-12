@@ -43,6 +43,6 @@
 <!ENTITY RemoveElement.label "Hiqe">
 <!ENTITY RemoveElement.accesskey "H">
 <!ENTITY MoveElementUp.label "Shpjere Sipër">
-<!ENTITY MoveElementUp.accesskey "N">
+<!ENTITY MoveElementUp.accesskey "i">
 <!ENTITY MoveElementDown.label "Ule">
 <!ENTITY MoveElementDown.accesskey "U">
