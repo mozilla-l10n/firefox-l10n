@@ -9,10 +9,7 @@
 <!ENTITY retry.label "Ceisiwch eto">
 <!ENTITY returnToPreviousPage.label "Ewch Nôl">
 <!ENTITY returnToPreviousPage1.label "Ewch Nôl (Argymell)">
-<!ENTITY advanced.label "Uwch">
-<!ENTITY continue2.label "Rhagor…">
 <!ENTITY advanced2.label "Uwch…">
-<!ENTITY moreInformation.label "Rhagor o Wybodaeth">
 <!ENTITY viewCertificate.label "Darllen Tystysgrif">
 
 <!-- Specific error messages -->
@@ -92,13 +89,11 @@
 <!ENTITY nssFailure2.title "Methodd y Cysylltiad Diogel">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Nid oes modd dangos y dudalen rydych yn ceisio ei darllen am nad oes modd dilysu'r data rydych wedi ei dderbyn.</li> <li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "Nid yw eich cysylltiad yn ddiogel">
 <!ENTITY certerror.longpagetitle2 "Rhybudd: Risg Diogelwch Posibl o'ch Blaen">
 <!ENTITY certerror.sts.longpagetitle  "Peidiwch Cysylltu: Mater Diogelwch Posib">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Mae perchennog <span class='hostname'/> wedi ffurfweddu ei wefan yn anghywir.  I rwystro eich manylion rhag cael eu dwyn, nid yw &brandShortName; wedi cysylltu â'r wefan.">
 <!ENTITY certerror.introPara2 "Mae &brandShortName; wedi canfod bygythiad diogelwch posib ac nid yw wedi mynd i <span class='hostname'/>. Os ewch i'r gwefan yma, gall ymosodwyr geisio dwyn gwybodaeth fel eich cyfrineiriau, e-byst neu fanylion cardiau credyd.">
 <!ENTITY certerror.sts.introPara "Mae &brandShortName; wedi canfod bygythiad diogelwch posib ac nid yw wedi mynd i <span class='hostname'/> gan fod y wefan angen cysylltiad diogel.">
 
@@ -124,8 +119,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Gwall Cynnwys Llygredig">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Nid oes modd dangos y dudalen rydych yn ceisio ei gweld yn sgil canfod gwall trosglwyddo data.</p><ul><li>Cysylltwch â pherchnogion y wefan i'w hysbysu o'r anhawster.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Ychwanegu Eithriad…">
 <!ENTITY securityOverride.exceptionButton1Label "Derbyn y Bygythiad a Pharhau">
 
 <!ENTITY errorReporting.automatic2 "Mae adroddiadau gwall fel hyn y cynorthwyo Mozilla i adnabod a rhwystro gwefannau maleisus">
@@ -139,16 +132,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Gwybodaeth uwch: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> Nid yw &brandShortName; wedi cysylltu â <span id='wrongSystemTime_URL'/> gan fod eich cloc i weld yn dangos yr amser anghywir ac mae hyn yn rhwystro cysylltiad diogel.</p> <p>Mae eich cyfrifiadur wedi ei osod i <span id='wrongSystemTime_systemDate'/>, pan ddylai ddangos <span id='wrongSystemTime_actualDate'/>. Er mwyn cywiro'r anhawster, newidiwch eich gosodiadau dyddiad ac amser i gyd-fynd a'r amser cywir.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> Nid yw &brandShortName; wedi cysylltu â <span id='wrongSystemTimeWithoutReference_URL'/> gan fod eich cloc i weld yn dangos yr amser anghywir ac mae hyn yn rhwystro cysylltiad diogel.</p> <p>Mae eich cyfrifiadur wedi ei osod i <span id='wrongSystemTimeWithoutReference_systemDate'/>. Er mwyn cywiro'r anhawster, newidiwch eich gosodiadau dyddiad ac amser i gyd-fynd a'r amser cywir.</p>">
-
-<!ENTITY certerror.pagetitle1  "Cysylltiad Anniogel">
 <!ENTITY certerror.pagetitle2  "Rhybudd: Risg Diogelwch Posibl o'ch Blaen">
 <!ENTITY certerror.sts.pagetitle  "Peidiwch cysylltu: Mater Diogelwch Posib">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Mae'r wefan hon yn defnyddio HTTP Strict Transport Security (HSTS) i bennu fod &brandShortName; yn unig yn cysylltu iddo'n ddiogel. O ganlyniad, nid yw'n bosib ychwanegu eithriad ar gyfer y dystysgrif hon.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Mae gan <span class='hostname'></span> bolisi diogelwch o'r enw HTTP Strict Transport Security (HSTS), sy'n golygu mai dim ond yn ddiogel mae modd i &brandShortName; gysylltu. Nid oes modd gosod eithriad er mwyn ymweld â'r wefan.">
 <!ENTITY certerror.copyToClipboard.label "Copïo testun i'r clipfwrdd">
 
@@ -173,4 +158,4 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Adfer y gosodiadau rhagosodedig">
 
 <!ENTITY networkProtocolError.title "Gwall Protocol Rhwydwaith">
-<!ENTITY networkProtocolError.longDesc "<p>Nid oes modd dangos y dudalen rydych chi'n ceisio'i gweld oherwydd cafwyd gwall yn y protocol rhwydwaith.</p><ul><li> Cysylltwch â pherchenogion y wefan i roi gwybod iddynt am y broblem hon.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Nid oes modd dangos y dudalen rydych yn ceisio'i gweld oherwydd cafwyd gwall yn y protocol rhwydwaith.</p><ul><li>Cysylltwch â pherchenogion y wefan i roi gwybod iddynt am y broblem hon.</li></ul>">
