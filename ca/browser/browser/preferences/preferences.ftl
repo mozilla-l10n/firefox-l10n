@@ -720,6 +720,8 @@ addressbar-suggestions-settings = Canvia les preferències dels suggeriments de 
 
 content-blocking-header = Bloqueig de contingut
 content-blocking-section-description = Protegiu la vostra privadesa mentre navegueu. Bloqueu el contingut invisible que fa el seguiment dels llocs que visiteu per crear un perfil vostre amb aquesta informació. Blocant aquest contingut, és possible que les pàgines es carreguin més ràpid.
+content-blocking-enhanced-tracking-protection = Protecció contra el seguiment millorada
+content-blocking-section-top-level-description = Hi ha elements que us fan el seguiment mentre navegueu per recopilar informació sobre els vostres hàbits de navegació i interessos. El { -brand-short-name } bloca molts d'aquests elements de seguiment i altres scripts maliciosos.
 content-blocking-learn-more = Més informació
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -737,6 +739,23 @@ content-blocking-strict-description = Més protecció, pot fer que alguns llocs 
 content-blocking-custom-desc = Trieu què voleu blocar.
 content-blocking-private-trackers = Elements de seguiment coneguts en finestres privades
 content-blocking-third-party-cookies = Galetes de seguiment de tercers
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Estàndard
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Estricta
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Personalitzada
+    .accesskey = P
+
+
+
 content-blocking-etp-standard-desc = Equilibri entre protecció i rendiment. Les pàgines es carregaran amb normalitat.
 content-blocking-etp-strict-desc = Més protecció, però pot fer que alguns llocs o algun contingut no funcionin correctament.
 content-blocking-etp-custom-desc = Trieu quins elements de seguiment i scripts cal blocar.
