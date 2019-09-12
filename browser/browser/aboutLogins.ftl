@@ -6,7 +6,7 @@ about-logins-page-title = Mewngofnodion a Chyfrineiriau
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Ewch â'ch cyfrineiriau i bobman
+login-app-promo-title = Ewch â'ch cyfrineiriau i bob man
 login-app-promo-subtitle = Sicrhewch { -lockwise-brand-name } yr ap am ddim
 login-app-promo-android =
     .alt = Mae ar gael yn Google Play
