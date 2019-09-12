@@ -133,3 +133,11 @@ cfr-doorhanger-firefox-send-header = Ibahagi ang PDF na ito sa ligtas na paraan
 cfr-doorhanger-firefox-send-body = Pangalagaan ang iyong mga maselang dokumento gamit ang end-to-end encryption at isang link na nawawala kapag tapos ka na rito.
 cfr-doorhanger-firefox-send-ok-button = Subukan ang { -send-brand-name }
     .accesskey = T
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Tingnan ang mga Proteksyon
+    .accesskey = P
+cfr-doorhanger-socialtracking-close-button = Isara
+    .accesskey = C
+cfr-doorhanger-socialtracking-heading = Pinigilan ng { -brand-short-name } ang isang social network na sundan ka rito
