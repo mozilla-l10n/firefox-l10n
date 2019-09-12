@@ -749,7 +749,7 @@ content-blocking-setting-standard =
     .label = Standardní
     .accesskey = d
 content-blocking-setting-strict =
-    .label = Přísná
+    .label = Přísné
     .accesskey = P
 content-blocking-setting-custom =
     .label = Vlastní
@@ -759,6 +759,23 @@ content-blocking-strict-description = Více blokovaného obsahu zvyšuje pravdě
 content-blocking-custom-desc = Sami vyberte, co a kde se má blokovat.
 content-blocking-private-trackers = Sledovací prvky blokovány v anonymních oknech
 content-blocking-third-party-cookies = Cookies sledovacích prvků třetích stran blokovány ve všech oknech
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standardní
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Přísná
+    .accesskey = P
+enhanced-tracking-protection-setting-custom =
+    .label = Vlastní
+    .accesskey = V
+
+
+
 content-blocking-etp-standard-desc = Vyvážená ochrana a výkon. Neovlivní správné načítání webových stránek.
 content-blocking-etp-strict-desc = Silnější ochrana. Může omezit fungování některých stránek.
 content-blocking-etp-custom-desc = Vyberte sledovací prvky a skripty, které chcete zablokovat.
