@@ -31,7 +31,7 @@
 <!ENTITY aboveQuote.label                     "在引用内容之前回复">
 <!ENTITY belowQuote.label                     "在引用内容之后回复">
 <!ENTITY selectAndQuote.label                 "选择引用内容">
-<!ENTITY place.label                          "并附加我的签名">
+<!ENTITY place.label                          "把签名档放在">
 <!ENTITY place.accesskey                      "s">
 <!ENTITY belowText.label                      "在引用内容之后（建议）">
 <!ENTITY aboveText.label                      "在我的回复之后（在引用内容之前）">
