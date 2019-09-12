@@ -141,3 +141,15 @@ cfr-doorhanger-firefox-send-header = Źělśo toś ten PDF wěsće
 cfr-doorhanger-firefox-send-body = Šćitajśo swoje sensibelne dokumenty pśed narskimi póglědnjenjami z koděrowanim kóńc do kóńca a z wótkazom, kótaryž se zgubijo, gaž sćo gótowy.
 cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } wopytaś
     .accesskey = o
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Šćity pokazaś
+    .accesskey = p
+cfr-doorhanger-socialtracking-close-button = Zacyniś
+    .accesskey = Z
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } socialnej seśi zawoborał, wam how slědowaś
+cfr-doorhanger-socialtracking-description = Waša priwatnosć jo wažna. { -brand-short-name } něnto zwucone pśeslědowaki socialnych medijow blokěrujo, wobgranicujo tšochu datow, kótarež mógu wó tom zběraś, což wy online gótujośo.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } jo zablokěrował palcowe wótśišće na toś tom boku
+cfr-doorhanger-fingerprinters-description = Waša priwatnosć jo wažna. { -brand-short-name } něnto palcowe wótśišće blokěrujo, kótarež jasnje idenficěrujobne informacije wó wašom rěźe gromaźe, aby wam slědowali.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } jo zablokěrował kryptokopak na toś tom boku
