@@ -19,7 +19,7 @@
 <!ENTITY title.tooltip "HTML-attributten &quot;title&quot; der vises som et værktøjstip">
 <!ENTITY altText.label "Alternativ tekst:">
 <!ENTITY altText.accessKey "e">
-<!ENTITY altTextEditField.tooltip "Skriv den tekst der skal skrives på billedets plads">
+<!ENTITY altTextEditField.tooltip "Skriv den tekst, der skal skrives på billedets plads">
 <!ENTITY noAltText.label "Brug ikke alternativ tekst">
 <!ENTITY noAltText.accessKey "B">
 
@@ -33,7 +33,7 @@
 <!ENTITY actualSizeRadio.tooltip "Brug billedets egen størrelse">
 <!ENTITY customSizeRadio.label "Indstil størrelse">
 <!ENTITY customSizeRadio.accessKey "S">
-<!ENTITY customSizeRadio.tooltip "Skift billedets størrelse når det vises på siden">
+<!ENTITY customSizeRadio.tooltip "Skift billedets størrelse, når det vises på siden">
 <!ENTITY heightEditField.label "Højde:">
 <!ENTITY heightEditField.accessKey "H">
 <!ENTITY widthEditField.label "Bredde:">
@@ -65,7 +65,7 @@
 <!ENTITY borderEditField.accessKey "U">
 
 <!-- These controls are in the Link Box -->
-<!ENTITY showImageLinkBorder.label "Farvet kant rundt om billeder der er link">
+<!ENTITY showImageLinkBorder.label "Farvet kant rundt om billeder der er links">
 <!ENTITY showImageLinkBorder.accessKey "U">
 
 <!ENTITY LinkAdvancedEditButton.label "Avanceret linkredigering…">
