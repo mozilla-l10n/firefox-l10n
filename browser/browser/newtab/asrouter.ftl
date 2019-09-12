@@ -135,6 +135,19 @@ cfr-doorhanger-firefox-send-body = Mantieni i tuoi documenti riservati al sicuro
 cfr-doorhanger-firefox-send-ok-button = Prova { -send-brand-name }
   .accesskey = P
 
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Visualizza protezioni
+  .accesskey = V
+cfr-doorhanger-socialtracking-close-button = Chiudi
+  .accesskey = C
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } ha impedito a un social network di tracciarti
+cfr-doorhanger-socialtracking-description = La tua privacy è importante. Adesso { -brand-short-name } blocca i traccianti dei social media più comuni, limitando la quantità di dati che sono in grado di raccogliere sulla tua attività online.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } ha bloccato un fingerprinter in questa pagina
+cfr-doorhanger-fingerprinters-description = La tua privacy è importante. Adesso { -brand-short-name } blocca i fingerprinter, elementi che raccolgono informazioni in grado di identificare il tuo dispositivo in modo univoco al fine di tracciare la tua attività online.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } ha bloccato un cryptominer in questa pagina
+cfr-doorhanger-cryptominers-description = La tua privacy è importante. Adesso { -brand-short-name } blocca i cryptominer, elementi che utilizzano le risorse del tuo sistema per effettuare il “mining” di valute digitali.
+
 ## Protections panel
 
 cfr-protections-panel-header = Naviga senza lasciarti seguire
