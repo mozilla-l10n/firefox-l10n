@@ -745,6 +745,23 @@ content-blocking-strict-description = Sterkare vern kan føre til feil på netts
 content-blocking-custom-desc = Vell kva du vil blokkere.
 content-blocking-private-trackers = Kjende sporfølgjarar berre i Private vindauge
 content-blocking-third-party-cookies = Tredjeparts sporingsinfokapslar
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standard
+    .accesskey = S
+enhanced-tracking-protection-setting-strict =
+    .label = Streng
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Tilpassa
+    .accesskey = T
+
+
+
 content-blocking-etp-standard-desc = Balansert for vern og yting. Sider vil laste normalt.
 content-blocking-etp-strict-desc = Sterkare vern, men kan føre til at nokre nettstadar eller innhald ikkje vil fungere.
 content-blocking-etp-custom-desc = Vel kva for sporfølgjarar og skript som skal blokkerast.
