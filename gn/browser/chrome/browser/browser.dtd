@@ -991,6 +991,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Kookie">
 <!ENTITY contentBlocking.cookiesView.label "Kookie ha mba’ekuaarã renda rehegua">
 
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
+
 <!ENTITY contentBlocking.socialblock.label "Ava ñandutieta vore rapykuehoha">
 
 <!ENTITY contentBlocking.cookies2.label "Kookie rapykuehoha tenda ojoasáva rehegua">

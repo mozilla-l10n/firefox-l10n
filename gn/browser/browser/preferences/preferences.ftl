@@ -745,6 +745,23 @@ content-blocking-strict-description = Peteĩ ñemo’ã imbaretevéva ikatu ombo
 content-blocking-custom-desc = Eiporavo mba’etépa ejokóta.
 content-blocking-private-trackers = Jehekaha ojekuaáva ovetã ñemiguápe añoite
 content-blocking-third-party-cookies = Jehekaha kookie mbohapyguáva
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Ypykue
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Mbaretépe
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Ñemomba’epyre
+    .accesskey = C
+
+
+
 content-blocking-etp-standard-desc = Imbytéva ñemo’ã ha tembiapokuépe g̃uarã. Umi kuatiarogue henyhẽta hekoitépe.
 content-blocking-etp-strict-desc = Ñemo’ãve, hákatu ikatu ndahetái tenda térã tetepy nahenyhẽi.
 content-blocking-etp-custom-desc = Eiporavo mba’ete tapykuehoha ha scripts ejokose.

@@ -135,3 +135,10 @@ cfr-doorhanger-firefox-send-header = Emoherakuã ko PDF tekorosãme
 cfr-doorhanger-firefox-send-body = Eguereko nde kuatiakuéra ñemiguáva ambue ñema’ẽgui ipapapyetéva reheve ha juajuha oguéva ejapopa vove.
 cfr-doorhanger-firefox-send-ok-button = Ehecha { -send-brand-name }
     .accesskey = T
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Ehecha ñemo’ã
+    .accesskey = P
+cfr-doorhanger-socialtracking-close-button = Mboty
+    .accesskey = C
