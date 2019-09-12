@@ -17,7 +17,7 @@
 <!ENTITY cmd.stateMenu.tooltip                "Canvia quan s'executa aquest complement">
 
 <!ENTITY cmd.uninstallAddon.label             "Elimina">
-<!ENTITY cmd.uninstallAddon.accesskey         "r">
+<!ENTITY cmd.uninstallAddon.accesskey         "E">
 <!ENTITY cmd.showPreferencesWin.label         "Opcions">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Canvia les opcions del complement">
 <!ENTITY cmd.showPreferencesUnix.label        "Preferències">
