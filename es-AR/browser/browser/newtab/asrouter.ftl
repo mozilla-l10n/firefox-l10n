@@ -139,3 +139,13 @@ cfr-doorhanger-firefox-send-header = Compartir este PDF de forma segura
 cfr-doorhanger-firefox-send-body = Mantenga sus documentos confidenciales a salvo de miradas indiscretas con cifrado de extremo a extremo y un enlace que desaparece cuando termina.
 cfr-doorhanger-firefox-send-ok-button = Probar { -send-brand-name }
     .accesskey = T
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Ver protecciones
+    .accesskey = P
+cfr-doorhanger-socialtracking-close-button = Cerrar
+    .accesskey = C
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } impidió que una red social lo rastreara aquí
+cfr-doorhanger-socialtracking-description = Su privacidad es importante. { -brand-short-name } ahora bloquea los rastreadores de redes sociales comunes, limitando la cantidad de datos que pueden recopilar sobre lo que hace en línea.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } bloqueó un identificador de huellas digitales en esta página
