@@ -6,8 +6,8 @@ about-logins-page-title = 我的密码
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = 随身携带您的密码
-login-app-promo-subtitle = 获取免费的 { -lockwise-brand-name } 应用
+login-app-promo-title = 密码随身带着走
+login-app-promo-subtitle = 免费下载 { -lockwise-brand-name } 应用
 login-app-promo-android =
     .alt = 从 Google Play 获取
 login-app-promo-apple =
