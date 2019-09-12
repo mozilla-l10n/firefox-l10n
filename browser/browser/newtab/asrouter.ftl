@@ -113,3 +113,14 @@ cfr-doorhanger-sync-logins-ok-button = הפעלת { -sync-brand-short-name }
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = שיתוף ה־PDF הזה באופן מאובטח
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = הצגת הגנות
+    .accesskey = ג
+cfr-doorhanger-socialtracking-close-button = סגירה
+    .accesskey = ס
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } מנע מעקב של רשת חברתית כאן
+cfr-doorhanger-socialtracking-description = הפרטיות שלך חשובה. { -brand-short-name } חוסם כעת רכיבי מעקב נפוצים של מדיה חברתית, ומגביל את כמות הנתונים שהם יכולים לאסוף על הפעילויות שלך ברשת.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } חסם כורה מטבעות דיגיטליים בדף זה
+cfr-doorhanger-cryptominers-description = הפרטיות שלך חשובה. { -brand-short-name } חוסם כעת כורי מטבעות דיגיטליים, המשתמשים בכוח העיבוד של המערכת שלך כדי לכרות כסף דיגיטלי.
