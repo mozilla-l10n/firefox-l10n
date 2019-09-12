@@ -337,7 +337,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.accesskey   "D">
 
 <!ENTITY inspectContextMenu.label     "Archwilio Elfen">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.accesskey "E">
 
 <!ENTITY inspectA11YContextMenu.label     "Archwilio'r Priodoleddau Hygyrchedd">
 
@@ -990,6 +990,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "Cwcis">
 <!ENTITY contentBlocking.cookiesView.label "Cwcis a Data Gwefan">
+
 
 <!ENTITY contentBlocking.socialblock.label "Tracwyr Cyfryngau Cymdeithasol">
 
