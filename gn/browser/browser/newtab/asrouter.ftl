@@ -142,3 +142,7 @@ cfr-doorhanger-socialtracking-ok-button = Ehecha ñemo’ã
     .accesskey = P
 cfr-doorhanger-socialtracking-close-button = Mboty
     .accesskey = C
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } ojoko ani nde rapykueho ápe ava ñandutieta
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } ojoko kuãhũ juhuha ko kuatiaroguépe
+cfr-doorhanger-cryptominers-heading = { -brand-short-name }  ojoko criptominero ko kuatiaroguépe
+cfr-doorhanger-cryptominers-description = Ne ñemigua tuichamba’e. { -brand-short-name } ko’ág̃a ojoko umi criptominero, oipurúva tembipurupyahu apopyvusu mbaretekue oguenohẽ hag̃ua viru ñandutigua.
