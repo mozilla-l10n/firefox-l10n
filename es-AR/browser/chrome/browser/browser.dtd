@@ -991,6 +991,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies y datos del sitio">
 
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
+
 <!ENTITY contentBlocking.socialblock.label "Rastreadores de redes sociales">
 
 <!ENTITY contentBlocking.cookies2.label "Cookies de rastreo de sitios cruzados">
