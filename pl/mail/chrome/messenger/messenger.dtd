@@ -192,7 +192,7 @@
 <!ENTITY sortByStatusCmd.accesskey "S">
 <!ENTITY sortByTagsCmd.label "Etykiety">
 <!ENTITY sortByTagsCmd.accesskey "E">
-<!ENTITY sortByJunkStatusCmd.label "Stan niechcianej poczty">
+<!ENTITY sortByJunkStatusCmd.label "Stanu niechcianej poczty">
 <!ENTITY sortByJunkStatusCmd.accesskey "u">
 <!ENTITY sortBySubjectCmd.label "Tematu">
 <!ENTITY sortBySubjectCmd.accesskey "T">
