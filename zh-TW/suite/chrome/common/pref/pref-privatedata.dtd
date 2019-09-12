@@ -5,7 +5,7 @@
 <!--LOCALIZATION NOTE : FILE 'Private Data' prefs settings
     These entities go on top of the sanitize.dtd definitions
 -->
-<!ENTITY pref.privatedata.title           "隱私資料">
+<!ENTITY pref.privatedata.title           "私人資料">
 
 
 <!ENTITY clearPrivateData.label           "清除隱私資料">
@@ -25,4 +25,3 @@
 <!ENTITY clearDataDialog.label            "立刻清除…">
 <!ENTITY clearDataSilent.label            "立刻清除">
 <!ENTITY clearDataDialog.accesskey        "N">
-

@@ -30,7 +30,7 @@
 <!ENTITY download.label "下載">
 
 <!ENTITY security.label "隱私權與安全性">
-<!ENTITY privatedata.label "隱私資料">
+<!ENTITY privatedata.label "私人資料">
 <!ENTITY cookies.label "Cookie">
 <!ENTITY images.label "圖片">
 <!ENTITY popups.label "彈出型視窗 (Popup)">
