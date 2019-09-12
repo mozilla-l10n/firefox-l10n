@@ -943,7 +943,7 @@ Picture-in-picture mini window -->
 <!ENTITY pref_notification_settings_link "Rheoli gosodiadau hysbysu">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Porwr">
-<!ENTITY mls_notification_channel "Gwasanaeth Lleoli &vendorShortName;">
+<!ENTITY mls_notification_channel "Gwasanaeth Lleoliad &vendorShortName;">
 <!ENTITY download_notification_channel "Llwythau">
 <!ENTITY media_notification_channel2 "Sain a fideo">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
