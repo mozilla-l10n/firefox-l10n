@@ -14,7 +14,7 @@
 <!ENTITY file.close.accesskey           "M">
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Parje">
-<!ENTITY views.accesskey                "S">
+<!ENTITY views.accesskey                "P">
 <!ENTITY views.tooltip                  "Ndërroni shfaqjen">
 <!ENTITY view.columns.label             "Shfaq Shtylla">
 <!ENTITY view.columns.accesskey         "S">
@@ -69,9 +69,6 @@
 <!ENTITY cmd.context_new_folder.accesskey  "O">
 <!ENTITY cmd.new_separator.label           "Ndarës i Ri">
 <!ENTITY cmd.new_separator.accesskey       "s">
-
-<!ENTITY cmd.reloadLivebookmark.label      "Ringarko Faqerojtësin e Gjallë">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
 
 <!ENTITY col.name.label          "Emër">
 <!ENTITY col.tags.label          "Etiketa">

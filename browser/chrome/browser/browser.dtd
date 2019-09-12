@@ -679,7 +679,7 @@ Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Këtë Kuadër">
-<!ENTITY thisFrameMenu.accesskey          "z">
+<!ENTITY thisFrameMenu.accesskey          "K">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
@@ -989,6 +989,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies dhe të Dhëna Sajti">
 
+
 <!ENTITY contentBlocking.socialblock.label "Gjurmues Mediash Shoqërore">
 
 <!ENTITY contentBlocking.cookies2.label "<em>Cookies</em> Gjurmimi Nga Sajte Në Sajte">
@@ -1024,7 +1025,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.unblockPrivate5.label "Çaktivizo përkohësisht bllokimin">
 <!ENTITY trackingProtection.unblockPrivate5.accesskey "Ç">
 <!ENTITY trackingProtection.block6.label "Aktivizoje bllokimin për këtë sajt">
-<!ENTITY trackingProtection.block6.accesskey "Ç">
+<!ENTITY trackingProtection.block6.accesskey "A">
 <!ENTITY trackingProtection.reload2.label "Ringarkoje Faqen">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
