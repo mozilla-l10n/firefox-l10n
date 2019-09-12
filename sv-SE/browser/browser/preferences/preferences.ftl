@@ -725,8 +725,8 @@ addressbar-suggestions-settings = Ändra inställningar för förslag från sök
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Innehållsblockering
-content-blocking-enhanced-tracking-protection = Förbättrat spårningsskydd
 content-blocking-section-description = Skydda din integritet medan du surfar. Blockera osynligt innehåll som spårar de webbplatser du besöker och profilerar dig. Att blockera något av detta innehåll kan göra att sidor laddas snabbare.
+content-blocking-enhanced-tracking-protection = Förbättrat spårningsskydd
 content-blocking-section-top-level-description = Trackers följer dig runt online för att samla in information om dina surfvanor och intressen. { -brand-short-name } blockerar många av dessa trackers och andra skadliga skript.
 content-blocking-learn-more = Läs mer
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -745,6 +745,20 @@ content-blocking-strict-description = Starkare skydd, kan orsaka fel på vissa w
 content-blocking-custom-desc = Välj vad du vill blockera.
 content-blocking-private-trackers = Kända trackers endast i privata fönster
 content-blocking-third-party-cookies = Spårningskakor från tredje part
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standard
+    .accesskey = d
+enhanced-tracking-protection-setting-custom =
+    .label = Anpassad
+    .accesskey = C
+
+
+
 content-blocking-etp-standard-desc = Balanserad för skydd och prestanda. Sidor laddas normalt.
 content-blocking-etp-strict-desc = Starkare skydd, men kan leda till att vissa webbplatser eller innehåll inte fungerar.
 content-blocking-etp-custom-desc = Välj vilka trackers och skript som ska blockeras.
