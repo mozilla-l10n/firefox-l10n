@@ -13,9 +13,10 @@ certificate-viewer-error-title = Algo deu errado.
 
 certificate-viewer-algorithm = Algoritmo
 certificate-viewer-certificate-authority = Autoridade certificadora
+certificate-viewer-cipher-suite = Suíte de criptografia
 certificate-viewer-common-name = Nome da empresa
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
-certificate-viewer-inc-country = Local de incorporação
+certificate-viewer-inc-country = País de incorporação
 certificate-viewer-country = País
 certificate-viewer-curve = Curva
 certificate-viewer-distribution-point = Ponto de distribuição
@@ -42,3 +43,15 @@ certificate-viewer-purposes = Finalidades
 certificate-viewer-qualifier = Qualificador
 certificate-viewer-qualifiers = Qualificadores
 certificate-viewer-required = Obrigatório
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-state-province = Estado/Província de incorporação
+certificate-viewer-state-province = Estado/Província
+certificate-viewer-sha-1 = SHA-1
+certificate-viewer-sha-256 = SHA-256
+certificate-viewer-serial-number = Número de série
+certificate-viewer-signature-algorithm = Algoritmo de assinatura
+certificate-viewer-signature-scheme = Esquema de assinatura
+certificate-viewer-timestamp = Registro de data e hora
+certificate-viewer-value = Valor
+certificate-viewer-version = Versão
+certificate-viewer-business-category = Categoria de negócio
