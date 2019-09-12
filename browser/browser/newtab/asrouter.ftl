@@ -150,3 +150,7 @@ cfr-doorhanger-socialtracking-close-button = Začinić
     .accesskey = Z
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } je socialnu syć při tym haćił, wam tu slědować
 cfr-doorhanger-socialtracking-description = Waša priwatnosć je wažna. { -brand-short-name } nětko zwučene přesćěhowaki socialnych medijow blokuje, wobmjezuje mnóstwo datow, kotrež móža wo tym zběrać, štož wy online činiće.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } je porstowe wotćišće na tutej stronje zablokował
+cfr-doorhanger-fingerprinters-description = Waša priwatnosć je wažna. { -brand-short-name } nětko porstowe wotćišće blokuje, kotrež jasnje idenfikujomne informacije wo wašim graće hromadźa, zo bychu wam slědowali.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } je kryptokopak na tutej stronje zablokował
+cfr-doorhanger-cryptominers-description = Waša priwatnosć je wažna. { -brand-short-name } nětko kryptokopaki blokuje, kotrež ličenski wukon wašeho systema wužiwaja, zo bychu digitalne pjenjezy wudobyli.
