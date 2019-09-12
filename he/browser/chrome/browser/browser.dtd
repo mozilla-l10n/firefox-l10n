@@ -981,6 +981,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "עוגיות">
 <!ENTITY contentBlocking.cookiesView.label "עוגיות ונתוני אתרים">
 
+<!ENTITY contentBlocking.manageSettings2.accesskey "נ">
+
 <!ENTITY contentBlocking.socialblock.label "רכיבי מעקב של מדיה חברתית">
 
 <!ENTITY contentBlocking.cookies2.label "עוגיות מעקב חוצות אתרים">
