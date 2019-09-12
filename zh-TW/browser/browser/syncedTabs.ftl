@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-synced-tabs-sidebar-title = 已同步的分頁
+synced-tabs-sidebar-title = 同步的分頁
 synced-tabs-sidebar-noclients-subtitle = 想在這裡看到您其他裝置上開啟的分頁嗎？
 synced-tabs-sidebar-notsignedin = 登入以檢視您其他裝置中的分頁清單。
 synced-tabs-sidebar-unverified = 需要驗證您的帳號。

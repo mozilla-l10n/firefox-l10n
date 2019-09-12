@@ -418,7 +418,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.recentHistory.label "最近紀錄">
 <!ENTITY appMenuHelp.label "說明">
 
-<!ENTITY appMenuRemoteTabs.label "已同步的分頁">
+<!ENTITY appMenuRemoteTabs.label "同步的分頁">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "無已開啟的分頁">
@@ -442,7 +442,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.unverified.label "需要驗證您的帳號。">
 <!ENTITY appMenuRemoteTabs.signin.label "登入至 Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "管理裝置…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "檢視「已同步的分頁」側邊欄">
+<!ENTITY appMenuRemoteTabs.sidebar.label "檢視「同步的分頁」側邊欄">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "隱藏已同步分頁側邊欄">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "連結其他裝置">
 
@@ -947,9 +947,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "瀏覽器分頁">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "已同步的分頁">
+<!ENTITY syncTabsMenu3.label     "同步的分頁">
 
-<!ENTITY syncedTabs.sidebar.label              "已同步的分頁">
+<!ENTITY syncedTabs.sidebar.label              "同步的分頁">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -990,6 +990,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "Cookie">
 <!ENTITY contentBlocking.cookiesView.label "Cookie 與網站資料">
+
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "社交媒體追蹤器">
 
