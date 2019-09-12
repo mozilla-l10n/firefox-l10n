@@ -31,5 +31,7 @@ certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Serienummer
 certificate-viewer-signature-algorithm = Signaturalgoritme
+certificate-viewer-timestamp = Tidsstempel
+certificate-viewer-value = Verdi
 certificate-viewer-version = Versjon
 certificate-viewer-business-category = Virksomhetskategori
