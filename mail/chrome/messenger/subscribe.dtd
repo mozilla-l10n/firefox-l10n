@@ -6,7 +6,7 @@
 <!ENTITY subscribeButton.label        "Pajtomë">
 <!ENTITY subscribeButton.accesskey    "P">
 <!ENTITY unsubscribeButton.label      "Shpajtomë">
-<!ENTITY unsubscribeButton.accesskey  "Ç">
+<!ENTITY unsubscribeButton.accesskey  "S">
 <!ENTITY newGroupsTab.label           "Grupe të Rinj">
 <!ENTITY newGroupsTab.accesskey       "G">
 <!ENTITY refreshButton.label          "Freskoje">
@@ -16,7 +16,7 @@
 <!ENTITY server.label                 "Llogari:">
 <!ENTITY server.accesskey             "L">
 <!ENTITY subscribedHeader.label       "Pajtohuni">
-<!-- commenting out until bug 38906 is fixed 
+<!-- commenting out until bug 38906 is fixed
 <!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label              "Shfaq elementë që përmbajnë:">
 <!ENTITY namefield.accesskey          "S">

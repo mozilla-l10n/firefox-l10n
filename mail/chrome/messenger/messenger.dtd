@@ -672,7 +672,7 @@
 <!ENTITY folderContextSendUnsentMessages.label "Dërgo Mesazhet e Padërguar">
 <!ENTITY folderContextSendUnsentMessages.accesskey "P">
 <!ENTITY folderContextUnsubscribe.label "Shpajtohuni">
-<!ENTITY folderContextUnsubscribe.accesskey "Ç">
+<!ENTITY folderContextUnsubscribe.accesskey "S">
 <!ENTITY folderContextMarkNewsgroupRead.label "Shënoje Grupin e Lajmeve si Të lexuar">
 <!ENTITY folderContextMarkNewsgroupRead.accesskey "L">
 <!ENTITY folderContextMarkMailFolderRead.label "Shënoje Dosjen si Të lexuar">
@@ -857,7 +857,7 @@
 <!ENTITY contextPlay.label "Luaje">
 <!ENTITY contextPlay.accesskey "L">
 <!ENTITY contextPause.label "Ndale">
-<!ENTITY contextPause.accesskey "P">
+<!ENTITY contextPause.accesskey "N">
 <!ENTITY contextMute.label "Pa Zë">
 <!ENTITY contextMute.accesskey "a">
 <!ENTITY contextUnmute.label "Me Zë">

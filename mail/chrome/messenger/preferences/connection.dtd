@@ -38,6 +38,9 @@
 <!ENTITY  noproxy.label                 "Pa Ndërmjetës për:">
 <!ENTITY  noproxy.accesskey             "a">
 <!ENTITY  noproxyExplain.label          "Shembull: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
 <!ENTITY  shareproxy.label              "Përdor këtë shërbyes ndërmjetës për tërë protokollet">
 <!ENTITY  shareproxy.accesskey          "d">
 <!ENTITY  autologinproxy.label          "Mos shfaq kërkesë mirëfilltësimi, nëse është ruajtur fjalëkalim">
@@ -46,13 +49,5 @@
 <!ENTITY  socksRemoteDNS.label          "DNS ndërmjetësi kur përdoret SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  dnsOverHttps.label            "Aktivizoni DNS përmes HTTPS-je">
-<!ENTITY  dnsOverHttps.accesskey        "b">
-<!ENTITY  dnsOverHttpsUrl.label         "URL">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URL për ftillim DNS-je përmes HTTPS-je">
-<!ENTITY  dnsOverHttpsUrlDefault.label     "Përdor parazgjedhjet">
-<!ENTITY  dnsOverHttpsUrlDefault.accesskey "a">
+<!ENTITY  dnsOverHttps.accesskey        "z">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Përdor URL-në parazgjedhje për ftillim DNS-je përmes HTTPS-së">
-<!ENTITY  dnsOverHttpsUrlCustom.label      "Vetjake">
-<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "t">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Jepni URL-në tuaj të parapëlqyer për ftillim DNS-je përmes HTTPS-së">

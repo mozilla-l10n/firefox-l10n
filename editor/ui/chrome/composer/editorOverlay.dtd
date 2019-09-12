@@ -14,7 +14,7 @@
 <!ENTITY pasteAs.label "Ngjite Si">
 <!ENTITY pasteAs.accesskey "S">
 <!ENTITY pasteAsQuotationCmd.label "Ngjite Si Citim">
-<!ENTITY pasteAsQuotationCmd.accesskey "P">
+<!ENTITY pasteAsQuotationCmd.accesskey "C">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Gjeni…">
 <!ENTITY findReplaceCmd.label "Gjeni dhe Zëvendësoni…">
