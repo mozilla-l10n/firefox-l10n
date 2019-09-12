@@ -4,9 +4,9 @@
 
 <!-- extracted from content/viewSource.xul -->
 
-<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
+<!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
-<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
@@ -51,12 +51,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.label "Ail-lwytho">
 <!ENTITY reloadCmd.accesskey "A">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "Amlapio Llinellau Hir"> 
+<!ENTITY menu_wrapLongLines.title "Amlapio Llinellau Hir">
 <!ENTITY menu_wrapLongLines.accesskey "L">
 <!ENTITY menu_highlightSyntax.label "Amlygu Cystrawen">
 <!ENTITY menu_highlightSyntax.accesskey "m">
 <!ENTITY menu_textSize.label "Maint Testun">
-<!ENTITY menu_textSize.accesskey "Z">
+<!ENTITY menu_textSize.accesskey "T">
 <!ENTITY menu_textEnlarge.label "Cynyddu">
 <!ENTITY menu_textEnlarge.accesskey "y">
 <!ENTITY menu_textReduce.label "Lleihau">
@@ -84,8 +84,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "L">
 <!ENTITY copyEmailCmd.label "Copïo Cyfeiriad E-bost">
 <!ENTITY copyEmailCmd.accesskey "E">
-
-<!-- Copied from charsetMenu.dtd -->
-<!ENTITY charsetMenu2.label            "Amgodiad Testun">
-<!ENTITY charsetMenu2.accesskey        "A">
-
