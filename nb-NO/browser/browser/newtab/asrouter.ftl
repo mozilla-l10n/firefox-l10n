@@ -148,3 +148,7 @@ cfr-doorhanger-socialtracking-close-button = Lukk
     .accesskey = L
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } forhindret et sosialt nettverk fra å spore deg her
 cfr-doorhanger-socialtracking-description = Ditt personvern betyr noe. { -brand-short-name } blokkerer nå vanlige sporere fra sosiale medier, og begrenser hvor mye data de kan samle inn om hva du gjør på nettet.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blokkerte en fingerprinter på denne siden
+cfr-doorhanger-fingerprinters-description = Ditt personvern betyr noe. { -brand-short-name } blokkerer nå fingerprinters, som samler deler av unikt identifiserbar informasjon om enheten din for å spore deg.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } blokkerte en kryptominer på denne siden
+cfr-doorhanger-cryptominers-description = Ditt personvern betyr noe. { -brand-short-name } blokkerer nå kryptominere, som bruker systemets datakraft til å utvinne digitale penger.
