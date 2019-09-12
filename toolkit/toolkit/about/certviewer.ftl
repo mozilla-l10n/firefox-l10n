@@ -40,6 +40,8 @@ certificate-viewer-policy = 政策
 certificate-viewer-protocol = 通訊協定
 certificate-viewer-public-value = 公開值
 certificate-viewer-purposes = 用途
+certificate-viewer-qualifier = Qualifier
+certificate-viewer-qualifiers = Qualifier
 certificate-viewer-required = 必需
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = 註冊州 / 省
