@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Krijoni punë të re" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Punë" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Shfaq Punët e plotësuara">
 
 <!ENTITY calendar.today.button.label          "Sot">
@@ -178,15 +179,13 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Pjesëmarrje">
 <!ENTITY calendar.context.attendance.menu.accesskey             "e">
 <!ENTITY calendar.context.attendance.occurrence.label           "Këtë Herë">
-<!ENTITY calendar.context.attendance.all.label        "Gjithë Herët" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Seri të Plota">
 <!ENTITY calendar.context.attendance.send.label                 "Dërgo një njoftim tani">
 <!ENTITY calendar.context.attendance.send.accesskey             "D">
 <!ENTITY calendar.context.attendance.dontsend.label             "Mos dërgo njoftim">
 <!ENTITY calendar.context.attendance.dontsend.accesskey         "M">
 
-<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "o">
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "a">
 <!ENTITY calendar.context.attendance.occ.accepted.label         "Pranuar">
 <!ENTITY calendar.context.attendance.occ.tentative.accesskey    "u">
 <!ENTITY calendar.context.attendance.occ.tentative.label        "Pranuar përkohësisht">
