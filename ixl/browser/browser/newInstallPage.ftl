@@ -11,4 +11,5 @@ title = Tiilachalaj Tzii
 heading = Ijalpul tatin vavatzib'ale' tu { -brand-short-name }
 changed-title = Kam kat jalpiya?
 changed-desc-profiles = Uva' ni toksal ok tetz u { -brand-short-name } at uma'l tilb'al tetz. A' uma'l tilb'al tetze' a'e' ni kolon unq'a aq'one' uva ni kol kat u Firefox unq'a yole' uve' at texhlal, kach'ub' tetz as u vee' ni chit isa' u aq'oman tetze'.
+changed-desc-dedicated = Aq'al uva' oora kuxhtu' as b'a'n tatine' tul uva' la teq'o ku'tzan u Firefox (la oksal ok Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition y Firefox Nightly), tan uve' a'n tuk oksalo ok, va'l itza'lal u tilpe'. As a' chite' ye' la aq'on b'en yol tuk' ka'taj kam uva' la oksal ok ta'n u Firefox.
 sync-button = Yakeb'en
