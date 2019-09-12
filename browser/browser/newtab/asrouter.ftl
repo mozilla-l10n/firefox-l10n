@@ -147,3 +147,4 @@ cfr-doorhanger-socialtracking-ok-button = Se beskyttelser
 cfr-doorhanger-socialtracking-close-button = Lukk
     .accesskey = L
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } forhindret et sosialt nettverk fra å spore deg her
+cfr-doorhanger-socialtracking-description = Ditt personvern betyr noe. { -brand-short-name } blokkerer nå vanlige sporere fra sosiale medier, og begrenser hvor mye data de kan samle inn om hva du gjør på nettet.
