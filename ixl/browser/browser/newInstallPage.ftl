@@ -9,4 +9,5 @@
 
 title = Tiilachalaj Tzii
 heading = Ijalpul tatin vavatzib'ale' tu { -brand-short-name }
+changed-title = Kam kat jalpiya?
 sync-button = Yakeb'en
