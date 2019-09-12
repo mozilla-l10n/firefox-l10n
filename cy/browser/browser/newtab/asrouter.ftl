@@ -71,7 +71,7 @@ cfr-doorhanger-pintab-animation-resume = Ailgychwyn
 
 ## Firefox Accounts Message
 
-cfr-doorhanger-bookmark-fxa-header = Cydweddu eich nodau tudalen ym mhobman
+cfr-doorhanger-bookmark-fxa-header = Cydweddu eich nodau tudalen ym mhob man
 cfr-doorhanger-bookmark-fxa-body = Mae hwn yn dda! Peidiwch bod heb y nod tudalen hon ar eich dyfeisiau symudol. Dechrau arni gyda { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Cydweddu nodau tudalen nawr…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -126,7 +126,7 @@ cfr-whatsnew-lockwise-take-link-text = Estyn yr ap
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Defnyddiwch y nod tudalen hwn ar eich ffôn
-cfr-doorhanger-sync-bookmarks-body = Cymerwch eich nodau tudalen, cyfrineiriau, hanes a mwy ym mhobman rydych chi wedi mewngofnodi iddo { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-body = Cymerwch eich nodau tudalen, cyfrineiriau, hanes a mwy ym mhob man rydych chi wedi mewngofnodi iddo { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Troi { -sync-brand-short-name } ymlaen
     .accesskey = T
 
@@ -151,3 +151,16 @@ cfr-doorhanger-firefox-send-header = Rhannwch y PDF hwn yn ddiogel
 cfr-doorhanger-firefox-send-body = Cadwch eich dogfennau sensitif yn ddiogel rhag llygaid busneslyd gydag amgryptio o'r dechrau i'r diwedd a dolen sy'n diflannu pan fyddwch chi wedi gorffen.
 cfr-doorhanger-firefox-send-ok-button = Rhowch gynnig ar { -send-brand-name }
     .accesskey = R
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Gweld y Diogelwch
+    .accesskey = D
+cfr-doorhanger-socialtracking-close-button = Cau
+    .accesskey = C
+cfr-doorhanger-socialtracking-heading = Mae { -brand-short-name } wedi atal rhwydwaith cymdeithasol rhag eich tracio chi yma
+cfr-doorhanger-socialtracking-description = Mae eich preifatrwydd yn bwysig. Mae { -brand-short-name } nawr yn rhwystro tracwyr cyfryngau cymdeithasol cyffredin, gan gyfyngu ar faint o ddata y mae nhw'n gallu ei gasglu am yr hyn rydych chi'n ei wneud ar-lein.
+cfr-doorhanger-fingerprinters-heading = Fe wnaeth { -brand-short-name } rwystro bys brintiwr ar y dudalen hon
+cfr-doorhanger-fingerprinters-description = Mae eich preifatrwydd yn bwysig. Mae { -brand-short-name } nawr yn rhwystro bysbrintwyr, sy'n casglu manylion unigryw y mae modd eu hadnabod am eich dyfais i'ch tracio.
+cfr-doorhanger-cryptominers-heading = Fe wnaeth { -brand-short-name } rwystro cryptogloddwyr ar y dudalen hon
+cfr-doorhanger-cryptominers-description = Mae eich preifatrwydd yn bwysig. Mae { -brand-short-name } nawr yn rhwystro cryptogloddwyr, sy'n defnyddio pŵer cyfrifiadurol eich system i gloddio arian digidol.
