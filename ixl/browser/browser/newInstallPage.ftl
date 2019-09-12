@@ -10,4 +10,5 @@
 title = Tiilachalaj Tzii
 heading = Ijalpul tatin vavatzib'ale' tu { -brand-short-name }
 changed-title = Kam kat jalpiya?
+changed-desc-profiles = Uva' ni toksal ok tetz u { -brand-short-name } at uma'l tilb'al tetz. A' uma'l tilb'al tetze' a'e' ni kolon unq'a aq'one' uva ni kol kat u Firefox unq'a yole' uve' at texhlal, kach'ub' tetz as u vee' ni chit isa' u aq'oman tetze'.
 sync-button = Yakeb'en
