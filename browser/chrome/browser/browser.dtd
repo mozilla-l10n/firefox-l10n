@@ -835,6 +835,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Connexió segura">
 <!ENTITY identity.connectionNotSecure "La connexió no és segura">
 
+<!ENTITY identity.connectionSecure3 "Connexió segura">
+<!ENTITY identity.connectionNotSecure2 "La connexió no és segura">
 <!ENTITY identity.connectionNotSecureSecurityView "No esteu connectat de forma segura a aquest lloc.">
 <!ENTITY identity.connectionFile "Aquesta pàgina està desada a l'ordinador.">
 <!ENTITY identity.connectionVerified2 "Esteu connectat de forma segura a aquest lloc, mantingut per:">
@@ -893,6 +895,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Més informació sobre la protecció contra el seguiment millorada">
 <!ENTITY protections.settings.label "Paràmetres de protecció">
+<!ENTITY protections.showreport.label "Mostra l'informe">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -924,6 +927,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Per què?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Si els bloqueu, alguns llocs web podrien funcionar de forma inesperada. Sense els elements de seguiment, és possible alguns botons, formularis o camps d'inici de sessió no funcionin.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Si desactiveu les proteccions, permetreu tots els elements de seguiment d'aquest lloc. També pot millorar la funcionalitat del lloc web.">
 <!ENTITY protections.socialMediaTrackers.label "Elements de seguiment de xarxes socials">
 <!ENTITY protections.crossSiteTrackingCookies.label "Galetes de seguiment entre llocs">
 <!ENTITY protections.trackingContent.label "Contingut que fa seguiment">
@@ -935,6 +940,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "Els miners de criptomonedes utilitzen la potència de càlcul del vostre ordinador per a la mineria de diners digitals. Els scripts de mineria de criptomonedes consumeixen la bateria, alenteixen l'ordinador i poden augmentar la vostra factura d'electricitat.">
 <!ENTITY protections.fingerprinters.description "Els generadors d'empremtes digitals recopilen els paràmetres del vostre navegador per a crear un perfil vostre. A partir d'aquesta empremta digital, us poden fer el seguiment entre els diferents llocs web.">
 <!ENTITY protections.trackingContent2.description "Els llocs web poden carregar anuncis, vídeos i altre contingut extern amb un codi de seguiment. Si bloqueu aquest contingut que fa seguiment, els llocs web es poden carregar més de pressa, però és possible alguns botons, formularis o camps d'inici de sessió no funcionin.">
+<!ENTITY protections.socialMediaTrackers.description "Les xarxes socials col·loquen elements de seguiment en altres llocs web per a fer el seguiment d'allò que feu i veieu a Internet. Això permet a les empreses de xarxes socials recopilar informació de tot allò que compartiu en els vostres perfils de xarxes socials.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -985,6 +991,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Galetes">
 <!ENTITY contentBlocking.cookiesView.label "Galetes i dades dels llocs">
 
+<!ENTITY contentBlocking.manageSettings2.accesskey "G">
 
 <!ENTITY contentBlocking.socialblock.label "Elements de seguiment de xarxes socials">
 
