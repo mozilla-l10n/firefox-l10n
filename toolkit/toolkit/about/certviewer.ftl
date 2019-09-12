@@ -6,6 +6,7 @@ certificate-viewer-certificate-section-title = Sertifikat
 
 ## Error messages
 
+certificate-viewer-error-message = Vi kunne ikke finne sertifikatinformasjonen, eller sertifikatet er ødelagt. Prøv på nytt.
 certificate-viewer-error-title = Noe gikk galt.
 
 ## Certificate information labels
