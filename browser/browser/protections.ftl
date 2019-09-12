@@ -28,8 +28,8 @@ graph-total-tracker-summary =
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
 protection-header-details-standard = Il livello di protezione è impostato su <b>Normale</b>
-protection-header-details-strict = Il livello di protezione è impostato su <b>Restrittivo</b>
-protection-header-details-custom = Il livello di protezione è impostato su <b>Personalizzato</b>
+protection-header-details-strict = Il livello di protezione è impostato su <b>Restrittiva</b>
+protection-header-details-custom = Il livello di protezione è impostato su <b>Personalizzata</b>
 protection-report-page-title = Protezioni per la privacy
 protection-report-content-title = Protezioni per la privacy
 
