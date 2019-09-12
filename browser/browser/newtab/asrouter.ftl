@@ -141,3 +141,12 @@ cfr-doorhanger-firefox-send-header = Dźělće tutón PDF wěsće
 cfr-doorhanger-firefox-send-body = Škitajće swoje sensibelne dokumenty před wćipnymi pohladami ze zaklučowanjom kónc do kónca a z wotkazom, kotryž so zhubi, hdyž sće hotowy.
 cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } wupruwować
     .accesskey = u
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Škity pokazać
+    .accesskey = p
+cfr-doorhanger-socialtracking-close-button = Začinić
+    .accesskey = Z
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } je socialnu syć při tym haćił, wam tu slědować
+cfr-doorhanger-socialtracking-description = Waša priwatnosć je wažna. { -brand-short-name } nětko zwučene přesćěhowaki socialnych medijow blokuje, wobmjezuje mnóstwo datow, kotrež móža wo tym zběrać, štož wy online činiće.
