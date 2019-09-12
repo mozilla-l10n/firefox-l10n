@@ -53,3 +53,5 @@ certificate-viewer-signature-algorithm = Algoritmo de la firma
 certificate-viewer-signature-scheme = Esquema de la firma
 certificate-viewer-timestamp = Fecha y hora
 certificate-viewer-value = Valor
+certificate-viewer-version = Versión
+certificate-viewer-business-category = Categoría de negocios
