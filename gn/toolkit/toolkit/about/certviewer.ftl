@@ -6,6 +6,7 @@ certificate-viewer-certificate-section-title = Mboajepyréva
 
 ## Error messages
 
+certificate-viewer-error-message = Ndorojuhúi marandu jeguerohyvéva rehegua térã pe jeguerohyvéva imarã. Eha’ãjey.
 certificate-viewer-error-title = Oĩ osẽvaíva
 
 ## Certificate information labels
@@ -34,6 +35,8 @@ certificate-viewer-not-after = Ani uperire
 certificate-viewer-not-before = Ani upemboyve
 certificate-viewer-organization = Atyguasu
 certificate-viewer-policy = Purureko
+certificate-viewer-protocol = Taperekoite
+certificate-viewer-public-value = Opavavemba'éva repykue
 certificate-viewer-qualifier = Tekome’ẽha
 certificate-viewer-required = Tekotevẽva
 certificate-viewer-sha-1 = SHA-1
