@@ -52,7 +52,7 @@ lockwise-no-logins-content = 下载 <a data-l10n-name="lockwise-inline-link">{ -
 # your localization, because it would result in the number showing twice.
 lockwise-passwords-stored =
     { $count ->
-       *[other] 安全地存储密码<a data-l10n-name="lockwise-how-it-works">工作原理</a>
+       *[other] 密码正安全存放 <a data-l10n-name="lockwise-how-it-works">工作原理</a>
     }
 turn-on-sync = 开启{ -sync-brand-short-name }…
     .title = 前往“同步”首选项
