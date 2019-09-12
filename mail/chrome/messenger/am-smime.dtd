@@ -19,7 +19,7 @@
 <!ENTITY encryption.certificate.button "Dewis…">
 <!ENTITY encryption.certificate.accesskey "w">
 <!ENTITY encryption.certificate_clear.button "Clirio">
-<!ENTITY encryption.certificate_clear.accesskey "e">
+<!ENTITY encryption.certificate_clear.accesskey "l">
 <!ENTITY signingGroupTitle.label "Llofnodi Digidol">
 <!ENTITY signMessage.label "Llofnodi negeseuon yn ddigidol (trwy ragosodiad)">
 <!ENTITY signMessage.accesskey "r">
@@ -30,8 +30,8 @@
 <!ENTITY manageCerts2.accesskey "R">
 <!ENTITY manageDevices.label "Dyfeisiau Diogelwch">
 <!ENTITY manageDevices.accesskey "y">
-<!-- Strings for the cert picker dialog -->
 
+<!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Dewis Tystysgrif">
 <!ENTITY certPicker.info  "Tystysgrif:">
 <!ENTITY certPicker.detailsLabel "Manylion y dystysgrif hon:">
