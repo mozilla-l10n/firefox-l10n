@@ -745,6 +745,23 @@ content-blocking-strict-description = Un protection plus forte pote facer errar 
 content-blocking-custom-desc = Elige que blocar.
 content-blocking-private-trackers = Traciatores note solo in Fenestras private
 content-blocking-third-party-cookies = Cookies traciator de tertie partes
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standard
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Stricte
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Personalisate
+    .accesskey = P
+
+
+
 content-blocking-etp-standard-desc = Balanciate pro protection e performance. Paginas cargara normalmente.
 content-blocking-etp-strict-desc = Protection plus forte, ma pote causar alcun sitos o contento collaber.
 content-blocking-etp-custom-desc = Elige qual traciatores e scripts blocar.

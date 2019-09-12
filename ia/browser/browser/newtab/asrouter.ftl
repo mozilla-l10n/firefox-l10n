@@ -133,3 +133,16 @@ cfr-doorhanger-firefox-send-header = Comparti con securitate iste PDF
 cfr-doorhanger-firefox-send-body = Mantene secur del oculos indiscrete tu documentos sensibile con cryptographia bilateral e un ligamine que dispare quando tu ha finite.
 cfr-doorhanger-firefox-send-ok-button = Prova { -send-brand-name }
     .accesskey = P
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Vider protectiones
+    .accesskey = p
+cfr-doorhanger-socialtracking-close-button = Clauder
+    .accesskey = C
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } arrestava ci un rete social de te traciar
+cfr-doorhanger-socialtracking-description = Tu confidentialitate es importante. Ora { -brand-short-name } bloca traciatores de retes social commun, limitante quante datos illos pote colliger re que tu face online.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blocava un dactylogrammator in iste pagina
+cfr-doorhanger-fingerprinters-description = Tu confidentialitate es importante. { -brand-short-name } bloca ora le dactylogrammatores, que collige pecias de informationes de tu apparatos pro te traciar.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } blocava un cryptominator in iste pagina
+cfr-doorhanger-cryptominers-description = Tu confidentialitate es importante. Ora { -brand-short-name } bloca cryptominatores, que usa le potentia de calculo de tu systemas pro cavar moneta digital.
