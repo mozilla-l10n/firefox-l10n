@@ -6,6 +6,7 @@ certificate-viewer-certificate-section-title = Certifikat
 
 ## Error messages
 
+certificate-viewer-error-message = Njejsmy mógli certifikatowe informacije namakaś, abo certifikat jo wobškóźony. Pšosym wopytajśo hyšći raz.
 certificate-viewer-error-title = Něco njejo se raźiło.
 
 ## Certificate information labels
