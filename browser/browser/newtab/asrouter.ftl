@@ -139,3 +139,8 @@ cfr-doorhanger-firefox-send-header = Dela denna PDF säkert
 cfr-doorhanger-firefox-send-body = Håll dina känsliga dokument säkra från nyfikna ögon med end-to-end-kryptering och en länk som försvinner när du är klar.
 cfr-doorhanger-firefox-send-ok-button = Prova { -send-brand-name }
     .accesskey = P
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-close-button = Stäng
+    .accesskey = C

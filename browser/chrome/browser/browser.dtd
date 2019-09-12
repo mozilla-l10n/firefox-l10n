@@ -991,6 +991,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Kakor">
 <!ENTITY contentBlocking.cookiesView.label "Kakor och webbplatsdata">
 
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
+
 <!ENTITY contentBlocking.socialblock.label "Sociala trackers">
 
 <!ENTITY contentBlocking.cookies2.label "Globala spårningskakor">
