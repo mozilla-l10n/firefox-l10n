@@ -50,7 +50,6 @@ certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Numero di serie
 certificate-viewer-signature-algorithm = Algoritmo di firma
-certificate-viewer-signaturealgorithm = Algoritmo di firma
 certificate-viewer-signature-scheme = Schema di firma
 certificate-viewer-timestamp = Data e ora
 certificate-viewer-value = Valore
