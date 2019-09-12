@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Creu tasg newydd" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tasgau" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Dangos Tasgau wedi eu cwblhau">
 
 <!ENTITY calendar.today.button.label          "Heddiw">
@@ -201,7 +202,7 @@
 
 <!ENTITY calendar.context.attendance.all.accepted.accesskey     "d">
 <!ENTITY calendar.context.attendance.all.accepted.label         "Wedi derbyn">
-<!ENTITY calendar.context.attendance.all.tentative.accesskey    "t">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "a">
 <!ENTITY calendar.context.attendance.all.tentative.label        "Derbyn yn amodol">
 <!ENTITY calendar.context.attendance.all.declined.accesskey     "w">
 <!ENTITY calendar.context.attendance.all.declined.label         "Gwrthod">
