@@ -3,6 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = ଲଗଇନ ଏବଂ ପାସୱାର୍ଡ଼
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = ଆପଣଙ୍କର ପାସୱାର୍ଡ଼ ସବୁଆଡ଼େ ନିଅନ୍ତୁ
+login-app-promo-subtitle = ମାଗଣା { -lockwise-brand-name } ଆପ ପାଆନ୍ତୁ
+login-app-promo-android =
+    .alt = Google Play ରୁ ପାଆନ୍ତୁ
+login-app-promo-apple =
+    .alt = App Storeରୁ ଡାଉନଲୋଡ଼ କରନ୍ତୁ
 login-filter =
     .placeholder = ଖୋଜା ଲଗିନ
 create-login-button = ନୂଆ ଲଗଇନ ତିଆରି କରନ୍ତୁ
@@ -27,8 +36,7 @@ menu-menuitem-preferences =
         [windows] ବିକଳ୍ପ
        *[other] ପସନ୍ଦ
     }
-menu-menuitem-feedback = ମତାମତ ପଠାନ୍ତୁ
-menu-menuitem-faq = ଅଧିକ ପଚରାଯାଉଥିବା ପ୍ରଶ୍ନ
+about-logins-menu-menuitem-help = ସହାୟତା
 menu-menuitem-android-app = ଆଣ୍ଡ୍ରୋଏଡ ପାଇଁ { -lockwise-brand-short-name }
 menu-menuitem-iphone-app = ଆଇଫୋନ ଏବଂ ଆଇପ୍ୟାଡ ପାଇଁ { -lockwise-brand-short-name }
 
@@ -48,12 +56,16 @@ login-list-last-changed-option = ପୂର୍ବ ରୂପାନ୍ତରଣ
 login-list-last-used-option = ଶେଷ ଥର ବ୍ୟବହୃତ
 login-list-intro-title = କୌଣସି ଲଗଇନ ମିଳିଲା ନାହିଁ
 login-list-intro-description = { -brand-product-name }ରେ ଯେବେ ଆପଣ ଏକ ପାସୱାର୍ଡ଼ ସଞ୍ଚୟ କରିବେ, ତାହା ଏଠାରେ ଦେଖାଇବ
+about-logins-login-list-empty-search-title = କୌଣସି ଲଗଇନ ମିଳିଲା ନାହିଁ
+about-logins-login-list-empty-search-description = ଆପଣ ଖୋଜୁଥିବା ତଥ୍ୟର କୌଣସି ପ୍ରତ୍ୟୁତ୍ତର ମିଳିଲା ନାହିଁ
 login-list-item-title-new-login = ନୂତନ ଲଗଇନ
 login-list-item-subtitle-new-login = ଆପଣଙ୍କର ଲଗଇନ ତଥ୍ୟ ଭରନ୍ତୁ
 login-list-item-subtitle-missing-username = (ବ୍ୟବହାରକାରୀ ନାମ ନାହିଁ)
 
 ## Introduction screen
 
+login-intro-heading = ସଂରକ୍ଷିତ ଲଗ ଇନଗୁଡ଼ିକୁ ଖୋଜୁଛନ୍ତି କି? { -sync-brand-short-name }କୁ ସେଟ କରନ୍ତୁ ।
+login-intro-description = ଯଦି ଆପଣ { -brand-product-name } ପାଇଁ ଆପଣଙ୍କର ଲଗ ଇନଗୁଡ଼ିକୁ ଅନ୍ୟ ଏକ ଉପକରଣରେ ସଂରକ୍ଷିତ କରିଛନ୍ତି, ତେବେ ତାହାକୁ କିପରି ଏଠାକୁ ଆଣିବେ ଦେଖନ୍ତୁ:
 
 ## Login
 
@@ -63,10 +75,7 @@ login-item-delete-button = ଅପସାରଣ କରନ୍ତୁ
 login-item-origin-label = ୱେବସାଇଟ ଠିକଣା
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = ଆରମ୍ଭ
 login-item-username-label = ଉପଭୋକ୍ତାଙ୍କ ନାମ
-login-item-username =
-    .placeholder = name@example.com
 login-item-copy-username-button-text = ନକଲ କରନ୍ତୁ
 login-item-copied-username-button-text = ନକଲ ହୋଇଛି
 login-item-password-label = ପାସ୍‌ୱାର୍ଡ୍
@@ -101,3 +110,6 @@ confirm-discard-changes-dialog-confirm-button = ପରିତ୍ୟାଗ
 ## Breach Alert notification
 
 breach-alert-link = ଏହି ଅନୁପ୍ରବେଶ ବିଷୟରେ ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ
+
+## Error Messages
+

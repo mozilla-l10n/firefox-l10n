@@ -9,6 +9,8 @@ about-config-warning-button = ମୁଁ ସଙ୍କଟକୁ ଅନୁମୋଦ
 about-config2-title = ଉନ୍ନତ ସଂରଚନା
 about-config-search-input =
     .placeholder = ଖୋଜନ୍ତୁ
+about-config-search-input1 =
+    .placeholder = ପସନ୍ଦ ନାମ ଖୋଜନ୍ତୁ
 about-config-show-all = ସମସ୍ତଙ୍କୁ ଦର୍ଶାନ୍ତୁ
 about-config-pref-add = ଯୋଗ କରନ୍ତୁ
 about-config-pref-toggle = ଏପଟ ସେପଟ କରନ୍ତୁ
@@ -23,11 +25,11 @@ about-config-pref-toggle-button =
 about-config-pref-edit-button =
     .title = ସମ୍ପାଦନ କରନ୍ତୁ
 about-config-pref-save-button =
-    .title = ସାଇତି ରଖନ୍ତୁ
+    .title = ସଂରକ୍ଷଣ କରନ୍ତୁ
 about-config-pref-reset-button =
     .title = ପୁନଃସ୍ଥାପନ କରନ୍ତୁ
 about-config-pref-delete-button =
-    .title = ଲିଭାନ୍ତୁ
+    .title = ବିଲୋପ କରନ୍ତୁ
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
