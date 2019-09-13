@@ -76,12 +76,19 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Hlavní nabídka">
 <!ENTITY menubarCmd.accesskey "H">
 <!ENTITY navbarCmd.label "Navigační lišta">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbarCmd.label "Lišta záložek">
 <!ENTITY personalbarCmd.accesskey "z">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY bookmarksToolbarItem.label "Záložky nástrojové lišty">
 
 <!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
 <!ENTITY pageSourceCmd.accesskey "j">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +99,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Informace o stránce">
 <!ENTITY pageInfoCmd.accesskey "I">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Debugger rozložení">
 <!ENTITY ldbCmd.accesskey "l">
@@ -116,6 +124,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Opětovné připojení k &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Ověřte svůj účet">
 
+
+ <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizovat">
 <!ENTITY fullScreenRestore.tooltip "Obnovit">
@@ -145,6 +155,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Přihlášen(a) jako">
 <!ENTITY fxa.menu.manageAccount.label "Správa účtu…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "Nastavení synchronizace…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Připojit další zařízení…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -195,6 +209,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Záložky">
 <!ENTITY bookmarksMenu.accesskey "o">
+
 <!ENTITY bookmarkThisPageCmd.label "Přidat stránku do záložek">
 <!ENTITY editThisBookmarkCmd.label "Upravit záložku">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -510,6 +525,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Vyhledávací dotaz">
+
 <!ENTITY contentSearchSubmit.tooltip  "Potvrdí hledání">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -972,6 +988,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies a data stránek">
 
+<!ENTITY contentBlocking.manageSettings2.accesskey "N">
+
 <!ENTITY contentBlocking.socialblock.label "Sledující prvky sociálních sítí">
 
 <!ENTITY contentBlocking.cookies2.label "Sledovací cookies">
@@ -986,6 +1004,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Nahlásit problémy">
 <!ENTITY contentBlocking.breakageReportView2.description "Blokování obsahu může způsobovat problémy na některých stránkách. Jejich nahlášením významně pomůžete aplikaci &brandShortName; dále vylepšovat. S vaším hlášením se Mozille odešle URL stránky a informace o vašem nastavení blokování obsahu.">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Zjistit více">
+
 <!ENTITY contentBlocking.breakageReportView.title "Nahlásit nefunkční stránku">
 <!ENTITY contentBlocking.breakageReportView3.description "Blokování sledovacích prvků může na některých stránkách způsobovat problémy. Jejich nahlášením významně pomůžete aplikaci &brandShortName; dále vylepšovat. S vaším hlášením se Mozille odešle URL stránky a informace o vašem nastavení blokování obsahu.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Zjistit více">
@@ -1041,6 +1060,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "Z">
 
 <!ENTITY homepageControlled.message "Rozšíření změnilo obsah zobrazovaný na vaší domovské stránce. Pokud tuto změnu nechcete, můžete obnovit svoje původní nastavení.">
+
 <!ENTITY homepageControlled.header.message "Vaše domovská stránka byla změněna.">
 <!ENTITY homepageControlled.keepButton.label "Zachovat změny">
 <!ENTITY homepageControlled.keepButton.accesskey "Z">
