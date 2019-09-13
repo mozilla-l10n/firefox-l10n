@@ -90,3 +90,8 @@ cfr-doorhanger-send-tab-ok-button = दैथायहोग्रा टेब�
 
 cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } नाजा
     .accesskey = T
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-close-button = बन्द खालाम
+    .accesskey = C

@@ -198,6 +198,8 @@ home-newtabs-mode-label = गोदान टेबफोर
 home-restore-defaults =
     .label = डिफल्टखौ मोनफिन
     .accesskey = R
+home-mode-choice-custom =
+    .label = कास्टम URLs...
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -399,6 +401,13 @@ content-blocking-learn-more = गोबां सोलों
 content-blocking-setting-standard =
     .label = मानदान्दा
     .accesskey = d
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+
+
 content-blocking-cookies-label =
     .label = कुकिफोर
     .accesskey = C
