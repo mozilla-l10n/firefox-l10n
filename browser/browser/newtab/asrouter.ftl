@@ -82,6 +82,8 @@ cfr-whatsnew-button =
     .label = Novetats
     .tooltiptext = Novetats
 cfr-whatsnew-panel-header = Novetats
+cfr-whatsnew-release-notes-link-text = Llegiu les notes de la versió
+cfr-whatsnew-fx70-title = Ara el { -brand-short-name } lluita encara més per la vostra privadesa
 
 ## Bookmark Sync
 
@@ -111,3 +113,6 @@ cfr-doorhanger-firefox-send-header = Compartiu aquest PDF de forma segura
 cfr-doorhanger-firefox-send-body = Manteniu els vostres documents confidencials lluny de mirades indiscretes amb un xifratge d'extrem a extrem i un enllaç que desapareix quan hàgiu acabat.
 cfr-doorhanger-firefox-send-ok-button = Prova el { -send-brand-name }
     .accesskey = P
+
+## Social Tracking Protection
+
