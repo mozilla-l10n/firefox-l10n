@@ -13,10 +13,10 @@ graph-week-summary =
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
 # earliest date recorded in the database.
-graph-total-summary =
+graph-total-tracker-summary =
     { $count ->
-        [one] S'ha blocat { $count } element de seguiment des del { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] S'han blocat { $count } elements de seguiment des del { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [one] S'ha blocat <b>{ $count }</b> element de seguiment des del { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] S'han blocat <b>{ $count }</b> elements de seguiment des del { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -32,15 +32,19 @@ etp-card-content = Hi ha elements que us fan el seguiment mentre navegueu per re
 # capitalization for this string should match the output for your locale.
 graph-today = avui
 social-tab-title = Elements de seguiment de xarxes socials
+social-tab-contant = Les xarxes socials col·loquen elements de seguiment en altres llocs web per a fer el seguiment d'allò que feu i veieu a Internet. Això permet a les empreses de xarxes socials recopilar informació de tot allò que compartiu en els vostres perfils de xarxes socials. <a data-l10n-name="learn-more-link">Més informació</a>
 cookie-tab-title = Galetes de seguiment entre llocs
 tracker-tab-title = Contingut que fa seguiment
+tracker-tab-description = Els llocs web poden carregar anuncis, vídeos i altre contingut extern amb un codi de seguiment. Si bloqueu aquest contingut que fa seguiment, els llocs web es poden carregar més de pressa, però és possible alguns botons, formularis o camps d'inici de sessió no funcionin. <a data-l10n-name="learn-more-link">Més informació</a>
 fingerprinter-tab-title = Generadors d'empremtes digitals
+fingerprinter-tab-content = Els generadors d'empremtes digitals recopilen els paràmetres del vostre navegador per a crear un perfil vostre. A partir d'aquesta empremta digital, us poden fer el seguiment entre els diferents llocs web. <a data-l10n-name="learn-more-link">Més informació</a>
 cryptominer-tab-title = Miners de criptomonedes
+cryptominer-tab-content = Els miners de criptomonedes utilitzen la potència de càlcul del vostre ordinador per a la mineria de diners digitals. Els scripts de mineria de criptomonedes consumeixen la bateria, alenteixen l'ordinador i poden augmentar la vostra factura d'electricitat. <a data-l10n-name="learn-more-link">Més informació</a>
 lockwise-title = No oblideu mai més cap contrasenya
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } emmagatzema les contrasenyes de forma segura en el vostre navegador.
 lockwise-header-content-logged-in = Deseu i sincronitzeu les contrasenyes de forma segura en tots els vostres dispositius.
-open-about-logins-button = Obre al { -brand-short-name }
+about-logins-view-logins-button = Mostra els inicis de sessió
 lockwise-no-logins-content = Instal·leu l'aplicació <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> per accedir a les vostres contrasenyes des de qualsevol lloc.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -60,37 +64,11 @@ lockwise-sync-status =
         [one] S'està sincronitzant amb { $count } altre dispositiu.
        *[other] S'està sincronitzant amb { $count } altres dispositius.
     }
-lockwise-sync-not-syncing = No se sincronitza amb altres dispositius.
+lockwise-sync-not-syncing-devices = No se sincronitza amb altres dispositius
 monitor-title = Tingueu controlades les filtracions de dades
 monitor-link = Com funciona
-monitor-header-content = Visiteu el { -monitor-brand-name } per veure si hi ha alguna filtració de dades que us hagi afectat i obteniu alertes de noves filtracions.
-monitor-header-content-logged-in = El { -monitor-brand-name } us avisa si la vostra informació ha aparegut en alguna filtració de dades coneguda
 monitor-sign-up = Subscriviu-vos-hi per rebre alertes de filtracions
 auto-scan = S'ha comprovat avui automàticament
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-monitored-addresses =
-    { $count ->
-        [one] adreça electrònica supervisada.
-       *[other] adreces electròniques supervisades.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of known data breaches. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-known-breaches =
-    { $count ->
-        [one] filtració de dades coneguda ha exposat informació vostra.
-       *[other] filtracions de dades conegudes han exposat informació vostra.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of exposed passwords. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-exposed-passwords =
-    { $count ->
-        [one] contrasenya exposada entre totes les filtracions.
-       *[other] contrasenyes exposades entre totes les filtracions.
-    }
 full-report-link = Vegeu l'informe complet al <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
