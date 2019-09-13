@@ -25,6 +25,10 @@ process-type-file = Lokal fil
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Stor allokering
 
+# process used to isolate a webpage from other web pages
+# to improve security
+process-type-webisolated = Isoleret web-indhold
+
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU

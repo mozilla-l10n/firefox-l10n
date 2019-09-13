@@ -935,6 +935,21 @@ content-blocking-custom-desc = Vælg selv, hvad der skal blokeres.
 content-blocking-private-trackers = Kendte sporings-tjenester kun i private vinduer
 content-blocking-third-party-cookies = Sporings-cookies fra tredjepart
 
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+  .label = Standard
+  .accesskey = d
+enhanced-tracking-protection-setting-strict =
+  .label = Striks
+  .accesskey = r
+enhanced-tracking-protection-setting-custom =
+  .label = Tilpasset
+  .accesskey = T
+##
+
 content-blocking-etp-standard-desc = Balanceret mellem beskyttelse og ydelse. Sider indlæses som normalt.
 content-blocking-etp-strict-desc = Bedre beskyttelse, men kan forhindre nogle websteder i at fungere.
 content-blocking-etp-custom-desc = Vælg selv, hvilke sporings-tjenester og scripts der skal blokeres.
