@@ -991,6 +991,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookie">
 <!ENTITY contentBlocking.cookiesView.label "Cookie và dữ liệu trang">
 
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
+
 <!ENTITY contentBlocking.socialblock.label "Trình theo dõi truyền thông xã hội">
 
 <!ENTITY contentBlocking.cookies2.label "Cookie theo dõi chéo trang web">
