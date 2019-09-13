@@ -20,18 +20,31 @@ menu-menuitem-import = Passwörter importieren...
 
 ## Login List
 
+login-list-last-changed-option = Zuletzt geändert
+login-list-last-used-option = Zuletzt verwendet
+login-list-intro-title = Keine Zugangsdaten gefunden
 
 ## Introduction screen
 
 
 ## Login
 
+login-item-edit-button = Bearbeiten
+login-item-delete-button = Löschen
+login-item-copy-username-button-text = Kopieren
+login-item-copied-username-button-text = Kopiert!
+login-item-password-label = Passwort
+login-item-save-changes-button = Änderungen speichern
+login-item-save-new-button = Speichern
+login-item-cancel-button = Abbrechen
 
 ## Master Password notification
 
 
 ## Dialogs
 
+confirm-delete-dialog-message = Diese Aktion kann nicht rückgängig gemacht werden.
+confirm-delete-dialog-confirm-button = Löschen
 
 ## Breach Alert notification
 
