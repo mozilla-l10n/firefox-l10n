@@ -16,6 +16,7 @@ certificate-viewer-certificate-authority = Cơ quan cấp chứng chỉ
 certificate-viewer-cipher-suite = Bộ mật mã
 certificate-viewer-common-name = Tên gọi chung
 certificate-viewer-dns-name = Tên DNS
+certificate-viewer-exponent = Chỉ số
 certificate-viewer-id = ID
 certificate-viewer-key-id = ID khóa
 certificate-viewer-key-size = Kích thước khóa
