@@ -23,9 +23,12 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Account">
 <!ENTITY firstrun_sync_message2 "Riprendi da dove ti eri interrotto">
+<!ENTITY firstrun_sync_message3 "Sincronizza segnalibri, cronologia e password con il tuo telefono.">
 <!ENTITY firstrun_sync_subtext2 "Utilizza Sync per accedere da tutti i dispositivi a segnalibri, password e altre informazioni salvate in &brandShortName;.">
 <!ENTITY newfirstrun_sync_subtext "Sincronizza le informazioni salvate sul tuo dispositivo mobile con Firefox sul tuo computer, in modo riservato e sicuro.">
 <!ENTITY updatednewfirstrun_sync_subtext "Accedi al tuo account per ottenere il massimo da &brandShortName;">
+<!ENTITY firstrun_sendtab_title "Invia scheda">
+<!ENTITY firstrun_sendtab_message "Condividi al volo schede tra il computer di casa e il telefono.">
 <!ENTITY firstrun_signin_message "Connettiti e inizia">
 <!ENTITY firstrun_signin_button "Accedi a Sync">
 <!ENTITY newfirstrun_signin_button "Attiva Sync">
