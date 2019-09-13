@@ -11,6 +11,7 @@ certificate-viewer-error-title = Noko gjekk gale.
 ## Certificate information labels
 
 certificate-viewer-algorithm = Algoritme
+certificate-viewer-common-name = Vanleg namn
 certificate-viewer-country = Land
 certificate-viewer-id = ID
 certificate-viewer-version = Versjon
