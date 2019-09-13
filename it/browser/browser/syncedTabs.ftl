@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Schede sincronizzate
 synced-tabs-sidebar-noclients-subtitle = Come fare per visualizzare in questa sezione le schede da altri dispositivi?
 synced-tabs-sidebar-notsignedin = Accedi per visualizzare un elenco delle schede aperte in altri dispositivi.
+synced-tabs-sidebar-intro = Visualizza un elenco delle schede aperte in altri dispositivi.
 synced-tabs-sidebar-unverified = L’account non è ancora stato verificato.
 synced-tabs-sidebar-notabs = Nessuna scheda aperta
 synced-tabs-sidebar-openprefs = Apri le impostazioni di { -sync-brand-short-name }
@@ -37,3 +38,4 @@ synced-tabs-context-manage-devices =
     .label = Gestione dispositivi…
     .accesskey = G
 fxa-sign-in = Accedi a { -sync-brand-short-name }
+turn-on-sync = Attiva { -sync-brand-short-name }
