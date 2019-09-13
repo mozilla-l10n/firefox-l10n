@@ -123,7 +123,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "नोंथांनि एकाउन्टखौ नायबिजिर">
 
 
- <!-- } is above this key on many keyboards -->
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "मिनिमाइज खालाम">
 <!ENTITY fullScreenRestore.tooltip "मोनफिन">
@@ -807,6 +808,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "कुकिज">
 <!ENTITY contentBlocking.cookiesView.label "कुकिज आरो साइट दाटा">
+
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 
 

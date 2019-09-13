@@ -121,6 +121,7 @@ translate-exceptions =
 
 ## General Section - Files and Applications
 
+files-and-applications-title = फाइलफोर आरो एप्लिकेसन
 download-header = दावनल'दफोर
 download-save-to =
     .label = फाइलफोरखौ सेब खालाम बेयाव
@@ -136,6 +137,7 @@ download-choose-folder =
             [macos] ख
            *[other] व
         }
+applications-header = एप्लिकेसन
 applications-type-column =
     .label = थानाय-आयदानि रोखोम
     .accesskey = T
@@ -249,6 +251,7 @@ home-prefs-sections-rows-option =
 
 ## Search Section
 
+search-bar-header = नागिरग्रा बार
 search-engine-default-header = डिफल्ट नागिरनाय इन्जिन
 search-suggestions-option =
     .label = नागिरनाय बोसोन हो
@@ -401,10 +404,23 @@ content-blocking-learn-more = गोबां सोलों
 content-blocking-setting-standard =
     .label = मानदान्दा
     .accesskey = d
+content-blocking-setting-strict =
+    .label = गोरा
+    .accesskey = r
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = मानदान्दा
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = गोरा
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = कास्टम
+    .accesskey = C
 
 
 
