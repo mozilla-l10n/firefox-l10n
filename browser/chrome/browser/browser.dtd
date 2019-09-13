@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Menüsor">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Böngésző eszköztár">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Navigáció">
 <!ENTITY personalbarCmd.label "Könyvjelző eszköztár">
 <!ENTITY personalbarCmd.accesskey "K">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Könyvjelzők">
 <!ENTITY bookmarksToolbarItem.label "Könyvjelző eszköztár elemei">
 
 <!ENTITY pageSourceCmd.label "Oldal forrása">
 <!ENTITY pageSourceCmd.accesskey "r">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Oldal adatai">
 <!ENTITY pageInfoCmd.accesskey "O">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Elrendezési hibakereső">
 <!ENTITY ldbCmd.accesskey "E">
@@ -116,6 +126,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Újracsatlakozás a &syncBrand.shortName.label;hez">
 <!ENTITY fxaUnverified.label "Fiók ellenőrzése">
 
+
+ <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Kis méret">
 <!ENTITY fullScreenRestore.tooltip "Helyreállítás">
@@ -145,6 +157,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Bejelentkezve mint">
 <!ENTITY fxa.menu.manageAccount.label "Fiók kezelése…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; beállítások…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Másik eszköz csatlakoztatása…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -195,6 +211,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Könyvjelzők">
 <!ENTITY bookmarksMenu.accesskey "K">
+
 <!ENTITY bookmarkThisPageCmd.label "Oldal hozzáadása a könyvjelzőkhöz">
 <!ENTITY editThisBookmarkCmd.label "Könyvjelző szerkesztése">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -510,6 +527,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Keresőkifejezés">
+
 <!ENTITY contentSearchSubmit.tooltip  "Keresés indítása">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -972,6 +990,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Sütik">
 <!ENTITY contentBlocking.cookiesView.label "Sütik és oldaladatok">
 
+
 <!ENTITY contentBlocking.socialblock.label "Közösségimédia-követők">
 
 <!ENTITY contentBlocking.cookies2.label "Webhelyek közötti nyomkövető sütik">
@@ -986,6 +1005,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Problémák bejelentése">
 <!ENTITY contentBlocking.breakageReportView2.description "A tartalomblokkolás problémákat okozhat néhány weboldalon. Ha bejelenti a problémákat, akkor segít jobbá tenni a &brandShortName; böngészőt mindenki számára. (Ez elküldi az URL-t, valamint a böngészőbeállításait a Mozillának.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "További tudnivalók">
+
 <!ENTITY contentBlocking.breakageReportView.title "Hibás webhely bejelentése">
 <!ENTITY contentBlocking.breakageReportView3.description "Egyes nyomkövetők blokkolása problémákat okozhat néhány weboldalon. Ezen problémák bejelentése segít jobbá tenni a &brandShortName; böngészőt mindenki számára. A jelentés elküldi az URL-t és a böngészőbeállításait a Mozillának.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "További tudnivalók">
@@ -1041,6 +1061,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "l">
 
 <!ENTITY homepageControlled.message "Egy kiegészítő megváltoztatta a kezdőlapot. Visszaállíthatja a beállításokat, ha nem szeretné ezt a változást.">
+
 <!ENTITY homepageControlled.header.message "A kezdőlap megváltozott.">
 <!ENTITY homepageControlled.keepButton.label "Módosítások megtartása">
 <!ENTITY homepageControlled.keepButton.accesskey "t">

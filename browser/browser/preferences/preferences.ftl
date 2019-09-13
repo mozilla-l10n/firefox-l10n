@@ -742,6 +742,23 @@ content-blocking-strict-description = Erősebb védelem, emiatt egyes weboldalak
 content-blocking-custom-desc = Válassza ki, mit akar blokkolni.
 content-blocking-private-trackers = Ismert követők csak privát ablakokban
 content-blocking-third-party-cookies = Harmadik féltől származó követő sütik
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Szokásos
+    .accesskey = S
+enhanced-tracking-protection-setting-strict =
+    .label = Szigorú
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Egyéni
+    .accesskey = E
+
+
+
 content-blocking-etp-standard-desc = Kiegyensúlyozott védelem és teljesítmény. Az oldalak normálisan fognak betölteni.
 content-blocking-etp-strict-desc = Erősebb védelem, de egyes webhelyek és tartalmak hibásan működhetnek.
 content-blocking-etp-custom-desc = Válassza ki a blokkolni kívánt nyomkövetőket és parancsfájlokat.
