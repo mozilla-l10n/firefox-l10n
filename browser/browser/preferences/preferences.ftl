@@ -745,6 +745,23 @@ content-blocking-strict-description = Strengere bescherming, kan ervoor zorgen d
 content-blocking-custom-desc = Kies wat er wordt geblokkeerd.
 content-blocking-private-trackers = Bekende trackers alleen in privévensters
 content-blocking-third-party-cookies = Tracking-cookies van derden
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standaard
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Streng
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Aangepast
+    .accesskey = A
+
+
+
 content-blocking-etp-standard-desc = Gebalanceerd voor bescherming en prestaties. Pagina’s laden normaal.
 content-blocking-etp-strict-desc = Sterkere bescherming, maar kan er voor zorgen dat sommige websites of inhoud niet werken.
 content-blocking-etp-custom-desc = Kies welke trackers en scripts u wilt blokkeren.

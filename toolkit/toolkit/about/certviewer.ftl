@@ -6,11 +6,15 @@ certificate-viewer-certificate-section-title = Certificaat
 
 ## Error messages
 
+certificate-viewer-error-message = We konden de certificaatinformatie niet vinden, of het certificaat is beschadigd. Probeer het opnieuw.
 certificate-viewer-error-title = Er is iets misgegaan.
 
 ## Certificate information labels
 
 certificate-viewer-algorithm = Algoritme
+certificate-viewer-certificate-authority = Certificaatautoriteit
+certificate-viewer-cipher-suite = Coderingssuite
+certificate-viewer-common-name = Algemene naam
 certificate-viewer-location = Locatie
 certificate-viewer-method = Methode
 certificate-viewer-name = Naam
