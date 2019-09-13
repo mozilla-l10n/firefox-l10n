@@ -109,7 +109,7 @@
 
 
 <!ENTITY  securityView.identity.header   "Identita webového serveru">
-<!ENTITY  securityView.identity.owner    "Vlastník: ">
+<!ENTITY  securityView.identity.owner    "Vlastník:">
 <!ENTITY  securityView.identity.domain   "Webový server: ">
 <!ENTITY  securityView.identity.verifier "Ověřil:">
 
