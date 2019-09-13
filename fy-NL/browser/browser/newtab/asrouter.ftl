@@ -139,3 +139,16 @@ cfr-doorhanger-firefox-send-header = Dit pdf-dokumint feilich diele
 cfr-doorhanger-firefox-send-body = Hâld jo gefoelige dokuminten wei fan nijsgjirrige blikken mei end-to-end-fersifering en in keppeling dy't ferdwynt as jo klear binne.
 cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } probearje
     .accesskey = p
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Beskermingen besjen
+    .accesskey = B
+cfr-doorhanger-socialtracking-close-button = Slute
+    .accesskey = S
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } hat opkeard dat in sosjaal netwurk jo hjir folget
+cfr-doorhanger-socialtracking-description = Jo privacy is wichtich. { -brand-short-name } blokkearret no faak brûkte sosjale-mediatrackers en beheint sa, hoefolle gegevens se sammelje oer wat jo online dogge.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } hat in fingerprinter op dizze side blokkearre
+cfr-doorhanger-fingerprinters-description = Jo privacy is wichtich. { -brand-short-name } blokkearret no fingerprinters, dy't stikjes unyk identifisearbere ynformaasje oer jo apparaat sammelje om jo te folgjen.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } hat in cryptominer op dizze side blokkearre
+cfr-doorhanger-cryptominers-description = Jo privacy is wichtich. { -brand-short-name } blokkearret no cryptominers, dy't de kompjûterkrêft fan jo systeem brûke om digitaal jild te minen.
