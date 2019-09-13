@@ -142,3 +142,16 @@ cfr-doorhanger-firefox-send-header = Rannit ar restr PDF-mañ en un doare diogel
 cfr-doorhanger-firefox-send-body = Mirit ho teulioù kizidik da vezañ spiet gant an enrinegañ penn-ouzh-penn hag un ere a vo dilamet ur wech ma vo echu ganeoc'h.
 cfr-doorhanger-firefox-send-ok-button = Esaeit { -send-brand-name }
     .accesskey = E
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Gwelout ar gwarezioù
+    .accesskey = G
+cfr-doorhanger-socialtracking-close-button = Serriñ
+    .accesskey = S
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } en deus harzhet ur rouedad kevredadel d'hoc'h heuliañ amañ
+cfr-doorhanger-socialtracking-description = Pouezus eo ho puhez prevez. { -brand-short-name } a stank an heulierien media kevredadel boutin evit bevenniñ ar c'hementad a roadennoù a c'hallont dastum diwar-benn ar pezh a rit enlinenn.
+cfr-doorhanger-fingerprinters-heading = Stanket eo bet un dinoerien roudoù niverel gant { -brand-short-name } war ar bajenn-mañ
+cfr-doorhanger-fingerprinters-description = Pouezus eo ho puhez prevez. { -brand-short-name } a stank an dinoerien roudoù niverel, a zastum titouroù a c'hall servij da adanavezout ac'hanoc'h hag heuliañ ac'hanoc'h.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } en deus stanket ur c'hriptogleuzier war ar bajenn-mañ
+cfr-doorhanger-cryptominers-description = Pouezus eo ho puhez prevez. { -brand-short-name } a stank kriptogleuzierien, a c'hall implij galloud jediñ ho reizhiad evit mengleuziañ arc'hant niverel.

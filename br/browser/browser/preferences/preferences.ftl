@@ -739,6 +739,7 @@ addressbar-suggestions-settings = Kemmañ ar gwellvezioù evit ar c'hinnigoù lu
 content-blocking-header = Stankañ endalc'hadoù
 content-blocking-section-description = Gwarezit ho puhez prevez pa verdeit. Stankit an endalc'hadoù diwelus a heuilh al lec'hiennoù a weladennit hag a sav un aelad diwar ho penn. Stankañ ul lodenn eus an endalc'had-mañ a c'hall lakaat ar pajennoù da gargañ buanoc'h.
 content-blocking-enhanced-tracking-protection = Gwarez heuliañ araoket
+content-blocking-section-top-level-description = An heulierien a heuilh ac'hanoc'h enlinenn evit tapout titouroù diwar-benn ho poazioù merdeiñ hag ho kreizennoù dedenn. { -brand-short-name } a stank lodenn vrasañ anezho.
 content-blocking-learn-more = Gouzout hiroc'h
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -756,15 +757,41 @@ content-blocking-strict-description = Gwarez gwelloc'h, gallout a ra lakaat lec'
 content-blocking-custom-desc = Dibabit petra stankañ.
 content-blocking-private-trackers = An heulierien anavezet er merdeiñ prevez hepken
 content-blocking-third-party-cookies = Toupinoù heuliañ tredeoù
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Skoueriek
+    .accesskey = S
+enhanced-tracking-protection-setting-strict =
+    .label = Strizh
+    .accesskey = S
+enhanced-tracking-protection-setting-custom =
+    .label = Personelaet
+    .accesskey = P
+
+
+
+content-blocking-etp-standard-desc = Kempouez etre gwarez ha digonusted. Ar pajennoù a gargo en un doare ordinal.
+content-blocking-etp-strict-desc = Gwarez kreñvoc'h, met gallout a ra lakaat lec'hiennoù 'zo da derriñ.
+content-blocking-etp-custom-desc = Dibabit pe heulier pe skript herzel.
+content-blocking-private-windows = Heulierien er prenestroù prevez
+content-blocking-cross-site-tracking-cookies = Toupinoù heuliañ etre-lec'hienn
+content-blocking-social-media-trackers = Heulierien media kevredadel
 content-blocking-all-cookies = An holl doupinoù
 content-blocking-unvisited-cookies = Toupinoù al lec'hiennoù n'int ket bet gweladennet
 content-blocking-all-windows-trackers = An holl heulierien en holl brenestroù
+content-blocking-all-windows-tracking-content = Endalc'had heuliañ en holl brenestroù
 content-blocking-all-third-party-cookies = Holl doupinoù an tredeoù
 content-blocking-cryptominers = Kriptogleuzerien
 content-blocking-fingerprinters = Dinoerien roudoù niverel
 content-blocking-warning-title = Diwallit!
 content-blocking-warning-description = Stankañ endalc'hadoù a c'hall lakaat lec'hiennoù 'zo da vont en-dro a-dreuz. Aes eo diweredekaat ar stankadur evit al lec'hiennoù ho peus fiziañs eno.
 content-blocking-learn-how = Deskit penaos
+content-blocking-etp-warning-description = Stankañ an heulierien a c'hallfe kaout un efed war implij lec'hiennoù 'zo. Adkargit ur bajenn gant an heulierien evit kargañ pep tra.
+content-blocking-warning-learn-how = Deskit penaos
 content-blocking-reload-description = Ezhomm ho po da adkargañ hoc'h ivinelloù evit arloañ ar c'hemmoù.
 content-blocking-reload-tabs-button =
     .label = Adkargañ an holl ivinelloù
@@ -772,6 +799,9 @@ content-blocking-reload-tabs-button =
 content-blocking-trackers-label =
     .label = Heulierien
     .accesskey = H
+content-blocking-tracking-content-label =
+    .label = Endalc'had heuliañ
+    .accesskey = E
 content-blocking-tracking-protection-option-all-windows =
     .label = En holl brenestroù
     .accesskey = E
