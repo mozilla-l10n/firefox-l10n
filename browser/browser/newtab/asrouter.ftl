@@ -102,6 +102,8 @@ cfr-whatsnew-lockwise-backup-title = Feu una còpia de seguretat de les vostres 
 cfr-whatsnew-lockwise-backup-body = Ara podeu generar contrasenyes segures i accedir-hi des de tot arreu on inicieu la sessió.
 cfr-whatsnew-lockwise-backup-link-text = Activeu la còpia de seguretat
 cfr-whatsnew-lockwise-take-title = Les vostres contrasenyes, a tot arreu
+cfr-whatsnew-lockwise-take-body = L'aplicació mòbil del { -lockwise-brand-short-name } us permet accedir de manera segura a les contrasenyes desades des de qualsevol lloc.
+cfr-whatsnew-lockwise-take-link-text = Baixa l'aplicació
 
 ## Bookmark Sync
 
@@ -134,3 +136,12 @@ cfr-doorhanger-firefox-send-ok-button = Prova el { -send-brand-name }
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Mostra les proteccions
+    .accesskey = M
+cfr-doorhanger-socialtracking-close-button = Tanca
+    .accesskey = T
+cfr-doorhanger-socialtracking-heading = El { -brand-short-name } ha impedit que una xarxa social us faci el seguiment fins aquí
+cfr-doorhanger-socialtracking-description = La vostra privadesa és important. Ara el { -brand-short-name } bloca els elements de seguiment de les xarxes socials més comunes. Això limita la quantitat de dades que poden recopilar sobre allò que feu a Internet.
+cfr-doorhanger-fingerprinters-heading = El { -brand-short-name } ha blocat un generador d'empremtes digitals en aquesta pàgina
+cfr-doorhanger-fingerprinters-description = La vostra privadesa és important. Ara el { -brand-short-name } bloca els generadors d'empremtes digitals, que recopilen informació del vostre dispositiu que us podria identificar per a fer-vos el seguiment.
+cfr-doorhanger-cryptominers-heading = El { -brand-short-name } ha blocat un miner de criptomonedes en aquesta pàgina
