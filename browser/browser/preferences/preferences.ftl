@@ -778,7 +778,7 @@ enhanced-tracking-protection-setting-custom =
 
 
 
-content-blocking-etp-standard-desc = Yn gytbwys ar gyfer diogelwch a pherfformiad. Bydd tudalennau'n llwytho'n arferol.
+content-blocking-etp-standard-desc = Cydbwysedd rhwng diogelwch a pherfformiad. Bydd tudalennau'n llwytho fel arfer.
 content-blocking-etp-strict-desc = Diogelwch cryfach, ond gall achosi i rai gwefannau neu gynnwys dorri.
 content-blocking-etp-custom-desc = Dewiswch pa dracwyr a sgriptiau i'w rhwystro.
 content-blocking-private-windows = Tracio cynnwys mewn Ffenestri Preifat
