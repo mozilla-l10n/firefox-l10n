@@ -13,8 +13,10 @@ certificate-viewer-error-title = Noe gikk galt.
 
 certificate-viewer-algorithm = Algoritme
 certificate-viewer-certificate-authority = Sertifikatutsteder
-certificate-viewer-cipher-suite = Krypteringsmetode
+certificate-viewer-cipher-suite = Krypteringssuite
 certificate-viewer-common-name = Vanlig navn
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-country = Organisasjonsland
 certificate-viewer-country = Land
 certificate-viewer-curve = Kurve
 certificate-viewer-distribution-point = Distribusjonspunkt
@@ -41,6 +43,8 @@ certificate-viewer-purposes = Formål
 certificate-viewer-qualifier = Kvalifikator
 certificate-viewer-qualifiers = Kvalifikatorer
 certificate-viewer-required = Nødvendig
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-state-province = Organisasjonsstat/-provins
 certificate-viewer-state-province = Delstat/provins
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
