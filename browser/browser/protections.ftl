@@ -31,9 +31,12 @@ etp-card-content = Hi ha elements que us fan el seguiment mentre navegueu per re
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = avui
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = Un gràfic que conté el nombre total d'elements de seguiment blocats aquesta setmana, classificats per tipus.
 social-tab-title = Elements de seguiment de xarxes socials
 social-tab-contant = Les xarxes socials col·loquen elements de seguiment en altres llocs web per a fer el seguiment d'allò que feu i veieu a Internet. Això permet a les empreses de xarxes socials recopilar informació de tot allò que compartiu en els vostres perfils de xarxes socials. <a data-l10n-name="learn-more-link">Més informació</a>
 cookie-tab-title = Galetes de seguiment entre llocs
+cookie-tab-content = Aquestes galetes us segueixen de lloc en lloc per recollir dades sobre allò que feu a Internet. Les desen tercers, com ara anunciants i empreses d'anàlisi de dades. Si bloqueu les galetes de seguiment entre llocs, reduireu el nombre d'anuncis que us fan el seguiment mentre navegueu. <a data-l10n-name="learn-more-link">Més informació</a>
 tracker-tab-title = Contingut que fa seguiment
 tracker-tab-description = Els llocs web poden carregar anuncis, vídeos i altre contingut extern amb un codi de seguiment. Si bloqueu aquest contingut que fa seguiment, els llocs web es poden carregar més de pressa, però és possible alguns botons, formularis o camps d'inici de sessió no funcionin. <a data-l10n-name="learn-more-link">Més informació</a>
 fingerprinter-tab-title = Generadors d'empremtes digitals
@@ -67,8 +70,34 @@ lockwise-sync-status =
 lockwise-sync-not-syncing-devices = No se sincronitza amb altres dispositius
 monitor-title = Tingueu controlades les filtracions de dades
 monitor-link = Com funciona
+monitor-header-content-no-account = Visiteu el { -monitor-brand-name } per veure si hi ha alguna filtració de dades coneguda que us hagi afectat i obteniu alertes de noves filtracions.
+monitor-header-content-signed-in = El { -monitor-brand-name } us avisa si la vostra informació ha aparegut en alguna filtració de dades coneguda.
 monitor-sign-up = Subscriviu-vos-hi per rebre alertes de filtracions
 auto-scan = S'ha comprovat avui automàticament
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] adreça electrònica supervisada
+       *[other] adreces electròniques supervisades
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] filtració de dades coneguda ha exposat informació vostra
+       *[other] filtracions de dades conegudes han exposat informació vostra
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] contrasenya exposada entre totes les filtracions
+       *[other] contrasenyes exposades entre totes les filtracions
+    }
 full-report-link = Vegeu l'informe complet al <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
