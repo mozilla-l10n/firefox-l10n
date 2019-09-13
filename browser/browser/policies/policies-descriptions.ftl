@@ -53,7 +53,9 @@ policy-EnableTrackingProtection = Activar u deactivar la bloccada da cuntegn e t
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
 policy-Extensions = Installar, deinstallar u bloccar extensiuns. L'opziun «Installar» pretenda URLs u percurs sco parameters. Las opziuns «Deinstallar» e «Bloccar» pretendan IDs dad extensiuns.
+policy-ExtensionSettings = Administrar tut ils aspects da l'installaziun dad extensiuns.
 policy-ExtensionUpdate = Activar u deactivar actualisaziuns automaticas dad extensiuns.
+policy-FirefoxHome = Configurar la pagina da partenza da Firefox.
 policy-FlashPlugin = Permetter u scumandar l'utilisaziun dal plug-in Flash.
 policy-HardwareAcceleration = Sche «false», deactivar l'acceleraziun cun agid da la hardware.
 # “lock” means that the user won’t be able to change this setting
@@ -64,8 +66,10 @@ policy-NetworkPrediction = Activar u deactivar «network prediction» (prelectur
 policy-NewTabPage = Activar u deactivar la pagina «Nov tab».
 policy-NoDefaultBookmarks = Deactivar la creaziun dals segnapaginas predefinids da { -brand-short-name } ed ils segnapaginas intelligents (Visità il pli savens, Chavazzins utilisads dacurt). Remartga: questa directiva ha mo effect sch'ella vegn utilisada avant ch'il profil vegn avert l'emprima giada.
 policy-OfferToSaveLogins = Gestiunar la dumonda en { -brand-short-name } da memorisar las infurmaziuns d'annunzia. Omaduas valurs, «true» e «false», èn validas.
+policy-OfferToSaveLoginsDefault = Definir la valur da standard per permetter a { -brand-short-name } da proponer da memorisar infurmaziuns d'annunzia. Omaduas valurs, «true» e «false», èn validas.
 policy-OverrideFirstRunPage = Surscriver la pagina che vegn mussada suenter avair avià l'emprima giada. Definir questa directiva cun ina valur vida per deactivar la pagina.
 policy-OverridePostUpdatePage = Surscriver la pagina «What's New» che vegn mussada suenter actualisaziuns. Definir questa directiva cun ina valur vida per impedir che la pagina vegnia mussada.
+policy-PasswordManagerEnabled = Activar la memorisaziun da pleds-clav en l'administraziun da pleds-clav.
 policy-Permissions = Configurar permissiuns per camera, microfon, posiziun e notificaziuns.
 policy-PopupBlocking = Permetter a tschertas websites da mussar popups sco standard.
 policy-Preferences = Definescha e fixescha la valur per ina subgruppa da preferenzas.
