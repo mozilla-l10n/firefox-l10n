@@ -26,12 +26,12 @@ fxaccounts-avatar-button =
 ## The ⋯ menu that is in the top corner of the page
 
 menu =
-    .title = मेनु खेव
+    .title = मेनु बेखेव
 # This menuitem is only visible on Windows
 menu-menuitem-import = पासवर्डफोरखौ लाबो...
 menu-menuitem-preferences =
     { PLATFORM() ->
-        [windows] उफ्राफोर
+        [windows] उफ्रा
        *[other] पसन्दफोर
     }
 about-logins-menu-menuitem-help = हेफाजाब
