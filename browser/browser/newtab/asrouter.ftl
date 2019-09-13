@@ -136,3 +136,16 @@ cfr-doorhanger-firefox-send-header = Chia sẻ PDF này một cách an toàn
 cfr-doorhanger-firefox-send-body = Giữ các tài liệu nhạy cảm của bạn an toàn khỏi những con mắt tò mò với mã hóa đầu cuối và một liên kết sẽ biến mất khi bạn thực hiện xong.
 cfr-doorhanger-firefox-send-ok-button = Thử { -send-brand-name }
     .accesskey = T
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Xem mục bảo vệ
+    .accesskey = P
+cfr-doorhanger-socialtracking-close-button = Đóng
+    .accesskey = C
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } đã dừng mạng xã hội mà nó theo dõi bạn tại đây
+cfr-doorhanger-socialtracking-description = Vấn đề riêng tư của bạn. { -brand-short-name } hiện chặn các trình theo dõi phương tiện truyền thông xã hội phổ biến, giới hạn số lượng dữ liệu họ có thể thu thập về những gì bạn làm trực tuyến.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } đã chặn một dấu vân tay trên trang này
+cfr-doorhanger-fingerprinters-description = Vấn đề riêng tư của bạn. { -brand-short-name } hiện chặn các dấu vân tay, mà nó thu thập các mẫu thông tin nhận dạng duy nhất về thiết bị của bạn để theo dõi bạn.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } đã chặn một loại tiền điện tử trên trang này
+cfr-doorhanger-cryptominers-description = Vấn đề riêng tư của bạn. { -brand-short-name } hiện chặn các loại tiền điện tử, mà nó sử dụng sức mạnh tính toán của hệ thống của bạn để khai thác tiền kỹ thuật số.

@@ -18,6 +18,9 @@ process-type-file = Tập tin cục bộ
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Phân bổ lớn
+# process used to isolate a webpage from other web pages
+# to improve security
+process-type-webisolated = Nội dung web bị cô lập
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU

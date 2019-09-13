@@ -709,8 +709,8 @@ addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Chặn nội dung
-content-blocking-enhanced-tracking-protection = Trình chống theo dõi nâng cao
 content-blocking-section-description = Bảo vệ riêng tư của bạn trong khi bạn duyệt. Chặn nội dung vô hình của các trang web bạn đang xem truy cập và hồ sơ bạn. Chặn một số nội dung này có thể làm cho các trang tải nhanh hơn.
+content-blocking-enhanced-tracking-protection = Trình chống theo dõi nâng cao
 content-blocking-section-top-level-description = Trình theo dõi theo bạn trên mạng để thu thập thông tin về thói quen và sở thích duyệt web của bạn. { -brand-short-name } chặn nhiều trình theo dõi và các tập lệnh độc hại khác.
 content-blocking-learn-more = Tìm hiểu thêm
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -729,6 +729,23 @@ content-blocking-strict-description = Bảo vệ mạnh mẽ hơn, có thể khi
 content-blocking-custom-desc = Chọn những gì bạn muốn chặn.
 content-blocking-private-trackers = Trình theo dõi được biết chỉ trong cửa sổ riêng tư
 content-blocking-third-party-cookies = Cookie theo dõi của bên thứ ba
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Tiêu chuẩn
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Nghiêm ngặt
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Tùy chỉnh
+    .accesskey = C
+
+
+
 content-blocking-etp-standard-desc = Cân bằng để bảo vệ và hiệu suất. Các trang sẽ tải bình thường.
 content-blocking-etp-strict-desc = Bảo vệ mạnh mẽ hơn, nhưng có thể khiến một số trang web và nội dung bị phá vỡ.
 content-blocking-etp-custom-desc = Chọn trình theo dõi và tập lệnh để chặn.
