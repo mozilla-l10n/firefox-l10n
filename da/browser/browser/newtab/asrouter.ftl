@@ -157,3 +157,16 @@ cfr-doorhanger-firefox-send-header = Del denne PDF-fil sikkert
 cfr-doorhanger-firefox-send-body = Hold dine fortrolige dokumenter sikre med stærk kryptering og et link, der automatisk udløber
 cfr-doorhanger-firefox-send-ok-button = Prøv { -send-brand-name }
   .accesskey = P
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Se beskyttelse
+  .accesskey = b
+cfr-doorhanger-socialtracking-close-button = Luk
+  .accesskey = L
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } forhindrede et socialt netværk i at spore dig på denne side
+cfr-doorhanger-socialtracking-description = Du har ret til et privatliv. { -brand-short-name } blokerer nu de mest almindelige sporings-mekanismer fra sociale medier for at begrænse, hvor meget data de kan indsamle om din adfærd på nettet. 
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blokerede en fingerprinter på denne side
+cfr-doorhanger-fingerprinters-description = Du har ret til et privatliv. { -brand-short-name } blokerer nu fingerprinters, der indsamler unikke informationer om din enhed for at spore dig.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } blokerede en cryptominer på denne side
+cfr-doorhanger-cryptominers-description = Du har ret til et privatliv. { -brand-short-name } blokerer nu cryptominers, der bruger dit systems ressourcer til at udvinde digital valuta.
