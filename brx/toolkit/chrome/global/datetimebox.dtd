@@ -15,6 +15,7 @@
 <!ENTITY time.hour.label "घन्टा">
 <!ENTITY time.minute.label "मिनिट">
 <!ENTITY time.second.label "सेकेन्द">
+<!ENTITY time.millisecond.label "मिलि सेकेन्द">
 <!ENTITY time.dayperiod.label "AM/PM">
 
 <!-- Placeholders for input type=date -->
