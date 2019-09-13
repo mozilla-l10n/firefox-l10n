@@ -18,6 +18,9 @@ process-type-file = Helyi fájl
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = Nagy lefoglalás
+# process used to isolate a webpage from other web pages
+# to improve security
+process-type-webisolated = Elkülönített webtartalom
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU

@@ -47,7 +47,9 @@ accessibility-text-label-issue-toolbar = Az eszköztárakat címkézni kell, ha 
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = A fókuszálható elemeknek interaktív szemantikával kell rendelkezniük. <a>További tudnivalók</a>
 accessibility-keyboard-issue-tabindex = Kerülje a nullánál nagyobb <code>tabindex</code> attribútum használatát. <a>További tudnivalók</a>
 accessibility-keyboard-issue-action = Az interaktív elemeknek billentyűzettel aktiválhatónak kell lenniük. <a>További tudnivalók</a>
 accessibility-keyboard-issue-focusable = Az interaktív elemeknek fókuszálhatóknak kell lenniük. <a>További tudnivalók</a>
 accessibility-keyboard-issue-focus-visible = Lehet, hogy a fókuszálható elemről hiányzik a fókuszstílus. <a>További tudnivalók</a>
+accessibility-keyboard-issue-mouse-only = A kattintható elemeknek fókuszálhatónak kell lenniük, és interaktív szemantikával kell rendelkezniük. <a>További tudnivalók</a>

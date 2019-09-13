@@ -84,7 +84,13 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Újdonságok
 cfr-whatsnew-release-notes-link-text = Olvassa el a kiadási megjegyzéseket
 cfr-whatsnew-fx70-title = A { -brand-short-name } mostantól még keményebben küzd az adatvédelemért
+cfr-whatsnew-fx70-body =
+    A legújabb frissítés továbbfejleszti a Követésvédelem funkciót, és könnyebbé
+    teszi a biztonságos jelszavak létrehozását, mint valaha, minden oldalon.
 cfr-whatsnew-tracking-protect-title = Védje magát a nyomkövetőktől
+cfr-whatsnew-tracking-protect-body =
+    A { -brand-short-name } számos közismert közösségi média és weboldalak közti
+    nyomkövetőt blokkol, melyek követik Önt online.
 cfr-whatsnew-tracking-protect-link-text = Tekintse meg a jelentését
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
@@ -131,3 +137,16 @@ cfr-doorhanger-firefox-send-header = Ossza meg biztonságosan ezt a PDF-fájlt
 cfr-doorhanger-firefox-send-body = Tartsa biztonságban a bizalmas dokumentumait a kíváncsi szemek elől a végpontok közötti titkosítással, és a hivatkozással, amely eltűnik, ha végzett.
 cfr-doorhanger-firefox-send-ok-button = Próbálja ki a { -send-brand-name }et
     .accesskey = P
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Lásd: Adatvédelem
+    .accesskey = A
+cfr-doorhanger-socialtracking-close-button = Bezárás
+    .accesskey = B
+cfr-doorhanger-socialtracking-heading = A { -brand-short-name } megakadályozta, hogy egy közösségi hálózat kövesse itt
+cfr-doorhanger-socialtracking-description = Számít az adatvédelem. A { -brand-short-name } most már blokkolja a gyakori közösségimédia-követőket, korlátozva hogy mennyi adatot gyűjthessenek az Ön online tevékenységéről.
+cfr-doorhanger-fingerprinters-heading = A { -brand-short-name } blokkolt egy ujjlenyomat-készítőt ezen az oldalon
+cfr-doorhanger-fingerprinters-description = Számít az adatvédelem. A { -brand-short-name } most már blokkolja az ujjlenyomat-készítőket, melyek egyedileg azonosítható információkat gyűjtenek az eszközéről, hogy követhessék Önt.
+cfr-doorhanger-cryptominers-heading = A { -brand-short-name } blokkolt egy kriptobányászt ezen az oldalon
+cfr-doorhanger-cryptominers-description = Számít az adatvédelem. A { -brand-short-name } most már blokkolja a kriptobányászokat, melyek a rendszere számítási erőforrásait használják, hogy digitális pénzeket bányásszanak.

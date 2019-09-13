@@ -36,6 +36,7 @@ lockwise-title = Ne felejtsen el egyetlen jelszót sem
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = A { -lockwise-brand-name } biztonságosan tárolja a jelszavait a böngészőjében.
 lockwise-header-content-logged-in = Tárolja biztonságosan, és szinkronizálja a jelszavait az összes eszközén.
+about-logins-view-logins-button = Bejelentkezések megtekintése
 lockwise-no-logins-content = Szerezze be a <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> alkalmazást, hogy bárhová elvigye a jelszavait.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -55,8 +56,11 @@ lockwise-sync-status =
         [one] Szinkronizálás { $count } további eszközre
        *[other] Szinkronizálás { $count } további eszközre
     }
+lockwise-sync-not-syncing-devices = Nincs szinkronizálás más eszközökre
 monitor-title = Legyen résen az adatsértések miatt.
 monitor-link = Hogyan működik
+monitor-header-content-no-account = Ellenőrizze a { -monitor-brand-name } oldalt, és nézze meg, hogy szerepelt-e valamilyen ismert adatsértésben, és kapjon értesítést az új adatsértésekről.
+monitor-header-content-signed-in = A { -monitor-brand-name } figyelmezteti, ha az adatai új adatsértésben jelennek meg.
 monitor-sign-up = Iratkozzon fel az adatsértési figyelmeztetésekre
 auto-scan = Automatikusan ellenőrizve ma
 # This string is displayed after a large numeral that indicates the total number
