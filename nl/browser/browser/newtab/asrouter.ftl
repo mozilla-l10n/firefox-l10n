@@ -142,6 +142,10 @@ cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } proberen
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Beschermingen bekijken
+    .accesskey = B
+cfr-doorhanger-socialtracking-close-button = Sluiten
+    .accesskey = S
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } heeft verhinderd dat een sociaal netwerk u hier volgt
 cfr-doorhanger-socialtracking-description = Uw privacy is belangrijk. { -brand-short-name } blokkeert nu veelgebruikte sociale-mediatrackers en beperkt zo, hoeveel gegevens ze kunnen verzamelen over wat u online doet.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } heeft een fingerprinter op deze pagina geblokkeerd
