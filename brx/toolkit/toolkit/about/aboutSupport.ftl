@@ -142,11 +142,13 @@ can-sandbox-content = कन्टेन्ट प्रचेस सेण्�
 can-sandbox-media = मेडिया प्लागिन सेण्डबक्सिं
 sandbox-proc-type-content = थानायआयदा
 launcher-process-status-0 = मावथि खालामबाय
+launcher-process-status-unknown = मिथिमोनै थाखोमान
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-2 = लोरबां जाबाय
+multi-process-status-unknown = मिथिमोनै थाखोमान
 apz-none = मोनसेबो नङा
 
 ## Variables

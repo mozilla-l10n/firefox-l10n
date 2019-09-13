@@ -16,5 +16,8 @@ cert-error-untrusted-default = चार्टिफिकेटआ मोनस
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
 cert-error-expired-now = वेबसाइत आ गावसोरनि सिनायथिखौ सार्तिफिकेत नि जोहै खालामो जायफोर मोनसे थि समनि थाखायल' | { $hostname } नि सार्तिफिकेत आ { $not-after-local-time } निफ्रायनो गनायजाला
+# Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = गोरोन्थि क'ड: <a data-l10n-name="error-code-link">{ $error }</a>
 cert-error-symantec-distrust-admin = नोंथाङा बे असुबिदानि बागै वेबसाइत नि बिगोमानो फोरमायनो हागौ
 cert-error-details-cert-chain-label = चार्टिफिकेटखौ जिनजिरि:

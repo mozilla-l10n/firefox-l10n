@@ -82,6 +82,9 @@ login-item-copied-password-button-text = कपि खालामबाय!
 login-item-save-changes-button = सोलायनायफोर थिना दोन
 login-item-save-new-button = थिना दोन
 login-item-cancel-button = नेवसि
+login-item-time-changed = जोबथा सोलायनाय सम: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = सोरजिनाय सम: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = जोबथा बाहायनाय: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 

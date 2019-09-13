@@ -85,5 +85,10 @@ about-debugging-tmp-extension-reload-button = फिन ल'ड खालाम
 about-debugging-tmp-extension-remove-button = बोखार
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = जागाय
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = सोलिगासिनो
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = थाद’बाय
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = गुवारै
