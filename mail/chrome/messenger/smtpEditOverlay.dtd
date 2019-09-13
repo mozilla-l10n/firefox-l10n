@@ -12,7 +12,7 @@
 <!ENTITY serverPort.accesskey "P">
 <!ENTITY userName.label "Nom d'usuari:">
 <!ENTITY userName.accesskey "m">
-<!ENTITY connectionSecurity.label "Connexió segura:">
+<!ENTITY connectionSecurity.label "Seguretat de la connexió:">
 <!ENTITY connectionSecurity.accesskey "C">
 <!ENTITY connectionSecurityType-0.label "Cap">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, si està disponible">
