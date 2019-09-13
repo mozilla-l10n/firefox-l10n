@@ -93,7 +93,7 @@ cfr-whatsnew-tracking-blocked-title =
     { $blockedCount ->
        *[other] 跟踪器拦截数量
     }
-cfr-whatsnew-tracking-blocked-subtitle = 自 { DATETIME($earliestDate, month: "long", year: "numeric") } 起
+cfr-whatsnew-tracking-blocked-subtitle = 自{ DATETIME($earliestDate, month: "long", year: "numeric") }起
 cfr-whatsnew-tracking-blocked-link-text = 查看报告
 cfr-whatsnew-lockwise-backup-title = 备份您的密码
 cfr-whatsnew-lockwise-backup-body = 立即生成安全密码，并可在您登录的任何设备访问。
