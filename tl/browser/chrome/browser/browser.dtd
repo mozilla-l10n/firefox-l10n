@@ -991,6 +991,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Mga cookie">
 <!ENTITY contentBlocking.cookiesView.label "Mga Cookie at Site Data">
 
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
+
 <!ENTITY contentBlocking.socialblock.label "Mga Social Media Tracker">
 
 <!ENTITY contentBlocking.cookies2.label "Mga Cross-Site Tracking Cookie">
