@@ -92,6 +92,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = Укључите { -sync-brand-short-n
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Немојте поново изгубити лозинку
 cfr-doorhanger-sync-logins-ok-button = Укључите { -sync-brand-short-name }
     .accesskey = т
 
@@ -108,3 +109,6 @@ cfr-doorhanger-send-tab-ok-button = Испробајте слање језича
 cfr-doorhanger-firefox-send-header = Делите овај PDF безбедно
 cfr-doorhanger-firefox-send-ok-button = Испробајте { -send-brand-name }
     .accesskey = И
+
+## Social Tracking Protection
+

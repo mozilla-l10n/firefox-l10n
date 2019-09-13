@@ -10,6 +10,7 @@ etp-card-title = Побољшана заштита од праћења
 graph-today = Данас
 social-tab-title = Пратиоци с друштвених мрежа
 tracker-tab-title = Садржај који прати
+lockwise-title = Немојте поново заборавити лозинку
 turn-on-sync = Укључите { -sync-brand-short-name }…
     .title = Отворите подешавања синхронизовања
 auto-scan = Аутоматски скенирано данас
