@@ -19,6 +19,7 @@ create-login-button = गोदान ल'गइन खुलि
 #   $title (String) - The title of the website associated with the favicon.
 login-favicon =
     .alt = { $title } नि फेबआइकोन
+fxaccounts-sign-in-text = नोंनि पासवर्दखौ गुबुन डिभाइस आव लाबो
 fxaccounts-sign-in-button = { -sync-brand-short-name } आव साइन-इन खालाम
 fxaccounts-avatar-button =
     .title = एकाउन्ट सामलाय
