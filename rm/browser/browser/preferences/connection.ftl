@@ -54,6 +54,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Nagin proxy per
     .accesskey = N
 connection-proxy-noproxy-desc = Exempel: .mozilla.org, .giuru.ch, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Las connexiuns cun localhost, 127.0.0.1 ed ::1 n'utiliseschan mai in proxy.
 connection-proxy-autotype =
     .label = URL per la configuraziun automatica dal proxy
     .accesskey = a

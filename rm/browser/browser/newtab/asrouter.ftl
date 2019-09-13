@@ -132,3 +132,16 @@ cfr-doorhanger-send-tab-ok-button = Emprova «Trametter il tab»
 cfr-doorhanger-firefox-send-header = Cundivida quest PDF a moda segira
 cfr-doorhanger-firefox-send-ok-button = Emprova { -send-brand-name }
     .accesskey = E
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Vesair las protecziuns
+    .accesskey = p
+cfr-doorhanger-socialtracking-close-button = Serrar
+    .accesskey = S
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } ha fermà qua ina rait sociala che fastizescha
+cfr-doorhanger-socialtracking-description = La protecziun da datas è impurtanta. { -brand-short-name } blochescha ussa fastizaders frequents da social media e limitescha la quantitad da datas che po vegnir rimnada davart tias activitads online.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } ha bloccà in improntader sin questa pagina
+cfr-doorhanger-fingerprinters-description = La protecziun da datas è impurtanta. { -brand-short-name } blochescha ussa improntaders che rimnan infurmaziuns univocas che permettan dad identifitgar tes apparat per ta fastizar.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } ha bloccà in criptominier sin questa pagina
+cfr-doorhanger-cryptominers-description = La protecziun da datas è impurtanta. { -brand-short-name } blochescha ussa criptominiers che maldovran las resursas da tes computer per generar daners digitals.

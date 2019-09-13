@@ -29,6 +29,7 @@ search-input-box =
             [windows] Tschertgar en las preferenzas
            *[other] Tschertgar en las preferenzas
         }
+managed-notice = Tes navigatur vegn administrà da tia organisaziun.
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -284,6 +285,7 @@ update-pref-write-failure-title = Errur cun memorisar
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Errur durant memorisar la preferenza. Impussibel da scriver en la datoteca: { $path }
+update-setting-write-failure-title = Errur cun memorisar preferenzas per actualisaziuns
 
 ## General Section - Performance
 
@@ -709,6 +711,13 @@ content-blocking-strict-description = Ina protecziun pli severa, po avair per co
 content-blocking-custom-desc = Tscherna tge bloccar.
 content-blocking-private-trackers = Fastizaders enconuschents mo en il modus privat
 content-blocking-third-party-cookies = Cookies che fastizeschan da terzas partidas
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+
+
 content-blocking-all-cookies = Tut ils cookies
 content-blocking-unvisited-cookies = Cookies da websites betg visitadas
 content-blocking-all-windows-trackers = Fastizaders enconuschents en tut las fanestras
