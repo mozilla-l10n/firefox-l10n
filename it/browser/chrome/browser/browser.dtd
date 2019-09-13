@@ -292,8 +292,11 @@
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Come fare per visualizzare in questa sezione le schede da altri dispositivi?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Apri preferenze Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Accedi per visualizzare un elenco delle schede aperte in altri dispositivi.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Visualizza un elenco delle schede aperte in altri dispositivi.">
 <!ENTITY appMenuRemoteTabs.unverified.label "L’account non è ancora stato verificato.">
 <!ENTITY appMenuRemoteTabs.signin.label "Accedi a Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Accedi a &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Attiva &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestione dispositivi…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Visualizza barra laterale Schede sincronizzate">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Nascondi barra laterale Schede sincronizzate">
