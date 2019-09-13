@@ -101,6 +101,8 @@ confirm-discard-changes-dialog-confirm-button = नागार
 
 ## Breach Alert notification
 
+breach-alert-dismiss =
+    .title = बे सांग्रांथिखौ बन्द खालाम
 
 ## Error Messages
 

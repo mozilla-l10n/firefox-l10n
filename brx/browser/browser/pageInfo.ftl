@@ -146,6 +146,16 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = डिफल्ट बाहाय
 security-no-visits = नङा
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] नङा
+        [one] नंगौ, खेबसे
+       *[other] नंगौ, { $visits } बार
+    }
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
