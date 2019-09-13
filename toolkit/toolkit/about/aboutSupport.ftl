@@ -56,6 +56,7 @@ app-basics-memory-use = Utilització de la memòria
 app-basics-performance = Rendiment
 app-basics-service-workers = Processos de treball de servei registrats
 app-basics-profiles = Perfils
+app-basics-launcher-process-status = Procés d'inici
 app-basics-multi-process-support = Finestres multiprocés
 app-basics-remote-processes-count = Processos remots
 app-basics-enterprise-policies = Polítiques d'empresa
@@ -110,6 +111,10 @@ sandbox-sys-call-number = Crida del sistema
 sandbox-sys-call-args = Arguments
 safe-mode-title = Proveu el mode segur
 restart-in-safe-mode-label = Reinicia amb els complements inhabilitats…
+
+## Media titles
+
+audio-backend = Sistema de fons d'àudio
 media-title = Multimèdia
 media-output-devices-title = Dispositius de sortida
 media-input-devices-title = Dispositius d'entrada
@@ -122,6 +127,9 @@ media-device-format = Format
 media-device-channels = Canals
 media-device-rate = Freqüència
 media-device-latency = Latència
+
+
+
 intl-title = Internacionalització i localització
 intl-app-title = Paràmetres de l'aplicació
 intl-locales-requested = Llengües sol·licitades
@@ -222,7 +230,6 @@ d3d9video-crash-buard = Descodificador de vídeo D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Reinicialitza als valors per defecte en el proper reinici
 gpu-process-kill-button = Finalitza el procés de GPU
-audio-backend = Sistema de fons d'àudio
 min-lib-versions = Versió mínima esperada
 loaded-lib-versions = Versió en ús
 has-seccomp-bpf = Seccomp-BPF (filtratge de crides del sistema)
