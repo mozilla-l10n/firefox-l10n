@@ -725,8 +725,8 @@ addressbar-suggestions-settings = Foarkarren foar sykmasinesuggestjes wizigje
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Ynhâldsblokkearring
-content-blocking-enhanced-tracking-protection = Ferbettere beskerming tsjin folgjen
 content-blocking-section-description = Beskermje jo privacy wylst jo sneupe. Blokkearje ûnsichtbere ynhâld dy't de troch jo besochte websites folget en jo profilearje. Troch wat fan dizze ynhâld te blokkearjen lade siden mooglik flugger.
+content-blocking-enhanced-tracking-protection = Ferbettere beskerming tsjin folgjen
 content-blocking-section-top-level-description = Trackers folgje jo online om gegevens oer jo sneupgedrach en ynteresses te sammeljen. { -brand-short-name } blokkearret in protte fan dizze trackers en oare kweawollende skripts.
 content-blocking-learn-more = Mear ynfo
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -745,6 +745,23 @@ content-blocking-strict-description = Strangere beskerming, kin derfoar soargje 
 content-blocking-custom-desc = Kies wat der blokkearre wurdt.
 content-blocking-private-trackers = Bekende trackers allinnich yn priveefinsters
 content-blocking-third-party-cookies = Tracking-cookies fan tredden
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standert
+    .accesskey = S
+enhanced-tracking-protection-setting-strict =
+    .label = Strang
+    .accesskey = t
+enhanced-tracking-protection-setting-custom =
+    .label = Oanpast
+    .accesskey = O
+
+
+
 content-blocking-etp-standard-desc = Balansearre foar beskerming en prestaasjes. Siden lade normaal.
 content-blocking-etp-strict-desc = Sterkere beskerming, mar kin der foar soargje dat guon websites of ynhâld net wurkje.
 content-blocking-etp-custom-desc = Kies hokker trackers en scripts jo blokkearje wolle.
