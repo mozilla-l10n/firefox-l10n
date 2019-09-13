@@ -34,6 +34,7 @@ certificate-viewer-purposes = Formål
 certificate-viewer-qualifier = Kvalifikator
 certificate-viewer-qualifiers = Kvalifikatorer
 certificate-viewer-required = Nødvendig
+certificate-viewer-state-province = Delstat/provins
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Serienummer
