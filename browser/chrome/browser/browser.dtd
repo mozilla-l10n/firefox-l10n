@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "แถบเมนู">
 <!ENTITY menubarCmd.accesskey "ถ">
 <!ENTITY navbarCmd.label "แถบเครื่องมือนำทาง">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "การนำทาง">
 <!ENTITY personalbarCmd.label "แถบเครื่องมือที่คั่นหน้า">
 <!ENTITY personalbarCmd.accesskey "บ">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "ที่คั่นหน้า">
 <!ENTITY bookmarksToolbarItem.label "รายการแถบเครื่องมือที่คั่นหน้า">
 
 <!ENTITY pageSourceCmd.label "ต้นฉบับหน้า">
 <!ENTITY pageSourceCmd.accesskey "ต">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "ข้อมูลหน้า">
 <!ENTITY pageInfoCmd.accesskey "ข">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "ตัวดีบั๊กเค้าโครง">
 <!ENTITY ldbCmd.accesskey "ต">
@@ -116,6 +126,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "เชื่อมต่อกับ &syncBrand.shortName.label; ใหม่">
 <!ENTITY fxaUnverified.label "ยืนยันบัญชีของคุณ">
 
+
+ <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "ย่อ">
 <!ENTITY fullScreenRestore.tooltip "คืนสภาพ">
@@ -145,6 +157,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "ลงชื่อเข้าเป็น">
 <!ENTITY fxa.menu.manageAccount.label "จัดการบัญชี…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "การตั้งค่า &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "เชื่อมต่ออุปกรณ์อื่น…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -195,6 +211,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "ที่คั่นหน้า">
 <!ENTITY bookmarksMenu.accesskey "ท">
+
 <!ENTITY bookmarkThisPageCmd.label "เพิ่มที่คั่นหน้าสำหรับหน้านี้">
 <!ENTITY editThisBookmarkCmd.label "แก้ไขที่คั่นหน้านี้">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -510,6 +527,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "คำค้นหา">
+
 <!ENTITY contentSearchSubmit.tooltip  "ค้นหา">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -968,6 +986,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "คุกกี้">
 <!ENTITY contentBlocking.cookiesView.label "คุกกี้และข้อมูลไซต์">
 
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
+
 <!ENTITY contentBlocking.socialblock.label "ตัวติดตามสังคมออนไลน์">
 
 <!ENTITY contentBlocking.cookies2.label "คุกกี้ติดตามข้ามไซต์">
@@ -982,6 +1002,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "รายงานปัญหา">
 <!ENTITY contentBlocking.breakageReportView2.description "การบล็อกเนื้อหาอาจทำให้เกิดปัญหากับบางเว็บไซต์ได้ เมื่อคุณรายงานปัญหา นั่นก็เท่ากับคุณช่วยทำให้ &brandShortName; ดีขึ้นสำหรับทุกๆ คน (การดำเนินการนี้จะส่ง URL พร้อมทั้งข้อมูลเกี่ยวกับการตั้งค่าเบราว์เซอร์ของคุณไปให้กับ Mozilla)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "เรียนรู้เพิ่มเติม">
+
 <!ENTITY contentBlocking.breakageReportView.title "รายงานไซต์ที่ใช้งานไม่ได้">
 <!ENTITY contentBlocking.breakageReportView3.description "การปิดกั้นตัวติดตามบางตัวอาจทำให้เกิดปัญหากับบางเว็บไซต์ได้ การรายงานปัญหา ก็เท่ากับคุณช่วยทำให้ &brandShortName; ดีขึ้นสำหรับทุก ๆ คน การรายงานนี้จะส่ง URL พร้อมทั้งข้อมูลเกี่ยวกับการตั้งค่าเบราว์เซอร์ของคุณไปให้กับ Mozilla">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "เรียนรู้เพิ่มเติม">
@@ -1037,6 +1058,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "ป">
 
 <!ENTITY homepageControlled.message "ส่วนขยายได้เปลี่ยนสิ่งที่คุณเห็นเป็นหน้าแรกของคุณ คุณสามารถเรียกคืนการตั้งค่าของคุณหากคุณไม่ต้องการการเปลี่ยนแปลงนี้">
+
 <!ENTITY homepageControlled.header.message "หน้าแรกของคุณมีการเปลี่ยนแปลง">
 <!ENTITY homepageControlled.keepButton.label "เก็บการเปลี่ยนแปลง">
 <!ENTITY homepageControlled.keepButton.accesskey "ก">
