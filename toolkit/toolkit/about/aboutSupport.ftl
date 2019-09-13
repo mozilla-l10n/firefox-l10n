@@ -36,8 +36,8 @@ app-basics-update-channel = Canal d'actualitzacions
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] Directori d'actualització
-       *[other] Carpeta d'actualització
+        [linux] Directori d'actualitzacions
+       *[other] Carpeta d'actualitzacions
     }
 app-basics-update-history = Historial d'actualitzacions
 app-basics-show-update-history = Mostra l'historial d'actualitzacions
@@ -51,7 +51,7 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = Connectors habilitats
 app-basics-build-config = Configuració de la versió
 app-basics-user-agent = Agent d'usuari
-app-basics-os = SO
+app-basics-os = Sistema operatiu
 app-basics-memory-use = Utilització de la memòria
 app-basics-performance = Rendiment
 app-basics-service-workers = Processos de treball de servei registrats
@@ -115,6 +115,9 @@ restart-in-safe-mode-label = Reinicia amb els complements inhabilitats…
 ## Media titles
 
 audio-backend = Sistema de fons d'àudio
+max-audio-channels = Nombre màxim de canals
+channel-layout = Disposició de canals preferida
+sample-rate = Freqüència de mostratge preferida
 media-title = Multimèdia
 media-output-devices-title = Dispositius de sortida
 media-input-devices-title = Dispositius d'entrada
@@ -127,6 +130,7 @@ media-device-format = Format
 media-device-channels = Canals
 media-device-rate = Freqüència
 media-device-latency = Latència
+media-capabilities-title = Capacitats multimèdia
 
 
 
