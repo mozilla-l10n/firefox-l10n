@@ -14,7 +14,7 @@ graph-week-summary =
 # earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
-       *[other] 自 { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } 起，已拦截 <b>{ $count }</b> 个跟踪器
+       *[other] 自{ DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }起，已拦截 <b>{ $count }</b> 个跟踪器
     }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
