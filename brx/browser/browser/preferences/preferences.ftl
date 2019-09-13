@@ -196,10 +196,15 @@ home-new-windows-tabs-header = गोदान उइन्ड'स आरो ट
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = ह'मबिलाइ आरो गोदान उइन्ड'स
 home-newtabs-mode-label = गोदान टेबफोर
 home-restore-defaults =
     .label = डिफल्टखौ मोनफिन
     .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Firefox ह'म (डिफल्ट)
 home-mode-choice-custom =
     .label = कास्टम URLs...
 # This string has a special case for '1' and [other] (default). If necessary for
@@ -236,12 +241,15 @@ home-prefs-highlights-options-bookmarks =
     .label = बुकमाकॅफोर
 home-prefs-highlights-option-most-recent-download =
     .label = दानिवौसो डाउनल'ड खालामनाया
+home-prefs-highlights-option-saved-to-pocket =
+    .label = बिलाइफोरखौ  { -pocket-brand-name } आव थिना दोनबाय
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = स्निपेटफोर
+home-prefs-snippets-description = { -vendor-short-name } आरो { -brand-product-name } निफ्राय आपडेटफोर
 home-prefs-sections-rows-option =
     .label =
         { $num ->
