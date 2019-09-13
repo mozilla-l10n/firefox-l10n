@@ -84,6 +84,24 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Novetats
 cfr-whatsnew-release-notes-link-text = Llegiu les notes de la versió
 cfr-whatsnew-fx70-title = Ara el { -brand-short-name } lluita encara més per la vostra privadesa
+cfr-whatsnew-fx70-body = La darrera actualització millora la funció de protecció contra el seguiment i permet crear contrasenyes segures per a cada lloc molt fàcilment.
+cfr-whatsnew-tracking-protect-title = Protegiu-vos dels elements de seguiment
+cfr-whatsnew-tracking-protect-body = El { -brand-short-name } bloca els elements de seguiment de xarxes socials i entre llocs més habituals que recopilen dades sobre allò que feu a Internet.
+cfr-whatsnew-tracking-protect-link-text = Vegeu el vostre informe
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Element de seguiment blocat
+       *[other] Elements de seguiment blocats
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Des de: { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Vegeu l'informe
+cfr-whatsnew-lockwise-backup-title = Feu una còpia de seguretat de les vostres contrasenyes
+cfr-whatsnew-lockwise-backup-body = Ara podeu generar contrasenyes segures i accedir-hi des de tot arreu on inicieu la sessió.
+cfr-whatsnew-lockwise-backup-link-text = Activeu la còpia de seguretat
+cfr-whatsnew-lockwise-take-title = Les vostres contrasenyes, a tot arreu
 
 ## Bookmark Sync
 
