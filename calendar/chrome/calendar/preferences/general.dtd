@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Setări generale" >
+
 <!ENTITY pref.dateformat.label "Formatul datei:" >
 <!ENTITY pref.dateformat.accesskey "d">
 <!ENTITY pref.dateformat.long "Lung" >
@@ -22,10 +23,13 @@
 <!ENTITY pref.tasks.label "Sarcini">
 
 <!ENTITY pref.default_event_length.label "Lungime implicită:" >
-<!ENTITY pref.default_event_length.accesskey "e">
+<!ENTITY pref.default_event_length.accesskey "E">
+
+<!ENTITY pref.default_event_task_length.label "Durata implicită a unui eveniment și sarcini">
+<!ENTITY pref.default_event_task_length.accesskey "E">
 
 <!ENTITY pref.default_task_none.label "Niciuna">
-<!ENTITY pref.default_task_start_of_day.label "Ziua de început">
+<!ENTITY pref.default_task_start_of_day.label "Începutul zilei">
 <!ENTITY pref.default_task_end_of_day.label "Ziua de finalizat">
 <!ENTITY pref.default_task_tomorrow.label "Mâine">
 <!ENTITY pref.default_task_next_week.label "Săptămâna viitoare">
@@ -43,7 +47,7 @@
 <!ENTITY pref.soondays2.accesskey "u">
 
 <!ENTITY pref.accessibility.label "Accesibilitate" >
-<!ENTITY pref.systemcolors.label "Optimizare culori pentru accesibilitate" >
+<!ENTITY pref.systemcolors.label "Optimizează culorile pentru accesibilitate" >
 <!ENTITY pref.systemcolors.accesskey "O">
 
 <!ENTITY pref.eventsandtasks.label "Evenimente și sarcini" >

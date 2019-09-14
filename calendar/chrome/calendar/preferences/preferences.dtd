@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  paneGeneral.title       "General">
-<!ENTITY  paneAlarms.title        "Alarme">
+<!ENTITY  paneAlarms.title        "Mementouri">
 <!ENTITY  paneCategories.title    "Categorii">
 <!ENTITY  paneViews.title         "Vizualizări">
+<!ENTITY  panelReminder.title     "Mementouri">
