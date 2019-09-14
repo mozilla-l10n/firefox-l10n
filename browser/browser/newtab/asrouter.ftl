@@ -91,7 +91,7 @@ cfr-whatsnew-tracking-protect-link-text = 檢視您的追蹤報告
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-tracking-blocked-title =
     { $blockedCount ->
-       *[other] 個被封鎖的追蹤器
+       *[other] 追蹤器封鎖數量
     }
 cfr-whatsnew-tracking-blocked-subtitle = 自 { DATETIME($earliestDate, month: "long", year: "numeric") } 起
 cfr-whatsnew-tracking-blocked-link-text = 檢視報告

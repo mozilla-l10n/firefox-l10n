@@ -12,14 +12,6 @@ graph-week-summary =
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
 # earliest date recorded in the database.
-graph-total-summary =
-    { $count ->
-       *[other] 自 { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }起，封鎖了 { $count } 組追蹤器
-    }
-# Variables:
-#   $count (Number) - Number of tracking events blocked.
-#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
-# earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
        *[other] 自 { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }起，封鎖了 <b>{ $count }</b> 組追蹤器
@@ -44,7 +36,6 @@ social-tab-contant = 社群網站會在其他網站放置追蹤器，以追蹤�
 cookie-tab-title = 跨網站追蹤 Cookie
 cookie-tab-content = 一些第三方廣告商或分析公司，會設定這些 Cookie 在不同網站間跟蹤您，收集您的上網紀錄。封鎖這些跨網站 Cookie 可減少在網路上跟蹤您的廣告。<a data-l10n-name="learn-more-link">了解更多</a>
 tracker-tab-title = 追蹤用內容
-tracker-tab-content = 網站中可能會有含有追蹤用程式碼的外部廣告、影片、其他內容。封鎖追蹤內容可以讓網站更快載入，但某些按鈕、表單、登入欄位可能無法正常運作。<a data-l10n-name="learn-more-link">了解更多</a>
 tracker-tab-description = 網站中可能會有包含追蹤碼的外部廣告、影片或其他內容。封鎖追蹤內容可以讓網站更快載入，但某些按鈕、表單、登入欄位可能無法正常運作。<a data-l10n-name="learn-more-link">了解更多</a>
 fingerprinter-tab-title = 數位指紋追蹤程式
 fingerprinter-tab-content = 數位指紋追蹤程式會針對您的瀏覽器、電腦設定來建立您的獨特輪廓，並在不同網站間追蹤您。<a data-l10n-name="learn-more-link">了解更多</a>
@@ -54,7 +45,6 @@ lockwise-title = 不再忘記密碼
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } 會安全地在您的瀏覽器中儲存密碼。
 lockwise-header-content-logged-in = 安全地儲存密碼，並同步到您的所有裝置中。
-open-about-logins-button = 用 { -brand-short-name } 開啟
 about-logins-view-logins-button = 檢視登入資訊
 lockwise-no-logins-content = 下載 <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> App，把密碼隨身帶著走。
 # This string is displayed after a large numeral that indicates the total number
@@ -73,12 +63,9 @@ lockwise-sync-status =
     { $count ->
        *[other] 與另 { $count } 部裝置同步
     }
-lockwise-sync-not-syncing = 未與其他裝置同步。
 lockwise-sync-not-syncing-devices = 未與其他裝置同步
 monitor-title = 檢查是否發生資料外洩事件
 monitor-link = 原理是什麼
-monitor-header-content = 使用 { -monitor-brand-name } 檢查您是否處於資料外洩事件之中，並在有新事件發生時收到通知。
-monitor-header-content-logged-in = 若您的資訊出現在已知的資料外洩事件中，{ -monitor-brand-name } 將警告您
 monitor-header-content-no-account = 使用 { -monitor-brand-name } 檢查您是否處於已知的資料外洩事件之中，並在有新事件發生時收到通知。
 monitor-header-content-signed-in = 若您的資訊出現在已知的資料外洩事件中，{ -monitor-brand-name } 將警告您。
 monitor-sign-up = 訂閱資料外洩警報
@@ -86,44 +73,23 @@ auto-scan = 今天自動掃描過
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
-info-monitored-addresses =
-    { $count ->
-       *[other] 組信箱監控中。
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of known data breaches. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-known-breaches =
-    { $count ->
-       *[other] 場資料外洩事件，流出了您的個資。
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of exposed passwords. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-exposed-passwords =
-    { $count ->
-       *[other] 組密碼在資料外洩事件中流出。
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
 info-monitored-emails =
     { $count ->
-       *[other] 監控中的電子郵件信箱地址
+       *[other] 組監控中的電子郵件信箱地址
     }
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-       *[other] 場資料外洩事件，流出了您的個資。
+       *[other] 場資料外洩事件，流出了您的個資
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
     { $count ->
-       *[other] 在所有事件中洩漏出的密碼
+       *[other] 所有事件中洩漏出的密碼組數
     }
 full-report-link = 到 <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> 看完整報告
 # This string is displayed after a large numeral that indicates the total number
