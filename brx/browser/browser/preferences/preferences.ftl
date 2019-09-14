@@ -432,6 +432,9 @@ enhanced-tracking-protection-setting-custom =
 
 
 
+content-blocking-tracking-protection-option-all-windows =
+    .label = गासै उइन्ड'स आव
+    .accesskey = A
 content-blocking-cookies-label =
     .label = कुकिफोर
     .accesskey = C
