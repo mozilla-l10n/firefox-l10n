@@ -286,6 +286,10 @@ update-pref-write-failure-title = Errur cun memorisar
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Errur durant memorisar la preferenza. Impussibel da scriver en la datoteca: { $path }
 update-setting-write-failure-title = Errur cun memorisar preferenzas per actualisaziuns
+update-in-progress-ok-button = &Annullar
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Cuntinuar
 
 ## General Section - Performance
 
@@ -325,6 +329,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Retschertgar il text cura che ti cumenzas a tippar
     .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = Activar las controllas per maletg-en-maletg
+    .accesskey = A
+browsing-picture-in-picture-learn-more = Ulteriuras infurmaziuns
 browsing-cfr-recommendations =
     .label = Recumandar extensiuns durant la navigaziun
     .accesskey = R
