@@ -15,6 +15,8 @@ certificate-viewer-algorithm = Algoritm
 certificate-viewer-certificate-authority = Certifikatutfärdare
 certificate-viewer-cipher-suite = Chiffersvit
 certificate-viewer-common-name = Vanligt namn
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-country = Företagets hemland
 certificate-viewer-country = Land
 certificate-viewer-curve = Kurva
 certificate-viewer-distribution-point = Distributionspunkt
@@ -38,7 +40,11 @@ certificate-viewer-policy = Policy
 certificate-viewer-protocol = Protokoll
 certificate-viewer-public-value = Offentligt värde
 certificate-viewer-purposes = Ändamål
+certificate-viewer-qualifier = Qualifier
+certificate-viewer-qualifiers = Qualifiers
 certificate-viewer-required = Krävs
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-state-province = Företagets hemstat/provins
 certificate-viewer-state-province = Stat/provins
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
