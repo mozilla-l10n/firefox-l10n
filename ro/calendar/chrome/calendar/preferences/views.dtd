@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "General">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Vizualizarea zi și săptămână">
 <!ENTITY pref.calendar.view.multiweekview.caption "Vizualizarea mai multor săptămâni">
 <!ENTITY pref.calendar.view.workweek.caption "Săptămână de lucru">
@@ -18,13 +19,15 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "n">
 <!ENTITY pref.daysoff.label "Săptămâna de lucru este formată din zilele:">
 
+<!ENTITY pref.workweekDays.label "Zilele săptămânii lucrătoare:">
+
 <!ENTITY pref.calendar.view.daystart.label "Ziua începe la:">
 <!ENTITY pref.calendar.view.daystart.accesskey "Z">
 <!ENTITY pref.calendar.view.dayend.label "Ziua se termină la:">
 <!ENTITY pref.calendar.view.dayend.accesskey "s">
 <!ENTITY pref.calendar.view.visiblehours.label "Afișează:">
 <!ENTITY pref.calendar.view.visiblehours.accesskey "A">
-<!ENTITY pref.calendar.view.visiblehoursend.label "ore deodată">
+<!ENTITY pref.calendar.view.visiblehoursend.label "ore odată">
 
 <!ENTITY pref.numberofweeks.label "Număr de săptămâni de afișat (inclusiv săptămâni anterioare):">
 <!ENTITY pref.numberofweeks.accesskey "e">
