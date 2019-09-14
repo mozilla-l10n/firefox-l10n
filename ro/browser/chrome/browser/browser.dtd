@@ -76,12 +76,19 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Bară de meniu">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Bară de navigare">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbarCmd.label "Bară de marcaje">
 <!ENTITY personalbarCmd.accesskey "B">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY bookmarksToolbarItem.label "Elemente pe bara de marcaje">
 
 <!ENTITY pageSourceCmd.label "Sursa paginii">
 <!ENTITY pageSourceCmd.accesskey "o">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +99,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Informații privind pagina">
 <!ENTITY pageInfoCmd.accesskey "I">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Depanator de așezare în pagină">
 <!ENTITY ldbCmd.accesskey "L">
@@ -117,6 +125,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Verifică-ți contul">
 
 
+ <!-- } is above this key on many keyboards -->
+
 <!ENTITY fullScreenMinimize.tooltip "Minimizează">
 <!ENTITY fullScreenRestore.tooltip "Restaurează">
 <!ENTITY fullScreenClose.tooltip "Închide">
@@ -137,6 +147,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Va trebui să îți verifici contul înainte de a putea sincroniza.">
 <!ENTITY fxa.unverified.button.label "Deschide setările pentru &syncBrand.shortName.label;…">
 
+<!ENTITY pictureInPictureHideToggle.label "Ascunde comutatorul Picture-in-Picture">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -144,6 +155,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Autentificat ca">
 <!ENTITY fxa.menu.manageAccount.label "Gestionează contul…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "Setări pentru &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectează alt dispozitiv…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -194,6 +209,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Marcaje">
 <!ENTITY bookmarksMenu.accesskey "B">
+
 <!ENTITY bookmarkThisPageCmd.label "Marchează pagina">
 <!ENTITY editThisBookmarkCmd.label "Editează acest marcaj">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -508,6 +524,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Subiect de căutare">
+
 <!ENTITY contentSearchSubmit.tooltip  "Trimite căutarea">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -970,6 +987,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookie-uri">
 <!ENTITY contentBlocking.cookiesView.label "Cookie-uri și date ale site-urilor">
 
+
 <!ENTITY contentBlocking.socialblock.label "Elemente de urmărire ale rețelelor sociale">
 
 <!ENTITY contentBlocking.cookies2.label "Cookie-uri de urmărire între site-uri">
@@ -984,6 +1002,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Raportează probleme">
 <!ENTITY contentBlocking.breakageReportView2.description "Blocarea de conținut poate produce probleme pe unele site-uri web. Prin raportarea problemelor vei ajuta la îmbunătățirea &brandShortName; pentru toți. (Va trimite la Mozilla un URL și informații despre setările browserului.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Află mai multe">
+
 <!ENTITY contentBlocking.breakageReportView.title "Raportează un site nefuncțional">
 <!ENTITY contentBlocking.breakageReportView3.description "Blocarea anumitor elemente de urmărire poate produce probleme pe unele site-uri web. Raportarea acestor problemele ajută la îmbunătățirea &brandShortName; pentru toți. Trimițând la Mozilla acest raport vei trimite un URL și informații despre setările browserului.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Află mai multe">
@@ -1039,6 +1058,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "O extensie a schimbat ce vezi ca pagină de start. Poți restaura setările dacă nu vrei această modificare.">
+
 <!ENTITY homepageControlled.header.message "Pagina ta de start s-a schimbat.">
 <!ENTITY homepageControlled.keepButton.label "Păstrează modificările">
 <!ENTITY homepageControlled.keepButton.accesskey "K">

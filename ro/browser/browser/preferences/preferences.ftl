@@ -342,6 +342,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Caută textul când încep să tastez
     .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = Activează comenzile video picture-in-picture
+    .accesskey = E
 browsing-picture-in-picture-learn-more = Află mai multe
 browsing-cfr-recommendations =
     .label = Recomandă extensii pe măsură ce navighezi
@@ -691,7 +694,7 @@ sitedata-option-block-trackers =
 sitedata-option-block-cross-site-trackers =
     .label = Elemente de urmărire între site-uri
 sitedata-option-block-cross-site-and-social-media-trackers =
-    .label = Elemente de urmărire ale rețelelor sociale și cel între site-uri
+    .label = Elemente de urmărire ale rețelelor sociale și între site-uri
 sitedata-option-block-unvisited =
     .label = Cookie-uri de pe site-uri web nevizitate
 sitedata-option-block-all-third-party =
@@ -746,6 +749,13 @@ content-blocking-strict-description = Protecție mai puternică, poate împiedic
 content-blocking-custom-desc = Alege ce să blochezi.
 content-blocking-private-trackers = Elemente de urmărire cunoscute numai în ferestre private
 content-blocking-third-party-cookies = Cookie-uri de urmărire de la terți
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+
+
 content-blocking-etp-standard-desc = Echilibrat pentru protecție și performanță. Paginile se vor încărca normal.
 content-blocking-etp-strict-desc = O protecție mai puternică, dar poate provoca funcționarea necorespunzătoare a site-urilor sau a conținutului.
 content-blocking-etp-custom-desc = Alege ce elemente de urmărire și scripturi să blochezi.
