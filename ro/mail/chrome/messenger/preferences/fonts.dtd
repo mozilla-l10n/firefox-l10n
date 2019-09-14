@@ -62,7 +62,7 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Fără serife">
 
 <!-- fonts in message -->
-<!ENTITY  fontControl.label                       "Control fonturi">
+<!ENTITY  fontControl.label                       "Controlarea fonturilor">
 <!ENTITY  useFixedWidthForPlainText.label         "Folosește font de lățime fixă pentru mesajele în text simplu">
 <!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Permite mesajelor să folosească alte fonturi">
