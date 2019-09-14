@@ -26,6 +26,9 @@
 
 
 
+<!ENTITY saveFileCmd.label            "Kola">
+<!ENTITY saveFileCmd.accesskey        "S">
+<!ENTITY saveFileCmd.commandkey       "s">
 
 
 <!ENTITY closeCmd.label               "Jupa">
@@ -66,6 +69,10 @@
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
+<!ENTITY helpMenu.label               "Lochb'al">
+<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenuWin.label            "Lochb'al">
+<!ENTITY helpMenuWin.accesskey        "H">
 
 
 

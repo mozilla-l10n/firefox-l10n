@@ -9,6 +9,8 @@ menu-copy =
     .accesskey = C
 general-meta-name =
     .label = B'ii
+help-button =
+    .label = Lochb'al
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo

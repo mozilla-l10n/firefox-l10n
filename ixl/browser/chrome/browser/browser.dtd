@@ -39,6 +39,13 @@ when there are no windows but Firefox is still running. -->
 
 
 
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+
 
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -46,11 +53,14 @@ Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
+
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 
+
+ <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenClose.tooltip "Jupa">
 
@@ -65,6 +75,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.manageAccount.label "La eel isuuchil u atinb'ale'…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -101,6 +115,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
+
 <!ENTITY searchItem.title             "Chuka">
 
 <!-- Toolbar items -->
@@ -112,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  shortcut keys on Linux. -->
 
 
+<!ENTITY toolsMenu.label              "Aq'onb'al">
+<!ENTITY toolsMenu.accesskey          "T">
 
 
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
@@ -143,6 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY appMenuHelp.label "Lochb'al">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -202,6 +221,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
+
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
@@ -297,7 +317,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "E">
 
 
+<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Chuk unpajte">
+<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
 
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
@@ -308,9 +334,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
 
-
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
 
 
 
@@ -323,7 +346,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
 
 
 <!-- LOCALIZATION NOTE:
@@ -373,6 +395,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Ya'sakan">
 
@@ -394,6 +418,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Jupa">
+
 
 
 

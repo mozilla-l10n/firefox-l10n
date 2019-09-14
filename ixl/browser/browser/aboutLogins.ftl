@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Unka'te
        *[other] Uve' ni chit asa'
     }
-menu-menuitem-feedback = La aaq'b'en ayol
-menu-menuitem-faq = Unq'a vee' pal chit ich'otile'
+about-logins-menu-menuitem-help = Lochb'al
 menu-menuitem-android-app = { -lockwise-brand-short-name } tetz Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } tetz iPhone as iPad
 
@@ -67,7 +66,6 @@ login-intro-heading = Nachuk unq'a kach'ub'al texhlale' uve' kolel kan? B'antuch
 login-intro-description = Kat ikol unq'a xe'tisab' aq'one' tu { -brand-product-name } tu uma't ch'ich kat ab'anb'e, a' unq'a vi'la la b'ane' aq'al uva' at tzitza' la ib'an unpajte:
 login-intro-instruction-fxa = Axh la b'anon moj la uch axe't tzitza' { -fxaccount-brand-name } tu vach'ich'e' uve' kolel kat kan ixe't aq'on s-a'n
 login-intro-instruction-fxa-settings = Il chit ti jikil ti' atxaat kan unq'a texhlale' tu vee' uve' ni b'anax kat tuche' { -sync-brand-short-name }
-login-intro-instruction-faq = Saji unq'a vi'la' { -lockwise-brand-short-name } <a data-l10n-name="faq"> unq'a ch'ot tzi' uva' pal chit ib'anche' </a> aq'al uva' la lochpu axh
 
 ## Login
 
@@ -78,8 +76,6 @@ login-item-origin-label = Tatinb'al web
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Ib'ii u etzit tetze'
-login-item-username =
-    .placeholder = name@example.com
 login-item-copy-username-button-text = Eesa ivatz
 login-item-copied-username-button-text = Eesamal ve't ivatz
 login-item-password-label = Texhlal kach'ub' tetz uva' axh kuxh ootzin tetz
@@ -133,3 +129,6 @@ breach-alert-text = Jank'al chit unq'a texhlal kach'up tetze' kat elq'al tzitza'
 breach-alert-link = Tzitza' la ootzi kat unka't txumb'al ti va'lexhe' kat b'anchi.
 breach-alert-dismiss =
     .title = Jup u va'le'xhe' uve' ni k'uch tib' savatz
+
+## Error Messages
+
