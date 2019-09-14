@@ -28,7 +28,7 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Kailangan ng maayos na email
 onboarding-join-form-legal = Kapag nagpatuloy, ikaw ay sumasang-ayon sa <a data-l10n-name="terms">Terms of Service</a> at <a data-l10n-name="privacy">Privacy Notice</a>.
 onboarding-join-form-continue = Magpatuloy
-onboarding-start-browsing-button-label = Mag-simulang mag-browse
+onboarding-start-browsing-button-label = Magsimulang Mag-browse
 onboarding-cards-dismiss =
     .title = Paalisin
     .aria-label = Paalisin
@@ -38,7 +38,7 @@ onboarding-cards-dismiss =
 onboarding-sync-welcome-header = Isama ang { -brand-product-name } saan man
 onboarding-sync-welcome-content = Kunin ang mga bookmark, kasaysayan, mga password at iba pang mga setting sa lahat ng iyong mga device.
 onboarding-sync-welcome-learn-more-link = Alamin ang tungkol sa Firefox Accounts
-onboarding-sync-form-invalid-input = Balidong email ang kinakailangan
+onboarding-sync-form-invalid-input = Wastong email ang kailangan
 onboarding-sync-legal-notice = Kung magpapatuloy, ikaw ay pumapayag sa mga <a data-l10n-name="terms">Mga Tuntunin sa Serbisyo</a> at <a data-l10n-name="privacy">Abisong Pangbribasiya</a>.
 onboarding-sync-form-input =
     .placeholder = Email

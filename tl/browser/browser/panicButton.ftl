@@ -11,13 +11,13 @@ panic-button-forget-button =
 ## panic-main-timeframe-desc. For example: "Forget the last: Five minutes".
 ## Please ensure that this remains the case in the translation.
 
-panic-main-timeframe-desc = Kalimutan ang huli:
+panic-main-timeframe-desc = Kalimutan ang huling:
 panic-button-5min =
     .label = Limang minuto
 panic-button-2hr =
     .label = Dalawang oras
 panic-button-day =
-    .label = 24 na oras
+    .label = 24 oras
 
 ## These strings are combined to form a complete sentence starting with
 ## panic-button-action-desc. For example: "Proceeding will: Delete Recent Cookies".
