@@ -13,6 +13,7 @@
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "tu@exemplu.com">
 <!ENTITY email.text                      "Adresa ta de e-mail">
+<!ENTITY email.error                     "Adresă de e-mail nevalidă">
 <!ENTITY password.label                  "Parola:">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Parolă">
