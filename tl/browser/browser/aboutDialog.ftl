@@ -4,7 +4,7 @@
 
 aboutDialog-title =
     .title = Tungkol sa { -brand-full-name }
-releaseNotes-link = Ano ang bago?
+releaseNotes-link = Ano ang bago
 update-checkForUpdatesButton =
     .label = Magsiyasat ng mga pagbabago
     .accesskey = C

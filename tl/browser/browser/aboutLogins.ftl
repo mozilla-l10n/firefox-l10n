@@ -79,8 +79,6 @@ login-item-origin-label = Website Address
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Username
-login-item-username =
-    .placeholder = name@example.com
 about-logins-login-item-username =
     .placeholder = (walang username)
 login-item-copy-username-button-text = Kopyahin
@@ -95,9 +93,9 @@ login-item-copied-password-button-text = Nakopya na!
 login-item-save-changes-button = I-Save ang mga Pagbabago
 login-item-save-new-button = I-Save
 login-item-cancel-button = Ikansela
-login-item-time-changed = Last modified: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-changed = Huling binago: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Ginawa: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Last used: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Huling ginamit: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
