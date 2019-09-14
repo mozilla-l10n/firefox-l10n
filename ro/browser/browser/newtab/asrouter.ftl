@@ -84,7 +84,7 @@ cfr-whatsnew-button =
     .label = Ce este nou
     .tooltiptext = Ce este nou
 cfr-whatsnew-panel-header = Ce este nou
-cfr-whatsnew-release-notes-link-text = Citește notele de lansare
+cfr-whatsnew-release-notes-link-text = Citește notele privind versiunea
 cfr-whatsnew-fx70-title = { -brand-short-name } acum luptă și mai mult pentru intimitatea ta
 cfr-whatsnew-fx70-body = Ultima actualizare sporește funcția de Protecție împotriva urmării și face mai ușoară ca niciodată crearea de parole securizate pentru fiecare site.
 cfr-whatsnew-tracking-protect-title = Protejează-te împotriva elementelor de urmărire
@@ -99,7 +99,7 @@ cfr-whatsnew-tracking-blocked-title =
         [few] elemente de urmărire blocate
        *[other] de elemente de urmărire blocate
     }
-cfr-whatsnew-tracking-blocked-subtitle = De la { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-subtitle = Din { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Vezi raportul
 cfr-whatsnew-lockwise-backup-title = Creează o copie de siguranță cu parolele
 cfr-whatsnew-lockwise-backup-body = Acum generează parole securizate pe care le poți accesa de oriunde te conectezi.
