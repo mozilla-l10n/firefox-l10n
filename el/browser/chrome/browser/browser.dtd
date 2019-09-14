@@ -84,6 +84,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Σελιδοδείκτες">
 <!ENTITY bookmarksToolbarItem.label "Στοιχεία γραμμής σελιδοδεικτών">
 
 <!ENTITY pageSourceCmd.label "Κώδικας σελίδας">
