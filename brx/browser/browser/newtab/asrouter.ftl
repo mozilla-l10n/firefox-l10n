@@ -65,6 +65,14 @@ cfr-whatsnew-button =
     .tooltiptext = मा गोदान
 cfr-whatsnew-panel-header = मा गोदान
 cfr-whatsnew-tracking-protect-link-text = नोंथांनि रिपर्ट खौ नाय
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] ट्रेकार खौ ब्लोक खालामबाय
+       *[other] ट्रेकार फोरखौ ब्लोक खालामबाय
+    }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } निफ्रायनो
 cfr-whatsnew-tracking-blocked-link-text = रिपर्ट खौ नाय
 cfr-whatsnew-lockwise-backup-link-text = बेकआपफोरखौ अन खालाम
