@@ -729,8 +729,8 @@ addressbar-suggestions-settings = Zmień ustawienia podpowiedzi dostarczanych pr
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokowanie treści
-content-blocking-enhanced-tracking-protection = Wzmocniona ochrona przed śledzeniem
 content-blocking-section-description = Chroń swoją prywatność podczas przeglądania. Blokuj niewidoczne elementy, które śledzą odwiedzane witryny i Cię profilują. Zablokowanie niektórych treści może przyspieszyć wczytywanie stron.
+content-blocking-enhanced-tracking-protection = Wzmocniona ochrona przed śledzeniem
 content-blocking-section-top-level-description = Elementy śledzące monitorują Cię w Internecie, zbierając informacje o Twoich działaniach i zainteresowaniach. { -brand-short-name } blokuje wiele tych elementów i inne złośliwe skrypty.
 content-blocking-learn-more = Więcej informacji
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -749,6 +749,23 @@ content-blocking-strict-description = Silniejsza ochrona, ale może powodować p
 content-blocking-custom-desc = Wybierz, co blokować:
 content-blocking-private-trackers = znane elementy śledzące w oknach prywatnych
 content-blocking-third-party-cookies = ciasteczka zewnętrznych witryn używane do śledzenia
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standardowa
+    .accesskey = S
+enhanced-tracking-protection-setting-strict =
+    .label = Ścisła
+    .accesskey = c
+enhanced-tracking-protection-setting-custom =
+    .label = Własna
+    .accesskey = W
+
+
+
 content-blocking-etp-standard-desc = Równowaga między bezpieczeństwem a szybkością wczytywania stron. Strony będą działać bez problemów.
 content-blocking-etp-strict-desc = Silniejsza ochrona, ale może powodować niepoprawne działanie niektórych stron.
 content-blocking-etp-custom-desc = Wybierz, które elementy śledzące i skrypty blokować:

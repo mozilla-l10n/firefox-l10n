@@ -144,3 +144,16 @@ cfr-doorhanger-firefox-send-header = Bezpiecznie udostępnij ten plik PDF
 cfr-doorhanger-firefox-send-body = Chroń swoje poufne dokumenty przed wścibskimi oczami dzięki szyfrowaniu typu „end-to-end” i odnośnikowi, który znika po użyciu.
 cfr-doorhanger-firefox-send-ok-button = Wypróbuj { -send-brand-name }
     .accesskey = W
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Wyświetl ochronę
+    .accesskey = o
+cfr-doorhanger-socialtracking-close-button = Zamknij
+    .accesskey = Z
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } powstrzymał serwis społecznościowy przed śledzeniem Cię na tej witrynie
+cfr-doorhanger-socialtracking-description = Twoja prywatność jest ważna. { -brand-short-name } blokuje teraz najczęściej występujące elementy śledzące serwisów społecznościowych, ograniczając ilość danych, które mogą zebrać na temat Twoich działań w Internecie.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } zablokował na tej witrynie element śledzący przez zbieranie informacji o konfiguracji
+cfr-doorhanger-fingerprinters-description = Twoja prywatność jest ważna. { -brand-short-name } blokuje teraz elementy zbierające jednoznacznie identyfikowalne informacje o używanym urządzeniu, aby Cię śledzić.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } zablokował na tej witrynie element używający komputera użytkownika do generowania kryptowalut
+cfr-doorhanger-cryptominers-description = Twoja prywatność jest ważna. { -brand-short-name } blokuje teraz elementy wykorzystujące moc obliczeniową Twojego komputera do generowania cyfrowych walut.
