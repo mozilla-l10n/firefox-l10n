@@ -88,7 +88,7 @@ cfr-whatsnew-release-notes-link-text = Citește notele de lansare
 cfr-whatsnew-fx70-title = { -brand-short-name } acum luptă și mai mult pentru intimitatea ta
 cfr-whatsnew-fx70-body = Ultima actualizare sporește funcția de Protecție împotriva urmării și face mai ușoară ca niciodată crearea de parole securizate pentru fiecare site.
 cfr-whatsnew-tracking-protect-title = Protejează-te împotriva elementelor de urmărire
-cfr-whatsnew-tracking-protect-body = { -brand-short-name } blochează multe elemente frecvente de urmărire pe site-urile de socializare și de urmărire încrucișată care îți urmăresc acțiunile online.
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } blochează multe elemente frecvente de urmărire ale rețelelor socializare și între site-uri care îți urmăresc acțiunile online.
 cfr-whatsnew-tracking-protect-link-text = Vezi raportul
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
@@ -136,3 +136,10 @@ cfr-doorhanger-firefox-send-header = Partajează în siguranță acest PDF
 cfr-doorhanger-firefox-send-body = Păstrează-ți documentele sensibile în siguranță și protejate de ochii indiscreți cu o criptare end-to-end și un link ce dispare când ai terminat.
 cfr-doorhanger-firefox-send-ok-button = Încearcă { -send-brand-name }
     .accesskey = T
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Vezi protecțiile
+    .accesskey = P
+cfr-doorhanger-socialtracking-close-button = Închide
+    .accesskey = C
