@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Πλήρης οθόνη
     .accesskey = Π
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Προβολή όλων των καρτελών
@@ -190,7 +190,7 @@ menu-bookmarks-menu =
 menu-bookmarks-show-all =
     .label = Προβολή όλων των σελιδοδεικτών
 menu-bookmarks-all-tabs =
-    .label = Προσθήκη όλων των καρτελών στους σελιδοδείκτες…
+    .label = Αποθήκευση όλων των καρτελών…
 menu-bookmarks-toolbar =
     .label = Γραμμή σελιδοδεικτών
 menu-bookmarks-other =
