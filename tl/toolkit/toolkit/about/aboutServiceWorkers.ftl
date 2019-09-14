@@ -5,7 +5,7 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
-about-service-workers-title = Tungkol sa Serbisyong Manggagawa
+about-service-workers-title = Tungkol sa mga Service Worker
 about-service-workers-main-title = Nakarehistrong Serbisyong Manggagawa
 about-service-workers-warning-not-enabled = Serbisyong Manggagawa ay hindi pinagana.
 about-service-workers-warning-no-service-workers = Walang Serbisyong Manggagawa na naka-rehistro.

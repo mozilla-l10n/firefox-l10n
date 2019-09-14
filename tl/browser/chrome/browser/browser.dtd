@@ -598,7 +598,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageSourceCmd.accesskey  "T">
 <!ENTITY viewFrameSourceCmd.label     "Ipakita ang Source Code ng Frame">
 <!ENTITY viewFrameSourceCmd.accesskey "k">
-<!ENTITY viewPageInfoCmd.label        "Tingnan ang impormasyon tungkol sa web page">
+<!ENTITY viewPageInfoCmd.label        "Tingnan ang Impormasyon tungkol sa Pahina">
 <!ENTITY viewPageInfoCmd.accesskey    "i">
 <!ENTITY viewFrameInfoCmd.label       "Ipakita ang Impormasyon ng Frame">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
@@ -1048,7 +1048,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Ligtas na pag-browse!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Salamat!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Matuto nang higit pa tungkol sa DRM…">
+<!ENTITY emeLearnMoreContextMenu.label            "Alamin ang tungkol sa DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 <!ENTITY updateAvailable.panelUI.label "I-download ang &brandShorterName; na pagbabago">
