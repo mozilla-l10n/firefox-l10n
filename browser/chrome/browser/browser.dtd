@@ -76,12 +76,19 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Γραμμή μενού">
 <!ENTITY menubarCmd.accesskey "μ">
 <!ENTITY navbarCmd.label "Γραμμή πλοήγησης">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbarCmd.label "Γραμμή σελιδοδεικτών">
 <!ENTITY personalbarCmd.accesskey "γ">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY bookmarksToolbarItem.label "Στοιχεία γραμμής σελιδοδεικτών">
 
 <!ENTITY pageSourceCmd.label "Κώδικας σελίδας">
 <!ENTITY pageSourceCmd.accesskey "δ">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +99,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Πληροφορίες σελίδας">
 <!ENTITY pageInfoCmd.accesskey "λ">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Αποσφαλμάτωση διάταξης">
 <!ENTITY ldbCmd.accesskey "Δ">
@@ -116,6 +124,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Επανασύνδεση στο &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Επαλήθευση του λογαριασμού σας">
 
+
+ <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Ελαχιστοποίηση">
 <!ENTITY fullScreenRestore.tooltip "Επαναφορά">
@@ -143,6 +153,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Σε σύνδεση ως">
 <!ENTITY fxa.menu.manageAccount.label "Διαχείριση λογαριασμού…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "Ρυθμίσεις &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Σύνδεση άλλης συσκευής…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -192,11 +206,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Σελιδοδείκτες">
 <!ENTITY bookmarksMenu.accesskey "Σ">
+
 <!ENTITY bookmarkThisPageCmd.label "Προσθήκη στους σελιδοδείκτες">
 <!ENTITY editThisBookmarkCmd.label "Επεξεργασία σελιδοδείκτη">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY addCurPagesCmd.label "Προσθήκη όλων των καρτελών στους σελιδοδείκτες…">
+<!ENTITY addCurPagesCmd.label "Αποθήκευση όλων των καρτελών…">
 
 <!ENTITY showAllBookmarks2.label "Προβολή όλων των σελιδοδεικτών">
 <!ENTITY recentBookmarks.label "Πρόσφατοι σελιδοδείκτες">
@@ -506,6 +521,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Ερώτημα αναζήτησης">
+
 <!ENTITY contentSearchSubmit.tooltip  "Υποβολή αναζήτησης">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -947,6 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!ENTITY contentBlocking.cryptominers.label "Εξορύκτες κρυπτονομισμάτων">
 <!ENTITY contentBlocking.cryptominersView.label "Εξορύκτες κρυπτονομισμάτων">
 
@@ -957,6 +974,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Αναφορά προβλημάτων">
 <!ENTITY contentBlocking.breakageReportView2.description "Η Φραγή περιεχομένου μπορεί να προκαλέσει προβλήματα με ορισμένες ιστοσελίδες. Όταν αναφέρετε προβλήματα, θα βοηθήσετε στη βελτίωση του &brandShortName; για όλους. (Θα αποσταλεί ένα URL, καθώς και πληροφορίες για τις ρυθμίσεις του προγράμματος περιήγησής σας στη Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Μάθετε περισσότερα">
+
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Μάθετε περισσότερα">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Τι προβλήματα αντιμετωπίσατε; (Προαιρετικό)">
@@ -1010,6 +1028,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "Α">
 
 <!ENTITY homepageControlled.message "Μια επέκταση έχει αλλάξει αυτό που βλέπετε ως αρχική σελίδα. Μπορείτε να επαναφέρετε τις ρυθμίσεις σας αν δεν θέλετε αυτή την αλλαγή.">
+
 <!ENTITY homepageControlled.header.message "Η αρχική σας σελίδα έχει αλλάξει.">
 <!ENTITY homepageControlled.keepButton.label "Διατήρηση αλλαγών">
 <!ENTITY homepageControlled.keepButton.accesskey "Δ">
