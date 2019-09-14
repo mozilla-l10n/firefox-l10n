@@ -249,8 +249,15 @@
 <!ENTITY tableToolbarCmd.label "Tabella">
 <!ENTITY linkToolbarCmd.label "Ligamine">
 <!ENTITY anchorToolbarCmd.label "Ancora">
+<!ENTITY TextColorButton.tooltip "Selige color del texto">
+<!ENTITY BackgroundColorButton.tooltip "Selige color del fundo">
+<!ENTITY throbber.tooltip "Va al pagina principal de &vendorShortName;">
+<!ENTITY throbber.tooltip2 "Va al pagina principal de &brandShortName;">
+<!ENTITY HighlightColorButton.tooltip "Selige le color evidentiate del texto">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Defini le dimension del character">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Dimension del character minor">
 <!ENTITY boldToolbarCmd.tooltip "Hardite">
 <!ENTITY italicToolbarCmd.tooltip "Italico">
 <!ENTITY underlineToolbarCmd.tooltip "Sublinear">
