@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Pasek menu">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Pasek narzędzi nawigacyjnych">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Nawigacja">
 <!ENTITY personalbarCmd.label "Pasek zakładek">
 <!ENTITY personalbarCmd.accesskey "z">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Zakładki">
 <!ENTITY bookmarksToolbarItem.label "Elementy paska zakładek">
 
 <!ENTITY pageSourceCmd.label "Źródło strony">
 <!ENTITY pageSourceCmd.accesskey "d">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Informacje o stronie">
 <!ENTITY pageInfoCmd.accesskey "m">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Debuger układu">
 <!ENTITY ldbCmd.accesskey "r">
@@ -116,6 +126,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Zaloguj się ponownie, aby synchronizować">
 <!ENTITY fxaUnverified.label "Zweryfikuj konto">
 
+
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizuj">
 <!ENTITY fullScreenRestore.tooltip "Przywróć">
@@ -145,6 +158,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Zalogowano jako">
 <!ENTITY fxa.menu.manageAccount.label "Zarządzaj kontem…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "Ustawienia synchronizacji…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Połącz inne urządzenie…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -195,6 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Zakładki">
 <!ENTITY bookmarksMenu.accesskey "Z">
+
 <!ENTITY bookmarkThisPageCmd.label "Dodaj zakładkę">
 <!ENTITY editThisBookmarkCmd.label "Edytuj zakładkę">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -510,6 +528,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Pole wyszukiwania">
+
 <!ENTITY contentSearchSubmit.tooltip  "Szukaj">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -814,8 +833,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Połączenie">
 <!ENTITY identity.connectionSecure "Zabezpieczone połączenie">
-
-<!ENTITY identity.connectionSecure2 "Zabezpieczone połączenie">
 <!ENTITY identity.connectionNotSecure "Połączenie nie jest bezpieczne">
 
 <!ENTITY identity.connectionSecure3 "Zabezpieczone połączenie">
@@ -828,8 +845,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Ta strona została wczytana przez rozszerzenie.">
 <!ENTITY identity.insecureLoginForms2 "Dane logowania wprowadzone na tej stronie nie są chronione.">
 <!ENTITY identity.customRoot "Połączenie zweryfikowane przez wystawcę certyfikatu, który nie jest rozpoznawany przez Mozillę.">
-
-<!ENTITY identity.evOwnerLabel "Zarządzana przez:">
 
 <!ENTITY identity.evOwnerLabel2 "Certyfikat wystawiony dla:">
 
@@ -867,9 +882,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Uprawnienia">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Nadane uprawnienia">
-
 <!ENTITY identity.permissions3 "Uprawnienia">
 <!ENTITY identity.permissionsEmpty "Witryna korzysta z domyślnych uprawnień.">
 <!ENTITY identity.permissionsReloadHint "Ponowne wczytanie strony może być konieczne, aby wprowadzone zmiany przyniosły skutek.">
@@ -883,7 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Więcej informacji o wzmocnionej ochronie przed śledzeniem">
 <!ENTITY protections.settings.label "Ustawienia ochrony">
-<!ENTITY protections.report.label "Wyświetl pełny raport">
 <!ENTITY protections.showreport.label "Wyświetl raport">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -901,7 +912,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "płatnościami">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "komentarzami">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "filmami">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Strona nie działa nawet po wyłączeniu ochrony?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Wyślij zgłoszenie">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -929,7 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Te ciasteczka śledzą Cię od strony do strony w celu zbierania danych o tym, co robisz w Internecie. Są umieszczane przez zewnętrzne firmy, takie jak agencje reklamowe i firmy analityczne.">
 <!ENTITY protections.cryptominers.description "Te elementy wykorzystują moc obliczeniową Twojego komputera do generowania cyfrowych walut. Skrypty generujące kryptowaluty rozładowują baterię, spowalniają komputer i mogą zwiększyć rachunek za prąd.">
 <!ENTITY protections.fingerprinters.description "Te elementy zbierają ustawienia przeglądarki i komputera, aby utworzyć profil użytkownika. Za pomocą tego cyfrowego odcisku palca mogą śledzić Cię między różnymi witrynami.">
-<!ENTITY protections.trackingContent.description "Witryny mogą wczytywać zewnętrzne reklamy, filmy i inne treści zawierające elementy śledzące. Blokowanie ich może przyspieszyć wczytywanie stron, ale niektóre przyciski, formularze i pola logowania mogą działać niepoprawnie.">
 <!ENTITY protections.trackingContent2.description "Witryny mogą wczytywać zewnętrzne reklamy, filmy i inne treści z elementami śledzącymi. Blokowanie ich może przyspieszyć wczytywanie stron, ale niektóre przyciski, formularze i pola logowania mogą działać niepoprawnie.">
 <!ENTITY protections.socialMediaTrackers.description "Serwisy społecznościowe umieszczają elementy śledzące na innych witrynach, aby śledzić co robisz, widzisz i oglądasz w Internecie. Dzięki temu ich właściciele wiedzą o Tobie więcej, niż udostępniasz w ich serwisach.">
 
@@ -982,6 +991,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Ciasteczka">
 <!ENTITY contentBlocking.cookiesView.label "Ciasteczka i dane stron">
 
+<!ENTITY contentBlocking.manageSettings2.accesskey "Z">
+
 <!ENTITY contentBlocking.socialblock.label "Elementy śledzące serwisów społecznościowych">
 
 <!ENTITY contentBlocking.cookies2.label "Ciasteczka śledzące między witrynami">
@@ -996,6 +1007,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Zgłaszanie problemu">
 <!ENTITY contentBlocking.breakageReportView2.description "Blokowanie treści może powodować problemy z niektórymi stronami. Zgłaszając problemy, pomagasz ulepszać program &brandShortName; (adres odwiedzanej strony oraz informacje o ustawieniach przeglądarki zostaną przesłane do Mozilli).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Więcej informacji">
+
 <!ENTITY contentBlocking.breakageReportView.title "Zgłoś niepoprawnie działającą stronę">
 <!ENTITY contentBlocking.breakageReportView3.description "Blokowanie pewnych elementów śledzących może powodować problemy z niektórymi stronami. Zgłaszając problemy, pomagasz ulepszać program &brandShortName; (adres odwiedzanej strony oraz informacje o ustawieniach przeglądarki zostaną przesłane do Mozilli).">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Więcej informacji">
@@ -1051,6 +1063,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "W">
 
 <!ENTITY homepageControlled.message "Rozszerzenie zmieniło stronę startową, ale można przywrócić poprzednią.">
+
 <!ENTITY homepageControlled.header.message "Strona startowa została zmieniona.">
 <!ENTITY homepageControlled.keepButton.label "Używaj nowej">
 <!ENTITY homepageControlled.keepButton.accesskey "U">
