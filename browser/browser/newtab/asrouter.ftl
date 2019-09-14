@@ -93,8 +93,8 @@ cfr-whatsnew-tracking-protect-link-text = Raporunuzu görün
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-tracking-blocked-title =
     { $blockedCount ->
-        [one] takipçi engellendi
-       *[other] takipçi engellendi
+        [one] Engellediğimiz takipçi sayısı
+       *[other] Engellediğimiz takipçi sayısı
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } tarihinden beri
 cfr-whatsnew-tracking-blocked-link-text = Raporu görüntüle
@@ -102,7 +102,7 @@ cfr-whatsnew-lockwise-backup-title = Parolalarınızı yedekleyin
 cfr-whatsnew-lockwise-backup-body = Giriş yaptığınız her yerden ulaşabileceğiniz, güvenli parolalar oluşturun.
 cfr-whatsnew-lockwise-backup-link-text = Yedeklemeyi aç
 cfr-whatsnew-lockwise-take-title = Parolalarınızı yanınızda taşıyın
-cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } mobil uygulaması, yedeklediğiniz parolalara her yerden güvenli ulaşmanızı sağlar.
+cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } mobil uygulaması, yedeklediğiniz parolalara her yerden güvenle ulaşmanızı sağlar.
 cfr-whatsnew-lockwise-take-link-text = Uygulamayı indir
 
 ## Bookmark Sync
@@ -133,3 +133,12 @@ cfr-doorhanger-firefox-send-header = Bu PDF’i güvenle paylaşın
 cfr-doorhanger-firefox-send-body = Uçtan uca şifreleme ve işiniz bittiğinde kaybolan bir bağlantıyla hassas belgelerinizi meraklı gözlerden koruyun.
 cfr-doorhanger-firefox-send-ok-button = { -send-brand-name }’i deneyin
     .accesskey = d
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Korumalara bak
+    .accesskey = K
+cfr-doorhanger-socialtracking-close-button = Kapat
+    .accesskey = a
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } bir sosyal ağın sizi izlemesini engelledi
+cfr-doorhanger-socialtracking-description = Gizliliğiniz bizim için önemli. { -brand-short-name } artık yaygın sosya medya takipçilerini engelliyor, böylece internette yaptıklarınız hakkında daha az veri toplayabilmelerini sağlıyor.

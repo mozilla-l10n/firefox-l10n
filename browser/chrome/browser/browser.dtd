@@ -76,12 +76,20 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Menü çubuğu">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Gezinti araç çubuğu">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbarCmd.label "Yer imleri araç çubuğu">
 <!ENTITY personalbarCmd.accesskey "Y">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Yer imleri">
 <!ENTITY bookmarksToolbarItem.label "Yer imleri araç çubuğu öğeleri">
 
 <!ENTITY pageSourceCmd.label "Sayfa kaynağı">
 <!ENTITY pageSourceCmd.accesskey "a">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +100,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Sayfa bilgileri">
 <!ENTITY pageInfoCmd.accesskey "b">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Düzen hata ayıklayıcısı">
 <!ENTITY ldbCmd.accesskey "D">
@@ -116,6 +125,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label;’e yeniden bağlan">
 <!ENTITY fxaUnverified.label "Hesabınızı doğrulayın">
 
+
+ <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Küçült">
 <!ENTITY fullScreenRestore.tooltip "Geri getir">
@@ -145,6 +156,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Giriş yapan kullanıcı">
 <!ENTITY fxa.menu.manageAccount.label "Hesabı yönet…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; ayarları…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Başka bir cihaz bağla…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -195,6 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Yer imleri">
 <!ENTITY bookmarksMenu.accesskey "Y">
+
 <!ENTITY bookmarkThisPageCmd.label "Bu sayfayı yer imlerine ekle">
 <!ENTITY editThisBookmarkCmd.label "Bu yer imini düzenle">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -510,6 +526,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Arama sorgusu">
+
 <!ENTITY contentSearchSubmit.tooltip  "Aramayı gönder">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -972,6 +989,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Çerezler">
 <!ENTITY contentBlocking.cookiesView.label "Çerezler ve site verileri">
 
+
 <!ENTITY contentBlocking.socialblock.label "Sosyal medya takipçileri">
 
 <!ENTITY contentBlocking.cookies2.label "Siteler arası takip çerezleri">
@@ -986,6 +1004,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Sorun bildir">
 <!ENTITY contentBlocking.breakageReportView2.description "İçerik engelleme bazı web sitelerinde sorunlara yol açabilir. Bu sorunları bize bildirirseniz &brandShortName; tarayıcısını iyileştirme şansımız olur. (Sorunlu sayfanın adresi ve tarayıcı ayarlarınızla ilgili bilgiler Mozilla’ya gönderilecektir.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Daha fazla bilgi al">
+
 <!ENTITY contentBlocking.breakageReportView.title "Bozuk Bir Siteyi Bildirin">
 <!ENTITY contentBlocking.breakageReportView3.description "Bazı takipçileri engellemek bazı web sitelerinde sorunlara yol açabilir. Bu sorunları bize bildirirseniz &brandShortName; tarayıcısını iyileştirme şansımız olur. Bu rapor, sayfanın adresini ve tarayıcı ayarlarınızla ilgili bilgileri Mozilla’ya gönderir.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Daha fazla bilgi alın">
@@ -1041,6 +1060,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "E">
 
 <!ENTITY homepageControlled.message "Bir eklenti, giriş sayfanızı değiştirdi. Bu değişikliği istemiyorsanız önceki ayarlarınızı geri yükleyebilirsiniz.">
+
 <!ENTITY homepageControlled.header.message "Giriş sayfanız değişti.">
 <!ENTITY homepageControlled.keepButton.label "Değişiklikleri koru">
 <!ENTITY homepageControlled.keepButton.accesskey "D">

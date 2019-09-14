@@ -745,6 +745,23 @@ content-blocking-strict-description = Daha güçlü koruma. Bazı sitelerin bozu
 content-blocking-custom-desc = Nelerin engelleneceğini seçin.
 content-blocking-private-trackers = Bilinen takipçileri yalnızca gizli pencelerde engeller
 content-blocking-third-party-cookies = Üçüncü taraf takip çerezlerini engeller
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standart
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Sıkı
+    .accesskey = S
+enhanced-tracking-protection-setting-custom =
+    .label = Özel
+    .accesskey = Ö
+
+
+
 content-blocking-etp-standard-desc = Dengeli koruma ve performans. Sayfalar normal şekilde yüklenir.
 content-blocking-etp-strict-desc = Daha güçlü koruma, ama bazı siteler ve içerikler düzgün çalışmayabilir.
 content-blocking-etp-custom-desc = Hangi takipçilerin ve betiklerin engelleneceğini seçin.
