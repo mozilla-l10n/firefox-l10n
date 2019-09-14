@@ -22,7 +22,7 @@
 <!ENTITY            deleteButton.accesskey "B">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; nakaimbak na impormasyon tungkol sayong pinagmulan at kagustohang pagkakilanlan.">
+<!ENTITY            pmDescription.label    "Ang &brandShortName; ay nag-iimbak ng impormasyon tungkol sa iyong mga setting, kagustuhan, at iba pang user item sa iyong personal profile.">
 
 <!ENTITY            offlineState.label    "Matrabaho nang offline">
 <!ENTITY            offlineState.accesskey "o">

@@ -86,7 +86,7 @@
 <!ENTITY inadequateSecurityError.title "Hindi ligtas ang connection mo">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "Ang <p><span class='hostname'></span> ay gumagamit ng security technology na luma na at madaling atakihin. Ang isang umaatake ay madaling makapagbibigay ng impormasyon na akala mo ay ligtas. Kinakailangan munang ayusin ng website administrator ang server bago mo maaaring bisitahin ang site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p>Gumagamit ang <span class='hostname'></span> ng security technology na luma na at madaling atakihin. Ang isang umaatake ay madaling makapagbubulgar ng impormasyon na akala mo ay ligtas. Kakailanganin ng website administrator na ayusin muna ang server bago mo mabisita ang site.</p><p>Error code: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Hinarang na Pahina">
 
