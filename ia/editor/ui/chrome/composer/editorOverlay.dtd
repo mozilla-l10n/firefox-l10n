@@ -258,9 +258,12 @@
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Defini le dimension del character">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Dimension del character minor">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Dimension del character major">
 <!ENTITY boldToolbarCmd.tooltip "Hardite">
 <!ENTITY italicToolbarCmd.tooltip "Italico">
 <!ENTITY underlineToolbarCmd.tooltip "Sublinear">
+<!ENTITY bulletListToolbarCmd.tooltip "Crea o remove le lista punctate">
+<!ENTITY numberListToolbarCmd.tooltip "Crea o remove le lista numerate">
 <!ENTITY AlignPopupButton.tooltip "Seliger alineamento del texto">
 
 <!-- Structure Toolbar Context Menu items -->
