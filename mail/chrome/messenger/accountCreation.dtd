@@ -39,6 +39,7 @@
 <!ENTITY incoming.label                  "Primire:">
 <!ENTITY incomingColumn.label            "Primire">
 <!ENTITY outgoing.label                  "Trimitere:">
+<!ENTITY outgoingColumn.label            "Trimitere">
 <!ENTITY username.label                  "Nume de utilizator:">
 <!ENTITY hostname.label                  "Denumire server-gazdă">
 <!ENTITY port.label                      "Port">

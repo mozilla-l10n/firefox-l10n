@@ -50,24 +50,24 @@
 <!ENTITY reading.caption                  "Citire">
 <!ENTITY display.caption                  "Afișare">
 <!ENTITY showCondensedAddresses.label     "Afișează numai numele de afișaj ale persoanelor din agenda mea de contacte">
-<!ENTITY showCondensedAddresses.accesskey "d">
+<!ENTITY showCondensedAddresses.accesskey "S">
 
 <!ENTITY autoMarkAsRead.label             "Marchează automat mesajele ca citite">
-<!ENTITY autoMarkAsRead.accesskey         "a">
+<!ENTITY autoMarkAsRead.accesskey         "A">
 <!ENTITY markAsReadNoDelay.label          "Imediat la afișare">
 <!ENTITY markAsReadNoDelay.accesskey      "d">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 <!ENTITY markAsReadDelay.label            "După ce sunt afișate">
-<!ENTITY markAsReadDelay.accesskey        "e">
+<!ENTITY markAsReadDelay.accesskey        "d">
 <!ENTITY secondsLabel.label               "secunde">
-<!ENTITY openMsgIn.label                  "Deschide mesajele în:">
-<!ENTITY openMsgInNewTab.label            "O filă nouă">
-<!ENTITY openMsgInNewTab.accesskey        "O">
-<!ENTITY reuseExpRadio0.label             "O fereastră de mesaj nouă">
-<!ENTITY reuseExpRadio0.accesskey         "O">
-<!ENTITY reuseExpRadio1.label             "O fereastră de mesaj existentă">
-<!ENTITY reuseExpRadio1.accesskey         "x">
+<!ENTITY openMsgIn.label                  "Deschide mesajele într-o:">
+<!ENTITY openMsgInNewTab.label            "Filă nouă">
+<!ENTITY openMsgInNewTab.accesskey        "t">
+<!ENTITY reuseExpRadio0.label             "Fereastră de mesaj nouă">
+<!ENTITY reuseExpRadio0.accesskey         "n">
+<!ENTITY reuseExpRadio1.label             "Fereastră de mesaj existentă">
+<!ENTITY reuseExpRadio1.accesskey         "e">
 <!ENTITY closeMsgOnMoveOrDelete.label     "Închide fereastra sau fila cu mesajul la mutare sau ștergere">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "c">

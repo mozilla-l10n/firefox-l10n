@@ -37,5 +37,6 @@
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Află mai multe despre Nu mă urmări">
 
+<!ENTITY doNotTrackCheck.label "Trimite site-urilor web un semnal „Nu urmări” pentru a indica faptul că nu vrei să fii urmărit">
 <!ENTITY doNotTrackCheck.accesskey "n">
 <!ENTITY doNotTrackLearnMore.label "Află mai multe">

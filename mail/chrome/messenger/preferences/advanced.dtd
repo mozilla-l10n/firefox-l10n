@@ -21,7 +21,7 @@
 <!ENTITY maildirStore.label            "Fișiere per mesaj (maildir)">
 
 <!ENTITY scrolling.label               "Derulare">
-<!ENTITY useAutoScroll.label           "Utilizează derularea automată">
+<!ENTITY useAutoScroll.label           "Folosește derularea automată">
 <!ENTITY useAutoScroll.accesskey       "U">
 <!ENTITY useSmoothScrolling.label      "Folosește derularea lină">
 <!ENTITY useSmoothScrolling.accesskey  "o">
@@ -42,7 +42,7 @@
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetrie">
-<!ENTITY telemetryDesc.label             "Împărtășește date privind performanța, consumul, hardware-ul și personalizările browserului tău cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
+<!ENTITY telemetryDesc.label             "Împărtășește date privind performanța, consumul, hardware-ul și personalizările clientului tău de e-mail cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
 <!ENTITY enableTelemetry.label           "Activează telemetria">
 <!ENTITY enableTelemetry.accesskey       "t">
 <!ENTITY telemetryLearnMore.label        "Află mai multe">
