@@ -9,20 +9,22 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "Hjelp">
 <!ENTITY helpMenuWin.accesskey "H">
+<!ENTITY aboutProduct2.label "Om &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "O">
 <!ENTITY helpTroubleshootingInfo.label     "Feilsøking">
 <!ENTITY helpTroubleshootingInfo.accesskey "F">
 <!ENTITY helpSafeMode.label     "Start på nytt utan tillegg…">
 <!ENTITY helpSafeMode.accesskey "S">
-<!ENTITY releaseCmd2.label "Versjonsnotat">
-<!ENTITY releaseCmd2.accesskey "V">
-<!ENTITY whatsNewCmd.label "Kva er nytt">
-<!ENTITY whatsNewCmd.accesskey "K">
-<!ENTITY openHelp.label "Innhald">
-<!ENTITY openHelp.accesskey "I">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "&brandFullName; hjelp">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
+<!ENTITY helpSafeMode.stop.label     "Start på nytt med påslåtte tillegg">
+<!ENTITY helpSafeMode.stop.accesskey "r">
+<!ENTITY productHelp.label "&brandShortName; Hjelp">
+<!ENTITY productHelp.accesskey "H">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
 
-<!ENTITY aboutMenuCmd2.label "Om &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "O">
+<!ENTITY helpKeyboardShortcuts.label "Tastatursnarvegar">
+
+
+
+
