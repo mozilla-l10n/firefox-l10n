@@ -6,9 +6,9 @@
 
 <!ENTITY accountManagerTitle.label "Setările contului">
 
-<!ENTITY accountActionsButton.label "Acțiuni legate de cont">
+<!ENTITY accountActionsButton.label "Acțiuni cu privire la cont">
 <!ENTITY accountActionsButton.accesskey "A">
-<!ENTITY addMailAccountButton.label "Adaugă un cont de corespondență…">
+<!ENTITY addMailAccountButton.label "Adaugă un cont de mail…">
 <!ENTITY addMailAccountButton.accesskey "A">
 <!ENTITY addIMAccountButton.label "Adaugă un cont de chat…">
 <!ENTITY addIMAccountButton.accesskey "t">

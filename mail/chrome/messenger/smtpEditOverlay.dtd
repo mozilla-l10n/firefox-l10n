@@ -4,7 +4,7 @@
 
 <!ENTITY settings.caption "Setări">
 <!ENTITY security.caption "Securitate și autentificare">
-<!ENTITY serverName.label "Denumire server:">
+<!ENTITY serverName.label "Denumirea serverului:">
 <!ENTITY serverName.accesskey "s">
 <!ENTITY serverDescription.label "Descriere:">
 <!ENTITY serverDescription.accesskey "D">
@@ -20,5 +20,5 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY smtpEditTitle.label "Server SMTP">
 <!ENTITY serverPortDefault.label "Implicit:">
-<!ENTITY authMethod.label "Metoda de autentificare:">
+<!ENTITY authMethod.label "Metodă de autentificare:">
 <!ENTITY authMethod.accesskey "i">
