@@ -63,6 +63,9 @@ about-logins-login-list-empty-search-description = Non ci sono risultati corrisp
 login-list-item-title-new-login = Nuova credenziale
 login-list-item-subtitle-new-login = Inserisci le credenziali di accesso
 login-list-item-subtitle-missing-username = (nessun nome utente)
+about-logins-list-item-warning-icon =
+  .alt = Icona avviso
+  .title = Sito web coinvolto in violazione di dati
 
 ## Introduction screen
 
