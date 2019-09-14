@@ -14,7 +14,7 @@
 <!ENTITY profileCreationExplanation_4Gnome.text  "Pentru a începe să-ți creezi profilul, dă clic pe Înainte.">
 
 <!-- Second wizard page -->
-<!ENTITY profileCreationIntro.text      "Dacă creezi mai multe profiluri, le poți deosebi după numele profilurilor. Poți folosi numele sugerat aici sau numele pe care îl dorești tu.">
+<!ENTITY profileCreationIntro.text      "Dacă creezi mai multe profiluri, le poți deosebi după denumirile profilurilor. Poți folosi denumirea sugerată aici sau denumirea pe care o dorești tu.">
 <!ENTITY profilePrompt.label            "Introdu numele noului profil:">
 <!ENTITY profilePrompt.accesskey        "e">
 <!ENTITY profileDirectoryExplanation.text   "Setările utilizatorului, preferințele și alte date legate de utilizator vor fi stocate în:">
