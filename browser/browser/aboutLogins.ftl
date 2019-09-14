@@ -65,7 +65,7 @@ login-list-item-subtitle-new-login = Inserisci le credenziali di accesso
 login-list-item-subtitle-missing-username = (nessun nome utente)
 about-logins-list-item-warning-icon =
   .alt = Icona avviso
-  .title = Sito web coinvolto in violazione di dati
+  .title = Sito web coinvolto in violazioni di dati
 
 ## Introduction screen
 
