@@ -8,7 +8,7 @@
 <!ENTITY smtpServer.label "Setările serverului de trimitere (SMTP)">
 
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDescription.label "Când îți gestionezi identitățile, poți folosi un server din această listă prin selectarea acestuia ca server de trimitere (SMTP) sau poți folosi serverul implicit din această listă selectând &quot;Folosește serverul implicit&quot;.">
+<!ENTITY smtpDescription.label "Când îți gestionezi identitățile, poți folosi un server din această listă prin selectarea acestuia ca server de trimitere (SMTP) sau poți folosi serverul implicit din această listă selectând „Folosește serverul implicit”.">
 
 <!ENTITY smtpListAdd.label  "Adaugă…">
 <!ENTITY smtpListAdd.accesskey  "A">
@@ -21,7 +21,7 @@
 
 <!ENTITY serverDetails.label "Detaliile serverului selectat:">
 <!ENTITY serverDescription.label "Descriere: ">
-<!ENTITY serverName.label "Denumire server: ">
+<!ENTITY serverName.label "Denumirea serverului: ">
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label   "Nume de utilizator: ">
 <!ENTITY connectionSecurity.label "Securitatea conexiunii: ">
