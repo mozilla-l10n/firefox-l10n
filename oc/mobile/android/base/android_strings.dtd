@@ -34,6 +34,10 @@
 <!ENTITY firstrun_button_notnow "Non, pas ara">
 <!ENTITY firstrun_button_next "Seguent">
 
+<!ENTITY firstrun_signin_button2 "Se connectar">
+
+<!ENTITY firstrun_signup_button "S’inscriure">
+
 <!ENTITY firstrun_tabqueue_title "Ligams">
 
 <!ENTITY firstrun_readerview_title "Articles">
@@ -595,7 +599,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Emplaçament">
 <!ENTITY bookmark_edit_keyword "Mot clau">
 <!ENTITY bookmark_select_folder "Seleccionar un dorsièr">
-
 <!ENTITY bookmark_edit_undo "Anullar">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -878,6 +881,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Disponible fòra linha">
 <!ENTITY helper_triple_readerview_open_message "Marcatz las paginas del mòde lectura per poder las legir fòra linha.">
 <!ENTITY helper_triple_readerview_open_button "Anatz als marcapaginas">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "La benvenguda a &brandShortName;">
+<!ENTITY activity_stream_signin_description "Començatz de sincronizar los marcapaginas, los senhales e encara mai amb vòstre compte Firefox.">
+<!ENTITY activity_stream_signin_button "Se connectar">
+
+<!ENTITY activity_stream_signup_button "S’inscriure">
+<!ENTITY activity_stream_signin_prompt "Avètz ja un compte ?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Connectatz-vos.">
 
 <!ENTITY activity_stream_topsites "Sites favorits">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
