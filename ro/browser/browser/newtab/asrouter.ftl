@@ -105,7 +105,7 @@ cfr-whatsnew-lockwise-backup-title = Creează o copie de siguranță cu parolele
 cfr-whatsnew-lockwise-backup-body = Acum generează parole securizate pe care le poți accesa de oriunde te conectezi.
 cfr-whatsnew-lockwise-backup-link-text = Activează crearea de copii de siguranță
 cfr-whatsnew-lockwise-take-title = Ia-ți parolele cu tine
-cfr-whatsnew-lockwise-take-body = Aplicația pentru dispozitive mobile { -lockwise-brand-short-name } îți permite să îți accesezi în siguranță parolele din copia de siguranță oriunde te-ai afla.
+cfr-whatsnew-lockwise-take-body = Aplicația pentru dispozitive mobile { -lockwise-brand-short-name } îți permite să îți accesezi în siguranță parolele cărora le-ai făcut backup, oriunde te-ai afla.
 cfr-whatsnew-lockwise-take-link-text = Obține aplicația
 
 ## Bookmark Sync
