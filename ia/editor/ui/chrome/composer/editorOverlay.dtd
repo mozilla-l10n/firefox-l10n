@@ -254,6 +254,7 @@
 <!ENTITY boldToolbarCmd.tooltip "Hardite">
 <!ENTITY italicToolbarCmd.tooltip "Italico">
 <!ENTITY underlineToolbarCmd.tooltip "Sublinear">
+<!ENTITY AlignPopupButton.tooltip "Seliger alineamento del texto">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Seliger">
