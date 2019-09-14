@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-window =
-    .title = Add-ons Manager
+    .title = Add-on Manager
 search-header =
     .placeholder = Hanapin sa addons.mozilla.org
     .searchbuttonlabel = Hanapin
@@ -12,26 +12,26 @@ search-header-shortcut =
 loading-label =
     .value = Nag-loload...
 list-empty-installed =
-    .value = Wala kang ganitong klaseng add-ons na naka-install
+    .value = Wala kang mga add-on na ganitong uri na nakakabit
 list-empty-available-updates =
     .value = Walang updates na nakita
 list-empty-recent-updates =
-    .value = Wala kang bagong update na add-ons
+    .value = Wala kang bagong-update na mga add-on
 list-empty-find-updates =
     .label = Maghanap ng mga Update
 list-empty-button =
-    .label = Dagdag-kaalaman tungkol sa add-ons
+    .label = Alamin ang tungkol sa mga add-on
 install-addon-from-file =
     .label = Mag-install ng Add-on Mula sa File…
     .accesskey = i
-help-button = Support para sa mga Add-on
+help-button = Suporta sa mga Add-on
 preferences =
     { PLATFORM() ->
         [windows] Mga pagpipilian sa { -brand-short-name }
        *[other] Mga kagustuhan sa { -brand-short-name }
     }
 tools-menu =
-    .tooltiptext = Tools para sa lahat ng add-ons
+    .tooltiptext = Mga kagamitan para sa lahat ng mga add-on
 show-unsigned-extensions-button =
     .label = Ang ibang extensions ay hindi kayang ma-verify
 show-all-extensions-button =
@@ -142,7 +142,7 @@ detail-rating =
 addon-restart-now =
     .label = Magrestart ngayon
 disabled-unsigned-heading =
-    .value = Ang ibang add-ons ay na-disable
+    .value = May ilang mga add-on na na-disable
 disabled-unsigned-description = Ang mga sumusunod na add-on ay hindi na-verify para magamit sa { -brand-short-name }. Maaari kang <label data-l10n-name="find-addons">maghanap ng mga pamalit</label> o magtanong sa developer para ma-verify ang mga ito.
 disabled-unsigned-learn-more = Matuto pa sa ukol sa aming mga hakbang para maprotektahan ka online.
 disabled-unsigned-devinfo = Ang developers na interesadong mapa-verify ang add-on nila ay pwedeng tumuloy sa pagbasa ng aming <label data-l10n-name="learn-more">manwal</label>.
@@ -165,7 +165,7 @@ extensions-view-available-updates =
 ## These are global warnings
 
 extensions-warning-safe-mode-label =
-    .value = Naka-disable lahat ng add-ons ng safe mode.
+    .value = Idinisable lahat ng mga add-on sa safe mode.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
 extensions-warning-check-compatibility-label =
@@ -215,9 +215,9 @@ extensions-updates-reset-updates-to-manual =
 ## Status messages displayed when updating add-ons
 
 extensions-updates-updating =
-    .value = Inuupdate ang mga add-ons
+    .value = Ina-update ang mga add-on
 extensions-updates-installed =
-    .value = Na-update na ang add-ons mo.
+    .value = Na-update na ang add-on mo.
 extensions-updates-downloaded =
     .value = Na-download na ang mga update sa mga add-on mo.
 extensions-updates-restart =
