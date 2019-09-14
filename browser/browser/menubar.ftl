@@ -214,6 +214,7 @@ menu-tools-sync-sign-in =
     .accesskey = y
 menu-tools-turn-on-sync =
     .label = Attiva { -sync-brand-short-name }…
+    .accesskey = v
 menu-tools-sync-now =
     .label = Sincronizza adesso
     .accesskey = z
