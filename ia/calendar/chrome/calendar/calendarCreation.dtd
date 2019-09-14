@@ -37,6 +37,7 @@
 
 <!ENTITY calendartype.label "Typo de calendario:">
 <!ENTITY location.label "Adresse:">
+<!ENTITY location.placeholder "URL o nomine de hospite del servitor de le agenda">
 
 <!ENTITY network.nocredentials.label "Iste position non require credentiales">
 <!ENTITY network.loading.description "Attende durante que tu agendas es discoperite.">
