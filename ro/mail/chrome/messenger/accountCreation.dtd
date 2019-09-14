@@ -23,12 +23,13 @@
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Parolă">
 <!ENTITY password.text                   "Opțional, se va folosi doar pentru a valida numele de utilizator">
-<!ENTITY rememberPassword.label          "Memorează parola">
-<!ENTITY rememberPassword.accesskey      "M">
+<!ENTITY password.toggle                 "Afișează/Ascunde parola">
+<!ENTITY rememberPassword.label          "Ține minte parola">
+<!ENTITY rememberPassword.accesskey      "m">
 <!ENTITY usernameEx.label                "Datele tale de autentificare:">
 <!ENTITY usernameEx.accesskey            "I">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
-<!ENTITY usernameEx.placeholder          "YOURDOMAIN\numele de utilizator">
+<!ENTITY usernameEx.placeholder          "DOMENIULTĂU\numeletăiudeutilizator">
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Autentificare în domeniu">
 
@@ -41,7 +42,7 @@
 <!ENTITY outgoing.label                  "Trimitere:">
 <!ENTITY outgoingColumn.label            "Trimitere">
 <!ENTITY username.label                  "Nume de utilizator:">
-<!ENTITY hostname.label                  "Denumire server-gazdă">
+<!ENTITY hostname.label                  "Denumirea serverului gazdă">
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Server:">
@@ -64,9 +65,9 @@
 <!ENTITY exchange-hostname.label         "Server de schimb:">
 
 <!ENTITY advancedSetup.label             "Configurare avansată">
-<!ENTITY advancedSetup.accesskey         "a">
+<!ENTITY advancedSetup.accesskey         "A">
 <!ENTITY cancel.label                    "Renunță">
-<!ENTITY cancel.accesskey                "R">
+<!ENTITY cancel.accesskey                "a">
 <!ENTITY continue.label                  "Continuă">
 <!ENTITY continue.accesskey              "C">
 <!ENTITY stop.label                      "Oprește">
@@ -82,7 +83,7 @@
 <!ENTITY manual-config.label             "Configurează manual...">
 <!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Obține o adresă de e-mail nouă…">
-<!ENTITY open-provisioner.accesskey      "O">
+<!ENTITY open-provisioner.accesskey      "g">
 
 
 <!ENTITY get-help.label                  "Obține ajutor">
@@ -112,7 +113,7 @@
 
 <!ENTITY contactYourProvider.description "&brandShortName; poate permite accesarea contului de e-mail folosind configurațiile furnizate. Totuși, trebuie să contactezi administratorul sau furnizorul de e-mail pentru conexiuni necorespunzătoare. Vezi întrebări adresate frecvent în Thunderbird FAQ pentru mai multe informații.">
 
-<!ENTITY insecureServer.tooltip.title    "Avertisment! Server nesecurizat.">
+<!ENTITY insecureServer.tooltip.title    "Avertisment! Acesta este un server nesecurizat.">
 <!ENTITY insecureServer.tooltip.details  "Dă clic pe cerc pentru mai multe detalii.">
 
 <!ENTITY insecureUnencrypted.description "Adresa de e-mail și datele de autentificare sunt transmise fără a fi criptate; prin urmare, parola și mesajul pot fi citite de alte persoane. &brandShortName; va permite accesul la căsuța poștală, dar trebuie să contactezi furnizorul de e-mail pentru configurarea serverului cu o conexiune securizată.">
