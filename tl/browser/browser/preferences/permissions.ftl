@@ -77,7 +77,7 @@ permissions-exceptions-etp-desc = Isinara mo ang mga protection sa mga website n
 permissions-exceptions-cookie-window =
     .title = Mga Exception - Mga Cookie at Site Data
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Maaari mong tukuyin kung aling website ang lagi o hindi mo papahintulutang gumamit ng cookies at site data. I-type ang exact address ng site na gusto mong i-manage at i-click ang Block, Allow for Session, o Allow.
+permissions-exceptions-cookie-desc = Maaari mong tukuyin kung aling website ang lagi o hindi mo pahihintulutang gumamit ng mga cookie at site data. I-type ang mismong address ng site na gusto mong i-manage at pindutin ang Harangin, Payagan para sa Session, o Payagan.
 
 ## Exceptions - Pop-ups
 
