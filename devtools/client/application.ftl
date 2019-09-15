@@ -69,8 +69,11 @@ serviceworker-empty-suggestions-debugger = Pažingsniuokite per savo aptarnavimo
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Tirkite aptarnavimo scenarijus iš kitų domenų. <a>Atverti about:debugging</a>
-# Header for the view of Manifest displayed in the application panel for the current page.
+# Header for the Manifest page when we have an actual manifest
 manifest-view-header = Programos manifestas
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Norėdami čia tirti internetinės programos manifestą, turite jį pridėti. <a>Sužinoti daugiau</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Klaidos ir įspėjimai
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -87,6 +90,14 @@ manifest-loaded-ok = Manifestas įkeltas.
 manifest-loaded-error = Įkeliant manifestą įvyko klaida:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Nerastas joks manifestas.
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifestas
+    .alt = Manifesto piktograma
+    .title = Manifestas
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Aptarnavimo scenarijai
+    .alt = Aptarnavimo scenarijų piktograma
+    .title = Aptarnavimo scenarijai
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Įspėjimo piktograma
