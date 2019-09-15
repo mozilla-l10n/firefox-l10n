@@ -13,15 +13,6 @@ graph-week-summary =
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
 # earliest date recorded in the database.
-graph-total-summary =
-    { $count ->
-        [one] { $count } rastreador bloqueado desde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] { $count } rastreadores bloqueados desde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-    }
-# Variables:
-#   $count (Number) - Number of tracking events blocked.
-#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
-# earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
         [one] <b>{ $count }</b> rastreador bloqueado desde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
@@ -47,7 +38,6 @@ social-tab-contant = Redes sociais colocam rastreadores em outros sites para seg
 cookie-tab-title = Cookies de rastreamento entre sites
 cookie-tab-content = Esses cookies seguem você de um site para outro para coletar dados sobre o que você faz online. Eles são criados por terceiros, como anunciantes e empresas de análises. Bloquear cookies de rastreamento entre sites reduz o número de anúncios que seguem você por todo canto. <a data-l10n-name="learn-more-link">Saiba mais</a>
 tracker-tab-title = Conteúdo de rastreamento
-tracker-tab-content = Sites podem carregar anúncios, vídeos e outros conteúdos externos que contêm código de rastreamento. Bloquear conteúdo de rastreamento pode ajudar a agilizar o carregamento de sites, mas alguns botões, formulários e campos de acesso a contas podem não funcionar. <a data-l10n-name="learn-more-link">Saiba mais</a>
 tracker-tab-description = Sites podem carregar anúncios, vídeos e outros conteúdos externos com código de rastreamento. Bloquear conteúdo de rastreamento pode ajudar a agilizar o carregamento de sites, mas alguns botões, formulários e campos de acesso a contas podem não funcionar. <a data-l10n-name="learn-more-link">Saiba mais</a>
 fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters coletam configurações do seu navegador e do computador para traçar um perfil seu. Usando esta identidade digital, eles podem rastrear você por vários sites. <a data-l10n-name="learn-more-link">Saiba mais</a>
@@ -57,7 +47,6 @@ lockwise-title = Nunca esqueça uma senha novamente
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = O { -lockwise-brand-name } armazena com segurança suas senhas em seu navegador.
 lockwise-header-content-logged-in = Armazene e sincronize suas senhas com segurança em todos os seus dispositivos.
-open-about-logins-button = Abrir no { -brand-short-name }
 about-logins-view-logins-button = Ver contas de acesso
 lockwise-no-logins-content = Instale o aplicativo <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> para ter suas senhas em qualquer lugar.
 # This string is displayed after a large numeral that indicates the total number
@@ -78,40 +67,13 @@ lockwise-sync-status =
         [one] Sincronizando com { $count } outro dispositivo
        *[other] Sincronizando com { $count } outros dispositivos
     }
-lockwise-sync-not-syncing = Não sincronizando com outros dispositivos.
 lockwise-sync-not-syncing-devices = Não sincronizando com outros dispositivos
-monitor-title = Fique atento a violações de dados
+monitor-title = Fique atento a vazamentos de dados
 monitor-link = Como funciona
-monitor-header-content = Veja no { -monitor-brand-name } se você foi vítima de um vazamento de dados e receba alertas sobre novos vazamentos.
-monitor-header-content-logged-in = O { -monitor-brand-name } avisa caso suas informações apareçam em um vazamento de dados conhecido
 monitor-header-content-no-account = Veja no { -monitor-brand-name } se você foi vítima de um vazamento de dados conhecido e receba alertas sobre novos vazamentos.
 monitor-header-content-signed-in = O { -monitor-brand-name } avisa caso suas informações apareçam em um vazamento de dados conhecido.
 monitor-sign-up = Cadastre-se para receber alertas de vazamentos
 auto-scan = Analisados automaticamente hoje
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-monitored-addresses =
-    { $count ->
-        [one] Endereço de e-mail sendo monitorado.
-       *[other] Endereços de e-mail sendo monitorados.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of known data breaches. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-known-breaches =
-    { $count ->
-        [one] Vazamento de dados conhecido expôs suas informações.
-       *[other] Vazamentos de dados conhecidos expuseram suas informações.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of exposed passwords. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-exposed-passwords =
-    { $count ->
-        [one] Senha exposta em meio a todos os vazamentos.
-       *[other] Senhas expostas em meio a todos os vazamentos.
-    }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
