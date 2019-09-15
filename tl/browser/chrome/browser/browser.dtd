@@ -80,7 +80,7 @@ when there are no windows but Firefox is still running. -->
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Navigation">
-<!ENTITY personalbarCmd.label "Tingnan ang Bookmarks Toolbar">
+<!ENTITY personalbarCmd.label "Bookmarks Toolbar">
 <!ENTITY personalbarCmd.accesskey "B">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
@@ -1015,7 +1015,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Anong mga problema ang mayroon ka? (Optional)">
 <!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Opsyonal: Ilarawan ang problema">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Magpasa ng Report">
-<!ENTITY contentBlocking.breakageReportView.cancel.label "I-Cancel">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Kanselahin">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control

@@ -118,7 +118,7 @@ newtab-label-visited = Binisita
 newtab-label-bookmarked = Naka-bookmark
 newtab-label-removed-bookmark = Natanggal na ang bookmark
 newtab-label-recommended = Nagte-trend
-newtab-label-saved = I-save sa { -pocket-brand-name }
+newtab-label-saved = Nai-save na sa { -pocket-brand-name }
 newtab-label-download = Nai-download na
 
 ## Section Menu: These strings are displayed in the section context menu and are 
