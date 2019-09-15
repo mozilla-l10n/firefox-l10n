@@ -7,5 +7,6 @@
 back = Niko yata
 home = Nuu kajie´e
 find = Nánuku
+new-tab = Sukua jíía
 share = Kua´a ya´a
 close-window = Kasɨ ventana
