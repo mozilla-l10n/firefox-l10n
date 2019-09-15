@@ -94,6 +94,8 @@ cfr-whatsnew-tracking-blocked-subtitle = מאז { DATETIME($earliestDate, month:
 cfr-whatsnew-tracking-blocked-link-text = הצגת דוח
 cfr-whatsnew-lockwise-backup-title = גיבוי הססמאות שלך
 cfr-whatsnew-lockwise-backup-link-text = הפעלת גיבויים
+cfr-whatsnew-lockwise-take-title = לקחת את הססמאות שלך לכל מקום
+cfr-whatsnew-lockwise-take-body = היישומון לנייד { -lockwise-brand-short-name } מאפשר לך לגשת באופן מאובטח לססמאות המגובות שלך מכל מקום.
 cfr-whatsnew-lockwise-take-link-text = הורדת היישומון
 
 ## Bookmark Sync
