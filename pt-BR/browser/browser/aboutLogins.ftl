@@ -20,8 +20,8 @@ create-login-button = Criar nova conta
 #   $title (String) - The title of the website associated with the favicon.
 login-favicon =
     .alt = Favicon de { $title }
-fxaccounts-sign-in-text = Tenha suas senhas em seus outros dispositivos
-fxaccounts-sign-in-button = Entre no { -sync-brand-short-name }
+fxaccounts-sign-in-text = Tenha suas senhas em outros dispositivos
+fxaccounts-sign-in-button = Entrar no { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Gerenciar conta
 
@@ -68,7 +68,7 @@ login-intro-heading = Procurando suas contas salvas? Configure o { -sync-brand-s
 login-intro-description = Se você salvou suas contas no { -brand-product-name } em outro dispositivo, veja como tê-las aqui:
 login-intro-instruction-fxa = Crie ou entre na sua { -fxaccount-brand-name } no dispositivo onde suas contas estão salvas
 login-intro-instruction-fxa-settings = Selecione a opção 'Contas de acesso' nas configurações do { -sync-brand-short-name }
-about-logins-intro-instruction-help = Visite o <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Suporte</a> para mais ajuda
+about-logins-intro-instruction-help = Visite o <a data-l10n-name="help-link">suporte do { -lockwise-brand-short-name }</a> para mais ajuda
 
 ## Login
 
@@ -79,8 +79,6 @@ login-item-origin-label = Endereço do site
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nome de usuário
-login-item-username =
-    .placeholder = nome@example.com
 about-logins-login-item-username =
     .placeholder = (sem nome de usuário)
 login-item-copy-username-button-text = Copiar
