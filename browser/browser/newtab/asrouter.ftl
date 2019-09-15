@@ -83,7 +83,7 @@ cfr-whatsnew-button =
     .tooltiptext = Vad är nytt
 cfr-whatsnew-panel-header = Vad är nytt
 cfr-whatsnew-release-notes-link-text = Läs versionsfakta
-cfr-whatsnew-fx70-title = { -brand-short-name } kämpar nu hårdare för din integritet
+cfr-whatsnew-fx70-title = { -brand-short-name } kämpar ännu mer för din integritet
 cfr-whatsnew-fx70-body =
     Den senaste uppdateringen förbättrar funktionen Spårningsskydd och gör det
     lättare än någonsin att skapa säkra lösenord för varje webbplats.
