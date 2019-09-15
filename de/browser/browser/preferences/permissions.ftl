@@ -91,6 +91,11 @@ permissions-exceptions-content-blocking-window =
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Sie haben das Blockieren von Seitenelementen auf diesen Websites deaktiviert.
 
+permissions-exceptions-etp-window =
+    .title = Ausnahmen - Verbesserter Schutz vor Aktivitätenverfolgung
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Sie haben die Schutzmaßnahmen für folgende Websites deaktiviert.
+
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window =

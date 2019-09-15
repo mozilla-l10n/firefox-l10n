@@ -339,6 +339,13 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Beim Tippen automatisch im Seitentext suchen
     .accesskey = u
+
+browsing-picture-in-picture-toggle-enabled =
+    .label = Videosteuerung für Bild-im-Bild (PiP) anzeigen
+    .accesskey = V
+
+browsing-picture-in-picture-learn-more = Weitere Informationen
+
 browsing-cfr-recommendations =
     .label = Erweiterungen während des Surfens empfehlen
     .accesskey = h
@@ -593,13 +600,20 @@ privacy-header = Browser-Datenschutz
 logins-header = Zugangsdaten & Passwörter
 forms-ask-to-save-logins =
     .label = Fragen, ob Zugangsdaten und Passwörter für Websites gespeichert werden sollen
-    .accesskey = Z
+    .accesskey = F
 forms-exceptions =
     .label = Ausnahmen…
     .accesskey = u
 forms-generate-passwords =
     .label = Starke Passwörter erzeugen und vorschlagen
     .accesskey = P
+forms-breach-alerts =
+    .label = Alarme für Passwörter, deren Websites von einem Datenleck betroffen waren
+    .accesskey = A
+forms-breach-alerts-learn-more-link = Weitere Informationen
+forms-fill-logins-and-passwords =
+    .label = Zugangsdaten und Passwörter automatisch ausfüllen
+    .accesskey = Z
 forms-saved-logins =
     .label = Gespeicherte Zugangsdaten…
     .accesskey = G
@@ -676,6 +690,11 @@ sitedata-block-desc = Zu blockieren:
     .accesskey = Z
 sitedata-option-block-trackers =
     .label = Nutzer verfolgende Elemente von Drittanbietern
+
+sitedata-option-block-cross-site-trackers =
+    .label = Zur seitenübergreifenden Aktivitätenverfolgung
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Zur seitenübergreifenden Aktivitätenverfolgung und von sozialen Netzwerken
 sitedata-option-block-unvisited =
     .label = Cookies von nicht besuchten Websites
 sitedata-option-block-all-third-party =
@@ -711,6 +730,9 @@ addressbar-suggestions-settings = Einstellungen für Suchvorschläge ändern
 
 content-blocking-header = Seitenelemente blockieren
 content-blocking-section-description = Schützen Sie Ihre Privatsphäre während des Surfens, indem Sie unsichtbare Inhalte blockieren. Diese verfolgen sonst, welche Websites Sie besuchen, und legen ein Profil über Sie an. Das Blockieren einiger dieser Inhalte kann das Laden von Websites beschleunigen.
+
+content-blocking-section-top-level-description = Skripte zur Aktivitätenverfolgung folgen Ihnen und sammeln Informationen über Ihre Internet-Gewohnheiten und Interessen. { -brand-short-name } blockiert viele dieser Skripte zur Aktivitätenverfolgung und andere böswillige Skripte.
+
 content-blocking-enhanced-tracking-protection = Verbesserter Schutz vor Aktivitätenverfolgung
 content-blocking-learn-more = Weitere Informationen
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -730,21 +752,27 @@ content-blocking-custom-desc = Entsprechend den Einstellungen blockieren:
 content-blocking-private-trackers = Bekannte Elemente zur Aktivitätenverfolgung nur in privaten Fenstern
 content-blocking-third-party-cookies = Cookies zur Aktivitätenverfolgung von Drittanbietern
 
-## These strings are used to define the different levels of
-## Enhanced Tracking Protection.
+content-blocking-etp-standard-desc = Ausgewogen zwischen Schutz und Leistung. Seiten laden normal.
+content-blocking-etp-strict-desc = Stärkerer Schutz, einige Websites oder mancher Inhalt funktioniert eventuell nicht.
+content-blocking-etp-custom-desc = Wählen Sie, welche Art von Skripten zur Aktivitätenverfolgung und sonstige Inhalte blockiert werden.
 
-
-
-
+content-blocking-private-windows = Inhalte zur Aktivitätenverfolgung in privaten Fenstern
+content-blocking-cross-site-tracking-cookies = Cookies zur seitenübergreifenden Aktivitätenverfolgung
+content-blocking-social-media-trackers = Skripte zur Aktivitätenverfolgung durch soziale Netzwerke
 content-blocking-all-cookies = Alle Cookies
 content-blocking-unvisited-cookies = Cookies von nicht besuchten Websites
 content-blocking-all-windows-trackers = Erkannte Elemente zur Aktivitätenverfolgung in allen Fenstern
+content-blocking-all-windows-tracking-content = Inhalte zur Aktivitätenverfolgung in allen Fenstern
 content-blocking-all-third-party-cookies = Alle Cookies von Drittanbietern
 content-blocking-cryptominers = Heimliche Digitalwährungsberechner (Krypto-Miner)
 content-blocking-fingerprinters = Identifizierer (Fingerprinter)
 content-blocking-warning-title = Achtung!
 content-blocking-warning-description = Das Blockieren von Inhalten kann bei einigen Websites zu Problemen führen. Das Deaktivieren des Blockierens für von Ihnen vertraute Seiten ist ganz einfach.
 content-blocking-learn-how = Erfahren Sie mehr
+
+content-blocking-etp-warning-description = Das Blockieren von Skripten zur Aktivitätenverfolgung kann Auswirkungen auf das Funktionieren einiger Websites haben. Laden Sie eine Seite einschließlich Skripten zur Aktivitätenverfolgung neu, damit der komplette Inhalte geladen wird.
+content-blocking-warning-learn-how = Weitere Informationen
+
 content-blocking-reload-description = Um die Änderungen anzuwenden, müssen alle Tabs neu geladen werden.
 content-blocking-reload-tabs-button =
     .label = Alle Tabs neu laden
@@ -752,6 +780,9 @@ content-blocking-reload-tabs-button =
 content-blocking-trackers-label =
     .label = Elemente zur Aktivitätenverfolgung
     .accesskey = E
+content-blocking-tracking-content-label =
+  .label = Inhalte zur Aktivitätenverfolgung
+  .accesskey = n
 content-blocking-tracking-protection-option-all-windows =
     .label = In allen Fenstern
     .accesskey = a

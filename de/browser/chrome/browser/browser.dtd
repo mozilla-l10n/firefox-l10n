@@ -147,6 +147,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Sie müssen Ihr Konto erst bestätigen, damit die Synchronisation gestart werden kann.">
 <!ENTITY fxa.unverified.button.label "Einstellungen für &syncBrand.shortName.label; öffnen…">
 
+<!ENTITY pictureInPictureHideToggle.label "Schalter für Bild-im-Bild (PiP) ausblenden">
+<!ENTITY pictureInPictureHideToggle.accesskey "B">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -161,6 +163,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Weiteres Gerät verbinden…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "Bei &brandProductName; anmelden">
+<!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; aktivieren">
+<!ENTITY fxa.menu.account.label "Konto">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName;-Dienste">
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Tab sofort an alle Geräte senden, auf denen Sie angemeldet sind.">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -258,6 +268,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Verwendung von DRM-geschützter Software verwalten">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI-Ansicht öffnen">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Sie haben dieser Website zusätzliche Berechtigungen erteilt.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Sie haben den Zugriff auf Ihre Kamera durch diese Website blockiert.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Sie haben den Zugriff auf Ihr Mikrofon durch diese Website blockiert.">
@@ -549,6 +560,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchWithDesc.label):
      This string prompts the user to use the list of one-click search engines in
      the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Einmalig suchen mit:">
 
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
@@ -823,13 +835,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Sichere Verbindung">
 <!ENTITY identity.connectionNotSecure "Verbindung ist nicht sicher">
 
+<!ENTITY identity.connectionSecure3 "Verbindung gesichert">
+<!ENTITY identity.connectionNotSecure2 "Verbindung nicht sicher">
+<!ENTITY identity.connectionNotSecureSecurityView "Sie kommunizieren mit dieser Seite über eine ungesicherte Verbindung.">
 <!ENTITY identity.connectionFile "Diese Seite ist auf Ihrem Computer gespeichert.">
 <!ENTITY identity.connectionVerified2 "Sie sind derzeit über eine gesicherte Verbindung mit dieser Website verbunden, welche betrieben wird von:">
+<!ENTITY identity.connectionVerified3 "Sie sind derzeit über eine gesicherte Verbindung mit dieser Website verbunden.">
 <!ENTITY identity.connectionInternal "Dies ist eine sichere &brandShortName;-Seite.">
 <!ENTITY identity.extensionPage "Diese Seite wurde durch eine Erweiterung bereitgestellt.">
 <!ENTITY identity.insecureLoginForms2 "Ihre Zugangsdaten könnten auf dieser Seite in falsche Hände geraten.">
 <!ENTITY identity.customRoot "Die Verbindung wurde durch eine Zertifizierungsstelle bestätigt, welche standardmäßig nicht von Mozilla anerkannt wird.">
 
+<!ENTITY identity.evOwnerLabel2 "Zertifikat ausgestellt für:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; hat nicht sichere Inhalte dieser Seite blockiert.">
@@ -864,24 +881,36 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Cookies und Website-Daten löschen…">
 
 <!ENTITY identity.permissions "Berechtigungen">
-
+<!ENTITY identity.permissions3 "Berechtigungen">
 <!ENTITY identity.permissionsEmpty "Der Website wurden keine besonderen Berechtigungen erteilt.">
 <!ENTITY identity.permissionsReloadHint "Eventuell muss die Seite neu geladen werden, um die Änderungen zu übernehmen.">
 <!ENTITY identity.permissionsPreferences.tooltip "Berechtigungs-Einstellungen öffnen">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Einstellungen zum Blockieren von Seitenelementen öffnen">
 
-
+<!ENTITY protections.etpON.header "Verbesserter Schutz vor Aktitivätenverfolgung ist für diese Website AKTIVIERT">
+<!ENTITY protections.etpOFF.header "Verbesserter Schutz vor Aktitivätenverfolgung ist für diese Website DEAKTIVIERT">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Weitere Informationen zum verbesserten Schutz vor Aktivitätenverfolgung">
+<!ENTITY protections.settings.label "Schutzmaßnahmen-Einstellungen">
+<!ENTITY protections.showreport.label "Bericht öffnen">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Funktioniert die Website nicht richtig?">
+<!ENTITY protections.siteNotWorkingView.title "Funktioniert die Website nicht richtig?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Deaktivieren Sie die Schutzmaßnahmen, falls es Probleme gibt mit:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Anmeldefeldern">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Formularen">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Zahlungen">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Kommentaren">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Videos">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Einen Bericht senden">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
      In the protections panel, Content Blocking category items are in three sections:
@@ -889,10 +918,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Blockiert">
+<!ENTITY protections.notBlocking2.label "Erlaubt">
+<!ENTITY protections.notFound.label "Nicht erkannt">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
+<!ENTITY protections.notBlocking.why.label "Warum?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Das Blockieren könnte Probleme mit Inhalten einiger Websites verursachen. Ohne Skripte zur Aktivitätenverfolgung funktionieren einige Schaltflächen, Formulare und Anmeldefelder vielleicht nicht.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Das Deaktivieren der Schutzmaßnahmen erlaubt Skripten, Ihre Aktivitäten auf dieser Website zu verfolgen. Weiterhin könnten Probleme mit der Website behoben sein.">
+<!ENTITY protections.socialMediaTrackers.label "Skripte zur Aktivitätenverfolgung durch soziale Netzwerke">
+<!ENTITY protections.crossSiteTrackingCookies.label "Cookies zur seitenübergreifenden Aktivitätenverfolgung">
+<!ENTITY protections.trackingContent.label "Inhalte zur Aktivitätenverfolgung">
+<!ENTITY protections.fingerprinters.label "Identifizierer (Fingerprinter)">
+<!ENTITY protections.cryptominers.label "Heimliche Digitalwährungsberechner (Krypto-Miner)">
+<!ENTITY protections.noTrackersFound.description "&brandShortName; erkannte keine Skripte zur Aktivitätenverfolgung auf dieser Seite.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Diese Cookies werden über viele Websites hinweg verwendet und sammeln Informationen über Ihre Online-Aktivitäten. Sie werden durch Drittanbieter wie Werbe- oder Analyseunternehmen gesetzt.">
+<!ENTITY protections.cryptominers.description "Heimliche Digitalwährungsberechner (Krypto-Miner) verwenden die Rechenleistung Ihres Computers, um digitales Geld zu berechnen. Die dabei verwendeten Skripte verursachen ein schnelles Absinken des Batterieladestands, verlangsamen den Computer und können die Energierechnung in die Höhe treiben.">
+<!ENTITY protections.fingerprinters.description "Identifizierer (Fingerprinter) sammeln Eigenschaften Ihres Browsers und Computers und erstellen daraus ein Profil. Mit diesem digitalen Fingerabdruck können diese Sie über Websites hinweg verfolgen.">
+<!ENTITY protections.trackingContent2.description "Websites können Werbung, Videos und andere Inhalte mit Skripten zur Aktivitätenverfolgung von anderen Websites laden. Das Blockieren von Inhalten zur Aktivitätenverfolgung ermöglicht es unter Umständen, dass Websites schneller laden, aber einige Schaltflächen, Formulare und Anmeldefelder funktionieren dann eventuell nicht richtig.">
+<!ENTITY protections.socialMediaTrackers.description "Auf anderen Websites eingebundene Elemente sozialer Netzwerke (z.B. zum Teilen von Inhalten) können Skripte enthalten, die verfolgen, was Sie online machen, angezeigt bekommen und sich anschauen. Dies ermöglicht den Unternehmen hinter den sozialen Netzwerken, mehr über Sie zu erfahren als allein durch die Inhalte, die Sie mit Ihrem Profil im sozialen Netzwerk teilen.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -932,7 +978,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.manageSettings.label "Blockieren von Seitenelementen verwalten">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Inhalte zur Aktivitätenverfolgung">
 
+<!ENTITY contentBlocking.manageSettings2.label "Schutzmaßnahmen-Einstellungen verwalten">
 <!ENTITY contentBlocking.manageSettings.accesskey "B">
 
 <!ENTITY contentBlocking.trackersView.label "Elemente zur Aktivitätenverfolgung">
@@ -941,8 +989,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies und Website-Daten">
 
+<!ENTITY contentBlocking.socialblock.label "Skripte zur Aktivitätenverfolgung durch soziale Netzwerke">
 
-
+<!ENTITY contentBlocking.cookies2.label "Cookies zur seitenübergreifenden Aktivitätenverfolgung">
 
 <!ENTITY contentBlocking.cryptominers.label "Heimliche Digitalwährungsberechner (Krypto-Miner)">
 <!ENTITY contentBlocking.cryptominersView.label "Heimliche Digitalwährungsberechner (Krypto-Miner)">
@@ -954,9 +1003,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Probleme melden">
 <!ENTITY contentBlocking.breakageReportView2.description "Das Blockieren von Seitenelementen kann bei einigen Websites zu Problemen führen. Wenn Sie Probleme melden, helfen Sie &brandShortName; für alle besser zu machen. (Dabei werden die Adresse sowie Informationen über Ihre Browsereinstellungen an Mozilla gesendet.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Weitere Informationen">
-
+<!ENTITY contentBlocking.breakageReportView.title "Problem mit Website melden">
+<!ENTITY contentBlocking.breakageReportView3.description "Das Blockieren bestimmter Skripte zur Aktivitätenverfolgung kann bei einigen Websites zu Problemen führen. Wenn Sie Probleme melden, helfen Sie &brandShortName; für alle besser zu machen. Beim Senden des Berichts werden eine Adresse sowie Informationen über Ihre Browser-Einstellungen an Mozilla gesendet.">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Weitere Informationen">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Adresse">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Welche Probleme traten bei Ihnen auf? (freiwillig)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Freiwillig: Beschreiben Sie das Problem.">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Bericht senden">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Abbrechen">
 
