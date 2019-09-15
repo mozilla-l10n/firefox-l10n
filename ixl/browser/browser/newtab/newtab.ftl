@@ -19,6 +19,7 @@ newtab-search-box-search-button =
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Ya'sakan
+newtab-topsites-save-button = Kola
 newtab-topsites-add-button = Aq'o'ke'
 
 ## Top Sites - Delete history confirmation dialog. 

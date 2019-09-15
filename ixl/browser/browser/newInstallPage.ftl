@@ -15,3 +15,4 @@ changed-desc-dedicated = Aq'al uva' oora kuxhtu' as b'a'n tatine' tul uva' la te
 lost = <b>Ye'xh kam kuxh umaj kam atz'eje'ta' ni kuxh ti' ib'anpu tuche'. </b> Asoj kolel ve't s-a'n tu Firefox tu ch'ich'a vaa', at tele tu uma't kam uva' kat oksal kat ok tu Firefox.
 options-title = Kam la uch unb'anata'?
 sync-button = Yakeb'en
+sync-learn = Ootzi ka'te

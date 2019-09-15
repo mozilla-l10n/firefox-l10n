@@ -10,6 +10,9 @@ site-data-column-cookies =
 site-data-button-cancel =
     .label = Ya'sakan
     .accesskey = C
+site-data-button-save =
+    .label = K'ol unq'a vee' b'anel tu ve't a'n
+    .accesskey = a
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")

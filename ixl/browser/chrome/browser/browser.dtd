@@ -260,6 +260,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   "Pocket" is a brand name. -->
 
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.label            "Jup u U'uje' Eche' uva'…">
 <!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
@@ -341,6 +342,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.learnMore "Ootzi ka'te">
 
 
 
@@ -396,7 +398,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY contentBlocking.breakageReportView.learnMore "Ootzi ka'te">
 
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Ootzi ka'te">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Ya'sakan">
 
