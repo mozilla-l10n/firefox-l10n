@@ -142,3 +142,16 @@ cfr-doorhanger-firefox-send-header = Dalintis šiuo PDF saugiai
 cfr-doorhanger-firefox-send-body = Laikykite savo svarbius failus saugiai, naudodamiesi ištisiniu šifravimu ir gaudami saitą, kuris išnyksta po nustato laiko.
 cfr-doorhanger-firefox-send-ok-button = Išbandyti „{ -send-brand-name }“
     .accesskey = b
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Peržiūrėti apsaugas
+    .accesskey = p
+cfr-doorhanger-socialtracking-close-button = Užverti
+    .accesskey = U
+cfr-doorhanger-socialtracking-heading = „{ -brand-short-name }“ neleido socialiniam tinklui čia jūsų sekti
+cfr-doorhanger-socialtracking-description = Jūsų privatumas yra svarbus. „{ -brand-short-name }“ jau blokuoja dažniausius socialinių tinklų stebėjimo elementus, taip ribojant, kiek duomenų jie gali surinkti apie jūsų naršymo veiklą.
+cfr-doorhanger-fingerprinters-heading = „{ -brand-short-name }“ šioje svetainėje užblokavo skaitmeninių atspaudų stebėjimo elementą
+cfr-doorhanger-fingerprinters-description = Jūsų privatumas yra svarbus. „{ -brand-short-name }“ jau blokuoja skaitmeninių atspaudų stebėjimo elementus, kurie renka jūsų įrenginį identifikuoti leidžiančią informaciją, kad galėtų jus sekti.
+cfr-doorhanger-cryptominers-heading = „{ -brand-short-name }“ šioje svetainėje užblokavo kriptovaliutų kasėją
+cfr-doorhanger-cryptominers-description = Jūsų privatumas yra svarbus. „{ -brand-short-name }“ jau blokuoja kriptovaliutų kasėjus, kurie naudoja jūsų sistemos resursus skaitmeninių pinigų kasimui.
