@@ -81,6 +81,7 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = מה חדש
 cfr-whatsnew-release-notes-link-text = קריאת הערור השחרור
 cfr-whatsnew-fx70-title = { -brand-short-name } כעת נלחם יותר למען הפרטיות שלך
+cfr-whatsnew-fx70-body = העדכון האחרון משפר את תכונת הגנת המעקב והופך את האפשרות ליצור ססמאות מאובטחות לכל אתר קלה מאי פעם.
 cfr-whatsnew-tracking-protect-link-text = הצגת הדוח שלך
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
