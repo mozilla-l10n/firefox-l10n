@@ -14,6 +14,17 @@ cert-error-trust-self-signed = चार्टिफिकेटा फोथा
 cert-error-untrusted-default = चार्टिफिकेटआ मोनसे फोथायथाव फुंखा निफ्राय फैया।
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
+cert-error-domain-mismatch = वेबसाइट आ गावनि सिनायथिखौ चार्टिफिकेटनि जोहै खालामो | { -brand-short-name } आ बे साइतखौ फोथाया मानोना बेनि चार्टिफिकेटआ { $hostname }नि थाखाय जुक्टि गैयै (not valid) |
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = वेबसाइट आ गावनि सिनायथिखौ चार्टिफिकेटनि जोहै खालामो | { -brand-short-name } आ बे साइतखौ फोथाया मानोना बेनि चार्टिफिकेटआ { $hostname }नि थाखाय जुक्टि गैयै (not valid) | बे चार्टिफिकेटआ <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>नि थाखायल' जुक्टि गोनां |
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = वेबसाइट आ गावनि सिनायथिखौ चार्टिफिकेटनि जोहै खालामो | { -brand-short-name } आ बे साइतखौ फोथाया मानोना बेनि चार्टिफिकेटआ { $hostname }नि थाखाय बाहाय जाथाव नङा (not valid) | बे चार्टिफिकेटआ { $alt-name }नि थाखायल' बाहाय जाथाव |
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
 cert-error-expired-now = वेबसाइत आ गावसोरनि सिनायथिखौ सार्तिफिकेत नि जोहै खालामो जायफोर मोनसे थि समनि थाखायल' | { $hostname } नि सार्तिफिकेत आ { $not-after-local-time } निफ्रायनो गनायजाला
 # Variables:
