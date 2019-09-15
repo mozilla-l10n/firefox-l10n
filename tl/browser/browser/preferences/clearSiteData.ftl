@@ -5,7 +5,7 @@
 clear-site-data-window =
     .title = Burahin ang mga Datus
     .style = width: 35em
-clear-site-data-description = Ang pagbura ng cookies at site data na nilagay ng { -brand-short-name } ay maaring makapag-sign out sayo sa mga websites at matanggal ang offline web content. Ang pagbubura ng cache data ay hindi makakaapekto sa iyong logins.
+clear-site-data-description = Ang pagbura ng mga cookie at site data na nilagay ng { -brand-short-name } ay maaaring makapag-sign out sa iyo sa mga website at matanggal ang offline web content. Ang pagbubura ng cache data ay hindi makakaapekto sa iyong mga login.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage

@@ -7,7 +7,7 @@
 
 site-data-settings-window =
     .title = I-manage ang mga Cookie at Site Data
-site-data-settings-description = Ang mga sumusunod na website ay nag-iimbak ng cookies at site data sa iyong computer. Ang { -brand-short-name } ay nagpapanatili ng data galing sa mga website na may persistent storage hanggang sa burahin ito, at nagbubura ito ng data galing sa mga website na may non-persistent storage kapag nangangailangan ng space.
+site-data-settings-description = Ang mga sumusunod na website ay nag-iimbak ng mga cookie at site data sa iyong computer. Ang { -brand-short-name } ay nagpapanatili ng data galing sa mga website na may persistent storage hanggang sa burahin ito, at nagbubura ito ng data galing sa mga website na may non-persistent storage kapag nangangailangan ng space.
 site-data-search-textbox =
     .placeholder = Maghanap ng mga website
     .accesskey = S

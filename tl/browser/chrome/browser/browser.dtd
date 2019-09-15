@@ -671,11 +671,11 @@ context menu items are mutually exclusive. -->
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Kopyahin ang Larawan">
 <!ENTITY copyImageContentsCmd.accesskey  "y">
-<!ENTITY copyVideoURLCmd.label        "Kopyahin ang lokasyon ng video">
+<!ENTITY copyVideoURLCmd.label        "Kopyahin ang Lokasyon ng Video">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Kopyahin ang Lokasyon ng Audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "Kopyahin ang E-mail Address">
+<!ENTITY copyEmailCmd.label           "Kopyahin ang Email Address">
 <!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->

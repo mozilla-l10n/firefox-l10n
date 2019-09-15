@@ -16,7 +16,7 @@
 <!ENTITY warnings.accesskey "M">
 <!ENTITY messages.label     "Mga Mensahe">
 <!ENTITY messages.accesskey "M">
-<!ENTITY clear.label        "Linawin">
+<!ENTITY clear.label        "Burahin">
 <!ENTITY clear.accesskey    "C">
 <!ENTITY codeEval.label     "Code:">
 <!ENTITY codeEval.accesskey "o">
