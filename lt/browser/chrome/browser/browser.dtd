@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Meniu juosta">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Naršymo juosta">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Navigacija">
 <!ENTITY personalbarCmd.label "Adresyno juosta">
 <!ENTITY personalbarCmd.accesskey "A">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Adresynas">
 <!ENTITY bookmarksToolbarItem.label "Adresyno juostos elementai">
 
 <!ENTITY pageSourceCmd.label "Pirminis tekstas">
 <!ENTITY pageSourceCmd.accesskey "e">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Informacija apie tinklalapį">
 <!ENTITY pageInfoCmd.accesskey "I">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Išdėstymo derintuvė">
 <!ENTITY ldbCmd.accesskey "d">
@@ -116,6 +126,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Iš naujo jungtis prie „&syncBrand.shortName.label;“">
 <!ENTITY fxaUnverified.label "Patvirtinkite savo paskyrą">
 
+
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Suskleisti">
 <!ENTITY fullScreenRestore.tooltip "Normalioji veiksena">
@@ -145,6 +158,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Prisijungėte kaip">
 <!ENTITY fxa.menu.manageAccount.label "Tvarkyti paskyrą…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "„&syncBrand.shortName.label;“ nuostatos…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Susieti kitą įrenginį…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -195,6 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Adresynas">
 <!ENTITY bookmarksMenu.accesskey "A">
+
 <!ENTITY bookmarkThisPageCmd.label "Įrašyti į adresyną">
 <!ENTITY editThisBookmarkCmd.label "Taisyti adresyno įrašą">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -510,6 +528,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Paieškos užklausa">
+
 <!ENTITY contentSearchSubmit.tooltip  "Išsiųsti paiešką">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -972,6 +991,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Slapukai">
 <!ENTITY contentBlocking.cookiesView.label "Slapukai ir svetainių duomenys">
 
+
 <!ENTITY contentBlocking.socialblock.label "Socialinių tinklų stebėjimo elementai">
 
 <!ENTITY contentBlocking.cookies2.label "Tarp svetainių veikiantys stebėjimo slapukai">
@@ -986,6 +1006,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Pranešti apie problemas">
 <!ENTITY contentBlocking.breakageReportView2.description "Turinio blokavimas gali sutrikdyti kai kurių svetainių veikimą. Pranešdami apie problemas, padėsite tobulinti „&brandShortName;“. „Mozillai“ bus perduodamas svetainės adresas bei informacija apie jūsų naršyklės nuostatas.">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Sužinoti daugiau">
+
 <!ENTITY contentBlocking.breakageReportView.title "Pranešti apie neveikiančią svetainę">
 <!ENTITY contentBlocking.breakageReportView3.description "Stebėjimo elementų blokavimas gali sutrikdyti kai kurių svetainių veikimą. Pranešdami apie problemas, padėsite tobulinti „&brandShortName;“. Išsiuntus šį pranešimą, „Mozillai“ bus perduotas svetainės adresas bei informacija apie jūsų naršyklės nuostatas.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Sužinoti daugiau">
@@ -1041,6 +1062,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "I">
 
 <!ENTITY homepageControlled.message "Kažkuris priedas pakeitė tai, ką matote kaip savo pradžios tinklalapį. Jei nenorite šio pakeitimo, galite atkurti savo nuostatas.">
+
 <!ENTITY homepageControlled.header.message "Pasikeitė jūsų pradžios tinklalapis.">
 <!ENTITY homepageControlled.keepButton.label "Palikti pakeitimus">
 <!ENTITY homepageControlled.keepButton.accesskey "k">

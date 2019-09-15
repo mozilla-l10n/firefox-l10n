@@ -736,8 +736,8 @@ content-blocking-learn-more = Sužinoti daugiau
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
-    .label = Standartinis
-    .accesskey = d
+    .label = Numatytasis
+    .accesskey = N
 content-blocking-setting-strict =
     .label = Griežtas
     .accesskey = r
@@ -749,6 +749,23 @@ content-blocking-strict-description = Stipresnė apsauga, tačiau gali sutrikti 
 content-blocking-custom-desc = Pasirinkite, ką blokuoti.
 content-blocking-private-trackers = Žinomi stebėjimo elementai tik privačiojo naršymo languose
 content-blocking-third-party-cookies = Trečiųjų šalių stebėjimo slapukai
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Numatytoji
+    .accesskey = N
+enhanced-tracking-protection-setting-strict =
+    .label = Griežta
+    .accesskey = G
+enhanced-tracking-protection-setting-custom =
+    .label = Pasirinktinė
+    .accesskey = P
+
+
+
 content-blocking-etp-standard-desc = Subalansuota apsaugai ir našumui. Tinklalapiai bus įkeliami įprastai.
 content-blocking-etp-strict-desc = Stipresnė apsauga, tačiau gali sutrikti kai kurių svetainių veikimas.
 content-blocking-etp-custom-desc = Pasirinkite, kurios stebėjimo elementus ir scenarijus norite blokuoti.
