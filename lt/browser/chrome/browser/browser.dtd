@@ -991,6 +991,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Slapukai">
 <!ENTITY contentBlocking.cookiesView.label "Slapukai ir svetainių duomenys">
 
+<!ENTITY contentBlocking.manageSettings2.accesskey "T">
 
 <!ENTITY contentBlocking.socialblock.label "Socialinių tinklų stebėjimo elementai">
 

@@ -23,7 +23,7 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Parinktas <b>standartinis</b> apsaugos lygmuo
+protection-header-details-standard = Parinktas <b>numatytasis</b> apsaugos lygmuo
 protection-header-details-strict = Parinktas <b>griežtas</b> apsaugos lygmuo
 protection-header-details-custom = Parinktas <b>tinkintas</b> apsaugos lygmuo
 protection-report-page-title = Privatumo apsaugos
