@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Паліца меню">
 <!ENTITY menubarCmd.accesskey "П">
 <!ENTITY navbarCmd.label "Паліца з прыладамі навігацыі">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Навігацыя">
 <!ENTITY personalbarCmd.label "Паліца закладак">
 <!ENTITY personalbarCmd.accesskey "з">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Закладкі">
 <!ENTITY bookmarksToolbarItem.label "Элементы паліцы закладак">
 
 <!ENTITY pageSourceCmd.label "Зыходны код старонкі">
 <!ENTITY pageSourceCmd.accesskey "ы">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Звесткі пра старонку">
 <!ENTITY pageInfoCmd.accesskey "З">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Адладчык макета">
 <!ENTITY ldbCmd.accesskey "А">
@@ -116,6 +126,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Перазлучыцца з &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Пацвердзіце свой уліковы запіс">
 
+
+ <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Мінімізаваць">
 <!ENTITY fullScreenRestore.tooltip "Аднавіць">
@@ -145,6 +157,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Увайшоўшы як">
 <!ENTITY fxa.menu.manageAccount.label "Кіраванне ўліковым запісам…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "Налады &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Злучыць іншую прыладу…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -195,6 +211,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Закладкі">
 <!ENTITY bookmarksMenu.accesskey "З">
+
 <!ENTITY bookmarkThisPageCmd.label "Дадаць закладку на старонку">
 <!ENTITY editThisBookmarkCmd.label "Правіць гэтую закладку">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -236,6 +253,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Кіраваць выкарыстаннем плагіна">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Змяніць магчымасць атрымліваць абвесткі з гэтага сайта">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Захоўваць звесткі ў Сталым Сховішчы (Persistent Storage)">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Браўзер знаходзіцца пад аддаленым кіраваннем">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Адкрыць панэль вэб-аўтарызацыі">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Адкрыць панэль дазволу дзеянняў аглядання">
@@ -249,6 +267,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Кіраваць перакладам старонкі">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Кіраваць ужываннем DRM-праграм">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Адкрыць панэль MIDI">
+
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Вы заблакавалі сваю камеру на гэтым вэб-сайце.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Вы заблакавалі свой мікрафон на гэтым вэб-сайце.">
@@ -508,6 +527,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Пошукавы запыт">
+
 <!ENTITY contentSearchSubmit.tooltip  "Даслаць запыт">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -812,13 +832,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Злучэнне">
 <!ENTITY identity.connectionSecure "Бяспечнае злучэнне">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Бяспека злучэння">
-
-<!ENTITY identity.connectionSecure2 "Бяспечнае злучэнне">
 <!ENTITY identity.connectionNotSecure "Небяспечнае злучэнне">
+
 <!ENTITY identity.connectionNotSecureSecurityView "Вы не злучаны бяспечна з гэтым сайтам.">
 <!ENTITY identity.connectionFile "Гэта старонка захоўваецца на вашым камп'ютары.">
 <!ENTITY identity.connectionVerified2 "Вы бяспечна злучаны з гэтым сайтам, якім валодае:">
@@ -828,7 +843,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Лагіны, уведзеныя на гэтай старонцы, могуць быць скампраметаваны.">
 <!ENTITY identity.customRoot "Падключэнне пацверджана сертыфікатам эмітэнта, які не прызнаны Mozilla.">
 
-<!ENTITY identity.evOwnerLabel "Сайт належыць:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; заблакаваў небяспечныя часткі старонкі.">
@@ -864,8 +878,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Дазволы">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Устаноўленыя дазволы">
 <!ENTITY identity.permissionsEmpty "Вы не давалі гэтаму сайту ніякіх адмысловых дазволаў.">
 <!ENTITY identity.permissionsReloadHint "Магчыма, вам спатрэбіцца перазагрузіць старонку, каб змены пачалі дзейнічаць.">
 <!ENTITY identity.permissionsPreferences.tooltip "Адкрыць налады дазволаў">
@@ -878,7 +890,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Больш падрабязна пра ўзмоцненую ахову ад сачэння">
 <!ENTITY protections.settings.label "Налады аховы">
-<!ENTITY protections.report.label "Паказаць поўную справаздачу">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -895,11 +906,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Плацяжамі">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Каментарыі">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Відэа">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Сайт усё яшчэ не працуе пасля адключэння аховы?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Даслаць справаздачу">
 
-<!ENTITY protections.blocking.label "Блакаванне">
-<!ENTITY protections.notBlocking.label "Без блакавання">
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Чаму?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Блакаванне іх можа парушыць часткі некаторых вэб-сайтаў. Без трэкераў некаторыя кнопкі, формы і палі для ўваходу могуць не працаваць.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Адключэнне аховы дазволіць усе трэкеры на гэтым сайце. Гэта таксама можа палепшыць некаторыя функцыі сайта.">
@@ -913,7 +930,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Гэтыя кукі ідуць за вамі з сайта на сайт, каб сабраць звесткі пра тое, што вы робіце ў сеціве. Яны ўсталёўваюцца трэцімі бакамі, такімі як рэкламадаўцы і аналітычныя кампаніі.">
 <!ENTITY protections.cryptominers.description "Майнеры крыптавалют выкарыстоўваюць вылічальную магутнасць вашай сістэмы, каб здабываць лічбавыя грошы. Скрыпты для здабычы крыптавалют разраджаюць вашу батарэю, запавольваюць працу камп'ютара і могуць павялічыць ваш выдаткі на электраэнергію.">
 <!ENTITY protections.fingerprinters.description "Збіральнікі адбіткаў пальцаў збіраюць налады вашага браўзера і камп'ютара для стварэння вашага профілю. Выкарыстоўваючы гэты лічбавы адбітак, яны могуць асочваць вас на розных сайтах.">
-<!ENTITY protections.trackingContent.description "Вэб-сайты могуць загружаць вонкавую рэкламу, відэа і іншае змесціва, якое змяшчае код асочвання. Блакіроўка змесціва асочвання можа дапамагчы сайтам хутчэй загружацца, але некаторыя кнопкі, формы і палі ўваходу могуць не працаваць.">
 <!ENTITY protections.socialMediaTrackers.description "Сацыяльныя сеткі размяшчаюць трэкеры на іншых сайтах, каб сачыць за тым, што вы робіце, бачыце і глядзіце ў сеціве. Гэта дазваляе кампаніям сацыяльных сетак даведацца пра вас больш за тое, чым вы дзяліцеся ў сваіх профілях у сацыяльных сетках.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -960,11 +976,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings.accesskey "ь">
 
 <!ENTITY contentBlocking.trackersView.label "Трэкеры">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Каб блакаваць усе трэкеры, усталюйце блакаванне змесціва ў “Строгае”.">
 
 <!ENTITY contentBlocking.cookies.label "Кукі">
 <!ENTITY contentBlocking.cookiesView.label "Кукі і дадзеныя сайтаў">
+
 
 <!ENTITY contentBlocking.socialblock.label "Трэкеры сацыяльных сетак">
 
@@ -980,6 +996,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Паведаміць аб праблеме">
 <!ENTITY contentBlocking.breakageReportView2.description "Блакаванне змесціва можа выклікаць праблемы з некаторымі вэб-сайтамі. Калі вы паведамляеце аб праблеме, вы дапамагаеце зрабіць &brandShortName; лепшым для ўсіх. (Гэта дашле URL-адрас разам з інфармацыяй пра вашы налады браўзера ў Mozilla).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Даведацца больш">
+
 <!ENTITY contentBlocking.breakageReportView.title "Паведаміць пра пашкоджаны сайт">
 <!ENTITY contentBlocking.breakageReportView3.description "Блакаванне пэўных трэкераў можа выклікаць праблемы з некаторымі вэб-сайтамі. Паведамленне пра такія праблемы дапамагае зрабіць &brandShortName; лепшым для ўсіх. Адпраўка гэтай справаздачы дашле URL-адрас разам з інфармацыяй пра вашы налады браўзера ў Mozilla.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Даведацца больш">
@@ -1035,6 +1052,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "А">
 
 <!ENTITY homepageControlled.message "Пашырэнне змяніла вашу хатнюю старонку. Калі не хочаце гэтых змен, вы можаце аднавіць наладкі.">
+
 <!ENTITY homepageControlled.header.message "Ваша хатняя старонка зменена.">
 <!ENTITY homepageControlled.keepButton.label "Замацаваць змены">
 <!ENTITY homepageControlled.keepButton.accesskey "З">
