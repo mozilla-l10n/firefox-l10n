@@ -7,6 +7,8 @@ urlbar-identity-button =
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = ഇൻസ്റ്റാൾ മെസ്സേജ് പാനൽ തുറക്കുക
 urlbar-web-notification-anchor =
     .tooltiptext = സൈറ്റില്‍ നിന്നും അറിയിപ്പുകള്‍ ലഭിക്കുന്നതില്‍ മാറ്റം വരുത്തുക
 urlbar-eme-notification-anchor =
