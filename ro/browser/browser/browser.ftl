@@ -5,3 +5,9 @@
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-geolocation-notification-anchor =
+    .tooltiptext = Deschide panoul cu cereri de locație
+urlbar-translated-notification-anchor =
+    .tooltiptext = Gestionează traducerea paginii
+urlbar-plugins-notification-anchor =
+    .tooltiptext = Gestionează utilizarea pluginurilor
