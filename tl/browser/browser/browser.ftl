@@ -5,3 +5,5 @@
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-translate-notification-anchor =
+    .tooltiptext = Isalin ang pahina na ito
