@@ -23,14 +23,17 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Λογαριασμός">
 <!ENTITY firstrun_sync_message2 "Συνεχίστε από εκεί που σταματήσατε.">
+<!ENTITY firstrun_sync_message3 "Συγχρονίστε τους σελιδοδείκτες, το ιστορικό και τους κωδικούς πρόσβασής σας με το τηλέφωνό σας.">
 <!ENTITY firstrun_sync_subtext2 "Χρησιμοποιήστε το Sync για να βρείτε τους σελιδοδείκτες, τους κωδικούς πρόσβασης και άλλα στοιχεία που αποθηκεύετε στο &brandShortName;, σε όλες σας τις συσκευές.">
 <!ENTITY newfirstrun_sync_subtext "Συγχρονίστε τα δεδομένα που αποθηκεύετε στο κινητό με το Firefox για υπολογιστές, με ασφάλεια και απόρρητο.">
 <!ENTITY updatednewfirstrun_sync_subtext "Συνδεθείτε στο λογαριασμό σας για να αξιοποιήσετε στο έπακρο το &brandShortName;">
+<!ENTITY firstrun_sendtab_title "Αποστολή καρτέλας">
+<!ENTITY firstrun_sendtab_message "Αποστολή καρτελών από κινητό σε υπολογιστή — άμεσα.">
 <!ENTITY firstrun_signin_message "Συνδεθείτε και ξεκινήστε">
 <!ENTITY firstrun_signin_button "Είσοδος στο Sync">
 <!ENTITY newfirstrun_signin_button "Ενεργοποίηση Sync">
 <!ENTITY updatednewfirstrun_signin_button "Σύνδεση στο &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Έναρξη περιήγησης">
+<!ENTITY onboard_start_button_browser "Έναρξη περιήγησης">
 <!ENTITY firstrun_button_notnow "Όχι τώρα">
 <!ENTITY firstrun_button_next "Επόμενο">
 
