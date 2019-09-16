@@ -61,6 +61,9 @@ about-logins-login-list-empty-search-description = No hay resultados que coincid
 login-list-item-title-new-login = Nuevo inicio de sesión
 login-list-item-subtitle-new-login = Ingrese sus credenciales de inicio de sesión
 login-list-item-subtitle-missing-username = (sin nombre de usuario)
+about-logins-list-item-warning-icon =
+    .alt = Icono de advertencia
+    .title = Sitio web violado
 
 ## Introduction screen
 
@@ -79,8 +82,6 @@ login-item-origin-label = Dirección web
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nombre de usuario
-login-item-username =
-    .placeholder = nombre@example.com
 about-logins-login-item-username =
     .placeholder = (sin nombre de usuario)
 login-item-copy-username-button-text = Copiar
