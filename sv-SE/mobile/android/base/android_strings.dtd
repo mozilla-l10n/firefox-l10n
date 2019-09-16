@@ -23,14 +23,17 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Konto">
 <!ENTITY firstrun_sync_message2 "Fortsätt där du slutade.">
+<!ENTITY firstrun_sync_message3 "Synkronisera dina bokmärken, historik och lösenord till din telefon.">
 <!ENTITY firstrun_sync_subtext2 "Använd Sync för att hitta bokmärken, lösenord och andra saker som du sparar till &brandShortName; på alla dina enheter.">
 <!ENTITY newfirstrun_sync_subtext "Synkronisera de saker du sparar på mobilen till Firefox för datorer, privat och säkert.">
 <!ENTITY updatednewfirstrun_sync_subtext "Logga in på ditt konto för att få ut det mesta av &brandShortName;">
+<!ENTITY firstrun_sendtab_title "Skicka flik">
+<!ENTITY firstrun_sendtab_message "Dela flikar från mobil till datorn — direkt.">
 <!ENTITY firstrun_signin_message "Anslut och kom igång">
 <!ENTITY firstrun_signin_button "Logga in till Sync">
 <!ENTITY newfirstrun_signin_button "Aktivera Sync">
 <!ENTITY updatednewfirstrun_signin_button "Logga in på &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Börja surfa">
+<!ENTITY onboard_start_button_browser "Börja surfa">
 <!ENTITY firstrun_button_notnow "Inte just nu">
 <!ENTITY firstrun_button_next "Nästa">
 
