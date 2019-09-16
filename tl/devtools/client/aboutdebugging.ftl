@@ -38,7 +38,7 @@ aboutdebugging-sidebar-runtime-connection-status-disconnected = Hindi konektado
 about-debugging-sidebar-no-devices = Walang device na nakita
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
-about-debugging-sidebar-item-connect-button = Mag-connect
+about-debugging-sidebar-item-connect-button = Kumonekta
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
 about-debugging-sidebar-item-connect-button-connecting = Nagco-connect...
 # Text displayed in buttons found in sidebar items when the connection failed.
@@ -50,7 +50,7 @@ about-debugging-sidebar-item-connect-button-connection-not-responding = Nagkokon
 about-debugging-sidebar-item-connect-button-connection-timeout = Nag-time out ang connection
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
-about-debugging-sidebar-item-connected-label = Connected
+about-debugging-sidebar-item-connected-label = Konektado
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
@@ -87,7 +87,7 @@ about-debugging-setup-this-firefox = Gamitin ang <a>{ about-debugging-this-firef
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox2 = Gamitin ang <a>{ about-debugging-this-firefox-runtime-name }</a> para makapag-debug ng mga extension at service worker sa bersyong ito ng { -brand-shorter-name }.
 # Title of the heading Connect section of the Setup page.
-about-debugging-setup-connect-heading = Mag-connect ng Device
+about-debugging-setup-connect-heading = Magkonekta ng Device
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
 # Explanatory text displayed in the Setup page when USB debugging is disabled

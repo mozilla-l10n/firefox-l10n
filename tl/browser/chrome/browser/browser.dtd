@@ -163,7 +163,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "Mga &syncBrand.shortName.label; Setting…">
-<!ENTITY fxa.menu.connectAnotherDevice2.label "Ikonekta sa Ibang Device…">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Magkonekta ng Isa Pang Device…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Mag-sign in sa &brandProductName;">
@@ -448,7 +448,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "Pamahalaan ang mga Device...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Tingnan ang mga Naka-sync Tab Sidebar">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Itago ang Synced Tabs Sidebar">
-<!ENTITY appMenuRemoteTabs.connectdevice.label "Ikonekta ang Isa pang Device">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "Magkonekta ng Isa Pang Device">
 
 <!ENTITY appMenuRecentHighlights.label "Mga Nangunguna Kamakailan">
 

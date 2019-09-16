@@ -52,4 +52,4 @@ browser-languages-select-language =
     .placeholder = Pumili ng wika na idaragdag...
 browser-languages-installed-label = Mga wika na naka-install
 browser-languages-available-label = Mga wika
-browser-languages-error = { -brand-short-name } can’t update your languages right now. Check that you are connected to the internet or try again.
+browser-languages-error = Hindi kayang ma-update ng { -brand-short-name } ang mga wika mo sa ngayon. Siguruhing nakakonekta ka sa Internet at subukan uli.

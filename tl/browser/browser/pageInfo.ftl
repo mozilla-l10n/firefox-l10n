@@ -113,7 +113,7 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
-security-site-data-cookies = Oo, cookies at { $value } { $unit } ng site data
+security-site-data-cookies = Oo, mga cookie at { $value } { $unit } ng site data
 security-site-data-only = Oo, { $value } { $unit } ng site data
 security-site-data-cookies-only = Oo, mga cookie
 security-site-data-no = Hindi
@@ -125,8 +125,8 @@ media-img = Larawan
 media-bg-img = Background
 media-border-img = Gilid
 media-list-img = Punto
-media-cursor = Kursor
-media-object = Bagay
+media-cursor = Cursor
+media-object = Object
 media-embed = Embed
 media-link = Icon
 media-input = Input
@@ -219,7 +219,7 @@ media-file-size = { $size } KB
 # Variables:
 #   $website (string) - The website name
 media-block-image =
-    .label = Harangan ang mga larawan mula sa { $website }
+    .label = Harangin ang mga larawan mula sa { $website }
     .accesskey = B
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
