@@ -23,14 +23,17 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Konto">
 <!ENTITY firstrun_sync_message2 "Čińće tam dale, hdźež sće přestał.">
+<!ENTITY firstrun_sync_message3 "Synchronizujće swoje zapołožki, historiju a hesła na swojim telefonje.">
 <!ENTITY firstrun_sync_subtext2 "Wužiwajće Sync, zo byšće zapołožki, hesła a druhe wěcy namakał, kotrež w &brandShortName; na wšěch swojich gratach składujeće.">
 <!ENTITY newfirstrun_sync_subtext "Synchronizujće informacije, kotrež na mobilnym graće składujeće, z Firefox za desktop, priwatnje a wěsće.">
 <!ENTITY updatednewfirstrun_sync_subtext "Přizjewće so pola swojeho konta, zo byšće najlěpše z &brandShortName; wućahnył">
+<!ENTITY firstrun_sendtab_title "Rajtark słać">
+<!ENTITY firstrun_sendtab_message "Dźělće rajtarki mobilneho telefona z desktopom - hnydom.">
 <!ENTITY firstrun_signin_message "Zwjazajće so, započńće">
 <!ENTITY firstrun_signin_button "Pola Sync přizjewić">
 <!ENTITY newfirstrun_signin_button "Synchronizaciju zapinać">
 <!ENTITY updatednewfirstrun_signin_button "Pola &brandShortName; přizjewić">
-<!ENTITY  onboard_start_button_browser "Přehladowanje startować">
+<!ENTITY onboard_start_button_browser "Přehladowanje startować">
 <!ENTITY firstrun_button_notnow "Nic hnydom">
 <!ENTITY firstrun_button_next "Přichodny">
 
