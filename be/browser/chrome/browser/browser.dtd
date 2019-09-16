@@ -890,6 +890,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Больш падрабязна пра ўзмоцненую ахову ад сачэння">
 <!ENTITY protections.settings.label "Налады аховы">
+<!ENTITY protections.showreport.label "Паказаць справаздачу">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
