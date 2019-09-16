@@ -7,6 +7,8 @@ urlbar-identity-button =
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = Abrir panel de mensaje de instalación
 urlbar-web-notification-anchor =
     .tooltiptext = Cambiar si se reciben notificaciones del sitio
 urlbar-midi-notification-anchor =
@@ -23,12 +25,18 @@ urlbar-default-notification-anchor =
     .tooltiptext = Abrir panel de mensajes
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Abrir panel de solicitud de ubicación
+urlbar-storage-access-anchor =
+    .tooltiptext = Abrir el panel de permisos de actividad de navegación
+urlbar-translate-notification-anchor =
+    .tooltiptext = Traducir esta página
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Administrar compartir tus ventanas o pantalla con el sitio
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Abrir panel de mensajes de almacenamiento sin conexión
 urlbar-password-notification-anchor =
     .tooltiptext = Abrir panel de mensajes de contraseñas guardadas
+urlbar-translated-notification-anchor =
+    .tooltiptext = Administrar traducción de la página
 urlbar-plugins-notification-anchor =
     .tooltiptext = Administrar uso de plugins
 urlbar-web-rtc-share-devices-notification-anchor =
