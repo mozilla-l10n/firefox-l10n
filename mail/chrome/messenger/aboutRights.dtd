@@ -5,7 +5,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.title            "Πληροφορίες για τα δικαιώματά σας">
 <!ENTITY rights.intro-header     "Πληροφορίες για τα δικαιώματά σας">
-<!ENTITY rights.intro "Ο &brandFullName; είναι ελεύθερο λογισμικό ανοικτού κώδικα που δημιουργείται από μια κοινότητα χιλιάδων ατόμων από όλο τον κόσμο. Υπάρχουν μερικά πράγματα που πρέπει να γνωρίζετε:">
+<!ENTITY rights.intro "Το &brandFullName; είναι ένα ελεύθερο λογισμικό ανοικτού κώδικα που αναπτύσσεται από μια κοινότητα χιλιάδων ατόμων από όλο τον κόσμο. Υπάρχουν μερικά πράγματα που πρέπει να γνωρίζετε:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
