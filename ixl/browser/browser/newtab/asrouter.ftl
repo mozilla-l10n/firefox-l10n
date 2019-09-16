@@ -8,6 +8,8 @@
 
 
 
+cfr-doorhanger-extension-cancel-button = Jit Cheel
+    .accesskey = J
 cfr-doorhanger-extension-learn-more-link = Ootzi ka'te
 
 ## Add-on statistics
