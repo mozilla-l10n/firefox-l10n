@@ -33,9 +33,9 @@ preferences =
 tools-menu =
     .tooltiptext = Mga kagamitan para sa lahat ng mga add-on
 show-unsigned-extensions-button =
-    .label = Ang ibang extensions ay hindi kayang ma-verify
+    .label = Ang ibang mga extension ay hindi kayang ma-verify
 show-all-extensions-button =
-    .label = Ipakita ang lahat ng extensions
+    .label = Ipakita ang lahat ng mga extension
 debug-addons =
     .label = I-debug ang mga Add-on
     .accesskey = B
@@ -147,10 +147,10 @@ disabled-unsigned-description = Ang mga sumusunod na add-on ay hindi na-verify p
 disabled-unsigned-learn-more = Matuto pa sa ukol sa aming mga hakbang para maprotektahan ka online.
 disabled-unsigned-devinfo = Ang developers na interesadong mapa-verify ang add-on nila ay pwedeng tumuloy sa pagbasa ng aming <label data-l10n-name="learn-more">manwal</label>.
 plugin-deprecation-description = May hindi ka mahanap? Ang ibang plugin ay di na suportado ng { -brand-short-name }. <label data-l10n-name="learn-more">Matuto pa.</label>
-legacy-warning-show-legacy = Ipakita ang mga extension ng legacy
+legacy-warning-show-legacy = Ipakita ang mga legacy extension
 legacy-extensions =
-    .value = Mga Extension ng Legacy
-legacy-extensions-description = Ang mga extension na ito ay hindi nakakatugon sa kasalukuyang { -brand-short-name } Mga pamantayan upang ma-deactivate ang mga ito. <label data-l10n-name="legacy-learn-more">Alamin ang tungkol sa mga pagbabago sa mga add-on</label>
+    .value = Mga Legacy Extension
+legacy-extensions-description = Ang mga extension na ito ay hindi nakatutugon sa kasalukuyang pamantayan ng { -brand-short-name } kung kaya't na-deactivate ang mga ito. <label data-l10n-name="legacy-learn-more">Alamin ang tungkol sa mga pagbabago sa mga add-on</label>
 private-browsing-description2 = Binabago na ng { -brand-short-name } kung paano gumagana ang mga extension sa pribadong pag-browse. Ang mga bagong extension na idinagdag mo sa { -brand-short-name } ay hindi kusang tatakbo sa mga Private Window. Maliban na lang kung payagan mo sa mga setting, hindi gagana ang extension habang nagba-browse nang pribado, at wala itong makukuhang impormasyon sa mga gawain mo online. Ginawa namin itong pagbabagong ito para mapanatiling pribado ang iyong pag-browse nang pribado. <label data-l10n-name="private-browsing-learn-more">Alamin kung paano i-manage ang mga extension setting</label>
 extensions-view-discopane =
     .name = Mga Mungkahi

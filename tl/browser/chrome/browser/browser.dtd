@@ -41,7 +41,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  undoCloseTab.label                 "Buksang Muli ang Isinarang Tab">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  hiddenTabs.label                   "Mga Tinagong Tab">
+<!ENTITY  hiddenTabs.label                   "Mga Nakatagong Tab">
 
 <!ENTITY  listAllTabs.label      "Ilista ang lahat ng mga tabs">
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
@@ -111,7 +111,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Pasukin ang Full Screen">
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "Lumabas sa pagka-Full Screen">
+<!ENTITY exitFullScreenCmd.label "Umalis sa Full Screen">
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "Buong Screen">
 <!ENTITY fullScreenCmd.accesskey "B">
@@ -811,7 +811,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Hanapin sa web page na ito…">
+<!ENTITY findOnCmd.label     "Hanapin sa Pahinang Ito…">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Ipahanap Ulit">
@@ -871,7 +871,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded2 "Ang impormasyon na ibinabahagi mo sa site na ito ay maaaring makita ng iba (tulad ng mga password, mensahe, credit card, atbp.).">
 <!ENTITY identity.description.customRoot "Hindi kilala ng Mozilla ang certificate issuer na ito. Maaari itong nadagdag sa iyong operating system o ng isang administrator.">
 
-<!ENTITY identity.enableMixedContentBlocking.label "Paganahin ang proteksyon ">
+<!ENTITY identity.enableMixedContentBlocking.label "Paganahin ang proteksyon">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "Huwag paganahin ang proteksyon sa ngayon">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">

@@ -276,11 +276,11 @@ about-debugging-worker-action-start2 = Start
 about-debugging-worker-action-unregister = I-unregister
 # Displayed for service workers in runtime pages that listen to Fetch events.
 about-debugging-worker-fetch-listening =
-    .label = Fetch
+    .label = Kunin
     .value = Nakikinig sa mga fetch event
 # Displayed for service workers in runtime pages that do not listen to Fetch events.
 about-debugging-worker-fetch-not-listening =
-    .label = Fetch
+    .label = Kunin
     .value = Hindi nakikinig sa mga fetch event
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
