@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Połna wobrazowka
     .accesskey = P
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Wšě rajtarki pokazać
@@ -212,6 +212,9 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Pola { -sync-brand-short-name } přizjewić…
     .accesskey = P
+menu-tools-turn-on-sync =
+    .label = { -sync-brand-short-name } zmóžnić
+    .accesskey = m
 menu-tools-sync-now =
     .label = Nětko synchronizować
     .accesskey = N

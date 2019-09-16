@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Synchronizowane rajtarki
 synced-tabs-sidebar-noclients-subtitle = Chceće tu swoje rajtarki z druhich gratow widźeć?
 synced-tabs-sidebar-notsignedin = Přizjewće so, zo byšće sej lisćinu rajtarkow ze swojich druhich gratow wobhladał.
+synced-tabs-sidebar-intro = Wobhladajće sej lisćinu rajtarkow ze swojich gratow.
 synced-tabs-sidebar-unverified = Waše konto dyrbi so wobkrućić.
 synced-tabs-sidebar-notabs = Žane wočinjene rajtarki
 synced-tabs-sidebar-openprefs = Nastajenja { -sync-brand-short-name } wočinić
@@ -37,3 +38,4 @@ synced-tabs-context-manage-devices =
     .label = Graty rjadować…
     .accesskey = G
 fxa-sign-in = Pola { -sync-brand-short-name } přizjewić
+turn-on-sync = { -sync-brand-short-name } zmóžnić

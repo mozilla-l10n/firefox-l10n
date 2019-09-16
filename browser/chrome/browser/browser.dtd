@@ -254,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Wužiwanje tykačow rjadować">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Změńće, hač móžeće zdźělenki wot sydła přijeć">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Daty w trajnym składowaku składować">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Wobhladowak so zdaloka wodźi">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Wobłuk webawtentifikacije wočinić">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Dialog za prawa přehladowanskeje aktiwity wočinić">
@@ -439,8 +440,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Chceće tu swoje rajtarki z druhich gratow widźeć?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Synchronizowanske nastajenja wočinić">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Přizjewće so, zo byšće sej lisćinu rajtarkow ze swojich druhich gratow wobhladał.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Wobhladajće sej lisćinu rajtarkow ze swojich gratow.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Waše konto dyrbi so wobkrućić.">
 <!ENTITY appMenuRemoteTabs.signin.label "Pola Sync přizjewić">
+<!ENTITY appMenuRemoteTabs.signintosync.label "So pola &syncBrand.shortName.label; přizjewić…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "&syncBrand.shortName.label; zmóžnić…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Graty zrjadować…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Bóčnicu synchronizowanych rajtarkow pokazać">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Bóčnicu synchronizowanych rajtarkow schować">
