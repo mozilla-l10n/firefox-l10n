@@ -2,6 +2,38 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+urlbar-identity-button =
+    .aria-label = نمایش اطلاعات سایت
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = باز کردن تابلو پیام‌های نصب
+urlbar-web-notification-anchor =
+    .tooltiptext = اینکه آیا می‌توانید از این سایت اعلان دریافت کنید یا خیر را تغییر دهید
+urlbar-eme-notification-anchor =
+    .tooltiptext = مدیریت استفاده از نرم‌افزار‌های DRM
+urlbar-web-rtc-share-microphone-notification-anchor =
+    .tooltiptext = مدیریت به‌اشتراک‌گذاری میکروفن با این پایگاه
+urlbar-default-notification-anchor =
+    .tooltiptext = باز کردن تابلو پیام‌ها
+urlbar-geolocation-notification-anchor =
+    .tooltiptext = باز کردن تابلوی درخواستِ مکان
+urlbar-translate-notification-anchor =
+    .tooltiptext = ترجمه این صفحه
+urlbar-web-rtc-share-screen-notification-anchor =
+    .tooltiptext = مدیریت به اشتراک‌گذاری پنجره یا صفحه خود با پایگاه
+urlbar-indexed-db-notification-anchor =
+    .tooltiptext = باز کردن تابلو ذخیرهٔ برون‌خط
+urlbar-password-notification-anchor =
+    .tooltiptext = باز کردن تابلو پیام‌های ذخیره گذواژه
+urlbar-translated-notification-anchor =
+    .tooltiptext = مدیریت صفحه ترجمه
+urlbar-plugins-notification-anchor =
+    .tooltiptext = مدیریت استفاده از افزونه
+urlbar-web-rtc-share-devices-notification-anchor =
+    .tooltiptext = مدیریت اینکه آیا دوربین و/یا میکروفون خود را با این سایت به اشتراک می‌گذارید یا خیر
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = ذخیره اطلاعات به صورت ذخیره دائمی
+urlbar-addons-notification-anchor =
+    .tooltiptext = باز کردن تابلو پیام‌های نصب افزودنی‌ها
