@@ -61,6 +61,9 @@ about-logins-login-list-empty-search-description = Det finns inga resultat som m
 login-list-item-title-new-login = Ny inloggning
 login-list-item-subtitle-new-login = Ange dina inloggningsuppgifter
 login-list-item-subtitle-missing-username = (inget användarnamn)
+about-logins-list-item-warning-icon =
+    .alt = Varningsikon
+    .title = Webbplats med dataintrång
 
 ## Introduction screen
 
@@ -79,8 +82,6 @@ login-item-origin-label = Webbadress
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Användarnamn
-login-item-username =
-    .placeholder = name@example.com
 about-logins-login-item-username =
     .placeholder = (Inget användarnamn)
 login-item-copy-username-button-text = Kopiera
