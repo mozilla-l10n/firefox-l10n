@@ -86,11 +86,11 @@ detail-update-default =
     .label = Default
     .tooltiptext = Awtomatikong mag-install ng updates
 detail-update-automatic =
-    .label = I-on
-    .tooltiptext = Awtomatikong pag-install ng mga updates
+    .label = Nakabukas
+    .tooltiptext = Kusang magkabit ng mga update
 detail-update-manual =
-    .label = I-off
-    .tooltiptext = Hindi awtomatikong naiinstall updates
+    .label = Nakasara
+    .tooltiptext = Huwag kusang magkabit ng mga update
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Patakbuhin sa mga Private Window
 detail-private-browsing-description2 = Kapag pinayagan, ang extension ay magkakaroon ng access sa iyong mga online activity habang nasa private browsing. <label data-l10n-name="detail-private-browsing-learn-more">Alamin</label>

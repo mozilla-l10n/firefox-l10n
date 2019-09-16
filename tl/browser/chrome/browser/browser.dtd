@@ -433,7 +433,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Ipakita ang lahat ng mga tab mula sa device na ito">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "I-on ang pag-sync ng tab upang tingnan ang isang listahan ng mga tab mula sa iyong iba pang mga device.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Buksan ang pag-sync ng tab upang makita ang listahan ng mga tab mula sa iba mo pang mga device.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
@@ -1024,12 +1024,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock5.label "Patayin ang paghaharang sa site na ito">
+<!ENTITY trackingProtection.unblock5.label "Isara ang Pagharang sa Site na Ito">
 <!ENTITY trackingProtection.unblock5.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate5.label "Patayin pansamantala ang paghaharang">
+<!ENTITY trackingProtection.unblockPrivate5.label "Pansamantalang Isara ang Pagharang">
 <!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
 <!ENTITY trackingProtection.block6.label "Buksan ang Blocking para sa Site na Ito">
 <!ENTITY trackingProtection.block6.accesskey "T">

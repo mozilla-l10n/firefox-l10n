@@ -54,7 +54,7 @@ update. Hindi maaaring ma-update ang &brandShortName; dahil:">
 <!ENTITY  genericBackgroundError.label    "Ang &brandShortName; ay hindi maaaring tukuyin kung may magagamit na update. Mangyaring
                                            siguraduhin na mayroon kang pinakabagong bersyon ng &brandShortName; mula sa:">
                                            
-<!ENTITY  finishedPage.title              "Handa nang Ma-install ang Update">
+<!ENTITY  finishedPage.title              "Handa nang Maikabit ang Update">
 <!ENTITY  finishedPage.text               "Ang update ay maiinstall sa sunod na patakbuhin mo ang &brandShortName;. Ikaw ay maaaring mag-restart sa &brandShortName; ngayon, o magpatuloy na magtrabaho at mag-restart mamaya.">
 
 <!ENTITY  finishedBackgroundPage.text     "Ang update para sa seguridad at stabilidad ng &brandShortName; ay 

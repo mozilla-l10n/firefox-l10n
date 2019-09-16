@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = I-update ang Kasaysayan
-history-intro = Ang mga sumusunod na update ay na-install na
+history-intro = Ang mga sumusunod na update ay naikabit na
 close-button-label =
     .buttonlabelcancel = Isara
     .title = I-update ang Kasaysayan
-no-updates-label = Wala pang updates na naka-install
+no-updates-label = Wala pang mga update na naikabit
 name-header = Pangalan ng Update
-date-header = Petsa ng pag-Install
+date-header = Petsa ng Pagkabit
 type-header = Uri
 state-header = Estado
 # Used to display update history
@@ -19,5 +19,5 @@ state-header = Estado
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
 update-details = Mga detalye
-update-installed-on = Na-install noong: { $date }
+update-installed-on = Ikinabit noong: { $date }
 update-status = Estado: { $status }

@@ -57,7 +57,7 @@ policy-ExtensionSettings = I-manage ang lahat ng aspeto ng pag-install ng mga ex
 policy-ExtensionUpdate = I-enable o i-disable ang awtomatikong pag-update ng mga extension.
 policy-FirefoxHome = I-configure ang Firefox Home.
 policy-FlashPlugin = Payagan o pagbawalan ang paggamit ng Flash plugin.
-policy-HardwareAcceleration = Kapag mali, patayin and hardware acceleration.
+policy-HardwareAcceleration = Kung false, isara ang hardware acceleration.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = I-set at i-lock (optional) ang homepage.
 policy-InstallAddonsPermission = Payagan ang ilang mga website na magkabit ng mga add-on.

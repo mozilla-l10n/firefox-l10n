@@ -52,12 +52,12 @@
 <!ENTITY addon.undoAction.label               "i-Undo">
 <!ENTITY addon.undoAction.tooltip             "I-undo ang aksyong ito">
 <!ENTITY addon.undoRemove.label               "i-Undo">
-<!ENTITY addon.undoRemove.tooltip             "Hayaang naka-install ang add-on na ito">
+<!ENTITY addon.undoRemove.tooltip             "Hayaang nakakabit ang add-on na ito">
 
 <!ENTITY addon.install.label                  "Mag-install">
-<!ENTITY addon.install.tooltip                "I-install itong add-on">
+<!ENTITY addon.install.tooltip                "Ikabit itong add-on">
 <!ENTITY addon.updateNow.label                "I-update Ngayon">
-<!ENTITY addon.updateNow.tooltip              "Mag-install ng update para sa add-on na ito">
+<!ENTITY addon.updateNow.tooltip              "Ikabit ang update para sa add-on na ito">
 <!ENTITY addon.includeUpdate.label            "Isama sa update">
 <!ENTITY addon.updateAvailable.label          "May update na available">
 <!ENTITY addon.checkingForUpdates.label       "Naghahanap ng mga update…">
