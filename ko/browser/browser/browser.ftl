@@ -41,5 +41,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = 사이트에서 카메라와 마이크를 사용할지 관리
 urlbar-autoplay-notification-anchor =
     .tooltiptext = 자동재생 패널 열기
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = 영구 저장소에 데이터를 저장
 urlbar-addons-notification-anchor =
     .tooltiptext = 부가기능 설치 메시지 패널 열기
