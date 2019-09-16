@@ -79,6 +79,7 @@ when there are no windows but Firefox is still running. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Πλοήγηση">
 <!ENTITY personalbarCmd.label "Γραμμή σελιδοδεικτών">
 <!ENTITY personalbarCmd.accesskey "γ">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
@@ -126,7 +127,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Επαλήθευση του λογαριασμού σας">
 
 
- <!-- } is above this key on many keyboards -->
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Ελαχιστοποίηση">
 <!ENTITY fullScreenRestore.tooltip "Επαναφορά">
@@ -148,6 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Θα πρέπει να επαληθεύσετε το λογαριασμό σας πριν μπορέσετε να κάνετε συγχρονισμό.">
 <!ENTITY fxa.unverified.button.label "Άνοιγμα ρυθμίσεων &syncBrand.shortName.label;…">
 
+<!ENTITY pictureInPictureHideToggle.label "Απόκρυψη διακόπτη εικόνας εντός εικόνας">
+<!ENTITY pictureInPictureHideToggle.accesskey "Α">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -249,6 +253,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Διαχείριση χρήσης αρθρωμάτων">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Αλλαγή του αν θα λαμβάνετε ειδοποιήσεις από τον ιστοτόπο">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Αποθήκευση δεδομένων στην επίμονη αποθήκευση">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Το πρόγραμμα περιήγησης ελέγχεται απομακρυσμένα">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Άνοιγμα πίνακα διαδικτυακής ταυτοποίησης">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Άνοιγμα πίνακα δικαιωμάτων δραστηριότητας περιήγησης">
@@ -435,6 +440,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Συνδεθείτε για να δείτε μία λίστα με καρτέλες από τις άλλες σας συσκευές.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ο λογαριασμός σας πρέπει να επαληθευτεί.">
 <!ENTITY appMenuRemoteTabs.signin.label "Σύνδεση στο Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Σύνδεση στο &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Ενεργοποίηση &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Διαχείριση συσκευών…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Δείτε την πλευρική στήλη του Συγχρονισμού">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Απόκρυψη πλευρικής γραμμής συγχρονισμένων καρτελών">
@@ -953,7 +960,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.manageSettings.label "Διαχείριση φραγής περιεχομένου">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Περιεχόμενο καταγραφής">
 
+<!ENTITY contentBlocking.manageSettings2.label "Διαχείριση ρυθμίσεων προστασίας">
 <!ENTITY contentBlocking.manageSettings.accesskey "Δ">
 
 <!ENTITY contentBlocking.trackersView.label "Ιχνηλάτες">
@@ -962,6 +971,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies και δεδομένα ιστοσελίδων">
 
+<!ENTITY contentBlocking.manageSettings2.accesskey "Δ">
 
 
 

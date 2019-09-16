@@ -57,6 +57,9 @@ about-logins-login-list-empty-search-title = Δεν βρέθηκαν συνδέ�
 login-list-item-title-new-login = Νέα σύνδεση
 login-list-item-subtitle-new-login = Εισαγάγετε τα διαπιστευτήριά σας
 login-list-item-subtitle-missing-username = (χωρίς όνομα χρήστη)
+about-logins-list-item-warning-icon =
+    .alt = Εικονίδιο προειδοποίησης
+    .title = Παραβιασμένη ιστοσελίδα
 
 ## Introduction screen
 

@@ -103,3 +103,10 @@ cfr-doorhanger-send-tab-header = Διαβάστε το εν κινήσει
 cfr-doorhanger-firefox-send-header = Μοιραστείτε αυτό το PDF με ασφάλεια
 cfr-doorhanger-firefox-send-ok-button = Δοκιμή του { -send-brand-name }
     .accesskey = Δ
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Προβολή προστασίας
+    .accesskey = Π
+cfr-doorhanger-socialtracking-close-button = Κλείσιμο
+    .accesskey = Κ
