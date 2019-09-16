@@ -7,3 +7,31 @@ urlbar-identity-button =
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = Arvi o panello de mesaggio d'instalaçion
+urlbar-web-notification-anchor =
+    .tooltiptext = Deciddi se riçeive notifiche da sto scito
+urlbar-eme-notification-anchor =
+    .tooltiptext = Gestisci l'uzo do software DRM
+urlbar-web-rtc-share-microphone-notification-anchor =
+    .tooltiptext = Gestisci a condivixon do micròfono co-o scito
+urlbar-default-notification-anchor =
+    .tooltiptext = Arvi panello mesaggi
+urlbar-geolocation-notification-anchor =
+    .tooltiptext = Arvi o panello de domanda de l'indirisso
+urlbar-translate-notification-anchor =
+    .tooltiptext = Traduxi a pagina
+urlbar-web-rtc-share-screen-notification-anchor =
+    .tooltiptext = Gestisci a condivixon di barcoin ò do schermo co-o scito
+urlbar-indexed-db-notification-anchor =
+    .tooltiptext = Arvi o panello de mesaggio sarvataggio feua linia
+urlbar-password-notification-anchor =
+    .tooltiptext = Arvi panello de mesaggio sarvataggio paròlle segrete
+urlbar-translated-notification-anchor =
+    .tooltiptext = Gestion traduçion da pagina
+urlbar-plugins-notification-anchor =
+    .tooltiptext = Gestion plugin
+urlbar-web-rtc-share-devices-notification-anchor =
+    .tooltiptext = Gestisci a condivixon de fòtocamera e/o micròfono co-o scito
+urlbar-addons-notification-anchor =
+    .tooltiptext = Arvi o panello de instalaçion conponente azonto
