@@ -43,5 +43,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Administrar compartir tu cámara y/o micrófono con el sitio
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Abrir panel de reproducción automática
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = Almacenar datos en el almacenamiento persistente
 urlbar-addons-notification-anchor =
     .tooltiptext = Abrir panel de mensajes de instalación de complementos
