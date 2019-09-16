@@ -17,7 +17,7 @@ onboarding-button-label-get-started = Entamar
 
 ## Welcome modal dialog strings
 
-onboarding-welcome-header = Bienllegáu a { -brand-short-name }
+onboarding-welcome-header = Afáyate en { -brand-short-name }
 onboarding-start-browsing-button-label = Entama a navegar
 onboarding-cards-dismiss =
     .title = Escartar
