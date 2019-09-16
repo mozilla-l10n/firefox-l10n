@@ -80,13 +80,13 @@ when there are no windows but Firefox is still running. -->
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Navigation">
-<!ENTITY personalbarCmd.label "Bookmarks Toolbar">
+<!ENTITY personalbarCmd.label "Bookmark Toolbar">
 <!ENTITY personalbarCmd.accesskey "B">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "Mga bookmark">
-<!ENTITY bookmarksToolbarItem.label "Mga nakalagay sa Bookmarks Toolbar">
+<!ENTITY bookmarksToolbarItem.label "Mga nakalagay sa Bookmark Toolbar">
 
 <!ENTITY pageSourceCmd.label "Source Code ng Pahina">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -299,14 +299,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton2.label         "Menu ng mga Bookmark">
 <!ENTITY bookmarksMenuButton.other.label    "Iba pang mga Bookmark">
 <!ENTITY bookmarksMenuButton.mobile.label   "Mga Mobile Bookmark">
-<!ENTITY viewBookmarksSidebar2.label        "Ipakita ang Bookmarks Sidebar">
+<!ENTITY viewBookmarksSidebar2.label        "Ipakita ang Bookmark Sidebar">
 <!ENTITY hideBookmarksSidebar.label         "Itago ang Bookmark Sidebar">
-<!ENTITY viewBookmarksToolbar.label         "Ipakita ang Bookmarks Sidebar">
+<!ENTITY viewBookmarksToolbar.label         "Ipakita ang Bookmark Sidebar">
 <!ENTITY hideBookmarksToolbar.label         "Itago ang Bookmark Toolbar">
 <!ENTITY searchBookmarks.label              "Hanapin sa mga Bookmark">
 <!ENTITY bookmarkingTools.label             "Mga Gamit sa Pag-bookmark">
 <!ENTITY addBookmarksMenu.label             "Idagdag ang Bookmark Menu sa Toolbar">
-<!ENTITY removeBookmarksMenu.label          "Alisin ang Bookmarks Menu mula sa Toolbar">
+<!ENTITY removeBookmarksMenu.label          "Alisin ang Bookmark Menu mula sa Toolbar">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -791,7 +791,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageStyleMenu.label "Style ng Page">
 <!ENTITY pageStyleMenu.accesskey "y">
-<!ENTITY pageStyleNoStyle.label "Walang Style">
+<!ENTITY pageStyleNoStyle.label "Walang Istilo">
 <!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "Basic na Estilo ng Pahina">
 <!ENTITY pageStylePersistentOnly.accesskey "b">

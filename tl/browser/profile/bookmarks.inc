@@ -10,7 +10,7 @@
 #define bookmarks_title Mga Bookmark
 #define bookmarks_heading Mga Bookmark
 
-#define bookmarks_toolbarfolder Bookmarks Toolbar Folder
+#define bookmarks_toolbarfolder Bookmark Toolbar Folder
 #define bookmarks_toolbarfolder_description Maglagay ng mga bookmark sa folder na ito upang makita sa Bookmarks Toolbar
 
 # LOCALIZATION NOTE (getting_started):
