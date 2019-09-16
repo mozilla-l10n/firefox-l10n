@@ -2,6 +2,38 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+urlbar-identity-button =
+    .aria-label = தள தகவலினைப் பார்
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = நிறுவல் செய்திப் பலகத்தைத் திற
+urlbar-web-notification-anchor =
+    .tooltiptext = இத்தளத்திலிருந்து அறிவிப்புகளை உங்களால் பெற முடிகிறதா என மாற்று
+urlbar-eme-notification-anchor =
+    .tooltiptext = DRM மென்பொருள் பயன்பாட்டை நிர்வகிக்கவும்
+urlbar-web-rtc-share-microphone-notification-anchor =
+    .tooltiptext = தளத்துடன் உங்கள் ஒலிவாங்கியை பகிர்வதை நிர்வகி
+urlbar-default-notification-anchor =
+    .tooltiptext = செய்தி பலகத்தை திறக்கவும்
+urlbar-geolocation-notification-anchor =
+    .tooltiptext = இடம் கோரும் பலகத்தை திறக்கவும்
+urlbar-translate-notification-anchor =
+    .tooltiptext = இப்பக்கத்தை மொழிபெயர்க்கவும்
+urlbar-web-rtc-share-screen-notification-anchor =
+    .tooltiptext = உங்கள் விண்டோஸ் அல்லது திரையை தளத்துடன் பகிர்வதை நிர்வகி
+urlbar-indexed-db-notification-anchor =
+    .tooltiptext = இணைப்பில்லா சேமிப்பு செய்தி பலகத்தைத் திற
+urlbar-password-notification-anchor =
+    .tooltiptext = கடவுச்சொல் சேமிப்பு செய்தி பலகத்தைத் திற
+urlbar-translated-notification-anchor =
+    .tooltiptext = பக்க மொழிபெயர்ப்புகளை நிர்வகி
+urlbar-plugins-notification-anchor =
+    .tooltiptext = செருகி பயன்பாட்டை நிர்வகி
+urlbar-web-rtc-share-devices-notification-anchor =
+    .tooltiptext = தளத்துடன் உங்கள் படக்கருவி மேலும்/அல்லது ஒலிவாங்கியை பகிர்வதை நிர்வகி
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = நிரந்தர சேமிப்பகத்தில் தரவை வை
+urlbar-addons-notification-anchor =
+    .tooltiptext = கூடுதல் இணைப்பு நிறுவல் செய்திப் பலகத்தை திற
