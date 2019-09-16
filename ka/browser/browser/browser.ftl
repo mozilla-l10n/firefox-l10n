@@ -7,3 +7,9 @@ urlbar-identity-button =
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-web-notification-anchor =
+    .tooltiptext = აირჩიეთ მიიღოთ თუ არა შეტყობინებები ამ საიტისგან
+urlbar-eme-notification-anchor =
+    .tooltiptext = DRM პროგრამის გამოყენების მართვა
+urlbar-translated-notification-anchor =
+    .tooltiptext = გვერდის თარგმნის მართვა
