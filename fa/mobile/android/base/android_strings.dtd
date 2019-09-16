@@ -23,14 +23,17 @@
 <!ENTITY firstrun_sync_title "هم‌گام‌سازی">
 <!ENTITY updatednewfirstrun_sync_title "حساب کاربری">
 <!ENTITY firstrun_sync_message2 "از جایی که مانده بود ادامه دهید.">
+<!ENTITY firstrun_sync_message3 "نشانک‌ها،‌ تاریخچه و گذرواژه‌های را با تلفنِ خود به‌هنگام کنید.">
 <!ENTITY firstrun_sync_subtext2 "برای پیدا کردن نشانک‌ها، گذرواژه‌ها و چیزهای دیگری که در &brandShortName; ذخیره کرده‌اید روی همه دستگاه‌هایتان، از همگام‌ساز استفاده کنید.">
 <!ENTITY newfirstrun_sync_subtext "همگام‌سازی تمام چیزهایی که روی دستگاه موبایل خود ذخیره می‌کنید بر روی مرورگر رومیزی شما به صورت خصوصی و امن.">
 <!ENTITY updatednewfirstrun_sync_subtext "وارد حساب کاربری خود شوید تا از &brandShortName; بیشتر دریافت کنید">
+<!ENTITY firstrun_sendtab_title "ارسال زبانه">
+<!ENTITY firstrun_sendtab_message "اشتراک‌گذاری زبانه‌ها از موبایل به رومیزی — فوری.">
 <!ENTITY firstrun_signin_message "متصل شوید،‌ شروع کنید">
 <!ENTITY firstrun_signin_button "برای همگام‌سازی وارد شوید">
 <!ENTITY newfirstrun_signin_button "روشن کردن همگام سازی">
 <!ENTITY updatednewfirstrun_signin_button "وارد شدن به &brandShortName;">
-<!ENTITY  onboard_start_button_browser "شروع وب‌گردی">
+<!ENTITY onboard_start_button_browser "شروع وب‌گردی">
 <!ENTITY firstrun_button_notnow "هم‌اکنون نه">
 <!ENTITY firstrun_button_next "بعدی">
 
