@@ -117,6 +117,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY searchItem.title             "Chuka">
 
 <!-- Toolbar items -->
@@ -138,6 +139,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY fileMenu.label         "Kolb'al aaq'on">
+<!ENTITY fileMenu.accesskey       "F">
 
 
 <!ENTITY editMenu.label         "B'an tuche'">
