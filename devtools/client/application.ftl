@@ -90,6 +90,9 @@ manifest-loaded-ok = 已載入 manifest。
 manifest-loaded-error = 載入 manifest 時發生錯誤:
 # Text displayed when the page has no manifest available
 manifest-non-existing = 沒有找到可以檢測的 manifest。
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Manifest 嵌入於 Data URL 中。
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Manifest
     .alt = Manifest 圖示

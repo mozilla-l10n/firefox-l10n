@@ -60,6 +60,9 @@ about-logins-login-list-empty-search-description = 沒有符合您搜尋條件�
 login-list-item-title-new-login = 新增登入資訊
 login-list-item-subtitle-new-login = 請輸入您的登入帳密
 login-list-item-subtitle-missing-username = （無使用者名稱）
+about-logins-list-item-warning-icon =
+    .alt = 警告圖示
+    .title = 網站發生過資料外洩事件
 
 ## Introduction screen
 

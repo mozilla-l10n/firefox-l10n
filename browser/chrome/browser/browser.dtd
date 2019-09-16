@@ -254,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "管理附加元件使用情況">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "變更您是否要收到來自此網站的通知">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "將資料儲存於持續性儲存空間">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "瀏覽器正被遠端控制中">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "開啟 Web 身份驗證面板">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "開啟瀏覽活動權限面板">
@@ -439,8 +440,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "想在這裡看到您其他裝置上開啟的分頁嗎？">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "開啟 Sync 偏好設定">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "登入以檢視您其他裝置中的分頁清單。">
+<!ENTITY appMenuRemoteTabs.welcome.label "檢視您其他裝置中的分頁清單。">
 <!ENTITY appMenuRemoteTabs.unverified.label "需要驗證您的帳號。">
 <!ENTITY appMenuRemoteTabs.signin.label "登入至 Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "登入 &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "開啟 &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "管理裝置…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "檢視「同步的分頁」側邊欄">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "隱藏已同步分頁側邊欄">
