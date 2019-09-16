@@ -23,14 +23,17 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "חשבון">
 <!ENTITY firstrun_sync_message2 "המשך מהמקום שבו הפסקת.">
+<!ENTITY firstrun_sync_message3 "סנכרון הסימניות, ההיסטוריה והססמאות שלך לטלפון שלך.">
 <!ENTITY firstrun_sync_subtext2 "ניתן להשתמש ב־Sync כדי למצוא סימניות, ססמאות ודברים נוספים ששמרת ב־&brandShortName; בכל המכשירים שלך.">
 <!ENTITY newfirstrun_sync_subtext "סינכרון של הדברים שנשמרים בנייד אל Firefox במחשב, בצורה פרטית ומאובטחת.">
 <!ENTITY updatednewfirstrun_sync_subtext "עליך להתחבר לחשבון שלך כי להפיק את המרב מ־&brandShortName;">
+<!ENTITY firstrun_sendtab_title "שליחת לשונית">
+<!ENTITY firstrun_sendtab_message "שיתוף לשוניות מהטלפון הנייד למחשב השולחני — באופן מיידי.">
 <!ENTITY firstrun_signin_message "להישאר בעניינים, קדימה">
 <!ENTITY firstrun_signin_button "כניסה אל Sync">
 <!ENTITY newfirstrun_signin_button "הפעלת Sync">
 <!ENTITY updatednewfirstrun_signin_button "כניסה ל־&brandShortName;">
-<!ENTITY  onboard_start_button_browser "התחלת גלישה">
+<!ENTITY onboard_start_button_browser "התחלת גלישה">
 <!ENTITY firstrun_button_notnow "לא כרגע">
 <!ENTITY firstrun_button_next "הבא">
 
