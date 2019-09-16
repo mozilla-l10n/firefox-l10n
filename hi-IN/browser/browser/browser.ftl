@@ -2,6 +2,38 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+urlbar-identity-button =
+    .aria-label = साइट की जानकारी देखें
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = संस्थापित संदेश पटल खोलें
+urlbar-web-notification-anchor =
+    .tooltiptext = परिवर्तन करें ताकी आप साइटों से सूचनाएं प्राप्त कर सकते हैं
+urlbar-eme-notification-anchor =
+    .tooltiptext = DRM सॉफ्टवेयर का उपयोग प्रबंधित करे
+urlbar-web-rtc-share-microphone-notification-anchor =
+    .tooltiptext = साइट के साथ अपने माइक्रोफोन बांटने की व्यवस्था प्रबंधित करें
+urlbar-default-notification-anchor =
+    .tooltiptext = संदेश पटल खोलें
+urlbar-geolocation-notification-anchor =
+    .tooltiptext = स्थान अनुरोध पटल खोलें
+urlbar-translate-notification-anchor =
+    .tooltiptext = इस पृष्ठ का अनुवाद करें
+urlbar-web-rtc-share-screen-notification-anchor =
+    .tooltiptext = साइट के साथ अपनी विंडोज या स्क्रीन साझा प्रबंधित करें
+urlbar-indexed-db-notification-anchor =
+    .tooltiptext = ऑफलाइन संग्रह संदेश पटल खोलें
+urlbar-password-notification-anchor =
+    .tooltiptext = सहेजा हुआ कुष्टशब्द संदेश पटल खोलें
+urlbar-translated-notification-anchor =
+    .tooltiptext = पृष्ठ अनुवाद प्रंबंधित करें
+urlbar-plugins-notification-anchor =
+    .tooltiptext = प्लग-इन उपयोग को प्रबंधित करें
+urlbar-web-rtc-share-devices-notification-anchor =
+    .tooltiptext = साइट के साथ अपने कैमरे और/या माइक्रोफोन बांटने की व्यवस्था प्रबंधित करें
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = स्थायी संग्रहण में आँकड़े संचित करें
+urlbar-addons-notification-anchor =
+    .tooltiptext = सहयुक्ति संस्थापन संदेश पटल खोलें
