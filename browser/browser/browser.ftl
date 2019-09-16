@@ -39,5 +39,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Кіраваць доступам сайта да вашай камеры і/або мікрафона
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Адкрыць панэль аўтапрайгравання
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = Захоўваць звесткі ў Сталым Сховішчы (Persistent Storage)
 urlbar-addons-notification-anchor =
     .tooltiptext = Адкрыць панэль паведамленняў аб усталяванні дадатка
