@@ -61,6 +61,9 @@ about-logins-login-list-empty-search-description = Nenhum resultado corresponde 
 login-list-item-title-new-login = Nova conta
 login-list-item-subtitle-new-login = Informe as credenciais da sua conta
 login-list-item-subtitle-missing-username = (sem nome de usuário)
+about-logins-list-item-warning-icon =
+    .alt = Ícone de alerta
+    .title = Site vazado
 
 ## Introduction screen
 
