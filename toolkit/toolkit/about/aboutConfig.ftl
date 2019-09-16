@@ -44,7 +44,7 @@ config-column-chooser =
 ## These strings are used for the context menu
 
 config-copy-pref =
-    .key = c
+    .key = C
     .label = Copiar
     .accesskey = C
 config-copy-name =
@@ -66,26 +66,26 @@ config-new =
     .label = Nova preferência
     .accesskey = N
 config-string =
-    .label = String…
-    .accesskey = S
+    .label = Texto…
+    .accesskey = T
 config-integer =
     .label = Número inteiro…
     .accesskey = N
 config-boolean =
-    .label = Boolean…
+    .label = Booleano…
     .accesskey = B
 config-default = padrão
 config-modified = modificado
 config-locked = bloqueado
 config-property-string = string
 config-property-int = número inteiro
-config-property-bool = boolean
-config-new-prompt = Forneça o nome da preferência:
+config-property-bool = booleano
+config-new-prompt = Digite o nome da preferência
 config-nan-title = Valor inválido
-config-nan-text = O texto fornecido não é um número.
+config-nan-text = O texto digitado não é um número.
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nova preferência do tipo { $type }
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
-config-modify-title = Editar valor { $type }
+config-modify-title = Informar valor { $type }
