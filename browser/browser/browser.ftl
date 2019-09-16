@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+urlbar-identity-button =
+    .aria-label = הצגת נתוני אתר
 
 ## Tooltips for images appearing in the address bar
 
@@ -29,7 +31,11 @@ urlbar-password-notification-anchor =
     .tooltiptext = פתיחת חלונית הודעת שמירת ססמה
 urlbar-translated-notification-anchor =
     .tooltiptext = ניהול תרגומי עמודים
+urlbar-plugins-notification-anchor =
+    .tooltiptext = ניהול שימוש בתוספים חיצוניים
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = ניהול שיתוף המצלמה ו/או המיקרופון שלך עם האתר
 urlbar-autoplay-notification-anchor =
     .tooltiptext = פתיחת לוח ניגון אוטומטי
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = שמירת נתונים באחסון קבוע
