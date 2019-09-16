@@ -39,5 +39,7 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = ప్లగ్-ఇన్ వాడకాన్ని నిర్వహించండి
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = సైటుతో మీ కేమెరా మరియు/లేదా మైక్రోఫోన్ పంచుకోడాన్ని నిర్వహించండి
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = నిరంతర నిల్వ డేటాని నిల్వ చేయండి
 urlbar-addons-notification-anchor =
     .tooltiptext = యాడ్-ఆన్ స్థాపన సందేశపు ప్యానెలు తెరువు
