@@ -17,3 +17,5 @@ urlbar-storage-access-anchor =
     .tooltiptext = Buka panel perizinan aktivitas penjelajahan
 urlbar-password-notification-anchor =
     .tooltiptext = Buka panel pesan penyimpanan sandi
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = Buka panel putar-otomatis
