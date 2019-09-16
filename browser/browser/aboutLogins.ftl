@@ -60,6 +60,9 @@ about-logins-login-list-empty-search-description = 没有符合您搜索条件�
 login-list-item-title-new-login = 新建登录信息
 login-list-item-subtitle-new-login = 输入您的登录凭据
 login-list-item-subtitle-missing-username = （无用户名）
+about-logins-list-item-warning-icon =
+    .alt = 警告图标
+    .title = 发生数据外泄的网站
 
 ## Introduction screen
 
