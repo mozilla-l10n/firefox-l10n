@@ -46,7 +46,7 @@
 <!ENTITY editMenu.accesskey                             "ξ">
 <!ENTITY undoCmd.label                                  "Αναίρεση">
 <!ENTITY undoCmd.key                                    "Z">
-<!ENTITY undoCmd.accesskey                              "ν">
+<!ENTITY undoCmd.accesskey                              "Α">
 <!ENTITY redoCmd.label                                  "Επανάληψη">
 <!ENTITY redoCmd.key                                    "Y">
 <!ENTITY redoCmd.accesskey                              "ψ">
@@ -173,9 +173,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Αποστολή ενός μηνύματος αλληλογραφίας">
 <!ENTITY newIM.tooltip                                  "Αποστολή ενός άμεσου μηνύματος ή chat">
 <!ENTITY deleteButton2.tooltip                          "Διαγραφή επιλεγμένου αντικειμένου">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Ευρετήρια διευθύνσεων">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Όνομα ή e-mail">
