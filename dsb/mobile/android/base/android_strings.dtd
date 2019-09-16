@@ -23,14 +23,17 @@
 <!ENTITY firstrun_sync_title "Snychronizěrowaś">
 <!ENTITY updatednewfirstrun_sync_title "Konto">
 <!ENTITY firstrun_sync_message2 "Cyńśo tam dalej, źož sćo pśestał.">
+<!ENTITY firstrun_sync_message3 "Synchronizěrujśo swóje cytańske znamjenja, historiju a gronidła na swójom telefonje.">
 <!ENTITY firstrun_sync_subtext2 "Wužywajśo Sync, aby cytańske znamjenja, gronidła a druge wěcy namakał, kótarež w &brandShortName; na wšych swójich rědach składujośo.">
 <!ENTITY newfirstrun_sync_subtext "Synchronizěrujśo informacije, kótarež na mobilnem rěźe składujośo, z Firefox za desktop, priwatnje a wěsće.">
 <!ENTITY updatednewfirstrun_sync_subtext "Pśizjawśo se pla swójogo konta, aby nejlěpše z &brandShortName; wuwónoźeł">
+<!ENTITY firstrun_sendtab_title "Rejtark słaś">
+<!ENTITY firstrun_sendtab_message "Źělśo rejtarki mobilnego telefona z desktopom - ned.">
 <!ENTITY firstrun_signin_message "Zwězajśo se, zachopśo">
 <!ENTITY firstrun_signin_button "Pla Sync pśizjawiś">
 <!ENTITY newfirstrun_signin_button "Sync zašaltowaś">
 <!ENTITY updatednewfirstrun_signin_button "Pla &brandShortName; pśizjawiś">
-<!ENTITY  onboard_start_button_browser "Pśeglědowanje startowaś">
+<!ENTITY onboard_start_button_browser "Pśeglědowanje startowaś">
 <!ENTITY firstrun_button_notnow "Nic ned">
 <!ENTITY firstrun_button_next "Pśiducy">
 
