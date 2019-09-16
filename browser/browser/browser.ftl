@@ -5,3 +5,13 @@
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-web-notification-anchor =
+    .tooltiptext = Mengubah apakah Anda dapat menerima pemberitahuan dari situs ini
+urlbar-web-authn-anchor =
+    .tooltiptext = Panel Autentikasi Web Terbuka
+urlbar-canvas-notification-anchor =
+    .tooltiptext = Kelola izin ekstraksi canvas
+urlbar-storage-access-anchor =
+    .tooltiptext = Buka panel perizinan aktivitas penjelajahan
+urlbar-password-notification-anchor =
+    .tooltiptext = Buka panel pesan penyimpanan sandi
