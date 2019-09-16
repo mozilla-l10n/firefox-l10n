@@ -7,3 +7,5 @@ urlbar-identity-button =
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-web-rtc-share-screen-notification-anchor =
+    .tooltiptext = ఈ సైటుతో మీ విండోలు లేదా తెరను పంచుకోడాన్ని నిర్వహించండి
