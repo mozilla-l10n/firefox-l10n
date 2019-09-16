@@ -26,16 +26,16 @@
 <!ENTITY newVirtualFolderCmd.accesskey "θ">
 <!ENTITY newOtherAccountsCmd.label "Άλλοι λογαριασμοί…">
 <!ENTITY newOtherAccountsCmd.accesskey "λ">
-<!ENTITY newCreateEmailAccountCmd.label "Απόκτηση νέου λογαριασμού e-mail…">
+<!ENTITY newCreateEmailAccountCmd.label "Απόκτηση νέου λογαριασμού email…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "γ">
-<!ENTITY newExistingEmailAccountCmd.label "Υπάρχων λογαριασμός e-mail…">
+<!ENTITY newExistingEmailAccountCmd.label "Υπάρχων λογαριασμός email…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "χ">
 <!ENTITY newIMAccountCmd.label "Λογαριασμός συνομιλίας…">
 <!ENTITY newIMAccountCmd.accesskey "Σ">
 <!ENTITY newFeedAccountCmd.label "Λογαριασμός ροής…">
 <!ENTITY newFeedAccountCmd.accesskey "Ρ">
 <!ENTITY newIMContactCmd.label "Επαφή συνομιλίας…">
-<!ENTITY newIMContactCmd.accesskey "η">
+<!ENTITY newIMContactCmd.accesskey "σ">
 <!ENTITY  newMessageCmd2.key "Ν">
 <!ENTITY  newMessageCmd.key "Μ">
 <!ENTITY  newMessageCmd.label "Μήνυμα">
@@ -171,7 +171,7 @@
 <!ENTITY compactVersion.label "Συμπτυγμένη όψη">
 <!ENTITY compactVersion.accesskey "Σ">
 <!ENTITY folderPaneBar.label "Γραμμή εργαλείων προβολής φακέλων">
-<!ENTITY folderPaneBar.accesskey "Θ">
+<!ENTITY folderPaneBar.accesskey "φ">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ταξινόμηση κατά">
@@ -246,7 +246,7 @@
 <!ENTITY bodyMenu.label "Κυρίως κείμενο μηνύματος ως">
 <!ENTITY bodyMenu.accesskey "ρ">
 <!ENTITY bodyAllowHTML.label "Πρωτότυπο HTML">
-<!ENTITY bodyAllowHTML.accesskey "Η">
+<!ENTITY bodyAllowHTML.accesskey "H">
 <!ENTITY bodySanitized.label "Απλό HTML">
 <!ENTITY bodySanitized.accesskey "L">
 <!ENTITY bodyAsPlaintext.label "Απλό κείμενο">
