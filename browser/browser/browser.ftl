@@ -5,3 +5,15 @@
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = Odpri ploščo s sporočili o namestitvah
+urlbar-web-authn-anchor =
+    .tooltiptext = Odpri ploščo za spletno overitev
+urlbar-geolocation-notification-anchor =
+    .tooltiptext = Odpri ploščo z zahtevami za lokacijo
+urlbar-indexed-db-notification-anchor =
+    .tooltiptext = Odpri ploščo s sporočili o shrambi brez povezave
+urlbar-password-notification-anchor =
+    .tooltiptext = Odpri ploščo s sporočili o shranjevanju gesel
+urlbar-addons-notification-anchor =
+    .tooltiptext = Odpri ploščo s sporočili o namestitvah dodatkov
