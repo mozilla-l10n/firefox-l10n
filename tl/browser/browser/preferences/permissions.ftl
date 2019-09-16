@@ -96,9 +96,9 @@ permissions-exceptions-saved-logins-desc = Ang mga login para sa mga sumusunod n
 ## Exceptions - Add-ons
 
 permissions-exceptions-addons-window =
-    .title = Mga Website na Pinapayagan - Pag-install ng mga Add-on
+    .title = Mga Website na Pinapayagan - Pagkabit ng mga Add-on
     .style = { permissions-window.style }
-permissions-exceptions-addons-desc = You can specify which web sites are allowed to install add-ons. Type the exact address of the site you want to allow and then click Allow.
+permissions-exceptions-addons-desc = Maaari mong tukuyin aling mga website ang pinapayagang magkabit ng mga add-on. I-type ang mismong address ng site na gusto mong payagan at pindutin ang Payagan.
 
 ## Exceptions - Autoplay Media
 

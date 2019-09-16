@@ -61,6 +61,9 @@ about-logins-login-list-empty-search-description = Walang resultang tumugma sa i
 login-list-item-title-new-login = Bagong Login
 login-list-item-subtitle-new-login = Ipasok ang iyong mga login credential
 login-list-item-subtitle-missing-username = (walang username)
+about-logins-list-item-warning-icon =
+    .alt = Babalang icon
+    .title = Breached website
 
 ## Introduction screen
 
