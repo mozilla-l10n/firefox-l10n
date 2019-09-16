@@ -201,7 +201,7 @@ menu-bookmarks-mobile =
 ## Tools Menu
 
 menu-tools =
-    .label = Mga Tools
+    .label = Mga Tool
     .accesskey = T
 menu-tools-downloads =
     .label = Mga Download

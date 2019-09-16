@@ -176,7 +176,7 @@ newtab-discovery-empty-section-topstories-timed-out = Ops! Halos na-load na yung
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Tanyag na mga paksa:
 newtab-pocket-more-recommendations = Karagdagang Rekomendasyon
-newtab-pocket-how-it-works = Paano gamitin
+newtab-pocket-how-it-works = Paano ito gumagana
 newtab-pocket-cta-button = Kunin ang { -pocket-brand-name }
 newtab-pocket-cta-text = I-save sa { -pocket-brand-name } ang mga kwentong iyong nagustuhan, at palawigin ang iyong pagiisip sa mga nakabibighaning babasahin.
 
