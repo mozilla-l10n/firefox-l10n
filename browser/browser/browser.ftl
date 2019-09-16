@@ -7,6 +7,8 @@ urlbar-identity-button =
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = Otevřít instalační panel zpráv
 urlbar-web-notification-anchor =
     .tooltiptext = Změní, jestli můžete ze serveru přijímat oznámení
 urlbar-midi-notification-anchor =
@@ -31,6 +33,8 @@ urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Spravovat sdílení oken nebo obrazovky se stránkou
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Otevřít panel zpráv offline úložiště
+urlbar-password-notification-anchor =
+    .tooltiptext = Otevřít panel zpráv uložení hesla
 urlbar-translated-notification-anchor =
     .tooltiptext = Spravovat překlad stránky
 urlbar-plugins-notification-anchor =
@@ -41,3 +45,5 @@ urlbar-autoplay-notification-anchor =
     .tooltiptext = Otevřít panel automatického přehrávání
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Uložit data natrvalo
+urlbar-addons-notification-anchor =
+    .tooltiptext = Otevřít panel zpráv instalace doplňku
