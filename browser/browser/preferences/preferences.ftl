@@ -749,6 +749,23 @@ content-blocking-strict-description = Больш моцная абарона, м
 content-blocking-custom-desc = Выберыце, што блакаваць.
 content-blocking-private-trackers = Вядомыя трэкеры толькі ў прыватных вокнах
 content-blocking-third-party-cookies = Трэцебаковыя кукі сачэння
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Стандартна
+    .accesskey = т
+enhanced-tracking-protection-setting-strict =
+    .label = Строга
+    .accesskey = р
+enhanced-tracking-protection-setting-custom =
+    .label = Адмыслова
+    .accesskey = с
+
+
+
 content-blocking-etp-standard-desc = Збалансаваная ахова і прадукцыйнасць. Старонкі загружаюцца нармальна.
 content-blocking-etp-strict-desc = Больш моцная ахова, але можа прывесці да парушэння некаторых сайтаў ці змесціва.
 content-blocking-etp-custom-desc = Выберыце, якія трэкеры і скрыпты трэба заблакаваць.
