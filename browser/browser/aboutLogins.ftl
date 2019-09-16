@@ -61,6 +61,9 @@ about-logins-login-list-empty-search-description = Det er ingen resultater som s
 login-list-item-title-new-login = Ny innlogging
 login-list-item-subtitle-new-login = Skriv inn innloggingsinformasjon
 login-list-item-subtitle-missing-username = (uten brukernavn)
+about-logins-list-item-warning-icon =
+    .alt = Advarselsikon
+    .title = Nettsted med datalekkasje
 
 ## Introduction screen
 
@@ -79,8 +82,6 @@ login-item-origin-label = Nettadresse
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Brukernavn
-login-item-username =
-    .placeholder = name@example.com
 about-logins-login-item-username =
     .placeholder = (ingen brukernavn)
 login-item-copy-username-button-text = Kopier
