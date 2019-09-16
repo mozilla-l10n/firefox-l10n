@@ -7,3 +7,37 @@ urlbar-identity-button =
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-web-notification-anchor =
+    .tooltiptext = Změní, jestli můžete ze serveru přijímat oznámení
+urlbar-midi-notification-anchor =
+    .tooltiptext = Otevřít MIDI panel
+urlbar-eme-notification-anchor =
+    .tooltiptext = Správa využívání softwaru DRM
+urlbar-web-authn-anchor =
+    .tooltiptext = Otevřít panel webové autentizace
+urlbar-canvas-notification-anchor =
+    .tooltiptext = Spravovat oprávnění přístupu k informacím canvasu
+urlbar-web-rtc-share-microphone-notification-anchor =
+    .tooltiptext = Spravovat sdílení mikrofonu se stránkou
+urlbar-default-notification-anchor =
+    .tooltiptext = Otevře panel zpráv
+urlbar-geolocation-notification-anchor =
+    .tooltiptext = Otevře panel se žádostmi o polohu
+urlbar-storage-access-anchor =
+    .tooltiptext = Otevřít nastavení přístupu k informacím o vašem prohlížení
+urlbar-translate-notification-anchor =
+    .tooltiptext = Přeloží tuto stránku
+urlbar-web-rtc-share-screen-notification-anchor =
+    .tooltiptext = Spravovat sdílení oken nebo obrazovky se stránkou
+urlbar-indexed-db-notification-anchor =
+    .tooltiptext = Otevřít panel zpráv offline úložiště
+urlbar-translated-notification-anchor =
+    .tooltiptext = Spravovat překlad stránky
+urlbar-plugins-notification-anchor =
+    .tooltiptext = Správa využití zásuvného modulu
+urlbar-web-rtc-share-devices-notification-anchor =
+    .tooltiptext = Spravovat sdílení webkamery a/nebo mikrofonu se stránkou
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = Otevřít panel automatického přehrávání
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = Uložit data natrvalo
