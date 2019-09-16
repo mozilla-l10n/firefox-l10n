@@ -124,9 +124,9 @@ legacy-warning-show-legacy = Amosar estensiones heredaes
 legacy-extensions =
     .value = Estensiones heredaes
 legacy-extensions-description = Estes estensiones nun cumplen colos estándares actuales de { -brand-short-name } polo que tán desactivaes. <label data-l10n-name="legacy-learn-more">Deprendi tocante al cambéu nos complementos</label>
-extensions-view-discover =
-    .name = Consiguir complementos
-    .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = Aconséyase
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Anovamientos recientes
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -201,3 +201,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalar anovamientos
     .tooltiptext = Instalar los anovamientos disponibles nesti llistáu
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+addons-enabled-heading = Activóse
+extension-enabled-heading = Activóse
+theme-enabled-heading = Activóse
+plugin-enabled-heading = Activóse
+dictionary-enabled-heading = Activóse
+locale-enabled-heading = Activóse
+
+## Pending uninstall message bar
+
