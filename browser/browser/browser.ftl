@@ -5,3 +5,13 @@
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-midi-notification-anchor =
+    .tooltiptext = MIDI panelini aç
+urlbar-web-authn-anchor =
+    .tooltiptext = Web kimlik doğrulaması panelini aç
+urlbar-canvas-notification-anchor =
+    .tooltiptext = Kanvas çıkarma iznini yönetme
+urlbar-storage-access-anchor =
+    .tooltiptext = Gezinme etkinliği izin panelini aç
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = Kalıcı depolamada veri depola
