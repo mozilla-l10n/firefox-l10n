@@ -5,3 +5,7 @@
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-midi-notification-anchor =
+    .tooltiptext = Agor panel MIDI
+urlbar-canvas-notification-anchor =
+    .tooltiptext = Rheoli caniatâd tynnu canfas
