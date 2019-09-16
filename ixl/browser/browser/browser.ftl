@@ -7,3 +7,9 @@ urlbar-identity-button =
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = Jaj u tatinb'al unq'a yole' ti toksal ok
+urlbar-web-notification-anchor =
+    .tooltiptext = La jalpu asoj la ik'ul yol ti' uve' tzaanaj kat
+urlbar-midi-notification-anchor =
+    .tooltiptext = La jaj un tatinb'ale' MIDI
