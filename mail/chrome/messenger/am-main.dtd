@@ -8,19 +8,19 @@
 <!ENTITY accountName.label "Όνομα λογαριασμού:">
 <!ENTITY accountName.accesskey "ν">
 <!ENTITY identityTitle.label "Ταυτότητα">
-<!ENTITY identityDesc.label "Ο κάθε λογαριασμός μπορεί να έχει τη δική του ταυτότητα, και παρέχει τις πληροφορίες που βλέπουν τρίτοι όταν διαβάζουν τα μηνύματα σας.">
+<!ENTITY identityDesc.label "Κάθε λογαριασμός έχει μια ταυτότητα, η οποία αποτελείται από πληροφορίες που βλέπουν οι αναγνώστες των μηνυμάτων σας.">
 <!ENTITY name.label "Όνομα:">
 <!ENTITY name.accesskey "μ">
-<!ENTITY email.label "Διεύθυνση Email:">
+<!ENTITY email.label "Διεύθυνση email:">
 <!ENTITY email.accesskey "ε">
-<!ENTITY replyTo.label "Διεύθυνση για απαντήσεις:">
+<!ENTITY replyTo.label "Διεύθυνση απάντησης:">
 <!ENTITY replyTo.accesskey "σ">
-<!ENTITY replyTo.placeholder "Οι παραλήπτες θα απαντούν σε αυτήν την διαφορετική διεύθυνση">
+<!ENTITY replyTo.placeholder "Οι παραλήπτες θα απαντούν σε αυτή τη διεύθυνση">
 <!ENTITY organization.label "Οργανισμός:">
 <!ENTITY organization.accesskey "Ο">
 <!ENTITY signatureText.label "Κείμενο υπογραφής:">
 <!ENTITY signatureText.accesskey "μ">
-<!ENTITY signatureHtml.label "Χρήση HTML (π.χ., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.label "Χρήση HTML (π.χ. &lt;b&gt;bold&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "η">
 <!ENTITY signatureFile.label "Επισύναψη υπογραφής από αρχείο (κείμενο, HTML, ή εικόνα):">
 <!ENTITY signatureFile.accesskey "ψ">
