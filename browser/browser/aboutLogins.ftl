@@ -63,6 +63,9 @@ about-logins-login-list-empty-search-description = Njejsu žedne wuslědki, kót
 login-list-item-title-new-login = Nowe pśizjawjenje
 login-list-item-subtitle-new-login = Zapódajśo swóje pśizjawjeńske daty
 login-list-item-subtitle-missing-username = (žedno wužywarske mě)
+about-logins-list-item-warning-icon =
+    .alt = Warnowański symbol
+    .title = Zranjone websedło
 
 ## Introduction screen
 
@@ -81,8 +84,6 @@ login-item-origin-label = Adresa websedła
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Wužywarske mě
-login-item-username =
-    .placeholder = name@example.com
 about-logins-login-item-username =
     .placeholder = (žedno wužywarske mě)
 login-item-copy-username-button-text = Kopěrowaś
