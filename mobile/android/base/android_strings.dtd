@@ -23,14 +23,17 @@
 <!ENTITY firstrun_sync_title "Đồng bộ hóa">
 <!ENTITY updatednewfirstrun_sync_title "Tài khoản">
 <!ENTITY firstrun_sync_message2 "Tiếp tục trang mà bạn vừa rời khỏi.">
+<!ENTITY firstrun_sync_message3 "Đồng bộ trang đánh dấu, lịch sử, và mật khẩu lên điện thoại của bạn.">
 <!ENTITY firstrun_sync_subtext2 "Sử dụng đồng bộ hóa để tìm trang đánh dấu, mật khẩu và những thứ bạn lưu vào &brandShortName; trên tất cả các thiết bị của bạn.">
 <!ENTITY newfirstrun_sync_subtext "Đồng bộ hóa những thứ bạn lưu trên thiết bị di động với Firefox cho máy tính để bàn, riêng tư và an toàn.">
 <!ENTITY updatednewfirstrun_sync_subtext "Đăng nhập vào tài khoản của bạn để tận dụng tối đa &brandShortName;">
+<!ENTITY firstrun_sendtab_title "Gửi thẻ">
+<!ENTITY firstrun_sendtab_message "Chia sẻ các thẻ từ điện thoại lên máy tình bàn — ngay lập tức.">
 <!ENTITY firstrun_signin_message "Thiết lập kết nối và bắt đầu">
 <!ENTITY firstrun_signin_button "Đăng nhập để đồng bộ">
 <!ENTITY newfirstrun_signin_button "Bật đồng bộ hóa">
 <!ENTITY updatednewfirstrun_signin_button "Đăng nhập vào &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Bắt đầu duyệt web">
+<!ENTITY onboard_start_button_browser "Bắt đầu duyệt web">
 <!ENTITY firstrun_button_notnow "Không phải lúc này">
 <!ENTITY firstrun_button_next "Tiếp">
 
