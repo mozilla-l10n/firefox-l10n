@@ -27,6 +27,7 @@
 <!ENTITY compositionToolbarCmd.accesskey "C">
 <!ENTITY formattingToolbarCmd.label "Thanh công cụ định dạng">
 <!ENTITY formattingToolbarCmd.accesskey "F">
+<!ENTITY editmodeToolbarCmd.label "Sửa thanh công cụ kiểu cách">
 <!ENTITY editmodeToolbarCmd.accesskey "E">
 
 <!-- Format menu items -->

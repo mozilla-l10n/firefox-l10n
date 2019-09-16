@@ -6,6 +6,7 @@
 <!ENTITY itemAutoComplete.label              "Địa chỉ">
 <!ENTITY itemSpellCheck.label                "Chính tả">
 
+<!ENTITY dialogCompose.title                 "Soạn thảo">
 
 <!ENTITY forwardMsg.label                     "Chuyển tiếp thư:">
 <!ENTITY forwardMsg.accesskey                 "y">
