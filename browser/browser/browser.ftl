@@ -7,3 +7,9 @@ urlbar-identity-button =
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-web-authn-anchor =
+    .tooltiptext = 打开 Web 认证面板
+urlbar-canvas-notification-anchor =
+    .tooltiptext = 管理画布(canvas)提取权限
+urlbar-storage-access-anchor =
+    .tooltiptext = 打开上网活动权限面板
