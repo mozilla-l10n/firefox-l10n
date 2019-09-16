@@ -90,6 +90,9 @@ manifest-loaded-ok = Manifest je so začitał.
 manifest-loaded-error = Při čitanju manifesta je zmylk nastał.
 # Text displayed when the page has no manifest available
 manifest-non-existing = Žadyn manifest namakany.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Manifest je zasadźeny w DATA URL.
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Manifest
     .alt = Manifestowy symbol
