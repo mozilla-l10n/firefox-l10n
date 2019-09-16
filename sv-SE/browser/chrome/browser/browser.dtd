@@ -254,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Hantera plugins som används">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Ändra om du kan ta emot meddelanden från webbplatsen">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Lagra data i beständig lagring">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Webbläsaren är fjärrstyrd">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Öppna panel för webbautentisiering">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Öppna behörighetspanelen för surfaktivitet">
@@ -439,8 +440,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vill du se dina flikar från andra enheter här?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Öppna synkroniseringsinställningar">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Logga in för att se en lista med flikar från dina andra enheter.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Se en lista med flikar från dina andra enheter.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ditt konto behöver verifieras.">
 <!ENTITY appMenuRemoteTabs.signin.label "Logga in till Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Logga in till &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Slå på &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Hantera enheter…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Visa sidofältet Synkade flikar">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Dölj sidofältet Synkade flikar">

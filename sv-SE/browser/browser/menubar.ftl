@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Helskärm
     .accesskey = H
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Visa alla flikar
@@ -212,6 +212,9 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Logga in till { -sync-brand-short-name }…
     .accesskey = Y
+menu-tools-turn-on-sync =
+    .label = Slå på { -sync-brand-short-name }…
+    .accesskey = p
 menu-tools-sync-now =
     .label = Synka nu
     .accesskey = n
