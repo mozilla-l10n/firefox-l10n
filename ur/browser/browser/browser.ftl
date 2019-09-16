@@ -43,3 +43,5 @@ urlbar-autoplay-notification-anchor =
     .tooltiptext = خودکار چلنے والی پینل کھولیں
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = مسلسل اسٹوریج میں کوائف اسٹور کرے
+urlbar-addons-notification-anchor =
+    .tooltiptext = ایڈاون کا تنصیب شدہ پیغام کا پینل کھولیں
