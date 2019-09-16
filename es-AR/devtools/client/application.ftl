@@ -90,6 +90,9 @@ manifest-loaded-ok = Manifiesto cargado.
 manifest-loaded-error = Hubo un error al cargar el manifiesto:
 # Text displayed when the page has no manifest available
 manifest-non-existing = No se encontró ningún manifiesto para inspeccionar.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = El manifiesto está integrado en una URL de datos.
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Manifiesto
     .alt = Ícono del Manifiesto
