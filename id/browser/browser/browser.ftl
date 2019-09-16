@@ -43,5 +43,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Mengelola berbagi kamera dan atau mikrofon Anda dengan situs ini
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Buka panel putar-otomatis
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = Simpan data di Penyimpanan Persisten
 urlbar-addons-notification-anchor =
     .tooltiptext = Buka panel pesan pemasangan pengaya
