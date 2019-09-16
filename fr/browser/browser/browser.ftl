@@ -2,6 +2,36 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+urlbar-identity-button =
+    .aria-label = Afficher les informations du site
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = Afficher le message d’installation de service
+urlbar-web-notification-anchor =
+    .tooltiptext = Gérer l’envoi de notifications par le site
+urlbar-eme-notification-anchor =
+    .tooltiptext = Gérer l’utilisation des logiciels DRM
+urlbar-web-rtc-share-microphone-notification-anchor =
+    .tooltiptext = Gérer le partage du microphone avec ce site
+urlbar-default-notification-anchor =
+    .tooltiptext = Afficher une notification
+urlbar-geolocation-notification-anchor =
+    .tooltiptext = Afficher la demande de géolocalisation
+urlbar-translate-notification-anchor =
+    .tooltiptext = Traduire cette page
+urlbar-web-rtc-share-screen-notification-anchor =
+    .tooltiptext = Gérer le partage de fenêtres ou d’écran avec ce site
+urlbar-indexed-db-notification-anchor =
+    .tooltiptext = Afficher le message concernant le stockage de données hors connexion
+urlbar-password-notification-anchor =
+    .tooltiptext = Afficher la demande d’enregistrement du mot de passe
+urlbar-translated-notification-anchor =
+    .tooltiptext = Gérer la traduction de la page
+urlbar-plugins-notification-anchor =
+    .tooltiptext = Gérer l’utilisation du plugin
+urlbar-web-rtc-share-devices-notification-anchor =
+    .tooltiptext = Gérer le partage de la caméra et/ou du microphone avec ce site
+urlbar-addons-notification-anchor =
+    .tooltiptext = Afficher le message d’installation du module complémentaire
