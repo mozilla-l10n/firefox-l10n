@@ -2,5 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-browser-urlbar-identity-button =
+urlbar-identity-button =
     .aria-label = Amostrar a información d'o puesto
+
+## Tooltips for images appearing in the address bar
+
