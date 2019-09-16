@@ -353,7 +353,7 @@ browsing-cfr-recommendations-learn-more = Alamin pa
 
 ## General Section - Proxy
 
-network-settings-title = Ibalik ang Mga Setting
+network-settings-title = Mga Network Setting
 network-proxy-connection-description = I-configure kung pano kumokonekta ang { -brand-short-name } sa internet.
 network-proxy-connection-learn-more = Matuto ng higit pa
 network-proxy-connection-settings =

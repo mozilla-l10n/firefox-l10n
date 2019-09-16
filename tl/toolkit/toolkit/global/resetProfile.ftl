@@ -9,6 +9,6 @@ refresh-profile-dialog-button =
 refresh-profile-description = Magsimula muli nang bagung-bago para maayos ang mga problema at maibalik ang maayos na performance.
 refresh-profile-description-details = Ang mga gagawin nito ay:
 refresh-profile-remove = Tanggalin ang iyong mga add-on at customization
-refresh-profile-restore = Ibalik ang iyong mga setting ng browser sa kanilang mga default
+refresh-profile-restore = Ibalik ang iyong mga browser setting sa kanilang mga default
 refresh-profile = Bigyan ng tune up ang { -brand-short-name }
 refresh-profile-button = Refresh { -brand-short-name }…
