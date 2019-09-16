@@ -23,14 +23,17 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Cuenta">
 <!ENTITY firstrun_sync_message2 "Continúa donde lo dejaste.">
+<!ENTITY firstrun_sync_message3 "Sincroniza tus marcadores, historial y contraseñas con tu teléfono.">
 <!ENTITY firstrun_sync_subtext2 "Utiliza Sync para encontrar los marcadores, contraseñas y otras cosas que guardas en &brandShortName; en todos sus dispositivos.">
 <!ENTITY newfirstrun_sync_subtext "Sincroniza de forma privada y segura la información que tienes en el móvil con Firefox para escritorio.">
 <!ENTITY updatednewfirstrun_sync_subtext "Inicia sesión tu cuenta para aprovechar al máximo &brandShortName;">
+<!ENTITY firstrun_sendtab_title "Enviar pestaña">
+<!ENTITY firstrun_sendtab_message "Compartir pestañas desde el dispositivo móvil al escritorio de forma instantánea.">
 <!ENTITY firstrun_signin_message "Conéctese y en marcha">
 <!ENTITY firstrun_signin_button "Inicie sesión en Sync">
 <!ENTITY newfirstrun_signin_button "Activar Sync">
 <!ENTITY updatednewfirstrun_signin_button "Inicia sesión en &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Comenzar a navegar">
+<!ENTITY onboard_start_button_browser "Comenzar a navegar">
 <!ENTITY firstrun_button_notnow "Ahora no">
 <!ENTITY firstrun_button_next "Siguiente">
 
