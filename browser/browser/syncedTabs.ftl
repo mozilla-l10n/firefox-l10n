@@ -37,3 +37,4 @@ synced-tabs-context-manage-devices =
     .label = Διαχείριση συσκευών…
     .accesskey = Σ
 fxa-sign-in = Σύνδεση στο { -sync-brand-short-name }
+turn-on-sync = Ενεργοποίηση { -sync-brand-short-name }
