@@ -9,8 +9,12 @@ urlbar-identity-button =
 
 urlbar-canvas-notification-anchor =
     .tooltiptext = canvas උපුටාගැනීම් බලතල පාලනය කරන්න
+urlbar-translate-notification-anchor =
+    .tooltiptext = මෙම පිටුව පරිවර්තනය කරන්න
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = මාර්ගගත නොවන ගබඩා පණිවුඩ පැනලය විවෘත කරන්න
+urlbar-translated-notification-anchor =
+    .tooltiptext = පිටු පරිවර්තනය කළමණාකරනය කරන්න
 urlbar-plugins-notification-anchor =
     .tooltiptext = ප්ලගින භාවිතය පාලනය කරන්න
 urlbar-persistent-storage-notification-anchor =
