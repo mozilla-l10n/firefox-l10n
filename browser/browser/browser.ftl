@@ -7,9 +7,31 @@ urlbar-identity-button =
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = Obrir lo panèl de messatge d’installar
+urlbar-web-notification-anchor =
+    .tooltiptext = Gerir las notificacions per aqueste site
+urlbar-eme-notification-anchor =
+    .tooltiptext = Gerir l’utilizacion dels logicials DRM
 urlbar-web-rtc-share-microphone-notification-anchor =
     .tooltiptext = Actualament, partejatz vòstre microfòn amb lo site
+urlbar-default-notification-anchor =
+    .tooltiptext = Mostrar la notificacion
+urlbar-geolocation-notification-anchor =
+    .tooltiptext = Mostrar la demanda de geolocalizacion
 urlbar-translate-notification-anchor =
     .tooltiptext = Traduire aquesta pagina
+urlbar-web-rtc-share-screen-notification-anchor =
+    .tooltiptext = Gerir lo partiment de vòstras fenèstras o d'ecran amb aqueste site
+urlbar-indexed-db-notification-anchor =
+    .tooltiptext = Mostrar lo messatge sus l'emmagazinatge fòra linha
+urlbar-password-notification-anchor =
+    .tooltiptext = Mostrar lo messatge per enregistrar lo senhal
 urlbar-translated-notification-anchor =
     .tooltiptext = Gerir la traduccion de paginas
+urlbar-plugins-notification-anchor =
+    .tooltiptext = Gerir l'utilizacion dels moduls complementaris
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = Gardar las donadas dins un emmagazinatge permanent
+urlbar-addons-notification-anchor =
+    .tooltiptext = Mostrar lo messatge d'installation del modul
