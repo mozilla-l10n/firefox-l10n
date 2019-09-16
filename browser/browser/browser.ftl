@@ -35,5 +35,7 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Upravljanje uporabe vtičnikov
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Upravljajte dovoljenje za uporabo kamere in/ali mikrofona na tej strani
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = Shrani podatke v trajni shrambi
 urlbar-addons-notification-anchor =
     .tooltiptext = Odpri ploščo s sporočili o namestitvah dodatkov
