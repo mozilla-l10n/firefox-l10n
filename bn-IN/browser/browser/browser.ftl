@@ -33,5 +33,7 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = প্লাগ-ইনের ব্যবহার পরিচালনা করুন
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = সাইটের সাথে আপনার ক্যামেরা/বা মাইক্রোফোন শেয়ার করাকে পরিচালনা করুন
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = স্থায়ী স্টোরেজের মধ্যে তথ্য সংরক্ষণ করুন
 urlbar-addons-notification-anchor =
     .tooltiptext = অ্যাড-অন ইন্সটল করার ম্যাসেজ প্যানেল খুলুন
