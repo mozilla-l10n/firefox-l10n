@@ -254,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "管理插件使用">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "更改您是否接收该网站发来的通知">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "在持久存储中存储数据">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "浏览器正被远程控制">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "打开 Web 认证面板">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "打开上网活动权限面板">
@@ -439,8 +440,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "想查看您在其他设备上的标签页吗？">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "打开同步首选项">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "登录以查看来自您的其他设备的标签页列表。">
+<!ENTITY appMenuRemoteTabs.welcome.label "查看您的其他设备上的标签页列表。">
 <!ENTITY appMenuRemoteTabs.unverified.label "您的账号需要验证。">
 <!ENTITY appMenuRemoteTabs.signin.label "登录同步服务">
+<!ENTITY appMenuRemoteTabs.signintosync.label "登录&syncBrand.shortName.label;服务">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "开启&syncBrand.shortName.label;服务…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "管理设备…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "显示受同步标签页侧栏">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "隐藏受同步标签页侧栏">
