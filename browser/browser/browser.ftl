@@ -5,3 +5,5 @@
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-addons-notification-anchor =
+    .tooltiptext = Адкрыць панэль паведамленняў аб усталяванні дадатка
