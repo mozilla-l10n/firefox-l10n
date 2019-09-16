@@ -63,6 +63,9 @@ about-logins-login-list-empty-search-description = Njejsu žane wuslědki, kotre
 login-list-item-title-new-login = Nowe přizjewjenje
 login-list-item-subtitle-new-login = Zapodajće swoje přizjewjenske daty
 login-list-item-subtitle-missing-username = (žane wužiwarske mjeno)
+about-logins-list-item-warning-icon =
+    .alt = Warnowanski symbol
+    .title = Zranjene websydło
 
 ## Introduction screen
 
@@ -81,8 +84,6 @@ login-item-origin-label = Adresa websydła
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Wužiwarske mjeno
-login-item-username =
-    .placeholder = name@example.com
 about-logins-login-item-username =
     .placeholder = (žane wužiwarske mjeno)
 login-item-copy-username-button-text = Kopěrować
