@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Full Screen
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Show All Tabs
@@ -212,6 +212,9 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Sign In To { -sync-brand-short-name }…
     .accesskey = Y
+menu-tools-turn-on-sync =
+    .label = Turn on { -sync-brand-short-name }…
+    .accesskey = n
 menu-tools-sync-now =
     .label = Sync Now
     .accesskey = S
