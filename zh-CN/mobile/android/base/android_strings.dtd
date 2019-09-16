@@ -23,14 +23,17 @@
 <!ENTITY firstrun_sync_title "同步">
 <!ENTITY updatednewfirstrun_sync_title "账户">
 <!ENTITY firstrun_sync_message2 "这边看罢，那边继续。">
+<!ENTITY firstrun_sync_message3 "将您的的书签、历史记录以及密码同步到手机。">
 <!ENTITY firstrun_sync_subtext2 "利用同步服务，在您任何设备上的 &brandShortName; 中都能漫游同一套书签、密码等信息。">
 <!ENTITY newfirstrun_sync_subtext "将您在移动设备上保存的内容，私密、安全地同步至桌面版 Firefox。">
 <!ENTITY updatednewfirstrun_sync_subtext "登录账户，享用 &brandShortName; 完整功能">
+<!ENTITY firstrun_sendtab_title "发送标签页">
+<!ENTITY firstrun_sendtab_message "在移动与桌面设备间即刻分享标签页。">
 <!ENTITY firstrun_signin_message "互联设备，即刻畅游">
 <!ENTITY firstrun_signin_button "登录并同步">
 <!ENTITY newfirstrun_signin_button "开启同步">
 <!ENTITY updatednewfirstrun_signin_button "登录 &brandShortName;">
-<!ENTITY  onboard_start_button_browser "开始上网">
+<!ENTITY onboard_start_button_browser "开始上网">
 <!ENTITY firstrun_button_notnow "暂时不要">
 <!ENTITY firstrun_button_next "下一步">
 
