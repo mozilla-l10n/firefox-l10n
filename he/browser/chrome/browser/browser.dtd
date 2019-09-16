@@ -252,6 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ניהול שימוש בתוספים חיצוניים">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "החלפת מצב קבלת התרעות מהאתר">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "שמירת נתונים באחסון קבוע">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "הדפדפן נשלט מרחוק">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "פתיחת חלונית Web Authentication">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "פתיחת חלונית הרשאות לפעילות בדפדפן">
@@ -437,8 +438,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "להציג כאן את הלשוניות שלך ממכשירים אחרים?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "פתיחת העדפות Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "יש להיכנס כדי לצפות ברשימת הלשוניות שלך ממכשירים אחרים.">
+<!ENTITY appMenuRemoteTabs.welcome.label "הצגת רשימה של הלשוניות שלך ממכשירים אחרים.">
 <!ENTITY appMenuRemoteTabs.unverified.label "יש לאמת את החשבון שלך.">
 <!ENTITY appMenuRemoteTabs.signin.label "התחברות אל Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "התחברות אל &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "הפעלת &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "ניהול מכשירים…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "הצגת סרגל צד של לשוניות מסונכרנות">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "הסתרת סרגל צד של לשוניות מסונכרנות">
