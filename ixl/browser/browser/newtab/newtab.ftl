@@ -5,6 +5,7 @@
 
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
+newtab-page-title = Ak' ika'ye'
 
 ## Search box component.
 
@@ -15,6 +16,9 @@ newtab-search-box-search-button =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-title-label = Ib'ii
+newtab-topsites-title-input =
+    .placeholder = Aq'ku' ib'ii
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -38,6 +42,7 @@ newtab-menu-section-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = B'an tuche'
+newtab-menu-dismiss = Eesa kan
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".

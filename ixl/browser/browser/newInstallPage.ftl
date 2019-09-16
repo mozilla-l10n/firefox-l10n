@@ -14,5 +14,6 @@ changed-desc-profiles = Uva' ni toksal ok tetz u { -brand-short-name } at uma'l 
 changed-desc-dedicated = Aq'al uva' oora kuxhtu' as b'a'n tatine' tul uva' la teq'o ku'tzan u Firefox (la oksal ok Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition y Firefox Nightly), tan uve' a'n tuk oksalo ok, va'l itza'lal u tilpe'. As a' chite' ye' la aq'on b'en yol tuk' ka'taj kam uva' la oksal ok ta'n u Firefox.
 lost = <b>Ye'xh kam kuxh umaj kam atz'eje'ta' ni kuxh ti' ib'anpu tuche'. </b> Asoj kolel ve't s-a'n tu Firefox tu ch'ich'a vaa', at tele tu uma't kam uva' kat oksal kat ok tu Firefox.
 options-title = Kam la uch unb'anata'?
+resources = Lochb'al:
 sync-button = Yakeb'en
 sync-learn = Ootzi ka'te
