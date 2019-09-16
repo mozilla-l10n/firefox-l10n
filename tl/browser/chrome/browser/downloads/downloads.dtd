@@ -96,7 +96,7 @@
      malware, when there is an associated explanation page on the Mozilla site.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
-<!ENTITY learnMore.label                  "Alamin pa">
+<!ENTITY learnMore.label                  "Alamin">
 
 <!-- LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
      This string is shown at the bottom of the Downloads Panel when all the
@@ -118,14 +118,14 @@
      -->
 <!ENTITY openDownloadsFolder.label        "Buksan ang Download Folder">
 
-<!ENTITY clearDownloadsButton.label       "Burahin ang mga Download ">
+<!ENTITY clearDownloadsButton.label       "Burahin ang mga Download">
 <!ENTITY clearDownloadsButton.tooltip     "Hawiin ang mga nacompleto, nakansela at nabigong mga download">
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
      is displayed inside a browser tab.
      -->
-<!ENTITY downloadsListEmpty.label         "Walang namang mga download.">
+<!ENTITY downloadsListEmpty.label         "Walang mga download.">
 
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.

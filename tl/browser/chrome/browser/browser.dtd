@@ -16,7 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Private Browsing)">
 
 <!ENTITY appmenu.tooltip                     "Buksan ang menu">
-<!ENTITY navbarOverflow.label                "Marami pang tools...">
+<!ENTITY navbarOverflow.label                "Marami pang mga kagamitan…">
 
 <!-- Tab context menu -->
 
@@ -304,7 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksToolbar.label         "Ipakita ang Bookmarks Sidebar">
 <!ENTITY hideBookmarksToolbar.label         "Itago ang Bookmark Toolbar">
 <!ENTITY searchBookmarks.label              "Hanapin sa mga Bookmark">
-<!ENTITY bookmarkingTools.label             "Mga Tool sa Pag-bookmark">
+<!ENTITY bookmarkingTools.label             "Mga Gamit sa Pag-bookmark">
 <!ENTITY addBookmarksMenu.label             "Idagdag ang Bookmark Menu sa Toolbar">
 <!ENTITY removeBookmarksMenu.label          "Alisin ang Bookmarks Menu mula sa Toolbar">
 
