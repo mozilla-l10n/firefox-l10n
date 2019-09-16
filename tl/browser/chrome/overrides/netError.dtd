@@ -52,7 +52,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Ang Dokumentong ito ay Expired">
-<!ENTITY notCached.longDesc "<p>Ang dokumento na hiningi ay wala sa cache ng &brandShortName;. </p><ul><li>Bilang security precaution, hindi awtomatikong hinihingi ng &brandShortName; ang mga sensitibong dokumento.</li><li>I-click ang Subukan Uli para muling hingin ang dokumento mula sa website.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Ang dokumento na hiningi ay wala sa cache ng &brandShortName;. </p><ul><li>Bilang security precaution, hindi awtomatikong hinihingi ng &brandShortName; ang mga sensitibong dokumento.</li><li>Pindutin ang Subukan Uli para muling hingin ang dokumento mula sa website.</li></ul>">
 
 <!ENTITY netOffline.title "Naka-Offline">
 <!ENTITY netOffline.longDesc2 "<ul>

@@ -254,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Pangasiwaan ang paggamit ng plug-in">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Baguhin kung pwede ka na makakuha ng abiso galing sa site">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Ilagay ang datos sa Persistent Storage">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browser ay kasalukuyang nire-remote kontrol">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Buksan ang Web Authentication panel">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Buksan ang panel ng mga pahintulot para sa browsing activity">
@@ -439,8 +440,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Gusto mong makita ang iyong mga tab mula sa iba pang mga device dito?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Buksan ang Mga Kagustuhan sa Pag-sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Mag-sign in para makita ang listahan ng mga tab mula sa iba mong mga device.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Tingnan ang listahan ng mga tab mula sa iba mong mga device.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ang iyong account ay kailangang ma-verify.">
 <!ENTITY appMenuRemoteTabs.signin.label "Mag-sign in sa Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Mag-sign in sa &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Buksan ang &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Pamahalaan ang mga Device...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Tingnan ang mga Naka-sync Tab Sidebar">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Itago ang Synced Tabs Sidebar">

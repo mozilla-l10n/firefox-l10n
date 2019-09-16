@@ -90,6 +90,9 @@ manifest-loaded-ok = Naiload na ang manifest.
 manifest-loaded-error = Nagkaroon ng problema habang niloload ang manifest.
 # Text displayed when the page has no manifest available
 manifest-non-existing = Walang manifest na pwedeng suriin.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Ang manifest ay naka-embed sa Data URL.
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Manifest
     .alt = Manifest Icon
