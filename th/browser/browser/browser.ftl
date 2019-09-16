@@ -7,3 +7,5 @@ urlbar-identity-button =
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-translate-notification-anchor =
+    .tooltiptext = แปลหน้านี้
