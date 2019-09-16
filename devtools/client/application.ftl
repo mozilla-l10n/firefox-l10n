@@ -56,7 +56,7 @@ serviceworker-worker-status-stopped = 已停止
 serviceworker-worker-status-registering = 正在注册...
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = 先注册一个 Service Worker 才可在此检视。<a>详细了解</a>
+serviceworker-empty-intro = 先注册一个 Service Worker 才可在此查看。<a>详细了解</a>
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 serviceworker-empty-suggestions = 如果当前页面中应有 Service Worker，您可以尝试：
