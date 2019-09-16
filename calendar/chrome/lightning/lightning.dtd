@@ -41,8 +41,8 @@
      lightning.calendarproperties.forceEmailScheduling.label)
      These strings are used in the calendar wizard and the calendar properties dialog, but are only
      displayed when setting/using a caldav calendar -->
-<!ENTITY lightning.calendarproperties.email.label                           "E-Bost:">
-<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Ffracio amserlennu e-bost ochr y cleient">
+<!ENTITY lightning.calendarproperties.email.label                           "E-bost:">
+<!ENTITY lightning.calendarproperties.forceEmailScheduling.label            "Ffafrio amserlennu e-bost ochr y cleient">
 <!-- LOCALIZATON NOTE(lightning.calendarproperties.forceEmailScheduling.tooltiptext1,
      lightning.calendarproperties.forceEmailScheduling.tooltiptext2)
      - tooltiptext1 is used in the calendar wizard when setting a new caldav calendar
