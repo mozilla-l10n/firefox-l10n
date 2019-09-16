@@ -37,5 +37,7 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Rheoli defnydd ategion
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Rheoli rhannu eich camera a/neu feicroffon gyda'r wefan
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = Cadw data mewn Storfa Barhaus
 urlbar-addons-notification-anchor =
     .tooltiptext = Agor panel neges gosod yr ychwanegyn
