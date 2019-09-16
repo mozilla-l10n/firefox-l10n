@@ -608,7 +608,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "I-reload ang Larawan">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "Tingnan ang Imahe">
+<!ENTITY viewImageCmd.label           "Tingnan ang Larawan">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "Tingnan ang Impormasyon ng Larawan">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
