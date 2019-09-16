@@ -33,5 +33,7 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = प्रयोगमा रहेका प्लगइनहरू व्यवस्थापन गर्नुहोस्
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = यो साइटको तपाईँको क्यामेरा र/अथवा माइक्रो फोन प्रयोग अधिकार ब्यवस्थापन गर्नुहोस्
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = डाटालाई लगातार भण्डारणमा राख्नुहोस्
 urlbar-addons-notification-anchor =
     .tooltiptext = एडअन स्थापना सन्देश प्यानल खोल्नुहोस्
