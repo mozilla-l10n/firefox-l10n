@@ -477,8 +477,8 @@
 <!ENTITY imAccountsStatus.accesskey "Κ">
 <!ENTITY imStatus.available          "Διαθέσιμος">
 <!ENTITY imStatus.unavailable        "Μη διαθέσιμος">
-<!ENTITY imStatus.offline            "Εκτός δικτύου">
-<!ENTITY imStatus.showAccounts       "Εμφάνιση Λογαριασμών…">
+<!ENTITY imStatus.offline            "Εκτός σύνδεσης">
+<!ENTITY imStatus.showAccounts       "Εμφάνιση λογαριασμών…">
 <!ENTITY joinChatCmd.label "Συμμετοχή στη συνομιλία…">
 <!ENTITY joinChatCmd.accesskey "σ">
 <!ENTITY savedFiles.label "Αποθηκευμένα αρχεία">
