@@ -44,6 +44,9 @@ newtab-topsites-add-button = ଯୋଗ କରନ୍ତୁ
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = ଏହି କାର୍ଯ୍ୟର ପଦକ୍ଷେପ ବାତିଲ କରିପାରିବେ ନାହିଁ।
 
@@ -84,6 +87,10 @@ newtab-menu-bookmark = ଚିହ୍ନିତ ସ୍ଥାନ
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = ଆହରଣ ସଂଯୋଗିକୀକୁ ନକଲ କରନ୍ତୁ
 newtab-menu-go-to-download-page = ଆହରଣ ପୃଷ୍ଠାକୁ ଯାଆନ୍ତୁ
 newtab-menu-remove-download = ପୁରୁଣା ତଥ୍ୟରୁ ବାହାର କରନ୍ତୁ
@@ -105,11 +112,16 @@ newtab-menu-open-file = ଫାଇଲ ଖୋଲନ୍ତୁ
 
 newtab-label-visited = ପରିଦର୍ଶିତ
 newtab-label-bookmarked = ଚିହ୍ନିତ ସ୍ଥାନ ହେଲା
+newtab-label-removed-bookmark = ବୁକମାର୍କ କଢ଼ାଯାଇଛି
 newtab-label-recommended = ଟ୍ରେଣ୍ଡିଂ
 newtab-label-saved = { -pocket-brand-name }ରେ ସଂରକ୍ଷିତ
 newtab-label-download = ଆହରଣ ହୋଇସାରିଛି
 
 ## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = ପରିଚ୍ଛେଦ ହଟାନ୍ତୁ
@@ -122,6 +134,13 @@ newtab-section-menu-add-search-engine = ଖୋଜା ଯନ୍ତ୍ର ଯୋ�
 newtab-section-menu-move-up = ଉପରକୁ ଯାଆନ୍ତୁ
 newtab-section-menu-move-down = ତଳକୁ ଯାଆନ୍ତୁ
 newtab-section-menu-privacy-notice = ଗୋପନୀୟତା ବିଜ୍ଞପ୍ତି
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = ପରିଚ୍ଛେଦକୁ ଜାକି ଦିଅନ୍ତୁ
+newtab-section-expand-section-label =
+    .aria-label = ପରିଚ୍ଛେଦକୁ ବିସ୍ତୃତ କରିଦିଅନ୍ତୁ
 
 ## Section Headers.
 
@@ -136,6 +155,7 @@ newtab-section-header-pocket = { $provider }ଦ୍ୱାରା ସୁପାର�
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-content = ଅଧିକ କାହାଣୀପାଇଁ ପରେ ଦେଖନ୍ତୁ
 newtab-discovery-empty-section-topstories-try-again-button = ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ
 newtab-discovery-empty-section-topstories-loading = ଲୋଡ଼ ହେଉଛି...
 # Displays when a layout in a section took too long to fetch articles.

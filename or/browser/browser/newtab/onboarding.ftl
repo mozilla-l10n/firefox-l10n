@@ -33,6 +33,8 @@ onboarding-cards-dismiss =
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = { -brand-product-name }କୁ ଆପଣଙ୍କ ସହିତ ନିଅନ୍ତୁ
+onboarding-sync-welcome-learn-more-link = ଫାୟାରଫକ୍ସ ଖାତା ବିଷୟରେ ଅଧିକ ଜାଣନ୍ତୁ
 onboarding-sync-form-invalid-input = ବୈଧ ଇମେଲ ଆବଶ୍ୟକ
 onboarding-sync-form-input =
     .placeholder = ଇମେଲ
@@ -70,6 +72,7 @@ onboarding-data-sync-title = ଆପଣଙ୍କର ସଜାଣି ଆପଣଙ�
 onboarding-data-sync-button2 = { -sync-brand-short-name }କୁ ଲଗ ଇନ କରନ୍ତୁ
 onboarding-browse-privately-title = ଗୋପନୀୟ ଭାବେ ବ୍ରାଉଜିଂ କରନ୍ତୁ
 onboarding-browse-privately-button = ଏକ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋ ଖୋଲନ୍ତୁ
+onboarding-firefox-send-title = ବଣ୍ଟାଯାଇଥିବା ଫାଇଲଗୁଡ଼ିକୁ ଗୋପନୀୟ ରଖନ୍ତୁ
 onboarding-firefox-send-button = { -send-brand-name } ଚେଷ୍ଟା କରନ୍ତୁ
 onboarding-mobile-phone-title = { -brand-product-name }କୁ ଆପଣଙ୍କର ଫୋନରେ ପାଆନ୍ତୁ
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
