@@ -54,7 +54,7 @@ onboarding-sync-form-sub-header = para pasar a { -sync-brand-name }.
 ## description.
 
 onboarding-benefit-products-title = Productos prácticos
-onboarding-benefit-products-text = Haga las cosas con una grupode herramientas que respete su privacidad en todos sus dispositivos.
+onboarding-benefit-products-text = Haga las cosas con una grupo de herramientas que respete su privacidad en todos sus dispositivos.
 onboarding-benefit-knowledge-title = Conocimiento práctico
 onboarding-benefit-knowledge-text = Aprenda todo lo que necesita saber para mantenerse en línea de manera más inteligente y segura.
 onboarding-benefit-privacy-title = Verdadera privacidad
