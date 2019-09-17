@@ -61,6 +61,9 @@ about-logins-login-list-empty-search-description = ଆପଣ ଖୋଜୁଥି�
 login-list-item-title-new-login = ନୂତନ ଲଗଇନ
 login-list-item-subtitle-new-login = ଆପଣଙ୍କର ଲଗଇନ ତଥ୍ୟ ଭରନ୍ତୁ
 login-list-item-subtitle-missing-username = (ବ୍ୟବହାରକାରୀ ନାମ ନାହିଁ)
+about-logins-list-item-warning-icon =
+    .alt = ଚେତାବନୀ ଆଇକନ
+    .title = ସଂକ୍ରମିତ ୱେବସାଇଟ
 
 ## Introduction screen
 
@@ -76,6 +79,8 @@ login-item-origin-label = ୱେବସାଇଟ ଠିକଣା
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ଉପଭୋକ୍ତାଙ୍କ ନାମ
+about-logins-login-item-username =
+    .placeholder = (ବ୍ୟବହାରକାରୀ ନାମ ନାହିଁ)
 login-item-copy-username-button-text = ନକଲ କରନ୍ତୁ
 login-item-copied-username-button-text = ନକଲ ହୋଇଛି
 login-item-password-label = ପାସ୍‌ୱାର୍ଡ୍
@@ -100,6 +105,13 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = ବାତିଲ
 confirmation-dialog-dismiss-button =
     .title = ବାତିଲ କରନ୍ତୁ
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] { -sync-brand-short-name }ର ବିକଳ୍ପଗୁଡ଼ିକୁ ଦେଖନ୍ତୁ
+           *[other] { -sync-brand-short-name }ର ସାଜସଜ୍ଜା ଦେଖନ୍ତୁ
+        }
+    .accesskey = ଭ
 confirm-delete-dialog-title = ଲଗଇନକୁ ବିଲୋପ କରିଦେବେ?
 confirm-delete-dialog-message = ଏହି କାର୍ଯ୍ୟର ପଦକ୍ଷେପ ବାତିଲ କରିପାରିବେ ନାହିଁ।
 confirm-delete-dialog-confirm-button = ଅପସାରଣ କରନ୍ତୁ
@@ -110,6 +122,8 @@ confirm-discard-changes-dialog-confirm-button = ପରିତ୍ୟାଗ
 ## Breach Alert notification
 
 breach-alert-link = ଏହି ଅନୁପ୍ରବେଶ ବିଷୟରେ ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ
+breach-alert-dismiss =
+    .title = ଚେତାବନୀକୁ ବନ୍ଦ କରିଦିଅନ୍ତୁ
 
 ## Error Messages
 
