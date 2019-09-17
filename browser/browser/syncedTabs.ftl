@@ -37,3 +37,4 @@ synced-tabs-context-manage-devices =
     .label = Hallitse laitteita…
     .accesskey = H
 fxa-sign-in = Kirjaudu sisään { -sync-brand-short-name }-palveluun
+turn-on-sync = Ota { -sync-brand-short-name } käyttöön
