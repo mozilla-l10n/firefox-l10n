@@ -5,6 +5,7 @@
 <!-- addon actions -->
 
 
+<!ENTITY cmd.uninstallAddon.label             "Sojsa el">
 <!ENTITY cmd.showPreferencesWin.label         "Unka'te">
 <!ENTITY cmd.showPreferencesUnix.label        "Uve' ni chit asa'">
 

@@ -51,6 +51,7 @@ privacy-policy = Ootzib'al ti' ib'anb'el ti jikil
 
 ## Add-on actions
 
+remove-addon-button = Sojsa el
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Unka'te

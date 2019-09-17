@@ -82,11 +82,16 @@ home-mode-choice-custom =
 
 ## Search Section
 
+search-remove-engine =
+    .label = Sojsa el
+    .accesskey = S
 
 ## Containers Section
 
 containers-preferences-button =
     .label = Uve' ni chit asa'
+containers-remove-button =
+    .label = Sojsa el
 
 ## Sync Section - Signed out
 

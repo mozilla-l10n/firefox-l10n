@@ -4,6 +4,9 @@
 
 languages-close-key =
     .key = w
+languages-customize-remove =
+    .label = Sojsa el
+    .accesskey = S
 languages-customize-add =
     .label = Aq'o'ke'
     .accesskey = A

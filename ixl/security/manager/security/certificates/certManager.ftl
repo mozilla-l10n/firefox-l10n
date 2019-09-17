@@ -8,6 +8,7 @@ certmgr-delete =
 
 ## PKCS#12 file dialogs
 
+file-browse-pkcs12-spec = Unq'a kolb'al aq'on PKCS12
 
 ## Import certificate(s) file dialog
 
