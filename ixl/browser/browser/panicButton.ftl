@@ -16,3 +16,6 @@ panic-button-day =
 ## Note also that some strings include <strong> tags for emphasis on the
 ## words "Cookies", "History", "Tabs" and "Windows". The translation should do the same.
 
+panic-button-action-desc = Asoj la yakeb' axh,
+panic-button-delete-cookies = Sojsa unq'a <strong>Cookies</strong>
+panic-button-delete-history = La sojsal el <strong> unq'a vee' </strong> a'nnal kuxh ichukpe'
