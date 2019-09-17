@@ -5,9 +5,14 @@
 
 ## These messages are used as headings in the recommendation doorhanger
 
+cfr-doorhanger-extension-heading = Taq'ob'al uva' la lochoni
+cfr-doorhanger-feature-heading = Lochb'al aq'on uva' la chit txakoni
+cfr-doorhanger-pintab-heading = Qil kuxh u vaa': Lak'ku' u texhlale'
 
 
 
+cfr-doorhanger-extension-sumo-link =
+    .tooltiptext = Kam q'ii ni kuxh vil uk vaa'
 cfr-doorhanger-extension-cancel-button = Jit Cheel
     .accesskey = J
 cfr-doorhanger-extension-learn-more-link = Ootzi ka'te
