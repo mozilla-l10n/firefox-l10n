@@ -29,7 +29,7 @@
 <!ENTITY closeCmd.label                                 "Fechar">
 <!ENTITY closeCmd.key                                   "w">
 <!ENTITY closeCmd.accesskey                             "F">
-<!ENTITY printSetupCmd.label                            "Configurar a página…">
+<!ENTITY printSetupCmd.label                            "Configurar página…">
 <!ENTITY printSetupCmd.accesskey                        "C">
 <!ENTITY printPreviewContactCmd.label                   "Visualizar impressão do contato">
 <!ENTITY printPreviewContactCmd.accesskey               "z">
