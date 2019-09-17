@@ -37,3 +37,4 @@ synced-tabs-context-manage-devices =
     .label = Gerer le apparatos…
     .accesskey = a
 fxa-sign-in = Connecter se a { -sync-brand-short-name }
+turn-on-sync = Accender { -sync-brand-short-name }

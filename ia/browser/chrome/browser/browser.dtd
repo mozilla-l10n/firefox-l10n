@@ -254,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gerer utilisation del plugin">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Indicar si tu pote reciper notificationes del sito">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Stockar datos in le immagazinage persistente">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Le navigator es sub controlo remote">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Aperir le quadro de authentication web">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Aperir le panello de permissiones de activitates">
@@ -441,6 +442,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Authentica te pro vider un lista de schedas de tu altere apparatos.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Il necesse verificar tu conto.">
 <!ENTITY appMenuRemoteTabs.signin.label "Connecter se a Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Acceder a &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerer le apparatos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vider le barra lateral de schedas synchronisate">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Celar le barra lateral de schedas synchronisate">

@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Plen schermo
     .accesskey = P
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Monstrar tote le schedas
@@ -212,6 +212,9 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Connecter se a { -sync-brand-short-name }…
     .accesskey = Y
+menu-tools-turn-on-sync =
+    .label = Accende { -sync-brand-short-name }…
+    .accesskey = A
 menu-tools-sync-now =
     .label = Synchronisar ora
     .accesskey = S
