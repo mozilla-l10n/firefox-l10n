@@ -26,11 +26,12 @@
 <!ENTITY firstrun_sync_subtext2 "Gebruik Sync om de bladwijzers, wachtwoorden en andere dingen die u in &brandShortName; op al uw apparaten opslaat te vinden.">
 <!ENTITY newfirstrun_sync_subtext "Synchroniseer de dingen die u op mobiel opslaat naar Firefox voor desktop, privé en veilig.">
 <!ENTITY updatednewfirstrun_sync_subtext "Meld u aan bij uw account om het meeste uit &brandShortName; te halen">
+<!ENTITY firstrun_sendtab_title "Tabblad verzenden">
 <!ENTITY firstrun_signin_message "Maak verbinding en begin">
 <!ENTITY firstrun_signin_button "Aanmelden bij Sync">
 <!ENTITY newfirstrun_signin_button "Sync inschakelen">
 <!ENTITY updatednewfirstrun_signin_button "Aanmelden bij &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Beginnen met browsen">
+<!ENTITY onboard_start_button_browser "Beginnen met browsen">
 <!ENTITY firstrun_button_notnow "Niet nu">
 <!ENTITY firstrun_button_next "Volgende">
 
