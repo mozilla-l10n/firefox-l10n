@@ -339,6 +339,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Buscar texto cuando comience a escribir
     .accesskey = x
+browsing-picture-in-picture-learn-more = Saber más
 browsing-cfr-recommendations =
     .label = Recomendar extensiones mientras se navega
     .accesskey = R
@@ -600,6 +601,10 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Sugerir y generar contraseñas seguras
     .accesskey = u
+forms-breach-alerts-learn-more-link = Saber más
+forms-fill-logins-and-passwords =
+    .label = Autocompletar inicios de sesión y contraseñas
+    .accesskey = i
 forms-saved-logins =
     .label = Cuentas guardadas…
     .accesskey = C
@@ -676,6 +681,10 @@ sitedata-block-desc = Tipo bloqueado
     .accesskey = T
 sitedata-option-block-trackers =
     .label = Rastreadores de terceros
+sitedata-option-block-cross-site-trackers =
+    .label = Rastreadores entre sitios
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Rastreadores entre sitios y de redes sociales
 sitedata-option-block-unvisited =
     .label = Cookies de sitios web no visitados
 sitedata-option-block-all-third-party =
@@ -711,6 +720,7 @@ addressbar-suggestions-settings = Cambiar preferencias de sugerencias de buscado
 
 content-blocking-header = Bloqueo de contenido
 content-blocking-section-description = Proteja su privacidad mientras navega. Bloquee contenidos invisibles que rastrean los sitios que visita y crean un perfil sobre usted. Bloquear este tipo de contenido puede hacer que las páginas carguen más rápido.
+content-blocking-enhanced-tracking-protection = Protección contra el rastreo mejorada
 content-blocking-learn-more = Saber más
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -728,6 +738,25 @@ content-blocking-strict-description = Una mayor protección puede provocar que a
 content-blocking-custom-desc = Elija qué va a bloquear
 content-blocking-private-trackers = Rastreadores conocidos solo en ventanas privadas
 content-blocking-third-party-cookies = Cookies de rastreo de terceros
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Estándar
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Estricto
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Personalizado
+    .accesskey = C
+
+
+
+content-blocking-private-windows = Rastreo de contenido en ventanas privadas
+content-blocking-cross-site-tracking-cookies = Cookies de rastreo entre sitios
 content-blocking-all-cookies = Todas las cookies
 content-blocking-unvisited-cookies = Cookies de sitios no visitados
 content-blocking-all-windows-trackers = Rastreadores conocidos en todas las ventanas
@@ -737,12 +766,16 @@ content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = ¡Atención!
 content-blocking-warning-description = Bloquear contenido puede provocar que algunos sitios web dejen de funcionar correctamente. Lo mejor es deshabilitar el bloqueo en los sitios de confianza.
 content-blocking-learn-how = Saber cómo
+content-blocking-warning-learn-how = Saber cómo
 content-blocking-reload-description = Tiene que recargar las pestañas para que los cambios surtan efecto.
 content-blocking-reload-tabs-button =
     .label = Recargar todas las pestañas
     .accesskey = R
 content-blocking-trackers-label =
     .label = Rastreadores
+    .accesskey = T
+content-blocking-tracking-content-label =
+    .label = Contenido de rastreo
     .accesskey = T
 content-blocking-tracking-protection-option-all-windows =
     .label = En todas las ventanas
