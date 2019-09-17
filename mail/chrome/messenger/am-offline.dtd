@@ -10,7 +10,7 @@
 <!ENTITY allFoldersOfflineNote.label 'Σημείωση: Η αλλαγή θα επηρεάσει όλους τους φακέλους αυτού του λογαριασμού. Για ορισμό μεμονωμένων φακέλων, κάντε κλικ στο κουμπί "Για προχωρημένους…".'>
 <!ENTITY offlineNotDownload.label "Μηνύματα μεγαλύτερα από">
 <!ENTITY offlineNotDownload.accesskey "Μ">
-<!ENTITY autosyncNotDownload.label "Να μην γίνεται λήψη μηνυμάτων μεγαλυτέρων από">
+<!ENTITY autosyncNotDownload.label "Να μην γίνεται λήψη μηνυμάτων, μεγαλύτερων από">
 <!ENTITY autosyncNotDownload.accesskey "μ">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "ημέρες παλιά">
