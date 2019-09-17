@@ -596,7 +596,7 @@ privacy-header = Privacidade do navegador
 
 logins-header = Contas e senhas
 forms-ask-to-save-logins =
-    .label = Perguntar se deve salvar contas e senhas de acesso de sites
+    .label = Perguntar se deve salvar contas e senhas de sites
     .accesskey = r
 forms-exceptions =
     .label = Exceções…
