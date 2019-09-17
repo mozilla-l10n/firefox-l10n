@@ -23,14 +23,17 @@
 <!ENTITY firstrun_sync_title "Mbojuehe">
 <!ENTITY updatednewfirstrun_sync_title "Mba\&apos;ete">
 <!ENTITY firstrun_sync_message2 "Ejapyhyjey eheja haguépe.">
+<!ENTITY firstrun_sync_message3 "Embojuehe techaukaha, tembiasakue ha ñe’ẽñemi ne pumbyrýpe.">
 <!ENTITY firstrun_sync_subtext2 "Eipuru Sync ejuhu hag̃ua ne rechaukaha, ñe\&apos;ẽñemi ha ambueve reñongatuva\&apos;ekue &brandShortName; pe eipuru vove oimeraẽva mba\&apos;e\&apos;oka rerekóva (ne mohendaha, ne pumbyry, tablet  hamba\&apos;e).">
 <!ENTITY newfirstrun_sync_subtext "Embojuehe tetepy eñongatúva pumbyrýpe Firefox mesa arigua ndive, ñemi ha tekorosã reheve.">
 <!ENTITY updatednewfirstrun_sync_subtext "Emoñepyrũ tembiapo ne mba’etépe eipuru porã hag̃ua &brandShortName;">
+<!ENTITY firstrun_sendtab_title "Emondo tendayke">
+<!ENTITY firstrun_sendtab_message "Emoherakuã tendayke pumbyry guive mohendahápe — pya’e.">
 <!ENTITY firstrun_signin_message "Eike, eñepyrũ">
 <!ENTITY firstrun_signin_button "Emoñepyrũ tembiapo embojuehe hag̃ua">
 <!ENTITY newfirstrun_signin_button "Emyandy ñembojuehe">
 <!ENTITY updatednewfirstrun_signin_button "Emoñepyrũ tembiapo &brandShortName; ndive">
-<!ENTITY  onboard_start_button_browser "Eñepyrũ eikundaha">
+<!ENTITY onboard_start_button_browser "Eñepyrũ eikundaha">
 <!ENTITY firstrun_button_notnow "Ko\&apos;ág̃a nahániri">
 <!ENTITY firstrun_button_next "Upeigua">
 
