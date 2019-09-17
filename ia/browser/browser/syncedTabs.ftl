@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Schedas synchronisate
 synced-tabs-sidebar-noclients-subtitle = Desira tu vider le schedas de altere apparatos hic?
 synced-tabs-sidebar-notsignedin = Authentica te pro vider un lista de schedas de tu altere apparatos.
+synced-tabs-sidebar-intro = Vider un lista de schedas de tu altere apparatos.
 synced-tabs-sidebar-unverified = Tu conto debe esser verificate.
 synced-tabs-sidebar-notabs = Nulle schedas aperite
 synced-tabs-sidebar-openprefs = Aperir le preferentias de { -sync-brand-short-name }

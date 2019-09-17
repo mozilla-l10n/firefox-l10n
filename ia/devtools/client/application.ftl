@@ -90,6 +90,9 @@ manifest-loaded-ok = Manifesto cargate
 manifest-loaded-error = Il habeva un error a cargar le manifesto:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Nulle manifestos a inspectar trovate.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Le manifesto es integrate in un URL de datos.
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Manifesto
     .alt = Icone manifesto

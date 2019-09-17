@@ -61,6 +61,9 @@ about-logins-login-list-empty-search-description = Il ha nulle resultatos concor
 login-list-item-title-new-login = Nove credential
 login-list-item-subtitle-new-login = Insere le credentiales de accesso
 login-list-item-subtitle-missing-username = (nulle nomine de usator)
+about-logins-list-item-warning-icon =
+    .alt = Icone de aviso
+    .title = Sito web violate
 
 ## Introduction screen
 
@@ -79,8 +82,6 @@ login-item-origin-label = Adresse web
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nomine del usator
-login-item-username =
-    .placeholder = name@example.com
 about-logins-login-item-username =
     .placeholder = (nulle nomine de usator)
 login-item-copy-username-button-text = Copiar
