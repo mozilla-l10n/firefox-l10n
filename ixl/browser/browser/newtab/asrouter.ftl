@@ -15,7 +15,19 @@ cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kam q'ii ni kuxh vil uk vaa'
 cfr-doorhanger-extension-cancel-button = Jit Cheel
     .accesskey = J
+cfr-doorhanger-extension-ok-button = Aq'o'k cheel
+    .accesskey = A
+cfr-doorhanger-pintab-ok-button = Aq've't kan kuxh u k'uchb'al tetze'
+    .accesskey = A
+cfr-doorhanger-extension-manage-settings-button = Taq'omal unq'a ib'anax tuche' uve' ni taltziile'
+    .accesskey = T
+cfr-doorhanger-extension-never-show-recommendation = Ye' Nunsaa' la K'uchpu vaa' svej uva' ni taltziile'
+    .accesskey = K
 cfr-doorhanger-extension-learn-more-link = Ootzi ka'te
+# This string is used on a new line below the add-on name
+# Variables:
+#   $name (String) - Add-on author name
+cfr-doorhanger-extension-author = Ta'n { $name }
 
 ## Add-on statistics
 ## These strings are used to display the total number of
