@@ -64,21 +64,44 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = ବୋତାମ ବନ୍ଦ କରନ୍ତୁ
     .title = ବନ୍ଦ
 
+## Protections panel
+
+cfr-protections-panel-link-text = ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
     .label = ନୂଆ କଣ ରହିଛି
     .tooltiptext = ନୂଆ କଣ ରହିଛି
 cfr-whatsnew-panel-header = ନୂଆ କଣ ରହିଛି
+cfr-whatsnew-release-notes-link-text = ମୁକ୍ତିଲାଭ ଟିପ୍ପଣୀ ପଢ଼ନ୍ତୁ
+cfr-whatsnew-tracking-protect-link-text = ଆପଣଙ୍କର ଦଲିଲ ଦେଖନ୍ତୁ
+cfr-whatsnew-tracking-blocked-link-text = ଦଲିଲ ଦେଖନ୍ତୁ
+cfr-whatsnew-lockwise-backup-link-text = ବ୍ୟାକଅପକୁ ଚାଲୁ କରନ୍ତୁ
+cfr-whatsnew-lockwise-take-link-text = ଆପଟି ଅକ୍ତିଆର କରନ୍ତୁ
 
 ## Bookmark Sync
 
 
+## Login Sync
+
+cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name }କୁ ଚାଲୁ କରନ୍ତୁ
+    .accesskey = ଟି
+
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = ଚାଲୁ ଚାଲୁ ପଢ଼ନ୍ତୁ
+cfr-doorhanger-send-tab-ok-button = ପଠାଯିବା ଟ୍ୟାବ ଚେଷ୍ଟା କରନ୍ତୁ
+    .accesskey = ଟି
 
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-ok-button = { -send-brand-name }କୁ ଚେଷ୍ଟା କରନ୍ତୁ
     .accesskey = ଟ
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = ସୁରକ୍ଷା ଦେଖନ୍ତୁ
+    .accesskey = ପି
+cfr-doorhanger-socialtracking-close-button = ବନ୍ଦ କରନ୍ତୁ
+    .accesskey = ସି
