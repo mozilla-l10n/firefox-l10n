@@ -250,6 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Hallinnoi liitännäisen käyttöä">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Muuta sitä, voitko saada ilmoituksia tältä sivustolta">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Tallenna tietoja pysyvään tallennustilaan">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Selain on kauko-ohjauksessa">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Avaa verkkotodennuksen paneeli">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Avaa selaamisen seuraamisoikeuden paneeli">
@@ -435,8 +436,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Haluatko nähdä muiden laitteiden välilehdet tässä?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Avaa Sync-asetukset">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Kirjaudu sisään, jotta voit katsella listaa muiden laitteidesi välilehdistä.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Näytä lista välilehdistä muilta laitteiltasi.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tilisi tarvitsee vahvistaa.">
 <!ENTITY appMenuRemoteTabs.signin.label "Kirjaudu Sync-palveluun">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Kirjaudu &syncBrand.shortName.label;-palveluun…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Ota &syncBrand.shortName.label; käyttöön…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Hallitse laitteita…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Näytä synkronoitujen välilehtien sivupaneeli">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Piilota synkronoitujen välilehtien sivupaneeli">
@@ -984,6 +988,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "Evästeet">
 <!ENTITY contentBlocking.cookiesView.label "Evästeet ja sivustotiedot">
+
 
 <!ENTITY contentBlocking.socialblock.label "Sosiaalisen median seuraimet">
 

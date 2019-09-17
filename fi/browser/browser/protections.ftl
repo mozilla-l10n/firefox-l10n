@@ -70,6 +70,7 @@ lockwise-sync-status =
 lockwise-sync-not-syncing-devices = Ei synkronointia muille laitteille
 monitor-title = Ota tietovuodot tarkkailuun
 monitor-link = Kuinka se toimii
+monitor-header-content-no-account = Tutustu { -monitor-brand-name }iin nähdäksesi onko tietojasi paljastunut tunnetuissa tietovuodoissa, ja vastaanota hälytys jos tietojasi paljastuu uusissa vuodoissa.
 monitor-header-content-signed-in = { -monitor-brand-name } varoittaa sinua, jos tietosi paljastuvat tunnetussa tietovuodossa.
 monitor-sign-up = Tilaa vuotohälytykset
 auto-scan = Automaattisesti tarkistettu tänään

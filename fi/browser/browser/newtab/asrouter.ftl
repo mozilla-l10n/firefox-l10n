@@ -82,6 +82,7 @@ cfr-whatsnew-button =
     .label = Mitä uutta
     .tooltiptext = Mitä uutta
 cfr-whatsnew-panel-header = Mitä uutta
+cfr-whatsnew-release-notes-link-text = Lue julkaisutiedote
 cfr-whatsnew-fx70-title = { -brand-short-name } taistelee nyt entistä lujemmin yksityisyytesi puolesta
 cfr-whatsnew-fx70-body =
     Viimeisin päivitys parantaa seurannan suojausta ja tekee entistä
@@ -135,3 +136,10 @@ cfr-doorhanger-firefox-send-header = Jaa tämä PDF turvallisesti
 cfr-doorhanger-firefox-send-body = Pidä arkaluonteiset asiakirjasi turvassa uteliailta silmiltä käyttämällä läpisalausta ja automaattisesti vanhenevaa linkkiä.
 cfr-doorhanger-firefox-send-ok-button = Kokeile { -send-brand-name }-palvelua
     .accesskey = K
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Näytä suojaukset
+    .accesskey = N
+cfr-doorhanger-socialtracking-close-button = Sulje
+    .accesskey = S

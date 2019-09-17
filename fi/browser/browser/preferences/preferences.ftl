@@ -602,6 +602,9 @@ forms-generate-passwords =
     .label = Ehdota ja luo vahvoja salasanoja
     .accesskey = u
 forms-breach-alerts-learn-more-link = Lue lisää
+forms-fill-logins-and-passwords =
+    .label = Täytä automaattisesti käyttäjätunnukset ja salasanat
+    .accesskey = T
 forms-saved-logins =
     .label = Tallennetut kirjautumistiedot…
     .accesskey = k
@@ -735,6 +738,13 @@ content-blocking-strict-description = Vahvempi suoja. Saattaa aiheuttaa joidenki
 content-blocking-custom-desc = Valitse, mitä estetään.
 content-blocking-private-trackers = Tunnetut seuraimet vain yksityisissä ikkunoissa
 content-blocking-third-party-cookies = Kolmannen osapuolen seurainevästeet
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+
+
 content-blocking-etp-standard-desc = Tasapainotettu suojauksen ja suorituskyvyn välillä. Sivut latautuvat normaalisti.
 content-blocking-etp-strict-desc = Vahvempi suojaus, mutta saattaa aiheuttaa sivustojen tai sisällön toimimattomuutta.
 content-blocking-etp-custom-desc = Valitse, mitkä seuraimet ja komentosarjat estetään.
