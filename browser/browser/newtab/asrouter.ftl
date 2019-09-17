@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Extensión recomendada
+cfr-doorhanger-feature-heading = Función recomendada
 cfr-doorhanger-pintab-heading = Intenta esto: Fijar pestaña
 
 
@@ -71,6 +72,8 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = Navegue sin que le sigan
+cfr-protections-panel-link-text = Saber más
 
 ## What's New toolbar button and panel
 
@@ -78,15 +81,63 @@ cfr-whatsnew-button =
     .label = Novedades
     .tooltiptext = Novedades
 cfr-whatsnew-panel-header = Novedades
+cfr-whatsnew-release-notes-link-text = Consulte las notas de lanzamiento
+cfr-whatsnew-fx70-title = Ahora, { -brand-short-name } lucha más en pro de su privacidad
+cfr-whatsnew-fx70-body = La última actualización mejora la función de protección contra rastreo y hace que sea más fácil que nunca la creación de contraseñas seguras para cada sitio.
+cfr-whatsnew-tracking-protect-title = Protéjase de los rastreadores
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } bloquea los rastreadores sociales y entre sitios más comunes que
+    le rastrean mientras navega.
+cfr-whatsnew-tracking-protect-link-text = Ver su informe
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Rastreador bloqueado
+       *[other] Rastreadores bloqueados
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Desde { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Ver informe
+cfr-whatsnew-lockwise-backup-title = Guarde una copia de sus contraseñas
+cfr-whatsnew-lockwise-backup-link-text = Activar copias de seguridad
+cfr-whatsnew-lockwise-take-title = Llévese siempre sus contraseñas consigo
+cfr-whatsnew-lockwise-take-body = La aplicación para móviles { -lockwise-brand-short-name } le permite acceder a sus contraseñas de forma segura  desde cualquier parte.
+cfr-whatsnew-lockwise-take-link-text = Obtener la aplicación
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Obtener este marcador en su teléfono
+cfr-doorhanger-sync-bookmarks-ok-button = Activar { -sync-brand-short-name }
+    .accesskey = T
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = No vuelva a perder una contraseña
+cfr-doorhanger-sync-logins-body = Almacene y sincronice de forma segura sus contraseñas en todos sus dispositivos.
+cfr-doorhanger-sync-logins-ok-button = Activar { -sync-brand-short-name }
+    .accesskey = T
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Léalo en cualquier momento
+cfr-doorhanger-send-tab-recipe-header = Llévese esta receta a la cocina
+cfr-doorhanger-send-tab-body = Send Tab le permite compartir este enlace con su teléfono o con cualquier dispositivo en el que haya iniciado sesión con { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Pruebar Send Tab
+    .accesskey = T
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Compartir este PDF de forma segura
+cfr-doorhanger-firefox-send-ok-button = Pruebe { -send-brand-name }
+    .accesskey = T
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Ver protecciones
+    .accesskey = P
+cfr-doorhanger-socialtracking-close-button = Cerrar
+    .accesskey = C
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } impidió que una red social le rastreara hasta aquí
+cfr-doorhanger-socialtracking-description = Su privacidad importa. Ahora, { -brand-short-name } bloquea los rastreadores de redes sociales más comunes, limitando la cantidad de datos que pueden recopilar sobre lo que hace en línea.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } bloqueó un criptominero en esta página
