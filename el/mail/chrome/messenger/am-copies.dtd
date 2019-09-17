@@ -18,7 +18,7 @@
 <!ENTITY bccAddress.label "Κρυφή κοινοποίηση (Bcc) στις διευθύνσεις email:">
 <!ENTITY bccAddress.accesskey "θ">
 <!ENTITY bccAddressList.placeholder "Διαχωρισμός διευθύνσεων με κόμματα">
-<!ENTITY saveMessageDlg.label "Προβολή διαλόγου επιβεβαίωσης κατά την αποθήκευση μηνυμάτων">
+<!ENTITY saveMessageDlg.label "Εμφάνιση παραθύρου επιβεβαίωσης κατά την αποθήκευση μηνυμάτων">
 <!ENTITY saveMessageDlg.accesskey "β">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Στο φάκελο &quot;Απεσταλμένα&quot; του:">
@@ -26,8 +26,8 @@
 <!ENTITY sentInOtherFolder.label "Σε άλλο:">
 <!ENTITY sentInOtherFolder.accesskey "λ">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY archivesTitle.label "Αρχειοθήκη μηνυμάτων">
-<!ENTITY keepArchives.label "Διατήρηση αρχείου μηνυμάτων σε:">
+<!ENTITY archivesTitle.label "Αρχεία μηνυμάτων">
+<!ENTITY keepArchives.label "Διατήρηση αρχείων μηνυμάτων:">
 <!ENTITY keepArchives.accesskey "Δ">
 <!ENTITY archiveHierarchyButton.label "Επιλογές αρχειοθέτησης">
 <!ENTITY archiveHierarchyButton.accesskey "χ">
@@ -36,13 +36,13 @@
 <!ENTITY archiveInOtherFolder.label "Σε άλλο:">
 <!ENTITY archiveInOtherFolder.accesskey "λ">
 <!ENTITY specialFolders.label "Προσχέδια και πρότυπα">
-<!ENTITY keepDrafts2.label "Να αποθηκεύονται τα προσχέδια μηνυμάτων στο:">
+<!ENTITY keepDrafts2.label "Διατήρηση προσχεδίων μηνυμάτων:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Στο φάκελο &quot;Προσχέδια&quot; του:">
 <!ENTITY draftsFolderOn.accesskey "σ">
 <!ENTITY draftInOtherFolder.label "Σε άλλο:">
 <!ENTITY draftInOtherFolder.accesskey "λ">
-<!ENTITY keepTemplates.label "Να αποθηκεύονται τα πρότυπα μηνυμάτων στο:">
+<!ENTITY keepTemplates.label "Διατήρηση προτύπων μηνυμάτων:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Στο φάκελο &quot;Πρότυπα&quot; του:">
 <!ENTITY templatesFolderOn.accesskey "κ">
