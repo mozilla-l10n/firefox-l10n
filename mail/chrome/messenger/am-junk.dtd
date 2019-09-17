@@ -27,5 +27,5 @@
 <!ENTITY junkClassification.label "Επιλογή">
 <!ENTITY junkActions.label "Προορισμός και φύλαξη">
 
-<!ENTITY globalJunkPrefs.label "Καθολικές προτιμήσεις ανεπιθύμητων…">
+<!ENTITY globalJunkPrefs.label "Γενικές προτιμήσεις ανεπιθύμητων…">
 <!ENTITY globalJunkPrefs.accesskey "Θ">
