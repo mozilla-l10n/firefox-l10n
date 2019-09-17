@@ -2,9 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
-<!ENTITY messageStorage.label "Χώρος αποθήκευσης μηνυμάτων">
+<!ENTITY messageStorage.label "Αποθήκευση μηνυμάτων">
 <!ENTITY securitySettings.label "Ρυθμίσεις ασφαλείας">
 <!ENTITY serverSettings.label "Ρυθμίσεις">
 <!ENTITY serverType.label "Είδος διακομιστή:">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Θύρα:">
 <!ENTITY port.accesskey "Θ">
 <!ENTITY serverPortDefault.label "Προεπιλογή:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -23,7 +21,7 @@
 <!ENTITY biffStart.label "Έλεγχος για νέα μηνύματα κάθε">
 <!ENTITY biffStart.accesskey "χ">
 <!ENTITY biffEnd.label "λεπτά">
-<!ENTITY useIdleNotifications.label "Να επιτρέπονται οι άμεσες ειδοποιήσεις από τον διακομιστή όταν έρχονται νέα μηνύματα">
+<!ENTITY useIdleNotifications.label "Αποδοχή άμεσων ειδοποιήσεων διακομιστή όταν έρχονται νέα μηνύματα">
 <!ENTITY useIdleNotifications.accesskey "κ">
 <!ENTITY connectionSecurity.label "Ασφάλεια σύνδεσης:">
 <!ENTITY connectionSecurity.accesskey "φ">
@@ -44,7 +42,6 @@
 <!ENTITY deleteOnServer2.accesskey "γ">
 <!ENTITY downloadOnBiff.label "Αυτόματη λήψη νέων μηνυμάτων">
 <!ENTITY downloadOnBiff.accesskey "υ">
-<!ENTITY username.label "Όνομα σύνδεσης">
 <!ENTITY deleteMessagePrefix.label "Κατά τη διαγραφή ενός μηνύματος:">
 <!ENTITY modelMoveToTrash.label "Μεταφορά στο φάκελο:">
 <!ENTITY modelMoveToTrash.accesskey "φ">
@@ -53,15 +50,15 @@
 <!ENTITY modelDeleteImmediately.label "Άμεση αφαίρεση">
 <!ENTITY modelDeleteImmediately.accesskey "φ">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY expungeOnExit.label "Εκκαθάριση (&quot;Expunge&quot;) εισερχομένων κατά την έξοδο">
+<!ENTITY expungeOnExit.label "Εκκαθάριση (&quot;Διαγραφή&quot;) εισερχομένων κατά την έξοδο">
 <!ENTITY expungeOnExit.accesskey "θ">
-<!ENTITY emptyTrashOnExit.label "Άδειασμα απορριμμάτων κατά την έξοδο">
+<!ENTITY emptyTrashOnExit.label "Διαγραφή απορριμμάτων κατά την έξοδο">
 <!ENTITY emptyTrashOnExit.accesskey "δ">
 <!ENTITY loginAtStartup.label "Έλεγχος για νέα μηνύματα κατά την εκκίνηση">
 <!ENTITY loginAtStartup.accesskey "λ">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Ερώτηση πριν τη λήψη περισσοτέρων από">
 <!ENTITY maxMessagesStart.accesskey "ρ">
@@ -75,7 +72,7 @@
 <!ENTITY abbreviateOn.label "Ολόκληρα τα ονόματα (για παράδειγμα, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Συντόμευση ονομάτων (π.χ., 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Για προχωρημένους…">
-<!ENTITY advancedButton.accesskey "δ">
+<!ENTITY advancedButton.accesskey "χ">
 <!ENTITY serverDefaultCharset2.label "Προεπιλεγμένη κωδικοποίηση χαρακτήρων:">
 <!ENTITY localPath.label "Τοπικός κατάλογος:">
 <!ENTITY localFolderPicker.label "Επιλογή τοπικού καταλόγου">
