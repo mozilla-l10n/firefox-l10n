@@ -63,6 +63,7 @@ networkid-id = ID de red
 ## Link is intended as "network link"
 
 networkid-isUp = La conexión está activa
+networkid-statusKnown = Se conoce el estado del enlace
 
 
 

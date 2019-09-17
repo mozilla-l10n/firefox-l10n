@@ -165,11 +165,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectar otro dispositivo…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "Iniciar sesión en &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Cuenta">
+<!ENTITY fxa.menu.firefoxServices.label "Servicios de &brandProductName;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Enviar una pestaña de forma instantánea a cualquier dispositivo en el que haya iniciado sesión.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -265,6 +268,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administrar uso de software DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Abrir el panel MIDI">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ha concedido persmisos adicionales a este sitio web.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ha bloqueado su cámara para este sitio web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ha bloqueado su micrófono para este sitio web.">
@@ -438,6 +442,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.welcome.label "Ver una lista de pestañas de sus otros dispositivos.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Su cuenta debe ser verificada.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicie sesión en Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Iniciar sesión en &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Activar &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administrar dispositivos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver panel lateral de pestañas sincronizadas">
@@ -887,6 +892,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Abrir preferencias de bloqueo de contenido">
 
 
+<!ENTITY protections.etpON.header "La protección contra rastreo mejorada está habilitada para este sitio">
+<!ENTITY protections.etpOFF.header "La protección contra rastreo mejorada está deshabilitada para este sitio">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Más información sobre la protección contra rastreo mejorada">
@@ -932,7 +939,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.label "Criptomineros">
 <!ENTITY protections.noTrackersFound.description "No se detectaron rastreadores conocidos por &brandShortName; en esta página.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Estas cookies le siguen de página en página para recopilar información sobre su vida en línea. Suelen ser las agencias de publicidad y de analítica las que las configuran.">
 <!ENTITY protections.cryptominers.description "Los criptomineros utilizan la potencia informática de su sistema para obtener dinero digital. Los scripts de criptominería agotan la batería de su ordenador, lo ralentizan y pueden aumentar su factura de electricidad.">
+<!ENTITY protections.trackingContent2.description "Los sitios web pueden cargar anuncios externos, videos y otro tipo de contenido gracias a un código de rastreo. Si bloquea el contenido de rastreo, los sitios se cargarán más rápido, pero puede que algunos botones y formularios dejen de funcionar.">
+<!ENTITY protections.socialMediaTrackers.description "Las redes sociales colocan rastreadores en otros sitios web para saber qué hace, ve y mira en línea. Ese rastreo les permite saber mucho más de lo que comparte en sus perfiles de las redes sociales.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -974,6 +984,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection4.label "Contenido de rastreo">
 
+<!ENTITY contentBlocking.manageSettings2.label "Gestionar los ajustes de protección">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Rastreadores">
@@ -1000,6 +1011,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.learnMore "Más información">
 
 <!ENTITY contentBlocking.breakageReportView.title "Informar de problemas con un sitio">
+<!ENTITY contentBlocking.breakageReportView3.description "Si bloquea ciertos rastreadores, puede que algunos sitios dejen de funcionar. Si nos informa de estos problemas, nos ayudará a mejorar &brandShortName;. Al enviar este informe, Mozilla recibirá una URL e información sobre la configuración de su navegador.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Saber más">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "¿Qué problemas tuviste? (Opcional)">

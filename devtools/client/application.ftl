@@ -69,16 +69,32 @@ serviceworker-empty-suggestions-debugger = Mire el registro de su service worker
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Inspeccione service workers de otros dominios. <a>Abrir about:debugging</a>
+# Header for the Manifest page when we have an actual manifest
+manifest-view-header = Manifesto de la aplicación
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Errores y advertencias
 # Header for the Identity section of Manifest inspection displayed in the application panel.
 manifest-item-identity = Identidad
 # Header for the Presentation section of Manifest inspection displayed in the application panel.
 manifest-item-presentation = Presentación
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = Iconos
+# Text displayed while we are loading the manifest file
+manifest-loading = Cargando manifesto...
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Se cargó el manifesto.
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = Hubo un error al cargar el manifesto:
+# Text displayed when the page has no manifest available
+manifest-non-existing = No se encontró ningún manifesto.
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Manifesto
     .alt = Icono del Manifesto
     .title = Manifesto
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Service Workers
+    .alt = Icono de Service Workers
+    .title = Service Workers
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Icono de advertencia

@@ -88,6 +88,16 @@ info-exposed-passwords-found =
        *[other] Contraseñas expuestas en todas las filtraciones
     }
 full-report-link = Ver informe completo en <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Puede que el inicio de sesión almacenado haya aparecido en una filtración de datos. Cambie su contraseña para una mayor seguridad en línea. <a data-l10n-name="lockwise-link">Ver inicios de sesión guardados</a>
+       *[other] Puede que los inicios de sesión almacenados hayan aparecido en una filtración de datos. Cambie su contraseña para una mayor seguridad en línea. <a data-l10n-name="lockwise-link">Ver inicios de sesión guardados</a>
+    }
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = Ir a los Ajustes de privacidad
 # This is the title attribute describing the Lockwise card's link to about:logins
 go-to-saved-logins = Ir a Inicios de sesión guardados
 
