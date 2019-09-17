@@ -250,6 +250,8 @@ shortcuts-modifier-other = Incluir Ctrl o Alt
 shortcuts-invalid = Combinación no válida
 shortcuts-letter = Escriba una letra
 shortcuts-system = No se puede sobrescribir un acceso directo de { -brand-short-name }.
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Duplicar acceso directo
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -292,6 +294,10 @@ install-theme-button = Instalar tema
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Administrar
 find-more-addons = Buscar más complementos
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Más opciones
 
 ## Add-on actions
 
