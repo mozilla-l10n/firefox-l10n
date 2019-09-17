@@ -61,6 +61,9 @@ about-logins-login-list-empty-search-description = Uw zoekopdracht heeft geen re
 login-list-item-title-new-login = Nieuwe aanmelding
 login-list-item-subtitle-new-login = Voer uw aanmeldgegevens in
 login-list-item-subtitle-missing-username = (geen gebruikersnaam)
+about-logins-list-item-warning-icon =
+    .alt = Waarschuwingspictogram
+    .title = Getroffen website
 
 ## Introduction screen
 
@@ -79,8 +82,6 @@ login-item-origin-label = Websiteadres
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Gebruikersnaam
-login-item-username =
-    .placeholder = uwnaam@example.com
 about-logins-login-item-username =
     .placeholder = (geen gebruikersnaam)
 login-item-copy-username-button-text = Kopiëren
