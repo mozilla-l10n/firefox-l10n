@@ -40,7 +40,7 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Επιπρόσθετο email:">
 <!ENTITY SecondEmail.accesskey          "i">
-<!ENTITY PreferMailFormat.label         "Προτιμάει να λαμβάνει μηνύματα σε μορφή:">
+<!ENTITY PreferMailFormat.label         "Προτιμώμενη μορφή ληφθέντων μηνυμάτων:">
 <!ENTITY PreferMailFormat.accesskey     "μ">
 <!ENTITY PlainText.label                "Απλό κείμενο">
 <!ENTITY HTML.label                     "HTML">
@@ -76,14 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "σ">
 <!ENTITY Birthday.label                 "Γενέθλια:">
 <!ENTITY Birthday.accesskey             "Γ">
-<!ENTITY In.label                       "">
 <!ENTITY Month.placeholder              "Μήνας">
 <!ENTITY Day.placeholder                "Ημέρα">
 <!ENTITY Year.placeholder               "Έτος">
-<!ENTITY Or.value                       "ή">
 <!ENTITY Age.label                      "Ηλικία:">
 <!ENTITY Age.placeholder                "Ηλικία">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Εργασία">
 <!ENTITY Work.accesskey                 "Ε">

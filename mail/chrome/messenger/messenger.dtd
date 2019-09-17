@@ -70,7 +70,7 @@
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Σύμπτυξη φακέλων">
 <!ENTITY compactFolders.accesskey "φ">
-<!ENTITY emptyTrashCmd.label "Άδειασμα απορριμμάτων">
+<!ENTITY emptyTrashCmd.label "Διαγραφή απορριμμάτων">
 <!ENTITY emptyTrashCmd.accesskey "δ">
 <!ENTITY offlineMenu.label "Εκτός σύνδεσης">
 <!ENTITY offlineMenu.accesskey "κ">
@@ -666,9 +666,9 @@
 <!ENTITY folderContextRemove.accesskey "φ">
 <!ENTITY folderContextCompact.label "Σύμπτυξη">
 <!ENTITY folderContextCompact.accesskey "Σ">
-<!ENTITY folderContextEmptyTrash.label "Άδειασμα απορριμμάτων">
+<!ENTITY folderContextEmptyTrash.label "Διαγραφή απορριμμάτων">
 <!ENTITY folderContextEmptyTrash.accesskey "μ">
-<!ENTITY folderContextEmptyJunk.label "Άδειασμα ανεπιθυμήτων">
+<!ENTITY folderContextEmptyJunk.label "Διαγραφή ανεπιθύμητων">
 <!ENTITY folderContextEmptyJunk.accesskey "θ">
 <!ENTITY folderContextSendUnsentMessages.label "Αποστολή εκκρεμών μηνυμάτων...">
 <!ENTITY folderContextSendUnsentMessages.accesskey "κ">
