@@ -28,6 +28,7 @@
 <!ENTITY newfirstrun_sync_subtext "সিঙ্ক হল যা Firefox মোবাইল থেকে ডেস্কটপে গোপনীয়ভাবে এবং নিরাপদে আপনার জিনিস সংরক্ষণ করে।">
 <!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; এর সর্বোচ্চ পেতে আপনার অ্যাকাউন্টে সাইন ইন করুন">
 <!ENTITY firstrun_sendtab_title "ট্যাব পাঠান">
+<!ENTITY firstrun_sendtab_message "মোবাইল থেকে ডেস্কটপে ট্যাব শেয়ার করুন - এখনই।">
 <!ENTITY firstrun_signin_message "সংযুক্ত হন, শুরু করুন">
 <!ENTITY firstrun_signin_button "সিঙ্ক করতে সাইন ইন করুন">
 <!ENTITY newfirstrun_signin_button "Sync চালু করুন">
