@@ -26,11 +26,11 @@
 <!ENTITY NameField1.label               "Primeiro:">
 <!ENTITY NameField1.accesskey           "P">
 <!ENTITY NameField2.label               "Último:">
-<!ENTITY NameField2.accesskey           "U">
+<!ENTITY NameField2.accesskey           "m">
 <!ENTITY PhoneticField1.label           "Fonético:">
 <!ENTITY PhoneticField2.label           "Fonético:">
-<!ENTITY DisplayName.label              "Apresentar como:">
-<!ENTITY DisplayName.accesskey          "A">
+<!ENTITY DisplayName.label              "Exibir como:">
+<!ENTITY DisplayName.accesskey          "E">
 <!ENTITY preferDisplayName.label        "Preferir sempre mostrar o nome em vez do cabeçalho da mensagem">
 <!ENTITY preferDisplayName.accesskey    "r">
 <!ENTITY NickName.label                 "Apelido:">
@@ -40,7 +40,7 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "E-mail adicional:">
 <!ENTITY SecondEmail.accesskey          "a">
-<!ENTITY PreferMailFormat.label         "Preferir receber mensagem formatada como:">
+<!ENTITY PreferMailFormat.label         "Prefere receber mensagens formatadas como:">
 <!ENTITY PreferMailFormat.accesskey     "f">
 <!ENTITY PlainText.label                "Texto sem formatação">
 <!ENTITY HTML.label                     "HTML">
@@ -76,14 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Data de nascimento:">
 <!ENTITY Birthday.accesskey             "n">
-<!ENTITY In.label                       "">
 <!ENTITY Month.placeholder              "Mês">
 <!ENTITY Day.placeholder                "Dia">
 <!ENTITY Year.placeholder               "Ano">
-<!ENTITY Or.value                       "ou">
 <!ENTITY Age.label                      "Idade:">
 <!ENTITY Age.placeholder                "Idade">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Trabalho">
 <!ENTITY Work.accesskey                 "T">
