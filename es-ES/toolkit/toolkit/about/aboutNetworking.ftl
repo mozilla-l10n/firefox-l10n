@@ -57,3 +57,12 @@ rcwn-avg-long = Media de largas
 rcwn-std-dev-long = Desviación estándar de largas
 rcwn-cache-slow = Cuenta de caché lenta
 rcwn-cache-not-slow = Cuenta de caché no lenta
+networkid = ID de red
+networkid-id = ID de red
+
+## Link is intended as "network link"
+
+networkid-isUp = La conexión está activa
+
+
+

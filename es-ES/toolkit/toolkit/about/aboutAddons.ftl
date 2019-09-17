@@ -155,9 +155,6 @@ private-browsing-description2 =
     la extensión no funcionará durante la navegación privada, y no tendrá acceso a tus actividades en línea
     ahí. Hemos realizado este cambio para mantener privada tu navegación privada.
     <label data-l10n-name = "private-browsing-learn-more">Descubre cómo administrar la configuración de las extensiones.</label>
-extensions-view-discover =
-    .name = Obtener complementos
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Recomendaciones
     .tooltiptext = { extensions-view-discopane.name }
@@ -313,6 +310,16 @@ release-notes-addon-button = Notas de la versión
 permissions-addon-button = Permisos
 addons-enabled-heading = Activado
 addons-disabled-heading = Desactivado
+extension-enabled-heading = Habilitado
+extension-disabled-heading = Deshabilitado
+theme-enabled-heading = Habilitado
+theme-disabled-heading = Deshabilitado
+plugin-enabled-heading = Habilitado
+plugin-disabled-heading = Deshabilitado
+dictionary-enabled-heading = Habilitado
+dictionary-disabled-heading = Deshabilitado
+locale-enabled-heading = Habilitado
+locale-disabled-heading = Deshabilitado
 ask-to-activate-button = Preguntar antes de activar
 always-activate-button = Activar siempre
 never-activate-button = No activar nunca
@@ -355,6 +362,11 @@ install-update-button = Actualizar
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Permitida en ventanas privadas
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Permitido en ventanas privadas
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Cuando está activada, la extensión tendrá acceso a todo lo que haces mientras navegas de forma privada. <a data-l10n-name="learn-more">Descubre más</a>
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = No permitir

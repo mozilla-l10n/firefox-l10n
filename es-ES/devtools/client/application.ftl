@@ -69,3 +69,21 @@ serviceworker-empty-suggestions-debugger = Mire el registro de su service worker
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Inspeccione service workers de otros dominios. <a>Abrir about:debugging</a>
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Identidad
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Presentación
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Iconos
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifesto
+    .alt = Icono del Manifesto
+    .title = Manifesto
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Icono de advertencia
+    .title = Advertencia
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Icono de error
+    .title = Error

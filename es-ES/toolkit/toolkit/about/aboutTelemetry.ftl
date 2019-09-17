@@ -102,6 +102,8 @@ about-telemetry-no-search-results-all = ¡Lo sentimos! No hay resultados para "{
 about-telemetry-no-data-to-display = ¡Lo sentimos! En este momento no hay datos disponibles en "{ $sectionName }"
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = ping actual
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = datos actuales
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = todo
 # button label to copy the histogram
