@@ -6,31 +6,31 @@
 <!ENTITY directoryName.accesskey           "μ">
 <!ENTITY directoryHostname.label           "Όνομα κεντρικού υπολογιστή: ">
 <!ENTITY directoryHostname.accesskey       "ν">
-<!ENTITY directoryBaseDN.label             "DN Βάσης:">
+<!ENTITY directoryBaseDN.label             "DN βάσης: ">
 <!ENTITY directoryBaseDN.accesskey         "β">
 <!ENTITY findButton.label                  "Εύρεση">
 <!ENTITY findButton.accesskey              "ρ">
 <!ENTITY directorySecure.label             "Χρήση ασφαλούς σύνδεσης (SSL)">
-<!ENTITY directorySecure.accesskey         "σ">
-<!ENTITY directoryLogin.label              "DN σύνδεσης:">
-<!ENTITY directoryLogin.accesskey          "ι">
+<!ENTITY directorySecure.accesskey         "Χ">
+<!ENTITY directoryLogin.label              "DN σύνδεσης: ">
+<!ENTITY directoryLogin.accesskey          "σ">
 <!ENTITY General.tab                       "Γενικά">
-<!ENTITY Offline.tab                       "Χωρίς σύνδεση">
+<!ENTITY Offline.tab                       "Εκτός σύνδεσης">
 <!ENTITY Advanced.tab                      "Για προχωρημένους">
 <!ENTITY portNumber.label                  "Αριθμός θύρας:">
 <!ENTITY portNumber.accesskey              "θ">
 <!ENTITY searchFilter.label                "Φίλτρο αναζήτησης: ">
 <!ENTITY searchFilter.accesskey            "Φ">
-<!ENTITY scope.label                       "Σκοπός:">
+<!ENTITY scope.label                       "Εμβέλεια: ">
 <!ENTITY scope.accesskey                   "κ">
 <!ENTITY scopeOneLevel.label               "Ένα επίπεδο">
 <!ENTITY scopeOneLevel.accesskey           "π">
 <!ENTITY scopeSubtree.label                "Υποφάκελος">
 <!ENTITY scopeSubtree.accesskey            "Υ">
-<!ENTITY return.label                      "Να μην επιστρέφονται παραπάνω από">
+<!ENTITY return.label                      "Ανώτατο όριο αποτελεσμάτων:">
 <!ENTITY return.accesskey                  "σ">
 <!ENTITY results.label                     "αποτελέσματα">
-<!ENTITY offlineText.label                 "Μπορείτε να κάνετε λήψη  ενός τοπικού αντιγράφου αυτού του καταλόγου ώστε να είναι διαθέσιμο για εργασία χωρίς σύνδεση. ">
+<!ENTITY offlineText.label                 "Μπορείτε να κάνετε λήψη ενός τοπικού αντιγράφου αυτού του καταλόγου ώστε να είναι διαθέσιμο για εργασία εκτός σύνδεσης.">
 <!ENTITY saslMechanism.label               "Μέθοδος σύνδεσης: ">
 <!ENTITY saslMechanism.accesskey           "θ">
 <!ENTITY saslOff.label                     "Απλή">
@@ -38,7 +38,7 @@
 <!ENTITY saslGSSAPI.label                  "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey              "K">
 
-<!-- Localization note: this is here because the width of the dialog 
+<!-- Localization note: this is here because the width of the dialog
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
 -->

@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY junkSettings.label "Ρυθμίσεις ανεπιθύμητης αλληλογραφίας">
+<!ENTITY junkSettings.label "Ρυθμίσεις ανεπιθύμητων">
 <!ENTITY trainingDescription.label "Αν ενεργοποιηθεί, θα πρέπει πρώτα να εκπαιδεύσετε το &brandShortName; ώστε να αναγνωρίζει τα ανεπιθύμητα email, επισημαίνοντας τα μηνύματα ως ανεπιθύμητα ή μη, με το κουμπί ανεπιθύμητων στη γραμμή εργαλείων. Έπειτα, το &brandShortName; θα επισημαίνει αυτόματα τα email ως ανεπιθύμητα.">
-<!ENTITY level.label "Ενεργοποίηση προσαρμοζόμενων ελέγχων ανεπιθυμήτων για αυτό το λογαριασμό">
+<!ENTITY level.label "Ενεργοποίηση προσαρμοστικών ελέγχων ανεπιθύμητης αλληλογραφίας για αυτό το λογαριασμό">
 <!ENTITY level.accesskey "Ε">
 
 <!ENTITY move.label "Μετακίνηση νέων ανεπιθύμητων μηνυμάτων στο:">
@@ -24,7 +24,7 @@
 <!ENTITY ispHeaders.label "Να είναι έμπιστες οι κεφαλίδες ανεπιθυμήτων που καθορίζονται από: ">
 <!ENTITY ispHeaders.accesskey "φ">
 
-<!ENTITY junkClassification.label "Επιλογή">
+<!ENTITY junkClassification.label "Διαλογή">
 <!ENTITY junkActions.label "Προορισμός και φύλαξη">
 
 <!ENTITY globalJunkPrefs.label "Γενικές προτιμήσεις ανεπιθύμητων…">
