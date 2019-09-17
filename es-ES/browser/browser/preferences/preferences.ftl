@@ -757,9 +757,11 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-private-windows = Rastreo de contenido en ventanas privadas
 content-blocking-cross-site-tracking-cookies = Cookies de rastreo entre sitios
+content-blocking-social-media-trackers = Rastreadores sociales
 content-blocking-all-cookies = Todas las cookies
 content-blocking-unvisited-cookies = Cookies de sitios no visitados
 content-blocking-all-windows-trackers = Rastreadores conocidos en todas las ventanas
+content-blocking-all-windows-tracking-content = Contenido de rastreo en todas las ventanas
 content-blocking-all-third-party-cookies = Todas las cookies de terceros
 content-blocking-cryptominers = Criptomineros
 content-blocking-fingerprinters = Fingerprinters
