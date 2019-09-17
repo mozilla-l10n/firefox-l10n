@@ -98,7 +98,7 @@ cfr-whatsnew-tracking-protect-link-text = Näytä raportti
 cfr-whatsnew-tracking-blocked-title =
     { $blockedCount ->
         [one] Seurain estetty
-       *[other] Seurainta estetty
+       *[other] Seuraimia estetty
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } lähtien
 cfr-whatsnew-tracking-blocked-link-text = Näytä raportti
