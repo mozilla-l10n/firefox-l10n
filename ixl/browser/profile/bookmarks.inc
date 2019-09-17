@@ -51,5 +51,6 @@
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
+#define planet Planet Mozilla
 
 #unfilter emptyLines

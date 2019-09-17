@@ -9,10 +9,17 @@ app-basics-name = B'ii
 modified-prefs-name = B'ii
 user-js-title = users.js Uve' ni chit asa'
 locked-prefs-name = B'ii
+
+## Media titles
+
 media-device-name = B'ii
+
+
+
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
+yes = Kanoj
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are

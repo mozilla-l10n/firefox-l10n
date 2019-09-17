@@ -5,3 +5,4 @@
 profiles-restart-title = La xe'tisal
 profiles-flush-restart-button = La xe'tisal { -brand-short-name }
 profiles-remove = Sojsa el
+profiles-yes = kanoj

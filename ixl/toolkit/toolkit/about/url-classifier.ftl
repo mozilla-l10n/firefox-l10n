@@ -4,4 +4,5 @@
 
 url-classifier-search-title = Chuka
 url-classifier-search-input = URL
+url-classifier-debug-title = Eesamal el
 url-classifier-success = b'a'xi ya

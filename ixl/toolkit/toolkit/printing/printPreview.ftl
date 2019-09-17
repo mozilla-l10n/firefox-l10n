@@ -7,6 +7,9 @@ printpreview-close =
     .accesskey = C
 printpreview-custom =
     .label = Eetz chitu'…
+printpreview-page-setup =
+    .label = Ib'anax tuch u U'uje'…
+    .accesskey = I
 
 ## Variables
 ## $percent (integer) - menuitem percent label

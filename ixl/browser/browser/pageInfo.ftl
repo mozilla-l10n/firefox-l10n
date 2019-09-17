@@ -18,6 +18,11 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies-only = Kanoj, cookies
+security-site-data-no = Ye'le
+saved-passwords-yes = Kanoj
+saved-passwords-no = Ye'le
+security-no-visits = Ye'le
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
