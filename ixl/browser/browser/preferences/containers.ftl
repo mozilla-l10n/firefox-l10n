@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+containers-window-close =
+    .key = w
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name

@@ -50,3 +50,5 @@ cfr-whatsnew-panel-header = Kam ak' at ve'te'
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-close-button = Jupa
+    .accesskey = J

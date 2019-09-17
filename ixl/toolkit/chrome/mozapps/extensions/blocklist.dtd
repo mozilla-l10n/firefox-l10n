@@ -4,5 +4,6 @@
 
 
 <!ENTITY blocklist.accept.label      "La xe'tisal &brandShortName;">
+<!ENTITY blocklist.accept.accesskey  "L">
 
 <!ENTITY blocklist.blocked.label     "Majel ve't ivatz">
