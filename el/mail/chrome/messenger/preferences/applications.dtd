@@ -17,7 +17,7 @@
 <!ENTITY saveTo.accesskey             "θ">
 <!ENTITY alwaysAsk.label              "Πάντα ερώτηση για την τοποθεσία αποθήκευσης">
 <!ENTITY alwaysAsk.accesskey          "Π">
-<!ENTITY chooseFolderWin.label        "Εξερεύνηση…">
+<!ENTITY chooseFolderWin.label        "Περιήγηση…">
 <!ENTITY chooseFolderWin.accesskey    "ξ">
 <!ENTITY chooseFolderMac.label        "Επιλογή…">
 <!ENTITY chooseFolderMac.accesskey    "π">
@@ -30,10 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "Προσθήκη νέας υπηρεσίας αποθηκευτικού χώρου Filelink">
 <!ENTITY removeCloudFileAccount.label     "Αφαίρεση">
 <!ENTITY removeCloudFileAccount.accesskey "R">
-<!ENTITY authRequired.description         "Απαιτείται η πιστοποίησή σας για την προβολή ρυθμίσεων για αυτή την υπηρεσία αποθηκευτικού χώρου.">
-<!ENTITY authRequired.button.label        "Πιστοποίηση">
-<!ENTITY authRequired.button.accesskey    "U">
-
 <!ENTITY findCloudFileProviders.label     "Εύρεση περισσότερων παρόχων…">
 
 <!ENTITY enableCloudFileAccountOffer.label "Πρόταση για κοινή χρήση αρχείων, μεγαλύτερων από">

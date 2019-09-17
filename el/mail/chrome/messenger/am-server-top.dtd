@@ -76,9 +76,9 @@
 <!ENTITY serverDefaultCharset2.label "Προεπιλεγμένη κωδικοποίηση χαρακτήρων:">
 <!ENTITY localPath.label "Τοπικός κατάλογος:">
 <!ENTITY localFolderPicker.label "Επιλογή τοπικού καταλόγου">
-<!ENTITY browseFolder.label "Εξερεύνηση...">
+<!ENTITY browseFolder.label "Περιήγηση…">
 <!ENTITY browseFolder.accesskey "ξ">
-<!ENTITY browseNewsrc.label "Εξερεύνηση">
+<!ENTITY browseNewsrc.label "Περιήγηση…">
 <!ENTITY browseNewsrc.accesskey "Ε">
 
 <!ENTITY accountTitle.label "Ρυθμίσεις λογαριασμού">
