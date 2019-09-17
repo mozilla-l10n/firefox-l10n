@@ -90,6 +90,9 @@ manifest-loaded-ok = Je’epyre ñemyanyhẽpyre.
 manifest-loaded-error = Ojavy ehupikuévo pe je’epyre:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Ndojejuhúi je’epyre ojehechajey hag̃ua.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Pe je’epyre ojuaju mba’ekuaarã URL rehe.
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Je'epyre
     .alt = Je'epyre ra'ãnga
