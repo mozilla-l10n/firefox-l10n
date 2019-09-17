@@ -12,6 +12,10 @@
      -->
 <!ENTITY downloads.width                  "70ch">
 
+<!ENTITY cmd.pause.label                  "Tanb'a'">
+<!ENTITY cmd.pause.accesskey              "T">
+<!ENTITY cmd.resume.label                 "Yakeb'en">
+<!ENTITY cmd.resume.accesskey             "Y">
 <!ENTITY cmd.cancel.label                 "Ya'sakan">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
@@ -59,6 +63,7 @@
      Shown as a tag before the file name for some types of blocked downloads.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
+<!ENTITY blocked.label                    "MAJEL VE'T IVATZ">
 
 <!-- LOCALIZATION NOTE (learnMore.label):
      Shown as a text link for some types of blocked downloads, for example

@@ -20,6 +20,8 @@ media-device-name = B'ii
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 yes = Kanoj
+no = Ye'le
+unknown = Ye' ootzimal
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are

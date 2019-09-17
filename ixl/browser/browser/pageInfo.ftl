@@ -9,6 +9,8 @@ menu-copy =
     .accesskey = C
 general-meta-name =
     .label = B'ii
+security-view-unknown = Ye' ootzimal
+    .value = Ye' ootzimal
 help-button =
     .label = Lochb'al
 
@@ -20,6 +22,7 @@ help-button =
 
 security-site-data-cookies-only = Kanoj, cookies
 security-site-data-no = Ye'le
+image-size-unknown = Ye' ootzimal
 saved-passwords-yes = Kanoj
 saved-passwords-no = Ye'le
 security-no-visits = Ye'le

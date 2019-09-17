@@ -19,6 +19,8 @@ cfr-doorhanger-extension-learn-more-link = Ootzi ka'te
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-animation-pause = Tanb'a'
+cfr-doorhanger-pintab-animation-resume = Yakeb'en
 
 ## Firefox Accounts Message
 
