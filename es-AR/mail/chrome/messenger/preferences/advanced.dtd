@@ -123,3 +123,7 @@
 <!ENTITY viewSecurityDevices.label "Dispositivos de seguridad">
 <!ENTITY viewSecurityDevices.accesskey "u">
 
+<!ENTITY manageCertificates2.label "Administrar certificados…">
+<!ENTITY manageCertificates2.accesskey "m">
+<!ENTITY viewSecurityDevices2.label "Dispositivos de seguridad…">
+<!ENTITY viewSecurityDevices2.accesskey "D">

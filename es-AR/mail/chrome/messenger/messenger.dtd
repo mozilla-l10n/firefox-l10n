@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "c">
 <!ENTITY folderPaneBar.label "Barra de vista de tareas">
 <!ENTITY folderPaneBar.accesskey "t">
-<!ENTITY folderModeSelector.label "Vistas de carpeta">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordenar por">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Archivar mensaje seleccionado">
 <!ENTITY archiveButton.tooltip "Archivar mensajes seleccionados">
 <!ENTITY openConversationButton.tooltip "Mostrar conversación de mensajes seleccionados">
+<!ENTITY openMsgConversationButton.tooltip "Mostrar conversación del mensaje seleccionado">
 <!ENTITY nextButton.tooltip "Ir al siguiente mensaje no leído">
 <!ENTITY nextMsgButton.tooltip "Ir al siguiente mensaje">
 <!ENTITY previousButton.tooltip "Ir al anterior mensaje no leído">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Etiquetar mensajes">
 <!ENTITY compactButton.tooltip "Eliminar mensajes borrados de la carpeta actual">
 <!ENTITY appmenuButton1.tooltip "Mostrar el menú de &brandShortName;">
-
 <!ENTITY addonsButton.tooltip "Administrar complementos">
 
 <!-- Toolbar Button Popup -->
@@ -707,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Guardar el criterio de búsqueda como una carpeta…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Seleccionar mensajes">
 <!ENTITY threadColumn.label "Conversación">
 <!ENTITY fromColumn.label "De">
 <!ENTITY recipientColumn.label "Destinatario">
@@ -730,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Seleccionar las columnas a mostrar">
+<!ENTITY selectColumn.tooltip "Intercambiar seleccionar todos los mensajes">
 <!ENTITY threadColumn2.tooltip "Mostrar los mensajes agrupados por conversaciones">
 <!ENTITY fromColumn2.tooltip "Ordenar por remitente">
 <!ENTITY recipientColumn2.tooltip "Ordenar por destinatario">
