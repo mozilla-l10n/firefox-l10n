@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Mba'erechaha tuichavéva
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Opaite tendayke jehechauka
@@ -212,6 +212,9 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = { -sync-brand-short-name }-pe jeike…
     .accesskey = Y
+menu-tools-turn-on-sync =
+    .label = Emyandy { -sync-brand-short-name }...
+    .accesskey = n
 menu-tools-sync-now =
     .label = Embojuehe ko'ág̃a
     .accesskey = S

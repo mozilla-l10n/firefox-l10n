@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Tendayke ñembojuehepyre
 synced-tabs-sidebar-noclients-subtitle = Ehechasépa tendaykekuéra ambue mba'e'okaguáva ko'ápe
 synced-tabs-sidebar-notsignedin = Eike ehecha tendayke rysýi ambue mba'e'okapeguáva.
+synced-tabs-sidebar-intro = Ehecha tendayke rysýi ambue ne mba'e'okagua.
 synced-tabs-sidebar-unverified = Tekotevẽ oñemboaje ne mba'ete.
 synced-tabs-sidebar-notabs = Ndaipóri tendayke ijurujáva
 synced-tabs-sidebar-openprefs = Eike { -sync-brand-short-name } oguerohoryvévape
@@ -37,3 +38,4 @@ synced-tabs-context-manage-devices =
     .label = Mba'e'oka ñangarekoha…
     .accesskey = D
 fxa-sign-in = { -sync-brand-short-name }-pe jeike
+turn-on-sync = Emyandy { -sync-brand-short-name }

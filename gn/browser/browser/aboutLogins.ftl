@@ -61,6 +61,9 @@ about-logins-login-list-empty-search-description = Ndaipóri pe ehekáva.
 login-list-item-title-new-login = Tembiapo ñepyrũ pyahu
 login-list-item-subtitle-new-login = Emoinge nde reraite tembiapo ñepyrũme
 login-list-item-subtitle-missing-username = (puruhára hera'ỹva)
+about-logins-list-item-warning-icon =
+    .alt = Ta'ãngachu'i kyhyjerã
+    .title = Ñanduti renda imarãva
 
 ## Introduction screen
 
@@ -79,8 +82,6 @@ login-item-origin-label = Ñanduti kundaharape
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Puruhára réra
-login-item-username =
-    .placeholder = name@example.com
 about-logins-login-item-username =
     .placeholder = (puruhára hera’ỹva)
 login-item-copy-username-button-text = Monguatia
