@@ -83,6 +83,7 @@
   -->
 
 
+<!ENTITY executeMenu.label            "Aq'onsa">
 
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of
