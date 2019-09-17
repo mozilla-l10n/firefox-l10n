@@ -56,9 +56,14 @@ login-list-last-changed-option = Itzojpeb'al ve't ib'anax tuche'
 login-list-last-used-option = A'e' a'nnal kuxh ib'anb'ele'
 login-list-intro-title = Ye'laj xe'teb'al aq'on ati
 login-list-intro-description = Tul uva' la kol u kach'ub' tetze' uva' axh kuxh ootzin tetz tu { -brand-product-name }, a' la b'uuq' kat tzitza'.
+about-logins-login-list-empty-search-title = Ye' ni chee uve' kat kat xe'taj kat aq'on
+about-logins-login-list-empty-search-description = Ye'laj kam ni leje' uva' ni lej tib' tuk' u vee' nachuke'.
 login-list-item-title-new-login = Ixe't aq'on unpajte
 login-list-item-subtitle-new-login = A'qku' unq'a texhlale' ti' axe't aq'onvoj
 login-list-item-subtitle-missing-username = (Ye'l ib'ii u b'anb'en tetze')
+about-logins-list-item-warning-icon =
+    .alt = Nachb'al aama ta'n u icono
+    .title = Atinb'al uva' kat kuxh okeb'eli
 
 ## Introduction screen
 
@@ -66,6 +71,7 @@ login-intro-heading = Nachuk unq'a kach'ub'al texhlale' uve' kolel kan? B'antuch
 login-intro-description = Kat ikol unq'a xe'tisab' aq'one' tu { -brand-product-name } tu uma't ch'ich kat ab'anb'e, a' unq'a vi'la la b'ane' aq'al uva' at tzitza' la ib'an unpajte:
 login-intro-instruction-fxa = Axh la b'anon moj la uch axe't tzitza' { -fxaccount-brand-name } tu vach'ich'e' uve' kolel kat kan ixe't aq'on s-a'n
 login-intro-instruction-fxa-settings = Il chit ti jikil ti' atxaat kan unq'a texhlale' tu vee' uve' ni b'anax kat tuche' { -sync-brand-short-name }
+about-logins-intro-instruction-help = La saji<a data-l10n-name="help-link">{ -lockwise-brand-short-name } lochb'al tetz </a> aq'al uva' la lej ka't lochb'al
 
 ## Login
 
@@ -76,6 +82,8 @@ login-item-origin-label = Tatinb'al web
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Ib'ii u etzit tetze'
+about-logins-login-item-username =
+    .placeholder = (Ye'l ib'ii u aq'omal tetze' ati)
 login-item-copy-username-button-text = Eesa ivatz
 login-item-copied-username-button-text = Eesamal ve't ivatz
 login-item-password-label = Texhlal kach'ub' tetz uva' axh kuxh ootzin tetz
@@ -132,3 +140,10 @@ breach-alert-dismiss =
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = At ve't uma't okeb'al ti { $loginTitle } tuk' ib'ii u etzin tetz aq'one'.
+# This is a generic error message.
+about-logins-error-message-default = Kat ilej va'lexh la kam tul uva' ni'k ikolpu u kachub'al tetze'.
