@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Saber más
 accessibility-text-label-header = Etiquetas de texto y nombres
+accessibility-keyboard-header = Teclado
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -25,3 +26,8 @@ accessibility-text-label-issue-dialog = Los cuadros de diálogo deben etiquetars
 accessibility-text-label-issue-document-title = Los documentos deben llevar <code>título</code>. <a>Descubre más</a>
 accessibility-text-label-issue-embed = El contenido incrustado debe etiquetarse. <a>Más información</a>
 accessibility-text-label-issue-form = Los elementos del formulario deben etiquetarse. <a>Más información</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
