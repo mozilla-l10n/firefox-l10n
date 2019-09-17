@@ -23,14 +23,16 @@
 <!ENTITY firstrun_sync_title "সিঙ্ক">
 <!ENTITY updatednewfirstrun_sync_title "অ্যাকাউন্ট">
 <!ENTITY firstrun_sync_message2 "যেখানে আপনি ছেড়ে গিয়েছিলেন, সেখান থেকে শুরু করুন।">
+<!ENTITY firstrun_sync_message3 "আপনার ফোনে বুকমার্ক, ইতিহাস এবং পাসওয়ার্ড সিঙ্ক করুন।">
 <!ENTITY firstrun_sync_subtext2 "আপনার সব ডিভাইসে বুকমার্ক, পাসওয়ার্ড এবং অন্যান্য জিনিস খুঁজে পেতে সিঙ্ক ব্যবহার করুন যা আপনি &brandShortName; এ সংরক্ষণ করেছেন।">
 <!ENTITY newfirstrun_sync_subtext "সিঙ্ক হল যা Firefox মোবাইল থেকে ডেস্কটপে গোপনীয়ভাবে এবং নিরাপদে আপনার জিনিস সংরক্ষণ করে।">
 <!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; এর সর্বোচ্চ পেতে আপনার অ্যাকাউন্টে সাইন ইন করুন">
+<!ENTITY firstrun_sendtab_title "ট্যাব পাঠান">
 <!ENTITY firstrun_signin_message "সংযুক্ত হন, শুরু করুন">
 <!ENTITY firstrun_signin_button "সিঙ্ক করতে সাইন ইন করুন">
 <!ENTITY newfirstrun_signin_button "Sync চালু করুন">
 <!ENTITY updatednewfirstrun_signin_button "&brandShortName; এ সাইন ইন করুন">
-<!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
+<!ENTITY onboard_start_button_browser "ব্রাউজিং শুরু করুন">
 <!ENTITY firstrun_button_notnow "এখনই নয়">
 <!ENTITY firstrun_button_next "পরবর্তী">
 
