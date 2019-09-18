@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Nūtykusi klaida sasavīnojūtīs ar { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Klaidas kods: { $error }
 psmerr-ssl-disabled = Navar drūsais pīsasliegt, kam SSL protokols ir deaktiveits.
 psmerr-ssl2-disabled = Navar drūsais pīsasliegt, kam lopa izmontoj vacuoku, nadrūsu SSL protokola verseju.
 # This is a multi-line message.
@@ -146,13 +153,25 @@ ssl-error-unsupported-signature-algorithm = The peer used an unsupported combina
 ssl-error-missing-extended-master-secret = Savīnuojuma partneris raudzieja turpynuot bez korekta extended_master_secret paplošynuojuma.
 ssl-error-unexpected-extended-master-secret = Savīnuojuma partneris raudzieja turpynuot ar naatbaļsteitu extended_master_secret paplošynuojumu.
 sec-error-io = Drūseibys autorizacejis laikā nūtyka I/O klaida.
+sec-error-library-failure = drūšeibys bibliotekys klaida.
+sec-error-bad-data = drūšeibys biblioteka: sajimti švaki dati.
+sec-error-output-len = drūšeibys biblioteka: izvades garuma klaida.
+sec-error-input-len = drūšeibys bibliotekā nūtykuse īvades garuma klaida.
+sec-error-invalid-args = drūšeibys biblioteka: nadereigi argumenti.
+sec-error-invalid-algorithm = drūšeibys biblioteka: nadereigs algoritmys.
+sec-error-invalid-ava = drūšeibys biblioteka: nadereigs AVA.
 sec-error-invalid-time = Nakorekti formateita laika virkne.
+sec-error-bad-der = drūšeibys biblioteka: napareizi formateita DER-kodeita ziņa.
 sec-error-bad-signature = Partnera sertifikatam ir nadereigs paroksts.
 sec-error-expired-certificate = Partnera sertifikatam beidzīs termeņš.
 sec-error-revoked-certificate = Partnera sertifikats ir anulāts.
 sec-error-unknown-issuer = Partnera sertifikata izdeviejs nav pazeistams.
 sec-error-bad-key = Partnera publiskā atslāgs nav dereiga.
 sec-error-bad-password = Īvadeituo drūseibys parole nav pareiza.
+sec-error-retry-password = Jaunō parole ir īvodeita napareizi. Raugit vēļreiz.
+sec-error-no-nodelock = drūšeibys biblioteka: nav zora saslāga.
+sec-error-bad-database = drūšeibys biblioteka: švaka datubāze.
+sec-error-no-memory = drūšeibys biblioteka: atminis izdaleišonys klaida.
 sec-error-untrusted-issuer = Partnera sertifikata izdevieju lītuotuojs ir atzeimiejs kai nauztycamu.
 sec-error-untrusted-cert = Partnera sertifikatu lītuotuojs ir atzeimiejs kai nauztycamu.
 sec-error-duplicate-cert = Sertifikats jau eksistej jiusu datubāzē.
@@ -196,7 +215,10 @@ sec-error-krl-expired = Ituos vītnes sertifikata KRL ir beidzīs dereiguma term
 sec-error-krl-bad-signature = Ituos vītnes sertifikata KRL ir nadereigs paroksts.
 sec-error-revoked-key = Ituos vītnes sertifikata atslāgs ir anulāta.
 sec-error-krl-invalid = Jaunajam KRL ir nadereigs formats.
+sec-error-need-random = drūšeibys biblioteka: napīcīšami najauši dati.
+sec-error-no-module = drūšeibys biblioteka: nivīns no drūšeibys moduļim navar veikt pīpraseitū darbeibu.
 sec-error-no-token = Drūseibys karte voi markieris naeksistej, tys ir juoinicializej voi ir tics aizvuokts.
+sec-error-read-only = drūšeibys biblioteka: tikai nūlaseišonai paredzāta datubāze.
 sec-error-no-slot-selected = Nav izavālāta pīslāgvīta voi markieris.
 sec-error-cert-nickname-collision = Sertifikats ar itaidu sagvuordu jau eksistej.
 sec-error-key-nickname-collision = Atslāgs ar itaidu sagvuordu jau eksistej.
@@ -240,6 +262,7 @@ sec-error-js-invalid-module-name = Nakorekts moduļa nūsaukums.
 sec-error-js-invalid-dll = Nakorekts moduļa ceļš/faila nūsaukums
 sec-error-js-add-mod-failure = Navar pīvīnuot moduli
 sec-error-js-del-mod-failure = Navar izdzēst moduli
+sec-error-old-krl = Jaunais KRL nav jaunōks par pošreizejū.
 sec-error-ckl-conflict = Jaunajam CKL ir nu pošreizejuo CKL atškireigs izdeviejs.  Izdziesit pošreizejū CKL.
 sec-error-cert-not-in-name-space = Itei sertifikata sertifikatu autoritatei nav atļauts izsnīgt sertifikatus ar itaidu nūsaukumu.
 sec-error-krl-not-yet-valid = Itei sertifikata atslāgu anuliešonys saroksts vel nav dereigs.
@@ -318,3 +341,5 @@ mozilla-pkix-error-validity-too-long = The server presented a certificate that i
 mozilla-pkix-error-required-tls-feature-missing = Tryukst napīcīšama TLS funkceja.
 mozilla-pkix-error-invalid-integer-encoding = The server presented a certificate that contains an invalid encoding of an integer. Common causes include negative serial numbers, negative RSA moduli, and encodings that are longer than necessary.
 mozilla-pkix-error-empty-issuer-name = The server presented a certificate with an empty issuer distinguished name.
+mozilla-pkix-error-additional-policy-constraint-failed = Papyldu politikas īrūbežojuma porbaude naizadeve porbaudūt itū sertifikatu.
+mozilla-pkix-error-self-signed-cert = Itys sertifikats nav uztycams, par tū, ka ir poša paraksteits.
