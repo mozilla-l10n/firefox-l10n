@@ -135,3 +135,7 @@ cfr-doorhanger-firefox-send-header = Varno delite ta PDF
 cfr-doorhanger-firefox-send-body = Ohranite svoje zaupne dokumente varne pred radovednimi očmi s šifriranjem od konca do konca in povezavo, ki izgine, ko končate.
 cfr-doorhanger-firefox-send-ok-button = Preizkusite { -send-brand-name }
     .accesskey = P
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } je preprečil družbenemu omrežju, da bi vam tukaj sledilo
