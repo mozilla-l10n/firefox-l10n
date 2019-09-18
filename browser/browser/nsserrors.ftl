@@ -96,6 +96,7 @@ sec-error-importing-certificates = ధృవీకరణపత్రాలను
 sec-error-user-cancelled = వాడుకరి రద్దుచేయి నొక్కినాడు.
 sec-error-message-send-aborted = సందేశం పంపబడింది
 sec-error-cert-addr-mismatch = సైనింగ్ ధృవీకరణపత్రంనందలి చిరునామా సందేశం పీఠికల(హెడర్సు)నందలి చిరునామాతో సరిపోలడంలేదు.
+sec-error-js-invalid-module-name = చెల్లని మాడ్యూల్ పేరు.
 sec-error-js-add-mod-failure = మాడ్యూల్‌ను జతచేయలేదు
 sec-error-js-del-mod-failure = మాడ్యూల్‌ను తొలగించలేదు
 sec-error-old-krl = కొత్త KRL ప్రస్తుతందానికన్నా తరువాతది కాదు.
