@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Bal otime ikare me kube bot { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Kod me bal: { $error }
 psmerr-ssl-disabled = Pe romo kube maber pien cik me coc me SSL kijuko woko.
 psmerr-ssl2-disabled = Pe romo kube maber pien kakube man tiyo ki en macon, cik ma pe ogwoke maber pi cik me SSL.
 # This is a multi-line message.
@@ -326,3 +333,4 @@ mozilla-pkix-error-not-yet-valid-issuer-certificate = Kitiyo ki catibiket ma pud
 mozilla-pkix-error-signature-algorithm-mismatch = Cik me keto cing ma tye i kacoc me keto cing me catibiket pe rwatte ki cik ma tye i kacoc me cik me keto cing.
 mozilla-pkix-error-ocsp-response-for-cert-missing = Lagam pa OCSP pe kwako kit ma catibiket ma ki tye ka moko tye kwede.
 mozilla-pkix-error-validity-too-long = Lapok tic omiyo catibiket ma tye atir pi kare malac tutwal.
+mozilla-pkix-error-required-tls-feature-missing = Jami ma mite me TLS pe tye.
