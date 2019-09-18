@@ -340,5 +340,6 @@ mozilla-pkix-error-ocsp-response-for-cert-missing = The OCSP response does not i
 mozilla-pkix-error-validity-too-long = La servilo prezentis atestilon, kiu estos valida dum tro longa tempo.
 mozilla-pkix-error-required-tls-feature-missing = Mankas postulata trajto de TLS.
 mozilla-pkix-error-invalid-integer-encoding = The server presented a certificate that contains an invalid encoding of an integer. Common causes include negative serial numbers, negative RSA moduli, and encodings that are longer than necessary.
+mozilla-pkix-error-empty-issuer-name = The server presented a certificate with an empty issuer distinguished name.
 mozilla-pkix-error-additional-policy-constraint-failed = Aldona politika limigo malsuckesis dum validigo de tiu ĉi atestilo.
 mozilla-pkix-error-self-signed-cert = La atestilo ne estas fidata ĉar ĝi estas memsubskribita.
