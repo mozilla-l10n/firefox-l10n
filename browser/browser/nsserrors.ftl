@@ -180,6 +180,7 @@ sec-error-adding-cert = Błąd podczas dodawania certyfikatu do bazy danych.
 sec-error-filing-key = Błąd podczas ponownego dołączania klucza dla tego certyfikatu.
 sec-error-no-key = Klucza publicznego tego certyfikatu nie można odnaleźć w bazie danych.
 sec-error-cert-valid = Ten certyfikat jest prawidłowy.
+sec-error-cert-not-valid = Ten certyfikat jest nieprawidłowy.
 sec-error-cert-no-response = Biblioteka certyfikatów: brak odpowiedzi.
 sec-error-expired-issuer-certificate = Certyfikat wystawcy certyfikatu utracił ważność. Należy sprawdzić czas i datę w systemie.
 sec-error-crl-expired = CRL wystawcy tego certyfikatu utraciła ważność. Należy ją uaktualnić lub sprawdzić czas i datę w systemie.
