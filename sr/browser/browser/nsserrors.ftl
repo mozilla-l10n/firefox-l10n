@@ -128,3 +128,7 @@ sec-error-pkcs11-function-failed = PKCS #11 модул је вратио CKR_FUN
 sec-error-pkcs11-device-error = PKCS #11 модул је вратио CKR_DEVICE_ERROR, што значи да је дошло до проблема са токеном или слотом.
 sec-error-bad-info-access-method = Непознат метод приступа информацији у ознаци типа сертификата.
 sec-error-crl-import-failed = Грешка приликом покушаја увоза CRL-а.
+sec-error-expired-password = Лозинка је истекла.
+sec-error-locked-password = Лозинка је закључана.
+sec-error-unknown-pkcs11-error = Непозната ПКЦС #11 грешка.
+sec-error-cert-signature-algorithm-disabled = Сертификат је потписан коришћењем алгоритма за потписивање који је онемогућен из сигурносних разлога.
