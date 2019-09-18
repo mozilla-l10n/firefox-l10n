@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Tapahtui virhe oltaessa yhteydessä osoitteeseen { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Virhekoodi: { $error }
 psmerr-ssl-disabled = Suojatun yhteyden muodostaminen ei onnistu, koska SSL-yhteiskäytäntö on otettu pois käytöstä.
 psmerr-ssl2-disabled = Suojatun yhteyden muodostaminen ei onnistu, koska sivusto käyttää vanhempaa, heikkoa versiota SSL-yhteiskäytännöstä.
 # This is a multi-line message.
@@ -334,3 +341,5 @@ mozilla-pkix-error-validity-too-long = Palvelimen antama varmenne on kelvollinen
 mozilla-pkix-error-required-tls-feature-missing = Vaadittu TLS-ominaisuus puuttuu.
 mozilla-pkix-error-invalid-integer-encoding = Palvelin tarjosi varmenteen, joka sisältää väärin koodatun kokonaisluvun. Yleisiä syitä tälle ovat muiden muassa negatiiviset sarjanumerot, negatiiviset RSA-moduulit ja tarpeettoman pitkät koodaukset.
 mozilla-pkix-error-empty-issuer-name = Palvelin tarjosi varmenteen, jonka myöntäjän luokiteltu nimi (DN) on tyhjä.
+mozilla-pkix-error-additional-policy-constraint-failed = Varmenteen lisäkäytäntörajoite ei täyttynyt todennettaessa varmennetta.
+mozilla-pkix-error-self-signed-cert = Varmenteeseen ei luoteta, koska se on allekirjoitettu itsellään.
