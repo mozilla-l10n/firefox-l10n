@@ -6,6 +6,9 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Teḍra-d tuccḍa di tuqqna ɣeṛ { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Tangalt n tuccḍa: { $error }
 psmerr-ssl-disabled = Tuqqna taɣelsant d tawezɣit acku aneggaf SSL itturermed.
 psmerr-ssl2-disabled = Tuqqna taɣelsant d tawezɣit acku asmel-agi seqdac aneggaf SSL aqbuṛ u d araɣelsan.
 # This is a multi-line message.
