@@ -9,6 +9,13 @@ ssl-connection-error = { $hostname }에 접속하는 중에 오류가 발생했�
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = 오류 코드: { $error }
+psmerr-ssl-disabled = SSL 프로토콜을 사용할 수 없어서 보안 연결을 할 수 없습니다.
+psmerr-ssl2-disabled = 보안에 취약한 오래된 SSL 프로토콜을 사용하고 있어서 보안 연결을 할 수 없습니다.
+# This is a multi-line message.
+psmerr-hostreusedissuerandserial =
+    유효하지 않은 인증서를 받았습니다. 아래 사항을 서버 관리자에게 제공하시기 바랍니다.
+    
+    제공한 인증서가 인증 기관에서 발급한 다른 인증서와 같은 시리얼 넘버를 가지고 있습니다. 단일 시리얼 넘버를 가진 새로운 인증서를 제공해 주십시오.
 ssl-error-export-only-server = 안전하게 통신 할 수 없습니다. 상대방이 높은 등급의 암호화를 지원하지 않습니다.
 ssl-error-us-only-server = 안전하게 통신 할 수 없습니다. 상대방이 지원하지 않는 높은 등급의 암호화를 요청합니다.
 ssl-error-no-cypher-overlap = 상대방과 안전하게 통신 할 수 없음: 일반 암호화 알고리듬이 없습니다.
