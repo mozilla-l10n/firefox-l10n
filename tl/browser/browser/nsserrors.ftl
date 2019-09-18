@@ -25,6 +25,7 @@ ssl-error-unsupported-certificate-type = Hindi suportado ang uri ng certificate.
 ssl-error-unsupported-version = Peer ang paggamit ng hindi suportadong bersyon ng seguridad na protocol.
 ssl-error-wrong-certificate = Client authentication ay nabigo: pribadong key sa key database ay hindi tumutugma sa public key sa sertipiko ng database.
 ssl-error-bad-cert-domain = Hindi makakapag-usap ng secure sa peer: Ang hiniling na domain name ay hindi tumutugma sa sertipiko ng server.
+ssl-error-post-warning = Hindi makilalang SSL error code.
 ssl-error-ssl2-disabled = Sumusuporta lang ang peer ng SSL bersyon 2, na naka-disable locally.
 ssl-error-bad-mac-read = nakatangap ang SSL ng record na may maling Message Authentication Code.
 ssl-error-bad-mac-alert = Nag-uulat ang SSL peer ng maling Message Authentication Code.
