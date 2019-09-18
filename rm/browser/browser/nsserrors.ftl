@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Ina errur è succedida durant ina connexiun cun { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Code d'errur: { $error }
 psmerr-ssl-disabled = Impussibel da realisar ina connexiun segira, perquai ch'il protocol SSL è vegnì deactivà.
 psmerr-ssl2-disabled = Impussibel da realisar ina connexiun segira, perquai che la website utilisescha ina versiun pli veglia e malsegira dal protocol SSL.
 # This is a multi-line message.
@@ -140,6 +147,11 @@ ssl-error-next-protocol-no-callback = La proxima extensiun per negoziar il proto
 ssl-error-next-protocol-no-protocol = Il server na sustegna nagins protocols ch'il client inditgescha en l'extensiun ALPN.
 ssl-error-inappropriate-fallback-alert = Il server ha refusà il handshake perquai ch'il client ha midà ad ina versiun precedenta da TLS ch'il server na sustegna betg.
 ssl-error-weak-server-cert-key = Il certificat dal server ha cuntegnì ina clav publica memia flaivla.
+ssl-error-rx-short-dtls-read = Betg avunda capacitad libra en il paraculp per ina endataziun DTLS.
+ssl-error-no-supported-signature-algorithm = Nagin algoritmus da signatura TLS sustegnì è vegnì configurà.
+ssl-error-unsupported-signature-algorithm = Il peer ha utilisà ina cumbinaziun betg sustegnida da signatura ed algoritmus da hash.
+ssl-error-missing-extended-master-secret = Il peer ha empruvà da cuntinuar senza l'extensiun extended_master_secret correcta.
+ssl-error-unexpected-extended-master-secret = Il peer ha empruvà da cuntinuar cun ina extensiun extended_master_secret nunspetgada.
 sec-error-io = In'errur I/O cun autentifitgar la segirezza.
 sec-error-library-failure = Errur da la biblioteca da segirezza.
 sec-error-bad-data = Biblioteca da segirezza: recepì datas donnegiadas.
@@ -327,3 +339,7 @@ mozilla-pkix-error-signature-algorithm-mismatch = L'algoritmus da suttascriver e
 mozilla-pkix-error-ocsp-response-for-cert-missing = La resposta OCSP na cuntegna nagin status per il certificat che vegn verifitgà.
 mozilla-pkix-error-validity-too-long = Il server ha preschentà in certificat ch'è valaivel memia ditg.
 mozilla-pkix-error-required-tls-feature-missing = Ina funcziun necessaria da TLS manca.
+mozilla-pkix-error-invalid-integer-encoding = Il server ha preschentà in certificat che cuntegna ina codaziun nunvalida dad in integer. Las raschuns pli frequentas èn numers da seria negativs, moduls RSA negativs e codaziuns ch'èn pli lungas che necessari.
+mozilla-pkix-error-empty-issuer-name = Il server ha preschentà in certificat senza in num unic dad in emettur.
+mozilla-pkix-error-additional-policy-constraint-failed = Ina restricziun da regla supplementara n'è betg reussida durant la validaziun da quest certificat.
+mozilla-pkix-error-self-signed-cert = I na vegn betg fidà al certificat, perquai ch'el è suttascrit da l'agen emettur.
