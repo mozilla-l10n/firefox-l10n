@@ -11,6 +11,11 @@ ssl-connection-error = Ühendumisel aadressiga { $hostname } esines viga. { $err
 cert-error-code-prefix = Veakood: { $error }
 psmerr-ssl-disabled = Pole võimalik turvaliselt ühenduda, kuna SSL-protokoll on keelatud.
 psmerr-ssl2-disabled = Pole võimalik turvaliselt ühenduda, kuna veebileht kasutab vanemat ning ebaturvalist SSL-protokolli versiooni.
+# This is a multi-line message.
+psmerr-hostreusedissuerandserial =
+    Sa oled saanud vigase sertifikaadi.  Võta ühendust serveri administraatori või e-kirja saatjaga ja teata neile järgnevat:
+    
+    Sertifikaadi seerianumber langeb kokku sertifitseerimiskeskuse poolt välja antud teise sertifikaadiga.  Palun hangi uus unikaalse seerianumbriga sertifikaat.
 ssl-error-export-only-server = Turvaline ühendus ebaõnnestus.  Partner ei toeta kõrgtaseme krüptimist.
 ssl-error-us-only-server = Turvaline ühendus ebaõnnestus.  Partner nõuab kõrgtasemelist krüptimist, mis ei ole toetatud.
 ssl-error-no-cypher-overlap = Partneriga pole võimalik luua turvalist ühendust: puuduvad ühised krüptoalgoritmid.
