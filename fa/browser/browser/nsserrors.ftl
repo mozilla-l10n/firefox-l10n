@@ -107,6 +107,10 @@ ssl-error-certificate-unobtainable-alert = طرف مقابل SSL قادر به �
 ssl-error-unrecognized-name-alert = طرف مقابل SSL برای نام DNS تقاضا شده هیچ گواهی ندارد.
 ssl-error-bad-cert-status-response-alert = طرف مقابل SSL قادر به دریافت پاسخ OCSP برای گواهی‌اش نبود.
 ssl-error-bad-cert-hash-value-alert = طرف مقابل SSL گزارش از مقدار درهم‌سازی گواهی نادرست داد.
+ssl-error-renegotiation-not-allowed = مذاکرهٔ مجدد در این سوکت SSL امکان‌پذیر نیست.
+ssl-error-unsafe-negotiation = طرف مقابل برای استفاده از روش شروع قدیمی (و به صورت بالقوه آسیب‌پذیری) تلاش کرد.
+ssl-error-rx-unexpected-uncompressed-record = SSL اطلاعات فشردهٔ غیر منتظره‌ای دریافت نمود.
+ssl-error-weak-server-ephemeral-dh-key = SSL یک کلید موقتی ضعیف Diffie-Hellman در پیام Server Key Exchange دریافت نمود.
 sec-error-io = یک خطای ورودی/خروجی در هنگام مجازشماری امنیتی رخ داد.
 sec-error-library-failure = شکست کتابخانهٔ امنیتی.
 sec-error-bad-data = کتابخانهٔ امنیتی: اطلاعات نامعتبری دریافت شد.
@@ -218,3 +222,16 @@ sec-error-crl-already-exists = CRL قبلاً وجود دارد.
 sec-error-not-initialized = NSS شروع به کار نکرده است.
 sec-error-token-not-logged-in = عملیات شکست خورد، زیرا نشان PKCS#11 وارد نشده است.
 sec-error-ocsp-bad-signature = پاسخ OCSP دارای امضایی نامعتبر است.
+sec-error-out-of-search-limits = جست‌وجو برای اعتبار گواهی از محدوده‌های از پیش تعیین شده فراتر رفت
+sec-error-invalid-policy-mapping = نگاشت سیاست‌ها شامل anypolicy است
+sec-error-policy-validation-failed = زنجیرهٔ گواهی منطبق با سیاست‌ها نیست
+sec-error-unknown-aia-location-type = نوع محل نامعلوم در ضمیمهٔ AIA
+sec-error-bad-http-response = کارگزار پاسخ HTTP نامعتبری ارسال نمود
+sec-error-bad-ldap-response = کارگزار پاسخ LDAP نامعتبری ارسال نمود
+sec-error-failed-to-encode-data = رمزنگاری اطلاعات توسط ASN1 با مشکل مواجه شد
+sec-error-bad-info-access-location = محل دسترسی به اطلاعات در ضمیمهٔ گواهی نامعتبر است
+sec-error-libpkix-internal = خطای داخلی Libpkix در حین وارسی گواهی
+sec-error-pkcs11-general-error = یک پیمانهٔ PKCS ‎#11 خطای CKR_GENERAL_ERROR به معنی مشکلی جبران‌ناپذیر را بازگرداند.
+sec-error-pkcs11-device-error = یک پیمانهٔ PKCS ‎#11 خطای CKR_DEVICE_ERROR به معنی اشکالی در نشان امنیتی را بازگرداند.
+sec-error-bad-info-access-method = روش دسترسی به اطلاعات در ضمیمهٔ گواهی نامعلوم است.
+sec-error-crl-import-failed = در وارد کردن فهرست لغو گواهی‌ها اشکالی به وجود آمد.
