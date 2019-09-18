@@ -90,6 +90,9 @@ manifest-loaded-ok = Đã tải manifest.
 manifest-loaded-error = Có lỗi trong khi tải tập tin kê khai:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Không tìm thấy bảng kê khai để kiểm tra.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Tập tin kê khai được nhúng trong URL dữ liệu.
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Kê khai
     .alt = Biểu tượng kê khai

@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Các thẻ đã đồng bộ
 synced-tabs-sidebar-noclients-subtitle = Muốn xem thẻ từ các thiết bị khác của bạn ở đây?
 synced-tabs-sidebar-notsignedin = Đăng nhập để xem danh sách thẻ từ các thiết bị khác của bạn.
+synced-tabs-sidebar-intro = Xem danh sách các thẻ từ các thiết bị khác của bạn.
 synced-tabs-sidebar-unverified = Tài khoản của bạn cần được xác thực.
 synced-tabs-sidebar-notabs = Không có thẻ đang mở
 synced-tabs-sidebar-openprefs = Mở tùy chỉnh của { -sync-brand-short-name }
@@ -37,3 +38,4 @@ synced-tabs-context-manage-devices =
     .label = Quản lý các thiết bị…
     .accesskey = D
 fxa-sign-in = Đăng nhập vào { -sync-brand-short-name }
+turn-on-sync = Bật { -sync-brand-short-name }

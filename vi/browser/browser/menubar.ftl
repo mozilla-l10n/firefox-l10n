@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Toàn màn hình
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Hiện tất cả các thẻ
@@ -212,6 +212,9 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Đăng nhập vào { -sync-brand-short-name }…
     .accesskey = Y
+menu-tools-turn-on-sync =
+    .label = Bật { -sync-brand-short-name }…
+    .accesskey = n
 menu-tools-sync-now =
     .label = Đồng bộ ngay
     .accesskey = S
