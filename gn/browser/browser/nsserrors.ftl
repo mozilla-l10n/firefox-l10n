@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Oiko jejavy eikévo { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Ayvu jejavy; { $error }
 psmerr-ssl-disabled = Ndaikatúi eike jeroviápe pe mba'ete oñemongéma rupi.
 psmerr-ssl2-disabled = Ndaikatúi eikekatu pe tenda oipuru rupi peteĩchagua itujáva ha nahekorosãiva SSL reheguáva.
 # This is a multi-line message.
@@ -334,3 +341,5 @@ mozilla-pkix-error-validity-too-long = Pe mohendahavusu ohechauka peteĩ mboajep
 mozilla-pkix-error-required-tls-feature-missing = Peteĩ TLS reheguaite jerurepyre ndojejuhúi.
 mozilla-pkix-error-invalid-integer-encoding = Ko mohendahavusu ohechauka mboajepyre oguerekóva ñembopapapy oiko'ỹva. Ko'ãva ikatu oiko oguerekóramo papapy syryry mbotovéva, RSA mbotovéva ra'ãha ha mbopapapy ipukuetereíva oikotevẽ'ỹre.
 mozilla-pkix-error-empty-issuer-name = Mohendahavusu ohechauka peteĩ mboajepyre téra tee rechaha nandíva.
+mozilla-pkix-error-additional-policy-constraint-failed = Oñemomichĩ purureko joapýva ndoikói oñemoneĩsévo mboajepyre.
+mozilla-pkix-error-self-signed-cert = Mboajepyre ndojegueroviapái heraguapy rupi ijehegui.
