@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Došlo je do greške tokom povezivanja sa { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Kod greške: { $error }
 psmerr-ssl-disabled = Nije moguće sigurno povezivanje jer je SSL protokol isključen.
 psmerr-ssl2-disabled = Nije moguće sigurno povezivanje jer stranica koristi stariju, nesigurnu verziju SSL protokola.
 # This is a multi-line message.
@@ -334,3 +341,4 @@ mozilla-pkix-error-validity-too-long = Server je ponudio certifikat koji je pred
 mozilla-pkix-error-required-tls-feature-missing = Nedostaje potrebna TLS funkcionalnost.
 mozilla-pkix-error-invalid-integer-encoding = Server je prezentovao certifikat koji sadrži neispravno kodiranje cijelog broja. Uobičajeni uzroci za ovo uključuju negativne serijske brojeve, negativne RSA module i kodiranja koja su duža nego što je potrebno.
 mozilla-pkix-error-empty-issuer-name = Server je prezentovao certifikat sa praznim nazivom izdavača.
+mozilla-pkix-error-self-signed-cert = Certifikat nije od povjerenja jer je samopotpisan.
