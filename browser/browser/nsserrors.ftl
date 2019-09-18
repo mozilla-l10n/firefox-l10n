@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This is a multi-line message.
+psmerr-hostreusedissuerandserial =
+    Du har motteke eit ugyldig sertifikat. Kontakt den ansvarlige for tenaren, eller e-postmottakaren, og gje dei følgande informasjon:
+    
+    Sertifikatet inneheld det same serienummeret som eit anna sertifikat som er utgjeve av denne sertifikatutgjevaren. Skaff eit nytt sertifikat med unikt serienummer.
 ssl-error-bad-client = Tenaren tok imot ugyldige data frå klienten.
 ssl-error-bad-server = Klienten tok imot ugyldige data frå tenaren.
 ssl-error-unsupported-certificate-type = Ikkje støtta sertifikattype.
