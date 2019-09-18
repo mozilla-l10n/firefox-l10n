@@ -4,6 +4,11 @@
 
 psmerr-ssl-disabled = Nie je možné bezpečne sa pripojiť, pretože protokol SSL je zakázaný.
 psmerr-ssl2-disabled = Nie je možné bezpečne sa pripojiť, pretože server používa staršiu a nie veľmi bezpečnú verziu protokolu SSL.
+# This is a multi-line message.
+psmerr-hostreusedissuerandserial =
+    Prijali ste neplatný certifikát. Obráťte sa na správcu servera alebo odosielateľa e-mailovej správy a poskytnite im tieto informácie:
+    
+    Váš certifikát obsahuje rovnaké sériové číslo ako iný certifikát vydaný certifikačnou autoritou. Je potrebné získať nový certifikát obsahujúci jedinečné sériové číslo.
 ssl-error-export-only-server = Nie je možné bezpečne sa pripojiť. Partner nepodporuje prvotriedne šifrovanie.
 ssl-error-us-only-server = Nie je možné bezpečne komunikovať. Partner vyžaduje prvotriedne šifrovanie, ktoré nie je podporované.
 ssl-error-no-cypher-overlap = S partnerom nie je možné bezpečne komunikovať: žiadny spoločný šifrovací algoritmus.
@@ -15,6 +20,7 @@ ssl-error-unsupported-certificate-type = Nepodporovaný typ certifikátu.
 ssl-error-unsupported-version = Partner používa nepodporovanú verziu bezpečnostného protokolu.
 ssl-error-wrong-certificate = Overenie klienta sa nepodarilo: privátny kľúč v databáze kľúčov nezodpovedá verejnému kľúču v databáze certifikátov.
 ssl-error-bad-cert-domain = S partnerom nie je možné bezpečne komunikovať: požadovaný názov domény nezodpovedá certifikátu servera.
+ssl-error-post-warning = Nerozpoznaný kód chyby protokolu SSL.
 ssl-error-ssl2-disabled = Partner podporuje len protokol SSL vo verzii 2, ktorá je lokálne zakázaná.
 ssl-error-bad-mac-read = Protokol SSL prijal záznam s nesprávnym overovacím kódom správy.
 ssl-error-bad-mac-alert = Partner protokolu SSL hlási nesprávny overovací kód správy.
@@ -110,6 +116,17 @@ ssl-error-certificate-unobtainable-alert = Partner protokolu SSL nemôže z doda
 ssl-error-unrecognized-name-alert = Partner protokolu SSL nemá certifikát pre požadovaný názov DNS.
 ssl-error-bad-cert-status-response-alert = Partner protokolu SSL nemohol získať odozvu OCSP pre svoj certifikát.
 ssl-error-bad-cert-hash-value-alert = Partner protokolu SSL hlási nesprávnu hodnotu transformácie certifikátu.
+ssl-error-rx-unexpected-new-session-ticket = Protokol SSL prijal neočakávanú synchronizačnú správu New Session Ticket.
+ssl-error-rx-malformed-new-session-ticket = Protokol SSL prijal poškodenú synchronizačnú správu New Session Ticket.
+ssl-error-decompression-failure = Protokol SSL prijal komprimovaný záznam, ktorý nie je možné dekomprimovať.
+ssl-error-renegotiation-not-allowed = Vyjednávanie nie je na tomto sockete SSL povolené.
+ssl-error-unsafe-negotiation = Partner sa pokúsil o zastaranú (potenciálne zraniteľnú) synchronizáciu.
+ssl-error-rx-unexpected-uncompressed-record = Protokol SSL prijal neočakávaný dekomprimovaný záznam.
+ssl-error-weak-server-ephemeral-dh-key = Protokol SSL prijal v handshake správe Server Key Exchange slabý krátkodobý kľúč Diffie-Hellman.
+ssl-error-next-protocol-data-invalid = Protokol SSL prijal neplatné údaje rozšírenia NPN.
+ssl-error-feature-not-supported-for-ssl2 = Funkcia protokolu SSL nie je podporovaná pre pripojenia SSL 2.0.
+ssl-error-feature-not-supported-for-servers = Funkcia protokolu SSL nie je podporovaná pre servery.
+ssl-error-feature-not-supported-for-clients = Funkcia protokolu SSL nie je podporovaná pre klientov.
 sec-error-io = Počas bezpečnostného overenia došlo k chybe vstupu a výstupu.
 sec-error-library-failure = chyba bezpečnostnej knižnice.
 sec-error-bad-data = bezpečnostná knižnica: prijaté nesprávne údaje.
@@ -268,3 +285,25 @@ sec-error-not-initialized = NSS nie je inicializované.
 sec-error-token-not-logged-in = Operácia sa nepodarila, pretože token PKCS#11 nie je prihlásený.
 sec-error-ocsp-responder-cert-invalid = Certifikát nakonfigurovaného modulu odpovede OCSP je neplatný.
 sec-error-ocsp-bad-signature = Odpoveď OCSP má neplatný podpis.
+sec-error-out-of-search-limits = Vyhľadanie overenia certifikátu je mimo limitov vyhľadávania
+sec-error-invalid-policy-mapping = Politika priradenia obsahuje hodnotu anypolicy
+sec-error-policy-validation-failed = Reťaz certifikátu neprešla zásadami overenia
+sec-error-unknown-aia-location-type = Neznámy typ umiestnenia v rozšírení certifikátu AIA
+sec-error-bad-http-response = Server vrátil nesprávnu odpoveď HTTP
+sec-error-bad-ldap-response = Server vrátil nesprávnu odpoveď LDAP
+sec-error-failed-to-encode-data = Nepodarilo sa zakódovať údaje pomocou kódera ASN1
+sec-error-bad-info-access-location = Nesprávne umiestnenie prístupu k informáciám v rozšírení certifikátu.
+sec-error-libpkix-internal = Počas overenia certifikátu sa vyskytla vnútorná chyba knižnice Libpkix.
+sec-error-pkcs11-general-error = Modul PKCS #11 vrátil chybu CKR_GENERAL_ERROR, čo indikuje, že sa objavila neobnoviteľná chyba.
+sec-error-pkcs11-function-failed = Modul PKCS #11 vrátil chybu CKR_FUNCTION_FAILED, čo indikuje, že požadovaná funkcia nemohla byť vykonaná. Opätovné spustenie operácie môže viesť k úspechu.
+sec-error-pkcs11-device-error = Modul PKCS #11 vrátil chybu CKR_DEVICE_ERROR, čo indikuje, že sa objavil problém s tokenom alebo slotom.
+sec-error-bad-info-access-method = Neznáma metóda prístupu k informáciám v rozšírení certifikátu.
+sec-error-crl-import-failed = Chyba pri pokuse o importovanie CRL.
+sec-error-expired-password = Heslo vypršalo.
+sec-error-locked-password = Heslo je zamknuté.
+sec-error-unknown-pkcs11-error = Neznáma chyba PKCS #11.
+sec-error-bad-crl-dp-url = Neplatná alebo nepodporovaná adresa URL v názve lokality distribúcie CRL.
+sec-error-cert-signature-algorithm-disabled = Certifikát bol podpísaný použitím podpisového algoritmu, ktorý je zakázaný, pretože nie je bezpečný.
+mozilla-pkix-error-key-pinning-failure = Server používa key pinning (HPKP), ale nebola zložená vhodná reťaz dôveryhodných certifikátov, ktoré sa zhodujú s daným pinsetom. Porušenia key pinning nie je možné ignorovať.
+mozilla-pkix-error-ca-cert-used-as-end-entity = Server používa certifikát s rozšírením základných vymedzení, ktoré ho identifikujú ako certifikačnú autoritu. Toto by sa nemalo stať pre korektne vydaný certifikát.
+mozilla-pkix-error-inadequate-key-size = Server poskytol certifikát s veľkosťou kľúča, ktorá je príliš malá na zostavenie bezpečného spojenia.
