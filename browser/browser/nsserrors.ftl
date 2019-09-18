@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Der opstod en fejl under forbindelsen til { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Fejlkode: { $error }
 psmerr-ssl-disabled = Kan ikke oprette sikker forbindelse, da SSL-protokollen er slået fra.
 psmerr-ssl2-disabled = Kan ikke oprette sikker forbindelse, da siden anvender en ældre, usikker version af SSL-protokollen.
 # This is a multi-line message.
@@ -137,6 +144,7 @@ ssl-error-unsupported-hash-algorithm = TLS-modparten benyttede en ikke understø
 ssl-error-digest-failure = Digest-funktionen mislykkedes.
 ssl-error-incorrect-signature-algorithm = Forkert signatur-algoritme angivet i et digitalt signeret element.
 ssl-error-next-protocol-no-callback = Udvidelsen next protocol negotiation blev brugt, men callback-funktionen blev fjernet for tidligt.
+ssl-error-next-protocol-no-protocol = Serveren understøtter ikke nogen af de protokoller, som klienten tilbyder i ALPN-udvidelsen.
 ssl-error-inappropriate-fallback-alert = Serveren afviste handshaket, fordi klienten nedgraderede til en lavere version af TLS end serveren understøtter.
 ssl-error-weak-server-cert-key = Servercertifikatet indeholdt en offentlig nøgle, der var for svag.
 ssl-error-rx-short-dtls-read = Der er ikke plads i bufferen til DTLS-attesten.
@@ -333,3 +341,5 @@ mozilla-pkix-error-validity-too-long = Serveren benyttede et certifikat, der er 
 mozilla-pkix-error-required-tls-feature-missing = En påkrævet TLS-funktion mangler.
 mozilla-pkix-error-invalid-integer-encoding = Serveren præsenterede et certifikat, som indeholder en ugyldig kodning af et heltal. Typiske årsager kan være brugen af negative serienumre, negative RSA-moduli og kodninger, der er længere end nødvendigt.
 mozilla-pkix-error-empty-issuer-name = Serveren præsenterede et certifikat uden et entydigt navn (DN) på certifikatudsteder.
+mozilla-pkix-error-additional-policy-constraint-failed = En ekstra policy-begrænsning slog fejl under validering af dette certifikat.
+mozilla-pkix-error-self-signed-cert = Der stoles ikke på certifikatet, da det er underskrevet af indehaveren selv.
