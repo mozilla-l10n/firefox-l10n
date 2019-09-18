@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Un error ocurrió durante a una conexión a { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Código de error: { $error }
 psmerr-ssl-disabled = No se puede conectar de forma segura porque el protocolo ha sido desactivado.
 psmerr-ssl2-disabled = No se puede conectar de forma segura porque el sitio usa una versión antigua e insegura del protocolo SSL.
 # This is a multi-line message.
@@ -140,6 +147,11 @@ ssl-error-next-protocol-no-callback = Se activó la extensión de negociación d
 ssl-error-next-protocol-no-protocol = El servidor no admite protocolos anunciados por el cliente en la extensión ALPN.
 ssl-error-inappropriate-fallback-alert = El servidor rechazó la negociación porque el cliente degradó a una versión TLS inferior a la que admite el servidor.
 ssl-error-weak-server-cert-key = El certificado de servidor incluía una clave pública que era demasiado débil.
+ssl-error-rx-short-dtls-read = Sin espacio suficiente en buffer para un registro DTLS.
+ssl-error-no-supported-signature-algorithm = No se configuró un algoritmo de firma TLS soportado.
+ssl-error-unsupported-signature-algorithm = El par usó una combinación no soportada de firma y algoritmo hash.
+ssl-error-missing-extended-master-secret = El par trató de continuar sin una extensión extended_master_secret correcta.
+ssl-error-unexpected-extended-master-secret = El par trató de continuar con una extensión extended_master_secret inesperada.
 sec-error-io = Ha ocurrido un error de E/S durante la autorización de seguridad.
 sec-error-library-failure = fallo de la biblioteca de seguridad.
 sec-error-bad-data = biblioteca de seguridad: se han recibido datos incorrectos.
@@ -327,3 +339,7 @@ mozilla-pkix-error-signature-algorithm-mismatch = El algoritmo de firma en el ca
 mozilla-pkix-error-ocsp-response-for-cert-missing = La respuesta OCSP no incluye un estado para el certificado que se está verificando.
 mozilla-pkix-error-validity-too-long = El servidor ha presentado un certificado con una validez excesivamente amplia.
 mozilla-pkix-error-required-tls-feature-missing = Falta una característica necesaria de TLS.
+mozilla-pkix-error-invalid-integer-encoding = El servidor presentó un certificado que contenía una codificación inválida de un entero. Las causas usuales incluyen números de serie negativos, módulos RSA negativos, y codificaciones que ya no son necesarias.
+mozilla-pkix-error-empty-issuer-name = El servidor ha presentado un certificado que aún no es válido.
+mozilla-pkix-error-additional-policy-constraint-failed = Una restricción de política adicional falló al validar este certificado.
+mozilla-pkix-error-self-signed-cert = El certificado no es confiable porque fue autofirmado.
