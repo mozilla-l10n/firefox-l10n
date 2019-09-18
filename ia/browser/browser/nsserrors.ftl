@@ -160,6 +160,7 @@ sec-error-input-len = bibliotheca de securitate: error de longor de immission.
 sec-error-invalid-args = bibliotheca de securitate: argumentos non valide.
 sec-error-invalid-algorithm = bibliotheca de securitate: algorithmo non valide.
 sec-error-invalid-ava = bibliotheca de securitate: AVA non valide.
+sec-error-invalid-time = Catena de tempore formatate impropriemente.
 sec-error-bad-der = bibliotheca de securitate: message codificate per DER, formatate impropriemente.
 sec-error-bad-signature = Le certificato del par ha un signatura non valide.
 sec-error-expired-certificate = Le certificato del par es expirate.
