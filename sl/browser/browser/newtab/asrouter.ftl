@@ -139,3 +139,4 @@ cfr-doorhanger-firefox-send-ok-button = Preizkusite { -send-brand-name }
 ## Social Tracking Protection
 
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } je preprečil družbenemu omrežju, da bi vam tukaj sledilo
+cfr-doorhanger-socialtracking-description = Vaša zasebnost je pomembna. { -brand-short-name } zdaj zavrača običajne sledilce družbenih omrežij in omejuje, koliko podatkov lahko zberejo o tem, kar počnete na spletu.
