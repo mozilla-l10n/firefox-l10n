@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Thachair mearachd fhad 's a bha ceangal ann ri { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Còd na mearachd: { $error }
 psmerr-ssl-disabled = Cha ghabh ceangal tèarainte a dhèanamh a chionn 's gun deach am pròtacal SSL a chur à comas.
 psmerr-ssl2-disabled = Cha ghabh ceangal tèarainte a dhèanamh a chionn 's gu bheil an làrach a' cleachdadh seann tionndadh dhen phròtacal SSL nach eil tèarainte.
 # This is a multi-line message.
@@ -334,3 +341,5 @@ mozilla-pkix-error-validity-too-long = Nochd am frithealaiche teisteanas a tha d
 mozilla-pkix-error-required-tls-feature-missing = Tha gleus TLS air a bheil feum a dhìth.
 mozilla-pkix-error-invalid-integer-encoding = The server presented a certificate that contains an invalid encoding of an integer. Common causes include negative serial numbers, negative RSA moduli, and encodings that are longer than necessary.
 mozilla-pkix-error-empty-issuer-name = Nochd am frithealaiche teisteanas le ainm foillsichear falamh.
+mozilla-pkix-error-additional-policy-constraint-failed = An additional policy constraint failed when validating this certificate.
+mozilla-pkix-error-self-signed-cert = Chan eil earbsa san teisteanas seo a chionn 's gun deach a fhèin-shoidhneadh.
