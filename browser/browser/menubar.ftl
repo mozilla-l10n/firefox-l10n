@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Teljes képernyő
     .accesskey = T
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Az összes böngészőlap megjelenítése
@@ -212,6 +212,9 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Bejelentkezés a { -sync-brand-short-name }be…
     .accesskey = J
+menu-tools-turn-on-sync =
+    .label = { -sync-brand-short-name } bekapcsolása…
+    .accesskey = b
 menu-tools-sync-now =
     .label = Szinkronizálás
     .accesskey = S
