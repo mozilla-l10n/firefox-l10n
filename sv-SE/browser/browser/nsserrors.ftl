@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Ett fel uppstod under anslutning till { $hostname }. { $errorMessage }
 psmerr-ssl-disabled = Kan inte ansluta på ett säkert sätt eftersom SSL-protokollet har inaktiverats.
 psmerr-ssl2-disabled = Kan inte ansluta på ett säkert sätt eftersom webbplatsen använder en gammal och osäker version av SSL-protokollet.
 # This is a multi-line message.
@@ -334,3 +338,5 @@ mozilla-pkix-error-validity-too-long = Servern visade ett certifikat som är gil
 mozilla-pkix-error-required-tls-feature-missing = En obligatorisk TLS-funktion saknas.
 mozilla-pkix-error-invalid-integer-encoding = Servern visade ett certifikat som innehåller en ogiltig kodning av ett heltal. Vanliga orsaker är negativa serienummer, negativa RSA-moduler och kodning som är längre än nödvändigt.
 mozilla-pkix-error-empty-issuer-name = Servern visade ett certifikat med en tom utfärdare med ett framstående namn.
+mozilla-pkix-error-additional-policy-constraint-failed = En ytterligare policybegränsning misslyckades vid validering av detta certifikat.
+mozilla-pkix-error-self-signed-cert = Certifikatet är inte betrott eftersom det är självsignerat.
