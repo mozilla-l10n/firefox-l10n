@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Folslein skerm
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Alle ljepblêden toane
@@ -211,6 +211,9 @@ menu-tools-addons =
     .accesskey = A
 menu-tools-sync-sign-in =
     .label = Oanmelde by { -sync-brand-short-name }…
+    .accesskey = y
+menu-tools-turn-on-sync =
+    .label = { -sync-brand-short-name } ynskeakelje…
     .accesskey = y
 menu-tools-sync-now =
     .label = No syngronisearje

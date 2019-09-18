@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Syngronisearre ljepblêden
 synced-tabs-sidebar-noclients-subtitle = Wolle jo hjir jo ljepblêden fan oare apparaten sjen?
 synced-tabs-sidebar-notsignedin = Meld jo oan om in list fan ljepblêden fan jo oare apparaten wer te jaan.
+synced-tabs-sidebar-intro = Besjoch in list mei ljepblêden fan jo oare apparaten.
 synced-tabs-sidebar-unverified = Jo account moat ferifiearre wurde.
 synced-tabs-sidebar-notabs = Gjin iepen ljepblêden
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name }-foarkarren iepenje
@@ -37,3 +38,4 @@ synced-tabs-context-manage-devices =
     .label = Apparaten beheare…
     .accesskey = b
 fxa-sign-in = Oanmelde by { -sync-brand-short-name }
+turn-on-sync = { -sync-brand-short-name } ynskeakelje
