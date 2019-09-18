@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = { $hostname } सोबत जुळवणी स्थापीत करताना त्रुटी आढळली. { $errorMessage }{ " " }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = त्रुटी कोड: { $error }
 psmerr-ssl-disabled = SSL शिष्टाचार अकार्यान्वीत केल्यामुळे जुळवणी सुरक्षीतरित्या स्थपीत होऊ शकत नाही.
 psmerr-ssl2-disabled = स्थळ जुणे, SSL शिष्टाचारची असुरक्षीत आवृत्ती वापरत असल्यामुळे जुळवणी सुरक्षीतरित्या स्थपीत होऊ शकत नाही.
 # This is a multi-line message.
@@ -334,3 +341,4 @@ mozilla-pkix-error-validity-too-long = सर्व्हरने खूप क
 mozilla-pkix-error-required-tls-feature-missing = एक आवश्यक, TLS वैशिष्ट्य गहाळ झाले आहे.
 mozilla-pkix-error-invalid-integer-encoding = पूर्णांकाची अवैध एन्कोडिंग असलेले प्रमाणपत्र सर्व्हरने सादर केले आहे. सर्वसामान्य कारणांमध्ये उणे अनुक्रमांक, उणे RSA moduli आणि आवश्यकतेपेक्षा अधिक काळ असलेले एन्कोडिंग यांचा समावेश आहे.
 mozilla-pkix-error-empty-issuer-name = सेर्व्हरने रिक्त प्रतिष्ठित नावासहित प्रमाणपत्र सादर केलेले आहे.
+mozilla-pkix-error-self-signed-cert = प्रमाणपत्र स्वयं-स्वाक्षरीत असल्यामुळे विश्वसनीय नाही.
