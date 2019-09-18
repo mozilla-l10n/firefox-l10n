@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Okazis eraro dum la konekto al { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Erarkodo: { $error }
 psmerr-ssl-disabled = Ne eblas konektiĝi sekure ĉar la protokolo SSL estis malaktivigita.
 psmerr-ssl2-disabled = Ne eblas konektiĝi sekure ĉar la retejo uzas malnovan, nesekuran version de la protokolo SSL.
 # This is a multi-line message.
@@ -333,3 +340,5 @@ mozilla-pkix-error-ocsp-response-for-cert-missing = The OCSP response does not i
 mozilla-pkix-error-validity-too-long = La servilo prezentis atestilon, kiu estos valida dum tro longa tempo.
 mozilla-pkix-error-required-tls-feature-missing = Mankas postulata trajto de TLS.
 mozilla-pkix-error-invalid-integer-encoding = The server presented a certificate that contains an invalid encoding of an integer. Common causes include negative serial numbers, negative RSA moduli, and encodings that are longer than necessary.
+mozilla-pkix-error-additional-policy-constraint-failed = Aldona politika limigo malsuckesis dum validigo de tiu ĉi atestilo.
+mozilla-pkix-error-self-signed-cert = La atestilo ne estas fidata ĉar ĝi estas memsubskribita.
