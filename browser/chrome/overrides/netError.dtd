@@ -9,9 +9,7 @@
 <!ENTITY retry.label "Tentar novamente">
 <!ENTITY returnToPreviousPage.label "Voltar">
 <!ENTITY returnToPreviousPage1.label "Voltar (recomendado)">
-<!ENTITY advanced.label "Avançado">
 <!ENTITY advanced2.label "Avançado…">
-<!ENTITY moreInformation.label "Mais informações">
 <!ENTITY viewCertificate.label "Ver certificado">
 
 <!-- Specific error messages -->
@@ -126,14 +124,8 @@ instalado.</li>
   <li>Entre em contato com os responsáveis pelo site para informar este problema.</li>
 </ul>">
 
-<!ENTITY certerror.longpagetitle1 "Sua conexão não é segura">
-
 <!ENTITY certerror.longpagetitle2 "Alerta: Potencial risco de segurança à frente">
 <!ENTITY certerror.sts.longpagetitle  "Não conectou: Potencial problema de segurança">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
-will be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara "O proprietário do <span class='hostname'/> configurou este site incorretamente. Para proteger suas informações de serem roubadas, o &brandShortName; não se conectou a ele.">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -175,9 +167,6 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
 <!ENTITY corruptedContentErrorv2.title "Erro de conteúdo corrompido">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>A página que está tentando ver não pode ser vista porque foi detectado um erro na transmissão de dados.</p><ul><li>Entre em contato com os proprietários do site para informá-los sobre este problema.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Adicionar exceção…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Aceitar o risco e continuar">
 
 <!ENTITY errorReporting.automatic2 "Relatar erros como este para ajudar a Mozilla a identificar e bloquear sites maliciosos">
@@ -191,20 +180,8 @@ de que o &brandShortName; esteja autorizado a acessar a web.</li>
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informações avançadas: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; não se conectou ao domínio <span id='wrongSystemTime_URL'/> porque o relógio do seu computador parece estar errado e isso impede uma conexão segura.</p> <p>O seu relógio marca <span id='wrongSystemTime_systemDate'/>, quando na verdade deveria ser <span id='wrongSystemTime_actualDate'/>. Para corrigir este problema, ajuste suas configurações de data e hora.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; não se conectou ao domínio <span id='wrongSystemTimeWithoutReference_URL'/> porque o relógio do seu computador parece estar errado e isso impede uma conexão segura.</p> <p>O seu relógio marca <span id='wrongSystemTimeWithoutReference_systemDate'/>. Para corrigir este problema, ajuste suas configurações de data e hora.</p>">
-
-<!ENTITY certerror.pagetitle1  "Conexão insegura">
-
 <!ENTITY certerror.pagetitle2  "Alerta: Potencial risco de segurança à frente">
 <!ENTITY certerror.sts.pagetitle  "Não conectou: Potencial problema de segurança">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este site usa HTTP
-Strict Transport Security (HSTS) para especificar que o &brandShortName; só pode se conectar
-a ele com segurança. Como resultado, não é possível adicionar uma exceção para este
-certificado.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> tem uma política de segurança chamada HTTP Strict Transport Security (HSTS), que significa que o &brandShortName; só pode se conectar a ele com segurança. Você não pode adicionar uma exceção para visitar este site.">
 <!ENTITY certerror.copyToClipboard.label "Copiar texto para a área de transferência">
 
