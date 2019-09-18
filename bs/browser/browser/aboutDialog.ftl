@@ -22,7 +22,7 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } biva nadograđen od 
 update-manual = Nadogradnje dostupne na <label data-l10n-name="manual-link"/>
 update-unsupported = Ne možete vršiti dodatne nadogradnje na ovom sistemu. <label data-l10n-name="unsupported-link">Saznajte više</label>
 update-restarting = Restartujem…
-channel-description = Vi ste trenutno na <label data-l10n-name="current-channel"></label> kanalu nadogradnje.{ " " }
+channel-description = Vi ste trenutno na <label data-l10n-name="current-channel"></label> kanalu nadogradnje.
 warningDesc-version = { -brand-short-name } je eksperimentalna verzija i može biti nestabilna.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> je <label data-l10n-name="community-exp-creditsLink">globalna zajednica</label> koja se zalaže da Web ostane otvoren, javan i dostupan svima.
 community-2 = { -brand-short-name } je dizajnirala <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">globalna zajednica</label> koja se zalaže da Web ostane otvoren, javan i dostupan svima.
