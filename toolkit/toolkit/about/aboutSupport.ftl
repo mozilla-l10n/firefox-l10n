@@ -35,6 +35,8 @@ app-basics-name = Name
 app-basics-version = Version
 app-basics-build-id = Build ID
 app-basics-update-channel = Update Channel
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Update Directory
@@ -59,7 +61,6 @@ app-basics-service-workers = Registered Service Workers
 app-basics-profiles = Profiles
 app-basics-launcher-process-status = Launcher Process
 app-basics-multi-process-support = Multiprocess Windows
-app-basics-process-count = Web Content Processes
 app-basics-remote-processes-count = Remote Processes
 app-basics-enterprise-policies = Enterprise Policies
 app-basics-location-service-key-google = Google Location Service Key
@@ -115,6 +116,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = Try Safe Mode
 restart-in-safe-mode-label = Restart with Add-ons Disabled…
+
+## Media titles
+
+audio-backend = Audio Backend
+max-audio-channels = Max Channels
+channel-layout = Preferred Channel Layout
+sample-rate = Preferred Sample Rate
 media-title = Media
 media-output-devices-title = Output Devices
 media-input-devices-title = Input Devices
@@ -127,6 +135,12 @@ media-device-format = Format
 media-device-channels = Channels
 media-device-rate = Rate
 media-device-latency = Latency
+media-capabilities-title = Media Capabilities
+# List all the entries of the database.
+media-capabilities-enumerate = Enumerate database
+
+
+
 intl-title = Internationalisation & Localisation
 intl-app-title = Application Settings
 intl-locales-requested = Requested Locales
@@ -241,12 +255,7 @@ uses-tiling = Uses Tiling
 content-uses-tiling = Uses Tiling (Content)
 off-main-thread-paint-enabled = Off Main Thread Painting Enabled
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Count
-low-end-machine = Detected less performant machine
 target-frame-rate = Target Frame Rate
-audio-backend = Audio Backend
-max-audio-channels = Max Channels
-channel-layout = Preferred Channel Layout
-sample-rate = Preferred Sample Rate
 min-lib-versions = Expected minimum version
 loaded-lib-versions = Version in use
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
