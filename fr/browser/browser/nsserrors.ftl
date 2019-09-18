@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 psmerr-ssl-disabled = Connexion sécurisée impossible car le protocole SSL a été désactivé.
+psmerr-ssl2-disabled = Connexion sécurisée impossible car le site utilise une ancienne version non sûre du protocole SSL.
 ssl-error-export-only-server = Impossible de communiquer en mode sécurisé. Le pair ne gère pas le chiffrement de haut niveau.
 ssl-error-bad-certificate = Impossible de communiquer en mode sécurisé avec le pair : le certificat du pair a été rejeté.
 ssl-error-bad-client = Le serveur a rencontré des données incorrectes en provenance du client.
