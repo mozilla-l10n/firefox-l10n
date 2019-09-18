@@ -9,6 +9,7 @@ psmerr-hostreusedissuerandserial =
     You have received an invalid certificate.  Please contact the server administrator or email correspondent and give them the following information:
     
     Your certificate contains the same serial number as another certificate issued by the certificate authority.  Please get a new certificate containing a unique serial number.
+ssl-error-us-only-server = ආරක්ෂිතව සන්නිවේදනය කළ නොහැක. ලබන්නා වඩා ඉහළ-මට්ටමක ගුප්තකේනයක් ඉල්ලා සිටින අතර එයට සහය නොදක්වයි.
 ssl-error-no-cypher-overlap = අග්‍රය සමඟ ආරක්ෂිතව සන්නොවේදනය කළ නොහැක: පොදු සංකේතාංකන ඇල්ගොරිතම(ඇල්ගොරිතමයන්) නැත.
 ssl-error-no-certificate = සහතික කිරීම සඳහා අවශ්‍ය සහතිකය හෝ යතුර සොයා ගැනීමට නොහැක.
 ssl-error-bad-certificate = අග්‍රය සමඟ ආරක්ෂිතව සන්නොවේදනය කළ නොහැක: අග්‍රයේ සහතිකය ප්‍රතික්ෂේප කරන ලදි.
