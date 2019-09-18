@@ -331,6 +331,7 @@ sec-error-bad-crl-dp-url = Ugyldig eller ustøtta URL i CRL distribusjonspunktna
 sec-error-cert-signature-algorithm-disabled = Sertifikatet vart signert med ein signaturalgoritme som er deaktivert fordi den er utrygg.
 mozilla-pkix-error-key-pinning-failure = Tenaren brukar key pinning (HPKP), men ingen tiltrudde sertifikat vart funne som passar til pin-settet. Brot på key-pinning kan ikkje overstyrast.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Tenaren brukar eit sertifikat som identifiserer det som ein sertifikatutskrivar. For eit rett utskrive sertifikat bør ikkje dette skje.
+mozilla-pkix-error-inadequate-key-size = Tenaren brukar eit sertifikat med ein nykelstorleik som er for liten til å etablere ei sikker tilkopling.
 mozilla-pkix-error-v1-cert-used-as-ca = Eit X.509 versjon 1-sertifikat, som ikkje er tiltrudd, vart brukt til å skriva ut tenarsertifikatet. X.509 versjon 1-sertifikat er forelda, og bør ikkje brukast til å signera andre sertifikat.
 mozilla-pkix-error-not-yet-valid-certificate = Tenaren presanterte eit sertifikat som ikkje er gyldig enno.
 mozilla-pkix-error-not-yet-valid-issuer-certificate = Eit sertifikat som ikkje er gyldig enno vart brukt til å skrive ut sertifikatet åt tenaren.
