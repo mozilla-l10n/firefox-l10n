@@ -101,6 +101,7 @@ ssl-error-cipher-disallowed-for-version = Druga strona komunikacji SSL wybrała 
 ssl-error-feature-not-supported-for-version = Nieobsługiwana funkcja SSL dla tej wersji protokołu.
 ssl-error-unsupported-hash-algorithm = Druga strona komunikacji TLS używa nieobsługiwanego algorytmu skrótu.
 ssl-error-incorrect-signature-algorithm = Nieprawidłowy algorytm podpisu określony w podpisanym cyfrowo elemencie.
+ssl-error-next-protocol-no-callback = Rozszerzenie negocjacji następnej wersji protokołu zostało włączone, ale funkcja zwrotna została wyczyszczona, zanim była potrzebna.
 ssl-error-next-protocol-no-protocol = Serwer nie obsługuje żadnego z protokołów ogłaszanych przez klienta w rozszerzeniu ALPN.
 ssl-error-inappropriate-fallback-alert = Serwer odrzucił żądanie, ponieważ klient zmienił wersję TLS na niższą niż obsługiwana przez serwer.
 ssl-error-weak-server-cert-key = Certyfikat serwera zawiera klucz publiczny o zbyt słabym szyfrowaniu.
