@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+psmerr-ssl-disabled = SSL ප්‍රොටොකොලය අක්‍රීය වීම නිසා ආරක්‍ෂිතව සම්බන්ධ විය නොහැක.
+psmerr-ssl2-disabled = SSL ප්‍රොටොකොලයේ පැරණි, අනාරක්‍ෂිත වෙළුමක් භාවිත කරන නිසා ආරක්‍ෂිතව සම්බන්ධ විය නොහැක.
+# This is a multi-line message.
+psmerr-hostreusedissuerandserial =
+    You have received an invalid certificate.  Please contact the server administrator or email correspondent and give them the following information:
+    
+    Your certificate contains the same serial number as another certificate issued by the certificate authority.  Please get a new certificate containing a unique serial number.
 ssl-error-no-cypher-overlap = අග්‍රය සමඟ ආරක්ෂිතව සන්නොවේදනය කළ නොහැක: පොදු සංකේතාංකන ඇල්ගොරිතම(ඇල්ගොරිතමයන්) නැත.
 ssl-error-no-certificate = සහතික කිරීම සඳහා අවශ්‍ය සහතිකය හෝ යතුර සොයා ගැනීමට නොහැක.
 ssl-error-bad-certificate = අග්‍රය සමඟ ආරක්ෂිතව සන්නොවේදනය කළ නොහැක: අග්‍රයේ සහතිකය ප්‍රතික්ෂේප කරන ලදි.
@@ -104,6 +111,9 @@ ssl-error-certificate-unobtainable-alert = සපයා ඇති URL එකෙ�
 ssl-error-unrecognized-name-alert = ඉල්ලූ DNS නමට SSL අග්‍රය සතුව සහතික නොමැත.
 ssl-error-bad-cert-status-response-alert = එහි සහතිකයට OCSP ප්‍රතිචාරයක් ලබා ගැනීමට SSL අග්‍රයට නොහැකි විය.
 ssl-error-bad-cert-hash-value-alert = SSL peer reported bad certificate hash value.
+ssl-error-unsafe-negotiation = Peer attempted old style (potentially vulnerable) handshake.
+ssl-error-rx-unexpected-uncompressed-record = SSL received an unexpected uncompressed record.
+ssl-error-weak-server-ephemeral-dh-key = SSL received a weak ephemeral Diffie-Hellman key in Server Key Exchange handshake message.
 ssl-error-next-protocol-data-invalid = SSL received invalid NPN extension data.
 ssl-error-feature-not-supported-for-ssl2 = SSL feature not supported for SSL 2.0 connections.
 ssl-error-feature-not-supported-for-servers = SSL feature not supported for servers.
@@ -243,6 +253,19 @@ sec-error-not-initialized = NSS ආරම්භ කර නැත.
 sec-error-token-not-logged-in = ක්‍රියාව PKCS#11 සංඥාව පිවිසී නොමැති නිසා අසාර්ථක විය.
 sec-error-ocsp-responder-cert-invalid = වින්‍යාසගත කරන ලද OCSP ප්‍රතිචාරකයේ සහතිකය අවලංගුයි.
 sec-error-ocsp-bad-signature = OCSP ප්‍රතිචාරයට අවලංගු අත්සනක් ඇත.
+sec-error-out-of-search-limits = Cert validation search is out of search limits
+sec-error-invalid-policy-mapping = Policy mapping contains anypolicy
+sec-error-policy-validation-failed = Cert chain fails policy validation
+sec-error-unknown-aia-location-type = Unknown location type in cert AIA extension
+sec-error-bad-http-response = Server returned bad HTTP response
+sec-error-bad-ldap-response = Server returned bad LDAP response
+sec-error-failed-to-encode-data = Failed to encode data with ASN1 encoder
+sec-error-bad-info-access-location = Bad information access location in cert extension
+sec-error-libpkix-internal = Libpkix internal error occured during cert validation.
+sec-error-pkcs11-general-error = A PKCS #11 module returned CKR_GENERAL_ERROR, indicating that an unrecoverable error has occurred.
+sec-error-pkcs11-device-error = A PKCS #11 module returned CKR_DEVICE_ERROR, indicating that a problem has occurred with the token or slot.
+sec-error-bad-info-access-method = Unknown information access method in certificate extension.
+sec-error-crl-import-failed = Error attempting to import a CRL.
 sec-error-expired-password = The password expired.
 sec-error-locked-password = The password is locked.
 sec-error-unknown-pkcs11-error = Unknown PKCS #11 error.
