@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Degouezhet ez eus bet ur fazi e-pad ma oa o kennaskañ ouzh { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Boneg fazi: { $error }
 psmerr-ssl-disabled = N'haller ket kennaskañ diarvar rak diweredekaet eo bet ar c'homenad SSL.
 psmerr-ssl2-disabled = N'haller ket kennaskañ diarvar rak ur c'homenad mod SSL kozh hag arvarus a arver al lec'hienn.
 # This is a multi-line message.
@@ -334,3 +341,5 @@ mozilla-pkix-error-validity-too-long = E-pad re bell eo talvoudek an testeni kin
 mozilla-pkix-error-required-tls-feature-missing = Ur c'heweriuster TLS dleet a vank.
 mozilla-pkix-error-invalid-integer-encoding = Un testeni gant un enbonegañ kevan didalvoudek a zo bet kinniget gant an dafariad. An abegoù a c'hell bezañ ur steudriñv leiel, ur mollad RSA leiel pe un enbonegañ hiroc'h eget ar pezh a zo ezhomm.
 mozilla-pkix-error-empty-issuer-name = Kinniget eo bet un testeni gant un anv heverk skigner goullo gant an dafariad.
+mozilla-pkix-error-additional-policy-constraint-failed = Un destrizh reolenn ouzhpenn en deus c'hwitet en un dalvoudekaat an testeni-mañ.
+mozilla-pkix-error-self-signed-cert = N'eus fiziañs ebet en testeni rak emsinet eo.
