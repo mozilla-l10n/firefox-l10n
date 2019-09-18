@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "메뉴 모음">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "주소창 모음">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "탐색">
 <!ENTITY personalbarCmd.label "북마크 모음">
 <!ENTITY personalbarCmd.accesskey "B">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "북마크">
 <!ENTITY bookmarksToolbarItem.label "북마크 모음 항목">
 
 <!ENTITY pageSourceCmd.label "페이지 소스">
 <!ENTITY pageSourceCmd.accesskey "o">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "페이지 정보">
 <!ENTITY pageInfoCmd.accesskey "I">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "레이아웃 디버거">
 <!ENTITY ldbCmd.accesskey "L">
@@ -116,6 +126,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label;에 다시 연결">
 <!ENTITY fxaUnverified.label "계정 확인">
 
+
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "최소화">
 <!ENTITY fullScreenRestore.tooltip "복구">
@@ -145,6 +158,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "로그인 됨">
 <!ENTITY fxa.menu.manageAccount.label "계정 관리…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; 설정…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "다른 기기 연결…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -195,6 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "북마크">
 <!ENTITY bookmarksMenu.accesskey "B">
+
 <!ENTITY bookmarkThisPageCmd.label "현재 페이지 북마크에 추가">
 <!ENTITY editThisBookmarkCmd.label "이 북마크 편집">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -236,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "플러그인 사용 관리">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "사이트에서 알림을 수신할지 변경">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "영구 저장소에 데이터를 저장">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "브라우저가 원격 제어중">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "웹 인증 패널 열기">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "브라우징 활동 권한 패널 열기">
@@ -421,8 +440,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "다른 기기에서도 여기에서 열린 탭을 사용하시겠습니까?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Sync 설정 열기">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "다른 기기의 탭 목록을 보기 위해서 로그인 하세요.">
+<!ENTITY appMenuRemoteTabs.welcome.label "다른 기기의 탭 목록을 봅니다.">
 <!ENTITY appMenuRemoteTabs.unverified.label "계정 확인이 필요합니다.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync에 로그인">
+<!ENTITY appMenuRemoteTabs.signintosync.label "&syncBrand.shortName.label;에 로그인…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "&syncBrand.shortName.label; 켜기…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "기기 관리…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "동기화한 탭 탐색창 보이기">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "동기화한 탭 탐색창 숨기기">
@@ -510,6 +532,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "검색 질의어">
+
 <!ENTITY contentSearchSubmit.tooltip  "검색하기">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -814,8 +837,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "연결">
 <!ENTITY identity.connectionSecure "안전한 연결">
-
-<!ENTITY identity.connectionSecure2 "안전한 연결">
 <!ENTITY identity.connectionNotSecure "안전하지 않은 연결">
 
 <!ENTITY identity.connectionSecure3 "안전한 연결">
@@ -828,8 +849,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "이 페이지는 확장 기능으로부터 로드되었습니다.">
 <!ENTITY identity.insecureLoginForms2 "이 페이지에 입력된 로그인 정보는 노출될 수 있습니다.">
 <!ENTITY identity.customRoot "Mozilla에서 인식하지 못하는 인증서 발급자가 연결을 확인했습니다.">
-
-<!ENTITY identity.evOwnerLabel "사이트 소유자:">
 
 <!ENTITY identity.evOwnerLabel2 "인증서 발급 대상:">
 
@@ -867,9 +886,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "권한">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "권한 모음">
-
 <!ENTITY identity.permissions3 "권한">
 <!ENTITY identity.permissionsEmpty "이 사이트를 특별한 권한으로 승인하지 않았습니다.">
 <!ENTITY identity.permissionsReloadHint "변경 사항을 적용하려면 페이지를 새로고침해야 할 수 있습니다.">
@@ -883,7 +899,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "향상된 추적 방지 기능에 대한 추가 정보">
 <!ENTITY protections.settings.label "보호 설정">
-<!ENTITY protections.report.label "전체 보고서 보기">
 <!ENTITY protections.showreport.label "보고서 보기">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -901,7 +916,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "결제">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "댓글">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "동영상">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "보호 기능을 끈 후에도 사이트가 여전히 깨집니까?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "보고서 보내기">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -929,7 +943,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "이러한 쿠키는 사용자가 온라인에서 수행하는 작업에 대한 데이터를 수집하기 위해 사이트 간에 사용자를 따라갑니다. 광고사나 분석 회사와 같은 제3자가 설정합니다.">
 <!ENTITY protections.cryptominers.description "크립토마이너는 디지털 화폐를 채굴하기 위해 시스템의 연산 능력을 사용합니다. 암호 해독 스크립트는 배터리를 소모하고 컴퓨터 속도를 저하시키며 에너지 요금을 증가시킬 수 있습니다.">
 <!ENTITY protections.fingerprinters.description "핑거프린터는 브라우저와 컴퓨터에서 설정을 수집하여 사용자의 프로필을 만듭니다. 이 디지털 지문을 사용하여 여러 웹 사이트에서 사용자를 추적할 수 있습니다.">
-<!ENTITY protections.trackingContent.description "웹 사이트에서 외부 광고, 동영상 및 기타 추적 코드가 포함된 콘텐츠를 로드 할 수 있습니다. 추적 콘텐츠를 차단하면 사이트를 더 빨리 로드 할 수 있지만 일부 버튼, 양식 및 로그인 필드는 작동하지 않을 수 있습니다.">
 <!ENTITY protections.trackingContent2.description "웹 사이트에서 외부 광고, 동영상 및 기타 추적 코드가 포함된 콘텐츠를 로드 할 수 있습니다. 추적 콘텐츠를 차단하면 사이트를 더 빨리 로드 할 수 있지만 일부 버튼, 양식 및 로그인 필드는 작동하지 않을 수 있습니다.">
 <!ENTITY protections.socialMediaTrackers.description "소셜 네트워크는 다른 웹 사이트에 추적기를 배치하여 온라인에서 한 일이나 본 것, 재생한 것을 추적합니다. 이를 통해 소셜 미디어 회사들은 소셜 미디어 프로필에서 공유하는 것 이상의 자세한 정보를 얻을 수 있습니다.">
 
@@ -982,6 +995,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "쿠키">
 <!ENTITY contentBlocking.cookiesView.label "쿠키와 사이트 데이터">
 
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
+
 <!ENTITY contentBlocking.socialblock.label "소셜 미디어 추적기">
 
 <!ENTITY contentBlocking.cookies2.label "교차 사이트 추적 쿠키">
@@ -996,6 +1011,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "문제 보고">
 <!ENTITY contentBlocking.breakageReportView2.description "콘텐츠 차단기는 어떤 사이트에서 문제를 일으킬 수 있습니다. 문제를 보고하면 &brandShortName;가 더 좋아지는데 도움을 주게 됩니다. (브라우저 설정에 관한 정보와 함께 URL도 Mozilla에 전송됩니다.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "더 알아보기">
+
 <!ENTITY contentBlocking.breakageReportView.title "깨진 사이트 신고">
 <!ENTITY contentBlocking.breakageReportView3.description "특정 추적기를 차단하면 일부 웹 사이트에서 문제가 발생할 수 있습니다. 이러한 문제를 보고하면 모든 사람에게 더 나은 &brandShortName;를 제공하는데 도움이 됩니다. 이 보고서를 보내면 URL과 브라우저 설정에 대한 정보가 Mozilla로 전송됩니다.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "더 알아보기">
@@ -1051,6 +1067,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "확장기능이 홈페이지를 변경하였습니다. 이 변경을 원하지 않으시면 설정에서 다시 복원할 수 있습니다.">
+
 <!ENTITY homepageControlled.header.message "홈페이지가 변경되었습니다.">
 <!ENTITY homepageControlled.keepButton.label "변경 유지">
 <!ENTITY homepageControlled.keepButton.accesskey "K">

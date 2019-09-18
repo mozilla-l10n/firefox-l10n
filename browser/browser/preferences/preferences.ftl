@@ -709,8 +709,8 @@ addressbar-suggestions-settings = 검색 엔진 추천 설정 변경
 ## Privacy Section - Content Blocking
 
 content-blocking-header = 콘텐츠 차단
-content-blocking-enhanced-tracking-protection = 향상된 추적 방지 기능
 content-blocking-section-description = 탐색하는 동안 개인 정보를 보호하십시오. 사용자가 방문하는 사이트를 추적하고 개인을 식별하는 보이지 않는 콘텐츠를 차단합니다. 이 콘텐츠 중 일부를 차단하면 페이지가 더 빨리 로드 될 수 있습니다.
+content-blocking-enhanced-tracking-protection = 향상된 추적 방지 기능
 content-blocking-section-top-level-description = 추적기는 온라인에서 사용자를 따라다니며 브라우징 습관과 관심사에 대한 정보를 수집합니다. { -brand-short-name }는 이러한 많은 추적기 및 기타 악성 스크립트를 차단합니다.
 content-blocking-learn-more = 더 알아보기
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -729,6 +729,23 @@ content-blocking-strict-description = 강한 보호 기능으로 인해 일부 �
 content-blocking-custom-desc = 차단할 항목을 선택하세요.
 content-blocking-private-trackers = 사생활 보호 모드에서 알려진 추적기만
 content-blocking-third-party-cookies = 제3자 추적 쿠키
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = 표준
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = 엄격
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = 사용자 지정
+    .accesskey = C
+
+
+
 content-blocking-etp-standard-desc = 보호와 성능사이의 균형이 잡혀 있습니다. 페이지가 정상적으로 로드됩니다.
 content-blocking-etp-strict-desc = 더 강력한 보호 기능을 제공하지만, 일부 사이트나 콘텐츠가 손상될 수 있습니다.
 content-blocking-etp-custom-desc = 차단할 추적기와 스크립트를 선택하십시오.
