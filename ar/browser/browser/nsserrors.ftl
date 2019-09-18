@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = حدث خطأ أثناء الاتصال ب‍ { $hostname }. ‏{ $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = رمز الخطأ: { $error }
 ssl-error-no-cypher-overlap = لا يمكن التواصل بشكل آمن مع الجهاز الند: لا توجد خوارزميات تعمية مشتركة.
 ssl-error-no-certificate = تعذر إيجاد الشهادة أو المفتاح الضروري للمصادقة.
 ssl-error-bad-client = تلقى الخادوم بيانات سيئة من العميل.
@@ -9,6 +16,7 @@ ssl-error-bad-server = تلقى العميل بيانات سيئة من الخا
 ssl-error-unsupported-certificate-type = نوع الشهادة غير مدعوم.
 ssl-error-unsupported-version = الجهاز الند يستخدم نسخة غير مدعومة من بروتوكول الأمان.
 ssl-error-wrong-certificate = فشلت مصادقة العميل: المفتاح الخاص في قاعدة بيانات المفاتيح لا يتطابق مع المفتاح العام في قاعدة بيانات الشهادات.
+ssl-error-post-warning = رمز خطأ SSL غير متعرّف عليه.
 ssl-error-ssl2-disabled = الجهاز الند يدعم فقط النسخة 2 من SSL، والتي هي معطلة محليًا.
 ssl-error-bad-mac-read = استلم SSL سجلًا ذا رمز مصادقة رسالة غير صحيح.
 ssl-error-bad-mac-alert = أخبر ند SSL عن رمز مصادقة رسالة غير صحيح.
@@ -69,11 +77,13 @@ ssl-error-socket-write-failure = فشلت محاولة كتابة بيانات �
 ssl-error-md5-digest-failure = فشلت دالة بعثرة MD5.
 ssl-error-sha-digest-failure = فشلت دالة بعثرة SHA-1.
 ssl-error-mac-computation-failure = فشلت حوسبة MAC.
+ssl-error-sym-key-context-failure = فشل إنشاء سياق المفتاح المتناظر.
 ssl-error-sym-key-unwrap-failure = فشل إزالة غلاف المفتاح المتناظر في رسالة تبادلم فتاح العميل.
 ssl-error-pub-key-size-limit-exceeded = حاول خادوم SSL أن يستخدم مفتاحًا عامًا ذو مستوى منزلي مع طاقم شفرة التصدير.
 ssl-error-iv-param-failure = فشل رمز PKCS11 في ترجمة IV إلى معطى.
 ssl-error-init-cipher-suite-failure = فشل بدء طاقم الشفرة المحددة.
 ssl-error-session-key-gen-failure = فشل العميل في إنشاء مفاتيح الجلسات لجلسة SSL.
+ssl-error-no-server-key-for-alg = لا يملك الخادوم أي مفتاح لخوارزمية تبادل المفاتيح المجرّبة.
 ssl-error-token-insertion-removal = أضيفت قطعة PKCS#11 الأمنية أو أزيلت أثناء إجراء العملية.
 ssl-error-token-slot-not-found = لم يمكن إيجاد أي قطعة PKCS#11 الأمنية للقيام بالعملية المطلوبة.
 ssl-error-no-compression-overlap = لا يمكن التواصل بشكل آمن مع الجهاز الند: لا يوجد خوارزميات ضغط مشتركة.
@@ -104,6 +114,10 @@ ssl-error-rx-malformed-new-session-ticket = استلم SSL رسالة مصافح
 ssl-error-unsafe-negotiation = حاول الند استخدام مصافحة قديمة الطراز (فيها ثغرات كامنة).
 ssl-error-rx-unexpected-uncompressed-record = استلم SSL تسجيلًا غير مضغوط غير متوقع.
 ssl-error-weak-server-ephemeral-dh-key = استلم SSL مفتاح ephemeral Diffie-Hellman في رسالة مصافحة تبادل مفاتيح الخادومات.
+ssl-error-next-protocol-data-invalid = استلم SSL بيانات امتداد NPN غير سليمة.
+ssl-error-feature-not-supported-for-ssl2 = خاصية SSL غير مدعومة في اتصالات SSL‏ 2.0.
+ssl-error-feature-not-supported-for-servers = خاصية SSL غير مدعومة للخواديم.
+ssl-error-feature-not-supported-for-clients = خاصية SSL غير مدعومة للعملاء.
 sec-error-io = حصل خطأ دخل/خرج أثناء المصادقة الأمنية.
 sec-error-library-failure = فشل في المكتبة الأمنية.
 sec-error-bad-data = المكتبة الأمنية: استُلمت بيانات سيئة.
@@ -221,3 +235,9 @@ sec-error-libpkix-internal = حدث خطأ Libpkix داخلي أثناء الت�
 sec-error-pkcs11-general-error = ردّت وحدة PKCS #11 بخطأ CKR_GENERAL_ERROR، مشيرة إلى أن خطأ لا يمكن عكس أثره قد وقع.
 sec-error-pkcs11-device-error = ردّت وحدة PKCS #11 بخطأ CKR_DEVICE_ERROR، مشيرة إلى مشكلة حصلت في ال‍ token أو ال‍ slot.
 sec-error-bad-info-access-method = طريقة وصول المعلومات غير معلومة في امتداد الشهادة.
+sec-error-expired-password = انتهت صلاحية كلمة السر.
+sec-error-locked-password = كلمة الصر مقفلة.
+sec-error-unknown-pkcs11-error = عُطل PKCS #11 غير معروف.
+sec-error-cert-signature-algorithm-disabled = وُقَّعت الشهادة باستخدام خوارزمية عُطّلت لعدم أمانها.
+mozilla-pkix-error-additional-policy-constraint-failed = فشل قيد سياسة إضافي أثناء التحقق من الشهادة.
+mozilla-pkix-error-self-signed-cert = الشهادة غير موثوقة لأنها موقعّة ذاتيًا.
