@@ -131,6 +131,7 @@ sec-error-user-cancelled = O usuário pressionou cancelar.
 sec-error-pkcs12-duplicate-data = Não importado, já existe no banco de dados.
 sec-error-message-send-aborted = Mensagem não enviada.
 sec-error-inadequate-key-usage = Usos da chave do certificado inadequados para a operação empreendida.
+sec-error-inadequate-cert-type = Tipo de certificado não aprovado para o aplicativo.
 sec-error-cert-addr-mismatch = Endereço no certificado de assinatura não corresponde ao endereço do cabeçalho da mensagem.
 sec-error-bad-nickname = O nickname do certificado já está em uso.
 sec-error-not-fortezza-issuer = A cadeia FORTEZZA do sistema remoto possui um certificado não FORTEZZA.
