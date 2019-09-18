@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Errorea gertatu da { $hostname } ostalarira konektatzean. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Errore-kodea: { $error }
 psmerr-ssl-disabled = Ezin da modu seguruan konektatu SSL protokoloa ezgaiturik dago eta.
 psmerr-ssl2-disabled = Ezin da modu seguruan konektatu guneak SSL protokoloaren bertsio zahar eta ez seguru ba erabiltzen du eta.
 # This is a multi-line message.
@@ -52,6 +59,7 @@ ssl-error-rx-unexpected-hello-request = SSLk espero ez zuen Hello eskaeraren dio
 ssl-error-rx-unexpected-client-hello = SSLk espero ez zuen bezeroaren Hello eskaeraren diosal-mezu bat jaso du.
 ssl-error-rx-unexpected-server-hello = SSLk espero ez zuen zerbitzariaren Hello eskaeraren diosal-mezu bat jaso du.
 ssl-error-rx-unexpected-certificate = SSLk espero ez zuen ziurtagiriaren diosal-mezu bat jaso du.
+ssl-error-rx-unexpected-server-key-exch = SSLk espero ez zuen zerbitzari gako-trukaketaren diosal-mezu bat jaso du.
 ssl-error-rx-unexpected-cert-request = SSLk espero ez zuen ziurtagiri eskaeraren diosal-mezu bat jaso du.
 ssl-error-rx-unexpected-hello-done = SSLk espero ez zuen zerbitzari Hello egindako eskaeraren diosal-mezu bat jaso du.
 ssl-error-rx-unexpected-cert-verify = SSLk espero ez zuen ziurtagiri-egiaztapenaren diosal-mezu bat jaso du.
@@ -333,3 +341,5 @@ mozilla-pkix-error-validity-too-long = Zerbitzariak aurkeztu duen ziurtagiria os
 mozilla-pkix-error-required-tls-feature-missing = Beharrezko TLS eginbide bat falta da.
 mozilla-pkix-error-invalid-integer-encoding = Zerbitzariak aurkeztu duen ziurtagiriak osoko baten kodeketa baliogabea dauka. Serie-zenbaki negatiboak, RSA modulu negatiboa eta eta luzaroan beharrezkoak ez diren kodeketak daude ohiko arrazoien artean.
 mozilla-pkix-error-empty-issuer-name = Zerbitzariak aurkeztu duen ziurtagiriak jaulkitzailearen izen goren hutsa du.
+mozilla-pkix-error-additional-policy-constraint-failed = Politika-murriztapen gehigarri batek huts egin du ziurtagiri hau balidatzean.
+mozilla-pkix-error-self-signed-cert = Ziurtagiria ez da fidagarria bere buruak sinatzen duelako.
