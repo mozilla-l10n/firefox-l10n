@@ -25,6 +25,7 @@ ssl-error-internal-error-alert = O par indicou que teve um erro interno.
 ssl-error-user-canceled-alert = O utilizador do par cancelou o handshake.
 ssl-error-no-renegotiation-alert = O par não permite a re-negociação dos parâmetros de segurança SSL.
 ssl-error-bad-cert-status-response-alert = O par SSL não conseguiu obter uma resposta OCSP para este certificado.
+ssl-error-rx-unexpected-uncompressed-record = SSL recebeu um registo inesperado não comprimido.
 ssl-error-invalid-version-range = O intervalo da versão SSL não é válido.
 ssl-error-cipher-disallowed-for-version = O par SSL selecionou um cipher desativado para a versão do protocolo selecionado.
 ssl-error-feature-not-supported-for-version = Funcionalidade SSL não suportada para esta versão do protocolo.
