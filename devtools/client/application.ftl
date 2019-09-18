@@ -90,6 +90,9 @@ manifest-loaded-ok = Manifest wedi'i lwytho.
 manifest-loaded-error = Bu gwall wrth lwytho'r maniffest:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Heb ganfod maniffest i'w arolygu
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Mae'r maniffest wedi'i fewnosod mewn URL Data.
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Maniffest
     .alt = Eicon Maniffest

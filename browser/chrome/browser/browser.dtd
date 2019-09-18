@@ -254,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Rheoli defnydd ategion">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Newid p'un ai rydych yn derbyn hysbysiadau o'r wefan">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Cadw data mewn Storfa Barhaus">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Mae'r porwr o dan reolaeth bell">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Agor panel Dilysu Gwe">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Agor panel caniatâd gweithgaredd pori">
@@ -439,8 +440,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Hoffech chi weld eich tabiau o ddyfeisiau eraill yma?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Agor Dewisiadau Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Mewngofnodwch i weld rhestr o dabiau o'ch dyfeisiau eraill.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Gweld rhestr o dabiau o'ch dyfeisiau eraill.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Mae angen i'ch cyfrif cael ei gwirio.">
 <!ENTITY appMenuRemoteTabs.signin.label "Mewngofnodwch i Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Mewngofnodi i &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Cychwyn &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Rheoli Dyfeisiadau…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Gweld Bar Ochr Tabiau wedi eu Cydweddu">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Cuddio'r Bar Ochr Cydweddwyd">
