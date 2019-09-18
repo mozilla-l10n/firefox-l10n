@@ -35,6 +35,7 @@ ssl-error-illegal-parameter-alert = SSL పీర్ ఆమోదయోగ్య
 ssl-error-unsupported-cert-alert = SSL పీర్ అదిపొందిన ఈరకం ధృవీకరణపత్రములకు మద్దతీయదు.
 ssl-error-generate-random-failure = SSL దాని రాండమ్ నంబర్ జనరేటర్ వైఫల్యాన్ని చవిచూసింది.
 ssl-error-sign-hashes-failure = మీ ధృవీకరణపత్రాన్ని నిర్ధారించుటకు అవసరమైన డాటాను డిజిటల్‌గా సైన్ చేయలేకపోతోంది.
+ssl-error-server-key-exchange-failure = SSL సేవిక కీ ఎక్సేంజ్ హాండ్‌షేక్ జరుపుతున్నప్పుడు తెలియని వైఫల్యం.
 ssl-error-client-key-exchange-failure = SSL క్లైంట్ కీ ఎక్సేంజ్ హాండ్‌షేక్ జరుపుతున్నప్పుడు తెలియని వైఫల్యం.
 ssl-error-decryption-failure = బల్కుడాటా ఎన్క్రిప్షన్ అల్గార్దెమ్ ఎంపికచేసిన సైఫర్ సూట్‌నందు వైఫల్యమైంది.
 ssl-error-socket-write-failure = అండర్‌లేయింగ్ సాకెట్‌కు ఎన్క్రిప్టెడ్ డాటాను వ్రాయుప్రయత్నం విఫలమైంది.
