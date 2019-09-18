@@ -2,11 +2,32 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = אירעה שגיאה בהתחברות אל { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = קוד שגיאה: { $error }
+psmerr-ssl-disabled = לא ניתן להתחבר בצורה מאובטחת מכיוון שפרוטוקול ה־SSL נוטרל.
+psmerr-ssl2-disabled = לא ניתן להתחבר בצורה מאובטחת מכיוון שהאתר משתמש בגרסה ישנה ולא מאובטחת של פרוטוקול ה־SSL.
+# This is a multi-line message.
+psmerr-hostreusedissuerandserial =
+    קיבלת אישור אבטחה שגוי. אנא צור קשר עם מנהל השרת או איש הקשר שצוין באישור האבטחה ותן להם את הפרטים הבאים:
+    
+    אישור האבטחה שלך מכיל את אותו המספר הסידורי כמו אישור אבטחה אחר שהונפק על־ידי רשות אישורי האבטחה. אנא השג אישור אבטחה חדש המכיל מספר סידורי ייחודי.
 ssl-error-export-only-server = לא ניתן לתקשר בצורה מאובטחת. נקודת הקצה לא תומכת בהצפנה ברמה גבוהה.
 ssl-error-unsupported-certificate-type = אישור אבטחה מסוג לא נתמך.
 ssl-error-unsupported-version = עמית משתמש בגרסה לא נתמכת של פרוטוקול האבטחה.
 ssl-error-wrong-certificate = אימות לקוח נכשל: המפתח הפרטי במסד נתוני המפתחות אינו תואם את המפתח הציבורי במסד הנתונים של אישורי האבטחה.
+ssl-error-bad-cert-domain = לא ניתן לתקשר עם עמית בצורה מאובטחת: שם המתחם המבוקש לא תואם את אישור האבטחה של השרת.
 ssl-error-post-warning = קוד שגיאת SSL לא מזוהה.
+ssl-error-ssl2-disabled = עמית תומך רק ב־SSL גרסה 2, שמנוטרלת מקומית.
+ssl-error-bad-mac-read = עמית SSL קיבל רשומה עם קוד אימות הודעה פגום.
+ssl-error-bad-mac-alert = עמית SSL מדווח על קוד אימות הודעה פגום.
+ssl-error-bad-cert-alert = עמית SSL אינו יכול לאמת את אישור האבטחה שלך.
+ssl-error-revoked-cert-alert = אישור האבטחה נדחה על־ידי עמית SSL בטענה שהוא בוטל.
+ssl-error-expired-cert-alert = אישור האבטחה נדחה על־ידי עמית SSL בטענה שהוא פג תוקף.
 ssl-error-ssl-disabled = לא ניתן להתחבר: SSL מנוטרל.
 ssl-error-no-ciphers-supported = No cipher suites are present and enabled in this program.
 ssl-error-bad-block-padding = SSL received a record with bad block padding.
@@ -48,6 +69,8 @@ ssl-error-client-key-exchange-failure = Unspecified failure while processing SSL
 ssl-error-encryption-failure = Bulk data encryption algorithm failed in selected cipher suite.
 ssl-error-decryption-failure = Bulk data decryption algorithm failed in selected cipher suite.
 ssl-error-socket-write-failure = Attempt to write encrypted data to underlying socket failed.
+ssl-error-md5-digest-failure = פונקצית תמצית המסר באמצעות MD5 כשלה.
+ssl-error-sha-digest-failure = פונקצית תמצית המסר באמצעות SHA-1 כשלה.
 ssl-error-mac-computation-failure = MAC computation failed.
 ssl-error-sym-key-context-failure = Failure to create Symmetric Key context.
 ssl-error-sym-key-unwrap-failure = Failure to unwrap the Symmetric key in Client Key Exchange message.
@@ -85,6 +108,10 @@ ssl-error-next-protocol-data-invalid = SSL קיבל נתוני הרחבת NPN ל
 ssl-error-feature-not-supported-for-ssl2 = תכונת SSL שאינה נתמכת בחיבורי SSL 2.0.
 ssl-error-feature-not-supported-for-servers = תכונת SSL שאינה נתמכת בשרתים.
 ssl-error-feature-not-supported-for-clients = תכונת SSL שאינה נתמכת בלקוחות.
+ssl-error-unsupported-hash-algorithm = נעשה שימוש באלגוריתם גיבוב בלתי נתמך על־ידי העמית ל־TLS.
+ssl-error-digest-failure = פונקצית תמצית המסר כשלה.
+ssl-error-incorrect-signature-algorithm = אלגוריתם החתימה שצוין ברכיב החתום דיגיטלית שגוי.
+ssl-error-unexpected-extended-master-secret = העמית ניסה להמשיך עם הרחבת extended_master_secret בלתי צפויה.
 sec-error-io = An I/O error occurred during security authorization.
 sec-error-library-failure = security library failure.
 sec-error-bad-data = security library: received bad data.
@@ -261,3 +288,5 @@ sec-error-expired-password = פג תוקף הססמה.
 sec-error-locked-password = הססמה ננעלה.
 sec-error-unknown-pkcs11-error = שגיאת PKCS #11 לא ידועה.
 sec-error-bad-crl-dp-url = כתובת לא חוקית או לא נתמכת בשם נקודת ההפצה של CRL.
+sec-error-cert-signature-algorithm-disabled = אישור האבטחה נחתם על־ידי אלגוריתם חתימה שנוטרל מכיוון שאינו מאובטח.
+mozilla-pkix-error-additional-policy-constraint-failed = אילוץ מדיניות נוסף נכשל בעת אימות האישור הזה.
