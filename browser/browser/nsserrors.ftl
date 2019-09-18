@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Дошло је до грешке при повезивању на { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Код грешке: { $error }
 psmerr-ssl-disabled = Није могуће безбедно повезивање јер је протокол SSL искључен.
 psmerr-ssl2-disabled = Није могуће безбедно се повезати јер сајт користи старије, небезбедно издање SSL протокола.
 # This is a multi-line message.
@@ -272,6 +279,7 @@ sec-error-ocsp-request-needs-sig = OCSP сервер тражи потпис н�
 sec-error-ocsp-unauthorized-request = OCSP сервер је одбио овај захтев као неовлашћен.
 sec-error-ocsp-unknown-response-status = OCSP сервер је вратио статусни код који није препознат.
 sec-error-ocsp-unknown-cert = OCSP сервер нема статусни код за овај сертификат.
+sec-error-ocsp-not-enabled = Морате да омогућите OCSP пре него што извршите ову операцију.
 sec-error-ocsp-no-default-responder = Морате да поставите изворни responder пре него што изведете ово дејство.
 sec-error-ocsp-malformed-response = Одговор сервера за OCSP је оштећен или неисправно образован.
 sec-error-ocsp-unauthorized-response = Потписник овог одговора за OCSP није овлашћен да да статус овог сертификата.
@@ -333,3 +341,5 @@ mozilla-pkix-error-validity-too-long = Сервер је презентовао 
 mozilla-pkix-error-required-tls-feature-missing = TLS могућност недостаје.
 mozilla-pkix-error-invalid-integer-encoding = Сервер је приказао сертификат који садржи неисправно шифровање броја. Чести узроци су негативни серијски број, негативни RSA модули и шифровање које је дуже него што је неопходно.
 mozilla-pkix-error-empty-issuer-name = Сервер је представио сертификат са празним именом издавача.
+mozilla-pkix-error-additional-policy-constraint-failed = Додатно ограничење полисе није успело приликом потврђивања овог сертификата.
+mozilla-pkix-error-self-signed-cert = Сертификат није од поверења јер је самопотписан.
