@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Villa kom upp þegar tengst var { $hostname }. { $errorMessage }
+# Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Villunúmer: { $error }
 psmerr-ssl-disabled = Get ekki tengst á öruggan hátt því SSL samskiptareglurnar hafa verið gerðar óvirkar.
@@ -337,3 +341,5 @@ mozilla-pkix-error-validity-too-long = Netþjónn sendi skilríki sem eru virk o
 mozilla-pkix-error-required-tls-feature-missing = Það vantar nauðsynlegt TLS einindi.
 mozilla-pkix-error-invalid-integer-encoding = Netþjónn sendi skilríki sem inniheldur ógilda kóðin á tölu. Algengar ástæður eru mínus raðnúmer, mínus RSA moduli, og kóðanir sem eru ekki lengur nauðsynlegar.
 mozilla-pkix-error-empty-issuer-name = Netþjónn sendi skilríki sem var með tómt issuer distinguished name.
+mozilla-pkix-error-additional-policy-constraint-failed = Viðbótaröryggisráðstafanir mistókust við sannreyningu þessa vottorðs.
+mozilla-pkix-error-self-signed-cert = Vottorðinu er ekki treyst því það var undirritað af útgefandanum sjálfum.
