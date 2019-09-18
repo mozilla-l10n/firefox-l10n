@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Προέκυψε σφάλμα κατά την σύνδεση στο { $hostname }. { $errorMessage }
+# Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Κωδικός σφάλματος: { $error }
 psmerr-ssl-disabled = Αδυναμία ασφαλούς σύνδεσης λόγω απενεργοποίησης του πρωτοκόλλου SSL.
@@ -176,6 +180,7 @@ sec-error-adding-cert = Σφάλμα κατά την προσθήκη του π�
 sec-error-filing-key = Σφάλμα κατά την συμπλήρωση του κλειδιού για αυτό το πιστοποιητικό.
 sec-error-no-key = Το ιδιωτικό κλειδί αυτού του πιστοποιητικού δεν μπορεί να βρεθεί στη βάση δεδομένων κλειδιών
 sec-error-cert-valid = Αυτό το πιστοποιητικό είναι έγκυρο.
+sec-error-cert-not-valid = Αυτό το πιστοποιητικό είναι άκυρο.
 sec-error-cert-no-response = Βιβλιοθήκη πιστοποιητικών: Καμία απάντηση
 sec-error-expired-issuer-certificate = Το πιστοποιητικό του εκδότη πιστοποιητικών έχει λήξει. Ελέγξτε την ημερομηνία και την ώρα συστήματός σας.
 sec-error-crl-expired = Η λίστα CRL του εκδότη πιστοποιητικών έχει λήξει. Ενημερώστε την ή ελέγξτε την ημερομηνία και την ώρα συστήματός σας.
@@ -336,3 +341,5 @@ mozilla-pkix-error-validity-too-long = Ο διακομιστής παρουσί�
 mozilla-pkix-error-required-tls-feature-missing = Λείπει ένα απαιτούμενο χαρακτηριστικό TLS.
 mozilla-pkix-error-invalid-integer-encoding = Ο διακομιστής παρουσίασε ένα πιστοποιητικό που περιέχει μια μη έγκυρη κωδικοποίηση ακεραίου. Οι κοινές αιτίες συμπεριλαμβάνουν αρνητικούς σειριακούς αριθμούς, αρνητικές ενότητες RSA και κωδικοποιήσεις που δεν απαιτούνται πλέον.
 mozilla-pkix-error-empty-issuer-name = Ο διακομιστής παρουσίασε ένα πιστοποιητικό με κενό επιφανές όνομα εκδότη.
+mozilla-pkix-error-additional-policy-constraint-failed = Ένας περιορισμός πρόσθετης πολιτικής απέτυχε κατά την επικύρωση αυτού του πιστοποιητικού.
+mozilla-pkix-error-self-signed-cert = Το πιστοποιητικό δεν είναι αξιόπιστο επειδή είναι αυτοϋπογεγραμμένο.
