@@ -7,6 +7,10 @@ psmerr-hostreusedissuerandserial =
     Keɓ-ɗaa ko seedamfaagu ngu moƴƴaani.  Tiiɗno jokkondir e jiiloowo sarworde oo walla jokkondiral iimeel oo ngam hokkude-ɓe ngoo humpito:
     
     Seedamfaagu maajogii ko tonngoode degginol nandugole seedamfaagu ngonɗngu ngu kohowo seedamfaagu bayyini.  Tiiɗno heɓ seedamfaagu kesu njogiingu tonngoode degginol gootol.
+ssl-error-bad-client = Carwo oo fottii e keɓe ñawɗe ummoraade e jowitiiɗo oo.
+ssl-error-bad-server = Jowitiiɗo oo fottii e keɓe ñawɗe ummoraade e carwo oo.
+ssl-error-unsupported-certificate-type = Sartifikaa mo tammbaaka
+ssl-error-unsupported-version = Peer oo huutortoo ko harilde portokol kisal mo tammbaaka.
 sec-error-old-crl = Ñalnde CRL ndee ɓuri wonaande ndee lawɗude.
 sec-error-krl-invalid = Mbayka doggol kesol kele diiwtaaɗe ɗee moƴƴaani.
 sec-error-js-invalid-module-name = Innde wulnde moƴƴaani.
