@@ -227,6 +227,7 @@ sec-error-pkcs12-decoding-pfx = Імпарт немагчымы. Памылка 
 sec-error-pkcs12-invalid-mac = Імпарт немагчымы. Няспраўны MAC. Няправільны пароль або пашкоджаны файл.
 sec-error-pkcs12-unsupported-mac-algorithm = Імпарт немагчымы. Алгарытм MAC не падтрымліваецца.
 sec-error-pkcs12-unsupported-transport-mode = Імпарт немагчымы. Падтрымліваюцца толькі рэжымы цэльнасці пароля і прыватнасці.
+sec-error-pkcs12-corrupt-pfx-structure = Імпарт немагчымы. Структура файла пашкоджана.
 sec-error-pkcs12-unsupported-pbe-algorithm = Імпарт немагчымы. Алгарытм шыфравання не падтрымліваецца.
 sec-error-pkcs12-unsupported-version = Імпарт немагчымы. Не падтрымліваецца версія файла.
 sec-error-pkcs12-privacy-password-incorrect = Імпарт немагчымы. Няправільны пароль прыватнасці.
