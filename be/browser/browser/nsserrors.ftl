@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Здарылася памылка падчас злучэння з { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Код памылкі: { $error }
 psmerr-ssl-disabled = Немагчыма бяспечна злучыцца, бо пратакол SSL забаронены.
 psmerr-ssl2-disabled = Немагчыма бяспечна злучыцца, бо сайт карыстаецца састарэлай небяспечнай версіяй пратакола SSL.
 # This is a multi-line message.
@@ -334,3 +341,5 @@ mozilla-pkix-error-validity-too-long = Сервер прадставіў сер�
 mozilla-pkix-error-required-tls-feature-missing = Абавязковая магчымасць TLS адсутнічае.
 mozilla-pkix-error-invalid-integer-encoding = Сервер прадставіў сертыфікат, які ўтрымлівае недапушчальнае кадаванне цэлага ліку. Звычайныя прычыны ўключаюць адмоўныя парадкавыя нумары, адмоўны модуль RSA, і кадаванне даўжэй, чым трэба.
 mozilla-pkix-error-empty-issuer-name = Сервер прадставіў сертыфікат з пустым адметным імем выдаўца.
+mozilla-pkix-error-additional-policy-constraint-failed = Пры праверцы гэтага сертыфіката выяўлена парушэнне абмежавання дадатковай палітыкі.
+mozilla-pkix-error-self-signed-cert = Сертыфікату нельга давяраць, бо ён самападпісаны.
