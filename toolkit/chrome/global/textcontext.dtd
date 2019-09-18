@@ -27,7 +27,7 @@
 
 <!ENTITY searchTextBox.clear.label "Tøm">
 
-<!ENTITY fillLoginMenu.label          "Fyll ut innlogging">
+<!ENTITY fillLoginMenu.label          "Fyll inn innlogging">
 <!ENTITY fillLoginMenu.accesskey      "F">
 <!ENTITY fillSuggestedPassword.label  "Bruk et foreslått passord">
 <!ENTITY fillSuggestedPassword.accesskey "s">
