@@ -23,10 +23,12 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Account">
 <!ENTITY firstrun_sync_message2 "Ga verder waar u was gebleven.">
+<!ENTITY firstrun_sync_message3 "Synchroniseer uw bladwijzers, geschiedenis en wachtwoorden naar uw telefoon.">
 <!ENTITY firstrun_sync_subtext2 "Gebruik Sync om de bladwijzers, wachtwoorden en andere dingen die u in &brandShortName; op al uw apparaten opslaat te vinden.">
 <!ENTITY newfirstrun_sync_subtext "Synchroniseer de dingen die u op mobiel opslaat naar Firefox voor desktop, privé en veilig.">
 <!ENTITY updatednewfirstrun_sync_subtext "Meld u aan bij uw account om het meeste uit &brandShortName; te halen">
 <!ENTITY firstrun_sendtab_title "Tabblad verzenden">
+<!ENTITY firstrun_sendtab_message "Deel tabbladen van mobiel naar desktop – onmiddellijk.">
 <!ENTITY firstrun_signin_message "Maak verbinding en begin">
 <!ENTITY firstrun_signin_button "Aanmelden bij Sync">
 <!ENTITY newfirstrun_signin_button "Sync inschakelen">
