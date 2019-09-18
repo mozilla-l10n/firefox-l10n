@@ -327,3 +327,4 @@ mozilla-pkix-error-signature-algorithm-mismatch = సర్టిఫికేట
 mozilla-pkix-error-validity-too-long = సర్వర్ చాలా కాలంగా ఒక చెల్లుబాటులో లేని సర్టిఫికెట్ను అందించింది.
 mozilla-pkix-error-required-tls-feature-missing = ఒక అవసరమైన TLS లక్షణం లేదు.
 mozilla-pkix-error-invalid-integer-encoding = సర్వర్ పూర్ణాంకం చెల్లని ఎన్కోడింగ్ కలిగి ప్రమాణపత్రాన్ని అందించింది. సామాన్య కారణాలు ప్రతికూల సీరియల్ సంఖ్యలు, ప్రతికూల RSA మాడ్యూల్, మరియు అవసరమైన కంటే ఎక్కువ ఉండే ఎన్కోడింగ్ లు ఉన్నాయి.
+mozilla-pkix-error-empty-issuer-name = సర్వర్ ఖాళీ కేటాయింపుదారులకు ప్రముఖుల పేరుతో ఒక ప్రమాణపత్రాన్ని అందించింది.
