@@ -254,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gérer l’utilisation du plugin">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Gérer l’envoi de notifications par le site">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Stocker des données dans le stockage persistant">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Le navigateur est contrôlé à distance">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Ouvrir le panneau d’authentification web">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Ouvrir le panneau des permissions relatives à la navigation">
@@ -441,6 +442,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Connectez-vous pour afficher la liste des onglets de vos autres appareils.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Votre compte doit être vérifié.">
 <!ENTITY appMenuRemoteTabs.signin.label "Se connecter à Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Se connecter à &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Activer &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gérer les appareils…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Panneau latéral des onglets synchronisés">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Masquer le panneau latéral des onglets synchronisés">
@@ -990,6 +993,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies et données de sites">
+
 
 <!ENTITY contentBlocking.socialblock.label "Traqueurs de réseaux sociaux">
 

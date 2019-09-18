@@ -135,3 +135,16 @@ cfr-doorhanger-firefox-send-header = Partagez ce PDF en toute sécurité
 cfr-doorhanger-firefox-send-body = Protégez vos documents sensibles des regards indiscrets avec un chiffrement de bout en bout et un lien qui disparaît lorsque vous avez terminé.
 cfr-doorhanger-firefox-send-ok-button = Essayer { -send-brand-name }
     .accesskey = E
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Voir les protections
+    .accesskey = p
+cfr-doorhanger-socialtracking-close-button = Fermer
+    .accesskey = F
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } a empêché un réseau social de vous pister ici
+cfr-doorhanger-socialtracking-description = Le respect de votre vie privée est important. { -brand-short-name } bloque désormais les traqueurs de réseaux sociaux courants, limitant ainsi la quantité de données qu’ils peuvent recueillir sur votre activité en ligne.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } a bloqué un traqueur d’empreinte numérique sur cette page
+cfr-doorhanger-fingerprinters-description = Le respect de votre vie privée est important. { -brand-short-name } bloque désormais les traqueurs d’empreintes numériques, qui collectent des informations uniques et identifiables sur votre appareil afin de vous pister.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } a bloqué un mineur de cryptomonnaie sur cette page
+cfr-doorhanger-cryptominers-description = Le respect de votre vie privée est important. { -brand-short-name } bloque désormais les mineurs de cryptomonnaies, qui utilisent la puissance de calcul de votre système pour extraire de la monnaie numérique.

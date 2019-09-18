@@ -37,3 +37,4 @@ synced-tabs-context-manage-devices =
     .label = Gérer les appareils…
     .accesskey = G
 fxa-sign-in = Se connecter à { -sync-brand-short-name }
+turn-on-sync = Activer { -sync-brand-short-name }
