@@ -6,6 +6,9 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ett fel uppstod under anslutning till { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Felkod: { $error }
 psmerr-ssl-disabled = Kan inte ansluta på ett säkert sätt eftersom SSL-protokollet har inaktiverats.
 psmerr-ssl2-disabled = Kan inte ansluta på ett säkert sätt eftersom webbplatsen använder en gammal och osäker version av SSL-protokollet.
 # This is a multi-line message.
