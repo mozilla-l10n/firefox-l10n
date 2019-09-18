@@ -332,3 +332,4 @@ mozilla-pkix-error-ocsp-response-for-cert-missing = La rempuesta d'OCSP nun incl
 mozilla-pkix-error-validity-too-long = El srividor presentó un certificáu que ye válidu per munchu tiempu.
 mozilla-pkix-error-required-tls-feature-missing = Falta una carauterística TLS riquida.
 mozilla-pkix-error-invalid-integer-encoding = El sirvidor presentó un certificáu que contién una codificación non válida d'un enteru. Les causes comunes inclúin númberos de serie ñegativos, módulos RSA ñegativos y codificaciones que yá nun se precisen.
+mozilla-pkix-error-empty-issuer-name = El sirvidor presentó un certificáu con un nome estremáu d'emisor baleru.
