@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Tabs sincronisads
 synced-tabs-sidebar-noclients-subtitle = Vuls ti vesair qua tes tabs dad auters apparats?
 synced-tabs-sidebar-notsignedin = T'annunzia per vesair ina glista dals tabs da tes auters apparats.
+synced-tabs-sidebar-intro = Mussar ina glista dals tabs da tes auters apparats.
 synced-tabs-sidebar-unverified = Tes conto sto vegnir verifitgà.
 synced-tabs-sidebar-notabs = Nagins tabs averts
 synced-tabs-sidebar-openprefs = Avrir las preferenzas da { -sync-brand-short-name }
@@ -37,3 +38,4 @@ synced-tabs-context-manage-devices =
     .label = Administrar apparats…
     .accesskey = A
 fxa-sign-in = S'annunziar tar { -sync-brand-short-name }
+turn-on-sync = Activar { -sync-brand-short-name }
