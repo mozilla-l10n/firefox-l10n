@@ -37,3 +37,4 @@ mozilla-pkix-error-not-yet-valid-issuer-certificate = A certificate that is not 
 mozilla-pkix-error-signature-algorithm-mismatch = The signature algorithm in the signature field of the certificate does not match the algorithm in its signatureAlgorithm field.
 mozilla-pkix-error-validity-too-long = The server presented a certificate that is valid for too long.
 mozilla-pkix-error-invalid-integer-encoding = The server presented a certificate that contains an invalid encoding of an integer. Common causes include negative serial numbers, negative RSA moduli, and encodings that are longer than necessary.
+mozilla-pkix-error-empty-issuer-name = The server presented a certificate with an empty issuer distinguished name.
