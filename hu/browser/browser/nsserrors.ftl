@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Hiba történt a következőhöz csatlakozáskor: { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Hibakód: { $error }
 psmerr-ssl-disabled = Nem lehet biztonságosan kapcsolódni, mert az SSL protokoll le van tiltva.
 psmerr-ssl2-disabled = Nem lehet biztonságosan kapcsolódni, mert a hely az SSL protokoll egy régi, nem biztonságos verzióját használja.
 # This is a multi-line message.
@@ -136,6 +143,7 @@ ssl-error-rx-unexpected-cert-status = Az SSL váratlan tanúsítványstátusz k�
 ssl-error-unsupported-hash-algorithm = A TLS partner nem támogatott hash algoritmust használt.
 ssl-error-digest-failure = A kivonatoló függvény sikertelen.
 ssl-error-incorrect-signature-algorithm = A digitálisan aláírt elemben helytelen aláírási algoritmus van megadva.
+ssl-error-next-protocol-no-callback = A következő protokollegyeztetési kiterjesztés be lett kapcsolva, de a visszahívás törölve lett a szükségessé válása előtt.
 ssl-error-next-protocol-no-protocol = A kiszolgáló nem támogat olyan protokollokat, amelyeket a kliens az ALPN kiterjesztésben hirdet.
 ssl-error-inappropriate-fallback-alert = A kiszolgáló visszautasította a kézfogást, mert a kliens a szerver által támogatottnál régebbi TLS verzióra állt vissza.
 ssl-error-weak-server-cert-key = A kiszolgáló tanúsítványa túl gyenge nyilvános kulcsot tartalmazott.
@@ -333,3 +341,5 @@ mozilla-pkix-error-validity-too-long = A kiszolgáló által bemutatott tanúsí
 mozilla-pkix-error-required-tls-feature-missing = Egy szükséges TLS funkció hiányzik.
 mozilla-pkix-error-invalid-integer-encoding = A kiszolgáló egy egész szám érvénytelen kódolását tartalmazó tanúsítványt mutatott be. Ezt gyakran negatív sorozatszámok, negatív RSA modulusok, és a szükségesnél hosszabb kódolások okozzák.
 mozilla-pkix-error-empty-issuer-name = A kiszolgáló által bemutatott tanúsítványban a kibocsátó megkülönböztető neve üres.
+mozilla-pkix-error-additional-policy-constraint-failed = Egy további házirendmegszorítás lett megsértve a tanúsítvány érvényesítésekor.
+mozilla-pkix-error-self-signed-cert = A tanúsítvány nem megbízható, mert a saját kibocsátója által van aláírva.
