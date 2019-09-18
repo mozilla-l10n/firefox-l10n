@@ -6,6 +6,9 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = { $hostname } ના જોડાણ દરમ્યાન ભૂલ આવી. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = ભૂલ કોડ: { $error }
 psmerr-ssl-disabled = સુરક્ષિત રીતે જોડી શકતા નથી કારણ કે SSL પ્રોટોકોલ નિષ્ક્રિય થઈ ગયેલ છે.
 psmerr-ssl2-disabled = સુરક્ષિત રીતે જોડી શકતા નથી કારણ કે સાઈટ SSL પ્રોટોકોલની જૂની, અને અસુરક્ષિત આવૃત્તિ વાપરે છે.
 # This is a multi-line message.
