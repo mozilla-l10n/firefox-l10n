@@ -130,6 +130,7 @@ sec-error-old-krl = Il nuovo KLR non è successivo a quello esistente.
 sec-error-unknown-cert = Impossibile trovare il certificato richiesto.
 sec-error-unknown-signer = Impossibile trovare il firmatario del certificato.
 sec-error-ocsp-unknown-response-type = Impossibile decodificare completamente la risposta OCSP: tipo sconosciuto.
+sec-error-ocsp-bad-http-response = Il server OCSP ha restituito dati HTTP imprevisti/errati.
 sec-error-ocsp-malformed-request = Il server OCSP ha rilevato una richiesta danneggiata o non formata correttamente.
 sec-error-ocsp-server-error = Il server OCSP ha rilevato un errore interno.
 sec-error-ocsp-try-server-later = Il server OCSP suggerisce di riprovare nuovamente in seguito.
