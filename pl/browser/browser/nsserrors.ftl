@@ -169,3 +169,4 @@ sec-error-crl-already-exists = CRL już istnieje.
 sec-error-not-initialized = NSS nie jest zainicjowany.
 sec-error-ocsp-responder-cert-invalid = Skonfigurowany certyfikat respondera OCSP jest nieprawidłowy.
 sec-error-ocsp-bad-signature = Odpowiedź OCSP ma nieprawidłowy podpis.
+sec-error-pkcs11-function-failed = Moduł PKCS #11 zwrócił CKR_FUNCTION_FAILED, co wskazuje, że żądana funkcja nie mogła zostać wykonana. Ponowna próba wykonania tej operacji może się udać.
