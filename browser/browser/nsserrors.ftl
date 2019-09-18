@@ -2,15 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This is a multi-line message.
+psmerr-hostreusedissuerandserial =
+    நீங்கள் ஒரு செல்லுபடியாகாத சான்றிதழைப் பெற்றுள்ளீர்கள்.  சேவையக நிர்வாகியைத் தொடர்புகொண்டு அல்லது தளைவருக்கு மின்னஞ்சல் செய்து பின்வரும் தகவலை வழங்கவும்:
+    
+    உங்கள் சான்றிதழானது சான்றிதழ் ஆணையம் வழங்கிய மற்றொரு சான்றிதழின் அதே வரிசை எண்ணைக் கொண்டுள்ளது.  தனித்துவமான வரிசை எண்ணைக் கொண்டுள்ள ஒரு புதிய சான்றிதழைப் பெறவும்.
 ssl-error-no-cypher-overlap = Cannot communicate securely with peer:  no common encryption algorithm(s).
 ssl-error-no-certificate = Unable to find the certificate or  key necessary for authentication.
 ssl-error-bad-client = The server  has encountered bad data from the client.
 ssl-error-bad-server = The client  has encountered bad data from the server.
+ssl-error-unsupported-certificate-type = ஆதரிக்கப்படாத சான்றிதழ் வகை.
 ssl-error-unsupported-version = Peer using  unsupported version of security protocol.
 ssl-error-wrong-certificate = Client authentication failed:  private key in key database does not match public key in certificate database.
 ssl-error-ssl2-disabled = Peer only supports SSL version 2,  which is locally disabled.
 ssl-error-bad-mac-read = SSL received a record with  an incorrect Message Authentication Code.
 ssl-error-bad-mac-alert = SSL peer reports incorrect  Message Authentication Code.
+ssl-error-bad-cert-alert = SSL peerஇனால், உங்கள் சான்றிதழைச் சரிபார்க்க முடியாது.
 ssl-error-revoked-cert-alert = SSL peer rejected your  certificate as revoked.
 ssl-error-expired-cert-alert = SSL peer rejected your  certificate as expired.
 ssl-error-ssl-disabled = Cannot connect:  SSL is disabled.
@@ -107,6 +114,10 @@ ssl-error-renegotiation-not-allowed = Renegotiation is not allowed on this  SSL 
 ssl-error-unsafe-negotiation = Peer attempted old style(potentially vulnerable)handshake.
 ssl-error-rx-unexpected-uncompressed-record = SSL  received an unexpected uncompressed record.
 ssl-error-weak-server-ephemeral-dh-key = SSL received a  weak ephemeral Diffie-Hellman key in Server Key Exchange handshake message.
+ssl-error-next-protocol-data-invalid = SSL செல்லுபடியாகாத NPN நீட்டிப்பு தரவைப் பெற்றது.
+ssl-error-feature-not-supported-for-ssl2 = SSL 2.0 இணைப்புகளுக்கு SSL வசதி ஆதரிக்கப்படாது.
+ssl-error-feature-not-supported-for-servers = சேவையகங்களுக்கு SSL வசதி ஆதரிக்கப்படாது.
+ssl-error-feature-not-supported-for-clients = கிளையன்ட்டுகளுக்கு SSL வசதி ஆதரிக்கப்படாது.
 sec-error-io = An I/O error occurred during security  authorization.
 sec-error-library-failure = security  library failure.
 sec-error-bad-data = security library:  received bad data.
@@ -171,9 +182,12 @@ sec-error-inadequate-key-usage = Certificate key usage  inadequate for attempted
 sec-error-inadequate-cert-type = Certificate type not  approved for application.
 sec-error-cert-addr-mismatch = Address in signing certificate does not match  address in message headers.
 sec-error-not-fortezza-issuer = Peer FORTEZZA chain  has a non-FORTEZZA Certificate.
+sec-error-old-krl = புதிய KRL ஆனது தற்போதுள்ளதை விட பிந்தையதல்ல.
+sec-error-cert-not-in-name-space = இந்த சான்றிதழுக்கான சான்றிதழ் அதிகார அமைப்புக்கு, இந்தப் பெயரில் சான்றிதழ் வழங்க அனுமதி இல்லை.
 sec-error-krl-not-yet-valid = The key revocation list for this  certificate is not yet valid.
 sec-error-crl-not-yet-valid = The certificate revocation list  for this certificate is not yet valid.
 sec-error-unknown-cert = The requested certificate  could not be found.
+sec-error-cert-bad-access-location = சான்றிதழ் நிலை சேவையகத்திற்கான இருப்பிடம் செல்லுபடியாகாத வடிவமைப்பைக் கொண்டுள்ளது.
 sec-error-ocsp-unknown-response-type = The OCSP response  cannot be fully decoded; it is of an unknown type.
 sec-error-ocsp-bad-http-response = The OCSP server returned  unexpected/invalid HTTP data.
 sec-error-ocsp-malformed-request = The OCSP server found the  request to be corrupted or improperly formed.
@@ -216,7 +230,13 @@ sec-error-bad-http-response = Server returned bad  HTTP response
 sec-error-bad-ldap-response = Server returned bad  LDAP response
 sec-error-failed-to-encode-data = Failed to encode  data with ASN1 encoder
 sec-error-bad-info-access-location = Bad information  access location in cert extension
+sec-error-libpkix-internal = சான்றிதழ் செல்லுபடி சோதனையின் போது Libpkix அகப் பிழை ஏற்பட்டது.
 sec-error-pkcs11-general-error = A PKCS #11 module returned  CKR_GENERAL_ERROR, indicating that an unrecoverable error has occurred.
 sec-error-pkcs11-device-error = A PKCS #11 module returned  CKR_DEVICE_ERROR, indicating that a problem has occurred with the token or slot.
 sec-error-bad-info-access-method = Unknown information  access method in certificate extension.
 sec-error-crl-import-failed = Error attempting to import a  CRL.
+sec-error-expired-password = கடவுச்சொல் காலாவதியானது.
+sec-error-locked-password = கடவுச்சொல் பூட்டப்பட்டது.
+sec-error-unknown-pkcs11-error = தெரியாத PKCS #11 பிழை.
+sec-error-bad-crl-dp-url = CRL விநியோகப் புள்ளிப் பெயரில் செல்லுபடியாகாத அல்லது ஆதரிக்கப்படாத URL.
+sec-error-cert-signature-algorithm-disabled = இந்த சான்றிதழானது பாதுகாப்பற்றது என்ற காரணத்திற்காக முடக்கப்பட்ட ஒரு கையொப்ப வழிமுறையைப் பயன்படுத்தி கையொப்பமிடப்பட்டுள்ளது.
