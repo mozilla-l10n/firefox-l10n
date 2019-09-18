@@ -217,3 +217,6 @@ sec-error-crl-already-exists = CRL already exists.
 sec-error-not-initialized = NSS is not initialized.
 sec-error-token-not-logged-in = The operation failed because the PKCS#11 token is not logged in.
 sec-error-ocsp-bad-signature = OCSP ଉତ୍ତରରେ ଗୋଟିଏ ଅବୈଧ ପରିଚାୟକ ଅଛି.
+sec-error-invalid-policy-mapping = ନିତୀ ମେଳକରେ ଯେକୌଣସି ନିତୀ ଅଛି
+sec-error-policy-validation-failed = ପ୍ରମାଣପତ୍ର ଶୃଙ୍ଖଳ ନିତୀ ବୈଧିକରଣକୁ ବିଫଳ କରିଥାଏ
+sec-error-unknown-aia-location-type = ପ୍ରମାଣପତ୍ର AIA ଅନୁଲଗ୍ନରେ ଅଜଣା ଅବସ୍ଥାନ ପ୍ରକାର
