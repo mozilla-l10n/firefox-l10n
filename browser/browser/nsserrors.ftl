@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = { $hostname } адресіне байланысты орнату кезінде қате кетті. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Қате коды: { $error }
 psmerr-ssl-disabled = Қауіпсіз байланысты орнату мүмкін емес, SSL хаттамасы сөндірулі тұр.
 psmerr-ssl2-disabled = Сервермен байланыс орнату мүмкін емес, өйткені ол ескі, қауіпсіз емес SSL хаттамасын қолдануда.
 # This is a multi-line message.
@@ -65,6 +72,8 @@ ssl-error-rx-unexpected-application-data = SSL күтпеген Application Data
 ssl-error-rx-unknown-record-type = SSL құрамасы белгісіз жазбаны алды.
 ssl-error-rx-unknown-handshake = SSL сәлем хабарламасына қоса белгісіз түрде хабарламаны алды.
 ssl-error-rx-unknown-alert = SSL ескертудің белгісіз түрімен ескерту жазбасын алды.
+ssl-error-close-notify-alert = SSL торабы бұл байланысты жапты.
+ssl-error-handshake-unexpected-alert = SSL торабы байланысты орнатуға алынған сұранымды күтпеді.
 ssl-error-decompression-failure-alert = SSL торабы өзі алған SSL жазбасын сәтті дешифрлей алмады.
 ssl-error-handshake-failure-alert = SSL торабы алынған қауіпсіздік ақпаратты терістей не растай алмады.
 ssl-error-illegal-parameter-alert = SSL торабы құрамасы қате болған соң байланыс орнату хабарламасын үзді.
@@ -110,6 +119,7 @@ ssl-error-user-canceled-alert = Торап пайдаланушысы байла
 ssl-error-no-renegotiation-alert = Торап SSL қауіпсіздік параметрлерін қайта қарауға рұқсат етпейді.
 ssl-error-server-cache-not-configured = SSL серверінің кэші бапталмаған немесе бұл сокет үшін өшірілген.
 ssl-error-unsupported-extension-alert = SSL торабы сұранған TLS hello кеңейтуін қолдамайды.
+ssl-error-certificate-unobtainable-alert = SSL торабы сіздің сертификатыңызды көрсетілген URL адресінен жүктей алмады.
 ssl-error-unrecognized-name-alert = SSL торабында көрсетілген DNS nаты үшін сертификат жоқ.
 ssl-error-bad-cert-status-response-alert = SSL торабы оның сертификаты үшін OCSP жауабын ала алмады.
 ssl-error-bad-cert-hash-value-alert = SSL торабы сертификаттың хеш сомасы қате екенін хабарлады.
@@ -331,3 +341,5 @@ mozilla-pkix-error-validity-too-long = Сервер жарамдылық уақ�
 mozilla-pkix-error-required-tls-feature-missing = Міндетті TLS мүмкіндігі жоқ болып тұр.
 mozilla-pkix-error-invalid-integer-encoding = Сервер ұсынған сертификатта бүтін санның қате кодталуы кездесті. Жиі себептер: теріс сериялық сандар, теріс RSA модулі, және ұзындығы керек шамадан артатын кодтаулар.
 mozilla-pkix-error-empty-issuer-name = Сервер сертификаттау орталығының ажыратылымды аты бос болып келген сертификатпен жауап берген.
+mozilla-pkix-error-additional-policy-constraint-failed = Бұл сертификатты растау кезінде қосымша саясат шарты сәтсіз аяқталды.
+mozilla-pkix-error-self-signed-cert = Сертификатқа сенім жоқ, өйткені оның қолтаңбасы өздігінен қойылған.
