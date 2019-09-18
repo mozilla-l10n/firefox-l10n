@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Pśi zwězowanju z { $hostname } jo zmólka nastała. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Zmólkowy kod: { $error }
 psmerr-ssl-disabled = Wěsty zwisk njejo móžny, dokulaž SSL-protokol jo znjemóžnjony.
 psmerr-ssl2-disabled = Wěsty zwisk njejo móžny, dokulaž sedło wužywa staršu, njewěstu wersiju SSL-protokola.
 # This is a multi-line message.
@@ -334,3 +341,5 @@ mozilla-pkix-error-validity-too-long = Serwer jo certifikat pśedpołožył, kó
 mozilla-pkix-error-required-tls-feature-missing = Trěbna TLS-funkcija felujo.
 mozilla-pkix-error-invalid-integer-encoding = Serwer jo certifikat prezentěrował, kótaryž wopśimujo njepłaśiwe koděrowanje cełeje licby. Ceste zawiny mógu byś: negatiwne serijowe numery, negatiwne RSA-module a koděrowanja, kótarež su dlejše ako trěbne.
 mozilla-pkix-error-empty-issuer-name = Serwer jo certifikat bźez rozeznawajobnego mjenja (eng.: distinguished name) wudawarja prezentěrował.
+mozilla-pkix-error-additional-policy-constraint-failed = Pśidatne wobgranicowanje pšawidła njejo mógło toś ten certifikat pśeglědaś.
+mozilla-pkix-error-self-signed-cert = Certifikat njejo dowěry gódny, dokulaž jo se sam pódpisał.
