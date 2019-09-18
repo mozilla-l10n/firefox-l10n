@@ -18,3 +18,4 @@ reader-view = Vista da lectura
 open-location = Tschertgar u endatar in'adressa
 share = Cundivider
 close-window = Serrar la fanestra
+open-sidebar = Travs lateralas
