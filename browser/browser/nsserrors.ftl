@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Una error s'es produita pendent una connexion a { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Còdi d’error : { $error }
 psmerr-ssl-disabled = Connexion securizada impossibla perque lo protocòl SSL es estat desactivat.
 psmerr-ssl2-disabled = Connexion securizada impossibla perque lo site utiliza una version anciana pas segura del protocòl SSL.
 # This is a multi-line message.
@@ -128,10 +135,23 @@ ssl-error-feature-not-supported-for-ssl2 = Foncionalitat SSL pas gerida per las 
 ssl-error-feature-not-supported-for-servers = Foncionalitat SSL pas gerida pels servidors.
 ssl-error-feature-not-supported-for-clients = Foncionalitat SSL pas gerida pels clients.
 ssl-error-invalid-version-range = L'interval de versions de SSL es invalid.
+ssl-error-cipher-disallowed-for-version = Lo par SSL a selectionat una seguida de chiframents non autorizada per la version seleccionada del protocòl.
 ssl-error-rx-malformed-hello-verify-request = SSL a recebut un messatge d'establiment de ligason « Hello Verify Request » mal format.
 ssl-error-rx-unexpected-hello-verify-request = SSL a recebut un messatge d'establiment de ligason « Hello Verify Request » imprevist.
+ssl-error-feature-not-supported-for-version = La foncionalitat SSL es pas presa en carga per aquesta version del protocòl.
 ssl-error-rx-unexpected-cert-status = SSL a recebut un messatge d'establiment de ligason « Certificate Status » inesperat.
+ssl-error-unsupported-hash-algorithm = Algoritme de trissatge non pres en carga utilizat pel par TLS.
 ssl-error-digest-failure = La foncion de pretractament a fracassat.
+ssl-error-incorrect-signature-algorithm = Algoritme de signatura incorrècte especificat dins un element signat numericament.
+ssl-error-next-protocol-no-callback = L’extension "next protocol negotiation" èra activada, mas la foncion de crida de retoorn es estada escafada abans d’aver pogut èsser utilizada.
+ssl-error-next-protocol-no-protocol = Lo servidor pren pas en carga quin que siá protocòl anonciat pel client dins l’extension ALPN.
+ssl-error-inappropriate-fallback-alert = Lo servidor a regetat la conformitat de connexion pr’amor que lo client a tornat a una version de TLS inferiora que lo servidor pren pas en carga.
+ssl-error-weak-server-cert-key = Lo certificat del servidor inclutz una clau publica tròp flaca.
+ssl-error-rx-short-dtls-read = I a pas pro d'espaci dins lo tampon per far un enregistrament DTLS.
+ssl-error-no-supported-signature-algorithm = Pas cap d'algoritme TLS de signatura es configurat.
+ssl-error-unsupported-signature-algorithm = Lo par a utilizat una combinason non presa en carga de signatura e d’algoritme de trissatge.
+ssl-error-missing-extended-master-secret = Lo par a ensajat de tornar sens extension extended_master_secret corrècta.
+ssl-error-unexpected-extended-master-secret = Lo par a ensajat de tornar amb una extension extended_master_secret imprevista.
 sec-error-io = Una error d'entrada/sortida s'es produita pendent l'autorizacion de seguretat.
 sec-error-library-failure = Fracàs de la bibliotèca de seguretat.
 sec-error-bad-data = Bibliotèca de seguretat : donadas incorrèctas recebudas.
@@ -307,4 +327,17 @@ sec-error-crl-import-failed = Error al moment de la temptativa d'importacion d'u
 sec-error-expired-password = Lo senhal a expirat.
 sec-error-locked-password = Lo senhal es verrolhat.
 sec-error-unknown-pkcs11-error = Error PKCS #11 desconeguda.
+sec-error-bad-crl-dp-url = URL invalida o pas gerida dins un ponch de distribucion CRL.
 sec-error-cert-signature-algorithm-disabled = Lo certificat es estat signat amb l'ajuda d'un algoritme de signatura qu'es desactivat per sa manca de seguretat.
+mozilla-pkix-error-key-pinning-failure = Lo servidor utiliza la fixacion de clau (HPKP) mas a pas pogut bastir quina cadena que siá que corresponda al còs de las claus fixas. Las violacions de fixacion de clau se pòdon pas forçar.
+mozilla-pkix-error-ca-cert-used-as-end-entity = Lo servidor utiliza un certificat amb una extension de constrenchas basicas que l'identifica coma autoritat de certificacion. Per un certificat emés coma cal se deuriá pas passar atal.
+mozilla-pkix-error-inadequate-key-size = Lo servidor a presentat un certificat que la talha de la clau es tròp corta per establir una connexion segura.
+mozilla-pkix-error-v1-cert-used-as-ca = Un certificat X.509 version 1, qu'es pas una encara de fisança, es estat utilizat per signar lo certificat del servidor. Los certificats X.509 version 1 son obsolèts e se deuriá pas los utilizar per signar d'autres certificats.
+mozilla-pkix-error-not-yet-valid-certificate = Lo servidor a presentat un certificat qu'es pas mai valid.
+mozilla-pkix-error-not-yet-valid-issuer-certificate = Un certificat qu'es pas encara valid es estat utilizat per provesir lo certificat del servidor.
+mozilla-pkix-error-signature-algorithm-mismatch = L'algoritme de signatura del camp de signatura del certificat correspond pas a l'algoritme del camp "signatureAlgorithm".
+mozilla-pkix-error-ocsp-response-for-cert-missing = La responsa OCSP inclutz pas l'estat pel certificat verificat.
+mozilla-pkix-error-validity-too-long = Lo servidor a presentat un certificat qu'es valid per un temps tròp long.
+mozilla-pkix-error-invalid-integer-encoding = Lo servidor a presentat un certificat contenent un entièr mal encodat. Las rasons mai frequentas son de numèros de seria negatius, de moduls RSA negatius o d'encodatges mai longs que necessari.
+mozilla-pkix-error-empty-issuer-name = Lo servidor a presentat un certificat que lo nom distintiu de l'emetor es void.
+mozilla-pkix-error-self-signed-cert = Lo certificat es pas segur perque es autosignat.
