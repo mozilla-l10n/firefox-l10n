@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Teḍra-d tuccḍa di tuqqna ɣeṛ { $hostname }. { $errorMessage }
 psmerr-ssl-disabled = Tuqqna taɣelsant d tawezɣit acku aneggaf SSL itturermed.
 psmerr-ssl2-disabled = Tuqqna taɣelsant d tawezɣit acku asmel-agi seqdac aneggaf SSL aqbuṛ u d araɣelsan.
 # This is a multi-line message.
@@ -27,6 +31,7 @@ ssl-error-bad-mac-alert = Ayugan SSL a yeqqaṛ d akken tangalt n usesteb n yize
 ssl-error-bad-cert-alert = Ayugan SSL ur yezmir ara ad isenqed aselkin-inek.
 ssl-error-revoked-cert-alert = Ayugan SSL yugwi aselkin-inek acku ittuzaɛ.
 ssl-error-expired-cert-alert = Ayugan SSL yugi aselkin-inek acku yewweḍ ɣeṛ uzemz n usewti.
+ssl-error-ssl-disabled = Ur izmir ara ad yeqqen: SSL yensa.
 ssl-error-fortezza-pqg = Ur izmir ara ad yeqqen: ayugan SSL atan di taɣult FORTEZZA.
 ssl-error-unknown-cipher-suite = Amazrar n uwegelhen SSL arussin ittusuter yaka.
 ssl-error-no-ciphers-supported = Ula d yiwen n uzrir n usetengel ur yermid deg ahil-agi.
@@ -83,6 +88,7 @@ ssl-error-insufficient-security-alert = Aqeddac isra iwgelhan yellan d iɣelsane
 ssl-error-internal-error-alert = Ayugan immal-d dakken teḍṛa-d tuccḍa tagensant.
 ssl-error-user-canceled-alert = Aseqdac ayugan isefsex asebded n warruz.
 ssl-error-no-renegotiation-alert = Ayugan ur isirig ara tastagt n iɣewwaṛen n tɣellist SSL.
+ssl-error-server-cache-not-configured = Tuffirt n uqeddac SSL ur tettuswel ara, ur yensi ara  i ugrudem-agi n tuqqna.
 ssl-error-unsupported-extension-alert = Ayugan SSL ur isefrak ara asiɣzef TLS hello.
 ssl-error-certificate-unobtainable-alert = Ayugan SSL ur izmir ara ad yawi aselkin si tansa URL id-ittunefken.
 ssl-error-unrecognized-name-alert = Ayugan SSL ulac ɣur-s aselkin i yisem DNS id-ittusutren.
@@ -132,6 +138,7 @@ sec-error-bad-password = Awal uffir i d-fkiḍ d arameɣtu.
 sec-error-no-nodelock = tamkaṛḍit n tɣellist: ulac asekṛun n tkerrist.
 sec-error-bad-database = tamkarḍit n tɣellist: yir taffa n isefka.
 sec-error-no-memory = Tamkaṛḍit n tɣellist: aḥeṛṛi n tkatut ru teddi ara
+sec-error-untrusted-cert = Aselkin n yugan yettwacreḍ ur yettwaman ara sɣur aseqdac.
 sec-error-duplicate-cert = Aselkin yella yakan di taffa n isefka-inek.
 sec-error-duplicate-cert-name = Isem n uselkin i d-tzedmeḍ yella yakan deg taffa-inek n isefka.
 sec-error-adding-cert = Tuccḍa di tmerna n uselkin ɣeṛ taffa n isefka.
@@ -141,6 +148,8 @@ sec-error-cert-valid = Aselkin-agi iɣbel.
 sec-error-cert-not-valid = Aselkin-agi d arameɣtu.
 sec-error-cert-no-response = Tamkarḍit n uselkin: Ulac tiririt
 sec-error-expired-issuer-certificate = Aselkin n udabu it-id-imudden yebbeḍ ɣer wazemz n tsewti. Senqed azemz d wakud n unagraw-ik.
+sec-error-crl-expired = Tabdart CRL i win i d-yessuffɣen aselkim  tfat. Leqqem-itt neɣ senqed azemz d wakud n unagraw-ik.
+sec-error-crl-bad-signature = Abdart CRL i win i d-yessuffɣen aselkin ɣur-s yir azmul.
 sec-error-crl-invalid = Tabdart n tsura yettwaḥwin CLR ɣuṛ-s amasal mačči d ameɣtu.
 sec-error-extension-value-invalid = Azal n usiɣzef n uselkin d arameɣtu.
 sec-error-ca-cert-invalid = Aselkin n udabu n umuddu mačči d ameɣtu.
@@ -238,6 +247,7 @@ sec-error-module-stuck = Azegrir PKCS #11 ur iţwakkas ara acku iţuseqdac akka 
 sec-error-bad-template = Ur izmir ara ad ikestengel isefka ASN.1. Taneɣruft i d-ittunefken mačči tameɣtut.
 sec-error-crl-not-found = Ulac tabdart CRL yettwafen.
 sec-error-reused-issuer-and-serial = Ad tettaɛṛaḍeḍ ad ketreḍ aselkin s udabu/uṭṭun n umazrar n uselkin yellan yakan, acukan aselkin mačči yiwen-is.
+sec-error-busy = NSS ur izmir ara ad yeḥbes. Llant tɣawsiwin iţuseqdacen tura yakan.
 sec-error-extra-input = Izen ittustenglen s DER igber isefka isemmadanen ur nettuseqdac ara
 sec-error-unsupported-elliptic-curve = Tamaknayt taglayant ur tettusefrak ara.
 sec-error-unsupported-ec-point-form = Azlig aglayan s tneqqiḍin ur yeettusefrak ara.
@@ -285,3 +295,5 @@ mozilla-pkix-error-validity-too-long = Aqeddac isenked-d aselkin ur neɣbil ara 
 mozilla-pkix-error-required-tls-feature-missing = Tamahilt TLS ilaqen ulac-itt.
 mozilla-pkix-error-invalid-integer-encoding = Aqeddac imudd-d aselkin igebren asettengel mačči d ameɣtu n umḍan ummid. Ayen yettwassnen ahat d imḍanen n umazrar ibawen, RSA moduli ibaw, akked usettengel meqqṛen ɣef wayen ilaqen.
 mozilla-pkix-error-empty-issuer-name = Aqeddac imudd-d aselkin s yisem n udabu ilem.
+mozilla-pkix-error-additional-policy-constraint-failed = Tamara n testratijit-nniḍen tecceḍ deg usentem n uselkin-agi.
+mozilla-pkix-error-self-signed-cert = Aselkin-agi ur yettwaman ara acku d uzmilman.
