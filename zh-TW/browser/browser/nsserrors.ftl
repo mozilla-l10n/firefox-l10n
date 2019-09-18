@@ -4,6 +4,11 @@
 
 psmerr-ssl-disabled = 無法安全連線，因為 SSL 通訊協定已停用。
 psmerr-ssl2-disabled = 無法安全連線，因為該網站使用舊版、不安全的 SSL 通訊協定。
+# This is a multi-line message.
+psmerr-hostreusedissuerandserial =
+    您收到無效的憑證，請與伺服器管理員或郵件聯絡人聯絡，並提供下列資訊:
+    
+    您的憑證內含與其他憑證機構所簽發憑證相同的序號，請用不同的序號產生新的憑證。
 ssl-error-export-only-server = 無法安全通訊，節點不支援高等級加密。
 ssl-error-us-only-server = 無法安全通訊，不支援節點所要求的高等級加密。
 ssl-error-no-certificate = 找不到鑑別需要的憑證或金鑰。
@@ -26,6 +31,7 @@ ssl-error-rx-unknown-record-type = SSL 收到含未知內容類型的記錄。
 ssl-error-rx-unknown-handshake = SSL 收到含未知訊息類型的交握訊息。
 ssl-error-rx-unknown-alert = SSL 收到含未知警告敘述的警告記錄。
 ssl-error-generate-random-failure = SSL 的隨機數字產生器失效。
+ssl-error-sign-hashes-failure = 無法數位化簽署資料以驗證您的憑證。
 ssl-error-server-key-exchange-failure = 處理 SSL 伺服器金鑰交換交握時遇到不明原因的失敗。
 ssl-error-client-key-exchange-failure = 處理 SSL 用戶端金鑰交換交握時遇到不明原因的失敗。
 ssl-error-socket-write-failure = 試圖寫入加密資訊到其下的 socket 失敗。
@@ -67,6 +73,7 @@ sec-error-no-key = 資料庫中找不到此憑證的私密金鑰。
 sec-error-cert-valid = 此憑證有效。
 sec-error-cert-not-valid = 此憑證無效。
 sec-error-cert-no-response = 憑證函式庫: 無回應
+sec-error-expired-issuer-certificate = 憑證簽發者的憑證已過期，請檢查您的系統日期及時間。
 sec-error-crl-bad-signature = 憑證簽發者的廢止清冊含無效的簽章。
 sec-error-crl-invalid = 新憑證廢止清冊的格式無效。
 sec-error-extension-value-invalid = 憑證擴充欄位的值無效。
@@ -77,9 +84,14 @@ sec-error-cert-usages-invalid = 憑證使用的欄位無效。
 sec-internal-only = **專供內部使用的模組**
 sec-error-unknown-critical-extension = 憑證含未知的 Critical 擴充欄位。
 sec-error-old-crl = 新憑證廢止清冊不能比目前的清冊還晚。
+sec-error-no-email-cert = 未加密或簽章: 您尚未擁有 Email 憑證。
+sec-error-no-recipient-certs-query = 未加密: 您尚未擁有每個收件人的憑證。
+sec-error-not-a-recipient = 無法解密: 您不是收件人或是找不到相符的憑證或私密金鑰。
+sec-error-pkcs7-keyalg-mismatch = 無法解密: 金鑰加密演算法和您的憑證不符。
 sec-error-pkcs7-bad-signature = 簽章鑑別失敗: 找不到簽署者、找到太多簽署者或收到不正確、損毀的資料。
 sec-error-unsupported-keyalg = 不支援或未知的金鑰演算法。
 sec-error-decryption-disallowed = 無法解密: 加密資訊使用不允許的演算法或金鑰長度。
+xp-sec-fortezza-bad-card = Fortezza 卡未正確初始化，請取出並還給您的簽發者。
 xp-sec-fortezza-no-card = 找不到 Fortezza 卡
 xp-sec-fortezza-none-selected = 未選擇 Fortezza 卡
 xp-sec-fortezza-bad-pin = 無效的 PIN
@@ -143,6 +155,8 @@ sec-error-ocsp-request-needs-sig = OCSP 伺服器需要此請求的簽章。
 sec-error-ocsp-unauthorized-request = OCSP 伺服器已拒絕此未授權的請求。
 sec-error-ocsp-unknown-response-status = OCSP 伺服器回傳了未辨識的狀態。
 sec-error-ocsp-unknown-cert = OCSP 伺服器沒有憑證狀態。
+sec-error-ocsp-not-enabled = 您必須啟用 OCSP 才能完成此操作。
+sec-error-ocsp-no-default-responder = 您必須設定 OCSP 預設回應者才能完成此操作。
 sec-error-ocsp-malformed-response = 從 OCSP 伺服器傳來的回應已損毀或格式不正確。
 sec-error-ocsp-unauthorized-response = OCSP 回應的簽署者未獲授權回應此憑證的狀態。
 sec-error-ocsp-old-response = OCSP 回應內含過期的資訊。
@@ -151,6 +165,7 @@ sec-error-unsupported-message-type = CMS 或 PKCS #7 訊息類型不支援。
 sec-error-module-stuck = PKCS #11 模組正在使用中，無法移除。
 sec-error-bad-template = 無法解碼 ASN.1 資料，指定的範本無效。
 sec-error-crl-not-found = 找不到相符的憑證廢止清冊。
+sec-error-reused-issuer-and-serial = 您正試圖匯入和現有憑證的簽發者╱序號相同的憑證，但他們並不是同一個憑證。
 sec-error-busy = NSS 無法關閉，物件還在使用中。
 sec-error-extra-input = DER 編碼訊息含有額外的未使用資料。
 sec-error-unsupported-elliptic-curve = 不支援的橢圓曲線。
