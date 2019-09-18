@@ -274,6 +274,7 @@ sec-error-unknown-pkcs11-error = Tuccḍa PKCS #11 tarussint.
 sec-error-bad-crl-dp-url = URL arameɣtu neɣ ur ittusefrak ara deg isem n wagaz n uwziwez CRL.{ " " }
 sec-error-cert-signature-algorithm-disabled = Aselkin ittuzmel s ulguritm n uzmul yettwassens acku d araɣelsan.
 mozilla-pkix-error-key-pinning-failure = Aqeddac iseqdac "key pinning" (HPKp) acu kan ula d yiwen n izirig ur iger taflest deg iselkan{ " " }
+mozilla-pkix-error-ca-cert-used-as-end-entity = Aqeddac yesseqdac aselkin s uziɣzef n tmara taḥerfit i t-id-yemmalen am udabu n uselken. Deg iselkan i d-ittunefken akken iwata, aya mačči d ameɣtu.
 mozilla-pkix-error-inadequate-key-size = Aqeddac imudd-d aselkin ideg teɣzi n tsarut meẓẓiyet aṭas akken ad yessenker tuqqna.
 mozilla-pkix-error-v1-cert-used-as-ca = Aselkin s lqem 1 X.509 ur nelli ara d tamdeyt yettwamanen yettwaseqdec i usuffeɣ n uselkin n uqeddac. Iselkinen s lqem 1 X.509 d iqbuṛen udiɣ ur issefk ara ad ttusqedcen akken ad zemlen iselkinen nniḍen.
 mozilla-pkix-error-not-yet-valid-certificate = Aqeddac isenked-d aselkin ur neɣbil ara yakan.
