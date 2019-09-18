@@ -65,6 +65,9 @@ about-logins-login-list-empty-search-description = Nid oes unrhyw ganlyniadau sy
 login-list-item-title-new-login = Mewngofnod Newydd
 login-list-item-subtitle-new-login = Rhowch eich manylion mewngofnodi
 login-list-item-subtitle-missing-username = (dim enw defnyddwyr)
+about-logins-list-item-warning-icon =
+    .alt = Eicon rhybuddio
+    .title = Gwefan wedi dioddef tor-data
 
 ## Introduction screen
 
