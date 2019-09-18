@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Pri pripájaní k { $hostname } sa vyskytla chyba. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Kód chyby: { $error }
 psmerr-ssl-disabled = Nie je možné bezpečne sa pripojiť, pretože protokol SSL je zakázaný.
 psmerr-ssl2-disabled = Nie je možné bezpečne sa pripojiť, pretože server používa staršiu a nie veľmi bezpečnú verziu protokolu SSL.
 # This is a multi-line message.
@@ -131,11 +138,14 @@ ssl-error-invalid-version-range = Rozsah verzie SSL nie je platný.
 ssl-error-cipher-disallowed-for-version = Partner protokolu SSL zvolil šifrovací balík, ktorý nie je povolený pre danú verziu protokolu.
 ssl-error-rx-malformed-hello-verify-request = Protokol SSL prijal poškodenú inicializačnú správu Hello Verify Request.
 ssl-error-rx-unexpected-hello-verify-request = Protokol SSL prijal neočakávanú inicializačnú správu Hello Verify Request.
+ssl-error-feature-not-supported-for-version = Funkcia SSL nie podporovaná pre danú verziu protokolu.
 ssl-error-rx-unexpected-cert-status = Protokol SSL prijal neočakávanú inicializačnú správu Certificate Status.
+ssl-error-unsupported-hash-algorithm = Partner TLS použil neplatný hašovací algoritmus.
 ssl-error-digest-failure = Chyba funkcie extraktu.
 ssl-error-incorrect-signature-algorithm = V digitálne podpísanom prvku je určený nesprávny podpisový algoritmus.
 ssl-error-next-protocol-no-callback = Rozšírenie vyjednávania o ďalšom protokole bolo povolené, ale fronta bola vyčistená ešte predtým než bola potrebná.
 ssl-error-next-protocol-no-protocol = Server nepodporuje žiadne z protokolov uvedených v klientovom rozšírení ALPN.
+ssl-error-inappropriate-fallback-alert = Server odmietol inicializovať spojenie, pretože klient začal používať verziu TLS, ktorá je nižšia, ako verzia podporovaná serverom.
 ssl-error-weak-server-cert-key = Certifikát servera obsahoval verejný kľúč, ktorý bol príliš slabý.
 ssl-error-rx-short-dtls-read = Pre záznam DTLS nie je dostatok miesta vo vyrovnávacej pamäti.
 ssl-error-no-supported-signature-algorithm = Nebol nakonfigurovaný žiadny podporovaný podpisový algoritmus pre TLS.
@@ -322,6 +332,7 @@ sec-error-cert-signature-algorithm-disabled = Certifikát bol podpísaný použi
 mozilla-pkix-error-key-pinning-failure = Server používa key pinning (HPKP), ale nebola zložená vhodná reťaz dôveryhodných certifikátov, ktoré sa zhodujú s daným pinsetom. Porušenia key pinning nie je možné ignorovať.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Server používa certifikát s rozšírením základných vymedzení, ktoré ho identifikujú ako certifikačnú autoritu. Toto by sa nemalo stať pre korektne vydaný certifikát.
 mozilla-pkix-error-inadequate-key-size = Server poskytol certifikát s veľkosťou kľúča, ktorá je príliš malá na zostavenie bezpečného spojenia.
+mozilla-pkix-error-v1-cert-used-as-ca = Pri vydávaní certifikátu servera bol použitý certifikát X.509 verzia 1, ktorý nie je dôveryhodným certifikátom. Certifikáty X.509 verzia 1 sú zastarané a nemali by byť používané na podpisovanie iných certifikátov.
 mozilla-pkix-error-not-yet-valid-certificate = Server poskytol certifikát, ktorý ešte nie je platný.
 mozilla-pkix-error-not-yet-valid-issuer-certificate = Na vydanie certifikátu servera bol použitý certifikát, ktorý ešte nie je platný.
 mozilla-pkix-error-signature-algorithm-mismatch = Algoritmus podpisu sa v podpisovom poli certifikátu nezhoduje s algoritmom v poli signatureAlgorithm.
@@ -329,3 +340,6 @@ mozilla-pkix-error-ocsp-response-for-cert-missing = Odpoveď OCSP neobsahuje sta
 mozilla-pkix-error-validity-too-long = Server poskytol certifikát, ktorý je platný už príliš dlho.
 mozilla-pkix-error-required-tls-feature-missing = Požadovaná funkcia TLS chýba.
 mozilla-pkix-error-invalid-integer-encoding = Server predložil certifikát, ktorý obsahuje neplatné kódovanie čísiel. Medzi bežné príčiny patria záporné sériové čísla, záporné 'RSA moduli' a kódovania, ktoré sú dlhšie než je potrebné.
+mozilla-pkix-error-empty-issuer-name = Server poskytol certifikát s prázdnym názvom vydavateľa.
+mozilla-pkix-error-additional-policy-constraint-failed = Pri overovaní tohto certifikátu nebolo splnené dodatočné obmedzujúce pravidlo.
+mozilla-pkix-error-self-signed-cert = Certifikát nie je dôveryhodný, pretože je podpísaný vlastným podpisom.
