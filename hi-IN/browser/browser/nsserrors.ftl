@@ -215,3 +215,6 @@ sec-error-crl-already-exists = CRL पहले से मौजूद है.
 sec-error-not-initialized = NSS आरंभीकृत नहीं है.
 sec-error-token-not-logged-in = संक्रिया विफल रही क्योंकि PKCS#11 टोकन लॉग इन नहीं है.
 sec-error-ocsp-bad-signature = OCSP प्रतिक्रिया के पास एक अवैध हस्ताक्षर है.
+sec-error-invalid-policy-mapping = Policy mapping contains anypolicy
+sec-error-policy-validation-failed = Cert chain fails policy validation
+sec-error-unknown-aia-location-type = Unknown location type in cert AIA extension
