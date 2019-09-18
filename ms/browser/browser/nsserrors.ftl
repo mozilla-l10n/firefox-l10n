@@ -134,6 +134,7 @@ ssl-error-next-protocol-data-invalid = SSL menerima data ekstensi NPN yang tidak
 ssl-error-feature-not-supported-for-ssl2 = Ciri-ciri SSL tidak disokong untuk sambungan SSL 2.0.
 ssl-error-feature-not-supported-for-servers = Ciri-ciri SSL tidak diterima oleh pelayan.
 ssl-error-feature-not-supported-for-clients = Ciri-ciri SSL tidak diterima oleh klien.
+ssl-error-invalid-version-range = Julat versi SSL tidak sah.
 ssl-error-cipher-disallowed-for-version = Rakan SSL memilih suit sifer yang tidak dibenarkan untuk versi protokol yang dipilih.
 ssl-error-rx-malformed-hello-verify-request = SSL menerima mesej jabat tangan Hello Verify Request yang cacat.
 ssl-error-rx-unexpected-hello-verify-request = SSL menerima mesej persetujuan Hello Verify Request yang tidak dijangka.
