@@ -244,3 +244,5 @@ sec-error-locked-password = Lösenordet är låst.
 sec-error-unknown-pkcs11-error = Okänt PKCS #11-fel.
 sec-error-bad-crl-dp-url = Ogiltig eller icke stödd URL i distributionspunktnamnet för CRL.
 sec-error-cert-signature-algorithm-disabled = Certifikatet signerades med en signaturalgoritm som är inaktiverad av säkerhetsskäl.
+mozilla-pkix-error-key-pinning-failure = Servern använder pinkoder (HPKP) men ingen betrodd certifikatkedja kunde sättas samman som matchar pinuppsättningen. Pinkodöverträdelser kan inte bortses från.
+mozilla-pkix-error-inadequate-key-size = Servern presenterade ett certifikat med en nyckelstorlek som är för liten för att etablera en säker anslutning.
