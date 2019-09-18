@@ -23,14 +23,17 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Cyfrif">
 <!ENTITY firstrun_sync_message2 "Parhau lle roeddech o\&apos;r blaen.">
+<!ENTITY firstrun_sync_message3 "Cydweddu eich nodau tudalen, hanes a\&apos;ch cyfrineiriau i\&apos;ch ffôn.">
 <!ENTITY firstrun_sync_subtext2 "Defnyddiwch Sync i ganfod nodau tudalen, cyfrineiriau a phethau eraill rydych wedi eu cadw i &brandShortName; ar eich holl ddyfeisiau.">
 <!ENTITY newfirstrun_sync_subtext "Cydweddwch y pethau rydych chi\&apos;n eu cadw ar Firefox symudol i Firefox y bwrdd gwaith, yn breifat ac yn ddiogel.">
 <!ENTITY updatednewfirstrun_sync_subtext "Mewngofnodwch i\&apos;ch cyfrif i gael y mwyaf o &brandShortName;">
+<!ENTITY firstrun_sendtab_title "Tab Anfon">
+<!ENTITY firstrun_sendtab_message "Rhannwch dabiau o\&apos;r ffôn symudol i\&apos;r bwrdd gwaith - ar unwaith.">
 <!ENTITY firstrun_signin_message "Cysylltu a chychwyn arni">
 <!ENTITY firstrun_signin_button "Mewngofnodwch i Sync">
 <!ENTITY newfirstrun_signin_button "Cychwyn Sync">
 <!ENTITY updatednewfirstrun_signin_button "Mewngofnodi i &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Cychwyn Pori">
+<!ENTITY onboard_start_button_browser "Cychwyn Pori">
 <!ENTITY firstrun_button_notnow "Dim nawr">
 <!ENTITY firstrun_button_next "Nesaf">
 
