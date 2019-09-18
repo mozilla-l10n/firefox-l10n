@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This is a multi-line message.
+psmerr-hostreusedissuerandserial =
+    Heu rebut un certificat que no és vàlid. Contacteu amb l'administrador del servidor o amb el remitent de correu electrònic i doneu-los aquesta informació:
+    
+    El certificat conté el mateix número de sèrie que un altre certificat emès per l'entitat certificadora. Obteniu un altre certificat que contingui un número de sèrie únic.
 ssl-error-no-cypher-overlap = No es pot comunicar de forma segura amb l'altre extrem: no hi ha cap algorisme de xifratge comú.
 ssl-error-no-certificate = No s'ha trobat el certificat o la clau necessària per a l'autenticació.
 ssl-error-bad-client = El servidor s'ha trobat amb dades incorrectes del client.
@@ -81,6 +86,7 @@ ssl-error-no-compression-overlap = No es pot comunicar de forma segura amb l'alt
 ssl-error-handshake-not-completed = No es pot iniciar una altra conformitat de connexió SSL fins que aquesta no es completi.
 ssl-error-bad-handshake-hash-value = S'han rebut conformitats de connexió incorrectes de l'altre extrem.
 ssl-error-cert-kea-mismatch = El certificat proporcionat no pot utilitzar-se amb l'algorisme d'intercanvi de claus seleccionat.
+ssl-error-no-trusted-ssl-client-ca = No es pot confiar en cap entitat certificadora per a l'autenticació SSL del client.
 ssl-error-decryption-failed-alert = L'altre extrem no ha pogut desxifrar un registre SSL que ha rebut.
 ssl-error-record-overflow-alert = L'altre extrem ha rebut un registre SSL que ja no estava permès.
 ssl-error-unknown-ca-alert = L'altre extrem no reconeix ni confia en la CA que ha emès el vostre certificat.
@@ -122,6 +128,7 @@ sec-error-no-key = La clau privada del certificat no es pot trobar a la base de 
 sec-error-cert-valid = El certificat és vàlid.
 sec-error-cert-not-valid = El certificat no és vàlid.
 sec-error-cert-no-response = Biblioteca del certificat: Sense resposta
+sec-error-crl-invalid = La CRL nova no té un format vàlid.
 sec-error-extension-value-invalid = El valor de l'extensió del certificat no és vàlid.
 sec-error-extension-not-found = No s'ha trobat l'extensió del certificat.
 sec-error-ca-cert-invalid = El certificat de l'emissor no és vàlid.
@@ -130,6 +137,7 @@ sec-error-cert-usages-invalid = El camp d'usos del certificat no és vàlid.
 sec-internal-only = **mòdul NOMÉS intern**
 sec-error-invalid-key = La clau no permet l'operació sol·licitada.
 sec-error-unknown-critical-extension = El certificat conté una extensió crítica desconeguda.
+sec-error-old-crl = La CRL nova no està després de l'actual.
 sec-error-no-email-cert = Sense xifratge o signatures: no teniu cap certificat d'adreça electrònica encara.
 sec-error-no-recipient-certs-query = Sense xifratge: no teniu certificats per a cada un dels destinataris.
 sec-error-not-a-recipient = No es pot desxifrar: no en sou un destinatari, o bé no s'ha trobat el certificat que coincideix i la clau privada.
@@ -143,6 +151,7 @@ xp-sec-fortezza-more-info = Seleccioneu una personalitat per aconseguir-ne més 
 xp-sec-fortezza-person-not-found = No s'ha trobat la personalitat
 xp-sec-fortezza-no-more-info = No hi ha més informació de la personalitat
 xp-sec-fortezza-bad-pin = El PIN no és vàlid
+sec-error-krl-invalid = La KRL nova no té un format vàlid.
 sec-error-need-random = biblioteca de seguretat: calen dades aleatòries.
 sec-error-no-module = biblioteca de seguretat: no hi ha cap mòdul de seguretat que pugui realitzar l'operació sol·licitada.
 sec-error-no-token = La targeta o el testimoni de seguretat no existeixen, cal que s'inicialitzin, o be s'han extret.
@@ -169,6 +178,7 @@ sec-error-js-invalid-module-name = El nom del mòdul no és vàlid.
 sec-error-js-invalid-dll = El mòdul del camí / nom del fitxer no és vàlid.
 sec-error-js-add-mod-failure = No s'ha pogut afegir el mòdul
 sec-error-js-del-mod-failure = No s'ha pogut suprimir el mòdul
+sec-error-old-krl = La KRL nova no és després que l'actual.
 sec-error-cert-not-in-name-space = No es permet a l'autoritat certificadora d'aquest certificat emetre un certificat amb aquest nom.
 sec-error-krl-not-yet-valid = La llista de revocació de claus d'aquest certificat encara no és vàlida.
 sec-error-crl-not-yet-valid = La llista de revocació de certificats d'aquest certificat encara no és vàlida.
@@ -224,3 +234,5 @@ sec-error-locked-password = La contrasenya s'ha blocat.
 sec-error-unknown-pkcs11-error = Error desconegut PKCS #11.
 sec-error-bad-crl-dp-url = URL no vàlida o no suportada al punt de distribució CRL.
 sec-error-cert-signature-algorithm-disabled = El certificat s'ha signat amb un algoritme que s'ha inhabilitat perquè no és segur.
+mozilla-pkix-error-key-pinning-failure = El servidor utilitza la fixació de claus (HPKP) però no s'ha pogut construir cap cadena de certificat que coincideixi amb el conjunt de claus fixes. Les infraccions de fixació de claus no es poden ometre.
+mozilla-pkix-error-ca-cert-used-as-end-entity = El servidor utilitza un certificat amb una extensió de restriccions bàsiques que l'identifica com a entitat certificadora. Això no hauria de passar amb un certificat que s'hagi emès correctament.
