@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Bandant užmegzti ryšį su { $hostname } įvyko klaida. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Klaidos kodas: { $error }
 psmerr-ssl-disabled = Nepavyko užmegzti saugaus ryšio, nes SSL protokolo naudojimas išjungtas.
 psmerr-ssl2-disabled = Nepavyko užmegzti saugaus ryšio, nes svetainė naudoja seną, nesaugią SSL protokolo atmainą.
 # This is a multi-line message.
@@ -128,6 +135,7 @@ ssl-error-feature-not-supported-for-ssl2 = SSL savybė nepalaikoma SSL 2.0 ryši
 ssl-error-feature-not-supported-for-servers = SSL savybė nepalaikoma serveriams.
 ssl-error-feature-not-supported-for-clients = SSL savybė nepalaikoma klientams.
 ssl-error-invalid-version-range = SLL versijų rėžis yra klaidingas.
+ssl-error-cipher-disallowed-for-version = SSL partnerinis kompiuteris parinko pasirinktai protokolo versijai neleidžiamą šifrų rinkinį.
 ssl-error-rx-malformed-hello-verify-request = SSL posistemė gavo netinkamai suformuotą „Hello Verify Request“ pasisveikinimo pranešimą.
 ssl-error-rx-unexpected-hello-verify-request = SSL posistemė gavo netikėtą „Hello Verify Request“ pasisveikinimo pranešimą.
 ssl-error-feature-not-supported-for-version = SSL savybė nepalaikoma šiai protokolo versijai.
@@ -193,6 +201,7 @@ sec-error-not-a-recipient = Iššifruoti nepavyko, nes jūs nesate gavėjas, arb
 sec-error-pkcs7-keyalg-mismatch = Iššifruoti nepavyko, nes rakto šifravimo algoritmas neatitinka jūsų liudijimo.
 sec-error-pkcs7-bad-signature = Nepavyko patikrinti parašo, nes nerastas pasirašytojas, arba jų rasta per daug, arba duomenys yra sugadinti.
 sec-error-unsupported-keyalg = Nepalaikomas arba nežinomas rakto algoritmas.
+sec-error-decryption-disallowed = Iššifruoti nepavyko, nes užšifruota naudojant neleidžiamą algoritmą arba rakto dydį.
 xp-sec-fortezza-bad-card = „Fortezza“ korta nebuvo tvarkingai inicijuota. Išimkite ją ir grąžinkite tam, kas ją suteikė.
 xp-sec-fortezza-no-card = „Fortezza“ kortų nerasta
 xp-sec-fortezza-none-selected = Nepasirinkta „Fortezza“ korta
@@ -332,3 +341,5 @@ mozilla-pkix-error-validity-too-long = Serveris pateikė per ilgai galiojantį l
 mozilla-pkix-error-required-tls-feature-missing = Trūksta privalomos TLS protokolo ypatybės.
 mozilla-pkix-error-invalid-integer-encoding = Serveris pateikė liudijimą su netinkamu sveiko skaičiaus užkodavimu. Įprastai taip būna dėl neigiamų serijos numerių, neigiamų RSA modulių arba užšifravimų, kurie yra ilgesni negu reikia.
 mozilla-pkix-error-empty-issuer-name = Serveris pateikė liudijimą su tuščiu išdavėjo unikaliu vardu.
+mozilla-pkix-error-additional-policy-constraint-failed = Tikrinant šį liudijimą nepavyko papildomas nuostatų apribojimas.
+mozilla-pkix-error-self-signed-cert = Liudijimu nepasitikima, nes jis yra pasirašytas paties gavėjo.
