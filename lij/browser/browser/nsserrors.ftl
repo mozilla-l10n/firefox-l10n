@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Gh'é stæto un erô durante a conescion a { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Còdice d'erô: { $error }
 psmerr-ssl-disabled = No pòsso conetime in manea segua perché o protocòllo SSL o l'é stæto dizabilitou.
 psmerr-ssl2-disabled = No pòsso conetime in manea segua perché o protocòllo SSL l'é inte 'na verscion vegia e no segua.
 ssl-error-export-only-server = No riescio a comunicâ in mòddo seguo. O peer no sopòrta 'n'erto graddo de criptaçion.
@@ -150,12 +157,14 @@ sec-error-bad-der = libraia de seguessa: notiçia DER-encoded mâ formata.
 sec-error-bad-signature = O certificato do Peer gh'à 'na firma ch'a no va ben.
 sec-error-expired-certificate = Certificato do Peer scheito.
 sec-error-revoked-certificate = Certificato do Peer revocou.
+sec-error-unknown-issuer = O pubricatô do certificato peer o no l'é conosciuo.
 sec-error-bad-key = A ciave pubrica do peer a no l'é valida.
 sec-error-bad-password = A paròlla segreta de seguessa l'é sbalia.
 sec-error-retry-password = Neuva paròlla segreta sbalia. Preuva ancon.
 sec-error-no-nodelock = libraia de seguessa: no blòcco do groppo (nodelock).
 sec-error-bad-database = libraia de seguessa: database cativo.
 sec-error-no-memory = libraia de seguessa: erô inta aloçion da memöia.
+sec-error-untrusted-issuer = O pubricatô do certificato peer o l'é stæto marcou comme no fiou da l'utente.
 sec-error-untrusted-cert = O certificato peer o l'é stæto marcou comme no fiou da l'utente.
 sec-error-duplicate-cert = Sto certificato gh'é za into teu database.
 sec-error-duplicate-cert-name = Descaregou 'n nomme do certificato ch'o gh'é za into teu database.
@@ -165,10 +174,13 @@ sec-error-no-key = A ciave privâ pe sto certificato no se peu trovâ into datab
 sec-error-cert-valid = Questo certificato o l'é valido.
 sec-error-cert-not-valid = Questo certificato o no l'é valido.
 sec-error-cert-no-response = Libreria di certificati: sensa rispòsta
+sec-error-expired-issuer-certificate = O certificato do pubricatô o l'é scheito. Contròlla a teu oa e dæta de scistema.
 sec-error-crl-expired = O CRL do certificato o l'é scheito. Agiornite ò contròlla a teu oa e dæta de scistema.
+sec-error-crl-bad-signature = O CRL pe-o pubricatô do certificato o l'à 'na firma che no va ben.
 sec-error-crl-invalid = O neuvo CRL o gh'à 'n formato che no va ben.
 sec-error-extension-value-invalid = O valô de l'estenscion do certificato o no l'é valido.
 sec-error-extension-not-found = Estenscion do certificato no trova.
+sec-error-ca-cert-invalid = Certificato do pubricatô no valido.
 sec-error-path-len-constraint-invalid = Costriçion da longhessa de l'indirisso do certificato no valida.
 sec-error-cert-usages-invalid = Canpo d'uzo do certificato no valido.
 sec-internal-only = **mòdolo SOLO interno**
@@ -182,6 +194,7 @@ sec-error-pkcs7-keyalg-mismatch = No pòsso decripta: a ciave do teu algoritmo d
 sec-error-pkcs7-bad-signature = Verifica da firma no ariescia: nisciunn-a firma trova, tròppe firme trovæ, ò dæti inpròpi ò aroinæ.
 sec-error-unsupported-keyalg = Algoritmo da ciave no conosciuo ò no soportou.
 sec-error-decryption-disallowed = No pòsso decripta: criptou con 'n algoritmo ò 'na dimenscion da ciave no permissa.
+xp-sec-fortezza-bad-card = A carta Fortezza a no l'é stæta inandiâ ben. Pe piaxei levila da mezo e dannila a-o teu pubricatô.
 xp-sec-fortezza-no-card = Nisciunn-a carta Fortezza atrovâ
 xp-sec-fortezza-none-selected = Nisciunn-a carta Fortezza seleçionâ
 xp-sec-fortezza-more-info = Pe piaxei seleçionn-a 'na personalitæ pe avei ciù informaçion
@@ -235,6 +248,7 @@ sec-error-js-invalid-module-name = Nomme do mòdolo no valido.
 sec-error-js-add-mod-failure = No riescio a azonze o mòdolo
 sec-error-js-del-mod-failure = No riescio a scancelâ o mòdolo
 sec-error-old-krl = A neuva KRL a l'é ciù vegia da corente.
+sec-error-ckl-conflict = A neuva CKL a l'à 'n pubricatô diverso dò-u corente CKL. Scancella a CLK corente.
 sec-error-cert-not-in-name-space = L'aotoritæ ch'a certifica sto certificato a no l'é aotorizâ a publicâ certificati con sto nomme.
 sec-error-krl-not-yet-valid = A lista ciave de revocaçion de sto certificato no l'é ancon valida.
 sec-error-crl-not-yet-valid = A lista de revocaçion de sto certificato no l'é ancon valida.
@@ -261,12 +275,18 @@ sec-error-unsupported-message-type = O tipo de notiçia CMS ò PKCS #7 o no l'é
 sec-error-module-stuck = O mòdolo PKCS #7 no peu ese scancelou perché o l'é ancon in uzo.
 sec-error-bad-template = No pòsso decodificâ dæti ASN.1. O template o no l'é valido.
 sec-error-crl-not-found = Nisciun CRL atrovou.
+sec-error-reused-issuer-and-serial = Ti stæ inportando 'n certificato co-o mæximo pubricatô/numero de serie de un ch'o gh'é za, ma o no l'é pægio.
 sec-error-busy = NSS no peu asmortase. L'ògetto o l'é ancon in uzo.
 sec-error-extra-input = Notiçia DER-encoded contegne dæti extra no adeuviæ.
 sec-error-unsupported-elliptic-curve = Curva elitica no soportâ.
 sec-error-unsupported-ec-point-form = Form point da curva elitica no soportâ.
 sec-error-unrecognized-oid = Identificatô de l'ògetto iriconoscibile.
 sec-error-ocsp-invalid-signing-cert = Firma OCSP do certificato no valida inta risposta OCSP.
+sec-error-revoked-certificate-crl = O certificato l'é revocou inta lista de revocaçion do pubricatô.
+sec-error-revoked-certificate-ocsp = O responditô OCSP do pubricatô o dixe ch'o certificato o l'é revocou.
+sec-error-crl-invalid-version = A lista di certificati de revocaçion do pubricatô gh'à 'n numero verscion ch'o no l'é conosciuo.
+sec-error-crl-v1-critical-extension = A lista di certificati de revocaçion do pubricatô V1 gh'à 'na estenscion critica.
+sec-error-crl-unknown-critical-extension = A lista di certificati de revocaçion do pubricatô V2 gh'à 'na estenscion critica ch'a no l'é conosciua.
 sec-error-unknown-object-type = Tipo de ògetto specificou sconosciuo.
 sec-error-incompatible-pkcs11 = L'aparato PKCS #11 o l'à violou o spec inte 'n mòddo no conpatibile.
 sec-error-crl-already-exists = O CRL gh'é za.
@@ -302,4 +322,6 @@ mozilla-pkix-error-ocsp-response-for-cert-missing = A risposta OCSP a no l'inclu
 mozilla-pkix-error-validity-too-long = O server o deuvia un certificato con in periodo de validitæ tròppo longo.
 mozilla-pkix-error-required-tls-feature-missing = 'Na fonçion TLS öbligatòia a no gh'é.
 mozilla-pkix-error-invalid-integer-encoding = O server o m'à prezetou un certificato ch'o contegne un intrego de codifica no valido. Questo o peu êse caozou da numeri seriali negativi, mòdolo RSA negativi, e codifiche che òrmai no servan ciù.
+mozilla-pkix-error-empty-issuer-name = O server o l'à fornio un certificato ch'o no l'à o nomme do pubricatô.
 mozilla-pkix-error-additional-policy-constraint-failed = Ina regola azonta a-a politica a l'à falio inta validaçion do certificato.
+mozilla-pkix-error-self-signed-cert = O certificato o no l'é fidou perché o s'é firmou da solo.
