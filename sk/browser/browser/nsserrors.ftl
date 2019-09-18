@@ -327,4 +327,5 @@ mozilla-pkix-error-not-yet-valid-issuer-certificate = Na vydanie certifikátu se
 mozilla-pkix-error-signature-algorithm-mismatch = Algoritmus podpisu sa v podpisovom poli certifikátu nezhoduje s algoritmom v poli signatureAlgorithm.
 mozilla-pkix-error-ocsp-response-for-cert-missing = Odpoveď OCSP neobsahuje stav pre overovaný certifikát.
 mozilla-pkix-error-validity-too-long = Server poskytol certifikát, ktorý je platný už príliš dlho.
+mozilla-pkix-error-required-tls-feature-missing = Požadovaná funkcia TLS chýba.
 mozilla-pkix-error-invalid-integer-encoding = Server predložil certifikát, ktorý obsahuje neplatné kódovanie čísiel. Medzi bežné príčiny patria záporné sériové čísla, záporné 'RSA moduli' a kódovania, ktoré sú dlhšie než je potrebné.
