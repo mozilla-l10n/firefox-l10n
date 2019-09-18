@@ -145,6 +145,7 @@ sec-error-extension-not-found = រក​មិន​ឃើញ​ផ្នែក
 sec-error-ca-cert-invalid = វិញ្ញាបនបត្រ​របស់​អ្នក​ចេញ​ផ្សាយ​មិន​ត្រឹមត្រូវ​ឡើយ ។
 sec-error-path-len-constraint-invalid = កម្រិត​ប្រវែង​ផ្លូវ​របស់​វិញ្ញាបនបត្រ​មិន​ត្រឹមត្រូវ​ទេ ។
 sec-error-cert-usages-invalid = វាល​ក្នុង​ការ​ប្រើ​វិញ្ញាបនបត្រ​មិន​ត្រឹមត្រូវ​ទេ ។
+sec-internal-only = **តែ​ខាងក្នុង​ម៉ូឌុល​ប៉ុណ្ណោះ**
 sec-error-invalid-key = សោ​មិន​គាំទ្រ​ប្រតិបត្តិការ​ដែល​បាន​ស្នើ​ទេ ។
 sec-error-unknown-critical-extension = កម្រិត​វិញ្ញាបនបត្រ​ដែល​មិន​ស្គាល់​ផ្នែក​បន្ថែម​សំខាន់​បំផុត ។
 sec-error-old-crl = CRL ថ្មី​​​​មិន​តិច​ជាង​មួយ​បច្ចុប្បន្ន​ឡើយ ។
