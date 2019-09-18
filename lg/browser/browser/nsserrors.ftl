@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This is a multi-line message.
+psmerr-hostreusedissuerandserial =
+    Ofunye olukusa olukyamu.  Bambi tuukirira omukulu w'enfo egabirira oba akola ku ndagiriro awafunirwa n'okusindikira obubaka ku utimbagano era obawe amawulire gano:
+    
+    Olukusa lwo lirina emiwendo egifaanagana n'olukusa olulala olwagabwa ab'obuyinza.  Bambi funa olukusa oluggya nga lulina omuwendo omwawufu.
 ssl-error-no-cypher-overlap = Tosobola kuwulizigannya n'akakiiko bulungi: tewali miwendo gy'awamu gikakasa(s).
 ssl-error-no-certificate = Tekisobose kuzuula lukusa oba kisumuluzo kyetagisa okukakasa.
 ssl-error-bad-client = Enfo egabiliira efunyemu okukyankalanyizibwa okuva mu betuwereza.
@@ -102,6 +107,9 @@ ssl-error-certificate-unobtainable-alert = Akakiiko ka SSL tekaasobodde kufuna l
 ssl-error-unrecognized-name-alert = Akakiiko ka SSL tekarina lukusa ku linnya lya DNS esabiddwa.
 ssl-error-bad-cert-status-response-alert = Akakiiko ka SSL tekasobodde kufuna kuddibwamu kwa OCSP ku nsonga za lukusa lwako.
 ssl-error-bad-cert-hash-value-alert = Akakiiko ka SSL kalaze olukusa olukyamu.
+ssl-error-unsafe-negotiation = Enkola y'okusika mu mikono enkadde eyagezezzaako (yabadde mu matigga).
+ssl-error-rx-unexpected-uncompressed-record = SSL yafunnye okulabulwa okutasuubirwa.
+ssl-error-weak-server-ephemeral-dh-key = SSL yafunye akasumuluzo akanafu mu bisumuluzo by'enfo mukuwanyisiganya obubaka bw'okusikanga mu mikono.
 sec-error-io = Ensobi ya I/O yabaddewo mukukakasa ebyokwerinda.
 sec-error-library-failure = eby'okwerinda tebisobodde.
 sec-error-bad-data = ebyo kwerinda bifunye amawulire agatali malungi.
@@ -170,6 +178,7 @@ sec-error-bad-nickname = Erinnya ly'olukisa lisangiddwamu.
 sec-error-not-fortezza-issuer = Enkola za FORTEZZA zirina olukusa olutali lwa FORTEZZA.
 sec-error-cannot-move-sensitive-key = Ekisumuluzo eky'entondo tekisobola kutwalibwa mu kifo we kyetagibwa.
 sec-error-js-invalid-module-name = Erinnya ly'ekitundu ssi ttuufu.
+sec-error-js-invalid-dll = Ekkubo/erinnya lya fayiro ly'ekitundu ssi ttuufu
 sec-error-js-add-mod-failure = Tesobola ku gattako kitundu
 sec-error-js-del-mod-failure = Tekikiribwa ku sangula kitundu
 sec-error-old-krl = Enklola empya eya KRL nkadde n'okusinga eriwo kati.
@@ -212,3 +221,16 @@ sec-error-crl-already-exists = CRL mweri.
 sec-error-not-initialized = NSS tennatandiisibwa.
 sec-error-token-not-logged-in = Kyokoze kigannyi kubanga PKCS#11 teyingiziddwa.
 sec-error-ocsp-bad-signature = OCSP eddamu erina omukono omukyamu.
+sec-error-out-of-search-limits = Okunonya obukakafu bw'olukusa kuli wa bweru wa bisoboka okunonyereza
+sec-error-invalid-policy-mapping = Okutunuulira enkola kuzingiramu enkola zonna
+sec-error-policy-validation-failed = Emitendera gy'olukusa giremesa okukakasa kw'enkola
+sec-error-unknown-aia-location-type = Ekika ky'ekifo ekitamanyiddwa mu kugaziya AIA
+sec-error-bad-http-response = Enfo egabirira ekomezzaawo okuddamu kwa HTTP okubi
+sec-error-bad-ldap-response = Enfo egabirira ekomezzaawo okuddamu kwa LDAP okubi
+sec-error-failed-to-encode-data = Eremereddwa okusiba obubaka ne ASN1
+sec-error-bad-info-access-location = Ekifo ekibi okufuniramu amawulire mu kugaziya olukusa
+sec-error-libpkix-internal = Ensobi ya Libpkix ey'omunda yatuuseewo mu kukakasa olukusa.
+sec-error-pkcs11-general-error = Ekitundu kya  PKCS #11yakomezzaawo CKR_GENERAL_ERROR, ekuraga nti ensobi etesobola kuterezebwa ya baddewo.
+sec-error-pkcs11-device-error = Ekitundu kya  PKCS #11yakomezzaawo  CKR_DEVICE_ERROR, okulaga obuzibu obubaddewo.
+sec-error-bad-info-access-method = Enkola y'okufunamu amawulire mu kugaziya olukusa.
+sec-error-crl-import-failed = Ensobi mu kugezzaako okufuna CRL.
