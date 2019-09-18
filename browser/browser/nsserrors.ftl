@@ -59,6 +59,7 @@ ssl-error-rx-unknown-handshake = SSL heɓii jowtaango wondungo e fannu loowdi nd
 ssl-error-rx-unknown-alert = SSL heɓii nanngitol jeertino gondungol e cifagol jeertino ngol anndaaka.
 ssl-error-close-notify-alert = SSL peer uddii ngol ceŋol.
 ssl-error-handshake-unexpected-alert = SSL peer tijjanooki heɓde ɓatakol jowtaango keɓangol ngol.
+ssl-error-sign-hashes-failure = Horiima siifde keɓe e mbaydi ngaandiwal ngam ƴeewtaade seedamfaagu maa.
 sec-error-old-crl = Ñalnde CRL ndee ɓuri wonaande ndee lawɗude.
 sec-error-krl-invalid = Mbayka doggol kesol kele diiwtaaɗe ɗee moƴƴaani.
 sec-error-exporting-certificates = Juumre e etagol jiggitaade seedamfaaje.
