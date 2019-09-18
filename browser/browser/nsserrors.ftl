@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = En feil oppstod under tilkobling til { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Feilkode: { $error }
 psmerr-ssl-disabled = Kan ikke koble til sikkert, fordi SSL-protokollen er avslått.
 psmerr-ssl2-disabled = Kan ikke koble til sikkert, fordi nettstedet bruker en eldre, usikker versjon av SSL-protokollen.
 # This is a multi-line message.
@@ -94,6 +101,7 @@ ssl-error-token-insertion-removal = Et PKCS#11 element ble satt inn eller slette
 ssl-error-token-slot-not-found = Ingen PKCS#11 elementer ble funnet for å gjøre nødvendig operasjon.
 ssl-error-no-compression-overlap = Kan ikke kommunisere sikkert med verten: Har ingen felles komprimeringsalgoritme.
 ssl-error-handshake-not-completed = Kan ikke initiere flere SSL-håndhilsener før nåværende håndhilsen er fullført.
+ssl-error-bad-handshake-hash-value = Mottok uriktig hashverdi for handshaking fra motparten.
 ssl-error-cert-kea-mismatch = Det mottatte sertifikatet kan ikke brukes med den valgte nøkkelutvekslingsalgoritmen.
 ssl-error-no-trusted-ssl-client-ca = Ingen sertifikatsautoriteter er tiltrodd for SSL klientautentisering.
 ssl-error-session-not-found = Klientens SSL økt-ID ble ikke funnet i serverens økt-hurtiglager.
@@ -333,3 +341,5 @@ mozilla-pkix-error-validity-too-long = Serveren presenterte et sertifikat som ha
 mozilla-pkix-error-required-tls-feature-missing = En påkrevd TLS-funksjon mangler.
 mozilla-pkix-error-invalid-integer-encoding = Serveren oppgav et sertifikat som inneholder en ugyldig koding av et tall. Vanlige årsaker er negative serienumre, negative RSA-modulus, eller kodinger som er lengre enn nødvendig.
 mozilla-pkix-error-empty-issuer-name = Serveren presenterte et sertifikat med et tomt unikt utstedernavn.
+mozilla-pkix-error-additional-policy-constraint-failed = En ytterligere policy-begrensning mislyktes ved validering av dette sertifikatet.
+mozilla-pkix-error-self-signed-cert = Sertifikatet er ikke tiltrodd fordi det er selvsignert.
