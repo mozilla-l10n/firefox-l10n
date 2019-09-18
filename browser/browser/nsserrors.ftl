@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Une erreur est survenue pendant une connexion à { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Code d’erreur : { $error }
 psmerr-ssl-disabled = Connexion sécurisée impossible car le protocole SSL a été désactivé.
 psmerr-ssl2-disabled = Connexion sécurisée impossible car le site utilise une ancienne version non sûre du protocole SSL.
 # This is a multi-line message.
@@ -335,3 +342,4 @@ mozilla-pkix-error-required-tls-feature-missing = Une fonctionnalité TLS néces
 mozilla-pkix-error-invalid-integer-encoding = Le serveur a présenté un certificat contenant un entier mal encodé. Les raisons les plus fréquentes sont des numéros de série négatifs, des modules RSA négatifs ou des encodages plus longs que nécessaire.
 mozilla-pkix-error-empty-issuer-name = Le serveur a présenté un certificat où le nom unique de l’autorité de délivrance est vide.
 mozilla-pkix-error-additional-policy-constraint-failed = Une contrainte de stratégie supplémentaire a échoué lors de la validation de ce certificat.
+mozilla-pkix-error-self-signed-cert = Le certificat n’est pas sûr car il est auto-signé.
