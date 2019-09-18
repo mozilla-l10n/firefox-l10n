@@ -254,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Plug-in-gebruik beheren">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Wijzigen of u notificaties van de website kunt ontvangen">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gegevens in permanente opslag bewaren">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browser wordt op afstand bestuurd">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Paneel Webauthenticatie openen">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Toestemmingspaneel voor surfactiviteit openen">
@@ -439,8 +440,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Wilt u hier uw tabbladen van andere apparaten zien?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Sync-voorkeuren openen">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Meld u aan om een lijst van tabbladen van uw andere apparaten weer te geven.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Bekijk een lijst met tabbladen van uw overige apparaten.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Uw account moet worden geverifieerd.">
 <!ENTITY appMenuRemoteTabs.signin.label "Aanmelden bij Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Aanmelden bij &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "&syncBrand.shortName.label; inschakelen…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Apparaten beheren…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Weergeven in zijbalk">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Zijbalk met gesynchroniseerde tabbladen verbergen">
