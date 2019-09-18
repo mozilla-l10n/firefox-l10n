@@ -333,3 +333,5 @@ mozilla-pkix-error-ocsp-response-for-cert-missing = La respuesta OCSP no incluye
 mozilla-pkix-error-validity-too-long = El servidor presentó un certificado que es válido por demasiado tiempo.
 mozilla-pkix-error-required-tls-feature-missing = Una característica TLS requerida está faltando.
 mozilla-pkix-error-invalid-integer-encoding = El servidor presentó un certificado que contiene una codificación de un entero inválida. Las causas comunes incluyen números de serie negativos, módulo RSA negativo y codificaciones que sean más largas que lo necesario.
+mozilla-pkix-error-empty-issuer-name = El servidor presentó un certificado con un nombre distinguido de emisor vacío.
+mozilla-pkix-error-additional-policy-constraint-failed = Una restricción de política adicional falló al validar este certificado.
