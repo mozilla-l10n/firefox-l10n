@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Xk'ulwachitäj jun sachoj toq ntajin ri okem pa { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Rusachoj b'itz'ib': { $error }
 psmerr-ssl-disabled = Man tikirel ta nokisäx pa ütz rub'eyal ruma chi ri SSL rub'eyal samaj xchup.
 psmerr-ssl2-disabled = Man tikirel ta nok ütz, ruma chi ri ruxaq k'amaya'l tajin nrokisaj jun ojer chuqa' man ütz ta ruwäch chi SSL rub'eyal samaj.
 # This is a multi-line message.
@@ -186,6 +193,7 @@ sec-error-path-len-constraint-invalid = Ri ruq'atij rusamaj raqän ri rub'ey ruw
 sec-error-cert-usages-invalid = Ri kik'ojlemal kokisaxik ruwujil b'i'aj man okel ta.
 sec-internal-only = **Juperaj ONLY chupam**
 sec-error-invalid-key = Ri ewan tzij man nuya' taq q'ij chi re ri samaj nik'utüx.
+sec-error-unknown-critical-extension = Ri ruwujil b'i'aj k'o jun k'ayew ruk'amal, ri man etaman ta ruwäch.
 sec-error-old-crl = Ri k'ak'a' CRL man chi rij ta ri k'o wakami.
 sec-error-no-email-cert = Man ewan ta rusik'ixik o man juch'un b'i'aj ta: k'a majani k'o jun ruwujil rub'i' taqoya'l.
 sec-error-no-recipient-certs-query = Man ewan ta rusik'ixik: man k'o ta taq ruwujil b'i'aj kichin chi kijujunal ri taq aq'e'n.
@@ -302,12 +310,15 @@ sec-error-not-initialized = Man tikirinäq ta ri NSS.
 sec-error-token-not-logged-in = Xsach ri samaj ruma chi ri PKCS#11 token man rutikirisan ta molojri'ïl.
 sec-error-ocsp-responder-cert-invalid = Man okel ta ri ruwujil rub'i' nuk'samajin richin ri OCSP tzolïy tzij.
 sec-error-ocsp-bad-signature = Ri OCSP tzolin tzij man okel ta jun rujuch'b'i'aj.
+sec-error-out-of-search-limits = Ri rukanoxik rujunamana'oj iqitzijib'äl xuk'owisaj kichi' kanoxïk
 sec-error-invalid-policy-mapping = Ri kiwachisetul taq na'ojil ruk'wan anypolicy
+sec-error-policy-validation-failed = Ri kicholajem iqitzijib'äl nisach rik'in ri kina'ojil junamana'oj
 sec-error-unknown-aia-location-type = Man etaman ta ruwäch ri ruwäch k'ojlemal pa ri k'amal AIA ruwujil b'i'aj
 sec-error-bad-http-response = Ri ruk'u'x samaj xutzolij pe jun itzel HTTP tzolin tzij
 sec-error-bad-ldap-response = Ri ruk'u'x samaj xutzolij pe jun itzel tzolin rutzij LDAP
 sec-error-failed-to-encode-data = Sachol toq yecholajïx ri taq tzij rik'in ri ASN1 cholanel
 sec-error-bad-info-access-location = Man okel ta ri rochochib'al okem pa etamab'äl pa ruk'amal ruwujil b'i'aj
+sec-error-libpkix-internal = Xk'ulwachitäj jun sachol Libpkix chupam toq nijunamana'ojïx ri iqitzijib'äl.
 sec-error-pkcs11-general-error = Jun PKCS #11 juperaj, xutzolij pe CKR_GENERAL_ERROR, akuchi' nuya' rutzijol chi xk'ulwachitäj jun sachoj, ri ma kolotel ta.
 sec-error-pkcs11-function-failed = Jun PKCS #11 xutzolij CKR_FUNCTION_FAILED, akuchi' nuya' rutzijol chi ri samaj xk'utüx man tikirel nisamajïx. We nitojtob'ëx chik re samaj re', rik'in jub'a' ütz xtub'än.
 sec-error-pkcs11-device-error = Jun PKCS #11 xutzolij CKR_DEVICE_ERROR, akuchi' nuya' rutzijol chi xk'ulwachitäj jun k'ayewal rik'in ri token o slot.
@@ -330,3 +341,5 @@ mozilla-pkix-error-validity-too-long = Ri ruk'u'x samaj xuk'üt jun ruwujil b'i'
 mozilla-pkix-error-required-tls-feature-missing = Nrajo' na jun rajowaxik rub'anikil TLS.
 mozilla-pkix-error-invalid-integer-encoding = Ri ruk'u'x samaj xuk'üt jun ruwujil b'i'aj, ri k'o jun ütz runuk'unik jun chijun. Ri relik taq aruma erachib'ilan ri xokonil taq rajilab'al jun cholajem, xokonil RSA taq juperaj, chuqa' taq nuk'unïk ri kan e yuquyäq chuwäch ri nik'atzin.
 mozilla-pkix-error-empty-issuer-name = Ri ruk'u'x samaj xuk'üt jun iqitzijib'äl rik'in jun nimaläj b'i'aj  kowöl tikirisanel tzij.
+mozilla-pkix-error-additional-policy-constraint-failed = Jun rutz'aqat ruq'atoj rusamaj na'ojil xsach toq nujikib'a' re iqitzijib'äl re'.
+mozilla-pkix-error-self-signed-cert = Man ütz ta re jun ruwujil b'i'aj re' ruma chi yonijuch'un.
