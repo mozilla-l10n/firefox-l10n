@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Digwyddodd gwall wrth gysylltu â { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Cod gwall: { $error }
 psmerr-ssl-disabled = Methu cysylltu'n ddiogel oherwydd bod y protocol SSL wedi ei analluogi.
 psmerr-ssl2-disabled = Methu cysylltu'n ddiogel oherwydd bod y wefan'n defnyddio hen fersiwn anniogel o brotocol SSL.
 # This is a multi-line message.
@@ -332,3 +339,5 @@ mozilla-pkix-error-validity-too-long = Cyflwynodd y gweinydd dystysgrif sy'n ddi
 mozilla-pkix-error-required-tls-feature-missing = Mae'r nodwedd TLS angenrheidiol ar goll.
 mozilla-pkix-error-invalid-integer-encoding = Cyflwynodd y gweinydd dystysgrif sy'n cynnwys math annilys o amgodio integer. Mae'r rhesymau cyffredin yn cynnwys rhifau cyfresol negyddol, moduli RSA negyddol, ac amgodio nad ydynt eu hangen bellach.
 mozilla-pkix-error-empty-issuer-name = Cyflwynodd y gweinydd dystysgrif gydag enw cyhoeddwr penodol gwag.
+mozilla-pkix-error-additional-policy-constraint-failed = Methodd cyfyngiad polisi ychwanegol wrth ddilysu'r dystysgrif hon.
+mozilla-pkix-error-self-signed-cert = Nid oes modd ymddiried yn y dystysgrif am ei fod wedi ei hunanlofnodi.
