@@ -338,6 +338,7 @@ mozilla-pkix-error-not-yet-valid-issuer-certificate = Për emetimin e dëshmisë
 mozilla-pkix-error-signature-algorithm-mismatch = Algoritmi i nënshkrimit tek fusha e nënshkrimit të dëshmisë s’përputhet me algoritmin te fusha e vet signatureAlgorithm.
 mozilla-pkix-error-ocsp-response-for-cert-missing = Përgjigja OCSP s’përmban gjendje për dëshminë që po verifikohet.
 mozilla-pkix-error-validity-too-long = Shërbyesi paraqiti një dëshmi që është e vlefshme për një kohë shumë të gjatë.
+mozilla-pkix-error-required-tls-feature-missing = Mungon një veçori TLS e domosdoshme.
 mozilla-pkix-error-invalid-integer-encoding = Shërbyesi paraqiti një dëshmi që përmban kodim të pavlefshëm të një numri të plotë. Ndër shkaqet e rëndomtë përfshihen numra seriale negativë, module RSA negativë, dhe kodime që janë më të gjatë se sa është e nevojshme.
 mozilla-pkix-error-empty-issuer-name = Shërbyesi paraqiti një dëshmi me emër të dalluar lëshuesi të zbrazët.
 mozilla-pkix-error-additional-policy-constraint-failed = Dështoi një kufizim shtesë rregulli teksa vleftësohej kjo dëshmi.
