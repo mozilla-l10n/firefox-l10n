@@ -259,3 +259,4 @@ sec-error-cert-signature-algorithm-disabled = Sertifikāts tika parakstīts ar p
 mozilla-pkix-error-key-pinning-failure = The server uses key pinning (HPKP) but no trusted certificate chain could be constructed that matches the pinset. Key pinning violations cannot be overridden.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Serveris izmanto sertifikātu ar pamata ierobežojumu paplašinājumu (basic constraints extension) kā tā sertifikātu autoritāti. Korekti izsniegtiem sertifikātiem nevajadzētu būt šādi.
 mozilla-pkix-error-inadequate-key-size = Serveris piedāvāja sertifikātu ar pārāk mazu atslēgas garumu, lai izveidotu drošu savienojumu.
+mozilla-pkix-error-v1-cert-used-as-ca = X.509 1. versijas sertifikāts, kas nav drošs tika izmantots, lai izsniegtu servera sertifikātu. X.509 1. versijas sertifikāti ir novecojuši un tos vairs nevajadzētu izmantot.
