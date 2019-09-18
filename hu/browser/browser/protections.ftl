@@ -37,6 +37,7 @@ social-tab-title = Közösségimédia-követők
 social-tab-contant = A közösségi hálózatok nyomkövetőket helyeznek el más weboldalakon, hogy kövessék mit tesz, lát és néz online. Így a közösségi médiával foglalkozó cégek többet tudhatnak meg Önről, mint amit megoszt a közösségimédia-profiljaiban. <a data-l10n-name="learn-more-link">További tudnivalók</a>
 cookie-tab-title = Webhelyek közötti nyomkövető sütik
 tracker-tab-title = Nyomkövető tartalom
+tracker-tab-description = A weboldalak külső hirdetéseket, videókat és más nyomkövető kódot tartalmazó tartalmat tölthetnek be. A nyomkövető tartalmak blokkolása az oldalak gyorsabb betöltését eredményezheti, de egyes gombok, űrlapok és bejelentkezési mezők lehet, hogy nem fognak működni. <a data-l10n-name="learn-more-link">További tudnivalók</a>
 fingerprinter-tab-title = Ujjlenyomat-készítők
 fingerprinter-tab-content = A ujjlenyomat-készítők beállításokat gyűjtenek a böngészőjéből és számítógépéből, hogy profilt hozzanak létre Önről. A digitális ujjlenyomat használatával követhetik Ön a különböző webhelyek között. <a data-l10n-name="learn-more-link">További tudnivalók</a>
 cryptominer-tab-title = Kriptobányászok

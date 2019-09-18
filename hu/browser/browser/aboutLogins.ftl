@@ -61,6 +61,9 @@ about-logins-login-list-empty-search-description = Nincs találat, amely megfele
 login-list-item-title-new-login = Új bejelentkezés
 login-list-item-subtitle-new-login = Adja meg a bejelentkezési adatait
 login-list-item-subtitle-missing-username = (nincs felhasználónév)
+about-logins-list-item-warning-icon =
+    .alt = Figyelmeztetés ikon
+    .title = Adatsértésben érintett weboldal
 
 ## Introduction screen
 
