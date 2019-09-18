@@ -5,7 +5,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = { $hostname } सोबत जुळवणी स्थापीत करताना त्रुटी आढळली. { $errorMessage }{ " " }
+ssl-connection-error = { $hostname } सोबत जुळवणी स्थापीत करताना त्रुटी आढळली. { $errorMessage }
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = त्रुटी कोड: { $error }
@@ -336,7 +336,7 @@ mozilla-pkix-error-v1-cert-used-as-ca = सर्व्हरचे प्रम
 mozilla-pkix-error-not-yet-valid-certificate = सर्व्हरने अद्याप वैध नसलेले एक प्रमाणपत्र सादर केले.
 mozilla-pkix-error-not-yet-valid-issuer-certificate = सर्व्हरचे प्रमाणपत्र जारी करण्यासाठी अद्याप वैध नसलेले प्रमाणपत्र वापरले गेले.
 mozilla-pkix-error-signature-algorithm-mismatch = प्रमाणपत्राच्या स्वाक्षरी रकान्यातील स्वाक्षरी अल्गोरिदम त्याच्या signatureAlgorithm रकान्यासोबत जुळत नाही.
-mozilla-pkix-error-ocsp-response-for-cert-missing = सत्यापित करत असलेल्या प्रमाणपत्रासाठी, OCSP प्रतिसादा मध्ये त्याची स्थिती दिलेली नाही.{ " " }
+mozilla-pkix-error-ocsp-response-for-cert-missing = सत्यापित करत असलेल्या प्रमाणपत्रासाठी, OCSP प्रतिसादा मध्ये त्याची स्थिती दिलेली नाही.
 mozilla-pkix-error-validity-too-long = सर्व्हरने खूप काळासाठी वैध असलेले एक प्रमाणपत्र सादर केले.
 mozilla-pkix-error-required-tls-feature-missing = एक आवश्यक, TLS वैशिष्ट्य गहाळ झाले आहे.
 mozilla-pkix-error-invalid-integer-encoding = पूर्णांकाची अवैध एन्कोडिंग असलेले प्रमाणपत्र सर्व्हरने सादर केले आहे. सर्वसामान्य कारणांमध्ये उणे अनुक्रमांक, उणे RSA moduli आणि आवश्यकतेपेक्षा अधिक काळ असलेले एन्कोडिंग यांचा समावेश आहे.
