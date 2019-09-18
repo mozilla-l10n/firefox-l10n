@@ -220,3 +220,6 @@ sec-error-ocsp-bad-signature = OCSP ଉତ୍ତରରେ ଗୋଟିଏ ଅବ
 sec-error-invalid-policy-mapping = ନିତୀ ମେଳକରେ ଯେକୌଣସି ନିତୀ ଅଛି
 sec-error-policy-validation-failed = ପ୍ରମାଣପତ୍ର ଶୃଙ୍ଖଳ ନିତୀ ବୈଧିକରଣକୁ ବିଫଳ କରିଥାଏ
 sec-error-unknown-aia-location-type = ପ୍ରମାଣପତ୍ର AIA ଅନୁଲଗ୍ନରେ ଅଜଣା ଅବସ୍ଥାନ ପ୍ରକାର
+sec-error-expired-password = ପ୍ରବେଶ ସଂକେତର ସମୟ ସମାପ୍ତ ହୋଇଛି।
+sec-error-locked-password = ପ୍ରବେଶ ସଂକେତଟି ଅପରିବର୍ତ୍ତନୀୟ ହୋଇଛି।
+sec-error-unknown-pkcs11-error = ଅଜଣା PKCS #11 ତ୍ରୁଟି।
