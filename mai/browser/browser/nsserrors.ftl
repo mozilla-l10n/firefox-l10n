@@ -242,3 +242,4 @@ sec-error-expired-password = कूटशब्द केर समय समा
 sec-error-locked-password = कूटशब्द लाक अछि.
 sec-error-unknown-pkcs11-error = अज्ञात PKCS #11 त्रुटि.
 sec-error-bad-crl-dp-url = CRL वितरण बिंदु नाम मे अमान्य अथवा असमर्थित URL.
+sec-error-cert-signature-algorithm-disabled = एहि प्रमाणपत्र केँ हस्ताक्षर अलगोरिथम केर उपयोग सँ हस्ताक्षरित कएल गेल जे निष्क्रिय अछि किएक ई सुरक्षित नहि अछि.
