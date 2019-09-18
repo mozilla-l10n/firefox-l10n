@@ -155,6 +155,16 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "r">
 <!ENTITY spellAddDictionaries.label     "Last ned flere ordbøker …">
 <!ENTITY spellAddDictionaries.accesskey "L">
+
+<!ENTITY fillLoginMenu.label          "Fyll ut innlogging">
+<!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillPasswordMenu.label       "Fyll inn passord">
+<!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.label       "Fyll inn brukernavn">
+<!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY noLoginSuggestions.label     "(Ingen innloggingsforslag)">
+<!ENTITY viewSavedLogins.label        "Vis lagrede innlogginger">
+
 <!-- Developer Tools -->
 <!ENTITY devtoolsInspect.label          "Inspiser element">
 <!ENTITY devtoolsInspect.accesskey      "n">
