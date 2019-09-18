@@ -310,5 +310,6 @@ mozilla-pkix-error-not-yet-valid-issuer-certificate = Um certificado que ainda n
 mozilla-pkix-error-signature-algorithm-mismatch = O algoritmo de assinatura no campo 'signature' do certificado não corresponde ao algoritmo no seu campo 'signatureAlgorithm'.
 mozilla-pkix-error-ocsp-response-for-cert-missing = A resposta OCSP não inclui um estado para poder verificar o certificado.
 mozilla-pkix-error-validity-too-long = O servidor apresentou um certificado que é válido por muito tempo.
+mozilla-pkix-error-required-tls-feature-missing = Falta uma funcionalidade TLS necessária.
 mozilla-pkix-error-invalid-integer-encoding = O servidor apresentou um certificado que contém uma codificação inválida de um inteiro. As causas comuns incluem números de série negativos, módulos RSA negativos e codificações que não são necessárias.
 mozilla-pkix-error-empty-issuer-name = O servidor apresentou um certificado faltando o nome de emissor.
