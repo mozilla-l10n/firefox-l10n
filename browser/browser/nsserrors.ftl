@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = 连接到 { $hostname } 时发生错误。{ $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = 错误代码：{ $error }
 psmerr-ssl-disabled = 由于 SSL 协议已被禁用，无法安全地连接。
 psmerr-ssl2-disabled = 由于该站点使用了旧的不安全版本的SSL协议，无法安全地连接。
 ssl-error-export-only-server = 无法安全通信。对等端不支持高等级加密。
@@ -94,6 +101,7 @@ ssl-error-no-trusted-ssl-client-ca = 没有可信任的证书授权进行 SSL �
 ssl-error-session-not-found = 在服务器的会话缓存上没有找到客户端的 SSL 会话 ID。
 ssl-error-decryption-failed-alert = 对等端无法解密收到的一个 SSL 记录。
 ssl-error-record-overflow-alert = 对等端收到了一个超出允许范围的 SSL 记录。
+ssl-error-unknown-ca-alert = 对等端不认可且不信任给您颁发证书的机构。
 ssl-error-access-denied-alert = 对等端收到了有效的证书，但是访问被拒绝。
 ssl-error-decode-error-alert = 对等端无法解码一个 SSL 握手消息。
 ssl-error-decrypt-error-alert = 对等端报告签名核实或密钥交换失败。
@@ -113,6 +121,7 @@ ssl-error-rx-unexpected-new-session-ticket = SSL 收到了一个意外的新建�
 ssl-error-rx-malformed-new-session-ticket = SSL 收到了一个畸形的新建会话票证（New Session Ticket）握手消息。
 ssl-error-decompression-failure = SSL 接收到一个无法解压的压缩记录。
 ssl-error-renegotiation-not-allowed = 在此 SSL 套接字上不允许重新协商。
+ssl-error-unsafe-negotiation = 对等端尝试以可能有潜在漏洞的旧方式握手。
 ssl-error-rx-unexpected-uncompressed-record = SSL 接收到一个意外的未压缩的记录。
 ssl-error-weak-server-ephemeral-dh-key = 在服务器密钥交换握手信息中 SSL 收到了一个弱临时 Diffie-Hellman 密钥。
 ssl-error-next-protocol-data-invalid = SSL 收到了无效的 NPN 扩展数据。
@@ -159,6 +168,7 @@ sec-error-no-memory = 安全程序库：内存分配失败。
 sec-error-untrusted-issuer = 对等端的证书颁发者已被用户标记为不受信任。
 sec-error-untrusted-cert = 对等端的证书已被用户标为不可信。
 sec-error-duplicate-cert = 证书已经存在于您的数据库中。
+sec-error-duplicate-cert-name = 所下载证书的名称与数据库中已有的重复。
 sec-error-adding-cert = 向数据库中添加证书时发生错误。
 sec-error-filing-key = 重新填写此证书密钥时错误。
 sec-error-no-key = 此证书的私钥无法在密钥数据库中找到
@@ -181,6 +191,7 @@ sec-error-not-a-recipient = 无法解密：您不是接收者，或者没有找�
 sec-error-pkcs7-keyalg-mismatch = 无法解密：密钥加密算法与您的证书不匹配。
 sec-error-pkcs7-bad-signature = 签名核实失败：没有找到签署者，找到过多签署者，或者不恰当或损坏的数据。
 sec-error-unsupported-keyalg = 不支持或未知的密钥算法。
+sec-error-decryption-disallowed = 无法解密：加密数据时使用了不允许的算法或密钥长度。
 xp-sec-fortezza-bad-card = Fortezza 卡未正确初始化。请将其取出并退还给签发者。
 xp-sec-fortezza-no-card = 没有找到 Fortezza 卡
 xp-sec-fortezza-more-info = 请选择一种个人设置以得到更多信息
@@ -214,6 +225,7 @@ sec-error-pkcs12-cert-collision = 无法导入。数据库中已存在相同的�
 sec-error-user-cancelled = 用户强制取消。
 sec-error-pkcs12-duplicate-data = 没有导入，已经存在于数据库中。
 sec-error-message-send-aborted = 消息未发送。
+sec-error-inadequate-key-usage = 试图执行用证书密钥执行的操作不合规定用途。
 sec-error-inadequate-cert-type = 证书类型未经程序核对。
 sec-error-cert-addr-mismatch = 签署证书中的地址与消息头中的地址不匹配
 sec-error-pkcs12-unable-to-import-key = 无法导入。尝试导入私钥时发生错误。
@@ -264,6 +276,7 @@ sec-error-extra-input = DER-编码信息包含额外的未用数据。
 sec-error-unsupported-elliptic-curve = 未经证实的椭圆曲线。
 sec-error-unsupported-ec-point-form = 未经证实的椭圆曲线点形状。
 sec-error-unrecognized-oid = 无法识别的对象标识符。
+sec-error-ocsp-invalid-signing-cert = OCSP 响应中含有无效的 OCSP 签名证书。
 sec-error-unknown-object-type = 指定的目标类型未知。
 sec-error-incompatible-pkcs11 = PKCS #11 驱动程序在兼容方式上违反规定。
 sec-error-no-event = 目前没有新插槽事件。
@@ -274,6 +287,7 @@ sec-error-ocsp-responder-cert-invalid = 已配置的 OCSP 回应器证书无效�
 sec-error-ocsp-bad-signature = OCSP 回应中有一个无效签名。
 sec-error-out-of-search-limits = 证书验证搜索超出了搜索限制
 sec-error-invalid-policy-mapping = 策略映射包含任何策略
+sec-error-policy-validation-failed = 证书链策略验证失败
 sec-error-unknown-aia-location-type = 在证书AIA扩展中的位置类型未知
 sec-error-bad-http-response = 服务器返回错误 HTTP 响应
 sec-error-bad-ldap-response = 服务器返回错误 LDAP 响应
@@ -290,6 +304,7 @@ sec-error-locked-password = 密码已锁定。
 sec-error-unknown-pkcs11-error = 未知的 PKCS #11 错误。
 sec-error-bad-crl-dp-url = CRL 分发点名称的 URL 无效或不支持。
 sec-error-cert-signature-algorithm-disabled = 该证书使用的签名算法已因不安全而被禁用。
+mozilla-pkix-error-key-pinning-failure = 此服务器使用了公钥固定（HPKP）机制，但无法构成与其固定的证书集合（pinset）匹配的可信任证书链。无法忽视对密钥固定的违反。
 mozilla-pkix-error-ca-cert-used-as-end-entity = 该服务器使用了一个使用“基本约束扩展”标识它为一个证书颁发机构的证书。对于一个正常颁发的证书，不应该是这样。
 mozilla-pkix-error-inadequate-key-size = 该服务器提供的证书密钥位数太小，不足以建立安全连接。
 mozilla-pkix-error-v1-cert-used-as-ca = 服务器的证书由非信任源（Trust Anchor）的X.509 版本 1 证书签发。X.509 版本 1 证书已不赞成使用，不应再用来签发其他证书。
@@ -301,3 +316,5 @@ mozilla-pkix-error-validity-too-long = 服务器出示的证书有效期太长�
 mozilla-pkix-error-required-tls-feature-missing = 缺少所需的 TLS 功能。
 mozilla-pkix-error-invalid-integer-encoding = 服务器提供的证书包含无效的整数编码。常见原因包括负数序列号、负数 RSA 模数和不必要的编码。
 mozilla-pkix-error-empty-issuer-name = 服务器出示的证书有一个空的发行者专有名称。
+mozilla-pkix-error-additional-policy-constraint-failed = 验证此证书时，某个附加策略约束验证失败。
+mozilla-pkix-error-self-signed-cert = 此证书由于自签名而不被信任。
