@@ -303,6 +303,7 @@ sec-error-incompatible-pkcs11 = Driver PKCS #11 melanggar spesifikasi dengan car
 sec-error-no-event = Tidak ada slot event baru yang tersedia saat ini.
 sec-error-crl-already-exists = CRL sudah ada.
 sec-error-not-initialized = NSS belum diinisialisasi.
+sec-error-token-not-logged-in = Operasi gagal karena token PKCS#11 tidak log-masuk.
 sec-error-ocsp-responder-cert-invalid = Sertifikat penjawab OCSP yang diatur tidak sah.
 sec-error-ocsp-bad-signature = Jawaban OCSP memiliki tanda tangan yang tidak sah.
 sec-error-out-of-search-limits = Pencarian validasi sertifikat melebihi batas pencarian
