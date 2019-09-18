@@ -306,3 +306,5 @@ mozilla-pkix-error-not-yet-valid-issuer-certificate = Za izdajo digitalnega potr
 mozilla-pkix-error-signature-algorithm-mismatch = Algoritem za podpise v polju podpisa digitalnega potrdila se ne ujema z algoritmom v njegovem polju signatureAlgorithm.
 mozilla-pkix-error-ocsp-response-for-cert-missing = Odgovor OCSP ne vsebuje stanja digitalnega potrdila, ki se preverja.
 mozilla-pkix-error-validity-too-long = Strežnik uporablja digitalno potrdilo, ki ima predolgo veljavnost.
+mozilla-pkix-error-required-tls-feature-missing = Manjka zahtevana lastnost TLS.
+mozilla-pkix-error-empty-issuer-name = Strežnik uporablja digitalno potrdilo s praznim enoličnim imenom izdajatelja.
