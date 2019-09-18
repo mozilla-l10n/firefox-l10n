@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = 連線到 { $hostname } 時發生錯誤。{ $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = 錯誤碼: { $error }
 psmerr-ssl-disabled = 無法安全連線，因為 SSL 通訊協定已停用。
 psmerr-ssl2-disabled = 無法安全連線，因為該網站使用舊版、不安全的 SSL 通訊協定。
 # This is a multi-line message.
@@ -29,6 +36,8 @@ ssl-error-revoked-cert-alert = 由於您的憑證已廢止，SSL 端點拒絕接
 ssl-error-expired-cert-alert = 由於您的憑證已過期，SSL 端點拒絕接收。
 ssl-error-ssl-disabled = 無法連線: SSL 已停用。
 ssl-error-fortezza-pqg = 無法連線: SSL 端點位於其他的 FORTEZZA 網域。
+ssl-error-unknown-cipher-suite = 請求了未知的 SSL 加密套件組。
+ssl-error-no-ciphers-supported = 此程式目前沒有啟用任何加密套件組。
 ssl-error-bad-block-padding = SSL 收到含損壞區塊填充的記錄。
 ssl-error-rx-record-too-long = SSL 收到含超出最大允許字串長度的記錄。
 ssl-error-tx-record-too-long = SSL 試圖傳送超出最大允許字串長度的記錄。
@@ -75,13 +84,17 @@ ssl-error-sign-hashes-failure = 無法數位化簽署資料以驗證您的憑證
 ssl-error-extract-public-key-failure = SSL 無法解開來自節點的憑證中的公開金鑰。
 ssl-error-server-key-exchange-failure = 處理 SSL 伺服器金鑰交換交握時遇到不明原因的失敗。
 ssl-error-client-key-exchange-failure = 處理 SSL 用戶端金鑰交換交握時遇到不明原因的失敗。
+ssl-error-encryption-failure = 所選的加密套件組的大量資料加密演算法失效。
+ssl-error-decryption-failure = 所選的加密套件組中的大量資料解密演算法失效。
 ssl-error-socket-write-failure = 試圖寫入加密資訊到其下的 socket 失敗。
 ssl-error-md5-digest-failure = MD5 摘要函式失效。
 ssl-error-sha-digest-failure = SHA-1 摘要函式失效。
 ssl-error-mac-computation-failure = MAC 計算失敗。
 ssl-error-sym-key-context-failure = 建立對稱式金鑰內容失敗。
 ssl-error-sym-key-unwrap-failure = 於用戶端金鑰交換訊息展開對稱式金鑰時失敗。
+ssl-error-pub-key-size-limit-exceeded = SSL 伺服器試圖於匯出的加密套件組使用民用規格的公開金鑰。
 ssl-error-iv-param-failure = 將 PKCS11 代碼轉譯為 IV 到參數時失敗。
+ssl-error-init-cipher-suite-failure = 所選的加密套件組初始化失敗。
 ssl-error-session-key-gen-failure = 用戶端產生用於 SSL 連線的連線金鑰失敗。
 ssl-error-no-server-key-for-alg = 伺服器沒有金鑰可供嘗試金鑰交換演算法。
 ssl-error-token-insertion-removal = 操作進行時 PKCS#11 token 已插入或移除。
@@ -122,6 +135,7 @@ ssl-error-feature-not-supported-for-ssl2 = SSL 2.0 連線當中不支援的 SSL 
 ssl-error-feature-not-supported-for-servers = 伺服器不支援的 SSL 功能。
 ssl-error-feature-not-supported-for-clients = 客戶端不支援的 SSL 功能。
 ssl-error-invalid-version-range = SSL 版本範圍無效。
+ssl-error-cipher-disallowed-for-version = SSL 節點選用了在指定的通訊協定版本中不被允許使用的加密套件組。
 ssl-error-rx-malformed-hello-verify-request = SSL 收到不正常的 Hello Verify Request 交握訊息。
 ssl-error-rx-unexpected-hello-verify-request = SSL 收到未預期的 Hello Verify Request 交握訊息。
 ssl-error-feature-not-supported-for-version = 該通訊協定版本不支援 SSL 功能。
@@ -191,7 +205,11 @@ sec-error-decryption-disallowed = 無法解密: 加密資訊使用不允許的�
 xp-sec-fortezza-bad-card = Fortezza 卡未正確初始化，請取出並還給您的簽發者。
 xp-sec-fortezza-no-card = 找不到 Fortezza 卡
 xp-sec-fortezza-none-selected = 未選擇 Fortezza 卡
+xp-sec-fortezza-more-info = 請選擇個人身份以取得更多資訊於
+xp-sec-fortezza-person-not-found = 找不到個人身份
+xp-sec-fortezza-no-more-info = 在此個人身份找不到更多資訊
 xp-sec-fortezza-bad-pin = 無效的 PIN
+xp-sec-fortezza-person-error = 無法初始化 Fortezza 的個人身份。
 sec-error-no-krl = 找不到此網站憑證的金鑰廢止清冊。
 sec-error-krl-expired = 此網站憑證的金鑰廢止清冊已過期。
 sec-error-krl-bad-signature = 此網站憑證的金鑰廢止清冊含無效的簽章。
@@ -322,3 +340,6 @@ mozilla-pkix-error-ocsp-response-for-cert-missing = OCSP 回應中並未包含�
 mozilla-pkix-error-validity-too-long = 伺服器提供了有效期限太長的憑證。
 mozilla-pkix-error-required-tls-feature-missing = 缺少必需的 TLS 功能。
 mozilla-pkix-error-invalid-integer-encoding = 伺服器提供了一張包含無效整數編碼的憑證。常見的原因可能是用了負數的序號、負的 RSA moduli，以及比需要長度還長的編碼。
+mozilla-pkix-error-empty-issuer-name = 伺服器提供了發行者識別名稱空白的憑證。
+mozilla-pkix-error-additional-policy-constraint-failed = 驗證此憑證時，發生附加政策限制驗證失敗。
+mozilla-pkix-error-self-signed-cert = 該憑證未受信任，因為憑證是自己簽署的憑證。
