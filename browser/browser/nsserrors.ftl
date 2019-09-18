@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Villunúmer: { $error }
 psmerr-ssl-disabled = Get ekki tengst á öruggan hátt því SSL samskiptareglurnar hafa verið gerðar óvirkar.
 psmerr-ssl2-disabled = Get ekki tengst á öruggan hátt því vefsvæðið notar eldri óörugga útgáfu af SSL samskiptareglum.
 # This is a multi-line message.
