@@ -2,8 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Un error ocurrió durante a una conexión a { $hostname }.{ $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Código de error: { $error }
 psmerr-ssl-disabled = No se puede conectar de forma segura porque el protocolo SSL ha sido desactivado.
 psmerr-ssl2-disabled = No se puede conectar de forma segura porque el sitio usa una versión antigua e insegura del protocolo SSL.
+# This is a multi-line message.
+psmerr-hostreusedissuerandserial =
+    Has recibido un certificado inválido. Por favor, contacta al administrador del servidor o a quién envió el email y entrégale la siguiente información:
+    
+    Su certificado contiene el mismo número de serie que otro certificado emitido por la autoridad de certificación. Por favor, obtenga un nuevo certificado que contenga un número de serie único.
 ssl-error-export-only-server = No es posible comunicar de forma segura. El otro extremo de la conexión no admite cifrado de grado alto.
 ssl-error-us-only-server = No es posible comunicar de forma segura. El otro extremo de la conexión requiere cifrado de grado alto que no está admitido.
 ssl-error-no-cypher-overlap = No se puede comunicar de forma segura con la otra parte: no hay algoritmos de cifrado comunes.
@@ -107,6 +119,7 @@ ssl-error-user-canceled-alert = El usuario del otro extremo de la conexión ha c
 ssl-error-no-renegotiation-alert = La otra parte no permite renegociar los parámetros de seguridad SSL.
 ssl-error-server-cache-not-configured = El caché del servidor SSL no está configurado ni desactivado en este socket.
 ssl-error-unsupported-extension-alert = El otro extremo de la conexión SSL no admite la extensión hello TLS solicitada.
+ssl-error-certificate-unobtainable-alert = El otro extremo de la conexión SSL no ha podido obtener tu certificado de la URL suministrada.
 ssl-error-unrecognized-name-alert = El otro extremo de la conexión SSL no tiene certificado para el nombre DNS solicitado.
 ssl-error-bad-cert-status-response-alert = El otro extremo de la conexión SSL no ha podido obtener una respuesta OCSP para su certificado.
 ssl-error-bad-cert-hash-value-alert = El otro extremo de la conexión SSL ha informado de un valor hash de certificado erróneo.
@@ -132,6 +145,11 @@ ssl-error-next-protocol-no-callback = La extensión del protocolo de la siguient
 ssl-error-next-protocol-no-protocol = El servidor no soporta los protocolos que el cliente publicita en la extensión ALPN.
 ssl-error-inappropriate-fallback-alert = El servidor rechazo el handshake debido a que el cliente bajó a una versión de TLS menor a la soportada por el servidor.
 ssl-error-weak-server-cert-key = El certificado del servidor incluye una clave pública que es muy débil.
+ssl-error-rx-short-dtls-read = No hay suficiente espacio en buffer para almacenar DTLS.
+ssl-error-no-supported-signature-algorithm = Un algoritmo de firma TLS no soportado fue configurado.
+ssl-error-unsupported-signature-algorithm = El par usó una combinación no soportada de firma y algoritmo hash.
+ssl-error-missing-extended-master-secret = El par trató de continuar sin una extensión extended_master_secret correcta.
+ssl-error-unexpected-extended-master-secret = El par trato de continuar con una extensión extended_master_secret inesperada.
 sec-error-io = Ha ocurrido un error de E/S durante la autorización de seguridad.
 sec-error-library-failure = fallo de la biblioteca de seguridad.
 sec-error-bad-data = biblioteca de seguridad: se han recibido datos incorrectos.
@@ -156,6 +174,7 @@ sec-error-untrusted-issuer = El emisor del certificado de la otra parte ha sido 
 sec-error-untrusted-cert = El certificado de la otra parte ha sido marcado como no confiable por el usuario.
 sec-error-duplicate-cert = El certificado ya existe en su base de datos.
 sec-error-duplicate-cert-name = El nombre del certificado descargado duplica uno ya existente en su base de datos.
+sec-error-adding-cert = Error al añadir certificado a la base de datos.
 sec-error-filing-key = Error al rellenar la clave para este certificado.
 sec-error-no-key = La clave privada de este certificado no puede ser encontrado en la base de datos clave
 sec-error-cert-valid = El certificado es válido.
@@ -174,6 +193,9 @@ sec-internal-only = **Módulo EXCLUSIVAMENTE interno**
 sec-error-invalid-key = La clave no soporta la operación solicitada.
 sec-error-unknown-critical-extension = El certificado contiene una extensión crítica desconocida.
 sec-error-old-crl = La nueva CRL no es posterior a la actual.
+sec-error-no-email-cert = No cifrado o firmado: todavía no tienes un certificado de email.
+sec-error-no-recipient-certs-query = No cifrado: no tienes certificados para cada uno de los destinatarios.
+sec-error-not-a-recipient = No se puede descifrar: no eres un destinatario, o bien no se ha encontrado una clave privada o certificado apropiados.
 sec-error-pkcs7-keyalg-mismatch = No se puede descifrar: el algoritmo de cifrado de clave no coincide con su certificado.
 sec-error-pkcs7-bad-signature = Verificación de la firma fallida: o no se ha encontrado firmante, o se han encontrado demasiados firmantes, o los datos son inadecuados o corruptos.
 sec-error-unsupported-keyalg = Algoritmo de clave no soportado o desconocido.
@@ -236,6 +258,7 @@ sec-error-not-fortezza-issuer = La cadena FORTEZZA de la otra parte tiene un cer
 sec-error-cannot-move-sensitive-key = No se puede mover una clave confidencial a la ranura donde se necesita.
 sec-error-js-invalid-module-name = Nombre de módulo no válido.
 sec-error-js-invalid-dll = Ruta o nombre de archivo de módulo no válido
+sec-error-js-add-mod-failure = No se pudo añadir el módulo
 sec-error-js-del-mod-failure = Incapaz de eliminar módulo
 sec-error-old-krl = La nueva KRL no es posterior a la actual.
 sec-error-ckl-conflict = La nueva CKL tiene un emisor diferente de la CKL actual. Borre la CKL actual.
@@ -266,6 +289,7 @@ sec-error-module-stuck = El módulo PKCS #11 no se ha podido eliminar porque est
 sec-error-bad-template = No se ha podido decodificar los datos ASN.1. La plantilla especificada no era válida.
 sec-error-crl-not-found = No se ha encontrado CRL apropiada.
 sec-error-reused-issuer-and-serial = Está intentando importar un certificado con el mismo número de serie/emisor que un certificado existente, pero no es el mismo certificado.
+sec-error-busy = NSS no se pudo cerrar. Aún hay objetos en uso.
 sec-error-extra-input = El mensaje codificado con DER contenía datos extra no usados.
 sec-error-unsupported-elliptic-curve = Curva elíptica no admitida.
 sec-error-unsupported-ec-point-form = Forma de punto de curva elíptica no admitida.
@@ -303,6 +327,7 @@ sec-error-locked-password = La contraseña está bloqueada.
 sec-error-unknown-pkcs11-error = Error PKCS #11 desconocido.
 sec-error-bad-crl-dp-url = URL no valida o no soportada en el nombre de punto de distribución de la CRL.
 sec-error-cert-signature-algorithm-disabled = El certificado fue firmado uando un algoritmo de firma que fue desactivado por no ser seguro.
+mozilla-pkix-error-key-pinning-failure = El servidor usa key pinning (HPKP) pero no se pudo construir una cadena de certificado confiable que coincida con la clave. Las violaciones de colocación de clave no pueden ser ignoradas.
 mozilla-pkix-error-ca-cert-used-as-end-entity = El servidor usa un certificado con una restricción de extensión básica identificándolo a él como una autoridad certificada. Para un certificado correctamente emitido, este no debiera ser el caso.
 mozilla-pkix-error-inadequate-key-size = El servidor presentó un certificado con un tamaño de clave que es muy pequeño para establecer una conexión segura.
 mozilla-pkix-error-v1-cert-used-as-ca = Un certificado X.509 versión 1 que no es un ancla de confianza fue usado para emitir el certificado del servidor. Los certificados X.509 versión 1 están obsoletos y no debieran ser usados para firmar otros certificado.
@@ -312,3 +337,7 @@ mozilla-pkix-error-signature-algorithm-mismatch = El algoritmo de firma en el ca
 mozilla-pkix-error-ocsp-response-for-cert-missing = La respuesta OCSP no incluye un estado de que el certificado sea verificado.
 mozilla-pkix-error-validity-too-long = El servidor presentó un certificado que es válido por mucho tiempo.
 mozilla-pkix-error-required-tls-feature-missing = Falta una función TLS requerida.
+mozilla-pkix-error-invalid-integer-encoding = El servidor presentó un certificado que contenía una codificación inválida de un entero. Las causas usuales incluyen números de serie negativos, módulos RSA negativos, y codificaciones que ya no son necesarias.
+mozilla-pkix-error-empty-issuer-name = El servidor presentó un certificado con un nombre distinguido de emisor vacío.
+mozilla-pkix-error-additional-policy-constraint-failed = Una restricción de política adicional falló al validar este certificado.
+mozilla-pkix-error-self-signed-cert = El certificado no es confiable porque fue autofirmado.
