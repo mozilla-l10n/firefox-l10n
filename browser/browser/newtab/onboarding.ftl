@@ -13,30 +13,30 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = 详细了解
-onboarding-button-label-try-now = 立即尝鲜
+onboarding-button-label-try-now = 立刻试试
 onboarding-button-label-get-started = 开始使用
 
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = 欢迎使用 { -brand-short-name }
-onboarding-welcome-body = 浏览器安装完成。<br/>了解 { -brand-product-name } 的其他功能。
-onboarding-welcome-learn-more = 详细了解好处。
-onboarding-join-form-header = 加入 { -brand-product-name }
+onboarding-welcome-body = 浏览器安装完成。<br/>但 { -brand-product-name } 不只是浏览器。
+onboarding-welcome-learn-more = 还有更多好物。
+onboarding-join-form-header = 加入 { -brand-product-name } 的行列
 onboarding-join-form-body = 在此输入您的电子邮件地址，即可开始使用。
 onboarding-join-form-email =
     .placeholder = 输入电子邮件地址
 onboarding-join-form-email-error = 需要有效的电子邮件地址
 onboarding-join-form-legal = 若继续，即表示您同意我们的<a data-l10n-name="terms">服务条款</a>和<a data-l10n-name="privacy">隐私声明</a>。
 onboarding-join-form-continue = 继续
-onboarding-start-browsing-button-label = 开始浏览
+onboarding-start-browsing-button-label = 开始上网冲浪
 onboarding-cards-dismiss =
     .title = 隐藏
     .aria-label = 隐藏
 
 ## Firefox Sync modal dialog strings.
 
-onboarding-sync-welcome-header = 随身携带 { -brand-product-name }
-onboarding-sync-welcome-content = 在您的所有设备上获取您的书签、历史记录、密码以及其他设置。
+onboarding-sync-welcome-header = { -brand-product-name } 随身带着走
+onboarding-sync-welcome-content = 在所有设备上都能同步书签、历史记录、密码以及其他设置，数据随处可取。
 onboarding-sync-welcome-learn-more-link = 详细了解 Firefox 账户
 onboarding-sync-form-invalid-input = 需要有效的电子邮件地址
 onboarding-sync-legal-notice = 若您选择继续，即表示您同意我们的<a data-l10n-name="terms">服务条款</a>和<a data-l10n-name="privacy">隐私声明</a>。
@@ -48,16 +48,16 @@ onboarding-sync-form-skip-login-button = 跳过此步骤
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = 请输入您的电子邮箱
-onboarding-sync-form-sub-header = 继续使用 { -sync-brand-name }服务。
+onboarding-sync-form-sub-header = 以启用 { -sync-brand-name }服务。
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
 onboarding-benefit-products-title = 有用的产品
-onboarding-benefit-products-text = 使用各种尊重您隐私的工具，更快完成工作。
+onboarding-benefit-products-text = 全套尊重隐私权的工具在任何设备上都能助你事半功倍。
 onboarding-benefit-knowledge-title = 实用小知识
-onboarding-benefit-knowledge-text = 了解所需要知道的一切，让您上网更智能、更安全。
-onboarding-benefit-privacy-title = 保障隐私权
+onboarding-benefit-knowledge-text = 智慧安全上网，你该知道的全告诉你。
+onboarding-benefit-privacy-title = 真诚捍卫隐私
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
 # Firefox Personal Data Promise is the way we honor your data in everything we
@@ -73,9 +73,9 @@ onboarding-benefit-privacy-text = 我们所做的一切，均符合我们对个�
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = 隐私浏览
-onboarding-private-browsing-text = 上网更私密。使用配有内容拦截功能的隐私浏览，帮助您拦截网络上跟踪您的在线跟踪器。
+onboarding-private-browsing-text = 上网拒绝跟踪。配有内容拦截功能的隐私浏览模式，帮您拦截在网上窥探行踪的跟踪器。
 onboarding-screenshots-title = 屏幕截图
-onboarding-screenshots-text = 不用离开 { -brand-short-name } 即可截取、保存以及分享屏幕截图。可直接截取整个页面或选定区域，然后自动上传到网络上，方便访问分享。
+onboarding-screenshots-text = 截取、保存、分享截图，在 { -brand-short-name } 里点几下就能搞定。全网页截图还是只截取选区任你选择。截图完成后，可以获取截图链接，分享更方便。
 onboarding-addons-title = 附加组件
 onboarding-addons-text = 附加组件能扩展 { -brand-short-name } 的内置功能，使浏览器更满足您的需求。您可以用附加组件来比价格、查天气，或是选用主题来彰显您的个性。
 onboarding-ghostery-title = Ghostery
@@ -109,7 +109,7 @@ onboarding-send-tabs-title = 即时发送标签页给自己
 # tab's context menu.
 onboarding-send-tabs-text = Send Tabs 可即时跨设备分享网页，无须复制、粘贴或离开浏览器。
 onboarding-send-tabs-button = 开始使用 Send Tabs
-onboarding-pocket-anywhere-title = 随时随地阅读和聆听
+onboarding-pocket-anywhere-title = 随处阅随身听
 onboarding-pocket-anywhere-text2 = 可使用 { -pocket-brand-name } 应用离线保存您喜爱的故事，以便您闲暇时阅读、聆听和观看。
 onboarding-pocket-anywhere-button = 试用 { -pocket-brand-name }
 onboarding-lockwise-passwords-title = 将您的密码随身带着走
