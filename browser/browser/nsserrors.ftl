@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This is a multi-line message.
+psmerr-hostreusedissuerandserial =
+    Primili ste neispravni certifikat. Molim, kontaktirajte administratora poslužitelja ili pošaljite e-poruku i dajte im sljedeće informacije:
+    
+    Vaš certifikat sadrži isti serijski broj kao i još barem jedan certifikat izdan od strane iste agencije (CA). Molim, nabavite novi certifikat s jednistvenim serijskim brojem.
 ssl-error-no-cypher-overlap = Sigurna komunikacija s čvorom nije moguća: nema zajedničkih algoritama šifriranja.
 ssl-error-no-certificate = Certifikat ili ključ potreban za prijavu nije moguće pronaći.
 ssl-error-bad-client = Poslužitelj je naišao na loše podatke klijenta.
