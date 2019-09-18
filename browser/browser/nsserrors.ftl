@@ -50,6 +50,7 @@ ssl-error-feature-not-supported-for-clients = Fonctionnalité SSL non gérée po
 sec-error-library-failure = Échec de la bibliothèque de sécurité.
 sec-error-bad-data = Bibliothèque de sécurité : données incorrectes reçues.
 sec-error-output-len = Bibliothèque de sécurité : erreur de longueur des données en sortie.
+sec-error-input-len = La bibliothèque de sécurité a rencontré une erreur de longueur des données en entrée.
 sec-error-invalid-args = Bibliothèque de sécurité : arguments invalides.
 sec-error-invalid-algorithm = Bibliothèque de sécurité : algorithme invalide.
 sec-error-invalid-ava = Bibliothèque de sécurité : AVA invalide.
