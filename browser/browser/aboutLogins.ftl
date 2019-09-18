@@ -61,6 +61,9 @@ about-logins-login-list-empty-search-description = Aucun résultat ne correspond
 login-list-item-title-new-login = Nouvel identifiant
 login-list-item-subtitle-new-login = Saisissez vos informations de connexion
 login-list-item-subtitle-missing-username = (aucun nom d’utilisateur)
+about-logins-list-item-warning-icon =
+    .alt = Icône d’avertissement
+    .title = Site victime d’une fuite de données
 
 ## Introduction screen
 

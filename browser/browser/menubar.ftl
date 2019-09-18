@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Plein écran
     .accesskey = P
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Afficher tous les onglets
@@ -212,6 +212,9 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Se connecter à { -sync-brand-short-name }…
     .accesskey = Y
+menu-tools-turn-on-sync =
+    .label = Activer { -sync-brand-short-name }…
+    .accesskey = n
 menu-tools-sync-now =
     .label = Synchroniser maintenant
     .accesskey = S
