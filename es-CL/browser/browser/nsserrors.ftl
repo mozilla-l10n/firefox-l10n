@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+psmerr-ssl-disabled = No se puede conectar de forma segura porque el protocolo SSL ha sido desactivado.
+psmerr-ssl2-disabled = No se puede conectar de forma segura porque el sitio usa una versión antigua e insegura del protocolo SSL.
 ssl-error-export-only-server = No es posible comunicar de forma segura. El otro extremo de la conexión no admite cifrado de grado alto.
 ssl-error-us-only-server = No es posible comunicar de forma segura. El otro extremo de la conexión requiere cifrado de grado alto que no está admitido.
 ssl-error-no-cypher-overlap = No se puede comunicar de forma segura con la otra parte: no hay algoritmos de cifrado comunes.
