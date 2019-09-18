@@ -60,6 +60,9 @@ about-logins-login-list-empty-search-description = Không có kết quả phù h
 login-list-item-title-new-login = Đăng nhập mới
 login-list-item-subtitle-new-login = Nhập thông tin đăng nhập của bạn
 login-list-item-subtitle-missing-username = (không có tên người dùng)
+about-logins-list-item-warning-icon =
+    .alt = Biểu tượng cảnh báo
+    .title = Trang web bị rò rỉ
 
 ## Introduction screen
 
@@ -78,8 +81,6 @@ login-item-origin-label = Địa chỉ trang web
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Tên đăng nhập
-login-item-username =
-    .placeholder = name@example.com
 about-logins-login-item-username =
     .placeholder = (không có tên người dùng)
 login-item-copy-username-button-text = Sao chép
