@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Notikusi kļūda savienojoties ar { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Kļūdas kods: { $error }
 psmerr-ssl-disabled = Nevar droši pieslēgties, jo SSL protokols ir deaktivēts.
 psmerr-ssl2-disabled = Nevar droši pieslēgties, jo lapa izmanto vecāku, nedrošu SSL protokola versiju.
 # This is a multi-line message.
@@ -333,3 +340,6 @@ mozilla-pkix-error-ocsp-response-for-cert-missing = OCSP atbilde nesatur pārbau
 mozilla-pkix-error-validity-too-long = Serveris piedāvāja sertifikātu, kas ir derīgs pārāk ilgi.
 mozilla-pkix-error-required-tls-feature-missing = Trūkst nepieciešama TLS funkcija.
 mozilla-pkix-error-invalid-integer-encoding = Servera piedāvātajā sertifikātā ir nekorekts skaitļu kodējums. Biežākais kļūdas iemesls ir negatīvi sērijas numuri, negatīvi RSA moduļi vai kodējumi, kas nav nepieciešami.
+mozilla-pkix-error-empty-issuer-name = Serveris piedāvāja sertifikātu, ar tukšu izdevēja nosaukumu.
+mozilla-pkix-error-additional-policy-constraint-failed = Papildus politikas ierobežojuma pārbaude neizdevās pārbaudot šo sertifikātu.
+mozilla-pkix-error-self-signed-cert = Šis sertifikāts nav uzticams, jo tas ir pašparakstīts.
