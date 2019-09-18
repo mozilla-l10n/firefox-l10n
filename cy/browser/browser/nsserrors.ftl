@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# This is a multi-line message.
+psmerr-hostreusedissuerandserial =
+    Rydych wedi derbyn tystysgrif annilys.  Cysylltwch gweinyddwr y gweinydd neu gyfathrebwr e-bost a rhannu'r wybodaeth ganlynol:
+    
+    Mae eich tystysgrif yn cynnwys yr un rhifau cyfresol a thystysgrif arall wedi ei gyhoeddi gan yr awdurdod tystysgrifau.  Defnyddiwch dystysgrif newydd yn cynnwys rhif cyfresol unigryw.
+ssl-error-no-cypher-overlap = Methu cyfathrebu'n ddiogel gyda cyfoed: dim algorithm(au) amgrypriad cyffredin.
 ssl-error-no-certificate = Methu canfod tystysgrif neu allwedd angenrheidiol ar gyfer dilysu.
 ssl-error-bad-client = Mae'r gweinydd wedi derbyn data gwael gan y cleient.
 ssl-error-bad-server = Mae'r cleient wedi derbyn data gwael gan y gweinydd.
@@ -9,13 +15,16 @@ ssl-error-unsupported-certificate-type = Maeth o dystysgrif sydd heb ei gynnal.
 ssl-error-unsupported-version = Mae'r cyfoed yn defnyddio math o brotocol diogel nad yw'n cael ei gynnal.
 ssl-error-wrong-certificate = Methodd dilysu'r cleient: nid yw allwedd breifat yng nghronfa ddata allweddi yn cydfynd â'r allwedd gyhoeddus yng gntonfa ddata'r tystysgrifau.
 ssl-error-post-warning = Cod gwall SSL heb ei adnabod.
+ssl-error-ssl2-disabled = Dim ond SSL fersiwn 2 mae'r cyfoed yn ei gynnal ac mae wedi ei analluogi'n lleol.
 ssl-error-bad-mac-read = Derbyniodd SSL gofnod gyda Chod Dilysu Neges anghywir.
 ssl-error-bad-mac-alert = Mae cyfoed SSL yn cofnodi Cod Dilysu Neges anghywir.
 ssl-error-bad-cert-alert = Nid yw cyfode SSL: yn gallu dilysu eich tystysgrif.
 ssl-error-revoked-cert-alert = Mae'r cyfoed SSL wedi gwrthod eich tystysgrif fel un wedi ei atal.
 ssl-error-expired-cert-alert = Mae'r cyfoed SSL wedi gwrthod eich tystysgrif fel un wedi dod i ben.
+ssl-error-ssl-disabled = Methu cysylltu: SSL wedi ei analluogi.
 ssl-error-fortezza-pqg = Methu cysylltu: cyfoed SSL mewn parth FORTEZZA arall.
 ssl-error-unknown-cipher-suite = Mae cais wedi ei dderbyn am swit seiffr SSL.
+ssl-error-no-ciphers-supported = Nid oes swit seiffr ar gael ac wedi eu galluogi yn y rhaglen hon.
 ssl-error-bad-block-padding = Mae SSL wedi derbyn cofnod gyda phadin bloc gwael.
 ssl-error-rx-record-too-long = Mae SSL wedi derbyn cofnod sy'n hirach na'r hyd posib.
 ssl-error-tx-record-too-long = Mae SSL wedi ceisio anfon cofnod sy'n fwy na'r hyd posib.
@@ -76,6 +85,7 @@ ssl-error-session-key-gen-failure = Methodd y cleient â chynhyrchu allweddi ses
 ssl-error-no-server-key-for-alg = Nid oes gan y gweinydd allwedd ar gyfer ymgais algoryddm cyfnewid allweddi.
 ssl-error-token-insertion-removal = Mewnosodwyd neu dynnwyd tocyn PKCS#11 wrth i'r weithred fod mewn grym.
 ssl-error-token-slot-not-found = Ni fu modd canfod tocyn PKCS#11 i gyflawni'r weithredu.
+ssl-error-no-compression-overlap = Methu cyfathrebu'n ddiogel gyda'r cyfoed: dim algorithmau(au) cywasgu cyffredin.
 ssl-error-handshake-not-completed = Methu cychwyn ysgwyd llaw SSL arall nes i'r ysgwyd llaw cyfredol ddod i ben.
 ssl-error-bad-handshake-hash-value = Wedi derbyn gwerthoedd hash ysgwyd llaw anghywir gan y cyfoed.
 ssl-error-cert-kea-mismatch = Nid oes modd defnyddio'r dystysgrif hon gyda'r algorythm cyfnewid allwedd hwn.
@@ -98,11 +108,14 @@ ssl-error-unrecognized-name-alert = Nid oes gan y cyfoed SSL dystysgrif ar gyfer
 ssl-error-bad-cert-status-response-alert = Nid oedd y cyfoed SSL yn gallu cael ymateb OCSP ar gyfer ei dystysgrif.
 ssl-error-bad-cert-hash-value-alert = Adroddodd cyfoed yr SSL gwerth hash tystysgrif gwael.
 ssl-error-rx-unexpected-new-session-ticket = Mae SSL wedi derbyn neges ysgwyd llaw Tocyn Sesiwn Newydd annisgwyl.
+ssl-error-rx-malformed-new-session-ticket = Mae SSL wedi derbyn neges ysgwyd llaw Tocyn Sesiwn Newydd.
+ssl-error-decompression-failure = Mae SSL wedi derbyn cofnod cywasgedig nad oedd modd ei datgywasgu.
 ssl-error-renegotiation-not-allowed = Nid oes modd ail negodi ar y soced SSL hwn.
 ssl-error-unsafe-negotiation = Ceisiodd y cyfoed ysgwyd llaw hen ffurf (bregus posib).
 ssl-error-rx-unexpected-uncompressed-record = Derbyniodd SSL gofnod datgywasgedig annisgwyl.
 ssl-error-weak-server-ephemeral-dh-key = Derbyniodd SSL allwedd gwan Diffie-Hellman darfodedig yn neges ysgwyd llaw Cyfnewidiad Allwedd Gweinydd.
 ssl-error-next-protocol-data-invalid = Derbyniodd SSL ddata estyniad NPN annilys.
+ssl-error-feature-not-supported-for-ssl2 = Nid yw'r nodwedd SSL hwn yn cael ei gynnal ar gyfer cysylltiadau SSL 2.0.
 ssl-error-feature-not-supported-for-servers = Nid yw'r nodweddion SSL hyn yn cael eu cynnal ar weinyddion.
 ssl-error-feature-not-supported-for-clients = Nid yw'r nodweddion SSL hyn yn cael eu cynnal ar raglenni.
 sec-error-io = Digwyddodd gwall I/O yn ystod dilysu diogelwch.
@@ -233,3 +246,4 @@ sec-error-expired-password = Mae'r cyfrinair wedi dod i ben.
 sec-error-locked-password = Mae'r cyfrinair wedi ei gloi.
 sec-error-unknown-pkcs11-error = Gwall PKCS #11 anhysbys.
 sec-error-bad-crl-dp-url = URL annilys neu heb ei gynnal yn enw pwynt dosbarthiad CRL.
+sec-error-cert-signature-algorithm-disabled = Cafodd y dystysgrif ei llofnodi gan ddefnyddio algorithm llofnod sydd wedi ei analluogi am nad yw'n ddiogel.
