@@ -290,6 +290,7 @@ sec-error-unsupported-message-type = Zpráva typu CMS nebo PKCS #7 není podporo
 sec-error-module-stuck = Modul PKCS #11 se nepodařilo odstranit, protože je stále používán.
 sec-error-bad-template = Nepodařilo se dešifrovat data ASN.1. Specifikovaná šablona byla neplatná.
 sec-error-crl-not-found = Nebyl nalezen žádný seznam CRL.
+sec-error-reused-issuer-and-serial = Pokoušíte se importovat certifikát se stejným vydavatelem/sériovým číslem jako má už stávající certifikát, který ale není stejný.
 sec-error-busy = Nepodařilo se ukončit NSS. Objekty se stále používají.
 sec-error-extra-input = Zpráva zašifrovaná metodou DER obsahuje nepoužitá extra data.
 sec-error-unsupported-elliptic-curve = Nepodporovaná eliptická křivka.
