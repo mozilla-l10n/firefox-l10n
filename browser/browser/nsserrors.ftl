@@ -151,6 +151,7 @@ sec-error-ocsp-request-needs-sig = OCSP sunucusu bu istekte imza gerektiğini s�
 sec-error-ocsp-unauthorized-request = OCSP sunucusu yetkisiz olduğu gerekçesiyle bu isteği geri çevirdi.
 sec-error-ocsp-unknown-response-status = OCSP sunucusu algılanamayan bir durumla karşılaştı.
 sec-error-ocsp-not-enabled = Bu işlemi gerçekleştirmeden önce OCSP'yi devreye sokmalısınız.
+sec-error-ocsp-no-default-responder = Bu işlemi gerçekleştirmeden önce OCSP'yi varsayılan yanıt verici olarak ayarlamalısınız.
 sec-error-ocsp-malformed-response = OCSP sunucusunun yanıtı bozuk ya da düzgün olmayan biçimde.
 sec-error-ocsp-old-response = OCSP yanıtı zamanı geçmiş bilgi içeriyor.
 sec-error-digest-not-found = İmzalanan iletide CMS ya da PKCS #7 özeti bulunamadı.
