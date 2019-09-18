@@ -161,6 +161,7 @@ sec-error-ocsp-malformed-response = La rempuesta del sirvidor OCSP taba frañada
 sec-error-ocsp-unauthorized-response = El roblante de la rempuesta OCSP nun ta autorizáu a dar l'estáu d'esti certificáu.
 sec-error-ocsp-future-response = La rempuesta OCSP entá nun ye válida (contién una data nel futuru).
 sec-error-ocsp-old-response = La rempuesta OCSP contién información non anovada.
+sec-error-digest-not-found = Nun s'alcontró'l resume CMS o PKCS #7 nel mensaxe robláu.
 sec-error-unsupported-message-type = El tipu de mensaxe CMS o PKCS #7 nun ta almitíu.
 sec-error-module-stuck = El módulu PKCS #11 nun se pudo desaniciar darréu qu'entá ta n'usu
 sec-error-bad-template = Nun se pudo decodificar los datos ASN.1. La plantía especificada nun yera válida.
