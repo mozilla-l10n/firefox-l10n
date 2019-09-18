@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Při zwjazowanju z { $hostname } je zmylk wustupił. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Zmylkowy kod: { $error }
 psmerr-ssl-disabled = Wěsty zwisk móžny njeje, dokelž SSL-protokol je znjemóžnjeny.
 psmerr-ssl2-disabled = Wěsty zwisk móžny njeje, dokelž sydło wužiwa staršu, njewěstu wersiju SSL-protokola.
 # This is a multi-line message.
@@ -29,6 +36,8 @@ ssl-error-revoked-cert-alert = Napřećiwne městno SSL je waš certifikat jako 
 ssl-error-expired-cert-alert = Napřećiwne městno SSL je waš certifikat jako spadnjeny wotpokazało.
 ssl-error-ssl-disabled = Zwisk móžny njeje: SSL je znjemóžnjeny.
 ssl-error-fortezza-pqg = Zwisk móžny njeje: Napřećiwne městno SSL je druha domena FORTEZZA.
+ssl-error-unknown-cipher-suite = Njeznata šifrowy slěd SSL je so požadał.
+ssl-error-no-ciphers-supported = W tutym programje žane šifrowe slědy njejsu a njejsu zmóžnjene.
 ssl-error-bad-block-padding = SSL přija datowu sadźbu z wopačnym blokowym wupjelnjenjom.
 ssl-error-rx-record-too-long = SSL přija datowu sadźbu, kotraž je maksimalnu dowolenu dołhosć překročiła.
 ssl-error-tx-record-too-long = SSL spyta datowu sadźbu słać, kotraž je maksimalnu dowolenu dołhosć překročiła.
@@ -88,12 +97,14 @@ ssl-error-iv-param-failure = Kod PKCS11 zwrěšći IV do parametra přełožowa�
 ssl-error-init-cipher-suite-failure = Je so jeporadźiło wubrany šifrowy slěd inicializować.
 ssl-error-session-key-gen-failure = Klient njemóžeše posedźenske kluče za SSL-posedźenje wutworić.
 ssl-error-no-server-key-for-alg = Serwer nima kluč za spytany algoritmus klučoweje wuměny.
+ssl-error-token-insertion-removal = Token PKCS#11 je so zasadźił abo wotstronił, mjeztym zo operacija běži.
 ssl-error-token-slot-not-found = Token PKCS#11 njemóžeše so namakać, zo by trěbnu operaciju wuwjedł.
 ssl-error-no-compression-overlap = Wěsta komunikacija z napřećiwnym městnom móžna njeje: žane zwučene komprimowanske algoritmusy.
 ssl-error-handshake-not-completed = Njeje móžno, druhe rukuzawdaće SSL iniciěrować, doniž aktualne rukuzawdaće njeje dokónčene.
 ssl-error-bad-handshake-hash-value = Přija wopačne hašowe hódnoty rukuzawdaća z napřećiwneho městna.
 ssl-error-cert-kea-mismatch = Podaty certifikat njeda so z wubranym algoritmusom klučoweje wuměny wužiwać.
 ssl-error-no-trusted-ssl-client-ca = Žana certifikatowa awtorita je za klientowu awtentifikaciju SSL dowěry hódna.
+ssl-error-session-not-found = Posedźenski ID SSL klienta njeje so w posedźenskim pufrowaka serwera namakał.
 ssl-error-decryption-failed-alert = Napřećiwne městno njemóžeše datowu sadźbu SSL, kotrež je přijało, dešifrować.
 ssl-error-record-overflow-alert = Napřećiwne městno je datowu sadźbu SSL přijało, kotraž běše dlěša hač dowolena.
 ssl-error-unknown-ca-alert = Napřećiwne městno njepřipóznawa certifikatowu awtorita, kotraž je waš certfikat wudała, a jej njedowěrja.
@@ -153,6 +164,7 @@ sec-error-invalid-time = Wopak formatowany časowy znamješkowy rjećazk.
 sec-error-bad-der = wěstotna biblioteka: wopak formatowana powěsć zakodowana DER.
 sec-error-bad-signature = Certifikat napřećiwneho městna ma njepłaćiwy podpis.
 sec-error-expired-certificate = Certifikat napřećiwneho městna je spadnjeny.
+sec-error-revoked-certificate = Certifikat napřećiwneho městna je so wotwołał.
 sec-error-unknown-issuer = Wudawar certifikata napřećiwneho městna njeje připóznaty.
 sec-error-bad-key = Zjawny kluč napřećiwneho městna je njepłaćiwy.
 sec-error-bad-password = Zapodate wěstotne hesło je wopak.
@@ -160,6 +172,8 @@ sec-error-retry-password = Zapodate hesło je wopak. Prošu spytajće hišće ra
 sec-error-no-nodelock = wěstotna biblioteka: žadyn nodelock.
 sec-error-bad-database = wěstotna biblioteka: wopačna datowa banka.
 sec-error-no-memory = wěstotna biblioteka: zmylk přirjadowanja składowaka.
+sec-error-untrusted-issuer = Wudawar certifikata napřećiwneho městna je so wot wužiwarja jako dowěry njehódny markěrował.
+sec-error-untrusted-cert = Certifikat napřećiwneho městna je so wot wužiwarja jako dowěry njehódny markěrował.
 sec-error-duplicate-cert = Certifikat hižo eksistuje we wašej datowej bance.
 sec-error-duplicate-cert-name = Mjeno sćehnjeneho certifikata čini hižo eksistowacy k duplikatej we wašej datowej bance.
 sec-error-adding-cert = Zmylk při přidawanju certifikata k datowej bance.
@@ -183,6 +197,7 @@ sec-error-unknown-critical-extension = Certifikat wobsahuje njeznate kritiske ro
 sec-error-old-crl = Nowa CRL njeje nowša hač aktualna.
 sec-error-no-email-cert = Njezaklučowany abo njepodpisany: nimaće e-mejlowy certifikat.
 sec-error-no-recipient-certs-query = Njezaklučowany: nimaće certifikaty za žaneho z přijimowarjow.
+sec-error-not-a-recipient = Dešifrowanje móžne njeje: njejsće přijimowar abo wotpowědowacy certifikat a priwatny kluč njeje so namakał.
 sec-error-pkcs7-keyalg-mismatch = Dešifrowanje móžne njeje: algoritmus klučoweho zaklučowanja njewotpowěduje wašemu certifikatej.
 sec-error-pkcs7-bad-signature = Přepruwowanje podpisa je so njeporadźiło: žadyn podpisar namakany, přewjele podpisarjow namakane abo njepřihódne abo poškodźene daty.
 sec-error-unsupported-keyalg = Njepodpěrowany abo njeznaty klučowy algoritmus.
@@ -195,8 +210,10 @@ xp-sec-fortezza-person-not-found = Wosobina njenamakana
 xp-sec-fortezza-no-more-info = Žane dalše informacije wo tej wosobinje
 xp-sec-fortezza-bad-pin = Njepłaćiwy PIN
 xp-sec-fortezza-person-error = Wosobiny Fortezza njedachu so inicializować.
+sec-error-no-krl = Za certifikat tutoho sydła njeje so KRL namakał.
 sec-error-krl-expired = KRL za certifikat tutoho sydła je spadnjena.
 sec-error-krl-bad-signature = KRL za certifikat tutoho sydła ma njepłaćiwy podpis.
+sec-error-revoked-key = Kluč za certifikat tutoho sydła je so wotwołał.
 sec-error-krl-invalid = Nowa KRL ma njepłaćiwy format.
 sec-error-need-random = wěstotna biblioteka: připadne daty trěbne.
 sec-error-no-module = wěstotna biblioteka: žadyn wěstotny modul njemóže požadanu operaciju wuwjesć.
@@ -264,9 +281,11 @@ sec-error-ocsp-unknown-response-status = OCSP-serwer je njepřipóznawajomny sta
 sec-error-ocsp-unknown-cert = OCSP-serwer nima status za certifikat.
 sec-error-ocsp-not-enabled = Dyrbiće OCSP zmóžnić, prjedy hač tutu operaciju wuwjedźeće.
 sec-error-ocsp-no-default-responder = Dyrbiće standardny responder OCSP nastajić, prjedy hač tutu operaciju wuwjedźeće.
+sec-error-ocsp-malformed-response = Wotmołwa OCSP-serwera je so poškodźiła abo njeporjadnje sformowała.
 sec-error-ocsp-unauthorized-response = Podpisar OCSP-wotmołwy njeje awtorizowany tutómu certifikatej status dać.
 sec-error-ocsp-future-response = OCSP-wotmołwa hišće njeje płaćiwy (wobsahuje datum přichoda).
 sec-error-ocsp-old-response = OCSP-wotmołwa wobsahuje zestarjene informacije.
+sec-error-digest-not-found = CMS abo PKCS #7 Digest njeje so w podpisanej powěsći namakał.
 sec-error-unsupported-message-type = Powěsćowy typ CMS abo PKCS #7 so njepodpěruje.
 sec-error-module-stuck = Modul PKCS #11 njeda so wotstronić, dokelž so hišće wužiwa.
 sec-error-bad-template = Daty ASN.1 njedachu so dekodować. Podata předłoha bě njepłaćiwa.
@@ -276,6 +295,7 @@ sec-error-busy = NSS njemóžeše so začinić. Objekty so hišće wužiwaja.
 sec-error-extra-input = Powěsć zakodowana DER wobsahowaše přidatne njewužiwane daty.
 sec-error-unsupported-elliptic-curve = Njepodpěrowana eliptiska křiwka.
 sec-error-unsupported-ec-point-form = Njepodpěrowana forma dypka eliptiskeje křiwki.
+sec-error-unrecognized-oid = Njespóznaty objektowy identifikator.
 sec-error-ocsp-invalid-signing-cert = Njepłaćiwy podpisowanski certifikat OCSP we wotmołwje OCSP.
 sec-error-revoked-certificate-crl = Certifikat je w lisćinje wotwołanych certifikatow wudawarja wotwołany.
 sec-error-revoked-certificate-ocsp = OCSP-responder wudawarja zdźěla, zo certifikat je wotwołany.
@@ -321,3 +341,5 @@ mozilla-pkix-error-validity-too-long = Serwer je certifikat předpołožił, kot
 mozilla-pkix-error-required-tls-feature-missing = Trěbna TLS-funkcija faluje.
 mozilla-pkix-error-invalid-integer-encoding = Serwer je certifikat prezentował, kotryž njepłaćiwe kodowanje cyłeje ličby wobsahuje. Huste zawiny móža być: negatiwne serijowe čisła, negatiwne RSA-module a kodowanja, kotrež su dlěše hač trěbne.
 mozilla-pkix-error-empty-issuer-name = Serwer je certifikat bjez rozeznawajomneho mjena (jendź.: distinguished name) wudawarja prezentował.
+mozilla-pkix-error-additional-policy-constraint-failed = Přidatne wobmjezowanje prawidła njemóžeše tutón certifikat přepruwować.
+mozilla-pkix-error-self-signed-cert = Certifikat njeje dowěry hódny, dokelž je so sam podpisał.
