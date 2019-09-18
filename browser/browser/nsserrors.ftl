@@ -334,3 +334,4 @@ mozilla-pkix-error-validity-too-long = Le serveur a présenté un certificat qui
 mozilla-pkix-error-required-tls-feature-missing = Une fonctionnalité TLS nécessaire est manquante.
 mozilla-pkix-error-invalid-integer-encoding = Le serveur a présenté un certificat contenant un entier mal encodé. Les raisons les plus fréquentes sont des numéros de série négatifs, des modules RSA négatifs ou des encodages plus longs que nécessaire.
 mozilla-pkix-error-empty-issuer-name = Le serveur a présenté un certificat où le nom unique de l’autorité de délivrance est vide.
+mozilla-pkix-error-additional-policy-constraint-failed = Une contrainte de stratégie supplémentaire a échoué lors de la validation de ce certificat.
