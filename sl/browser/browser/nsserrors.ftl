@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Med povezovanjem na { $hostname } je prišlo do napake. { $errorMessage }
 psmerr-ssl-disabled = Varna povezava ni mogoča, ker je bil protokol SSL onemogočen.
 psmerr-ssl2-disabled = Varna povezava ni mogoča, ker stran uporablja starejšo, nevarno različico protokola SSL.
 # This is a multi-line message.
@@ -37,7 +41,9 @@ ssl-error-tx-record-too-long = SSL je poskusil poslati zapis, ki presega največ
 ssl-error-rx-malformed-hello-request = SSL je prejel nepravilno sporočilo rokovanja Hello Request.
 ssl-error-rx-malformed-client-hello = SSL je prejel nepravilno sporočilo rokovanja Client Hello.
 ssl-error-rx-malformed-server-hello = SSL je prejel nepravilno sporočilo rokovanja Server Hello.
+ssl-error-rx-malformed-certificate = SSL je prejel nepravilno sporočilo rokovanja Certificate.
 ssl-error-rx-malformed-server-key-exch = SSL je prejel nepravilno sporočilo rokovanja Server Key Exchange.
+ssl-error-rx-malformed-cert-request = SSL je prejel nepravilno sporočilo rokovanja Certificate Request.
 ssl-error-rx-malformed-hello-done = SSL je prejel nepravilno sporočilo rokovanja Server Hello Done.
 ssl-error-rx-malformed-cert-verify = SSL je prejel nepravilno sporočilo rokovanja Certificate Verify.
 ssl-error-rx-malformed-client-key-exch = SSL je prejel nepravilno sporočilo rokovanja Client Key Exchange.
@@ -251,8 +257,11 @@ sec-error-not-fortezza-issuer = Vrstnikova FORTEZZA veriga vsebuje ne-FORTEZZA c
 sec-error-cannot-move-sensitive-key = Ključa ni mogoče premakniti v režo, kjer se ga potrebuje.
 sec-error-js-invalid-module-name = Napačno ime modula.
 sec-error-js-invalid-dll = Napačna pot do modula/ime datoteke
+sec-error-js-add-mod-failure = Modula ni bilo mogoče dodati
+sec-error-js-del-mod-failure = Modula ni mogoče izbrisati
 sec-error-old-krl = Nov KRL nima kasnejšega datuma kot trenuten.
 sec-error-ckl-conflict = Nov CKL ima drugega izdajatelja kot trenuten. Izbrišite trenuten CKL.
+sec-error-cert-not-in-name-space = Overitelj digitalnih potrdil nima dovoljenja za izdajo digitalnega potrdila s tem imenom.
 sec-error-krl-not-yet-valid = Seznam preklicanih ključev za to digitalno potrdilo še ni veljaven.
 sec-error-crl-not-yet-valid = Seznam preklicanih digitalnih potrdil za to digitalno potrdilo še ni veljaven.
 sec-error-unknown-cert = Zahtevanega digitalnega potrdila ni mogoče najti.
@@ -301,6 +310,7 @@ sec-error-ocsp-bad-signature = OCSP odziv ima nepravilen podpis.
 sec-error-out-of-search-limits = Iskanje veljavnosti digitalnega potrdila je preseglo omejitve iskanja.
 sec-error-invalid-policy-mapping = Mapiranje politike vsebuje vse politike
 sec-error-policy-validation-failed = Veriga digitalnih potrdil ima neveljavno politiko
+sec-error-unknown-aia-location-type = Neznana vrsta lokacije v razširitvi certifikata AIA
 sec-error-bad-http-response = Strežnik je vrnil napačen odgovor HTTP
 sec-error-bad-ldap-response = Strežnik je vrnil napačen odgovor LDAP
 sec-error-failed-to-encode-data = Neuspešno šifriranje podatkov z ASN1
