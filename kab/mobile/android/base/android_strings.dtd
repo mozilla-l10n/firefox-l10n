@@ -23,20 +23,21 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Amiḍan">
 <!ENTITY firstrun_sync_message2 "Kemmel seg anida telliḍ.">
+<!ENTITY firstrun_sync_message3 "Semtawi ticraḍ-ik n isebtar, amazray akked awalen uffiren deg tiliɣri.">
 <!ENTITY firstrun_sync_subtext2 "Seqdec Sync akken ad tafeḍ ticraḍ n isebtar, awalen uffiren, akked tiγawsiwin nniḍen γer &brandShortName; deg akk ibenkan.">
 <!ENTITY newfirstrun_sync_subtext "Mtawi ayen i teskelseḍ ɣed yibenk-ik aziraz akked Firefox i uselkim, s tedreg akked tɣellist.">
 <!ENTITY updatednewfirstrun_sync_subtext "Qqen ɣer umiḍan inek (inem) akken ad teẓreḍ ugar ɣef &brandShortName;">
 <!ENTITY firstrun_signin_message "Qqen, bdu">
+<!ENTITY firstrun_sendtab_title "Azen iccer">
+<!ENTITY firstrun_sendtab_message "Bdu icarren seg tiliɣri ɣer tnarit — di teswiεt.">
 <!ENTITY firstrun_signin_button "Qqen ɣer Sync">
 <!ENTITY newfirstrun_signin_button "Rmed Synch">
 <!ENTITY updatednewfirstrun_signin_button "Qqen ɣer &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Bdu tunigin">
+<!ENTITY onboard_start_button_browser "Bdu tunigin">
 <!ENTITY firstrun_button_notnow "Mačči tura">
 <!ENTITY firstrun_button_next "Ɣer sdat">
 
 <!ENTITY firstrun_signin_button2 "Kcem">
-
-<!ENTITY firstrun_signup_button "Jerred">
 
 <!ENTITY firstrun_tabqueue_title "Iseγwan">
 
@@ -48,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Kečč">
 <!ENTITY firstrun_account_message "Ɣur-k &brandShortName; deg yibenk nniḍen?">
+
+<!ENTITY firstrun_signup_button "Jerred">
 
 <!ENTITY  onboard_start_restricted1 "Qqim d aɣelsan udiɣ mahel s useqdec n lqem-agi aḥerfi n &brandShortName;.">
 
@@ -692,6 +695,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Aqlik teqneḍ ɣer">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
