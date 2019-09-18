@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = ভুল কোড: { $error }
 psmerr-ssl-disabled = SSL প্রোটোকল নিষ্ক্রিয় হওয়ার ফলে নিরাপদরূপে সংযোগ স্থাপন করা যায়নি।
 psmerr-ssl2-disabled = এই সাইটের সাথে নিরাপদরূপে সংযোগ স্থাপন করা সম্ভব নয় কারণ এই সাইটে SSL প্রোটোকলের একটি পুরোনো ও অরক্ষিত সংস্করণ ব্যবহৃত হয়েছে।
 # This is a multi-line message.
