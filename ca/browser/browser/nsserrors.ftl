@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = S'ha produït un error durant la connexió a { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Codi d'error: { $error }
 psmerr-ssl-disabled = No es pot connectar de forma segura perquè s'ha inhabilitat el protocol SSL.
 psmerr-ssl2-disabled = No es pot connectar de forma segura perquè el lloc utilitza una versió antiga i insegura del protocol SSL.
 # This is a multi-line message.
@@ -67,6 +74,7 @@ ssl-error-rx-unknown-handshake = L'SSL ha rebut un missatge de conformitat de co
 ssl-error-rx-unknown-alert = L'SSL ha rebut un registre d'alerta amb una descripció d'alerta desconeguda.
 ssl-error-close-notify-alert = L'altre extrem de la connexió SSL ha tancat la connexió.
 ssl-error-handshake-unexpected-alert = L'altre extrem de la connexió SSL no esperava el missatge de conformitat de connexió que ha rebut.
+ssl-error-decompression-failure-alert = L'altre extrem de la connexió SSL no ha pogut descomprimir correctament el registre SSL que ha rebut.
 ssl-error-handshake-failure-alert = L'altre extrem de la connexió SSL no ha pogut negociar un conjunt de paràmetres de seguretat acceptables.
 ssl-error-illegal-parameter-alert = L'altre extrem de la connexió SSL ha refusat un missatge de conformitat de connexió per tenir un contingut inacceptable.
 ssl-error-unsupported-cert-alert = L'altre extrem de la connexió SSL no accepta certificats del tipus que ha rebut.
@@ -89,6 +97,7 @@ ssl-error-iv-param-failure = El codi PKCS11 no ha pogut traduir un IV en un par�
 ssl-error-init-cipher-suite-failure = No s'ha pogut inicialitzar la suite de xifratge seleccionada.
 ssl-error-session-key-gen-failure = El client no ha pogut generar les claus de sessió per a la sessió SSL.
 ssl-error-no-server-key-for-alg = El servidor no tenia cap clau per a l'algorisme d'intercanvi de claus que s'ha intentat.
+ssl-error-token-insertion-removal = Es va inserir o eliminar el testimoni PKCS#11 mentre l'operació estava en curs.
 ssl-error-token-slot-not-found = No s'ha pogut trobar cap testimoni PKCS#11 per realitzar l'operació sol·licitada.
 ssl-error-no-compression-overlap = No es pot comunicar de forma segura amb l'altre extrem: no hi ha cap algorisme de compressió comú.
 ssl-error-handshake-not-completed = No es pot iniciar una altra conformitat de connexió SSL fins que aquesta no es completi.
@@ -114,6 +123,10 @@ ssl-error-certificate-unobtainable-alert = L'altre extrem SSL no ha pogut obteni
 ssl-error-unrecognized-name-alert = L'altre extrem SSL no té cap certificat per al nom DNS sol·licitat.
 ssl-error-bad-cert-status-response-alert = L'altre extrem SSL no ha pogut obtenir una resposta OCSP per al seu certificat.
 ssl-error-bad-cert-hash-value-alert = L'altre extrem SSL ha informat d'un valor de resum del certificat malmès.
+ssl-error-rx-unexpected-new-session-ticket = L'SSL ha rebut un missatge de conformitat de connexió de tiquet de nova sessió no esperat.
+ssl-error-rx-malformed-new-session-ticket = L'SSL ha rebut un missatge de conformitat de connexió de tiquet de nova sessió mal format.
+ssl-error-decompression-failure = L'SSL ha rebut un registre comprimit que no s'ha pogut descomprimir.
+ssl-error-renegotiation-not-allowed = No es permet la renegociació en aquest sòcol SSL.
 ssl-error-unsafe-negotiation = L'altre extrem ha provat una conformitat de connexió d'estil antic (i, per tant, potencialment vulnerable).
 ssl-error-rx-unexpected-uncompressed-record = L'SSL ha rebut un registre descomprimit inesperat.
 ssl-error-weak-server-ephemeral-dh-key = L'SSL ha rebut una clau efímera Diffie-Hellman en el missatge de negociació d'intercanvi de claus del servidor.
@@ -134,6 +147,7 @@ ssl-error-next-protocol-no-callback = L'extensió de negociació de següent pro
 ssl-error-next-protocol-no-protocol = El servidor és no és compatible amb cap dels protocols que anuncia el client en l'extensió ALPN.
 ssl-error-inappropriate-fallback-alert = El servidor ha rebutjat la conformitat de connexió perquè el client ha tornat a una versió de TLS inferior que el servidor no admet.
 ssl-error-weak-server-cert-key = La clau pública inclosa en el certificat del servidor és massa feble.
+ssl-error-rx-short-dtls-read = No hi ha prou espai a la memòria intermèdia per al registre DTLS.
 ssl-error-no-supported-signature-algorithm = No s'ha configurat cap algorisme de signatura TLS compatible.
 ssl-error-unsupported-signature-algorithm = L'altre extrem ha utilitzat una combinació incompatible d'algorisme de signatura i de hash.
 ssl-error-missing-extended-master-secret = L'altre extrem ha intentat continuar sense una extensió extended_master_secret correcta.
@@ -210,6 +224,7 @@ sec-error-cert-nickname-collision = Ja existeix un certificat amb el mateix sobr
 sec-error-key-nickname-collision = Ja existeix una clau amb el mateix sobrenom.
 sec-error-safe-not-created = s'ha produït un error en crear un objecte segur
 sec-error-baggage-not-created = s'ha produït un error en crear un objecte d'equipatge
+xp-java-remove-principal-error = No s'ha pogut eliminar el principal
 xp-java-delete-privilege-error = No s'ha pogut suprimir el privilegi
 xp-java-cert-not-exists-error = Aquest principal no té un certificat
 sec-error-bad-export-algorithm = No es permet l'algorisme necessari.
@@ -272,6 +287,7 @@ sec-error-ocsp-future-response = La resposta OCSP encara no és vàlida (conté 
 sec-error-ocsp-old-response = La resposta OCSP conté informació desactualitzada.
 sec-error-digest-not-found = No s'ha trobat el CMS o el resum PKCS #7 en el missatge signat.
 sec-error-unsupported-message-type = No s'accepta el CMS o el tipus de missatge PKCS #7.
+sec-error-module-stuck = El mòdul PKCS #11 no s'ha pogut eliminar perquè encara s'està utilitzant.
 sec-error-bad-template = No s'han pogut descodificar les dades ASN.1. La plantilla especificada no és vàlida.
 sec-error-crl-not-found = No s'ha trobat cap CRL que coincidís.
 sec-error-reused-issuer-and-serial = Esteu provant d'importar un certificat amb el mateix emissor / número de sèrie d'un ja existent, però que no és el mateix certificat.
@@ -287,6 +303,7 @@ sec-error-crl-invalid-version = La llista de revocació de certificats de l'emis
 sec-error-crl-v1-critical-extension = La llista de revocació de certificats V1 de l'emissor té una extensió crítica.
 sec-error-crl-unknown-critical-extension = La llista de revocació de certificats V2 de l'emissor té una extensió crítica desconeguda.
 sec-error-unknown-object-type = S'ha especificat un tipus d'objecte desconegut.
+sec-error-incompatible-pkcs11 = El controlador PKCS #11 infringeix l'especificació d'una forma incompatible.
 sec-error-no-event = No hi ha cap esdeveniment de nova ranura disponible en aquest moment.
 sec-error-crl-already-exists = Ja existeix la CRL.
 sec-error-not-initialized = No s'ha inicialitzat l'NSS.
@@ -324,3 +341,4 @@ mozilla-pkix-error-validity-too-long = El servidor ha presentat un certificat qu
 mozilla-pkix-error-required-tls-feature-missing = Falta una característica de TLS necessària.
 mozilla-pkix-error-invalid-integer-encoding = El servidor ha presentat un certificat que conté una codificació no vàlida d'un enter. Les causes més habituals són números de sèrie negatius, mòduls RSA negatius i codificacions més llargues del necessari.
 mozilla-pkix-error-empty-issuer-name = El servidor ha presentat un certificat amb un nom distintiu de l'emissor buit.
+mozilla-pkix-error-self-signed-cert = No es confia en el certificat perquè està signat per ell mateix.
