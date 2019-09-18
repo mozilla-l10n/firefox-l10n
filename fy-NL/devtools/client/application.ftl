@@ -90,6 +90,9 @@ manifest-loaded-ok = Manifest laden.
 manifest-loaded-error = Der is in flater bard by it laden fan it manifest:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Gjin manifest fûn om te ynspektearjen.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = It manifest is ynbed yn in gegevens-URL.
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Manifest
     .alt = Piktogram Manifest

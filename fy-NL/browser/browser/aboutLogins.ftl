@@ -61,6 +61,9 @@ about-logins-login-list-empty-search-description = Jo sykopdracht hat gjin resul
 login-list-item-title-new-login = Nije oanmelding
 login-list-item-subtitle-new-login = Fier jo oanmeldgegevens yn
 login-list-item-subtitle-missing-username = (gjin brûkersnamme)
+about-logins-list-item-warning-icon =
+    .alt = Warskôgingspiktogram
+    .title = Troffen website
 
 ## Introduction screen
 
@@ -79,8 +82,6 @@ login-item-origin-label = Websiteadres
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Brûkersnamme
-login-item-username =
-    .placeholder = jonamme@example.com
 about-logins-login-item-username =
     .placeholder = (gjin brûkersnamme)
 login-item-copy-username-button-text = Kopiearje
