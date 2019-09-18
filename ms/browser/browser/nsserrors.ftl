@@ -244,6 +244,7 @@ sec-error-pkcs12-duplicate-data = Tidak diimport kerana telah wujud dalam pangka
 sec-error-message-send-aborted = Mesej tidak dihantar.
 sec-error-inadequate-key-usage = Kunci pensijilan tidak mencukupi untuk percubaan operasi.
 sec-error-inadequate-cert-type = Jenis sijil tidak diluluskan bagi aplikasi.
+sec-error-cert-addr-mismatch = Alamat menandatangani sijil tidak sama dengan alamat pengepala mesej.
 sec-error-pkcs12-unable-to-import-key = Tidak dapat mengimport. Ralat mencuba mengimport kunci peribadi.
 sec-error-pkcs12-importing-cert-chain = Tidak dapat mengimport. Ralat mencuba mengimport rantai sijil.
 sec-error-pkcs12-unable-to-locate-object-by-name = Tidak dapat mengeksport. Tidak dapat mencari sijil atau kunci dengan menggunakan nama samaran.
