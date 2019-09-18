@@ -286,6 +286,16 @@ update-pref-write-failure-title = Errur cun memorisar
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Errur durant memorisar la preferenza. Impussibel da scriver en la datoteca: { $path }
 update-setting-write-failure-title = Errur cun memorisar preferenzas per actualisaziuns
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } è fruntà sin in problem e n'ha betg memorisà questa midada. Igl è necessari da pudair scriver en la datoteca sutvart per pudair definir quest parameter dad actualisaziuns. Eventualmain pos ti u l'administratur dal sistem schliar il problem cun permetter a la gruppa d'utilisaders l'access cumplain a questa datoteca.
+    
+    Impussibel da scriver en la datoteca: { $path }
+update-in-progress-title = Actualisaziun en lavur
+update-in-progress-message = Vuls ti che { -brand-short-name } cuntinueschia cun questa actualisaziun?
 update-in-progress-ok-button = &Annullar
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -591,6 +601,16 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Excepziuns…
     .accesskey = x
+forms-generate-passwords =
+    .label = Proponer e generar pleds-clav cumplexs
+    .accesskey = x
+forms-breach-alerts =
+    .label = Mussar avertiments per ils pleds-clav da websites cun sperditas da datas
+    .accesskey = b
+forms-breach-alerts-learn-more-link = Ulteriuras infurmaziuns
+forms-fill-logins-and-passwords =
+    .label = Emplenir automaticamain infurmaziuns d'annunzia
+    .accesskey = i
 forms-saved-logins =
     .label = Infurmaziuns d'annunzia memorisadas…
     .accesskey = n
@@ -702,6 +722,8 @@ addressbar-suggestions-settings = Midar las preferenzas per propostas da maschin
 
 content-blocking-header = Bloccada da cuntegn
 content-blocking-section-description = Protegia tia sfera privata durant la navigaziun. Blochescha cuntegn invisibel che po fastizar las websites che ti visitas e skizzar tes profil. Cun bloccar ina part da quest cuntegn chargian las paginas eventualmain pli svelt.
+content-blocking-enhanced-tracking-protection = Protecziun avanzada cunter il fastizar
+content-blocking-section-top-level-description = Fastizaders ta suondan online per rimnar infurmaziuns davart tias disas da navigar e tes interess. { -brand-short-name } blochescha blers da quests fastizaders ed auters scripts donnegius.
 content-blocking-learn-more = Ulteriuras infurmaziuns
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -723,18 +745,36 @@ content-blocking-third-party-cookies = Cookies che fastizeschan da terzas partid
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standard
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Restrictiv
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Persunalisà
+    .accesskey = u
 
 
 
+content-blocking-etp-standard-desc = Equiliber tranter protecziun e prestaziun. Paginas chargian normal.
+content-blocking-etp-strict-desc = Ina protecziun pli severa, ma po avair per consequenza che tschertas websites u tscherts cuntegns na funcziuneschan betg pli.
+content-blocking-etp-custom-desc = Tscherna ils fastizaders ed ils scripts che duain vegnir bloccads.
+content-blocking-private-windows = Cuntegn che fastizescha en fanestras privatas
+content-blocking-social-media-trackers = Fastizaders da raits socialas
 content-blocking-all-cookies = Tut ils cookies
 content-blocking-unvisited-cookies = Cookies da websites betg visitadas
 content-blocking-all-windows-trackers = Fastizaders enconuschents en tut las fanestras
+content-blocking-all-windows-tracking-content = Cuntegn che fastizescha en tut las fanestras
 content-blocking-all-third-party-cookies = Tut ils cookies da terzas partidas
 content-blocking-cryptominers = Criptominiers
 content-blocking-fingerprinters = Improntaders dal det
 content-blocking-warning-title = Attenziun!
 content-blocking-warning-description = La bloccada da cuntegn po impedir che tschertas websites funcziunian. Igl è simpel da deactivar la bloccada per las websites che ti tegnas per fidablas.
 content-blocking-learn-how = Vegnir a savair co
+content-blocking-etp-warning-description = La bloccada da fastizaders po influenzar las funcziunalitads da tschertas websites. Rechargiar ina pagina cun fastizaders per chargiar l'entir cuntegn.
+content-blocking-warning-learn-how = Vegnir a savair co
 content-blocking-reload-description = Igl è necessari da rechargiar ils tabs per applitgar las midadas.
 content-blocking-reload-tabs-button =
     .label = Rechargiar tut ils tabs
@@ -742,6 +782,9 @@ content-blocking-reload-tabs-button =
 content-blocking-trackers-label =
     .label = Fastizaders
     .accesskey = F
+content-blocking-tracking-content-label =
+    .label = Cuntegn che fastizescha
+    .accesskey = t
 content-blocking-tracking-protection-option-all-windows =
     .label = En tut las fanestras
     .accesskey = t
@@ -799,6 +842,10 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = Excepziuns…
     .accesskey = E
+permissions-autoplay = Reproducziun automatica
+permissions-autoplay-settings =
+    .label = Parameters…
+    .accesskey = P
 permissions-block-popups =
     .label = Bloccar fanestras pop-up
     .accesskey = p
