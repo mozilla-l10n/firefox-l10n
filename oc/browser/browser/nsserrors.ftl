@@ -338,6 +338,7 @@ mozilla-pkix-error-not-yet-valid-issuer-certificate = Un certificat qu'es pas en
 mozilla-pkix-error-signature-algorithm-mismatch = L'algoritme de signatura del camp de signatura del certificat correspond pas a l'algoritme del camp "signatureAlgorithm".
 mozilla-pkix-error-ocsp-response-for-cert-missing = La responsa OCSP inclutz pas l'estat pel certificat verificat.
 mozilla-pkix-error-validity-too-long = Lo servidor a presentat un certificat qu'es valid per un temps tròp long.
+mozilla-pkix-error-required-tls-feature-missing = Manca una caracteristica de TLS necessària.
 mozilla-pkix-error-invalid-integer-encoding = Lo servidor a presentat un certificat contenent un entièr mal encodat. Las rasons mai frequentas son de numèros de seria negatius, de moduls RSA negatius o d'encodatges mai longs que necessari.
 mozilla-pkix-error-empty-issuer-name = Lo servidor a presentat un certificat que lo nom distintiu de l'emetor es void.
 mozilla-pkix-error-self-signed-cert = Lo certificat es pas segur perque es autosignat.
