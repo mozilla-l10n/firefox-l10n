@@ -246,3 +246,4 @@ sec-error-expired-password = Akaseera aka kasumuluzo kawedeyo.
 sec-error-locked-password = Ekisumuluzo kigalidwa.
 sec-error-unknown-pkcs11-error = Ensobi eya PKCS #11 etamanyiddwa.
 sec-error-bad-crl-dp-url = URL etakirizibwa oba etawagirwa mu linya lye ekifo ekigaba CRL.
+sec-error-cert-signature-algorithm-disabled = Satifiketi yasiddwako omukono ogugyidwako kubanga eleta obunkenke mu byokwerinda.
