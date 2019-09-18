@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = خطایی در هنگام اتصال { $hostname }.{ $errorMessage } رخ داد
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = کد خطا:{ $error }
 psmerr-ssl-disabled = قادر به برقراری اتصال ایمن نبود، زیرا قرارداد SSL غیرفعال شده است.
 psmerr-ssl2-disabled = قادر به برقراری اتصال امن نیست، زیرا این پایگاه از نسخه‌ای قدیمی و غیر امن از قرارداد SSL استفاده می‌کند.
 # This is a multi-line message.
@@ -334,3 +341,5 @@ mozilla-pkix-error-validity-too-long = سرور گواهینامه برای مد
 mozilla-pkix-error-required-tls-feature-missing = یکی از امکانات الزامی TLS موجود نیست.
 mozilla-pkix-error-invalid-integer-encoding = سرور امضا را ارائه می‌کند که شامل کدگذاری های غیرمعتبری از مقدار عددی است. علل شایع عبارتند از : اعداد منفی سریال، استانداردRSA منفی،و کدگذاری بیش از حد طولانی.
 mozilla-pkix-error-empty-issuer-name = این سرور گواهینامه‌ای را ارائه می‌کند که نام صادرکننده برجسته‌ آن خالی می‌ باشد.
+mozilla-pkix-error-additional-policy-constraint-failed = علاوه بر این محدودیت مقررات در هنگام ارزیابی این گواهینامه با خطا مواجه شد.
+mozilla-pkix-error-self-signed-cert = این گواهینامه مورد اعتماد نیست زیرا بدون امضا است.
