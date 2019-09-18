@@ -152,6 +152,7 @@ sec-internal-only = **Módulo EXCLUSIVAMENTE interno**
 sec-error-invalid-key = A chave não suporta a operação solicitada.
 sec-error-unknown-critical-extension = O certificado contém uma extensão obrigatória desconhecida.
 sec-error-old-crl = A nova CRL não é mais recente que a utilizada no momento.
+sec-error-no-email-cert = Não criptografado ou assinado: você ainda não possui um certificado de e-mail.
 sec-error-no-recipient-certs-query = Não criptografado: você não possui certificados para cada um dos destinatários.
 sec-error-pkcs7-keyalg-mismatch = Não é possível descriptografar: a chave de criptografia não confere com a do seu certificado.
 sec-error-pkcs7-bad-signature = Falha na verificação de assinatura: nenhum signatário encontrado, muitos signatários encontrados ou dados corrompidos ou incorretos.
