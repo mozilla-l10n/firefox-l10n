@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = { $hostname } ünvanına qoşularkən xəta baş verdi. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Xəta kodu: { $error }
 psmerr-ssl-disabled = Təhlükəsiz olaraq bağlanıla bilmir, çünki SSL əlaqə qaydası söndürülüb.
 psmerr-ssl2-disabled = Təhlükəsiz olaraq bağlanıla bilmir, çünki SSL əlaqə qaydasının köhnə və etibarsız versiyası istifadə olunur.
 # This is a multi-line message.
@@ -93,6 +100,7 @@ ssl-error-no-server-key-for-alg = Server, üzərində işlənən dəyişik açma
 ssl-error-token-insertion-removal = Əməliyyat gedərkən PKCS#11 nişanı əlavə edildi ya da silindi.
 ssl-error-token-slot-not-found = Lazım olan əməliyyatı etmək üçün axtarılan PKCS#11 nişanı tapılmadı.
 ssl-error-no-compression-overlap = Qarşı tərəflə təhlükəsiz bağlantı qurulmadı: Ortaq birsıxışdırma açma yolu yoxdur.
+ssl-error-handshake-not-completed = Hazırkı SSL qarşılaması bitmədən başqa bir qarşılamaya girilə bilməz.
 ssl-error-bad-handshake-hash-value = Həmkardan səhv qarşılama dəyərləri alındı.
 ssl-error-cert-kea-mismatch = Təqdim edilən təsdiq sənədi seçilən açar dəyişmə yolu ilə istifadə edilə bilməz.
 ssl-error-no-trusted-ssl-client-ca = SSL klienti təsdiqləməsi üçün heç bir təsdiq sənədi rəsmisinə etibar edilmir.
@@ -159,6 +167,7 @@ sec-error-expired-certificate = Həmkarın təsdiq sənədinin vaxtı çıxıb.
 sec-error-revoked-certificate = Təsdiq sənədi ləğv edilib.
 sec-error-unknown-issuer = Həmkarın təsdiq sənədini yayımlayan tanınmır.
 sec-error-bad-key = Həmkarın ümumi açarı etibarsızdır.
+sec-error-bad-password = Daxil edilən təhlükəsizlik parolu səhvdir.
 sec-error-retry-password = Yeni parol səhv daxil edilib. Lütfən yenidən yoxlayın.
 sec-error-no-nodelock = Təhlükəsiz kitabxanası: Düyün kilidi yoxdur.
 sec-error-bad-database = Təhlükəsiz kitabxanası: Xarab olmuş verilənlər bazası.
@@ -185,6 +194,7 @@ sec-error-cert-usages-invalid = Təsdiq sənədi istifadə adı etibarsızdır.
 sec-internal-only = **YALNIZ daxili modul**
 sec-error-invalid-key = Açar istənən əməliyyatı dəstəkləmir.
 sec-error-unknown-critical-extension = Təsdiq sənədinə naməlum kritik uzantılar daxildi.
+sec-error-old-crl = Yeni ləğv edilmişlər siyahısının (CRL) tarixi hazırkından yeni deyil.
 sec-error-no-email-cert = Şifrələnməmiş ya da imzalanmamış: Hələ ki e-poçt təsdiq sənədiniz yoxdur.
 sec-error-no-recipient-certs-query = Şifrələnməmiş: Hər bir alıcı üçün təsdiq sənədiniz yoxdur.
 sec-error-not-a-recipient = Şifrə açıla bilmir: Alıcı siz deyilsiniz ya da bir-biriylə uyğun gələn təsdiq sənədi ya da xüsusi açar tapılmadı.
@@ -252,6 +262,7 @@ sec-error-js-invalid-module-name = Etibarsız modul adı.
 sec-error-js-invalid-dll = Etibarsız modul yolu və ya fayl adı
 sec-error-js-add-mod-failure = Modul əlavə edilə bilmir
 sec-error-js-del-mod-failure = Modul silinə bilmir
+sec-error-old-krl = Yeni ləğv edilmiş açarlar siyahısının (KRL) tarixi hazırkından yeni deyil.
 sec-error-ckl-conflict = Yeni CKL-in təchizatçısı mövcud CKL-inkindən fərqlidir. Mövcud CKL-i silin.
 sec-error-cert-not-in-name-space = Bu təsdiq sənədinin rəsmisinin adı ilə yayımlamağa icazə verilmir.
 sec-error-krl-not-yet-valid = Bu təsdiq sənədinin ləğv edilmiş açarlar siyahısı hələki etibarlı deyil.
@@ -313,6 +324,8 @@ sec-error-pkcs11-function-failed = Bir PKCS #11 modulu istənən əməliyyatın 
 sec-error-pkcs11-device-error = Bir PKCS #11 modulu bilet və ya slotta səhv yarandığını göstərən CKR_DEVICE_ERROR qaytardı.
 sec-error-bad-info-access-method = Təsdiq sənədi uzantısında naməlum məlumat əldə etmə üsulu.
 sec-error-crl-import-failed = Ləğv edilmiş təsdiq sənədi idxal edilərkən bir səhv baş verdi.
+sec-error-expired-password = Parolun vaxtı keçib.
+sec-error-locked-password = Parol kilidlənib.
 sec-error-unknown-pkcs11-error = Naməlum PKCS #11 xətası.
 sec-error-bad-crl-dp-url = CRL paylama nöqtəsi adında etibarsız və ya dəstəklənilməyən URL.
 sec-error-cert-signature-algorithm-disabled = Sertifikat, etibarlı olmadığı üçün söndürülən bir imza alqoritmi ilə imzalandı.
@@ -328,3 +341,5 @@ mozilla-pkix-error-validity-too-long = Server uzun müddətdir etibarlı olan bi
 mozilla-pkix-error-required-tls-feature-missing = Tələb edilən TLS özəlliyi əksikdir.
 mozilla-pkix-error-invalid-integer-encoding = Server səhv tam ədəd kodlayıcısı olan sertifikat təqdim etdi. Əsasən səbəblər mənfi serial nömrələri, mənfi RSA modulları və lazım olandan uzun kodlayıcılar olur.
 mozilla-pkix-error-empty-issuer-name = Server boş təchizatçı fərqləndirici adı ilə sertifikat verdi.
+mozilla-pkix-error-additional-policy-constraint-failed = Bu sertifikatı təsdiqləyərkən əlavə icbari siyasət təsdiqlənə bilmədi.
+mozilla-pkix-error-self-signed-cert = Sertifikata etibar edilmir, çünki özü tərəfindən imzalanıb.
