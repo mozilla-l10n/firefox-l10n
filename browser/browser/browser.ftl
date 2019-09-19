@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = მონაცემების შენახვა მუდმივ მეხსიერებაზე
 urlbar-addons-notification-anchor =
     .tooltiptext = დამატების ჩადგმის შეტყობინების არის გახსნა
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = მისამართების ველში დამატება
+page-action-manage-extension =
+    .label = გაფართოების მართვა…
+page-action-remove-from-urlbar =
+    .label = მისამართების ველიდან მოცილება
