@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Przechowywanie danych na komputerze
 urlbar-addons-notification-anchor =
     .tooltiptext = Wyświetl zapytanie o instalację dodatków
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Dodaj do paska adresu
+page-action-remove-from-urlbar =
+    .label = Usuń z paska adresu
