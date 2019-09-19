@@ -45,3 +45,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Garda os datos en almacenamento persistente
 urlbar-addons-notification-anchor =
     .tooltiptext = Abre o panel da mensaxe de instalación do complemento
+
+## Page Action Context Menu
+
+page-action-manage-extension =
+    .label = Xestionar extensión…
