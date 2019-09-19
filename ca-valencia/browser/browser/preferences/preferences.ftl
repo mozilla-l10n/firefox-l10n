@@ -737,6 +737,23 @@ content-blocking-strict-description = Més protecció, pot fer que alguns llocs 
 content-blocking-custom-desc = Trieu què voleu blocar.
 content-blocking-private-trackers = Elements de seguiment coneguts en finestres privades
 content-blocking-third-party-cookies = Galetes de seguiment de tercers
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Estàndard
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Estricte
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Personalitzat
+    .accesskey = z
+
+##
+
 content-blocking-etp-standard-desc = Equilibri entre protecció i rendiment. Les pàgines es carregaran amb normalitat.
 content-blocking-etp-strict-desc = Més protecció, però pot fer que alguns llocs o algun contingut no funcionen correctament.
 content-blocking-etp-custom-desc = Trieu quins elements de seguiment i scripts cal blocar.
