@@ -52,5 +52,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = Tambahkan ke Bilah Alamat
+page-action-manage-extension =
+    .label = Kelola Ekstensi…
 page-action-remove-from-urlbar =
     .label = Singkirkan dari Bilah Alamat
