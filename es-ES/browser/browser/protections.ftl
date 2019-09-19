@@ -24,6 +24,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = El nivel de protección es <b>Estándar</b>
 protection-header-details-strict = El nivel de protección es <b>Estricta</b>
 protection-header-details-custom = El nivel de protección es <b>Personalizada</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = El nivel de protección es <b>Estándar</b>
+    .title = Ir a los Ajustes de privacidad
+protection-report-header-details-strict = El nivel de protección es <b>Estricta</b>
+    .title = Ir a los Ajustes de privacidad
+protection-report-header-details-custom = El nivel de protección es <b>Personalizada</b>
+    .title = Ir a los Ajustes de privacidad
 protection-report-page-title = Protecciones de privacidad
 protection-report-content-title = Protecciones de privacidad
 etp-card-title = Protección contra rastreo mejorada
