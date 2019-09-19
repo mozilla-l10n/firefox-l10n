@@ -9,21 +9,21 @@ graph-week-summary =
         [one] { -brand-short-name } narán riña  { $count } sa naga'naj a semanâ gâchin
        *[other] { -brand-short-name } narán riña { $count } sa naga'naj a semanâ gâchin
     }
-# Variables:
-#   $count (Number) - Number of tracking events blocked.
-#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
-# earliest date recorded in the database.
-graph-total-summary =
-    { $count ->
-        [one] { $count } naran riña sa naga'naj a asij { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] { $count } naran riña nej sa naga'naj a asij { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
 protection-header-details-standard = Danaj yakàn nukuaj sa narán <b>man Da'nga' ngè</b>
 protection-header-details-strict = Danaj yakàn nùkuaj sa narán <b>Ûta yakàn huaj</b>
 protection-header-details-custom = Danaj yakàn nùkuaj sa narán <b>Dàj nagi'iát</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Danaj yakàn nukuaj sa narán <b>man Da'nga' ngè</b>
+    .title = Guij riña si configurasiûn sa naràn rayi'ît
+protection-report-header-details-strict = Danaj yakàn nùkuaj sa narán <b>Ûta yakàn huaj</b>
+    .title = Guij riña si configurasiûn sa naràn rayi'ît
+protection-report-header-details-custom = Danaj yakàn nùkuaj sa narán <b>Dàj nagi'iát</b>
+    .title = Guij riña si configurasiûn sa naràn rayi'ît
 protection-report-page-title = Nej sa narán rayi'ît
 protection-report-content-title = Nej sa narán rayi'ît
 etp-card-title = Sa narán rayi'ît nùkuaj doj
@@ -38,7 +38,6 @@ social-tab-contant = Da' gini'in nej rêd sosiâl nej sa 'iát ni sa ni'iajt ri�
 cookie-tab-title = Nej kokî nikò' riña nej sîtio
 cookie-tab-content = Nej kokî nan ni nikò' nej man sò' danè' nanj gahuin huajt da' gini'in sa 'iát. Sa a'nïn guì ânej e huin, dà' rû' guì du'uèj e asi nej sû' nariñu sa aran' ruhuô'. Si naránt riña nej kokî nan ni si gurugui' nìko nej anûnsio gini'iajt. <a data-l10n-name="learn-more-link">Gahuin chrun doj</a>
 tracker-tab-title = Sa nikò' nej kontenîdo
-tracker-tab-content = Ga'ue nadigân nej sitiô nan nej anûnsio, sa siki' ni'io' así a'ngô sa nikaj 'ngo da'nga' nikò' ñù'. Si naránt riña da'nga' nikò' sò' ni rugûñu'un da' nayi'nin hìo doj riña si pajinât sani ga'ue sisi hua da'aj nej butûn asi a'ngô ngà' sa huaa si gi'iaj sun hue'ê. <a data-l10n-name="learn-more-link">Gahuin chrun doj</a>
 fingerprinter-tab-title = Nej da'nga ra'a
 fingerprinter-tab-content = Nej da'nga' digîtal ni nakaj nej man nej sa hua 'iát riña si aga't ni narij 'ngo si pefît. Ngà da'nga' digital nan, ga'ue ganikò' nej si sò' riña ga'ì sîtio. <a data-l10n-name="learn-more-link">Gahuin chrun doj</a>
 cryptominer-tab-title = Nej kriptominêro
@@ -47,7 +46,6 @@ lockwise-title = Si gini'ñûnt da'nga' huì nikajt a'ngô ñû
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } na'nïn sà' hue'ej nej da'nga' huì nikajt riña aché nunt
 lockwise-header-content-logged-in = Nachra sà' ni nagi'iaj guña nej da'nga' huì nikajt riña daran nej si aga't.
-open-about-logins-button = Na'nïn riña { -brand-short-name }
 lockwise-no-logins-content = Nadunïnj aplikasiûn <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> da' ganikajt nej si da'nga' huìt gan'anjt danè' garan' ruhuât.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -67,37 +65,10 @@ lockwise-sync-status =
         [one] Nagi'iaj guña { $count } ngà a'ngô aga'a
        *[other] Nagi'iaj guña { $count } ngà a'ngô nej aga'a
     }
-lockwise-sync-not-syncing = Nu ga'ue nagi'iaj guñanj ngà a'ngô nej aga'a
 monitor-title = Sasà' ni'iajt sisi nadunâ nej si sa hua riña nej dâto
 monitor-link = Dàj 'iaj sunj
-monitor-header-content = Natsij ni'iajt { -monitor-brand-name } da' gini'înt sisi gi'iaj yi'ì nej si si datôt ni ga'ue nahuin ra'at nej nuguan' natà' snan'anj sisi ruhuâ nej si gi'iaj yi'ì ñû nej si.
-monitor-header-content-logged-in = { -monitor-brand-name } ataj snan'anj gunïnt sisi gi'iaj yi'ì nej si nej datô nikajt
 monitor-sign-up = Nutà' si yuguît da' ga'ue nahuin ra'ât nej nuguan' a'min rayi'ì sa nu dugahuin
 auto-scan = Gui hìaj ni 'iaj eskaneândo man'an man
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-monitored-addresses =
-    { $count ->
-        [one] Si direksiûn korreô nikaj ñu'unjt.
-       *[other] Si direksiûn nej korreô nikaj ñun'unjt.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of known data breaches. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-known-breaches =
-    { $count ->
-        [one] Dunâj ni'nïnj chre sa gire' nej dâto nuguan' hua 'iát.
-       *[other] Dunâj ni'nïnj chre nej sa gire' nej dâto nuguan' hua 'iát.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of exposed passwords. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-exposed-passwords =
-    { $count ->
-        [one] Hua ni'nïnj chre da'nga' huì riña ga'ue hua sa giran'.
-       *[other] Hua ni'nïnj chre nej da'nga' huì riña ga'ue hua sa giran'.
-    }
 full-report-link = Ni'iaj da' hua ngè infôrme rayi'î <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
