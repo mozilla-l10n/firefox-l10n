@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = จัดเก็บข้อมูลในที่เก็บข้อมูลถาวร
 urlbar-addons-notification-anchor =
     .tooltiptext = เปิดแผงข้อความการติดตั้งส่วนเสริม
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = เพิ่มไปยังแถบที่อยู่
+page-action-manage-extension =
+    .label = จัดการส่วนขยาย…
+page-action-remove-from-urlbar =
+    .label = เอาออกจากแถบที่อยู่
