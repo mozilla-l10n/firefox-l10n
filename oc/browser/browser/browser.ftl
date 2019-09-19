@@ -50,5 +50,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = Apondre la barra d'adreça
+page-action-manage-extension =
+    .label = Gerir l’extension…
 page-action-remove-from-urlbar =
     .label = Levar de la barra d'adreça
