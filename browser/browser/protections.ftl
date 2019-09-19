@@ -15,17 +15,6 @@ graph-week-summary =
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
 # earliest date recorded in the database.
-graph-total-summary =
-    { $count ->
-        [one] { $count } sledilec zavrnjen od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-        [two] { $count } sledilca zavrnjena od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-        [few] { $count } sledilci zavrnjeni od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] { $count } sledilcev zavrnjenih od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-    }
-# Variables:
-#   $count (Number) - Number of tracking events blocked.
-#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
-# earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
         [one] <b>{ $count }</b> sledilec zavrnjen od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
@@ -39,6 +28,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = Raven zaščite je nastavljena na <b>Običajno</b>
 protection-header-details-strict = Raven zaščite je nastavljena na <b>Strogo</b>
 protection-header-details-custom = Raven zaščite je nastavljena na <b>Po meri</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Raven zaščite je nastavljena na <b>Običajno</b>
+    .title = Pojdi na nastavitve zasebnosti
+protection-report-header-details-strict = Raven zaščite je nastavljena na <b>Strogo</b>
+    .title = Pojdi na nastavitve zasebnosti
+protection-report-header-details-custom = Raven zaščite je nastavljena na <b>Po meri</b>
+    .title = Pojdi na nastavitve zasebnosti
 protection-report-page-title = Zaščite zasebnosti
 protection-report-content-title = Zaščite zasebnosti
 etp-card-title = Izboljšana zaščita pred sledenjem
@@ -53,7 +51,6 @@ social-tab-contant = Družbena omrežja postavljajo sledilce na druga spletna me
 cookie-tab-title = Spletni sledilni piškotki
 cookie-tab-content = Ti piškotki vas spremljajo po straneh in zbirajo podatke o tem, kaj počnete na spletu. Namestijo jih tretje strani, kot so oglaševalci in analitična podjetja. Zavračanje sledilnih piškotkov zmanjša število oglasov, ki vam sledijo. <a data-l10n-name="learn-more-link">Več o tem</a>
 tracker-tab-title = Sledilna vsebina
-tracker-tab-content = Spletne strani lahko naložijo zunanje oglase, videoposnetke in drugo vsebino, ki vsebuje kodo za sledenje. Zavračanje sledilne vsebine lahko pospeši nalaganje spletnih strani, vendar nekateri gumbi in obrazci morda ne bodo delovali. <a data-l10n-name="learn-more-link">Več o tem</a>
 tracker-tab-description = Spletne strani lahko naložijo zunanje oglase, videoposnetke in drugo vsebino s kodo za sledenje. Zavračanje sledilne vsebine lahko pospeši nalaganje spletnih strani, vendar nekateri gumbi in obrazci morda ne bodo delovali. <a data-l10n-name="learn-more-link">Več o tem</a>
 fingerprinter-tab-title = Sledilci prstnih odtisov
 fingerprinter-tab-content = Sledilci prstnih odtisov zbirajo nastavitve vašega brskalnika in računalnika, da si ustvarijo vaš profil. S pomočjo digitalnega prstnega odtisa vam lahko sledijo na različnih spletnih straneh. <a data-l10n-name="learn-more-link">Več o tem</a>
@@ -63,8 +60,9 @@ lockwise-title = Nikoli več ne pozabite gesla
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } varno hrani vaša gesla v brskalniku.
 lockwise-header-content-logged-in = Varno hranite in sinhronizirajte svoja gesla na vseh napravah.
-open-about-logins-button = Odpri v { -brand-short-name }u
 about-logins-view-logins-button = Ogled prijav
+protection-report-view-logins-button = Ogled prijav
+    .title = Pojdi na shranjene prijave
 lockwise-no-logins-content = Prenesite aplikacijo <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> in vzemite gesla s seboj.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -88,46 +86,13 @@ lockwise-sync-status =
         [few] Sinhronizacija s { $count } drugimi napravami
        *[other] Sinhronizacija z { $count } drugimi napravami
     }
-lockwise-sync-not-syncing = Ni sinhronizacije z drugimi napravami.
 lockwise-sync-not-syncing-devices = Ni sinhronizacije z drugimi napravami
 monitor-title = Bodite obveščeni o krajah podatkov
 monitor-link = Kako deluje
-monitor-header-content = Preverite s { -monitor-brand-name }jem, ali ste bili vpleteni v krajo podatkov, ter prejemajte opozorila o novih krajah.
-monitor-header-content-logged-in = { -monitor-brand-name } vas opozori, če se vaši podatki pojavijo v znani kraji podatkov
 monitor-header-content-no-account = Preverite s { -monitor-brand-name }jem, ali ste bili vpleteni v znano krajo podatkov, ter prejemajte opozorila o novih krajah.
 monitor-header-content-signed-in = { -monitor-brand-name } vas opozori, če se vaši podatki pojavijo v znani kraji podatkov.
 monitor-sign-up = Prijavite se na opozorila o krajah
 auto-scan = Samodejno preverjeno danes
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-monitored-addresses =
-    { $count ->
-        [one] nadzorovan e-poštni naslov.
-        [two] nadzorovana e-poštna naslova.
-        [few] nadzorovani e-poštni naslovi.
-       *[other] nadzorovanih e-poštnih naslovov.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of known data breaches. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-known-breaches =
-    { $count ->
-        [one] znana kraja podatkov je izpostavila vaše podatke.
-        [two] znani kraji podatkov sta izpostavili vaše podatke.
-        [few] znane kraje podatkov so izpostavile vaše podatke.
-       *[other] znanih kraj podatkov je izpostavilo vaše podatke.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of exposed passwords. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-exposed-passwords =
-    { $count ->
-        [one] geslo je bilo izpostavljeno v vseh krajah.
-        [two] gesli sta bili izpostavljeni v vseh krajah.
-        [few] gesla so bila izpostavljena v vseh krajah.
-       *[other] gesel je bilo izpostavljenih v vseh krajah.
-    }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
