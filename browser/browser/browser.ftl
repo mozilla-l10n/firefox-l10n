@@ -52,5 +52,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = 주소 표시줄에 추가
+page-action-manage-extension =
+    .label = 확장 프로그램 관리…
 page-action-remove-from-urlbar =
     .label = 주소 표시줄에서 제거
