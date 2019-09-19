@@ -16,8 +16,6 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-category-sync =
-    .tooltiptext = { pane-sync-title }
 focus-search =
     .key = f
 close-button =
@@ -96,6 +94,9 @@ choose-bookmark =
     .label = Aramaten ti pannanda...
     .accesskey = m
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-choose-keyword-column =
@@ -148,14 +149,18 @@ sitedata-total-size-calculating = Bilbilangen ti kadakkel dagiti datos ti sitio 
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Dagiti indulin a galietas, datos ti sitio ken dadduma nga impempen ket agnanaed iti { $value } a { $unit } iti disk.
-sitedata-cookies-exceptions =
-    .label = Laksid...
-    .accesskey = E
 
 ## Privacy Section - Address Bar
 
 
 ## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
 
 
 ## Privacy Section - Tracking
