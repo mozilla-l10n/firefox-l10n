@@ -10,6 +10,19 @@ about-config-warning-button = Akceptěrujom riziko
 about-config2-title = Rozšyrjone konfiguracije
 about-config-search-input =
     .placeholder = Pytaś
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Z glědanim pókšacowaś
+about-config-intro-warning-text = Gaž nastajenja rozšyrjoneje konfiguracije změnijośo, móžo to wugbaśe abo wěstotu { -brand-short-name } wobwliwowaś.
+about-config-intro-warning-checkbox = Warnowaś, gaž wopytujom, pśistup k tutym nastajenjam dostaś
+about-config-intro-warning-button = Riziko akceptěrowaś a pókšacowaś
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Gaž toś te nastajenja změnijośo, móžo to wugbaśe abo wěstotu { -brand-short-name } wobwliwowaś.
+about-config-page-title = Rozšyrjone nastajenja
 about-config-search-input1 =
     .placeholder = Mě nastajenja pytaś
 about-config-show-all = Wšykne pokazaś
