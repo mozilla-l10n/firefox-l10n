@@ -24,6 +24,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = Ñemo’ã oñembohape <b>Estándar</b>-pe
 protection-header-details-strict = Ñemo’ã oñembohape <b>Estricto</b>-pe
 protection-header-details-custom = Ñemo’ã oñembohape <b>Personalizado</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Ñemo’ã oñembohape <b>Estándar</b>-pe
+    .title = Eho ñemigua moĩporãme
+protection-report-header-details-strict = Ñemo’ã oñembohape <b>Estricto</b>-pe
+    .title = Eho ñemigua moĩporãme
+protection-report-header-details-custom = Ñemo’ã oñembohape <b>Personalizado</b>
+    .title = Eho ñemigua moĩporãme
 protection-report-page-title = Ñemigua ñemo'ã
 protection-report-content-title = Ñemigua mo’ãha
 etp-card-title = Tapykueho mo’ãha mbotuichapyre
@@ -48,6 +57,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } ombyaty iñe’ẽñemi ikundahápe tekorosãme.
 lockwise-header-content-logged-in = Embyaty ha embojuehe ne ñe’ẽñemi opaite ne mba’e’okápe tekorosãme.
 about-logins-view-logins-button = Ehecha tembiapo ñepyrũ
+protection-report-view-logins-button = Ehecha tembiapo ñepyrũ
+    .title = Eho jeikeha ñongatupyrépe
 lockwise-no-logins-content = Eguereko pe tembipuru’i <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> egueraha hag̃ua ne ñe’ẽñemi opa hendápe.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
