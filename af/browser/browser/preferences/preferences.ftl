@@ -3,8 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-learn-more = Meer inligting
-do-not-track-option-default =
-    .label = Slegs wanneer volgbeskerming gebruik word
 do-not-track-option-always =
     .label = Altyd
 pref-page =
@@ -22,10 +20,6 @@ category-search =
 pane-privacy-title = Privaatheid en sekuriteit
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox-rekening
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name }-ondersteuning
 focus-search =
     .key = f
@@ -251,6 +245,9 @@ choose-bookmark =
     .label = Gebruik boekmerk…
     .accesskey = b
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-engine-default-header = Versteksoekenjin
@@ -337,7 +334,6 @@ sync-fxa-privacy-notice = Privaatheidkennisgewing
 
 ## Privacy Section - Forms
 
-forms-header = Vorms en wagwoorde
 forms-exceptions =
     .label = Uitsonderings…
     .accesskey = U
@@ -388,9 +384,6 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Meer inligting
-sitedata-cookies-exceptions =
-    .label = Uitsonderings…
-    .accesskey = U
 
 ## Privacy Section - Address Bar
 
@@ -405,21 +398,15 @@ addressbar-suggestions-settings = &Verander voorkeure vir voorstelle vanaf soeke
 ## Privacy Section - Content Blocking
 
 
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
 ## Privacy Section - Tracking
 
-tracking-header = Volgbeskerming
-tracking-mode-always =
-    .label = Altyd
-    .accesskey = y
-tracking-mode-private =
-    .label = Slegs in private vensters
-    .accesskey = l
-tracking-mode-never =
-    .label = Nooit
-    .accesskey = N
-tracking-exceptions =
-    .label = Uitsonderings…
-    .accesskey = U
 
 ## Privacy Section - Permissions
 
