@@ -26,6 +26,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = Nivelul de protecție este setat pe <b>Standard</b>
 protection-header-details-strict = Nivelul de protecție este setat pe <b>Strict</b>
 protection-header-details-custom = Nivelul de protecție este setat pe <b>Personalizat</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Nivelul de protecție este setat pe <b>Standard</b>
+    .title = Mergi la Setări de confidențialitate
+protection-report-header-details-strict = Nivelul de protecție este setat pe <b>Strict</b>
+    .title = Mergi la Setări de confidențialitate
+protection-report-header-details-custom = Nivelul de protecție este setat pe <b>Personalizat</b>
+    .title = Mergi la Setări de confidențialitate
 protection-report-page-title = Protecții privind intimitatea
 protection-report-content-title = Protecții privind intimitatea
 etp-card-title = Protecție îmbunătățită împotriva urmăririi
@@ -50,6 +59,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } îți stochează în siguranță parolele în browser.
 lockwise-header-content-logged-in = Stochează-ți și sincronizează-ți parolele în siguranță pe toate dispozitivele.
 about-logins-view-logins-button = Vezi datele de autentificare
+protection-report-view-logins-button = Vezi datele de autentificare
+    .title = Mergi la Date de autentificare salvate
 lockwise-no-logins-content = Instalează aplicația <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> ca să îți iei cu tine peste tot parolele.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
