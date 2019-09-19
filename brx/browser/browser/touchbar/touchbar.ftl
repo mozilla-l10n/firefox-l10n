@@ -14,5 +14,6 @@ new-tab = गोदान टेब
 add-bookmark = बुकमार्कखौ दाजाबदेर
 # Meant to match the string displayed in an empty URL bar.
 open-location = थंखौ नागिर एबा हाबहो
+share = शेयार
 close-window = उइन्ड'खौ बन्द खालाम
 open-sidebar = साइटबार

@@ -139,6 +139,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "नोंथांनि इ-मेइलखौ आनजाद खालाम">
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; खेव सेटिं…">
 
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
@@ -219,6 +220,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY goEndCap.tooltip             "लकेसन बारनि थंआव थां">
 <!ENTITY printButton.label            "साफाय">
 <!ENTITY printButton.tooltip          "बे बिलाइखौ साफाय">
+
 
 
 
@@ -604,6 +606,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.label           "सोदोबगोनां खालाम">
 <!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate050x2.label "लासै (0.5x)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
 <!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.accesskey "F">
@@ -802,13 +805,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 
 <!ENTITY contentBlocking.cookies.label "कुकिज">
 <!ENTITY contentBlocking.cookiesView.label "कुकिज आरो साइट दाटा">
+
 
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
