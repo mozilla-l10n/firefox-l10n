@@ -14,6 +14,7 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Ajapóta mbeguekatu
+about-config-intro-warning-text = Iñambuévo jeguerohoryvéva ñemboheko ombyaikuaa { -brand-short-name } rembiapokue ýrõ hekorosã.
 about-config-intro-warning-checkbox = Chemomarandu aikétavo ko’ã jeguerohoryvévape
 about-config-intro-warning-button = Emoneĩ jekyhyje ha ehojey
 
