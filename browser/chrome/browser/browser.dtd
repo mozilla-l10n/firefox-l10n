@@ -994,6 +994,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection4.label "Nyomkövető tartalom">
 
 <!ENTITY contentBlocking.manageSettings2.label "Védelmi beállítások kezelése">
+<!ENTITY contentBlocking.manageSettings2.accesskey "k">
 
 <!ENTITY contentBlocking.socialblock.label "Közösségimédia-követők">
 
