@@ -731,6 +731,23 @@ content-blocking-strict-description = শক্তিশালী নিরা�
 content-blocking-custom-desc = নির্বাচন করুন কি ব্লক করবেন
 content-blocking-private-trackers = পরিচিত ট্র্যাকার শুধুমাত্র ব্যক্তিগত উইন্ডো তে
 content-blocking-third-party-cookies = তৃতীয় পক্ষের ট্র্যাকিং কুকি
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = প্রমিত
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = প্রখর
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = স্বনির্ধারিত
+    .accesskey = C
+
+##
+
 content-blocking-etp-standard-desc = সুরক্ষা এবং পারফরমেন্সের জন্য ভারসাম্যযুক্ত। পাতাগুলো সাধারনভাবে লোড হবে।
 content-blocking-etp-strict-desc = শক্তিশালী নিরাপত্তা দেয় , কিন্তু কিছু সাইট বা কন্টেন্ট ঠিকঠাক কাজ নাও করতে পারে ।
 content-blocking-etp-custom-desc = কোন ট্র্যাকার এবং স্ক্রিপ্টগুলো ব্লক করতে হবে তা বাছাই করুন।
