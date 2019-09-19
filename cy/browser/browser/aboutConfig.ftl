@@ -16,7 +16,7 @@ about-config-search-input =
 about-config-intro-warning-title = Byddwch Ofalus
 about-config-intro-warning-text = Gall newid dewisiadau ffurfweddiad uwch effeithio ar berfformiad neu ddiogelwch { -brand-short-name }.
 about-config-intro-warning-checkbox = Rhybuddiwch fi pan fyddaf yn ceisio mynd at y dewisiadau hyn
-about-config-intro-warning-button = Derbyn y Perygl a Parhau
+about-config-intro-warning-button = Derbyn y Perygl a Pharhau
 
 
 
