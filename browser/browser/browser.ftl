@@ -50,5 +50,9 @@ urlbar-addons-notification-anchor =
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = Προσθήκη στη γραμμή διευθύνσεων
 page-action-manage-extension =
     .label = Διαχείριση επέκτασης…
+page-action-remove-from-urlbar =
+    .label = Αφαίρεση από τη γραμμή διευθύνσεων
