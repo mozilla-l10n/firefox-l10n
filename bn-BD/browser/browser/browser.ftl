@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = পার্সিস্টেন্ট স্টোরেজে ডাটা স্টোর করুন
 urlbar-addons-notification-anchor =
     .tooltiptext = অ্যাড-অন ইনস্টলেশন বার্তা প্যানেল খুলুন
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = ঠিকানা বারে যোগ করুন
+page-action-manage-extension =
+    .label = এক্সটেনশন ব্যবস্থাপনা...
+page-action-remove-from-urlbar =
+    .label = ঠিকানা  বার থেকে অপসারণ করুন
