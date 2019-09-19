@@ -9,3 +9,8 @@ urlbar-identity-button =
 
 urlbar-translate-notification-anchor =
     .tooltiptext = Traduci sta pàggina
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Agghiunci nnâ sbarra dû nnirizzu
