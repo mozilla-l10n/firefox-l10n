@@ -16,8 +16,6 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-category-sync =
-    .tooltiptext = { pane-sync-title }
 focus-search =
     .key = f
 close-button =
@@ -148,6 +146,9 @@ choose-bookmark =
     .label = পত্ৰচিহ্ন ব্যৱহাৰ কৰক…
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-engine-default-header = অবিকল্পিত সন্ধান ইঞ্জিন
@@ -230,14 +231,18 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-cookies-exceptions =
-    .label = ব্যতিক্ৰমসমূহ…
-    .accesskey = E
 
 ## Privacy Section - Address Bar
 
 
 ## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
 
 
 ## Privacy Section - Tracking
