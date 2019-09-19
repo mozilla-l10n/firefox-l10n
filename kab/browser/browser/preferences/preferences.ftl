@@ -729,6 +729,23 @@ content-blocking-strict-description = Ammesten iǧehden, maca yezmer ad isewḥe
 content-blocking-custom-desc = Fren ayen ara tesweḥleḍ.
 content-blocking-private-trackers = Ineḍfaren yettwasnen deg usfaylu uslig kan
 content-blocking-third-party-cookies = Inagan n tuqna n uḍfar n tɣawsiwin tis kraḍ
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Tizeɣt
+    .accesskey = z
+enhanced-tracking-protection-setting-strict =
+    .label = Uḥris
+    .accesskey = ḥ
+enhanced-tracking-protection-setting-custom =
+    .label = Udmawan
+    .accesskey = d
+
+##
+
 content-blocking-all-cookies = Inagan n tuqqna meṛṛa
 content-blocking-unvisited-cookies = Inagan n tuqqna n yismal ur yettwarzan ara
 content-blocking-all-windows-trackers = Ineḍfaren yettwasnen deg akk isfuyla
