@@ -10,6 +10,14 @@ about-config-warning-button = הסיכון מקובל עלי
 about-config2-title = תצורות מתקדמות
 about-config-search-input =
     .placeholder = חיפוש
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-button = קבלת הסיכון והמשך
+
+
+
+about-config-page-title = העדפות מתקדמות
 about-config-search-input1 =
     .placeholder = חיפוש שם העדפה
 about-config-show-all = הצגת הכל
