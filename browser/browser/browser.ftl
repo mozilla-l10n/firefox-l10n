@@ -50,5 +50,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = اضافه کردن به نوار آدرس
+page-action-manage-extension =
+    .label = مدیریت افزونه…
 page-action-remove-from-urlbar =
     .label = حذف از نوار آدرس
