@@ -16,8 +16,6 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-category-sync =
-    .tooltiptext = { pane-sync-title }
 focus-search =
     .key = f
 close-button =
@@ -125,6 +123,9 @@ use-current-pages =
         }
     .accesskey = д
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-choose-keyword-column =
@@ -177,14 +178,18 @@ history-private-browsing-permanent =
 
 ## Privacy Section - Site Data
 
-sitedata-cookies-exceptions =
-    .label = Зөвшөөрөгдсөн хуудас…
-    .accesskey = ш
 
 ## Privacy Section - Address Bar
 
 
 ## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
 
 
 ## Privacy Section - Tracking
