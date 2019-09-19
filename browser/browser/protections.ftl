@@ -24,6 +24,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = Koruma düzeyi <b>standart</b> olarak ayarlanmış
 protection-header-details-strict = Koruma düzeyi <b>sıkı</b> olarak ayarlanmış
 protection-header-details-custom = Koruma düzeyi <b>özel</b> olarak ayarlanmış
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Koruma düzeyi <b>standart</b> olarak ayarlanmış
+    .title = Gizlilik ayarlarına git
+protection-report-header-details-strict = Koruma düzeyi <b>sıkı</b> olarak ayarlanmış
+    .title = Gizlilik ayarlarına git
+protection-report-header-details-custom = Koruma düzeyi <b>özel</b> olarak ayarlanmış
+    .title = Gizlilik ayarlarına git
 protection-report-page-title = Gizlilik Korumaları
 protection-report-content-title = Gizlilik Korumaları
 etp-card-title = Gelişmiş İzlenme Koruması
@@ -47,6 +56,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } parolalarınızı tarayınızda güvenle saklar.
 lockwise-header-content-logged-in = Parolalarınızı güvenle saklayın ve tüm cihazlarınızla senkronize edin.
 about-logins-view-logins-button = Hesapları göster
+protection-report-view-logins-button = Hesapları göster
+    .title = Kayıtlı hesaplara git
 lockwise-no-logins-content = Parolalarınızı yanınızda taşımak için <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> uygulamasını yükleyin.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
