@@ -13,6 +13,11 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "t">
 <!ENTITY serverPortDefault.label "Domyślnie:">
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
+        For example, in Japanese cases:
+                biffStart.label "every"
+                biffEnd.label   "minutes for new messages Check"
+-->
 <!ENTITY biffStart.label "Sprawdzaj, czy nadeszły nowe wiadomości co">
 <!ENTITY biffStart.accesskey "S">
 <!ENTITY biffEnd.label "minut">
@@ -37,7 +42,6 @@
 <!ENTITY deleteOnServer2.accesskey "D">
 <!ENTITY downloadOnBiff.label "Automatycznie pobieraj nowe wiadomości">
 <!ENTITY downloadOnBiff.accesskey "A">
-<!ENTITY username.label "Nazwa użytkownika">
 <!ENTITY deleteMessagePrefix.label "Wiadomość usunięta lokalnie:">
 <!ENTITY modelMoveToTrash.label "zostanie przeniesiona do folderu:">
 <!ENTITY modelMoveToTrash.accesskey "f">
@@ -45,14 +49,20 @@
 <!ENTITY modelMarkDeleted.accesskey "j">
 <!ENTITY modelDeleteImmediately.label "zostanie niezwłocznie usunięta">
 <!ENTITY modelDeleteImmediately.accesskey "i">
+<!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Przy wyjściu z programu porządkuj folder Odebrane">
 <!ENTITY expungeOnExit.accesskey "m">
-<!ENTITY emptyTrashOnExit.label "Przy wyjściu z programu opróżniaj Kosz">
+<!ENTITY emptyTrashOnExit.label "Przy wyjściu z programu opróżniaj kosz">
 <!ENTITY emptyTrashOnExit.accesskey "c">
 <!ENTITY loginAtStartup.label "Sprawdzaj podczas uruchamiania, czy są nowe wiadomości">
 <!ENTITY loginAtStartup.accesskey "h">
+<!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
+    maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
+    of messages between them
+-->
 <!ENTITY maxMessagesStart.label "Pytaj przy pobieraniu więcej niż">
 <!ENTITY maxMessagesStart.accesskey "y">
+<!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "wiadomości">
 <!ENTITY alwaysAuthenticate.label "Zawsze żądaj uwierzytelniania podczas łączenia z tym serwerem">
 <!ENTITY alwaysAuthenticate.accesskey "l">
