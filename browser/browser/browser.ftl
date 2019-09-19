@@ -52,5 +52,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = Agiuntar a la trav d'adressas
+page-action-manage-extension =
+    .label = Administrar il supplement…
 page-action-remove-from-urlbar =
     .label = Allontanar da la trav d'adressas
