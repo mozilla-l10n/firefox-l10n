@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Simpan data di Penyimpanan Persisten
 urlbar-addons-notification-anchor =
     .tooltiptext = Buka panel pesan pemasangan pengaya
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Tambahkan ke Bilah Alamat
+page-action-remove-from-urlbar =
+    .label = Singkirkan dari Bilah Alamat
