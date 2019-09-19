@@ -15,6 +15,15 @@ graph-week-summary =
 protection-header-details-standard = Nivel de protección ajustado a <b>Estándar</b>
 protection-header-details-strict = Nivel de protección ajustado a <b>Escricto</b>
 protection-header-details-custom = Nivel de protección ajustado a <b>Personalizado</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Nivel de protección ajustado a <b>Estándar</b>
+    .title = Ir a los ajustes de privacidad
+protection-report-header-details-strict = Nivel de protección ajustado a <b>Escricto</b>
+    .title = Ir a los ajustes de privacidad
+protection-report-header-details-custom = Nivel de protección ajustado a <b>Personalizado</b>
+    .title = Ir a los ajustes de privacidad
 protection-report-page-title = Protecciones de privacidad
 protection-report-content-title = Protecciones de privacidad
 etp-card-title = Protección de seguimiento mejorada
@@ -35,6 +44,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } almacena de forma segura tus contraseñas en tu navegador.
 lockwise-header-content-logged-in = Almacena de forma segura tus contraseñas y sincronízalas en todos tus dispositivos.
 about-logins-view-logins-button = Ver conexiones
+protection-report-view-logins-button = Ver conexiones
+    .title = Ir a las conexiones guardadas
 lockwise-no-logins-content = Obtén la aplicación de <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> para llevar tus contraseñas a todas partes.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
