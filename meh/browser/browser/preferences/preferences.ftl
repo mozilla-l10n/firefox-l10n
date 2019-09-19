@@ -282,6 +282,23 @@ content-blocking-setting-custom =
     .label = Personalizado
     .accesskey = P
 content-blocking-custom-desc = Kaji ne´i kuvi kasɨ
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Estándar
+    .accesskey = E
+enhanced-tracking-protection-setting-strict =
+    .label = Estricto
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Personalizado
+    .accesskey = P
+
+##
+
 content-blocking-all-cookies = Kuaiyo daa cookies
 content-blocking-cryptominers = Criptomineros
 content-blocking-learn-how = Kuni naja?
