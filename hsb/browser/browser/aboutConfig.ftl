@@ -10,6 +10,14 @@ about-config-warning-button = Akceptuju riziko
 about-config2-title = Rozšěrjene konfiguracije
 about-config-search-input =
     .placeholder = Pytać
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-button = Riziko akceptować a pokročować
+
+
+
+about-config-page-title = Rozšěrjene nastajenja
 about-config-search-input1 =
     .placeholder = Mjeno nastajenja pytać
 about-config-show-all = Wšě pokazać
