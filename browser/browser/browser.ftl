@@ -45,3 +45,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = पर्सिस्टन्ट स्टोरेजमध्ये माहिती साठवा
 urlbar-addons-notification-anchor =
     .tooltiptext = अॅड-ऑन प्रतिष्ठापन संदेश फलक उघडा
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = पत्ता पट्टी मध्ये जोडा
+page-action-remove-from-urlbar =
+    .label = पत्ता पट्टीमधून काढा
