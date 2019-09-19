@@ -24,6 +24,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = Le niveau de protection est réglé sur <b>Standard</b>.
 protection-header-details-strict = Le niveau de protection est réglé sur <b>Strict</b>.
 protection-header-details-custom = Le niveau de protection est réglé sur <b>Personnalisé</b>.
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Le niveau de protection est réglé sur <b>Standard</b>.
+    .title = Ouvrir les paramètres de vie privée
+protection-report-header-details-strict = Le niveau de protection est réglé sur <b>Strict</b>.
+    .title = Ouvrir les paramètres de vie privée
+protection-report-header-details-custom = Le niveau de protection est réglé sur <b>Personnalisé</b>.
+    .title = Ouvrir les paramètres de vie privée
 protection-report-page-title = Protections de la vie privée
 protection-report-content-title = Protections de la vie privée
 etp-card-title = Protection renforcée contre le pistage
@@ -48,6 +57,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } conserve de manière sécurisée vos mots de passe dans votre navigateur.
 lockwise-header-content-logged-in = Enregistrez et synchronisez vos mots de passe sur tous vos appareils en toute sécurité.
 about-logins-view-logins-button = Afficher les identifiants
+protection-report-view-logins-button = Afficher les identifiants
+    .title = Ouvrir les identifiants enregistrés
 lockwise-no-logins-content = Installez l’application <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> pour avoir vos mots de passe toujours avec vous.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
