@@ -52,5 +52,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = Titz'aqatisäx ri Kikajtz'ik Ochochib'äl
+page-action-manage-extension =
+    .label = Tinuk'samajïx K'amal…
 page-action-remove-from-urlbar =
     .label = Tiyuj el chupam ri Kikajtz'ik Ochoch
