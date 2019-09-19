@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Shrani podatke v trajni shrambi
 urlbar-addons-notification-anchor =
     .tooltiptext = Odpri ploščo s sporočili o namestitvah dodatkov
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Dodaj v naslovno vrstico
+page-action-manage-extension =
+    .label = Upravljaj razširitev ...
+page-action-remove-from-urlbar =
+    .label = Odstrani iz naslovne vrstice
