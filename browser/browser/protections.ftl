@@ -24,6 +24,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = Si Shkallë Mbrojtjeje është caktuar ajo <b>Standarde</b>
 protection-header-details-strict = Si Shkallë Mbrojtjeje është caktuar ajo <b>Strikte</b>
 protection-header-details-custom = Si Shkallë Mbrojtjeje është caktuar një <b>Vetjake</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Si Shkallë Mbrojtjeje është caktuar ajo <b>Standarde</b>
+    .title = Kaloni te Rregullime për Privatësinë
+protection-report-header-details-strict = Si Shkallë Mbrojtjeje është caktuar ajo <b>Strikte</b>
+    .title = Kaloni te Rregullime për Privatësinë
+protection-report-header-details-custom = Si Shkallë Mbrojtjeje është caktuar një <b>Vetjake</b>
+    .title = Kaloni te Rregullime për Privatësinë
 protection-report-page-title = Mbrojtje Privatësie
 protection-report-content-title = Mbrojtje Privatësie
 etp-card-title = Mbrojtje e Thelluar Nga Gjurmimi
@@ -48,6 +57,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } depoziton në mënyrë të sigurt fjalëkalimet tuaj në shfletuesin tuaj.
 lockwise-header-content-logged-in = Depozitoni dhe njëkohësoni në mënyrë të sigurt fjalëkalimet tuaj në krejt pajisjet tuaja.
 about-logins-view-logins-button = Shihni Hyrjet
+protection-report-view-logins-button = Shihni Hyrjet
+    .title = Kaloni te Kredenciale të Ruajtura Hyrjesh
 lockwise-no-logins-content = Merrni aplikacionin <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> që t’i merrni kudo me vete fjalëkalimet tuaj.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
