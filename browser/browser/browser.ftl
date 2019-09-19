@@ -50,5 +50,9 @@ urlbar-addons-notification-anchor =
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = Ychwanegu i'r Llyfr Cyfeiriadau
 page-action-manage-extension =
     .label = Rheoli Estyniad…
+page-action-remove-from-urlbar =
+    .label = Tynnu o'r Bar Cyfeiriadau
