@@ -46,5 +46,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = ठेगानापट्टिमा थप्नुहोस्
+page-action-manage-extension =
+    .label = एक्स्टेनसन व्यवस्थित गर्नुहोस्
 page-action-remove-from-urlbar =
     .label = ठेगानापट्टिबाट हटाउनुहोस्
