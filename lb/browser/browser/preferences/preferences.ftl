@@ -4,8 +4,6 @@
 
 do-not-track-description = Sitten e "Net Verfollegen" Signal schécken dass ech net verfollegt wëll ginn.
 do-not-track-learn-more = Fir méi ze wëssen
-do-not-track-option-default =
-    .label = Nëmme wann de Verfollegungsschutz benotzt gëtt
 do-not-track-option-always =
     .label = Ëmmer
 pref-page =
@@ -29,11 +27,6 @@ search-input-box =
             [windows] An den Optioune fannen
            *[other] An den Astellunge fannen
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Deng Organisatioun huet d'Ännere vu verschidden Optiounen desaktivéiert.
-       *[other] Deng Organisatioun huet d'Ännere vu verschidden Astellungen desaktivéiert.
-    }
 pane-general-title = Allgemeng
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +39,6 @@ category-search =
 pane-privacy-title = Dateschutz & Sécherheet
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox-Konto
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = Hëllef fir { -brand-short-name }
 focus-search =
     .key = f
@@ -87,9 +76,6 @@ extension-controlled-default-search = D'Erweiderung <img data-l10n-name="icon"/>
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlled-privacy-containers = D'Erweiderung <img data-l10n-name="icon"/> { $name } brauch Container Tabs.
-# This string is shown to notify the user that their tracking protection preferences
-# are being controlled by an extension.
-extension-controlled-websites-tracking-protection-mode = D'Erweiderung <img data-l10n-name="icon"/> { $name } kontrolléiert de Verfollegungsschutz.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = D'Erweiderung <img data-l10n-name="icon"/> { $name } kontrolléiert wéi de { -brand-short-name } sech un den Internet verbënnt.
@@ -268,6 +254,9 @@ choose-bookmark =
     .label = Lieszeeche benotzen...
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-choose-engine-column =
@@ -330,14 +319,15 @@ addressbar-locbar-bookmarks-option =
 ## Privacy Section - Content Blocking
 
 
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
 ## Privacy Section - Tracking
 
-tracking-mode-always =
-    .label = Ëmmer
-    .accesskey = y
-tracking-mode-never =
-    .label = Ni
-    .accesskey = N
 
 ## Privacy Section - Permissions
 
@@ -354,7 +344,6 @@ permissions-a11y-privacy-link = Fir méi ze wëssen
 ## Privacy Section - Data Collection
 
 collection-health-report-link = Fir méi ze wëssen
-collection-browser-errors-link = Fir méi ze wëssen
 collection-backlogged-crash-reports-link = Fir méi ze wëssen
 
 ## Privacy Section - Security
