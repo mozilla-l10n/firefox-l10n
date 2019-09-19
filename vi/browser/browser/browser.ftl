@@ -52,5 +52,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = Thêm vào thanh địa chỉ
+page-action-manage-extension =
+    .label = Quản lý tiện ích mở rộng…
 page-action-remove-from-urlbar =
     .label = Xóa khỏi thanh địa chỉ
