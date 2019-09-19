@@ -59,6 +59,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } надёжно хранит пароли в вашем браузере.
 lockwise-header-content-logged-in = Надёжно храните и синхронизируйте свои пароли со всеми вашими устройствами.
 about-logins-view-logins-button = Просмотр логинов
+protection-report-view-logins-button = Просмотр логинов
+    .title = Перейти к сохранённым логинам
 lockwise-no-logins-content = Загрузите приложение <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>, чтобы держать свои пароли всегда с собой.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
