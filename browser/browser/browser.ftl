@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Lưu dữ liệu vào bộ nhớ lâu dài
 urlbar-addons-notification-anchor =
     .tooltiptext = Mở bảng thông báo cài đặt tiện ích
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Thêm vào thanh địa chỉ
+page-action-remove-from-urlbar =
+    .label = Xóa khỏi thanh địa chỉ
