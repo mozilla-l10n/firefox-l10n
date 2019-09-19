@@ -55,3 +55,14 @@ certificate-viewer-timestamp = 時間戳記
 certificate-viewer-value = 值
 certificate-viewer-version = 版本
 certificate-viewer-business-category = 業務類別
+# This message is used as a row header in the Miscellaneous section. 
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = 下載
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] 是
+       *[false] 否
+    }
