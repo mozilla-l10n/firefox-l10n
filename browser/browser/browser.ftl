@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Lagre data i vedvarande lagring
 urlbar-addons-notification-anchor =
     .tooltiptext = Opne meldingspanel for tileggsinstallasjon
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Legg til i adresselinja
+page-action-manage-extension =
+    .label = Handter utviding…
+page-action-remove-from-urlbar =
+    .label = Fjern fra adresselinja
