@@ -8,8 +8,6 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-category-sync =
-    .tooltiptext = { pane-sync-title }
 close-button =
     .aria-label = Pfala
 
@@ -101,6 +99,9 @@ use-current-pages =
         }
     .accesskey = C
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 
@@ -129,6 +130,13 @@ use-current-pages =
 
 
 ## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
 
 
 ## Privacy Section - Tracking
