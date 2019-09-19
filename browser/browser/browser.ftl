@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = 在持久存储中存储数据
 urlbar-addons-notification-anchor =
     .tooltiptext = 打开附加组件安装消息面板
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = 添加到地址栏
+page-action-remove-from-urlbar =
+    .label = 从地址栏移除
