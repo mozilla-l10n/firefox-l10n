@@ -24,6 +24,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = A védelmi szint <b>Szokásos</b>
 protection-header-details-strict = A védelmi szint <b>Szigorú</b>
 protection-header-details-custom = A védelmi szint <b>Egyéni</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = A védelmi szint <b>Szokásos</b>
+    .title = Ugrás az adatvédelmi beállításokhoz
+protection-report-header-details-strict = A védelmi szint <b>Szigorú</b>
+    .title = Ugrás az adatvédelmi beállításokhoz
+protection-report-header-details-custom = A védelmi szint <b>Egyéni</b>
+    .title = Ugrás az adatvédelmi beállításokhoz
 protection-report-page-title = Adatvédelem
 protection-report-content-title = Adatvédelem
 etp-card-title = Továbbfejlesztett követés elleni védelem
@@ -47,6 +56,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = A { -lockwise-brand-name } biztonságosan tárolja a jelszavait a böngészőjében.
 lockwise-header-content-logged-in = Tárolja biztonságosan, és szinkronizálja a jelszavait az összes eszközén.
 about-logins-view-logins-button = Bejelentkezések megtekintése
+protection-report-view-logins-button = Bejelentkezések megtekintése
+    .title = Ugrás a mentett bejelentkezésekhez
 lockwise-no-logins-content = Szerezze be a <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> alkalmazást, hogy bárhová elvigye a jelszavait.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
