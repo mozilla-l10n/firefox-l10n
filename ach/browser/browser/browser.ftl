@@ -39,3 +39,12 @@ urlbar-autoplay-notification-anchor =
     .tooltiptext = Yab dirica me tuko pire kene
 urlbar-addons-notification-anchor =
     .tooltiptext = Yab dirica me kwena pi keto med-ikome
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Medi i Lanyut me kanonge
+page-action-manage-extension =
+    .label = Lo Lamed…
+page-action-remove-from-urlbar =
+    .label = Kwany ki i lanyut me kanonge
