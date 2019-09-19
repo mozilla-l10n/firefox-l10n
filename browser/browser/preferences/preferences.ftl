@@ -9,12 +9,21 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-category-sync =
-    .tooltiptext = { pane-sync-title }
 close-button =
     .aria-label = மூடுக
 
 ## Browser Restart Dialog
+
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
 
 
 ## Preferences UI Search Results
@@ -90,6 +99,9 @@ network-proxy-connection-settings =
 ## Home Section - Home Page Customization
 
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 
@@ -121,11 +133,18 @@ history-remember-option-never =
 
 ## Privacy Section - Site Data
 
-sitedata-cookies-exceptions =
-    .label = விதிவிலக்குகள்
-    .accesskey = E
 
 ## Privacy Section - Address Bar
+
+
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
 
 
 ## Privacy Section - Tracking
@@ -155,3 +174,6 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = சான்றிதழ்கள்
+
+## The following strings are used in the Download section of settings
+
