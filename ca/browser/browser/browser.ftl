@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Desa dades en l'emmagatzematge persistent
 urlbar-addons-notification-anchor =
     .tooltiptext = Obre la subfinestra del missatge d'instal·lació del complement
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Afegeix a la barra d'adreces
+page-action-remove-from-urlbar =
+    .label = Elimina de la barra d'adreces
