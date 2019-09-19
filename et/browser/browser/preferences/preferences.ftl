@@ -728,6 +728,23 @@ content-blocking-strict-description = Tugevam kaitse, võib põhjustada mõnel s
 content-blocking-custom-desc = Võimaldab blokitava sisu ise valida.
 content-blocking-private-trackers = tuntud jälitajad ainult privaatsetes akendes
 content-blocking-third-party-cookies = kolmanda osapoole jälitamise küpsised
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Tavaline
+    .accesskey = T
+enhanced-tracking-protection-setting-strict =
+    .label = Range
+    .accesskey = R
+enhanced-tracking-protection-setting-custom =
+    .label = Kohandatud
+    .accesskey = K
+
+##
+
 content-blocking-all-cookies = Kõik küpsised
 content-blocking-unvisited-cookies = küpsised külastamata saitidelt
 content-blocking-all-windows-trackers = tuntud jälitajad kõigis akendes
