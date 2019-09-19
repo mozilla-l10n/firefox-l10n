@@ -48,5 +48,9 @@ urlbar-addons-notification-anchor =
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = Engadir á barra de enderezos
 page-action-manage-extension =
     .label = Xestionar extensión…
+page-action-remove-from-urlbar =
+    .label = Retirar da barra de enderezos
