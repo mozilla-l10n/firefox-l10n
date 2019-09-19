@@ -714,6 +714,23 @@ content-blocking-standard-desc = Jafnvægi á vernd og vinnslu. Leyfir suma rekj
 content-blocking-custom-desc = Velja hvað skal blokka.
 content-blocking-private-trackers = Þekktir rekjarar einungis í huliðsglugga.
 content-blocking-third-party-cookies = Vefkökur frá þriðja aðila
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Staðlað
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Strangt
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Sérsniðið
+    .accesskey = C
+
+##
+
 content-blocking-all-cookies = Allar vefkökur
 content-blocking-unvisited-cookies = Vefkökur frá óheimsóttum vefsíðum
 content-blocking-all-windows-trackers = Þekktir rekjarar í öllum gluggum
