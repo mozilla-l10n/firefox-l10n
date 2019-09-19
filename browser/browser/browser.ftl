@@ -50,5 +50,9 @@ urlbar-addons-notification-anchor =
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = Дадаць у адрасны радок
 page-action-manage-extension =
     .label = Кіраваць пашырэннямі…
+page-action-remove-from-urlbar =
+    .label = Выдаліць з адраснага радка
