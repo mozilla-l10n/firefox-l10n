@@ -50,5 +50,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = पत्ता पट्टी मध्ये जोडा
+page-action-manage-extension =
+    .label = एक्सटेन्शन व्यवस्थापित करा…
 page-action-remove-from-urlbar =
     .label = पत्ता पट्टीमधून काढा
