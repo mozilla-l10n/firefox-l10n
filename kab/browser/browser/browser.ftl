@@ -50,5 +50,9 @@ urlbar-addons-notification-anchor =
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = Rnu ɣeṛ yimedlis n tansa
+page-action-manage-extension =
+    .label = Sefrek aseɣzef…
 page-action-remove-from-urlbar =
     .label = Kkes seg ufeggag n tansa
