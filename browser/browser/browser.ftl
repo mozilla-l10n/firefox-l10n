@@ -52,5 +52,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = Адрес жолағына қосу
+page-action-manage-extension =
+    .label = Кеңейтуді басқару…
 page-action-remove-from-urlbar =
     .label = Адрес жолағынан алып тастау
