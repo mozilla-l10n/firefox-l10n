@@ -10,6 +10,13 @@ about-config-warning-button = Amoneĩ pe kyhyjerã
 about-config2-title = Ñemboheko henyhẽtamava
 about-config-search-input =
     .placeholder = Heka
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Ajapóta mbeguekatu
+
+
+
 about-config-search-input1 =
     .placeholder = Jeguerohoryvéva réra jeheka
 about-config-show-all = Ehechaukapa
