@@ -701,6 +701,20 @@ content-blocking-strict-description = Proteçion ciù fòrte, çerti sciti porie
 content-blocking-custom-desc = Çerni cöse blòccâ
 content-blocking-private-trackers = Elementi che tracian conosciui inti barcoin privæ
 content-blocking-third-party-cookies = Cookie che tracian de terse parte
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standard
+    .accesskey = d
+enhanced-tracking-protection-setting-custom =
+    .label = Personalizzou
+    .accesskey = P
+
+##
+
 content-blocking-all-cookies = Tutti i cookie
 content-blocking-all-windows-trackers = Elementi che tracian conosciui in tutti i barcoin
 content-blocking-all-third-party-cookies = Tutti i cookie de terse parte
