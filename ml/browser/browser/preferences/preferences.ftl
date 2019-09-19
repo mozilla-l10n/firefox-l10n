@@ -563,6 +563,19 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = യഥേഷ്ടം
     .accesskey = C
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+enhanced-tracking-protection-setting-strict =
+    .label = കണിശമായി
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = യഥേഷ്ടം
+    .accesskey = C
+
+##
+
 content-blocking-all-cookies = എല്ലാ കുക്കികളും
 content-blocking-cryptominers = ക്രിപ്റ്റോമൈനേഴ്സ്
 content-blocking-fingerprinters = വിരലടയാളങ്ങൾ
