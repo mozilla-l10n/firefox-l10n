@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY toField4.label "收件人">
-<!ENTITY fromField4.label "发件人">
+<!ENTITY fromField4.label "来自">
 <!ENTITY senderField4.label "发件人">
 <!ENTITY author.label "作者">
 <!ENTITY organizationField4.label "组织">

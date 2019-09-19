@@ -196,7 +196,7 @@
 <!ENTITY sortByJunkStatusCmd.accesskey "J">
 <!ENTITY sortBySubjectCmd.label "主题">
 <!ENTITY sortBySubjectCmd.accesskey "b">
-<!ENTITY sortByFromCmd.label "发件人">
+<!ENTITY sortByFromCmd.label "来自">
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "收件人">
 <!ENTITY sortByRecipientCmd.accesskey "c">
@@ -698,7 +698,7 @@
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "标题">
-<!ENTITY searchFromMenu.label "发件人">
+<!ENTITY searchFromMenu.label "来自">
 <!ENTITY searchSubjectOrFromMenu.label "标题或发件人">
 <!ENTITY searchRecipient.label "收件人或转发">
 <!ENTITY searchSubjectOrRecipientMenu.label "标题，收件人或者抄送人">
@@ -708,7 +708,7 @@
 <!-- Thread Pane -->
 <!ENTITY selectColumn.label "选择消息">
 <!ENTITY threadColumn.label "话题">
-<!ENTITY fromColumn.label "发件人">
+<!ENTITY fromColumn.label "来自">
 <!ENTITY recipientColumn.label "收件人">
 <!ENTITY correspondentColumn.label "通信者">
 <!ENTITY subjectColumn.label "主题">
