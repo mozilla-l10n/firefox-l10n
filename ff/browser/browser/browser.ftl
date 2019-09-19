@@ -50,5 +50,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = Ɓeydu to Palal Ñiiɓirɗe
+page-action-manage-extension =
+    .label = Yiil Timmitere…
 page-action-remove-from-urlbar =
     .label = Ittu e Palal Ñiiɓirɗe
