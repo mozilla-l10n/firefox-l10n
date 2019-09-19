@@ -628,6 +628,19 @@ content-blocking-setting-custom =
 content-blocking-custom-desc = ပိတ်ပင်မည့်အရာကို ရွေးပါ။
 content-blocking-private-trackers = ဝင်းဒိုးအားလုံးတွင်ထင်ရှားခြေရာခံမှုများ
 content-blocking-third-party-cookies = သက်ဗ်ပါတီခြေရာခံနေသောကွတ်ကီးများ
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+enhanced-tracking-protection-setting-strict =
+    .label = တားမြစ်ရန်
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = စိတ်ကြိုက်
+    .accesskey = C
+
+##
+
 content-blocking-all-cookies = ကွတ်ကီးအားလုံး
 content-blocking-unvisited-cookies = မလည်ပတ်သောဆိုက်များမှ ကွတ်ကီးများ
 content-blocking-all-windows-trackers = ဝင်းဒိုးအားလုံးတွင် ထင်ရှားခြေရာခံမှုများ
