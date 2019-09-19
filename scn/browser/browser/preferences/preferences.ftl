@@ -29,11 +29,6 @@ search-input-box =
             [windows] Trova nnall'uzziuna
            *[other] Trova nnê prifirenzi
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] La to urganizzazziuni disabbilitò la pussibbilità di canciari certi uzziuna.
-       *[other] La to urganizzazziuni disabbilitò la pussibbilità di canciari certi prifirenzi.
-    }
 pane-general-title = Ginirali
 category-general =
     .tooltiptext = { pane-general-title }
@@ -46,10 +41,6 @@ category-search =
 pane-privacy-title = Privatizza e sicurizza
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Cuntu FIrefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
@@ -387,6 +378,9 @@ choose-bookmark =
     .label = Usa nzingalibbra...
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-bar-header = Barra di ricerca
@@ -528,8 +522,6 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Sarba
     .accesskey = v
-sync-mobilepromo-single = Cunnetti n'autru dispusitivu
-sync-mobilepromo-multi = Gistisci dispusitivi
 sync-connect-another-device = Cunnetti n'autru dispusitivu
 sync-manage-devices = Gistisci dispusitivi
 sync-fxa-begin-pairing = Accucchia un dispusitivu
@@ -659,7 +651,6 @@ addressbar-suggestions-settings = Cancia li prifirenzi pî suggirimenti di mutur
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bluccaggiu di cuntinutu
-content-blocking-description = Blocca cuntinuti di terzi parti ca ti tràzzanu Riti Riti. Cuntrolla quantu attività 'n linia vennu sarbati e spartuti ntra li siti.
 content-blocking-section-description = Pruteggi la to privatizza mentri nàvighi. Blocca li cuntinuti mmisìbbili ca tràzzanu li siti ca vìsiti e ti prufìlanu. Bluccari certi di sti cuntinuti ponnu fari carricari li pàggini cchiù lesti.
 content-blocking-learn-more = Cchiù nfurmazziuna
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -673,13 +664,28 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Pirsunalizzatu
     .accesskey = C
-content-blocking-standard-description = Blocca li trazzatura canusciuti sullu nnê finestri privati.
 content-blocking-standard-desc = Valanzatu pi prutizziuni e pristazziuna. Pirmetti certi trazzatura pi fari funziunari li siti boni.
-content-blocking-strict-desc = Blocca tutti li trattura ca rileva { -brand-short-name }. Putissi fari ncippari certi siti.
 content-blocking-strict-description = Prutizziuni cchiù forti, putissi ncippari certi siti.
 content-blocking-custom-desc = Scegghi zoccu bluccari.
 content-blocking-private-trackers = Trazzatura canusciuti sulu nnê finestri privati
 content-blocking-third-party-cookies = Cookie di trazzamentu di terzi parti
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Nurmali
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Rìggidu
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Pirsunalizzatu
+    .accesskey = C
+
+##
+
 content-blocking-all-cookies = Tutti li cookie
 content-blocking-unvisited-cookies = Cookie di siti nun visitati
 content-blocking-all-windows-trackers = Trazzatura canusciuti nna tutti li finestri
@@ -687,7 +693,6 @@ content-blocking-all-third-party-cookies = Tutti li cookie di terzi parti
 content-blocking-cryptominers = Crittuminatura
 content-blocking-fingerprinters = Riggistratura di mprunti diggitali
 content-blocking-warning-title = Cumanna!
-content-blocking-warning-desc = Bluccari li cookie e li trazzatura po fari ncippari certi siti. È fàcili disabbilitari lu bloccu pî siti dî quali ti fidi.
 content-blocking-warning-description = Bluccari cuntinuti po ncippari certi siti. È fàcili disabbilitari lu bloccu pî siti dî quali ti fidi.
 content-blocking-learn-how = Scopri comu
 content-blocking-reload-description = Ài a ricarricari li schedi p'appricari sti canciamenti.
