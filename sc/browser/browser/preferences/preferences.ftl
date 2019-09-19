@@ -16,8 +16,6 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-category-sync =
-    .tooltiptext = { pane-sync-title }
 focus-search =
     .key = m
 
@@ -68,6 +66,9 @@ performance-settings-learn-more = Leghe àteru
 ## Home Section - Home Page Customization
 
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-engine-default-header = Pone su primu chircadore chi b'est istadu
@@ -105,6 +106,13 @@ sitedata-learn-more = Leghe àteru
 
 
 ## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
 
 
 ## Privacy Section - Tracking
