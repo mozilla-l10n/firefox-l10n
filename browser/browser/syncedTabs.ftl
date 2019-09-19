@@ -37,3 +37,4 @@ synced-tabs-context-manage-devices =
     .label = Upravljanje naprav …
     .accesskey = n
 fxa-sign-in = Prijava v { -sync-brand-short-name }
+turn-on-sync = Vklopi { -sync-brand-short-name }

@@ -254,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Upravljanje uporabe vtičnikov">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Spremenite, ali lahko prejemate obvestila te strani">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Shrani podatke v trajni shrambi">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Brskalnik je pod daljinskim upravljanjem">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Odpri ploščo za spletno overitev">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Odpri ploščo z dovoljenji za brskanje">
@@ -441,6 +442,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prijavite se za ogled seznama zavihkov drugih naprav.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Svoj račun morate potrditi.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prijavite se v Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Prijava v &syncBrand.shortName.label; …">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Vklopi &syncBrand.shortName.label; …">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Upravljanje naprav …">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Pokaži stransko vrstico s sinhroniziranimi zavihki">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Skrij stransko vrstico s sinhroniziranimi zavihki">
@@ -978,10 +981,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Sledilci">
 
 <!ENTITY contentBlocking.manageSettings.label "Upravljaj zavračanje vsebine">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Sledilna vsebina">
-
-<!ENTITY contentBlocking.manageSettings2.label "Upravljanje nastavitev zaščite">
 <!ENTITY contentBlocking.manageSettings.accesskey "U">
 
 <!ENTITY contentBlocking.trackersView.label "Sledilci">
@@ -989,6 +988,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "Piškotki">
 <!ENTITY contentBlocking.cookiesView.label "Piškotki in podatki strani">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Sledilna vsebina">
+
+<!ENTITY contentBlocking.manageSettings2.label "Upravljanje nastavitev zaščite">
 
 <!ENTITY contentBlocking.socialblock.label "Sledilci družbenih omrežij">
 
