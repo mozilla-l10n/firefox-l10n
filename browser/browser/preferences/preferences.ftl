@@ -681,6 +681,23 @@ content-blocking-setting-custom =
 content-blocking-custom-desc = अवरोधित करने के लिए चुनें।
 content-blocking-private-trackers = निजी विंडो में केवल ज्ञात ट्रैकर्स
 content-blocking-third-party-cookies = तीसरे-पक्ष की ट्रैकिंग कुकीज़
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = मानक
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = सख़्त
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = मनपसंद
+    .accesskey = त
+
+##
+
 content-blocking-all-cookies = सारे कुकीज़
 content-blocking-all-windows-trackers = सभी विंडो में ज्ञात ट्रैकर्स
 content-blocking-all-third-party-cookies = सभी तृतीय-पक्ष कुकीज़
