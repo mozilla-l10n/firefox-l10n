@@ -665,6 +665,23 @@ content-blocking-standard-desc = Seimbang untuk perlindungan dan prestasi. Mengi
 content-blocking-custom-desc = Pilih apa yang hendak disekat.
 content-blocking-private-trackers = Penjejak yang diketahui sahaja dalam Private Windows
 content-blocking-third-party-cookies = Kuki penjejakan pihak ketiga
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Piawai
+    .accesskey = i
+enhanced-tracking-protection-setting-strict =
+    .label = Rapi
+    .accesskey = p
+enhanced-tracking-protection-setting-custom =
+    .label = Penyesuaian
+    .accesskey = P
+
+##
+
 content-blocking-all-windows-trackers = Penjejak yang diketahui dalam semua tetingkap
 content-blocking-all-third-party-cookies = Semua kuki pihak ketiga
 content-blocking-learn-how = Ketahui caranya
