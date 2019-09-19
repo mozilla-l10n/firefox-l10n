@@ -10,6 +10,14 @@ about-config-warning-button = 我發誓，我一定會小心的！
 about-config2-title = 進階設定
 about-config-search-input =
     .placeholder = 搜尋
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-button = 接受風險並繼續
+
+
+
+about-config-page-title = 進階偏好設定
 about-config-search-input1 =
     .placeholder = 搜尋偏好設定
 about-config-show-all = 全部顯示
