@@ -14,16 +14,6 @@ graph-week-summary =
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
 # earliest date recorded in the database.
-graph-total-summary =
-    { $count ->
-        [one] Od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } zablokowano { $count } element śledzący
-        [few] Od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } zablokowano { $count } elementy śledzące
-       *[many] Od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } zablokowano { $count } elementów śledzących
-    }
-# Variables:
-#   $count (Number) - Number of tracking events blocked.
-#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
-# earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
         [one] Od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } zablokowano <b>{ $count }</b> element śledzący
@@ -36,6 +26,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = Ustawiony jest <b>standardowy</b> poziom ochrony
 protection-header-details-strict = Ustawiony jest <b>ścisły</b> poziom ochrony
 protection-header-details-custom = Ustawiony jest <b>własny</b> poziom ochrony
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Ustawiony jest <b>standardowy</b> poziom ochrony
+    .title = Otwórz ustawienia prywatności
+protection-report-header-details-strict = Ustawiony jest <b>ścisły</b> poziom ochrony
+    .title = Otwórz ustawienia prywatności
+protection-report-header-details-custom = Ustawiony jest <b>własny</b> poziom ochrony
+    .title = Otwórz ustawienia prywatności
 protection-report-page-title = Ochrona prywatności
 protection-report-content-title = Ochrona prywatności
 etp-card-title = Wzmocniona ochrona przed śledzeniem
@@ -50,7 +49,6 @@ social-tab-contant = Serwisy społecznościowe umieszczają elementy śledzące 
 cookie-tab-title = Ciasteczka śledzące między witrynami
 cookie-tab-content = Te ciasteczka śledzą Cię od strony do strony w celu zbierania danych o tym, co robisz w Internecie. Są umieszczane przez zewnętrzne firmy, takie jak agencje reklamowe i firmy analityczne. Blokowanie tych ciasteczek zmniejsza liczbę reklam, które chodzą Twoim śladem. <a data-l10n-name="learn-more-link">Więcej informacji</a>
 tracker-tab-title = Treści z elementami śledzącymi
-tracker-tab-content = Witryny mogą wczytywać zewnętrzne reklamy, filmy i inne treści zawierające elementy śledzące. Blokowanie ich może przyspieszyć wczytywanie stron, ale niektóre przyciski, formularze i pola logowania mogą działać niepoprawnie. <a data-l10n-name="learn-more-link">Więcej informacji</a>
 tracker-tab-description = Witryny mogą wczytywać zewnętrzne reklamy, filmy i inne treści z elementami śledzącymi. Blokowanie ich może przyspieszyć wczytywanie stron, ale niektóre przyciski, formularze i pola logowania mogą działać niepoprawnie. <a data-l10n-name="learn-more-link">Więcej informacji</a>
 fingerprinter-tab-title = Elementy śledzące przez zbieranie informacji o konfiguracji
 fingerprinter-tab-content = Te elementy zbierają ustawienia przeglądarki i komputera, aby utworzyć profil użytkownika. Za pomocą tego cyfrowego odcisku palca mogą śledzić Cię między różnymi witrynami. <a data-l10n-name="learn-more-link">Więcej informacji</a>
@@ -60,8 +58,9 @@ lockwise-title = Już nigdy nie zapomnij żadnego hasła
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } bezpiecznie przechowuje Twoje hasła w przeglądarce.
 lockwise-header-content-logged-in = Bezpiecznie przechowuj i synchronizuj hasła na wszystkich urządzeniach.
-open-about-logins-button = Otwórz w przeglądarce { -brand-short-name }
 about-logins-view-logins-button = Wyświetl dane logowania
+protection-report-view-logins-button = Wyświetl dane logowania
+    .title = Wyświetl zachowane dane logowania
 lockwise-no-logins-content = Pobierz aplikację <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>, aby mieć hasła zawsze przy sobie.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -83,43 +82,13 @@ lockwise-sync-status =
         [few] Synchronizowanie z { $count } innymi urządzeniami
        *[many] Synchronizowanie z { $count } innymi urządzeniami
     }
-lockwise-sync-not-syncing = Żadne inne urządzenia nie są synchronizowane.
 lockwise-sync-not-syncing-devices = Żadne inne urządzenia nie są synchronizowane
 monitor-title = Miej oko na wyciekach danych
 monitor-link = Jak to działa
-monitor-header-content = Wypróbuj { -monitor-brand-name }, aby sprawdzić, czy Twoje dane nie wyciekły i otrzymywać powiadomienia o nowych wyciekach danych.
-monitor-header-content-logged-in = { -monitor-brand-name } ostrzega, jeśli Twoje dane pojawiły się w znanym wycieku
 monitor-header-content-no-account = Wypróbuj { -monitor-brand-name }, aby sprawdzić, czy Twoje dane nie wyciekły i otrzymywać powiadomienia o nowych wyciekach danych.
 monitor-header-content-signed-in = { -monitor-brand-name } ostrzega, jeśli Twoje dane pojawiły się w znanym wycieku.
 monitor-sign-up = Subskrybuj powiadomienia o wyciekach
 auto-scan = Automatycznie przeskanowano dzisiaj
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-monitored-addresses =
-    { $count ->
-        [one] monitorowany adres e-mail.
-        [few] monitorowane adresy e-mail.
-       *[many] monitorowanych adresów e-mail.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of known data breaches. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-known-breaches =
-    { $count ->
-        [one] znany wyciek ujawnił Twoje dane.
-        [few] znane wycieki ujawniły Twoje dane.
-       *[many] znanych wycieków ujawniło Twoje dane.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of exposed passwords. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-exposed-passwords =
-    { $count ->
-        [one] hasło zostało ujawnione we wszystkich wyciekach.
-        [few] hasła zostały ujawnione we wszystkich wyciekach.
-       *[many] haseł zostało ujawnionych we wszystkich wyciekach.
-    }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
