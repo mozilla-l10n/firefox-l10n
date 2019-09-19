@@ -43,3 +43,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = నిరంతర నిల్వ డేటాని నిల్వ చేయండి
 urlbar-addons-notification-anchor =
     .tooltiptext = యాడ్-ఆన్ స్థాపన సందేశపు ప్యానెలు తెరువు
+
+## Page Action Context Menu
+
+page-action-manage-extension =
+    .label = పొడగింత నిర్వహణ…
