@@ -685,6 +685,20 @@ content-blocking-setting-custom =
 content-blocking-custom-desc = Causissètz çò que volètz blocar.
 content-blocking-private-trackers = Los traçadors coneguts dins las fenèstras de navegacion privada solament
 content-blocking-third-party-cookies = Cookies de seguiment tèrces
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standard
+    .accesskey = d
+enhanced-tracking-protection-setting-custom =
+    .label = Personalizat
+    .accesskey = P
+
+##
+
 content-blocking-all-windows-trackers = Traçadors coneguts dins totas las fenèstras
 content-blocking-all-third-party-cookies = Totes los cookies tèrces
 content-blocking-warning-title = Atencion !
