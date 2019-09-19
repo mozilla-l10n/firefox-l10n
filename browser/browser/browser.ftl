@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Зберігати дані в постійному сховищі
 urlbar-addons-notification-anchor =
     .tooltiptext = Відкрити панель повідомлень встановлення додатків
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Додати до панелі адреси
+page-action-remove-from-urlbar =
+    .label = Вилучити з панелі адреси
