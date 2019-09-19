@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Gem data i vedvarende lager
 urlbar-addons-notification-anchor =
     .tooltiptext = Åbn panelet for beskeder om installering af tilføjelser
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Føj til adressefeltet
+page-action-manage-extension =
+    .label = Håndter udvidelse…
+page-action-remove-from-urlbar =
+    .label = Fjern fra adressefeltet
