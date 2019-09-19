@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = 영구 저장소에 데이터를 저장
 urlbar-addons-notification-anchor =
     .tooltiptext = 부가기능 설치 메시지 패널 열기
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = 주소 표시줄에 추가
+page-action-remove-from-urlbar =
+    .label = 주소 표시줄에서 제거
