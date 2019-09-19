@@ -45,3 +45,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Glabāt datus pastāvīgajā krātuvē
 urlbar-addons-notification-anchor =
     .tooltiptext = Atvērt papildinājumu instalēšanas ziņojumu paneli
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Pievienot adreses joslai
+page-action-manage-extension =
+    .label = Pārvaldīt paplašinājumu…
+page-action-remove-from-urlbar =
+    .label = Novākt no adreses joslas
