@@ -7,5 +7,10 @@ urlbar-identity-button =
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-midi-notification-anchor =
+    .tooltiptext = मिदि पेनल खेव
 urlbar-translate-notification-anchor =
     .tooltiptext = बे बिलाइखौ राव सोलाय
+
+## Page Action Context Menu
+
