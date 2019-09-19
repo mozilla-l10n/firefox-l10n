@@ -13,15 +13,6 @@ graph-week-summary =
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
 # earliest date recorded in the database.
-graph-total-summary =
-    { $count ->
-        [one] { $count } tracker geblokkeerd sinds { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] { $count } trackers geblokkeerd sinds { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-    }
-# Variables:
-#   $count (Number) - Number of tracking events blocked.
-#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
-# earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
         [one] <b>{ $count }</b> tracker geblokkeerd sinds { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
@@ -33,6 +24,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = Beschermingsniveau is ingesteld op <b>Standaard</b>
 protection-header-details-strict = Beschermingsniveau is ingesteld op <b>Streng</b>
 protection-header-details-custom = Beschermingsniveau is ingesteld op <b>Aangepast</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Beschermingsniveau is ingesteld op <b>Standaard</b>
+    .title = Naar privacyinstellingen
+protection-report-header-details-strict = Beschermingsniveau is ingesteld op <b>Streng</b>
+    .title = Naar privacyinstellingen
+protection-report-header-details-custom = Beschermingsniveau is ingesteld op <b>Aangepast</b>
+    .title = Naar privacyinstellingen
 protection-report-page-title = Privacybeschermingen
 protection-report-content-title = Privacybeschermingen
 etp-card-title = Verbeterde bescherming tegen volgen
@@ -47,7 +47,6 @@ social-tab-contant = Sociale netwerken plaatsen trackers op andere websites om t
 cookie-tab-title = Cross-site-trackingcookies
 cookie-tab-content = Deze cookies volgen u op verschillende websites om gegevens te verzamelen over wat u online doet. Ze worden geplaatst door derden, zoals adverteerders en analysebedrijven. Door cross-sitetrackingcookies te blokkeren, vermindert het aantal advertenties dat u volgt. <a data-l10n-name="learn-more-link">Meer info</a>
 tracker-tab-title = Volginhoud
-tracker-tab-content = Websites kunnen externe advertenties, video’s en andere inhoud laden die volgcode bevat. Het blokkeren van volginhoud kan websites helpen sneller te laden, maar sommige knoppen, formulieren en aanmeldvelden werken mogelijk niet. <a data-l10n-name="learn-more-link">Meer info</a>
 tracker-tab-description = Websites kunnen externe advertenties, video’s en andere inhoud laden met volgcode. Het blokkeren van volginhoud kan websites helpen sneller te laden, maar sommige knoppen, formulieren en aanmeldvelden werken mogelijk niet. <a data-l10n-name="learn-more-link">Meer info</a>
 fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters verzamelen instellingen van uw browser en computer om een profiel van u te maken. Met behulp van deze digitale vingerafdruk kunnen ze u op verschillende websites volgen. <a data-l10n-name="learn-more-link">Meer info</a>
@@ -57,8 +56,9 @@ lockwise-title = Vergeet nooit meer een wachtwoord
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } slaat uw wachtwoorden veilig op in uw browser.
 lockwise-header-content-logged-in = Bewaar en synchroniseer uw wachtwoorden veilig op al uw apparaten.
-open-about-logins-button = Openen in { -brand-short-name }
 about-logins-view-logins-button = Aanmeldingen weergeven
+protection-report-view-logins-button = Aanmeldingen weergeven
+    .title = Naar opgeslagen aanmeldingen
 lockwise-no-logins-content = Download de <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>-app om uw wachtwoorden overal mee naartoe te nemen.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -78,40 +78,13 @@ lockwise-sync-status =
         [one] Synchroniseert met { $count } ander apparaat
        *[other] Synchroniseert met { $count } andere apparaten
     }
-lockwise-sync-not-syncing = Synchroniseert niet met andere apparaten.
 lockwise-sync-not-syncing-devices = Synchroniseert niet met andere apparaten
 monitor-title = Let op datalekken
 monitor-link = Hoe het werkt
-monitor-header-content = Kijk op { -monitor-brand-name } om te zien of u getroffen bent door een datalek en ontvang waarschuwingen over nieuwe lekken.
-monitor-header-content-logged-in = { -monitor-brand-name } waarschuwt u als uw gegevens voorkomen in een bekend datalek
 monitor-header-content-no-account = Kijk op { -monitor-brand-name } om te zien of u getroffen bent door een bekend datalek en ontvang waarschuwingen over nieuwe datalekken.
 monitor-header-content-signed-in = { -monitor-brand-name } waarschuwt u als uw gegevens voorkomen in een bekend datalek.
 monitor-sign-up = Inschrijven voor waarschuwingen over datalekken
 auto-scan = Vandaag automatisch gescand
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-monitored-addresses =
-    { $count ->
-        [one] e-mailadres wordt gemonitord.
-       *[other] e-mailadressen worden gemonitord.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of known data breaches. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-known-breaches =
-    { $count ->
-        [one] bekend datalek heeft uw gegevens gelekt.
-       *[other] bekende datalekken hebben uw gegevens gelekt.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of exposed passwords. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-exposed-passwords =
-    { $count ->
-        [one] wachtwoord gelekt in alle lekken.
-       *[other] wachtwoorden gelekt in alle lekken.
-    }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
