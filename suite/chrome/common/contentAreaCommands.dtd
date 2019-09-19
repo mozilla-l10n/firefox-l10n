@@ -155,6 +155,16 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "L">
 <!ENTITY spellAddDictionaries.label     "下载更多字典">
 <!ENTITY spellAddDictionaries.accesskey "D">
+
+<!ENTITY fillLoginMenu.label          "填写登录信息">
+<!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillPasswordMenu.label       "填写密码">
+<!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.label       "填写用户名">
+<!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY noLoginSuggestions.label     "（无登录信息建议）">
+<!ENTITY viewSavedLogins.label        "查看存放的登录信息">
+
 <!-- Developer Tools -->
 <!ENTITY devtoolsInspect.label          "查看元素">
 <!ENTITY devtoolsInspect.accesskey      "n">
