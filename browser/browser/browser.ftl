@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = સ્થાયી સંગ્રહમાં ડેટા સંગ્રહ કરો
 urlbar-addons-notification-anchor =
     .tooltiptext = ઍડ-ઑન ઇન્સ્ટોલેશન મેસેજ પેનલ ખોલો
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = સરનામાં બારમાં ઉમેરો
+page-action-remove-from-urlbar =
+    .label = સરનામાં બારમાંથી દૂર કરો
