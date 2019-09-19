@@ -286,6 +286,16 @@ content-blocking-setting-custom =
     .label = Nixi kunu
     .accesskey = N
 
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+enhanced-tracking-protection-setting-custom =
+    .label = Nixi kunu
+    .accesskey = N
+
+##
+
+
 ## Privacy Section - Tracking
 
 
