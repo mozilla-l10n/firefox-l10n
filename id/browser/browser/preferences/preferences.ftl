@@ -717,6 +717,19 @@ content-blocking-strict-description = Perlindungan yang lebih kuat, dapat menyeb
 content-blocking-custom-desc = Pilih yang diblokir.
 content-blocking-private-trackers = Hanya pelacak yang dikenal di Jendela Privat
 content-blocking-third-party-cookies = Kuki pelacak pihak ketiga
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+enhanced-tracking-protection-setting-strict =
+    .label = Ketat
+    .accesskey = K
+enhanced-tracking-protection-setting-custom =
+    .label = Ubahsuai
+    .accesskey = U
+
+##
+
 content-blocking-cross-site-tracking-cookies = Kuki pelacakan lintas situs
 content-blocking-social-media-trackers = Pelacak media sosial
 content-blocking-all-cookies = Semua kuki
