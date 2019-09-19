@@ -24,6 +24,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = Skyddsnivån är inställd på <b>Standard</b>
 protection-header-details-strict = Skyddsnivån är inställd på <b>Strikt</b>
 protection-header-details-custom = Skyddsnivån är inställd på <b>Anpassad</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Skyddsnivån är inställd på <b>Standard</b>
+    .title = Gå till sekretessinställningar
+protection-report-header-details-strict = Skyddsnivån är inställd på <b>Strikt</b>
+    .title = Gå till sekretessinställningar
+protection-report-header-details-custom = Skyddsnivån är inställd på <b>Anpassad</b>
+    .title = Gå till sekretessinställningar
 protection-report-page-title = Integritetsskydd
 protection-report-content-title = Integritetsskydd
 etp-card-title = Förbättrat spårningsskydd
