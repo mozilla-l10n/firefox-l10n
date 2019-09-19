@@ -52,5 +52,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = Gehitu helbide-barran
+page-action-manage-extension =
+    .label = Kudeatu hedapena…
 page-action-remove-from-urlbar =
     .label = Kendu helbide-barratik
