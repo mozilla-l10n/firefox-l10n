@@ -5,12 +5,12 @@
 <!ENTITY firstrun_panel_title_welcome "Tereg̃uahẽporãite">
 <!ENTITY firstrun_urlbar_message2 "Aguyje reiporavo haguére &brandShortName;">
 <!ENTITY newfirstrun_urlbar_message "Tereg̃uahẽporãite &brandShortName;-pe">
-<!ENTITY firstrun_urlbar_subtext2 "Peteĩ kundahára ojapóva Mozilla, peteĩ aty oheka\&apos;ỹva viru ha oipotáva ñandutiveve isãso ha oikóva opavavépe g̃uarã.">
+<!ENTITY firstrun_urlbar_subtext2 "Kundahára ojapóva Mozilla, peteĩ aty oheka\&apos;ỹva viru ha oipotáva ñanduti isãso ha oikóva opavavépe g̃uarã.">
 <!ENTITY newfirstrun_urlbar_subtext "Pya’e, ñemi ha nde ykére.">
-<!ENTITY firstrun_panel_title_privacy "Tekovepypegua">
-<!ENTITY firstrun_privacy_message "Eikundaha ndaiporiramoguáicha omañañemíva nderehe">
-<!ENTITY firstrun_privacy_subtext "Kundahañemi rupive oñeñangareko nderehe ani hag̃ua ambuekuéra oikuaa mba\&apos;épa rejapo ha resẽ vove ñandutivevégui ndojekuaamo\&apos;ãi mba\&apos;épa rehecha kuri.">
-<!ENTITY newfirstrun_privacy_subtext "Pe kundaha ñemi ojoko jehekaha ñemurãva ohapykuyhóva ñandutípe.">
+<!ENTITY firstrun_panel_title_privacy "Moñemigua">
+<!ENTITY firstrun_privacy_message "Eikundaha neañoramoguáicha">
+<!ENTITY firstrun_privacy_subtext "Kundaha ñemi rupi oñeñangareko nderehe ani hag̃ua ambuekuéra oikuaa mba\&apos;épa ejapo ha esẽvo ñandutígui ndojekuaamo\&apos;ãi ehechava\&apos;ekue.">
+<!ENTITY newfirstrun_privacy_subtext "Kundaha ñemi ojoko ñemurã nderapykuyhóva ñandutípe.">
 <!ENTITY firstrun_panel_title_customize "Ñemomba\&apos;ete">
 <!ENTITY firstrun_customize_message "Emboheko &brandShortName; ikatu hag̃uáicha omba\&apos;apo reipotaháicha.">
 <!ENTITY firstrun_customize_subtext "Eñemomba\&apos;ete &brandShortName; rehe eipurúvo tembipuru\&apos;i joajupyre. Emboyke ta\&apos;ãnga omba\&apos;evendeséva ndéve, embojoapy Firefox-re tembipuru\&apos;i ojapóva reikotevẽva ýrõ embojegua reipotaháicha.">
@@ -27,9 +27,9 @@
 <!ENTITY firstrun_sync_subtext2 "Eipuru Sync ejuhu hag̃ua ne rechaukaha, ñe\&apos;ẽñemi ha ambueve reñongatuva\&apos;ekue &brandShortName; pe eipuru vove oimeraẽva mba\&apos;e\&apos;oka rerekóva (ne mohendaha, ne pumbyry, tablet  hamba\&apos;e).">
 <!ENTITY newfirstrun_sync_subtext "Embojuehe tetepy eñongatúva pumbyrýpe Firefox mesa arigua ndive, ñemi ha tekorosã reheve.">
 <!ENTITY updatednewfirstrun_sync_subtext "Emoñepyrũ tembiapo ne mba’etépe eipuru porã hag̃ua &brandShortName;">
+<!ENTITY firstrun_signin_message "Eike, eñepyrũ">
 <!ENTITY firstrun_sendtab_title "Emondo tendayke">
 <!ENTITY firstrun_sendtab_message "Emoherakuã tendayke pumbyry guive mohendahápe — pya’e.">
-<!ENTITY firstrun_signin_message "Eike, eñepyrũ">
 <!ENTITY firstrun_signin_button "Emoñepyrũ tembiapo embojuehe hag̃ua">
 <!ENTITY newfirstrun_signin_button "Emyandy ñembojuehe">
 <!ENTITY updatednewfirstrun_signin_button "Emoñepyrũ tembiapo &brandShortName; ndive">
@@ -38,8 +38,6 @@
 <!ENTITY firstrun_button_next "Upeigua">
 
 <!ENTITY firstrun_signin_button2 "Eñemboheraguapy">
-
-<!ENTITY firstrun_signup_button "Eñemboheraguapy">
 
 <!ENTITY firstrun_tabqueue_title "Joajuhakuéra">
 
@@ -51,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Nde">
 <!ENTITY firstrun_account_message "Eguereko &brandShortName; ambue mba\&apos;e\&apos;okápe?">
+
+<!ENTITY firstrun_signup_button "Eñemboheraguapy">
 
 <!ENTITY  onboard_start_restricted1 "Eguerekóta tekorosã ha ñangarekoha ko apopyre momichĩmbyre &brandShortName; mba\&apos;éva.">
 
@@ -695,6 +695,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Eikéma">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
