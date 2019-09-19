@@ -722,8 +722,8 @@ addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hob
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Edukia blokeatzea
-content-blocking-enhanced-tracking-protection = Jarraipenaren babes hobetua
 content-blocking-section-description = Nabigatzean, babestu zure pribatutasuna. Blokeatu bisitatutako guneen jarraipena egin eta zure profila sortzeko erabiltzen den eduki ikusgaitza. Eduki hauetako batzuk blokeatzean orriak azkarrago karga litezke.
+content-blocking-enhanced-tracking-protection = Jarraipenaren babes hobetua
 content-blocking-section-top-level-description = Jarraipen-elementuek zure lineako jarraipena egiten dute zure nabigatze-ohitura eta -interesei buruzko informazioa biltzeko. Jarraipen-elementu eta bestelako script maltzurretako asko blokeatzen ditu { -brand-short-name }(e)k.
 content-blocking-learn-more = Argibide gehiago
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -742,6 +742,23 @@ content-blocking-strict-description = Babes sendoagoa, hainbat gune haustea erag
 content-blocking-custom-desc = Aukeratu zer blokeatu.
 content-blocking-private-trackers = Jarraipen-elementu ezagunak soilik leiho pribatuetan
 content-blocking-third-party-cookies = Hirugarrenen jarraipen-cookieak
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Oinarrizkoa
+    .accesskey = O
+enhanced-tracking-protection-setting-strict =
+    .label = Zorrotza
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Pertsonalizatua
+    .accesskey = s
+
+##
+
 content-blocking-etp-standard-desc = Babeserako eta errendimendurako orekatua. Orriak ohi bezala kargatuko dira.
 content-blocking-etp-strict-desc = Babes sendoagoa baina zenbait gune edo eduki apurtzea eragin lezake.
 content-blocking-etp-custom-desc = Aukeratu blokeatu beharreko jarraipen-elementu eta scriptak.
