@@ -17,33 +17,14 @@ lockwise-title = ਮੁੜ ਕੇ ਪਾਸਵਰਡ ਕਦੇ ਵੀ ਨਾ ਭ
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ‘ਚ ਤੁਹਾਡੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸੰਭਾਲਦਾ ਹੈ।
 lockwise-header-content-logged-in = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ‘ਚ ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸੰਭਾਲੋ ਅਤੇ ਸਿੰਕ ਕਰੋ।
-open-about-logins-button = { -brand-short-name } ਵਿੱਚ ਖੋਲ੍ਹੋ
 lockwise-no-logins-content = ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਰ ਲਾਂ ਲੈ ਕੇ ਜਾਣ ਲਈ <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> ਐਪ ਲਵੋ।
 turn-on-sync = { -sync-brand-short-name } ਚਾਲੂ ਕਰੋ…
     .title = ਸਿੰਕ ਪਸੰਦਾਂ ‘ਤੇ ਜਾਓ
 manage-devices = ਡਿਵਾਈਸਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
-lockwise-sync-not-syncing = ਹੋਰ ਡਿਵਾਈਸਾਂ ਨਾਲ ਸਿੰਕ ਨਹੀਂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।
 monitor-title = ਡਾਟੇ ‘ਚ ਸੰਨ੍ਹ ਲੱਗਣ ਦੀ ਖੋਜ ਕਰੋ
 monitor-link = ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ
-monitor-header-content-logged-in = { -monitor-brand-name } ਤੁਹਾਨੂੰ ਸਾਵਧਾਨ ਕਰੇਗਾ, ਜੇ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਕਿਸੇ ਪਤਾ ਲੱਗੀ ਡਾਟਾ ਸੰਨ੍ਹ ‘ਚ ਲੱਭਿਆ ਗਿਆ
 monitor-sign-up = ਸੰਨ੍ਹ ਲੱਗਣ ਦੀਆਂ ਚੇਤਾਵਨੀਆਂ ਲਈ ਸਾਈਨ ਅੱਪ ਕਰੋ
 auto-scan = ਅੱਜ ਆਪਣੇ-ਆਪ ਸਕੈਨ ਕੀਤਾ
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-monitored-addresses =
-    { $count ->
-        [one] ਈਮੇਲ ਸਿਰਨਾਵੇਂ ਦੀ ਨਿਗਰਾਨੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ।
-       *[other] ਈਮੇਲ ਸਿਰਨਾਵਿਆਂ ਦੀ ਨਿਗਰਾਨੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ।
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of exposed passwords. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-exposed-passwords =
-    { $count ->
-        [one] ਪਾਸਵਰਡ ਸਾਰੀਆਂ ਸੰਨ੍ਹਾਂ ‘ਚ ਨਸ਼ਰ ਹੈ।
-       *[other] ਪਾਸਵਰਡ ਸਾਰੀਆਂ ਸੰਨ੍ਹਾਂ ‘ਚ ਨਸ਼ਰ ਹਨ।
-    }
 full-report-link = ਸਾਰੀ ਰਿਪੋਰਟ <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> ‘ਤੇ ਵੇਖੋ
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = ਪਰਦੇਦਾਰੀ ਸੈਟਿੰਗਾਂ ਉੱਤੇ ਜਾਓ
