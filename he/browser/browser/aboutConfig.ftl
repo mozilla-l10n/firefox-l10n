@@ -13,10 +13,14 @@ about-config-search-input =
 
 ## These strings appear on the warning you see when first visiting about:config.
 
+about-config-intro-warning-text = שינוי העדפות התצורה המתקדמות עשוי להשפיע על הביצועים או אבטחה של { -brand-short-name }.
+about-config-intro-warning-checkbox = להזהיר אותי כשאני מנסה לגשת להעדפות האלו
 about-config-intro-warning-button = קבלת הסיכון והמשך
 
 
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = שינוי העדפות אלו עשוי להשפיע על הביצועים או אבטחה של { -brand-short-name }.
 about-config-page-title = העדפות מתקדמות
 about-config-search-input1 =
     .placeholder = חיפוש שם העדפה
