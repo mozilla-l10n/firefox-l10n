@@ -47,3 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Захоўваць звесткі ў Сталым Сховішчы (Persistent Storage)
 urlbar-addons-notification-anchor =
     .tooltiptext = Адкрыць панэль паведамленняў аб усталяванні дадатка
+
+## Page Action Context Menu
+
+page-action-manage-extension =
+    .label = Кіраваць пашырэннямі…
