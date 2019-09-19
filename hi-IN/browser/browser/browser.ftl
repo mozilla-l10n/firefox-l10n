@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = स्थायी संग्रहण में आँकड़े संचित करें
 urlbar-addons-notification-anchor =
     .tooltiptext = सहयुक्ति संस्थापन संदेश पटल खोलें
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = पतापट्टी में जोड़े
+page-action-remove-from-urlbar =
+    .label = पतापट्टी से हटायें
