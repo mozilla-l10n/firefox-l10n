@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Kalıcı depolamada veri depola
 urlbar-addons-notification-anchor =
     .tooltiptext = Eklenti yükleme mesajı panelini aç
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Adres çubuğuna ekle
+page-action-manage-extension =
+    .label = Eklentiyi yönet…
+page-action-remove-from-urlbar =
+    .label = Adres çubuğundan kaldır
