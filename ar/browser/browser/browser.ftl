@@ -52,5 +52,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = أضف إلى شريط العناوين
+page-action-manage-extension =
+    .label = أدِر الامتدادات…
 page-action-remove-from-urlbar =
     .label = أزل من شريط العناوين
