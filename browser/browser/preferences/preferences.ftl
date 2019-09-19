@@ -690,6 +690,9 @@ content-blocking-third-party-cookies = तृतीय-पक्ष ट्रॅ
 enhanced-tracking-protection-setting-strict =
     .label = कठोर
     .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = पसंतीचे
+    .accesskey = C
 
 ##
 
