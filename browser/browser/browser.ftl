@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Almacenar datos en el almacenamiento persistente
 urlbar-addons-notification-anchor =
     .tooltiptext = Abrir panel de mensajes de instalación de complementos
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Agregar a la barra de direcciones
+page-action-remove-from-urlbar =
+    .label = Eliminar de la barra de direcciones
