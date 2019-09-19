@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Memorisar datas en la memoria durabla
 urlbar-addons-notification-anchor =
     .tooltiptext = Avrir la panela d'installaziun da supplements
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Agiuntar a la trav d'adressas
+page-action-remove-from-urlbar =
+    .label = Allontanar da la trav d'adressas
