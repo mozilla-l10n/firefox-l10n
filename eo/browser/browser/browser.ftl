@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Konservi datumojn en daŭra konservejo
 urlbar-addons-notification-anchor =
     .tooltiptext = Malfermi panelon de mesaĝoj de instalo de aldonaĵo
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Aldoni al adresa strio
+page-action-manage-extension =
+    .label = Administri etendaĵon…
+page-action-remove-from-urlbar =
+    .label = Forigi el adresa strio
