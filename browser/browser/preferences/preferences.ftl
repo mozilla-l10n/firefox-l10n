@@ -729,8 +729,8 @@ addressbar-suggestions-settings = Змінити налаштування про
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Блокування вмісту
-content-blocking-enhanced-tracking-protection = Розширений захист від стеження
 content-blocking-section-description = Захищайте свою приватність під час перегляду. Блокуйте невидимий вміст, що відстежує відвідані вами сайти і створює ваш профіль. Блокування деякого вмісту може пришвидшити завантаження сторінок.
+content-blocking-enhanced-tracking-protection = Розширений захист від стеження
 content-blocking-section-top-level-description = Елементи стеження переслідують вас в мережі з метою збору інформації про ваші звички та інтереси. { -brand-short-name } блокує багато такого стеження, а також інші підозрілі скрипти.
 content-blocking-learn-more = Докладніше
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -749,6 +749,23 @@ content-blocking-strict-description = Сильніший захист. Може 
 content-blocking-custom-desc = Оберіть, що блокувати.
 content-blocking-private-trackers = Відомі елементи стеження лише у приватних вікнах
 content-blocking-third-party-cookies = Сторонні куки стеження
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Звичайне
+    .accesskey = ч
+enhanced-tracking-protection-setting-strict =
+    .label = Суворе
+    .accesskey = в
+enhanced-tracking-protection-setting-custom =
+    .label = Власне
+    .accesskey = л
+
+##
+
 content-blocking-etp-standard-desc = Збалансований захист і швидкодія. Сторінки завантажуватимуться нормально.
 content-blocking-etp-strict-desc = Надійніший захист, але може пошкоджувати деякі сайти чи їх вміст.
 content-blocking-etp-custom-desc = Оберіть тип стеження і скриптів для блокування.
