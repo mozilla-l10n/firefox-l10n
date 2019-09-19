@@ -29,11 +29,6 @@ search-input-box =
             [windows] Find in Options
            *[other] Find in Preferences
         }
-policies-notice =
-    { PLATFORM() ->
-        [windows] Your organization has disabled the ability to change some options.
-       *[other] Your organization has disabled the ability to change some preferences.
-    }
 pane-general-title = སྤྱི་ཡོངས
 category-general =
     .tooltiptext = { pane-general-title }
@@ -375,6 +370,9 @@ choose-bookmark =
     .label = ཡིག་རྟགས་བེད་སྤྱོད…
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-bar-header = འཚོལ་བཤེར་ངོས
@@ -642,7 +640,6 @@ addressbar-suggestions-settings = Change preferences for search engine suggestio
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Content Blocking
-content-blocking-description = Block third-party content that tracks you around the web. Control how much of your online activity gets stored and shared between websites.
 content-blocking-learn-more = Learn more
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -655,12 +652,27 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Custom
     .accesskey = C
-content-blocking-standard-description = Only blocks known trackers in Private Windows.
 content-blocking-standard-desc = Balanced for protection and performance. Allows some trackers so websites function properly.
-content-blocking-strict-desc = Blocks all trackers { -brand-short-name } detects. May cause some sites to break.
 content-blocking-custom-desc = Choose what to block.
 content-blocking-private-trackers = Known trackers only in Private Windows
 content-blocking-third-party-cookies = Third-party tracking cookies
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standard
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Strict
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Custom
+    .accesskey = C
+
+##
+
 content-blocking-all-windows-trackers = Known trackers in all windows
 content-blocking-all-third-party-cookies = All third-party cookies
 content-blocking-warning-title = Heads up!
