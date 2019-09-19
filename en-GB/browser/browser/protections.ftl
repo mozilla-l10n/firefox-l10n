@@ -24,6 +24,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = Protection Level is set to <b>Standard</b>
 protection-header-details-strict = Protection Level is set to <b>Strict</b>
 protection-header-details-custom = Protection Level is set to <b>Custom</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Protection Level is set to <b>Standard</b>
+    .title = Go to Privacy Settings
+protection-report-header-details-strict = Protection Level is set to <b>Strict</b>
+    .title = Go to Privacy Settings
+protection-report-header-details-custom = Protection Level is set to <b>Custom</b>
+    .title = Go to Privacy Settings
 protection-report-page-title = Privacy Protections
 protection-report-content-title = Privacy Protections
 etp-card-title = Enhanced Tracking Protection
@@ -48,6 +57,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } securely stores your passwords in your browser.
 lockwise-header-content-logged-in = Securely store and synchronise your passwords to all your devices.
 about-logins-view-logins-button = View Logins
+protection-report-view-logins-button = View Logins
+    .title = Go to Saved Logins
 lockwise-no-logins-content = Get the <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> app to take your passwords everywhere.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
