@@ -685,6 +685,23 @@ content-blocking-standard-desc = Līdzsvarots aizsardzībai un veiktspējai. Ļa
 content-blocking-custom-desc = Izvēlies, ko bloķēt.
 content-blocking-private-trackers = Pazīstamos izsekotājus tikai privātajā logā
 content-blocking-third-party-cookies = Trešo pušu izsekošanas sīkfailus
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standarta
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Strikts
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Pielāgots
+    .accesskey = P
+
+##
+
 content-blocking-all-windows-trackers = Pazīstamos izsekotājus visos logos
 content-blocking-all-third-party-cookies = Visus trešo personu sīkfailus
 content-blocking-warning-title = Galvas augšu!
