@@ -732,6 +732,23 @@ content-blocking-strict-description = Қатаң қорғаныс, кейбір 
 content-blocking-custom-desc = Нені бұғаттауды таңдаңыз
 content-blocking-private-trackers = Жекелік терезелерінде барлық белгілі трекерлер
 content-blocking-third-party-cookies = Үшінші жақты бақылайтын cookies
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Қалыпты
+    .accesskey = п
+enhanced-tracking-protection-setting-strict =
+    .label = Қатаң
+    .accesskey = т
+enhanced-tracking-protection-setting-custom =
+    .label = Таңдауыңызша
+    .accesskey = ы
+
+##
+
 content-blocking-all-cookies = Барлық cookie файлдары
 content-blocking-unvisited-cookies = Қаралмаған сайттардың cookies файлдары
 content-blocking-all-windows-trackers = Барлық терезелердегі белгілі трекерлер
