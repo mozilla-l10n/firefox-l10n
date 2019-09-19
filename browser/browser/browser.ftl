@@ -52,5 +52,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = Adresowemu póloju pśidaś
+page-action-manage-extension =
+    .label = Rozšyrjenje zastojaś…
 page-action-remove-from-urlbar =
     .label = Z adresowego póla wótwónoźeś
