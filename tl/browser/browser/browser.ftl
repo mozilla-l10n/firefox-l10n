@@ -50,5 +50,9 @@ urlbar-addons-notification-anchor =
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = Idagdag sa Address Bar
 page-action-manage-extension =
     .label = Manage Extension…
+page-action-remove-from-urlbar =
+    .label = Tanggalin sa Address Bar
