@@ -51,5 +51,5 @@
 <!ENTITY pref.systemcolors.accesskey "k">
 
 <!ENTITY pref.eventsandtasks.label "Wydarzenia i zadania" >
-<!ENTITY pref.editInTab.label "Edytuj wydarzenia i zadania w karcie zamiast w oknie." >
+<!ENTITY pref.editInTab.label "Edytuj wydarzenia i zadania w karcie zamiast w oknie" >
 <!ENTITY pref.editInTab.accesskey "E">
