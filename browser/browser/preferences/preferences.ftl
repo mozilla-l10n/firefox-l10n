@@ -693,6 +693,23 @@ content-blocking-standard-desc = Qoruma və məhsuldarlıq arasında tarazlaşd�
 content-blocking-custom-desc = Nəyi əngəlləyəcəyini seçin.
 content-blocking-private-trackers = Ancaq Məxfi Pəncərələrdə bilinən izləyicilər
 content-blocking-third-party-cookies = Üçüncü tərəf izləmə çərəzləri
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standart
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Sərt
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Fərdi
+    .accesskey = F
+
+##
+
 content-blocking-all-windows-trackers = Bütün pəncərələrdə bilinən izləyicilər
 content-blocking-all-third-party-cookies = Bütün üçüncü tərəf çərəzləri
 content-blocking-warning-title = Diqqət!
