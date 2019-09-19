@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Gorde datuak biltegiratze iraunkorrean
 urlbar-addons-notification-anchor =
     .tooltiptext = Ireki gehigarrien instalazio-mezuen panela
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Gehitu helbide-barran
+page-action-remove-from-urlbar =
+    .label = Kendu helbide-barratik
