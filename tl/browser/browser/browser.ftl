@@ -47,3 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Ilagay ang datos sa Persistent Storage
 urlbar-addons-notification-anchor =
     .tooltiptext = Buksan ang add-on intallation message panel
+
+## Page Action Context Menu
+
+page-action-manage-extension =
+    .label = Manage Extension…
