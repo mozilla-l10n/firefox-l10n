@@ -339,13 +339,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Beim Tippen automatisch im Seitentext suchen
     .accesskey = u
-
 browsing-picture-in-picture-toggle-enabled =
     .label = Videosteuerung für Bild-im-Bild (PiP) anzeigen
     .accesskey = V
-
 browsing-picture-in-picture-learn-more = Weitere Informationen
-
 browsing-cfr-recommendations =
     .label = Erweiterungen während des Surfens empfehlen
     .accesskey = h
@@ -690,7 +687,6 @@ sitedata-block-desc = Zu blockieren:
     .accesskey = Z
 sitedata-option-block-trackers =
     .label = Nutzer verfolgende Elemente von Drittanbietern
-
 sitedata-option-block-cross-site-trackers =
     .label = Zur seitenübergreifenden Aktivitätenverfolgung
 sitedata-option-block-cross-site-and-social-media-trackers =
@@ -730,10 +726,8 @@ addressbar-suggestions-settings = Einstellungen für Suchvorschläge ändern
 
 content-blocking-header = Seitenelemente blockieren
 content-blocking-section-description = Schützen Sie Ihre Privatsphäre während des Surfens, indem Sie unsichtbare Inhalte blockieren. Diese verfolgen sonst, welche Websites Sie besuchen, und legen ein Profil über Sie an. Das Blockieren einiger dieser Inhalte kann das Laden von Websites beschleunigen.
-
-content-blocking-section-top-level-description = Skripte zur Aktivitätenverfolgung folgen Ihnen und sammeln Informationen über Ihre Internet-Gewohnheiten und Interessen. { -brand-short-name } blockiert viele dieser Skripte zur Aktivitätenverfolgung und andere böswillige Skripte.
-
 content-blocking-enhanced-tracking-protection = Verbesserter Schutz vor Aktivitätenverfolgung
+content-blocking-section-top-level-description = Skripte zur Aktivitätenverfolgung folgen Ihnen und sammeln Informationen über Ihre Internet-Gewohnheiten und Interessen. { -brand-short-name } blockiert viele dieser Skripte zur Aktivitätenverfolgung und andere böswillige Skripte.
 content-blocking-learn-more = Weitere Informationen
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -752,10 +746,25 @@ content-blocking-custom-desc = Entsprechend den Einstellungen blockieren:
 content-blocking-private-trackers = Bekannte Elemente zur Aktivitätenverfolgung nur in privaten Fenstern
 content-blocking-third-party-cookies = Cookies zur Aktivitätenverfolgung von Drittanbietern
 
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standard
+    .accesskey = S
+enhanced-tracking-protection-setting-strict =
+    .label = Streng
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Benutzerdefiniert
+    .accesskey = B
+
+##
+
 content-blocking-etp-standard-desc = Ausgewogen zwischen Schutz und Leistung. Seiten laden normal.
 content-blocking-etp-strict-desc = Stärkerer Schutz, einige Websites oder mancher Inhalt funktioniert eventuell nicht.
 content-blocking-etp-custom-desc = Wählen Sie, welche Art von Skripten zur Aktivitätenverfolgung und sonstige Inhalte blockiert werden.
-
 content-blocking-private-windows = Inhalte zur Aktivitätenverfolgung in privaten Fenstern
 content-blocking-cross-site-tracking-cookies = Cookies zur seitenübergreifenden Aktivitätenverfolgung
 content-blocking-social-media-trackers = Skripte zur Aktivitätenverfolgung durch soziale Netzwerke
@@ -769,10 +778,8 @@ content-blocking-fingerprinters = Identifizierer (Fingerprinter)
 content-blocking-warning-title = Achtung!
 content-blocking-warning-description = Das Blockieren von Inhalten kann bei einigen Websites zu Problemen führen. Das Deaktivieren des Blockierens für von Ihnen vertraute Seiten ist ganz einfach.
 content-blocking-learn-how = Erfahren Sie mehr
-
 content-blocking-etp-warning-description = Das Blockieren von Skripten zur Aktivitätenverfolgung kann Auswirkungen auf das Funktionieren einiger Websites haben. Laden Sie eine Seite einschließlich Skripten zur Aktivitätenverfolgung neu, damit der komplette Inhalte geladen wird.
 content-blocking-warning-learn-how = Weitere Informationen
-
 content-blocking-reload-description = Um die Änderungen anzuwenden, müssen alle Tabs neu geladen werden.
 content-blocking-reload-tabs-button =
     .label = Alle Tabs neu laden
@@ -781,8 +788,8 @@ content-blocking-trackers-label =
     .label = Elemente zur Aktivitätenverfolgung
     .accesskey = E
 content-blocking-tracking-content-label =
-  .label = Inhalte zur Aktivitätenverfolgung
-  .accesskey = n
+    .label = Inhalte zur Aktivitätenverfolgung
+    .accesskey = n
 content-blocking-tracking-protection-option-all-windows =
     .label = In allen Fenstern
     .accesskey = a
