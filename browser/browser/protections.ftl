@@ -9,21 +9,21 @@ graph-week-summary =
         [one] { -brand-short-name } blokis 1 spurilon du la lasta semajno
        *[other] { -brand-short-name } blokis { $count } spurilojn dum la lasta semajno
     }
-# Variables:
-#   $count (Number) - Number of tracking events blocked.
-#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
-# earliest date recorded in the database.
-graph-total-summary =
-    { $count ->
-        [one] 1 spurilo blokita ekde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] { $count } spuriloj blokitaj ekde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
 protection-header-details-standard = La nivelo de protekto estas <b>norma</b>
 protection-header-details-strict = La nivelo de protekto estas <b>rigora</b>
 protection-header-details-custom = La nivelo de protekto estas <b>personecigita</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = La nivelo de protekto estas <b>norma</b>
+    .title = Iri al la privatecaj agordoj
+protection-report-header-details-strict = La nivelo de protekto estas <b>rigora</b>
+    .title = Iri al la privatecaj agordoj
+protection-report-header-details-custom = La nivelo de protekto estas <b>personecigita</b>
+    .title = Iri al la privatecaj agordoj
 protection-report-page-title = Protektoj de privateco
 protection-report-content-title = Protektoj de privateco
 etp-card-title = Plibonigita protekto kontraŭ spurado
@@ -38,7 +38,6 @@ social-tab-contant = Socia retoj aldonas spurilojn en aliaj retejoj por sekvi vi
 cookie-tab-title = Interretejaj spurilaj kuketoj
 cookie-tab-content = Tiuj ĉi kuketoj sekvas vin inter retejoj por kolekti informon pri via retumo. Ili estas difinitaj de aliaj, ekzemple de reklamistoj kaj retumanalizaj entreprenoj. Blokado de interretejaj spurilaj kuketoj reduktas la kvanton de reklamoj kiuj sekvas vin ĉien. <a data-l10n-name="learn-more-link">Pli da informo</a>
 tracker-tab-title = Spurila enhavo
-tracker-tab-content = Retejoj povas ŝargi eksterajn reklamojn, filmetojn kaj alian enhavon, kiuj havas spurilan kodon. Blokado de spurila enhavo povas rapidigi la ŝargadon de retejoj, sed kelkaj butonoj, formularoj kaj legitimilaj kampoj povus ne funkcii. <a data-l10n-name="learn-more-link">Pli da informo</a>
 fingerprinter-tab-title = Identigiloj de ciferecaj spuroj
 fingerprinter-tab-content = La identigiloj de ciferecaj spuroj kolektas agordojn de via retumilo kaj komputilo por krei profilon de vi. Per tiu cifereca spuro, ili povas sekvi vin tra malsamaj retejoj.<a data-l10n-name="learn-more-link">Pli da informo</a>
 cryptominer-tab-title = Miniloj de ĉifromono
@@ -47,7 +46,6 @@ lockwise-title = Neniam denove forgesu pasvorton
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } sekure konservas viajn pasvortojn en via retumilo.
 lockwise-header-content-logged-in = Sekure konservu kaj spegulu viajn pasvortojn en ĉiuj viaj aparatoj.
-open-about-logins-button = Malfermi per { -brand-short-name }
 lockwise-no-logins-content = Ricevu la programon <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> por kunporti viajn pasvortojn ĉien.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -67,37 +65,10 @@ lockwise-sync-status =
         [one] Spegulado al alia aparato
        *[other] Spegulado al { $count } aliaj aparatoj
     }
-lockwise-sync-not-syncing = Neniu spegulado al aliaj aparatoj.
 monitor-title = Estu atenta je datumfuĝoj
 monitor-link = Kiel funkcias tio
-monitor-header-content = Kontrolu { -monitor-brand-name } por vidi ĉu vi estis viktimo de datumfuĝo kaj ricevu atentigojn pri novaj datumfuĝoj.
-monitor-header-content-logged-in = { -monitor-brand-name } avertas vin se viaj informoj aperas en konata datumfuĝo
 monitor-sign-up = Abonu la atentigojn pri datumfuĝoj
 auto-scan = Aŭtomate kontrolitaj hodiaŭ
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-monitored-addresses =
-    { $count ->
-        [one] Retpoŝta adreso estas kontrolata.
-       *[other] Retpoŝtaj adresoj estas kontrolataj.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of known data breaches. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-known-breaches =
-    { $count ->
-        [one] Konata datumfuĝo elmetis viajn informojn.
-       *[other] Konataj datumfuĝoj elmetis viajn informojn.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of exposed passwords. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-exposed-passwords =
-    { $count ->
-        [one] pasvorto elmemetita en ĉiuj datumfuĝoj.
-       *[other] pasvortoj elmemetitaj en ĉiuj datumfuĝoj.
-    }
 full-report-link = Vidi la tutan raporton en <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
