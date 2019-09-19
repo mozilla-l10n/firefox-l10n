@@ -717,8 +717,8 @@ addressbar-suggestions-settings = Kek'ex ri taq kajowab'al ri taq kichilab'enik 
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Ruq'atik Rupam
-content-blocking-enhanced-tracking-protection = Utzirisan Chajinïk chuwäch Ojqanem
 content-blocking-section-description = Tachajij ri awichinanem toq yatok pa k'amaya'l. Ke'aq'ata' rupam yekikanoj ri ruxaq e'atz'eton chuqa' yerunük' taq ruwäch b'i'aj. Yeq'at taq rupam nitikïr nub'än chi yesamäj anin ri taq ruxaq.
+content-blocking-enhanced-tracking-protection = Utzirisan Chajinïk chuwäch Ojqanem
 content-blocking-learn-more = Tetamäx Ch'aqa' Chik
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -736,6 +736,23 @@ content-blocking-strict-description = Jun nïm chajinïk, rik'in jub'a' nub'än 
 content-blocking-custom-desc = Ticha' achike niq'at.
 content-blocking-private-trackers = Ojqanela' etaman kiwäch xa xe pa Ichinan Tzuwäch
 content-blocking-third-party-cookies = Kikuki ojqanem kichin aj rox winäq
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Pa rub'eyal
+    .accesskey = b
+enhanced-tracking-protection-setting-strict =
+    .label = Nimaläj
+    .accesskey = l
+enhanced-tracking-protection-setting-custom =
+    .label = Ichinan
+    .accesskey = I
+
+##
+
 content-blocking-etp-standard-desc = Silan richin chajinem chuqa' rub'eyal nisamäj. Achi'el jutaqil xkesamäj ri taq ruxaq.
 content-blocking-etp-strict-desc = Nïm chajinem, xa xe chi nub'än chi jujun taq ruxaq o rupam man yesamäj ta.
 content-blocking-etp-custom-desc = Ke'acha' achike taq ojqanela' chuqa' kiskrip taq komando nawajo' ye'aq'ät
