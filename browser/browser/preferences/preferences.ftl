@@ -753,8 +753,18 @@ content-blocking-third-party-cookies = Cookie-uri de urmărire de la terți
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standard
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Strictă
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Personalizată
+    .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = Echilibrat pentru protecție și performanță. Paginile se vor încărca normal.
 content-blocking-etp-strict-desc = O protecție mai puternică, dar poate provoca funcționarea necorespunzătoare a site-urilor sau a conținutului.
