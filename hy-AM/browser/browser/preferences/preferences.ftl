@@ -639,6 +639,16 @@ content-blocking-learn-more = Իմանալ ավելին
 content-blocking-setting-custom =
     .label = Հարմարեցված
     .accesskey = C
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+enhanced-tracking-protection-setting-custom =
+    .label = Հարմարեցված
+    .accesskey = C
+
+##
+
 content-blocking-learn-how = Սովորել, թե ինչպես
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
