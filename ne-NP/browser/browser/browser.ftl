@@ -41,3 +41,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = डाटालाई लगातार भण्डारणमा राख्नुहोस्
 urlbar-addons-notification-anchor =
     .tooltiptext = एडअन स्थापना सन्देश प्यानल खोल्नुहोस्
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = ठेगानापट्टिमा थप्नुहोस्
+page-action-remove-from-urlbar =
+    .label = ठेगानापट्टिबाट हटाउनुहोस्
