@@ -29,3 +29,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = ຈັດເກັບຂໍ້ມູນໃນບ່ອນເກັບຂໍ້ມູນຖາວອນ
 urlbar-addons-notification-anchor =
     .tooltiptext = ເປີດແຜງຂໍ້ຄວາມການຕິດຕັ້ງສ່ວນເສີມ
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = ເພີ່ມລົງໃນແຖບທີຢູ່
+page-action-manage-extension =
+    .label = ຈັດການສ່ວນຂະຫຍາຍ…
+page-action-remove-from-urlbar =
+    .label = ລຶບອອກຈາກແຖບທີ່ຢູ່
