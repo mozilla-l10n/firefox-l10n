@@ -717,8 +717,8 @@ addressbar-suggestions-settings = Cambiar las preferencias para las sugerencias 
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloqueo de contenido
-content-blocking-enhanced-tracking-protection = Protección antirrastreo mejorada
 content-blocking-section-description = Protege tu privacidad mientras navegas. Bloquea el contenido invisible que rastrea los sitios que visitas. Bloquear parte de este contenido puede hacer que las páginas se carguen más rápido.
+content-blocking-enhanced-tracking-protection = Protección antirrastreo mejorada
 content-blocking-learn-more = Saber más
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -736,6 +736,23 @@ content-blocking-strict-description = Protección más fuerte; puede interferir 
 content-blocking-custom-desc = Elegir que bloquear
 content-blocking-private-trackers = Rastreadores conocidos solo en ventanas privadas
 content-blocking-third-party-cookies = Cookies de rastreadores de terceros
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Estándar
+    .accesskey = E
+enhanced-tracking-protection-setting-strict =
+    .label = Estricto
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Personalizar
+    .accesskey = P
+
+##
+
 content-blocking-etp-standard-desc = Equilibrada entre protección y rendimiento. Las páginas se cargarán con normalidad.
 content-blocking-etp-strict-desc = Protección más elevada, pero puede causar que algunos sitios o contenidos fallen.
 content-blocking-etp-custom-desc = Elige cuáles rastreadores y scripts quieres bloquear.
