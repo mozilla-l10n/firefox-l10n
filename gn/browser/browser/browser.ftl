@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Mba'ekuaarã ñembyaty, ñembyaty hi'arekuaávape
 urlbar-addons-notification-anchor =
     .tooltiptext = Eike ñe'ẽmondo moĩmbaha ñemohenda ra'ãngarupápe
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Embojuaju kundaharape rendáre{ " " }
+page-action-remove-from-urlbar =
+    .label = Emboguete kundaharape rendágui
