@@ -43,3 +43,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Պահել տվյալները Մշտական պահեստում
 urlbar-addons-notification-anchor =
     .tooltiptext = Բացել հավելման տեղադրման հաղորդագրության վահանակը
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Ավելացնել Հասցեագոտում
+page-action-manage-extension =
+    .label = Կառավարել ընդլայնումը...
+page-action-remove-from-urlbar =
+    .label = ՀԵռացնել Հասցեագոտուց
