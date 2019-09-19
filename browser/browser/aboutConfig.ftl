@@ -10,6 +10,19 @@ about-config-warning-button = Ik aanvaard het risico
 about-config2-title = Geavanceerde configuraties
 about-config-search-input =
     .placeholder = Zoeken
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Ga voorzichtig verder
+about-config-intro-warning-text = Het wijzigen van geavanceerde configuratievoorkeuren kan de prestaties of veiligheid van { -brand-short-name } beïnvloeden.
+about-config-intro-warning-checkbox = Mij waarschuwen als ik deze voorkeuren probeer te benaderen
+about-config-intro-warning-button = Het risico aanvaarden en doorgaan
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Het wijzigen van deze voorkeuren kan de prestaties of veiligheid van { -brand-short-name } beïnvloeden.
+about-config-page-title = Geavanceerde voorkeuren
 about-config-search-input1 =
     .placeholder = Naam voorkeursinstelling zoeken
 about-config-show-all = Alles tonen

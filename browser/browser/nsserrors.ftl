@@ -17,10 +17,10 @@ psmerr-hostreusedissuerandserial =
     
     Uw certificaat bevat hetzelfde serienummer als een ander door de certificaatautoriteit uitgegeven certificaat. Haal een nieuw certificaat met een uniek serienummer op.
 ssl-error-export-only-server = Kan niet beveiligd communiceren. Peer ondersteunt geen hoge graad van versleuteling.
-ssl-error-us-only-server = Kan niet beveiligd communiceren. Peer vereist hoge graad van versleuteling, welke niet wordt ondersteund.
+ssl-error-us-only-server = Kan niet beveiligd communiceren. Peer vereist hoge graad van versleuteling, die niet wordt ondersteund.
 ssl-error-no-cypher-overlap = Kan niet beveiligd communiceren met peer: geen algeme(e)n(e) versleutelingsalgoritme(n).
 ssl-error-no-certificate = Kan het benodigde certificaat of de sleutel voor authenticatie niet vinden.
-ssl-error-bad-certificate = Kan niet beveiligd communiceren met peer: peers certificaat werd verworpen.
+ssl-error-bad-certificate = Kan niet beveiligd communiceren met peer: certificaat van peers werd verworpen.
 ssl-error-bad-client = De server heeft onjuiste gegevens ontvangen van de client.
 ssl-error-bad-server = De client heeft onjuiste gegevens ontvangen van de server.
 ssl-error-unsupported-certificate-type = Niet-ondersteund certificaattype.
