@@ -654,6 +654,23 @@ content-blocking-setting-custom =
     .label = தனிப்பயன்
     .accesskey = C
 
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = நிலையான
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = கண்டிப்பாக
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = தனிப்பயன்
+    .accesskey = C
+
+##
+
+
 ## Privacy Section - Tracking
 
 
