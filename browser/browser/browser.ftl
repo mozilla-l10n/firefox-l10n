@@ -47,3 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Armazenar dados no armazenamento persistente
 urlbar-addons-notification-anchor =
     .tooltiptext = Abrir painel de mensagem de instalação de extensões
+
+## Page Action Context Menu
+
+page-action-manage-extension =
+    .label = Gerenciar extensão…
