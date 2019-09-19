@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Depozitoni të dhëna në Depozitë të Qëndrueshme
 urlbar-addons-notification-anchor =
     .tooltiptext = Hapni kuadratin e mesazhit të instalimit të shtesës
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Shtoje te Shtyllë Adresash
+page-action-manage-extension =
+    .label = Administroni Zgjerime…
+page-action-remove-from-urlbar =
+    .label = Hiqe prej Shtylle Adresash
