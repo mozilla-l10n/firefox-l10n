@@ -39,3 +39,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Pohrani podatke u trajno spremište
 urlbar-addons-notification-anchor =
     .tooltiptext = Otvori panel s porukama instalacije add-ona
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Dodaj u adresnu traku
+page-action-remove-from-urlbar =
+    .label = Ukloni iz adresne trake
