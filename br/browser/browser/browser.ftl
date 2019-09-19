@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Kadavin roadennoù er c'hadaviñ diastal
 urlbar-addons-notification-anchor =
     .tooltiptext = Digeriñ penel kemennadenn staliadur an askouezh
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Ouzhpennañ d'ar varenn chomlec'h
+page-action-remove-from-urlbar =
+    .label = Lemel kuit diouzh ar varrenn chomlec'h
