@@ -52,5 +52,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = Ouzhpennañ d'ar varenn chomlec'h
+page-action-manage-extension =
+    .label = Merañ an askouezh...
 page-action-remove-from-urlbar =
     .label = Lemel kuit diouzh ar varrenn chomlec'h
