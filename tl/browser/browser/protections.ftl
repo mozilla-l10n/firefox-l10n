@@ -24,6 +24,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = Ang Antas ng Proteksyon ay naka-set sa <b>Standard</b>
 protection-header-details-strict = Ang Antas ng Proteksyon ay naka-set sa <b>Strikto</b>
 protection-header-details-custom = Ang Antas ng Proteksyon ay naka-set sa <b>Pasadya</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Ang Antas ng Proteksyon ay naka-set sa <b>Standard</b>
+    .title = Pumunta sa mga Privacy Setting
+protection-report-header-details-strict = Ang Antas ng Proteksyon ay naka-set sa <b>Strikto</b>
+    .title = Pumunta sa mga Privacy Setting
+protection-report-header-details-custom = Ang Antas ng Proteksyon ay naka-set sa <b>Pasadya</b>
+    .title = Pumunta sa mga Privacy Setting
 protection-report-page-title = Mga Proteksyong Pribasiya
 protection-report-content-title = Mga Proteksyong Pribasiya
 etp-card-title = Enhanced Tracking Protection
@@ -48,6 +57,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = Ligtas na iniimbak ng { -lockwise-brand-name } ang mga password mo sa iyong browser.
 lockwise-header-content-logged-in = Ligtas na iimbak at i-sync ang mga password mo sa lahat ng mga device.
 about-logins-view-logins-button = Tingan ang mga Login
+protection-report-view-logins-button = Tingan ang mga Login
+    .title = Pumunta sa mga naka-save na Login
 lockwise-no-logins-content = Kunin ang <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> app para madala kahti saan ang iyong mga password.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
