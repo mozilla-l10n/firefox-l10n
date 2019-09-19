@@ -8,6 +8,20 @@ about-config-warning-text = La modifica di queste impostazioni avanzate può com
 about-config-warning-checkbox = Ricordamelo la prossima volta, grazie.
 about-config-warning-button = Accetto i rischi
 about-config2-title = Configurazioni avanzate
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Procedere con cautela
+about-config-intro-warning-text = La modifica delle impostazioni avanzate di configurazione può compromettere le prestazioni e la sicurezza di { -brand-short-name }.
+about-config-intro-warning-checkbox = Mostra questo avviso quando si accede a queste preferenze
+about-config-intro-warning-button = Accetta il rischio e continua
+##
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = La modifica di queste impostazioni può compromettere le prestazioni e la sicurezza di { -brand-short-name }.
+
+about-config-page-title = Impostazioni avanzate
+
 about-config-search-input =
     .placeholder = Cerca
 about-config-search-input1 =
