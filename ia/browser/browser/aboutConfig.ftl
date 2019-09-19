@@ -10,6 +10,19 @@ about-config-warning-button = Io accepta le risco!
 about-config2-title = Configurationes avantiate
 about-config-search-input =
     .placeholder = Cercar
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Proceder con cautela
+about-config-intro-warning-text = Cambiar preferentias de configuration avantiate pote haber impacto sur le prestationes e le securitate de { -brand-short-name }.
+about-config-intro-warning-checkbox = Avisar me quando io tenta de acceder a iste preferentias
+about-config-intro-warning-button = Acceptar le risco e continuar
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Cambiar iste preferentias pote haber impacto sur le prestationes e le securitate de { -brand-short-name }.
+about-config-page-title = Preferentias avantiate
 about-config-search-input1 =
     .placeholder = Cercar nomine preferentia
 about-config-show-all = Monstrar toto
