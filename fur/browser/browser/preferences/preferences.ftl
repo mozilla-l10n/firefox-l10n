@@ -16,8 +16,6 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-category-sync =
-    .tooltiptext = { pane-sync-title }
 focus-search =
     .key = f
 close-button =
@@ -132,6 +130,9 @@ use-current-pages =
         }
     .accesskey = c
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-choose-keyword-column =
@@ -191,9 +192,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-cookies-exceptions =
-    .label = Ecezions…
-    .accesskey = E
 
 ## Privacy Section - Address Bar
 
@@ -205,6 +203,13 @@ addressbar-locbar-openpage-option =
     .accesskey = O
 
 ## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
 
 
 ## Privacy Section - Tracking
