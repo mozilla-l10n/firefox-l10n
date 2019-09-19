@@ -45,3 +45,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Ma’lumotlarni doimiy xotiraga saqlash
 urlbar-addons-notification-anchor =
     .tooltiptext = Qo‘shimcha dastur o‘rnatish xabari panelini ochish
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Manzil paneliga qo‘shish
+page-action-manage-extension =
+    .label = Kengaytmani boshqarish
+page-action-remove-from-urlbar =
+    .label = Manzil panelidan olib tashlash
