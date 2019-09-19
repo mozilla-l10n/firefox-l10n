@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Daty w trajnem składowaku składowaś
 urlbar-addons-notification-anchor =
     .tooltiptext = Wobcerk powěźeńki dodankoweje instalacije wócyniś
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Adresowemu póloju pśidaś
+page-action-remove-from-urlbar =
+    .label = Z adresowego póla wótwónoźeś
