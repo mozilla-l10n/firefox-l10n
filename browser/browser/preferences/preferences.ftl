@@ -660,6 +660,23 @@ content-blocking-setting-custom =
 content-blocking-custom-desc = వేటిని నిరోధించాలో ఎంచుకోండి.
 content-blocking-private-trackers = తెలిసిన ట్రాకర్లు, అంతరంగిక కిటికీల్లో మాత్రమే
 content-blocking-third-party-cookies = మూడవ-పక్ష ట్రాకింగు కుకీలు
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = ప్రామాణికం
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = కఠినం
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = అభిమతం
+    .accesskey = C
+
+##
+
 content-blocking-all-cookies = అన్ని కుకీలు
 content-blocking-all-windows-trackers = తెలిసిన ట్రాకర్లు, అన్ని కిటికీల్లోనూ
 content-blocking-all-third-party-cookies = మూడవ-పక్ష కుకీలన్నీ
