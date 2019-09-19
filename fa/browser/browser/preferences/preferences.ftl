@@ -688,6 +688,23 @@ content-blocking-setting-custom =
     .accesskey = C
 content-blocking-custom-desc = انتخاب کنید چه چیزی مسدود شود.
 content-blocking-third-party-cookies = کوکی‌هایِ ردیبابِ متفرقه
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = استاندارد
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = شدید
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = سفارشی
+    .accesskey = C
+
+##
+
 content-blocking-all-cookies = همه کوکی‌ها
 content-blocking-all-windows-trackers = ردیاب‌های شناخته شده در تمام پنجره‌ها
 content-blocking-all-third-party-cookies = تمام کوکی‌های متفرقه
