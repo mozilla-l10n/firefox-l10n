@@ -52,3 +52,5 @@ urlbar-addons-notification-anchor =
 
 page-action-manage-extension =
     .label = Hantera tillägg…
+page-action-remove-from-urlbar =
+    .label = Ta bort från adressfältet
