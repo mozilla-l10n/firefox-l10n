@@ -46,5 +46,9 @@ urlbar-addons-notification-anchor =
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = చిరునామా పట్టీకి చేర్చండి
 page-action-manage-extension =
     .label = పొడగింత నిర్వహణ…
+page-action-remove-from-urlbar =
+    .label = చిరునామా పట్టీ నుండి తొలగించండి
