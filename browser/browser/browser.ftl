@@ -52,5 +52,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = アドレスバーに追加
+page-action-manage-extension =
+    .label = 拡張機能を管理...
 page-action-remove-from-urlbar =
     .label = アドレスバーから削除
