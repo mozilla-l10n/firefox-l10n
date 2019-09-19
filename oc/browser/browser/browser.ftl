@@ -45,3 +45,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Gardar las donadas dins un emmagazinatge permanent
 urlbar-addons-notification-anchor =
     .tooltiptext = Mostrar lo messatge d'installation del modul
+
+## Page Action Context Menu
+
+page-action-remove-from-urlbar =
+    .label = Levar de la barra d'adreça
