@@ -721,8 +721,8 @@ addressbar-suggestions-settings = Naduno' riña sa ruguñu'unj da' gache nu'
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Garun' riña sa ma
-content-blocking-enhanced-tracking-protection = Sa hua hue'ê doj guendâ nará riña sa naga'naj a
 content-blocking-section-description = Dugumî man'ânt nga aché nunt. Narán riña nej nuguan' nitaj si ra'ngà' hua sani naga'na nùhuin si 'iát nga aché nunt asi nej pefî. Si naránt riña da'aj nej nuguan' nan nj ga'ue gi'iaj sun hìo doj pajinâ nan.
+content-blocking-enhanced-tracking-protection = Sa hua hue'ê doj guendâ nará riña sa naga'naj a
 content-blocking-section-top-level-description = Sa 'iaj nej sa naga'naj a huin sisi nikò' nej man sò' ngà aché nunt ni 'iaj tuj nej nuguan' hua 'iát ni nej sa 'iát. { -brand-short-name } narán riña ga'ì nej sa naga'naj nan ni riña a'ngô nej sa yi'ìi.
 content-blocking-learn-more = Gahuin chrūn doj
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -741,6 +741,19 @@ content-blocking-strict-description = Si ga'nïn dugumîn hue'eu man doj, ni ga'
 content-blocking-custom-desc = Nagui ahuin si riña naránt.
 content-blocking-private-trackers = Mà riña Windows huìi ga'ue gini'în' nej sa naga'naj yitïnj ïn
 content-blocking-third-party-cookies = Nej kokî nikò' sa nuhui' si ni'ñanj nìko
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+enhanced-tracking-protection-setting-strict =
+    .label = Sa ahìi
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Nagi'iaj
+    .accesskey = C
+
+##
+
 content-blocking-etp-standard-desc = Nda hue'ê chre huaj da' gi'iaj sunj ni naran rayi'ît. Nej pâjina ni nayi'nïn riña man dàj rû' 'iaj yitïn.
 content-blocking-etp-strict-desc = Nùkuaj doj naran rayi'ît, sani ga'ue si gi'iaj sun hue'ê da'aj sîtio asi sa màn riñanj.
 content-blocking-etp-custom-desc = Nagui nej sa naga'naj a asi a'ngô sa riña ruhuât naránt.
