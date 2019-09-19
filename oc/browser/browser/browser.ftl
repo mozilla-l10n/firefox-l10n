@@ -48,5 +48,7 @@ urlbar-addons-notification-anchor =
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = Apondre la barra d'adreça
 page-action-remove-from-urlbar =
     .label = Levar de la barra d'adreça
