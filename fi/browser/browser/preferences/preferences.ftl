@@ -742,8 +742,18 @@ content-blocking-third-party-cookies = Kolmannen osapuolen seurainevästeet
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Tavallinen
+    .accesskey = T
+enhanced-tracking-protection-setting-strict =
+    .label = Tiukka
+    .accesskey = u
+enhanced-tracking-protection-setting-custom =
+    .label = Oma
+    .accesskey = O
 
-
+##
 
 content-blocking-etp-standard-desc = Tasapainotettu suojauksen ja suorituskyvyn välillä. Sivut latautuvat normaalisti.
 content-blocking-etp-strict-desc = Vahvempi suojaus, mutta saattaa aiheuttaa sivustojen tai sisällön toimimattomuutta.
