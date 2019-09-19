@@ -52,5 +52,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = Cuir ri bàr an t-seòlaidh
+page-action-manage-extension =
+    .label = Stiùirich an leudachan...
 page-action-remove-from-urlbar =
     .label = Thoir air falbh o bhàr an t-seòlaidh
