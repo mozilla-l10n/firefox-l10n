@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Gegevens yn permaninte opslach bewarje
 urlbar-addons-notification-anchor =
     .tooltiptext = Berjochtepaniel foar add-on-ynstallaasje iepenje
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Tafoegje oan adresbalke
+page-action-manage-extension =
+    .label = Utwreiding beheare…
+page-action-remove-from-urlbar =
+    .label = Fuortsmite fan adresbalke
