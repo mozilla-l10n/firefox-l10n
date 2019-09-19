@@ -13,15 +13,6 @@ graph-week-summary =
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
 # earliest date recorded in the database.
-graph-total-summary =
-    { $count ->
-        [one] { $count } rastreador bloquedo desde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] { $count } rastreadores bloqueados desde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-    }
-# Variables:
-#   $count (Number) - Number of tracking events blocked.
-#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
-# earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
         [one] <b>{ $count }</b> rastreador bloqueado desde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
@@ -33,6 +24,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = El nivel de protección es <b>estándar</b>
 protection-header-details-strict = El nivel de protección es <b>estricto</b>
 protection-header-details-custom = El nivel de protección es <b>personalizado</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = El nivel de protección es <b>estándar</b>
+    .title = Ir a la configuración de privacidad
+protection-report-header-details-strict = El nivel de protección es <b>estricto</b>
+    .title = Ir a la configuración de privacidad
+protection-report-header-details-custom = El nivel de protección es <b>personalizado</b>
+    .title = Ir a la configuración de privacidad
 protection-report-page-title = Protecciones de privacidad
 protection-report-content-title = Protecciones de privacidad
 etp-card-title = Protección antirrastreo mejorada
@@ -47,7 +47,6 @@ social-tab-contant = Las redes sociales colocan rastreadores en otros sitios par
 cookie-tab-title = Cookies de rastreo multisitio
 cookie-tab-content = Estas cookies te siguen de sitio en sitio para recabar información sobre lo que haces en línea. Las colocan empresas de terceros como agencias publicitarias y analizadoras de datos. El bloqueo multisitio reduce la cantidad de anuncios que te siguen allí a donde vas. <a data-l10n-name="learn-more-link">Más información</a>
 tracker-tab-title = Contenido de rastreo
-tracker-tab-content = Los sitios web pueden cargar anuncios, videos y otros elementos externos que contienen código de rastreo. El bloqueo de contenido web puede acelerar la carga de las páginas, pero algunos botones, formularios y campos de inicio de sesión pueden dejar de funcionar. <a data-l10n-name="learn-more-link">Más información</a>
 tracker-tab-description = Los sitios web pueden cargar anuncios externos, videos y otro contenido con código de rastreo. El bloqueo del contenido de rastreo puede ayudar a que los sitios se carguen más rápido, pero es posible que algunos botones, formularios y campos de inicio de sesión no funcionen. <a data-l10n-name="learn-more-link">Conocer más</a>
 fingerprinter-tab-title = Huellas dactilares
 fingerprinter-tab-content = Las huellas dactilares recopilan la configuración de tu navegador y tu equipo para crear un perfil de ti. Con esta huella numérica pueden rastrearte por varios sitios web. <a data-l10n-name="learn-more-link">Más información</a>
@@ -57,7 +56,6 @@ lockwise-title = Que ya no se te olvide ninguna otra contraseña
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } guarda de manera segura tus contraseñas en el navegador.
 lockwise-header-content-logged-in = Almacena y sincroniza tus contraseñas en todos tus dispositivos.
-open-about-logins-button = Abrir en { -brand-short-name }
 about-logins-view-logins-button = Ver credenciales
 lockwise-no-logins-content = Obtén la app <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> para tener tus contraseñas en cualquier lugar.
 # This string is displayed after a large numeral that indicates the total number
@@ -78,40 +76,13 @@ lockwise-sync-status =
         [one] Sincronizando a { $count } dispositivo
        *[other] Sincronizando a otros { $count } dispositivos
     }
-lockwise-sync-not-syncing = No se está sincronizando a otros dispositivos.
 lockwise-sync-not-syncing-devices = No se está sincronizando a otros dispositivos
 monitor-title = Mantente atento a las fugas de datos
 monitor-link = Cómo funciona
-monitor-header-content = Mira el { -monitor-brand-name } para corroborar si fuiste víctima de una filtración de datos y recibe alertas sobre nuevas filtraciones.
-monitor-header-content-logged-in = { -monitor-brand-name } te avisa cuando tu información aparezca en una filtración de datos conocida.
 monitor-header-content-no-account = Revisa { -monitor-brand-name } para ver si has sido parte de una violación de datos conocida y recibir alertas sobre nuevas violaciones.
 monitor-header-content-signed-in = { -monitor-brand-name } te avisa si tu información apareció en una violación de datos conocida.
 monitor-sign-up = Regístrate para recibir alertas de filtraciones
 auto-scan = Analizado automáticamente hoy
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-monitored-addresses =
-    { $count ->
-        [one] Dirección de correo siendo monitoreada.
-       *[other] Direcciones de correo siendo monitoreadas.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of known data breaches. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-known-breaches =
-    { $count ->
-        [one] Filtración de datos ha expuesto tu información.
-       *[other] Filtraciones de datos han expuesto tu información.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of exposed passwords. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-exposed-passwords =
-    { $count ->
-        [one] Contraseña mostrada en todas las filtraciones.
-       *[other] Contraseñas mostradas en todas las filtraciones.
-    }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
