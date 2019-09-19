@@ -32,6 +32,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = Mae'r Lefel Diogelu wedi'i osod i <b>Safonol</b>
 protection-header-details-strict = Mae'r Lefel Diogelu wedi'i osod i <b>Llym</b>
 protection-header-details-custom = Mae'r Lefel Diogelu wedi'i osod i <b>Cyfaddas</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Mae'r Lefel Diogelu wedi'i osod i <b>Safonol</b>
+    .title = Ewch i'r Gosodiadau Preifatrwydd
+protection-report-header-details-strict = Mae'r Lefel Diogelu wedi'i osod i <b>Llym</b>
+    .title = Ewch i'r Gosodiadau Preifatrwydd
+protection-report-header-details-custom = Mae'r Lefel Diogelu wedi'i osod i <b>Cyfaddas</b>
+    .title = Ewch i'r Gosodiadau Preifatrwydd
 protection-report-page-title = Diogelu Preifatrwydd
 protection-report-content-title = Diogelu Preifatrwydd
 etp-card-title = Diogelwch Uwch Rhag Tracio
@@ -56,6 +65,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = Mae { -lockwise-brand-name } yn cadw'ch cyfrineiriau yn ddiogel yn eich porwr.
 lockwise-header-content-logged-in = Cadwch a chydweddwch eich cyfrineiriau'n ddiogel i'ch holl ddyfeisiau.
 about-logins-view-logins-button = Gweld Mewngofnodi
+protection-report-view-logins-button = Gweld Mewngofnodi
+    .title = Ewch i'r Mewngofnodin wedi'u Cadw
 lockwise-no-logins-content = Defnyddiwch yr ap <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name } i gymryd eich cyfrineiriau i bob man.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
