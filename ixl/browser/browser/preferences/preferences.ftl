@@ -134,8 +134,11 @@ content-blocking-setting-custom =
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+enhanced-tracking-protection-setting-custom =
+    .label = Eetz chitu'
+    .accesskey = C
 
-
+##
 
 content-blocking-cookies-label =
     .label = Cookies
