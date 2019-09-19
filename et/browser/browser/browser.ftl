@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Salvesta andmeid püsivalt
 urlbar-addons-notification-anchor =
     .tooltiptext = Ava lisa paigaldamise teavituspaneel
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Lisa aadressiribale
+page-action-manage-extension =
+    .label = Halda laiendust…
+page-action-remove-from-urlbar =
+    .label = Eemalda aadressiribalt
