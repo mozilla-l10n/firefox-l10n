@@ -41,3 +41,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = အမြဲသိမ်း သိုလှောင် နေရာတွင် သိမ်းမည်
 urlbar-addons-notification-anchor =
     .tooltiptext = အတ်အွန်တပ်ဆင်ခြင်းဆိုင်ရာ စာတိုပန်နယ်ကို ဖွင့ပါ
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = လိပ်စာဘားတန်းသို့ ထည့်ပါ
+page-action-manage-extension =
+    .label = ပေါင်းထည့်ကိရိယာကို စီမံရန်…
+page-action-remove-from-urlbar =
+    .label = လိပ်စာဘားတန်းမှ ဖယ်ရှားပါ
