@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Деректерді тұрақты қоймада сақтау
 urlbar-addons-notification-anchor =
     .tooltiptext = Кеңейтулерді орнату хабарламалар панелін ашу
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Адрес жолағына қосу
+page-action-remove-from-urlbar =
+    .label = Адрес жолағынан алып тастау
