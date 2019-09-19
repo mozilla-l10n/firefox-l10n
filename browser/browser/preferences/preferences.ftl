@@ -745,6 +745,23 @@ content-blocking-strict-description = Mbrojtje më e fortë, mund të shkaktojë
 content-blocking-custom-desc = Zgjidhni ç’të bllokohet.
 content-blocking-private-trackers = Gjurmues të njohur vetëm në Dritare Private
 content-blocking-third-party-cookies = Cookies gjurmimi nga palë të treta
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standard
+    .accesskey = S
+enhanced-tracking-protection-setting-strict =
+    .label = Strikt
+    .accesskey = i
+enhanced-tracking-protection-setting-custom =
+    .label = Vetjak
+    .accesskey = V
+
+##
+
 content-blocking-etp-standard-desc = I baraspeshuar për mbrojtje dhe funksionim. Faqet do të ngarkohen normalisht.
 content-blocking-etp-strict-desc = Mbrojtje më e fortë, por mund të shkaktojë mosfunksionim për disa sajte apo lëndë.
 content-blocking-etp-custom-desc = Zgjidhni cilët gjurmues dhe programthe të bllokohen.
