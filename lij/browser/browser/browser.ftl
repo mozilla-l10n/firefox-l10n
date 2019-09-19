@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Sarva dæti inta memöia persistente
 urlbar-addons-notification-anchor =
     .tooltiptext = Arvi o panello de instalaçion conponente azonto
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Azonzi a-a bara di indirissi
+page-action-manage-extension =
+    .label = Gestisci estenscioin…
+page-action-remove-from-urlbar =
+    .label = Leva da-a bara di indirissi
