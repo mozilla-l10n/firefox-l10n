@@ -357,7 +357,7 @@
 <!ENTITY addressesSidebarTitle.label "地址">
 
 <!-- Identity popup customize menuitem -->
-<!ENTITY customizeFromAddress.label "自定义发件人地址…">
+<!ENTITY customizeFromAddress.label "自定义发件人（From）地址…">
 <!ENTITY customizeFromAddress.accesskey "A">
 
 <!-- Accessibility name for the document -->

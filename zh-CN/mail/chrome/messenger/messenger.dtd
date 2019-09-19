@@ -699,7 +699,7 @@
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "标题">
 <!ENTITY searchFromMenu.label "来自">
-<!ENTITY searchSubjectOrFromMenu.label "标题或发件人">
+<!ENTITY searchSubjectOrFromMenu.label "标题或来自">
 <!ENTITY searchRecipient.label "收件人或转发">
 <!ENTITY searchSubjectOrRecipientMenu.label "标题，收件人或者抄送人">
 <!ENTITY searchMessageBody.label "整条消息">
@@ -732,7 +732,7 @@
 <!ENTITY columnChooser2.tooltip "选择要显示的列">
 <!ENTITY selectColumn.tooltip "切换选择所有消息">
 <!ENTITY threadColumn2.tooltip "显示消息话题">
-<!ENTITY fromColumn2.tooltip "按发件人排序">
+<!ENTITY fromColumn2.tooltip "按来自排序">
 <!ENTITY recipientColumn2.tooltip "按收件人排序">
 <!ENTITY correspondentColumn2.tooltip "按通信者排序">
 <!ENTITY subjectColumn2.tooltip "按主题排序">
