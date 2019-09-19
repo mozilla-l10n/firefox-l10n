@@ -52,5 +52,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = Dodaj do paska adresu
+page-action-manage-extension =
+    .label = Zarządzaj rozszerzeniem…
 page-action-remove-from-urlbar =
     .label = Usuń z paska adresu
