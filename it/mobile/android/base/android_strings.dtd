@@ -305,6 +305,7 @@
 <!ENTITY share "Condividi">
 <!ENTITY share_title "Condividi con">
 <!ENTITY share_image_failed "Impossibile condividere questa immagine">
+<!ENTITY share_error_toast_message "Impossibile condividere con l’app selezionata">
 <!ENTITY save_as_pdf "Salva come PDF">
 <!ENTITY print "Stampa">
 <!ENTITY view_page_source "Visualizza sorgente pagina">
