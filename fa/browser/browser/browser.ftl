@@ -45,3 +45,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = ذخیره اطلاعات به صورت ذخیره دائمی
 urlbar-addons-notification-anchor =
     .tooltiptext = باز کردن تابلو پیام‌های نصب افزودنی‌ها
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = اضافه کردن به نوار آدرس
+page-action-remove-from-urlbar =
+    .label = حذف از نوار آدرس
