@@ -746,6 +746,23 @@ content-blocking-strict-description = Високото ниво на защит�
 content-blocking-custom-desc = Изберете какво да бъде ограничавано.
 content-blocking-private-trackers = Известните проследявания само в поверителни прозорци
 content-blocking-third-party-cookies = Странични бисквитки за проследяване
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Стандартно
+    .accesskey = с
+enhanced-tracking-protection-setting-strict =
+    .label = Строго
+    .accesskey = т
+enhanced-tracking-protection-setting-custom =
+    .label = По избор
+    .accesskey = и
+
+##
+
 content-blocking-etp-standard-desc = Баланс между защита и бързодействие. Страниците ще се зареждат нормално.
 content-blocking-etp-strict-desc = По-високо ниво на защита, но някои страници може да не работят.
 content-blocking-etp-custom-desc = Изберете какво проследяване и кои скриптове да спрете.
