@@ -48,5 +48,9 @@ urlbar-addons-notification-anchor =
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = ایڈریس بار میں شامل کرے
 page-action-manage-extension =
     .label = توسیعات… بندرست کریں
+page-action-remove-from-urlbar =
+    .label = ایڈریس بار سے ہٹائے
