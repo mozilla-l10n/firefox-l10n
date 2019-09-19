@@ -687,6 +687,10 @@ content-blocking-third-party-cookies = तृतीय-पक्ष ट्रॅ
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = मानक
+    .accesskey = d
 enhanced-tracking-protection-setting-strict =
     .label = कठोर
     .accesskey = r
