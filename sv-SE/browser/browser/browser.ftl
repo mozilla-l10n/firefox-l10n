@@ -47,3 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Lagra data i beständig lagring
 urlbar-addons-notification-anchor =
     .tooltiptext = Öppna meddelandepanel för tilläggsinstallation
+
+## Page Action Context Menu
+
+page-action-manage-extension =
+    .label = Hantera tillägg…
