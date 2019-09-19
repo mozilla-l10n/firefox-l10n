@@ -721,6 +721,23 @@ content-blocking-strict-description = Viac blokovaného obsahu zvyšuje pravdepo
 content-blocking-custom-desc = Vyberte si, čo chcete blokovať.
 content-blocking-private-trackers = Známe sledovacie prvky sú blokované v režime súkromného prehliadania
 content-blocking-third-party-cookies = Blokované sú sledovacie cookies tretích strán
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Štandardné
+    .accesskey = t
+enhanced-tracking-protection-setting-strict =
+    .label = Prísne
+    .accesskey = P
+enhanced-tracking-protection-setting-custom =
+    .label = Vlastné
+    .accesskey = V
+
+##
+
 content-blocking-all-cookies = Všetky cookies
 content-blocking-unvisited-cookies = Cookies z nenavštívených stránok
 content-blocking-all-windows-trackers = Známe sledovacie prvky sú blokované vždy
