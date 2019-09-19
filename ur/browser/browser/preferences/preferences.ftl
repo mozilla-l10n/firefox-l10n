@@ -582,6 +582,23 @@ content-blocking-setting-custom =
     .label = مخصوص
     .accesskey = C
 content-blocking-custom-desc = چنیں کیا بلاک کرنا ہے
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = معیاری
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = سخت
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = مخصوص
+    .accesskey = C
+
+##
+
 content-blocking-all-cookies = تمام کوکیاں
 content-blocking-all-third-party-cookies = سارے تیسری تنظیم کے کوکیز
 content-blocking-cryptominers = کریپٹومینر
