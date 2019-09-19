@@ -721,6 +721,10 @@ content-blocking-third-party-cookies = Kuki pelacak pihak ketiga
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Standar
+    .accesskey = S
 enhanced-tracking-protection-setting-strict =
     .label = Ketat
     .accesskey = K
