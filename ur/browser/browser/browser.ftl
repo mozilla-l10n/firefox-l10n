@@ -45,3 +45,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = مسلسل اسٹوریج میں کوائف اسٹور کرے
 urlbar-addons-notification-anchor =
     .tooltiptext = ایڈاون کا تنصیب شدہ پیغام کا پینل کھولیں
+
+## Page Action Context Menu
+
+page-action-manage-extension =
+    .label = توسیعات… بندرست کریں
