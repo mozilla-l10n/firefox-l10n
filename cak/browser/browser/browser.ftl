@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Keyak taq tzij pa Jutaqil Yakoj
 urlbar-addons-notification-anchor =
     .tooltiptext = Tijaq tz'aqat pa rupas tzijol richin niyak
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Titz'aqatisäx ri Kikajtz'ik Ochochib'äl
+page-action-remove-from-urlbar =
+    .label = Tiyuj el chupam ri Kikajtz'ik Ochoch
