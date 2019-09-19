@@ -39,3 +39,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = ഡാറ്റ പെർസിസ്റ്റന്റ് സംഭരണത്തിൽ സംഭരിക്കുക
 urlbar-addons-notification-anchor =
     .tooltiptext = ആഡ് ഓൺ ഇൻസ്റ്റാളേഷൻ പാനൽ തുറക്കുക
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = അഡ്രസ് ബാറിലേക്ക് ചേർക്കുക
+page-action-remove-from-urlbar =
+    .label = അഡ്രസ് ബാറിൽ നിന്ന് നീക്കം ചെയ്യുക
