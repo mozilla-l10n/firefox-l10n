@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Fullskjerm
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Vis alle faner
@@ -212,6 +212,9 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Logg inn på { -sync-brand-short-name }…
     .accesskey = L
+menu-tools-turn-on-sync =
+    .label = Slå på { -sync-brand-short-name }…
+    .accesskey = S
 menu-tools-sync-now =
     .label = Synkroniser no
     .accesskey = S
