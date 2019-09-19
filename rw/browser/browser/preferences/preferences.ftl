@@ -16,8 +16,6 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-category-sync =
-    .tooltiptext = { pane-sync-title }
 close-button =
     .aria-label = Gufunga
 
@@ -112,6 +110,9 @@ use-current-pages =
         }
     .accesskey = I
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 
@@ -145,14 +146,18 @@ forms-master-pw-change =
 
 ## Privacy Section - Site Data
 
-sitedata-cookies-exceptions =
-    .label = Amarengayobora...
-    .accesskey = y
 
 ## Privacy Section - Address Bar
 
 
 ## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
 
 
 ## Privacy Section - Tracking
