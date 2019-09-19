@@ -24,6 +24,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = Suojaustasoksi on asetettu <b>tavallinen</b>
 protection-header-details-strict = Suojaustasoksi on asetettu <b>tiukka</b>
 protection-header-details-custom = Suojaustasoksi on asetettu <b>oma</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Suojaustasoksi on asetettu <b>tavallinen</b>
+    .title = Siirry yksityisyysasetuksiin
+protection-report-header-details-strict = Suojaustasoksi on asetettu <b>tiukka</b>
+    .title = Siirry yksityisyysasetuksiin
+protection-report-header-details-custom = Suojaustasoksi on asetettu <b>oma</b>
+    .title = Siirry yksityisyysasetuksiin
 protection-report-page-title = Yksityisyyden suojaukset
 protection-report-content-title = Yksityisyyden suojaukset
 etp-card-title = Tehostettu seurannan suojaus
@@ -48,6 +57,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } tallentaa salasanasi turvallisesti selaimeesi.
 lockwise-header-content-logged-in = Tallenna salasanasi turvallisesti ja synkronoi ne eri laitteiden välillä.
 about-logins-view-logins-button = Näytä kirjautumistiedot
+protection-report-view-logins-button = Näytä kirjautumistiedot
+    .title = Siirry tallennettuihin kirjautumistietoihin
 lockwise-no-logins-content = Hanki <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>-sovellus ja ota salasanat mukaasi minne menetkin.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
