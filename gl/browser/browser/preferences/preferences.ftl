@@ -681,6 +681,23 @@ content-blocking-standard-desc = Equilibrado entre protección e rendemento. Per
 content-blocking-custom-desc = Escolla que vai bloquear.
 content-blocking-private-trackers = Só elementos de seguimento coñecidos nas xanelas privadas
 content-blocking-third-party-cookies = Cookies de terceiros usadas con fins de seguimento
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Estándar
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Estrito
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Personalizado
+    .accesskey = z
+
+##
+
 content-blocking-all-windows-trackers = Elementos de seguimento coñecidos en todas as xanelas
 content-blocking-all-third-party-cookies = Todas as cookies de terceiros
 content-blocking-warning-title = Atención!
