@@ -9,8 +9,6 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-category-sync =
-    .tooltiptext = { pane-sync-title }
 focus-search =
     .key = f
 close-button =
@@ -130,6 +128,9 @@ choose-bookmark =
     .label = Ùżëjë załóżka…
     .accesskey = ż
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 # This warning is displayed when the chosen keyword is already in use
@@ -195,14 +196,18 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-cookies-exceptions =
-    .label = Wëjimczi…
-    .accesskey = W
 
 ## Privacy Section - Address Bar
 
 
 ## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
 
 
 ## Privacy Section - Tracking
