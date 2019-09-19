@@ -10,6 +10,14 @@ about-config-warning-button = Tinatanggap ko ang peligro.
 about-config2-title = Advanced na mga Configuration
 about-config-search-input =
     .placeholder = Hanapin
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-checkbox = Balaan ako kapag tinangka kong i-access ang mga kagustuhang ito
+about-config-intro-warning-button = Tanggapin ang Panganib at Magpatuloy
+
+
+
 about-config-search-input1 =
     .placeholder = Maghanap ng config property
 about-config-show-all = Ipakita Lahat
