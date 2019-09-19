@@ -57,6 +57,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } guarda de manera segura tus contraseñas en el navegador.
 lockwise-header-content-logged-in = Almacena y sincroniza tus contraseñas en todos tus dispositivos.
 about-logins-view-logins-button = Ver credenciales
+protection-report-view-logins-button = Ver credenciales
+    .title = Ir a los inicios de sesión guardados
 lockwise-no-logins-content = Obtén la app <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> para tener tus contraseñas en cualquier lugar.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
