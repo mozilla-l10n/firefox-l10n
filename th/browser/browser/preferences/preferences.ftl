@@ -725,6 +725,23 @@ content-blocking-strict-description = การป้องกันที่แ
 content-blocking-custom-desc = เลือกสิ่งที่จะปิดกั้น
 content-blocking-private-trackers = ตัวติดตามที่รู้จักเฉพาะในหน้าต่างส่วนตัว
 content-blocking-third-party-cookies = คุกกี้ติดตามจากบุคคลที่สาม
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = มาตรฐาน
+    .accesskey = ม
+enhanced-tracking-protection-setting-strict =
+    .label = เข้มงวด
+    .accesskey = ข
+enhanced-tracking-protection-setting-custom =
+    .label = กำหนดเอง
+    .accesskey = ก
+
+##
+
 content-blocking-etp-standard-desc = การป้องกันและประสิทธิภาพแบบสมดุล หน้าเว็บจะโหลดเป็นปกติ
 content-blocking-etp-strict-desc = การป้องกันที่แกร่งขึ้น แต่อาจทำให้บางไซต์หรือเนื้อหาหยุดทำงานได้
 content-blocking-etp-custom-desc = เลือกตัวติดตามหรือสคริปต์ที่ต้องการปิดกั้น
