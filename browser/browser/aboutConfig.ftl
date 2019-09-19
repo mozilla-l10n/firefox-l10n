@@ -10,6 +10,19 @@ about-config-warning-button = Jeg aksepterer risikoen
 about-config2-title = Avanserte innstillinger
 about-config-search-input =
     .placeholder = Søk
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Fortsett med forsiktighet
+about-config-intro-warning-text = Endring av avanserte konfigurasjonsinnstillinger kan påvirke { -brand-short-name } ytelse eller sikkerhet.
+about-config-intro-warning-checkbox = Advar når jeg prøver å få tilgang til disse innstillinger
+about-config-intro-warning-button = Godta risikoen og fortsett
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Endring av disse innstillinger kan påvirke { -brand-short-name } ytelse eller sikkerhet.
+about-config-page-title = Avanserte innstillinger
 about-config-search-input1 =
     .placeholder = Søk på innstillingsnavn
 about-config-show-all = Vis alt
