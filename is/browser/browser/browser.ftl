@@ -52,5 +52,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = Bæta við í staðfestingarslá
+page-action-manage-extension =
+    .label = Sýsla með viðbót…
 page-action-remove-from-urlbar =
     .label = Fjarlægja úr staðsetningarslá
