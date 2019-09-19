@@ -744,6 +744,23 @@ content-blocking-strict-description = حماية أقوى وأعتى، لكنه�
 content-blocking-custom-desc = اختر ما تريد حجبه.
 content-blocking-private-trackers = المتعقّبات المعروفة فقط في النوافذ الخاصة
 content-blocking-third-party-cookies = الكعكات التعقّبية من الأطراف الثالثة
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = قياسي
+    .accesskey = ق
+enhanced-tracking-protection-setting-strict =
+    .label = صارم
+    .accesskey = ص
+enhanced-tracking-protection-setting-custom =
+    .label = مخصّص
+    .accesskey = خ
+
+##
+
 content-blocking-all-cookies = كل الكعكات
 content-blocking-unvisited-cookies = الكعكات من المواقع غير المُزارة
 content-blocking-all-windows-trackers = المتعقّبات المعروفة في كل النوافذ
