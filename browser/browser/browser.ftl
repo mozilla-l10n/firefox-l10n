@@ -45,3 +45,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Mooftu keɓe e Ndesgu Duumiingu
 urlbar-addons-notification-anchor =
     .tooltiptext = Uddit ɗaldugal ɓatakuure aafirgal ɓeyditte
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Ɓeydu to Palal Ñiiɓirɗe
+page-action-remove-from-urlbar =
+    .label = Ittu e Palal Ñiiɓirɗe
