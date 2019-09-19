@@ -735,6 +735,23 @@ content-blocking-strict-description = Snažnija zaštita, može uzrokovati pucan
 content-blocking-custom-desc = Odaberite što blokirati.
 content-blocking-private-trackers = Poznati pratitelji samo u Privatnom pretraživanju
 content-blocking-third-party-cookies = Kolačići za praćenje trećih strana
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Uobičajeno
+    .accesskey = o
+enhanced-tracking-protection-setting-strict =
+    .label = Strogo
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Prilagođeno
+    .accesskey = P
+
+##
+
 content-blocking-all-cookies = Sve kolačiće
 content-blocking-unvisited-cookies = Kolačiće s neposjećenih stranica
 content-blocking-all-windows-trackers = Poznati pratitelji u svim prozorima
