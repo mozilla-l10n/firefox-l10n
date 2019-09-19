@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = 將資料儲存於持續性儲存空間
 urlbar-addons-notification-anchor =
     .tooltiptext = 開啟附加元件安裝訊息面板
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = 新增至網址列
+page-action-manage-extension =
+    .label = 管理擴充套件…
+page-action-remove-from-urlbar =
+    .label = 從網址列移除
