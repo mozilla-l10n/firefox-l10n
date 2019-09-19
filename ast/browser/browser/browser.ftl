@@ -35,3 +35,8 @@ urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Remanar compartir cámara y/o micrófonu col sitiu
 urlbar-addons-notification-anchor =
     .tooltiptext = Abrir panel de mensaxes d'instalación de complementos
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Amestar a la barra de direiciones
