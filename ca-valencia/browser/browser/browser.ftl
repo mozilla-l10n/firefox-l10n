@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Guarda dades en l'emmagatzematge persistent
 urlbar-addons-notification-anchor =
     .tooltiptext = Obri la subfinestra del missatge d'instal·lació del complement
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Afig a la barra d'adreces
+page-action-manage-extension =
+    .label = Gestiona l'extensió…
+page-action-remove-from-urlbar =
+    .label = Elimina de la barra d'adreces
