@@ -10,6 +10,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } gwoko maber mung me donyo ni i layeny mamegi.
 lockwise-header-content-logged-in = Gwok ka i rib maber mung me donyo mamegi i nyonyo ni weng.
 about-logins-view-logins-button = Nen Donyo iyie
+protection-report-view-logins-button = Nen Donyo iyie
+    .title = Cit i Donyo Iyie ma Kigwoko
 lockwise-no-logins-content = Nong purugram me <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> me cwalo mung me donyo mamegi ka weng.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
