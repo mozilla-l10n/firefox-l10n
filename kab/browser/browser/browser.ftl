@@ -47,3 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Err-d isefka deg uselkim
 urlbar-addons-notification-anchor =
     .tooltiptext = Ldi agalis n yizen i usebded n uzegrir
+
+## Page Action Context Menu
+
+page-action-remove-from-urlbar =
+    .label = Kkes seg ufeggag n tansa
