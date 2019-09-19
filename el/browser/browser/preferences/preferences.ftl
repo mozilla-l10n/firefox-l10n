@@ -730,6 +730,23 @@ content-blocking-strict-description = Ισχυρότερη προστασία, �
 content-blocking-custom-desc = Επιλέξτε τι θα αποκλείεται.
 content-blocking-private-trackers = Γνωστοί ιχνηλάτες μόνο σε ιδιωτικά παράθυρα
 content-blocking-third-party-cookies = Cookies καταγραφής τρίτων
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Τυπική
+    .accesskey = Τ
+enhanced-tracking-protection-setting-strict =
+    .label = Αυστηρή
+    .accesskey = Α
+enhanced-tracking-protection-setting-custom =
+    .label = Προσαρμοσμένη
+    .accesskey = Π
+
+##
+
 content-blocking-all-cookies = Όλα τα cookies
 content-blocking-unvisited-cookies = Cookies από ιστοσελίδες που δεν έχετε επισκεφθεί
 content-blocking-all-windows-trackers = Γνωστοί ιχνηλάτες σε όλα τα ιδιωτικά παράθυρα
