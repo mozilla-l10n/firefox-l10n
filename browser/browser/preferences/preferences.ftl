@@ -717,6 +717,23 @@ content-blocking-strict-description = Dìon nas làidire, dh’fhaoidte gum bris
 content-blocking-custom-desc = Tagh na thèid a bhacadh.
 content-blocking-private-trackers = Tracaichean as aithne dhuinn ann an uinneagan prìobhaideach a-mhàin
 content-blocking-third-party-cookies = Briosgaidean tracaidh le treas-phàrtaidhean
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Stannardach
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Teann
+    .accesskey = n
+enhanced-tracking-protection-setting-custom =
+    .label = Gnàthaichte
+    .accesskey = G
+
+##
+
 content-blocking-all-cookies = Gach briosgaid
 content-blocking-unvisited-cookies = Briosgaidean o làraichean air nach deach tadhal
 content-blocking-all-windows-trackers = Tracaichean as aithne dhuinn anns gach uinneag
