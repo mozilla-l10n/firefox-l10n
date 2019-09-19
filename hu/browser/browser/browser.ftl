@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Adatok tárolása az állandó tárban
 urlbar-addons-notification-anchor =
     .tooltiptext = Kiegészítő telepítési üzenetpanel megnyitása
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Hozzáadás a címsávhoz
+page-action-remove-from-urlbar =
+    .label = Eltávolítás a címsávból
