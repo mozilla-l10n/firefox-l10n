@@ -542,6 +542,23 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = රිසිකළ
     .accesskey = C
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = සම්මත
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = දැඩි
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = රිසිකළ
+    .accesskey = C
+
+##
+
 content-blocking-learn-how = කෙසේදැයි ඉගෙන ගන්න
 
 ## Privacy Section - Tracking
