@@ -24,6 +24,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = Le nivello de protection es preparate a <b>Standard</b>
 protection-header-details-strict = Le nivello de protection es preparate a <b>Restrictive</b>
 protection-header-details-custom = Le nivello de protection es preparate a <b>Personalisate</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Le nivello de protection es preparate a <b>Standard</b>
+    .title = Ir al Parametros de confidentialitate
+protection-report-header-details-strict = Le nivello de protection es preparate a <b>Restrictive</b>
+    .title = Ir al Parametros de confidentialitate
+protection-report-header-details-custom = Le nivello de protection es preparate a <b>Personalisate</b>
+    .title = Ir al Parametros de confidentialitate
 protection-report-page-title = Protectiones del confidentialitate
 protection-report-content-title = Protectiones del confidentialitate
 etp-card-title = Protection de traciamento meliorate
@@ -48,6 +57,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } immagazina con securitate tu contrasignos in tu navigator.
 lockwise-header-content-logged-in = Reserva e synchronisa con securitate tu contrasignos pro totes tu apparatos.
 about-logins-view-logins-button = Vider credentiales
+protection-report-view-logins-button = Vider credentiales
+    .title = Ir a Credentiales salvate
 lockwise-no-logins-content = Obtene le application <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> pro haber tu contrasignos ubique.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
