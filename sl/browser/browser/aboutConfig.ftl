@@ -10,6 +10,13 @@ about-config-warning-button = Sprejmem tveganje
 about-config2-title = Napredne nastavitve
 about-config-search-input =
     .placeholder = Išči
+
+## These strings appear on the warning you see when first visiting about:config.
+
+
+
+
+about-config-page-title = Nepredne nastavitve
 about-config-show-all = Prikaži vse
 about-config-pref-add = Dodaj
 about-config-pref-toggle = Preklopi
