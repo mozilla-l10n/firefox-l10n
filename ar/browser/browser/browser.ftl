@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = حفظ البيانات في مساحة تخزين دائمة
 urlbar-addons-notification-anchor =
     .tooltiptext = افتح لوحة رسائل تنصيب الإضافات
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = أضف إلى شريط العناوين
+page-action-remove-from-urlbar =
+    .label = أزل من شريط العناوين
