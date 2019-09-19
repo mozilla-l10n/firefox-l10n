@@ -16,8 +16,6 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-category-sync =
-    .tooltiptext = { pane-sync-title }
 close-button =
     .aria-label = TòɁw
 
@@ -115,6 +113,9 @@ choose-bookmark =
     .label = Mxhen ko ka dohs do lahs na...
     .accesskey = k
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-choose-keyword-column =
@@ -169,9 +170,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-cookies-exceptions =
-    .label = Koo tak toob luu...
-    .accesskey = K
 
 ## Privacy Section - Address Bar
 
@@ -180,6 +178,13 @@ addressbar-locbar-bookmarks-option =
     .accesskey = z
 
 ## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
 
 
 ## Privacy Section - Tracking
