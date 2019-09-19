@@ -9,8 +9,6 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-category-sync =
-    .tooltiptext = { pane-sync-title }
 close-button =
     .aria-label = Vala
 
@@ -64,6 +62,9 @@ browsing-use-smooth-scrolling =
 ## Home Section - Home Page Customization
 
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 
@@ -93,6 +94,13 @@ history-header = Umlandvo
 
 
 ## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
 
 
 ## Privacy Section - Tracking
