@@ -45,3 +45,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Globōt datus pastōveigā krōtuvē
 urlbar-addons-notification-anchor =
     .tooltiptext = Attaiseit papyldynuojumu instaliešonys ziņuojumu paneli
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Davīnōt adreses laukam
+page-action-manage-extension =
+    .label = Porvaldēt paplašinōjumu…
+page-action-remove-from-urlbar =
+    .label = Nūjimt nu adreses lauka
