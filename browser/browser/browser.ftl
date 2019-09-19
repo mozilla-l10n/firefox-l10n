@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Geyma gögn í varanlegri gagnageymslu
 urlbar-addons-notification-anchor =
     .tooltiptext = Opna skilaboðaflipa fyrir viðbótauppsetningu
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Bæta við í staðfestingarslá
+page-action-remove-from-urlbar =
+    .label = Fjarlægja úr staðsetningarslá
