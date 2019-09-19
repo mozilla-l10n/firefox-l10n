@@ -17,6 +17,7 @@ about-config-intro-warning-title = Ajapóta mbeguekatu
 
 
 
+about-config-page-title = Jerohoryvéva hupytypyre
 about-config-search-input1 =
     .placeholder = Jeguerohoryvéva réra jeheka
 about-config-show-all = Ehechaukapa
