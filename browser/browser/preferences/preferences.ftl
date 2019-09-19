@@ -683,6 +683,16 @@ content-blocking-setting-custom =
 content-blocking-custom-desc = काय ब्लॉक करावे ते निवडा.
 content-blocking-private-trackers = केवळ खाजगी विंडोजमध्ये ज्ञात ट्रॅकर
 content-blocking-third-party-cookies = तृतीय-पक्ष ट्रॅकिंग कुकीज
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+enhanced-tracking-protection-setting-strict =
+    .label = कठोर
+    .accesskey = r
+
+##
+
 content-blocking-all-cookies = सर्व कुकीज
 content-blocking-unvisited-cookies = भेट न दिलेल्या साइटवरील कुकीज
 content-blocking-all-windows-trackers = सर्व विंडोमध्ये ज्ञात ट्रॅकर
