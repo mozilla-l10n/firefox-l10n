@@ -4,8 +4,6 @@
 
 do-not-track-description = Thumelela iiwebhsayithi umqondiso othi "Musa ukuTreka" obonisa ukuba akufuni kutrekwa
 do-not-track-learn-more = Funda ngakumbi
-do-not-track-option-default =
-    .label = Kuphela xa usebenzisa uKhuseleko lokuTreka
 do-not-track-option-always =
     .label = Qho
 pref-page =
@@ -23,10 +21,6 @@ category-search =
 pane-privacy-title = UbuNgasese noKhuseleko
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = IAkhawunti yeFirefox
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = INkxaso ye{ -brand-short-name }
 focus-search =
     .key = f
@@ -267,6 +261,9 @@ choose-bookmark =
     .label = Sebenzisa iBhukhmakhi…
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-engine-default-header = Injini yesiseko yokukhangela
@@ -353,7 +350,6 @@ sync-fxa-privacy-notice = Isaziso sabucala
 
 ## Privacy Section - Forms
 
-forms-header = Iifomu neePhaswedi
 forms-exceptions =
     .label = Izinxaxhi…
     .accesskey = x
@@ -404,9 +400,6 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Funda okungakumbi
-sitedata-cookies-exceptions =
-    .label = Izinxaxhi…
-    .accesskey = z
 
 ## Privacy Section - Address Bar
 
@@ -421,21 +414,15 @@ addressbar-suggestions-settings = Tshintsha iipreferensi zamacebiso enjini yokuk
 ## Privacy Section - Content Blocking
 
 
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
 ## Privacy Section - Tracking
 
-tracking-header = Ukhuseleko Lokutreka
-tracking-mode-always =
-    .label = Qho
-    .accesskey = o
-tracking-mode-private =
-    .label = Kuphela kwiiwindow zabucala
-    .accesskey = l
-tracking-mode-never =
-    .label = Ungaze
-    .accesskey = U
-tracking-exceptions =
-    .label = Ezikhethekileyo…
-    .accesskey = z
 
 ## Privacy Section - Permissions
 
