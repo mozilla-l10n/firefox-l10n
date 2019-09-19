@@ -42,5 +42,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = ವಿಳಾಸದ ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ
+page-action-manage-extension =
+    .label = ವಿಸ್ತರಣೆಯನ್ನು ನಿರ್ವಹಿಸಿ…
 page-action-remove-from-urlbar =
     .label = ವಿಳಾಸದ ಪಟ್ಟಿಯಿಂದ ತೆಗೆಯಿರಿ
