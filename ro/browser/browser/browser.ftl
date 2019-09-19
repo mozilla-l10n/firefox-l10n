@@ -47,3 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Stochează date în stocarea persistentă
 urlbar-addons-notification-anchor =
     .tooltiptext = Deschide panoul cu mesaje privind instalarea de suplimente
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Adaugă în bara de adresă
