@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Enviar los sitios web una señal de "No rastrear" que significa que no quiere ser rastreado
+do-not-track-description = Enviar a los sitios web una señal de "No rastrear" que significa que no quiere ser rastreado
 do-not-track-learn-more = Conocer más
 do-not-track-option-default-content-blocking-known =
     .label = Solo cuando { -brand-short-name } está configurado para bloquear los rastreadores conocidos
@@ -29,7 +29,7 @@ search-input-box =
             [windows] Buscar en opciones
            *[other] Buscar en preferencias
         }
-managed-notice = El navegador está siendo administrado por la organización.
+managed-notice = El navegador está administrado por su organización.
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
