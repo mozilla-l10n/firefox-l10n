@@ -254,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administrer bruk av programtillegg">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Vel om du kan ta imot varsel frå nettstaden">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Lagre data i vedvarande lagring">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Nettlesaren er under fjernstyring">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Opne webautentiseringspanelet">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Opne løyvepanelet for nettlesaraktivitet">
@@ -439,8 +440,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vil du sjå faner frå dei andre einingane dine her?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Opne synkroniseringsinnstillingar">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Logg inn for å vise ei liste over faner frå andre einingar.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Vis ei liste over faner frå dei andre einingane dine.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Kontoen din må stadfestast.">
 <!ENTITY appMenuRemoteTabs.signin.label "Logg inn på Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Logg inn på &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Slå på &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Handter einingar…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vis sidestolpe for synkroniserte faner">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Gøym sidestolpen Synkroniserte faner">
@@ -979,10 +983,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Sporfølgjarar">
 
 <!ENTITY contentBlocking.manageSettings.label "Handter innhaldsblokkering">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Sporingsinnhald">
-
-<!ENTITY contentBlocking.manageSettings2.label "Handter instillingar for vern">
 <!ENTITY contentBlocking.manageSettings.accesskey "H">
 
 <!ENTITY contentBlocking.trackersView.label "Sporfølgjarar">
@@ -990,6 +990,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "Infokapslar">
 <!ENTITY contentBlocking.cookiesView.label "Infokapslar og nettsidedata">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Sporingsinnhald">
+
+<!ENTITY contentBlocking.manageSettings2.label "Handter instillingar for vern">
+<!ENTITY contentBlocking.manageSettings2.accesskey "n">
 
 <!ENTITY contentBlocking.socialblock.label "Sporing via sosiale medium">
 
