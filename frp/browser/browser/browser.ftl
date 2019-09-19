@@ -7,3 +7,8 @@
 
 urlbar-plugins-notification-anchor =
     .tooltiptext = Manèlyér los agllètons en utilisacion
+
+## Page Action Context Menu
+
+page-action-remove-from-urlbar =
+    .label = Garar de la barra d’adrèce
