@@ -47,3 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Stòr dàta san stòras bhuan
 urlbar-addons-notification-anchor =
     .tooltiptext = Fosgail panail teachdaireachdan stàladh thuilleadan
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Cuir ri bàr an t-seòlaidh
+page-action-remove-from-urlbar =
+    .label = Thoir air falbh o bhàr an t-seòlaidh
