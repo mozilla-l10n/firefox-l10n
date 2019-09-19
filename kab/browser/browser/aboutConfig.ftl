@@ -10,6 +10,13 @@ about-config-warning-button = Gziɣ uguren!
 about-config2-title = Tawila leqqayen
 about-config-search-input =
     .placeholder = Nadi
+
+## These strings appear on the warning you see when first visiting about:config.
+
+
+
+
+about-config-page-title = Ismenyifen leqqayen
 about-config-show-all = Sken akk
 about-config-pref-add = Rnu
 about-config-pref-toggle = Nṭew
