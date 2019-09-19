@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Tallenna tietoja pysyvään tallennustilaan
 urlbar-addons-notification-anchor =
     .tooltiptext = Avaa lisäosan asentamisen viestipaneeli
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Lisää osoitepalkkiin
+page-action-manage-extension =
+    .label = Hallitse laajennusta…
+page-action-remove-from-urlbar =
+    .label = Poista osoitepalkista
