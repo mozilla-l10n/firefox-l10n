@@ -10,6 +10,19 @@ about-config-warning-button = 我会小心的
 about-config2-title = 高级配置
 about-config-search-input =
     .placeholder = 搜索
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = 小心驶得万年船
+about-config-intro-warning-text = 更改高级配置首选项可能会影响 { -brand-short-name } 性能及安全性。
+about-config-intro-warning-checkbox = 当我试图访问这些首选项时提示我
+about-config-intro-warning-button = 接受风险并继续
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = 更改这些首选项可能会影响 { -brand-short-name } 性能及安全性。
+about-config-page-title = 高级首选项
 about-config-search-input1 =
     .placeholder = 搜索首选项名称
 about-config-show-all = 显示全部
