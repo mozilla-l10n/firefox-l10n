@@ -24,6 +24,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = רמת ההגנה היא <b>רגילה</b>
 protection-header-details-strict = רמת ההגנה היא <b>מחמירה</b>
 protection-header-details-custom = רמת ההגנה <b>מותאמת אישית</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = רמת ההגנה היא <b>רגילה</b>
+    .title = מעבר להגדרות פרטיות
+protection-report-header-details-strict = רמת ההגנה היא <b>מחמירה</b>
+    .title = מעבר להגדרות פרטיות
+protection-report-header-details-custom = רמת ההגנה <b>מותאמת אישית</b>
+    .title = מעבר להגדרות פרטיות
 protection-report-page-title = הגנות פרטיות
 protection-report-content-title = הגנות פרטיות
 etp-card-content = רכיבי מעקב עוקבים אחריך ברשת כדי לאסוף מידע על הרגלי הגלישה ותחומי העניין שלך. { -brand-short-name } חוסם הרבה מרכיבי המעקב האלו, לרבות תסריטים זדוניים אחרים.
@@ -44,6 +53,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } מאחסן באופן מאובטח את הססמאות שלך בדפדפן.
 lockwise-header-content-logged-in = אחסון וסנכרון הססמאות שלך באופן מאובטח לכל המכשירים שלך.
 about-logins-view-logins-button = הצגת כניסות
+protection-report-view-logins-button = הצגת כניסות
+    .title = מעבר לכניסות השמורות
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
