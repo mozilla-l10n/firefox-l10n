@@ -52,5 +52,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = 添加到地址栏
+page-action-manage-extension =
+    .label = 管理扩展…
 page-action-remove-from-urlbar =
     .label = 从地址栏移除
