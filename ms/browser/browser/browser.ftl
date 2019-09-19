@@ -45,3 +45,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Simpan data dalam Storan Kekal
 urlbar-addons-notification-anchor =
     .tooltiptext = Buka panel mesej pemasangan add-on
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Tambah ke Bar Alamat
+page-action-manage-extension =
+    .label = Urus Ekstensi…
+page-action-remove-from-urlbar =
+    .label = Buang daripada Bar Alamat
