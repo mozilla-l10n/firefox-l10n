@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = שמירת נתונים באחסון קבוע
 urlbar-addons-notification-anchor =
     .tooltiptext = פתיחת חלונית ההודעות של התקנת תוספות
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = הוספה לשורת הכתובת
+page-action-manage-extension =
+    .label = ניהול הרחבה…
+page-action-remove-from-urlbar =
+    .label = הסרה משורת הכתובת
