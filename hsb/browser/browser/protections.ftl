@@ -15,17 +15,6 @@ graph-week-summary =
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
 # earliest date recorded in the database.
-graph-total-summary =
-    { $count ->
-        [one] { $count } přesćěhowak je so wot { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } zablokował
-        [two] { $count } přesćěhowakaj stej so wot { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } zablokowałoj
-        [few] { $count } přesćěhowaki su so wot { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } zablokowali
-       *[other] { $count } přesćěhowakow je so wot { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } zablokowało
-    }
-# Variables:
-#   $count (Number) - Number of tracking events blocked.
-#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
-# earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
         [one] <b>{ $count }</b> přesćěhowak je so wot { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } zablokował
@@ -39,6 +28,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = Škitny schodźenk je so na <b>Standard</b> stajił
 protection-header-details-strict = Škitny schodźenk je so na <b>Striktny</b> stajił
 protection-header-details-custom = Škitny schodźenk je so na <b>Swójski</b> stajił
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Škitny schodźenk je so na <b>Standard</b> stajił
+    .title = K nastajenjam priwatnosće
+protection-report-header-details-strict = Škitny schodźenk je so na <b>Striktny</b> stajił
+    .title = K nastajenjam priwatnosće
+protection-report-header-details-custom = Škitny schodźenk je so na <b>Swójski</b> stajił
+    .title = K nastajenjam priwatnosće
 protection-report-page-title = Škity priwatnosće
 protection-report-content-title = Škity priwatnosće
 etp-card-title = Polěpšeny slědowanski škit
@@ -53,7 +51,6 @@ social-tab-contant = Socialne syće placěruja přesćěhowaki na druhich websyd
 cookie-tab-title = Slědowace placki mjez sydłami
 cookie-tab-content = Tute placki wam wot sydła do sydła slěduja, zo byšće daty wo tym hromadźili, štož online činiće. Stajeja so wot třećich poskićowarjow kaž na přikład wabjerjo a analyzowe předewzaća, Blokowanje slědowacych plackow mjez sydłami ličbu wabjenjow redukuje, kotrež wam slěduja. <a data-l10n-name="learn-more-link">Dalše informacije</a>
 tracker-tab-title = Slědowacy wobsah
-tracker-tab-content = Websydła móža eksterne wabjenje, wideja a druhi wobsah začitać, kotryž slědowacy kod wobsahuja. Hdyž slědowacy wobsah blokujeće, móže to pomhać, sydła spěšnišo začitać, ale někotre tłóčatka, formulary a přizjewjenske pola snano hižo njebudu fungować. <a data-l10n-name="learn-more-link">Dalše informacije</a>
 tracker-tab-description = Websydła móža eksterne wabjenje, wideja a druhi wobsah ze slědowacym kodom začitać. Hdyž slědowacy wobsah blokujeće, móže to pomhać, sydła spěšnišo začitać, ale někotre tłóčatka, formulary a přizjewjenske pola snano hižo njebudu fungować. <a data-l10n-name="learn-more-link">Dalše informacije</a>
 fingerprinter-tab-title = Porstowe wotćišće
 fingerprinter-tab-content = Porstowe wotćišće zběraja nastajenja z wašeho wobhladowaka a ličaka, zo bychu profil wo was wutworili. Hdyž tutón digitalny porstowy wotćišć wužiwaće, móža wam přez rozdźělne websydła slědować. <a data-l10n-name="learn-more-link">Dalše informacije</a>
@@ -63,8 +60,9 @@ lockwise-title = Njezabywajće ženje wjace hesło
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } waše hesła we wašim wobhladowaku wěsće składuje.
 lockwise-header-content-logged-in = Składujće a synchronizujće hesła za wšě waše graty.
-open-about-logins-button = W { -brand-short-name } wočinić
 about-logins-view-logins-button = Přizjewjenja pokazać
+protection-report-view-logins-button = Přizjewjenja pokazać
+    .title = K składowanym přizjewjenjam
 lockwise-no-logins-content = Wobstarajće sej nałoženje <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }, zo byšće swoje hesła wšudźe sobu wzał.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -88,46 +86,13 @@ lockwise-sync-status =
         [few] Synchronizuje so z { $count } druhimi gratami
        *[other] Synchronizuje so z { $count } druhimi gratami
     }
-lockwise-sync-not-syncing = Z druhimi gratami njesynchronizować
 lockwise-sync-not-syncing-devices = Z druhimi gratami njesynchronizować
 monitor-title = Rozhladujće so za datowymi dźěrami
 monitor-link = Kak funguje
-monitor-header-content = Přepruwujće { -monitor-brand-name }, zo byšće zwěsćił, hač sće na datowu dźěru padnył a warnowanja wo nowych dźěrach dóstawaće.
-monitor-header-content-logged-in = { -monitor-brand-name } was warnuje, jeli waše informacije su so w znatej datowej dźěrje zjewili
 monitor-header-content-no-account = Přepruwujće { -monitor-brand-name }, zo byšće zwěsćił, hač sće na znatu datowu dźěru padnył a warnowanja wo nowych dźěrach dóstawaće.
 monitor-header-content-signed-in = { -monitor-brand-name } was warnuje, jeli waše informacije su so w znatej datowej dźěrje zjewili.
 monitor-sign-up = Registrujće so za warnowanja wo datowych dźěrach
 auto-scan = Dźensa awtomatisce skenowany
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-monitored-addresses =
-    { $count ->
-        [one] E-mejlowa adresa, kotraž so dohladuje.
-        [two] E-mejlowej adresy, kotrejž so dohladujetej.
-        [few] E-mejlowe adresy, kotrež so dohladuja.
-       *[other] E-mejlowe adresy, kotrež so dohladuja.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of known data breaches. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-known-breaches =
-    { $count ->
-        [one] Znata datowa dźěra je waše informacije přeradźiła.
-        [two] Znatej datowej dźěrje stej waše informacije přeradźiłoj.
-        [few] Znate datowe dźěry su waše informacije přeradźili.
-       *[other] Znate datowe dźěry su waše informacije přeradźili.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of exposed passwords. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-exposed-passwords =
-    { $count ->
-        [one] Hesło je so přez wšě datowe dźery přeradźiło.
-        [two] Hesle stej so přez wšě datowe dźery přeradźiłoj.
-        [few] Hesła su so přez wšě datowe dźery přeradźili.
-       *[other] Hesła su so přez wšě datowe dźery přeradźili.
-    }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
