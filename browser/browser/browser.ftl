@@ -50,5 +50,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = முகவரி பட்டையில் சேர்
+page-action-manage-extension =
+    .label = நீட்சிகளை நிர்வகி…
 page-action-remove-from-urlbar =
     .label = முகவரி பட்டையிலிருந்து நீக்கு
