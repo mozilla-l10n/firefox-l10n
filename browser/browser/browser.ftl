@@ -45,3 +45,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = நிரந்தர சேமிப்பகத்தில் தரவை வை
 urlbar-addons-notification-anchor =
     .tooltiptext = கூடுதல் இணைப்பு நிறுவல் செய்திப் பலகத்தை திற
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = முகவரி பட்டையில் சேர்
+page-action-remove-from-urlbar =
+    .label = முகவரி பட்டையிலிருந்து நீக்கு
