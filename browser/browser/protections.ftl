@@ -22,6 +22,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = 保護等級設為<b>標準</b>
 protection-header-details-strict = 保護等級設為<b>嚴格</b>
 protection-header-details-custom = 保護等級設為<b>自訂</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = 保護等級設為<b>標準</b>
+    .title = 前往隱私設定
+protection-report-header-details-strict = 保護等級設為<b>嚴格</b>
+    .title = 前往隱私設定
+protection-report-header-details-custom = 保護等級設為<b>自訂</b>
+    .title = 前往隱私設定
 protection-report-page-title = 隱私保護
 protection-report-content-title = 隱私保護
 etp-card-title = 加強型追蹤保護
@@ -46,6 +55,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } 會安全地在您的瀏覽器中儲存密碼。
 lockwise-header-content-logged-in = 安全地儲存密碼，並同步到您的所有裝置中。
 about-logins-view-logins-button = 檢視登入資訊
+protection-report-view-logins-button = 檢視登入資訊
+    .title = 前往已存登入資訊
 lockwise-no-logins-content = 下載 <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> App，把密碼隨身帶著走。
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
