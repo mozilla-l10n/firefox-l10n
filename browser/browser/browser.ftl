@@ -52,5 +52,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = સરનામાં બારમાં ઉમેરો
+page-action-manage-extension =
+    .label = એક્સ્ટેંશનનો વહીવટ કરો…
 page-action-remove-from-urlbar =
     .label = સરનામાં બારમાંથી દૂર કરો
