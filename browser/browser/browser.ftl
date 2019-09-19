@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Uloží údaje do trvalého úložiska
 urlbar-addons-notification-anchor =
     .tooltiptext = Otvorí panel správ inštalácie doplnkov
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Pridať do panela s adresou
+page-action-manage-extension =
+    .label = Správa rozšírenia…
+page-action-remove-from-urlbar =
+    .label = Odstrániť z panela s adresou
