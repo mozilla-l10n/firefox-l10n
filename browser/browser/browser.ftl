@@ -52,5 +52,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = Adaugă în bara de adresă
+page-action-manage-extension =
+    .label = Gestionează extensia…
 page-action-remove-from-urlbar =
     .label = Elimină din bara de adresă
