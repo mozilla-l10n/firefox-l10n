@@ -730,8 +730,8 @@ addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Zavračanje vsebine
-content-blocking-enhanced-tracking-protection = Izboljšana zaščita pred sledenjem
 content-blocking-section-description = Zaščitite svojo zasebnost med brskanjem. Zavrnite nevidno vsebino, ki spremlja vaše obiskane strani in ustvarja profil o vas. Če zavrnete nekaj te vsebine, se lahko strani hitreje naložijo.
+content-blocking-enhanced-tracking-protection = Izboljšana zaščita pred sledenjem
 content-blocking-section-top-level-description = Sledilci vas spremljajo po spletu ter zbirajo podatke o vaših navadah in zanimanjih. { -brand-short-name } zavrača veliko teh sledilcev in drugih zlonamernih skriptov.
 content-blocking-learn-more = Več o tem
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -750,6 +750,23 @@ content-blocking-strict-description = Močnejša zaščita; lahko povzroči nede
 content-blocking-custom-desc = Izberite, kaj želite zavračati.
 content-blocking-private-trackers = Znane sledilce samo v zasebnih oknih
 content-blocking-third-party-cookies = Sledilne piškotke tretjih strani
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Običajno
+    .accesskey = č
+enhanced-tracking-protection-setting-strict =
+    .label = Strogo
+    .accesskey = S
+enhanced-tracking-protection-setting-custom =
+    .label = Po meri
+    .accesskey = m
+
+##
+
 content-blocking-etp-standard-desc = Uravnotežena zaščita in delovanje. Strani bodo delovale običajno.
 content-blocking-etp-strict-desc = Močnejša zaščita, ki pa lahko povzroči nedelovanje nekaterih strani ali vsebine.
 content-blocking-etp-custom-desc = Izberite, katere sledilce in skripte želite zavračati.
