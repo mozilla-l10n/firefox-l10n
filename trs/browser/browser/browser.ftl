@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Nachrâ so' datos da' gahuin rān ma
 urlbar-addons-notification-anchor =
     .tooltiptext = Na'nïn' riña ma nugua'an da' ga'ni' sa ni'iaj nichro' doj
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Nuto' riña dukuán direksiôn
+page-action-manage-extension =
+    .label = Ganikaj ñu'un' extensiôn...
+page-action-remove-from-urlbar =
+    .label = Guxun' riña dukuán direksiôn
