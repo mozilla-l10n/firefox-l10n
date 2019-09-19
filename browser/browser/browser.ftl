@@ -41,3 +41,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = අනවරත ගබඩාවේ දත්ත ගබඩා කරන්න
 urlbar-addons-notification-anchor =
     .tooltiptext = ඇඩෝන ස්ථාපනය කිරීමේ පණිවිඩ පුවරුව විවෘත කරන්න
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = ලිපින තීරුවට එක් කරන්න
+page-action-manage-extension =
+    .label = දිගුව පාලනය කරන්න…
+page-action-remove-from-urlbar =
+    .label = ලිපින තීරුවෙන් ඉවත් කරන්න
