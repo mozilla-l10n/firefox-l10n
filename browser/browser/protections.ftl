@@ -26,6 +26,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = Parinktas <b>numatytasis</b> apsaugos lygmuo
 protection-header-details-strict = Parinktas <b>griežtas</b> apsaugos lygmuo
 protection-header-details-custom = Parinktas <b>tinkintas</b> apsaugos lygmuo
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Parinktas <b>numatytasis</b> apsaugos lygmuo
+    .title = Eiti į privatumo nuostatas
+protection-report-header-details-strict = Parinktas <b>griežtas</b> apsaugos lygmuo
+    .title = Eiti į privatumo nuostatas
+protection-report-header-details-custom = Parinktas <b>tinkintas</b> apsaugos lygmuo
+    .title = Eiti į privatumo nuostatas
 protection-report-page-title = Privatumo apsaugos
 protection-report-content-title = Privatumo apsaugos
 etp-card-title = Išplėsta apsauga nuo stebėjimo
@@ -50,6 +59,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = „{ -lockwise-brand-name }“ saugiai įrašo slaptažodžius į jūsų naršyklę.
 lockwise-header-content-logged-in = Saugiai laikykite ir sinchronizuokite slaptažodžius tarp visų savo įrenginių.
 about-logins-view-logins-button = Peržiūrėti prisijungimus
+protection-report-view-logins-button = Peržiūrėti prisijungimus
+    .title = Eiti į įrašytus prisijungimus
 lockwise-no-logins-content = Naudokite programą <a data-l10n-name="lockwise-inline-link">„{ -lockwise-brand-name }“</a>, norėdami savo slaptažodžius turėti visur.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
