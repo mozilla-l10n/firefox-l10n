@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Използване на хранилището за постоянни данни
 urlbar-addons-notification-anchor =
     .tooltiptext = Отваряне на панел със съобщението за инсталиране на добавка
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Добавяне към адресната лента
+page-action-manage-extension =
+    .label = Управление на добавката…
+page-action-remove-from-urlbar =
+    .label = Премахване от адресната лента
