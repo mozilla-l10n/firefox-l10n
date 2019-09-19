@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Saugoti duomenis išliekančioje atmintyje
 urlbar-addons-notification-anchor =
     .tooltiptext = Atverti priedo diegimo pranešimo skydelį
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Pridėti į adreso lauką
+page-action-manage-extension =
+    .label = Tvarkyti priedą…
+page-action-remove-from-urlbar =
+    .label = Pašalinti iš adreso lauko
