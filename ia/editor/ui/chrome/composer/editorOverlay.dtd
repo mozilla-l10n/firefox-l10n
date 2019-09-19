@@ -271,6 +271,8 @@
 <!ENTITY structSelect.accesskey     "s">
 <!ENTITY structRemoveTag.label      "Remover le tag">
 <!ENTITY structRemoveTag.accesskey  "r">
+<!ENTITY structChangeTag.label      "Modificar tag">
+<!ENTITY structChangeTag.accesskey  "m">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Inserer">
