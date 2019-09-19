@@ -717,8 +717,8 @@ addressbar-suggestions-settings = Ŝanĝi preferojn pri serĉilaj sugestoj
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blokado de enhavo
-content-blocking-enhanced-tracking-protection = Plibonigita protekto kontraŭ spurado
 content-blocking-section-description = Protektu vian privatecon dum vi retumas. Bloku nevideblan enhavon, kiu registras la retejojn, kiujn vi vizitas por konstrui profilon pri vi. Bloki parton de tiu enhavo povas rapidigi la ŝargadon de paĝoj.
+content-blocking-enhanced-tracking-protection = Plibonigita protekto kontraŭ spurado
 content-blocking-learn-more = Pli da informo
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -736,6 +736,23 @@ content-blocking-strict-description = Pli severa protekto, kiu povus misfunkciig
 content-blocking-custom-desc = Elektu kion bloki.
 content-blocking-private-trackers = Konataj spuriloj nur en fenestroj de privata retumo.
 content-blocking-third-party-cookies = Spurantaj nerektaj kuketoj
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Norma
+    .accesskey = N
+enhanced-tracking-protection-setting-strict =
+    .label = Strikta
+    .accesskey = S
+enhanced-tracking-protection-setting-custom =
+    .label = Personecigita
+    .accesskey = P
+
+##
+
 content-blocking-etp-standard-desc = Ekvilibrita por protekto kaj efikeco. Paĝoj ŝargiĝos normale.
 content-blocking-etp-strict-desc = Pli forta proteko, sed kelkaj retejoj aŭ enhavjo povus ne bone funkcii.
 content-blocking-etp-custom-desc = Elektu blokotajn spurilojn kaj skriptojn
