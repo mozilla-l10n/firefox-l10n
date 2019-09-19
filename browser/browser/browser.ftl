@@ -25,3 +25,10 @@ urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Менаџирајте го споделувањето на вашата камера и/или микрофон со ова место
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Складирани податоци во Трајно складиште
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Додај во Адресна летна
+page-action-remove-from-urlbar =
+    .label = Отстрани од Адресна лента
