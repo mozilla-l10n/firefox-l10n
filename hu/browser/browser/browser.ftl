@@ -52,5 +52,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = Hozzáadás a címsávhoz
+page-action-manage-extension =
+    .label = Kiegészítő kezelése…
 page-action-remove-from-urlbar =
     .label = Eltávolítás a címsávból
