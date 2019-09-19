@@ -47,3 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Αποθήκευση δεδομένων στην επίμονη αποθήκευση
 urlbar-addons-notification-anchor =
     .tooltiptext = Άνοιγμα πλαισίου μηνυμάτων εγκατάστασης προσθέτων
+
+## Page Action Context Menu
+
+page-action-manage-extension =
+    .label = Διαχείριση επέκτασης…
