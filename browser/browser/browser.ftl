@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Qalıcı Yaddaşda məlumat saxlama
 urlbar-addons-notification-anchor =
     .tooltiptext = Əlavə quraşdırma mesaj panelini aç
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Ünvan sətrinə əlavə et
+page-action-manage-extension =
+    .label = Uzantını idarə et…
+page-action-remove-from-urlbar =
+    .label = Ünvan sətrindən sil
