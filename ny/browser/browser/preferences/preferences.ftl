@@ -15,12 +15,21 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-category-sync =
-    .tooltiptext = { pane-sync-title }
 close-button =
     .aria-label = Tsekani
 
 ## Browser Restart Dialog
+
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
 
 
 ## Preferences UI Search Results
@@ -49,6 +58,9 @@ download-header = Zotsitsidwa
 
 
 ## Home Section - Home Page Customization
+
+
+## Home Section - Firefox Home Content Customization
 
 
 ## Search Section
@@ -88,6 +100,16 @@ addressbar-locbar-bookmarks-option =
     .label = Chidziwitso
     .accesskey = C
 
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
 ## Privacy Section - Tracking
 
 
@@ -104,4 +126,7 @@ addressbar-locbar-bookmarks-option =
 
 
 ## Privacy Section - Certificates
+
+
+## The following strings are used in the Download section of settings
 
