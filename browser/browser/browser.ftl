@@ -50,6 +50,8 @@ urlbar-addons-notification-anchor =
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = Lägg till i adressfältet
 page-action-manage-extension =
     .label = Hantera tillägg…
 page-action-remove-from-urlbar =
