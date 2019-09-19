@@ -694,8 +694,8 @@ addressbar-suggestions-settings = ਖੋਜ ਇੰਜਣ ਸੁਝਾਵਾਂ �
 ## Privacy Section - Content Blocking
 
 content-blocking-header = ਸਮੱਗਰੀ ਪਾਬੰਦੀ
-content-blocking-enhanced-tracking-protection = ਵਧੇਰੇ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
 content-blocking-section-description = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦੀ ਸੁਰੱਖਿਆ ਕਰਦਾ ਹੈ। ਅਦਿੱਖ ਸਮੱਗਰੀ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਸਾਈਟਾਂ ਨੂੰ ਖੋਲ੍ਹਣ ਨੂੰ ਟਰੈਕ ਕਰਕੇ ਤੁਹਾਡਾ ਪਰੋਫਾਈਲ ਬਣਾਉਂਦੀ ਹੈ, ‘ਤੇ ਪਾਬੰਦੀ ਲਗਾਉਂਦਾ ਹੈ। ਇਹਨਾਂ ਵਿੱਚੋਂ ਕੁਝ ਸਮੱਗਰੀ ‘ਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਨਾਲ ਸਫ਼ੇ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਲੋਡ ਵੀ ਹੋ ਸਕਦੇ ਹਨ।
+content-blocking-enhanced-tracking-protection = ਵਧੇਰੇ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
 content-blocking-learn-more = ਹੋਰ ਜਾਣੋ
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -713,6 +713,23 @@ content-blocking-strict-description = ਹੋਰ ਵੱਧ ਸੁਰੱਖਿਆ,
 content-blocking-custom-desc = ਚੁਣੋ ਕਿ ਕਿਸ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣੀ ਹੈ।
 content-blocking-private-trackers = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਕੇਵਲ ਜਾਣ-ਪਛਾਣੇ ਟਰੈਕਰ ਹੀ
 content-blocking-third-party-cookies = ਤੀਜੀ-ਧਿਰ ਟਰੈਕ ਕਰਨ ਵਾਲੇ ਕੂਕੀਜ਼
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = ਮਿਆਰੀ
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = ਸਖ਼ਤ
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = ਚੁਣਿੰਦਾ
+    .accesskey = c
+
+##
+
 content-blocking-etp-standard-desc = ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਵਿਚਾਲੇ ਸੰਤੁਲਨ ਹੈ, ਸਫ਼ੇ ਆਮ ਨਾਲੋਂ ਵੱਧ ਤੇਜ਼ੀ ਨਾਲ ਲੋਡ ਹੁੰਦੇ ਹਨ।
 content-blocking-etp-strict-desc = ਵਧੇਰੇ ਸੁਰੱਖਿਆ, ਪਰ ਕੁਝ ਸਾਈਟਾਂ ਜਾਂ ਸਮੱਗਰੀ ਦੇ ਨਾ ਕੰਮ ਕਰਨ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦਾ ਹੈ।
 content-blocking-private-windows = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ‘ਚ ਸਮੱਗਰੀ ਟਰੈਕਿੰਗ
