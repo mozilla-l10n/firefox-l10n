@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Verilerni Sebatkâr Mağazda mağazla
 urlbar-addons-notification-anchor =
     .tooltiptext = Eklenti qurulımı mesaj panelini aç
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = Adres Çubuğına Ekle
+page-action-manage-extension =
+    .label = Eklentini İdare Et…
+page-action-remove-from-urlbar =
+    .label = Adres Çubuğından Çetleştir
