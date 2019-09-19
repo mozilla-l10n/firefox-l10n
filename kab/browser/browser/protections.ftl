@@ -7,6 +7,8 @@
 graph-today = Ass-a
 fingerprinter-tab-title = Idsilen umḍinen
 about-logins-view-logins-button = Sken-d tuqniwin
+protection-report-view-logins-button = Sken-d tuqniwin
+    .title = Ddu ɣer inekcumen yettwakelse
 manage-devices = Sefrek ibenkan
 monitor-link = Amek iteddu
 # This is the title attribute describing the graph report's link to about:settings#privacy
