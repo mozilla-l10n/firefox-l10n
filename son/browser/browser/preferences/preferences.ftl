@@ -17,10 +17,6 @@ category-search =
 pane-privacy-title = Sutura nda saajaw
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-# The word "account" can be translated, do not translate or transliterate "Firefox".
-pane-sync-title = Firefox kontu
-category-sync =
-    .tooltiptext = { pane-sync-title }
 help-button-label = { -brand-short-name } faaba
 focus-search =
     .key = f
@@ -236,6 +232,9 @@ choose-bookmark =
     .label = Doo-šilbay goyandi...
     .accesskey = D
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-engine-default-header = Tilasu ceecijinay
@@ -324,7 +323,6 @@ sync-fxa-privacy-notice = Sutura laasaabay
 
 ## Privacy Section - Forms
 
-forms-header = Takarey nda šennikufaley
 forms-exceptions =
     .label = Hasarawey…
     .accesskey = s
@@ -374,9 +372,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-cookies-exceptions =
-    .label = Hasarawey…
-    .accesskey = H
 
 ## Privacy Section - Address Bar
 
@@ -391,21 +386,15 @@ addressbar-suggestions-settings = Ibaa&ey barmay ceecijinay honnandiyaney se
 ## Privacy Section - Content Blocking
 
 
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
 ## Privacy Section - Tracking
 
-tracking-header = Ganayan jejebu
-tracking-mode-always =
-    .label = Waati kul
-    .accesskey = i
-tracking-mode-private =
-    .label = Sutura zanfuney hinne ra
-    .accesskey = i
-tracking-mode-never =
-    .label = Abada
-    .accesskey = b
-tracking-exceptions =
-    .label = Hasarawey…
-    .accesskey = H
 
 ## Privacy Section - Permissions
 
