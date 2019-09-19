@@ -16,6 +16,8 @@ cryptominer-tab-content = ตัวขุดเหรียญคริปโต
 lockwise-title = จะไม่ลืมรหัสผ่านอีก
 lockwise-title-logged-in = { -lockwise-brand-name }
 about-logins-view-logins-button = ดูการเข้าสู่ระบบ
+protection-report-view-logins-button = ดูการเข้าสู่ระบบ
+    .title = ไปยังการเข้าสู่ระบบที่บันทึกไว้
 manage-devices = จัดการอุปกรณ์
 monitor-link = มันทำงานอย่างไร
 # This is the title attribute describing the graph report's link to about:settings#privacy
