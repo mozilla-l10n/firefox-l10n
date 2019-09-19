@@ -70,7 +70,7 @@
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Porządkuj foldery">
 <!ENTITY compactFolders.accesskey "f">
-<!ENTITY emptyTrashCmd.label "Opróżnij Kosz">
+<!ENTITY emptyTrashCmd.label "Opróżnij kosz">
 <!ENTITY emptyTrashCmd.accesskey "r">
 <!ENTITY offlineMenu.label "Tryb offline">
 <!ENTITY offlineMenu.accesskey "l">
@@ -666,7 +666,7 @@
 <!ENTITY folderContextRemove.accesskey "U">
 <!ENTITY folderContextCompact.label "Porządkuj">
 <!ENTITY folderContextCompact.accesskey "d">
-<!ENTITY folderContextEmptyTrash.label "Opróżnij Kosz">
+<!ENTITY folderContextEmptyTrash.label "Opróżnij kosz">
 <!ENTITY folderContextEmptyTrash.accesskey "r">
 <!ENTITY folderContextEmptyJunk.label "Opróżnij Niechciane">
 <!ENTITY folderContextEmptyJunk.accesskey "e">
