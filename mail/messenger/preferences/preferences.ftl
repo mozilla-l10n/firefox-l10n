@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+general-language-and-appearance-header = Idioma y apariencia
+general-files-and-attachment-header = Archivos y adjuntos
+general-tags-header = Etiquetas
+general-updates-header = Actualizaciones
+general-network-and-diskspace-header = Red y espacio en el disco
+general-indexing-label = Indexación
 choose-messenger-language-description = Elija los idiomas para mostrar los menús, mensajes y notificaciones de { -brand-short-name }.
 manage-messenger-languages-button =
     .label = Establecer alternativas…
