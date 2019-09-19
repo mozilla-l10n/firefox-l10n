@@ -51,7 +51,7 @@ urlbar-addons-notification-anchor =
 ## Page Action Context Menu
 
 page-action-add-to-urlbar =
-    .label = Embojuaju kundaharape rendáre{ " " }
+    .label = Embojuaju kundaharape rendáre
 page-action-manage-extension =
     .label = Moĩmbaháre Ñangareko…
 page-action-remove-from-urlbar =
