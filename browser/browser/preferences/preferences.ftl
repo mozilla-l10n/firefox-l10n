@@ -694,6 +694,23 @@ content-blocking-setting-custom =
     .accesskey = C
 content-blocking-custom-desc = নির্বাচন করুন কি ব্লক করবেন
 content-blocking-third-party-cookies = তৃতীয় পক্ষের ট্র্যাকিং কুকি
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = প্রমিত
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = প্রখর
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = স্বনির্ধারিত
+    .accesskey = C
+
+##
+
 content-blocking-all-windows-trackers = সব উইন্ডোতে পরিচিত ট্র্যাকার
 content-blocking-all-third-party-cookies = সকল তৃতীয়-পক্ষের কুকিগুলো
 content-blocking-learn-how = শিখুন কিভাবে হয়
