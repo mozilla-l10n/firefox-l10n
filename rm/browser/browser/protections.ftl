@@ -24,6 +24,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = Il nivel da protecziun è actualmain <b>Standard</b>
 protection-header-details-strict = Il nivel da protecziun è actualmain <b>Restrictiv</b>
 protection-header-details-custom = Il nivel da protecziun è actualmain <b>Persunalisà</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Il nivel da protecziun è actualmain <b>Standard</b>
+    .title = Avrir ils parameters da la protecziun da datas
+protection-report-header-details-strict = Il nivel da protecziun è actualmain <b>Restrictiv</b>
+    .title = Avrir ils parameters da la protecziun da datas
+protection-report-header-details-custom = Il nivel da protecziun è actualmain <b>Persunalisà</b>
+    .title = Avrir ils parameters da la protecziun da datas
 protection-report-page-title = Protecziun da la sfera privata
 protection-report-content-title = Protecziun da la sfera privata
 etp-card-title = Protecziun avanzada cunter il fastizar
@@ -47,6 +56,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } memorisescha tes pleds-clav a moda segira en tes navigatur.
 lockwise-header-content-logged-in = Memorisescha e sincronisescha a moda segira tes pleds-clav sin tut tes apparats.
 about-logins-view-logins-button = Mussar las infurmaziuns d'annunzia
+protection-report-view-logins-button = Mussar las infurmaziuns d'annunzia
+    .title = Avrir las datas d'annunzia memorisadas
 lockwise-no-logins-content = Va per l'app <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> per prender cun tai ils pleds-clav dapertut.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
