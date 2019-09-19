@@ -731,6 +731,23 @@ content-blocking-strict-description = Proteção mais forte, pode causar com que
 content-blocking-custom-desc = Escolha o que bloquear.
 content-blocking-private-trackers = Trackers conhecidos apenas em janelas privadas
 content-blocking-third-party-cookies = Cookies de monitorização de terceiros
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Padrão
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Estrito
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Personalizado
+    .accesskey = e
+
+##
+
 content-blocking-all-cookies = Todos os cookies
 content-blocking-unvisited-cookies = Cookies de sites não visitados
 content-blocking-all-windows-trackers = Trackers conhecidos em todas as janelas
