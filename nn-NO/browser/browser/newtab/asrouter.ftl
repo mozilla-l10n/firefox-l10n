@@ -149,3 +149,6 @@ cfr-doorhanger-socialtracking-close-button = Lat att
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } hindra eit sosialt nettverk frå å spore deg her
 cfr-doorhanger-socialtracking-description = Personvernet ditt betyr noko. { -brand-short-name } blokkerer no vanlege sporfølgjarar frå sosiale medium, og avgrensar kor mykje data dei kan samle inn om kva du gjer på nettet.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blokkerte ein fingerprinter på denne sida
+cfr-doorhanger-fingerprinters-description = Personvernet ditt betyr noko. { -brand-short-name } blokkerer no fingerprinters, som samlar inn delar av unikt identifiserbar informasjon om eininga di for å spore deg.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } blokkerte ein kryptominar på denne sida
+cfr-doorhanger-cryptominers-description = Personvernet ditt betyr noko. { -brand-short-name } blokkerer no kryptominarar, som brukar datakrafta til systemet for å utvinne digitale pengar.
