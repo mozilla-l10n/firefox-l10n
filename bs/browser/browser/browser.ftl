@@ -44,5 +44,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = Dodaj u adresnu traku
+page-action-manage-extension =
+    .label = Upravljanje ekstenzijom…
 page-action-remove-from-urlbar =
     .label = Ukloni iz adresne trake
