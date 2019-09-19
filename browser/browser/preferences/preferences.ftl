@@ -572,6 +572,20 @@ content-blocking-setting-standard =
 content-blocking-setting-custom =
     .label = ផ្ទាល់ខ្លួន
     .accesskey = C
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = ស្ដង់ដា
+    .accesskey = d
+enhanced-tracking-protection-setting-custom =
+    .label = ផ្ទាល់ខ្លួន
+    .accesskey = C
+
+##
+
 content-blocking-learn-how = ស្វែងយល់​ពី​របៀប
 
 ## Privacy Section - Tracking
