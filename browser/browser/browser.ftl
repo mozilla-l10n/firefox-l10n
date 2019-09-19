@@ -50,5 +50,9 @@ urlbar-addons-notification-anchor =
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = Додај адресној траци
 page-action-manage-extension =
     .label = Управљај екстензијама…
+page-action-remove-from-urlbar =
+    .label = Уклони са адресне траке
