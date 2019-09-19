@@ -510,6 +510,17 @@ content-blocking-learn-more = Tuilleadh eolais
 content-blocking-setting-standard =
     .label = Caighdeánach
     .accesskey = d
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Caighdeánach
+    .accesskey = d
+
+##
+
 content-blocking-cookies-label =
     .label = Fianáin
     .accesskey = F
