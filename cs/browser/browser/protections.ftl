@@ -32,6 +32,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = Nastavena <b>standardní</b> úroveň ochrany
 protection-header-details-strict = Nastavena <b>přísná</b> úroveň ochrany
 protection-header-details-custom = Nastavena <b>vlastní</b> úroveň ochrany
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Nastavena <b>standardní</b> úroveň ochrany
+    .title = Nastavení soukromí
+protection-report-header-details-strict = Nastavena <b>přísná</b> úroveň ochrany
+    .title = Nastavení soukromí
+protection-report-header-details-custom = Nastavena <b>vlastní</b> úroveň ochrany
+    .title = Nastavení soukromí
 protection-report-page-title = Ochrana soukromí
 protection-report-content-title = Ochrana soukromí
 etp-card-title = Rozšířená ochrana proti sledování
@@ -56,6 +65,8 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } bezpečně uchovává vaše hesla ve vašem prohlížeči.
 lockwise-header-content-logged-in = Bezpečně uchovává a synchronizuje vaše hesla na všech vašich zařízeních.
 about-logins-view-logins-button = Zobrazit přihlašovací údaje
+protection-report-view-logins-button = Zobrazit přihlašovací údaje
+    .title = Zobrazit uložené přihlašovací údaje
 lockwise-no-logins-content = Stáhněte si aplikaci <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> a mějte svá hesla všude s sebou.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
