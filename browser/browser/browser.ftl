@@ -52,5 +52,7 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = Додати до панелі адреси
+page-action-manage-extension =
+    .label = Керувати розширенням…
 page-action-remove-from-urlbar =
     .label = Вилучити з панелі адреси
