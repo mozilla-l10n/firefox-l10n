@@ -16,8 +16,6 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-category-sync =
-    .tooltiptext = { pane-sync-title }
 close-button =
     .aria-label = Tswala
 
@@ -133,6 +131,9 @@ choose-bookmark =
     .label = Dirisa Letshwaotsebe…
     .accesskey = L
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-suggestions-option =
@@ -188,20 +189,15 @@ addressbar-locbar-openpage-option =
 ## Privacy Section - Content Blocking
 
 
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
 ## Privacy Section - Tracking
 
-tracking-mode-always =
-    .label = Ka nako tsotlhe
-    .accesskey = K
-tracking-mode-private =
-    .label = Fela mo windows e poraefete
-    .accesskey = F
-tracking-mode-never =
-    .label = Le goka
-    .accesskey = L
-tracking-exceptions =
-    .label = Ditlogelwantle
-    .accesskey = x
 
 ## Privacy Section - Permissions
 
