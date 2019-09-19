@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = ਪੱਕੀ ਸਟੋਰੇਜ਼ 'ਚ ਡਾਟੇ ਨੂੰ ਸਟੋਰ ਕਰੋ
 urlbar-addons-notification-anchor =
     .tooltiptext = ਐਡ-ਆਨ ਇੰਸਟਾਲੇਸ਼ਨ ਸੁਨੇਹਾ ਪੈਨਲ ਨੂੰ ਖੋਲ੍ਹੋ
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = ਐਡਰੈੱਸ ਪੱਟੀ 'ਚ ਜੋੜੋ
+page-action-manage-extension =
+    .label = …ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਪਰਬੰਧ ਕਰੋ
+page-action-remove-from-urlbar =
+    .label = ਐਡਰੈੱਸ ਪੱਟੀ ਤੋਂ ਹਟਾਓ
