@@ -16,13 +16,22 @@ category-search =
     .tooltiptext = { pane-search-title }
 category-privacy =
     .tooltiptext = { pane-privacy-title }
-category-sync =
-    .tooltiptext = { pane-sync-title }
 
 ## Browser Restart Dialog
 
 should-restart-title = Abɨdo taineye { -brand-short-name }
 restart-later = Úire abɨdo taineye
+
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (String): name of the extension
+
 
 ## Preferences UI Search Results
 
@@ -37,8 +46,6 @@ separate-profile-mode =
 use-firefox-sync = Yetarafue: Náama mamekɨ jɨaɨno jone. { -sync-brand-short-name } jóne ráfúe fekayena áfemakɨmo.
 is-default = { -brand-short-name } ó makara ja beno íte
 is-not-default = { -brand-short-name } ó makara ja beno íte
-startup-blank-page =
-    .label = Táɨno rabe akatri
 tabs-group-header = Úitɨraɨ
 show-tabs-in-taskbar =
     .label = Akatari úitɨraɨ radozi Windows íyano
@@ -127,9 +134,9 @@ use-current-pages =
 choose-bookmark =
     .label = Rɨgɨnua fɨno…
     .accesskey = f
-restore-default =
-    .label = Jógega ranɨaɨ abɨdo jóne
-    .accesskey = J
+
+## Home Section - Firefox Home Content Customization
+
 
 ## Search Section
 
@@ -198,9 +205,6 @@ history-dontremember-description = { -brand-short-name } ó dama ñúe fɨnoye t
 history-private-browsing-permanent =
     .label = Dama& ó makara benomo íri
     .accesskey = p
-history-remember-option =
-    .label = Makara yunua dɨga jagaɨ úibiri
-    .accesskey = M
 history-remember-search-option =
     .label = Úibiri jagaɨmo rabe kúeyena ja jenoka
     .accesskey = f
@@ -213,13 +217,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
-sitedata-accept-third-party-visited-option =
-    .label = Éroika
-sitedata-accept-third-party-never-option =
-    .label = Jáka
-sitedata-cookies-exceptions =
-    .label = Jɨ́aɨmakɨ…
-    .accesskey = J
 
 ## Privacy Section - Address Bar
 
@@ -230,20 +227,18 @@ addressbar-locbar-openpage-option =
     .label = Úitɨraɨ tuño
     .accesskey = O
 
+## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
+
 ## Privacy Section - Tracking
 
-tracking-mode-always =
-    .label = Jaka
-    .accesskey = k
-tracking-mode-private =
-    .label = Dáma kúe éroirafo
-    .accesskey = k
-tracking-mode-never =
-    .label = Jáka
-    .accesskey = J
-tracking-exceptions =
-    .label = Jɨ́aɨmakɨ…
-    .accesskey = a
 
 ## Privacy Section - Permissions
 
@@ -268,4 +263,7 @@ permissions-addon-exceptions =
 
 
 ## Privacy Section - Certificates
+
+
+## The following strings are used in the Download section of settings
 
