@@ -13,15 +13,6 @@ graph-week-summary =
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
 # earliest date recorded in the database.
-graph-total-summary =
-    { $count ->
-        [one] { $count } sporer blokkert siden { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] { $count } sporere blokkert siden { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-    }
-# Variables:
-#   $count (Number) - Number of tracking events blocked.
-#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
-# earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
         [one] <b>{ $count }</b> sporer blokkert siden { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
@@ -33,6 +24,15 @@ graph-total-tracker-summary =
 protection-header-details-standard = Beskyttelsesnivået er satt til <b>standard</b>
 protection-header-details-strict = Beskyttelsesnivået er satt til <b>streng</b>
 protection-header-details-custom = Beskyttelsesnivået er satt til <b>tilpasset</b>
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Beskyttelsesnivået er satt til <b>standard</b>
+    .title = Gå til personverninnstillinger
+protection-report-header-details-strict = Beskyttelsesnivået er satt til <b>streng</b>
+    .title = Gå til personverninnstillinger
+protection-report-header-details-custom = Beskyttelsesnivået er satt til <b>tilpasset</b>
+    .title = Gå til personverninnstillinger
 protection-report-page-title = Personvernbeskyttelser
 protection-report-content-title = Personvernbeskyttelser
 etp-card-title = Utvidet sporingsbeskyttelse
@@ -47,7 +47,6 @@ social-tab-contant = Sosiale nettverk plasserer sporere på andre nettsteder for
 cookie-tab-title = Sporingsinfokapsler på tvers av nettsteder
 cookie-tab-content = Disse infokapslene følger deg fra nettsted til nettsted for å samle inn data om hva du gjør på nettet. De er satt av tredjeparter som annonsører og analyseselskaper. Blokkering av sporingsinfokapsler på tvers av nettsteder reduserer antall annonser som følger deg. <a data-l10n-name="learn-more-link">Les mer</a>
 tracker-tab-title = Sporings-innhold
-tracker-tab-content = Nettsteder kan laste inn eksterne annonser, videoer og annet innhold som inneholder sporingskode. Blokkering av sporingsinnhold kan hjelpe nettsteder å laste raskere, men noen knapper, skjemaer og innloggingsfelt fungerer kanskje ikke. <a data-l10n-name="learn-more-link">Les mer</a>
 tracker-tab-description = Nettsteder kan laste inn eksterne annonser, videoer og annet innhold med sporingskode. Blokkering av sporingsinnhold kan hjelpe nettsteder å laste raskere, men noen knapper, skjemaer og innloggingsfelt fungerer kanskje ikke. <a data-l10n-name="learn-more-link">Les mer</a>
 fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters samler innstillinger fra nettleseren din og datamaskinen for å opprette en profil av deg. Ved hjelp av dette digitale fingeravtrykket kan de spore deg på forskjellige nettsteder. <a data-l10n-name="learn-more-link">Les mer</a>
@@ -57,8 +56,9 @@ lockwise-title = Glem aldri et passord igjen
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } lagrer passordene dine sikkert i nettleseren din.
 lockwise-header-content-logged-in = Lagre passordene dine sikkert og synkroniser dem med alle enhetene dine.
-open-about-logins-button = Åpne i { -brand-short-name }
 about-logins-view-logins-button = Vis innlogginger
+protection-report-view-logins-button = Vis innlogginger
+    .title = Gå til lagrede innlogginger
 lockwise-no-logins-content = Få appen <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> for å ta passordene dine med overalt.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -78,40 +78,13 @@ lockwise-sync-status =
         [one] Synkroniserer med { $count } annen enhet
        *[other] Synkroniserer med { $count } andre enheter
     }
-lockwise-sync-not-syncing = Synkroniserer ikke med andre enheter.
 lockwise-sync-not-syncing-devices = Synkroniserer ikke med andre enheter
 monitor-title = Se opp for på datalekkasjer.
 monitor-link = Hvordan det virker
-monitor-header-content = Sjekk { -monitor-brand-name } for å se om du har vært en del av en datalekkasje og få varsler om nye lekkasjer.
-monitor-header-content-logged-in = { -monitor-brand-name } advarer deg om informasjonen din har dukket opp i en kjent datalekkasje
 monitor-header-content-no-account = Sjekk { -monitor-brand-name } for å se om du har vært en del av en kjent datalekkasje og få varsler om nye lekkasjer.
 monitor-header-content-signed-in = { -monitor-brand-name } advarer deg om informasjonen din har dukket opp i en kjent datalekkasje.
 monitor-sign-up = Registrer deg for datalekkasjevarsler
 auto-scan = Skannes automatisk i dag
-# This string is displayed after a large numeral that indicates the total number
-# of email addresses being monitored. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-monitored-addresses =
-    { $count ->
-        [one] E-postadresse som overvåkes.
-       *[other] E-postadresser som overvåkes.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of known data breaches. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-known-breaches =
-    { $count ->
-        [one] Kjent datalekkasje har eksponert din informasjon.
-       *[other] Kjente datalekkasjer har eksponert din informasjon.
-    }
-# This string is displayed after a large numeral that indicates the total number
-# of exposed passwords. Don’t add $count to
-# your localization, because it would result in the number showing twice.
-info-exposed-passwords =
-    { $count ->
-        [one] Passord eksponert fra alle lekkasjer.
-       *[other] Passord eksponert fra alle lekkasjer.
-    }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
