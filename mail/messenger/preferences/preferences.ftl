@@ -13,6 +13,7 @@ composition-attachments-header = Adjuntos
 composition-spelling-title = Ortografía
 privacy-main-header = Privacidad
 privacy-passwords-header = Contraseñas
+privacy-junk-header = Basura
 privacy-data-collection-header = Almacenamiento y uso de datos
 privacy-security-header = Seguridad
 privacy-scam-detection-title = Detección de fraude
