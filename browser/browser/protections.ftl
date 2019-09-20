@@ -48,8 +48,8 @@ cookie-tab-title = Cookies de rastreo de sitios cruzados
 cookie-tab-content = Estas cookies lo siguen de un sitio a otro para recopilar datos sobre lo que hace en línea. Las establecen terceros, como anunciantes y empresas de análisis. El bloqueo de las cookies de rastreo entre sitios reduce la cantidad de publicidad que lo sigue. <a data-l10n-name="learn-more-link"> Conocer más </a>
 tracker-tab-title = Contenido de rastreo
 tracker-tab-description = Los sitios web pueden cargar anuncios externos, videos y otro contenido con código de rastreo. El bloqueo del contenido de rastreo puede ayudar a que los sitios se carguen más rápido, pero es posible que algunos botones, formularios y campos de inicio de sesión no funcionen. <a data-l10n-name="learn-more-link">Conocer más</a>
-fingerprinter-tab-title = Identificadores de huellas digitales
-fingerprinter-tab-content = Los identificadores de huellas digitales recolectan los ajustes de su navegador y su computadora para crear un perfil suyo. Usando esta huella digital pueden seguirlo a través de diferentes sitios web. <a data-l10n-name="learn-more-link">Conocer más</a>
+fingerprinter-tab-title = Detectores de huellas digitales
+fingerprinter-tab-content = Los detectores de huellas digitales recolectan los ajustes de su navegador y su computadora para crear un perfil suyo. Usando esta huella digital pueden seguirlo a través de diferentes sitios web. <a data-l10n-name="learn-more-link">Conocer más</a>
 cryptominer-tab-title = Criptomineros
 cryptominer-tab-content = Los criptomineros utilizan la potencia informática de su sistema para extraer dinero digital. Las secuencias de comandos de cifrado de los mismos agotan su batería, ralentizan su computadora y pueden aumentar su factura de electricidad. <a data-l10n-name="learn-more-link">. Conocer más </a>
 lockwise-title = Nunca más olvide una contraseña
@@ -152,11 +152,11 @@ bar-tooltip-tracker =
            *[other] { $count } contenido de rastreo ({ $percentage }%)
         }
 bar-tooltip-fingerprinter =
-    .title = Identificadores de huellas digitales
+    .title = Detectores de huellas digitales
     .aria-label =
         { $count ->
-            [one] { $count } identificador de huellas digitales ({ $percentage }%)
-           *[other] { $count } identificadores de huellas digitales ({ $percentage }%)
+            [one] { $count } detector de huellas digitales ({ $percentage }%)
+           *[other] { $count } detectores de huellas digitales ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
     .title = Criptomineros

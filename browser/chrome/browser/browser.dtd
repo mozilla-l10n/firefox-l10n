@@ -936,13 +936,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.socialMediaTrackers.label "Rastreadores de redes sociales">
 <!ENTITY protections.crossSiteTrackingCookies.label "Cookies de rastreo de sitios cruzados">
 <!ENTITY protections.trackingContent.label "Contenido de rastreo">
-<!ENTITY protections.fingerprinters.label "Identificadores de huellas digitales">
+<!ENTITY protections.fingerprinters.label "Detectores de huellas digitales">
 <!ENTITY protections.cryptominers.label "Criptomineros">
 <!ENTITY protections.noTrackersFound.description "No hay rastreadores conocidos para &brandShortName; fueron detectados en esta página.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Estas cookies lo siguen de un sitio a otro para recopilar datos sobre lo que hace en línea. Las establecen terceros, como anunciantes y empresas de análisis.">
 <!ENTITY protections.cryptominers.description "Los criptomineros utilizan la potencia informática de su sistema para extraer dinero digital. Las secuencias de comandos de cifrado de los mismos agotan su batería, ralentizan su computadora y pueden aumentar su factura de electricidad.">
-<!ENTITY protections.fingerprinters.description "Los identificadores de huellas digitales recopilan la configuración de su navegador y computadora para crear un perfil suyo. Usando esta huella digital, pueden rastrearlo a través de diferentes sitios web.">
+<!ENTITY protections.fingerprinters.description "Los detectores de huellas digitales recolectan la configuración de su navegador y su computadora para crear un perfil suyo. Usando este detector de huella digital pueden seguirlo a través de diferentes sitios web.">
 <!ENTITY protections.trackingContent2.description "Los sitios pueden cargar publicidades externas, videos y otro contenido con código de rastreo. Bloquear el contenido de rastreo puede ayudar a que los sitios carguen más rápido pero algunos botones, formularios y campos de ingreso pueden dejar de funcionar.">
 <!ENTITY protections.socialMediaTrackers.description "Las redes sociales ubican rastreadores en otros sitios web para seguir lo que hace, ve y mira en línea. Esto permite que las empresas de redes sociales aprendan más sobre usted más allá de lo que comparte en sus perfiles de redes sociales.">
 
@@ -983,10 +983,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Rastreadores">
 
 <!ENTITY contentBlocking.manageSettings.label "Administrar el Bloqueo de contenido">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Contenido de rastreo">
-
-<!ENTITY contentBlocking.manageSettings2.label "Administrar la configuración de protección">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Rastreadores">
@@ -995,6 +991,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies y datos del sitio">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Contenido de rastreo">
+
+<!ENTITY contentBlocking.manageSettings2.label "Administrar la configuración de protección">
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Rastreadores de redes sociales">
@@ -1004,8 +1003,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cryptominers.label "Cryptominers">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
 
-<!ENTITY contentBlocking.fingerprinters.label "Fingerprinters">
-<!ENTITY contentBlocking.fingerprintersView.label "Fingerprinters">
+<!ENTITY contentBlocking.fingerprinters.label "Detectores de huellas digitales">
+<!ENTITY contentBlocking.fingerprintersView.label "Detectores de huellas digitales">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Informar sobre un problema">
 <!ENTITY contentBlocking.breakageReportView.label "Informar problemas">
