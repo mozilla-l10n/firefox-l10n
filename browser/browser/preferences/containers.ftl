@@ -57,7 +57,7 @@ containers-color-toolbar =
 containers-icon-fence =
     .label = Cercar
 containers-icon-fingerprint =
-    .label = Huella
+    .label = Huella digital
 containers-icon-briefcase =
     .label = Maletín
 # String represents a money sign but currently uses a dollar sign
