@@ -109,7 +109,7 @@ onboarding-send-tabs-title = 即时发送标签页给自己
 # tab's context menu.
 onboarding-send-tabs-text = Send Tabs 可即时跨设备分享网页，无须复制、粘贴或离开浏览器。
 onboarding-send-tabs-button = 开始使用 Send Tabs
-onboarding-pocket-anywhere-title = 随处阅随身听
+onboarding-pocket-anywhere-title = 随处阅听
 onboarding-pocket-anywhere-text2 = 可使用 { -pocket-brand-name } 应用离线保存您喜爱的故事，以便您闲暇时阅读、聆听和观看。
 onboarding-pocket-anywhere-button = 试用 { -pocket-brand-name }
 onboarding-lockwise-passwords-title = 将您的密码随身带着走
