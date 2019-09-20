@@ -39,7 +39,7 @@ etp-card-title = Förbättrat spårningsskydd
 etp-card-content = Trackers följer dig runt online för att samla in information om dina surfvanor och intressen. { -brand-short-name } blockerar många av dessa trackers och andra skadliga skript.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
-graph-today = graph-today = Idag
+graph-today = Idag
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Ett diagram som innehåller det totala antalet för varje typ av tracker som blockerats denna vecka.
 social-tab-title = Social media-trackers
@@ -53,20 +53,20 @@ fingerprinter-tab-content = Fingerprinters samlar inställningar från din webbl
 cryptominer-tab-title = Cryptominers
 cryptominer-tab-content = Cryptominers använder ditt systems datakraft för att utvinna digitala pengar. Cryptomining-skript tömmer ditt batteri, slöar ner din dator och kan öka energiräkningen. <a data-l10n-name="learn-more-link">Läs mer</a>
 lockwise-title = Glöm aldrig ett lösenord igen
-lockwise-title-logged-in = lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } lagrar dina lösenord på ett säkert sätt i din webbläsare.
 lockwise-header-content-logged-in = Lagra och synkronisera dina lösenord på ett säkert sätt mellan alla dina enheter.
 about-logins-view-logins-button = Visa inloggningar
 protection-report-view-logins-button = Visa inloggningar
-    .title = go-to-saved-logins = Gå till Sparade inloggningar
+    .title = Gå till sparade inloggningar
 lockwise-no-logins-content = Hämta appen <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> för att komma åt dina lösenord överallt.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 lockwise-passwords-stored =
     { $count ->
-        [one] lösenord lagrat säkert <a data-l10n-name="lockwise-how-it-works">Så funkar det</a>
-       *[other] lösenord lagrade säkert <a data-l10n-name="lockwise-how-it-works">Så funkar det</a>
+        [one] Lösenord lagrat säkert <a data-l10n-name="lockwise-how-it-works">Så funkar det</a>
+       *[other] Lösenord lagrade säkert <a data-l10n-name="lockwise-how-it-works">Så funkar det</a>
     }
 turn-on-sync = Slå på { -sync-brand-short-name }…
     .title = Gå till inställningar för sync
