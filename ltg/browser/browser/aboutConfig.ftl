@@ -10,6 +10,13 @@ about-config-warning-button = Es pīkreitu riskam
 about-config2-title = Paplašinōta īstateišona
 about-config-search-input =
     .placeholder = Mekleit
+
+## These strings appear on the warning you see when first visiting about:config.
+
+
+
+
+about-config-page-title = Paplašinōti īstatejumi
 about-config-show-all = Parōdeit vysus
 about-config-pref-add = Pīvīnōt
 about-config-pref-toggle = Porslēgt
