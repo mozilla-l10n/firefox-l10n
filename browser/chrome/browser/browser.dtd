@@ -79,6 +79,7 @@ when there are no windows but Firefox is still running. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Gezinme">
 <!ENTITY personalbarCmd.label "Yer imleri araç çubuğu">
 <!ENTITY personalbarCmd.accesskey "Y">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
@@ -252,6 +253,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Yan uygulama kullanımını yönet">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Sitenin bildirim gönderip gönderemeyeceğini ayarlayın">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Kalıcı depolamada veri depola">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Tarayıcı uzaktan kontrol ediliyor">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Web kimlik doğrulaması panelini aç">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Gezinme etkinliği izin panelini aç">
@@ -437,8 +439,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Diğer cihazlarınızdaki sekmeleri burada görmek ister misiniz?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Sync tercihlerini aç">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Diğer cihazlarınızdaki sekmeleri görmek için giriş yapın.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Diğer cihazlarınızdaki sekmelerin listesini görün.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Hesabınızın doğrulanması gerekiyor.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync’e giriş yapın">
+<!ENTITY appMenuRemoteTabs.signintosync.label "&syncBrand.shortName.label;’e giriş yap…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "&syncBrand.shortName.label;’i etkinleştir…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Cihazları yönet…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Kenar çubuğunda göster">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Eşitlenmiş sekmeler kenar çubuğunu gizle">
@@ -977,10 +982,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Takipçiler">
 
 <!ENTITY contentBlocking.manageSettings.label "İçerik engellemeyi yönet">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Takip amaçlı içerikler">
-
-<!ENTITY contentBlocking.manageSettings2.label "Koruma ayarlarını yönet">
 <!ENTITY contentBlocking.manageSettings.accesskey "e">
 
 <!ENTITY contentBlocking.trackersView.label "Takipçiler">
@@ -989,6 +990,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Çerezler">
 <!ENTITY contentBlocking.cookiesView.label "Çerezler ve site verileri">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Takip amaçlı içerikler">
+
+<!ENTITY contentBlocking.manageSettings2.label "Koruma ayarlarını yönet">
+<!ENTITY contentBlocking.manageSettings2.accesskey "K">
 
 <!ENTITY contentBlocking.socialblock.label "Sosyal medya takipçileri">
 
