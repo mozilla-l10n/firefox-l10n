@@ -44,6 +44,9 @@ cert-error-not-yet-valid-now = Mōjis lopys nūdrūšynoj sovu identitati ar ser
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Klaidas kods: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Mōjis lopys nūdrūšynoj sovu identitati ar sertifikatu datnem., kurus izdūt drūsi izdevieji. Lelōkō daļa porlyuku vaira nauzatic GeoTrust, RapidSSL, Symantec, Thawte un VeriSign izdūtim sertifikatim. { $hostname } izmontoj jūs izdūtu sertifikatu, deļ kō lopys identitati navar drūši apstyprynōt.
 cert-error-symantec-distrust-admin = Tev vajag paziņōt lopys administratoram par problemu
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
