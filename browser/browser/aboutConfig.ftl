@@ -13,6 +13,20 @@ about-config2-title = Avancerede indstillinger
 about-config-search-input =
     .placeholder = Søg
 
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Fortsæt på eget ansvar
+about-config-intro-warning-text = Ved at ændre avancerede indstillinger kan du påvirke ydelse eller sikkerhed for { -brand-short-name }.
+about-config-intro-warning-checkbox = Advar mig, når jeg forsøger at tilgå disse indstillinger
+about-config-intro-warning-button = Accepter risikoen og fortsæt
+
+##
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Ændring af disse indstillinger kan påvirke ydelse eller sikkerhed for { -brand-short-name }.
+
+about-config-page-title = Avancerede indstillinger
+
 about-config-search-input1 =
     .placeholder = Søg efter indstilling
 about-config-show-all = Vis alle

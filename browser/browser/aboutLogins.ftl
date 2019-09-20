@@ -66,6 +66,10 @@ login-list-item-title-new-login = Nyt login
 login-list-item-subtitle-new-login = Indtast login-oplysninger
 login-list-item-subtitle-missing-username = (intet brugernavn)
 
+about-logins-list-item-warning-icon = 
+  .alt = Advarselsikon
+  .title = Websted med datalæk
+
 ## Introduction screen
 
 login-intro-heading = Leder du efter dine gemte logins? Opsæt { -sync-brand-short-name }.
