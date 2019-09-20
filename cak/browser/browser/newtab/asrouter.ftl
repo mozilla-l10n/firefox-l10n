@@ -123,3 +123,6 @@ cfr-doorhanger-firefox-send-ok-button = Titojtob'ëx { -send-brand-name }
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-close-button = Titz'apïx
+    .accesskey = t
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } xuq'ät chi jun aj winäq k'amab'ey yatrojqaj wawe'
