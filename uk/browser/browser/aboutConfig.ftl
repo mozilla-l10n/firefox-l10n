@@ -10,6 +10,19 @@ about-config-warning-button = Я погоджуюся на ризик
 about-config2-title = Розширені налаштування
 about-config-search-input =
     .placeholder = Пошук
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Продовжуйте обережно
+about-config-intro-warning-text = Зміна розширених налаштувань може вплинути на швидкодію і безпеку { -brand-short-name }.
+about-config-intro-warning-checkbox = Попередити мене, коли я намагаюся отримати доступ до цих налаштувань
+about-config-intro-warning-button = Погодитись на ризик і продовжити
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Зміна цих налаштувань може вплинути на швидкодію і безпеку { -brand-short-name }.
+about-config-page-title = Розширені налаштування
 about-config-search-input1 =
     .placeholder = Пошук назви налаштування
 about-config-show-all = Показати все

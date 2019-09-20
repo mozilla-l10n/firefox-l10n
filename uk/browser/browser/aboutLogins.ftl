@@ -62,6 +62,9 @@ about-logins-login-list-empty-search-description = Немає результат
 login-list-item-title-new-login = Новий запис
 login-list-item-subtitle-new-login = Введіть облікові дані
 login-list-item-subtitle-missing-username = (без імені користувача)
+about-logins-list-item-warning-icon =
+    .alt = Піктограма попередження
+    .title = Зламаний веб-сайт
 
 ## Introduction screen
 
@@ -80,8 +83,6 @@ login-item-origin-label = Адреса веб-сайту
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Ім'я користувача
-login-item-username =
-    .placeholder = name@example.com
 about-logins-login-item-username =
     .placeholder = (без імені користувача)
 login-item-copy-username-button-text = Копіювати
