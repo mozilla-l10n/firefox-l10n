@@ -101,6 +101,7 @@ cfr-whatsnew-tracking-blocked-title =
        *[other] Tracker geblockt
     }
 cfr-whatsnew-tracking-blocked-subtitle = Seit { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Bericht anzeigen
 cfr-whatsnew-lockwise-backup-title = Speichere deine Passwörter ab
 cfr-whatsnew-lockwise-backup-body = Generiere jetzt sichere Passwörter, auf die du mit deinem Konto von überall aus zugreifen kannst.
 cfr-whatsnew-lockwise-backup-link-text = Backups einschalten
@@ -138,3 +139,16 @@ cfr-doorhanger-firefox-send-header = Diese PDF-Datei sicher teilen
 cfr-doorhanger-firefox-send-body = Schützen Sie Ihre Dokumente vor neugierigen Blicken mittels Ende-zu-Ende-Verschlüsselung und Links, welche nach der Benutzung ungültig werden.
 cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } ausprobieren
     .accesskey = p
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Schutzmaßnahmen anzeigen
+    .accesskey = m
+cfr-doorhanger-socialtracking-close-button = Schließen
+    .accesskey = S
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } hat ein soziales Netzwerk daran gehindert, deine Aktivitäten hier zu verfolgen.
+cfr-doorhanger-socialtracking-description = Deine Privatsphäre ist wichtig. { -brand-short-name } blockiert jetzt auch bekannte Skripte zur Aktivitätenverfolgung durch soziale Netzwerke und begrenzt damit, wie viel Informationen diese über deine Online-Aktivitäten sammeln können.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } hat einen Fingerabdruck auf dieser Seite blockiert
+cfr-doorhanger-fingerprinters-description = Deine Privatsphäre ist uns wichtig. { -brand-short-name } blockiert jetzt Fingerabdrücke, die eindeutig identifizierbare Informationen zu deinem Gerät sammeln, um dich zu tracken.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } hat einen Fingerabdruck auf dieser Seite blockiert
+cfr-doorhanger-cryptominers-description = Deine Privatsphäre ist uns wichtig. { -brand-short-name } blockiert jetzt Krypto-Miner, die die Rechenleistung deines Systems nutzen wollen, um digitale Währungen zu schürfen.
