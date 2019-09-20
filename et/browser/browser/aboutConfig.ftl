@@ -10,6 +10,21 @@ about-config-warning-button = Ma võtan selle riski
 about-config2-title = Täpsem häälestamine
 about-config-search-input =
     .placeholder = Otsi
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Jätka ettevaatlikult
+about-config-intro-warning-text = Parameetrite muutmine võib mõjutada { -brand-short-name }i jõudlust ja turvalisust.
+about-config-intro-warning-checkbox = Nende sätete avamisel kuvatakse seda teadet
+about-config-intro-warning-button = Nõustu riskiga ja jätka
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Parameetrite muutmine võib mõjutada { -brand-short-name }i jõudlust ja turvalisust.
+about-config-page-title = Täpsem häälestamine
+about-config-search-input1 =
+    .placeholder = Otsi parameetri nime
 about-config-show-all = Kuva kõiki
 about-config-pref-add = Lisa
 about-config-pref-toggle = Lülita ümber
