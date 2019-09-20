@@ -41,19 +41,19 @@ graph-today = 今日
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = 此图展示了本周各类型跟踪器的总拦截数。
 social-tab-title = 社交媒体跟踪器
-social-tab-contant = 社交网站将跟踪器嵌到其他网站，跟踪您在网上做了或看了什么。社交媒体公司对您的了解，绝不止于您在社交媒体上分享的信息。<a data-l10n-name="learn-more-link">详细了解</a>
+social-tab-contant = 社交网站会在众多网站上放置跟踪器，追踪您除了在社交网站上分享、发言外，还在网络上看些什么，做些什么。<a data-l10n-name="learn-more-link">详细了解</a>
 cookie-tab-title = 跨网站跟踪型 Cookie
 cookie-tab-content = 这些 Cookie 由第三方广告商或分析公司设置，能够在不同网站间跟踪您，以收集您的在线活动数据。<a data-l10n-name="learn-more-link">详细了解</a>
 tracker-tab-title = 跟踪性内容
-tracker-tab-description = 网站可能会加载包含跟踪代码的外部广告、视频、其他内容。拦截跟踪内容可以让网站加载更快，但某些按钮、表单、登录字段可能无法正常工作。<a data-l10n-name="learn-more-link">详细了解</a>
+tracker-tab-description = 网站可能会载入包含跟踪代码的外部广告、视频等内容。拦截跟踪性内容可以让网站加载更快，但某些按钮、表单、登录框可能无法正常工作。<a data-l10n-name="learn-more-link">详细了解</a>
 fingerprinter-tab-title = 数字指纹跟踪程序
-fingerprinter-tab-content = 数字指纹追踪程序收集您的浏览器、计算机设置，勾勒出您的精准画像，并在不同网站间跟踪您。<a data-l10n-name="learn-more-link">详细了解</a>
+fingerprinter-tab-content = 数字指纹跟踪程序会针对您的浏览器、计算机设置，给您生成独一无二的编号，以便在不同网站间追踪您，勾勒出您的精准画像。<a data-l10n-name="learn-more-link">详细了解</a>
 cryptominer-tab-title = 加密货币挖矿程序
-cryptominer-tab-content = 加密货币挖矿程序使用您的计算机算力来“挖”数字货币，耗尽您的设备电量、拖慢机器性能、增加电费支出。<a data-l10n-name="learn-more-link">详细了解</a>
-lockwise-title = 不再忘记密码
+cryptominer-tab-content = 加密货币挖矿程序盗用您的计算机算力来“挖掘”数字货币，这会消耗您的电力、拖慢机器性能、增加电费支出。<a data-l10n-name="learn-more-link">详细了解</a>
+lockwise-title = 密码不怕再忘
 lockwise-title-logged-in = { -lockwise-brand-name }
-lockwise-header-content = { -lockwise-brand-name } 将您的密码安全地存储在浏览器中。
-lockwise-header-content-logged-in = 安全地存储密码，并同步到您的所有设备。
+lockwise-header-content = { -lockwise-brand-name } 能将您的密码安全地存储在浏览器中。
+lockwise-header-content-logged-in = 安全地存储密码，并同步到您的所有设备中。
 about-logins-view-logins-button = 查看登录信息
 protection-report-view-logins-button = 查看登录信息
     .title = 前往已存登录信息
@@ -78,7 +78,7 @@ lockwise-sync-not-syncing-devices = 未与其他设备同步
 monitor-title = 帮您关心数据泄露事故
 monitor-link = 工作原理
 monitor-header-content-no-account = 到 { -monitor-brand-name } 检测您是否处于已知数据外泄事件之中，并在有新外泄事件时收到警报。
-monitor-header-content-signed-in = 若您的信息出现在已知的数据外泄事件中，{ -monitor-brand-name } 将警告您。
+monitor-header-content-signed-in = 若您的信息出现在已知的数据外泄事件中，{ -monitor-brand-name } 会警示您。
 monitor-sign-up = 订阅数据外泄警报
 auto-scan = 今日已自动扫描
 # This string is displayed after a large numeral that indicates the total number
@@ -86,7 +86,7 @@ auto-scan = 今日已自动扫描
 # your localization, because it would result in the number showing twice.
 info-monitored-emails =
     { $count ->
-       *[other] 正在监控的电子邮件地址
+       *[other] 个电子邮件地址正在关注
     }
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
@@ -108,12 +108,12 @@ full-report-link = 到 <a data-l10n-name="monitor-inline-link">{ -monitor-brand-
 # your localization, because it would result in the number showing twice.
 password-warning =
     { $count ->
-       *[other] 有网站发生数据外泄事件，可能已泄露您在其保存的登录信息。请尽快修改此密码，提升网络安全性。<a data-l10n-name="lockwise-link">查看已存登录信息</a>
+       *[other] 有网站发生数据外泄事件，可能已泄露您在其保存的登录信息。请尽快修改此密码，以维护您的线上安全。<a data-l10n-name="lockwise-link">查看已存登录信息</a>
     }
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = 前往隐私设置
 # This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = 前往已存登录信息
+go-to-saved-logins = 前往已经保存的登录信息
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
