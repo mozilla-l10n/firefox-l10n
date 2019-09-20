@@ -41,7 +41,7 @@ graph-today = 今日
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = 此图展示了本周各类型跟踪器的总拦截数。
 social-tab-title = 社交媒体跟踪器
-social-tab-contant = 社交网站会在众多网站上放置跟踪器，追踪您除了在社交网站上分享、发言外，还在网络上看些什么，做些什么。<a data-l10n-name="learn-more-link">详细了解</a>
+social-tab-contant = 社交网站会在众多网站上安插跟踪器。除了您在社交网站上分享、发言外，它们还监视您在其他地方看些什么、做些什么。<a data-l10n-name="learn-more-link">详细了解</a>
 cookie-tab-title = 跨网站跟踪型 Cookie
 cookie-tab-content = 这些 Cookie 由第三方广告商或分析公司设置，能够在不同网站间跟踪您，以收集您的在线活动数据。<a data-l10n-name="learn-more-link">详细了解</a>
 tracker-tab-title = 跟踪性内容
