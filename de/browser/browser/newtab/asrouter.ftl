@@ -143,7 +143,7 @@ cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } ausprobieren
 ## Social Tracking Protection
 
 cfr-doorhanger-socialtracking-ok-button = Schutzmaßnahmen anzeigen
-    .accesskey = m
+    .accesskey = M
 cfr-doorhanger-socialtracking-close-button = Schließen
     .accesskey = S
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } hat ein soziales Netzwerk daran gehindert, deine Aktivitäten hier zu verfolgen.
