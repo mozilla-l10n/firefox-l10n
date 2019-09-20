@@ -32,6 +32,8 @@ app-basics-name = Adı
 app-basics-version = Sürüm
 app-basics-build-id = Yapı numarası
 app-basics-update-channel = Güncelleme kanalı
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Güncelleme dizini
@@ -56,7 +58,6 @@ app-basics-service-workers = Kayıtlı Service Worker'lar
 app-basics-profiles = Profiller
 app-basics-launcher-process-status = Başlatıcı işlemi
 app-basics-multi-process-support = Çok işlemli pencereler
-app-basics-process-count = Web içeriği işlemi
 app-basics-remote-processes-count = Uzak işlemler
 app-basics-enterprise-policies = Kurumsal ilkeler
 app-basics-location-service-key-google = Google Konum Hizmeti anahtarı
@@ -112,6 +113,13 @@ sandbox-sys-call-number = Sistem çağrısı
 sandbox-sys-call-args = Parametreler
 safe-mode-title = Güvenli kipi deneyin
 restart-in-safe-mode-label = Eklentileri devre dışı bırakıp yeniden başlat…
+
+## Media titles
+
+audio-backend = Ses arka ucu
+max-audio-channels = En fazla kanal
+channel-layout = Tercih edilen kanal düzeni
+sample-rate = Tercih edilen örnek oranı
 media-title = Ortam
 media-output-devices-title = Çıktı cihazları
 media-input-devices-title = Girdi cihazları
@@ -124,6 +132,12 @@ media-device-format = Biçim
 media-device-channels = Kanallar
 media-device-rate = Oran
 media-device-latency = Gecikme
+media-capabilities-title = Çoku ortam yetenekleri
+# List all the entries of the database.
+media-capabilities-enumerate = Veritabanını numaralandır
+
+
+
 intl-title = Uluslararasılaştırma ve yerelleştirme
 intl-app-title = Uygulama ayarları
 intl-locales-requested = İstenen diller
@@ -238,12 +252,7 @@ uses-tiling = Tiling kullanımı
 content-uses-tiling = Tiling kullanımı (içerik)
 off-main-thread-paint-enabled = Off main thread painting etkin
 off-main-thread-paint-worker-count = Off main thread painting işçi sayısı
-low-end-machine = Düşük performanslı makine algılandı
 target-frame-rate = Hedef kare hızı
-audio-backend = Ses arka ucu
-max-audio-channels = En fazla kanal
-channel-layout = Tercih edilen kanal düzeni
-sample-rate = Tercih edilen örnek oranı
 min-lib-versions = Beklenen minimum sürüm
 loaded-lib-versions = Kullanılan sürüm
 has-seccomp-bpf = Seccomp-BPF (sistem çağrısı filtreleme)
