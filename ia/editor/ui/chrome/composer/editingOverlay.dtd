@@ -28,3 +28,4 @@
 <!ENTITY newToolbarCmd.label "Nove">
 <!ENTITY openToolbarCmd.label "Aperir">
 <!ENTITY openToolbarCmd.tooltip "Aperir un file local">
+<!ENTITY publishToolbarCmd.tooltip "Cargar file a un position remote">

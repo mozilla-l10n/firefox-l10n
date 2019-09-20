@@ -10,6 +10,7 @@
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 
 <!-- Toolbar-only items -->
+<!ENTITY compositionToolbar.tooltip "Barra de instrumentos de composition">
 <!ENTITY previewToolbarCmd.label "Navigar">
 <!ENTITY previewToolbarCmd.tooltip "Cargar iste pagina in le navigator">
 

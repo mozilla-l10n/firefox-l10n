@@ -265,6 +265,10 @@
 <!ENTITY bulletListToolbarCmd.tooltip "Crea o remove le lista punctate">
 <!ENTITY numberListToolbarCmd.tooltip "Crea o remove le lista numerate">
 <!ENTITY AlignPopupButton.tooltip "Seliger alineamento del texto">
+<!ENTITY alignLeftButton.tooltip "Alinear texto preter le margine sinistre">
+<!ENTITY alignCenterButton.tooltip "Alinear texto centrate">
+<!ENTITY alignRightButton.tooltip "Alinear texto preter le margine dextre">
+<!ENTITY alignJustifyButton.tooltip "Alinear texto preter le margines sinistre e dextre">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Seliger">

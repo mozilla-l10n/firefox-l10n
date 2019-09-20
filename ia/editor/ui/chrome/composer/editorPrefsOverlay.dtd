@@ -8,5 +8,6 @@
 <!ENTITY editorCheck.accesskey "c">
 
 <!ENTITY compose.label "Componer">
+<!ENTITY editing.label "Parametros nove pagina">
 <!ENTITY toolbars.label "Barras de instrumentos">
 <!ENTITY publish.label "Publication">
