@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Tam ekran
     .accesskey = T
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Tüm sekmeleri göster
@@ -212,12 +212,21 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = { -sync-brand-short-name }’e giriş yap…
     .accesskey = Y
+menu-tools-fxa-sign-in =
+    .label = { -brand-product-name }’a giriş yap…
+    .accesskey = g
+menu-tools-turn-on-sync =
+    .label = { -sync-brand-short-name }’i etkinleştir…
+    .accesskey = n
 menu-tools-sync-now =
     .label = Şimdi eşitle
     .accesskey = m
 menu-tools-sync-re-auth =
     .label = { -sync-brand-short-name }’e tekrar bağlan…
     .accesskey = R
+menu-tools-fxa-re-auth =
+    .label = { -brand-product-name }’a yeniden bağlan…
+    .accesskey = b
 menu-tools-web-developer =
     .label = Web geliştirici
     .accesskey = W

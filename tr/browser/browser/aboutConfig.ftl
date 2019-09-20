@@ -10,6 +10,19 @@ about-config-warning-button = Riski kabul ediyorum
 about-config2-title = Gelişmiş Yapılandırmalar
 about-config-search-input =
     .placeholder = Arama
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Dikkatli olun
+about-config-intro-warning-text = Gelişmiş yapılandırma tercihlerini değiştirmek { -brand-short-name } performansını veya güvenliğini etkileyebilir.
+about-config-intro-warning-checkbox = Bu tercihlere erişmeye çalıştığımda beni uyar
+about-config-intro-warning-button = Riski kabul ederek devam et
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Bu tercihleri değiştirmek { -brand-short-name } performansını veya güvenliğini etkileyebilir.
+about-config-page-title = Gelişmiş Tercihler
 about-config-search-input1 =
     .placeholder = Tercih adlarında ara
 about-config-show-all = Tümünü göster

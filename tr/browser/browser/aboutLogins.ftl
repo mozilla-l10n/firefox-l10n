@@ -61,6 +61,9 @@ about-logins-login-list-empty-search-description = Aramanızla eşleşen sonuç 
 login-list-item-title-new-login = Yeni hesap
 login-list-item-subtitle-new-login = Hesap bilgilerinizi girin
 login-list-item-subtitle-missing-username = (kullanıcı adı yok)
+about-logins-list-item-warning-icon =
+    .alt = Uyarı simgesi
+    .title = Bu site ihlale uğramış
 
 ## Introduction screen
 
