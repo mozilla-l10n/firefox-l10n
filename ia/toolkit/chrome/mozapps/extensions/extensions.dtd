@@ -59,7 +59,7 @@
 <!ENTITY addon.updateNow.label                "Actualisar ora">
 <!ENTITY addon.updateNow.tooltip              "Installar le actualisation pro iste additivo">
 <!ENTITY addon.includeUpdate.label            "Includer in le actualisation">
-<!ENTITY addon.updateAvailable.label          "Un actualisation es diponibile">
+<!ENTITY addon.updateAvailable.label          "Un actualisation es disponibile">
 <!ENTITY addon.checkingForUpdates.label       "Cercante actualisationes…">
 <!ENTITY addon.releaseNotes.label             "Notas de revision:">
 <!ENTITY addon.loadingReleaseNotes.label      "Cargante…">
@@ -68,4 +68,6 @@
 <!ENTITY addon.createdBy.label                "Per ">
 
 <!ENTITY settings.path.button.label           "Perquirer…">
+
+<!-- addon actions -->
 <!ENTITY setting.learnmore "Saper plus…">
