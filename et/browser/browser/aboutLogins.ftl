@@ -15,12 +15,46 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Otsi kasutajakontosid
 create-login-button = Loo uus kasutajakonto
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Saidi { $title } favicon
+fxaccounts-sign-in-text = Tee paroolid kättesaadavaks ka oma teistes seadmetes
+fxaccounts-sign-in-button = Logi { -sync-brand-short-name }i sisse
+fxaccounts-avatar-button =
+    .title = Halda kontot
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = Ava menüü
+# This menuitem is only visible on Windows
+menu-menuitem-import = Impordi paroolid…
+menu-menuitem-preferences =
+    { PLATFORM() ->
+        [windows] Sätted
+       *[other] Eelistused
+    }
+about-logins-menu-menuitem-help = Abi
+menu-menuitem-android-app = { -lockwise-brand-short-name } Androidile
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } iPhone'ile ja iPadile
 
 ## Login List
 
+login-list =
+    .aria-label = Otsingule vastavad kasutajakontod
+login-list-count =
+    { $count ->
+        [one] üks konto
+       *[other] { $count } kontot
+    }
+login-list-sort-label-text = Sortimine:
+login-list-name-option = nimi  (A-Y)
+login-list-breached-option = Kasutajatunnused lekitanud saidid
+login-list-last-changed-option = viimati muudetud
+login-list-last-used-option = viimati kasutatud
+login-list-intro-title = Kasutajakontosid ei leitud
 
 ## Introduction screen
 
