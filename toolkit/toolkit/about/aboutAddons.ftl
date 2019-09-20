@@ -100,15 +100,15 @@ detail-private-disallowed-label = 不支持隐私窗口
 detail-private-disallowed-description = 此扩展不支持在隐私浏览窗口中运行。<label data-l10n-name="detail-private-browsing-learn-more">详细了解</label>
 detail-private-disallowed-description2 = 隐私浏览时不会运行此扩展。<a data-l10n-name="learn-more">详细了解</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
-detail-private-required-label = 要求介入隐私窗口
-detail-private-required-description = 此扩展有权访问您在隐私浏览窗口中的活动情况。<label data-l10n-name="detail-private-browsing-learn-more">详细了解</label>
-detail-private-required-description2 = 此扩展可在隐私浏览中获知您的在线活动。<a data-l10n-name="learn-more">详细了解</a>
+detail-private-required-label = 会自动于隐私浏览窗口中运作
+detail-private-required-description = 此扩展可以获知您在隐私浏览窗口中的上网情况。<label data-l10n-name="detail-private-browsing-learn-more">详细了解</label>
+detail-private-required-description2 = 此扩展可以获知您在隐私浏览窗口中的上网情况。<a data-l10n-name="learn-more">详细了解</a>
 detail-private-browsing-on =
     .label = 允许
-    .tooltiptext = 在隐私浏览中启用
+    .tooltiptext = 在隐私浏览模式中启用
 detail-private-browsing-off =
     .label = 不允许
-    .tooltiptext = 在隐私浏览中禁用
+    .tooltiptext = 在隐私浏览模式中禁用
 detail-home =
     .label = 主页
 detail-home-value =
@@ -146,7 +146,7 @@ disabled-unsigned-heading =
 disabled-unsigned-description = 下列附加组件未通过针对是否适用于 { -brand-short-name } 的验证。您可以<label data-l10n-name="find-addons">找找有无替代品</label>或者请开发者申请验证。
 disabled-unsigned-learn-more = 了解我们为保障您的网上安全做了哪些努力。
 disabled-unsigned-devinfo = 想要自己的附加组件获得验证的开发者可继续阅读我们的<label data-l10n-name="learn-more">相关手册</label>。
-plugin-deprecation-description = 少些东西？某些插件已不再被 { -brand-short-name } 支持。 <label data-l10n-name="learn-more">详细了解。</label>
+plugin-deprecation-description = 少了些东西？{ -brand-short-name } 不再支持某些插件了。 <label data-l10n-name="learn-more">详细了解。</label>
 legacy-warning-show-legacy = 显示旧式扩展
 legacy-extensions =
     .value = 旧式扩展
@@ -254,7 +254,7 @@ shortcuts-duplicate = 快捷键重复
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } 被不止一个附加组件设为快捷键，重复的快捷键可能会导致意外行为。
+shortcuts-duplicate-warning-message = 有超过一个附加组件使用 { $shortcut } 作为快捷键，重复的快捷键可能会导致无法预料的行为。
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
