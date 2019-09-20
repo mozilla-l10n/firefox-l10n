@@ -24,5 +24,5 @@ about-private-browsing =
     .title = Hanapin sa Web
 about-private-browsing-not-private = Ikaw ay kasalukuyang wala sa pribadong window.
 content-blocking-title = Content Blocking
-content-blocking-description = Ang ilang mga website ay gumagamit ng mga tracker para masubaybayan ang iyong aktibidad sa Internet. Sa mga private window, awtomatikong hinaharang ng { -brand-short-name } Content Blocking ang maraming mga tracker na maaaring mangolekta ng impormasyon tungkol sa kung papaano ka mag-browse.
+content-blocking-description = Ang ilang mga website ay gumagamit ng mga tracker para masubaybayan ang iyong aktibidad sa Internet. Sa mga private window, kusang hinaharang ng { -brand-short-name } Content Blocking ang maraming mga tracker na maaaring mangolekta ng impormasyon tungkol sa kung papaano ka mag-browse.
 about-private-browsing-info-description = Binubura ng { -brand-short-name } ang iyong kasaysayan sa paghahanap at pag-browse kapag isinara lahat ng mga tab at window sa Private Browsing.  Bagamat hindi ka magiging anonymous sa mga website o sa iyong internet service provider sa paggawa nito, magiging mas madali para sa iyo ang panatilihing pribado ang mga ginagawa mo online sa ibang mga gumagamit ng computer na ito.

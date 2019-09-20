@@ -21,4 +21,4 @@ crashed-email-placeholder = Ibigay ang iyong email address dito
 crashed-email-me = i-Email ako kapag may bagong impormasyon
 crashed-report-sent = Naipadala na ang crash report; salamat sa pagtulong para lalong mapaganda ang { -brand-short-name }!
 crashed-request-auto-submit-title = I-report ang mga background tab
-crashed-auto-submit-checkbox = I-update ang mga kagustuhan upang awtomatikong maisumite ang mga ulat kapag ang { -brand-short-name } ay nag-crash.
+crashed-auto-submit-checkbox = I-update ang mga kagustuhan para kusang maipadala ang mga ulat kapag nag-crash ang { -brand-short-name }.

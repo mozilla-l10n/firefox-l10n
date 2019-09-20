@@ -54,7 +54,7 @@ policy-EnableTrackingProtection = I-enable o i-disable ang Content Blocking at o
 # English or translate them as verbs.
 policy-Extensions = Mag-install, mag-uninstall, o mag-lock ng mga extension. Ang option na Mag-install ay kumukuha ng mga URL o path bilang parameter. Ang option na Mag-uninstall at Mag-lock ay kumukuha ng mga extension ID.
 policy-ExtensionSettings = I-manage ang lahat ng aspeto ng pag-install ng mga extension.
-policy-ExtensionUpdate = I-enable o i-disable ang awtomatikong pag-update ng mga extension.
+policy-ExtensionUpdate = I-enable o i-disable ang kusang pag-update ng mga extension.
 policy-FirefoxHome = I-configure ang Firefox Home.
 policy-FlashPlugin = Payagan o pagbawalan ang paggamit ng Flash plugin.
 policy-HardwareAcceleration = Kung false, isara ang hardware acceleration.
