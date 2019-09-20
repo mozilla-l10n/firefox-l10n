@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Taq cha'oj
        *[other] Taq ajowab'äl
     }
-menu-menuitem-feedback = Ketaq taq Tzijol
-menu-menuitem-faq = Jutaqil taq K'utunïk
+about-logins-menu-menuitem-help = To'ïk
 menu-menuitem-android-app = { -lockwise-brand-short-name } richin Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } richin iPhone chuqa' iPad
 
@@ -57,6 +56,7 @@ login-list-last-changed-option = Ruk'isib'äl Jaloj
 login-list-last-used-option = Ruk'isib'äl Rokisaxik
 login-list-intro-title = Majun tikirib'äl molojri'ïl xilitäj
 login-list-intro-description = Toq nayäk jun ewan tzij pa { -brand-product-name }, wawe' xtiq'alajin pe.
+about-logins-login-list-empty-search-title = Majun tikirib'äl molojri'ïl xilitäj
 login-list-item-title-new-login = K'ak'a' Tikirib'äl Molojri'ïl
 login-list-item-subtitle-new-login = Ke'atz'ib'aj ri taq retamab'al rutikirib'al molojri'ïl
 login-list-item-subtitle-missing-username = (majun rub'i' okisanel)
@@ -67,7 +67,6 @@ login-intro-heading = ¿La ye'akanoj rutikirib'al taq amolojri'ïl e'ayakon kan?
 login-intro-description = We xe'ayäk ri rutikirib'al amolojri'ïl pa { -brand-product-name } pa jun chik wi okisab'äl, wawe' nik'ut pe richin nak'ul wawe' chuqa':
 login-intro-instruction-fxa = Tatz'uku' o tatikirisaj molojri'ïl pa { -fxaccount-brand-name } chupam ri okisab'äl, akuchi' e yakäl ri tikirib'äl amolojri'ïl
 login-intro-instruction-fxa-settings = Tatz'eta' chi xacha' ri k'ojlib'äl richin kitikitib'al molojri'ïl pa ri runuk'ulem { -sync-brand-short-name }.
-login-intro-instruction-faq = Titz'et { -lockwise-brand-short-name } <a data-l10n-name="faq">jutaqil taq k'utunïk</a> richin jub'a' chik ato'ik
 
 ## Login
 
@@ -77,10 +76,9 @@ login-item-delete-button = Tiyuj
 login-item-origin-label = Ajk'amaya'l Ochochib'äl
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Titikirisäx
 login-item-username-label = Rub'i' okisanel
-login-item-username =
-    .placeholder = xwan@example.com
+about-logins-login-item-username =
+    .placeholder = (majun rub'i' okisanel)
 login-item-copy-username-button-text = Tiwachib'ëx
 login-item-copied-username-button-text = ¡Xwachib'ëx!
 login-item-password-label = Ewan tzij
@@ -134,3 +132,6 @@ breach-alert-text = Xechayüx o xe'eleq'äx ri ewan taq tzij pa re ajk'amaya'l r
 breach-alert-link = Tawetamaj mas chi rij re tz'ilanem.
 breach-alert-dismiss =
     .title = Titz'apïx re rutzijol k'ayewal re'
+
+## Error Messages
+

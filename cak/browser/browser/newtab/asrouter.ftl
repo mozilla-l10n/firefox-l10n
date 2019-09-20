@@ -82,6 +82,15 @@ cfr-whatsnew-button =
     .label = K'ak'a' Rutzijol
     .tooltiptext = K'ak'a' Rutzijol
 cfr-whatsnew-panel-header = Achike natzijoj
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Q'aton ojqanel
+       *[other] Eq'aton ojqanela'
+    }
+cfr-whatsnew-lockwise-take-link-text = Tak'ulu' ri chokoy
 
 ## Bookmark Sync
 
@@ -111,3 +120,6 @@ cfr-doorhanger-firefox-send-header = Ütz tikomonïx re PDF re'
 cfr-doorhanger-firefox-send-body = Ke'akolo' ri nïm taq awuj chuwäch itzel kitz'etik winaqi' rik'in chijun ewan rusik'ixik chuqa' rik'in jun ximonel, ri nisach el toq nik'is.
 cfr-doorhanger-firefox-send-ok-button = Titojtob'ëx { -send-brand-name }
     .accesskey = t
+
+## Social Tracking Protection
+

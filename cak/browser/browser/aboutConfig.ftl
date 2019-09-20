@@ -10,6 +10,13 @@ about-config-warning-button = Yinok chuwäch ri k'ayewal
 about-config2-title = Q'axinäq taq Nuk'ulem
 about-config-search-input =
     .placeholder = Tikanöx
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-button = Xinwetamaj ri K'ayewal chuqa' Tinsamajij el
+
+
+
 about-config-show-all = Tik'ut Ronojel
 about-config-pref-add = Titz'aqatisäx
 about-config-pref-toggle = Tik'exlöx
