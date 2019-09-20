@@ -121,7 +121,7 @@ password-warning =
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Gå till sekretessinställningar
 # This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = go-to-saved-logins = Gå till Sparade inloggningar
+go-to-saved-logins = Gå till Sparade inloggningar
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
