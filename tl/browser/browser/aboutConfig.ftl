@@ -18,6 +18,7 @@ about-config-intro-warning-button = Tanggapin ang Panganib at Magpatuloy
 
 
 
+about-config-page-title = Advanced Preferences
 about-config-search-input1 =
     .placeholder = Maghanap ng config property
 about-config-show-all = Ipakita Lahat

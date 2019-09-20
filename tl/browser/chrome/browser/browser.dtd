@@ -612,7 +612,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "Tingnan ang Impormasyon ng Larawan">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
-<!ENTITY viewImageDescCmd.label       "Ipakita ang mga Paglalarawan">
+<!ENTITY viewImageDescCmd.label       "Tingnan ang Paglalarawan">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "Tingnan ang Video">
 <!ENTITY viewVideoCmd.accesskey       "i">
@@ -983,10 +983,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Mga tracker">
 
 <!ENTITY contentBlocking.manageSettings.label "I-manage ang Content Blocking">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Mga Tracking Content">
-
-<!ENTITY contentBlocking.manageSettings2.label "I-manage ang mga Protection Setting">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Mga tracker">
@@ -995,6 +991,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Mga cookie">
 <!ENTITY contentBlocking.cookiesView.label "Mga Cookie at Site Data">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Mga Tracking Content">
+
+<!ENTITY contentBlocking.manageSettings2.label "I-manage ang mga Protection Setting">
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Mga Social Media Tracker">
