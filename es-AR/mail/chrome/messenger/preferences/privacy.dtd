@@ -37,5 +37,6 @@
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Conocer más sobre no rastrear">
 
+<!ENTITY doNotTrackCheck.label "Enviar a los sitios una señal de “No rastrear” indicando que no quiere ser rastreado">
 <!ENTITY doNotTrackCheck.accesskey "n">
 <!ENTITY doNotTrackLearnMore.label "Conocer más">
