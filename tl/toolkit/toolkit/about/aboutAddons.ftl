@@ -353,7 +353,7 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Natanggal na ang <span data-l10n-name="addon-name">{ $addon }</span>.
 pending-uninstall-undo-button = I-undo
-addon-detail-updates-label = Payagan ang mga awtomatikong update
+addon-detail-updates-label = Payagang makapag-update nang kusa
 addon-detail-updates-radio-default = Default
 addon-detail-updates-radio-on = Nakabukas
 addon-detail-updates-radio-off = Nakasara
