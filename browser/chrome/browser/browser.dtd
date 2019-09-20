@@ -151,7 +151,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.button.label "Öppna &syncBrand.shortName.label; inställningar…">
 
 <!ENTITY pictureInPictureHideToggle.label "Dölj Picture-in-picture-väljaren">
-<!ENTITY pictureInPictureHideToggle.accesskey "H">
+<!ENTITY pictureInPictureHideToggle.accesskey "D">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -983,10 +983,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Trackers">
 
 <!ENTITY contentBlocking.manageSettings.label "Hantera innehållsblockering">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Spårning av innehåll">
-
-<!ENTITY contentBlocking.manageSettings2.label "Hantera skyddsinställningar">
 <!ENTITY contentBlocking.manageSettings.accesskey "H">
 
 <!ENTITY contentBlocking.trackersView.label "Trackers">
@@ -995,6 +991,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Kakor">
 <!ENTITY contentBlocking.cookiesView.label "Kakor och webbplatsdata">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Spårning av innehåll">
+
+<!ENTITY contentBlocking.manageSettings2.label "Hantera skyddsinställningar">
 <!ENTITY contentBlocking.manageSettings2.accesskey "H">
 
 <!ENTITY contentBlocking.socialblock.label "Sociala trackers">
