@@ -13,6 +13,7 @@ about-config-search-input =
 
 ## These strings appear on the warning you see when first visiting about:config.
 
+about-config-intro-warning-title = Mag-ingat sa Pagpatuloy
 about-config-intro-warning-checkbox = Balaan ako kapag tinangka kong i-access ang mga kagustuhang ito
 about-config-intro-warning-button = Tanggapin ang Panganib at Magpatuloy
 

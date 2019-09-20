@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Magpadala ng mga website ng signal na ”Huwag Subaybayan” na hindi mo gustong masubaybayan
+do-not-track-description = Padalhan ng ”Do Not Track” signal ang mga website para sabihing hindi mo nais na ika'y subaybayan
 do-not-track-learn-more = Matuto ng higit pa
 do-not-track-option-default-content-blocking-known =
     .label = Payagan lang kung ang { -brand-short-name } ay naka-set na mag-block ng mga kilalang tracker.
