@@ -154,3 +154,4 @@ cfr-doorhanger-socialtracking-description = Ваша приватність ма
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } заблокував зчитування відбитку браузера на цій сторінці
 cfr-doorhanger-fingerprinters-description = Ваша приватність має значення. { -brand-short-name } тепер блокує зчитування відбитку браузера, що збирає частинки інформації, яка використовується для ідентифікації вашого пристрою і стеження за вами.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } заблокував криптомайнер на цій сторінці
+cfr-doorhanger-cryptominers-description = Ваша приватність має значення. { -brand-short-name } тепер блокує криптомайнери, які використовують ресурси вашої системи для видобутку цифрових грошей.

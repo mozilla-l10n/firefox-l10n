@@ -254,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Керувати використанням плагінів">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Налаштувати отримання сповіщень від сайту">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Зберігати дані в постійному сховищі">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Браузер знаходиться під віддаленим керуванням">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Відкрити панель веб-авторизації">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Відкрити панель дозволів активності перегляду">
@@ -439,8 +440,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Хочете побачити тут свої вкладки з інших пристроїв?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Відкрити налаштування синхронізації">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Увійдіть, щоб переглядати список вкладок з інших ваших пристроїв.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Переглядайте список вкладок з ваших інших пристроїв.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ваш обліковий запис потребує підтвердження.">
 <!ENTITY appMenuRemoteTabs.signin.label "Увійти в Синхронізацію">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Увійти в Синхронізацію…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Увімкнути Синхронізацію…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Керувати пристроями…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Переглянути бічну панель синхронізованих вкладок">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Приховати бічну панель Синхронізовані вкладки">
@@ -979,10 +983,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Стеження">
 
 <!ENTITY contentBlocking.manageSettings.label "Керувати блокуванням вмісту">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Вміст стеження">
-
-<!ENTITY contentBlocking.manageSettings2.label "Керувати налаштуваннями захисту">
 <!ENTITY contentBlocking.manageSettings.accesskey "К">
 
 <!ENTITY contentBlocking.trackersView.label "Стеження">
@@ -990,6 +990,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "Куки">
 <!ENTITY contentBlocking.cookiesView.label "Куки і дані сайтів">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Вміст стеження">
+
+<!ENTITY contentBlocking.manageSettings2.label "Керувати налаштуваннями захисту">
+<!ENTITY contentBlocking.manageSettings2.accesskey "К">
 
 <!ENTITY contentBlocking.socialblock.label "Стеження соціальних мереж">
 
