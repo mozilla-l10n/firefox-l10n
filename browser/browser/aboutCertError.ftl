@@ -44,6 +44,9 @@ cert-error-not-yet-valid-now = ওয়েবসাইটগুলো প্রম
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = ভুল কোড: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = ওয়েবসাইটগুলি সার্টিফিকেটের মাধ্যমে তাদের পরিচয় প্রমাণ করে, যা সার্টিফিকেট অথোরিটি দ্বারা জারি করা হয়। বেশিরভাগ ব্রাউজারগুলি GeoTrust, RapidSSL, Symantec, Thawte, এবং VeriSign দ্বারা জারি করা সার্টিফিকেট আর বিশ্বাস করে না। { $hostname } এই অথোরিটিগুলির কোন একটির সার্টিফিকেট ব্যবহার করে এবং তাই ওয়েবসাইটটির পরিচয় প্রমাণ করা যায় না।
 cert-error-symantec-distrust-admin = আপনি এই সমস্যা সম্পর্কে ওয়েবসাইট প্রশাসককে অবহিত করতে পারেন।
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
