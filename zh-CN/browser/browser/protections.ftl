@@ -19,22 +19,22 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = 保护等级设为<b>标准</b>
-protection-header-details-strict = 保护等级设为<b>严格</b>
-protection-header-details-custom = 保护等级设为<b>自定义</b>
+protection-header-details-standard = 保护等级为<b>标准</b>
+protection-header-details-strict = 保护等级为<b>严格</b>
+protection-header-details-custom = 保护等级为<b>自定义</b>
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-report-header-details-standard = 保护等级设为<b>标准</b>
+protection-report-header-details-standard = 保护等级为<b>标准</b>
     .title = 前往隐私设置
-protection-report-header-details-strict = 保护等级设为<b>严格</b>
+protection-report-header-details-strict = 保护等级为<b>严格</b>
     .title = 前往隐私设置
-protection-report-header-details-custom = 保护等级设为<b>自定义</b>
+protection-report-header-details-custom = 保护等级为<b>自定义</b>
     .title = 前往隐私设置
 protection-report-page-title = 隐私保护
 protection-report-content-title = 隐私保护
-etp-card-title = 增强型跟踪保护
-etp-card-content = 跟踪器会跟踪您的在线活动，收集您的浏览习惯与兴趣爱好。{ -brand-short-name } 可拦截众多跟踪器和其他恶意脚本。
+etp-card-title = 强化隐私保护
+etp-card-content = 网络上跟踪器无所不在。它们跟踪您的上网行踪，收集您的上网习惯与兴趣爱好。{ -brand-short-name } 能拦截诸多这类跟踪器，以及其他有害的程序。
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = 今日
