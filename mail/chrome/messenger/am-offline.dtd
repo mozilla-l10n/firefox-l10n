@@ -13,20 +13,20 @@
 <!ENTITY autosyncNotDownload.label "Να μην γίνεται λήψη μηνυμάτων, μεγαλύτερων από">
 <!ENTITY autosyncNotDownload.accesskey "μ">
 <!ENTITY kb.label "KB">
-<!ENTITY daysOld.label "ημέρες παλιά">
-<!ENTITY message.label "μηνύματα">
+<!ENTITY daysOld.label "ημερών">
+<!ENTITY message.label "μηνυμάτων">
 <!ENTITY nntpNotDownloadRead.label "Αναγνωσμένα μηνύματα">
 <!ENTITY nntpNotDownloadRead.accesskey "γ">
 <!ENTITY nntpDownloadMsg.label "Μηνύματα περισσότερο από">
 <!ENTITY nntpDownloadMsg.accesskey "σ">
 <!ENTITY retentionCleanup.label "Για να ανακτήσετε χώρο στο δίσκο, μπορείτε να διαγράψετε τα παλιά μηνύματα.">
-<!ENTITY retentionCleanupImap.label "Για εξοικονόμηση αποθηκευτικού χώρου, μπορείτε να διαγράψετε μόνιμα τα παλιά σας μηνύματα στους τοπικούς σας φακέλους και στον απομακρυσμένο διακομιστή.">
+<!ENTITY retentionCleanupImap.label "Για ανάκτηση χώρου, μπορείτε να διαγράψετε οριστικά τα παλιά σας μηνύματα (τοπικά αντίγραφα και πρωτότυπα απομακρυσμένου διακομιστή).">
 <!ENTITY retentionCleanupPop.label "Για εξοικονόμηση αποθηκευτικού χώρου, μπορείτε να διαγράψετε μόνιμα τα παλιά σας μηνύματα μαζί με τα αρχικά μηνύματα στον απομακρυσμένο διακομιστή.">
-<!ENTITY retentionKeepMsg.label "Διαγραφή μηνυμάτων περισσότερο από">
+<!ENTITY retentionKeepMsg.label "Διαγραφή μηνυμάτων, παλαιότερων από">
 <!ENTITY retentionKeepMsg.accesskey "μ">
-<!ENTITY retentionKeepAll.label "Να μην διαγραφούν μηνύματα">
+<!ENTITY retentionKeepAll.label "Να μην γίνει διαγραφή μηνυμάτων">
 <!ENTITY retentionKeepAll.accesskey "η">
-<!ENTITY retentionKeepRecent.label "Διαγραφή όλων εκτός από τα πιο πρόσφατα">
+<!ENTITY retentionKeepRecent.label "Διαγραφή όλων, εκτός των τελευταίων">
 <!ENTITY retentionKeepRecent.accesskey "κ">
 <!ENTITY retentionApplyToFlagged.label "Διατήρηση μηνυμάτων με αστέρι">
 <!ENTITY retentionApplyToFlagged.accesskey "σ">
@@ -47,11 +47,11 @@
 -->
 <!ENTITY allAutosync.label               "Τοπικός συγχρονισμός όλων των μηνυμάτων ανεξαρτήτως ημερομηνίας">
 <!ENTITY allAutosync.accesskey           "χ">
-<!ENTITY ageAutosyncBefore.label         "Συγχρονισμός των πιο προσφάτων">
+<!ENTITY ageAutosyncBefore.label         "Συγχρονισμός των τελευταίων">
 <!ENTITY ageAutosync.accesskey           "γ">
 <!ENTITY ageAutosyncMiddle.label         "">
-<!ENTITY dayAgeInterval.label            "Ημέρες">
-<!ENTITY weekAgeInterval.label           "Εβδομάδες">
-<!ENTITY monthAgeInterval.label          "Μήνες">
-<!ENTITY yearAgeInterval.label           "Έτη">
+<!ENTITY dayAgeInterval.label            "ημερών">
+<!ENTITY weekAgeInterval.label           "εβδομάδων">
+<!ENTITY monthAgeInterval.label          "μηνών">
+<!ENTITY yearAgeInterval.label           "ετών">
 <!ENTITY ageAutosyncAfter.label          "">
