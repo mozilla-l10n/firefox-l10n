@@ -142,3 +142,7 @@ cfr-doorhanger-socialtracking-close-button = Sulge
     .accesskey = S
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } takistas sotsiaalvõrgustikul sinu tegevuse jälitamise sellel lehel
 cfr-doorhanger-socialtracking-description = Sinu privaatsus on oluline. { -brand-short-name } blokib nüüd tuntud sotsiaalmeedia jälitajaid, piirates neil sinu tegevuse kohta kogutavate andmete hulka.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blokkis sellel lehel seadmetuvastaja
+cfr-doorhanger-fingerprinters-description = Sinu privaatsus on oluline. { -brand-short-name } blokib nüüd seadmetuvastajaid, mis koguvad sinu jälitamise eesmärgil unikaalselt tuvastatavat infot sinu seadme kohta.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } blokkis sellel lehel krüptorahakaevuri
+cfr-doorhanger-cryptominers-description = Sinu privaatsus on oluline. { -brand-short-name } blokib nüüd krüptorahakaevureid, mis kasutavad sinu arvuti ressursse krüptoraha kaevandamiseks.
