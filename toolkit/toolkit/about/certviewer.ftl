@@ -15,6 +15,8 @@ certificate-viewer-algorithm = Algoritmo
 certificate-viewer-certificate-authority = Autoridad de certificación
 certificate-viewer-cipher-suite = Suite de cifrado
 certificate-viewer-common-name = Nombre común
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-country = País
 certificate-viewer-country = País
 certificate-viewer-curve = Curva
 certificate-viewer-distribution-point = Punto de distribución
@@ -53,3 +55,14 @@ certificate-viewer-timestamp = Marca de tiempo
 certificate-viewer-value = Valor
 certificate-viewer-version = Versión
 certificate-viewer-business-category = Categoría de negocio
+# This message is used as a row header in the Miscellaneous section. 
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Descargar
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] Sí
+       *[false] No
+    }
