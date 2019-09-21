@@ -115,6 +115,10 @@ manifest-loaded-error = Der opstod en fejl under indlæsning af manifestet:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Der blev ikke fundet noget manifest at inspicere.
 
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Manifestet er indlejret i en data-URL.
+
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Manifest
   .alt = Manifest-ikon
