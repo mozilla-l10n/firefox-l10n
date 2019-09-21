@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Έλεγχος ορθογραφίας">
+<!ENTITY windowTitle.label "Ορθογραφικός έλεγχος">
 
-<!ENTITY misspelledWord.label "Ανορθόγραφη λέξη">
+<!ENTITY misspelledWord.label "Λάθος λέξη:">
 <!ENTITY wordEditField.label "Αντικατάσταση με:">
 <!ENTITY wordEditField.accessKey "κ">
 <!ENTITY checkwordButton.label "Έλεγχος λέξης">
@@ -16,22 +16,22 @@
 <!ENTITY ignoreButton.accessKey "β">
 <!ENTITY ignoreAllButton.label "Παράβλεψη όλων">
 <!ENTITY ignoreAllButton.accessKey "λ">
-<!ENTITY replaceButton.label "Αντικατάσταση ">
-<!ENTITY replaceButton.accessKey "ν">
+<!ENTITY replaceButton.label "Αντικατάσταση">
+<!ENTITY replaceButton.accessKey "Α">
 <!ENTITY replaceAllButton.label "Αντικατάσταση όλων">
 <!ENTITY replaceAllButton.accessKey "ω">
 <!ENTITY stopButton.label "Διακοπή">
 <!ENTITY stopButton.accessKey "κ">
-<!ENTITY userDictionary.label "Λεξικό χρήστη:">
-<!ENTITY moreDictionaries.label "Λήψη περισσότερων">
+<!ENTITY userDictionary.label "Προσωπικό λεξικό:">
+<!ENTITY moreDictionaries.label "Λήψη περισσότερων λεξικών…">
 <!ENTITY addToUserDictionaryButton.label "Προσθήκη λέξης">
 <!ENTITY addToUserDictionaryButton.accessKey "θ">
 <!ENTITY editUserDictionaryButton.label "Επεξεργασία…">
 <!ENTITY editUserDictionaryButton.accessKey "ξ">
-<!ENTITY recheckButton2.label "Επανέλεγχος του κειμένου">
-<!ENTITY recheckButton2.accessKey "ε">
+<!ENTITY recheckButton2.label "Νέος έλεγχος κειμένου">
+<!ENTITY recheckButton2.accessKey "Ν">
 <!ENTITY closeButton.label "Κλείσιμο">
-<!ENTITY closeButton.accessKey "Κ">
+<!ENTITY closeButton.accessKey "μ">
 <!ENTITY sendButton.label "Αποστολή">
 <!ENTITY sendButton.accessKey "σ">
 <!ENTITY languagePopup.label "Γλώσσα:">

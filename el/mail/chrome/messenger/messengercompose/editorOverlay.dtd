@@ -20,7 +20,7 @@
 <!ENTITY findReplaceCmd.label "Εύρεση και αντικατάσταση…">
 <!ENTITY enableInlineSpellChecker.label "Ορθογραφικός έλεγχος κατά την πληκτρολόγηση">
 <!ENTITY enableInlineSpellChecker.accesskey "θ">
-<!ENTITY checkSpellingCmd2.label "Ορθογραφικός έλεγχος">
+<!ENTITY checkSpellingCmd2.label "Ορθογραφικός έλεγχος…">
 <!ENTITY checkSpellingCmd2.accesskey "χ">
 <!ENTITY checkSpellingCmd2.key "p">
 
@@ -44,7 +44,7 @@
 <!ENTITY insertMathCmd.accesskey "Μ">
 <!ENTITY insertCharsCmd.label "Χαρακτήρες και σύμβολα…">
 <!ENTITY insertCharsCmd.accesskey "Χ">
-<!ENTITY insertBreakAllCmd.label "Αλλαγή κάτω από εικόνα(ες)">
+<!ENTITY insertBreakAllCmd.label "Αλλαγή γραμμής κάτω από εικόνα(ες)">
 <!ENTITY insertBreakAllCmd.accesskey "κ">
 
 <!-- Used just in context popup. -->
@@ -306,7 +306,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Εισαγωγή νέας άγκυρας ή επεξεργασία ιδιοτήτων επιλεγμένης άγκυρας">
 <!ENTITY TextColorButton.tooltip "Επιλογή χρώματος κειμένου">
 <!ENTITY BackgroundColorButton.tooltip "Επιλογή χρώματος παρασκηνίου">
-<!ENTITY throbber.tooltip "Μετάβαση στην αρχική σελίδα της &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Μεταβείτε στην αρχική σελίδα του &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Επιλογή χρώματος επισήμανσης κειμένου">
 
