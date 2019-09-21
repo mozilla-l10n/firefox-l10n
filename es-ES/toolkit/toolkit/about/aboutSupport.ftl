@@ -133,6 +133,8 @@ media-device-channels = Canales
 media-device-rate = Tasa
 media-device-latency = Latencia
 media-capabilities-title = Capacidades del contenido multimedia
+# List all the entries of the database.
+media-capabilities-enumerate = Enumerar base de datos
 
 
 
