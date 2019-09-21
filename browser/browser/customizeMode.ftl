@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Võta tagasi
 customize-mode-lwthemes-my-themes =
     .value = Minu teemad
+customize-mode-touchbar-cmd =
+    .label = Kohanda puuteriba…
