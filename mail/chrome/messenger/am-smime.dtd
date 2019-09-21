@@ -11,7 +11,7 @@
 <!ENTITY neverEncrypt.accesskey "Π">
 <!ENTITY alwaysEncryptMessage.label "Απαιτείται (δεν γίνεται αποστολή αν δεν έχουν όλοι οι παραλήπτες πιστοποιητικό)">
 <!ENTITY alwaysEncryptMessage.accesskey "α">
-<!ENTITY encryptionCert.message "Χρήση του ακόλουθου πιστοποιητικού για αποκρυπτογράφηση-κρυπτογράφηση εισερχομένων:">
+<!ENTITY encryptionCert.message "Χρήση του εξής πιστοποιητικού για κρυπτογράφηση &amp; αποκρυπτογράφηση ληφθέντων μηνυμάτων:">
 <!ENTITY digitalSign.certificate.button "Επιλογή…">
 <!ENTITY digitalSign.certificate.accesskey "Ε">
 <!ENTITY digitalSign.certificate_clear.button "Απαλοιφή">
@@ -21,17 +21,17 @@
 <!ENTITY encryption.certificate_clear.button "Απαλοιφή">
 <!ENTITY encryption.certificate_clear.accesskey "φ">
 <!ENTITY signingGroupTitle.label "Ψηφιακή υπογραφή">
-<!ENTITY signMessage.label "Ψηφιακή υπογραφή μηνυμάτων">
+<!ENTITY signMessage.label "Ψηφιακή υπογραφή μηνυμάτων (από προεπιλογή)">
 <!ENTITY signMessage.accesskey "Ψ">
-<!ENTITY signingCert.message "Χρήση του ακόλουθου προσωπικού πιστοποιητικού για ψηφιακή υπογραφή μηνυμάτων:">
+<!ENTITY signingCert.message "Χρήση του εξής πιστοποιητικού για ψηφιακή υπογραφή απεσταλμένων μηνυμάτων:">
 
 <!ENTITY certificates.label "Πιστοποιητικά">
-<!ENTITY manageCerts2.label "Διαχείριση των πιστοποιητικών">
-<!ENTITY manageCerts2.accesskey "δ">
+<!ENTITY manageCerts2.label "Διαχείριση πιστοποιητικών">
+<!ENTITY manageCerts2.accesskey "Δ">
 <!ENTITY manageDevices.label "Συσκευές ασφαλείας">
 <!ENTITY manageDevices.accesskey "υ">
 
 <!-- Strings for the cert picker dialog -->
-<!ENTITY certPicker.title "Επιλογή Πιστοποιητικού">
+<!ENTITY certPicker.title "Επιλογή πιστοποιητικού">
 <!ENTITY certPicker.info  "Πιστοποιητικό:">
-<!ENTITY certPicker.detailsLabel "Λεπτομέρειες για το επιλεγμένο πιστοποιητικό:">
+<!ENTITY certPicker.detailsLabel "Λεπτομέρειες επιλεγμένου πιστοποιητικού:">

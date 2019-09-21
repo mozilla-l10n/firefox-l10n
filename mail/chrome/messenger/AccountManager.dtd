@@ -8,7 +8,7 @@
 
 <!ENTITY accountActionsButton.label "Ενέργειες λογαριασμού">
 <!ENTITY accountActionsButton.accesskey "ν">
-<!ENTITY addMailAccountButton.label "Προσθήκη λογαριασμού e-mail…">
+<!ENTITY addMailAccountButton.label "Προσθήκη λογαριασμού email…">
 <!ENTITY addMailAccountButton.accesskey "α">
 <!ENTITY addIMAccountButton.label "Προσθήκη λογαριασμού συνομιλίας…">
 <!ENTITY addIMAccountButton.accesskey "σ">
