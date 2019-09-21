@@ -601,6 +601,10 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Sumer daɣen rnu awalen uffiren iǧehden
     .accesskey = S
+forms-breach-alerts-learn-more-link = Issin ugar
+forms-fill-logins-and-passwords =
+    .label = Ččar inekcam d wawalen uffiren s wudem awurman
+    .accesskey = i
 forms-saved-logins =
     .label = Inekcumen yettwakelsen…
     .accesskey = e
@@ -744,7 +748,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Udmawan
     .accesskey = d
 
-##
+
 
 content-blocking-all-cookies = Inagan n tuqqna meṛṛa
 content-blocking-unvisited-cookies = Inagan n tuqqna n yismal ur yettwarzan ara
@@ -763,6 +767,9 @@ content-blocking-reload-tabs-button =
 content-blocking-trackers-label =
     .label = Ineḍfaren
     .accesskey = I
+content-blocking-tracking-content-label =
+    .label = Agbur n uḍfaṛ
+    .accesskey = A
 content-blocking-tracking-protection-option-all-windows =
     .label = Deg akk isufyla
     .accesskey = a

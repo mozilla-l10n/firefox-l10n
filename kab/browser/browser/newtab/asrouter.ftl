@@ -80,6 +80,14 @@ cfr-whatsnew-button =
     .tooltiptext = Amaynut
 cfr-whatsnew-panel-header = Amaynut
 cfr-whatsnew-tracking-protect-link-text = Wali aneqqis-ik
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Ineḍfaṛar ittwaḥbes
+       *[other] Ineḍfaṛen ttwaḥebsen
+    }
 cfr-whatsnew-tracking-blocked-subtitle = Si { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Wali aneqqis
 cfr-whatsnew-lockwise-take-link-text = Awi asnas
@@ -97,3 +105,8 @@ cfr-whatsnew-lockwise-take-link-text = Awi asnas
 
 cfr-doorhanger-firefox-send-ok-button = Reḍ { -send-brand-name }
     .accesskey = T
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-close-button = Mdel
+    .accesskey = M
