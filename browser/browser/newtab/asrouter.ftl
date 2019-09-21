@@ -102,9 +102,13 @@ cfr-whatsnew-lockwise-backup-title = Varunda oma paroolid
 cfr-whatsnew-lockwise-backup-body = Nüüd saad luua turvalisi paroole, mida saad kasutada kõikjal, kus sisse logid.
 cfr-whatsnew-lockwise-backup-link-text = Lülita varukoopiad sisse
 cfr-whatsnew-lockwise-take-title = Võta paroolid endaga kaasa
+cfr-whatsnew-lockwise-take-body = Mobiilne äpp { -lockwise-brand-short-name } võimaldab turvalist ligipääsu sinu varundatud paroolidele kõikjalt.
+cfr-whatsnew-lockwise-take-link-text = Hangi äpp
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Kasuta seda järjehoidjat ka oma telefonis
+cfr-doorhanger-sync-bookmarks-body = Võta oma järjehoidjad, paroolid, ajalugu ja muu kaasa kõikjale, kus oled { -brand-product-name }i sisse logitud.
 
 ## Login Sync
 
