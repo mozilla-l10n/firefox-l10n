@@ -65,11 +65,11 @@
 <!ENTITY borderEditField.accessKey "Μ">
 
 <!-- These controls are in the Link Box -->
-<!ENTITY showImageLinkBorder.label "Προβολή πλαισίου γύρω από εικόνα με δεσμό">
+<!ENTITY showImageLinkBorder.label "Εμφάνιση πλαισίου γύρω από εικόνα με σύνδεσμο">
 <!ENTITY showImageLinkBorder.accessKey "β">
 <!ENTITY LinkAdvancedEditButton.label "Προηγμένη επεξεργασία συνδέσμου…">
 <!ENTITY LinkAdvancedEditButton.accessKey "δ">
-<!ENTITY LinkAdvancedEditButton.tooltip "Προσθήκη ή τροποποίηση γνωρισμάτων στυλ, HTML και JavaScript">
+<!ENTITY LinkAdvancedEditButton.tooltip "Προσθήκη ή τροποποίηση ιδιοτήτων HTML, στυλ και JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Φόρμα">

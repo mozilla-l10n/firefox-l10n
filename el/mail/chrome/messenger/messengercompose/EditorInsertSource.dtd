@@ -10,6 +10,6 @@
 <!ENTITY exampleOpenTag.label "&lt;i&gt;">
 <!-- LOCALIZATION NOTE (exampleCloseTag.label): DONT_TRANSLATE: they are text for HTML tagnames: "<i>" and "</i>" -->
 <!ENTITY exampleCloseTag.label "&lt;/i&gt;">
-<!ENTITY exampleText.label "Γεια σου Κόσμε!">
+<!ENTITY exampleText.label "Γεια σου, κόσμε!">
 <!ENTITY insertButton.label "Εισαγωγή">
 <!ENTITY insertButton.accesskey "σ">
