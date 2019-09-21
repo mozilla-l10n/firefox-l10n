@@ -83,6 +83,11 @@ cfr-whatsnew-button =
     .tooltiptext = Mis on uut?
 cfr-whatsnew-panel-header = Mis on uut?
 cfr-whatsnew-release-notes-link-text = Loe väljalasketeadet
+cfr-whatsnew-fx70-title = { -brand-short-name } võitleb nüüd sinu privaatsuse eest veel rohkem
+cfr-whatsnew-fx70-body = Viimane uuendus täiustab jälitamisvastast kaitset veelgi ja teeb iga saidi jaoks turvalise parooli loomise lihtsamaks, kui see kunagi on olnud.
+cfr-whatsnew-tracking-protect-title = Kaitse ennast jälitajate eest
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } blokib paljusid tuntud sotsiaalmeedia ja saitideüleseid jälitajaid, mis jälgivad sinu tegevust võrgus olles.
+cfr-whatsnew-tracking-protect-link-text = Vaata raportit
 
 ## Bookmark Sync
 
