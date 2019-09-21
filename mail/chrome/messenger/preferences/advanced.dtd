@@ -37,7 +37,7 @@
 <!ENTITY configEdit.label              "Επεξεργασία ρυθμίσεων…">
 <!ENTITY configEdit.accesskey          "θ">
 <!ENTITY returnReceiptsInfo.label      "Καθορίστε τον τρόπο διαχείρισης των βεβαιώσεων ανάγνωσης από το &brandShortName;">
-<!ENTITY showReturnReceipts.label      "Βεβαιώσεις ανάγνωσης…">
+<!ENTITY showReturnReceipts.label      "Αποδεικτικά ανάγνωσης…">
 <!ENTITY showReturnReceipts.accesskey  "Β">
 
 <!-- Data Choices -->
