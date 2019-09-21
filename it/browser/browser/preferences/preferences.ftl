@@ -267,6 +267,11 @@ applications-use-app-default =
     .label = Usa { $app-name } (predefinito)
 applications-use-other =
     .label = Usa altro…
+applications-select-helper = Scelta applicazione
+applications-manage-app =
+    .label = Dettagli applicazioni…
+applications-always-ask =
+    .label = Chiedi sempre
 applications-type-pdf = PDF (Portable Document Format)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
