@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Панель меню">
 <!ENTITY menubarCmd.accesskey "е">
 <!ENTITY navbarCmd.label "Панель навигации">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Навигация">
 <!ENTITY personalbarCmd.label "Панель закладок">
 <!ENTITY personalbarCmd.accesskey "з">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Закладки">
 <!ENTITY bookmarksToolbarItem.label "Элементы панели закладок">
 
 <!ENTITY pageSourceCmd.label "Исходный код страницы">
 <!ENTITY pageSourceCmd.accesskey "х">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Информация о странице">
 <!ENTITY pageInfoCmd.accesskey "ф">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Отладчик макета">
 <!ENTITY ldbCmd.accesskey "л">
@@ -116,6 +126,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Снова подсоединиться к Синхронизации">
 <!ENTITY fxaUnverified.label "Подтвердите свой аккаунт">
 
+
+ <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Свернуть">
 <!ENTITY fullScreenRestore.tooltip "Восстановить">
@@ -145,6 +157,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Вы вошли как">
 <!ENTITY fxa.menu.manageAccount.label "Управление аккаунтом…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "Настройки Синхронизации…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Подключить другое устройство…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
@@ -195,6 +211,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Закладки">
 <!ENTITY bookmarksMenu.accesskey "З">
+
 <!ENTITY bookmarkThisPageCmd.label "Добавить страницу">
 <!ENTITY editThisBookmarkCmd.label "Редактировать эту закладку">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -236,6 +253,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Управление запуском плагина">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Изменение того, можете ли вы получать уведомления с сайта">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Хранить данные в постоянном хранилище">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Браузер находится под удалённым управлением">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Открыть панель веб-авторизации">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Открыть панель разрешений при веб-сёрфинге">
@@ -510,6 +528,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Поисковый запрос">
+
 <!ENTITY contentSearchSubmit.tooltip  "Произвести поиск">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -814,8 +833,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Соединение">
 <!ENTITY identity.connectionSecure "Защищённое соединение">
-
-<!ENTITY identity.connectionSecure2 "Защищённое соединение">
 <!ENTITY identity.connectionNotSecure "Незащищённое соединение">
 
 <!ENTITY identity.connectionSecure3 "Защищённое соединение">
@@ -828,8 +845,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "Эта страница загружена из расширения.">
 <!ENTITY identity.insecureLoginForms2 "Учётные данные, вводимые на этой странице, могут быть скомпрометированы.">
 <!ENTITY identity.customRoot "Соединение удостоверено сертификатом, издатель которого не распознан Mozilla.">
-
-<!ENTITY identity.evOwnerLabel "Сайтом владеет:">
 
 <!ENTITY identity.evOwnerLabel2 "Сертификат выдан:">
 
@@ -867,9 +882,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Разрешения">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Установленные разрешения">
-
 <!ENTITY identity.permissions3 "Разрешения">
 <!ENTITY identity.permissionsEmpty "Вы не давали этому сайту каких-либо специальных разрешений.">
 <!ENTITY identity.permissionsReloadHint "Чтобы изменения возымели действие, вам, возможно, потребуется перезагрузить страницу.">
@@ -883,7 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Больше информации об улучшенной защите от отслеживания">
 <!ENTITY protections.settings.label "Настройки защиты">
-<!ENTITY protections.report.label "Посмотреть полный отчёт">
 <!ENTITY protections.showreport.label "Посмотреть отчёт">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -901,7 +912,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Платежами">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Комментариями">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Видео">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Сайт всё ещё не работает после отключения защиты?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Отправьте сообщение">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -929,7 +939,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Такие куки ходят за вами с сайта на сайт для сбора информации о том, что вы делаете в Интернете. Они устанавливаются такими сторонними организациями, как рекламодатели и аналитические компании.">
 <!ENTITY protections.cryptominers.description "Криптомайнеры используют вычислительные мощности вашей системы для добычи цифровых валют. Такие скрипты разряжают вашу батарею, замедляют работу компьютера и могут увеличить ваш счёт за электроэнергию.">
 <!ENTITY protections.fingerprinters.description "Сборщики цифровых отпечатков используют параметры вашего браузера и компьютера, чтобы создать ваш профиль. Используя этот цифровой отпечаток, они могут отслеживать вас на различных веб-сайтах.">
-<!ENTITY protections.trackingContent.description "Веб-сайты могут загружать внешнюю рекламу, видео и другой контент, содержащий отслеживающий код. Блокировка отслеживающего содержимого может помочь сайтам загружаться быстрее, но некоторые кнопки, формы и поля для входа могут не работать.">
 <!ENTITY protections.socialMediaTrackers.description "Социальные сети размещают трекеры на других веб-сайтах, чтобы следить за тем, что вы делаете, видите и смотрите в Интернете. Это позволяет их владельцам узнавать о вас больше, чем вы указываете в своих профилях в социальных сетях.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -969,10 +978,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Трекеры">
 
 <!ENTITY contentBlocking.manageSettings.label "Управление блокировкой содержимого">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Отслеживающее содержимое">
-
-<!ENTITY contentBlocking.manageSettings2.label "Управление настройками защиты">
 <!ENTITY contentBlocking.manageSettings.accesskey "п">
 
 <!ENTITY contentBlocking.trackersView.label "Трекеры">
@@ -980,6 +985,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "Куки">
 <!ENTITY contentBlocking.cookiesView.label "Куки и данные сайтов">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Отслеживающее содержимое">
+
+<!ENTITY contentBlocking.manageSettings2.label "Управление настройками защиты">
 
 <!ENTITY contentBlocking.socialblock.label "Трекеры социальных сетей">
 
@@ -995,6 +1004,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Сообщить о проблеме">
 <!ENTITY contentBlocking.breakageReportView2.description "Блокировка содержимого может вызывать проблемы с некоторыми веб-сайтами. Когда вы сообщаете о проблеме, вы помогаете сделать &brandShortName; лучше для всех и каждого. (Будет выполнена отправка адреса сайта, а также информации о настройках вашего браузера в Mozilla).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Подробнее">
+
 <!ENTITY contentBlocking.breakageReportView.title "Сообщить о сломанном сайте">
 <!ENTITY contentBlocking.breakageReportView3.description "Блокировка некоторых трекеров может вызывать проблемы с некоторыми веб-сайтами. Сообщая о таких проблемах, вы помогаете сделать &brandShortName; лучше для всех и каждого. При отправке сообщения в Mozilla будет отправлен адрес сайта, а также информация о настройках вашего браузера.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Подробнее">
@@ -1050,6 +1060,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "ю">
 
 <!ENTITY homepageControlled.message "Ваша домашняя страница была изменена расширением. Если вы этого не хотите, вы можете восстановить свои настройки.">
+
 <!ENTITY homepageControlled.header.message "Ваша домашняя страница была изменена.">
 <!ENTITY homepageControlled.keepButton.label "Сохранить изменения">
 <!ENTITY homepageControlled.keepButton.accesskey "х">
