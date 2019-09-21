@@ -20,7 +20,7 @@
 <!ENTITY findReplaceCmd.label "Εύρεση και αντικατάσταση…">
 <!ENTITY enableInlineSpellChecker.label "Ορθογραφικός έλεγχος κατά την πληκτρολόγηση">
 <!ENTITY enableInlineSpellChecker.accesskey "θ">
-<!ENTITY checkSpellingCmd2.label "Ορθογραφικός έλεγχος">
+<!ENTITY checkSpellingCmd2.label "Ορθογραφικός έλεγχος…">
 <!ENTITY checkSpellingCmd2.accesskey "χ">
 <!ENTITY checkSpellingCmd2.key "p">
 
@@ -44,7 +44,7 @@
 <!ENTITY insertMathCmd.accesskey "Μ">
 <!ENTITY insertCharsCmd.label "Χαρακτήρες και σύμβολα…">
 <!ENTITY insertCharsCmd.accesskey "Χ">
-<!ENTITY insertBreakAllCmd.label "Αλλαγή κάτω από εικόνα(ες)">
+<!ENTITY insertBreakAllCmd.label "Αλλαγή γραμμής κάτω από εικόνα(ες)">
 <!ENTITY insertBreakAllCmd.accesskey "κ">
 
 <!-- Used just in context popup. -->
