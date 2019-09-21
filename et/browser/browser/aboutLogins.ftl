@@ -134,6 +134,16 @@ confirm-discard-changes-dialog-confirm-button = Unusta
 ## Breach Alert notification
 
 breach-alert-text = Sellelt saidilt lekitati või varastati kasutajatunnused pärast seda, kui sa viimati enda omi uuendasid. Oma konto kaitsmiseks muuda selle parool.
+breach-alert-link = Rohkem teavet selle lekke kohta.
+breach-alert-dismiss =
+    .title = Sulge see hoiatus
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = { $loginTitle } jaoks on selle kasutajanimega kasutajakonto juba olemas.
+# This is a generic error message.
+about-logins-error-message-default = Parooli salvestamisel esines viga.

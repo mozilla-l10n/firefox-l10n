@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Laienduse soovitus
+cfr-doorhanger-feature-heading = Funktsionaalsuse soovitus
 cfr-doorhanger-pintab-heading = Proovi kaardi püsikaardiks tegemist
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Miks seda kuvatakse?
 cfr-doorhanger-extension-cancel-button = Mitte praegu
@@ -62,3 +69,32 @@ cfr-doorhanger-bookmark-fxa-link-text = Sünkroniseeri järjehoidjad nüüd…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Sulgemise nupp
     .title = Sulge
+
+## Protections panel
+
+cfr-protections-panel-header = Lehitse veebi ilma jälitamiseta
+cfr-protections-panel-body = Hoia oma andmed endale. { -brand-short-name } kaitseb sind paljude tuntud jälitajate eest, kes jälgivad, mida sa võrgus olles teed.
+cfr-protections-panel-link-text = Rohkem teavet
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Mis on uut?
+    .tooltiptext = Mis on uut?
+cfr-whatsnew-panel-header = Mis on uut?
+cfr-whatsnew-release-notes-link-text = Loe väljalasketeadet
+
+## Bookmark Sync
+
+
+## Login Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+
+
+## Social Tracking Protection
+

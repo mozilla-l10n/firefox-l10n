@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Täisekraani režiim
     .accesskey = r
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Kuva kõiki kaarte
@@ -212,12 +212,21 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Logi { -sync-brand-short-name }i sisse…
     .accesskey = y
+menu-tools-fxa-sign-in =
+    .label = Logi { -brand-product-name }i sisse…
+    .accesskey = L
+menu-tools-turn-on-sync =
+    .label = Lülita { -sync-brand-short-name } sisse…
+    .accesskey = t
 menu-tools-sync-now =
     .label = Sünkroniseeri kohe
     .accesskey = S
 menu-tools-sync-re-auth =
     .label = Ühenda { -sync-brand-short-name } uuesti…
     .accesskey = T
+menu-tools-fxa-re-auth =
+    .label = Ühenda { -brand-product-name } uuesti…
+    .accesskey = h
 menu-tools-web-developer =
     .label = Veebiarendajale
     .accesskey = b
