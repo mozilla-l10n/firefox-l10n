@@ -252,6 +252,14 @@ applications-type-column =
 applications-action-column =
     .label = Azione
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Contenuti con DRM (Digital Rights Management)
 play-drm-content =
     .label = Riproduci contenuti protetti da DRM
@@ -287,7 +295,7 @@ update-pref-write-failure-message = Errore durante il salvataggio della preferen
 update-setting-write-failure-title = Errore durante il salvataggio delle preferenze
 update-setting-write-failure-message =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le preferenze è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-
+    
     Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
 update-in-progress-message = Consentire a { -brand-short-name } di completare l’aggiornamento?
@@ -613,6 +621,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Cambia la password principale…
     .accesskey = w
+forms-master-pw-fips-title = Si è in modalità FIPS. FIPS richiede che la password principale sia impostata.
+forms-master-pw-fips-desc = La password non è stata cambiata
 
 ## Privacy Section - History
 
@@ -718,8 +728,8 @@ addressbar-suggestions-settings = Modifica le impostazioni relative ai suggerime
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blocco contenuti
-content-blocking-enhanced-tracking-protection = Protezione antitracciamento avanzata
 content-blocking-section-description = Proteggi la tua privacy durante la navigazione. Blocca contenuti invisibili in grado di tracciare i siti che visiti e creare un profilo con le tue informazioni. Il blocco di alcuni di questi contenuti potrebbe velocizzare il caricamento delle pagine.
+content-blocking-enhanced-tracking-protection = Protezione antitracciamento avanzata
 content-blocking-section-top-level-description = Gli elementi traccianti ti seguono online al fine di raccogliere informazioni sui tuoi interessi e le tue abitudini di navigazione. { -brand-short-name } blocca molti di questi traccianti e altri script dannosi.
 content-blocking-learn-more = Ulteriori informazioni
 content-blocking-setting-standard =
@@ -731,6 +741,15 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalizzato
     .accesskey = P
+content-blocking-standard-desc = Il perfetto equilibrio tra protezione e prestazioni. Consenti alcuni elementi traccianti in modo da garantire il corretto funzionamento dei siti.
+content-blocking-strict-description = Maggiore protezione, alcuni siti potrebbero non funzionare correttamente.
+content-blocking-custom-desc = Scegli che cosa bloccare.
+content-blocking-private-trackers = Elementi traccianti conosciuti in finestre anonime
+content-blocking-third-party-cookies = Cookie traccianti di terze parti
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
 enhanced-tracking-protection-setting-standard =
     .label = Normale
     .accesskey = N
@@ -740,11 +759,9 @@ enhanced-tracking-protection-setting-strict =
 enhanced-tracking-protection-setting-custom =
     .label = Personalizzata
     .accesskey = P
-content-blocking-standard-desc = Il perfetto equilibrio tra protezione e prestazioni. Consenti alcuni elementi traccianti in modo da garantire il corretto funzionamento dei siti.
-content-blocking-strict-description = Maggiore protezione, alcuni siti potrebbero non funzionare correttamente.
-content-blocking-custom-desc = Scegli che cosa bloccare.
-content-blocking-private-trackers = Elementi traccianti conosciuti in finestre anonime
-content-blocking-third-party-cookies = Cookie traccianti di terze parti
+
+##
+
 content-blocking-etp-standard-desc = Equilibrio tra protezione e prestazioni. Le pagine si caricheranno normalmente.
 content-blocking-etp-strict-desc = Maggiore protezione, ma alcuni siti o contenuti potrebbero non funzionare correttamente.
 content-blocking-etp-custom-desc = Scegli quali traccianti e script bloccare.
@@ -760,10 +777,9 @@ content-blocking-cryptominers = Cryptominer
 content-blocking-fingerprinters = Fingerprinter
 content-blocking-warning-title = Attenzione
 content-blocking-warning-description = Il blocco di contenuti potrebbe impedire il corretto funzionamento di alcuni siti. È semplice disattivare il blocco per i siti che ritieni affidabili.
+content-blocking-learn-how = Scopri come
 content-blocking-etp-warning-description = Il blocco degli elementi traccianti può impedire il corretto funzionamento di alcuni siti. Ricaricare la pagina con gli elementi traccianti per visualizzare tutti i contenuti.
 content-blocking-warning-learn-how = Scopri come
-
-content-blocking-learn-how = Scopri come
 content-blocking-reload-description = È necessario ricaricare le schede per applicare le modifiche.
 content-blocking-reload-tabs-button =
     .label = Ricarica tutte le schede
