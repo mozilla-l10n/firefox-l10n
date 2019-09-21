@@ -4,22 +4,22 @@
 
 <!ENTITY securityTitle.label "Ασφάλεια">
 <!ENTITY securityTab.label "Ασφάλεια">
-<!ENTITY securityHeading.label "Για την αποστολή και λήψη υπογεγραμμένων και κρυπτογραφημένων μηνυμάτων θα πρέπει να καθορίσετε ένα πιστοποιητικό υπογραφής και ένα πιστοποιητικό κρυπτογράφησης">
+<!ENTITY securityHeading.label "Για την αποστολή και λήψη υπογεγραμμένων ή κρυπτογραφημένων μηνυμάτων, θα πρέπει να ορίσετε ένα πιστοποιητικό ψηφιακής υπογραφής και ένα πιστοποιητικό κρυπτογράφησης.">
 <!ENTITY encryptionGroupTitle.label "Κρυπτογράφηση">
-<!ENTITY encryptionChoiceLabel.label "Χρήση κρυπτογράφησης κατά την αποστολή μηνυμάτων">
-<!ENTITY neverEncrypt.label "Ποτέ">
+<!ENTITY encryptionChoiceLabel.label "Χρήση κρυπτογράφησης κατά την αποστολή μηνυμάτων:">
+<!ENTITY neverEncrypt.label "Ποτέ (χωρίς κρυπτογράφηση)">
 <!ENTITY neverEncrypt.accesskey "Π">
-<!ENTITY alwaysEncryptMessage.label "Πάντα (απενεργοποίηση αποστολής  εκτός και αν όλοι οι παραλήπτες έχουν πιστοποιητικό)">
-<!ENTITY alwaysEncryptMessage.accesskey "τ">
+<!ENTITY alwaysEncryptMessage.label "Απαιτείται (δεν γίνεται αποστολή αν δεν έχουν όλοι οι παραλήπτες πιστοποιητικό)">
+<!ENTITY alwaysEncryptMessage.accesskey "α">
 <!ENTITY encryptionCert.message "Χρήση του ακόλουθου πιστοποιητικού για αποκρυπτογράφηση-κρυπτογράφηση εισερχομένων:">
 <!ENTITY digitalSign.certificate.button "Επιλογή…">
-<!ENTITY digitalSign.certificate.accesskey "λ">
-<!ENTITY digitalSign.certificate_clear.button "Εκκαθάριση">
-<!ENTITY digitalSign.certificate_clear.accesskey "θ">
+<!ENTITY digitalSign.certificate.accesskey "Ε">
+<!ENTITY digitalSign.certificate_clear.button "Απαλοιφή">
+<!ENTITY digitalSign.certificate_clear.accesskey "Α">
 <!ENTITY encryption.certificate.button "Επιλογή…">
 <!ENTITY encryption.certificate.accesskey "π">
-<!ENTITY encryption.certificate_clear.button "Εκκαθάριση">
-<!ENTITY encryption.certificate_clear.accesskey "Ε">
+<!ENTITY encryption.certificate_clear.button "Απαλοιφή">
+<!ENTITY encryption.certificate_clear.accesskey "φ">
 <!ENTITY signingGroupTitle.label "Ψηφιακή υπογραφή">
 <!ENTITY signMessage.label "Ψηφιακή υπογραφή μηνυμάτων">
 <!ENTITY signMessage.accesskey "Ψ">
