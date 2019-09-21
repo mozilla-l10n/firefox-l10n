@@ -103,7 +103,10 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = С { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Посмотреть отчёт
+cfr-whatsnew-lockwise-backup-title = Сделайте резервную копию паролей
+cfr-whatsnew-lockwise-backup-link-text = Включить резервные копии
 cfr-whatsnew-lockwise-take-title = Возьмите свои пароли с собой
+cfr-whatsnew-lockwise-take-body = Приложение { -lockwise-brand-short-name } предоставляет вам безопасный доступ к резервным копиям паролей из любой точки мира.
 cfr-whatsnew-lockwise-take-link-text = Загрузить приложение
 
 ## Bookmark Sync
@@ -134,3 +137,8 @@ cfr-doorhanger-firefox-send-header = Безопасно поделитесь э�
 cfr-doorhanger-firefox-send-body = Защитите свои важные документы от посторонних глаз благодаря сквозному шифрованию и ссылке, которая исчезнет, когда это потребуется.
 cfr-doorhanger-firefox-send-ok-button = Попробуйте { -send-brand-name }
     .accesskey = й
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-close-button = Закрыть
+    .accesskey = к
