@@ -7,6 +7,7 @@ about-logins-page-title = लगिन & पासवर्डखौ
 # "Google Play" and "App Store" are both branding and should not be translated
 
 login-app-promo-title = नोंनि पासवर्दखौ जेरावबो लांंफा
+login-app-promo-subtitle = { -lockwise-brand-name } बेसेननाङै एपखौ ला
 login-app-promo-android =
     .alt = Google Play निफ्राय ला
 login-app-promo-apple =
