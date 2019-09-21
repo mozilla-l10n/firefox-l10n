@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = เต็มหน้าจอ
     .accesskey = จ
 
-##
+
 
 menu-view-show-all-tabs =
     .label = แสดงแท็บทั้งหมด
@@ -212,12 +212,21 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = ลงชื่อเข้า { -sync-brand-short-name }…
     .accesskey = ล
+menu-tools-fxa-sign-in =
+    .label = ลงชื่อเข้า { -brand-product-name }…
+    .accesskey = g
+menu-tools-turn-on-sync =
+    .label = เปิด { -sync-brand-short-name }…
+    .accesskey = n
 menu-tools-sync-now =
     .label = ซิงค์ตอนนี้
     .accesskey = ง
 menu-tools-sync-re-auth =
     .label = เชื่อมต่อกับ { -sync-brand-short-name } ใหม่…
     .accesskey = ช
+menu-tools-fxa-re-auth =
+    .label = เชื่อมต่อกับ { -brand-product-name }…
+    .accesskey = R
 menu-tools-web-developer =
     .label = นักพัฒนาเว็บ
     .accesskey = พ

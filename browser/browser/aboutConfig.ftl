@@ -10,6 +10,15 @@ about-config-warning-button = ฉันยอมรับความเสี�
 about-config2-title = การกำหนดค่าขั้นสูง
 about-config-search-input =
     .placeholder = ค้นหา
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = ดำเนินการต่อด้วยความระมัดระวัง
+about-config-intro-warning-checkbox = เตือนเมื่อฉันพยายามเข้าถึงการตั้งค่าเหล่านี้
+about-config-intro-warning-button = ยอมรับความเสี่ยงและดำเนินการต่อ
+
+
+
 about-config-show-all = แสดงทั้งหมด
 about-config-pref-add = เพิ่ม
 about-config-pref-toggle = เปิด/ปิด
