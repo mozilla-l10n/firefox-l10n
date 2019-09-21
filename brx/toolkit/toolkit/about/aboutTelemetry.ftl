@@ -5,6 +5,7 @@
 about-telemetry-archive-ping-header = पिन
 about-telemetry-option-group-today = दिनै
 about-telemetry-option-group-yesterday = मैया
+about-telemetry-option-group-older = गोजामसिन
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetry डाटा

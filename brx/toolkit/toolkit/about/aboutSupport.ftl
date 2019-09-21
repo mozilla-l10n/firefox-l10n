@@ -66,6 +66,7 @@ sandbox-sys-call-tid = TID
 
 media-title = मेडिया
 media-device-name = मुं
+media-device-group = हानजा
 
 
 
