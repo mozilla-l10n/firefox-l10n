@@ -130,6 +130,15 @@ cfr-doorhanger-send-tab-ok-button = Proovi kaardi saatmist
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Jaga seda PDFi turvaliselt
+cfr-doorhanger-firefox-send-body = Hoia oma tundlikku infot sisaldavaid dokumente ohutult ning krüptitult, jagades neid lingiga, mis hävineb pärast faili edukat jagamist.
+cfr-doorhanger-firefox-send-ok-button = Proovi teenust { -send-brand-name }
+    .accesskey = P
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Vaata kaitseid
+    .accesskey = k
+cfr-doorhanger-socialtracking-close-button = Sulge
+    .accesskey = S
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } takistas sotsiaalvõrgustikul sinu tegevuse jälitamise sellel lehel
+cfr-doorhanger-socialtracking-description = Sinu privaatsus on oluline. { -brand-short-name } blokib nüüd tuntud sotsiaalmeedia jälitajaid, piirates neil sinu tegevuse kohta kogutavate andmete hulka.
