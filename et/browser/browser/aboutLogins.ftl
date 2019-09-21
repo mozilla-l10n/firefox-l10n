@@ -55,6 +55,15 @@ login-list-breached-option = Kasutajatunnused lekitanud saidid
 login-list-last-changed-option = viimati muudetud
 login-list-last-used-option = viimati kasutatud
 login-list-intro-title = Kasutajakontosid ei leitud
+login-list-intro-description = { -brand-product-name }is parooli salvestamisel ilmub see siin nähtavale.
+about-logins-login-list-empty-search-title = Kasutajakontosid ei leitud
+about-logins-login-list-empty-search-description = Otsingule ei leitud vasteid.
+login-list-item-title-new-login = Uus kasutajakonto
+login-list-item-subtitle-new-login = Sisesta omakasutajatunnused
+login-list-item-subtitle-missing-username = (kasutajanime pole)
+about-logins-list-item-warning-icon =
+    .alt = Hoiatusikoon
+    .title = Kasutajatunnused lekitanud sait
 
 ## Introduction screen
 
