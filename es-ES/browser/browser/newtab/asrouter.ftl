@@ -73,6 +73,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Navegue sin que le sigan
+cfr-protections-panel-body = Guarde sus datos solo para usted. { -brand-short-name } le protege de muchos de los rastreadores más comunes que espían lo que hace en línea.
 cfr-protections-panel-link-text = Saber más
 
 ## What's New toolbar button and panel
@@ -100,6 +101,7 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = Desde { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Ver informe
 cfr-whatsnew-lockwise-backup-title = Guarde una copia de sus contraseñas
+cfr-whatsnew-lockwise-backup-body = Ahora puede generar contraseñas seguras a las que puede acceder desde cualquier lugar donde inicie sesión.
 cfr-whatsnew-lockwise-backup-link-text = Activar copias de seguridad
 cfr-whatsnew-lockwise-take-title = Llévese siempre sus contraseñas consigo
 cfr-whatsnew-lockwise-take-body = La aplicación para móviles { -lockwise-brand-short-name } le permite acceder a sus contraseñas de forma segura  desde cualquier parte.
@@ -108,6 +110,7 @@ cfr-whatsnew-lockwise-take-link-text = Obtener la aplicación
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Obtener este marcador en su teléfono
+cfr-doorhanger-sync-bookmarks-body = Lleve sus marcadores, contraseñas, historial y más a todas partes donde inicie sesión en { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Activar { -sync-brand-short-name }
     .accesskey = T
 
@@ -129,6 +132,7 @@ cfr-doorhanger-send-tab-ok-button = Pruebar Send Tab
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Compartir este PDF de forma segura
+cfr-doorhanger-firefox-send-body = Mantenga sus documentos confidenciales a salvo de miradas indiscretas con cifrado de extremo a extremo y un enlace que desaparece cuando haya terminado.
 cfr-doorhanger-firefox-send-ok-button = Pruebe { -send-brand-name }
     .accesskey = T
 
@@ -140,4 +144,7 @@ cfr-doorhanger-socialtracking-close-button = Cerrar
     .accesskey = C
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } impidió que una red social le rastreara hasta aquí
 cfr-doorhanger-socialtracking-description = Su privacidad importa. Ahora, { -brand-short-name } bloquea los rastreadores de redes sociales más comunes, limitando la cantidad de datos que pueden recopilar sobre lo que hace en línea.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } bloqueó un detector de huellas digitales en esta página
+cfr-doorhanger-fingerprinters-description = Su privacidad es importante. { -brand-short-name } ahora bloquea los detectores de huellas digitales, que recopilan piezas de información que identifican de forma única a su dispositivo para poder rastrearlo.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } bloqueó un criptominero en esta página
+cfr-doorhanger-cryptominers-description = Su privacidad es importante. { -brand-short-name } ahora bloquea los criptomineros, que utilizan la potencia informática de su sistema para extraer dinero digital.

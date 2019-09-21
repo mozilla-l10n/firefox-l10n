@@ -47,6 +47,9 @@ social-tab-contant = Las redes sociales colocan rastreadores en otros sitios web
 cookie-tab-title = Cookies de rastreo entre sitios
 cookie-tab-content = Estas cookies le siguen de página en página para recopilar información sobre su vida en línea. Suelen ser las agencias de publicidad y de analítica las que las configuran. Las cookies de rastreo entre sitios reduce el número de anuncios que le siguen. <a data-l10n-name="learn-more-link">Saber más</a>
 tracker-tab-title = Contenido de rastreo
+tracker-tab-description = Los sitios web pueden cargar anuncios externos, vídeos y otro contenido con código de rastreo. El bloqueo del contenido de rastreo puede ayudar a que los sitios se carguen más rápido, pero es posible que algunos botones, formularios y campos de inicio de sesión no funcionen. <a data-l10n-name="learn-more-link">Saber más</a>
+fingerprinter-tab-title = Detectores de huellas digitales
+fingerprinter-tab-content = Los detectores de huellas digitales (fingerprinters) recopilan la configuración de su navegador y su ordenador para crear un perfil de usted. Usando esta huella digital pueden seguirle a través de diferentes sitios web. <a data-l10n-name="learn-more-link">Saber más</a>
 cryptominer-tab-title = Criptomineros
 cryptominer-tab-content = Los criptomineros utilizan la potencia informática de su sistema para obtener dinero digital. Los scripts de criptominería agotan la batería de su ordenador, lo ralentizan y pueden aumentar su factura de electricidad. <a data-l10n-name="learn-more-link">Saber más</a>
 lockwise-title = No volverá a olvidar su contraseña
@@ -82,6 +85,14 @@ monitor-header-content-no-account = Consulte { -monitor-brand-name } para ver si
 monitor-header-content-signed-in = { -monitor-brand-name } le advierte si su información ha aparecido en una filtración de datos conocida.
 monitor-sign-up = Suscribirse a las alertas de filtraciones
 auto-scan = Se escaneó automáticamente hoy
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Dirección de correo electrónico monitorizada
+       *[other] Direcciones de correo electrónico monitorizadas
+    }
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -139,6 +150,13 @@ bar-tooltip-tracker =
         { $count ->
             [one] { $count } contenido de rastreo ({ $percentage }%)
            *[other] { $count } contenido de rastreo ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Detectores de huellas digitales
+    .aria-label =
+        { $count ->
+            [one] { $count } detector de huellas digitales ({ $percentage }%)
+           *[other] { $count } detectores de huellas digitales ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
     .title = Criptomineros

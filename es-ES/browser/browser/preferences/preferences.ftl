@@ -339,6 +339,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Buscar texto cuando comience a escribir
     .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = Activar controles de vídeo picture-in-picture
+    .accesskey = A
 browsing-picture-in-picture-learn-more = Saber más
 browsing-cfr-recommendations =
     .label = Recomendar extensiones mientras se navega
@@ -601,6 +604,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Sugerir y generar contraseñas seguras
     .accesskey = u
+forms-breach-alerts =
+    .label = Mostrar alertas sobre contraseñas para sitios web comprometidos
+    .accesskey = b
 forms-breach-alerts-learn-more-link = Saber más
 forms-fill-logins-and-passwords =
     .label = Autocompletar inicios de sesión y contraseñas
@@ -721,6 +727,7 @@ addressbar-suggestions-settings = Cambiar preferencias de sugerencias de buscado
 content-blocking-header = Bloqueo de contenido
 content-blocking-section-description = Proteja su privacidad mientras navega. Bloquee contenidos invisibles que rastrean los sitios que visita y crean un perfil sobre usted. Bloquear este tipo de contenido puede hacer que las páginas carguen más rápido.
 content-blocking-enhanced-tracking-protection = Protección contra el rastreo mejorada
+content-blocking-section-top-level-description = Los rastreadores le siguen en línea para recopilar información sobre sus hábitos e intereses de navegación. { -brand-short-name } bloquea muchos de estos rastreadores y otros scripts maliciosos.
 content-blocking-learn-more = Saber más
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -755,6 +762,9 @@ enhanced-tracking-protection-setting-custom =
 
 
 
+content-blocking-etp-standard-desc = Equilibrado para protección y rendimiento. Las páginas se cargarán normalmente.
+content-blocking-etp-strict-desc = Mayor protección, pero puede provocar que fallen algunos sitios o contenidos.
+content-blocking-etp-custom-desc = Elija qué rastreadores y scripts quiere bloquear.
 content-blocking-private-windows = Rastreo de contenido en ventanas privadas
 content-blocking-cross-site-tracking-cookies = Cookies de rastreo entre sitios
 content-blocking-social-media-trackers = Rastreadores sociales
@@ -768,6 +778,7 @@ content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = ¡Atención!
 content-blocking-warning-description = Bloquear contenido puede provocar que algunos sitios web dejen de funcionar correctamente. Lo mejor es deshabilitar el bloqueo en los sitios de confianza.
 content-blocking-learn-how = Saber cómo
+content-blocking-etp-warning-description = El bloqueo de rastreadores podría afectar la funcionalidad de algunos sitios. Vuelva a cargar una página con rastreadores para cargar todo el contenido.
 content-blocking-warning-learn-how = Saber cómo
 content-blocking-reload-description = Tiene que recargar las pestañas para que los cambios surtan efecto.
 content-blocking-reload-tabs-button =
