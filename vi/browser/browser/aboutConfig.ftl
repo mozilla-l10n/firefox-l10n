@@ -10,6 +10,19 @@ about-config-warning-button = Tôi chấp nhận rủi ro
 about-config2-title = Cấu hình nâng cao
 about-config-search-input =
     .placeholder = Tìm kiếm
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Tiến hành thận trọng
+about-config-intro-warning-text = Thay đổi tùy chọn cấu hình nâng cao có thể ảnh hưởng đến hiệu suất hoặc bảo mật { -brand-short-name }.
+about-config-intro-warning-checkbox = Cảnh báo khi tôi cố gắng truy cập các tùy chọn này
+about-config-intro-warning-button = Chấp nhận rủi ro và tiếp tục
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Thay đổi các tùy chọn này có thể ảnh hưởng đến hiệu suất hoặc bảo mật { -brand-short-name }.
+about-config-page-title = Tùy chọn nâng cao
 about-config-search-input1 =
     .placeholder = Tên tùy chọn tìm kiếm
 about-config-show-all = Hiển thị tất cả
