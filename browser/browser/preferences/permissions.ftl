@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Erandid - sisu blokkimine
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Sisu blokkimine on järgnevatel saitidel keelatud.
+permissions-exceptions-etp-window =
+    .title = Erandid - täiustatud jälitamisvastane kaitse
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Kaitse on järgnevatel saitidel välja lülitatud.
 
 ## Exceptions - Cookies
 
