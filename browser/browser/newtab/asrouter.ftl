@@ -109,15 +109,27 @@ cfr-whatsnew-lockwise-take-link-text = Hangi äpp
 
 cfr-doorhanger-sync-bookmarks-header = Kasuta seda järjehoidjat ka oma telefonis
 cfr-doorhanger-sync-bookmarks-body = Võta oma järjehoidjad, paroolid, ajalugu ja muu kaasa kõikjale, kus oled { -brand-product-name }i sisse logitud.
+cfr-doorhanger-sync-bookmarks-ok-button = Lülita { -sync-brand-short-name } sisse
+    .accesskey = L
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Lõpp paroolide kaotamisele
+cfr-doorhanger-sync-logins-body = Salvesta ja sünkroniseeri oma paroolid turvaliselt kõigisse oma seadmetesse.
+cfr-doorhanger-sync-logins-ok-button = Lülita { -sync-brand-short-name } sisse
+    .accesskey = L
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Loe seda liikvel olles
+cfr-doorhanger-send-tab-recipe-header = Võta see retsept kööki kaasa
+cfr-doorhanger-send-tab-body = Kaardi saatmise funktsionaalsus võimaldab sul lihtsalt selle lingi saata oma telefoni või ükskõik millisesse seadmesse, kus oled { -brand-product-name }i sisse logitud.
+cfr-doorhanger-send-tab-ok-button = Proovi kaardi saatmist
+    .accesskey = P
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Jaga seda PDFi turvaliselt
 
 ## Social Tracking Protection
 
