@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Εισαγωγή Μαθηματικού Τύπου">
+<!ENTITY windowTitle.label "Εισαγωγή μαθηματικού τύπου">
 
 <!ENTITY sourceEditField.label "Εισάγετε πηγαίο κώδικα LaTeX:">
 
