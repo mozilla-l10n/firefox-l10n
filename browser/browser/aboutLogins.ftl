@@ -70,18 +70,70 @@ about-logins-list-item-warning-icon =
 login-intro-heading = Otsid oma salvestatud kasutajakontosid? Seadista { -sync-brand-short-name }.
 login-intro-description = Kui salvestasid oma kasutajakontod teises seadmes olevasse { -brand-product-name }i, siis nii saad need ka siia:
 login-intro-instruction-fxa = Loo { -fxaccount-brand-name } või logi sisse seadmes, kus salvestatud kasutajakontod on
+login-intro-instruction-fxa-settings = Veendu, et { -sync-brand-short-name }i sätetes oleks Kasutajakontod ees linnuke
+about-logins-intro-instruction-help = Rohkema teabe saamiseks külasta <a data-l10n-name="help-link">{ -lockwise-brand-short-name }'i tugikeskkonda</a>
 
 ## Login
 
+login-item-new-login-title = Uue kasutajakonto loomine
+login-item-edit-button = Muuda
+login-item-delete-button = Kustuta
+login-item-origin-label = Saidi aadress
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-username-label = Kasutajanimi
+about-logins-login-item-username =
+    .placeholder = (kasutajanime pole)
+login-item-copy-username-button-text = Kopeeri
+login-item-copied-username-button-text = Kopeeritud!
+login-item-password-label = Parool
+login-item-password-reveal-checkbox-show =
+    .title = Kuva parooli
+login-item-password-reveal-checkbox-hide =
+    .title = Varja parool
+login-item-copy-password-button-text = Kopeeri
+login-item-copied-password-button-text = Kopeeritud!
+login-item-save-changes-button = Salvesta muudatused
+login-item-save-new-button = Salvesta
+login-item-cancel-button = Loobu
+login-item-time-changed = Viimati muudatud: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Loodud: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Viimati kasutatud: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = Salvestatud kasutajatunnuste ja paroolide nägemiseks sisesta ülemparool
+master-password-reload-button =
+    .label = Logi sisse
+    .accesskey = L
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Loobu
+confirmation-dialog-dismiss-button =
+    .title = Loobu
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Soovid salvestatud kasutajakontosid kasutada kõikjal, kus kasutad { -brand-product-name }i? Mine { -sync-brand-short-name }i sätetesse ja märgi ära Kasutajakontod.
+       *[other] Soovid salvestatud kasutajakontosid kasutada kõikjal, kus kasutad { -brand-product-name }i? Mine { -sync-brand-short-name }i eelistustesse ja märgi ära Kasutajakontod.
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Vaata { -sync-brand-short-name }i sätteid
+           *[other] Vaata { -sync-brand-short-name }i eelistusi
+        }
+    .accesskey = V
+confirm-delete-dialog-title = Kas kustutada see kasutajakonto?
+confirm-delete-dialog-message = Seda tegevust pole võimalik tagasi võtta.
+confirm-delete-dialog-confirm-button = Kustuta
+confirm-discard-changes-dialog-title = Kas soovid loobuda salvestamata muudatustest?
+confirm-discard-changes-dialog-message = Kõik salvestamata muudatused lähevad kaduma.
+confirm-discard-changes-dialog-confirm-button = Unusta
 
 ## Breach Alert notification
 
+breach-alert-text = Sellelt saidilt lekitati või varastati kasutajatunnused pärast seda, kui sa viimati enda omi uuendasid. Oma konto kaitsmiseks muuda selle parool.
 
 ## Error Messages
 
