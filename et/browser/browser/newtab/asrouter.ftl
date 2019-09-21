@@ -88,6 +88,20 @@ cfr-whatsnew-fx70-body = Viimane uuendus täiustab jälitamisvastast kaitset vee
 cfr-whatsnew-tracking-protect-title = Kaitse ennast jälitajate eest
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } blokib paljusid tuntud sotsiaalmeedia ja saitideüleseid jälitajaid, mis jälgivad sinu tegevust võrgus olles.
 cfr-whatsnew-tracking-protect-link-text = Vaata raportit
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Jälitaja blokitud
+       *[other] jälitajad blokitud
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Alates { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Vaata raportit
+cfr-whatsnew-lockwise-backup-title = Varunda oma paroolid
+cfr-whatsnew-lockwise-backup-body = Nüüd saad luua turvalisi paroole, mida saad kasutada kõikjal, kus sisse logid.
+cfr-whatsnew-lockwise-backup-link-text = Lülita varukoopiad sisse
+cfr-whatsnew-lockwise-take-title = Võta paroolid endaga kaasa
 
 ## Bookmark Sync
 
