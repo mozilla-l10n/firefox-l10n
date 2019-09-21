@@ -55,7 +55,7 @@
 <!ENTITY getNewMsgForCmd.accesskey "ψ">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Όλους τους λογαριασμούς">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "λ">
-<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Τρέχοντα λογαριασμό">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Τον τρέχοντα λογαριασμό">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "Τ">
 <!ENTITY getNextNMsgCmd2.label "Λήψη Επόμενων Μηνυμάτων Συζητήσεων">
 <!ENTITY getNextNMsgCmd2.accesskey "ζ">

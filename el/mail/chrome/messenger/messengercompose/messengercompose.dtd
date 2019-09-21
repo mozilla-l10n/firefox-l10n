@@ -29,7 +29,7 @@
 <!ENTITY attachVCardCmd.label "Προσωπική κάρτα (vCard)">
 <!ENTITY attachVCardCmd.accesskey "ο">
 <!ENTITY remindLater.label "Υπενθύμιση αργότερα">
-<!ENTITY remindLater.accesskey "L">
+<!ENTITY remindLater.accesskey "Υ">
 <!ENTITY closeCmd.label "Κλείσιμο">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "λ">
@@ -56,7 +56,7 @@
 <!ENTITY printPreviewCmd.accesskey "ρ">
 <!ENTITY printCmd.label "Εκτύπωση...">
 <!ENTITY printCmd.key "κ">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "Ε">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Επεξεργασία">
@@ -66,7 +66,7 @@
 <!ENTITY undoCmd.accesskey "ν">
 <!ENTITY redoCmd.label "Επανάληψη">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "ρ">
+<!ENTITY redoCmd.accesskey "λ">
 <!ENTITY cutCmd.label "Αποκοπή">
 <!ENTITY cutCmd.key "X">
 <!ENTITY cutCmd.accesskey "π">
@@ -94,14 +94,13 @@
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "μ">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     With OS-specific access modifier, this defines the shortcut key for showing/
-     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
-     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
-     for the bucket view state machinery to work. -->
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Επιλογή όλων">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "λ">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Εύρεση…">
 <!ENTITY findBarCmd.accesskey "Ε">
 <!ENTITY findBarCmd.key "F">
@@ -270,9 +269,11 @@
 <!ENTITY subject.label "Θέμα:">
 <!ENTITY subject.accesskey "Θ">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings in attachmentCount in composeMsgs.properties,
-     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
-     work, as the shortcut key functionality supersedes the access key. -->
+     be taken from the strings of attachmentCount in composeMsgs.properties.
+     Please ensure that this access key is unique: Do not duplicate any other
+     first-level access keys of the compose window, e.g. those of main menu,
+     buttons, or labels (message headers, contacts side bar, attachment reminder
+     bar). -->
 <!ENTITY attachments.accesskey "ν">
 <!ENTITY attachmentBucketHeader.tooltip "Πίνακας συνημμένων">
 <!ENTITY attachmentBucketCloseButton.tooltip "Απόκρυψη του πίνακα συνημμένων">

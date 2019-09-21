@@ -15,19 +15,6 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "μ">
 <!ENTITY helpSafeMode.label     "Επανεκκίνηση με ανενεργά πρόσθετα…">
 <!ENTITY helpSafeMode.accesskey "π">
-<!ENTITY releaseCmd2.label "Σημειώσεις έκδοσης">
-<!ENTITY releaseCmd2.accesskey "δ">
-<!ENTITY whatsNewCmd.label "Τι νέο υπάρχει;">
-<!ENTITY whatsNewCmd.accesskey "ν">
-<!ENTITY openHelp.label "Περιεχόμενα βοήθειας">
-<!ENTITY openHelp.accesskey "χ">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "Βοήθεια για το &brandFullName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
-
-<!ENTITY aboutMenuCmd2.label "Σχετικά με το &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "Σ">
 <!ENTITY helpSafeMode.stop.label     "Επανεκκίνηση με ανενεργά πρόσθετα">
 <!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Βοήθεια &brandShortName;">
@@ -42,7 +29,7 @@
 <!ENTITY helpFeedbackPage.label "Υποβολή σχολίων…">
 <!ENTITY helpFeedbackPage.accesskey "Υ">
 
-<!ENTITY helpShowTour2.label "Περιήγηση &brandShorterName;">
+<!ENTITY helpShowTour2.label "Περιήγηση στο &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey "ρ">
 
 <!ENTITY helpGetInvolvedPage.label "Συμμετοχή">
