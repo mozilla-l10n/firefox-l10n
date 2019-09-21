@@ -224,6 +224,7 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = फाइरफोक्स ह'म थानायआयदा
 home-prefs-search-header =
     .label = वेबौ नागिर
 home-prefs-topsites-header =
@@ -446,6 +447,7 @@ content-blocking-expand-section =
 
 ## Privacy Section - Permissions
 
+permissions-location = जायगा
 permissions-location-settings =
     .label = सेटिं....
     .accesskey = t

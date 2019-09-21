@@ -5,6 +5,9 @@
 reload-tab =
     .label = टेबखौ फिन ल'ड खालाम
     .accesskey = R
+select-all-tabs =
+    .label = गासै टेबखौ सायख
+    .accesskey = S
 close-tabs-to-the-end =
     .label = टेबखौ आगदाथिं बन्द खालाम
     .accesskey = i

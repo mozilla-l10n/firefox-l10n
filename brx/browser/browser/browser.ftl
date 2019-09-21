@@ -14,3 +14,7 @@ urlbar-translate-notification-anchor =
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = एद्रेसबारोव दाजाबदेर
+page-action-remove-from-urlbar =
+    .label = एद्रेसबारनिफ्राय खोमर

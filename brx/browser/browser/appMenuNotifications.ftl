@@ -10,3 +10,6 @@ appmenu-update-restart =
     .buttonaccesskey = R
     .secondarybuttonlabel = दानो नङा
     .secondarybuttonaccesskey = N
+appmenu-addon-private-browsing-installed =
+    .buttonlabel = Okay, मिथिबाय
+    .buttonaccesskey = O
