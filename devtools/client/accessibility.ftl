@@ -26,7 +26,20 @@ accessibility-text-label-issue-area = Use <code>alt</code> para etiquetar los el
 accessibility-text-label-issue-dialog = Los cuadros de diálogo deben etiquetarse. <a>Más información</a>
 accessibility-text-label-issue-document-title = Los documentos deben llevar <code>título</code>. <a>Descubre más</a>
 accessibility-text-label-issue-embed = El contenido incrustado debe etiquetarse. <a>Más información</a>
+accessibility-text-label-issue-figure = Las figuras con subtítulos opcionales tienen que etiquetarse. <a>Saber más</a>
+accessibility-text-label-issue-fieldset = Los elementos <code>fieldset</code> deben ser etiquetados. <a>Saber más</a>
+accessibility-text-label-issue-fieldset-legend = Use el elemento <code>legend</code> para etiquetar elementos <span>fieldset</span>. <a>Saber más</a>
+accessibility-text-label-issue-fieldset-legend2 = Use un elemento <code>legend</code> para etiquetar un <span>fieldset</span>. <a>Saber más</a>
 accessibility-text-label-issue-form = Los elementos del formulario deben etiquetarse. <a>Más información</a>
+accessibility-text-label-issue-form-visible = Los elementos de formulario deberían tener una etiqueta de texto visible. <a>Saber más</a>
+accessibility-text-label-issue-frame = Los elementos <code>frame</code> deben ser etiquetados. <a>Saber más</a>
+accessibility-text-label-issue-glyph = Use el atributo <code>alt</code> para etiquetar elementos <span>mglyph</span>. <a>Saber más</a>
+accessibility-text-label-issue-heading = Los encabezados deben ser etiquetados. <a>Saber más</a>
+accessibility-text-label-issue-heading-content = Los encabezados deberían tener contenido de texto visible. <a>Saber más</a>
+accessibility-text-label-issue-iframe = Use el atributo <code>title</code> para describir contenido <span>iframe</span>. <a>Saber más</a>
+accessibility-text-label-issue-image = El contenido con imágenes debe ser etiquetado. <a>Saber más</a>
+accessibility-text-label-issue-interactive = Los elementos interactivos deben ser etiquetados. <a>Saber más</a>
+accessibility-text-label-issue-optgroup-label = Use el atributo <code>label</code> para etiquetar elementos <span>optgroup</span>. <a>Saber más</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
