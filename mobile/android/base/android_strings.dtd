@@ -23,20 +23,21 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Konto">
 <!ENTITY firstrun_sync_message2 "Kontynuuj przeglądanie">
+<!ENTITY firstrun_sync_message3 "Synchronizuj swoje zakładki, historię i hasła na telefonie.">
 <!ENTITY firstrun_sync_subtext2 "Użyj synchronizacji, aby mieć zakładki, hasła i inne rzeczy zachowane w przeglądarce &brandShortName; na wszystkich urządzeniach.">
 <!ENTITY newfirstrun_sync_subtext "Synchronizuj rzeczy zachowane na telefonie z Firefoksem na komputerze — prywatnie i bezpiecznie.">
 <!ENTITY updatednewfirstrun_sync_subtext "Zaloguj się na swoje konto, aby w pełni wykorzystać przeglądarkę &brandShortName;">
 <!ENTITY firstrun_signin_message "Połącz z innymi urządzeniami">
+<!ENTITY firstrun_sendtab_title "Wyślij kartę">
+<!ENTITY firstrun_sendtab_message "Błyskawicznie udostępniaj karty z telefonu na komputer.">
 <!ENTITY firstrun_signin_button "Zaloguj się do synchronizacji">
 <!ENTITY newfirstrun_signin_button "Włącz synchronizację">
 <!ENTITY updatednewfirstrun_signin_button "Zaloguj się w przeglądarce &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Zacznij przeglądać Internet">
+<!ENTITY onboard_start_button_browser "Zacznij przeglądać Internet">
 <!ENTITY firstrun_button_notnow "Nie teraz">
 <!ENTITY firstrun_button_next "Dalej">
 
 <!ENTITY firstrun_signin_button2 "Zaloguj się">
-
-<!ENTITY firstrun_signup_button "Utwórz konto">
 
 <!ENTITY firstrun_tabqueue_title "Odnośniki">
 
@@ -48,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Ty">
 <!ENTITY firstrun_account_message "Masz przeglądarkę &brandShortName; na innych urządzeniach?">
+
+<!ENTITY firstrun_signup_button "Utwórz konto">
 
 <!ENTITY  onboard_start_restricted1 "Bądź bezpieczny dzięki uproszczonej wersji przeglądarki &brandShortName;.">
 
@@ -692,6 +695,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Połączono z">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
