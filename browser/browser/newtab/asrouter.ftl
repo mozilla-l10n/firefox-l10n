@@ -70,6 +70,8 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = เรียกดูโดยไม่ต้องมีใครมาติดตาม
+cfr-protections-panel-body = เก็บข้อมูลของคุณไว้กับตัวคุณเอง { -brand-short-name } ปกป้องคุณจากตัวติดตามที่พบบ่อยที่สุดซึ่งติดตามสิ่งที่คุณทำทางออนไลน์
 cfr-protections-panel-link-text = เรียนรู้เพิ่มเติม
 
 ## What's New toolbar button and panel
@@ -79,6 +81,11 @@ cfr-whatsnew-button =
     .tooltiptext = มีอะไรใหม่
 cfr-whatsnew-panel-header = มีอะไรใหม่
 cfr-whatsnew-release-notes-link-text = อ่านบันทึกประจำรุ่น
+cfr-whatsnew-fx70-title = ตอนนี้ { -brand-short-name } ต่อสู้อย่างหนักขึ้นเพื่อความเป็นส่วนตัวของคุณ
+cfr-whatsnew-fx70-body =
+    การอัปเดตล่าสุดเพิ่มคุณลักษณะการป้องกันการติดตามและทำให้
+    สร้างรหัสผ่านที่ปลอดภัยสำหรับทุกไซต์ได้ง่ายขึ้นกว่าที่เคย
+cfr-whatsnew-tracking-protect-title = ป้องกันตัวคุณเองจากตัวติดตาม
 cfr-whatsnew-tracking-protect-link-text = ดูรายงานของคุณ
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
@@ -87,13 +94,17 @@ cfr-whatsnew-tracking-blocked-title =
     { $blockedCount ->
        *[other] ตัวติดตามที่ถูกปิดกั้น
     }
+cfr-whatsnew-tracking-blocked-subtitle = ตั้งแต่ { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = ดูรายงาน
 cfr-whatsnew-lockwise-backup-title = สำรองรหัสผ่านของคุณ
 cfr-whatsnew-lockwise-backup-link-text = เปิดการสำรองข้อมูล
+cfr-whatsnew-lockwise-take-title = นำรหัสผ่านของคุณไปกับคุณ
 cfr-whatsnew-lockwise-take-link-text = รับแอป
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = รับที่คั่นหน้านี้บนโทรศัพท์ของคุณ
+cfr-doorhanger-sync-bookmarks-body = นำที่คั่นหน้า, รหัสผ่าน, ประวัติและอื่น ๆ ของคุณไปทุกที่ที่คุณลงชื่อเข้า { -brand-product-name }
 cfr-doorhanger-sync-bookmarks-ok-button = เปิด { -sync-brand-short-name }
     .accesskey = ป
 
@@ -104,6 +115,8 @@ cfr-doorhanger-sync-logins-ok-button = เปิด { -sync-brand-short-name }
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-ok-button = ลองส่งแท็บ
+    .accesskey = ล
 
 ## Firefox Send
 
