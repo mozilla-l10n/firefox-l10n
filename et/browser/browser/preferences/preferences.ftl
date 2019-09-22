@@ -339,6 +339,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Sisestamise alustamisel otsitakse teksti
     .accesskey = e
+browsing-picture-in-picture-toggle-enabled =
+    .label = Lubatakse pilt-pildis juhtnupud
+    .accesskey = u
+browsing-picture-in-picture-learn-more = Rohkem teavet
 browsing-cfr-recommendations =
     .label = Veebilehitsemise ajal soovitatakse laiendusi
     .accesskey = V
@@ -743,7 +747,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Kohandatud
     .accesskey = K
 
-##
+
 
 content-blocking-all-cookies = Kõik küpsised
 content-blocking-unvisited-cookies = küpsised külastamata saitidelt
