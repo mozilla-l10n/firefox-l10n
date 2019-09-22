@@ -8,6 +8,7 @@ etp-card-title = การป้องกันการติดตามที
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = วันนี้
+social-tab-title = ตัวติดตามสังคมออนไลน์
 cookie-tab-title = คุกกี้ติดตามข้ามไซต์
 tracker-tab-title = ตัวติดตามเนื้อหา
 fingerprinter-tab-title = ลายนิ้วมือดิจิทัล
@@ -18,12 +19,20 @@ lockwise-title-logged-in = { -lockwise-brand-name }
 about-logins-view-logins-button = ดูการเข้าสู่ระบบ
 protection-report-view-logins-button = ดูการเข้าสู่ระบบ
     .title = ไปยังการเข้าสู่ระบบที่บันทึกไว้
+turn-on-sync = เปิด { -sync-brand-short-name }…
+    .title = ไปที่ค่ากำหนดการซิงค์
 manage-devices = จัดการอุปกรณ์
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-sync-status =
+    { $count ->
+       *[other] กำลังซิงค์กับอุปกรณ์อื่น ๆ { $count } เครื่อง
+    }
 monitor-link = มันทำงานอย่างไร
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = ไปที่การตั้งค่าความเป็นส่วนตัว
 # This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = ไปยังการเข้าสู่ระบบที่บันทึกไว้
+go-to-saved-logins = ไปที่การเข้าสู่ระบบที่บันทึกไว้
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
