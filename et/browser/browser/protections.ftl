@@ -84,6 +84,32 @@ monitor-link = Kuidas see töötab?
 monitor-header-content-no-account = Kontrolli { -monitor-brand-name }i, et näha, kas sinu andmed leiduvad mõnes teadaolevas andmelekkes ja saa hoiatusi uute lekete kohta.
 monitor-header-content-signed-in = { -monitor-brand-name } hoiatab, kui sinu andmed ilmnevad mõnes teadaolevas andmelekkes.
 monitor-sign-up = Telli lekkehoiatused
+auto-scan = Täna automaatselt skanneeritud
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] e-posti aadress on monitooritud
+       *[other] e-posti aadressi on monitooritud
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] teadaolev andmeleke on paljastanud sinu andmed
+       *[other] teadaolevat andmeleket on paljastanud sinu andmed
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] parool on paljastatud kõigi lekete tõttu
+       *[other] parooli on paljastatud kõigi lekete tõttu
+    }
+full-report-link = Vaata kogu raportit <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }ist</a>
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
