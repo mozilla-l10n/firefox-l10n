@@ -35,9 +35,9 @@ same accesskey but will never be visible at the same time. -->
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "O">
-<!ENTITY  sendPageToDevice.label             "Prześlij stronę do">
+<!ENTITY  sendPageToDevice.label             "Wyślij stronę do">
 <!ENTITY  sendPageToDevice.accesskey         "P">
-<!ENTITY  sendLinkToDevice.label             "Prześlij odnośnik do">
+<!ENTITY  sendLinkToDevice.label             "Wyślij odnośnik do">
 <!ENTITY  sendLinkToDevice.accesskey         "P">
 <!ENTITY  undoCloseTab.label                 "Przywróć zamkniętą kartę">
 <!ENTITY  undoCloseTab.accesskey             "P">
@@ -254,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Zarządzaj wtyczkami używanymi na tej stronie">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Określ, czy witryna ma prawo wyświetlać powiadomienia">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Przechowywanie danych na komputerze">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Przeglądarka jest zdalnie zarządzana">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Otwórz panel Web Authentication">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Zarządzaj uprawnieniami śledzenia aktywności przeglądania">
@@ -439,8 +440,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Czy wyświetlić tutaj listę kart otwartych na innych urządzeniach?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Ustawienia synchronizacji">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Zaloguj się, aby wyświetlić tutaj listę kart z innych urządzeń.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Wyświetl listę kart z innych urządzeń.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Konto musi zostać zweryfikowane.">
 <!ENTITY appMenuRemoteTabs.signin.label "Zaloguj się do synchronizacji">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Zaloguj się do synchronizacji…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Włącz synchronizację…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Zarządzaj urządzeniami…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Wyświetl panel kart z innych urządzeń">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Ukryj panel kart z innych urządzeń">
@@ -979,10 +983,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Elementy śledzące">
 
 <!ENTITY contentBlocking.manageSettings.label "Zarządzaj blokowaniem treści">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Treści z elementami śledzącymi">
-
-<!ENTITY contentBlocking.manageSettings2.label "Zarządzaj ustawieniami ochrony">
 <!ENTITY contentBlocking.manageSettings.accesskey "Z">
 
 <!ENTITY contentBlocking.trackersView.label "Elementy śledzące">
@@ -991,6 +991,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Ciasteczka">
 <!ENTITY contentBlocking.cookiesView.label "Ciasteczka i dane stron">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Treści z elementami śledzącymi">
+
+<!ENTITY contentBlocking.manageSettings2.label "Zarządzaj ustawieniami ochrony">
 <!ENTITY contentBlocking.manageSettings2.accesskey "Z">
 
 <!ENTITY contentBlocking.socialblock.label "Elementy śledzące serwisów społecznościowych">
