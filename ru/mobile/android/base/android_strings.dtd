@@ -709,7 +709,7 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Защищённое соединение">
 <!ENTITY identity_connection_insecure "Незащищённое соединение">
-<!ENTITY identity_connection_chromeui "Это защищённая страница &brandShortName;">
+<!ENTITY identity_connection_chromeui "Это встроенная страница &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; заблокировал небезопасное содержимое на этой странице.">
