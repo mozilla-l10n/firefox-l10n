@@ -52,6 +52,13 @@ fingerprinter-tab-title = Seadmetuvastajad
 fingerprinter-tab-content = Seadmetuvastajad koguvad profileerimiseks sinu brauseri ja arvuti sätteid. Neid digitaalseid sõrmejälgi kasutades saavad nad jälitada sind erinevatel saitidel. <a data-l10n-name="learn-more-link">Rohkem teavet</a>
 cryptominer-tab-title = Krüptorahakaevurid
 cryptominer-tab-content = Krüptorahakaevurid kasutavad sinu süsteemi arvutusressursse digitaalse raha kaevandamiseks. Krüptoraha kaevandamise skriptid tühjendavad sinu seadme akut, aeglustavad sinu arvutit ja suurendavad sinu elektriarvet. <a data-l10n-name="learn-more-link">Rohkem teavet</a>
+lockwise-title = Lõpp paroolide unustamisele
+lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-header-content = { -lockwise-brand-name } salvestab paroolid turvaliselt sinu brauseris.
+lockwise-header-content-logged-in = Salvesta ja sünkroniseeri oma paroolid turvaliselt kõigisse oma seadmetesse.
+about-logins-view-logins-button = Vaata kasutajakontosid
+protection-report-view-logins-button = Vaata kasutajakontosid
+    .title = Ava salvestatud kasutajakontod
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
