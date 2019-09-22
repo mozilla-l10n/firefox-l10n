@@ -23,20 +23,21 @@
 <!ENTITY firstrun_sync_title "Sinchronizavimas">
 <!ENTITY updatednewfirstrun_sync_title "Paskyra">
 <!ENTITY firstrun_sync_message2 "Tęskite nuo ten, kur baigėte.">
+<!ENTITY firstrun_sync_message3 "Sinchronizuokite savo adresyną, žurnalą, ir slaptažodžius su telefonu.">
 <!ENTITY firstrun_sync_subtext2 "Naudokitės „Sync“ norėdami rasti adresyno įrašus, slaptažodžius bei kitus su „&brandShortName;“ išsaugotus dalykus, visuose savo įrenginiuose.">
 <!ENTITY newfirstrun_sync_subtext "Sinchronizuokite mobiliojoje „Firefox“ įrašytus dalykus su kompiuterine „Firefox“, privačiai ir saugiai.">
 <!ENTITY updatednewfirstrun_sync_subtext "Prisijungę prie savo paskyros išnaudosite daugiau „&brandShortName;“ galimybių">
 <!ENTITY firstrun_signin_message "Prisijunkite ir pradėkite">
+<!ENTITY firstrun_sendtab_title "Nusiųsti kortelę">
+<!ENTITY firstrun_sendtab_message "Dalinkitės kortelėmis iš telefono į kompiuterį – akimirksniu.">
 <!ENTITY firstrun_signin_button "Prisijungti prie „Sync“">
 <!ENTITY newfirstrun_signin_button "Įjungti „Sync“">
 <!ENTITY updatednewfirstrun_signin_button "Prisijungti prie „&brandShortName;“">
-<!ENTITY  onboard_start_button_browser "Pradėti naršymą">
+<!ENTITY onboard_start_button_browser "Pradėti naršymą">
 <!ENTITY firstrun_button_notnow "Ne dabar">
 <!ENTITY firstrun_button_next "Toliau">
 
 <!ENTITY firstrun_signin_button2 "Prisijungti">
-
-<!ENTITY firstrun_signup_button "Registruotis">
 
 <!ENTITY firstrun_tabqueue_title "Saitai">
 
@@ -48,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Jūs">
 <!ENTITY firstrun_account_message "Turite „&brandShortName;“ kitame įrenginyje?">
+
+<!ENTITY firstrun_signup_button "Registruotis">
 
 <!ENTITY  onboard_start_restricted1 "Būkite saugūs su šia supaprastinta „&brandShortName;“ versija.">
 
@@ -692,6 +695,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Esate prisijungę prie">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
