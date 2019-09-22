@@ -18,3 +18,4 @@ reader-view = Lugemisvaade
 open-location = Otsi või sisesta aadress
 share = Jaga
 close-window = Sulge aken
+open-sidebar = Külgribad
