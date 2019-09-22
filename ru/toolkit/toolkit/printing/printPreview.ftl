@@ -33,6 +33,7 @@ printpreview-of =
     .value = из
 printpreview-custom-prompt =
     .value = Настроить масштаб…
+printpreview-custom-scale-prompt-title = Настроить масштаб
 printpreview-page-setup =
     .label = Параметры…
     .accesskey = а

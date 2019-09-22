@@ -62,6 +62,9 @@ about-logins-login-list-empty-search-description = Результатов, по�
 login-list-item-title-new-login = Новый логин
 login-list-item-subtitle-new-login = Введите свои учётные данные
 login-list-item-subtitle-missing-username = (нет имени пользователя)
+about-logins-list-item-warning-icon =
+    .alt = Значок предупреждения
+    .title = Атакованный сайт
 
 ## Introduction screen
 
@@ -69,6 +72,7 @@ login-intro-heading = Ищите сохранённые логины? Настр
 login-intro-description = Если вы сохранили ваши логины в { -brand-product-name } на другом устройстве, то вот как получить к ним доступ здесь:
 login-intro-instruction-fxa = Создайте или войдите в ваш { -fxaccount-brand-name } на устройстве, где сохранены ваши логины
 login-intro-instruction-fxa-settings = Убедитесь, что вы установили флажок «Логины» в настройках { -sync-brand-short-name(case: "genitive") }
+about-logins-intro-instruction-help = Посетите <a data-l10n-name="help-link">Поддержку { -lockwise-brand-short-name }</a> для получения помощи
 
 ## Login
 
@@ -79,8 +83,6 @@ login-item-origin-label = Адрес веб-сайта
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Имя пользователя
-login-item-username =
-    .placeholder = имя@example.com
 about-logins-login-item-username =
     .placeholder = (нет имени пользователя)
 login-item-copy-username-button-text = Копировать
