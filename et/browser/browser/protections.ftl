@@ -65,8 +65,8 @@ lockwise-no-logins-content = Oma paroolide kõikjale kaasa võtmiseks hangi äpp
 # your localization, because it would result in the number showing twice.
 lockwise-passwords-stored =
     { $count ->
-        [one] turvaliselt salvestatud parool <a data-l10n-name="lockwise-how-it-works">Kuidas see töötab</a>
-       *[other] turvaliselt salvestatud parooli <a data-l10n-name="lockwise-how-it-works">Kuidas see töötab</a>
+        [one] turvaliselt salvestatud parool <a data-l10n-name="lockwise-how-it-works">Kuidas see töötab?</a>
+       *[other] turvaliselt salvestatud parooli <a data-l10n-name="lockwise-how-it-works">Kuidas see töötab?</a>
     }
 turn-on-sync = Lülita { -sync-brand-short-name } sisse…
     .title = Ava sünkroniseerimise sätted
@@ -79,6 +79,8 @@ lockwise-sync-status =
        *[other] parooli on sünkroniseeritud { $count } teise seadmesse
     }
 lockwise-sync-not-syncing-devices = Sünkroniseerimist teistesse seadmetesse ei toimu
+monitor-title = Hoia end kursis andmeleketega
+monitor-link = Kuidas see töötab?
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
