@@ -81,6 +81,9 @@ lockwise-sync-status =
 lockwise-sync-not-syncing-devices = Sünkroniseerimist teistesse seadmetesse ei toimu
 monitor-title = Hoia end kursis andmeleketega
 monitor-link = Kuidas see töötab?
+monitor-header-content-no-account = Kontrolli { -monitor-brand-name }i, et näha, kas sinu andmed leiduvad mõnes teadaolevas andmelekkes ja saa hoiatusi uute lekete kohta.
+monitor-header-content-signed-in = { -monitor-brand-name } hoiatab, kui sinu andmed ilmnevad mõnes teadaolevas andmelekkes.
+monitor-sign-up = Telli lekkehoiatused
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
