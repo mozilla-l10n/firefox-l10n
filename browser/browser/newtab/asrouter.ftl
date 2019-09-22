@@ -110,3 +110,10 @@ cfr-doorhanger-sync-logins-ok-button = เปิด { -sync-brand-short-name }
 cfr-doorhanger-firefox-send-header = แบ่งปัน PDF นี้อย่างปลอดภัย
 cfr-doorhanger-firefox-send-ok-button = ลอง { -send-brand-name }
     .accesskey = ล
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = ดูการป้องกัน
+    .accesskey = ด
+cfr-doorhanger-socialtracking-close-button = ปิด
+    .accesskey = ป

@@ -19,6 +19,9 @@ about-config-intro-warning-button = ยอมรับความเสี่�
 
 
 
+about-config-page-title = ค่ากำหนดขั้นสูง
+about-config-search-input1 =
+    .placeholder = ค้นหาชื่อค่ากำหนด
 about-config-show-all = แสดงทั้งหมด
 about-config-pref-add = เพิ่ม
 about-config-pref-toggle = เปิด/ปิด
