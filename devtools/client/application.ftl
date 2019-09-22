@@ -85,6 +85,14 @@ manifest-loaded-ok = Манифест загружен.
 manifest-loaded-error = При загрузка манифеста произошла ошибка:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Не найден манифест для отладки.
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Манифест
+    .alt = Значок манифеста
+    .title = Манифест
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Service Workers
+    .alt = Значок Service Workers
+    .title = Service Workers
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Значок предупреждения

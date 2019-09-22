@@ -10,6 +10,21 @@ about-config-warning-button = Я принимаю на себя риск
 about-config2-title = Дополнительные настройки
 about-config-search-input =
     .placeholder = Поиск
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Продолжайте с осторожностью
+about-config-intro-warning-text = Изменение расширенных настроек может затронуть производительность или безопасность { -brand-short-name }.
+about-config-intro-warning-checkbox = Предупреждать меня, когда я попытаюсь получить доступ к этим настройкам
+about-config-intro-warning-button = Принять риск и продолжить
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Изменение этих настроек может затронуть производительность или безопасность { -brand-short-name }.
+about-config-page-title = Расширенные настройки
+about-config-search-input1 =
+    .placeholder = Искать параметр по имени
 about-config-show-all = Показать все
 about-config-pref-add = Добавить
 about-config-pref-toggle = Переключить

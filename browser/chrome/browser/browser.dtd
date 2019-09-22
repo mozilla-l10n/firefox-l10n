@@ -127,7 +127,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Подтвердите свой аккаунт">
 
 
- <!-- } is above this key on many keyboards -->
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Свернуть">
 <!ENTITY fullScreenRestore.tooltip "Восстановить">
@@ -439,8 +440,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Хотите увидеть здесь ваши вкладки с других устройств?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Открыть настройки синхронизации">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Войдите, чтобы увидеть список вкладок с других устройств.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Просмотрите список вкладок с других устройств.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ваш аккаунт должен быть подтверждён.">
 <!ENTITY appMenuRemoteTabs.signin.label "Войти в Синхронизацию">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Войти в Синхронизацию…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Включить Синхронизацию…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Управление устройствами…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Показать боковую панель облачных вкладок">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Скрыть боковую панель облачных вкладок">
@@ -939,6 +943,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Такие куки ходят за вами с сайта на сайт для сбора информации о том, что вы делаете в Интернете. Они устанавливаются такими сторонними организациями, как рекламодатели и аналитические компании.">
 <!ENTITY protections.cryptominers.description "Криптомайнеры используют вычислительные мощности вашей системы для добычи цифровых валют. Такие скрипты разряжают вашу батарею, замедляют работу компьютера и могут увеличить ваш счёт за электроэнергию.">
 <!ENTITY protections.fingerprinters.description "Сборщики цифровых отпечатков используют параметры вашего браузера и компьютера, чтобы создать ваш профиль. Используя этот цифровой отпечаток, они могут отслеживать вас на различных веб-сайтах.">
+<!ENTITY protections.trackingContent2.description "Веб-сайты могут загружать внешнюю рекламу, видео и другой контент с отслеживающим кодом. Блокировка отслеживающего содержимого может помочь сайтам загружаться быстрее, но некоторые кнопки, формы и поля для входа могут не работать.">
 <!ENTITY protections.socialMediaTrackers.description "Социальные сети размещают трекеры на других веб-сайтах, чтобы следить за тем, что вы делаете, видите и смотрите в Интернете. Это позволяет их владельцам узнавать о вас больше, чем вы указываете в своих профилях в социальных сетях.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
