@@ -40,8 +40,14 @@ accessibility-text-label-issue-iframe = Use el atributo <code>title</code> para 
 accessibility-text-label-issue-image = El contenido con imágenes debe ser etiquetado. <a>Saber más</a>
 accessibility-text-label-issue-interactive = Los elementos interactivos deben ser etiquetados. <a>Saber más</a>
 accessibility-text-label-issue-optgroup-label = Use el atributo <code>label</code> para etiquetar elementos <span>optgroup</span>. <a>Saber más</a>
+accessibility-text-label-issue-optgroup-label2 = Use el atributo <code>label</code> para etiquetar un <span>optgroup</span>. <a>Saber más</a>
+accessibility-text-label-issue-toolbar = Las barras de herramientas deben estar etiquetadas cuando hay más de una barra de herramientas. <a>Saber más</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = Los elementos que pueden recibir el foco deberían tener una semántica interactiva. <a>Saber más</a>
+accessibility-keyboard-issue-tabindex = Evite utilizar el atributo <code>tabindex</code> mayor que cero. <a>Saber más</a>
+accessibility-keyboard-issue-action = Los elementos interactivos tienen que poder activarse con el teclado. <a>Saber más</a>
+accessibility-keyboard-issue-focusable = Los elementos interactivos tiene que poder recibir el foco. <a>Saber más</a>
