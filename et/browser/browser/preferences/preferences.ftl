@@ -604,6 +604,13 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Soovitatakse ja genereeritakse tugevaid paroole
     .accesskey = S
+forms-breach-alerts =
+    .label = Paroole lekitanud saitide kohta kuvatakse hoiatusi
+    .accesskey = h
+forms-breach-alerts-learn-more-link = Rohkem teavet
+forms-fill-logins-and-passwords =
+    .label = Kasutajatunnuste ja paroolide väljad täidetakse automaatselt
+    .accesskey = l
 forms-saved-logins =
     .label = Salvestatud kasutajakontod…
     .accesskey = l
@@ -680,6 +687,10 @@ sitedata-block-desc = Seejuures blokitakse
     .accesskey = u
 sitedata-option-block-trackers =
     .label = kolmanda osapoole jälitajad
+sitedata-option-block-cross-site-trackers =
+    .label = Saitideülesed jälitajad
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Saitideülesed ja sotsiaalmeedia jälitajad
 sitedata-option-block-unvisited =
     .label = küpsised külastamata veebisaitidelt
 sitedata-option-block-all-third-party =
@@ -715,6 +726,8 @@ addressbar-suggestions-settings = Muuda otsingumootorite soovituste sätteid
 
 content-blocking-header = Sisu blokkimine
 content-blocking-section-description = Kaitse veebilehitsemise ajal oma privaatsust. Bloki nähtamatu sisu, mis jälitab ning profileerib sinu tegevust. Sellise sisu blokkimine võib teha lehtede laadimise kiiremaks.
+content-blocking-enhanced-tracking-protection = Täiustatud jälitamisvastane kaitse
+content-blocking-section-top-level-description = Jälitajad järgnevad sulle kõikjal veebis, et koguda andmeid sinu lehitsemisharjumuste ja huvide kohta. { -brand-short-name } blokib paljud neist jälitajatest ja ka muud pahatahtlikud skriptid.
 content-blocking-learn-more = Rohkem teavet
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -749,9 +762,16 @@ enhanced-tracking-protection-setting-custom =
 
 
 
+content-blocking-etp-standard-desc = Tasakaalustatud kaitse ja jõudluse jaoks. Lehed laaditakse tavapäraselt.
+content-blocking-etp-strict-desc = Tugevam kaitse, võib põhjustada mõnel saidil või sisus probleeme.
+content-blocking-etp-custom-desc = Vali blokitavad jälitajad ja skriptid.
+content-blocking-private-windows = Jälitav sisu privaatsetes akendes
+content-blocking-cross-site-tracking-cookies = Saitideülesed jälitamisküpsised
+content-blocking-social-media-trackers = Sotsiaalmeedia jälitajad
 content-blocking-all-cookies = Kõik küpsised
 content-blocking-unvisited-cookies = küpsised külastamata saitidelt
 content-blocking-all-windows-trackers = tuntud jälitajad kõigis akendes
+content-blocking-all-windows-tracking-content = Jälitav sisu kõigis akendes
 content-blocking-all-third-party-cookies = kõik kolmanda osapoole küpsised
 content-blocking-cryptominers = krüptorahakaevurid
 content-blocking-fingerprinters = seadmetuvastajad
