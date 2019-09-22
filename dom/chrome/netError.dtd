@@ -23,7 +23,7 @@
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Den kan være blevet slettet, flyttet eller tilladelserne for filen kan forhindre adgang.</li></ul>">
 
 <!ENTITY generic.title "Kan ikke færdiggøre forespørgsel">
-<!ENTITY generic.longDesc "<p>Siden kunne ikke vises, måske fordi den ikke eksisterer eller stien er forkert.<br/>Kontrollèr, at navnet og stien er rigtig.</p>">
+<!ENTITY generic.longDesc "<p>Yderligere information om dette problem eller denne fejl er ikke tilgængelig lige nu.</p>">
 
 <!ENTITY malformedURI.title "Ugyldig adresse">
 <!ENTITY malformedURI.longDesc "<p>Adressen er ikke angivet i et genkendt format. Kontrollèr, om der er fejl i adressen, og prøv igen.</p>">
