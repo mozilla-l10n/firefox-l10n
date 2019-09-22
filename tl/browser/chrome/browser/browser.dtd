@@ -317,7 +317,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyButton.label            "Kasaysayan">
 <!ENTITY historySidebarCmd.commandKey   "h">
 
-<!ENTITY toolsMenu.label              "Mga Tool">
+<!ENTITY toolsMenu.label              "Mga Kagamitan">
 <!ENTITY toolsMenu.accesskey          "T">
 
 <!ENTITY keywordfield.label           "Magdagdag ng Keyword para sa Search na ito...">
