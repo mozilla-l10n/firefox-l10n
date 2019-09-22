@@ -254,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Valdyti papildinių naudojimą">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Pasirinkite, ar norite gauti pranešimus iš šios svetainės">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Saugoti duomenis išliekančioje atmintyje">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Naršyklė valdoma per nuotolį">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Atverti „Web Authentication“ polangį">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Atverti naršymo veiklos leidimų polangį">
@@ -439,8 +440,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Norite čia matyti savo korteles iš kitų įrenginių?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Atverti sinchronizavimo nuostatas">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prisijunkite, norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Peržiūrėkite kituose įrenginiuose esančias korteles.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Jūsų paskyra turi būti patvirtinta.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prisijungti prie „Sync“">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Jungtis prie „&syncBrand.shortName.label;“…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Įjungti „&syncBrand.shortName.label;“…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Tvarkyti įrenginius…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Rodyti sinchronizuotų kortelių parankinę">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Slėpti sinchronizuotų kortelių parankinę">
@@ -979,10 +983,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Stebėjimo elementai">
 
 <!ENTITY contentBlocking.manageSettings.label "Tvarkyti turinio blokavimą">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Stebėjimui naudojamas turinys">
-
-<!ENTITY contentBlocking.manageSettings2.label "Tvarkyti apsaugos nuostatas">
 <!ENTITY contentBlocking.manageSettings.accesskey "T">
 
 <!ENTITY contentBlocking.trackersView.label "Stebėjimo elementai">
@@ -991,6 +991,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Slapukai">
 <!ENTITY contentBlocking.cookiesView.label "Slapukai ir svetainių duomenys">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Stebėjimui naudojamas turinys">
+
+<!ENTITY contentBlocking.manageSettings2.label "Tvarkyti apsaugos nuostatas">
 <!ENTITY contentBlocking.manageSettings2.accesskey "T">
 
 <!ENTITY contentBlocking.socialblock.label "Socialinių tinklų stebėjimo elementai">

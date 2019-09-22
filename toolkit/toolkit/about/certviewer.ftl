@@ -55,3 +55,14 @@ certificate-viewer-timestamp = Laiko žymė
 certificate-viewer-value = Reikšmė
 certificate-viewer-version = Laida
 certificate-viewer-business-category = Verslo kategorija
+# This message is used as a row header in the Miscellaneous section. 
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Parsiųsti
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] Taip
+       *[false] Ne
+    }

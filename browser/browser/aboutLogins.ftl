@@ -62,6 +62,9 @@ about-logins-login-list-empty-search-description = Nėra jūsų paiešką atitin
 login-list-item-title-new-login = Naujas prisijungimas
 login-list-item-subtitle-new-login = Įveskite prisijungimo duomenis
 login-list-item-subtitle-missing-username = (nėra naudotojo vardo)
+about-logins-list-item-warning-icon =
+    .alt = Įspėjimo piktograma
+    .title = Pažeista svetainė
 
 ## Introduction screen
 
@@ -80,8 +83,6 @@ login-item-origin-label = Svetainės adresas
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Naudotojo vardas
-login-item-username =
-    .placeholder = vpavardenis@example.com
 about-logins-login-item-username =
     .placeholder = (nėra naudotojo vardo)
 login-item-copy-username-button-text = Kopijuoti

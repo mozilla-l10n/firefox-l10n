@@ -90,6 +90,9 @@ manifest-loaded-ok = Manifestas įkeltas.
 manifest-loaded-error = Įkeliant manifestą įvyko klaida:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Nerastas joks manifestas.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Manifestas yra įterptas į Data URL.
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Manifestas
     .alt = Manifesto piktograma
