@@ -14,11 +14,14 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = ดำเนินการต่อด้วยความระมัดระวัง
+about-config-intro-warning-text = การเปลี่ยนแปลงค่ากำหนดขั้นสูงอาจส่งผลต่อประสิทธิภาพหรือความปลอดภัยของ { -brand-short-name } ได้
 about-config-intro-warning-checkbox = เตือนเมื่อฉันพยายามเข้าถึงการตั้งค่าเหล่านี้
 about-config-intro-warning-button = ยอมรับความเสี่ยงและดำเนินการต่อ
 
 
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = การเปลี่ยนแปลงค่ากำหนดเหล่านี้อาจส่งผลต่อประสิทธิภาพหรือความปลอดภัยของ { -brand-short-name } ได้
 about-config-page-title = ค่ากำหนดขั้นสูง
 about-config-search-input1 =
     .placeholder = ค้นหาชื่อค่ากำหนด
