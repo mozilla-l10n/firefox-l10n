@@ -127,7 +127,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "ยืนยันบัญชีของคุณ">
 
 
- <!-- } is above this key on many keyboards -->
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "ย่อ">
 <!ENTITY fullScreenRestore.tooltip "คืนสภาพ">
@@ -253,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "จัดการการใช้ปลั๊กอิน">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "เลือกว่าคุณสามารถรับการแจ้งเตือนจากไซต์ได้หรือไม่">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "จัดเก็บข้อมูลในที่เก็บข้อมูลถาวร">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "เบราว์เซอร์อยู่ภายใต้การควบคุมระยะไกล">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "เปิดแผง ​Web Authentication">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "เปิดแผงสิทธิอนุญาตกิจกรรมการเรียกดู">
@@ -438,8 +440,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "ต้องการเห็นแท็บของคุณจากอุปกรณ์อื่น ๆ ที่นี่?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "เปิดค่ากำหนด Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ลงชื่อเข้าเพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
+<!ENTITY appMenuRemoteTabs.welcome.label "ดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">
 <!ENTITY appMenuRemoteTabs.unverified.label "บัญชีของคุณจำเป็นต้องได้รับการยืนยัน">
 <!ENTITY appMenuRemoteTabs.signin.label "ลงชื่อเข้า Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "ลงชื่อเข้า &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "เปิด &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "จัดการอุปกรณ์…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ดูแถบข้างแท็บที่ซิงค์">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "ซ่อนแถบข้างแท็บที่ซิงค์">
@@ -974,10 +979,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "ตัวติดตาม">
 
 <!ENTITY contentBlocking.manageSettings.label "จัดการการปิดกั้นเนื้อหา">
-
-<!ENTITY contentBlocking.trackingProtection4.label "ตัวติดตามเนื้อหา">
-
-<!ENTITY contentBlocking.manageSettings2.label "จัดการการตั้งค่าการป้องกัน">
 <!ENTITY contentBlocking.manageSettings.accesskey "จ">
 
 <!ENTITY contentBlocking.trackersView.label "ตัวติดตาม">
@@ -986,6 +987,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "คุกกี้">
 <!ENTITY contentBlocking.cookiesView.label "คุกกี้และข้อมูลไซต์">
 
+<!ENTITY contentBlocking.trackingProtection4.label "ตัวติดตามเนื้อหา">
+
+<!ENTITY contentBlocking.manageSettings2.label "จัดการการตั้งค่าการป้องกัน">
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "ตัวติดตามสังคมออนไลน์">
