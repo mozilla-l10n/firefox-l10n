@@ -43,7 +43,7 @@ graph-today = Täna
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Graafik, mis sisaldab sel nädalal blokitud jälitajate koguarvu iga tüübi kohta.
 social-tab-title = Sotsiaalmeedia jälitajad
-social-tab-contant = Suhtlusvõrgustikud paigaldavad jälitajaid teistele saitidele, et jälgida, mida sa teed, näed või võrgus olles vaatad. See võimaldab sotsiaalmeediaettevõtetel sinu kohta rohkem teada saada, kui ainult seada, mida jagad oma sotsiaalmeedia profiilides. <a data-l10n-name="learn-more-link">Rohkem teavet</a>
+social-tab-contant = Suhtlusvõrgustikud paigaldavad jälitajaid teistele saitidele, et jälgida, mida sa teed, näed või võrgus olles vaatad. See võimaldab sotsiaalmeediaettevõtetel sinu kohta rohkem teada saada kui ainult seda, mida jagad oma sotsiaalmeedia profiilides. <a data-l10n-name="learn-more-link">Rohkem teavet</a>
 cookie-tab-title = Saitideülesed jälitamisküpsised
 cookie-tab-content = Need küpsised jälitavad sind saidilt saidile, et koguda infot sinu veebitegevuse kohta. Neid määravad kolmandad osapooled, näiteks reklaamijad ja analüüsiettevõtted. Saitideüleste küpsiste blokkimisega vähendad reklaame, mis sind veebis jälitavad. <a data-l10n-name="learn-more-link">Rohkem teavet</a>
 tracker-tab-title = Jälitav sisu
@@ -59,6 +59,26 @@ lockwise-header-content-logged-in = Salvesta ja sünkroniseeri oma paroolid turv
 about-logins-view-logins-button = Vaata kasutajakontosid
 protection-report-view-logins-button = Vaata kasutajakontosid
     .title = Ava salvestatud kasutajakontod
+lockwise-no-logins-content = Oma paroolide kõikjale kaasa võtmiseks hangi äpp <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>.
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] turvaliselt salvestatud parool <a data-l10n-name="lockwise-how-it-works">Kuidas see töötab</a>
+       *[other] turvaliselt salvestatud parooli <a data-l10n-name="lockwise-how-it-works">Kuidas see töötab</a>
+    }
+turn-on-sync = Lülita { -sync-brand-short-name } sisse…
+    .title = Ava sünkroniseerimise sätted
+manage-devices = Halda seadmeid
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-sync-status =
+    { $count ->
+        [one] parool on sünkroniseeritud ühte teise seadmesse
+       *[other] parooli on sünkroniseeritud { $count } teise seadmesse
+    }
+lockwise-sync-not-syncing-devices = Sünkroniseerimist teistesse seadmetesse ei toimu
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
