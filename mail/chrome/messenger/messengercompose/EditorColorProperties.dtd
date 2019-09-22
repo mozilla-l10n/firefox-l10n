@@ -2,14 +2,16 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "Kolory strony i tło">
-<!ENTITY pageColors.label  "Kolory strony">
-<!ENTITY defaultColorsRadio.label     "Domyślne kolory czytelnika (nie definiuj kolorów strony)">
+<!ENTITY pageColors.label "Kolory strony">
+<!ENTITY defaultColorsRadio.label "Domyślne kolory czytelnika (nie definiuj kolorów strony)">
 <!ENTITY defaultColorsRadio.accessKey "D">
-<!ENTITY defaultColorsRadio.tooltip   "Użyj ustawień kolorów odbiorcy">
-<!ENTITY customColorsRadio.label      "Używaj wybranych kolorów">
-<!ENTITY customColorsRadio.accessKey  "U">
-<!ENTITY customColorsRadio.tooltip    "Te ustawienia kolorów zastępują ustawienia odbiorcy">
+<!ENTITY defaultColorsRadio.tooltip "Użyj ustawień kolorów odbiorcy">
+<!ENTITY customColorsRadio.label "Używaj wybranych kolorów">
+<!ENTITY customColorsRadio.accessKey "U">
+<!ENTITY customColorsRadio.tooltip "Te ustawienia kolorów zastępują ustawienia odbiorcy">
+
 <!ENTITY normalText.label "Zwykły tekst">
 <!ENTITY normalText.accessKey "Z">
 <!ENTITY linkText.label "Odnośnik">
@@ -24,4 +26,4 @@
 <!ENTITY backgroundImage.label "Obraz tła:">
 <!ENTITY backgroundImage.accessKey "b">
 <!ENTITY backgroundImage.tooltip "Użyj pliku obrazu jako tło dla Twojej strony">
-<!ENTITY backgroundImage.shortenedDataURI "Skrócony adres Data URI (skopiowanie umieści pełny adres w schowku)">
+<!ENTITY backgroundImage.shortenedDataURI "Skrócony adres URI typu „data:” (skopiowanie umieści pełny adres w schowku)">
