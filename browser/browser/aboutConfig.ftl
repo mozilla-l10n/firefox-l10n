@@ -10,6 +10,15 @@ about-config-warning-button = Осыны қабылдаймын!
 about-config2-title = Кеңейтілген баптаулар
 about-config-search-input =
     .placeholder = Іздеу
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Абайлап жалғастырыңыз
+about-config-intro-warning-checkbox = Осы параметрлерді өзгерту кезінде ескертіңіз
+about-config-intro-warning-button = Тәуекелді қабылдап, жалғастыру
+
+
+
 about-config-show-all = Барлығын көрсету
 about-config-pref-add = Қосу
 about-config-pref-toggle = Ауыстыру
