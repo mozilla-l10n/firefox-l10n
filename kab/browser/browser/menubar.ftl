@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Agdil Ačaran
     .accesskey = A
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Sken akk accaren
@@ -212,6 +212,9 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Kcem ɣer { -sync-brand-short-name }…
     .accesskey = Y
+menu-tools-fxa-sign-in =
+    .label = Qqen ɣer { -brand-product-name }...
+    .accesskey = q
 menu-tools-sync-now =
     .label = Mtawi tura
     .accesskey = M
