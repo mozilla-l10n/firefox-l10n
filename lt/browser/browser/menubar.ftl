@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Visas ekranas
     .accesskey = V
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Rodyti visas korteles
@@ -212,12 +212,21 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Jungtis prie „{ -sync-brand-short-name }“…
     .accesskey = Y
+menu-tools-fxa-sign-in =
+    .label = Prisijungti prie „{ -brand-product-name }“…
+    .accesskey = g
+menu-tools-turn-on-sync =
+    .label = Įjungti „{ -sync-brand-short-name }“…
+    .accesskey = n
 menu-tools-sync-now =
     .label = Sinchronizuoti dabar
     .accesskey = S
 menu-tools-sync-re-auth =
     .label = Iš naujo jungtis prie „{ -sync-brand-short-name }“…
     .accesskey = n
+menu-tools-fxa-re-auth =
+    .label = Prisijungti prie „{ -brand-product-name }“ iš naujo…
+    .accesskey = r
 menu-tools-web-developer =
     .label = Saityno kūrėjams
     .accesskey = k
