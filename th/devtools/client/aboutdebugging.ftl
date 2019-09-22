@@ -84,6 +84,8 @@ about-debugging-setup-title = ตั้งค่า
 about-debugging-setup-intro = กำหนดค่าวิธีการเชื่อมต่อที่คุณต้องการดีบั๊กอุปกรณ์ของคุณจากระยะไกล
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = ใช้ <a>{ about-debugging-this-firefox-runtime-name }</a> เพื่อดีบั๊กแท็บ, ส่วนขยายและตัวทำงานบริการบน { -brand-shorter-name } รุ่นนี้
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = ใช้ <a>{ about-debugging-this-firefox-runtime-name }</a> เพื่อดีบั๊กส่วนขยายและตัวทำงานบริการบน { -brand-shorter-name } รุ่นนี้
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = เชื่อมต่ออุปกรณ์
 # USB section of the Setup page
@@ -131,10 +133,14 @@ about-debugging-network-locations-host-input-label = โฮสต์
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = เอาออก
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = โฮสต์ “{ $host-value }” ไม่ถูกต้อง รูปแบบที่ต้องการคือ “hostname:portnumber”
 # Text used as error message if the input value was already registered in the network locations form of the Setup page.
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
-about-debugging-network-location-form-duplicate = มีการลงทะเบียน “{ $host-value }” อยู่แล้ว
+about-debugging-network-location-form-duplicate = โฮสต์ “{ $host-value }” ถูกลงทะเบียนแล้ว
 
 # Runtime Page strings
 
@@ -168,6 +174,20 @@ about-debugging-runtime-profile-button2 = ประสิทธิภาพโ�
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = การกำหนดค่าเบราว์เซอร์ของคุณเข้ากันไม่ได้กับตัวทำงานบริการ <a>เรียนรู้เพิ่มเติม</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = แผงตัวดีบั๊กอาจไม่ทำงานกับเบราว์เซอร์ที่เชื่อมต่อ โปรดใช้ Firefox { $runtimeVersion } หากคุณต้องการใช้ตัวดีบั๊กกับเบราว์เซอร์นี้
+# This string is displayed in the runtime page if the remote browser version is too recent.
+# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
+# { $localID } is the build ID of the current Firefox instance (same format)
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $localVersion } is the version of your current browser (same format)
+about-debugging-browser-version-too-recent = เบราว์เซอร์ที่เชื่อมต่อเป็นรุ่น ({ $runtimeVersion }, buildID { $runtimeID }) ซึ่งใหม่กว่า { -brand-shorter-name } ({ $localVersion }, buildID { $localID }) ซึ่งไม่รองรับและอาจทำให้ DevTools ทำงานล้มเหลวได้ โปรดอัปเดต Firefox <a>การแก้ไขปัญหา</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"

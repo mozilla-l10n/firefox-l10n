@@ -138,3 +138,4 @@ cfr-doorhanger-socialtracking-ok-button = ดูการป้องกัน
     .accesskey = ด
 cfr-doorhanger-socialtracking-close-button = ปิด
     .accesskey = ป
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } ได้หยุดเครือข่ายสังคมไม่ให้ติดตามคุณที่นี่

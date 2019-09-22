@@ -15,11 +15,14 @@ accessibility-warning =
     .alt = คำเตือน
 accessibility-fail =
     .alt = ข้อผิดพลาด
+accessibility-best-practices =
+    .alt = วิธีปฏิบัติที่ดีที่สุด
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
+accessibility-text-label-issue-dialog = กล่องโต้ตอบควรมีป้ายชื่อ <a>เรียนรู้เพิ่มเติม</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
