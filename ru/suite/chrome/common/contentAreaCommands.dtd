@@ -155,6 +155,16 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "Я">
 <!ENTITY spellAddDictionaries.label     "Загрузить дополнительные словари…">
 <!ENTITY spellAddDictionaries.accesskey "З">
+
+<!ENTITY fillLoginMenu.label          "Ввести логин">
+<!ENTITY fillLoginMenu.accesskey      "е">
+<!ENTITY fillPasswordMenu.label       "Ввести пароль">
+<!ENTITY fillPasswordMenu.accesskey   "е">
+<!ENTITY fillUsernameMenu.label       "Ввести имя пользователя">
+<!ENTITY fillUsernameMenu.accesskey   "е">
+<!ENTITY noLoginSuggestions.label     "(Нет предложений для логинов)">
+<!ENTITY viewSavedLogins.label        "Просмотр сохранённых логинов">
+
 <!-- Developer Tools -->
 <!ENTITY devtoolsInspect.label          "Исследовать элемент">
 <!ENTITY devtoolsInspect.accesskey      "е">
