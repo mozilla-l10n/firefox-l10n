@@ -22,7 +22,11 @@ accessibility-best-practices =
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
+accessibility-text-label-issue-area = ใช้แอตทริบิวต์ <code>alt</code> เพื่อกำหนดป้ายชื่อให้กับองค์ประกอบ <div>area</div> ที่มีแอตทริบิวต์ <span>href</span> <a>เรียนรู้เพิ่มเติม</a>
 accessibility-text-label-issue-dialog = กล่องโต้ตอบควรมีป้ายชื่อ <a>เรียนรู้เพิ่มเติม</a>
+accessibility-text-label-issue-document-title = เอกสารต้องมี <code>title</code> <a>เรียนรู้เพิ่มเติม</a>
+accessibility-text-label-issue-embed = เนื้อหาที่ฝังต้องมีป้ายชื่อ <a>เรียนรู้เพิ่มเติม</a>
+accessibility-text-label-issue-form = องค์ประกอบแบบฟอร์มต้องมีป้ายชื่อ <a>เรียนรู้เพิ่มเติม</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
