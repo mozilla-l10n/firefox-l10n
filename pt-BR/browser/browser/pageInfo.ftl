@@ -14,8 +14,6 @@ select-all =
 menu-select-all =
     .label = Selecionar tudo
     .accesskey = S
-close-window =
-    .key = a
 close-dialog =
     .key = w
 general-tab =
@@ -167,7 +165,7 @@ security-visits-number =
     { $visits ->
         [0] Não
         [one] Sim, uma vez
-       *[other] SIm, { $visits } vezes
+       *[other] Sim, { $visits } vezes
     }
 # This string is used to display the size of a media file
 # Variables:
