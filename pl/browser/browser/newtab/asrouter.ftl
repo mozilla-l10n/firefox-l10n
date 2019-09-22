@@ -135,7 +135,7 @@ cfr-doorhanger-sync-logins-ok-button = Włącz { -sync-brand-short-name(case: "a
 cfr-doorhanger-send-tab-header = Przeczytaj to w podróży
 cfr-doorhanger-send-tab-recipe-header = Zabierz ten przepis do kuchni
 cfr-doorhanger-send-tab-body = Funkcja przesyłania kart umożliwia łatwe wysłanie tego odnośnika na telefon lub wszędzie, gdzie korzystasz z przeglądarki { -brand-product-name }.
-cfr-doorhanger-send-tab-ok-button = Wypróbuj wysyłanie kart
+cfr-doorhanger-send-tab-ok-button = Wypróbuj przesyłanie kart
     .accesskey = W
 
 ## Firefox Send
