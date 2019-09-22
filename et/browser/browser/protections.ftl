@@ -110,6 +110,18 @@ info-exposed-passwords-found =
        *[other] parooli on paljastatud kõigi lekete tõttu
     }
 full-report-link = Vaata kogu raportit <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }ist</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] salvestatud kasutajakonto andmed võivad olla lekkinud. Parema turvalisuse nimel muuda selle konto parool. <a data-l10n-name="lockwise-link">Vaata salvestatud kasutajakontosid</a>
+       *[other] salvestatud kasutajakonto andmed võivad olla lekkinud. Parema turvalisuse nimel muuda nende kontode paroolid. <a data-l10n-name="lockwise-link">Vaata salvestatud kasutajakontosid</a>
+    }
+# This is the title attribute describing the graph report's link to about:settings#privacy
+go-to-privacy-settings = Ava privaatsuse sätted
+# This is the title attribute describing the Lockwise card's link to about:logins
+go-to-saved-logins = Vaata salvestatud kasutajakontosid
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -118,3 +130,38 @@ full-report-link = Vaata kogu raportit <a data-l10n-name="monitor-inline-link">{
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Sotsiaalmeedia jälitajad
+    .aria-label =
+        { $count ->
+            [one] üks sotsiaalmeedia jälitaja ({ $percentage }%)
+           *[other] { $count } sotsiaalmeedia jälitajat ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Saitideülesed jälitamisküpsised
+    .aria-label =
+        { $count ->
+            [one] üks saitideülese jälitamise küpsis ({ $percentage }%)
+           *[other] { $count } saitideülese jälitamise küpsist ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Jälitav sisu
+    .aria-label =
+        { $count ->
+            [one] üks jälitav sisu ({ $percentage }%)
+           *[other] { $count } jälitavat sisu ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Seadmetuvastajad
+    .aria-label =
+        { $count ->
+            [one] üks seadmetuvastaja ({ $percentage }%)
+           *[other] { $count } seadmetuvastajat ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Krüptorahakaevurid
+    .aria-label =
+        { $count ->
+            [one] üks krüptorahakaevur ({ $percentage }%)
+           *[other] { $count } krüptorahakaevurit ({ $percentage }%)
+        }
