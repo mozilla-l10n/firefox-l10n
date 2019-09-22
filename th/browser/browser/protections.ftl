@@ -29,6 +29,7 @@ lockwise-sync-status =
        *[other] กำลังซิงค์กับอุปกรณ์อื่น ๆ { $count } เครื่อง
     }
 monitor-link = มันทำงานอย่างไร
+monitor-sign-up = ลงทะเบียนเพื่อรับการเตือนการรั่วไหล
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = ไปที่การตั้งค่าความเป็นส่วนตัว
 # This is the title attribute describing the Lockwise card's link to about:logins

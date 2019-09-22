@@ -121,13 +121,15 @@ cfr-doorhanger-sync-logins-ok-button = เปิด { -sync-brand-short-name }
 
 cfr-doorhanger-send-tab-header = อ่านสิ่งนี้ได้ทุกที่
 cfr-doorhanger-send-tab-recipe-header = นำสูตรอาหารนี้ไปที่ห้องครัว
-cfr-doorhanger-send-tab-ok-button = ลองส่งแท็บ
+cfr-doorhanger-send-tab-body = คุณลักษณะการส่งแท็บช่วยให้คุณสามารถแบ่งปันลิงก์นี้ไปที่โทรศัพท์ของคุณหรือที่ไหนก็ได้ที่คุณลงชื่อเข้า { -brand-product-name } ได้อย่างง่ายดาย
+cfr-doorhanger-send-tab-ok-button = ลองใช้คุณลักษณะการส่งแท็บ
     .accesskey = ล
 
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = แบ่งปัน PDF นี้อย่างปลอดภัย
-cfr-doorhanger-firefox-send-ok-button = ลอง { -send-brand-name }
+cfr-doorhanger-firefox-send-body = รักษาเอกสารสำคัญของคุณให้ปลอดภัยจากการสอดส่องด้วยการเข้ารหัสจากต้นทางถึงปลายทางและลิงก์ที่จะหายไปเมื่อคุณทำงานกับเอกสารเหล่านั้นเสร็จแล้ว
+cfr-doorhanger-firefox-send-ok-button = ลองใช้ { -send-brand-name }
     .accesskey = ล
 
 ## Social Tracking Protection

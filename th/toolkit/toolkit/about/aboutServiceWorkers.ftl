@@ -22,6 +22,7 @@ origin-title = แหล่งที่มา: { $originTitle }
 ##  $url: the url of script specification and current worker.
 
 scope = <strong>ขอบเขต:</strong> { $name }
+script-spec = <strong>ข้อมูลจำเพาะของสคริปต์:</strong> <a data-l10n-name="link">{ $url }</a>
 current-worker-url = <strong>URL ของตัวทำงานปัจจุบัน:</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>ชื่อแคชที่ใช้งานอยู่:</strong> { $name }
 waiting-cache-name = <strong>ชื่อแคชที่กำลังรออยู่:</strong> { $name }
