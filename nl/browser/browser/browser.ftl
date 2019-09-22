@@ -53,6 +53,6 @@ urlbar-addons-notification-anchor =
 page-action-add-to-urlbar =
     .label = Toevoegen aan adresbalk
 page-action-manage-extension =
-    .label = Extensies beheren…
+    .label = Extensie beheren…
 page-action-remove-from-urlbar =
     .label = Verwijderen van adresbalk
