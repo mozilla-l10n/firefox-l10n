@@ -97,8 +97,10 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = ตั้งแต่ { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = ดูรายงาน
 cfr-whatsnew-lockwise-backup-title = สำรองรหัสผ่านของคุณ
+cfr-whatsnew-lockwise-backup-body = คุณสามารถสร้างรหัสผ่านที่ปลอดภัยซึ่งสามารถเข้าถึงได้ทุกที่ที่คุณลงชื่อเข้าได้แล้วตอนนี้
 cfr-whatsnew-lockwise-backup-link-text = เปิดการสำรองข้อมูล
 cfr-whatsnew-lockwise-take-title = นำรหัสผ่านของคุณไปกับคุณ
+cfr-whatsnew-lockwise-take-body = แอปมือถือ { -lockwise-brand-short-name } ช่วยให้คุณเข้าถึงรหัสผ่านที่สำรองไว้ของคุณจากทุกที่ได้อย่างปลอดภัย
 cfr-whatsnew-lockwise-take-link-text = รับแอป
 
 ## Bookmark Sync
@@ -110,11 +112,15 @@ cfr-doorhanger-sync-bookmarks-ok-button = เปิด { -sync-brand-short-name 
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = ไม่ต้องกลัวทำรหัสผ่านหายอีกต่อไป
+cfr-doorhanger-sync-logins-body = เก็บและซิงค์รหัสผ่านของคุณกับอุปกรณ์ทั้งหมดอย่างปลอดภัย
 cfr-doorhanger-sync-logins-ok-button = เปิด { -sync-brand-short-name }
     .accesskey = ป
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = อ่านสิ่งนี้ได้ทุกที่
+cfr-doorhanger-send-tab-recipe-header = นำสูตรอาหารนี้ไปที่ห้องครัว
 cfr-doorhanger-send-tab-ok-button = ลองส่งแท็บ
     .accesskey = ล
 
