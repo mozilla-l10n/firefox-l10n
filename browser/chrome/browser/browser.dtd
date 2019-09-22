@@ -36,9 +36,9 @@ unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "O">
 <!ENTITY  sendPageToDevice.label             "Wyślij stronę do">
-<!ENTITY  sendPageToDevice.accesskey         "P">
+<!ENTITY  sendPageToDevice.accesskey         "W">
 <!ENTITY  sendLinkToDevice.label             "Wyślij odnośnik do">
-<!ENTITY  sendLinkToDevice.accesskey         "P">
+<!ENTITY  sendLinkToDevice.accesskey         "W">
 <!ENTITY  undoCloseTab.label                 "Przywróć zamkniętą kartę">
 <!ENTITY  undoCloseTab.accesskey             "P">
 <!ENTITY  hiddenTabs.label                   "Ukryte karty">
