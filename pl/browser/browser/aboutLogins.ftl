@@ -62,6 +62,9 @@ about-logins-login-list-empty-search-description = Brak wyników pasujących do 
 login-list-item-title-new-login = Nowe dane logowania
 login-list-item-subtitle-new-login = Wprowadź dane logowania
 login-list-item-subtitle-missing-username = (bez nazwy użytkownika)
+about-logins-list-item-warning-icon =
+    .alt = Ikona ostrzeżenia
+    .title = Witryna z wyciekiem haseł
 
 ## Introduction screen
 
@@ -80,8 +83,6 @@ login-item-origin-label = Adres witryny
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nazwa użytkownika
-login-item-username =
-    .placeholder = e-mail@example.com
 about-logins-login-item-username =
     .placeholder = (bez nazwy użytkownika)
 login-item-copy-username-button-text = Kopiuj
