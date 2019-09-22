@@ -156,8 +156,11 @@ items are mutually exclusive. -->
 <!ENTITY spellAddDictionaries.label     "Hämta fler ordlistor…">
 <!ENTITY spellAddDictionaries.accesskey "ä">
 
+<!ENTITY fillLoginMenu.label          "Fyll i inloggning">
 <!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillPasswordMenu.label       "Fyll i lösenord">
 <!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.label       "Fyll i användarnamn">
 <!ENTITY fillUsernameMenu.accesskey   "F">
 <!ENTITY noLoginSuggestions.label     "(Inga inloggningsförslag)">
 <!ENTITY viewSavedLogins.label        "Visa sparade inloggningar">
