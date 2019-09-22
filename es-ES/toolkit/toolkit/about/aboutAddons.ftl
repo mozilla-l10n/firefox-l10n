@@ -98,9 +98,11 @@ detail-private-browsing-description2 = Cuando esté permitido, la extensión ten
 # cannot be overridden by the user.
 detail-private-disallowed-label = No se permite en ventanas privadas
 detail-private-disallowed-description = Esta extensión no se ejecuta durante la navegación privada. <label data-l10n-name="detail-private-browsing-learn-more">Descubra más</label>
+detail-private-disallowed-description2 = Esta extensión no se ejecuta mientras esté en navegación privada. <a data-l10n-name="learn-more">Saber más</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Necesita acceder a ventanas privadas
 detail-private-required-description = Esta extensión tiene acceso a sus actividades en línea mientras navega de forma privada. <label data-l10n-name="detail-private-browsing-learn-more">Descubra más</label>
+detail-private-required-description2 = Esta extensión tiene acceso a su actividad en línea mientras navega de forma privada. <a data-l10n-name="learn-more">Saber más</a>
 detail-private-browsing-on =
     .label = Permitir
     .tooltiptext = Activar en navegación privada
