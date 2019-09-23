@@ -245,6 +245,14 @@ applications-type-column =
 applications-action-column =
     .label = कृती
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = डिजिटल हक्क व्यवस्थापन (डीआरएम) मजकूर
 play-drm-content =
     .label = डीआरएम-नियंत्रित मजकूर चालवा
@@ -577,6 +585,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = मास्टर पासवर्ड बदलवा…
     .accesskey = M
+forms-master-pw-fips-title = आपण सध्या एफआयपीएस् (FIPS) स्थितीमध्ये आहात. एफआयपीएस् (FIPS) साठी रिकामे मुख्य पासवर्ड चालणार नाही.
+forms-master-pw-fips-desc = पासवर्ड बदल अयशस्वी
 
 ## Privacy Section - History
 
