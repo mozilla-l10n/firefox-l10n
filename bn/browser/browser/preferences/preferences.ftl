@@ -271,6 +271,8 @@ applications-use-other =
 applications-select-helper = সহায়ক অ্যাপ্লিকেশন নির্বাচন করুন
 applications-manage-app =
     .label = অ্যাপ্লিকেশনের বিবরণ…
+applications-always-ask =
+    .label = সর্বদা জিজ্ঞাসা কর
 applications-type-pdf = বহনযোগ্য ডকুমেন্ট ফরম্যাট (পিডিএফ)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
