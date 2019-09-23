@@ -276,6 +276,7 @@ applications-manage-app =
     .label = Detalji programa…
 applications-always-ask =
     .label = Uvijek pitaj
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
