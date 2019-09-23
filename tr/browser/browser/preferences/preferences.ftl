@@ -271,6 +271,8 @@ applications-use-other =
 applications-select-helper = Yardımcı uygulamayı seçin
 applications-manage-app =
     .label = Uygulama ayrıntıları…
+applications-always-ask =
+    .label = Her zaman sor
 applications-type-pdf = Taşınabilir Belge Biçimi (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
