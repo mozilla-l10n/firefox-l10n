@@ -629,6 +629,7 @@ forms-master-pw-change =
     .label = Endre hovedpassord …
     .accesskey = d
 forms-master-pw-fips-title = Du er i FIPS-modus. FIPS krever at du bruker et hovedpassord.
+forms-master-pw-fips-desc = Passordendring mislyktes
 
 ## Privacy Section - History
 
