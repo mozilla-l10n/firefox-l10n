@@ -249,6 +249,9 @@ applications-type-column =
 applications-action-column =
     .label = Accion
     .accesskey = A
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = fichièr { $extension }
 applications-action-save =
     .label = Enregistrar lo fichièr
 # Variables:
