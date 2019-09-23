@@ -566,6 +566,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Փոխել Հիմնական գաղտնաբառը…
     .accesskey = Հ
+forms-master-pw-fips-title = Դուք այժմ օգտագործում էք FIPS եղանակը: FIPS-ը պահանջում է Հիմնական Գաղտնաբառի օգտագործում:
 forms-master-pw-fips-desc = Գաղտնաբառի Փոփոխությունը Չհաջողվեց
 
 ## Privacy Section - History
