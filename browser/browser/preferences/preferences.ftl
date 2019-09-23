@@ -204,6 +204,14 @@ applications-type-column =
 applications-action-column =
     .label = Gníomh
     .accesskey = G
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Ábhar DRM (Bainistíocht Ceart Digiteach)
 play-drm-content =
     .label = Seinn ábhar DRM
@@ -447,6 +455,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Athraigh an Príomhfhocal Faire…
     .accesskey = P
+forms-master-pw-fips-title = Tá tú i mód FIPS faoi láthair. Tá Príomhfhocal Faire neamhfholamh ag teastáil ó FIPS.
+forms-master-pw-fips-desc = Theip ar athrú an fhocail faire.
 
 ## Privacy Section - History
 
