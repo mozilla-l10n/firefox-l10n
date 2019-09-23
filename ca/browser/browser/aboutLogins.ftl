@@ -61,6 +61,9 @@ about-logins-login-list-empty-search-description = No hi ha cap resultat que coi
 login-list-item-title-new-login = Inici de sessió nou
 login-list-item-subtitle-new-login = Introduïu les credencials d'inici de sessió
 login-list-item-subtitle-missing-username = (cap nom d'usuari)
+about-logins-list-item-warning-icon =
+    .alt = Icona d'avís
+    .title = Lloc web amb filtració de dades
 
 ## Introduction screen
 
