@@ -271,6 +271,7 @@ applications-use-other =
 applications-select-helper = Yardımcı uygulamayı seçin
 applications-manage-app =
     .label = Uygulama ayrıntıları…
+applications-type-pdf = Taşınabilir Belge Biçimi (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -282,6 +283,8 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } kullan ({ -brand-short-name } içinde)
+applications-preview-inapp =
+    .label = { -brand-short-name } ile ön izleme yap
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
