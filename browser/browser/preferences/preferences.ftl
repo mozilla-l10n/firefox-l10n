@@ -642,6 +642,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Změnit hlavní heslo…
     .accesskey = m
+forms-master-pw-fips-title = Momentálně jste v režimu FIPS, který vyžaduje neprázdné hlavní heslo.
 forms-master-pw-fips-desc = Neúspěšná změna hesla
 
 ## Privacy Section - History
