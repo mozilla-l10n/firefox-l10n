@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Acziun
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Cuntegn DRM (Digital Rights Management)
 play-drm-content =
     .label = Far ir cuntegn controllà da DRM
@@ -620,6 +628,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Midar il pled-clav universal…
     .accesskey = d
+forms-master-pw-fips-title = Ti es actualmain en il modus FIPS. FIPS pretenda in pled-clav universal.
+forms-master-pw-fips-desc = I n'è betg reussì da midar il pled-clav
 
 ## Privacy Section - History
 
@@ -756,7 +766,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Persunalisà
     .accesskey = u
 
-
+##
 
 content-blocking-etp-standard-desc = Equiliber tranter protecziun e prestaziun. Paginas chargian normal.
 content-blocking-etp-strict-desc = Ina protecziun pli severa, ma po avair per consequenza che tschertas websites u tscherts cuntegns na funcziuneschan betg pli.
