@@ -256,6 +256,8 @@ applications-action-column =
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } file
+applications-action-save =
+    .label = I-save ang File
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
@@ -266,8 +268,12 @@ applications-use-app-default =
     .label = Gamitin ang { $app-name } (default)
 applications-use-other =
     .label = Gumamit ng iba...
+applications-select-helper = Piliin ang Helper na Applikasyon
+applications-manage-app =
+    .label = Mga Detalye ng Applikasyon…
 applications-always-ask =
     .label = Palaging itanong
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
