@@ -253,8 +253,25 @@ applications-type-column =
 applications-action-column =
     .label = פעולה
     .accesskey = פ
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = קובץ { $extension }‏
+applications-action-save =
+    .label = שמירת קובץ
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = שימוש ב־{ $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = שימוש ב־{ $app-name } (ברירת מחדל)
+applications-use-other =
+    .label = שימוש ביישום אחר…
 applications-manage-app =
     .label = פרטי יישום…
+applications-always-ask =
+    .label = לשאול תמיד
 applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
