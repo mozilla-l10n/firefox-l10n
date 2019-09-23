@@ -265,6 +265,14 @@ applications-type-column =
 applications-action-column =
     .label = Gweithred
     .accesskey = G
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Cynnwys Rheoli Hawliau Digidol (DRM)
 play-drm-content =
     .label = Chwarae cynnwys wedi ei reoli gan DRM
@@ -636,6 +644,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Newid y Prif Gyfrinair…
     .accesskey = N
+forms-master-pw-fips-title = Rydych ym modd FIPS. Mae FIPS angen Prif Gyfrinair nad yw'n wag.
+forms-master-pw-fips-desc = Methu Newid eich Cyfrinair
 
 ## Privacy Section - History
 
@@ -776,7 +786,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Cyfaddas
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = Cydbwysedd rhwng diogelwch a pherfformiad. Bydd tudalennau'n llwytho fel arfer.
 content-blocking-etp-strict-desc = Diogelwch cryfach, ond gall achosi i rai gwefannau neu gynnwys dorri.
