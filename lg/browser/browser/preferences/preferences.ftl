@@ -88,6 +88,14 @@ applications-type-column =
 applications-action-column =
     .label = Ekola
     .accesskey = E
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 update-application-use-service =
     .label = Kozesa empereza ekolera emabega okutekamu ebituusa
     .accesskey = e
@@ -182,6 +190,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Kyuusa Ekisumuluzo Ekifuga byonna…
     .accesskey = E
+forms-master-pw-fips-title = Kati olimu FIPS modi. FIPS enyagala Akasumulizo ka Masita okubamu.
+forms-master-pw-fips-desc = Okukyuusa Akasumulizo ku Ganye
 
 ## Privacy Section - History
 
