@@ -253,6 +253,11 @@ applications-action-column =
     .label = Açion
     .accesskey = A
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = schedaio { $extension }
+applications-action-save =
+    .label = Sarva schedaio
+# Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Adeuvia { $app-name }
