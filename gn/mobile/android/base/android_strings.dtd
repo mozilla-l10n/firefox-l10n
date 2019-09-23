@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Moherakuã">
 <!ENTITY share_title "Omoherakuã">
 <!ENTITY share_image_failed "Ndaikatúi emoherakuã ko ta\&apos;ãnga">
+<!ENTITY share_error_toast_message "Ani emoherakuã tembipuru’i ndive">
 <!ENTITY save_as_pdf "Eñongatu PDF ramo">
 <!ENTITY print "Ñemonguatia">
 <!ENTITY view_page_source "Kuatia ñepyrũha jehecha">
