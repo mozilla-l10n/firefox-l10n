@@ -269,6 +269,7 @@ applications-manage-app =
     .label = جزئیات برنامه…
 applications-always-ask =
     .label = هر بار پرسیده شود
+applications-type-pdf = قالب پروندهٔ همراه (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
