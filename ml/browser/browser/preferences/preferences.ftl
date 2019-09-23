@@ -210,6 +210,9 @@ applications-type-column =
 applications-action-column =
     .label = പ്രവര്‍ത്തി
     .accesskey = A
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } ഫയല്‍
 applications-action-save =
     .label = ഫയല്‍ സൂക്ഷിക്കുക
 # Variables:
@@ -220,10 +223,14 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } (സ്വതവേയുള്ളതു്) ഉപയോഗിക്കുക
+applications-use-other =
+    .label = മറ്റുള്ളതു് ഉപയോഗിയ്ക്കുക...
+applications-select-helper = ഹെല്‍പ്പര്‍ അപ്ലിക്കേഷന്‍ തെരഞ്ഞെടുക്കുക
 applications-manage-app =
     .label = പ്രയോഗത്തിന്റെ വിശദാംശങ്ങള്‍…
 applications-always-ask =
     .label = എപ്പോഴും ചോദിക്കുക
+applications-type-pdf = പോര്‍ട്ടബിള്‍ ഡോക്യുമെന്റ് ഫോര്‍മാറ്റ് (പിഡിഎഫ്)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -231,6 +238,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = { $plugin-name } ഉപയോഗിക്കുക ({ -brand-short-name }-ല്‍)
 applications-preview-inapp =
     .label = { -brand-short-name }-ല്‍ ഒരു നോക്ക് കാണുക
 
