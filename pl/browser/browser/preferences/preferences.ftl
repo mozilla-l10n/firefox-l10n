@@ -256,6 +256,14 @@ applications-type-column =
 applications-action-column =
     .label = Czynność
     .accesskey = C
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Treści DRM (Digital Rights Management)
 play-drm-content =
     .label = Odtwarzanie treści chronionych przez DRM.
@@ -624,6 +632,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Zmień hasło główne…
     .accesskey = Z
+forms-master-pw-fips-title = Program pracuje obecnie w trybie FIPS. Tryb FIPS wymaga niepustego hasła głównego.
 
 ## Privacy Section - History
 
@@ -764,7 +773,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Własna
     .accesskey = W
 
-
+##
 
 content-blocking-etp-standard-desc = Równowaga między bezpieczeństwem a szybkością wczytywania stron. Strony będą działać bez problemów.
 content-blocking-etp-strict-desc = Silniejsza ochrona, ale może powodować niepoprawne działanie niektórych stron.
