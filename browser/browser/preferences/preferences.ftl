@@ -242,6 +242,14 @@ applications-type-column =
 applications-action-column =
     .label = Գործողություն
     .accesskey = Գ
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Digital Rights Management (DRM) բովանդակություն
 play-drm-content =
     .label = Նվագարկել DRM-ղեկավարվող բովանդակությունը
@@ -558,6 +566,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Փոխել Հիմնական գաղտնաբառը…
     .accesskey = Հ
+forms-master-pw-fips-desc = Գաղտնաբառի Փոփոխությունը Չհաջողվեց
 
 ## Privacy Section - History
 
