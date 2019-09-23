@@ -121,6 +121,7 @@ applications-manage-app =
     .label = ପ୍ରୟୋଗ ବିବରଣୀ…
 applications-always-ask =
     .label = ସର୍ବଦା ପଚାରନ୍ତୁ
+applications-type-pdf = ବହନୀୟ ଦଲିଲ ସଜ୍ଜିକରଣ ଶୈଳୀ (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
