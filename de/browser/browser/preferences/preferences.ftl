@@ -258,6 +258,14 @@ applications-action-column =
 applications-file-ending = { $extension }-Datei
 applications-action-save =
     .label = Datei speichern
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Mit { $app-name } öffnen
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Mit { $app-name } öffnen (Standard)
 applications-use-other =
     .label = Andere Anwendung…
 applications-select-helper = Hilfsanwendung wählen
@@ -265,6 +273,7 @@ applications-manage-app =
     .label = Anwendungsdetails…
 applications-always-ask =
     .label = Jedes Mal nachfragen
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
