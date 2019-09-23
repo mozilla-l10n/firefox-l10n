@@ -233,6 +233,14 @@ applications-type-column =
 applications-action-column =
     .label = Tindakan
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Kandungan Digital Rights Management (DRM)
 play-drm-content =
     .label = Mainkan kandungan kawalan-DRM
@@ -559,6 +567,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Tukar Kata laluan Induk…
     .accesskey = T
+forms-master-pw-fips-title = Anda kini berada dalam mod FIPS. FIPS memerlukan Kata laluan Induk bukan-kosong.
+forms-master-pw-fips-desc = Kata laluan Gagal Ditukar
 
 ## Privacy Section - History
 
