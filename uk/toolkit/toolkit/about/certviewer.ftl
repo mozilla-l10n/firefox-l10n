@@ -43,11 +43,26 @@ certificate-viewer-purposes = Призначення
 certificate-viewer-qualifier = Кваліфікатор
 certificate-viewer-qualifiers = Кваліфікатори
 certificate-viewer-required = Обов'язково
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-state-province = Область/Регіон
+certificate-viewer-state-province = Область/Регіон
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Серійний номер
 certificate-viewer-signature-algorithm = Алгоритм підпису
 certificate-viewer-signature-scheme = Схема підпису
+certificate-viewer-timestamp = Мітка часу
 certificate-viewer-value = Значення
 certificate-viewer-version = Версія
 certificate-viewer-business-category = Бізнес-категорія
+# This message is used as a row header in the Miscellaneous section. 
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Завантажити
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] Так
+       *[false] Ні
+    }
