@@ -231,6 +231,14 @@ applications-type-column =
 applications-action-column =
     .label = Akcija
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Digital Rights Management (DRM) sadržaj
 play-drm-content =
     .label = Reproduciraj DRM-kontrolisani sadržaj
@@ -540,6 +548,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Promijeni glavnu lozinku…
     .accesskey = m
+forms-master-pw-fips-title = Trenutno ste u FIPS režimu. FIPS zahtjeva postojanje glavne lozinke.
+forms-master-pw-fips-desc = Neuspješna izmjena lozinke
 
 ## Privacy Section - History
 
@@ -610,6 +620,13 @@ addressbar-locbar-openpage-option =
 addressbar-suggestions-settings = Promijenite postavke prijedloga pretraživača
 
 ## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
 
 
 ## Privacy Section - Tracking
