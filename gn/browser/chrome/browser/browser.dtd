@@ -168,8 +168,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "Eike &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Emyandy &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Mba'ete">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; Mba'epuru">
+
+<!ENTITY fxa.menu.account.label "Mba'ete">
+<!ENTITY fxa.menu.settings.label "Ñemboheko">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -983,10 +985,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Tapykuehohára">
 
 <!ENTITY contentBlocking.manageSettings.label "Eñangareko tetepy jejoko rehe">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Tetepy jehapykueho">
-
-<!ENTITY contentBlocking.manageSettings2.label "Eñangareko ñemo’ã ñembohekóre">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Hekahára">
@@ -995,6 +993,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Kookie">
 <!ENTITY contentBlocking.cookiesView.label "Kookie ha mba’ekuaarã renda rehegua">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Tetepy jehapykueho">
+
+<!ENTITY contentBlocking.manageSettings2.label "Eñangareko ñemo’ã ñembohekóre">
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Ava ñandutieta vore rapykuehoha">
