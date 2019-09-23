@@ -253,8 +253,12 @@ applications-type-column =
 applications-action-column =
     .label = Ação
     .accesskey = A
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = Ficheiro { $extension }
 applications-action-save =
     .label = Guardar ficheiro
+applications-select-helper = Selecione a aplicação auxiliar
 applications-always-ask =
     .label = Perguntar sempre
 applications-type-pdf = Portable Document Format (PDF)
@@ -265,6 +269,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Utilizar { $plugin-name } (em { -brand-short-name })
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
