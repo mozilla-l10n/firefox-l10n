@@ -27,9 +27,9 @@
 <!ENTITY firstrun_sync_subtext2 "Bruk Sync for å finne bokmerker, passord og andre ting som du lagrer i &brandShortName; på alle dine enheter.">
 <!ENTITY newfirstrun_sync_subtext "Synkroniser det du lagrer på mobilen til Firefox for datamaskiner, privat og sikkert.">
 <!ENTITY updatednewfirstrun_sync_subtext "Logg inn på kontoen din for å få mest mulig ut av &brandShortName;">
+<!ENTITY firstrun_signin_message "Koble til og kom i gang">
 <!ENTITY firstrun_sendtab_title "Send fane">
 <!ENTITY firstrun_sendtab_message "Del faner fra mobil til datamaskin — øyeblikkelig.">
-<!ENTITY firstrun_signin_message "Koble til og kom i gang">
 <!ENTITY firstrun_signin_button "Logg inn for å synkronisere">
 <!ENTITY newfirstrun_signin_button "Aktiver Sync">
 <!ENTITY updatednewfirstrun_signin_button "Logg inn på &brandShortName;">
@@ -38,8 +38,6 @@
 <!ENTITY firstrun_button_next "Neste">
 
 <!ENTITY firstrun_signin_button2 "Logg inn">
-
-<!ENTITY firstrun_signup_button "Registrer deg">
 
 <!ENTITY firstrun_tabqueue_title "Lenker">
 
@@ -51,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Du">
 <!ENTITY firstrun_account_message "Har &brandShortName; på en annen enhet?">
+
+<!ENTITY firstrun_signup_button "Registrer deg">
 
 <!ENTITY  onboard_start_restricted1 "Vær trygg og ha kontroll med denne forenklede versjonen av &brandShortName;.">
 
@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Del">
 <!ENTITY share_title "Del via">
 <!ENTITY share_image_failed "Klarte ikke dele dette bildet">
+<!ENTITY share_error_toast_message "Klarte ikke dele med den angitte appen">
 <!ENTITY save_as_pdf "Lagre som PDF">
 <!ENTITY print "Skriv ut">
 <!ENTITY view_page_source "Vis kildekode">
@@ -695,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Du er tilkoblet">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
