@@ -279,6 +279,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = { $plugin-name } ব্যবহার করা হবে ({ -brand-short-name } তে)
 applications-preview-inapp =
     .label = { -brand-short-name }-র ভেতর প্রদর্শন করা হবে
 
