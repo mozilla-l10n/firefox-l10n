@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = ქმედება
     .accesskey = ქ
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = ციფრული უფლებების მართვის (DRM) შიგთავსი
 play-drm-content =
     .label = DRM-ს დაქვემდებარებული შიგთავსის გაშვება
@@ -616,6 +624,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = მთავარი პაროლის შეცვლა…
     .accesskey = მ
+forms-master-pw-fips-title = თქვენ FIPS რეჟიმში ხართ. FIPS საჭიროებს მთავარ პაროლს.
+forms-master-pw-fips-desc = პაროლის შეცვლა ვერ მოხერხდა
 
 ## Privacy Section - History
 
