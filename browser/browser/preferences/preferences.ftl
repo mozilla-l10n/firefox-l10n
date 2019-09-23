@@ -242,6 +242,11 @@ applications-action-column =
     .label = ਐਕਸ਼ਨ
     .accesskey = A
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } ਫਾਈਲ
+applications-action-save =
+    .label = ਫਾਈਲ ਨੂੰ ਸੰਭਾਲੋ
+# Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = { $app-name } ਵਰਤੋਂ
@@ -251,6 +256,7 @@ applications-use-app-default =
     .label = { $app-name } ਵਰਤੋਂ (ਡਿਫਾਲਟ)
 applications-use-other =
     .label = …ਹੋਰ ਵਰਤੋਂ
+applications-select-helper = ਮਦਦਗਾਰ ਐਪਲੀਕੇਸ਼ਨ ਚੁਣੋ
 applications-manage-app =
     .label = …ਐਪਲੀਕੇਸ਼ਨ ਵੇਰਵਾ
 applications-always-ask =
