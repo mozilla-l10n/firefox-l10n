@@ -259,6 +259,8 @@ applications-use-other =
 applications-select-helper = 選取對應程式
 applications-manage-app =
     .label = 程式詳細資訊…
+applications-always-ask =
+    .label = 總是詢問
 applications-type-pdf = 可攜式文件格式（PDF）
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
