@@ -281,6 +281,12 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = { $plugin-name } használata ({ -brand-short-name } böngészőben)
+applications-preview-inapp =
+    .label = Előnézet a { -brand-short-name } böngészőben
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
