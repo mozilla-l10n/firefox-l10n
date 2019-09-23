@@ -250,6 +250,11 @@ applications-action-column =
     .label = Aición
     .accesskey = A
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = ficheru { $extension }
+applications-action-save =
+    .label = Guardar ficheru
+# Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Usar { $app-name }
@@ -259,6 +264,10 @@ applications-use-app-default =
     .label = Usar { $app-name } (predetermináu)
 applications-use-other =
     .label = Usar otru…
+applications-manage-app =
+    .label = Detalles de l'aplicación…
+applications-always-ask =
+    .label = Entrugar siempre
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
