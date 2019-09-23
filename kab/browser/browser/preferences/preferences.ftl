@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Tigawt
     .accesskey = i
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Izerfan n usefrek n ugbur umḍin (DRM)
 play-drm-content =
     .label = Γɣaṛ agbur ittwaḥerzen s DRM-
@@ -614,6 +622,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Snifel awal uffir agejdan…
     .accesskey = a
+forms-master-pw-fips-title = Aql-ak deg uskar FIPS . FIPS yesra awal uffir agejdan arilem.
+forms-master-pw-fips-desc = Asnifel n wawal uffir agejdan ur yeddi ara
 
 ## Privacy Section - History
 
@@ -748,7 +758,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Udmawan
     .accesskey = d
 
-
+##
 
 content-blocking-all-cookies = Inagan n tuqqna meṛṛa
 content-blocking-unvisited-cookies = Inagan n tuqqna n yismal ur yettwarzan ara
