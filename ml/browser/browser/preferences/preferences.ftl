@@ -210,6 +210,14 @@ applications-type-column =
 applications-action-column =
     .label = പ്രവര്‍ത്തി
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = ഡിജിറ്റല്‍ റൈറ്റ് മാനേജ്മെന്റ്(DRM) കണ്ടന്റ്
 play-drm-content =
     .label = DRM- നിയന്ത്രിത കണ്ടന്റ് പ്ലേ ചെയ്യുക
@@ -489,6 +497,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = പ്രധാന പാസ്‌വേര്‍ഡ് മാറ്റുക…
     .accesskey = M
+forms-master-pw-fips-title = താങ്കള്‍ ഇപ്പോള്‍ FIPS മോഡിലാണ്‌. FIPS ന്‌ ഒരു പ്രധാന പാസ്‌വേര്‍ഡ് ആവശ്യമാണ്‌{ " " }
+forms-master-pw-fips-desc = പാസ്‌വേര്‍ഡ് മാറ്റം പരാജയപ്പെട്ടിരിക്കുന്നു{ " " }
 
 ## Privacy Section - History
 
