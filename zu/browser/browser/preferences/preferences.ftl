@@ -108,6 +108,7 @@ applications-manage-app =
     .label = Imininingwane yohlelo lokusebenza…
 applications-always-ask =
     .label = Buza njalo
+applications-type-pdf = I-Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
