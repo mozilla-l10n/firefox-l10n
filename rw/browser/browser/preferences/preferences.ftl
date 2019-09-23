@@ -71,6 +71,14 @@ download-choose-folder =
            *[other] h
         }
 
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
+
 ## General Section - Performance
 
 
@@ -140,6 +148,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Guhindura Ijambobanga Ngenga...
     .accesskey = h
+forms-master-pw-fips-title = Uri ubungubu mu buryo bwa FIPS. FIPS ikeneye Ijambobanga Ngenga itarimo ubusa.
+forms-master-pw-fips-desc = Guhindura Ijambobanga Byaze
 
 ## Privacy Section - History
 
