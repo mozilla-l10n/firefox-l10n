@@ -168,8 +168,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "Entrar no &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Ativar o &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Conta">
 <!ENTITY fxa.menu.firefoxServices.label "Serviços do &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Conta">
+<!ENTITY fxa.menu.settings.label "Configurações">
+<!ENTITY fxa.menu.accountSettings.label "Configurações da conta">
+<!ENTITY fxa.menu.signOut.label "Sair…">
+<!ENTITY fxa.menu.deviceSettings.label "Configurações do dispositivo">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -983,10 +988,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Rastreadores">
 
 <!ENTITY contentBlocking.manageSettings.label "Gerenciar bloqueio de conteúdo">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Conteúdo de rastreamento">
-
-<!ENTITY contentBlocking.manageSettings2.label "Gerenciar configurações de proteção">
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
 
 <!ENTITY contentBlocking.trackersView.label "Rastreadores">
@@ -995,6 +996,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies e dados de sites">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Conteúdo de rastreamento">
+
+<!ENTITY contentBlocking.manageSettings2.label "Gerenciar configurações de proteção">
 <!ENTITY contentBlocking.manageSettings2.accesskey "G">
 
 <!ENTITY contentBlocking.socialblock.label "Rastreadores de mídias sociais">
