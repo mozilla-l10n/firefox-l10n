@@ -27,9 +27,9 @@
 <!ENTITY firstrun_sync_subtext2 "Sử dụng đồng bộ hóa để tìm trang đánh dấu, mật khẩu và những thứ bạn lưu vào &brandShortName; trên tất cả các thiết bị của bạn.">
 <!ENTITY newfirstrun_sync_subtext "Đồng bộ hóa những thứ bạn lưu trên thiết bị di động với Firefox cho máy tính để bàn, riêng tư và an toàn.">
 <!ENTITY updatednewfirstrun_sync_subtext "Đăng nhập vào tài khoản của bạn để tận dụng tối đa &brandShortName;">
+<!ENTITY firstrun_signin_message "Thiết lập kết nối và bắt đầu">
 <!ENTITY firstrun_sendtab_title "Gửi thẻ">
 <!ENTITY firstrun_sendtab_message "Chia sẻ các thẻ từ điện thoại lên máy tình bàn — ngay lập tức.">
-<!ENTITY firstrun_signin_message "Thiết lập kết nối và bắt đầu">
 <!ENTITY firstrun_signin_button "Đăng nhập để đồng bộ">
 <!ENTITY newfirstrun_signin_button "Bật đồng bộ hóa">
 <!ENTITY updatednewfirstrun_signin_button "Đăng nhập vào &brandShortName;">
@@ -38,8 +38,6 @@
 <!ENTITY firstrun_button_next "Tiếp">
 
 <!ENTITY firstrun_signin_button2 "Đăng nhập">
-
-<!ENTITY firstrun_signup_button "Đăng ký">
 
 <!ENTITY firstrun_tabqueue_title "Liên kết">
 
@@ -51,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Bạn">
 <!ENTITY firstrun_account_message "Đã có &brandShortName; trên thiết bị khác?">
+
+<!ENTITY firstrun_signup_button "Đăng ký">
 
 <!ENTITY  onboard_start_restricted1 "Giữ an toàn và kiểm soát với phiên bản đơn giản hoá này của &brandShortName;.">
 
@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Chia sẻ">
 <!ENTITY share_title "Chia sẻ qua">
 <!ENTITY share_image_failed "Không thể chia sẻ hình ảnh này">
+<!ENTITY share_error_toast_message "Không thể chia sẻ với ứng dụng được chỉ định">
 <!ENTITY save_as_pdf "Lưu dưới dạng PDF">
 <!ENTITY print "In">
 <!ENTITY view_page_source "Xem mã nguồn trang">
@@ -695,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Bạn đang kết nối đến">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
