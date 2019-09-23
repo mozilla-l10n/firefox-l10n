@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Әрекет
     .accesskey = е
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Цифрлық құқықтарды басқару (DRM) құрамасы
 play-drm-content =
     .label = DRM-басқарылатын құрамасын ойнау
@@ -613,6 +621,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Мастер-парольді өзгерту…
     .accesskey = т
+forms-master-pw-fips-title = Сіз FIPS -ке сәйкестеу режимінде жұмыс істеп отырсыз. Бұл режим бос емес мастер-парольді талап етеді.
 
 ## Privacy Section - History
 
