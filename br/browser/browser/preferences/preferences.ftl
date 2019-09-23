@@ -262,6 +262,14 @@ applications-type-column =
 applications-action-column =
     .label = Gwezh
     .accesskey = w
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Endalc'had Digital Rights Management (DRM)
 play-drm-content =
     .label = Lenn un endalc'had reoliet gant DRM
@@ -632,6 +640,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Kemmañ ar ger-tremen mestr…
     .accesskey = K
+forms-master-pw-fips-title = E mod FIPS emaoc'h bremañ. Azgoulenn a ra FIPS ur ger-tremen mestr bet roet.
+forms-master-pw-fips-desc = Fazi en ur gemmañ ar ger-tremen
 
 ## Privacy Section - History
 
@@ -772,7 +782,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personelaet
     .accesskey = P
 
-
+##
 
 content-blocking-etp-standard-desc = Kempouez etre gwarez ha digonusted. Ar pajennoù a gargo en un doare ordinal.
 content-blocking-etp-strict-desc = Gwarez kreñvoc'h, met gallout a ra lakaat lec'hiennoù 'zo da derriñ.
