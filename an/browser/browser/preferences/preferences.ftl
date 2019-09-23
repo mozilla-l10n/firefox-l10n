@@ -232,6 +232,14 @@ applications-type-column =
 applications-action-column =
     .label = Acción
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Conteniu DRM (Digital Rights Management, Chestión de dreitos dichitals)
 play-drm-content =
     .label = Reproducir conteniu controlau per DRM
@@ -551,6 +559,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Cambiar a clau mayestra…
     .accesskey = m
+forms-master-pw-fips-title = Se troba en modo FIPS. Iste modo requiere una clau mayestra no vueda.
+forms-master-pw-fips-desc = O cambio de clau ha fallau
 
 ## Privacy Section - History
 
@@ -625,6 +635,13 @@ addressbar-locbar-openpage-option =
 addressbar-suggestions-settings = Cam&biar las preferencias de sucherencias en motors de busca…
 
 ## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
 
 
 ## Privacy Section - Tracking
