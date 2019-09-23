@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Udostępnij">
 <!ENTITY share_title "Udostępnij przez">
 <!ENTITY share_image_failed "Tego obrazu nie można udostępnić">
+<!ENTITY share_error_toast_message "Nie można udostępnić wskazanej aplikacji">
 <!ENTITY save_as_pdf "Zapisz jako PDF">
 <!ENTITY print "Drukuj">
 <!ENTITY view_page_source "Pokaż źródło strony">
