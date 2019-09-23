@@ -549,6 +549,7 @@ forms-master-pw-change =
     .label = အဓိကစကားဝှက်ကို ပြောင်းလဲရန်…
     .accesskey = M
 forms-master-pw-fips-title = လတ်တလော FIPS အသွင်အတွင်း ရှိသည်။ FIPSသည် ‌ဗလာမဖြစ်သော ပင်မစကားဝှက်တစ်ခု လိုအပ်နေသည်။
+forms-master-pw-fips-desc = စကားဝှက်ပြောင်းလဲမှု မအောင်မြင်ပါ
 
 ## Privacy Section - History
 
