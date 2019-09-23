@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = DRM edukia
 play-drm-content =
@@ -815,7 +815,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Pertsonalizatua
     .accesskey = s
 
-##
+
 
 content-blocking-etp-standard-desc = Babeserako eta errendimendurako orekatua. Orriak ohi bezala kargatuko dira.
 content-blocking-etp-strict-desc = Babes sendoagoa baina zenbait gune edo eduki apurtzea eragin lezake.
@@ -887,7 +887,7 @@ permissions-camera-settings =
 permissions-microphone = Mikrofonoa
 permissions-microphone-settings =
     .label = Ezarpenak…
-    .accesskey = m
+    .accesskey = E
 permissions-notification = Jakinarazpenak
 permissions-notification-settings =
     .label = Ezarpenak…
