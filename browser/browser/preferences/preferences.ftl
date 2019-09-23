@@ -253,12 +253,33 @@ applications-action-column =
     .label = Açion
     .accesskey = A
 # Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Adeuvia { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Adeuvia { $app-name } (predefinio)
+applications-use-other =
+    .label = Adeuvia atro…
+applications-select-helper = Seleçionn-a 'na aplicaçion de agiutto
+applications-manage-app =
+    .label = Detalli da aplicaçion…
+applications-always-ask =
+    .label = Domanda de longo
+# Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Adeuvia { $plugin-name } (in { -brand-short-name })
+applications-preview-inapp =
+    .label = Anteprimma in { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
