@@ -238,6 +238,26 @@ applications-type-column =
 applications-action-column =
     .label = Darbeiba
     .accesskey = a
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } fails
+applications-action-save =
+    .label = Saglobuot failu
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Izmantuot { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Izmantuot { $app-name } (nūkluseitais)
+applications-use-other =
+    .label = Izmantuot cytu...
+applications-select-helper = Izavielit paleidzeibys programu
+applications-manage-app =
+    .label = Programys īstatiejumi...
+applications-always-ask =
+    .label = Vīnmār vaicuot
 applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
@@ -246,6 +266,12 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Izmantuot { $plugin-name } (ar { -brand-short-name })
+applications-preview-inapp =
+    .label = Prīkšskateit ar { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
