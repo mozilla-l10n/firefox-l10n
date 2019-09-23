@@ -264,6 +264,7 @@ applications-use-app-default =
     .label = Usar { $app-name } (predetermináu)
 applications-use-other =
     .label = Usar otru…
+applications-select-helper = Esbilla aplicación auxiliar
 applications-manage-app =
     .label = Detalles de l'aplicación…
 applications-always-ask =
