@@ -254,12 +254,39 @@ applications-action-column =
     .label = B'anoj
     .accesskey = B
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } yakb'äl
+applications-action-save =
+    .label = Tiyak yakb'äl
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Tokisäx { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Tokisäx { $app-name } (ruk'amon wi pe)
+applications-use-other =
+    .label = Tokisäx jun chik…
+applications-select-helper = Tacha' jun achib'il chi chokoy
+applications-manage-app =
+    .label = Taq kib'anikil chokoy…
+applications-always-ask =
+    .label = Junelïk tik'utüx pe
+applications-type-pdf = K'wayel Rub'anikil Wuj (K'RW)
+# Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Tokisäx { $plugin-name } (pa { -brand-short-name })
+applications-preview-inapp =
+    .label = Titz'etb'ëx pa { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
