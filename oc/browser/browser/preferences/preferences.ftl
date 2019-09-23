@@ -249,6 +249,14 @@ applications-type-column =
 applications-action-column =
     .label = Accion
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Contengut amb Digital Rights Management (DRM)
 play-drm-content =
     .label = Legir lo contengut contrarotlat per DRM
@@ -576,6 +584,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Modificar lo senhal principal…
     .accesskey = M
+forms-master-pw-fips-title = Actualament, sètz en mòde FIPS. Lo mòde FIPS necessita un senhal principal pas void.
+forms-master-pw-fips-desc = La modificacion de senhal a pas capitat
 
 ## Privacy Section - History
 
