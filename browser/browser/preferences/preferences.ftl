@@ -273,6 +273,7 @@ applications-use-other =
     .label = Folosește altceva…
 applications-always-ask =
     .label = Întreabă întotdeauna
+applications-type-pdf = Format de document portabil (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
