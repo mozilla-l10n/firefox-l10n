@@ -158,6 +158,11 @@ applications-action-column =
     .label = ການກະທຳ
     .accesskey = ກ
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = ໄຟລ໌ { $extension }
+applications-action-save =
+    .label = ບັນທຶກໄຟລ໌
+# Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = ໃຊ້ { $app-name }
@@ -167,6 +172,11 @@ applications-use-app-default =
     .label = ໃຊ້ { $app-name } (ຄ່າເລີ່ມຕົ້ນ)
 applications-use-other =
     .label = ໃຊ້ອື່ນໆ...
+applications-select-helper = ເລືອກແອັບພລິເຄຊັ່ນຕົວຊ່ວຍ
+applications-manage-app =
+    .label = ລາຍລະອຽດແອັບພລິເຄຊັ່ນ…
+applications-always-ask =
+    .label = ຖາມທຸກຄັ້ງ
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
