@@ -89,9 +89,25 @@ applications-action-column =
     .label = Ekola
     .accesskey = E
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } fayiro
+applications-action-save =
+    .label = Tereka Fayiro
+# Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Kozesa { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Koseza { $app-name } (enkalalira)
+applications-use-other =
+    .label = Kozesa ekilala…
+applications-select-helper = Kebera Enkozesesa Eyamba
+applications-manage-app =
+    .label = Ebikwata ku`Enkozesesa…
+applications-always-ask =
+    .label = Sambaa nga
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
