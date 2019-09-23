@@ -60,6 +60,14 @@ download-choose-folder =
            *[other] o
         }
 
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
+
 ## General Section - Performance
 
 
@@ -119,6 +127,8 @@ use-current-pages =
 
 ## Privacy Section - Forms
 
+forms-master-pw-fips-title = Zwa zwino ni kha moudu wa FIPS. FIPS i toda Phasiwede Khulwane ire na tshithu.
+forms-master-pw-fips-desc = U Shandukiswa ha Phasiwede ho Kundelwa
 
 ## Privacy Section - History
 
