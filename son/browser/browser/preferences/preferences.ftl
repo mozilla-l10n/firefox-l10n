@@ -156,6 +156,14 @@ applications-type-column =
 applications-action-column =
     .label = Teera
     .accesskey = T
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 play-drm-content-learn-more = Bay ka tonton
 update-application-title = { -brand-short-name } taagandirey
 update-history =
@@ -335,6 +343,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Takaddaɲaa šennikufal barmay
     .accesskey = T
+forms-master-pw-fips-title = Sohõda war goo FIPS yaayi ra. FIPS ga takaddaɲaa šennikufal kaŋ ši koonu waažibandi.
+forms-master-pw-fips-desc = Šennikufal mana hin ka barmay mana
 
 ## Privacy Section - History
 
