@@ -249,6 +249,14 @@ applications-type-column =
 applications-action-column =
     .label = عمل
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = محتوا مدیریت حقوق دیجیتال(DRM)
 play-drm-content =
     .label = پخش محتوا کنترل شده-DRM
@@ -577,6 +585,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = تنظیم گذرواژهٔ اصلی…
     .accesskey = ص
+forms-master-pw-fips-title = شما هم‌اکنون در حالت FIPS هستید. در این حالت لازم است گذرواژهٔ اصلی خالی نباشد.
+forms-master-pw-fips-desc = تغییر گذرواژه شکست خورد
 
 ## Privacy Section - History
 
