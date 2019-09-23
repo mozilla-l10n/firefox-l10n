@@ -254,6 +254,10 @@ applications-action-save =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = { $app-name } वापरा
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = { $app-name } वापरा (पूर्वनिर्धारित)
 applications-use-other =
     .label = इतर वापरा…
 applications-select-helper = मदतनीस कार्यक्रम निवडा
