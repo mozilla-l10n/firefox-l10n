@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Ekintza
     .accesskey = E
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = DRM edukia
 play-drm-content =
     .label = Erreproduzitu DRM bidez kontrolatutako edukia
@@ -617,6 +625,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Aldatu pasahitz nagusia…
     .accesskey = A
+forms-master-pw-fips-title = Une honetan FIPS moduan zaude. FIPS moduak pasahitz nagusia ezartzea eskatzen du.
+forms-master-pw-fips-desc = Pasahitz aldaketak huts egin du
 
 ## Privacy Section - History
 
