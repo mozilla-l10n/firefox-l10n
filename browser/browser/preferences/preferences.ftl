@@ -579,6 +579,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Camudar contraseña maestra…
     .accesskey = m
+forms-master-pw-fips-title = Nesti intre tas en mou FIPS. FIPS requier una contraseña maestra non erma.
 forms-master-pw-fips-desc = Fallu al camudar la contraseña
 
 ## Privacy Section - History
