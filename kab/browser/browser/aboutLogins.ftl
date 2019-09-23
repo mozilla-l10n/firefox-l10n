@@ -87,10 +87,12 @@ confirm-delete-dialog-title = Kkes anekcam-agi?
 confirm-delete-dialog-message = Ulac tuɣalin ɣer deffir.
 confirm-delete-dialog-confirm-button = Kkes
 confirm-discard-changes-dialog-title = Sefsex isenfal-agi?
+confirm-discard-changes-dialog-message = Akk isnifal ur nettwakles ara ad ttwaksen.
 confirm-discard-changes-dialog-confirm-button = Kkes
 
 ## Breach Alert notification
 
+breach-alert-link = Issin ugar ɣef trewla n yisefka-agi.
 breach-alert-dismiss =
     .title = Mdel ulɣu-agi
 
