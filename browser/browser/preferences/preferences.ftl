@@ -248,6 +248,14 @@ applications-type-column =
 applications-action-column =
     .label = Əməliyyat
     .accesskey = Ə
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Rəqəmsal Hüquqların İdarəsi (DRM) Məzmunu
 play-drm-content =
     .label = DRM-idarəli məzmunu oxut (güvənilir deyil)
@@ -582,6 +590,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Ana parolu dəyişdir…
     .accesskey = d
+forms-master-pw-fips-title = Hazırda FIPS rejimindəsiniz. FIPS rejimi üçün ana parol lazımdır.
+forms-master-pw-fips-desc = Parolu dəyişdirmək mümkün olmadı.
 
 ## Privacy Section - History
 
