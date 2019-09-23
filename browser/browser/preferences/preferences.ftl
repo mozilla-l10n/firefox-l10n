@@ -269,6 +269,10 @@ applications-use-app-default =
 applications-use-other =
     .label = Басқасын қолдану…
 applications-select-helper = Көмекші бағдарламаны таңдаңыз
+applications-manage-app =
+    .label = Қолданба ақпараты…
+applications-always-ask =
+    .label = Әрқашан сұрау
 applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
