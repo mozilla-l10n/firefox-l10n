@@ -27,9 +27,9 @@
 <!ENTITY firstrun_sync_subtext2 "Använd Sync för att hitta bokmärken, lösenord och andra saker som du sparar till &brandShortName; på alla dina enheter.">
 <!ENTITY newfirstrun_sync_subtext "Synkronisera de saker du sparar på mobilen till Firefox för datorer, privat och säkert.">
 <!ENTITY updatednewfirstrun_sync_subtext "Logga in på ditt konto för att få ut det mesta av &brandShortName;">
+<!ENTITY firstrun_signin_message "Anslut och kom igång">
 <!ENTITY firstrun_sendtab_title "Skicka flik">
 <!ENTITY firstrun_sendtab_message "Dela flikar från mobil till datorn — direkt.">
-<!ENTITY firstrun_signin_message "Anslut och kom igång">
 <!ENTITY firstrun_signin_button "Logga in till Sync">
 <!ENTITY newfirstrun_signin_button "Aktivera Sync">
 <!ENTITY updatednewfirstrun_signin_button "Logga in på &brandShortName;">
@@ -38,8 +38,6 @@
 <!ENTITY firstrun_button_next "Nästa">
 
 <!ENTITY firstrun_signin_button2 "Logga in">
-
-<!ENTITY firstrun_signup_button "Registrera dig">
 
 <!ENTITY firstrun_tabqueue_title "Länkar">
 
@@ -51,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Du">
 <!ENTITY firstrun_account_message "Har du &brandShortName; på annan enhet?">
+
+<!ENTITY firstrun_signup_button "Registrera dig">
 
 <!ENTITY  onboard_start_restricted1 "Håll dig säker och i kontroll med denna förenklade version av &brandShortName;.">
 
@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Dela">
 <!ENTITY share_title "Dela via">
 <!ENTITY share_image_failed "Kan inte dela bilden">
+<!ENTITY share_error_toast_message "Det går inte att dela med den angivna appen">
 <!ENTITY save_as_pdf "Spara som PDF">
 <!ENTITY print "Skriv ut">
 <!ENTITY view_page_source "Visa källkod">
@@ -695,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Du är ansluten till">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
