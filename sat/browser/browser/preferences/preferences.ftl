@@ -100,7 +100,7 @@ applications-action-column =
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } रेत्
 applications-action-save =
-    .label = रेत् सांचाव मे{ " " }
+    .label = रेत् सांचाव मे
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
@@ -108,7 +108,7 @@ applications-use-app =
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
-    .label = { " " }{ $app-name } बेभार मे (हुड़ा़क्)
+    .label = { $app-name } बेभार मे (हुड़ा़क्)
 applications-use-other =
     .label = एटागाक् बेभार मे…
 applications-select-helper = गोड़ोयिजाक् एपलिकेसोन बाछाव मे
@@ -127,7 +127,7 @@ applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
-    .label = { " " }{ $plugin-name } बेभार मे ({ -brand-short-name } रे)
+    .label = { $plugin-name } बेभार मे ({ -brand-short-name } रे)
 applications-preview-inapp =
     .label = { -brand-short-name } रे माड़ाङ तेयाक् ञेल
 
