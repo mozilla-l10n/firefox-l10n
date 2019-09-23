@@ -83,11 +83,58 @@ applications-type-column =
 applications-action-column =
     .label = Хэрхэн хандах
     .accesskey = н
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = файл { $extension }
+applications-action-save =
+    .label = Файлыг хадгал
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = { $app-name }-г хэрэглэ
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = { $app-name }-г хэрэглэ (анхдагч)
+applications-use-other =
+    .label = Өөр програмаар…
+applications-select-helper = Нээгч програмыг сонго
+applications-manage-app =
+    .label = Програмын нарийвчилсан мэдээлэл…
+applications-always-ask =
+    .label = Үргэлж асуу
+# Variables:
+#   $type (String) - the MIME type (e.g application/binary)
+applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
+# Variables:
+#   $type-description (String) - Description of the type (e.g "Portable Document Format")
+#   $type (String) - the MIME type (e.g application/binary)
+applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = { $plugin-name }-г хэрэглэ ({ -brand-short-name }-д буй)
+applications-preview-inapp =
+    .label = { -brand-short-name } дээр туршиж харуул
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
+applications-use-plugin-in-label =
+    .value = { applications-use-plugin-in.label }
+applications-action-save-label =
+    .value = { applications-action-save.label }
+applications-use-app-label =
+    .value = { applications-use-app.label }
+applications-preview-inapp-label =
+    .value = { applications-preview-inapp.label }
+applications-always-ask-label =
+    .value = { applications-always-ask.label }
+applications-use-app-default-label =
+    .value = { applications-use-app-default.label }
+applications-use-other-label =
+    .value = { applications-use-other.label }
 
 ##
 
