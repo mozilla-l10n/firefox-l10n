@@ -265,6 +265,10 @@ applications-action-save =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Atverti programa „{ $app-name }“
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Atverti programa „{ $app-name }“ (numatytoji)
 applications-use-other =
     .label = Parinkti kitą programą…
 applications-select-helper = Atveriančiosios programos parinkimas
