@@ -256,6 +256,14 @@ applications-type-column =
 applications-action-column =
     .label = Akce
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Obsah chráněný pomocí Digital Rights Management (DRM)
 play-drm-content =
     .label = Přehrávat obsah chráněný pomocí DRM
@@ -634,6 +642,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Změnit hlavní heslo…
     .accesskey = m
+forms-master-pw-fips-desc = Neúspěšná změna hesla
 
 ## Privacy Section - History
 
@@ -774,7 +783,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Vlastní
     .accesskey = V
 
-
+##
 
 content-blocking-etp-standard-desc = Vyvážená ochrana a výkon. Neovlivní správné načítání webových stránek.
 content-blocking-etp-strict-desc = Silnější ochrana. Může omezit fungování některých stránek.
