@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Handling
     .accesskey = H
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Digital Rights Management (DRM) innhald
 play-drm-content =
     .label = Spel DRM-kontrollert innhald
@@ -620,6 +628,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Endre hovudpassord…
     .accesskey = d
+forms-master-pw-fips-title = Du er i FIPS-modus. FIPS krev at du brukar eit hovudpassord.
 
 ## Privacy Section - History
 
@@ -760,7 +769,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Tilpassa
     .accesskey = T
 
-
+##
 
 content-blocking-etp-standard-desc = Balansert for vern og yting. Sider vil laste normalt.
 content-blocking-etp-strict-desc = Sterkare vern, men kan føre til at nokre nettstadar eller innhald ikkje vil fungere.
