@@ -258,6 +258,10 @@ applications-action-column =
 applications-file-ending = { $extension } ფაილი
 applications-action-save =
     .label = ფაილის შენახვა
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = { $app-name }
 applications-use-other =
     .label = სხვა პროგრამა…
 applications-select-helper = დამხმარე პროგრამის შერჩევა
