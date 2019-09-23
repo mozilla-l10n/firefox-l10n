@@ -159,6 +159,10 @@ applications-action-column =
     .accesskey = ກ
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = ໃຊ້ { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = ໃຊ້ { $app-name } (ຄ່າເລີ່ມຕົ້ນ)
 applications-use-other =
