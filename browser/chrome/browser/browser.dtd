@@ -168,8 +168,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "Đăng nhập vào &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Bật &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Tài khoản">
 <!ENTITY fxa.menu.firefoxServices.label "Dịch vụ &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Tài khoản">
+<!ENTITY fxa.menu.settings.label "Cài đặt">
+<!ENTITY fxa.menu.accountSettings.label "Cài đặt tài khoản">
+<!ENTITY fxa.menu.signOut.label "Đăng xuất…">
+<!ENTITY fxa.menu.deviceSettings.label "Cài đặt thiết bị">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -983,10 +988,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Trình theo dõi">
 
 <!ENTITY contentBlocking.manageSettings.label "Quản lý chặn nội dung">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Trình theo dõi nội dung">
-
-<!ENTITY contentBlocking.manageSettings2.label "Quản lý cài đặt bảo vệ">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Trình theo dõi">
@@ -995,6 +996,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookie">
 <!ENTITY contentBlocking.cookiesView.label "Cookie và dữ liệu trang">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Trình theo dõi nội dung">
+
+<!ENTITY contentBlocking.manageSettings2.label "Quản lý cài đặt bảo vệ">
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Trình theo dõi truyền thông xã hội">
