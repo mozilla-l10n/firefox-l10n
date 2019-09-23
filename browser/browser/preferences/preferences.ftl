@@ -236,6 +236,14 @@ applications-type-column =
 applications-action-column =
     .label = செயல்
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = எண்முறை உரிமைகள் மேலாண்மை (DRM) உள்ளடக்கம்
 play-drm-content =
     .label = DRM உள்ளடக்கங்கத்தை இயக்கு
@@ -562,6 +570,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = முதன்மை கடவுச்சொல்லை மாற்றவும்...
     .accesskey = M
+forms-master-pw-fips-title = நீங்கள் தற்போது FIPS முறையில் இருக்கிறீர்கள். FIPS க்கு ஒரு வெற்றில்லாத முதன்மை கடவுச்சொல் தேவைப்படுகிறது.
+forms-master-pw-fips-desc = கடவுச்சொல்லை மாற்ற முடியவில்லை
 
 ## Privacy Section - History
 
