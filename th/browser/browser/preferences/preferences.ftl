@@ -241,6 +241,14 @@ applications-type-column =
 applications-action-column =
     .label = การกระทำ
     .accesskey = ก
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = เนื้อหา Digital Rights Management (DRM)
 play-drm-content =
     .label = เล่นเนื้อหาที่ถูกควบคุมโดย DRM
@@ -601,6 +609,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = เปลี่ยนรหัสผ่านหลัก…
     .accesskey = ผ
+forms-master-pw-fips-title = คุณกำลังอยู่ในโหมด FIPS ซึ่ง FIPS จำเป็นต้องมีรหัสผ่านหลักที่ไม่ว่างเปล่า
 
 ## Privacy Section - History
 
