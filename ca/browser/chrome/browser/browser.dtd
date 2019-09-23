@@ -168,8 +168,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "Inicia la sessió al &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activa el &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Compte">
 <!ENTITY fxa.menu.firefoxServices.label "Serveis del &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Compte">
+<!ENTITY fxa.menu.settings.label "Paràmetres">
+<!ENTITY fxa.menu.accountSettings.label "Paràmetres del compte">
+<!ENTITY fxa.menu.signOut.label "Tanca la sessió…">
+<!ENTITY fxa.menu.deviceSettings.label "Paràmetres del dispositiu">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -254,6 +259,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestiona l'ús dels complements">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Canvia l'opció de si es poden rebre notificacions d'aquest lloc">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Desa dades en l'emmagatzematge persistent">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "El navegador està sota control remot">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Obre la subfinestra d'autenticació web">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Obre la subfinestra de permisos d'activitat de navegació">
@@ -439,8 +445,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Voleu veure aquí les pestanyes d'altres dispositius?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Obre les preferències de sincronització">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicieu la sessió per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Vegeu una llista de les pestanyes que teniu obertes en altres dispositius.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Cal que verifiqueu el compte.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicia la sessió al Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Inicia la sessió al &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Activa el &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestiona els dispositius…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Mostra la barra lateral «Pestanyes sincronitzades»">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Amaga la barra lateral «Pestanyes sincronitzades»">
@@ -979,10 +988,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Elements de seguiment">
 
 <!ENTITY contentBlocking.manageSettings.label "Gestiona el bloqueig de contingut">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Contingut que fa seguiment">
-
-<!ENTITY contentBlocking.manageSettings2.label "Gestiona els paràmetres de protecció">
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
 
 <!ENTITY contentBlocking.trackersView.label "Elements de seguiment">
@@ -991,6 +996,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Galetes">
 <!ENTITY contentBlocking.cookiesView.label "Galetes i dades dels llocs">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Contingut que fa seguiment">
+
+<!ENTITY contentBlocking.manageSettings2.label "Gestiona els paràmetres de protecció">
 <!ENTITY contentBlocking.manageSettings2.accesskey "G">
 
 <!ENTITY contentBlocking.socialblock.label "Elements de seguiment de xarxes socials">
