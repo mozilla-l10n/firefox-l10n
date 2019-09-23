@@ -157,6 +157,14 @@ applications-type-column =
 applications-action-column =
     .label = ການກະທຳ
     .accesskey = ກ
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 play-drm-content-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 update-application-title = ອັບເດດ { -brand-short-name }
 update-history =
@@ -439,6 +447,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = ປ່ຽນລະຫັດຜ່ານຫຼັກ
     .accesskey = M
+forms-master-pw-fips-title = ຕອນນີ້ທ່ານກຳຫລັງຢູ່ໃນໂຫມດ FIPS. FIPS ຕ້ອງການໃຊ້ລະຫັດຜ່ານຫລັກ.
+forms-master-pw-fips-desc = ການປ່ຽນລະຫັດຜ່ານລົ້ມເຫລວ
 
 ## Privacy Section - History
 
@@ -519,6 +529,13 @@ addressbar-locbar-openpage-option =
 
 content-blocking-header = ການປິດກັ້ນເນື້ອຫາ
 content-blocking-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
 content-blocking-tracking-protection-change-block-list = ປ່ຽນລາຍການທີ່ຖືກລະງັບ
 
 ## Privacy Section - Tracking
