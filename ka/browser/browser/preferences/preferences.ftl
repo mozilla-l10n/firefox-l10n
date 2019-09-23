@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = ციფრული უფლებების მართვის (DRM) შიგთავსი
 play-drm-content =
@@ -660,6 +660,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = ძლიერი პაროლების შემოთავაზება და შედგენა
     .accesskey = ზ
+forms-breach-alerts =
+    .label = შეტყობინება პაროლებზე, იერიშმიტანილი საიტებისთვის
+    .accesskey = შ
 forms-fill-logins-and-passwords =
     .label = ანგარიშის მონაცემების თვითშევსება
     .accesskey = ა
@@ -814,7 +817,7 @@ enhanced-tracking-protection-setting-custom =
     .label = მორგებული
     .accesskey = გ
 
-##
+
 
 content-blocking-etp-standard-desc = წონასწორული უსაფრთხოებასა და წარმადობას შორის. გვერდები ჩაიტვირთება ჩვეულებრივ.
 content-blocking-etp-strict-desc = მძლავრი დაცვა, თუმცა გამოიწვევს საიტების ან შიგთავსის ნაწილის გაუმართაობას.

@@ -61,6 +61,9 @@ about-logins-login-list-empty-search-description = ძიების შეს�
 login-list-item-title-new-login = ანგარიშის ახალი მონაცემები
 login-list-item-subtitle-new-login = შეიყვანეთ თქვენი მონაცემები
 login-list-item-subtitle-missing-username = (მომხმარებლის სახელის გარეშე)
+about-logins-list-item-warning-icon =
+    .alt = გაფრთხილების ნიშანი
+    .title = იერიშმიტანილი საიტი
 
 ## Introduction screen
 
@@ -79,8 +82,6 @@ login-item-origin-label = საიტის მისამართი
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = მომხმარებლის სახელი
-login-item-username =
-    .placeholder = სახელი@example.com
 about-logins-login-item-username =
     .placeholder = (მომხმარებლის სახელის გარეშე)
 login-item-copy-username-button-text = ასლი
@@ -136,3 +137,13 @@ breach-alert-text = პაროლების მონაცემები �
 breach-alert-link = იხილეთ ვრცლად, ამ მიტაცების შესახებ.
 breach-alert-dismiss =
     .title = ამ ცნობის დახურვა
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = ჩანაწერი ანგარიშისთვის { $loginTitle } ამ მომხმარებლის სახელით უკვე არსებობს.
+# This is a generic error message.
+about-logins-error-message-default = შეცდომა, ამ პაროლის შენახვისას.

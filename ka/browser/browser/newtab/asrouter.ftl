@@ -139,3 +139,14 @@ cfr-doorhanger-firefox-send-header = გააზიარეთ ეს PDF უ�
 cfr-doorhanger-firefox-send-body = დაიცავით თქვენი მნიშვნელოვანი მასალები ცნობისმოყვარეებისგან, გამჭოლი დაშიფვრითა და ბმულით, რომელიც თავისით გაქრება საქმის დასრულებისას.
 cfr-doorhanger-firefox-send-ok-button = გამოცადეთ { -send-brand-name }
     .accesskey = ც
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = იხილეთ დაცვა
+    .accesskey = ც
+cfr-doorhanger-socialtracking-close-button = დახურვა
+    .accesskey = ხ
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } უზღუდავს სოციალური ქსელს თქვენს თვალთვალს
+cfr-doorhanger-socialtracking-description = თქვენი პირადულობა მნიშვნელოვანია. { -brand-short-name } ახლა უკვე ზღუდავს ცნობილი სოციალური ქსელების მეთვალყურე საშუალებებს, უსაზღვრავს მათ ინტერნეტში თქვენ შესახებ შესაგროვებელი მონაცემების ოდენობას.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } ზღუდავს მომხმარებლის ამომცნობს ამ საიტზე
+cfr-doorhanger-fingerprinters-description = თქვენი პირადულობა მნიშვნელოვანია. { -brand-short-name } ახლა უკვე ზღუდავს მომხმარებლის ამომცნობ საშუალებებს, რომელთაც შეუძლია თქვენი სხვებისგან გამორჩევა თვალის სადევნებლად, თქვენზე შეგროვებული მონაცემებით.
