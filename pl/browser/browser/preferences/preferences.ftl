@@ -288,6 +288,8 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Wtyczka { $plugin-name } (w programie { -brand-short-name })
+applications-preview-inapp =
+    .label = Podgląd w programie { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
