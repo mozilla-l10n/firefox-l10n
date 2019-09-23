@@ -256,6 +256,8 @@ applications-action-column =
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } fail
+applications-action-save =
+    .label = fail salvestatakse
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
@@ -266,6 +268,12 @@ applications-use-app-default =
     .label = Kasutatakse rakendust { $app-name } (vaikimisi)
 applications-use-other =
     .label = Kasuta muud...
+applications-select-helper = Abistava rakenduse valimine
+applications-manage-app =
+    .label = Rakenduse üksikasjad...
+applications-always-ask =
+    .label = küsitakse alati
+applications-type-pdf = Porditav dokumendiformaat (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
