@@ -245,6 +245,14 @@ applications-type-column =
 applications-action-column =
     .label = Baɗal
     .accesskey = B
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Loowdi Toppitagol Jojjanɗe Ngaandiwe (DRM)
 play-drm-content =
     .label = Tar loowdi curdaandi DRM
@@ -575,6 +583,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Waylu Finnde Baabaare…
     .accesskey = B
+forms-master-pw-fips-title = Ngon-ɗaa ɗoo ko e mbayka FIPS. Mbayka FIPS ena naamnii Finnde Baabaare nde ɓolɗaani.
+forms-master-pw-fips-desc = Baylugol Finnde Woorii
 
 ## Privacy Section - History
 
@@ -665,6 +675,13 @@ addressbar-suggestions-settings = Waylu cuɓe wonande cakkitte yiylorde
 
 content-blocking-header = Paddagol loowdi
 content-blocking-learn-more = Ɓeydu humpito
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
 content-blocking-tracking-protection-change-block-list = Waylo doggol padde
 
 ## Privacy Section - Tracking
