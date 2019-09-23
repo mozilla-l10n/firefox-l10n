@@ -242,9 +242,16 @@ applications-action-column =
     .label = การกระทำ
     .accesskey = ก
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = ไฟล์ { $extension }
+applications-action-save =
+    .label = บันทึกไฟล์
+# Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = ใช้ { $app-name }
+applications-use-other =
+    .label = ใช้ตัวอื่น…
 applications-always-ask =
     .label = ถามเสมอ
 applications-type-pdf = Portable Document Format (PDF)
