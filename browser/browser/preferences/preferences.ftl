@@ -97,6 +97,14 @@ applications-type-column =
 applications-action-column =
     .label = কাৰ্য্য
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 update-application-use-service =
     .label = আপডেইটসমূহ ইনস্টল কৰিবলে এটা পটভূমি সেৱা ব্যৱহাৰ কৰক
     .accesskey = b
@@ -206,6 +214,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = প্ৰমুখ পাছৱাৰ্ড সলনি কৰক…
     .accesskey = M
+forms-master-pw-fips-title = আপুনি বৰ্ত্তমানে FIPS ধৰণত আছে। FIPS ক এটা ৰিক্ত নোহোৱা মূখ্য পাছৱৰ্ড লাগে।
+forms-master-pw-fips-desc = পাছৱৰ্ডৰ পৰিবৰ্তন ব্যৰ্থ হল
 
 ## Privacy Section - History
 
