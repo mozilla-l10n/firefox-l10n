@@ -168,8 +168,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "Jelentkezzen be a &brandProductName;ba">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; bekapcsolása">
-<!ENTITY fxa.menu.account.label "Fiók">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; szolgáltatások">
+
+<!ENTITY fxa.menu.account.label "Fiók">
+<!ENTITY fxa.menu.settings.label "Beállítások">
+<!ENTITY fxa.menu.accountSettings.label "Fiókbeállítások">
+<!ENTITY fxa.menu.signOut.label "Kijelentkezés…">
+<!ENTITY fxa.menu.deviceSettings.label "Eszközbeállítások">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
