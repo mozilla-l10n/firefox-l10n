@@ -84,6 +84,14 @@ applications-type-column =
 applications-action-column =
     .label = Azion
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 update-application-use-service =
     .label = Dopre servizi in background par instalâ i inzornaments
     .accesskey = b
@@ -169,6 +177,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Cambie la password gjenerâl…
     .accesskey = m
+forms-master-pw-fips-title = Tu sês cumò tal mût FIPS. FIPS al domande une password gjenerâl no vueide.
+forms-master-pw-fips-desc = Cambiament de password falît
 
 ## Privacy Section - History
 
