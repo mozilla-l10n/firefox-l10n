@@ -88,6 +88,14 @@ applications-type-column =
 applications-action-column =
     .label = Kitendo
     .accesskey = K
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 update-application-use-service =
     .label = Tumia huduma ya usuli ili kusakinisha visasisho
     .accesskey = s
@@ -183,6 +191,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Badilisha Jina Kuu la nywila…
     .accesskey = J
+forms-master-pw-fips-title = Kwa sasa upo kwenye modi ya FIPS. Inahitaji Neno la Siri Kuu lisilo tupu.
+forms-master-pw-fips-desc = Ubadilishaji wa Neno la Siri Umeshindwa
 
 ## Privacy Section - History
 
