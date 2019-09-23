@@ -232,7 +232,11 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } استعمال کریں (طے شدہ)
+applications-use-other =
+    .label = دیگر استعمال کریں…
 applications-select-helper = دستگیر ایپلی کیشن منتخب کریں
+applications-manage-app =
+    .label = ایپلی کیشن تفاصیل…
 applications-always-ask =
     .label = ہمیشہ پوچھیں
 applications-type-pdf = پورٹبل ڈاکیومنٹ فارمیٹ (PDF)
