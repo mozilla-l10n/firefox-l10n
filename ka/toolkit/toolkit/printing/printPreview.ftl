@@ -33,6 +33,7 @@ printpreview-of =
     .value = -
 printpreview-custom-prompt =
     .value = მითითებული ზომები…
+printpreview-custom-scale-prompt-title = მითითებული ზომები
 printpreview-page-setup =
     .label = გვერდის პარამეტრები…
     .accesskey = პ
