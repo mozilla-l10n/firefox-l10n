@@ -268,6 +268,7 @@ applications-manage-app =
     .label = Programmas iestatījumi...
 applications-always-ask =
     .label = Vienmēr jautāt
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
