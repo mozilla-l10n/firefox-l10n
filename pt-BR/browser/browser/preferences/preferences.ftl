@@ -256,6 +256,9 @@ applications-action-column =
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = arquivo { $extension }
+applications-select-helper = Selecionar aplicativo
+applications-manage-app =
+    .label = Detalhes do aplicativo…
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
