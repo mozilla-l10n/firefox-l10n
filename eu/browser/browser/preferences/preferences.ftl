@@ -260,6 +260,10 @@ applications-action-save =
     .label = Gorde fitxategia
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Erabili { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } erabili (lehenetsia)
 applications-use-other =
