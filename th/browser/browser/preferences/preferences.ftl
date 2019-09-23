@@ -247,6 +247,7 @@ applications-use-app =
     .label = ใช้ { $app-name }
 applications-always-ask =
     .label = ถามเสมอ
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
