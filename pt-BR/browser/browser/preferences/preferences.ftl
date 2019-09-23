@@ -629,6 +629,7 @@ forms-master-pw-change =
     .label = Alterar senha mestra…
     .accesskey = m
 forms-master-pw-fips-title = Você está no momento no modo FIPS. O FIPS necessita de uma senha mestra não vazia.
+forms-master-pw-fips-desc = Falha na alteração da senha
 
 ## Privacy Section - History
 
