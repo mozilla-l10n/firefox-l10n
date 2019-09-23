@@ -70,6 +70,60 @@ applications-type-column =
 applications-action-column =
     .label = செயல்
     .accesskey = A
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } கோப்பு
+applications-action-save =
+    .label = கோப்பினை சேமிக்க
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = { $app-name } இனைப் பயன்படுத்துக
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Use { $app-name } (பொது இருப்பு)
+applications-use-other =
+    .label = வேறொன்றைப் பயன்படுத்துக…
+applications-select-helper = உதவிச் செயலியைத் தேர்ந்தெடுக்க
+applications-manage-app =
+    .label = செயலி விவரங்கள்…
+applications-always-ask =
+    .label = எப்போதும் கேட்க
+applications-type-pdf = PDF
+# Variables:
+#   $type (String) - the MIME type (e.g application/binary)
+applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
+# Variables:
+#   $type-description (String) - Description of the type (e.g "Portable Document Format")
+#   $type (String) - the MIME type (e.g application/binary)
+applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = { $plugin-name } இனைப் பயன்படுத்துக ({ -brand-short-name }இல்)
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+applications-use-plugin-in-label =
+    .value = { applications-use-plugin-in.label }
+applications-action-save-label =
+    .value = { applications-action-save.label }
+applications-use-app-label =
+    .value = { applications-use-app.label }
+applications-preview-inapp-label =
+    .value = { applications-preview-inapp.label }
+applications-always-ask-label =
+    .value = { applications-always-ask.label }
+applications-use-app-default-label =
+    .value = { applications-use-app-default.label }
+applications-use-other-label =
+    .value = { applications-use-other.label }
+
+##
+
 update-application-use-service =
     .label = இற்றைகளை நிறுவ ஒரு பின்னணி சேவையைப் பயன்படுத்துக
     .accesskey = b
