@@ -259,12 +259,35 @@ applications-action-column =
     .label = Gnìomh
     .accesskey = G
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = Faidhle { $extension }
+applications-action-save =
+    .label = Sàbhail am faidhle
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Cleachd { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Cleachd { $app-name } (bunaiteach)
+applications-use-other =
+    .label = Cleachd fear eile…
+applications-always-ask =
+    .label = Faighnich dhìom gach turas
+# Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Cleachd { $plugin-name } (ann an { -brand-short-name })
+applications-preview-inapp =
+    .label = Ro-sheall ann an { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
