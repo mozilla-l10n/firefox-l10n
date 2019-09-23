@@ -268,6 +268,7 @@ applications-use-app-default =
     .label = שימוש ב־{ $app-name } (ברירת מחדל)
 applications-use-other =
     .label = שימוש ביישום אחר…
+applications-select-helper = בחירת יישום מסייע
 applications-manage-app =
     .label = פרטי יישום…
 applications-always-ask =
