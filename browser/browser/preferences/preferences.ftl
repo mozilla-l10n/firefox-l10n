@@ -265,6 +265,10 @@ applications-use-app =
 applications-use-other =
     .label = სხვა პროგრამა…
 applications-select-helper = დამხმარე პროგრამის შერჩევა
+applications-manage-app =
+    .label = პროგრამის შესახებ…
+applications-always-ask =
+    .label = შეკითხვა ყოველ ჯერზე
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
