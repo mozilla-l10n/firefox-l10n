@@ -564,6 +564,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = ప్రధాన సంకేతపదాన్ని మార్చు…
     .accesskey = M
+forms-master-pw-fips-title = మీరు ప్రస్తుతం FIPS రీతిలో ఉన్నారు. FIPS కు ఒక ఖాళీ-కాని ముఖ్య సంకేతపదం అవసరము.
 forms-master-pw-fips-desc = సంకేతపదం మార్పు విఫలమైంది
 
 ## Privacy Section - History
