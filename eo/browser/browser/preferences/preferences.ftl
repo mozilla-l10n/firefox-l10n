@@ -254,12 +254,39 @@ applications-action-column =
     .label = Ago
     .accesskey = A
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } dosiero
+applications-action-save =
+    .label = Konservi dosieron
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Uzi { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Uzi { $app-name } (ĉefa)
+applications-use-other =
+    .label = Uzi alian…
+applications-select-helper = Elekti helpan programon
+applications-manage-app =
+    .label = Detaloj de programo…
+applications-always-ask =
+    .label = Ĉiam demandi
+applications-type-pdf = Portable Document Format (PDF)
+# Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Uzi { $plugin-name } (en { -brand-short-name })
+applications-preview-inapp =
+    .label = Antaŭvidi en { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
