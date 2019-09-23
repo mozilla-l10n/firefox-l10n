@@ -177,6 +177,11 @@ applications-action-column =
     .label = Inyathelo
     .accesskey = I
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = Ifayile ye-{ $extension }
+applications-action-save =
+    .label = Gcina Ifayile
+# Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Sebenzisa i-{ $app-name }
@@ -191,6 +196,7 @@ applications-manage-app =
     .label = IiNkcukacha zeAplikheshini…
 applications-always-ask =
     .label = Soloko ucela
+applications-type-pdf = Ifomathi yoxwebhu oluphathekayo (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
