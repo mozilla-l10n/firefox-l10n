@@ -256,6 +256,14 @@ applications-type-column =
 applications-action-column =
     .label = Дія
     .accesskey = Д
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Вміст з керуванням цифровими правами (DRM)
 play-drm-content =
     .label = Відтворювати вміст з DRM
@@ -624,6 +632,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Змінити головний пароль…
     .accesskey = і
+forms-master-pw-fips-title = Ви працюєте в режимі відповідності FIPS. При роботі в цьому режимі потрібно, щоб головний пароль не був порожній.
 
 ## Privacy Section - History
 
