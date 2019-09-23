@@ -168,8 +168,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "Pla &brandProductName; pśizjawiś">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; zmóžniś">
-<!ENTITY fxa.menu.account.label "Konto">
 <!ENTITY fxa.menu.firefoxServices.label "Słužby &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Konto">
+<!ENTITY fxa.menu.settings.label "Nastajenja">
+<!ENTITY fxa.menu.accountSettings.label "Kontowe nastajenja">
+<!ENTITY fxa.menu.signOut.label "Wótzjawiś…">
+<!ENTITY fxa.menu.deviceSettings.label "Rědowe nastajenja">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -983,10 +988,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Pśeslědowaki">
 
 <!ENTITY contentBlocking.manageSettings.label "Blokěrowanje wopśimjeśa zastojaś">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Slědujuce wopśimjeśe">
-
-<!ENTITY contentBlocking.manageSettings2.label "Šćitowe nastajenja zastojaś">
 <!ENTITY contentBlocking.manageSettings.accesskey "z">
 
 <!ENTITY contentBlocking.trackersView.label "Pśeslědowaki">
@@ -995,6 +996,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookieje">
 <!ENTITY contentBlocking.cookiesView.label "Cookieje a sedłowe daty">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Slědujuce wopśimjeśe">
+
+<!ENTITY contentBlocking.manageSettings2.label "Šćitowe nastajenja zastojaś">
 <!ENTITY contentBlocking.manageSettings2.accesskey "n">
 
 <!ENTITY contentBlocking.socialblock.label "Pśeslědowaki socialnych medijow">
