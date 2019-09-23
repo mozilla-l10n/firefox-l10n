@@ -633,6 +633,7 @@ forms-master-pw-change =
     .label = Zmień hasło główne…
     .accesskey = Z
 forms-master-pw-fips-title = Program pracuje obecnie w trybie FIPS. Tryb FIPS wymaga niepustego hasła głównego.
+forms-master-pw-fips-desc = Zmiana hasła się nie powiodła.
 
 ## Privacy Section - History
 
