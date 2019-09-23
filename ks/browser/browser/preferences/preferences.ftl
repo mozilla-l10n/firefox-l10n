@@ -100,6 +100,14 @@ applications-type-column =
 applications-action-column =
     .label = حركت
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 update-application-use-service =
     .label = پس۪ی منظر خدمت كریو استیمال اپڈیٹس اِنسٹال كرنئ خٲطرئ
     .accesskey = b
@@ -209,6 +217,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = ماسٹر خُفیئ لفظ بدلٲویو...
     .accesskey = M
+forms-master-pw-fips-title = { "  " }موڈس منز چھیو توہیہ وْنکینس۔ اکھ نان۔ایمپٹی ماسٹر پاس وأرڈ چُھ ضرورت اتھFIPS۔ FIPS
+forms-master-pw-fips-desc = خفیہ لفظ   تبدیلی گئی ناكام
 
 ## Privacy Section - History
 
