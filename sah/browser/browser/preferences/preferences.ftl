@@ -90,6 +90,14 @@ applications-type-column =
 applications-action-column =
     .label = Дьайыы
     .accesskey = Д
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 update-application-use-service =
     .label = Саҥардыылары туруорарга фон сулууспаны туһан
     .accesskey = ф
@@ -184,6 +192,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Маастар киирии тылы уларытарга…
     .accesskey = М
+forms-master-pw-fips-title = Эн FIPS эрэсиимигэр холбонон олороҕун. Маннык эрэсиимҥэ маастар киирии тылы туоруорар ирдэнэр.
+forms-master-pw-fips-desc = Киирии тыл уларыйбата
 
 ## Privacy Section - History
 
