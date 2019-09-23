@@ -265,6 +265,7 @@ applications-manage-app =
     .label = Λεπτομέρειες εφαρμογής…
 applications-always-ask =
     .label = Πάντα ερώτηση
+applications-type-pdf = Μορφή Φορητού Εγγράφου (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
