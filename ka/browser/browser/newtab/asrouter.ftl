@@ -150,3 +150,5 @@ cfr-doorhanger-socialtracking-heading = { -brand-short-name } უზღუდა
 cfr-doorhanger-socialtracking-description = თქვენი პირადულობა მნიშვნელოვანია. { -brand-short-name } ახლა უკვე ზღუდავს ცნობილი სოციალური ქსელების მეთვალყურე საშუალებებს, უსაზღვრავს მათ ინტერნეტში თქვენ შესახებ შესაგროვებელი მონაცემების ოდენობას.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } ზღუდავს მომხმარებლის ამომცნობს ამ საიტზე
 cfr-doorhanger-fingerprinters-description = თქვენი პირადულობა მნიშვნელოვანია. { -brand-short-name } ახლა უკვე ზღუდავს მომხმარებლის ამომცნობ საშუალებებს, რომელთაც შეუძლია თქვენი სხვებისგან გამორჩევა თვალის სადევნებლად, თქვენზე შეგროვებული მონაცემებით.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } ზღუდავს კრიპტოვალუტის გამომმუშავებელს ამ საიტზე
+cfr-doorhanger-cryptominers-description = თქვენი პირადულობა მნიშვნელოვანია. { -brand-short-name } ახლა უკვე ზღუდავს კრიპტოვალუტის გამომმუშავებელ საშუალებებს, რომლებიც იყენებს თქვენი სისტემის გამოთვლის სიმძლავრეს ციფრული ფულის მოსაპოვებლად.
