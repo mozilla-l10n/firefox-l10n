@@ -629,6 +629,7 @@ forms-master-pw-change =
     .label = Changer le mot de passe principal…
     .accesskey = C
 forms-master-pw-fips-title = Vous êtes actuellement en mode FIPS. Ce mode nécessite un mot de passe principal non vide.
+forms-master-pw-fips-desc = Échec de la modification du mot de passe principal
 
 ## Privacy Section - History
 
