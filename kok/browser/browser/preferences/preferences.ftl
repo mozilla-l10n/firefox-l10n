@@ -100,6 +100,14 @@ applications-type-column =
 applications-action-column =
     .label = कारवाय
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 update-application-use-service =
     .label = सुदार प्रतिष्ठापित करपाक फाटभूंय सेवा वापरात
     .accesskey = b
@@ -209,6 +217,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = प्रधान गुप्त शब्द बदलात...
     .accesskey = M
+forms-master-pw-fips-title = तुमी सद्या FIPS स्थितीन आसात. FIPS क बगर-रिकामो मास्टर पासवर्ड जाय.
+forms-master-pw-fips-desc = गुप्तशब्द  बदलप असफळ
 
 ## Privacy Section - History
 
