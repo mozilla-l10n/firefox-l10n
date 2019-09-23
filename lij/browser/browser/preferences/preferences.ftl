@@ -252,6 +252,14 @@ applications-type-column =
 applications-action-column =
     .label = Açion
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Contegnuo da Gestion di Diritti Digitali (DRM)
 play-drm-content =
     .label = Riproduxi o contegnuo DRM-controlled
@@ -588,6 +596,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Cangia a paròlla segreta prinçipâ…
     .accesskey = C
+forms-master-pw-fips-desc = Cangio de paròlla segreta no riescio
 
 ## Privacy Section - History
 
