@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Toiminto
     .accesskey = o
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Käyttöoikeuksien hallintaa (DRM) käyttävä sisältö
 play-drm-content =
     .label = Toista DRM-suojattua sisältöä
@@ -614,6 +622,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Muuta pääsalasanaa…
     .accesskey = M
+forms-master-pw-fips-title = Olet FIPS-tilassa ja se vaatii pääsalasanan.
+forms-master-pw-fips-desc = Salasanan vaihto epäonnistui
 
 ## Privacy Section - History
 
