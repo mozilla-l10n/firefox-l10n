@@ -250,6 +250,14 @@ applications-type-column =
 applications-action-column =
     .label = করণীয়
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = ডিজিটাল অধিকার ব্যবস্থাপনা (DRM) কন্টেন্ট
 play-drm-content =
     .label = DRM-নিয়ন্ত্রিত কন্টেন্ট প্লে করুন
@@ -580,6 +588,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = মাস্টার পাসওয়ার্ড পরিবর্তন...
     .accesskey = M
+forms-master-pw-fips-title = আপনি বর্তমানে FIPS মোড ব্যবহার করছেন। FIPS-এর ক্ষেত্রে মাস্টার পাসওয়ার্ড ফাঁকা রাখা যাবে না।
+forms-master-pw-fips-desc = পাসওয়ার্ড পরিবর্তন করতে ব্যর্থ
 
 ## Privacy Section - History
 
