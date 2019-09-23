@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Sa gi'iát
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Sa ma DRM (Digital Rights Management - Sa Dugumin)
 play-drm-content =
     .label = Nachrun' 'ngà DRM
@@ -616,6 +624,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Nadunā Da’nga’ Huì A’nïn’ïn
     .accesskey = N
+forms-master-pw-fips-title = Akuan’ nïn nī nunt ngà modô FIPS. FIPS nī ni’ñan ‘ngō Da’nga’ Huì a’nïn’ïn.
+forms-master-pw-fips-desc = Nu ga’ue nādunaj Da’nga’ Huìi
 
 ## Privacy Section - History
 
