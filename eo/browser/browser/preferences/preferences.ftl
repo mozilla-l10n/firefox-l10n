@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Ago
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Enhavo kun cifereca administrado de rajtoj (DRM)
 play-drm-content =
     .label = Ludi DRM-administritan enhavon
@@ -612,6 +620,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Ŝanĝi ĉefan pasvorton…
     .accesskey = v
+forms-master-pw-fips-title = Vi estas nun en FIPSa reĝimo. FIPS postulas nemalplenan  ĉefan pasvorton.
+forms-master-pw-fips-desc = Pasvorto malsukcese ŝanĝita
 
 ## Privacy Section - History
 
