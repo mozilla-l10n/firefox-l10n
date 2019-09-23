@@ -256,6 +256,14 @@ applications-type-column =
 applications-action-column =
     .label = Akcia
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Obsah chránený pomocou Digital Rights Management (DRM)
 play-drm-content =
     .label = Prehrávať obsah chránený pomocou DRM
@@ -602,6 +610,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Zmeniť hlavné heslo…
     .accesskey = h
+forms-master-pw-fips-title = Momentálne používate režim FIPS. Tento režim vyžaduje nastavenie hlavného hesla.
+forms-master-pw-fips-desc = Heslo sa nepodarilo zmeniť
 
 ## Privacy Section - History
 
