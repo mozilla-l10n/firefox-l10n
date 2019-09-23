@@ -242,6 +242,11 @@ applications-action-column =
     .label = Thao tác
     .accesskey = a
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = Tập tin { $extension }
+applications-action-save =
+    .label = Lưu Tập Tin
+# Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Dùng { $app-name }
@@ -249,6 +254,8 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Dùng { $app-name } (mặc định)
+applications-use-other =
+    .label = Dùng chương trình khác…
 applications-always-ask =
     .label = Luôn hỏi
 # Variables:
