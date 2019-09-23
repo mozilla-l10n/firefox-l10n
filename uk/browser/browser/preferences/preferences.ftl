@@ -265,11 +265,14 @@ applications-action-save =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Використовувати { $app-name }
+applications-use-other =
+    .label = Використовувати іншу…
 applications-select-helper = Виберіть допоміжну програму
 applications-manage-app =
     .label = Подробиці програми…
 applications-always-ask =
     .label = Завжди питати
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
