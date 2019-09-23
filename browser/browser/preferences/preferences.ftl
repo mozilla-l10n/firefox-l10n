@@ -84,6 +84,14 @@ applications-action-column =
     .label = Хэрхэн хандах
     .accesskey = н
 
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
+
 ## General Section - Performance
 
 performance-allow-hw-accel =
@@ -162,6 +170,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Мастер нууц үгийг өөрчил…
     .accesskey = с
+forms-master-pw-fips-title = Та одоогоор FIPS горимд байна. Энэ горимд мастер нууц үг хоосон байх ёсгүй.
 
 ## Privacy Section - History
 
