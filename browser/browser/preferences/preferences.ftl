@@ -248,6 +248,14 @@ applications-type-column =
 applications-action-column =
     .label = Darbība
     .accesskey = a
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Digitālā satura tiesību pārvaldības (DRM) saturs
 play-drm-content =
     .label = Atskaņot DRM kontrolētu saturu
@@ -579,6 +587,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Nomainīt galveno paroli...
     .accesskey = m
+forms-master-pw-fips-title = Šobrīd jūs esat FIPS režīmā. FIPS nepieļauj tukšu galveno paroli.
+forms-master-pw-fips-desc = Paroles maiņa neizdevās
 
 ## Privacy Section - History
 
