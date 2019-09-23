@@ -249,6 +249,14 @@ applications-type-column =
 applications-action-column =
     .label = Aición
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Conteníu con Digital Rights Management (DRM)
 play-drm-content =
     .label = Reproducir conteníu remanáu por DRM
@@ -571,6 +579,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Camudar contraseña maestra…
     .accesskey = m
+forms-master-pw-fips-desc = Fallu al camudar la contraseña
 
 ## Privacy Section - History
 
@@ -671,6 +680,13 @@ addressbar-suggestions-settings = Camudar preferencies pa les suxerencies de los
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Bloquéu de conteníu
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
 content-blocking-tracking-protection-option-all-windows =
     .label = En toles ventanes
     .accesskey = t
