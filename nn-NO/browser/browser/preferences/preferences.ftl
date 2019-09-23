@@ -256,6 +256,8 @@ applications-action-column =
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension }-fil
+applications-action-save =
+    .label = Lagre fila
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
@@ -264,8 +266,14 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Bruk { $app-name } (standard)
+applications-use-other =
+    .label = Bruk anna…
+applications-select-helper = Vel hjelpeprogram
+applications-manage-app =
+    .label = Programinformasjon…
 applications-always-ask =
     .label = Spør alltid
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -273,6 +281,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Bruk { $plugin-name } (i { -brand-short-name })
 applications-preview-inapp =
     .label = Førehandsvis i { -brand-short-name }
 
