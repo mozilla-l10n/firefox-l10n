@@ -217,6 +217,14 @@ applications-type-column =
 applications-action-column =
     .label = कार्य
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = डिजिटल अधिकार व्यवस्थापन (DRM) सामग्री
 play-drm-content =
     .label = DRM-नियन्त्रित सामग्री प्ले गर्नुहोस्
@@ -490,6 +498,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = मुल गोप्यशब्द परिवर्तन गर्नुहोस्...
     .accesskey = M
+forms-master-pw-fips-title = तपाईँ अहिले FIPS ढाँचामा हुनुहुन्छ। FIPSलाई खाली नभएको मुल गोप्यशब्द चाहिन्छ।
+forms-master-pw-fips-desc = गोप्यशब्द परिवर्तन असफल
 
 ## Privacy Section - History
 
@@ -548,6 +558,13 @@ addressbar-locbar-openpage-option =
 addressbar-suggestions-settings = खोज इन्जिन सुझावहरूका लागि प्राथमिकताहरू परिवर्तन गर्नुहोस्
 
 ## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
 
 
 ## Privacy Section - Tracking
