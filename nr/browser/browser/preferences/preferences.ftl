@@ -60,6 +60,14 @@ download-choose-folder =
            *[other] o
         }
 
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
+
 ## General Section - Performance
 
 
@@ -119,6 +127,8 @@ use-current-pages =
 
 ## Privacy Section - Forms
 
+forms-master-pw-fips-title = Kwagades ukumhlobo weFIPS. IFIPS idinga inomboro yokungena elawulako enelitho.
+forms-master-pw-fips-desc = Ukutjhugululwa Kwenomboro Yokungena Kuhlulekile
 
 ## Privacy Section - History
 
