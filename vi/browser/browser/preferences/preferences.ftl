@@ -256,8 +256,12 @@ applications-use-app-default =
     .label = Dùng { $app-name } (mặc định)
 applications-use-other =
     .label = Dùng chương trình khác…
+applications-select-helper = Chọn ứng dụng trợ giúp
+applications-manage-app =
+    .label = Chi tiết ứng dụng…
 applications-always-ask =
     .label = Luôn hỏi
+applications-type-pdf = Định dạng tài liệu di động (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
