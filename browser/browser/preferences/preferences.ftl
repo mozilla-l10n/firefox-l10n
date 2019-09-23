@@ -237,12 +237,38 @@ applications-action-column =
     .label = செயல்
     .accesskey = A
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } கோப்பு
+applications-action-save =
+    .label = கோப்பினை சேமி
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = { $app-name }ஐ பயன்படுத்து
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Use { $app-name } (முன்னிருப்பு)
+applications-use-other =
+    .label = வேறொன்றைப் பயன்படுத்து…
+applications-select-helper = உதவி பயன்பாட்டைத் தேர்ந்தெடு
+applications-manage-app =
+    .label = பயன்பாட்டு விவரங்கள்…
+applications-always-ask =
+    .label = எப்போதும் கேள
+# Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = { $plugin-name }ஐ பயன்படுத்து ({ -brand-short-name }இல்)
+applications-preview-inapp =
+    .label = { -brand-short-name }இல் முன்பார்வை காட்டு
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
