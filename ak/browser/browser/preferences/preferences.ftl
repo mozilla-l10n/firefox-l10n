@@ -89,6 +89,14 @@ applications-type-column =
 applications-action-column =
     .label = Dwumadi
     .accesskey = D
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 update-application-use-service =
     .label = Fa ndaekyiri asom no instɔɔle ntoso bi
     .accesskey = n
@@ -184,6 +192,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Sesa Ehintasɛmfua Panin…
     .accesskey = m
+forms-master-pw-fips-title = Sesei no wowɔ FIPS tebea mu. FIPS hia Ehintasɛmfua Titiriw a ano yɛ den.
+forms-master-pw-fips-desc = Ehintasɛmfua nsakrae dii nkugu
 
 ## Privacy Section - History
 
