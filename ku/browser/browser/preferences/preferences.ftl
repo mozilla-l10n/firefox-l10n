@@ -88,6 +88,11 @@ applications-action-column =
     .label = Çalakî
     .accesskey = a
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = Pela { $extension }
+applications-action-save =
+    .label = Di dîska pêdandî de tomar bike
+# Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = { $app-name }'ê bi kar bîne
@@ -95,6 +100,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name }'ê bi kar bîne (standard)
+applications-use-other =
+    .label = Sepana din bi kar bîne…
+applications-select-helper = Sepana Alîkar Hilbijêre
+applications-manage-app =
+    .label = Kitekitên Sepanan…
+applications-always-ask =
+    .label = Her tim bipirse
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -106,6 +118,8 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name }'ê bi kar bîne (ji bo { -brand-short-name }'ê)
+applications-preview-inapp =
+    .label = Pêşdîtin di { -brand-short-name }'ê de
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
