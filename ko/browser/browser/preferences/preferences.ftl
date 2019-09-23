@@ -250,6 +250,10 @@ applications-action-save =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = { $app-name } 사용
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = { $app-name } 사용(기본값)
 applications-use-other =
     .label = 다른 프로그램 사용…
 applications-select-helper = 지원 프로그램 선택
@@ -257,6 +261,7 @@ applications-manage-app =
     .label = 응용 프로그램 세부사항…
 applications-always-ask =
     .label = 항상 물어 보기
+applications-type-pdf = PDF 문서(PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -264,6 +269,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = { $plugin-name } 사용({ -brand-short-name })
 applications-preview-inapp =
     .label = { -brand-short-name } 미리 보기
 
