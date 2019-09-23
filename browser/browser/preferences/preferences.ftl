@@ -241,6 +241,14 @@ applications-type-column =
 applications-action-column =
     .label = Thao tác
     .accesskey = a
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Nội dung quản lý bản quyền kỹ thuật số (DRM)
 play-drm-content =
     .label = Phát nội dung DRM được kiểm soát
@@ -604,6 +612,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Thay đổi mật khẩu chính…
     .accesskey = M
+forms-master-pw-fips-title = Bạn đang ở chế độ FIPS. FIPS yêu cầu Mật khẩu Chính không được để trống.
 
 ## Privacy Section - History
 
@@ -744,7 +753,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Tùy chỉnh
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = Cân bằng để bảo vệ và hiệu suất. Các trang sẽ tải bình thường.
 content-blocking-etp-strict-desc = Bảo vệ mạnh mẽ hơn, nhưng có thể khiến một số trang web và nội dung bị phá vỡ.
