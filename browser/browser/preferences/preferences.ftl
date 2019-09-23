@@ -258,6 +258,14 @@ applications-action-column =
 applications-file-ending = { $extension } αρχείο
 applications-action-save =
     .label = Αποθήκευση αρχείου
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Χρήση εφαρμογής "{ $app-name }"
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Χρήση εφαρμογής "{ $app-name }" (προεπιλογή)
 applications-use-other =
     .label = Χρήση άλλης…
 applications-select-helper = Επιλογή βοηθητικής εφαρμογής
@@ -273,6 +281,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Χρήση αρθρώματος "{ $plugin-name }" (σε { -brand-short-name })
 applications-preview-inapp =
     .label = Προεπισκόπηση σε { -brand-short-name }
 
