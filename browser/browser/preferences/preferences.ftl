@@ -266,6 +266,8 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Utilitza { $app-name } (per defecte)
+applications-use-other =
+    .label = Utilitza una altra aplicació…
 applications-select-helper = Selecciona l'aplicació ajudant
 applications-manage-app =
     .label = Detalls de l'aplicació…
