@@ -252,6 +252,14 @@ applications-type-column =
 applications-action-column =
     .label = ક્રિયા
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = ડિજિટલ અધિકાર સંચાલન (DRM) કન્ટેન્ટ
 play-drm-content =
     .label = DRM-નિયંત્રિત સામગ્રીને ચાલુ કરો
@@ -585,6 +593,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = મુખ્ય પાસવર્ડ બદલો...
     .accesskey = M
+forms-master-pw-fips-title = તમે હાલમાં FIPS સ્થિતિમાં છો. FIPS માટે ખાલી-નહિં એવો મુખ્ય પાસવર્ડ જરૂરી છે.
+forms-master-pw-fips-desc = પાસવર્ડ બદલવાનું નિષ્ફળ
 
 ## Privacy Section - History
 
