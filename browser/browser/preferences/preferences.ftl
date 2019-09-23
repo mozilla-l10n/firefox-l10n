@@ -186,6 +186,14 @@ applications-type-column =
 applications-action-column =
     .label = ಕಾರ್ಯ
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 play-drm-content-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 update-application-title = { -brand-short-name } ನವೀಕರಣಗಳು
 update-application-version = ಆವೃತ್ತಿ{ $version } <a data-l10n-name="learn-more">ಹೊಸತೇನಿದೆ</a>
@@ -414,6 +422,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = ಮಾಸ್ಟರ್ ಗುಪ್ತಪದವನ್ನು ಬದಲಾಯಿಸು...
     .accesskey = M
+forms-master-pw-fips-title = ನೀವು ಸದ್ಯಕ್ಕೆ FIPS ವಿಧಾನದಲ್ಲಿದ್ದೀರಿ. FIPS ಗೆ ಒಂದು ಖಾಲಿ ಇರದ ಮಾಸ್ಟರ್ ಗುಪ್ತಪದದ ಅಗತ್ಯವಿದೆ.
+forms-master-pw-fips-desc = ಗುಪ್ತಪದವನ್ನು ಬದಲಾಯಿಸುವಲ್ಲಿ ವಿಫಲಗೊಂಡಿದೆ
 
 ## Privacy Section - History
 
@@ -478,6 +488,13 @@ addressbar-suggestions-settings = ಹುಡುಕು ಯಂತ್ರಗಳ ಸ�
 ## Privacy Section - Content Blocking
 
 content-blocking-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
 
 ## Privacy Section - Tracking
 
