@@ -73,6 +73,9 @@ download-choose-folder =
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Idosiye ya { $extension }
+applications-action-save =
+    .label = Kubika Dosiye
+applications-select-helper = Guhitamo Porogaramu yungirije
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
