@@ -88,6 +88,14 @@ applications-type-column =
 applications-action-column =
     .label = Isenzo
     .accesskey = I
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 update-application-use-service =
     .label = Sebenzisa isevisi yasemuva ukufaka ukwaziswa kwamuva
     .accesskey = y
@@ -183,6 +191,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Shintsha iphasiwedi yokungena ephethe…
     .accesskey = e
+forms-master-pw-fips-title = Njengamanje usebenza nge-FIPS. I-FIPS idinga Igama Lokungena Eliphethe elinotho.
+forms-master-pw-fips-desc = Ukushintsha Igama Lokungena Kuhlulekile
 
 ## Privacy Section - History
 
