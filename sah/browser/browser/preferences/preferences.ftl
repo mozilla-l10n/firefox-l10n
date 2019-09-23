@@ -99,6 +99,10 @@ applications-action-save =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Маны тутун { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Атыны этиллибэтэҕинэ маны тутун { $app-name }{ " " }
 applications-use-other =
     .label = Атыны тутун...
 applications-select-helper = Көмөлөһөр приложениены тал
