@@ -259,6 +259,14 @@ applications-type-column =
 applications-action-column =
     .label = Akcija
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Wopśimjeśe Digital Right Management (DRM)
 play-drm-content =
     .label = Wopśimjeśe wóźony pśez DRM wótgraś
@@ -628,6 +636,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Głowne gronidło změniś…
     .accesskey = m
+forms-master-pw-fips-title = Sćo tuchylu we FIPS-modusu. FIPS pomina se głowne gronidło.
+forms-master-pw-fips-desc = Změnjanje gronidła njejo se raźiło
 
 ## Privacy Section - History
 
@@ -768,7 +778,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Swójski
     .accesskey = S
 
-
+##
 
 content-blocking-etp-standard-desc = Wuwažony za šćit a wugbaśe. Boki se normalnje zacytaju.
 content-blocking-etp-strict-desc = Mócnjejšy šćit, ale móžo zawinowaś, až někotare sedła abo wopśimjeśe wěcej njefunkcioněruju.
