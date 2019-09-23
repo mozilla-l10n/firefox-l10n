@@ -238,6 +238,14 @@ applications-type-column =
 applications-action-column =
     .label = Darbeiba
     .accesskey = a
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Digital Rights Management (DRM) saturs
 play-drm-content =
     .label = Atskaņōt DRM kontrolietu saturu
@@ -558,6 +566,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Nūmaineit golvonū paroli...
     .accesskey = m
+forms-master-pw-fips-title = Itūbreid jius asot FIPS režymā. FIPS napīļauj tukšu golvonū paroli.
+forms-master-pw-fips-desc = Paroles maiņa naizadeve
 
 ## Privacy Section - History
 
@@ -645,6 +655,13 @@ addressbar-suggestions-settings = Izmainit mekleituoju īstatiejumus
 
 content-blocking-header = Satura bloķiešona
 content-blocking-learn-more = Vaira
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
 
 ## Privacy Section - Tracking
 
