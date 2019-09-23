@@ -87,6 +87,14 @@ applications-type-column =
 applications-action-column =
     .label = Çalakî
     .accesskey = a
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 update-application-use-service =
     .label = Ji bo sazkirina nûkirinan servîseke paşperdeyê bi kar bîne
     .accesskey = p
@@ -184,6 +192,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Şîfreyeke Mafbilind Biguherîne...
     .accesskey = M
+forms-master-pw-fips-title = Tu di moda FIPS de yî. Ji bo FIPS Nasnavê Rêvebiriyê vala çênabe.
+forms-master-pw-fips-desc = Guherandina Nasnavê bi ser neket
 
 ## Privacy Section - History
 
