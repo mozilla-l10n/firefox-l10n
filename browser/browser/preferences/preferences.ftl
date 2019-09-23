@@ -262,6 +262,14 @@ applications-type-column =
 applications-action-column =
     .label = الإجراء
     .accesskey = ج
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = محتوى إدارة الحقوق الرقمية (DRM)
 play-drm-content =
     .label = شغّل المحتوى الخاضع لإدارة الحقوق الرقمية
@@ -625,6 +633,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = غيّر كلمة السر الرئيسيّة…
     .accesskey = ر
+forms-master-pw-fips-title = أنت حاليًّا في وضع FIPS. يتطلّب FIPS كلمة سر غير فارغة.
+forms-master-pw-fips-desc = فشل تغيير كلمة السر
 
 ## Privacy Section - History
 
