@@ -161,9 +161,22 @@ applications-action-column =
 applications-file-ending = { $extension } tuku
 applications-action-save =
     .label = Tuku gaabu
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Goy nda { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Goy nda { $app-name } (tilasu)
+applications-use-other =
+    .label = Goy nda iwaani…
 applications-select-helper = Faabakaw porogaram suuba
+applications-manage-app =
+    .label = Porogaram šilbayhayey…
 applications-always-ask =
     .label = Hãa waati kul
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -171,6 +184,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Goy nda { $plugin-name } ({ -brand-short-name } ra)
 applications-preview-inapp =
     .label = Moo-fur { -brand-short-name } ra
 
