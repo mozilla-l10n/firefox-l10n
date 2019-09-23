@@ -245,6 +245,8 @@ applications-action-column =
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ֆայլ
+applications-action-save =
+    .label = Պահպանել Ֆայլը
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
