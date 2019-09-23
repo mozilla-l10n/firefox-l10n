@@ -110,6 +110,14 @@ applications-type-column =
 applications-action-column =
     .label = क्रिया
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 play-drm-content-learn-more = आओर जानू
 update-application-use-service =
     .label = अद्यतन संस्थापित करबाक लेल पृष्ठभूमि सेवाक उपयोग करू
@@ -265,6 +273,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = मुख्य गुड़किल्ली बदलू…
     .accesskey = M
+forms-master-pw-fips-desc = गुड़किल्ली बदलनाइ विफल
 
 ## Privacy Section - History
 
@@ -300,6 +309,13 @@ addressbar-locbar-openpage-option =
     .accesskey = O
 
 ## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
 
 
 ## Privacy Section - Tracking
