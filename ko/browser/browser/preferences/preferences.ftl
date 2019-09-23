@@ -241,6 +241,14 @@ applications-type-column =
 applications-action-column =
     .label = 실행
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = 디지털 권리 관리(DRM) 콘텐츠
 play-drm-content =
     .label = DRM 제어 콘텐츠 재생
@@ -604,6 +612,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = 기본 비밀번호 변경…
     .accesskey = M
+forms-master-pw-fips-title = 현재 FIPS 모드입니다. FIPS는 기본 비밀번호가 설정되어야 합니다.
+forms-master-pw-fips-desc = 비밀번호 변경 실패
 
 ## Privacy Section - History
 
@@ -744,7 +754,7 @@ enhanced-tracking-protection-setting-custom =
     .label = 사용자 지정
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = 보호와 성능사이의 균형이 잡혀 있습니다. 페이지가 정상적으로 로드됩니다.
 content-blocking-etp-strict-desc = 더 강력한 보호 기능을 제공하지만, 일부 사이트나 콘텐츠가 손상될 수 있습니다.
