@@ -613,6 +613,7 @@ forms-master-pw-change =
     .label = Thay đổi mật khẩu chính…
     .accesskey = M
 forms-master-pw-fips-title = Bạn đang ở chế độ FIPS. FIPS yêu cầu Mật khẩu Chính không được để trống.
+forms-master-pw-fips-desc = Thay đổi mật khẩu không thành công
 
 ## Privacy Section - History
 
