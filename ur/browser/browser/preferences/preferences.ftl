@@ -219,6 +219,14 @@ applications-type-column =
 applications-action-column =
     .label = عمل
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = عددی حقوق بندرستگی(DRM) مواد
 play-drm-content-learn-more = مزید سیکھیں
 update-application-title = { -brand-short-name } تازہ کاریاں:
@@ -497,6 +505,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = ماسٹر پاس ورڈ تبدیل کریں…
     .accesskey = M
+forms-master-pw-fips-desc = پاس ورڈ تبدیلی ناکام
 
 ## Privacy Section - History
 
