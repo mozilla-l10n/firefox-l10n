@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Eylem
     .accesskey = E
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Sayısal Hak Yönetimi (DRM) içerikleri
 play-drm-content =
     .label = DRM denetimli içerikleri oynat
@@ -620,6 +628,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Ana parolayı değiştir…
     .accesskey = d
+forms-master-pw-fips-desc = Parola değiştirme başarısız
 
 ## Privacy Section - History
 
@@ -760,7 +769,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Özel
     .accesskey = Ö
 
-
+##
 
 content-blocking-etp-standard-desc = Dengeli koruma ve performans. Sayfalar normal şekilde yüklenir.
 content-blocking-etp-strict-desc = Daha güçlü koruma, ama bazı siteler ve içerikler düzgün çalışmayabilir.
