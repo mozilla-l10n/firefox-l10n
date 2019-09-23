@@ -10,7 +10,7 @@ update-checkForUpdatesButton =
     .accesskey = T
 update-updateButton =
     .label = Emoñepyrũjey embohekopyahu hag̃ua { -brand-shorter-name }
-    .accesskey = R
+    .accesskey = E
 update-checkingForUpdates = Tekopyahu jehechajey…
 update-downloading = <img data-l10n-name="icon"/>Oñemboguejyhína tekopyahu —<label data-l10n-name="download-status"/>
 update-applying = Ojepuruhína tekopyahu…
@@ -30,8 +30,6 @@ helpus = Reipytyvõsepa<label data-l10n-name="helpus-donateLink">Mba'eme'ẽ</la
 bottomLinks-license = Marandu ñe'ẽme'ẽguigua
 bottomLinks-rights = Puruhára paha mba'engatu
 bottomLinks-privacy = Temiñemi purureko
-aboutDialog-architecture-sixtyFourBit = 64-bit
-aboutDialog-architecture-thirtyTwoBit = 32-bit
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1
