@@ -256,8 +256,10 @@ applications-use-app-default =
     .label = 使用 { $app-name } (預設程式)
 applications-use-other =
     .label = 使用其他程式…
+applications-select-helper = 選取對應程式
 applications-manage-app =
     .label = 程式詳細資訊…
+applications-type-pdf = 可攜式文件格式（PDF）
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
