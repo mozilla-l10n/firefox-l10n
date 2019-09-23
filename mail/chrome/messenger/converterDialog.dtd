@@ -7,5 +7,5 @@
 <!ENTITY converterDialog.cancelButton "Cancelar">
 <!ENTITY converterDialog.finishButton "Concluir">
 <!ENTITY converterDialog.complete "A conversão está concluída. &brandShortName; irá reiniciar agora.">
-<!ENTITY converterDialog.error "A conversão falhou.">
+<!ENTITY converterDialog.error "Falha na conversão.">
 
