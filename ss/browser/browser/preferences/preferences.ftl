@@ -43,6 +43,14 @@ colors-settings =
 ## General Section - Files and Applications
 
 
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
+
 ## General Section - Performance
 
 
@@ -82,6 +90,8 @@ browsing-use-smooth-scrolling =
 
 ## Privacy Section - Forms
 
+forms-master-pw-fips-title = Kwanyalo usesimeni se-FIPS. I-FIPS idzinga libitophawu lelikhulu lelinelutfo.
+forms-master-pw-fips-desc = Kwehlulekile kuguculwa kwelibitophawu
 
 ## Privacy Section - History
 
