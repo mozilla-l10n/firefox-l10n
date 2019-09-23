@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Actie
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Digital Rights Management (DRM)-inhoud
 play-drm-content =
     .label = DRM-beheerde inhoud afspelen
@@ -620,6 +628,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Hoofdwachtwoord wijzigen…
     .accesskey = z
+forms-master-pw-fips-title = U bent momenteel in FIPS-modus. FIPS vereist een ingesteld hoofdwachtwoord.
+forms-master-pw-fips-desc = Wachtwoordwijziging mislukt
 
 ## Privacy Section - History
 
@@ -760,7 +770,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Aangepast
     .accesskey = A
 
-
+##
 
 content-blocking-etp-standard-desc = Gebalanceerd voor bescherming en prestaties. Pagina’s laden normaal.
 content-blocking-etp-strict-desc = Sterkere bescherming, maar kan er voor zorgen dat sommige websites of inhoud niet werken.
