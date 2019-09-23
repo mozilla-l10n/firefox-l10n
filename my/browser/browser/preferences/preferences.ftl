@@ -232,9 +232,21 @@ applications-action-column =
 applications-file-ending = { $extension } ဖိုင်
 applications-action-save =
     .label = ဖိုင်ကို သိမ်းဆည်းပါ
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = { $app-name } ကို အသုံးပြုပါ
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = { $app-name } ကို အသုံးပြုပါ (မူလသတ်မှတ်ချက်)
+applications-use-other =
+    .label = အခြားအက်ပ်ကို အသုံးပြုရန်…
 applications-select-helper = အကူအညီပေး အက်ပလီကေးရှင်းအားရွေးပါ
 applications-manage-app =
     .label = အက်ပလီကေ:ရှင်းအသေးစိတ်...
+applications-always-ask =
+    .label = အမြဲမေးပါ
 applications-type-pdf = သယ်ယူရလွယ်ကူသော စာတမ်းပုံစံ (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
@@ -243,6 +255,12 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = ({ $plugin-name } တွင်) { -brand-short-name } ကို အသုံးပြုပါ
+applications-preview-inapp =
+    .label = { -brand-short-name } တွင် အစမ်းကြည့်ရန်
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
