@@ -217,6 +217,22 @@ applications-type-column =
 applications-action-column =
     .label = कार्य
     .accesskey = A
+applications-action-save =
+    .label = फाइल सङ्ग्रह गर्नुहोस्
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = प्रयोग गर्नुस { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = प्रयोग { $app-name } (तत्काल)
+applications-select-helper = मद्दतकर्ता अनुप्रयोग छनोट गर्नुहोस्
+applications-manage-app =
+    .label = एप्लिकेसन विवरणहरू
+applications-always-ask =
+    .label = सधै सोध्नुहोस्
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -224,6 +240,12 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = { $plugin-name } ({ -brand-short-name } मा) प्रयोग गर्नुहोस्
+applications-preview-inapp =
+    .label = { -brand-short-name } मा पूर्वावलोकन हेर्नुहोस्
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
