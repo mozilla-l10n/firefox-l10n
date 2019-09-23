@@ -262,7 +262,14 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } ব্যবহার করা হবে (ডিফল্ট)
+applications-use-other =
+    .label = অন্যান্য কোনো অ্যাপ্লিকেশন ব্যবহার করা হবে…
 applications-select-helper = সহায়ক অ্যাপ্লিকেশন নির্বাচন করুন
+applications-manage-app =
+    .label = অ্যাপ্লিকেশন সংক্রান্ত বিবরণ…
+applications-always-ask =
+    .label = সর্বদা জিজ্ঞাসা করা হবে
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -270,6 +277,12 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = { $plugin-name } ব্যবহার করা হবে ({ -brand-short-name }-র মধ্যে)
+applications-preview-inapp =
+    .label = { -brand-short-name }-এ পূর্বরূপ প্রদর্শিত হবে
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
