@@ -96,6 +96,14 @@ applications-type-column =
 applications-action-column =
     .label = का़मी
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 update-application-use-service =
     .label = हा़ली को बो़हाल ला़गित् मित् ओनोड़ का़मी बे्भार मे
     .accesskey = b
@@ -194,6 +202,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = मुल दानाङ साबाद बोदोल मे …
     .accesskey = M
+forms-master-pw-fips-title = आम नितोक्  FIPS  ओबोसता रे मेनामा. FIPS लागित मित् बाङ एकेनाक् मुल साबाद लाकती आ.
+forms-master-pw-fips-desc = दानाङ साबाद बोदोल डिगा़वेना.
 
 ## Privacy Section - History
 
