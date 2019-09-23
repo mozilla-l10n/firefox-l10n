@@ -241,6 +241,14 @@ applications-type-column =
 applications-action-column =
     .label = Aksi
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Konten Digital Rights Management (DRM)
 play-drm-content =
     .label = Putar konten DRM-terkontrol
@@ -595,6 +603,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Ubah Sandi Utama…
     .accesskey = U
+forms-master-pw-fips-title = Anda sedang dalam mode FIPS. Mode ini mewajibkan Sandi Utama harus diisi.
+forms-master-pw-fips-desc = Sandi Gagal Diubah
 
 ## Privacy Section - History
 
