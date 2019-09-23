@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = დასინქრონებული ჩანართები
 synced-tabs-sidebar-noclients-subtitle = გსურთ სხვა მოწყობილობების ჩანართების აქ ნახვა?
 synced-tabs-sidebar-notsignedin = შედით თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.
+synced-tabs-sidebar-intro = იხილეთ ჩანართების სია თქვენი სხვა მოწყობილობებიდან.
 synced-tabs-sidebar-unverified = თქვენი ანგარიში საჭიროებს დამოწმებას.
 synced-tabs-sidebar-notabs = გახსნილი ჩანართები არაა
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name(case: "gen") } პარამეტრების გახსნა
@@ -37,3 +38,4 @@ synced-tabs-context-manage-devices =
     .label = მოწყობილობების მართვა…
     .accesskey = მ
 fxa-sign-in = { -sync-brand-short-name } – შესვლა
+turn-on-sync = ჩართეთ { -sync-brand-short-name }

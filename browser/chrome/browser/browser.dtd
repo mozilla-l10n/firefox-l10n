@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "მენიუს ზოლი">
 <!ENTITY menubarCmd.accesskey "ზ">
 <!ENTITY navbarCmd.label "გადასაადგილებელი ხელსაწყოთა ზოლი">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "გადაადგილება">
 <!ENTITY personalbarCmd.label "სანიშნების ხელსაწყოთა ზოლი">
 <!ENTITY personalbarCmd.accesskey "ს">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "სანიშნები">
 <!ENTITY bookmarksToolbarItem.label "სანიშნების ზოლის ხელსაწყოები">
 
 <!ENTITY pageSourceCmd.label "გვერდის წყარო">
 <!ENTITY pageSourceCmd.accesskey "წ">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "გვერდის მონაცემები">
 <!ENTITY pageInfoCmd.accesskey "ი">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "განლაგების გამმართველი">
 <!ENTITY ldbCmd.accesskey "ნ">
@@ -116,6 +126,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; – ხელახლა დაკავშირება">
 <!ENTITY fxaUnverified.label "თქვენი ანგარიშის დადასტურება">
 
+
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "ჩაკეცვა">
 <!ENTITY fullScreenRestore.tooltip "აღდგენა">
@@ -145,14 +158,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "შესული, როგორც">
 <!ENTITY fxa.menu.manageAccount.label "ანგარიშის მართვა…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; – პარამეტრები…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "სხვა მოწყობილობის დაკავშირება…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "&brandProductName; – შესვლა">
 <!ENTITY fxa.menu.turnOnSync.label "ჩართეთ &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "ანგარიში">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; – მომსახურებები">
+
+<!ENTITY fxa.menu.account.label "ანგარიში">
+<!ENTITY fxa.menu.settings.label "პარამეტრები">
+<!ENTITY fxa.menu.accountSettings.label "ანგარიშის პარამეტრები">
+<!ENTITY fxa.menu.signOut.label "გამოსვლა…">
+<!ENTITY fxa.menu.deviceSettings.label "მოწყობილობის პარამეტრები">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -195,6 +217,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "სანიშნები">
 <!ENTITY bookmarksMenu.accesskey "ს">
+
 <!ENTITY bookmarkThisPageCmd.label "გვერდის ჩანიშვნა">
 <!ENTITY editThisBookmarkCmd.label "სანიშნის ჩასწორება">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -236,6 +259,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "გამოყენებული მოდულების მართვა">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "აირჩიეთ მიიღოთ თუ არა შეტყობინებები ამ საიტისგან">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "მონაცემების შენახვა მუდმივ მეხსიერებაზე">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ბრაუზერი იმყოფება დისტანციური მართვის ქვეშ">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "ვებსაიტებზე შესვლის არე">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "დათვალიერების მოქმედებების ნებართვების არის გახსნა">
@@ -421,8 +445,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "გსურთ სხვა მოწყობილობების ჩანართების აქ ნახვა?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "სინქრონიზაციის პარამეტრები">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "შედით თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
+<!ENTITY appMenuRemoteTabs.welcome.label "იხილეთ ჩანართების სია თქვენი სხვა მოწყობილობებიდან.">
 <!ENTITY appMenuRemoteTabs.unverified.label "თქვენი ანგარიში საჭიროებს დამოწმებას.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync-ში შესვლა">
+<!ENTITY appMenuRemoteTabs.signintosync.label "&syncBrand.shortName.label; — შესვლა…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "ჩართეთ &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "მოწყობილობების მართვა…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "დასინქრონებული ჩანართების გვერდითი ზოლის ნახვა">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "დასინქრონებული ჩანართების გვერდითი ზოლის დამალვა">
@@ -510,6 +537,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "ძებნის მოთხოვნა">
+
 <!ENTITY contentSearchSubmit.tooltip  "მოძებნა">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -814,9 +842,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "კავშირი">
 <!ENTITY identity.connectionSecure "დაცული კავშირი">
-
-<!ENTITY identity.connectionSecure2 "კავშირი დაცულია">
 <!ENTITY identity.connectionNotSecure "კავშირი დაუცველია">
+
+<!ENTITY identity.connectionSecure3 "კავშირი დაცულია">
+<!ENTITY identity.connectionNotSecure2 "დაუცველი კავშირი">
 <!ENTITY identity.connectionNotSecureSecurityView "თქვენი კავშირი ამ საიტთან არაა დაცული.">
 <!ENTITY identity.connectionFile "ეს გვერდი თქვენს კომპიუტერში ინახება.">
 <!ENTITY identity.connectionVerified2 "თქვენ საიმედოდ ხართ დაკავშირებული საიტთან, რომლის მფლობელიცაა:">
@@ -826,7 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "ამ გვერდზე შეყვანილი ანგარიშის მონაცემები შესაძლოა მოიპარონ.">
 <!ENTITY identity.customRoot "კავშირი დამოწმებულია სერტიფიკატის გამომშვების მიერ, რომელიც უცნობია Mozilla-სთვის.">
 
-<!ENTITY identity.evOwnerLabel "საიტის მფლობელი:">
+<!ENTITY identity.evOwnerLabel2 "სერტიფიკატის მფლობელი:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ზღუდავს გვერდის დაუცველ ნაწილებს.">
@@ -862,9 +891,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "ნებართვები">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "მითითებული უფლებები">
-
 <!ENTITY identity.permissions3 "ნებართვები">
 <!ENTITY identity.permissionsEmpty "ამ საიტისთვის განსაკუთრებული უფლებები არ მიგიციათ.">
 <!ENTITY identity.permissionsReloadHint "ცვლილებების ასამოქმედებლად შესაძლოა გვერდის ხელახლა ჩატვირთვა დაგჭირდეთ.">
@@ -878,7 +904,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "ვრცლად, თვალთვალისგან გაძლიერებული დაცვის შესახებ">
 <!ENTITY protections.settings.label "უსაფრთხოების პარამეტრები">
-<!ENTITY protections.report.label "სრული ანგარიშის ჩვენება">
 <!ENTITY protections.showreport.label "ანგარიშის ნახვა">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -896,7 +921,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "გადახდებზე">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "გამოხმაურებებზე">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "ვიდეოებზე">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "დაცვის გამორთვის შემდეგაც დაზიანებულია საიტი?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "მოგვახსენეთ">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -924,7 +948,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "ეს ფუნთუშები თან დაგყვებათ საიტებზე და აგროვებს მონაცემებს, თუ რას აკეთებთ ინტერნეტში. მათ იყენებს გარეშე მხარეები, სარეკლამო და კვლევითი დაწესებულებები.">
 <!ENTITY protections.cryptominers.description "კრიპტოვალუტის გამომმუშავებლები სარგებლობს თქვენი სისტემის გამოთვლის სიმძლავრით ციფრული ფულის მოსაპოვებლად. ამგვარი კოდები ასუსტებს ბატარეას, ანელებს კომპიუტერს და ზრდის დენის დანახარჯს.">
 <!ENTITY protections.fingerprinters.description "მომხმარებლის ამომცნობები აგროვებს ბრაუზერისა და კომპიუტერის მონაცემებს, თქვენი დახასიათების შესადგენად. მისი მეშვეობით კი თქვენი სხვებისგან გამორჩევაა შესაძლებელი, სხვადასხვა საიტებზე.">
-<!ENTITY protections.trackingContent.description "საიტები, ზოგჯერ გარე ბმულებიდან ტვირთავს თვალის სადევნებელი კოდის შემცველ რეკლამებს, ვიდეოებსა და სხვა მასალას. მათი შეზღუდვით, საიტი კი უფრო სწრაფად ჩაიტვირთება, თუმცა ღილაკებმა, ანგარიშისა და სხვა შესავსებმა ველებმა, შეიძლება აღარ იმუშაოს.">
+<!ENTITY protections.trackingContent2.description "საიტები, ზოგჯერ გარე ბმულებიდან ტვირთავენ თვალის სადევნებელი კოდის შემცველ მასალას. მათი შეზღუდვით, საიტი უფრო სწრაფად ჩაიტვირთება, თუმცა ღილაკებმა, ანგარიშისა და სხვა შესავსებმა ველებმა, შეიძლება აღარ იმუშაოს.">
 <!ENTITY protections.socialMediaTrackers.description "სოციალური ქსელები ათავსებს მეთვალყურეებს სხვა საიტებზე, რომ თვალი გადევნონ ინტერნეტში. ეს საშუალებას აძლევს მათ მფლობელ დაწესებულებებს, იმაზე მეტი რამ შეიტყონ თქვენ შესახებ, ვიდრე ამ სოციალურ ქსელში გაქვთ გაზიარებული.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -964,10 +988,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "მეთვალყურეები">
 
 <!ENTITY contentBlocking.manageSettings.label "შიგთავსის შეზღუდვის მართვა">
-
-<!ENTITY contentBlocking.trackingProtection4.label "თვალის მდევნელი შიგთავსი">
-
-<!ENTITY contentBlocking.manageSettings2.label "დაცვის პარამეტრების მართვა">
 <!ENTITY contentBlocking.manageSettings.accesskey "მ">
 
 <!ENTITY contentBlocking.trackersView.label "მეთვალყურეები">
@@ -975,6 +995,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "ფუნთუშები">
 <!ENTITY contentBlocking.cookiesView.label "ფუნთუშები და საიტის მონაცემები">
+
+<!ENTITY contentBlocking.trackingProtection4.label "თვალის მდევნელი შიგთავსი">
+
+<!ENTITY contentBlocking.manageSettings2.label "დაცვის პარამეტრების მართვა">
+<!ENTITY contentBlocking.manageSettings2.accesskey "მ">
 
 <!ENTITY contentBlocking.socialblock.label "სოციალური ქსელის მეთვალყურეები">
 
@@ -990,6 +1015,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "ხარვეზების მოხსენება">
 <!ENTITY contentBlocking.breakageReportView2.description "შიგთავსის შეზღუდვის შედეგად, შესაძლოა საიტებმა გამართულად ვერ იმუშაოს. ხარვეზების მოხსენებით, თქვენ დაგვეხმარებით, რომ &brandShortName; გავხადოთ უკეთესი ყველასთვის. (შედეგად, Mozilla-ს გადაეგზავნება როგორც URL-ბმული, აგრეთვე თქვენი ბრაუზერის პარამეტრების მონაცემები)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "იხილეთ ვრცლად">
+
 <!ENTITY contentBlocking.breakageReportView.title "მოხსენება დაზიანებულ საიტზე">
 <!ENTITY contentBlocking.breakageReportView3.description "შიგთავსის შეზღუდვის შედეგად, შესაძლოა საიტებმა გამართულად ვერ იმუშაოს. ხარვეზების მოხსენებით, თქვენ დაგვეხმარებით, რომ &brandShortName; გავხადოთ უკეთესი ყველასთვის. შედეგად, Mozilla-ს გადაეგზავნება როგორც URL-ბმული, აგრეთვე თქვენი ბრაუზერის პარამეტრების მონაცემები.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "ვრცლად">
@@ -1045,6 +1071,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "მ">
 
 <!ENTITY homepageControlled.message "საწყისი გვერდი, შეცვლილია გაფართოების მიერ. თუ არ გსურთ ეს ცვლილება, შეგიძლიათ დააბრუნოთ ძველი პარამეტრები.">
+
 <!ENTITY homepageControlled.header.message "თქვენი საწყისი გვერდი შეცვლილია.">
 <!ENTITY homepageControlled.keepButton.label "ცვლილებების დატოვება">
 <!ENTITY homepageControlled.keepButton.accesskey "ც">

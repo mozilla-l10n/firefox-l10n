@@ -663,6 +663,7 @@ forms-generate-passwords =
 forms-breach-alerts =
     .label = შეტყობინება პაროლებზე, იერიშმიტანილი საიტებისთვის
     .accesskey = შ
+forms-breach-alerts-learn-more-link = იხილეთ ვრცლად
 forms-fill-logins-and-passwords =
     .label = ანგარიშის მონაცემების თვითშევსება
     .accesskey = ა
