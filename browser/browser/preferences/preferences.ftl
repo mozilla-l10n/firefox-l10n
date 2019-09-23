@@ -265,6 +265,9 @@ applications-type-column =
 applications-action-column =
     .label = Gweithred
     .accesskey = G
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = Ffeil { $extension }
 applications-action-save =
     .label = Cadw Ffeil
 # Variables:
