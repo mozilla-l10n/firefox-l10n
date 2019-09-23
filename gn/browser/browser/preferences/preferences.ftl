@@ -253,6 +253,26 @@ applications-type-column =
 applications-action-column =
     .label = Ñemongu'e
     .accesskey = A
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } marandurenda
+applications-action-save =
+    .label = Marandurenda ñongatu
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = { $app-name } jepuru
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = { $app-name } jeporu (ijypykue)
+applications-use-other =
+    .label = Ambuéva jepuru…
+applications-select-helper = Eiporavo tembipuru'i pytyvõrãva
+applications-manage-app =
+    .label = Tembipuru'i mba'emimi…
+applications-always-ask =
+    .label = Porandu tapia
 applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
@@ -261,6 +281,12 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = { $plugin-name } jepuru ({ -brand-short-name }-pe)
+applications-preview-inapp =
+    .label = { -brand-short-name }-pe jehecha'ypy
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
