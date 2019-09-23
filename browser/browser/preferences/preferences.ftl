@@ -628,6 +628,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Ana parolayı değiştir…
     .accesskey = d
+forms-master-pw-fips-title = Şu anda FIPS kipindesiniz. FIPS için boş olmayan bir ana parola gerekli.
 forms-master-pw-fips-desc = Parola değiştirme başarısız
 
 ## Privacy Section - History
