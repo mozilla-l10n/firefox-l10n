@@ -79,6 +79,14 @@ applications-type-column =
 applications-action-column =
     .label = Dzejanié
     .accesskey = D
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 update-application-use-service =
     .label = Ùżëjë spòdlowi ùsłëżnotë instalowaniô aktualizacje
     .accesskey = Ù
@@ -170,6 +178,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Zmieni przédną parolã…
     .accesskey = Z
+forms-master-pw-fips-title = Robisz w tribie FIPS. Tribòwi FIPS je nót niepùsti przédny parolë.
+forms-master-pw-fips-desc = Zmiana parolë nie darziła sã.
 
 ## Privacy Section - History
 
