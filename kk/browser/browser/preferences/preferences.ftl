@@ -622,6 +622,7 @@ forms-master-pw-change =
     .label = Мастер-парольді өзгерту…
     .accesskey = т
 forms-master-pw-fips-title = Сіз FIPS -ке сәйкестеу режимінде жұмыс істеп отырсыз. Бұл режим бос емес мастер-парольді талап етеді.
+forms-master-pw-fips-desc = Парольді өзгерту сәтсіз аяқталды
 
 ## Privacy Section - History
 
