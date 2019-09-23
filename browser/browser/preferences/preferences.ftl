@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Tegevus
     .accesskey = T
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Autoriõiguse digitaalkaitsega (DRM) sisu
 play-drm-content =
     .label = DRMiga kaitstud sisu esitamine lubatakse
@@ -620,6 +628,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Muuda ülemparooli…
     .accesskey = p
+forms-master-pw-fips-title = Sa oled FIPS-režiimis. See eeldab, et sinu ülemparool ei oleks tühi.
+forms-master-pw-fips-desc = Parooli muutmine nurjus
 
 ## Privacy Section - History
 
@@ -760,7 +770,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Kohandatud
     .accesskey = K
 
-
+##
 
 content-blocking-etp-standard-desc = Tasakaalustatud kaitse ja jõudluse jaoks. Lehed laaditakse tavapäraselt.
 content-blocking-etp-strict-desc = Tugevam kaitse, võib põhjustada mõnel saidil või sisus probleeme.
