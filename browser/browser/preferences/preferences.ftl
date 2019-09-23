@@ -258,7 +258,19 @@ applications-action-column =
 applications-file-ending = Ficheiro { $extension }
 applications-action-save =
     .label = Guardar ficheiro
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Utilizar { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Utilizar { $app-name } (predefinição)
+applications-use-other =
+    .label = Outra…
 applications-select-helper = Selecione a aplicação auxiliar
+applications-manage-app =
+    .label = Detalhes da aplicação…
 applications-always-ask =
     .label = Perguntar sempre
 applications-type-pdf = Portable Document Format (PDF)
@@ -273,6 +285,8 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Utilizar { $plugin-name } (em { -brand-short-name })
+applications-preview-inapp =
+    .label = Pré-visualizar no { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
