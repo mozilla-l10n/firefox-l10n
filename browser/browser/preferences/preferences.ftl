@@ -587,6 +587,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = প্রধান পাসওয়ার্ড পরিবর্তন করুন…
     .accesskey = M
+forms-master-pw-fips-title = আপনি বর্তমানে FIPS মোড ব্যবহার করছেন। FIPS-র ক্ষেত্রে প্রধান পাসওয়ার্ড ফাঁকা রাখা যাবে না।
 forms-master-pw-fips-desc = পাসওয়ার্ড পরিবর্তন করতে ব্যর্থ
 
 ## Privacy Section - History
