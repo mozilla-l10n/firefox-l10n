@@ -144,6 +144,14 @@ applications-type-column =
 applications-action-column =
     .label = हाबा
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 play-drm-content-learn-more = गोबां सोलों
 update-application-title = { -brand-short-name } नि आपडेटफोर
 update-history =
@@ -347,6 +355,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = मा्स्थार बारग'सोदोबखौ सोलाय...
     .accesskey = म
+forms-master-pw-fips-title = नोंथाङा दासान्दि FIPS म'डआव दं। FIPS नो मोनसे लांदां-नङै मास्टार पासवार्ड नांगौ।
+forms-master-pw-fips-desc = पासवर्ड सोलायनाया फेलें जाबाय
 
 ## Privacy Section - History
 
@@ -434,7 +444,7 @@ enhanced-tracking-protection-setting-custom =
     .label = कास्टम
     .accesskey = C
 
-
+##
 
 content-blocking-tracking-protection-option-all-windows =
     .label = गासै उइन्ड'स आव
