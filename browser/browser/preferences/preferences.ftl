@@ -224,6 +224,7 @@ applications-manage-app =
     .label = Mionsonraí Feidhmchláir…
 applications-always-ask =
     .label = Fiafraigh díom i gcónaí
+applications-type-pdf = Formáid Doiciméad Iniompartha (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
