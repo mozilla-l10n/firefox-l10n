@@ -232,6 +232,8 @@ applications-action-column =
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ఫైలు
+applications-action-save =
+    .label = ఫైల్‌ను భద్రపరచు
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
@@ -245,6 +247,9 @@ applications-use-other =
 applications-select-helper = సహాయక అనువర్తనాన్ని ఎన్నుకోండి
 applications-manage-app =
     .label = అనువర్తన వివరాలు…
+applications-always-ask =
+    .label = ఎల్లప్పుడు అడుగు
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
