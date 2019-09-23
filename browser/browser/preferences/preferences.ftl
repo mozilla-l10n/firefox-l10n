@@ -233,14 +233,24 @@ applications-type-column =
 applications-action-column =
     .label = Tindakan
     .accesskey = A
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = Fail { $extension }
 applications-action-save =
     .label = Simpan Fail
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Guna { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Guna { $app-name } (piawai)
 applications-use-other =
     .label = Guna yang lain…
+applications-select-helper = Pilih Aplikasi Helper
+applications-manage-app =
+    .label = Butiran Aplikasi…
 applications-always-ask =
     .label = Sentiasa tanya
 applications-type-pdf = Portable Document Format (PDF)
@@ -255,6 +265,8 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Guna { $plugin-name } (dalam { -brand-short-name })
+applications-preview-inapp =
+    .label = Previu dalam { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
