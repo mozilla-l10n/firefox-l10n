@@ -90,12 +90,39 @@ applications-action-column =
     .label = Modiro
     .accesskey = M
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = Faele ya { $extension }
+applications-action-save =
+    .label = Boloka faele
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Diriša { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Diriša { $app-name } (tirelwa)
+applications-use-other =
+    .label = Diriša … e nngwe
+applications-select-helper = Kgetha tirišo ya mothuši
+applications-manage-app =
+    .label = Dintlha tša tirišo…
+applications-always-ask =
+    .label = Botšiša ka mehla
+applications-type-pdf = Fomate ya Tokumente e Swaregago (PDF)
+# Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Diriša { $plugin-name } (go { -brand-short-name })
+applications-preview-inapp =
+    .label = Lebelela pele go { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
