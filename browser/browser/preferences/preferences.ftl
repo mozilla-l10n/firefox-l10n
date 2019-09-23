@@ -245,8 +245,17 @@ applications-action-column =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = { $app-name } ਵਰਤੋਂ
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = { $app-name } ਵਰਤੋਂ (ਡਿਫਾਲਟ)
+applications-use-other =
+    .label = …ਹੋਰ ਵਰਤੋਂ
+applications-manage-app =
+    .label = …ਐਪਲੀਕੇਸ਼ਨ ਵੇਰਵਾ
 applications-always-ask =
     .label = ਹਮੇਸ਼ਾ ਪੁੱਛੋ
+applications-type-pdf = ਪੋਰਟੇਬਲ ਡੌਕੂਮੈਂਟ ਫਾਰਮੈਟ (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
