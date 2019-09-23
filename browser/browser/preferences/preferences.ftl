@@ -249,11 +249,11 @@ applications-action-save =
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
-    .label = 使用 { $app-name }
+    .label = 使用 { $app-name } 開啟
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
-    .label = 使用 { $app-name } (預設程式)
+    .label = 使用 { $app-name } 開啟（預設）
 applications-use-other =
     .label = 使用其他程式…
 applications-select-helper = 選取對應程式
@@ -264,11 +264,11 @@ applications-always-ask =
 applications-type-pdf = 可攜式文件格式（PDF）
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
-applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
+applications-type-pdf-with-type = { applications-type-pdf }（{ $type }）
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
-applications-type-description-with-type = { $type-description } ({ $type })
+applications-type-description-with-type = { $type-description }（{ $type }）
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -295,7 +295,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = 數位權利管理（DRM）內容
 play-drm-content =
@@ -802,7 +802,7 @@ enhanced-tracking-protection-setting-custom =
     .label = 自訂
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = 兼顧保護與效能。網站可正常運作。
 content-blocking-etp-strict-desc = 保護更強大，但可能會導致某些網站或內容故障。
