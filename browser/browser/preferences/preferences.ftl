@@ -262,6 +262,10 @@ applications-action-save =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = { $app-name } (ნაგულისხმევი)
 applications-use-other =
     .label = სხვა პროგრამა…
 applications-select-helper = დამხმარე პროგრამის შერჩევა
