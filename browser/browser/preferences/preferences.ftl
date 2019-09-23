@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Aðgerð
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Digital Rights Management (DRM) efni
 play-drm-content =
     .label = Spila efni sem notar DRM
@@ -597,6 +605,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Breyta aðallykilorði…
     .accesskey = B
+forms-master-pw-fips-desc = Gat ekki breytt lykilorði
 
 ## Privacy Section - History
 
