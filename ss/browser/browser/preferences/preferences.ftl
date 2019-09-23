@@ -45,6 +45,7 @@ colors-settings =
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Lifayela { $extension }
+applications-select-helper = Khetsa kusetjentiswa kwekusita
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
