@@ -628,6 +628,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Haadwachtwurd wizigje
     .accesskey = a
+forms-master-pw-fips-title = Jo binne no yn FIPS-modus. FIPS fereasket dat it haadwachtwurd net leech is.
 forms-master-pw-fips-desc = Wachtwurdwiziging mislearre.
 
 ## Privacy Section - History
