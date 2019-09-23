@@ -276,6 +276,7 @@ applications-manage-app =
     .label = Podrobnosti o aplikácii…
 applications-always-ask =
     .label = Vždy sa opýtať
+applications-type-pdf = Súbory Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -283,6 +284,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Použiť { $plugin-name } (v aplikácii { -brand-short-name })
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
