@@ -134,6 +134,7 @@ applications-manage-app =
     .label = Детали за програмата…
 applications-always-ask =
     .label = Секогаш прашај
+applications-type-pdf = Формат за преносн документи (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
