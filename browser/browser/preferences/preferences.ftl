@@ -248,6 +248,20 @@ applications-action-column =
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } फाइल
+applications-action-save =
+    .label = फाइल संचयन
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = { $app-name } वापरा
+applications-use-other =
+    .label = इतर वापरा…
+applications-select-helper = मदतनीस कार्यक्रम निवडा
+applications-manage-app =
+    .label = अनुप्रयोग तपशील…
+applications-always-ask =
+    .label = नेहमी विचारा
+applications-type-pdf = पोर्टेबल डॉक्युमेंट फॉरमॅट (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -255,6 +269,12 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = { $plugin-name } वापरा ({ -brand-short-name } अंतर्गत)
+applications-preview-inapp =
+    .label = { -brand-short-name } अंतर्गत पूर्वदृश्य
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
