@@ -167,8 +167,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "התחברות אל &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "הפעלת &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "חשבון">
 <!ENTITY fxa.menu.firefoxServices.label "שירותי &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "חשבון">
+<!ENTITY fxa.menu.settings.label "הגדרות">
+<!ENTITY fxa.menu.accountSettings.label "הגדרות חשבון">
+<!ENTITY fxa.menu.signOut.label "התנתקות…">
+<!ENTITY fxa.menu.deviceSettings.label "הגדרות מכשיר">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -973,10 +978,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "רכיבי מעקב">
 
 <!ENTITY contentBlocking.manageSettings.label "ניהול חסימת תוכן">
-
-<!ENTITY contentBlocking.trackingProtection4.label "תוכן מעקב">
-
-<!ENTITY contentBlocking.manageSettings2.label "ניהול הגדרות הגנה">
 <!ENTITY contentBlocking.manageSettings.accesskey "נ">
 
 <!ENTITY contentBlocking.trackersView.label "רכיבי מעקב">
@@ -985,6 +986,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "עוגיות">
 <!ENTITY contentBlocking.cookiesView.label "עוגיות ונתוני אתרים">
 
+<!ENTITY contentBlocking.trackingProtection4.label "תוכן מעקב">
+
+<!ENTITY contentBlocking.manageSettings2.label "ניהול הגדרות הגנה">
 <!ENTITY contentBlocking.manageSettings2.accesskey "נ">
 
 <!ENTITY contentBlocking.socialblock.label "רכיבי מעקב של מדיה חברתית">
