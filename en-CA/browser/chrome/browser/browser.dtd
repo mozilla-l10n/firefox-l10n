@@ -168,8 +168,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "Sign in to &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Turn on &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Account">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; Services">
+
+<!ENTITY fxa.menu.account.label "Account">
+<!ENTITY fxa.menu.settings.label "Settings">
+<!ENTITY fxa.menu.accountSettings.label "Account Settings">
+<!ENTITY fxa.menu.signOut.label "Sign Out…">
+<!ENTITY fxa.menu.deviceSettings.label "Device Settings">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -983,10 +988,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Trackers">
 
 <!ENTITY contentBlocking.manageSettings.label "Manage Content Blocking">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Tracking Content">
-
-<!ENTITY contentBlocking.manageSettings2.label "Manage Protection Settings">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Trackers">
@@ -995,6 +996,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies and Site Data">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Tracking Content">
+
+<!ENTITY contentBlocking.manageSettings2.label "Manage Protection Settings">
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Social Media Trackers">
