@@ -168,8 +168,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "登入 &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "開啟 &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "帳號">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; 服務">
+
+<!ENTITY fxa.menu.account.label "帳號">
+<!ENTITY fxa.menu.settings.label "設定">
+<!ENTITY fxa.menu.accountSettings.label "帳號設定">
+<!ENTITY fxa.menu.signOut.label "登出…">
+<!ENTITY fxa.menu.deviceSettings.label "裝置設定">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -983,10 +988,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "追蹤器">
 
 <!ENTITY contentBlocking.manageSettings.label "管理內容封鎖功能">
-
-<!ENTITY contentBlocking.trackingProtection4.label "追蹤用內容">
-
-<!ENTITY contentBlocking.manageSettings2.label "管理保護設定">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "追蹤器">
@@ -995,6 +996,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookie">
 <!ENTITY contentBlocking.cookiesView.label "Cookie 與網站資料">
 
+<!ENTITY contentBlocking.trackingProtection4.label "追蹤用內容">
+
+<!ENTITY contentBlocking.manageSettings2.label "管理保護設定">
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "社交媒體追蹤器">
