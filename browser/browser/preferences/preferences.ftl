@@ -267,6 +267,7 @@ applications-manage-app =
     .label = Detalli da aplicaçion…
 applications-always-ask =
     .label = Domanda de longo
+applications-type-pdf = PDF (Portable Document Format)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
