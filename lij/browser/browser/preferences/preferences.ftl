@@ -596,6 +596,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Cangia a paròlla segreta prinçipâ…
     .accesskey = C
+forms-master-pw-fips-title = Òua t'ê into mòddo FIPS. A-o FIPS serve 'na paròlla segreta prinçipâ che a no segge veua.
 forms-master-pw-fips-desc = Cangio de paròlla segreta no riescio
 
 ## Privacy Section - History
