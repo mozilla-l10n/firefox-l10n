@@ -256,6 +256,14 @@ applications-type-column =
 applications-action-column =
     .label = Veiksmas
     .accesskey = V
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Skaitmeninių teisių valdymo (DRM) turinys
 play-drm-content =
     .label = Atkurti DRM valdomą turinį
@@ -624,6 +632,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Pakeisti pagrindinį slaptažodį…
     .accesskey = k
+forms-master-pw-fips-title = Šiuo metu pasirinkta FIPS veiksena. Jai reikia pagrindinio slaptažodžio.
+forms-master-pw-fips-desc = Slaptažodžio pakeisti nepavyko
 
 ## Privacy Section - History
 
@@ -764,7 +774,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Pasirinktinė
     .accesskey = P
 
-
+##
 
 content-blocking-etp-standard-desc = Subalansuota apsaugai ir našumui. Tinklalapiai bus įkeliami įprastai.
 content-blocking-etp-strict-desc = Stipresnė apsauga, tačiau gali sutrikti kai kurių svetainių veikimas.
