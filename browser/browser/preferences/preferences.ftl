@@ -217,6 +217,9 @@ applications-type-column =
 applications-action-column =
     .label = कार्य
     .accesskey = A
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } फाइल
 applications-action-save =
     .label = फाइल सङ्ग्रह गर्नुहोस्
 # Variables:
@@ -227,6 +230,8 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = प्रयोग { $app-name } (तत्काल)
+applications-use-other =
+    .label = अरु प्रयोग गर्नुहोस्…
 applications-select-helper = मद्दतकर्ता अनुप्रयोग छनोट गर्नुहोस्
 applications-manage-app =
     .label = एप्लिकेसन विवरणहरू
