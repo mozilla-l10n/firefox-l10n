@@ -107,6 +107,9 @@ applications-use-app-default =
     .label = { $app-name } ব্যৱহাৰ কৰক (অবিকল্পিত)
 applications-use-other =
     .label = অন্য ব্যৱহাৰ কৰক…
+applications-always-ask =
+    .label = সদায়ে সোধিব
+applications-type-pdf = সংবাহ্য দস্তাবেজ বিন্যাস (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -118,6 +121,8 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ব্যৱহাৰ কৰক ({ -brand-short-name } ত)
+applications-preview-inapp =
+    .label = { -brand-short-name } ত পূৰ্বদৰ্শন কৰক
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
