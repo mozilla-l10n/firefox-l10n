@@ -256,6 +256,14 @@ applications-type-column =
 applications-action-column =
     .label = Acțiune
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Conținut Digital Rights Management (DRM)
 play-drm-content =
     .label = Redă conținut controlat prin DRM
@@ -624,6 +632,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Schimbă parola generală…
     .accesskey = m
+forms-master-pw-fips-desc = Schimbarea parolei a eșuat
 
 ## Privacy Section - History
 
