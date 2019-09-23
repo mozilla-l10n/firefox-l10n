@@ -273,6 +273,8 @@ applications-use-app =
 applications-use-app-default =
     .label = استخدم { $app-name } (المبدئي)
 applications-select-helper = اختر التّطبيق المساعد
+applications-manage-app =
+    .label = تفاصيل التطبيق…
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
