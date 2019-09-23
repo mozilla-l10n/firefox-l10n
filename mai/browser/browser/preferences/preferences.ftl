@@ -273,6 +273,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = मुख्य गुड़किल्ली बदलू…
     .accesskey = M
+forms-master-pw-fips-title = अहाँ अखन FIPS मोड मे अछि . FIPS कलेल गैर रिक्त मुख्य गुड़किल्ली चाही.
 forms-master-pw-fips-desc = गुड़किल्ली बदलनाइ विफल
 
 ## Privacy Section - History
