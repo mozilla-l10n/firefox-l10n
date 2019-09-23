@@ -250,10 +250,22 @@ applications-action-column =
 applications-file-ending = Ficheiro { $extension }
 applications-action-save =
     .label = Gardar ficheiro
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Usar { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Usar { $app-name } (predeterminado)
 applications-use-other =
     .label = Utilizar outro…
+applications-select-helper = Seleccionar o aplicativo auxiliar
+applications-manage-app =
+    .label = Detalles do aplicativo…
 applications-always-ask =
     .label = Preguntar sempre
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -261,6 +273,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Usar { $plugin-name } (en { -brand-short-name })
 applications-preview-inapp =
     .label = Previsualizar en { -brand-short-name }
 
