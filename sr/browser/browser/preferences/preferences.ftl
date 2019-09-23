@@ -256,6 +256,14 @@ applications-type-column =
 applications-action-column =
     .label = Дејство
     .accesskey = Д
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Садржај са дигиталним правима (DRM)
 play-drm-content =
     .label = Пуштај DRM садржај
@@ -616,6 +624,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Промени главну лозинку…
     .accesskey = П
+forms-master-pw-fips-title = У овом тренутку налазите се у FIPS режиму. У режиму FIPS није дозвољено користити празну главну лозинку.
+forms-master-pw-fips-desc = Грешка приликом промене лозинке
 
 ## Privacy Section - History
 
