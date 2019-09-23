@@ -216,6 +216,14 @@ applications-type-column =
 applications-action-column =
     .label = អំពើ
     .accesskey = ព
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = ខ្លឹមសារ​ការគ្រប់គ្រងសិទ្ធិឌីជីថល (DRM)
 play-drm-content =
     .label = លេងខ្លឹមសារ​ដែលគ្រប់គ្រងដោយ DRM
@@ -491,6 +499,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = ផ្លាស់ប្ដូរ​ពាក្យ​សម្ងាត់​មេ…
     .accesskey = M
+forms-master-pw-fips-title = បច្ចុប្បន្ន​នេះ អ្នក​ស្ថិត​នៅក្នុង​របៀប FIPS ។ FIPS ទាមទារ​ពាក្យសម្ងាត់​មេ​ដែល​មិន​ទទេ​ ។
+forms-master-pw-fips-desc = បាន​បរាជ័យ​ក្នុង​ការ​ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់
 
 ## Privacy Section - History
 
