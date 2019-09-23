@@ -177,6 +177,7 @@ applications-manage-app =
     .label = ລາຍລະອຽດແອັບພລິເຄຊັ່ນ…
 applications-always-ask =
     .label = ຖາມທຸກຄັ້ງ
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
