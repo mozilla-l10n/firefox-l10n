@@ -265,6 +265,10 @@ applications-action-save =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Ужываць { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Ужываць { $app-name } (прадвызначана)
 applications-use-other =
     .label = Ужываць іншае…
 applications-always-ask =
