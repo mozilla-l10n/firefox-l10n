@@ -60,6 +60,14 @@ download-choose-folder =
            *[other] o
         }
 
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
+
 ## General Section - Performance
 
 
@@ -119,6 +127,8 @@ use-current-pages =
 
 ## Privacy Section - Forms
 
+forms-master-pw-fips-title = U le ka modi wa FIPS sweswi. FIPS yi lava Phasiwedinkulu leyi nga na swin'wana.
+forms-master-pw-fips-desc = Ku cinca phasiwedi swi tsandzile
 
 ## Privacy Section - History
 
