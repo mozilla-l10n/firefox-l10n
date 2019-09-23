@@ -7,3 +7,5 @@ fxa-disconnect-dialog =
     .style = max-width: 400px
     .buttonlabelaccept = 取消連線
     .buttonaccesskeyaccept = D
+disconnect-account = { -brand-short-name } 將與您的帳號中斷連結，但不會刪除此裝置中的任何瀏覽資料。
+disconnect-sync = { -brand-short-name } 將停止同步您的帳號，但不會刪除此裝置中的任何瀏覽資料。
