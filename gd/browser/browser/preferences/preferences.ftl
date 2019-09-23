@@ -258,6 +258,14 @@ applications-type-column =
 applications-action-column =
     .label = Gnìomh
     .accesskey = G
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Susbaint Digital Rights Management (DRM)
 play-drm-content =
     .label = Cluich susbaint fo smachd DRM
@@ -598,6 +606,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Atharraich am prìomh fhacal-faire…
     .accesskey = m
+forms-master-pw-fips-title = Tha thu ann am modh FIPS an-dràsta. Feumaidh FIPS prìomh fhacal-faire nach eil falamh.
 
 ## Privacy Section - History
 
