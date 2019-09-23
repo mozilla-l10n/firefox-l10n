@@ -259,6 +259,14 @@ applications-type-column =
 applications-action-column =
     .label = Dejanje
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Vsebina upravljanja digitalnih pravic (DRM)
 play-drm-content =
     .label = Predvajaj vsebino, zaščiteno z DRM
@@ -625,6 +633,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Nastavi glavno geslo …
     .accesskey = G
+forms-master-pw-fips-title = Trenutno ste v načinu FIPS. FIPS zahteva glavno geslo, ki ni prazno.
+forms-master-pw-fips-desc = Sprememba gesla neuspešna
 
 ## Privacy Section - History
 
