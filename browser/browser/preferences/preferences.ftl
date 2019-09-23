@@ -545,8 +545,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = പ്രധാന പാസ്‌വേര്‍ഡ് മാറ്റുക…
     .accesskey = M
-forms-master-pw-fips-title = താങ്കള്‍ ഇപ്പോള്‍ FIPS മോഡിലാണ്‌. FIPS ന്‌ ഒരു പ്രധാന പാസ്‌വേര്‍ഡ് ആവശ്യമാണ്‌{ " " }
-forms-master-pw-fips-desc = പാസ്‌വേര്‍ഡ് മാറ്റം പരാജയപ്പെട്ടിരിക്കുന്നു{ " " }
+forms-master-pw-fips-title = താങ്കള്‍ ഇപ്പോള്‍ FIPS മോഡിലാണ്‌. FIPS ന്‌ ഒരു പ്രധാന പാസ്‌വേര്‍ഡ് ആവശ്യമാണ്‌
+forms-master-pw-fips-desc = പാസ്‌വേര്‍ഡ് മാറ്റം പരാജയപ്പെട്ടിരിക്കുന്നു
 
 ## Privacy Section - History
 
