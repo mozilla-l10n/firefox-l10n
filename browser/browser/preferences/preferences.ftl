@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Acción
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Contenido con DRM (Gestión de derechos digitales)
 play-drm-content =
     .label = Reproducir contenido controlado por DRM
@@ -614,6 +622,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Cambiar la contraseña maestra…
     .accesskey = m
+forms-master-pw-fips-title = Actualmente estás en modo FIPS. FIPS requiere de una contraseña maestra que no esté en blanco.
+forms-master-pw-fips-desc = Falló el cambio de contraseña
 
 ## Privacy Section - History
 
