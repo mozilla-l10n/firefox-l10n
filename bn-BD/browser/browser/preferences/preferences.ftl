@@ -253,6 +253,8 @@ applications-action-column =
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ফাইল
+applications-action-save =
+    .label = ফাইল সংরক্ষণ করুন
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
@@ -266,6 +268,7 @@ applications-use-other =
 applications-select-helper = সহায়ক অ্যাপ্লিকেশন নির্বাচন করুন
 applications-manage-app =
     .label = অ্যাপ্লিকেশনের বিবরণ…
+applications-type-pdf = বহনযোগ্য ডকুমেন্ট ফরম্যাট (পিডিএফ)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
