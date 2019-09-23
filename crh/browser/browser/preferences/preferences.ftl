@@ -252,6 +252,14 @@ applications-type-column =
 applications-action-column =
     .label = Amel
     .accesskey = E
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Raqamsal Aqlar İdaresi (DRM) Muhtevası
 play-drm-content =
     .label = DRM-muraqabeli muhtevanı oynat
@@ -588,6 +596,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Usta Sır-sözni Deñiştir…
     .accesskey = d
+forms-master-pw-fips-title = Al-azırda FIPS tarzındasıñız. FIPS, boş olmağan bir Usta Sır-sözni kerektire.
+forms-master-pw-fips-desc = Sır-sözni Deñiştirüv Oñmadı
 
 ## Privacy Section - History
 
