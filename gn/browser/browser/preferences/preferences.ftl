@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Ñemongu'e
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Tembiapo Ñandutigua Derécho (TÑD) retepy
 play-drm-content =
     .label = Emboheta tetepy oñangarekóva DRM rehe
@@ -620,6 +628,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Ñe'ẽñemiguasu moambue...
     .accesskey = M
+forms-master-pw-fips-title = Ko'ag̃aite oĩhína FIPS rekópe. FIPS oikotevẽ ñe'ẽñemiete inandi'ỹva.
+forms-master-pw-fips-desc = Ñe'ẽñemi moambue jejavy
 
 ## Privacy Section - History
 
@@ -760,7 +770,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Ñemomba’epyre
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = Imbytéva ñemo’ã ha tembiapokuépe g̃uarã. Umi kuatiarogue henyhẽta hekoitépe.
 content-blocking-etp-strict-desc = Ñemo’ãve, hákatu ikatu ndahetái tenda térã tetepy nahenyhẽi.
