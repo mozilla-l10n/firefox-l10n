@@ -269,6 +269,9 @@ applications-use-app-default =
 applications-select-helper = Selecciona l'aplicació ajudant
 applications-manage-app =
     .label = Detalls de l'aplicació…
+applications-always-ask =
+    .label = Demana-m'ho sempre
+applications-type-pdf = PDF (Format de Document Portàtil)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
