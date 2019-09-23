@@ -253,12 +253,39 @@ applications-action-column =
     .label = Amel
     .accesskey = E
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } dosyesi
+applications-action-save =
+    .label = Dosyeni Saqla
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = { $app-name } qullan
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = { $app-name } qullan (ög-belgilemeli)
+applications-use-other =
+    .label = Başqasını qullan…
+applications-select-helper = Yardımcı Uyğulamanı Sayla
+applications-manage-app =
+    .label = Uyğulama Tafsilâtı…
+applications-always-ask =
+    .label = Er zaman sora
+applications-type-pdf = Taşınabilir Vesiqa Formatı (PDF)
+# Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = { $plugin-name } qullan ({ -brand-short-name } içinde)
+applications-preview-inapp =
+    .label = { -brand-short-name } içinde Ög-baq
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
