@@ -266,9 +266,14 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } használata (alapértelmezett)
+applications-use-other =
+    .label = Másik használata…
 applications-select-helper = Segédalkalmazás kiválasztása
+applications-manage-app =
+    .label = Alkalmazás részletei…
 applications-always-ask =
     .label = Rákérdezés mindig
+applications-type-pdf = Hordozható dokumentumformátum (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
