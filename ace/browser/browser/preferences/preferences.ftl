@@ -236,6 +236,8 @@ applications-action-column =
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Beureukaih { $extension }
+applications-action-save =
+    .label = Keubah Beureukaih
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
