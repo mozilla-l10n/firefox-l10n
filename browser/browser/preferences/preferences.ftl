@@ -206,6 +206,7 @@ applications-manage-app =
     .label = ಅನ್ವಯ ವಿವರಗಳು…
 applications-always-ask =
     .label = ಪ್ರತಿ ಬಾರಿಯೂ ಕೇಳು
+applications-type-pdf = ಪೋರ್ಟೆಬಲ್ ಡಾಕ್ಯುಮೆಂಟ್ ಫಾರ್ಮ್ಯಾಟ್ (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
