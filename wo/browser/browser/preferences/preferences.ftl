@@ -84,6 +84,14 @@ applications-type-column =
 applications-action-column =
     .label = Jëf
     .accesskey = J
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 update-application-use-service =
     .label = Jëfandikool ab sarwiisu laltu ngir samp yeesal yi
     .accesskey = k
@@ -178,6 +186,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Soppi baatu jàll bi gëna am solo…
     .accesskey = o
+forms-master-pw-fips-title = Yaa ngi leegi ci anamu FIPS. Anam bii dafay laaj baatu jàll bi gëna am solo.
+forms-master-pw-fips-desc = Baatu jàll bi lajj na
 
 ## Privacy Section - History
 
