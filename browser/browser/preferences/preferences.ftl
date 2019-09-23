@@ -107,6 +107,7 @@ applications-manage-app =
     .label = Kitekitên Sepanan…
 applications-always-ask =
     .label = Her tim bipirse
+applications-type-pdf = Şêweya Belgeyên Veguhêzbar (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
