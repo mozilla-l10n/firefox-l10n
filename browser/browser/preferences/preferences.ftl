@@ -177,12 +177,33 @@ applications-action-column =
     .label = Inyathelo
     .accesskey = I
 # Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Sebenzisa i-{ $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Sebenzisa { $app-name } (okwesiseko)
+applications-use-other =
+    .label = Sebenzisa enye…
+applications-select-helper = Lungiselela ukukhetha Inkqubo Yoncedo
+applications-manage-app =
+    .label = IiNkcukacha zeAplikheshini…
+applications-always-ask =
+    .label = Soloko ucela
+# Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Sebenzisa i-{ $plugin-name } (kwi-{ -brand-short-name })
+applications-preview-inapp =
+    .label = Imbonakalo yangaphambili kwi-{ -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
