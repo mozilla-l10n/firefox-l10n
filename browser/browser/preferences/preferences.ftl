@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Åtgärd
     .accesskey = Å
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Digital Rights Management (DRM) innehåll
 play-drm-content =
     .label = Spela DRM-kontrollerat innehåll
@@ -620,6 +628,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Byt huvudlösenord…
     .accesskey = B
+forms-master-pw-fips-title = Du är för närvarande i FIPS-läge. FIPS kräver ett huvudlösenord.
+forms-master-pw-fips-desc = Ändring av lösenordet misslyckades
 
 ## Privacy Section - History
 
@@ -760,7 +770,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Anpassad
     .accesskey = A
 
-
+##
 
 content-blocking-etp-standard-desc = Balanserad för skydd och prestanda. Sidor laddas normalt.
 content-blocking-etp-strict-desc = Starkare skydd, men kan leda till att vissa webbplatser eller innehåll inte fungerar.
