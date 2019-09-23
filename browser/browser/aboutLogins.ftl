@@ -60,6 +60,9 @@ about-logins-login-list-empty-search-description = 검색어와 일치하는 결
 login-list-item-title-new-login = 새 로그인
 login-list-item-subtitle-new-login = 로그인 자격 증명을 입력하십시오
 login-list-item-subtitle-missing-username = (사용자 이름 없음)
+about-logins-list-item-warning-icon =
+    .alt = 경고 아이콘
+    .title = 유출된 웹 사이트
 
 ## Introduction screen
 
@@ -78,8 +81,6 @@ login-item-origin-label = 웹 사이트 주소
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = 사용자 이름
-login-item-username =
-    .placeholder = name@example.com
 about-logins-login-item-username =
     .placeholder = (사용자 이름 없음)
 login-item-copy-username-button-text = 복사
