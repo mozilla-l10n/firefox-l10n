@@ -114,6 +114,14 @@ applications-type-column =
 applications-action-column =
     .label = Дејство
     .accesskey = Д
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 play-drm-content-learn-more = Дознајте повеќе
 update-application-use-service =
     .label = Користи позадински сервис за да се инсталираат надградби
@@ -262,6 +270,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Промени ја главната лозинка…
     .accesskey = г
+forms-master-pw-fips-title = Моментално сте во FIPS режим. FIPS бара главна лозинка која не е празна.
+forms-master-pw-fips-desc = Промената на лозинката не успеа
 
 ## Privacy Section - History
 
@@ -293,6 +303,13 @@ history-clear-on-close-settings =
 
 
 ## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
 
 
 ## Privacy Section - Tracking
