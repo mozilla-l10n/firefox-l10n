@@ -175,6 +175,14 @@ applications-type-column =
 applications-action-column =
     .label = Aksie
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 play-drm-content-learn-more = Meer inligting
 update-application-title = { -brand-short-name }-bywerkings
 update-application-version = Weergawe { $version } <a data-l10n-name="learn-more">Wat’s nuut?</a>
@@ -346,6 +354,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Wysig meesterwagwoord…
     .accesskey = m
+forms-master-pw-fips-title = U is tans in FIPS-modus. FIPS vereis 'n nieleë meesterwagwoord.
+forms-master-pw-fips-desc = Kon nie wagwoord verander nie
 
 ## Privacy Section - History
 
