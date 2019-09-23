@@ -607,6 +607,7 @@ forms-master-pw-change =
     .label = Atharraich am prìomh fhacal-faire…
     .accesskey = m
 forms-master-pw-fips-title = Tha thu ann am modh FIPS an-dràsta. Feumaidh FIPS prìomh fhacal-faire nach eil falamh.
+forms-master-pw-fips-desc = Dh'fhàillig atharrachadh an fhacail-fhaire
 
 ## Privacy Section - History
 
