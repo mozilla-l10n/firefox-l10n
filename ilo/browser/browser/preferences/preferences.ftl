@@ -68,6 +68,14 @@ download-header = Downloads
 download-save-to =
     .label = Pagidulinan ti intar
     .accesskey = v
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 update-application-use-service =
     .label = Akinlikod a serbisio ti manginstala iti pagtarimaan
     .accesskey = A
@@ -135,6 +143,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Sukatan ti Kontrasenias a Maestro...
     .accesskey = M
+forms-master-pw-fips-desc = Napaay ti Panagsukat ti Kontrasenias
 
 ## Privacy Section - History
 
