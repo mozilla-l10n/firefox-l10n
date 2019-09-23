@@ -622,6 +622,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = שינוי ססמה ראשית…
     .accesskey = נ
+forms-master-pw-fips-title = הינך כרגע במצב FIPS. ‏FIPS דורש ססמה ראשית לא־ריקה.
 forms-master-pw-fips-desc = שינוי הססמה נכשל
 
 ## Privacy Section - History
