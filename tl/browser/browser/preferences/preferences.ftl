@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Aksyon
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Nilalaman ng Digital Rights Management (DRM)
 play-drm-content =
     .label = I-play ang DRM na kontroladong nilalaman
@@ -620,6 +628,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Palitan ang Master Password...
     .accesskey = M
+forms-master-pw-fips-title = Kasalukuyang nasa FIPS mode ka.  Nangangailangan ang FIPS ng isang may laman na Master Password.
+forms-master-pw-fips-desc = Nabigo ang Pagpalit ng Password
 
 ## Privacy Section - History
 
@@ -760,7 +770,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Pasadya
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = Balansado para sa proteksyon at performance. Normal na maglo-load ang mga pahina.
 content-blocking-etp-strict-desc = Mas malakas na proteksyon, pero maaaring ikasira ng ilang mga site o content.
