@@ -252,11 +252,59 @@ applications-type-column =
 applications-action-column =
     .label = ક્રિયા
     .accesskey = A
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } ફાઈલ
+applications-action-save =
+    .label = ફાઈલ સંગ્રહો
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = { $app-name } વાપરો
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = { $app-name } વાપરો (મૂળભૂત)
+applications-use-other =
+    .label = અન્ય વાપરો…
+applications-select-helper = મદદગાર કાર્યક્રમ પસંદ કરો
+applications-manage-app =
+    .label = કાર્યક્રમ વિગતો…
+applications-always-ask =
+    .label = હંમેશા પૂછો
+applications-type-pdf = Portable Document Format (PDF)
+# Variables:
+#   $type (String) - the MIME type (e.g application/binary)
+applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
+# Variables:
+#   $type-description (String) - Description of the type (e.g "Portable Document Format")
+#   $type (String) - the MIME type (e.g application/binary)
+applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = { $plugin-name } વાપરો ({ -brand-short-name } માં)
+applications-preview-inapp =
+    .label = { -brand-short-name } માં પૂર્વદર્શન
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
+applications-use-plugin-in-label =
+    .value = { applications-use-plugin-in.label }
+applications-action-save-label =
+    .value = { applications-action-save.label }
+applications-use-app-label =
+    .value = { applications-use-app.label }
+applications-preview-inapp-label =
+    .value = { applications-preview-inapp.label }
+applications-always-ask-label =
+    .value = { applications-always-ask.label }
+applications-use-app-default-label =
+    .value = { applications-use-app-default.label }
+applications-use-other-label =
+    .value = { applications-use-other.label }
 
 ##
 
