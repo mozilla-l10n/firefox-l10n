@@ -262,7 +262,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Utilizar { $app-name } (per defaut)
+applications-use-other =
+    .label = Utilizar un autre…
 applications-select-helper = Seleccionatz l'ajuda de l'aplicacion
+applications-manage-app =
+    .label = Detalhs de l'aplicacion…
+applications-always-ask =
+    .label = Totjorn demandar
 applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
