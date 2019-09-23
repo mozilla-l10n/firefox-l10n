@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Veprim
     .accesskey = V
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Lëndën nën Digital Rights Management (DRM)
 play-drm-content =
     .label = Luaj lëndë të kontrolluar nga DRM
@@ -620,6 +628,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Ndryshoni Fjalëkalimin e Përgjithshëm…
     .accesskey = F
+forms-master-pw-fips-title = Gjendeni nën mënyrën FIPS. FIPS lyp një Fjalëkalim të Përgjithshëm jo të zbrazët.
+forms-master-pw-fips-desc = Ndryshimi i Fjalëkalimit Dështoi
 
 ## Privacy Section - History
 
