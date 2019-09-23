@@ -27,9 +27,9 @@
 <!ENTITY firstrun_sync_subtext2 "利用同步服务，在您任何设备上的 &brandShortName; 中都能漫游同一套书签、密码等信息。">
 <!ENTITY newfirstrun_sync_subtext "将您在移动设备上保存的内容，私密、安全地同步至桌面版 Firefox。">
 <!ENTITY updatednewfirstrun_sync_subtext "登录账户，享用 &brandShortName; 完整功能">
+<!ENTITY firstrun_signin_message "互联设备，即刻畅游">
 <!ENTITY firstrun_sendtab_title "发送标签页">
 <!ENTITY firstrun_sendtab_message "在移动与桌面设备间即刻分享标签页。">
-<!ENTITY firstrun_signin_message "互联设备，即刻畅游">
 <!ENTITY firstrun_signin_button "登录并同步">
 <!ENTITY newfirstrun_signin_button "开启同步">
 <!ENTITY updatednewfirstrun_signin_button "登录 &brandShortName;">
@@ -38,8 +38,6 @@
 <!ENTITY firstrun_button_next "下一步">
 
 <!ENTITY firstrun_signin_button2 "登录">
-
-<!ENTITY firstrun_signup_button "注册">
 
 <!ENTITY firstrun_tabqueue_title "链接">
 
@@ -51,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "您">
 <!ENTITY firstrun_account_message "在另一台设备上安装了 &brandShortName;？">
+
+<!ENTITY firstrun_signup_button "注册">
 
 <!ENTITY  onboard_start_restricted1 "使用简化的 &brandShortName; 版本，确保安全和可控。">
 
@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "分享">
 <!ENTITY share_title "分享，通过">
 <!ENTITY share_image_failed "无法分享这个图像">
+<!ENTITY share_error_toast_message "无法分享到指定的应用程序">
 <!ENTITY save_as_pdf "另存为 PDF">
 <!ENTITY print "打印">
 <!ENTITY view_page_source "查看页面源代码">
@@ -695,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "您已连接至">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
