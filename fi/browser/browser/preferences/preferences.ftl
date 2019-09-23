@@ -258,6 +258,14 @@ applications-action-column =
 applications-file-ending = { $extension }-tiedosto
 applications-action-save =
     .label = Tallenna tiedosto
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Käytä ohjelmaa { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Käytä ohjelmaa { $app-name } (oletus)
 applications-use-other =
     .label = Valitse uusi apuohjelma…
 applications-select-helper = Valitse uusi apuohjelma
