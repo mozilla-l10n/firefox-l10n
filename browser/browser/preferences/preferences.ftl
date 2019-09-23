@@ -202,6 +202,14 @@ applications-type-column =
 applications-action-column =
     .label = ක්‍රියාව
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 play-drm-content =
     .label = DRM-පාලිත අන්තර්ගතය ධාවනය කරන්න
     .accesskey = P
@@ -470,6 +478,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = ප්‍රධාන රහස්පදය වෙනස්කරන්න...
     .accesskey = M
+forms-master-pw-fips-title = You are currently in FIPS mode. FIPS requires a non-empty Master Password.
+forms-master-pw-fips-desc = රහස්පදය වෙනස් කිරීම අසාර්තකයි
 
 ## Privacy Section - History
 
