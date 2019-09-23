@@ -253,9 +253,25 @@ applications-type-column =
 applications-action-column =
     .label = Aksje
     .accesskey = A
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension }-bestân
+applications-action-save =
+    .label = Bewarje bestân
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Brûk { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Brûk { $app-name } (standert)
+applications-use-other =
+    .label = Brûk oare…
 applications-select-helper = Helptapassing selektearje
 applications-always-ask =
     .label = Altyd freegje
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -263,6 +279,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = { $plugin-name } brûke (yn { -brand-short-name })
 applications-preview-inapp =
     .label = Foarbyld yn { -brand-short-name }
 
