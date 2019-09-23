@@ -244,6 +244,14 @@ applications-type-column =
 applications-action-column =
     .label = क्रिया
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = डिजिटल राइट्स मैनेजमेंट (DRM) सामग्री
 play-drm-content =
     .label = DRM-नियंत्रित सामग्री चलाएं
@@ -581,6 +589,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = मुख्य कूटशब्द बदलें…
     .accesskey = M
+forms-master-pw-fips-title = आप अभी FIPS मोड में हैं. FIPS के लिये गैर रिक्त मुख्य कूटशब्द चाहिए.
+forms-master-pw-fips-desc = कूटशब्द बदलाव विफल
 
 ## Privacy Section - History
 
