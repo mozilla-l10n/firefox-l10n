@@ -241,6 +241,8 @@ applications-use-app =
     .label = Guna { $app-name }
 applications-use-other =
     .label = Guna yang lain…
+applications-always-ask =
+    .label = Sentiasa tanya
 applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
