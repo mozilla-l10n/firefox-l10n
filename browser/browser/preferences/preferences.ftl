@@ -256,6 +256,9 @@ applications-type-column =
 applications-action-column =
     .label = Akce
     .accesskey = A
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = Soubor { $extension }
 applications-action-save =
     .label = Uložit soubor
 # Variables:
