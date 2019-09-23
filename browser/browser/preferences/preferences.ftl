@@ -236,6 +236,7 @@ applications-manage-app =
     .label = សេចក្ដី​លម្អិត​អំពី​កម្មវិធី…
 applications-always-ask =
     .label = សួរ​ជានិច្ច
+applications-type-pdf = ទ្រង់ទ្រាយ​ឯកសារ​ចល័ត (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
