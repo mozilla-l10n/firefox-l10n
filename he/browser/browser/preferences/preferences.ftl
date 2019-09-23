@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = פעולה
     .accesskey = פ
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = תוכן ניהול זכויות דיגיטלי (DRM)
 play-drm-content =
     .label = הפעלת תוכן מוגן DRM
@@ -614,6 +622,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = שינוי ססמה ראשית…
     .accesskey = נ
+forms-master-pw-fips-desc = שינוי הססמה נכשל
 
 ## Privacy Section - History
 
@@ -750,7 +759,7 @@ enhanced-tracking-protection-setting-custom =
     .label = התאמה אישית
     .accesskey = ה
 
-
+##
 
 content-blocking-etp-standard-desc = מאוזן בין הגנה לביצועים. דפים ייטענו כרגיל.
 content-blocking-etp-strict-desc = הגנה חזקה יותר, אך עשויה לשבש פעילות של אתרים או תוכן.
