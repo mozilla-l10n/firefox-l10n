@@ -271,6 +271,8 @@ applications-use-other =
 applications-select-helper = Zvolit pomocnou aplikaci
 applications-manage-app =
     .label = Podrobnosti o aplikaci…
+applications-always-ask =
+    .label = Vždy se zeptat
 applications-type-pdf = Přenositelný formát dokumentu (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
