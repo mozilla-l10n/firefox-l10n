@@ -251,6 +251,14 @@ applications-type-column =
 applications-action-column =
     .label = Tic
     .accesskey = T
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 play-drm-content-learn-more = Nong ngec mapol
 update-application-title = Ngec manyen me { -brand-short-name }
 update-application-description = Gwok { -brand-short-name } ki ngec manyen pi tic maber loyo, cung matek ki ber bedo.
@@ -567,6 +575,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Lok mung me donyo madit…
     .accesskey = m
+forms-master-pw-fips-title = Kombedi itye i kit me FIPS. FIPS mito Ladit me mung me donyo ma peke nono.
+forms-master-pw-fips-desc = Loko mung me donyo Pe olare
 
 ## Privacy Section - History
 
@@ -658,6 +668,13 @@ content-blocking-standard-desc = Opore pi gwokke ki tic. Yee lulub kor mogo wek 
 content-blocking-strict-description = Gwokke makato, romo weko kakube mogo tur woko.
 content-blocking-custom-desc = Yer ngo me agenga.
 content-blocking-private-trackers = Lulub kor ma ngene keken i Dirica me Mung
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
 content-blocking-all-cookies = Angija weng
 content-blocking-unvisited-cookies = Angija ki kakube mape kilimo gi
 content-blocking-all-windows-trackers = Lulub kor ma ngene i dirica weng
