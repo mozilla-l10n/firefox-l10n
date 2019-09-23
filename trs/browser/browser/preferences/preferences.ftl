@@ -254,12 +254,39 @@ applications-action-column =
     .label = Sa gi'iát
     .accesskey = A
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } archîbo
+applications-action-save =
+    .label = Na'nïnj sà' Archîbo
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Garasun' { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Garasun' { $app-name } (danj hua niñanj)
+applications-use-other =
+    .label = Garasun' a'ngoj...
+applications-select-helper = Ganahui' aplikasiôn Helper
+applications-manage-app =
+    .label = Daj hua aplikasiôn...
+applications-always-ask =
+    .label = Yitïnj gachinj nu'un'
+applications-type-pdf = Nej yi'ni' ñanj gato' (PDF)
+# Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Garasun' { $plugin-name } (riña { -brand-short-name })
+applications-preview-inapp =
+    .label = Ni'io' daj gaj 'ngà { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
