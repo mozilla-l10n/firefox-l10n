@@ -115,8 +115,14 @@ applications-action-column =
 applications-file-ending = { $extension } फाइल
 applications-action-save =
     .label = फाइल सहेजू
+applications-use-other =
+    .label = दोसर प्रयोग करू…
+applications-select-helper = मदतिक लेल अनुप्रयोग चुनू
 applications-manage-app =
     .label = अनुप्रयोग विवरण…
+applications-always-ask =
+    .label = हरदम पूछू
+applications-type-pdf = पोर्टेबल दस्ताबेज फोर्मेट (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
