@@ -370,6 +370,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Guqula iPhaswedi eyiMasta…
     .accesskey = P
+forms-master-pw-fips-title = Kungokunje ukwimo ye-FIPS. I-FIPS ifuna iPhaswedi yeMasta engekho ze.
 forms-master-pw-fips-desc = Ukuguqulwa Kwegama Lokugqithisa Akuphumelelanga
 
 ## Privacy Section - History
