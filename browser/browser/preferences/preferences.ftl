@@ -252,6 +252,23 @@ applications-action-column =
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } پرونده
+applications-action-save =
+    .label = ذخیرهٔ پرونده
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = استفاده از { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = استفاده از { $app-name } (پیش‌فرض)
+applications-use-other =
+    .label = استفاده از برنامه‌ای دیگر…
+applications-select-helper = انتخاب برنامهٔ راهنما
+applications-manage-app =
+    .label = جزئیات برنامه…
+applications-always-ask =
+    .label = هر بار پرسیده شود
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -259,6 +276,12 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = استفاده از { $plugin-name } (در { -brand-short-name })
+applications-preview-inapp =
+    .label = پیش‌نمایش در { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
