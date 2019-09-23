@@ -242,12 +242,35 @@ applications-action-column =
     .label = 動作
     .accesskey = A
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } 檔案
+applications-action-save =
+    .label = 儲存檔案
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = 使用 { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = 使用 { $app-name } (預設程式)
+applications-use-other =
+    .label = 使用其他程式…
+applications-manage-app =
+    .label = 程式詳細資訊…
+# Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = 使用 { $plugin-name } (在 { -brand-short-name } 開啟)
+applications-preview-inapp =
+    .label = 在 { -brand-short-name } 中預覽
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
