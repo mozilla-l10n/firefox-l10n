@@ -96,6 +96,14 @@ download-choose-folder =
 applications-action-column =
     .label = Kgato
     .accesskey = K
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 play-drm-content-learn-more = Ithute mo go tseneletseng
 
 ## General Section - Performance
@@ -169,6 +177,8 @@ sync-tos-link = Melawana ya Tirelo
 
 ## Privacy Section - Forms
 
+forms-master-pw-fips-title = Ga jaana o mo mokgweng wa FIPS. FIPS e tlhoka Khunololamoraba e Kgolo e e seng lolea.
+forms-master-pw-fips-desc = Phetolo ya Khunololamoraba e retetse
 
 ## Privacy Section - History
 
