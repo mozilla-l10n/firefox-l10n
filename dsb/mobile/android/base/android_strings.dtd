@@ -27,9 +27,9 @@
 <!ENTITY firstrun_sync_subtext2 "Wužywajśo Sync, aby cytańske znamjenja, gronidła a druge wěcy namakał, kótarež w &brandShortName; na wšych swójich rědach składujośo.">
 <!ENTITY newfirstrun_sync_subtext "Synchronizěrujśo informacije, kótarež na mobilnem rěźe składujośo, z Firefox za desktop, priwatnje a wěsće.">
 <!ENTITY updatednewfirstrun_sync_subtext "Pśizjawśo se pla swójogo konta, aby nejlěpše z &brandShortName; wuwónoźeł">
+<!ENTITY firstrun_signin_message "Zwězajśo se, zachopśo">
 <!ENTITY firstrun_sendtab_title "Rejtark słaś">
 <!ENTITY firstrun_sendtab_message "Źělśo rejtarki mobilnego telefona z desktopom - ned.">
-<!ENTITY firstrun_signin_message "Zwězajśo se, zachopśo">
 <!ENTITY firstrun_signin_button "Pla Sync pśizjawiś">
 <!ENTITY newfirstrun_signin_button "Sync zašaltowaś">
 <!ENTITY updatednewfirstrun_signin_button "Pla &brandShortName; pśizjawiś">
@@ -38,8 +38,6 @@
 <!ENTITY firstrun_button_next "Pśiducy">
 
 <!ENTITY firstrun_signin_button2 "Pśizjawiś">
-
-<!ENTITY firstrun_signup_button "Registrěrowaś">
 
 <!ENTITY firstrun_tabqueue_title "Wótkaze">
 
@@ -51,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Wy">
 <!ENTITY firstrun_account_message "Maśo &brandShortName; na drugem rěźe?">
+
+<!ENTITY firstrun_signup_button "Registrěrowaś">
 
 <!ENTITY  onboard_start_restricted1 "Wóstańśo dalej wěsty a mějśo dalej kontrolu z toś teju zjednorjeneju wersiju &brandShortName;.">
 
@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Źěliś">
 <!ENTITY share_title "Źěliś pśez">
 <!ENTITY share_image_failed "Toś ten wobraz njedajo se źěliś">
+<!ENTITY share_error_toast_message "Njedajo se z pódanym nałoženim źěliś">
 <!ENTITY save_as_pdf "Ako PDF składowaś">
 <!ENTITY print "Śišćaś">
 <!ENTITY view_page_source "Žrědłowy tekst boka pokazaś">
@@ -695,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Sćo zwězany z">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
