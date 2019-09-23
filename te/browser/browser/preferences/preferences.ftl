@@ -229,6 +229,14 @@ applications-type-column =
 applications-action-column =
     .label = చర్య
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = డిజిటల్ హక్కుల నిర్వహణ (DRM) విషయం
 play-drm-content =
     .label = DRM-నియంత్రిత విషయాన్ని ఆడించు
@@ -556,6 +564,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = ప్రధాన సంకేతపదాన్ని మార్చు…
     .accesskey = M
+forms-master-pw-fips-desc = సంకేతపదం మార్పు విఫలమైంది
 
 ## Privacy Section - History
 
