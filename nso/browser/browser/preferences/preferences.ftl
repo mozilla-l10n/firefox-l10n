@@ -89,6 +89,14 @@ applications-type-column =
 applications-action-column =
     .label = Modiro
     .accesskey = M
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 update-application-use-service =
     .label = Diriša tirelo ya bokamorago gore o lokele dimpshafatšo
     .accesskey = b
@@ -184,6 +192,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Fetoša lentšuphetišo le legolo…
     .accesskey = l
+forms-master-pw-fips-title = Gabjale o mo go mokgwa wa FIPS. FIPS e nyaka lentšuphetišo la masta leo e sego la go se be le selo.
+forms-master-pw-fips-desc = Go fetolwa ga lentšuphetišo go paletšwe
 
 ## Privacy Section - History
 
