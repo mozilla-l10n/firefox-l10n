@@ -10,6 +10,13 @@ about-config-warning-button = आं बे खैफोदखौ गनाय�
 about-config2-title = जौगाहोनाय बाइजोमहरफोर
 about-config-search-input =
     .placeholder = नागिर
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-button = खैफोदखौ गनायना ला आरो आवगायलां
+
+
+
 about-config-search-input1 =
     .placeholder = मोजांसिन मोन्नाय मुंखौ नागिर
 about-config-show-all = गासैबो दिन्थि

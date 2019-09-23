@@ -186,6 +186,7 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+shortcuts-card-collapse-button = इसेल' दिन्थि
 go-back-button =
     .tooltiptext = थांफिन
 
@@ -253,6 +254,7 @@ addon-detail-updates-radio-off = अफ
 addon-detail-update-check-label = आपडेटफोरनि थाखाय आनजाद खालाम
 install-update-button = आपडेट खालाम
 addon-detail-private-browsing-allow = गनायथि हो
+addon-detail-private-browsing-disallow = गनायथि दाहो
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
 # badge is a small icon displayed next to an extension when it is recommended on AMO.
 addon-badge-recommended =

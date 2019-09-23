@@ -416,6 +416,9 @@ content-blocking-setting-standard =
 content-blocking-setting-strict =
     .label = गोरा
     .accesskey = r
+content-blocking-setting-custom =
+    .label = कास्टम
+    .accesskey = C
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
