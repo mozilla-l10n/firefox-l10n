@@ -250,6 +250,10 @@ applications-action-save =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Gunakan { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Gunakan { $app-name } (bawaan)
 applications-use-other =
     .label = Gunakan yang lain…
 applications-select-helper = Pilih Aplikasi Pembantu
