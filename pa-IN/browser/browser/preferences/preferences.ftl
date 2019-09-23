@@ -598,6 +598,7 @@ forms-master-pw-change =
     .label = …ਮਾਸਟਰ ਪਾਸਵਰਡ ਨੂੰ ਵਰਤੋਂ
     .accesskey = M
 forms-master-pw-fips-title = ਇਸ ਸਮੇਂ ਤੁਸੀਂ FIPS ਮੋਡ ਵਿੱਚ ਹੋ। FIPS ਨੂੰ ਇੱਕ ਨਾ-ਖਾਲੀ ਮਾਸਟਰ ਪਾਸਵਰਡ ਲੋੜੀਦਾ ਹੈ
+forms-master-pw-fips-desc = ਪਾਸਵਰਡ ਨੂੰ ਬਦਲਣਾ ਫੇਲ੍ਹ ਹੋਇਆ
 
 ## Privacy Section - History
 
