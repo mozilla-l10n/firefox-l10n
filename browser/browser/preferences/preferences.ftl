@@ -249,6 +249,14 @@ applications-type-column =
 applications-action-column =
     .label = 操作
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = 采用数字版权管理（DRM）的内容
 play-drm-content =
     .label = 播放采用 DRM 的内容
@@ -612,6 +620,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = 修改主密码…
     .accesskey = M
+forms-master-pw-fips-title = 您正处于 FIPS 模式。该模式需要一个非空的主密码。
+forms-master-pw-fips-desc = 密码修改失败
 
 ## Privacy Section - History
 
@@ -752,7 +762,7 @@ enhanced-tracking-protection-setting-custom =
     .label = 自定义
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = 平衡保护和性能。页面将正常加载。
 content-blocking-etp-strict-desc = 更强大的保护，但可能导致某些网站异常。
