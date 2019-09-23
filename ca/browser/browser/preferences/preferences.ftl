@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Acció
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Contingut DRM (Digital Rights Management, Gestió de drets digitals)
 play-drm-content =
     .label = Reprodueix contingut controlat per DRM
@@ -620,6 +628,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Canvia la contrasenya mestra…
     .accesskey = m
+forms-master-pw-fips-title = Us trobeu en mode FIPS. El FIPS requereix una contrasenya mestra no buida.
+forms-master-pw-fips-desc = El canvi de contrasenya ha fallat
 
 ## Privacy Section - History
 
@@ -760,7 +770,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalitzada
     .accesskey = P
 
-
+##
 
 content-blocking-etp-standard-desc = Equilibri entre protecció i rendiment. Les pàgines es carregaran amb normalitat.
 content-blocking-etp-strict-desc = Més protecció, però pot fer que alguns llocs o algun contingut no funcionin correctament.
