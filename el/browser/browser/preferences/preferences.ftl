@@ -253,8 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Ενέργεια
     .accesskey = Ε
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } αρχείο
+applications-action-save =
+    .label = Αποθήκευση αρχείου
 applications-use-other =
     .label = Χρήση άλλης…
+applications-select-helper = Επιλογή βοηθητικής εφαρμογής
 applications-manage-app =
     .label = Λεπτομέρειες εφαρμογής…
 applications-always-ask =
@@ -266,6 +272,8 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+applications-preview-inapp =
+    .label = Προεπισκόπηση σε { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
