@@ -232,6 +232,7 @@ applications-action-column =
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ఫైలు
+applications-select-helper = సహాయక అనువర్తనాన్ని ఎన్నుకోండి
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
