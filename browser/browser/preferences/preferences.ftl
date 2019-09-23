@@ -268,6 +268,11 @@ applications-use-app =
 applications-use-other =
     .label = Parinkti kitą programą…
 applications-select-helper = Atveriančiosios programos parinkimas
+applications-manage-app =
+    .label = Programų savybės…
+applications-always-ask =
+    .label = Visada klausti
+applications-type-pdf = PDF formato dokumentas
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
