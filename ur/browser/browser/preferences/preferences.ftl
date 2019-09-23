@@ -505,6 +505,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = ماسٹر پاس ورڈ تبدیل کریں…
     .accesskey = M
+forms-master-pw-fips-title = فی الحال آپ FIPS موڈ میں ہیں۔ FIPS کو ایک ناخالی ماسٹر پاس ورڈ درکار ہے۔
 forms-master-pw-fips-desc = پاس ورڈ تبدیلی ناکام
 
 ## Privacy Section - History
