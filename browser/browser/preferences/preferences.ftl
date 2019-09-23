@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Művelet
     .accesskey = M
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Digitális jogkezelést (DRM) használó tartalom
 play-drm-content =
     .label = DRM-vezérelt tartalom lejátszása
@@ -620,6 +628,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Mesterjelszó megváltoztatása…
     .accesskey = z
+forms-master-pw-fips-title = Jelenleg FIPS-módban van. A FIPS-hez kötelező nem üres mesterjelszót megadni.
+forms-master-pw-fips-desc = Sikertelen jelszóváltoztatás
 
 ## Privacy Section - History
 
@@ -760,7 +770,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Egyéni
     .accesskey = E
 
-
+##
 
 content-blocking-etp-standard-desc = Kiegyensúlyozott védelem és teljesítmény. Az oldalak normálisan fognak betölteni.
 content-blocking-etp-strict-desc = Erősebb védelem, de egyes webhelyek és tartalmak hibásan működhetnek.
