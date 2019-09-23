@@ -256,6 +256,16 @@ applications-action-column =
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = arquivo { $extension }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Abrir com o { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Abrir com o { $app-name } (padrão)
+applications-use-other =
+    .label = Abrir com…
 applications-select-helper = Selecionar aplicativo
 applications-manage-app =
     .label = Detalhes do aplicativo…
