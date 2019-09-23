@@ -256,6 +256,14 @@ applications-type-column =
 applications-action-column =
     .label = Действие
     .accesskey = е
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Содержимое использующее технические средства защиты авторских прав (DRM)
 play-drm-content =
     .label = Воспроизводить контролируемое DRM содержимое
@@ -618,6 +626,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Сменить мастер-пароль…
     .accesskey = м
+forms-master-pw-fips-title = Вы работаете в режиме соответствия FIPS. При работе в этом режиме необходимо установить мастер-пароль.
+forms-master-pw-fips-desc = Смена пароля не удалась
 
 ## Privacy Section - History
 
