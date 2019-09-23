@@ -172,6 +172,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.account.label "Mba'ete">
 <!ENTITY fxa.menu.settings.label "Ñemboheko">
+<!ENTITY fxa.menu.accountSettings.label "Mba'ete ñemboheko">
+<!ENTITY fxa.menu.signOut.label "Ñesẽ…">
+<!ENTITY fxa.menu.deviceSettings.label "Mba'e'oka ñemboheko">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
