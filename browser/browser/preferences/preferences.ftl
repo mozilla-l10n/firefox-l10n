@@ -605,6 +605,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Breyta aðallykilorði…
     .accesskey = B
+forms-master-pw-fips-title = Þú ert núna í FIPS ham. FIPS má ekki hafa tómt aðallykilorð.
 forms-master-pw-fips-desc = Gat ekki breytt lykilorði
 
 ## Privacy Section - History
