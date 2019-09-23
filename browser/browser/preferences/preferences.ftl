@@ -278,9 +278,14 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Defnyddio { $app-name } (rhagosodiad)
+applications-use-other =
+    .label = Defnyddio arall…
 applications-select-helper = Dewis Rhaglen Gynorthwyol
+applications-manage-app =
+    .label = Manylion y Rhaglen…
 applications-always-ask =
     .label = Gofyn bob tro
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
