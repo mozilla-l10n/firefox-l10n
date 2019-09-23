@@ -109,6 +109,7 @@ applications-manage-app =
     .label = Aplekehyen nhunumu…
 applications-always-ask =
     .label = Bisa bere biara
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
