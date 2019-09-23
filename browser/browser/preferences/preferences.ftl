@@ -245,9 +245,19 @@ applications-action-column =
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ֆայլ
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Օգտագործել { $app-name }-ը
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Օգտագործել { $app-name }-ը (լռելյայն)
 applications-use-other =
     .label = Օգտագործել մեկ ուրիշը…
 applications-select-helper = Ընտրել Սատարող Ծրագիրը
+applications-manage-app =
+    .label = Ծրագրի մանրամասները...
 applications-always-ask =
     .label = Միշտ հարցնել
 applications-type-pdf = Portable Document Format (PDF)
@@ -258,6 +268,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Օգտագործել { $plugin-name } ({ -brand-short-name }-ում)
 applications-preview-inapp =
     .label = Դիտել { -brand-short-name }-ում
 
