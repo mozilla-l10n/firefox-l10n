@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Action
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Contento protegite per DRM (Gestion de Derectos Digital)
 play-drm-content =
     .label = Presentar contento protegite per DRM
@@ -620,6 +628,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Modificar le contrasigno maestro…
     .accesskey = M
+forms-master-pw-fips-title = Tu es actualmente in modo FIPS. Tal modo require un contrasigno maestro non vacue.
+forms-master-pw-fips-desc = Le cambio de contrasigno ha fallite
 
 ## Privacy Section - History
 
@@ -760,7 +770,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalisate
     .accesskey = P
 
-
+##
 
 content-blocking-etp-standard-desc = Balanciate pro protection e performance. Paginas cargara normalmente.
 content-blocking-etp-strict-desc = Protection plus forte, ma pote causar alcun sitos o contento collaber.
