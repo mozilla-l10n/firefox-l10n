@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Megosztás">
 <!ENTITY share_title "Megosztás ezen:">
 <!ENTITY share_image_failed "Nem lehet megosztani ezt a képet">
+<!ENTITY share_error_toast_message "Nem lehet megosztani a megadott alkalmazással">
 <!ENTITY save_as_pdf "Mentés PDF-ként">
 <!ENTITY print "Nyomtatás">
 <!ENTITY view_page_source "Oldal forrása">
