@@ -232,7 +232,19 @@ applications-action-column =
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ఫైలు
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = { $app-name }ను వాడు
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = { $app-name }ను వాడు (అప్రమేయం)
+applications-use-other =
+    .label = వేరే వాటిని వాడు…
 applications-select-helper = సహాయక అనువర్తనాన్ని ఎన్నుకోండి
+applications-manage-app =
+    .label = అనువర్తన వివరాలు…
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -240,6 +252,12 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = { $plugin-name } వాడు ({ -brand-short-name }లో)
+applications-preview-inapp =
+    .label = { -brand-short-name }లో మునుజూపు
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
