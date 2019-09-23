@@ -632,6 +632,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Schimbă parola generală…
     .accesskey = m
+forms-master-pw-fips-title = Acum te afli în modul FIPS. Pentru FIPS este nevoie de o parolă generală nevidă.
 forms-master-pw-fips-desc = Schimbarea parolei a eșuat
 
 ## Privacy Section - History
