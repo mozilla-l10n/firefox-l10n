@@ -98,12 +98,27 @@ applications-action-column =
     .label = Fɨnoka
     .accesskey = F
 # Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Fɨnoka { $app-name }
+applications-use-other =
+    .label = Jɨaɨe fɨno...
+applications-manage-app =
+    .label = Ráanɨ rafúe...
+applications-always-ask =
+    .label = Jɨkánori
+applications-type-pdf = Éroika bíe Portable Document Format(PDF)
+# Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Fɨno { $plugin-name } (en { -brand-short-name })
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
