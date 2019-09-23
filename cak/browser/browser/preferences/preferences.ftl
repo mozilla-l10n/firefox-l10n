@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = B'anoj
     .accesskey = B
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Kematz'ib'il ch'ojib'äl Runuk'samajixik (DRM) Rupam
 play-drm-content =
     .label = Titzij DRM-chajin rupam
@@ -612,6 +620,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Tik'ex nimaläj ewan tzij…
     .accesskey = n
+forms-master-pw-fips-title = Wakami at k'o pa rub'eyal FIPS. FIPS nrajo' jun nimaläj ewan tzij, ri man kowöl ta.
+forms-master-pw-fips-desc = Sachoj toq nijal ri ewan tzij
 
 ## Privacy Section - History
 
