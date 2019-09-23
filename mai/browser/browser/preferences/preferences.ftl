@@ -118,11 +118,11 @@ applications-action-save =
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
-    .label = { $app-name } क प्रयोग  करू{ " " }
+    .label = { $app-name } क प्रयोग  करू
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
-    .label = { $app-name } (पूर्वनिर्धारित)क प्रयोग करू{ " " }
+    .label = { $app-name } (पूर्वनिर्धारित)क प्रयोग करू
 applications-use-other =
     .label = दोसर प्रयोग करू…
 applications-select-helper = मदतिक लेल अनुप्रयोग चुनू
@@ -141,7 +141,7 @@ applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
-    .label = { $plugin-name } ({ -brand-short-name } मे)क' प्रयोग  करू{ " " }
+    .label = { $plugin-name } ({ -brand-short-name } मे)क' प्रयोग  करू
 applications-preview-inapp =
     .label = { -brand-short-name } मे पूर्वावलोकन
 
