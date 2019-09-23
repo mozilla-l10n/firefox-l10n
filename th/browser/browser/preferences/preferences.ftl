@@ -610,6 +610,7 @@ forms-master-pw-change =
     .label = เปลี่ยนรหัสผ่านหลัก…
     .accesskey = ผ
 forms-master-pw-fips-title = คุณกำลังอยู่ในโหมด FIPS ซึ่ง FIPS จำเป็นต้องมีรหัสผ่านหลักที่ไม่ว่างเปล่า
+forms-master-pw-fips-desc = การเปลี่ยนรหัสผ่านล้มเหลว
 
 ## Privacy Section - History
 
