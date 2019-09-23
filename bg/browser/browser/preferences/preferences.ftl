@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Действие
     .accesskey = Д
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Съдържание с цифрови права (DRM)
 play-drm-content =
     .label = Изпълняване на съдържание под DRM
@@ -622,6 +630,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Промяна на главна парола
     .accesskey = л
+forms-master-pw-fips-title = В момента е активен режим FIPS. Той изисква попълнена главна парола.
+forms-master-pw-fips-desc = Грешка при промяна на паролата
 
 ## Privacy Section - History
 
