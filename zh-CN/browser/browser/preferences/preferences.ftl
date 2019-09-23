@@ -258,11 +258,17 @@ applications-action-save =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = 使用 { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = 使用 { $app-name } 处理（默认）
 applications-use-other =
     .label = 使用其他…
 applications-select-helper = 选择助手应用程序
 applications-manage-app =
     .label = 应用程序详细信息…
+applications-always-ask =
+    .label = 每次都问我
 applications-type-pdf = 便携式文档格式 (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
