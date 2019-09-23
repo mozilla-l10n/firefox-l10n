@@ -257,6 +257,7 @@ applications-use-app =
     .label = Tii ki { $app-name }
 applications-use-other =
     .label = Tii ki mukene…
+applications-type-pdf = Kit Coc acoya Ma mako ne yot (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
