@@ -41,4 +41,4 @@ dns-lookup = Consulta DNS
 dns-lookup-button = Resol
 dns-domain = Domini:
 dns-lookup-table-column = IP
-rcwn-perf-open = Obri
+rcwn-perf-open = Òbriga

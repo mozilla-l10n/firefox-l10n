@@ -58,14 +58,14 @@ newtab-confirm-delete-history-p2 = Esta acció no es pot desfer.
 
 # General tooltip for context menus.
 newtab-menu-section-tooltip =
-    .title = Obri el menú
-    .aria-label = Obri el menú
+    .title = Òbriga el menú
+    .aria-label = Òbriga el menú
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
-    .title = Obri el menú
-    .aria-label = Obri el menú contextual de { $title }
+    .title = Òbriga el menú
+    .aria-label = Òbriga el menú contextual de { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Edita este lloc
@@ -74,8 +74,8 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Edita
-newtab-menu-open-new-window = Obri en una finestra nova
-newtab-menu-open-new-private-window = Obri en una finestra privada nova
+newtab-menu-open-new-window = Òbriga en una finestra nova
+newtab-menu-open-new-private-window = Òbriga en una finestra privada nova
 newtab-menu-dismiss = Descarta
 newtab-menu-pin = Fixa
 newtab-menu-unpin = No fixis
@@ -108,7 +108,7 @@ newtab-menu-show-file =
         [macos] Mostra-ho en el Finder
        *[other] Obre la carpeta on es troba
     }
-newtab-menu-open-file = Obri el fitxer
+newtab-menu-open-file = Òbriga el fitxer
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that

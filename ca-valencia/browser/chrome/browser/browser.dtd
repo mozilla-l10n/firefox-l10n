@@ -15,7 +15,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Navegació privada)">
 
-<!ENTITY appmenu.tooltip                     "Obri el menú">
+<!ENTITY appmenu.tooltip                     "Òbriga el menú">
 <!ENTITY navbarOverflow.label                "Més eines…">
 <!-- Tab context menu -->
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -54,9 +54,9 @@ in "Search through tabs". -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Obri la ubicació…">
-<!ENTITY openFileCmd.label "Obri un fitxer…">
-<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openLocationCmd.label "Òbriga la ubicació…">
+<!ENTITY openFileCmd.label "Òbriga un fitxer…">
+<!ENTITY openFileCmd.accesskey "Ò">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Configuració de la pàgina…">
 <!ENTITY printSetupCmd.accesskey "g">
@@ -99,7 +99,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY mirrorTabCmd.accesskey "D">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Obri a pantalla completa">
+<!ENTITY enterFullScreenCmd.label "Òbriga a pantalla completa">
 <!ENTITY enterFullScreenCmd.accesskey "p">
 <!ENTITY exitFullScreenCmd.label "Ix de la pantalla completa">
 <!ENTITY exitFullScreenCmd.accesskey "p">
@@ -112,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 <!ENTITY fxaSignIn.label "Inicia la sessió al &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Obri les preferències del &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Òbriga les preferències del &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Torna a connectar al &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verifiqueu el compte">
 
@@ -135,7 +135,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.unverified.callout.label "Comproveu el correu">
 <!ENTITY fxa.unverified.description.label "Heu de verificar el vostre compte abans de poder sincronitzar.">
-<!ENTITY fxa.unverified.button.label "Obri els paràmetres del &syncBrand.shortName.label;…">
+<!ENTITY fxa.unverified.button.label "Òbriga els paràmetres del &syncBrand.shortName.label;…">
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -213,29 +213,29 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Mostra la informació del lloc">
 
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Obri la subfinestra del missatge">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Obri la subfinestra de la sol·licitud d'ubicació">
-<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Obri la subfinestra de reproducció automàtica">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Obri la subfinestra del missatge d'instal·lació del complement">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Òbriga la subfinestra del missatge">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Òbriga la subfinestra de la sol·licitud d'ubicació">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Òbriga la subfinestra de reproducció automàtica">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Òbriga la subfinestra del missatge d'instal·lació del complement">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Gestiona el permís d'extracció de llenç">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Obri la subfinestra del missatge d'emmagatzematge fora de línia">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Obri la subfinestra del missatge de guardar la contrasenya">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Òbriga la subfinestra del missatge d'emmagatzematge fora de línia">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Òbriga la subfinestra del missatge de guardar la contrasenya">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestiona l'ús dels complements">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Canvia l'opció de si es poden rebre notificacions d'este lloc">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Guarda dades en l'emmagatzematge persistent">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "El navegador està sota control remot">
-<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Obri la subfinestra d'autenticació web">
-<!ENTITY urlbar.storageAccessAnchor.tooltip               "Obri la subfinestra de permisos d'activitat de navegació">
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Òbriga la subfinestra d'autenticació web">
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Òbriga la subfinestra de permisos d'activitat de navegació">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestiona la compartició de la càmera o del micròfon amb el lloc">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestiona la compartició del micròfon amb el lloc">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Gestiona la compartició de finestres o de la pantalla amb el lloc">
 
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Obri la subfinestra del missatge d'instal·lació">
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Òbriga la subfinestra del missatge d'instal·lació">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Tradueix esta pàgina">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gestiona la traducció de pàgines">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestiona l'ús de programari de DRM">
-<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Obri la subfinestra MIDI">
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Òbriga la subfinestra MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Heu blocat la càmera per a este lloc web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Heu blocat el micròfon per a este lloc web.">
@@ -401,7 +401,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Voleu veure ací les pestanyes d'altres dispositius?">
-<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Obri les preferències de sincronització">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Òbriga les preferències de sincronització">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicieu la sessió per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Cal que verifiqueu el compte.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicia la sessió al Sync">
@@ -530,18 +530,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.label     "Defineix com a motor de cerca per defecte">
 <!ENTITY searchSetAsDefault.accesskey "D">
 
-<!ENTITY openLinkCmdInTab.label       "Obri l'enllaç en una pestanya nova">
+<!ENTITY openLinkCmdInTab.label       "Òbriga l'enllaç en una pestanya nova">
 <!ENTITY openLinkCmdInTab.accesskey   "t">
-<!ENTITY openLinkCmd.label            "Obri l'enllaç en una finestra nova">
+<!ENTITY openLinkCmd.label            "Òbriga l'enllaç en una finestra nova">
 <!ENTITY openLinkCmd.accesskey        "f">
-<!ENTITY openLinkInPrivateWindowCmd.label "Obri l'enllaç en una finestra privada nova">
+<!ENTITY openLinkInPrivateWindowCmd.label "Òbriga l'enllaç en una finestra privada nova">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
-<!ENTITY openLinkCmdInCurrent.label     "Obri l'enllaç">
-<!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openFrameCmdInTab.label      "Obri el marc en una pestanya nova">
+<!ENTITY openLinkCmdInCurrent.label     "Òbriga l'enllaç">
+<!ENTITY openLinkCmdInCurrent.accesskey "Ò">
+<!ENTITY openFrameCmdInTab.label      "Òbriga el marc en una pestanya nova">
 <!ENTITY openFrameCmdInTab.accesskey  "t">
-<!ENTITY openFrameCmd.label           "Obri el marc en una finestra nova">
-<!ENTITY openFrameCmd.accesskey       "O">
+<!ENTITY openFrameCmd.label           "Òbriga el marc en una finestra nova">
+<!ENTITY openFrameCmd.accesskey       "Ò">
 <!ENTITY openLinkCmdInContainerTab.label "Obre l'enllaç en una pestanya de contenidor nova">
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostra només este marc">
@@ -595,7 +595,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Anomena i guarda la pàgina…">
 <!ENTITY savePageCmd.accesskey        "g">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2	"d">
+<!ENTITY savePageCmd.accesskey2 "d">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Anomena i guarda el marc…">
 <!ENTITY saveFrameCmd.accesskey       "m">
@@ -829,8 +829,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Permisos">
 <!ENTITY identity.permissionsEmpty "No heu donat cap permís especial a este lloc.">
 <!ENTITY identity.permissionsReloadHint "Potser cal que actualitzeu la pàgina per aplicar els canvis.">
-<!ENTITY identity.permissionsPreferences.tooltip "Obri les preferències de permisos">
-<!ENTITY identity.contentBlockingPreferences.tooltip "Obri les preferències de bloqueig de contingut">
+<!ENTITY identity.permissionsPreferences.tooltip "Òbriga les preferències de permisos">
+<!ENTITY identity.contentBlockingPreferences.tooltip "Òbriga les preferències de bloqueig de contingut">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 

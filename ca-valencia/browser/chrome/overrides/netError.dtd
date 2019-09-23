@@ -23,14 +23,7 @@
 <!ENTITY dnsNotFound.pageTitle "Server Not Found">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 <!ENTITY dnsNotFound.title1 "Hmm. We’re having trouble finding that site.">
-<!ENTITY dnsNotFound.longDesc1 "
-<strong>If that address is correct, here are three other things you can try:</strong>
-<ul>
-  <li>Try again later.</li>
-  <li>Check your network connection.</li>
-  <li>If you are connected but behind a firewall, check that &brandShortName; has permission to access the Web.</li>
-</ul>
-">
+<!ENTITY dnsNotFound.longDesc1 "<strong>If that address is correct, here are three other things you can try:</strong> <ul> <li>Try again later.</li> <li>Check your network connection.</li> <li>If you are connected but behind a firewall, check that &brandShortName; has permission to access the Web.</li> </ul>">
 
 <!ENTITY fileNotFound.title "No s'ha trobat el fitxer">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Comproveu les majúscules i minúscules del nom del fitxer i qualsevol altre error que s'haja produït en teclejar.</li> <li>Comproveu que el fitxer no s'haja mogut, canviat de nom o eliminat.</li> </ul>">
@@ -44,7 +37,7 @@
 <!ENTITY captivePortal.title "Inicieu la sessió a la xarxa">
 <!ENTITY captivePortal.longDesc2 "<p>Heu d'iniciar la sessió en esta xarxa per poder accedir a Internet.</p>">
 
-<!ENTITY openPortalLoginPage.label2 "Obri la pàgina d'inici de sessió a la xarxa">
+<!ENTITY openPortalLoginPage.label2 "Òbriga la pàgina d'inici de sessió a la xarxa">
 
 <!ENTITY malformedURI.pageTitle "Invalid URL">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
@@ -103,19 +96,11 @@ was trying to connect. -->
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "What can you do about it?">
 
-<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
-<p>The issue is most likely with the website, and there is nothing you can do to resolve it.</p>
-<p>If you are on a corporate network or using anti-virus software, you can reach out to the support teams for assistance. You can also notify the website’s administrator about the problem.</p>
-">
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>The issue is most likely with the website, and there is nothing you can do to resolve it.</p> <p>If you are on a corporate network or using anti-virus software, you can reach out to the support teams for assistance. You can also notify the website’s administrator about the problem.</p>">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
-<p>Your computer clock is set to <span id='wrongSystemTime_systemDate2'/>. Make sure your computer is set to the correct date, time, and time zone in your system settings, and then refresh <span class='hostname'/>.</p>
-<p>If your clock is already set to the right time, the website is likely misconfigured, and there is nothing you can do to resolve the issue. You can notify the website’s administrator about the problem.</p>
-">
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Your computer clock is set to <span id='wrongSystemTime_systemDate2'/>. Make sure your computer is set to the correct date, time, and time zone in your system settings, and then refresh <span class='hostname'/>.</p> <p>If your clock is already set to the right time, the website is likely misconfigured, and there is nothing you can do to resolve the issue. You can notify the website’s administrator about the problem.</p>">
 
-<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
-<p>The issue is most likely with the website, and there is nothing you can do to resolve it. You can notify the website’s administrator about the problem.</p>
-">
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>The issue is most likely with the website, and there is nothing you can do to resolve it. You can notify the website’s administrator about the problem.</p>">
 
 <!ENTITY sharedLongDesc "<ul> <li>El lloc web podria estar temporalment no disponible o massa ocupat. Torneu-ho a provar d'ací uns moments.</li> <li>Si no podeu carregar cap pàgina, comproveu la connexió a la xarxa del vostre ordinador.</li> <li>Si el vostre ordinador o la vostra xarxa estan protegits per un tallafoc o per un servidor intermediari, assegureu-vos que el &brandShortName; tinga permís per accedir al web.</li> </ul>">
 

@@ -12,7 +12,7 @@ fullscreen = Pantalla completa
 find = Cerca
 new-tab = Pestanya nova
 add-bookmark = Afig a les adreces d'interés
-open-bookmarks-sidebar = Obri la barra lateral de les adreces d'interés
+open-bookmarks-sidebar = Òbriga la barra lateral de les adreces d'interés
 reader-view = Vista de lectura
 # Meant to match the string displayed in an empty URL bar.
 open-location = Escriviu una cerca o adreça

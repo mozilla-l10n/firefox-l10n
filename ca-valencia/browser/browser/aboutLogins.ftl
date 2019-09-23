@@ -28,7 +28,7 @@ fxaccounts-avatar-button =
 ## The ⋯ menu that is in the top corner of the page
 
 menu =
-    .title = Obri el menú
+    .title = Òbriga el menú
 # This menuitem is only visible on Windows
 menu-menuitem-import = Importa contrasenyes…
 menu-menuitem-preferences =
@@ -77,7 +77,7 @@ login-item-delete-button = Suprimeix
 login-item-origin-label = Adreça del lloc web
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Obri
+login-item-open-site-button = Òbriga
 login-item-username-label = Nom d'usuari
 login-item-username =
     .placeholder = nom@example.com

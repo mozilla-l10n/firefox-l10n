@@ -4,7 +4,7 @@
 
 about-private-browsing-learn-more = Més informació sobre la <a data-l10n-name="learn-more">Navegació privada</a>.
 about-private-browsing-info-visited = pàgines visitades
-privatebrowsingpage-open-private-window-label = Obri una finestra privada
+privatebrowsingpage-open-private-window-label = Òbriga una finestra privada
     .accesskey = p
 about-private-browsing-info-notsaved = Quan navegueu en una finestra privada, el { -brand-short-name } <strong>no desarà</strong>:
 about-private-browsing-search-placeholder = Cerca al web

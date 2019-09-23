@@ -24,9 +24,9 @@ menu-file-new-private-window =
 # that aren't main browser windows, or when there are no windows
 # but Firefox is still running.
 menu-file-open-location =
-    .label = Obri la ubicació…
+    .label = Òbriga la ubicació…
 menu-file-open-file =
-    .label = Obri un fitxer…
+    .label = Òbriga un fitxer…
     .accesskey = O
 menu-file-close =
     .label = Tanca
@@ -144,7 +144,7 @@ menu-view-charset =
 ## use on macOS.
 
 menu-view-enter-full-screen =
-    .label = Obri a pantalla completa
+    .label = Òbriga a pantalla completa
     .accesskey = p
 menu-view-exit-full-screen =
     .label = Ix de la pantalla completa
