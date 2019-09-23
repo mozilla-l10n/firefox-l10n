@@ -262,6 +262,10 @@ applications-action-save =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = { $app-name } kullanılsın
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = { $app-name } kullanılsın (varsayılan)
 applications-use-other =
     .label = Başkasını kullan…
 applications-select-helper = Yardımcı uygulamayı seçin
