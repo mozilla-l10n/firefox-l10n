@@ -264,10 +264,12 @@ applications-use-app-default =
     .label = { $app-name } erabili (lehenetsia)
 applications-use-other =
     .label = Beste bat…
+applications-select-helper = Hautatu laguntza-aplikazioa
 applications-manage-app =
     .label = Aplikazioaren xehetasunak…
 applications-always-ask =
     .label = Galdetu beti
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -275,6 +277,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Erabili { $plugin-name } ({ -brand-short-name }(e)n)
 applications-preview-inapp =
     .label = Aurreikusi { -brand-short-name }(e)n
 
