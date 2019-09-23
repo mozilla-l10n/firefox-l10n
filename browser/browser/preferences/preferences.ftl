@@ -101,6 +101,14 @@ applications-type-column =
 applications-action-column =
     .label = କାର୍ଯ୍ୟ
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 update-application-use-service =
     .label = ଅପଡେଟସବୁ ଇନଷ୍ଟଲ କରିବା ପାଇଁ ଏକ ବ୍ୟାକଗ୍ରାଉଣ୍ଡ ସର୍ଭିସ ବ୍ୟବହାର କରନ୍ତୁ
     .accesskey = b
@@ -150,6 +158,9 @@ choose-bookmark =
     .label = ଚିହ୍ନିତ ସ୍ଥାନ ବ୍ୟବହାର କରନ୍ତୁ…
     .accesskey = B
 
+## Home Section - Firefox Home Content Customization
+
+
 ## Search Section
 
 search-choose-keyword-column =
@@ -195,6 +206,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = ମୂଖ୍ୟ ପ୍ରବେଶ ସଂକେତକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ…
     .accesskey = M
+forms-master-pw-fips-title = ଆପଣ ବର୍ତ୍ତମାନ FIPS ଅବସ୍ଥାରେ ଅଛନ୍ତି. FIPS ଗୋଟିଏ ଖାଲିନଥିବା ମୁଖ୍ୟ ପ୍ରବେଶ ସଂକେତ ଆବଶ୍ୟକ କରେ.
+forms-master-pw-fips-desc = ପ୍ରବେଶ ସଂକେତ ପରିବର୍ତ୍ତନ ବିଫଳ ହେଲା
 
 ## Privacy Section - History
 
@@ -225,6 +238,13 @@ history-clear-on-close-settings =
 
 
 ## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
 
 
 ## Privacy Section - Tracking
