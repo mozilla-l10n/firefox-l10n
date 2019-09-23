@@ -207,6 +207,14 @@ applications-type-column =
 applications-action-column =
     .label = Amal
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Raqamli huquqlar boshqaruvi (DRM) kontenti
 play-drm-content =
     .label = DRM boshqaruvdagi kontentni ishga tushirish
@@ -525,6 +533,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Parol ustasini oʻzgartirish
     .accesskey = u
+forms-master-pw-fips-title = Siz hozirda FIPS usulidasiz. FIPS boʻsh boʻlmagan master maxfiy soʻzni talab qiladi.
+forms-master-pw-fips-desc = Maxfiy soʻzni oʻzgartirib boʻlmadi
 
 ## Privacy Section - History
 
@@ -591,6 +601,13 @@ addressbar-locbar-openpage-option =
 addressbar-suggestions-settings = Qidiruv tizimi tavsiyalari uchun sozlamalarni o‘zgartirish
 
 ## Privacy Section - Content Blocking
+
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
 
 
 ## Privacy Section - Tracking
