@@ -262,6 +262,9 @@ applications-type-column =
 applications-action-column =
     .label = الإجراء
     .accesskey = ج
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = ملف { $extension }
 applications-action-save =
     .label = احفظ الملف
 # Variables:
@@ -275,6 +278,9 @@ applications-use-app-default =
 applications-select-helper = اختر التّطبيق المساعد
 applications-manage-app =
     .label = تفاصيل التطبيق…
+applications-always-ask =
+    .label = اسأل دائمًا
+applications-type-pdf = صيغة المستندات المحمولة (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
