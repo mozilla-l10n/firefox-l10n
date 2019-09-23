@@ -253,6 +253,14 @@ applications-type-column =
 applications-action-column =
     .label = Ενέργεια
     .accesskey = Ε
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Περιεχόμενο διαχείρισης ψηφιακών δικαιωμάτων (DRM)
 play-drm-content =
     .label = Αναπαραγωγή περιεχομένου με έλεγχο DRM
@@ -611,6 +619,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Αλλαγή κύριου κωδικού…
     .accesskey = γ
+forms-master-pw-fips-title = Βρίσκεστε σε λειτουργία FIPS . Το FIPS απαιτεί ένα μη-κενό Κύριο κωδικό.
+forms-master-pw-fips-desc = Αποτυχία αλλαγής κωδικού
 
 ## Privacy Section - History
 
