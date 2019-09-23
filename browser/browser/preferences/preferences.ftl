@@ -98,6 +98,11 @@ applications-action-column =
     .label = কাৰ্য্য
     .accesskey = A
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } ফাইল
+applications-action-save =
+    .label = ফাইল সংৰক্ষণ কৰক
+# Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = { $app-name } ব্যৱহাৰ কৰক
@@ -107,6 +112,9 @@ applications-use-app-default =
     .label = { $app-name } ব্যৱহাৰ কৰক (অবিকল্পিত)
 applications-use-other =
     .label = অন্য ব্যৱহাৰ কৰক…
+applications-select-helper = সহায়ক এপ্লিকেচন বাছক
+applications-manage-app =
+    .label = এপ্লিকেচনৰ বিৱৰণ…
 applications-always-ask =
     .label = সদায়ে সোধিব
 applications-type-pdf = সংবাহ্য দস্তাবেজ বিন্যাস (PDF)
