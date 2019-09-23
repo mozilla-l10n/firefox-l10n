@@ -268,6 +268,9 @@ applications-use-app-default =
     .label = Brug { $app-name } (standard)
 applications-use-other =
     .label = Vælg en anden…
+applications-select-helper = Vælg hjælpeprogram
+applications-manage-app =
+    .label = Programdetaljer…
 applications-always-ask =
     .label = Spørg altid
 # Variables:
