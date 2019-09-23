@@ -108,6 +108,7 @@ applications-manage-app =
     .label = Maelezo Kamili ya Programu Tumizi…
 applications-always-ask =
     .label = Uliza kila mara
+applications-type-pdf = Mtindo wa Waraka Salama (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
