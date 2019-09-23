@@ -249,6 +249,14 @@ applications-type-column =
 applications-action-column =
     .label = কর্ম
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = ডিজিটাল রাইটস ম্যানেজমেন্ট (DRM) বিষয়বস্তু
 play-drm-content =
     .label = DRM-নিয়ন্ত্রিত বিষয়বস্তু চালান
@@ -579,6 +587,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = প্রধান পাসওয়ার্ড পরিবর্তন করুন…
     .accesskey = M
+forms-master-pw-fips-desc = পাসওয়ার্ড পরিবর্তন করতে ব্যর্থ
 
 ## Privacy Section - History
 
@@ -671,6 +680,13 @@ addressbar-suggestions-settings = সার্চ ইঞ্জিনের প�
 
 content-blocking-header = বিষয়বস্তুর ব্লকিং
 content-blocking-learn-more = আরো জানুন
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+
+##
+
 content-blocking-tracking-protection-change-block-list = ব্লক তালিকা পরিবর্তন করুন
 
 ## Privacy Section - Tracking
