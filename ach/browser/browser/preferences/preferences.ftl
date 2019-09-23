@@ -252,11 +252,25 @@ applications-action-column =
     .label = Tic
     .accesskey = T
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } pwail
+applications-action-save =
+    .label = Gwok pwail
+# Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Tii ki { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Tii ki { $app-name } (makwongo)
 applications-use-other =
     .label = Tii ki mukene…
+applications-select-helper = Yer purugram ma Lakony
+applications-manage-app =
+    .label = Matut ikom purugram…
+applications-always-ask =
+    .label = Peny jwijwi
 applications-type-pdf = Kit Coc acoya Ma mako ne yot (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
