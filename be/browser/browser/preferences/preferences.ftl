@@ -256,6 +256,14 @@ applications-type-column =
 applications-action-column =
     .label = Дзеянне
     .accesskey = Д
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Digital Rights Management (DRM) змесціва
 play-drm-content =
     .label = Прайграваць DRM-кантраляванае змесціва
@@ -624,6 +632,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Змяніць галоўны пароль…
     .accesskey = З
+forms-master-pw-fips-title = Зараз вы ў рэжыме FIPS. Для FIPS патрабуецца не пусты галоўны пароль.
+forms-master-pw-fips-desc = Няўдача змянення пароля
 
 ## Privacy Section - History
 
@@ -764,7 +774,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Адмыслова
     .accesskey = с
 
-
+##
 
 content-blocking-etp-standard-desc = Збалансаваная ахова і прадукцыйнасць. Старонкі загружаюцца нармальна.
 content-blocking-etp-strict-desc = Больш моцная ахова, але можа прывесці да парушэння некаторых сайтаў ці змесціва.
