@@ -260,6 +260,7 @@ applications-use-app =
 applications-use-app-default =
     .label = Utilizar { $app-name } (per defaut)
 applications-select-helper = Seleccionatz l'ajuda de l'aplicacion
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
