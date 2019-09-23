@@ -155,6 +155,16 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "ე">
 <!ENTITY spellAddDictionaries.label     "სხვა ლექსიკონების ჩამოტვირთვა…">
 <!ENTITY spellAddDictionaries.accesskey "ხ">
+
+<!ENTITY fillLoginMenu.label          "შესვლის მონაცემების შევსება">
+<!ENTITY fillLoginMenu.accesskey      "შ">
+<!ENTITY fillPasswordMenu.label       "პაროლის შევსება">
+<!ENTITY fillPasswordMenu.accesskey   "შ">
+<!ENTITY fillUsernameMenu.label       "მომხმარებლის სახელის შევსება">
+<!ENTITY fillUsernameMenu.accesskey   "შ">
+<!ENTITY noLoginSuggestions.label     "(შესვლის შემოთავაზებები არაა)">
+<!ENTITY viewSavedLogins.label        "შენახული შესვლების ნახვა">
+
 <!-- Developer Tools -->
 <!ENTITY devtoolsInspect.label          "ელემენტზე დაკვირვება">
 <!ENTITY devtoolsInspect.accesskey      "ე">
