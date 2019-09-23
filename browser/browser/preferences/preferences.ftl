@@ -113,6 +113,14 @@ applications-type-column =
 applications-action-column =
     .label = Action
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 play-drm-content-learn-more = Learn more
 update-application-use-service =
     .label = Use a background service to install updates
@@ -244,6 +252,8 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Change Master Password…
     .accesskey = M
+forms-master-pw-fips-title = You are currently in FIPS mode. FIPS requires a non-empty Master Password.
+forms-master-pw-fips-desc = Password Change Failed
 
 ## Privacy Section - History
 
