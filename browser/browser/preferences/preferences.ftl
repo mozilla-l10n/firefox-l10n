@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Digital Rights Management (DRM) innehåll
 play-drm-content =
@@ -818,18 +818,18 @@ enhanced-tracking-protection-setting-custom =
     .label = Anpassad
     .accesskey = A
 
-##
+
 
 content-blocking-etp-standard-desc = Balanserad för skydd och prestanda. Sidor laddas normalt.
 content-blocking-etp-strict-desc = Starkare skydd, men kan leda till att vissa webbplatser eller innehåll inte fungerar.
 content-blocking-etp-custom-desc = Välj vilka trackers och skript som ska blockeras.
-content-blocking-private-windows = Spåra innehåll i privat fönster
+content-blocking-private-windows = Spårningsinnehåll i privat fönster
 content-blocking-cross-site-tracking-cookies = Globala spårningskakor
 content-blocking-social-media-trackers = Sociala media-trackers
 content-blocking-all-cookies = Alla kakor
 content-blocking-unvisited-cookies = Kakor från obesökta webbplatser
 content-blocking-all-windows-trackers = Kända trackers i alla fönster
-content-blocking-all-windows-tracking-content = Spåra innehåll i alla fönster
+content-blocking-all-windows-tracking-content = Spårningsinnehåll i alla fönster
 content-blocking-all-third-party-cookies = Alla kakor från tredje part
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
