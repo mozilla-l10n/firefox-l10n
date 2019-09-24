@@ -27,9 +27,9 @@
 <!ENTITY firstrun_sync_subtext2 "Defnyddiwch Sync i ganfod nodau tudalen, cyfrineiriau a phethau eraill rydych wedi eu cadw i &brandShortName; ar eich holl ddyfeisiau.">
 <!ENTITY newfirstrun_sync_subtext "Cydweddwch y pethau rydych chi\&apos;n eu cadw ar Firefox symudol i Firefox y bwrdd gwaith, yn breifat ac yn ddiogel.">
 <!ENTITY updatednewfirstrun_sync_subtext "Mewngofnodwch i\&apos;ch cyfrif i gael y mwyaf o &brandShortName;">
+<!ENTITY firstrun_signin_message "Cysylltu a chychwyn arni">
 <!ENTITY firstrun_sendtab_title "Tab Anfon">
 <!ENTITY firstrun_sendtab_message "Rhannwch dabiau o\&apos;r ffôn symudol i\&apos;r bwrdd gwaith - ar unwaith.">
-<!ENTITY firstrun_signin_message "Cysylltu a chychwyn arni">
 <!ENTITY firstrun_signin_button "Mewngofnodwch i Sync">
 <!ENTITY newfirstrun_signin_button "Cychwyn Sync">
 <!ENTITY updatednewfirstrun_signin_button "Mewngofnodi i &brandShortName;">
@@ -38,8 +38,6 @@
 <!ENTITY firstrun_button_next "Nesaf">
 
 <!ENTITY firstrun_signin_button2 "Mewngofnodi">
-
-<!ENTITY firstrun_signup_button "Ymuno">
 
 <!ENTITY firstrun_tabqueue_title "Dolenni">
 
@@ -51,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Chi">
 <!ENTITY firstrun_account_message "A oes gennych &brandShortName; ar ddyfais arall?">
+
+<!ENTITY firstrun_signup_button "Ymuno">
 
 <!ENTITY  onboard_start_restricted1 "Cadwch yn ddiogel ac mewn reolaeth gyda\&apos;r fersiwn symlach yma o &brandShortName;.">
 
@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Rhannu">
 <!ENTITY share_title "Rhannu drwy">
 <!ENTITY share_image_failed "Methu rhannu\&apos;r ddelwedd">
+<!ENTITY share_error_toast_message "Methu rhannu i\&apos;r ap hwnnw">
 <!ENTITY save_as_pdf "Cadw fel PDF">
 <!ENTITY print "Argraffu">
 <!ENTITY view_page_source "Gweld Ffynhonnell y Dudalen">
@@ -695,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Rydych wedi cysylltu â">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
