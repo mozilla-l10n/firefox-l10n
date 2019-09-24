@@ -14,7 +14,7 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Fortsett med forsiktighet
-about-config-intro-warning-text = Endring av avanserte konfigurasjonsinnstillinger kan påvirke { -brand-short-name } ytelse eller sikkerhet.
+about-config-intro-warning-text = Endrer du avanserte konfigurasjonsinnstillinger kan det påvirke ytelse eller sikkerhet for { -brand-short-name }.
 about-config-intro-warning-checkbox = Advar når jeg prøver å få tilgang til disse innstillinger
 about-config-intro-warning-button = Godta risikoen og fortsett
 
