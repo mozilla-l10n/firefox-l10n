@@ -855,6 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Sellele lehele sisestatavad kasutajakonto andmed võivad ohus olla.">
 <!ENTITY identity.customRoot "Ühenduse on verifitseerinud Mozillale tundmatu serdi väljaandja.">
 
+<!ENTITY identity.evOwnerLabel2 "Serdi omanik:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; blokkis sellel lehel mõned ebaturvalised osad.">
@@ -890,22 +891,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Õigused">
 
+<!ENTITY identity.permissions3 "Õigused">
 <!ENTITY identity.permissionsEmpty "Sellele saidile pole tagatud ühtki eriõigust.">
 <!ENTITY identity.permissionsReloadHint "Muudatuste rakendumiseks pead võib-olla lehe uuesti laadima.">
 <!ENTITY identity.permissionsPreferences.tooltip "Ava õiguste sätted">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Ava sisu blokkimise sätted">
 
 
+<!ENTITY protections.etpON.header "Täiustatud jälitamisvastane kaitse on sellel saidil SEES">
+<!ENTITY protections.etpOFF.header "Täiustatud jälitamisvastane kaitse on sellel saidil VÄLJAS">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Rohkem teavet täiustatud jälitamisvastase kaitse kohta">
+<!ENTITY protections.settings.label "Kaitse sätted">
+<!ENTITY protections.showreport.label "Vaata raportit">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Sait ei tööta?">
+<!ENTITY protections.siteNotWorkingView.title "Sait ei tööta?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Lülita kaitse välja, kui sul esineb probleeme järgnevate asjadega:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "sisselogimisväljad">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "vormid">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "maksed">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "kommentaarid">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "videod">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Saada raport">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
      In the protections panel, Content Blocking category items are in three sections:
