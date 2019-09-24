@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Paylaş">
 <!ENTITY share_title "Paylaş">
 <!ENTITY share_image_failed "Bu resim paylaşılamadı">
+<!ENTITY share_error_toast_message "Belirtilen uygulamayla paylaşılamadı">
 <!ENTITY save_as_pdf "PDF olarak kaydet">
 <!ENTITY print "Yazdır">
 <!ENTITY view_page_source "Sayfa kaynağını göster">
