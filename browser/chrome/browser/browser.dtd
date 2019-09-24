@@ -76,12 +76,20 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Hlavná ponuka">
 <!ENTITY menubarCmd.accesskey "H">
 <!ENTITY navbarCmd.label "Navigačný panel">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbarCmd.label "Panel záložiek">
 <!ENTITY personalbarCmd.accesskey "z">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Záložky">
 <!ENTITY bookmarksToolbarItem.label "Položky panela záložiek">
 
 <!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
 <!ENTITY pageSourceCmd.accesskey "d">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +100,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Informácie o stránke">
 <!ENTITY pageInfoCmd.accesskey "I">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Ladenie rozloženia">
 <!ENTITY ldbCmd.accesskey "L">
@@ -116,6 +125,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Obnoviť pripojenie k službe &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Overte svoj účet">
 
+
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizovať okno">
 <!ENTITY fullScreenRestore.tooltip "Obnoviť">
@@ -145,14 +157,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Prihlásený ako">
 <!ENTITY fxa.menu.manageAccount.label "Správa účtu…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "Nastavenie synchronizácie…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Pripojiť ďalšie zariadenie…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Prihlásiť sa do aplikácie &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Zapnúť &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Účet">
 <!ENTITY fxa.menu.firefoxServices.label "Služby aplikácie &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Účet">
+<!ENTITY fxa.menu.settings.label "Nastavenia">
+<!ENTITY fxa.menu.accountSettings.label "Nastavenia účtu">
+<!ENTITY fxa.menu.signOut.label "Odhlásiť sa…">
+<!ENTITY fxa.menu.deviceSettings.label "Nastavenia zariadenia">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -195,6 +216,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Záložky">
 <!ENTITY bookmarksMenu.accesskey "o">
+
 <!ENTITY bookmarkThisPageCmd.label "Pridať stránku medzi záložky">
 <!ENTITY editThisBookmarkCmd.label "Upraviť túto záložku">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -236,6 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Správa používania zásuvných modulov">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Zmení, či môžete zo stránky prijímať upozornenia">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Uloží údaje do trvalého úložiska">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Prehliadač je ovládaný na diaľku">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Otvorí kartu webovej autentifikácie">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Otvorí nastavenia prístupu k informáciám o vašom prehliadaní">
@@ -249,6 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Spravovať preklad stránky">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Spravovať používanie softvéru DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Otvoriť MIDI panel">
+
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Tejto stránke ste zakázali prístup k vašej kamere.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tejto stránke ste zakázali prístup v vášmu mikrofónu.">
@@ -508,6 +532,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Výraz vyhľadávania">
+
 <!ENTITY contentSearchSubmit.tooltip  "Odoslať vyhľadávanie">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -812,13 +837,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Pripojenie">
 <!ENTITY identity.connectionSecure "Zabezpečené pripojenie">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Zabezpečenie pripojenia">
-
-<!ENTITY identity.connectionSecure2 "Pripojenie je zabezpečené">
 <!ENTITY identity.connectionNotSecure "Pripojenie nie je zabezpečené">
+
+<!ENTITY identity.connectionSecure3 "Pripojenie je zabezpečené">
+<!ENTITY identity.connectionNotSecure2 "Pripojenie nie je zabezpečené">
 <!ENTITY identity.connectionNotSecureSecurityView "Pripojenie k tejto stránke nie je zabezpečené.">
 <!ENTITY identity.connectionFile "Táto stránka je uložená vo vašom počítači.">
 <!ENTITY identity.connectionVerified2 "Pripojenie k tejto stránke je zabezpečené. Spravuje ju:">
@@ -828,7 +850,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Prihlasovacie údaje zadané na tejto stránke by mohli byť ohrozené.">
 <!ENTITY identity.customRoot "Pripojenie je overené vydavateľom certifikátov, ktorého Mozilla nepozná.">
 
-<!ENTITY identity.evOwnerLabel "Stránku vlastní:">
+<!ENTITY identity.evOwnerLabel2 "Certifikát bol vydaný pre:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; zablokoval nezabezpečené časti tejto stránky.">
@@ -864,7 +886,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Povolenia">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
+<!ENTITY identity.permissions3 "Povolenia">
 <!ENTITY identity.permissionsEmpty "Tejto stránke ste neurčili žiadne špeciálne povolenia.">
 <!ENTITY identity.permissionsReloadHint "Pre vykonanie zmien budete možno musieť stránku obnoviť.">
 <!ENTITY identity.permissionsPreferences.tooltip "Otvoriť nastavenia povolení">
@@ -877,7 +899,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Ďalšie informácie o rozšírenej ochrane pred sledovaním">
 <!ENTITY protections.settings.label "Nastavenia ochrany">
-<!ENTITY protections.report.label "Podrobné štatistiky">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -894,9 +915,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Platbami">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Komentármi">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Videami">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Stránka nefunguje ani po vypnutí ochrany pred sledovaním?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Odoslať hlásenie">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Prečo?">
 
 
@@ -937,16 +966,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Sledovacie prvky">
 
 <!ENTITY contentBlocking.manageSettings.label "Správa blokovania obsahu">
-
-
 <!ENTITY contentBlocking.manageSettings.accesskey "S">
 
 <!ENTITY contentBlocking.trackersView.label "Sledovacie prvky">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Ak chcete blokovať všetky sledovacie prvky, vyberte úroveň „Prísne“.">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies a údaje stránok">
+
+
 
 
 
@@ -960,6 +988,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Nahlásiť problémy">
 <!ENTITY contentBlocking.breakageReportView2.description "Blokovanie obsahu môže spôsobovať problémy s webovými stránkami. Ich nahlásením významne pomôžete aplikácii &brandShortName; sa neustále zlepšovať. S vašim hlásením sa Mozille odošle URL adresa stránky a informácie o vašom nastavení blokovania obsahu.">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Ďalšie informácie">
+
 <!ENTITY contentBlocking.breakageReportView.title "Nahlásiť nefunkčnú stránku">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Ďalšie informácie">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Adresa URL">
@@ -1013,6 +1042,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "Z">
 
 <!ENTITY homepageControlled.message "Rozšírenie zmenilo vašu domovskú stránku. Ak si túto zmenu neželáte, môžete obnoviť svoje nastavenia.">
+
 <!ENTITY homepageControlled.header.message "Vaša domovská stránka bola zmenená.">
 <!ENTITY homepageControlled.keepButton.label "Zachovať zmeny">
 <!ENTITY homepageControlled.keepButton.accesskey "Z">

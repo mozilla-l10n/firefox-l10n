@@ -33,6 +33,7 @@ printpreview-of =
     .value = z
 printpreview-custom-prompt =
     .value = Vlastná mierka…
+printpreview-custom-scale-prompt-title = Vlastná mierka
 printpreview-page-setup =
     .label = Nastavenie tlače…
     .accesskey = N

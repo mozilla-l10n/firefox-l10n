@@ -103,9 +103,11 @@ detail-private-browsing-description2 = Tu môžete tomuto rozšíreniu povoliť 
 # cannot be overridden by the user.
 detail-private-disallowed-label = Toto rozšírenie sa nespúšťa v súkromných oknách
 detail-private-disallowed-description = Tvorca rozšírenia zakázal jeho spúšťanie v súkromných oknách. <label data-l10n-name="detail-private-browsing-learn-more">Ďalšie informácie</label>
+detail-private-disallowed-description2 = Tvorca rozšírenia zakázal jeho spúšťanie v súkromných oknách. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Vyžaduje prístup k súkromným oknám
 detail-private-required-description = Toto rozšírenie má prístup k vašim aktivitám v súkromných oknách. <label data-l10n-name="detail-private-browsing-learn-more">Ďalšie informácie</label>
+detail-private-required-description2 = Toto rozšírenie má prístup k vašim aktivitám v súkromných oknách. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 detail-private-browsing-on =
     .label = Povoliť
     .tooltiptext = Povoliť v súkromných oknách
@@ -305,6 +307,10 @@ install-theme-button = Nainštalovať tému vzhľadu
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Spravovať
 find-more-addons = Zobraziť ďalšie doplnky
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Ďalšie možnosti
 
 ## Add-on actions
 
@@ -376,6 +382,11 @@ install-update-button = Aktualizovať
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Povolené v súkromných oknách
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Povolené v súkromných oknách
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Povolené rozšírenia majú prístup k vašim aktivitám na internete v súkromných oknách. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 addon-detail-private-browsing-allow = Povoliť
 addon-detail-private-browsing-disallow = Nepovoliť
@@ -384,6 +395,11 @@ addon-detail-private-browsing-disallow = Nepovoliť
 addon-badge-recommended =
     .title = Odporúčané rozšírenie
     .alt = Odporúčané rozšírenie
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } odporúča len rozšírenia, ktoré spĺňajú naše štandardy pre bezpečnosť a výkon.
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = K dispozícii je aktualizácia
 recent-updates-heading = Naposledy aktualizované
 release-notes-loading = Načítava sa…
