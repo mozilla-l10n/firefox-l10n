@@ -15,9 +15,14 @@ about-config-search-input =
 
 about-config-intro-warning-title = Fortset med varsemd
 about-config-intro-warning-text = Endrar du  avanserte konfigurasjonsinnstillingar kan det påverke yting eller sikkerheit i { -brand-short-name }.
+about-config-intro-warning-checkbox = Åtvar meg når eg prøver å få tilgang til desse innstillingane
+about-config-intro-warning-button = Godta risikoen og fortsett
 
 
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Endring av desse innstillingane kan påverke yting eller sikkerheit i { -brand-short-name }
+about-config-page-title = Avanserte innstillingar
 about-config-search-input1 =
     .placeholder = Søk på innstillingsnamn
 about-config-show-all = Vis alt

@@ -55,3 +55,14 @@ certificate-viewer-timestamp = Tidsstempel
 certificate-viewer-value = Verdi
 certificate-viewer-version = Versjon
 certificate-viewer-business-category = Føretakskategori
+# This message is used as a row header in the Miscellaneous section. 
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Last ned
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] Ja
+       *[false] Nei
+    }
