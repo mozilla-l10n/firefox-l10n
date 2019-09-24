@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Del">
 <!ENTITY share_title "Del via">
 <!ENTITY share_image_failed "Klarte ikkje å dela dette bildet">
+<!ENTITY share_error_toast_message "Klarte ikkje å dele med spesifisert app">
 <!ENTITY save_as_pdf "Lagra som PDF">
 <!ENTITY print "Skriv ut">
 <!ENTITY view_page_source "Vis kjeldekode">
