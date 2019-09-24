@@ -929,10 +929,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Blokitud">
+<!ENTITY protections.notBlocking2.label "Lubatud">
+<!ENTITY protections.notFound.label "Ei tuvastatud">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
+<!ENTITY protections.notBlocking.why.label "Miks?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Nende blokkimine võib mõned saidid katki teha. Ilma jälitajateta mõned nupud, vormid ja sisselogimisväljad ei pruugi töötada.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Kaitse väljalülitamine lubab kõik jälitajad sellel saidil. See võib ka parandada saidi funktsionaalsust.">
+<!ENTITY protections.socialMediaTrackers.label "Sotsiaalmeedia jälitajad">
+<!ENTITY protections.crossSiteTrackingCookies.label "Saitideülesed jälitamisküpsised">
+<!ENTITY protections.trackingContent.label "Jälitav sisu">
+<!ENTITY protections.fingerprinters.label "Seadmetuvastajad">
+<!ENTITY protections.cryptominers.label "Krüptorahakaevurid">
+<!ENTITY protections.noTrackersFound.description "Sellelt lehelt ei tuvastatud ühtki &brandShortName;ile teadaolevat jälitajat.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Need küpsised jälitavad sind saidilt saidile, et koguda infot sinu veebitegevuse kohta. Neid määravad kolmandad osapooled, näiteks reklaamijad ja analüüsiettevõtted.">
+<!ENTITY protections.cryptominers.description "Krüptorahakaevurid kasutavad sinu süsteemi arvutusressursse digitaalse raha kaevandamiseks. Krüptoraha kaevandamise skriptid tühjendavad sinu seadme akut, aeglustavad sinu arvutit ja suurendavad sinu elektriarvet.">
+<!ENTITY protections.fingerprinters.description "Seadmetuvastajad koguvad profileerimiseks sinu brauseri ja arvuti sätteid. Neid digitaalseid sõrmejälgi kasutades saavad nad jälitada sind erinevatel saitidel.">
+<!ENTITY protections.trackingContent2.description "Saidid võivad laadida väliseid reklaame, videoid ja muud sisu, mis sisaldab jälitavat koodi. Jälitava sisu blokkimine võib panna saidid kiiremini avanema, kuid mõned nupud, vormid ja sisselogimise väljad ei pruugi enam toimida.">
+<!ENTITY protections.socialMediaTrackers.description "Suhtlusvõrgustikud paigaldavad jälitajaid teistele saitidele, et jälgida, mida sa teed, näed või võrgus olles vaatad. See võimaldab sotsiaalmeediaettevõtetel sinu kohta rohkem teada saada kui ainult seda, mida jagad oma sotsiaalmeedia profiilides.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -979,9 +996,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Küpsised">
 <!ENTITY contentBlocking.cookiesView.label "Küpsised ja saidi andmed">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Jälitav sisu">
 
+<!ENTITY contentBlocking.manageSettings2.label "Halda kaitse sätteid">
+<!ENTITY contentBlocking.manageSettings2.accesskey "H">
 
+<!ENTITY contentBlocking.socialblock.label "Sotsiaalmeedia jälitajad">
 
+<!ENTITY contentBlocking.cookies2.label "Saitideülesed jälitamisküpsised">
 
 <!ENTITY contentBlocking.cryptominers.label "Krüptorahakaevurid">
 <!ENTITY contentBlocking.cryptominersView.label "Krüptorahakaevurid">
@@ -994,8 +1016,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Sisu blokkimine võib põhjustada probleeme mõningate saitidega. Probleemidest raporteerimisega aitad sa teha &brandShortName;i paremaks kõigi jaoks. (Raportiga saadetakse Mozillale nii külastatava saidi URL kui ka infot sinu brauseri sätete kohta.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Rohkem teavet">
 
+<!ENTITY contentBlocking.breakageReportView.title "Raporteeri katkisest saidist">
+<!ENTITY contentBlocking.breakageReportView3.description "Teatud jälitajate blokkimine võib põhjustada probleeme mõningate saitidega. Probleemidest raporteerimisega aitad sa teha &brandShortName;i paremaks kõigi jaoks. Selle raportiga saadetakse Mozillale nii külastatava saidi URL kui ka infot sinu brauseri sätete kohta.">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Rohkem teavet">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Millised probleemid esinesid? (valikuline)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Valikuline: kirjelda probleemi">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Saada raport">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Loobu">
 
