@@ -23,14 +23,17 @@
 <!ENTITY firstrun_sync_title "Synchronizácia">
 <!ENTITY updatednewfirstrun_sync_title "Účet">
 <!ENTITY firstrun_sync_message2 "Pokračujte tam, kde ste prestali.">
+<!ENTITY firstrun_sync_message3 "Synchronizujte svoje záložky, históriu prehliadania a heslá so svojim telefónom.">
 <!ENTITY firstrun_sync_subtext2 "Nájdite pomocou služby Sync záložky, heslá a ďalšie veci, ktoré ste si uložili do prehliadača &brandShortName; na všetkých svojich zariadeniach.">
 <!ENTITY newfirstrun_sync_subtext "Zosynchronizujte si veci, ktoré si uložíte na mobile s počítačom - bezpečne a s ohľadom na súkromie.">
 <!ENTITY updatednewfirstrun_sync_subtext "Prihláste sa do svojho účtu a vyťažte zo svojej aplikácie &brandShortName; čo najviac">
 <!ENTITY firstrun_signin_message "Pripojte sa a začnite">
+<!ENTITY firstrun_sendtab_title "Odosielanie kariet">
+<!ENTITY firstrun_sendtab_message "Zdieľajte karty medzi telefónom a počítačom — jednoducho.">
 <!ENTITY firstrun_signin_button "Prihlásiť sa k službe Sync">
 <!ENTITY newfirstrun_signin_button "Zapnúť synchronizáciu">
 <!ENTITY updatednewfirstrun_signin_button "Prihlásiť sa do aplikácie &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Začať prehliadať">
+<!ENTITY onboard_start_button_browser "Začať prehliadať">
 <!ENTITY firstrun_button_notnow "Teraz nie">
 <!ENTITY firstrun_button_next "Ďalej">
 
@@ -46,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Vy">
 <!ENTITY firstrun_account_message "Máte &brandShortName; aj na inom zariadení?">
+
+<!ENTITY firstrun_signup_button "Prihlásiť sa">
 
 <!ENTITY  onboard_start_restricted1 "Buďte v bezpečí a majte veci pod kontrolou s touto zjednodušenou verziou prehliadača &brandShortName;.">
 
@@ -497,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Zdieľať">
 <!ENTITY share_title "Zdieľať cez">
 <!ENTITY share_image_failed "Nie je možné zdieľať tento obrázok">
+<!ENTITY share_error_toast_message "Nie je možné zdieľať prostredníctvom tejto aplikácie">
 <!ENTITY save_as_pdf "Uložiť ako PDF">
 <!ENTITY print "Tlačiť">
 <!ENTITY view_page_source "Zobraziť zdrojový kód stránky">
@@ -690,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Pripojené k stránke">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -877,11 +884,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Založte si položky v zobrazení Čítačka pre ich čítanie v režime offline.">
 <!ENTITY helper_triple_readerview_open_button "Pridať medzi záložky">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Víta vás &brandShortName;">
 <!ENTITY activity_stream_signin_description "S účtom Firefox môžete synchronizovať záložky, históriu prehliadania a omnoho viac.">
 <!ENTITY activity_stream_signin_button "Prihlásiť sa">
+
+<!ENTITY activity_stream_signup_button "Zaregistrovať sa">
+<!ENTITY activity_stream_signin_prompt "Už máte účet?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Prihláste sa.">
 
 <!ENTITY activity_stream_topsites "Top stránky">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
