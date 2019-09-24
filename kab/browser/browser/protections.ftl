@@ -31,3 +31,17 @@ go-to-saved-logins = Ddu ɣer inekcumen yettwakelse
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-tracker =
+    .title = Agbur n uḍfaṛ
+    .aria-label =
+        { $count ->
+            [one] { $count } agbur n uḑfar ({ $percentage }%)
+           *[other] { $count } agbur n uḑfar ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Idsilen umḍinen
+    .aria-label =
+        { $count ->
+            [one] { $count } idsilen umḍinen ({ $percentage }%)
+           *[other] { $count } idsilen umḍinen ({ $percentage }%)
+        }
