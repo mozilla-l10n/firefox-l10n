@@ -940,7 +940,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Genom att stänga av skydd tillåts alla trackers på denna webbplats. Det kan också förbättra vissa webbplatsfunktioner.">
 <!ENTITY protections.socialMediaTrackers.label "Sociala trackers">
 <!ENTITY protections.crossSiteTrackingCookies.label "Globala spårningskakor">
-<!ENTITY protections.trackingContent.label "Spårning av innehåll">
+<!ENTITY protections.trackingContent.label "Spårningsinnehåll">
 <!ENTITY protections.fingerprinters.label "Fingerprinters">
 <!ENTITY protections.cryptominers.label "Cryptominers">
 <!ENTITY protections.noTrackersFound.description "Inga kända trackers för &brandShortName; upptäcktes på den här sidan.">
@@ -996,7 +996,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Kakor">
 <!ENTITY contentBlocking.cookiesView.label "Kakor och webbplatsdata">
 
-<!ENTITY contentBlocking.trackingProtection4.label "Spårning av innehåll">
+<!ENTITY contentBlocking.trackingProtection4.label "Spårningsinnehåll">
 
 <!ENTITY contentBlocking.manageSettings2.label "Hantera skyddsinställningar">
 <!ENTITY contentBlocking.manageSettings2.accesskey "H">
