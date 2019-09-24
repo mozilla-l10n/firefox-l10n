@@ -169,7 +169,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Log ind på &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Aktiver &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.account.label "Konto">
+
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName;-tjenester">
+<!ENTITY fxa.menu.settings.label "Indstillinger">
+<!ENTITY fxa.menu.accountSettings.label "Konto-indstillinger">
+<!ENTITY fxa.menu.signOut.label "Log ud…">
+<!ENTITY fxa.menu.deviceSettings.label "Enheds-indstillinger">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
