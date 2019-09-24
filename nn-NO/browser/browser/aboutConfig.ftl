@@ -10,6 +10,14 @@ about-config-warning-button = Eg veit kva eg gjer
 about-config2-title = Avanserte innstillingar
 about-config-search-input =
     .placeholder = Søk
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Fortset med varsemd
+about-config-intro-warning-text = Endrar du  avanserte konfigurasjonsinnstillingar kan det påverke yting eller sikkerheit i { -brand-short-name }.
+
+
+
 about-config-search-input1 =
     .placeholder = Søk på innstillingsnamn
 about-config-show-all = Vis alt
