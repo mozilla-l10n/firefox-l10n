@@ -706,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Uložiť hľadanie ako priečinok…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Označte správy">
 <!ENTITY threadColumn.label "Vlákno">
 <!ENTITY fromColumn.label "Od">
 <!ENTITY recipientColumn.label "Adresát">
@@ -729,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Zvoliť stĺpce">
+<!ENTITY selectColumn.tooltip "Vyberie všetky správy">
 <!ENTITY threadColumn2.tooltip "Usporiadať správy do vlákien">
 <!ENTITY fromColumn2.tooltip "Usporiadať podľa stĺpca Od">
 <!ENTITY recipientColumn2.tooltip "Usporiadať podľa adresáta">

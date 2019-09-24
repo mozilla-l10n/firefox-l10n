@@ -306,7 +306,7 @@
 <!ENTITY anchorToolbarCmd.tooltip "Upraviť vybranú kotvu alebo vložiť novú">
 <!ENTITY TextColorButton.tooltip "Vyberte farbu pre text">
 <!ENTITY BackgroundColorButton.tooltip "Vyberte farbu pozadia">
-<!ENTITY throbber.tooltip "Prejsť na domovskú stránku &vendorShortName;">
+<!ENTITY throbber.tooltip2 "Prejsť na domovskú stránku aplikácie &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Vyberte farbu pre označený text">
 
 <!-- Editor toolbar -->
