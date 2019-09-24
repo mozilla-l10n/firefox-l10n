@@ -153,7 +153,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle2  "Внимание: Вероятен риск за сигурността">
 <!ENTITY certerror.sts.pagetitle  "Неуспешно свързване: Евентуален проблем със сигурността">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'/> използва политика за сигурност наречена HTTP Strict Transport Security (HSTS), което означава. че &brandShortName; може да използва само сигурни връзки. Не може да добавяте изключение при посещение на тази страница.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> използва политика за сигурност наречена HTTP Strict Transport Security (HSTS), което означава, че &brandShortName; може да използва само сигурни връзки. Не може да добавяте изключение при посещение на тази страница.">
 <!ENTITY certerror.copyToClipboard.label "Копиране на текста в системния буфер">
 
 <!ENTITY inadequateSecurityError.title "Връзката е незащитена">
