@@ -7,12 +7,17 @@ protection-report-page-title = Taɣellist n tbaḍnit
 # capitalization for this string should match the output for your locale.
 graph-today = Ass-a
 social-tab-title = Ineḍfaṛen n iẓeḍwa imettanen
+cookie-tab-title = Inagan n tuqqna i uḍfaṛ gar yismal
 tracker-tab-title = Agbur n uḍfaṛ
 fingerprinter-tab-title = Idsilen umḍinen
+lockwise-title-logged-in = { -lockwise-brand-name }
 about-logins-view-logins-button = Sken-d tuqniwin
 protection-report-view-logins-button = Sken-d tuqniwin
     .title = Ddu ɣer inekcumen yettwakelse
+turn-on-sync = Rmed { -sync-brand-short-name }...
+    .title = Ldi ismenyifen n umtawi
 manage-devices = Sefrek ibenkan
+lockwise-sync-not-syncing-devices = Ulac amtawi d yibenkan nniḍen
 monitor-link = Amek iteddu
 # This is the title attribute describing the graph report's link to about:settings#privacy
 go-to-privacy-settings = Ddu ɣer iɣewwaṛen n tbaḍnit
