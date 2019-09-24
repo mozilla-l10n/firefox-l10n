@@ -168,8 +168,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "Iniciar sesión en &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Cuenta">
 <!ENTITY fxa.menu.firefoxServices.label "Servicios de &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Cuenta">
+<!ENTITY fxa.menu.settings.label "Ajustes">
+<!ENTITY fxa.menu.accountSettings.label "Ajustes de la cuenta">
+<!ENTITY fxa.menu.signOut.label "Cerrar sesión…">
+<!ENTITY fxa.menu.deviceSettings.label "Ajustes del dispositivo">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -860,7 +865,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Su conexión a este sitio no es privada. La información que envíe podría ser vista por otros (como contraseñas, mensajes, tarjetas de crédito, etc.).">
-<!ENTITY identity.description.insecureLoginForms "La información de inicio de sesión que ha introducido en esta página no es segura podría verse comprometida.">
+<!ENTITY identity.description.insecureLoginForms "La información de inicio de sesión que ha introducido en esta página no es segura y podría verse comprometida.">
 <!ENTITY identity.description.weakCipher "Su conexión a este sitio web usa cifrado débil y no es privada.">
 <!ENTITY identity.description.weakCipher2 "Otras personas pueden ver su información o modificar el comportamiento del sitio web.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
