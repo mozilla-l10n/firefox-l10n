@@ -168,8 +168,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "Mewngofnodi i &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Troi &syncBrand.shortName.label; ymlaen">
-<!ENTITY fxa.menu.account.label "Cyfrif">
 <!ENTITY fxa.menu.firefoxServices.label "Gwasanaethau &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Cyfrif">
+<!ENTITY fxa.menu.settings.label "Gosodiadau">
+<!ENTITY fxa.menu.accountSettings.label "Gosodiadau Cyfrif">
+<!ENTITY fxa.menu.signOut.label "Allgofnodi…">
+<!ENTITY fxa.menu.deviceSettings.label "Gosodiadau Dyfais">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -983,10 +988,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Tracwyr">
 
 <!ENTITY contentBlocking.manageSettings.label "Rheoli Rhwystro Cynnwys">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Cynnwys Tracio">
-
-<!ENTITY contentBlocking.manageSettings2.label "Rheoli Gosodiadau Diogelu">
 <!ENTITY contentBlocking.manageSettings.accesskey "R">
 
 <!ENTITY contentBlocking.trackersView.label "Tracwyr">
@@ -995,6 +996,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cwcis">
 <!ENTITY contentBlocking.cookiesView.label "Cwcis a Data Gwefan">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Cynnwys Tracio">
+
+<!ENTITY contentBlocking.manageSettings2.label "Rheoli Gosodiadau Diogelu">
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Tracwyr Cyfryngau Cymdeithasol">
