@@ -76,8 +76,6 @@ login-item-origin-label = Adresa webovej stránky
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Používateľské meno
-login-item-username =
-    .placeholder = name@example.com
 about-logins-login-item-username =
     .placeholder = (žiadne používateľské meno)
 login-item-copy-username-button-text = Kopírovať
@@ -120,3 +118,8 @@ confirm-discard-changes-dialog-confirm-button = Zahodiť
 breach-alert-link = Ďalšie informácie o tomto úniku.
 breach-alert-dismiss =
     .title = Zavrieť toto upozornenie
+
+## Error Messages
+
+# This is a generic error message.
+about-logins-error-message-default = Pri pokuse o uloženie tohto hesla nastala chyba.
