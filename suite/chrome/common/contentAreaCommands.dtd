@@ -155,6 +155,16 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "J">
 <!ENTITY spellAddDictionaries.label     "Prevziať ďalšie slovníky…">
 <!ENTITY spellAddDictionaries.accesskey "P">
+
+<!ENTITY fillLoginMenu.label          "Vyplniť prihlasovacie údaje">
+<!ENTITY fillLoginMenu.accesskey      "V">
+<!ENTITY fillPasswordMenu.label       "Vyplniť heslo">
+<!ENTITY fillPasswordMenu.accesskey   "h">
+<!ENTITY fillUsernameMenu.label       "Vyplniť používateľské meno">
+<!ENTITY fillUsernameMenu.accesskey   "p">
+<!ENTITY noLoginSuggestions.label     "(žiadne návrhy prihlasovacích údajov)">
+<!ENTITY viewSavedLogins.label        "Zobraziť uložené prihlásenia">
+
 <!-- Developer Tools -->
 <!ENTITY devtoolsInspect.label          "Preskúmať prvok">
 <!ENTITY devtoolsInspect.accesskey      "e">
