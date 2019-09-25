@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new =
-    .title = Dagdagan ng Bagong Contianer
+    .title = Magdagdag ng Bagong Container
     .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
@@ -26,7 +26,7 @@ containers-name-label = Pangalan
     .accesskey = N
     .style = { -containers-labels-style }
 containers-name-text =
-    .placeholder = Magpasok ng pangalan sa container
+    .placeholder = Magbigay ng pangalan ng container
 containers-icon-label = Icon
     .accesskey = I
     .style = { -containers-labels-style }

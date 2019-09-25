@@ -307,11 +307,11 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
 
-drm-content-header = Nilalaman ng Digital Rights Management (DRM)
+
+drm-content-header = Digital Rights Management (DRM) Content
 play-drm-content =
-    .label = I-play ang DRM na kontroladong nilalaman
+    .label = Magpaandar ng DRM-controlled content
     .accesskey = P
 play-drm-content-learn-more = Alamin
 update-application-title = Mga update ng { -brand-short-name }
@@ -361,7 +361,7 @@ update-in-progress-cancel-button = &Magpatuloy
 
 performance-title = Pagganap
 performance-use-recommended-settings-checkbox =
-    .label = Gamitin ang iminungkahi na performance settings
+    .label = Gamitin ang inirerekomendang mga performance setting
     .accesskey = U
 performance-use-recommended-settings-desc = Ang mga setting na ito ay pinasadya sa hardware at operating system ng iyong computer.
 performance-settings-learn-more = Karagdagang kalaaman
@@ -545,7 +545,7 @@ search-keyword-warning-bookmark = Ginagamit na ng isang bookmark ang keyword na 
 containers-back-link = « Bumalik Ka
 containers-header = Mga Container Tab
 containers-add-button =
-    .label = Dagdagan ng Bagong Contianer
+    .label = Magdagdag ng Bagong Container
     .accesskey = A
 containers-preferences-button =
     .label = Mga Kagustuhan
@@ -818,7 +818,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Pasadya
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = Balansado para sa proteksyon at performance. Normal na maglo-load ang mga pahina.
 content-blocking-etp-strict-desc = Mas malakas na proteksyon, pero maaaring ikasira ng ilang mga site o content.

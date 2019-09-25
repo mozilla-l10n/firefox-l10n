@@ -18,8 +18,8 @@
 
 <!ENTITY cmd.uninstallAddon.label             "Alisin">
 <!ENTITY cmd.uninstallAddon.accesskey         "A">
-<!ENTITY cmd.showPreferencesWin.label         "Options">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Palitan ang options ng add-on na ito">
+<!ENTITY cmd.showPreferencesWin.label         "Mga pagpipilian">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Baguhin ang mga pagpipilian ng add-on na ito">
 <!ENTITY cmd.showPreferencesUnix.label        "Mga Kagustuhan">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Palitan ang mga kagustuhan sa add-on na ito">
 
@@ -68,4 +68,6 @@
 <!ENTITY addon.createdBy.label                "Ni ">
 
 <!ENTITY settings.path.button.label           "Mag-browse…">
+
+<!-- addon actions -->
 <!ENTITY setting.learnmore "Matuto pa…">

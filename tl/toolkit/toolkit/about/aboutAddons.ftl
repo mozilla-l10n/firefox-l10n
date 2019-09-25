@@ -300,7 +300,7 @@ report-addon-button = Isumbong
 remove-addon-button = Tanggalin
 disable-addon-button = I-disable
 enable-addon-button = I-enable
-expand-addon-button = Dagdag na mga Pagpipilian
+expand-addon-button = Karagdagang Pagpipilian
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Mga Pagpipilian
