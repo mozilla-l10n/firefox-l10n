@@ -23,11 +23,12 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Račun">
 <!ENTITY firstrun_sync_message2 "Nadaljujte, kjer ste končali.">
+<!ENTITY firstrun_sync_message3 "Sinhronizirajte zaznamke, zgodovino in gesla na vaš telefon.">
 <!ENTITY firstrun_sync_subtext2 "Uporabite Sync za prenos zaznamkov, gesel in drugih shranjenih &brandShortName;ovih podatkov med vsemi svojimi napravami.">
 <!ENTITY newfirstrun_sync_subtext "Sinhronizirajte podatke, ki jih shranite na mobilnem telefonu, s Firefoxom za namizje – zasebno in varno.">
 <!ENTITY updatednewfirstrun_sync_subtext "Prijavite se v svoj račun, da boste kar najbolje izkoristili &brandShortName;">
-<!ENTITY firstrun_sendtab_title "Pošlji zavihek">
 <!ENTITY firstrun_signin_message "Povežite se in začnite">
+<!ENTITY firstrun_sendtab_title "Pošlji zavihek">
 <!ENTITY firstrun_signin_button "Prijava v Sync">
 <!ENTITY newfirstrun_signin_button "Vklopi Sync">
 <!ENTITY updatednewfirstrun_signin_button "Prijava v &brandShortName;">
@@ -36,8 +37,6 @@
 <!ENTITY firstrun_button_next "Naprej">
 
 <!ENTITY firstrun_signin_button2 "Prijava">
-
-<!ENTITY firstrun_signup_button "Registracija">
 
 <!ENTITY firstrun_tabqueue_title "Povezave">
 
@@ -49,6 +48,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Vi">
 <!ENTITY firstrun_account_message "Uporabljate &brandShortName; tudi na drugi napravi?">
+
+<!ENTITY firstrun_signup_button "Registracija">
 
 <!ENTITY  onboard_start_restricted1 "Ostanite varni in obdržite nadzor, z to poenostavljeno različico &brandShortName;.">
 
@@ -693,6 +694,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Povezani ste na stran">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
