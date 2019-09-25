@@ -168,8 +168,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "Prijava v &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Vklopi &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Račun">
 <!ENTITY fxa.menu.firefoxServices.label "Storitve &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Račun">
+<!ENTITY fxa.menu.settings.label "Nastavitve">
+<!ENTITY fxa.menu.accountSettings.label "Nastavitve računa">
+<!ENTITY fxa.menu.signOut.label "Odjava …">
+<!ENTITY fxa.menu.deviceSettings.label "Nastavitve naprave">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
