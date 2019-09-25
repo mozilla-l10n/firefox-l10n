@@ -27,9 +27,9 @@
 <!ENTITY firstrun_sync_subtext2 "আপনার সব ডিভাইসে বুকমার্ক, পাসওয়ার্ড এবং অন্যান্য জিনিস খুঁজে পেতে সিঙ্ক ব্যবহার করুন যা আপনি &brandShortName; এ সংরক্ষণ করেছেন।">
 <!ENTITY newfirstrun_sync_subtext "সিঙ্ক হল যা Firefox মোবাইল থেকে ডেস্কটপে গোপনীয়ভাবে এবং নিরাপদে আপনার জিনিস সংরক্ষণ করে।">
 <!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; এর সর্বোচ্চ পেতে আপনার অ্যাকাউন্টে সাইন ইন করুন">
+<!ENTITY firstrun_signin_message "সংযুক্ত হন, শুরু করুন">
 <!ENTITY firstrun_sendtab_title "ট্যাব পাঠান">
 <!ENTITY firstrun_sendtab_message "মোবাইল থেকে ডেস্কটপে ট্যাব শেয়ার করুন - এখনই।">
-<!ENTITY firstrun_signin_message "সংযুক্ত হন, শুরু করুন">
 <!ENTITY firstrun_signin_button "সিঙ্ক করতে সাইন ইন করুন">
 <!ENTITY newfirstrun_signin_button "Sync চালু করুন">
 <!ENTITY updatednewfirstrun_signin_button "&brandShortName; এ সাইন ইন করুন">
@@ -38,8 +38,6 @@
 <!ENTITY firstrun_button_next "পরবর্তী">
 
 <!ENTITY firstrun_signin_button2 "সাইন ইন">
-
-<!ENTITY firstrun_signup_button "সাইন আপ">
 
 <!ENTITY firstrun_tabqueue_title "লিঙ্ক">
 
@@ -51,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "আপনি">
 <!ENTITY firstrun_account_message "&brandShortName; অন্য কোন ডিভাইসে রয়েছে?">
+
+<!ENTITY firstrun_signup_button "সাইন আপ">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; এর সরলীকৃত সংস্করণের সাথে নিরাপদ ও নিয়ন্ত্রণে থাকুন।">
 
@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "শেয়ার">
 <!ENTITY share_title "শেয়ারের মাধ্যম">
 <!ENTITY share_image_failed "এই ছবি শেয়ার করতে অক্ষম">
+<!ENTITY share_error_toast_message "নির্দেশিত অ্যাপে শেয়ার করতে অক্ষম">
 <!ENTITY save_as_pdf "পিডিএফ হিসেবে সংরক্ষণ করুন">
 <!ENTITY print "মুদ্রণ">
 <!ENTITY view_page_source "পেজ সোর্স দেখুন">
@@ -695,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "আপনি এই সাইটের সাথে সংযুক্ত">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
