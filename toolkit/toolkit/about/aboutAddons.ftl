@@ -226,11 +226,32 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = ਇਕਸਟੈਨਸ਼ਨ ਸ਼ਾਰਟਕੱਟ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+    .accesskey = S
+shortcuts-no-addons = ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਵੀ ਸਮਰੱਥ ਕੀਤੀ ਇਕਸਟੈਨਸ਼ਨ ਨਹੀਂ ਹੈ।
+shortcuts-no-commands = ਅੱਗੇ ਦਿੱਤੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੇ ਸ਼ਾਰਟਕੱਟ ਨਹੀਂ ਹਨ:
+shortcuts-input =
+    .placeholder = ਸ਼ਾਰਟਕੱਟ ਲਿਖੋ
+shortcuts-browserAction = ਇਕਸਟੈਨਸ਼ਨ ਸਰਗਰਮ ਕਰੋ
+shortcuts-card-collapse-button = ਘੱਟ ਵੇਖਾਓ
 go-back-button =
     .tooltiptext = ਪਿੱਛੇ ਜਾਓ
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    ਇਕਸਟੈਨਸ਼ਨਾਂ ਤੇ ਥੀਮ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਲਈ ਐਪਾਂ ਵਾਂਗ ਹਨ ਅਤੇ ਉਹ ਤੁਹਾਨੂੰ ਪਾਸਵਰਡ ਸੁਰੱਖਿਅਤ ਕਰਨ, ਵਿਡੀਓ ਡਾਊਨਲੋਡ ਕਰਨ,
+    ਡੀਲਾਂ ਲੱਭਣ, ਤੰਗ ਕਰਨ ਵਾਲੇ ਇਸ਼ਤਿਹਾਰਾਂ ਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ, ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਦੀ ਦਿੱਖ ਬਦਲਣ ਤੇ ਹੋਰ ਕਈ ਕੁ
+    ਕਰਨ ਲਈ ਸਹਾਇ ਹਨ। ਇਹ ਛੋਟੇ ਛੋਟੇ ਸਾਫਟਵੇਅਰ ਪਰੋਗਰਾਮ ਅਕਸਰ ਹੋਰ ਧਿਰਾਂ ਵਲੋਂ ਤਿਆਰ ਕੀਤੇ ਜਾਂਦੇ ਹਨ। 
+    ਖਾਸ ਸੁਰੱਖਿਆ, ਕਾਰਗੁਜ਼ਾਰੀ ਤੇ ਫੰਕਸ਼ਨਾਂ ਲਈ { -brand-product-name } ਵਲੋਂ <a data-l10n-name="learn-more-trigger">ਸਿਫਾਰਸ਼ਾਂ</a>
+     ਇਹ ਹਨ।
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    ਇਹਨਾਂ ਸਿਫਾਰਸ਼ਾਂ ਵਿੱਚੋਂ ਕੁਝ ਨਿੱਜੀ ਬਣਾਈਆਂ ਹਨ। ਇਹ ਤੁਹਾਡੇ ਵਲੋਂ ਇੰਸਟਾਲ ਇਕਸਟੈਨਸ਼ਨਾਂ, ਪਰੋਫਾਈਲ ਪਸੰਦਾਂ
+     ਅਤੇ ਵਰਤੋਂ ਅੰਕੜਿਆਂ ਦੇ ਉੱਤੇ ਅਧਾਰਿਤ ਹਨ।
 privacy-policy = ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
