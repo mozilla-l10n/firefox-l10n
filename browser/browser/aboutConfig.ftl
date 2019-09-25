@@ -19,6 +19,9 @@ about-config-intro-warning-button = Тәуекелді қабылдап, жал�
 
 
 
+about-config-page-title = Кеңейтілген баптаулар
+about-config-search-input1 =
+    .placeholder = Баптау атынан іздеу
 about-config-show-all = Барлығын көрсету
 about-config-pref-add = Қосу
 about-config-pref-toggle = Ауыстыру
