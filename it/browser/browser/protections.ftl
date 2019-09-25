@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Il livello di protezione è impostato su <b>Normale</b>
-protection-header-details-strict = Il livello di protezione è impostato su <b>Restrittiva</b>
-protection-header-details-custom = Il livello di protezione è impostato su <b>Personalizzata</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Il livello di protezione è impostato su <b>Normale</b>
     .title = Vai alle impostazioni relative alla privacy
 protection-report-header-details-strict = Il livello di protezione è impostato su <b>Restrittiva</b>
@@ -56,7 +50,6 @@ lockwise-title = Non dimenticare più le tue password
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } salva le tue password in modo sicuro direttamente nel browser.
 lockwise-header-content-logged-in = Salva le password in modo sicuro e sincronizzale su tutti i tuoi dispositivi.
-about-logins-view-logins-button = Visualizza credenziali
 protection-report-view-logins-button = Visualizza credenziali
     .title = Vai alle credenziali salvate
 lockwise-no-logins-content = Installa l’app <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> e porta le tue password sempre con te.
@@ -110,10 +103,6 @@ password-warning =
         [one] Credenziale salvata potrebbe essere stata esposta in una violazione di dati. Cambia la password per garantire la tua sicurezza online. <a data-l10n-name="lockwise-link">Visualizza le credenziali salvate</a>
        *[other] Credenziali salvata potrebbero essere state esposte in una violazione di dati. Cambia queste password per garantire la tua sicurezza online. <a data-l10n-name="lockwise-link">Visualizza le credenziali salvate</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Vai alle impostazioni relative alla privacy
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Vai alle credenziali salvate
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
