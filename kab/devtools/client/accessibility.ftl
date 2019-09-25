@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Issin ugar
 accessibility-text-label-header = Tibzimin d yismawen n uḍris
+accessibility-keyboard-header = Anasiw
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -25,3 +26,8 @@ accessibility-text-label-issue-area = Seqdec <code>alt</code> i tmerna n tibzimi
 accessibility-text-label-issue-dialog = Adiwen yessefk ad yesɛu tabzimt. <a>Issin ugar</a>
 accessibility-text-label-issue-document-title = ISemliyen yessefk ad sɛun aferdis <code>title</code>.<a>Issin ugar</a>
 accessibility-text-label-issue-embed = Agbur usliɣ yessefk ad yesɛu tabzimt. <a>Issin ugar</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
