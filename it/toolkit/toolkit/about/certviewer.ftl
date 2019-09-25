@@ -65,3 +65,11 @@ certificate-viewer-boolean = { $boolean ->
   [true] Sì
  *[false] No
 }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
+certificate-viewer-download-pem = PEM (certificato)
+  .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (catena)
+  .download = { $fileName }-catena.pem
