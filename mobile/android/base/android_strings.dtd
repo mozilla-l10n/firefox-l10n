@@ -27,9 +27,9 @@
 <!ENTITY firstrun_sync_subtext2 "برای پیدا کردن نشانک‌ها، گذرواژه‌ها و چیزهای دیگری که در &brandShortName; ذخیره کرده‌اید روی همه دستگاه‌هایتان، از همگام‌ساز استفاده کنید.">
 <!ENTITY newfirstrun_sync_subtext "همگام‌سازی تمام چیزهایی که روی دستگاه موبایل خود ذخیره می‌کنید بر روی مرورگر رومیزی شما به صورت خصوصی و امن.">
 <!ENTITY updatednewfirstrun_sync_subtext "وارد حساب کاربری خود شوید تا از &brandShortName; بیشتر دریافت کنید">
+<!ENTITY firstrun_signin_message "متصل شوید،‌ شروع کنید">
 <!ENTITY firstrun_sendtab_title "ارسال زبانه">
 <!ENTITY firstrun_sendtab_message "اشتراک‌گذاری زبانه‌ها از موبایل به رومیزی — فوری.">
-<!ENTITY firstrun_signin_message "متصل شوید،‌ شروع کنید">
 <!ENTITY firstrun_signin_button "برای همگام‌سازی وارد شوید">
 <!ENTITY newfirstrun_signin_button "روشن کردن همگام سازی">
 <!ENTITY updatednewfirstrun_signin_button "وارد شدن به &brandShortName;">
@@ -38,8 +38,6 @@
 <!ENTITY firstrun_button_next "بعدی">
 
 <!ENTITY firstrun_signin_button2 "وارد شدن">
-
-<!ENTITY firstrun_signup_button "ثبت نام کردن">
 
 <!ENTITY firstrun_tabqueue_title "پیوندها">
 
@@ -51,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "شما">
 <!ENTITY firstrun_account_message "از &brandShortName; در دستگاه دیگری هم استفاده می‌کنید؟">
+
+<!ENTITY firstrun_signup_button "ثبت نام کردن">
 
 <!ENTITY  onboard_start_restricted1 "با این نسخهٔ ساده شده از &brandShortName; امن بمانید و زندگی آنلاین خود را در دستان خود بگیرید.">
 
@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "اشتراک‌گذاری">
 <!ENTITY share_title "بوسیله‌ی اشتراک‌گذاری">
 <!ENTITY share_image_failed "نمی‌تواند این تصویر را به اشتراک بگذارد">
+<!ENTITY share_error_toast_message "عدم توانایی در اشتراک‌گذاری برنامه اشاره شده">
 <!ENTITY save_as_pdf "ذخیره به صورت PDF">
 <!ENTITY print "چاپ">
 <!ENTITY view_page_source "نمایش منبع صفحه">
@@ -695,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "پایگاهی که به آن متصل هستید:">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
