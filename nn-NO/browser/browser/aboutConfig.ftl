@@ -14,7 +14,6 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Fortset med varsemd
-about-config-intro-warning-text = Endrar du avanserte konfigurasjonsinnstillingar kan det påverke yting eller sikkerheit i { -brand-short-name }.
 about-config-intro-warning-checkbox = Åtvar meg når eg prøver å få tilgang til desse innstillingane
 about-config-intro-warning-button = Godta risikoen og fortsett
 
