@@ -8,6 +8,6 @@ fxa-disconnect-dialog =
     .buttonlabelaccept = Afbryd
     .buttonaccesskeyaccept = A
 
-disconnect-account = { -brand-short-name } afbryder forbindelsen til din konto, men sletter ikke nogen af dine browsing-data på denne enhed.
-disconnect-sync = { -brand-short-name } vil stoppe med at synkronisere din konto, men sletter ikke nogen af dine browsing-data på denne enhed.
+disconnect-account = { -brand-short-name } afbryder forbindelsen til din konto, men sletter ikke dine browsing-data på denne enhed.
+disconnect-sync = { -brand-short-name } vil stoppe med at synkronisere din konto, men sletter ikke dine browsing-data på denne enhed.
 
