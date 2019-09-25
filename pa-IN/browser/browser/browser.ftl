@@ -53,6 +53,6 @@ urlbar-addons-notification-anchor =
 page-action-add-to-urlbar =
     .label = ਐਡਰੈੱਸ ਪੱਟੀ 'ਚ ਜੋੜੋ
 page-action-manage-extension =
-    .label = …ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਪਰਬੰਧ ਕਰੋ
+    .label = …ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 page-action-remove-from-urlbar =
     .label = ਐਡਰੈੱਸ ਪੱਟੀ ਤੋਂ ਹਟਾਓ
