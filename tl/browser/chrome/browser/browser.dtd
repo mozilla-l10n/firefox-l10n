@@ -172,7 +172,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.account.label "Account">
 <!ENTITY fxa.menu.settings.label "Mga setting">
+<!ENTITY fxa.menu.accountSettings.label "Mga Account Setting">
 <!ENTITY fxa.menu.signOut.label "Sign Out…">
+<!ENTITY fxa.menu.deviceSettings.label "Mga Device Setting">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -381,7 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.label         "Piliin Lahat">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "A">
-<!ENTITY preferencesCmd2.label       "Options">
+<!ENTITY preferencesCmd2.label       "Mga pagpipilian">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Mga Kagustuhan">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
@@ -502,7 +504,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tip:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hint "Humingi ng tulong sa paghahanap ng mga bagay! Hanapin ang &#x1F50E; Sa tabi ng mga mungkahi sa paghahanap.">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Baguhin ang Pagpipilian…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Baguhin ang mga Pagpipilian…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Baguhin ang mga Kagustuhan…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
