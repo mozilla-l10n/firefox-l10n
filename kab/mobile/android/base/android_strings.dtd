@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Bḍu">
 <!ENTITY share_title "Bḍu s">
 <!ENTITY share_image_failed "Ur izmir ara ad yebḍu tugna-agi">
+<!ENTITY share_error_toast_message "Ur izmir ara ad ibḍu asnas">
 <!ENTITY save_as_pdf "Kles d PDF">
 <!ENTITY print "Siggez">
 <!ENTITY view_page_source "Wali tangalt taɣbalut n usebter">
