@@ -29,7 +29,7 @@
 <!ENTITY newWindowCmd.accesskey       "n">
 <!ENTITY newWindowCmd.commandkey      "n">
 
-<!ENTITY openFileCmd.label            "Open File…">
+<!ENTITY openFileCmd.label            "Magbukas ng File…">
 <!ENTITY openFileCmd.accesskey        "O">
 <!ENTITY openFileCmd.commandkey       "O">
 
