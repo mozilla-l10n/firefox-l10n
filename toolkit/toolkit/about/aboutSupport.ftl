@@ -39,8 +39,8 @@ app-basics-update-channel = Updatekanaal
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] Map bijwerken
-       *[other] Map bijwerken
+        [linux] Updatemap
+       *[other] Updatemap
     }
 app-basics-update-history = Updategeschiedenis
 app-basics-show-update-history = Updategeschiedenis tonen
