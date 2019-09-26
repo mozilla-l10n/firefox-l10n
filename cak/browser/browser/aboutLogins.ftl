@@ -57,6 +57,7 @@ login-list-last-used-option = Ruk'isib'äl Rokisaxik
 login-list-intro-title = Majun tikirib'äl molojri'ïl xilitäj
 login-list-intro-description = Toq nayäk jun ewan tzij pa { -brand-product-name }, wawe' xtiq'alajin pe.
 about-logins-login-list-empty-search-title = Majun tikirib'äl molojri'ïl xilitäj
+about-logins-login-list-empty-search-description = Majun xilitäj achi'el ri nakanoj.
 login-list-item-title-new-login = K'ak'a' Tikirib'äl Molojri'ïl
 login-list-item-subtitle-new-login = Ke'atz'ib'aj ri taq retamab'al rutikirib'al molojri'ïl
 login-list-item-subtitle-missing-username = (majun rub'i' okisanel)
@@ -67,6 +68,7 @@ login-intro-heading = ¿La ye'akanoj rutikirib'al taq amolojri'ïl e'ayakon kan?
 login-intro-description = We xe'ayäk ri rutikirib'al amolojri'ïl pa { -brand-product-name } pa jun chik wi okisab'äl, wawe' nik'ut pe richin nak'ul wawe' chuqa':
 login-intro-instruction-fxa = Tatz'uku' o tatikirisaj molojri'ïl pa { -fxaccount-brand-name } chupam ri okisab'äl, akuchi' e yakäl ri tikirib'äl amolojri'ïl
 login-intro-instruction-fxa-settings = Tatz'eta' chi xacha' ri k'ojlib'äl richin kitikitib'al molojri'ïl pa ri runuk'ulem { -sync-brand-short-name }.
+about-logins-intro-instruction-help = Tatz'eta' <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Tob'äl</a> richin ch'aqa' chik to'ïk.
 
 ## Login
 
@@ -135,3 +137,10 @@ breach-alert-dismiss =
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = K'o chik jun rokem { $loginTitle } rik'in ri b'i'aj ri'.
+# This is a generic error message.
+about-logins-error-message-default = Xk'ulwachitäj jun sachoj toq niyak re ewan tzij.

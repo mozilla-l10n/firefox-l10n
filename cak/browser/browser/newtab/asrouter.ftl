@@ -82,6 +82,16 @@ cfr-whatsnew-button =
     .label = K'ak'a' Rutzijol
     .tooltiptext = K'ak'a' Rutzijol
 cfr-whatsnew-panel-header = Achike natzijoj
+cfr-whatsnew-release-notes-link-text = Tasik'ij ri k'ak'a' rutzijol
+cfr-whatsnew-fx70-title = { -brand-short-name } wakami tato' ri awichinanem
+cfr-whatsnew-fx70-body =
+    Ri ruk'isib'äl k'exoj nrutzilaj ri Chajinïk chuwäch Ojqanem chuqa' nub'än
+    chi man k'ayew ta ye'atz'ük ütz ewan taq tzij kichin ri taq ruxaq.
+cfr-whatsnew-tracking-protect-title = Tachajij awi' chi kiwäch ri ojqanela'
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } ke'aqata' k'ïy winäq ojqanela' chuqa' xoch'in taq ruxaq ri
+    nikitzeqelb'ej ri asamaj pa k'amab'ey.
+cfr-whatsnew-tracking-protect-link-text = Tatz'eta' ri Atzijol.
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -90,6 +100,15 @@ cfr-whatsnew-tracking-blocked-title =
         [one] Q'aton ojqanel
        *[other] Eq'aton ojqanela'
     }
+cfr-whatsnew-tracking-blocked-subtitle = Pa { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Titz'et ri Rutzijol
+cfr-whatsnew-lockwise-backup-title = Ke'awachib'ej ri ewan taq atzij
+cfr-whatsnew-lockwise-backup-body = Wakami yatikïr ye'atz'ük ütz ewan taq tzij, achoq kik'in yatikïr yatok xab'akuchi nawajo.
+cfr-whatsnew-lockwise-backup-link-text = Ketzij jikomal taq wachib'enïk
+cfr-whatsnew-lockwise-take-title = Ke'ak'waj ri ewan taq atzij awik'in
+cfr-whatsnew-lockwise-take-body =
+    Ri { -lockwise-brand-short-name } oyonib'äl chokoy nuya' q'ij chawe ütz yatok pa ri
+    jikomal taq kiwachib'enik ewan atzij xab'akuchi.
 cfr-whatsnew-lockwise-take-link-text = Tak'ulu' ri chokoy
 
 ## Bookmark Sync
@@ -123,6 +142,12 @@ cfr-doorhanger-firefox-send-ok-button = Titojtob'ëx { -send-brand-name }
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Ketz'et taq chajinem
+    .accesskey = h
 cfr-doorhanger-socialtracking-close-button = Titz'apïx
     .accesskey = t
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } xuq'ät chi jun aj winäq k'amab'ey yatrojqaj wawe'
+cfr-doorhanger-socialtracking-description = K'atzinel ri awichinanem. { -brand-short-name } wakami yeruq'ät ri kojqanela' aj winäq k'amab'ey, nuq'ät runimilem tzij yetikïr nikimöl chi rij ri nasamajij pa k'amab'ey.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } xuq'ät jun tz'etöy retal ruwi' q'ab'aj pa re ruxaq re'
+cfr-doorhanger-fingerprinters-description = Nïm ri awichinanem. { -brand-short-name } wakami yeruq'ät ri tz'etöy retal ruwi' q'ab'aj, ri yekimöl kich'akulal retamab'al retal winäq chi rij ri rokisab'al richin nrojqaj.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } xuq'ät jun ajkriptomin pa re ruxaq re'

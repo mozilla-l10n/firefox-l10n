@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Chijun ruwa kematz'ib'
     .accesskey = C
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Kek'ut pe ronojel ri taq ruwi'
@@ -212,12 +212,18 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Titikirisäx molojri'ïl pa { -sync-brand-short-name }…
     .accesskey = I
+menu-tools-turn-on-sync =
+    .label = Titzij { -sync-brand-short-name }...
+    .accesskey = t
 menu-tools-sync-now =
     .label = Tixim Wakami
     .accesskey = R
 menu-tools-sync-re-auth =
     .label = Tawokisaj chik pa { -sync-brand-short-name }…
     .accesskey = T
+menu-tools-fxa-re-auth =
+    .label = Tok chik pa { -brand-product-name }...
+    .accesskey = o
 menu-tools-web-developer =
     .label = Nuk'unel ajk'amaya'l
     .accesskey = a
