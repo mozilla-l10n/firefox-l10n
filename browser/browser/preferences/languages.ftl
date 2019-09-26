@@ -4,7 +4,7 @@
 
 webpage-languages-window =
     .title = Поставке језика веб странице
-    .style = ширина: 40em
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Веб странице су понекад понуђене на више језика. Изаберите језик за приказивање тих страница у поставкама
@@ -40,7 +40,7 @@ languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window =
     .title = { -brand-short-name } поставке језика
-    .style = ширина: 40em
+    .style = width: 40em
 browser-languages-description = { -brand-short-name } ће приказивати први језик као ваш подразумевани и приказиваће алтернативне језике ако је потребно да се прикажу.
 browser-languages-search = Потражи више језика…
 browser-languages-searching =
