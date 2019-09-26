@@ -4,7 +4,7 @@
 
 webpage-languages-window =
     .title = வலைப்பக்க மொழி அமைவுகள்
-    .style = அகலம்: 40em
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = இணைய பக்கங்கள் சில நேரங்களில் ஒரு மொழிக்கு மேல் வழங்கப்படுகின்றன. இந்த இணைய பக்கங்களை முன்னரிமையின் அடிப்படையில் காண்பிக்க மொழிகளை தேர்ந்தெடுக்கவும்
@@ -40,7 +40,7 @@ languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window =
     .title = { -brand-short-name } மொழி அமைவுகள்
-    .style = அகலம்: 40em
+    .style = width: 40em
 browser-languages-search = மேலும் மொழிகளைத் தேடுக ...
 browser-languages-searching =
     .label = மொழிகளுக்காகத் தேடுகிறது
