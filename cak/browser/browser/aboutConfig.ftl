@@ -13,10 +13,18 @@ about-config-search-input =
 
 ## These strings appear on the warning you see when first visiting about:config.
 
+about-config-intro-warning-title = Tachajij awi' chi Rub'anik
+about-config-intro-warning-text = Kejal ri q'axinäq taq rajowaxik nuk'ulem, nitikir nutz'ila' rub'eyal nisamäj o ri rujikomal { -brand-short-name }.
+about-config-intro-warning-checkbox = Tiya' rutzijol chwe toq yinok pa re taq ajowaxik re'.
 about-config-intro-warning-button = Xinwetamaj ri K'ayewal chuqa' Tinsamajij el
 
 
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Kejal re taq rajowaxik nitikir nutz'ila' rub'eyal nisamäj o ri rujikomal { -brand-short-name }.
+about-config-page-title = Q'axinäq taq Ajowanïk
+about-config-search-input1 =
+    .placeholder = Rub'i' rajowaxik kanoxïk
 about-config-show-all = Tik'ut Ronojel
 about-config-pref-add = Titz'aqatisäx
 about-config-pref-toggle = Tik'exlöx
