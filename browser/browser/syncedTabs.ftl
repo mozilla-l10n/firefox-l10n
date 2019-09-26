@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Onglets synchronisés
 synced-tabs-sidebar-noclients-subtitle = Vous souhaitez afficher ici les onglets de vos autres appareils ?
 synced-tabs-sidebar-notsignedin = Connectez-vous pour afficher la liste des onglets de vos autres appareils.
+synced-tabs-sidebar-intro = Affichez la liste des onglets de vos autres appareils.
 synced-tabs-sidebar-unverified = Votre compte doit être vérifié.
 synced-tabs-sidebar-notabs = Aucun onglet ouvert
 synced-tabs-sidebar-openprefs = Ouvrir les préférences de { -sync-brand-short-name }
