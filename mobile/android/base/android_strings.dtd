@@ -945,6 +945,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Pösa">
 <!ENTITY pip_pause_button_description "Riproduçion in pösa">
 
+<!ENTITY pref_notification_settings_link "Gestion de inpostaçioin de notifica">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Navegatô">
 <!ENTITY mls_notification_channel "Serviçio de localizaçion de &vendorShortName;">
@@ -957,3 +958,4 @@ Picture-in-picture mini window -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "Notifiche do scito">
+<!ENTITY crash_handler_notifications_channel "Crash Reporter &brandShortName;">
