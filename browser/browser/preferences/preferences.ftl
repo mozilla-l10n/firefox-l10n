@@ -310,7 +310,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Obsah chráněný pomocí Digital Rights Management (DRM)
 play-drm-content =
@@ -832,7 +832,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Vlastní
     .accesskey = V
 
-##
+
 
 content-blocking-etp-standard-desc = Vyvážená ochrana a výkon. Neovlivní správné načítání webových stránek.
 content-blocking-etp-strict-desc = Silnější ochrana. Může omezit fungování některých stránek.
@@ -852,7 +852,7 @@ content-blocking-warning-description = Blokování obsahu může omezit fungová
 content-blocking-learn-how = Jak na to?
 content-blocking-etp-warning-description = Blokování sledujícího obsahu může ovlivnit fungování některých stránek. Pro načtení veškerého obsahu obnovte stránku s povolenými sledovacími prvky.
 content-blocking-warning-learn-how = Jak na to
-content-blocking-reload-description = Aby se změny projevily, obnovte vaše panely.
+content-blocking-reload-description = Aby se změny projevily, obnovte své panely.
 content-blocking-reload-tabs-button =
     .label = Obnovit všechny panely
     .accesskey = O

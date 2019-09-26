@@ -165,8 +165,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "Přihlásit se k aplikaci &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Zapnout &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Účet">
 <!ENTITY fxa.menu.firefoxServices.label "Služby aplikace &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Účet">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -251,6 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Správa využití zásuvného modulu">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Změní, jestli můžete ze serveru přijímat oznámení">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Uložit data natrvalo">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Prohlížeč je ovládán vzdáleně">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Otevřít panel webové autentizace">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Otevřít nastavení přístupu k informacím o vašem prohlížení">
@@ -433,7 +435,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "Chcete zde vidět vaše panely z ostatních zařízení?">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Chcete zde vidět své panely z ostatních zařízení?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Otevřít předvolby synchronizace">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Pro zobrazení seznamu panelů z vašich ostatních zařízení se prosím přihlaste.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Je potřeba ověřit váš účet.">
@@ -931,7 +933,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Sledující obsah">
 <!ENTITY protections.fingerprinters.label "Vytváření otisku prohlížeče">
 <!ENTITY protections.cryptominers.label "Těžba kryptoměn">
-<!ENTITY protections.noTrackersFound.description "Na této stránce nebyly nalezené žádné sledovací prvky, které &brandShortName; zná.">
+<!ENTITY protections.noTrackersFound.description "Aplikace &brandShortName; na této stránce nenalezla žádné známé sledovací prvky.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Tyto cookies slouží k vašemu sledování napříč webovými stránkami a sběru dat o tom, co na internetu děláte. Používají je třetí strany jako jsou reklamní systémy nebo analytické společnosti.">
 <!ENTITY protections.cryptominers.description "Těžba kryptoměn využívá výpočetní výkon vašeho počítače k získávání digitálních měn. Běžící skripty vybíjí vaši baterii a zpomalují váš počítač.">
@@ -976,10 +978,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Sledovací prvky">
 
 <!ENTITY contentBlocking.manageSettings.label "Nastavení blokování obsahu">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Sledující obsah">
-
-<!ENTITY contentBlocking.manageSettings2.label "Nastavení ochrany">
 <!ENTITY contentBlocking.manageSettings.accesskey "N">
 
 <!ENTITY contentBlocking.trackersView.label "Sledovací prvky">
@@ -988,6 +986,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies a data stránek">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Sledující obsah">
+
+<!ENTITY contentBlocking.manageSettings2.label "Nastavení ochrany">
 <!ENTITY contentBlocking.manageSettings2.accesskey "N">
 
 <!ENTITY contentBlocking.socialblock.label "Sledující prvky sociálních sítí">

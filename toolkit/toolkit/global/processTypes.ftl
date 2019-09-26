@@ -11,7 +11,7 @@ process-type-privileged = Privilegované stránky aplikace
 process-type-privilegedabout = Privilegované about stránky
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
-process-type-privilegedmozilla = Privilegovaný obsah Mozilly
+process-type-privilegedmozilla = Privilegovaný obsah Mozilla
 process-type-extension = Rozšíření
 # process used to open file:// URLs
 process-type-file = Místní soubor
