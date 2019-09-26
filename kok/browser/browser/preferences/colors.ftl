@@ -6,7 +6,7 @@ colors-window =
     .title = रंग
     .style =
         { PLATFORM() ->
-            [macos] width: 41एम
+            [macos] width: 41em
            *[other] width: 38em
         }
 colors-page-override-option-always =
