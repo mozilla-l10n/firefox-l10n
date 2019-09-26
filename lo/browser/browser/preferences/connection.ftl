@@ -6,8 +6,8 @@ connection-window =
     .title = ຕັ້ງຄ່າການເຊື່ອມຕໍ່
     .style =
         { PLATFORM() ->
-            [macos] width:44em
-           *[other] width:49em
+            [macos] width: 44em
+           *[other] width: 49em
         }
 connection-close-key =
     .key = w
@@ -70,15 +70,6 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = ອະນຸຍາດ DNS ເທິງ HTTPS
     .accesskey = b
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL ສຳລັບ resolving DNS over HTTPS
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = ນຳໃຊ້ຄ່າເລີ່ມຕົ້ນ ({ $url })
-    .accesskey = U
-    .tooltiptext = ນຳໃຊ້ URL ຄ່າເລີມຕົ້ນສຳລັບການ resolve DNS ຜ່ານທາງ HTTPS
 connection-dns-over-https-url-custom =
     .label = ປັບແຕ່ງ
     .accesskey = C
