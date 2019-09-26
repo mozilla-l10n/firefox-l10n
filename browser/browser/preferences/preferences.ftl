@@ -310,7 +310,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Obsah chránený pomocou Digital Rights Management (DRM)
 play-drm-content =
@@ -345,6 +345,14 @@ update-pref-write-failure-title = Chyba pri zápise
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Nepodarilo sa nám uložiť nastavenie. Nebolo možné zapísať údaje do súboru { $path }
 update-setting-write-failure-title = Chyba pri ukladaní nastavení aktualizácií
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    Aplikácia { -brand-short-name } sa stretla s chybou a túto zmenu neuložila. Berte na vedomie, že upravenie tejto možnosti vyžaduje povolenie na zápis do tohto súboru. Vy alebo váš správca systému môžete túto chybu vyriešiť udelením správnych povolení.
+    
+    Nebolo možné zapísať do súboru: { $path }
 update-in-progress-title = Prebieha aktualizácia
 update-in-progress-message = Chcete, aby { -brand-short-name } pokračoval v aktualizácii?
 update-in-progress-ok-button = &Zrušiť
@@ -390,6 +398,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Povoliť vyhľadávanie textu počas písania
     .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = Povoliť ovládanie videa v režime obraz v obraze
+    .accesskey = o
+browsing-picture-in-picture-learn-more = Ďalšie informácie
 browsing-cfr-recommendations =
     .label = Odporúčať rozšírenia počas prehliadania
     .accesskey = O
@@ -649,6 +661,16 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Výnimky…
     .accesskey = m
+forms-generate-passwords =
+    .label = Generovať a navrhovať silné heslá
+    .accesskey = G
+forms-breach-alerts =
+    .label = Zobrazovať upozornenia na stránky, na ktorých prišlo k úniku dát
+    .accesskey = b
+forms-breach-alerts-learn-more-link = Ďalšie informácie
+forms-fill-logins-and-passwords =
+    .label = Automaticky vypĺňať prihlasovacie údaje a heslá
+    .accesskey = u
 forms-saved-logins =
     .label = Uložené prihlasovacie údaje…
     .accesskey = s
@@ -762,6 +784,7 @@ addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
 
 content-blocking-header = Blokovanie obsahu a ochrana pred sledovaním
 content-blocking-section-description = Chráňte svoje súkromie pri surfovaní na internete. Zablokujte neviditeľný obsah, ktorý vás sleduje na navštívených stránkach a tvorí profil vášho správania. Blokovanie takéhoto obsahu môže zrýchliť načítavanie stránok.
+content-blocking-enhanced-tracking-protection = Rozšírená ochrana pred sledovaním
 content-blocking-learn-more = Ďalšie informácie
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -794,11 +817,12 @@ enhanced-tracking-protection-setting-custom =
     .label = Vlastné
     .accesskey = V
 
-##
+
 
 content-blocking-all-cookies = Všetky cookies
 content-blocking-unvisited-cookies = Cookies z nenavštívených stránok
 content-blocking-all-windows-trackers = Známe sledovacie prvky sú blokované vždy
+content-blocking-all-windows-tracking-content = Sledovací obsah je blokovaný vo všetkých oknách
 content-blocking-all-third-party-cookies = Blokované sú všetky cookies tretích strán
 content-blocking-cryptominers = Blokovaná je ťažba kryptomien
 content-blocking-fingerprinters = Blokovaná je tvorba odtlačku prehliadača
@@ -814,6 +838,9 @@ content-blocking-reload-tabs-button =
 content-blocking-trackers-label =
     .label = Sledovacie prvky
     .accesskey = S
+content-blocking-tracking-content-label =
+    .label = Sledovací obsah
+    .accesskey = h
 content-blocking-tracking-protection-option-all-windows =
     .label = Vo všetkých oknách
     .accesskey = V
@@ -871,6 +898,10 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = Výnimky…
     .accesskey = V
+permissions-autoplay = Automatické prehrávanie
+permissions-autoplay-settings =
+    .label = Nastavenia…
+    .accesskey = N
 permissions-block-popups =
     .label = Blokovať nevyžiadané vyskakovacie okná
     .accesskey = B
