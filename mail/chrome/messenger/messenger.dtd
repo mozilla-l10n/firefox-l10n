@@ -706,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Spremi pretragu kao mapu…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Odaberite poruke">
 <!ENTITY threadColumn.label "Tema">
 <!ENTITY fromColumn.label "Šalje">
 <!ENTITY recipientColumn.label "Primatelj">
@@ -729,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Odaberite stupce za prikaz">
+<!ENTITY selectColumn.tooltip "Uključi/isključi odabir svih poruka">
 <!ENTITY threadColumn2.tooltip "Prikaži teme poruka">
 <!ENTITY fromColumn2.tooltip "Sortiraj prema pošiljatelju">
 <!ENTITY recipientColumn2.tooltip "Sortiraj prema primatelju">
