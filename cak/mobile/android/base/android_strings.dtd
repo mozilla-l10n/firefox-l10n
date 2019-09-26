@@ -23,16 +23,21 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Rub\&apos;i\&apos; taqoya\&apos;l">
 <!ENTITY firstrun_sync_message2 "Tak\&apos;ama\&apos; el akuchi\&apos; xaya\&apos; wi kan.">
+<!ENTITY firstrun_sync_message3 "Ke\&apos;axima\&apos; taq ayaketal, natab\&apos;äl chuqa\&apos; ewan taq atzij pa ri awoyonib\&apos;al.">
 <!ENTITY firstrun_sync_subtext2 "Tawokisaj Sync richin ye\&apos;awïl ri taq yaketal, ewan taq tzij, chuqa\&apos; ronojel ri nayäk pa &brandShortName; pa ronojel ri taq awokisaxel.">
 <!ENTITY newfirstrun_sync_subtext "Taxima\&apos; ri rupam xayäk pan awoyonib\&apos;al rik\&apos;in Firefox richin ajch\&apos;atal, rik\&apos;in ichinanem chuqa\&apos; ütz rub\&apos;anikil.">
 <!ENTITY updatednewfirstrun_sync_subtext "Tatikirisaj molojri\&apos;ïl pa ri rub\&apos;i\&apos; ataqoya\&apos;l richin ütz nawokisaj &brandShortName;">
 <!ENTITY firstrun_signin_message "Katok, tatikirisaj">
+<!ENTITY firstrun_sendtab_title "Titaq Ruwi\&apos;">
+<!ENTITY firstrun_sendtab_message "Kekomonïx taq ruwi\&apos; oyonib\&apos;äl rik\&apos;in ri kematz\&apos;ib\&apos; — pan aninäq.">
 <!ENTITY firstrun_signin_button "Tatikirisaj molojri\&apos;ïl pa Ximojri\&apos;ïl">
 <!ENTITY newfirstrun_signin_button "Titzij Ximoj">
 <!ENTITY updatednewfirstrun_signin_button "Katok pa &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Tichap okem pa k\&apos;amaya\&apos;l">
+<!ENTITY onboard_start_button_browser "Tichap okem pa k\&apos;amaya\&apos;l">
 <!ENTITY firstrun_button_notnow "Wakami mani">
 <!ENTITY firstrun_button_next "Jun chik">
+
+<!ENTITY firstrun_signin_button2 "Titikirisäx molojri\&apos;ïl">
 
 <!ENTITY firstrun_tabqueue_title "Taq ximöy">
 
@@ -44,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Rat">
 <!ENTITY firstrun_account_message "¿La k\&apos;o &brandShortName; pa jun chik okisaxel?">
+
+<!ENTITY firstrun_signup_button "Tatz\&apos;ib\&apos;aj ab\&apos;i\&apos;">
 
 <!ENTITY  onboard_start_restricted1 "Tichajin rik\&apos;in re ko\&apos;öl ruwäch chi &brandShortName;.">
 
@@ -495,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Tikomonïx">
 <!ENTITY share_title "Komonin ruma">
 <!ENTITY share_image_failed "Majun nitikïr ta nikomonïx re jun wachib\&apos;äl re\&apos;">
+<!ENTITY share_error_toast_message "Man tikirel ta nikomonïx rik\&apos;in ri chokoy najowäx">
 <!ENTITY save_as_pdf "Tiyak achi\&apos;el jun PDF">
 <!ENTITY print "Titz\&apos;ajb\&apos;äx">
 <!ENTITY view_page_source "Titz\&apos;et Ruxe\&apos;el Ruxaq">
@@ -595,7 +603,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Rochochib\&apos;al">
 <!ENTITY bookmark_edit_keyword "Ewan tzij">
 <!ENTITY bookmark_select_folder "Ticha\&apos; molyakb\&apos;äl">
-
 <!ENTITY bookmark_edit_undo "Titzolïx">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -689,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "At okinäq pa">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -875,6 +883,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Wachel pa k\&apos;amab\&apos;ey">
 <!ENTITY helper_triple_readerview_open_message "Yaketal sik\&apos;inel Titz\&apos;et taq cholna\&apos;oj richin yesik\&apos;ïx toq majun okem pa k\&apos;amaya\&apos;l.">
 <!ENTITY helper_triple_readerview_open_button "Tib\&apos;an b\&apos;enam pa taq Yaketal">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "Ütz apetik pa &brandShortName;">
+<!ENTITY activity_stream_signin_description "Tachapa\&apos; kiximik taq yaketal, ewan taq tzij chuqa\&apos; ch\&apos;aqa\&apos; chik rik\&apos;in ri rub\&apos;i\&apos; ataqoya\&apos;l richin Firefox.">
+<!ENTITY activity_stream_signin_button "Titikirisäx molojri\&apos;ïl">
+
+<!ENTITY activity_stream_signup_button "Tatz\&apos;ib\&apos;aj ab\&apos;i\&apos;">
+<!ENTITY activity_stream_signin_prompt "¿La k\&apos;o chik jun rub\&apos;i\&apos; ataqoya\&apos;l?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Titikirisäx molojri\&apos;ïl.">
 
 <!ENTITY activity_stream_topsites "Utziläj taq ruxaq K\&apos;amaya\&apos;l">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
