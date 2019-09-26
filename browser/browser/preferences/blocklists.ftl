@@ -4,7 +4,7 @@
 
 blocklist-window =
     .title = ତାଲିକାକୁ ଅବରୋଧ କରନ୍ତୁ
-    .style = ଓସାର: 55em
+    .style = width: 55em
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
