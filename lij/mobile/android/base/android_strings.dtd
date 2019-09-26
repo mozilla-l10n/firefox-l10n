@@ -10,6 +10,7 @@
 <!ENTITY firstrun_panel_title_privacy "Privacy">
 <!ENTITY firstrun_privacy_message "Navega comme se nisciun o t\&apos;amiasse">
 <!ENTITY firstrun_privacy_subtext "Navegaçion privâ con proteçion anti-traciamento ch\&apos;a blòcca chi o traccia a navagaçion e a no s\&apos;aregordiâ da stöia da navegaçion quande ti finisci de navegâ.">
+<!ENTITY newfirstrun_privacy_subtext "A navegaçion privâ a blòcca e publicitæ che te tracian e çercan de vegnite apreuvo in linia.">
 <!ENTITY firstrun_panel_title_customize "Personalizza">
 <!ENTITY firstrun_customize_message "Rendi &brandShortName; o teu pe davei.">
 <!ENTITY firstrun_customize_subtext "Personalizza &brandShortName; con conponenti azonti. Blòcca e publicitæ, azonzi fonoçioin, ò çerni \&apos;n tema ch\&apos;o va d\&apos;acòrdio co-a teu personalitæ.">
@@ -20,13 +21,23 @@
 <!ENTITY firstrun_data_message "Meno dæti, ciù risparmio">
 <!ENTITY firstrun_data_subtext2 "Asmòrta e inmagine pe spende meno dæti inte tutti i sciti che ti vixiti.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY updatednewfirstrun_sync_title "Account">
 <!ENTITY firstrun_sync_message2 "Repiggia da donde t\&apos;ei arestou.">
+<!ENTITY firstrun_sync_message3 "Scincronizza segnalibbri, stöia e poule segrete co-o teu telefonin.">
 <!ENTITY firstrun_sync_subtext2 "Deuvia Sync pe trovâ i segnalibbri, poule segrete e atre cöse che t\&apos;æ sarvou con &brandShortName; in sce tutti i dispoxitivi.">
+<!ENTITY newfirstrun_sync_subtext "Scincronizza e cöse che ti sarvi into teu telefonin con Firefox in sciô teu computer, in mòddo riservou e seguo.">
+<!ENTITY updatednewfirstrun_sync_subtext "Acedi a-o teu account pe pigiate o mascimo da &brandShortName;">
 <!ENTITY firstrun_signin_message "Conetite e comensa">
+<!ENTITY firstrun_sendtab_title "Manda feuggio">
+<!ENTITY firstrun_sendtab_message "Condividdi i feuggi da telefonin a computer a l\&apos;instante.">
 <!ENTITY firstrun_signin_button "Acedi a Sync">
-<!ENTITY  onboard_start_button_browser "Iniçia a navegâ">
+<!ENTITY newfirstrun_signin_button "Açendi Sync">
+<!ENTITY updatednewfirstrun_signin_button "Intra in &brandShortName;">
+<!ENTITY onboard_start_button_browser "Iniçia a navegâ">
 <!ENTITY firstrun_button_notnow "Oua no">
 <!ENTITY firstrun_button_next "Pròscimo">
+
+<!ENTITY firstrun_signin_button2 "Intra">
 
 <!ENTITY firstrun_tabqueue_title "Colegamenti">
 
@@ -38,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Ti">
 <!ENTITY firstrun_account_message "Ti gh\&apos;æ &brandShortName; in sce \&apos;n\&apos;atro dispoxitivo?">
+
+<!ENTITY firstrun_signup_button "Registrite">
 
 <!ENTITY  onboard_start_restricted1 "Stanni a-o seguo e into pin contròllo con sta verscion senplificâ de &brandShortName;.">
 
@@ -63,6 +76,11 @@
 <!ENTITY  sending_crash_report "Mando o report do cianto\u2026">
 <!ENTITY  crash_close_label "Særa">
 <!ENTITY  crash_restart_label "Arvi torna &brandShortName;">
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName; o s\&apos;é ciantou">
+<!ENTITY  crash_notification_message "Tocca pe segnalâ a &vendorShortName;">
+<!ENTITY  crash_notification_negative_button_text "Ignöra">
 
 <!ENTITY url_bar_default_text2 "Çerca ò scrivi indirisso">
 
@@ -105,6 +123,9 @@
 <!ENTITY bookmark_folder_updated "Cartella agiornâ">
 <!ENTITY bookmark_parent_folder "Cartella poæ">
 <!ENTITY bookmark_add_folder "Azonzi neuva cartella">
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(sensa titolo)">
 
 <!ENTITY reader_saved_offline "Sarvou feua linia">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -264,6 +285,7 @@
 <!ENTITY pref_cookies_menu "Cookie">
 <!ENTITY pref_cookies_accept_all "Ativou">
 <!ENTITY pref_cookies_not_accept_foreign "Ativou, escluzo terse parte">
+<!ENTITY pref_cookies_not_accept_trackers "Abilitou, escluzo cookie che tracian">
 <!ENTITY pref_cookies_disabled "Dizativou">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -324,11 +346,6 @@
 
 <!ENTITY pref_pwa "Aplicaçion Web Progresciva">
 <!ENTITY pref_pwa_summary "Permetti a-e app web de ese azonte a-a pagina prinçipâ">
-
-<!ENTITY tracking_protection_prompt_title "Oua co-a proteçion anti-traciamento">
-<!ENTITY tracking_protection_prompt_text "O blòcca ativamente elementi che tracian coscì no ti gh\&apos;é preocupaçioin.">
-<!ENTITY tracking_protection_prompt_tip_text "Vixita e inpostaçioin da privacy pe saveine de ciù">
-<!ENTITY tracking_protection_prompt_action_button "Capio!">
 
 <!ENTITY tab_queue_toast_message3 "Feuggio sarvou in &brandShortName;">
 <!ENTITY tab_queue_toast_action "Arvi oua">
@@ -410,12 +427,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Descaregamenti">
 <!ENTITY pref_private_data_syncedTabs "Feuggi scincronizæ">
 
-<!ENTITY pref_default_browser "Rendi navegatô predefinio">
-
+<!ENTITY pref_default_browser2 "Rendi&brandShortName; o teu navegatô predefinio">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
-<!ENTITY pref_default_browser_mozilla_support_tablet "Vixita o Sopòrto de Mozilla">
+<!ENTITY default_browser_system_settings_toast "Tocca App Browser e seleçionn-a &brandShortName;">
 <!ENTITY pref_about_firefox "Informaçioin rigoardo &brandShortName;">
 <!ENTITY pref_vendor_faqs "Domande e risposte">
 <!ENTITY pref_vendor_feedback "Comenta">
@@ -486,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Condividdi">
 <!ENTITY share_title "Condividdi via">
 <!ENTITY share_image_failed "Inposcibile condividde sta inmagine">
+<!ENTITY share_error_toast_message "Inposcibile condividde l\&apos;app che ti mæ dito">
 <!ENTITY save_as_pdf "Sarva comme PDF">
 <!ENTITY print "Stanpa">
 <!ENTITY view_page_source "Sorgente da pagina">
@@ -512,6 +529,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Localization note (find_error) : Error message shown when there is no result for the
      searched for text in this webpage -->
+<!ENTITY find_error "Testo no trovou">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -585,6 +603,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Indirisso">
 <!ENTITY bookmark_edit_keyword "Paròlla ciave">
 <!ENTITY bookmark_select_folder "Seleçionn-a cartella">
+<!ENTITY bookmark_edit_undo "Anulla">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -673,9 +692,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Çerni ò registra son">
 <!ENTITY filepicker_image_title "Çerni ò piggia \&apos;na föto">
 <!ENTITY filepicker_video_title "Çerni ò registra \&apos;n video">
+<!ENTITY filepicker_permission_denied "Permisso no òtegnuo, aloa me piggio o gestô schedai de scistema.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "S\&apos;é conessi con">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -862,6 +883,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Disponibile feua linia">
 <!ENTITY helper_triple_readerview_open_message "Azonzi a-i segnalibbri i cöse da leze into mòddo letua pe poeile leze feua linia.">
 <!ENTITY helper_triple_readerview_open_button "Azonzi a-i segnalibbri">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "Benvegnuo in &brandShortName;">
+<!ENTITY activity_stream_signin_description "Iniçia a scincronizâ segnalibbri, poule segrete e atro co-o teu account Firefox.">
+<!ENTITY activity_stream_signin_button "Intra">
+
+<!ENTITY activity_stream_signup_button "Registrite">
+<!ENTITY activity_stream_signin_prompt "Ti ghe l\&apos;æ za \&apos;n account?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Intra.">
 
 <!ENTITY activity_stream_topsites "I megio sciti">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
