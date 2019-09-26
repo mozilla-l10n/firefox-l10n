@@ -273,6 +273,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Spravovať používanie softvéru DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Otvoriť MIDI panel">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Tejto stránke ste udelili dodatočné povolenia.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Tejto stránke ste zakázali prístup k vašej kamere.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tejto stránke ste zakázali prístup v vášmu mikrofónu.">
@@ -443,6 +444,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Chceli by ste tu vidieť vaše karty z ostatných zariadení?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Otvoriť nastavenia synchronizácie">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prihlásením sa zobrazíte zoznam kariet z vašich ostatných zariadení.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Zobraziť zoznam kariet z ostatných zariadení.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Váš účet musí byť overený.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prihlásiť sa k službe Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Spravovať zariadenia…">

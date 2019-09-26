@@ -62,10 +62,15 @@ about-logins-login-list-empty-search-description = Vášmu vyhľadávaniu nezodp
 login-list-item-title-new-login = Nové prihlasovacie údaje
 login-list-item-subtitle-new-login = Zadajte svoje prihlasovacie údaje
 login-list-item-subtitle-missing-username = (žiadne používateľské meno)
+about-logins-list-item-warning-icon =
+    .alt = Ikona varovania
+    .title = Únik dát
 
 ## Introduction screen
 
 login-intro-heading = Hľadáte svoje uložené prihlasovacie údaje? Nastavte si { -sync-brand-short-name }.
+login-intro-description = Ak ste si uložili prihlasovacie údaje do aplikácie { -brand-product-name } na inom zariadení, môžete ich získať takto:
+login-intro-instruction-fxa = Vytvorte si { -fxaccount-brand-name } alebo sa doň prihláste na zariadení, kde máte prihlasovacie údaje uložené
 
 ## Login
 
@@ -115,11 +120,17 @@ confirm-discard-changes-dialog-confirm-button = Zahodiť
 
 ## Breach Alert notification
 
+breach-alert-text = Na tejto stránke prišlo od vašej poslednej zmeny prihlasovacích údajov k úniku dát. Za účelom ochrany vášho účtu vám odporúčame zmeniť si heslo.
 breach-alert-link = Ďalšie informácie o tomto úniku.
 breach-alert-dismiss =
     .title = Zavrieť toto upozornenie
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Prihlasovacie údaje pre { $loginTitle } s rovnakým používateľským menom už existujú.
 # This is a generic error message.
 about-logins-error-message-default = Pri pokuse o uloženie tohto hesla nastala chyba.
