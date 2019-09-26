@@ -207,7 +207,7 @@
 <!ENTITY event.calendar.accesskey                         "d">
 <!ENTITY event.attendees.label                            "Partecipanti:" >
 <!ENTITY event.attendees.accesskey                        "P">
-<!ENTITY event.alldayevent.label                          "Eventi di tutto il giorno" >
+<!ENTITY event.alldayevent.label                          "Evento di tutto il giorno" >
 <!ENTITY event.alldayevent.accesskey                      "u">
 <!ENTITY event.from.label                                 "Inizio:" >
 <!ENTITY event.from.accesskey                             "n">

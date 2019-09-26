@@ -12,13 +12,14 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "E">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Usa suono predefinito">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "U">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Usa questo file audio">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "d">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Sfoglia…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "S">
 <!ENTITY pref.calendar.alarms.sound.play.label "Suona">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "S">
 <!ENTITY pref.showalarmbox "Visualizza un messaggio di allarme">
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "m">
-<!ENTITY pref.missedalarms "Visualizza allarmi persi">
 <!ENTITY pref.missedalarms2 "Visualizza promemoria mancati per i calendari scrivibili">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "V">
 <!ENTITY pref.calendar.alarms.defaults.label "Impostazioni predefinite allarmi">
