@@ -4,7 +4,7 @@
 
 containers-window-new =
     .title = Engadir un novo contedor
-    .style = witdth: 45em
+    .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update =
