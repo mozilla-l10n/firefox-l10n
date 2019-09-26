@@ -2,13 +2,25 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Composizione di: (nessun oggetto)">
+
 <!ENTITY fromAddr.label "Da:">
 <!ENTITY fromAddr.accesskey "D">
+<!ENTITY toAddr.label "A:">
+<!ENTITY ccAddr.label "Cc:">
+<!ENTITY bccAddr.label "Ccn:">
+<!ENTITY replyAddr.label "Rispondi-a:">
+<!ENTITY newsgroupsAddr.label "Gruppo discussione:">
+<!ENTITY followupAddr.label "Segue-in:">
 <!ENTITY subject.label "Oggetto:">
 <!ENTITY subject.accesskey "O">
 <!ENTITY attachments.label "Allegati:">
 <!ENTITY attachments.accesskey "A">
+
+<!-- menu items:  the . means that the menu item isn't implemented yet -->
+
+<!-- File menu items -->
 <!ENTITY saveCmd.label "Salva">
 <!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveAsCmd.label "Salva come">
@@ -25,6 +37,7 @@
 <!ENTITY attachFileCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "Pagina web…">
 <!ENTITY attachPageCmd.accesskey "w">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Includi biglietto da visita (vCard)">
 <!ENTITY attachVCardCmd.accesskey "v">
 <!ENTITY sendNowCmd.label "Spedisci ora">
@@ -33,24 +46,34 @@
 <!ENTITY sendLaterCmd.label "Spedisci più tardi">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "t">
+
+<!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Riformatta">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey "m">
+<!ENTITY editRewrapCmd.accesskey  "m">
 <!ENTITY accountManagerCmd.label "Configurazione account…">
 <!ENTITY accountManagerCmd.accesskey "n">
+
+<!-- View menu items -->
 <!ENTITY showComposeToolbarCmd.label "Barra degli strumenti">
 <!ENTITY showComposeToolbarCmd.accesskey "m">
 <!ENTITY showFormatToolbarCmd.label "Barra di formattazione">
 <!ENTITY showFormatToolbarCmd.accesskey "f">
+
+<!-- Format menu items -->
 <!ENTITY formatMenu.label "Formato">
 <!ENTITY formatMenu.accesskey "r">
+
+<!-- Options menu items -->
 <!ENTITY optionsMenu.label "Opzioni">
 <!ENTITY optionsMenu.accesskey "z">
+
 <!ENTITY quoteCmd.label "Cita messaggio">
 <!ENTITY quoteCmd.accesskey "m">
 <!ENTITY selectAddressCmd.label "Selezione indirizzi…">
 <!ENTITY selectAddressCmd.key "">
 <!ENTITY selectAddressCmd.accesskey "z">
+
 <!ENTITY priorityMenu.label "Priorità">
 <!ENTITY priorityMenu.accesskey "P">
 <!ENTITY lowestPriorityCmd.label "Minima">
@@ -63,12 +86,14 @@
 <!ENTITY highPriorityCmd.accesskey "A">
 <!ENTITY highestPriorityCmd.label "Massima">
 <!ENTITY highestPriorityCmd.accesskey "s">
+
 <!ENTITY returnReceiptMenu.label "Ricevuta di ritorno">
 <!ENTITY returnReceiptMenu.accesskey "R">
 <!ENTITY dsnMenu.label "Notifica dello stato di invio">
 <!ENTITY dsnMenu.accesskey "N">
+
 <!ENTITY outputFormatMenu.label "Formato">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY outputFormatMenu.accesskey  "F">
 <!ENTITY autoFormatCmd.label "Automatico">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Solo testo semplice">
@@ -77,15 +102,22 @@
 <!ENTITY htmlFormatCmd.accesskey "H">
 <!ENTITY bothFormatCmd.label "Testo semplice e HTML">
 <!ENTITY bothFormatCmd.accesskey "T">
+
 <!ENTITY fileCarbonCopyCmd.label "Salva copia in">
 <!ENTITY fileCarbonCopyCmd.accesskey "v">
 <!ENTITY fileHereMenu.label "Archivia qua">
+
+<!--LOCALIZATION NOTE Toolbar items Don't change any "chrome://" URLs -->
+<!-- Toolbar items -->
 <!ENTITY sendButton.label "Spedisci">
 <!ENTITY addressButton.label "Destinatari">
 <!ENTITY attachButton.label "Allega">
 <!ENTITY spellingButton.label "Ortografia">
 <!ENTITY saveButton.label "Salva">
 <!ENTITY stopButton.label "Interrompi">
+
+<!--tooltips-->
+<!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 <!ENTITY addressBar.tooltip "Barra degli indirizzi">
 <!ENTITY formatToolbar.tooltip "Barra di formattazione">
 <!ENTITY sendButton.tooltip "Spedisce ora questo messaggio">
@@ -94,6 +126,8 @@
 <!ENTITY attachButton.tooltip "Aggiungi un allegato">
 <!ENTITY saveButton.tooltip "Salva questo messaggio come bozza">
 <!ENTITY stopButton.tooltip "Interrompe il trasferimento in corso">
+
+<!-- context menu items -->
 <!ENTITY openAttachment.label "Apri">
 <!ENTITY openAttachment.accesskey "A">
 <!ENTITY renameAttachment.label "Rinomina">
