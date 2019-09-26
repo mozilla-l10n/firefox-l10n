@@ -168,8 +168,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "S'annunziar tar &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Conto">
 <!ENTITY fxa.menu.firefoxServices.label "Servetschs da &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Conto">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -916,6 +917,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Pertge?">
+<!ENTITY protections.cryptominers.label "Criptominiers">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
