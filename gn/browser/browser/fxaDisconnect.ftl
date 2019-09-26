@@ -4,7 +4,7 @@
 
 fxa-disconnect-dialog =
     .title = Esẽte { -sync-brand-short-name }?
-    .style = Peteĩchagua
+    .style = max-width: 400px
     .buttonlabelaccept = Esẽte
     .buttonaccesskeyaccept = E
 disconnect-account = { -brand-short-name } osẽta ne mba’etégui ombogue’ỹre ne kundaha mba’ekuaarã rapykuere ko mba’e’oka pegua.
