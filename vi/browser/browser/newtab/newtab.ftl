@@ -137,7 +137,7 @@ newtab-section-menu-add-topsite = Thêm trang web hàng đầu
 newtab-section-menu-add-search-engine = Thêm công cụ tìm kiếm
 newtab-section-menu-move-up = Di chuyển lên
 newtab-section-menu-move-down = Di chuyển xuống
-newtab-section-menu-privacy-notice = Chính sách riêng tư
+newtab-section-menu-privacy-notice = Thông báo bảo mật
 
 ## Section aria-labels
 

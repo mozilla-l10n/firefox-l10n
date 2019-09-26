@@ -295,7 +295,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Nội dung quản lý bản quyền kỹ thuật số (DRM)
 play-drm-content =
@@ -626,7 +626,7 @@ sync-connect-another-device = Kết nối thiết bị khác
 sync-manage-devices = Quản lý thiết bị
 sync-fxa-begin-pairing = Ghép nối thiết bị
 sync-tos-link = Điều khoản dịch vụ
-sync-fxa-privacy-notice = Chính sách riêng tư
+sync-fxa-privacy-notice = Thông báo bảo mật
 
 ## Privacy Section
 
@@ -802,7 +802,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Tùy chỉnh
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = Cân bằng để bảo vệ và hiệu suất. Các trang sẽ tải bình thường.
 content-blocking-etp-strict-desc = Bảo vệ mạnh mẽ hơn, nhưng có thể khiến một số trang web và nội dung bị phá vỡ.
@@ -914,7 +914,7 @@ permissions-a11y-privacy-link = Tìm hiểu thêm
 
 collection-header = Thu thập và sử dụng dữ liệu { -brand-short-name }
 collection-description = Chúng tôi cố gắng cung cấp cho bạn sự lựa chọn và chỉ thu thập những gì chúng tôi cần để cung cấp và cải thiện { -brand-short-name } cho tất cả mọi người. Chúng tôi luôn xin phép trước khi thu thập thông tin cá nhân.
-collection-privacy-notice = Chính sách riêng tư
+collection-privacy-notice = Thông báo bảo mật
 collection-health-report =
     .label = Cho phép { -brand-short-name } gửi dữ liệu kỹ thuật và tương tác tới { -vendor-short-name }
     .accesskey = r
