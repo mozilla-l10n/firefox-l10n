@@ -10,6 +10,12 @@ about-config-warning-button = Saya terima risikonya
 about-config2-title = Konfigurasi Lanjutan
 about-config-search-input =
     .placeholder = Cari
+
+## These strings appear on the warning you see when first visiting about:config.
+
+
+
+
 about-config-show-all = Tampilkan Semua
 about-config-pref-add = Tambah
 about-config-pref-toggle = Aktifkan/Nonaktifkan
@@ -22,7 +28,7 @@ about-config-pref-add-button =
 about-config-pref-toggle-button =
     .title = Aktifkan/Nonaktifkan
 about-config-pref-edit-button =
-    .title = Sunting
+    .title = Edit
 about-config-pref-save-button =
     .title = Simpan
 about-config-pref-reset-button =

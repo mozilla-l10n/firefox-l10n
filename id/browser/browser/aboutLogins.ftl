@@ -72,7 +72,7 @@ about-logins-intro-instruction-help = Kunjungi <a data-l10n-name="help-link">Ban
 ## Login
 
 login-item-new-login-title = Buat Info Masuk Baru
-login-item-edit-button = Sunting
+login-item-edit-button = Edit
 login-item-delete-button = Hapus
 login-item-origin-label = Alamat Situs Web
 login-item-origin =

@@ -46,6 +46,8 @@ abuse-report-spam-reason = Berisi spam atau iklan
 abuse-report-settings-suggestions-search = Ubah setelan pencarian baku Anda
 abuse-report-settings-suggestions-homepage = Ubah beranda dan tab baru Anda
 abuse-report-deceptive-reason = Berpura-pura menjadi sesuatu yang palsu
+abuse-report-broken-reason-extension = Tidak berfungsi, tampilan situs web rusak, atau memperlambat { -brand-product-name }
+abuse-report-broken-reason-theme = Tidak berfungsi atau merusak tampilan peramban
 abuse-report-policy-reason = Konten yang berisi kebencian, kekerasan, atau melanggar hukum
 abuse-report-policy-suggestions = Catatan: Masalah berkaitan dengan hak cipta dan merek dagang wajib dilaporkan dalama proses terpisah. <a data-l10n-name="report-infringement-link">Gunakan langkah ini</a> untuk melaporkannya.
 abuse-report-unwanted-reason = Tidak pernah menginginkan ekstensi ini dan tidak dapat membuangnya

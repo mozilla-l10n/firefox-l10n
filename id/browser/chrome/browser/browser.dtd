@@ -163,8 +163,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "Masuk ke &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Aktifkan &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Akun">
 <!ENTITY fxa.menu.firefoxServices.label "Layanan &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Akun">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -916,6 +917,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Mengapa?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Memblokir yang berikut dapat merusak elemen pada beberapa situs web. Tanpa pelacak, beberapa tombol, formulir, dan bidang info masuk mungkin tidak berfungsi.">
 <!ENTITY protections.socialMediaTrackers.label "Pelacak Media Sosial">
 <!ENTITY protections.crossSiteTrackingCookies.label "Kuki Pelacakan Lintas Situs">
 
@@ -957,9 +959,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Pelacak">
 
 <!ENTITY contentBlocking.manageSettings.label "Kelola Pemblokiran Konten">
-
-
-<!ENTITY contentBlocking.manageSettings2.label "Kelola Setelan Perlindungan">
 <!ENTITY contentBlocking.manageSettings.accesskey "K">
 
 <!ENTITY contentBlocking.trackersView.label "Pelacak">
@@ -968,6 +967,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Kuki">
 <!ENTITY contentBlocking.cookiesView.label "Kuki dan Data Situs">
 
+
+<!ENTITY contentBlocking.manageSettings2.label "Kelola Setelan Perlindungan">
 
 <!ENTITY contentBlocking.socialblock.label "Pelacak Media Sosial">
 
@@ -984,6 +985,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "Pemblokiran konten bisa menyebabkan beberapa situs web tidak berfungsi dengan baik. Saat Anda melaporkan masalahnya, Anda membantu agar &brandShortName; menjadi lebih baik bagi semua orang. (Proses ini akan mengirimkan URL serta informasi tentang pengaturan peramban Anda ke Mozilla).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Pelajari Lebih Lanjut">
 
+<!ENTITY contentBlocking.breakageReportView.title "Laporkan Situs yang Rusak">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Pelajari lebih lanjut">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Apa masalahnya? (Opsional)">
