@@ -295,7 +295,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Konten Digital Rights Management (DRM)
 play-drm-content =
@@ -790,8 +790,9 @@ enhanced-tracking-protection-setting-custom =
     .label = Ubahsuai
     .accesskey = U
 
-##
 
+
+content-blocking-etp-strict-desc = Perlindungan yang lebih kuat, tetapi dapat menyebabkan beberapa situs atau konten rusak.
 content-blocking-cross-site-tracking-cookies = Kuki pelacakan lintas situs
 content-blocking-social-media-trackers = Pelacak media sosial
 content-blocking-all-cookies = Semua kuki
