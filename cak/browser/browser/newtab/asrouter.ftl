@@ -151,3 +151,4 @@ cfr-doorhanger-socialtracking-description = K'atzinel ri awichinanem. { -brand-s
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } xuq'ät jun tz'etöy retal ruwi' q'ab'aj pa re ruxaq re'
 cfr-doorhanger-fingerprinters-description = Nïm ri awichinanem. { -brand-short-name } wakami yeruq'ät ri tz'etöy retal ruwi' q'ab'aj, ri yekimöl kich'akulal retamab'al retal winäq chi rij ri rokisab'al richin nrojqaj.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } xuq'ät jun ajkriptomin pa re ruxaq re'
+cfr-doorhanger-cryptominers-description = Nïm ri awichinanem. { -brand-short-name } wakami yeruq'ät ri ajkriptomin, nikokisaj ruchuqa' rukematz'ib'il aq'inoj richin nrelesaj kematz'ib'il pwäq.
