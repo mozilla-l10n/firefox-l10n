@@ -4,7 +4,7 @@
 
 blocklist-window =
     .title = Dapeuta Tham
-    .style = lèbaa: 55em
+    .style = width: 55em
 blocklist-desc = Droeneuh jeuet neupiléh dapeuta töh { -brand-short-name } keu neungui keu neutheun bagian Wèb nyang mungkén jiseutöt peue nyang neupubuet bak internet.
 blocklist-close-key =
     .key = w

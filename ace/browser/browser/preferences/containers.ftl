@@ -4,12 +4,12 @@
 
 containers-window-new =
     .title = Tamah Kontèner Barô
-    .style = luwah: 45em
+    .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update =
     .title = { $name } Prèfèrènsi Kontèner
-    .style = luwah: 45em
+    .style = width: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
@@ -21,7 +21,7 @@ containers-window-close =
 # Using this term and referencing it in the `.style` attribute
 # of the three messages ensures that all three labels
 # will be aligned correctly.
--containers-labels-style = min-luwah: 4rem
+-containers-labels-style = min-width: 4rem
 containers-name-label = Nan
     .accesskey = N
     .style = { -containers-labels-style }

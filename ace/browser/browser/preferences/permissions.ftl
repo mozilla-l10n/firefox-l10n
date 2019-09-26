@@ -4,7 +4,7 @@
 
 permissions-window =
     .title = Keucuwali
-    .style = luwah: 45em
+    .style = width: 45em
 permissions-close-key =
     .key = w
 permissions-address = Alamat situihwèb

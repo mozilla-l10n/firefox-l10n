@@ -4,7 +4,7 @@
 
 webpage-languages-window =
     .title = Setel basa laman web
-    .style = luah: 40em
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = Ônwèb nyoë meujan-jan dipeutaba leubèh dari saboh basa. Piléh basa untôk peuleumah nibak ônwèb nyoë, nyang meu-urôt seusuwai deungon préfèren

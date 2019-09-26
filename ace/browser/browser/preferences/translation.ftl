@@ -4,7 +4,7 @@
 
 translation-window =
     .title = Keucuwali - Teujeumah
-    .style = luwah: 36em
+    .style = width: 36em
 translation-close-key =
     .key = w
 translation-languages-disabled-desc = Teujeumah han jipeutaba keu bhasa-bhasa di miyub nyoe
