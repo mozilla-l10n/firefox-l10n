@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Tạo một nhiệm vụ mới" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Nhiệm vụ" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Hiện các nhiệm vụ đã hoàn tất">
 
 <!ENTITY calendar.today.button.label          "Hôm nay">
@@ -328,8 +329,8 @@
 <!ENTITY calendar.alarm.snoozefor.label             "Tạm im trong" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "Tạm im Tất cả trong" >
 <!ENTITY calendar.alarm.title.label                 "Chuông báo Lịch" >
-<!ENTITY calendar.alarm.dismiss.label               "Mặc kệ" >
-<!ENTITY calendar.alarm.dismissall.label            "Mặc kệ Tất cả" >
+<!ENTITY calendar.alarm.dismiss.label               "Bỏ qua" >
+<!ENTITY calendar.alarm.dismissall.label            "Bỏ qua tất cả" >
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 Phút" >
 <!ENTITY calendar.alarm.snooze.10minutes.label      "10 Phút" >
