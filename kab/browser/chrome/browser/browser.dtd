@@ -168,6 +168,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.turnOnSync.label "Rmed &syncBrand.shortName.label;">
 
 <!ENTITY fxa.menu.account.label "Amiḍan">
+<!ENTITY fxa.menu.settings.label "Iɣewwaṛen">
+<!ENTITY fxa.menu.accountSettings.label "Iɣewwaṛen n umiḍan">
+<!ENTITY fxa.menu.signOut.label "Ffeɣ…">
 <!ENTITY fxa.menu.deviceSettings.label "Iɣewwaṛen n yibenk">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
