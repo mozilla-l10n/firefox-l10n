@@ -27,9 +27,9 @@
 <!ENTITY firstrun_sync_subtext2 "Gebruik Sync om de bladwijzers, wachtwoorden en andere dingen die u in &brandShortName; op al uw apparaten opslaat te vinden.">
 <!ENTITY newfirstrun_sync_subtext "Synchroniseer de dingen die u op mobiel opslaat naar Firefox voor desktop, privé en veilig.">
 <!ENTITY updatednewfirstrun_sync_subtext "Meld u aan bij uw account om het meeste uit &brandShortName; te halen">
+<!ENTITY firstrun_signin_message "Maak verbinding en begin">
 <!ENTITY firstrun_sendtab_title "Tabblad verzenden">
 <!ENTITY firstrun_sendtab_message "Deel tabbladen van mobiel naar desktop – onmiddellijk.">
-<!ENTITY firstrun_signin_message "Maak verbinding en begin">
 <!ENTITY firstrun_signin_button "Aanmelden bij Sync">
 <!ENTITY newfirstrun_signin_button "Sync inschakelen">
 <!ENTITY updatednewfirstrun_signin_button "Aanmelden bij &brandShortName;">
@@ -38,8 +38,6 @@
 <!ENTITY firstrun_button_next "Volgende">
 
 <!ENTITY firstrun_signin_button2 "Aanmelden">
-
-<!ENTITY firstrun_signup_button "Registreren">
 
 <!ENTITY firstrun_tabqueue_title "Koppelingen">
 
@@ -51,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "U">
 <!ENTITY firstrun_account_message "Hebt u &brandShortName; op een ander apparaat?">
+
+<!ENTITY firstrun_signup_button "Registreren">
 
 <!ENTITY  onboard_start_restricted1 "Blijf veilig en in controle met deze vereenvoudigde versie van &brandShortName;.">
 
@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Delen">
 <!ENTITY share_title "Delen via">
 <!ENTITY share_image_failed "Kan deze afbeelding niet delen">
+<!ENTITY share_error_toast_message "Kan niet met de aangegeven app delen">
 <!ENTITY save_as_pdf "Opslaan als PDF">
 <!ENTITY print "Afdrukken">
 <!ENTITY view_page_source "Paginabron bekijken">
@@ -695,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "U bent verbonden met">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
