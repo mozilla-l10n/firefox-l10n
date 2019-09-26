@@ -7,5 +7,5 @@ fxa-disconnect-dialog =
     .style = max-width: 400px
     .buttonlabelaccept = I-disconnect
     .buttonaccesskeyaccept = D
-disconnect-account = { -brand-short-name } will disconnect from your account but won’t delete any of your browsing data on this device.
-disconnect-sync = { -brand-short-name } will stop syncing your account but won’t delete any of your browsing data on this device.
+disconnect-account = Magdi-disconnect ang { -brand-short-name } sa account mo pero hindi nito buburahin ang kahit anong browsing data sa device na ito.
+disconnect-sync = Hindi na magsi-sync ang { -brand-short-name } sa account mo pero hindi nito buburahin ang kahit anong browsing data sa device na ito.
