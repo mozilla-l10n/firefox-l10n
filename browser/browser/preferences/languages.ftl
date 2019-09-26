@@ -4,7 +4,7 @@
 
 webpage-languages-window =
     .title = ওয়েবপেজ ভাষা সেটিং
-    .style = প্রস্থ: 40em
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-description = অনেক ক্ষেত্রে ওয়েবপেজ একাধিক ভাষা সমর্থন করে। আপনার পছন্দ অনুসারে, ওয়েবপেজ প্রদর্শনের ভাষা নির্বাচন করুন
@@ -40,7 +40,7 @@ languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window =
     .title = { -brand-short-name } ভাষা সেটিং
-    .style = প্রস্থ: 40em
+    .style = width: 40em
 browser-languages-description = { -brand-short-name } প্রথম ভাষাকে আপনার ডিফল্ট ভাষা হিসেবে প্রদর্শন করবে এবং বিকল্প ভাষাগুলো প্রয়োজন অনুযায়ী তাদের আবির্ভাবের ক্রমানুসারে প্রদর্শন করবে।
 browser-languages-search = আরও ভাষার জন্য অনুসন্ধান করুন...
 browser-languages-searching =
