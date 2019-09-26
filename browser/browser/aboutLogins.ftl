@@ -66,6 +66,9 @@ login-list-item-subtitle-missing-username = (بدون نام‌کاربری)
 
 login-intro-heading = دنبال اطلاعات ورود خود می‌گردید؟ { -sync-brand-short-name } را تنظیم کنید.
 login-intro-description = اگر شما ورودتون به{ -brand-product-name } را بر روی دستگاه دیگری ذخیره کرده‌اید،‌ به این شکل بدستشون بیارید:
+login-intro-instruction-fxa = { -fxaccount-brand-name } خود را ایجاد کنید یا بر روی دستگاهی که ورود های خود راثبت کرده اید به این حساب وارد شوید.
+login-intro-instruction-fxa-settings = مطمئن شوید که جعبه ورود در تنظیمات { -sync-brand-short-name } را انتخاب کرده اید.
+about-logins-intro-instruction-help = برای دریافت کمک بیشتری یا پشتیبانی به  <a data-l10n-name="help-link">{ -lockwise-brand-short-name }پشتیبانی</a> مراجعه کنید
 
 ## Login
 
