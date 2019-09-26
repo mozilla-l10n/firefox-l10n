@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 synced-tabs-sidebar-title = Synchronizované panely
-synced-tabs-sidebar-noclients-subtitle = Chcete zde vidět vaše panely z ostatních zařízení?
+synced-tabs-sidebar-noclients-subtitle = Chcete zde vidět své panely z ostatních zařízení?
 synced-tabs-sidebar-notsignedin = Pro zobrazení seznamu panelů z vašich ostatních zařízení se prosím přihlaste.
 synced-tabs-sidebar-unverified = Je potřeba ověřit váš účet.
 synced-tabs-sidebar-notabs = Žádné otevřené panely

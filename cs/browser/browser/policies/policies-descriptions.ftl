@@ -55,7 +55,7 @@ policy-EnableTrackingProtection = Zapnutí nebo vypnutí blokování obsahu a p�
 policy-Extensions = Instalace, odinstalace a uzamčení rozšíření. Pro instalaci je potřeba jako parametr zadat URL adresy nebo cesty. Pro odinstalaci nebo uzamčení ID rozšíření.
 policy-ExtensionSettings = Správa všech aspektů instalace rozšíření.
 policy-ExtensionUpdate = Vypnutí nebo zapnutí automatických aktualizací rozšíření.
-policy-FirefoxHome = Nastavení domovské stránky Firefoxu.
+policy-FirefoxHome = Nastavení domovské stránky prohlížeče.
 policy-FlashPlugin = Povolení nebo zablokování zásuvného modulu Flash.
 policy-HardwareAcceleration = Hodnota false vypne použití hardwarové akcelerace.
 # “lock” means that the user won’t be able to change this setting
