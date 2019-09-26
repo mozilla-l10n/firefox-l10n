@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Rucholob'al cha'osamaj">
 <!ENTITY menubarCmd.accesskey "c">
 <!ENTITY navbarCmd.label "Rukajtz'ik okem pa k'amaya'l">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Okem pa k'amaya'l">
 <!ENTITY personalbarCmd.label "Kicholob'al taq kisamajib'al taq yaketal">
 <!ENTITY personalbarCmd.accesskey "K">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Yaketal">
 <!ENTITY bookmarksToolbarItem.label "Ruch'akulal taq kiyaketal cholsamajib'äl">
 
 <!ENTITY pageSourceCmd.label "Runuk' rutz'ib' re ruxaq re'">
 <!ENTITY pageSourceCmd.accesskey "n">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Rutzijol rij re jun ruxaq re'">
 <!ENTITY pageInfoCmd.accesskey "R">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Ruchojmirisanel Wachib'enïk">
 <!ENTITY ldbCmd.accesskey "W">
@@ -116,6 +126,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Tok chik pam &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Tanik'oj ri ataqoya'l">
 
+
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Ch'utinarisaxïk">
 <!ENTITY fullScreenRestore.tooltip "Titzolïx">
@@ -145,14 +158,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Okisan achi'el">
 <!ENTITY fxa.menu.manageAccount.label "Tinuk'samajïx Rub'i' Taqoya'l…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Kinuk'ulem…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Tokisäx Jun Chik Okisaxel…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Titikirisäx molojri'ïl pa &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Titzij pa &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Rub'i' taqoya'l">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; taq Samaj">
+
+<!ENTITY fxa.menu.account.label "Rub'i' taqoya'l">
+<!ENTITY fxa.menu.settings.label "Taq nuk'ulem">
+<!ENTITY fxa.menu.accountSettings.label "Kinuk'ulem Rub'i' Taqoya'l">
+<!ENTITY fxa.menu.signOut.label "Titz'apïx Molojri'ïl…">
+<!ENTITY fxa.menu.deviceSettings.label "Runuk'ulem okisaxel">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -195,6 +217,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Yaketal">
 <!ENTITY bookmarksMenu.accesskey "y">
+
 <!ENTITY bookmarkThisPageCmd.label "Titz'aqatisäx re ruxaq re' pa taq yaketal">
 <!ENTITY editThisBookmarkCmd.label "Tinuk' re yaketal re'">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -236,6 +259,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Tinuk'samajïx rokisaxik nak'ab'äl">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Tijalwachïx we yatikïr ye'ak'ül taq rutzijol re ruxaq k'amaya'l re'">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Keyak taq tzij pa Jutaqil Yakoj">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Ri Okik'amaya'l k'o pa ruq'a' ri näj chajinïk">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Tijaq ri Ajk'amaya'l Juxunem pas">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Tijaq ri kipas kiya'oj q'ij taq rusamaj okem pa k'amaya'l">
@@ -249,6 +273,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Tinuk'samajïx rutzalq'omaxik re ruxaq k'amaya'l">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Tinuk'samajïx rokisaxik DRM kema'">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Tijaq MIDI pas">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Xaya' ruwi' ya'oj q'ij chi re re ajk'amaya'l ruxaq re'.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Xq'at ri elesäy ruwachib'al re ruxaq k'amaya'l re'.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Xq'at ri q'asäy ach'ab'äl pa re ruxaq k'amaya'l re'.">
@@ -420,8 +446,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿La nawajo' ye'atz'ët wawe' ri taq ruwi' ch'aqa' chik taq okisaxel?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Kejaq Kajowab'äl Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Tatikirisaj molojri'ïl richin nitz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Titz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.">
 <!ENTITY appMenuRemoteTabs.unverified.label "K'atzinel nijikib'äx ri rub'i' ataqoya'l.">
 <!ENTITY appMenuRemoteTabs.signin.label "Tatikirisaj molojri'ïl pa Ximojri'ïl">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Tatz'ib'aj ab'i' pa &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Tokisäx pa &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Kenuk'samajïx taq okisaxel…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ketz'et ximïl taq ruwi' pa ajxikin kajtz'ik">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Tewüx Ximïl taq Ruwi' pan Ajxikin Kajtz'ik">
@@ -509,6 +538,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Tikanöx k'ulb'enïk">
+
 <!ENTITY contentSearchSubmit.tooltip  "Titaq el ri xkanöx">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -813,13 +843,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Okem">
 <!ENTITY identity.connectionSecure "Ütz Okem">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Rujikomal Okem">
-
-<!ENTITY identity.connectionSecure2 "Rujikomal Okem">
 <!ENTITY identity.connectionNotSecure "Itzel chi Okem">
+
+<!ENTITY identity.connectionSecure3 "Rujikomal okem">
+<!ENTITY identity.connectionNotSecure2 "Man ütz ta okem">
 <!ENTITY identity.connectionNotSecureSecurityView "Man ütz ta ri awokem pa re ruxaq k'amaya'l re'.">
 <!ENTITY identity.connectionFile "Re ruxaq k'amaya'l re' yakon pan akematz'ib'.">
 <!ENTITY identity.connectionVerified2 "Ütz ri awokem pa re ruxaq k'amaya'l re', samajib'en ruma:">
@@ -830,7 +857,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.customRoot "Xjikib'äx ri okem ruma ya'öl iqitzijib'äl, ri man retaman ta ruwäch ri Mozilla.
 ">
 
-<!ENTITY identity.evOwnerLabel "Ri rajaw ruxaq re':">
+<!ENTITY identity.evOwnerLabel2 "Iqitzijib'äl talun richin:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; xeruq'ät ri itzel taq ruperaj re ruxaq re'.">
@@ -866,8 +893,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Taq ya'oj q'ij">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Kinuk'ulem taq Ya'oj Q'ij">
+<!ENTITY identity.permissions3 "Taq ya'oj q'ij">
 <!ENTITY identity.permissionsEmpty "Majun chi ya'oj q'ij ya'on chawe' pa re ruxaq k'amaya'l re'.">
 <!ENTITY identity.permissionsReloadHint "Rik'in jub'a' k'o chi yatok chik pa ruxaq richin yesamäj ri taq k'exoj.">
 <!ENTITY identity.permissionsPreferences.tooltip "Kejaq Taq Rajowaxik Ya'oj Q'ij">
@@ -880,7 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Ch'aqa' chik etamab'äl chi rij ri Utzirisan Ruchajinik Ojqanem">
 <!ENTITY protections.settings.label "Runuk'ulem Ojqanem">
-<!ENTITY protections.report.label "Tik'ut Chijun Rutzijol">
+<!ENTITY protections.showreport.label "Tik'ut Rutzijol">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -897,15 +923,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Taq Tojïk">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Taq tzijol">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Taq Silowäch">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "¿La k'a man nisamäj ta ri ruxaq chi rij toq xechup ri taq ojqanem?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Titaq jun rutzijol">
 
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Q'aton">
 <!ENTITY protections.notBlocking2.label "Ya'on q'ij">
+<!ENTITY protections.notFound.label "Man Xilitäj Ta">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "¿Achike ruma?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Toq niq'at re re' nitikïr yerutz'ila' taq kich'akulal jujun ajk'amaya'l ruxaq. We majun ojqanela' jujun taq pitz'b'äl, taq nojwuj chuqa' taq ruk'ojlib'al rutikirib'al molojri'ïl rik'in jub'a' man ütz ta yesamäj.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Yechup ri taq chajinem xkerutzïj ronojel ri rojqanela' re ruxaq re'. Chuqa' nitikïr nrutzilaj rusamaj.">
-<!ENTITY protections.notFound.label "Man Xilitäj Ta">
 <!ENTITY protections.socialMediaTrackers.label "Kojqanela' aj Winäq K'amab'ey">
 <!ENTITY protections.crossSiteTrackingCookies.label "Kikuki Rojqanela' Xoch'in taq Ruxaq">
 <!ENTITY protections.trackingContent.label "Rojqanem Rupam">
@@ -916,7 +950,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Re taq kuki re' yatkitzeqelb'ej pa taq ruxaq richin nikimöl taq tzij chi rij ri nab'än pa k'amab'ey. Yekijikib'a' aj rox winäq achi'el tzijonela' chuqa' ch'onel taq k'ayinela'.">
 <!ENTITY protections.cryptominers.description "Ri ajkriptom nikokisaj ruchuqa' ruq'inoj akematz'ib' richin nikelesaj kematz'ib'il pwäq. Ri kicholajem taq skrip nikiqasaj ruchuq'a' ri awateriya, eqal nikib'än chi re ri akematz'ib' chuqa' nitikïr nujotob'a' rajil ruwujil asaqil.">
 <!ENTITY protections.fingerprinters.description "Ri b'anöy ruwi' q'ab'aj nikimöl runuk'ulem awokik'amaya'l chuqa' akematz'ib' richin nikitz'ük jun ruwäch ab'i'. Toq nikokisaj re retal ruwi' q'ab'aj, yetikïr yatkojqaj rik'in jalajoj taq ajk'amaya'l ruxaq.">
-<!ENTITY protections.trackingContent.description "Ri ajk'amaya'l ruxaq yetikïr yekijotob'a' taq eltzijol, taq silowäch chuqa' ch'aqa' chik taq wachinäq kik'wan rub'itz'ib' ojqanem. Toq yeq'at kojqanem rupam, nito'on chi anin yesamäj ri taq ruxaq, xa xe chi jujun taq pitz'ib'äl, taq nojwuj chuqa' taq k'ojlib'äl rik'in jub'a' man ütz ta yesamäj.">
+<!ENTITY protections.trackingContent2.description "Ri ajk'amaya'l ruxaq yetikïr yekijotob'a' taq eltzijol, taq silowäch chuqa' ch'aqa' chik taq rupam rik'in rub'itz'ib' ojqanem. Toq yeq'at kojqanem rupam, nito'on chi anin yesamäj ri taq ruxaq, xa xe chi jujun taq pitz'ib'äl, taq nojwuj chuqa' taq k'ojlib'äl rik'in jub'a' man ütz ta yesamäj.">
 <!ENTITY protections.socialMediaTrackers.description "Ri aj winäq taq k'amab'ey yekiya' taq ojqanela' pa ch'aqa' chik taq ajk'amaya'l ruxaq richin nikojqaj ri nasamajij, natz'ët chuqa' natzu' pan k'amab'ey. Ri nuya' q'ij chi ke ri ajk'ayij taq moloj richin aj winäq k'amab'ey, niketamaj chawij, man xa xe ta ri nakomonij pa ri ruwäch ab'i' richin aj winäq k'amab'ey.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -956,18 +990,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Ojqanela'">
 
 <!ENTITY contentBlocking.manageSettings.label "Tinuk'samajïx Ruq'atik Rupam">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Rojqanem Rupam">
-
-<!ENTITY contentBlocking.manageSettings2.label "Runuk'samajel Runuk'ulem Ojqanem">
 <!ENTITY contentBlocking.manageSettings.accesskey "T">
 
 <!ENTITY contentBlocking.trackersView.label "Ojqanela'">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Richin yeq'at ri ojqanela', tib'an runuk'ulem ruq'atik rupam pa  “Nimaläj”.">
 
 <!ENTITY contentBlocking.cookies.label "Taq kuki">
 <!ENTITY contentBlocking.cookiesView.label "Taq Kuki chuqa' Rutzij Ruxaq">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Rojqanem Rupam">
+
+<!ENTITY contentBlocking.manageSettings2.label "Runuk'samajel Runuk'ulem Ojqanem">
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Kojqanela' aj Winäq K'amab'ey">
 
@@ -983,6 +1017,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Tiya' Kitzijol K'ayewal">
 <!ENTITY contentBlocking.breakageReportView2.description "Kiq'atik rupam nitikïr nuya' k'ayewal pa jujun ajk'amaya'l ruxaq. Toq naya' kitzijol k'ayewal, yato'on chi ri &brandShortName; ütz nub'än chi qawäch qonojel. (Re re' xtutäq ri URL chuqa' ri etamab'äl chi rij ri runuk'ulem ri okik'amaya'l chi re ri Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Tetamäx Ch'aqa' Chik">
+
 <!ENTITY contentBlocking.breakageReportView.title "Tiya' Rutzijol jun Ruxaq Man Nisamäj ta">
 <!ENTITY contentBlocking.breakageReportView3.description "Toq yeq'at jujun taq ojqanela' nitikïr nuya' k'ayewal pa jujun ajk'amaya'l ruxaq. Toq naya' kitzijol k'ayewal, yato'on chi ri &brandShortName; ütz nub'än chi qawäch qonojel. Toq natäq re rutzijol, xtitaq pa jun URL chuqa' ri etamab'äl chi rij ri runuk'ulem ri awokik'amaya'l chi re ri Mozilla.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Tetamäx ch'aqa' chik">
@@ -1038,6 +1073,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "T">
 
 <!ENTITY homepageControlled.message "Jun k'amal xujäl ri ruxaq natz'ët achi'el tikirib'äl ruxaq. Yatikïr natzolij ri taq anuk'ulem we man niqa ta chawäch re jaloj re'.">
+
 <!ENTITY homepageControlled.header.message "Xajäl ri tikirib'äl ruxaq.">
 <!ENTITY homepageControlled.keepButton.label "Kek'oje' na ri taq Jaloj">
 <!ENTITY homepageControlled.keepButton.accesskey "K">

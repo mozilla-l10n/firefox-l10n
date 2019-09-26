@@ -69,6 +69,10 @@ serviceworker-empty-suggestions-debugger = Tatz'eta' rutz'ib'axik ri Service Wor
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Ke'anik'oj ri Service Workers kichin ch'aqa' chik taq ajk'amal. <a>Tijaq about:debugging</a>
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = B'anikil
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Taq wachib'äl
 # Text displayed while we are loading the manifest file
 manifest-loading = Rujotob'axik tzijoxïk...
 # Text displayed when the manifest has been successfully loaded

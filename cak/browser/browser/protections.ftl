@@ -74,6 +74,30 @@ monitor-header-content-no-account = Tanik'oj { -monitor-brand-name } richin natz
 monitor-header-content-signed-in = { -monitor-brand-name } nuya' rutzijol chawe toq ri awetamab'al k'o pa jun rutz'ilanem tzij etaman ruwäch.
 monitor-sign-up = Tatz'ib'aj awi' richin Ye'ak'ül Kitzijol K'ayewal
 auto-scan = Ruyonil nitz'ajwachib'ëx wakami
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Rochochib'al taqoya'l ninik'öx.
+       *[other] Taq rochochib'al taqoya'l yenik'öx.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Tz'ilanem tzij etaman ruwäch, xuk'üt ri awetamab'al.
+       *[other] Taq tz'ilanem tzij etaman kiwäch, xkik'üt ri awetamab'al.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Ewan tzij k'utun pa ronojel taq tz'ilanem
+       *[other] Ewan taq tzij ek'utun pa ronojel taq tz'ilanem
+    }
 full-report-link = Titz'et chijun rutzijol pa <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to

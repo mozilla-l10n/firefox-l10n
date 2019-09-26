@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Tetamäx ch'aqa' chik
 accessibility-text-label-header = Ketal taq Tz'ib'anïk chuqa' taq B'i'aj
+accessibility-keyboard-header = Pitz'ib'äl
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -41,3 +42,9 @@ accessibility-text-label-issue-interactive = K'o chi k'o ketal ri silonel taq wa
 accessibility-text-label-issue-optgroup-label = Tokisäx <code>label</code> b'anikil richin niya' ketal <span>optgroup</span> taq wachinäq. <a>Tetamäx ch'aqa' chik</a>
 accessibility-text-label-issue-optgroup-label2 = Tokisäx jun <code>label</code> b'anikil richin niya' retal jun <span>optgroup</span>. <a>Tetamäx ch'aqa' chik</a>
 accessibility-text-label-issue-toolbar = K'o chi k'o ketal ri kikajtz'ik samajib'äl toq man xa xe ta jun. <a>Tetamäx ch'aqa' chik</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
+accessibility-keyboard-issue-focusable = K'o chi ya'on ketal ri silonel taq wachinäq. <a>Tetamäx ch'aqa' chik</a>
