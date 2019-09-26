@@ -297,6 +297,10 @@ install-theme-button = Tiyak Wachinel
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Tinuk'samajïx
 find-more-addons = Kekanöx ch'aqa' chik taq tz'aqat
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Ch'aqa' chik taq Cha'oj
 
 ## Add-on actions
 
@@ -367,6 +371,11 @@ install-update-button = Tik'ex
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Tiya' q'ij pa taq ichinan tzuwäch
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Tiya' q'ij pa taq ichinan tzuwäch
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Toq tzij, ri k'amal pa ronojel samaj xtok wi toq atokinäq pa k'amaya'l pan ichinan rub'anikil. <a data-l10n-name="learn-more">Tetamäx ch'aqa' chik</a>
 addon-detail-private-browsing-allow = Tiya' q'ij
 addon-detail-private-browsing-disallow = Man Tiya' Q'ij
