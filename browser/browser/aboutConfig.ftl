@@ -10,6 +10,15 @@ about-config-warning-button = Acetto o reizego
 about-config2-title = Configuraçioin avansæ
 about-config-search-input =
     .placeholder = Çerca
+
+## These strings appear on the warning you see when first visiting about:config.
+
+
+
+
+about-config-page-title = Preferense avansæ
+about-config-search-input1 =
+    .placeholder = Çerca nomme preferensa
 about-config-show-all = Fanni vedde tutto
 about-config-pref-add = Azonzi
 about-config-pref-toggle = Cangia
