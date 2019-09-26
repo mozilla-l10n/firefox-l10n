@@ -113,6 +113,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenti
 safe-mode-title = Pokušaj siguran način rada
 restart-in-safe-mode-label = Ponovno pokreni s isključenim dodacima…
+
+## Media titles
+
+audio-backend = Audio pozadina
+max-audio-channels = Maksimalno kanala
+channel-layout = Željeni raspored kanala
+sample-rate = Željena učestalost uzorka
 media-title = Medij
 media-output-devices-title = Izlazni uređaji
 media-input-devices-title = Ulazni uređaji
@@ -125,6 +132,10 @@ media-device-format = Oblik
 media-device-channels = Kanali
 media-device-rate = Stopa
 media-device-latency = Latencija
+media-capabilities-title = Mogućnosti medija
+
+
+
 intl-title = Internacionalizacija i lokalizacija
 intl-app-title = Postavke aplikacije
 intl-locales-requested = Traženi jezici
@@ -245,10 +256,6 @@ content-uses-tiling = Koristi sličice (sadržaj)
 off-main-thread-paint-enabled = Omogućeno iscrtavanje izvan glavnog procesa
 off-main-thread-paint-worker-count = Broj radnika za iscrtavanje izvan glavnog procesa
 target-frame-rate = Ciljani broj sličica
-audio-backend = Audio pozadina
-max-audio-channels = Maksimalno kanala
-channel-layout = Željeni raspored kanala
-sample-rate = Željena učestalost uzorka
 min-lib-versions = Očekivana najmanja inačica
 loaded-lib-versions = Korištena inačica
 has-seccomp-bpf = Seccomp-BPF (filtriranje sistemskih poziva)
