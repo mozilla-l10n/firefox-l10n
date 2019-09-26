@@ -33,6 +33,7 @@ printpreview-of =
     .value = od
 printpreview-custom-prompt =
     .value = Prilagođen omjer...
+printpreview-custom-scale-prompt-title = Prilagođen omjer
 printpreview-page-setup =
     .label = Postavke stranice...
     .accesskey = s

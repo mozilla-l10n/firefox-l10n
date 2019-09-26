@@ -98,9 +98,11 @@ detail-private-browsing-description2 = Kada je omogućeno, dodatak će imati pri
 # cannot be overridden by the user.
 detail-private-disallowed-label = Nije dopušteno u privatnim prozorima
 detail-private-disallowed-description = Ovaj dodatak se ne pokreće dok privatno pretražujete. <label data-l10n-name="detail-private-browsing-learn-more">Saznajte više</label>
+detail-private-disallowed-description2 = Ovaj dodatak se ne pokreće tijekom privatnog pregledavanja. <a data-l10n-name="learn-more">Saznaj više</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Zahtjeva pristup u privatnim prozorima
 detail-private-required-description = Ovaj dodatak ima pristup vašoj aktivnosti dok privatno pretražujete. <label data-l10n-name="detail-private-browsing-learn-more">Saznajte više</label>
+detail-private-required-description2 = Ovo proširenje ima pristup vašim internetskim aktivnostima tijekom privatnog pregledavanja. <a data-l10n-name="learn-more">Saznaj više</a>
 detail-private-browsing-on =
     .label = Dozvoli
     .tooltiptext = Omogući u privatnom pretraživanju
@@ -278,7 +280,7 @@ discopane-intro =
     za dodatnu sigurnost, perfomanse i funkcionalnost.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
-    Nekki prijedlozi su personalizirani. Bazirani su na drugim dodacima koje
+    Neki prijedlozi su personalizirani. Bazirani su na drugim dodacima koje
     ste već instalirali, postavkama profila ili statistici korištenja.
 discopane-notice-learn-more = Saznajte više
 privacy-policy = Politika privatnosti
@@ -296,6 +298,10 @@ install-theme-button = Instaliraj temu
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Upravljanje
 find-more-addons = Pronađite više dodataka
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Više mogućnosti
 
 ## Add-on actions
 
@@ -367,6 +373,11 @@ install-update-button = Ažuriraj
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Dopušteno u privatnim prozorima
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Dopušteno u privatnim prozorima
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Kada je dopušteno, dodatak će imati pristup vašoj aktivnosti na mreži dok ste u načinu privatnog pretraživanja. <a data-l10n-name="learn-more">Saznajte više</a>
 addon-detail-private-browsing-allow = Dozvoli
 addon-detail-private-browsing-disallow = Nemoj dozvoliti
@@ -375,6 +386,11 @@ addon-detail-private-browsing-disallow = Nemoj dozvoliti
 addon-badge-recommended =
     .title = Preporučeno
     .alt = Preporučeno
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } preporuča samo proširenja, koja udovoljavaju našim standardima za sigurnost i performanse
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Dostupne dopune
 recent-updates-heading = Nedavne dopune
 release-notes-loading = Učitavanje…
