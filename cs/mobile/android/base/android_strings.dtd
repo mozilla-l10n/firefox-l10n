@@ -23,20 +23,21 @@
 <!ENTITY firstrun_sync_title "Synchronizace">
 <!ENTITY updatednewfirstrun_sync_title "Účet">
 <!ENTITY firstrun_sync_message2 "Pokračujte tam, kde jste skončili.">
+<!ENTITY firstrun_sync_message3 "Synchronizujte své záložky, historii prohlížení a hesla na svém telefonu.">
 <!ENTITY firstrun_sync_subtext2 "Používejte Sync k nalezení záložek, hesel a dalších věcí uložených v aplikaci &brandShortName; na všech vašich zařízeních.">
 <!ENTITY newfirstrun_sync_subtext "Synchronizujte věci, které ukládáte na mobilu, s Firefoxem pro počítač – soukromě a bezpečně.">
 <!ENTITY updatednewfirstrun_sync_subtext "Přihlaste se ke svému účtu a využijte aplikace &brandShortName; naplno">
 <!ENTITY firstrun_signin_message "Připojte se a začněte">
+<!ENTITY firstrun_sendtab_title "Posílání panelů">
+<!ENTITY firstrun_sendtab_message "Sdílejte své panely mezi svým mobilem a počítačem.">
 <!ENTITY firstrun_signin_button "Přihlásit se ke službě Sync">
 <!ENTITY newfirstrun_signin_button "Zapnout synchronizaci">
 <!ENTITY updatednewfirstrun_signin_button "Přihlaste se do aplikace &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Začít prohlížet">
+<!ENTITY onboard_start_button_browser "Začít prohlížet">
 <!ENTITY firstrun_button_notnow "Nyní ne">
 <!ENTITY firstrun_button_next "Další">
 
 <!ENTITY firstrun_signin_button2 "Přihlásit se">
-
-<!ENTITY firstrun_signup_button "Přihlásit se">
 
 <!ENTITY firstrun_tabqueue_title "Odkazy">
 
@@ -48,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Vy">
 <!ENTITY firstrun_account_message "Máte &brandShortName; i na dalším zařízení?">
+
+<!ENTITY firstrun_signup_button "Přihlásit se">
 
 <!ENTITY  onboard_start_restricted1 "Zůstaňte v bezpečí a mějte kontrolu s touto zjednodušenou verzí aplikace &brandShortName;.">
 
@@ -499,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Sdílet">
 <!ENTITY share_title "Sdílet pomocí">
 <!ENTITY share_image_failed "Obrázek se nepodařilo sdílet">
+<!ENTITY share_error_toast_message "Do této aplikace nelze sdílet">
 <!ENTITY save_as_pdf "Uložit jako PDF">
 <!ENTITY print "Tisk">
 <!ENTITY view_page_source "Zobrazit zdrojový kód stránky">
@@ -692,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Jste připojeni k">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
