@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sync-disconnect-dialog =
-    .title = { -sync-brand-short-name } විසන්ධි කරන්නද?
-    .style = පළල: 36em; අවම උස: 35em;
+    .title = 363636{ -sync-brand-short-name } විසන්ධි කරන්නද?
+    .style = width: 36em; min-height: 35em;
 sync-disconnect-heading = තවද ඔබට මෙම පරිගණකය මත ගවේෂක දත්ත ඉවත් කිරීමටද අවශ්‍යද? කෙසේ වුවත් ඔබේ { -sync-brand-name } දත්ත ඔබේ ගිණුම තුළ පවතිනු ඇත.
 sync-disconnect-remove-sync-caption = { -sync-brand-name } දත්ත ඉවත් කරන්න
 sync-disconnect-remove-sync-data = පිටු සළකුනු, ඉතිහාසය, මුරපද ආදිය.
