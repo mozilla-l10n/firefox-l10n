@@ -2,8 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Estenscioin consegiæ
 cfr-doorhanger-pintab-heading = Prova quésto: aponta sto feuggio
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Perché mi veddo questo?
 cfr-doorhanger-extension-cancel-button = Òua no
@@ -58,3 +64,31 @@ cfr-doorhanger-pintab-animation-resume = Repiggia
 
 cfr-doorhanger-bookmark-fxa-header = Sincronizza i teu segnalibbri dapertùtto.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronizza i segnalibbri òua…
+
+## Protections panel
+
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Cöse gh'é de neuvo
+    .tooltiptext = Cöse gh'é de neuvo
+cfr-whatsnew-panel-header = Cöse gh'é de neuvo
+cfr-whatsnew-release-notes-link-text = Lezi e nòtte de version
+
+## Bookmark Sync
+
+
+## Login Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-close-button = Særa
+    .accesskey = S

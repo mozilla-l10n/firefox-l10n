@@ -47,6 +47,9 @@ newtab-topsites-add-button = Azonzi
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Te seguo de scancelâ tutte e ripetiçioin de sta pagina da stöia?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Sta açion a no se peu anulâ.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Azonzi a-i segnalibbri
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Còpia indirisso òrigine
 newtab-menu-go-to-download-page = Vanni a-a pagina de descaregamento
 newtab-menu-remove-download = Scancella da-a stöia
@@ -116,6 +123,10 @@ newtab-label-download = Descaregou
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Scancella seçion
 newtab-section-menu-collapse-section = Conprimmi seçion
 newtab-section-menu-expand-section = Espandi seçion
@@ -126,6 +137,9 @@ newtab-section-menu-add-search-engine = Azonzi motô de riçerca
 newtab-section-menu-move-up = Mescia in sciù
 newtab-section-menu-move-down = Mescia in zu
 newtab-section-menu-privacy-notice = Informativa in sciâ privacy
+
+## Section aria-labels
+
 
 ## Section Headers.
 
@@ -145,6 +159,7 @@ newtab-empty-section-topstories = No gh'é atro. Contròlla ciù tardi se gh'é 
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-try-again-button = Preuva torna
 newtab-discovery-empty-section-topstories-loading = Carego…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ahime mi! Emmo squæxi caregou sta seçion ma no semmo ariescîi a caregâla tutta.

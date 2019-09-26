@@ -306,7 +306,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Contegnuo da Gestion di Diritti Digitali (DRM)
 play-drm-content =
@@ -378,6 +378,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Çerca tanto che son derê a scrive
     .accesskey = s
+browsing-picture-in-picture-learn-more = Atre informaçioin
 browsing-cfr-recommendations =
     .label = Consegime estenscioin quande navego
     .accesskey = C
@@ -774,7 +775,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizzou
     .accesskey = P
 
-##
+
 
 content-blocking-all-cookies = Tutti i cookie
 content-blocking-all-windows-trackers = Elementi che tracian conosciui in tutti i barcoin
@@ -842,6 +843,9 @@ permissions-notification-pause =
 permissions-block-autoplay-media-exceptions =
     .label = Eceçioin…
     .accesskey = E
+permissions-autoplay-settings =
+    .label = Inpostaçioin…
+    .accesskey = t
 permissions-block-popups =
     .label = Blòcca i barcoin de pop-up
     .accesskey = B
