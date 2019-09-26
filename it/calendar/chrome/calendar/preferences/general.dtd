@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Impostazioni generali" >
+
 <!ENTITY pref.dateformat.label "Formato testo data:" >
 <!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "Lungo" >
@@ -24,6 +25,9 @@
 <!ENTITY pref.default_event_length.label "Lunghezza predefinita:" >
 <!ENTITY pref.default_event_length.accesskey "L">
 
+<!ENTITY pref.default_event_task_length.label "Durata predefinita per eventi e attività">
+<!ENTITY pref.default_event_task_length.accesskey "D">
+
 <!ENTITY pref.default_task_none.label "Nessuna">
 <!ENTITY pref.default_task_start_of_day.label "Inizio giornata">
 <!ENTITY pref.default_task_end_of_day.label "Fine giornata">
@@ -34,9 +38,6 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Relativa alla prossima ora">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Pannello Oggi">
-<!ENTITY pref.soondays.label "La sezione Presto mostra:">
-<!ENTITY pref.soondays.accesskey "P">
-
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,
