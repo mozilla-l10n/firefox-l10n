@@ -4,7 +4,7 @@
 
 blocklist-window =
     .title = Liste dai blocs
-    .style = largjece: 55em
+    .style = width: 55em
 blocklist-desc = Sielç la liste par blocâ chei elements de Web che a podaressin cjatâ fûr la to ativitât di navigazion.
 blocklist-close-key =
     .key = w

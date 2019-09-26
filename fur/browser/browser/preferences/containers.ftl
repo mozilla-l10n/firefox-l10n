@@ -4,12 +4,12 @@
 
 containers-window-new =
     .title = Zonte un gnûf contignidôr
-    .style = largjece: 45em
+    .style = width: 45em
 # Variables
 #   $name (String) - Name of the container
 containers-window-update =
     .title = Preferencis dal contignidôr { $name }
-    .style = largjece: 45em
+    .style = width: 45em
 containers-window-close =
     .key = w
 # This is a term to store style to be applied
