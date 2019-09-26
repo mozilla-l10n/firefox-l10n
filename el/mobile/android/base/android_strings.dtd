@@ -27,9 +27,9 @@
 <!ENTITY firstrun_sync_subtext2 "Χρησιμοποιήστε το Sync για να βρείτε τους σελιδοδείκτες, τους κωδικούς πρόσβασης και άλλα στοιχεία που αποθηκεύετε στο &brandShortName;, σε όλες σας τις συσκευές.">
 <!ENTITY newfirstrun_sync_subtext "Συγχρονίστε τα δεδομένα που αποθηκεύετε στο κινητό με το Firefox για υπολογιστές, με ασφάλεια και απόρρητο.">
 <!ENTITY updatednewfirstrun_sync_subtext "Συνδεθείτε στο λογαριασμό σας για να αξιοποιήσετε στο έπακρο το &brandShortName;">
+<!ENTITY firstrun_signin_message "Συνδεθείτε και ξεκινήστε">
 <!ENTITY firstrun_sendtab_title "Αποστολή καρτέλας">
 <!ENTITY firstrun_sendtab_message "Αποστολή καρτελών από κινητό σε υπολογιστή — άμεσα.">
-<!ENTITY firstrun_signin_message "Συνδεθείτε και ξεκινήστε">
 <!ENTITY firstrun_signin_button "Είσοδος στο Sync">
 <!ENTITY newfirstrun_signin_button "Ενεργοποίηση Sync">
 <!ENTITY updatednewfirstrun_signin_button "Σύνδεση στο &brandShortName;">
@@ -38,8 +38,6 @@
 <!ENTITY firstrun_button_next "Επόμενο">
 
 <!ENTITY firstrun_signin_button2 "Σύνδεση">
-
-<!ENTITY firstrun_signup_button "Εγγραφή">
 
 <!ENTITY firstrun_tabqueue_title "Σύνδεσμοι">
 
@@ -51,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Εσείς">
 <!ENTITY firstrun_account_message "Έχετε το &brandShortName; σε κάποια άλλη συσκευή;">
+
+<!ENTITY firstrun_signup_button "Εγγραφή">
 
 <!ENTITY  onboard_start_restricted1 "Παραμείνετε ασφαλής και διατηρήστε τον έλεγχο με αυτή την απλοποιημένη έκδοση του &brandShortName;.">
 
@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Κοινή χρήση">
 <!ENTITY share_title "Κοινή χρήση μέσω">
 <!ENTITY share_image_failed "Δεν είναι δυνατή η κοινή χρήση αυτής της εικόνας">
+<!ENTITY share_error_toast_message "Αδυναμία κοινής χρήσης στην ενδεδειγμένη εφαρμογή">
 <!ENTITY save_as_pdf "Αποθήκευση ως PDF">
 <!ENTITY print "Εκτύπωση">
 <!ENTITY view_page_source "Προβολή πηγής σελίδας">
@@ -695,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Έχει συνδεθεί στο">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
