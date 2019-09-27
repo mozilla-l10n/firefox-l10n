@@ -28,7 +28,7 @@
 <!ENTITY firstrun_signin_button "Вписване в Sync">
 <!ENTITY newfirstrun_signin_button "Включване на Sync">
 <!ENTITY updatednewfirstrun_signin_button "Вписване в &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Започнете да разглеждате">
+<!ENTITY onboard_start_button_browser "Започнете да разглеждате">
 <!ENTITY firstrun_button_notnow "Не сега">
 <!ENTITY firstrun_button_next "Напред">
 
@@ -45,6 +45,7 @@
 <!ENTITY firstrun_account_title "Вие">
 <!ENTITY firstrun_account_message "Имате &brandShortName; на друго устройство?">
 
+
 <!ENTITY  onboard_start_restricted1 "Бъдете в безопасност и дръжте контрола с тази олекотена версия на &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -57,7 +58,7 @@
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Показване на версия извън мрежа">
 
-<!ENTITY  crash_reporter_title "&brandShortName; доклад за срив">
+<!ENTITY  crash_reporter_title "Доклад за срив на &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; се срина. След рестарта отворените раздели трябва да бъдат изброени на началната страница на &brandShortName;.">
 <!ENTITY  crash_send_report_message3 "Разкажете на &vendorShortName; за срива, така че нещата да бъдат поправени">
 <!ENTITY  crash_include_url2 "Включително адреса на посетената страница">
@@ -594,7 +595,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Адрес">
 <!ENTITY bookmark_edit_keyword "Ключова дума">
 <!ENTITY bookmark_select_folder "Избиране на папка">
-
 <!ENTITY bookmark_edit_undo "Отменяне">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -687,6 +687,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Свързани сте към">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -877,9 +878,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Отметнете статии в прегледа за четене, за да ги имате извън мрежа.">
 <!ENTITY helper_triple_readerview_open_button "Добавяне към отметките">
 
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Добре дошли при &brandShortName;">
-<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
-These labels are shown in the Activity Stream recommending the user to sign in. -->
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 
 <!ENTITY activity_stream_topsites "Често посещавани">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
