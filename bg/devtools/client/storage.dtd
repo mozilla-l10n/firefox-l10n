@@ -8,7 +8,7 @@
 <!ENTITY searchBox.placeholder         "Филтриране на елементи">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all storage items. -->
-<!ENTITY storage.popupMenu.deleteAllLabel "Изтриване на всички">
+<!ENTITY storage.popupMenu.deleteAllLabel "Премахване на всички">
 
 <!-- LOCALIZATION NOTE : Label of popup menu action to delete all session cookies. -->
 <!ENTITY storage.popupMenu.deleteAllSessionCookiesLabel "Изтриване на сесийните">

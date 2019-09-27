@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Помощ"> 
 <!ENTITY helpMenuWin.accesskey    "П">
+
 <!ENTITY aboutProduct2.label      "Относно &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "О">
 <!ENTITY productHelp2.label       "Помощ за &brandShorterName;">
@@ -50,4 +51,4 @@
 
 <!ENTITY showAllAppsCmdMac.label        "Показване на всички">
 
-<!ENTITY touchBarCmdMac.label           "Настройка на сензорния панел…">
+<!ENTITY touchBarCmdMac.label           "Настройки на лентата за докосване…">
