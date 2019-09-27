@@ -370,6 +370,11 @@ install-update-button = Uuenda
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Töötamine privaatsetes akendes
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Töötamine privaatsetes akendes on lubatud
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Lubamise korral saab laiendus ligipääsu sinu tegevusele privaatsetes akendes. <a data-l10n-name="learn-more">Rohkem teavet</a>
 addon-detail-private-browsing-allow = lubatud
 addon-detail-private-browsing-disallow = keelatud
@@ -378,6 +383,11 @@ addon-detail-private-browsing-disallow = keelatud
 addon-badge-recommended =
     .title = Soovitus
     .alt = Soovitus
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } soovitab ainult meie turvalisuse ja jõudluse standarditele vastavaid laiendusi
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Saadaolevad uuendused
 recent-updates-heading = Hiljutised uuendused
 release-notes-loading = Laadimine…
