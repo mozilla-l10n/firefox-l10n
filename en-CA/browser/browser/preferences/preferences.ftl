@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Digital Rights Management (DRM) Content
 play-drm-content =
@@ -554,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Take your Web with you
 sync-signedout-description = Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.
 sync-signedout-account-title = Connect with a { -fxaccount-brand-name }
@@ -574,11 +578,17 @@ sync-mobile-promo = Download Firefox for <img data-l10n-name="android-icon"/> <a
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Change profile picture
 sync-disconnect =
     .label = Disconnect…
     .accesskey = D
+sync-sign-out =
+    .label = Sign Out…
+    .accesskey = g
 sync-manage-account = Manage Account
     .accesskey = o
 sync-signedin-unverified = { $email } is not verified.
@@ -594,6 +604,46 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Sync Settings
 sync-signedin-settings-desc = Choose what to synchronize on your devices using { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Syncing: ON
+prefs-syncing-off = Syncing: OFF
+prefs-sync-setup =
+    .label = Set Up { -sync-brand-short-name }…
+    .accesskey = S
+prefs-sync-offer-setup-label = Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.
+prefs-sync-now =
+    .labelnotsyncing = Sync Now
+    .accesskeynotsyncing = N
+    .labelsyncing = Syncing…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = You are currently syncing these items:
+sync-currently-syncing-bookmarks = Bookmarks
+sync-currently-syncing-history = History
+sync-currently-syncing-tabs = Open tabs
+sync-currently-syncing-logins-passwords = Logins and passwords
+sync-currently-syncing-addresses = Addresses
+sync-currently-syncing-creditcards = Credit cards
+sync-currently-syncing-addons = Add-ons
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Options
+       *[other] Preferences
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Choose What To Sync
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Save Changes
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Disconnect…
+    .buttonaccesskeyextra2 = D
+sync-choose-heading = Choose what to sync to your account for devices using { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Bookmarks
     .accesskey = m
@@ -606,6 +656,10 @@ sync-engine-tabs =
     .accesskey = T
 sync-engine-logins =
     .label = Logins
+    .tooltiptext = Usernames and passwords you’ve saved
+    .accesskey = L
+sync-engine-logins-passwords =
+    .label = Logins and passwords
     .tooltiptext = Usernames and passwords you’ve saved
     .accesskey = L
 sync-engine-addresses =
@@ -628,6 +682,9 @@ sync-engine-prefs =
         }
     .tooltiptext = General, Privacy, and Security settings you’ve changed
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Device Name
 sync-device-name-change =
     .label = Change Device Name…
@@ -818,7 +875,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Custom
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = Balanced for protection and performance. Pages will load normally.
 content-blocking-etp-strict-desc = Stronger protection, but may cause some sites or content to break.
