@@ -55,6 +55,12 @@ certificate-viewer-timestamp = 时间戳
 certificate-viewer-value = 值
 certificate-viewer-version = 版本
 certificate-viewer-business-category = 业务类别
+certificate-viewer-public-key-info = 公钥信息
+certificate-viewer-miscellaneous = 杂项
+certificate-viewer-fingerprints = 指纹
+certificate-viewer-extended-key-usages = 扩展密钥用途
+certificate-viewer-certificate-policies = 证书策略
+certificate-viewer-embedded-scts = 嵌入式 SCT
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = 下载
@@ -66,3 +72,7 @@ certificate-viewer-boolean =
         [true] 是
        *[false] 非
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+

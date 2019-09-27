@@ -303,7 +303,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = 采用数字版权管理（DRM）的内容
 play-drm-content =
@@ -546,6 +546,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = 让您个性化的网络体验随身相伴
 sync-signedout-description = 在您的各种设备间同步您的书签、历史记录、标签页、密码、附加组件与首选项。
 sync-signedout-account-title = 使用 { -fxaccount-brand-name }登录，开启同步功能
@@ -566,11 +570,17 @@ sync-mobile-promo = 在 <img data-l10n-name="android-icon"/> <a data-l10n-name="
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = 更改头像
 sync-disconnect =
     .label = 断开连接…
     .accesskey = D
+sync-sign-out =
+    .label = 退出登录…
+    .accesskey = g
 sync-manage-account = 管理账户
     .accesskey = o
 sync-signedin-unverified = { $email } 未验证。
@@ -586,6 +596,33 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = 同步设置
 sync-signedin-settings-desc = 选择 { -brand-short-name } 要在您的设备间同步哪些数据。
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = 同步：开
+prefs-syncing-off = 同步：关
+prefs-sync-setup =
+    .label = 设置{ -sync-brand-short-name }
+    .accesskey = S
+prefs-sync-now =
+    .labelnotsyncing = 立即同步
+    .accesskeynotsyncing = N
+    .labelsyncing = 正在同步...
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = 您当前正在同步以下项目：
+sync-currently-syncing-bookmarks = 书签
+sync-currently-syncing-history = 历史记录
+sync-currently-syncing-tabs = 打开的标签页
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] 选项
+       *[other] 首选项
+    }
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = 书签
     .accesskey = m
@@ -620,6 +657,9 @@ sync-engine-prefs =
         }
     .tooltiptext = 您已更改的常规、隐私和安全设置
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = 设备名称
 sync-device-name-change =
     .label = 更改设备名称…
@@ -810,7 +850,7 @@ enhanced-tracking-protection-setting-custom =
     .label = 自定义
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = 平衡保护和性能。页面将正常加载。
 content-blocking-etp-strict-desc = 更强大的保护，但可能导致某些网站异常。
