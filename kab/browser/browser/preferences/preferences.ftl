@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Izerfan n usefrek n ugbur umḍin (DRM)
 play-drm-content =
@@ -551,6 +551,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Awi web-inek yid-k
 sync-signedout-description = Semtawi ticraḍ-inek n yisebtar, amazray, accaren, awalen uffiren, izegrar, akked yismenyifen d yibenkan-inek akk.
 sync-signedout-account-title = Qqen ɣer { -fxaccount-brand-name }
@@ -571,11 +575,17 @@ sync-mobile-promo = Sider Firefox i <img data-l10n-name="android-icon"/> <a data
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Beddel tugna n umaɣnu
 sync-disconnect =
     .label = Tuffɣa…
     .accesskey = k
+sync-sign-out =
+    .label = Ffeɣ…
+    .accesskey = F
 sync-manage-account = Sefrek amiḍan
     .accesskey = m
 sync-signedin-unverified = { $email } ur ittusenqed ara.
@@ -591,6 +601,32 @@ sync-sign-in =
     .accesskey = Q
 sync-signedin-settings-header = Iɣewwaren n umtawi
 sync-signedin-settings-desc = Fren ayen ara temtawiḍ deg yibenk-ik s useqdec n { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Amtawi: IRMED
+prefs-syncing-off = Amtawi: INSA
+prefs-sync-setup =
+    .label = Sbadu { -sync-brand-short-name }...
+    .accesskey = S
+
+## The list of things currently syncing.
+
+sync-currently-syncing-bookmarks = Ticraḍ n yisebtar
+sync-currently-syncing-history = Azray
+sync-currently-syncing-tabs = Ldi iccaren
+sync-currently-syncing-logins-passwords = Inekcam d wawalen uffiren
+sync-currently-syncing-addresses = Tansiwin
+sync-currently-syncing-creditcards = Tikarḍiwin n usmad
+sync-currently-syncing-addons = Izegrar
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Iɣewwaṛen
+       *[other] Ismenyifen
+    }
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Ticraḍ n yisebtar
     .accesskey = c
@@ -625,6 +661,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Amatu, tabaḍnit, akked yiɣewwaren n tɣellist ttubeddlen
     .accesskey = y
+
+## The device name controls.
+
 sync-device-name-header = Isem n yibenk
 sync-device-name-change =
     .label = Beddel isem n yibenk…
@@ -806,7 +845,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Udmawan
     .accesskey = d
 
-##
+
 
 content-blocking-all-cookies = Inagan n tuqqna meṛṛa
 content-blocking-unvisited-cookies = Inagan n tuqqna n yismal ur yettwarzan ara

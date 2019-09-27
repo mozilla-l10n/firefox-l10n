@@ -112,6 +112,18 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Sefsex
 confirmation-dialog-dismiss-button =
     .title = Sefsex
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Tebɣiḍ ad tkecmeḍ ɣer yinekcam-ik sekra wanida i tesseqdaceḍ { -brand-product-name } ? Ddu ɣer yiɣewwaṛen n { -sync-brand-short-name } sakin ṛcem taxxamt inekcam.
+       *[other] Tebɣiḍ ad tkecmeḍ ɣer yinekcam-ik sekra wanida i tesseqdaceḍ { -brand-product-name } ? Ddu ɣer yiɣewwaṛen n { -sync-brand-short-name } sakin ṛcem taxxamt inekcam.
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Rzu ɣer yiɣewwaṛen n  { -sync-brand-short-name }
+           *[other] Rzu ɣer yismenyifen n  { -sync-brand-short-name }
+        }
+    .accesskey = C
 confirm-delete-dialog-title = Kkes anekcam-agi?
 confirm-delete-dialog-message = Ulac tuɣalin ɣer deffir.
 confirm-delete-dialog-confirm-button = Kkes
