@@ -130,6 +130,7 @@ cfr-doorhanger-send-tab-ok-button = Emprova «Trametter il tab»
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Cundivida quest PDF a moda segira
+cfr-doorhanger-firefox-send-body = Protegia tes documents da mirs cun ureglias cun il criptadi fin-a-fin ed ina colliaziun che sparescha automaticamain suenter l'utilisaziun.
 cfr-doorhanger-firefox-send-ok-button = Emprova { -send-brand-name }
     .accesskey = E
 
