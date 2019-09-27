@@ -12,7 +12,7 @@
 <!ENTITY calendar.import.label                  "Импортиране…">
 <!ENTITY calendar.import.accesskey              "И">
 
-<!ENTITY calendar.export.label                  "Експортиране…">
+<!ENTITY calendar.export.label                  "Изнасяне…">
 <!ENTITY calendar.export.accesskey              "Е">
 
 <!ENTITY calendar.publish.label                 "Публикуване…">
