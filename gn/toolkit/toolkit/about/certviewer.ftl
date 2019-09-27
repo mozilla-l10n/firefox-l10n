@@ -58,7 +58,14 @@ certificate-viewer-business-category = Ñemuha jehechaukaha
 certificate-viewer-subject-name = Téma réra
 certificate-viewer-issuer-name = Me'ẽhára réra
 certificate-viewer-validity = Oikóva
+certificate-viewer-subject-alt-names = Téma réra mokõiha
+certificate-viewer-public-key-info = Marandu ñemiguáva
+certificate-viewer-miscellaneous = Jehe'apa
 certificate-viewer-fingerprints = Ñemokuãhũ
+certificate-viewer-key-usages = Ojepuruvéva
+certificate-viewer-extended-key-usages = Ojepuru hetavéva
+certificate-viewer-ocsp-stapling = OCSP Tuichavéva
+certificate-viewer-subject-key-id = Téma ñemigua ID
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Mboguejy
@@ -76,3 +83,5 @@ certificate-viewer-boolean =
 
 certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (juajuha)
+    .download = { $fileName }-chain.pem
