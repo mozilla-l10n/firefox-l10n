@@ -652,6 +652,14 @@ sync-currently-syncing-prefs =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Dewis Beth i'w Gydweddu
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Cadw Newidiadau
+    .buttonaccesskeyaccept = N
+    .buttonlabelextra2 = Datgysylltu…
+    .buttonaccesskeyextra2 = D
+sync-choose-heading = Dewis beth i'w cydweddu i'ch cyfrif ar ddyfeisiau sy'n defnyddio { -sync-brand-short-name }.
 sync-engine-bookmarks =
     .label = Nodau Tudalen
     .accesskey = T
@@ -665,6 +673,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = Mewngofnodion
     .tooltiptext = Enwau defnyddwyr a chyfrineiriau rydych wedi eu cadw
+    .accesskey = M
+sync-engine-logins-passwords =
+    .label = Mewngofnodion a chyfrineiriau
+    .tooltiptext = Enwau defnyddwyr a chyfrineiriau rydych wedi'u cadw
     .accesskey = M
 sync-engine-addresses =
     .label = Cyfeiriadau
