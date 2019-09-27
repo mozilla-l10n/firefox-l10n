@@ -57,6 +57,7 @@ certificate-viewer-version = Versão
 certificate-viewer-business-category = Categoria de negócio
 certificate-viewer-issuer-name = Nome do emissor
 certificate-viewer-validity = Validade
+certificate-viewer-public-key-info = Informações da chave pública
 certificate-viewer-miscellaneous = Outros
 certificate-viewer-basic-constraints = Restrições básicas
 # This message is used as a row header in the Miscellaneous section. 
