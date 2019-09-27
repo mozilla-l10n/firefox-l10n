@@ -596,6 +596,7 @@ prefs-syncing-off = 同步: 關閉
 prefs-sync-setup =
     .label = 設定 { -sync-brand-short-name }…
     .accesskey = S
+prefs-sync-offer-setup-label = 在您所有裝置間同步書籤、歷史紀錄、分頁、密碼、附加元件與偏好設定。
 prefs-sync-now =
     .labelnotsyncing = 立刻同步
     .accesskeynotsyncing = N
@@ -603,6 +604,7 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = 您目前正在同步下列項目:
 sync-currently-syncing-bookmarks = 書籤
 sync-currently-syncing-history = 瀏覽紀錄
 sync-currently-syncing-tabs = 開啟分頁
@@ -625,6 +627,7 @@ sync-choose-what-to-sync-dialog =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = 中斷連線…
     .buttonaccesskeyextra2 = D
+sync-choose-heading = 請選擇要使用 { -sync-brand-short-name } 帳號同步哪些資料:
 sync-engine-bookmarks =
     .label = 書籤
     .accesskey = m
