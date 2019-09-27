@@ -55,6 +55,23 @@ certificate-viewer-timestamp = Tidsstämpel
 certificate-viewer-value = Värde
 certificate-viewer-version = Version
 certificate-viewer-business-category = Affärskategori
+certificate-viewer-subject-name = Ämnesnamn
+certificate-viewer-issuer-name = Utfärdarnamn
+certificate-viewer-validity = Giltighet
+certificate-viewer-subject-alt-names = Ämne eller namn
+certificate-viewer-public-key-info = Offentlig nyckelinfo
+certificate-viewer-miscellaneous = Övrigt
+certificate-viewer-fingerprints = Fingeravtryck
+certificate-viewer-basic-constraints = Grundläggande begränsningar
+certificate-viewer-key-usages = Nyckelanvändningar
+certificate-viewer-extended-key-usages = Utökade nyckelanvändningar
+certificate-viewer-ocsp-stapling = OCSP-stapling
+certificate-viewer-subject-key-id = Ämnesnyckel-ID
+certificate-viewer-authority-key-id = Autoritetsnyckel-ID
+certificate-viewer-authority-info-aia = Autoritetsinfo (AIA)
+certificate-viewer-certificate-policies = Certifikatpolicyer
+certificate-viewer-embedded-scts = Inbyggda SCT:er
+certificate-viewer-crl-endpoints = CRL-endpoints
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Hämta
@@ -66,3 +83,11 @@ certificate-viewer-boolean =
         [true] Ja
        *[false] Nej
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
+certificate-viewer-download-pem = PEM (cert)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (chain)
+    .download = { $fileName }-chain.pem

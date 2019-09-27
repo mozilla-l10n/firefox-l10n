@@ -554,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Ta med dig webben
 sync-signedout-description = Synkronisera dina bokmärken, historik, flikar, lösenord, tillägg och inställningar på alla dina enheter.
 sync-signedout-account-title = Anslut med ett { -fxaccount-brand-name }
@@ -574,11 +578,17 @@ sync-mobile-promo = Hämta Firefox för <img data-l10n-name="android-icon"/> <a 
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Ändra profilbild
 sync-disconnect =
     .label = Koppla från…
     .accesskey = f
+sync-sign-out =
+    .label = Logga ut…
+    .accesskey = g
 sync-manage-account = Hantera konto
     .accesskey = o
 sync-signedin-unverified = { $email } är inte verifierat.
@@ -594,6 +604,46 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Sync-inställningar
 sync-signedin-settings-desc = Välj vad du vill synkronisera på dina enheter med { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Synkronisering: PÅ
+prefs-syncing-off = Synkronisering: AV
+prefs-sync-setup =
+    .label = Konfigurera  { -sync-brand-short-name }…
+    .accesskey = K
+prefs-sync-offer-setup-label = Synkronisera dina bokmärken, historik, flikar, lösenord, tillägg och inställningar på alla dina enheter.
+prefs-sync-now =
+    .labelnotsyncing = Synkronisera nu
+    .accesskeynotsyncing = n
+    .labelsyncing = Synkroniserar…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = Du synkroniserar för närvarande dessa objekt:
+sync-currently-syncing-bookmarks = Bokmärken
+sync-currently-syncing-history = Historik
+sync-currently-syncing-tabs = Öppna flikar
+sync-currently-syncing-logins-passwords = Inloggningar och lösenord
+sync-currently-syncing-addresses = Adresser
+sync-currently-syncing-creditcards = Kreditkort
+sync-currently-syncing-addons = Tillägg
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Inställningar
+       *[other] Inställningar
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Välj vad som ska synkas
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Spara ändringar
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Koppla ner…
+    .buttonaccesskeyextra2 = K
+sync-choose-heading = Välj vad du ska synkronisera med ditt konto för enheter som använder { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Bokmärken
     .accesskey = B
@@ -608,6 +658,10 @@ sync-engine-logins =
     .label = Inloggningar
     .tooltiptext = Användarnamn och lösenord du har sparat
     .accesskey = l
+sync-engine-logins-passwords =
+    .label = Inloggningar och lösenord
+    .tooltiptext = Användarnamn och lösenord du har sparat
+    .accesskey = n
 sync-engine-addresses =
     .label = Adresser
     .tooltiptext = Postadresser du har sparat (endast skrivbord)
@@ -628,6 +682,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Allmänna, sekretess och säkerhetsinställningar du har ändrat
     .accesskey = n
+
+## The device name controls.
+
 sync-device-name-header = Enhetens namn
 sync-device-name-change =
     .label = Ändra enhetsnamn…
