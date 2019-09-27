@@ -55,6 +55,9 @@ certificate-viewer-timestamp = Ára ha aravo
 certificate-viewer-value = Tepykue
 certificate-viewer-version = Peteĩchagua
 certificate-viewer-business-category = Ñemuha jehechaukaha
+certificate-viewer-subject-name = Téma réra
+certificate-viewer-issuer-name = Me'ẽhára réra
+certificate-viewer-validity = Oikóva
 certificate-viewer-fingerprints = Ñemokuãhũ
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
