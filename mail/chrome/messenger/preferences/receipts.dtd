@@ -22,5 +22,5 @@
 <!ENTITY otherCases.label              "Във всички други случаи:">
 <!ENTITY otherCases.accesskey          "В">
 <!ENTITY askMe.label                   "Запитване">
-<!ENTITY alwaysSend.label              "Изпраща">
+<!ENTITY alwaysSend.label              "Автоматично изпращане">
 <!ENTITY neverSend.label               "Не изпраща">
