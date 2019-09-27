@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Digital Rights Management (DRM)-inhoud
 play-drm-content =
@@ -554,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Neem uw web mee
 sync-signedout-description = Synchroniseer uw bladwijzers, geschiedenis, tabbladen, wachtwoorden, add-ons en voorkeuren op al uw apparaten.
 sync-signedout-account-title = Verbinding maken met een { -fxaccount-brand-name }
@@ -573,6 +577,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Download Firefox voor <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> of <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> om met uw mobiele apparaat te synchroniseren.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Profielafbeelding wijzigen
@@ -594,6 +601,31 @@ sync-sign-in =
     .accesskey = m
 sync-signedin-settings-header = Sync-instellingen
 sync-signedin-settings-desc = Kies wat u wilt synchroniseren op uw apparaten die { -brand-short-name } gebruiken.
+
+## Sync section - enabling or disabling sync.
+
+prefs-sync-now =
+    .labelnotsyncing = Nu synchroniseren
+    .accesskeynotsyncing = N
+    .labelsyncing = Synchroniseren…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-bookmarks = Bladwijzers
+sync-currently-syncing-history = Geschiedenis
+sync-currently-syncing-tabs = Open tabbladen
+sync-currently-syncing-logins-passwords = Aanmeldingen en wachtwoorden
+sync-currently-syncing-addresses = Adressen
+sync-currently-syncing-creditcards = Creditcards
+sync-currently-syncing-addons = Add-ons
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Opties
+       *[other] Voorkeuren
+    }
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Bladwijzers
     .accesskey = B
@@ -608,6 +640,10 @@ sync-engine-logins =
     .label = Aanmeldingen
     .tooltiptext = Gebruikersnamen en wachtwoorden die u hebt opgeslagen
     .accesskey = n
+sync-engine-logins-passwords =
+    .label = Aanmeldingen en wachtwoorden
+    .tooltiptext = Door u opgeslagen gebruikersnamen en wachtwoorden
+    .accesskey = A
 sync-engine-addresses =
     .label = Adressen
     .tooltiptext = Postadressen die u hebt opgeslagen (alleen desktop)
@@ -628,6 +664,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Algemene, privacy- en beveiligingsinstellingen die u hebt gewijzigd
     .accesskey = O
+
+## The device name controls.
+
 sync-device-name-header = Apparaatnaam
 sync-device-name-change =
     .label = Apparaatnaam wijzigen…
@@ -818,7 +857,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Aangepast
     .accesskey = A
 
-##
+
 
 content-blocking-etp-standard-desc = Gebalanceerd voor bescherming en prestaties. Pagina’s laden normaal.
 content-blocking-etp-strict-desc = Sterkere bescherming, maar kan er voor zorgen dat sommige websites of inhoud niet werken.
