@@ -103,9 +103,11 @@ detail-private-browsing-description2 = Lubamise korral saab see laiendus ligi si
 # cannot be overridden by the user.
 detail-private-disallowed-label = Privaatsetes akendes keelatud
 detail-private-disallowed-description = See laiendus on privaatse veebilehitsemise ajal keelatud. <label data-l10n-name="detail-private-browsing-learn-more">Rohkem teavet</label>
+detail-private-disallowed-description2 = See laiendus on privaatse veebilehitsemise ajal keelatud. <a data-l10n-name="learn-more">Rohkem teavet</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Nõuab ligipääsu privaatsetele akendele
 detail-private-required-description = Sel laiendusel on ligipääs sinu tegevusele privaatsetes akendes. <label data-l10n-name="detail-private-browsing-learn-more">Rohkem teavet</label>
+detail-private-required-description2 = Sel laiendusel on privaatse lehitsemise režiimis ligipääs sinu tegevusele. <a data-l10n-name="learn-more">Rohkem teavet</a>
 detail-private-browsing-on =
     .label = Lubatud
     .tooltiptext = Luba privaatsetes akendes
@@ -155,9 +157,6 @@ legacy-extensions =
     .value = Aegunud laiendused
 legacy-extensions-description = Need laiendused ei vasta tänapäevastele { -brand-short-name }i standarditele ja need keelati. <label data-l10n-name="legacy-learn-more">Vaata rohkem teavet lisadega toimunud muudatuste kohta</label>
 private-browsing-description2 = { -brand-short-name } on muutmas seda, kuidas laiendused töötavad privaatse veebilehitsemise režiimis. Uued { -brand-short-name }ile paigaldatud laiendused privaatsetes akendes vaikimisi enam ei tööta. Kui sa sätetes ei luba laienduse töötamist privaatsetes akendes, siis ei ole sel ligipääsu sinu tegevusele neis akendes. Me tegime selle muudatuse, et hoida sinu privaatne veebilehitsemine täielikult privaatsena. <label data-l10n-name="private-browsing-learn-more">Rohkem teavet laienduste sätete haldamise kohta</label>
-extensions-view-discover =
-    .name = Hangi lisasid
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-discopane =
     .name = Soovitused
     .tooltiptext = { extensions-view-discopane.name }
@@ -253,6 +252,12 @@ shortcuts-modifier-other = Kaasa Ctrl või Alt
 shortcuts-invalid = Sobimatu kombinatsioon
 shortcuts-letter = Sisesta täht
 shortcuts-system = Pole võimalik üle kirjutada { -brand-short-name }i kiirklahvide kombinatsiooni
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Selline kiirklahvide kombinatsioon on juba olemas
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = Kombinatsiooni { $shortcut } kasutatakse rohkem kui ühes kohas. Mitmes kohas määratud sama kiirklahvide kombinatsioon võib põhjustada ootamatut käitumist.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -291,6 +296,10 @@ install-theme-button = Paigalda teema
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Halda
 find-more-addons = Avasta veel lisasid
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Rohkem sätteid
 
 ## Add-on actions
 
@@ -309,6 +318,16 @@ release-notes-addon-button = Väljalaskemärkmed
 permissions-addon-button = Õigused
 addons-enabled-heading = Lubatud
 addons-disabled-heading = Keelatud
+extension-enabled-heading = Lubatud
+extension-disabled-heading = Keelatud
+theme-enabled-heading = Lubatud
+theme-disabled-heading = Keelatud
+plugin-enabled-heading = Lubatud
+plugin-disabled-heading = Keelatud
+dictionary-enabled-heading = Lubatud
+dictionary-disabled-heading = Keelatud
+locale-enabled-heading = Lubatud
+locale-disabled-heading = Keelatud
 ask-to-activate-button = Aktiveerimiseks küsitakse luba
 always-activate-button = Alati aktiivne
 never-activate-button = Mitte kunagi aktiivne
