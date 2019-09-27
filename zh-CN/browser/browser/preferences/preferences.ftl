@@ -604,6 +604,7 @@ prefs-syncing-off = 同步：关
 prefs-sync-setup =
     .label = 设置{ -sync-brand-short-name }
     .accesskey = S
+prefs-sync-offer-setup-label = 在您的各种设备间同步您的书签、历史记录、标签页、密码、附加组件与首选项。
 prefs-sync-now =
     .labelnotsyncing = 立即同步
     .accesskeynotsyncing = N
@@ -615,6 +616,7 @@ sync-currently-syncing-heading = 您当前正在同步以下项目：
 sync-currently-syncing-bookmarks = 书签
 sync-currently-syncing-history = 历史记录
 sync-currently-syncing-tabs = 打开的标签页
+sync-currently-syncing-addons = 附加组件
 sync-currently-syncing-prefs =
     { PLATFORM() ->
         [windows] 选项
