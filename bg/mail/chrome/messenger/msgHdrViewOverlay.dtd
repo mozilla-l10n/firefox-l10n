@@ -53,7 +53,7 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "о">
 
 <!ENTITY otherActionsButton2.label "Още">
-<!ENTITY otherActionsButton.tooltip "Още действия">
+<!ENTITY otherActionsButton.tooltip "Повече действия">
 <!ENTITY otherActionsOpenConversation1.label "Преглед на диалога">
 <!ENTITY otherActionsOpenConversation1.accesskey "д">
 <!ENTITY otherActionsOpenInNewWindow1.label "Отваряне в прозорец">
@@ -94,6 +94,7 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "з">
 
 <!ENTITY openAttachment.tooltip "Отваряне на прикрепения файл">
+
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Запазване">
