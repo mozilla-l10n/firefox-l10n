@@ -9,10 +9,7 @@
 <!ENTITY retry.label "Poskusi znova">
 <!ENTITY returnToPreviousPage.label "Nazaj">
 <!ENTITY returnToPreviousPage1.label "Pojdi nazaj (priporočeno)">
-<!ENTITY advanced.label "Napredno">
-<!ENTITY continue2.label "Več …">
 <!ENTITY advanced2.label "Napredno …">
-<!ENTITY moreInformation.label "Več informacij">
 <!ENTITY viewCertificate.label "Ogled digitalnega potrdila">
 
 <!-- Specific error messages -->
@@ -117,7 +114,7 @@
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Preverite nastavitve posrednika in se prepričajte, da so pravilne.</li>
-  <li>Preverite, ali ima vaš računalnik delujočo omrežno povezavo.</li>
+  <li>Prepričajte se, da ima vaš računalnik delujočo omrežno povezavo.</li>
   <li>Če uporabljate posrednika ali požarni zid, se prepričajte, 
     da ima &brandShortName; dovoljenja za dostop do spleta.</li>
 </ul>
@@ -146,13 +143,11 @@
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle1 "Vaša povezava ni varna">
 <!ENTITY certerror.longpagetitle2 "Pozor: možno varnostno tveganje">
 <!ENTITY certerror.sts.longpagetitle  "Povezava ni bila vzpostavljena: morebitna varnostna težava">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Lastnik <span class='hostname'/> je neustrezno nastavil svojo spletno stran. &brandShortName; se ni povezal s to spletno stranjo, da bi preprečil krajo vaših podatkov.">
 <!ENTITY certerror.introPara2 "&brandShortName; je zaznal morebitno varnostno grožnjo in ni nadaljeval na <span class='hostname'/>. Če obiščete to stran, bodo napadalci morda poskušali ukrasti vaše podatke, kot so gesla, e-poštni naslovi ali podrobnosti kreditnih kartic.">
 <!ENTITY certerror.sts.introPara "&brandShortName; je zaznal morebitno varnostno grožnjo in ni nadaljeval na <span class='hostname'/>, ker ta spletna stran zahteva varno povezavo.">
 
@@ -193,8 +188,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Napaka zaradi pokvarjene vsebine">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker je bila zaznana napaka pri prenosu podatkov.</p><ul><li>O napaki obvestite lastnike spletne strani.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Dodaj izjemo …">
 <!ENTITY securityOverride.exceptionButton1Label "Sprejmi tveganje in nadaljuj">
 
 <!ENTITY errorReporting.automatic2 "S prijavo podobnih napak pomagajte Mozilli prepoznati in zavračati zlonamerne strani">
@@ -208,18 +201,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Napredni podatki: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; se ni povezal na <span id='wrongSystemTime_URL'/>, ker je ura vašega računalnika očitno nastavljena napačno, kar preprečuje vzpostavitev varne povezave.</p> <p>Vaš računalnik kaže čas <span id='wrongSystemTime_systemDate'/>, moral pa bi <span id='wrongSystemTime_actualDate'/>. Za odpravo težave pravilno nastavite datum in čas.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; se ni povezal na <span id='wrongSystemTimeWithoutReference_URL'/>, ker je ura vašega računalnika očitno nastavljena napačno, kar preprečuje vzpostavitev varne povezave. </p> <p>Vaš računalnik je nastavljen na <span id='wrongSystemTimeWithoutReference_systemDate'/>. Za odpravo težave pravilno nastavite datum in čas.</p>">
-
-<!ENTITY certerror.pagetitle1  "Povezava ni varna">
 <!ENTITY certerror.pagetitle2  "Pozor: možno varnostno tveganje">
 <!ENTITY certerror.sts.pagetitle  "Povezava ni bila vzpostavljena: morebitna varnostna težava">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ta stran uporablja HTTP
-Strict Transport Security (HSTS), ki določa, da se lahko &brandShortName; nanjo
-poveže zgolj varno. Posledično za to digitalno potrdilo ni mogoče dodati izjeme.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> uporablja varnostni pravilnik, imenovan HTTP Strict Transport Security (HSTS), kar pomeni, da se lahko &brandShortName; nanjo poveže zgolj varno. Za obisk te strani ne morete dodati izjeme.">
 <!ENTITY certerror.copyToClipboard.label "Kopiraj besedilo v odložišče">
 
