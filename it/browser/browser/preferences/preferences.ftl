@@ -343,7 +343,7 @@ update-pref-write-failure-message = Errore durante il salvataggio della preferen
 update-setting-write-failure-title = Errore durante il salvataggio delle preferenze
 update-setting-write-failure-message =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le preferenze è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-    
+
     Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
 update-in-progress-message = Consentire a { -brand-short-name } di completare l’aggiornamento?
@@ -572,6 +572,9 @@ sync-profile-picture =
 sync-disconnect =
     .label = Disconnetti…
     .accesskey = t
+sync-sign-out =
+    .label = Disconnetti…
+    .accesskey = t
 sync-manage-account = Gestisci account
     .accesskey = G
 sync-signedin-unverified = { $email } non è verificato.
@@ -587,6 +590,49 @@ sync-sign-in =
     .accesskey = A
 sync-signedin-settings-header = Impostazioni di sincronizzazione
 sync-signedin-settings-desc = Scegli gli elementi da sincronizzare sui dispositivi con { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Sincronizzazione: ATTIVA
+prefs-syncing-off = Sincronizzazione: DISATTIVATA
+prefs-sync-setup =
+    .label = Configura { -sync-brand-short-name }…
+    .accesskey = C
+prefs-sync-offer-setup-label = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
+prefs-sync-now =
+    .labelnotsyncing = Sincronizza adesso
+    .accesskeynotsyncing = a
+    .labelsyncing = Sincronizzazione in corso…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = I seguenti elementi vengono attualmente sincronizzati:
+
+sync-currently-syncing-bookmarks = Segnalibri
+sync-currently-syncing-history = Cronologia
+sync-currently-syncing-tabs = Schede aperte
+sync-currently-syncing-logins-passwords = Credenziali e password
+sync-currently-syncing-addresses = Indirizzi
+sync-currently-syncing-creditcards = Carte di credito
+sync-currently-syncing-addons = Componenti aggiuntivi
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Opzioni
+       *[other] Preferenze
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Scelta elementi da sincronizzare
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Salva modifiche
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Disconnetti…
+    .buttonaccesskeyextra2 = D
+
+sync-choose-heading = Scegli gli elementi da sincronizzare sui dispositivi con { -sync-brand-short-name }:
+
 sync-engine-bookmarks =
     .label = Segnalibri
     .accesskey = e
@@ -597,6 +643,10 @@ sync-engine-tabs =
     .label = Schede aperte
     .tooltiptext = Elementi aperti nei dispositivi sincronizzati
     .accesskey = h
+sync-engine-logins-passwords =
+    .label = Credenziali e password
+    .tooltiptext = Nomi utente e password salvati
+    .accesskey = i
 sync-engine-logins =
     .label = Credenziali
     .tooltiptext = Nomi utente e password salvati
