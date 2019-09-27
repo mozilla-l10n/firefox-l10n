@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Potpuni zaslon
     .accesskey = o
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Prikaži sve kartice
@@ -212,12 +212,21 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Prijavite se u { -sync-brand-short-name }…
     .accesskey = Y
+menu-tools-fxa-sign-in =
+    .label = Prijavite se u { -brand-product-name } …
+    .accesskey = a
+menu-tools-turn-on-sync =
+    .label = Uključi { -sync-brand-short-name } …
+    .accesskey = u
 menu-tools-sync-now =
     .label = Sinkroniziraj sada
     .accesskey = S
 menu-tools-sync-re-auth =
     .label = Ponovno povezivanje na { -sync-brand-short-name }a…
     .accesskey = v
+menu-tools-fxa-re-auth =
+    .label = Ponovno povezivanje na { -brand-product-name } …
+    .accesskey = n
 menu-tools-web-developer =
     .label = Web programer
     .accesskey = W

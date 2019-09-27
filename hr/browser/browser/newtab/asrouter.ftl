@@ -2,8 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Preporučeni dodatak
+cfr-doorhanger-feature-heading = Preporučena funkcija
 cfr-doorhanger-pintab-heading = Pokušajte ovo: Zakačite karticu
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Zašto ovo vidim
 cfr-doorhanger-extension-cancel-button = Ne sada
@@ -65,9 +72,48 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Tipka za zatvaranje
     .title = Zatvori
 
+## Protections panel
+
+cfr-protections-panel-link-text = Saznaj više
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
     .label = Što je novo
     .tooltiptext = Što je novo
 cfr-whatsnew-panel-header = Što je novo
+cfr-whatsnew-release-notes-link-text = Pročitaj napomene o izdanju
+cfr-whatsnew-fx70-title = { -brand-short-name } sada još bolje brani tvoju privatnost
+cfr-whatsnew-fx70-body =
+    Najnovije ažuriranje poboljšava zaštitu od praćenja i olakšava stvaranje
+    sigurnih lozinki za svaku web lokaciju.
+cfr-whatsnew-tracking-protect-title = Zaštiti se od programa za praćenje
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } blokira mnoge uobičajene programe za praćenje tvojih radnji na društvenim mrežama i web lokacijama.
+cfr-whatsnew-tracking-protect-link-text = Pogledaj svoj izvještaj
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] program za praćenje je blokiran
+        [few] programa za praćenje su blokirana
+       *[other] programa za praćenje je blokirano
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Od { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Pogledaj izvještaj
+cfr-whatsnew-lockwise-backup-title = Izradi sigurnosnu kopiju tvojih lozinki
+
+## Bookmark Sync
+
+
+## Login Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+
+
+## Social Tracking Protection
+
