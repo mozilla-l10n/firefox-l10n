@@ -3,11 +3,27 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Prijave i lozinke
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
+login-app-promo-title = Ponesi svoje lozinke svuda sa sobom
+login-app-promo-subtitle = Preuzmi besplatnu { -lockwise-brand-name } aplikaciju
+login-app-promo-android =
+    .alt = Preuzmi s Google Play stranice
+login-app-promo-apple =
+    .alt = Preuzmi s App Store stranice
 login-filter =
     .placeholder = Pretraži prijave
 create-login-button = Stvori novu prijavu
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon za { $title }
 fxaccounts-sign-in-text = Dohvatite svoje lozinke na drugim uređajima
 fxaccounts-sign-in-button = Prijavite se u { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Upravljaj računom
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -20,8 +36,7 @@ menu-menuitem-preferences =
         [windows] Mogućnosti
        *[other] Mogućnosti
     }
-menu-menuitem-feedback = Pošalji povratnu informaciju
-menu-menuitem-faq = Često postavljana pitanja
+about-logins-menu-menuitem-help = Pomoć
 menu-menuitem-android-app = { -lockwise-brand-short-name } za Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } za iPhone i iPad
 
@@ -37,13 +52,19 @@ login-list-count =
     }
 login-list-sort-label-text = Sortiraj po:
 login-list-name-option = Naziv (A-Z)
+login-list-breached-option = Hakirane web stranice
 login-list-last-changed-option = Zadnje izmijenjeno
 login-list-last-used-option = Posljednji put korišteno
 login-list-intro-title = Nema pronađenih prijava
 login-list-intro-description = Kada spremite lozinku u { -brand-product-name }, pojavit će se ovdje.
+about-logins-login-list-empty-search-title = Nema prijava
+about-logins-login-list-empty-search-description = Nema rezultata koji odgovaraju vašoj pretrazi.
 login-list-item-title-new-login = Nova prijava
 login-list-item-subtitle-new-login = Unesite svoje podatke za prijavu
 login-list-item-subtitle-missing-username = (nema korisničkog imena)
+about-logins-list-item-warning-icon =
+    .alt = Ikona za upozorenje
+    .title = Hakirana web stranica
 
 ## Introduction screen
 
@@ -51,7 +72,7 @@ login-intro-heading = Tražite svoje spremljene prijave? Postavite { -sync-brand
 login-intro-description = Ukoliko ste spremili svoje prijave na { -brand-product-name } na drugom uređaju, ovako ih možete imati i ovdje:
 login-intro-instruction-fxa = Stvorite ili se prijavite u svoj { -fxaccount-brand-name } na uređaju gdje imate spremljene prijave.
 login-intro-instruction-fxa-settings = Provjerite da li ste odabrali kućicu pored Prijava u { -sync-brand-short-name } postavkama
-login-intro-instruction-faq = Posjetite { -lockwise-brand-short-name } <a data-l10n-name="faq">često postavljana pitanja</a> za dodatnu pomoć
+about-logins-intro-instruction-help = Posjeti <a data-l10n-name="help-link">{ -lockwise-brand-short-name } podršku</a> za dodatnu pomoć
 
 ## Login
 
@@ -61,10 +82,9 @@ login-item-delete-button = Obriši
 login-item-origin-label = Adresa web stranice
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Pokreni
 login-item-username-label = Korisničko ime
-login-item-username =
-    .placeholder = name@example.com
+about-logins-login-item-username =
+    .placeholder = (bez korisničkog imena)
 login-item-copy-username-button-text = Kopiraj
 login-item-copied-username-button-text = Kopirano!
 login-item-password-label = Lozinka
@@ -116,3 +136,15 @@ confirm-discard-changes-dialog-confirm-button = Odbaci
 
 breach-alert-text = Lozinke su ukradene ili su procurile s ove stranice od kada ste zadnji puta ažurirali svoje podatke za prijavu. Izmijenite svoju lozinku kako biste zaštitili svoj račun.
 breach-alert-link = Saznajte više o ovom curenju podataka.
+breach-alert-dismiss =
+    .title = Zatvori ovo upozorenje
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Zapis za { $loginTitle } s tim korisničkim imenom već postoji.
+# This is a generic error message.
+about-logins-error-message-default = Došlo je do greške pri pokušaju spremanja ove lozinke.
