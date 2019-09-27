@@ -55,6 +55,13 @@ certificate-viewer-timestamp = 時間戳記
 certificate-viewer-value = 值
 certificate-viewer-version = 版本
 certificate-viewer-business-category = 業務類別
+certificate-viewer-public-key-info = 公鑰資訊
+certificate-viewer-miscellaneous = 其他
+certificate-viewer-fingerprints = 指紋
+certificate-viewer-extended-key-usages = 延伸金鑰用法
+certificate-viewer-certificate-policies = 憑證政策
+certificate-viewer-embedded-scts = 嵌入的 SCT
+certificate-viewer-crl-endpoints = CRL 端點
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = 下載
@@ -66,3 +73,11 @@ certificate-viewer-boolean =
         [true] 是
        *[false] 否
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
+certificate-viewer-download-pem = PEM（憑證）
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM（金鑰鏈）
+    .download = { $fileName }-chain.pem

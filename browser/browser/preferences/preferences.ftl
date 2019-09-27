@@ -538,6 +538,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = 把 Web 隨身帶著走
 sync-signedout-description = 在您所有裝置間同步書籤、歷史紀錄、分頁、密碼、附加元件與偏好設定。
 sync-signedout-account-title = 連線到 { -fxaccount-brand-name }
@@ -558,11 +562,17 @@ sync-mobile-promo = 下載 Firefox for<img data-l10n-name="android-icon"/> <a da
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = 更改個人資料照片
 sync-disconnect =
     .label = 斷線…
     .accesskey = D
+sync-sign-out =
+    .label = 登出…
+    .accesskey = g
 sync-manage-account = 管理帳號
     .accesskey = o
 sync-signedin-unverified = { $email } 未驗證。
@@ -578,6 +588,43 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = 同步設定
 sync-signedin-settings-desc = 請選擇要同步哪些資料到您其他使用 { -brand-short-name } 的裝置上。
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = 同步: 開啟
+prefs-syncing-off = 同步: 關閉
+prefs-sync-setup =
+    .label = 設定 { -sync-brand-short-name }…
+    .accesskey = S
+prefs-sync-now =
+    .labelnotsyncing = 立刻同步
+    .accesskeynotsyncing = N
+    .labelsyncing = 同步中…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-bookmarks = 書籤
+sync-currently-syncing-history = 瀏覽紀錄
+sync-currently-syncing-tabs = 開啟分頁
+sync-currently-syncing-logins-passwords = 登入資訊與密碼
+sync-currently-syncing-addresses = 地址
+sync-currently-syncing-creditcards = 信用卡資料
+sync-currently-syncing-addons = 附加元件
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] 選項
+       *[other] 偏好設定
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = 選擇要同步哪些資料
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = 儲存變更
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = 中斷連線…
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = 書籤
     .accesskey = m
@@ -591,6 +638,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = 登入資訊
     .tooltiptext = 您儲存的使用者名稱與密碼
+    .accesskey = L
+sync-engine-logins-passwords =
+    .label = 登入資訊與密碼
+    .tooltiptext = 您儲存下來的使用者名稱與密碼
     .accesskey = L
 sync-engine-addresses =
     .label = 地址
@@ -612,6 +663,9 @@ sync-engine-prefs =
         }
     .tooltiptext = 您調整過的一般、隱私權、安全性設定
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = 裝置名稱
 sync-device-name-change =
     .label = 更改裝置名稱…
