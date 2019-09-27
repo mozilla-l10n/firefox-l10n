@@ -30,7 +30,7 @@ config-pref-column =
 config-lock-column =
     .label = Kalagayan
 config-type-column =
-    .label = Klase
+    .label = Uri
 config-value-column =
     .label = Nilalaman
 
