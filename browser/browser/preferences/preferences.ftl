@@ -635,6 +635,7 @@ sync-choose-what-to-sync-dialog =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = 断开连接…
     .buttonaccesskeyextra2 = D
+sync-choose-heading = 请选择要使用{ -sync-brand-short-name }服务同步的项目：
 sync-engine-bookmarks =
     .label = 书签
     .accesskey = m
