@@ -44,6 +44,9 @@ certificate-viewer-timestamp = חותמת זמן
 certificate-viewer-value = ערך
 certificate-viewer-version = גרסה
 certificate-viewer-business-category = קטגוריית עסקים
+certificate-viewer-public-key-info = מידע מפתח ציבורי
+certificate-viewer-miscellaneous = שונות
+certificate-viewer-fingerprints = טביעות אצבע
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = הורדה
@@ -55,3 +58,7 @@ certificate-viewer-boolean =
         [true] כן
        *[false] לא
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+

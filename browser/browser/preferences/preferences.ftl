@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = תוכן ניהול זכויות דיגיטלי (DRM)
 play-drm-content =
@@ -554,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = קחו את הרשת עמכם
 sync-signedout-description = סנכרון הסימניות, ההיסטוריה, הלשוניות, הססמאות, ההרחבות, וההעדפות בין כל מכשיריך.
 sync-signedout-account-title = התחברות עם { -fxaccount-brand-name }
@@ -574,9 +578,15 @@ sync-mobile-promo = הורידו את Firefox עבור <img data-l10n-name="and
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = שינוי תמונת פרופיל
 sync-disconnect =
+    .label = התנתקות…
+    .accesskey = ה
+sync-sign-out =
     .label = התנתקות…
     .accesskey = ה
 sync-manage-account = ניהול חשבון
@@ -594,6 +604,45 @@ sync-sign-in =
     .accesskey = כ
 sync-signedin-settings-header = הגדרות סנכרון
 sync-signedin-settings-desc = נא לבחור את הפריטים שיסונכרנו למכשירים שלך באמצעות { -brand-short-name }
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = סנכרון: פעיל
+prefs-syncing-off = סנכרון: כבוי
+prefs-sync-setup =
+    .label = הגדרת { -sync-brand-short-name }…
+    .accesskey = ג
+prefs-sync-offer-setup-label = סנכרון הסימניות, ההיסטוריה, הלשוניות, הססמאות, ההרחבות, וההעדפות בין כל המכשירים שלך.
+prefs-sync-now =
+    .labelnotsyncing = סנכרון כעת
+    .accesskeynotsyncing = ס
+    .labelsyncing = בתהליך סנכרון…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = כרגע בסנכרון הפריטים הבאים:
+sync-currently-syncing-bookmarks = סימניות
+sync-currently-syncing-history = היסטוריה
+sync-currently-syncing-tabs = לשוניות פתוחות
+sync-currently-syncing-logins-passwords = כניסות וססמאות
+sync-currently-syncing-addresses = כתובות
+sync-currently-syncing-creditcards = כרטיסי אשראי
+sync-currently-syncing-addons = תוספות
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] אפשרויות
+       *[other] העדפות
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = בחירת הפריטים לסנכרון
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = שמירת השינויים
+    .buttonaccesskeyaccept = ש
+    .buttonlabelextra2 = התנתקות…
+    .buttonaccesskeyextra2 = ה
 sync-engine-bookmarks =
     .label = סימניות
     .accesskey = ס
@@ -628,6 +677,9 @@ sync-engine-prefs =
         }
     .tooltiptext = הגדרות כלליות, פרטיות ואבטחה ששינית
     .accesskey = ת
+
+## The device name controls.
+
 sync-device-name-header = שם המכשיר
 sync-device-name-change =
     .label = שינוי שם מכשיר…
@@ -808,7 +860,7 @@ enhanced-tracking-protection-setting-custom =
     .label = התאמה אישית
     .accesskey = ה
 
-##
+
 
 content-blocking-etp-standard-desc = מאוזן בין הגנה לביצועים. דפים ייטענו כרגיל.
 content-blocking-etp-strict-desc = הגנה חזקה יותר, אך עשויה לשבש פעילות של אתרים או תוכן.
