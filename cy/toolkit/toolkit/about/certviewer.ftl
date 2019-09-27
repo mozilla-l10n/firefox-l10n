@@ -55,6 +55,23 @@ certificate-viewer-timestamp = Stamp Amser
 certificate-viewer-value = Gwerth
 certificate-viewer-version = Fersiwn
 certificate-viewer-business-category = Categori Busnes
+certificate-viewer-subject-name = Enw'r Pwnc
+certificate-viewer-issuer-name = Enw Cyhoeddwr
+certificate-viewer-validity = Dilysrwydd
+certificate-viewer-subject-alt-names = Enwau Alt Pwnc
+certificate-viewer-public-key-info = Manylion Allweddol Cyhoeddus
+certificate-viewer-miscellaneous = Amrywiol
+certificate-viewer-fingerprints = Bysbrint
+certificate-viewer-basic-constraints = Cyfyngiadau Sylfaenol
+certificate-viewer-key-usages = Defnyddiau Allweddol
+certificate-viewer-extended-key-usages = Defnydd Allwedd Estynedig
+certificate-viewer-ocsp-stapling = Strapio OCSP
+certificate-viewer-subject-key-id = ID Allwedd Pwnc
+certificate-viewer-authority-key-id = ID Allwedd yr Awdurdod
+certificate-viewer-authority-info-aia = Manylion yr Awdurdod (AIA)
+certificate-viewer-certificate-policies = Polisïau Tystysgrif
+certificate-viewer-embedded-scts = SCTs mewnblanedig
+certificate-viewer-crl-endpoints = Diweddbwynt CRL
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Llwytho i Lawr
@@ -66,3 +83,11 @@ certificate-viewer-boolean =
         [true] Iawn
        *[false] na
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
+certificate-viewer-download-pem = PEM (tystysgrif)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (cadwyn)
+    .download = { $fileName }-chain.pem

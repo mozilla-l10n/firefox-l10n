@@ -30,6 +30,8 @@ inactive-css-not-flex-item = Nid yw <strong>{ $property }</strong> yn cael unrhy
 inactive-css-not-flex-container = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n gynhwysydd flex.
 inactive-css-not-inline-or-tablecell = Nid yw <strong> { $property } </strong> yn cael unrhyw effaith ar yr elfen hon gan nad yw'n elfen mewnlin neu gell tabl.
 inactive-css-property-because-of-display = Nid oes gan <strong>{ $property }</strong> unrhyw effaith ar yr elfen hon gan ei bod yn dangos  <strong>{ $display }</strong>.
+inactive-css-not-display-block-on-floated = Mae'r peiriant wedi newid y gwerth <strong>display</strong> i <strong>block</strong> oherwydd bod yr elfen yn <strong>arnofio<strong>.
+inactive-css-property-is-impossible-to-override-in-visited = Mae'n amhosib diystyru <strong>{ $property }</strong> oherwydd cyfyngiadau <strong>:visited</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -45,3 +47,4 @@ inactive-css-not-flex-container-fix = Ceisiwch ychwanegu <strong>display:flex</s
 inactive-css-not-inline-or-tablecell-fix = Ceisiwch ychwanegu <strong>display:inline</strong> neu <strong>display:table-cell</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Ceisiwch ychwanegu <strong>display:inline-block</strong> neu <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Ceisiwch ychwanegu <strong>display:inline-block</strong>. { learn-more }
+inactive-css-not-display-block-on-floated-fix = Ceisiwch dynnu <strong>float</strong> neu <strong>display:block</strong>. { learn-more }
