@@ -2,4 +2,4 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY xml.nostylesheet "Ang XML file na ito ay hindi lilitaw upang magkaroon ng anumang estilo ng impormasyon na nauugnay dito. Ang puno ng dokumento ay ipinapakita sa ibaba.">
+<!ENTITY xml.nostylesheet "Mukhang walang nakalakip na style information ang XML file na ito. Ipinapakita sa ibaba ang document tree.">
