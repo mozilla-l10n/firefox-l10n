@@ -36,7 +36,7 @@ certificate-viewer-not-after = 不晚于
 certificate-viewer-not-before = 不早于
 certificate-viewer-organization = 组织
 certificate-viewer-organizational-unit = 组织单位
-certificate-viewer-policy = 政策
+certificate-viewer-policy = 策略
 certificate-viewer-protocol = 协议
 certificate-viewer-public-value = 公开值
 certificate-viewer-purposes = 用途
@@ -55,10 +55,18 @@ certificate-viewer-timestamp = 时间戳
 certificate-viewer-value = 值
 certificate-viewer-version = 版本
 certificate-viewer-business-category = 业务类别
+certificate-viewer-subject-name = 主题名称
+certificate-viewer-issuer-name = 颁发者名称
+certificate-viewer-validity = 有效性
+certificate-viewer-subject-alt-names = 主题替代名称
 certificate-viewer-public-key-info = 公钥信息
 certificate-viewer-miscellaneous = 杂项
 certificate-viewer-fingerprints = 指纹
+certificate-viewer-basic-constraints = 基本约束
+certificate-viewer-key-usages = 密钥用途
 certificate-viewer-extended-key-usages = 扩展密钥用途
+certificate-viewer-ocsp-stapling = OCSP 装订
+certificate-viewer-subject-key-id = 主题密钥 ID
 certificate-viewer-certificate-policies = 证书策略
 certificate-viewer-embedded-scts = 嵌入式 SCT
 # This message is used as a row header in the Miscellaneous section. 
@@ -76,3 +84,7 @@ certificate-viewer-boolean =
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM（证书）
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM（证书链）
+    .download = { $fileName }-chain.pem
