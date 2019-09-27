@@ -32,7 +32,7 @@
 <!ENTITY rights.intro-point3-unbranded "Aici trebuie listate orice politici de confidențialitate aplicabile acestui produs.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4a "&brandShortName; oferă și servicii opționale, cum ar fi actualizarea suplimentelor; cu toate astea, nu putem garanta 100&#037; acuratețea sau lipsa erorilor din aceste suplimente. Poți găsi mai multe detalii și informații despre cum să dezactivezi aceste servicii în ">
+<!ENTITY rights.intro-point4a "&brandShortName; oferă și servicii opționale, cum ar fi serviciul de actualizare a suplimentelor; cu toate astea, nu putem garanta 100&#037; acuratețea sau lipsa erorilor din aceste suplimente. Detalii suplimentare, inclusiv informații despre dezactivarea serviciilor, sunt disponibile în ">
 <!ENTITY rights.intro-point4b "Termenii de utilizare a serviciilor">
 <!ENTITY rights.intro-point4c ".">
 
@@ -41,7 +41,7 @@
 <!ENTITY rights.intro-point4b-unbranded "Servicii pentru site-uri web">
 <!ENTITY rights.intro-point4c-unbranded ".">
 
-<!ENTITY rights.webservices-header "Servicii &brandFullName; pentru site-uri web">
+<!ENTITY rights.webservices-header "Servicii pentru site-uri web &brandFullName;">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
@@ -64,6 +64,6 @@
 <!ENTITY rights.webservices-term1 "&vendorShortName; poate întrerupe sau modifica Serviciile la libera sa apreciere.">
 <!ENTITY rights.webservices-term2 "Ești binevenit(ă) să folosești aceste Servicii și versiunea asociată de &brandShortName; și deții toate drepturile necesare în acest sens. &vendorShortName; și licențiatorii săi își rezervă toate celelalte drepturi asupra Serviciilor. Acești termeni nu sunt destinați să limiteze drepturi acordate sub licențe cu sursă deschisă aplicabile &brandShortName; sau versiunilor corespunzătoare de cod sursă &brandShortName;.">
 <!ENTITY rights.webservices-term3 "Serviciile sunt furnizate „ca atare”.  &vendorShortName;, colaboratorii, licențiatorii și distribuitorii săi declină toate garanțiile, exprese ori implicite, inclusiv, fără a se limita la, garanții de vandabilitate sau de adecvare a Serviciilor pentru un scop anume.  Vei suporta integral riscul legat de selectarea Serviciilor pentru scopurile tale și cel implicat de calitatea și performanța Serviciilor. Unele jurisdicții nu permit excluderea sau limitarea garanțiilor implicite și atunci este posibil ca prezenta declinare a responsabilității să nu se aplice în cazul tău.">
-<!ENTITY rights.webservices-term4 "Cu excepția situațiilor prevăzute de lege, &vendorShortName;, colaboratorii, licențiatorii și distribuitorii săi nu vor fi trași la răspundere pentru orice daune indirecte, speciale, accesorii, derivate, punitive sau exemplare izvorâte din sau legate în orice fel de utilizarea &brandShortName; și a Serviciilor.  Răspunderea colectivă în baza prezenților termeni nu va depăși 500 $ (cinci sute de dolari). Unele jurisdicții nu permit excluderea sau limitarea anumitor daune și atunci este posibil ca prezenta excludere și limitare să nu se aplice în cazul tău.">
+<!ENTITY rights.webservices-term4 "Cu excepția cazurilor prevăzute de lege, &vendorShortName;, colaboratorii, licențiatorii și distribuitorii săi nu vor fi trași la răspundere pentru orice daune indirecte, speciale, incidentale, derivate, punitive sau exemplare izvorâte din sau legate în orice fel de utilizarea &brandShortName; și a Serviciilor.  Răspunderea colectivă în baza prezenților termeni nu va depăși 500 $ (cinci sute de dolari). Unele jurisdicții nu permit excluderea sau limitarea anumitor daune și atunci este posibil ca prezenta excludere și limitare să nu se aplice în cazul tău.">
 <!ENTITY rights.webservices-term5 "&vendorShortName; poate actualiza ocazional acești termeni, după caz. Termenii nu pot fi modificați sau anulați fără acordul scris al &vendorShortName;.">
 <!ENTITY rights.webservices-term6 "Acești termeni sunt guvernați de legislația statului California, S.U.A., cu excluderea prevederilor privind conflictul de legi. Dacă orice parte a prezenților termeni este considerată nevalidă sau neexecutabilă, celelalte prevederi vor rămâne integral în vigoare și vor produce efecte depline. În cazul unei neconcordanțe dintre o versiune tradusă a termenilor de față și versiunea în limba engleză, versiunea în limba engleză va prevala.">
