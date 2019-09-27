@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Sayısal Hak Yönetimi (DRM) içerikleri
 play-drm-content =
@@ -554,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Web’inizi yanınızda taşıyın
 sync-signedout-description = Yer imlerinizi, geçmişinizi, sekmelerinizi, eklentilerinizi ve tercihlerinizi tüm cihazlarınız arasında senkronize edin.
 sync-signedout-account-title = { -fxaccount-brand-name } ile bağlanın
@@ -574,11 +578,17 @@ sync-mobile-promo = Mobil cihazınızla eşitleme yapmak isterseniz <img data-l1
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Profil resmini değiştir
 sync-disconnect =
     .label = Bağlantıyı kes…
     .accesskey = B
+sync-sign-out =
+    .label = Çıkış yap…
+    .accesskey = k
 sync-manage-account = Hesabı yönet
     .accesskey = H
 sync-signedin-unverified = { $email } doğrulanmamış.
@@ -594,6 +604,33 @@ sync-sign-in =
     .accesskey = G
 sync-signedin-settings-header = Sync ayarları
 sync-signedin-settings-desc = { -brand-short-name } kullanan cihazlarınız arasında eşitlenecek öğeleri seçin.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Eşitleme: AÇIK
+prefs-syncing-off = Eşitleme: KAPALI
+prefs-sync-now =
+    .labelnotsyncing = Şimdi eşitle
+    .accesskeynotsyncing = m
+    .labelsyncing = Eşitleniyor…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-bookmarks = Yer imleri
+sync-currently-syncing-history = Geçmiş
+sync-currently-syncing-tabs = Açık sekmeler
+sync-currently-syncing-logins-passwords = Hesaplar ve parolalar
+sync-currently-syncing-addresses = Adresler
+sync-currently-syncing-creditcards = Kredi kartları
+sync-currently-syncing-addons = Eklentiler
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Seçenekler
+       *[other] Tercihler
+    }
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Yer imleri
     .accesskey = m
@@ -607,6 +644,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = Hesaplar
     .tooltiptext = Kaydettiğiniz kullanıcı adları ve parolaları
+    .accesskey = H
+sync-engine-logins-passwords =
+    .label = Hesaplar ve parolalar
+    .tooltiptext = Kaydettiğiniz kullanıcı adları ve parolalar
     .accesskey = H
 sync-engine-addresses =
     .label = Adresler
@@ -628,6 +669,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Değiştirdiğiniz Genel, Gizlilik ve Güvenlik ayarları
     .accesskey = e
+
+## The device name controls.
+
 sync-device-name-header = Cihaz adı
 sync-device-name-change =
     .label = Cihaz adını değiştir…
@@ -818,7 +862,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Özel
     .accesskey = Ö
 
-##
+
 
 content-blocking-etp-standard-desc = Dengeli koruma ve performans. Sayfalar normal şekilde yüklenir.
 content-blocking-etp-strict-desc = Daha güçlü koruma, ama bazı siteler ve içerikler düzgün çalışmayabilir.
