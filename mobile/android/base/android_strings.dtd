@@ -24,12 +24,15 @@
 <!ENTITY firstrun_sync_message2 "ನೀವು ಬಿಟ್ಟು ಹೋದಲ್ಲಿಂದ ಮುಂದುವರೆಸಿ.">
 <!ENTITY firstrun_sync_subtext2 "ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳಲ್ಲಿ &brandShortName; ಗೆ ನೀವು ಉಳಿಸುವ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು, ಗುಪ್ತಪದಗಳು ಮತ್ತು ಇತರ ವಿಷಯಗಳನ್ನು ಹುಡುಕಲು ಸಿಂಕ್ ಅನ್ನು ಬಳಸಿ.">
 <!ENTITY firstrun_signin_message "ಸಂಪರ್ಕಕ್ಕೆ ಬನ್ನಿ, ಪ್ರಾರಂಭಿಸಲು ಅನುವಾಗಿ">
+<!ENTITY firstrun_sendtab_title "ಟ್ಯಾಬ್ ಕಳುಹಿಸು">
 <!ENTITY firstrun_signin_button "ಸಿಂಕ್ ಮಾಡಲು ಸೈನ್ ಇನ್ ಆಗಿ">
 <!ENTITY newfirstrun_signin_button "ಸಿಂಕ್ ಆನ್ ಮಾಡಿ">
 <!ENTITY updatednewfirstrun_signin_button "&brandShortName; ನಲ್ಲಿ ತೆರೆ">
-<!ENTITY  onboard_start_button_browser "ಅಂತರ್ಜಾಲದ ವೀಕ್ಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ">
+<!ENTITY onboard_start_button_browser "ಅಂತರ್ಜಾಲದ ವೀಕ್ಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ">
 <!ENTITY firstrun_button_notnow "ಈಗ ಬೇಡ">
 <!ENTITY firstrun_button_next "ಮುಂದೆ">
+
+<!ENTITY firstrun_signin_button2 "ಸೈನ್ ಇನ್">
 
 <!ENTITY firstrun_tabqueue_title "ಕೊಂಡಿಗಳು">
 
@@ -41,6 +44,7 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "ನೀವು">
 <!ENTITY firstrun_account_message "ಬೇರಾವುದಾದರೂ ಸಾಧನದಲ್ಲಿ &brandShortName; ಇದೆಯೇ?">
+
 
 <!ENTITY  onboard_start_restricted1 "‍ಸರಳಗೊಳಿಸಿರುವ ‍&brandShortName; ಆವೃತ್ತಿಯಿಂದ ಸುರಕ್ಷಿತವಾಗಿರಿ ಮತ್ತು ಹತೋಟಿಯಲ್ಲಿರಿ.">
 
@@ -588,7 +592,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "ಸ್ಥಳ">
 <!ENTITY bookmark_edit_keyword "ಸೂಚಕ ಪದ">
 <!ENTITY bookmark_select_folder "ಕಡತ ಕೋಶ ಆಯ್ಕೆಮಾಡು">
-
 <!ENTITY bookmark_edit_undo "ರದ್ದುಗೊಳಿಸು">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -681,6 +684,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "ನೀವು ಇದರೊಂದಿಗೆ ಸಂಪರ್ಕಿತಗೊಂಡಿದ್ದೀರಿ">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -867,6 +871,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "ಆಫ್‍‍ಲೈನ್ ಲಭ್ಯವಿದೆ">
 <!ENTITY helper_triple_readerview_open_message "ಆಫ್‌ಲೈನ್ ಓದುವ ಸಲುವಾಗಿ ಪುಟಗುರುತು ಓದುಗ ನೋಟದ ಅಂಶಗಳು.">
 <!ENTITY helper_triple_readerview_open_button "ಪುಟಗುರುತುಗಳಿಗೆ ಸಾಗು">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_button "ಸೈನ್ ಇನ್">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "ಸೈನ್ ಇನ್.">
 
 <!ENTITY activity_stream_topsites "ಪ್ರಮುಖ ತಾಣಗಳು">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
