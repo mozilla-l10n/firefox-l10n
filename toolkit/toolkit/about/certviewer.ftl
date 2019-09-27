@@ -67,8 +67,11 @@ certificate-viewer-key-usages = 密钥用途
 certificate-viewer-extended-key-usages = 扩展密钥用途
 certificate-viewer-ocsp-stapling = OCSP 装订
 certificate-viewer-subject-key-id = 主题密钥 ID
+certificate-viewer-authority-key-id = 颁发机构密钥 ID
+certificate-viewer-authority-info-aia = 颁发机构信息（AIA）
 certificate-viewer-certificate-policies = 证书策略
 certificate-viewer-embedded-scts = 嵌入式 SCT
+certificate-viewer-crl-endpoints = CRL 端点
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = 下载
