@@ -55,6 +55,10 @@ certificate-viewer-timestamp = Registro de data e hora
 certificate-viewer-value = Valor
 certificate-viewer-version = Versão
 certificate-viewer-business-category = Categoria de negócio
+certificate-viewer-issuer-name = Nome do emissor
+certificate-viewer-validity = Validade
+certificate-viewer-miscellaneous = Outros
+certificate-viewer-basic-constraints = Restrições básicas
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Baixar
@@ -66,3 +70,7 @@ certificate-viewer-boolean =
         [true] Sim
        *[false] Não
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
