@@ -6,6 +6,20 @@ about-logins-page-title = Infurmaziuns d'annunzia & pleds-clav
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = Prenda tes pleds-clav adina cun tai
+login-app-promo-subtitle = Va per l'app gratuita da { -lockwise-brand-name }
+login-app-promo-android =
+    .alt = Telechargiar da Google Play
+login-app-promo-apple =
+    .alt = Telechargiar da l'App Store
+login-filter =
+    .placeholder = Tschertgar datas d'annunzia
+create-login-button = Crear datas d'annunzia
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon per { $title }
 fxaccounts-sign-in-text = Acceda a tes pleds-clav cun tut tes apparats
 fxaccounts-sign-in-button = Connectar cun { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -47,6 +61,9 @@ about-logins-login-list-empty-search-description = I na dat nagins resultats che
 login-list-item-title-new-login = Nova infurmaziun d'annunzia
 login-list-item-subtitle-new-login = Endatescha tias infurmaziuns d'annunzia
 login-list-item-subtitle-missing-username = (nagin num d'utilisader)
+about-logins-list-item-warning-icon =
+    .alt = Icona d'avis
+    .title = Website che ha pers datas
 
 ## Introduction screen
 

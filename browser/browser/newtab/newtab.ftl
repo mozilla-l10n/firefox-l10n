@@ -116,6 +116,7 @@ newtab-menu-open-file = Avrir la datoteca
 
 newtab-label-visited = Visità
 newtab-label-bookmarked = Cun segnapagina
+newtab-label-removed-bookmark = Allontanà il segnapagina
 newtab-label-recommended = Popular
 newtab-label-saved = Memorisà en { -pocket-brand-name }
 newtab-label-download = Telechargià
