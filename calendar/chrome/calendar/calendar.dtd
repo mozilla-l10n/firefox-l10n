@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Създаване на нова задача" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Задачи" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Показване на завършените задачи">
 
 <!ENTITY calendar.today.button.label          "Днес">
@@ -85,8 +86,8 @@
 <!ENTITY calendar.navigation.nextmonth.tooltip  "Един месец напред" >
 <!ENTITY calendar.navigation.prevmonth.tooltip  "Един месец назад" >
 
-<!ENTITY calendar.newevent.button.label         "Събитие" >
-<!ENTITY calendar.newtask.button.label          "Задача" >
+<!ENTITY calendar.newevent.button.label         "Ново събитие" >
+<!ENTITY calendar.newtask.button.label          "Нова задача" >
 <!ENTITY calendar.print.button.label            "Отпечатване" >
 <!ENTITY calendar.print.button.accesskey        "п">
 
