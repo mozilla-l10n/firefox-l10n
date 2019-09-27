@@ -586,6 +586,9 @@ sync-profile-picture =
 sync-disconnect =
     .label = Desconectar…
     .accesskey = D
+sync-sign-out =
+    .label = Cerrar sesión…
+    .accesskey = g
 sync-manage-account = Administrar cuenta
     .accesskey = u
 sync-signedin-unverified = { $email } no está verificada.
@@ -606,7 +609,14 @@ sync-signedin-settings-desc = Elegir qué sincronizar en los dispositivos que us
 
 prefs-syncing-on = Sincronización: activada
 prefs-syncing-off = Sincronización: desactivada
+prefs-sync-setup =
+    .label = Configurar { -sync-brand-short-name }…
+    .accesskey = S
 prefs-sync-offer-setup-label = Sincronice marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.
+prefs-sync-now =
+    .labelnotsyncing = Sincronizar ahora
+    .accesskeynotsyncing = N
+    .labelsyncing = Sincronizando…
 
 ## The list of things currently syncing.
 
