@@ -616,6 +616,9 @@ sync-currently-syncing-heading = 您当前正在同步以下项目：
 sync-currently-syncing-bookmarks = 书签
 sync-currently-syncing-history = 历史记录
 sync-currently-syncing-tabs = 打开的标签页
+sync-currently-syncing-logins-passwords = 登录名和密码
+sync-currently-syncing-addresses = 邮政地址
+sync-currently-syncing-creditcards = 信用卡
 sync-currently-syncing-addons = 附加组件
 sync-currently-syncing-prefs =
     { PLATFORM() ->
@@ -625,6 +628,13 @@ sync-currently-syncing-prefs =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = 选择要同步的项目
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = 保存更改
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = 断开连接…
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = 书签
     .accesskey = m
@@ -638,6 +648,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = 登录信息
     .tooltiptext = 您已保存的用户名和密码
+    .accesskey = L
+sync-engine-logins-passwords =
+    .label = 登录名和密码
+    .tooltiptext = 您存入的用户名和密码
     .accesskey = L
 sync-engine-addresses =
     .label = 邮政地址
