@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Tembiapo Ñandutigua Derécho (TÑD) retepy
 play-drm-content =
@@ -554,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Egueraha neñanduti nendive
 sync-signedout-description = Embojuehe nde rechaukaha, tembiasakue, tendayke, ñe'ẽñemi, moĩmbaha ha jerohoryvéva opaite nemba'e'oka rupi.
 sync-signedout-account-title = Eike { -fxaccount-brand-name } ndive
@@ -574,11 +578,17 @@ sync-mobile-promo = Emboguejy Aguaratata kóvape g̃uarã:<img data-l10n-name="a
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Emoambue nera'ãga nemba'ete pegua
 sync-disconnect =
     .label = Ñesẽte…
     .accesskey = D
+sync-sign-out =
+    .label = Ñesẽte
+    .accesskey = ñ
 sync-manage-account = Mba'ete ñangarekoha
     .accesskey = o
 sync-signedin-unverified = { $email } ndojehechajeýi gueteri.
@@ -594,6 +604,32 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Ñembojuehe ñemoĩporã
 sync-signedin-settings-desc = Eiporavo mba'éichapa embojuehéta nemba'e'oka { -brand-short-name } ndive.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Ñembojuehe: ON
+prefs-syncing-off = Ñembojuehe: OFF
+prefs-sync-setup =
+    .label = Emboheko { -sync-brand-short-name }…
+    .accesskey = E
+prefs-sync-now =
+    .labelnotsyncing = Embojuehe ko’ág̃a
+    .accesskeynotsyncing = N
+    .labelsyncing = Embojuehe...
+
+## The list of things currently syncing.
+
+sync-currently-syncing-history = Tembiasakue
+sync-currently-syncing-tabs = Tendayke ijurujáva
+sync-currently-syncing-addons = Moĩmbaha
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Jerohoryvéva
+       *[other] Jerohoryvéva
+    }
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Techaukaha
     .accesskey = m
@@ -628,6 +664,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Ñangareko Pavẽ, Rekovepypegua ha Tekorosã rehegua remoambuévakuri
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Mba'e'oka Réra
 sync-device-name-change =
     .label = Emoambue mba'e'oka réra…
@@ -818,7 +857,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Ñemomba’epyre
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = Imbytéva ñemo’ã ha tembiapokuépe g̃uarã. Umi kuatiarogue henyhẽta hekoitépe.
 content-blocking-etp-strict-desc = Ñemo’ãve, hákatu ikatu ndahetái tenda térã tetepy nahenyhẽi.

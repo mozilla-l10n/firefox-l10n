@@ -55,6 +55,7 @@ certificate-viewer-timestamp = Ára ha aravo
 certificate-viewer-value = Tepykue
 certificate-viewer-version = Peteĩchagua
 certificate-viewer-business-category = Ñemuha jehechaukaha
+certificate-viewer-fingerprints = Ñemokuãhũ
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Mboguejy
@@ -66,3 +67,9 @@ certificate-viewer-boolean =
         [true] Héẽ
        *[false] Ahániri
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
+certificate-viewer-download-pem = PEM (cert)
+    .download = { $fileName }.pem
