@@ -88,7 +88,7 @@ extension-controlled-default-search = Разширението „<img data-l10n
 extension-controlled-privacy-containers = Разширението „<img data-l10n-name="icon"/> { $name }“ има изискване за изолирани раздели.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlled-websites-content-blocking-all-trackers = Разширението „<img data-l10n-name="icon"/> { $name }“ управлява тази настройка.
+extension-controlled-websites-content-blocking-all-trackers = Разширението „<img data-l10n-name="icon"/> { $name }“ управлява настройката.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Разширението „<img data-l10n-name="icon"/> { $name }“ управлява как { -brand-short-name } се свързва с интернет.
@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Съдържание с цифрови права (DRM)
 play-drm-content =
@@ -349,8 +349,8 @@ update-setting-write-failure-title = Грешка при запазване на
 update-setting-write-failure-message =
     Поради възникнала грешка { -brand-short-name } не запази промяната.
     
-    Обърнете внимание, че задаването на тази настройка за обновяване изисква права за запис във файла по-долу. Вие или системен администратор може да успеете да разрешите проблема, като предоставите на групата потребители пълни права над този файл.¶
-    ¶
+    Обърнете внимание, че задаването на тази настройка за обновяване изисква права за запис във файла по-долу. Вие или системен администратор може да успеете да разрешите проблема, като предоставите на групата потребители пълни права над файла.
+    
     Във файлa „{ $path }“ не може да бъде записвано.
 update-in-progress-title = Обновяване е в процес на изпълнение
 update-in-progress-message = Желаете ли { -brand-short-name } да продължи с обновяването?
@@ -556,6 +556,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Вземете Мрежата със себе си
 sync-signedout-description = Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.
 sync-signedout-account-title = Свържете ги с { -fxaccount-brand-name }
@@ -575,6 +579,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Изтеглете Firefox за <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> или <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>, за да синхронизирате с мобилното си устройство.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Промяна снимката на профила
@@ -596,6 +603,15 @@ sync-sign-in =
     .accesskey = В
 sync-signedin-settings-header = Настройки за синхронизиране
 sync-signedin-settings-desc = Изберете какво да бъде синхронизирано на вашите устройства, използващи { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Отметки
     .accesskey = О
@@ -630,6 +646,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Променени настройки
     .accesskey = Н
+
+## The device name controls.
+
 sync-device-name-header = Име на текущото устройство
 sync-device-name-change =
     .label = Преименуване…
@@ -676,7 +695,7 @@ forms-master-pw-use =
     .label = Използване на главна парола
     .accesskey = г
 forms-master-pw-change =
-    .label = Промяна на главна парола
+    .label = Промяна на главна парола…
     .accesskey = л
 forms-master-pw-fips-title = В момента е активен режим FIPS. Той изисква попълнена главна парола.
 forms-master-pw-fips-desc = Грешка при промяна на паролата
@@ -819,7 +838,7 @@ enhanced-tracking-protection-setting-custom =
     .label = По избор
     .accesskey = и
 
-##
+
 
 content-blocking-etp-standard-desc = Баланс между защита и бързодействие. Страниците ще се зареждат нормално.
 content-blocking-etp-strict-desc = По-високо ниво на защита, но някои страници може да не работят.

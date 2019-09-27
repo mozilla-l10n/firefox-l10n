@@ -108,7 +108,7 @@ onboarding-lockwise-passwords-title = Вземете паролите си на�
 onboarding-lockwise-passwords-button2 = Вземете приложението
 onboarding-facebook-container-title = Сложете ограда на Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } държи профила ви отделен от всичко останало, което затруднява Facebook да ви показва целеви реклами.
-onboarding-facebook-container-button = Добавете разширението
+onboarding-facebook-container-button = Добавяне на разширението
 
 ## Message strings belonging to the Return to AMO flow
 
