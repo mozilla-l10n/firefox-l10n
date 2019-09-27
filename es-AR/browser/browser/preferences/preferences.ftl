@@ -626,6 +626,14 @@ sync-currently-syncing-prefs =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Elegir lo que quiere sincronizar
+    .style = ancho: 36em; altura mínima: 35em;
+    .buttonlabelaccept = Guardar cambios
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Cerrar sesión…
+    .buttonaccesskeyextra2 = D
+sync-choose-heading = Elija qué sincronizar con su cuenta para dispositivos que usan { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = M
@@ -640,6 +648,10 @@ sync-engine-logins =
     .label = Ingresos
     .tooltiptext = Usuarios y contraseñas que se hayan guardado
     .accesskey = I
+sync-engine-logins-passwords =
+    .label = Inicios de sesión y contraseñas
+    .tooltiptext = Nombres de usuario y contraseñas guardadas
+    .accesskey = L
 sync-engine-addresses =
     .label = Direcciones
     .tooltiptext = Direcciones postales que se hayan guardado (solo escritorio)
