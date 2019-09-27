@@ -102,9 +102,20 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = Od { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Pogledaj izvještaj
 cfr-whatsnew-lockwise-backup-title = Izradi sigurnosnu kopiju tvojih lozinki
+cfr-whatsnew-lockwise-backup-body = Sad generiraj sigurne lozinke, kojima možeš pristupiti gdjegod se prijavljuješ.
+cfr-whatsnew-lockwise-backup-link-text = Uključi sigurnosne kopije
+cfr-whatsnew-lockwise-take-title = Ponesi svoje lozinke sa sobom
+cfr-whatsnew-lockwise-take-body =
+    Mobilna aplikacija { -lockwise-brand-short-name } omogućuje siguran pristup 
+    tvojim lozinkama sigurnosnih kopija s bilo kojeg mjesta.
+cfr-whatsnew-lockwise-take-link-text = Preuzmi aplikaciju
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Preuzmi ovu oznaku na svoj mobitel
+cfr-doorhanger-sync-bookmarks-body = Ponesi svoje zabilješke, lozinke, povijest i ostalo, gdje god si prijavljen/a na { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Uključi { -sync-brand-short-name }
+    .accesskey = U
 
 ## Login Sync
 
