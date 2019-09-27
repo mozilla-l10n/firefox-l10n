@@ -55,6 +55,11 @@ certificate-viewer-timestamp = Tiidstimpel
 certificate-viewer-value = Wearde
 certificate-viewer-version = Ferzje
 certificate-viewer-business-category = Bedriuwskategory
+certificate-viewer-subject-name = Underwerpnamme
+certificate-viewer-validity = Jildichheid
+certificate-viewer-miscellaneous = Diversken
+certificate-viewer-fingerprints = Fingerôfdrukken
+certificate-viewer-basic-constraints = Basisbeheiningen
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Downloade
@@ -66,3 +71,7 @@ certificate-viewer-boolean =
         [true] Ja
        *[false] Nee
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+

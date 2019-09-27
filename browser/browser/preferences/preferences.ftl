@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Digital Rights Management (DRM)-ynhâld
 play-drm-content =
@@ -554,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Nim jo web mei jo mei
 sync-signedout-description = Syngronisearje jo blêdwizers, skiednis, ljepblêden, wachtwurden, add-ons en foarkarren op al jo apparaten.
 sync-signedout-account-title = Ferbining meitsje mei in { -fxaccount-brand-name }
@@ -574,11 +578,17 @@ sync-mobile-promo = Download Firefox foar <img data-l10n-name="android-icon"/> <
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Profylôfbylding wizigje
 sync-disconnect =
     .label = Ferbining ferbrekke…
     .accesskey = b
+sync-sign-out =
+    .label = Ofmelde…
+    .accesskey = O
 sync-manage-account = Account beheare
     .accesskey = h
 sync-signedin-unverified = { $email } is net ferifiearre.
@@ -594,6 +604,46 @@ sync-sign-in =
     .accesskey = m
 sync-signedin-settings-header = Syngronisaasjeynstellingen
 sync-signedin-settings-desc = Kieze wat jo syngronisearje wolle op jo apparaten dy't { -brand-short-name } brûke.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Syngronisaasje: OAN
+prefs-syncing-off = Syngronisaasje: ÚT
+prefs-sync-setup =
+    .label = { -sync-brand-short-name } ynstelle…
+    .accesskey = y
+prefs-sync-offer-setup-label = Syngronisearje jo blêdwizers, skiednis, ljepblêden, wachtwurden, add-ons en foarkarren op al jo apparaten.
+prefs-sync-now =
+    .labelnotsyncing = No syngronisearje
+    .accesskeynotsyncing = N
+    .labelsyncing = Syngronisearret…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = Jo syngronisearje op it stuit dizze items:
+sync-currently-syncing-bookmarks = Blêdwizers
+sync-currently-syncing-history = Skiednis
+sync-currently-syncing-tabs = Iepen ljeplêden
+sync-currently-syncing-logins-passwords = Oanmeldingen en wachtwurden
+sync-currently-syncing-addresses = Adressen
+sync-currently-syncing-creditcards = Creditcards
+sync-currently-syncing-addons = Add-ons
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Foarkarren
+       *[other] Foarkarren
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Kies wat jo syngronisearje wolle
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Wizigingen bewarje
+    .buttonaccesskeyaccept = W
+    .buttonlabelextra2 = Ferbrekke…
+    .buttonaccesskeyextra2 = F
+sync-choose-heading = Kieze wat jo nei jo account syngronisearje wolle op jo apparaten dy't { -sync-brand-short-name } brûke.
 sync-engine-bookmarks =
     .label = Blêdwizers
     .accesskey = w
@@ -608,6 +658,10 @@ sync-engine-logins =
     .label = Oanmeldingen
     .tooltiptext = Brûkersnammen en wachtwurden dy't jo bewarre hawwe
     .accesskey = O
+sync-engine-logins-passwords =
+    .label = Oanmeldingen en wachtwurden
+    .tooltiptext = Oanmeldingen en wachtwurden dy't jo bewarre hawwe
+    .accesskey = a
 sync-engine-addresses =
     .label = Adressen
     .tooltiptext = Bewarre adressen (allinnich desktop)
@@ -628,6 +682,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Algemiene, privacy- en feilichheidsynstellingen dy't jo wizige hawwe
     .accesskey = F
+
+## The device name controls.
+
 sync-device-name-header = Apparaatnamme
 sync-device-name-change =
     .label = Apparaatnamme wizigje…
@@ -818,7 +875,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Oanpast
     .accesskey = O
 
-##
+
 
 content-blocking-etp-standard-desc = Balansearre foar beskerming en prestaasjes. Siden lade normaal.
 content-blocking-etp-strict-desc = Sterkere beskerming, mar kin der foar soargje dat guon websites of ynhâld net wurkje.
