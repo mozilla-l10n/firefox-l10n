@@ -13,11 +13,18 @@ about-config-search-input =
 
 ## These strings appear on the warning you see when first visiting about:config.
 
+about-config-intro-warning-title = Kemmel, maca ɣur-k.
+about-config-intro-warning-text = Abeddel n yismenyifen n twila lqayen zemren ad ḥazen tamlellit neɣ taɣellist n { -brand-short-name }.
+about-config-intro-warning-checkbox = Lɣu-yi-d ticki ɛerḍeɣ ad kecmeɣ ɣer yismenyifen-a.
 about-config-intro-warning-button = Qbel ugur u kemmel
 
 
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Abeddel n yismenyifen-a lqayen zemren ad ḥazen tamlellit neɣ taɣellist n { -brand-short-name }.
 about-config-page-title = Ismenyifen leqqayen
+about-config-search-input1 =
+    .placeholder = Nadi isem n usmenyif
 about-config-show-all = Sken akk
 about-config-pref-add = Rnu
 about-config-pref-toggle = Nṭew
