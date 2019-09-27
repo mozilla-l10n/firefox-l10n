@@ -319,7 +319,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Cynnwys Rheoli Hawliau Digidol (DRM)
 play-drm-content =
@@ -570,6 +570,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Mynd â'ch  Gwe gyda Chi
 sync-signedout-description = Cydweddwch eich nodau tudalen, hanes, tabiau, cyfrineiriau, ychwanegion a dewisiadau ymysg eich dyfeisiau i gyd.
 sync-signedout-account-title = Cysylltwch gyda { -fxaccount-brand-name }
@@ -590,11 +594,17 @@ sync-mobile-promo = Llwytho Firefox i lawr ar gyfer <img data-l10n-name="android
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Newid llun proffil
 sync-disconnect =
     .label = Datgysylltu…
     .accesskey = D
+sync-sign-out =
+    .label = Allgofnodi…
+    .accesskey = A
 sync-manage-account = Rheoli cyfrif
     .accesskey = R
 sync-signedin-unverified = { $email } wedi ei wirio.
@@ -610,6 +620,38 @@ sync-sign-in =
     .accesskey = M
 sync-signedin-settings-header = Gosodiadau Sync
 sync-signedin-settings-desc = Dewis beth i'w cydweddu ar eich dyfais gan ddefnyddio { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Cydweddu: YMLAEN
+prefs-syncing-off = Cydweddu: DIFFODD
+prefs-sync-setup =
+    .label = Gosod { -sync-brand-short-name }
+    .accesskey = G
+prefs-sync-offer-setup-label = Cydweddwch eich nodau tudalen, hanes, tabiau, cyfrineiriau, ychwanegion a dewisiadau ar draws eich dyfeisiau i gyd.
+prefs-sync-now =
+    .labelnotsyncing = Cydweddu Nawr
+    .accesskeynotsyncing = N
+    .labelsyncing = Cydweddu…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = Rydych wrthi'n cydweddu'r eitemau hyn:
+sync-currently-syncing-bookmarks = Nodau Tudalen
+sync-currently-syncing-history = Hanes
+sync-currently-syncing-tabs = Tabiau agored
+sync-currently-syncing-logins-passwords = Mewngofnodion a chyfrineiriau
+sync-currently-syncing-addresses = Cyfeiriadau
+sync-currently-syncing-creditcards = Cardiau Credyd
+sync-currently-syncing-addons = Ychwanegion
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Dewisiadau
+       *[other] Dewisiadau
+    }
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Nodau Tudalen
     .accesskey = T
@@ -644,6 +686,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Gosodiadau Cyffredinol, Preifatrwydd a Diogelwch rydych wedi eu newid
     .accesskey = D
+
+## The device name controls.
+
 sync-device-name-header = Enw Dyfais
 sync-device-name-change =
     .label = Newid Enw'r Ddyfais…
@@ -834,7 +879,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Cyfaddas
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = Cydbwysedd rhwng diogelwch a pherfformiad. Bydd tudalennau'n llwytho fel arfer.
 content-blocking-etp-strict-desc = Diogelwch cryfach, ond gall achosi i rai gwefannau neu gynnwys dorri.
