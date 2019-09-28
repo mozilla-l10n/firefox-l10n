@@ -25,11 +25,7 @@ install-addon-from-file =
     .label = Instalovat doplněk ze souboru…
     .accesskey = I
 help-button = Nápověda
-preferences =
-    { PLATFORM() ->
-        [windows] Nastavení aplikace
-       *[other] Nastavení aplikace
-    }
+preferences = Nastavení aplikace
 tools-menu =
     .tooltiptext = Nástroje doplňků
 show-unsigned-extensions-button =
