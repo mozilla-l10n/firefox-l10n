@@ -74,6 +74,8 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = Pregledaj web bez da te se prati
+cfr-protections-panel-body = Zadrži svoje podatke privatnima. { -brand-short-name } štiti od mnogih uobičajenih programa za praćenje, koji prate tvoje radnje na mreži.
 cfr-protections-panel-link-text = Saznaj više
 
 ## What's New toolbar button and panel
@@ -119,12 +121,25 @@ cfr-doorhanger-sync-bookmarks-ok-button = Uključi { -sync-brand-short-name }
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Nikad više ne gubi lozinku
+cfr-doorhanger-sync-logins-body = Sigurno spremi i sinkroniziraj lozinke na svim svojim uređajima.
+cfr-doorhanger-sync-logins-ok-button = Uključi { -sync-brand-short-name }
+    .accesskey = U
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Pročitaj ovo u hodu
+cfr-doorhanger-send-tab-recipe-header = Ponesi ovaj recept u kuhinju
+cfr-doorhanger-send-tab-body = Kartica Pošalji omogućuje jednostavno slanje ove poveznice na tvoj telefon ili gdje god si prijavljen/a na { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Pokušaj poslati karticu
+    .accesskey = P
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Dijeli ovaj PDF sigurno
+cfr-doorhanger-firefox-send-body = Čuvaj svoje osjetljive dokumente od znatiželjnih pogleda obostranim šifriranjem i s poveznicom, koja nestaje nakon što završiš.
+cfr-doorhanger-firefox-send-ok-button = Isprobaj { -send-brand-name }
+    .accesskey = I
 
 ## Social Tracking Protection
 
