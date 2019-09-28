@@ -608,9 +608,24 @@ sync-signedin-settings-desc = Odaberite što sinkronizirati na vašim uređajima
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Sinkroniziranje: UKLJUČENO
+prefs-syncing-off = Sinkroniziranje: ISKLJUČENO
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Trenutačno sinkroniziraš ove stavke:
+sync-currently-syncing-bookmarks = Zabilješke
+sync-currently-syncing-history = Povijest
+sync-currently-syncing-tabs = Otvorene kartice
+sync-currently-syncing-logins-passwords = Prijave i lozinke
+sync-currently-syncing-addresses = Adrese
+sync-currently-syncing-creditcards = Kreditne kartice
+sync-currently-syncing-addons = Dodaci
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Opcije
+       *[other] Postavke
+    }
 
 ## The "Choose what to sync" dialog.
 

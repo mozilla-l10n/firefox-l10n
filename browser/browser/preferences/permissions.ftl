@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Iznimke - blokiranje sadržaja
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Onemogućili ste blokiranje sadržaja za ove stranice.
+permissions-exceptions-etp-window =
+    .title = Iznimke za poboljšanu zaštitu od praćenja
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Isključio/la si zaštitu na ovim web lokacijama.
 
 ## Exceptions - Cookies
 
