@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Synchronizované panely
 synced-tabs-sidebar-noclients-subtitle = Chcete zde vidět své panely z ostatních zařízení?
 synced-tabs-sidebar-notsignedin = Pro zobrazení seznamu panelů z vašich ostatních zařízení se prosím přihlaste.
+synced-tabs-sidebar-intro = Seznam panelů z ostatních zařízení
 synced-tabs-sidebar-unverified = Je potřeba ověřit váš účet.
 synced-tabs-sidebar-notabs = Žádné otevřené panely
 synced-tabs-sidebar-openprefs = Otevřít předvolby { -sync-brand-short-name(case: "gen") }
@@ -37,3 +38,4 @@ synced-tabs-context-manage-devices =
     .label = Správa zařízení…
     .accesskey = z
 fxa-sign-in = Přihlášení k { -sync-brand-short-name(case: "dat") }
+turn-on-sync = Zapnout { -sync-brand-short-name }

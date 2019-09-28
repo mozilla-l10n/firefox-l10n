@@ -564,6 +564,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Vezměte si web s sebou
 sync-signedout-description = Synchronizujte své záložky, historii, panely, hesla, doplňky a předvolby ve všech svých zařízeních.
 sync-signedout-account-title = Propojit s účtem Firefoxu
@@ -584,11 +588,17 @@ sync-mobile-promo = Stáhněte si Firefox pro <img data-l10n-name="android-icon
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Změnit profilový obrázek
 sync-disconnect =
     .label = Odpojit…
     .accesskey = d
+sync-sign-out =
+    .label = Odhlásit se…
+    .accesskey = O
 sync-manage-account = Spravovat účet
     .accesskey = S
 sync-signedin-unverified = Účet { $email } není ověřen.
@@ -604,6 +614,46 @@ sync-sign-in =
     .accesskey = i
 sync-signedin-settings-header = Nastavení synchronizace
 sync-signedin-settings-desc = Vyberte, co má { -brand-short-name } na vašich zařízeních synchronizovat.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Synchronizace zapnuta
+prefs-syncing-off = Synchronizace vypnuta
+prefs-sync-setup =
+    .label = Nastavit { -sync-brand-short-name }…
+    .accesskey = N
+prefs-sync-offer-setup-label = Synchronizujte své záložky, historii, panely, hesla, doplňky a předvolby ve všech svých zařízeních.
+prefs-sync-now =
+    .labelnotsyncing = Synchronizovat
+    .accesskeynotsyncing = S
+    .labelsyncing = Probíhá synchronizace…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = Máte zapnutou synchronizaci následujících dat:
+sync-currently-syncing-bookmarks = Záložky
+sync-currently-syncing-history = Historie
+sync-currently-syncing-tabs = Otevřené panely
+sync-currently-syncing-logins-passwords = Přihlašovací údaje
+sync-currently-syncing-addresses = Adresy
+sync-currently-syncing-creditcards = Platební karty
+sync-currently-syncing-addons = Doplňky
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Možnosti
+       *[other] Předvolby
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Nastavení synchronizace
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Uložit
+    .buttonaccesskeyaccept = U
+    .buttonlabelextra2 = Zrušit synchronizaci…
+    .buttonaccesskeyextra2 = Z
+sync-choose-heading = Vyberte, co se má na vašich zařízeních pomocí služby { -sync-brand-short-name } synchronizovat.
 sync-engine-bookmarks =
     .label = Záložky
     .accesskey = Z
@@ -618,6 +668,10 @@ sync-engine-logins =
     .label = Přihlašovací údaje
     .tooltiptext = Uložená uživatelská jména a hesla
     .accesskey = l
+sync-engine-logins-passwords =
+    .label = Přihlašovací údaje
+    .tooltiptext = Uložená uživatelská jména a hesla
+    .accesskey = P
 sync-engine-addresses =
     .label = Adresy
     .tooltiptext = Uložené poštovní adresy (pouze na počítači)
@@ -642,6 +696,9 @@ sync-engine-prefs =
             [windows] M
            *[other] P
         }
+
+## The device name controls.
+
 sync-device-name-header = Název zařízení
 sync-device-name-change =
     .label = Přejmenovat toto zařízení…

@@ -87,6 +87,21 @@ cfr-whatsnew-panel-header = Co je nového
 cfr-whatsnew-release-notes-link-text = Přečtěte si poznámky k vydání
 cfr-whatsnew-fx70-title = { -brand-short-name } tvrdě bojuje za vaše soukromí
 cfr-whatsnew-fx70-body = Nejnovější aktualizace vylepšuje funkci ochrany proti sledování a usnadňuje vytváření bezpečných hesel pro každý server.
+cfr-whatsnew-tracking-protect-title = Chraňte se před sledovacími prvky
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } blokuje mnoho prvků sociálních sítí a třetích stran, které jsou známé sledováním vašeho chování na internetu.
+cfr-whatsnew-tracking-protect-link-text = Zobrazit podrobnosti
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title = Zablokováno sledovacích prvků
+cfr-whatsnew-tracking-blocked-subtitle = Od { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Zobrazit podrobnosti
+cfr-whatsnew-lockwise-backup-title = Zálohujte svá hesla
+cfr-whatsnew-lockwise-backup-body = Používejte generovaná a bezpečná hesla, ke kterým máte přístup všude, kde se přihlásíte.
+cfr-whatsnew-lockwise-backup-link-text = Zapnout zálohování
+cfr-whatsnew-lockwise-take-title = Vezměte si svá hesla všude s sebou
+cfr-whatsnew-lockwise-take-body = S mobilní aplikací { -lockwise-brand-short-name } budete získáte bezpečný přístup k vašim zálohovaným přihlašovacím údajům kdekoliv budete potřebovat.
+cfr-whatsnew-lockwise-take-link-text = Stáhnout aplikaci
 
 ## Bookmark Sync
 
@@ -116,3 +131,16 @@ cfr-doorhanger-firefox-send-header = Sdílejte bezpečně toto PDF
 cfr-doorhanger-firefox-send-body = Sdílejte své dokumenty bez toho, aby vám někdo koukal přes rameno, chráněné pomocí end-to-end šifrování a odkazů s omezenou platností.
 cfr-doorhanger-firefox-send-ok-button = Vyzkoušet { -send-brand-name }
     .accesskey = V
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Podrobnosti
+    .accesskey = P
+cfr-doorhanger-socialtracking-close-button = Zavřít
+    .accesskey = Z
+cfr-doorhanger-socialtracking-heading = Aplikace { -brand-short-name } zabránila vašemu sledování sociální sítí
+cfr-doorhanger-socialtracking-description = Na vašem soukromí záleží. { -brand-short-name } blokuje běžné sledovací prvky sociálních sítí a tím omezuje množství dat, které o vás mohou na internetu sbírat.
+cfr-doorhanger-fingerprinters-heading = Aplikace { -brand-short-name } zabránila vytvoření otisku vašeho prohlížeče
+cfr-doorhanger-fingerprinters-description = Na vašem soukromí záleží. { -brand-short-name } blokuje vytváření otisku vašeho prohlížeče, který může být využit k vaší identifikaci nebo vašemu sledování.
+cfr-doorhanger-cryptominers-heading = Aplikace { -brand-short-name } zablokovala těžbu kryptoměn
+cfr-doorhanger-cryptominers-description = Na vašem soukromí záleží. { -brand-short-name } blokuje těžbu kryptoměn, která spotřebovává výkon vašeho počítače k těžbě digitálních mincí.
