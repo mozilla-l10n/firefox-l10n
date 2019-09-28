@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-certificate-viewer-certificate-section-title = სერთიფიკატი
+certificate-viewer-certificate-section-title = სერტიფიკატი
 
 ## Error messages
 
@@ -55,6 +55,16 @@ certificate-viewer-timestamp = დროის აღნიშვნა
 certificate-viewer-value = მნიშვნელობა
 certificate-viewer-version = ვერსია
 certificate-viewer-business-category = ბიზნესის კატეგორია
+certificate-viewer-subject-name = სუბიექტის სახელი
+certificate-viewer-issuer-name = გამომცემის დასახელება
+certificate-viewer-validity = ძალამოსილობა
+certificate-viewer-subject-alt-names = სუბიექტის შემცვლელი სახელები
+certificate-viewer-public-key-info = საჯარო გასაღების მონაცემები
+certificate-viewer-miscellaneous = სხვადასხვა
+certificate-viewer-fingerprints = ანაბეჭდები
+certificate-viewer-basic-constraints = ძირითადი შეზღუდვები
+certificate-viewer-key-usages = გასაღების გამოყენება
+certificate-viewer-extended-key-usages = გაფართოებული გასაღების გამოყენება
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = ჩამოტვირთვა
@@ -66,3 +76,7 @@ certificate-viewer-boolean =
         [true] დიახ
        *[false] არა
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
