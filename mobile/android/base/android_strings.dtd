@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Dalintis tinklalapiu">
 <!ENTITY share_title "Dalintis per">
 <!ENTITY share_image_failed "Paveikslu pasidalinti nepavyko">
+<!ENTITY share_error_toast_message "Su nurodyta programa pasidalinti nepavyko">
 <!ENTITY save_as_pdf "Įrašyti PDF formatu">
 <!ENTITY print "Spausdinti">
 <!ENTITY view_page_source "Pirminis tekstas">
