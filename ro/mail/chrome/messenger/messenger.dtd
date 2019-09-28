@@ -266,7 +266,7 @@
 <!ENTITY viewAttachmentsInlineCmd.label "Afișează atașamentele în mesaj">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
 
-<!ENTITY pageSourceCmd.label "Sursă mesaj">
+<!ENTITY pageSourceCmd.label "Sursa mesajului">
 <!ENTITY pageSourceCmd.accesskey "u">
 <!ENTITY pageSourceCmd.key "U">
 <!ENTITY getNewMessagesCmd.key "y">
@@ -391,8 +391,8 @@
 <!ENTITY killThreadMenu.label "Ignoră conversația">
 <!ENTITY killThreadMenu.accesskey "I">
 <!ENTITY killThreadMenu.key "k">
-<!ENTITY killSubthreadMenu.label "Ignoră conversația din interior">
-<!ENTITY killSubthreadMenu.accesskey "s">
+<!ENTITY killSubthreadMenu.label "Ignoră conversația subsidiară">
+<!ENTITY killSubthreadMenu.accesskey "S">
 <!ENTITY killSubthreadMenu.key "k">
 <!ENTITY watchThreadMenu.label "Urmărește conversația">
 <!ENTITY watchThreadMenu.accesskey "U">
@@ -486,7 +486,7 @@
 <!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd2.label "Filtre pentru mesaje">
 <!ENTITY filtersCmd2.accesskey "F">
-<!ENTITY filtersApply.label "Filtrează dosarul">
+<!ENTITY filtersApply.label "Execută filtre pe dosar">
 <!ENTITY filtersApply.accesskey "r">
 <!ENTITY filtersApplyToSelection.label "Rulează filtrele pe mesajele selectate">
 <!ENTITY filtersApplyToSelection.accesskey "s">
@@ -603,7 +603,7 @@
 <!ENTITY chatButton.tooltip "Afișează fila pentru chat">
 <!ENTITY tagButton.tooltip "Etichetează mesaje">
 <!ENTITY compactButton.tooltip "Elimină mesajele șterse din dosarul selectat">
-<!ENTITY appmenuButton1.tooltip "Afișare meniu &brandShortName;">
+<!ENTITY appmenuButton1.tooltip "Afișează meniul &brandShortName;">
 <!ENTITY addonsButton.tooltip "Gestionează-ți suplimentele">
 
 <!-- Toolbar Button Popup -->
@@ -800,7 +800,7 @@
 <!ENTITY contextKillThreadMenu.label "Ignoră conversația">
 <!ENTITY contextKillSubthreadMenu.accesskey "b">
 <!ENTITY contextKillThreadMenu.accesskey "I">
-<!ENTITY contextKillSubthreadMenu.label "Ignoră conversația din interior">
+<!ENTITY contextKillSubthreadMenu.label "Ignoră conversația subsidiară">
 <!ENTITY contextWatchThreadMenu.label "Urmărește conversația">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
@@ -879,7 +879,7 @@
      to get to the box faster. If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
   -->
-<!ENTITY search.label.base1 "Căutare #1">
+<!ENTITY search.label.base1 "Caută #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key). We use the key defined in
