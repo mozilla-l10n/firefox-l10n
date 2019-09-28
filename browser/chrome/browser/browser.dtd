@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Barra de menú">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Barra de navegación">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Navegación">
 <!ENTITY personalbarCmd.label "Barra de marcadores">
 <!ENTITY personalbarCmd.accesskey "B">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Marcadores">
 <!ENTITY bookmarksToolbarItem.label "Elementos de la barra de marcadores">
 
 <!ENTITY pageSourceCmd.label "Código fuente de la página">
 <!ENTITY pageSourceCmd.accesskey "o">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Información de la página">
 <!ENTITY pageInfoCmd.accesskey "I">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Depurador de diseño">
 <!ENTITY ldbCmd.accesskey "L">
@@ -116,6 +126,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Reconectarse a &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verifica tu cuenta">
 
+
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
@@ -145,14 +158,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Conectado como">
 <!ENTITY fxa.menu.manageAccount.label "Administrar cuenta…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings.label "Ajustes de &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectar otro dispositivo…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Conectarse a &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Cuenta">
 <!ENTITY fxa.menu.firefoxServices.label "Servicios de &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Cuenta">
+<!ENTITY fxa.menu.settings.label "Ajustes">
+<!ENTITY fxa.menu.accountSettings.label "Ajustes de la cuenta">
+<!ENTITY fxa.menu.signOut.label "Salir…">
+<!ENTITY fxa.menu.deviceSettings.label "Ajustes del dispositivo">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -195,6 +217,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Marcadores">
 <!ENTITY bookmarksMenu.accesskey "M">
+
 <!ENTITY bookmarkThisPageCmd.label "Guardar esta página en marcadores">
 <!ENTITY editThisBookmarkCmd.label "Editar este marcador">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -236,6 +259,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestionar uso de complemento">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambiar si puedes recibir o no notificaciones del sitio">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Almacenar datos en almacenamiento persistente">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "El navegador está bajo control remoto">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Abrir panel de autenticación web">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Abrir panel de permisos de actividad de navegación">
@@ -421,8 +445,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿Te gustaría ver las pestañas de tus otros dispositivos aquí?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Abrir preferencias de Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Conéctate para ver una lista de las pestañas de tus otros dispositivos.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Ver una lista de las pestañas de tus otros dispositivos.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tu cuenta necesita ser verificada.">
 <!ENTITY appMenuRemoteTabs.signin.label "Conectarse a Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Conectarse a &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Activar &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administrar servicios…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver barra lateral con las pestañas sincronizadas">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Ocultar barra lateral con las pestañas sincronizadas">
@@ -510,6 +537,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Buscar por">
+
 <!ENTITY contentSearchSubmit.tooltip  "Enviar búsqueda">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -955,10 +983,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Rastreadores">
 
 <!ENTITY contentBlocking.manageSettings.label "Gestionar bloqueo de contenido">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Contenido de rastreo">
-
-<!ENTITY contentBlocking.manageSettings2.label "Gestionar ajustes de protección">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Rastreadores">
@@ -966,6 +990,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies y datos de sitio">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Contenido de rastreo">
+
+<!ENTITY contentBlocking.manageSettings2.label "Gestionar ajustes de protección">
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Rastreadores de redes sociales">
 
@@ -981,6 +1010,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Reportar problemas">
 <!ENTITY contentBlocking.breakageReportView2.description "El bloqueo de contenido puede causar problemas con algunos sitios. Cuando reportas problemas, ayudas a mejorar &brandShortName; para todos. (Esto enviará la URL junto con información de la configuración del navegador a Mozilla).">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Aprender más">
+
 <!ENTITY contentBlocking.breakageReportView.title "Informar de un sitio que no carga">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Aprender más">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
@@ -1035,6 +1065,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "Una extensión ha cambiado lo que ves como página de inicio. Puedes restaurar tus ajustes si es que no te gusta el cambio.">
+
 <!ENTITY homepageControlled.header.message "Tu página de inicio ha cambiado.">
 <!ENTITY homepageControlled.keepButton.label "Mantener cambios">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
