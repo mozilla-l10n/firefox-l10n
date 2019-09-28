@@ -538,6 +538,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Mang trang web theo bạn
 sync-signedout-description = Đồng bộ trang đánh dấu, lịch sử, thẻ, mật khẩu, tiện ích và tùy chỉnh tới tất cả các thiết bị của bạn.
 sync-signedout-account-title = Kết nối với một { -fxaccount-brand-name }
@@ -558,11 +562,17 @@ sync-mobile-promo = Tải Firefox cho <img data-l10n-name="android-icon"/> <a da
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Đổi hình hồ sơ
 sync-disconnect =
     .label = Ngắt kết nối…
     .accesskey = D
+sync-sign-out =
+    .label = Đăng xuất…
+    .accesskey = g
 sync-manage-account = Quản lý tài khoản
     .accesskey = k
 sync-signedin-unverified = { $email } chưa được kiểm tra.
@@ -578,6 +588,46 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Cài đặt đồng bộ hóa
 sync-signedin-settings-desc = Chọn những thứ bạn muốn đồng bộ sử dụng { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Đồng bộ hóa: BẬT
+prefs-syncing-off = Đồng bộ hóa: TẮT
+prefs-sync-setup =
+    .label = Thiết lập { -sync-brand-short-name }…
+    .accesskey = S
+prefs-sync-offer-setup-label = Đồng bộ trang đánh dấu, lịch sử, thẻ, mật khẩu, tiện ích và tùy chỉnh tới tất cả các thiết bị của bạn.
+prefs-sync-now =
+    .labelnotsyncing = Đồng bộ hóa ngay
+    .accesskeynotsyncing = N
+    .labelsyncing = Đang đồng bộ hóa…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = Bạn hiện đang đồng bộ hóa các mục này:
+sync-currently-syncing-bookmarks = Trang đánh dấu
+sync-currently-syncing-history = Lịch sử
+sync-currently-syncing-tabs = Thẻ đang mở
+sync-currently-syncing-logins-passwords = Đăng nhập và mật khẩu
+sync-currently-syncing-addresses = Địa chỉ
+sync-currently-syncing-creditcards = Thẻ tín dụng
+sync-currently-syncing-addons = Tiện ích
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Tùy chọn
+       *[other] Tùy chỉnh
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Chọn những gì để đồng bộ hóa
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Lưu thay đổi
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Ngắt kết nối…
+    .buttonaccesskeyextra2 = D
+sync-choose-heading = Chọn những gì để đồng bộ hóa với tài khoản của bạn cho các thiết bị sử dụng { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Trang đánh dấu
     .accesskey = d
@@ -591,6 +641,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = Đăng nhập
     .tooltiptext = Tên đăng nhập và mật khẩu bạn đã được lưu
+    .accesskey = L
+sync-engine-logins-passwords =
+    .label = Đăng nhập và mật khẩu
+    .tooltiptext = Tên đăng nhập và mật khẩu bạn đã lưu
     .accesskey = L
 sync-engine-addresses =
     .label = Địa chỉ
@@ -612,6 +666,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Các cài đặt chung, cài đặt về sự riêng tư, và bảo mật mà bạn đã thay đổi
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Tên thiết bị
 sync-device-name-change =
     .label = Thay đổi tên thiết bị…
