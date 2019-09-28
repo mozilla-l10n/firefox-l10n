@@ -23,20 +23,21 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Compte">
 <!ENTITY firstrun_sync_message2 "Tornatz ont èretz.">
+<!ENTITY firstrun_sync_message3 "Sincronizar vòstres marcapaginas, istoric e senhals amb vòstre telefòn.">
 <!ENTITY firstrun_sync_subtext2 "Utilizatz Sync per retrobar de marcapaginas, senhals, e autras donadas que gardatz dins &brandShortName; sus totes vòstres periferics.">
 <!ENTITY newfirstrun_sync_subtext "Sincronizatz çò qu’enregistratz dins vòstre periferic mobil amb Firefox per ordenador, d’un biais privat e segur.">
 <!ENTITY updatednewfirstrun_sync_subtext "Connectatz-vos a vòstre compte per aprofechar al maximum de &brandShortName;">
 <!ENTITY firstrun_signin_message "Connectatz-vos e començatz">
+<!ENTITY firstrun_sendtab_title "Enviar l’onglet">
+<!ENTITY firstrun_sendtab_message "Partejatz d’onglets de vòstre telefòn estan amb l’ordenador, instantanèament.">
 <!ENTITY firstrun_signin_button "Se connectar a Sync">
 <!ENTITY newfirstrun_signin_button "Activar la sincronizacion">
 <!ENTITY updatednewfirstrun_signin_button "Se connectar a&brandShortName;">
-<!ENTITY  onboard_start_button_browser "Començar de navegar">
+<!ENTITY onboard_start_button_browser "Començar de navegar">
 <!ENTITY firstrun_button_notnow "Non, pas ara">
 <!ENTITY firstrun_button_next "Seguent">
 
 <!ENTITY firstrun_signin_button2 "Se connectar">
-
-<!ENTITY firstrun_signup_button "S’inscriure">
 
 <!ENTITY firstrun_tabqueue_title "Ligams">
 
@@ -48,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Vos">
 <!ENTITY firstrun_account_message "Utilizatz &brandShortName; sus d’autres periferics ?">
+
+<!ENTITY firstrun_signup_button "S’inscriure">
 
 <!ENTITY  onboard_start_restricted1 "Demoratz en seguretat e a la mena amb aquela version simplificada de &brandShortName;.">
 
@@ -499,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Partejar">
 <!ENTITY share_title "Partejar amb l’ajuda de">
 <!ENTITY share_image_failed "Impossible de partejar aqueste imatge">
+<!ENTITY share_error_toast_message "Partatge impossibla amb l’aplicacion causida">
 <!ENTITY save_as_pdf "Enregistrar en PDF">
 <!ENTITY print "Imprimir">
 <!ENTITY view_page_source "Veire lo còdi font">
@@ -692,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Sètz connectat a">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
