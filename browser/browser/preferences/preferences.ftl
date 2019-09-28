@@ -310,7 +310,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Содержимое использующее технические средства защиты авторских прав (DRM)
 play-drm-content =
@@ -555,6 +555,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Возьмите свой Интернет с собой
 sync-signedout-description = Синхронизируйте свои закладки, историю, вкладки, пароли, дополнения и настройки на всех ваших устройствах.
 sync-signedout-account-title = Соединитесь с { -fxaccount-brand-name(case: "instrumental") }
@@ -575,11 +579,17 @@ sync-mobile-promo = Загрузите Firefox для <img data-l10n-name="andro
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Изменить фотографию в профиле
 sync-disconnect =
     .label = Отсоединить…
     .accesskey = н
+sync-sign-out =
+    .label = Выйти…
+    .accesskey = ы
 sync-manage-account = Управление аккаунтом
     .accesskey = в
 sync-signedin-unverified = { $email } не подтверждён.
@@ -595,6 +605,44 @@ sync-sign-in =
     .accesskey = о
 sync-signedin-settings-header = Параметры синхронизации
 sync-signedin-settings-desc = Выберите, что нужно синхронизировать на ваших устройствах при помощи { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Синхронизация: ВКЛЮЧЕНА
+prefs-syncing-off = Синхронизация: ОТКЛЮЧЕНА
+prefs-sync-setup =
+    .label = Настроить { -sync-brand-short-name(case: "accusative") }…
+    .accesskey = а
+prefs-sync-now =
+    .labelnotsyncing = Синхронизировать
+    .accesskeynotsyncing = х
+    .labelsyncing = Синхронизирую…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = Сейчас вы синхронизируете:
+sync-currently-syncing-bookmarks = Закладки
+sync-currently-syncing-history = Историю
+sync-currently-syncing-tabs = Открытые вкладки
+sync-currently-syncing-logins-passwords = Логины и пароли
+sync-currently-syncing-addresses = Адреса
+sync-currently-syncing-creditcards = Банковские карты
+sync-currently-syncing-addons = Дополнения
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Настройки
+       *[other] Настройки
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Выберите, что синхронизировать
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Сохранить изменения
+    .buttonaccesskeyaccept = х
+    .buttonlabelextra2 = Отсоединить…
+    .buttonaccesskeyextra2 = е
 sync-engine-bookmarks =
     .label = Закладки
     .accesskey = к
@@ -609,6 +657,10 @@ sync-engine-logins =
     .label = Логины
     .tooltiptext = Сохранённые имена пользователей и пароли
     .accesskey = ы
+sync-engine-logins-passwords =
+    .label = Логины и пароли
+    .tooltiptext = Сохранённые вами имена пользователей и пароли
+    .accesskey = н
 sync-engine-addresses =
     .label = Адреса
     .tooltiptext = Сохранённые вами почтовые адреса (только для компьютера)
@@ -629,6 +681,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Изменённые вами настройки: Общие, Приватность и Защита
     .accesskey = й
+
+## The device name controls.
+
 sync-device-name-header = Имя устройства
 sync-device-name-change =
     .label = Изменить имя устройства…
@@ -816,7 +871,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Персональная
     .accesskey = а
 
-##
+
 
 content-blocking-etp-standard-desc = Обеспечивает наилучший баланс защиты и производительности. Страницы будут загружаться нормально.
 content-blocking-etp-strict-desc = Усиленная защита может вызывать проблемы с некоторыми веб-сайтами и их содержимым.
