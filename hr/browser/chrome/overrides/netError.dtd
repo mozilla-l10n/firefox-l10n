@@ -9,10 +9,7 @@
 <!ENTITY retry.label "Pokušaj ponovno">
 <!ENTITY returnToPreviousPage.label "Idi natrag">
 <!ENTITY returnToPreviousPage1.label "Natrag (preporučeno)">
-<!ENTITY advanced.label "Napredno">
-<!ENTITY continue2.label "Više…">
 <!ENTITY advanced2.label "Napredno…">
-<!ENTITY moreInformation.label "Više informacija">
 <!ENTITY viewCertificate.label "Pregled certifikata">
 
 <!-- Specific error messages -->
@@ -92,13 +89,11 @@
 <!ENTITY nssFailure2.title "Neuspjeh otvaranja sigurne veze">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Stranica koju pokušavate otvoriti ne može biti prikazana jer autentičnost primljenih podataka nije moguće provjeriti.</li> <li>Kontaktirajte vlasnike stranice, te ih obavijestite o ovom problemu.</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "Vaša veza nije sigurna">
 <!ENTITY certerror.longpagetitle2 "Upozorenje: potencijalni sigurnosni rizik">
 <!ENTITY certerror.sts.longpagetitle  "Nije se spojio: potencijalni sigurnosni problem">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Vlasnik <span class='hostname'/> je pogrešno podesio svoju stranicu.  Da bismo spriječili krađu informacija, &brandShortName; se nije povezao na ovu stranicu.">
 <!ENTITY certerror.introPara2 "&brandShortName; je otkrio potencijalnu prijetnju sigurnosti i nije nastavio na <span class='hostname'/>. Ukoliko posjetite ovu web stranicu, napadači mogu pokušati ukrasti informacije kao što su vaše lozinke, e-poruke ili podatke kreditne kartice.">
 <!ENTITY certerror.sts.introPara "&brandShortName; je otkrio potencijalnu prijetnju sigurnosti i nije nastavio na <span class='hostname'/> iz razloga što ova stranica zahtjeva sigurnu vezu.">
 
@@ -130,8 +125,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Greška oštećenog sadržaja">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Stranicu kojoj pokušavate pristupiti nije moguće prikazati zbog greške u prijenosu podataka.</p><ul><li>Obavijestite vlasnike web stranice o ovom problemu.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Dodaj iznimku…">
 <!ENTITY securityOverride.exceptionButton1Label "Prihvati rizik i nastavi">
 
 <!ENTITY errorReporting.automatic2 "Prijavite greške poput ove da biste pomogli Mozilli identificirati i blokirati maliciozne stranice">
@@ -145,16 +138,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Napredna informacija: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; se nije uspio povezati na <span id='wrongSystemTime_URL'/> jer vaše računalo pokazuje pogrešno vrijeme što onemogućava sigurno povezivanje.</p> <p>Vrijeme i datum su na vašem računalu postavljeni na <span id='wrongSystemTime_systemDate'/>, a trebalo bi biti <span id='wrongSystemTime_actualDate'/>. Promijenite vrijeme i datum na vašem računalu kako biste se uspjeli povezati.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; se nije uspio povezati na <span id='wrongSystemTimeWithoutReference_URL'/> jer vaše računalo pokazuje pogrešno vrijeme što onemogućava sigurno povezivanje.</p> <p>Vrijeme je na vašem računalu postavljeno na <span id='wrongSystemTimeWithoutReference_systemDate'/>. Promijenite vrijeme i datum na vašem računalu kako biste se uspjeli povezati.</p>">
-
-<!ENTITY certerror.pagetitle1  "Nesigurna veza">
 <!ENTITY certerror.pagetitle2  "Upozorenje: potencijalni sigurnosni rizik">
 <!ENTITY certerror.sts.pagetitle  "Nije se spojio: potencijalni sigurnosni problem">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ova stranica koristi HTTP Strict Transport Security (HSTS) da bi uputila &brandShortName; da uspostavi sigurnu vezu. Rezultat toga je onemogućeno dodavanje iznimke za ovaj certifikat.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> provodi sigurnosnu politiku koja se zove HTTP Strict Transport Security (HSTS), što znači da se &brandShortName; može s njom samo sigurno povezati. Ne možete dodati sigurnosnu iznimku kako biste posjetili ovu web stranicu.">
 <!ENTITY certerror.copyToClipboard.label "Kopiraj tekst u međuspremnik">
 
@@ -177,6 +162,8 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Izgleda da vaše postavke sigurnosti mreže možda uzrokuju ovo. Želite li vratiti na početne postavke?">
 <!ENTITY prefReset.label "Vrati početne postavke">
+
+<!ENTITY enableTls10.label "Omogući TLS 1.0 i 1.1">
 
 <!ENTITY networkProtocolError.title "Greška mrežnog protokola">
 <!ENTITY networkProtocolError.longDesc "<p>Stranicu kojoj pokušavate pristupiti nije moguće prikazati zbog greške mrežnog protokola.</p><ul><li>Obavijestite vlasnike web stranice o ovom problemu.</li></ul>">
