@@ -26,6 +26,8 @@ certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Grupa pro výměnu klíčů
 certificate-viewer-key-id = ID klíče
 certificate-viewer-key-size = Velikost klíče
+certificate-viewer-locality = Region
+certificate-viewer-location = Umístění
 certificate-viewer-logid = ID protokolu
 certificate-viewer-method = Metoda
 certificate-viewer-modulus = Modul
@@ -52,6 +54,24 @@ certificate-viewer-signature-scheme = Schéma podpisu
 certificate-viewer-timestamp = Časová značka
 certificate-viewer-value = Hodnota
 certificate-viewer-version = Verze
+certificate-viewer-business-category = Druh společnosti
+certificate-viewer-subject-name = Jméno subjektu
+certificate-viewer-issuer-name = Jméno vydavatele
+certificate-viewer-validity = Platnost
+certificate-viewer-subject-alt-names = Alternativní jména subjektu
+certificate-viewer-public-key-info = Informace o veřejném klíči
+certificate-viewer-miscellaneous = Různé
+certificate-viewer-fingerprints = Otisky
+certificate-viewer-basic-constraints = Základní omezení
+certificate-viewer-key-usages = Použití klíč
+certificate-viewer-extended-key-usages = Rozšířená použití klíče
+certificate-viewer-ocsp-stapling = OCSP Stapling
+certificate-viewer-subject-key-id = ID klíče subjektu
+certificate-viewer-authority-key-id = ID klíče autority
+certificate-viewer-authority-info-aia = Informace a autoritě (AIA)
+certificate-viewer-certificate-policies = Pravidla certifikátu
+certificate-viewer-embedded-scts = Vložené SCTs
+certificate-viewer-crl-endpoints = CRL endpointy
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Stáhnout
@@ -63,3 +83,11 @@ certificate-viewer-boolean =
         [true] Ano
        *[false] Ne
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
+certificate-viewer-download-pem = PEM (certifikát)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (řetězec)
+    .download = { $fileName }-chain.pem
