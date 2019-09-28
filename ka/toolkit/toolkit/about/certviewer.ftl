@@ -65,6 +65,12 @@ certificate-viewer-fingerprints = ანაბეჭდები
 certificate-viewer-basic-constraints = ძირითადი შეზღუდვები
 certificate-viewer-key-usages = გასაღების გამოყენება
 certificate-viewer-extended-key-usages = გაფართოებული გასაღების გამოყენება
+certificate-viewer-ocsp-stapling = OCSP-მიმაგრება
+certificate-viewer-subject-key-id = სუბიექტის გასაღების ID
+certificate-viewer-authority-key-id = უფლებამოსილი მხარის გასაღების ID
+certificate-viewer-authority-info-aia = უფლებამოსილი მხარის მონაცემები (AIA)
+certificate-viewer-certificate-policies = სერთიფიკატის პირობები
+certificate-viewer-embedded-scts = ჩაშენებული SCT- ები
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = ჩამოტვირთვა
