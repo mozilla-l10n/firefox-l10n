@@ -5,6 +5,5 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Kaitseraport
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Vaata oma privaatsuse raportit
