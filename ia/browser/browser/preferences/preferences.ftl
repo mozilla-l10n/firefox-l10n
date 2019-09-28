@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Contento protegite per DRM (Gestion de Derectos Digital)
 play-drm-content =
@@ -554,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Porta le web con te
 sync-signedout-description = Synchronisa tu marcapaginas, chronologia, contrasignos, additivos, e preferentias inter tote tu apparatos.
 sync-signedout-account-title = Connecter se con un { -fxaccount-brand-name }
@@ -574,11 +578,17 @@ sync-mobile-promo = Discarga Firefox pro <img data-l10n-name="android-icon"/> <a
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Cambiar le imagine del profilo
 sync-disconnect =
     .label = Disconnecter se…
     .accesskey = D
+sync-sign-out =
+    .label = Disconnecter se…
+    .accesskey = s
 sync-manage-account = Gerer le conto
     .accesskey = o
 sync-signedin-unverified = { $email } non es verificate.
@@ -594,6 +604,33 @@ sync-sign-in =
     .accesskey = A
 sync-signedin-settings-header = Parametros de Sync
 sync-signedin-settings-desc = Elige lo que tu vole synchronisar in tu apparatos usante { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Synchronisation: ACTIVE
+prefs-syncing-off = Synchronisation: INACTIVE
+prefs-sync-now =
+    .labelnotsyncing = Synchronisar ora
+    .accesskeynotsyncing = o
+    .labelsyncing = Synchronisar…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-bookmarks = Marcapaginas
+sync-currently-syncing-history = Chronologia
+sync-currently-syncing-tabs = Schedas aperte
+sync-currently-syncing-logins-passwords = Connexiones e contrasignos
+sync-currently-syncing-addresses = Adresses
+sync-currently-syncing-creditcards = Cartas de credito
+sync-currently-syncing-addons = Additivos
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Optiones
+       *[other] Preferentias
+    }
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Marcapaginas
     .accesskey = m
@@ -628,6 +665,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Parametros gederal, de confidentialitate e de securitate que tu modificava
     .accesskey = S
+
+## The device name controls.
+
 sync-device-name-header = Nomine del apparato
 sync-device-name-change =
     .label = Cambiar le nomine del apparato…
@@ -818,7 +858,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalisate
     .accesskey = P
 
-##
+
 
 content-blocking-etp-standard-desc = Balanciate pro protection e performance. Paginas cargara normalmente.
 content-blocking-etp-strict-desc = Protection plus forte, ma pote causar alcun sitos o contento collaber.
