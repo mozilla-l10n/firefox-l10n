@@ -568,7 +568,7 @@ sync-signedout-account-title = { -fxaccount-brand-name }
 sync-signedout-account-create = Nie masz konta? Utwórz je…
     .accesskey = U
 sync-signedout-account-signin =
-    .label = Zaloguj się
+    .label = Zaloguj się…
     .accesskey = Z
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -604,7 +604,7 @@ sync-remove-account =
     .label = Usuń konto
     .accesskey = U
 sync-sign-in =
-    .label = Zaloguj
+    .label = Zaloguj się
     .accesskey = o
 sync-signedin-settings-header = Ustawienia synchronizacji
 sync-signedin-settings-desc = Wybierz, co synchronizować pomiędzy urządzeniami za pomocą przeglądarki { -brand-short-name }:
@@ -624,9 +624,30 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Obecnie synchronizowane:
+sync-currently-syncing-bookmarks = zakładki
+sync-currently-syncing-history = historia
+sync-currently-syncing-tabs = otwarte karty
+sync-currently-syncing-logins-passwords = dane logowania i hasła
+sync-currently-syncing-addresses = adresy
+sync-currently-syncing-creditcards = karty płatnicze
+sync-currently-syncing-addons = dodatki
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] opcje
+       *[other] preferencje
+    }
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Wybierz, co synchronizować
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Zapisz zmiany
+    .buttonaccesskeyaccept = Z
+    .buttonlabelextra2 = Rozłącz…
+    .buttonaccesskeyextra2 = R
+sync-choose-heading = Wybierz, co synchronizować ze swoim kontem na urządzeniach używających { -sync-brand-short-name(case: "gen", capitalization: "lower") }:
 sync-engine-bookmarks =
     .label = zakładki
     .accesskey = z
@@ -639,6 +660,10 @@ sync-engine-tabs =
     .accesskey = k
 sync-engine-logins =
     .label = dane logowania
+    .tooltiptext = Zachowane nazwy użytkownika i hasła
+    .accesskey = l
+sync-engine-logins-passwords =
+    .label = dane logowania i hasła
     .tooltiptext = Zachowane nazwy użytkownika i hasła
     .accesskey = l
 sync-engine-addresses =
@@ -792,7 +817,7 @@ sitedata-option-block-all-third-party =
 sitedata-option-block-all =
     .label = wszystkie (powoduje problemy)
 sitedata-clear =
-    .label = Wyczyść dane
+    .label = Wyczyść dane…
     .accesskey = a
 sitedata-settings =
     .label = Zachowane dane…
