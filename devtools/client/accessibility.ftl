@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Saznaj više
 accessibility-text-label-header = Tekstualne oznake i nazivi
+accessibility-keyboard-header = Tipkovnica
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 

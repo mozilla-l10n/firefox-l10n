@@ -86,6 +86,9 @@ about-debugging-setup-usb-title = USB
 about-debugging-setup-usb-enable-button = Omogući USB uređaje
 # Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
 about-debugging-setup-usb-disable-button = Onemogućite USB uređaje
+# Text of the button displayed in the USB section of the setup page while USB debugging
+# components are downloaded and installed.
+about-debugging-setup-usb-updating-button = Aktualiziranje …
 # USB section of the Setup page (USB status)
 about-debugging-setup-usb-status-enabled = Omogućeno
 about-debugging-setup-usb-status-disabled = Onemogućeno
