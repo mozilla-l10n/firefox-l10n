@@ -188,6 +188,7 @@ language-name-tlh = 克林貢語
 language-name-tn = 茲瓦納語 (波札那)
 language-name-to = 東加語
 language-name-tr = 土耳其語
+language-name-trs = 特里基語
 language-name-ts = 宋加語 (南非)
 language-name-tt = 韃靼語 (俄羅斯韃靼斯坦)
 language-name-tw = 特威語 (西非)
