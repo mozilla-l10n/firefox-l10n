@@ -55,10 +55,23 @@ certificate-viewer-timestamp = Timestamp
 certificate-viewer-value = Value
 certificate-viewer-version = Bersyon
 certificate-viewer-business-category = Kategorya ng Negosyo
+certificate-viewer-subject-name = Pangalan ng Paksa
+certificate-viewer-issuer-name = Pangalan ng Nagbigay
+certificate-viewer-validity = Bisa
+certificate-viewer-subject-alt-names = Mga Alternatibong Pangalan ng Paksa
+certificate-viewer-public-key-info = Public Key Info
+certificate-viewer-miscellaneous = Iba Pa
+certificate-viewer-fingerprints = Mga Fingerprint
+certificate-viewer-basic-constraints = Mga Basic Constraint
+certificate-viewer-key-usages = Mga Key Usage
+certificate-viewer-extended-key-usages = Mga Extended Key Usage
 certificate-viewer-ocsp-stapling = OCSP Stapling
 certificate-viewer-subject-key-id = Subject Key ID
 certificate-viewer-authority-key-id = Authority Key ID
 certificate-viewer-authority-info-aia = Authority Info (AIA)
+certificate-viewer-certificate-policies = Mga Polisiya ng Certificate
+certificate-viewer-embedded-scts = Mga Embedded SCT
+certificate-viewer-crl-endpoints = Mga CRL Endpoint
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Mag-download

@@ -586,6 +586,9 @@ sync-profile-picture =
 sync-disconnect =
     .label = Idiskonekta...
     .accesskey = D
+sync-sign-out =
+    .label = Mag-sign out...
+    .accesskey = g
 sync-manage-account = Pamahalaan ang account
     .accesskey = o
 sync-signedin-unverified = { $email } ay hindi napatunayan.
@@ -604,16 +607,40 @@ sync-signedin-settings-desc = Piliin kung ano ang mag-synchronize sa iyong devic
 
 ## Sync section - enabling or disabling sync.
 
+prefs-sync-setup =
+    .label = Mag-set up ng { -sync-brand-short-name }...
+    .accesskey = S
+prefs-sync-offer-setup-label = I-synchronize ang iyong mga bookmark, kasaysayan, tab, password, add-on, at mga kagustuhan sa lahat ng iyong mga device.
+prefs-sync-now =
+    .labelnotsyncing = Mag-Sync Na
+    .accesskeynotsyncing = N
+    .labelsyncing = Nagsi-sync...
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Kasalukuyan kang nagsi-sync ng mga sumusunod:
 sync-currently-syncing-bookmarks = Mga Bookmark
+sync-currently-syncing-history = Kasaysayan
 sync-currently-syncing-tabs = Buksan ang mga tab
+sync-currently-syncing-logins-passwords = Mga Login at Password
+sync-currently-syncing-addresses = Mga tirahan
 sync-currently-syncing-creditcards = Mga Credit Card
 sync-currently-syncing-addons = Mga Add-on
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Mga Pagpipilian
+       *[other] Mga Kagustuhan
+    }
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Piliin Kung Alin Ang Isi-Sync
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = I-Save ang mga Pagbabago
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Mag-disconnect...
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = Mga Bookmark
     .accesskey = m
