@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Contenu protégé par des composants de gestion des droits numériques (DRM)
 play-drm-content =
@@ -554,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Emportez votre Web partout avec vous
 sync-signedout-description = Synchronisez marque-pages, historique, onglets, mots de passe, modules complémentaires et préférences entre tous vos appareils.
 sync-signedout-account-title = Se connecter avec un { -fxaccount-brand-name }
@@ -574,9 +578,15 @@ sync-mobile-promo = Téléchargez Firefox pour <img data-l10n-name="android-icon
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Changer la photo de profil
 sync-disconnect =
+    .label = Se déconnecter…
+    .accesskey = d
+sync-sign-out =
     .label = Se déconnecter…
     .accesskey = d
 sync-manage-account = Gérer le compte
@@ -594,6 +604,15 @@ sync-sign-in =
     .accesskey = x
 sync-signedin-settings-header = Paramètres de synchronisation
 sync-signedin-settings-desc = Sélectionnez les données à synchroniser entre vos appareils utilisant { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Marque-pages
     .accesskey = M
@@ -628,6 +647,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Les paramètres que vous avez modifiés dans les sections Général, Vie privée et Sécurité
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Nom de l’appareil
 sync-device-name-change =
     .label = Changer le nom de l’appareil…
@@ -818,7 +840,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personnalisé
     .accesskey = P
 
-##
+
 
 content-blocking-etp-standard-desc = Équilibré entre protection et performances. Les pages se chargeront normalement.
 content-blocking-etp-strict-desc = Protection renforcée, mais certains sites ou contenus peuvent ne pas fonctionner correctement.
