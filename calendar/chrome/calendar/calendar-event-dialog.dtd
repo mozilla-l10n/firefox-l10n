@@ -91,12 +91,12 @@
 
 <!ENTITY  event.menu.item.delete.label                    "Șterge…">
 <!ENTITY  event.menu.item.delete.accesskey                "g">
-<!ENTITY  event.menu.item.page.setup.label                "Configurare pagină">
+<!ENTITY  event.menu.item.page.setup.label                "Aranjare în pagină">
 <!ENTITY  event.menu.item.page.setup.accesskey            "A">
 <!ENTITY  event.menu.item.print.label                     "Tipărește">
 <!ENTITY  event.menu.item.print.accesskey                 "p">
 
-<!ENTITY  event.menu.edit.label                           "Editează">
+<!ENTITY  event.menu.edit.label                           "Editare">
 <!ENTITY  event.menu.edit.accesskey                       "E">
 <!ENTITY  event.menu.edit.undo.label                      "Anulează">
 <!ENTITY  event.menu.edit.undo.accesskey                  "u">
