@@ -7,7 +7,7 @@
 <!ENTITY  language.label                          "Fonturi pentru:">
 <!ENTITY  language.accesskey                      "t">
 
-<!ENTITY  size.label                              "Mărime:">
+<!ENTITY  size.label                              "Dimensiune:">
 <!ENTITY  sizeProportional.accesskey              "e">
 <!ENTITY  sizeMonospace.accesskey                 "i">
 
@@ -23,7 +23,7 @@
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-<!ENTITY  font.langGroup.latin                    "Latin">
+<!ENTITY  font.langGroup.latin                    "Latină">
 <!ENTITY  font.langGroup.japanese                 "Japoneză">
 <!ENTITY  font.langGroup.trad-chinese             "Chineză tradițională (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chineză simplificată">
@@ -51,9 +51,9 @@
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhaleză">
-<!ENTITY  font.langGroup.tibetan                  "Tibetan">
+<!ENTITY  font.langGroup.tibetan                  "Tibetană">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "Mărimea minimă a fontului:">
+<!ENTITY minSize.label                            "Dimensiunea minimă a fontului:">
 <!ENTITY minSize.accesskey                        "M">
 <!ENTITY minSize.none                             "Fără">
 
@@ -72,7 +72,7 @@
 <!ENTITY sendDefaultCharset.label         "Mesaje trimise:">
 <!ENTITY sendDefaultCharset.accesskey     "M">
 <!ENTITY languagesTitle2.label            "Codare de text">
-<!ENTITY composingDescription2.label      "Setează codarea implicită a textului pentru trimiterea și primirea mesajelor">
+<!ENTITY composingDescription2.label      "Setează codarea de text implicită pentru trimiterea și primirea mesajelor">
 
 <!ENTITY viewDefaultCharsetList.label     "Mesaje primite:">
 <!ENTITY viewDefaultCharsetList.accesskey  "i">

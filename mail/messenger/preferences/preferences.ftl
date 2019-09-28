@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
 general-language-and-appearance-header = Limbă și aspect
@@ -17,6 +18,7 @@ composition-attachments-header = Atașamente
 composition-spelling-title = Ortografie
 compose-html-style-title = Stil HTML
 composition-addressing-header = Adrese
+privacy-main-header = Confidențialitate
 privacy-passwords-header = Parole
 privacy-junk-header = Mesaje nesolicitate
 privacy-data-collection-header = Colectare de date și utilizare

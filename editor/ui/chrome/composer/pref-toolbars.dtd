@@ -25,7 +25,7 @@
 <!ENTITY formatting.caption     "Afișează următoarele butoane în bara de formatare:">
 
 <!ENTITY smaller.label          "Font mai mic">
-<!ENTITY larger.label           "Font mai mare">
+<!ENTITY larger.label           "Mai mare">
 <!ENTITY bold.label             "Aldin">
 <!ENTITY bullets.label          "Buline">
 <!ENTITY numbers.label          "Numerotare">
