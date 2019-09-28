@@ -617,6 +617,9 @@ sync-signedin-settings-desc = Wubjerće, štož ma so z { -brand-short-name } na
 
 prefs-syncing-on = Synchronizacija: ZAPINJENY
 prefs-syncing-off = Synchronizacija: WUPINJENY
+prefs-sync-setup =
+    .label = { -sync-brand-short-name } konfigurować
+    .accesskey = k
 prefs-sync-offer-setup-label = Synchronizujće swoje zapołožki, historiju, rajtarki, hesła, přidatki a nastajenja mjez wšěmi wašimi gratami.
 prefs-sync-now =
     .labelnotsyncing = Nětko synchronizować
@@ -625,6 +628,7 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Synchronizujeće tuchwilu slědowace zapiski:
 sync-currently-syncing-bookmarks = Zapołožki
 sync-currently-syncing-history = Historija
 sync-currently-syncing-tabs = Wočinjene rajtarki
@@ -647,6 +651,7 @@ sync-choose-what-to-sync-dialog =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Dźělić
     .buttonaccesskeyextra2 = D
+sync-choose-heading = Wubjerće, štož ma so z wašim kontom za graty z pomocu { -sync-brand-short-name } synchronizować:
 sync-engine-bookmarks =
     .label = Zapołožki
     .accesskey = Z
