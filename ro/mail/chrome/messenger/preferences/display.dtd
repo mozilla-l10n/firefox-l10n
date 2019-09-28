@@ -14,7 +14,7 @@
 <!ENTITY boldItalic.label                 "Îngroșat și înclinat">
 <!ENTITY size.label                       "Mărime:">
 <!ENTITY size.accesskey                   "M">
-<!ENTITY regularSize.label                "Normal">
+<!ENTITY regularSize.label                "Normală">
 <!ENTITY bigger.label                     "Mai mare">
 <!ENTITY smaller.label                    "Mai mic">
 <!ENTITY quotedTextColor.label            "Culoare:">

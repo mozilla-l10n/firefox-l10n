@@ -366,7 +366,7 @@
 <!ENTITY forwardAsInline.accesskey "i">
 <!ENTITY forwardAsAttachmentCmd.label "Atașament">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
-<!ENTITY editAsNewMsgCmd.label "Editare ca mesaj nou">
+<!ENTITY editAsNewMsgCmd.label "Editează ca mesaj nou">
 <!ENTITY editAsNewMsgCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.key "e">
 <!ENTITY editDraftMsgCmd.label "Editează ciorna">
@@ -705,6 +705,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Salvează căutarea ca dosar…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Selectează mesaje">
 <!ENTITY threadColumn.label "Conversație">
 <!ENTITY fromColumn.label "Expeditor">
 <!ENTITY recipientColumn.label "Destinatar">
@@ -763,7 +764,7 @@
 <!ENTITY contextOpenConversation.accesskey "n">
 <!ENTITY contextOpenContainingFolder.label "Deschide mesajul în dosarul în care se află">
 <!ENTITY contextOpenContainingFolder.accesskey "n">
-<!ENTITY contextEditMsgAsNew.label "Editare ca mesaj nou">
+<!ENTITY contextEditMsgAsNew.label "Editează ca mesaj nou">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
 <!ENTITY contextEditDraftMsg.label "Editează ciorna">
 <!ENTITY contextEditTemplate.label "Editează șablonul">

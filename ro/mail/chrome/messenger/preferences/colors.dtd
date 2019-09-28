@@ -23,7 +23,7 @@
 
 <!ENTITY  underlineLinks.label            "Subliniază linkurile">
 <!ENTITY  underlineLinks.accesskey        "u">
-<!ENTITY  links                           "Culori link">
+<!ENTITY  links                           "Culori pentru linkuri">
 <!ENTITY  linkColor.label                 "Linkuri nevizitate:">
 <!ENTITY  linkColor.accesskey             "L">
 <!ENTITY  visitedLinkColor.label          "Linkuri vizitate:">

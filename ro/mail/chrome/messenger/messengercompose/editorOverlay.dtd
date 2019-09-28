@@ -306,13 +306,12 @@
 <!ENTITY anchorToolbarCmd.tooltip "Inserează o ancoră denumită nouă sau editează proprietățile ancorei selectate">
 <!ENTITY TextColorButton.tooltip "Alege culoarea textului">
 <!ENTITY BackgroundColorButton.tooltip "Alege culoarea de fundal">
-<!ENTITY throbber.tooltip "Deschide pagina principală &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Alege culoarea de evidențiere pentru text">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Setează mărimea fontului">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Font mai mic">
-<!ENTITY increaseFontSizeToolbarCmd.tooltip "Font mai mare">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Dimensiunea fontului mai mare">
 <!ENTITY boldToolbarCmd.tooltip "Aldin">
 <!ENTITY italicToolbarCmd.tooltip "Cursiv">
 <!ENTITY underlineToolbarCmd.tooltip "Subliniat">

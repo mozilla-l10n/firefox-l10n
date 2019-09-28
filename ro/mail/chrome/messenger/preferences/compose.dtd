@@ -18,7 +18,7 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Font:">
 <!ENTITY font.accesskey                       "n">
-<!ENTITY fontSize.label                       "Mărime:">
+<!ENTITY fontSize.label                       "Dimensiune:">
 <!ENTITY fontSize.accesskey                   "z">
 <!ENTITY useReaderDefaults.label              "Folosește culorile implicite ale cititorului">
 <!ENTITY useReaderDefaults.accesskey          "d">

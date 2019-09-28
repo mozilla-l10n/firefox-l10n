@@ -70,7 +70,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
-<!ENTITY FontSizeSelect.tooltip "Alege mărimea fontului">
+<!ENTITY FontSizeSelect.tooltip "Alege o dimensiune pentru font">
 <!ENTITY decreaseFontSize.label "Mai mică">
 <!ENTITY decreaseFontSize.accesskey "M">
 <!ENTITY decrementFontSize.key "&lt;">
@@ -80,7 +80,7 @@
 <!ENTITY incrementFontSize.key "&gt;">
 <!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
-<!ENTITY fontSizeMenu.label "Mărime">
+<!ENTITY fontSizeMenu.label "Dimensiune">
 <!ENTITY fontSizeMenu.accesskey "M">
 <!ENTITY size-tinyCmd.label "Foarte mic">
 <!ENTITY size-tinyCmd.accesskey "m">
@@ -96,7 +96,7 @@
 <!ENTITY size-hugeCmd.accesskey "U">
 
 <!-- Font Style SubMenu -->
-<!ENTITY fontStyleMenu.label "Stil text">
+<!ENTITY fontStyleMenu.label "Stilul textului">
 <!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "Aldin">
 <!ENTITY styleBoldCmd.accesskey "A">
@@ -132,7 +132,7 @@
 <!ENTITY styleVar.label "Variabilă">
 <!ENTITY styleVar.accesskey "V">
 
-<!ENTITY formatFontColor.label "Culoare text…">
+<!ENTITY formatFontColor.label "Culoarea textului…">
 <!ENTITY formatFontColor.accesskey "C">
 <!ENTITY tableOrCellColor.label "Culoare de fundal tabel sau celulă…">
 <!ENTITY tableOrCellColor.accesskey "b">
@@ -312,7 +312,7 @@
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Setează mărimea fontului">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Font mai mic">
-<!ENTITY increaseFontSizeToolbarCmd.tooltip "Font mai mare">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Dimensiunea fontului mai mare">
 <!ENTITY boldToolbarCmd.tooltip "Aldin">
 <!ENTITY italicToolbarCmd.tooltip "Cursiv">
 <!ENTITY underlineToolbarCmd.tooltip "Subliniat">
