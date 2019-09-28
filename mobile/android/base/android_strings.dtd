@@ -75,7 +75,7 @@
 <!ENTITY  crash_closing_alert "不发送崩溃报告并退出？">
 <!ENTITY  sending_crash_report "正在发送崩溃报告\u2026">
 <!ENTITY  crash_close_label "关闭">
-<!ENTITY  crash_restart_label "重开 &brandShortName;">
+<!ENTITY  crash_restart_label "重启 &brandShortName;">
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; 崩溃了">
