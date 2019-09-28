@@ -313,7 +313,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Wobsah Digital Right Management (DRM)
 play-drm-content =
@@ -562,6 +562,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Wzmiće swój web sobu
 sync-signedout-description = Synchronizujće swoje zapołožki, historiju, rajtarki, hesła, přidatki a nastajenja mjez wšěmi wašimi gratami.
 sync-signedout-account-title = Zwjazać z: { -fxaccount-brand-name }
@@ -582,11 +586,17 @@ sync-mobile-promo = Firefox za <img data-l10n-name="android-icon"/> <a data-l10n
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Profilowy wobraz změnić
 sync-disconnect =
     .label = Zwisk dźělić…
     .accesskey = Z
+sync-sign-out =
+    .label = Wotzjewić…
+    .accesskey = t
 sync-manage-account = Konto rjadować
     .accesskey = o
 sync-signedin-unverified = { $email } njeje so přepruwował.
@@ -602,6 +612,39 @@ sync-sign-in =
     .accesskey = z
 sync-signedin-settings-header = Nastajenja synchronizacije
 sync-signedin-settings-desc = Wubjerće, štož ma so z { -brand-short-name } na wašich gratach synchronizować.
+
+## Sync section - enabling or disabling sync.
+
+prefs-sync-offer-setup-label = Synchronizujće swoje zapołožki, historiju, rajtarki, hesła, přidatki a nastajenja mjez wšěmi wašimi gratami.
+prefs-sync-now =
+    .labelnotsyncing = Nětko synchronizować
+    .accesskeynotsyncing = N
+    .labelsyncing = Synchronizuje so…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-bookmarks = Zapołožki
+sync-currently-syncing-history = Historija
+sync-currently-syncing-tabs = Wočinjene rajtarki
+sync-currently-syncing-logins-passwords = Přizjewjenja a hesła
+sync-currently-syncing-addresses = Adresy
+sync-currently-syncing-creditcards = Kreditne karty
+sync-currently-syncing-addons = Přidatki
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Nastajenja
+       *[other] Nastajenja
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Wubjerće, štož ma so synchronizować
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Změny składować
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Dźělić
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = Zapołožki
     .accesskey = Z
@@ -614,6 +657,10 @@ sync-engine-tabs =
     .accesskey = r
 sync-engine-logins =
     .label = Přizjewjenja
+    .tooltiptext = Wužiwarske mjena a hesła, kotrež sće składował
+    .accesskey = P
+sync-engine-logins-passwords =
+    .label = Přizjewjenja a hesła
     .tooltiptext = Wužiwarske mjena a hesła, kotrež sće składował
     .accesskey = P
 sync-engine-addresses =
@@ -636,6 +683,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Powšitkowne nastajenja, nastajenja priwatnosće a wěstoty, kotrež sće změnił
     .accesskey = N
+
+## The device name controls.
+
 sync-device-name-header = Mjeno grata
 sync-device-name-change =
     .label = Mjeno grata změnić…
@@ -826,7 +876,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Swójski
     .accesskey = S
 
-##
+
 
 content-blocking-etp-standard-desc = Wuwaženy za škit a wukon. Strony so normalnje začitaja.
 content-blocking-etp-strict-desc = Mócniši škit, ale móže zawinować, zo někotre sydła abo wobsa hižo njefunguja.
