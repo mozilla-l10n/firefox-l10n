@@ -87,9 +87,9 @@ fonts-sans-serif = Fără serife
     .accesskey = n
 fonts-monospace = Monospațiat
     .accesskey = M
-fonts-monospace-size = Mărime
+fonts-monospace-size = Dimensiune
     .accesskey = e
-fonts-minsize = Mărimea minimă a fontului
+fonts-minsize = Dimensiunea minimă a fontului
     .accesskey = o
 fonts-minsize-none =
     .label = Fără
@@ -138,9 +138,6 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnameză
 fonts-languages-fallback-name-other =
     .label = Alta (inclusiv vest europeană)
-fonts-very-large-warning-title = Mărime minimă de fonturi mari
-fonts-very-large-warning-message = Ai selectat o mărime minimă foarte mare a fonturilor (mai mult de 24 de pixeli). Acest lucru poate face dificilă sau imposibilă folosirea unor pagini de configurare importante precum aceasta.
-fonts-very-large-warning-accept = Păstrează-mi schimbările oricum
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
