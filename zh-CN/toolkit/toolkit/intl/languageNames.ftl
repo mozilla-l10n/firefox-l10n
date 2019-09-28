@@ -188,6 +188,7 @@ language-name-tlh = 克林贡语
 language-name-tn = 茨瓦纳语
 language-name-to = 汤加语
 language-name-tr = 土耳其语
+language-name-trs = 特里基语
 language-name-ts = 聪加语
 language-name-tt = 鞑靼语
 language-name-tw = 契维语
