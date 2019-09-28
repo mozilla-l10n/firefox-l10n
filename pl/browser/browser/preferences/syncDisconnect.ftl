@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sync-disconnect-dialog =
-    .title = Czy zaprzestać { -sync-brand-short-name(case: "gen", capitalization: "lower") }?
+    .title = Czy rozłączyć { -sync-brand-short-name(case: "acc", capitalization: "lower") }?
     .style = width: 36em; min-height: 35em;
 sync-disconnect-heading = Czy usunąć dane przeglądarki z tego komputera podczas rozłączania? Zsynchronizowane dane pozostaną dostępne na koncie { -sync-brand-name(case: "gen", capitalization: "lower") }.
 sync-disconnect-remove-sync-caption = Usuń dane { -sync-brand-name(case: "gen", capitalization: "lower") }
