@@ -310,7 +310,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Treści DRM (Digital Rights Management)
 play-drm-content =
@@ -558,6 +558,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Zabierz swoją sieć ze sobą
 sync-signedout-description = Synchronizuj zakładki, historię, karty, hasła, dodatki i ustawienia między wszystkimi swoimi urządzeniami.
 sync-signedout-account-title = { -fxaccount-brand-name }
@@ -578,11 +582,17 @@ sync-mobile-promo = Firefox na <a data-l10n-name="android-link">Androida</a> <
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Zmień obraz przypisany do konta
 sync-disconnect =
     .label = Rozłącz…
     .accesskey = R
+sync-sign-out =
+    .label = Wyloguj się…
+    .accesskey = W
 sync-manage-account = Zarządzaj kontem
     .accesskey = Z
 sync-signedin-unverified = Konto { $email } nie zostało zweryfikowane.
@@ -598,6 +608,25 @@ sync-sign-in =
     .accesskey = o
 sync-signedin-settings-header = Ustawienia synchronizacji
 sync-signedin-settings-desc = Wybierz, co synchronizować pomiędzy urządzeniami za pomocą przeglądarki { -brand-short-name }:
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Synchronizowanie: włączone
+prefs-syncing-off = Synchronizowanie: wyłączone
+prefs-sync-setup =
+    .label = Skonfiguruj { -sync-brand-short-name(case: "acc", capitalization: "lower") }…
+    .accesskey = S
+prefs-sync-offer-setup-label = Synchronizuj zakładki, historię, karty, hasła, dodatki i ustawienia między wszystkimi swoimi urządzeniami.
+prefs-sync-now =
+    .labelnotsyncing = Synchronizuj teraz
+    .accesskeynotsyncing = S
+    .labelsyncing = Synchronizowanie…
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = zakładki
     .accesskey = z
@@ -632,6 +661,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Zmienione ustawienia ogólne, uruchamiania, wyszukiwania, prywatności i bezpieczeństwa
     .accesskey = e
+
+## The device name controls.
+
 sync-device-name-header = Nazwa urządzenia
 sync-device-name-change =
     .label = Zmień nazwę urządzenia…
@@ -822,7 +854,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Własna
     .accesskey = W
 
-##
+
 
 content-blocking-etp-standard-desc = Równowaga między bezpieczeństwem a szybkością wczytywania stron. Strony będą działać bez problemów.
 content-blocking-etp-strict-desc = Silniejsza ochrona, ale może powodować niepoprawne działanie niektórych stron.
