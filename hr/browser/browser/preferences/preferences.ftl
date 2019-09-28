@@ -310,7 +310,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Digital Rights Management (DRM) sadržaj
 play-drm-content =
@@ -398,6 +398,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Traženje teksta već prilikom upisivanja
     .accesskey = k
+browsing-picture-in-picture-toggle-enabled =
+    .label = Omogući video kontrole za slika-u-slici
+    .accesskey = O
+browsing-picture-in-picture-learn-more = Saznaj više
 browsing-cfr-recommendations =
     .label = Preporučuj dodatke dok pretražujem
     .accesskey = r
@@ -554,6 +558,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Ponesite vaš Web sa sobom
 sync-signedout-description = Sinkronizirajte vaše zabilješke, povijest, kartice, lozinke, dodatke i postavke na sve vaše uređaje.
 sync-signedout-account-title = Povežite se sa { -fxaccount-brand-name }
@@ -573,6 +581,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Preuzmite Firefox za <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ili <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> da biste sinkronizirali s vašim mobilnim uređajem.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Primijeni sliku profila
@@ -594,6 +605,15 @@ sync-sign-in =
     .accesskey = P
 sync-signedin-settings-header = Sync postavke
 sync-signedin-settings-desc = Odaberite što sinkronizirati na vašim uređajima koji koriste { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Zabilješke
     .accesskey = Z
@@ -628,6 +648,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Općenite, privatne i sigurnosne postavke koje ste promijenili
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Naziv uređaja
 sync-device-name-change =
     .label = Promijeni naziv uređaja…
@@ -660,6 +683,10 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Predloži i generiraj jake lozinke
     .accesskey = g
+forms-breach-alerts =
+    .label = Prikaži upozorenja o lozinkama za zlonamjerne web stranice
+    .accesskey = u
+forms-breach-alerts-learn-more-link = Saznaj više
 forms-fill-logins-and-passwords =
     .label = Automatski popuni prijave i lozinke
     .accesskey = i
@@ -741,6 +768,10 @@ sitedata-block-desc = Vrsta blokiranog
     .accesskey = t
 sitedata-option-block-trackers =
     .label = Pratitelji trećih strana
+sitedata-option-block-cross-site-trackers =
+    .label = Programi za praćenje među različitim web lokacijama
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Programi za praćenje među različitim web lokacijama i društvenim mrežama
 sitedata-option-block-unvisited =
     .label = Kolačići sa stranica koje niste posjetili
 sitedata-option-block-all-third-party =
@@ -776,6 +807,8 @@ addressbar-suggestions-settings = Promijenite postavke za prijedloge tražilica
 
 content-blocking-header = Blokiranje sadržaja
 content-blocking-section-description = Zaštitite svoju privatnost dok pregledavate. Blokirajte nevidljivi sadržaj koji prati koje stranice posjećujete i profilira vas. Blokiranje dijela ovog sadržaja može ubrzati učitavanje stranica.
+content-blocking-enhanced-tracking-protection = Poboljšana zaštita od praćenja
+content-blocking-section-top-level-description = Programi za praćenje te prate po internetu i prikupljaju podatke o tvojim navikama i interesima. { -brand-short-name } blokira mnoge takve programe i druge zlonamjerne skripte.
 content-blocking-learn-more = Saznajte više
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -808,17 +841,26 @@ enhanced-tracking-protection-setting-custom =
     .label = Prilagođeno
     .accesskey = P
 
-##
 
+
+content-blocking-etp-standard-desc = Uravnoteženo za zaštitu i performansu. Stranice će se normalno učitavati.
+content-blocking-etp-strict-desc = Jača zaštita, ali može prouzročiti lom nekih web lokacija ili sadržaja.
+content-blocking-etp-custom-desc = Odaberi programe za praćenje i skripte koje želiš blokirati.
+content-blocking-private-windows = Praćenje sadržaja u privatnim prozorima
+content-blocking-cross-site-tracking-cookies = Kolačići za praćenje među različitim web lokacijama
+content-blocking-social-media-trackers = Programi za praćenje društvenih mreža
 content-blocking-all-cookies = Sve kolačiće
 content-blocking-unvisited-cookies = Kolačiće s neposjećenih stranica
 content-blocking-all-windows-trackers = Poznati pratitelji u svim prozorima
+content-blocking-all-windows-tracking-content = Praćenje sadržaja u svim prozorima
 content-blocking-all-third-party-cookies = Svi kolačići trećih strana
 content-blocking-cryptominers = Kripto rudare
 content-blocking-fingerprinters = Jedinstvene otiske
 content-blocking-warning-title = Upozorenje!
 content-blocking-warning-description = Blokiranje sadržaja može uzrokovati greške u prikazu nekih web stranica. Lako možete isključiti blokiranje na stranicama kojima vjerujete.
 content-blocking-learn-how = Saznajte kako
+content-blocking-etp-warning-description = Blokiranje programa za praćenje moglo bi utjecati na funkcionalnost nekih web lokacija. Učitaj stranicu s programima za praćenje, kako bi se učitao sav sadržaj.
+content-blocking-warning-learn-how = Saznaj kako
 content-blocking-reload-description = Morat ćete osvježiti svoje kartice kako bi primijenili ove promjene.
 content-blocking-reload-tabs-button =
     .label = Osvježi sve kartice
@@ -826,6 +868,9 @@ content-blocking-reload-tabs-button =
 content-blocking-trackers-label =
     .label = Pratitelji
     .accesskey = t
+content-blocking-tracking-content-label =
+    .label = Praćenje sadržaja
+    .accesskey = P
 content-blocking-tracking-protection-option-all-windows =
     .label = U svim prozorima
     .accesskey = a
