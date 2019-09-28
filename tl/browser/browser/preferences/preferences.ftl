@@ -554,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Dalhin Mo Ang Web Kahit Saan
 sync-signedout-description = I-synchronize ang iyong mga bookmark, kasaysayan, tab, password, add-on, at kagustuhan sa lahat ng iyong mga device.
 sync-signedout-account-title = Kumonekta sa isang { -fxaccount-brand-name }
@@ -573,6 +577,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = I-download ang Firefox para sa<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> upang i-sync sa iyong mobile device.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Baguhin ang larawan ng profile
@@ -594,6 +601,19 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Mga Sync Setting
 sync-signedin-settings-desc = Piliin kung ano ang mag-synchronize sa iyong device gamit ang { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+sync-currently-syncing-bookmarks = Mga Bookmark
+sync-currently-syncing-tabs = Buksan ang mga tab
+sync-currently-syncing-creditcards = Mga Credit Card
+sync-currently-syncing-addons = Mga Add-on
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Mga Bookmark
     .accesskey = m
@@ -608,6 +628,10 @@ sync-engine-logins =
     .label = Mga login
     .tooltiptext = Iyong mga username at password
     .accesskey = l
+sync-engine-logins-passwords =
+    .label = Mga Login at Password
+    .tooltiptext = Mga username at password na naka-save
+    .accesskey = L
 sync-engine-addresses =
     .label = Mga tirahan
     .tooltiptext = Mga nai-save mo na mga postal address (sa desktop lang)
@@ -628,6 +652,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Mga kagustuhan at pagpipilian naa iyong binago
     .accesskey = P
+
+## The device name controls.
+
 sync-device-name-header = Pangalan ng Device
 sync-device-name-change =
     .label = Palitan ang Pangalan ng Device...
