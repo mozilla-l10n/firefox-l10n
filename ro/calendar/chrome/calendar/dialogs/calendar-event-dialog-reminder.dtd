@@ -8,7 +8,7 @@
 <!ENTITY reminder.remove.label                             "Elimină">
 <!ENTITY reminder.remove.accesskey                         "R">
 
-<!ENTITY reminder.reminderDetails.label                    "Detalii memento">
+<!ENTITY reminder.reminderDetails.label                    "Detalii despre memento">
 <!ENTITY reminder.action.label                             "Alege o acțiune pentru memento">
 
 <!ENTITY reminder.action.alert.label                       "Afișează o alertă">
