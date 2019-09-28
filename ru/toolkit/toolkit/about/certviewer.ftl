@@ -18,6 +18,7 @@ certificate-viewer-country = Страна
 certificate-viewer-curve = Кривая
 certificate-viewer-distribution-point = Адрес распространения
 certificate-viewer-dns-name = DNS-имя
+certificate-viewer-exponent = Экспонента
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Группа обмена ключами
 certificate-viewer-key-id = Идентификатор ключа
@@ -25,6 +26,7 @@ certificate-viewer-key-size = Размер ключа
 certificate-viewer-locality = Местонахождение
 certificate-viewer-location = Расположение
 certificate-viewer-method = Метод
+certificate-viewer-modulus = Модуль
 certificate-viewer-name = Имя
 certificate-viewer-not-after = Не позже
 certificate-viewer-not-before = Не ранее
@@ -43,6 +45,17 @@ certificate-viewer-signature-scheme = Схема подписи
 certificate-viewer-timestamp = Метка времени
 certificate-viewer-value = Значение
 certificate-viewer-version = Версия
+certificate-viewer-subject-name = Субъект
+certificate-viewer-issuer-name = Издатель
+certificate-viewer-validity = Срок действия
+certificate-viewer-subject-alt-names = Альтернативные имена субъектов
+certificate-viewer-public-key-info = Информация об открытом ключе
+certificate-viewer-miscellaneous = Разное
+certificate-viewer-fingerprints = Отпечатки
+certificate-viewer-basic-constraints = Основные ограничения
+certificate-viewer-key-usages = Использование ключа
+certificate-viewer-extended-key-usages = Расширенное использование ключа
+certificate-viewer-certificate-policies = Политики сертификата
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Загрузить
@@ -54,3 +67,11 @@ certificate-viewer-boolean =
         [true] Да
        *[false] Нет
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
+certificate-viewer-download-pem = PEM (сертификат)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (цепочка сертификатов)
+    .download = { $fileName }-chain.pem

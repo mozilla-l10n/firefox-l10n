@@ -9,9 +9,7 @@
 <!ENTITY retry.label "Попробовать снова">
 <!ENTITY returnToPreviousPage.label "Вернуться назад">
 <!ENTITY returnToPreviousPage1.label "Вернуться назад (рекомендуется)">
-<!ENTITY advanced.label "Дополнительно">
 <!ENTITY advanced2.label "Дополнительно…">
-<!ENTITY moreInformation.label "Подробная информация">
 <!ENTITY viewCertificate.label "Просмотреть сертификат">
 
 <!-- Specific error messages -->
@@ -147,14 +145,8 @@
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle1 "Ваше соединение не защищено">
-
 <!ENTITY certerror.longpagetitle2 "Предупреждение: Вероятная угроза безопасности">
 <!ENTITY certerror.sts.longpagetitle  "Соединение не установлено: Вероятная угроза безопасности">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
-will be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara "Владелец <span class='hostname'/> неправильно настроил свой веб-сайт. Чтобы защитить вашу информацию от кражи, &brandShortName; не соединился с этим веб-сайтом.">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -198,9 +190,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Ошибка искажения содержимого">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Страница, которую вы пытаетесь просмотреть, не может быть показана, так как была обнаружена ошибка при передаче данных.</p><ul><li>Пожалуйста, свяжитесь с владельцами веб-сайта и проинформируйте их об этой проблеме.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Добавить исключение…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Принять риск и продолжить">
 
 <!ENTITY errorReporting.automatic2 "Отправка сообщений о подобных ошибках поможет Mozilla обнаружить и заблокировать вредоносные сайты">
@@ -214,17 +203,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Дополнительная информация: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; не соединился с <span id='wrongSystemTime_URL'/>, так как похоже, что часы на вашем компьютере показывают неправильное время, что не позволяет установить защищённое соединение.</p> <p>Ваш компьютер считает, что сейчас <span id='wrongSystemTime_systemDate'/>, тогда как на самом деле сейчас <span id='wrongSystemTime_actualDate'/>. Чтобы устранить эту проблему, измените ваши настройки даты и времени, чтобы установить правильное время.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; не соединился с <span id='wrongSystemTimeWithoutReference_URL'/>, так как похоже, что часы на вашем компьютере показывают неправильное время, что не позволяет установить защищённое соединение.</p> <p>Ваш компьютер считает, что сейчас <span id='wrongSystemTimeWithoutReference_systemDate'/>. Чтобы устранить эту проблему, измените ваши настройки даты и времени, чтобы установить правильное время.</p>">
-
-<!ENTITY certerror.pagetitle1  "Незащищённое соединение">
-
 <!ENTITY certerror.pagetitle2  "Предупреждение: Вероятная угроза безопасности">
 <!ENTITY certerror.sts.pagetitle  "Соединение не установлено: Вероятная угроза безопасности">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Этот сайт использует Форсированное защищённое соединение HTTP (HSTS), чтобы указать, что &brandShortName; должен подключаться к нему только через защищённое соединение. В результате, добавление исключения для этого сертификата невозможно.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> имеет политику безопасности называемую Форсированное защищённое соединение HTTP (HSTS), что означает, что &brandShortName; может подключиться к нему только через защищённое соединение. Вы не можете добавить исключение, чтобы посетить этот сайт.">
 <!ENTITY certerror.copyToClipboard.label "Копировать текст в буфер обмена">
 
@@ -247,6 +227,9 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Похоже, что причиной этого могут быть настройки безопасности вашей сети. Вы хотите восстановить настройки по умолчанию?">
 <!ENTITY prefReset.label "Восстановить настройки по умолчанию">
+
+<!ENTITY enableTls10.note "TLS 1.0 и TLS 1.1 будут навсегда отключены в будущем релизе.">
+<!ENTITY enableTls10.label "Включить TLS 1.0 и 1.1">
 
 <!ENTITY networkProtocolError.title "Ошибка сетевого протокола">
 <!ENTITY networkProtocolError.longDesc "<p>Страница, которую вы пытаетесь просмотреть, не может быть показана, так как была обнаружена ошибка в сетевом протоколе.</p><ul><li>Пожалуйста, свяжитесь с владельцами веб-сайта и проинформируйте их об этой проблеме.</li></ul>">
