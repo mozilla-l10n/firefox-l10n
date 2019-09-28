@@ -81,6 +81,7 @@ cfr-whatsnew-button =
     .label = Qué hay de nuevo
     .tooltiptext = Qué hay de nuevo
 cfr-whatsnew-panel-header = Qué hay de nuevo
+cfr-whatsnew-release-notes-link-text = Lee las notas de la versión
 cfr-whatsnew-tracking-protect-title = Protégete de los rastreadores
 cfr-whatsnew-tracking-protect-link-text = Mira tu reporte
 # This string is displayed before a large numeral that indicates the total
@@ -124,3 +125,6 @@ cfr-doorhanger-firefox-send-header = Comparte este PDF de forma segura
 cfr-doorhanger-firefox-send-body = Mantén tus documentos sensibles lejos de miradas intrusas con cifrado de extremo a extremo y un enlace que desaparece cuando estés listo.
 cfr-doorhanger-firefox-send-ok-button = Prueba { -send-brand-name }
     .accesskey = T
+
+## Social Tracking Protection
+

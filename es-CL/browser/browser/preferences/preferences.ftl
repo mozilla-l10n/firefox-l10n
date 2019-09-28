@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Contenido con DRM (Gestión de derechos digitales)
 play-drm-content =
@@ -551,6 +551,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Lleva la Web contigo
 sync-signedout-description = Sincroniza tus marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos tus dispositivos.
 sync-signedout-account-title = Conéctate con una { -fxaccount-brand-name }
@@ -571,11 +575,17 @@ sync-mobile-promo = Descarga Firefox para <img data-l10n-name="android-icon"/> <
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Cambiar imagen de perfil
 sync-disconnect =
     .label = Desconectar…
     .accesskey = D
+sync-sign-out =
+    .label = Salir…
+    .accesskey = g
 sync-manage-account = Administrar cuenta
     .accesskey = o
 sync-signedin-unverified = { $email } no está verificada.
@@ -591,6 +601,38 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Ajustes de Sync
 sync-signedin-settings-desc = Elige que sincronizar en tus dispositivos usando { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Sincronización: ACTIVADA
+prefs-syncing-off = Sincronización: DESACTIVADA
+prefs-sync-setup =
+    .label = Configurar { -sync-brand-short-name }…
+    .accesskey = S
+prefs-sync-offer-setup-label = Sincroniza tus marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.
+prefs-sync-now =
+    .labelnotsyncing = Sincronizar ahora
+    .accesskeynotsyncing = N
+    .labelsyncing = Sincronizando…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = Actualmente estás sincronizando estos elementos:
+sync-currently-syncing-bookmarks = Marcadores
+sync-currently-syncing-history = Historial
+sync-currently-syncing-tabs = Pestañas abiertas
+sync-currently-syncing-logins-passwords = Conexiones y contraseñas
+sync-currently-syncing-addresses = Direcciones
+sync-currently-syncing-creditcards = Tarjetas de crédito
+sync-currently-syncing-addons = Complementos
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Opciones
+       *[other] Preferencias
+    }
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = M
@@ -625,6 +667,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Ajustes generales, de privacidad y de seguridad que has cambiado
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Nombre del dispositivo
 sync-device-name-change =
     .label = Cambiar nombre del dispositivo…
@@ -811,7 +856,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizado
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = Equilibrado para protección y rendimiento. Las páginas se cargarán normalmente.
 content-blocking-etp-strict-desc = Mayor protección, pero puede hacer que algunos sitios o contenidos fallen.
