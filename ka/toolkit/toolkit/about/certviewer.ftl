@@ -71,6 +71,7 @@ certificate-viewer-authority-key-id = უფლებამოსილი მ�
 certificate-viewer-authority-info-aia = უფლებამოსილი მხარის მონაცემები (AIA)
 certificate-viewer-certificate-policies = სერთიფიკატის პირობები
 certificate-viewer-embedded-scts = ჩაშენებული SCT- ები
+certificate-viewer-crl-endpoints = CRL-ს მომწოდებლები
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = ჩამოტვირთვა

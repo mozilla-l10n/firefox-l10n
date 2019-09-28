@@ -554,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = წაიყოლეთ თქვენი მონაცემები თან
 sync-signedout-description = დაასინქრონეთ თქვენი სანიშნები, ისტორია, ჩანართები, პაროლები, დამატებები და პარამეტრები ყველა მოწყობილობაზე.
 sync-signedout-account-title = { -fxaccount-brand-name } – დაკავშირება
@@ -574,10 +578,16 @@ sync-mobile-promo = Firefox ჩამოტვირთეთ <img data-l10n-nam
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = პროფილის სურათის შეცვლა
 sync-disconnect =
     .label = გამოთიშვა…
+    .accesskey = გ
+sync-sign-out =
+    .label = გამოსვლა...
     .accesskey = გ
 sync-manage-account = ანგარიშის მართვა
     .accesskey = მ
@@ -594,6 +604,46 @@ sync-sign-in =
     .accesskey = ვ
 sync-signedin-settings-header = სინქრონიზაციის პარამეტრები
 sync-signedin-settings-desc = აირჩიეთ, რისი დასინქრონება გსურთ { -brand-short-name }-ით თქვენს მოწყობილობაზე.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = დასინქრონება: ჩართ.
+prefs-syncing-off = დასინქრონება: გამორ.
+prefs-sync-setup =
+    .label = გამართეთ { -sync-brand-short-name }...
+    .accesskey = თ
+prefs-sync-offer-setup-label = დაასინქრონეთ თქვენი სანიშნეები, ისტორია, ჩანართები, პაროლები, დამატებები და პარამეტრები ყველა მოწყობილობაზე.
+prefs-sync-now =
+    .labelnotsyncing = დასინქრონება ახლავე
+    .accesskeynotsyncing = ნ
+    .labelsyncing = სინქრონდება...
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = ამჟამად დასინქრონებულია:
+sync-currently-syncing-bookmarks = სანიშნები
+sync-currently-syncing-history = ისტორია
+sync-currently-syncing-tabs = გახსნილი ჩანართები
+sync-currently-syncing-logins-passwords = ანგარიშები და პაროლები
+sync-currently-syncing-addresses = მისამართები
+sync-currently-syncing-creditcards = საკრედიტო ბარათები
+sync-currently-syncing-addons = დამატებები
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] პარამეტრები
+       *[other] პარამეტრები
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = აირჩიეთ, რა დასინქრონდეს
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = ცვლილებების შენახვა
+    .buttonaccesskeyaccept = ხ
+    .buttonlabelextra2 = გამოთიშვა...
+    .buttonaccesskeyextra2 = შ
+sync-choose-heading = აირჩიეთ, რისი გადატანა გსურთ { -sync-brand-short-name(case: "gen") } მეშვეობით თქვენს მოწყობილობებზე:
 sync-engine-bookmarks =
     .label = სანიშნები
     .accesskey = ს
@@ -608,6 +658,10 @@ sync-engine-logins =
     .label = შესვლები
     .tooltiptext = შენახული სახელები და პაროლები
     .accesskey = შ
+sync-engine-logins-passwords =
+    .label = ანგარიშები და პაროლები
+    .tooltiptext = მომხმარებლის შენახული სახელები და პაროლები
+    .accesskey = ო
 sync-engine-addresses =
     .label = მისამართები
     .tooltiptext = შენახული საფოსტო მისამართები (კომპიუტერზე მხოლოდ)
@@ -628,6 +682,9 @@ sync-engine-prefs =
         }
     .tooltiptext = ზოგადი, პირადულობისა და უსაფრთხოების ჩასწორებული პარამეტრები
     .accesskey = რ
+
+## The device name controls.
+
 sync-device-name-header = მოწყობილობის სახელი
 sync-device-name-change =
     .label = მოწყობილობის სახელის შეცვლა…
