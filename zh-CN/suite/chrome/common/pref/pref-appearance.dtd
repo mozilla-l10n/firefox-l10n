@@ -32,4 +32,4 @@
 <!--LOCALIZATION NOTE (restartOnLocaleChange.label): Don't translate "&brandShortName;".
     Place &brandShortName; in the phrase where the name of the application should appear
 -->
-<!ENTITY restartOnLocaleChange.label            "语言和格式化首选项将在您重开 &brandShortName; 后生效。">
+<!ENTITY restartOnLocaleChange.label            "语言和格式化首选项将在您重启 &brandShortName; 后生效。">
