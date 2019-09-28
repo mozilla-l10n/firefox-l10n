@@ -148,5 +148,9 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Może to być spowodowane zmienionymi ustawieniami przeglądarki dotyczącymi bezpieczeństwa sieci. Czy przywrócić domyślne ustawienia?">
 <!ENTITY prefReset.label "Przywróć">
 
+<!ENTITY enableTls10.longDesc "Ta witryna może nie obsługiwać protokołu TLS 1.2, który jest minimalną wersją obsługiwaną przez przeglądarkę &brandShortName;. Włączenie protokołów TLS 1.0 i TLS 1.1 może umożliwić to połączenie.">
+<!ENTITY enableTls10.note "Protokoły TLS 1.0 i TLS 1.1 zostaną na stałe wyłączone w przyszłym wydaniu.">
+<!ENTITY enableTls10.label "Włącz TLS 1.0 i 1.1">
+
 <!ENTITY networkProtocolError.title "Błąd protokołu sieciowego">
 <!ENTITY networkProtocolError.longDesc "<p>Otwierana strona nie może zostać wyświetlona, ponieważ wykryto błąd w protokole sieciowym.</p><ul><li>Proszę poinformować właścicieli witryny o tym problemie.</li></ul>">
