@@ -16,7 +16,7 @@
 <!ENTITY newMessage.accesskey "M">
 <!ENTITY newContact.label "Contact în agendă…">
 <!ENTITY newContact.accesskey "C">
-<!ENTITY attachMenu.label "Anexează">
+<!ENTITY attachMenu.label "Atașează">
 <!ENTITY attachMenu.accesskey "x">
 <!ENTITY attachFileCmd.label "Fișier(e)…">
 <!ENTITY attachFileCmd.accesskey "F">
@@ -281,13 +281,13 @@
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Inserează o figură zâmbitoare">
 <!ENTITY smiley1Cmd.label "Zâmbet">
-<!ENTITY smiley2Cmd.label "Scârbit">
-<!ENTITY smiley3Cmd.label "Clipit">
+<!ENTITY smiley2Cmd.label "Încruntat">
+<!ENTITY smiley3Cmd.label "Făcând cu ochiul">
 <!ENTITY smiley4Cmd.label "Cu limba scoasă">
 <!ENTITY smiley5Cmd.label "Râzând">
 <!ENTITY smiley6Cmd.label "Rușinat">
 <!ENTITY smiley7Cmd.label "Nedecis">
-<!ENTITY smiley8Cmd.label "Surpriză">
+<!ENTITY smiley8Cmd.label "Surprins">
 <!ENTITY smiley9Cmd.label "Sărut">
 <!ENTITY smiley10Cmd.label "Țipăt">
 <!ENTITY smiley11Cmd.label "Șmecher">
