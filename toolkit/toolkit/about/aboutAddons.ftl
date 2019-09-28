@@ -140,7 +140,7 @@ detail-show-preferences =
 detail-rating =
     .value = 评分
 addon-restart-now =
-    .label = 立即重开
+    .label = 立即重启浏览器
 disabled-unsigned-heading =
     .value = 一些附加组件已被禁用
 disabled-unsigned-description = 下列附加组件未通过针对是否适用于 { -brand-short-name } 的验证。您可以<label data-l10n-name="find-addons">找找有无替代品</label>或者请开发者申请验证。
@@ -223,7 +223,7 @@ extensions-updates-installed =
 extensions-updates-downloaded =
     .value = 您的附加组件更新已经下载。
 extensions-updates-restart =
-    .label = 立即重开以完成安装
+    .label = 立即重启浏览器以完成安装
 extensions-updates-none-found =
     .value = 没有找到可用的更新
 extensions-updates-manual-updates-found =
