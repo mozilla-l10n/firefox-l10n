@@ -57,9 +57,9 @@ close-button =
 feature-enable-requires-restart = 必须重新打开 { -brand-short-name } 才能启用此功能。
 feature-disable-requires-restart = 必须重新打开 { -brand-short-name } 才能禁用此功能。
 should-restart-title = 重新打开 { -brand-short-name }
-should-restart-ok = 立即重开 { -brand-short-name }
+should-restart-ok = 立即重启 { -brand-short-name }
 cancel-no-restart-button = 取消
-restart-later = 稍后重开
+restart-later = 稍后重启浏览器
 
 ## Extension Control Notifications
 ##
@@ -203,7 +203,7 @@ choose-browser-language-description = 选择 { -brand-short-name } 显示菜单�
 manage-browser-languages-button =
     .label = 设置备用语言…
     .accesskey = l
-confirm-browser-language-change-description = 重开 { -brand-short-name } 以应用这些更改
+confirm-browser-language-change-description = 重启 { -brand-short-name } 以应用这些更改
 confirm-browser-language-change-button = 应用并重新打开
 translate-web-pages =
     .label = 翻译网页内容

@@ -9,7 +9,7 @@ update-checkForUpdatesButton =
     .label = 检查更新
     .accesskey = C
 update-updateButton =
-    .label = 重开 { -brand-shorter-name } 以更新
+    .label = 重启 { -brand-shorter-name } 以更新
     .accesskey = R
 update-checkingForUpdates = 正在检查更新…
 update-downloading = <img data-l10n-name="icon"/>正在下载更新 — <label data-l10n-name="download-status"/>
@@ -21,7 +21,7 @@ update-noUpdatesFound = { -brand-short-name } 已是最新
 update-otherInstanceHandlingUpdates = { -brand-short-name } 正在由其他实例更新
 update-manual = 可访问 <label data-l10n-name="manual-link"/>
 update-unsupported = 您无法在这个系统上进一步更新。<label data-l10n-name="unsupported-link">详细了解</label>
-update-restarting = 正在重开…
+update-restarting = 正在重启浏览器…
 channel-description = 您目前在 <label data-l10n-name="current-channel"></label> 更新通道。
 warningDesc-version = { -brand-short-name } 是实验性的测试版本，可能不够稳定。
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> 是一个<label data-l10n-name="community-exp-creditsLink">全球社区</label>，携手致力于让互联网保持开放、公开且人人可用。
@@ -30,8 +30,6 @@ helpus = 想帮忙吗？<label data-l10n-name="helpus-donateLink">向我们捐�
 bottomLinks-license = 授权信息
 bottomLinks-rights = 最终用户权利
 bottomLinks-privacy = 隐私政策
-aboutDialog-architecture-sixtyFourBit = 64 位
-aboutDialog-architecture-thirtyTwoBit = 32 位
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1
