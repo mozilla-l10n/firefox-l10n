@@ -82,18 +82,18 @@
 
 <!ENTITY fontSizeMenu.label "Mărime">
 <!ENTITY fontSizeMenu.accesskey "M">
-<!ENTITY size-tinyCmd.label "Foarte mic">
-<!ENTITY size-tinyCmd.accesskey "m">
-<!ENTITY size-smallCmd.label "Mic">
-<!ENTITY size-smallCmd.accesskey "M">
-<!ENTITY size-mediumCmd.label "Mediu">
-<!ENTITY size-mediumCmd.accesskey "e">
+<!ENTITY size-tinyCmd.label "Foarte mică">
+<!ENTITY size-tinyCmd.accesskey "T">
+<!ENTITY size-smallCmd.label "Mică">
+<!ENTITY size-smallCmd.accesskey "S">
+<!ENTITY size-mediumCmd.label "Medie">
+<!ENTITY size-mediumCmd.accesskey "M">
 <!ENTITY size-largeCmd.label "Mare">
-<!ENTITY size-largeCmd.accesskey "M">
+<!ENTITY size-largeCmd.accesskey "L">
 <!ENTITY size-extraLargeCmd.label "Foarte mare">
-<!ENTITY size-extraLargeCmd.accesskey "t">
-<!ENTITY size-hugeCmd.label "Uriaș">
-<!ENTITY size-hugeCmd.accesskey "U">
+<!ENTITY size-extraLargeCmd.accesskey "x">
+<!ENTITY size-hugeCmd.label "Uriașă">
+<!ENTITY size-hugeCmd.accesskey "H">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Stil text">
