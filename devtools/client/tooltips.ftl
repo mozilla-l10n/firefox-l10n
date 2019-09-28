@@ -30,6 +30,8 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> na tutón element ef
 inactive-css-not-flex-container = <strong>{ $property }</strong> na tutón element efekt nima, dokelž kontejner flex njeje.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> na tutón element wuskutk nima, dokelž element element inline abo element tabeloweje cele njeje.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> nima wuskutk na tutón element, dokelž ma zwobraznjenje <strong>{ $display }</strong>.
+inactive-css-not-display-block-on-floated = Hódnota <strong>display</strong> je so přez engine do <strong>block</strong> změnił, dokelž element je <strong>floated<strong>.
+inactive-css-property-is-impossible-to-override-in-visited = Wobmjezowanja <strong>:visited</strong> dla je njemóžno, <strong>{ $property }</strong> přepisać.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -48,3 +50,4 @@ inactive-css-not-flex-container-fix = Spytajće <strong>display:flex</strong> ab
 inactive-css-not-inline-or-tablecell-fix = Spytajće <strong>display:inline</strong> abo <strong>display:table-cell</strong> přidać. { learn-more }
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Spytajće <strong>display:inline-block</strong> abo <strong>display:block</strong> přidać. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Spytajće <strong>display:inline-block</strong> přidać. { learn-more }
+inactive-css-not-display-block-on-floated-fix = Spytajće <strong>float</strong> wotstronić abo <strong>display:block</strong> přidać. { learn-more }
