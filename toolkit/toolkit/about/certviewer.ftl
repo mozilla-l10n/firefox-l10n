@@ -55,6 +55,13 @@ certificate-viewer-timestamp = Časowy kołk
 certificate-viewer-value = Hódnota
 certificate-viewer-version = Wersija
 certificate-viewer-business-category = Wobchodniska kategorija
+certificate-viewer-issuer-name = Mjeno wudawarja
+certificate-viewer-validity = Płaćiwosć
+certificate-viewer-public-key-info = Informacije wo zjawnym kluču
+certificate-viewer-miscellaneous = Wšelake
+certificate-viewer-fingerprints = Porstowe wotćišće
+certificate-viewer-extended-key-usages = Rozšěrjene wužića kluča
+certificate-viewer-certificate-policies = Certifikatowe prawidła
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Sćehnjenje
@@ -66,3 +73,7 @@ certificate-viewer-boolean =
         [true] Haj
        *[false] Ně
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+

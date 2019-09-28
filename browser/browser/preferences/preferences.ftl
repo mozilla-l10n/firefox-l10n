@@ -615,6 +615,8 @@ sync-signedin-settings-desc = Wubjerće, štož ma so z { -brand-short-name } na
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Synchronizacija: ZAPINJENY
+prefs-syncing-off = Synchronizacija: WUPINJENY
 prefs-sync-offer-setup-label = Synchronizujće swoje zapołožki, historiju, rajtarki, hesła, přidatki a nastajenja mjez wšěmi wašimi gratami.
 prefs-sync-now =
     .labelnotsyncing = Nětko synchronizować
