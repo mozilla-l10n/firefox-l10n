@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Kȏd greške: { $error }
 psmerr-ssl-disabled = Nije moguće sigurno se povezati jer je SSL protokol onemogućen.
 psmerr-ssl2-disabled = Nije moguće sigurno se povezati jer stranica koristi staru, nesigurnu inačicu SSL protokola.
 # This is a multi-line message.
