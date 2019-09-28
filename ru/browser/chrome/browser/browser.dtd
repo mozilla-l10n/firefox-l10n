@@ -168,8 +168,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "Войти в &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Включить Синхронизацию">
-<!ENTITY fxa.menu.account.label "Аккаунт">
 <!ENTITY fxa.menu.firefoxServices.label "Сервисы &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Аккаунт">
+<!ENTITY fxa.menu.settings.label "Настройки">
+<!ENTITY fxa.menu.accountSettings.label "Настройки Аккаунта">
+<!ENTITY fxa.menu.signOut.label "Выйти…">
+<!ENTITY fxa.menu.deviceSettings.label "Настройки устройства">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -994,6 +999,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection4.label "Отслеживающее содержимое">
 
 <!ENTITY contentBlocking.manageSettings2.label "Управление настройками защиты">
+<!ENTITY contentBlocking.manageSettings2.accesskey "п">
 
 <!ENTITY contentBlocking.socialblock.label "Трекеры социальных сетей">
 
