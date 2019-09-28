@@ -9,10 +9,7 @@
 <!ENTITY retry.label "重試">
 <!ENTITY returnToPreviousPage.label "返回">
 <!ENTITY returnToPreviousPage1.label "返回上一頁（建議）">
-<!ENTITY advanced.label "進階">
-<!ENTITY continue2.label "更多…">
 <!ENTITY advanced2.label "進階…">
-<!ENTITY moreInformation.label "更多資訊">
 <!ENTITY viewCertificate.label "檢視憑證">
 
 <!-- Specific error messages -->
@@ -133,13 +130,11 @@
   <li>請向網站擁有者回報此問題。</li>
 </ul>">
 
-<!ENTITY certerror.longpagetitle1 "您的連線並不安全">
 <!ENTITY certerror.longpagetitle2 "警告: 本網站可能有安全性風險">
 <!ENTITY certerror.sts.longpagetitle  "未連線: 潛在的安全性問題">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "<span class='hostname'/> 的網站管理員未正確設定好網站。為了確保您的資訊不會被盜走，&brandShortName; 並未連線至該網站。">
 <!ENTITY certerror.introPara2 "&brandShortName; 偵測到可能有安全性風險，並未連線至 <span class='hostname'/>。若您要造訪此網站，攻擊者可能會嘗試偷走您的密碼、電子郵件或信用卡資料等個資。">
 <!ENTITY certerror.sts.introPara "&brandShortName; 偵測到潛在的安全性威脅，並未連線到 <span class='hostname'/>。此網站必須使用安全性連線。">
 
@@ -172,8 +167,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "內容毀損錯誤">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>因為在資料傳輸過程當中偵測到錯誤，無法顯示您正要檢視的頁面。</p><ul><li>請通知網站管理者以讓他們知道這個問題。</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "新增例外網站…">
 <!ENTITY securityOverride.exceptionButton1Label "接受風險並繼續">
 
 <!ENTITY errorReporting.automatic2 "回報這類的錯誤，幫助 Mozilla 找出並封鎖惡意網站">
@@ -187,16 +180,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "進階資訊: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p>您的系統時間不正確，&brandShortName; 無法與 <span id='wrongSystemTime_URL'/> 建立安全連線。</p> <p>您的電腦時間目前為 <span id='wrongSystemTime_systemDate'/>，但應該是 <span id='wrongSystemTime_actualDate'/>。請將您的系統設定為正確時間來修正此問題。</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>您的系統時間不正確，&brandShortName; 無法與<span id='wrongSystemTimeWithoutReference_URL'/>建立安全連線。</p> <p>您的系統時間目前為<span id='wrongSystemTimeWithoutReference_systemDate'/>，請設定為正確的日期與時間來修正此問題。</p>">
-
-<!ENTITY certerror.pagetitle1  "不安全的連線">
 <!ENTITY certerror.pagetitle2  "警告: 本網站可能有安全性風險">
 <!ENTITY certerror.sts.pagetitle  "未連線: 潛在的安全性問題">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "此網站透過 HTTP Strict Transport Security (HSTS) 要求 &brandShortName; 僅能透過安全連線連結到該網站，所以無法將此憑證加入例外清單。">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> 有一條稱為 HTTP Strict Transport Security (HSTS) 的安全性政策，讓 &brandShortName; 僅能與其進行安全連線。您無法加入例外，手動排除此政策。">
 <!ENTITY certerror.copyToClipboard.label "將文字複製到剪貼簿">
 
@@ -219,6 +204,10 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "看來可能是您的網路安全設定造成此問題，您是否要恢復預設設定值？">
 <!ENTITY prefReset.label "還原預設設定">
+
+<!ENTITY enableTls10.longDesc "此網站可能不支援 &brandShortName; 最低支援的 TLS 1.2 版通訊協定。開啟 TLS 1.0 或 TLS 1.1 可能可以進行連線。">
+<!ENTITY enableTls10.note "將於未來的版本中永久結束支援 TLS 1.0 及 TLS 1.1。">
+<!ENTITY enableTls10.label "開啟 TLS 1.0 與 1.1">
 
 <!ENTITY networkProtocolError.title "網路通訊協定錯誤">
 <!ENTITY networkProtocolError.longDesc "<p>因為偵測到網路通訊協定中的問題，無法顯示您嘗試檢視的頁面。</p><ul><li>請聯絡網站管理員來解決這個問題。</li></ul>">
