@@ -81,7 +81,7 @@
      books.
      -->
 <!ENTITY quickFilterBar.inaddrbook.label
-         "Contact">
+         "Persoane de contact">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.inaddrbook.tooltip):
      The tooltip for the filter button that causes us to filter results to only
@@ -110,7 +110,7 @@
      include messages with attachments.
      -->
 <!ENTITY quickFilterBar.attachment.label
-         "Atașament">
+         "Atașamente">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.attachment.tooltip):
      The tooltip for the filter button that causes us to filter results to only
@@ -259,7 +259,7 @@
      body for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.body.label
-         "Conținut">
+         "Corp">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.glodaUpsell.continueSearch):
      The first line of the panel popup that tells the user we found no matches

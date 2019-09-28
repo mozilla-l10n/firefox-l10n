@@ -15,7 +15,7 @@
 <!ENTITY abContextMenuButton.tooltip        "Afișează meniul contextual pentru agenda de contacte">
 <!ENTITY addressbookPicker.label            "Agendă de contacte:">
 <!ENTITY addressbookPicker.accesskey        "A">
-<!ENTITY searchContacts.label               "Căutare în contacte:">
+<!ENTITY searchContacts.label               "Caută în contacte:">
 <!ENTITY searchContacts.accesskey           "n">
 <!ENTITY SearchNameOrEmail.label            "Nume sau e-mail">
 
