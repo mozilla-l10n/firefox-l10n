@@ -116,6 +116,7 @@ newtab-menu-open-file = Otvori datoteku
 
 newtab-label-visited = Posjećeno
 newtab-label-bookmarked = Zabilježeno
+newtab-label-removed-bookmark = Zabilješka uklonjena
 newtab-label-recommended = Popularno
 newtab-label-saved = Spremljeno u { -pocket-brand-name }
 newtab-label-download = Preuzeto
