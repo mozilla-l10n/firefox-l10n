@@ -279,23 +279,23 @@
 <!ENTITY attachmentBucketCloseButton.tooltip "Ascunde panoul atașamentelor">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!ENTITY SmileButton.tooltip "Inserează o figură zâmbitoare">
+<!ENTITY SmileButton.tooltip "Inserează un chip zâmbitor">
 <!ENTITY smiley1Cmd.label "Zâmbet">
 <!ENTITY smiley2Cmd.label "Încruntat">
 <!ENTITY smiley3Cmd.label "Făcând cu ochiul">
 <!ENTITY smiley4Cmd.label "Cu limba scoasă">
 <!ENTITY smiley5Cmd.label "Râzând">
 <!ENTITY smiley6Cmd.label "Rușinat">
-<!ENTITY smiley7Cmd.label "Nedecis">
+<!ENTITY smiley7Cmd.label "Nehotărât">
 <!ENTITY smiley8Cmd.label "Surprins">
 <!ENTITY smiley9Cmd.label "Sărut">
 <!ENTITY smiley10Cmd.label "Țipăt">
-<!ENTITY smiley11Cmd.label "Șmecher">
-<!ENTITY smiley12Cmd.label "Gură aurită">
-<!ENTITY smiley13Cmd.label "Ar trebui să taci">
-<!ENTITY smiley14Cmd.label "Nevinovat">
+<!ENTITY smiley11Cmd.label "Cool">
+<!ENTITY smiley12Cmd.label "Cu bani în gură">
+<!ENTITY smiley13Cmd.label "Cu piciorul în gură">
+<!ENTITY smiley14Cmd.label "Inocent">
 <!ENTITY smiley15Cmd.label "Plânset">
-<!ENTITY smiley16Cmd.label "Buze pecetluite">
+<!ENTITY smiley16Cmd.label "Cu buzele pecetluite">
 
 <!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Nicio sugestie găsită">
