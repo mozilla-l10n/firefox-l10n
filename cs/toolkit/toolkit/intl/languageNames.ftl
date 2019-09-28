@@ -188,6 +188,7 @@ language-name-tlh = Klingonština
 language-name-tn = Tswanština
 language-name-to = Tongánština
 language-name-tr = Turečtina
+language-name-trs = Triqui
 language-name-ts = Tsongština
 language-name-tt = Tatarština
 language-name-tw = Ťwiština
