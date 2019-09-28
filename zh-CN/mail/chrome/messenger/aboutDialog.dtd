@@ -11,7 +11,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "检查更新">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label3               "重开以更新 &brandShorterName;">
+<!ENTITY update.updateButton.label3               "重启客户端以更新 &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
@@ -101,8 +101,7 @@
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "正在应用更新…">
-
-<!ENTITY update.restarting          "正在重开…">
+<!ENTITY update.restarting          "正在重启客户端…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.

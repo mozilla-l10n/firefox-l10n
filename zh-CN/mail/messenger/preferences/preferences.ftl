@@ -34,7 +34,7 @@ choose-messenger-language-description = 选择用于显示 { -brand-short-name }
 manage-messenger-languages-button =
     .label = 设置备用语言…(I)
     .accesskey = I
-confirm-messenger-language-change-description = 重开 { -brand-short-name } 以应用这些更改
+confirm-messenger-language-change-description = 重启 { -brand-short-name } 以应用这些更改
 confirm-messenger-language-change-button = 应用并重新打开
 update-pref-write-failure-title = 写入失败
 # Variables:
