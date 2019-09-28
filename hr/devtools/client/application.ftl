@@ -12,6 +12,8 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
+# Text for the button to unregister a Service Worker. Displayed for active Service Workers.
+serviceworker-worker-unregister = Odjavi
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Započni
@@ -20,6 +22,8 @@ serviceworker-worker-start = Započni
 serviceworker-worker-updated = Ažurirano <time>{ DATETIME($date, month: "long", year: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric") }</time>
 # Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
 serviceworker-worker-source = Izvor
+# Text displayed next to the current status of the service worker.
+serviceworker-worker-status = Stanje
 
 ## Service Worker status strings: all serviceworker-worker-status-* strings are also
 ## defined in aboutdebugging.properties and should be synchronized with them.
@@ -29,3 +33,45 @@ serviceworker-worker-source = Izvor
 serviceworker-worker-status-running = Pokrenuto
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Zaustavljeno
+# Service Worker status. A registering service worker is not yet registered and cannot be
+# started or debugged.
+serviceworker-worker-status-registering = Registriranje
+# Suggestion to check for errors in the Console to investigate why a service worker is not
+# registered. Clicking on the link opens the webconsole.
+serviceworker-empty-suggestions-console = Nađi greške pomoću konzole. <a>Otvori konzolu</a>
+# Header for the Manifest page when we have an actual manifest
+manifest-view-header = Manifest aplikacije
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Ovde trebaš dodati Manifest web aplikacije kako bi je ovdje pregledao/la. <a>Saznaj više</a>
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Greške i upozorenja
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Identitet
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Prikaz
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Ikone
+# Text displayed while we are loading the manifest file
+manifest-loading = Učitavanje manifesta …
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Manifest učitan.
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = Došlo je do greške prilikom učitavanja manifesta:
+# Text displayed when the page has no manifest available
+manifest-non-existing = Nije pronađen nijedan manifest za provjeru.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Manifest je ugrađen u podatkovni URL.
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifest
+    .alt = Ikona za manifest
+    .title = Manifest
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Ikona za upozorenje
+    .title = Upozorenje
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Ikona za grešku
+    .title = Greška
