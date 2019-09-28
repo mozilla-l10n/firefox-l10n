@@ -501,6 +501,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Jaa">
 <!ENTITY share_title "Jaa palvelulla">
 <!ENTITY share_image_failed "Kuvan jakaminen ei onnistunut">
+<!ENTITY share_error_toast_message "Jakaminen osoitetulle sovellukselle ei onnistu">
 <!ENTITY save_as_pdf "Tallenna PDF-muodossa">
 <!ENTITY print "Tulosta">
 <!ENTITY view_page_source "Näytä sivun lähdekoodi">
