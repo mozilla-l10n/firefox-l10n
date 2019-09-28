@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
-<!ENTITY msgComposeWindow.title "Redactare mesaj: (fără subiect)">
+<!ENTITY msgComposeWindow.title "Redactează mesajul: (fără subiect)">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Fișier">

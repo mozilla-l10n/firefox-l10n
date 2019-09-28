@@ -23,15 +23,15 @@
 <!ENTITY noAltText.label "Fără text alternativ">
 <!ENTITY noAltText.accessKey "F">
 
-<!ENTITY previewBox.label "Previzualizare imagine">
+<!ENTITY previewBox.label "Previzualizarea imaginii">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
-<!ENTITY actualSize.label "Mărime reală:">
-<!ENTITY actualSizeRadio.label "Mărime reală">
+<!ENTITY actualSize.label "Dimensiune reală:">
+<!ENTITY actualSizeRadio.label "Dimensiune reală">
 <!ENTITY actualSizeRadio.accessKey "r">
-<!ENTITY actualSizeRadio.tooltip "Revenire la mărimea reală a imaginii">
-<!ENTITY customSizeRadio.label "Mărime personalizată">
+<!ENTITY actualSizeRadio.tooltip "Revino la dimensiunea reală a imaginii">
+<!ENTITY customSizeRadio.label "Dimensiune personalizată">
 <!ENTITY customSizeRadio.accessKey "p">
 <!ENTITY customSizeRadio.tooltip "Modifică mărimea imaginii, așa cum va fi afișată pe pagină">
 <!ENTITY heightEditField.label "Înălțime:">
