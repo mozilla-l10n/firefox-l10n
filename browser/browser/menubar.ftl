@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Celá obrazovka
     .accesskey = C
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Zobrazit všechny panely
@@ -212,12 +212,21 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Přihlásit se do { -sync-brand-short-name }…
     .accesskey = i
+menu-tools-fxa-sign-in =
+    .label = Přihlásit se k aplikaci { -brand-product-name }…
+    .accesskey = p
+menu-tools-turn-on-sync =
+    .label = Zapnout { -sync-brand-short-name }…
+    .accesskey = n
 menu-tools-sync-now =
     .label = Synchronizovat
     .accesskey = S
 menu-tools-sync-re-auth =
     .label = Opětovné připojení k { -sync-brand-short-name }…
     .accesskey = p
+menu-tools-fxa-re-auth =
+    .label = Znovu připojit k účtu { -brand-product-name }…
+    .accesskey = n
 menu-tools-web-developer =
     .label = Nástroje pro vývojáře
     .accesskey = v

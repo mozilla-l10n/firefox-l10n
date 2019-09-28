@@ -79,11 +79,13 @@ when there are no windows but Firefox is still running. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Navigace">
 <!ENTITY personalbarCmd.label "Lišta záložek">
 <!ENTITY personalbarCmd.accesskey "z">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Záložky">
 <!ENTITY bookmarksToolbarItem.label "Záložky nástrojové lišty">
 
 <!ENTITY pageSourceCmd.label "Zdrojový kód stránky">
@@ -125,7 +127,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Ověřte svůj účet">
 
 
- <!-- } is above this key on many keyboards -->
+<!ENTITY togglePictureInPicture.key2 "(">
+<!ENTITY togglePictureInPicture.key ")"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizovat">
 <!ENTITY fullScreenRestore.tooltip "Obnovit">
@@ -168,6 +171,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.firefoxServices.label "Služby aplikace &brandProductName;">
 
 <!ENTITY fxa.menu.account.label "Účet">
+<!ENTITY fxa.menu.settings.label "Nastavení">
+<!ENTITY fxa.menu.accountSettings.label "Nastavení účtu">
+<!ENTITY fxa.menu.signOut.label "Odhlásit se…">
+<!ENTITY fxa.menu.deviceSettings.label "Nastavení zařízení">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -438,8 +445,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Chcete zde vidět své panely z ostatních zařízení?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Otevřít předvolby synchronizace">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Pro zobrazení seznamu panelů z vašich ostatních zařízení se prosím přihlaste.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Seznam panelů z ostatních zařízení">
 <!ENTITY appMenuRemoteTabs.unverified.label "Je potřeba ověřit váš účet.">
 <!ENTITY appMenuRemoteTabs.signin.label "Přihlásit se ke službě Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Přihlášení k &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Zapnout &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Správa zařízení…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Zobrazit v postranní liště">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Zavřít v postranní liště">

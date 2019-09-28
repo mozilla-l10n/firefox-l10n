@@ -64,6 +64,9 @@ about-logins-login-list-empty-search-description = Vašemu vyhledávání neodpo
 login-list-item-title-new-login = Nové přihlašovací údaje
 login-list-item-subtitle-new-login = Zadejte své přihlašovací údaje
 login-list-item-subtitle-missing-username = (žádné uživatelské jméno)
+about-logins-list-item-warning-icon =
+    .alt = Varovná ikona
+    .title = Na tomto serveru došlo k úniku dat
 
 ## Introduction screen
 
@@ -82,8 +85,6 @@ login-item-origin-label = Adresa serveru
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Uživatelské jméno
-login-item-username =
-    .placeholder = vase-adresa@example.com
 about-logins-login-item-username =
     .placeholder = (žádné uživatelské jméno)
 login-item-copy-username-button-text = Kopírovat
