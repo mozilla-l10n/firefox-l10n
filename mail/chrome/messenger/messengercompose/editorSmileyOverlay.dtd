@@ -6,7 +6,7 @@
 <!ENTITY insertSmiley.label "Emoticon">
 <!ENTITY insertSmiley.accesskey "Z">
 
-<!ENTITY smiley1Cmd.label "Zâmbitor">
+<!ENTITY smiley1Cmd.label "Zâmbet">
 <!ENTITY smiley1Cmd.accesskey "Z">
 <!ENTITY smiley1Cmd.tooltip "Inserează o figură zâmbitoare">
 <!ENTITY smiley2Cmd.label "Încruntat">
