@@ -43,15 +43,18 @@ about-debugging-sidebar-item-connect-button = Poveži
 about-debugging-sidebar-item-connect-button-connecting = Povezivanje…
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = Povezivanje nije uspjelo
+# Text displayed in connection warning on sidebar item of the runtime when connecting to
+# the runtime is taking too much time.
+about-debugging-sidebar-item-connect-button-connection-not-responding = Povezivanje još uvijek čeka, provjeri ima li poruka na ciljanom pregledniku
 # Text displayed as connection error in sidebar item when the connection has timed out.
-about-debugging-sidebar-item-connect-button-connection-timeout = Vrijeme veze je isteklo
+about-debugging-sidebar-item-connect-button-connection-timeout = Vrijeme povezivanja je isteklo
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
-about-debugging-sidebar-item-connected-label = Povezan
+about-debugging-sidebar-item-connected-label = Povezano
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
-about-debugging-sidebar-runtime-item-waiting-for-browser = Čeka se na preglednika …
+about-debugging-sidebar-runtime-item-waiting-for-browser = Čekanje na preglednika …
 # Text displayed in sidebar items for remote devices that have been disconnected from the
 # computer.
 about-debugging-sidebar-runtime-item-unplugged = Nepriključeno
@@ -78,14 +81,16 @@ about-debugging-refresh-usb-devices-button = Osvježi uređaje
 # Title of the Setup page.
 about-debugging-setup-title = Konfiguracija
 # Title of the heading Connect section of the Setup page.
-about-debugging-setup-connect-heading = Spojite uređaj
+about-debugging-setup-connect-heading = Spoji uređaj
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Ako se ovo omogući, preuzeti i dodati će se potrebne Android USB komponente za ispravljanje grešaka u { -brand-shorter-name }.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Omogući USB uređaje
 # Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
-about-debugging-setup-usb-disable-button = Onemogućite USB uređaje
+about-debugging-setup-usb-disable-button = Onemogući USB uređaje
 # Text of the button displayed in the USB section of the setup page while USB debugging
 # components are downloaded and installed.
 about-debugging-setup-usb-updating-button = Aktualiziranje …
