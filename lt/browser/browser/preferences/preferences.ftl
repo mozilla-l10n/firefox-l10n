@@ -310,7 +310,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Skaitmeninių teisių valdymo (DRM) turinys
 play-drm-content =
@@ -558,6 +558,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Pasiimkite savo saityną kartu
 sync-signedout-description = Sinchronizuokite savo adresyną, žurnalą, korteles, slaptažodžius, priedus bei nuostatas visuose savo įrenginiuose.
 sync-signedout-account-title = Jungtis su { -fxaccount-brand-name }
@@ -578,11 +582,17 @@ sync-mobile-promo = Parsisiųskite „Firefox“, skirtą <img data-l10n-name="a
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Keisti profilio nuotrauką
 sync-disconnect =
     .label = Atsijungti…
     .accesskey = t
+sync-sign-out =
+    .label = Atsijungti…
+    .accesskey = g
 sync-manage-account = Tvarkyti paskyrą
     .accesskey = y
 sync-signedin-unverified = Paskyra { $email } yra nepatvirtinta.
@@ -598,6 +608,46 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Sinchronizavimo nuostatos
 sync-signedin-settings-desc = Pasirinkite, ką sinchronizuoti jūsų įrenginiuose, naudojant „{ -brand-short-name }“:
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Sinchronizavimas: ĮJUNGTA
+prefs-syncing-off = Sinchronizavimas: IŠJUNGTA
+prefs-sync-setup =
+    .label = Įjungti „{ -sync-brand-short-name }“…
+    .accesskey = j
+prefs-sync-offer-setup-label = Sinchronizuokite savo adresyną, žurnalą, korteles, slaptažodžius, priedus bei nuostatas visuose savo įrenginiuose.
+prefs-sync-now =
+    .labelnotsyncing = Sinchronizuoti dabar
+    .accesskeynotsyncing = d
+    .labelsyncing = Sinchronizuojama…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = Dabar sinchronizuojate šiuos elementus:
+sync-currently-syncing-bookmarks = Adresynas
+sync-currently-syncing-history = Žurnalas
+sync-currently-syncing-tabs = Atvertos kortelės
+sync-currently-syncing-logins-passwords = Prisijungimai ir slaptažodžiai
+sync-currently-syncing-addresses = Adresai
+sync-currently-syncing-creditcards = Mokėjimo kortelės
+sync-currently-syncing-addons = Priedai
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Nuostatos
+       *[other] Nuostatos
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Pasirinkite, ką sinchronizuosite
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Įrašyti pakeitimus
+    .buttonaccesskeyaccept = r
+    .buttonlabelextra2 = Atsijungti…
+    .buttonaccesskeyextra2 = t
+sync-choose-heading = Pasirinkite, ką sinchronizuoti jūsų įrenginiuose, naudojant „{ -sync-brand-short-name }“:
 sync-engine-bookmarks =
     .label = adresyną
     .accesskey = a
@@ -611,6 +661,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = prisijungimus
     .tooltiptext = Įrašyti prisijungimų vardai ir slaptažodžiai
+    .accesskey = P
+sync-engine-logins-passwords =
+    .label = Prisijungimai ir slaptažodžiai
+    .tooltiptext = Jūsų įrašyti prisijungimai ir slaptažodžiai
     .accesskey = P
 sync-engine-addresses =
     .label = adresus
@@ -632,6 +686,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Bendros, privatumo ir saugumo nuostatos, kurias keitėte
     .accesskey = n
+
+## The device name controls.
+
 sync-device-name-header = Įrenginio pavadinimas
 sync-device-name-change =
     .label = Keisti įrenginio pavadinimą…
@@ -822,7 +879,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Pasirinktinė
     .accesskey = P
 
-##
+
 
 content-blocking-etp-standard-desc = Subalansuota apsaugai ir našumui. Tinklalapiai bus įkeliami įprastai.
 content-blocking-etp-strict-desc = Stipresnė apsauga, tačiau gali sutrikti kai kurių svetainių veikimas.
