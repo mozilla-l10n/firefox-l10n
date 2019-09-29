@@ -188,6 +188,7 @@ language-name-tlh = Tagalogų2
 language-name-tn = Tsvanų
 language-name-to = Tongų
 language-name-tr = Turkų
+language-name-trs = Trikių
 language-name-ts = Tsongų
 language-name-tt = Totorių
 language-name-tw = Tvi

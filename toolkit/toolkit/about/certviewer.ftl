@@ -36,7 +36,7 @@ certificate-viewer-not-after = Ne vėliau
 certificate-viewer-not-before = Ne anksčiau
 certificate-viewer-organization = Įstaiga
 certificate-viewer-organizational-unit = Įstaigos padalinys
-certificate-viewer-policy = Nuostatai
+certificate-viewer-policy = Nuostatas
 certificate-viewer-protocol = Protokolas
 certificate-viewer-public-value = Viešoji reikšmė
 certificate-viewer-purposes = Paskirtys
@@ -55,6 +55,23 @@ certificate-viewer-timestamp = Laiko žymė
 certificate-viewer-value = Reikšmė
 certificate-viewer-version = Laida
 certificate-viewer-business-category = Verslo kategorija
+certificate-viewer-subject-name = Subjekto vardas
+certificate-viewer-issuer-name = Išdavėjo vardas
+certificate-viewer-validity = Galiojimas
+certificate-viewer-subject-alt-names = Subjekto alternatyvieji vardai
+certificate-viewer-public-key-info = Viešojo rakto informacija
+certificate-viewer-miscellaneous = Kitkas
+certificate-viewer-fingerprints = Kontroliniai kodai
+certificate-viewer-basic-constraints = Pagrindiniai apribojimai
+certificate-viewer-key-usages = Rakto panaudojimai
+certificate-viewer-extended-key-usages = Išplėstiniai rakto panaudojimai
+certificate-viewer-ocsp-stapling = OCSP susegimas
+certificate-viewer-subject-key-id = Subjekto rakto identifikatorius
+certificate-viewer-authority-key-id = Įstaigos rakto identifikatorius
+certificate-viewer-authority-info-aia = Įstaigos informacija (AIA)
+certificate-viewer-certificate-policies = Liudijimo nuostatai
+certificate-viewer-embedded-scts = Įterptieji SCT
+certificate-viewer-crl-endpoints = CRL galiniai taškai
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Parsiųsti
@@ -66,3 +83,11 @@ certificate-viewer-boolean =
         [true] Taip
        *[false] Ne
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
+certificate-viewer-download-pem = PEM (cert)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (chain)
+    .download = { $fileName }-chain.pem
