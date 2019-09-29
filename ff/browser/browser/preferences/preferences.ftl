@@ -358,7 +358,7 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
-browsing-title = Nana feeroo
+browsing-title = Peeragol
 browsing-use-autoscroll =
     .label = Huutoro ŋaylogol jaajol
     .accesskey = a
@@ -396,7 +396,7 @@ home-new-windows-tabs-description2 = Suɓo ko njiyataa so a udditii hello maa ja
 ## Home Section - Home Page Customization
 
 home-homepage-mode-label = Hello jaɓɓorgo kam e kenorɗe kese
-home-newtabs-mode-label = Yabbe kese
+home-newtabs-mode-label = Tabbe kese
 home-restore-defaults =
     .label = Artir Goowaaɗe
     .accesskey = R
