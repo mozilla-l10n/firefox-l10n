@@ -71,14 +71,6 @@ bar-tooltip-social =
             [few] { $count } programa za praćenje društvenih mreža { $percentage }
            *[other] { $count } programa za praćenje društvenih mreža { $percentage }
         }
-bar-tooltip-cookie =
-    .title = Kolačići za praćenje između web stranica
-    .aria-label =
-        { $count ->
-            [one] kolačić za praćenje između web stranica
-            [few] kolačića za praćenje između web stranica
-           *[other] kolačića za praćenje između web stranica
-        }
 bar-tooltip-tracker =
     .title = Praćenje sadržaja
     .aria-label =
