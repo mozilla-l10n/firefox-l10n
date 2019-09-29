@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Ping izvora podataka:
 about-telemetry-show-current-ping-data = Trenutni ping podaci
+about-telemetry-show-current-data = Trenutačni podaci
 about-telemetry-show-archived-ping-data = Arhivirani ping podaci
 about-telemetry-show-subsession-data = Prikaži podatke podsesije
 about-telemetry-choose-ping = Odaberi ping:
@@ -15,6 +16,7 @@ about-telemetry-option-group-older = Starije
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Telemetrija
+about-telemetry-more-information = Tražiš više informacija?
 about-telemetry-show-in-Firefox-json-viewer = Otvori u JSON pregledniku
 about-telemetry-home-section = Početna stranica
 about-telemetry-general-data-section =   Opći podaci
@@ -34,6 +36,33 @@ about-telemetry-raw = Neobrađeni JSON
 about-telemetry-full-sql-warning = NAPOMENA: Detaljno praćenje sporih SQL upita je uključeno. Potpuni SQL upiti mogu biti prikazani ispod, međutim oni neće biti poslali Telemetriji.
 about-telemetry-fetch-stack-symbols = Prikupi imena funkcija za stogove
 about-telemetry-hide-stack-symbols = Prikaži sirove podatke stogova
+# Selects the correct release version
+# Variables:
+#   $channel (String): represents the corresponding release data string
+about-telemetry-data-type =
+    { $channel ->
+        [release] podaci izdanja
+       *[prerelease] podaci pred-izdanja
+    }
+# Selects the correct upload string
+# Variables:
+#   $uploadcase (String): represents a corresponding upload string
+about-telemetry-upload-type =
+    { $uploadcase ->
+        [enabled] omogućeno
+       *[disabled] onemogućeno
+    }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } uzorak, prosjek = { $prettyAverage }, zbroj = { $sum }
+        [few] { $sampleCount } uzorka, prosjek = { $prettyAverage }, zbroj = { $sum }
+       *[other] { $sampleCount } uzoraka, prosjek = { $prettyAverage }, zbroj = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Ova stranica prikazuje informacije o perfomansama, hardveru, korištenju i podešenjima prikupljenim od Telemetrije. Ovi podaci se šalju u { $telemetryServerOwner } kako bi pomogli u unapređenju { -brand-full-name }.
@@ -68,6 +97,8 @@ about-telemetry-no-search-results-all = Nema rezultata u bilo kojem odjeljku za 
 about-telemetry-no-data-to-display = “{ $sectionName }” trenutno nema dostupnih podataka
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = trenutni ping
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = trenutačni podaci
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = svi
 # button label to copy the histogram
@@ -102,3 +133,7 @@ about-telemetry-category-header = kategorija
 about-telemetry-method-header = način
 about-telemetry-object-header = objekt
 about-telemetry-extra-header = dodatno
+about-telemetry-origin-count = broj
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process } proces
