@@ -10,6 +10,25 @@ graph-week-summary =
         [few] { -brand-short-name } je blokirao  { $count } programa za praćenje u zadnjih tjedan dana
        *[other] { -brand-short-name } je blokirao  { $count } programa za praćenje u zadnjih tjedan dana
     }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] <b>{ $count }</b> pratitelj blokiran od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [few] <b>{ $count }</b> pratitelja blokirana od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> pratitelja blokirano od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+    }
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = Razina zaštite je postavljena na <b>Standardna</b>
+    .title = Idite na Postavke privatnosti
+protection-report-header-details-strict = Razina zaštite je postavljena na <b>Stroga</b>
+    .title = Idite na Postavke privatnosti
+protection-report-header-details-custom = Razina zaštite je postavljena na <b>Prilagođena</b>
+    .title = Idite na Postavke privatnosti
 protection-report-page-title = Zaštite privatnosti
 protection-report-content-title = Zaštite privatnosti
 etp-card-title = Poboljšana zaštita od praćenja
