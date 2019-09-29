@@ -15,20 +15,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY helpSafeMode.label     "以安全模式重新启动…">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY releaseCmd2.label "发行说明">
-<!ENTITY releaseCmd2.accesskey "N">
-<!ENTITY whatsNewCmd.label "新功能">
-<!ENTITY whatsNewCmd.accesskey "W">
-<!ENTITY openHelp.label "帮助内容">
-<!ENTITY openHelp.accesskey "H">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "&brandFullName; 帮助">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
-
-<!ENTITY aboutMenuCmd2.label "关于 &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "A">
-<!ENTITY helpSafeMode.stop.label     "重新打开并启用附加组件">
+<!ENTITY helpSafeMode.stop.label     "重启客户端并启用附加组件">
 <!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "&brandShortName; 帮助">
 <!ENTITY productHelp.accesskey "H">

@@ -35,7 +35,7 @@ manage-messenger-languages-button =
     .label = 设置备用语言…(I)
     .accesskey = I
 confirm-messenger-language-change-description = 重启 { -brand-short-name } 以应用这些更改
-confirm-messenger-language-change-button = 应用并重新打开
+confirm-messenger-language-change-button = 应用并重启客户端
 update-pref-write-failure-title = 写入失败
 # Variables:
 #   $path (String) - Path to the configuration file
