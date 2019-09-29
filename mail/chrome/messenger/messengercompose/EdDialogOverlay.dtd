@@ -4,5 +4,7 @@
 
 <!ENTITY AdvancedEditButton.label "Spertula redakto…">
 <!ENTITY AdvancedEditButton.accessKey "r">
+<!ENTITY AdvancedEditButton.tooltip "Aldoni aŭ modifi atributojn HTML, de stiloj kaj de ĝavoskripto">
+<!ENTITY chooseFileButton.label "Elekti dosieron…">
 
 <!-- Shared by Link and Image dialogs -->
