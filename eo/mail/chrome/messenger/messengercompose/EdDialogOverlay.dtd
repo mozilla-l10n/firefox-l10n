@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY AdvancedEditButton.label "Spertula redakto…">
-<!ENTITY AdvancedEditButton.accessKey "r">
+<!ENTITY AdvancedEditButton.accessKey "S">
 <!ENTITY AdvancedEditButton.tooltip "Aldoni aŭ modifi atributojn HTML, de stiloj kaj de ĝavoskripto">
 <!ENTITY chooseFileButton.label "Elekti dosieron…">
 <!ENTITY chooseFileButton.accessKey "d">
@@ -14,3 +14,5 @@
 <!ENTITY makeUrlRelative.tooltip "Ŝanĝi inter relativa kaj absoluta ligilo. Vi devas unue konservi la paĝon por ŝanĝi tion.">
 
 <!-- Shared by Link and Image dialogs -->
+<!ENTITY LinkURLEditField2.label "Entajpu adreson de retpaĝo, nomon de loka dosiero, aŭ elektu ankron aŭ kapon el la kunteksta menuo de kampo:">
+<!ENTITY LinkURLEditField2.accessKey "a">
