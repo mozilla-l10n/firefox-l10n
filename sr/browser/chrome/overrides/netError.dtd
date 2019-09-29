@@ -9,6 +9,8 @@
 <!ENTITY retry.label "Пoкушај поново">
 <!ENTITY returnToPreviousPage.label "Иди назад">
 <!ENTITY returnToPreviousPage1.label "Врати се назад (препоручено)">
+<!ENTITY advanced2.label "Напредно…">
+<!ENTITY viewCertificate.label "Погледај сертификат">
 
 <!-- Specific error messages -->
 
@@ -144,12 +146,14 @@
 ">
 
 <!ENTITY certerror.longpagetitle2 "Упозорење: Потенцијални безбедносни ризик">
+<!ENTITY certerror.sts.longpagetitle  "Нисам се повезао: могући безбедносни проблем">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; је открио потенцијалну безбедносну претњу и није наставио на <span class='hostname'/>. Ако посетите овај сајт, нападачи би могли покушати украсти ваше податке као што су лозинке, е-адресе или кредитне картице.">
 <!ENTITY certerror.sts.introPara "&brandShortName; је открио потенцијалну безбедносну опасност и није наставио на <span class='hostname'/> зато што ова веб страница захтева безбедну везу.">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; је открио проблем и није наставио на адресу <span class='hostname'/>. Веб место је лоше подешено или је сат вашег рачунара постављен на погрешно време.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "Шта можете учинити поводом тога?">
 
@@ -215,4 +219,5 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Ваше поставке безбедности можда проузрокују овај проблем. Да ли желите да вратите подразумеване поставке?">
 <!ENTITY prefReset.label "Врати подразумеване поставке">
+
 
