@@ -56,8 +56,6 @@ login-item-delete-button = Xita
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Sɨvu ñɨvu
-login-item-username =
-    .placeholder = sivɨ@example.com
 about-logins-login-item-username =
     .placeholder = (Na íyo sivɨ ñɨvɨ)
 login-item-copy-username-button-text = Tɨɨn
@@ -65,6 +63,8 @@ login-item-copied-username-button-text = Ntɨɨn
 login-item-password-label = Contraseña
 login-item-password-reveal-checkbox-show =
     .title = Kutúvi contraseña
+login-item-password-reveal-checkbox-hide =
+    .title = Chiyu´u contraseña
 login-item-copy-password-button-text = Tɨɨn
 login-item-copied-password-button-text = Ntɨɨn
 login-item-save-changes-button = Chuva´a nsama
@@ -72,6 +72,7 @@ login-item-save-new-button = Chuva´a
 login-item-cancel-button = Nkuvi-ka
 login-item-time-changed = Nuu nɨ'ɨ nsama: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Nsá'á: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Nuu nɨ'ɨ a nsá´á: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
@@ -84,6 +85,7 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Nkuvi-ka
 confirmation-dialog-dismiss-button =
     .title = Nkuvi-ka
+confirm-delete-dialog-title = Xina nuu kajie´e sesión ya´a?
 confirm-delete-dialog-confirm-button = Xita
 
 ## Breach Alert notification
@@ -91,3 +93,6 @@ confirm-delete-dialog-confirm-button = Xita
 breach-alert-link = Ka´vi kue´eka jiee filtración.
 breach-alert-dismiss =
     .title = Kasɨ tu´un
+
+## Error Messages
+
