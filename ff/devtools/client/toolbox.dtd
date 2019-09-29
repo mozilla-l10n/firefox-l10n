@@ -10,18 +10,13 @@
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
-<!-- LOCALIZATION NOTE (browserToolboxStatusMessage): This is the label
-  -  shown next to status details when the Browser Toolbox fails to connect or
-  -  appears to be taking a while to do so. -->
-<!ENTITY browserToolboxStatusMessage "Ngonka ceŋagol e boyet kuutorɗe wanngorde:">
-
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 <!ENTITY options.context.advancedSettings "Teelte toowɗe">
 
 <!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
   -  the heading of the Inspector group in the options panel. -->
-<!ENTITY options.context.inspector "Ƴeewtitorde">
+<!ENTITY options.context.inspector "Yuurnitorde">
 
 <!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
   -  for the checkbox option to show user agent styles in the Inspector
@@ -33,7 +28,7 @@
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
 <!ENTITY options.collapseAttrs.label "Dottu joopanɗe DOM">
-<!ENTITY options.collapseAttrs.tooltip "Dottu joopanɗe juuɗɗe nder ƴeewtitoro oo">
+<!ENTITY options.collapseAttrs.tooltip "Dottu joopanɗe juuɗɗe nder yuurnitorde nde">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
@@ -141,9 +136,12 @@
 <!ENTITY options.timestampMessages.label      "Hurmin timmoode jot">
 <!ENTITY options.timestampMessages.tooltip    "So tawii a hurminii ndee suɓre gine e njaltudi Ginorde Geese maa hollu timmoode jot">
 
+<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
+   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
+
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
-<!ENTITY options.debugger.label            "Momtirgel ella">
+<!ENTITY options.debugger.label            "Buggitorde">
 
 <!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
    - label for the checkbox that toggles source maps in all tools -->

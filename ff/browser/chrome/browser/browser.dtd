@@ -230,7 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Waylu mbele aɗa waawi heɓde tintine iwɗe e ndee lowre">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Mooftu keɓe e Ndesgu Duumiingu">
 
-<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Feerorde wonnde yuurnito woɗɗungo">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Wanngorde woni ko e yuurnito woɗɗungo">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Uddit tammborde heɓtinirde geese">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Toppito lollingol kameraa e/walla mikkoroo maa e ndee lowre">
