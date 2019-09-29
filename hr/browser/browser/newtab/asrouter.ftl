@@ -149,3 +149,6 @@ cfr-doorhanger-socialtracking-close-button = Zatvori
     .accesskey = Z
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } zaustavio društvenu mrežu da te ovdje prati
 cfr-doorhanger-socialtracking-description = Tvoja privatnost je važna. { -brand-short-name } sad blokira uobičajene programe za praćenje društvenih medija, ograničavajući količinu podataka koje mogu prikupiti o onome što radiš na internetu.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } je blokirao jedinstvene otiske na ovoj stranici
+cfr-doorhanger-fingerprinters-description = Vaša privatnost je važna. { -brand-short-name } sada blokira jedinstvene otiske, koji skupljaju dijelove informacija koji su jedinstveni za vas i vaše uređaje kako bi vas mogli pratiti.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } je blokirao kripto rudare na ovoj stranici
