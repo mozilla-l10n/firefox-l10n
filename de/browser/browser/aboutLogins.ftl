@@ -16,7 +16,7 @@ fxaccounts-avatar-button =
 menu =
     .title = Menü öffnen
 # This menuitem is only visible on Windows
-menu-menuitem-import = Passwörter importieren...
+menu-menuitem-import = Passwörter importieren…
 
 ## Login List
 
