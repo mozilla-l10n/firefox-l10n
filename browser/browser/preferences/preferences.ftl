@@ -125,11 +125,13 @@ set-as-my-default-browser =
 startup-restore-previous-session =
     .label = Artir rogere ɓennunde ndee
     .accesskey = s
+startup-restore-warn-on-quit =
+    .label = Reentin am tuma uddol wanngorde ndee
 disable-extension =
     .label = Daaƴ Jokkel
 tabs-group-header = Tabbe
 ctrl-tab-recently-used-order =
-    .label = Ctrl+Tab yaaɓat hakkunde tabbe e gorol kuutoragol ɓennungol
+    .label = Ctrl+Tab yaaɓat hakkunde tabbe e deggondiral kuutoragol ɓennungol
     .accesskey = T
 open-new-link-as-tabs =
     .label = Uddit jokke e nder tabbe waasa wonde e kenorɗe kese ɗee
@@ -233,7 +235,7 @@ download-choose-folder =
            *[other] y
         }
 download-always-ask-where =
-    .label = Kala sahaa naamno mi ɗo piille ndaɗndetee
+    .label = Kala sahaa naamno mi ɗo piille ndanndetee
     .accesskey = K
 applications-header = Jaaɓnirɗe
 applications-description = Suɓo no { -brand-short-name } waɗdata e piille ɗe ngaawtoto-ɗaa e geese walla jaaɓnirɗe ɗe kuutorto-ɗaa tuma banngagol maa.
@@ -299,7 +301,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Loowdi Toppitagol Jojjanɗe Ngaandiwe (DRM)
 play-drm-content =
@@ -314,7 +316,7 @@ update-history =
     .accesskey = e
 update-application-allow-description = Yamir { -brand-short-name } to
 update-application-auto =
-    .label = Aafande hoore mum kesɗitine (ina wasiyaa)
+    .label = Aafde kesɗitinee jaajol (ina wasiyaa)
     .accesskey = A
 update-application-check-choose =
     .label = Yuurnito kesɗitine, kono woppu am mi suɓoo aafat ɗe
@@ -322,11 +324,12 @@ update-application-check-choose =
 update-application-manual =
     .label = Hoto yuurnito kesɗitine (wasiyaaka)
     .accesskey = u
+update-application-warning-cross-user-setting = Ngol teeltol maa jammine e konte Windows kala kam e keftinirɗe { -brand-short-name }  kuutortooɗe ndee aadannde { -brand-short-name }.
 update-application-use-service =
     .label = Huutoro carwol cakkitol ngam aafde kesɗitine
     .accesskey = c
 update-enable-search-update =
-    .label = Kesɗitingol ajaaja jiylorɗe
+    .label = Hesɗitin jiylorɗe e jaajol
     .accesskey = l
 update-pref-write-failure-title = Gallugol binndol
 # Variables:
@@ -522,6 +525,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Nawor Geesa Maa
 sync-signedout-description = Sanngoɗin maantore maa, aslol, tabbe, finndeeji, ɓeyditte e cuɓoraade e kaɓirɗi maa fof.
 sync-signedout-account-title = Seŋoro { -fxaccount-brand-name }
@@ -541,6 +548,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Aawto Firefox mo <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> walla <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ngam syncude kaɓirgol cinndol maa.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Waylu natal heftinirde
@@ -562,6 +572,15 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Yahdin teelte
 sync-signedin-settings-desc = Suɓo ko pot-ɗaa yahdinde nder masiŋon maa kuutortookon { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Maantore am
     .accesskey = t
@@ -596,6 +615,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Teelte Kuuɓɗe Suturo kam e Kisal ɗe mbayluɗaa
     .accesskey = e
+
+## The device name controls.
+
 sync-device-name-header = Innde Kaɓirgol
 sync-device-name-change =
     .label = Waylu Innde Kaɓirgel…
@@ -728,7 +750,7 @@ content-blocking-learn-more = Ɓeydu humpito
 ## Enhanced Tracking Protection.
 
 
-##
+
 
 content-blocking-tracking-protection-change-block-list = Waylo doggol padde
 

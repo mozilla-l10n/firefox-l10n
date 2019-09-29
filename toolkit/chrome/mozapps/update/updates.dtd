@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY  updateWizard.title              "Kisɗitainal Topirde">
 
-<!ENTITY  checking.title                  "Nana yiyloo kesɗitine">
+<!ENTITY  checking.title                  "Nana Yiyloo Kesɗitine">
 <!ENTITY  updateCheck.label               "Nana yiyloo jame &brandShortName; ɓurɗe hesɗude…">
 
 <!ENTITY  noupdatesfound.title            "Alaa Kesɗitine Njiytaa">
@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "Kesɗitinal peccoral ngal horiima jammineede. &brandShortName; maa eto kadi aawtaade kesɗitinal kuuɓngal.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; horiima hiisaade so kesɗitinal ena woodi. Tiiɗno ƴeewto so njogii-ɗaa ko yamre sakkitiinde &brandShortName; iwde:">
-
+                                           
 <!ENTITY  finishedPage.title              "Kesɗitinal Hebiima Aafeede">
 <!ENTITY  finishedPage.text               "Kesɗitinal ngal maa aafe tuma nde &brandShortName; hurmiti. Aɗa waawi hurmitinde &brandShortName; jooni, walla jokku gollaade, kurmitinaa goɗngol.">
 
@@ -49,8 +49,6 @@
 <!ENTITY  finishedBackground.name         "Hesɗitin:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Kesɗitinal ngal maa aafe tuma mo &brandShortName; hurmiti. Aɗa waawi hurmitinde &brandShortName; jooni, walla jokku gollaade, kurmitinaa goɗngol.">
+<!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.moreElevated "Ngal kesɗitinal ena naamnii jamirooje Jiiloowo. Kesɗitinal ngal maa aafe tuma nde &brandShortName; hurmiti. Aɗa waawi hurmitinde &brandShortName; jooni, njokkaa gollaade tee kurmintiaa goɗngol, walla paalkiso-ɗaa ngol basiyol.">
 
-<!ENTITY  update.details.label            "Cariiɗe">
-<!ENTITY  update.installedOn.label        "Aafaa ko ñalnde:">
-<!ENTITY  update.status.label             "Ngonka:">

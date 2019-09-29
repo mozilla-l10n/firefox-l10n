@@ -57,7 +57,7 @@ serviceworker-empty-suggestions = So hello wonaango ngoo ina foti dañde karallo
 serviceworker-empty-suggestions-console = Yiylo juume nder ginorde ndee. <a>Uddit ginorde ndee</a>
 # Suggestion to use the debugger to investigate why a service worker is not registered.
 # Clicking on the link will switch from the Application panel to the debugger.
-serviceworker-empty-suggestions-debugger = Ƴeewto ko ndaɗnduno-ɗaa e Service Worker maa, cunno-ɗaa juume. <a>Uddit tannorde ndee</a>
+serviceworker-empty-suggestions-debugger = Ƴeewto ko ndannduno-ɗaa e Service Worker maa, cunno-ɗaa juume. <a>Uddit Buggitorde ndee</a>
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Ƴeewto gollotooɓe e sarwisaaji fannuuji goɗɗi. <a>Uddit ko faati e tannugol</a>

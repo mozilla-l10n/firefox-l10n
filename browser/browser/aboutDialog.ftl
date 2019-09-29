@@ -6,8 +6,8 @@ aboutDialog-title =
     .title = Baɗte { -brand-full-name }
 releaseNotes-link = Hol ko hesɗi
 update-checkForUpdatesButton =
-    .label = Nana yiyloo kesɗitine
-    .accesskey = N
+    .label = Yiyloo kesɗitine
+    .accesskey = Y
 update-updateButton =
     .label = Huɓɓitde ngam hesɗitinde { -brand-shorter-name }
     .accesskey = R
@@ -30,5 +30,3 @@ helpus = Aɗa yiɗi wallude?<label data-l10n-name="helpus-donateLink">Addu dokka
 bottomLinks-license = Humpito yamiroore
 bottomLinks-rights = Jojjanɗe Kuutoro
 bottomLinks-privacy = Dawirgol Suturo
-aboutDialog-architecture-sixtyFourBit = 64-bit
-aboutDialog-architecture-thirtyTwoBit = 32-bit
