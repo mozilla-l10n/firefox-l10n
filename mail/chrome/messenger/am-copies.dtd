@@ -35,13 +35,13 @@
 <!ENTITY archivesFolderOn.accesskey "n">
 <!ENTITY archiveInOtherFolder.label "Altul:">
 <!ENTITY archiveInOtherFolder.accesskey "t">
-<!ENTITY specialFolders.label "Ciorne și șabloane">
-<!ENTITY keepDrafts2.label "Păstrează ciornele de mesaje în:">
+<!ENTITY specialFolders.label "Mesaje nefinalizate și șabloane">
+<!ENTITY keepDrafts2.label "Păstrează mesajele nefinalizate în:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "Dosarul „Ciorne” din:">
+<!ENTITY draftsFolderOn.label "Dosarul „Mesaje nefinalizate” din:">
 <!ENTITY draftsFolderOn.accesskey "D">
 <!ENTITY draftInOtherFolder.label "Altele:">
-<!ENTITY draftInOtherFolder.accesskey "l">
+<!ENTITY draftInOtherFolder.accesskey "t">
 <!ENTITY keepTemplates.label "Păstrează șabloanele de mesaje în:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "Dosarul „Șabloane” din:">

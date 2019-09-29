@@ -5,7 +5,7 @@
 <!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "Setările contului">
-<!ENTITY accountName.label "Nume cont:">
+<!ENTITY accountName.label "Denumirea contului:">
 <!ENTITY accountName.accesskey "N">
 <!ENTITY identityTitle.label "Identitate implicită">
 <!ENTITY identityDesc.label "Fiecare cont are propria identitate, adică datele prin care te identifici față de ceilalți care primesc mesaje de la tine.">

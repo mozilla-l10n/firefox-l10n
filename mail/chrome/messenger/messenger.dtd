@@ -369,8 +369,8 @@
 <!ENTITY editAsNewMsgCmd.label "Editează ca mesaj nou">
 <!ENTITY editAsNewMsgCmd.accesskey "E">
 <!ENTITY editAsNewMsgCmd.key "e">
-<!ENTITY editDraftMsgCmd.label "Editează ciorna">
-<!ENTITY editDraftMsgCmd.accesskey "d">
+<!ENTITY editDraftMsgCmd.label "Editează mesajul nefinalizat">
+<!ENTITY editDraftMsgCmd.accesskey "D">
 <!ENTITY editTemplateMsgCmd.label "Editare șablon">
 <!ENTITY editTemplateMsgCmd.accesskey "t">
 <!ENTITY newMsgFromTemplateCmd.label "Mesaj nou bazat pe șablon">
@@ -766,7 +766,7 @@
 <!ENTITY contextOpenContainingFolder.accesskey "n">
 <!ENTITY contextEditMsgAsNew.label "Editează ca mesaj nou">
 <!ENTITY contextEditMsgAsNew.accesskey "E">
-<!ENTITY contextEditDraftMsg.label "Editează ciorna">
+<!ENTITY contextEditDraftMsg.label "Editează mesajul nefinalizat">
 <!ENTITY contextEditTemplate.label "Editează șablonul">
 <!ENTITY contextEditTemplate.accesskey "t">
 <!ENTITY contextArchive.label "Arhivează">

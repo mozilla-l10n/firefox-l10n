@@ -6,7 +6,7 @@
 <!ENTITY securitySettings.label "Setări de securitate">
 <!ENTITY serverSettings.label "Setările serverului">
 <!ENTITY serverType.label "Tip server:">
-<!ENTITY serverName.label "Denumire server:">
+<!ENTITY serverName.label "Denumirea serverului:">
 <!ENTITY serverName.accesskey "s">
 <!ENTITY userName.label "Nume de utilizator:">
 <!ENTITY userName.accesskey "u">
@@ -20,7 +20,7 @@
 -->
 <!ENTITY biffStart.label "Caută mesaje noi la fiecare ">
 <!ENTITY biffStart.accesskey "u">
-<!ENTITY biffEnd.label "Minute">
+<!ENTITY biffEnd.label "minute">
 <!ENTITY useIdleNotifications.label "Permite notificări imediate de la server atunci când apar mesaje noi">
 <!ENTITY useIdleNotifications.accesskey "w">
 <!ENTITY connectionSecurity.label "Securitatea conexiunii:">
