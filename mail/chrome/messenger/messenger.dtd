@@ -500,7 +500,7 @@
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY clearRecentHistory.label "Șterge istoricul recent…">
 <!ENTITY clearRecentHistory.accesskey "i">
-<!ENTITY accountManagerCmd2.label "Setările conturilor">
+<!ENTITY accountManagerCmd2.label "Setări pentru conturi">
 <!ENTITY accountManagerCmd2.accesskey "c">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu

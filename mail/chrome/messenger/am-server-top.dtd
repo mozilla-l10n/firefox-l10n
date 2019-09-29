@@ -4,10 +4,10 @@
 
 <!ENTITY messageStorage.label "Stocare de mesaje">
 <!ENTITY securitySettings.label "Setări de securitate">
-<!ENTITY serverSettings.label "Setările serverului">
-<!ENTITY serverType.label "Tip server:">
+<!ENTITY serverSettings.label "Setări pentru server">
+<!ENTITY serverType.label "Tipul serverului:">
 <!ENTITY serverName.label "Denumirea serverului:">
-<!ENTITY serverName.accesskey "s">
+<!ENTITY serverName.accesskey "S">
 <!ENTITY userName.label "Nume de utilizator:">
 <!ENTITY userName.accesskey "u">
 <!ENTITY port.label "Port:">
@@ -31,15 +31,15 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY authMethod.label "Metoda de autentificare:">
 <!ENTITY authMethod.accesskey "M">
-<!ENTITY leaveOnServer.label "Păstrează mesajele pe server">
-<!ENTITY leaveOnServer.accesskey "v">
+<!ENTITY leaveOnServer.label "Lasă mesajele pe server">
+<!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "Descarcă doar anteturile">
 <!ENTITY headersOnly.accesskey "D">
 <!ENTITY deleteByAgeFromServer.label "Pentru cel mult">
-<!ENTITY deleteByAgeFromServer.accesskey "n">
+<!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "zile">
 <!ENTITY deleteOnServer2.label "Până le șterg eu">
-<!ENTITY deleteOnServer2.accesskey "P">
+<!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Descarcă automat mesajele noi">
 <!ENTITY downloadOnBiff.accesskey "D">
 <!ENTITY deleteMessagePrefix.label "Când șterg un mesaj:">
@@ -54,7 +54,7 @@
 <!ENTITY expungeOnExit.accesskey "e">
 <!ENTITY emptyTrashOnExit.label "Golește coșul de gunoi la ieșire">
 <!ENTITY emptyTrashOnExit.accesskey "G">
-<!ENTITY loginAtStartup.label "Caută mesaje noi la fiecare">
+<!ENTITY loginAtStartup.label "Caută mesaje noi la pornire">
 <!ENTITY loginAtStartup.accesskey "C">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
@@ -81,7 +81,7 @@
 <!ENTITY browseNewsrc.label "Răsfoiește…">
 <!ENTITY browseNewsrc.accesskey "e">
 
-<!ENTITY accountTitle.label "Setările contului">
+<!ENTITY accountTitle.label "Setări pentru cont">
 <!ENTITY accountSettingsDesc.label "Acesta este un cont special. Cu acesta nu sunt asociate identități.">
 <!ENTITY storeType.label "Tipul de stocare al mesajelor:">
 <!ENTITY storeType.accesskey "T">

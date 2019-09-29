@@ -4,7 +4,7 @@
 
 <!-- extracted from am-main.xul -->
 
-<!ENTITY accountTitle.label "Setările contului">
+<!ENTITY accountTitle.label "Setări pentru cont">
 <!ENTITY accountName.label "Denumirea contului:">
 <!ENTITY accountName.accesskey "N">
 <!ENTITY identityTitle.label "Identitate implicită">
