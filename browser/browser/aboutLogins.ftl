@@ -60,17 +60,28 @@ about-logins-login-list-empty-search-title = Keine Zugangsdaten gefunden
 about-logins-login-list-empty-search-description = Keine mit der Suche übereinstimmenden Zugangsdaten
 login-list-item-title-new-login = Neue Zugangsdaten
 login-list-item-subtitle-new-login = Zugangsdaten eingeben
+login-list-item-subtitle-missing-username = (kein Benutzername)
+about-logins-list-item-warning-icon =
+    .alt = Warnsymbol
+    .title = Website mit Datenleck
 
 ## Introduction screen
 
+login-intro-heading = Suchen Sie Ihre gespeicherten Zugangsdaten? Richten Sie { -sync-brand-short-name } ein.
+login-intro-description = Wenn Sie Ihre Zugangsdaten in { -brand-product-name } auf einem anderen Gerät gespeichert haben, können Sie diese hier abrufen:
+login-intro-instruction-fxa = Auf dem Gerät mit Ihren gespeicherten Zugangsdaten: Erstellen Sie ein { -fxaccount-brand-name } oder melden Sie sich damit an.
+login-intro-instruction-fxa-settings = Überprüfen Sie, dass das Kontrollfeld "Zugangsdaten in den { -sync-brand-short-name } ausgewählt ist.
+about-logins-intro-instruction-help = Weitere Hilfe finden Sie auf der <a data-l10n-name="help-link">Support-Seite für { -lockwise-brand-short-name }</a>
 
 ## Login
 
+login-item-new-login-title = Neue Zugangsdaten hinzufügen
 login-item-edit-button = Bearbeiten
-login-item-delete-button = Löschen
+login-item-delete-button = Entfernen
 login-item-origin-label = Adresse der Website
 login-item-origin =
     .placeholder = https://www.beispiel.example.com
+login-item-username-label = Benutzername
 login-item-copy-username-button-text = Kopieren
 login-item-copied-username-button-text = Kopiert
 login-item-password-label = Passwort
