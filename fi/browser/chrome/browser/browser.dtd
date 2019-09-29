@@ -164,8 +164,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "Kirjaudu &brandProductName;iin">
 <!ENTITY fxa.menu.turnOnSync.label "Ota &syncBrand.shortName.label; käyttöön">
-<!ENTITY fxa.menu.account.label "Tili">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName;-palvelut">
+
+<!ENTITY fxa.menu.account.label "Tili">
+<!ENTITY fxa.menu.settings.label "Asetukset">
+<!ENTITY fxa.menu.accountSettings.label "Tilin asetukset">
+<!ENTITY fxa.menu.signOut.label "Kirjaudu ulos…">
+<!ENTITY fxa.menu.deviceSettings.label "Laiteasetukset">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -977,10 +982,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Seuraimet">
 
 <!ENTITY contentBlocking.manageSettings.label "Hallitse sisällön estämistä">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Seurantaan tarkoitettu sisältö">
-
-<!ENTITY contentBlocking.manageSettings2.label "Hallitse suojauksen asetuksia">
 <!ENTITY contentBlocking.manageSettings.accesskey "H">
 
 <!ENTITY contentBlocking.trackersView.label "Seuraimet">
@@ -989,6 +990,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Evästeet">
 <!ENTITY contentBlocking.cookiesView.label "Evästeet ja sivustotiedot">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Seurantaan tarkoitettu sisältö">
+
+<!ENTITY contentBlocking.manageSettings2.label "Hallitse suojauksen asetuksia">
 
 <!ENTITY contentBlocking.socialblock.label "Sosiaalisen median seuraimet">
 
