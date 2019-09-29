@@ -661,17 +661,17 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = prisijungimus
     .tooltiptext = Įrašyti prisijungimų vardai ir slaptažodžiai
-    .accesskey = P
+    .accesskey = p
 sync-engine-logins-passwords =
-    .label = Prisijungimai ir slaptažodžiai
+    .label = prisijungimus ir slaptažodžius
     .tooltiptext = Jūsų įrašyti prisijungimai ir slaptažodžiai
-    .accesskey = P
+    .accesskey = s
 sync-engine-addresses =
     .label = adresus
     .tooltiptext = Įrašyti pašto adresai (tik kompiuteryje)
-    .accesskey = e
+    .accesskey = d
 sync-engine-creditcards =
-    .label = Kreditinės kortelės
+    .label = mokėjimo korteles
     .tooltiptext = Vardai, numeriai ir galiojimo datos (tik kompiuteryje)
     .accesskey = r
 sync-engine-addons =
@@ -681,7 +681,7 @@ sync-engine-addons =
 sync-engine-prefs =
     .label =
         { PLATFORM() ->
-            [windows] Nuostatos
+            [windows] nuostatos
            *[other] nuostatas
         }
     .tooltiptext = Bendros, privatumo ir saugumo nuostatos, kurias keitėte
