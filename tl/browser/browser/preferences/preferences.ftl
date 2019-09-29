@@ -641,6 +641,7 @@ sync-choose-what-to-sync-dialog =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Mag-disconnect...
     .buttonaccesskeyextra2 = D
+sync-choose-heading = Piliin alin ang isi-sync sa account mo para sa mga device na gumagamit ng { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Mga Bookmark
     .accesskey = m
