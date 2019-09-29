@@ -24,7 +24,7 @@
 <!ENTITY helpKeyboardShortcuts.label     "键盘快捷键">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "重启浏览器但禁用附加组件…">
+<!ENTITY helpSafeMode.label       "以安全模式重启浏览器…">
 <!ENTITY helpSafeMode.accesskey   "R">
 <!ENTITY helpSafeMode.stop.label       "重启浏览器并启用附加组件">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
