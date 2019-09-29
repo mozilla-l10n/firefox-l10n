@@ -6,5 +6,8 @@
 <!ENTITY AdvancedEditButton.accessKey "r">
 <!ENTITY AdvancedEditButton.tooltip "Aldoni aŭ modifi atributojn HTML, de stiloj kaj de ĝavoskripto">
 <!ENTITY chooseFileButton.label "Elekti dosieron…">
+<!ENTITY chooseFileButton.accessKey "d">
+<!ENTITY chooseFileLinkButton.label "Elekti dosieron…">
+<!ENTITY chooseFileLinkButton.accessKey "E">
 
 <!-- Shared by Link and Image dialogs -->
