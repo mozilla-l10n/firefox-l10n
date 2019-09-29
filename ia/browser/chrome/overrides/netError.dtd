@@ -221,5 +221,9 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Pare que le parametros de tu rete pote causar isto. Desira tu restaurar le parametros predefinite?">
 <!ENTITY prefReset.label "Restaurar le parametros predefinite">
 
+<!ENTITY enableTls10.longDesc "Iste sito web non supporta le protocollo TLS 1.2, que es le minime version supportate per &brandShortName;. Le activation de TLS 1.0 e TLS 1.1 pote consentir de succeder a iste connexion.">
+<!ENTITY enableTls10.note "TLS 1.0 e TLS 1.1 sera permanentemente disactivate in un futuro version.">
+<!ENTITY enableTls10.label "Activar TLS 1.0 e 1.1">
+
 <!ENTITY networkProtocolError.title "Error de protocollo de rete">
 <!ENTITY networkProtocolError.longDesc "<p>Le pagina que tu tenta vider non pote esser monstrate perque esseva detegite un error in le protocollo de rete.</p><ul><li>Per favor contacta le proprietarios del sito web.</li></ul>">
