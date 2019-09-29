@@ -10,6 +10,14 @@ about-config-warning-button = Otan riskin
 about-config2-title = Lisäasetukset
 about-config-search-input =
     .placeholder = Haku
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Jatka varoen
+about-config-intro-warning-button = Hyväksy riski ja jatka
+
+
+
 about-config-show-all = Näytä kaikki
 about-config-pref-add = Lisää
 about-config-pref-toggle = Vaihda tilaa
