@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+copy =
+    .key = C
 menu-copy =
     .label = Tɨɨn
     .accesskey = T
@@ -10,6 +12,12 @@ select-all =
 menu-select-all =
     .label = Kaji kuaiyo
     .accesskey = K
+close-dialog =
+    .key = w
+general-meta-name =
+    .label = Sivɨ
+security-view-identity-domain =
+    .value = Sitio web:
 help-button =
     .label = Chinei
 
@@ -19,8 +27,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-only = Kuvi, { $value } { $unit } datos sitio
 security-site-data-cookies-only = Kuvi, cookies
 security-site-data-no = Nkuvi
+media-audio = Nasun
 saved-passwords-yes = Kuvi
 saved-passwords-no = Nkuvi
 security-no-visits = Nkuvi

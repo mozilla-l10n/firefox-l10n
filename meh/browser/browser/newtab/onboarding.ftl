@@ -26,6 +26,9 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Nejika chu´unu iin correo vatu
 onboarding-join-form-continue = Kɨ´ɨ
 onboarding-start-browsing-button-label = Kajie´e nánuku
+onboarding-cards-dismiss =
+    .title = Xita
+    .aria-label = Xita
 
 ## Firefox Sync modal dialog strings.
 

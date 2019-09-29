@@ -77,6 +77,8 @@ browser-containers-settings =
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Tu´un jii naja tuvi
+default-font-size = Naja ka´nu
+    .accesskey = N
 colors-settings =
     .label = Teku...
     .accesskey = C
@@ -105,6 +107,10 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+applications-action-save =
+    .label = Chuva´a archivo
+applications-use-other =
+    .label = Ni´i inka...
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -132,7 +138,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 play-drm-content-learn-more = Ka´vi kue´eka
 update-application-version = Versión { $version } <a data-l10n-name="learn-more"> Nakuvi a jíía íyo</a>
@@ -161,6 +167,7 @@ network-proxy-connection-settings =
 
 ## Home Section - Home Page Customization
 
+home-newtabs-mode-label = Daa pestaña jíía
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
@@ -207,7 +214,14 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-disconnect =
     .label = Kene...
@@ -218,6 +232,17 @@ sync-remove-account =
 sync-sign-in =
     .label = Kajie´e sesión
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+sync-currently-syncing-bookmarks = A ta´a ini noo´o
+sync-currently-syncing-addons = Ka̱a̱ chunta´an
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = A ta´a ini noo´o
     .accesskey = m
@@ -228,6 +253,9 @@ sync-engine-addons =
     .label = Ka̱a̱ chunta´an
     .tooltiptext = Ka̱a̱ chunta´an Firefox escritorio
     .accesskey = K
+
+## The device name controls.
+
 sync-device-name-header = Sivɨ ka̱a̱
 sync-device-name-cancel =
     .label = Nkuvi-ka
@@ -326,7 +354,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizado
     .accesskey = P
 
-##
+
 
 content-blocking-all-cookies = Kuaiyo daa cookies
 content-blocking-cryptominers = Criptomineros

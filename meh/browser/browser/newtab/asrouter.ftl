@@ -88,3 +88,8 @@ cfr-doorhanger-send-tab-ok-button = Ni´í Send Tab
 
 ## Firefox Send
 
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-close-button = Nakasɨ
+    .accesskey = C

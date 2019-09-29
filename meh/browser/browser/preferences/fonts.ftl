@@ -83,6 +83,8 @@ fonts-sans-serif = Sans-serif
     .accesskey = n
 fonts-monospace = Monospace
     .accesskey = M
+fonts-monospace-size = Naja ka´nu
+    .accesskey = u
 fonts-minsize-none =
     .label = None
 
