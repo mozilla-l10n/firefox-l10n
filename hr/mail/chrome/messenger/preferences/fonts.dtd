@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  fontsAndEncodingsDialog.title           "Fontovi i kôdne stranice">
+<!ENTITY  fontsAndEncodingsDialog.title           "Fontovi i kodiranja">
 
 <!ENTITY  language.label                          "Fontovi za:">
 <!ENTITY  language.accesskey                      "F">
@@ -20,16 +20,16 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "M">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
-<!ENTITY  font.langGroup.latin                    "Latinica">
+<!ENTITY  font.langGroup.latin                    "Latinicu">
 <!ENTITY  font.langGroup.japanese                 "Japanski">
 <!ENTITY  font.langGroup.trad-chinese             "Tradicionalni kineski (Tajvan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Pojednostavljeni kineski">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Tradicionalni kineski (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Korejski">
-<!ENTITY  font.langGroup.cyrillic                 "Ćirilični">
+<!ENTITY  font.langGroup.cyrillic                 "Ćirilicu">
 <!ENTITY  font.langGroup.el                       "Grčki">
 <!ENTITY  font.langGroup.other                    "Drugi sustavi pisanja">
 <!ENTITY  font.langGroup.thai                     "Tajlandski">
@@ -56,19 +56,19 @@
 <!ENTITY minSize.label                            "Minimalna veličina fonta:">
 <!ENTITY minSize.accesskey                        "a">
 <!ENTITY minSize.none                             "Ništa">
+
 <!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "Serifni">
+<!ENTITY  useDefaultFontSansSerif.label           "Bezserifni">
 
-<!ENTITY  useDefaultFontSerif.label               "Serif">
-<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 <!-- fonts in message -->
-
 <!ENTITY  fontControl.label                       "Upravljanje fontovima">
 <!ENTITY  useFixedWidthForPlainText.label         "Koristi font fiksne širine za poruke s običnim tekstom">
 <!ENTITY  fixedWidth.accesskey                    "K">
 <!ENTITY  useDocumentFonts.label                  "Dopusti porukama korištenje drugih fontova">
 <!ENTITY  useDocumentFonts.accesskey              "o">
-<!-- Language settings -->
 
+<!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "Odlazna pošta:">
 <!ENTITY sendDefaultCharset.accesskey     "d">
 <!ENTITY languagesTitle2.label            "Kôdna stranica">

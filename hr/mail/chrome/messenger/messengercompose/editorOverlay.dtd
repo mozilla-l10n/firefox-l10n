@@ -54,7 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
-<!ENTITY FontFaceSelect.tooltip "Odaberite font">
+<!ENTITY FontFaceSelect.tooltip "Odaberi font">
 <!ENTITY fontfaceMenu.label "Font">
 <!ENTITY fontfaceMenu.accesskey "F">
 <!ENTITY fontVarWidth.label "Promjenjive širine">
@@ -70,7 +70,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
-<!ENTITY FontSizeSelect.tooltip "Odaberite veličinu fonta">
+<!ENTITY FontSizeSelect.tooltip "Odaberi veličinu fonta">
 <!ENTITY decreaseFontSize.label "Manji">
 <!ENTITY decreaseFontSize.accesskey "M">
 <!ENTITY decrementFontSize.key "&lt;">
@@ -311,8 +311,8 @@
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Postavi veličinu fonta">
-<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Smanji veličinu fonta">
-<!ENTITY increaseFontSizeToolbarCmd.tooltip "Povećaj veličinu fonta">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Manja veličina fonta">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Veća veličina fonta">
 <!ENTITY boldToolbarCmd.tooltip "Podebljano">
 <!ENTITY italicToolbarCmd.tooltip "Kurziv">
 <!ENTITY underlineToolbarCmd.tooltip "Podvučeno">

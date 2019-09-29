@@ -54,7 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
-<!ENTITY FontFaceSelect.tooltip "Odaberite font">
+<!ENTITY FontFaceSelect.tooltip "Odaberi font">
 <!ENTITY fontfaceMenu.label "Font">
 <!ENTITY fontfaceMenu.accesskey "F">
 <!ENTITY fontVarWidth.label "Promjenjive širine">
@@ -70,7 +70,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
-<!ENTITY FontSizeSelect.tooltip "Odaberite veličinu fonta">
+<!ENTITY FontSizeSelect.tooltip "Odaberi veličinu fonta">
 <!ENTITY decreaseFontSize.label "Manji">
 <!ENTITY decreaseFontSize.accesskey "M">
 <!ENTITY decrementFontSize.key "&lt;">
