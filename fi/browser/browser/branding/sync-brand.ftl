@@ -20,6 +20,7 @@
 -fxaccount-brand-name =
     { $case ->
         [adessive] Firefox-tilillä
+        [allative] Firefox-tilille
         [genitive] Firefox-tilin
         [illative] Firefox-tiliin
         [partitive] Firefox-tiliä

@@ -129,6 +129,8 @@ cfr-doorhanger-sync-logins-ok-button = Ota { -sync-brand-short-name } käyttöö
 
 cfr-doorhanger-send-tab-header = Lue tämä ollessasi liikkeellä
 cfr-doorhanger-send-tab-recipe-header = Vie tämä resepti keittiöön
+cfr-doorhanger-send-tab-ok-button = Kokeile välilehden lähettämistä
+    .accesskey = K
 
 ## Firefox Send
 
