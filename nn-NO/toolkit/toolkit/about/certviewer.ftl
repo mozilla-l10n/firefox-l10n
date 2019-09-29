@@ -56,6 +56,20 @@ certificate-viewer-value = Verdi
 certificate-viewer-version = Versjon
 certificate-viewer-business-category = Føretakskategori
 certificate-viewer-issuer-name = Namn til utskrivar
+certificate-viewer-validity = Gyldigheit
+certificate-viewer-public-key-info = Informasjon om offentleg nøkkel
+certificate-viewer-miscellaneous = Diverse
+certificate-viewer-fingerprints = Fingeravtrykk
+certificate-viewer-basic-constraints = Grunnleggande avgrensingar
+certificate-viewer-key-usages = Nøkkelbruk
+certificate-viewer-extended-key-usages = Utvida nøkkelbruk
+certificate-viewer-ocsp-stapling = OCSP-stapling
+certificate-viewer-subject-key-id = Emneøkkel-ID
+certificate-viewer-authority-key-id = Autoritetsnøkkel-ID
+certificate-viewer-authority-info-aia = Autoritetsinfo (AIA)
+certificate-viewer-certificate-policies = Reglar for sertifikat
+certificate-viewer-embedded-scts = Innebygde SCT-ar
+certificate-viewer-crl-endpoints = CRL-endpoints
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Last ned
@@ -71,3 +85,7 @@ certificate-viewer-boolean =
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (cert)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (chain)
+    .download = { $fileName }-chain.pem

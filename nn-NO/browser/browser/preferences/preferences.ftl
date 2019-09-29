@@ -619,6 +619,8 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Du synkroniserer for tida desse elementa:
+sync-currently-syncing-bookmarks = Bokmerke
 sync-currently-syncing-history = Historikk
 sync-currently-syncing-tabs = Opne faner
 sync-currently-syncing-logins-passwords = Innloggingar og passord
@@ -639,6 +641,7 @@ sync-choose-what-to-sync-dialog =
     .buttonaccesskeyaccept = L
     .buttonlabelextra2 = Kople frå
     .buttonaccesskeyextra2 = K
+sync-choose-heading = Vel kva du vil synkronisere med kontoen din for einingar som brukar { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Bokmerke
     .accesskey = B
