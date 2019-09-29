@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Pomoć"> 
 <!ENTITY helpMenuWin.accesskey    "P">
+
 <!ENTITY aboutProduct2.label      "O &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "O">
 <!ENTITY productHelp2.label       "&brandShorterName; pomoć">
@@ -40,7 +41,7 @@
 <!ENTITY preferencesCmdMac.label        "Postavke...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
-<!ENTITY servicesMenuMac.label          "Servisi">
+<!ENTITY servicesMenuMac.label          "Usluge">
 
 <!ENTITY hideThisAppCmdMac2.label       "Sakrij &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "H">
