@@ -23,6 +23,7 @@ tcp = TCP
 sent = Poslano
 received = Primljeno
 family = Obitelj
+trr = TRR
 addresses = Adrese
 expires = Ističe (sekunde)
 messages-sent = Poruka poslana
@@ -44,3 +45,13 @@ dns-lookup-table-column = IP adrese
 rcwn = RCWN statistika
 rcwn-status = RCWN status
 rcwn-perf-open = Otvori
+rcwn-perf-read = Čitaj
+rcwn-perf-write = Piši
+networkid = ID mreže
+networkid-id = ID mreže
+
+## Link is intended as "network link"
+
+
+
+
