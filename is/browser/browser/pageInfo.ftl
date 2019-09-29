@@ -14,8 +14,6 @@ select-all =
 menu-select-all =
     .label = Velja allt
     .accesskey = j
-close-window =
-    .key = A
 general-tab =
     .label = Almennt
     .accesskey = A
@@ -176,6 +174,17 @@ properties-general-size =
         { $bytes ->
             [one] { $kb } KB ({ $bytes } bæti)
            *[other] { $kb } KB ({ $bytes } bæti)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] { $type } Mynd (animated, { $frames } frame)
+           *[other] { $type } Myndir (animated, { $frames } frames)
         }
 # This string is used to display the type of
 # an image
