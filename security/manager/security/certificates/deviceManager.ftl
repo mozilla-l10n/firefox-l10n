@@ -87,7 +87,7 @@ devinfo-label =
 devinfo-serialnum =
     .label = 序列号
 fips-nonempty-password-required = FIPS 需要您为各个安全设备设置一个主密码。请在启用 FIPS 模式之前设置主密码。
-unable-to-toggle-fips = 无法更换该安全设备的 FIPS 模式。建议您退出并重新打开本应用程序。
+unable-to-toggle-fips = 无法更换该安全设备的 FIPS 模式。建议您退出并重启本应用程序。
 load-pk11-module-file-picker-title = 选择要载入的 PKCS#11 设备驱动程序
 # Load Module Dialog
 load-module-help-empty-module-name =

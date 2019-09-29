@@ -279,10 +279,10 @@ menu-help-feedback-page =
     .label = 提交反馈…
     .accesskey = S
 menu-help-safe-mode-without-addons =
-    .label = 以安全模式重新打开…
+    .label = 以安全模式重启浏览器…
     .accesskey = R
 menu-help-safe-mode-with-addons =
-    .label = 重新打开并启用附加组件
+    .label = 重启浏览器并启用附加组件
     .accesskey = R
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
