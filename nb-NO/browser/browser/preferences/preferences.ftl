@@ -612,6 +612,7 @@ prefs-syncing-off = Synkronisering: AV
 prefs-sync-setup =
     .label = Konfigurer { -sync-brand-short-name }
     .accesskey = K
+prefs-sync-offer-setup-label = Synkroniser bokmerker, historikk, faner, passord, utvidelser og innstillinger på tvers av alle enhetene dine.
 prefs-sync-now =
     .labelnotsyncing = Synkroniser nå
     .accesskeynotsyncing = n
@@ -619,6 +620,7 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Du synkroniserer for tiden disse elementene:
 sync-currently-syncing-bookmarks = Bokmerker
 sync-currently-syncing-history = Historikk
 sync-currently-syncing-tabs = Åpne faner
@@ -641,6 +643,7 @@ sync-choose-what-to-sync-dialog =
     .buttonaccesskeyaccept = L
     .buttonlabelextra2 = Koble fra
     .buttonaccesskeyextra2 = K
+sync-choose-heading = Velg hva du vil synkronisere med kontoen din for enheter som bruker { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Bokmerker
     .accesskey = B
