@@ -10,6 +10,14 @@ about-config-warning-button = ¡Hua nika ruhuâj!
 about-config2-title = Naduno' sa hua yakan doj
 about-config-search-input =
     .placeholder = Nanà'uì'
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Ga gudadû gan'anjt ne' ñaan
+about-config-intro-warning-text = Sisi nadunat sa anïn ruhuât nan ni ga'ue ga'uì' yi'ìj da' hìo 'iaj sunj asi { -brand-short-name }
+
+
+
 about-config-show-all = Nadigân Daran'anj
 about-config-pref-add = Nutà'
 about-config-pref-toggle = Toggle
