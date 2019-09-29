@@ -609,6 +609,10 @@ sync-signedin-settings-desc = Elige lo que tu vole synchronisar in tu apparatos 
 
 prefs-syncing-on = Synchronisation: ACTIVE
 prefs-syncing-off = Synchronisation: INACTIVE
+prefs-sync-setup =
+    .label = Configuration de { -sync-brand-short-name }…
+    .accesskey = C
+prefs-sync-offer-setup-label = Synchronisa tu marcapaginas, chronologia, contrasignos, additivos e preferentias inter tote tu apparatos.
 prefs-sync-now =
     .labelnotsyncing = Synchronisar ora
     .accesskeynotsyncing = o
@@ -616,6 +620,7 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Tu synchronisa actualmente iste elementos:
 sync-currently-syncing-bookmarks = Marcapaginas
 sync-currently-syncing-history = Chronologia
 sync-currently-syncing-tabs = Schedas aperte
@@ -631,6 +636,13 @@ sync-currently-syncing-prefs =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Selige que synchronisar
+    .style = largessa: 36em; min-altitude: 35em;
+    .buttonlabelaccept = Salvar le cambiamentos
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Disconnexion…
+    .buttonaccesskeyextra2 = D
 sync-choose-heading = Selige lo que tu vole synchronisar in tu apparatos usante { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Marcapaginas
