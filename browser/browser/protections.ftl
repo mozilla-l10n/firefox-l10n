@@ -43,12 +43,18 @@ social-tab-contant = Društvene mreže postavljaju programe za praćenje na drug
 cookie-tab-title = Kolačići za praćenje između web stranica
 cookie-tab-content = Ovi kolačići te prate od web stranice do web stranice, kako bi prikupili podatke o tome što radiš na mreži. Postavljaju ih treće strane poput oglašivača i analitičkih tvrtki. Blokiranje kolačića za praćenje među web stranicama, smanjuje broj oglasa koji te prate. <a data-l10n-name="learn-more-link">Saznaj više</a>
 tracker-tab-title = Praćenje sadržaja
+tracker-tab-description = Web stranice mogu učitati vanjske reklame, video materijal i drugi sadržaj koji sadržava kȏd za praćenje. Blokiranje praćenja sadržaja može ubrzati učitavanje stranica, ali neke tipke, obrasci ili polja za prijavu možda neće raditi. <a data-l10n-name="learn-more-link">Saznajte više</a>
 fingerprinter-tab-title = Čitači digitalnog otiska
 fingerprinter-tab-content = Čitači digitalnog otiska prikupljaju postavke tvog preglednika i računala kako bi stvorili tvoj profil. Pomoću ovog digitalnog otiska mogu te pratiti na različitim web stranicama. <a data-l10n-name="learn-more-link">Saznaj više</a>
+cryptominer-tab-title = Kripto rudari
+cryptominer-tab-content = Krupto rudari koriste računalnu snagu vašeg sustava kako bi rudarili digitalni novac. Skripte za kripto rudarenje troše bateriju, usporavaju računalo i povećavaju račun za struju. <a data-l10n-name="learn-more-link">Saznajte više</a>
 lockwise-title = Nikad više ne zaboravi lozinku
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } sigurno sprema tvoje lozinke u pregledniku.
 lockwise-header-content-logged-in = Spremaj i sinkroniziraj lozinke na svim svojim uređajima na siguran način.
+protection-report-view-logins-button = Prikaži prijave
+    .title = Idi na spremljene prijave
+lockwise-no-logins-content = Instalirajte <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> aplikaciju kako biste sve svoje lozinke uvijek imali uz sebe.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -69,10 +75,40 @@ lockwise-sync-status =
         [few] Sinkronizacija s { $count } druga uređaja
        *[other] Sinkronizacija s { $count } drugih uređaja
     }
+lockwise-sync-not-syncing-devices = Ne sinkronizira se na druge uređaje
 monitor-title = Pazi na hakirane podatke
 monitor-link = Kako funkcionira
+monitor-header-content-no-account = Provjerite { -monitor-brand-name } kako biste vidjeli da li ste bili sudionik poznatog curenja podataka i dobivajte obavijesti ukoliko dođe do novog curenja podataka.
+monitor-header-content-signed-in = { -monitor-brand-name } vas upozorava ukoliko su se vaši podaci pojavili u krađi podataka.
 monitor-sign-up = Prijavi se za upozorenja o hakiranju
 auto-scan = Danas automatski pretraženo
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Adresa e-pošte se nadgleda
+        [few] Adrese e-pošte se nadgledaju
+       *[other] Adresa e-pošte se nadgleda
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Curenje podataka je izložilo vaše informacije
+        [few] Curenja podataka je izložilo vaše informacije
+       *[other] Curenja podataka je izložilo vaše informacije
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Lozinka je izložena u curenja podataka
+        [few] Lozinke su izložene u curenju podataka
+       *[other] Lozinki je izloženo u curenju podataka
+    }
 full-report-link = Pogledaj cjeloviti izvještaj na <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 
 ## The title attribute is used to display the type of protection.

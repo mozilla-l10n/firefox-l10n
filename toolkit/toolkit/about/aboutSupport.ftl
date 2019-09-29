@@ -133,6 +133,8 @@ media-device-channels = Kanali
 media-device-rate = Stopa
 media-device-latency = Latencija
 media-capabilities-title = Mogućnosti medija
+# List all the entries of the database.
+media-capabilities-enumerate = Označite bazu podataka
 
 
 
