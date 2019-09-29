@@ -150,7 +150,7 @@ menu-view-full-screen =
     .label = Njaajeendi Yaynirde
     .accesskey = N
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Hollu Tabbe Fof
@@ -236,7 +236,7 @@ menu-preferences =
            *[other] ɗ
         }
 menu-tools-layout-debugger =
-    .label = Momtirgel ella Lelngo
+    .label = Buggitorde Lelngo
     .accesskey = L
 
 ## Window Menu
