@@ -23,16 +23,21 @@
 <!ENTITY firstrun_sync_title "Samstilla">
 <!ENTITY updatednewfirstrun_sync_title "Reikningur">
 <!ENTITY firstrun_sync_message2 "Halda áfram þar sem frá var horfið.">
+<!ENTITY firstrun_sync_message3 "Samstilltu bókarmerkin þín, ferli og lykilorð yfir í símann þinn.">
 <!ENTITY firstrun_sync_subtext2 "Notaðu samstillingu til að finna bókarmerki, lykilorð og annað sem þú hefur vistað í &brandShortName; á öllum þínum tækjum.">
 <!ENTITY newfirstrun_sync_subtext "Samstilltu á öruggan hátt það sem þú vistar í Firefox á farsímanum yfir á Firefox í tölvunni.">
 <!ENTITY updatednewfirstrun_sync_subtext "Skráðu þig inn með reikningi þínum til að fá sem mest út úr &brandShortName;">
 <!ENTITY firstrun_signin_message "Tengdu þig til að hefjast handa">
+<!ENTITY firstrun_sendtab_title "Senda flipa">
+<!ENTITY firstrun_sendtab_message "Deildu flipa frá farsíma yfir á tölvuna — samstundis.">
 <!ENTITY firstrun_signin_button "Skráðu þig inn til að samstilla">
 <!ENTITY newfirstrun_signin_button "Kveikja á samstillingu">
 <!ENTITY updatednewfirstrun_signin_button "Skrá sig inn í &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Fara að vafra">
+<!ENTITY onboard_start_button_browser "Fara að vafra">
 <!ENTITY firstrun_button_notnow "Ekki núna">
 <!ENTITY firstrun_button_next "Áfram">
+
+<!ENTITY firstrun_signin_button2 "Innskráning">
 
 <!ENTITY firstrun_tabqueue_title "Tenglar">
 
@@ -44,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Þú">
 <!ENTITY firstrun_account_message "Ertu með &brandShortName; á öðrum tækjum?">
+
+<!ENTITY firstrun_signup_button "Skráðu þig">
 
 <!ENTITY  onboard_start_restricted1 "Upplifðu öryggi og að vera við stjórnvölinn með þessari einföldu útgáfu af &brandShortName;.">
 
@@ -69,7 +76,6 @@
 <!ENTITY  sending_crash_report "Senda hrunaskýrslu\u2026">
 <!ENTITY  crash_close_label "Loka">
 <!ENTITY  crash_restart_label "Endurræsa &brandShortName;">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; hrundi">
@@ -117,7 +123,6 @@
 <!ENTITY bookmark_folder_updated "Mappa uppfærð">
 <!ENTITY bookmark_parent_folder "Yfirmappa">
 <!ENTITY bookmark_add_folder "Bæta við nýrri möppu">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(enginn titill)">
@@ -280,6 +285,7 @@
 <!ENTITY pref_cookies_menu "Smákökur">
 <!ENTITY pref_cookies_accept_all "Virkt">
 <!ENTITY pref_cookies_not_accept_foreign "Virkar fyrir utan þriðja aðila">
+<!ENTITY pref_cookies_not_accept_trackers "Virkjað, nema smákökur sem rekja">
 <!ENTITY pref_cookies_disabled "Óvirkar">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +346,6 @@
 
 <!ENTITY pref_pwa "Framsækin vefforrit">
 <!ENTITY pref_pwa_summary "Leyfa vefforritum að nælast á ræsisíðu">
-
-<!ENTITY tracking_protection_prompt_title "Nú með vörn gegn því að fylgst sé með þér">
-<!ENTITY tracking_protection_prompt_text "Virk lokun á eltibúnað svo þú þurfir ekki að hafa áhyggjur.">
-<!ENTITY tracking_protection_prompt_tip_text "Skoðaðu friðhelgis stillingar til að vita meira">
-<!ENTITY tracking_protection_prompt_action_button "Ég skil!">
 
 <!ENTITY tab_queue_toast_message3 "Flipi settur í röð í &brandShortName;">
 <!ENTITY tab_queue_toast_action "Opna núna">
@@ -431,7 +432,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Ýttu á smáforritið &amp; veldu &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Fara á Mozilla stuðningssíðu">
 <!ENTITY pref_about_firefox "Um &brandShortName;">
 <!ENTITY pref_vendor_faqs "Tíðar spurningar">
 <!ENTITY pref_vendor_feedback "Veita endurgjöf">
@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Deila">
 <!ENTITY share_title "Deila með">
 <!ENTITY share_image_failed "Gat ekki deilt þessari mynd">
+<!ENTITY share_error_toast_message "Ekki er hægt að deila með tilgreindu forriti">
 <!ENTITY save_as_pdf "Vista sem PDF">
 <!ENTITY print "Prenta">
 <!ENTITY view_page_source "Sýna frumkóða síðu">
@@ -602,7 +603,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Staðsetning">
 <!ENTITY bookmark_edit_keyword "Stikkorð">
 <!ENTITY bookmark_select_folder "Veldu möppu">
-
 <!ENTITY bookmark_edit_undo "Afturkalla">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -692,11 +692,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Veldu eða taktu upp hljóðbút">
 <!ENTITY filepicker_image_title "Veldu eða taktu ljómynd">
 <!ENTITY filepicker_video_title "Veldu eða taktu upp myndband">
-
 <!ENTITY filepicker_permission_denied "Nauðsynlegar heimildir ekki veittar, sný aftur í kerfisskráar valmöguleikann.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Núverandi tenging við">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -883,6 +883,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Tiltæki án tengingar">
 <!ENTITY helper_triple_readerview_open_message "Vista Reader View greinar til að lesa án tengingar.">
 <!ENTITY helper_triple_readerview_open_button "Bæta í bókamerki">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "Velkomin í &brandShortName;">
+<!ENTITY activity_stream_signin_description "Byrjaðu að stamstilla bókarmerki, lykilorð og fleira með Firefox reikningnum þínum.">
+<!ENTITY activity_stream_signin_button "Innskráning">
+
+<!ENTITY activity_stream_signup_button "Skráðu þig">
+<!ENTITY activity_stream_signin_prompt "Ertu þegar með reikning?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Innskráning.">
 
 <!ENTITY activity_stream_topsites "Vinsælustu svæðin">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
