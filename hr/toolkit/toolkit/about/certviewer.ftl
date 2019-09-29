@@ -24,6 +24,27 @@ certificate-viewer-dns-name = DNS naziv
 certificate-viewer-exponent = Potencija
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Grupa razmjene ključeva
+certificate-viewer-key-id = ID ključa
+certificate-viewer-key-size = Veličina ključa
+certificate-viewer-locality = Područje
+certificate-viewer-location = Lokacija
+certificate-viewer-logid = ID dnevnika
+certificate-viewer-method = Metoda
+certificate-viewer-modulus = Modul
+certificate-viewer-name = Naziv
+certificate-viewer-not-after = Ne nakon
+certificate-viewer-not-before = Ne prije
+certificate-viewer-organization = Tvrtka
+certificate-viewer-organizational-unit = Poslovna jedinica
+certificate-viewer-policy = Pravila
+certificate-viewer-protocol = Protokol
+certificate-viewer-public-value = Javna vrijednost
+certificate-viewer-purposes = Svrhe
+certificate-viewer-qualifier = Kvalifikator
+certificate-viewer-qualifiers = Kvalifikatori
+certificate-viewer-required = Obavezno
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-state-province = Uklj. državu/županiju
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
