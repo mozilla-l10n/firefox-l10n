@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Цифрлық құқықтарды басқару (DRM) құрамасы
 play-drm-content =
@@ -551,6 +551,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Өз интернетіңізді өзіңізбен бірге ұстаңыз
 sync-signedout-description = Өзіңіздің бетбелгілер, тарих, беттер, парольдер және қосымшаларыңызды барлық құрылғыларыңыз арасында синхрондаңыз.
 sync-signedout-account-title = { -fxaccount-brand-name } көмегімен байланысу
@@ -570,6 +574,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Firefox қолданбасын <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> немесе <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> үшін жүктеп алып, мобильді құрылғыңызбен синхрондаңыз.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Профиль суретін ауыстыру
@@ -591,6 +598,27 @@ sync-sign-in =
     .accesskey = К
 sync-signedin-settings-header = Синхрондау баптаулары
 sync-signedin-settings-desc = { -brand-short-name } қолданатын құрылғыларыңызда нені синхрондауды таңдаңыз.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+sync-currently-syncing-bookmarks = Бетбелгілер
+sync-currently-syncing-history = Тарих
+sync-currently-syncing-tabs = Ашық беттер
+sync-currently-syncing-logins-passwords = Логиндер және парольдер
+sync-currently-syncing-addresses = Адрестер
+sync-currently-syncing-creditcards = Несиелік карталар
+sync-currently-syncing-addons = Қосымшалар
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Баптаулар
+       *[other] Баптаулар
+    }
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Бетбелгілер
     .accesskey = т
@@ -625,6 +653,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Сіз өзгерткен негізгі, жекелік және қауіпсіздік баптаулары
     .accesskey = а
+
+## The device name controls.
+
 sync-device-name-header = Құрылғы аты
 sync-device-name-change =
     .label = Құрылғы атын өзгерту…
@@ -657,6 +688,7 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Қатаң парольдерді ұсыну және генерациялау
     .accesskey = ы
+forms-breach-alerts-learn-more-link = Көбірек білу
 forms-fill-logins-and-passwords =
     .label = Логиндер мен парольдерді автотолтыру
     .accesskey = ы
@@ -805,7 +837,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Таңдауыңызша
     .accesskey = ы
 
-##
+
 
 content-blocking-all-cookies = Барлық cookie файлдары
 content-blocking-unvisited-cookies = Қаралмаған сайттардың cookies файлдары

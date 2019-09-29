@@ -100,3 +100,8 @@ cfr-doorhanger-send-tab-recipe-header = Бұл рецептті ас үйге а
 
 ## Firefox Send
 
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-close-button = Жабу
+    .accesskey = Ж
