@@ -82,28 +82,68 @@ login-item-origin-label = Adresse der Website
 login-item-origin =
     .placeholder = https://www.beispiel.example.com
 login-item-username-label = Benutzername
+about-logins-login-item-username =
+    .placeholder = (kein Benutzername)
 login-item-copy-username-button-text = Kopieren
 login-item-copied-username-button-text = Kopiert
 login-item-password-label = Passwort
+login-item-password-reveal-checkbox-show =
+    .title = Passwort anzeigen
+login-item-password-reveal-checkbox-hide =
+    .title = Passwort verbergen
 login-item-copy-password-button-text = Kopieren
 login-item-copied-password-button-text = Kopiert
 login-item-save-changes-button = Änderungen speichern
 login-item-save-new-button = Speichern
 login-item-cancel-button = Abbrechen
+login-item-time-changed = Zuletzt geändert: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Erstellt: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Zuletzt verwendet:{ DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
+master-password-notification-message = Bitte geben Sie Ihr Master-Passwort ein, um gespeicherte Zugangsdaten und Passwörter anzuzeigen.
+master-password-reload-button =
+    .label = Anmelden
+    .accesskey = l
 
 ## Dialogs
 
 confirmation-dialog-cancel-button = Abbrechen
 confirmation-dialog-dismiss-button =
     .title = Abbrechen
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Wollen Sie Ihre Zugangsdaten überall verfügbar haben, wo Sie { -brand-product-name } nutzen? Öffnen Sie die Einstellungen für { -sync-brand-short-name } und wählen Sie das Kontrollfeld "Zugangsdaten" aus.
+       *[other] Wollen Sie Ihre Zugangsdaten überall verfügbar haben, wo Sie { -brand-product-name } nutzen? Öffnen Sie die Einstellungen für { -sync-brand-short-name } und wählen Sie das Kontrollfeld "Zugangsdaten" aus.
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Einstellungen für { -sync-brand-short-name } öffnen
+           *[other] Einstellungen für { -sync-brand-short-name } öffnen
+        }
+    .accesskey = E
+confirm-delete-dialog-title = Diese Zugangsdaten entfernen
 confirm-delete-dialog-message = Diese Aktion kann nicht rückgängig gemacht werden.
-confirm-delete-dialog-confirm-button = Löschen
+confirm-delete-dialog-confirm-button = Entfernen
+confirm-discard-changes-dialog-title = Nicht gespeicherte Änderungen verwerfen?
+confirm-discard-changes-dialog-message = Alle nicht gespeicherten Änderungen gehen verloren.
+confirm-discard-changes-dialog-confirm-button = Verwerfen
 
 ## Breach Alert notification
 
+breach-alert-text = Passwörter dieser Website veröffentlicht oder gestohlen, seit Sie Ihre Anmeldedaten zuletzt aktualisiert haben. Ändern Sie Ihr Passwort, um Ihr Konto zu schützen.
+breach-alert-link = Weitere Informationen über dieses Datenleck
+breach-alert-dismiss =
+    .title = Alarm schließen
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Es existiert bereits ein Eintrag für { $loginTitle } mit diesem Benutzernamen.
+# This is a generic error message.
+about-logins-error-message-default = Beim Versuch, dieses Passwort zu speichern, ist ein Fehler aufgetreten.
