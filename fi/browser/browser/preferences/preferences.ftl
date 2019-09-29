@@ -586,6 +586,9 @@ sync-profile-picture =
 sync-disconnect =
     .label = Katkaise yhteys…
     .accesskey = y
+sync-sign-out =
+    .label = Kirjaudu ulos…
+    .accesskey = K
 sync-manage-account = Hallinnoi tiliä
     .accesskey = H
 sync-signedin-unverified = Sähköpostiosoitetta { $email } ei ole vahvistettu.
@@ -604,9 +607,24 @@ sync-signedin-settings-desc = Valitse tiedot, jotka synkronoidaan niiden laittei
 
 ## Sync section - enabling or disabling sync.
 
+prefs-sync-now =
+    .labelnotsyncing = Synkronoi nyt
+    .accesskeynotsyncing = N
+    .labelsyncing = Synkronoidaan…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-bookmarks = Kirjanmerkit
+sync-currently-syncing-history = Historia
+sync-currently-syncing-tabs = Avoimet välilehdet
+sync-currently-syncing-addresses = Osoitteet
+sync-currently-syncing-creditcards = Luottokortit
+sync-currently-syncing-addons = Lisäosat
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Asetukset
+       *[other] Asetukset
+    }
 
 ## The "Choose what to sync" dialog.
 

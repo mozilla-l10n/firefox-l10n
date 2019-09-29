@@ -18,6 +18,9 @@ about-config-intro-warning-button = Hyväksy riski ja jatka
 
 
 
+about-config-page-title = Lisäasetukset
+about-config-search-input1 =
+    .placeholder = Etsi asetuksen nimellä
 about-config-show-all = Näytä kaikki
 about-config-pref-add = Lisää
 about-config-pref-toggle = Vaihda tilaa
