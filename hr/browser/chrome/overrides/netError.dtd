@@ -163,6 +163,8 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Izgleda da vaše postavke sigurnosti mreže možda uzrokuju ovo. Želite li vratiti na početne postavke?">
 <!ENTITY prefReset.label "Vrati početne postavke">
 
+<!ENTITY enableTls10.longDesc "Ova web stranica ne podržava TLS 1.2 protokol, koji je minimalni podržani protokol od strane &brandShortName;. Omogućavanje TLS 1.0 i TLS 1.1 protokola će možda omogućiti povezivanje, ali će ugroziti vašu sigurnost.">
+<!ENTITY enableTls10.note "TLS 1.0 i TLS 1.1 će biti trajno onemogućeni u budućim izdanjima.">
 <!ENTITY enableTls10.label "Omogući TLS 1.0 i 1.1">
 
 <!ENTITY networkProtocolError.title "Greška mrežnog protokola">

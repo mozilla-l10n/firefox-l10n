@@ -110,6 +110,15 @@ info-exposed-passwords-found =
        *[other] Lozinki je izloženo u curenju podataka
     }
 full-report-link = Pogledaj cjeloviti izvještaj na <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Spremljene prijave su možda izložene u curenju podataka. Izmijenite ove lozinke za bolju sigurnost na internetu. <a data-l10n-name="lockwise-link">Prikaži spremljene prijave</a>
+        [few] Spremljene prijave su možda izložene u curenju podataka. Izmijenite ove lozinke za bolju sigurnost na internetu. <a data-l10n-name="lockwise-link">Prikaži spremljene prijave</a>
+       *[other] Spremljene prijave su možda izložene u curenju podataka. Izmijenite ove lozinke za bolju sigurnost na internetu. <a data-l10n-name="lockwise-link">Prikaži spremljene prijave</a>
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -126,6 +135,14 @@ bar-tooltip-social =
             [few] { $count } programa za praćenje društvenih mreža { $percentage }
            *[other] { $count } programa za praćenje društvenih mreža { $percentage }
         }
+bar-tooltip-cookie =
+    .title = Kolačići za praćenje među web lokacijama
+    .aria-label =
+        { $count ->
+            [one] { $count } kolačić za praćenje među web lokacijama ({ $percentage }%)
+            [few] { $count } kolačića za praćenje među web lokacijama ({ $percentage }%)
+           *[other] { $count } kolačića za praćenje među web lokacijama ({ $percentage }%)
+        }
 bar-tooltip-tracker =
     .title = Praćenje sadržaja
     .aria-label =
@@ -141,4 +158,12 @@ bar-tooltip-fingerprinter =
             [one] { $count } čitač digitalnog otiska ({ $percentage }%)
             [few] { $count } čitača digitalnog otiska ({ $percentage }%)
            *[other] { $count } čitača digitalnog otiska ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Kripto rudari
+    .aria-label =
+        { $count ->
+            [one] { $count } kripto rudar ({ $percentage }%)
+            [few] { $count } kripto rudara ({ $percentage }%)
+           *[other] { $count } kripto rudara ({ $percentage }%)
         }
