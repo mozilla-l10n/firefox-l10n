@@ -12,3 +12,4 @@
 <!ENTITY otherRadio.label      "alia signo:">
 <!ENTITY deleteCharCheck.label "Forigi disigan signon">
 <!ENTITY collapseSpaces.label  "ignori pliajn spacetojn">
+<!ENTITY collapseSpaces.tooltip "Konverti apudajn spacetojn al unu disigilo">
