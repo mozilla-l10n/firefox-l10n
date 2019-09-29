@@ -13,3 +13,10 @@
 <!ENTITY default.accessKey "I">
 <!ENTITY palette.label "Paletro:">
 <!ENTITY standardPalette.label "Norma">
+<!ENTITY webPalette.label "Ĉiuj retaj koloroj">
+<!ENTITY background.label "Fono de:">
+<!ENTITY background.accessKey "F">
+<!ENTITY table.label "tabelo">
+<!ENTITY table.accessKey "t">
+<!ENTITY cell.label "ĉelo(j)">
+<!ENTITY cell.accessKey "e">
