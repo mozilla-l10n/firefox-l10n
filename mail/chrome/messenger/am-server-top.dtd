@@ -9,7 +9,7 @@
 <!ENTITY serverName.label "Denumirea serverului:">
 <!ENTITY serverName.accesskey "S">
 <!ENTITY userName.label "Nume de utilizator:">
-<!ENTITY userName.accesskey "u">
+<!ENTITY userName.accesskey "N">
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Implicit:">
@@ -29,7 +29,7 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, dacă e disponibil">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-<!ENTITY authMethod.label "Metoda de autentificare:">
+<!ENTITY authMethod.label "Metodă de autentificare:">
 <!ENTITY authMethod.accesskey "M">
 <!ENTITY leaveOnServer.label "Lasă mesajele pe server">
 <!ENTITY leaveOnServer.accesskey "g">
