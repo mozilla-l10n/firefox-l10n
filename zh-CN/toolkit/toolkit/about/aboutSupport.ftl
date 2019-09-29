@@ -115,7 +115,7 @@ sandbox-sys-call-proc-type = 进程类型
 sandbox-sys-call-number = 系统调用
 sandbox-sys-call-args = 参数
 safe-mode-title = 尝试安全模式
-restart-in-safe-mode-label = 以安全模式重新打开…
+restart-in-safe-mode-label = 重启浏览器但禁用附加组件…
 
 ## Media titles
 
