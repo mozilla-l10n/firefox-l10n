@@ -188,6 +188,7 @@ language-name-tlh = Klingonšćina
 language-name-tn = Tswana
 language-name-to = Tongašćina
 language-name-tr = Turkojske
+language-name-trs = Trikišćina
 language-name-ts = Tsongašćina
 language-name-tt = Tataršćina
 language-name-tw = Twi

@@ -9,10 +9,7 @@
 <!ENTITY retry.label "Hyšći raz wopytaś">
 <!ENTITY returnToPreviousPage.label "Slědk hyś">
 <!ENTITY returnToPreviousPage1.label "Slědk (dopórucony)">
-<!ENTITY advanced.label "Rozšyrjone">
-<!ENTITY continue2.label "Wěcej…">
 <!ENTITY advanced2.label "Rozšyrjony…">
-<!ENTITY moreInformation.label "Dalšne informacije">
 <!ENTITY viewCertificate.label "Certifikat pokazaś">
 
 <!-- Specific error messages -->
@@ -88,13 +85,11 @@
 <!ENTITY nssFailure2.title "Wěsty zwisk njejo móžny">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Bok, kótaryž cośo se woglědaś, njedajo se pokazaś, dokulaž awtentiskosć dostanych datow njedajo se pśeglědaś.</li> <li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "Waš zwisk njejo wěsty">
 <!ENTITY certerror.longpagetitle2 "Warnowanje: Potencielne wěstotne riziko prědku">
 <!ENTITY certerror.sts.longpagetitle  "Njejo se zwězało: Potencielny wěstotny problem">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Mějaŕ <span class='hostname'/> jo swójo websedło wopak konfigurěrował. Aby swóje informacije pśeśiwo tomu šćitał, až se kšadnu, njejo &brandShortName; z toś tym websedłom zwězało.">
 <!ENTITY certerror.introPara2 "&brandShortName; jo namakał potencielne wobgrozenje wěstoty a njejo togodla zwězał z <span class='hostname'/>. Jolic se k toś tomu sedłoju woglědujośo, mógli napadowarje wopytaś, daty ako waše gronidło, e-mailowe adrese abo drobnostki kreditowych kórtow kšadnuś.">
 <!ENTITY certerror.sts.introPara "&brandShortName; jo namakał potencielne wěstotne wobgrozenje a jo pśetergnuł zwisk z <span class='hostname'/>, dokulaž se toś to websedło wěsty zwisk pomina.">
 
@@ -121,8 +116,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Zmólka - wobškóźone wopśimjeśe">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Bok, kótaryž cośo se woglědaś, njedajo se pokazaś, dokulaž jo se zmólka pśi pśenosowanju datow namakała.</p><ul><li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Wuwześe pśidaś…">
 <!ENTITY securityOverride.exceptionButton1Label "Riziko akceptěrowaś a pókšacowaś">
 
 <!ENTITY errorReporting.automatic2 "Dajśo zmólki ako toś te k wěsći, aby Mozilla pomagał, złosne sedła identificěrował a blokěrował">
@@ -136,16 +129,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Rozšyrjona info: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; njejo z <span id='wrongSystemTime_URL'/> zwězał, dokulaž zda se, až zeger wašogo licadała pokazujo wopacny cas a to zajźujo wěstemu zwiskoju.</p> <p>Wašo licadło jo se na <span id='wrongSystemTime_systemDate'/> stajił, gaž pódaśe měło <span id='wrongSystemTime_actualDate'/> byś. Aby toś ten problem rozwězał, změńśo swóje datumowe a casowe nastajenja, aby korektny cas nastajił.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; njejo z <span id='wrongSystemTimeWithoutReference_URL'/> zwězał, dokulaž zda se, až zeger wašogo licadła pokazujo wopacny cas a to zajźujo wěstemu zwiskoju.</p> <p>Wašo licadło jo se na <span id='wrongSystemTimeWithoutReference_systemDate'/> stajił. Aby toś ten problem rozwězał, změńśo swóje datumowe a casowe nastajenja, aby korektny cas nastajił.</p>">
-
-<!ENTITY certerror.pagetitle1  "Njewěsty zwisk">
 <!ENTITY certerror.pagetitle2  "Warnowanje: Potencielne wěstotne riziko prědku">
 <!ENTITY certerror.sts.pagetitle  "Njejo se zwězało: Potencielny wěstotny problem">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Toś to sedło wužywa HTTP Strict Transport Security (HSTS), aby pódało, až &brandShortName; ma jano wěsćej z nim zwězaś. Pótakem njejo móžno, wuwześe za toś ten certifikat pśidaś.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ma wěstotne pšawidło z mjenim HTTP Strict Transport Security (HSTS), kótarež wóznamjenijo, až &brandShortName; móžo se jano wěsće zwězaś. Njamóžośo wuwześe pśidaś, aby se toś tomu sydłoju woglědał.">
 <!ENTITY certerror.copyToClipboard.label "Tekst do mjazywótkłada kopěrowaś">
 
@@ -168,6 +153,10 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Zda se, až waše nastajenja seśoweje wěstoty by mógli to zawinowaś. Cośo standardne nastajenja wótnowiś?">
 <!ENTITY prefReset.label "Standardne nastajenja wótnowiś">
+
+<!ENTITY enableTls10.longDesc "Toś to websedło snaź protokol TLS 1.2 njepódpěra, kótaryž jo minimalna wersija, kótaruž &brandShortName; pódpěra. Gaž TLS 1.0 a TLS 1.1 zmóžnijośo, dajo se snaź zwisk nawězaś.">
+<!ENTITY enableTls10.note "TLS 1.0 a TLS 1.1 se w pśichodnej wersiji na pśecej znjemóžnijotej.">
+<!ENTITY enableTls10.label "TLS 1.0 a 1.1 zmóžniś">
 
 <!ENTITY networkProtocolError.title "Zmólka seśowego protokola">
 <!ENTITY networkProtocolError.longDesc "<p>Bok, kótaryž cośo se woglědaś, njedajo se pokazaś, dokulaž jo se zmólka w seśowem protokolu namakała.</p><ul><li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.</li></ul>">
