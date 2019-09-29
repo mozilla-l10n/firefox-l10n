@@ -55,6 +55,7 @@ certificate-viewer-timestamp = Tidsstempel
 certificate-viewer-value = Verdi
 certificate-viewer-version = Versjon
 certificate-viewer-business-category = Føretakskategori
+certificate-viewer-issuer-name = Namn til utskrivar
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Last ned
@@ -66,3 +67,7 @@ certificate-viewer-boolean =
         [true] Ja
        *[false] Nei
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
