@@ -57,11 +57,15 @@ about-logins-login-list-empty-search-description = Hakuasi vastaavia tuloksia ei
 login-list-item-title-new-login = Uusi kirjautumistieto
 login-list-item-subtitle-new-login = Anna kirjautumistietosi
 login-list-item-subtitle-missing-username = (ei käyttäjätunnusta)
+about-logins-list-item-warning-icon =
+    .alt = Varoituskuvake
+    .title = Tietovuodon kokenut sivusto
 
 ## Introduction screen
 
 login-intro-heading = Etsitkö tallennettuja kirjautumistietojasi? Ota { -sync-brand-short-name } käyttöön.
 login-intro-description = Jos tallensit kirjautumistietosi { -brand-product-name }-selaimeen toisella laitteella, saat ne käyttöön seuraavasti:
+login-intro-instruction-fxa = Luo tili tai kirjaudu { -fxaccount-brand-name(case: "allative") } laitteella, jolle kirjautumistietosi on tallennettu
 login-intro-instruction-fxa-settings = Varmista, että Kirjautumistiedot-valinta on rastitettu { -sync-brand-short-name }-asetuksissa
 about-logins-intro-instruction-help = Siirry <a data-l10n-name="help-link">{ -lockwise-brand-short-name }-tukeen</a> saadaksesi ohjeita
 
