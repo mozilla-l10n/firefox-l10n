@@ -60,6 +60,9 @@ certificate-viewer-validity = Validade
 certificate-viewer-public-key-info = Informações da chave pública
 certificate-viewer-miscellaneous = Outros
 certificate-viewer-basic-constraints = Restrições básicas
+certificate-viewer-key-usages = Usos da chave
+certificate-viewer-extended-key-usages = Usos estendidos da chave
+certificate-viewer-ocsp-stapling = Estampa de tempo do OCSP
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Baixar
