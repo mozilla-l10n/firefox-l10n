@@ -8,8 +8,14 @@
 <!ENTITY stretch.label              "Развучено">
 <!ENTITY fill.label                 "Попуни">
 <!ENTITY fit.label                  "Уклопи">
-<!ENTITY preview.label              "Прикажи">
+<!-- LOCALIZATION NOTE (span.label): This refers to the wallpaper "spanning"
+                       multiple monitors when the user has more than one. Only
+                       some of the entire image will be on each monitor.
+                       This should ideally match the wording in Windows' own
+                       Desktop Background settings page. -->
+<!ENTITY span.label                 "Прошири">
 <!ENTITY color.label                "Боја:">
 <!ENTITY setDesktopBackground.title "Постави позадину радне површине">
 <!ENTITY openDesktopPrefs.label     "Подешавање радне површине">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "Преглед није доступан">
