@@ -97,10 +97,29 @@ about-debugging-setup-usb-updating-button = Aktualiziranje …
 # USB section of the Setup page (USB status)
 about-debugging-setup-usb-status-enabled = Omogućeno
 about-debugging-setup-usb-status-disabled = Onemogućeno
-about-debugging-setup-usb-status-updating = Ažuriranje…
+about-debugging-setup-usb-status-updating = Aktualiziranje …
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Omogući izbornik za razvijatelje na svom Android uređaju.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Omogući USB uklanjanje grešaka u Android izborniku razvijatelja.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Omogući USB uklanjanje grešaka u Firefoxu na Android uređaju.
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Spojite Android uređaj s računalom.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Imaš probleme povezati se s USB uređajem? <a>Rješavanje problema</a>
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = Mrežna lokacija
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Imaš probleme povezati se putem mrežne lokacije? <a>Rješavanje problema</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Dodaj
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = Još nisu dodane mrežne lokacije.
 # Text of the label for the text input that allows users to add new network locations in
 # the Connect page. A host is a hostname and a port separated by a colon, as suggested by
 # the input's placeholder "localhost:6080".
@@ -108,6 +127,10 @@ about-debugging-network-locations-host-input-label = Poslužitelj
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Ukloni
+# Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
+# Variables:
+#   $host-value (string) - The input value submitted by the user in the network locations form
+about-debugging-network-location-form-invalid = Neispravno glavno računalo „{ $host-value }”. Očekivani format je „hostname:portnumber”.
 # Text used as error message if the input value was already registered in the network locations form of the Setup page.
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
@@ -164,12 +187,21 @@ about-debugging-debug-target-inspect-button = Ispitaj
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = Učitaj privremeni dodatak …
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = Došlo je do greške tijekom instaliranja privremenog dodatka.
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
-about-debugging-tmp-extension-reload-button = Ponovno učitaj
+about-debugging-tmp-extension-reload-button = Učitaj ponovo
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Ukloni
+# Message displayed in the file picker that opens to select a temporary extension to load
+# (triggered by the button using "about-debugging-tmp-extension-install-button")
+# manifest.json .xpi and .zip should not be localized.
+# Note: this message is only displayed in Windows and Linux platforms.
+about-debugging-tmp-extension-install-message = Odaberi manifest.json datoteku ili .xpi/.zip arhivu
+# This string is displayed as a message about the add-on having a temporaryID.
+about-debugging-tmp-extension-temporary-id = Ovo web proširenje ima privremeni ID. <a>Saznaj više</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
@@ -188,6 +220,8 @@ about-debugging-extension-id =
     .label = ID proširenja
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Započni
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = Odjavi
 # Displayed for service workers in runtime pages that are registered but stopped.
 about-debugging-worker-status-stopped = Zaustavljeno
 # Displayed for service workers in runtime pages that are registering.
@@ -198,6 +232,9 @@ about-debugging-worker-scope =
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Glavni proces
+# Displayed as description for the Main Process debug target in the Processes category.
+# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-description2 = Glavni proces za ciljani preglednik
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Zatvori poruku
