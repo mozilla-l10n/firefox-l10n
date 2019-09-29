@@ -9,10 +9,7 @@
 <!ENTITY retry.label "Försök igen">
 <!ENTITY returnToPreviousPage.label "Gå bakåt">
 <!ENTITY returnToPreviousPage1.label "Gå tillbaka (rekommenderas)">
-<!ENTITY advanced.label "Avancerat">
-<!ENTITY continue2.label "Mer…">
 <!ENTITY advanced2.label "Avancerat…">
-<!ENTITY moreInformation.label "Mer information">
 <!ENTITY viewCertificate.label "Visa certifikat">
 
 <!-- Specific error messages -->
@@ -94,13 +91,11 @@
 <!ENTITY nssFailure2.title "Säker anslutning misslyckades">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Sidan du försöker se kan inte visas eftersom autenticiteten för mottagen data inte kan verifieras.</li> <li>Kontakta webbplatsens ägare och informera dem om detta problem.</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "Din anslutning är inte säker">
 <!ENTITY certerror.longpagetitle2 "Varning: Möjlig säkerhetsrisk framöver">
 <!ENTITY certerror.sts.longpagetitle  "Kunde inte ansluta: Potentiellt säkerhetsproblem">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Ägaren av <span class='hostname'/> har konfigurerat sin webbplats felaktigt.  För att skydda din information från att bli stulen, har &brandShortName; inte anslutit till denna webbplats.">
 <!ENTITY certerror.introPara2 "&brandShortName; upptäckte ett potentiellt säkerhetshot och fortsatte inte till <span class='hostname'/>. Om du besöker den här webbplatsen kan angripare försöka stjäla information som lösenord, e-post eller kreditkortsuppgifter.">
 <!ENTITY certerror.sts.introPara "&brandShortName; upptäckte ett potentiellt säkerhetshot och fortsatte inte <span class='hostname'/> eftersom den här webbplatsen kräver en säker anslutning.">
 
@@ -132,8 +127,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Skadat innehåll">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Sidan du försöker se kan inte visas på grund av att ett fel i dataöverföringen upptäcktes.</p><ul><li>Kontakta ägarna till webbplatsen för att informera dem om detta problem.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Lägg till undantag…">
 <!ENTITY securityOverride.exceptionButton1Label "Acceptera risken och fortsätt">
 
 <!ENTITY errorReporting.automatic2 "Rapportera fel som detta för att hjälpa Mozilla identifiera och blockera skadliga webbplatser">
@@ -147,16 +140,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Avancerad info: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; har inte anslutit till <span id='wrongSystemTime_URL'/> eftersom datorn klocka verkar visa fel tid och detta hindrar en säker anslutning.</p> <p>Din dator är inställd på <span id='wrongSystemTime_systemDate'/>, när den borde vara <span id='wrongSystemTime_actualDate'/>. För att åtgärda detta problem, ändra datum- och tidsinställningar för att visa rätt tid.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; har inte anslutit till <span id='wrongSystemTimeWithoutReference_URL'/> eftersom datorn klocka verkar visa fel tid och detta hindrar en säker anslutning.</p> <p>Din dator är inställd på <span id='wrongSystemTimeWithoutReference_systemDate'/>. För att åtgärda detta problem, ändra datum- och tidsinställningar för att visa rätt tid.</p>">
-
-<!ENTITY certerror.pagetitle1  "Osäker anslutning">
 <!ENTITY certerror.pagetitle2  "Varning: Möjlig säkerhetsrisk framöver">
 <!ENTITY certerror.sts.pagetitle  "Kunde inte ansluta: Potentiellt säkerhetsproblem">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Denna webbplats använder HTTP Strict Transport Security (HSTS) för att ange att &brandShortName; endast kan ansluta dit säkert. Därför är det inte möjligt att lägga till ett undantag för detta certifikat.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> har en säkerhetspolicy som heter HTTP Strict Transport Security (HSTS), vilket innebär att &brandShortName; kan endast anslutas säkert till den. Du kan inte lägga till ett undantag för att besöka denna webbplats.">
 <!ENTITY certerror.copyToClipboard.label "Kopiera text till urklipp">
 
@@ -179,6 +164,10 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Det ser ut som nätverkets säkerhetsinställningar kan orsaka detta. Vill du att standardinställningarna ska återställas?">
 <!ENTITY prefReset.label "Återställ standardinställningar">
+
+<!ENTITY enableTls10.longDesc "Denna webbplats stöder kanske inte TLS 1.2-protokollet, som är den minsta version som stöds av &brandShortName;. Om du aktiverar TLS 1.0 och TLS 1.1 kan det hända att denna anslutning lyckas.">
+<!ENTITY enableTls10.note "TLS 1.0 och TLS 1.1 kommer att stängas av permanent i en framtida utgåva.">
+<!ENTITY enableTls10.label "Aktivera TLS 1.0 och 1.1">
 
 <!ENTITY networkProtocolError.title "Nätverksprotokollfel">
 <!ENTITY networkProtocolError.longDesc "<p>Sidan du försöker visa kan inte visas eftersom ett fel i nätverksprotokollet upptäcktes.</p><ul><li>Vänligen kontakta webbplatsens ägare för att informera dem om detta problem.</li></ul>">
