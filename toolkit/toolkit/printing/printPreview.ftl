@@ -33,6 +33,7 @@ printpreview-of =
     .value = /
 printpreview-custom-prompt =
     .value = Oma…
+printpreview-custom-scale-prompt-title = Oma koko
 printpreview-page-setup =
     .label = Sivun asetukset…
     .accesskey = e
