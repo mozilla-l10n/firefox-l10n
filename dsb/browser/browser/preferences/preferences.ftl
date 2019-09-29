@@ -313,7 +313,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Wopśimjeśe Digital Right Management (DRM)
 play-drm-content =
@@ -562,6 +562,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Wzejśo swój web sobu
 sync-signedout-description = Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtarki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.
 sync-signedout-account-title = Zwězaś z: { -fxaccount-brand-name }
@@ -582,11 +586,17 @@ sync-mobile-promo = Firefox za <img data-l10n-name="android-icon"/> <a data-l10n
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Profilowy wobraz změniś
 sync-disconnect =
     .label = Zwisk źěliś…
     .accesskey = Z
+sync-sign-out =
+    .label = Wótzjawiś…
+    .accesskey = t
 sync-manage-account = Konto zastojaś
     .accesskey = o
 sync-signedin-unverified = { $email } njejo se pśeglědał.
@@ -602,6 +612,46 @@ sync-sign-in =
     .accesskey = z
 sync-signedin-settings-header = Nastajenja synchronizacije
 sync-signedin-settings-desc = Wubjeŕśo, což ma se z { -brand-short-name } na wašych rědach synchronizěrowaś.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Synchronizacija: ZAŠALTOWANA
+prefs-syncing-off = Synchronizacija: WUŠALTOWANA
+prefs-sync-setup =
+    .label = { -sync-brand-short-name } konfigurěrowaś
+    .accesskey = k
+prefs-sync-offer-setup-label = Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtarki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.
+prefs-sync-now =
+    .labelnotsyncing = Něnto synchronizěrowaś
+    .accesskeynotsyncing = N
+    .labelsyncing = Synchronizěrujo se…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = Synchronizěrujośo tuchylu slědujuce zapiski:
+sync-currently-syncing-bookmarks = Cytańske znamjenja
+sync-currently-syncing-history = Historija
+sync-currently-syncing-tabs = Wócynjone rejtarki
+sync-currently-syncing-logins-passwords = Pśizjawjenja a gronidła
+sync-currently-syncing-addresses = Adrese
+sync-currently-syncing-creditcards = Kreditowe kórty
+sync-currently-syncing-addons = Dodanki
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Nastajenja
+       *[other] Nastajenja
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Wubjeŕśo, což ma se synchronizěrowaś
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Změny składowaś
+    .buttonaccesskeyaccept = s
+    .buttonlabelextra2 = Źěliś
+    .buttonaccesskeyextra2 = l
+sync-choose-heading = Wubjeŕśo, což ma se z wašym kontom za rědy z pomocu { -sync-brand-short-name } synchronizěrowaś:
 sync-engine-bookmarks =
     .label = Cytańske znamjenja
     .accesskey = C
@@ -614,6 +664,10 @@ sync-engine-tabs =
     .accesskey = r
 sync-engine-logins =
     .label = Pśizjawjenja
+    .tooltiptext = Wužywarske mjenja a gronidła, kótarež sćo składł
+    .accesskey = P
+sync-engine-logins-passwords =
+    .label = Pśizjawjenja a gronidła
     .tooltiptext = Wužywarske mjenja a gronidła, kótarež sćo składł
     .accesskey = P
 sync-engine-addresses =
@@ -636,6 +690,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Powšykne nastajenja, nastajenja priwatnosći a wěstoty, kótarež sćo změnił
     .accesskey = N
+
+## The device name controls.
+
 sync-device-name-header = Mě rěda
 sync-device-name-change =
     .label = Mě rěda změniś…
@@ -826,7 +883,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Swójski
     .accesskey = S
 
-##
+
 
 content-blocking-etp-standard-desc = Wuwažony za šćit a wugbaśe. Boki se normalnje zacytaju.
 content-blocking-etp-strict-desc = Mócnjejšy šćit, ale móžo zawinowaś, až někotare sedła abo wopśimjeśe wěcej njefunkcioněruju.
