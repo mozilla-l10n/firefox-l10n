@@ -631,7 +631,7 @@ sync-currently-syncing-prefs =
 
 ## The "Choose what to sync" dialog.
 
-sync-choose-heading = Elige lo que tu vole synchronisar in tu apparatos usante { -sync-brand-short-name }:
+sync-choose-heading = Selige lo que tu vole synchronisar in tu apparatos usante { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Marcapaginas
     .accesskey = m
