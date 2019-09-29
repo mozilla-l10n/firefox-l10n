@@ -170,7 +170,7 @@
 <!ENTITY settings "Beállítások">
 <!ENTITY settings_title "Beállítások">
 <!ENTITY pref_category_general "Általános">
-<!ENTITY pref_category_general_summary3 "Kezdőképernyő, nyelv, lapfül sor">
+<!ENTITY pref_category_general_summary3 "Kezdőlap, nyelv, lapfül sor">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -244,22 +244,22 @@
 <!ENTITY pref_remember_signons2 "Bejelentkezések megjegyzése">
 <!ENTITY pref_manage_logins "Bejelentkezések kezelése">
 
-<!ENTITY pref_category_home "Home">
+<!ENTITY pref_category_home "Kezdőlap">
 <!ENTITY pref_category_home_summary "Kezdőlap testreszabása">
 <!ENTITY pref_category_home_panels "Panelek">
 <!ENTITY pref_category_home_add_ons "Kiegészítők">
 <!ENTITY pref_home_updates2 "Tartalomfrissítések">
 <!ENTITY pref_home_updates_enabled "Engedélyezve">
 <!ENTITY pref_home_updates_wifi "Csak Wi-Fi használatakor">
-<!ENTITY pref_category_home_homepage "Honlap">
+<!ENTITY pref_category_home_homepage "Kezdőlap">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
 <!ENTITY home_homepage_every_new_tab "Mindig használja az új lapoknál">
-<!ENTITY home_homepage_title "Honlap beállítása">
+<!ENTITY home_homepage_title "Kezdőlap beállítása">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "&brandShortName; kezdőoldal">
+<!ENTITY home_homepage_radio_default "&brandShortName; kezdőlap">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
