@@ -48,6 +48,9 @@
 <!ENTITY editMenu.label               "B'an tuche'">
 <!ENTITY editMenu.accesskey           "E">
 
+<!ENTITY run.label                    "Aq'onsa">
+<!ENTITY run.accesskey                "A">
+<!ENTITY run.key                      "r">
 
 
 
@@ -84,6 +87,7 @@
 
 
 <!ENTITY executeMenu.label            "Aq'onsa">
+<!ENTITY executeMenu.accesskey        "X">
 
 <!-- LOCALIZATION NOTE (errorConsoleCmd.commandkey): This command key launches
   -  the browser Error Console, the key should be identical to the property of

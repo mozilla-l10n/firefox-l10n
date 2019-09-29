@@ -47,3 +47,6 @@ about-debugging-runtime-name = { $name } ({ $version })
 about-debugging-tmp-extension-remove-button = Sojsa el
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Ixe'teb'al
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = Ile' ni taq'onvu ve'te'
