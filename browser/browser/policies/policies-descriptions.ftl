@@ -66,6 +66,7 @@ policy-NetworkPrediction = Ota käyttöön tai poista käytöstä verkkoennakoin
 policy-NewTabPage = Ota käyttöön tai poista käytöstä Uusi välilehti -sivu
 policy-NoDefaultBookmarks = Poista käytöstä { -brand-short-name }in mukana tulevien oletuskirjanmerkkien luonti ja älykkäiden kirjanmerkkien (Useimmin avatut, Viimeiset avainsanat) luonti. Huomaa: tällä käytännöllä on vaikutusta vain, kun profiili käynnistetään ensimmäisen kerran.
 policy-OfferToSaveLogins = Pakota asetus, joka sallii { -brand-short-name }in tarjota käyttäjätunnusten ja salasanojen tallentamista. Sekä tosi- että epätosi-arvot hyväksytään.
+policy-OfferToSaveLoginsDefault = Aseta oletusarvo sille, saako { -brand-short-name } tarjota käyttäjätunnusten ja salasanojen muistamista. Kelpuuttaa arvot true ja false.
 policy-OverrideFirstRunPage = Korvaa ensimmäisen käynnistyskerran sivu. Aseta tämä käytäntö tyhjäksi, jos haluat poistaa ensimmäisen käyttökerran sivun käytöstä.
 policy-OverridePostUpdatePage = Korvaa päivityksen jälkeinen ”Mitä uutta” -sivu. Aseta tämä käytäntö tyhjäksi, jos haluat poistaa päivityksen jälkeisen sivun käytöstä.
 policy-PasswordManagerEnabled = Ota käyttöön salasanojen tallennus salasanojen hallintaan.

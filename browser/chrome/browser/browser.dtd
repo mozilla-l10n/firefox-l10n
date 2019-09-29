@@ -148,6 +148,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Tilisi täytyy vahvistaa ennen kuin voit synkronoida.">
 <!ENTITY fxa.unverified.button.label "Avaa &syncBrand.shortName.label;-asetukset…">
 
+<!ENTITY pictureInPictureHideToggle.label "Piilota kuva kuvassa -kytkin">
+<!ENTITY pictureInPictureHideToggle.accesskey "P">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -932,6 +934,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Miksi?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Näiden estäminen voisi rikkoa osia joistain sivustoista. Ilman seuraimia jotkin painikkeet, lomakkeet ja kirjautumiskentät eivät välttämättä toimi.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Suojauksien poistaminen käytöstä sallii kaikki seuraimet tällä sivustolla. Se saattaa myös parantaa joidenkin sivustojen toiminnallisuutta.">
 <!ENTITY protections.socialMediaTrackers.label "Sosiaalisen median seuraimet">
 <!ENTITY protections.crossSiteTrackingCookies.label "Sivustorajat ylittävät seurainevästeet">
@@ -943,6 +946,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Nämä evästeet seuraavat sinua sivustolta toiselle ja keräävät tietoja tekemisistäsi verkossa. Ne on asetettu kolmansien osapuolten, kuten mainostajien ja analytiikkayhtiöiden, toimesta.">
 <!ENTITY protections.cryptominers.description "Kryptolouhijat käyttävät tietokoneesi laskentatehoa digitaalisen rahan louhintaan. Kryptolouhintaan tarkoitetut komentosarjat kuluttavat tietokoneen akkua, hidastavat tietokonetta ja voivat vaikuttaa sähkölaskun loppusummaan.">
 <!ENTITY protections.fingerprinters.description "Yksilöijät keräävät asetustietoja selaimestasi sekä tietokoneestasi ja luovat näiden tietojen avulla profiilin sinusta. Tätä digitaalista sormenjälkeä hyödyntämällä sinua voidaan seurata eri verkkosivustojen välillä.">
+<!ENTITY protections.trackingContent2.description "Sivustot saattavat ladata ulkoisia mainoksia, videoita ja muuta sisältöä, joka seuraa sinua. Seurantaan tarkoitetun sisällön estäminen voi nopeuttaa sivujen latautumista, mutta jotkin painikkeet, lomakkeet ja kirjautumiskentät eivät välttämättä toimi.">
 <!ENTITY protections.socialMediaTrackers.description "Sosiaaliset verkot asettavat seuraimia muille verkkosivuille, ja niiden avulla sinua sekä tekemisiäsi voidaan seurata verkossa. Tämä mahdollistaa sosiaalisen median yhtiöiden kerätä sinusta enemmän tietoa kuin mitä itse jaat sosiaalisen median profiileissa.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -993,6 +997,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection4.label "Seurantaan tarkoitettu sisältö">
 
 <!ENTITY contentBlocking.manageSettings2.label "Hallitse suojauksen asetuksia">
+<!ENTITY contentBlocking.manageSettings2.accesskey "H">
 
 <!ENTITY contentBlocking.socialblock.label "Sosiaalisen median seuraimet">
 

@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Käyttöoikeuksien hallintaa (DRM) käyttävä sisältö
 play-drm-content =
@@ -395,6 +395,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Ala etsiä tekstistä heti kirjoitettaessa
     .accesskey = A
+browsing-picture-in-picture-toggle-enabled =
+    .label = Käytä kuva kuvassa -video-ohjaimia
+    .accesskey = K
 browsing-picture-in-picture-learn-more = Lue lisää
 browsing-cfr-recommendations =
     .label = Suosittele laajennuksia selaamisen yhteydessä
@@ -551,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Pidä oma selain aina mukanasi
 sync-signedout-description = Synkronoi kirjanmerkit, sivuhistoria, välilehdet, salasanat, lisäosat ja asetukset kaikilla laitteillasi.
 sync-signedout-account-title = Yhdistä { -fxaccount-brand-name(case: "illative") }
@@ -570,6 +577,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Lataa Firefox <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Androidille</a> tai <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS:lle</a> ja synkronoi tietosi kannettavalle laitteellesi.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Vaihda kuva
@@ -591,6 +601,15 @@ sync-sign-in =
     .accesskey = r
 sync-signedin-settings-header = Synkronointiasetukset
 sync-signedin-settings-desc = Valitse tiedot, jotka synkronoidaan niiden laitteiden kanssa, joilla käytät { -brand-short-name }ia.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Kirjanmerkit
     .accesskey = K
@@ -625,6 +644,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Muuttamasi yleiset asetukset sekä tietosuoja- ja turvallisuusasetukset
     .accesskey = e
+
+## The device name controls.
+
 sync-device-name-header = Laitteen nimi
 sync-device-name-change =
     .label = Muuta laitteen nimeä…
@@ -657,6 +679,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Ehdota ja luo vahvoja salasanoja
     .accesskey = u
+forms-breach-alerts =
+    .label = Näytä hälytykset salasanoista sivustoille, jotka ovat kokeneet tietomurron
+    .accesskey = h
 forms-breach-alerts-learn-more-link = Lue lisää
 forms-fill-logins-and-passwords =
     .label = Täytä automaattisesti käyttäjätunnukset ja salasanat
@@ -779,6 +804,7 @@ addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 content-blocking-header = Sisällön esto
 content-blocking-section-description = Suojaa yksityisyyttäsi selatessasi. Estä näkymätön sisältö, joka seuraa vierailemiasi sivuja ja profiloi sinua. Jonkin tällaisen sisällön estäminen saattaa nopeuttaa sivujen latautumista.
 content-blocking-enhanced-tracking-protection = Tehostettu seurannan suojaus
+content-blocking-section-top-level-description = Seuraimet seuraavat sinua verkossa ja keräävät tietoja selaustapoihisi ja kiinnostuksen kohteisiisi liittyen. { -brand-short-name } estää monet näistä seuraimista ja muita haitallisia komentosarjoja.
 content-blocking-learn-more = Lue lisää
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -811,7 +837,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Oma
     .accesskey = O
 
-##
+
 
 content-blocking-etp-standard-desc = Tasapainotettu suojauksen ja suorituskyvyn välillä. Sivut latautuvat normaalisti.
 content-blocking-etp-strict-desc = Vahvempi suojaus, mutta saattaa aiheuttaa sivustojen tai sisällön toimimattomuutta.
