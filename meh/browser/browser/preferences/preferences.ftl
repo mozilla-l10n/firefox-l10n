@@ -279,6 +279,7 @@ logins-header = Nuu kajie´e sesión jii contraseñas
 forms-exceptions =
     .label = Excepciones…
     .accesskey = x
+forms-breach-alerts-learn-more-link = Ka´vi kue´eka
 forms-saved-logins =
     .label = Nuu kajie´e sesión nchuva´a
     .accesskey = L
