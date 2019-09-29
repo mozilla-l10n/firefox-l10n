@@ -217,7 +217,7 @@
 <!ENTITY addressBookCmd.label "Agendă de contacte">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd2.label "Setările conturilor">
+<!ENTITY accountManagerCmd2.label "Setări pentru conturi">
 <!ENTITY accountManagerCmd2.accesskey "c">
 <!ENTITY accountManagerCmdUnix2.accesskey "S">
 <!ENTITY preferencesCmd2.label "Opțiuni">

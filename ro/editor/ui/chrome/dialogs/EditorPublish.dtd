@@ -21,7 +21,7 @@
 <!ENTITY publishImgCheckbox.label     "Include imagini și alte fișiere">
 <!ENTITY publishImgCheckbox.accesskey "I">
 <!ENTITY publishImgCheckbox.tooltip   "Publică imaginile și celelalte fișiere la care trimite această pagină">
-<!ENTITY sameLocationRadio.label      "Utilizează aceeași locație ca pentru pagină">
+<!ENTITY sameLocationRadio.label      "Folosește aceeași locație ca pentru pagină">
 <!ENTITY sameLocationRadio.accesskey  "U">
 <!ENTITY sameLocationRadio.tooltip    "Publică fișierele în aceeași locație cu pagina">
 <!ENTITY useSubdirRadio.label         "Folosește acest subdirector de pe site:">

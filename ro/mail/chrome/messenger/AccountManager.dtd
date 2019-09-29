@@ -4,7 +4,7 @@
 
 <!-- extracted from AccountManager.xul -->
 
-<!ENTITY accountManagerTitle.label "Setările contului">
+<!ENTITY accountManagerTitle.label "Setări pentru cont">
 
 <!ENTITY accountActionsButton.label "Acțiuni cu privire la cont">
 <!ENTITY accountActionsButton.accesskey "A">
