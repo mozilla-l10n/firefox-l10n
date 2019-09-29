@@ -15,6 +15,8 @@ about-config-search-input =
 
 about-config-intro-warning-title = Ga gudadû gan'anjt ne' ñaan
 about-config-intro-warning-text = Sisi nadunat sa anïn ruhuât nan ni ga'ue ga'uì' yi'ìj da' hìo 'iaj sunj asi { -brand-short-name }
+about-config-intro-warning-checkbox = Gunumà 'ngo nuguan'an gini'ia ngà gatu ñú riña nej sa hua dànanj
+about-config-intro-warning-button = Garayinaj sa gahuin ni yakà gan'àn ne'ñaa
 
 
 
