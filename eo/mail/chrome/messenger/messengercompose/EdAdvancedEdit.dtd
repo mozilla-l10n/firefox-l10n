@@ -11,5 +11,8 @@
 <!ENTITY tree.propertyHeader.label      "Eco">
 <!ENTITY tree.valueHeader.label         "Valoro">
 <!ENTITY tabHTML.label                  "Atributoj HTML">
-<!ENTITY tabCSS.label                   "Enteksta stilo">
+<!ENTITY tabCSS.label                   "Entekstaj stiloj">
+<!ENTITY tabJSE.label                   "Ĝavoskript-okazaĵoj">
 
+<!ENTITY editAttribute.label    "Klaku elementon por ŝanĝi ĝian valoron">
+<!ENTITY removeAttribute.label  "Forigi">
