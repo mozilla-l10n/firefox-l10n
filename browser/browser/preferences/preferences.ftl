@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Digital Rights Management (DRM) innhold
 play-drm-content =
@@ -554,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Ta med deg webben
 sync-signedout-description = Synkroniser bokmerker, historikk, faner, passord, utvidelser og innstillinger på tvers av alle enhetene dine.
 sync-signedout-account-title = Koble til en { -fxaccount-brand-name }
@@ -574,11 +578,17 @@ sync-mobile-promo = Last ned Firefox for <img data-l10n-name="android-icon"/> <a
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Endre profilbilde
 sync-disconnect =
     .label = Koble fra…
     .accesskey = f
+sync-sign-out =
+    .label = Logg ut…
+    .accesskey = g
 sync-manage-account = Behandle konto
     .accesskey = o
 sync-signedin-unverified = { $email } er ikke bekreftet.
@@ -594,6 +604,43 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Sync-innstillinger
 sync-signedin-settings-desc = Velg hva du vil synkronisere på enhetene dine med { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Synkronisering: PÅ
+prefs-syncing-off = Synkronisering: AV
+prefs-sync-setup =
+    .label = Konfigurer { -sync-brand-short-name }
+    .accesskey = K
+prefs-sync-now =
+    .labelnotsyncing = Synkroniser nå
+    .accesskeynotsyncing = n
+    .labelsyncing = Synkroniserer…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-bookmarks = Bokmerker
+sync-currently-syncing-history = Historikk
+sync-currently-syncing-tabs = Åpne faner
+sync-currently-syncing-logins-passwords = Innlogginger og passord
+sync-currently-syncing-addresses = Adresser
+sync-currently-syncing-creditcards = Kredittkort
+sync-currently-syncing-addons = Utvidelser
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Innstillinger
+       *[other] Innstillinger
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Velg hva som skal synkroniseres
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Lagre endringer
+    .buttonaccesskeyaccept = L
+    .buttonlabelextra2 = Koble fra
+    .buttonaccesskeyextra2 = K
 sync-engine-bookmarks =
     .label = Bokmerker
     .accesskey = B
@@ -608,6 +655,10 @@ sync-engine-logins =
     .label = Innlogginger
     .tooltiptext = Brukarnavn og passord du har lagret
     .accesskey = I
+sync-engine-logins-passwords =
+    .label = Innlogginger og passord
+    .tooltiptext = Brukernavn og passord som du har lagret
+    .accesskey = l
 sync-engine-addresses =
     .label = Adresser
     .tooltiptext = Postadresser du har lagret (bare datamaskin)
@@ -628,6 +679,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Generelle, personvern- og sikkerhetsinnstillinger du har endret
     .accesskey = I
+
+## The device name controls.
+
 sync-device-name-header = Enhetsnavn
 sync-device-name-change =
     .label = Endre enhetsnavn…
@@ -818,7 +872,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Tilpasset
     .accesskey = T
 
-##
+
 
 content-blocking-etp-standard-desc = Balansert for beskyttelse og ytelse. Sider lastes normalt.
 content-blocking-etp-strict-desc = Sterkere beskyttelse, men kan føre til at noen nettsteder eller innhold ikke vil fungere.
