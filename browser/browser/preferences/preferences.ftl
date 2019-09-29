@@ -590,6 +590,9 @@ sync-profile-picture =
 sync-disconnect =
     .label = Prekini vezu...
     .accesskey = k
+sync-sign-out =
+    .label = Odjavi se…
+    .accesskey = O
 sync-manage-account = Upravljanje računom
     .accesskey = u
 sync-signedin-unverified = { $email } nije potvrđen.
@@ -610,6 +613,14 @@ sync-signedin-settings-desc = Odaberite što sinkronizirati na vašim uređajima
 
 prefs-syncing-on = Sinkroniziranje: UKLJUČENO
 prefs-syncing-off = Sinkroniziranje: ISKLJUČENO
+prefs-sync-setup =
+    .label = Postavi { -sync-brand-short-name }…
+    .accesskey = P
+prefs-sync-offer-setup-label = Sinkronizirajte vaše zabilješke, povijest, kartice, lozinke, dodatke i postavke na sve vaše uređaje.
+prefs-sync-now =
+    .labelnotsyncing = Sinkroniziraj sada
+    .accesskeynotsyncing = n
+    .labelsyncing = Sinkroniziranje…
 
 ## The list of things currently syncing.
 
@@ -629,6 +640,14 @@ sync-currently-syncing-prefs =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Odaberite što ćete sinkronizirati
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Spremi izmjene
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Odspoji…
+    .buttonaccesskeyextra2 = d
+sync-choose-heading = Odaberite što sinkronizirati s vašim računom za uređaje koji koriste { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Zabilješke
     .accesskey = Z
@@ -643,6 +662,10 @@ sync-engine-logins =
     .label = Prijave
     .tooltiptext = Korisnička imena i lozinke koje ste spremili.
     .accesskey = P
+sync-engine-logins-passwords =
+    .label = Prijave i lozinke
+    .tooltiptext = Korisnička imena i lozinke koje ste spremili
+    .accesskey = l
 sync-engine-addresses =
     .label = Adrese
     .tooltiptext = Poštanske adrese koje ste spremili (samo radna površina)
