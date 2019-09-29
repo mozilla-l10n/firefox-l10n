@@ -102,8 +102,8 @@ fonts-allow-own =
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
-fonts-languages-fallback-header = Kôdna stranica za zastarjeli sadržaj
-fonts-languages-fallback-desc = Ova kôdna stranica se koristi za zastarjeli sadržaj, koji ne može definirati vlastitu kôdnu stranicu.
+fonts-languages-fallback-header = Kodna stranica za zastarjeli sadržaj
+fonts-languages-fallback-desc = Ova kodna stranica se koristi za zastarjeli sadržaj, koji ne može definirati vlastitu kodnu stranicu.
 fonts-languages-fallback-label = Pomoćna kôdna stranica
     .accesskey = k
 fonts-languages-fallback-name-auto =
@@ -138,9 +138,6 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vijetnamski
 fonts-languages-fallback-name-other =
     .label = Ostali (uključujući zapadni europski)
-fonts-very-large-warning-title = Velika vrijednost za najmanji font
-fonts-very-large-warning-message = Postavili ste veliku vrijednost za najmanju veličinu fonta (više od 24 piksela). Ovo može uzrokovati poteškoće i ozbiljne probleme kod korištenja važnih konfiguracijskih stranica, poput ove.
-fonts-very-large-warning-accept = Svejedno zadrži moje promjene
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

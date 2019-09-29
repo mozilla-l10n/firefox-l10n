@@ -44,8 +44,50 @@ certificate-viewer-qualifier = Kvalifikator
 certificate-viewer-qualifiers = Kvalifikatori
 certificate-viewer-required = Obavezno
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
-certificate-viewer-inc-state-province = Uklj. državu/županiju
+certificate-viewer-inc-state-province = Država/pokrajina
+certificate-viewer-state-province = Država/pokrajina
+certificate-viewer-sha-1 = SHA-1
+certificate-viewer-sha-256 = SHA-256
+certificate-viewer-serial-number = Serijski broj
+certificate-viewer-signature-algorithm = Algoritam potpisa
+certificate-viewer-signature-scheme = Shema potpisa
+certificate-viewer-timestamp = Vremenska oznaka
+certificate-viewer-value = Vrijednost
+certificate-viewer-version = Verzija
+certificate-viewer-business-category = Kategorija poslovanja
+certificate-viewer-subject-name = Naziv predmeta
+certificate-viewer-issuer-name = Ime izdavača
+certificate-viewer-validity = Valjanost
+certificate-viewer-subject-alt-names = Alternativni nazivi predmeta
+certificate-viewer-public-key-info = Informacije o javnom ključu
+certificate-viewer-miscellaneous = Razno
+certificate-viewer-fingerprints = Otisci prstiju
+certificate-viewer-basic-constraints = Osnovna ograničenja
+certificate-viewer-key-usages = Upotrebe ključa
+certificate-viewer-extended-key-usages = Proširena upotrebe ključa
+certificate-viewer-ocsp-stapling = OCSP potvrđivanje
+certificate-viewer-subject-key-id = ID ključa predmeta
+certificate-viewer-authority-key-id = ID ključa autoriteta
+certificate-viewer-authority-info-aia = Podaci autoriteta (AIA)
+certificate-viewer-certificate-policies = Pravila certifikata
+certificate-viewer-embedded-scts = Ugrađeni SCT-ovi
+certificate-viewer-crl-endpoints = Krajnje točke CRL-a
+# This message is used as a row header in the Miscellaneous section. 
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Preuzmi
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] Da
+       *[false] Ne
+    }
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (certifikat)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (lanac)
+    .download = { $fileName }-chain.pem
