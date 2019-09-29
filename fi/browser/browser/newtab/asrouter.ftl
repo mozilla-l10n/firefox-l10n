@@ -129,6 +129,7 @@ cfr-doorhanger-sync-logins-ok-button = Ota { -sync-brand-short-name } käyttöö
 
 cfr-doorhanger-send-tab-header = Lue tämä ollessasi liikkeellä
 cfr-doorhanger-send-tab-recipe-header = Vie tämä resepti keittiöön
+cfr-doorhanger-send-tab-body = Lähettämällä välilehden voit jakaa linkin helposti puhelimeesi tai minne tahansa, missä olet kirjautuneena { -brand-product-name }iin.
 cfr-doorhanger-send-tab-ok-button = Kokeile välilehden lähettämistä
     .accesskey = K
 
