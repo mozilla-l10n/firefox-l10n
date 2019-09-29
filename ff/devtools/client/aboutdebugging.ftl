@@ -25,6 +25,11 @@ about-debugging-sidebar-this-firefox =
 # Sidebar heading for connecting to some remote source
 about-debugging-sidebar-setup =
     .name = Teeltagol
+# Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
+about-debugging-sidebar-usb-enabled = USB hurminaama
+# Text displayed in the about:debugging sidebar when USB devices discovery is disabled
+# (for instance because the mandatory ADB extension is not installed).
+about-debugging-sidebar-usb-disabled = USB daaƴaama
 
 # Setup Page strings
 
