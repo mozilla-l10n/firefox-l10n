@@ -13,16 +13,16 @@
 <!ENTITY maximumConnectionsNumber.label "Număr maxim de conexiuni memorate temporar">
 <!ENTITY maximumConnectionsNumber.accesskey "x">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
-<!ENTITY namespaceDesc.label "Următoarele preferințe specifică namespace-urile de pe serverul IMAP">
-<!ENTITY personalNamespace.label "Namespace personal:">
-<!ENTITY personalNamespace.accesskey "N">
+<!ENTITY namespaceDesc.label "Aceste preferințe specifică spații de nume de pe serverul IMAP">
+<!ENTITY personalNamespace.label "Spațiu de nume personal:">
+<!ENTITY personalNamespace.accesskey "P">
 <!ENTITY publicNamespace.label "Public (partajat):">
 <!ENTITY publicNamespace.accesskey "P">
 <!ENTITY otherUsersNamespace.label "Alți utilizatori:">
-<!ENTITY otherUsersNamespace.accesskey "A">
-<!ENTITY overrideNamespaces.label "Permite serverului să suprascrie aceste nume de spații">
-<!ENTITY overrideNamespaces.accesskey "a">
-<!ENTITY pop3DeferringDesc.label "Când se descarcă mesajele de serverul acestui cont, folosește următorul dosar pentru mesajele noi:" >
+<!ENTITY otherUsersNamespace.accesskey "O">
+<!ENTITY overrideNamespaces.label "Permite serverului să suprascrie aceste spații de nume">
+<!ENTITY overrideNamespaces.accesskey "A">
+<!ENTITY pop3DeferringDesc.label "Când se descarcă mesajele de serverul acestui cont, folosește următorul dosar pentru mesajele noi:">
 <!ENTITY accountInbox.label "Căsuță poștală pentru acest cont">
 <!ENTITY accountInbox.accesskey "s">
 <!ENTITY deferToServer.label "Căsuța poștală pentru cont diferit">
