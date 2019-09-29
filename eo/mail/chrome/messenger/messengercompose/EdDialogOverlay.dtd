@@ -9,5 +9,7 @@
 <!ENTITY chooseFileButton.accessKey "d">
 <!ENTITY chooseFileLinkButton.label "Elekti dosieron…">
 <!ENTITY chooseFileLinkButton.accessKey "E">
+<!ENTITY makeUrlRelative.label "Ligilo estas relativa al adreso de paĝo">
+<!ENTITY makeUrlRelative.accessKey "r">
 
 <!-- Shared by Link and Image dialogs -->
