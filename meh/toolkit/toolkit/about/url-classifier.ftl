@@ -3,5 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-search-title = Nánuku
+url-classifier-search-result-uri = URI: { $uri }
 url-classifier-search-input = URL
 url-classifier-cache-clear-btn = Sno
