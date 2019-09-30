@@ -9,7 +9,6 @@
 <!ENTITY retry.label "Proovi uuesti">
 <!ENTITY returnToPreviousPage.label "Mine tagasi">
 <!ENTITY returnToPreviousPage1.label "Mine tagasi (soovitatav)">
-<!ENTITY advanced.label "Edasijõudnuile">
 <!ENTITY advanced2.label "Edasijõudnuile…">
 <!ENTITY viewCertificate.label "Vaata sertifikaati">
 
@@ -146,14 +145,8 @@
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle1 "Ühendus pole turvaline">
-
 <!ENTITY certerror.longpagetitle2 "Hoiatus: ees on ootamas võimalik turvarisk">
 <!ENTITY certerror.sts.longpagetitle  "Ühendust ei loodud: võimalik turvarisk">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
-will be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara "Saidi <span class='hostname'/> omanik on oma veebilehe valesti häälestanud.  Sinu andmete kaitsmiseks varastamise eest ei loonud &brandShortName; selle veebilehega ühendust.">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -197,9 +190,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Vigane sisu">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Andmete edastamisel esinenud vea tõttu pole soovitud lehte võimalik kuvada.</p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Lisa erand…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Nõustu riskiga ja jätka">
 
 <!ENTITY errorReporting.automatic2 "Raporteeri taolistest vigadest, et Mozilla saaks tuvastada ja blokkida ohtlikud veebilehed">
@@ -213,20 +203,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Täpsem teave: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; ei loonud ühendust aadressiga <span id='wrongSystemTime_URL'/>, sest sinu arvuti näib kasutavat vale kellaaega ning see takistab turvalise ühenduse loomist.</p> <p>Sinu arvuti ajaks on <span id='wrongSystemTime_systemDate'/>, kuigi see peaks olema <span id='wrongSystemTime_actualDate'/>. Probleemi lahendamiseks muuda oma arvuti aja sätted õigeks.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; ei loonud ühendust aadressiga <span id='wrongSystemTimeWithoutReference_URL'/>, sest sinu arvuti näib kasutavat vale kellaaega ning see takistab turvalise ühenduse loomist.</p> <p>Sinu arvuti ajaks on <span id='wrongSystemTimeWithoutReference_systemDate'/>. Probleemi lahendamiseks muuda oma arvuti aja sätted õigeks.</p>">
-
-<!ENTITY certerror.pagetitle1  "Ebaturvaline ühendus">
-
 <!ENTITY certerror.pagetitle2  "Hoiatus: ees on ootamas võimalik turvarisk">
 <!ENTITY certerror.sts.pagetitle  "Ühendust ei loodud: võimalik turvarisk">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "See sait kasutab HTTP
-Strict Transport Security (HSTS) tehnoloogiat, et sundida &brandShortName; ühenduma ainult
-turvalise protokolli kaudu. Seetõttu pole selle sertifikaadi jaoks erandi lisamine
-võimalik.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "Sait <span class='hostname'></span> kasutab HTTP Strict Transport Security (HSTS) tehnoloogiat, et sundida &brandShortName; ühenduma ainult turvalise protokolli kaudu. Seetõttu pole selle serdi jaoks erandi lisamine võimalik.">
 <!ENTITY certerror.copyToClipboard.label "Kopeeri tekst vahemällu">
 
@@ -249,6 +227,10 @@ võimalik.">
 
 <!ENTITY prefReset.longDesc "Paistab, et seda probleemi võivad põhjustada sinu võrguturvalisuse sätted. Kas soovid taastada vaikesätted?">
 <!ENTITY prefReset.label "Taasta vaikesätted">
+
+<!ENTITY enableTls10.longDesc "See sait ei pruugi toetada protokolli TLS 1.2, mis on minimaalne versioon, mida &brandShortName; toetab. TLS 1.0 ja TLS 1.1 lubamine võib võimaldada ühenduse loomise.">
+<!ENTITY enableTls10.note "TLS 1.0 ja TLS 1.1 keelatakse tulevases väljalaskes jäädavalt.">
+<!ENTITY enableTls10.label "Luba TLS 1.0 ja 1.1">
 
 <!ENTITY networkProtocolError.title "Võrguprotokolli viga">
 <!ENTITY networkProtocolError.longDesc "<p>Veebilehte, mida üritad vaadata, pole võimalik kuvada, kuna võrguprotokollis tuvastati viga.</p><ul><li>Palun võta ühendust veebisaidi omanikuga, et teavitada teda sellest probleemist.</li></ul>">

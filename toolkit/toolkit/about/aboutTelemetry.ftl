@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Andmete allikas:
 about-telemetry-show-current-ping-data = Praegused andmed
+about-telemetry-show-current-data = Praegused andmed
 about-telemetry-show-archived-ping-data = Arhiveeritud andmed
 about-telemetry-show-subsession-data = Kuvatakse alamseansside andmeid
 about-telemetry-choose-ping = Vali ping:
@@ -76,6 +77,7 @@ about-telemetry-settings-explanation = Telemetry kogub { about-telemetry-data-ty
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Iga killuke informatsiooni on saadetud pakituna “<a data-l10n-name="ping-link">pingude</a>” sisse. Sa oled vaatamas { $name }, { $timestamp } pingu.
 about-telemetry-ping-details-current = Iga killuke informatsiooni on saadetud pakituna “<a data-l10n-name="ping-link">pingude</a>“ sisse. Sa oled vaatamas käimasolevat pingu.
+about-telemetry-data-details-current = Iga killuke informatsiooni on saadetud pakituna “<a data-l10n-name="ping-link">pingude</a>“ sisse. Sa oled vaatamas praeguseid andmeid.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -102,6 +104,8 @@ about-telemetry-no-search-results-all = Vabandust! Ühestki sektsioonist ei leit
 about-telemetry-no-data-to-display = Vabandust! Sektsioonis “{ $sectionName }” pole praegu andmeid
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = käimasolev ping
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = praegused andmed
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = kõik
 # button label to copy the histogram
