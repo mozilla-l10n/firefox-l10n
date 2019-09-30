@@ -45,9 +45,9 @@
 <!ENTITY viewMenu_accesskey "l">
 <!ENTITY viewMenu_zoomin_label "Uvećaj">
 <!ENTITY viewMenu_zoomin_accesskey "I">
-<!ENTITY viewMenu_zoomout_label "Uvećaj">
+<!ENTITY viewMenu_zoomout_label "Umanji">
 <!ENTITY viewMenu_zoomout_accesskey "O">
-<!ENTITY viewMenu_resetzoom_label "Poništi uvećanje">
+<!ENTITY viewMenu_resetzoom_label "Vrati zumiranje">
 <!ENTITY viewMenu_resetzoom_accesskey "U">
 
 <!ENTITY projectButton_label "Otvori aplikaciju">
@@ -156,7 +156,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Ako vas drugi uređaj traži token umjesto skeniranja QR kôda, kopirajte navedenu vrijednost na drugi uređaj:">
-<!ENTITY wifi_auth_qr_size_note "Ako se QR kôd čini premalim za uspješnu uspostavu veze, pokušajte uvećati ili proširiti prozor.">
+<!ENTITY wifi_auth_qr_size_note "Ako je QR kȏd premalen za uspješnu uspostavu veze, pokušaj uvećati prikaz ili proširiti prozor.">
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Pre-packaging command zapisnik">
