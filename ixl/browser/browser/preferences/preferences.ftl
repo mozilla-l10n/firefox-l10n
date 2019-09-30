@@ -26,6 +26,7 @@ close-button =
 
 should-restart-title = La xe'tisal { -brand-short-name }
 cancel-no-restart-button = Ya'sakan
+restart-later = Xamtel la xe'tisal
 
 ## Extension Control Notifications
 ##
@@ -43,13 +44,20 @@ cancel-no-restart-button = Ya'sakan
 
 ## General Section
 
+get-started-not-logged-in = chupoke{ -sync-brand-short-name }
 browser-containers-learn-more = Ootzi ka'te
+containers-disable-alert-cancel-button = JAJELKAN KUXHTU
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Yolb'al tuk' ikaye'
+language-header = Yolb'al
+choose-language-description = Txa u yolb'ale' ve ni tal aama aq'al li kuch unq'a paginae'
+confirm-browser-language-change-button = B'anb'e as a xe'tisa
 
 ## General Section - Files and Applications
 
+download-header = Omal kutzan kam
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } kolb'al aaq'on
