@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Autoriõiguse digitaalkaitsega (DRM) sisu
 play-drm-content =
@@ -554,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Võta oma veeb endaga kaasa
 sync-signedout-description = Sync võimaldab sul sünkroniseerida järjehoidjad, ajaloo, kaardid, paroolid, lisad ja sätted kõigis sinu seadmetes.
 sync-signedout-account-title = Ühendu { -fxaccount-brand-name }ga
@@ -574,11 +578,17 @@ sync-mobile-promo = Hangi Firefox <img data-l10n-name="android-icon"/> <a data-l
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Muuda profiilipilti
 sync-disconnect =
     .label = Katkesta ühendus…
     .accesskey = K
+sync-sign-out =
+    .label = Logi välja…
+    .accesskey = o
 sync-manage-account = Halda kontot
     .accesskey = o
 sync-signedin-unverified = { $email } pole kinnitatud.
@@ -594,6 +604,46 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Sünkroniseerimise sätted
 sync-signedin-settings-desc = Vali { -brand-short-name }i poolt sünkroniseeritavad andmed.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Sünkroniseerimine: SEES
+prefs-syncing-off = Sünkroniseerimine: VÄLJAS
+prefs-sync-setup =
+    .label = Seadista { -sync-brand-short-name }…
+    .accesskey = d
+prefs-sync-offer-setup-label = Sync võimaldab sul sünkroniseerida järjehoidjad, ajaloo, kaardid, paroolid, lisad ja sätted kõigis sinu seadmetes.
+prefs-sync-now =
+    .labelnotsyncing = Sünkroniseeri kohe
+    .accesskeynotsyncing = S
+    .labelsyncing = Sünkroniseerimine…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = Praegu sünkroniseeritakse järgnevaid asju:
+sync-currently-syncing-bookmarks = Järjehoidjad
+sync-currently-syncing-history = Ajalugu
+sync-currently-syncing-tabs = Avatud kaardid
+sync-currently-syncing-logins-passwords = Kasutajatunnused ja paroolid
+sync-currently-syncing-addresses = Aadressid
+sync-currently-syncing-creditcards = Krediitkaardid
+sync-currently-syncing-addons = Lisad
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Sätted
+       *[other] Eelistused
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Sünkroniseeritavate asjade valik
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Salvesta muudatused
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Ühenda lahti…
+    .buttonaccesskeyextra2 = h
+sync-choose-heading = Vali { -sync-brand-short-name }i poolt sünkroniseeritavad asjad:
 sync-engine-bookmarks =
     .label = Järjehoidjad
     .accesskey = j
@@ -608,6 +658,10 @@ sync-engine-logins =
     .label = Kasutajakontod
     .tooltiptext = Salvestatud kasutajanimed ja paroolid
     .accesskey = u
+sync-engine-logins-passwords =
+    .label = Kasutajatunnused ja paroolid
+    .tooltiptext = Salvestatud kasutajanimed ja paroolid
+    .accesskey = t
 sync-engine-addresses =
     .label = Aadressid
     .tooltiptext = Salvestatud postiaadressid (toetatud ainult arvutis töötavad brauserid)
@@ -628,6 +682,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Üldiste, privaatsuse ja turvalisuse sätete muudatused
     .accesskey = e
+
+## The device name controls.
+
 sync-device-name-header = Seadme nimi
 sync-device-name-change =
     .label = Muuda seadme nime…
@@ -818,7 +875,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Kohandatud
     .accesskey = K
 
-##
+
 
 content-blocking-etp-standard-desc = Tasakaalustatud kaitse ja jõudluse jaoks. Lehed laaditakse tavapäraselt.
 content-blocking-etp-strict-desc = Tugevam kaitse, võib põhjustada mõnel saidil või sisus probleeme.

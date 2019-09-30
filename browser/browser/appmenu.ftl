@@ -5,5 +5,6 @@
 
 ## App Menu
 
+appmenuitem-protection-report-title = Privaatsuse kaitse
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Vaata oma privaatsuse raportit
