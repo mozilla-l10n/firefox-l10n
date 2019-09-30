@@ -21,7 +21,7 @@
 <!ENTITY productHelp2.accesskey   "p">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "Tipkovničke kratice">
+<!ENTITY helpKeyboardShortcuts.label     "Tipkovnički prečaci">
 <!ENTITY helpKeyboardShortcuts.accesskey "k">
 
 <!ENTITY helpSafeMode.label       "Ponovno pokreni s isključenim dodacima…">
