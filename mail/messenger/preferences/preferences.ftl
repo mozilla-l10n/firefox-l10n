@@ -26,6 +26,7 @@ privacy-security-header = Securitate
 privacy-scam-detection-title = Detectarea de înșelăciuni
 privacy-anti-virus-title = Antivirus
 privacy-certificates-title = Certificate
+chat-status-title = Stare
 chat-notifications-title = Notificări
 choose-messenger-language-description = Alege limba de folosit pentru afișarea meniurilor, mesajelor și a notificărilor de la { -brand-short-name }.
 manage-messenger-languages-button =
