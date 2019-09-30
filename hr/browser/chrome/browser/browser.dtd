@@ -763,7 +763,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Normalno">
-<!ENTITY fullZoomResetCmd.accesskey     "r">
+<!ENTITY fullZoomResetCmd.accesskey     "N">
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
@@ -771,8 +771,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomToggleCmd.label        "Uvećaj samo tekst">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
 
-<!ENTITY fullZoom.label                 "Uvećanje">
-<!ENTITY fullZoom.accesskey             "v">
+<!ENTITY fullZoom.label                 "Zumiraj">
+<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Zatvori bočnu traku">
 <!ENTITY sidebarMenuClose.label         "Zatvori bočnu traku">
