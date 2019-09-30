@@ -675,10 +675,10 @@ sync-engine-addons =
 sync-engine-prefs =
     .label =
         { PLATFORM() ->
-            [windows] Mga Option
+            [windows] Mga Pagpipilian
            *[other] Mga Kagustuhan
         }
-    .tooltiptext = Mga kagustuhan at pagpipilian naa iyong binago
+    .tooltiptext = Mga setting na pangkalahatan, pang-pribasiya, at pang-seguridad na iyong binago
     .accesskey = P
 
 ## The device name controls.
@@ -1057,8 +1057,8 @@ space-alert-over-5gb-pref-button =
         }
 space-alert-over-5gb-message =
     { PLATFORM() ->
-        [windows] Nauubusan na ng disk space ang { -brand-short-name }. Maaaring hindi mag-display nang maayos ang laman ng website. Pwede kang mag-clear ng naka-store na data sa Options > Privacy & Security > Mga Cookie at Site Data.
-       *[other] Nauubusan na ng disk space ang { -brand-short-name }. Maaaring hindi mag-display nang maayos ang laman ng website. Pwede kang mag-clear ng naka-store na data sa Options > Privacy & Security > Mga Cookie at Site Data.
+        [windows] Nauubusan na ng disk space ang { -brand-short-name }. Maaaring hindi mag-display nang maayos ang laman ng website. Pwede kang magbura ng nakaimbak na data sa Mga Pagpipilian > Pribasiya at Seguridad > Mga Cookie at Site Data.
+       *[other] Nauubusan na ng disk space ang { -brand-short-name }. Maaaring hindi mag-display nang maayos ang laman ng website. Pwede kang magbura ng nakaimbak na data sa Mga Kagustuhan > Pribasiya at Seguridad > Mga Cookie at Site Data.
     }
 space-alert-under-5gb-ok-button =
     .label = OK, Nakuha ko

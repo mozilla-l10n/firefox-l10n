@@ -114,8 +114,8 @@ confirmation-dialog-dismiss-button =
     .title = Kanselahin
 enable-password-sync-notification-message =
     { PLATFORM() ->
-        [windows] Gusto mo bang magamit ang mga login mo kahit saan mo dalhin ang { -brand-product-name }? Puntahan ang iyong mga Option sa { -sync-brand-short-name } at piliin ang Mga Login na checkbox.
-       *[other] Gusto mo bang magamit ang mga login mo kahit saan mo dalhin ang { -brand-product-name }? Puntahan ang iyong mga Preference sa { -sync-brand-short-name } at piliin ang Mga Login na checkbox.
+        [windows] Gusto mo bang magamit ang mga login mo kahit saan mo dalhin ang { -brand-product-name }? Puntahan ang iyong mga Pagpipilian sa { -sync-brand-short-name } at piliin ang Mga Login na checkbox.
+       *[other] Gusto mo bang magamit ang mga login mo kahit saan mo dalhin ang { -brand-product-name }? Puntahan ang iyong mga Kagustuhan sa { -sync-brand-short-name } at piliin ang Mga Login na checkbox.
     }
 enable-password-sync-preferences-button =
     .label =

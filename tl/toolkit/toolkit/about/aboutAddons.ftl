@@ -48,7 +48,7 @@ cmd-find-updates =
 cmd-preferences =
     .label =
         { PLATFORM() ->
-            [windows] Options
+            [windows] Mga Pagpipilian
            *[other] Mga Kagustuhan
         }
     .accesskey =
@@ -124,7 +124,7 @@ detail-check-for-updates =
 detail-show-preferences =
     .label =
         { PLATFORM() ->
-            [windows] Options
+            [windows] Mga Pagpipilian
            *[other] Mga Kagustuhan
         }
     .accesskey =
@@ -134,8 +134,8 @@ detail-show-preferences =
         }
     .tooltiptext =
         { PLATFORM() ->
-            [windows] Palitan ang options ng add-on na ito
-           *[other] Palitan ang preferences ng add-on na ito
+            [windows] Palitan ang mga pagpipilian ng add-on na ito
+           *[other] Palitan ang mga kagustuhan ng add-on na ito
         }
 detail-rating =
     .value = Marka
@@ -284,7 +284,7 @@ created-by-author = ni <a data-l10n-name="author">{ $author }</a>
 #   $dailyUsers (number) - The number of daily users.
 user-count = Mga gumagamit: { $dailyUsers }
 install-extension-button = Idagdag sa { -brand-product-name }
-install-theme-button = I-install ang Tema
+install-theme-button = Ikabit ang Tema
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Pamahalaan
