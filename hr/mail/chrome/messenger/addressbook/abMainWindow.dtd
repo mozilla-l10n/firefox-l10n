@@ -174,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.tooltip                                  "Pošalji instant poruku ili razgovor">
 <!ENTITY deleteButton2.tooltip                          "Obriši odabranu stavku">
 
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Adresari">
-
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Ime ili adresa e-pošte">
 <!ENTITY SearchNameOrEmail.accesskey                    "m">
@@ -243,4 +240,4 @@ because displayed names don't have the comma in between. -->
 <!ENTITY minimizeWindow.label                           "Minimiziraj">
 <!ENTITY minimizeWindow.key                             "m">
 <!ENTITY bringAllToFront.label                          "Postavi sve na vrh">
-<!ENTITY zoomWindow.label                               "Uvećanje">
+<!ENTITY zoomWindow.label                               "Zumiraj">

@@ -7,6 +7,6 @@ fonts-window-close =
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
-    .label = Zadano ({ $name })
+    .label = Zadani ({ $name })
 fonts-label-default-unnamed =
-    .label = Zadano
+    .label = Zadani
