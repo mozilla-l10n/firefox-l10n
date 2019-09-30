@@ -62,10 +62,14 @@ certificate-viewer-subject-alt-names = Téma réra mokõiha
 certificate-viewer-public-key-info = Marandu ñemiguáva
 certificate-viewer-miscellaneous = Jehe'apa
 certificate-viewer-fingerprints = Ñemokuãhũ
+certificate-viewer-basic-constraints = Jejoko’imi
 certificate-viewer-key-usages = Ojepuruvéva
 certificate-viewer-extended-key-usages = Ojepuru hetavéva
 certificate-viewer-ocsp-stapling = OCSP Tuichavéva
 certificate-viewer-subject-key-id = Téma ñemigua ID
+certificate-viewer-authority-key-id = Mburuvicha ñemigua ID
+certificate-viewer-authority-info-aia = Mburuvicha marandu (AIA)
+certificate-viewer-certificate-policies = Jerohoryvéva purureko
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Mboguejy
