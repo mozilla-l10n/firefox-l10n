@@ -638,7 +638,7 @@ sync-currently-syncing-prefs =
 
 sync-choose-what-to-sync-dialog =
     .title = Selige que synchronisar
-    .style = largessa: 36em; min-altitude: 35em;
+    .style = width: 36em; min-height: 35em;
     .buttonlabelaccept = Salvar le cambiamentos
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Disconnexion…

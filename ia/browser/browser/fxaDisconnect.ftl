@@ -4,7 +4,7 @@
 
 fxa-disconnect-dialog =
     .title = Disconnecter { -sync-brand-short-name }?
-    .style = largessa-max: 400px
+    .style = max-width: 400px
     .buttonlabelaccept = Disconnecter
     .buttonaccesskeyaccept = D
 disconnect-account = { -brand-short-name } se disconnectera de tu conto, ma non delera ullo de tu datos de exploration sur iste dispositivo.
