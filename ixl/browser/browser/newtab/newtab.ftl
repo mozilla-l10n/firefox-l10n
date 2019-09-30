@@ -28,11 +28,14 @@ newtab-topsites-title-input =
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Tz'ib'a o lak' u URL
+newtab-topsites-url-validation = Ni sab'el uma'l u b'anla URL
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Ya'sakan
+newtab-topsites-delete-history-button = Sojsa unq'a aq'one ve kat a pichu.
 newtab-topsites-save-button = Kola
+newtab-topsites-preview-button = Il B'axa
 newtab-topsites-add-button = Aq'o'ke'
 
 ## Top Sites - Delete history confirmation dialog. 
@@ -40,6 +43,8 @@ newtab-topsites-add-button = Aq'o'ke'
 
 ## Top Sites - Delete history confirmation dialog.
 
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = Ye' la uch iq'ab'isal u aq'one' vaa.
 
 ## Context Menu - Action Tooltips.
 
@@ -47,6 +52,10 @@ newtab-topsites-add-button = Aq'o'ke'
 newtab-menu-section-tooltip =
     .title = Jaj u tachul tatine'
     .aria-label = Jaj u tachul tatine'
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = B'an tuch u atimb'ale' vaa.
+    .aria-label = B'an tuch u atimb'ale' vaa.
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
