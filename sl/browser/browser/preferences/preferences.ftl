@@ -313,7 +313,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Vsebina upravljanja digitalnih pravic (DRM)
 play-drm-content =
@@ -562,6 +562,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Ponesite svoj splet s seboj
 sync-signedout-description = Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh vaših naprav.
 sync-signedout-account-title = Poveži s { -fxaccount-brand-name }om
@@ -582,11 +586,17 @@ sync-mobile-promo = Prenesite Firefox za <img data-l10n-name="android-icon"/> <a
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Spremeni sliko profila
 sync-disconnect =
     .label = Odklopi …
     .accesskey = k
+sync-sign-out =
+    .label = Odjava …
+    .accesskey = j
 sync-manage-account = Upravljanje računa
     .accesskey = U
 sync-signedin-unverified = { $email } ni potrjen.
@@ -602,6 +612,42 @@ sync-sign-in =
     .accesskey = P
 sync-signedin-settings-header = Nastavitve Synca
 sync-signedin-settings-desc = Izberite, kaj želite sinhronizirati med svojimi napravami s pomočjo { -brand-short-name }a
+
+## Sync section - enabling or disabling sync.
+
+prefs-sync-setup =
+    .label = Nastavi { -sync-brand-short-name } …
+    .accesskey = s
+prefs-sync-now =
+    .labelnotsyncing = Sinhroniziraj zdaj
+    .accesskeynotsyncing = z
+    .labelsyncing = Sinhroniziranje …
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = Trenutno se sinhronizirajo naslednji podatki:
+sync-currently-syncing-bookmarks = Zaznamki
+sync-currently-syncing-history = Zgodovina
+sync-currently-syncing-tabs = Odprti zavihki
+sync-currently-syncing-logins-passwords = Prijave in gesla
+sync-currently-syncing-addresses = Naslovi
+sync-currently-syncing-creditcards = Kreditne kartice
+sync-currently-syncing-addons = Dodatki
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Možnosti
+       *[other] Nastavitve
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Izberite, kaj želite sinhronizirati
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Shrani spremembe
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Odklopi …
+    .buttonaccesskeyextra2 = d
 sync-engine-bookmarks =
     .label = Zaznamke
     .accesskey = m
@@ -615,6 +661,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = Prijave
     .tooltiptext = Shranjena uporabniška imena in gesla
+    .accesskey = P
+sync-engine-logins-passwords =
+    .label = Prijave in gesla
+    .tooltiptext = Uporabniška imena in gesla, ki ste jih shranili
     .accesskey = P
 sync-engine-addresses =
     .label = Naslove
@@ -636,6 +686,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Spremenjene splošne nastavitve ter nastavitve zasebnosti in varnosti
     .accesskey = N
+
+## The device name controls.
+
 sync-device-name-header = Ime naprave
 sync-device-name-change =
     .label = Spremeni ime naprave …
@@ -823,7 +876,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Po meri
     .accesskey = m
 
-##
+
 
 content-blocking-etp-standard-desc = Uravnotežena zaščita in delovanje. Strani bodo delovale običajno.
 content-blocking-etp-strict-desc = Močnejša zaščita, ki pa lahko povzroči nedelovanje nekaterih strani ali vsebine.

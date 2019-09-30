@@ -38,3 +38,16 @@ certificate-viewer-signature-scheme = Podpisna shema
 certificate-viewer-timestamp = Časovni žig
 certificate-viewer-value = Vrednost
 certificate-viewer-version = Različica
+certificate-viewer-validity = Veljavnost
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] Da
+       *[false] Ne
+    }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+

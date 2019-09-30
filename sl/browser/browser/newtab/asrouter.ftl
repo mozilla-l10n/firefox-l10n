@@ -138,7 +138,13 @@ cfr-doorhanger-firefox-send-ok-button = Preizkusite { -send-brand-name }
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Oglejte si zaščite
+    .accesskey = g
 cfr-doorhanger-socialtracking-close-button = Zapri
     .accesskey = Z
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } je preprečil družbenemu omrežju, da bi vam tukaj sledilo
 cfr-doorhanger-socialtracking-description = Vaša zasebnost je pomembna. { -brand-short-name } zdaj zavrača običajne sledilce družbenih omrežij in omejuje, koliko podatkov lahko zberejo o tem, kar počnete na spletu.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } je na tej strani zavrnil sledilca prstnega odtisa brskalnika
+cfr-doorhanger-fingerprinters-description = Vaša zasebnost je pomembna. { -brand-short-name } sedaj zavrača sledilce prstnih odtisov, ki zbirajo edinstvene podatke o vaši napravi za vašo prepoznavo in sledenje.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } je na tej strani zavrnil kriptorudarja
+cfr-doorhanger-cryptominers-description = Vaša zasebnost je pomembna. { -brand-short-name } sedaj zavrača kriptorudarje, ki izkoriščajo zmogljivost vašega računalnika za rudarjenje digitalnega denarja.
