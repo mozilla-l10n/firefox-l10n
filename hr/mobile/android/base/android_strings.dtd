@@ -212,7 +212,7 @@
 <!ENTITY pref_category_search3 "Traži">
 <!ENTITY pref_category_search_summary2 "Dodaj, postavi zadano, prikaži prijedloge">
 <!ENTITY pref_category_accessibility "Pristupačnost">
-<!ENTITY pref_category_accessibility_summary2 "Veličina teksta, uvećanje, glasovni unos">
+<!ENTITY pref_category_accessibility_summary2 "Veličina teksta, zumiranje, glasovni unos">
 <!ENTITY pref_category_privacy_short "Privatnost">
 <!ENTITY pref_category_privacy_summary4 "Praćenje, prijave, izbori podataka">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
@@ -399,8 +399,8 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_media_autoplay_enabled "Dozvoli automatsku reprodukciju">
 <!ENTITY pref_media_autoplay_allow "Dozvoli automatsku reprodukciju">
 <!ENTITY pref_media_autoplay_block "Blokiraj automatsku reprodukciju">
-<!ENTITY pref_zoom_force_enabled "Uvijek omogući uvećanje">
-<!ENTITY pref_zoom_force_enabled_summary "Prisilno zaobiđi postavke tako da možete uvećati svaku stranicu">
+<!ENTITY pref_zoom_force_enabled "Uvijek omogući zumiranje">
+<!ENTITY pref_zoom_force_enabled_summary "Prisilno zaobiđi postavke tako da možeš zumirati svaku stranicu">
 <!ENTITY pref_voice_input "Glasovni unos">
 <!ENTITY pref_voice_input_summary2 "Dozvoli glasovni unos u URL traku">
 <!ENTITY pref_qrcode_enabled "Čitač QR koda">
