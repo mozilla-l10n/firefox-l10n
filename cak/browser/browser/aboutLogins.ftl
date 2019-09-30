@@ -61,6 +61,9 @@ about-logins-login-list-empty-search-description = Majun xilitäj achi'el ri nak
 login-list-item-title-new-login = K'ak'a' Tikirib'äl Molojri'ïl
 login-list-item-subtitle-new-login = Ke'atz'ib'aj ri taq retamab'al rutikirib'al molojri'ïl
 login-list-item-subtitle-missing-username = (majun rub'i' okisanel)
+about-logins-list-item-warning-icon =
+    .alt = Ruwachib'al k'ayewal
+    .title = Ajk'amaya'l ruxaq ojqan
 
 ## Introduction screen
 

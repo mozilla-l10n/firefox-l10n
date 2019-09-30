@@ -554,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Tak'waj awik'in ri Ajk'amaya'l
 sync-signedout-description = Ke'axima' ri taq ayaketal, natab'äl, taq ruwi', taq ewan tzij, taq tz'aqat chuqa' taq ajowab'äl chi kikojol konojel ri taq awokisaxel.
 sync-signedout-account-title = Tib'an okem rik'in jun { -fxaccount-brand-name }
@@ -574,11 +578,17 @@ sync-mobile-promo = Taqasaj Firefox richin <img data-l10n-name="android-icon"/> 
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Tijal ruwachib'al ruwäch b'i'aj
 sync-disconnect =
     .label = Tichup…
     .accesskey = c
+sync-sign-out =
+    .label = Titz'apïx Molojri'ïl…
+    .accesskey = p
 sync-manage-account = Tinuk'samajïx rub'i' taqoya'l
     .accesskey = y
 sync-signedin-unverified = { $email } man jikib'an ta.
@@ -594,6 +604,25 @@ sync-sign-in =
     .accesskey = t
 sync-signedin-settings-header = Taq Runuk'ulem Ximojri'ïl
 sync-signedin-settings-desc = Tacha' achike ye'axïm pa taq awokisaxel rik'in { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Nixim: TZIJÏL
+prefs-syncing-off = Nixim: CHUPÜL
+prefs-sync-setup =
+    .label = Tib'an runuk'ulem { -sync-brand-short-name }...
+    .accesskey = n
+prefs-sync-offer-setup-label = Ke'axima' ri taq ayaketal, natab'äl, taq ruwi', taq ewan tzij, taq tz'aqat chuqa' taq ajowab'äl chi kikojol konojel ri taq awokisaxel.
+prefs-sync-now =
+    .labelnotsyncing = Tixim Wakami
+    .accesskeynotsyncing = W
+    .labelsyncing = Nixim...
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Taq etal
     .accesskey = e
@@ -628,6 +657,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Chijun Runuk'ulem, Ichinanem chuqa' Jikomal e'ajalon
     .accesskey = a
+
+## The device name controls.
+
 sync-device-name-header = Rub'i' ri okisaxel
 sync-device-name-change =
     .label = Tijal rub'i' okisaxel…
