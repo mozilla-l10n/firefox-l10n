@@ -90,11 +90,16 @@ newtab-menu-remove-download = Sojsa unq'a vee pichumal s-an
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-open-file = Jaj u  aq'one'
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
+newtab-label-visited = Kat pichuli
+newtab-label-recommended = Achite' ni b'anb'el cheel.
+newtab-label-saved = Kat kulpu kan  tu{ -pocket-brand-name }
+newtab-label-download = Kat eq'ol kutzan.
 
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
