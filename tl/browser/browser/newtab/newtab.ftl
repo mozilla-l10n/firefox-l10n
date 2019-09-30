@@ -34,7 +34,7 @@ newtab-topsites-url-input =
     .placeholder = I-type o i-paste ang URL
 newtab-topsites-url-validation = Wastong URL ang kinakailangan
 newtab-topsites-image-url-label = URL ng Custom na Larawan
-newtab-topsites-use-image-link = Gamitin ang URL custom na larawan...
+newtab-topsites-use-image-link = Gumamit ng custom na larawan...
 newtab-topsites-image-validation = Nabigo ang pag-load ng larawan. Subukan ang ibang URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.

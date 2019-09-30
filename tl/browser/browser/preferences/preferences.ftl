@@ -261,7 +261,7 @@ applications-action-save =
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
-    .label = Gamitin { $app-name }
+    .label = Gamitin ang { $app-name }
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
@@ -381,10 +381,10 @@ performance-default-content-process-count =
 
 browsing-title = Pag-browse
 browsing-use-autoscroll =
-    .label = Gamitin ang autoscrolling
+    .label = Gumamit ng autoscrolling
     .accesskey = a
 browsing-use-smooth-scrolling =
-    .label = Gamitin ang smooth scrolling
+    .label = Gumamit ng smooth scrolling
     .accesskey = m
 browsing-use-onscreen-keyboard =
     .label = Ipakita ang touch keyboard kung kinakailangan

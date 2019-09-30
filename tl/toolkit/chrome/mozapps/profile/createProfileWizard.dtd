@@ -21,5 +21,5 @@
 <!ENTITY profileDefaultName             "Nakatakda na User">
 <!ENTITY button.choosefolder.label      "Piliin ang Folder…">
 <!ENTITY button.choosefolder.accesskey  "P">
-<!ENTITY button.usedefault.label        "gamitin default folder">
+<!ENTITY button.usedefault.label        "Gamitin ang Default Folder">
 <!ENTITY button.usedefault.accesskey    "u">
