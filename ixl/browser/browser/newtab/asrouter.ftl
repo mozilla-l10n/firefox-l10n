@@ -28,6 +28,9 @@ cfr-doorhanger-extension-learn-more-link = Ootzi ka'te
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = Ta'n { $name }
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-extension-notification = Uve ni taltziile'.
 
 ## Add-on statistics
 ## These strings are used to display the total number of
