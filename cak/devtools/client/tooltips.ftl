@@ -30,6 +30,8 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> majun nub'än pa re 
 inactive-css-not-flex-container = <strong>{ $property }</strong> majun nub'än chi re re ch'akulal re' ruma chi majun ta jalel k'wayöl.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> majun nub'än pa re wachinäq re', ruma majun ta wachinäq pa k'amab'ey o ruch'utikajtz'ik kajtz'ik.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> majun nub'än pa re wachinäq re', ruma k'o rutz'etik richin <strong>{ $display }</strong>.
+inactive-css-not-display-block-on-floated = Ri <strong>tz'etoj</strong> xujäl retal pa ri motor richin <strong>blok</strong> ruma chi ri ch'akulal <strong>jun k'o wi<strong>.
+inactive-css-property-is-impossible-to-override-in-visited = Tikirel niyuj <strong>{ $property }</strong> ruma ri q'atoj <strong>:xtz'et</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -39,9 +41,13 @@ inactive-css-not-grid-or-flex-container-fix = Titojtob'ëx nitz'aqatisäx <stron
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Titojtob'ëx nitz'aqatisäx <strong>display:grid</strong>, <strong>display:flex</strong>, o <strong>columns:2</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix = Titojtob'ëx nitz'aqatisäx <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-grid-item-fix = Titojtob'ëx nitz'aqatisäx <strong>display:grid</strong> o <strong>display:inline-grid</strong> chi re ri rach'alal cholna'oj. { learn-more }
+inactive-css-not-grid-or-flex-item-fix-2 = Titojtob'ëx nitz'aqatisäx <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, o <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-grid-item-fix-2 = Titojtob'ëx nitz'aqatisäx <strong>display:grid</strong> o <strong>display:inline-grid</strong> chi re ri rach'alal ch'akulal. { learn-more }
 inactive-css-not-grid-container-fix = Titojtob'ëx nitz'aqatisäx <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-flex-item-fix = Titojtob'ëx nitz'aqatisäx <strong>display:flex</strong> o <strong>display:inline-flex</strong> chi re ri rach'alal cholna'oj. { learn-more }
+inactive-css-not-flex-item-fix-2 = Titojtob'ëx nitz'aqatisäx <strong>display:flex</strong> o <strong>display:inline-flex</strong> chi re ri rach'alal ch'akulal. { learn-more }
 inactive-css-not-flex-container-fix = Titojtob'ëx nitz'aqatisäx <strong>display:flex</strong> o <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-inline-or-tablecell-fix = Titojtob'ëx nitz'aqatisäx <strong>display:inline</strong> o <strong>display:table-cell</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Titojtob'ëx nitz'aqatisäx <strong>display:inline-block</strong> o <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Titojtob'ëx nitz'aqatisäx <strong>display:inline-block</strong>. { learn-more }
+inactive-css-not-display-block-on-floated-fix = Tatojtob'ej nayüj <strong>jun k'o wi</strong> o tatz'aqatisaj <strong>display:block</strong>. { learn-more }
