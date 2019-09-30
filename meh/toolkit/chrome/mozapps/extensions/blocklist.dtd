@@ -3,5 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY blocklist.accept.label      "Nakajie´e &brandShortName;">
 <!ENTITY blocklist.accept.accesskey  "R">
 

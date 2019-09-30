@@ -6,9 +6,15 @@
 ### This file contains the entities needed for the 'edit' menu
 ### It's currently only used for the Browser Console and Developer Toolbox
 
+editmenu-cut =
+    .label = Ke´ne
+    .accesskey = K
 editmenu-copy =
     .label = Tɨɨn
     .accesskey = C
+editmenu-paste =
+    .label = Tee
+    .accesskey = T
 editmenu-delete =
     .label = Xita
     .accesskey = D

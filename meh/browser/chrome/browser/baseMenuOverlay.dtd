@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Chinei"> 
 <!ENTITY helpMenuWin.accesskey    "H">
+
 <!ENTITY aboutProduct2.label      "Jie'e &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "J">
 <!ENTITY productHelp2.label       "&brandShorterName; Chineii ">
@@ -23,7 +24,7 @@
 <!ENTITY helpKeyboardShortcuts.label     "Sa´a ñama iin kuvi jii a kaa tée">
 <!ENTITY helpKeyboardShortcuts.accesskey "S">
 
-<!ENTITY helpSafeMode.label       "Nakaji´e jii daa a nachisó-kúmani na´va...">
+<!ENTITY helpSafeMode.label       "Nakaji´e jii daa a nachisó-kúmani na´va…">
 <!ENTITY helpSafeMode.accesskey   "N">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 

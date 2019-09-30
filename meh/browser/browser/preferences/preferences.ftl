@@ -50,6 +50,7 @@ close-button =
 should-restart-title = Nakajie´e { -brand-short-name }
 should-restart-ok = Nakajie´e { -brand-short-name } ntañu´u
 cancel-no-restart-button = Nkuvi-ka
+restart-later = Nakajie'e inka ichi
 
 ## Extension Control Notifications
 ##
@@ -287,17 +288,6 @@ forms-saved-logins =
 ## Privacy Section - History
 
 history-header = Sɨ´ɨ
-# This label is followed, on the same line, by a dropdown list of options
-# (Remember history, etc.).
-# In English it visually creates a full sentence, e.g.
-# "Firefox will" + "Remember history".
-#
-# If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
-#   - As a stand-alone message, for example "Firefox history settings:".
-history-remember-label = { -brand-short-name }
-    .accesskey = w
 history-clear-on-close-settings =
     .label = Nake´i
     .accesskey = t

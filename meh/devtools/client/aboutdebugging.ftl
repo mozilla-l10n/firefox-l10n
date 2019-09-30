@@ -39,3 +39,5 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = Xita
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start = Kajie'e

@@ -116,6 +116,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 
 
+
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
 
@@ -158,6 +159,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 
 
 
@@ -224,11 +226,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY undoCmd.accesskey          "D">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "R">
+<!ENTITY cutCmd.label           "Ke´ne">
 <!ENTITY cutCmd.key             "X">
 <!ENTITY cutCmd.accesskey         "r">
 <!ENTITY copyCmd.label            "Tɨɨn">
 <!ENTITY copyCmd.key            "C">
 <!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label           "Tee">
 <!ENTITY pasteCmd.key           "V">
 <!ENTITY pasteCmd.accesskey         "P">
 <!ENTITY deleteCmd.label          "Xita">
@@ -533,6 +537,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY findOnCmd.accesskey "B">
 <!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Nánuku tuku">
 <!ENTITY findAgainCmd.accesskey "R">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
@@ -609,13 +614,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies jii datos nuu ya´a">
+
 
 
 
