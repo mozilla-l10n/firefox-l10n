@@ -51,6 +51,8 @@ cfr-doorhanger-pintab-animation-resume = Yakeb'en
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = B'an eela vatz  unq'a marcadore' ye kuxh eetza   tikat atkat.
+cfr-doorhanger-bookmark-fxa-link-text = B'an eela vatz cheel unq'a markaradore'.
 
 ## Protections panel
 

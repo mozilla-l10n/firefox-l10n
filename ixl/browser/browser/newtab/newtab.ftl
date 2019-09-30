@@ -21,9 +21,13 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-topsites-header = Ak atimb'al  vee ni chukpe'
 newtab-topsites-title-label = Ib'ii
 newtab-topsites-title-input =
     .placeholder = Aq'ku' ib'ii
+newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = Tz'ib'a o lak' u URL
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
