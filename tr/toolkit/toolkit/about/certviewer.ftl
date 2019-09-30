@@ -44,6 +44,10 @@ certificate-viewer-timestamp = Zaman damgası
 certificate-viewer-value = Değer
 certificate-viewer-version = Sürüm
 certificate-viewer-business-category = İş kategorisi
+certificate-viewer-validity = Geçerlilik
+certificate-viewer-miscellaneous = Diğer
+certificate-viewer-key-usages = Anahtar Kullanımları
+certificate-viewer-certificate-policies = Sertifika İlkeleri
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = İndir
@@ -55,3 +59,7 @@ certificate-viewer-boolean =
         [true] Evet
        *[false] Hayır
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+

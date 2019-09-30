@@ -142,3 +142,7 @@ cfr-doorhanger-socialtracking-close-button = Kapat
     .accesskey = a
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } bir sosyal ağın sizi izlemesini engelledi
 cfr-doorhanger-socialtracking-description = Gizliliğiniz bizim için önemli. { -brand-short-name } artık yaygın sosya medya takipçilerini engelliyor, böylece internette yaptıklarınız hakkında daha az veri toplayabilmelerini sağlıyor.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } bu sayfadaki bir parmak izi toplayıcıyı engelledi
+cfr-doorhanger-fingerprinters-description = Gizliliğiniz bizim için önemli. { -brand-short-name }, sizi izlemek için cihazınızı tanımlayabilecek bilgileri toplayan parmak izi toplayıcılarını kendiliğinden engelliyor.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } bu sayfadaki bir kripto madencisini engelledi
+cfr-doorhanger-cryptominers-description = Gizliliğiniz bizim için önemli. { -brand-short-name }, bilgisayarınızın işlemcisini dijital para üretmek için kullanan kripto madencilerini kendiliğinden engelliyor.
