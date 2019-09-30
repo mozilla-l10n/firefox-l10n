@@ -85,7 +85,7 @@
 <!ENTITY saveAllAttachmentsCmd.accesskey    "S">
 <!ENTITY detachAllAttachmentsCmd.label    "Tách rời tất cả…">
 <!ENTITY detachAllAttachmentsCmd.accesskey    "D">
-<!ENTITY deleteAllAttachmentsCmd.label    "Xoá tất cả…">
+<!ENTITY deleteAllAttachmentsCmd.label    "Xóa tất cả…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "e">
 
 <!ENTITY openAttachment.tooltip "Mở tập tin đính kèm">
