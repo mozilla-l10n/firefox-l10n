@@ -108,6 +108,7 @@ newtab-label-download = Kat eq'ol kutzan.
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-move-up = Al ije'e'
 
 ## Section aria-labels
 
