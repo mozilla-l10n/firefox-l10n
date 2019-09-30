@@ -10,6 +10,16 @@ about-config-warning-button = Ta'le'n ve'te' asoj la yani
 about-config2-title = Nim ib'anax ve't tuche'
 about-config-search-input =
     .placeholder = Chuka
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Yakeb'en ti jik'il
+about-config-intro-warning-checkbox = La alax  svej tul uva' la ok in tu  joltu aq'on.
+about-config-intro-warning-button = Kam  kuxh valexh tuk' a paleb'e tane tan la yak'eb'axh.
+
+
+
+about-config-page-title = Aq'on ve ti talche'.
 about-config-search-input1 =
     .placeholder = Ib'ii unq'a vee' uve' palchit achukata'
 about-config-show-all = K'uch kaajayil
