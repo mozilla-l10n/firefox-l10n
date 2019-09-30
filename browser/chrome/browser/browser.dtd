@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privatno pretraživanje)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privatno pregledavanje)">
 
 <!ENTITY appmenu.tooltip                     "Otvori izbornik">
 <!ENTITY navbarOverflow.label                "Više alata…">
@@ -1053,7 +1053,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY uiTour.infoPanel.close "Zatvori">
 
 <!ENTITY panicButton.thankyou.msg1                "Vaša nedavna povijest je obrisana.">
-<!ENTITY panicButton.thankyou.msg2                "Sigurno pretraživanje!">
+<!ENTITY panicButton.thankyou.msg2                "Sigurno pregledavanje!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Hvala!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Saznajte više o DRM-u…">

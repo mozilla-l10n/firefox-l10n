@@ -72,8 +72,8 @@ onboarding-benefit-privacy-text = Sve što radimo poštuje naše obećanje o oso
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
-onboarding-private-browsing-title = Privatno pretraživanje
-onboarding-private-browsing-text = Pretražujte sami. Privatno pretraživanje s blokiranjem sadržaja blokira pratitelje koji vas prate po internetu.
+onboarding-private-browsing-title = Privatno pregledavanje
+onboarding-private-browsing-text = Pregledaj web anonimno. Privatno pregledavanje s blokiranjem sadržaja blokira pratitelje koji vas prate po internetu.
 onboarding-screenshots-title = Snimke ekrana
 onboarding-screenshots-text = Snimite, spremite i dijelite snimke ekrana - bez napuštanja { -brand-short-name }a. Snimite dio ili cijelu stranicu dok pretražujete. Onda spremite na internet za brzi pristup i dijeljenje.
 onboarding-addons-title = Dodaci
@@ -94,7 +94,7 @@ onboarding-firefox-monitor-title = Budite upozoreni na curenje podataka
 onboarding-firefox-monitor-text = { -monitor-brand-name } nadzire pojavljuje li se vaša adresa e-pošte u podacima koji su procurili na Internet i obavještava vas ukoliko otkrije.
 onboarding-firefox-monitor-button = Prijavite se za obavijesti
 onboarding-browse-privately-title = Pretražujte privatno
-onboarding-browse-privately-text = Privatno pretraživanje briše povijest pretraživanja i pregledavanja kako bi ostalo skriveno od ostalih koje koriste isto računalo.
+onboarding-browse-privately-text = Privatno pregledavanje briše povijest pretraživanja i pregledavanja kako bi ostalo skriveno od ostalih koje koriste isto računalo.
 onboarding-browse-privately-button = Otvori privatni prozor
 onboarding-firefox-send-title = Držite svoje dijeljene datoteke privatnima
 onboarding-firefox-send-text2 = Prenesite svoje datoteke na { -send-brand-name } kako biste ih dijelili s potpunom enkripcijom i poveznicom koja se automatski briše.
