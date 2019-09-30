@@ -52,6 +52,12 @@ newtab-confirm-delete-history-p2 = Ye' la uch iq'ab'isal u aq'one' vaa.
 newtab-menu-section-tooltip =
     .title = Jaj u tachul tatine'
     .aria-label = Jaj u tachul tatine'
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Jaj u tachul tatine'
+    .aria-label = Jaj u tachul tatine' tetz{ $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = B'an tuch u atimb'ale' vaa.
@@ -60,7 +66,16 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = B'an tuche'
+newtab-menu-open-new-window = Jaj ma't ak tzikab'al.
 newtab-menu-dismiss = Eesa kan
+newtab-menu-pin = PIN
+newtab-menu-unpin = Chajpu
+newtab-menu-delete-history = Sojsa unq'a vee pich'umal s-an.
+newtab-menu-save-to-pocket = kolkan tu{ -pocket-brand-name }
+newtab-menu-delete-pocket = Sojsa tetz{ -pocket-brand-name }
+newtab-menu-archive-pocket = Kol  u aq'one' tu{ -pocket-brand-name }
+# Bookmark is a noun in this case, "Remove bookmark".
+newtab-menu-remove-bookmark = Sojsa u taq'il u aq'one'.
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -69,6 +84,7 @@ newtab-menu-dismiss = Eesa kan
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-remove-download = Sojsa unq'a vee pichumal s-an
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
