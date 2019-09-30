@@ -9,10 +9,7 @@
 <!ENTITY retry.label "Titojtob'ëx chik">
 <!ENTITY returnToPreviousPage.label "Titzolin">
 <!ENTITY returnToPreviousPage1.label "Titzolïx (Chilab'en)">
-<!ENTITY advanced.label "Q'axinäq">
-<!ENTITY continue2.label "Ch'aqa' chik…">
 <!ENTITY advanced2.label "Q'axinäq…">
-<!ENTITY moreInformation.label "Ch'aqa' chik rutzijol">
 <!ENTITY viewCertificate.label "Titz'et iqitzijib'äl">
 
 <!-- Specific error messages -->
@@ -92,13 +89,11 @@
 <!ENTITY nssFailure2.title "Xq'ate' ri ütz okem">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Man tikirel ta nik'ut pe ri ruxaq tajin natojtob'ej najäq ruma man tikirel ta nijikib'äx nitz'et chi e qitzij ri taq tzij.</li> <li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "Itzel ri awokem">
 <!ENTITY certerror.longpagetitle2 "Rutzijol K'ayewal: Nimaläj Ruk'ayewal Jikomal Petenäq">
 <!ENTITY certerror.sts.longpagetitle  "Man Xok Ta: Jikïl jun Ruk'ayewal Jikomal">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Ri rajaw re <span class='hostname'/> man ütz ta xunuk'ub'ej ri ruxaq k'amaya'l.  Richin natob'ej ri awetamab'al richin man teleq'äx, &brandShortName; man xatrokisaj ta pa re ruxaq k'amaya'l re'.">
 <!ENTITY certerror.introPara2 "&brandShortName; xrïl jun nïy ritzelanel jikomal ruma ri' toq man xub'än ta chik <span class='hostname'/>. We natz'et re ruxaq re', ri ojqanela' yetikïr nikitojtob'ej nikeleq'aj awetamab'al achi'el ewan taq atzij, ataqoya'l o rutzij ri ch'utit'im pwäq.">
 <!ENTITY certerror.sts.introPara "&brandShortName; xrïl jun itzilanel ruk'ayewal jikomal chuqa' man xb'e ta pa <span class='hostname'/> ruma re ajk'amaya'l ruxaq re' narajo' jun jikïl okem.">
 
@@ -133,8 +128,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Sachoj ruma itzel rupam">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ri ruxaq wuj tajin natojtob'ej natz'ët man tikirel ta nik'ut pe ruma xilitäj jun sachoj toq yeq'alajisäx pe ri taq tzij.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Titz'aqatisäx jun man relik ta…">
 <!ENTITY securityOverride.exceptionButton1Label "Xinwetamaj ri K'ayewal chuqa' Tinsamajij el">
 
 <!ENTITY errorReporting.automatic2 "Taya' kitzijol k'ayewal achi'el re ruwäch re' richin nato' ri Mozilla chi nuya' ketal chuqa' yeruq'ät itzel taq ruxaq k'amaya'l.">
@@ -148,16 +141,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Q'axinäq chi etamab'äl: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; man xok ta pa <span id='wrongSystemTime_URL'/> man tikirel ta ruma chi ri ch'utiq'ijub'äl nuk'üp pe ju sachoj ramaj, ri nub'än chi man ütz ta ri okem.</p> <p>Ri akematz'ib' nujikib'a' <span id='wrongSystemTime_systemDate'/>, toq k'o chi <span id='wrongSystemTime_actualDate'/>. Richin nisol re k'ayewal re', tajala' ri runuk'ulem q'ijul chuqa' ramaj richin nuk'äm ri' rik'in ri ütz ramaj.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; man xok ta pa <span id='wrongSystemTimeWithoutReference_URL'/> man tikirel ta ruma chi ri ch'utiq'ijub'äl nuk'üt pe jun sachoj ramaj, ri nub'än chi man ütz ta ri okem.</p> <p>Ri akematz'ib' nujikib'a' <span id='wrongSystemTimeWithoutReference_systemDate'/>. Richin nisol re k'ayewal re', tajala' ri runuk'ulem q'ijul chuqa' ri ramaj richin nuk'äm ri' rik'in ri ütz ramaj.</p>">
-
-<!ENTITY certerror.pagetitle1  "Man ütz ta chi okem">
 <!ENTITY certerror.pagetitle2  "Rutzijol K'ayewal: Nimaläj Ruk'ayewal Jikomal Petenäq">
 <!ENTITY certerror.sts.pagetitle  "Man Xok Ta: Jikïl jun Ruk'ayewal Jikomal">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Re ruxaq k'amaya'l re' kan nrokisaj Nïm Ruchajinïk Ruk'wayöl HTTP (HSTS) richin nuya' retal chi &brandShortName; xa xe tokrik'in rija' pa ütz rub'anikil. Rin nib'e'el chi man nitikïr ta nutz'aqtisaj jun man relik ta chi re reruwujil b'i'aj re'.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span>k'o jun runa'ojil jikomal b'ina'am HTTP Jikïl Ruk'waxik Jikomal (HSTS), ri nuq'ajuj chi ri &brandShortName; xa xe nitikïr nok pa ütz jikomal. Man yatikïr ta natz'aqatisaj jun man relik ta richin natz'ët re ruxaq re'.">
 <!ENTITY certerror.copyToClipboard.label "Tiwachib'ëx ri rucholajem tzij pa molwuj">
 
@@ -180,6 +165,10 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Achi'el ta chi ja ri runuk'ulem rujikomal k'amab'ey, ri nib'ano re re'. ¿La nawajo' chi nitzolïx ri runuk'ulem kan k'o wi?">
 <!ENTITY prefReset.label "Titzolïx ri runuk'ulem kan k'o wi">
+
+<!ENTITY enableTls10.longDesc "Rik'in jub'a' re ajk'amaya'l ruxaq man nuk'äm ta ri rik'in ri TLS 1.2 rub'eyal samaj, ja ri ruwäch nik'ul ruma &brandShortName;. TWe yetzij TLS 1.0 chuqa' TLS 1.1 rik'in jub'a' nuya' q'ij chi re okem re' ütz nub'än.">
+<!ENTITY enableTls10.note "TLS 1.0 chuqa' TLS 1.1 xkechuputäj pa jun ruwäch ri chwa'q kab'ij.">
+<!ENTITY enableTls10.label "Ketzij TLS 1.0 chuqa' 1.1">
 
 <!ENTITY networkProtocolError.title "Rusachoj Rub'eyal Nisamäj K'amb'ey">
 <!ENTITY networkProtocolError.longDesc "<p>Man tikirel ta nik'ut ri ruxaq nawajo' natz'ët ruma xilitäj jun sachoj chi rij rub'eyal nisamäj k'amab'ey.</p><ul><li>Katzijon rik'in ri rajaw ajk'amaya'l ruxaq richin naya' rutzijol re k'ayewal re'.</li></ul>">

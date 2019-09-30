@@ -47,4 +47,9 @@ accessibility-text-label-issue-toolbar = K'o chi k'o ketal ri kikajtz'ik samajib
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = Ri taq ch'akulal tikirel niya' ketal k'o ta chi silonel ruq'ajarib'al. <a>Tetamäx ch'aqa' chik</a>
+accessibility-keyboard-issue-tabindex = Man tawokisaj <code>tabindex</code> b'anikil nïm chuwäch wa'ix. <a>Tetamäx ch'aqa' chik</a>
+accessibility-keyboard-issue-action = Ri silonel taq ch'akulal k'o chi tikirel yetzij rik'in jun pitz'b'äl. <a>Tetamäx ch'aqa' chik</a>
 accessibility-keyboard-issue-focusable = K'o chi ya'on ketal ri silonel taq wachinäq. <a>Tetamäx ch'aqa' chik</a>
+accessibility-keyboard-issue-focus-visible = Ri ya'on retal ch'akulal rik'in jub'a' nrajo' na rub'anikil ya'oj retal. <a>Tetamäx ch'aqa' chik</a>
+accessibility-keyboard-issue-mouse-only = Ri taq ch'akulal tikirel yepitz' k'o chi tikirel niya' ketal chuqa' k'o ta chi silonel ruq'ajarib'al. <a>Tetamäx ch'aqa' chik</a>

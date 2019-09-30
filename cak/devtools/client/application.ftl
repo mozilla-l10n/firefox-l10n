@@ -69,8 +69,17 @@ serviceworker-empty-suggestions-debugger = Tatz'eta' rutz'ib'axik ri Service Wor
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Ke'anik'oj ri Service Workers kichin ch'aqa' chik taq ajk'amal. <a>Tijaq about:debugging</a>
+# Header for the Manifest page when we have an actual manifest
+manifest-view-header = Rutzijoxik Chokoy
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = K'o chi nitz'aqatisäx jun Rutzijoxik ajk'amaya'l chokoy richin ninik'öx wawe'. <a>Tetamäx ch'aqa' chik</a>
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Taq Sachoj chuqa' Kitzijol K'ayewal
 # Header for the Identity section of Manifest inspection displayed in the application panel.
 manifest-item-identity = B'anikil
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Ruk'utik
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = Taq wachib'äl
 # Text displayed while we are loading the manifest file
@@ -81,3 +90,22 @@ manifest-loaded-ok = Xjotob'äx tzijoxïk.
 manifest-loaded-error = K'ulwachitäj sachoj toq nijotob'äx ri rutzijoxik:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Majun rutzijoxik xilitäj richin ninik'öx.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Ri tzijoxik k'o pa jun URL richin tzij.
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Rutzijoxik
+    .alt = Ruwachib'al rutzijoxik
+    .title = Rutzijoxik
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Service Workers
+    .alt = Ruwachib'al Service Workers
+    .title = Service Workers
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Ruwachib'al K'ayewal
+    .title = K'ayewal
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Ruwachib'al sachoj
+    .title = Sachoj
