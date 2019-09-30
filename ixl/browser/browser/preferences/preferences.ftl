@@ -9,10 +9,14 @@ pref-page =
             [windows] Unka'te
            *[other] Uve' ni chit asa'
         }
+pane-home-title = Ixe´te'ba'l
+category-home =
+    .tooltiptext = { pane-home-title }
 pane-search-title = Chuka
 category-search =
     .tooltiptext = { pane-search-title }
 pane-sync-title2 = { -sync-brand-short-name }
+help-button-label = { -brand-short-name }locho'm
 focus-search =
     .key = f
 close-button =
@@ -76,7 +80,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 play-drm-content-learn-more = Ootzi ka'te
 update-in-progress-ok-button = &Eesa kan
@@ -128,10 +132,29 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-manage-account = La eel isuuchil u atinb'ale'
     .accesskey = o
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
+
+## The device name controls.
+
 sync-device-name-cancel =
     .label = Ya'sakan
     .accesskey = n
@@ -170,7 +193,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Eetz chitu'
     .accesskey = C
 
-##
+
 
 content-blocking-cookies-label =
     .label = Cookies
