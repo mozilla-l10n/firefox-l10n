@@ -188,6 +188,7 @@ language-name-tlh = Klingonca
 language-name-tn = Tswana Dili
 language-name-to = Tonga Dili
 language-name-tr = Türkçe
+language-name-trs = Triqui
 language-name-ts = Tsonga Dili
 language-name-tt = Tatarca
 language-name-tw = Twi Dili
