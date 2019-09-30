@@ -166,7 +166,7 @@ menu-view-bidi-switch-page-direction =
 
 menu-history =
     .label = Historija
-    .accesskey = s
+    .accesskey = H
 menu-history-show-all-history =
     .label = Wšu historiju pokazać
 menu-history-clear-recent-history =
@@ -202,7 +202,7 @@ menu-bookmarks-mobile =
 
 menu-tools =
     .label = Nastroje
-    .accesskey = N
+    .accesskey = s
 menu-tools-downloads =
     .label = Sćehnjenja
     .accesskey = h
