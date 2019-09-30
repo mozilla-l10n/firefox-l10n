@@ -44,11 +44,11 @@
 <!ENTITY viewMenu_label "Pogled">
 <!ENTITY viewMenu_accesskey "l">
 <!ENTITY viewMenu_zoomin_label "Uvećaj">
-<!ENTITY viewMenu_zoomin_accesskey "I">
+<!ENTITY viewMenu_zoomin_accesskey "U">
 <!ENTITY viewMenu_zoomout_label "Umanji">
-<!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_zoomout_accesskey "m">
 <!ENTITY viewMenu_resetzoom_label "Vrati zumiranje">
-<!ENTITY viewMenu_resetzoom_accesskey "U">
+<!ENTITY viewMenu_resetzoom_accesskey "V">
 
 <!ENTITY projectButton_label "Otvori aplikaciju">
 
