@@ -312,8 +312,8 @@
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Postavi veličinu fonta">
-<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Smanji veličinu fonta">
-<!ENTITY increaseFontSizeToolbarCmd.tooltip "Povećaj veličinu fonta">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Manja veličina fonta">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Veća veličina fonta">
 <!ENTITY boldToolbarCmd.tooltip "Podebljano">
 <!ENTITY italicToolbarCmd.tooltip "Kurziv">
 <!ENTITY underlineToolbarCmd.tooltip "Podvučeno">
