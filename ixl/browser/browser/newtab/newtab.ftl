@@ -109,12 +109,14 @@ newtab-label-download = Kat eq'ol kutzan.
 ## meant as a call to action for the given section.
 
 newtab-section-menu-move-up = Al ije'e'
+newtab-section-menu-move-down = Ok'utzan
 
 ## Section aria-labels
 
 
 ## Section Headers.
 
+newtab-section-header-highlights = Ni lib'lolan
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
