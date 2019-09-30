@@ -435,7 +435,7 @@ home-mode-choice-default =
 home-mode-choice-custom =
     .label = Custom URLs...
 home-mode-choice-blank =
-    .label = Blank Page
+    .label = Blangkong Pahina
 home-homepage-custom-url =
     .placeholder = I-paste ang URL...
 # This string has a special case for '1' and [other] (default). If necessary for

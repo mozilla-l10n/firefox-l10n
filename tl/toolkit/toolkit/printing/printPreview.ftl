@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 printpreview-simplify-page-checkbox =
-    .label = Simplehan ang Page
+    .label = Pasimplehin ang Pahina
     .accesskey = i
     .tooltiptext = Ang pahinang ito ay hindi mapapasimple nang kusa
 printpreview-simplify-page-checkbox-enabled =
@@ -11,7 +11,7 @@ printpreview-simplify-page-checkbox-enabled =
     .accesskey = { printpreview-simplify-page-checkbox.accesskey }
     .tooltiptext = Baguhin ang layout para sa madaling pagbabasa
 printpreview-close =
-    .label = Close
+    .label = Isara
     .accesskey = C
 printpreview-portrait =
     .label = Patayo
@@ -25,7 +25,7 @@ printpreview-scale =
 printpreview-shrink-to-fit =
     .label = Paliitin Para Magkasya
 printpreview-custom =
-    .label = Custom…
+    .label = Pasadya…
 printpreview-print =
     .label = I-print...
     .accesskey = p
