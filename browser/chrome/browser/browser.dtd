@@ -997,6 +997,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection4.label "Sledilna vsebina">
 
 <!ENTITY contentBlocking.manageSettings2.label "Upravljanje nastavitev zaščite">
+<!ENTITY contentBlocking.manageSettings2.accesskey "U">
 
 <!ENTITY contentBlocking.socialblock.label "Sledilci družbenih omrežij">
 

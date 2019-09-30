@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Celoten zaslon
     .accesskey = C
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Prikaži vse zavihke
@@ -212,6 +212,12 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Prijava v { -sync-brand-short-name } …
     .accesskey = n
+menu-tools-fxa-sign-in =
+    .label = Prijava v { -brand-product-name } …
+    .accesskey = j
+menu-tools-turn-on-sync =
+    .label = Vklopi { -sync-brand-short-name } …
+    .accesskey = V
 menu-tools-sync-now =
     .label = Sinhroniziraj
     .accesskey = n
