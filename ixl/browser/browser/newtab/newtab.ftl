@@ -123,6 +123,7 @@ newtab-section-header-highlights = Ni lib'lolan
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Txiyel axh.
 
 ## Pocket Content Section.
 
