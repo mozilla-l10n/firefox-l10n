@@ -33,6 +33,7 @@ printpreview-of =
     .value = kokku
 printpreview-custom-prompt =
     .value = Kohandatud mõõtkava…
+printpreview-custom-scale-prompt-title = Kohandatud mõõtkava
 printpreview-page-setup =
     .label = Lehekülje sätted…
     .accesskey = j
