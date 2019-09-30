@@ -18,7 +18,7 @@
 <!ENTITY addOtherAccountButton.accesskey "O">
 <!ENTITY setDefaultButton.label "Đặt làm mặc định">
 <!ENTITY setDefaultButton.accesskey "D">
-<!ENTITY removeButton.label "Xoá tài khoản">
+<!ENTITY removeButton.label "Xóa tài khoản">
 <!ENTITY removeButton.accesskey "R">
 
 <!-- AccountManager.xul -->

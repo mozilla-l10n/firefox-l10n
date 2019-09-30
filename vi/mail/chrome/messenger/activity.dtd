@@ -28,7 +28,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.close.commandkey             "w">
 <!ENTITY cmd.close2.commandkey            "j">
 <!ENTITY cmd.close2Unix.commandkey        "y">
-<!ENTITY cmd.clearList.label              "Xoá danh sách">
+<!ENTITY cmd.clearList.label              "Xóa danh sách">
 <!ENTITY cmd.clearList.tooltip            "Xóa các mục đã hoàn thành, hủy bỏ và không thành công khỏi danh sách">
 <!ENTITY cmd.clearList.accesskey          "c">
 <!ENTITY cmd.find.commandkey              "f">
