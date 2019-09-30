@@ -62,12 +62,23 @@ download-header = Omal kutzan kam
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } kolb'al aaq'on
 # Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = La b'anb'el{ $app-name }
+applications-use-other =
+    .label = B'anb'e umate.
+applications-select-helper = Txa uma't  aplicador auxiliar
+applications-always-ask =
+    .label = Meresteel la ch'oti.
+# Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+applications-preview-inapp =
+    .label = La sajil b'axa{ -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -91,6 +102,8 @@ applications-use-other-label =
 
 
 play-drm-content-learn-more = Ootzi ka'te
+update-pref-write-failure-title = Yansamal itz'ib'ale'
+update-in-progress-message = Na sa' { -brand-short-name }la yakep u actualisasione'
 update-in-progress-ok-button = &Eesa kan
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -112,6 +125,9 @@ browsing-cfr-recommendations-learn-more = Ootzi ka'te
 ## General Section - Proxy
 
 network-proxy-connection-learn-more = Ootzi ka'te
+network-proxy-connection-settings =
+    .label = ib'anax tuche'
+    .accesskey = b
 
 ## Home Section
 
