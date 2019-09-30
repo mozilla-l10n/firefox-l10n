@@ -23,20 +23,20 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Akun">
 <!ENTITY firstrun_sync_message2 "Mulai dari situasi saat Anda pergi.">
+<!ENTITY firstrun_sync_message3 "Sinkronkan markah, riwayat, dan sandi ke telepon Anda.">
 <!ENTITY firstrun_sync_subtext2 "Gunakan Sync untuk menemukan markah, sandi, dan hal lainnya yang Anda simpan ke &brandShortName; di semua peranti Anda.">
 <!ENTITY newfirstrun_sync_subtext "Sinkronkan hal-hal yang Anda simpan di ponsel ke Firefox untuk desktop, secara pribadi dan aman.">
 <!ENTITY updatednewfirstrun_sync_subtext "Masuk ke akun Anda untuk memaksimalkan &brandShortName;">
 <!ENTITY firstrun_signin_message "Sambungkan, dan mulai">
+<!ENTITY firstrun_sendtab_message "Bagikan tab dari ponsel ke desktop — secara instan.">
 <!ENTITY firstrun_signin_button "Masuk ke Sync">
 <!ENTITY newfirstrun_signin_button "Aktifkan Sync">
 <!ENTITY updatednewfirstrun_signin_button "Masuk ke &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Mulai Menjelajah">
+<!ENTITY onboard_start_button_browser "Mulai Menjelajah">
 <!ENTITY firstrun_button_notnow "Tidak saat ini">
 <!ENTITY firstrun_button_next "Selanjutnya">
 
 <!ENTITY firstrun_signin_button2 "Masuk">
-
-<!ENTITY firstrun_signup_button "Daftar">
 
 <!ENTITY firstrun_tabqueue_title "Tautan">
 
@@ -48,6 +48,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Anda">
 <!ENTITY firstrun_account_message "Punya &brandShortName; di perangkat lainnya?">
+
+<!ENTITY firstrun_signup_button "Daftar">
 
 <!ENTITY  onboard_start_restricted1 "Tetap aman dan dalam kendali dengan versi yang disederhanakan dari &brandShortName; ini.">
 
@@ -692,6 +694,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Anda tersambung ke">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
