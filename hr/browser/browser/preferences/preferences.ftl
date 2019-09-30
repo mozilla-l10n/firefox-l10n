@@ -763,10 +763,10 @@ history-remember-option-custom =
 history-remember-description = { -brand-short-name } će zapamtiti vašu povijest pregledavanja, preuzimanja, obrazaca i pretraživanja.
 history-dontremember-description = { -brand-short-name } će koristiti iste postavke kao i za privatno pretraživanje, te neće pamtiti povijest pretraživanja.
 history-private-browsing-permanent =
-    .label = Uvijek koristi privatni način pretraživanja
+    .label = Uvijek koristi privatno pregledavanje
     .accesskey = v
 history-remember-browser-option =
-    .label = Zapamti povijest pretraživanja i preuzimanja
+    .label = Zapamti povijest pregledavanja i preuzimanja
     .accesskey = p
 history-remember-search-option =
     .label = Zapamti povijest traženja i formi
@@ -793,7 +793,7 @@ sitedata-learn-more = Saznajte više
 sitedata-delete-on-close =
     .label = Obriši kolačiće i podatke stranica kada je { -brand-short-name } zatvoren
     .accesskey = c
-sitedata-delete-on-close-private-browsing = U trajnom privatnom načinu pretraživanja, kolačići i podaci o web stranicama uvijek će biti obrisani kada se zatvori { -brand-short-name }.
+sitedata-delete-on-close-private-browsing = U trajnom privatnom pregledavanju, kolačići i podaci o web stranicama će uvijek biti obrisani kad se zatvori { -brand-short-name }.
 sitedata-allow-cookies-option =
     .label = Prihvati kolačiće i podatke web stranica
     .accesskey = a
@@ -831,7 +831,7 @@ sitedata-cookies-permissions =
 addressbar-header = Adresna traka
 addressbar-suggest = Pri korištenju adresne trake, predloži
 addressbar-locbar-history-option =
-    .label = Povijest pretraživanja
+    .label = Povijest pregledavanja
     .accesskey = P
 addressbar-locbar-bookmarks-option =
     .label = Zabilješke
@@ -862,7 +862,7 @@ content-blocking-setting-custom =
 content-blocking-standard-desc = Uravnoteženo za zaštitu i performanse. Dozvoli neke pratitelje tako da webstranice funkcioniraju ispravno.
 content-blocking-strict-description = Snažnija zaštita, može uzrokovati pucanje nekih web stranica.
 content-blocking-custom-desc = Odaberite što blokirati.
-content-blocking-private-trackers = Poznati pratitelji samo u Privatnom pretraživanju
+content-blocking-private-trackers = Poznati programi za praćenje samo u privatnim prozorima
 content-blocking-third-party-cookies = Kolačići za praćenje trećih strana
 
 ## These strings are used to define the different levels of
@@ -1069,7 +1069,7 @@ space-alert-over-5gb-message =
 space-alert-under-5gb-ok-button =
     .label = U redu, razumijem
     .accesskey = U
-space-alert-under-5gb-message = { -brand-short-name } ostaje bez prostora. Sadržaji stranica se možda neće dobro prikazati. Posjetite “Saznajte više” kako biste optimizirali svoje korištenje diskovnog prostora za bolje iskustvo pretraživanja.
+space-alert-under-5gb-message = { -brand-short-name }u ponestaje memorije. Sadržaji stranica se možda neće dobro prikazati. Posjetite “Saznajte više” kako biste optimirali korištenje memorije za bolje iskustvo tijekom pregledavanja.
 
 ## The following strings are used in the Download section of settings
 

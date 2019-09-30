@@ -46,7 +46,7 @@ clear-time-duration-suffix =
 
 history-section-label = Povijest
 item-history-and-downloads =
-    .label = Povijest pretraživanja i preuzimanja
+    .label = Povijest pregledavanja i preuzimanja
     .accesskey = v
 item-cookies =
     .label = Kolačići
