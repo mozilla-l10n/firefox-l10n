@@ -9,7 +9,7 @@
 <!ENTITY newfirstrun_urlbar_subtext "Brz, privatak i na vašoj strani.">
 <!ENTITY firstrun_panel_title_privacy "Privatnost">
 <!ENTITY firstrun_privacy_message "Pretražujte kao da vas nitko ne gleda">
-<!ENTITY firstrun_privacy_subtext "Privatno pretraživanje sa zaštitom od praćenja blokira praćenje dok pretražujete i neće pamtiti vašu povijest nakon što završite s pretraživanjem.">
+<!ENTITY firstrun_privacy_subtext "Privatno pregledavanje sa zaštitom od praćenja, blokira programe za praćenje tijekom tvog pregledavanja i neće pamtiti povijest tvojih radnji nakon što završiš s pregledavanjem.">
 <!ENTITY newfirstrun_privacy_subtext "Privatno pregledavanje blokira praćenje diljem Interneta.">
 <!ENTITY firstrun_panel_title_customize "Prilagodi">
 <!ENTITY firstrun_customize_message "Učinite &brandShortName; svojim.">
@@ -308,7 +308,7 @@
 <!ENTITY pref_donottrack_summary "&brandShortName; će reći stranicama da ne želite biti praćeni">
 
 <!ENTITY pref_tracking_protection_enabled "Omogućeno">
-<!ENTITY pref_tracking_protection_enabled_pb "Omogućeno u Privatnom pretraživanju">
+<!ENTITY pref_tracking_protection_enabled_pb "Omogućeno u privatnom pregledavanju">
 <!ENTITY pref_tracking_protection_disabled "Onemogućeno">
 
 <!ENTITY pref_whats_new_notification "Šta je novo u &brandShortName;">
@@ -417,7 +417,7 @@ shown from Android O while a tab is being queued.-->
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Otvorene kartice">
-<!ENTITY pref_private_data_history2 "Povijest pretraživanja">
+<!ENTITY pref_private_data_history2 "Povijest pregledavanja">
 <!ENTITY pref_private_data_searchHistory "Povijest pretraživanja">
 <!ENTITY pref_private_data_formdata2 "Povijest obrazaca">
 <!ENTITY pref_private_data_cookies2 "Kolačići i aktivne prijave">
@@ -825,7 +825,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
-<!ENTITY intent_uri_private_browsing_multiple_match_title "Napusti Privatno pretraživanje?">
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Napustiti privatno pregledavanje?">
 
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
@@ -840,7 +840,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Dodaci">
 <!ENTITY restrictable_feature_addons_installation_description "Dodajte značajke ili funkcionalnosti u Firefox. Napomena: Dodaci mogu onemogućiti neka ograničenja.">
-<!ENTITY restrictable_feature_private_browsing "Privatno pretraživanje">
+<!ENTITY restrictable_feature_private_browsing "Privatno pregledavanje">
 <!ENTITY restrictable_feature_private_browsing_description "Dozvoljava članovima obitelji da pretražuju internet bez spremanja podataka o stranicama koje su posjetili.">
 <!ENTITY restrictable_feature_clear_history "Izbriši povijest">
 <!ENTITY restrictable_feature_clear_history_description "Dozvoljava članovima obitelji da obrišu podatke o stranicama koje su posjetili.">
@@ -913,7 +913,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_trending): This label is shown in the Activity Stream list for highlights sourced from a recommendations engine. -->
 <!ENTITY activity_stream_highlight_label_trending "Popularno">
 <!-- LOCALIZATION NOTE (activity_stream_highlights_empty): This text is shown when we could not find highlights for this user. This is also shown on first run. -->
-<!ENTITY activity_stream_highlights_empty "Počnite pretraživati i mi ćemo vam ovdje prikazivati neke od sjajnih članaka, video zapisa i drugih stranica koje ste nedavno posjetili ili zabilježili.">
+<!ENTITY activity_stream_highlights_empty "Počnite pregledavati i mi ćemo vam ovdje prikazivati neke od sjajnih članaka, video zapisa i drugih stranica koje ste nedavno posjetili ili zabilježili.">
 
 <!-- LOCALIZATION NOTE (activity_stream_remove): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
@@ -922,7 +922,7 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "Obriši iz povijesti">
 
 <!ENTITY private_tab_panel_title "Privatno pretraživanje + zaštita od praćenja">
-<!ENTITY private_tab_panel_description "&brandShortName; blokira dijelove stranica koji mogu pratiti vaše pretraživanje.">
+<!ENTITY private_tab_panel_description "&brandShortName; blokira dijelove stranica koji mogu pratiti vaše radnje.">
 <!ENTITY private_tab_panel_description2 "Nećemo pamtiti povijest pretraživanja, ali preuzete datoteke i nove zabilješke će i dalje biti spremljene na vašem uređaju.">
 <!ENTITY private_tab_learn_more "Želite li saznati više?">
 
