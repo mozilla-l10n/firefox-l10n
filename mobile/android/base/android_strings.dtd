@@ -504,7 +504,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share_image_failed "Nije moguće podijeliti ovu sliku">
 <!ENTITY share_error_toast_message "Nije moguće podijeliti s odabranom aplikacijom">
 <!ENTITY save_as_pdf "Spremi kao PDF">
-<!ENTITY print "Ispis">
+<!ENTITY print "Ispiši">
 <!ENTITY view_page_source "Prikaži izvorni kod stranice">
 <!ENTITY find_in_page "Pronađi na stranici">
 <!ENTITY desktop_mode "Zahtjevaj desktop stranicu">
