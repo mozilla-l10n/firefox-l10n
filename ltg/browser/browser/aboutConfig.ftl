@@ -13,10 +13,18 @@ about-config-search-input =
 
 ## These strings appear on the warning you see when first visiting about:config.
 
+about-config-intro-warning-title = Turpynōt pīzasorgut
+about-config-intro-warning-text = Pamainūt paplašinōtūs īstatejumus var īspaidōt { -brand-short-name } ōtrdarbeibu voi drūšeibu.
+about-config-intro-warning-checkbox = Pabreidynōt mani, kod es dazaģiunu itim īstatejumim
+about-config-intro-warning-button = Pījimt riskus un turpynōt
 
 
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Pamainūt itūs īstatejumus var īspaidōt { -brand-short-name } ōtrdarbeibu voi drūšeibu.
 about-config-page-title = Paplašinōti īstatejumi
+about-config-search-input1 =
+    .placeholder = Mekleit īstatiejuma nūsaukumu
 about-config-show-all = Parōdeit vysus
 about-config-pref-add = Pīvīnōt
 about-config-pref-toggle = Porslēgt
