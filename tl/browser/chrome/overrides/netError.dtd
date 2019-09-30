@@ -169,6 +169,7 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Mukhang ang iyong mga setting ng seguridad sa network ay maaaring magdulot nito. Nais mo bang maibalik ang mga default na setting?">
 <!ENTITY prefReset.label "Ibalik ang default settings">
 
+<!ENTITY enableTls10.longDesc "Maaaring hindi suportado ng website na ito ang TLS 1.2 protocol, ang pinakamababang bersyong sinusuportahan ng &brandShortName;. Ang pag-enable sa TLS 1.0 at TLS 1.1 ay maaaring makatulong para makakonekta nang maayos.">
 <!ENTITY enableTls10.note "Ang TLS 1.0 at TLS 1.1 ay permanenteng idi-disable sa hinaharap.">
 <!ENTITY enableTls10.label "I-enable ang TLS 1.0 at 1.1">
 
