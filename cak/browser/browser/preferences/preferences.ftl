@@ -620,9 +620,30 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Wakami ye'axïm re taq ch'akulal:
+sync-currently-syncing-bookmarks = Yaketal
+sync-currently-syncing-history = Natab'äl
+sync-currently-syncing-tabs = Kejaq taq ruwi'
+sync-currently-syncing-logins-passwords = Kitikirisaxik molojri'ïl chuqa' ewan taq tzij
+sync-currently-syncing-addresses = Ochochib'äl
+sync-currently-syncing-creditcards = Taq ch'utit'im pwäq
+sync-currently-syncing-addons = Taq tz'aqat
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Taq cha'oj
+       *[other] Taq ajowab'äl
+    }
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Tacha' Achike Naxïm
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Keyak Jaloj
+    .buttonaccesskeyaccept = y
+    .buttonlabelextra2 = Tichup
+    .buttonaccesskeyextra2 = c
+sync-choose-heading = Tacha' achike naxïm rik'in ri rub'i' ataqoya'l richin taq okisab'äl nikokisaj { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Taq etal
     .accesskey = e
@@ -637,6 +658,10 @@ sync-engine-logins =
     .label = Ketikirisäx molojri'ïl
     .tooltiptext = Kib'i' winäq chuqa' ewan taq tzij e'ayakon
     .accesskey = K
+sync-engine-logins-passwords =
+    .label = Kitikirisaxik molojri'ïl chuqa' ewan taq tzij
+    .tooltiptext = Rub'i' winäq chuqa' ewan taq rutzij eruyakon
+    .accesskey = L
 sync-engine-addresses =
     .label = Taq Ochochib'äl
     .tooltiptext = Kochochib'al b'ow e'ayakon (xa xe ajkematz'ib')
