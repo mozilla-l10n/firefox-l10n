@@ -36,6 +36,13 @@ cfr-doorhanger-extension-notification = Uve ni taltziile'.
 ## These strings are used to display the total number of
 ## users and rating for an add-on. They are shown next to each other.
 
+# Variables:
+#   $total (Number) - The total number of users using the add-on
+cfr-doorhanger-extension-total-users =
+    { $total ->
+        [one] B'anb'en tetz
+       *[other] Xo'l b'anb'en tetz
+    }
 
 ## These messages are steps on how to use the feature and are shown together.
 
