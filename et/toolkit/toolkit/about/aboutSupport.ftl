@@ -35,6 +35,8 @@ app-basics-name = Nimi
 app-basics-version = Versioon
 app-basics-build-id = Kompileerimise ID
 app-basics-update-channel = Uuendustekanal
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Uuenduste kaust
@@ -59,7 +61,6 @@ app-basics-service-workers = Registreeritud Service Workerid
 app-basics-profiles = Profiilid
 app-basics-launcher-process-status = Käivitusprotsess
 app-basics-multi-process-support = Mitme protsessiga aknad
-app-basics-process-count = Veebisisu protsessid
 app-basics-remote-processes-count = Kaugprotsessid
 app-basics-enterprise-policies = Rühmapoliitikad
 app-basics-location-service-key-google = Google'i asukohateenuse võti
@@ -115,6 +116,13 @@ sandbox-sys-call-number = Süsteemikutse
 sandbox-sys-call-args = Argumendid
 safe-mode-title = Proovi ohutut režiimi
 restart-in-safe-mode-label = Taaskäivita koos lisade keelamisega…
+
+## Media titles
+
+audio-backend = Helisüsteem
+max-audio-channels = Maksimaalne arv kanaleid
+channel-layout = Eelistatud kanalite asetus
+sample-rate = Eelistatud diskreetimissagedus
 media-title = Meedia
 media-output-devices-title = Väljundseadmed
 media-input-devices-title = Sisendseadmed
@@ -127,6 +135,12 @@ media-device-format = Formaat
 media-device-channels = Kanalid
 media-device-rate = Sagedus
 media-device-latency = Latentsus
+media-capabilities-title = Meedia esitamise võimekus
+# List all the entries of the database.
+media-capabilities-enumerate = Hinda uuesti
+
+
+
 intl-title = Lokaliseerimine
 intl-app-title = Rakenduse sätted
 intl-locales-requested = Keele-eelistused
@@ -241,12 +255,7 @@ uses-tiling = Uses Tiling
 content-uses-tiling = Uses Tiling (Content)
 off-main-thread-paint-enabled = Off Main Thread Painting Enabled
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Count
-low-end-machine = Tuvastati väikse võimekusega arvuti
 target-frame-rate = Target Frame Rate
-audio-backend = Helisüsteem
-max-audio-channels = Maksimaalne arv kanaleid
-channel-layout = Eelistatud kanalite asetus
-sample-rate = Eelistatud diskreetimissagedus
 min-lib-versions = Eeldatav minimaalne versioon
 loaded-lib-versions = Kasutusel olev versioon
 has-seccomp-bpf = Seccomp-BPF (süsteemikutsete filtreerimine)
