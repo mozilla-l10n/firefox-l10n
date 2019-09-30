@@ -14,7 +14,7 @@
 <!ENTITY deniedPortAccess.longDesc "<p>Zatražena adresa ima definiran ulaz (npr. <q>mozilla.org:80</q> za ulaz 80 na mozilla.org) koji se inače koristi za <em>druge</em> radnje, a ne pretraživanje. Pretraživač je prekinuo zahtjev za vaše zaštite i sigurnosti.</p>">
 
 <!ENTITY dnsNotFound.title "Adresa nije pronađena">
-<!ENTITY dnsNotFound.longDesc "<p>Pretraživač nije pronašao poslužitelj za danu adresu.</p><ul><li>Jeste li napravili grešku prilikom upisa adrese? (npr. <q><strong>ww</strong>.mozilla.org</q> umjesto <q><strong>www</strong>mozilla.org</q>)</li><li>Jeste li sigurni da ova domena postoji? Možda joj je istekla registracija.</li><li>Ne možete pretraživati i druge stranice? Provjerite mrežne postavke i postavke DNS poslužitelja.</li><li>Je li vaše računalo zaštićeno vatrozidom ili proxyem? Neispravne postavke mogu onemoućiti pretraživanje.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Preglednik nije pronašao poslužitelja za danu adresu.</p><ul><li>Jeste li napravili grešku prilikom upisa adrese? (npr. <q><strong>ww</strong>.mozilla.org</q> umjesto <q><strong>www</strong>mozilla.org</q>)</li><li>Jeste li sigurni da ova domena postoji? Možda joj je istekla registracija.</li><li>Ne možete pregledati i druge stranice? Provjerite mrežne postavke i postavke DNS poslužitelja.</li><li>Je li vaše računalo zaštićeno vatrozidom ili proxyem? Neispravne postavke mogu onemoućiti pretraživanje.</li></ul>">
 
 <!ENTITY fileNotFound.title "Datoteka nije pronađena">
 <!ENTITY fileNotFound.longDesc "<ul><li>Možda je uklonjena, premještena ili joj je ime promijenjeno?</li><li>Postoji li pravopisna ili nekakva tipografska greška?</li><li>Imate li dovoljna prava za pristup traženoj datoteci?</li></ul>">
@@ -29,7 +29,7 @@
 <!ENTITY malformedURI.longDesc "<p>Dana adresa nije u prepoznatljivom obliku. Molim, provjerite postoji li greška u unosu u lokacijskoj traci.</p>">
 
 <!ENTITY netInterrupt.title "Prijenos podataka prekinut">
-<!ENTITY netInterrupt.longDesc "<p>Pretraživač se uspješno povezao, ali je veza prekinuta prilikom prijenosa podataka. Molim, pokušajte ponovo.</p><ul><li>Ne možete pretraživati niti druge stranice? Provjerite mrežnu povezanost računala.</li><li>Ako još uvijek imate problema, za pomoć se obratite svojem administratoru mreže ili pružatelju Internet usluga.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Preglednik se uspješno povezao, ali je veza prekinuta prilikom prijenosa podataka. Molim, pokušajte ponovo.</p><ul><li>Ne možete pregledati niti druge stranice? Provjerite mrežnu povezanost računala.</li><li>Ako još uvijek imate problema, za pomoć se obratite svojem administratoru mreže ili pružatelju Internet usluga.</li></ul>">
 
 <!ENTITY notCached.title "Dokument je istekao">
 <!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u priručnoj memoriji preglednika.</p><ul><li>Radi mjere sigurnosti, preglednik neće automatski ponovno zatražiti osjetljive dokumente.</li><li>Kliknite na Pokušaj ponovno da biste zatražili dokument od web stranice.</li></ul>">
@@ -53,13 +53,13 @@
 <!ENTITY unknownProtocolFound.longDesc "<p>Adresa definira protkol (npr. <q>xyz://</q>) kojeg pretraživač ne poznaje ili se ne može povezati sa zatraženom stranicom.</p><ul><li>Pokušavate li pristupiti multimedijskim ili drugim netekstualnim uslugama? Provjerite ima li stranica dodatnih zahtjeva.</li><li>Neki protokoli zahtijevaju program ili priključke treće strane, kako bi ih pretraživač mogao prepoznati.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy poslužitelj odbija povezivanje">
-<!ENTITY proxyConnectFailure.longDesc "<p>Pretraživač je postavljen da koristi proxy poslužitelj, ali proxy poslužitelj odbija povezivanje.</p><ul><li>Jesu li proxy postavke ispravne? Provjerite postavke i pokušajte ponovo.</li><li>Dozvoljava li proxy usluga povezivanje iz ove mreže?</li><li>Ukoliko još uvijek imate problema, za pomoć se obratite svojem mrežnom administratoru ili pružatelju Internet usluga.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>Preglednik je postavljen da koristi proxy poslužitelj, ali proxy poslužitelj odbija povezivanje.</p><ul><li>Jesu li proxy postavke ispravne? Provjerite postavke i pokušajte ponovo.</li><li>Dozvoljava li proxy usluga povezivanje iz ove mreže?</li><li>Ukoliko još uvijek imate problema, za pomoć se obratite svojem mrežnom administratoru ili pružatelju Internet usluga.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Proxy poslužitelj nije pronađen">
-<!ENTITY proxyResolveFailure.longDesc "<p>Pretraživač je postavljen da koristi proxy poslužitelj, ali ga nije moguće naći.</p><ul><li>Jesu li proxy postavke ispravne? Provjerite postavke i pokušajte ponovo.</li><li>Je li računalo povezano na aktivnu mrežu?</li><li>Ako još uvijek imate problema, za pomoć se obratite svojem administratoru mreže ili pružatelju Internet usluga.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>Preglednik je postavljen da koristi proxy poslužitelj, ali ga nije moguće naći.</p><ul><li>Jesu li proxy postavke ispravne? Provjerite postavke i pokušajte ponovo.</li><li>Je li računalo povezano na aktivnu mrežu?</li><li>Ako još uvijek imate problema, za pomoć se obratite svojem administratoru mreže ili pružatelju Internet usluga.</li></ul>">
 
 <!ENTITY redirectLoop.title "Petlja preusmjeravanja">
-<!ENTITY redirectLoop.longDesc "<p>Pretraživač je odustao od dohvaćanja zatražene stranice. Stranica preusmjerava zahtjev na takav način da on nikada ne može biti ispunjen.</p><ul><li>Jeste li onemogućili ili blokirali kolačiće za ovu stranicu?</li><li><em>OPASKA</em>: Ako prihvaćanje kolačića stranice ne riješi problem, vrlo je vjerojatno problem s konfiguracijom poslužitelja, a ne vašeg računala.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Preglednik je odustao od dohvaćanja zatražene stranice. Stranica preusmjerava zahtjev na takav način da on nikada ne može biti ispunjen.</p><ul><li>Jeste li onemogućili ili blokirali kolačiće za ovu stranicu?</li><li><em>OPASKA</em>: Ako prihvaćanje kolačića stranice ne riješi problem, vrlo je vjerojatno problem s konfiguracijom poslužitelja, a ne vašeg računala.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Neispravan odgovor">
 <!ENTITY unknownSocketType.longDesc "<p>Stranica je na mreži zahtjev odgovorila na neočekivani način, te stoga pretraživač ne može nastaviti.</p>">
