@@ -98,6 +98,7 @@ cfr-whatsnew-tracking-blocked-subtitle = Sejak { DATETIME($earliestDate, month: 
 cfr-whatsnew-tracking-blocked-link-text = Lihat Laporan
 cfr-whatsnew-lockwise-backup-title = Cadangkan kata sandi Anda
 cfr-whatsnew-lockwise-backup-link-text = Nyalakan pencadangan
+cfr-whatsnew-lockwise-take-title = Bawa sandi ke mana Anda pergi
 cfr-whatsnew-lockwise-take-link-text = Dapatkan aplikasinya
 
 ## Bookmark Sync
@@ -115,3 +116,8 @@ cfr-doorhanger-sync-logins-body = Simpan dan sinkronkan kata sandi Anda dengan a
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Bagikan PDF ini dengan aman
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-close-button = Tutup
+    .accesskey = T
