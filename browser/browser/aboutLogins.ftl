@@ -60,6 +60,9 @@ about-logins-login-list-empty-search-description = Іздеуіңізге сәй
 login-list-item-title-new-login = Жаңа логин
 login-list-item-subtitle-new-login = Логин мәліметтерін енгізіңіз
 login-list-item-subtitle-missing-username = (пайдаланушы аты жоқ)
+about-logins-list-item-warning-icon =
+    .alt = Ескерту таңбашасы
+    .title = Шабуылданған сайт
 
 ## Introduction screen
 
@@ -74,8 +77,6 @@ login-item-origin-label = Веб-сайт адресі
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Пайдаланушы аты
-login-item-username =
-    .placeholder = name@example.com
 about-logins-login-item-username =
     .placeholder = (пайдаланушы аты жоқ)
 login-item-copy-username-button-text = Көшіріп алу
