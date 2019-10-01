@@ -129,8 +129,8 @@ newtab-label-download = Preuzeto
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Ukloni odjel
-newtab-section-menu-collapse-section = Skupi odjel
-newtab-section-menu-expand-section = Proširi odjel
+newtab-section-menu-collapse-section = Sklopi odjeljak
+newtab-section-menu-expand-section = Rasklopi odjeljak
 newtab-section-menu-manage-section = Upravljanje odjelom
 newtab-section-menu-manage-webext = Upravljanje dodatkom
 newtab-section-menu-add-topsite = Dodaj najbolju stranicu
@@ -142,9 +142,9 @@ newtab-section-menu-privacy-notice = Politika privatnosti
 ## Section aria-labels
 
 newtab-section-collapse-section-label =
-    .aria-label = Skupi odjel
+    .aria-label = Sklopi odjeljak
 newtab-section-expand-section-label =
-    .aria-label = Proširi odjel
+    .aria-label = Rasklopi odjeljak
 
 ## Section Headers.
 
