@@ -16,8 +16,12 @@ newsletter-email-placeholder =
     .placeholder = E-pošta
 newsletter-subscribe-button = Pretplati se
 newsletter-thanks-title = Hvala!
+footer-message = Tražiš više od običnih programerskih alata? Provjeri Firefox preglednik koji je izgrađen izričito za programere i moderan radni proces.
 footer-learn-more-link = Saznajte više
 features-learn-more = Saznajte više
 features-network-title = Mreža
 features-storage-title = Spremište
 features-memory-title = Memorija
+# Variables:
+#   $shortcut (String) - The keyboard shortcut used for the tool
+welcome-message = Programerski alati su uspješno omogućeni! Istraži alate u izborniku web programera ili otvori alate pomoću { $shortcut }.
