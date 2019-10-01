@@ -612,6 +612,7 @@ prefs-syncing-off = Ñembojuehe: OFF
 prefs-sync-setup =
     .label = Emboheko { -sync-brand-short-name }…
     .accesskey = E
+prefs-sync-offer-setup-label = Embojuehe techaukaha, tembiasakue, tendayke, ñe'ẽñemi, moĩmbaha ha jerohoryvéva opaite ne mba'e'okápe.
 prefs-sync-now =
     .labelnotsyncing = Embojuehe ko’ág̃a
     .accesskeynotsyncing = N
@@ -619,6 +620,7 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Ko’ág̃aite oñembojuehe ko’ã mba’epuru:
 sync-currently-syncing-bookmarks = Techaukaha
 sync-currently-syncing-history = Tembiasakue
 sync-currently-syncing-tabs = Tendayke ijurujáva
@@ -634,6 +636,14 @@ sync-currently-syncing-prefs =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Eiporavo embojueheséva
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Eñongatu moambuepy
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Emboty tembiapo…
+    .buttonaccesskeyextra2 = D
+sync-choose-heading = Eiporavo embojuehétava ne mba’ete mba'e'oka oipurúva { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Techaukaha
     .accesskey = m
@@ -648,6 +658,10 @@ sync-engine-logins =
     .label = Tembiapo moñepyrũ
     .tooltiptext = Puruhára réra ha ñe'ẽñemi reñongatúva'ekue
     .accesskey = T
+sync-engine-logins-passwords =
+    .label = Tembiapo ñepyrũ ha ñe’ẽñemi
+    .tooltiptext = Puruhára réra ha ñe’ẽñemi ñongatupyre
+    .accesskey = L
 sync-engine-addresses =
     .label = Kundaharape
     .tooltiptext = Pareha Papapy reñongatuva'ekue (mohendahápe g̃uarãnte)
