@@ -100,7 +100,7 @@ info-known-breaches-found =
 info-exposed-passwords-found =
     { $count ->
         [one] Passwort durch alle Datenlecks offengelegt.
-       *[other] Passwörter duch alle Datenlecks offengelegt.
+       *[other] Passwörter durch alle Datenlecks offengelegt.
     }
 full-report-link = Vollständiger Bericht auf <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
