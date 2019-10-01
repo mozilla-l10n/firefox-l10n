@@ -23,20 +23,20 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "ບັນຊີ">
 <!ENTITY firstrun_sync_message2 "ຮັບເອົາຈາກບ່ອນທີ່ທ່ານໄດ້ປະເອົາໄວ້.">
+<!ENTITY firstrun_sync_message3 "Sync ບຸກມາກ, ປະຫວັດການໃຊ້ງານ ແລະ ລະຫັດຜ່ານຂອງທ່ານເຂົ້າໄວ້ໃນໂທລະສັບຂອງທ່ານ.">
 <!ENTITY firstrun_sync_subtext2 "ໃຊ້ Sync ເພື່ອຊອກຫາບຸກມາກ, ລະຫັດຜ່ານ, ແລະ ສິ່ງອື່ນໆທີ່ທ່ານໄດ້ບັນທຶກໄວ້ທີ່ &brandShortName; ໃນອຸປະກອນທັງຫມົດຂອງທ່ານ.">
 <!ENTITY newfirstrun_sync_subtext "Sync ສິ່ງທີ່ທ່ານບັນທຶກໄວ້ໃນໂທລະສັບໄປຫາ Firefox ສຳລັບເດສກທັອບ ເພື່ອໃຫ້ມີຄວາມເປັນສ່ວນຕົວ ແລະ ປອດໄພ.">
 <!ENTITY updatednewfirstrun_sync_subtext "ເຂົ້າສູ່ລະບົບບັນຊີຂອງທ່ານເພື່ອນຳໃຊ້ປະໂຫຍດສູງສຸດຈາກ &brandShortName;">
 <!ENTITY firstrun_signin_message "ຮັບການເຊື່ອມຕໍ່ ເລີມຕົ້ນເຮັດວຽກ">
+<!ENTITY firstrun_sendtab_title "ສົ່ງແທັບ">
 <!ENTITY firstrun_signin_button "ເຂົ້າສູ່ລະບົບເພື່ອ Sync">
 <!ENTITY newfirstrun_signin_button "ເປີດ Sync">
 <!ENTITY updatednewfirstrun_signin_button "ເຂົ້າສູ່ລະບົບ &brandShortName;">
-<!ENTITY  onboard_start_button_browser "ເລີ່ມການທ່ອງເວັບ">
+<!ENTITY onboard_start_button_browser "ເລີ່ມການທ່ອງເວັບ">
 <!ENTITY firstrun_button_notnow "ບໍ່ແມ່ນຕອນນີ້">
 <!ENTITY firstrun_button_next "ຕໍ່ໄປ">
 
 <!ENTITY firstrun_signin_button2 "ເຂົ້າສູ່ລະບົບ">
-
-<!ENTITY firstrun_signup_button "ລົງ​ທະ​ບຽນ">
 
 <!ENTITY firstrun_tabqueue_title "ລີ້ງຄ໌">
 
@@ -48,6 +48,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "ທ່ານ">
 <!ENTITY firstrun_account_message "ມີ &brandShortName; ໃນອຸປະກ່ອນອື່ນໆຫລືບໍ່?">
+
+<!ENTITY firstrun_signup_button "ລົງ​ທະ​ບຽນ">
 
 <!ENTITY  onboard_start_restricted1 "ທ່ອງເວັບຢ່າງປອດໄພ ແລະ ຢູ່ພາຍໃຕ້ການຄວບຄຸມຂອງທ່ານດ້ວຍລຸ້ນນີ້ຂອງ &brandShortName;.">
 
@@ -692,6 +694,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "ທ່ານໄດ້ເຊື່ອມຕໍ່ເຂົ້າກັບ">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
