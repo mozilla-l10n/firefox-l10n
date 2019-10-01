@@ -23,16 +23,21 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Konto">
 <!ENTITY firstrun_sync_message2 "Jätka sealt, kus pooleli jäi.">
+<!ENTITY firstrun_sync_message3 "Sünkroniseeri järjehoidjad, ajalugu ja paroolid oma telefoni.">
 <!ENTITY firstrun_sync_subtext2 "Kasuta Synci, et leida järjehoidjaid, paroole ja muid asju, mida oled salvestanud &brandShortName;i kõigis oma seadmetes.">
 <!ENTITY newfirstrun_sync_subtext "Sünkroniseeri asjad, mida salvestad mobiilis oma töölaua Firefoxi, privaatselt ja turvaliselt.">
 <!ENTITY updatednewfirstrun_sync_subtext "Parima kogemuse saamiseks &brandShortName;iga logi oma kontosse sisse">
 <!ENTITY firstrun_signin_message "Tee algust ja loo ühendus">
+<!ENTITY firstrun_sendtab_title "Saada kaart">
+<!ENTITY firstrun_sendtab_message "Jaga kaarte mobiilist töölauale - hetkega.">
 <!ENTITY firstrun_signin_button "Logi Synci sisse">
 <!ENTITY newfirstrun_signin_button "Lülita Sync sisse">
 <!ENTITY updatednewfirstrun_signin_button "Logi &brandShortName;i sisse">
-<!ENTITY  onboard_start_button_browser "Alusta veebilehitsemist">
+<!ENTITY onboard_start_button_browser "Alusta veebilehitsemist">
 <!ENTITY firstrun_button_notnow "Mitte praegu">
 <!ENTITY firstrun_button_next "Edasi">
+
+<!ENTITY firstrun_signin_button2 "Logi sisse">
 
 <!ENTITY firstrun_tabqueue_title "Lingid">
 
@@ -44,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Sina">
 <!ENTITY firstrun_account_message "Kas sul on &brandShortName; olemas ka mõnel muul seadmel?">
+
+<!ENTITY firstrun_signup_button "Registreeru">
 
 <!ENTITY  onboard_start_restricted1 "See lihtsustatud &brandShortName;i versioon tagab turvalisuse, jättes ohjad sinu kätte.">
 
@@ -69,7 +76,6 @@
 <!ENTITY  sending_crash_report "Vearaporti saatmine\u2026">
 <!ENTITY  crash_close_label "Sulge">
 <!ENTITY  crash_restart_label "Taaskäivita &brandShortName;">
-
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
 <!ENTITY  crash_notification_title "&brandShortName; jooksis kokku">
@@ -117,7 +123,6 @@
 <!ENTITY bookmark_folder_updated "Kaust uuendatud">
 <!ENTITY bookmark_parent_folder "Ülemine kaust">
 <!ENTITY bookmark_add_folder "Lisa uus kaust">
-
 <!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
      one when he is creating a bookmark folder -->
 <!ENTITY bookmark_default_folder_title "(nimi puudub)">
@@ -280,6 +285,7 @@
 <!ENTITY pref_cookies_menu "Küpsised">
 <!ENTITY pref_cookies_accept_all "lubatud">
 <!ENTITY pref_cookies_not_accept_foreign "lubatud, välja arvatud kolmandad osapooled">
+<!ENTITY pref_cookies_not_accept_trackers "lubatud, välja arvatud jälitajad">
 <!ENTITY pref_cookies_disabled "keelatud">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -340,11 +346,6 @@
 
 <!ENTITY pref_pwa "Progressiivsed veebirakendused">
 <!ENTITY pref_pwa_summary "Veebirakenduste lisamine avaekraanile lubatakse">
-
-<!ENTITY tracking_protection_prompt_title "Nüüd jälitamisvastase kaitsega">
-<!ENTITY tracking_protection_prompt_text "Tegevust jälitavad elemendid blokitakse automaatselt, nii et sina ei pea muretsema.">
-<!ENTITY tracking_protection_prompt_tip_text "Rohkema teabe saamiseks külasta privaatsuse sätteid">
-<!ENTITY tracking_protection_prompt_action_button "Selge!">
 
 <!ENTITY tab_queue_toast_message3 "Kaart salvestati &brandShortName;i">
 <!ENTITY tab_queue_toast_action "Ava kohe">
@@ -431,7 +432,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Vali Browser app ning seejärel &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Külasta Mozilla abikeskust">
 <!ENTITY pref_about_firefox "&brandShortName;ist">
 <!ENTITY pref_vendor_faqs "KKK">
 <!ENTITY pref_vendor_feedback "Anna tagasisidet">
@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Jaga">
 <!ENTITY share_title "Jagamine kasutades">
 <!ENTITY share_image_failed "Selle pildi jagamine pole võimalik">
+<!ENTITY share_error_toast_message "Soovitud äpiga pole võimalik jagada">
 <!ENTITY save_as_pdf "Salvesta PDFina">
 <!ENTITY print "Prindi">
 <!ENTITY view_page_source "Vaata veebilehe lähtekoodi">
@@ -602,7 +603,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Asukoht">
 <!ENTITY bookmark_edit_keyword "Võtmesõna">
 <!ENTITY bookmark_select_folder "Kausta valimine">
-
 <!ENTITY bookmark_edit_undo "Võta tagasi">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -692,11 +692,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Heli valimine või salvestamine">
 <!ENTITY filepicker_image_title "Pildi valimine või tegemine">
 <!ENTITY filepicker_video_title "Video valimine või salvestamine">
-
 <!ENTITY filepicker_permission_denied "Nõutud õigust ei antud, kasutatakse süsteemset failide valijat.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Oled ühendatud aadressiga">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -886,6 +886,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Võrguta režiimis kättesaadavaks tegemine">
 <!ENTITY helper_triple_readerview_open_message "Lisa lugemisvaatesse lisatud lehed järjehoidjatesse, et lugeda neid ka võrguta režiimis.">
 <!ENTITY helper_triple_readerview_open_button "Lisa järjehoidjatesse">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "Tere tulemast &brandShortName;i">
+<!ENTITY activity_stream_signin_description "Alusta järjehoidjate, paroolide ja muu sünkroniseerimist oma Firefoxi kontoga.">
+<!ENTITY activity_stream_signin_button "Logi sisse">
+
+<!ENTITY activity_stream_signup_button "Registreeru">
+<!ENTITY activity_stream_signin_prompt "Sul on konto juba olemas?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Logi sisse.">
 
 <!ENTITY activity_stream_topsites "Top saidid">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
