@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Digitális jogkezelést (DRM) használó tartalom
 play-drm-content =
@@ -554,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Vigye magával a webet
 sync-signedout-description = Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.
 sync-signedout-account-title = Kapcsolódjon egy { -fxaccount-brand-name }kal
@@ -574,11 +578,17 @@ sync-mobile-promo = Töltse le a Firefox for <img data-l10n-name="android-icon"/
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Profilkép módosítása
 sync-disconnect =
     .label = A kapcsolat bontása…
     .accesskey = t
+sync-sign-out =
+    .label = Kijelentkezés…
+    .accesskey = K
 sync-manage-account = Fiók kezelése
     .accesskey = F
 sync-signedin-unverified = A(z)  { $email } cím nincs ellenőrizve.
@@ -594,6 +604,45 @@ sync-sign-in =
     .accesskey = B
 sync-signedin-settings-header = Sync beállítások
 sync-signedin-settings-desc = Válassza ki, mit szeretne szinkronizálni eszközei között a { -brand-short-name } segítségével.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Szinkronizálás: BE
+prefs-syncing-off = Szinkronizálás: KI
+prefs-sync-setup =
+    .label = { -sync-brand-short-name } beállítása…
+    .accesskey = S
+prefs-sync-offer-setup-label = Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.
+prefs-sync-now =
+    .labelnotsyncing = Szinkronizálás most
+    .accesskeynotsyncing = m
+    .labelsyncing = Szinkronizálás…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = Jelenleg szinkronizálja ezeket az elemeket:
+sync-currently-syncing-bookmarks = Könyvjelzők
+sync-currently-syncing-history = Előzmények
+sync-currently-syncing-tabs = Nyitott lapok
+sync-currently-syncing-logins-passwords = Bejelentkezések és jelszavak
+sync-currently-syncing-addresses = Címek
+sync-currently-syncing-creditcards = Bankkártyák
+sync-currently-syncing-addons = Kiegészítők
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Beállítások
+       *[other] Beállítások
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Válassza ki, mit szeretne szinkronizálni
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Módosítások mentése
+    .buttonaccesskeyaccept = m
+    .buttonlabelextra2 = Kapcsolat bontása…
+    .buttonaccesskeyextra2 = b
 sync-engine-bookmarks =
     .label = Könyvjelzők
     .accesskey = K
@@ -608,6 +657,10 @@ sync-engine-logins =
     .label = Bejelentkezések
     .tooltiptext = A mentett felhasználónevek és jelszavak
     .accesskey = B
+sync-engine-logins-passwords =
+    .label = Bejelentkezések és jelszavak
+    .tooltiptext = Az Ön által mentett bejelentkezések és jelszavak
+    .accesskey = j
 sync-engine-addresses =
     .label = Címek
     .tooltiptext = Mentett postai címek (csak asztali gépen)
@@ -628,6 +681,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Módosított általános, adatvédelmi és biztonsági beállítások
     .accesskey = B
+
+## The device name controls.
+
 sync-device-name-header = Eszköznév
 sync-device-name-change =
     .label = Eszköznév módosítása…
@@ -818,7 +874,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Egyéni
     .accesskey = E
 
-##
+
 
 content-blocking-etp-standard-desc = Kiegyensúlyozott védelem és teljesítmény. Az oldalak normálisan fognak betölteni.
 content-blocking-etp-strict-desc = Erősebb védelem, de egyes webhelyek és tartalmak hibásan működhetnek.

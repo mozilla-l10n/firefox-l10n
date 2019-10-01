@@ -9,10 +9,7 @@
 <!ENTITY retry.label "Próbálja újra">
 <!ENTITY returnToPreviousPage.label "Ugrás vissza">
 <!ENTITY returnToPreviousPage1.label "Visszalépés (ajánlott)">
-<!ENTITY advanced.label "Speciális">
-<!ENTITY continue2.label "Továbbiak…">
 <!ENTITY advanced2.label "Speciális…">
-<!ENTITY moreInformation.label "További tudnivalók">
 <!ENTITY viewCertificate.label "Tanúsítvány megtekintése">
 
 <!-- Specific error messages -->
@@ -92,13 +89,11 @@
 <!ENTITY nssFailure2.title "A biztonságos kapcsolat sikertelen">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>A megtekinteni kívánt oldal nem jeleníthető meg, mert a kapott adatok hitelessége nem ellenőrizhető.</li> <li>Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "A kapcsolat nem biztonságos">
 <!ENTITY certerror.longpagetitle2 "Figyelmeztetés: Lehetséges biztonsági kockázat következik">
 <!ENTITY certerror.sts.longpagetitle  "Nem kapcsolódott: lehetséges biztonsági probléma">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "A(z) <span class='hostname'/> tulajdonosa a weboldalát helytelenül állította be. Az Ön adatainak ellopását megakadályozandó a &brandShortName; nem csatlakozott ehhez a weboldalhoz.">
 <!ENTITY certerror.introPara2 "A &brandShortName; egy lehetséges biztonsági kockázatot észlelt, és nem lépett tovább a(z) <span class='hostname'/> oldalra. Ha felkeresi ezt az oldalt, akkor támadók megpróbálhatják ellopni a jelszavait, e-mailjeit vagy bankkártyaadatait.">
 <!ENTITY certerror.sts.introPara "A &brandShortName; egy lehetséges biztonsági kockázatot észlelt, és nem lépett tovább a(z) <span class='hostname'/> oldalra, mert ez a webhely biztonságos kapcsolatot igényel.">
 
@@ -129,8 +124,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Sérült tartalom hiba">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>A megtekinteni kívánt oldal nem jeleníthető meg, mert az adatátvitel közben hiba történt.</p><ul><li>Lépjen kapcsolatba a webhely üzemeltetőjével, és értesítse a problémáról.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Kivétel hozzáadása…">
 <!ENTITY securityOverride.exceptionButton1Label "Kockázat elfogadása és továbblépés">
 
 <!ENTITY errorReporting.automatic2 "Az ilyen hibák jelentése segít a Mozillának a rosszindulatú oldalak azonosításában és blokkolásában">
@@ -144,16 +137,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Speciális információ: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p>A &brandShortName; nem kapcsolódott ehhez: <span id='wrongSystemTime_URL'/>, mert a számítógépe órája úgy tűnik, rosszul jár, emiatt nem lehet biztonságosan kapcsolódni.</p> <p>A számítógépe azt hiszi <span id='wrongSystemTime_systemDate'/> van, valójában <span id='wrongSystemTime_actualDate'/>. Ennek javításához módosítsa a dátum- és időbeállításait, hogy azok megfeleljenek a valós időnek.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>A &brandShortName; nem kapcsolódott ehhez: <span id='wrongSystemTimeWithoutReference_URL'/>, mert a számítógépe órája úgy tűnik, rosszul jár, emiatt nem lehet biztonságosan kapcsolódni.</p> <p>A számítógépe azt hiszi <span id='wrongSystemTimeWithoutReference_systemDate'/> van. Ennek javításához módosítsa a dátum- és időbeállításait, hogy azok megfeleljenek a valós időnek.</p>">
-
-<!ENTITY certerror.pagetitle1  "Nem biztonságos kapcsolat">
 <!ENTITY certerror.pagetitle2  "Figyelmeztetés: Lehetséges biztonsági kockázat következik">
 <!ENTITY certerror.sts.pagetitle  "Nem kapcsolódott: lehetséges biztonsági probléma">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ez az oldal HTTP Strict Transport Security (HSTS) használatával adja meg, hogy a &brandShortName; csak biztonságosan kapcsolódjon. Emiatt nem lehet kivételt felvenni ehhez a tanúsítványhoz.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "A(z) <span class='hostname'></span> oldal a HTTP Strict Transport Security (HSTS) nevű biztonsági házirendet használja, amely azt jelenti, hogy a &brandShortName; csak biztonságosan kapcsolódhat hozzá. Nem adhat hozzá kivételt, hogy felkeresse ezt az oldalt.">
 <!ENTITY certerror.copyToClipboard.label "Szöveg másolása a vágólapra">
 
@@ -176,6 +161,8 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Úgy tűnik, ezt a hálózat biztonsági beállításai okozhatják. Szeretné helyreállítani az alapbeállításokat?">
 <!ENTITY prefReset.label "Alap beállítások visszaállítása">
+
+<!ENTITY enableTls10.label "A TLS 1.0 és 1.1 engedélyezése">
 
 <!ENTITY networkProtocolError.title "Hálózati protokoll hiba">
 <!ENTITY networkProtocolError.longDesc "<p>A megtekinteni kívánt oldal nem jeleníthető meg, mert hiba észlelhető a hálózati protokollban.</p><ul><li>Lépjen kapcsolatba a webhely tulajdonosaival, hogy tájékoztassa őket a problémáról.</li></ul>">

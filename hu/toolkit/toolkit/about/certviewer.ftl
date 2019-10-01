@@ -54,6 +54,22 @@ certificate-viewer-timestamp = Időbélyeg
 certificate-viewer-value = Érték
 certificate-viewer-version = Verzió
 certificate-viewer-business-category = Üzleti kategória
+certificate-viewer-subject-name = Tárgy neve
+certificate-viewer-issuer-name = Kibocsátó neve
+certificate-viewer-validity = Érvényesség
+certificate-viewer-subject-alt-names = Tárgy alternatív nevei
+certificate-viewer-public-key-info = Nyilvános kulcs információ
+certificate-viewer-miscellaneous = Egyebek
+certificate-viewer-fingerprints = Ujjlenyomatok
+certificate-viewer-basic-constraints = Alapvető korlátozások
+certificate-viewer-key-usages = Kulcs felhasználások
+certificate-viewer-extended-key-usages = Bővített kulcs felhasználások
+certificate-viewer-subject-key-id = Tárgy kulcsazonosítója
+certificate-viewer-authority-key-id = Hitelesítő kulcsazonosítója
+certificate-viewer-authority-info-aia = Hitelesítői információk (AIA)
+certificate-viewer-certificate-policies = Tanúsítvány házirendek
+certificate-viewer-embedded-scts = Beágyazott SCT-k
+certificate-viewer-crl-endpoints = CRL végpontok
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Letöltés
@@ -65,3 +81,11 @@ certificate-viewer-boolean =
         [true] Igen
        *[false] Nem
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
+certificate-viewer-download-pem = PEM (tanúsítvány)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (lánc)
+    .download = { $fileName }-chain.pem
