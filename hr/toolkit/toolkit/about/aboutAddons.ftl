@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-window =
-    .title = Upravitelj dodacima
+    .title = Upravljač dodataka
 search-header =
     .placeholder = Pretraži addons.mozilla.org
     .searchbuttonlabel = Traži

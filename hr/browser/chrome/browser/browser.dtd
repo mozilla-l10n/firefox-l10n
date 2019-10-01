@@ -68,7 +68,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY importFromAnotherBrowserCmd.label "Uvoz iz drugog preglednika…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "U">
 
-<!ENTITY taskManagerCmd.label "Upravitelj zadataka">
+<!ENTITY taskManagerCmd.label "Upravljač zadataka">
 
 <!ENTITY goOfflineCmd.label "Izvanmrežni rad">
 <!ENTITY goOfflineCmd.accesskey "v">
