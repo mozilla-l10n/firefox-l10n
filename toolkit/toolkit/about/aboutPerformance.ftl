@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # Page title
-about-performance-title = Upravitelj zadataka
+about-performance-title = Upravljač zadataka
 
 ## Column headers
 
