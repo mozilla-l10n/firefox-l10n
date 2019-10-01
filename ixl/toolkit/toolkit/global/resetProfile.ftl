@@ -9,5 +9,6 @@ refresh-profile-dialog-button =
 refresh-profile-description = Xe'ten unpajte as la b'an tuch u uve yannale'.
 refresh-profile-description-details = Ni tal qaama.
 refresh-profile-remove = Sojsa unq'a aq'one ve b'anel s-an.
+refresh-profile-restore = Q'aven ti qul as  b'an tuch unq'a kame vee b'anel s-an.
 refresh-profile = Pichu' unpajte.{ -brand-short-name }
 refresh-profile-button = La q'avisal tu tantimb'al{ -brand-short-name }
