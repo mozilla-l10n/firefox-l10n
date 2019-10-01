@@ -51,9 +51,12 @@ cfr-doorhanger-extension-total-users =
         [one] B'anb'en tetz
        *[other] Xo'l b'anb'en tetz
     }
+cfr-doorhanger-pintab-description = Oora kuxh la lej unq'a vee' chukeltu ve't s-'an. Jajkan kuxh unq'a vee' at tzitza'  (at kuxhtu' tul uva' la xe'tisa u aaq'one' unpajte).
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b> Laaku' u tal mouse tu seb'al</b>tu texhlale' uve' nasa' aaq'at kan.
+cfr-doorhanger-pintab-step2 = Txaa xo'l <b> aq'kan u tilb'ale'</b> tu uve' ni tilpu kat unq'a tatine'.
 cfr-doorhanger-pintab-animation-pause = Tanb'a'
 cfr-doorhanger-pintab-animation-resume = Yakeb'en
 
