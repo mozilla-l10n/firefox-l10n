@@ -63,6 +63,7 @@ newtab-menu-dismiss = Xita
 newtab-menu-delete-history = Xita nuu sɨ´ɨ nsá´ánu
 newtab-menu-save-to-pocket = Chuva´a nuu { -pocket-brand-name }
 newtab-menu-delete-pocket = Xita nuu { -pocket-brand-name }
+newtab-menu-archive-pocket = Chuva´a nuu { -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Xita a ta´a ini noo´o
 # Bookmark is a verb here.
@@ -77,6 +78,7 @@ newtab-menu-bookmark = A ta´a ini noo´o
 
 newtab-menu-copy-download-link = Tɨɨn link xinuun
 newtab-menu-go-to-download-page = Kua'an nuu página xinuun
+newtab-menu-remove-download = Xita nuu sɨ´ɨ nsá´ánu
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
@@ -91,6 +93,7 @@ newtab-menu-open-file = Sine archivo
 newtab-label-visited = Nne´yanu
 newtab-label-bookmarked = Nte nuu ta´a ini noo´o
 newtab-label-removed-bookmark = Iin a ta´a ini noo´o nxita
+newtab-label-saved = Chuva´a nuu { -pocket-brand-name }
 newtab-label-download = Nxinuu
 
 ## Section Menu: These strings are displayed in the section context menu and are 
@@ -100,9 +103,12 @@ newtab-label-download = Nxinuu
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-manage-section = Tetiñu sección
+newtab-section-menu-manage-webext = Tetiñu daa extensión
 newtab-section-menu-add-search-engine = Chisó ka̱a̱ nánuku
 newtab-section-menu-move-up = Scana si̱kɨ̱
 newtab-section-menu-move-down = Scana chuve
+newtab-section-menu-privacy-notice = Tu´un xitu a kumiji noo´o
 
 ## Section aria-labels
 

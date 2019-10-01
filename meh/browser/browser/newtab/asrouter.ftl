@@ -74,6 +74,7 @@ cfr-whatsnew-button =
     .label = Nakuvi a jíía íyo
     .tooltiptext = Nakuvi a jíía íyo
 cfr-whatsnew-panel-header = Nakuvi a jíía íyo
+cfr-whatsnew-lockwise-take-title = Kuiso daa contraseña jii noo´o
 
 ## Bookmark Sync
 

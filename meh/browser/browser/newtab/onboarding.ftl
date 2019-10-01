@@ -13,6 +13,7 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Ka´vi kue´eka
+onboarding-button-label-try-now = Ni´ima ntañu´u
 onboarding-button-label-get-started = Kajie´e
 
 ## Welcome modal dialog strings
