@@ -612,6 +612,7 @@ prefs-syncing-off = Synkronisering: AV
 prefs-sync-setup =
     .label = Konfigurer { -sync-brand-short-name }…
     .accesskey = K
+prefs-sync-offer-setup-label = Synkroniser bokmerke, historikk, faner, passord, tillegg og innstillingar på tvers av alle einingane dine.
 prefs-sync-now =
     .labelnotsyncing = Synkroniser no
     .accesskeynotsyncing = n
@@ -626,6 +627,7 @@ sync-currently-syncing-tabs = Opne faner
 sync-currently-syncing-logins-passwords = Innloggingar og passord
 sync-currently-syncing-addresses = Adresser
 sync-currently-syncing-creditcards = Kredittkort
+sync-currently-syncing-addons = Tillegg
 sync-currently-syncing-prefs =
     { PLATFORM() ->
         [windows] Innstillingar
