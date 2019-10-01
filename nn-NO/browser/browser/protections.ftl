@@ -21,20 +21,14 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Vernenivået er sett til <b>standard</b>
-protection-header-details-strict = Vernenivået er sett til <b>streng</b>
-protection-header-details-custom = Vernenivået er sett til <b>tilpasset</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Vernenivået er sett til <b>standard</b>
     .title = Gå til personverninnstillingar
 protection-report-header-details-strict = Vernenivået er sett til <b>streng</b>
     .title = Gå til personverninnstillingar
 protection-report-header-details-custom = Vernenivået er sett til <b>tilpasset</b>
     .title = Gå til personverninnstillingar
-protection-report-page-title = Vern av personvern
-protection-report-content-title = Vern av personvern
+protection-report-page-title = Personvernsikring
+protection-report-content-title = Personvernsikring
 etp-card-title = Utvida sporingsvern
 etp-card-content = Sporfølgjarar følgjer deg rundt på nettet for å samle informasjon om surfevanane og interessene dine. { -brand-short-name } blokkerer mange av desse sporfølgjarane og andre vondsinna skript.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -43,7 +37,7 @@ graph-today = I dag
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Ein graf som inneheld det totale antalet for kvar type av sporfølgjarar som har blitt blokkerte denne veka.
 social-tab-title = Sporing via sosiale medium
-social-tab-contant = Sosiale nettverk plasserer sporfølgjarar på andre nettstadar for å følgje det du gjer og ser på nettet. Dette gjer at sosiale media-selskap kan lære meir om deg utover det du deler på profilane dine på sosiale medium. <a data-l10n-name="learn-more-link">Les meir</a>
+social-tab-contant = Sosiale nettverk plasserer sporfølgjarar på andre nettstadar for å følgje det du gjer og ser på nettet. Dette gjer at sosiale mediaselskap kan lære meir om deg utover det du deler på profilane dine på sosiale medium. <a data-l10n-name="learn-more-link">Les meir</a>
 cookie-tab-title = Sporingsinfokapslar på tvers av nettstadar
 cookie-tab-content = Desse infokapslane følgjer deg frå nettstad til nettstad for å samle inn data om kva du gjer på nettet. Dei vert brukte av tredjepartar som annonsørar og analyseselskap. Blokkering av sporingsinfokapslar på tvers av nettstadar reduserer talet på annonsar som følgjer deg. <a data-l10n-name="learn-more-link">Les meir</a>
 tracker-tab-title = Sporingsinnhald
@@ -56,7 +50,6 @@ lockwise-title = Glæym aldri eit passord igjen
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } lagrar passorda dine sikkert i nettlesaren din.
 lockwise-header-content-logged-in = Lagre passorda dine sikkert og synkroniser dei med alle eniningane dine.
-about-logins-view-logins-button = Vis innloggingar
 protection-report-view-logins-button = Vis innloggingar
     .title = Gå til lagra innloggingar
 lockwise-no-logins-content = Få appen <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> for å ta passorda dine med overalt.
@@ -118,10 +111,6 @@ password-warning =
         [one] Lagra innlogging kan ha blitt eksponert i ein datalekkasje. Endre dette passordet for betre sikkerheit på nettet <a data-l10n-name="lockwise-link">Vis lagra innloggingar</a>
        *[other] Lagra innloggingar kan ha blitt eksponerte i ein datalekkasje. Endre desse passorda for betre sikkerheit på nettet <a data-l10n-name="lockwise-link">Vis lagra innloggingar</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Gå til personverninnstillingar
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Gå til lagra innloggingar
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
