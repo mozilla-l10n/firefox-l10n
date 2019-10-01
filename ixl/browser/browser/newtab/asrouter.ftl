@@ -73,6 +73,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Xaanen as ye'xhib'il kuxh la xekeb' see'
+cfr-protections-panel-body = Kol unq'a eetze' axh kuxh ootzin tetz. { -brand-short-name } ni lochone' ti' unq'a uxhchile' uve' chukune' uve' ni b'anchu tu Internet.
 cfr-protections-panel-link-text = Ootzi ka'te
 
 ## What's New toolbar button and panel
@@ -81,6 +82,8 @@ cfr-whatsnew-button =
     .label = Kam ak' at ve'te'
     .tooltiptext = Kam ak' at ve'te'
 cfr-whatsnew-panel-header = Kam ak' at ve'te'
+cfr-whatsnew-release-notes-link-text = Sik'le unq'a yole' at ti' unq'a vee' ni telch'u'l
+cfr-whatsnew-fx70-title = { -brand-short-name } a' ni tale' uva' la chit eel isuuchil uva' eetz chitu'
 
 ## Bookmark Sync
 
