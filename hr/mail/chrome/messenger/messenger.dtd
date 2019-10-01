@@ -516,7 +516,7 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "Otklanjanje grešaka u dodacima">
 <!ENTITY debugAddonsCmd.accesskey "g">
-<!ENTITY tabsDebugCmd.label "Debugger za sadržaj okvira">
+<!ENTITY tabsDebugCmd.label "Ispravljač grešaka za sadržaj okvira">
 <!ENTITY tabsDebugCmd.accesskey "s">
 <!ENTITY errorConsoleCmd.label "Konzola grešaka">
 <!ENTITY errorConsoleCmd.accesskey "e">
