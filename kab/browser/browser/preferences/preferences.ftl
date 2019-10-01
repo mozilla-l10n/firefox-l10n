@@ -609,6 +609,10 @@ prefs-syncing-off = Amtawi: INSA
 prefs-sync-setup =
     .label = Sbadu { -sync-brand-short-name }...
     .accesskey = S
+prefs-sync-now =
+    .labelnotsyncing = Mtawi tura
+    .accesskeynotsyncing = T
+    .labelsyncing = Amtawi…
 
 ## The list of things currently syncing.
 

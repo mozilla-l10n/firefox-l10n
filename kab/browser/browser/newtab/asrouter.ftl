@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Asiɣzef yelhan
+cfr-doorhanger-feature-heading = Timahilin ihulen
 cfr-doorhanger-pintab-heading = Ɛreḍ aya: senṭeḍ iccer
 
 
