@@ -22,6 +22,7 @@ footer-learn-more-link = Saznajte više
 features-learn-more = Saznajte više
 features-inspector-title = Inspektor
 features-inspector-desc = Ispitaj i prilagodi kȏd za izradu savršenih prijeloma stranica na razini piksela. <a data-l10n-name="learn-more">{ features-learn-more }
+features-debugger-title = Ispravljač grešaka
 features-network-title = Mreža
 features-storage-title = Spremište
 features-responsive-title = Responzivni dizajn
