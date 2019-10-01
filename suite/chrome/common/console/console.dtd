@@ -38,7 +38,7 @@
 
 <!ENTITY menuBar.tooltip       "Menubalk">
 <!ENTITY modeToolbar.tooltip   "Moduswerkbalk">
-<!ENTITY entryToolbar.tooltip  "Javascript-invoerwerkbalk">
+<!ENTITY entryToolbar.tooltip  "JavaScript-invoerwerkbalk">
 <!ENTITY toolbarsCmd.label     "Tonen/verbergen">
 <!ENTITY toolbarsCmd.accesskey "T">
 <!ENTITY toolbarMode.label     "Modus">
