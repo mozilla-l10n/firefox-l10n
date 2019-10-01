@@ -248,7 +248,7 @@ menu-preferences =
            *[other] P
         }
 menu-tools-layout-debugger =
-    .label = Debugger rasporeda
+    .label = Ispravljač grešaka rasporeda
     .accesskey = r
 
 ## Window Menu

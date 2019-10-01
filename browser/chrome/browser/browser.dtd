@@ -103,7 +103,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.accesskey "I">
 
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY ldbCmd.label "Debugger rasporeda">
+<!ENTITY ldbCmd.label "Ispravljač grešaka rasporeda">
 <!ENTITY ldbCmd.accesskey "r">
 <!ENTITY mirrorTabCmd.label "Odrazi karticu">
 <!ENTITY mirrorTabCmd.accesskey "O">
