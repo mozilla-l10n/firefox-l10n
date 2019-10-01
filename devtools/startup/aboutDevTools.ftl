@@ -2,7 +2,16 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+head-title = O programerskim alatima
+enable-title = Omogući programerske alate Firefoxa
+enable-inspect-element-title = Omogući programerske alate Firefoxa za korištenje alata „Provjeri element”
+enable-inspect-element-message = Istraži i uredi HTML i CSS pomoću Inspektora u programerskim alatima.
+enable-key-shortcut-message = Aktivirao/la si prečac programerskih alata. Ako je to bila greška, možeš zatvoriti ovu karticu.
+enable-common-message = Programerski alati Firefoxa su standardno onemogućeni, jer to povećava kontrolu nad preglednikom.
+enable-learn-more-link = Saznaj više o programerskim alatima
+enable-enable-button = Omogući programerske alate
 enable-close-button = Zatvori ovu karticu
+welcome-title = Pozdravljamo te u programerskim alatima Firefoxa!
 newsletter-email-placeholder =
     .placeholder = E-pošta
 newsletter-subscribe-button = Pretplati se
