@@ -83,7 +83,7 @@
 <!ENTITY redirectLoop.title "Petlja preusmjeravanja">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Ovaj problem ponekad može biti uzrokovan isključivanjem ili odbijanjemprimanja kolačića.</li> </ul>">
 
-<!ENTITY unknownSocketType.title "Neispravan odgovor">
+<!ENTITY unknownSocketType.title "Neočekivani odgovor od poslužitelja">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Provjerite  ima li vaše računalo instaliran &quot;Personal Security Manager&quot; </li> <li>Moguće da je greška povezana s neuobičajenim postavkama servera.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Neuspjeh otvaranja sigurne veze">
