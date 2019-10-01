@@ -235,7 +235,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "Vrati kartice, uštede na prijenosu podataka, alati za ravijatelje">
+<!ENTITY pref_category_advanced_summary3 "Obnovi kartice, uštedi količinu podataka, alati za programere">
 <!ENTITY pref_category_notifications "Obavijesti">
 <!ENTITY pref_category_notifications_summary2 "Nove mogućnosti, preporuke proizvoda">
 <!ENTITY pref_developer_remotedebugging_usb "Udaljeno otklanjanje grešaka putem USB-a">
@@ -293,7 +293,7 @@
      “storing data”. -->
 <!ENTITY pref_category_data_saver "Ušteda prijenosa podataka">
 <!ENTITY pref_category_media "Medij">
-<!ENTITY pref_category_developer_tools "Alati za razvijatelje">
+<!ENTITY pref_category_developer_tools "Alati za programere">
 
 <!ENTITY pref_tap_to_load_images_title2 "Prikaži slike">
 <!ENTITY pref_tap_to_load_images_enabled "Uvijek">
