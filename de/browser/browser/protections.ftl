@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Schutzstufe gesetzt auf <b>Standard</b>.
-protection-header-details-strict = Schutzstufe gesetzt auf <b>Streng</b>.
-protection-header-details-custom = Schutzstufe gesetzt auf <b>Benutzerdefiniert</b>.
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Schutzstufe gesetzt auf <b>Standard</b>.
     .title = Datenschutz-Einstellungen öffnen
 protection-report-header-details-strict = Schutzstufe gesetzt auf <b>Streng</b>.
@@ -56,7 +50,6 @@ lockwise-title = Nie wieder ein Passwort vergessen
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } speichert Passwörter sicher in Ihrem Browser.
 lockwise-header-content-logged-in = Speichern Sie Passwörter sicher und synchronisieren Sie diese mit allen Ihren Geräten.
-about-logins-view-logins-button = Zugangsdaten anzeigen
 protection-report-view-logins-button = Zugangsdaten anzeigen
     .title = Gespeicherte Zugangsdaten öffnen
 lockwise-no-logins-content = Holen Sie sich die <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> App und nehmen Sie damit Ihre Passwörter überall mit hin.
@@ -83,7 +76,7 @@ monitor-title = Nach Datenlecks Ausschau halten
 monitor-link = Funktionsweise
 monitor-header-content-no-account = Testen Sie mit { -monitor-brand-name }, ob Sie von einem Datenleck betroffen sind, und lassen Sie sich bei zukünftigen Datenlecks benachrichtigen.
 monitor-header-content-signed-in = { -monitor-brand-name } benachrichtigt Sie, falls Ihre Informationen von einem bekannt werden Datenleck betroffen sind.
-monitor-sign-up = Anmelden für Alarme über Datenlecks
+monitor-sign-up = Anmelden für Warnmeldungen zu Datenlecks
 auto-scan = Heute automatisch überprüft
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -118,10 +111,6 @@ password-warning =
         [one] gespeicherte Zugangsdaten wurden eventuell durch ein Datenleck offengelegt. Ändern Sie das Passwort für mehr Online-Sicherheit. <a data-l10n-name="lockwise-link">Gespeicherte Zugangsdaten anzeigen</a>
        *[other] gespeicherte Zugangsdaten wurden eventuell durch einen Datenleck offengelegt. Ändern Sie das Passwort für mehr Online-Sicherheit. <a data-l10n-name="lockwise-link">Gespeicherte Zugangsdaten anzeigen</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Datenschutz-Einstellungen öffnen
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Gespeicherte Zugangsdaten öffnen
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
