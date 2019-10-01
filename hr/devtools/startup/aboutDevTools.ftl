@@ -25,6 +25,7 @@ features-inspector-desc = Ispitaj i prilagodi kȏd za izradu savršenih prijelom
 features-network-title = Mreža
 features-storage-title = Spremište
 features-memory-title = Memorija
+newsletter-error-unknown = Došlo je do neočekivane greške.
 # Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Programerski alati su uspješno omogućeni! Istraži alate u izborniku web programera ili otvori alate pomoću { $shortcut }.
