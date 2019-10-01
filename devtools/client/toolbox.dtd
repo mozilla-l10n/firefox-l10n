@@ -76,6 +76,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Omogući udaljeno riješavanje problema">
+<!ENTITY options.enableRemote.tooltip2  "Uključivanje ove opcije omogućit će programerskim alatima uklanjaje grešaka udaljene instance poput Firefox OS-a">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -96,12 +97,13 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+<!ENTITY options.selectDefaultTools.label2    "Zadani programerski alati">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
-<!ENTITY options.selectAdditionalTools.label  "Alati za razvijatelje instalirani od strane dodataka">
+<!ENTITY options.selectAdditionalTools.label  "Programerski alati instalirani od strane dodataka">
 
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
