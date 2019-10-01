@@ -18,7 +18,7 @@
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Traži…">
 <!ENTITY findReplaceCmd.label "Pronađi i zamijeni…">
-<!ENTITY enableInlineSpellChecker.label "Provjeravaj pravopis tijekom tipkanja">
+<!ENTITY enableInlineSpellChecker.label "Provjeri pravopis tijekom tipkanja">
 <!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY checkSpellingCmd2.label "Provjeri pravopis…">
 <!ENTITY checkSpellingCmd2.accesskey "v">

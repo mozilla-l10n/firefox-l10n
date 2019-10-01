@@ -263,7 +263,7 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Zadani format">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "d">
 
-<!ENTITY viewAttachmentsInlineCmd.label "Prikaži privitke umetnute">
+<!ENTITY viewAttachmentsInlineCmd.label "Prikaži privitke ugrađeno">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "a">
 
 <!ENTITY pageSourceCmd.label "Izvorni kod poruke">
@@ -362,7 +362,7 @@
 <!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Proslijedi kao">
 <!ENTITY forwardAsMenu.accesskey "i">
-<!ENTITY forwardAsInline.label "Umetnuto">
+<!ENTITY forwardAsInline.label "Ugrađeno">
 <!ENTITY forwardAsInline.accesskey "m">
 <!ENTITY forwardAsAttachmentCmd.label "Privitak">
 <!ENTITY forwardAsAttachmentCmd.accesskey "a">
@@ -581,7 +581,7 @@
 <!ENTITY replyAllButton.tooltip "Odgovori pošiljatelju i svim primateljima">
 <!ENTITY replyListButton.tooltip "Odgovori na popis primatelja">
 <!ENTITY forwardButton.tooltip "Proslijedi odabranu poruku">
-<!ENTITY forwardAsInline.tooltip "Proslijedite odabranu poruku kao umetnuti tekst">
+<!ENTITY forwardAsInline.tooltip "Proslijedi odabranu poruku kao ugrađeni tekst">
 <!ENTITY forwardAsAttachment.tooltip "Proslijedite odabranu poruku kao privitak">
 <!ENTITY fileButton.tooltip "Pohrani odabranu poruku">
 <!ENTITY archiveButton.tooltip "Arhiviraj odabrane poruke">
@@ -785,8 +785,8 @@
 <!ENTITY contextForward.accesskey "P">
 <!ENTITY contextForwardAsMenu.label "Proslijedi kao">
 <!ENTITY contextForwardAsMenu.accesskey "i">
-<!ENTITY contextForwardAsInline.label "Umetnuto">
-<!ENTITY contextForwardAsInline.accesskey "t">
+<!ENTITY contextForwardAsInline.label "Ugrađeno">
+<!ENTITY contextForwardAsInline.accesskey "g">
 <!ENTITY contextForwardAsAttachmentItem.label "Privitak">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "v">
 <!ENTITY contextMultiForwardAsAttachment.label "Proslijedi kao privitke">
