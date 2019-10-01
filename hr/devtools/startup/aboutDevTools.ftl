@@ -24,7 +24,7 @@ features-inspector-title = Inspektor
 features-inspector-desc = Ispitaj i prilagodi kȏd za izradu savršenih prijeloma stranica na razini piksela. <a data-l10n-name="learn-more">{ features-learn-more }
 features-network-title = Mreža
 features-storage-title = Spremište
-features-responsive-title = Prilagođeni prikaz
+features-responsive-title = Responzivni dizajn
 features-responsive-desc = Testiraj stranice na emuliranim uređajima u tvom pregledniku. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-memory-title = Memorija
 newsletter-error-unknown = Došlo je do neočekivane greške.
