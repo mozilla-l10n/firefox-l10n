@@ -98,9 +98,11 @@ detail-private-browsing-description2 = Toq xtiya' q'ij, ri k'amal xtok pa ri asa
 # cannot be overridden by the user.
 detail-private-disallowed-label = Man ya'on ta q'ij pan Ichinan Tzuwäch
 detail-private-disallowed-description = Man nisamäj ta pa ichinan okem pa k'amaya'l re k'amal re'. <label data-l10n-name="detail-private-browsing-learn-more">Tetamäx ch'aqa' chik</label>
+detail-private-disallowed-description2 = Man nisamäj ta pa ichinan okem pa k'amaya'l re k'amal re'. <a data-l10n-name="learn-more">Tetamäx ch'aqa' chik</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Nrajo' Okem pa Ichinan Tzuwäch
 detail-private-required-description = Re k'amal re' nok pan taq asamaj richin k'amab'ey toq atokinäq pan ichinan okem pa k'amaya'l. <label data-l10n-name="detail-private-browsing-learn-more">Tetamäx ch'aqa' chik</label>
+detail-private-required-description2 = Re k'amal re' tikirel nok pa samaj pa k'amab'ey toq k'o pa ichinan okem pa k'amaya'l. <a data-l10n-name="learn-more">Tetamäx ch'aqa' chik</a>
 detail-private-browsing-on =
     .label = Tiya' q'ij
     .tooltiptext = Titz'ij pa Ichinan Okem pa K'amaya'l
@@ -384,6 +386,11 @@ addon-detail-private-browsing-disallow = Man Tiya' Q'ij
 addon-badge-recommended =
     .title = Taq chilab'exïk
     .alt = Taq chilab'exïk
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } xa xe yeruchilab'ej taq k'amal kojqan rub'eyal qajikomal chuqa' rub'eyal qasamaj
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Taq K'exoj e K'o
 recent-updates-heading = K'ak'a' taq K'exoj
 release-notes-loading = Nusamajib'ej…

@@ -113,6 +113,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Taq rutzijol
 safe-mode-title = Titojtob'ëx ütz rub'anikil
 restart-in-safe-mode-label = Titikirisäx chik kik'in ri chupül taq tz'aqat…
+
+## Media titles
+
+audio-backend = Q'ojom Backend
+max-audio-channels = Nima'q taq b'ey
+channel-layout = Ruwachib'enik Ajowan B'ey
+sample-rate = Ajowan Q'ijun Tz'etb'äl
 media-title = Q'ojom
 media-output-devices-title = Elem taq Okisaxel
 media-input-devices-title = Okib'äl taq Okisaxel
@@ -125,6 +132,12 @@ media-device-format = B'anikil
 media-device-channels = Taq b'ey
 media-device-rate = Rajil
 media-device-latency = Rub'anikil k'o wi
+media-capabilities-title = Kisamaj K'oxom
+# List all the entries of the database.
+media-capabilities-enumerate = Ticholajïx cholxe'el
+
+
+
 intl-title = Elniminïk & Tzalq'omanri'ïl
 intl-app-title = Kinuk'ulem Chokoy
 intl-locales-requested = K'utun taq Tzalq'omanïk
@@ -240,10 +253,6 @@ content-uses-tiling = Tokisäx Ch'utiwäch (Rupam)
 off-main-thread-paint-enabled = Off Nïm Rub'ey Rachwinäq Tzijon
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Tajiläx
 target-frame-rate = Retal Ruchi' Rub'ey:
-audio-backend = Q'ojom Backend
-max-audio-channels = Nima'q taq b'ey
-channel-layout = Ruwachib'enik Ajowan B'ey
-sample-rate = Ajowan Q'ijun Tz'etb'äl
 min-lib-versions = Ch'uti'n ruwäch oyob'en
 loaded-lib-versions = Ruwäch tajin nokisäx
 has-seccomp-bpf = Seccomp-BPF (Ruq'inoj chayunel taq oyonïk)
