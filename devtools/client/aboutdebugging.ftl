@@ -155,6 +155,13 @@ about-debugging-runtime-processes =
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
 about-debugging-runtime-profile-button2 = Perfomansa profila
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# - from Fx 67 to 66 or to 65
+# - from Fx 68 to 66
+# Those are normally in range for DevTools compatibility policy, but specific non
+# backward compatible changes broke the debugger in those scenarios (Bug 1528219).
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+about-debugging-browser-version-too-old-67-debugger = Ploča ispravljača grešaka možda ne radi s povezanim preglednikom. Koristi Firefox { $runtimeVersion } ako moraš koristiti ispravljača grešaka s ovim preglednikom.
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
