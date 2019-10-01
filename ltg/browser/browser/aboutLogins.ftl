@@ -44,6 +44,14 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } deļ iPhone un iPad
 
 login-list =
     .aria-label = Lītōtōjvōrdi, kuri atbylst mekliešonys pīprasejumam
+login-list-count =
+    { $count ->
+        [zero] lītotōjvōrdu
+        [one] lītotōjvōrds
+       *[other] lītotōjvōrdi
+    }
+login-list-sort-label-text = Sakōrtōt pec:
+login-list-name-option = Vōrds (A-Z)
 
 ## Introduction screen
 
