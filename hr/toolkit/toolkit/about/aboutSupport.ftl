@@ -118,7 +118,7 @@ restart-in-safe-mode-label = Ponovno pokreni s isključenim dodacima…
 
 audio-backend = Audio pozadina
 max-audio-channels = Maksimalno kanala
-channel-layout = Željeni raspored kanala
+channel-layout = Preferirani raspored kanala
 sample-rate = Željena učestalost uzorka
 media-title = Medij
 media-output-devices-title = Izlazni uređaji
