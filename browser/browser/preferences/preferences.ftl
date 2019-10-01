@@ -498,12 +498,22 @@ search-bar-shown =
     .label = Aggiungi la barra di ricerca alla barra degli strumenti
 search-engine-default-header = Motore di ricerca predefinito
 search-engine-default-desc = Seleziona il motore di ricerca predefinito da utilizzare nella barra degli indirizzi e nella barra di ricerca.
+
+search-engine-default-private-desc = Seleziona il motore di ricerca predefinito da utilizzare nelle finestre anonime.
+search-separate-default-engine =
+    .label = Utilizza questo motore di ricerca nelle finestre anonime
+    .accesskey = U
+
+search-suggestions-header = Suggerimenti di ricerca
+search-suggestions-desc = Scegli come visualizzare i suggerimenti dai motori di ricerca.
+
 search-suggestions-option =
     .label = Visualizza suggerimenti di ricerca
     .accesskey = V
 search-show-suggestions-url-bar-option =
     .label = Visualizza suggerimenti di ricerca tra i risultati della barra degli indirizzi
     .accesskey = i
+suggestions-addressbar-settings = Modifica le impostazioni dei suggerimenti per cronologia di navigazione, segnalibri e schede
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
