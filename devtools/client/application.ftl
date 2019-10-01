@@ -43,7 +43,7 @@ serviceworker-empty-suggestions-console = Nađi greške pomoću konzole. <a>Otvo
 manifest-view-header = Manifest aplikacije
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
-manifest-empty-intro = Ovde trebaš dodati Manifest web aplikacije kako bi je ovdje pregledao/la. <a>Saznaj više</a>
+manifest-empty-intro = Ovdje moraš dodati Manifest web aplikacije kako bi je ovdje pregledao/la. <a>Saznaj više</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Greške i upozorenja
 # Header for the Identity section of Manifest inspection displayed in the application panel.
