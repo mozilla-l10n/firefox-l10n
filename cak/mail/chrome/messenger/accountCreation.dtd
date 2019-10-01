@@ -4,9 +4,12 @@
 
 <!ENTITY autoconfigWizard2.title         "Tib'an Runuk'ulem jun Rub'i' Taqoya'l K'o chik">
 
+<!ENTITY emailWizard.title               "Tabana' Runuk'ulem jun Rochochib'al Taqoya'l K'o Wi">
+<!ENTITY emailWizard.caption             "Tokisäx ri rochochib'al taqoya'l k'o wakami">
 <!ENTITY name.label                      "Ab'i':">
 <!ENTITY name.accesskey                  "b">
 <!ENTITY name.placeholder                "B'i'aj chuqa' Ruk'an B'i'aj">
+<!ENTITY fullname.placeholder            "Tz'aqät b'i'aj">
 <!ENTITY name.text                       "Ab'i', ri xtikitz'ët ri ch'aqa' chik">
 <!ENTITY name.error                      "Tatz'ib'aj ab'i'">
 <!ENTITY email.label                     "Kochochib'al taqoya'l:">
@@ -15,28 +18,41 @@
 <!ENTITY email2.placeholder              "you@example.com">
 <!ENTITY email3.placeholder              "Rochochib'al ataqoya'l">
 <!ENTITY email.text                      "K'o chik ri rochochib'al ataqoya'l">
+<!ENTITY email.error                     "Man okel ta rochochib'al taqoya'l">
 <!ENTITY password.label                  "Ewan tzij:">
 <!ENTITY password.accesskey              "E">
 <!ENTITY password.placeholder            "Ewan tzij">
 <!ENTITY password.text                   "Cha'el, xa xe xtokisäx richin nijikib'äx rub'i' ri winäq">
+<!ENTITY password.toggle                 "Tik'ut/Hide ewan tzij">
 <!ENTITY rememberPassword.label          "Tinatäx ri ewan tzij">
 <!ENTITY rememberPassword.accesskey      "n">
+<!ENTITY usernameEx.label                "Rutikirib'al molojri'ïl:">
+<!ENTITY usernameEx.accesskey            "l">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "YOURDOMAIN\rub'i'okisanel">
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Rutikirisaxik tominyo">
 
+<!ENTITY protocol.label                  "Rub'eyal Samaj:">
 <!ENTITY imapLong.label                  "IMAP (näj taq yakwuj)">
 <!ENTITY pop3Long.label                  "POP3 (tiyake' taqoya'l pan akematz'ib')">
 
 <!ENTITY incoming.label                  "Tajin nok:">
+<!ENTITY incomingColumn.label            "Ja nok">
 <!ENTITY outgoing.label                  "Tajin nel:">
+<!ENTITY outgoingColumn.label            "Ja nel">
 <!ENTITY username.label                  "Rub'i' winäq:">
 <!ENTITY hostname.label                  "Rub'i' k'uxasamaj">
 <!ENTITY port.label                      "B'ey">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Ruk'u'x samaj:">
+<!ENTITY portRow.label                   "B'ey:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Jikib'anïk">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
 <!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange.label                  "Exchange">
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Ruyon titz'et">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
@@ -46,6 +62,7 @@
 <!ENTITY sslTls.label                    "SSL/TLS">
 
 <!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange-hostname.label         "Ruk'u'x rusamaj Exchange:">
 
 <!ENTITY advancedSetup.label             "Xq'ax chi nuk'ulem">
 <!ENTITY advancedSetup.accesskey         "q">
@@ -63,10 +80,14 @@
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Aj q'ab'aj nuk'ulem">
 <!ENTITY manual-edit.accesskey           "A">
+<!ENTITY manual-config.label             "Tib'an runuk'ulem chi q'ab'aj…">
+<!ENTITY manual-config.accesskey         "q">
 <!ENTITY open-provisioner.label          "Tik'ul jun k'ak'a' rochochib'al taqoya'l…">
 <!ENTITY open-provisioner.accesskey      "k">
 
 
+<!ENTITY get-help.label                  "Tk'ul To'ïk">
+<!ENTITY get-help.accesskey              "T">
 
 
 <!ENTITY warning.label                   "¡Rutzijol k'ayewal!">
