@@ -6,9 +6,9 @@
 ### The term "Service Workers" and "Workers" should not be translated
 
 about-service-workers-title = Tungkol sa mga Service Worker
-about-service-workers-main-title = Nakarehistrong Serbisyong Manggagawa
-about-service-workers-warning-not-enabled = Serbisyong Manggagawa ay hindi pinagana.
-about-service-workers-warning-no-service-workers = Walang Serbisyong Manggagawa na naka-rehistro.
+about-service-workers-main-title = Mga Nakarehistrong Service Worker
+about-service-workers-warning-not-enabled = Hindi naka-enable ang mga Service Worker.
+about-service-workers-warning-no-service-workers = Walang naka-rehistrong mga Service Worker.
 # The original title of service workers' information
 #
 # Variables:
@@ -22,14 +22,14 @@ origin-title = Pinagmulan: { $originTitle }
 ##  $url: the url of script specification and current worker.
 
 scope = <strong>Saklaw:</strong> { $name }
-script-spec = <strong>Saklaw Pagtutukoy:</strong> <a data-l10n-name="link">{ $url }</a>
+script-spec = <strong>Script Spec:</strong> <a data-l10n-name="link">{ $url }</a>
 current-worker-url = <strong>Kasalukuyang Worker URL:</strong> <a data-l10n-name="link">{ $url }</a>
-active-cache-name = <strong>Aktibong Pangalan ng Cache:</strong> { $name }
-waiting-cache-name = <strong>Hinihintay na Pangalan ng Cache:</strong> { $name }
-push-end-point-waiting = <strong>Itulak sa Endpoint:</strong> { waiting }
-push-end-point-result = <strong>Itulak sa Endpoint:</strong> { $name }
+active-cache-name = <strong>Pangalan ng Aktibong Cache:</strong> { $name }
+waiting-cache-name = <strong>Pangalan ng Nag-iintay na Cache:</strong> { $name }
+push-end-point-waiting = <strong>Push Endpoint:</strong> { waiting }
+push-end-point-result = <strong>Push Endpoint:</strong> { $name }
 # This term is used as a button label (verb, not noun).
-update-button = Pagsasangayon
-unregister-button = Hindi nairehisto
-unregister-error = Nabigo sa pag bura ng rehistro sa Service Worker na ito.
+update-button = Update
+unregister-button = Unregister
+unregister-error = Bigong i-unregister ang Service Worker na ito.
 waiting = Naghihintay…

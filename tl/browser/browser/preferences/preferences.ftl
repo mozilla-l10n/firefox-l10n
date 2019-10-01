@@ -998,7 +998,7 @@ addon-recommendations =
 addon-recommendations-link = Alamin pa
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
-collection-health-report-disabled = Hindi pinagana ang pag-uulat ng data para sa build configuration na ito
+collection-health-report-disabled = Naka-disable ang pag-uulat ng data para sa build configuration na ito
 collection-backlogged-crash-reports =
     .label = Payagan ang { -brand-short-name } na magpadala ng mga naka-backlog na crash report sa ngalan mo
     .accesskey = c
