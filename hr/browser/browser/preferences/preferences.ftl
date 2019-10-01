@@ -634,7 +634,7 @@ sync-currently-syncing-creditcards = Kreditne kartice
 sync-currently-syncing-addons = Dodaci
 sync-currently-syncing-prefs =
     { PLATFORM() ->
-        [windows] Opcije
+        [windows] Mogućnosti
        *[other] Postavke
     }
 
@@ -681,8 +681,8 @@ sync-engine-addons =
 sync-engine-prefs =
     .label =
         { PLATFORM() ->
-            [windows] Postavke
-           *[other] Osobitosti
+            [windows] Mogućnosti
+           *[other] Postavke
         }
     .tooltiptext = Općenite, privatne i sigurnosne postavke koje ste promijenili
     .accesskey = s
@@ -1053,8 +1053,8 @@ space-alert-learn-more-button =
 space-alert-over-5gb-pref-button =
     .label =
         { PLATFORM() ->
-            [windows] Otvorite mogućnosti
-           *[other] Otvorite podešavanja
+            [windows] Otvori mogućnosti
+           *[other] Otvori postavke
         }
     .accesskey =
         { PLATFORM() ->
