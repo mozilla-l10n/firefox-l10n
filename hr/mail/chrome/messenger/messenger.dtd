@@ -222,10 +222,10 @@
 <!ENTITY threads.accesskey "e">
 <!ENTITY allMsgsCmd.label "Sve">
 <!ENTITY allMsgsCmd.accesskey "v">
-<!ENTITY expandAllThreadsCmd.label "Proširi sve teme">
+<!ENTITY expandAllThreadsCmd.label "Rasklopi sve teme">
 <!ENTITY expandAllThreadsCmd.accesskey "e">
 <!ENTITY expandAllThreadsCmd.key "*">
-<!ENTITY collapseAllThreadsCmd.label "Skupi sve teme">
+<!ENTITY collapseAllThreadsCmd.label "Sklopi sve teme">
 <!ENTITY collapseAllThreadsCmd.accesskey "k">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Nepročitano">
