@@ -78,7 +78,7 @@
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. https://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "Preuzmite ">
+<!ENTITY update.manual.start        "Preuzmi ">
 <!ENTITY update.manual.linkText     "najnoviju inačicu">
 <!ENTITY update.manual.end          "">
 
@@ -97,11 +97,10 @@
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
-<!ENTITY update.downloading.start   "Preuzimanje dopune — ">
+<!ENTITY update.downloading.start   "Preuzimanje dopune – ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Primjenjivanje dopune…">
-
 <!ENTITY update.restarting          "Ponovno pokretanje…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
