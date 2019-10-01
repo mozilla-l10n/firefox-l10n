@@ -586,6 +586,9 @@ sync-profile-picture =
 sync-disconnect =
     .label = Verbinding verbreken…
     .accesskey = v
+sync-sign-out =
+    .label = Afmelden…
+    .accesskey = f
 sync-manage-account = Account beheren
     .accesskey = b
 sync-signedin-unverified = { $email } is niet geverifieerd.
@@ -604,6 +607,12 @@ sync-signedin-settings-desc = Kies wat u wilt synchroniseren op uw apparaten die
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Synchroniseren: AAN
+prefs-syncing-off = Synchroniseren: UIT
+prefs-sync-setup =
+    .label = { -sync-brand-short-name } instellen…
+    .accesskey = s
+prefs-sync-offer-setup-label = Synchroniseer uw bladwijzers, geschiedenis, tabbladen, wachtwoorden, add-ons en voorkeuren op al uw apparaten.
 prefs-sync-now =
     .labelnotsyncing = Nu synchroniseren
     .accesskeynotsyncing = N
@@ -611,6 +620,7 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = U synchroniseert momenteel deze onderdelen:
 sync-currently-syncing-bookmarks = Bladwijzers
 sync-currently-syncing-history = Geschiedenis
 sync-currently-syncing-tabs = Open tabbladen
@@ -626,6 +636,14 @@ sync-currently-syncing-prefs =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Kies wat u wilt synchroniseren
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Wijzigingen opslaan
+    .buttonaccesskeyaccept = o
+    .buttonlabelextra2 = Verbinding verbreken…
+    .buttonaccesskeyextra2 = b
+sync-choose-heading = Kies wat u met uw account wilt synchroniseren op apparaten die { -sync-brand-short-name } gebruiken:
 sync-engine-bookmarks =
     .label = Bladwijzers
     .accesskey = B
