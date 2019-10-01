@@ -13,7 +13,7 @@
 policy-3rdparty = Postavite pravila kojima će WebExtensions moći pristupiti putem chrome.storage.managed.
 policy-AppUpdateURL = Postavite prilagođeni URL za ažuriranje aplikacije.
 policy-Authentication = Konfigurirajte integriranu prijavu za web stranice koje ju podržavaju.
-policy-BlockAboutAddons = Blokirajte pristup upravitelju dodataka (about:addons).
+policy-BlockAboutAddons = Blokiraj pristup upravljaču dodataka (about:addons).
 policy-BlockAboutConfig = Blokirajte pristup about:config stranici.
 policy-BlockAboutProfiles = Blokirajte pristup about:profiles stranici.
 policy-BlockAboutSupport = Blokirajte pristup about:support stranici.

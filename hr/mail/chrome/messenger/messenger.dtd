@@ -471,7 +471,7 @@
 <!ENTITY addonPrefsUnix.label "Mogućnosti dodataka">
 <!ENTITY addonPrefsUnix.accesskey "D">
 <!ENTITY addonNoPrefs.label "Postavke dodatka nisu pronađene.">
-<!ENTITY activitymanager.label "Upravitelj aktivnostima">
+<!ENTITY activitymanager.label "Upravljač aktivnosti">
 <!ENTITY activitymanager.accesskey "v">
 <!ENTITY imAccountsStatus.label "Status razgovora">
 <!ENTITY imAccountsStatus.accesskey "z">
