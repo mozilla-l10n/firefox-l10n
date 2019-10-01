@@ -509,7 +509,7 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "a">
 
 <!-- Developer Tools Submenu -->
-<!ENTITY devtoolsMenu.label "Alati za razvijatelje">
+<!ENTITY devtoolsMenu.label "Programerski alati">
 <!ENTITY devtoolsMenu.accesskey "e">
 <!ENTITY devToolboxCmd.label "Alati za razvijatelje">
 <!ENTITY devToolboxCmd.accesskey "t">
