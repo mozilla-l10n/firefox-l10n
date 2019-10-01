@@ -9,9 +9,7 @@
 <!ENTITY retry.label "Opnieuw proberen">
 <!ENTITY returnToPreviousPage.label "Terug">
 <!ENTITY returnToPreviousPage1.label "Teruggaan (Aanbevolen)">
-<!ENTITY advanced.label "Geavanceerd">
 <!ENTITY advanced2.label "Geavanceerd…">
-<!ENTITY moreInformation.label "Meer informatie">
 <!ENTITY viewCertificate.label "Certificaat bekijken">
 
 <!-- Specific error messages -->
@@ -149,14 +147,8 @@
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle1 "Uw verbinding is niet beveiligd">
-
 <!ENTITY certerror.longpagetitle2 "Waarschuwing: mogelijk beveiligingsrisico">
 <!ENTITY certerror.sts.longpagetitle  "Geen verbinding gemaakt: mogelijk beveiligingsprobleem">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
-will be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara "De eigenaar van <span class='hostname'/> heeft zijn of haar website niet juist geconfigureerd. Om uw gegevens tegen diefstal te beschermen, heeft &brandShortName; geen verbinding met deze website gemaakt.">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -200,9 +192,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Beschadigde-inhoudsfout">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven, omdat er een fout in de gegevensoverdracht is gedetecteerd.</p><ul><li>Neem contact op met de website-eigenaars om ze over dit probleem te informeren.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Uitzondering toevoegen…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Het risico aanvaarden en doorgaan">
 
 <!ENTITY errorReporting.automatic2 "Fouten als deze rapporteren om Mozilla te helpen kwaadwillende websites te herkennen en te blokkeren">
@@ -216,20 +205,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Geavanceerde info: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; heeft geen verbinding met <span id='wrongSystemTime_URL'/> gemaakt, omdat de klok van uw computer de verkeerde tijd lijkt aan te geven, en dit voorkomt een beveiligde verbinding.</p> <p>Uw computer is ingesteld op <span id='wrongSystemTime_systemDate'/>, terwijl dit <span id='wrongSystemTime_actualDate'/> zou moeten zijn. Wijzig uw datum- en tijdinstellingen naar de juiste tijd om dit probleem te verhelpen.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; heeft geen verbinding met <span id='wrongSystemTimeWithoutReference_URL'/> gemaakt, omdat de klok van uw computer de verkeerde tijd lijkt aan te geven, en dit voorkomt een beveiligde verbinding.</p> <p>Uw computer is ingesteld op <span id='wrongSystemTimeWithoutReference_systemDate'/>. Wijzig uw datum- en tijdinstellingen naar de juiste tijd om dit probleem te verhelpen.</p>">
-
-<!ENTITY certerror.pagetitle1  "Niet-beveiligde verbinding">
-
 <!ENTITY certerror.pagetitle2  "Waarschuwing: mogelijk beveiligingsrisico">
 <!ENTITY certerror.sts.pagetitle  "Geen verbinding gemaakt: mogelijk beveiligingsprobleem">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Deze website maakt gebruik
-van HTTP Strict Transport Security (HSTS) om aan te geven dat &brandShortName;
-alleen een beveiligde verbinding mag maken. Hierdoor is het niet mogelijk om een
-uitzondering voor dit certificaat toe te voegen.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> heeft een beveiligingsbeleid met de naam HTTP Strict Transport Security (HSTS), wat betekent dat &brandShortName; alleen een beveiligde verbinding ermee kan maken. U kunt geen uitzondering toevoegen om deze website te bezoeken.">
 <!ENTITY certerror.copyToClipboard.label "Tekst naar klembord kopiëren">
 
@@ -252,6 +229,10 @@ uitzondering voor dit certificaat toe te voegen.">
 
 <!ENTITY prefReset.longDesc "Het lijkt erop dat dit door uw netwerkbeveiligingsinstellingen wordt veroorzaakt. Wilt u de standaardinstellingen herstellen?">
 <!ENTITY prefReset.label "Standaardinstellingen herstellen">
+
+<!ENTITY enableTls10.longDesc "Deze website ondersteunt mogelijk het TLS 1.2-protocol niet, wat de minimale versie is die door &brandShortName; wordt ondersteund. Door TLS 1.0 en TLS 1.1 in te schakelen kan mogelijk de verbinding tot stand worden gebracht.">
+<!ENTITY enableTls10.note "TLS 1.0 en TLS 1.1 worden in een toekomstige versie permanent uitgeschakeld.">
+<!ENTITY enableTls10.label "TLS 1.0 en 1.1 inschakelen">
 
 <!ENTITY networkProtocolError.title "Netwerkprotocolfout">
 <!ENTITY networkProtocolError.longDesc "<p>De pagina die u wilt bekijken kan niet worden weergegeven, omdat er een fout in het netwerkprotocol is gedetecteerd.</p><ul><li>Neem contact op met de website-eigenaars om ze over dit probleem te informeren.</li></ul>">

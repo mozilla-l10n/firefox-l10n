@@ -30,6 +30,8 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> heeft geen effect op
 inactive-css-not-flex-container = <strong>{ $property }</strong> heeft geen effect op dit element aangezien het geen flexcontainer is.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> heeft geen effect op dit element, omdat het geen inline of table-cell-element is.
 inactive-css-property-because-of-display = <strong>{ $property }</ strong> heeft geen effect op dit element, omdat het een weergave van <strong>{ $display }</ strong> heeft.
+inactive-css-not-display-block-on-floated = De waarde <strong>display</strong> is door de engine in <strong>block</strong> gewijzigd omdat het element <strong>floated<strong> is.
+inactive-css-property-is-impossible-to-override-in-visited = Het is onmogelijk om <strong>{ $property }</strong> te overschrijven vanwege de beperking <strong>:visited</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -39,9 +41,13 @@ inactive-css-not-grid-or-flex-container-fix = Probeer <strong>display:grid</stro
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Probeer <strong>display:grid</strong>, <strong>display:flex</strong> of <strong>colums:2</strong> toe te voegen. { learn-more }
 inactive-css-not-grid-or-flex-item-fix = Probeer <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> of <strong>display:inline-flex</strong> toe te voegen. { learn-more }
 inactive-css-not-grid-item-fix = Probeer <strong>display:grid</strong> of <strong>display:inline-grid</strong> toe te voegen aan het bovenliggende element. { learn-more }
+inactive-css-not-grid-or-flex-item-fix-2 = Probeer <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> of <strong>display:inline-flex</strong> toe te voegen. { learn-more }
+inactive-css-not-grid-item-fix-2 = Probeer <strong>display:grid</strong> of <strong>display:inline-grid</strong> aan het bovenliggende element toe te voegen. { learn-more }
 inactive-css-not-grid-container-fix = Probeer <strong>display:grid</strong> of <strong>display:inline-grid</strong> toe te voegen. { learn-more }
 inactive-css-not-flex-item-fix = Probeer <strong>display:flex</strong> of <strong>display:inline-flex</strong> toe te voegen aan het bovenliggende element. { learn-more }
+inactive-css-not-flex-item-fix-2 = Probeer <strong>display:flex</strong> of <strong>display:inline-flex</strong> aan het bovenliggende element toe te voegen. { learn-more }
 inactive-css-not-flex-container-fix = Probeer <strong>display:flex</strong> of <strong>display:inline-flex</strong> toe te voegen. { learn-more }
 inactive-css-not-inline-or-tablecell-fix = Probeer <strong>display:inline</strong> of <strong>display:table-cell</strong> toe te voegen. { learn-more }
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Probeer <strong>display:inline-block</ strong> of <strong>display:block</ strong> toe te voegen. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Probeer <strong>display:inline-block</ strong> toe te voegen. { learn-more }
+inactive-css-not-display-block-on-floated-fix = Probeer <strong>float</strong> te verwijderen of <strong>display:block</strong> toe te voegen. { learn-more }

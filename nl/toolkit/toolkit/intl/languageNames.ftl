@@ -188,6 +188,7 @@ language-name-tlh = Klingon
 language-name-tn = Tswana
 language-name-to = Tongaans
 language-name-tr = Turks
+language-name-trs = Triqui
 language-name-ts = Tsonga
 language-name-tt = Tataars
 language-name-tw = Twi
