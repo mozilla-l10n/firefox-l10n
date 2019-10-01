@@ -14,11 +14,14 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Абайлап жалғастырыңыз
+about-config-intro-warning-text = Кеңейтілген баптауларды өзгерту { -brand-short-name } өнімділік немесе қауіпсіздігіне әсерін тигізуі мүмкін.
 about-config-intro-warning-checkbox = Осы параметрлерді өзгерту кезінде ескертіңіз
 about-config-intro-warning-button = Тәуекелді қабылдап, жалғастыру
 
 
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Бұл баптауларды өзгерту { -brand-short-name } өнімділік немесе қауіпсіздігіне әсерін тигізуі мүмкін.
 about-config-page-title = Кеңейтілген баптаулар
 about-config-search-input1 =
     .placeholder = Баптау атынан іздеу
