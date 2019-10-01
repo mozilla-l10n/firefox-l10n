@@ -345,7 +345,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Ispitaj element">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY inspectA11YContextMenu.label     "Pregledajte svojstva pristupačnosti">
+<!ENTITY inspectA11YContextMenu.label     "Ispitaj svojstva pristupačnosti">
 
 <!ENTITY fileMenu.label         "Datoteka">
 <!ENTITY fileMenu.accesskey       "D">
