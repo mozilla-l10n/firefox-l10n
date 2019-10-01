@@ -45,6 +45,7 @@ login-list-name-option = Sivɨ (A-Z)
 login-list-last-changed-option = Nuu nɨ'ɨ a nsama
 login-list-last-used-option = Nni´i nuu nɨ´ɨ
 login-list-intro-title = Ntu nani´i nuu kajie´e sesión
+login-list-intro-description = Saa chuva´anu iin contraseña nuu { -brand-product-name }, ya´a kutuvi.
 login-list-item-title-new-login = A jíía inicio sesión
 login-list-item-subtitle-missing-username = (Na íyo sivɨ ñɨvɨ)
 
@@ -57,6 +58,7 @@ about-logins-intro-instruction-help = Kivu <a data-l10n-name="help-link">{ -lock
 login-item-new-login-title = Sá´á jíía nuu kajie´e sesión
 login-item-edit-button = Natee
 login-item-delete-button = Xita
+login-item-origin-label = Nuu sitio web
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Sɨvu ñɨvu

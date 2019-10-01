@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+synced-tabs-sidebar-connect-another-device = Chu´un inka ka̱a̱
 synced-tabs-context-open =
     .label = Síne
     .accesskey = O
@@ -17,3 +18,9 @@ synced-tabs-context-open-in-new-private-window =
 synced-tabs-context-copy =
     .label = Tɨɨn
     .accesskey = C
+synced-tabs-context-open-all-in-tabs =
+    .label = Síne kuaiyo jii pestañas
+    .accesskey = S
+synced-tabs-context-manage-devices =
+    .label = Tetiñu daa ka̱a̱
+    .accesskey = k

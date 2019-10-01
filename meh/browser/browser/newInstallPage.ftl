@@ -8,7 +8,9 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Tu´un jíía íyo
+heading = Daa nsama perfil { -brand-short-name } noo´o
 changed-title = Naku nsama?
+options-title = ¿Naku kuvi kajini?
 sync-header = Kajie´e sesión a xíín sá´á { -fxaccount-brand-name }
 sync-label = Chu´un email noo´o
 sync-input =

@@ -218,6 +218,9 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+sync-signedout-account-signin =
+    .label = Kajie´e sesión
+    .accesskey = s
 
 ## Sync Section - Signed in
 
@@ -227,6 +230,9 @@ containers-remove-button =
 sync-disconnect =
     .label = Kene...
     .accesskey = K
+sync-manage-account = Administrar cuenta
+    .accesskey = o
+sync-signedin-login-failure = Kuamani ini noo´o jee kajie´e sesión tuku { $email }
 sync-remove-account =
     .label = Xina cuenta
     .accesskey = X
