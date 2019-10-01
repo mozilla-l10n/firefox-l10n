@@ -59,7 +59,7 @@
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
   -  the 'Default color unit' dropdown list and is visible in the options panel.
   -  -->
-<!ENTITY options.defaultColorUnit.name "Imena boja">
+<!ENTITY options.defaultColorUnit.name "Nazivi boja">
 
 <!-- LOCALIZATION NOTE (options.context.triggersPageRefresh): This is the
   -  triggers page refresh footnote under the advanced settings group in the
@@ -87,6 +87,7 @@
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
+<!ENTITY options.disableHTTPCache.label     "Onemogući HTTP predmemoriju (kad je otvorena alatna kutija)">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
@@ -136,6 +137,8 @@
 
 <!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
    - label for the checkbox that toggles the warningGroups feature in the Web Console -->
+<!ENTITY options.warningGroups.label      "Grupiraj slične poruke">
+<!ENTITY options.warningGroups.tooltip    "Kad je omogućeno, slične poruke se svrstavaju u grupe">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
@@ -157,12 +160,17 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+<!ENTITY options.screenshot.label            "Način rada snimke zaslona">
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
+<!ENTITY options.screenshot.clipboard.label      "Snimka zaslona u međuspremnik">
+<!ENTITY options.screenshot.clipboard.tooltip    "Sprema snimku zaslona izravno u međuspremnik">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
+<!ENTITY options.screenshot.audio.label      "Pokreni zvuk okidača kamere">
+<!ENTITY options.screenshot.audio.tooltip    "Omogućava zvuk okidača kamere pri snimanju zaslona">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
@@ -183,6 +191,6 @@
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Koristi razmake umjesto tabulatora">
 <!ENTITY options.sourceeditor.tabsize.label             "Veličina tabulatora">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "V">
-<!ENTITY options.sourceeditor.keybinding.label          "Kratice">
+<!ENTITY options.sourceeditor.keybinding.label          "Tipkovnički prečaci">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
 <!ENTITY options.sourceeditor.keybinding.default.label  "Zadano">
