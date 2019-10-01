@@ -3,14 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Tib'an Runuk'ulem jun Rub'i' Taqoya'l K'o chik">
+
 <!ENTITY name.label                      "Ab'i':">
 <!ENTITY name.accesskey                  "b">
 <!ENTITY name.placeholder                "B'i'aj chuqa' Ruk'an B'i'aj">
 <!ENTITY name.text                       "Ab'i', ri xtikitz'ët ri ch'aqa' chik">
+<!ENTITY name.error                      "Tatz'ib'aj ab'i'">
 <!ENTITY email.label                     "Kochochib'al taqoya'l:">
 <!ENTITY email.accesskey                 "t">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "you@example.com">
+<!ENTITY email3.placeholder              "Rochochib'al ataqoya'l">
 <!ENTITY email.text                      "K'o chik ri rochochib'al ataqoya'l">
 <!ENTITY password.label                  "Ewan tzij:">
 <!ENTITY password.accesskey              "E">
@@ -18,6 +21,8 @@
 <!ENTITY password.text                   "Cha'el, xa xe xtokisäx richin nijikib'äx rub'i' ri winäq">
 <!ENTITY rememberPassword.label          "Tinatäx ri ewan tzij">
 <!ENTITY rememberPassword.accesskey      "n">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 
 <!ENTITY imapLong.label                  "IMAP (näj taq yakwuj)">
 <!ENTITY pop3Long.label                  "POP3 (tiyake' taqoya'l pan akematz'ib')">
@@ -30,7 +35,8 @@
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY auth.label                      "Jikib'anïk">
 <!ENTITY imap.label                      "IMAP">
-<!ENTITY pop3.label                       "POP3">
+<!ENTITY pop3.label                      "POP3">
+<!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Ruyon titz'et">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
@@ -38,6 +44,8 @@
 <!ENTITY noEncryption.label              "Majun">
 <!ENTITY starttls.label                  "STARTTLS">
 <!ENTITY sslTls.label                    "SSL/TLS">
+
+<!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
 
 <!ENTITY advancedSetup.label             "Xq'ax chi nuk'ulem">
 <!ENTITY advancedSetup.accesskey         "q">
@@ -48,7 +56,7 @@
 <!ENTITY stop.label                      "Tiq'at">
 <!ENTITY stop.accesskey                  "q">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Titojtob'ëx-chik">
@@ -57,6 +65,8 @@
 <!ENTITY manual-edit.accesskey           "A">
 <!ENTITY open-provisioner.label          "Tik'ul jun k'ak'a' rochochib'al taqoya'l…">
 <!ENTITY open-provisioner.accesskey      "k">
+
+
 
 
 <!ENTITY warning.label                   "¡Rutzijol k'ayewal!">
