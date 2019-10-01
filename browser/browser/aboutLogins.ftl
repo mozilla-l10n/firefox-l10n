@@ -34,7 +34,7 @@ menu-menuitem-import = Uvezi lozinke…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Mogućnosti
-       *[other] Mogućnosti
+       *[other] Postavke
     }
 about-logins-menu-menuitem-help = Pomoć
 menu-menuitem-android-app = { -lockwise-brand-short-name } za Android

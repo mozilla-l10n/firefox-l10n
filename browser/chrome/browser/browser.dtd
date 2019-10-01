@@ -504,7 +504,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Savjet:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hint "Iskoristite pomoć u pronalaženju stvari! Potražite &#x1F50E; pored rezultata pretraživanja.">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Mogućnosti izmjene…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Promijeni mogućnosti …">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "g">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Mogućnosti izmjene…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "g">
