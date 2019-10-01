@@ -50,3 +50,4 @@ inactive-css-not-flex-container-fix = Eñeha’ã embojuaju <strong>display:flex
 inactive-css-not-inline-or-tablecell-fix = Eñeha’ã embojuaju <strong>display:inline</strong> térã <strong>display:table-cell</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Eñaha'ã embojuaju <strong>display:inline-block</strong> térã <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Eñeha'ã embojuaju <strong>display:inline-block</strong>. { learn-more }
+inactive-css-not-display-block-on-floated-fix = Embogue <strong>vevúiva</strong> térã embojuaju <strong>display:block</strong>. { learn-more }
