@@ -6,6 +6,7 @@ about-logins-page-title = Nuu kajie´e sesión jii contraseñas
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = Kua´a jii contraseña noo´o ntaka nuu
 login-app-promo-android =
     .alt = Ni´ima nuu Google Play
 login-app-promo-apple =
@@ -32,6 +33,7 @@ menu-menuitem-preferences =
        *[other] Preferencias
     }
 about-logins-menu-menuitem-help = Chinei
+menu-menuitem-android-app = { -lockwise-brand-short-name } para Android
 
 ## Login List
 
@@ -40,6 +42,8 @@ login-list-count =
        *[other] { $count }Nuu kajie´e sesión
     }
 login-list-name-option = Sivɨ (A-Z)
+login-list-last-changed-option = Nuu nɨ'ɨ a nsama
+login-list-last-used-option = Nni´i nuu nɨ´ɨ
 login-list-intro-title = Ntu nani´i nuu kajie´e sesión
 login-list-item-title-new-login = A jíía inicio sesión
 login-list-item-subtitle-missing-username = (Na íyo sivɨ ñɨvɨ)
