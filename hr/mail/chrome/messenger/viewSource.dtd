@@ -51,7 +51,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY reloadCmd.label "Ponovno učitaj">
 <!ENTITY reloadCmd.accesskey "n">
 <!ENTITY reloadCmd.commandkey "r">
-<!ENTITY menu_wrapLongLines.title "Omotaj duge retke">
+<!ENTITY menu_wrapLongLines.title "Prelomi duge retke">
 <!ENTITY menu_wrapLongLines.accesskey "O">
 <!ENTITY menu_highlightSyntax.label "Isticanje sintakse">
 <!ENTITY menu_highlightSyntax.accesskey "i">

@@ -296,7 +296,7 @@
 <!ENTITY spellToolbarCmd.tooltip "Provjeri pravopis odabranog teksta ili cijele stranice">
 <!ENTITY imageToolbarCmd.label "Slika">
 <!ENTITY imageToolbarCmd.tooltip "Umetni novu sliku ili uredi postavke odabrane slike">
-<!ENTITY hruleToolbarCmd.label "V.Linija">
+<!ENTITY hruleToolbarCmd.label "Vod.Linija">
 <!ENTITY hruleToolbarCmd.tooltip "Umetni vodoravnu liniju ili uredi postavke odabrane vodoravne linije">
 <!ENTITY tableToolbarCmd.label "Tablica">
 <!ENTITY tableToolbarCmd.tooltip "Umetni novu tablicu ili uredi postavke odabrane tablice">
