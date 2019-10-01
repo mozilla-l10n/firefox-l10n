@@ -20,7 +20,7 @@ create-login-button = Stvori novu prijavu
 #   $title (String) - The title of the website associated with the favicon.
 login-favicon =
     .alt = Favicon za { $title }
-fxaccounts-sign-in-text = Dohvatite svoje lozinke na drugim uređajima
+fxaccounts-sign-in-text = Dohvati svoje lozinke na drugim uređajima
 fxaccounts-sign-in-button = Prijavite se u { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Upravljaj računom
