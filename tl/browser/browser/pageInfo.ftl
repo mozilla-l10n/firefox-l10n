@@ -185,15 +185,15 @@ properties-general-size =
 media-animated-image-type =
     .value =
         { $frames ->
-            [one] { $type } Image (animated, { $frames } frame)
-           *[other] { $type } Image (animated, { $frames } frame)
+            [one] Larawang { $type } (animated, { $frames } frame)
+           *[other] Larawang { $type } (animated, { $frames } frame)
         }
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
-    .value = { $type } Imahe
+    .value = Larawang { $type }
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -202,7 +202,7 @@ media-image-type =
 #   $scaledx (number) - The scaled horizontal size of an image
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
-    .value = { $dimx }px × { $dimy }px (scaled to { $scaledx }px × { $scaledy }px)
+    .value = { $dimx }px × { $dimy }px (naka-scale sa { $scaledx }px × { $scaledy }px)
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image

@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "May problema sa pag-load ng pahina">
 <!ENTITY retry.label "Subukang muli">
 <!ENTITY returnToPreviousPage.label "Bumalik">
-<!ENTITY returnToPreviousPage1.label "Bumalik (Recommended)">
+<!ENTITY returnToPreviousPage1.label "Bumalik (Inirerekomenda)">
 <!ENTITY advanced2.label "Advanced…">
 <!ENTITY viewCertificate.label "Ipakita ang Certificate">
 

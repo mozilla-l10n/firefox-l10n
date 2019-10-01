@@ -5,7 +5,7 @@
 
 ## These messages are used as headings in the recommendation doorhanger
 
-cfr-doorhanger-extension-heading = Rekomendadong Ekstensyon
+cfr-doorhanger-extension-heading = Inirerekomendang Extension
 cfr-doorhanger-feature-heading = Inirerekomenda na Tampok
 cfr-doorhanger-pintab-heading = Subukan: Mag-pin ng Tab
 

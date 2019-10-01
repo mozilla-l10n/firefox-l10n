@@ -45,14 +45,15 @@
 
 <!ENTITY viewMenu_label "Tingnan">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_zoomin_label "Zoom In">
+<!ENTITY viewMenu_zoomin_label "Palakihin">
 <!ENTITY viewMenu_zoomin_accesskey "I">
-<!ENTITY viewMenu_zoomout_label "Zoom Out">
+<!ENTITY viewMenu_zoomout_label "Paliitin">
 <!ENTITY viewMenu_zoomout_accesskey "O">
 <!ENTITY viewMenu_resetzoom_label "Reset Zoom">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Buksan ang App">
+
 <!ENTITY runtimeButton_label "Piliin ang Runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -157,7 +158,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Kung nanghingi ng token ang kabilang device sa halip na mag-scan ng QR code, pakikopya ang value sa baba doon sa kabilang device:">
-<!ENTITY wifi_auth_qr_size_note "Kung masyadong maliit ang QR code para matiwasay na makakonekta, subukang mag-zoom in o palakihin ang window.">
+<!ENTITY wifi_auth_qr_size_note "Kung masyadong maliit ang QR code para matiwasay na makakonekta, subukang mag-zoom o palakihin ang window.">
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Pre-packaging Command Logs">

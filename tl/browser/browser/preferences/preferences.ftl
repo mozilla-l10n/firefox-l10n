@@ -542,7 +542,7 @@ search-keyword-warning-bookmark = Ginagamit na ng isang bookmark ang keyword na 
 
 ## Containers Section
 
-containers-back-link = « Bumalik Ka
+containers-back-link = « Bumalik
 containers-header = Mga Container Tab
 containers-add-button =
     .label = Magdagdag ng Bagong Container
