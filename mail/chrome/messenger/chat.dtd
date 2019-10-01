@@ -14,7 +14,7 @@
 <!ENTITY chat.accountWizard.button       "Započni">
 <!ENTITY chat.noConnectedAccount.title             "Vaši računi za razgovor nisu povezani.">
 <!ENTITY chat.noConnectedAccount.description       "Možete ih povezati iz okvira 'Status razgovora':">
-<!ENTITY chat.showAccountManager.button       "Prikaži status razgovora">
+<!ENTITY chat.showAccountManager.button       "Prikaži stanje razgovora">
 
 <!ENTITY chat.participants             "Sudionici:">
 <!ENTITY chat.previousConversations    "Prethodni razgovori:">
