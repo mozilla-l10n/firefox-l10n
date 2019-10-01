@@ -5,6 +5,6 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Vern av personvern
+appmenuitem-protection-report-title = Ivaretaking av personvern
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Gå til personvernrapporten
