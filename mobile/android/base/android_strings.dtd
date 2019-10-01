@@ -615,10 +615,10 @@ shown from Android O while a tab is being queued.-->
      They are not visible in the UI. -->
 <!ENTITY page_action_dropmarker_description "Dodatne radnje">
 
-<!ENTITY masterpassword_create_title "Stvorite glavnu lozinku">
-<!ENTITY masterpassword_remove_title "Uklonite glavnu lozinku">
+<!ENTITY masterpassword_create_title "Stvori glavnu lozinku">
+<!ENTITY masterpassword_remove_title "Ukloni glavnu lozinku">
 <!ENTITY masterpassword_password "Lozinka">
-<!ENTITY masterpassword_confirm "Potvrdite lozinku">
+<!ENTITY masterpassword_confirm "Potvrdi lozinku">
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Odustani">
