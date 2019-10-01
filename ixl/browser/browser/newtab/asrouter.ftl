@@ -57,12 +57,14 @@ cfr-doorhanger-pintab-description = Oora kuxh la lej unq'a vee' chukeltu ve't s-
 
 cfr-doorhanger-pintab-step1 = <b> Laaku' u tal mouse tu seb'al</b>tu texhlale' uve' nasa' aaq'at kan.
 cfr-doorhanger-pintab-step2 = Txaa xo'l <b> aq'kan u tilb'ale'</b> tu uve' ni tilpu kat unq'a tatine'.
+cfr-doorhanger-pintab-step3 = U atinb'ale' at uma'l ib'anpu tuche', la eel um'al tal tz'it ti'xaj uve' at ve't kan.
 cfr-doorhanger-pintab-animation-pause = Tanb'a'
 cfr-doorhanger-pintab-animation-resume = Yakeb'en
 
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = B'an eela vatz  unq'a marcadore' ye kuxh eetza   tikat atkat.
+cfr-doorhanger-bookmark-fxa-body = Nimla kame' kat lejpi! As ye' kaaik kan axh uva' ye' la b'anb'e u texhlale' tulaj unq'a ach'iche'. Xe'ten tuk' uma'l { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = B'an eela vatz cheel unq'a markaradore'.
 
 ## Protections panel
