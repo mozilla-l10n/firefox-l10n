@@ -70,6 +70,8 @@ certificate-viewer-subject-key-id = Téma ñemigua ID
 certificate-viewer-authority-key-id = Mburuvicha ñemigua ID
 certificate-viewer-authority-info-aia = Mburuvicha marandu (AIA)
 certificate-viewer-certificate-policies = Jerohoryvéva purureko
+certificate-viewer-embedded-scts = Ojehe’áva SCTs
+certificate-viewer-crl-endpoints = CRL kyta paha
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Mboguejy
