@@ -23,11 +23,11 @@
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for https://www.mozilla.org/en-US/firefox/help/
-#define firefox_help Help and Tutorials
+#define firefox_help Mga Tulong at Tutorial
 
 # LOCALIZATION NOTE (firefox_customize):
 # link title for https://www.mozilla.org/en-US/firefox/customize/
-#define firefox_customize I-customize ang Firefox
+#define firefox_customize Ipasadya ang Firefox
 
 # LOCALIZATION NOTE (firefox_community):
 # link title for https://www.mozilla.org/en-US/contribute/
@@ -59,11 +59,11 @@
 
 # LOCALIZATION NOTE (crashes):
 # Nightly builds only, link title for about:crashes
-#define crashes Lahat ng iyong crashes
+#define crashes Lahat ng mga crash
 
 # LOCALIZATION NOTE (irc):
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
-#define irc Ipaliwanag ang Nightly sa IRC
+#define irc Pag-usapan ang Nightly sa IRC
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
