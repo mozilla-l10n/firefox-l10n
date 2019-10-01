@@ -535,6 +535,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Bawalah Web bersama Anda
 sync-signedout-description = Sinkronkan markah, riwayat, tab, sandi, pengaya, dan pengaturan di berbagai peranti Anda.
 sync-signedout-account-title = Sambungkan dengan { -fxaccount-brand-name }
@@ -555,11 +559,17 @@ sync-mobile-promo = Unduh Firefox untuk <img data-l10n-name="android-icon"/> <a 
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Ubah gambar profil
 sync-disconnect =
     .label = Putuskan…
     .accesskey = P
+sync-sign-out =
+    .label = Keluar…
+    .accesskey = K
 sync-manage-account = Kelola Akun
     .accesskey = o
 sync-signedin-unverified = { $email } tidak dapat diverifikasi.
@@ -575,6 +585,43 @@ sync-sign-in =
     .accesskey = M
 sync-signedin-settings-header = Pengaturan Sinkronisasi
 sync-signedin-settings-desc = Pilih apa saja yang akan disinkronkan pada peranti Anda yang menggunakan { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Sinkronisasi: AKTIF
+prefs-syncing-off = Sinkronisasi: NONAKTIF
+prefs-sync-setup =
+    .label = Siapkan { -sync-brand-short-name }…
+    .accesskey = S
+prefs-sync-now =
+    .labelnotsyncing = Sinkronkan Sekarang
+    .accesskeynotsyncing = S
+    .labelsyncing = Menyinkronkan…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-bookmarks = Markah
+sync-currently-syncing-history = Riwayat
+sync-currently-syncing-tabs = Tab terbuka
+sync-currently-syncing-logins-passwords = Info masuk dan sandi
+sync-currently-syncing-addresses = Alamat
+sync-currently-syncing-creditcards = Kartu kredit
+sync-currently-syncing-addons = Pengaya
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Pengaturan
+       *[other] Preferensi
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Pilih yang Akan Disinkronkan
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Simpan Perubahan
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Putuskan…
+    .buttonaccesskeyextra2 = P
 sync-engine-bookmarks =
     .label = Markah
     .accesskey = M
@@ -609,6 +656,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Setelan Umum, Privasi, dan Keamanan yang Anda ubah
     .accesskey = P
+
+## The device name controls.
+
 sync-device-name-header = Nama Peranti
 sync-device-name-change =
     .label = Ubah Nama Peranti…
@@ -642,6 +692,9 @@ forms-generate-passwords =
     .label = Sarankan dan hasilkan kata sandi yang kuat
     .accesskey = u
 forms-breach-alerts-learn-more-link = Pelajari lebih lanjut
+forms-fill-logins-and-passwords =
+    .label = Isi info masuk dan kata sandi secara otomatis
+    .accesskey = I
 forms-saved-logins =
     .label = Info Masuk Tersimpan…
     .accesskey = I
@@ -811,6 +864,9 @@ content-blocking-reload-tabs-button =
     .accesskey = M
 content-blocking-trackers-label =
     .label = Pelacak
+    .accesskey = P
+content-blocking-tracking-content-label =
+    .label = Pelacakan konten
     .accesskey = P
 content-blocking-tracking-protection-option-all-windows =
     .label = Di semua jendela

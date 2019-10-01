@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Layar Penuh
     .accesskey = P
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Tampilkan Semua Tab
@@ -212,12 +212,21 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Masuk ke { -sync-brand-short-name }…
     .accesskey = M
+menu-tools-fxa-sign-in =
+    .label = Masuk ke { -brand-product-name }…
+    .accesskey = M
+menu-tools-turn-on-sync =
+    .label = Aktifkan { -sync-brand-short-name }…
+    .accesskey = A
 menu-tools-sync-now =
     .label = Sinkronkan Sekarang
     .accesskey = S
 menu-tools-sync-re-auth =
     .label = Sambungkan ulang ke { -sync-brand-short-name }â€¦
     .accesskey = u
+menu-tools-fxa-re-auth =
+    .label = Sambungkan ulang ke { -brand-product-name }…
+    .accesskey = S
 menu-tools-web-developer =
     .label = Pengembang Web
     .accesskey = W

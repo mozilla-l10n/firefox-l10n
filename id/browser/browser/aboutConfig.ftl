@@ -13,9 +13,13 @@ about-config-search-input =
 
 ## These strings appear on the warning you see when first visiting about:config.
 
+about-config-intro-warning-title = Lanjutkan dengan Kehati-hatian
 
 
 
+about-config-page-title = Preferensi Tingkat Lanjut
+about-config-search-input1 =
+    .placeholder = Cari nama preferensi
 about-config-show-all = Tampilkan Semua
 about-config-pref-add = Tambah
 about-config-pref-toggle = Aktifkan/Nonaktifkan
