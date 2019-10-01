@@ -52,18 +52,62 @@ login-list-count =
     }
 login-list-sort-label-text = Sakōrtōt pec:
 login-list-name-option = Vōrds (A-Z)
+login-list-breached-option = Uzlauztys lopys
+login-list-last-changed-option = Pec jaunōkōm izmaiņom
+login-list-last-used-option = Naseņōk lītōtys
+login-list-intro-title = Nav atrosti lītōtōjvōrdi
+login-list-intro-description = Kod tu maini paroli { -brand-product-name }, jū rōda ite.
+about-logins-login-list-empty-search-title = Nav atrosti lītōtōjvōrdi
+about-logins-login-list-empty-search-description = Pec tova mekliešonys pīprasejuma, nav rezultatu.
+login-list-item-title-new-login = Jauna pīsazaceišona
+login-list-item-subtitle-new-login = Īvodi sovus lītōtōja datus
+login-list-item-subtitle-missing-username = (nav lītōtōja)
+about-logins-list-item-warning-icon =
+    .alt = Breidynojuma ikona
+    .title = Uzlauztō lopa
 
 ## Introduction screen
 
 
 ## Login
 
+login-item-new-login-title = Izveidōt jaunu lītōtōji
+login-item-edit-button = Redigeit
+login-item-delete-button = Dzēst
+login-item-origin-label = Lopys adrese
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-username-label = Lītōtōjvōrds
+about-logins-login-item-username =
+    .placeholder = (nav lītōtōja)
+login-item-copy-username-button-text = Kopēt
+login-item-copied-username-button-text = Nūkopeits!
+login-item-password-label = Parole
+login-item-password-reveal-checkbox-show =
+    .title = Rōdeit paroli
+login-item-password-reveal-checkbox-hide =
+    .title = Slēpt paroli
+login-item-copy-password-button-text = Kopēt
+login-item-copied-password-button-text = Nūkopeits!
+login-item-save-changes-button = Saglobōt izmaiņis
+login-item-save-new-button = Saglobōt
+login-item-cancel-button = Atceļt
 
 ## Master Password notification
 
+master-password-reload-button =
+    .label = Pīsazaceit
+    .accesskey = P
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Atceļt
+confirmation-dialog-dismiss-button =
+    .title = Atceļt
+confirm-delete-dialog-title = Dzēst itū lītōtōjvōrdu?
+confirm-delete-dialog-message = Itei ir naatgrīzeniska darbeiba.
+confirm-delete-dialog-confirm-button = Dzēst
+confirm-discard-changes-dialog-title = Atmest nasaglobōtōs izmaiņis?
 
 ## Breach Alert notification
 
