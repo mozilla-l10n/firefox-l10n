@@ -5,5 +5,6 @@
 
 ## App Menu
 
+appmenuitem-protection-report-title = Taɣellist n tbaḍnit
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Ddu ɣer uneqqis ɣef ummesten n tudert-ik tabadnit.
