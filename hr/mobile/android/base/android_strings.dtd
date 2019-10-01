@@ -47,7 +47,7 @@
 <!ENTITY firstrun_readerview_subtext "Koristite Prikaz čitača kako biste učinili članke ugodnijima za čitanje \u2014 čak i u izvanmrežnom načinu rada.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
-<!ENTITY firstrun_account_title "Vi">
+<!ENTITY firstrun_account_title "Ti">
 <!ENTITY firstrun_account_message "Imate li &brandShortName; na drugom uređaju?">
 
 <!ENTITY firstrun_signup_button "Registriraj se">
