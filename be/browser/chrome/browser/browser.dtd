@@ -127,7 +127,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Пацвердзіце свой уліковы запіс">
 
 
- <!-- } is above this key on many keyboards -->
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Мінімізаваць">
 <!ENTITY fullScreenRestore.tooltip "Аднавіць">
@@ -167,8 +168,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "Увайсці ў &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Уключыць &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Уліковы запіс">
 <!ENTITY fxa.menu.firefoxServices.label "Сервісы &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Уліковы запіс">
+<!ENTITY fxa.menu.settings.label "Налады">
+<!ENTITY fxa.menu.accountSettings.label "Налады ўліковага запісу">
+<!ENTITY fxa.menu.signOut.label "Выйсці…">
+<!ENTITY fxa.menu.deviceSettings.label "Налады прылады">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -268,6 +274,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Кіраваць ужываннем DRM-праграм">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Адкрыць панэль MIDI">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Вы далі гэтаму вэб-сайту дадатковыя дазволы.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Вы заблакавалі сваю камеру на гэтым вэб-сайце.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Вы заблакавалі свой мікрафон на гэтым вэб-сайце.">
@@ -438,8 +445,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Хочаце пабачыць свае карткі з іншых прылад?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Адкрыць налады сінхранізацыі">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Увайдзіце, каб пабачыць спіс картак з іншых сваіх прылад.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Пабачыць спіс картак з іншых сваіх прылад.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ваш уліковы запіс патрабуе пацвярджэння.">
 <!ENTITY appMenuRemoteTabs.signin.label "Увайсці ў Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Увайсці ў &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Уключыць &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Кіраваць прыладамі...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Паказаць бакавую панэль сінхранізаваных картак">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Схаваць бакавую панэль сінхранізаваных картак">
@@ -834,6 +844,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Бяспечнае злучэнне">
 <!ENTITY identity.connectionNotSecure "Небяспечнае злучэнне">
 
+<!ENTITY identity.connectionSecure3 "Бяспечнае злучэнне">
+<!ENTITY identity.connectionNotSecure2 "Злучэнне не бяспечнае">
 <!ENTITY identity.connectionNotSecureSecurityView "Вы не злучаны бяспечна з гэтым сайтам.">
 <!ENTITY identity.connectionFile "Гэта старонка захоўваецца на вашым камп'ютары.">
 <!ENTITY identity.connectionVerified2 "Вы бяспечна злучаны з гэтым сайтам, якім валодае:">
@@ -843,6 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Лагіны, уведзеныя на гэтай старонцы, могуць быць скампраметаваны.">
 <!ENTITY identity.customRoot "Падключэнне пацверджана сертыфікатам эмітэнта, які не прызнаны Mozilla.">
 
+<!ENTITY identity.evOwnerLabel2 "Сертыфікат выдадзены:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; заблакаваў небяспечныя часткі старонкі.">
@@ -878,6 +891,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Дазволы">
 
+<!ENTITY identity.permissions3 "Дазволы">
 <!ENTITY identity.permissionsEmpty "Вы не давалі гэтаму сайту ніякіх адмысловых дазволаў.">
 <!ENTITY identity.permissionsReloadHint "Магчыма, вам спатрэбіцца перазагрузіць старонку, каб змены пачалі дзейнічаць.">
 <!ENTITY identity.permissionsPreferences.tooltip "Адкрыць налады дазволаў">
@@ -915,6 +929,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Заблакаваны">
+<!ENTITY protections.notBlocking2.label "Дазволены">
+<!ENTITY protections.notFound.label "Не выяўлены">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
@@ -931,6 +948,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Гэтыя кукі ідуць за вамі з сайта на сайт, каб сабраць звесткі пра тое, што вы робіце ў сеціве. Яны ўсталёўваюцца трэцімі бакамі, такімі як рэкламадаўцы і аналітычныя кампаніі.">
 <!ENTITY protections.cryptominers.description "Майнеры крыптавалют выкарыстоўваюць вылічальную магутнасць вашай сістэмы, каб здабываць лічбавыя грошы. Скрыпты для здабычы крыптавалют разраджаюць вашу батарэю, запавольваюць працу камп'ютара і могуць павялічыць ваш выдаткі на электраэнергію.">
 <!ENTITY protections.fingerprinters.description "Збіральнікі адбіткаў пальцаў збіраюць налады вашага браўзера і камп'ютара для стварэння вашага профілю. Выкарыстоўваючы гэты лічбавы адбітак, яны могуць асочваць вас на розных сайтах.">
+<!ENTITY protections.trackingContent2.description "Вэб-сайты могуць загружаць вонкавую рэкламу, відэа і іншае змесціва з кодам асочвання. Блакіроўка элементаў асочвання можа дапамагчы сайтам хутчэй загружацца, але некаторыя кнопкі, формы і палі ўваходу могуць не працаваць.">
 <!ENTITY protections.socialMediaTrackers.description "Сацыяльныя сеткі размяшчаюць трэкеры на іншых сайтах, каб сачыць за тым, што вы робіце, бачыце і глядзіце ў сеціве. Гэта дазваляе кампаніям сацыяльных сетак даведацца пра вас больш за тое, чым вы дзяліцеся ў сваіх профілях у сацыяльных сетках.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -970,10 +988,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Трэкеры">
 
 <!ENTITY contentBlocking.manageSettings.label "Наладзіць блакаванне змесціва">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Змест з элементамі сачэння">
-
-<!ENTITY contentBlocking.manageSettings2.label "Кіраваць наладамі аховы">
 <!ENTITY contentBlocking.manageSettings.accesskey "ь">
 
 <!ENTITY contentBlocking.trackersView.label "Трэкеры">
@@ -982,6 +996,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Кукі">
 <!ENTITY contentBlocking.cookiesView.label "Кукі і дадзеныя сайтаў">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Змест з элементамі сачэння">
+
+<!ENTITY contentBlocking.manageSettings2.label "Кіраваць наладамі аховы">
+<!ENTITY contentBlocking.manageSettings2.accesskey "ь">
 
 <!ENTITY contentBlocking.socialblock.label "Трэкеры сацыяльных сетак">
 
