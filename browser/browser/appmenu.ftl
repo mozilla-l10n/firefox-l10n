@@ -5,5 +5,6 @@
 
 ## App Menu
 
+appmenuitem-protection-report-title = ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ
 appmenuitem-protection-report-tooltip =
     .tooltiptext = ਆਪਣੀ ਪਰਦੇਦਾਰੀ ਰਿਪੋਰਟ ‘ਤੇ ਜਾਓ

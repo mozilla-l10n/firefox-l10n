@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] ਚੋਣਾਂ
        *[other] ਪਸੰਦਾਂ
     }
-menu-menuitem-feedback = ਫੀਡਬੈਕ ਭੇਜੋ
-menu-menuitem-faq = ਆਮ ਪੁੱਛੇ ਜਾਂਦੇ ਸਵਾਲ
+about-logins-menu-menuitem-help = ਮਦਦ
 menu-menuitem-android-app = ਐਡਰਾਈਡ ਲਈ { -lockwise-brand-short-name }
 menu-menuitem-iphone-app = iPhone ਅਤੇ iPad ਲਈ { -lockwise-brand-short-name }
 
@@ -57,9 +56,14 @@ login-list-last-changed-option = ਆਖਰੀ ਵਾਰ ਸੋਧੇ
 login-list-last-used-option = ਆਖਰੀ ਵਾਰ ਵਰਤੇ
 login-list-intro-title = ਕੋਈ ਲਾਗਇਨ ਨਹੀਂ ਲੱਭਿਆ
 login-list-intro-description = ਜਦੋਂ ਤੁਸੀਂ { -brand-product-name } ‘ਚ ਪਾਸਵਰਡ ਸੰਭਾਲਦੇ ਹੋ ਤਾਂ ਇਸ ਨੂੰ ਇੱਥੇ ਦਿਖਾਇਆ ਜਾਂਦਾ ਹੈ।
+about-logins-login-list-empty-search-title = ਕੋਈ ਲਾਗਇਨ ਨਹੀਂ ਲੱਭਿਆ
+about-logins-login-list-empty-search-description = ਤੁਹਾਡੀ ਖੋਜ ਨਾਲ ਮਿਲਦਾ ਕੋਈ ਨਤੀਜਾ ਨਹੀਂ ਹੈ।
 login-list-item-title-new-login = ਨਵਾਂ ਲਾਗਇਨ
 login-list-item-subtitle-new-login = ਆਪਣੀ ਲਾਗਇਨ ਸਨਦ ਦਿਓ
 login-list-item-subtitle-missing-username = (ਕੋਈ ਵਰਤੋਂਕਾਰ ਨਾਂ ਨਹੀਂ ਹੈ)
+about-logins-list-item-warning-icon =
+    .alt = ਚੇਤਾਵਨੀ ਚਿੰਨ੍ਹ
+    .title = ਉਲੰਘਣ ਕਰਨ ਵਾਲੀ ਵੈੱਬਸਾਈਟ
 
 ## Introduction screen
 
@@ -67,7 +71,7 @@ login-intro-heading = ਆਪਣੇ ਸੰਭਾਲੇ ਹੋਏ ਲਾਗਇਨ 
 login-intro-description = ਜੇ ਤੁਸੀਂ ਵੱਖਰੇ ਡਿਵਾਈਸ ‘ਤੇ { -brand-product-name } ‘ਚ ਆਪਣੇ ਲਾਗਇਨ ਸੰਭਾਲੇ ਸਨ ਤਾਂ ਉਹਨਾਂ ਨੂੰ ਇੰਞ ਪ੍ਰਾਪਤ ਕਰੋ:
 login-intro-instruction-fxa = ਡਿਵਾਈਸ, ਜਿੱਥੇ ਤੁਹਾਡੇ ਲਾਗਇਨ ਸੰਭਾਲੇ ਹੋਏ ਹਨ, ਉੱਤੇ ਆਪਣਾ { -fxaccount-brand-name } ਬਣਾਓ ਜਾਂ ਸਾਈਨ ਇਨ ਕਰੋ
 login-intro-instruction-fxa-settings = ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ { -sync-brand-short-name } ਸੈਟਿੰਗਾਂ ‘ਚ ਲਾਗਇਨ ਚੋਣ-ਬਕਸੇ ਨੂੰ ਚੁਣਿਆ ਹੈ
-login-intro-instruction-faq = ਹੋਰ ਮਦਦ ਲਈ { -lockwise-brand-short-name }<a data-l10n-name="faq">ਆਮ ਪੁੱਛੇ ਜਾਂਦੇ ਸਵਾਲ</a> ਨੂੰ ਵੇਖੋ
+about-logins-intro-instruction-help = ਹੋਰ ਮਦਦ ਲਈ <a data-l10n-name="help-link">{ -lockwise-brand-short-name } ਸਹਿਯੋਗ</a> ਨੂੰ ਵੇਖੋ
 
 ## Login
 
@@ -77,10 +81,9 @@ login-item-delete-button = ਹਟਾਓ
 login-item-origin-label = ਵੈੱਬਸਾਈਟ ਸਿਰਨਾਵਾਂ
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = ਖੋਲ੍ਹੋ
 login-item-username-label = ਵਰਤੋਂਕਾਰ ਨਾਂ
-login-item-username =
-    .placeholder = name@example.com
+about-logins-login-item-username =
+    .placeholder = (ਕੋਈ ਵਰਤੋਂਕਾਰ ਨਾਂ ਨਹੀਂ ਹੈ)
 login-item-copy-username-button-text = ਕਾਪੀ ਕਰੋ
 login-item-copied-username-button-text = ਕਾਪੀ ਕੀਤਾ!
 login-item-password-label = ਪਾਸਵਰਡ
@@ -130,6 +133,17 @@ confirm-discard-changes-dialog-confirm-button = ਖ਼ਾਰਜ ਕਰੋ
 
 ## Breach Alert notification
 
+breach-alert-text = ਤੁਹਾਡੇ ਵਲੋਂ ਆਪਣੇ ਲਾਗਇਨ ਵੇਰਵਿਆਂ ਨੂੰ ਆਖਰੀ ਵਾਰ ਅੱਪਡੇਟ ਕਰਨ ਦੇ ਬਾਅਦ ਇਸ ਵੈੱਬਸਾਈਟ ਤੋਂ ਪਾਸਵਰਡ ਲੀਕ ਹੋ ਗਏ ਜਾਂ ਚੋਰੀ ਕੀਤੇ ਗਏ ਸਨ। ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਆਪਣੇ ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ।
 breach-alert-link = ਇਸ ਸੰਨ੍ਹ ਲੱਗਣ ਬਾਰੇ ਹੋਰ ਜਾਣੋ।
 breach-alert-dismiss =
     .title = ਇਹ ਚੇਤਾਵਨੀ ਬੰਦ ਕਰੋ
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = ਉਸ ਵਰਤੋਂਕਾਰ ਨਾਂ ਨਾਲ { $loginTitle } ਲਈ ਐਂਟਰੀ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ।
+# This is a generic error message.
+about-logins-error-message-default = ਇਸ ਪਾਸਵਰਡ ਨੂੰ ਸੰਭਾਲਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਦੌਰਾਨ ਗਲਤੀ ਵਾਪਰੀ ਹੈ।
