@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Atsaukt
 customize-mode-lwthemes-my-themes =
     .value = Munys temys
+customize-mode-touchbar-cmd =
+    .label = Pīlāgōt skōrīnjūslu…

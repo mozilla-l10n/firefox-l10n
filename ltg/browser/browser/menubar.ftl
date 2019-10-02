@@ -49,6 +49,9 @@ menu-file-print-preview =
 menu-file-print =
     .label = Drukōt…
     .accesskey = D
+menu-file-import-from-another-browser =
+    .label = Importēt nu cyta porlyuka…
+    .accesskey = I
 menu-file-go-offline =
     .label = Struoduot nasaistī
     .accesskey = r
@@ -150,7 +153,7 @@ menu-view-full-screen =
     .label = Pa vysu ekranu
     .accesskey = v
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Ruodeit vysys cilnes
@@ -209,12 +212,21 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Pīraksteitīs { -sync-brand-short-name }…
     .accesskey = Y
+menu-tools-fxa-sign-in =
+    .label = Pīzasacēt { -brand-product-name }…
+    .accesskey = P
+menu-tools-turn-on-sync =
+    .label = Īslēgt { -sync-brand-short-name }…
+    .accesskey = s
 menu-tools-sync-now =
     .label = Sinhronizeit
     .accesskey = S
 menu-tools-sync-re-auth =
     .label = Sasavīnuot i { -sync-brand-short-name }…
     .accesskey = S
+menu-tools-fxa-re-auth =
+    .label = Pīzaslēgt par jaunu pi { -brand-product-name }…
+    .accesskey = z
 menu-tools-web-developer =
     .label = Izstrōdōtōju reiki
     .accesskey = t
