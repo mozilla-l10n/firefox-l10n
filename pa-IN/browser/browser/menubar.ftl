@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = ਸਭ ਟੈਬ ਵੇਖੋ
@@ -212,11 +212,20 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = { -sync-brand-short-name } ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ…
     .accesskey = Y
+menu-tools-fxa-sign-in =
+    .label = …{ -brand-product-name } ਲਈ ਸਾਇਨ ਇਨ ਕਰੋ
+    .accesskey = g
+menu-tools-turn-on-sync =
+    .label = …{ -sync-brand-short-name } ਚਾਲੂ ਕਰੋ
+    .accesskey = n
 menu-tools-sync-now =
     .label = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
     .accesskey = S
 menu-tools-sync-re-auth =
     .label = …{ -sync-brand-short-name } ਨਾਲ ਮੁੜ-ਕੁਨੈਕਟ ਕਰੋ
+    .accesskey = R
+menu-tools-fxa-re-auth =
+    .label = …{ -brand-product-name } ਨਾਲ ਮੁੜ-ਕਨੈਕਟ ਕਰੋ
     .accesskey = R
 menu-tools-web-developer =
     .label = ਵੈੱਬ ਡਿਵੈਲਪਰ

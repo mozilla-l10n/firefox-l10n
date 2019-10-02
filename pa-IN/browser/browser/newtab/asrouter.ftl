@@ -72,6 +72,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = ਬਿਨਾਂ ਪਿੱਛਾ ਕਰਵਾਏ ਬਰਾਊਜ਼ ਕਰੋ
+cfr-protections-panel-body = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਖੁਦ ਕੋਲ ਹੀ ਰੱਖੋ। { -brand-short-name } ਤੁਹਾਨੂੰ ਕਈ ਤੁਹਾਡਾ ਆਨਲਾਈਨ ਪਿੱਛਾ ਕਰਨ ਵਾਲੇ ਸਭ ਤੋਂ ਆਮ ਟਰੈਕਰਾਂ ਤੋਂ ਸੁਰੱਖਿਅਤ ਰੱਖਦਾ ਹੈ।
 cfr-protections-panel-link-text = ਹੋਰ ਜਾਣੋ
 
 ## What's New toolbar button and panel
@@ -80,6 +81,25 @@ cfr-whatsnew-button =
     .label = ਨਵਾਂ ਕੀ ਹੈ
     .tooltiptext = ਨਵਾਂ ਕੀ ਹੈ
 cfr-whatsnew-panel-header = ਨਵਾਂ ਕੀ ਹੈ
+cfr-whatsnew-release-notes-link-text = ਰੀਲਿਜ਼ ਨੋਟਿਸ ਪੜ੍ਹੋ
+cfr-whatsnew-fx70-title = { -brand-short-name } ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਲਈ ਹੋਰ ਮੇਹਨਤ ਕਰ ਰਿਹਾ ਹੈ
+cfr-whatsnew-tracking-protect-title = ਟਰੈਕਰਾਂ ਤੋਂ ਖੁਦ ਨੂੰ ਬਚਾਓ
+cfr-whatsnew-tracking-protect-link-text = ਆਪਣੀ ਰਿਪੋਰਟ ਵੇਖੋ
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] ਟਰੈਕਰ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਈ
+       *[other] ਟਰੈਕਰਾਂ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਈ
+    }
+cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } ਤੋਂ
+cfr-whatsnew-tracking-blocked-link-text = ਰਿਪੋਰਟ ਵੇਖੋ
+cfr-whatsnew-lockwise-backup-title = ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਦਾ ਬੈਕਅੱਪ ਲਵੋ
+cfr-whatsnew-lockwise-backup-body = ਹੁਣ ਸੁਰੱਖਿਅਤ ਪਾਸਵਰਡ ਤਿਆਰ ਕਰੋ, ਜੋ ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਥਾਂ ਤੋਂ ਲਾਗਇਨ ਕਰਨ ਲਈ ਵਰਤ ਸਕਦੇ ਹੋ।
+cfr-whatsnew-lockwise-backup-link-text = ਬੈਕਅੱਪ ਚਾਲੂ ਕਰੋ
+cfr-whatsnew-lockwise-take-title = ਆਪਣੇ ਪਾਸਵਰਡ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ
+cfr-whatsnew-lockwise-take-link-text = ਐਪ ਲਵੋ
 
 ## Bookmark Sync
 
@@ -98,9 +118,20 @@ cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } ਚਾਲੂ �
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਇਹ ਪੜ੍ਹੋ
+cfr-doorhanger-send-tab-ok-button = ਟੈਬ ਭੇਜਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ
+    .accesskey = T
 
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = ਇਹ PDF ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸਾਂਝਾ ਕਰੋ
 cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } ਵਰਤ ਕੇ ਵੇਖੋ
     .accesskey = T
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = ਸੁਰੱਖਿਆਵਾਂ ਵੇਖੋ
+    .accesskey = P
+cfr-doorhanger-socialtracking-close-button = ਬੰਦ ਕਰੋ
+    .accesskey = C
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } ਨੇ ਸਮਾਜਿਕ ਨੈੱਟਵਰਕ ਨੂੰ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਤੋਂ ਰੋਕਿਆ
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } ਨੇ ਇਸ ਸਫ਼ੇ ਤੋਂ ਫਿੰਗਰਪਰਿੰਟਰ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ
