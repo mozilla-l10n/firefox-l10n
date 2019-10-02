@@ -501,6 +501,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Deli">
 <!ENTITY share_title "Deli preko">
 <!ENTITY share_image_failed "Slike ni mogoče deliti">
+<!ENTITY share_error_toast_message "Ni mogoče deliti z izbrano aplikacijo">
 <!ENTITY save_as_pdf "Shrani kot PDF">
 <!ENTITY print "Natisni">
 <!ENTITY view_page_source "Pokaži izvorno kodo strani">
