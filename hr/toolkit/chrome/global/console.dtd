@@ -18,7 +18,7 @@
 <!ENTITY messages.accesskey "P">
 <!ENTITY clear.label        "Očisti">
 <!ENTITY clear.accesskey    "O">
-<!ENTITY codeEval.label     "Kod:">
+<!ENTITY codeEval.label     "Kȏd:">
 <!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "Ocijeni">
 <!ENTITY evaluate.accesskey "c">
