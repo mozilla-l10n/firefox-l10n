@@ -13,7 +13,7 @@ about-config-search-input =
 
 ## These strings appear on the warning you see when first visiting about:config.
 
-about-config-intro-warning-title = 请三思而后行
+about-config-intro-warning-title = 三思而后行
 about-config-intro-warning-text = 更改高级配置首选项可能会影响 { -brand-short-name } 性能及安全性。
 about-config-intro-warning-checkbox = 当我尝试修改底层首选项时警示我
 about-config-intro-warning-button = 接受风险并继续
