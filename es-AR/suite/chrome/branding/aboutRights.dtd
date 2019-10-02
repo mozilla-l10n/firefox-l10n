@@ -30,6 +30,7 @@
 <!ENTITY rights.intro-point2d "Algunas funciones en &brandShortName;, tales como los informes de fallos, dan la opción de ofrecer una retroalimentación a &vendorShortName;. Simplemente eligiendo esta acción se otorga a &vendorShortName; y Mozilla permisos para utilizar dichos datos para mejorar las aplicaciones, publicarlos en sus sitios y redistribuirlos.">
 
 <!-- point 2da is technically point 3. in the list -->
+<!ENTITY rights.intro-point2da "Algunas funciones en &brandShortName;, tales como los informes de fallos, le dan la opción de ofrecer una retroalimentación a &vendorShortName;. Si elije esta acción le otorga a &vendorShortName; permiso para utilizar dichos datos para mejorar las aplicaciones, publicarlos en sus sitios y redistribuirlos.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Las políticas de privacidad para los productos de &vendorShortName; pueden encontrarse ">
