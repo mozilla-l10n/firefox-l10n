@@ -155,6 +155,16 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "I">
 <!ENTITY spellAddDictionaries.label     "Descargar más diccionarios…">
 <!ENTITY spellAddDictionaries.accesskey "D">
+
+<!ENTITY fillLoginMenu.label          "Llenar con inicio de sesión">
+<!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillPasswordMenu.label       "Llenar con contraseña">
+<!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.label       "Llenar con nombre de usuario">
+<!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY noLoginSuggestions.label     "(Sin sugerencias de inicio de sesión)">
+<!ENTITY viewSavedLogins.label        "Ver inicios de sesión guardados">
+
 <!-- Developer Tools -->
 <!ENTITY devtoolsInspect.label          "Inspeccionar elemento">
 <!ENTITY devtoolsInspect.accesskey      "n">
