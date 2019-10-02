@@ -30,13 +30,13 @@ protection-report-header-details-custom = Schutzstufe gesetzt auf <b>Benutzerdef
 protection-report-page-title = Schutzmaßnahmen
 protection-report-content-title = Schutzmaßnahmen
 etp-card-title = Verbesserter Tracking-Schutz (Schutz vor Aktivitätenverfolgung)
-etp-card-content = Skripte zur Aktivitätenverfolgung folgen Ihnen über Websites hinweg und sammeln Informationen über Ihre Browser-Gewohnheiten und Interessen. { -brand-short-name } blockiert viele dieser Skripte zur Aktivitätenverfolgung und andere böswillige Skripte.
+etp-card-content = Skripte zur Aktivitätenverfolgung (Online-Tracker) folgen Ihnen über Websites hinweg und sammeln Informationen über Ihre Browser-Gewohnheiten und Interessen. { -brand-short-name } blockiert viele dieser Skripte zur Aktivitätenverfolgung und andere böswillige Skripte.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Heute
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Grafik mit jeweils der Anzahl an blockierten Skripten zur Aktivitätenverfolgung nach Typ während dieser Woche.
-social-tab-title = Skripte zur Aktivitätenverfolgung durch soziale Netzwerke
+social-tab-title = Social-Media-Tracker (Skripte zur Aktivitätenverfolgung durch soziale Netzwerke)
 social-tab-contant = Auf anderen Websites eingebundene Elemente sozialer Netzwerke (z.B. zum Teilen von Inhalten) können Skripte enthalten, die verfolgen, was Sie online machen, angezeigt bekommen und sich anschauen. Dies ermöglicht den Unternehmen hinter den sozialen Netzwerken, mehr über Sie zu erfahren als allein durch die Inhalte, die Sie mit Ihrem Profil im sozialen Netzwerk teilen. <a data-l10n-name="learn-more-link">Weitere Informationen</a>
 cookie-tab-title = Cookies zur seitenübergreifenden Aktivitätenverfolgung
 cookie-tab-content = Diese Cookies werden über viele Websites hinweg verwendet und sammeln Informationen über Ihre Online-Aktivitäten. Sie werden durch Drittanbieter wie Werbe- oder Analyseunternehmen gesetzt. Das Blockieren von Cookies zur seitenübergreifenden Aktivitätenverfolgung verringert die Anzahl an Anzeigen, welche Ihnen im Internet folgen. <a data-l10n-name="learn-more-link">Weitere Informationen</a>
