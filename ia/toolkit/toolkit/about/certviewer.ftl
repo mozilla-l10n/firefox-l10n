@@ -55,9 +55,14 @@ certificate-viewer-timestamp = Marca temporal
 certificate-viewer-value = Valor
 certificate-viewer-version = Version
 certificate-viewer-business-category = Categoria de negotio
+certificate-viewer-subject-name = Nomine de subjecto
+certificate-viewer-issuer-name = Nomine autoritate emittente
 certificate-viewer-validity = Validitate
+certificate-viewer-subject-alt-names = Nomines de subjecto alternative
+certificate-viewer-public-key-info = Informationes re clave public
 certificate-viewer-miscellaneous = Miscellanea
 certificate-viewer-fingerprints = Dactylogrammas
+certificate-viewer-basic-constraints = Limitationes basic
 certificate-viewer-extended-key-usages = Usos extense del clave
 certificate-viewer-certificate-policies = Politicas de certificato
 # This message is used as a row header in the Miscellaneous section. 
