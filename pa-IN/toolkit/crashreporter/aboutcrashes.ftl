@@ -11,5 +11,6 @@ submit-crash-button-label = ਭੇਜੋ
 # This text is used to replace the label of the crash submit button
 # if the crash submission fails.
 submit-crash-button-failure-label = ਅਸਫ਼ਲ ਹੈ
+view-crash-button-label = ਵੇਖੋ
 no-reports-label = ਕੋਈ ਕਰੈਸ਼ ਰਿਪੋਰਟ ਨਹੀਂ ਦਿੱਤੀ ਗਈ
 no-config-label = ਇਹ ਐਪਲੀਕੇਸ਼ਨ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਵੇਖਾਉਣ ਲਈ ਸੰਰਚਿਤ ਨਹੀਂ ਕੀਤੀ ਗਈ ਹੈ। <code>breakpad.reportURL</code> ਸੈੱਟ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।

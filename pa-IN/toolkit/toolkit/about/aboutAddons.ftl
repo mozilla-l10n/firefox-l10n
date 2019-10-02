@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = ਆਖਰੀ ਅੱਪਡੇਟ
 detail-contributions-description = ਇਹ ਐਡ-ਆਨ ਦੇ ਡਿਵੈਲਪਰ ਨੇ ਤੁਹਾਨੂੰ ਪੁੱਛਿਆ ਹੈ ਕਿ ਤੁਸੀਂ ਛੋਟਾ ਜਿਹਾ ਯੋਗਦਾਨ ਦੇ ਕੇ ਇਸ ਦੀ ਡਿਵੈਲਪਮੈਂਟ ਨੂੰ ਜਾਰੀ ਰੱਖਣ 'ਚ ਮੱਦਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ।
+detail-contributions-button = ਯੋਗਦਾਨ ਪਾਓ
+    .title = ਇਸ ਐਡ-ਆਨ ਦੇ ਵਿਕਾਸ ਵਿੱਚ ਯੋਗਦਾਨ ਪਾਓadd-on
+    .accesskey = C
 detail-update-type =
     .value = ਆਟੋਮੈਟਿਕ ਅੱਪਡੇਟ
 detail-update-default =
@@ -234,6 +237,16 @@ shortcuts-no-commands = ਅੱਗੇ ਦਿੱਤੀਆਂ ਇਕਸਟੈਨਸ਼
 shortcuts-input =
     .placeholder = ਸ਼ਾਰਟਕੱਟ ਲਿਖੋ
 shortcuts-browserAction = ਇਕਸਟੈਨਸ਼ਨ ਸਰਗਰਮ ਕਰੋ
+shortcuts-pageAction = ਸਫ਼ਾ ਕਾਰਵਾਈ ਸਰਗਰਮ ਕਰੋ
+shortcuts-sidebarAction = ਬਾਹੀ ਬਦਲੋ
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = { $addon } ਵਲੋਂ ਪਹਿਲਾਂ ਹੀ ਵਰਤਿਆ
+shortcuts-card-expand-button =
+    { $numberToShow ->
+       *[other] { $numberToShow } ਹੋਰ ਵੇਖੋ
+    }
 shortcuts-card-collapse-button = ਘੱਟ ਵੇਖਾਓ
 go-back-button =
     .tooltiptext = ਪਿੱਛੇ ਜਾਓ
@@ -252,6 +265,7 @@ discopane-intro =
 discopane-notice-recommendations =
     ਇਹਨਾਂ ਸਿਫਾਰਸ਼ਾਂ ਵਿੱਚੋਂ ਕੁਝ ਨਿੱਜੀ ਬਣਾਈਆਂ ਹਨ। ਇਹ ਤੁਹਾਡੇ ਵਲੋਂ ਇੰਸਟਾਲ ਇਕਸਟੈਨਸ਼ਨਾਂ, ਪਰੋਫਾਈਲ ਪਸੰਦਾਂ
      ਅਤੇ ਵਰਤੋਂ ਅੰਕੜਿਆਂ ਦੇ ਉੱਤੇ ਅਧਾਰਿਤ ਹਨ।
+discopane-notice-learn-more = ਹੋਰ ਸਿੱਖੋ
 privacy-policy = ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -267,6 +281,10 @@ install-theme-button = ਥੀਮ ਇੰਸਟਾਲ ਕਰੋ
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = ਬੰਦੋਬਸਤ
 find-more-addons = ਹੋਰ ਐਡ-ਆਨ ਲੱਭੋ
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = ਹੋਰ ਚੋਣਾਂ
 
 ## Add-on actions
 
@@ -275,6 +293,11 @@ remove-addon-button = ਹਟਾਓ
 disable-addon-button = ਅਸਮਰੱਥ ਕਰੋ
 enable-addon-button = ਸਮਰੱਥ ਕਰੋ
 expand-addon-button = ਹੋਰ ਚੋਣਾਂ
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] ਚੋਣਾਂ
+       *[other] ਪਸੰਦਾਂ
+    }
 details-addon-button = ਵੇਰਵੇ
 release-notes-addon-button = ਰੀਲਿਜ਼ ਨੋਟਿਸ
 permissions-addon-button = ਇਜਾਜ਼ਤਾਂ
@@ -318,6 +341,9 @@ addon-detail-reviews-link =
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> ਨੂੰ ਹਟਾਇਆ ਗਿਆ।
 pending-uninstall-undo-button = ਵਾਪਸ
 addon-detail-updates-label = ਆਪਣੇ-ਆਪ ਅੱਪਡੇਟ ਦੀ ਇਜਾਜ਼ਤ ਹੈ
 addon-detail-updates-radio-default = ਮੂਲ
@@ -329,6 +355,11 @@ install-update-button = ਅੱਪਡੇਟ ਕਰੋ
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ‘ਚ ਮਨਜ਼ੂਰ ਹੈ
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਇਜਾਜ਼ਤ ਦਿਓ
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-allow = ਮਨਜ਼ੂਰ
 addon-detail-private-browsing-disallow = ਮਨਜ਼ੂਰ ਨਾ ਕਰੋ
 # This is the tooltip text for the recommended badge for an extension in about:addons. The

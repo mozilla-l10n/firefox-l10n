@@ -35,6 +35,13 @@ app-basics-name = ਨਾਂ
 app-basics-version = ਵਰਜ਼ਨ
 app-basics-build-id = ਬਿਲਡ ID
 app-basics-update-channel = ਅੱਪਡੇਟ ਚੈਨਲ
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] ਅੱਪਡੇਟ ਫੋਲਡਰ
+       *[other] ਅੱਪਡੇਟ ਫੋਲਡਰ
+    }
 app-basics-update-history = ਅੱਪਡੇਟ ਅਤੀਤ
 app-basics-show-update-history = ਅੱਪਡੇਟ ਅਤੀਤ ਨੂੰ ਵੇਖਾਓ
 app-basics-profile-dir =
@@ -99,6 +106,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = ਸੁਰੱਖਿਅਤ ਮੋਡ ਵਰਤ ਕੇ ਦੇਖੋ
 restart-in-safe-mode-label = …ਐਡ-ਆਨ ਬੰਦ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ
+
+## Media titles
+
+audio-backend = ਆਡੀਓ ਬੈਕਐਂਡ
+max-audio-channels = ਵੱਧ ਤੋਂ ਵੱਧ ਚੈਨਲ
+channel-layout = ਤਰਜੀਹੀ ਚੈਨਲ ਲੇਆਉਟ
+sample-rate = ਤਰਜੀਹੀ ਸੈਂਪਲ ਰੇਟ
 media-title = ਮੀਡੀਆ
 media-output-devices-title = ਆਉਟਪੁ਼ਟ ਡਿਵਾਈਸ
 media-input-devices-title = ਇਨਪੁਟ ਡਿਵਾਈਸ
@@ -111,6 +125,10 @@ media-device-format = ਫਾਰਮੈਟ
 media-device-channels = ਚੈਨਲ
 media-device-rate = ਰੇਟ
 media-device-latency = ਦੇਰੀ
+
+
+
+intl-title = ਕੌਮਾਂਤਰੀਕਰਨ ਤੇ ਇਲਾਕਾਈਕਰਨ
 intl-app-title = ਐਪਲੀਕੇਸ਼ਨ ਸੈਟਿੰਗਾਂ
 intl-locales-requested = ਮੰਗ ਕੀਤੀ ਬੋਲੀ
 intl-locales-available = ਉਪਲਬਧ ਬੋਲੀਆਂ
@@ -191,6 +209,7 @@ gpu-device-id = ਜੰਤਰ ID
 gpu-subsys-id = ਸਬ-ਸਿਸਟਮ ID
 gpu-drivers = ਡਰਾਇਵਰ
 gpu-ram = ਰੈਮ
+gpu-driver-vendor = ਡਰਾਇਵਰ ਵੇਂਡਰ
 gpu-driver-version = ਡਰਾਇਵਰ ਵਰਜ਼ਨ
 gpu-driver-date = ਡਰਾਇਵਰ ਮਿਤੀ
 gpu-active = ਸਰਗਰਮ
@@ -221,10 +240,6 @@ gpu-device-reset-button = ਡਿਵਾਈਸ ਮੁੜ-ਸੈੱਟ ਲਈ ਪ�
 uses-tiling = ਟਿਲਿੰਗ ਵਰਤਦਾ ਹੈ
 off-main-thread-paint-enabled = ਮੁੱਖ ਥਰਿੱਡ ਪੇਂਟਿੰਗ ਸਮਰੱਥ ਨੂੰ ਬੰਦ ਕਰੋ
 off-main-thread-paint-worker-count = ਮੁੱਖ ਥਰਿੱਡ ਪੇਂਟਿੰਗ ਵਰਕਰ ਗਿਣਤੀ ਬੰਦ ਕਰੋ
-audio-backend = ਆਡੀਓ ਬੈਕਐਂਡ
-max-audio-channels = ਵੱਧ ਤੋਂ ਵੱਧ ਚੈਨਲ
-channel-layout = ਤਰਜੀਹੀ ਚੈਨਲ ਲੇਆਉਟ
-sample-rate = ਤਰਜੀਹੀ ਸੈਂਪਲ ਰੇਟ
 min-lib-versions = ਮੰਗਿਆ ਗਿਆ ਘੱਟੋ-ਘੱਟ ਵਰਜਨ
 loaded-lib-versions = ਵਰਤੋਂ ਵਿੱਚ ਵਰਜਨ
 has-seccomp-bpf = Seccomp-BPF (ਸਿਸਟਮ ਕਾਲ ਫਿਲਟਰ ਕਰਨਾ)
@@ -238,6 +253,9 @@ effective-content-sandbox-level = ਪ੍ਰਭਾਵੀ ਸਮੱਗਰੀ ਕ�
 sandbox-proc-type-content = ਸਮੱਗਰੀ
 sandbox-proc-type-file = ਫ਼ਾਇਲ ਸਮੱਗਰੀ
 sandbox-proc-type-media-plugin = ਮੀਡੀਆ ਪਲੱਗਇਨ
+launcher-process-status-0 = ਸਮਰੱਥ ਹੈ
+launcher-process-status-1 = ਅਸਫ਼ਲਤਾ ਕਰਕੇ ਅਸਮਰੱਥ ਹੈ
+launcher-process-status-unknown = ਅਣਪਛਾਤੀ ਹਾਲਤ
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -266,3 +284,6 @@ touch-warning = ਗ਼ੈਰ-ਸਹਾਇਕ ਪਸੰਦ ਕਰਕੇ ਅਸਿ
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = ਨਾ-ਸਰਗਰਮ
+policies-active = ਸਰਗਰਮ
+policies-error = ਗ਼ਲਤੀ

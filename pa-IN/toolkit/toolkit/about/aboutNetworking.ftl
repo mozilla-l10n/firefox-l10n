@@ -23,6 +23,7 @@ tcp = TCP
 sent = ਭੇਜੇ
 received = ਪ੍ਰਾਪਤ ਕੀਤੇ
 family = ਪਰਿਵਾਰ
+trr = TRR
 addresses = ਸਿਰਨਾਵੇਂ
 expires = ਮਿਆਦ (ਸਕਿੰਟ)
 messages-sent = ਭੇਜੇ ਸੁਨੇਹੇ
@@ -56,3 +57,13 @@ rcwn-avg-long = ਵੱਡੀ ਔਸਤ
 rcwn-std-dev-long = ਲੰਮੀ ਸਟੈਂਡਰਡ ਡੇਵੀਏਸ਼ਨ
 rcwn-cache-slow = ਕੈਸ਼ ਹੌਲੀ ਗਿਣਤੀ
 rcwn-cache-not-slow = ਕੈਸ਼ਨ ਹੌਲੀ ਨਹੀਂ ਗਿਣਤੀ
+networkid = ਨੈੱਟਵਰਕ ਪਛਾਣ
+networkid-id = ਨੈੱਟਵਰਕ ਪਛਾਣ
+
+## Link is intended as "network link"
+
+networkid-isUp = ਲਿੰਕ ਚਾਲੂ ਹੈ
+networkid-statusKnown = ਲਿੰਕ ਸਥਿਤੀ ਜਾਣੀ ਹੈ
+
+
+

@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+abuse-report-title-extension = { -vendor-short-name } ਨੂੰ ਇਸ ਇਕਸਨੈਸ਼ਨ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ
+abuse-report-subtitle = ਕੀ ਸਮੱਸਿਆ ਹੈ?
+# Variables:
+#   $author-name (string) - Name of the add-on author
+abuse-report-addon-authored-by = <a data-l10n-name="author-name">{ $author-name }</a> ਵਲੋਂ
+abuse-report-submit-description = ਸਮੱਸਿਆ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿਓ (ਚੋਣਵਾਂ)
 
 ## Panel buttons.
 
