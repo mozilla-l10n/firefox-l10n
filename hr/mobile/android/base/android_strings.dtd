@@ -6,7 +6,7 @@
 <!ENTITY firstrun_urlbar_message2 "Hvala što ste odabrali &brandShortName;">
 <!ENTITY newfirstrun_urlbar_message "Dobro došli u &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "Moderan preglednik za mobilne uređaje od Mozille, neprofitne organizacije posvećene slobodnom i otvorenom webu.">
-<!ENTITY newfirstrun_urlbar_subtext "Brz, privatak i na vašoj strani.">
+<!ENTITY newfirstrun_urlbar_subtext "Brz, privatan i na vašoj strani.">
 <!ENTITY firstrun_panel_title_privacy "Privatnost">
 <!ENTITY firstrun_privacy_message "Pretražujte kao da vas nitko ne gleda">
 <!ENTITY firstrun_privacy_subtext "Privatno pregledavanje sa zaštitom od praćenja, blokira programe za praćenje tijekom tvog pregledavanja i neće pamtiti povijest tvojih radnji nakon što završiš s pregledavanjem.">
