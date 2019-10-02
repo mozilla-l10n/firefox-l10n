@@ -30,9 +30,7 @@
 <!ENTITY addCloudFileAccount.description  "Titz'aqatisäx jun k'ak'a' Filelink richin kiyakik samaj">
 <!ENTITY removeCloudFileAccount.label     "Tiyuj">
 <!ENTITY removeCloudFileAccount.accesskey "y">
-<!ENTITY authRequired.description         "K'atzinel ri ya'oj atzij richin nitz'et ri runuk'ulem re kiyakik samaj re'.">
-<!ENTITY authRequired.button.label        "Tiya' q'ij">
-<!ENTITY authRequired.button.accesskey    "U">
+<!ENTITY findCloudFileProviders.label     "Kekanöx ch'aqa' chik taq ajya'öl…">
 
 <!ENTITY enableCloudFileAccountOffer.label "Tisuj richin yekomonïx taq yakb'äl ye'ik'o chi re">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">

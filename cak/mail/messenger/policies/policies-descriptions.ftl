@@ -21,6 +21,7 @@ policy-CaptivePortal = Titz'ij o tichup ri rutob'al ri chapon portal.
 policy-CertificatesDescription = Ketz'aqatisäx taq iqitzijib'äl o ke'okisäx tz'aqatisan taq iqitzijib'äl.
 policy-Cookies = Niya' o man niya' ta q'ij chi ke ri ajk'amaya'l taq ruxaq richin nikijikib'a' taq kaxlanwäy.
 policy-DefaultDownloadDirectory = Tijikib'äx ri kimolwuj qasanïk kan k'o wi.
+policy-DisableAppUpdate = Man tiya' q'ij chi ri { -brand-short-name } tuk'exa' ri'.
 policy-DisableDeveloperTools = Tiq'at okem pa ri kisamajib'al b'anonela'.
 policy-DisableFeedbackCommands = Kechup taq nuk'uj richin yetaq taq tzijol pa ri ruk'utsamaj Tob'äl (Titaq Tzijol chuqa' Kesujüx Q'olonel taq Ruxaq).
 policy-DisableForgetButton = Tiq'at okem pa ri rupitz'b'al Timestäx.
@@ -32,6 +33,7 @@ policy-DisableSystemAddonUpdate = Tichajïx chi ri { -brand-short-name } keruyak
 policy-DisableTelemetry = Tichup Telemetry.
 policy-DisplayMenuBar = Tik'ut ri Rukajtz'ik K'utsamaj achi'el k'o wi.
 policy-DNSOverHTTPS = Tib'an runuk'ulem DNS chi rij HTTPS.
+policy-DontCheckDefaultClient = Tichup ri tojtob'äl winäq k'o wi pa rutikirisaxik.
 policy-DownloadDirectory = Tijikib'äx chuqa' tiq'at ri kimolwuj qasanïk.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Titzij o tichup ri Kiq'atik Rupam chuqa' ticha' toq niq'at.

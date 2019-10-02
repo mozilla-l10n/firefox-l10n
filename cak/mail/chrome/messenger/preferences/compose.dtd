@@ -20,6 +20,8 @@
 <!ENTITY font.accesskey                       "z">
 <!ENTITY fontSize.label                       "Nimilem:">
 <!ENTITY fontSize.accesskey                   "e">
+<!ENTITY useReaderDefaults.label              "Ke'okisäx ri taq b'onil erucha'on ri sik'inel">
+<!ENTITY useReaderDefaults.accesskey          "e">
 <!ENTITY fontColor.label                      "Rub'onil Rucholajem Tzij:">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Rub'onil Rupam:">
