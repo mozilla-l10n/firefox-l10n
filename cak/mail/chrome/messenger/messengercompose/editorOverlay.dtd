@@ -306,7 +306,7 @@
 <!ENTITY anchorToolbarCmd.tooltip "Tich'ik k'ak'a' xukuxüb' b'ina'am o tinuk' taq richinil ri xukuxüb' b'ina'am cha'on">
 <!ENTITY TextColorButton.tooltip "Ticha' rub'onil ri rucholajem tzij">
 <!ENTITY BackgroundColorButton.tooltip "Ticha' rub'onil ri rupam">
-<!ENTITY throbber.tooltip "Tib'e pa ri &vendorShortName; rutikirib'al ruxaq">
+<!ENTITY throbber.tooltip2 "Tib'e pa ri &brandShortName; rutikirib'al ruxaq">
 <!ENTITY HighlightColorButton.tooltip "Ticha' niya' retal rub'onil rucholajem tzij">
 
 <!-- Editor toolbar -->

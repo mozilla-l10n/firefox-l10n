@@ -9,20 +9,31 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "To'ïk">
 <!ENTITY helpMenuWin.accesskey "T">
+<!ENTITY aboutProduct2.label "Chi rij ri &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey "C">
 <!ENTITY helpTroubleshootingInfo.label     "Etamab'äl richin yesol taq k'ayewal">
 <!ENTITY helpTroubleshootingInfo.accesskey "Y">
 <!ENTITY helpSafeMode.label     "Titikirisäx chik kik'in ri chupül taq tz'aqat…">
 <!ENTITY helpSafeMode.accesskey "T">
-<!ENTITY releaseCmd2.label "Ruch'utitzijol re ruwäch re'">
-<!ENTITY releaseCmd2.accesskey "R">
-<!ENTITY whatsNewCmd.label "Achike Natzijoj">
-<!ENTITY whatsNewCmd.accesskey "A">
-<!ENTITY openHelp.label "Kipam To'ïk">
-<!ENTITY openHelp.accesskey "T">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "&brandFullName; To'ïk">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
+<!ENTITY helpSafeMode.stop.label     "Titikirisäx chik rik'in ri Tzijïl taq Tz'aqat">
+<!ENTITY helpSafeMode.stop.accesskey "c">
+<!ENTITY productHelp.label "&brandShortName; To'ïk">
+<!ENTITY productHelp.accesskey "T">
+<!ENTITY productHelp.commandkey "VK_F1">
+<!ENTITY productHelpMac.commandkey "?">
+<!ENTITY productHelpMac.modifiers "accel">
 
-<!ENTITY aboutMenuCmd2.label "Chi rij &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "C">
+<!ENTITY helpKeyboardShortcuts.label "Ruq'a' rub'ey Keyboard">
+<!ENTITY helpKeyboardShortcuts.accesskey "K">
+
+<!ENTITY helpFeedbackPage.label "Ketaq taq Rutzijol…">
+<!ENTITY helpFeedbackPage.accesskey "K">
+
+<!ENTITY helpShowTour2.label "&brandShorterName; B'enam">
+<!ENTITY helpShowTour2.accesskey "e">
+
+<!ENTITY helpGetInvolvedPage.label "Kak'uluman">
+<!ENTITY helpGetInvolvedPage.accesskey "K">
+
+<!ENTITY helpDonationsPage.label "Taya' jun Sipanïk">
+<!ENTITY helpDonationsPage.accesskey "T">

@@ -5,9 +5,9 @@
 <!ENTITY windowTitle.label "B'onil">
 <!ENTITY lastPickedColor.label "Ruk'isib'äl rub'onil cha'on">
 <!ENTITY lastPickedColor.accessKey "R">
-<!ENTITY setColor1.label "Tipitz' pa ruwi' jun b'onil o">
-<!ENTITY setColor2.label "tinima jun HTML rub'onil rucholajem tzij">
-<!ENTITY setColor2.accessKey "H">
+<!ENTITY chooseColor1.label "Tacha' jun b'onil:">
+<!ENTITY chooseColor2.label "Titz'ib'äx jun HTML rub'onil rucholajem tzij">
+<!ENTITY chooseColor2.accessKey "H">
 <!ENTITY setColorExample.label "(e.g.: &quot;#0000ff&quot; or &quot;blue&quot;):">
 <!ENTITY default.label "K'o wi">
 <!ENTITY default.accessKey "K">

@@ -18,8 +18,8 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Ruwäch tz'ib':">
 <!ENTITY font.accesskey                       "z">
-<!ENTITY size.label                           "Nimilem:">
-<!ENTITY size.accesskey                       "m">
+<!ENTITY fontSize.label                       "Nimilem:">
+<!ENTITY fontSize.accesskey                   "e">
 <!ENTITY fontColor.label                      "Rub'onil Rucholajem Tzij:">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Rub'onil Rupam:">

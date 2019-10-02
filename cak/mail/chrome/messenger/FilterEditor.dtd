@@ -27,6 +27,7 @@
 <!ENTITY contextOutgoing.accesskey "N">
 <!ENTITY contextArchive.label "Niyak">
 <!ENTITY contextArchive.accesskey "N">
+<!ENTITY contextPeriodic.accesskey "C">
 
 <!ENTITY filterActionDesc.label "Kesamajib'ëx re taq b'anoj re':">
 <!ENTITY filterActionDesc.accesskey "K">

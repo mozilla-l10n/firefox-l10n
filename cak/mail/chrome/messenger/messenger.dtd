@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "M">
 <!ENTITY folderPaneBar.label "Rukajtz'ik Rusamajib'al Ruyakwuj Pas">
 <!ENTITY folderPaneBar.accesskey "R">
-<!ENTITY folderModeSelector.label "Yakwuj Tz'etoj">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Tichol chi">
@@ -440,9 +439,9 @@
 <!ENTITY openMessageWindowCmd.label "Tijaq Rutzijol">
 <!ENTITY openMessageWindowCmd.accesskey "T">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Tijaq pa Tzijonem">
-<!ENTITY openConversationCmd.accesskey "j">
-<!ENTITY openConversationCmd.key "o">
+<!ENTITY openInConversationCmd.label "Tijaq pa Tzijonem">
+<!ENTITY openInConversationCmd.accesskey "n">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Taq taqoj">
 <!ENTITY openAttachmentListCmd.accesskey "q">
 <!ENTITY openFeedMessage1.label "Toq Yejaq Rutzijol Feed">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Tiyak cha'on tzijol">
 <!ENTITY archiveButton.tooltip "Keyak cha'on taq tzijol">
 <!ENTITY openConversationButton.tooltip "Tik'ut rutzijonem cha'on tzijol">
+<!ENTITY openMsgConversationButton.tooltip "Tik'ut rutzijonem cha'on tzijol">
 <!ENTITY nextButton.tooltip "Tisilöx pa ri jun chik rutzijol man sik'in ta">
 <!ENTITY nextMsgButton.tooltip "Tisilöx pa ri jun chik rutzijol">
 <!ENTITY previousButton.tooltip "Tisilöx pa ri jun kan rutzijol man sik'in ta">
@@ -605,6 +605,7 @@
 <!ENTITY tagButton.tooltip "Ketal taq rutzijol">
 <!ENTITY compactButton.tooltip "Keyuj yujun taq tzijol pa ri ruyakwuj xcha'">
 <!ENTITY appmenuButton1.tooltip "Tik'ut ri &brandShortName; K'utsamaj">
+<!ENTITY addonsButton.tooltip "Ke'anuk'samajij taq Atz'aqat">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Titaq chik Tz'aqatisan">
@@ -792,6 +793,8 @@
 <!ENTITY contextMoveMsgMenu.accesskey "T">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "K'ak'a'">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "K">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Taq ajowab'äl">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "a">
 <!ENTITY contextCopyMsgMenu.label "Tiwachib'ëx Chi Re">
 <!ENTITY contextCopyMsgMenu.accesskey "w">
 <!ENTITY contextKillThreadMenu.label "Tirepüx Ch'ab'enïk">
@@ -811,12 +814,6 @@
 <!ENTITY contextPrintPreview.label "Nab'ey tz'etoj">
 <!ENTITY contextPrintPreview.accesskey "b">
 
-<!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Ketzolïx taq che'el e k'o">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -856,7 +853,6 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Re yakwuj re'">
-
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Titzij">

@@ -12,6 +12,7 @@
 <!ENTITY enableGlodaSearch.label       "Titzij Cholajin chuqa' Chijun Kanoxïk">
 <!ENTITY enableGlodaSearch.accesskey   "C">
 <!ENTITY dateTimeFormatting.label      "Rub'anikil Q'ijul chuqa' Ramaj">
+<!ENTITY languageSelector.label        "Ch'ab'äl">
 <!ENTITY allowHWAccel.label            "Tokisäx rupararexik ch'akulakem toq xtiwachin pe">
 <!ENTITY allowHWAccel.accesskey        "c">
 <!ENTITY storeType.label               "Ruwäch Ruyakoj Tzijol kichin k'ak'a' kib'i' taqoya'l:">
@@ -66,17 +67,17 @@
  -->
 <!ENTITY updateApp.version.pre           "Ruwäch ">
 <!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Tiya' q'ij &brandShortName; chi re">
 <!ENTITY updateAuto.label                "Keyak ruyonil taq k'exoj ruwäch (chilab'en: utzilan jikimal)">
 <!ENTITY updateAuto.accesskey            "r">
 <!ENTITY updateCheck.label               "Kenik'öx ri taq k'exoj, xa xe chi tiya' q'ij chwe we ninwajo' chi yenyäk">
 <!ENTITY updateCheck.accesskey           "K">
-<!ENTITY updateManual.label              "Mani nikanöx taq k'exoj ruwäch (man chilab'en ta: ruk'ayewal chajinïk)">
-<!ENTITY updateManual.accesskey          "M">
 <!ENTITY updateHistory.label             "Tik'ut pe ri Kinatab'al taq K'exoj">
 <!ENTITY updateHistory.accesskey         "x">
 
 <!ENTITY useService.label                "Tokisäx jun samaj pa ruka'n b'ey richin yeyak ri taq k'exoj">
 <!ENTITY useService.accesskey            "n">
+
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Taq nuk'ulem…">
@@ -120,3 +121,8 @@
 <!ENTITY manageCertificates.accesskey "K">
 <!ENTITY viewSecurityDevices.label "Kokisaxel Jikomal">
 <!ENTITY viewSecurityDevices.accesskey "K">
+
+<!ENTITY manageCertificates2.label "Kenuk'samajiïx Kiwujil B'i'aj…">
+<!ENTITY manageCertificates2.accesskey "K">
+<!ENTITY viewSecurityDevices2.label "Kokisaxel taq Jikomal…">
+<!ENTITY viewSecurityDevices2.accesskey "K">
