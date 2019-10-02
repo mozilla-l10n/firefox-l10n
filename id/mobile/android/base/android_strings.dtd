@@ -28,6 +28,7 @@
 <!ENTITY newfirstrun_sync_subtext "Sinkronkan hal-hal yang Anda simpan di ponsel ke Firefox untuk desktop, secara pribadi dan aman.">
 <!ENTITY updatednewfirstrun_sync_subtext "Masuk ke akun Anda untuk memaksimalkan &brandShortName;">
 <!ENTITY firstrun_signin_message "Sambungkan, dan mulai">
+<!ENTITY firstrun_sendtab_title "Kirim Tab">
 <!ENTITY firstrun_sendtab_message "Bagikan tab dari ponsel ke desktop — secara instan.">
 <!ENTITY firstrun_signin_button "Masuk ke Sync">
 <!ENTITY newfirstrun_signin_button "Aktifkan Sync">
@@ -501,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Bagikan">
 <!ENTITY share_title "Bagikan lewat">
 <!ENTITY share_image_failed "Gagal berbagi gambar ini">
+<!ENTITY share_error_toast_message "Gagal berbagi ke aplikasi yang ditunjukkan">
 <!ENTITY save_as_pdf "Simpan sebagai PDF">
 <!ENTITY print "Cetak">
 <!ENTITY view_page_source "Lihat Sumber Laman">
