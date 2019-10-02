@@ -168,8 +168,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "Se connecter à &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activer &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Compte">
 <!ENTITY fxa.menu.firefoxServices.label "Services &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Compte">
+<!ENTITY fxa.menu.settings.label "Paramètres">
+<!ENTITY fxa.menu.accountSettings.label "Paramètres du compte">
+<!ENTITY fxa.menu.signOut.label "Se déconnecter…">
+<!ENTITY fxa.menu.deviceSettings.label "Paramètres de l’appareil">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -440,6 +445,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vous souhaitez afficher ici les onglets de vos autres appareils ?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Ouvrir les préférences de synchronisation">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Connectez-vous pour afficher la liste des onglets de vos autres appareils.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Afficher la liste des onglets de vos autres appareils.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Votre compte doit être vérifié.">
 <!ENTITY appMenuRemoteTabs.signin.label "Se connecter à Sync">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Se connecter à &syncBrand.shortName.label;…">
