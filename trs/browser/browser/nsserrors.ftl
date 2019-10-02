@@ -2,5 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $hostname (String) - Hostname of the website with SSL error.
+# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
+ssl-connection-error = Hua 'ngo sa gahui a'nan' ngà ruhuaj gi'iaj konektandoj riña { $hostname }. { $errorMessage }
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Si da'nga' sa gahui a'nan': { $error }
+psmerr-ssl-disabled = Na'ue gi'iaj konektandô hue'ej dadin' gire' ngà dàj hua protokolô SSL.
 ssl-error-export-only-server = Nitaj si yitinj huaj ga'mi' dadin' ané ni nitaj si huaj gida'a dugui' hue'ej.
 xp-sec-fortezza-bad-pin = Nitaj si ni'ñanj Pin

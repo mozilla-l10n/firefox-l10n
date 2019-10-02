@@ -96,6 +96,7 @@ cfr-whatsnew-tracking-blocked-title =
         [one] Narán riña sa naga'naj a
        *[other] Narán riña nej sa naga'naj a
     }
+cfr-whatsnew-tracking-blocked-subtitle = Asìj { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Dàj rugui' riña infôrme
 cfr-whatsnew-lockwise-backup-title = Na'nïnj sà' a'ngô hiuj u da'nga' huì nikajt
 cfr-whatsnew-lockwise-backup-body = Ga'ue girit nej da'nga' huì  ni'ñanj guendâ gatut gache nunt danè' man'an huajt.
@@ -132,3 +133,16 @@ cfr-doorhanger-firefox-send-header = Duyinga' PDF nan
 cfr-doorhanger-firefox-send-body = Nga sifradô ekstremo nda ekstremo ga'ue gimàn sà' nej ñanj màn 'iát riña nej duguî' yi'ìi dadin' nare' link ngà gisîj 'iaj sunt.
 cfr-doorhanger-firefox-send-ok-button = Ginù huin { -send-brand-name }
     .accesskey = T
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Ni'iaj nej sa dugumî sò'
+    .accesskey = P
+cfr-doorhanger-socialtracking-close-button = Narán
+    .accesskey = C
+cfr-doorhanger-socialtracking-heading = Ruhuâ 'ngo red naga'na sò sani nu ga'nïn { -brand-short-name } huij nan
+cfr-doorhanger-socialtracking-description = Ûta ña'an hua sa narán rayi'ît. { -brand-short-name } gu'nàj sa narán riña nej sa naga'naj sò' riña nej red sosiâl, ni nu a'nïn gini'iaj nìko sa yi'ì dan nej sa 'iát riña lînia.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } naran riña 'ngo da'nga' dijitâl riña pajinâ nan
+cfr-doorhanger-fingerprinters-description = Ûta ña'an hua sa narán rayi'ît. { -brand-short-name } gu'nàj sa narán riña nej da'nga' dijîtal, naran' sa hua rayi'î si agâ't da' ga'ue gatu ni'ia sò'.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } naran riña 'ngo kriptominero riña pajinâ nan
+cfr-doorhanger-cryptominers-description = Ûta ña'an hua sa narán rayi'ît. { -brand-short-name } narán ma riña nej kriptominêro, dadin' huê nej man ri huì nej san'anj hua riña nej aga' nan.

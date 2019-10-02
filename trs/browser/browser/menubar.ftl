@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Nagi'iaj gachrò' riña aga' sikà' ràa
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Ni'io' daran' nej rakïj ñaj
@@ -212,11 +212,20 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Gayi'ì' sesión 'ngà { -sync-brand-short-name }...
     .accesskey = Y
+menu-tools-fxa-sign-in =
+    .label = Nutà' si yuguît riña { -brand-product-name }...
+    .accesskey = g
+menu-tools-turn-on-sync =
+    .label = Nachrun { -sync-brand-short-name }...
+    .accesskey = n
 menu-tools-sync-now =
     .label = Gi'iaj sun nugua'ān ma
     .accesskey = S
 menu-tools-sync-re-auth =
     .label = Gatu' 'ngà { -sync-brand-short-name }...
+    .accesskey = R
+menu-tools-fxa-re-auth =
+    .label = Natu ñû riña { -brand-product-name }...
     .accesskey = R
 menu-tools-web-developer =
     .label = Desarroyador web
