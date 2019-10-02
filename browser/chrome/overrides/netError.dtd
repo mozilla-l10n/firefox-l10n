@@ -9,10 +9,7 @@
 <!ENTITY retry.label "Probearje it opnij">
 <!ENTITY returnToPreviousPage.label "Tebek">
 <!ENTITY returnToPreviousPage1.label "Gean werom (oanrekommandearre)">
-<!ENTITY advanced.label "Avansearre">
-<!ENTITY continue2.label "Mear…">
 <!ENTITY advanced2.label "Avansearre…">
-<!ENTITY moreInformation.label "Mear ynformaasje">
 <!ENTITY viewCertificate.label "Sertifikaat besjen">
 
 <!-- Specific error messages -->
@@ -150,13 +147,11 @@
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle1 "Jo ferbining is net befeilige">
 <!ENTITY certerror.longpagetitle2 "Warskôging: mooglik befeiligingsrisiko">
 <!ENTITY certerror.sts.longpagetitle  "Gjin ferbining makke: mooglik befeiligingsprobleem">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "De eigener fan <span class='hostname'/> hat syn of har website net krekt konfigurearre. Om jo gegevens tsjin stellerij te beskermjen, hat &brandShortName; gjin ferbining mei dizze website makke.">
 <!ENTITY certerror.introPara2 "&brandShortName; hat in mooglik befeiligingsrisiko detektearre en is net trochgien nei <span class='hostname'/>. As jo dizze website besykje, soene hackers kinne probearje gegevens te stellen, lykas jo wachtwurden, e-mailadressen of creditcardgegevens.">
 <!ENTITY certerror.sts.introPara "&brandShortName; hat in mooglik befeiligingsrisiko detektearre en is net trochgien nei <span class='hostname'/>, omdat dizze website in befeilige ferbining fereasket.">
 
@@ -197,8 +192,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Skansearre-ynhâldsflater">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>De side dy't jo besjen wolle kin net werjûn wurde, omdat der in flater yn de gegevensoerdracht detektearre is.</p><ul><li>Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Utsûndering tafoegje…">
 <!ENTITY securityOverride.exceptionButton1Label "It risiko oanfurdigje en trochgean">
 
 <!ENTITY errorReporting.automatic2 "Flaters as dizze rapportearje om Mozilla te helpen kweawollende websites te werkennen en te blokkearjen">
@@ -212,19 +205,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Avansearre ynfo: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; hat gjin ferbining mei <span id='wrongSystemTime_URL'/> makke, omdat de klok fan jo kompjûter de ferkearde tiid liket oan te jaan, en dit komt in befeilige ferbining tefoar.</p> <p>Jo kompjûter is ynsteld op <span id='wrongSystemTime_systemDate'/>, wylst dit <span id='wrongSystemTime_actualDate'/> wêze moatte soe. Wizigje jo datum- en tiidsynstellingen nei de krekte tiid om dit probleem te ferhelpen.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; hat gjin ferbining mei <span id='wrongSystemTimeWithoutReference_URL'/> makke, omdat de klok fan jo kompjûter de ferkearde tiid liket oan te jaan, en dit komt in befeilige ferbining tefoar.</p> <p>Jo kompjûter is ynsteld op <span id='wrongSystemTimeWithoutReference_systemDate'/>. Wizigje jo datum- en tiidsynstellingen nei de krekte tiid om dit probleem te ferhelpen.</p>">
-
-<!ENTITY certerror.pagetitle1  "Net-befeilige ferbining">
 <!ENTITY certerror.pagetitle2  "Warskôging: mooglik befeiligingsrisiko">
 <!ENTITY certerror.sts.pagetitle  "Gjin ferbining makke: mooglik befeiligingsprobleem">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Dizze website makket gebrûk
-fan HTTP Strict Transport Security (HSTS) om oan te jaan dat &brandShortName;
-allinnich in befeilige ferbining meitsje mei. Hjirtroch is it net mooglik om in
-útsûndering foar dit sertifikaat ta te foegjen.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> hat in befeiligingsbelied mei de namme HTTP Strict Transport Security (HSTS), wat betsjut dat &brandShortName; allinnich in befeilige ferbining dêrmei meitsje kin. Jo kinne gjin útsûndering tafoegje om dizze website te besykjen.">
 <!ENTITY certerror.copyToClipboard.label "Tekst nei klamboerd kopiearje">
 
@@ -247,6 +229,10 @@ allinnich in befeilige ferbining meitsje mei. Hjirtroch is it net mooglik om in
 
 <!ENTITY prefReset.longDesc "It liket derop dat dit troch jo netwurkbefeiligingsynstellingen feroarsake wurdt. Wolle jo de standertynstellingen werom bringe?">
 <!ENTITY prefReset.label "Standertynstellingen werom bringe">
+
+<!ENTITY enableTls10.longDesc "Dizze website stipet mooglik it TLS 1.2-protokol net, wat de minimale ferzje is dy't troch &brandShortName; stipe wurdt. Troch TLS 1.0 en TLS 1.1 yn te skeakeljen kin mooglik de ferbining ta stân brocht wurde.">
+<!ENTITY enableTls10.note "TLS 1.0 en TLS 1.1 wurde yn in takomstige ferzje permanint útskeakele.">
+<!ENTITY enableTls10.label "TLS 1.0 en 1.1 ynskeakelje">
 
 <!ENTITY networkProtocolError.title "Netwurkprotokolflater">
 <!ENTITY networkProtocolError.longDesc "<p>De side dy't jo besjen wolle kin net werjûn wurde, omdat der in flater yn it netwurkprotokol detektearre is.</p><ul><li>Nim kontakt op mei de website-eigeners om se oer dit probleem te ynformearjen.</li></ul>">
