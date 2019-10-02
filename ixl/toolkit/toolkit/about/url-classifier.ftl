@@ -3,6 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-search-title = Chuka
+url-classifier-search-result-title = Ivatz aq'on.
+url-classifier-search-result-uri = URI:{ $uri }
 url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = URL ye' nitoke
+url-classifier-search-btn = Xe'ten ti ichukpe
 url-classifier-debug-title = Eesamal el
 url-classifier-success = b'a'xi ya
