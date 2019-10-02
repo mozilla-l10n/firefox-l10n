@@ -20,6 +20,11 @@ about-config-intro-warning-button = Garayinaj sa gahuin ni yakà gan'àn ne'ñaa
 
 
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Sisi nadunat sa hua riña nan ni ga'ue ga'uì' yi'ìj dàj 'iaj sun asi sa huì hua { -brand-short-name }.
+about-config-page-title = Sa tàj ñaan doj sa garan' ruhuât
+about-config-search-input1 =
+    .placeholder = Si yugui sa nana'ui' yitïnjt
 about-config-show-all = Nadigân Daran'anj
 about-config-pref-add = Nutà'
 about-config-pref-toggle = Toggle

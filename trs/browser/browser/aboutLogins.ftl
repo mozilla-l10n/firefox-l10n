@@ -61,6 +61,9 @@ about-logins-login-list-empty-search-description = Nitaj nuguan' nikaj dugui' ng
 login-list-item-title-new-login = Gayi'ì sesiûn nakàa
 login-list-item-subtitle-new-login = Gacrun dánt riña gayi'ìt sesiûn
 login-list-item-subtitle-missing-username = (nitaj si yugui usuario hua)
+about-logins-list-item-warning-icon =
+    .alt = Ikonô narikî nuguan' ahii
+    .title = Gi'iaj yi'ì si riña sitiô nan
 
 ## Introduction screen
 
@@ -79,8 +82,6 @@ login-item-origin-label = Si Direlsiûn Sîtio
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Si yuguî rè'
-login-item-username =
-    .placeholder = name@example.com
 about-logins-login-item-username =
     .placeholder = (nitaj si yugui usuario hua)
 login-item-copy-username-button-text = Guxun' ni nachrun' a'ngô hiuj u
@@ -136,3 +137,13 @@ breach-alert-text = Gi'iaj tu nej si da'nga' huì hua 'iát nga nagi'iaj nakàt 
 breach-alert-link = Gini'in doj dàj hua rayi'î 'ngo gakïn' nan.
 breach-alert-dismiss =
     .title = Narán riña sa ataj snan'anj nan
+
+## Error Messages
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Riña { $loginTitle } ngà hua 'ngo sa gu'nàj dàdanj.
+# This is a generic error message.
+about-logins-error-message-default = Hua 'ngo sa gire' ngà gahuin ruhuât na'nïnj sà' da'nga' huì nan.
