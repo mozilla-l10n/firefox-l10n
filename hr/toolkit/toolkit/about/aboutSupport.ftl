@@ -244,7 +244,7 @@ blocklisted-bug = Blokiran zbog poznatih problema
 bug-link = bug { $bugNumber }
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
-unknown-failure = Blokiran; kod neuspjeha { $failureCode }
+unknown-failure = Blokiran; kȏd neuspjeha { $failureCode }
 d3d11layers-crash-guard = D3D11 kompozitor
 d3d11video-crash-guard = D3D11 video dekoder
 d3d9video-crash-buard = D3D9 video dekoder
