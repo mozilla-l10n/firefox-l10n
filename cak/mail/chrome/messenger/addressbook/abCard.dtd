@@ -76,11 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "a">
 <!ENTITY Birthday.label                 "Alaxinem q'ij:">
 <!ENTITY Birthday.accesskey             "A">
-<!ENTITY In.label                       "">
+<!ENTITY Month.placeholder              "Ik'">
+<!ENTITY Day.placeholder                "Q'ij">
 <!ENTITY Year.placeholder               "Juna'">
-<!ENTITY Or.value                       "o">
+<!ENTITY Age.label                      "Ajuna':">
 <!ENTITY Age.placeholder                "Rujuna'">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Samaj">
 <!ENTITY Work.accesskey                 "S">
@@ -141,7 +141,6 @@
 
 <!ENTITY Photo.tab                      "Wachiwäch">
 <!ENTITY Photo.accesskey                "a">
-<!ENTITY PhotoDesc.label                "Ticha' jun chi ke re':">
 <!ENTITY GenericPhoto.label             "Ajchijun Wachiwäch">
 <!ENTITY GenericPhoto.accesskey         "A">
 <!ENTITY DefaultPhoto.label             "K'o wi">
