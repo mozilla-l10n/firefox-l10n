@@ -2,15 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pane-general-title = General
+category-general =
+    .tooltiptext = { pane-general-title }
 general-language-and-appearance-header = Idioma y apariencia
+general-incoming-mail-header = Correos electrónicos entrantes
 general-files-and-attachment-header = Archivos y adjuntos
 general-tags-header = Etiquetas
+general-reading-and-display-header = Lectura y visualización
 general-updates-header = Actualizaciones
 general-network-and-diskspace-header = Red y espacio en el disco
 general-indexing-label = Indexación
 composition-category-header = Composición
 composition-attachments-header = Adjuntos
 composition-spelling-title = Ortografía
+compose-html-style-title = Estilo HTML
+composition-addressing-header = Direccionamiento
 privacy-main-header = Privacidad
 privacy-passwords-header = Contraseñas
 privacy-junk-header = Basura

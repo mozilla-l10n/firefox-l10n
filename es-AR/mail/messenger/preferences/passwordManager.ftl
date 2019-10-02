@@ -4,6 +4,12 @@
 
 saved-logins =
     .title = Ingresos guardados
+window-close =
+    .key = w
+focus-search-shortcut =
+    .key = f
+focus-search-altshortcut =
+    .key = k
 copy-provider-url-cmd =
     .label = Copiar URL
     .accesskey = U
@@ -51,6 +57,8 @@ show-passwords =
 hide-passwords =
     .label = Ocultar contraseñas
     .accesskey = t
+logins-description-all = Los inicios de sesión para los siguientes proveedores se almacenan en su computadora
+logins-description-filtered = Los siguientes inicios de sesión coinciden con su búsqueda:
 remove-all =
     .label = Eliminar todo
     .accesskey = a
