@@ -29,7 +29,7 @@ protection-report-header-details-custom = Schutzstufe gesetzt auf <b>Benutzerdef
     .title = Datenschutz-Einstellungen öffnen
 protection-report-page-title = Schutzmaßnahmen
 protection-report-content-title = Schutzmaßnahmen
-etp-card-title = Verbesserter Schutz vor Aktivitätenverfolgung
+etp-card-title = Verbesserter Tracking-Schutz (Schutz vor Aktivitätenverfolgung)
 etp-card-content = Skripte zur Aktivitätenverfolgung folgen Ihnen über Websites hinweg und sammeln Informationen über Ihre Browser-Gewohnheiten und Interessen. { -brand-short-name } blockiert viele dieser Skripte zur Aktivitätenverfolgung und andere böswillige Skripte.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
@@ -73,10 +73,10 @@ lockwise-sync-status =
     }
 lockwise-sync-not-syncing-devices = Synchronisiert nicht mit anderen Geräten
 monitor-title = Nach Datenlecks Ausschau halten
-monitor-link = Funktionsweise
+monitor-link = So funktioniert's
 monitor-header-content-no-account = Testen Sie mit { -monitor-brand-name }, ob Sie von einem Datenleck betroffen sind, und lassen Sie sich bei zukünftigen Datenlecks benachrichtigen.
-monitor-header-content-signed-in = { -monitor-brand-name } benachrichtigt Sie, falls Ihre Informationen von einem bekannt werden Datenleck betroffen sind.
-monitor-sign-up = Anmelden für Warnmeldungen zu Datenlecks
+monitor-header-content-signed-in = { -monitor-brand-name } benachrichtigt Sie, falls Ihre Informationen von einem bekannt gwordenen Datenleck betroffen sind.
+monitor-sign-up = Für Warnmeldungen zu Datenlecks anmelden
 auto-scan = Heute automatisch überprüft
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -102,7 +102,7 @@ info-exposed-passwords-found =
         [one] Passwort durch alle Datenlecks offengelegt.
        *[other] Passwörter durch alle Datenlecks offengelegt.
     }
-full-report-link = Vollständiger Bericht auf <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+full-report-link = Zum vollständigen Bericht auf <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
 # your localization, because it would result in the number showing twice.
