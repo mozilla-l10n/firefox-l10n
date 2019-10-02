@@ -122,6 +122,8 @@ confirm-discard-changes-dialog-confirm-button = Тайдыру
 
 ## Breach Alert notification
 
+breach-alert-dismiss =
+    .title = Бұл ескертуді жабу
 
 ## Error Messages
 
