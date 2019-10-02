@@ -11,9 +11,6 @@
 <!ENTITY  prefWindow.titleWin     "Taq cha'oj">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName; Taq ajowab'äl">
 <!ENTITY  prefWindow.titleMAC     "Taq ajowab'äl">
-<!ENTITY  prefWindow.styleWindows "width: 48em; min-height: 38.5em;">
-<!ENTITY  prefWindow.styleMac     "width: 52em;">
-<!ENTITY  prefWindow.styleGNOME   "width: 47em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "Chijun">
 <!ENTITY paneDisplay.title        "Tik'ut pe">
@@ -22,8 +19,12 @@
 <!ENTITY paneAttachments.title    "Taq taqoj">
 <!ENTITY panePrivacy.title        "Ichinanem">
 <!ENTITY paneSecurity.title       "Jikomal">
+<!ENTITY panePrivacySecurity.title "Ichinanem &amp; Jikomal">
+<!ENTITY paneLightning.title      "Cholb'äl q'ij">
 <!ENTITY paneAdvanced.title       "Q'axinäq">
 <!ENTITY paneAccount.title        "Rub'i' taqoya'l">
+
+<!ENTITY addonsButton.label       "Taq k'amal &amp; taq Wachinel">
 
 <!ENTITY okButton.title           "ÜTZ">
 <!ENTITY okButton.accesskey       "Ü">

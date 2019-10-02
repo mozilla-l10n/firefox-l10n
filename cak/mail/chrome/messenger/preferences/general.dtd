@@ -38,3 +38,5 @@
 <!ENTITY browse.accesskey                 "T">
 
 <!ENTITY defaultSearchEngine.label        "K'o wi chi Kanob'äl">
+<!ENTITY removeSearchEngine.label         "Tiyuj">
+<!ENTITY removeSearchEngine.accesskey     "y">

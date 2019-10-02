@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Sik'inem">
 <!ENTITY display.caption                  "Tik'ut pe">
+<!ENTITY displayName.label                "Tik'ut b'i'aj:">
 <!ENTITY showCondensedAddresses.label     "Titz'et xa xe ri b'i'aj xtik'ut chi kiwäch ri winaqi' pa kitz'ib'awuj wochochib'al">
 <!ENTITY showCondensedAddresses.accesskey "T">
 

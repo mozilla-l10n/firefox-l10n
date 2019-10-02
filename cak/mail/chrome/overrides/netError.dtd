@@ -191,3 +191,6 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> nawokisaj ojer chuqa' k'o ruk'ayewal chi kiwäch ri mejoj ri na'ob'äl. Jun mejonel nitikïr man k'ayew ta nuq'alajisaj etamab'äl ri niwachin chi ütz. Ri runuk'samajel ajk'amaya'l ruxaq k'o chi nub'än ruk'ojlem ri k'uxasamaj chuwäch nitz'et ri ruxaq.</p><p>Rusachoj b'itz'ib': NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Xq'at Ruxaq">
+
+<!ENTITY networkProtocolError.title "Rusachoj Rub'eyal Nisamäj K'amb'ey">
+<!ENTITY networkProtocolError.longDesc "<p>Man tikirel ta nik'ut ri ruxaq nawajo' natz'ët ruma xilitäj jun sachoj chi rij rub'eyal nisamäj k'amab'ey.</p><ul><li>Katzijon rik'in ri rajaw ajk'amaya'l ruxaq richin naya' rutzijol re k'ayewal re'.</li></ul>">

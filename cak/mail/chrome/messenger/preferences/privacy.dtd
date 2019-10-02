@@ -36,3 +36,7 @@
 <!ENTITY dntTrackingNotOkay.label2 "Tib'ix chi ke ri taq ruxaq chi man ninwajo' ta chi yinkojqaj">
 <!ENTITY dntTrackingNotOkay.accesskey "m">
 <!ENTITY doNotTrackInfo.label "Tawetamaj ch'aqa' chik chi rij Mani Tojq'äx">
+
+<!ENTITY doNotTrackCheck.label "Ketaq ri taq ruxaq ajk'amaya'l jun “Mani Tojqäx” raqän kumal chi man nojowäx ta chi tikanöx">
+<!ENTITY doNotTrackCheck.accesskey "t">
+<!ENTITY doNotTrackLearnMore.label "Tetamäx ch'aqa' chik">
