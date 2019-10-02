@@ -23,20 +23,21 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Conto">
 <!ENTITY firstrun_sync_message2 "Cuntinuescha là nua che ti has chalà.">
+<!ENTITY firstrun_sync_message3 "Sincronisescha ils segnapaginas, la cronologia ed ils pleds-clav era sin tes telefon.">
 <!ENTITY firstrun_sync_subtext2 "Utilisescha Sync per chattar segnapaginas, pleds-clav ed autras datas che ti has memorisà en &brandShortName; sin tut tes apparats.">
 <!ENTITY newfirstrun_sync_subtext "Sincronisescha quai che ti memoriseschas sin tes apparat mobil era en Firefox per Windows, macOS u Linux – a moda confidenziala e segira.">
 <!ENTITY updatednewfirstrun_sync_subtext "T\&apos;annunzia cun tes conto per profitar il meglier da &brandShortName;">
 <!ENTITY firstrun_signin_message "Ta collia per cumenzar">
+<!ENTITY firstrun_sendtab_title "Trametter il tab">
+<!ENTITY firstrun_sendtab_message "Cundivida tabs da l\&apos;apparat mobil cun il computer — immediatamain.">
 <!ENTITY firstrun_signin_button "T\&apos;annunzia per sincronisar">
 <!ENTITY newfirstrun_signin_button "Activar Sync">
 <!ENTITY updatednewfirstrun_signin_button "S\&apos;annunziar tar &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Cumenzar a navigar">
+<!ENTITY onboard_start_button_browser "Cumenzar a navigar">
 <!ENTITY firstrun_button_notnow "Betg gist uss">
 <!ENTITY firstrun_button_next "Enavant">
 
 <!ENTITY firstrun_signin_button2 "S\&apos;annunziar">
-
-<!ENTITY firstrun_signup_button "Sa registrar">
 
 <!ENTITY firstrun_tabqueue_title "Colliaziuns">
 
@@ -48,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Ti">
 <!ENTITY firstrun_account_message "Has ti &brandShortName; era sin in auter apparat?">
+
+<!ENTITY firstrun_signup_button "Sa registrar">
 
 <!ENTITY  onboard_start_restricted1 "Resta segir e mantegna la controlla cun questa versiun simplifitgada da &brandShortName;.">
 
@@ -499,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Cundivider">
 <!ENTITY share_title "Cundivider via">
 <!ENTITY share_image_failed "Impussibel da cundivider questa grafica">
+<!ENTITY share_error_toast_message "Impussibel da cundivider cun l\&apos;app inditgada">
 <!ENTITY save_as_pdf "Memorisar sco PDF">
 <!ENTITY print "Stampar">
 <!ENTITY view_page_source "Mussar il code da funtauna da la pagina">
@@ -692,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Ti es collià cun">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
