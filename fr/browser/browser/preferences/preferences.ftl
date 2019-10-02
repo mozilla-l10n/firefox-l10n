@@ -607,9 +607,32 @@ sync-signedin-settings-desc = Sélectionnez les données à synchroniser entre v
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Synchronisation : ACTIVÉE
+prefs-syncing-off = Synchronisation : DÉSACTIVÉE
+prefs-sync-setup =
+    .label = Configurer { -sync-brand-short-name }…
+    .accesskey = C
+prefs-sync-offer-setup-label = Synchronisez marque-pages, historique, onglets, mots de passe, modules complémentaires et préférences entre tous vos appareils.
+prefs-sync-now =
+    .labelnotsyncing = Synchroniser maintenant
+    .accesskeynotsyncing = m
+    .labelsyncing = Synchronisation…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Les éléments suivants sont actuellement synchronisés :
+sync-currently-syncing-bookmarks = Marque-pages
+sync-currently-syncing-history = Historique
+sync-currently-syncing-tabs = Onglets ouverts
+sync-currently-syncing-logins-passwords = Identifiants et mots de passe
+sync-currently-syncing-addresses = Adresses
+sync-currently-syncing-creditcards = Cartes bancaires
+sync-currently-syncing-addons = Modules complémentaires
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Options
+       *[other] Préférences
+    }
 
 ## The "Choose what to sync" dialog.
 

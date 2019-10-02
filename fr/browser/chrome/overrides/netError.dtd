@@ -209,5 +209,9 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Ce problème semble être provoqué par vos paramètres de sécurité réseau. Voulez-vous restaurer les paramètres par défaut ?">
 <!ENTITY prefReset.label "Restaurer les paramètres par défaut">
 
+<!ENTITY enableTls10.longDesc "Ce site web pourrait ne pas prendre en charge le protocole TLS 1.2, qui est la version minimale prise en charge par &brandShortName;. L’activation de TLS 1.0 et TLS 1.1 pourrait permettre d’achever la connexion.">
+<!ENTITY enableTls10.note "TLS 1.0 et TLS 1.1 seront définitivement désactivés dans une prochaine version.">
+<!ENTITY enableTls10.label "Activer TLS 1.0 et 1.1">
+
 <!ENTITY networkProtocolError.title "Erreur de protocole réseau">
 <!ENTITY networkProtocolError.longDesc "<p>La page à laquelle vous essayez d’accéder ne peut pas être affichée, car une erreur du protocole réseau a été détectée.</p><ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul>">
