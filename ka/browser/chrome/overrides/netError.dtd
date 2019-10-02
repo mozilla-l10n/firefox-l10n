@@ -9,7 +9,6 @@
 <!ENTITY retry.label "სცადეთ ხელახლა">
 <!ENTITY returnToPreviousPage.label "უკან დაბრუნება">
 <!ENTITY returnToPreviousPage1.label "უკან დაბრუნება (სასურველია)">
-<!ENTITY advanced.label "ვრცლად">
 <!ENTITY advanced2.label "დამატებით…">
 <!ENTITY viewCertificate.label "სერტიფიკატის ნახვა">
 
@@ -146,14 +145,8 @@
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle1 "კავშირი დაუცველია">
-
 <!ENTITY certerror.longpagetitle2 "ფრთხილად: სახიფათოა">
 <!ENTITY certerror.sts.longpagetitle  "ვერ დაუკავშირდა: სავარაუდოდ უსაფრთხოების ხარვეზის გამო">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
-will be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara "მფლობელს საიტი ბმულით <span class='hostname'/> არასწორად აქვს გამართული.  თქვენი მონაცემების მოპარვისგან დასაცავად, &brandShortName; ამ ვებგვერდს არ დაუკავშირდება.">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -197,9 +190,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "დაზიანებული შიგთავსის შეცდომა">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>გვერდის ჩვენება, რომლის ნახვასაც ცდილობთ, ვერ ხერხდება, მონაცემთა გადაცემისას აღმოჩენილი შეცდომის გამო.</p><ul><li>გთხოვთ, დაუკავშირდეთ საიტის მფლობელებს და აცნობოთ, ამ ხარვეზის შესახებ.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "გამონაკლისის დამატება…">
-
 <!ENTITY securityOverride.exceptionButton1Label "საფრთხის გაცნობიერება და გაგრძელება">
 
 <!ENTITY errorReporting.automatic2 "აცნობეთ Mozilla-ს მსგავსი შეცდომების შესახებ, რომ დაეხმაროთ მავნე საიტების აღმოჩენასა და მათ შეზღუდვაში">
@@ -213,20 +203,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "დამატებითი ინფორმაცია: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; ვერ უკავშირდება <span id='wrongSystemTime_URL'/> -ს, რადგან როგორც ჩანს, თქვენი კომპიუტერის საათი არასწორ დროს აჩვენებს, რაც ხელს უშლის უსაფრთხოდ დაკავშირებას.</p><p>თქვენს კომპიუტერზე არის <span id='wrongSystemTime_systemDate'/> , მაშინ როცა, უნდა იყოს <span id='wrongSystemTime_actualDate'/>. ხარვეზის აღმოსაფხვრელად, გაასწორეთ სისტემის დრო და თარიღი.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; ვერ უკავშირდება <span id='wrongSystemTimeWithoutReference_URL'/> -ს, რადგან როგორც ჩანს, თქვენი კომპიუტერის საათი არასწორ დროს აჩვენებს, რაც ხელს უშლის უსაფრთხოდ დაკავშირებას.</p> <p>თქვენს კომპიუტერზე არის <span id='wrongSystemTimeWithoutReference_systemDate'/>. ხარვეზის აღმოსაფხვრელად, გაასწორეთ სისტემის დრო და თარიღი.</p>">
-
-<!ENTITY certerror.pagetitle1  "დაუცველი კავშირი">
-
 <!ENTITY certerror.pagetitle2  "ფრთხილად: სახიფათოა">
 <!ENTITY certerror.sts.pagetitle  "ვერ დაუკავშირდა: სავარაუდოდ უსაფრთხოების ხარვეზის გამო">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ეს საიტი იყენებს HTTP
-Strict Transport Security (HSTS) შეერთებას, რომ &brandShortName; მხოლოდ დაცულად
-დაუკავშირდეს. ამის გამო, შეუძლებელია მოცემული სერტიფიკატისთვის გამონაკლისის 
-დაშვება.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> საიტს გააჩნია უსაფრთხოების დებულება სახელად HTTP Strict Transport Security (HSTS), რაც ნიშნავს, რომ &brandShortName; მას მხოლოდ უსაფრთხო შეერთებით შეიძლება დაუკავშირდეს. თქვენ ვერ შეძლებთ გამონაკლისის დაშვებას ამ საიტის მოსანახულებლად.">
 <!ENTITY certerror.copyToClipboard.label "ტექსტის ასლის აღება">
 
@@ -249,6 +227,10 @@ Strict Transport Security (HSTS) შეერთებას, რომ &brandSh
 
 <!ENTITY prefReset.longDesc "შესაძლოა ამის მიზეზს, თქვენ მიერ მითითებული, ქსელის უსაფრთხოების პარამეტრები წარმოადგენდეს. გსურთ ნაგულისხმევი პარამეტრების აღდგენა?">
 <!ENTITY prefReset.label "ნაგულისხმევი პარამეტრების აღდგენა">
+
+<!ENTITY enableTls10.longDesc "ვებსაიტზე ალბათ არაა მხარდაჭერილი TLS 1.2 ოქმი, უმცირესი ვერსია, რომელსაც იყენებს &brandShortName;. TLS1.0 და TLS 1.1 ოქმების ჩართვით შესაძლოა მოხერხდეს კავშირის დამყარება.">
+<!ENTITY enableTls10.note "TLS 1.0 და TLS 1.1 სამუდამოდ გაითიშება მომავალ გამოშვებაში.">
+<!ENTITY enableTls10.label "ჩაირთოს TLS 1.0 და 1.1">
 
 <!ENTITY networkProtocolError.title "ქსელის ოქმის შეცდომა">
 <!ENTITY networkProtocolError.longDesc "<p>გვერდი რომლის მონახულებასაც ცდილობთ ვერ გამოჩნდება, ვინაიდან ქსელის ოქმში აღმოჩენილია შეცდომა.</p><ul><li>გთხოვთ, დაუკავშირდეთ საიტის მფლობელებს და აცნობოთ ამ ხარვეზის შესახებ.</li></ul>">
