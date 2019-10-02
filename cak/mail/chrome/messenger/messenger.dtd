@@ -706,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Tiyak Kanoxïk achi'el jun Yakwuj…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Ticha' Rutzijol">
 <!ENTITY threadColumn.label "Tzijonem">
 <!ENTITY fromColumn.label "Richin">
 <!ENTITY recipientColumn.label "K'ulunel">
@@ -729,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Kecha' taq che'el richin nik'ut">
+<!ENTITY selectColumn.tooltip "Tik'exlöx yecha' ronojel taq rutzijol">
 <!ENTITY threadColumn2.tooltip "Tik'ut rutzijol chi tzijonem">
 <!ENTITY fromColumn2.tooltip "Kenuk' chi richin">
 <!ENTITY recipientColumn2.tooltip "Tinuk' chi k'ulunel">
