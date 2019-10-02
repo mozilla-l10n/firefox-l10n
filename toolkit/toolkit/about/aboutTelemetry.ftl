@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = ਪਿੰਗ ਡਾਟਾ ਸਰੋਤ:
 about-telemetry-show-current-ping-data = ਮੌਜੂਦਾ ਪਿੰਗ ਡਾਟਾ
+about-telemetry-show-current-data = ਮੌਜੂਦਾ ਡਾਟਾ
 about-telemetry-show-archived-ping-data = ਅਕਾਇਵ ਕੀਤਾ ਪਿੰਗ ਡਾਟਾ
 about-telemetry-show-subsession-data = ਸਬ-ਸ਼ੈਸ਼ਨ ਡਾਟਾ ਦੇਖੋ
 about-telemetry-choose-ping = ਪਿੰਗ ਨੂੰ ਚੁਣੋ:
@@ -15,6 +16,7 @@ about-telemetry-option-group-older = ਹੋਰ ਪੁਰਾਣੇ
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = ਟੈਲੀਮੈਂਟਰੀ ਡਾਟਾ
+about-telemetry-current-store = ਮੌਜੂਦਾ ਸਟੋਰ:
 about-telemetry-more-information = ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਖੋਜਣਾ ਹੈ?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">ਫਾਇਰਫਾਕਸ ਡਾਟਾ ਦਸਤਾਵੇਜ਼ (ਅੰਗਰੇਜ਼ੀ)</a> ਵਿੱਚ ਗਾਈਡਾਂ ਹਨ, ਜੋ ਕਿ ਸਾਡੇ ਡਾਟਾ ਟੂਲ ਨਾਲ ਕੰਮ ਕਰਨ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦਿੰਦੀਆਂ ਹਨ।
 about-telemetry-show-in-Firefox-json-viewer = JSON ਦਰਸ਼ਕ 'ਚ ਖੋਲ੍ਹੋ
@@ -117,3 +119,6 @@ about-telemetry-category-header = ਵਰਗ
 about-telemetry-method-header = ਢੰਗ
 about-telemetry-object-header = ਆਬਜੈਕਟ
 about-telemetry-extra-header = ਵਾਧੂ
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process } ਪਰੋਸੈਸ
