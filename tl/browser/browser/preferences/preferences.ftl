@@ -607,6 +607,8 @@ sync-signedin-settings-desc = Piliin kung ano ang mag-synchronize sa iyong devic
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Syncing: ON
+prefs-syncing-off = Syncing: OFF
 prefs-sync-setup =
     .label = Mag-set up ng { -sync-brand-short-name }...
     .accesskey = S
