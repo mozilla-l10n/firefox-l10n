@@ -29,5 +29,6 @@ item-cache =
     .label = Caché
     .accesskey = a
 data-section-label = Datos
+sanitize-everything-undo-warning = Ya´a nkuvi tanɨ.
 window-close =
     .key = w

@@ -40,6 +40,8 @@ newtab-topsites-add-button = Tee
 
 ## Top Sites - Delete history confirmation dialog.
 
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = Ya´a nkuvi tanɨ.
 
 ## Context Menu - Action Tooltips.
 

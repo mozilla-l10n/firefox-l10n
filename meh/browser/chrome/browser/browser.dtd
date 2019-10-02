@@ -33,6 +33,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "D">
 <!ENTITY  sendPageToDevice.accesskey         "d">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
+<!ENTITY  undoCloseTab.label                 "Tanɨ nakasɨ nuu nɨ'ɨ pestaña">
 <!ENTITY  undoCloseTab.accesskey             "h">
 
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
@@ -223,6 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY editMenu.label         "Natee">
 <!ENTITY editMenu.accesskey       "E">
+<!ENTITY undoCmd.label            "Tanɨ">
 <!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "D">
 <!ENTITY redoCmd.key            "Y">
@@ -259,7 +261,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyMenu.label "Sɨ´ɨ">
 <!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyUndoMenu.label "Pestañas nnakasɨ ntañu´u">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Pestañas nnakasɨ ntañu´u">
 
 <!ENTITY showAllHistoryCmd2.label "Tuvi kuaiyo sɨ´ɨ">
 

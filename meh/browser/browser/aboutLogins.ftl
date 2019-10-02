@@ -34,6 +34,7 @@ menu-menuitem-preferences =
     }
 about-logins-menu-menuitem-help = Chinei
 menu-menuitem-android-app = { -lockwise-brand-short-name } para Android
+menu-menuitem-iphone-app = { -lockwise-brand-short-name } iPhone jíí iPad
 
 ## Login List
 
@@ -46,11 +47,15 @@ login-list-last-changed-option = Nuu nɨ'ɨ a nsama
 login-list-last-used-option = Nni´i nuu nɨ´ɨ
 login-list-intro-title = Ntu nani´i nuu kajie´e sesión
 login-list-intro-description = Saa chuva´anu iin contraseña nuu { -brand-product-name }, ya´a kutuvi.
+about-logins-login-list-empty-search-title = Ntu nani´i credenciales
+about-logins-login-list-empty-search-description = Ntu íyo tu´un ínu jii a nánukunu.
 login-list-item-title-new-login = A jíía inicio sesión
+login-list-item-subtitle-new-login = Chu´un credenciales noo´o a kajie´e sesión
 login-list-item-subtitle-missing-username = (Na íyo sivɨ ñɨvɨ)
 
 ## Introduction screen
 
+login-intro-heading = ¿Nánuku daa nuu kajie´e sesión nchuva´a?Ke'i { -sync-brand-short-name }.
 about-logins-intro-instruction-help = Kivu <a data-l10n-name="help-link">{ -lockwise-brand-short-name }  </a> nuu kuvi chineidani noo´o
 
 ## Login
@@ -92,6 +97,7 @@ confirmation-dialog-cancel-button = Nkuvi-ka
 confirmation-dialog-dismiss-button =
     .title = Nkuvi-ka
 confirm-delete-dialog-title = Xina nuu kajie´e sesión ya´a?
+confirm-delete-dialog-message = Ya´a nkuvi tanɨ.
 confirm-delete-dialog-confirm-button = Xita
 
 ## Breach Alert notification
