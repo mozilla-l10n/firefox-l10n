@@ -42,7 +42,7 @@
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetrija">
-<!ENTITY telemetryDesc.label             "Dijeli podatke o performansama, korištenju, hardveru i prilagodbama vašeg programa e-pošte, kako bi &vendorShortName; mogla unaprijediti &brandShortName;">
+<!ENTITY telemetryDesc.label             "Dijeli podatke o performanci, korištenju, hardveru i prilagodbama tvog programa e-pošte, kako bi &vendorShortName; mogla unaprijediti &brandShortName;">
 <!ENTITY enableTelemetry.label           "Omogući telemetriju">
 <!ENTITY enableTelemetry.accesskey       "t">
 <!ENTITY telemetryLearnMore.label        "Saznajte više">
