@@ -9,10 +9,7 @@
 <!ENTITY retry.label "Thử lại">
 <!ENTITY returnToPreviousPage.label "Quay lại">
 <!ENTITY returnToPreviousPage1.label "Quay lại (Khuyến nghị)">
-<!ENTITY advanced.label "Nâng cao">
-<!ENTITY continue2.label "Thêm…">
 <!ENTITY advanced2.label "Nâng cao…">
-<!ENTITY moreInformation.label "Thông tin Chi tiết">
 <!ENTITY viewCertificate.label "Xem chứng chỉ">
 
 <!-- Specific error messages -->
@@ -90,13 +87,11 @@
 <!ENTITY nssFailure2.title "Không thể kết nối an toàn">
 <!ENTITY nssFailure2.longDesc2 "<ul><li>Không thể hiển thị trang bạn muốn xem vì không thể kiểm tra tính xác thực của dữ liệu nhận được.</li><li>Vui lòng liên hệ chủ trang web để báo với họ vấn đề này.</li></ul>">
 
-<!ENTITY certerror.longpagetitle1 "Kết nối của bạn không an toàn">
 <!ENTITY certerror.longpagetitle2 "Cảnh báo: Rủi ro bảo mật tiềm ẩn">
 <!ENTITY certerror.sts.longpagetitle  "Không kết nối: Sự cố bảo mật tiềm ẩn">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Người chủ của <span class='hostname'/> đã cấu hình trang của họ không đúng.  Để tránh mất cắp thông tin của bạn, &brandShortName; đã không kết nối tới trang này.">
 <!ENTITY certerror.introPara2 "&brandShortName; phát hiện một mối đe dọa bảo mật và không tiếp tục đến <span class='hostname'/>. Nếu bạn truy cập trang web này, kẻ tấn công có thể cố gắng lấy cắp thông tin như mật khẩu, email hoặc chi tiết thẻ tín dụng của bạn.">
 <!ENTITY certerror.sts.introPara "&brandShortName; phát hiện một mối đe dọa bảo mật tiềm năng và không tiếp tục đến <span class='hostname'/> vì trang web này yêu cầu kết nối an toàn.">
 
@@ -128,8 +123,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Lỗi nội dung không toàn vẹn">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Không thể hiển thị được trang mà bạn muốn xem vì có lỗi trong truyền tải dữ liệu.</p><ul><li>Vui lòng liên hệ chủ trang web để báo họ về vấn đề này.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Thêm ngoại lệ…">
 <!ENTITY securityOverride.exceptionButton1Label "Chấp nhận rủi ro và tiếp tục">
 
 <!ENTITY errorReporting.automatic2 "Báo cáo những lỗi như thế này để giúp Mozilla nhận diện và chặn những trang độc hại">
@@ -143,16 +136,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Thông tin bổ sung: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; không thể kết nối đến <span id='wrongSystemTime_URL'/> bởi vì đồng hồ máy tính của bạn dường như hiển thị sai thời gian và điều này chặn một kết nối an toàn.</p> <p>Máy tính của bạn đang được cài đặt là <span id='wrongSystemTime_systemDate'/>, trong khi thời gian thực tế là <span id='wrongSystemTime_actualDate'/>. Để khắc phục sự cố này, thay đổi lại đồng hồ của bạn về thời gian chính xác.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; không thẻ kết nối đến <span id='wrongSystemTimeWithoutReference_URL'/> vì đồng hồ máy tính của bạn có vẻ như hiển thị sai thời gian và điều này ngăn chặn kết nối an toàn. </p> <p>Máy tính của bạn đang cài đặt là <span id='wrongSystemTimeWithoutReference_systemDate'/>. Để khắc phục, hãy thay đổi cài đặt ngày giờ cho đúng.</p>">
-
-<!ENTITY certerror.pagetitle1  "Kết nối không bảo mật">
 <!ENTITY certerror.pagetitle2  "Cảnh báo: Rủi ro bảo mật tiềm ẩn">
 <!ENTITY certerror.sts.pagetitle  "Không kết nối: Sự cố bảo mật tiềm ẩn">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Trang này dùng HTTP Strict Transport Security (HSTS) để chỉ định &brandShortName; chỉ được kết nối với nó một cách bảo mật. Cho nên, không khả thi để thêm ngoại lệ cho chứng chỉ này.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> có chính sách bảo mật được gọi là HTTP Strict Transport Security (HSTS), có nghĩa là &brandShortName; chỉ có thể kết nối với nó một cách an toàn. Bạn không thể thêm ngoại lệ để truy cập trang web này.">
 <!ENTITY certerror.copyToClipboard.label "Sao chép văn bản vào clipboard">
 
@@ -175,6 +160,10 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Dường như là cài đặt bảo mật mạng của bạn có thể gây ra điều này. Bạn có muốn khôi phục cài đặt mặc định?">
 <!ENTITY prefReset.label "Khôi phục cài đặt mặc định">
+
+<!ENTITY enableTls10.longDesc "Trang web này có thể không hỗ trợ giao thức TLS 1.2, đây là phiên bản tối thiểu được hỗ trợ bởi &brandShortName;. Kích hoạt TLS 1.0 và TLS 1.1 có thể cho phép kết nối này.">
+<!ENTITY enableTls10.note "TLS 1.0 và TLS 1.1 sẽ bị vô hiệu hóa vĩnh viễn trong phiên bản tương lai.">
+<!ENTITY enableTls10.label "Kích hoạt TLS 1.0 và 1.1">
 
 <!ENTITY networkProtocolError.title "Lỗi giao thức mạng">
 <!ENTITY networkProtocolError.longDesc "<p>Không thể hiển thị trang bạn đang cố xem vì lỗi trong giao thức mạng đã được phát hiện.</p><ul><li>Vui lòng liên hệ với chủ sở hữu trang web để thông báo cho họ về sự cố này.</li></ul>">
