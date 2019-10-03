@@ -167,6 +167,7 @@ applications-use-other-label =
 
 play-drm-content-learn-more = Ka´vi kue´eka
 update-application-version = Versión { $version } <a data-l10n-name="learn-more"> Nakuvi a jíía íyo</a>
+update-in-progress-message = ¿A kuvinu { -brand-short-name } kaka jii a naxi´ñá?
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kɨ´ɨ
