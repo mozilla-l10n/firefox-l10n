@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Увесь экран
     .accesskey = У
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Паказаць усе карткі
@@ -212,11 +212,20 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Увайсці ў { -sync-brand-short-name }…
     .accesskey = У
+menu-tools-fxa-sign-in =
+    .label = Увайсці ў { -brand-product-name }…
+    .accesskey = і
+menu-tools-turn-on-sync =
+    .label = Уключыць { -sync-brand-short-name }…
+    .accesskey = ь
 menu-tools-sync-now =
     .label = Сінхранізаваць зараз
     .accesskey = С
 menu-tools-sync-re-auth =
     .label = Перазлучыцца з { -sync-brand-short-name }…
+    .accesskey = П
+menu-tools-fxa-re-auth =
+    .label = Перазлучыцца з { -brand-product-name }…
     .accesskey = П
 menu-tools-web-developer =
     .label = Распрацоўшчык Сеціва
