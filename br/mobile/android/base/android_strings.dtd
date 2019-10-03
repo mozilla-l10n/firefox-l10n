@@ -23,20 +23,21 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Kont">
 <!ENTITY firstrun_sync_message2 "Adloc\&apos;hit el lec\&apos;h m\&apos;ho peus paouezet.">
+<!ENTITY firstrun_sync_message3 "Goubredit ho sinedoù, ho roll istor hag ho kerioù-tremen war ho pellgomzer.">
 <!ENTITY firstrun_sync_subtext2 "Grit gant Sync evit adkavout ar sinedoù, ar gerioù-tremen, hag an holl draoù enrollet e &brandShortName; war ho holl drevnadoù.">
 <!ENTITY newfirstrun_sync_subtext "Goubredit ar pezh a enrollit war hoc\&apos;h hezougell evit Firefox war urzhiataer, en un doare prevez ha diogel.">
 <!ENTITY updatednewfirstrun_sync_subtext "Kennaskit d\&apos;ho kont evit kaout ar muiañ eus &brandShortName;">
 <!ENTITY firstrun_signin_message "Kennaskit, krogit ganti">
+<!ENTITY firstrun_sendtab_title "Kas an ivinell">
+<!ENTITY firstrun_sendtab_message "Rannañ ivinelloù eus ho pellgomzer betek hoc\&apos;h urzhiataer hep gortoz.">
 <!ENTITY firstrun_signin_button "Kennaskañ ouzh Sync">
 <!ENTITY newfirstrun_signin_button "Gweredekaat Sync">
 <!ENTITY updatednewfirstrun_signin_button "Kennaskit da &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Krog da verdeiñ">
+<!ENTITY onboard_start_button_browser "Krog da verdeiñ">
 <!ENTITY firstrun_button_notnow "Ket evit ar mare">
 <!ENTITY firstrun_button_next "War-lerc\&apos;h">
 
 <!ENTITY firstrun_signin_button2 "Kennaskañ">
-
-<!ENTITY firstrun_signup_button "Marilhañ">
 
 <!ENTITY firstrun_tabqueue_title "Ereoù">
 
@@ -48,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "C\&apos;hwi">
 <!ENTITY firstrun_account_message "&brandShortName; ho peus war un trevnad all?">
+
+<!ENTITY firstrun_signup_button "Marilhañ">
 
 <!ENTITY  onboard_start_restricted1 "Chomit diarvar ha dalc\&apos;hit ar mestroniezh gant stumm eeunaet &brandShortName;.">
 
@@ -499,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Rannañ">
 <!ENTITY share_title "Rannañ dre ">
 <!ENTITY share_image_failed "N\&apos;haller ket rannañ ar skeudenn-mañ">
+<!ENTITY share_error_toast_message "N\&apos;haller ket rannañ d\&apos;an arload dibabet">
 <!ENTITY save_as_pdf "Enrollañ evel PDF">
 <!ENTITY print "Moullañ">
 <!ENTITY view_page_source "Gwelout tarzh ar bajennad">
@@ -692,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Kennasket oc\&apos;h ouzh">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
