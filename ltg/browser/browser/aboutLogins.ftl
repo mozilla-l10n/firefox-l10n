@@ -46,9 +46,9 @@ login-list =
     .aria-label = Pīejis dati, kuri atbylst mekliešonys pīprasejumam
 login-list-count =
     { $count ->
-        [zero] pīejis datu
-        [one] pīejis dati
-       *[other] pīejis dati
+        [zero] { $count } pīejis datu
+        [one] { $count } pīejis dati
+       *[other] { $count } pīejis dati
     }
 login-list-sort-label-text = Sakōrtōt pec:
 login-list-name-option = Vōrds (A-Z)
@@ -99,7 +99,7 @@ login-item-save-new-button = Saglobōt
 login-item-cancel-button = Atceļt
 login-item-time-changed = Pādejōs izmaiņas: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Izveidōts: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Lītots pādejū reizi:
+login-item-time-used = Lītots pādejū reizi: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
