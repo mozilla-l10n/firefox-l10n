@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Pantalla completa
     .accesskey = P
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Mostrar todas las pestañas
@@ -212,11 +212,20 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Iniciar sesión a { -sync-brand-short-name }…
     .accesskey = Y
+menu-tools-fxa-sign-in =
+    .label = Iniciar sesión en { -brand-product-name }…
+    .accesskey = I
+menu-tools-turn-on-sync =
+    .label = Activar { -sync-brand-short-name }...
+    .accesskey = n
 menu-tools-sync-now =
     .label = Sincronizar ahora
     .accesskey = S
 menu-tools-sync-re-auth =
     .label = Reconectar a { -sync-brand-short-name }…
+    .accesskey = R
+menu-tools-fxa-re-auth =
+    .label = Reconectar a { -brand-product-name }...
     .accesskey = R
 menu-tools-web-developer =
     .label = Desarrollador Web
