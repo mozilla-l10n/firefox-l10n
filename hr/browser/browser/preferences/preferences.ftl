@@ -362,18 +362,18 @@ update-in-progress-cancel-button = &Nastavi
 
 ## General Section - Performance
 
-performance-title = Performanse
+performance-title = Performansa
 performance-use-recommended-settings-checkbox =
-    .label = Koriste preporučene postavke performansi
+    .label = Koristi preporučene postavke performanse
     .accesskey = u
-performance-use-recommended-settings-desc = Ove postavke su skrojene za vaš hardver i operativni sustav.
-performance-settings-learn-more = Saznajte više
+performance-use-recommended-settings-desc = Ove postavke su skrojene za tvoj hardver i operacijski sustav.
+performance-settings-learn-more = Saznaj više
 performance-allow-hw-accel =
-    .label = Koristi hardversku akceleraciju kad je moguće
+    .label = Koristi hardversko ubrzanje kad je dostupno
     .accesskey = h
-performance-limit-content-process-option = Granice procesiranja sadržaja
+performance-limit-content-process-option = Granica procesiranja sadržaja
     .accesskey = G
-performance-limit-content-process-enabled-desc = Dodatni procesi sadržaja mogu poboljšati performanse kada koristite više kartica, ali će koristiti i više memorije.
+performance-limit-content-process-enabled-desc = Dodatni procesi sadržaja mogu poboljšati performansu kad koristiš više kartica, ali će koristiti i više memorije.
 performance-limit-content-process-blocked-desc = Izmjena broja procesa sadržaja je moguća samo s višeprocesnim { -brand-short-name }om. <a data-l10n-name="learn-more">Saznajte kako provjeriti da li je više procesa omogućeno.</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -859,7 +859,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Prilagođeno
     .accesskey = P
-content-blocking-standard-desc = Uravnoteženo za zaštitu i performanse. Dozvoli neke pratitelje tako da webstranice funkcioniraju ispravno.
+content-blocking-standard-desc = Uravnoteženo za zaštitu i performansu. Dozvoli neke programe za praćenje kako bi webstranice ispravno funkcionirale.
 content-blocking-strict-description = Snažnija zaštita, može uzrokovati pucanje nekih web stranica.
 content-blocking-custom-desc = Odaberite što blokirati.
 content-blocking-private-trackers = Poznati programi za praćenje samo u privatnim prozorima
