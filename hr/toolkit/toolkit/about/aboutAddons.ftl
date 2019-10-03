@@ -316,7 +316,7 @@ preferences-addon-button =
        *[other] Mogućnosti
     }
 details-addon-button = Detalji
-release-notes-addon-button = Bilješke izdanja
+release-notes-addon-button = Napomene o izdanju
 permissions-addon-button = Dopuštenja
 addons-enabled-heading = Omogućeno
 addons-disabled-heading = Onemogućeno
@@ -394,7 +394,7 @@ addon-badge-recommended2 =
 available-updates-heading = Dostupne dopune
 recent-updates-heading = Nedavne dopune
 release-notes-loading = Učitavanje…
-release-notes-error = Došlo je do greške pri učitavanju bilješki izdanja.
+release-notes-error = Došlo je do greške pri učitavanju napomena o izdanju.
 addon-permissions-empty = Ovaj dodatak ne zahtjeva nikakve dozvole.
 recommended-extensions-heading = Preporučeni dodatci
 recommended-themes-heading = Preporučene teme

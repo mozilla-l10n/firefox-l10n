@@ -23,10 +23,10 @@
 <!ENTITY cmd.showPreferencesUnix.label        "Osobitosti">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Promijeni osobitosti ovog dodatka">
 
-<!ENTITY cmd.showReleaseNotes.label           "Prikaži bilješke izdanja">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Prikaži bilješke izdanja za ovu dopunu">
-<!ENTITY cmd.hideReleaseNotes.label           "Sakrij bilješke izdanja">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Sakrij bilješke izdanja za ovaj dodatak">
+<!ENTITY cmd.showReleaseNotes.label           "Prikaži napomene o izdanju">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Prikaži napomene o izdanju za ovo ažuriranje">
+<!ENTITY cmd.hideReleaseNotes.label           "Sakrij napomene o izdanju">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Sakrij napomene o izdanju za ovo ažuriranje">
 <!ENTITY cmd.findReplacement.label            "Pronađi zamjenu">
 
 <!-- download/install progress -->
@@ -61,11 +61,13 @@
 <!ENTITY addon.includeUpdate.label            "Dodaj u dopune">
 <!ENTITY addon.updateAvailable.label          "Dostupna je dopuna">
 <!ENTITY addon.checkingForUpdates.label       "Provjera za dopunama…">
-<!ENTITY addon.releaseNotes.label             "Bilješke izdanja:">
+<!ENTITY addon.releaseNotes.label             "Napomene o izdanju:">
 <!ENTITY addon.loadingReleaseNotes.label      "Učitavanje…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Došlo je do greške pri učitavanju bilješki izdanja.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Došlo je do greške pri učitavanju napomena o izdanju.">
 
 <!ENTITY addon.createdBy.label                "Od ">
 
 <!ENTITY settings.path.button.label           "Pretraži…">
+
+<!-- addon actions -->
 <!ENTITY setting.learnmore "Saznajte više…">
