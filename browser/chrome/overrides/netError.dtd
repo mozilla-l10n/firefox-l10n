@@ -9,10 +9,7 @@
 <!ENTITY retry.label "Reintentar">
 <!ENTITY returnToPreviousPage.label "Ir atrás">
 <!ENTITY returnToPreviousPage1.label "Retroceder (recomendado)">
-<!ENTITY advanced.label "Avanzado">
-<!ENTITY continue2.label "Más…">
 <!ENTITY advanced2.label "Avanzado…">
-<!ENTITY moreInformation.label "Más información">
 <!ENTITY viewCertificate.label "Ver certificado">
 
 <!-- Specific error messages -->
@@ -155,13 +152,11 @@
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle1 "Su conexión no es segura">
 <!ENTITY certerror.longpagetitle2 "Advertencia: riesgo potencial de seguridad a continuación">
 <!ENTITY certerror.sts.longpagetitle  "No se ha conectado: Posible problema de seguridad">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "El propietario de <span class='hostname' /> ha configurado su sitio web de manera incorrecta. Para evitar que su información sea robada, &brandShortName; no ha conectado con este sitio web.">
 <!ENTITY certerror.introPara2 "&brandShortName; ha detectado una posible amenaza de seguridad y no ha cargado <span class='hostname'/>. Si visita este sitio, los atacantes podrían intentar robar información como sus contraseñas, correos electrónicos o detalles de su tarjeta de crédito.">
 <!ENTITY certerror.sts.introPara "&brandShortName; ha detectado una potencial amenaza de seguridad y no ha continuado a <span class='hostname'/> porque este sitio web requiere una conexión segura.">
 
@@ -203,8 +198,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Error de contenido dañado">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La página que está intentando ver no se puede mostrar porque se ha detectado un error en la transmisión de datos.</p><ul><li>Contacte con los propietarios del sitio web para informarles de este problema.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Añadir excepción…">
 <!ENTITY securityOverride.exceptionButton1Label "Aceptar el riesgo y continuar">
 
 <!ENTITY errorReporting.automatic2 "Informar de errores como esto ayuda a Mozilla a identificar y bloquear sitios maliciosos">
@@ -218,16 +211,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; no se ha conectado a <span id='wrongSystemTime_URL'/> porque el reloj de su equipo parece mostrar una hora errónea y esto impide una conexión segura.</p> <p>Su equipo tiene fecha y hora establecidos en <span id='wrongSystemTime_systemDate'/>, cuando debería ser <span id='wrongSystemTime_actualDate'/>. Para corregir este problema, cambie su configuración de fecha y hora para que indique la hora correcta.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; no se ha conectado a <span id='wrongSystemTimeWithoutReference_URL'/> porque el reloj de su equipo parece mostrar una hora errónea y esto impide una conexión segura.</p> <p>Su equipo tiene fecha y hora establecidos en <span id='wrongSystemTimeWithoutReference_systemDate'/>. Para corregir este problema, cambie su configuración de fecha y hora para que indique la hora correcta.</p>">
-
-<!ENTITY certerror.pagetitle1  "Conexión insegura">
 <!ENTITY certerror.pagetitle2  "Advertencia: riesgo potencial de seguridad a continuación">
 <!ENTITY certerror.sts.pagetitle  "No se ha conectado: Posible problema de seguridad">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Este sitio usa Seguridad estricta de transporte de HTTP (HSTS) para especificar que &brandShortName; sólo puede conectarse a él de modo seguro. Como resultado, no es posible añadir una excepción para este certificado.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> tiene una política de seguridad llamada HTTP Strict Transport Security (HSTS), que significa que &brandShortName; solo puede conectarse a él de forma segura. No puede añadir una excepción para visitar este sitio.">
 <!ENTITY certerror.copyToClipboard.label "Copiar texto al portapapeles">
 
@@ -250,6 +235,10 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Parece que su configuración de seguridad de red podría estar causando esto. ¿Quiere restaurar la configuración predeterminada?">
 <!ENTITY prefReset.label "Restablecer configuración predeterminada">
+
+<!ENTITY enableTls10.longDesc "Es posible que este sitio web no sea compatible con el protocolo TLS 1.2, que es la versión mínima admitida por &brandShortName;. Habilitar TLS 1.0 y TLS 1.1 podría permitir completar esta conexión.">
+<!ENTITY enableTls10.note "TLS 1.0 y TLS 1.1 se van a deshabilitar permanentemente en una futura versión.">
+<!ENTITY enableTls10.label "Habilitar TLS 1.0 y 1.1">
 
 <!ENTITY networkProtocolError.title "Error de protocolo de red">
 <!ENTITY networkProtocolError.longDesc "<p>La página que está intentando ver no se puede mostrar debido a un error detectado en el protocolo de red.</p><ul><li>Por favor, contacte con el propietario del sitio para informarle de este problema.</li></ul>">
