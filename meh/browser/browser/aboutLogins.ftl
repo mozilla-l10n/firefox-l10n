@@ -96,6 +96,13 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Nkuvi-ka
 confirmation-dialog-dismiss-button =
     .title = Nkuvi-ka
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Kune´ya nuu kaji { -sync-brand-short-name }
+           *[other] Kune´ya daa preferencias { -sync-brand-short-name }
+        }
+    .accesskey = K
 confirm-delete-dialog-title = Xina nuu kajie´e sesión ya´a?
 confirm-delete-dialog-message = Ya´a nkuvi tanɨ.
 confirm-delete-dialog-confirm-button = Xita

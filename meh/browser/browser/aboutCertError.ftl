@@ -12,3 +12,4 @@ cert-error-trust-unknown-issuer-intro = Iyo ñivɨ kuvi sá´a sitio ya´a nko v
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Código a stivu <a data-l10n-name="error-code-link">{ $error }</a>
+cert-error-symantec-distrust-admin = Kuvi kachinu nuu tee nɨnuu web jie´e tixí ya´a.
