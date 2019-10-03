@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Skramm a-bezh
     .accesskey = S
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Diskouez an holl ivinelloù
@@ -212,12 +212,21 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = En em gennaskañ ouzh { -sync-brand-short-name }
     .accesskey = Y
+menu-tools-fxa-sign-in =
+    .label = Kennaskañ ouzh { -brand-product-name }…
+    .accesskey = k
+menu-tools-turn-on-sync =
+    .label = Gweredekaat { -sync-brand-short-name }…
+    .accesskey = G
 menu-tools-sync-now =
     .label = Goubredañ bremañ
     .accesskey = G
 menu-tools-sync-re-auth =
     .label = En em adkennaskañ ouzh { -sync-brand-short-name }…
     .accesskey = a
+menu-tools-fxa-re-auth =
+    .label = Adkennaskañ ouzh { -brand-product-name }
+    .accesskey = A
 menu-tools-web-developer =
     .label = Diorroer web
     .accesskey = w

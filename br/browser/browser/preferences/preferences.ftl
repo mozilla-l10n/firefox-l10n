@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Endalc'had Digital Rights Management (DRM)
 play-drm-content =
@@ -566,6 +566,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Kemerit ho web ganeoc'h
 sync-signedout-description = Goubredit ho sinedoù, roll istor, ivinelloù, gerioù-tremen, askouezhioù ha gwellvezioù dre veur a urzhiataer pe trevnad.
 sync-signedout-account-title = Kennaskit gant un { -fxaccount-brand-name }
@@ -586,11 +590,17 @@ sync-mobile-promo = Pellgargañ Firefox evit <img data-l10n-name="android-icon"/
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Kemmañ ar skeudenn aelad
 sync-disconnect =
     .label = Digennaskañ…
     .accesskey = D
+sync-sign-out =
+    .label = Digennaskañ…
+    .accesskey = g
 sync-manage-account = Ardeiñ ar gont
     .accesskey = A
 sync-signedin-unverified = { $email } n'eo ket gwiriet.
@@ -606,6 +616,46 @@ sync-sign-in =
     .accesskey = a
 sync-signedin-settings-header = Arventennoù Sync
 sync-signedin-settings-desc = Dibabit petra goubredan war ho trevnad en ur arverañ { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Goubredañ: YA
+prefs-syncing-off = Goubredañ: KET
+prefs-sync-setup =
+    .label = Arventennañ { -sync-brand-short-name }…
+    .accesskey = A
+prefs-sync-offer-setup-label = Goubredit ho sinedoù, roll istor, ivinelloù, gerioù-tremen, askouezhioù ha gwellvezioù dre veur a urzhiataer pe trevnad.
+prefs-sync-now =
+    .labelnotsyncing = Goubredañ bremañ
+    .accesskeynotsyncing = G
+    .labelsyncing = O c'houbredañ...
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = Emaoc'h o c'houbredañ an elfennoù-mañ:
+sync-currently-syncing-bookmarks = Sinedoù
+sync-currently-syncing-history = Roll istor
+sync-currently-syncing-tabs = Ivinelloù digor
+sync-currently-syncing-logins-passwords = Titouroù kennaskañ
+sync-currently-syncing-addresses = Chomlec'hioù
+sync-currently-syncing-creditcards = Kartennoù kred
+sync-currently-syncing-addons = Askouezhioù
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Dibarzhioù
+       *[other] Gwellvezioù
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Dibabit petra goubredañ
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Enrollañ ar c'hemmoù
+    .buttonaccesskeyaccept = E
+    .buttonlabelextra2 = Digennaskañ...
+    .buttonaccesskeyextra2 = D
+sync-choose-heading = Dibabit petra goubredañ war ho kont evit an trevnadoù a ra gant { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Sinedoù
     .accesskey = S
@@ -619,6 +669,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = Titouroù kennaskañ
     .tooltiptext = Anvioù implijer ha gerioù-tremen enrollet ganeoc'h
+    .accesskey = T
+sync-engine-logins-passwords =
+    .label = Titouroù kennaskañ
+    .tooltiptext = Titouroù kennaskañ enrollet ganeoc'h
     .accesskey = T
 sync-engine-addresses =
     .label = Chomlec'hioù
@@ -640,6 +694,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Arventennoù hollek, buhez prevez ha diogelroez kemmet ganeoc'h
     .accesskey = G
+
+## The device name controls.
+
 sync-device-name-header = Anv an trevnad
 sync-device-name-change =
     .label = Kemmañ anv an trevnad…
@@ -830,7 +887,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personelaet
     .accesskey = P
 
-##
+
 
 content-blocking-etp-standard-desc = Kempouez etre gwarez ha digonusted. Ar pajennoù a gargo en un doare ordinal.
 content-blocking-etp-strict-desc = Gwarez kreñvoc'h, met gallout a ra lakaat lec'hiennoù 'zo da derriñ.

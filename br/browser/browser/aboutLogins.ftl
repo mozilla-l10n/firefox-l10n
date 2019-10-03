@@ -64,6 +64,9 @@ about-logins-login-list-empty-search-description = N'eus disoc'h ebet a glot gan
 login-list-item-title-new-login = Titour kennaskañ nevez
 login-list-item-subtitle-new-login = Enankit ho titouroù kennaskañ
 login-list-item-subtitle-missing-username = (anv arveriad ebet)
+about-logins-list-item-warning-icon =
+    .alt = Arlun evezh
+    .title = Lec'hienn frailhet
 
 ## Introduction screen
 
@@ -82,8 +85,6 @@ login-item-origin-label = Chomlec'h al lec'hienn
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Anv arveriad
-login-item-username =
-    .placeholder = anv@example.com
 about-logins-login-item-username =
     .placeholder = (anv arveriad ebet)
 login-item-copy-username-button-text = Eilañ
