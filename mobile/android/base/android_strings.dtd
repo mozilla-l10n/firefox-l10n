@@ -359,7 +359,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "Ne sada">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_settings_button "Idite na Postavke">
+<!ENTITY tab_queue_prompt_settings_button "Idi na Postavke">
 <!-- Localization note (tab_queue_notification_prompt): This is the text of the default notification
 shown from Android O while a tab is being queued.-->
 <!ENTITY tab_queue_notification_prompt "Dodavanje nove kartice u red čekanja &#8230;">
@@ -431,7 +431,7 @@ shown from Android O while a tab is being queued.-->
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
-<!ENTITY default_browser_system_settings_toast "Pritisnite na polje Aplikacija preglednika i odaberite &brandShortName;">
+<!ENTITY default_browser_system_settings_toast "Pritisni na preglednika i odaberi &brandShortName;">
 <!ENTITY pref_about_firefox "O &brandShortName;">
 <!ENTITY pref_vendor_faqs "Često postavljana pitanja">
 <!ENTITY pref_vendor_feedback "Dajte povratnu informaciju">
