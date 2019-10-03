@@ -30,6 +30,7 @@ help-button =
 security-site-data-only = Kuvi, { $value } { $unit } datos sitio
 security-site-data-cookies-only = Kuvi, cookies
 security-site-data-no = Nkuvi
+media-bg-img = Fondo
 media-audio = Nasun
 saved-passwords-yes = Kuvi
 saved-passwords-no = Nkuvi

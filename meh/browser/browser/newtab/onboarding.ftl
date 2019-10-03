@@ -67,13 +67,16 @@ onboarding-ghostery-title = Ghostery
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-tracking-protection-button2 = Naja satiñu
+onboarding-data-sync-title = Kuiso a nke´ínu jíí noo´o
 onboarding-data-sync-button2 = Kajie´e sesión { -sync-brand-short-name }
 onboarding-browse-privately-button = Síne iin ventana yu´u
 onboarding-mobile-phone-text = Xinuun { -brand-product-name } nuu iOS a xíín Android jee saa sincronizar datos jii inka ka̱a̱.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Xinuun ka̱a̱ nánuku nuu celular
+onboarding-lockwise-passwords-title = Kua´a jii contraseña noo´o ntaka nuu
 onboarding-lockwise-passwords-button2 = Ni'i App
+onboarding-facebook-container-title = Tee xi´ñe nuu Facebook
 onboarding-facebook-container-button = Tee extensión
 
 ## Message strings belonging to the Return to AMO flow
