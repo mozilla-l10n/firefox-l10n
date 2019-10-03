@@ -5,6 +5,9 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
+
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
@@ -59,8 +62,8 @@
 <!ENTITY fxaccount_status_needs_verification2 'Vaš račun treba biti potvrđen. Pritisnite za ponovno slanje e-pošte za potvrdu.'>
 <!ENTITY fxaccount_status_needs_credentials 'Nije se moguće povezati. Pritisnite za prijavu.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Trebate ažurirati &brandShortName; kako biste se prijavili.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; je postavljen, ali se ne sinkronizira automatski. Uključite “Automatska sinkronizacija” u Android postavke &gt; Korištenje podataka.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; je postavljen, ali se ne sinkronizira automatski. Uključite “Automatska sinkronizacija” u izborniku Android postavke &gt; Računi.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; je postavljen, ali se ne sinkronizira automatski. Uključi „Automatska sinkronizacija” u Android postavke &gt; Korištenje podataka.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; je postavljen, ali se ne sinkronizira automatski. Uključi „Automatska sinkronizacija” u izbroniku za Android postavke &gt; Korištenje podataka.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Pritisnite za prijavu u vaš novi Firefox račun.'>
 <!ENTITY fxaccount_status_choose_what 'Odaberite što ćete sinkronizirati'>
 <!ENTITY fxaccount_status_bookmarks 'Zabilješke'>
