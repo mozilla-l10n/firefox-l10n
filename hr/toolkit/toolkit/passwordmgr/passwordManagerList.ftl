@@ -70,6 +70,6 @@ remove-all-shown =
     .accesskey = s
 remove-all-passwords-prompt = Jeste li sigurni da želite ukloniti sve lozinke?
 remove-all-passwords-title = Ukloni sve lozinke
-no-master-password-prompt = Jeste li sigurni da želite prikazati svoje lozinke?
+no-master-password-prompt = Zaista želiš prikazati svoje lozinke?
 auto-fill-logins-and-passwords =
     .label = Automatski popuni prijave i lozinke
