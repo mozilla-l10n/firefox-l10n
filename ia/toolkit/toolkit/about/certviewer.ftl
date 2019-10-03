@@ -65,11 +65,13 @@ certificate-viewer-fingerprints = Dactylogrammas
 certificate-viewer-basic-constraints = Limitationes basic
 certificate-viewer-key-usages = Utilisationes del claves
 certificate-viewer-extended-key-usages = Usos extense del clave
+certificate-viewer-ocsp-stapling = Fixation OCSP
 certificate-viewer-subject-key-id = ID clave del subjecto
 certificate-viewer-authority-key-id = ID clave del autoritate
 certificate-viewer-authority-info-aia = Info de autoritate (AIA)
 certificate-viewer-certificate-policies = Politicas de certificato
 certificate-viewer-embedded-scts = SCT integrate
+certificate-viewer-crl-endpoints = Punctos final CRL
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Discargar
@@ -85,3 +87,7 @@ certificate-viewer-boolean =
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (certificato)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (catena)
+    .download = { $fileName }-catena.pem
