@@ -8,4 +8,4 @@ fxa-pair-device-dialog =
 fxa-qrcode-heading-phase1 = 1. Ukoliko još nisi, instaliraj <a data-l10n-name="connect-another-device">Firefox na svoj mobitel</a>.
 fxa-qrcode-heading-phase2 = 2. Zatim se prijavi na { -sync-brand-short-name } ili na Android uređaju skeniraj kȏd za uparivanje unutar { -sync-brand-short-name } postavki.
 fxa-qrcode-error-title = Uparivanje nije uspjelo.
-fxa-qrcode-error-body = Pokušaj ponovno.
+fxa-qrcode-error-body = Pokušaj ponovo.
