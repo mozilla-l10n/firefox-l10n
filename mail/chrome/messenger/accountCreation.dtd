@@ -80,10 +80,14 @@
 <!ENTITY half-manual-test.accesskey      "K">
 <!ENTITY manual-edit.label               "Seadista käsitsi">
 <!ENTITY manual-edit.accesskey           "S">
+<!ENTITY manual-config.label             "Seadista käsitsi…">
+<!ENTITY manual-config.accesskey         "k">
 <!ENTITY open-provisioner.label          "Hangi uus e-posti aadress…">
 <!ENTITY open-provisioner.accesskey      "H">
 
 
+<!ENTITY get-help.label                  "Hangi abi">
+<!ENTITY get-help.accesskey              "H">
 
 
 <!ENTITY warning.label                   "Hoiatus!">
