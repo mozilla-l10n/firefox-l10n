@@ -171,6 +171,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.firefoxServices.label "Servetschs da &brandProductName;">
 
 <!ENTITY fxa.menu.account.label "Conto">
+<!ENTITY fxa.menu.settings.label "Parameters">
+<!ENTITY fxa.menu.accountSettings.label "Parameters dal conto">
+<!ENTITY fxa.menu.signOut.label "Sortir…">
+<!ENTITY fxa.menu.deviceSettings.label "Parameters da l'apparat">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -444,6 +448,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.welcome.label "Mussar ina glista dals tabs da tes auters apparats.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tes conto sto vegnir verifitgà.">
 <!ENTITY appMenuRemoteTabs.signin.label "S'annunziar tar Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "S'annunziar tar &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Activar &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administrar apparats…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Mussar la trav laterala dals tabs sincronisads">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Zuppentar la trav laterala dals tabs sincronisads">
@@ -563,6 +569,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchWithDesc.label):
      This string prompts the user to use the list of one-click search engines in
      the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Per questa giada, tschertgar cun:">
 
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
@@ -837,12 +844,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Connexiun segirada">
 <!ENTITY identity.connectionNotSecure "Questa connexiun n'è betg segirada">
 
+<!ENTITY identity.connectionSecure3 "Connexiun segirada">
+<!ENTITY identity.connectionNotSecure2 "Connexiun betg segirada">
+<!ENTITY identity.connectionNotSecureSecurityView "Ti n'es betg collià a moda segira cun questa website.">
 <!ENTITY identity.connectionFile "Questa pagina è memorisada sin tes computer.">
 <!ENTITY identity.connectionVerified2 "Ti es connectà a moda segira cun questa pagina che appartegna a:">
+<!ENTITY identity.connectionVerified3 "Ti es collià a moda segira cun questa website.">
 <!ENTITY identity.connectionInternal "Quai è ina pagina segira da &brandShortName;.">
 <!ENTITY identity.extensionPage "Ina extensiun ha chargià questa pagina.">
 <!ENTITY identity.insecureLoginForms2 "Infurmaziuns d'annunzia endatadas sin questa pagina èn eventualmain periclitadas.">
+<!ENTITY identity.customRoot "Connexiun verifitgada dad in certificat emess dad post da certificaziun betg renconuschì da Mozilla.">
 
+<!ENTITY identity.evOwnerLabel2 "Certificat emess per:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ha bloccà parts da questa pagina che n'èn betg segiradas.">
@@ -861,6 +874,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "Malgrà che &brandShortName; ha bloccà parts dal cuntegn, datti anc adina cuntegn da la pagina che n'è betg segirà (p.ex. maletgs).">
 <!ENTITY identity.description.activeLoaded "Questa website ha cuntegn (p.ex. scripts) che n'è betg segirà e tia connexiun cun ella n'è betg privata.">
 <!ENTITY identity.description.activeLoaded2 "Infurmaziuns che ti cundividas cun questa pagina (p.ex. pleds-clav, messadis, numers da cartas da credit etc.) pon esser legiblas per auters.">
+<!ENTITY identity.description.customRoot "Mozilla na renconuscha betg l'emettur da quest certificat. Eventualmain è el vegnì agiuntà da tes sistem operativ u dad in administratur.">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activar la protecziun">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "A">
@@ -877,14 +891,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Autorisaziuns">
 
+<!ENTITY identity.permissions3 "Autorisaziuns">
 <!ENTITY identity.permissionsEmpty "Ti n'has betg definì autorisaziuns spezialas per questa pagina.">
 <!ENTITY identity.permissionsReloadHint "Forsa stos ti chargiar da nov questa pagina per applitgar las midadas.">
 <!ENTITY identity.permissionsPreferences.tooltip "Avrir las preferenzas da las permissiuns">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Avrir las preferenzas da la bloccada da cuntegn">
 
 
+<!ENTITY protections.etpON.header "La protecziun avanzada cunter il fastizar è ACTIVADA per questa website">
+<!ENTITY protections.etpOFF.header "La protecziun avanzada cunter il fastizar è DEACTIVADA per questa website">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Ulteriuras infurmaziuns davart la protecziun avanzada cunter il fastizar">
+<!ENTITY protections.settings.label "Parameters da protecziun">
 <!ENTITY protections.showreport.label "Mussar il rapport">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -917,8 +936,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Pertge?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "La bloccada da quests elements pudess avair per consequenza che tschertas parts da websites na funcziunan betg endretg. Senza fastizaders na funcziunan tscherts buttuns, formulars e champs d'annunzia eventualmain betg.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Cun deactivar las protecziuns vegnan tut ils fastizaders permess sin questa site. Eventualmain funcziunan tscherts elements da la website meglier qua tras.">
+<!ENTITY protections.socialMediaTrackers.label "Fastizaders da medias socialas">
+<!ENTITY protections.crossSiteTrackingCookies.label "Cookies che fastizeschan tranter websites">
+<!ENTITY protections.trackingContent.label "Cuntegn che fastizescha">
+<!ENTITY protections.fingerprinters.label "Improntaders dal det">
 <!ENTITY protections.cryptominers.label "Criptominiers">
+<!ENTITY protections.noTrackersFound.description "&brandShortName; n'ha chattà nagins fastizaders enconuschents sin questa pagina.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Quests cookies ta suondan dad ina website a l'autra per rimnar datas davart tias activitads en il web. Els vegnan installads da terzas partidas sco firmas da reclama ed analisa da datas.">
+<!ENTITY protections.cryptominers.description "Criptominiers maldovran las resursas da tes sistem per generar daners digitals. Scripts da criptominiers consuman la battaria, ralenteschan tes computer e pon augmentar il quint da l'electricitad.">
+<!ENTITY protections.fingerprinters.description "Improntaders rimnan parameters da tes navigatur e computer per crear in profil da tai. Cun utilisar questa impronta dal det digitala pon els suandar tes fastiz tranter ina website e la proxima.">
+<!ENTITY protections.trackingContent2.description "Websites pon chargiar reclamas, videos ed auter cuntegn extern che cuntegna code che fastizescha. Cun bloccar quest cuntegn che fastizescha chargian websites eventualmain pli svelt, ma tscherts buttuns, formulars e champs d'annunzia na funcziunan eventualmain betg.">
+<!ENTITY protections.socialMediaTrackers.description "Raits socialas plazzeschan fastizaders sin autras websites per observar tge che ti fas, vesas e guardas online. Quai lubescha als concerns da medias socialas dad intervegnir chaussas davart tai che surpassan quai che ti cundividas sin tes profils da medias socialas.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -965,10 +996,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies e datas da websites">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Cuntegn che fastizescha">
 
+<!ENTITY contentBlocking.manageSettings2.label "Administrar ils parameters da protecziun">
+<!ENTITY contentBlocking.manageSettings2.accesskey "A">
 
 <!ENTITY contentBlocking.socialblock.label "Fastizaders da medias socialas">
 
+<!ENTITY contentBlocking.cookies2.label "Cookies che fastizeschan tranter websites">
 
 <!ENTITY contentBlocking.cryptominers.label "Criptominiers">
 <!ENTITY contentBlocking.cryptominersView.label "Criptominiers">

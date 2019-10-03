@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Cuntegn DRM (Digital Rights Management)
 play-drm-content =
@@ -554,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Prenda tes web cun tai
 sync-signedout-description = Sincronisescha tes segnapaginas, tia cronologia, tes tabs, tes pleds-clav, tes supplements e tias preferenzas cun tut tes apparats.
 sync-signedout-account-title = Connectar cun in { -fxaccount-brand-name }
@@ -574,11 +578,17 @@ sync-mobile-promo = Telechargiar Firefox per <img data-l10n-name="android-icon"/
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Midar il maletg da profil
 sync-disconnect =
     .label = Deconnectar…
     .accesskey = D
+sync-sign-out =
+    .label = Sortir…
+    .accesskey = o
 sync-manage-account = Administrar il conto
     .accesskey = o
 sync-signedin-unverified = L'adressa { $email } n'è anc betg verifitgada.
@@ -594,6 +604,46 @@ sync-sign-in =
     .accesskey = a
 sync-signedin-settings-header = Parameters da Sync
 sync-signedin-settings-desc = Tscherna tge che duai vegnir sincronisà tranter tes apparats che utiliseschan { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Sincronisaziun: ACTIVADA
+prefs-syncing-off = Sincronisaziun: DEACTIVADA
+prefs-sync-setup =
+    .label = Configurar { -sync-brand-short-name }…
+    .accesskey = C
+prefs-sync-offer-setup-label = Sincronisescha tes segnapaginas, tia cronologia, tes tabs, tes pleds-clav, tes supplements e tias preferenzas cun tut tes apparats.
+prefs-sync-now =
+    .labelnotsyncing = Sincronisar ussa
+    .accesskeynotsyncing = u
+    .labelsyncing = Sincronisar…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = Ils suandants elements vegnan actualmain sincronisads:
+sync-currently-syncing-bookmarks = Segnapaginas
+sync-currently-syncing-history = Cronologia
+sync-currently-syncing-tabs = Tabs averts
+sync-currently-syncing-logins-passwords = Infurmaziuns d'annunzia e pleds-clav
+sync-currently-syncing-addresses = Adressas
+sync-currently-syncing-creditcards = Cartas da credit
+sync-currently-syncing-addons = Supplements
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Preferenzas
+       *[other] Preferenzas
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Decider tge sincronisar
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Memorisar las midadas
+    .buttonaccesskeyaccept = M
+    .buttonlabelextra2 = Deconnectar…
+    .buttonaccesskeyextra2 = D
+sync-choose-heading = Tscherna tge che duai vegnir sincronisà cun tes conto per apparats che utiliseschan { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = ils segnapaginas
     .accesskey = g
@@ -606,6 +656,10 @@ sync-engine-tabs =
     .accesskey = T
 sync-engine-logins =
     .label = Infurmaziuns d'annunzia
+    .tooltiptext = Nums d'utilisader e pleds-clav che ti has memorisà
+    .accesskey = I
+sync-engine-logins-passwords =
+    .label = Infurmaziuns d'annunzia e pleds-clav
     .tooltiptext = Nums d'utilisader e pleds-clav che ti has memorisà
     .accesskey = I
 sync-engine-addresses =
@@ -628,6 +682,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Preferenzas generalas, da la protecziun da datas e da segirezza che ti has midà
     .accesskey = a
+
+## The device name controls.
+
 sync-device-name-header = Num da l'apparat
 sync-device-name-change =
     .label = Midar il num da l'apparat…
@@ -745,6 +802,10 @@ sitedata-block-desc = Tip da cuntegn bloccà
     .accesskey = T
 sitedata-option-block-trackers =
     .label = Fastizaders da terzas partidas
+sitedata-option-block-cross-site-trackers =
+    .label = Fastizaders tranter websites
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Fastizaders tranter websites e da raits socialas
 sitedata-option-block-unvisited =
     .label = Cookies da websites betg visitadas
 sitedata-option-block-all-third-party =
@@ -814,12 +875,13 @@ enhanced-tracking-protection-setting-custom =
     .label = Persunalisà
     .accesskey = u
 
-##
+
 
 content-blocking-etp-standard-desc = Equiliber tranter protecziun e prestaziun. Paginas chargian normal.
 content-blocking-etp-strict-desc = Ina protecziun pli severa, ma po avair per consequenza che tschertas websites u tscherts cuntegns na funcziuneschan betg pli.
 content-blocking-etp-custom-desc = Tscherna ils fastizaders ed ils scripts che duain vegnir bloccads.
 content-blocking-private-windows = Cuntegn che fastizescha en fanestras privatas
+content-blocking-cross-site-tracking-cookies = Cookies che fastizeschan tranter websites
 content-blocking-social-media-trackers = Fastizaders da raits socialas
 content-blocking-all-cookies = Tut ils cookies
 content-blocking-unvisited-cookies = Cookies da websites betg visitadas
