@@ -44,14 +44,26 @@ dns-domain = Domena:
 dns-lookup-table-column = IP adrese
 rcwn = RCWN statistika
 rcwn-status = RCWN status
+rcwn-cache-won-count = Broj pobjeda predmemorije
+rcwn-net-won-count = Broj pobjeda mreže
+total-network-requests = Ukupni broj mrežnih zahtjeva
+rcwn-operation = Operacija predmemorije
 rcwn-perf-open = Otvori
 rcwn-perf-read = Čitaj
 rcwn-perf-write = Piši
+rcwn-perf-entry-open = Unos otvoren
+rcwn-avg-short = Kratki prosjek
+rcwn-avg-long = Dugi prosjek
+rcwn-std-dev-long = Dugo standardno odstupanje
+rcwn-cache-slow = Broj spore predmemorije
+rcwn-cache-not-slow = Broj ne-spore predmemorije
 networkid = ID mreže
 networkid-id = ID mreže
 
 ## Link is intended as "network link"
 
+networkid-isUp = Poveznica aktivna
+networkid-statusKnown = Stanje poveznice je poznato
 
 
 

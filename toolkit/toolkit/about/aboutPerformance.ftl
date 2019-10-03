@@ -9,6 +9,7 @@ about-performance-title = Upravljač zadataka
 
 column-name = Naziv
 column-type = Vrsta
+column-energy-impact = Potrošnja energije
 column-memory = Memorija
 
 ## Special values for the Name column
@@ -24,6 +25,7 @@ type-tab = Kartica
 type-subframe = Pod-okvir
 type-addon = Dodatak
 type-browser = Preglednik
+type-other = Drugo
 
 ## Values for the Energy Impact column
 ##
@@ -50,3 +52,13 @@ close-tab =
     .title = Zatvori karticu
 show-addon =
     .title = Prikaži u upravljaču dodataka
+# Tooltip when hovering an item of the about:performance table
+# Variables:
+#   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded
+#   $totalDuration (Number) - how much CPU time was used by this page since it loaded
+#   $dispatchesSincePrevious (Number) - how many dispatches occurred in the last 2 seconds
+#   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
+item =
+    .title =
+        Pošiljke od učitavanja: { $totalDispatches } ({ $totalDuration } ms)
+        Pošiljke u posljednjim sekundama: { $dispatchesSincePrevious } ({ $durationSincePrevious } ms)
