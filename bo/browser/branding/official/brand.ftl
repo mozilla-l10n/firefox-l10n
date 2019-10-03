@@ -13,11 +13,10 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
--brand-shorter-name = མེ་ཝ
--brand-short-name = མེ་ཝ
--brand-full-name = Mozilla མེ་ཝ
+-brand-shorter-name = Firefox
+-brand-short-name = Firefox
+-brand-full-name = Mozilla Firefox
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
--brand-product-name = མེ་ཝ།
+-brand-product-name = Firefox
 -vendor-short-name = Mozilla
-trademarkInfo = མེ་ཝ་དང་མེ་ཝའི་ཁ་རྟགས་ནི་Mozilla ཚོགས་པའི་ཚོང་རྟགས་ཡིན།
