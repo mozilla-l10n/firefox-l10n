@@ -55,6 +55,18 @@ certificate-viewer-timestamp = Мітка часу
 certificate-viewer-value = Значення
 certificate-viewer-version = Версія
 certificate-viewer-business-category = Бізнес-категорія
+certificate-viewer-subject-name = Суб'єкт
+certificate-viewer-issuer-name = Видавець
+certificate-viewer-validity = Термін дії
+certificate-viewer-subject-alt-names = Альтернативні імена суб'єктів
+certificate-viewer-public-key-info = Інформація про відкритий ключ
+certificate-viewer-miscellaneous = Різне
+certificate-viewer-fingerprints = Відбитки
+certificate-viewer-basic-constraints = Основні обмеження
+certificate-viewer-key-usages = Використання ключа
+certificate-viewer-extended-key-usages = Розширене використання ключа
+certificate-viewer-certificate-policies = Політики сертифіката
+certificate-viewer-embedded-scts = Вбудовані SCT
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Завантажити
@@ -66,3 +78,11 @@ certificate-viewer-boolean =
         [true] Так
        *[false] Ні
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
+certificate-viewer-download-pem = PEM (сертифікат)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (ланцюжок сертифікатів)
+    .download = { $fileName }-chain.pem
