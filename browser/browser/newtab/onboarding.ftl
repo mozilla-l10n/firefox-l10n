@@ -56,7 +56,7 @@ onboarding-sync-form-sub-header = para continuar a { -sync-brand-name }.
 onboarding-benefit-products-title = Productos útiles
 onboarding-benefit-products-text = Termina tus pendientes con una familia de herramientas que respeta tu privacidad a través de tus dispositivos.
 onboarding-benefit-knowledge-title = Conocimiento práctico
-onboarding-benefit-knowledge-text = Conoce todo lo que necesitas saber para mantener inteligente y seguro en línea.
+onboarding-benefit-knowledge-text = Conoce todo lo que necesitas saber para mantenerte inteligente y seguro en línea.
 onboarding-benefit-privacy-title = Privacidad de verdad
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The

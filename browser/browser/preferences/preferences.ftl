@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Contenido DRM (Digital Rights Management - Administración de Derechos Digitales)
 play-drm-content =
@@ -395,6 +395,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Buscar el texto cuando empiezas a escribir
     .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = Habilitar controles de video picture-in-picture
+    .accesskey = A
+browsing-picture-in-picture-learn-more = Saber más
 browsing-cfr-recommendations =
     .label = Recomendar extensiones mientras se navega
     .accesskey = R
@@ -550,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Lleva la Web contigo
 sync-signedout-description = Sincroniza tus marcadores, historial, pestañas, contraseñas, complementos y preferencias entre todos tus dispositivos.
 sync-signedout-account-title = Conectar con una { -fxaccount-brand-name }
@@ -570,11 +578,17 @@ sync-mobile-promo = Descargar Firefox para <img data-l10n-name="android-icon"/> 
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Cambiar imagen de perfil
 sync-disconnect =
     .label = Desconectar…
     .accesskey = D
+sync-sign-out =
+    .label = Salir…
+    .accesskey = g
 sync-manage-account = Administrar cuenta
     .accesskey = o
 sync-signedin-unverified = Determinando el estado de tu cuenta... { $email } no está verificado.
@@ -590,6 +604,46 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Configuración de Sync
 sync-signedin-settings-desc = Usa { -brand-short-name } para escoger lo que quiere sincronizar en tu dispositivos.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Sincronización: ACTIVADA
+prefs-syncing-off = Sincronización: DESACTIVADA
+prefs-sync-setup =
+    .label = Configurar { -sync-brand-short-name }…
+    .accesskey = S
+prefs-sync-offer-setup-label = Sincroniza tus marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.
+prefs-sync-now =
+    .labelnotsyncing = Sincronizar ahora
+    .accesskeynotsyncing = N
+    .labelsyncing = Sincronizando…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = Actualmente estás sincronizando estos elementos:
+sync-currently-syncing-bookmarks = Marcadores
+sync-currently-syncing-history = Historial
+sync-currently-syncing-tabs = Abrir pestañas
+sync-currently-syncing-logins-passwords = Inicios de sesión y contraseñas
+sync-currently-syncing-addresses = Direcciones
+sync-currently-syncing-creditcards = Tarjetas de crédito
+sync-currently-syncing-addons = Complementos
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Opciones
+       *[other] Preferencias
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Elegir que sincronizar
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Guardar cambios
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Cerrar sesión…
+    .buttonaccesskeyextra2 = D
+sync-choose-heading = Elige qué sincronizar con tu cuenta para dispositivos que usan { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = M
@@ -603,6 +657,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = Inicios de sesión
     .tooltiptext = Usuarios y contraseñas que has guardado
+    .accesskey = L
+sync-engine-logins-passwords =
+    .label = Inicios de sesión y contraseñas
+    .tooltiptext = Nombres de usuario y contraseñas guardadas
     .accesskey = L
 sync-engine-addresses =
     .label = Direcciones
@@ -624,6 +682,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Configuraciones generales, de privacidad y de seguridad que has cambiado
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Nombre del dispositivo
 sync-device-name-change =
     .label = Cambiar el nombre del dispositivo…
@@ -656,6 +717,10 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Sugiere y genera contraseñas fuertes
     .accesskey = u
+forms-breach-alerts =
+    .label = Mostrar alertas sobre contraseñas para sitios web comprometidos
+    .accesskey = b
+forms-breach-alerts-learn-more-link = Saber más
 forms-fill-logins-and-passwords =
     .label = Autollenar inicios de sesión y contraseñas
     .accesskey = i
@@ -777,6 +842,7 @@ addressbar-suggestions-settings = Cambiar las preferencias para las sugerencias 
 content-blocking-header = Bloqueo de contenido
 content-blocking-section-description = Protege tu privacidad mientras navegas. Bloquea el contenido invisible que rastrea los sitios que visitas. Bloquear parte de este contenido puede hacer que las páginas se carguen más rápido.
 content-blocking-enhanced-tracking-protection = Protección antirrastreo mejorada
+content-blocking-section-top-level-description = Los rastreadores le siguen en línea para recopilar información sobre sus hábitos e intereses de navegación. { -brand-short-name } bloquea muchos de estos rastreadores y otros scripts maliciosos.
 content-blocking-learn-more = Saber más
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -809,7 +875,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizar
     .accesskey = P
 
-##
+
 
 content-blocking-etp-standard-desc = Equilibrada entre protección y rendimiento. Las páginas se cargarán con normalidad.
 content-blocking-etp-strict-desc = Protección más elevada, pero puede causar que algunos sitios o contenidos fallen.
