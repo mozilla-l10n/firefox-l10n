@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Contenido sujeto a administración de derechos de autor (DRM)
 play-drm-content =
@@ -554,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Llévese la web con usted
 sync-signedout-description = Sincronice sus marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.
 sync-signedout-account-title = Conectar con una { -fxaccount-brand-name }
@@ -574,11 +578,17 @@ sync-mobile-promo = Descargar Firefox para <img data-l10n-name="android-icon"/> 
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Cambiar imagen del perfil
 sync-disconnect =
     .label = Desconectar…
     .accesskey = D
+sync-sign-out =
+    .label = Cerrar sesión…
+    .accesskey = C
 sync-manage-account = Administrar cuenta
     .accesskey = A
 sync-signedin-unverified = { $email } no está verificado.
@@ -594,6 +604,46 @@ sync-sign-in =
     .accesskey = n
 sync-signedin-settings-header = Configuración de Sync
 sync-signedin-settings-desc = Elija qué sincronizar en sus dispositivos usando { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Sincronización: ACTIVADA
+prefs-syncing-off = Sincronización: DESACTIVADA
+prefs-sync-setup =
+    .label = Configurar { -sync-brand-short-name }…
+    .accesskey = C
+prefs-sync-offer-setup-label = Sincronice sus marcadores, historial, pestañas, contraseñas, complementos y preferencias en todos sus dispositivos.
+prefs-sync-now =
+    .labelnotsyncing = Sincronizar ahora
+    .accesskeynotsyncing = N
+    .labelsyncing = Sincronizando…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = En este momento está sincronizando estos elementos:
+sync-currently-syncing-bookmarks = Marcadores
+sync-currently-syncing-history = Historial
+sync-currently-syncing-tabs = Pestañas abiertas
+sync-currently-syncing-logins-passwords = Usuarios y contraseñas
+sync-currently-syncing-addresses = Direcciones
+sync-currently-syncing-creditcards = Tarjetas de crédito
+sync-currently-syncing-addons = Complementos
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Opciones
+       *[other] Preferencias
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Elija lo que quiere sincronizar
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Guardar cambios
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Cerrar sesión…
+    .buttonaccesskeyextra2 = D
+sync-choose-heading = Elija qué sincronizar con su cuenta para dispositivos que usan { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = m
@@ -608,6 +658,10 @@ sync-engine-logins =
     .label = Inicios de sesión
     .tooltiptext = Nombres de usuario y contraseñas que ha guardado
     .accesskey = I
+sync-engine-logins-passwords =
+    .label = Usuarios y contraseñas
+    .tooltiptext = Nombres de usuario y contraseñas guardadas
+    .accesskey = L
 sync-engine-addresses =
     .label = Direcciones
     .tooltiptext = Direcciones postales que ha guardado (solo escritorio)
@@ -628,6 +682,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Configuración general, de privacidad y de seguridad que ha cambiado
     .accesskey = S
+
+## The device name controls.
+
 sync-device-name-header = Nombre del dispositivo
 sync-device-name-change =
     .label = Cambiar nombre del dispositivo…
@@ -818,7 +875,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizado
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = Equilibrado para protección y rendimiento. Las páginas se cargarán normalmente.
 content-blocking-etp-strict-desc = Mayor protección, pero puede provocar que fallen algunos sitios o contenidos.
