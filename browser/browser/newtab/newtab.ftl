@@ -177,8 +177,8 @@ newtab-discovery-empty-section-topstories-timed-out = Uh! Skoro smo učitali ova
 newtab-pocket-read-more = Popularne teme:
 newtab-pocket-more-recommendations = Više preporuka
 newtab-pocket-how-it-works = Kako ovo funkcionira
-newtab-pocket-cta-button = Nabavite { -pocket-brand-name }
-newtab-pocket-cta-text = Spremite priče koje vam se sviđaju u { -pocket-brand-name } i napajajte vaš um s vrhunskim štivom.
+newtab-pocket-cta-button = Nabavi { -pocket-brand-name }
+newtab-pocket-cta-text = Spremi priče koje ti se sviđaju u { -pocket-brand-name } i napuni si mozak vrhunskim štivom.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
