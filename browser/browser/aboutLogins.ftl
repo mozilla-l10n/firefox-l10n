@@ -67,6 +67,10 @@ about-logins-list-item-warning-icon =
 ## Introduction screen
 
 login-intro-heading = Сақталған логиндерді іздеудесіз бе? { -sync-brand-short-name } баптаңыз.
+login-intro-description = Логиндерді басқа құрылғыдағы { -brand-product-name } ішіне сақтасаңыз, оларды осында келесідей алуға болады:
+login-intro-instruction-fxa = Логиндеріңіз сақталған құрылғыда { -fxaccount-brand-name } тіркелгісін жасаңыз немесе оған кіріңіз
+login-intro-instruction-fxa-settings = { -sync-brand-short-name } баптауларында Логиндер белгіленгеніне көз жеткізіңіз
+about-logins-intro-instruction-help = Көбірек білу үшін, <a data-l10n-name="help-link">{ -lockwise-brand-short-name } қолдау көрсету сайтын</a> шолыңыз
 
 ## Login
 
@@ -97,6 +101,7 @@ login-item-time-used = Соңғы рет қолданылған: { DATETIME($tim
 
 ## Master Password notification
 
+master-password-notification-message = Сақталған логиндер мен парольдері қарау үшін басты парольді енгізіңіз
 master-password-reload-button =
     .label = Кіру
     .accesskey = к
