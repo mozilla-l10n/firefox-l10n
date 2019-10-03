@@ -74,7 +74,11 @@ cfr-whatsnew-button =
     .label = Nakuvi a jíía íyo
     .tooltiptext = Nakuvi a jíía íyo
 cfr-whatsnew-panel-header = Nakuvi a jíía íyo
+cfr-whatsnew-release-notes-link-text = Ka´vi tu´un kene jíía
+cfr-whatsnew-tracking-blocked-subtitle = Nee { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-lockwise-backup-title = Chuva´a contraseñas noo´o
 cfr-whatsnew-lockwise-take-title = Kuiso daa contraseña jii noo´o
+cfr-whatsnew-lockwise-take-link-text = Ni'i App
 
 ## Bookmark Sync
 

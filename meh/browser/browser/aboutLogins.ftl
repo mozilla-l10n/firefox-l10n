@@ -108,3 +108,5 @@ breach-alert-dismiss =
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = Nkene iin error saa kuvinu chuva´anu contraseña ya´a.

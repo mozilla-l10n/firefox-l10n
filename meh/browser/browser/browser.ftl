@@ -16,6 +16,8 @@ urlbar-plugins-notification-anchor =
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = Tee ya´a nuu barra daa nuu
 page-action-manage-extension =
     .label = Tetiñu daa extensión...
 page-action-remove-from-urlbar =

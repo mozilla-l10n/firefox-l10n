@@ -105,6 +105,8 @@ newtab-label-download = Nxinuu
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Sna sección
+newtab-section-menu-expand-section = Sá´á ka´nu sección
 newtab-section-menu-manage-section = Tetiñu sección
 newtab-section-menu-manage-webext = Tetiñu daa extensión
 newtab-section-menu-add-search-engine = Chisó ka̱a̱ nánuku
@@ -125,6 +127,7 @@ newtab-section-header-highlights = Destacados
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = ¡A íyonu ki̱vɨ̱ vitá!
 newtab-discovery-empty-section-topstories-try-again-button = Nasá´á tuku
 newtab-discovery-empty-section-topstories-loading = Kunetu…
 # Displays when a layout in a section took too long to fetch articles.
@@ -140,3 +143,4 @@ newtab-pocket-cta-button = Taji { -pocket-brand-name }
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = Ups, iyo iin ntu nkene vii saa kuvi síne yaa´a.
+newtab-error-fallback-refresh-link = Nachu´un página jee nakajie´e tuku.
