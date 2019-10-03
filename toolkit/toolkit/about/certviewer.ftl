@@ -55,9 +55,23 @@ certificate-viewer-timestamp = Horodatage
 certificate-viewer-value = Valeur
 certificate-viewer-version = Version
 certificate-viewer-business-category = Catégorie d’affaires
+certificate-viewer-subject-name = Nom du sujet
+certificate-viewer-issuer-name = Nom de l’émetteur
 certificate-viewer-validity = Validité
+certificate-viewer-subject-alt-names = Noms alternatifs du sujet
+certificate-viewer-public-key-info = Informations sur la clé publique
 certificate-viewer-miscellaneous = Divers
 certificate-viewer-fingerprints = Empreintes numériques
+certificate-viewer-basic-constraints = Contraintes de base
+certificate-viewer-key-usages = Utilisations de la clé
+certificate-viewer-extended-key-usages = Utilisations étendues de la clé
+certificate-viewer-ocsp-stapling = Agrafage OCSP
+certificate-viewer-subject-key-id = Identifiant de clé du sujet
+certificate-viewer-authority-key-id = Identifiant de clé de l’autorité
+certificate-viewer-authority-info-aia = Informations sur l’autorité (AIA)
+certificate-viewer-certificate-policies = Politiques du certificat
+certificate-viewer-embedded-scts = SCT intégrés
+certificate-viewer-crl-endpoints = Points de terminaison CRL
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Télécharger
@@ -73,3 +87,7 @@ certificate-viewer-boolean =
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (cert)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (chain)
+    .download = { $fileName }-chain.pem

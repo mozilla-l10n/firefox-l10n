@@ -636,6 +636,13 @@ sync-currently-syncing-prefs =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Choisir les éléments à synchroniser
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Enregistrer les modifications
+    .buttonaccesskeyaccept = E
+    .buttonlabelextra2 = Se déconnecter…
+    .buttonaccesskeyextra2 = S
 sync-engine-bookmarks =
     .label = Marque-pages
     .accesskey = M
