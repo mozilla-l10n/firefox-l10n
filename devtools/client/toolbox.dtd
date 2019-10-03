@@ -75,7 +75,7 @@
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
-<!ENTITY options.enableRemote.label3    "Omogući udaljeno riješavanje problema">
+<!ENTITY options.enableRemote.label3    "Omogući udaljeno ispravljanje grešaka">
 <!ENTITY options.enableRemote.tooltip2  "Uključivanje ove opcije omogućit će programerskim alatima uklanjaje grešaka udaljene instance poput Firefox OS-a">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
