@@ -36,8 +36,7 @@ menu-menuitem-preferences =
         [windows] ជម្រើស
        *[other] ចំណូលចិត្ត
     }
-menu-menuitem-feedback = ផ្ញើ​មតិ​កែលម្អ
-menu-menuitem-faq = សំណួរ​ដែល​សួរ​ញឹកញាប់
+about-logins-menu-menuitem-help = ជំនួយ
 menu-menuitem-android-app = { -lockwise-brand-short-name } សម្រាប់ Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } សម្រាប់ iPhone និង iPad
 
@@ -56,9 +55,14 @@ login-list-last-changed-option = បាន​កែប្រែ​ចុងក�
 login-list-last-used-option = បាន​ប្រើប្រាស់​ចុងក្រោយ
 login-list-intro-title = រក​មិន​ឃើញ​ការចូល​ទេ
 login-list-intro-description = នៅពេល​អ្នក​រក្សាទុក​ពាក្យ​សម្ងាត់​នៅ​ក្នុង { -brand-product-name } វា​នឹង​បង្ហាញ​នៅ​ត្រង់​នេះ។
+about-logins-login-list-empty-search-title = រក​មិន​ឃើញ​ការ​ចូល
+about-logins-login-list-empty-search-description = មិនមានលទ្ធផលត្រូវនឹងការស្វែងរករបស់អ្នកទេ។
 login-list-item-title-new-login = ការចូល​ថ្មី
 login-list-item-subtitle-new-login = បញ្ចូល​ព័ត៌មាន​លម្អិត​ការចូល​របស់​អ្នក
 login-list-item-subtitle-missing-username = (គ្មាន​ឈ្មោះ​អ្នក​ប្រើប្រាស់)
+about-logins-list-item-warning-icon =
+    .alt = រូបតំណាង​ព្រមាន
+    .title = គេហទំព័រ​ដែល​បាន​បំពាន
 
 ## Introduction screen
 
@@ -66,7 +70,6 @@ login-intro-heading = កំពុង​រក​មើល​ការចូល�
 login-intro-description = ប្រសិនបើ​អ្នក​បាន​រក្សាទុក​ការចូល​របស់​អ្នក​ទៅ { -brand-product-name } នៅ​លើ​ឧបករណ៍​ផ្សេង នេះជា​របៀប​​ចូល​​មើល​ការចូល​ទាំងនោះ​នៅ​ត្រង់នេះ៖
 login-intro-instruction-fxa = បង្កើត ឬ​ចូល​ទៅ { -fxaccount-brand-name } របស់​អ្នក​នៅ​លើ​ឧបករណ៍ ត្រង់​កន្លែង​ដែល​បាន​រក្សាទុក​ការចូល​របស់​អ្នក
 login-intro-instruction-fxa-settings = ប្រាកដ​ថា អ្នក​បាន​ជ្រើសរើស​​ប្រអប់​ធីក​ការចូល​នៅ​ក្នុង​ការកំណត់ { -sync-brand-short-name }
-login-intro-instruction-faq = ចូល​ទៅ​កាន់ <a data-l10n-name="faq">សំណួរ​ដែល​សួរ​ញឹកញាប់</a> លើ { -lockwise-brand-short-name } សម្រាប់​ជំនួយ​បន្ថែម
 
 ## Login
 
@@ -76,10 +79,7 @@ login-item-delete-button = លុប
 login-item-origin-label = អាសយដ្ឋាន​គេហទំព័រ
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = បើក​ដំណើរការ
 login-item-username-label = ឈ្មោះ​អ្នក​ប្រើប្រាស់
-login-item-username =
-    .placeholder = name@example.com
 login-item-copy-username-button-text = ចម្លង
 login-item-copied-username-button-text = បាន​ចម្លង!
 login-item-password-label = ពាក្យ​សម្ងាត់
@@ -133,3 +133,6 @@ breach-alert-text = ពាក្យ​សម្ងាត់​ត្រូវប
 breach-alert-link = ស្វែងយល់​បន្ថែម​អំពី​​ការបំពាន​នេះ។
 breach-alert-dismiss =
     .title = បិទ​ការជូនដំណឹង​នេះ
+
+## Error Messages
+
