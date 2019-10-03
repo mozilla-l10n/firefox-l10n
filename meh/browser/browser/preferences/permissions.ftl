@@ -2,19 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+permissions-window =
+    .title = Nuu tetiñu tutu nnatava
+    .style = width: 45em
 permissions-close-key =
     .key = w
+permissions-address = Daa nuu Web
+    .accesskey = D
 permissions-block =
     .label = Kasɨ
     .accesskey = K
+permissions-allow =
+    .label = Kuvi
+    .accesskey = K
 permissions-site-name =
     .label = Sitio web
+permissions-remove =
+    .label = Sna nuu Web
+    .accesskey = S
+permissions-remove-all =
+    .label = Sna kuaiyo nuu Web
+    .accesskey = S
 permissions-button-cancel =
     .label = Nkuvi-ka
     .accesskey = N
 permissions-button-ok =
     .label = Chuva´a nsama
     .accesskey = C
+permissions-autoplay-menu = Kua vají nuu kuaiyo nuu web:
 permissions-searchbox =
     .placeholder = Nánuku nuu Web
 permissions-capabilities-autoplay-block =

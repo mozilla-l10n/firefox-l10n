@@ -47,6 +47,8 @@ close-button =
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } nejika nakajie´e saa kuvi koo caracteristica ya´a.
+feature-disable-requires-restart = { -brand-short-name } nejika nakajie´e saa kuvi sna caracteristica ya´a.
 should-restart-title = Nakajie´e { -brand-short-name }
 should-restart-ok = Nakajie´e { -brand-short-name } ntañu´u
 cancel-no-restart-button = Nkuvi-ka
@@ -65,10 +67,23 @@ restart-later = Nakajie'e inka ichi
 
 ## Preferences UI Search Results
 
+search-results-help-link = ¿Nukunu chineiani noo´o? Kune´ya <a data-l10n-name="url">Nuu chinei{ -brand-short-name }</a>
 
 ## General Section
 
 startup-header = Nuu kajie´e
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Kua´a { -brand-short-name } jíí Firefox kunu ínu
+get-started-not-logged-in = Kajie´e sesión { -sync-brand-short-name }
+get-started-configured = Síne daa preferencias de { -sync-brand-short-name }
+set-as-my-default-browser =
+    .label = Sá´á kua vají
+    .accesskey = S
+startup-restore-previous-session =
+    .label = Nate tuku sesión yata
+    .accesskey = s
 tabs-group-header = Pestañas
 browser-containers-learn-more = Ka´vi jiee ya´a
 browser-containers-settings =
