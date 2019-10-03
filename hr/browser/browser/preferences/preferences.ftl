@@ -737,7 +737,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Promijeni glavnu lozinku...
     .accesskey = m
-forms-master-pw-fips-title = Trenutačno ste u FIPS modu. FIPS ne dopušta praznu glavnu lozinku.
+forms-master-pw-fips-title = Trenutačno si u FIPS modu. FIPS ne dopušta praznu glavnu lozinku.
 forms-master-pw-fips-desc = Promjena lozinke nije uspjela
 
 ## Privacy Section - History

@@ -103,7 +103,7 @@ login-item-time-used = Zadnji put korišteno: { DATETIME($timeUsed, day: "numeri
 
 ## Master Password notification
 
-master-password-notification-message = Unesite glavnu lozinku kako biste vidjeli spremljene prijave i lozinke
+master-password-notification-message = Za prikaz spremljenih prijava i lozinki, upiši glavnu lozinku
 master-password-reload-button =
     .label = Prijava
     .accesskey = r

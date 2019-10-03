@@ -11,7 +11,7 @@
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-<!-- LOCALIZATION NOTE (scratchpad.title):
+<!-- LOCALIZATION NOTE (window.title):
   -  The Scratchpad is intended to provide a simple text editor for creating
   -  and evaluating bits of JavaScript code for the purposes of function
   -  prototyping, experimentation and convenient scripting.
@@ -20,7 +20,7 @@
   -  "Scratchpad" in your locale. You should feel free to find a close
   -  approximation to it or choose a word (or words) that means
   -  "simple discardable text editor". -->
-<!ENTITY window.title                 "Scratchpad">
+<!ENTITY window.title                 "Jednostavni uređivač">
 
 <!ENTITY fileMenu.label               "Datoteka">
 <!ENTITY fileMenu.accesskey           "D">
@@ -124,7 +124,7 @@
 <!ENTITY helpMenuWin.label            "Pomoć">
 <!ENTITY helpMenuWin.accesskey        "m">
 
-<!ENTITY documentationLink.label      "Scratchpad pomoć pri MDN-u">
+<!ENTITY documentationLink.label      "Pomoć za jednostavnog uređivača na MDN-u">
 <!ENTITY documentationLink.accesskey  "D">
 
 
