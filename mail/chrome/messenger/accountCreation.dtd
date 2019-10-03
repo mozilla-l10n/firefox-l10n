@@ -3,19 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Olemasoleva e-posti konto seadistamine">
+
+<!ENTITY emailWizard.title               "Olemasoleva e-posti konto seadistamine">
+<!ENTITY emailWizard.caption             "Kasuta oma olemasolevat e-posti aadressi">
 <!ENTITY name.label                      "Sinu nimi:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Eesnimi Perenimi">
+<!ENTITY fullname.placeholder            "Täisnimi">
 <!ENTITY name.text                       "Nimi, mida kuvatakse teistele">
+<!ENTITY name.error                      "Palun sisesta oma nimi">
 <!ENTITY email.label                     "E-posti aadress:">
 <!ENTITY email.accesskey                 "p">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
 <!ENTITY email2.placeholder              "sinu.aadress@example.com">
+<!ENTITY email3.placeholder              "Sinu e-posti aadress">
 <!ENTITY email.text                      "Sinu olemasolev e-posti aadress">
+<!ENTITY email.error                     "Vigane e-posti aadress">
 <!ENTITY password.label                  "Parool:">
 <!ENTITY password.accesskey              "r">
 <!ENTITY password.placeholder            "Parool">
 <!ENTITY password.text                   "Valikuline, kasutatakse ainult kasutajanime valideerimiseks">
+<!ENTITY password.toggle                 "Kuva/peida parool">
 <!ENTITY rememberPassword.label          "Parool peetakse meeles">
 <!ENTITY rememberPassword.accesskey      "m">
 <!ENTITY usernameEx.label                "Sinu kasutajatunnus:">
@@ -25,15 +33,20 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Domeeni kasutajatunnus">
 
+<!ENTITY protocol.label                  "Protokoll:">
 <!ENTITY imapLong.label                  "IMAP (kaugserver)">
 <!ENTITY pop3Long.label                  "POP3 (kirjad säilitatakse sinu arvutis)">
 
 <!ENTITY incoming.label                  "Vastuvõttev:">
+<!ENTITY incomingColumn.label            "Vastuvõttev">
 <!ENTITY outgoing.label                  "Saatev:">
+<!ENTITY outgoingColumn.label            "Saatev">
 <!ENTITY username.label                  "Kasutajanimi:">
 <!ENTITY hostname.label                  "Serveri aadress">
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Server:">
+<!ENTITY portRow.label                   "Port:">
 <!ENTITY auth.label                      "Autentimine">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -59,7 +72,7 @@
 <!ENTITY stop.label                      "Peata">
 <!ENTITY stop.accesskey                  "P">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Kontrolli häälestust uuesti">
@@ -68,6 +81,8 @@
 <!ENTITY manual-edit.accesskey           "S">
 <!ENTITY open-provisioner.label          "Hangi uus e-posti aadress…">
 <!ENTITY open-provisioner.accesskey      "H">
+
+
 
 
 <!ENTITY warning.label                   "Hoiatus!">
