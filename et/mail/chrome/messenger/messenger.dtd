@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "p">
 <!ENTITY folderPaneBar.label "Kaustade paneeli tööriistariba">
 <!ENTITY folderPaneBar.accesskey "p">
-<!ENTITY folderModeSelector.label "Kaustade vaated">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortimine">
@@ -587,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Salvesta valitud kiri">
 <!ENTITY archiveButton.tooltip "Arhiveeri valitud kirjad">
 <!ENTITY openConversationButton.tooltip "Kuva valitud kirja vestlust">
+<!ENTITY openMsgConversationButton.tooltip "Kuva valitud kirja vestlust">
 <!ENTITY nextButton.tooltip "Kuva järgmist lugemata kirja">
 <!ENTITY nextMsgButton.tooltip "Kuva järgmist kirja">
 <!ENTITY previousButton.tooltip "Kuva eelmist lugemata kirja">
@@ -605,7 +605,6 @@
 <!ENTITY tagButton.tooltip "Sildista kirju">
 <!ENTITY compactButton.tooltip "Eemalda kustutatud kirjad valitud kaustast">
 <!ENTITY appmenuButton1.tooltip "Kuva rakenduse &brandShortName; menüüd">
-
 <!ENTITY addonsButton.tooltip "Halda oma lisasid">
 
 <!-- Toolbar Button Popup -->
@@ -707,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Salvesta otsing kaustana...">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Vali kõik kirjad">
 <!ENTITY threadColumn.label "Lõim">
 <!ENTITY fromColumn.label "Saatja">
 <!ENTITY recipientColumn.label "Saaja">
@@ -730,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Vali kuvatavad veerud">
+<!ENTITY selectColumn.tooltip "Lülita kõikide kirjade valimist">
 <!ENTITY threadColumn2.tooltip "Kuva kirju lõimedena">
 <!ENTITY fromColumn2.tooltip "Sordi saatja järgi">
 <!ENTITY recipientColumn2.tooltip "Sordi adressaadi järgi">
