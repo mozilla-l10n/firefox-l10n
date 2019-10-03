@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Beskyttelses-niveauet er sat til <b>Standard</b>
-protection-header-details-strict = Beskyttelses-niveauet er sat til <b>Striks</b>
-protection-header-details-custom = Beskyttelses-niveauet er sat til <b>Tilpasset</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Beskyttelses-niveauet er sat til <b>Standard</b>
     .title = Gå til indstillinger for privatliv
 protection-report-header-details-strict = Beskyttelses-niveauet er sat til <b>Striks</b>
@@ -56,7 +50,6 @@ lockwise-title = Glem aldrig en adgangskode igen
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } gemmer dine adgangskoder i din browser på en sikker måde.
 lockwise-header-content-logged-in = Gem og synkroniser dine adgangskoder på alle dine enheder.
-about-logins-view-logins-button = Vis logins
 protection-report-view-logins-button = Vis logins
     .title = Gå til gemte logins
 lockwise-no-logins-content = Hent <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>-app'en for at tage dine adgangskoder med overalt.
@@ -118,10 +111,6 @@ password-warning =
         [one] gemt login kan være blevet kompromitteret i en datalæk. Skift adgangskoden for at være mere sikker på nettet. <a data-l10n-name="lockwise-link">Vis gemte logins</a>
        *[other] gemte logins kan være blevet kompromitterede i en datalæk. Skift adgangskoderne for at være mere sikker på nettet. <a data-l10n-name="lockwise-link">Vis gemte logins</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Gå til indstillinger for privatliv
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Gå til gemte logins
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

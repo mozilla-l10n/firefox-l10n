@@ -579,6 +579,11 @@ sync-profile-picture =
 sync-disconnect =
     .label = Afbryd…
     .accesskey = A
+
+sync-sign-out =
+    .label = Log ud…
+    .accesskey = u
+
 sync-manage-account = Håndter konto
     .accesskey = H
 sync-signedin-unverified = { $email } er ikke blevet bekræftet.
@@ -594,6 +599,52 @@ sync-sign-in =
     .accesskey = L
 sync-signedin-settings-header = Indstillinger for synkronisering
 sync-signedin-settings-desc = Vælg, hvad der skal synkroniseres på dine enheder med { -brand-short-name } installeret.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Synkronisering: TIL
+
+prefs-syncing-off = Synkronisering: FRA
+
+prefs-sync-setup =
+    .label = Indstil { -sync-brand-short-name }…
+    .accesskey = I
+
+prefs-sync-offer-setup-label = Synkroniser bogmærker, historik, faneblade, adgangskoder, tilføjelser og indstillinger på tværs af alle dine enheder.
+
+prefs-sync-now =
+    .labelnotsyncing = Synkroniser nu
+    .accesskeynotsyncing = n
+    .labelsyncing = Synkroniserer…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = Du synkroniserer i øjeblikket:
+
+sync-currently-syncing-bookmarks = Bogmærker
+sync-currently-syncing-history = Historik
+sync-currently-syncing-tabs = Åbne faneblade
+sync-currently-syncing-logins-passwords = Logins og adgangskoder
+sync-currently-syncing-addresses = Adresser
+sync-currently-syncing-creditcards = Betalingskort
+sync-currently-syncing-addons = Tilføjelser
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Indstillinger
+       *[other] Indstillinger
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = Vælg hvad der skal synkroniseres
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Gem ændringer
+    .buttonaccesskeyaccept = G
+    .buttonlabelextra2 = Afbryd…
+    .buttonaccesskeyextra2 = A
+
+sync-choose-heading = Choose what to sync to your account for devices using { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Bogmærker
     .accesskey = B
@@ -608,6 +659,12 @@ sync-engine-logins =
     .label = Logins
     .tooltiptext = Gemte brugernavne og adgangskoder
     .accesskey = L
+
+sync-engine-logins-passwords =
+    .label = Logins og adgangskoder
+    .tooltiptext = Gemte brugernavne og adgangskoder
+    .accesskey = L
+
 sync-engine-addresses =
     .label = Adresser
     .tooltiptext = Gemte postadresser (kun til computer)
