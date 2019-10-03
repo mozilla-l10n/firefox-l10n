@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "O &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; je eksperimentalna inačica i može biti nestabilna.">
-<!ENTITY aboutPage.telemetryStart               " Automatski šalje informacije o performansama, hardveru, korištenju i prilagodbama nazad u ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " kako bi učinili &brandShortName; boljim.">
 <!ENTITY aboutPage.checkForUpdates.link         "Provjeri dostupnost dopuna »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Provjera za dopunama…">
 <!ENTITY aboutPage.checkForUpdates.none         "Nema raspoloživih dopuna">
@@ -16,9 +13,9 @@
 <!ENTITY aboutPage.support.label                "Podrška">
 <!ENTITY aboutPage.privacyPolicy.label          "Politika privatnosti">
 <!ENTITY aboutPage.rights.label                 "Upoznajte svoja prava">
-<!ENTITY aboutPage.relNotes.label               "Bilješke izdanja">
+<!ENTITY aboutPage.relNotes.label               "Napomene o izdanju">
 <!ENTITY aboutPage.credits.label                "Zasluge">
 <!ENTITY aboutPage.license.label                "Informacije o licenciranju">
-<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 <!ENTITY aboutPage.logoTrademark                "Firefox i Firefox logo su zaštićeni znaci Mozilla fundacije.">
