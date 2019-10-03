@@ -521,8 +521,8 @@
 <!ENTITY errorConsoleCmd.label "Konzola grešaka">
 <!ENTITY errorConsoleCmd.accesskey "e">
 <!ENTITY errorConsoleCmd.commandkey "j">
-<!ENTITY scratchpadCmd.label "Scratchpad">
-<!ENTITY scratchpadCmd.accesskey "S">
+<!ENTITY scratchpadCmd.label "Jednostavni uređivač">
+<!ENTITY scratchpadCmd.accesskey "J">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
