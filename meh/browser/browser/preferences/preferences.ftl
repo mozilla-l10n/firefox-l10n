@@ -85,6 +85,9 @@ startup-restore-previous-session =
     .label = Nate tuku sesión yata
     .accesskey = s
 tabs-group-header = Pestañas
+warn-on-close-multiple-tabs =
+    .label = Kachí nuu nuu´u saa nakasɨni kue´e pestaña
+    .accesskey = k
 browser-containers-learn-more = Ka´vi jiee ya´a
 browser-containers-settings =
     .label = Ke´i...
@@ -125,8 +128,14 @@ download-choose-folder =
         }
 applications-action-save =
     .label = Chuva´a archivo
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Ni´i { $app-name }
 applications-use-other =
     .label = Ni´i inka...
+applications-always-ask =
+    .label = Ntaka ichi katu´un
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -180,9 +189,11 @@ network-proxy-connection-settings =
 
 ## Home Section
 
+home-new-windows-tabs-header = Ventanas jíía jii pestañas
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Página nuu kajie´e jii ventanas jíía
 home-newtabs-mode-label = Daa pestaña jíía
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
