@@ -7,6 +7,7 @@
 
 accessibility-learn-more = Más información
 accessibility-text-label-header = Etiquetas textuales y nombres
+accessibility-keyboard-header = Teclado
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
@@ -32,3 +33,13 @@ accessibility-text-label-issue-fieldset-legend2 = Usa el elemento <code>legend</
 accessibility-text-label-issue-form = Los elementos del formulario deben etiquetarse. <a>Saber más</a>
 accessibility-text-label-issue-form-visible = Los elementos de formulario debieran tener una etiqueta de texto visible. <a>Saber más</a>
 accessibility-text-label-issue-frame = Los elementos <code>frame</code> deben ser etiquetados. <a>Saber más</a>
+accessibility-text-label-issue-glyph = Usa el atributo <code>alt</code> para etiquetar elementos <span>mglyph</span>. <a>Saber más</a>
+accessibility-text-label-issue-heading = Los encabezados deben estar etiquetados. <a>Saber más</a>
+accessibility-text-label-issue-heading-content = Los encabezados deberían tener contenido de texto visible. <a>Saber más</a>
+accessibility-text-label-issue-iframe = Use el atributo <code>title</code> para describir contenido <span>iframe</span>. <a>Saber más</a>
+accessibility-text-label-issue-image = El contenido con imágenes debe ser etiquetado. <a>Saber más</a>
+
+## Text entries for a paragraph used in the accessibility panel sidebar's checks section
+## that describe that currently selected accessible object has a keyboard accessibility
+## issue.
+
