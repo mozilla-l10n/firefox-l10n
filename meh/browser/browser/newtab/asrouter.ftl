@@ -6,6 +6,7 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Extensión kuvi ni´inu
+cfr-doorhanger-pintab-heading = Sá´á ya´a: Tee pestaña
 
 
 
@@ -55,17 +56,23 @@ cfr-doorhanger-pintab-description = Kivu ñama nuu daa sitios jikanuka. Kua´a d
 
 cfr-doorhanger-pintab-step1 = <b>Kuaxin jii bóton derecho</b> nuu pestaña kuvinu kino.
 cfr-doorhanger-pintab-step2 = Kaji <b> Kino pestaña</b> nuu menú.
+cfr-doorhanger-pintab-step3 = Dee íyo iin a jíía, kutuvi iin a kuvi teku lee nuu pestaña nee.
 cfr-doorhanger-pintab-animation-pause = Siankuiñu
 cfr-doorhanger-pintab-animation-resume = Kaka
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = Saa sincronizar a ta´a ini noo´o ntaka nuu.
+cfr-doorhanger-bookmark-fxa-body = ¡Nnani´inu! Vitan nkinonu jii a ta´a ini noo´o ya´a nuu daa ka̱a̱ móvil noo´o. Kajie´e jii { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Saa sincronizar a ta´a ini noo´o ntañu´u...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botón kasɨ
     .title = Kasɨ
 
 ## Protections panel
 
+cfr-protections-panel-header = Nánuku nkuntadaja noo´o
+cfr-protections-panel-body = Información noo´o kino jii noo´o. { -brand-short-name } kumiji noo´o nuu kue´e daa ka̱a̱ nita jee ne´yada a sá´ánu nuu Web.
 cfr-protections-panel-link-text = Ka´vi kue´eka
 
 ## What's New toolbar button and panel
@@ -75,6 +82,13 @@ cfr-whatsnew-button =
     .tooltiptext = Nakuvi a jíía íyo
 cfr-whatsnew-panel-header = Nakuvi a jíía íyo
 cfr-whatsnew-release-notes-link-text = Ka´vi tu´un kene jíía
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+       *[other] Ka̱a̱ nita noo´o nasɨ
+    }
 cfr-whatsnew-tracking-blocked-subtitle = Nee { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-lockwise-backup-title = Chuva´a contraseñas noo´o
 cfr-whatsnew-lockwise-take-title = Kuiso daa contraseña jii noo´o

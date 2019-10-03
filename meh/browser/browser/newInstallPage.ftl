@@ -16,4 +16,5 @@ sync-label = Chu´un email noo´o
 sync-input =
     .placeholder = Email
 sync-button = Kɨ´ɨ
+sync-first = ¿Xinañu´u ni´inu { -sync-brand-name }? Nejika kajie´enu sesión ntaka íchi chu´unu Firefox jee kuvi saa sincronizar información noo´o.
 sync-learn = Ka´vi kue´eka
