@@ -23,6 +23,7 @@ privacy-passwords-header = Mots de passe
 privacy-junk-header = Courrier indésirable
 privacy-data-collection-header = Collecte et utilisation de données
 privacy-security-header = Sécurité
+privacy-scam-detection-title = Détection de contenu frauduleux
 privacy-anti-virus-title = Antivirus
 privacy-certificates-title = Certificats
 chat-pane-header = Messagerie instantanée
