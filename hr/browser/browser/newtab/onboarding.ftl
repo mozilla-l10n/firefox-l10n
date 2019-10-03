@@ -109,9 +109,9 @@ onboarding-send-tabs-title = Trenutno pošaljite sami sebi kartice
 # tab's context menu.
 onboarding-send-tabs-text = Pošalji kartice trenutno dijeli web stranice između vaših uređaja bez da morate kopirati, zalijepiti ili napustiti vaš preglednik.
 onboarding-send-tabs-button = Počnite korisitit slanje kartica
-onboarding-pocket-anywhere-title = Čitajte i slušajte bilo gdje
-onboarding-pocket-anywhere-text2 = Spremite vaš omiljeni sadržaj lokalno s { -pocket-brand-name } aplikacijom i čitajte, slušajte i gledajte kada god vam to odgovara.
-onboarding-pocket-anywhere-button = Probajte { -pocket-brand-name }
+onboarding-pocket-anywhere-title = Čitaj i slušaj bilo gdje
+onboarding-pocket-anywhere-text2 = Spremi svoj omiljeni sadržaj lokalno s { -pocket-brand-name } aplikacijom i čitaj, slušaj i gledaj kad god želiš.
+onboarding-pocket-anywhere-button = Probaj { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Ponesite svoje lozinke posvuda
 onboarding-lockwise-passwords-text2 = Zaštitite lozinke koje spremite i jednostavno se prijavite u svoje račune s { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Preuzmite aplikaciju
