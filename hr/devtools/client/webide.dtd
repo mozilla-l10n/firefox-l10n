@@ -146,16 +146,16 @@
 <!ENTITY wifi_auth_header "Identifikacija klijenta">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
-<!ENTITY wifi_auth_scan_request "Krajnja točka na koju se povezujete zahtijeva dodatne informacije za autentikaciju ove veze.  Molim skenirajte QR kôd prikazan na ekranu drugog uređaja.">
+<!ENTITY wifi_auth_scan_request "Krajnja točka na koju se povezuješ zahtijeva dodatne informacije za autentikaciju ove veze. Skeniraj QR kȏd pomoću tvog drugog uređaja.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
-<!ENTITY wifi_auth_no_scanner "Nema dijaloga QR skenera?">
+<!ENTITY wifi_auth_no_scanner "Nema QR skenera?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
-<!ENTITY wifi_auth_yes_scanner "Imate dijalog QR skenera?">
+<!ENTITY wifi_auth_yes_scanner "Imaš QR skener?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
-<!ENTITY wifi_auth_token_request "Ako vas drugi uređaj traži token umjesto skeniranja QR kôda, kopirajte navedenu vrijednost na drugi uređaj:">
+<!ENTITY wifi_auth_token_request "Ako tvoj drugi uređaj traži token umjesto skeniranja QR koda, kopiraj navedenu vrijednost na drugi uređaj:">
 <!ENTITY wifi_auth_qr_size_note "Ako je QR kȏd premalen za uspješnu uspostavu veze, pokušaj uvećati prikaz ili proširiti prozor.">
 
 <!-- Logs panel -->
