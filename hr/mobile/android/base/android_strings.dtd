@@ -898,7 +898,7 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 
 <!ENTITY activity_stream_topsites "Najpopularnije stranice">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
-<!ENTITY activity_stream_topstories "Preporučio &brandPocket;">
+<!ENTITY activity_stream_topstories "Preporučeno od &brandPocket;">
 <!ENTITY activity_stream_highlights "Najvažnije">
 
 <!-- LOCALIZATION NOTE (activity_stream_link_more1): Link-like text displayed to take user to a website with more content from Pocket. -->
