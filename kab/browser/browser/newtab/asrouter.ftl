@@ -98,6 +98,8 @@ cfr-whatsnew-lockwise-take-link-text = Awi asnas
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-ok-button = Rmed { -sync-brand-short-name }
+    .accesskey = R
 
 ## Send Tab
 
