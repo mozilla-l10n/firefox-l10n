@@ -10,6 +10,19 @@ about-config-warning-button = Jau accept il ristg
 about-config2-title = Configuraziuns avanzadas
 about-config-search-input =
     .placeholder = Tschertgar
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Proceder cun precauziun
+about-config-intro-warning-text = La modificaziun da la configuraziun da las preferenzas avanzadas po cumprometter la prestaziun u la segirezza da { -brand-short-name }.
+about-config-intro-warning-checkbox = Mussar quest avis cun acceder a questas preferenzas
+about-config-intro-warning-button = Acceptar la ristga e cuntinuar
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = La modificaziun da questas preferenzas po cumprometter la prestaziun u la segirezza da { -brand-short-name }.
+about-config-page-title = Preferenzas avanzadas
 about-config-search-input1 =
     .placeholder = Tschertgar in num dad ina preferenza
 about-config-show-all = Mussar tut

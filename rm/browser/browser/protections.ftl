@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Il nivel da protecziun è actualmain <b>Standard</b>
-protection-header-details-strict = Il nivel da protecziun è actualmain <b>Restrictiv</b>
-protection-header-details-custom = Il nivel da protecziun è actualmain <b>Persunalisà</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Il nivel da protecziun è actualmain <b>Standard</b>
     .title = Avrir ils parameters da la protecziun da datas
 protection-report-header-details-strict = Il nivel da protecziun è actualmain <b>Restrictiv</b>
@@ -44,6 +38,7 @@ graph-today = Oz
 graph-legend-description = In diagram che cuntegna il dumber total da mintga tip da fastizader bloccà quest'emna.
 social-tab-title = Fastizaders da raits socialas
 social-tab-contant = Raits socialas plazzeschan fastizaders sin autras websites per observar tge che ti fas, vesas e guardas online. Quai lubescha als concerns da medias socialas dad intervegnir chaussas davart tai che surpassan quai che ti cundividas sin tes profils da medias socialas. <a data-l10n-name="learn-more-link">Ulteriuras infurmaziuns</a>
+cookie-tab-title = Cookies che fastizeschan tranter websites
 cookie-tab-content = Quests cookies ta suondan dad ina website a l'autra per rimnar datas davart quai che ti fas online. Els vegnan plazzads da terzas partidas sco firmas da reclama ed analisa da datas. Cun bloccar ils cookies che fastizeschan tranter websites sa reducescha il dumber da reclamas che ta suondan. <a data-l10n-name="learn-more-link">Ulteriuras infurmaziuns</a>
 tracker-tab-title = Cuntegn che fastizescha
 tracker-tab-description = Websites pon chargiar reclamas, videos ed auter cuntegn extern cun code per fastizar. Bloccar quest cuntegn che fastizescha po gidar a websites da chargiar pli svelt, ma tscherts buttuns, formulars e champs d'annunzia na funcziunan eventualmain betg pli. <a data-l10n-name="learn-more-link">Ulteriuras infurmaziuns</a>
@@ -55,7 +50,6 @@ lockwise-title = Mai pli perder in pled-clav
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } memorisescha tes pleds-clav a moda segira en tes navigatur.
 lockwise-header-content-logged-in = Memorisescha e sincronisescha a moda segira tes pleds-clav sin tut tes apparats.
-about-logins-view-logins-button = Mussar las infurmaziuns d'annunzia
 protection-report-view-logins-button = Mussar las infurmaziuns d'annunzia
     .title = Avrir las datas d'annunzia memorisadas
 lockwise-no-logins-content = Va per l'app <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> per prender cun tai ils pleds-clav dapertut.
@@ -117,10 +111,6 @@ password-warning =
         [one] infurmaziun d'annunzia è eventualmain cumpromessa dad ina sperdita da datas. Mida quest pled-clav per dapli segirezza online. <a data-l10n-name="lockwise-link">Vesair las infurmaziuns d'annunzia memorisadas</a>
        *[other] infurmaziuns d'annunzia èn eventualmain cumpromessas dad ina sperdita da datas. Mida quests pleds-clav per dapli segirezza online. <a data-l10n-name="lockwise-link">Vesair las infurmaziuns d'annunzia memorisadas</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Avrir ils parameters da la protecziun da datas
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Avrir las datas d'annunzia memorisadas
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -135,6 +125,13 @@ bar-tooltip-social =
         { $count ->
             [one] { $count } fastizader da medias socialas ({ $percentage }%)
            *[other] { $count } fastizaders da medias socialas ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Cookies che fastizeschan tranter websites
+    .aria-label =
+        { $count ->
+            [one] { $count } cookie che fastizescha tranter websites ({ $percentage }%)
+           *[other] { $count } cookies che fastizescha tranter websites ({ $percentage }%)
         }
 bar-tooltip-tracker =
     .title = Cuntegn che fastizescha

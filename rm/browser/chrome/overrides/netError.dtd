@@ -9,10 +9,7 @@
 <!ENTITY retry.label "Empruvar anc ina giada">
 <!ENTITY returnToPreviousPage.label "Turnar">
 <!ENTITY returnToPreviousPage1.label "Turnar (recumandà)">
-<!ENTITY advanced.label "Extendì">
-<!ENTITY continue2.label "Dapli…">
 <!ENTITY advanced2.label "Avanzà…">
-<!ENTITY moreInformation.label "Ulteriuras infurmaziuns">
 <!ENTITY viewCertificate.label "Mussar il certificat">
 
 <!-- Specific error messages -->
@@ -129,13 +126,11 @@
 <!ENTITY nssFailure2.title "La connexiun segira n'è betg reussida">
 <!ENTITY nssFailure2.longDesc2 "<p>La pagina dumandada na po betg vegnir mussada, perquai che l'autenticitad da las datas na po betg vegnir verifitgada.</p><ul><li>Contactescha per plaschair ils administraturs da la website per infurmar els davart quest problem.</li></ul>">
 
-<!ENTITY certerror.longpagetitle1 "Tia connexiun n'è betg segira">
 <!ENTITY certerror.longpagetitle2 "Attenziun: Eventual ristg per la segirezza en vista">
 <!ENTITY certerror.sts.longpagetitle  "Bloccà la connexiun: Eventual problem da segirezza">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "Il possessur da <span class='hostname'/> ha configurà malamain sia website.  Per proteger tias infurmaziuns dad enguladitschs n'ha &brandShortName; betg stabilì ina connexiun cun questa website.">
 <!ENTITY certerror.introPara2 "&brandShortName; ha chattà in eventual ristg per la segirezza ed ha perquai interrut la connexiun cun <span class='hostname'/>. Sche ti visitas la pagina, pudessan attatgaders empruvar dad engular infurmaziuns sco tes pleds-clav, e-mails u datas da la carta da credit.">
 <!ENTITY certerror.sts.introPara "&brandShortName; ha chattà in eventual ristg per la segirezza ed ha bloccà la connexiun cun <span class='hostname'/> perquai che questa website pretenda ina connexiun segira.">
 
@@ -171,8 +166,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Errur da cuntegn donnegià">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Impussibel da visualisar la pagina che ti vuls chargiar perquai ch'ina errur è sa mussada en la transmissiun da datas.</p><ul><li>Contactescha per plaschair ils possessurs da la website per als infurmar davart quest problem.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Agiuntar in'excepziun…">
 <!ENTITY securityOverride.exceptionButton1Label "Acceptar la ristga e cuntinuar">
 
 <!ENTITY errorReporting.automatic2 "Rapportar talas errurs per gidar a Mozilla dad identifitgar e bloccar paginas che pon donnegiar tes computer">
@@ -186,17 +179,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Infurmaziuns avanzadas: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; n'è betg connectà cun <span id='wrongSystemTime_URL'/> perquai che l'ura da tes computer na constat apparentamain betg e quai impedescha ina connexiun segira.</p><p>Tes computer crai ch'i saja ussa <span id='wrongSystemTime_systemDate'/>, ma correct fiss: <span id='wrongSystemTime_actualDate'/>. Per curreger il problem, drizza l'ura e/u mida la data.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; n'è betg connectà cun <span id='wrongSystemTimeWithoutReference_URL'/> perquai che l'ura da tes computer na constat apparentamain betg e quai impedescha ina connexiun segira.</p><p>Tes computer crai ch'i saja ussa <span id='wrongSystemTimeWithoutReference_systemDate'/>. Per curreger il problem, drizza l'ura e/u mida la data.</p>">
-
-<!ENTITY certerror.pagetitle1  "Connexiun betg segirada">
 <!ENTITY certerror.pagetitle2  "Attenziun: Eventual ristg per la segirezza en vista">
 <!ENTITY certerror.sts.pagetitle  "Bloccà la connexiun: Eventual problem da segirezza">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Questa website utilisescha HTTP
-Strict Transport Security (HSTS) per inditgar che &brandShortName; dastgia mo connectar a moda segirada. Damain èsi impussibel dad agiuntar ina excepziun per quest certificat.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ha ina directiva da segirezza che sa numna HTTP Strict Transport Security (HSTS). Quai munta che &brandShortName; po mo connectar a moda segirada. Igl è impussibel dad agiuntar ina excepziun per visitar questa website.">
 <!ENTITY certerror.copyToClipboard.label "Copiar il text en l'archiv provisoric">
 
@@ -219,6 +203,10 @@ Strict Transport Security (HSTS) per inditgar che &brandShortName; dastgia mo co
 
 <!ENTITY prefReset.longDesc "I para ch'ils parameters da segirezza da tia rait chaschunian quest problem. Vuls ti restaurar ils parameters da standard?">
 <!ENTITY prefReset.label "Restaurar il standard">
+
+<!ENTITY enableTls10.longDesc "Questa website na sustegna betg il protocol TLS 1.2, la versiun minimala che &brandShortName; pretenda. Eventualmain po la connexiun vegnir stabilida cun activar TLS 1.0 e TLS 1.1.">
+<!ENTITY enableTls10.note "TLS 1.0 e TLS 1.1 vegn deactivà permanentamain en ina versiun futura.">
+<!ENTITY enableTls10.label "Activar TLS 1.0 e 1.1">
 
 <!ENTITY networkProtocolError.title "Errur dal protocol da rait">
 <!ENTITY networkProtocolError.longDesc "<p>Impussibel da mussar la pagina che ti emprovas da chargiar perquai ch'igl è succedida ina errur en il protocol da rait.</p><ul><li>Contactescha per plaschair il possessur da la website per al infurmar davart quest problem.</li></ul>">
