@@ -645,21 +645,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "Pošalji poveznicu e-poštom…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.label            "Spremi stranicu kao…">
+<!ENTITY savePageCmd.label            "Spremi stranicu kao …">
 <!ENTITY savePageCmd.accesskey        "a">
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Spremi okvir kao...">
+<!ENTITY saveFrameCmd.label           "Spremi okvir kao …">
 <!ENTITY saveFrameCmd.accesskey       "o">
 <!ENTITY printFrameCmd.label          "Ispiši okvir…">
 <!ENTITY printFrameCmd.accesskey      "o">
-<!ENTITY saveLinkCmd.label            "Spremi poveznicu kao...">
+<!ENTITY saveLinkCmd.label            "Spremi poveznicu kao …">
 <!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY saveImageCmd.label           "Spremi sliku kao...">
+<!ENTITY saveImageCmd.label           "Spremi sliku kao …">
 <!ENTITY saveImageCmd.accesskey       "p">
-<!ENTITY saveVideoCmd.label           "Spremi video kao…">
+<!ENTITY saveVideoCmd.label           "Spremi video kao …">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Spremi zvuk kao…">
+<!ENTITY saveAudioCmd.label           "Spremi zvuk kao …">
 <!ENTITY saveAudioCmd.accesskey       "z">
 <!ENTITY emailImageCmd.label          "Pošalji sliku e-poštom…">
 <!ENTITY emailImageCmd.accesskey      "a">
@@ -733,7 +733,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "k">
 <!ENTITY videoFullScreen.label       "Potpuni zaslon">
 <!ENTITY videoFullScreen.accesskey   "o">
-<!ENTITY videoSaveImage.label        "Snimi sliku kao…">
+<!ENTITY videoSaveImage.label        "Spremi snimku kao …">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
