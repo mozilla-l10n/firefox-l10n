@@ -37,11 +37,7 @@ app-basics-build-id = ID sestavení
 app-basics-update-channel = Kanál aktualizací
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
-app-basics-update-dir =
-    { PLATFORM() ->
-        [linux] Složka, kde je aplikace nainstalována
-       *[other] Složka pro aktualizace
-    }
+app-basics-update-dir = Složka pro aktualizace
 app-basics-update-history = Historie aktualizací
 app-basics-show-update-history = Zobrazit historii aktualizací
 # Represents the path to the binary used to start the application.
