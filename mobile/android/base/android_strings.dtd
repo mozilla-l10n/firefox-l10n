@@ -92,7 +92,7 @@
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
-<!ENTITY url_bar_qrcode_text2 "Koristite svoj QR čitač za pretraživanje i unos adresa">
+<!ENTITY url_bar_qrcode_text2 "Koristi svoj QR čitač za pretraživanje i unos adresa">
 <!-- Localization note (url_bar_mic_text2) : This text will be
      heard by non-visual users when the focus is on the Microphone
      icon in the url bar. -->
@@ -240,7 +240,7 @@
 <!ENTITY pref_category_notifications_summary2 "Nove mogućnosti, preporuke proizvoda">
 <!ENTITY pref_developer_remotedebugging_usb "Udaljeno otklanjanje grešaka putem USB-a">
 <!ENTITY pref_developer_remotedebugging_wifi "Udaljeno otklanjanje grešaka putem Wi-Fi">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Udaljeno otklanjanje grešaka putem Wi-Fi zahtjeva da vaš uređaj ima instaliranu aplikaciju za čitanje QR kodova.">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Udaljeno otklanjanje grešaka putem Wi-Fi zahtijeva, da je na tvom uređaju instalirana aplikacija za čitanje QR kodova.">
 <!ENTITY pref_remember_signons2 "Zapamti prijave">
 <!ENTITY pref_manage_logins "Upravljanje prijavama">
 
