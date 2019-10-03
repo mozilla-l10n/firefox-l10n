@@ -19,6 +19,7 @@ onboarding-button-label-get-started = Kajie´e
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Kusɨɨ inidáni nkantanu { -brand-short-name }
+onboarding-welcome-body = Nnani´inu ka̱a̱ nánuku.<br/>kuní kuaíyo daa ka̱a̱{ -brand-product-name }.
 onboarding-welcome-learn-more = Ka´vi kue´eka jiee a va´a ya´a.
 onboarding-join-form-header = Náyonika { -brand-product-name }
 onboarding-join-form-body = Chu´un correo noo´o saa kajie´e.
@@ -38,14 +39,19 @@ onboarding-sync-form-invalid-input = Nejika chu´unu iin correo vatu
 onboarding-sync-form-input =
     .placeholder = Email
 onboarding-sync-form-continue-button = Kɨ´ɨ
+onboarding-sync-form-skip-login-button = Nava ya´a
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = Chu´un email noo´o
+onboarding-sync-form-sub-header = Saa kɨ´ɨ nuu { -sync-brand-name }.
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Daa ka̱a̱ íyo tiñu
+onboarding-benefit-knowledge-title = Tu´un tu´va íyo tiñu
+onboarding-benefit-knowledge-text = Kuní kuaíyo kumani kuninu jee koo va´anu saa nánuku.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -54,6 +60,7 @@ onboarding-sync-form-header = Chu´un email noo´o
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-private-browsing-title = Nánuku yu´u
 onboarding-screenshots-title = Tutu nnátava
 onboarding-addons-title = Ka̱a̱ chunta´an
 onboarding-ghostery-title = Ghostery
