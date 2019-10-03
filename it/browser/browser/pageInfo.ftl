@@ -119,6 +119,8 @@ security-site-data-cookies-only = Sì, cookie
 security-site-data-no = No
 image-size-unknown = Sconosciuto
 not-set-verified-by = Non specificato
+page-info-not-specified =
+    .value = Non specificato
 not-set-alternative-text = Non specificato
 not-set-date = Non specificato
 media-img = Immagine
@@ -159,9 +161,9 @@ general-meta-tags =
 #   $visits (number) - The number of previous visits
 security-visits-number =
     { $visits ->
-         [0] No
-         [one] Sì, 1 volta
-        *[other] Sì, { $visits } volte
+        [0] No
+        [one] Sì, 1 volta
+       *[other] Sì, { $visits } volte
     }
 # This string is used to display the size of a media file
 # Variables:
