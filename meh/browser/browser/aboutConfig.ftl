@@ -4,8 +4,15 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = ¡Kaka nuu ntu jinio!
+about-config-warning-checkbox = ¡Katu´un tuku íchika!
 about-config-search-input =
     .placeholder = Nánuku
+
+## These strings appear on the warning you see when first visiting about:config.
+
+
+
+
 about-config-show-all = Kune´ya kuaiyo
 about-config-pref-add = Tee
 about-config-pref-toggle = Conmutar

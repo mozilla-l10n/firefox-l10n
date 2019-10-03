@@ -99,6 +99,7 @@ cfr-whatsnew-lockwise-take-link-text = Ni'i App
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Nskuitanu íchika contraseña
 
 ## Send Tab
 
