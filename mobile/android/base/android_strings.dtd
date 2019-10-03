@@ -23,14 +23,17 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Cuenta">
 <!ENTITY firstrun_sync_message2 "Continúa donde lo dejaste.">
+<!ENTITY firstrun_sync_message3 "Sincroniza tus marcadores, historial y contraseñas con tu teléfono.">
 <!ENTITY firstrun_sync_subtext2 "Usa Sync para encontrar marcadores, contraseñas y todo lo que hayas guardado en &brandShortName; en todos tus dispositivos.">
 <!ENTITY newfirstrun_sync_subtext "Sincroniza las cosas que guardes en tu celular a Firefox para escritorio, con privacidad y seguridad.">
 <!ENTITY updatednewfirstrun_sync_subtext "Inicia sesión a tu cuenta para obtener lo mejor de &brandShortName;">
 <!ENTITY firstrun_signin_message "Conéctate, inicia">
+<!ENTITY firstrun_sendtab_title "Enviar pestaña">
+<!ENTITY firstrun_sendtab_message "Compartir pestañas del teléfono al escritorio — instantáneamente.">
 <!ENTITY firstrun_signin_button "Ingresa a Sync">
 <!ENTITY newfirstrun_signin_button "Habilitar Sync">
 <!ENTITY updatednewfirstrun_signin_button "Inicia sesión en &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Empezar navegación">
+<!ENTITY onboard_start_button_browser "Empezar navegación">
 <!ENTITY firstrun_button_notnow "Ahora no">
 <!ENTITY firstrun_button_next "Siguiente">
 
@@ -46,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Tú">
 <!ENTITY firstrun_account_message "¿Tienes &brandShortName; en otro dispositivo?">
+
+<!ENTITY firstrun_signup_button "Registrarse">
 
 <!ENTITY  onboard_start_restricted1 "Mantente seguro y en control con esta versión simplificada de &brandShortName;.">
 
@@ -497,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Compartir">
 <!ENTITY share_title "Compartir vía">
 <!ENTITY share_image_failed "No se puede compartir esta imagen">
+<!ENTITY share_error_toast_message "No se puede compartir con la app indicada">
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY print "Imprimir">
 <!ENTITY view_page_source "Ver código fuente de la página">
@@ -690,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Estás conectado a">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -877,11 +884,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Marca elementos de tu vista de lectura para leerlos sin conexión.">
 <!ENTITY helper_triple_readerview_open_button "Agregar a marcadores">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Bienvenido a &brandShortName;">
 <!ENTITY activity_stream_signin_description "Comienza a sincronizar marcadores, contraseñas y más con tu Cuenta de Firefox.">
 <!ENTITY activity_stream_signin_button "Iniciar sesión">
+
+<!ENTITY activity_stream_signup_button "Registrarse">
+<!ENTITY activity_stream_signin_prompt "¿Ya tienes una cuenta?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Inicia sesión.">
 
 <!ENTITY activity_stream_topsites "Sitios populares">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
