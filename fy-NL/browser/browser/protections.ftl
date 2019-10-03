@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Beskermingsnivo is ynsteld op <b>Standert</b>
-protection-header-details-strict = Beskermingsnivo is ynsteld op <b>Strang</b>
-protection-header-details-custom = Beskermingsnivo is ynsteld op <b>Oanpast</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Beskermingsnivo is ynsteld op <b>Standert</b>
     .title = Nei privacyynstellingen
 protection-report-header-details-strict = Beskermingsnivo is ynsteld op <b>Strang</b>
@@ -56,7 +50,6 @@ lockwise-title = Ferjit nea mear in wachtwurd
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } bewarret jo wachtwurden feilich yn jo browser.
 lockwise-header-content-logged-in = Bewarje en syngronisearje jo wachtwurden feilich op al jo apparaten.
-about-logins-view-logins-button = Oanmeldingen werjaan
 protection-report-view-logins-button = Oanmeldingen werjaan
     .title = Nei bewarre oanmeldingen
 lockwise-no-logins-content = Download de <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>-app om jo wachtwurden oeral mei hinne te nimmen.
@@ -65,8 +58,8 @@ lockwise-no-logins-content = Download de <a data-l10n-name="lockwise-inline-link
 # your localization, because it would result in the number showing twice.
 lockwise-passwords-stored =
     { $count ->
-        [one] wachtwurd feilich bewarre <a data-l10n-name="lockwise-how-it-works">Hoe't it werkt</a>
-       *[other] wachtwurden feilich bewarre <a data-l10n-name="lockwise-how-it-works">Hoe't it werkt</a>
+        [one] wachtwurd feilich bewarre <a data-l10n-name="lockwise-how-it-works">Hoe't it wurket</a>
+       *[other] wachtwurden feilich bewarre <a data-l10n-name="lockwise-how-it-works">Hoe't it wurket</a>
     }
 turn-on-sync = { -sync-brand-short-name } ynskeakelje…
     .title = Nei syngronisaasjefoarkarren
@@ -118,10 +111,6 @@ password-warning =
         [one] bewarre oanmelding is mooglik lekt yn in datalek. Wizigje dit wachtwurd foar bettere online befeiliging. <a data-l10n-name="lockwise-link">Bewarre oanmeldingen besjen</a>
        *[other] bewarre oanmeldingen binne mooglik lekt yn in datalek. Wizigje dizze wachtwurden foar bettere online befeiliging. <a data-l10n-name="lockwise-link">Bewarre oanmeldingen besjen</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Nei privacyynstellingen
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Nei bewarre oanmeldingen
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
