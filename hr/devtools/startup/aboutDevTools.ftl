@@ -6,6 +6,7 @@ head-title = O programerskim alatima
 enable-title = Omogući programerske alate Firefoxa
 enable-inspect-element-title = Omogući programerske alate Firefoxa za korištenje alata „Ispitaj element”
 enable-inspect-element-message = Istraži i uredi HTML i CSS pomoću Inspektora u programerskim alatima.
+enable-about-debugging-message = Razvijaj i ispravljaj greške Web proširenja, web workere, workere usluga i još mnogo toga pomoću Firefoxovih programerskih alata.
 enable-key-shortcut-message = Aktivirao/la si prečac programerskih alata. Ako je to bila greška, možeš zatvoriti ovu karticu.
 enable-menu-message = Usavrši HTML, CSS i JavaScript tvoje web stranice pomoću alata poput Inspektora i Debagera.
 enable-common-message = Programerski alati Firefoxa su standardno onemogućeni, jer to povećava kontrolu nad preglednikom.
@@ -38,9 +39,16 @@ features-storage-desc = Dodaj, mijenjaj i ukloni predmemoriju, kolačiće, baze 
 features-responsive-title = Responzivni dizajn
 features-responsive-desc = Testiraj stranice na emuliranim uređajima u tvom pregledniku. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Vizualno uređivanje
+features-visual-editing-desc = Justiraj animacije, poravnanje i odmake. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-performance-title = Brzina izvođenja
 features-performance-desc = Deblokiraj problematična mjesta, pojednostavni procese, optimiraj sredstva. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-memory-title = Memorija
+features-memory-desc = Pronađi gubljenje memorije i ubrzaj aplikaciju. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+# Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Zahtjev za pretplatom neuspjeo ({ $errorDescription }).
 newsletter-error-unknown = Došlo je do neočekivane greške.
+newsletter-error-timeout = Zahtjev za pretplatom istekao.
 # Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
 welcome-message = Programerski alati su uspješno omogućeni! Istraži alate u izborniku web programera ili otvori alate pomoću { $shortcut }.
