@@ -47,6 +47,7 @@
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Server:">
 <!ENTITY portRow.label                   "Port:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Autentimine">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
