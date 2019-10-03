@@ -63,8 +63,13 @@ certificate-viewer-public-key-info = Informationes re clave public
 certificate-viewer-miscellaneous = Miscellanea
 certificate-viewer-fingerprints = Dactylogrammas
 certificate-viewer-basic-constraints = Limitationes basic
+certificate-viewer-key-usages = Utilisationes del claves
 certificate-viewer-extended-key-usages = Usos extense del clave
+certificate-viewer-subject-key-id = ID clave del subjecto
+certificate-viewer-authority-key-id = ID clave del autoritate
+certificate-viewer-authority-info-aia = Info de autoritate (AIA)
 certificate-viewer-certificate-policies = Politicas de certificato
+certificate-viewer-embedded-scts = SCT integrate
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Discargar
