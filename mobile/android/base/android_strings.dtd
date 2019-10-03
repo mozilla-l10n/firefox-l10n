@@ -23,20 +23,21 @@
 <!ENTITY firstrun_sync_title "സിന്‍ക്">
 <!ENTITY updatednewfirstrun_sync_title "അക്കൗണ്ട്">
 <!ENTITY firstrun_sync_message2 "അവസാനിപ്പിച്ചിടത്തു നിന്ന് തുടങ്ങുക.">
+<!ENTITY firstrun_sync_message3 "നിങ്ങളുടെ ഫോണിലേക്ക് അടയാളക്കുറിപ്പുകളും, ചരിത്രവും, രഹസ്യവാക്കുകളും സമന്വയിപ്പിക്കുക.">
 <!ENTITY firstrun_sync_subtext2 "നിങ്ങൾ &brandShortName; ൽ നിങ്ങൾ സംരക്ഷിച്ച ബുക്ക്മാർക്കുകൾ, പാസ്വേഡുകൾ, മറ്റ് കാര്യങ്ങൾ എന്നിവ കണ്ടെത്തുന്നതിന് സിങ്ക് ഉപയോഗിക്കുക; നിങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളിലും.">
 <!ENTITY newfirstrun_sync_subtext "നിങ്ങളുടെ മൊബൈലില്‍ സുക്ഷിക്കുന്ന കാര്യങ്ങള്‍ ഫയര്‍ഫോക്സ് ഡെസ്ക്ടോപ്പില്‍ സുരക്ഷിതമായും സ്വകാര്യമായും സമന്വയിപ്പിക്കു.">
 <!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; പരമാവധി പ്രയോജനപ്പെടുത്തുന്നതിന് നിങ്ങളുടെ അക്കൗണ്ടിലേക്ക് പ്രവേശിക്കുക">
 <!ENTITY firstrun_signin_message "കണക്റ്റഡായിരിക്കു, ആരംഭിക്കൂ">
+<!ENTITY firstrun_sendtab_title "ടാബ് അയയ്ക്കുക">
+<!ENTITY firstrun_sendtab_message "മൊബൈലിൽ നിന്ന് ഡെസ്ക്ടോപ്പിലേക്ക് ടാബുകൾ പങ്കിടുക - ഉടനടി.">
 <!ENTITY firstrun_signin_button "സിന്‍കിലേയ്ക്ക് പ്രവേശിക്കൂ">
 <!ENTITY newfirstrun_signin_button "സമന്വയം പ്രവര്‍ത്തിപ്പിക്കുക">
 <!ENTITY updatednewfirstrun_signin_button "&brandShortName; ലേക്ക് പ്രവേശിക്കുക">
-<!ENTITY  onboard_start_button_browser "ബ്രൌസിങ് തുടങ്ങാം">
+<!ENTITY onboard_start_button_browser "ബ്രൌസിങ് തുടങ്ങാം">
 <!ENTITY firstrun_button_notnow "ഇപ്പോള്‍ വേണ്ട">
 <!ENTITY firstrun_button_next "തുടരുക">
 
 <!ENTITY firstrun_signin_button2 "പ്രവേശിക്കുക">
-
-<!ENTITY firstrun_signup_button "അംഗത്വമെടുക്കുക">
 
 <!ENTITY firstrun_tabqueue_title "കണ്ണികള്‍">
 
@@ -48,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "നിങ്ങള്‍">
 <!ENTITY firstrun_account_message "&brandShortName; മറ്റൊരു ഉപകരണത്തിലുണ്ടോ?">
+
+<!ENTITY firstrun_signup_button "അംഗത്വമെടുക്കുക">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; ന്‍റെ ഈ ലളിതമാക്കിയ പതിപ്പ് വഴി സുരക്ഷിതമായും നിയന്ത്രണത്തിലായും തുടരൂ.">
 
@@ -499,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "പങ്കിടുക">
 <!ENTITY share_title "പങ്കിടേണ്ടതു് -">
 <!ENTITY share_image_failed "ഈ ചിത്രം പങ്കുവെക്കാൻ സാധിച്ചില്ല">
+<!ENTITY share_error_toast_message "സൂചിപ്പിച്ച ആപ്പ് പങ്കിടാൻ സാധിച്ചില്ല">
 <!ENTITY save_as_pdf "PDF ആയി സൂക്ഷിക്കുക">
 <!ENTITY print "അച്ചടിയ്ക്കുക">
 <!ENTITY view_page_source "താളിന്റെ സോർസ് കാണിക്കുക">
@@ -692,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "നിങ്ങള്‍ കണക്ട് ചെയ്യപ്പെട്ടിരിക്കുന്ന ഡൊമെയിന്‍">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
