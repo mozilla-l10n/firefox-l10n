@@ -601,9 +601,16 @@ sync-signedin-settings-desc = { -brand-short-name } қолданатын құр�
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Синхрондау: ІСКЕ ҚОСЫЛҒАН
+prefs-syncing-off = Синхрондау: СӨНДІРІЛГЕН
+prefs-sync-now =
+    .labelnotsyncing = Қазір синхрондау
+    .accesskeynotsyncing = н
+    .labelsyncing = Синхрондау…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Сіз қазір осы элементтерді синхрондап жатырсыз:
 sync-currently-syncing-bookmarks = Бетбелгілер
 sync-currently-syncing-history = Тарих
 sync-currently-syncing-tabs = Ашық беттер

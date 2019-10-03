@@ -78,6 +78,14 @@ cfr-whatsnew-button =
     .label = Не жаңалық
     .tooltiptext = Не жаңалық
 cfr-whatsnew-panel-header = Не жаңалық
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+       *[other] Блокталған трекерлер
+    }
+cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } бастап
 cfr-whatsnew-tracking-blocked-link-text = Есептемені қарау
 cfr-whatsnew-lockwise-take-link-text = Қолданбаны алу
 
