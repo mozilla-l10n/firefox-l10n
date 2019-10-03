@@ -19,6 +19,7 @@ site-data-column-storage =
     .label = Spazio utilizzato
 site-data-column-last-used =
     .label = Ultimo utilizzo
+site-data-local-file-host = (file locale)
 site-data-remove-selected =
     .label = Rimuovi selezionati
     .accesskey = R
