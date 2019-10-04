@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Synchronizované karty
 synced-tabs-sidebar-noclients-subtitle = Chceli by ste tu vidieť vaše karty z ostatných zariadení?
 synced-tabs-sidebar-notsignedin = Prihlásením sa zobrazíte zoznam kariet z vašich ostatných zariadení.
+synced-tabs-sidebar-intro = Zobraziť zoznam kariet z ostatných zariadení.
 synced-tabs-sidebar-unverified = Váš účet musí byť overený.
 synced-tabs-sidebar-notabs = Žiadne otvorené karty
 synced-tabs-sidebar-openprefs = Otvoriť nastavenia služby { -sync-brand-short-name }
@@ -37,3 +38,4 @@ synced-tabs-context-manage-devices =
     .label = Spravovať zariadenia…
     .accesskey = i
 fxa-sign-in = Prihlásiť sa k službe { -sync-brand-short-name }
+turn-on-sync = Zapnúť { -sync-brand-short-name }

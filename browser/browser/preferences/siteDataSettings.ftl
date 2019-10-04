@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Úložisko
 site-data-column-last-used =
     .label = Naposledy použité
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (lokálny súbor)
 site-data-remove-selected =
     .label = Odstrániť vybrané
     .accesskey = r
@@ -28,11 +30,6 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Uložiť zmeny
     .accesskey = e
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (Trvalé úložisko)
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
