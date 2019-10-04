@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (inget användarnamn)
 about-logins-list-item-warning-icon =
     .alt = Varningsikon
     .title = Webbplats med dataintrång
+about-logins-list-item-breach-icon =
+    .title = Webbplats med dataintrång
 
 ## Introduction screen
 
