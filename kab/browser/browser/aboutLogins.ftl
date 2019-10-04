@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (ulas isem n useqdac)
 about-logins-list-item-warning-icon =
     .alt = Tginit n ulɣu
     .title = Asmel i tḥuza trewla n yisefka
+about-logins-list-item-breach-icon =
+    .title = Asmel i tḥuza trewla n yisefka
 
 ## Introduction screen
 
