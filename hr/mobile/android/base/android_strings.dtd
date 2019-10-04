@@ -467,9 +467,9 @@ shown from Android O while a tab is being queued.-->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; izvještaj zdravlja">
-<!ENTITY datareporting_fhr_summary2 "Dijeli podatke sa &vendorShortName;-om o zdravlju vašeg preglednika i pomaže vam da razumijete performanse preglednika.">
+<!ENTITY datareporting_fhr_summary2 "Dijeli podatke s &vendorShortName;-om o stanju tvog preglednika i pomaže ti razumijeti performansu tvog preglednika">
 <!ENTITY datareporting_telemetry_title "Telemetrija">
-<!ENTITY datareporting_telemetry_summary "Dijeli podatke o performansama, korištenju hardvera i prilagodbama vašeg preglednika, kako bi &vendorShortName; mogla unaprijediti &brandShortName;">
+<!ENTITY datareporting_telemetry_summary "Dijeli podatke o performansi, korištenju hardvera i prilagodbama tvog preglednika, kako bi &vendorShortName; mogla unaprijediti &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; šalje izvještaje o rušenju kako bi &vendorShortName; mogla vaš preglednik učiniti stabilnijim i sigurnijim">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
@@ -589,7 +589,7 @@ shown from Android O while a tab is being queued.-->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 <!ENTITY pref_compact_tabs "Sužene kartice">
-<!ENTITY pref_compact_tabs_summary2 "Raspoređivanje kartica u dva stupca u uspravnoj orijentaciji">
+<!ENTITY pref_compact_tabs_summary2 "Raspoređivanje kartica u dva stupca u uspravnom položaju">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed from about:home. This includes pages that are in history,
