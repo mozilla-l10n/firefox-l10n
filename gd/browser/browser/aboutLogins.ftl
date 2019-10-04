@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Clàraidhean a-steach ⁊ faclan-faire
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
 login-filter =
     .placeholder = Lorg sna clàraidhean a-steach
 create-login-button = Cruthaich clàradh a-steach ùr
@@ -20,8 +23,6 @@ menu-menuitem-preferences =
         [windows] Roghainnean
        *[other] Roghainnean
     }
-menu-menuitem-feedback = Cuir thugainn do bheachdan
-menu-menuitem-faq = Ceistean Àbhaisteach
 menu-menuitem-android-app = { -lockwise-brand-short-name } airson Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } airson iPhone agus iPad
 
@@ -52,7 +53,6 @@ login-intro-heading = A’ lorg nan clàraidhean a-steach a shàbhail thu? Suidh
 login-intro-description = Ma shàbhail thu na clàraidhean a-steach agad ann am { -brand-product-name } air uidheam eile, seo mar a gheibh thu greim orra an-seo:
 login-intro-instruction-fxa = Cruthaich { -fxaccount-brand-name } no clàraich a-steach dha air an uidheam far an deach na clàraidhean a-steach agad a shàbhaladh
 login-intro-instruction-fxa-settings = Dèan cinnteach gu bheil cromag ann am bogsa nan clàraidhean a-steach ann an roghainnean { -sync-brand-short-name }
-login-intro-instruction-faq = Tadhail air { -lockwise-brand-short-name } <a data-l10n-name="faq">na ceistean àbhaisteacn</a> airson barrachd cobharach
 
 ## Login
 
@@ -62,10 +62,7 @@ login-item-delete-button = Sguab às
 login-item-origin-label = Seòladh na làraich-lìn
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Cuir gu dol
 login-item-username-label = Ainm-cleachdaiche
-login-item-username =
-    .placeholder = ainm@example.com
 login-item-copy-username-button-text = Lethbhreac
 login-item-copied-username-button-text = Lethbhreac air a dhèanamh!
 login-item-password-label = Facal-faire
@@ -116,3 +113,6 @@ confirm-discard-changes-dialog-confirm-button = Tilg air falbh
 ## Breach Alert notification
 
 breach-alert-link = Barrachd fiosrachaidh mun bhriseadh a-steach seo.
+
+## Error Messages
+
