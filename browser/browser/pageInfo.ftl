@@ -107,6 +107,8 @@ help-button =
 
 image-size-unknown = Akwaziwa
 not-set-verified-by = Akuxelwanga
+page-info-not-specified =
+    .value = Akuxelwanga
 not-set-alternative-text = Akuxelwanga
 not-set-date = Akuxelwanga
 media-img = Umfuziselo
