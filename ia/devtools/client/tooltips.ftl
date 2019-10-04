@@ -30,6 +30,8 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> ha nulle effecto sur
 inactive-css-not-flex-container = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que illo non es un receptaculo de flex.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> non ha effecto sur iste elemento perque non es un elemento “inline” o “table-cell”.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ha nulle effecto sur iste elemento perque illo ha un schermo de <strong>{ $display }</strong>.
+inactive-css-not-display-block-on-floated = Le motor ha cambiate le valor de <strong>display</strong> a <strong>block</strong> perque le elemento es <strong>floated<strong>.
+inactive-css-property-is-impossible-to-override-in-visited = Il es impossibile supplantar <strong>{ $property }</strong> per restriction sur <strong>:visited</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -39,6 +41,8 @@ inactive-css-not-grid-or-flex-container-fix = Prova a adder <strong>monstrar:gri
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Prova a adder o <strong>display:grid</strong>, <strong>display:flex</strong> o <strong>columnas:2</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix = Prova a adder <strong>monstrar:grillia</strong>, <strong>monstrar:flex</strong>, <strong>monstrar:grillia in linea</strong> o <strong>monstrar:flex in linea</strong>.{ learn-more }
 inactive-css-not-grid-item-fix = Prova a adder <strong>monstrar:grillia</strong> o <strong>monstrar:grillia in linea</strong> al genitor del elemento.{ learn-more }
+inactive-css-not-grid-or-flex-item-fix-2 = Prova adder <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, o <strong>display:inline-flex</strong>.{ learn-more }
+inactive-css-not-grid-item-fix-2 = Prova a adder <strong>display:grid</strong> o <strong>display:inline-grid</strong> al genitor del elemento.{ learn-more }
 inactive-css-not-grid-container-fix = Prova a adder <strong>monstrar:grillia</strong> o <strong>monstrar:grillia in linea</strong>.{ learn-more }
 inactive-css-not-flex-item-fix = Prova a adder <strong>monstrar:flex</strong> o <strong>monstrar:flex in linea</strong> al genitor del elemento. { learn-more }
 inactive-css-not-flex-container-fix = Prova a adder <strong>monstrar:flex</strong> o <strong>monstrar:flex in linea</strong>. { learn-more }
