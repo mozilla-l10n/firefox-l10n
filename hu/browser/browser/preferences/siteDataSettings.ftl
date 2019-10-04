@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Tárhely
 site-data-column-last-used =
     .label = Utoljára használt
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (helyi fájl)
 site-data-remove-selected =
     .label = Kijelölt eltávolítása
     .accesskey = e
@@ -28,11 +30,6 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Változások mentése
     .accesskey = V
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (tartós)
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
