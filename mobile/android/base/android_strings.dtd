@@ -23,20 +23,20 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Cuenta">
 <!ENTITY firstrun_sync_message2 "Continúa donde quedaste.">
+<!ENTITY firstrun_sync_message3 "Sincroniza tus marcadores, historial y contraseñas con tu teléfono.">
 <!ENTITY firstrun_sync_subtext2 "Usa Sync para encontrar marcadores, contraseñas y otras cosas que guardes en &brandShortName; en todos tus dispositivos.">
 <!ENTITY newfirstrun_sync_subtext "Sincroniza las cosas que guardas en el celular con Firefox para escritorio, de forma privada y segura.">
 <!ENTITY updatednewfirstrun_sync_subtext "Conéctate a tu cuenta para sacarle más provecho a &brandShortName;">
 <!ENTITY firstrun_signin_message "Conéctate, inicia">
+<!ENTITY firstrun_sendtab_title "Enviar pestaña">
 <!ENTITY firstrun_signin_button "Conectarse a Sync">
 <!ENTITY newfirstrun_signin_button "Activar la sincronización">
 <!ENTITY updatednewfirstrun_signin_button "Conectarse a &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Empezar a navegar">
+<!ENTITY onboard_start_button_browser "Empezar a navegar">
 <!ENTITY firstrun_button_notnow "Ahora no">
 <!ENTITY firstrun_button_next "Siguiente">
 
 <!ENTITY firstrun_signin_button2 "Conectarse">
-
-<!ENTITY firstrun_signup_button "Registrarse">
 
 <!ENTITY firstrun_tabqueue_title "Enlaces">
 
@@ -48,6 +48,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Tú">
 <!ENTITY firstrun_account_message "¿Tienes &brandShortName; en otro dispositivo?">
+
+<!ENTITY firstrun_signup_button "Registrarse">
 
 <!ENTITY  onboard_start_restricted1 "Mantente seguro y al mando con esta versión simplificada de &brandShortName;.">
 
@@ -499,6 +501,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Compartir">
 <!ENTITY share_title "Compartir mediante">
 <!ENTITY share_image_failed "No se puede compartir esta imagen">
+<!ENTITY share_error_toast_message "No se pudo compartir con la aplicación indicada">
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY print "Imprimir">
 <!ENTITY view_page_source "Ver código fuente">
@@ -692,6 +695,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Estás conectado a">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
