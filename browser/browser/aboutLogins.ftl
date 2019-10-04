@@ -68,6 +68,8 @@ login-list-item-subtitle-missing-username = (dim enw defnyddwyr)
 about-logins-list-item-warning-icon =
     .alt = Eicon rhybuddio
     .title = Gwefan wedi dioddef tor-data
+about-logins-list-item-breach-icon =
+    .title = Gwefan wedi dioddef tor-data
 
 ## Introduction screen
 
