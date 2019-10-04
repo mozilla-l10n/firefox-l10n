@@ -66,6 +66,8 @@ login-list-item-subtitle-missing-username = (žedno wužywarske mě)
 about-logins-list-item-warning-icon =
     .alt = Warnowański symbol
     .title = Zranjone websedło
+about-logins-list-item-breach-icon =
+    .title = Zranjone websedło
 
 ## Introduction screen
 
