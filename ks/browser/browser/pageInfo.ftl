@@ -71,6 +71,8 @@ help-button =
 
 image-size-unknown = نامولوم
 not-set-verified-by = چھُنئ مشكَس
+page-info-not-specified =
+    .value = چھُنئ مشكَس
 not-set-alternative-text = چھُنئ مشكَس
 not-set-date = چھُنئ مشكَس
 media-img = اِمیج
@@ -93,6 +95,8 @@ general-quirks-mode =
 general-strict-mode =
     .value = معیٲری كملاینس موڈ
 security-no-owner = یئ ویبسایٹ چھَنئ مٲلكئ سنز مولومات مہیا كران
+page-info-security-no-owner =
+    .value = یئ ویبسایٹ چھَنئ مٲلكئ سنز مولومات مہیا كران
 media-select-folder = فولڈر ژٲریو شكل محفوظ تھاونئ خٲطرئ
 media-unknown-not-cached =
     .value = نامولول(چھُ نئ كیشڈ)
