@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Сінхранізаваныя карткі
 synced-tabs-sidebar-noclients-subtitle = Хочаце пабачыць вашы карткі з іншых прылад тут?
 synced-tabs-sidebar-notsignedin = Увайдзіце, каб бачыць спіс картак з вашых астатніх прылад.
+synced-tabs-sidebar-intro = Паглядзіце спіс картак з іншых прылад.
 synced-tabs-sidebar-unverified = Ваш уліковы запіс патрабуе пацвярджэння.
 synced-tabs-sidebar-notabs = Няма адкрытых картак
 synced-tabs-sidebar-openprefs = Адкрыць { -sync-brand-short-name } Налады
@@ -37,3 +38,4 @@ synced-tabs-context-manage-devices =
     .label = Кіраваць прыладамі...
     .accesskey = В
 fxa-sign-in = Увайсці ў { -sync-brand-short-name }
+turn-on-sync = Уключыць { -sync-brand-short-name }
