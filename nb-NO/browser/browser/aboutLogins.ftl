@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (uten brukernavn)
 about-logins-list-item-warning-icon =
     .alt = Advarselsikon
     .title = Nettsted med datalekkasje
+about-logins-list-item-breach-icon =
+    .title = Nettsted med datalekkasje
 
 ## Introduction screen
 
