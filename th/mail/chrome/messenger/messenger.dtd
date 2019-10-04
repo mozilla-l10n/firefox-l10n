@@ -441,44 +441,65 @@
 <!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "ไฟล์แนบ">
 <!ENTITY openFeedMessage1.label "เมื่อเปิดข้อความฟีด">
+<!ENTITY openFeedMessage1.accesskey "ป">
 <!ENTITY openFeedWebPage.label "เปิดเป็นหน้าเว็บ">
+<!ENTITY openFeedWebPage.accesskey "ว">
 <!ENTITY openFeedSummary.label "เปิดเป็นบทสรุป">
+<!ENTITY openFeedSummary.accesskey "ส">
 <!ENTITY openFeedWebPageInMP.label "เปิด/ปิดหน้าเว็บและบทสรุปในบานหน้าต่างข้อความ">
+<!ENTITY openFeedWebPageInMP.accesskey "เ">
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "หน้าต่าง">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "เครื่องมือ">
+<!ENTITY tasksMenu.accesskey "ค">
 <!ENTITY messengerCmd.label "จดหมายและกลุ่มข่าว">
+<!ENTITY messengerCmd.accesskey "ก">
 <!ENTITY addressBookCmd.label "สมุดรายชื่อ">
+<!ENTITY addressBookCmd.accesskey "ม">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "ส่วนเสริม">
+<!ENTITY addons.accesskey "ว">
 <!ENTITY addonPrefs.label "ตัวเลือกส่วนเสริม">
 <!ENTITY addonPrefsUnix.label "ค่ากำหนดส่วนเสริม">
 <!ENTITY addonNoPrefs.label "ไม่พบการตั้งค่าส่วนเสริม">
 <!ENTITY activitymanager.label "ตัวจัดการกิจกรรม">
+<!ENTITY activitymanager.accesskey "ก">
 <!ENTITY imAccountsStatus.label "สถานะการแชท">
+<!ENTITY imAccountsStatus.accesskey "ช">
 <!ENTITY imStatus.available          "พร้อมใช้งาน">
 <!ENTITY imStatus.unavailable        "ไม่พร้อมใช้งาน">
 <!ENTITY imStatus.offline            "ออฟไลน์">
 <!ENTITY imStatus.showAccounts       "แสดงบัญชี…">
 <!ENTITY joinChatCmd.label "เข้าร่วมแชท…">
+<!ENTITY joinChatCmd.accesskey "ช">
 <!ENTITY savedFiles.label "ไฟล์ที่บันทึกไว้">
+<!ENTITY savedFiles.accesskey "ฟ">
 <!ENTITY savedFiles.key "j">
 <!ENTITY filtersCmd2.label "ตัวกรองข้อความ">
 <!ENTITY filtersApply.label "เรียกใช้ตัวกรองกับโฟลเดอร์">
+<!ENTITY filtersApply.accesskey "ร">
 <!ENTITY filtersApplyToSelection.label "เรียกใช้ตัวกรองกับข้อความที่เลือก">
+<!ENTITY filtersApplyToSelection.accesskey "เ">
 <!ENTITY filtersApplyToMessage.label "เรียกใช้ตัวกรองกับข้อความ">
+<!ENTITY filtersApplyToMessage.accesskey "เ">
 <!ENTITY runJunkControls.label "เรียกใช้การควบคุมจดหมายขยะกับโฟลเดอร์">
+<!ENTITY runJunkControls.accesskey "ค">
 <!ENTITY deleteJunk.label "ลบจดหมายที่ถูกทำเครื่องหมายว่าเป็นขยะในโฟลเดอร์">
+<!ENTITY deleteJunk.accesskey "ล">
 <!ENTITY importCmd.label "นำเข้า…">
+<!ENTITY importCmd.accesskey "น">
 <!ENTITY clearRecentHistory.label "ล้างประวัติล่าสุด…">
+<!ENTITY clearRecentHistory.accesskey "ป">
 <!ENTITY accountManagerCmd2.label "การตั้งค่าบัญชี">
+<!ENTITY accountManagerCmd2.accesskey "ก">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
   -->
+<!ENTITY accountManagerCmdUnix2.accesskey "บ">
 
 <!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "เครื่องมือนักพัฒนา">
@@ -487,6 +508,7 @@
 <!ENTITY debugAddonsCmd.label "ดีบั๊กส่วนเสริม">
 <!ENTITY tabsDebugCmd.label "ตัวดีบั๊กเฟรมเนื้อหา">
 <!ENTITY errorConsoleCmd.label "คอนโซลข้อผิดพลาด">
+<!ENTITY errorConsoleCmd.accesskey "ข">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY scratchpadCmd.label "กระดานทดลอง">
 
@@ -596,7 +618,9 @@
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "ป้ายกำกับใหม่…">
+<!ENTITY addNewTag.accesskey "ม">
 <!ENTITY manageTags.label "จัดการป้ายกำกับ…">
+<!ENTITY manageTags.accesskey "จ">
 
 <!-- Folder Pane -->
 <!ENTITY folderNameColumn.label "ชื่อ">
@@ -606,29 +630,46 @@
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "รับข้อความ">
+<!ENTITY folderContextGetMessages.accesskey "ร">
 <!ENTITY folderContextMarkAllFoldersRead.label "ทำเครื่องหมายโฟลเดอร์ทั้งหมดว่าอ่านแล้ว">
 <!ENTITY folderContextPauseAllUpdates.label "หยุดการอัปเดตทั้งหมดชั่วคราว">
 <!ENTITY folderContextPauseUpdates.label "หยุดการอัปเดตชั่วคราว">
 <!ENTITY folderContextOpenInNewWindow.label "เปิดในหน้าต่างใหม่">
 <!ENTITY folderContextOpenNewTab.label "เปิดในแท็บใหม่">
+<!ENTITY folderContextOpenNewTab.accesskey "ท">
 <!ENTITY folderContextNew.label "โฟลเดอร์ย่อยใหม่…">
+<!ENTITY folderContextNew.accesskey "ม">
 <!ENTITY folderContextRename.label "เปลี่ยนชื่อ">
+<!ENTITY folderContextRename.accesskey "ป">
 <!ENTITY folderContextRemove.label "ลบ">
+<!ENTITY folderContextRemove.accesskey "ล">
 <!ENTITY folderContextCompact.label "กระชับ">
+<!ENTITY folderContextCompact.accesskey "ก">
 <!ENTITY folderContextEmptyTrash.label "ล้างข้อมูลในถังขยะ">
+<!ENTITY folderContextEmptyTrash.accesskey "า">
 <!ENTITY folderContextEmptyJunk.label "ล้างขยะ">
+<!ENTITY folderContextEmptyJunk.accesskey "ข">
 <!ENTITY folderContextSendUnsentMessages.label "ส่งข้อความที่ไม่ได้ส่ง">
+<!ENTITY folderContextSendUnsentMessages.accesskey "ส">
 <!ENTITY folderContextUnsubscribe.label "เลิกบอกรับ">
+<!ENTITY folderContextUnsubscribe.accesskey "เ">
 <!ENTITY folderContextMarkNewsgroupRead.label "ทำเครื่องหมายกลุ่มข่าวว่าอ่านแล้ว">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "ง">
 <!ENTITY folderContextMarkMailFolderRead.label "ทำเครื่องหมายโฟลเดอร์ว่าอ่านแล้ว">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "ง">
 <!ENTITY folderContextSubscribe.label "บอกรับ…">
+<!ENTITY folderContextSubscribe.accesskey "บ">
 <!ENTITY folderContextSearchForMessages.label "ค้นหาข้อความ…">
+<!ENTITY folderContextSearchForMessages.accesskey "ค">
 <!ENTITY folderContextProperties2.label "คุณสมบัติ">
+<!ENTITY folderContextProperties2.accesskey "ณ">
 <!ENTITY folderContextFavoriteFolder.label "โฟลเดอร์โปรด">
+<!ENTITY folderContextFavoriteFolder.accesskey "ฟ">
 <!ENTITY folderContextSettings2.label "การตั้งค่า">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "ชื่อหรืออีเมลมี:">
+<!ENTITY SearchNameOrEmail.accesskey "ช">
 
 <!-- Gloda Search Bar -->
 <!ENTITY glodaSearchBar.placeholder "ค้นหาข้อความ…">
@@ -690,30 +731,43 @@
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "ข้อความใหม่จากแม่แบบ">
 <!ENTITY contextOpenNewWindow.label "เปิดข้อความในหน้าต่างใหม่">
+<!ENTITY contextOpenNewWindow.accesskey "น">
 <!-- The contextOpenNewTab.accesskey ("T") potentially conflicts with
      cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
      now, both menu items can't be visible at the same time, but should someone
      enable copy/paste of message, this key would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "เปิดข้อความในแท็บใหม่">
+<!ENTITY contextOpenNewTab.accesskey "ท">
 <!ENTITY contextOpenConversation.label "เปิดข้อความในการสนทนา">
+<!ENTITY contextOpenConversation.accesskey "ส">
 <!ENTITY contextOpenContainingFolder.label "เปิดข้อความในโฟลเดอร์ที่บรรจุ">
 <!ENTITY contextEditMsgAsNew.label "แก้ไขเป็นข้อความใหม่">
 <!ENTITY contextEditDraftMsg.label "แก้ไขข้อความฉบับร่าง">
 <!ENTITY contextEditTemplate.label "แก้ไขแม่แบบ">
 <!ENTITY contextArchive.label "เก็บถาวร">
+<!ENTITY contextArchive.accesskey "ก">
 <!ENTITY contextReplySender.label "ตอบกลับถึงผู้ส่งเท่านั้น">
+<!ENTITY contextReplySender.accesskey "ต">
 <!ENTITY contextReplyNewsgroup2.label "ติดตามถึงกลุ่มข่าว">
+<!ENTITY contextReplyNewsgroup2.accesskey "ถ">
 <!ENTITY contextReplyAll.label "ตอบกลับถึงทั้งหมด">
+<!ENTITY contextReplyAll.accesskey "ท">
 <!ENTITY contextReplyList.label "ตอบกลับถึงรายการ">
+<!ENTITY contextReplyList.accesskey "ร">
 <!ENTITY contextForward.label "ส่งต่อ">
+<!ENTITY contextForward.accesskey "ง">
 <!ENTITY contextForwardAsMenu.label "ส่งต่อเป็น">
 <!ENTITY contextForwardAsInline.label "อินไลน์">
 <!ENTITY contextForwardAsAttachmentItem.label "ไฟล์แนบ">
 <!ENTITY contextMultiForwardAsAttachment.label "ส่งต่อเป็นไฟล์แนบ">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "เ">
 <!ENTITY contextMoveMsgMenu.label "ย้ายไปยัง">
+<!ENTITY contextMoveMsgMenu.accesskey "ย">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "ล่าสุด">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "ล">
 <!ENTITY contextMoveCopyMsgFavoritesMenu.label "รายการโปรด">
 <!ENTITY contextCopyMsgMenu.label "คัดลอกไปยัง">
+<!ENTITY contextCopyMsgMenu.accesskey "ค">
 <!ENTITY contextKillThreadMenu.label "เพิกเฉยหัวข้อ">
 <!ENTITY contextKillSubthreadMenu.label "เพิกเฉยหัวข้อย่อย">
 <!ENTITY contextWatchThreadMenu.label "เฝ้าดูหัวข้อ">
@@ -723,8 +777,11 @@
   -->
 <!ENTITY contextWatchThreadMenu.accesskey "">
 <!ENTITY contextSaveAs.label "บันทึกเป็น…">
+<!ENTITY contextSaveAs.accesskey "บ">
 <!ENTITY contextPrint.label "พิมพ์…">
+<!ENTITY contextPrint.accesskey "พ">
 <!ENTITY contextPrintPreview.label "ตัวอย่างก่อนพิมพ์">
+<!ENTITY contextPrintPreview.accesskey "ว">
 
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
@@ -768,9 +825,13 @@
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "เล่น">
+<!ENTITY contextPlay.accesskey "ล">
 <!ENTITY contextPause.label "หยุดชั่วคราว">
+<!ENTITY contextPause.accesskey "ย">
 <!ENTITY contextMute.label "ปิดเสียง">
+<!ENTITY contextMute.accesskey "ป">
 <!ENTITY contextUnmute.label "เลิกปิดเสียง">
+<!ENTITY contextUnmute.accesskey "ป">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
@@ -803,31 +864,52 @@
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "เพิ่มไปยังสมุดรายชื่อ…">
+<!ENTITY AddToAddressBook.accesskey "ส">
 <!ENTITY AddDirectlyToAddressBook.label "เพิ่มไปยังสมุดรายชื่อ">
+<!ENTITY AddDirectlyToAddressBook.accesskey "ส">
 <!ENTITY EditContact1.label "แก้ไขผู้ติดต่อ">
+<!ENTITY EditContact1.accesskey "ก">
 <!ENTITY ViewContact.label "ดูผู้ติดต่อ">
+<!ENTITY ViewContact.accesskey "ด">
 <!ENTITY SubscribeToNewsgroup.label "บอกรับกลุ่มข่าว">
+<!ENTITY SubscribeToNewsgroup.accesskey "า">
 <!ENTITY SendMessageTo.label "เขียนข้อความไปยัง">
+<!ENTITY SendMessageTo.accesskey "เ">
 <!ENTITY CopyEmailAddress.label "คัดลอกที่อยู่อีเมล">
+<!ENTITY CopyEmailAddress.accesskey "ค">
 <!ENTITY CopyNameAndEmailAddress.label "คัดลอกชื่อและที่อยู่อีเมล">
 <!ENTITY CopyNewsgroupName.label "คัดลอกชื่อกลุ่มข่าว">
+<!ENTITY CopyNewsgroupName.accesskey "ค">
 <!ENTITY CopyNewsgroupURL.label "คัดลอก URL กลุ่มข่าว">
+<!ENTITY CopyNewsgroupURL.accesskey "ด">
 <!ENTITY CreateFilterFrom.label "สร้างตัวกรองจาก…">
+<!ENTITY CreateFilterFrom.accesskey "จ">
 <!ENTITY reportPhishingURL.label "รายงานการหลอกลวงอีเมล">
+<!ENTITY reportPhishingURL.accesskey "ร">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "เพิ่มพจนานุกรม…">
+<!ENTITY spellAddDictionaries.accesskey "พ">
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "บันทึกลิงก์เป็น…">
+<!ENTITY saveLinkAsCmd.accesskey "ง">
 <!ENTITY saveImageAsCmd.label "บันทึกภาพเป็น…">
+<!ENTITY saveImageAsCmd.accesskey "บ">
 <!ENTITY copyLinkCmd.label "คัดลอกตำแหน่งที่ตั้งลิงก์">
+<!ENTITY copyLinkCmd.accesskey "ล">
 <!ENTITY copyImageAllCmd.label "คัดลอกภาพ">
+<!ENTITY copyImageAllCmd.accesskey "ภ">
 <!ENTITY copyEmailCmd.label "คัดลอกที่อยู่อีเมล">
+<!ENTITY copyEmailCmd.accesskey "อ">
 <!ENTITY stopCmd.label "หยุด">
+<!ENTITY stopCmd.accesskey "ห">
 <!ENTITY reloadCmd.label "โหลดใหม่">
+<!ENTITY reloadCmd.accesskey "ใ">
 <!ENTITY openInBrowser.label "เปิดในเบราว์เซอร์">
+<!ENTITY openInBrowser.accesskey "ป">
 <!ENTITY openLinkInBrowser.label "เปิดลิงก์ในเบราว์เซอร์">
+<!ENTITY openLinkInBrowser.accesskey "ป">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "เสร็จสิ้น">
