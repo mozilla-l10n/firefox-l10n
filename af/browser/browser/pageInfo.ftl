@@ -105,6 +105,8 @@ help-button =
 
 image-size-unknown = Onbekend
 not-set-verified-by = Nie gespesifiseer nie
+page-info-not-specified =
+    .value = Nie gespesifiseer nie
 not-set-alternative-text = Nie gespesifiseer nie
 not-set-date = Nie gespesifiseer nie
 media-img = Prent
