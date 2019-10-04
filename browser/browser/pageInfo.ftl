@@ -12,8 +12,6 @@ select-all =
 menu-select-all =
     .label = Guhitamo Byose
     .accesskey = B
-close-window =
-    .key = A
 general-url =
     .value = Aderesi:
 general-type =
@@ -58,6 +56,8 @@ help-button =
 
 image-size-unknown = Kitazwi
 not-set-verified-by = Ntibyagaragajwe
+page-info-not-specified =
+    .value = Ntibyagaragajwe
 not-set-alternative-text = Ntibyagaragajwe
 not-set-date = Ntibyagaragajwe
 media-img = Ishusho
