@@ -47,6 +47,8 @@ help-button =
 
 image-size-unknown = Ga e itsiwe
 not-set-verified-by = Ga e a totobadiwa
+page-info-not-specified =
+    .value = Ga e a totobadiwa
 not-set-alternative-text = Ga e a totobadiwa
 not-set-date = Ga e a totobadiwa
 media-img = Setshwantsho
