@@ -67,6 +67,8 @@ login-list-item-subtitle-missing-username = (anv arveriad ebet)
 about-logins-list-item-warning-icon =
     .alt = Arlun evezh
     .title = Lec'hienn frailhet
+about-logins-list-item-breach-icon =
+    .title = Lec'hienn frailhet
 
 ## Introduction screen
 
