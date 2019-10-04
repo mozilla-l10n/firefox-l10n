@@ -112,6 +112,8 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 not-set-verified-by = Di-naituding
+page-info-not-specified =
+    .value = Di-naituding
 not-set-alternative-text = Di-naituding
 not-set-date = Di-naituding
 media-img = Ladawan
