@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (kullanıcı adı yok)
 about-logins-list-item-warning-icon =
     .alt = Uyarı simgesi
     .title = Bu site ihlale uğramış
+about-logins-list-item-breach-icon =
+    .title = Bu site ihlale uğramış
 
 ## Introduction screen
 
