@@ -12,8 +12,6 @@ select-all =
 menu-select-all =
     .label = Selezione dut
     .accesskey = d
-close-window =
-    .key = A
 general-tab =
     .label = Gjenerâl
     .accesskey = G
@@ -101,6 +99,8 @@ help-button =
 
 image-size-unknown = No cognossût
 not-set-verified-by = No specificât
+page-info-not-specified =
+    .value = No specificât
 not-set-alternative-text = No specificât
 not-set-date = No specificât
 media-img = Figure
