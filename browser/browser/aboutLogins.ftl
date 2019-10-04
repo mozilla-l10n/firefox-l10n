@@ -65,6 +65,8 @@ login-list-item-subtitle-missing-username = (žiadne používateľské meno)
 about-logins-list-item-warning-icon =
     .alt = Ikona varovania
     .title = Únik dát
+about-logins-list-item-breach-icon =
+    .title = Únik dát
 
 ## Introduction screen
 
