@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Մուտքագրումներ և գաղտնաբառեր
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
 login-filter =
     .placeholder = Որոնել մուտքագրումներ
 create-login-button = Ստեղծել նոր մուտքագրում
@@ -20,8 +23,6 @@ menu-menuitem-preferences =
         [windows] Ընտրանքներ
        *[other] Նախապատվություններ
     }
-menu-menuitem-feedback = Ուղարկել կարծիք
-menu-menuitem-faq = Հաճախ տրվող հարցեր
 menu-menuitem-android-app = { -lockwise-brand-short-name }-ը Android-ի համար
 menu-menuitem-iphone-app = { -lockwise-brand-short-name }-ը iPhone-ի և iPad-ի համար
 
@@ -50,7 +51,6 @@ login-intro-heading = Փնտրո՞ւմ եք ձեր պահպանված մուտք
 login-intro-description = Եթե պահպանել եք ձեր մուտքագրումները { -brand-product-name }-ում այլ սարքում, ահա թե ինչպես կարող եք ստանալ դրանք.
 login-intro-instruction-fxa = Ստեղծեք կամ մուտք գործեք { -fxaccount-brand-name } այն սարքում, որտեղ ձեր մուտքագրումները պահպանված են
 login-intro-instruction-fxa-settings = Համոզվեք, որ ընտրել եք ձեր Մուտքագրումների նշատուփը { -sync-brand-short-name }-ի կարգավորումներում:
-login-intro-instruction-faq = Այցելեք { -lockwise-brand-short-name }<a data-l10n-name="faq">հաճախ տրվող հարցեր</a>՝ օգնույթան համար
 
 ## Login
 
@@ -60,10 +60,7 @@ login-item-delete-button = Ջնջել
 login-item-origin-label = Կայքի հասցեն
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Թողարկել
 login-item-username-label = Օգտվողի անուն
-login-item-username =
-    .placeholder = name@example.com
 login-item-copy-username-button-text = Պատճենել
 login-item-copied-username-button-text = Պատճենված
 login-item-password-label = Գաղտնաբառ
@@ -112,3 +109,6 @@ confirm-discard-changes-dialog-confirm-button = Մերժել
 
 breach-alert-text = Այս կայքի գաղտնաբառերը արտահոսք են կամ գողացել են այն բանից հետո, երբ վերջին անգամ թարմացրել եք ձեր մուտքի տվյալները: Փոխեք ձեր գաղտնաբառը ՝ ձեր հաշիվը պաշտպանելու համար:
 breach-alert-link = Իմանալ ավելին
+
+## Error Messages
+
