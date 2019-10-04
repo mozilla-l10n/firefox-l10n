@@ -47,4 +47,5 @@ accessibility-text-label-issue-toolbar = Če obstaja več kot ena orodna vrstica
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = Osredotočeni elementi bi morali imeti interaktivno semantiko. <a>Več o tem</a>
 accessibility-keyboard-issue-tabindex = Izogibajte se uporabi atributa <code>tabindex</code>, ki je večji od nič. <a>Več o tem</a>

@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Shramba
 site-data-column-last-used =
     .label = Nazadnje uporabljeno
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (krajevna datoteka)
 site-data-remove-selected =
     .label = Odstrani izbrane
     .accesskey = O
@@ -28,11 +30,6 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Shrani spremembe
     .accesskey = S
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (trajno)
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")

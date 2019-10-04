@@ -96,6 +96,16 @@ cfr-whatsnew-tracking-protect-body =
     { -brand-short-name } zavrača številne sledilce družbenih omrežij in spletne sledilce, 
     ki sledijo vaši spletni dejavnosti.
 cfr-whatsnew-tracking-protect-link-text = Oglejte si svoje poročilo
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Zavrnjen sledilec
+        [two] Zavrnjena sledilca
+        [few] Zavrnjeni sledilci
+       *[other] Zavrnjenih sledilcev
+    }
 cfr-whatsnew-tracking-blocked-subtitle = Od { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Prikaži poročilo
 cfr-whatsnew-lockwise-backup-title = Varnostno kopirajte gesla
