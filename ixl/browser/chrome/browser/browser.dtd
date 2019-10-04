@@ -45,6 +45,7 @@ this container is a toolbar. This avoids double-speaking. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Aq'ol texhlal">
 
 
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
@@ -81,6 +82,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 
 
+
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
 
@@ -106,6 +108,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 
 
+<!ENTITY bookmarksMenu.label "Aq'ol texhlal">
 
 
 
@@ -123,7 +126,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 
+<!ENTITY bookmarksButton.label          "Aq'ol texhlal">
+<!ENTITY bookmarksCmd.commandkey "a">
 
+<!ENTITY bookmarksSubview.label             "Aq'ol texhlal">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -397,9 +403,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
 <!ENTITY contentBlocking.cookies.label "Cookies">
+
 
 
 

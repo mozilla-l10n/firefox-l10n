@@ -139,6 +139,8 @@ home-mode-choice-custom =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-highlights-options-bookmarks =
+    .label = Aq'ol texhlal
 
 ## Search Section
 
@@ -173,9 +175,13 @@ sync-manage-account = La eel isuuchil u atinb'ale'
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-bookmarks = Aq'ol texhlal
 
 ## The "Choose what to sync" dialog.
 
+sync-engine-bookmarks =
+    .label = Aq'ol texhlal
+    .accesskey = A
 
 ## The device name controls.
 
@@ -202,6 +208,9 @@ sitedata-learn-more = Ootzi ka'te
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Aq'ol texhlal
+    .accesskey = A
 
 ## Privacy Section - Content Blocking
 
