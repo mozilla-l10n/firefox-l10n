@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (ਕੋਈ ਵਰਤੋਂਕਾਰ 
 about-logins-list-item-warning-icon =
     .alt = ਚੇਤਾਵਨੀ ਚਿੰਨ੍ਹ
     .title = ਉਲੰਘਣ ਕਰਨ ਵਾਲੀ ਵੈੱਬਸਾਈਟ
+about-logins-list-item-breach-icon =
+    .title = ਉਲੰਘਣ ਕਰਨ ਵਾਲੀ ਵੈੱਬਸਾਈਟ
 
 ## Introduction screen
 
