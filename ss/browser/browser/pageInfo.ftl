@@ -37,6 +37,8 @@ media-preview =
 
 image-size-unknown = Akwatiwa
 not-set-verified-by = Akukachazwa
+page-info-not-specified =
+    .value = Akukachazwa
 not-set-alternative-text = Akukachazwa
 not-set-date = Akukachazwa
 media-img = Sitfombe
