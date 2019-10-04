@@ -24,6 +24,7 @@
 
 <!ENTITY  generalTab            "Allmänt">
 <!ENTITY  generalTab.accesskey  "A">
+<!ENTITY  generalTitle          "Titel:">
 <!ENTITY  generalURL            "Adress:">
 <!ENTITY  generalType           "Typ:">
 <!ENTITY  generalMode           "Renderingsläge:">
@@ -112,6 +113,8 @@
 <!ENTITY  securityView.identity.owner    "Innehavare: ">
 <!ENTITY  securityView.identity.domain   "Webbplats: ">
 <!ENTITY  securityView.identity.verifier "Verifierad av: ">
+
+<!ENTITY  securityView.identity.validity "Upphör:">
 
 <!ENTITY  securityView.privacy.header                   "Integritet &amp; Historik">
 <!ENTITY  securityView.privacy.history                  "Har jag besökt den här webbplatsen tidigare i dag?">
