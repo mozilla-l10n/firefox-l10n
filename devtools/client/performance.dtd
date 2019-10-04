@@ -75,18 +75,18 @@
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 <!ENTITY performanceUI.invertTree             "Preokreni stablo poziva">
-<!ENTITY performanceUI.invertTree.tooltiptext "Okretanje stabla poziva prikazuje profilirane putanje poziva od najmlađih sličica, te se širi prema starijim sličicama.">
+<!ENTITY performanceUI.invertTree.tooltiptext "Preokrenje stabla poziva prikazuje profilirane putanje poziva od najmlađih prema najstarijima.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
-<!ENTITY performanceUI.invertFlameGraph             "Invert Flame Chart">
-<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Okretanje &quot;flame&quot; grafa prikazuje profilirane putanje poziva od najmlađih sličica, te se širi prema starijim sličicama.">
+<!ENTITY performanceUI.invertFlameGraph             "Preokreni Flame grafikon">
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Preokretanje &quot;flame&quot; grafikona prikazuje profilirane putanje poziva od najmlađih prema najstarijima.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 <!ENTITY performanceUI.showPlatformData             "Prikaži podatke Gecko platforme">
-<!ENTITY performanceUI.showPlatformData.tooltiptext "Prikazivanje informacija o platformi omogućuje dodavanje Gecko simbola platforme u izvještaje JavaScript profilera.">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "Prikazivanje informacija o platformi omogućuje dodavanje Gecko simbola platforme u izvještaje JavaScript profiliranja.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
@@ -97,8 +97,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
-<!ENTITY performanceUI.flattenTreeRecursion             "Izravnaj rekurzije stabla">
-<!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "Izravnaj rekurziju kod ispitivanja funkcija.">
+<!ENTITY performanceUI.flattenTreeRecursion             "Sažmi rekurziju stabla">
+<!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "Sažmi rekurziju pri ispitivanju funkcija.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory
@@ -128,5 +128,5 @@
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
   -  "Stop recording by entering console.profileEnd("label") into the console." -->
-<!ENTITY performanceUI.console.stopCommandStart "Zaustavite snimanje unosom">
+<!ENTITY performanceUI.console.stopCommandStart "Zaustavi snimanje upisom">
 <!ENTITY performanceUI.console.stopCommandEnd   "u konzolu.">
