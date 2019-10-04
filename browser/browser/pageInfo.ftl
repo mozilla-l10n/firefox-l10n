@@ -105,6 +105,8 @@ help-button =
 
 image-size-unknown = Unknown
 not-set-verified-by = Not specified
+page-info-not-specified =
+    .value = Not specified
 not-set-alternative-text = Not specified
 not-set-date = Not specified
 media-img = Image
@@ -127,6 +129,8 @@ general-quirks-mode =
 general-strict-mode =
     .value = Standards compliance mode
 security-no-owner = This website does not supply ownership information.
+page-info-security-no-owner =
+    .value = This website does not supply ownership information.
 media-select-folder = Select a Folder to Save the Images
 media-unknown-not-cached =
     .value = Unknown (not cached)
