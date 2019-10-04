@@ -41,8 +41,8 @@
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Ističe JavaScript funkcije gdje preglednik troši najviše vremena tijekom snimanja.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Alokacije">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Prikazuje gdje je memorija alocirana tijekom snimanja.">
-<!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart">
-<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Prikazuje JavaScript call stack tijekom snimanja.">
+<!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame grafikon">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Prikazuje JavaScript praćenje poziva tijekom snimanja.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Flame grafikon alokacija">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
@@ -70,7 +70,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
-<!ENTITY performanceUI.options.gear.tooltiptext "Podesite postavke performansi.">
+<!ENTITY performanceUI.options.gear.tooltiptext "Podesi postavke za performansu.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
