@@ -158,11 +158,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Usuário">
 <!ENTITY fxa.menu.manageAccount.label "Gerenciar conta…">
+<!ENTITY fxa.menu.syncSettings.label "Configurações do &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "Configurações do &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.syncSettings2.label "Configurações do &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectar outro dispositivo…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -175,6 +176,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Configurações da conta">
 <!ENTITY fxa.menu.signOut.label "Sair…">
 <!ENTITY fxa.menu.deviceSettings.label "Configurações do dispositivo">
+<!ENTITY fxa.menu.setupSync.label "Configurar o &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
