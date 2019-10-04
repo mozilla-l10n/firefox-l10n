@@ -91,6 +91,8 @@ help-button =
 
 image-size-unknown = Үл мэдэгдсэн
 not-set-verified-by = Зааж өгөөгүй
+page-info-not-specified =
+    .value = Зааж өгөөгүй
 not-set-alternative-text = Зааж өгөөгүй
 not-set-date = Зааж өгөөгүй
 media-img = Зураг
