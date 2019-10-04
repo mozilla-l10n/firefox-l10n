@@ -23,6 +23,9 @@ site-data-column-storage =
 site-data-column-last-used =
     .label = Sidst anvendt
 
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (lokal fil)
+
 site-data-remove-selected =
     .label = Fjern det valgte
     .accesskey = f

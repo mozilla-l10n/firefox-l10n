@@ -70,6 +70,9 @@ about-logins-list-item-warning-icon =
   .alt = Advarselsikon
   .title = Websted med datalæk
 
+about-logins-list-item-breach-icon =
+  .title = Websted med datalæk
+
 ## Introduction screen
 
 login-intro-heading = Leder du efter dine gemte logins? Opsæt { -sync-brand-short-name }.
@@ -153,6 +156,12 @@ breach-alert-dismiss =
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login = Der findes allerede et login for { $loginTitle } med samme brugernavn.
+
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Der findes allerede et login for { $loginTitle } med samme brugernavn. <a data-l10n-name="duplicate-link">Gå til eksisterende login?</a>
 
 # This is a generic error message.
 about-logins-error-message-default = Der opstod en fejl med at gemme adgangskoden.
