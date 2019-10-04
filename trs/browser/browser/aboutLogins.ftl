@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (nitaj si yugui usuario hua)
 about-logins-list-item-warning-icon =
     .alt = Ikonô narikî nuguan' ahii
     .title = Gi'iaj yi'ì si riña sitiô nan
+about-logins-list-item-breach-icon =
+    .title = Gi'iaj yi'ì si riña sitiô nan
 
 ## Introduction screen
 
