@@ -24,6 +24,7 @@
 
 <!ENTITY  generalTab            "Generelt">
 <!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTitle          "Tittel:">
 <!ENTITY  generalURL            "Adresse:">
 <!ENTITY  generalType           "Type:">
 <!ENTITY  generalMode           "Gjengivelsesmodus:">
@@ -112,6 +113,8 @@
 <!ENTITY  securityView.identity.owner    "Eier:">
 <!ENTITY  securityView.identity.domain   "Nettsted:">
 <!ENTITY  securityView.identity.verifier "Verifisert av:">
+
+<!ENTITY  securityView.identity.validity "Utløper:">
 
 <!ENTITY  securityView.privacy.header                   "Personvern og historikk">
 <!ENTITY  securityView.privacy.history                  "Har jeg besøkt dette nettstedet tidligere?">
