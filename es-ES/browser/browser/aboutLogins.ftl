@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (sin nombre de usuario)
 about-logins-list-item-warning-icon =
     .alt = Icono de advertencia
     .title = Sitio web vulnerado
+about-logins-list-item-breach-icon =
+    .title = Sitio web vulnerado
 
 ## Introduction screen
 
