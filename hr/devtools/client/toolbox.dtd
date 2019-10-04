@@ -123,8 +123,8 @@
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
-<!ENTITY options.usedeveditiontheme.label   "Koristi Developer Edition temu preglednika">
-<!ENTITY options.usedeveditiontheme.tooltip "Uključuje/isključuje Developer Edition temu preglednika.">
+<!ENTITY options.usedeveditiontheme.label   "Koristi temu preglednika razvojnog izdanja">
+<!ENTITY options.usedeveditiontheme.tooltip "Uključuje/isključuje temu preglednika razvojnog izdanja.">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
