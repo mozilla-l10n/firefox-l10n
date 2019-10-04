@@ -23,6 +23,6 @@ sync-label = Aq'ku' a correo
 sync-input =
     .placeholder = Correo
 sync-button = Yakeb'en
-sync-terms = Tul uva' la xe't axh, b'a'n kuxh see ti' unq'a vaa' <a data-l10n-name="terms"> kam chit teq'ole'</a> as <a data-l10n-name="privacy"> kam chit yol ti' nimab' tetz</a>
+sync-terms = Tul uva' la xe't axh, b'a'n kuxh see ti' unq'a vaa' <a data-l10n-name="terms">Kam chit teq'ole'</a> as <a data-l10n-name="privacy">Kam chit yol ti' nimab' tetz</a>.
 sync-first = A' chit b'axa nab'anb'e u vaa' { -sync-brand-name }? la chit ok axh ti jununil unq'a vee' ni tokso'k u Firefox aq'al uva' la teq'o ok unq'a yole' sti'.
 sync-learn = Ootzi ka'te

@@ -16,10 +16,12 @@ onboarding-button-label-learn-more = Ootzi ka'te
 
 ## Welcome modal dialog strings
 
+onboarding-join-form-legal = Tul uva' la xe't axh, b'a'n kuxh see ti' unq'a vaa' <a data-l10n-name="terms">Kam chit teq'ole'</a> as <a data-l10n-name="privacy">Kam chit yol ti' nimab' tetz</a>.
 onboarding-join-form-continue = Yakeb'en
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-legal-notice = Tul uva' la xe't axh, b'a'n kuxh see ti' unq'a vaa' <a data-l10n-name="terms">Kam chit teq'ole'</a> as <a data-l10n-name="privacy">Kam chit yol ti' nimab' tetz</a>.
 onboarding-sync-form-continue-button = Yakeb'en
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
