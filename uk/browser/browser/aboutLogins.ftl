@@ -65,6 +65,8 @@ login-list-item-subtitle-missing-username = (без імені користув�
 about-logins-list-item-warning-icon =
     .alt = Піктограма попередження
     .title = Зламаний веб-сайт
+about-logins-list-item-breach-icon =
+    .title = Зламаний веб-сайт
 
 ## Introduction screen
 
