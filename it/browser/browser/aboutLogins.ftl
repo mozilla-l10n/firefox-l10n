@@ -148,6 +148,7 @@ breach-alert-dismiss =
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login = È già presente un elemento per { $loginTitle } con lo stesso nome utente.
+about-logins-error-message-duplicate-login-with-link = È già presente un elemento per { $loginTitle } con lo stesso nome utente. <a data-l10n-name="duplicate-link">Passare all’elemento esistente?</a>
 
 # This is a generic error message.
 about-logins-error-message-default = Si è verificato un errore durante il salvataggio della password.
