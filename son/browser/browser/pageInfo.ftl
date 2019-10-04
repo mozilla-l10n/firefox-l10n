@@ -107,6 +107,8 @@ help-button =
 
 image-size-unknown = Šibayante
 not-set-verified-by = Ši tabatante
+page-info-not-specified =
+    .value = Ši tabatante
 not-set-alternative-text = Ši tabatante
 not-set-date = Ši tabatante
 media-img = Bii
