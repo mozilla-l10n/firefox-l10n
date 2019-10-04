@@ -647,7 +647,6 @@ sync-choose-what-to-sync-dialog =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Odspoji…
     .buttonaccesskeyextra2 = d
-sync-choose-heading = Odaberite što sinkronizirati s vašim računom za uređaje koji koriste { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Zabilješke
     .accesskey = Z
