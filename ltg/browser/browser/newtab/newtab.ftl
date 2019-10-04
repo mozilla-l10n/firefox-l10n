@@ -47,12 +47,25 @@ newtab-topsites-add-button = Pīvīnōt
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Voi gribi dzēst vysus itōs lopys īrokstus nu viestures?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Itei ir naatgrīzeniska darbeiba.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Attaiseit izvielni
+    .aria-label = Attaiseit izvielni
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Attaiseit izvielni
+    .aria-label = Attaiseit izvielni deļ { $title }
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Maineit lopu
@@ -78,6 +91,10 @@ newtab-menu-bookmark = Grōmotzeime
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Kopēt lejupīlōdes saiti
 newtab-menu-go-to-download-page = Īt iz lejupīlōdes lopu
 newtab-menu-remove-download = Nūteireit nu viestures
@@ -99,11 +116,16 @@ newtab-menu-open-file = Attaiseit failu
 
 newtab-label-visited = Apsavārtys lopys
 newtab-label-bookmarked = Saglobōts grōmotzemēs
+newtab-label-removed-bookmark = Grōmotzeime izdzāsta
 newtab-label-recommended = Populars
 newtab-label-saved = Saglobōts { -pocket-brand-name }
 newtab-label-download = Nūlōdeits
 
 ## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Aizvōkt sadaļu
@@ -116,6 +138,13 @@ newtab-section-menu-add-search-engine = Davīnōt mekleitōji
 newtab-section-menu-move-up = Porvītōt iz augšu
 newtab-section-menu-move-down = Porvītōt iz zamušku
 newtab-section-menu-privacy-notice = Privatuma pīzeime
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Sakļaut sadaļu
+newtab-section-expand-section-label =
+    .aria-label = Izstīpt sadaļu
 
 ## Section Headers.
 
@@ -133,10 +162,23 @@ newtab-empty-section-highlights = Sōc porlyukōšonu un mes tev parōdēsim da�
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Esi vysu izlasiejs. Īej vāļōk, kab redzēt vaira ziņu nu { $provider }. Nagribi gaidēt? Izavielej popularu tēmu, kab atrostu vaira interesantu rokstu nu vysa interneta.
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-header = Tu vysu izlasieji!
+newtab-discovery-empty-section-topstories-content = Pīkōp vāļōk, kab īraudzēt vaira rokstu.
+newtab-discovery-empty-section-topstories-try-again-button = Raugi vēļreiz
+newtab-discovery-empty-section-topstories-loading = Īlōdej…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Malns! Mes gondreiž īlōdēm itū sadaļu, bet na da gola.
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Popularas tēmas:
+newtab-pocket-more-recommendations = Vaira īsacejumu
+newtab-pocket-how-it-works = Kai tys strōdoj
+newtab-pocket-cta-button = Paraugi { -pocket-brand-name }
+newtab-pocket-cta-text = Sagloboj interesantus stōstus { -pocket-brand-name } un paboroj sovu prōtu ar interesantu losamvīlu.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

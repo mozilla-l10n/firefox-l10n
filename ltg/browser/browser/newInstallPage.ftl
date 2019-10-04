@@ -24,4 +24,5 @@ sync-input =
     .placeholder = E-posts
 sync-button = Iz prīšku
 sync-terms = Turpynojut tu pīkreiti <a data-l10n-name="terms">Lītōšonys nūsacejumim</a> un <a data-l10n-name="privacy">Privatuma pīzeimem</a>.
+sync-first = Raugi { -sync-brand-name } pyrmūreiz? Tev byus jōīzaroksta nu kotrys Firefox instalacejis, kab sinhronizēt vysus datus.
 sync-learn = Vaira
