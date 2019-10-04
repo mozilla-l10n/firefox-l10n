@@ -66,6 +66,8 @@ login-list-item-subtitle-missing-username = (žane wužiwarske mjeno)
 about-logins-list-item-warning-icon =
     .alt = Warnowanski symbol
     .title = Zranjene websydło
+about-logins-list-item-breach-icon =
+    .title = Zranjene websydło
 
 ## Introduction screen
 
