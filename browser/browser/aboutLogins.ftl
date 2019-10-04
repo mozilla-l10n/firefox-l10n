@@ -22,8 +22,6 @@ login-list-name-option = Nome (A-Z)
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nome d'usuariu
-login-item-username =
-    .placeholder = nome@example.com
 login-item-copy-username-button-text = Copiar
 login-item-copied-username-button-text = ¡Copióse!
 login-item-password-label = Contraseña
@@ -51,4 +49,7 @@ confirm-discard-changes-dialog-message = Van perdese tolos cambeos ensin guardar
 confirm-discard-changes-dialog-confirm-button = Escartar
 
 ## Breach Alert notification
+
+
+## Error Messages
 
