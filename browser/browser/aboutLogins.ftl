@@ -63,6 +63,8 @@ login-list-item-subtitle-missing-username = (ไม่มีชื่อผู�
 about-logins-list-item-warning-icon =
     .alt = ไอคอนคำเตือน
     .title = เว็บไซต์ที่มีการรั่วไหล
+about-logins-list-item-breach-icon =
+    .title = เว็บไซต์ที่มีการรั่วไหล
 
 ## Introduction screen
 
