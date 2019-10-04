@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (nagin num d'utilisader)
 about-logins-list-item-warning-icon =
     .alt = Icona d'avis
     .title = Website che ha pers datas
+about-logins-list-item-breach-icon =
+    .title = Website che ha pers datas
 
 ## Introduction screen
 
