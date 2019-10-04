@@ -5,7 +5,7 @@
 blocklist-window =
     .title = Block Lists
     .style = width: 50em
-blocklist-desc = You can choose which list { -brand-short-name } will use to block Web elements that may track your browsing activity.
+blocklist-description = Izavielej, kuru sarokstu { -brand-short-name } lītōs izsekōtōju bloķiešonai. Sarokstu pīdōvoj <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
 blocklist-treehead-list =
@@ -24,7 +24,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Disconnect.me pamota aizsardzeiba (īteiktais).
-blocklist-item-moz-std-desc = Allows some trackers so websites function properly.
-blocklist-item-moz-full-name = Disconnect.me styngrō aizsardzeiba.
-blocklist-item-moz-full-desc = Blocks known trackers. Some websites may not function properly.
+blocklist-item-moz-std-listName = 1. leimeņa bloķiešonys saroksts (īteicamais).
+blocklist-item-moz-std-description = Atļaut kaidus izsekōtōjus, kab mozōk lopu izavārtu "salyuzušs".
+blocklist-item-moz-full-listName = 2. leimeņa bloķiešonys saroksts.
+blocklist-item-moz-full-description = Bloķei vysus izsekōtōjus. Var byut, ka kaidys lopys navar pareizi īzalōdēt.
