@@ -158,11 +158,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Вхід виконано">
 <!ENTITY fxa.menu.manageAccount.label "Керувати обліковим записом…">
+<!ENTITY fxa.menu.syncSettings.label "Налаштування Синхронізації…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "Налаштування Синхронізації…">
+<!ENTITY fxa.menu.syncSettings2.label "Налаштування Синхронізації">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Під'єднати інший пристрій…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -175,6 +176,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Налаштування облікового запису">
 <!ENTITY fxa.menu.signOut.label "Вийти…">
 <!ENTITY fxa.menu.deviceSettings.label "Налаштування пристрою">
+<!ENTITY fxa.menu.setupSync.label "Налаштувати синхронізацію…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
