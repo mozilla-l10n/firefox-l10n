@@ -33,6 +33,6 @@
 <!ENTITY newToolbarCmd.label "ახალი">
 <!ENTITY newToolbarCmd.tooltip "ახალი გვერდის შექმნა">
 <!ENTITY openToolbarCmd.label "გახსნა">
-<!ENTITY openToolbarCmd.tooltip "ლოკალური ფაილის გახსნა">
+<!ENTITY openToolbarCmd.tooltip "ადგილობრივი ფაილის გახსნა">
 <!ENTITY saveToolbarCmd.tooltip "ფაილის შენახვა კომპიუტერში">
 <!ENTITY publishToolbarCmd.tooltip "ფაილის ატვირთვა გარე სერვერზე">
