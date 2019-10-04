@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (geen gebruikersnaam)
 about-logins-list-item-warning-icon =
     .alt = Waarschuwingspictogram
     .title = Getroffen website
+about-logins-list-item-breach-icon =
+    .title = Getroffen website
 
 ## Introduction screen
 
