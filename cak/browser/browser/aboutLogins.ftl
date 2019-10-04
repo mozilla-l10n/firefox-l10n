@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (majun rub'i' okisanel)
 about-logins-list-item-warning-icon =
     .alt = Ruwachib'al k'ayewal
     .title = Ajk'amaya'l ruxaq ojqan
+about-logins-list-item-breach-icon =
+    .title = Ajk'amaya'l ruxaq ojqan
 
 ## Introduction screen
 
