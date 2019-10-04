@@ -91,6 +91,8 @@ help-button =
 
 image-size-unknown = बाङ बाडायाक्
 not-set-verified-by = बाय गोटा आकाना.
+page-info-not-specified =
+    .value = बाय गोटा आकाना.
 not-set-alternative-text = बाय गोटा आकाना.
 not-set-date = बाय गोटा आकाना.
 media-img = चिता़र
@@ -113,6 +115,8 @@ general-quirks-mode =
 general-strict-mode =
     .value = बातावाक् सिका़र ओबोसता.
 security-no-owner = नोवा वेबसाइट मा़लिक तेयारोगाक् ला़य सोदोर बाय एम आकात् आ .
+page-info-security-no-owner =
+    .value = नोवा वेबसाइट मा़लिक तेयारोगाक् ला़य सोदोर बाय एम आकात् आ .
 media-select-folder = चिता़र को सांचाव ला़गित् मित् पोटोम बाछाव मे .
 media-unknown-not-cached =
     .value = बाङ बाडायाक्  (बाय साब आ )
