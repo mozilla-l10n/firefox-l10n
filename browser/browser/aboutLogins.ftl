@@ -63,6 +63,8 @@ login-list-item-subtitle-missing-username = (пайдаланушы аты жо�
 about-logins-list-item-warning-icon =
     .alt = Ескерту таңбашасы
     .title = Шабуылданған сайт
+about-logins-list-item-breach-icon =
+    .title = Шабуылданған сайт
 
 ## Introduction screen
 
