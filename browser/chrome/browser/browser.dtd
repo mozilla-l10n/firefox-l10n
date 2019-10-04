@@ -1017,7 +1017,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.learnMore "Saznajte više">
 
 <!ENTITY contentBlocking.breakageReportView.title "Prijavi neispravnu web stranicu">
-<!ENTITY contentBlocking.breakageReportView3.description "Blokiranje određenih pratitelja može uzrokovati probleme s nekim web stranicama. Prijavljivanjem ovih problema pomoći ćete unaprijediti &brandShortName; za sve korisnike. Slanjem ove prijave poslat ćete URL stranice, kao i informacije o postavkama preglednika Mozilli.">
+<!ENTITY contentBlocking.breakageReportView3.description "Blokiranje određenih programa za praćenje može uzrokovati probleme s nekim web stranicama. Prijavljivanjem ovih problema pomoći ćeš unaprijediti &brandShortName; za sve korisnike. Kad pošalješ ove prijavu, Mozilli ćeš poslati URL stranice i informacije o postavkama preglednika.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Saznajte više">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Kakve ste probleme imali? (Neobavezno)">
