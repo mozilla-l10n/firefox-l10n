@@ -644,7 +644,7 @@ sync-choose-what-to-sync-dialog =
     .buttonlabelextra2 = Afbryd…
     .buttonaccesskeyextra2 = A
 
-sync-choose-heading = Choose what to sync to your account for devices using { -sync-brand-short-name }:
+sync-choose-heading = Vælg hvad der skal synkroniseres til din konto for enheder, der bruger { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Bogmærker
     .accesskey = B
