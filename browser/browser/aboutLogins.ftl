@@ -31,6 +31,8 @@ login-list-item-subtitle-missing-username = (nisciun nomme utente)
 about-logins-list-item-warning-icon =
     .alt = Icöna avizo
     .title = Scito ch'o viola i dæti
+about-logins-list-item-breach-icon =
+    .title = Scito ch'o viola i dæti
 
 ## Introduction screen
 
