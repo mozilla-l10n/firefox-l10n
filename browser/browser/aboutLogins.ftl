@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (kein Benutzername)
 about-logins-list-item-warning-icon =
     .alt = Warnsymbol
     .title = Website mit Datenleck
+about-logins-list-item-breach-icon =
+    .title = Website mit Datenleck
 
 ## Introduction screen
 
