@@ -95,6 +95,7 @@
 <!ENTITY fxa.menu.signedInAs.label "Accesso effettuato come">
 <!ENTITY fxa.menu.manageAccount.label "Gestisci account…">
 <!ENTITY fxa.menu.syncSettings.label "Impostazioni di &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.syncSettings2.label "Impostazioni di &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Connetti un altro dispositivo…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 <!ENTITY fxa.menu.signin.label "Accedi a &brandProductName;">
@@ -105,6 +106,7 @@
 <!ENTITY fxa.menu.accountSettings.label "Impostazioni account">
 <!ENTITY fxa.menu.signOut.label "Disconnetti…">
 <!ENTITY fxa.menu.deviceSettings.label "Impostazioni dispositivo">
+<!ENTITY fxa.menu.setupSync.label "Configura &syncBrand.shortName.label;…">
 <!ENTITY fxa.service.sendTab.description "Invia immediatamente una scheda a qualsiasi dispositivo connesso al tuo account.">
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "è ora visualizzato a schermo intero">
