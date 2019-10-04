@@ -64,7 +64,7 @@ about-logins-list-item-warning-icon =
     .alt = 警告圖示
     .title = 網站發生過資料外洩事件
 about-logins-list-item-breach-icon =
-    .title = 網站發生過資料外洩事件
+    .title = 發生資料外洩事件的網站
 
 ## Introduction screen
 
