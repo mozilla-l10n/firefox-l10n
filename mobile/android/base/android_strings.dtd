@@ -216,7 +216,7 @@
 <!ENTITY pref_category_privacy_short "Privatnost">
 <!ENTITY pref_category_privacy_summary4 "Praćenje, prijave, izbori podataka">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "O &brandShortName;, često postavljana pitanja, povratne informacije">
+<!ENTITY pref_category_vendor_summary2 "&brandShortName; informacije, često postavljena pitanja, povratne informacije">
 <!ENTITY pref_category_datareporting "Izbori podataka">
 <!ENTITY pref_category_logins "Prijave">
 <!ENTITY pref_learn_more "Saznajte više">
@@ -434,7 +434,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY default_browser_system_settings_toast "Pritisni na preglednika i odaberi &brandShortName;">
 <!ENTITY pref_about_firefox "O &brandShortName;">
 <!ENTITY pref_vendor_faqs "Često postavljana pitanja">
-<!ENTITY pref_vendor_feedback "Dajte povratnu informaciju">
+<!ENTITY pref_vendor_feedback "Pošalji povratne informacije">
 
 <!ENTITY pref_dialog_set_default "Postavi kao zadano">
 <!ENTITY pref_dialog_default "Zadano">
