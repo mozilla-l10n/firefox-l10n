@@ -39,12 +39,13 @@ inactive-css-property-is-impossible-to-override-in-visited = Il es impossibile s
 
 inactive-css-not-grid-or-flex-container-fix = Prova a adder <strong>monstrar:grillia</strong> o <strong>monstrar:flex</strong>.{ learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Prova a adder o <strong>display:grid</strong>, <strong>display:flex</strong> o <strong>columnas:2</strong>. { learn-more }
-inactive-css-not-grid-or-flex-item-fix = Prova a adder <strong>monstrar:grillia</strong>, <strong>monstrar:flex</strong>, <strong>monstrar:grillia in linea</strong> o <strong>monstrar:flex in linea</strong>.{ learn-more }
-inactive-css-not-grid-item-fix = Prova a adder <strong>monstrar:grillia</strong> o <strong>monstrar:grillia in linea</strong> al genitor del elemento.{ learn-more }
+inactive-css-not-grid-or-flex-item-fix = Prova adder <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong>. </strong>{ learn-more }
+inactive-css-not-grid-item-fix = Prova adder <strong>display:grid</strong> o <strong>display:inline-grid</strong> al genitor del elemento. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-2 = Prova adder <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, o <strong>display:inline-flex</strong>.{ learn-more }
-inactive-css-not-grid-item-fix-2 = Prova a adder <strong>display:grid</strong> o <strong>display:inline-grid</strong> al genitor del elemento.{ learn-more }
-inactive-css-not-grid-container-fix = Prova a adder <strong>monstrar:grillia</strong> o <strong>monstrar:grillia in linea</strong>.{ learn-more }
+inactive-css-not-grid-item-fix-2 = Prova adder <strong>display:grid</strong> o <strong>display:inline-grid</strong> al genitor del elemento. { learn-more }
+inactive-css-not-grid-container-fix = Prova adder <strong>monstrar:grillia</strong> o <strong>monstrar:grillia in linea</strong>. { learn-more }
 inactive-css-not-flex-item-fix = Prova a adder <strong>monstrar:flex</strong> o <strong>monstrar:flex in linea</strong> al genitor del elemento. { learn-more }
+inactive-css-not-flex-item-fix-2 = Prova adder <strong>display:flex</strong> o <strong>display:inline-flex</strong> al genitor del elemento. { learn-more }
 inactive-css-not-flex-container-fix = Prova a adder <strong>monstrar:flex</strong> o <strong>monstrar:flex in linea</strong>. { learn-more }
 inactive-css-not-inline-or-tablecell-fix = Tenta adder <strong>display:inline</strong> o <strong>display:table-cell</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Prova a adder <strong>display:inline-block</strong> o <strong>display:block</strong>. { learn-more }
