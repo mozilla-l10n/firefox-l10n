@@ -14,8 +14,6 @@ select-all =
 menu-select-all =
     .label = Kgetha Tsohle
     .accesskey = T
-close-window =
-    .key = A
 general-title =
     .value = Thaetlele:
 general-url =
@@ -58,6 +56,8 @@ media-preview =
 
 image-size-unknown = Ha e tsejwe
 not-set-verified-by = Ha e a hlaloswa
+page-info-not-specified =
+    .value = Ha e a hlaloswa
 not-set-alternative-text = Ha e a hlaloswa
 not-set-date = Ha e a hlaloswa
 media-img = Setshwantsho
