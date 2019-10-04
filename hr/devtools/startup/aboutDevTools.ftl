@@ -40,8 +40,8 @@ features-responsive-title = Responzivni dizajn
 features-responsive-desc = Testiraj stranice na emuliranim uređajima u tvom pregledniku. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Vizualno uređivanje
 features-visual-editing-desc = Justiraj animacije, poravnanje i odmake. <a data-l10n-name="learn-more">{ features-learn-more }</a>
-features-performance-title = Brzina izvođenja
-features-performance-desc = Deblokiraj problematična mjesta, pojednostavni procese, optimiraj sredstva. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-performance-title = Performansa
+features-performance-desc = Deblokiraj problematična mjesta, pojednostavi procese, optimiraj sredstva. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-memory-title = Memorija
 features-memory-desc = Pronađi gubljenje memorije i ubrzaj aplikaciju. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:

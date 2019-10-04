@@ -115,13 +115,13 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
-<!ENTITY performanceUI.enableFramerate             "Snimi framerate">
-<!ENTITY performanceUI.enableFramerate.tooltiptext "Snimi framerate kod profiliranja.">
+<!ENTITY performanceUI.enableFramerate             "Snimi frekvenciju kadrova">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "Snimi frekvenciju kadrova pri profiliranju.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
-<!ENTITY performanceUI.console.recordingNoticeStart "Trenutno snimanje putem">
+<!ENTITY performanceUI.console.recordingNoticeStart "Trenutačno se snima putem">
 <!ENTITY performanceUI.console.recordingNoticeEnd   "">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.stopCommandStart/stopCommandEnd):
