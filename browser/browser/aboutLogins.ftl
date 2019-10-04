@@ -65,6 +65,8 @@ login-list-item-subtitle-missing-username = (nėra naudotojo vardo)
 about-logins-list-item-warning-icon =
     .alt = Įspėjimo piktograma
     .title = Pažeista svetainė
+about-logins-list-item-breach-icon =
+    .title = Pažeista svetainė
 
 ## Introduction screen
 
