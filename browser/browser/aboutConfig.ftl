@@ -14,6 +14,8 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Óvatosan haladjon tovább
+about-config-intro-warning-text = A speciális beállítások megváltoztatása befolyásolhatja a { -brand-short-name } teljesítményét vagy biztonságát.
+about-config-intro-warning-checkbox = Figyelmeztetés ezen beállítások elérése előtt
 about-config-intro-warning-button = Kockázat elfogadása és továbblépés
 
 
