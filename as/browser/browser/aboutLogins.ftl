@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = লগইন আৰু পাছৱৰ্ড
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
 login-filter =
     .placeholder = লগইনৰ সন্ধান কৰক
 create-login-button = নতুন লগইন সৃষ্টি কৰক
@@ -18,10 +21,6 @@ menu-menuitem-preferences =
         [windows] বিকল্পবোৰ
        *[other] অগ্ৰাধিকাৰ
     }
-menu-menuitem-feedback = সঁহাৰি পঠিয়াওঁক
-menu-menuitem-faq = সঘনে সোধা প্ৰশ্নবোৰ
-menu-menuitem-download-android = Android-ৰ বাবে Lockwise
-menu-menuitem-download-iphone = iPhone আৰু iPad-ৰ বাবে Lockwise
 
 ## Login List
 
@@ -40,6 +39,9 @@ login-list-item-title-new-login = নতুন লগইন
 login-list-item-subtitle-new-login = আপোনাৰ লগইন প্ৰত্যয়পত্ৰ প্ৰবিষ্ট কৰক
 login-list-item-subtitle-missing-username = (কোনো ব্যৱহাৰকাৰীনাম নাই)
 
+## Introduction screen
+
+
 ## Login
 
 login-item-new-login-title = নতুন লগইন সৃষ্টি কৰক
@@ -48,10 +50,7 @@ login-item-delete-button = বিলোপ
 login-item-origin-label = ৱেবছাইট ঠিকনা
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = ল'ঞ্চ কৰক
 login-item-username-label = ব্যৱহাৰকাৰীনাম
-login-item-username =
-    .placeholder = name@example.com
 login-item-copy-username-button-text = কপি কৰক
 login-item-copied-username-button-text = কপি কৰা হ'ল!
 login-item-password-label = পাছৱৰ্ড
@@ -74,9 +73,15 @@ master-password-notification-message = সঞ্চিত লগইন আৰু
 master-password-reload-button =
     .label = লগ ইন
     .accesskey = ল
+
+## Dialogs
+
 confirm-delete-dialog-title = এই লগইন বিলোপ কৰিবনে?
 confirm-delete-dialog-message = এই কাৰ্য্য পিছত পূৰ্বৰ দৰে কৰিব নোৱাৰি।
-confirm-delete-dialog-dismiss-button =
-    .title = বাতিল
-confirm-delete-dialog-cancel-button = বাতিল
 confirm-delete-dialog-confirm-button = বিলোপ
+
+## Breach Alert notification
+
+
+## Error Messages
+
