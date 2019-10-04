@@ -14,8 +14,6 @@ select-all =
 menu-select-all =
     .label = Khetha Koke
     .accesskey = K
-close-window =
-    .key = A
 general-title =
     .value = Isihloko:
 general-url =
@@ -58,6 +56,8 @@ media-preview =
 
 image-size-unknown = Akwaziwa
 not-set-verified-by = Akukatjhiwo
+page-info-not-specified =
+    .value = Akukatjhiwo
 not-set-alternative-text = Akukatjhiwo
 not-set-date = Akukatjhiwo
 media-img = Isithombe
