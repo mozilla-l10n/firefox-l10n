@@ -63,6 +63,8 @@ login-list-item-subtitle-missing-username = (không có tên người dùng)
 about-logins-list-item-warning-icon =
     .alt = Biểu tượng cảnh báo
     .title = Trang web bị rò rỉ
+about-logins-list-item-breach-icon =
+    .title = Trang web bị rò rỉ
 
 ## Introduction screen
 
