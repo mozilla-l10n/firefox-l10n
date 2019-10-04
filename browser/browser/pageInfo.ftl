@@ -112,6 +112,8 @@ help-button =
 
 image-size-unknown = Непозната
 not-set-verified-by = Неодредено
+page-info-not-specified =
+    .value = Неодредено
 not-set-alternative-text = Неодредено
 not-set-date = Неодредено
 media-img = Слика
@@ -134,6 +136,8 @@ general-quirks-mode =
 general-strict-mode =
     .value = Во согласност со стандардите
 security-no-owner = Ова мрежно место не доставува информации за сопственост
+page-info-security-no-owner =
+    .value = Ова мрежно место не доставува информации за сопственост
 media-select-folder = Одберете папка за снимање на слики
 media-unknown-not-cached =
     .value = Непознато (не е во кеш)
