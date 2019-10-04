@@ -87,8 +87,8 @@
 <!ENTITY lightning.imipbar.btnSend.tooltiptext                              "Pošalji odgovor organizatoru">
 <!ENTITY lightning.imipbar.btnSendSeries.tooltiptext                        "Pošalji odgovor za cijelu seriju organizatoru">
 <!ENTITY lightning.imipbar.btnDontSend.label                                "Nemoj slati odgovor">
-<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Izmijeni vaš status sudjelovanja bez slanja odgovora organizatoru">
-<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Izmijeni vaš status sudjelovanja za seriju bez slanja odgovora organizatoru">
+<!ENTITY lightning.imipbar.btnDontSend.tooltiptext                          "Promijeni svoj status sudjelovanja bez slanja odgovora organizatoru">
+<!ENTITY lightning.imipbar.btnDontSendSeries.tooltiptext                    "Promijeni svoj status sudjelovanja za seriju bez slanja odgovora organizatoru">
 
 <!-- Lightning specific keybindings -->
 <!ENTITY lightning.keys.event.showCalendar.key "C">
