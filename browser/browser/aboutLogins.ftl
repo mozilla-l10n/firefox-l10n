@@ -63,6 +63,8 @@ login-list-item-subtitle-missing-username = （无用户名）
 about-logins-list-item-warning-icon =
     .alt = 警告图标
     .title = 发生数据外泄的网站
+about-logins-list-item-breach-icon =
+    .title = 发生数据外泄的网站
 
 ## Introduction screen
 
