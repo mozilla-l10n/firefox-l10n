@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = लॉगिन और पासवर्ड
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
 login-filter =
     .placeholder = लॉगिन खोजें
 create-login-button = नई लॉगिन बनाएँ
@@ -18,10 +21,6 @@ menu-menuitem-preferences =
         [windows] विकल्प
        *[other] प्राथमिकताएँ
     }
-menu-menuitem-feedback = प्रतिक्रिया भेजें
-menu-menuitem-faq = अक्सर पूछे जाने वाले प्रश्न
-menu-menuitem-download-android = Android के लिए Lockwise
-menu-menuitem-download-iphone = iPhone और iPad के लिए Lockwise
 
 ## Login List
 
@@ -38,6 +37,9 @@ login-list-last-changed-option = अंतिम परिवर्तन
 login-list-item-title-new-login = नया लॉगिन
 login-list-item-subtitle-new-login = अपनी लॉगिन जानकारी दर्ज करें
 
+## Introduction screen
+
+
 ## Login
 
 login-item-new-login-title = नया लॉगिन बनाएं
@@ -46,10 +48,7 @@ login-item-delete-button = मिटाएं
 login-item-origin-label = वेबसाइट का पता
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = लॉन्च करें
 login-item-username-label = उपयोक्ता नाम
-login-item-username =
-    .placeholder = name@example.com
 login-item-copy-username-button-text = कॉपी करें
 login-item-copied-username-button-text = कॉपी हो गया!
 login-item-password-label = पासवर्ड
@@ -80,4 +79,7 @@ confirm-delete-dialog-message = इस क्रिया को पहले �
 confirm-delete-dialog-confirm-button = मिटाएं
 
 ## Breach Alert notification
+
+
+## Error Messages
 
