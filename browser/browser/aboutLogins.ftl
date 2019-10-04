@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (cap nom d'usuari)
 about-logins-list-item-warning-icon =
     .alt = Icona d'avís
     .title = Lloc web amb filtració de dades
+about-logins-list-item-breach-icon =
+    .title = Lloc web amb filtració de dades
 
 ## Introduction screen
 
