@@ -14,8 +14,6 @@ select-all =
 menu-select-all =
     .label = Hlawula hinkwaswo
     .accesskey = H
-close-window =
-    .key = A
 general-title =
     .value = Nhlokomhaka:
 general-url =
@@ -58,6 +56,8 @@ media-preview =
 
 image-size-unknown = A swi tiveki
 not-set-verified-by = A swi boxiwangi
+page-info-not-specified =
+    .value = A swi boxiwangi
 not-set-alternative-text = A swi boxiwangi
 not-set-date = A swi boxiwangi
 media-img = Xifaniso
