@@ -509,6 +509,11 @@ search-bar-shown =
     .label = Pridať na panel nástrojov vyhľadávací panel
 search-engine-default-header = Predvolený vyhľadávací modul
 search-engine-default-desc = Vyberte si predvolený vyhľadávací modul pre vyhľadávanie z panela s adresou a vyhľadávacieho panela.
+search-engine-default-private-desc = Vyberte si predvolený vyhľadávací modul pre vyhľadávanie v súkromných oknách.
+search-separate-default-engine =
+    .label = Použiť tento vyhľadávací modul v súkromných oknách
+    .accesskey = P
+search-suggestions-header = Návrhy vyhľadávania
 search-suggestions-option =
     .label = Zobrazovať návrhy vyhľadávania
     .accesskey = Z
@@ -558,6 +563,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Vezmite si svoj web so sebou
 sync-signedout-description = Synchronizujte si svoje záložky, históriu, karty, heslá, doplnky a nastavenia so všetkými svojimi zariadeniami.
 sync-signedout-account-title = Pripojte sa k službe { -fxaccount-brand-name }
@@ -578,11 +587,17 @@ sync-mobile-promo = Prevezmite si Firefox pre <img data-l10n-name="android-icon
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Zmeniť obrázok profilu
 sync-disconnect =
     .label = Odpojiť…
     .accesskey = d
+sync-sign-out =
+    .label = Odhlásiť sa…
+    .accesskey = h
 sync-manage-account = Spravovať účet
     .accesskey = p
 sync-signedin-unverified = Adresa { $email } nie je overená.
@@ -598,6 +613,38 @@ sync-sign-in =
     .accesskey = i
 sync-signedin-settings-header = Nastavenia synchronizácie
 sync-signedin-settings-desc = Vyberte, čo má aplikácia { -brand-short-name } na vašich zariadeniach synchronizovať.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Synchronizácia je zapnutá
+prefs-syncing-off = Synchronizácia je vypnutá
+prefs-sync-setup =
+    .label = Nastaviť { -sync-brand-short-name }…
+    .accesskey = N
+prefs-sync-offer-setup-label = Synchronizujte si svoje záložky, históriu, karty, heslá, doplnky a nastavenia so všetkými svojimi zariadeniami.
+prefs-sync-now =
+    .labelnotsyncing = Synchronizovať
+    .accesskeynotsyncing = n
+    .labelsyncing = Synchronizácia…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = Máte zapnutú synchronizáciu týchto položiek:
+sync-currently-syncing-bookmarks = Záložky
+sync-currently-syncing-history = História
+sync-currently-syncing-tabs = Otvorené karty
+sync-currently-syncing-logins-passwords = Prihlasovacie údaje
+sync-currently-syncing-addresses = Adresy
+sync-currently-syncing-creditcards = Platobné karty
+sync-currently-syncing-addons = Doplnky
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Možnosti
+       *[other] Možnosti
+    }
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Záložky
     .accesskey = Z
@@ -611,6 +658,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = Prihlasovacie údaje
     .tooltiptext = Uložené používateľské mená a heslá
+    .accesskey = l
+sync-engine-logins-passwords =
+    .label = Prihlasovacie údaje
+    .tooltiptext = Prihlasovacie údaje, ktoré ste uložili
     .accesskey = l
 sync-engine-addresses =
     .label = Adresy
@@ -632,6 +683,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Možnosti v sekciách Všeobecné, Súkromie a bezpečnosť, ktoré boli zmenené
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Názov zariadenia
 sync-device-name-change =
     .label = Zmeniť názov zariadenia…
@@ -749,6 +803,8 @@ sitedata-block-desc = Blokovať
     .accesskey = l
 sitedata-option-block-trackers =
     .label = Sledovacie prvky tretích strán
+sitedata-option-block-cross-site-trackers =
+    .label = Sledovacie prvky
 sitedata-option-block-unvisited =
     .label = Cookies z doposiaľ nenavštívených stránok
 sitedata-option-block-all-third-party =

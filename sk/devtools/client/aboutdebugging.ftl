@@ -246,3 +246,5 @@ about-debugging-message-close-icon =
 about-debugging-message-details-label-error = Podrobnosti o chybe
 # Label text used for the warning details of message component.
 about-debugging-message-details-label-warning = Podrobnosti o varovaní
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Podrobnosti
