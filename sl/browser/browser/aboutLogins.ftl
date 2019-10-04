@@ -63,6 +63,11 @@ about-logins-login-list-empty-search-description = Ni rezultatov, ki bi ustrezal
 login-list-item-title-new-login = Nova prijava
 login-list-item-subtitle-new-login = Vnesite podatke za prijavo
 login-list-item-subtitle-missing-username = (ni uporabniškega imena)
+about-logins-list-item-warning-icon =
+    .alt = Ikona opozorila
+    .title = Ogrožena spletna stran
+about-logins-list-item-breach-icon =
+    .title = Ogrožena spletna stran
 
 ## Introduction screen
 

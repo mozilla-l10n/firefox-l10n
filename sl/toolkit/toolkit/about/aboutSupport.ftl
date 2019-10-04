@@ -35,6 +35,8 @@ app-basics-name = Ime
 app-basics-version = Različica
 app-basics-build-id = ID gradnje
 app-basics-update-channel = Posodobitveni kanal
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Posodobi mapo
@@ -59,7 +61,6 @@ app-basics-service-workers = Registrirani Service Workerji
 app-basics-profiles = Profili
 app-basics-launcher-process-status = Proces zaganjača
 app-basics-multi-process-support = Večprocesna okna
-app-basics-process-count = Procesi spletne vsebine
 app-basics-remote-processes-count = Oddaljeni procesi
 app-basics-enterprise-policies = Pravilniki za podjetja
 app-basics-location-service-key-google = Ključ lokacijskih storitev Google
@@ -115,6 +116,13 @@ sandbox-sys-call-number = Sistemski klic
 sandbox-sys-call-args = Argumenti
 safe-mode-title = Poskusite varni način
 restart-in-safe-mode-label = Ponovno zaženi z onemogočenimi dodatki …
+
+## Media titles
+
+audio-backend = Zvočno zaledje
+max-audio-channels = Največje število kanalov
+channel-layout = Prednostna razporeditev kanalov
+sample-rate = Prednostna hitrost vzorčenja
 media-title = Predstavnost
 media-output-devices-title = Izhodne naprave
 media-input-devices-title = Vhodne naprave
@@ -127,6 +135,12 @@ media-device-format = Oblika
 media-device-channels = Kanali
 media-device-rate = Hitrost
 media-device-latency = Zakasnitev
+media-capabilities-title = Zmogljivosti večpredstavnosti
+# List all the entries of the database.
+media-capabilities-enumerate = Oštevilči bazo podatkov
+
+
+
 intl-title = Jeziki in lokalizacija
 intl-app-title = Nastavitve programa
 intl-locales-requested = Zahtevani jeziki
@@ -251,12 +265,7 @@ uses-tiling = Uporablja razpostavljanje
 content-uses-tiling = Uporablja razpostavljanje (vsebina)
 off-main-thread-paint-enabled = Izrisovanje izven glavne niti je omogočeno
 off-main-thread-paint-worker-count = Število workerjev za izrisovanje izven glavne niti
-low-end-machine = Zaznana manj zmogljiva naprava
 target-frame-rate = Ciljna hitrost sličic
-audio-backend = Zvočno zaledje
-max-audio-channels = Največje število kanalov
-channel-layout = Prednostna razporeditev kanalov
-sample-rate = Prednostna hitrost vzorčenja
 min-lib-versions = Najnižja podprta različica
 loaded-lib-versions = Trenutna različica
 has-seccomp-bpf = Seccomp-BPF (Filtriranje sistemskih klicev)

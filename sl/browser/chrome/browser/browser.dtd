@@ -158,11 +158,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Prijavljen kot">
 <!ENTITY fxa.menu.manageAccount.label "Upravljanje računa …">
+<!ENTITY fxa.menu.syncSettings.label "Nastavitve &syncBrand.shortName.label;a …">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "Nastavitve &syncBrand.shortName.label;a …">
+<!ENTITY fxa.menu.syncSettings2.label "Nastavitve &syncBrand.shortName.label;a">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Poveži drugo napravo …">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -854,6 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Prijave, ki jih vnesete na tej strani, so lahko ogrožene.">
 <!ENTITY identity.customRoot "Povezavo je preveril izdajatelj digitalnega potrdila, ki ga Mozilla ne prepozna.">
 
+<!ENTITY identity.evOwnerLabel2 "Potrdilo izdano:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; je zavrnil dele strani, ki niso varni.">

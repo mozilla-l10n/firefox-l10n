@@ -226,5 +226,9 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Videti je, da to povzročajo omrežne nastavitve. Ali želite obnoviti privzete nastavitve?">
 <!ENTITY prefReset.label "Obnovi privzete nastavitve">
 
+<!ENTITY enableTls10.longDesc "To spletno mesto ne podpira protokola TLS 1.2, ki je najnižja različica, podprta v &brandShortName;u. Če omogočite TLS 1.0 in 1.1, bo povezava morda uspela.">
+<!ENTITY enableTls10.note "TLS 1.0 in TLS 1.1 bosta v prihodnji izdaji trajno onemogočena.">
+<!ENTITY enableTls10.label "Omogoči TLS 1.0 in 1.1">
+
 <!ENTITY networkProtocolError.title "Napaka omrežnega protokola">
 <!ENTITY networkProtocolError.longDesc "<p>Strani, ki si jo poskušate ogledati, ni mogoče prikazati, ker je bila zaznana napaka omrežnega protokola.</p><ul><li>O napaki obvestite lastnike spletne strani.</li></ul>">
