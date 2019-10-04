@@ -33,7 +33,7 @@ features-console-desc = Prati CSS, JavaScript, sigurnosne i mrežne probleme. <a
 features-debugger-title = Ispravljač grešaka
 features-debugger-desc = Moćan JavaScript ispravljač grešaka s podrškom za tvoje radno okruđenje. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-network-title = Mreža
-features-network-desc = Nadgledaj mrežne zahtjeve koji mogu usporiti ili blokirati tvoju stranicu. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-network-desc = Pregledaj mrežne zahtjeve koji mogu usporiti ili blokirati tvoju stranicu. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Spremište
 features-storage-desc = Dodaj, mijenjaj i ukloni predmemoriju, kolačiće, baze podataka i podatke sesija. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-responsive-title = Responzivni dizajn
