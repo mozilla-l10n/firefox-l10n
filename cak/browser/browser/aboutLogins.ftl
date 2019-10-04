@@ -65,7 +65,7 @@ about-logins-list-item-warning-icon =
     .alt = Ruwachib'al k'ayewal
     .title = Ajk'amaya'l ruxaq ojqan
 about-logins-list-item-breach-icon =
-    .title = Ajk'amaya'l ruxaq ojqan
+    .title = Tz'ilan Ajk'amaya'l taq Ruxaq
 
 ## Introduction screen
 
@@ -147,5 +147,10 @@ breach-alert-dismiss =
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login = K'o chik jun rokem { $loginTitle } rik'in ri b'i'aj ri'.
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = K'o chik jun okib'äl richin { $loginTitle } rik'in ri rub'i' winäq ri'. <a data-l10n-name="duplicate-link">¿La nawajo' yab'e pa ri okib'äl ri'?</a>
 # This is a generic error message.
 about-logins-error-message-default = Xk'ulwachitäj jun sachoj toq niyak re ewan tzij.
