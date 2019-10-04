@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (kasutajanime pole)
 about-logins-list-item-warning-icon =
     .alt = Hoiatusikoon
     .title = Kasutajatunnused lekitanud sait
+about-logins-list-item-breach-icon =
+    .title = Kasutajatunnused lekitanud sait
 
 ## Introduction screen
 
