@@ -60,6 +60,8 @@ login-list-item-subtitle-missing-username = (ei käyttäjätunnusta)
 about-logins-list-item-warning-icon =
     .alt = Varoituskuvake
     .title = Tietovuodon kokenut sivusto
+about-logins-list-item-breach-icon =
+    .title = Tietovuodon kokenut sivusto
 
 ## Introduction screen
 
