@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (walang username)
 about-logins-list-item-warning-icon =
     .alt = Babalang icon
     .title = Breached website
+about-logins-list-item-breach-icon =
+    .title = Breached website
 
 ## Introduction screen
 
