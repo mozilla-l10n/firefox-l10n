@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = Credenciais e palavras-passe
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
 login-filter =
     .placeholder = Pesquisar credenciais
 create-login-button = Criar nova credencial
@@ -27,8 +30,6 @@ menu-menuitem-preferences =
         [windows] Opções
        *[other] Preferências
     }
-menu-menuitem-feedback = Enviar feedback
-menu-menuitem-faq = Perguntas frequentes
 menu-menuitem-android-app = { -lockwise-brand-short-name } para Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } para iPhone e iPad
 
@@ -51,7 +52,6 @@ login-list-item-subtitle-missing-username = (sem nome de utilizador)
 
 ## Introduction screen
 
-login-intro-instruction-faq = Visite { -lockwise-brand-short-name } <a data-l10n-name="faq">perguntas frequentes</a> para mais ajuda
 
 ## Login
 
@@ -61,10 +61,7 @@ login-item-delete-button = Apagar
 login-item-origin-label = Endereço do website
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Iniciar
 login-item-username-label = Nome de utilizador
-login-item-username =
-    .placeholder = nome@example.com
 login-item-copy-username-button-text = Copiar
 login-item-copied-username-button-text = Copiado!
 login-item-password-label = Palavra-passe
@@ -110,3 +107,6 @@ confirm-discard-changes-dialog-confirm-button = Descartar
 ## Breach Alert notification
 
 breach-alert-link = Saber mais acerca desta brecha.
+
+## Error Messages
+
