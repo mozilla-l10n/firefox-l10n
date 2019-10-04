@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Armazenamento
 site-data-column-last-used =
     .label = Último uso
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (arquivo local)
 site-data-remove-selected =
     .label = Remover selecionados
     .accesskey = r
