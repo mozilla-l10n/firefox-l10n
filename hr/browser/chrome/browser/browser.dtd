@@ -158,11 +158,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Prijavljen kao">
 <!ENTITY fxa.menu.manageAccount.label "Upravljanje računom…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; mogućnosti…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; mogućnosti…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Poveži novi uređaj…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -936,20 +936,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Zašto?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokiranjem ovih elemenata mogu se pokvariti elementi nekih web stranica. Bez pratitelja, neki gumbi, obrasci i polja za prijavu možda neće funkcionirati.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Isključivanjem zaštita ćete omogućiti sve pratitelje na ovoj stranici. Možda može poboljšati neke funkcije web stranice.">
-<!ENTITY protections.socialMediaTrackers.label "Pratitelji društvenih mreža">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokiranjem ovih elemenata mogu se pokvariti elementi nekih web stranica. Bez programa za praćenje, neki gumbi, obrasci i polja za prijavu možda neće funkcionirati.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Isključivanjem zaštita ćeš omogućiti sve programe za praćenje na ovoj stranici. Možda će poboljšati neke funkcije web stranice.">
+<!ENTITY protections.socialMediaTrackers.label "Programi za praćenje društvenih mreža">
 <!ENTITY protections.crossSiteTrackingCookies.label "Kolačići za praćenje između različitih stranica">
 <!ENTITY protections.trackingContent.label "Sadržaj za praćenje">
 <!ENTITY protections.fingerprinters.label "Jedinstveni otisci">
 <!ENTITY protections.cryptominers.label "Kripto rudari">
-<!ENTITY protections.noTrackersFound.description "Nisu otkriveni pratitelji poznati &brandShortName;u na ovoj stranici.">
+<!ENTITY protections.noTrackersFound.description "Programi za praćenje koji su poznati &brandShortName;u nisu otkriveni na ovoj stranici.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Ovi kolačići vas prate od stranice do stranice i prikupljaju podatke o tome što radite na Internetu. Postavljeni su od trećih strana kao što su oglašivači i analitičke tvrtke.">
 <!ENTITY protections.cryptominers.description "Krupto rudari koriste računalnu snagu vašeg sustava kako bi rudarili digitalni novac. Skripte za kripto rudarenje troše bateriju, usporavaju računalo i povećavaju račun za struju.">
 <!ENTITY protections.fingerprinters.description "Jedinstveni otisci prikupljaju postavke vašeg preglednika i računala kako bi stvorili vaš jedinstveni profil. Koristeći ovaj digitali otisak prsta, mogu vas pratiti diljem različitih web stranica.">
 <!ENTITY protections.trackingContent2.description "Web stranice mogu učitati vanjske reklame, video materijal i drugi sadržaj koji sadržava kȏd za praćenje. Blokiranje praćenja sadržaja može ubrzati učitavanje stranica, ali neke tipke, obrasci ili polja za prijavu možda neće raditi.">
-<!ENTITY protections.socialMediaTrackers.description "Društvene mreže postavljaju pratitelje na druge web stranice kako bi pratili što radite, pregledavate i vidite na Internetu. Ovo omogućava tvrtkama iza društvenih mreža da saznaju više o vama od onoga što dijelite na svom profilu.">
+<!ENTITY protections.socialMediaTrackers.description "Društvene mreže postavljaju programe za praćenje na druge web stranice kako bi pratili što radiš, pregledavaš i vidiš na Internetu. Ovo omogućava tvrtkama društvenih mreža o tebi saznati više od onoga što dijeliš na svom profilu.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -985,13 +985,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.detected "Sadržaj koji se može blokirati je otkriven na ovoj stranici.">
 <!ENTITY contentBlocking.notDetected "Na ovoj stranici nije otkriven sadržaj koji se može blokirati.">
 
-<!ENTITY contentBlocking.trackingProtection3.label "Pratitelji">
+<!ENTITY contentBlocking.trackingProtection3.label "Programi za praćenje">
 
 <!ENTITY contentBlocking.manageSettings.label "Upravljajte blokiranjem sadržaja">
 <!ENTITY contentBlocking.manageSettings.accesskey "U">
 
-<!ENTITY contentBlocking.trackersView.label "Pratitelji">
-<!ENTITY contentBlocking.trackersView.strictInfo.label "Za blokiranje svih pratitelja, postavite blokiranje sadržaja na “Strogo”.">
+<!ENTITY contentBlocking.trackersView.label "Programi za praćenje">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Za blokiranje svih programa za praćenje, postavi blokiranje sadržaja na „Strogo”.">
 
 <!ENTITY contentBlocking.cookies.label "Kolačići">
 <!ENTITY contentBlocking.cookiesView.label "Kolačići i podaci stranica">
@@ -1001,7 +1001,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.label "Upravljanje postavkama za zaštitu">
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
-<!ENTITY contentBlocking.socialblock.label "Pratitelji društvenih mreža">
+<!ENTITY contentBlocking.socialblock.label "Programi za praćenje društvenih mreža">
 
 <!ENTITY contentBlocking.cookies2.label "Kolačići za praćenje među web lokacijama">
 
