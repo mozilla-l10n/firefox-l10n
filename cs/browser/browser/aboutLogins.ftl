@@ -67,6 +67,8 @@ login-list-item-subtitle-missing-username = (žádné uživatelské jméno)
 about-logins-list-item-warning-icon =
     .alt = Varovná ikona
     .title = Na tomto serveru došlo k úniku dat
+about-logins-list-item-breach-icon =
+    .title = Na tomto serveru došlo k úniku dat
 
 ## Introduction screen
 
