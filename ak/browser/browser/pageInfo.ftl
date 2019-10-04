@@ -99,6 +99,8 @@ help-button =
 
 image-size-unknown = Nnim
 not-set-verified-by = Wɔmmpawee
+page-info-not-specified =
+    .value = Wɔmmpawee
 not-set-alternative-text = Wɔmmpawee
 not-set-date = Wɔmmpawee
 media-img = Mfonin
