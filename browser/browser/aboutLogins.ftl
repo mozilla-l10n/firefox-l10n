@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (nincs felhasználónév)
 about-logins-list-item-warning-icon =
     .alt = Figyelmeztetés ikon
     .title = Adatsértésben érintett weboldal
+about-logins-list-item-breach-icon =
+    .title = Adatsértésben érintett weboldal
 
 ## Introduction screen
 
