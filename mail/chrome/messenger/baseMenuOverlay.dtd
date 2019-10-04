@@ -15,19 +15,6 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "j">
 <!ENTITY helpSafeMode.label     "Ponovno pokreni s isključenim dodacima…">
 <!ENTITY helpSafeMode.accesskey "r">
-<!ENTITY releaseCmd2.label "Bilješke o izdanju">
-<!ENTITY releaseCmd2.accesskey "B">
-<!ENTITY whatsNewCmd.label "Što je novo">
-<!ENTITY whatsNewCmd.accesskey "t">
-<!ENTITY openHelp.label "Sadržaj pomoći">
-<!ENTITY openHelp.accesskey "d">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "&brandFullName; pomoć">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
-
-<!ENTITY aboutMenuCmd2.label "O &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "O">
 <!ENTITY helpSafeMode.stop.label     "Ponovno pokreni s uključenim dodacima">
 <!ENTITY helpSafeMode.stop.accesskey "r">
 <!ENTITY productHelp.label "&brandShortName; pomoć">
@@ -39,7 +26,7 @@
 <!ENTITY helpKeyboardShortcuts.label "Tipkovničke kratice">
 <!ENTITY helpKeyboardShortcuts.accesskey "k">
 
-<!ENTITY helpFeedbackPage.label "Pošalji povratne informacije…">
+<!ENTITY helpFeedbackPage.label "Pošalji povratne informacije …">
 <!ENTITY helpFeedbackPage.accesskey "P">
 
 <!ENTITY helpShowTour2.label "&brandShorterName; vodič">
