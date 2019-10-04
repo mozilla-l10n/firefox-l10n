@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (Ye'l ib'ii u b'anb'en tetze')
 about-logins-list-item-warning-icon =
     .alt = Nachb'al aama ta'n u icono
     .title = Atinb'al uva' kat kuxh okeb'eli
+about-logins-list-item-breach-icon =
+    .title = Atinb'al uva' kat kuxh okeb'eli
 
 ## Introduction screen
 
