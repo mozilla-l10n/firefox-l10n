@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = लॉगिन व संकेतशब्द
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
 login-filter =
     .placeholder = लॉगिन शोधा
 create-login-button = नविन लॉगिन बनवा
@@ -19,8 +22,6 @@ menu-menuitem-preferences =
         [windows] पर्याय
        *[other] प्राधान्ये
     }
-menu-menuitem-feedback = अभिप्राय पाठवा
-menu-menuitem-faq = वारंवार विचारलेले प्रश्न
 menu-menuitem-android-app = { -lockwise-brand-short-name } Android साठी
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } iPhone and iPad साठी
 
@@ -53,10 +54,7 @@ login-item-delete-button = काढून टाका
 login-item-origin-label = संकेतस्थळ पत्ता
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = लाँच करा
 login-item-username-label = वापरकर्तानाव
-login-item-username =
-    .placeholder = name@example.com
 login-item-copy-username-button-text = प्रत बनवा
 login-item-copied-username-button-text = प्रत बनवली!
 login-item-password-label = संकेतशब्द
@@ -93,3 +91,6 @@ confirm-discard-changes-dialog-confirm-button = रद्द करा
 ## Breach Alert notification
 
 breach-alert-link = या उल्लंघनाबद्दल अधिक जाणून घ्या.
+
+## Error Messages
+
