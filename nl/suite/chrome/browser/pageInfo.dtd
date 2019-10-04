@@ -24,6 +24,7 @@
 
 <!ENTITY  generalTab            "Algemeen">
 <!ENTITY  generalTab.accesskey  "A">
+<!ENTITY  generalTitle          "Titel:">
 <!ENTITY  generalURL            "Adres:">
 <!ENTITY  generalType           "Type:">
 <!ENTITY  generalMode           "Rendermodus:">
@@ -112,6 +113,8 @@
 <!ENTITY  securityView.identity.owner    "Eigenaar:">
 <!ENTITY  securityView.identity.domain   "Website:">
 <!ENTITY  securityView.identity.verifier "Geverifieerd door:">
+
+<!ENTITY  securityView.identity.validity "Verloopt op:">
 
 <!ENTITY  securityView.privacy.header                   "Privacy &amp; geschiedenis">
 <!ENTITY  securityView.privacy.history                  "Heb ik deze website eerder dan vandaag bezocht?">
