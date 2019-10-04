@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = საცავი
 site-data-column-last-used =
     .label = ბოლოს გამოყენებული
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (ადგილობრივი ფაილი)
 site-data-remove-selected =
     .label = მონიშნულის წაშლა
     .accesskey = წ
@@ -28,11 +30,6 @@ site-data-button-cancel =
 site-data-button-save =
     .label = ცვლილებების შენახვა
     .accesskey = ც
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (მუდმივი მეხსიერება)
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
