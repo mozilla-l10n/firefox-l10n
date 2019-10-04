@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (gjin brûkersnamme)
 about-logins-list-item-warning-icon =
     .alt = Warskôgingspiktogram
     .title = Troffen website
+about-logins-list-item-breach-icon =
+    .title = Troffen website
 
 ## Introduction screen
 
