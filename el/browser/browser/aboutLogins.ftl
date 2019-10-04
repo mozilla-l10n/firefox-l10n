@@ -60,6 +60,8 @@ login-list-item-subtitle-missing-username = (χωρίς όνομα χρήστη)
 about-logins-list-item-warning-icon =
     .alt = Εικονίδιο προειδοποίησης
     .title = Παραβιασμένη ιστοσελίδα
+about-logins-list-item-breach-icon =
+    .title = Παραβιασμένη ιστοσελίδα
 
 ## Introduction screen
 
