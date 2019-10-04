@@ -109,6 +109,8 @@ help-button =
 
 image-size-unknown = अज्ञात
 not-set-verified-by = निर्दिष्ट नहि
+page-info-not-specified =
+    .value = निर्दिष्ट नहि
 not-set-alternative-text = निर्दिष्ट नहि
 not-set-date = निर्दिष्ट नहि
 media-img = छवि
