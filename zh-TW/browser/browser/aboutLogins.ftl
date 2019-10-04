@@ -63,6 +63,8 @@ login-list-item-subtitle-missing-username = （無使用者名稱）
 about-logins-list-item-warning-icon =
     .alt = 警告圖示
     .title = 網站發生過資料外洩事件
+about-logins-list-item-breach-icon =
+    .title = 網站發生過資料外洩事件
 
 ## Introduction screen
 
