@@ -14,8 +14,6 @@ select-all =
 menu-select-all =
     .label = Nangani Dzothe
     .accesskey = D
-close-window =
-    .key = A
 general-title =
     .value = Thoho:
 general-url =
@@ -58,6 +56,8 @@ media-preview =
 
 image-size-unknown = I sa Ḓivhei
 not-set-verified-by = I Songo Bulwaho
+page-info-not-specified =
+    .value = I Songo Bulwaho
 not-set-alternative-text = I Songo Bulwaho
 not-set-date = I Songo Bulwaho
 media-img = Tshivhumbeo
