@@ -65,6 +65,8 @@ login-list-item-subtitle-missing-username = (nav lītōtōja vōrda)
 about-logins-list-item-warning-icon =
     .alt = Breidynojuma ikona
     .title = Uzlauztō lopa
+about-logins-list-item-breach-icon =
+    .title = Uzlauztō lopa
 
 ## Introduction screen
 
