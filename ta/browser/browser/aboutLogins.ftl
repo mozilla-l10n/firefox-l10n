@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logins-page-title = புகுபதிகைககளும் கடவுச்சொற்களும்
+
+# "Google Play" and "App Store" are both branding and should not be translated
+
 login-filter =
     .placeholder = புகுபதிகைகளைத் தேடு
 create-login-button = புதிய புகுபதிகையை உருவாக்கு
@@ -20,8 +23,6 @@ menu-menuitem-preferences =
         [windows] விருப்பங்கள்
        *[other] முன்னுரிமைகள்
     }
-menu-menuitem-feedback = பின்னூட்டம் அனுப்பு
-menu-menuitem-faq = அடிக்கடி கேட்கப்படும் கேள்விகள் (அகேகே)
 menu-menuitem-android-app = ஆண்ட்ராய்டிற்கான { -lockwise-brand-short-name }
 menu-menuitem-iphone-app = ஐபோன் மற்றம் ஐபேட்டுக்கான { -lockwise-brand-short-name }
 
@@ -55,10 +56,7 @@ login-item-delete-button = அழி
 login-item-origin-label = வலைத்தள முகவரி
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = வெளியீடு
 login-item-username-label = பயனர்பெயர்
-login-item-username =
-    .placeholder = name@example.com
 login-item-copy-username-button-text = நகலெடு
 login-item-copied-username-button-text = நகலெடுக்கப்பட்டது!
 login-item-password-label = கடவுச்சொல்
@@ -105,3 +103,6 @@ confirm-discard-changes-dialog-confirm-button = நிராகரி
 
 breach-alert-text = உங்கள் உள்நுழைவு விவரங்களைக் கடைசியாகப் புதுப்பித்ததிலிருந்து இந்த வலைத்தளத்திலிருந்து கடவுச்சொற்கள் கசிந்தன அல்லது திருடப்பட்டன. உங்கள் கணக்கைப் பாதுகாக்க கடவுச்சொல்லை மாற்றவும்.
 breach-alert-link = இந்த மீறல்பற்றி மேலும் அறிக.
+
+## Error Messages
+
