@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (ବ୍ୟବହାରକାରୀ �
 about-logins-list-item-warning-icon =
     .alt = ଚେତାବନୀ ଆଇକନ
     .title = ସଂକ୍ରମିତ ୱେବସାଇଟ
+about-logins-list-item-breach-icon =
+    .title = ସଂକ୍ରମିତ ୱେବସାଇଟ
 
 ## Introduction screen
 
