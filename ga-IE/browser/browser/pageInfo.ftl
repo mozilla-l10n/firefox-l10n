@@ -109,6 +109,8 @@ help-button =
 
 image-size-unknown = Anaithnid
 not-set-verified-by = Gan sonrú
+page-info-not-specified =
+    .value = Gan sonrú
 not-set-alternative-text = Gan sonrú
 not-set-date = Gan sonrú
 media-img = Íomhá
