@@ -101,6 +101,8 @@ help-button =
 
 image-size-unknown = Nenas
 not-set-verified-by = Nehatiye diyarkirin
+page-info-not-specified =
+    .value = Nehatiye diyarkirin
 not-set-alternative-text = Nehatiye diyarkirin
 not-set-date = Nehatiye diyarkirin
 media-img = Wêne
