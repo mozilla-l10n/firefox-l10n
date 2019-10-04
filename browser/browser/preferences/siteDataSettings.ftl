@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = אחסון
 site-data-column-last-used =
     .label = בשימוש לאחרונה
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (קובץ מקומי)
 site-data-remove-selected =
     .label = הסרת פריטים נבחרים
     .accesskey = פ
@@ -28,11 +30,6 @@ site-data-button-cancel =
 site-data-button-save =
     .label = שמירת שינויים
     .accesskey = ש
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (קבוע)
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
