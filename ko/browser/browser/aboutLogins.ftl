@@ -63,6 +63,8 @@ login-list-item-subtitle-missing-username = (사용자 이름 없음)
 about-logins-list-item-warning-icon =
     .alt = 경고 아이콘
     .title = 유출된 웹 사이트
+about-logins-list-item-breach-icon =
+    .title = 유출된 웹 사이트
 
 ## Introduction screen
 
