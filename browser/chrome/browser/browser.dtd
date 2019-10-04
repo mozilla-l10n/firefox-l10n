@@ -148,7 +148,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "Sjekk e-posten din">
 <!ENTITY fxa.unverified.description.label "Du må bekrefte kontoen din før du kan synkronisere.">
-<!ENTITY fxa.unverified.button.label "Åpne &syncBrand.shortName.label;-innstillinger">
+<!ENTITY fxa.unverified.button.label "Åpne &syncBrand.shortName.label;-innstillinger…">
 
 <!ENTITY pictureInPictureHideToggle.label "Skjul bilde-i-bilde-veksleknapp">
 <!ENTITY pictureInPictureHideToggle.accesskey "S">
@@ -158,11 +158,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Logget inn som">
 <!ENTITY fxa.menu.manageAccount.label "Behandle konto…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;-innstillinger…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;-innstillinger">
+<!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label;-innstillinger">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Koble til en annen enhet…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
