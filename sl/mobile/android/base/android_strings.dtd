@@ -29,6 +29,7 @@
 <!ENTITY updatednewfirstrun_sync_subtext "Prijavite se v svoj račun, da boste kar najbolje izkoristili &brandShortName;">
 <!ENTITY firstrun_signin_message "Povežite se in začnite">
 <!ENTITY firstrun_sendtab_title "Pošlji zavihek">
+<!ENTITY firstrun_sendtab_message "Pošljite zavihke z mobilne naprave na računalnik – v trenutku.">
 <!ENTITY firstrun_signin_button "Prijava v Sync">
 <!ENTITY newfirstrun_signin_button "Vklopi Sync">
 <!ENTITY updatednewfirstrun_signin_button "Prijava v &brandShortName;">
