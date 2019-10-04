@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (sem nome de usuário)
 about-logins-list-item-warning-icon =
     .alt = Ícone de alerta
     .title = Site vazado
+about-logins-list-item-breach-icon =
+    .title = Site vazado
 
 ## Introduction screen
 
