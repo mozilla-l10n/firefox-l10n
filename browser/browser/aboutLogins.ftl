@@ -22,8 +22,6 @@ login-list-item-subtitle-missing-username = (без потребителско �
 
 ## Login
 
-login-item-username =
-    .placeholder = name@example.com
 
 ## Master Password notification
 
