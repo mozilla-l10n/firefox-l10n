@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (მომხმარებლი�
 about-logins-list-item-warning-icon =
     .alt = გაფრთხილების ნიშანი
     .title = იერიშმიტანილი საიტი
+about-logins-list-item-breach-icon =
+    .title = იერიშმიტანილი საიტი
 
 ## Introduction screen
 
