@@ -24,6 +24,7 @@
 
 <!ENTITY  generalTab            "综述">
 <!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTitle          "标题：">
 <!ENTITY  generalURL            "地址：">
 <!ENTITY  generalType           "类型：">
 <!ENTITY  generalMode           "渲染模式：">
@@ -112,6 +113,8 @@
 <!ENTITY  securityView.identity.owner    "Owner: ">
 <!ENTITY  securityView.identity.domain   "Web site: ">
 <!ENTITY  securityView.identity.verifier "Verified by: ">
+
+<!ENTITY  securityView.identity.validity "过期时间：">
 
 <!ENTITY  securityView.privacy.header                   "隐私和历史记录">
 <!ENTITY  securityView.privacy.history                  "在今天之前我访问过这个网站吗?">
