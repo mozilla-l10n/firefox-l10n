@@ -505,6 +505,15 @@ search-bar-shown =
     .label = Tilføj søgefeltet til værktøjslinjen
 search-engine-default-header = Standard-søgetjeneste
 search-engine-default-desc = Vælg den søgetjeneste, du vil bruge i adressefeltet og søgefeltet.
+
+search-engine-default-private-desc = Vælg den søgetjeneste, du vil bruge i private vinduer.
+search-separate-default-engine =
+    .label = Brug denne søgetjeneste i private vinduer.
+    .accesskey = B
+
+search-suggestions-header = Søgeforslag
+search-suggestions-desc = Vælg hvordan søgeforslag fra søgetjenester skal vises.
+
 search-suggestions-option =
     .label = Vis søgeforslag
     .accesskey = s
@@ -518,6 +527,9 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Vis søgeforslag før resultater fra min browserhistorik i adressefeltet
+
+suggestions-addressbar-settings = Skift indstillinger for søgeforslag fra browserhistorik, bogmærker og åbne faneblade.
+
 search-suggestions-cant-show = Søgeforslag vil ikke blive vist i adressefeltet, fordi du har sat { -brand-short-name } op til aldrig at gemme historik.
 search-one-click-header = Lyn-søgetjenester
 search-one-click-desc = Vælg de alternative søgetjenester, der vises under adressefeltet og søgefeltet, når du begynder at indtaste en søgeterm.
@@ -644,7 +656,6 @@ sync-choose-what-to-sync-dialog =
     .buttonlabelextra2 = Afbryd…
     .buttonaccesskeyextra2 = A
 
-sync-choose-heading = Vælg hvad der skal synkroniseres til din konto for enheder, der bruger { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Bogmærker
     .accesskey = B
