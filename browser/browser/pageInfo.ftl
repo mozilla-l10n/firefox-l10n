@@ -107,6 +107,8 @@ help-button =
 
 image-size-unknown = មិន​ស្គាល់
 not-set-verified-by = មិន​ត្រូវ​បាន​បញ្ជាក់
+page-info-not-specified =
+    .value = មិន​ត្រូវ​បាន​បញ្ជាក់
 not-set-alternative-text = មិន​ត្រូវ​បាន​បញ្ជាក់
 not-set-date = មិន​ត្រូវ​បាន​បញ្ជាក់
 media-img = រូបភាព
@@ -129,6 +131,8 @@ general-quirks-mode =
 general-strict-mode =
     .value = របៀប​ស្រប​តាម​ស្តង់ដារ
 security-no-owner = តំបន់បណ្ដាញ​នេះ​មិន​ផ្ដល់​នូវ​ព័ត៌មាន​អំពី​កម្មសិទ្ធិ​ទេ ។
+page-info-security-no-owner =
+    .value = តំបន់បណ្ដាញ​នេះ​មិន​ផ្ដល់​នូវ​ព័ត៌មាន​អំពី​កម្មសិទ្ធិ​ទេ ។
 media-select-folder = ជ្រើស​ថត ដើម្បី​រក្សាទុក​រូបភាព
 media-unknown-not-cached =
     .value = មិន​ស្គាល់ (មិន​ត្រូវ​បាន​ដាក់​ក្នុង​ឃ្លាំង​សម្ងាត់)
