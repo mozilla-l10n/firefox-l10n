@@ -63,6 +63,8 @@ login-list-item-subtitle-missing-username = (គ្មាន​ឈ្មោះ�
 about-logins-list-item-warning-icon =
     .alt = រូបតំណាង​ព្រមាន
     .title = គេហទំព័រ​ដែល​បាន​បំពាន
+about-logins-list-item-breach-icon =
+    .title = គេហទំព័រ​ដែល​បាន​បំពាន
 
 ## Introduction screen
 
