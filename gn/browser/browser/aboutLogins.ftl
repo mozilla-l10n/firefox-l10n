@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (puruhára hera'ỹva)
 about-logins-list-item-warning-icon =
     .alt = Ta'ãngachu'i kyhyjerã
     .title = Ñanduti renda imarãva
+about-logins-list-item-breach-icon =
+    .title = Ñanduti renda imarãva
 
 ## Introduction screen
 
