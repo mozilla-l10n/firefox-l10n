@@ -5,4 +5,5 @@
 <!--LOCALIZATION NOTE shown while obtaining certificates from a directory -->
 
 <!ENTITY title.label "กำลังดาวน์โหลดใบรับรอง">
+<!ENTITY info.message "กำลังค้นหาไดเรกทอรีสำหรับใบรับรองของผู้รับ การดำเนินการนี้อาจใช้เวลาไม่กี่นาที">
 <!ENTITY stop.label "หยุดการค้นหา">
