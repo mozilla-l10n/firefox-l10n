@@ -641,8 +641,6 @@ sync-choose-what-to-sync-dialog =
     .buttonlabelextra2 = Disconnetti…
     .buttonaccesskeyextra2 = D
 
-sync-choose-heading = Scegli gli elementi da sincronizzare sui dispositivi con { -sync-brand-short-name }:
-
 sync-engine-bookmarks =
     .label = Segnalibri
     .accesskey = e
