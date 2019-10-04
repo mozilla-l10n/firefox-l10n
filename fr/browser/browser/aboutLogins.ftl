@@ -64,6 +64,8 @@ login-list-item-subtitle-missing-username = (aucun nom d’utilisateur)
 about-logins-list-item-warning-icon =
     .alt = Icône d’avertissement
     .title = Site victime d’une fuite de données
+about-logins-list-item-breach-icon =
+    .title = Site victime d’une fuite de données
 
 ## Introduction screen
 
