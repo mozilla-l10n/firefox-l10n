@@ -14,8 +14,6 @@ select-all =
 menu-select-all =
     .label = Nana nɨze
     .accesskey = N
-close-window =
-    .key = A
 general-tab =
     .label = Nána
     .accesskey = G
@@ -107,6 +105,8 @@ help-button =
 
 image-size-unknown = Onóñegamakɨ
 not-set-verified-by = Fɨnoyega
+page-info-not-specified =
+    .value = Fɨnoyega
 not-set-alternative-text = Fɨnoyega
 not-set-date = Fɨnoyega
 media-img = Jána
