@@ -13,9 +13,9 @@ psmerr-ssl-disabled = Nije moguće sigurno se povezati jer je SSL protokol onemo
 psmerr-ssl2-disabled = Nije moguće sigurno se povezati jer stranica koristi staru, nesigurnu inačicu SSL protokola.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
-    Primili ste neispravni certifikat. Molim, kontaktirajte administratora poslužitelja ili pošaljite e-poruku i dajte im sljedeće informacije:
+    Primio/la si neispravni certifikat. Kontaktiraj administratora poslužitelja ili pošalji e-poruku sa sljedećim informacijama:
     
-    Vaš certifikat sadrži isti serijski broj kao i još barem jedan certifikat izdan od strane iste agencije (CA). Molim, nabavite novi certifikat s jednistvenim serijskim brojem.
+    Tvoj certifikat sadrži isti serijski broj kao i još barem jedan certifikat izdan od strane iste agencije (CA). Nabavi novi certifikat s jednistvenim serijskim brojem.
 ssl-error-export-only-server = Sigurna komunikacija nije moguća. Čvor ne podržava kriptiranje visoke razine.
 ssl-error-us-only-server = Sigurna komunikacija nije moguća. Čvor zahtijeva kriptiranje visoke razine, koje nije podržano.
 ssl-error-no-cypher-overlap = Sigurna komunikacija s čvorom nije moguća: nema zajedničkih algoritama šifriranja.

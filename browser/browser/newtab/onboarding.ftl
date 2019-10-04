@@ -99,7 +99,7 @@ onboarding-browse-privately-button = Otvori privatni prozor
 onboarding-firefox-send-title = Držite svoje dijeljene datoteke privatnima
 onboarding-firefox-send-text2 = Prenesite svoje datoteke na { -send-brand-name } kako biste ih dijelili s potpunom enkripcijom i poveznicom koja se automatski briše.
 onboarding-firefox-send-button = Isprobajte { -send-brand-name }
-onboarding-mobile-phone-title = Preuzmite { -brand-product-name } za vaš telefon
+onboarding-mobile-phone-title = Preuzmi { -brand-product-name } za svoj mobitel
 onboarding-mobile-phone-text = Preuzmite { -brand-product-name } za iOS ili Android i sinkronizirajte svoje podatke na svim uređajima.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
