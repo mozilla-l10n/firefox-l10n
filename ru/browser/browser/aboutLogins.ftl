@@ -65,6 +65,8 @@ login-list-item-subtitle-missing-username = (нет имени пользова�
 about-logins-list-item-warning-icon =
     .alt = Значок предупреждения
     .title = Атакованный сайт
+about-logins-list-item-breach-icon =
+    .title = Атакованный сайт
 
 ## Introduction screen
 
