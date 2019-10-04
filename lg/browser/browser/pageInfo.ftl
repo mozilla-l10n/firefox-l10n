@@ -103,6 +103,8 @@ help-button =
 
 image-size-unknown = Tekimanyiddwa
 not-set-verified-by = Tekyawuddwa
+page-info-not-specified =
+    .value = Tekyawuddwa
 not-set-alternative-text = Tekyawuddwa
 not-set-date = Tekyawuddwa
 media-img = Ekifananyi
