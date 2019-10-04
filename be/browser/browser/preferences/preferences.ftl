@@ -618,8 +618,8 @@ sync-signedin-settings-desc = Выберыце, што { -brand-short-name } п�
 
 ## Sync section - enabling or disabling sync.
 
-prefs-syncing-on = Сінхранізацыя: УКЛ
-prefs-syncing-off = Сінхранізацыя: ВЫКЛ
+prefs-syncing-on = Сінхранізацыя: УКЛЮЧАНА
+prefs-syncing-off = Сінхранізацыя: ВЫКЛЮЧАНА
 prefs-sync-setup =
     .label = Наладзіць { -sync-brand-short-name }...
     .accesskey = д
