@@ -65,6 +65,8 @@ login-list-item-subtitle-missing-username = (bez nazwy użytkownika)
 about-logins-list-item-warning-icon =
     .alt = Ikona ostrzeżenia
     .title = Witryna z wyciekiem haseł
+about-logins-list-item-breach-icon =
+    .title = Witryna z wyciekiem haseł
 
 ## Introduction screen
 
