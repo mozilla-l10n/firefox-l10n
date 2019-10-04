@@ -36,8 +36,6 @@ menu-menuitem-preferences =
         [windows] Opcions
        *[other] Preferències
     }
-menu-menuitem-feedback = Envia comentaris
-menu-menuitem-faq = Preguntes més freqüents
 menu-menuitem-android-app = { -lockwise-brand-short-name } per a l'Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } per a l'iPhone i iPad
 
@@ -67,7 +65,6 @@ login-intro-heading = Esteu cercant els inicis de sessió que heu guardat? Confi
 login-intro-description = Si heu guardat els vostres inicis de sessió en el { -brand-product-name } des d'un altre dispositiu, esta és la manera de tindre-los també ací:
 login-intro-instruction-fxa = Creeu un { -fxaccount-brand-name } o inicieu-hi la sessió des del dispositiu on teniu guardats els vostres inicis de sessió
 login-intro-instruction-fxa-settings = Assegureu-vos que heu seleccionat la casella de selecció Inicis de sessió en els paràmetres del { -sync-brand-short-name }
-login-intro-instruction-faq = Vegeu les <a data-l10n-name="faq">preguntes més freqüents</a> del { -lockwise-brand-short-name } per obtindre més ajuda
 
 ## Login
 
@@ -77,10 +74,7 @@ login-item-delete-button = Suprimeix
 login-item-origin-label = Adreça del lloc web
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-open-site-button = Òbriga
 login-item-username-label = Nom d'usuari
-login-item-username =
-    .placeholder = nom@example.com
 login-item-copy-username-button-text = Copia
 login-item-copied-username-button-text = S'ha copiat
 login-item-password-label = Contrasenya
@@ -134,3 +128,6 @@ breach-alert-text = S'han filtrat o robat contrasenyes d'este lloc web des de la
 breach-alert-link = Més informació sobre esta filtració.
 breach-alert-dismiss =
     .title = Tanca esta alerta
+
+## Error Messages
+
