@@ -1,12 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!-- Window title -->
+<!ENTITY windowTitle.label "Privlači na mrežu">
 
-
-<!ENTITY windowTitle.label "Poravnaj na rešetki">
-
-<!ENTITY enableSnapToGrid.label "omogući poravnanje na rešetki">
+<!ENTITY enableSnapToGrid.label "omogući privlačenje na mrežu">
 <!ENTITY enableSnapToGrid.accessKey "o">
 
 <!ENTITY sizeEditField.label "Veličina:">
