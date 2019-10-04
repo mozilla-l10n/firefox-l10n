@@ -65,6 +65,8 @@ login-list-item-subtitle-missing-username = (nema korisničkog imena)
 about-logins-list-item-warning-icon =
     .alt = Ikona za upozorenje
     .title = Hakirana web stranica
+about-logins-list-item-breach-icon =
+    .title = Hakirana web stranica
 
 ## Introduction screen
 
