@@ -154,7 +154,7 @@ about-debugging-runtime-processes =
     .name = Procesi
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
-about-debugging-runtime-profile-button2 = Perfomansa profila
+about-debugging-runtime-profile-button2 = Profiliraj perfomansu
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # - from Fx 67 to 66 or to 65
 # - from Fx 68 to 66
