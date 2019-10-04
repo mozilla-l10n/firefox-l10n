@@ -24,6 +24,7 @@
 
 <!ENTITY  generalTab            "ძირითადი">
 <!ENTITY  generalTab.accesskey  "რ">
+<!ENTITY  generalTitle          "სათაური:">
 <!ENTITY  generalURL            "მისამართი:">
 <!ENTITY  generalType           "სახეობა:">
 <!ENTITY  generalMode           "ასახვის რეჟიმი:">
@@ -112,6 +113,8 @@
 <!ENTITY  securityView.identity.owner    "მფლობელი: ">
 <!ENTITY  securityView.identity.domain   "ვებ საიტი: ">
 <!ENTITY  securityView.identity.verifier "შეამოწმა: ">
+
+<!ENTITY  securityView.identity.validity "ვადის გასვლის დრო:">
 
 <!ENTITY  securityView.privacy.header                   "პირადულობა და ისტორია">
 <!ENTITY  securityView.privacy.history                  "ეს საიტი დღემდე გამიხსნია?">
