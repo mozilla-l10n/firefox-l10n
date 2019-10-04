@@ -24,6 +24,7 @@
 
 <!ENTITY  generalTab            "Geral">
 <!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTitle          "Título:">
 <!ENTITY  generalURL            "Endereço:">
 <!ENTITY  generalType           "Tipo:">
 <!ENTITY  generalMode           "Renderização:">
@@ -112,6 +113,8 @@
 <!ENTITY  securityView.identity.owner    "Dono: ">
 <!ENTITY  securityView.identity.domain   "Site: ">
 <!ENTITY  securityView.identity.verifier "Verificado por: ">
+
+<!ENTITY  securityView.identity.validity "Expira em:">
 
 <!ENTITY  securityView.privacy.header                   "Privacidade e Histórico">
 <!ENTITY  securityView.privacy.history                  "Eu visitei este site hoje mais cedo?">
