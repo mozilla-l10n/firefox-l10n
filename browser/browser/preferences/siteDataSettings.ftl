@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = 存储
 site-data-column-last-used =
     .label = 上次使用
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = （本地文件）
 site-data-remove-selected =
     .label = 移除选中
     .accesskey = r
@@ -28,11 +30,6 @@ site-data-button-cancel =
 site-data-button-save =
     .label = 保存更改
     .accesskey = a
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (持久)
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
