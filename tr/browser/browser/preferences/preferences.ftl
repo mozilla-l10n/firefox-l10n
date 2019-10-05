@@ -505,6 +505,12 @@ search-bar-shown =
     .label = Araç çubuğuna arama çubuğunu ekle
 search-engine-default-header = Varsayılan arama motoru
 search-engine-default-desc = Adres çubuğunda ve arama çubuğunda kullanılacak varsayılan arama motorunu seçin.
+search-engine-default-private-desc = Gizli pencerelerde kullanılacak varsayılan arama motorunu seçin.
+search-separate-default-engine =
+    .label = Gizli pencerelerde bu arama motorunu kullan
+    .accesskey = G
+search-suggestions-header = Arama önerileri
+search-suggestions-desc = Arama motorlarından gelen önerilerin nasıl görüneceğini seçin.
 search-suggestions-option =
     .label = Arama önerileri sun
     .accesskey = ö
@@ -518,6 +524,7 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Adres çubuğu sonuçlarında arama önerilerini gezinti geçmişinden önce göster
+suggestions-addressbar-settings = Gezinti geçmişi, yer imleri ve sekme önerileri tercihlerini değiştirin
 search-suggestions-cant-show = { -brand-short-name } tarayıcısını geçmişi hatırlamayacak şekilde ayarladığınız için konum çubuğu sonuçlarında arama önerileri gösterilmeyecektir.
 search-one-click-header = Tek tıklamalı arama motorları
 search-one-click-desc = Anahtar kelimeleri yazmaya başladığınızda adres çubuğunun ve arama çubuğunun altında görünecek alternatif arama motorlarını seçin.
@@ -609,6 +616,10 @@ sync-signedin-settings-desc = { -brand-short-name } kullanan cihazlarınız aras
 
 prefs-syncing-on = Eşitleme: AÇIK
 prefs-syncing-off = Eşitleme: KAPALI
+prefs-sync-setup =
+    .label = { -sync-brand-short-name }’i kur…
+    .accesskey = S
+prefs-sync-offer-setup-label = Yer imlerinizi, geçmişinizi, sekmelerinizi, eklentilerinizi ve tercihlerinizi tüm cihazlarınız arasında senkronize edin.
 prefs-sync-now =
     .labelnotsyncing = Şimdi eşitle
     .accesskeynotsyncing = m
@@ -616,6 +627,7 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Şu anda aşağıdaki öğeleri eşitliyorsunuz:
 sync-currently-syncing-bookmarks = Yer imleri
 sync-currently-syncing-history = Geçmiş
 sync-currently-syncing-tabs = Açık sekmeler
@@ -631,6 +643,13 @@ sync-currently-syncing-prefs =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Nelerin eşitleneceğini seçin
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Değişiklikleri kaydet
+    .buttonaccesskeyaccept = D
+    .buttonlabelextra2 = Bağlantıyı kes…
+    .buttonaccesskeyextra2 = B
 sync-engine-bookmarks =
     .label = Yer imleri
     .accesskey = m
