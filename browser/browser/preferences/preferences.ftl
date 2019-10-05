@@ -505,6 +505,7 @@ search-bar-shown =
     .label = Legg til søkjelinje i verktøylinja
 search-engine-default-header = Standard søkjemotor
 search-engine-default-desc = Vel standardsøkjemotor som skal brukast i adresselinja og søkelinja.
+search-engine-default-private-desc = Vel kva for søkjemotor du vil bruke i private vindauge.
 search-separate-default-engine =
     .label = Bruk denne søkjemotoren i private vindauge
     .accesskey = u
