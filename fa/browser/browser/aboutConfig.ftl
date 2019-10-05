@@ -14,9 +14,17 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = با هوشیاری پیش بروید
+about-config-intro-warning-text = تغییر پیکربندی‌های پیشرفتهٔ ترجیحات می‌تواند بر عملکرد یا امنیت { -brand-short-name } تأثیر بگذارد.
+about-config-intro-warning-checkbox = وقتی سعی می‌کنم به این ترجیحات دسترسی پیدا کنم به من هشدار دهید
+about-config-intro-warning-button = پذیرش خطر و ادامه
 
 
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = تغییر این ترجیحات می‌تواند بر عملکرد یا امنیت { -brand-short-name } تأثیر بگذارد.
+about-config-page-title = ترجیحات پیشرفته
+about-config-search-input1 =
+    .placeholder = جست‌وجوی نام ترجیحات
 about-config-show-all = نمایش همه
 about-config-pref-add = اضافه کردن
 about-config-pref-toggle = تغییر وضعیت
