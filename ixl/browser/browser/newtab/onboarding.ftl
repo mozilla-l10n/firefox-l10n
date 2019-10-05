@@ -13,23 +13,47 @@
 ## avoid breaking quoted text).
 
 onboarding-button-label-learn-more = Ootzi ka'te
+onboarding-button-label-try-now = Cha'xh ab'anb'e cheel chitu'
+onboarding-button-label-get-started = Xe'ten
 
 ## Welcome modal dialog strings
 
+onboarding-welcome-header = B'a'n oole' tu { -brand-short-name }
+onboarding-welcome-body = At ve't u xaansab' tetze' saxe'. <br/> ootzi ve't ka'te ti' u { -brand-product-name }.
+onboarding-welcome-learn-more = La ootzi kam chit ka't kam la taq' see.
+onboarding-join-form-header = Oken xo'l u { -brand-product-name }
+onboarding-join-form-body = Aq'al uva' la xe't axh, aq'ku' va correo electrónico.
+onboarding-join-form-email =
+    .placeholder = Aq'ku' va correo
+onboarding-join-form-email-error = A' chit ni tale' uva' a' chit va correo electrónico la aaq' ku'
 onboarding-join-form-legal = Tul uva' la xe't axh, b'a'n kuxh see ti' unq'a vaa' <a data-l10n-name="terms">Kam chit teq'ole'</a> as <a data-l10n-name="privacy">Kam chit yol ti' nimab' tetz</a>.
 onboarding-join-form-continue = Yakeb'en
+onboarding-start-browsing-button-label = Xe'ten ti' axaan stuul
+onboarding-cards-dismiss =
+    .title = Ya'sakan
+    .aria-label = Ya'sakan
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = La eeq'o  { -brand-product-name } see'
+onboarding-sync-welcome-content = Oken tulaj unq'a aq'b'al texhlale', unq'a vee' chukeltu ve't s-a'n, unq'a kachub' tetze' as ka'taj kam b'anel ve't kan tulaj unq'a ach'ich'e'.
+onboarding-sync-welcome-learn-more-link = La ootzi ka'te' ti' u Firefox Accounts
+onboarding-sync-form-invalid-input = A' chit ni tale' uva' a' chit va correo electrónico la aaq'ku'
 onboarding-sync-legal-notice = Tul uva' la xe't axh, b'a'n kuxh see ti' unq'a vaa' <a data-l10n-name="terms">Kam chit teq'ole'</a> as <a data-l10n-name="privacy">Kam chit yol ti' nimab' tetz</a>.
+onboarding-sync-form-input =
+    .placeholder = Va correo electrónico
 onboarding-sync-form-continue-button = Yakeb'en
+onboarding-sync-form-skip-login-button = Xaq'pi kan kuxh u vaa'
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Aq'ku' va correo electrónico
+onboarding-sync-form-sub-header = Aq'al uva' la pal axh tu { -sync-brand-name }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Unq'a uve' la chit txakoni
 
 ## These strings belong to the individual onboarding messages.
 
