@@ -100,7 +100,7 @@ cfr-whatsnew-lockwise-backup-title = Zálohujte svá hesla
 cfr-whatsnew-lockwise-backup-body = Používejte generovaná a bezpečná hesla, ke kterým máte přístup všude, kde se přihlásíte.
 cfr-whatsnew-lockwise-backup-link-text = Zapnout zálohování
 cfr-whatsnew-lockwise-take-title = Vezměte si svá hesla všude s sebou
-cfr-whatsnew-lockwise-take-body = S mobilní aplikací { -lockwise-brand-short-name } budete získáte bezpečný přístup k vašim zálohovaným přihlašovacím údajům kdekoliv budete potřebovat.
+cfr-whatsnew-lockwise-take-body = S mobilní aplikací { -lockwise-brand-short-name } získáte bezpečný přístup k vašim zálohovaným přihlašovacím údajům kdekoliv budete potřebovat.
 cfr-whatsnew-lockwise-take-link-text = Stáhnout aplikaci
 
 ## Bookmark Sync
