@@ -165,12 +165,17 @@ was trying to connect. -->
 
 <!ENTITY certerror.mitm.title "Софтуер пречи на &brandShortName; да осъществи защитена връзка към страницата">
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> най-вероятно е безопасен сайт, но не може да бъде установена защитена връзка. Проблемът е причинен от <span class='mitm-name'/>, което софтуер на вашия компютър или вашата мрежа.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Ако антивирусната програма има възможност за сканиране на шифровани връзки (обикновено наричана „сканиране на уеб“ или „сканиране на https“), може да я изключите. Ако това не помогне премахнете и инсталирайте отново програмата.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Ако използвате ведомствена мрежа се свържете с отдела за поддръжка.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Ако не сте запознати с <span class='mitm-name'/> това може да е атака и не трябва да продължавате към страницата.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ако не сте запознати с <span class='mitm-name'/> това може да е атака и няма какво да направите, за да посетите страницата.">
 
-<!ENTITY clockSkewError.title "Часовникът на компютъра е неверен">
-<!ENTITY clockSkewError.longDesc "Часовникът на компютъра показва <span id='wrongSystemTime_systemDate1'/> което пречи на &brandShortName; да осъществи защитена връзка. Сверете датата, часа и часовия пояс на компютъра в системните настройки, за да посетите <span class='hostname'/>. След това презаредете страницата на <span class='hostname'/>.">
+<!ENTITY clockSkewError.title "Часовникът на компютъра не е верен">
+<!ENTITY clockSkewError.longDesc "Часовникът на компютъра показва <span id='wrongSystemTime_systemDate1'/>, което пречи на &brandShortName; да осъществи защитена връзка. За да посетите <span class='hostname'/> сверете датата, часа и часовия пояс на компютъра в системните настройки. След това презаредете страницата на <span class='hostname'/>.">
 
-<!ENTITY prefReset.longDesc "Изглежда вашите настройките на сигурността може да са предизвикали това. Искате ли да възстановите оригиналните настройки?">
-<!ENTITY prefReset.label "Възстановяване на оригиналните настройки">
+<!ENTITY prefReset.longDesc "Изглежда настройките на сигурността може да са предизвикали това. Искате ли да бъдат възстановени настройките по подразбиране?">
+<!ENTITY prefReset.label "Възстановяване на настройки по подразбиране">
+
 
 <!ENTITY networkProtocolError.title "Нарушение на мрежовия протокол">
 <!ENTITY networkProtocolError.longDesc "<p>Страницата не може да бъде показана поради грешка в мрежовия протокол.</p><ul><li>Моля, уведомете собствениците на страницата за проблема.</li></ul>">
