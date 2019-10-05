@@ -33,6 +33,7 @@ printpreview-of =
     .value = ਦਾ
 printpreview-custom-prompt =
     .value = ਕਸਟਮ ਸਕੇਲ...
+printpreview-custom-scale-prompt-title = ਕਸਟਮ ਸਕੇਲ
 printpreview-page-setup =
     .label = …ਸਫ਼ਾ ਸੈੱਟਅੱਪ
     .accesskey = u
@@ -44,6 +45,8 @@ printpreview-page =
 ## $percent (integer) - menuitem percent label
 ## $arrow (String) - UTF-8 arrow character for navigation buttons
 
+printpreview-percentage-value =
+    .label = { $percent }%
 printpreview-homearrow =
     .label = { $arrow }
     .tooltiptext = ਪਹਿਲਾਂ ਸਫ਼ਾ
