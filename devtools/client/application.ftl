@@ -71,6 +71,9 @@ serviceworker-empty-suggestions-debugger = Prezrite si registráciu Service Work
 serviceworker-empty-suggestions-aboutdebugging = Preskúmajte Service Workery z iných domén. <a>Otvoriť about:debugging</a>
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifest aplikácie
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Manifest musíte vložiť sem na kontrolu. <a>Ďalšie informácie</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Chyby a varovania
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -87,6 +90,9 @@ manifest-loaded-ok = Manifest bol načítaný.
 manifest-loaded-error = Pri načítaní manifestu nastala chyba:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Nenašiel sa žiadny manifest.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Manifest je vložený do dátovej URL.
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Manifest
     .alt = Ikona manifestu
