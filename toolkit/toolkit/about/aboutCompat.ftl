@@ -4,3 +4,4 @@
 
 label-disable = Онемогући
 label-enable = Омогући
+text-title = about:compat
