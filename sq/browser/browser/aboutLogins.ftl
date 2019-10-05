@@ -61,6 +61,11 @@ about-logins-login-list-empty-search-description = S’ka përfundime me përput
 login-list-item-title-new-login = Kredenciale të Reja Hyrjeje
 login-list-item-subtitle-new-login = Jepni kredencialet tuaja të hyrjes
 login-list-item-subtitle-missing-username = (pa emër përdoruesi)
+about-logins-list-item-warning-icon =
+    .alt = Ikonë sinjalizimi
+    .title = Sajt i cenuar
+about-logins-list-item-breach-icon =
+    .title = Sajt i cenuar
 
 ## Introduction screen
 
@@ -142,5 +147,10 @@ breach-alert-dismiss =
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login = Ka tashmë një zë për { $loginTitle } me atë emër përdoruesi.
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Ka tashmë një zë për { $loginTitle } me atë emër përdoruesi. <a data-l10n-name="duplicate-link">Të shkohet te zëri ekzistues?</a>
 # This is a generic error message.
 about-logins-error-message-default = Ndodhi një gabim teksa provohej të ruhej ky fjalëkalim.
