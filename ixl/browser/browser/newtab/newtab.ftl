@@ -131,6 +131,9 @@ newtab-label-download = Kat eq'ol kutzan.
 newtab-section-menu-remove-section = Sojsa el u tanule'
 newtab-section-menu-collapse-section = La eeq'otzan tanul
 newtab-section-menu-expand-section = Inimb'isal Tanul
+newtab-section-menu-manage-section = Il isuuchil tanul
+newtab-section-menu-manage-webext = Il isuuchil taq'il
+newtab-section-menu-add-topsite = Aq'ku' u pal chit ib'anb'ele'
 newtab-section-menu-move-up = Al ije'e'
 newtab-section-menu-move-down = Ok'utzan
 
