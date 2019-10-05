@@ -102,24 +102,34 @@ cfr-whatsnew-lockwise-backup-title = Kol kan uma'l ivatz unq'a kach'ub' tetze'
 cfr-whatsnew-lockwise-backup-body = La uch ve't acheesan kach'ub' tetz aq'al uva' la b'anb'e kat kuxhtu'.
 cfr-whatsnew-lockwise-backup-link-text = Eesa ivatz unq'a aq'one'.
 cfr-whatsnew-lockwise-take-title = Eq'o chit unq'a kach'ub' eetze' see'
+cfr-whatsnew-lockwise-take-body = U aplicación tu va molob'ale' { -lockwise-brand-short-name } ni tuche' uva' la ok axh tulaj ivatz unq'a kach'ub' tetze' tulaj kam kuxh atinb'al.
+cfr-whatsnew-lockwise-take-link-text = K'ul u aplicación
 
 ## Bookmark Sync
 
-cfr-doorhanger-sync-bookmarks-ok-button = Oypisa
+cfr-doorhanger-sync-bookmarks-header = Aq'ku' u texhlale' vaa' tu va molob'ale'
+cfr-doorhanger-sync-bookmarks-body = La chit eeq'o see' unq'a eexhlale', unq'a kach'ub' tetze', unq'a vee' chukeltu s-a'n aq'al uva' kat kuxh la xe't kat axh aq'onvoj tu { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Oypisa { -sync-brand-short-name }
     .accesskey = O
 
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Ye' la tzej unpajte'  ikach'ub tetz aq'on.
-cfr-doorhanger-sync-logins-ok-button = Oypisa
+cfr-doorhanger-sync-logins-body = Molkan unq'a aaq'one' as la ik'ul ve't ti'b' ti jikil tuk' u kach'ub' tetze' tulaj unq'a amolob'ale'.
+cfr-doorhanger-sync-logins-ok-button = Oypisa { -sync-brand-short-name }
     .accesskey = O
 
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Sikle uva ti u aq'one.
+cfr-doorhanger-send-tab-recipe-header = Eq'o u alb'al txumb'ale' ti' ta'l tu kusi'n
+cfr-doorhanger-send-tab-body = Send Tab ni lochone' aq'al uva' la oora kuxh la  jatxb'en u vaa' tu va molob'ale' moj tu uma't ch'ich' tul uva' ato'k axh stuul tu { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Moj la ib'ane' uva' la aaq'b'en tilb'al
+    .accesskey = M
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Aqb'en u PDF tu chit ijikil
 
 ## Social Tracking Protection
 
