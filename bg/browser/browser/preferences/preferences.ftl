@@ -507,11 +507,13 @@ search-bar-shown =
     .label = Добавяне на лента за търсене в лентата с инструменти
 search-engine-default-header = Стандартна търсеща машина
 search-engine-default-desc = Изберете търсеща машина, която да използвате от адресната лента и лентата за търсене.
+search-suggestions-header = Предложения при търсене
+search-suggestions-desc = Изберете как да се показват предложенията от търсещи машини.
 search-suggestions-option =
     .label = Показване на предложения при търсене
     .accesskey = П
 search-show-suggestions-url-bar-option =
-    .label = Показване на предложения при търсене в резултатите на адресната лента
+    .label = Показване на предложения при търсене в резултатите от адресната лента
     .accesskey = р
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -520,6 +522,7 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Показване на подсказките преди резултатите от историята при търсене от адресната лента
+suggestions-addressbar-settings = Променете настройките за история на разглеждане, отметки и предлагане на раздели
 search-suggestions-cant-show = Предложения при търсене в резултатите на адресната лента няма да бъдат показвани, защото { -brand-short-name } е настроен да не запазва историята на разглеждане.
 search-one-click-header = Търсене с едно щракване
 search-one-click-desc = Изберете допълнителни търсещи машини, които да се показват под адресната лента и лентата за търсене при въвеждане на текст.
@@ -588,6 +591,9 @@ sync-profile-picture =
 sync-disconnect =
     .label = Изключване…
     .accesskey = И
+sync-sign-out =
+    .label = Излизане…
+    .accesskey = з
 sync-manage-account = Управление на сметката
     .accesskey = У
 sync-signedin-unverified = { $email } не е проверен.
@@ -606,6 +612,11 @@ sync-signedin-settings-desc = Изберете какво да бъде синх
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Синхронизиране: ВКЛЮЧЕНО
+prefs-syncing-off = Синхронизиране: ИЗКЛЮЧЕНО
+prefs-sync-setup =
+    .label = Настройка на { -sync-brand-short-name }…
+    .accesskey = н
 
 ## The list of things currently syncing.
 
@@ -626,6 +637,10 @@ sync-engine-logins =
     .label = Регистрации
     .tooltiptext = Запазени потребителски имена и пароли
     .accesskey = Р
+sync-engine-logins-passwords =
+    .label = Регистрации и пароли
+    .tooltiptext = Запазени потребителски имена и пароли
+    .accesskey = е
 sync-engine-addresses =
     .label = Адреси
     .tooltiptext = Запазени адреси (само от настолния)
