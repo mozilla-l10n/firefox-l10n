@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Лента с менюта">
 <!ENTITY menubarCmd.accesskey "м">
 <!ENTITY navbarCmd.label "Лента за навигация">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Навигация">
 <!ENTITY personalbarCmd.label "Лента с отметки">
 <!ENTITY personalbarCmd.accesskey "о">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Отметки">
 <!ENTITY bookmarksToolbarItem.label "Елементи на лентата с отметките">
 
 <!ENTITY pageSourceCmd.label "Изходен код на страницата">
 <!ENTITY pageSourceCmd.accesskey "к">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Информация за страницата">
 <!ENTITY pageInfoCmd.accesskey "И">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Отстраняване на грешки в оформлението">
 <!ENTITY ldbCmd.accesskey "о">
@@ -117,6 +127,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Проверка на сметка">
 
 
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+
 <!ENTITY fullScreenMinimize.tooltip "Минимизиране">
 <!ENTITY fullScreenRestore.tooltip "Възстановяване">
 <!ENTITY fullScreenClose.tooltip "Затваряне">
@@ -137,6 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Трябва да потвърдите сметката си преди да може да използвате синхронизиране.">
 <!ENTITY fxa.unverified.button.label "Настройки на &syncBrand.shortName.label;…">
 
+<!ENTITY pictureInPictureHideToggle.label "Скриване на бутона за превключване на картина в картината">
+<!ENTITY pictureInPictureHideToggle.accesskey "с">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -144,16 +159,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "Вписани сте като">
 <!ENTITY fxa.menu.manageAccount.label "Управление на сметката…">
 <!ENTITY fxa.menu.syncSettings.label "Настройки на &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings2.label "Настройки на &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Добавяне на устройство…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Вписване в &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Включване на &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Сметка">
 <!ENTITY fxa.menu.firefoxServices.label "Услуги от &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Сметка">
+<!ENTITY fxa.menu.settings.label "Настройки">
+<!ENTITY fxa.menu.accountSettings.label "Настройки на регистрация">
+<!ENTITY fxa.menu.signOut.label "Излизане…">
+<!ENTITY fxa.menu.deviceSettings.label "Настройки на устройства">
+<!ENTITY fxa.menu.setupSync.label "Настройка на &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Изпратете незабавно раздел до всяко устройство, в което сте вписани.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -192,6 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Отметки">
 <!ENTITY bookmarksMenu.accesskey "О">
+
 <!ENTITY bookmarkThisPageCmd.label "Отмятане на страницата">
 <!ENTITY editThisBookmarkCmd.label "Промяна на отметка">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -233,6 +261,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Управление на използването на приставки">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Промяна на правата за получаване на известия от страницата">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Използване на хранилището за постоянни данни">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Четецът е под дистанционно управление">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Отваря панела за удостоверяване през Мрежата">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Отваря панела за правата при разглеждане">
@@ -418,8 +447,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Искате ли да видите свои раздели от други устройства тук?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Настройки на Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Впишете се, за да видите списък с раздели от други ваши устройства.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Вижте списък с раздели от другите ваши устройства.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Сметката ви трябва да бъде потвърдена.">
 <!ENTITY appMenuRemoteTabs.signin.label "Вписване в Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Вписване в &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Включване на &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Управление на устройства…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Странична лента с раздели">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Скриване на лентата с раздели">
@@ -507,6 +539,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Заявка за търсене">
+
 <!ENTITY contentSearchSubmit.tooltip  "Изпращане заявка за търсене">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -811,20 +844,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Връзка">
 <!ENTITY identity.connectionSecure "Защитена връзка">
-
-<!ENTITY identity.connectionSecure2 "Връзката е защитена">
 <!ENTITY identity.connectionNotSecure "Връзката е незащитена">
 
 <!ENTITY identity.connectionSecure3 "Връзката е защитена">
 <!ENTITY identity.connectionNotSecure2 "Връзката не е защитена">
+<!ENTITY identity.connectionNotSecureSecurityView "Връзката със сайта не е сигурна.">
 <!ENTITY identity.connectionFile "Страницата е запазена в компютъра.">
 <!ENTITY identity.connectionVerified2 "Защитена връзка към този сайт, управляван от:">
+<!ENTITY identity.connectionVerified3 "Връзката със сайта е сигурна.">
 <!ENTITY identity.connectionInternal "Това е защитена страница на &brandShortName;.">
 <!ENTITY identity.extensionPage "Страницата е отворена от разширение.">
 <!ENTITY identity.insecureLoginForms2 "Въведените на страницата данни за вход може да бъдат компрометирани.">
 <!ENTITY identity.customRoot "Връзката е потвърдена от издател на сертификат, който не е разпознат от Mozilla.">
-
-<!ENTITY identity.evOwnerLabel "Собственик:">
 
 <!ENTITY identity.evOwnerLabel2 "Сертификатът е издаден на:">
 
@@ -862,9 +893,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Права">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Променени права">
-
 <!ENTITY identity.permissions3 "Права">
 <!ENTITY identity.permissionsEmpty "Не сте дали допълнителни права на страницата.">
 <!ENTITY identity.permissionsReloadHint "За да бъдат приложени промените може да се наложи да презаредите страницата.">
@@ -878,7 +906,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Повече за разширената защита от проследяване">
 <!ENTITY protections.settings.label "Настройки на защитите">
-<!ENTITY protections.report.label "Пълен отчет">
 <!ENTITY protections.showreport.label "Отчет">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -896,7 +923,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Плащания">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Коментари">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Видео">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Страницата все още е не работи, въпреки изключените защити?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Докладване">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -957,10 +983,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Проследяване">
 
 <!ENTITY contentBlocking.manageSettings.label "Управление на ограничаването на съдържание">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Проследяващо съдържание">
-
-<!ENTITY contentBlocking.manageSettings2.label "Настройки на защитите">
 <!ENTITY contentBlocking.manageSettings.accesskey "н">
 
 <!ENTITY contentBlocking.trackersView.label "Проследяване">
@@ -968,6 +990,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "Бисквитки">
 <!ENTITY contentBlocking.cookiesView.label "Бисквитки и данни на страници">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Проследяващо съдържание">
+
+<!ENTITY contentBlocking.manageSettings2.label "Настройки на защитите">
+<!ENTITY contentBlocking.manageSettings2.accesskey "н">
 
 <!ENTITY contentBlocking.socialblock.label "Проследяване от социални мрежи">
 
@@ -983,7 +1010,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Докладване на проблем">
 <!ENTITY contentBlocking.breakageReportView2.description "Спирането на съдържание може да наруши работата на някои страници. Докладвайки за тях помагате да направим &brandShortName; по-добър за всички. (Към Mozilla ще бъде изпратен адреса на страницата, а също и данни за настройките на четеца.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Научете повече">
+
 <!ENTITY contentBlocking.breakageReportView.title "Докладване за неработеща страница">
+<!ENTITY contentBlocking.breakageReportView3.description "Спирането на определени проследявания може да наруши работата на някои страници. Като докладвате такива страници помагате да направим &brandShortName; по-добър за всички. Към Mozilla ще бъде изпратен адреса на страницата, а също и данни за настройките на четеца.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Научете повече">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Адрес">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "С какъв проблем се сблъскахте? (по желание)">
@@ -1037,6 +1066,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "и">
 
 <!ENTITY homepageControlled.message "Разширение е променило какво ще виждате при отваряне на нов раздел. Може да възстановите настройките ако такава промяна е нежелателна.">
+
 <!ENTITY homepageControlled.header.message "Вашата начална страница е променена.">
 <!ENTITY homepageControlled.keepButton.label "Запазване">
 <!ENTITY homepageControlled.keepButton.accesskey "з">
