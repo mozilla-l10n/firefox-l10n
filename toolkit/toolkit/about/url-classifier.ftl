@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = URL класификатор информација
+url-classifier-search-title = Тражи
+url-classifier-search-result-title = Резултати
 url-classifier-provider-title = Провајдер
 url-classifier-provider = Провајдер
 url-classifier-provider-last-update-time = Време последњег ажурирања

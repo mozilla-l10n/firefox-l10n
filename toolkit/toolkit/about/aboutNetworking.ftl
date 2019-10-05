@@ -57,3 +57,13 @@ rcwn-avg-long = Дужа просечна
 rcwn-std-dev-long = Дугачко подразумевано одступање
 rcwn-cache-slow = Број успореног кеша
 rcwn-cache-not-slow = Брз неуспореног кеша
+networkid = ИБ мреже
+networkid-id = ИБ мреже
+
+## Link is intended as "network link"
+
+networkid-isUp = Веза је успостављена
+networkid-statusKnown = Стање везе непознато
+
+
+

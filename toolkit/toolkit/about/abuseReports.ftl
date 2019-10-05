@@ -24,8 +24,13 @@ abuse-report-messagebar-submitted = Хвала вам што сте поднел
 ## Message bars actions.
 
 abuse-report-messagebar-action-remove-extension = Да, уклони
+abuse-report-messagebar-action-keep-extension = Не, задржаћу
 abuse-report-messagebar-action-remove-theme = Да, уклони
+abuse-report-messagebar-action-keep-theme = Не, задржаћу
+abuse-report-messagebar-action-retry = Покушај поново
+abuse-report-messagebar-action-cancel = Откажи
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-settings-suggestions-search = Промените подразумеване поставке претраге
+abuse-report-other-reason = Нешто друго
