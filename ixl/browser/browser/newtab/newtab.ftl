@@ -6,6 +6,8 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = Ak' ika'ye'
+newtab-settings-button =
+    .title = B'an tuch ak' xaj u'uje' tu k'uchb'al tetze'
 
 ## Search box component.
 
@@ -21,7 +23,9 @@ newtab-search-box-search-the-web-input =
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Aq'ku' uma'l chukb'al tetz
 newtab-topsites-add-topsites-header = Ak atimb'al  vee ni chukpe'
+newtab-topsites-edit-topsites-header = B'an tuch  u atinb'ale' uve' pal chit eelata'
 newtab-topsites-title-label = Ib'ii
 newtab-topsites-title-input =
     .placeholder = Aq'ku' ib'ii

@@ -101,6 +101,7 @@ cfr-whatsnew-tracking-blocked-link-text = Saji u yole' at tzan sti'
 cfr-whatsnew-lockwise-backup-title = Kol kan uma'l ivatz unq'a kach'ub' tetze'
 cfr-whatsnew-lockwise-backup-body = La uch ve't acheesan kach'ub' tetz aq'al uva' la b'anb'e kat kuxhtu'.
 cfr-whatsnew-lockwise-backup-link-text = Eesa ivatz unq'a aq'one'.
+cfr-whatsnew-lockwise-take-title = Eq'o chit unq'a kach'ub' eetze' see'
 
 ## Bookmark Sync
 
@@ -110,9 +111,12 @@ cfr-doorhanger-sync-bookmarks-ok-button = Oypisa
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Ye' la tzej unpajte'  ikach'ub tetz aq'on.
+cfr-doorhanger-sync-logins-ok-button = Oypisa
+    .accesskey = O
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Sikle uva ti u aq'one.
 
 ## Firefox Send
 
