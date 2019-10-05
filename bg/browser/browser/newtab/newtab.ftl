@@ -47,6 +47,9 @@ newtab-topsites-add-button = Добавяне
 
 ## Top Sites - Delete history confirmation dialog. 
 
+
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = Сигурни ли сте, че желаете да премахнете страницата навсякъде от историята?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Действието е необратимо.
@@ -88,6 +91,10 @@ newtab-menu-bookmark = Отметка
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
 newtab-menu-copy-download-link = Копиране на препратка за изтегляне
 newtab-menu-go-to-download-page = Към страницата за изтегляне
 newtab-menu-remove-download = Премахване от историята
@@ -109,11 +116,16 @@ newtab-menu-open-file = Отваряне на файла
 
 newtab-label-visited = Посетена
 newtab-label-bookmarked = Отметната
+newtab-label-removed-bookmark = Отметката е премахната
 newtab-label-recommended = Тенденции
 newtab-label-saved = Запазено в { -pocket-brand-name }
 newtab-label-download = Изтеглено
 
 ## Section Menu: These strings are displayed in the section context menu and are 
+## meant as a call to action for the given section.
+
+
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Премахване на раздела
@@ -126,6 +138,13 @@ newtab-section-menu-add-search-engine = Добавяне на търсеща м�
 newtab-section-menu-move-up = Преместване нагоре
 newtab-section-menu-move-down = Преместване надолу
 newtab-section-menu-privacy-notice = Политика за личните данни
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Свиване на раздела
+newtab-section-expand-section-label =
+    .aria-label = Разгъване на раздела
 
 ## Section Headers.
 
