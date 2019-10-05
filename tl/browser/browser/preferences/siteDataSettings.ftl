@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Imbakan
 site-data-column-last-used =
     .label = Huling Ginamit
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (lokal na file)
 site-data-remove-selected =
     .label = Alisin ang mga Napili
     .accesskey = r
