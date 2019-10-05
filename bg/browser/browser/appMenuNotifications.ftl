@@ -4,7 +4,7 @@
 
 appmenu-update-available =
     .label = Налично е обновяване на { -brand-shorter-name }.
-    .buttonlabel = Изтегляне на обновяване
+    .buttonlabel = Изтегляне
     .buttonaccesskey = и
     .secondarybuttonlabel = Не сега
     .secondarybuttonaccesskey = с
