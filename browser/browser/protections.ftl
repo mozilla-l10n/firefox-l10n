@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Koruma düzeyi <b>standart</b> olarak ayarlanmış
-protection-header-details-strict = Koruma düzeyi <b>sıkı</b> olarak ayarlanmış
-protection-header-details-custom = Koruma düzeyi <b>özel</b> olarak ayarlanmış
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Koruma düzeyi <b>standart</b> olarak ayarlanmış
     .title = Gizlilik ayarlarına git
 protection-report-header-details-strict = Koruma düzeyi <b>sıkı</b> olarak ayarlanmış
@@ -45,6 +39,7 @@ graph-legend-description = Bu hafta engellenen her takipçi türünün toplam sa
 social-tab-title = Sosyal medya takipçileri
 social-tab-contant = Sosya ağlar, internette yaptıklarınızı, gördüklerinizi ve izlediklerinizi takip etmek için diğer web sitelerine takipçiler yerleştirirler. Bu sayede sosyal medya şirketleri, sosyal medya profillerinizde paylaştıklarınızdan çok daha fazla şey öğrenebilir. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
 cookie-tab-title = Siteler arası takip çerezleri
+cookie-tab-content = Bu çerezler gezdiğiniz siteleri takip ederek internette yaptıklarınız hakkında veri toplar. Bu çerezleri reklamcılar ve analitik şirketleri gibi üçüncü taraflar kullanır. Siteler arası takip çerezlerinin engellenmesi, sizi takip eden reklamların sayısını azaltır. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
 tracker-tab-title = Takip amaçlı içerikler
 tracker-tab-description = Web siteleri; takip kodu içeren harici reklamlar, videolar ve başka içerikler yükleyebilir. Takip amaçlı içerikleri engellemek sitelerin daha hızlı yüklenmesini sağlayabilir ama bazı düğmeler, formlar ve giriş alanları çalışmayabilir. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
 fingerprinter-tab-title = Parmak izi toplayıcılar
@@ -55,7 +50,6 @@ lockwise-title = Bir daha hiçbir parolayı unutmayın
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } parolalarınızı tarayınızda güvenle saklar.
 lockwise-header-content-logged-in = Parolalarınızı güvenle saklayın ve tüm cihazlarınızla senkronize edin.
-about-logins-view-logins-button = Hesapları göster
 protection-report-view-logins-button = Hesapları göster
     .title = Kayıtlı hesaplara git
 lockwise-no-logins-content = Parolalarınızı yanınızda taşımak için <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> uygulamasını yükleyin.
@@ -80,6 +74,7 @@ lockwise-sync-status =
 lockwise-sync-not-syncing-devices = Diğer cihazlarla eşitlenmiyor
 monitor-title = Veri hırsızlıklarından haberiniz olsun
 monitor-link = Nasıl çalışır?
+monitor-header-content-no-account = Bilinen veri ihlallerinde bilgilerinizin çalınıp çalınmadığını öğrenmek ve yeni ihlallerden haberdar olmak için { -monitor-brand-name }’ü ziyaret edin.
 monitor-header-content-signed-in = Bilgileriniz bilinen bir veri ihlalinde yer alırsa { -monitor-brand-name } sizi uyarır.
 monitor-sign-up = İhlal uyarılarına kaydolun
 auto-scan = Bugün otomatik olarak tarandı
@@ -108,10 +103,14 @@ info-exposed-passwords-found =
        *[other] parolanız veri ihlallerinde ele geçirildi
     }
 full-report-link = Raporun tamamını <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>’de görebilirsiniz
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Gizlilik ayarlarına git
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Kayıtlı hesaplara git
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] Kayıtlı hesabınız bir veri ihlalinde ele geçirilmiş olabilir. Güvenliğinizi artırmak için bu parolayı değiştirin. <a data-l10n-name="lockwise-link">Kayıtlı hesapları göster</a>
+       *[other] Kayıtlı hesaplarınız bir veri ihlalinde ele geçirilmiş olabilir. Güvenliğinizi artırmak için bu parolayı değiştirin. <a data-l10n-name="lockwise-link">Kayıtlı hesapları göster</a>
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
