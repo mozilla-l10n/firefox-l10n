@@ -3,9 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 extensions-name = B'ii
+extensions-version = Tilax ivatz
 security-software-name = B'ii
 features-name = B'ii
+features-version = Tilax ivatz
 app-basics-name = B'ii
+app-basics-version = Tilax ivatz
 modified-prefs-name = B'ii
 user-js-title = users.js Uve' ni chit asa'
 locked-prefs-name = B'ii
@@ -27,7 +30,14 @@ unknown = Ye' ootzimal
 ## In some development versions, it's expected for some API keys that they are
 ## not found.
 
+gpu-process-pid = GPUProcessPid
+gpu-process = GPUProcess
 gpu-active = Ile' b'a'n ve'te'
+# Variables
+# $bugNumber (string) - String of bug number from Bugzilla
+bug-link = bug { $bugNumber }
+d3d11layers-crash-guard = Compositor D3D11
+glcontext-crash-guard = OpenGL
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

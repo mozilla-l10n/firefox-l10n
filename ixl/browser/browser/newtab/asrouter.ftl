@@ -100,12 +100,16 @@ cfr-whatsnew-tracking-blocked-subtitle = Tu { DATETIME($earliestDate, month: "lo
 cfr-whatsnew-tracking-blocked-link-text = Saji u yole' at tzan sti'
 cfr-whatsnew-lockwise-backup-title = Kol kan uma'l ivatz unq'a kach'ub' tetze'
 cfr-whatsnew-lockwise-backup-body = La uch ve't acheesan kach'ub' tetz aq'al uva' la b'anb'e kat kuxhtu'.
+cfr-whatsnew-lockwise-backup-link-text = Eesa ivatz unq'a aq'one'.
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-ok-button = Oypisa
+    .accesskey = O
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Ye' la tzej unpajte'  ikach'ub tetz aq'on.
 
 ## Send Tab
 

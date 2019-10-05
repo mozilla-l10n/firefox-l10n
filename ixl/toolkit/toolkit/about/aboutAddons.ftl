@@ -20,6 +20,8 @@ cmd-preferences =
             [windows] O
            *[other] P
         }
+detail-version =
+    .label = Tilax ivatz
 
 ## These are global warnings
 
@@ -57,6 +59,7 @@ preferences-addon-button =
         [windows] Unka'te
        *[other] Uve' ni chit asa'
     }
+addon-detail-version-label = Tilax ivatz
 
 ## Pending uninstall message bar
 

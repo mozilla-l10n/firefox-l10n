@@ -47,3 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Kolel kan unq'a yole' uva' at chitu'
 urlbar-addons-notification-anchor =
     .tooltiptext = Jaj u tatinb'al unq'a yole' uve' at ve't ok ti' itz'ajsab' tetz
+
+## Page Action Context Menu
+
+page-action-add-to-urlbar =
+    .label = La oksa xo'l imool.
+page-action-manage-extension =
+    .label = Il isuuchil tikat ni q'axkat.
+page-action-remove-from-urlbar =
+    .label = La eesa eltzan  xo'l imool.

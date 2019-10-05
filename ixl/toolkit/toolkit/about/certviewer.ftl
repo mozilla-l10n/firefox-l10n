@@ -31,6 +31,7 @@ certificate-viewer-required = Uve ni jajpe'.
 certificate-viewer-state-province = Tzana kat
 certificate-viewer-serial-number = Tachul kam.
 certificate-viewer-value = Ti tatine'
+certificate-viewer-version = Tilax ivatz
 certificate-viewer-subject-name = Ib'ii u aq'one'
 certificate-viewer-validity = Ti tatine'
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
