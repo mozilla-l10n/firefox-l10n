@@ -25,7 +25,7 @@ newtab-search-box-search-the-web-input =
 
 newtab-topsites-add-search-engine-header = Aq'ku' uma'l chukb'al tetz
 newtab-topsites-add-topsites-header = Ak atimb'al  vee ni chukpe'
-newtab-topsites-edit-topsites-header = B'an tuch  u atinb'ale' uve' pal chit eelata'
+newtab-topsites-edit-topsites-header = B'an tuch u atimb'ale'  ve nim atje'.
 newtab-topsites-title-label = Ib'ii
 newtab-topsites-title-input =
     .placeholder = Aq'ku' ib'ii
@@ -33,6 +33,9 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Tz'ib'a o lak' u URL
 newtab-topsites-url-validation = Ni sab'el uma'l u b'anla URL
+newtab-topsites-image-url-label = Eetz u vatzib'ale'  URL
+newtab-topsites-use-image-link = B'anbe' va vatzib'ale'.
+newtab-topsites-image-validation = Ye'  ni toleb' ti ijajat u vatzib'ale', b'anb'e kato txumb'al sti.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -47,6 +50,7 @@ newtab-topsites-add-button = Aq'o'ke'
 
 ## Top Sites - Delete history confirmation dialog.
 
+newtab-confirm-delete-history-p1 = Yol chit see uva' tuk asojsa el jununil unq'a vee' tu u'uje' vaa' tu vee' chukeltu ve't'e?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Ye' la uch iq'ab'isal u aq'one' vaa.
 
@@ -80,6 +84,8 @@ newtab-menu-delete-pocket = Sojsa tetz{ -pocket-brand-name }
 newtab-menu-archive-pocket = Kol  u aq'one' tu{ -pocket-brand-name }
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Sojsa u taq'il u aq'one'.
+# Bookmark is a verb here.
+newtab-menu-bookmark = K'uchb'al tetz
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -88,12 +94,19 @@ newtab-menu-remove-bookmark = Sojsa u taq'il u aq'one'.
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Eesa ivatzib'al uve ni eq'on kutzan u   aq'one'
+newtab-menu-go-to-download-page = Kuch tu atinb'ale' uve' ni teq'ol ku'tzan
 newtab-menu-remove-download = Sojsa unq'a vee pichumal s-an
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] K'ucha kat na lej kat
+       *[other] Jaj u atinb'ale' uve' at kat
+    }
 newtab-menu-open-file = Jaj u  aq'one'
 
 ## Card Labels: These labels are associated to pages to give
@@ -101,6 +114,8 @@ newtab-menu-open-file = Jaj u  aq'one'
 ## the page is bookmarked, or is currently open on another device.
 
 newtab-label-visited = Kat pichuli
+newtab-label-bookmarked = Tulaj unq'a texhlale'
+newtab-label-removed-bookmark = Sojsamal ve't el unq'a texhlale'
 newtab-label-recommended = Achite' ni b'anb'el cheel.
 newtab-label-saved = Kat kulpu kan  tu{ -pocket-brand-name }
 newtab-label-download = Kat eq'ol kutzan.
@@ -112,6 +127,7 @@ newtab-label-download = Kat eq'ol kutzan.
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Sojsa el u tanule'
 newtab-section-menu-move-up = Al ije'e'
 newtab-section-menu-move-down = Ok'utzan
 
