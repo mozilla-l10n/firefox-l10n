@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Rregullime të Përgjithshme" >
+
 <!ENTITY pref.dateformat.label "Format Teksti Date:" >
 <!ENTITY pref.dateformat.accesskey "F">
 <!ENTITY pref.dateformat.long "I gjatë" >
@@ -23,6 +24,9 @@
 
 <!ENTITY pref.default_event_length.label "Kohëzgjatje Parazgjedhje:" >
 <!ENTITY pref.default_event_length.accesskey "K">
+
+<!ENTITY pref.default_event_task_length.label "Gjatësi Parazgjedhje Aktesh dhe Punësh">
+<!ENTITY pref.default_event_task_length.accesskey "A">
 
 <!ENTITY pref.default_task_none.label "Asnjë">
 <!ENTITY pref.default_task_start_of_day.label "Fillim Dite">

@@ -6,3 +6,6 @@
 <!ENTITY  paneAlarms.title        "Alarme">
 <!ENTITY  paneCategories.title    "Kategori">
 <!ENTITY  paneViews.title         "Parje">
+<!ENTITY  panelHeader.title       "Kalendar">
+<!ENTITY  panelReminder.title     "Kujtues">
+<!ENTITY  panelCatecory.title     "Kategori">
