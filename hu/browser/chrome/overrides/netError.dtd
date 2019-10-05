@@ -162,6 +162,8 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Úgy tűnik, ezt a hálózat biztonsági beállításai okozhatják. Szeretné helyreállítani az alapbeállításokat?">
 <!ENTITY prefReset.label "Alap beállítások visszaállítása">
 
+<!ENTITY enableTls10.longDesc "Ez a weboldal lehet, hogy nem támogatja a TLS 1.2 protokollt, amely a legkisebb verzió, amelyet a &brandShortName; támogat. A TLS 1.0 és TLS 1.1 engedélyezésével sikeres lehet ez a kapcsolat.">
+<!ENTITY enableTls10.note "Egy jövőbeli kiadásban a TLS 1.0 és TLS 1.1 véglegesen letiltásra kerül.">
 <!ENTITY enableTls10.label "A TLS 1.0 és 1.1 engedélyezése">
 
 <!ENTITY networkProtocolError.title "Hálózati protokoll hiba">

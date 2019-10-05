@@ -90,6 +90,9 @@ manifest-loaded-ok = Leírófájl betöltve.
 manifest-loaded-error = Hiba történt a leírófájl betöltésekor:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Nem található vizsgálható leírófájl.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = A leíró az adat URL-be van ágyazva.
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Jegyzékfájl
     .alt = Jegyzékfájl ikon

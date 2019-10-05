@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = A védelmi szint <b>Szokásos</b>
-protection-header-details-strict = A védelmi szint <b>Szigorú</b>
-protection-header-details-custom = A védelmi szint <b>Egyéni</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = A védelmi szint <b>Szokásos</b>
     .title = Ugrás az adatvédelmi beállításokhoz
 protection-report-header-details-strict = A védelmi szint <b>Szigorú</b>
@@ -45,6 +39,7 @@ graph-legend-description = Grafikon, amely típusonként tartalmazza a héten bl
 social-tab-title = Közösségimédia-követők
 social-tab-contant = A közösségi hálózatok nyomkövetőket helyeznek el más weboldalakon, hogy kövessék mit tesz, lát és néz online. Így a közösségi médiával foglalkozó cégek többet tudhatnak meg Önről, mint amit megoszt a közösségimédia-profiljaiban. <a data-l10n-name="learn-more-link">További tudnivalók</a>
 cookie-tab-title = Webhelyek közötti nyomkövető sütik
+cookie-tab-content = Ezek a sütik követik a webhelyek között, és információkat gyűjtenek az online tevékenységéről. Ezeket harmadik felek, például hirdető és elemző cégek állítják be. A webhelyek közötti nyomkövető sütik blokkolása csökkenti azon hirdetések számát, amelyek követik Önt. <a data-l10n-name="learn-more-link">További tudnivalók</a>
 tracker-tab-title = Nyomkövető tartalom
 tracker-tab-description = A weboldalak külső hirdetéseket, videókat és más nyomkövető kódot tartalmazó tartalmat tölthetnek be. A nyomkövető tartalmak blokkolása az oldalak gyorsabb betöltését eredményezheti, de egyes gombok, űrlapok és bejelentkezési mezők lehet, hogy nem fognak működni. <a data-l10n-name="learn-more-link">További tudnivalók</a>
 fingerprinter-tab-title = Ujjlenyomat-készítők
@@ -55,7 +50,6 @@ lockwise-title = Ne felejtsen el egyetlen jelszót sem
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = A { -lockwise-brand-name } biztonságosan tárolja a jelszavait a böngészőjében.
 lockwise-header-content-logged-in = Tárolja biztonságosan, és szinkronizálja a jelszavait az összes eszközén.
-about-logins-view-logins-button = Bejelentkezések megtekintése
 protection-report-view-logins-button = Bejelentkezések megtekintése
     .title = Ugrás a mentett bejelentkezésekhez
 lockwise-no-logins-content = Szerezze be a <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> alkalmazást, hogy bárhová elvigye a jelszavait.
@@ -117,10 +111,6 @@ password-warning =
         [one] A mentett bejelentkezés lehet, hogy kikerült egy adatsértésben. Módosítsa a jelszavát a nagyobb online biztonság érdekében. <a data-l10n-name="lockwise-link">Mentett bejelentkezések megtekintése</a>
        *[other] A mentett bejelentkezések lehet, hogy kikerültek egy adatsértésben. Módosítsa a jelszavakat a nagyobb online biztonság érdekében. <a data-l10n-name="lockwise-link">Mentett bejelentkezések megtekintése</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Ugrás az adatvédelmi beállításokhoz
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Ugrás a mentett bejelentkezésekhez
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
