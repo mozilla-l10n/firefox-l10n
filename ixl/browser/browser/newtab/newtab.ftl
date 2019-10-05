@@ -168,10 +168,20 @@ newtab-discovery-empty-section-topstories-header = Txiyel axh.
 newtab-discovery-empty-section-topstories-content = La pich'u xamtel ti' ootzit ka'taj txumb'al
 newtab-discovery-empty-section-topstories-try-again-button = B'an unpajte
 newtab-discovery-empty-section-topstories-loading = Ile' ni jaje'
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = ups! b'iit kuxh ye' kat oleb' o' ti' ijajpe', as ye' kat oleb' o'
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Unq'a txumb'al uva' pal chit talpe':
+newtab-pocket-more-recommendations = Ka'taj txumb'al
+newtab-pocket-how-it-works = Kam ni tulb'e taq'onve'
+newtab-pocket-cta-button = La k'ul u { -pocket-brand-name }
+newtab-pocket-cta-text = Kol unq'a vee' chukeltu ve't tu { -pocket-brand-name } as aq' chit te va txumb'ale' ti' asik'let unq'a vee' achveb'al chitu'.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = La kuy kupaav, at uma'l kam ye' kat el vitoj tul uva' ni'k teq'o ku'tzan u aq'one'.
+newtab-error-fallback-refresh-link = B'an tuch u u'uje' as la q'aavisa unpajte.
