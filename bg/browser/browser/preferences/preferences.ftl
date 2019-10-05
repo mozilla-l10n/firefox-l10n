@@ -617,12 +617,37 @@ prefs-syncing-off = Синхронизиране: ИЗКЛЮЧЕНО
 prefs-sync-setup =
     .label = Настройка на { -sync-brand-short-name }…
     .accesskey = н
+prefs-sync-offer-setup-label = Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.
+prefs-sync-now =
+    .labelnotsyncing = Синхронизиране
+    .accesskeynotsyncing = с
+    .labelsyncing = Синхронизиране…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = В момента се синхронизир тези елементи:
+sync-currently-syncing-bookmarks = Отметки
+sync-currently-syncing-history = История
+sync-currently-syncing-tabs = Отворени раздели
+sync-currently-syncing-logins-passwords = Регистрации и пароли
+sync-currently-syncing-addresses = Адреси
+sync-currently-syncing-creditcards = Банкови карти
+sync-currently-syncing-addons = Добавки
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Настройки
+       *[other] Настройки
+    }
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Изберете какво да бъде синхронизирано
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Запазване
+    .buttonaccesskeyaccept = з
+    .buttonlabelextra2 = Изключване…
+    .buttonaccesskeyextra2 = и
 sync-engine-bookmarks =
     .label = Отметки
     .accesskey = О
