@@ -57,6 +57,13 @@ onboarding-benefit-products-title = Unq'a uve' la chit txakoni
 onboarding-benefit-products-text = Tzojpisa unq'a aaq'one' tuk' unq'a molich aq'onb'ale' aq'al uva' la nimal unq'a vee' uve' eetz chitu' tulaj unq'a ach'ich'e'.
 onboarding-benefit-knowledge-title = Txumb'al uva' la chit b'anb'eli
 onboarding-benefit-knowledge-text = Chus kaajayil unq'a vee' nasa' ootzita' aq'al uva' jik chit ab'ene' as la chit ak'ujb'a' ak'u'l sti'.
+onboarding-benefit-privacy-title = Jik chit la eetzeb'i
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Jank'al chit unq'a vee' ni kub'ane' ni nima unq'a ni qale' ti' vee' qetz kuxhtu'. B'iil kuxh la eeq'o. Jik chit la aaq'kan. Ni kuxh la muje'.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -65,6 +72,8 @@ onboarding-benefit-knowledge-text = Chus kaajayil unq'a vee' nasa' ootzita' aq'a
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-private-browsing-title = Axh kuxh la xaan axh stuul
+onboarding-private-browsing-text = Axh kuxh la xaan axh. Uve' la xaan axh uva' axh kuxhtu' ti' imajax ivatz u aq'one' as la maj ivatz unq'a vee' uve' xekel see'.
 
 ## Message strings belonging to the Return to AMO flow
 
