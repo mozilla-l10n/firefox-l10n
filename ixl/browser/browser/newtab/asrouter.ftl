@@ -84,6 +84,22 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Kam ak' at ve'te'
 cfr-whatsnew-release-notes-link-text = Sik'le unq'a yole' at ti' unq'a vee' ni telch'u'l
 cfr-whatsnew-fx70-title = { -brand-short-name } a' ni tale' uva' la chit eel isuuchil uva' eetz chitu'
+cfr-whatsnew-fx70-body = U vee' a'n chit ni b'anax tuche' ni lochone' ti tilat iyak'insal ixaansale' as oora kuxh la icheesa kach'ub'al tetz uva' b'a'n chitu'.
+cfr-whatsnew-tracking-protect-title = La chit eel isuuchil ti' unq'a xaansab' tetze'
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } maj ivatz unq'a chukel tetze' as ka't unq'a vee' ni kuxh taq'onvu kan
+cfr-whatsnew-tracking-protect-link-text = Saji unq'a yole' kat taq'lutzan
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Il unq'a chukel tetz ile' majel ve't ivatz
+       *[other] Il unq'a chukel tetz ile' majel ve't ivatz
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Tu { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Saji u yole' at tzan sti'
+cfr-whatsnew-lockwise-backup-title = Kol kan uma'l ivatz unq'a kach'ub' tetze'
+cfr-whatsnew-lockwise-backup-body = La uch ve't acheesan kach'ub' tetz aq'al uva' la b'anb'e kat kuxhtu'.
 
 ## Bookmark Sync
 
