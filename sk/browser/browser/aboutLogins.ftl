@@ -73,6 +73,8 @@ about-logins-list-item-breach-icon =
 login-intro-heading = Hľadáte svoje uložené prihlasovacie údaje? Nastavte si { -sync-brand-short-name }.
 login-intro-description = Ak ste si uložili prihlasovacie údaje do aplikácie { -brand-product-name } na inom zariadení, môžete ich získať takto:
 login-intro-instruction-fxa = Vytvorte si { -fxaccount-brand-name } alebo sa doň prihláste na zariadení, kde máte prihlasovacie údaje uložené
+login-intro-instruction-fxa-settings = Uistite sa, že máte v nastaveniach služby { -sync-brand-short-name } na danom zariadení zaškrtnutú možnosť synchronizácie prihlasovacích údajov
+about-logins-intro-instruction-help = Ak potrebujete ďalšiu pomoc, navštívte <a data-l10n-name="help-link">pomocníka { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -113,6 +115,18 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Zrušiť
 confirmation-dialog-dismiss-button =
     .title = Zrušiť
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Chcete mať svoje heslá všade so sebou? Otvorte nastavenia služby { -sync-brand-short-name } a zaškrtnite možnosť synchronizácie prihlasovacích údajov.
+       *[other] Chcete mať svoje heslá všade so sebou? Otvorte nastavenia služby { -sync-brand-short-name } a zaškrtnite možnosť synchronizácie prihlasovacích údajov.
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Navštívte možnosti aplikácie { -sync-brand-short-name }
+           *[other] Navštívte možnosti aplikácie { -sync-brand-short-name }
+        }
+    .accesskey = m
 confirm-delete-dialog-title = Odstrániť tieto prihlasovacie údaje?
 confirm-delete-dialog-message = Túto akciu nie je možné vrátiť späť.
 confirm-delete-dialog-confirm-button = Odstrániť
