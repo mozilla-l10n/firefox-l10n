@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Składowak
 site-data-column-last-used =
     .label = Poslednje wužiće
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (lokalna dataja)
 site-data-remove-selected =
     .label = Wubrane wotstronić
     .accesskey = u
