@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Lëndën nën Digital Rights Management (DRM)
 play-drm-content =
@@ -505,6 +505,12 @@ search-bar-shown =
     .label = Shtoni te paneli shtyllë kërkimesh
 search-engine-default-header = Motor Parazgjedhje Kërkimesh
 search-engine-default-desc = Zgjidhni motorin parazgjedhje të kërkimeve që do të përdoret te shtylla e adresave dhe shtylla e kërkimeve.
+search-engine-default-private-desc = Zgjidhni motorin parazgjedhje të kërkimeve për t’u përdorur në Dritare Private.
+search-separate-default-engine =
+    .label = Në Dritare Private përdor këtë motor kërkimesh
+    .accesskey = p
+search-suggestions-header = Kërkoni Për Sugjerime
+search-suggestions-desc = Zgjidhini si shfaqen sugjerimet nga motorë kërkimesh.
 search-suggestions-option =
     .label = Ofro këshillime kërkimesh
     .accesskey = O
@@ -518,6 +524,7 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Shfaq te përfundimet në shtyllën e adresave sugjerime kërkimi përpara se historik shfletimi
+suggestions-addressbar-settings = Ndryshoni parapëlqime për historik shfletimesh, faqerojtës, dhe sugjerime skedash
 search-suggestions-cant-show = Këshillimet për kërkime nuk do të shfaqen te shtylla e vendndodhjeve, ngaqë { -brand-short-name }-in e keni formësuar të mos mbajë kurrë mend historikun e shfletimeve.
 search-one-click-header = Motorë kërkimesh me një klikim
 search-one-click-desc = Zgjidhni motorë alternativë kërkimesh që duket nën shtyllën e adresave dhe shtyllën e kërkimeve kur filloni të jepni një fjalëkyç.
@@ -554,6 +561,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Merreni Web-in me vete
 sync-signedout-description = Njëkohësoni nëpër krejt pajisjet tuaja faqerojtësit, historikun e shfletimeve, skedat, fjalëkalimet, shtesat dhe parapëlqimet tuaja.
 sync-signedout-account-title = Lidhuni përmes një { -fxaccount-brand-name }
@@ -574,11 +585,17 @@ sync-mobile-promo = Shkarkoni Firefox-in për <img data-l10n-name="android-icon"
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Ndryshoni foto profili
 sync-disconnect =
     .label = Shkëputeni…
     .accesskey = S
+sync-sign-out =
+    .label = Dilni…
+    .accesskey = D
 sync-manage-account = Administroni Llogari
     .accesskey = A
 sync-signedin-unverified = { $email } nuk është i verifikuar.
@@ -594,6 +611,38 @@ sync-sign-in =
     .accesskey = y
 sync-signedin-settings-header = Rregullime Njëkohësimesh
 sync-signedin-settings-desc = Zgjidhni ç'të njëkohësohet në pajisjet tuaja duke përdorur { -brand-short-name }-in.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Njëkohësim: ON
+prefs-syncing-off = Njëkohësim: OFF
+prefs-sync-setup =
+    .label = Ujdisni { -sync-brand-short-name }…
+    .accesskey = U
+prefs-sync-offer-setup-label = Njëkohësoni nëpër krejt pajisjet tuaja faqerojtësit, historikun e shfletimeve, skedat, fjalëkalimet, shtesat dhe parapëlqimet tuaja.
+prefs-sync-now =
+    .labelnotsyncing = Njëkohësoji Tani
+    .accesskeynotsyncing = N
+    .labelsyncing = Po njëkohësohet…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = Po njëkohësoni këto objekte:
+sync-currently-syncing-bookmarks = Faqerojtës
+sync-currently-syncing-history = Historik
+sync-currently-syncing-tabs = Skeda të hapura
+sync-currently-syncing-logins-passwords = Kredenciale hyrjesh dhe fjalëkalime
+sync-currently-syncing-addresses = Adresa
+sync-currently-syncing-creditcards = Karta krediti
+sync-currently-syncing-addons = Shtesa
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Mundësi
+       *[other] Parapëlqime
+    }
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Faqerojtësit e Mi
     .accesskey = F
@@ -628,6 +677,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Të dhëna të Përgjithshme, Privatësie dhe Sigurie që i keni ndryshuar ju
     .accesskey = P
+
+## The device name controls.
+
 sync-device-name-header = Emër Pajisjeje
 sync-device-name-change =
     .label = Ndryshoni Emër Pajisjeje…
@@ -818,7 +870,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Vetjak
     .accesskey = V
 
-##
+
 
 content-blocking-etp-standard-desc = I baraspeshuar për mbrojtje dhe funksionim. Faqet do të ngarkohen normalisht.
 content-blocking-etp-strict-desc = Mbrojtje më e fortë, por mund të shkaktojë mosfunksionim për disa sajte apo lëndë.

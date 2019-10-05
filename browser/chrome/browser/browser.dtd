@@ -156,18 +156,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "I futur si">
 <!ENTITY fxa.menu.manageAccount.label "Administroni Llogari…">
+<!ENTITY fxa.menu.syncSettings.label "Rregullime të &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "Rregullime të &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.syncSettings2.label "Rregullime të &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Lidhni Një Tjetër Pajisje…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Hyni te &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Aktivizoni &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Llogari">
 <!ENTITY fxa.menu.firefoxServices.label "Shërbime &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Llogari">
+<!ENTITY fxa.menu.settings.label "Rregullime">
+<!ENTITY fxa.menu.accountSettings.label "Rregullime Llogarie">
+<!ENTITY fxa.menu.signOut.label "Dilni…">
+<!ENTITY fxa.menu.deviceSettings.label "Rregullime Pajisjeje">
+<!ENTITY fxa.menu.setupSync.label "Ujdisni &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -252,6 +259,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administroni përdorim shtojcash">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Ndryshoni zgjedhjen për nëse mund të merrni njoftime prej sajtit apo jo">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Depozitoni të dhëna në Depozitë të Qëndrueshme">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Fshiheni Anështyllën e Faqerojtësve">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Hap panel Mirëfilltësimesh Web">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Hapni panelin e lejeve mbi veprimtari shfletimi">
@@ -437,8 +445,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Doni të shihni këtu skedat tuaja prej pajisjesh të tjera?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Hapni Parapëlqime Sync-u">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Bëni hyrjen që të shihni një listë skedash prej pajisjesh tuajat të tjera.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Shihni një listë skedash prej pajisje tuajat të tjera.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Llogaria juaj duhet verifikuar.">
 <!ENTITY appMenuRemoteTabs.signin.label "Bëni hyrjen, që të Njëkohësohet">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Hyni në &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Aktivizoni &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administroni Pajisje…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Shihni Anështyllën e Skedave të Njëkohësuara">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Fshih Anështyllë Skedash të Njëkohësuara">
@@ -977,10 +988,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Gjurmues">
 
 <!ENTITY contentBlocking.manageSettings.label "Administroni Bllokim Lënde">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Lëndë Gjurmimi">
-
-<!ENTITY contentBlocking.manageSettings2.label "Administroni Rregullime për Mbrojtje">
 <!ENTITY contentBlocking.manageSettings.accesskey "A">
 
 <!ENTITY contentBlocking.trackersView.label "Gjurmues">
@@ -989,6 +996,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies dhe të Dhëna Sajti">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Lëndë Gjurmimi">
+
+<!ENTITY contentBlocking.manageSettings2.label "Administroni Rregullime për Mbrojtje">
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Gjurmues Mediash Shoqërore">
 
