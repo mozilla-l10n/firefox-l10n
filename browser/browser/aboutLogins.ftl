@@ -61,6 +61,11 @@ about-logins-login-list-empty-search-description = No hay resultados que coincid
 login-list-item-title-new-login = Nueva conexión
 login-list-item-subtitle-new-login = Ingresa tus credenciales de conexión
 login-list-item-subtitle-missing-username = (sin nombre de usuario)
+about-logins-list-item-warning-icon =
+    .alt = Ícono de advertencia
+    .title = Sitio web vulnerado
+about-logins-list-item-breach-icon =
+    .title = Sitio web vulnerado
 
 ## Introduction screen
 
