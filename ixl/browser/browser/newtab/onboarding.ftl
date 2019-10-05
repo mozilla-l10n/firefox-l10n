@@ -54,6 +54,9 @@ onboarding-sync-form-sub-header = Aq'al uva' la pal axh tu { -sync-brand-name }
 ## description.
 
 onboarding-benefit-products-title = Unq'a uve' la chit txakoni
+onboarding-benefit-products-text = Tzojpisa unq'a aaq'one' tuk' unq'a molich aq'onb'ale' aq'al uva' la nimal unq'a vee' uve' eetz chitu' tulaj unq'a ach'ich'e'.
+onboarding-benefit-knowledge-title = Txumb'al uva' la chit b'anb'eli
+onboarding-benefit-knowledge-text = Chus kaajayil unq'a vee' nasa' ootzita' aq'al uva' jik chit ab'ene' as la chit ak'ujb'a' ak'u'l sti'.
 
 ## These strings belong to the individual onboarding messages.
 
