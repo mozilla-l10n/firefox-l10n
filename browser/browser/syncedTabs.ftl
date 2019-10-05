@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Синхронизирани раздели
 synced-tabs-sidebar-noclients-subtitle = Искате ли да видите свои раздели от други устройства тук?
 synced-tabs-sidebar-notsignedin = Впишете се, за да видите списък с раздели от други ваши устройства.
+synced-tabs-sidebar-intro = Вижте списък с разделите от другите ваши устройства.
 synced-tabs-sidebar-unverified = Сметката ви трябва да бъде потвърдена.
 synced-tabs-sidebar-notabs = Няма отворени раздели
 synced-tabs-sidebar-openprefs = Настройки на { -sync-brand-short-name }
@@ -37,3 +38,4 @@ synced-tabs-context-manage-devices =
     .label = Управление на устройства…
     .accesskey = У
 fxa-sign-in = Вписване в { -sync-brand-short-name }
+turn-on-sync = Включване на { -sync-brand-short-name }

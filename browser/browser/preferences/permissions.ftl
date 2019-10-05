@@ -70,6 +70,7 @@ permissions-exceptions-content-blocking-desc = Изключили сте огр�
 permissions-exceptions-etp-window =
     .title = Изключения в разширената защита от проследяване
     .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Защитите са изключени за тези страници.
 
 ## Exceptions - Cookies
 

@@ -447,7 +447,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Искате ли да видите свои раздели от други устройства тук?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Настройки на Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Впишете се, за да видите списък с раздели от други ваши устройства.">
-<!ENTITY appMenuRemoteTabs.welcome.label "Вижте списък с раздели от другите ваши устройства.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Вижте списък с разделите от другите ваши устройства.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Сметката ви трябва да бъде потвърдена.">
 <!ENTITY appMenuRemoteTabs.signin.label "Вписване в Sync">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Вписване в &syncBrand.shortName.label;…">
@@ -933,7 +933,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Спрени">
 <!ENTITY protections.notBlocking2.label "Разрешени">
-<!ENTITY protections.notFound.label "Не намерени">
+<!ENTITY protections.notFound.label "Липсващи">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->

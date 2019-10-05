@@ -16,6 +16,15 @@ tracker-tab-description = Страниците могат да зареждат 
 fingerprinter-tab-title = Снемане на цифров отпечатък
 fingerprinter-tab-content = Компаниите, които снемат цифров отпечатък събират настройки от вашия мрежов четец и компютър, за да създадат потребителски профил. Използвайки този цифров отпечатък, те могат да ви проследят в различни уебсайтове. <a data-l10n-name="learn-more-link">Научете повече</a>
 cryptominer-tab-title = Добиване на криптовалути
+cryptominer-tab-content = Добиването на криптовалути използва изчислителната мощ на вашата система, за да извличане на цифрови пари. Скриптовете за добиване на криптовалута изтощават батерията, забавят компютъра и могат да увеличат сметката ви за електроенергия. <a data-l10n-name="learn-more-link">Научете повече</a>
+lockwise-title = Никога не забравяйте отново парола
+lockwise-title-logged-in = { -lockwise-brand-name }
+protection-report-view-logins-button = Преглед на регистрациите
+    .title = Отваря запазените регистрации
+turn-on-sync = Включване на { -sync-brand-short-name }…
+    .title = Отваря настройките на синхронизиране
+manage-devices = Управление на устройства
+monitor-title = Внимавайте за кражба на данни
 monitor-link = Как работи
 
 ## The title attribute is used to display the type of protection.
