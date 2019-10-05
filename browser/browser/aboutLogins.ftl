@@ -103,6 +103,8 @@ confirmation-dialog-cancel-button = Отказ
 confirmation-dialog-dismiss-button =
     .title = Отказ
 confirm-delete-dialog-confirm-button = Изтриване
+confirm-discard-changes-dialog-message = Незапазените промени ще бъдат изгубени.
+confirm-discard-changes-dialog-confirm-button = Отхвърляне
 
 ## Breach Alert notification
 
