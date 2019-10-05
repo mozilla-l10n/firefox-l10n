@@ -75,6 +75,7 @@ newtab-menu-topsites-placeholder-tooltip =
 
 newtab-menu-edit-topsites = B'an tuche'
 newtab-menu-open-new-window = Jaj ma't ak tzikab'al.
+newtab-menu-open-new-private-window = La jaj tu uma'l ak'a ilb'al
 newtab-menu-dismiss = Eesa kan
 newtab-menu-pin = PIN
 newtab-menu-unpin = Chajpu
@@ -128,6 +129,8 @@ newtab-label-download = Kat eq'ol kutzan.
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Sojsa el u tanule'
+newtab-section-menu-collapse-section = La eeq'otzan tanul
+newtab-section-menu-expand-section = Inimb'isal Tanul
 newtab-section-menu-move-up = Al ije'e'
 newtab-section-menu-move-down = Ok'utzan
 
