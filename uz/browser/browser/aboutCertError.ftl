@@ -14,6 +14,9 @@ cert-error-trust-expired-issuer = Sertifikat ishonchli emas, chunki sertifikatni
 cert-error-trust-self-signed = Sertifikat ishonchli emas, chunki uni o‘zi kiritgan.
 cert-error-untrusted-default = Sertifikat ishonchli manbadan emas.
 # Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = Xatolik kodi: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP mustahkam transport xavfsizligi: { $hasHSTS }
 # Variables:
