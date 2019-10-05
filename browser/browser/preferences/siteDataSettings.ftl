@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Depolama
 site-data-column-last-used =
     .label = Son kullanım
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (yerel dosya)
 site-data-remove-selected =
     .label = Seçilenleri sil
     .accesskey = S
@@ -28,11 +30,6 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Değişiklikleri kaydet
     .accesskey = a
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (Kalıcı)
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
