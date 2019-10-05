@@ -14,6 +14,7 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = ਧਿਆਨ ਨਾਲ ਅੱਗੇ ਵਧੋ
+about-config-intro-warning-checkbox = ਮੈਨੂੰ ਸੂਚਿਤ ਕਰੋ ਜਦੋਂ ਮੈਂ ਇਨ੍ਹਾਂ ਤਰਜੀਹਾਂ ਨੂੰ ਵੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਾਂਗਾ
 about-config-intro-warning-button = ਖ਼ਤਰੇ ਨੂੰ ਮੰਨੋ ਤੇ ਜਾਰੀ ਰੱਖੋ
 
 
