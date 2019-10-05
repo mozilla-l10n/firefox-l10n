@@ -108,12 +108,24 @@ cfr-doorhanger-sync-bookmarks-ok-button = روشن کردنِ { -sync-brand-shor
 
 cfr-doorhanger-sync-logins-header = هرگز گذرواژه خود را از گم نکنید
 cfr-doorhanger-sync-logins-body = به شکل امن گذرواژه‌های خود را در تمام دستگاه‌های خود ذخیره و همگام‌سازی کنید.
+cfr-doorhanger-sync-logins-ok-button = روشن کردن { -sync-brand-short-name }
+    .accesskey = T
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-recipe-header = این دستورالعمل را به آشپزخانه ببرید
+cfr-doorhanger-send-tab-ok-button = ارسال زبانه را امتحان کنید
+    .accesskey = T
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = این PDF را به شکل امن به اشتراک بگذارید
+cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } را امتحان کنید
+    .accesskey = T
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = دیدن محافطت‌ها
+    .accesskey = P
+cfr-doorhanger-socialtracking-close-button = بستن
+    .accesskey = C
