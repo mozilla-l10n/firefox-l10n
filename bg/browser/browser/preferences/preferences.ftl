@@ -829,10 +829,10 @@ content-blocking-third-party-cookies = Странични бисквитки з�
 
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 enhanced-tracking-protection-setting-standard =
-    .label = Стандартно
+    .label = Стандартна
     .accesskey = с
 enhanced-tracking-protection-setting-strict =
-    .label = Строго
+    .label = Строга
     .accesskey = т
 enhanced-tracking-protection-setting-custom =
     .label = По избор
