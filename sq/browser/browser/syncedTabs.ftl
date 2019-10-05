@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Skeda të Njëkohësuara
 synced-tabs-sidebar-noclients-subtitle = Doni të shihni këtu skedat tuaja prej pajisjesh të tjera?
 synced-tabs-sidebar-notsignedin = Bëni hyrjen që të shihni një listë skedash prej pajisjesh tuajat të tjera.
+synced-tabs-sidebar-intro = Shihni një listë skedash prej pajisjesh tuajat të tjera.
 synced-tabs-sidebar-unverified = Llogaria juaj duhet verifikuar.
 synced-tabs-sidebar-notabs = S'ka skeda të hapura
 synced-tabs-sidebar-openprefs = Hapni Parapëlqimet për { -sync-brand-short-name }-un
@@ -37,3 +38,4 @@ synced-tabs-context-manage-devices =
     .label = Administroni Pajisje…
     .accesskey = P
 fxa-sign-in = Hyni te { -sync-brand-short-name }-u
+turn-on-sync = Aktivizoni { -sync-brand-short-name }

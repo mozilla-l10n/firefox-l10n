@@ -643,6 +643,13 @@ sync-currently-syncing-prefs =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Zgjidhni Ç’të Njëkohësohet
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Ruaji Ndryshimet
+    .buttonaccesskeyaccept = R
+    .buttonlabelextra2 = Shkëputuni…
+    .buttonaccesskeyextra2 = u
 sync-engine-bookmarks =
     .label = Faqerojtësit e Mi
     .accesskey = F
@@ -656,6 +663,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = Kredenciale hyrjesh
     .tooltiptext = Emra përdoruesi dhe fjalëkalime qe keni ruajtur
+    .accesskey = K
+sync-engine-logins-passwords =
+    .label = Kredenciale hyrjesh dhe fjalëkalime
+    .tooltiptext = Emra përdoruesish dhe fjalëkalime që keni ruajtur
     .accesskey = K
 sync-engine-addresses =
     .label = Adresa
@@ -884,6 +895,7 @@ content-blocking-all-windows-trackers = Gjurmues të njohur në krejt dritaret
 content-blocking-all-windows-tracking-content = Gjurmim lënde në krejt dritaret
 content-blocking-all-third-party-cookies = Krejt cookie-t prej palësh të treta
 content-blocking-cryptominers = Nxjerrës kriptomonedhash
+content-blocking-fingerprinters = Krijues shenja gishtash
 content-blocking-warning-title = Kini mendjen!
 content-blocking-warning-description = Bllokimi i lëndës mund të dëmtojë funksionimin e disa sajteve. Është e lehtë të çaktivizoni bllokimin për sajte të cilëve u zini besë.
 content-blocking-learn-how = Mësoni se si

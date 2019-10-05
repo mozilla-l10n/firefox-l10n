@@ -133,3 +133,16 @@ cfr-doorhanger-firefox-send-header = Ndajeni me të tjerët në mënyrë të par
 cfr-doorhanger-firefox-send-body = Mbajini dokumentet tuaj rezervat të parrezikuar nga sy përgjues, me fshehtëzim skaj-më-skaj dhe një lidhje që zhduket pasi të keni mbaruar punë.
 cfr-doorhanger-firefox-send-ok-button = Provoni { -send-brand-name }
     .accesskey = P
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Shihni Mbrojtje
+    .accesskey = o
+cfr-doorhanger-socialtracking-close-button = Mbylle
+    .accesskey = M
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } ndali gjurmimin tuaj këtu prej një rrjeti shoqëror
+cfr-doorhanger-socialtracking-description = Privatësia juaj ka vlerë. { -brand-short-name } tanimë bllokon gjurmues prej rrjetesh të zakonshëm mediash shoqërore, duke kufizuar sa të dhëna mund të grumbullojnë rreth asaj çka bëni në internet.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } bllokoi në këtë faqe nëj krijuesh shenjash gishtash
+cfr-doorhanger-fingerprinters-description = Privatësia juaj ka vlerë. { -brand-short-name } tanimë bllokon krijues shenjash gishtash, të cilët grumbullojnë rreth pajisjes tuaj të dhëna të identifikueshme në mënyrë unike për t’ju gjurmuar.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } bllokoi në këtë faqe një nxjerrës kriptomonedhash
+cfr-doorhanger-cryptominers-description = Privatësia juaj ka vlerë. { -brand-short-name } tanimë bllokon nxjerrës kriptomonedhash, të cilët përdorin fuqinë e përllogaritjes së sistemit tuaj për të nxjerrë para dixhitale.
