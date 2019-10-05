@@ -889,6 +889,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Mirë se vini te &brandShortName;">
+<!ENTITY activity_stream_signin_description "Filloni të njëkohësoni faqerojtës, fjalëkalime, etj me llogarinë tuaj Firefox.">
 <!ENTITY activity_stream_signin_button "Hyni">
 
 <!ENTITY activity_stream_signup_button "Regjistrohuni">
