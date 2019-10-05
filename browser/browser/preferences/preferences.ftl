@@ -29,6 +29,7 @@ search-input-box =
             [windows] پیدا‌کردن در گزینه‌ها
            *[other] پیدا‌کردن در ترجیحات
         }
+managed-notice = مرورگر شما توسط سازمان شما مدیریت می شود.
 pane-general-title = عمومی
 category-general =
     .tooltiptext = { pane-general-title }
@@ -41,6 +42,9 @@ category-search =
 pane-privacy-title = حریم‌خصوصی و امنیت
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = پشتیبانی { -brand-short-name }
 addons-button-label = افزونه‌ها و پوسته‌ها
 focus-search =
@@ -303,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = محتوا مدیریت حقوق دیجیتال(DRM)
 play-drm-content =
@@ -336,6 +340,13 @@ update-pref-write-failure-title = خطای نگارش
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = امکان ذخیرهٔ ترجیحات نیست. نوشتن در پرونده امکان‌پذیر نبود: { $path }
+update-setting-write-failure-title = خطا در ذخیره کردن ترجیحات بروزرسانی
+update-in-progress-title = در حال بروزرسانی
+update-in-progress-message = آیا می‌خواهید { -brand-short-name } به این بروزرسانی ادامه بدهد؟
+update-in-progress-ok-button = &نادیده گرفتن
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &ادامه
 
 ## General Section - Performance
 
@@ -375,6 +386,10 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = هنگامی که شروع به وارد کردن حروف می‌کنم، به دنبال متن جست‌وجو شود
     .accesskey = ج
+browsing-picture-in-picture-toggle-enabled =
+    .label = کنترل‌های ویدیویی تصویر در تصویر را فعال کنید
+    .accesskey = E
+browsing-picture-in-picture-learn-more = بیشتر بدانید
 browsing-cfr-recommendations-learn-more = بیشتر بدانید
 
 ## General Section - Proxy
@@ -458,6 +473,7 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = قطعه‌ها
+home-prefs-snippets-description = بروزرسانی از { -vendor-short-name } و { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -523,6 +539,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = وب را با خودتان همراه کنید
 sync-signedout-description = نشانک‌ها، تاریخچه، زبانه‌ها، گذرواژه‌ها، افزونه‌ها و ترجیحات خود را در تمام دستگاه‌هایتان همگام کنید.
 sync-signedout-account-title = اتصال به یک { -fxaccount-brand-name }
@@ -543,11 +563,17 @@ sync-mobile-promo = بارگیری فایرفاکس برای <img data-l10n-name
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = تغییرتصویر نمایه
 sync-disconnect =
     .label = قطع ارتباط…
     .accesskey = ق
+sync-sign-out =
+    .label = خروج...
+    .accesskey = g
 sync-manage-account = مدیریت حساب
     .accesskey = ح
 sync-signedin-unverified = { $email } تایید نشده است.
@@ -563,6 +589,38 @@ sync-sign-in =
     .accesskey = و
 sync-signedin-settings-header = تنظیمات همگام‌سازی
 sync-signedin-settings-desc = اینکه چه چیزهایی بر روی دستگاه‌هایتان توسط { -brand-short-name } همگام‌سازی شوند را انتخاب کنید.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = همگام‌سازی: روشن
+prefs-syncing-off = همگام‌سازی: خاموش
+prefs-sync-setup =
+    .label = راه اندازی { -sync-brand-short-name }...
+    .accesskey = S
+prefs-sync-offer-setup-label = نشانک‌ها، تاریخچه، زبانه‌ها، گذرواژه‌ها، افزونه‌ها و ترجیحات خود را در تمام دستگاه‌هایتان همگام کنید.
+prefs-sync-now =
+    .labelnotsyncing = هم‌اکنون همگام‌سازی کنید
+    .accesskeynotsyncing = N
+    .labelsyncing = درحال همگام‌سازی...
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = شما در حال همگام‌سازی این موارد هستید:
+sync-currently-syncing-bookmarks = نشانک‌ها
+sync-currently-syncing-history = تاریخچه
+sync-currently-syncing-tabs = زبانه‌های باز
+sync-currently-syncing-logins-passwords = ورودها و گذرواژه‌ها
+sync-currently-syncing-addresses = نشانی‌ها
+sync-currently-syncing-creditcards = کارت‌های اعتباری
+sync-currently-syncing-addons = افزونه‌ها
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] گزینه‌ها
+       *[other] ترجیحات
+    }
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = نشانک‌ها
     .accesskey = ن
@@ -597,6 +655,9 @@ sync-engine-prefs =
         }
     .tooltiptext = عمومی،‌ حریم شخصی، و تنظیمات امنیتی که شما تغییر داده اید
     .accesskey = ت
+
+## The device name controls.
+
 sync-device-name-header = نام دستگاه
 sync-device-name-change =
     .label = تغییر نام دستگاه…
@@ -761,7 +822,7 @@ enhanced-tracking-protection-setting-custom =
     .label = سفارشی
     .accesskey = C
 
-##
+
 
 content-blocking-all-cookies = همه کوکی‌ها
 content-blocking-all-windows-trackers = ردیاب‌های شناخته شده در تمام پنجره‌ها

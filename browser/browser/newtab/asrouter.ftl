@@ -129,3 +129,7 @@ cfr-doorhanger-socialtracking-ok-button = دیدن محافطت‌ها
     .accesskey = P
 cfr-doorhanger-socialtracking-close-button = بستن
     .accesskey = C
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } یک شبکه اجتماعی را در هنگام ردیابی شما متوقف کرد
+cfr-doorhanger-socialtracking-description = حریم‌خصوصی شما اهمیت دارد. { -brand-short-name } ردیاب‌های متداولِ رسانه‌های اجتماعی را مسدود، و میزان داده‌هایی که می‌توانند در مورد آنچه که برخط انجام می‌دهید جمع‌آوری کنند را محدود می‌کند.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } یک استخراج کنندهٔ رمزارزها را در این صفحه مسدود کرد
+cfr-doorhanger-cryptominers-description = حریم‌خصوصی شما اهمیت دارد. { -brand-short-name } استخراج کننده‌های رمز‌ارزها را که از قدرت پردازش سیستم شما برای استخراج پول دیجیتالی استفاده می‌کنند، مسدود می‌کند.
