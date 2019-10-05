@@ -107,6 +107,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = روشن کردنِ { -sync-brand-shor
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = هرگز گذرواژه خود را از گم نکنید
+cfr-doorhanger-sync-logins-body = به شکل امن گذرواژه‌های خود را در تمام دستگاه‌های خود ذخیره و همگام‌سازی کنید.
 
 ## Send Tab
 
