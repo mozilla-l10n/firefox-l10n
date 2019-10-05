@@ -307,6 +307,7 @@
 <!ENTITY TextColorButton.tooltip "Zgjidhni ngjyrë për tekstin">
 <!ENTITY BackgroundColorButton.tooltip "Zgjidhni ngjyrë për sfondin">
 <!ENTITY throbber.tooltip "Shko tek kreu i &vendorShortName;-it">
+<!ENTITY throbber.tooltip2 "Shko te kreu i &brandShortName;-it">
 <!ENTITY HighlightColorButton.tooltip "Zgjidhni ngjyrë theksimi teksti">
 
 <!-- Editor toolbar -->

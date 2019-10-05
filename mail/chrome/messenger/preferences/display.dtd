@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Lexim">
 <!ENTITY display.caption                  "Shfaqje">
+<!ENTITY displayName.label                "Emër në ekran:">
 <!ENTITY showCondensedAddresses.label     "Për persona në librin tim të adresave shfaq vetëm emër ekrani">
 <!ENTITY showCondensedAddresses.accesskey "P">
 

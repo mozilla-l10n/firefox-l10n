@@ -41,6 +41,7 @@
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
+<!ENTITY  noproxyLocalhostDesc.label   "Lidhjet me localhost, 127.0.0.1, dhe ::1 nuk kalohen kurrë përmes ndërmjetësi.">
 <!ENTITY  shareproxy.label              "Përdor këtë shërbyes ndërmjetës për tërë protokollet">
 <!ENTITY  shareproxy.accesskey          "d">
 <!ENTITY  autologinproxy.label          "Mos shfaq kërkesë mirëfilltësimi, nëse është ruajtur fjalëkalim">
