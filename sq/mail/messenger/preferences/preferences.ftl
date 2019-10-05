@@ -2,6 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pane-general-title = Të përgjithshme
+category-general =
+    .tooltiptext = { pane-general-title }
+general-language-and-appearance-header = Gjuhë & Dukje
+general-incoming-mail-header = Email-e Ardhëse
+general-files-and-attachment-header = Kartela & Bashkëngjitje
+general-tags-header = Etiketa
+general-reading-and-display-header = Lexim & Shfaqje
+general-updates-header = Përditësime
+general-network-and-diskspace-header = Hapësirë në Rrjet & Disk
+general-indexing-label = Indeksim
+composition-category-header = Hartim
+composition-attachments-header = Bashkëngjitje
+composition-spelling-title = Drejtshkrim
+compose-html-style-title = Stil HTML
+composition-addressing-header = Adresim
+privacy-main-header = Privatësi
+privacy-passwords-header = Fjalëkalime
+privacy-junk-header = E pavlerë
+privacy-data-collection-header = Grumbullim dhe Përdorim të Dhënash
+privacy-security-header = Siguri
+privacy-scam-detection-title = Pikasje Mashtrimesh
+privacy-anti-virus-title = Antivirus
+privacy-certificates-title = Dëshmi
+chat-pane-header = Fjalosje
+chat-status-title = Gjendje
+chat-notifications-title = Njoftime
+chat-pane-styling-header = Stilizim
 choose-messenger-language-description = Zgjidhni gjuhët e përdorura për shfaqje menush, mesazhesh, dhe njoftimesh nga { -brand-short-name }-i.
 manage-messenger-languages-button =
     .label = Caktoni Alternativa…

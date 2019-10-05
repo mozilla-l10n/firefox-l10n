@@ -586,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Skedojeni mesazhin e përzgjedhur">
 <!ENTITY archiveButton.tooltip "Mesazhe të përzgjedhur në arkiv">
 <!ENTITY openConversationButton.tooltip "Shfaq bisedën e mesazhit të përzgjedhur">
+<!ENTITY openMsgConversationButton.tooltip "Shfaq bisedën e mesazhit të përzgjedhur">
 <!ENTITY nextButton.tooltip "Kaloni te mesazhi i palexuar pasues">
 <!ENTITY nextMsgButton.tooltip "Kaloni te mesazhi pasues">
 <!ENTITY previousButton.tooltip "Kaloni te mesazhi i mëparshëm i palexuar">
@@ -705,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Ruajeni Kërkimin si Dosje…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Përzgjidhni Mesazhe">
 <!ENTITY threadColumn.label "Rrjedhë">
 <!ENTITY fromColumn.label "Prej">
 <!ENTITY recipientColumn.label "Marrës">
@@ -728,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Përzgjidhni shtylla që të shfaqen">
+<!ENTITY selectColumn.tooltip "Aktivizoni/çaktivizoni përzgjedhjen e krejt mesazheve">
 <!ENTITY threadColumn2.tooltip "Shfaq rrjedha mesazhesh">
 <!ENTITY fromColumn2.tooltip "Renditi sipas nga-ve">
 <!ENTITY recipientColumn2.tooltip "Renditi sipas marrësit">

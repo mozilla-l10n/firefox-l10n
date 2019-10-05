@@ -123,3 +123,7 @@
 <!ENTITY viewSecurityDevices.label "Pajisje Sigurie">
 <!ENTITY viewSecurityDevices.accesskey "a">
 
+<!ENTITY manageCertificates2.label "Administroni Dëshmi…">
+<!ENTITY manageCertificates2.accesskey "A">
+<!ENTITY viewSecurityDevices2.label "Pajisje Sigurie…">
+<!ENTITY viewSecurityDevices2.accesskey "P">

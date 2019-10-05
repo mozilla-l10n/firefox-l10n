@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Bashkëngjitje">
 <!ENTITY panePrivacy.title        "Privatësi">
 <!ENTITY paneSecurity.title       "Siguri">
+<!ENTITY panePrivacySecurity.title "Privatësi &amp; Siguri">
 <!ENTITY paneLightning.title      "Kalendar">
 <!ENTITY paneAdvanced.title       "Të mëtejshme">
 <!ENTITY paneAccount.title        "Llogari">
