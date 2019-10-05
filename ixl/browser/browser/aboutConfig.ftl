@@ -14,11 +14,14 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Yakeb'en ti jik'il
+about-config-intro-warning-text = Asoj la jalpu  ib'anil u aq'one'  naale' as la iyansa tatine', as ye'xh kam oora koj kuxh la aq'onvu ve'te'{ -brand-short-name }
 about-config-intro-warning-checkbox = La alax  svej tul uva' la ok in tu  joltu aq'on.
 about-config-intro-warning-button = Kam  kuxh valexh tuk' a paleb'e tane tan la yak'eb'axh.
 
 
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Atinb'al uva' ye' ootzimal!
 about-config-page-title = Aq'on ve ti talche'.
 about-config-search-input1 =
     .placeholder = Ib'ii unq'a vee' uve' palchit achukata'
