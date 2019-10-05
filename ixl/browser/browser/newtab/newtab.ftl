@@ -134,22 +134,40 @@ newtab-section-menu-expand-section = Inimb'isal Tanul
 newtab-section-menu-manage-section = Il isuuchil tanul
 newtab-section-menu-manage-webext = Il isuuchil taq'il
 newtab-section-menu-add-topsite = Aq'ku' u pal chit ib'anb'ele'
+newtab-section-menu-add-search-engine = Aq'ku' taq'onb'al ti' ichukpe'
 newtab-section-menu-move-up = Al ije'e'
 newtab-section-menu-move-down = Ok'utzan
+newtab-section-menu-privacy-notice = Yol ti' uva' eetz kuxhtu'
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = Eq'otzan tanul
+newtab-section-expand-section-label =
+    .aria-label = Inimb'isal Tanul
 
 ## Section Headers.
 
+newtab-section-header-topsites = Uve' pal chit tilpe'
 newtab-section-header-highlights = Ni lib'lolan
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = A' u { $provider } ni alon uva' la b'anb'eli
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Xe'ten ti' axaane' as la kuk'uch see unq'a b'anla yole', unq'a video as ka'taj u'uj uva' a'n-nal kuxh asajijta as at ve't ku' ti taq'ax texhlal.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = At ku' chit axh sti' junq'ii. la q'aav axh unpajte as la chuk unq'a vee' ilel kan ta'n u { $provider }. Ye' la uch itx'eb'one'? Txaa uma'l txumb'al uva' pal chit tab'ile' as la lej ka'taj yol uva' achveb'al chit tilpe' tu web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = Txiyel axh.
+newtab-discovery-empty-section-topstories-content = La pich'u xamtel ti' ootzit ka'taj txumb'al
+newtab-discovery-empty-section-topstories-try-again-button = B'an unpajte
+newtab-discovery-empty-section-topstories-loading = Ile' ni jaje'
 
 ## Pocket Content Section.
 
