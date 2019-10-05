@@ -10,6 +10,13 @@ about-config-warning-button = خطر را می‌پذیرم
 about-config2-title = پیکربندی‌های پیشرفته
 about-config-search-input =
     .placeholder = جستجو
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = با هوشیاری پیش بروید
+
+
+
 about-config-show-all = نمایش همه
 about-config-pref-add = اضافه کردن
 about-config-pref-toggle = تغییر وضعیت
