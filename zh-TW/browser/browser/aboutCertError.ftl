@@ -8,7 +8,7 @@ cert-error-intro = { $hostname } 用了無效的安全憑證。
 cert-error-mitm-intro = 網站會透過憑證機構簽發的憑證來驗明正身。
 cert-error-mitm-mozilla = { -brand-short-name } 是由非營利的 Mozilla 所提供支援的。Mozilla 管理一組完全開放的憑證機構（CA）儲存空間。該儲存空間可確保憑證機構遵循最佳的作業方式，以確保使用者的安全。
 cert-error-mitm-connection = { -brand-short-name } 使用 Mozilla 的憑證機構儲存空間來檢查連線是否安全，而不使用使用者作業系統上的內建憑證。所以如果您的防毒軟體或網路使用不在 Mozilla 憑證機構清單當中的機構所簽發的憑證來攔截網路流量，連線就會被視為不安全。
-cert-error-trust-unknown-issuer-intro = 有心人士可能正在嘗試將別的網站偽裝成您想造訪的網站，您不應繼續開啟。
+cert-error-trust-unknown-issuer-intro = 有心人士可能正在嘗試將別的網站偽裝成您想造訪的網站，不應繼續開啟。
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = 網站會透過憑證來證明自己的身分。因為簽發者未知、憑證是自簽憑證，或伺服器並未送出正確的中介憑證的關係，{ -brand-short-name } 無法信任 { $hostname }。
