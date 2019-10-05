@@ -938,6 +938,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Защо?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Ограничаването им може да наруши елементи на някои страници. Без проследяване някои бутони, формуляри и полета за вход може да не работят.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Изключването на защитите ще позволи на всички проследявания на тази страница. Също може да подобри някои възможности на страницата.">
 <!ENTITY protections.socialMediaTrackers.label "Проследяване от социални мрежи">
 <!ENTITY protections.crossSiteTrackingCookies.label "Бисквитки за следене в различни сайтове">
 <!ENTITY protections.trackingContent.label "Проследяващо съдържание">
