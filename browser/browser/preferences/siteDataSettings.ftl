@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Depozitë
 site-data-column-last-used =
     .label = Përdorur Së Fundi Më
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (kartelë vendore)
 site-data-remove-selected =
     .label = Hiq të Përzgjedhurën
     .accesskey = H
@@ -31,13 +33,10 @@ site-data-button-save =
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (I qëndrueshëm)
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-storage-usage =
     .value = { $value } { $unit }
+site-storage-persistent =
+    .value = { site-storage-usage.value } (I qëndrueshëm)
 site-data-remove-all =
     .label = Hiqi Krejt
     .accesskey = i

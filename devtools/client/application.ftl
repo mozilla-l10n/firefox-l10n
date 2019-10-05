@@ -71,6 +71,9 @@ serviceworker-empty-suggestions-debugger = Kaloni nëpër hapat e regjistrimit t
 serviceworker-empty-suggestions-aboutdebugging = Shqyrtoni Workers nga përkatësi të tjera. <a>Hapni about:debugging</a>
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifest Aplikacioni
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Lypset të shtoni një Manifest aplikacioni web që të këqyret këtu. <a>Mësoni më tepër</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Gabime dhe Sinjalizime
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -87,6 +90,17 @@ manifest-loaded-ok = Manifesti u ngarkua.
 manifest-loaded-error = Pati një gabim gjatë ngarkimit të manifestit:
 # Text displayed when the page has no manifest available
 manifest-non-existing = S’u gjet manifest për ta inspektuar.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Manifesti është trupëzuar në URL të Dhënash.
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifest
+    .alt = Ikonë Manifesti
+    .title = Manifest
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Service Workers
+    .alt = Ikonë Service Workers
+    .title = Service Workers
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Ikonë sinjalizimi
