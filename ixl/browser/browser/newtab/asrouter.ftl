@@ -130,8 +130,19 @@ cfr-doorhanger-send-tab-ok-button = Moj la ib'ane' uva' la aaq'b'en tilb'al
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Aqb'en u PDF tu chit ijikil
+cfr-doorhanger-firefox-send-body = Molchit unq'a a vu'uje' uve' tii talche' aq'al uva' ye'xhib'il kuxh la ilon as aq'al uva' at uma'l texhlal tul uva' la tzojpu axh.
+cfr-doorhanger-firefox-send-ok-button = Cha'xh ab'ana { -send-brand-name }
+    .accesskey = C
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Il unq'a lochb'al tetze'
+    .accesskey = I
 cfr-doorhanger-socialtracking-close-button = Jupa
     .accesskey = J
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } kam imaj uma'l u xaaol tetz uva' la teq'o tzan tzitza'
+cfr-doorhanger-socialtracking-description = Nim talchu unq'a eetze' sqej. Cheel { -brand-short-name } maj ivatz unq'a vee' ni xaan stuul uva' pal chit ib'anb'ele', uva' ni kuxh itxaa unq'a vee' uve' ni b'ane' tul uva' ni taq'onve'.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } Kat ijup uma'l ilol tetz vi' q'ab' tu u u'uja'
+cfr-doorhanger-fingerprinters-description = Tii chit talchu unq'a eetze' sqej. { -brand-short-name } as cheel ve'te' maj ivatz unq'a ilol tetz vi' q'ab'e', uva' ni molon unq'a yole' as uva' ni exhlan va molob'ale' aq'al tootzile'.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } Kat imaj ivatz uma'l u criptominero tu u u'uja'
+cfr-doorhanger-cryptominers-description = Tii chil talchu unq'a eetze' sqej. { -brand-short-name } cheel maj ivatz unq'a criptominero, uva' ni b'anb'e u ch'ich'a' aq'al uva' la taq'el tzan k'uchb'al vatz puuaj.
