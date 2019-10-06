@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Aklas
 site-data-column-last-used =
     .label = Aseqdec anneggaru
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (afaylu adigan)
 site-data-remove-selected =
     .label = Kkes tafrant
     .accesskey = K

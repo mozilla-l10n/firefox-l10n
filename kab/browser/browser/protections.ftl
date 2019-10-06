@@ -11,18 +11,48 @@ cookie-tab-title = Inagan n tuqqna i uḍfaṛ gar yismal
 tracker-tab-title = Agbur n uḍfaṛ
 fingerprinter-tab-title = Idsilen umḍinen
 lockwise-title-logged-in = { -lockwise-brand-name }
-about-logins-view-logins-button = Sken-d tuqniwin
 protection-report-view-logins-button = Sken-d tuqniwin
     .title = Ddu ɣer inekcumen yettwakelse
 turn-on-sync = Rmed { -sync-brand-short-name }...
     .title = Ldi ismenyifen n umtawi
 manage-devices = Sefrek ibenkan
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-sync-status =
+    { $count ->
+        [one] Amtawi akked { $count } n yibenk-nniḍen
+       *[other] Amtawi akked { $count } n yibenkan-nniḍen
+    }
 lockwise-sync-not-syncing-devices = Ulac amtawi d yibenkan nniḍen
+monitor-title = Sers allen-ik ɣef trewla n yisefka.
 monitor-link = Amek iteddu
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Ddu ɣer iɣewwaṛen n tbaḍnit
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Ddu ɣer inekcumen yettwakelse
+monitor-sign-up = jerred ɣer yilɣa n trewla n yisefa
+auto-scan = Yettwasenqed ass-a akken iwata
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Tansa n yimayl yettuɛassen
+       *[other] Tansiwin n yimayl yettuɛassen
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Tarewla n yisefka yettwassnen tḥuza talɣut-ik
+       *[other] Tirewliwin n yisefka yettwassnen ḥuzant talɣut-ik
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Awal uffir  i ḥuzant trewliwin n yisefka
+       *[other] Awalen uffiren i ḥuzant trewliwin n yisefka
+    }
+full-report-link = Wali aneqqis ummid deg <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
