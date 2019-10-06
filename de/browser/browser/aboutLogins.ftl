@@ -14,7 +14,7 @@ login-app-promo-apple =
     .alt = Laden im App Store
 login-filter =
     .placeholder = Zugangsdaten durchsuchen
-create-login-button = Neue Zugangsdaten hinzufügen
+create-login-button = Zugangsdaten hinzufügen
 # This string is used as alternative text for favicon images.
 # Variables:
 #   $title (String) - The title of the website associated with the favicon.
@@ -46,8 +46,8 @@ login-list =
     .aria-label = Mit Suche übereinstimmende Zugangsdaten
 login-list-count =
     { $count ->
-        [one] Zugangsdaten
-       *[other] Zugangsdaten
+        [one] { $count } Zugangsdaten
+       *[other] { $count } Zugangsdaten
     }
 login-list-sort-label-text = Sortieren nach:
 login-list-name-option = Name (A-Z)
