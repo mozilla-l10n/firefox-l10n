@@ -6,6 +6,8 @@ certificate-viewer-certificate-section-title = Dëshmi
 
 ## Error messages
 
+certificate-viewer-error-message = S’qemë në gjendje të gjejmë të dhënat e dëshmisë, ose dëshmia është dëmtuar. Ju lutemi, riprovoni.
+certificate-viewer-error-title = Diçka shkoi ters.
 
 ## Certificate information labels
 
@@ -14,6 +16,7 @@ certificate-viewer-certificate-authority = Autoritet Dëshmish
 certificate-viewer-cipher-suite = Suitë Shifrimi
 certificate-viewer-common-name = Emër i Rëndomtë
 certificate-viewer-country = Vend
+certificate-viewer-curve = Lakore
 certificate-viewer-dns-name = Emër DNS
 certificate-viewer-exponent = Eksponent
 certificate-viewer-id = ID
@@ -32,6 +35,7 @@ certificate-viewer-policy = Rregull
 certificate-viewer-protocol = Protokoll
 certificate-viewer-public-value = Vlerë Publike
 certificate-viewer-purposes = Qëllime
+certificate-viewer-required = E domosdoshme
 certificate-viewer-state-province = Shtet/Provincë
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
