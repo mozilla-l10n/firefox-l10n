@@ -32,7 +32,7 @@
 <!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Seŋto">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
-<!ENTITY runtimeMenu_takeScreenshot_label "Leƴƴannde kuurgal">
+<!ENTITY runtimeMenu_takeScreenshot_label "Nokitol naynirde">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Humpito Sahaa dogdu">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
@@ -40,7 +40,6 @@
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Teelte Masiŋel">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
-
 <!ENTITY runtimeMenu_showPerformancePanel_label "Yuumto">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "P">
 
@@ -54,6 +53,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Uddit Jaaɓnirgal">
+
 <!ENTITY runtimeButton_label "Suɓo Sahaa dogdu">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +77,6 @@
 <!ENTITY runtimePanel_usb "Masiŋon USB">
 <!ENTITY runtimePanel_wifi "Masiŋon Wi-Fi">
 <!ENTITY runtimePanel_other "Goɗɗe">
-<!ENTITY runtimePanel_noadbhelper "Aaf Balloowo ADB">
 <!ENTITY runtimePanel_nousbdevice "A horiima yiyde masiŋel maa?">
 <!ENTITY runtimePanel_refreshDevices_label "Hesɗitin masiŋon">
 
@@ -120,12 +119,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Humpito Sahaa dogdu">
-<!ENTITY runtimedetails_adbIsRoot "ADB ko ɗaɗol: ">
-<!ENTITY runtimedetails_summonADBRoot "masiŋel ɗaɗol">
-<!ENTITY runtimedetails_ADBRootWarning "(ina ɗaɓɓi loowirde puɗɗogol mo daaƴaaka)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Jamirooje DevTools bellitaaɗe: ">
-<!ENTITY runtimedetails_requestPrivileges "ina naamndii jamirooje dowrowe">
-<!ENTITY runtimedetails_privilegesWarning "(Maa huɓɓit masiŋel. Ina ɗaɓɓi naatgol e ɗaɗol.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Buleaare">

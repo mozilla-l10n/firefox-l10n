@@ -53,8 +53,8 @@ onboarding-sync-form-sub-header = ngam jokkude to { -sync-brand-name }
 
 onboarding-private-browsing-title = Banngogol Suturo
 onboarding-private-browsing-text = Wanngano hoore maa. Banngagol sutura paddotoongol ina faddoo rewindo e ceŋol rewindiiɗi ma nder geese.
-onboarding-screenshots-title = Leƴƴanɗe kuurga
-onboarding-screenshots-text = Ƴettu, kisnaa, lollinaa natte yaynirde - tawa a yaltaani { -brand-short-name }. Natto diiwaan walla hello huurngo so aɗa wanngoo. Caggal ɗuum hisnu nder geese ngam newnude gartol e lollingol.
+onboarding-screenshots-title = Nokitte Yaynirde
+onboarding-screenshots-text = Ƴettu, kisnaa, lollinaa nokitte yaynirde - tawa a yaltaani { -brand-short-name }. Natto diiwaan walla hello huurngo so aɗa wanngoo. Caggal ɗuum hisnu nder geese ngam newnude gartol e lollingol.
 onboarding-addons-title = ɓeyditte
 onboarding-addons-text = Ɓeydu kadi gollirɗe goɗɗe mbele { -brand-short-name } ina gollano maa no moƴƴi. Yerondir coodguuli, humpito meteyoo walla hollitir neɗɗaagu maa kettol neɗɗinangol.
 onboarding-ghostery-title = Ghostery
