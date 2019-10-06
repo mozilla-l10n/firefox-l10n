@@ -19,8 +19,14 @@ onboarding-button-label-get-started = Inizia
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Benvenuto in { -brand-short-name }
-onboarding-welcome-body = Adesso hai il browser.<br/>Esplora tutti gli altri prodotti della famiglia { -brand-product-name }.
+onboarding-welcome-body = Hai già il browser.<br/>Adesso esplora tutti gli altri prodotti della famiglia { -brand-product-name }.
 onboarding-welcome-learn-more = Scopri tutti i vantaggi.
+onboarding-welcome-modal-get-body = Hai già il browser.<br/>Adesso ottieni il massimo da { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Protezione della privacy al massimo livello.
+onboarding-welcome-modal-privacy-body = Hai già il browser. È tempo di rafforzare le protezioni per la tua privacy.
+onboarding-welcome-modal-family-learn-more = Ulteriori informazioni sulla famiglia di prodotti { -brand-product-name }.
+onboarding-welcome-form-header = Inizia da qui
+
 onboarding-join-form-header = Entra a far parte di { -brand-product-name }
 onboarding-join-form-body = Inserisci il tuo indirizzo email per iniziare
 onboarding-join-form-email =
@@ -59,6 +65,15 @@ onboarding-benefit-knowledge-title = Conoscenze pratiche
 onboarding-benefit-knowledge-text = Scopri tutto ciò che ti serve per muoverti online in modo più intelligente e sicuro.
 onboarding-benefit-privacy-title = Vera privacy
 onboarding-benefit-privacy-text = Ogni nostra azione avviene nel rispetto della nostra “Garanzia sui dati personali”: raccogli meno dati, mantienili al sicuro, nessun segreto.
+
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Mantieni segnalibri, password e cronologia sempre a portata di mano su tutti i dispositivi dove utilizzi { -brand-product-name }.
+
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Ricevi una notifica nel caso in cui le tue informazioni personali vengano esposte in una violazione di dati conosciuta.
+
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Gestisci le tue password in modo sicuro e portatile.
 
 ## These strings belong to the individual onboarding messages.
 

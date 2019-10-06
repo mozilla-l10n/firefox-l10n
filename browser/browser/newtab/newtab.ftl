@@ -80,6 +80,24 @@ newtab-menu-delete-history = Elimina dalla cronologia
 newtab-menu-save-to-pocket = Salva in { -pocket-brand-name }
 newtab-menu-delete-pocket = Elimina da { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivia in { -pocket-brand-name }
+
+newtab-menu-show-privacy-info = I nostri sponsor e la tua privacy
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Fatto
+newtab-privacy-modal-header = La tua privacy è importante.
+newtab-privacy-modal-paragraph =
+    Oltre a servirti storie accattivanti, ti mostriamo anche contenuti,
+    pertinenti e attentamente curati, promossi da un gruppo selezionato di
+    sponsor. Ti assicuriamo che nessun dato relativo alla tua navigazione viene
+    condiviso dalla tua copia personale di { -brand-product-name }. Noi non
+    abbiamo accesso a queste informazioni, e tantomeno ce l’hanno i nostri
+    sponsor.
+newtab-privacy-modal-link = Scopri come funziona la privacy nella pagina Nuova scheda
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Elimina segnalibro
 # Bookmark is a verb here.
