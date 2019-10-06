@@ -23,7 +23,7 @@ onboarding-welcome-body = Hai già il browser.<br/>Adesso esplora tutti gli altr
 onboarding-welcome-learn-more = Scopri tutti i vantaggi.
 onboarding-welcome-modal-get-body = Hai già il browser.<br/>Adesso ottieni il massimo da { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Protezione della privacy al massimo livello.
-onboarding-welcome-modal-privacy-body = Hai già il browser. È tempo di rafforzare le protezioni per la tua privacy.
+onboarding-welcome-modal-privacy-body = Hai già il browser. Adesso aggiungi protezioni per la tua privacy.
 onboarding-welcome-modal-family-learn-more = Ulteriori informazioni sulla famiglia di prodotti { -brand-product-name }.
 onboarding-welcome-form-header = Inizia da qui
 
