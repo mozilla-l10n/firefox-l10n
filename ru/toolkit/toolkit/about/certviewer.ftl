@@ -6,6 +6,7 @@ certificate-viewer-certificate-section-title = Сертификат
 
 ## Error messages
 
+certificate-viewer-error-message = Нам не удалось найти информацию о сертификате, или сертификат повреждён. Пожалуйста, попробуйте ещё раз.
 certificate-viewer-error-title = Что-то пошло не так.
 
 ## Certificate information labels
@@ -14,6 +15,8 @@ certificate-viewer-algorithm = Алгоритм
 certificate-viewer-certificate-authority = Центр сертификации
 certificate-viewer-cipher-suite = Набор шифров
 certificate-viewer-common-name = Общее имя
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-country = Страна регистрации
 certificate-viewer-country = Страна
 certificate-viewer-curve = Кривая
 certificate-viewer-distribution-point = Адрес распространения
@@ -25,6 +28,7 @@ certificate-viewer-key-id = Идентификатор ключа
 certificate-viewer-key-size = Размер ключа
 certificate-viewer-locality = Местонахождение
 certificate-viewer-location = Расположение
+certificate-viewer-logid = Идентификатор лога
 certificate-viewer-method = Метод
 certificate-viewer-modulus = Модуль
 certificate-viewer-name = Имя
@@ -35,7 +39,11 @@ certificate-viewer-organizational-unit = Подразделение
 certificate-viewer-policy = Политика
 certificate-viewer-protocol = Протокол
 certificate-viewer-purposes = Назначения
+certificate-viewer-qualifier = Квалификатор
+certificate-viewer-qualifiers = Квалификаторы
 certificate-viewer-required = Обязательно
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-state-province = Область/Край/Республика регистрации
 certificate-viewer-state-province = Область/Край/Республика
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
@@ -45,6 +53,7 @@ certificate-viewer-signature-scheme = Схема подписи
 certificate-viewer-timestamp = Метка времени
 certificate-viewer-value = Значение
 certificate-viewer-version = Версия
+certificate-viewer-business-category = Категория бизнеса
 certificate-viewer-subject-name = Субъект
 certificate-viewer-issuer-name = Издатель
 certificate-viewer-validity = Срок действия
@@ -55,7 +64,12 @@ certificate-viewer-fingerprints = Отпечатки
 certificate-viewer-basic-constraints = Основные ограничения
 certificate-viewer-key-usages = Использование ключа
 certificate-viewer-extended-key-usages = Расширенное использование ключа
+certificate-viewer-subject-key-id = Идентификатор ключа субъекта
+certificate-viewer-authority-key-id = Идентификатор ключа центра сертификатов
+certificate-viewer-authority-info-aia = Доступ к информации о центрах сертификации
 certificate-viewer-certificate-policies = Политики сертификата
+certificate-viewer-embedded-scts = Список SCT
+certificate-viewer-crl-endpoints = Точки распределения списков отзыва (CRL)
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Загрузить
