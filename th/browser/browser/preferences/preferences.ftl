@@ -295,7 +295,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = เนื้อหา Digital Rights Management (DRM)
 play-drm-content =
@@ -489,6 +489,12 @@ search-bar-shown =
     .label = เพิ่มแถบค้นหาในแถบเครื่องมือ
 search-engine-default-header = เครื่องมือค้นหาเริ่มต้น
 search-engine-default-desc = เลือกเครื่องมือค้นหาเริ่มต้นที่จะใช้ในแถบที่อยู่และแถบค้นหา
+search-engine-default-private-desc = เลือกเครื่องมือค้นหาเริ่มต้นเพื่อใช้ในหน้าต่างส่วนตัว
+search-separate-default-engine =
+    .label = ใช้เครื่องมือค้นหานี้ในหน้าต่างส่วนตัว
+    .accesskey = U
+search-suggestions-header = ข้อเสนอแนะการค้นหา
+search-suggestions-desc = เลือกว่าจะทำให้เครื่องมือค้นหาปรากฏขึ้นมาอย่างไร
 search-suggestions-option =
     .label = ให้ข้อเสนอแนะการค้นหา
     .accesskey = ห
@@ -502,6 +508,7 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = แสดงข้อเสนอแนะการค้นหานำหน้าประวัติการเรียกดูในผลลัพธ์ของแถบที่อยู่
+suggestions-addressbar-settings = เปลี่ยนค่ากำหนดสำหรับประวัติการท่องเว็บ ที่คั่นหน้า และแท็บแนะนำ
 search-suggestions-cant-show = ข้อเสนอแนะการค้นหาจะไม่แสดงในผลลัพธ์ของแถบตำแหน่งที่ตั้งเนื่องจากคุณได้กำหนดค่า { -brand-short-name } ให้ไม่จดจำประวัติเสมอ
 search-one-click-header = เครื่องมือค้นหาในคลิกเดียว
 search-one-click-desc = เลือกเครื่องมือค้นหาทางเลือกที่จะปรากฏด้านล่างแถบที่อยู่และแถบค้นหาเมื่อคุณเริ่มป้อนคำสำคัญ
@@ -538,6 +545,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = นำเว็บของคุณไปกับคุณ
 sync-signedout-description = ประสานที่คั่นหน้า, ประวัติ, แท็บ, รหัสผ่าน, ส่วนเสริม และค่ากำหนดในอุปกรณ์ทั้งหมดของคุณ
 sync-signedout-account-title = เชื่อมต่อกับ { -fxaccount-brand-name }
@@ -558,11 +569,17 @@ sync-mobile-promo = ดาวน์โหลด Firefox สำหรับ <img 
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = เปลี่ยนรูปโปรไฟล์
 sync-disconnect =
     .label = ตัดการเชื่อมต่อ…
     .accesskey = ต
+sync-sign-out =
+    .label = ลงชื่อออก…
+    .accesskey = g
 sync-manage-account = จัดการบัญชี
     .accesskey = จ
 sync-signedin-unverified = { $email } ยังไม่ได้รับการยืนยัน
@@ -578,6 +595,43 @@ sync-sign-in =
     .accesskey = ง
 sync-signedin-settings-header = การตั้งค่า Sync
 sync-signedin-settings-desc = เลือกสิ่งที่คุณต้องการจะประสานบนอุปกรณ์ของคุณโดยใช้ { -brand-short-name }
+
+## Sync section - enabling or disabling sync.
+
+prefs-sync-setup =
+    .label = ตั้งค่า { -sync-brand-short-name }…
+    .accesskey = S
+prefs-sync-offer-setup-label = ประสานที่คั่นหน้า ประวัติ แท็บ รหัสผ่าน ส่วนเสริม และค่ากำหนดระหว่างอุปกรณ์ทั้งหมดของคุณ
+prefs-sync-now =
+    .labelnotsyncing = ซิงค์ตอนนี้
+    .accesskeynotsyncing = N
+    .labelsyncing = กำลังซิงค์…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = คุณกำลังซิงค์รายการเหล่านี้:
+sync-currently-syncing-bookmarks = ที่คั่นหน้า
+sync-currently-syncing-history = ประวัติ
+sync-currently-syncing-tabs = แท็บที่เปิด
+sync-currently-syncing-logins-passwords = การเข้าสู่ระบบและรหัสผ่าน
+sync-currently-syncing-addresses = ที่อยู่
+sync-currently-syncing-creditcards = บัตรเครดิต
+sync-currently-syncing-addons = ส่วนเสริม
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] ตัวเลือก
+       *[other] ค่ากำหนด
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = เลือกสิ่งที่จะซิงค์
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = บันทึกการเปลี่ยนแปลง
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = ตัดการเชื่อมต่อ…
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = ที่คั่นหน้า
     .accesskey = ท
@@ -592,6 +646,10 @@ sync-engine-logins =
     .label = การเข้าสู่ระบบ
     .tooltiptext = ชื่อผู้ใช้และรหัสผ่านที่คุณได้บันทึกไว้
     .accesskey = ก
+sync-engine-logins-passwords =
+    .label = การเข้าสู่ระบบและรหัสผ่าน
+    .tooltiptext = ชื่อผู้ใช้และรหัสผ่านที่คุณบันทึกไว้
+    .accesskey = L
 sync-engine-addresses =
     .label = ที่อยู่
     .tooltiptext = ที่อยู่ไปรษณีย์ที่คุณได้บันทึกไว้ (เดสก์ท็อปเท่านั้น)
@@ -612,6 +670,9 @@ sync-engine-prefs =
         }
     .tooltiptext = การตั้งค่าทั่วไป, ความเป็นส่วนตัว และความปลอดภัยที่คุณได้เปลี่ยนแปลง
     .accesskey = ว
+
+## The device name controls.
+
 sync-device-name-header = ชื่ออุปกรณ์
 sync-device-name-change =
     .label = เปลี่ยนชื่ออุปกรณ์…
@@ -644,6 +705,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = แนะนำและสร้างรหัสผ่านที่คาดเดายาก
     .accesskey = แ
+forms-breach-alerts =
+    .label = แสดงการแจ้งเตือนเกี่ยวกับรหัสผ่านสำหรับเว็บไซต์ที่มีการรั่วไหล
+    .accesskey = b
 forms-breach-alerts-learn-more-link = เรียนรู้เพิ่มเติม
 forms-fill-logins-and-passwords =
     .label = กรอกข้อมูลการเข้าสู่ระบบและรหัสผ่านอัตโนมัติ
@@ -798,7 +862,7 @@ enhanced-tracking-protection-setting-custom =
     .label = กำหนดเอง
     .accesskey = ก
 
-##
+
 
 content-blocking-etp-standard-desc = การป้องกันและประสิทธิภาพแบบสมดุล หน้าเว็บจะโหลดเป็นปกติ
 content-blocking-etp-strict-desc = การป้องกันที่แกร่งขึ้น แต่อาจทำให้บางไซต์หรือเนื้อหาหยุดทำงานได้

@@ -158,18 +158,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "ลงชื่อเข้าเป็น">
 <!ENTITY fxa.menu.manageAccount.label "จัดการบัญชี…">
+<!ENTITY fxa.menu.syncSettings.label "การตั้งค่า &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "การตั้งค่า &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "เชื่อมต่ออุปกรณ์อื่น…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "ลงชื่อเข้า &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "เปิด &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "บัญชี">
 <!ENTITY fxa.menu.firefoxServices.label "บริการของ &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "บัญชี">
+<!ENTITY fxa.menu.settings.label "การตั้งค่า">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->

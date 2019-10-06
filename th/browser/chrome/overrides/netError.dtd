@@ -9,9 +9,7 @@
 <!ENTITY retry.label "ลองอีกครั้ง">
 <!ENTITY returnToPreviousPage.label "ย้อนกลับ">
 <!ENTITY returnToPreviousPage1.label "ย้อนกลับ (แนะนำ)">
-<!ENTITY advanced.label "ขั้นสูง">
 <!ENTITY advanced2.label "ขั้นสูง…">
-<!ENTITY moreInformation.label "ข้อมูลเพิ่มเติม">
 <!ENTITY viewCertificate.label "ดูใบรับรอง">
 
 <!-- Specific error messages -->
@@ -93,14 +91,8 @@
 <!ENTITY nssFailure2.title "การเชื่อมต่อปลอดภัยล้มเหลว">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>ไม่สามารถแสดงหน้าที่คุณกำลังพยายามจะดูเนื่องจากไม่สามารถยืนยันความถูกต้องของข้อมูลที่ได้รับ</li> <li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "การเชื่อมต่อของคุณไม่ปลอดภัย">
-
 <!ENTITY certerror.longpagetitle2 "คำเตือน: ความเสี่ยงด้านความปลอดภัยที่อาจเกิดขึ้นข้างหน้า">
 <!ENTITY certerror.sts.longpagetitle  "ไม่ได้เชื่อมต่อ: ปัญหาความปลอดภัยที่อาจเกิดขึ้น">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
-will be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara "เจ้าของ <span class='hostname'/> ได้กำหนดค่าเว็บไซต์ของพวกเขาไม่เหมาะสม  เพื่อปกป้องข้อมูลของคุณจากการถูกขโมย &brandShortName; จึงไม่ได้เชื่อมต่อไปยังเว็บไซต์นี้">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -135,9 +127,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "ข้อผิดพลาดเนื้อหาเสียหาย">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>ไม่สามารถแสดงหน้าที่คุณกำลังพยายามจะดูเนื่องจากตรวจพบข้อผิดพลาดในการส่งผ่านข้อมูล</p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "เพิ่มข้อยกเว้น…">
-
 <!ENTITY securityOverride.exceptionButton1Label "ยอมรับความเสี่ยงและดำเนินการต่อ">
 
 <!ENTITY errorReporting.automatic2 "รายงานข้อผิดพลาดเช่นนี้เพื่อช่วย Mozilla ระบุและปิดกั้นไซต์ที่ประสงค์ร้าย">
@@ -151,17 +140,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ข้อมูลขั้นสูง: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; ไม่ได้เชื่อมต่อไปที่ <span id='wrongSystemTime_URL'/> เนื่องจากนาฬิกาคอมพิวเตอร์ของคุณแสดงเวลาผิดและสิ่งนี้เป็นการยับยั้งการเชื่อมต่อที่ปลอดภัย</p> <p>คอมพิวเตอร์ของคุณได้มีการตั้งค่าเวลาเป็น <span id='wrongSystemTime_systemDate'/> ซึ่งเวลาที่ควรเป็นคือ <span id='wrongSystemTime_actualDate'/> ในการแก้ไขปัญหานี้ ให้เปลี่ยนการตั้งค่าวันที่และเวลาในเครื่องของคุณให้ตรงกับความเป็นจริง</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; ไม่ได้เชื่อมต่อไปที่ <span id='wrongSystemTimeWithoutReference_URL'/> เนื่องจากนาฬิกาคอมพิวเตอร์ของคุณแสดงเวลาผิดและสิ่งนี้เป็นการยับยั้งการเชื่อมต่อที่ปลอดภัย</p> <p>คอมพิวเตอร์ของคุณได้มีการตั้งค่าเวลาเป็น <span id='wrongSystemTimeWithoutReference_systemDate'/> ในการแก้ไขปัญหานี้ ให้เปลี่ยนการตั้งค่าวันที่และเวลาในเครื่องของคุณให้ตรงกับความเป็นจริง</p>">
-
-<!ENTITY certerror.pagetitle1  "การเชื่อมต่อไม่ปลอดภัย">
-
 <!ENTITY certerror.pagetitle2  "คำเตือน: ความเสี่ยงด้านความปลอดภัยที่อาจเกิดขึ้นข้างหน้า">
 <!ENTITY certerror.sts.pagetitle  "ไม่ได้เชื่อมต่อ: ปัญหาความปลอดภัยที่อาจเกิดขึ้น">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ไซต์นี้ใช้ HTTP Strict Transport Security (HSTS) เพื่อระบุให้ &brandShortName; เชื่อมต่อไปยังไซต์อย่างปลอดภัยเท่านั้น ผลที่ตามมาคือไม่สามารถเพิ่มข้อยกเว้นสำหรับใบรับรองนี้ได้">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> มีนโยบายการรักษาความปลอดภัยที่เรียกว่า HTTP Strict Transport Security (HSTS) ซึ่งหมายความว่า &brandShortName; สามารถทำการเชื่อมต่อได้อย่างปลอดภัยเท่านั้น คุณไม่สามารถเพิ่มข้อยกเว้นเพื่อเยี่ยมชมไซต์นี้ได้">
 <!ENTITY certerror.copyToClipboard.label "คัดลอกข้อความไปยังคลิปบอร์ด">
 
@@ -184,6 +164,8 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "ดูเหมือนว่าการตั้งค่าความปลอดภัยเครือข่ายของคุณอาจเป็นสาเหตุของสิ่งนี้ คุณต้องการเรียกคืนการตั้งค่าเริ่มต้นหรือไม่?">
 <!ENTITY prefReset.label "เรียกคืนการตั้งค่าเริ่มต้น">
+
+<!ENTITY enableTls10.label "เปิดใช้งาน TLS 1.0 และ 1.1">
 
 <!ENTITY networkProtocolError.title "ข้อผิดพลาดโปรโตคอลเครือข่าย">
 <!ENTITY networkProtocolError.longDesc "<p>ไม่สามารถแสดงหน้าที่คุณกำลังพยายามจะดูเนื่องจากตรวจพบข้อผิดพลาดในโปรโตคอลเครือข่าย</p><ul><li>โปรดติดต่อเจ้าของเว็บไซต์เพื่อแจ้งพวกเขาให้ทราบถึงปัญหานี้</li></ul>">
