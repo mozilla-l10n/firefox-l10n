@@ -607,6 +607,8 @@ sync-signedin-settings-desc = Valitse tiedot, jotka synkronoidaan niiden laittei
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Synkronointi: PÄÄLLÄ
+prefs-syncing-off = Synkronointi: POIS PÄÄLTÄ
 prefs-sync-now =
     .labelnotsyncing = Synkronoi nyt
     .accesskeynotsyncing = N
@@ -617,6 +619,7 @@ prefs-sync-now =
 sync-currently-syncing-bookmarks = Kirjanmerkit
 sync-currently-syncing-history = Historia
 sync-currently-syncing-tabs = Avoimet välilehdet
+sync-currently-syncing-logins-passwords = Käyttäjätunnukset ja salasanat
 sync-currently-syncing-addresses = Osoitteet
 sync-currently-syncing-creditcards = Luottokortit
 sync-currently-syncing-addons = Lisäosat
