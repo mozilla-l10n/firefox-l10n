@@ -188,6 +188,7 @@ language-name-tlh = Клингонский
 language-name-tn = Тсвана
 language-name-to = Тонганский
 language-name-tr = Турецкий
+language-name-trs = Трике
 language-name-ts = Тсонга
 language-name-tt = Татарский
 language-name-tw = Тви
