@@ -71,6 +71,9 @@ serviceworker-empty-suggestions-debugger = Mire el registro de su service worker
 serviceworker-empty-suggestions-aboutdebugging = Inspeccione service workers de otros dominios. <a>Abrir about:debugging</a>
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifesto de la aplicación
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Tiene que añadir un Manifiesto de aplicación web para inspeccionarlo aquí. <a>Saber más</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Errores y advertencias
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -87,6 +90,9 @@ manifest-loaded-ok = Se cargó el manifesto.
 manifest-loaded-error = Hubo un error al cargar el manifesto:
 # Text displayed when the page has no manifest available
 manifest-non-existing = No se encontró ningún manifesto.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = El manifiesto está integrado en una URL de datos.
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Manifesto
     .alt = Icono del Manifesto
