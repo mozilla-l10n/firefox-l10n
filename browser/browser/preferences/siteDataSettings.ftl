@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Tallennustila
 site-data-column-last-used =
     .label = Viimeksi käytetty
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (paikallinen tiedosto)
 site-data-remove-selected =
     .label = Poista valitut
     .accesskey = v
@@ -28,11 +30,6 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Tallenna muutokset
     .accesskey = m
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (pysyvästi)
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
