@@ -6,12 +6,12 @@ about-logins-page-title = Zugangsdaten und Passwörter
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Nehmen Sie Ihre Passwörter überall mit
-login-app-promo-subtitle = Holen Sie sich die kostenlose { -lockwise-brand-name } App
+login-app-promo-title = Nehmen Sie Ihre Passwörter überall mit.
+login-app-promo-subtitle = Holen Sie sich die kostenlose { -lockwise-brand-name } App.
 login-app-promo-android =
     .alt = Bei Google Play herunterladen
 login-app-promo-apple =
-    .alt = Aus dem App Store herunterladen
+    .alt = Laden im App Store
 login-filter =
     .placeholder = Zugangsdaten durchsuchen
 create-login-button = Neue Zugangsdaten hinzufügen
@@ -72,8 +72,8 @@ about-logins-list-item-breach-icon =
 login-intro-heading = Suchen Sie Ihre gespeicherten Zugangsdaten? Richten Sie { -sync-brand-short-name } ein.
 login-intro-description = Wenn Sie Ihre Zugangsdaten in { -brand-product-name } auf einem anderen Gerät gespeichert haben, können Sie diese hier abrufen:
 login-intro-instruction-fxa = Auf dem Gerät mit Ihren gespeicherten Zugangsdaten: Erstellen Sie ein { -fxaccount-brand-name } oder melden Sie sich damit an.
-login-intro-instruction-fxa-settings = Überprüfen Sie, dass das Kontrollfeld "Zugangsdaten in den { -sync-brand-short-name } ausgewählt ist.
-about-logins-intro-instruction-help = Weitere Hilfe finden Sie auf der <a data-l10n-name="help-link">Support-Seite für { -lockwise-brand-short-name }</a>
+login-intro-instruction-fxa-settings = Überprüfen Sie, dass das Kontrollfeld "Zugangsdaten" in den { -sync-brand-short-name }-Einstellungen ausgewählt ist.
+about-logins-intro-instruction-help = Weitere Hilfe finden Sie auf der <a data-l10n-name="help-link">Support-Seite für { -lockwise-brand-short-name }</a>.
 
 ## Login
 
@@ -107,7 +107,7 @@ login-item-time-used = Zuletzt verwendet: { DATETIME($timeUsed, day: "numeric", 
 master-password-notification-message = Bitte geben Sie Ihr Master-Passwort ein, um gespeicherte Zugangsdaten und Passwörter anzuzeigen.
 master-password-reload-button =
     .label = Anmelden
-    .accesskey = l
+    .accesskey = m
 
 ## Dialogs
 
