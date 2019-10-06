@@ -27,9 +27,20 @@ abuse-report-submit-button = Enviar
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-remove-extension = Sí, eliminarlo
+abuse-report-messagebar-action-keep-extension = No, mantenerlo
+abuse-report-messagebar-action-remove-theme = Sí, eliminarlo
+abuse-report-messagebar-action-keep-theme = No, mantenerlo
+abuse-report-messagebar-action-retry = Reintentar
+abuse-report-messagebar-action-cancel = Cancelar
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Daña mi computadora e información
+abuse-report-damage-example = Ejemplo: instaló malware o robó información
+abuse-report-spam-reason = Crea spam o publicidad
+abuse-report-spam-example = Ejemplo: inserta publicidad en páginas web
+abuse-report-settings-reason = Cambió mi buscador, página de inicio o página Nueva pestaña sin informarme ni preguntarme
 abuse-report-deceptive-reason = Finge ser algo que no es
 abuse-report-unwanted-example = Ejemplo: una aplicación la instaló sin mi consentimiento
 abuse-report-other-reason = Algo más

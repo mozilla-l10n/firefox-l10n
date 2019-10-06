@@ -271,15 +271,47 @@ release-notes-addon-button = Informe de novedades
 permissions-addon-button = Permisos
 addons-enabled-heading = Habilitados
 addons-disabled-heading = Deshabilitado
+extension-enabled-heading = Habilitado
+extension-disabled-heading = Deshabilitado
+theme-enabled-heading = Habilitado
+theme-disabled-heading = Deshabilitado
+plugin-enabled-heading = Habilitado
+plugin-disabled-heading = Deshabilitado
+dictionary-enabled-heading = Habilitado
+dictionary-disabled-heading = Deshabilitado
+locale-enabled-heading = Habilitado
+locale-disabled-heading = Deshabilitado
+ask-to-activate-button = Preguntar para activar
+always-activate-button = Siempre activar
+never-activate-button = Nunca activar
 addon-detail-author-label = Autor
 addon-detail-version-label = Versión
+addon-detail-last-updated-label = Última actualización
+addon-detail-homepage-label = Página de inicio
+addon-detail-rating-label = Calificación
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Calificación de { NUMBER($rating, maximumFractionDigits: 1) } sobre 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (deshabilitado)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } evaluación
+       *[other] { $numberOfReviews } evaluaciones
+    }
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = Se ha eliminado <span data-l10n-name="addon-name">{ $addon }</span>.
 pending-uninstall-undo-button = Deshacer
 addon-detail-updates-label = Permitir actualizaciones automáticas
 addon-detail-updates-radio-default = Predeterminado
@@ -291,6 +323,11 @@ install-update-button = Actualizar
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Permitido en ventanas privadas
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Permitido en ventanas privadas
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = No permitir
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
