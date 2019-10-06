@@ -100,7 +100,7 @@ login-item-save-new-button = Speichern
 login-item-cancel-button = Abbrechen
 login-item-time-changed = Zuletzt geändert: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Erstellt: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Zuletzt verwendet:{ DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Zuletzt verwendet: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
