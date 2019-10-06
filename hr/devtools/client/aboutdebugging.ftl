@@ -80,6 +80,8 @@ about-debugging-refresh-usb-devices-button = Osvježi uređaje
 
 # Title of the Setup page.
 about-debugging-setup-title = Konfiguracija
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Konfiguriraj način povezivanja za uklanjanje grešaka na tvom uređaju.
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Spoji uređaj
 # USB section of the Setup page
@@ -155,6 +157,11 @@ about-debugging-runtime-processes =
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
 about-debugging-runtime-profile-button2 = Profiliraj perfomansu
+# This string is displayed in the runtime page if the remote browser version is too old.
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
+# { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
+# { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
+about-debugging-browser-version-too-old = Povezani preglednik je starije verzije { $runtimeVersion }. Najmanja podržana verzija je { $minVersion }. Ovo je nepodržana postava i programerski alati možda neće raditi. Aktualiziraj povezani preglednik. <a>Ispravljanje grešaka</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # - from Fx 67 to 66 or to 65
 # - from Fx 68 to 66
