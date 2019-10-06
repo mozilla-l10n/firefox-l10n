@@ -188,6 +188,7 @@ language-name-tlh = Клінгон
 language-name-tn = Цвана
 language-name-to = Танганская
 language-name-tr = Турэцкая
+language-name-trs = Трыкі
 language-name-ts = Цонга
 language-name-tt = Татарская
 language-name-tw = Твай (Twi)
