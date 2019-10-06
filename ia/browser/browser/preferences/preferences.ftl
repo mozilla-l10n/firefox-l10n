@@ -505,7 +505,12 @@ search-bar-shown =
     .label = Adder le barra de recerca in le barra de instrumentos
 search-engine-default-header = Motor de recerca predefinite
 search-engine-default-desc = Elige le motor de recerca pro usar como predefinition pro le barra de adresse e le de recerca.
+search-engine-default-private-desc = Elige le motor de recerca predefinite a usar in Fenestras anonyme.
+search-separate-default-engine =
+    .label = https://pontoon.mozilla.org/ia/sumo/all-resources/?status=fuzzy&string=204213#machinery
+    .accesskey = U
 search-suggestions-header = Suggestiones de recerca
+search-suggestions-desc = Elige como appare le suggestiones ex motores de recerca.
 search-suggestions-option =
     .label = Monstrar suggestiones de recerca
     .accesskey = s
@@ -519,6 +524,7 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Monstrar le suggestiones de recerca ante le chronologia de navigation in le resultatos del barra de adresse
+suggestions-addressbar-settings = Cambia preferentias pro chronologia de exploration, marcapaginas e scheda suggestiones
 search-suggestions-cant-show = Le suggestiones de recerca non essera monstrate inter le resultatos del barra de adresse perque tu ha configurate { -brand-short-name } pro non memorisar jammais le chronologia.
 search-one-click-header = Motores de recerca a un sol clic
 search-one-click-desc = Elige le motores de recerca alternative que appare infra le barra de adresse o le de recerca quando tu comencia a scriber un parola clave.
