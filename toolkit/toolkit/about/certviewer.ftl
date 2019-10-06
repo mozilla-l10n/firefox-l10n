@@ -64,7 +64,30 @@ certificate-viewer-miscellaneous = Рознае
 certificate-viewer-fingerprints = Адбіткі
 certificate-viewer-basic-constraints = Асноўныя абмежаванні
 certificate-viewer-key-usages = Выкарыстанне ключа
+certificate-viewer-extended-key-usages = Пашыранае выкарыстанне ключа
+certificate-viewer-ocsp-stapling = Сшыванне OCSP
+certificate-viewer-subject-key-id = Ідэнтыфікатар ключа суб'екта
+certificate-viewer-authority-key-id = Ідэнтыфікатар ключа органа
+certificate-viewer-authority-info-aia = Інфармацыя пра орган (AIA)
+certificate-viewer-certificate-policies = Палітыкі сертыфіката
+certificate-viewer-embedded-scts = Убудаваныя SCT
+certificate-viewer-crl-endpoints = Канцавыя пункты CRL
+# This message is used as a row header in the Miscellaneous section. 
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Сцягнуць
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] Так
+       *[false] Не
+    }
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (сертыфікат)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (ланцужок)
+    .download = { $fileName }-chain.pem
