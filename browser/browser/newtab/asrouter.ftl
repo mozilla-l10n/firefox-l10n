@@ -142,3 +142,9 @@ cfr-doorhanger-firefox-send-ok-button = Попробуйте { -send-brand-name 
 
 cfr-doorhanger-socialtracking-close-button = Закрыть
     .accesskey = к
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } не позволил социальной сети отслеживать вас здесь
+cfr-doorhanger-socialtracking-description = Ваша приватность имеет значение. { -brand-short-name } теперь блокирует трекеры социальных сетей, ограничивая количество собираемых ими данных о вашей деятельности в Интернете.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } заблокировал сборщик цифровых отпечатков на этой странице
+cfr-doorhanger-fingerprinters-description = Ваша приватность имеет значение. { -brand-short-name } теперь блокирует сборщики цифровых отпечатков, которые собирают уникальную информацию, используемую для идентификации устройства и слежения за вами.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } заблокировал криптомайнер на этой странице
+cfr-doorhanger-cryptominers-description = Ваша приватность имеет значение. { -brand-short-name } теперь блокирует криптомайнеры, которые используют вычислительные мощности вашей системы для добычи цифровых валют.
