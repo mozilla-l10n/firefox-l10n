@@ -105,8 +105,8 @@ search-results-header = Wyniki wyszukiwania
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message =
     { PLATFORM() ->
-        [windows] Niestety! W opcjach niczego nie odnaleziono dla wyszukiwania „<span data-l10n-name="query"></span>”.
-       *[other] Niestety! W preferencjach niczego nie odnaleziono dla wyszukiwania „<span data-l10n-name="query"></span>”.
+        [windows] Niestety! W opcjach niczego nie odnaleziono dla wyszukiwania „<span data-l10n-name="query"></span>”.
+       *[other] Niestety! W preferencjach niczego nie odnaleziono dla wyszukiwania „<span data-l10n-name="query"></span>”.
     }
 search-results-help-link = Potrzebujesz pomocy? Odwiedź <a data-l10n-name="url">pomoc przeglądarki { -brand-short-name }</a>.
 
@@ -509,11 +509,17 @@ search-bar-shown =
     .label = Osobny pasek wyszukiwania
 search-engine-default-header = Domyślna wyszukiwarka
 search-engine-default-desc = Wybierz domyślną wyszukiwarkę paska adresu i paska wyszukiwania.
+search-engine-default-private-desc = Wybierz domyślną wyszukiwarkę w oknach prywatnych.
+search-separate-default-engine =
+    .label = Używaj tej wyszukiwarki w oknach prywatnych
+    .accesskey = U
+search-suggestions-header = Podpowiedzi wyszukiwania
+search-suggestions-desc = Wybierz, jak wyświetlać podpowiedzi od wyszukiwarek.
 search-suggestions-option =
     .label = Podpowiedzi wyszukiwania
     .accesskey = P
 search-show-suggestions-url-bar-option =
-    .label = Podpowiedzi wyszukiwania w podpowiedziach paska adresu
+    .label = Podpowiedzi wyszukiwania w wynikach paska adresu
     .accesskey = e
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -522,7 +528,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Podpowiedzi wyszukiwania nad historią przeglądania w wynikach paska adresu
-search-suggestions-cant-show = Podpowiedzi wyszukiwania nie będą wyświetlane w podpowiedziach paska adresu, ponieważ wyłączono zachowywanie historii przeglądania programu { -brand-short-name }.
+suggestions-addressbar-settings = Zmień ustawienia podpowiedzi z historii przeglądania, zakładek i kart
+search-suggestions-cant-show = Podpowiedzi wyszukiwania nie będą wyświetlane w wynikach paska adresu, ponieważ wyłączono zachowywanie historii przeglądania programu { -brand-short-name }.
 search-one-click-header = Dodatkowe wyszukiwarki
 search-one-click-desc = Wybierz dodatkowe wyszukiwarki wyświetlane na dole wyników wyszukiwania w pasku adresu i pasku wyszukiwania.
 search-choose-engine-column =
@@ -647,7 +654,6 @@ sync-choose-what-to-sync-dialog =
     .buttonaccesskeyaccept = Z
     .buttonlabelextra2 = Rozłącz…
     .buttonaccesskeyextra2 = R
-sync-choose-heading = Wybierz, co synchronizować ze swoim kontem na urządzeniach używających { -sync-brand-short-name(case: "gen", capitalization: "lower") }:
 sync-engine-bookmarks =
     .label = zakładki
     .accesskey = z
