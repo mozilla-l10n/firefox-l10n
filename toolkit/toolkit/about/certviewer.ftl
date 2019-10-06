@@ -33,6 +33,7 @@ certificate-viewer-signature-algorithm = Allekirjoitusalgoritmi
 certificate-viewer-timestamp = Aikaleima
 certificate-viewer-value = Arvo
 certificate-viewer-version = Versio
+certificate-viewer-fingerprints = Sormenjäljet
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Lataa
