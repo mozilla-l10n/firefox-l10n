@@ -176,6 +176,7 @@ sync-manage-account = La eel isuuchil u atinb'ale'
 ## The list of things currently syncing.
 
 sync-currently-syncing-bookmarks = Aq'ol texhlal
+sync-currently-syncing-addons = Tz'ajsab' tetz
 
 ## The "Choose what to sync" dialog.
 

@@ -75,6 +75,7 @@ onboarding-benefit-privacy-text = Jank'al chit unq'a vee' ni kub'ane' ni nima un
 onboarding-private-browsing-title = Axh kuxh la xaan axh stuul
 onboarding-private-browsing-text = Axh kuxh la xaan axh. Uve' la xaan axh uva' axh kuxhtu' ti' imajax ivatz u aq'one' as la maj ivatz unq'a vee' uve' xekel see'.
 onboarding-screenshots-title = Eesa ivatz u aaq'one' tu vach'ich'e'
+onboarding-addons-title = Tz'ajsab' tetz
 
 ## Message strings belonging to the Return to AMO flow
 

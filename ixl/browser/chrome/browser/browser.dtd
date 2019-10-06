@@ -13,6 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Axh kuxh la xaan axh stuul)">
 
 <!ENTITY appmenu.tooltip                     "Jaj u tachul tatine'">
 
@@ -142,6 +143,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY addons.label                 "Tz'ajsab' tetz">
 
 
 
@@ -194,6 +196,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
+<!ENTITY customizeMenu.manageExtension.label "Il isuuchil tikat ni q'axkat">
+<!ENTITY customizeMenu.manageExtension.accesskey "E">
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
@@ -443,6 +447,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY pageAction.manageExtension.label "Il isuuchil tikat ni q'axkat…">
 
 
 

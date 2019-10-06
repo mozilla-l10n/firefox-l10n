@@ -50,6 +50,9 @@ detail-version =
 
 discopane-notice-learn-more = Ootzi ka'te
 privacy-policy = Ootzib'al ti' ib'anb'el ti jikil
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Tilpu isuuchil
 
 ## Add-on actions
 

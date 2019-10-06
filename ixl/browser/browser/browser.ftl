@@ -53,6 +53,6 @@ urlbar-addons-notification-anchor =
 page-action-add-to-urlbar =
     .label = La oksa xo'l imool.
 page-action-manage-extension =
-    .label = Il isuuchil tikat ni q'axkat.
+    .label = Il isuuchil tikat ni q'axkat…
 page-action-remove-from-urlbar =
     .label = La eesa eltzan  xo'l imool.
