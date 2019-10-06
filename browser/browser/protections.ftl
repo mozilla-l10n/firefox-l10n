@@ -82,6 +82,33 @@ monitor-header-content-no-account = Паспрабуйце { -monitor-brand-name
 monitor-header-content-signed-in = { -monitor-brand-name } папярэдзіць, калі вашы звесткі з'явяцца ў вядомым парушэнні дадзеных.
 monitor-sign-up = Падпішыцеся на абвесткі аб уцечках
 auto-scan = Аўтаматычна прасканавана сёння
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Адрас электроннай пошты асочваецца
+        [few] Адрасы электроннай пошты асочваецца
+       *[many] Адрасоў электроннай пошты асочваецца
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Вядомае парушэнне дадзеных раскрыла вашу інфармацыю
+        [few] Вядомыя парушэнні дадзеных раскрылі вашу інфармацыю
+       *[many] Вядомых парушэнняў дадзеных раскрылі вашу інфармацыю
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Пароль выяўлены ва ўсіх уцечках
+        [few] Паролі выяўлена ва ўсіх уцечках
+       *[many] Пароляў выяўлена ва ўсіх уцечках
+    }
 full-report-link = Паглядзець поўную справаздачу пра <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
