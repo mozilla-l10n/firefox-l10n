@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Rozmiar
 site-data-column-last-used =
     .label = Ostatni dostęp
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (plik lokalny)
 site-data-remove-selected =
     .label = Usuń zaznaczone
     .accesskey = U
