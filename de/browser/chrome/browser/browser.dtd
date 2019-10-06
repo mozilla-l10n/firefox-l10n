@@ -155,25 +155,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Angemeldet als">
 <!ENTITY fxa.menu.manageAccount.label "Konto verwalten…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;-Einstellungen…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label;-Einstellungen…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Weiteres Gerät verbinden…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Bei &brandProductName; anmelden">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; aktivieren">
-<!ENTITY fxa.menu.account.label "Konto">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName;-Dienste">
+
+<!ENTITY fxa.menu.account.label "Konto">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
 <!ENTITY fxa.service.sendTab.description "Tab sofort an alle Geräte senden, auf denen Sie angemeldet sind.">
-
-<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
-     for the Firefox Account toolbar menu screen.  -->
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -250,10 +248,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Ansicht mit Anfrage zur Installation eines Add-ons öffnen">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Erlaubnis zur Abfrage von Canvas-Daten verwalten">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Ansicht über Offline-Speicher öffnen">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ansicht über gespeicherte Anmeldedaten öffnen">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ansicht über gespeicherte Zugangsdaten öffnen">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Plugin-Verwendung verwalten">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Ändern, ob diese Website Benachrichtigungen senden darf">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Daten im dauerhaften Speicher speichern">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browser wird ferngesteuert">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Ansicht für Web-Authentifizierung öffnen">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Ansicht für während des Surfens berechtigte Aktivitäten öffnen">
@@ -881,11 +880,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Cookies und Website-Daten löschen…">
 
 <!ENTITY identity.permissions "Berechtigungen">
+
 <!ENTITY identity.permissions3 "Berechtigungen">
 <!ENTITY identity.permissionsEmpty "Der Website wurden keine besonderen Berechtigungen erteilt.">
 <!ENTITY identity.permissionsReloadHint "Eventuell muss die Seite neu geladen werden, um die Änderungen zu übernehmen.">
 <!ENTITY identity.permissionsPreferences.tooltip "Berechtigungs-Einstellungen öffnen">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Einstellungen zum Blockieren von Seitenelementen öffnen">
+
 
 <!ENTITY protections.etpON.header "Verbesserter Schutz vor Aktitivätenverfolgung ist für diese Website AKTIVIERT">
 <!ENTITY protections.etpOFF.header "Verbesserter Schutz vor Aktitivätenverfolgung ist für diese Website DEAKTIVIERT">
