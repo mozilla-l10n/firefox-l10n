@@ -506,9 +506,6 @@ search-bar-shown =
 search-engine-default-header = Motor de recerca predefinite
 search-engine-default-desc = Elige le motor de recerca pro usar como predefinition pro le barra de adresse e le de recerca.
 search-engine-default-private-desc = Elige le motor de recerca predefinite a usar in Fenestras anonyme.
-search-separate-default-engine =
-    .label = https://pontoon.mozilla.org/ia/sumo/all-resources/?status=fuzzy&string=204213#machinery
-    .accesskey = U
 search-suggestions-header = Suggestiones de recerca
 search-suggestions-desc = Elige como appare le suggestiones ex motores de recerca.
 search-suggestions-option =
