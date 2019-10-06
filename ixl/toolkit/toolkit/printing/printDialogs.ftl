@@ -9,8 +9,12 @@ scale-percent =
     .value = %
 options-group-label =
     .value = Unka'te
+hf-url =
+    .label = URL
 hf-custom =
     .label = Eetz chitu'…
+print-preview-window =
+    .title = Tilax B'axa
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

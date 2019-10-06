@@ -139,6 +139,8 @@ home-mode-choice-custom =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-topsites-header =
+    .label = Uve' pal chit tilpe'
 home-prefs-highlights-options-bookmarks =
     .label = Aq'ol texhlal
 
@@ -176,6 +178,7 @@ sync-manage-account = La eel isuuchil u atinb'ale'
 ## The list of things currently syncing.
 
 sync-currently-syncing-bookmarks = Aq'ol texhlal
+sync-currently-syncing-addresses = Unq'a tatinb'al
 sync-currently-syncing-addons = Tz'ajsab' tetz
 
 ## The "Choose what to sync" dialog.
