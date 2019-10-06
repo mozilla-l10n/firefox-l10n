@@ -99,7 +99,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "बिलाइनि मोनथिहोनाय">
 <!ENTITY pageInfoCmd.accesskey "I">
 
-<!ENTITY pageInfoCmd.commandkey "आं">
+<!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "लेआउट डेबागार">
 <!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.accesskey "m">
@@ -148,12 +148,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.manageAccount.label "एकाउन्ट सामलाय…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; सेटिं…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; सेटिं…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
 
 <!ENTITY fxa.menu.account.label "एकाउन्ट">
 
@@ -399,7 +400,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     secondary commands. -->
 <!ENTITY moreMenu.label "गोबां">
 
-<!ENTITY openCmd.commandkey           "आं">
+<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "थंखौ नागिर एबा हाबहो">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->

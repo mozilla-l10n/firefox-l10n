@@ -33,5 +33,5 @@
 <!ENTITY sortLast.label      "जोबथा > गिबि जोबथा थाखो फारि">
 <!ENTITY sortLast.accesskey  "L">
 <!ENTITY closeCmd.commandkey "w">  
-<!ENTITY focus1.commandkey   "आं">  
+<!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">  

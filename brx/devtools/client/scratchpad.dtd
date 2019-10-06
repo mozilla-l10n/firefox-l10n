@@ -84,11 +84,11 @@
 
 <!ENTITY inspect.label                "नाइबिजिर">
 <!ENTITY inspect.accesskey            "I">
-<!ENTITY inspect.key                  "आं">
+<!ENTITY inspect.key                  "i">
 
 <!ENTITY display.label                "दिनथिफुं">
 <!ENTITY display.accesskey            "D">
-<!ENTITY display.key                  "आं">
+<!ENTITY display.key                  "l">
 
 <!ENTITY pprint.label                 "प्रिटि प्रिन्ट">
 <!ENTITY pprint.key                   "p">

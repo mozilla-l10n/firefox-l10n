@@ -52,12 +52,6 @@ newtab-confirm-delete-history-p2 = बे हाबाखौ मावनो ह
 newtab-menu-section-tooltip =
     .title = मेनु खेव
     .aria-label = मेनु खेव
-# This tooltip is for the context menu of Pocket cards or Topsites
-# Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
-newtab-menu-content-tooltip =
-    .title = मेनु खेव
-    .aria-label = मेनु खेव
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = बे साइटखौ सुजु
