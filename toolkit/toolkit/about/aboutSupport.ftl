@@ -32,6 +32,8 @@ app-basics-name = Имя
 app-basics-version = Версия
 app-basics-build-id = ID сборки
 app-basics-update-channel = Канал обновления
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Каталог обновления
@@ -56,7 +58,6 @@ app-basics-service-workers = Зарегистрированные Service Worker
 app-basics-profiles = Профили
 app-basics-launcher-process-status = Запускающий процесс
 app-basics-multi-process-support = Многопроцессные окна
-app-basics-process-count = Процессы веб-контента
 app-basics-remote-processes-count = Удалённые процессы
 app-basics-enterprise-policies = Корпоративные политики
 app-basics-location-service-key-google = Ключ Службы определения местоположения от Google
@@ -112,6 +113,13 @@ sandbox-sys-call-number = Системный вызов
 sandbox-sys-call-args = Параметры
 safe-mode-title = Попробовать безопасный режим
 restart-in-safe-mode-label = Перезапустить с отключёнными дополнениями…
+
+## Media titles
+
+audio-backend = Звуковая подсистема
+max-audio-channels = Максимальное число каналов
+channel-layout = Предпочтительный формат каналов
+sample-rate = Предпочтительная частота дискретизации
 media-title = Медиа
 media-output-devices-title = Устройства вывода
 media-input-devices-title = Устройства ввода
@@ -124,6 +132,12 @@ media-device-format = Формат
 media-device-channels = Каналы
 media-device-rate = Частота
 media-device-latency = Задержка
+media-capabilities-title = Возможности медиа
+# List all the entries of the database.
+media-capabilities-enumerate = Вывести записи из базы данных
+
+
+
 intl-title = Интернационализация и Локализация
 intl-app-title = Настройки приложения
 intl-locales-requested = Запрошенные языки
@@ -243,12 +257,7 @@ uses-tiling = Использует тайлинг
 content-uses-tiling = Использует тайлинг (контент)
 off-main-thread-paint-enabled = Прорисовка вне основного потока активирована
 off-main-thread-paint-worker-count = Число воркеров отрисовки вне основного потока
-low-end-machine = Обнаружена менее производительная машина
 target-frame-rate = Целевая частота кадров
-audio-backend = Звуковая подсистема
-max-audio-channels = Максимальное число каналов
-channel-layout = Предпочтительный формат каналов
-sample-rate = Предпочтительная частота дискретизации
 min-lib-versions = Ожидаемая минимальная версия
 loaded-lib-versions = Используемая версия
 has-seccomp-bpf = Seccomp-BPF (Фильтрация системных вызовов)
