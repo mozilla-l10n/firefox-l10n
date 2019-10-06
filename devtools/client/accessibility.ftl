@@ -51,3 +51,5 @@ accessibility-keyboard-issue-semantics = Los elementos que pueden recibir el foc
 accessibility-keyboard-issue-tabindex = Evite utilizar el atributo <code>tabindex</code> mayor que cero. <a>Saber más</a>
 accessibility-keyboard-issue-action = Los elementos interactivos tienen que poder activarse con el teclado. <a>Saber más</a>
 accessibility-keyboard-issue-focusable = Los elementos interactivos tiene que poder recibir el foco. <a>Saber más</a>
+accessibility-keyboard-issue-focus-visible = Al elemento que puede recibir el foco le puede faltar estilo de enfoque. <a>Saber más</a>
+accessibility-keyboard-issue-mouse-only = Los elementos sobre los que se puede hacer clic tienen que poder recibir el foco y deberían tener una semántica interactiva. <a>Saber más</a>
