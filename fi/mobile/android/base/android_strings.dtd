@@ -28,6 +28,7 @@
 <!ENTITY newfirstrun_sync_subtext "Synkronoi kaikki mobiililaitteelle tallentamasi Firefoxin työpöytäversioon, yksityisesti ja turvallisesti.">
 <!ENTITY updatednewfirstrun_sync_subtext "Kirjaudu tilillesi saadaksesi täyden hyödyn irti &brandShortName;ista">
 <!ENTITY firstrun_signin_message "Yhdistä ja aloita">
+<!ENTITY firstrun_sendtab_title "Lähetä välilehti">
 <!ENTITY firstrun_sendtab_message "Jaa välilehdet mobiililaitteelta työpöydälle — välittömästi.">
 <!ENTITY firstrun_signin_button "Kirjaudu sisään Sync-palveluun">
 <!ENTITY newfirstrun_signin_button "Ota Sync käyttöön">
