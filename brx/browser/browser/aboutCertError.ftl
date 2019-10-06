@@ -38,4 +38,7 @@ cert-error-not-yet-valid-now = वेबसाइत आ गावसोरन�
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = गोरोन्थि क'ड: <a data-l10n-name="error-code-link">{ $error }</a>
 cert-error-symantec-distrust-admin = नोंथाङा बे असुबिदानि बागै वेबसाइत नि बिगोमानो फोरमायनो हागौ
+# Variables:
+# $hasHSTS (Boolean) - Indicates whether HSTS header is present.
+cert-error-details-hsts-label = { $hasHSTS } HTTP आ गोखो्ङै बैंगा्खौ दैथाइगा्
 cert-error-details-cert-chain-label = चार्टिफिकेटखौ जिनजिरि:

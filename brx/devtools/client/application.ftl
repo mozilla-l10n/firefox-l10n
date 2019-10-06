@@ -30,5 +30,7 @@ serviceworker-worker-status-running = सोलिगासिनो
 serviceworker-worker-status-stopped = थाद’बाय
 # Header for the Identity section of Manifest inspection displayed in the application panel.
 manifest-item-identity = सिनायथि
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = दिन्थिनाय हाबा
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = आइकनफोर
