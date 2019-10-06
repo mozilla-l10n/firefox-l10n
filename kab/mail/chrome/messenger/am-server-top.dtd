@@ -1,8 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-server-top.xul -->
-
 
 <!ENTITY messageStorage.label "Asekles n yeznan">
 <!ENTITY securitySettings.label "Iɣewwaṛen n tɣellist">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Tabburt:">
 <!ENTITY port.accesskey "r">
 <!ENTITY serverPortDefault.label "Amezwer:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -33,7 +31,7 @@
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
 <!ENTITY authMethod.label "Tarrayt n usesteb:">
 <!ENTITY authMethod.accesskey "r">
-<!ENTITY leaveOnServer.label "Eǧǧ-ed iznan ɣef uqeddac">
+<!ENTITY leaveOnServer.label "Eǧǧ-d iznan ɣef uqeddac">
 <!ENTITY leaveOnServer.accesskey "n">
 <!ENTITY headersOnly.label "Aggay n iqeṛṛa kan">
 <!ENTITY headersOnly.accesskey "g">
@@ -44,7 +42,6 @@
 <!ENTITY deleteOnServer2.accesskey "k">
 <!ENTITY downloadOnBiff.label "Zdem iznan imaynuten s wudem awurman">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Isem n useqdac-ik">
 <!ENTITY deleteMessagePrefix.label "Ticki kkseɣ izen:">
 <!ENTITY modelMoveToTrash.label "Awi-t ɣer ukaram:">
 <!ENTITY modelMoveToTrash.accesskey "w">
@@ -61,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "n">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "steqsi yid send azdam ugar n">
 <!ENTITY maxMessagesStart.accesskey "n">

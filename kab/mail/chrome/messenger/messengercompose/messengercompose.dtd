@@ -28,7 +28,7 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Takarda tudmawant (vCard)">
 <!ENTITY attachVCardCmd.accesskey "d">
-<!ENTITY remindLater.label "Mekti-yid ticki">
+<!ENTITY remindLater.label "Mekti-yi-d ticki">
 <!ENTITY remindLater.accesskey "M">
 <!ENTITY closeCmd.label "Mdel">
 <!ENTITY closeCmd.key "W">
@@ -94,14 +94,13 @@
      as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "f">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     With OS-specific access modifier, this defines the shortcut key for showing/
-     hiding/minimizing the attachment pane, e.g. Alt+M on Windows.
-     toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
-     for the bucket view state machinery to work. -->
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "f">
 <!ENTITY selectAllCmd.label "Fren Imaṛṛa">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "I">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Nadi…">
 <!ENTITY findBarCmd.accesskey "N">
 <!ENTITY findBarCmd.key "F">
@@ -270,9 +269,11 @@
 <!ENTITY subject.label "Asentel:">
 <!ENTITY subject.accesskey "A">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
-     be taken from the strings in attachmentCount in composeMsgs.properties,
-     and it must be the same as toggleAttachmentPaneCmd.key, otherwise it won't
-     work, as the shortcut key functionality supersedes the access key. -->
+     be taken from the strings of attachmentCount in composeMsgs.properties.
+     Please ensure that this access key is unique: Do not duplicate any other
+     first-level access keys of the compose window, e.g. those of main menu,
+     buttons, or labels (message headers, contacts side bar, attachment reminder
+     bar). -->
 <!ENTITY attachments.accesskey "m">
 <!ENTITY attachmentBucketHeader.tooltip "Agalis n yifuyla yeddan">
 <!ENTITY attachmentBucketCloseButton.tooltip "Ffer agalis n yifuyla yeddan">

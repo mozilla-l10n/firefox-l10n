@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Tasefsit:">
 <!ENTITY font.accesskey                       "s">
-<!ENTITY size.label                           "Teɣzi:">
-<!ENTITY size.accesskey                       "T">
 <!ENTITY fontSize.label                       "Teɣzi:">
 <!ENTITY fontSize.accesskey                   "z">
 <!ENTITY useReaderDefaults.label              "Seqdec initen imezwar n umeɣri">
@@ -28,7 +26,7 @@
 <!ENTITY fontColor.accesskey                  "m">
 <!ENTITY bgColor.label                        "Tiɣmi n ugilal:">
 <!ENTITY bgColor.accesskey                    "g">
-<!ENTITY restoreHTMLDefaults.label            "Err-ed iɣewwaṛen n uwennez n tazwara">
+<!ENTITY restoreHTMLDefaults.label            "Err-d iɣewwaṛen n uwennez n tazwara">
 <!ENTITY restoreHTMLDefaults.accesskey        "E">
 <!ENTITY defaultToParagraph.label             "Seqdec taseddaṛt deg umḍiq n uḍris n tfekka s wudem amezwer">
 <!ENTITY defaultToParagraph.accesskey         "c">

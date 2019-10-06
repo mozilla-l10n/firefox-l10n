@@ -7,7 +7,7 @@
 <!ENTITY autoDowngrade.label          "Azen izen am uḍris aččuran ticki tzemreḍ">
 <!ENTITY autoDowngrade.accesskey      "k">
 <!ENTITY sendMaildesc.label           "Ticki tuzneḍ izen s umasal HTML u yiwen neq ugar seg iɣewaḍen ur yezmir ara ad d-yermes HTML:">
-<!ENTITY askMe.label                  "Seqsi-yid d acu ar ad maheleɣ">
+<!ENTITY askMe.label                  "Seqsi-yi-d d acu ar ad maheleɣ">
 <!ENTITY askMe.accesskey              "q">
 <!ENTITY convertPlain.label           "Selket izen amzun d aḍris ačuṛan">
 <!ENTITY convertPlain.accesskey       "i">
