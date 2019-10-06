@@ -8,3 +8,4 @@ fxa-disconnect-dialog =
     .buttonlabelaccept = Desconectar
     .buttonaccesskeyaccept = D
 disconnect-account = Se desconectará { -brand-short-name } de tu cuenta, pero no se eliminarán los datos de navegación de este dispositivo.
+disconnect-sync = { -brand-short-name } dejará de sincronizar su cuenta, pero no eliminará sus datos de navegación en este dispositivo.

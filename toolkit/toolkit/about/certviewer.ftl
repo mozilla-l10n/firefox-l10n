@@ -55,6 +55,17 @@ certificate-viewer-timestamp = Marca de tiempo
 certificate-viewer-value = Valor
 certificate-viewer-version = Versión
 certificate-viewer-business-category = Categoría de negocio
+certificate-viewer-subject-name = Nombre del asunto
+certificate-viewer-issuer-name = Nombre del emisor
+certificate-viewer-validity = Validez
+certificate-viewer-subject-alt-names = Nombres alternativos del sujeto
+certificate-viewer-public-key-info = Información de clave pública
+certificate-viewer-miscellaneous = Misceláneo
+certificate-viewer-fingerprints = Huellas digitales
+certificate-viewer-basic-constraints = Restricciones básicas
+certificate-viewer-key-usages = Usos de la clave
+certificate-viewer-extended-key-usages = Usos extendidos de la clave
+certificate-viewer-subject-key-id = ID de clave de asunto
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Descargar
@@ -66,3 +77,7 @@ certificate-viewer-boolean =
         [true] Sí
        *[false] No
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
