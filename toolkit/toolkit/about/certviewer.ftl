@@ -14,16 +14,23 @@ certificate-viewer-error-title = Yanlış giden bir şeyler var.
 certificate-viewer-algorithm = Algoritma
 certificate-viewer-certificate-authority = Sertifika makamı
 certificate-viewer-cipher-suite = Şifre paketi
+certificate-viewer-common-name = Yaygın ad
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-country = Kuruluş ülkesi
 certificate-viewer-country = Ülke
+certificate-viewer-curve = Eğri
 certificate-viewer-distribution-point = Dağıtım noktası
 certificate-viewer-dns-name = DNS adı
+certificate-viewer-exponent = Üs
 certificate-viewer-id = Kimlik
 certificate-viewer-key-exchange-group = Anahtar değişim grubu
 certificate-viewer-key-id = Anahtar kimliği
 certificate-viewer-key-size = Anahtar boyutu
 certificate-viewer-locality = Bölge
 certificate-viewer-location = Konum
+certificate-viewer-logid = Log kimliği
 certificate-viewer-method = Yöntem
+certificate-viewer-modulus = Modülüs
 certificate-viewer-name = Adı
 certificate-viewer-not-after = Bitiş
 certificate-viewer-not-before = Başlangıç
@@ -31,10 +38,14 @@ certificate-viewer-organization = Kurum
 certificate-viewer-organizational-unit = Kurum birimi
 certificate-viewer-policy = İlke
 certificate-viewer-protocol = Protokol
+certificate-viewer-public-value = Açık değer
 certificate-viewer-purposes = Amaçlar
 certificate-viewer-qualifier = Niteleyici
 certificate-viewer-qualifiers = Niteleyiciler
 certificate-viewer-required = Gerekli
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-state-province = Kuruluş ili
+certificate-viewer-state-province = Eyalet/il
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Seri numarası
@@ -44,10 +55,23 @@ certificate-viewer-timestamp = Zaman damgası
 certificate-viewer-value = Değer
 certificate-viewer-version = Sürüm
 certificate-viewer-business-category = İş kategorisi
+certificate-viewer-subject-name = Özne Adı
+certificate-viewer-issuer-name = Düzenleyenin Adı
 certificate-viewer-validity = Geçerlilik
+certificate-viewer-subject-alt-names = Özne alternatif adları
+certificate-viewer-public-key-info = Açık Anahtar Bilgileri
 certificate-viewer-miscellaneous = Diğer
+certificate-viewer-fingerprints = Parmak İzleri
+certificate-viewer-basic-constraints = Temel Kısıtlamalar
 certificate-viewer-key-usages = Anahtar Kullanımları
+certificate-viewer-extended-key-usages = Genişletilmiş Anahtar Kullanımları
+certificate-viewer-ocsp-stapling = OCSP Zımbalama
+certificate-viewer-subject-key-id = Özne Anahtar Kimliği
+certificate-viewer-authority-key-id = Makam Anahtar Kimliği
+certificate-viewer-authority-info-aia = Makam Bilgileri (AIA)
 certificate-viewer-certificate-policies = Sertifika İlkeleri
+certificate-viewer-embedded-scts = Gömülü SCT’ler
+certificate-viewer-crl-endpoints = CRL uç noktaları
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = İndir
@@ -63,3 +87,7 @@ certificate-viewer-boolean =
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (sertifika)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (zincir)
+    .download = { $fileName }-chain.pem
