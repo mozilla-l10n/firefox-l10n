@@ -395,6 +395,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Nadi aḍris ticki tebda tira
     .accesskey = N
+browsing-picture-in-picture-toggle-enabled =
+    .label = Rmeb asenqed i uslaɣ n uvidyu
+    .accesskey = R
 browsing-picture-in-picture-learn-more = Issin ugar
 browsing-cfr-recommendations =
     .label = Welleh isizaf ticki tettiniged
@@ -502,7 +505,12 @@ search-bar-shown =
     .label = Rnu afeggag n unadi deg ufeggag n ifecka
 search-engine-default-header = Amsedday n unadi amezwer
 search-engine-default-desc = Fren amsedday n unadi amezwer ad tesqedceḍ deg ufeggag n tansa akked deg ufeggag n unadi.
+search-engine-default-private-desc = Fren amsedday n unadi amezwer i useqdec deg yisfuyla n tunigin tusligt.
+search-separate-default-engine =
+    .label = Seqdec amsedday-a n unadi deg usfaylu n tunigin tusligt
+    .accesskey = q
 search-suggestions-header = Nadi isumar
+search-suggestions-desc = Fren amek ara d-banen isumar deg yimseddayen n unadi.
 search-suggestions-option =
     .label = Sken isumar n unadi
     .accesskey = S
@@ -516,6 +524,7 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Sken-d asumer n unadi uqbel amazray n tunigin deg ugemmuḍ deg ufeggag n tansa
+suggestions-addressbar-settings = Beddel ismenyifen i uzray n tunigin, ticraḍ n yisebtar akked isumar n yiccaren
 search-suggestions-cant-show = Anadi n isumar ur d ittwaskan ara deg yigmaḍ n ufeggag n tansa acku tsewleḍ { -brand-short-name } akken ur iḥerrez ara amazray.
 search-one-click-header = Imseddayen n unadi ara tkecmeḍ s yiwen n usiti
 search-one-click-desc = Fren imseddayen n unadi-nniḍen ad d-ibanen daw ufeggag n tansa akked ufeggag n unadi m'ara ad tebduḍ ad tsekcameḍ awal n tsarut.
@@ -610,6 +619,7 @@ prefs-syncing-off = Amtawi: INSA
 prefs-sync-setup =
     .label = Sbadu { -sync-brand-short-name }...
     .accesskey = S
+prefs-sync-offer-setup-label = Mtawi ticraḍ-ik n yisebtar, azray, iccaren, awalen uffiren, izegrar akked ismenyifen gar yibenkan-ik.
 prefs-sync-now =
     .labelnotsyncing = Mtawi tura
     .accesskeynotsyncing = T
@@ -617,6 +627,7 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Iferdisen-a mtawin akka tura:
 sync-currently-syncing-bookmarks = Ticraḍ n yisebtar
 sync-currently-syncing-history = Azray
 sync-currently-syncing-tabs = Ldi iccaren
@@ -632,6 +643,13 @@ sync-currently-syncing-prefs =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Fren iferdisen ara yemtawin
+    .style = width: 38em; min-height: 35em;
+    .buttonlabelaccept = Sekles ibeddilen
+    .buttonaccesskeyaccept = b
+    .buttonlabelextra2 = Se déconnecter…
+    .buttonaccesskeyextra2 = S
 sync-engine-bookmarks =
     .label = Ticraḍ n yisebtar
     .accesskey = c
@@ -646,6 +664,10 @@ sync-engine-logins =
     .label = Anekcum
     .tooltiptext = Isem n uqesdac d wawalen uffiren i teskelseḍ
     .accesskey = Y
+sync-engine-logins-passwords =
+    .label = Inekcam d wawalen uffiren
+    .tooltiptext = Ismawen n yiseqdacen akked wawalen uffiren i teskelseḍ
+    .accesskey = I
 sync-engine-addresses =
     .label = Tansiwin
     .tooltiptext = Tansiwin n lpusṭa i teskelseḍ (aselkim kan)
@@ -701,6 +723,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Sumer daɣen rnu awalen uffiren iǧehden
     .accesskey = S
+forms-breach-alerts =
+    .label = Sken ilɣa i wawalen uffiren n yismal i teɛna trewla n yisefka
+    .accesskey = k
 forms-breach-alerts-learn-more-link = Issin ugar
 forms-fill-logins-and-passwords =
     .label = Ččar inekcam d wawalen uffiren s wudem awurman
@@ -783,6 +808,10 @@ sitedata-block-desc = Tawsit tewḥel
     .accesskey = T
 sitedata-option-block-trackers =
     .label = Ineḍfaren n wis kraḍ
+sitedata-option-block-cross-site-trackers =
+    .label = Ineḍfaṛen gar yismal
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Ineḍfaṛen gar yismal akked iẓeḍwa inmettiyen
 sitedata-option-block-unvisited =
     .label = Inagan n tuqqna seg ismal web ur yettwarzan ara
 sitedata-option-block-all-third-party =
@@ -818,6 +847,8 @@ addressbar-suggestions-settings = Snifel ismenyifen i yisumar n umsedday n unadi
 
 content-blocking-header = Asewḥel n ugbur
 content-blocking-section-description = Mmesten tabaḍnit-ik deg tunigin. Sewḥel igburen ur d-yettbanen ara, i k-yeṭṭafaṛen seg usmel ɣer wayeḍ daɣen ttwalin amaɣnu-ik. Sewḥel aḥric n yigburen-a i zemren ad sɣiwlen asali n yisebtar.
+content-blocking-enhanced-tracking-protection = Ammesten yettwaseǧhed mgal aḍfaṛ
+content-blocking-section-top-level-description = Inefḍfaṛen ad k-ḍefṛen srid akken ad leqḍen talɣut ɣef tnumi-ik n tunigin akked wayen tḥemmleḍ. { -brand-short-name } ad yessewḥel ddeqs n yineḍfaṛen-a akked yir iskripten.
 content-blocking-learn-more = Issin ugar
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -852,6 +883,10 @@ enhanced-tracking-protection-setting-custom =
 
 
 
+content-blocking-etp-standard-desc = Yerked gar ummesten akked tmellit. ISebtar ad d-alin s wudem amagnu.
+content-blocking-etp-strict-desc = Ammesten yettwaseǧhed, maca kra n yismal akked ugbur yemzer ur teddun ara akken iwata.
+content-blocking-etp-custom-desc = Fren ineḍfaṛen akked iskripten ara tesweḥleḍ.
+content-blocking-private-windows = Agbur yettwaseqdec i uḍfaṛ deg yisfuyla n tunigin tuligt
 content-blocking-cross-site-tracking-cookies = Inagan n tuqqna i uḍfaṛ gar yismal
 content-blocking-social-media-trackers = Ineḍfaṛen n iẓeḍwa inmettiyen
 content-blocking-all-cookies = Inagan n tuqqna meṛṛa
@@ -864,6 +899,7 @@ content-blocking-fingerprinters = Idsilen umḍinen
 content-blocking-warning-title = Aqeṛṛu d afella!
 content-blocking-warning-description = Asewḥel n ugbru yezmer ur yettaǧǧa ara kra n yismal ad ddun akken iwata. Tzemreḍ s wudem fessusen ad tsenseḍ asewḥel i yismal i tettamned.
 content-blocking-learn-how = Issin amek
+content-blocking-etp-warning-description = Asewḥel n yineḍfaṛen yezmer ad yeglu s kra n lexṣaṣ deg tmahilin n kra n yismal. Smiren asebter s yineḍfaṛen akken ad d-yali ugbur meṛṛa.
 content-blocking-warning-learn-how = Issin amek
 content-blocking-reload-description = Yessefk ad talseḍ asali n yiccaren-ik akken ad ddun ibeddilen-a.
 content-blocking-reload-tabs-button =
