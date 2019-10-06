@@ -65,7 +65,7 @@ about-logins-list-item-warning-icon =
     .alt = Waarschuwingspictogram
     .title = Getroffen website
 about-logins-list-item-breach-icon =
-    .title = Getroffen website
+    .title = Website met datalek
 
 ## Introduction screen
 
@@ -147,5 +147,10 @@ breach-alert-dismiss =
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login = Er bestaat al een vermelding voor { $loginTitle } met die gebruikersnaam.
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Er bestaat al een vermelding voor { $loginTitle } met die gebruikersnaam. <a data-l10n-name="duplicate-link">Naar bestaande vermelding gaan?</a>
 # This is a generic error message.
 about-logins-error-message-default = Er is een fout opgetreden tijdens het opslaan van dit wachtwoord.
