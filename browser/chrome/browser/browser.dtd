@@ -158,11 +158,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Zalogowano jako">
 <!ENTITY fxa.menu.manageAccount.label "Zarządzaj kontem…">
+<!ENTITY fxa.menu.syncSettings.label "Ustawienia synchronizacji…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "Ustawienia synchronizacji…">
+<!ENTITY fxa.menu.syncSettings2.label "Ustawienia synchronizacji">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Połącz inne urządzenie…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -175,6 +176,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Ustawienia konta">
 <!ENTITY fxa.menu.signOut.label "Wyloguj się…">
 <!ENTITY fxa.menu.deviceSettings.label "Ustawienia urządzenia">
+<!ENTITY fxa.menu.setupSync.label "Skonfiguruj synchronizację…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -503,7 +505,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Wyszukuj łatwiej!">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Ikona &#x1F50E; sygnalizuje podpowiedzi wyszukiwarek.">
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Ikona &#x1F50E; sygnalizuje podpowiedzi wyszukiwania.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Zmień opcje…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "Z">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Zmień preferencje…">
