@@ -161,17 +161,17 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
-<!ENTITY options.screenshot.label            "Sifaa Leƴƴannde kuurgal">
+<!ENTITY options.screenshot.label            "Jikkorde Nokitol Yaynirde">
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
-<!ENTITY options.screenshot.clipboard.label      "Leƴƴannde kuurgal e gostorel">
-<!ENTITY options.screenshot.clipboard.tooltip    "Danndii e leƴƴannde kuurgal faade e gostorel ngel">
+<!ENTITY options.screenshot.clipboard.label      "Nokitol yaynirde to ɗakkitorde">
+<!ENTITY options.screenshot.clipboard.tooltip    "Danndat nokitol yaynirde bec to ɗakkitorde">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
-<!ENTITY options.screenshot.audio.label      "Taro daande gudditirgel kameraa">
-<!ENTITY options.screenshot.audio.tooltip    "Ina hurmina daande ojoo kameraa oo saanga nde ƴettata leƴƴannde kuurgal">
+<!ENTITY options.screenshot.audio.label      "Taro hito guddirgel kameraa">
+<!ENTITY options.screenshot.audio.tooltip    "Hurminat hito ojoo kameraa oo tuma ƴettugol nokitol naynirde">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
