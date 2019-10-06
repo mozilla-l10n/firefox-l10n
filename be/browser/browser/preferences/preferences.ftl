@@ -697,7 +697,7 @@ sync-engine-prefs =
 
 sync-device-name-header = Назва прылады
 sync-device-name-change =
-    .label = Змяніць імя прылады…
+    .label = Змяніць назву прылады…
     .accesskey = м
 sync-device-name-cancel =
     .label = Скасаваць
