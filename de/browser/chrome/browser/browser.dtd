@@ -977,10 +977,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Elemente zur Aktivitätenverfolgung">
 
 <!ENTITY contentBlocking.manageSettings.label "Blockieren von Seitenelementen verwalten">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Inhalte zur Aktivitätenverfolgung">
-
-<!ENTITY contentBlocking.manageSettings2.label "Schutzmaßnahmen-Einstellungen verwalten">
 <!ENTITY contentBlocking.manageSettings.accesskey "B">
 
 <!ENTITY contentBlocking.trackersView.label "Elemente zur Aktivitätenverfolgung">
@@ -988,6 +984,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies und Website-Daten">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Inhalte zur Aktivitätenverfolgung">
+
+<!ENTITY contentBlocking.manageSettings2.label "Schutzmaßnahmen-Einstellungen verwalten">
+<!ENTITY contentBlocking.manageSettings2.accesskey "E">
 
 <!ENTITY contentBlocking.socialblock.label "Skripte zur Aktivitätenverfolgung durch soziale Netzwerke">
 
@@ -1003,6 +1004,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Probleme melden">
 <!ENTITY contentBlocking.breakageReportView2.description "Das Blockieren von Seitenelementen kann bei einigen Websites zu Problemen führen. Wenn Sie Probleme melden, helfen Sie &brandShortName; für alle besser zu machen. (Dabei werden die Adresse sowie Informationen über Ihre Browsereinstellungen an Mozilla gesendet.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Weitere Informationen">
+
 <!ENTITY contentBlocking.breakageReportView.title "Problem mit Website melden">
 <!ENTITY contentBlocking.breakageReportView3.description "Das Blockieren bestimmter Skripte zur Aktivitätenverfolgung kann bei einigen Websites zu Problemen führen. Wenn Sie Probleme melden, helfen Sie &brandShortName; für alle besser zu machen. Beim Senden des Berichts werden eine Adresse sowie Informationen über Ihre Browser-Einstellungen an Mozilla gesendet.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Weitere Informationen">
