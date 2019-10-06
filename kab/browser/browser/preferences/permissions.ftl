@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = Tisuraf - Asewḥel n ugbur
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Tsenseḍ asewḥel n ugbur i yesmal-agi.
+permissions-exceptions-etp-window =
+    .title = Tisuraf i ummesten yettwaseǧhed mgal aḍfaṛ
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Tsenseḍ ammesten ɣef yismal-a.
 
 ## Exceptions - Cookies
 
