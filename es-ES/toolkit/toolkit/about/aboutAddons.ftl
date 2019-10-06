@@ -254,6 +254,10 @@ shortcuts-letter = Escriba una letra
 shortcuts-system = No se puede sobrescribir un acceso directo de { -brand-short-name }.
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Duplicar acceso directo
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } se está usando como atajo en más de un caso. Los accesos directos duplicados pueden causar un comportamiento inesperado.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -383,6 +387,11 @@ addon-detail-private-browsing-disallow = No permitir
 addon-badge-recommended =
     .title = Recomendado
     .alt = Recomendado
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } solo recomienda extensiones que cumplan con nuestros estándares de seguridad y rendimiento
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Actualizaciones disponibles
 recent-updates-heading = Actualizaciones recientes
 release-notes-loading = Cargando…
