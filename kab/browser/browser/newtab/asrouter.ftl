@@ -129,6 +129,7 @@ cfr-doorhanger-send-tab-ok-button = Ɛreḍ tuzna n yiccer
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Bḍu afaylu-a PDF s wudem aɣelsan
 cfr-doorhanger-firefox-send-ok-button = Reḍ { -send-brand-name }
     .accesskey = T
 
