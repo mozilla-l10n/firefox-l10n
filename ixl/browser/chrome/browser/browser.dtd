@@ -37,6 +37,11 @@ in "Search through tabs". -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY printPreviewCmd.label "Tilax B'axa">
+<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printCmd.label "Tel ch'u'l vatz u'uj…">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.commandkey "p">
 
 
 
@@ -114,6 +119,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY printButton.label            "Tel ch'u'l vatz u'uj">
 
 
 
