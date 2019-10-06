@@ -104,6 +104,7 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = С { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Посмотреть отчёт
 cfr-whatsnew-lockwise-backup-title = Сделайте резервную копию паролей
+cfr-whatsnew-lockwise-backup-body = Теперь можно генерировать надежные пароли и получать к ним доступ в любом месте.
 cfr-whatsnew-lockwise-backup-link-text = Включить резервные копии
 cfr-whatsnew-lockwise-take-title = Возьмите свои пароли с собой
 cfr-whatsnew-lockwise-take-body = Приложение { -lockwise-brand-short-name } предоставляет вам безопасный доступ к резервным копиям паролей из любой точки мира.
