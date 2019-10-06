@@ -33,6 +33,7 @@ printpreview-of =
     .value = ɣef
 printpreview-custom-prompt =
     .value = Sellum yugnen…
+printpreview-custom-scale-prompt-title = Sellum udmawan
 printpreview-page-setup =
     .label = Tarusi n usebter…
     .accesskey = a

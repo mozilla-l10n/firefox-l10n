@@ -188,6 +188,7 @@ language-name-tlh = Taklingunit
 language-name-tn = Tattwanit
 language-name-to = Ṭunga
 language-name-tr = Taṭurkit
+language-name-trs = Tatrikit
 language-name-ts = Ttunga
 language-name-tt = Taṭaṭarit
 language-name-tw = Tatwit
