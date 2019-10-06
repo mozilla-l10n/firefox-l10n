@@ -130,10 +130,18 @@ cfr-doorhanger-send-tab-ok-button = Ɛreḍ tuzna n yiccer
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Bḍu afaylu-a PDF s wudem aɣelsan
+cfr-doorhanger-firefox-send-body = Mmesten arratent-ik ibadniyen seg yir tamuɣli s uwgelhen si ṭṭerf ɣer ṭṭerf akken useɣwen ara yemmten ticki tfukkeḍ.
 cfr-doorhanger-firefox-send-ok-button = Reḍ { -send-brand-name }
     .accesskey = T
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Wali tarrayin n ummesten
+    .accesskey = W
 cfr-doorhanger-socialtracking-close-button = Mdel
     .accesskey = M
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } yessewḥel aẓeṭṭa inmetti akken ad k-yeḍfeṛ dagi
+cfr-doorhanger-socialtracking-description = Aqadeṛ n tudert-ik tabaḍnit yeɛna-aɣ. { -brand-short-name } yesseḥal akka tura ineḍfaṛen n yiẓeḍwa inmettiyen yettwassnen, ayen yettarran talast i tnecta n yisefka i zemren ad d-leqḍen armud-ik srid.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } yessewḥel aneḍfaṛ n udsil umḍin ɣef usebter-a.
+cfr-doorhanger-fingerprinters-description = Aqadeṛ n tbaḍnit-ik teɛna-aɣ. { -brand-short-name } yesseḥal akka tura ineḍfaṛen n udsil umḍin, i d-ileqḍen talɣut tasuft yettwassnen ɣef yibenk-ik akken ad k-yeḍfeṛ.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } yessewḥel akriptuminer ɣef usebter-a.
