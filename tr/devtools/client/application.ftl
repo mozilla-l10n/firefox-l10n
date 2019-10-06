@@ -69,8 +69,11 @@ serviceworker-empty-suggestions-debugger = Service Worker kaydınızı adım ad�
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Diğer alan adlarındaki Service Worker’ları denetleyin. <a>about:debugging’i aç</a>
-# Header for the view of Manifest displayed in the application panel for the current page.
+# Header for the Manifest page when we have an actual manifest
 manifest-view-header = Uygulama manifest’i
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Burada denetlemek için bir web uygulaması manifest'i eklemelisiniz. <a>Daha fazla bilgi alın</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Hatalar ve Uyarılar
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -87,6 +90,17 @@ manifest-loaded-ok = Manifest yüklendi.
 manifest-loaded-error = Manifest yüklenirken bir hata oluştu:
 # Text displayed when the page has no manifest available
 manifest-non-existing = İncelenecek bir manifest bulunamadı.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Manifest bir Data URL'sine gömülü.
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifest
+    .alt = Manifest simgesi
+    .title = Manifest
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Service Worker’lar
+    .alt = Service Worker’lar simgesi
+    .title = Service Worker’lar
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Uyarı simgesi
