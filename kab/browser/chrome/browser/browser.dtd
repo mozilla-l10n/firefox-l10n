@@ -157,11 +157,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Tkecmeḍ s yisem">
 <!ENTITY fxa.menu.manageAccount.label "Sefrek imiḍanen…">
+<!ENTITY fxa.menu.syncSettings.label "Iɣewwaṛen n &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "Iɣewwaṛen n &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Qqen ibenk-nniḍen...">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -846,6 +846,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Isem n useqdac d wawal uffir i tesqedceḍ deg usmel-a zemren ad ttwakren.">
 <!ENTITY identity.customRoot "Tuqqna tettwasntem sɣur amazan n uselkin ur tessin ara Mozilla.">
 
+<!ENTITY identity.evOwnerLabel2 "Aselkin yeffeɣ-d i:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; issewḥel kra n tazunin ur nelli ara d iɣelsanen deg usebter-a.">

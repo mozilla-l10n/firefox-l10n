@@ -57,3 +57,13 @@ rcwn-avg-long = Talemmast ɣezzifet
 rcwn-std-dev-long = Amgared tizeɣt muqren
 rcwn-cache-slow = Amḍan n tuffirt ẓẓayen
 rcwn-cache-not-slow = Amdan n tuffirt ur nelli ẓẓayet
+networkid = Asulay n uẓeṭṭa
+networkid-id = Asulay n uẓeṭṭa
+
+## Link is intended as "network link"
+
+networkid-isUp = Assaɣ yettwag
+networkid-statusKnown = Addad n wassaɣ yettwasssen
+
+
+

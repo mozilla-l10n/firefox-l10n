@@ -24,6 +24,7 @@ features-title = { -brand-short-name } Timahilin
 features-name = Isem
 features-version = Lqem
 features-id = ID
+processes-title = Ikalan inmeggagen
 processes-type = Tawsit
 processes-count = Amḍan
 app-basics-title = Iɣewwaṛen izaduren n usnas
@@ -60,6 +61,7 @@ app-basics-multi-process-support = Isfuyla agetakala
 app-basics-remote-processes-count = Ikalan inmeggagen
 app-basics-enterprise-policies = Tasertit n tkebbanit
 app-basics-location-service-key-google = Tasarutt n umeẓlu n wadi Google
+app-basics-safebrowsing-key-google = Tasarut Google Safebrowsing
 app-basics-key-mozilla = Tasarutt n umeẓlu n wadi Mozilla
 app-basics-safe-mode = Askar aɣelsan
 show-dir-label =
@@ -85,6 +87,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Aɣmis n ugemmen
 graphics-crash-guards-title = Timhalin ur nermid ara n uɛessas n uɣelluy
 graphics-workarounds-title = Tifrat n usellek
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Aneggaf n usfaylu
 place-database-title = Taffa n isefka n idigen
 place-database-integrity = Timmad
 place-database-verify-integrity = Senqed timmad
@@ -109,6 +113,13 @@ sandbox-sys-call-number = Asiwel n unagraw
 sandbox-sys-call-args = Tiɣiriyin
 safe-mode-title = Ɛreḍ deg uskar aɣelsan
 restart-in-safe-mode-label = Ales asenker s izegrar irurmiden…
+
+## Media titles
+
+audio-backend = Ameslaw ɣer deffir
+max-audio-channels = Amḍan afellay n ibuda
+channel-layout = Taneɣruft n udabu i tebɣiḍ
+sample-rate = Afmiḍi n imedyaten i tebɣiḍ
 media-title = Allalen n teγwalt
 media-output-devices-title = Ibenkan n tuffɣa
 media-input-devices-title = Ibenkan n n unekcum
@@ -121,6 +132,12 @@ media-device-format = Amasal
 media-device-channels = Ibuda
 media-device-rate = Afmiḍi
 media-device-latency = Akud n ugani
+media-capabilities-title = Tazmert n umidya
+# List all the entries of the database.
+media-capabilities-enumerate = Snirem taffa n yisefka
+
+
+
 intl-title = Asegreɣlen & Asideg
 intl-app-title = Iɣewwaṛen n usnas
 intl-locales-requested = Tutlayin ittwasutren
@@ -202,6 +219,7 @@ gpu-device-id = Asulay n yibenk
 gpu-subsys-id = Asulay n adanagraw
 gpu-drivers = Inuḍafen
 gpu-ram = RAM
+gpu-driver-vendor = Amaẓrag n unuḍaf
 gpu-driver-version = Lqem n unuḍaf
 gpu-driver-date = Azemz n unuḍaf
 gpu-active = Urmid
@@ -235,10 +253,6 @@ content-uses-tiling = Seqdec asebleḍ (Agbur)
 off-main-thread-paint-enabled = Painting beṛṛa n tnelli n uselkem agejdan yermed
 off-main-thread-paint-worker-count = Uṭṭun n iseqdacen Painting beṛṛa n tnelli
 target-frame-rate = Afmiḍi n n ukatar asaḍas
-audio-backend = Ameslaw ɣer deffir
-max-audio-channels = Amḍan afellay n ibuda
-channel-layout = Taneɣruft n udabu i tebɣiḍ
-sample-rate = Afmiḍi n imedyaten i tebɣiḍ
 min-lib-versions = Lqem adday itturajun
 loaded-lib-versions = Lqem ittuseqdacen
 has-seccomp-bpf = Seccomp-BPF (Azizdeg n isawalen n unagraw)
@@ -252,6 +266,7 @@ effective-content-sandbox-level = Aswir n usersu n ukala n ugbur
 sandbox-proc-type-content = agbur
 sandbox-proc-type-file = agbur n ufaylu
 sandbox-proc-type-media-plugin = asiɣzef n wallen n teywalt
+sandbox-proc-type-data-decoder = akestengal n yisefka
 launcher-process-status-0 = Irmed
 launcher-process-status-1 = Yensa ɣef sebba n tuccḍa
 launcher-process-status-2 = Arurmid s tedusi
