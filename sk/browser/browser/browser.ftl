@@ -62,3 +62,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = Skryť panely s nástrojmi
     .accesskey = k
+full-screen-exit =
+    .label = Ukončiť režim celej obrazovky
+    .accesskey = U
