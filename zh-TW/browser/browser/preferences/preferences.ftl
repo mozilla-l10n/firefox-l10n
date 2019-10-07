@@ -624,6 +624,9 @@ sync-currently-syncing-prefs =
         [windows] 選項
        *[other] 偏好設定
     }
+sync-change-options =
+    .label = 修改…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 

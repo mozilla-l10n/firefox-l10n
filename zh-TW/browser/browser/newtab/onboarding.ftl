@@ -21,6 +21,11 @@ onboarding-button-label-get-started = 開始使用
 onboarding-welcome-header = 歡迎使用 { -brand-short-name }
 onboarding-welcome-body = 瀏覽器安裝完成。<br/>了解 { -brand-product-name } 的其他功能。
 onboarding-welcome-learn-more = 了解更多好處。
+onboarding-welcome-modal-get-body = 瀏覽器安裝完成。<br/>了解 { -brand-product-name } 的其他功能。
+onboarding-welcome-modal-supercharge-body = 加強對您的隱私保護。
+onboarding-welcome-modal-privacy-body = 瀏覽器安裝完成。現在讓我們加入更多隱私保護。
+onboarding-welcome-modal-family-learn-more = 了解 { -brand-product-name } 的系列產品。
+onboarding-welcome-form-header = 從這裡開始
 onboarding-join-form-header = 加入 { -brand-product-name }
 onboarding-join-form-body = 在此輸入您的電子郵件信箱，即可開始使用。
 onboarding-join-form-email =
@@ -64,6 +69,12 @@ onboarding-benefit-privacy-title = 保護隱私權
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = 我們作的任何事情，都符合我們對個人資料隱私的承諾: 能少拿就少拿、確保資料安全、絕不偷偷來。
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = 在任何使用 { -brand-product-name } 的地方同步書籤、密碼、上網紀錄與更多資料。
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = 在您的個人資料出現在資料外洩事件時獲得通知。
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = 以安全又可隨身攜帶的方式，管理您的網站密碼。
 
 ## These strings belong to the individual onboarding messages.
 
