@@ -62,3 +62,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = rewaxik ri cholsamajib'äl
     .accesskey = r
+full-screen-exit =
+    .label = Tel pa chijun ruwa kematz'ib'
+    .accesskey = c
