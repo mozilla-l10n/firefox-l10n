@@ -134,7 +134,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "סגירה">
 <!ENTITY fullScreenAutohide.label "הסתרת סרגלים">
 <!ENTITY fullScreenAutohide.accesskey "ה">
-<!ENTITY fullScreenExit.label "צא ממצב מסך מלא">
+<!ENTITY fullScreenExit.label "יציאה ממצב מסך מלא">
 <!ENTITY fullScreenExit.accesskey "צ">
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
