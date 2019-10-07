@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = أدِر الامتدادات…
 page-action-remove-from-urlbar =
     .label = أزل من شريط العناوين
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = اخفِ شريط الأدوات
+    .accesskey = خ
+full-screen-exit =
+    .label = اخرج من وضع ملء الشاشة
+    .accesskey = و
