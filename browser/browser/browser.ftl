@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Gestionează extensia…
 page-action-remove-from-urlbar =
     .label = Elimină din bara de adresă
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Ascunde barele de instrumente
+    .accesskey = H
