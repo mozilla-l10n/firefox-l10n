@@ -54,6 +54,14 @@ manage-devices = Управление на устройства
 monitor-title = Внимавайте за кражба на данни
 monitor-link = Как работи
 auto-scan = Автоматичната проверка е извършена днес
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Наблюдаван адрес на електронна поща
+       *[other] Наблюдавани адреси на електронна поща
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -69,10 +77,24 @@ bar-tooltip-cookie =
             [one] { $count } бисквитка за следене в различни сайтове ({ $percentage }%)
            *[other] { $count } бисквитки за следене в различни сайтове ({ $percentage }%)
         }
+bar-tooltip-tracker =
+    .title = Проследяващо съдържание
+    .aria-label =
+        { $count ->
+            [one] { $count } проследяващо съдържание ({ $percentage }%)
+           *[other] { $count } проследяващо съдържание ({ $percentage }%)
+        }
 bar-tooltip-fingerprinter =
     .title = Снемане на цифров отпечатък
     .aria-label =
         { $count ->
             [one] { $count } снемане ({ $percentage }%)
            *[other] { $count } снемания ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Добиване на криптовалути
+    .aria-label =
+        { $count ->
+            [one] { $count } добиване на криптовалути ({ $percentage }%)
+           *[other] { $count } добиване на криптовалути ({ $percentage }%)
         }

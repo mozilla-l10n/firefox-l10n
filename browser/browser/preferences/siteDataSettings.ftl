@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Хранилище
 site-data-column-last-used =
     .label = Последно използване
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (местен файл)
 site-data-remove-selected =
     .label = Премахване на избраните
     .accesskey = и
@@ -33,6 +35,8 @@ site-data-button-save =
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 site-storage-usage =
     .value = { $value } { $unit }
+site-storage-persistent =
+    .value = { site-storage-usage.value } (постоянни данни)
 site-data-remove-all =
     .label = Премахване на всички
     .accesskey = в

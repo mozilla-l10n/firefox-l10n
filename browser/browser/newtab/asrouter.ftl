@@ -72,6 +72,8 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = Преглеждайте без да бъдете следени
+cfr-protections-panel-link-text = Научете повече
 
 ## What's New toolbar button and panel
 
@@ -91,3 +93,8 @@ cfr-whatsnew-panel-header = Какво е новото
 
 ## Firefox Send
 
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-close-button = Затваряне
+    .accesskey = з

@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Цял екран
     .accesskey = Ц
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Показване на всички раздели
@@ -212,12 +212,21 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Вписване в { -sync-brand-short-name }…
     .accesskey = В
+menu-tools-fxa-sign-in =
+    .label = Вписване в { -brand-product-name }…
+    .accesskey = с
+menu-tools-turn-on-sync =
+    .label = Включване на { -sync-brand-short-name }…
+    .accesskey = л
 menu-tools-sync-now =
     .label = Синхронизиране
     .accesskey = С
 menu-tools-sync-re-auth =
     .label = Повторно свързване със { -sync-brand-short-name }…
     .accesskey = С
+menu-tools-fxa-re-auth =
+    .label = Повторно свързване с { -brand-product-name }…
+    .accesskey = с
 menu-tools-web-developer =
     .label = Разработчик
     .accesskey = т
