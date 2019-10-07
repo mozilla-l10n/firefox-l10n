@@ -56,3 +56,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = ကိရိယာအတန်းများကို ဖျောက်ပါ
     .accesskey = H
+full-screen-exit =
+    .label = မျက်နှာပြင်အပြည့်ကြည့်ခြင်းမှ ထွက်ရန်
+    .accesskey = F
