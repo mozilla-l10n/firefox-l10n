@@ -60,7 +60,7 @@ page-action-remove-from-urlbar =
 ## Auto-hide Context Menu
 
 full-screen-autohide =
-    .label = Arkbalken ferstopje{ " " }
+    .label = Arkbalken ferstopje
     .accesskey = A
 full-screen-exit =
     .label = Folsleinskermmodus ôfslute
