@@ -62,3 +62,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = Cuddio Barrau Offer
     .accesskey = u
+full-screen-exit =
+    .label = Gadael Modd Sgrin Lawn
+    .accesskey = L
