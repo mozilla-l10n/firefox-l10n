@@ -37,3 +37,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Sábháil sonraí sa Stóras Seasmhach
 urlbar-addons-notification-anchor =
     .tooltiptext = Oscail an painéal um theachtaireachtaí suiteála breiseáin
+
+## Page Action Context Menu
+
+
+## Auto-hide Context Menu
+
+full-screen-exit =
+    .label = Fág Mód Lánscáileáin
+    .accesskey = L
