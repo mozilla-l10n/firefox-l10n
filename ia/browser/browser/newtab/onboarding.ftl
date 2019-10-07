@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Comencia
 onboarding-welcome-header = Benvenite a { -brand-short-name }
 onboarding-welcome-body = Tu ha recipite le navigator.<br/>Obtene le resto de { -brand-product-name }.
 onboarding-welcome-learn-more = Saper plus re le beneficios.
+onboarding-welcome-modal-get-body = Tu ha recipite le navigator.<br/>Ora obtene le plus de { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Protection del confidentialitate al maxime nivello.
+onboarding-welcome-modal-privacy-body = Tu ha jam le navigator. Adde plus protection de confidentialitate.
+onboarding-welcome-modal-family-learn-more = Apprende re le familia de productos de { -brand-product-name }.
+onboarding-welcome-form-header = Comencia ci
 onboarding-join-form-header = Junge te a { -brand-product-name }
 onboarding-join-form-body = Insere tu adresse de e-mail pro comenciar.
 onboarding-join-form-email =
@@ -64,6 +69,12 @@ onboarding-benefit-privacy-title = Confidentialitate ver
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Tote lo que nos face honora nostre promissa sur tu datos personal: nos promitte de prender minus de tu datos, mantener los secur, e non guardar secretos pro te.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Porta tu marcapaginas, contrasignos, chronologia e altero ancora ubique tu usa { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Recipe un notification si tu informationes personal es exponite in un violation de datos note.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Gere tu contrasignos protegite e portabile.
 
 ## These strings belong to the individual onboarding messages.
 
