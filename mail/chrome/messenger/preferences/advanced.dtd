@@ -122,3 +122,8 @@
 <!ENTITY manageCertificates.accesskey "f">
 <!ENTITY viewSecurityDevices.label "Turvaseadmed">
 <!ENTITY viewSecurityDevices.accesskey "u">
+
+<!ENTITY manageCertificates2.label "Halda sertifikaate…">
+<!ENTITY manageCertificates2.accesskey "H">
+<!ENTITY viewSecurityDevices2.label "Turvaseadmed…">
+<!ENTITY viewSecurityDevices2.accesskey "T">
