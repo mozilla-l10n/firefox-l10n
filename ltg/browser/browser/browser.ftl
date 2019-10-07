@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Porvaldēt paplašinōjumu…
 page-action-remove-from-urlbar =
     .label = Nūjimt nu adreses lauka
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Paslēpt reikjūslys
+    .accesskey = P
+full-screen-exit =
+    .label = Izīt nu pylnekrana režyma
+    .accesskey = p
