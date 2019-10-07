@@ -50,3 +50,12 @@ page-action-manage-extension =
     .label = គ្រប់គ្រងផ្នែកបន្ថែម…
 page-action-remove-from-urlbar =
     .label = លុបចេញពីរបារអាសយដ្ឋាន
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = លាក់​របារ​ឧបករណ៍
+    .accesskey = H
+full-screen-exit =
+    .label = ចេញពី​ទម្រង់​អេក្រង់​ពេញ
+    .accesskey = F
