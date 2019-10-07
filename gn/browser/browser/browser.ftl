@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Moĩmbaháre Ñangareko…
 page-action-remove-from-urlbar =
     .label = Emboguete kundaharape rendágui
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Tembipuru renda moñemi
+    .accesskey = H
+full-screen-exit =
+    .label = Mba'erechaha tuichavéva rekógui ñesẽ
+    .accesskey = F
