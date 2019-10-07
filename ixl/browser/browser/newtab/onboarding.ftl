@@ -21,6 +21,8 @@ onboarding-button-label-get-started = Xe'ten
 onboarding-welcome-header = B'a'n oole' tu { -brand-short-name }
 onboarding-welcome-body = At ve't u xaansab' tetze' saxe'. <br/> ootzi ve't ka'te ti' u { -brand-product-name }.
 onboarding-welcome-learn-more = La ootzi kam chit ka't kam la taq' see.
+onboarding-welcome-modal-get-body = Atve't  u ch'iche'  ta qab', oksa ve't ni txaak.
+onboarding-welcome-form-header = Xe'ten tzitza
 onboarding-join-form-header = Oken xo'l u { -brand-product-name }
 onboarding-join-form-body = Aq'al uva' la xe't axh, aq'ku' va correo electrónico.
 onboarding-join-form-email =
@@ -79,3 +81,4 @@ onboarding-addons-title = Tz'ajsab' tetz
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-get-started-button = Xe'ten  tuk'.

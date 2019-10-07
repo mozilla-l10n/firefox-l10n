@@ -87,8 +87,10 @@ newtab-menu-show-privacy-info = Unq'a xa'ole'  ve ni aq'on kulochb'al as tuk  va
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+newtab-privacy-modal-button-done = Tzojpisamal
 newtab-privacy-modal-header = Meresteel va tiichajile' sqe.
 newtab-privacy-modal-paragraph = Achav' chit unq'a tzaq'ite' ve txa'el chit ti b'anil  vee ni taltzi'el .  As jank'al unq'a vee na pichu ye'xhibi'l otzin  tetz.
+newtab-privacy-modal-link = Chusa' kam la olb'i  a xo'nit  unq'a kame tetz unq'a xo'le'.
 
 
 
