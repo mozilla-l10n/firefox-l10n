@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Kiegészítő kezelése…
 page-action-remove-from-urlbar =
     .label = Eltávolítás a címsávból
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Eszköztárak elrejtése
+    .accesskey = E
+full-screen-exit =
+    .label = Kilépés a teljes képernyős módból
+    .accesskey = K
