@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Hantera tillägg…
 page-action-remove-from-urlbar =
     .label = Ta bort från adressfältet
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Dölj verktygsfält
+    .accesskey = D
+full-screen-exit =
+    .label = Avsluta helskärmsläget
+    .accesskey = A
