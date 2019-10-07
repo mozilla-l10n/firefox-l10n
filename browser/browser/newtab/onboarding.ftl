@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Kom igång
 onboarding-welcome-header = Välkommen till { -brand-short-name }
 onboarding-welcome-body = Du har webbläsaren.<br/>Möt resten av { -brand-product-name }.
 onboarding-welcome-learn-more = Läs mer om fördelarna.
+onboarding-welcome-modal-get-body = Du har webbläsaren. <br/>Få ut det mesta av { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Superladda ditt integritetsskydd.
+onboarding-welcome-modal-privacy-body = Du har webbläsaren. Låt oss lägga till mer integritetsskydd.
+onboarding-welcome-modal-family-learn-more = Läs mer om { -brand-product-name } familj av produkter.
+onboarding-welcome-form-header = Börja här
 onboarding-join-form-header = Gå med i { -brand-product-name }
 onboarding-join-form-body = Ange din e-postadress för att komma igång.
 onboarding-join-form-email =
@@ -64,6 +69,12 @@ onboarding-benefit-privacy-title = Sann integritet
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Allt vi gör följer vårt "Löfte om personlig data": Samla in mindre. Förvara det säkert. Inget smussel.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Ta med dina bokmärken, lösenord, historik och mer överallt där du använder { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Bli meddelad när din personliga information finns med i ett känt dataintrång.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Hantera lösenord som är skyddade och flyttbara.
 
 ## These strings belong to the individual onboarding messages.
 

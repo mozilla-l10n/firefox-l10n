@@ -83,6 +83,21 @@ newtab-menu-delete-history = Ta bort från historik
 newtab-menu-save-to-pocket = Spara till { -pocket-brand-name }
 newtab-menu-delete-pocket = Ta bort från { -pocket-brand-name }
 newtab-menu-archive-pocket = Arkivera i { -pocket-brand-name }
+newtab-menu-show-privacy-info = Våra sponsorer & din integritet
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Klar
+newtab-privacy-modal-header = Din integritet är viktig.
+newtab-privacy-modal-paragraph =
+    Förutom att skaffa fängslande historier, visar vi dig också relevanta,
+    högt kontrollerat innehåll från utvalda sponsorer. Var säker, din surfdata
+    lämnar aldrig din personliga kopia av { -brand-product-name } — vi ser inte den och våra
+    sponsorer inte heller.
+newtab-privacy-modal-link = Lär dig hur sekretess fungerar på den nya fliken
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Ta bort bokmärke
 # Bookmark is a verb here.
