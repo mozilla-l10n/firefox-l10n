@@ -62,3 +62,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = Amaga les barres d'eines
     .accesskey = g
+full-screen-exit =
+    .label = Surt del mode de pantalla completa
+    .accesskey = p
