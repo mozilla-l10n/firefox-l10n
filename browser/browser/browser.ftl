@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Extensie beheren…
 page-action-remove-from-urlbar =
     .label = Verwijderen van adresbalk
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Werkbalken verbergen
+    .accesskey = W
