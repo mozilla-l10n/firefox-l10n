@@ -44,3 +44,6 @@ urlbar-addons-notification-anchor =
 full-screen-autohide =
     .label = Verskuil nutsbalke
     .accesskey = V
+full-screen-exit =
+    .label = Sluit volskermmodus af
+    .accesskey = v
