@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Gestiona l'extensió…
 page-action-remove-from-urlbar =
     .label = Elimina de la barra d'adreces
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Amaga les barres d'eines
+    .accesskey = g
+full-screen-exit =
+    .label = Ix del mode de pantalla completa
+    .accesskey = p
