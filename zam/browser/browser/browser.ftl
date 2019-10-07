@@ -9,3 +9,15 @@ urlbar-identity-button =
 
 urlbar-translate-notification-anchor =
     .tooltiptext = Zè díʔz
+
+## Page Action Context Menu
+
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Kás~lô gib
+    .accesskey = K
+full-screen-exit =
+    .label = mb-ròɁ lô
+    .accesskey = l
