@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Kasutus
 site-data-column-last-used =
     .label = Viimati kasutatud
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (kohalik fail)
 site-data-remove-selected =
     .label = Kustuta valitud
     .accesskey = K
