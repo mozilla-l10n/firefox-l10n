@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Tvarkyti priedą…
 page-action-remove-from-urlbar =
     .label = Pašalinti iš adreso lauko
+
+## Auto-hide Context Menu
+
+full-screen-exit =
+    .label = Grįžti iš viso ekrano veiksenos
+    .accesskey = v
