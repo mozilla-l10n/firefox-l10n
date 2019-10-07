@@ -21,6 +21,9 @@ onboarding-button-label-get-started = Začni
 onboarding-welcome-header = Dobrodošli v { -brand-short-name }
 onboarding-welcome-body = Brskalnik že imate.<br/>Spoznajte še ostale storitve { -brand-product-name }.
 onboarding-welcome-learn-more = Spoznajte prednosti.
+onboarding-welcome-modal-get-body = Brskalnik že imate.<br/>Zdaj pa kar najbolje izkoristite { -brand-product-name }.
+onboarding-welcome-modal-family-learn-more = Spoznajte družino izdelkov { -brand-product-name }.
+onboarding-welcome-form-header = Začnite tukaj
 onboarding-join-form-header = Pridružite se { -brand-product-name }u
 onboarding-join-form-body = Za začetek vnesite e-poštni naslov.
 onboarding-join-form-email =
@@ -64,6 +67,10 @@ onboarding-benefit-privacy-title = Resnična zasebnost
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Vse, kar počnemo, je v skladu z našo obljubo o osebnih podatkih: Vzemi manj. Ohrani varnost. Brez skrivnosti.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Vzemite zaznamke, gesla in druge podatke povsod, kjer uporabljate { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
