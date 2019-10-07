@@ -48,3 +48,12 @@ page-action-manage-extension =
     .label = Lo Lamed…
 page-action-remove-from-urlbar =
     .label = Kwany ki i lanyut me kanonge
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Kan gintic
+    .accesskey = K
+full-screen-exit =
+    .label = Kat woko ki i kit wang komputa ma opong
+    .accesskey = w
