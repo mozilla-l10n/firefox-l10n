@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Manused">
 <!ENTITY panePrivacy.title        "Privaatsus">
 <!ENTITY paneSecurity.title       "Turvalisus">
+<!ENTITY panePrivacySecurity.title "Privaatsus ja turvalisus">
 <!ENTITY paneLightning.title      "Kalender">
 <!ENTITY paneAdvanced.title       "Muud">
 <!ENTITY paneAccount.title        "Kontod">

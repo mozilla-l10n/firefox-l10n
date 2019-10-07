@@ -2,6 +2,34 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+pane-general-title = Üldine
+category-general =
+    .tooltiptext = { pane-general-title }
+general-language-and-appearance-header = Keel ja välimus
+general-incoming-mail-header = Saabuvad kirjad:
+general-files-and-attachment-header = Failid ja manused
+general-tags-header = Sildid
+general-reading-and-display-header = Lugemine ja kuvamine
+general-updates-header = Uuendused
+general-network-and-diskspace-header = Võrk ja kettaruum
+general-indexing-label = Indekseerimine
+composition-category-header = Koostamine
+composition-attachments-header = Manused
+composition-spelling-title = Õigekiri
+compose-html-style-title = HTML-stiil
+composition-addressing-header = Adresseerimine
+privacy-main-header = Privaatsus
+privacy-passwords-header = Paroolid
+privacy-junk-header = Rämpspost
+privacy-data-collection-header = Andmete kogumine ja kasutamine
+privacy-security-header = Turvalisus
+privacy-scam-detection-title = Kelmuse tuvastamine
+privacy-anti-virus-title = Viirusetõrje
+privacy-certificates-title = Serdid
+chat-pane-header = Kiirsuhtlus
+chat-status-title = Olek
+chat-notifications-title = Teavitused
+chat-pane-styling-header = Kujundus
 choose-messenger-language-description = Vali keeled, mida kasutatakse menüüde, sõnumite ja { -brand-short-name }ilt tulevate teavituste kuvamiseks.
 manage-messenger-languages-button =
     .label = Määra alternatiivsed keeled…

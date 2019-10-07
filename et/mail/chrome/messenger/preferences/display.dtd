@@ -49,6 +49,7 @@
 <!-- Advanced -->
 <!ENTITY reading.caption                  "Lugemine">
 <!ENTITY display.caption                  "Kuvamine">
+<!ENTITY displayName.label                "Kuvatav nimi:">
 <!ENTITY showCondensedAddresses.label     "Aadressiraamatus olevate kontaktide puhul näidatakse ainult kuvatavat nime">
 <!ENTITY showCondensedAddresses.accesskey "k">
 
