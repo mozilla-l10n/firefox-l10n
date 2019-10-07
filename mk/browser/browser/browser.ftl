@@ -32,3 +32,12 @@ page-action-add-to-urlbar =
     .label = Додај во Адресна летна
 page-action-remove-from-urlbar =
     .label = Отстрани од Адресна лента
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Скриј ги алатниците
+    .accesskey = С
+full-screen-exit =
+    .label = Излез од режим на цел екран
+    .accesskey = ц
