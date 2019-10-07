@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Administrar il supplement…
 page-action-remove-from-urlbar =
     .label = Allontanar da la trav d'adressas
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Zuppentar las travs d'utensils
+    .accesskey = a
+full-screen-exit =
+    .label = Interrumper il modus da maletg entir
+    .accesskey = I
