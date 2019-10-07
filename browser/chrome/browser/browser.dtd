@@ -157,18 +157,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "সাইন ইন করা আছে">
 <!ENTITY fxa.menu.manageAccount.label "অ্যাকাউন্ট ব্যবস্থাপনা…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; সেটিংস…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; সেটিংস…">
+<!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; সেটিং">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "অন্য ডিভাইস সংযুক্ত করুন…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "&brandProductName; এ সাইন ইন করুন">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; চালু করুন">
-<!ENTITY fxa.menu.account.label "অ্যাকাউন্ট">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; সার্ভিস">
+
+<!ENTITY fxa.menu.account.label "অ্যাকাউন্ট">
+<!ENTITY fxa.menu.settings.label "সেটিং">
+<!ENTITY fxa.menu.accountSettings.label "অ্যাকাউন্ট সেটিং">
+<!ENTITY fxa.menu.signOut.label "সাইন আউট…">
+<!ENTITY fxa.menu.deviceSettings.label "ডিভাইস সেটিং">
+<!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label; সেটআপ…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -414,6 +421,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "সাম্প্রতিক ইতিহাস অপসারণ…">
 <!ENTITY appMenuHistory.restoreSession.label "পূর্ববর্তী সেশন পুনরুদ্ধার">
 <!ENTITY appMenuHistory.viewSidebar.label "ইতিহাস সাইডবার প্রদর্শন">
+<!ENTITY appMenuHistory.hideSidebar.label "ইতিহাস সাইডবার লুকাও">
 <!ENTITY appMenuHistory.recentHistory.label "সাম্প্রতিক ইতিহাস">
 <!ENTITY appMenuHelp.label "সাহায্য">
 
