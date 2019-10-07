@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Rheoli Estyniad…
 page-action-remove-from-urlbar =
     .label = Tynnu o'r Bar Cyfeiriadau
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Cuddio Barrau Offer
+    .accesskey = u
