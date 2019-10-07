@@ -54,3 +54,9 @@ page-action-manage-extension =
     .label = Kengaytmani boshqarish
 page-action-remove-from-urlbar =
     .label = Manzil panelidan olib tashlash
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Asboblar panelini yashirish
+    .accesskey = y
