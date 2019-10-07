@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Utwreiding beheare…
 page-action-remove-from-urlbar =
     .label = Fuortsmite fan adresbalke
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Arkbalken ferstopje{ " " }
+    .accesskey = A
