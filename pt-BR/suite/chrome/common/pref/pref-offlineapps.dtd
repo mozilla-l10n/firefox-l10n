@@ -10,15 +10,15 @@
 <!ENTITY clearOfflineAppCache.label         "Limpar">
 <!ENTITY clearOfflineAppCache.accesskey     "L">
 
-<!ENTITY offlineAlwaysAllow.label           "Permitir que todos os sites armazenem dados para uso offline">
+<!ENTITY offlineAlwaysAllow.label           "Permitir que todos os sites armazenem dados para uso em modo desconectado">
 <!ENTITY offlineAlwaysAllow.accesskey       "P">
 <!ENTITY offlineExplicit.label              "Permitir apenas sites com permissões explícitas">
 <!ENTITY offlineExplicit.accesskey          "P">
-<!ENTITY offlineNotifyAsk.label             "Me notificar quando sites quiserem armazenar dados para uso offline">
+<!ENTITY offlineNotifyAsk.label             "Notificar quando sites desejam armazenar dados para utilização em modo desconectado">
 <!ENTITY offlineNotifyAsk.accesskey         "N">
 <!ENTITY offlineNotifyPermissions.label     "Gerenciar permissões">
 <!ENTITY offlineNotifyPermissions.accesskey "P">
 
-<!ENTITY offlineAppsUsage.label             "Estes sites estão usando armazenamento de dados para uso offline:">
+<!ENTITY offlineAppsUsage.label             "Estes sites estão usando armazenamento de dados para uso em modo desconectado:">
 <!ENTITY offlineAppsListRemove.label        "Limpar dados…">
 <!ENTITY offlineAppsListRemove.accesskey    "d">

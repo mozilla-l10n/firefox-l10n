@@ -17,7 +17,7 @@
 <!ENTITY itemCache.accesskey             "a">
 <!ENTITY itemCookies.label               "Cookies">
 <!ENTITY itemCookies.accesskey           "C">
-<!ENTITY itemOfflineApps.label           "Dados offline de sites">
+<!ENTITY itemOfflineApps.label           "Dados de sites em modo desconectado">
 <!ENTITY itemOfflineApps.accesskey       "o">
 <!ENTITY itemPasswords.label             "Senhas memorizadas">
 <!ENTITY itemPasswords.accesskey         "m">

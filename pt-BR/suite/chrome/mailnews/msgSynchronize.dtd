@@ -5,8 +5,8 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
 
 <!ENTITY MsgSynchronize.label "Download e sincronização de mensagens">
-<!ENTITY MsgSelect.label "Itens para leitura sem acesso à internet">
-<!ENTITY MsgSyncDesc.label "Se você já selecionou pastas de e-mail ou grupos de notícias para uso em modo offline, agora pode recebê-los e/ou sincronizá-los. Caso contrário, use o botão &quot;Selecionar&quot; para escolher pastas de e-mail e grupos de notícias para uso em modo offline.">
+<!ENTITY MsgSelect.label "Itens para leitura em modo desconectado">
+<!ENTITY MsgSyncDesc.label "Se você já selecionou pastas de email ou grupos de notícias para leitura em modo desconectado, agora você recebê-los e/ou sincronizá-los. Para escolher os itens agora utilize o botão &quot;Selecionar&quot;.">
 <!ENTITY MsgSyncDirections.label "Receber e/ou sincronizar os seguinte itens:">
 <!ENTITY syncTypeMail.label "Mensagens de email">
 <!ENTITY syncTypeMail.accesskey "e">
@@ -18,6 +18,6 @@
 <!ENTITY workOffline.accesskey "D">
 <!ENTITY selectButton.label "Selecionar...">
 <!ENTITY selectButton.accesskey "S">
-<!ENTITY MsgSelectDesc.label "Selecione pastas de e-mail e grupos de notícias para uso em modo offline.">
+<!ENTITY MsgSelectDesc.label "Selecione pastas de email e grupos de notícias para leitura em modo desconectado:">
 <!ENTITY MsgSelectInd.label "Receber">
 <!ENTITY MsgSelectItems.label "Pastas e grupos de notícias">

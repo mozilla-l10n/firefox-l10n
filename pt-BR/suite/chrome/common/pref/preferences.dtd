@@ -46,7 +46,7 @@
 <!ENTITY keynav.label "Teclado">
 <!ENTITY findAsYouType.label "Localizar texto ao digitar">
 <!ENTITY cache.label "Cache">
-<!ENTITY offlineApps.label "Aplicativos em modo offline">
+<!ENTITY offlineApps.label "Aplicativos em modo desconectado">
 <!ENTITY proxies.label "Proxies">
 <!ENTITY httpnetworking.label "HTTP">
 <!ENTITY smart.label "Instalação de programas">

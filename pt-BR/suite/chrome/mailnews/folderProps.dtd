@@ -37,12 +37,12 @@
 <!ENTITY folderCheckForNewMessages2.label        "Ao receber novas mensagens desta conta, sempre verificar esta pasta">
 <!ENTITY folderCheckForNewMessages2.accesskey    "c">
 
-<!ENTITY offlineFolder.check.label               "Selecione esta pasta para uso offline">
+<!ENTITY offlineFolder.check.label               "Selecionar a pasta para leitura em modo desconectado">
 <!ENTITY offlineFolder.check.accesskey           "S">
 <!ENTITY offlineFolder.button.label              "Baixar agora">
 <!ENTITY offlineFolder.button.accesskey          "B">
 
-<!ENTITY selectofflineNewsgroup.check.label      "Selecionar este grupo de notícias para leitura sem acesso à internet">
+<!ENTITY selectofflineNewsgroup.check.label      "Selecionar este grupo de notícias para leitura em modo desconectado">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
 <!ENTITY offlineNewsgroup.button.label           "Baixar agora">
 <!ENTITY offlineNewsgroup.button.accesskey       "B">
