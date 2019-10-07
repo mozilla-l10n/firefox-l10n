@@ -611,6 +611,7 @@ sync-signedin-settings-desc = Valitse tiedot, jotka synkronoidaan niiden laittei
 
 prefs-syncing-on = Synkronointi: PÄÄLLÄ
 prefs-syncing-off = Synkronointi: POIS PÄÄLTÄ
+prefs-sync-offer-setup-label = Synkronoi kirjanmerkit, historia, välilehdet, salasanat, lisäosat ja asetukset kaikkien laitteidesi välillä.
 prefs-sync-now =
     .labelnotsyncing = Synkronoi nyt
     .accesskeynotsyncing = N
@@ -618,6 +619,7 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Näitä synkronoidaan parhaillaan:
 sync-currently-syncing-bookmarks = Kirjanmerkit
 sync-currently-syncing-history = Historia
 sync-currently-syncing-tabs = Avoimet välilehdet
@@ -630,9 +632,19 @@ sync-currently-syncing-prefs =
         [windows] Asetukset
        *[other] Asetukset
     }
+sync-change-options =
+    .label = Muuta…
+    .accesskey = M
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Valitse, mitä synkronoidaan
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Tallenna muutokset
+    .buttonaccesskeyaccept = T
+    .buttonlabelextra2 = Katkaise yhteys…
+    .buttonaccesskeyextra2 = K
 sync-engine-bookmarks =
     .label = Kirjanmerkit
     .accesskey = K
@@ -647,6 +659,10 @@ sync-engine-logins =
     .label = Kirjautumistiedot
     .tooltiptext = Tallentamasi käyttäjätunnukset ja salasanat
     .accesskey = r
+sync-engine-logins-passwords =
+    .label = Käyttäjätunnukset ja salasanat
+    .tooltiptext = Tallentamasi käyttäjätunnukset ja salasanat
+    .accesskey = u
 sync-engine-addresses =
     .label = Osoitteet
     .tooltiptext = Tallentamasi postiosoitteet (vain Firefoxin työpöytäversiossa)
