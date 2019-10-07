@@ -12,3 +12,9 @@ urlbar-plugins-notification-anchor =
 
 page-action-remove-from-urlbar =
     .label = Garar de la barra d’adrèce
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Recondre la barra d’otils
+    .accesskey = H
