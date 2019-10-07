@@ -62,3 +62,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = Схаваць паліцы прылад
     .accesskey = х
+full-screen-exit =
+    .label = Выйсці з поўнаэкраннага рэжыму
+    .accesskey = В
