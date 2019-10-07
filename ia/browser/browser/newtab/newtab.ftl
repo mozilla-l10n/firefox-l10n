@@ -89,6 +89,10 @@ newtab-menu-show-privacy-info = Nostre subventionatores e tu confidentialitate
 
 newtab-privacy-modal-button-done = Facite
 newtab-privacy-modal-header = Tu confidentialitate es importante.
+newtab-privacy-modal-paragraph =
+    In addition a te fornir historias captivante, nos te monstra anque pertinente,
+    ben curate contentos ex sponsors seligite. Resta secur, le datos de tu navigator
+     jammais exi ab { -brand-product-name }: nos non vide los e ni minus nostre sponsors.
 newtab-privacy-modal-link = Apprende como functiona le confidentialitate in le nove scheda.
 
 
