@@ -62,3 +62,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = Symbolleisten ausblenden
     .accesskey = a
+full-screen-exit =
+    .label = Vollbild beenden
+    .accesskey = V
