@@ -51,4 +51,5 @@ accessibility-keyboard-issue-semantics = Osredotočeni elementi bi morali imeti 
 accessibility-keyboard-issue-tabindex = Izogibajte se uporabi atributa <code>tabindex</code>, ki je večji od nič. <a>Več o tem</a>
 accessibility-keyboard-issue-action = Interaktivne elemente mora biti mogoče aktivirati s tipkovnico. <a>Več o tem</a>
 accessibility-keyboard-issue-focusable = Interaktivni elementi morajo biti osredotočeni. <a>Več o tem</a>
+accessibility-keyboard-issue-focus-visible = Osredotočen element morda nima sloga za fokus. <a>Več o tem</a>
 accessibility-keyboard-issue-mouse-only = Elementi, na katere je mogoče klikniti, morajo biti osredotočeni in bi morali meti interaktivno semantiko. <a>Več o tem</a>
