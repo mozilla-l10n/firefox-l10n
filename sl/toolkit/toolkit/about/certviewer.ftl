@@ -37,6 +37,8 @@ certificate-viewer-purposes = Nameni
 certificate-viewer-qualifier = Kvalifikator
 certificate-viewer-qualifiers = Kvalifikatorji
 certificate-viewer-required = Zahtevano
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-state-province = Država/območje
 certificate-viewer-state-province = Država/območje
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
