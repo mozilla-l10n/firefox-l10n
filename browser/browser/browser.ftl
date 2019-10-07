@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = ניהול הרחבה…
 page-action-remove-from-urlbar =
     .label = הסרה משורת הכתובת
+
+## Auto-hide Context Menu
+
+full-screen-exit =
+    .label = צא ממצב מסך מלא
+    .accesskey = צ
