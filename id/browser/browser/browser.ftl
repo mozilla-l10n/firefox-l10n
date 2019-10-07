@@ -59,6 +59,9 @@ page-action-remove-from-urlbar =
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = Sembunyikan Bilah Alat
+    .accesskey = S
 full-screen-exit =
     .label = Keluar dari Mode Layar Penuh
     .accesskey = P
