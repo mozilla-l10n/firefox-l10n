@@ -5,6 +5,9 @@
 printpreview-close =
     .label = Jupa
     .accesskey = C
+printpreview-portrait =
+    .label = Vatzib'al
+    .accesskey = V
 printpreview-custom =
     .label = Eetz chitu'…
 printpreview-print =
