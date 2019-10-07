@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Управљај екстензијама…
 page-action-remove-from-urlbar =
     .label = Уклони са адресне траке
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Сакриј алатне траке
+    .accesskey = С
