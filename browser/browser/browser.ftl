@@ -57,6 +57,9 @@ page-action-remove-from-urlbar =
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = கருவிப்பட்டைகளை மறை
+    .accesskey = க
 full-screen-exit =
     .label = முழுத்திரை முறைமையை விட்டு வெளியேறு
     .accesskey = F
