@@ -7,6 +7,7 @@ about-performance-title = Aktivitetshandterar
 
 ## Column headers
 
+column-name = Namn
 column-type = Type
 column-energy-impact = Energipåverknad
 column-memory = Minne
