@@ -14,7 +14,7 @@
 <!ENTITY radioAlwaysOnlineState.label "На линия">
 <!ENTITY radioAlwaysOnlineState.accesskey "л">
 <!ENTITY radioAlwaysOffline.label "Без мрежа">
-<!ENTITY radioAlwaysOffline.accesskey "И">
+<!ENTITY radioAlwaysOffline.accesskey "м">
 
 <!ENTITY textGoingOnline "Изпращане на неизпратените писма след свързване?">
 <!ENTITY radioAutoSend.label "Да">
