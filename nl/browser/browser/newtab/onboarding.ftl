@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Beginnen
 onboarding-welcome-header = Welkom bij { -brand-short-name }
 onboarding-welcome-body = U hebt de browser.<br/>Maak kennis met de rest van { -brand-product-name }.
 onboarding-welcome-learn-more = Meer info over de voordelen.
+onboarding-welcome-modal-get-body = U hebt de browser.<br/>Haal nu het meeste uit { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Versterk de bescherming van uw privacy.
+onboarding-welcome-modal-privacy-body = U hebt de browser. Laten we meer privacybescherming toevoegen.
+onboarding-welcome-modal-family-learn-more = Lees meer over de productfamilie van { -brand-product-name }.
+onboarding-welcome-form-header = Hier beginnen
 onboarding-join-form-header = Doe mee met { -brand-product-name }
 onboarding-join-form-body = Voer uw e-mailadres in om te beginnen.
 onboarding-join-form-email =
@@ -64,6 +69,12 @@ onboarding-benefit-privacy-title = Echte privacy
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Alles wat we doen, staat in het teken van onze belofte voor persoonlijke gegevens: neem minder. Houd het veilig. Geen geheimen.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Neem uw bladwijzers, wachtwoorden, geschiedenis en meer mee, overal waar u { -brand-product-name } gebruikt.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Ontvang een melding wanneer uw persoonlijke gegevens voorkomen in een bekend datalek.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Beheer wachtwoorden die beschermd en draagbaar zijn.
 
 ## These strings belong to the individual onboarding messages.
 
