@@ -62,3 +62,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = Сакриј алатне траке
     .accesskey = С
+full-screen-exit =
+    .label = Обустави приказ преко целог екрана
+    .accesskey = ц
