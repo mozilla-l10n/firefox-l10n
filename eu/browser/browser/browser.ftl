@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Kudeatu hedapena…
 page-action-remove-from-urlbar =
     .label = Kendu helbide-barratik
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Ezkutatu tresna-barrak
+    .accesskey = E
