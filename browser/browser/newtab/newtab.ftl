@@ -83,6 +83,7 @@ newtab-menu-delete-history = Izbriši iz zgodovine
 newtab-menu-save-to-pocket = Shrani v { -pocket-brand-name }
 newtab-menu-delete-pocket = Izbriši iz { -pocket-brand-name }a
 newtab-menu-archive-pocket = Arhiviraj v { -pocket-brand-name }
+newtab-menu-show-privacy-info = Naši sponzorji in vaša zasebnost
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
