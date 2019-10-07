@@ -176,6 +176,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Nastavitve računa">
 <!ENTITY fxa.menu.signOut.label "Odjava …">
 <!ENTITY fxa.menu.deviceSettings.label "Nastavitve naprave">
+<!ENTITY fxa.menu.setupSync.label "Nastavi &syncBrand.shortName.label; …">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -446,6 +447,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Želite tukaj videti zavihke drugih naprav?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Odpri nastavitve sinhronizacije">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prijavite se za ogled seznama zavihkov drugih naprav.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Oglejte si seznam zavihkov drugih naprav.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Svoj račun morate potrditi.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prijavite se v Sync">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Prijava v &syncBrand.shortName.label; …">
