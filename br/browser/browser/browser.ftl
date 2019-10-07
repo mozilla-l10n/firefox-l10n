@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Merañ an askouezh...
 page-action-remove-from-urlbar =
     .label = Lemel kuit diouzh ar varrenn chomlec'h
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Kuzhat ar varrenn ostilhoù
+    .accesskey = h
+full-screen-exit =
+    .label = Kuitaat ar mod skramm a-bezh
+    .accesskey = K
