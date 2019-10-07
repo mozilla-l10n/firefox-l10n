@@ -18,3 +18,12 @@ page-action-add-to-urlbar =
     .label = एद्रेसबारोव दाजाबदेर
 page-action-remove-from-urlbar =
     .label = एद्रेसबारनिफ्राय खोमर
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = टुलबारफोरखौ दोनखोमा
+    .accesskey = H
+full-screen-exit =
+    .label = आबुं स्क्रिन म'ड निफ्राय ओंखार लां
+    .accesskey = F
