@@ -14,3 +14,6 @@
 full-screen-autohide =
     .label = Fihla dithulupaa
     .accesskey = h
+full-screen-exit =
+    .label = Etšwa mokgweng wa sekirini se tletšego
+    .accesskey = m
