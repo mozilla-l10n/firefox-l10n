@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Administroni Zgjerime…
 page-action-remove-from-urlbar =
     .label = Hiqe prej Shtylle Adresash
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Fshihi Panelet
+    .accesskey = F
+full-screen-exit =
+    .label = Dilni nga Sa Krejt Ekrani
+    .accesskey = D
