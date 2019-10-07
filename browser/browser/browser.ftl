@@ -35,3 +35,12 @@ urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Bestuur die deel van die kamera en/of mikrofoon met die werf
 urlbar-addons-notification-anchor =
     .tooltiptext = Open paneel met boodskappe oor byvoeginginstallasie
+
+## Page Action Context Menu
+
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Verskuil nutsbalke
+    .accesskey = V
