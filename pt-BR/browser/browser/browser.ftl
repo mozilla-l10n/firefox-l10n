@@ -62,3 +62,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = Ocultar barras de ferramentas
     .accesskey = O
+full-screen-exit =
+    .label = Sair do modo de tela inteira
+    .accesskey = S
