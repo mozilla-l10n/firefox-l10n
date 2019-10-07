@@ -23,3 +23,15 @@ urlbar-translated-notification-anchor =
     .tooltiptext = पृष्ठ अनुवाद प्रंबंधि‍त करू
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = साइट संगे अपन कैमरा आ माइक्रोफोन साझा करबाक व्यवस्था प्रबंधि‍त करू
+
+## Page Action Context Menu
+
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = अओजार पट्ट नुकाउ
+    .accesskey = H
+full-screen-exit =
+    .label = पूर्ण स्क्रीन मोड सँ बाहर निकलू
+    .accesskey = F
