@@ -30,6 +30,7 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> ne vpliva na ta elem
 inactive-css-not-flex-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ni vsebnik flex.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ne vpliva na ta element, ker ni vrstični element ali element celice tabele.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ne vpliva na ta element, ker prikazuje <strong>{ $display }</strong>.
+inactive-css-property-is-impossible-to-override-in-visited = <strong>{ $property }</strong> ni mogoče preglasiti zaradi omejitve <strong>:visited</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
