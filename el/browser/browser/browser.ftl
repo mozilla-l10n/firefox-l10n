@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Διαχείριση επέκτασης…
 page-action-remove-from-urlbar =
     .label = Αφαίρεση από τη γραμμή διευθύνσεων
+
+## Auto-hide Context Menu
+
+full-screen-exit =
+    .label = Έξοδος από πλήρη οθόνη
+    .accesskey = π
