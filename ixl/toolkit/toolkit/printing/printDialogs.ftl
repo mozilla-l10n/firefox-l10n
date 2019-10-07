@@ -5,6 +5,7 @@
 print-setup =
     .title = Ib'anax tuch u U'uje'
 custom-prompt-title = Eetz chitu'…
+custom-prompt-prompt = Tz'ib'a uma'l txumb'al ti vi as ti xe'to  u  u'uje'.
 scale-percent =
     .value = %
 options-group-label =
