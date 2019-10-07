@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Hallitse laajennusta…
 page-action-remove-from-urlbar =
     .label = Poista osoitepalkista
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Piilota työkalupalkit
+    .accesskey = P
+full-screen-exit =
+    .label = Poistu kokoruututilasta
+    .accesskey = o
