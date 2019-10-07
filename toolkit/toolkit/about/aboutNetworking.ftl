@@ -62,6 +62,7 @@ networkid-id = ID omrežja
 
 ## Link is intended as "network link"
 
+networkid-isUp = Povezava je vzpostavljena
 networkid-statusKnown = Stanje povezave je znano
 
 
