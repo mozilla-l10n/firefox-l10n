@@ -40,3 +40,12 @@ urlbar-addons-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = Amestar a la barra de direiciones
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Anubrir barres de ferramientes
+    .accesskey = A
+full-screen-exit =
+    .label = Colar del mou pantalla completa
+    .accesskey = C
