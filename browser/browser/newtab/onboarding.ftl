@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Пачаць
 onboarding-welcome-header = Вітаем у { -brand-short-name }
 onboarding-welcome-body = У вас ёсць браўзер. <br/>Пазнаёмцеся з астатнімі { -brand-product-name }.
 onboarding-welcome-learn-more = Даведацца больш аб перавагах.
+onboarding-welcome-modal-get-body = У вас ёсць браўзер. <br/>Цяпер атрымайце максімум ад { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Дапоўніце вашу абарону прыватнасці.
+onboarding-welcome-modal-privacy-body = У вас ёсць браўзер. Дадамо дадатковую ахову прыватнасці.
+onboarding-welcome-modal-family-learn-more = Даведайцеся пра сямейства прадуктаў { -brand-product-name }.
+onboarding-welcome-form-header = Пачніце тут
 onboarding-join-form-header = Далучыцца да { -brand-product-name }
 onboarding-join-form-body = Увядзіце ваш адрас эл.пошты для пачатку працы.
 onboarding-join-form-email =
@@ -64,6 +69,12 @@ onboarding-benefit-privacy-title = Сапраўдная прыватнасць
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Усё, што мы робім, у згодзе з нашым абяцаннем аб асабістых дадзеных: Збіраць менш. Захоўваць у бяспецы. Ніякіх сакрэтаў.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Вазьміце свае закладкі, паролі, гісторыю і іншае ўсюды, дзе вы карыстаецеся { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Атрымлівайце абвестку, калі вашы асабістыя звесткі знайшліся ў вядомай уцечцы дадзеных.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Кіруйце абароненымі і пераноснымі паролямі.
 
 ## These strings belong to the individual onboarding messages.
 
