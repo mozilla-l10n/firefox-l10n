@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Upravljanje dodatkom…
 page-action-remove-from-urlbar =
     .label = Ukloni iz adresne trake
+
+## Auto-hide Context Menu
+
+full-screen-exit =
+    .label = Izađi iz prikaza potpunog ekrana
+    .accesskey = p
