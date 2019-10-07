@@ -14,7 +14,7 @@ login-app-promo-apple =
     .alt = Scarica da App Store
 login-filter =
     .placeholder = Cerca nelle credenziali
-create-login-button = Inserisci nuova credenziale
+create-login-button = Inserisci nuove credenziali
 # This string is used as alternative text for favicon images.
 # Variables:
 #   $title (String) - The title of the website associated with the favicon.
@@ -44,21 +44,17 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } per iPhone e iPad
 
 login-list =
     .aria-label = Credenziali corrispondenti ai criteri di ricerca
-login-list-count =
-    { $count ->
-        [one] { $count } credenziale
-       *[other] { $count } credenziali
-    }
+login-list-count =  { $count } credenziali
 login-list-sort-label-text = Ordina per:
 login-list-name-option = Nome (A-Z)
 login-list-breached-option = Violazione dati
 login-list-last-changed-option = Ultima modifica
 login-list-last-used-option = Ultimo utilizzo
-login-list-intro-title = Nessuna credenziale trovata
+login-list-intro-title = Credenziali non trovate
 login-list-intro-description = Le password salvate in { -brand-product-name } verranno visualizzate qui.
-about-logins-login-list-empty-search-title = Nessuna credenziale trovata
+about-logins-login-list-empty-search-title = Credenziali non trovate
 about-logins-login-list-empty-search-description = Non ci sono risultati corrispondenti ai criteri di ricerca inseriti.
-login-list-item-title-new-login = Nuova credenziale
+login-list-item-title-new-login = Nuove credenziali
 login-list-item-subtitle-new-login = Inserisci le credenziali di accesso
 login-list-item-subtitle-missing-username = (nessun nome utente)
 about-logins-list-item-warning-icon =
@@ -77,7 +73,7 @@ about-logins-intro-instruction-help = Visita il <a data-l10n-name="help-link">su
 
 ## Login
 
-login-item-new-login-title = Inserisci nuova credenziale
+login-item-new-login-title = Inserisci nuove credenziali
 login-item-edit-button = Modifica
 login-item-delete-button = Elimina
 login-item-origin-label = Indirizzo web
@@ -126,7 +122,7 @@ enable-password-sync-preferences-button =
            *[other] Apri le preferenze di { -sync-brand-short-name }
         }
     .accesskey = A
-confirm-delete-dialog-title = Eliminare questa credenziale?
+confirm-delete-dialog-title = Eliminare queste credenziali?
 confirm-delete-dialog-message = Questa operazione non può essere annullata.
 confirm-delete-dialog-confirm-button = Elimina
 confirm-discard-changes-dialog-title = Ignorare le modifiche non salvate?
@@ -135,7 +131,7 @@ confirm-discard-changes-dialog-confirm-button = Ignora
 
 ## Breach Alert notification
 
-breach-alert-text = Dall’ultima volta in cui hai aggiornato questa credenziale, le password di questo sito web sono state rubate o diffuse pubblicamente. Modifica la tua password per proteggere questo account.
+breach-alert-text = Dall’ultima volta in cui hai aggiornato queste credenziali, le password di questo sito web sono state rubate o diffuse pubblicamente. Modifica la tua password per proteggere questo account.
 breach-alert-link = Ulteriori informazioni su questa violazione.
 breach-alert-dismiss =
     .title = Chiudi questo avviso
