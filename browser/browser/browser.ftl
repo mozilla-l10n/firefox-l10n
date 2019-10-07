@@ -52,3 +52,12 @@ page-action-manage-extension =
     .label = పొడగింత నిర్వహణ…
 page-action-remove-from-urlbar =
     .label = చిరునామా పట్టీ నుండి తొలగించండి
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = పనిముట్ల పట్టీలను దాచు
+    .accesskey = H
+full-screen-exit =
+    .label = నిండు తెర రీతిని వదలివెళ్ళు
+    .accesskey = F
