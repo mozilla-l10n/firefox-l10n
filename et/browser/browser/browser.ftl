@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Halda laiendust…
 page-action-remove-from-urlbar =
     .label = Eemalda aadressiribalt
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Peida tööriistaribad
+    .accesskey = P
+full-screen-exit =
+    .label = Välju täisekraanirežiimist
+    .accesskey = V
