@@ -62,3 +62,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = Скриване на лентите
     .accesskey = л
+full-screen-exit =
+    .label = Излизане от цял екран
+    .accesskey = ц
