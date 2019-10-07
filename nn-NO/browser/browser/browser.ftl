@@ -59,6 +59,9 @@ page-action-remove-from-urlbar =
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = Gøym verktøylinjer
+    .accesskey = G
 full-screen-exit =
     .label = Avslutt fullskjermmodus
     .accesskey = v
