@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Manage Extension…
 page-action-remove-from-urlbar =
     .label = Tanggalin sa Address Bar
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Itago ang mga Toolbar
+    .accesskey = H
+full-screen-exit =
+    .label = Lumabas sa Full Screen Mode
+    .accesskey = F
