@@ -21,3 +21,15 @@ urlbar-translated-notification-anchor =
     .tooltiptext = Thegna na kaskhewũjnxi's
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Thegna katxudenxi's kapnasahnxite y/o çxãçxa kapthusenxinxa'kh ayte
+
+## Page Action Context Menu
+
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Pazte kuhjwedtxih txtee mjĩtewesx'txih
+    .accesskey = m
+full-screen-exit =
+    .label = Thegnxi'saju & jxuka kajseen
+    .accesskey = F
