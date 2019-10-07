@@ -70,6 +70,9 @@ onboarding-benefit-privacy-text = Jank'al chit unq'a vee' ni kub'ane' ni nima un
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Kol   texhlal unq'a aq'one' ve ni chit a b'amb'e.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Asoj ni b'anb'el moj ni pich'ul unq'a aq'one', la alax b'en see.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = B'an isuuchil unq'a kolb'al aqone'.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -82,6 +85,9 @@ onboarding-private-browsing-title = Axh kuxh la xaan axh stuul
 onboarding-private-browsing-text = Axh kuxh la xaan axh. Uve' la xaan axh uva' axh kuxhtu' ti' imajax ivatz u aq'one' as la maj ivatz unq'a vee' uve' xekel see'.
 onboarding-screenshots-title = Eesa ivatz u aaq'one' tu vach'ich'e'
 onboarding-addons-title = Tz'ajsab' tetz
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = u Sync
+onboarding-tracking-protection-button2 = Kam ib'anb'ele'
 
 ## Message strings belonging to the Return to AMO flow
 
