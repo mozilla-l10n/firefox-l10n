@@ -83,6 +83,15 @@ newtab-menu-delete-history = Poista historiasta
 newtab-menu-save-to-pocket = Tallenna { -pocket-brand-name }-palveluun
 newtab-menu-delete-pocket = Poista { -pocket-brand-name }-palvelusta
 newtab-menu-archive-pocket = Arkistoi { -pocket-brand-name }-palveluun
+newtab-menu-show-privacy-info = Tukijamme ja yksityisyytesi
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Valmis
+newtab-privacy-modal-header = Yksityisyydelläsi on merkitystä.
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Poista kirjanmerkki
 # Bookmark is a verb here.
