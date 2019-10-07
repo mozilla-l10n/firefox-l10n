@@ -6,7 +6,7 @@
 ## Strings used for device manager
 
 devmgr =
-    .title = Дыспетчар прылад
+    .title = Менеджар прылад
     .style = width: 67em; height: 32em;
 devmgr-devlist =
     .label = Модулі і прылады бяспекі
