@@ -98,11 +98,7 @@ full-report-link = Visualizza il rapporto completo in <a data-l10n-name="monitor
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
 # your localization, because it would result in the number showing twice.
-password-warning =
-    { $count ->
-        [one] Credenziale salvata potrebbe essere stata esposta in una violazione di dati. Cambia la password per garantire la tua sicurezza online. <a data-l10n-name="lockwise-link">Visualizza le credenziali salvate</a>
-       *[other] Credenziali salvata potrebbero essere state esposte in una violazione di dati. Cambia queste password per garantire la tua sicurezza online. <a data-l10n-name="lockwise-link">Visualizza le credenziali salvate</a>
-    }
+password-warning = Credenziali salvate potrebbero essere state esposte in una violazione di dati. Cambia queste password per garantire la tua sicurezza online. <a data-l10n-name="lockwise-link">Visualizza le credenziali salvate</a>
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
