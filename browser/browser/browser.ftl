@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Кеңейтуді басқару…
 page-action-remove-from-urlbar =
     .label = Адрес жолағынан алып тастау
+
+## Auto-hide Context Menu
+
+full-screen-exit =
+    .label = Толық экран режимінен шығу
+    .accesskey = Т
