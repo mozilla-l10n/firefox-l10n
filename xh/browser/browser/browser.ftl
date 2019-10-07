@@ -46,3 +46,6 @@ urlbar-addons-notification-anchor =
 full-screen-autohide =
     .label = Fihla iiThulbha
     .accesskey = F
+full-screen-exit =
+    .label = Phuma kwimo yesikrini esizeleyo
+    .accesskey = e
