@@ -37,3 +37,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Gcina idatha kuGcino oluQhubekayo
 urlbar-addons-notification-anchor =
     .tooltiptext = Vula iphanele yokongezelela umyalezo wokufakela
+
+## Page Action Context Menu
+
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Fihla iiThulbha
+    .accesskey = F
