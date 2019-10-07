@@ -51,6 +51,7 @@ login-list-count =
     }
 login-list-sort-label-text = ক্রমানুসার:
 login-list-name-option = নাম (A-Z)
+login-list-breached-option = ভাঙা ওয়েবসাইট
 login-list-last-changed-option = সর্বশেষ পরিবর্তিত
 login-list-last-used-option = সর্বশেষ ব্যবহৃত
 login-list-intro-title = কোন লগ ইন পাওয়া যায়নি
@@ -59,6 +60,11 @@ about-logins-login-list-empty-search-title = কোনও লগইন পাও
 about-logins-login-list-empty-search-description = আপনার অনুসন্ধানের সাথে কোনও কিছু মিলছে না।
 login-list-item-title-new-login = নতুন লগইন
 login-list-item-subtitle-missing-username = (কোনও ব্যবহারকারীর নাম নেই)
+about-logins-list-item-warning-icon =
+    .alt = সতর্কতা আইকন
+    .title = ভাঙা ওয়েবসাইট
+about-logins-list-item-breach-icon =
+    .title = ভাঙা ওয়েবসাইট
 
 ## Introduction screen
 

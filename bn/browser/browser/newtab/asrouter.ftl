@@ -127,3 +127,8 @@ cfr-doorhanger-send-tab-ok-button = ট্যাব প্রেরণ চেষ
 cfr-doorhanger-firefox-send-header = নিরাপদে এই PDF টি শেয়ার করুন
 cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } পরখ করুন
     .accesskey = T
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-close-button = বন্ধ
+    .accesskey = C

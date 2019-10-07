@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = ডিজিটাল অধিকার ব্যবস্থাপনা (DRM) কন্টেন্ট
 play-drm-content =
@@ -496,6 +496,7 @@ search-bar-shown =
     .label = টুলবারে অনুসন্ধান বার যুক্ত করুন
 search-engine-default-header = ডিফল্ট অনুসন্ধান ইঞ্জিন
 search-engine-default-desc = ঠিকানা বার এবং অনুসন্ধান বারে ব্যবহারের জন্য ডিফল্ট অনুসন্ধান ইঞ্জিন পছন্দ করুন।
+search-suggestions-header = অনুসন্ধান প্রস্তাবনা
 search-suggestions-option =
     .label = অনুসন্ধান পরামর্শ প্রদান করুন
     .accesskey = s
@@ -545,6 +546,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = আপনার ওয়েব আপনার সঙ্গে নিন
 sync-signedout-description = আপনার সকল ডিভাইস জুড়ে আপনার বুকমার্ক, ইতিহাস, ট্যাব, পাসওয়ার্ড, অ্যাড টার্ন, এবং পছন্দ সিংক্রোনাইজ করুন.
 sync-signedout-account-title = { -fxaccount-brand-name } এর সাথে কানেক্ট করো
@@ -565,11 +570,17 @@ sync-mobile-promo = Firefox ডাউনলোড <img data-l10n-name="android-i
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = প্রোফাইলের ছবি পরিবর্তন করুন
 sync-disconnect =
     .label = বিচ্ছিন্ন…
     .accesskey = D
+sync-sign-out =
+    .label = সাইন আউট...
+    .accesskey = g
 sync-manage-account = অ্যাকাউন্ট ব্যবস্থাপনা
     .accesskey = o
 sync-signedin-unverified = { $email } যাচাই কৃত না
@@ -585,6 +596,27 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = সিঙ্ক সেটিং
 sync-signedin-settings-desc = { -brand-short-name } দিয়ে আপনার ডিভাইসে কি কি সিঙ্ক্রোনাইজ করা হবে তা নির্বাচন করুন।
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+sync-currently-syncing-bookmarks = বুকমার্ক
+sync-currently-syncing-history = ইতিহাস
+sync-currently-syncing-tabs = ট্যাব খুলুন
+sync-currently-syncing-logins-passwords = লগইন ও পাসওয়ার্ড
+sync-currently-syncing-addresses = ঠিকানা
+sync-currently-syncing-creditcards = ক্রেডিট কার্ড
+sync-currently-syncing-addons = অ্যাড-অন
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] অপশন
+       *[other] পছন্দসমূহ
+    }
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = বুকমার্ক
     .accesskey = m
@@ -619,6 +651,9 @@ sync-engine-prefs =
         }
     .tooltiptext = সাধারণ, গোপনীয়তা এবং নিরাপত্তা সেটিং এ আপনি যা পরিবর্তন করেছেন
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = ডিভাইসের নাম
 sync-device-name-change =
     .label = ডিভাইসের নাম পরিবর্তন…
@@ -804,7 +839,7 @@ enhanced-tracking-protection-setting-custom =
     .label = স্বনির্ধারিত
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = সুরক্ষা এবং পারফরমেন্সের জন্য ভারসাম্যযুক্ত। পাতাগুলো সাধারনভাবে লোড হবে।
 content-blocking-etp-strict-desc = শক্তিশালী নিরাপত্তা দেয় , কিন্তু কিছু সাইট বা কন্টেন্ট ঠিকঠাক কাজ নাও করতে পারে ।
