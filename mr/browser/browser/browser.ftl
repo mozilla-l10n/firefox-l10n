@@ -54,3 +54,12 @@ page-action-manage-extension =
     .label = एक्सटेन्शन व्यवस्थापित करा…
 page-action-remove-from-urlbar =
     .label = पत्ता पट्टीमधून काढा
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = साधनपट्टी लपवा
+    .accesskey = H
+full-screen-exit =
+    .label = पडदाभर मोडपासून बाहेर पडा
+    .accesskey = F
