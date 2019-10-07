@@ -50,3 +50,9 @@ page-action-manage-extension =
     .label = ပေါင်းထည့်ကိရိယာကို စီမံရန်…
 page-action-remove-from-urlbar =
     .label = လိပ်စာဘားတန်းမှ ဖယ်ရှားပါ
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = ကိရိယာအတန်းများကို ဖျောက်ပါ
+    .accesskey = H
