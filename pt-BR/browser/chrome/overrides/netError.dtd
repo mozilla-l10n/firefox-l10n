@@ -62,10 +62,10 @@
 <!ENTITY notCached.title "Documento expirado">
 <!ENTITY notCached.longDesc "<p>O documento solicitado não está disponível na cache do &brandShortName;.</p><ul><li> Como uma precaução de segurança, o &brandShortName; não re-solicita automaticamente documentos sensíveis. </li><li>Clique em tentar novamente para re-solicitar o documento no site.</li></ul>">
 
-<!ENTITY netOffline.title "Modo desconectado">
+<!ENTITY netOffline.title "Modo offline">
 <!ENTITY netOffline.longDesc2 "
 <ul>
-  <li>Pressione &quot;Tente novamente&quot; para mudar para modo conectado e recarregar a página.</li>
+  <li>Pressione &quot;Tente novamente&quot; para mudar para modo online e recarregar a página.</li>
 </ul>
 ">
 
