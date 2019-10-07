@@ -38,3 +38,9 @@ page-action-manage-extension =
     .label = ຈັດການສ່ວນຂະຫຍາຍ…
 page-action-remove-from-urlbar =
     .label = ລຶບອອກຈາກແຖບທີ່ຢູ່
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = ເຊື່ອງແຖບເຄືອງມື
+    .accesskey = H
