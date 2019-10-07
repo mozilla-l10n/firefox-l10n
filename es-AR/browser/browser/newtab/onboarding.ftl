@@ -21,10 +21,10 @@ onboarding-button-label-get-started = Comenzar
 onboarding-welcome-header = Bienvenido a { -brand-short-name }
 onboarding-welcome-body = Tiene el navegador. <br/> Conozca el resto de { -brand-product-name }.
 onboarding-welcome-learn-more = Conocer más sobre las ventajas.
-onboarding-welcome-modal-get-body = Ya tenés el navegador. <br/> Ahora aprovechá al máximo { -brand-product-name }.
-onboarding-welcome-modal-supercharge-body = Sobrecargá la protección de tu privacidad.
-onboarding-welcome-modal-privacy-body = Tenés el navegador. Agreguemos más protección de privacidad.
-onboarding-welcome-modal-family-learn-more = Obtené información sobre la familia de productos { -brand-product-name }.
+onboarding-welcome-modal-get-body = Ya tiene el navegador. <br/> Ahora aproveche al máximo { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Sobrecargá la protección de su privacidad.
+onboarding-welcome-modal-privacy-body = Tiene el navegador. Agreguemos más protección de privacidad.
+onboarding-welcome-modal-family-learn-more = Obtenga información sobre la familia de productos { -brand-product-name }.
 onboarding-welcome-form-header = Empezar aquí
 onboarding-join-form-header = Únase a { -brand-product-name }
 onboarding-join-form-body = Para empezar, ingrese su dirección de correo electrónico.
@@ -70,9 +70,11 @@ onboarding-benefit-privacy-title = Verdadera privacidad
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Todo lo que hacemos respeta nuestra Promesa de datos personales: Toma menos información. La mantiene segura. Sin secretos.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Llevá tus marcadores, contraseñas, historial y más a todos los lugares donde usás { -brand-product-name }.
+onboarding-benefit-sync-text = Lleve sus marcadores, contraseñas, historial y más a todos los lugares donde usa { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Recibí notificaciones cuando tu información personal se encuentre en una violación de datos conocida.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Administrar contraseñas que sean protegidas y portátiles.
 
 ## These strings belong to the individual onboarding messages.
 
