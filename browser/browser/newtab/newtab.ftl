@@ -83,6 +83,21 @@ newtab-menu-delete-history = Fuortsmite út skiednis
 newtab-menu-save-to-pocket = Bewarje nei { -pocket-brand-name }
 newtab-menu-delete-pocket = Fuortsmite út { -pocket-brand-name }
 newtab-menu-archive-pocket = Argivearje yn { -pocket-brand-name }
+newtab-menu-show-privacy-info = Us sponsors en jo privacy
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Dien
+newtab-privacy-modal-header = Jo privacy is wichtich.
+newtab-privacy-modal-paragraph =
+    Neist it fertellen fan boeiende ferhalen, toane wy jo ek relevante,
+    goed trochljochte ynhâld fan selektearre sponsors. Wês gerêst, jo navigaasjegegevens
+    ferlitte nea jo persoanlike eksimplaar fan { -brand-product-name } – wy krije se net te sjen,
+    en ús sponsors ek net.
+newtab-privacy-modal-link = Untdek hoe't privacy wurket op it nije ljepblêd
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Blêdwizer fuortsmite
 # Bookmark is a verb here.
