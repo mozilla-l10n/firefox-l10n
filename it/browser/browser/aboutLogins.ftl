@@ -44,7 +44,7 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } per iPhone e iPad
 
 login-list =
     .aria-label = Credenziali corrispondenti ai criteri di ricerca
-login-list-count =  { $count } credenziali
+login-list-count = { $count } credenziali
 login-list-sort-label-text = Ordina per:
 login-list-name-option = Nome (A-Z)
 login-list-breached-option = Violazione dati
