@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Sefrek aseɣzef…
 page-action-remove-from-urlbar =
     .label = Kkes seg ufeggag n tansa
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Ffer afeggag n yifecka
+    .accesskey = F
+full-screen-exit =
+    .label = Ffeɣ seg uskar n ugdil ačaran
+    .accesskey = F
