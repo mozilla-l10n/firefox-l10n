@@ -83,6 +83,20 @@ newtab-menu-delete-history = Tiyuj el pa ri Natab'äl
 newtab-menu-save-to-pocket = Tiyak pa { -pocket-brand-name }
 newtab-menu-delete-pocket = Tiyuj el pa { -pocket-brand-name }
 newtab-menu-archive-pocket = Tiyak pa { -pocket-brand-name }
+newtab-menu-show-privacy-info = Ri e qato'onela' & ri kichinanem
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Xk'is
+newtab-privacy-modal-header = K'o rejqalem ri kichinanem.
+newtab-privacy-modal-paragraph =
+    Man xa xe ta jeb'ël taq b'anob'äl yeqak'üt, chuqa' yeqak'üt nïm taq etamab'äl.
+    nik'on ri rupam kuma ri yeto'on qichin. Man kamayon, ri rujikomal rutzij awokem pa k'amaya'l
+     majub'ey nuya' kan jun ruwachib'al { -brand-product-name } — man niqatz'ët ta, nita ri yojto'o qichin.
+newtab-privacy-modal-link = Tawetamaj rub'eyal nisamäj ri ichinanem pa ri k'ak'a' ruwi'
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Tiyuj el ri yaketal
 # Bookmark is a verb here.

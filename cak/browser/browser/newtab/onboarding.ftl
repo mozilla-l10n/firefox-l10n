@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Titikirisäx
 onboarding-welcome-header = Ütz apetik pa { -brand-short-name }
 onboarding-welcome-body = K'o awik'in ri okik'amaya'l.<br/>Tawetamaj ri ch'aqa' chik taq { -brand-product-name }.
 onboarding-welcome-learn-more = Tawetamaj ch'aqa' chik pa ruwi' ri taq rutzil.
+onboarding-welcome-modal-get-body = K'o chik awik'in ri okik'amaya'l.<br/>Tawetamaj ütz rusamajixik { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Taya' ralal ri ruchajixik awichinanem.
+onboarding-welcome-modal-privacy-body = K'o chik awik'in ri okik'amaya'l. Tatz'aqatisaj ch'aqa' chik ta ruchajixik ichinanem.
+onboarding-welcome-modal-family-learn-more = Tawetamaj chi rij ri { -brand-product-name } ach'alal taq tikojil.
+onboarding-welcome-form-header = Wawe' Tatikirisaj
 onboarding-join-form-header = Tatunu' awi' rik'in { -brand-product-name }
 onboarding-join-form-body = Richin natikirisaj, tatz'ib'aj ri rochochib'al ataqoya'l.
 onboarding-join-form-email =
@@ -64,6 +69,9 @@ onboarding-benefit-privacy-title = Qitzij Ichinanem
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Ronojel ri niqab'än, nukamelaj ri Rusujik Tzij chi rij Qatzij: Jub'a' etamab'äl nuk'äm. Nujikib'a'. Majun ewäl ta.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Ke'ak'waj ri taq ayaketal, ewan taq atzij, natab'äl chuqa' ch'aqa' chik xab'akuchi' nawokisaj ri { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
