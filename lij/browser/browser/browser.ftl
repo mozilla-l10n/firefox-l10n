@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Gestisci estenscioin…
 page-action-remove-from-urlbar =
     .label = Leva da-a bara di indirissi
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Ascondi e bare
+    .accesskey = A
+full-screen-exit =
+    .label = Sciòrti da-o mòddo a tutto schermo
+    .accesskey = S
