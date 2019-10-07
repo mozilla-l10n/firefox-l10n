@@ -4,7 +4,7 @@
 
 accounts-title = E-mail- en nieuwsaccounts
 show-private-data-main-text = Accountnamen bijsluiten
-show-private-data-explanation-text = (mogelijke indentificatiegegevens)
+show-private-data-explanation-text = (mogelijke identificatiegegevens)
 accounts-ID = ID
 accounts-name = Naam
 accounts-incoming-server = Inkomende server
@@ -14,5 +14,4 @@ accounts-conn-security = Verbindingsbeveiliging
 accounts-auth-method = Authenticatiemethode
 accounts-default = Standaard?
 identity-name = Identiteit
-
 send-via-email = Verzenden via e-mail
