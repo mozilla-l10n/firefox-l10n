@@ -43,6 +43,9 @@ urlbar-addons-notification-anchor =
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = Folaigh Barraí Uirlisí
+    .accesskey = h
 full-screen-exit =
     .label = Fág Mód Lánscáileáin
     .accesskey = L
