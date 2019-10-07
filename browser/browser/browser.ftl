@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Handter utviding…
 page-action-remove-from-urlbar =
     .label = Fjern fra adresselinja
+
+## Auto-hide Context Menu
+
+full-screen-exit =
+    .label = Avslutt fullskjermmodus
+    .accesskey = v
