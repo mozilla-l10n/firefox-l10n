@@ -307,6 +307,7 @@
 <!ENTITY TextColorButton.tooltip "テキストのカラーを選択します">
 <!ENTITY BackgroundColorButton.tooltip "背景のカラーを選択します">
 <!ENTITY throbber.tooltip "&vendorShortName; ホームページに行きます">
+<!ENTITY throbber.tooltip2 "&brandShortName; のホームページへ移動します">
 <!ENTITY HighlightColorButton.tooltip "テキストの背景カラーを選択します">
 
 <!-- Editor toolbar -->
