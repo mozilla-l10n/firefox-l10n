@@ -54,3 +54,9 @@ page-action-manage-extension =
     .label = நீட்சிகளை நிர்வகி…
 page-action-remove-from-urlbar =
     .label = முகவரி பட்டையிலிருந்து நீக்கு
+
+## Auto-hide Context Menu
+
+full-screen-exit =
+    .label = முழுத்திரை முறைமையை விட்டு வெளியேறு
+    .accesskey = F
