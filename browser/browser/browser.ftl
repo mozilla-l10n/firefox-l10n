@@ -59,6 +59,9 @@ page-action-remove-from-urlbar =
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = Slėpti priemonių juostas
+    .accesskey = S
 full-screen-exit =
     .label = Grįžti iš viso ekrano veiksenos
     .accesskey = v
