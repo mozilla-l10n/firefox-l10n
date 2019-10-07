@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = এক্সট্রেনশান ম্যানেজ করুন…
 page-action-remove-from-urlbar =
     .label = ঠিকানা বার থেকে অপসারণ করুন
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = টুল-বার আড়াল করুন
+    .accesskey = H
+full-screen-exit =
+    .label = সম্পূর্ণ পর্দায় প্রদর্শন থেকে প্রস্থান করুন
+    .accesskey = F
