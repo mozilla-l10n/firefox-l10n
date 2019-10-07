@@ -46,3 +46,12 @@ page-action-manage-extension =
     .label = ವಿಸ್ತರಣೆಯನ್ನು ನಿರ್ವಹಿಸಿ…
 page-action-remove-from-urlbar =
     .label = ವಿಳಾಸದ ಪಟ್ಟಿಯಿಂದ ತೆಗೆಯಿರಿ
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = ಉಪಕರಣಪಟ್ಟಿಗಳನ್ನು ಅಡಗಿಸು
+    .accesskey = H
+full-screen-exit =
+    .label = ಪೂರ್ಣತೆರೆಯ ವಿಧಾನದಿಂದ ಹೊರನಡೆ
+    .accesskey = F
