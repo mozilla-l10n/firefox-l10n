@@ -8,3 +8,4 @@ fxa-disconnect-dialog =
     .buttonlabelaccept = বিচ্ছিন্ন
     .buttonaccesskeyaccept = D
 disconnect-account = { -brand-short-name } আপনার অ্যাকাউন্ট থেকে বিচ্ছিন্ন হয়েছে তবে এতে এই ডিভাইসে আপনার কোন ব্রাউজিং ডাটা অপসারিত হয়নি।
+disconnect-sync = { -brand-short-name } আপনার অ্যাকাউন্টে সিঙ্ক করা বন্ধ আছে তবে এতে এই ডিভাইসে আপনার কোন ব্রাউজিং ডাটা অপসারিত হয়নি।

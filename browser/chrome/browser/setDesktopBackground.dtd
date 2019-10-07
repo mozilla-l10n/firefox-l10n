@@ -18,3 +18,4 @@
 <!ENTITY setDesktopBackground.title "ডেস্কটপের পটভূমি নির্ধারণ">
 <!ENTITY openDesktopPrefs.label     "ডেস্কটপ সংক্রান্ত পছন্দসমূহ">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "প্রাকদর্শন নেই">

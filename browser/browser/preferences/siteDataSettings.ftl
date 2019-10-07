@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = স্টোরেজ
 site-data-column-last-used =
     .label = সর্বশেষ ব্যবহৃত
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (স্থানীয় ফাইল)
 site-data-remove-selected =
     .label = নির্বাচিতদের অপসারণ
     .accesskey = R

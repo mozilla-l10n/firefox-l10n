@@ -599,6 +599,10 @@ sync-signedin-settings-desc = { -brand-short-name } দিয়ে আপনার
 
 ## Sync section - enabling or disabling sync.
 
+prefs-sync-now =
+    .labelnotsyncing = এখনই সিঙ্ক করুন
+    .accesskeynotsyncing = N
+    .labelsyncing = সিঙ্ক হচ্ছে…
 
 ## The list of things currently syncing.
 
@@ -630,6 +634,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = লগইন
     .tooltiptext = আপনার সংরক্ষিত ব্যবহারকারী নাম ও পাসওয়ার্ড
+    .accesskey = L
+sync-engine-logins-passwords =
+    .label = লগইন ও পাসওয়ার্ড
+    .tooltiptext = ব্যবহারকারী নাম ও পাসওয়ার্ড যা আপনি সংরক্ষণ করেছেন
     .accesskey = L
 sync-engine-addresses =
     .label = ঠিকানা
