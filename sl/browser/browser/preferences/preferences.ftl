@@ -648,6 +648,9 @@ sync-currently-syncing-prefs =
         [windows] Možnosti
        *[other] Nastavitve
     }
+sync-change-options =
+    .label = Spremeni …
+    .accesskey = S
 
 ## The "Choose what to sync" dialog.
 
