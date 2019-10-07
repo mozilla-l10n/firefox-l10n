@@ -88,6 +88,10 @@ onboarding-addons-title = Tz'ajsab' tetz
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = u Sync
 onboarding-tracking-protection-button2 = Kam ib'anb'ele'
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Oku'tzan  Mobile Browser
+onboarding-pocket-anywhere-title = Sikle as la ab'i tikat kuxhtu.
 
 ## Message strings belonging to the Return to AMO flow
 
