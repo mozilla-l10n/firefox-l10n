@@ -21,6 +21,10 @@ onboarding-button-label-get-started = Pour commencer
 onboarding-welcome-header = Bienvenue dans { -brand-short-name }
 onboarding-welcome-body = Vous avez le navigateur.<br/>Découvrez les autres ressources de { -brand-product-name }.
 onboarding-welcome-learn-more = Découvrir tous les avantages.
+onboarding-welcome-modal-get-body = Vous avez le navigateur. <br/>Profitez maintenant au maximum de { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Boostez votre protection de la vie privée.
+onboarding-welcome-modal-privacy-body = Vous avez le navigateur. Ajoutons davantage de protection de la vie privée.
+onboarding-welcome-modal-family-learn-more = En savoir plus sur la famille de produits { -brand-product-name }.
 onboarding-join-form-header = Rejoignez { -brand-product-name }
 onboarding-join-form-body = Saisissez votre adresse électronique pour vous lancer.
 onboarding-join-form-email =
@@ -64,6 +68,10 @@ onboarding-benefit-privacy-title = Le respect de la vie privée, pour de vrai
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Tout ce que nous faisons respecte notre « Garantie en matière de données personnelles » : collecter moins de données, les protéger, ne rien cacher.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Recevez une alerte lorsque vos informations personnelles figurent dans une fuite de données connue.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
