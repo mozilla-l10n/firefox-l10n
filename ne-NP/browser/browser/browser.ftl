@@ -50,3 +50,12 @@ page-action-manage-extension =
     .label = एक्स्टेनसन व्यवस्थित गर्नुहोस्
 page-action-remove-from-urlbar =
     .label = ठेगानापट्टिबाट हटाउनुहोस्
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = टुलबारहरू लुकाउनुहोस्
+    .accesskey = H
+full-screen-exit =
+    .label = पूरा पर्दा बन्द गर्नुहोस्
+    .accesskey = F
