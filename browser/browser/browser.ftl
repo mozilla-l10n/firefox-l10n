@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Správa rozšírenia…
 page-action-remove-from-urlbar =
     .label = Odstrániť z panela s adresou
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Skryť panely s nástrojmi
+    .accesskey = k
