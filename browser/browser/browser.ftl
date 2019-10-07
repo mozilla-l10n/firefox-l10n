@@ -14,3 +14,6 @@
 full-screen-autohide =
     .label = টুলবাৰসমূহ লুকাওক
     .accesskey = H
+full-screen-exit =
+    .label = পূৰ্ণপৰ্দা অৱস্থা প্ৰস্থান কৰক
+    .accesskey = F
