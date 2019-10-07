@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Кіраваць пашырэннямі…
 page-action-remove-from-urlbar =
     .label = Выдаліць з адраснага радка
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Схаваць паліцы прылад
+    .accesskey = х
