@@ -54,3 +54,12 @@ page-action-manage-extension =
     .label = توسیعات… بندرست کریں
 page-action-remove-from-urlbar =
     .label = ایڈریس بار سے ہٹائے
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = ٹول بار چھپائیں
+    .accesskey = H
+full-screen-exit =
+    .label = پوری اسکرین موڈ خروج کریں
+    .accesskey = F
