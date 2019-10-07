@@ -21,3 +21,15 @@ urlbar-translated-notification-anchor =
     .tooltiptext = Manage page translation
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Manage sharing your camera and/or microphone with the site
+
+## Page Action Context Menu
+
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Hide Toolbars
+    .accesskey = H
+full-screen-exit =
+    .label = Exit Full Screen Mode
+    .accesskey = F
