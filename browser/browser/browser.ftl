@@ -21,3 +21,15 @@ urlbar-translated-notification-anchor =
     .tooltiptext = Laola thanodi ya tsebe
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Laola kabelano ya sekapa-ditshwantsho le/kgotsa sekapa-mantswe le saete
+
+## Page Action Context Menu
+
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Fitlha Bara ya Didiriswa
+    .accesskey = H
+full-screen-exit =
+    .label = Tswaa Mokgwa wa Sekerini se se tletseng
+    .accesskey = M
