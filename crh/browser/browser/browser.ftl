@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Eklentini İdare Et…
 page-action-remove-from-urlbar =
     .label = Adres Çubuğından Çetleştir
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Alet Çubuqlarını Gizle
+    .accesskey = g
+full-screen-exit =
+    .label = Tam Ekran Tarzından Çıq
+    .accesskey = T
