@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Nastavení tohoto rozšíření
 page-action-remove-from-urlbar =
     .label = Odebrat z adresního řádku
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Skrýt nástrojové lišty
+    .accesskey = S
