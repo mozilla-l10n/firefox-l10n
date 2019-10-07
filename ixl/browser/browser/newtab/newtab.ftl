@@ -83,6 +83,15 @@ newtab-menu-delete-history = Sojsa unq'a vee pich'umal s-an.
 newtab-menu-save-to-pocket = kolkan tu{ -pocket-brand-name }
 newtab-menu-delete-pocket = Sojsa tetz{ -pocket-brand-name }
 newtab-menu-archive-pocket = Kol  u aq'one' tu{ -pocket-brand-name }
+newtab-menu-show-privacy-info = Unq'a xa'ole'  ve ni aq'on kulochb'al as tuk  va tiichajile'
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-header = Meresteel va tiichajile' sqe.
+newtab-privacy-modal-paragraph = Achav' chit unq'a tzaq'ite' ve txa'el chit ti b'anil  vee ni taltzi'el .  As jank'al unq'a vee na pichu ye'xhibi'l otzin  tetz.
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Sojsa u taq'il u aq'one'.
 # Bookmark is a verb here.
