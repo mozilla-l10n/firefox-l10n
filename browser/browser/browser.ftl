@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Erweiterung verwalten…
 page-action-remove-from-urlbar =
     .label = Aus Adressleiste entfernen
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Symbolleisten ausblenden
+    .accesskey = a
