@@ -62,3 +62,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = Arkbalken ferstopje{ " " }
     .accesskey = A
+full-screen-exit =
+    .label = Folsleinskermmodus ôfslute
+    .accesskey = F
