@@ -55,6 +55,9 @@ page-action-remove-from-urlbar =
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = Թաքցնել Գործիքագոտիները
+    .accesskey = Թ
 full-screen-exit =
     .label = Դուրս գալ Լիաէկրան վիճակից
     .accesskey = Լ
