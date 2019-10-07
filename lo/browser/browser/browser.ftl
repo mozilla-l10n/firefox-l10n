@@ -44,3 +44,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = ເຊື່ອງແຖບເຄືອງມື
     .accesskey = H
+full-screen-exit =
+    .label = ອອກຈາກໂຫມດເຕັມຫນ້າຈໍ
+    .accesskey = F
