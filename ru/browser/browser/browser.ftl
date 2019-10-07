@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Управление расширением…
 page-action-remove-from-urlbar =
     .label = Удалить с панели адреса
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Скрыть панели инструментов
+    .accesskey = к
+full-screen-exit =
+    .label = Выйти из полноэкранного режима
+    .accesskey = ы
