@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Gérer l’extension…
 page-action-remove-from-urlbar =
     .label = Retirer de la barre d’adresse
+
+## Auto-hide Context Menu
+
+full-screen-exit =
+    .label = Quitter le mode plein écran
+    .accesskey = Q
