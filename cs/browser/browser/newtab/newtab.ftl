@@ -83,6 +83,14 @@ newtab-menu-delete-history = Smazat z historie
 newtab-menu-save-to-pocket = Uložit do služby { -pocket-brand-name }
 newtab-menu-delete-pocket = Smazat ze služby { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivovat do služby { -pocket-brand-name }
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Hotovo
+newtab-privacy-modal-header = Na vašem soukromí záleží.
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Odebrat záložku
 # Bookmark is a verb here.

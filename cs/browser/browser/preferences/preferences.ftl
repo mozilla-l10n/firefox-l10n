@@ -515,6 +515,12 @@ search-bar-shown =
     .label = Přidat na lištu vyhledávací pole
 search-engine-default-header = Výchozí vyhledávač
 search-engine-default-desc = Vyberte výchozí vyhledávač pro hledání z adresního řádku nebo vyhledávacího pole.
+search-engine-default-private-desc = Vyberte výchozí vyhledávač pro použití v režimu anonymního prohlížení.
+search-separate-default-engine =
+    .label = Použít tento vyhledávač v režimu anonymního prohlížení
+    .accesskey = u
+search-suggestions-header = Našeptávání
+search-suggestions-desc = Zvolte si, zda a jak má prohlížeč zobrazovat návrhy od vyhledávače.
 search-suggestions-option =
     .label = Našeptávat vyhledávání
     .accesskey = n
@@ -528,6 +534,7 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Našeptávat vyhledávání v adresním řádku nad stránkami z historie prohlížení
+suggestions-addressbar-settings = Nastavit našeptávání z historie prohlížení, záložek a otevřených panelů
 search-suggestions-cant-show = Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste aplikaci { -brand-short-name } nastavili, aby si nikdy nepamatovala historii.
 search-one-click-header = Vyhledávání jedním klepnutím
 search-one-click-desc = Vyberte další vyhledávače, které se zobrazí v nabídce adresního řádku a vyhledávacího pole.
@@ -643,6 +650,9 @@ sync-currently-syncing-prefs =
         [windows] Možnosti
        *[other] Předvolby
     }
+sync-change-options =
+    .label = Změnit…
+    .accesskey = Z
 
 ## The "Choose what to sync" dialog.
 
@@ -653,7 +663,6 @@ sync-choose-what-to-sync-dialog =
     .buttonaccesskeyaccept = U
     .buttonlabelextra2 = Zrušit synchronizaci…
     .buttonaccesskeyextra2 = Z
-sync-choose-heading = Vyberte, co se má na vašich zařízeních pomocí služby { -sync-brand-short-name } synchronizovat.
 sync-engine-bookmarks =
     .label = Záložky
     .accesskey = Z

@@ -21,6 +21,10 @@ onboarding-button-label-get-started = Začínáme
 onboarding-welcome-header = Vítá vás { -brand-short-name }
 onboarding-welcome-body = Prohlížeč teď už máte.<br/>Poznejte ještě zbytek aplikace { -brand-product-name }.
 onboarding-welcome-learn-more = Další výhody.
+onboarding-welcome-modal-get-body = Prohlížeč teď už máte.<br/>Využijte aplikaci { -brand-product-name } naplno.
+onboarding-welcome-modal-privacy-body = Prohlížeč už teď máte. Přidejme k němu ještě trochu ochrany soukromí.
+onboarding-welcome-modal-family-learn-more = Zjistěte více o celé rodině produktů { -brand-product-name }.
+onboarding-welcome-form-header = Začněme
 onboarding-join-form-header =
     { -brand-product-name.gender ->
         [masculine] Používejte { -brand-product-name }
@@ -68,6 +72,11 @@ onboarding-benefit-privacy-title = Skutečné soukromí
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Slibujeme, že nezneužijeme vaše data. Méně dat je vždy více, udržíme je v bezpečí a nemáme před vámi žádná tajemství.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Vezměte si své záložky, hesla, historii a další data všude tam, kde používáte aplikaci { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Spravujte hesla bezpečně i na cestách.
 
 ## These strings belong to the individual onboarding messages.
 
