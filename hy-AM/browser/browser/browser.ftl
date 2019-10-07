@@ -52,3 +52,9 @@ page-action-manage-extension =
     .label = Կառավարել ընդլայնումը...
 page-action-remove-from-urlbar =
     .label = ՀԵռացնել Հասցեագոտուց
+
+## Auto-hide Context Menu
+
+full-screen-exit =
+    .label = Դուրս գալ Լիաէկրան վիճակից
+    .accesskey = Լ
