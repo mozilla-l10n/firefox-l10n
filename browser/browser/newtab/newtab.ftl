@@ -83,6 +83,21 @@ newtab-menu-delete-history = Verwijderen uit geschiedenis
 newtab-menu-save-to-pocket = Opslaan naar { -pocket-brand-name }
 newtab-menu-delete-pocket = Verwijderen uit { -pocket-brand-name }
 newtab-menu-archive-pocket = Archiveren in { -pocket-brand-name }
+newtab-menu-show-privacy-info = Onze sponsors en uw privacy
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Gereed
+newtab-privacy-modal-header = Uw privacy is belangrijk.
+newtab-privacy-modal-paragraph =
+    Naast het vertellen van boeiende verhalen, tonen we u ook relevante,
+    goed doorgelichte inhoud van geselecteerde sponsors. Wees gerust, uw navigatiegegevens
+    verlaten nooit uw persoonlijke exemplaar van { -brand-product-name } – wij krijgen ze niet te zien,
+    en onze sponsors ook niet.
+newtab-privacy-modal-link = Ontdek hoe privacy werkt op het nieuwe tabblad
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Bladwijzer verwijderen
 # Bookmark is a verb here.
