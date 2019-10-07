@@ -57,6 +57,9 @@ page-action-remove-from-urlbar =
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = Sorok Bar Alatan
+    .accesskey = B
 full-screen-exit =
     .label = Keluar Mod Skrin Penuh
     .accesskey = K
