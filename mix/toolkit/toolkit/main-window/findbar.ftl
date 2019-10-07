@@ -5,10 +5,6 @@
 
 ### This file contains the entities needed to use the Find Bar.
 
-findbar-next =
-    .tooltiptext = Ir a la siguiente frase encontrada
-findbar-previous =
-    .tooltiptext = Ir a la anterior frase encontrada
 findbar-find-button-close =
     .tooltiptext = Kasi barra nu ndukuku
 findbar-highlight-all2 =

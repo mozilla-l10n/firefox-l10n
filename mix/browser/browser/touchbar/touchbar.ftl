@@ -6,5 +6,6 @@
 # MacBook Touch Bar.
 back = Satàa
 home = Kitsàa
+find = Nduku
 share = Stucha
 close-window = Kasi ventana

@@ -9,3 +9,8 @@
 <!ENTITY copyCmd.accesskey         "c">
 <!ENTITY deleteCmd.label           "Stoò">
 <!ENTITY deleteCmd.accesskey       "d">
+<!ENTITY findCmd.label             "Nduku">
+<!ENTITY findCmd.key               "N">
+<!ENTITY findCmd.accesskey         "N">
+<!ENTITY findAgainCmd.label        "Ndasaa nduku">
+<!ENTITY findAgainCmd.key2         "VK_F3">
