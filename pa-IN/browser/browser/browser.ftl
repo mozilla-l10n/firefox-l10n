@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = …ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 page-action-remove-from-urlbar =
     .label = ਐਡਰੈੱਸ ਪੱਟੀ ਤੋਂ ਹਟਾਓ
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = ਟੂਲਬਾਰ ਓਹਲੇ
+    .accesskey = H
+full-screen-exit =
+    .label = ਪੂਰੀ ਸਕਰੀਨ ਮੋਡ ਬੰਦ ਕਰੋ
+    .accesskey = F
