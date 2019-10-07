@@ -62,3 +62,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = Werkbalken verbergen
     .accesskey = W
+full-screen-exit =
+    .label = Volledigschermmodus verlaten
+    .accesskey = d
