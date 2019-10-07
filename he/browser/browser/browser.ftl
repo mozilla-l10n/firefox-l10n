@@ -59,6 +59,9 @@ page-action-remove-from-urlbar =
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = הסתרת סרגלים
+    .accesskey = ה
 full-screen-exit =
     .label = צא ממצב מסך מלא
     .accesskey = צ
