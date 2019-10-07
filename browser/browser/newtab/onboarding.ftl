@@ -21,6 +21,7 @@ onboarding-button-label-get-started = Kom i gang
 onboarding-welcome-header = Velkomen til { -brand-short-name }
 onboarding-welcome-body = Du har nettlesaren.<br/>Møt resten av { -brand-product-name }.
 onboarding-welcome-learn-more = Les meir om fordelane.
+onboarding-welcome-form-header = Start her
 onboarding-join-form-header = Ver med { -brand-product-name } på ferda
 onboarding-join-form-body = Skriv inn e-postadressa di for å kome i gang.
 onboarding-join-form-email =
@@ -64,6 +65,9 @@ onboarding-benefit-privacy-title = Ekte personvern
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Alt vi gjer følgjer lovnaden vårt om personlege data (Personal Data Promise): Samle inn mindre. Oppbevar det sikkert. Ingen hemmelegheiter.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 

@@ -83,6 +83,15 @@ newtab-menu-delete-history = Slett frå historikk
 newtab-menu-save-to-pocket = Lagre til { -pocket-brand-name }
 newtab-menu-delete-pocket = Slett frå { -pocket-brand-name }
 newtab-menu-archive-pocket = Arkiver i { -pocket-brand-name }
+newtab-menu-show-privacy-info = Våre sponsorar og ditt personvern
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Ferdig
+newtab-privacy-modal-header = Personvernet ditt er viktig.
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Fjern bokmerke
 # Bookmark is a verb here.
