@@ -22,6 +22,7 @@ onboarding-welcome-header = Dobrodošli v { -brand-short-name }
 onboarding-welcome-body = Brskalnik že imate.<br/>Spoznajte še ostale storitve { -brand-product-name }.
 onboarding-welcome-learn-more = Spoznajte prednosti.
 onboarding-welcome-modal-get-body = Brskalnik že imate.<br/>Zdaj pa kar najbolje izkoristite { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Dvignite svojo zaščito zasebnosti.
 onboarding-welcome-modal-privacy-body = Brskalnik že imate. Dodajmo še zaščito zasebnosti.
 onboarding-welcome-modal-family-learn-more = Spoznajte družino izdelkov { -brand-product-name }.
 onboarding-welcome-form-header = Začnite tukaj
