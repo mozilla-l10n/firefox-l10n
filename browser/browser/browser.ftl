@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = 拡張機能を管理...
 page-action-remove-from-urlbar =
     .label = アドレスバーから削除
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = ツールバーを隠す
+    .accesskey = H
