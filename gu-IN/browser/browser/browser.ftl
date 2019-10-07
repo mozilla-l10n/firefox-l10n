@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = એક્સ્ટેંશનનો વહીવટ કરો…
 page-action-remove-from-urlbar =
     .label = સરનામાં બારમાંથી દૂર કરો
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = સાધનપટ્ટીઓ છુપાવો
+    .accesskey = H
+full-screen-exit =
+    .label = સંપૂર્ણ સ્ક્રીન સ્થિતિમાંથી બહાર નીકળો
+    .accesskey = F
