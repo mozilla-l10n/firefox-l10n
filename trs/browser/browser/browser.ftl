@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Ganikaj ñu'un' extensiôn...
 page-action-remove-from-urlbar =
     .label = Guxun' riña dukuán direksiôn
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Gachì hui' dukuán mà rasùun
+    .accesskey = H
+full-screen-exit =
+    .label = Nagi'iaj lij riña aga' sikà' ràa
+    .accesskey = F
