@@ -48,3 +48,12 @@ page-action-manage-extension =
     .label = Upravljanje ekstenzijom…
 page-action-remove-from-urlbar =
     .label = Ukloni iz adresne trake
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Sakrij trake sa alatima
+    .accesskey = S
+full-screen-exit =
+    .label = Prekini prikaz preko cijelog ekrana
+    .accesskey = P
