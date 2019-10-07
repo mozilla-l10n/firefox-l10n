@@ -54,3 +54,9 @@ page-action-manage-extension =
     .label = Xestionar extensión…
 page-action-remove-from-urlbar =
     .label = Retirar da barra de enderezos
+
+## Auto-hide Context Menu
+
+full-screen-exit =
+    .label = Saír do modo Pantalla completa
+    .accesskey = c
