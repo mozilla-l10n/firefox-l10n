@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Stiùirich an leudachan...
 page-action-remove-from-urlbar =
     .label = Thoir air falbh o bhàr an t-seòlaidh
+
+## Auto-hide Context Menu
+
+full-screen-exit =
+    .label = Fàg modh na làn-sgrìn
+    .accesskey = l
