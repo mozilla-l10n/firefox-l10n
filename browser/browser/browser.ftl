@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Управление на добавката…
 page-action-remove-from-urlbar =
     .label = Премахване от адресната лента
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Скриване на лентите
+    .accesskey = л
