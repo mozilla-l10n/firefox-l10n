@@ -50,3 +50,12 @@ page-action-manage-extension =
     .label = දිගුව පාලනය කරන්න…
 page-action-remove-from-urlbar =
     .label = ලිපින තීරුවෙන් ඉවත් කරන්න
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = මෙවලම් තීරු සඟවන්න
+    .accesskey = H
+full-screen-exit =
+    .label = පූර්ණතිර ආකාරයෙන් ඉවත් වන්න
+    .accesskey = F
