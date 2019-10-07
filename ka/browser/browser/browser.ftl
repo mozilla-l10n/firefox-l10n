@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = გაფართოების მართვა…
 page-action-remove-from-urlbar =
     .label = მისამართების ველიდან მოცილება
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = ხელსაწყოთა ზოლების დამალვა
+    .accesskey = დ
+full-screen-exit =
+    .label = სრულეკრანიანი რეჟიმიდან გამოსვლა
+    .accesskey = ს
