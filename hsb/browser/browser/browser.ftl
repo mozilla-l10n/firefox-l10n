@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Rozšěrjenje rjadować…
 page-action-remove-from-urlbar =
     .label = Z adresoweho pola wotstronić
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Symbolowe lajsty schować
+    .accesskey = b
+full-screen-exit =
+    .label = Modus połneje wobrazowki wopušćić
+    .accesskey = M
