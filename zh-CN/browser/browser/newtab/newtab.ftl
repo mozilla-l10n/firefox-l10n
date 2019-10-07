@@ -89,6 +89,8 @@ newtab-menu-show-privacy-info = 我们的赞助商﹠您的隐私
 
 newtab-privacy-modal-button-done = 完成
 newtab-privacy-modal-header = 隐私是公民的基本权利。
+newtab-privacy-modal-paragraph = 除了提供引人入胜的文章之外，我们还与赞助商合作展示有价值，且经甄选的内容。请放心，您的浏览数据永远只会留在本机 { -brand-product-name } 中  — 我们看不到，我们的赞助商亦然。
+newtab-privacy-modal-link = 了解新标签页如何保障您的隐私
 
 
 
