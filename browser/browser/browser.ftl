@@ -57,6 +57,9 @@ page-action-remove-from-urlbar =
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = Agochar barras
+    .accesskey = o
 full-screen-exit =
     .label = Saír do modo Pantalla completa
     .accesskey = c
