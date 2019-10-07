@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Quản lý tiện ích mở rộng…
 page-action-remove-from-urlbar =
     .label = Xóa khỏi thanh địa chỉ
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Ẩn thanh công cụ
+    .accesskey = H
+full-screen-exit =
+    .label = Thoát chế độ toàn màn hình
+    .accesskey = F
