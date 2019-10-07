@@ -54,3 +54,12 @@ page-action-manage-extension =
     .label = Pārvaldīt paplašinājumu…
 page-action-remove-from-urlbar =
     .label = Novākt no adreses joslas
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Paslēpt rīkjoslas
+    .accesskey = P
+full-screen-exit =
+    .label = Iziet no pilnekrāna režīma
+    .accesskey = p
