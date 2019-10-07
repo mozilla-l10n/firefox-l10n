@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = จัดการส่วนขยาย…
 page-action-remove-from-urlbar =
     .label = เอาออกจากแถบที่อยู่
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = ซ่อนแถบเครื่องมือ
+    .accesskey = น
+full-screen-exit =
+    .label = ออกจากโหมดเต็มหน้าจอ
+    .accesskey = จ
