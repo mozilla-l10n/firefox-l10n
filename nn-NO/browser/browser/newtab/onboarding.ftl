@@ -23,6 +23,7 @@ onboarding-welcome-body = Du har nettlesaren.<br/>Møt resten av { -brand-produc
 onboarding-welcome-learn-more = Les meir om fordelane.
 onboarding-welcome-modal-supercharge-body = Forsterk personvernsikringa di.
 onboarding-welcome-modal-privacy-body = Du har nettlesaren. La oss leggje til meir personvernsikring.
+onboarding-welcome-modal-family-learn-more = Les meir om produktfamilien til { -brand-product-name }.
 onboarding-welcome-form-header = Start her
 onboarding-join-form-header = Ver med { -brand-product-name } på ferda
 onboarding-join-form-body = Skriv inn e-postadressa di for å kome i gang.
@@ -68,8 +69,11 @@ onboarding-benefit-privacy-title = Ekte personvern
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Alt vi gjer følgjer lovnaden vårt om personlege data (Personal Data Promise): Samle inn mindre. Oppbevar det sikkert. Ingen hemmelegheiter.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Ta med bokmerke, passord, historikk og meir overalt der du brukar { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Bli varsla når den personlege informasjonen din er med i ein kjend datalekkasje.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Handter passord som er verna og flyttbare.
 
 ## These strings belong to the individual onboarding messages.
 

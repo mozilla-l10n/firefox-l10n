@@ -66,5 +66,5 @@ move-tabs =
     .label = Flytt faner
     .accesskey = t
 move-tab =
-    .label = Flytt denne fana
+    .label = Flytt fane
     .accesskey = t
