@@ -59,6 +59,9 @@ page-action-remove-from-urlbar =
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = Құралдар панельдерін жасыру
+    .accesskey = С
 full-screen-exit =
     .label = Толық экран режимінен шығу
     .accesskey = Т
