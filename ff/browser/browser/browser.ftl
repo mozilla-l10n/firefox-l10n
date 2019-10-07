@@ -54,3 +54,12 @@ page-action-manage-extension =
     .label = Yiil Timmitere…
 page-action-remove-from-urlbar =
     .label = Ittu e Palal Ñiiɓirɗe
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Suuɗ Palal Kuutorɗe
+    .accesskey = S
+full-screen-exit =
+    .label = Yaltu Mbaydi Njaajeendi Yaynirde
+    .accesskey = N
