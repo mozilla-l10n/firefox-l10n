@@ -621,6 +621,8 @@ sync-signedin-settings-desc = Izberite, kaj želite sinhronizirati med svojimi n
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Sinhronizacija: OMOGOČENO
+prefs-syncing-off = Sinhronizacija: ONEMOGOČENO
 prefs-sync-setup =
     .label = Nastavi { -sync-brand-short-name } …
     .accesskey = s
