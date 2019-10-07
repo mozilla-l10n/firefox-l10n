@@ -640,6 +640,9 @@ sync-currently-syncing-prefs =
         [windows] Taq cha'oj
        *[other] Taq ajowab'äl
     }
+sync-change-options =
+    .label = Tijal...
+    .accesskey = j
 
 ## The "Choose what to sync" dialog.
 
