@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Gerer le extension…
 page-action-remove-from-urlbar =
     .label = Remover del barra de adresse
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Celar instrumentarios
+    .accesskey = C
