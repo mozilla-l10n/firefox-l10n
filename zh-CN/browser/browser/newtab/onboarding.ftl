@@ -21,6 +21,8 @@ onboarding-button-label-get-started = 开始使用
 onboarding-welcome-header = 欢迎使用 { -brand-short-name }
 onboarding-welcome-body = 浏览器安装完成。<br/>但 { -brand-product-name } 不只是浏览器。
 onboarding-welcome-learn-more = 还有更多好物。
+onboarding-welcome-modal-supercharge-body = 增强您的隐私保护。
+onboarding-welcome-modal-family-learn-more = 了解 { -brand-product-name } 系列产品。
 onboarding-join-form-header = 加入 { -brand-product-name } 的行列
 onboarding-join-form-body = 在此输入您的电子邮件地址，即可开始使用。
 onboarding-join-form-email =
@@ -64,6 +66,9 @@ onboarding-benefit-privacy-title = 真诚捍卫隐私
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = 我们所做的一切，均符合我们对个人数据隐私的承诺：索取更少、确保安全、绝不隐瞒。
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
