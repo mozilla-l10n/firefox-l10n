@@ -62,3 +62,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = Ascunde barele de instrumente
     .accesskey = H
+full-screen-exit =
+    .label = Ieși din modul de ecran complet
+    .accesskey = F
