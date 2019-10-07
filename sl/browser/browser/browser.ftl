@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Upravljaj razširitev ...
 page-action-remove-from-urlbar =
     .label = Odstrani iz naslovne vrstice
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Skrij orodne vrstice
+    .accesskey = S
