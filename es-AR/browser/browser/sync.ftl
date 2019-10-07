@@ -4,3 +4,6 @@
 
 sync-disconnect-dialog-title = ¿Desconectar { -sync-brand-short-name }?
 sync-disconnect-dialog-body = { -brand-product-name } se va a desconectar de su cuenta, pero no va a borrar ningún dato de navegación de este dispositivo.
+fxa-disconnect-dialog-title = ¿Desconectar { -brand-product-name }?
+fxa-disconnect-dialog-body = { -brand-product-name } se va a desconectar de su cuenta, pero no borrará ningún dato de navegación de este dispositivo.
+sync-disconnect-dialog-button = Desconectar
