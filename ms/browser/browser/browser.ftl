@@ -54,3 +54,9 @@ page-action-manage-extension =
     .label = Urus Ekstensi…
 page-action-remove-from-urlbar =
     .label = Buang daripada Bar Alamat
+
+## Auto-hide Context Menu
+
+full-screen-exit =
+    .label = Keluar Mod Skrin Penuh
+    .accesskey = K
