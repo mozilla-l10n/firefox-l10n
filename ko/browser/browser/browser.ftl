@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = 확장 프로그램 관리…
 page-action-remove-from-urlbar =
     .label = 주소 표시줄에서 제거
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = 도구 모음 닫기
+    .accesskey = H
+full-screen-exit =
+    .label = 원래 화면으로 복구
+    .accesskey = F
