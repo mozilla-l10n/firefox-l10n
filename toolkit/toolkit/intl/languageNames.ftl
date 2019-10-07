@@ -188,6 +188,7 @@ language-name-tlh = klingonščina
 language-name-tn = cvanščina
 language-name-to = tongščina
 language-name-tr = turščina
+language-name-trs = trikiščina
 language-name-ts = congščina
 language-name-tt = tatarščina
 language-name-tw = tvi

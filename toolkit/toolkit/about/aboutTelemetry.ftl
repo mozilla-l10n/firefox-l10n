@@ -79,6 +79,7 @@ about-telemetry-settings-explanation = Telemetrija zbira { about-telemetry-data-
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Vsak podatek je poslan skupaj s “<a data-l10n-name="ping-link">pingi</a>”. Prikazan je ping { $name }, { $timestamp }.
 about-telemetry-ping-details-current = Vsak podatek je poslan skupaj s “<a data-l10n-name="ping-link">pingi</a>”. Prikazan je ping trenutni.
+about-telemetry-data-details-current = Vsak podatek je poslan skupaj s “<a data-l10n-name="ping-link">pingi</a>”. Prikazani so trenutni podatki.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html

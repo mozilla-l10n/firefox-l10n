@@ -518,6 +518,7 @@ search-separate-default-engine =
     .label = Uporabi ta iskalnik v zasebnih oknih
     .accesskey = i
 search-suggestions-header = Predlogi za iskanje
+search-suggestions-desc = Izberite, kako naj se prikazujejo predlogi iskalnikov.
 search-suggestions-option =
     .label = Predlogi iskanja
     .accesskey = s
