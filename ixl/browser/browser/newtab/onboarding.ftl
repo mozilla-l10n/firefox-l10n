@@ -22,6 +22,7 @@ onboarding-welcome-header = B'a'n oole' tu { -brand-short-name }
 onboarding-welcome-body = At ve't u xaansab' tetze' saxe'. <br/> ootzi ve't ka'te ti' u { -brand-product-name }.
 onboarding-welcome-learn-more = La ootzi kam chit ka't kam la taq' see.
 onboarding-welcome-modal-get-body = Atve't  u ch'iche'  ta qab', oksa ve't ni txaak.
+onboarding-welcome-modal-supercharge-body = Ooksa iyak'il  unq'a vee ve etzchitu'
 onboarding-welcome-form-header = Xe'ten tzitza
 onboarding-join-form-header = Oken xo'l u { -brand-product-name }
 onboarding-join-form-body = Aq'al uva' la xe't axh, aq'ku' va correo electrónico.
@@ -66,6 +67,9 @@ onboarding-benefit-privacy-title = Jik chit la eetzeb'i
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Jank'al chit unq'a vee' ni kub'ane' ni nima unq'a ni qale' ti' vee' qetz kuxhtu'. B'iil kuxh la eeq'o. Jik chit la aaq'kan. Ni kuxh la muje'.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Kol   texhlal unq'a aq'one' ve ni chit a b'amb'e.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
