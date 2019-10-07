@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Sýsla með viðbót…
 page-action-remove-from-urlbar =
     .label = Fjarlægja úr staðsetningarslá
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Fela tækjaslár
+    .accesskey = F
