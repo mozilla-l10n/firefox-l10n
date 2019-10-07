@@ -59,6 +59,9 @@ page-action-remove-from-urlbar =
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = Cuir bàraichean-inneal am falach
+    .accesskey = h
 full-screen-exit =
     .label = Fàg modh na làn-sgrìn
     .accesskey = l
