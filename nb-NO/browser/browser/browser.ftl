@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Behandle utvidelser…
 page-action-remove-from-urlbar =
     .label = Fjern fra adresselinjen
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Skjul verktøylinjer
+    .accesskey = S
+full-screen-exit =
+    .label = Avslutt fullskjermmodus
+    .accesskey = v
