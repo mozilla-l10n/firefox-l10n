@@ -8,14 +8,21 @@ printpreview-close =
 printpreview-portrait =
     .label = Vatzib'al
     .accesskey = V
+printpreview-shrink-to-fit =
+    .label = Choopisa aq'al achav toke.
 printpreview-custom =
     .label = Eetz chitu'…
 printpreview-print =
     .label = Tel ch'u'l vatz u'uj…
     .accesskey = T
+printpreview-of =
+    .value = tetz
 printpreview-page-setup =
     .label = Ib'anax tuch u U'uje'…
     .accesskey = I
+printpreview-page =
+    .value = U'uj
+    .accesskey = u
 
 ## Variables
 ## $percent (integer) - menuitem percent label

@@ -10,3 +10,4 @@ ssl-connection-error = At uma'l kam kat yani tul kat xe't aq'onvoj tu { $hostnam
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Texhlal iyane': { $error }
 psmerr-ssl-disabled = Ye' la unch xe't aq'onvoj ti jikil tan u  SSL kat ya'sal yak kan.
+psmerr-ssl2-disabled = Ye' la uch taq'onve' tu chit ijikil tan o't ve't u vaa' ni b'anb'e as ye'xh kam tii koj tatine' SSL.
