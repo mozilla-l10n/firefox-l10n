@@ -89,6 +89,7 @@ newtab-menu-show-privacy-info = Våre sponsorar og ditt personvern
 
 newtab-privacy-modal-button-done = Ferdig
 newtab-privacy-modal-header = Personvernet ditt er viktig.
+newtab-privacy-modal-link = Lær deg korleis personvernet fungerer på den nye fana
 
 
 
