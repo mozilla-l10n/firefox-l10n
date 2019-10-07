@@ -62,3 +62,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = Fela tækjaslár
     .accesskey = F
+full-screen-exit =
+    .label = Ekki fylla skjá
+    .accesskey = f
