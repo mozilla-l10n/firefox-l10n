@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Uzantını idarə et…
 page-action-remove-from-urlbar =
     .label = Ünvan sətrindən sil
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Alət sətirlərini gizlə
+    .accesskey = g
+full-screen-exit =
+    .label = Tam ekran rejimdən çıx
+    .accesskey = e
