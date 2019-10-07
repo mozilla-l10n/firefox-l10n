@@ -640,6 +640,9 @@ sync-currently-syncing-prefs =
         [windows] Options
        *[other] Préférences
     }
+sync-change-options =
+    .label = Modifier…
+    .accesskey = M
 
 ## The "Choose what to sync" dialog.
 

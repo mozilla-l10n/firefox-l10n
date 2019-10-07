@@ -72,6 +72,7 @@ onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Recevez une alerte lorsque vos informations personnelles figurent dans une fuite de données connue.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Gérez des mots de passe protégés et portables.
 
 ## These strings belong to the individual onboarding messages.
 
