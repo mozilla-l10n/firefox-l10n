@@ -60,3 +60,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = Asboblar panelini yashirish
     .accesskey = y
+full-screen-exit =
+    .label = Butun ekran rejimidan chiqish
+    .accesskey = u
