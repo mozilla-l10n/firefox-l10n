@@ -62,3 +62,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = Ezkutatu tresna-barrak
     .accesskey = E
+full-screen-exit =
+    .label = Irten pantaila osoko ikuspegitik
+    .accesskey = p
