@@ -83,6 +83,13 @@ newtab-menu-delete-history = מחיקה מההיסטוריה
 newtab-menu-save-to-pocket = שמירה אל { -pocket-brand-name }
 newtab-menu-delete-pocket = מחיקה מ־{ -pocket-brand-name }
 newtab-menu-archive-pocket = העברה לארכיון ב־{ -pocket-brand-name }
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = סיום
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = הסרת סימנייה
 # Bookmark is a verb here.
