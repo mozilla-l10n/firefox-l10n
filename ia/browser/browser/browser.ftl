@@ -62,3 +62,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = Celar instrumentarios
     .accesskey = C
+full-screen-exit =
+    .label = Exir del modo plen schermo
+    .accesskey = E
