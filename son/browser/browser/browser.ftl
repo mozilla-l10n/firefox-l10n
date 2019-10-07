@@ -37,3 +37,15 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Bayhayey jiši jišiyan duumante ra
 urlbar-addons-notification-anchor =
     .tooltiptext = Tontoni sinjiyan alhabar fasaldoo feeri
+
+## Page Action Context Menu
+
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Goyjinay žeerey tugu
+    .accesskey = t
+full-screen-exit =
+    .label = Dijikul alhaali naŋ
+    .accesskey = D
