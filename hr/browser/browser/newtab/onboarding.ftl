@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Započnite
 onboarding-welcome-header = Dobro došli u { -brand-short-name }
 onboarding-welcome-body = Imate preglednik.<br/>Upoznajte ostatak { -brand-product-name }.
 onboarding-welcome-learn-more = Saznajte više o prednostima.
+onboarding-welcome-modal-get-body = Imaš preglednik.<br/>Sad upoznaj ostatak { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Nadopuni svoju zaštitu privatnosti.
+onboarding-welcome-modal-privacy-body = Imaš preglednik. Dodajmo još više zaštite privatnosti.
+onboarding-welcome-modal-family-learn-more = Saznaj više o { -brand-product-name } obitelji proizvoda.
+onboarding-welcome-form-header = Započni ovdje
 onboarding-join-form-header = Pridruži se { -brand-product-name }
 onboarding-join-form-body = Unesite vašu adresu e-pošte kako biste počeli.
 onboarding-join-form-email =
@@ -64,6 +69,11 @@ onboarding-benefit-privacy-title = Prava privatnost
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Sve što radimo poštuje naše obećanje o osobnim podacima: Uzmi manje podataka. Drži ih na sigurnom. Bez tajni.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Uzmi svoje oznake, lozinke, povijest i još mnogo toga gdje god koristiš { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Upravljaj lozinkama koje su zaštićene i prenosive.
 
 ## These strings belong to the individual onboarding messages.
 
