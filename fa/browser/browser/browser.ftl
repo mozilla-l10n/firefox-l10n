@@ -54,3 +54,12 @@ page-action-manage-extension =
     .label = مدیریت افزونه…
 page-action-remove-from-urlbar =
     .label = حذف از نوار آدرس
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = پنهان‌سازی نوارهای ابزار
+    .accesskey = پ
+full-screen-exit =
+    .label = خروج از حالت مرور تمام‌صفحه
+    .accesskey = ت
