@@ -56,3 +56,9 @@ page-action-manage-extension =
     .label = Kelola Ekstensi…
 page-action-remove-from-urlbar =
     .label = Singkirkan dari Bilah Alamat
+
+## Auto-hide Context Menu
+
+full-screen-exit =
+    .label = Keluar dari Mode Layar Penuh
+    .accesskey = P
