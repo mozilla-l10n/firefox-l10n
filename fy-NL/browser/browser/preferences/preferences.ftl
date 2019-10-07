@@ -640,6 +640,9 @@ sync-currently-syncing-prefs =
         [windows] Foarkarren
        *[other] Foarkarren
     }
+sync-change-options =
+    .label = Wizigje…
+    .accesskey = W
 
 ## The "Choose what to sync" dialog.
 
