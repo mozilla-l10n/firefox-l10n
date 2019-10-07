@@ -21,6 +21,7 @@ onboarding-button-label-get-started = Kom i gang
 onboarding-welcome-header = Velkomen til { -brand-short-name }
 onboarding-welcome-body = Du har nettlesaren.<br/>Møt resten av { -brand-product-name }.
 onboarding-welcome-learn-more = Les meir om fordelane.
+onboarding-welcome-modal-get-body = Du har nettlesaren.<br/>Få mest mogleg ut av { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Forsterk personvernsikringa di.
 onboarding-welcome-modal-privacy-body = Du har nettlesaren. La oss leggje til meir personvernsikring.
 onboarding-welcome-modal-family-learn-more = Les meir om produktfamilien til { -brand-product-name }.
