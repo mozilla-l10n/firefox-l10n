@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Zarządzaj rozszerzeniem…
 page-action-remove-from-urlbar =
     .label = Usuń z paska adresu
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Ukryj paski narzędzi
+    .accesskey = U
+full-screen-exit =
+    .label = Opuść tryb pełnoekranowy
+    .accesskey = O
