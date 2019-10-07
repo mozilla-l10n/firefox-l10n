@@ -509,6 +509,7 @@ search-bar-shown =
     .label = Dodajte traku pretraživanja u alatnu traku
 search-engine-default-header = Zadana tražilica
 search-engine-default-desc = Odaberite zadani pretraživač koji ćete koristiti u adresnoj traci i traci pretraživanja.
+search-engine-default-private-desc = Odaberi standardnu tražilicu za upotrebu u privatnim prozorima.
 search-separate-default-engine =
     .label = Koristi ovu tražilicu u privatnim prozorima
     .accesskey = K
@@ -643,6 +644,9 @@ sync-currently-syncing-prefs =
         [windows] Mogućnosti
        *[other] Postavke
     }
+sync-change-options =
+    .label = Promijeni …
+    .accesskey = P
 
 ## The "Choose what to sync" dialog.
 
