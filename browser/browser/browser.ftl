@@ -62,3 +62,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = Skrij orodne vrstice
     .accesskey = S
+full-screen-exit =
+    .label = Izhod iz celozaslonskega načina
+    .accesskey = C
