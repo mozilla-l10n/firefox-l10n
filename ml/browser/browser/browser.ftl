@@ -46,3 +46,12 @@ page-action-add-to-urlbar =
     .label = അഡ്രസ് ബാറിലേക്ക് ചേർക്കുക
 page-action-remove-from-urlbar =
     .label = അഡ്രസ് ബാറിൽ നിന്ന് നീക്കം ചെയ്യുക
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = ടൂള്‍ബാറുകള്‍ അദൃശ്യമാക്കുക
+    .accesskey = H
+full-screen-exit =
+    .label = പൂര്‍ണ്ണവലിപ്പത്തില്‍ നിന്നും പുറത്തു് കടക്കുക
+    .accesskey = F
