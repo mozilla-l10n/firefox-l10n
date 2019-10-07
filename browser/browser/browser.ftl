@@ -62,3 +62,6 @@ page-action-remove-from-urlbar =
 full-screen-autohide =
     .label = ツールバーを隠す
     .accesskey = H
+full-screen-exit =
+    .label = 全画面表示モードを終了
+    .accesskey = F
