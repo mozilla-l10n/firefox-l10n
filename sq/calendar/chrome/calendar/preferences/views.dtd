@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "E përgjithshme">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Parje Dite dhe Jave">
 <!ENTITY pref.calendar.view.multiweekview.caption "Parje me Shumë Javë">
 <!ENTITY pref.calendar.view.workweek.caption "Javë Pune">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Shfaq numra javësh në pamje dhe minimuaj">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "a">
 <!ENTITY pref.daysoff.label "Përfshi këto ditë në javën e punës:">
+
+<!ENTITY pref.workweekDays.label "Ditë jave pune:">
 
 <!ENTITY pref.calendar.view.daystart.label "Dita fillon më:">
 <!ENTITY pref.calendar.view.daystart.accesskey "D">
