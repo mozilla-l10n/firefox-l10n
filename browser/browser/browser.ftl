@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = Administri etendaĵon…
 page-action-remove-from-urlbar =
     .label = Forigi el adresa strio
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Kaŝi ilarojn
+    .accesskey = K
+full-screen-exit =
+    .label = Eliri el plenekrana reĝimo
+    .accesskey = P
