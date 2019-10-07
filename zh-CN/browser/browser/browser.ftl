@@ -56,3 +56,12 @@ page-action-manage-extension =
     .label = 管理扩展…
 page-action-remove-from-urlbar =
     .label = 从地址栏移除
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = 隐藏工具栏
+    .accesskey = H
+full-screen-exit =
+    .label = 退出全屏模式
+    .accesskey = F
