@@ -89,6 +89,12 @@ newtab-menu-show-privacy-info = Nossos patrocinadores e sua privacidade
 
 newtab-privacy-modal-button-done = Concluído
 newtab-privacy-modal-header = Sua privacidade é importante.
+newtab-privacy-modal-paragraph =
+    Além de mostrar histórias cativantes, exibimos também conteúdo relevante e
+    altamente avaliado de patrocinadores selecionados. Tenha certeza, seus dados
+    de navegação nunca saem da sua cópia pessoal do { -brand-product-name } —
+    nós não vemos esses dados, nem nossos patrocinadores.
+newtab-privacy-modal-link = Saiba como a privacidade funciona na página de nova aba
 
 
 
