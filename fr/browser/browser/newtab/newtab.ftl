@@ -89,6 +89,7 @@ newtab-menu-show-privacy-info = Nos sponsors et votre vie privée
 
 newtab-privacy-modal-button-done = Terminé
 newtab-privacy-modal-header = Votre vie privée compte pour nous.
+newtab-privacy-modal-paragraph = En plus de partager des histoires captivantes, nous vous montrons également des contenus pertinents et soigneusement sélectionnés de sponsors triés sur le volet. Rassurez-vous, vos données de navigation ne quittent jamais votre copie personnelle de { -brand-product-name } — nous ne les voyons pas, et nos sponsors non plus.
 
 
 
