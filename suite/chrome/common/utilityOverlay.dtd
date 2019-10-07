@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- these things need to move into utilityOverlay.xul -->
-<!ENTITY  offlineGoOfflineCmd.label                 "Modo desconectado">
+<!ENTITY  offlineGoOfflineCmd.label                 "Trabalhar sem acesso à internet">
 <!ENTITY  offlineGoOfflineCmd.accesskey             "d">
 
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label                   "Arquivo">
 <!ENTITY fileMenu.accesskey               "A">
@@ -62,13 +62,13 @@
 <!ENTITY selectAllCmd.label               "Selecionar tudo">
 <!ENTITY selectAllCmd.key                 "A">
 <!ENTITY selectAllCmd.accesskey           "S">
-<!ENTITY clearHistoryCmd.label            "Limpar histórico de pesquisa">  
-<!ENTITY clearHistoryCmd.accesskey        "h"> 
-<!ENTITY showSuggestionsCmd.label         "Mostrar sugestões">  
-<!ENTITY showSuggestionsCmd.accesskey     "s"> 
+<!ENTITY clearHistoryCmd.label            "Limpar histórico de pesquisa">
+<!ENTITY clearHistoryCmd.accesskey        "h">
+<!ENTITY showSuggestionsCmd.label         "Mostrar sugestões">
+<!ENTITY showSuggestionsCmd.accesskey     "s">
 <!ENTITY preferencesCmd.label             "Preferências">
-<!ENTITY preferencesCmd.key               "E">  
-<!ENTITY preferencesCmd.accesskey         "P"> 
+<!ENTITY preferencesCmd.key               "E">
+<!ENTITY preferencesCmd.accesskey         "P">
 <!ENTITY findBarCmd.key "F">
 <!-- LOCALIZATION NOTE (findBarCmd.accesskey): This accesskey should be within
      findBarCmd.label found in editorOverlay.dtd, findCmd.label in messenger.dtd
@@ -88,15 +88,15 @@
 <!ENTITY findTypeLinksCmd.label "Localizar links ao digitar">
 <!ENTITY findTypeLinksCmd.accesskey "k">
 
-<!ENTITY viewMenu.label                   "Exibir"> 
+<!ENTITY viewMenu.label                   "Exibir">
 <!ENTITY viewMenu.accesskey               "x">
-<!ENTITY viewToolbarsMenu.label           "Barra de ferramentas"> 
-<!ENTITY viewToolbarsMenu.accesskey       "B"> 
-<!ENTITY showTaskbarCmd.label             "Barra de status">  
-<!ENTITY showTaskbarCmd.accesskey         "s"> 
+<!ENTITY viewToolbarsMenu.label           "Barra de ferramentas">
+<!ENTITY viewToolbarsMenu.accesskey       "B">
+<!ENTITY showTaskbarCmd.label             "Barra de status">
+<!ENTITY showTaskbarCmd.accesskey         "s">
 
-<!ENTITY helpMenu.label                   "Ajuda"> 
-<!ENTITY helpMenu.accesskey               "u"> 
+<!ENTITY helpMenu.label                   "Ajuda">
+<!ENTITY helpMenu.accesskey               "u">
 
 <!ENTITY helpTroubleshootingInfo.label      "Dados para suporte">
 <!ENTITY helpTroubleshootingInfo.accesskey  "t">

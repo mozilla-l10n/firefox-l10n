@@ -61,11 +61,11 @@
 <!ENTITY compactFolders.accesskey "t">
 <!ENTITY emptyTrashCmd.label "Esvaziar lixeira">
 <!ENTITY emptyTrashCmd.accesskey "v">
-<!ENTITY offlineMenu.label "Modo desconectado">
+<!ENTITY offlineMenu.label "Modo offline">
 <!ENTITY offlineMenu.accesskey "o">
 <!ENTITY synchronizeOfflineCmd.label "Receber/sincronizar agora...">
 <!ENTITY synchronizeOfflineCmd.accesskey "R">
-<!ENTITY settingsOfflineCmd.label "Configurações para o modo desconectado...">
+<!ENTITY settingsOfflineCmd.label "Configurações do modo offline…">
 <!ENTITY settingsOfflineCmd.accesskey "c">
 <!ENTITY downloadSelectedCmd.label "Receber mensagens selecionadas">
 <!ENTITY downloadSelectedCmd.accesskey "s">
