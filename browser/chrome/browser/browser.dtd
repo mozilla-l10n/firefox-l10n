@@ -70,7 +70,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY taskManagerCmd.label "Gerenciador de tarefas">
 
-<!ENTITY goOfflineCmd.label "Trabalhar desconectado">
+<!ENTITY goOfflineCmd.label "Trabalhar offline">
 <!ENTITY goOfflineCmd.accesskey "o">
 
 <!ENTITY menubarCmd.label "Barra de menu">

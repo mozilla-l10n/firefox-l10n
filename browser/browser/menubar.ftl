@@ -53,7 +53,7 @@ menu-file-import-from-another-browser =
     .label = Importar de outro navegador…
     .accesskey = I
 menu-file-go-offline =
-    .label = Trabalhar desconectado
+    .label = Trabalhar offline
     .accesskey = o
 
 ## Edit Menu
