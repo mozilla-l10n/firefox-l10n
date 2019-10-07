@@ -59,6 +59,9 @@ page-action-remove-from-urlbar =
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = Sakrij alatne trake
+    .accesskey = k
 full-screen-exit =
     .label = Izađi iz prikaza potpunog ekrana
     .accesskey = p
