@@ -63,5 +63,5 @@ full-screen-autohide =
     .label = הסתרת סרגלים
     .accesskey = ה
 full-screen-exit =
-    .label = צא ממצב מסך מלא
+    .label = יציאה ממצב מסך מלא
     .accesskey = צ
