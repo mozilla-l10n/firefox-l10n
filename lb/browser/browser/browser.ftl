@@ -23,3 +23,15 @@ urlbar-translated-notification-anchor =
     .tooltiptext = Säitiwwersetzung geréieren
 urlbar-addons-notification-anchor =
     .tooltiptext = Add-on Installatioun Messagepanneau opmaachen
+
+## Page Action Context Menu
+
+
+## Auto-hide Context Menu
+
+full-screen-autohide =
+    .label = Symbolleescht ausblennen
+    .accesskey = H
+full-screen-exit =
+    .label = Aus dem Vollbildmodus erausgoen
+    .accesskey = F
