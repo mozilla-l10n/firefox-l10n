@@ -24,7 +24,10 @@
 <!ENTITY updatednewfirstrun_sync_title "Сметка">
 <!ENTITY firstrun_sync_message2 "Продължете откъдето сте спрели.">
 <!ENTITY firstrun_sync_subtext2 "Използвайте Sync, за да намерите отметките, паролите и другите неща, които запазвате в &brandShortName; на всички ваши устройства.">
+<!ENTITY updatednewfirstrun_sync_subtext "Влезте в сметката си, за да получите максимума от &brandShortName;">
 <!ENTITY firstrun_signin_message "Свържете се, започнете">
+<!ENTITY firstrun_sendtab_title "Изпращане на раздел">
+<!ENTITY firstrun_sendtab_message "Споделяйте раздели от мобилния до настолния – незабавно.">
 <!ENTITY firstrun_signin_button "Вписване в Sync">
 <!ENTITY newfirstrun_signin_button "Включване на Sync">
 <!ENTITY updatednewfirstrun_signin_button "Вписване в &brandShortName;">
@@ -45,6 +48,7 @@
 <!ENTITY firstrun_account_title "Вие">
 <!ENTITY firstrun_account_message "Имате &brandShortName; на друго устройство?">
 
+<!ENTITY firstrun_signup_button "Регистриране">
 
 <!ENTITY  onboard_start_restricted1 "Бъдете в безопасност и дръжте контрола с тази олекотена версия на &brandShortName;.">
 
@@ -882,8 +886,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Добре дошли при &brandShortName;">
+<!ENTITY activity_stream_signin_description "Синхронизирайте отметки, пароли и други с вашия Firefox Account.">
+<!ENTITY activity_stream_signin_button "Вписване">
 
+<!ENTITY activity_stream_signup_button "Регистриране">
+<!ENTITY activity_stream_signin_prompt "Вече имате профил?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Вписване.">
 
 <!ENTITY activity_stream_topsites "Често посещавани">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
