@@ -59,6 +59,9 @@ page-action-remove-from-urlbar =
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = Απόκρυψη γραμμών εργαλείων
+    .accesskey = ψ
 full-screen-exit =
     .label = Έξοδος από πλήρη οθόνη
     .accesskey = π
