@@ -83,6 +83,21 @@ newtab-menu-delete-history = 방문 기록에서 삭제
 newtab-menu-save-to-pocket = { -pocket-brand-name }에 저장
 newtab-menu-delete-pocket = { -pocket-brand-name }에서 삭제
 newtab-menu-archive-pocket = { -pocket-brand-name }에 보관
+newtab-menu-show-privacy-info = 우리의 스폰서와 개인정보 보호
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = 완료
+newtab-privacy-modal-header = 개인정보는 중요합니다.
+newtab-privacy-modal-paragraph =
+    매력적인 이야기를 정리해서 보여주는 것에 추가 적으로 엄선된 스폰서로 부터
+    관련성높고 철저하게 검토된 콘텐츠를 보여줍니다. 안심하세요. 사용자의 브라우징
+    데이터는 { -brand-product-name }의 사본을 남겨두지 않습니다. — 우리와 스폰서 모두
+    들여다 보지 않습니다.
+newtab-privacy-modal-link = 새 탭에서 개인 정보 보호 작동 방식 알아보기
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = 즐겨찾기 삭제
 # Bookmark is a verb here.
