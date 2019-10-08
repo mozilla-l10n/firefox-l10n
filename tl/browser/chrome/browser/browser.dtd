@@ -607,11 +607,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Tingnan ang Source Code ng Pahina">
 <!ENTITY viewPageSourceCmd.accesskey  "T">
-<!ENTITY viewFrameSourceCmd.label     "Ipakita ang Source Code ng Frame">
+<!ENTITY viewFrameSourceCmd.label     "Ipakita ang Frame Source">
 <!ENTITY viewFrameSourceCmd.accesskey "k">
 <!ENTITY viewPageInfoCmd.label        "Tingnan ang Impormasyon tungkol sa Pahina">
 <!ENTITY viewPageInfoCmd.accesskey    "i">
-<!ENTITY viewFrameInfoCmd.label       "Ipakita ang Impormasyon ng Frame">
+<!ENTITY viewFrameInfoCmd.label       "Ipakita ang Frame Info">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "I-reload ang Larawan">
 <!ENTITY reloadImageCmd.accesskey     "R">

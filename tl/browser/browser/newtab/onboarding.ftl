@@ -21,6 +21,8 @@ onboarding-button-label-get-started = Magsimula
 onboarding-welcome-header = Maligayang pagdating sa { -brand-short-name }
 onboarding-welcome-body = Nakuha mo na ang browser.<br/>Kilalanin ang iba pang miyembro ng { -brand-product-name }.
 onboarding-welcome-learn-more = Alamin ang mga benepisyo.
+onboarding-welcome-modal-supercharge-body = Itodo natin ang proteksyon mo sa privacy.
+onboarding-welcome-form-header = Magsimula Rito
 onboarding-join-form-header = Sumama sa { -brand-product-name }
 onboarding-join-form-body = Ipasok ang iyong email address para magsimula.
 onboarding-join-form-email =
@@ -64,6 +66,9 @@ onboarding-benefit-privacy-title = Tunay na Pribasiya
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Lahat ng aming ginagawa ay umaayon sa aming Pangako sa Personal na Data: Kaunti lang ang kunin. Pangalagaan ito. Walang mga sikreto.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 

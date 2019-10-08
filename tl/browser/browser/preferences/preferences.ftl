@@ -640,6 +640,9 @@ sync-currently-syncing-prefs =
         [windows] Mga Pagpipilian
        *[other] Mga Kagustuhan
     }
+sync-change-options =
+    .label = Baguhin…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
