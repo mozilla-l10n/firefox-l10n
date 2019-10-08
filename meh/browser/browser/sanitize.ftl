@@ -4,6 +4,9 @@
 
 sanitize-prefs-style =
     .style = width: 17em
+dialog-title =
+    .title = Xinó a nnánukunu ntañu´u…
+    .style = width: 34em
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.
@@ -32,3 +35,11 @@ data-section-label = Datos
 sanitize-everything-undo-warning = Ya´a nkuvi tanɨ.
 window-close =
     .key = w
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has not modified the default set
+# of history items to clear.
+sanitize-everything-warning = Náan kuaiyo a nnánukunu.
+# Warning that appears when "Time range to clear" is set to "Everything" in Clear
+# Recent History dialog, provided that the user has modified the default set of
+# history items to clear.
+sanitize-selected-warning = Náan kuaiyo daa nkajinu.

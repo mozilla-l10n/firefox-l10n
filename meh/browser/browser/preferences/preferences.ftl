@@ -219,7 +219,7 @@ home-prefs-recommended-by-learn-more = Naja satiñu
 home-prefs-highlights-options-bookmarks =
     .label = A ta´a ini noo´o
 home-prefs-highlights-option-most-recent-download =
-    .label = Nxinuun ntañu´u
+    .label = Nxinuun Ntañu´u
 
 ## Search Section
 

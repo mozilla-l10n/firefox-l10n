@@ -66,6 +66,12 @@ newtab-menu-delete-history = Xita nuu sɨ´ɨ nsá´ánu
 newtab-menu-save-to-pocket = Chuva´a nuu { -pocket-brand-name }
 newtab-menu-delete-pocket = Xita nuu { -pocket-brand-name }
 newtab-menu-archive-pocket = Chuva´a nuu { -pocket-brand-name }
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Xita a ta´a ini noo´o
 # Bookmark is a verb here.
@@ -124,6 +130,7 @@ newtab-section-header-highlights = Destacados
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Kajie´e nánuku, jee xine´e-ani daa tutu vii, tutu nátava káná jii daa inka nuu nnánukunu.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
