@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Розпочнімо
 onboarding-welcome-header = Вітаємо в { -brand-short-name }
 onboarding-welcome-body = Ви отримали браузер.<br/>Познайомтеся ближче з { -brand-product-name }.
 onboarding-welcome-learn-more = Дізнатися більше про переваги.
+onboarding-welcome-modal-get-body = Ви отримали браузер.<br/>Тепер отримайте максимум можливостей з { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Посильте захист своєї приватності.
+onboarding-welcome-modal-privacy-body = Ви отримали браузер. Тепер додаймо більше захисту приватності.
+onboarding-welcome-modal-family-learn-more = Дізнайтеся про інші продукти { -brand-product-name }.
+onboarding-welcome-form-header = Розпочніть тут
 onboarding-join-form-header = Приєднайтеся до спільноти { -brand-product-name }
 onboarding-join-form-body = Введіть адресу електронної пошти, щоб почати.
 onboarding-join-form-email =
@@ -64,6 +69,12 @@ onboarding-benefit-privacy-title = Справжня приватність
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Вся наша робота виконується з повагою до особистих даних користувачів: Збирати менше. Зберігати в безпеці. Жодних секретів.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Отримуйте доступ до закладок, паролів, історії та інших даних всюди, де ви використовуєте { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Отримуйте сповіщення, коли ваша особиста інформація з'являється у відомих витоках даних.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Отримайте безпечний доступ до паролів на всіх пристроях.
 
 ## These strings belong to the individual onboarding messages.
 
