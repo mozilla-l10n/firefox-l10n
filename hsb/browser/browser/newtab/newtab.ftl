@@ -83,6 +83,13 @@ newtab-menu-delete-history = Z historije zhašeć
 newtab-menu-save-to-pocket = Pola { -pocket-brand-name } składować
 newtab-menu-delete-pocket = Z { -pocket-brand-name } zhašeć
 newtab-menu-archive-pocket = W { -pocket-brand-name } archiwować
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Dokónčene
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Zapołožku wotstronić
 # Bookmark is a verb here.
