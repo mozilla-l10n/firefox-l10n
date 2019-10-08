@@ -65,3 +65,21 @@ full-screen-autohide =
 full-screen-exit =
     .label = Esci da schermo intero
     .accesskey = E
+
+## Search Engine selection buttons (one-offs)
+
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Adesso cerca con:
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Impostazioni ricerca
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Modifica le impostazioni di ricerca
+search-one-offs-context-open-new-tab =
+    .label = Cerca in una nuova scheda
+    .accesskey = n
+search-one-offs-context-set-as-default =
+    .label = Imposta come motore di ricerca predefinito
+    .accesskey = m
