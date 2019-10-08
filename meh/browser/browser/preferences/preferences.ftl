@@ -126,6 +126,9 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+download-always-ask-where =
+    .label = Ntaka ichi katu´un nuu´u nenu chuva´aní daa archivos
+    .accesskey = N
 applications-action-save =
     .label = Chuva´a archivo
 # Variables:
@@ -215,6 +218,8 @@ home-prefs-topsites-header =
 home-prefs-recommended-by-learn-more = Naja satiñu
 home-prefs-highlights-options-bookmarks =
     .label = A ta´a ini noo´o
+home-prefs-highlights-option-most-recent-download =
+    .label = Nxinuun ntañu´u
 
 ## Search Section
 
