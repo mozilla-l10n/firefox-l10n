@@ -395,13 +395,25 @@ enhanced-tracking-protection-setting-custom =
 
 
 content-blocking-all-cookies = Kuaiyo daa cookies
+content-blocking-all-third-party-cookies = Kuaiyo Cookies daa inka
 content-blocking-cryptominers = Criptomineros
+content-blocking-fingerprinters = Huellas dactilares
 content-blocking-learn-how = Kuni naja?
 content-blocking-warning-learn-how = Kutu´va naja
 content-blocking-reload-description = Nejika nakajie´e tuku daa pestañas saa kino daa nsama.
 content-blocking-reload-tabs-button =
     .label = Nakasɨ kuaiyo daa pestañas
     .accesskey = N
+content-blocking-trackers-label =
+    .label = Ka̱a̱ nita
+    .accesskey = K
+content-blocking-tracking-protection-option-all-windows =
+    .label = Kuaiyo daa ventana
+    .accesskey = K
+content-blocking-option-private =
+    .label = Ntu xini ventana yu´u
+    .accesskey = N
+content-blocking-tracking-protection-change-block-list = Sama lista nasɨ
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C

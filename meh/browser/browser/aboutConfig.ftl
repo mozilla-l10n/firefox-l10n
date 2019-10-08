@@ -13,7 +13,9 @@ about-config-search-input =
 
 
 
-about-config-show-all = Kune´ya kuaiyo
+about-config-search-input1 =
+    .placeholder = Sivɨ nánuku
+about-config-show-all = Kune´yá kuaiyo
 about-config-pref-add = Tee
 about-config-pref-toggle = Conmutar
 about-config-pref-edit = Natee

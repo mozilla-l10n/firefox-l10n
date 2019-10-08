@@ -82,6 +82,8 @@ cfr-whatsnew-button =
     .tooltiptext = Nakuvi a jíía íyo
 cfr-whatsnew-panel-header = Nakuvi a jíía íyo
 cfr-whatsnew-release-notes-link-text = Ka´vi tu´un kene jíía
+cfr-whatsnew-tracking-protect-title = Kumi noo´o nuu ka̱a̱ nita
+cfr-whatsnew-tracking-protect-link-text = Kune´ya reporte noo´o
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.

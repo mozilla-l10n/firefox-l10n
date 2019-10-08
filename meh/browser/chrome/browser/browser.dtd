@@ -633,9 +633,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 
 
+<!ENTITY contentBlocking.trackingProtection3.label "Ka̱a̱ nita">
 
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
+<!ENTITY contentBlocking.trackersView.label "Ka̱a̱ nita">
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies jii datos nuu ya´a">

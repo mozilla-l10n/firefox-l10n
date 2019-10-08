@@ -69,6 +69,7 @@ newtab-menu-archive-pocket = Chuva´a nuu { -pocket-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+newtab-privacy-modal-button-done = Nsá´á
 
 
 
