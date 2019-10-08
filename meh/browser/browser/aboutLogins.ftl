@@ -43,6 +43,7 @@ login-list-count =
        *[other] { $count }Nuu kajie´e sesión
     }
 login-list-name-option = Sivɨ (A-Z)
+login-list-breached-option = Nuu Web ntu vatu
 login-list-last-changed-option = Nuu nɨ'ɨ a nsama
 login-list-last-used-option = Nni´i nuu nɨ´ɨ
 login-list-intro-title = Ntu nani´i nuu kajie´e sesión
@@ -52,10 +53,18 @@ about-logins-login-list-empty-search-description = Ntu íyo tu´un ínu jii a n�
 login-list-item-title-new-login = A jíía inicio sesión
 login-list-item-subtitle-new-login = Chu´un credenciales noo´o a kajie´e sesión
 login-list-item-subtitle-missing-username = (Na íyo sivɨ ñɨvɨ)
+about-logins-list-item-warning-icon =
+    .alt = Ícono ntu vatu
+    .title = Nuu Web ntu vatu
+about-logins-list-item-breach-icon =
+    .title = Nuu Web ntu vatu
 
 ## Introduction screen
 
 login-intro-heading = ¿Nánuku daa nuu kajie´e sesión nchuva´a?Ke'i { -sync-brand-short-name }.
+login-intro-description = Dee nchuva´anu daa nuu kajie´e sesión { -brand-product-name } nuu inka ka̱a̱, ya´a kutuvi naja nani´inuma jee suni:
+login-intro-instruction-fxa = Sá´á a xíín kajie´e sesión nuu { -fxaccount-brand-name } jii ka̱a̱ nuu nkajie´enu sesión nchuva´a
+login-intro-instruction-fxa-settings = Kune´ya nkajinu nuu kajie´e sesión nuu daa ke´i { -sync-brand-short-name }
 about-logins-intro-instruction-help = Kivu <a data-l10n-name="help-link">{ -lockwise-brand-short-name }  </a> nuu kuvi chineidani noo´o
 
 ## Login
@@ -87,6 +96,7 @@ login-item-time-used = Nuu nɨ'ɨ a nsá´á: { DATETIME($timeUsed, day: "numeri
 
 ## Master Password notification
 
+master-password-notification-message = Kuamani ini noo´o jee, chu´un contraseña kuña´nu saa kutuvi daa nuu kajie´e sesión nchuva´a jii contraseñas
 master-password-reload-button =
     .label = Kajie´e sesión
     .accesskey = K
@@ -106,6 +116,7 @@ enable-password-sync-preferences-button =
 confirm-delete-dialog-title = Xina nuu kajie´e sesión ya´a?
 confirm-delete-dialog-message = Ya´a nkuvi tanɨ.
 confirm-delete-dialog-confirm-button = Xita
+confirm-discard-changes-dialog-message = Kuaiyo daa nsama jee ntu nchuva´a náan.
 
 ## Breach Alert notification
 
