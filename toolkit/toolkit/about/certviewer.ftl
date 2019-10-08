@@ -6,6 +6,7 @@ certificate-viewer-certificate-section-title = Certificado
 
 ## Error messages
 
+certificate-viewer-error-title = Algo salió mal.
 
 ## Certificate information labels
 
