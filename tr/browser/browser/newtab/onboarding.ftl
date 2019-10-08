@@ -21,6 +21,10 @@ onboarding-button-label-get-started = Başlayalım
 onboarding-welcome-header = { -brand-short-name } tarayıcısına hoş geldiniz
 onboarding-welcome-body = Tarayıcınız hazır. Ama { -brand-product-name } yalnızca bir tarayıcı değil.
 onboarding-welcome-learn-more = Avantajlar hakkında daha fazla bilgi alın.
+onboarding-welcome-modal-supercharge-body = Gizlilik korumanızı güçlendirin.
+onboarding-welcome-modal-privacy-body = Tarayıcınız hazır. Şimdi biraz daha gizlilik koruması ekleyelim.
+onboarding-welcome-modal-family-learn-more = { -brand-product-name } ürün ailesi hakkında bilgi alın.
+onboarding-welcome-form-header = Buradan başlayın
 onboarding-join-form-header = { -brand-product-name }’a katılın
 onboarding-join-form-body = Başlamak için e-posta adresinizi yazın.
 onboarding-join-form-email =
@@ -64,6 +68,11 @@ onboarding-benefit-privacy-title = Gerçek gizlilik
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Yaptığımız her şeyde Kişisel Veri Sözümüzü tutmaya ant içtik: Daha az veri topla. Güvenle sakla. Sır tutma.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Yer imlerinizi, parolalarınızı, geçmişinizi ve daha fazlasını { -brand-product-name } kullandığınız her yere taşıyın.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Parolalarınızı güvenle saklayın ve yanınızda taşıyın.
 
 ## These strings belong to the individual onboarding messages.
 
