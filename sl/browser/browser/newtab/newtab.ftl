@@ -83,12 +83,17 @@ newtab-menu-delete-history = Izbriši iz zgodovine
 newtab-menu-save-to-pocket = Shrani v { -pocket-brand-name }
 newtab-menu-delete-pocket = Izbriši iz { -pocket-brand-name }a
 newtab-menu-archive-pocket = Arhiviraj v { -pocket-brand-name }
-newtab-menu-show-privacy-info = Naši sponzorji in vaša zasebnost
+newtab-menu-show-privacy-info = Naši pokrovitelji in vaša zasebnost
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Končaj
 newtab-privacy-modal-header = Vaša zasebnost je pomembna.
+newtab-privacy-modal-paragraph =
+    Poleg zanimivih zgodb vam pokažemo tudi ustrezne, skrbno izbrane vsebine
+    izbranih pokroviteljev. Zagotavljamo vam, da vaši podatki o brskanju nikoli
+    ne zapustijo vašega { -brand-product-name }a. Ne vidimo jih niti mi niti naši
+    pokrovitelji.
 newtab-privacy-modal-link = Spoznajte, kako deluje zasebnost v novem zavihku
 
 
