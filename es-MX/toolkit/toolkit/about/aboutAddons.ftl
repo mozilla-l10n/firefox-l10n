@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = Última actualización
 detail-contributions-description = El desarrollador de este complemento te pide que le ayudes en su desarrollo, haciendo una pequeña contribución.
+detail-contributions-button = Contribuir
+    .title = Contribuir al desarrollo de este complemento
+    .accesskey = C
 detail-update-type =
     .value = Actualizaciones automáticas
 detail-update-default =
@@ -90,6 +93,16 @@ detail-update-manual =
     .tooltiptext = No instalar actualizaciones automáticamente
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Ejecutar en ventanas privadas
+detail-private-browsing-description2 = Cuando esté permitido, la extensión tendrá acceso a tu actividad en línea mientras navegas de forma privada. <label data-l10n-name="detail-private-browsing-learn-more">Saber más</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = No permitido en ventanas privadas
+detail-private-disallowed-description = Esta extensión no se ejecuta durante la navegación privada. <label data-l10n-name="detail-private-browsing-learn-more">Saber más</label>
+detail-private-disallowed-description2 = Esta extensión no se ejecuta mientras estés en navegación privada. <a data-l10n-name="learn-more">Saber más</a>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Requiere acceso a ventanas privadas
+detail-private-required-description = Esta extensión tiene acceso a tus actividades en línea mientras navegas de forma privada. <label data-l10n-name="detail-private-browsing-learn-more">Saber más</label>
+detail-private-required-description2 = Esta extensión tiene acceso a tu actividad en línea mientras navegas de forma privada. <a data-l10n-name="learn-more">Saber más</a>
 detail-private-browsing-on =
     .label = Permitir
     .tooltiptext = Activar en navegación privada
@@ -138,6 +151,12 @@ legacy-warning-show-legacy = Mostrar las extensiones heredadas
 legacy-extensions =
     .value = Extensiones heredadas
 legacy-extensions-description = Estas extensiones no cumplen los estándares actuales de { -brand-short-name } por lo que han sido desactivadas. <label data-l10n-name="legacy-learn-more">Aprender más sobre los cambios de los complementos</label>
+private-browsing-description2 =
+    { -brand-short-name } está cambiando la forma en que funcionan las extensiones en la navegación privada. Cualquier nueva extensión que agregues a
+    { -brand-short-name } no se ejecutará de forma predeterminada en las ventanas privadas. A menos que lo permitas en los Ajustes, la
+    la extensión no funcionará durante la navegación privada, y no tendrá acceso a tus actividades en línea
+    ahí. Hemos realizado este cambio para mantener privada tu navegación privada.
+    <label data-l10n-name = "private-browsing-learn-more">Descubre cómo administrar la configuración de las extensiones.</label>
 extensions-view-discopane =
     .name = Recomendaciones
     .tooltiptext = { extensions-view-discopane.name }
@@ -218,13 +237,36 @@ extensions-updates-update-selected =
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = Administrar atajos de extensiones
+    .accesskey = s
 shortcuts-no-addons = No tienes complementos habilitados.
+shortcuts-no-commands = Las siguientes extensiones no tienen atajos:
+shortcuts-input =
+    .placeholder = Escribe un atajo
 shortcuts-browserAction = Activar extensión
 shortcuts-pageAction = Activar acción de página
 shortcuts-sidebarAction = Alternar la barra lateral
 shortcuts-modifier-mac = Incluir Ctrl, Alt o ⌘
 shortcuts-modifier-other = Incluir Ctrl o Alt
 shortcuts-invalid = Combinación inválida
+shortcuts-letter = Escribe una letra
+shortcuts-system = No se puede sobrescribir un acceso directo de { -brand-short-name }.
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Duplicar acceso directo
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } se está usando como atajo en más de un caso. Los accesos directos duplicados pueden causar un comportamiento inesperado.
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Ya lo está usando { $addon }
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Mostrar { $numberToShow } más
+       *[other] Mostrar { $numberToShow } más
+    }
 shortcuts-card-collapse-button = Mostrar menos
 go-back-button =
     .tooltiptext = Regresar
@@ -243,6 +285,15 @@ discopane-intro =
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Algunas de estas recomendaciones son personalizadas. Se basan complementos instaladas, preferencias de tu perfil y estadísticas de uso.
 discopane-notice-learn-more = Saber más
+privacy-policy = Política de privacidad
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = por <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Usuarios: { $dailyUsers }
 install-extension-button = Agregar a { -brand-product-name }
 install-theme-button = Instalar tema
 # The label of the button that appears after installing an add-on. Upon click,
@@ -328,6 +379,7 @@ addon-badge-private-browsing-allowed =
 addon-badge-private-browsing-allowed2 =
     .title = Permitido en ventanas privadas
     .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-help = Cuando está activada, la extensión tendrá acceso a todo lo que haces mientras navegas de forma privada. <a data-l10n-name="learn-more">Saber más</a>
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = No permitir
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
@@ -335,9 +387,18 @@ addon-detail-private-browsing-disallow = No permitir
 addon-badge-recommended =
     .title = Recomendada
     .alt = Recomendada
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } solo recomienda extensiones que cumplan con nuestros estándares de seguridad y rendimiento
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Actualizaciones disponibles
 recent-updates-heading = Actualizaciones recientes
 release-notes-loading = Cargando…
+release-notes-error = Lo sentimos, pero ha sucedido un error al cargar las notas de versión.
 addon-permissions-empty = Esta extensión no requiere ningún permiso
 recommended-extensions-heading = Complementos recomendados
 recommended-themes-heading = Temas recomendados
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = ¿Te sientes creativo? <a data-l10n-name="link"> Crea tu propio tema con Firefox Color. </a>
