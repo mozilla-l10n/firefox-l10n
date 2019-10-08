@@ -21,6 +21,7 @@ onboarding-button-label-get-started = Ñepyrũ
 onboarding-welcome-header = Eg̃uahẽporãite { -brand-short-name }-pe
 onboarding-welcome-body = Eguerekóma kundaha.<br/>Eikuaa opamba’e { -brand-product-name } rehegua.
 onboarding-welcome-learn-more = Eikuaave mba’eporã rehegua.
+onboarding-welcome-form-header = Eñepyrũ ápe
 onboarding-join-form-header = Ejuaju { -brand-product-name } rehe
 onboarding-join-form-body = Eñepyrũ hag̃ua, ehai ne ñanduti veve kundaharape.
 onboarding-join-form-email =
@@ -64,6 +65,8 @@ onboarding-benefit-privacy-title = Ñemigua añetetéva
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Rojapóva guive omomba’e mba’ekuaarã nemba’éva: E’u’ive. Eguereko tekorosãme. Kañygua’ỹre.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }{ -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 

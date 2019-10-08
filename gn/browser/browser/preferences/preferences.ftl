@@ -633,6 +633,9 @@ sync-currently-syncing-prefs =
         [windows] Jerohoryvéva
        *[other] Jerohoryvéva
     }
+sync-change-options =
+    .label = Moambue
+    .accesskey = M
 
 ## The "Choose what to sync" dialog.
 
@@ -643,7 +646,6 @@ sync-choose-what-to-sync-dialog =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Emboty tembiapo…
     .buttonaccesskeyextra2 = D
-sync-choose-heading = Eiporavo embojuehétava ne mba’ete mba'e'oka oipurúva { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Techaukaha
     .accesskey = m
