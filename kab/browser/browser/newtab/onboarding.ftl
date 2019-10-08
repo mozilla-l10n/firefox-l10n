@@ -21,6 +21,7 @@ onboarding-button-label-get-started = Bdu
 onboarding-welcome-header = Ansuf γer { -brand-short-name }
 onboarding-welcome-body = Tesɛiḍ iminig. <br/> Wali ayen id-yeqqimen seg { -brand-product-name }.
 onboarding-welcome-learn-more = Lmed ugar ɣef ayen yeɛnan ibaɣuren.
+onboarding-welcome-form-header = Bdu dagi
 onboarding-join-form-header = Kki { -brand-product-name }
 onboarding-join-form-body = Sekcem tansa-inek imayl iwakken ad tebduḍ.
 onboarding-join-form-email =
