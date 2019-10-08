@@ -83,6 +83,14 @@ newtab-menu-delete-history = Burahin sa Kasaysayan
 newtab-menu-save-to-pocket = I-save sa { -pocket-brand-name }
 newtab-menu-delete-pocket = I-delete sa { -pocket-brand-name }
 newtab-menu-archive-pocket = Mag-archive sa { -pocket-brand-name }
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Tapos na
+newtab-privacy-modal-header = Mahalaga ang iyong privacy.
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Alisin ang Bookmark
 # Bookmark is a verb here.
