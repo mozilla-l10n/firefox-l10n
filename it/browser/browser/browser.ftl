@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Imposta come motore di ricerca predefinito
     .accesskey = m
+search-one-offs-context-set-as-default-private =
+    .label = Imposta come motore di ricerca predefinito in finestre anonime
+    .accesskey = a
