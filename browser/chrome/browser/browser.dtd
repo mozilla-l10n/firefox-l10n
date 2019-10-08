@@ -991,6 +991,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.socialblock.label "متعقبات مواقع التواصل الاجتماعي">
 
+<!ENTITY contentBlocking.cookies2.label "كعكات تتعقّبك بين المواقع">
 
 <!ENTITY contentBlocking.cryptominers.label "المُعدّنات المعمّاة">
 <!ENTITY contentBlocking.cryptominersView.label "المُعدّنات المعمّاة">
@@ -1003,8 +1004,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "يمكن أن يتسبّب حجب المحتوى بمشاكل مع بعض المواقع. عندما تُبلغ عن المشاكل تكون تساعد في جعل &brandShortName; أفضل للجميع. (سيُرسل هذا مسار الصفحة كما ومعلومات عن إعدادات المتصفح لديك إلى موزيلا.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "اطّلع على المزيد">
 
+<!ENTITY contentBlocking.breakageReportView2.learnMore "اطّلع على المزيد">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "المسار">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "ما المشاكل التي تواجهها؟ (اختياري)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "لو أردت: صِف المشكلة">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "أرسِل البلاغ">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "ألغِ">
 
