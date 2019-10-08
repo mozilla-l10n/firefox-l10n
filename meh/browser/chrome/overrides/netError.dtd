@@ -5,6 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
+<!ENTITY loadError.label "Ntu nkuvi síne página ya´a">
 <!ENTITY retry.label "Nasá´á tuku">
 
 <!-- Specific error messages -->
@@ -17,6 +18,9 @@
 
 
 <!ENTITY generic.title "Oops.">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; íyo iin a sá´á ntu kuvi síne página ya´a.</p>
+">
 
 
 
@@ -59,6 +63,7 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
 
 
 
