@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+abuse-report-dialog-title = Segnalazione per { $addon-name }
 abuse-report-title-extension = Segnala questa estensione a { -vendor-short-name }
 abuse-report-title-theme = Segnala questo tema a { -vendor-short-name }
 abuse-report-subtitle = Qual è il problema?
