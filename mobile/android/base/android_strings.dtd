@@ -29,6 +29,7 @@
 <!ENTITY updatednewfirstrun_sync_subtext "Conéctate a tu cuenta para sacarle más provecho a &brandShortName;">
 <!ENTITY firstrun_signin_message "Conéctate, inicia">
 <!ENTITY firstrun_sendtab_title "Enviar pestaña">
+<!ENTITY firstrun_sendtab_message "Comparte pestañas desde tu móvil al escritorio — instantáneamente.">
 <!ENTITY firstrun_signin_button "Conectarse a Sync">
 <!ENTITY newfirstrun_signin_button "Activar la sincronización">
 <!ENTITY updatednewfirstrun_signin_button "Conectarse a &brandShortName;">
