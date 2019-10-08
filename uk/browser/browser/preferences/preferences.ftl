@@ -644,6 +644,9 @@ sync-currently-syncing-prefs =
         [windows] Налаштування
        *[other] Налаштування
     }
+sync-change-options =
+    .label = Змінити…
+    .accesskey = З
 
 ## The "Choose what to sync" dialog.
 
