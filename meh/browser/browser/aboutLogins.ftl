@@ -27,6 +27,8 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Síne menu
+# This menuitem is only visible on Windows
+menu-menuitem-import = Taji daa contraseñas...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Kaji
@@ -38,6 +40,8 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } iPhone jíí iPad
 
 ## Login List
 
+login-list =
+    .aria-label = Nuu kajie´e sesión a íyo inu jii a nánukunu
 login-list-count =
     { $count ->
        *[other] { $count }Nuu kajie´e sesión
