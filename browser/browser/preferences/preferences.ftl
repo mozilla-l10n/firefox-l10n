@@ -331,7 +331,7 @@ update-history =
     .accesskey = ظ
 update-application-allow-description = اسمح ل‍{ -brand-short-name } أن
 update-application-auto =
-    .label = نزّل التحديثات تلقائيا (مستحسن)
+    .label = ينزّل التحديثات تلقائيا (مستحسن)
     .accesskey = ن
 update-application-check-choose =
     .label = يلتمس التحديثات، و لكن يترك لك خيار تنصيبها من عدمه
@@ -736,6 +736,7 @@ forms-exceptions =
 forms-generate-passwords =
     .label = ولّد كلمات سر قوية واقترحها عليّ
     .accesskey = ك
+forms-breach-alerts-learn-more-link = اطّلع على المزيد
 forms-fill-logins-and-passwords =
     .label = املأ جلسات الولوج وكلمات السر تلقائيا
     .accesskey = م
@@ -817,6 +818,8 @@ sitedata-block-desc = النوع المحجوب
     .accesskey = ن
 sitedata-option-block-trackers =
     .label = متعقّبات الأطراف الثالثة
+sitedata-option-block-cross-site-trackers =
+    .label = المتعقّبات بين المواقع
 sitedata-option-block-unvisited =
     .label = الكعكات من المواقع غير المُزارة
 sitedata-option-block-all-third-party =
@@ -852,6 +855,7 @@ addressbar-suggestions-settings = غيّر تفضيلات اقتراحات مح�
 
 content-blocking-header = حجب المحتوى
 content-blocking-section-description = احمِ خصوصيتك وأنت تتصفح الوِب بحجب المحتوى الذي يتعقّب المواقع التي تزورها دون أن تعلم، كما ويسجّلها باسمك. يمكنك بحجب جزء من هذا المحتوى تحميل الصفحات بسرعة أكبر.
+content-blocking-enhanced-tracking-protection = الحماية الموسّعة من التعقب
 content-blocking-learn-more = اطّلع على المزيد
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -886,15 +890,20 @@ enhanced-tracking-protection-setting-custom =
 
 
 
+content-blocking-etp-strict-desc = حماية أقوى وأعتى، لكنها قد تعطب محتويات بعض المواقع أو المواقع نفسها.
+content-blocking-etp-custom-desc = اختر المتعقّبات والسكربتات التي تريد حجبها.
+content-blocking-cross-site-tracking-cookies = كعكات تتعقّبك بين المواقع
+content-blocking-social-media-trackers = متعقبات مواقع التواصل الاجتماعي
 content-blocking-all-cookies = كل الكعكات
 content-blocking-unvisited-cookies = الكعكات من المواقع غير المُزارة
 content-blocking-all-windows-trackers = المتعقّبات المعروفة في كل النوافذ
 content-blocking-all-third-party-cookies = كل الكعكات من الأطراف الثالثة
 content-blocking-cryptominers = المُعدّنات المعمّاة
 content-blocking-fingerprinters = مسجّلات البصمات
-content-blocking-warning-title = كُن على علم!
+content-blocking-warning-title = انتبه!
 content-blocking-warning-description = يمكن أن تعطب بعض المواقع إن حُجب المحتوى. يمكنك بسهولة إلغاء أي نوع حجب للمواقع التي تثق بها.
 content-blocking-learn-how = اطّلع على الطريقة
+content-blocking-warning-learn-how = اطّلع على المزيد
 content-blocking-reload-description = عليك إعادة تحميل الألسنة لتأخذ هذه التغييرات مفعولها.
 content-blocking-reload-tabs-button =
     .label = أعِد تحميل كل الألسنة
