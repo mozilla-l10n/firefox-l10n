@@ -463,4 +463,10 @@ space-alert-under-5gb-ok-button =
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = Escritorio
 downloads-folder-name = Nxinuu
+choose-download-folder-title = Kaji carpeta chuva´a daa nxinuun:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Chuva´a archivos nuu { $service-name }
