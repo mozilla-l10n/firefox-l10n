@@ -83,6 +83,21 @@ newtab-menu-delete-history = Kustuta ajaloost
 newtab-menu-save-to-pocket = Salvesta { -pocket-brand-name }isse
 newtab-menu-delete-pocket = Kustuta { -pocket-brand-name }ist
 newtab-menu-archive-pocket = Arhiveeri { -pocket-brand-name }is
+newtab-menu-show-privacy-info = Meie sponsoritest ja sinu privaatsusest
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Valmis
+newtab-privacy-modal-header = Sinu privaatsus on oluline.
+newtab-privacy-modal-paragraph =
+    Lisaks põnevate lugude esiletoomisele kuvame me ka asjakohast ja hoolikalt
+    kontrollitud sisu valitud sponsoritelt. Võid kindel olla, et lehitsemise andmed
+    ei välju sinu { -brand-product-name }ist — meie ei näe neid ja samuti ka meie
+    sponsorid mitte.
+newtab-privacy-modal-link = Rohkem teavet uue kaardi privaatsuse kohta
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Eemalda järjehoidja
 # Bookmark is a verb here.
