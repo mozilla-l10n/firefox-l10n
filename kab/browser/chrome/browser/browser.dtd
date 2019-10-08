@@ -443,6 +443,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Qqen akken ad d-tsekneḍ tabdart n waccaren seg yibenkan-ik-nniḍen.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Amiḍan-ik yeḥwaǧ ad ittusenqed.">
 <!ENTITY appMenuRemoteTabs.signin.label "Qqen ɣer Sync">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Rmed &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Sefrek ibenkan…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sken agalis adisan n waccaren yemtawin">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Ffer agalis adisan n waccaren yemtawin">

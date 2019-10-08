@@ -640,6 +640,9 @@ sync-currently-syncing-prefs =
         [windows] Iɣewwaṛen
        *[other] Ismenyifen
     }
+sync-change-options =
+    .label = Snifel…
+    .accesskey = f
 
 ## The "Choose what to sync" dialog.
 
