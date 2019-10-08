@@ -272,6 +272,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Tuvi kuaiyo sɨ´ɨ">
+<!ENTITY appMenuHistory.clearRecent.label "Xinó a nnánukunu ntañu´u…">
 <!ENTITY appMenuHelp.label "Chinei">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
