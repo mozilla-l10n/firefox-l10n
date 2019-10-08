@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Empezar
 onboarding-welcome-header = Bienvenido a { -brand-short-name }
 onboarding-welcome-body = Tienes el navegador.<br/>Ahora conoce al resto de { -brand-product-name }.
 onboarding-welcome-learn-more = Aprende más acerca de los beneficios.
+onboarding-welcome-modal-get-body = Tienes el navegador.<br/>Ahora sácale el máximo provecho a { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Maximiza tu protección de privacidad.
+onboarding-welcome-modal-privacy-body = Tienes el navegador. Ahora añade más protección de privacidad.
+onboarding-welcome-modal-family-learn-more = Aprender sobre la familia de productos de { -brand-product-name }.
+onboarding-welcome-form-header = Empieza aquí
 onboarding-join-form-header = Únete a { -brand-product-name }
 onboarding-join-form-body = Ingresa tu dirección de correo para empezar.
 onboarding-join-form-email =
@@ -64,6 +69,12 @@ onboarding-benefit-privacy-title = Privacidad de verdad
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Todo lo que hacemos honra nuestra promesa de datos personales: Tomar menos. Mantenerlo seguro. Sin secretos.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Lleva tus marcadores, contraseñas, historial y más en todas partes donde uses { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Recibe notificaciones cuando tu información personal sea encontrada en una filtración de datos conocida.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Gestiona contraseñas manteniéndolas protegidas y contigo.
 
 ## These strings belong to the individual onboarding messages.
 

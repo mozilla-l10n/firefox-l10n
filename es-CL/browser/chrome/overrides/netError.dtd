@@ -195,5 +195,8 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Parece que tus ajustes de seguridad de red están causando esto. ¿Quieres que se restauren los ajustes predeterminados?">
 <!ENTITY prefReset.label "Restaurar ajustes predeterminados">
 
+<!ENTITY enableTls10.note "TLS 1.0 y TLS 1.1 serán deshabilitados permanentemente en una versión futura.">
+<!ENTITY enableTls10.label "Habilitar TLS 1.0 y 1.1">
+
 <!ENTITY networkProtocolError.title "Error de protocolo de red">
 <!ENTITY networkProtocolError.longDesc "<p>La página que estás intentando ver no puede ser mostrada debido a un error detectado en el protocolo de red.</p><ul><li>Por favor, contacta al propietario del sitio para informarle de este problema.</li></ul>">

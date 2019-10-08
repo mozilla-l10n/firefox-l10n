@@ -35,6 +35,8 @@ app-basics-name = Nombre
 app-basics-version = Versión
 app-basics-build-id = ID de compilación
 app-basics-update-channel = Canal de actualización
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Directorio de actualización
@@ -59,7 +61,6 @@ app-basics-service-workers = Service Workers registrados
 app-basics-profiles = Perfiles
 app-basics-launcher-process-status = Proceso lanzador
 app-basics-multi-process-support = Ventanas multiproceso
-app-basics-process-count = Procesos de contenido web
 app-basics-remote-processes-count = Procesos remotos
 app-basics-enterprise-policies = Políticas empresariales
 app-basics-location-service-key-google = Clave del servicio de localización de Google
@@ -115,6 +116,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumentos
 safe-mode-title = Probar el modo seguro
 restart-in-safe-mode-label = Reiniciar sin complementos…
+
+## Media titles
+
+audio-backend = Backend de audio
+max-audio-channels = Canales máximos
+channel-layout = Esquema de canales preferido
+sample-rate = Frecuencia de muestreo preferida
 media-title = Medios
 media-output-devices-title = Dispositivos de salida
 media-input-devices-title = Dispositivos de entrada
@@ -127,6 +135,12 @@ media-device-format = Formato
 media-device-channels = Canales
 media-device-rate = Frecuencia
 media-device-latency = Latencia
+media-capabilities-title = Capacidades de medios
+# List all the entries of the database.
+media-capabilities-enumerate = Enumerar base de datos
+
+
+
 intl-title = Internacionalización y localización
 intl-app-title = Ajustes de aplicación
 intl-locales-requested = Localizaciones solicitadas
@@ -241,12 +255,7 @@ uses-tiling = Usa mosaicos
 content-uses-tiling = Usa mosaicos (contenido)
 off-main-thread-paint-enabled = Pintura fuera del hilo principal activada
 off-main-thread-paint-worker-count = Número de workers de pintura fuera del hilo principal
-low-end-machine = Se ha detectado un equipo de menor rendimiento
 target-frame-rate = Tasa de cuadros objetivo
-audio-backend = Backend de audio
-max-audio-channels = Canales máximos
-channel-layout = Esquema de canales preferido
-sample-rate = Frecuencia de muestreo preferida
 min-lib-versions = Versión mínima esperada
 loaded-lib-versions = Versión en uso
 has-seccomp-bpf = Seccomp-BPF (Filtrado de llamadas del sistema)
