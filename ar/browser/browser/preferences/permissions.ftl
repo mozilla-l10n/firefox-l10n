@@ -67,6 +67,10 @@ permissions-exceptions-content-blocking-window =
     .title = الاستثناءات - حجب المحتوى
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = عطّلت حجب المحتوى في هذه المواقع.
+permissions-exceptions-etp-window =
+    .title = استثناءات الحماية الموسّعة من التعقب
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = عطّلت مزايا الحماية في هذه المواقع.
 
 ## Exceptions - Cookies
 

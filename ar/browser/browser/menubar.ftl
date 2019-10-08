@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = ملء الشاشة
     .accesskey = ش
 
-##
+
 
 menu-view-show-all-tabs =
     .label = أظهِر كل الألسنة
@@ -212,11 +212,20 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = لِج إلى { -sync-brand-short-name }…
     .accesskey = ل
+menu-tools-fxa-sign-in =
+    .label = لِج إلى { -brand-product-name }…
+    .accesskey = ل
+menu-tools-turn-on-sync =
+    .label = فعّل { -sync-brand-short-name }…
+    .accesskey = ف
 menu-tools-sync-now =
     .label = زامِن الآن
     .accesskey = ز
 menu-tools-sync-re-auth =
     .label = أعِد الاتصال مع { -sync-brand-short-name }…
+    .accesskey = ع
+menu-tools-fxa-re-auth =
+    .label = أعِد الاتصال بِ‍ { -brand-product-name }…
     .accesskey = ع
 menu-tools-web-developer =
     .label = مطوّري الوب
