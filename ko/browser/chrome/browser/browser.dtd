@@ -75,7 +75,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "메뉴 모음">
 <!ENTITY menubarCmd.accesskey "M">
-<!ENTITY navbarCmd.label "주소창 모음">
+<!ENTITY navbarCmd.label "탐색 모음">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
@@ -158,18 +158,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "로그인 됨">
 <!ENTITY fxa.menu.manageAccount.label "계정 관리…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; 설정…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; 설정…">
+<!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; 설정">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "다른 기기 연결…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "&brandProductName;에 로그인">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; 켜기">
-<!ENTITY fxa.menu.account.label "계정">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; 서비스">
+
+<!ENTITY fxa.menu.account.label "계정">
+<!ENTITY fxa.menu.settings.label "설정">
+<!ENTITY fxa.menu.accountSettings.label "계정 설정">
+<!ENTITY fxa.menu.signOut.label "로그 아웃…">
+<!ENTITY fxa.menu.deviceSettings.label "기기 설정">
+<!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label; 설정…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -983,10 +990,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "추적기">
 
 <!ENTITY contentBlocking.manageSettings.label "콘텐츠 차단 관리">
-
-<!ENTITY contentBlocking.trackingProtection4.label "추적 콘텐츠">
-
-<!ENTITY contentBlocking.manageSettings2.label "보호 설정 관리">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "추적기">
@@ -995,6 +998,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "쿠키">
 <!ENTITY contentBlocking.cookiesView.label "쿠키와 사이트 데이터">
 
+<!ENTITY contentBlocking.trackingProtection4.label "추적 콘텐츠">
+
+<!ENTITY contentBlocking.manageSettings2.label "보호 설정 관리">
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "소셜 미디어 추적기">

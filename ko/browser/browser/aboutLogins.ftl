@@ -146,5 +146,10 @@ breach-alert-dismiss =
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login = 해당 사용자 이름으로 { $loginTitle }에 대한 항목이 이미 존재합니다.
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = 해당 사용자 이름으로 { $loginTitle }에 대한 항목이 이미 존재합니다. <a data-l10n-name="duplicate-link">기존 항목으로 이동하시겠습니까?</a>
 # This is a generic error message.
 about-logins-error-message-default = 이 비밀번호를 저장하는 중 오류가 발생했습니다.

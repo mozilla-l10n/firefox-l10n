@@ -295,7 +295,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = 디지털 권리 관리(DRM) 콘텐츠
 play-drm-content =
@@ -489,11 +489,17 @@ search-bar-shown =
     .label = 도구 모음에 검색 표시줄 추가
 search-engine-default-header = 기본 검색 사이트
 search-engine-default-desc = 주소바와 검색바에서 사용할 기본 검색 엔진을 선택하세요.
+search-engine-default-private-desc = 사생활 보호 창에서 사용할 기본 검색 엔진을 선택하십시오.
+search-separate-default-engine =
+    .label = 이 검색 엔진을 사생활 보호 창에서 사용
+    .accesskey = U
+search-suggestions-header = 검색 제안
+search-suggestions-desc = 검색 엔진의 제안 사항 표시 방법을 선택하십시오.
 search-suggestions-option =
-    .label = 검색어 자동 완성 사용
+    .label = 검색 제안 사용
     .accesskey = s
 search-show-suggestions-url-bar-option =
-    .label = 주소창 결과에 검색 추천 보이기
+    .label = 주소창 결과에 검색 제안 보이기
     .accesskey = l
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -501,8 +507,9 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = 주소창 결과의 방문 기록 앞에 검색 추천 보이기
-search-suggestions-cant-show = { -brand-short-name }가 탐색 목록을 저장하지 않도록 설정했기 때문에 주소창 결과에 검색 추천이 나오지 않을 것입니다.
+    .label = 주소창 결과의 방문 기록 앞에 검색 제안 보이기
+suggestions-addressbar-settings = 방문 기록, 북마크 및 탭 제안에 대한 설정 변경
+search-suggestions-cant-show = 방문 기록을 기억하지 않도록 { -brand-short-name }를 구성했기 때문에 검색 제안이 주소창 결과에 표시되지 않습니다.
 search-one-click-header = 원클릭 검색 사이트
 search-one-click-desc = 단어 입력을 시작했을 때 주소바와 검색바 아래에 나타날 대체 검색 엔진을 선택하세요.
 search-choose-engine-column =
@@ -538,6 +545,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = 웹과 함께 하세요.
 sync-signedout-description = 북마크, 방문 기록, 탭, 비밀번호, 부가기능, 설정을 모든 기기에 걸쳐 동기화 하세요.
 sync-signedout-account-title = { -fxaccount-brand-name }과 연결
@@ -558,11 +569,17 @@ sync-mobile-promo = 모바일 기기와 동기화하기 위해서 Firefox <img d
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = 프로필 사진 변경
 sync-disconnect =
     .label = 연결 끊기…
     .accesskey = D
+sync-sign-out =
+    .label = 로그아웃…
+    .accesskey = g
 sync-manage-account = 계정 관리
     .accesskey = o
 sync-signedin-unverified = { $email } 은 아직 인증되지 않았습니다.
@@ -578,6 +595,45 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = 동기화 설정
 sync-signedin-settings-desc = { -brand-short-name }를 사용 중인 기기에서 동기화할 내용을 선택하세요.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = 동기화 : 켜짐
+prefs-syncing-off = 동기화 : 꺼짐
+prefs-sync-setup =
+    .label = { -sync-brand-short-name } 설정…
+    .accesskey = S
+prefs-sync-offer-setup-label = 북마크, 방문 기록, 탭, 비밀번호, 부가기능 및 설정을 모든 기기에 걸쳐 동기화하세요.
+prefs-sync-now =
+    .labelnotsyncing = 지금 동기화
+    .accesskeynotsyncing = N
+    .labelsyncing = 동기화중…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = 현재 다음 항목을 동기화 중입니다:
+sync-currently-syncing-bookmarks = 북마크
+sync-currently-syncing-history = 방문 기록
+sync-currently-syncing-tabs = 열린 탭
+sync-currently-syncing-logins-passwords = 로그인과 비밀번호
+sync-currently-syncing-addresses = 주소
+sync-currently-syncing-creditcards = 신용카드
+sync-currently-syncing-addons = 부가 기능
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] 설정
+       *[other] 설정
+    }
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = 동기화할 항목 선택
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = 변경 내용 저장
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = 연결 끊기…
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = 북마크
     .accesskey = m
@@ -590,6 +646,10 @@ sync-engine-tabs =
     .accesskey = T
 sync-engine-logins =
     .label = 로그인
+    .tooltiptext = 저장한 사용자 이름과 비밀번호
+    .accesskey = L
+sync-engine-logins-passwords =
+    .label = 로그인과 비밀번호
     .tooltiptext = 저장한 사용자 이름과 비밀번호
     .accesskey = L
 sync-engine-addresses =
@@ -612,6 +672,9 @@ sync-engine-prefs =
         }
     .tooltiptext = 변경된 일반, 개인 정보 및 보안 설정
     .accesskey = S
+
+## The device name controls.
+
 sync-device-name-header = 기기 이름
 sync-device-name-change =
     .label = 기기 이름 바꾸기…
@@ -762,7 +825,7 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = 열린 탭
     .accesskey = O
-addressbar-suggestions-settings = 검색 엔진 추천 설정 변경
+addressbar-suggestions-settings = 검색 엔진 제안 설정 변경
 
 ## Privacy Section - Content Blocking
 
@@ -802,7 +865,7 @@ enhanced-tracking-protection-setting-custom =
     .label = 사용자 지정
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = 보호와 성능사이의 균형이 잡혀 있습니다. 페이지가 정상적으로 로드됩니다.
 content-blocking-etp-strict-desc = 더 강력한 보호 기능을 제공하지만, 일부 사이트나 콘텐츠가 손상될 수 있습니다.

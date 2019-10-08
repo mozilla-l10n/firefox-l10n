@@ -69,8 +69,11 @@ serviceworker-empty-suggestions-debugger = 서비스 워커 등록과정을 살�
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = 다른 도메인의 서비스 워커를 조사해 보세요. <a>about:debugging 열기</a>
-# Header for the view of Manifest displayed in the application panel for the current page.
+# Header for the Manifest page when we have an actual manifest
 manifest-view-header = 앱 매니페스트
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = 여기서 검사하려면 웹 앱 매니페스트를 추가해야합니다. <a>더 알아보기</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = 오류 및 경고
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -87,6 +90,17 @@ manifest-loaded-ok = 매니페스트가 로드되었습니다.
 manifest-loaded-error = 매니페스트를 로드하는 동안 오류가 발생했습니다:
 # Text displayed when the page has no manifest available
 manifest-non-existing = 검사할 매니페스트가 없습니다.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = 매니페스트는 데이터 URL에 포함됩니다.
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = 매니페스트
+    .alt = 매니페스트 아이콘
+    .title = 매니페스트
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = 서비스 워커
+    .alt = 서비스 워커 아이콘
+    .title = 서비스 워커
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = 경고 아이콘

@@ -6,12 +6,10 @@
 %brandDTD;
 
 <!ENTITY loadError.label "페이지 읽기 오류">
-<!ENTITY retry.label "재시도">
+<!ENTITY retry.label "다시 시도">
 <!ENTITY returnToPreviousPage.label "뒤로">
 <!ENTITY returnToPreviousPage1.label "뒤로(권장)">
-<!ENTITY advanced.label "고급">
 <!ENTITY advanced2.label "고급…">
-<!ENTITY moreInformation.label "상세 정보">
 <!ENTITY viewCertificate.label "인증서 보기">
 
 <!-- Specific error messages -->
@@ -149,14 +147,8 @@
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle1 "연결이 안전하지 않음">
-
 <!ENTITY certerror.longpagetitle2 "경고: 보안 위험 가능성">
 <!ENTITY certerror.sts.longpagetitle  "연결하지 않음 : 잠재적인 보안 문제">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
-will be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara "<span class='hostname'/>의 소유자가 웹사이트를 적절히 설정하지 않았습니다. 정보가 도난당하는 것을 막기 위해서 &brandShortName;가 웹사이트에 연결하지 않았습니다.">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -200,9 +192,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "손상된 콘텐츠 오류">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>데이터 전송에 오류가 발생하여서 페이지를 표시할 수 없습니다.</p><ul><li>이 문제를 웹사이트 소유자에게 알려주세요.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "예외 추가…">
-
 <!ENTITY securityOverride.exceptionButton1Label "위험을 감수하고 계속">
 
 <!ENTITY errorReporting.automatic2 "이러한 오류를 보고하여 Mozilla가 악성 사이트를 식별하고 차단하는 것을 돕습니다.">
@@ -216,19 +205,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "고급 정보: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p>사용자 컴퓨터의 시계가 맞지 않기 때문에 보안 연결을 할 수 없어서 &brandShortName;가 <span id='wrongSystemTime_URL'/>에 연결하지 않았습니다.</p> <p><span id='wrongSystemTime_actualDate'/>여야 하지만 <span id='wrongSystemTime_systemDate'/>로 설정되어 있습니다. 올바른 날짜와 시간을 설정해 주세요.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>사용자 컴퓨터의 시계가 맞지 않기 때문에 보안 연결을 할 수 없어서 &brandShortName;가 <span id='wrongSystemTimeWithoutReference_URL'/>에 연결하지 않았습니다.</p> <p><span id='wrongSystemTimeWithoutReference_systemDate'/>로 설정되어 있습니다. 올바른 날짜와 시간을 설정해 주세요.</p>">
-
-<!ENTITY certerror.pagetitle1  "안전하지 않은 연결">
-
 <!ENTITY certerror.pagetitle2  "경고: 보안 위험 가능성">
 <!ENTITY certerror.sts.pagetitle  "연결하지 않음 : 잠재적인 보안 문제">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "이 사이트는 &brandShortName;가 안전한 경우에만 
-연결함을 명시하기 위해서 HTTP Strict Transport Security (HSTS)를 사용합니다.
-그래서 이 인증서에 예외를 추가할 수 없습니다.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> 사이트는 HTTP Strict Transport Security (HSTS)라는 보안 정책을 가지고 있어서 &brandShortName;가 보안 접속만 할 수 있습니다. 사이트 방문을 위해서 예외를 설정할 수 없습니다.">
 <!ENTITY certerror.copyToClipboard.label "클립보드에 텍스트 복사">
 
@@ -252,5 +230,9 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "네트워크 보안 설정 때문에 이러한 현상이 발생한 것으로 보입니다. 기본 설정으로 되돌리겠습니까?">
 <!ENTITY prefReset.label "기본 설정으로 되돌리기">
 
-<!ENTITY networkProtocolError.title "네트워크 프로토콜 에러">
-<!ENTITY networkProtocolError.longDesc "<p>네트워크 프로토콜에 에러가 감지되어 페이지를 표시할 수 없습니다.</p><ul><li>사이트 소유주에게 이 문제에 대해 문의하시기 바랍니다.</li></ul>">
+<!ENTITY enableTls10.longDesc "이 웹 사이트는 &brandShortName;에서 지원하는 최소 버전인 TLS 1.2 프로토콜을 지원하지 않을 수 있습니다. TLS 1.0 및 TLS 1.1을 활성화하면 이 연결이 성공할 수 있습니다.">
+<!ENTITY enableTls10.note "TLS 1.0 및 TLS 1.1은 향후 출시에서 영구적으로 비활성화됩니다.">
+<!ENTITY enableTls10.label "TLS 1.0 및 1.1 활성화">
+
+<!ENTITY networkProtocolError.title "네트워크 프로토콜 오류">
+<!ENTITY networkProtocolError.longDesc "<p>네트워크 프로토콜에 오류가 감지되어 페이지를 표시할 수 없습니다.</p><ul><li>웹 사이트 소유자에게 이 문제에 대해 문의하시기 바랍니다.</li></ul>">

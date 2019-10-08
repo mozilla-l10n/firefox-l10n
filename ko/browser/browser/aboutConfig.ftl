@@ -10,6 +10,21 @@ about-config-warning-button = 위험을 감수하겠습니다!
 about-config2-title = 고급 설정
 about-config-search-input =
     .placeholder = 검색
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = 조심해서 진행하세요
+about-config-intro-warning-text = 고급 구성 설정을 변경하면 { -brand-short-name } 성능 또는 보안에 영향을 줄 수 있습니다.
+about-config-intro-warning-checkbox = 이 설정에 접근하려고 할 때 경고
+about-config-intro-warning-button = 위험을 감수하고 계속
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = 이러한 설정을 변경하면 { -brand-short-name } 성능 또는 보안에 영향을 줄 수 있습니다.
+about-config-page-title = 고급 설정
+about-config-search-input1 =
+    .placeholder = 설정 이름 검색
 about-config-show-all = 모두 보기
 about-config-pref-add = 추가
 about-config-pref-toggle = 토글

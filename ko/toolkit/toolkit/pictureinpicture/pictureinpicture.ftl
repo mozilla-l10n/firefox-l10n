@@ -2,5 +2,4 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-errorReportFalseDeceptiveTitle=수상한 사이트가 아닙니다
-errorReportFalseDeceptiveMessage=지금은 이 오류를 보고할 수 없습니다.
+pictureinpicture-player-title = 화면 속 화면
