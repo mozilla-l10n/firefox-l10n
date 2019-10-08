@@ -90,6 +90,7 @@ cfr-whatsnew-tracking-blocked-title =
        *[other] Ka̱a̱ nita noo´o nasɨ
     }
 cfr-whatsnew-tracking-blocked-subtitle = Nee { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Kune´ya reporte
 cfr-whatsnew-lockwise-backup-title = Chuva´a contraseñas noo´o
 cfr-whatsnew-lockwise-take-title = Kuiso daa contraseña jii noo´o
 cfr-whatsnew-lockwise-take-link-text = Ni'i App

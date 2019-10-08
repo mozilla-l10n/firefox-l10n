@@ -155,6 +155,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 
+<!ENTITY recentBookmarks.label "A ta´a ini noo´o skuata ntee">
 
 <!ENTITY backCmd.label                "Niko yata">
 <!ENTITY backCmd.accesskey            "B">
@@ -249,6 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.accesskey     "f">
 
+<!ENTITY clearRecentHistory.label               "Xinó a nnánukunu ntañu´u…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -396,6 +398,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.accesskey "e">
 <!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "Nachu'un tuku marco">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.accesskey  "V">
@@ -602,9 +605,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Nasɨ">
+<!ENTITY protections.notBlocking2.label "Kuvi">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
+<!ENTITY protections.notBlocking.why.label "¿Navi?">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -635,15 +641,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookiesView.label "Cookies jii datos nuu ya´a">
 
 
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 
 
+<!ENTITY contentBlocking.cryptominers.label "Criptomineros">
+<!ENTITY contentBlocking.cryptominersView.label "Criptomineros">
 
+<!ENTITY contentBlocking.fingerprinters.label "Huellas dactilares">
+<!ENTITY contentBlocking.fingerprintersView.label "Huellas dactilares">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Kachi jie´e iin tixi">
+<!ENTITY contentBlocking.breakageReportView.label "Kachi jie´e iin tixi">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Ka´vi kue´eka">
 
+<!ENTITY contentBlocking.breakageReportView.title "Kachi jie´e iin nuu ntu íyo tiñu">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Ka´vi kue´eka">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Chu´un íchi reporte">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Nkuvi">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
@@ -655,6 +670,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
 <!ENTITY trackingProtection.block6.accesskey "T">
+<!ENTITY trackingProtection.reload2.label "Nachu'un tuku página">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
 <!ENTITY pluginNotification.showAll.accesskey "M">
