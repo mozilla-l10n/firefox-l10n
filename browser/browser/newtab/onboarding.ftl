@@ -21,6 +21,7 @@ onboarding-button-label-get-started = فلنبدأ
 onboarding-welcome-header = مرحبًا بك في { -brand-short-name }
 onboarding-welcome-body = وصلك الآن المتصفّح.<br/>اطّلع على بقيّة منتجات { -brand-product-name }.
 onboarding-welcome-learn-more = اعرف المزيد حول فوائد ذلك.
+onboarding-welcome-modal-family-learn-more = خُذ نظرة على طقم منتجات { -brand-product-name }.
 onboarding-join-form-header = انضم إلى { -brand-product-name }
 onboarding-join-form-body = أدخِل عنوان البريد الإلكتروني لتبدأ.
 onboarding-join-form-email =
@@ -63,6 +64,7 @@ onboarding-benefit-privacy-title = خصوصية حقة
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = كل ما نفعله يحترم ميثاق ”عهدة البيانات الشخصية“: استلم أدنى قدر، أبقِها آمنة ولا أسرار مخفية.
+onboarding-benefit-sync-text = خُذ معك علاماتك وكلمات السر والتأريخ وغيرها الكثير أينما تستعمل { -brand-product-name }.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -92,17 +94,20 @@ onboarding-browse-privately-title = تصفَّح بخصوصية
 onboarding-browse-privately-text = يمسح التصفح الخاص تأريخ البحث والتصفح ليُبقيه سرًا على أي شخص يستخدم هذا الحاسوب.
 onboarding-browse-privately-button = افتح نافذة خاصة
 onboarding-firefox-send-title = أبقِ ملفاتك التي شاركتها خاصّة
+onboarding-firefox-send-text2 = ارفع ملفاتك إلى { -send-brand-name } وشاركها عبر تعميتها من الطرفين كما وفي رابط ينقضي أجله تلقائيا.
 onboarding-firefox-send-button = جرّب { -send-brand-name }
 onboarding-mobile-phone-title = نزّل { -brand-product-name } على المحمول
 onboarding-mobile-phone-text = نزّل { -brand-product-name } على آي‌أوإس وأندرويد لتُزامن بياناتك عبر مختلف الأجهزة.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = نزّل متصفّح المحمول
+onboarding-pocket-anywhere-title = اقرأ واستمع إلى ما ترغب أينما كنت
 onboarding-pocket-anywhere-text2 = احفظ ما تحبّ من محتوى وتصفّحه دون اتصال عبر تطبيق { -pocket-brand-name }. بهذا تقرأه وتسمعه وتطالعه متى ما أردت وحينما تشاء.
 onboarding-pocket-anywhere-button = جرّب { -pocket-brand-name }
 onboarding-lockwise-passwords-title = خُذ معك كلمات السر أينما ذهبت
 onboarding-lockwise-passwords-text2 = حافظ على كلمات السر التي حفظتها آمنة ولِج إلى حساباتك عبر { -lockwise-brand-name } ودون عناء.
 onboarding-lockwise-passwords-button2 = نزّل التطبيق
+onboarding-facebook-container-title = اضبط حدود فيسبوك
 onboarding-facebook-container-text2 = يفصل { -facebook-container-brand-name } ملفك الشخصي عن المعلومات الأخرى، وهكذا تكون مهمة فيسبوك في إيصال الإعلانات إليك أصعب وأصعب.
 onboarding-facebook-container-button = أضِف الامتداد
 

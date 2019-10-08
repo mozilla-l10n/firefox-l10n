@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = محتوى إدارة الحقوق الرقمية (DRM)
 play-drm-content =
@@ -404,6 +404,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = ابحث عن النص مع بداية الكتابة
     .accesskey = ح
+browsing-picture-in-picture-learn-more = اطّلع على المزيد
 browsing-cfr-recommendations =
     .label = امتدادات موصى بها وأنت تتصفّح
     .accesskey = ص
@@ -514,6 +515,12 @@ search-bar-shown =
     .label = أضف شريط البحث إلى شريط الأدوات
 search-engine-default-header = محرك البحث المبدئي
 search-engine-default-desc = اختر محرك البحث المبدئي في شريطي العناوين و البحث.
+search-engine-default-private-desc = اختر أي محرّك بحث يكون المبدئي في النوافذ الخاصة.
+search-separate-default-engine =
+    .label = استعمل محرك البحث هذا في النوافذ الخاصة
+    .accesskey = س
+search-suggestions-header = اقتراحات البحث
+search-suggestions-desc = اختر طريقة عرض اقتراحات محركات البحث.
 search-suggestions-option =
     .label = اعرض اقتراحات البحث
     .accesskey = ع
@@ -527,6 +534,7 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = فضّل اقتراحات البحث على تأريخ التصفح في نتائج شريط العنوان
+suggestions-addressbar-settings = غيّر تفضيلاتك تجاه تأريخ التصفح والعلامات واقتراحات الألسنة
 search-suggestions-cant-show = لن تظهر اقتراحات البحث في نتائج شريط الموقع لأنّك أعددت { -brand-short-name } على ألّا يتذكر التأريخ.
 search-one-click-header = محركات البحث بنقرة واحدة
 search-one-click-desc = اختر محركات البحث البديلة التي تظهر تحت شريطي العناوين و البحث عندما تكتب كلمة بحث.
@@ -563,6 +571,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = خُذ الوِب معك
 sync-signedout-description = زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و التفضيلات بين كل أجهزتك.
 sync-signedout-account-title = اتصل باستخدام { -fxaccount-brand-name }
@@ -583,11 +595,17 @@ sync-mobile-promo = نزّل فيرفكس <img data-l10n-name="android-icon"/> <
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = غيّر صورة الحساب
 sync-disconnect =
     .label = اقطع الاتصال…
     .accesskey = ط
+sync-sign-out =
+    .label = اخرج…
+    .accesskey = خ
 sync-manage-account = أدِر الحساب
     .accesskey = س
 sync-signedin-unverified = { $email } ليس مؤكّدًا.
@@ -603,6 +621,48 @@ sync-sign-in =
     .accesskey = ل
 sync-signedin-settings-header = إعدادات المزامنة
 sync-signedin-settings-desc = اختر مالذي تريد مزامنته على أجهزتك باستخدام { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = المزامنة: مفعلة
+prefs-syncing-off = المزامنة: معطلة
+prefs-sync-setup =
+    .label = اضبط { -sync-brand-short-name }…
+    .accesskey = ض
+prefs-sync-offer-setup-label = زامن علاماتك، و تأريخك، و ألسنتك، و كلمات سرك، و إضافاتك و التفضيلات بين كل أجهزتك.
+prefs-sync-now =
+    .labelnotsyncing = زامِن الآن
+    .accesskeynotsyncing = م
+    .labelsyncing = يُزامن…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-heading = تُزامن الآن هذه المعلومات:
+sync-currently-syncing-bookmarks = العلامات
+sync-currently-syncing-history = التأريخ
+sync-currently-syncing-tabs = الألسنة المفتوحة
+sync-currently-syncing-logins-passwords = جلسات الولوج وكلمات السر
+sync-currently-syncing-addresses = العناوين
+sync-currently-syncing-creditcards = بطاقات الائتمان
+sync-currently-syncing-addons = الإضافات
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] الخيارات
+       *[other] التفضيلات
+    }
+sync-change-options =
+    .label = غيّرها…
+    .accesskey = غ
+
+## The "Choose what to sync" dialog.
+
+sync-choose-what-to-sync-dialog =
+    .title = اختر ما تريد مزامنته
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = احفظ التغييرات
+    .buttonaccesskeyaccept = ح
+    .buttonlabelextra2 = اقطع الاتصال…
+    .buttonaccesskeyextra2 = ق
 sync-engine-bookmarks =
     .label = علاماتي
     .accesskey = م
@@ -615,6 +675,10 @@ sync-engine-tabs =
     .accesskey = س
 sync-engine-logins =
     .label = جلسات الولوج
+    .tooltiptext = أسماء المستخدمين وكلمات السر التي حفظتها
+    .accesskey = س
+sync-engine-logins-passwords =
+    .label = جلسات الولوج وكلمات السر
     .tooltiptext = أسماء المستخدمين وكلمات السر التي حفظتها
     .accesskey = س
 sync-engine-addresses =
@@ -637,6 +701,9 @@ sync-engine-prefs =
         }
     .tooltiptext = الإعدادات العامة، و إعدادات الخصوصية و الأمن التي غيرتها
     .accesskey = ت
+
+## The device name controls.
+
 sync-device-name-header = اسم الجهاز
 sync-device-name-change =
     .label = غيّر اسم الجهاز…
@@ -817,7 +884,7 @@ enhanced-tracking-protection-setting-custom =
     .label = مخصّص
     .accesskey = خ
 
-##
+
 
 content-blocking-all-cookies = كل الكعكات
 content-blocking-unvisited-cookies = الكعكات من المواقع غير المُزارة
