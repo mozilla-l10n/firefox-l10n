@@ -10,10 +10,13 @@
 <!ENTITY fullscreenButton.exitfullscreenlabel "Salir de pantalla completa">
 <!ENTITY castingButton.castingLabel "Enviar a pantalla">
 <!ENTITY closedCaption.off "Desactivar">
-
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
 <!ENTITY volumeScrubber.label "Control de volumen">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
+the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Picture-in-Picture">
 
 <!ENTITY stats.media "Medios">
 <!ENTITY stats.size "Tamaño">
@@ -34,6 +37,8 @@
 <!ENTITY error.srcNotSupported "El formato o tipo MIME del video no se admite.">
 <!ENTITY error.noSource2 "No se encontró ningún video que tenga un formato y tipo MIME compatibles.">
 <!ENTITY error.generic "La reproducción del video se detuvo por un error desconocido.">
+
+<!ENTITY status.pictureInPicture "Este video se está reproduciendo en modo Picture-in-Picture.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
