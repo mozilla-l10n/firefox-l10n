@@ -114,6 +114,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] ¿Quieres tener tus conexiones en todas partes en que usas { -brand-product-name }? Ve a Opciones de { -sync-brand-short-name } y selecciona la casilla de verificación de Conexiones.
+       *[other] ¿Quieres tener tus conexiones en todas partes en que usas { -brand-product-name }? Ve a Preferencias de { -sync-brand-short-name } y selecciona la casilla de verificación de Conexiones.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->

@@ -175,7 +175,7 @@ about-debugging-runtime-profile-button2 = Rendimiento del perfil
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = La configuración del navegador no es compatible con Service Workers. <a>Aprender más</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
-# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = El navegador conectado tiene una versión antigua ({ $runtimeVersion }). La versión mínima soportada es ({ $minVersion }). Esta es una configuración no soportada y puede hacer que las herramientas de desarrollo fallen. Por favor, actualiza el navegador conectado. <a>Resolución de problemas</a>
@@ -187,7 +187,7 @@ about-debugging-browser-version-too-old = El navegador conectado tiene una versi
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Puede que el panel del depurador no funcione con el navegador conectado. Por favor, usa Firefox { $runtimeVersion } si necesitas usar el depurador con este navegador.
 # This string is displayed in the runtime page if the remote browser version is too recent.
-# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
@@ -263,6 +263,15 @@ about-debugging-extension-id =
 about-debugging-worker-action-push = Push
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = Iniciar
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = Push
+    .disabledTitle = La API Push del Service Worker no está activo actualmente para { -brand-shorter-name } multiproceso
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Iniciar
+    .disabledTitle = Iniciar un Service Worker no está habilitado actualmente para { -brand-shorter-name } multiproceso
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = Desregistrar
 # Displayed for service workers in runtime pages that listen to Fetch events.
@@ -287,6 +296,9 @@ about-debugging-worker-scope =
 # of a worker
 about-debugging-worker-push-service =
     .label = Servicio Push
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = La inspección de Service Worker no está habilitada actualmente para { -brand-shorter-name } multiproceso
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Proceso principal

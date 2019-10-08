@@ -395,6 +395,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Buscar texto al empezar a escribir
     .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = Activar controles de video picture-in-picture
+    .accesskey = E
 browsing-picture-in-picture-learn-more = Aprender más
 browsing-cfr-recommendations =
     .label = Recomendar extensiones mientras se navega
@@ -637,6 +640,9 @@ sync-currently-syncing-prefs =
         [windows] Opciones
        *[other] Preferencias
     }
+sync-change-options =
+    .label = Cambiar…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
@@ -871,10 +877,10 @@ enhanced-tracking-protection-setting-standard =
     .label = Estándar
     .accesskey = d
 enhanced-tracking-protection-setting-strict =
-    .label = Estricto
+    .label = Estricta
     .accesskey = r
 enhanced-tracking-protection-setting-custom =
-    .label = Personalizado
+    .label = Personalizada
     .accesskey = C
 
 

@@ -158,11 +158,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Conectado como">
 <!ENTITY fxa.menu.manageAccount.label "Administrar cuenta…">
+<!ENTITY fxa.menu.syncSettings.label "Ajustes de &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "Ajustes de &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.syncSettings2.label "Ajustes de &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectar otro dispositivo…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -175,6 +176,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Ajustes de la cuenta">
 <!ENTITY fxa.menu.signOut.label "Salir…">
 <!ENTITY fxa.menu.deviceSettings.label "Ajustes del dispositivo">
+<!ENTITY fxa.menu.setupSync.label "Configurar &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -936,6 +938,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "¿Por qué?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Bloquear esto podría hacer fallar elementos de algunos sitios web. Sin rastreadores, algunos botones, formularios y campos de conexión podrían no funcionar.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Desactivar las protecciones permitirá a los rastreadores en este sitio. También podría mejorar un poco la funcionalidad del sitio.">
 <!ENTITY protections.socialMediaTrackers.label "Rastreadores de redes sociales">
 <!ENTITY protections.crossSiteTrackingCookies.label "Cookies de rastreo de sitios cruzados">
 <!ENTITY protections.trackingContent.label "Contenido de rastreo">
@@ -943,8 +947,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.label "Criptomineros">
 <!ENTITY protections.noTrackersFound.description "No se detectaron rastreadores conocidos por &brandShortName; en esta página.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Estas cookies te siguen de sitio en sitio para recolectar datos sobre lo que haces en línea. Son colocadas por terceros, tales como compañías de publicidad y analítica.">
 <!ENTITY protections.cryptominers.description "Los criptomineros utilizan la potencia de cómputo de tu sistema para la minería de dinero digital. Los scripts utilizados para ello consumen tu batería, relentecen tu computador e incrementan el valor de tu boleta de electricidad.">
 <!ENTITY protections.fingerprinters.description "Los creadores de huellas (Fingerprinters) recolectan ajustes de tu navegador y computador para crear un perfil tuyo. Usando esta huella digital ellos pueden seguirte a través de diferentes sitios web.">
+<!ENTITY protections.socialMediaTrackers.description "Las redes sociales colocan rastreadores en otros sitios web para seguir lo que haces y miras en línea. Esto le permite a las compañías de redes sociales aprender más sobre tu comportamiento yendo más allá de lo que compartes en tus perfiles de redes sociales.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -1012,6 +1018,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.learnMore "Aprender más">
 
 <!ENTITY contentBlocking.breakageReportView.title "Informar de un sitio que no carga">
+<!ENTITY contentBlocking.breakageReportView3.description "Bloquear algunos rastreadores puede causar problemas con algunos sitios. Reportando estos problemas ayudas a mejorar &brandShortName; para todos. Enviar este reporte entregará la URL junto con información de la configuración del navegador a Mozilla.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Aprender más">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "¿Qué problemas tuviste? (Opcional)">

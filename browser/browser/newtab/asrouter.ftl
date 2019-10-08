@@ -73,6 +73,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Navega sin ser seguido
+cfr-protections-panel-body = Mantén tus datos privados. { -brand-short-name } te protege de la mayoría de los rastreadores comunes que siguen lo que haces en línea.
 cfr-protections-panel-link-text = Aprender más
 
 ## What's New toolbar button and panel
@@ -108,6 +109,8 @@ cfr-doorhanger-sync-bookmarks-ok-button = Activa { -sync-brand-short-name }
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Nunca pierdas una contraseña nuevamente
+cfr-doorhanger-sync-logins-body = Guarda de forma segura y sincroniza tus contraseñas en todos tus dispositivos
 cfr-doorhanger-sync-logins-ok-button = Activar { -sync-brand-short-name }
     .accesskey = T
 
@@ -128,3 +131,7 @@ cfr-doorhanger-firefox-send-ok-button = Prueba { -send-brand-name }
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Ver protecciones
+    .accesskey = P
+cfr-doorhanger-socialtracking-close-button = Cerrar
+    .accesskey = C

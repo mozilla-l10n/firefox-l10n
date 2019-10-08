@@ -2,9 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+certificate-viewer-certificate-section-title = Certificado
 
 ## Error messages
 
+certificate-viewer-error-message = No pudimos encontrar la información del certificado o el certificado es corrupto. Por favor, vuelve a intentarlo.
 certificate-viewer-error-title = Algo se fue a las pailas.
 
 ## Certificate information labels
@@ -53,6 +55,13 @@ certificate-viewer-timestamp = Marca de tiempo
 certificate-viewer-value = Valor
 certificate-viewer-version = Versión
 certificate-viewer-business-category = Categoría de negocio
+certificate-viewer-issuer-name = Nombre del emisor
+certificate-viewer-validity = Validez
+certificate-viewer-public-key-info = Información de clave pública
+certificate-viewer-miscellaneous = Misceláneos
+certificate-viewer-fingerprints = Huellas digitales
+certificate-viewer-basic-constraints = Restricciones básicas
+certificate-viewer-certificate-policies = Políticas de Certificado
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Bajar
