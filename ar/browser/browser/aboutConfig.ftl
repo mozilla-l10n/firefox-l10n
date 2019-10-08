@@ -10,6 +10,21 @@ about-config-warning-button = أقبل المخاطرة
 about-config2-title = الإعدادات المتقدمة
 about-config-search-input =
     .placeholder = ابحث
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = واصِل وأنت حذر
+about-config-intro-warning-text = يمكن أن يؤثّر التغيير على تفضيلات الضبط المتقدمة أداء { -brand-short-name } وأمنه.
+about-config-intro-warning-checkbox = حذّرني حين أحاول دخول هذه التفضيلات
+about-config-intro-warning-button = أقبلُ المخاطرة فتابِع
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = يمكن أن يؤثّر التغيير على هذه التفضيلات أداء { -brand-short-name } وأمنه.
+about-config-page-title = التفضيلات المتقدمة
+about-config-search-input1 =
+    .placeholder = ابحث عن اسم التفضيل
 about-config-show-all = أظهر الكل
 about-config-pref-add = أضِف
 about-config-pref-toggle = بدّل
