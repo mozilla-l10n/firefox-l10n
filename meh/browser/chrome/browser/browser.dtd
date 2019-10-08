@@ -400,6 +400,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameSourceCmd.accesskey "V">
 <!ENTITY viewPageInfoCmd.accesskey    "i">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
+<!ENTITY reloadImageCmd.label         "Nachu'un tuku tutu nátava">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "Túvi tutu nátava">
 <!ENTITY viewImageCmd.accesskey       "i">
@@ -426,9 +427,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveFrameCmd.accesskey       "G">
 <!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveLinkCmd.accesskey        "G">
+<!ENTITY saveImageCmd.label           "Chuva´a tutu nátava kua…">
 <!ENTITY saveImageCmd.accesskey       "u">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.accesskey       "G">
+<!ENTITY emailImageCmd.label          "Chu´un ichi tutu nátava…">
 <!ENTITY emailImageCmd.accesskey      "a">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY emailAudioCmd.accesskey      "a">
@@ -438,7 +441,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "a">
+<!ENTITY copyImageCmd.label           "Tɨɨn nuu tutu nátava">
 <!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageContentsCmd.label   "Tɨɨn tutu nátava">
 <!ENTITY copyImageContentsCmd.accesskey  "C">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.accesskey    "o">

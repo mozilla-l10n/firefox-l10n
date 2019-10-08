@@ -24,3 +24,9 @@ page-action-manage-extension =
     .label = Tetiñu daa extensión...
 page-action-remove-from-urlbar =
     .label = Xinama barra daa nuu
+
+## Auto-hide Context Menu
+
+full-screen-exit =
+    .label = Kene nuu pantalla ka'nu
+    .accesskey = K

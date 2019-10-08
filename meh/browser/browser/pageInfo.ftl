@@ -39,11 +39,18 @@ help-button =
 security-site-data-only = Kuvi, { $value } { $unit } datos sitio
 security-site-data-cookies-only = Kuvi, cookies
 security-site-data-no = Nkuvi
+media-img = Tutu nátava
 media-bg-img = Fondo
 media-audio = Nasun
 saved-passwords-yes = Kuvi
 saved-passwords-no = Nkuvi
 security-no-visits = Nkuvi
+# This string is used to display the type of
+# an image
+# Variables:
+#   $type (string) - The type of an image
+media-image-type =
+    .value = { $type } tutu nátava
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
