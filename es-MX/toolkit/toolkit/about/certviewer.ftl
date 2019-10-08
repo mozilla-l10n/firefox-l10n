@@ -6,6 +6,7 @@ certificate-viewer-certificate-section-title = Certificado
 
 ## Error messages
 
+certificate-viewer-error-message = No pudimos encontrar la información del certificado o puede que el certificado esté dañado. Inténtalo de nuevo.
 certificate-viewer-error-title = Algo salió mal.
 
 ## Certificate information labels
@@ -62,7 +63,31 @@ certificate-viewer-public-key-info = Información de clave pública
 certificate-viewer-miscellaneous = Misceláneo
 certificate-viewer-fingerprints = Huellas digitales
 certificate-viewer-basic-constraints = Restricciones básicas
+certificate-viewer-key-usages = Usos de la clave
+certificate-viewer-extended-key-usages = Usos extendidos de la clave
+certificate-viewer-ocsp-stapling = Sello de tiempo OCSP
+certificate-viewer-subject-key-id = ID de clave de asunto
+certificate-viewer-authority-key-id = ID de clave de la autoridad
+certificate-viewer-authority-info-aia = Información de la autoridad (AIA)
+certificate-viewer-certificate-policies = Políticas de certificado
+certificate-viewer-embedded-scts = SCT integrados
+certificate-viewer-crl-endpoints = Extremos CRL
+# This message is used as a row header in the Miscellaneous section. 
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Descargar
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] Sí
+       *[false] No
+    }
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (cert)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (cadena)
+    .download = { $fileName }-chain.pem
