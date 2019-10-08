@@ -83,6 +83,21 @@ newtab-menu-delete-history = Z historije lašowaś
 newtab-menu-save-to-pocket = Pla { -pocket-brand-name } składowaś
 newtab-menu-delete-pocket = Z { -pocket-brand-name } wulašowaś
 newtab-menu-archive-pocket = W { -pocket-brand-name } archiwěrowaś
+newtab-menu-show-privacy-info = Naše sponsory a waša priwatnosć
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Dokóńcone
+newtab-privacy-modal-header = Waša priwatnosć jo wažna
+newtab-privacy-modal-paragraph =
+    Pśidatnje k našwicanjeju pśejmajucych tšojenjow, pokazujomy wam teke relewantny, 
+    wjelgin pśeglědane wopśimjeśe wót wubranych sponsorow. Buźćo wěsty, waše pśeglědowańske 
+    daty wašu wósobinsku wersiju { -brand-product-name } nigda njespušća ­­- njewiźimy je, a naše 
+    sponsory teke nic.
+newtab-privacy-modal-link = Zgóńśo, kak priwatnosć w nowem rejtarku funkcioněrujo
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Cytańske znamje wótpóraś
 # Bookmark is a verb here.
