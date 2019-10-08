@@ -83,6 +83,16 @@ newtab-menu-delete-history = Geçmişten sil
 newtab-menu-save-to-pocket = { -pocket-brand-name }’a kaydet
 newtab-menu-delete-pocket = { -pocket-brand-name }’tan sil
 newtab-menu-archive-pocket = { -pocket-brand-name }’ta arşivle
+newtab-menu-show-privacy-info = Sponsorlarımız ve gizliliğiniz
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Tamam
+newtab-privacy-modal-header = Gizliliğiniz bizim için önemli.
+newtab-privacy-modal-link = Yeni sekmede gizliliğinizi nasıl koruduğumuzu öğrenin
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Yer imini sil
 # Bookmark is a verb here.
