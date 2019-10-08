@@ -8,8 +8,10 @@ profiles-create = Crear un nuevo perfil
 profiles-restart-title = Reiniciar
 profiles-restart-in-safe-mode = Reiniciar con Complementos Deshabilitados…
 profiles-restart-normal = Reiniciar normalmente…
+profiles-conflict = Otra copia de { -brand-product-name } ha hecho cambios a los perfiles. Debes reiniciar { -brand-short-name } antes de hacer más cambios.
 profiles-flush-fail-title = Cambios no guardados
 profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = Un error inesperado ha evitado que se guarden sus cambios.
 profiles-flush-restart-button = Reiniciar { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
@@ -30,6 +32,7 @@ profiles-remove = Eliminar
 profiles-set-as-default = Establecer como perfil predeterminado
 profiles-launch-profile = Lanzar perfil en nuevo navegador
 profiles-cannot-set-as-default-title = No se puede establecer predeterminado
+profiles-cannot-set-as-default-message = No se puede cambiar el perfil predeterminado para { -brand-short-name }.
 profiles-yes = sí
 profiles-no = no
 profiles-rename-profile-title = Renombrar perfil

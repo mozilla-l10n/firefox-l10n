@@ -113,6 +113,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumentos
 safe-mode-title = Probar modo seguro
 restart-in-safe-mode-label = Reiniciar con Complementos Deshabilitados…
+
+## Media titles
+
+audio-backend = Backend de audio
+max-audio-channels = Número máximo de canales
+channel-layout = Formato de canal preferido
+sample-rate = Frecuencia de muestreo preferida
 media-title = Multimedia
 media-output-devices-title = Dispositivos de salida
 media-input-devices-title = Dispositivos de entrada
@@ -125,6 +132,12 @@ media-device-format = Formato
 media-device-channels = Canales
 media-device-rate = Frecuencia
 media-device-latency = Latencia
+media-capabilities-title = Capacidades del contenido multimedia
+# List all the entries of the database.
+media-capabilities-enumerate = Enumerar base de datos
+
+
+
 intl-title = Internacionalización y localización
 intl-app-title = Ajustes de la aplicación
 intl-locales-requested = Localizaciones solicitadas
@@ -239,10 +252,7 @@ uses-tiling = Usa mosaicos
 content-uses-tiling = Usa mosaicos (contenido)
 off-main-thread-paint-enabled = Fuera del hilo principal de pintura Habilitado
 off-main-thread-paint-worker-count = Recuento de dibujo fuera del tema principal
-audio-backend = Backend de audio
-max-audio-channels = Número máximo de canales
-channel-layout = Formato de canal preferido
-sample-rate = Frecuencia de muestreo preferida
+target-frame-rate = Frecuencia de imágenes objetivo
 min-lib-versions = Versión mínima esperada
 loaded-lib-versions = Versión en uso
 has-seccomp-bpf = Seccomp-BPF (sistema de filtro de llamadas)
@@ -256,7 +266,10 @@ effective-content-sandbox-level = Nivel efectivo del contenedor de proceso de co
 sandbox-proc-type-content = contenido
 sandbox-proc-type-file = contenido del archivo
 sandbox-proc-type-media-plugin = plugin de medios
+sandbox-proc-type-data-decoder = decodificador de datos
 launcher-process-status-0 = Habilitado
+launcher-process-status-1 = Deshabilitado debido a un fallo
+launcher-process-status-2 = Deshabilitado forzosamente
 launcher-process-status-unknown = Estado desconocido
 # Variables
 # $remoteWindows (integer) - Number of remote windows
