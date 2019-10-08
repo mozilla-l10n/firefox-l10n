@@ -130,3 +130,16 @@ cfr-doorhanger-firefox-send-header = 이 PDF를 안전하게 공유하세요
 cfr-doorhanger-firefox-send-body = 종단 간 암호화와 완료시 사라지는 링크를 사용하여 중요한 문서를 안전하게 보관할 수 있습니다.
 cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } 사용해보기
     .accesskey = T
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = 보호 보기
+    .accesskey = P
+cfr-doorhanger-socialtracking-close-button = 닫기
+    .accesskey = C
+cfr-doorhanger-socialtracking-heading = { -brand-short-name }가 여기에서 소셜 네트워크가 사용자를 추적하는 것을 중지했습니다
+cfr-doorhanger-socialtracking-description = 개인 정보는 중요합니다. { -brand-short-name }는 이제 일반적인 소셜 미디어 추적기를 차단하여 온라인에서 수행하는 작업에 대해 수집할 수 있는 데이터의 양을 제한합니다.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name }가 이 페이지에서 핑커프린터를 차단했습니다
+cfr-doorhanger-fingerprinters-description = 개인 정보는 중요합니다. { -brand-short-name }는 이제 디바이스에 대해 고유하게 식별 가능한 정보 조각을 수집하여 사용자를 추적하는 핑거프린터를 차단합니다.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name }가 이 페이지에서 크립토마이너를 차단했습니다
+cfr-doorhanger-cryptominers-description = 개인 정보는 중요합니다. { -brand-short-name }는 이제 시스템의 컴퓨팅 능력을 사용하여 디지털 화폐를 채굴하는 크립토마이너를 차단합니다.

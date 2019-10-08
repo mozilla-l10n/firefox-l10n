@@ -188,6 +188,7 @@ language-name-tlh = 클링곤어
 language-name-tn = 싸와나어
 language-name-to = 통가어
 language-name-tr = 터키어
+language-name-trs = 트리키어
 language-name-ts = 통가어
 language-name-tt = 타타르어
 language-name-tw = 트위어

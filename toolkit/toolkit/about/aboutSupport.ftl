@@ -35,6 +35,8 @@ app-basics-name = 이름
 app-basics-version = 버전
 app-basics-build-id = 빌드 ID
 app-basics-update-channel = 업데이트 채널
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] 업데이트 디렉토리
@@ -55,11 +57,10 @@ app-basics-user-agent = 사용자 에이전트
 app-basics-os = OS
 app-basics-memory-use = 메모리 사용
 app-basics-performance = 성능
-app-basics-service-workers = 등록된 Service Workers
+app-basics-service-workers = 등록된 서비스 워커
 app-basics-profiles = 프로필
 app-basics-launcher-process-status = 런처 프로세스
 app-basics-multi-process-support = 다중프로세스 윈도우
-app-basics-process-count = 웹 콘텐츠 프로세스
 app-basics-remote-processes-count = 원격 프로세스
 app-basics-enterprise-policies = 엔터프라이즈 정책
 app-basics-location-service-key-google = Google 위치 서비스 키
@@ -115,6 +116,13 @@ sandbox-sys-call-number = 시스템 콜
 sandbox-sys-call-args = 인자
 safe-mode-title = 안전 모드 시도
 restart-in-safe-mode-label = 부가 기능 없이 재시작…
+
+## Media titles
+
+audio-backend = 오디오 백엔드
+max-audio-channels = 최대 채널
+channel-layout = 선호하는 채널 레이아웃
+sample-rate = 선호하는 샘플 비율
 media-title = 미디어
 media-output-devices-title = 출력 기기
 media-input-devices-title = 입력 기기
@@ -127,6 +135,12 @@ media-device-format = 형식
 media-device-channels = 채널
 media-device-rate = 비율
 media-device-latency = 지연
+media-capabilities-title = 미디어 기능
+# List all the entries of the database.
+media-capabilities-enumerate = 데이터베이스 열거
+
+
+
 intl-title = 국제화 & 현지화
 intl-app-title = 응용 프로그램 설정
 intl-locales-requested = 요청된 언어
@@ -221,12 +235,7 @@ uses-tiling = 타일링 사용
 content-uses-tiling = 타일링(콘텐츠) 사용
 off-main-thread-paint-enabled = 주 쓰레드 페인팅 끄기 활성화됨
 off-main-thread-paint-worker-count = 주 쓰레드 페인팅 워커 카운트 끔
-low-end-machine = 저성능 기기 감지
 target-frame-rate = 목표 프레임 레이트
-audio-backend = 오디오 백엔드
-max-audio-channels = 최대 채널
-channel-layout = 선호하는 채널 레이아웃
-sample-rate = 선호하는 샘플 비율
 min-lib-versions = 이용 중인 최소 버젼
 loaded-lib-versions = 이용 중 버전
 has-seccomp-bpf = Seccomp-BPF (시스템 호출 필터링)

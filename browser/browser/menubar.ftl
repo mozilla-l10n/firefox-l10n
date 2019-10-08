@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = 전체 화면
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = 모든 탭 표시
@@ -212,11 +212,20 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = { -sync-brand-short-name }에 로그인…
     .accesskey = Y
+menu-tools-fxa-sign-in =
+    .label = { -brand-product-name }에 로그인…
+    .accesskey = g
+menu-tools-turn-on-sync =
+    .label = { -sync-brand-short-name } 켜기…
+    .accesskey = n
 menu-tools-sync-now =
     .label = 동기화하기
     .accesskey = S
 menu-tools-sync-re-auth =
     .label = { -sync-brand-short-name }에 다시 연결…
+    .accesskey = R
+menu-tools-fxa-re-auth =
+    .label = { -brand-product-name }에 다시 연결…
     .accesskey = R
 menu-tools-web-developer =
     .label = 웹 개발 도구

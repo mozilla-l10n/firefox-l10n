@@ -18,6 +18,9 @@ process-type-file = 로컬 파일
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = 대량 할당
+# process used to isolate a webpage from other web pages
+# to improve security
+process-type-webisolated = 격리된 웹 콘텐츠
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
