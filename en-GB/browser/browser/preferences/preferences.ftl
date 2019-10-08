@@ -505,6 +505,12 @@ search-bar-shown =
     .label = Add search bar in toolbar
 search-engine-default-header = Default Search Engine
 search-engine-default-desc = Choose the default search engine to use in the address bar and search bar.
+search-engine-default-private-desc = Choose the default search engine to use in Private Windows.
+search-separate-default-engine =
+    .label = Use this search engine in Private Windows
+    .accesskey = U
+search-suggestions-header = Search Suggestions
+search-suggestions-desc = Choose how suggestions from search engines appear.
 search-suggestions-option =
     .label = Provide search suggestions
     .accesskey = s
@@ -518,6 +524,7 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Show search suggestions ahead of browsing history in address bar results
+suggestions-addressbar-settings = Change preferences for browsing history, bookmarks, and tab suggestions
 search-suggestions-cant-show = Search suggestions will not be shown in location bar results because you have configured { -brand-short-name } to never remember history.
 search-one-click-header = One-Click Search Engines
 search-one-click-desc = Choose the alternative search engines that appear below the address bar and search bar when you start to enter a keyword.
@@ -633,6 +640,9 @@ sync-currently-syncing-prefs =
         [windows] Options
        *[other] Preferences
     }
+sync-change-options =
+    .label = Change…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
@@ -643,7 +653,6 @@ sync-choose-what-to-sync-dialog =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Disconnect...
     .buttonaccesskeyextra2 = D
-sync-choose-heading = Choose what to synchronise to your account for devices using { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = Bookmarks
     .accesskey = m
