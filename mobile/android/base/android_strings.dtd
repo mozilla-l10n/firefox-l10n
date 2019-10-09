@@ -23,14 +23,17 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Kontua">
 <!ENTITY firstrun_sync_message2 "Jarraitu utzi zenuen tokitik.">
+<!ENTITY firstrun_sync_message3 "Sinkronizatu laster-markak, historia eta pasahitzak zure telefonoan.">
 <!ENTITY firstrun_sync_subtext2 "Erabili Sync laster-markak, pasahitza eta &brandShortName;(r)en gailu guztietan gordetzen dituzun beste gauzak aurkitzeko.">
 <!ENTITY newfirstrun_sync_subtext "Sinkronizatu mugikorrean gordetako gauzak mahaigainerako Firefoxekin, modu pribatu eta seguruan.">
 <!ENTITY updatednewfirstrun_sync_subtext "Hasi saioa zure kontuan &brandShortName;(r)i ahalik eta zuku gehien ateratzeko">
 <!ENTITY firstrun_signin_message "Konektatu eta abiatu">
+<!ENTITY firstrun_sendtab_title "Bidali fitxa">
+<!ENTITY firstrun_sendtab_message "Partekatu fitxak mugikorretik mahaigainera — berehala.">
 <!ENTITY firstrun_signin_button "Hasi saioa Sync-en">
 <!ENTITY newfirstrun_signin_button "Gaitu sinkronizazioa">
 <!ENTITY updatednewfirstrun_signin_button "Hasi saioa &brandShortName;(e)n">
-<!ENTITY  onboard_start_button_browser "Hasi nabigatzen">
+<!ENTITY onboard_start_button_browser "Hasi nabigatzen">
 <!ENTITY firstrun_button_notnow "Orain ez">
 <!ENTITY firstrun_button_next "Hurrengoa">
 
@@ -46,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Zu">
 <!ENTITY firstrun_account_message "&brandShortName; beste gailu batean duzu?">
+
+<!ENTITY firstrun_signup_button "Eman izena">
 
 <!ENTITY  onboard_start_restricted1 "Egon seguru eta kontrolpean &brandShortName;(r)en bertsio sinplifikatu honekin.">
 
@@ -497,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Partekatu">
 <!ENTITY share_title "Partekatu">
 <!ENTITY share_image_failed "Ezin da irudia partekatu">
+<!ENTITY share_error_toast_message "Ezin da zehaztutako aplikazioarekin partekatu">
 <!ENTITY save_as_pdf "Gorde PDF gisa">
 <!ENTITY print "Inprimatu">
 <!ENTITY view_page_source "Ikusi orriaren iturburua">
@@ -597,7 +603,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Helbidea">
 <!ENTITY bookmark_edit_keyword "Gako-hitza">
 <!ENTITY bookmark_select_folder "Hautatu karpeta">
-
 <!ENTITY bookmark_edit_undo "Desegin">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -691,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Hona konektatuta: ">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -878,11 +884,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Egin irakurtzeko ikuspegiko elementuen laster-markak hauek lineaz kanpo irakurtzeko.">
 <!ENTITY helper_triple_readerview_open_button "Gehitu laster-marketan">
 
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Ongi etorri &brandShortName;(e)ra">
 <!ENTITY activity_stream_signin_description "Hasi sinkronizatzen laster-markak, historia eta gehiago zure Firefox kontua erabiliz.">
 <!ENTITY activity_stream_signin_button "Hasi saioa">
-<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
-These labels are shown in the Activity Stream recommending the user to sign in. -->
+
+<!ENTITY activity_stream_signup_button "Eman izena">
+<!ENTITY activity_stream_signin_prompt "Dagoeneko baduzu kontua?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Hasi saioa.">
 
 <!ENTITY activity_stream_topsites "Gune erabilienak">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
