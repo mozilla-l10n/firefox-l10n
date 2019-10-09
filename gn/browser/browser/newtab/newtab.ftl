@@ -89,6 +89,10 @@ newtab-menu-show-privacy-info = Ore pytyvõhára ha iñemigua
 
 newtab-privacy-modal-button-done = Oĩma
 newtab-privacy-modal-header = Ne ñemigua tuichamba’e.
+newtab-privacy-modal-paragraph =
+    Ome’ẽse avei tembiasakue oporombovy’áva, avei rohechauka marandu iporãva,
+    tetepy pytyvõhára poravopyre ohechajeypyre. Ani ejepy’apy, nde kundaha mba’ekuaarã tekorosã
+     araka’eve ndohejái mbohasarã mba’eteéva { -brand-product-name } rehegua: ndorohechái ha ore pytyvõhára avei.
 newtab-privacy-modal-link = Eikuaa mba’éicha omba’apo ñemigua tendayke pyahúpe
 
 
