@@ -640,6 +640,9 @@ sync-currently-syncing-prefs =
         [windows] Sätted
        *[other] Eelistused
     }
+sync-change-options =
+    .label = Muuda…
+    .accesskey = M
 
 ## The "Choose what to sync" dialog.
 
