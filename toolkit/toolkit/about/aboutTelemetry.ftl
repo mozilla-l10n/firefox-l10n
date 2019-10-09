@@ -6,6 +6,7 @@ about-telemetry-ping-data-source = แหล่งข้อมูล Ping:
 about-telemetry-show-current-ping-data = ข้อมูล ping ปัจจุบัน
 about-telemetry-show-current-data = ข้อมูลปัจจุบัน
 about-telemetry-show-archived-ping-data = ข้อมูล ping ที่เก็บถาวร
+about-telemetry-show-subsession-data = แสดงข้อมูลการส่ง
 about-telemetry-choose-ping = เลือก ping:
 about-telemetry-archive-ping-type = ชนิด Ping
 about-telemetry-archive-ping-header = Ping
@@ -17,13 +18,16 @@ about-telemetry-next-ping = >>
 about-telemetry-page-title = ข้อมูลการวัดและส่งข้อมูลทางไกล
 about-telemetry-current-store = ส่วนจัดเก็บปัจจุบัน:
 about-telemetry-more-information = กำลังมองหาข้อมูลเพิ่มเติม?
+about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">เอกสารข้อมูล Firefox</a> มีคำแนะนำเกี่ยวกับวิธีการทำงานกับเครื่องมือข้อมูลของเรา
 about-telemetry-show-in-Firefox-json-viewer = เปิดในตัวดู JSON
 about-telemetry-home-section = หน้าแรก
 about-telemetry-general-data-section = ข้อมูลทั่วไป
 about-telemetry-environment-data-section = ข้อมูลสภาพแวดล้อม
 about-telemetry-session-info-section = ข้อมูลวาระ
+about-telemetry-scalar-section = สเกลาร์
+about-telemetry-keyed-scalar-section = สเกลาร์ที่สำคัญ
 about-telemetry-histograms-section = ฮิสโทแกรม
-about-telemetry-keyed-histogram-section =   Keyed Histograms
+about-telemetry-keyed-histogram-section = ฮิสโทแกรมที่สำคัญ
 about-telemetry-events-section = เหตุการณ์
 about-telemetry-simple-measurements-section = การวัดอย่างง่าย
 about-telemetry-slow-sql-section = คำสั่ง SQL ที่ช้า
@@ -33,6 +37,7 @@ about-telemetry-late-writes-section = การเขียนทีหลัง
 about-telemetry-raw-payload-section = ส่วนข้อมูลดิบ
 about-telemetry-raw = ข้อมูลดิบ JSON
 about-telemetry-full-sql-warning = หมายเหตุ: การดีบั๊ก SQL ที่ทำงานช้าถูกเปิดใช้งาน คำสั่ง SQL แบบเต็มอาจถูกแสดงไว้ด้านล่างแต่จะไม่ถูกส่งออกไป
+about-telemetry-fetch-stack-symbols = ดึงข้อมูลชื่อของฟังก์ชันสำหรับสแตก
 about-telemetry-hide-stack-symbols = แสดงข้อมูลสแตกดิบ
 # Selects the correct release version
 # Variables:
@@ -53,6 +58,13 @@ about-telemetry-upload-type =
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = หน้านี้แสดงข้อมูลเกี่ยวกับประสิทธิภาพ, ฮาร์ดแวร์, การใช้งาน และการปรับแต่งที่เก็บรวบรวมไว้โดยตัววัดและส่งข้อมูลทางไกล ข้อมูลนี้จะถูกส่งไปยัง { $telemetryServerOwner } เพื่อช่วยปรับปรุง { -brand-full-name }
+about-telemetry-settings-explanation = การวัดและส่งข้อมูลทางไกลกำลังรวบรวม { about-telemetry-data-type } และการอัปโหลด<a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>
+# Variables:
+#   $name (String): ping name, e.g. “saved-session”
+#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+about-telemetry-ping-details = ข้อมูลแต่ละชิ้นจะถูกส่งไปรวมไว้ใน “<a data-l10n-name="ping-link">pings</a>” คุณกำลังดู ping { $name }, { $timestamp }
+about-telemetry-ping-details-current = ข้อมูลแต่ละชิ้นจะถูกส่งไปรวมไว้ใน “<a data-l10n-name="ping-link">pings</a>” คุณกำลังดู ping ปัจจุบัน
+about-telemetry-data-details-current = ข้อมูลแต่ละชิ้นจะถูกส่งไปรวมไว้ใน “<a data-l10n-name="ping-link">pings</a>” คุณกำลังดูข้อมูลปัจจุบัน
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -79,6 +91,8 @@ about-telemetry-no-search-results-all = ขออภัย! ไม่มีผ�
 about-telemetry-no-data-to-display = ขออภัย! ขณะนี้ไม่มีข้อมูลใน “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = ping ปัจจุบัน
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = ข้อมูลปัจจุบัน
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = ทั้งหมด
 # button label to copy the histogram
