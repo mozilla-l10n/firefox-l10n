@@ -640,6 +640,9 @@ sync-currently-syncing-prefs =
         [windows] Beállítások
        *[other] Beállítások
     }
+sync-change-options =
+    .label = Módosítás…
+    .accesskey = M
 
 ## The "Choose what to sync" dialog.
 

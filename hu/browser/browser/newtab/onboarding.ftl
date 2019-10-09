@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Kezdő lépések
 onboarding-welcome-header = Üdvözli a { -brand-short-name }
 onboarding-welcome-body = Megvan a böngészője.<br/>Ismerkedjen meg a { -brand-product-name } család többi tagjával.
 onboarding-welcome-learn-more = További tudnivalók az előnyökről.
+onboarding-welcome-modal-get-body = Megvan a böngészője.<br/>Most pedig hozza ki a legtöbbet a { -brand-product-name }ból.
+onboarding-welcome-modal-supercharge-body = Turbózza fel a személyes adatvédelmét.
+onboarding-welcome-modal-privacy-body = Megvan a böngészője. Most adjunk hozzá még több adatvédelmet.
+onboarding-welcome-modal-family-learn-more = Tudjon meg többet a { -brand-product-name } termékcsaládról.
+onboarding-welcome-form-header = Kezdje itt
 onboarding-join-form-header = Csatlakozzon a { -brand-product-name }hoz
 onboarding-join-form-body = Kezdésként adja meg az e-mail címét.
 onboarding-join-form-email =
@@ -64,6 +69,12 @@ onboarding-benefit-privacy-title = Valódi adatvédelem
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Minden, amit teszünk, betartja a személyes adatokra vonatkozó ígéretünket: Gyűjts kevesebbet. Tartsd biztonságban. Nincsenek titkok.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Vigye magával a könyvjelzőket, a jelszavakat, az előzményeket és még többet, bárhol is használja a { -brand-product-name }ot.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Kapjon értesítést, ha a személyes adatai egy ismert adatsértésben szerepelnek.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Kezelje a jelszavait, melyek védettek és hordozhatóak.
 
 ## These strings belong to the individual onboarding messages.
 
