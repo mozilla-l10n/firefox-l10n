@@ -88,6 +88,7 @@ newtab-menu-archive-pocket = Mag-archive sa { -pocket-brand-name }
 
 newtab-privacy-modal-button-done = Tapos na
 newtab-privacy-modal-header = Mahalaga ang iyong privacy.
+newtab-privacy-modal-link = Alamin kung paano gumagana ang privacy sa bagong tab
 
 
 
