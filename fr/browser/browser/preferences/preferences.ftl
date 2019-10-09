@@ -524,7 +524,7 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Afficher les suggestions de recherche avant l’historique de navigation dans les résultats de la barre d’adresse
-suggestions-addressbar-settings = Modifier les préférences pour l’historique de navigation, les marque-pages et les suggestions d’onglets
+suggestions-addressbar-settings = Modifier les préférences pour les suggestions de l’historique de navigation, des marque-pages et des onglets
 search-suggestions-cant-show = Les suggestions de recherche ne seront pas affichées parmi les résultats de la barre d’adresse car vous avez configuré { -brand-short-name } de façon à ce qu’il ne conserve jamais l’historique.
 search-one-click-header = Moteurs de recherche accessibles en un clic
 search-one-click-desc = Sélectionnez les moteurs de recherche alternatifs qui apparaissent sous la barre d’adresse et la barre de recherche lorsque vous commencez à saisir un mot-clé.
