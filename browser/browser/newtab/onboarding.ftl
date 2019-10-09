@@ -25,6 +25,7 @@ onboarding-welcome-modal-get-body = Vous avez le navigateur. <br/>Profitez maint
 onboarding-welcome-modal-supercharge-body = Boostez votre protection de la vie privée.
 onboarding-welcome-modal-privacy-body = Vous avez le navigateur. Ajoutons davantage de protection de la vie privée.
 onboarding-welcome-modal-family-learn-more = En savoir plus sur la famille de produits { -brand-product-name }.
+onboarding-welcome-form-header = Commencer ici
 onboarding-join-form-header = Rejoignez { -brand-product-name }
 onboarding-join-form-body = Saisissez votre adresse électronique pour vous lancer.
 onboarding-join-form-email =
