@@ -89,6 +89,7 @@ newtab-menu-show-privacy-info = Támogatóink és az Ön adatvédelme
 
 newtab-privacy-modal-button-done = Kész
 newtab-privacy-modal-header = Számít az Ön adatvédelme.
+newtab-privacy-modal-link = Tudja meg, hogyan működik az adatvédelem az új lapon
 
 
 
