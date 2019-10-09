@@ -218,8 +218,10 @@ loaded-lib-versions = รุ่นที่ใช้อยู่
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Seccomp Thread Synchronization
 has-user-namespaces = เนมสเปซผู้ใช้
+has-privileged-user-namespaces = เนมสเปซผู้ใช้สำหรับโปรเซสที่ได้รับสิทธิ์
 can-sandbox-content = Content Process Sandboxing
 can-sandbox-media = Media Plugin Sandboxing
+content-sandbox-level = ระดับ Sandbox ของโปรเซสเนื้อหา
 sandbox-proc-type-content = เนื้อหา
 sandbox-proc-type-file = เนื้อหาไฟล์
 sandbox-proc-type-media-plugin = ปลั๊กอินสื่อ
@@ -236,12 +238,21 @@ multi-process-status-2 = ปิดใช้งานอยู่
 multi-process-status-4 = ถูกปิดใช้งานโดยเครื่องมือการช่วยการเข้าถึง
 multi-process-status-6 = ถูกปิดใช้งานโดยการรับค่าข้อความที่ไม่รองรับ
 multi-process-status-7 = ถูกปิดใช้งานโดยส่วนเสริม
+multi-process-status-8 = ถูกปิดใช้งานโดยการบังคับ
 multi-process-status-unknown = ไม่ทราบสถานะ
+async-pan-zoom = การเลื่อน/ซูมแบบอะซิงโครนัส
 apz-none = ไม่มี
+wheel-enabled = เปิดใช้งานการป้อนข้อมูลด้วยล้อแล้ว
+touch-enabled = เปิดใช้งานการป้อนข้อมูลด้วยการสัมผัสแล้ว
+drag-enabled = เปิดใช้งานการลากแถบเลื่อนแล้ว
+keyboard-enabled = เปิดใช้งานแป้นพิมพ์แล้ว
+autoscroll-enabled = เปิดใช้งานการเลื่อนอัตโนมัติแล้ว
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = การป้อนข้อมูลด้วยล้อแบบอะซิงโครนัสถูกปิดใช้งานเนื่องจากค่ากำหนดที่ไม่รองรับ: { $preferencesKey }
+touch-warning = การป้อนข้อมูลด้วยการสัมผัสแบบอะซิงโครนัสถูกปิดใช้งานเนื่องจากค่ากำหนดที่ไม่รองรับ: { $preferencesKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
