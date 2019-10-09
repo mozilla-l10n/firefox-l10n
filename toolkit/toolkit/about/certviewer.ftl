@@ -65,8 +65,13 @@ certificate-viewer-fingerprints = Відбитки
 certificate-viewer-basic-constraints = Основні обмеження
 certificate-viewer-key-usages = Використання ключа
 certificate-viewer-extended-key-usages = Розширене використання ключа
+certificate-viewer-ocsp-stapling = Прикріплення OCSP
+certificate-viewer-subject-key-id = ID ключа суб'єкта
+certificate-viewer-authority-key-id = ID ключа центру сертифікації
+certificate-viewer-authority-info-aia = Інформація про центри сертифікації (AIA)
 certificate-viewer-certificate-policies = Політики сертифіката
 certificate-viewer-embedded-scts = Вбудовані SCT
+certificate-viewer-crl-endpoints = Точки розподілу списків відгуку (CRL)
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Завантажити
