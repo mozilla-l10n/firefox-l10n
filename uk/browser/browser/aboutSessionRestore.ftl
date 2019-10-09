@@ -29,12 +29,12 @@ restore-page-close-button =
 
 ## The following strings are used in about:welcomeback
 
-welcome-back-tab-title = Успішно!
-welcome-back-page-title = Успішно!
-welcome-back-page-info = { -brand-short-name } готовий почати.
+welcome-back-tab-title = Готово!
+welcome-back-page-title = Готово!
+welcome-back-page-info = { -brand-short-name } готовий до роботи.
 welcome-back-restore-button =
     .label = Вперед!
     .accesskey = В
 welcome-back-restore-all-label = Відновити всі вікна і вкладки
 welcome-back-restore-some-label = Відновити лише деякі
-welcome-back-page-info-link = Ваші додатки і пристосування було вилучено, а налаштування браузера відновлено до типових значень. Якщо це не вирішило вашу проблему, <a data-l10n-name="link-more">дізнайтесь більше, що можна зробити.</a>
+welcome-back-page-info-link = Ваші додатки було вилучено, а налаштування браузера відновлено до типових значень. Якщо це не вирішило вашу проблему, <a data-l10n-name="link-more">дізнайтесь більше, що можна зробити.</a>
