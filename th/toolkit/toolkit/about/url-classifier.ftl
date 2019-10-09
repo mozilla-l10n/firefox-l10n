@@ -17,6 +17,7 @@ url-classifier-provider-title = ผู้ให้บริการ
 url-classifier-provider = ผู้ให้บริการ
 url-classifier-provider-last-update-time = เวลาที่อัปเดตล่าสุด
 url-classifier-provider-next-update-time = เวลาที่อัปเดตถัดไป
+url-classifier-provider-back-off-time = เวลาแบ็กออฟ
 url-classifier-provider-last-update-status = สถานะการอัปเดตล่าสุด
 url-classifier-provider-update-btn = อัปเดต
 url-classifier-cache-title = แคช
