@@ -92,7 +92,7 @@ newtab-privacy-modal-header = Sinu privaatsus on oluline.
 newtab-privacy-modal-paragraph =
     Lisaks põnevate lugude esiletoomisele kuvame me ka asjakohast ja hoolikalt
     kontrollitud sisu valitud sponsoritelt. Võid kindel olla, et lehitsemise andmed
-    ei välju sinu { -brand-product-name }ist — meie ei näe neid ja samuti ka meie
+    ei välju sinu { -brand-product-name }ist — meie ei näe neid ja ka meie
     sponsorid mitte.
 newtab-privacy-modal-link = Rohkem teavet uue kaardi privaatsuse kohta
 

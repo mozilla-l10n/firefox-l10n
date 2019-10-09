@@ -19,9 +19,9 @@ onboarding-button-label-get-started = Tee algust
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Tere tulemast { -brand-short-name }i
-onboarding-welcome-body = Sul on brauser olemas nüüd.<br/>Tutvu ülejäänud { -brand-product-name }iga.
+onboarding-welcome-body = Sul on nüüd brauser olemas.<br/>Tutvu ülejäänud { -brand-product-name }iga.
 onboarding-welcome-learn-more = Rohkem teavet eeliste kohta.
-onboarding-welcome-modal-get-body = Sul on brauser olemas nüüd.<br/>On aeg { -brand-product-name }ist viimast võtta.
+onboarding-welcome-modal-get-body = Sul on nüüd brauser olemas.<br/>On aeg { -brand-product-name }ist viimast võtta.
 onboarding-welcome-modal-supercharge-body = On aeg privaatsuse kaitse uuele tasemele viia.
 onboarding-welcome-modal-privacy-body = Sul on brauser olemas. Nüüd lisame sellele veel täiustatuma privaatsuse kaitse.
 onboarding-welcome-modal-family-learn-more = Rohkem teavet { -brand-product-name }i perekonna toodete kohta.
@@ -72,7 +72,7 @@ onboarding-benefit-privacy-text = Kõik, mida me teeme, austab meie antud isikli
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Võta oma järjehoidjad, paroolid, ajalugu ja muu kaasa kõikjale, kus kasutad { -brand-product-name }i.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Saa teavitatud, kui sinu isiklikud andmed saavad mõne teadaoleva andmelekke käigus avalikuks.
+onboarding-benefit-monitor-text = Saa teavitatud, kui sinu isiklikud andmed tulevad mõne teadaoleva andmelekke käigus avalikuks.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Halda paroole kaitstult ja kaasaskantavalt.
 
