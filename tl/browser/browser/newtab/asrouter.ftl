@@ -93,8 +93,8 @@ cfr-whatsnew-tracking-protect-link-text = Tingnan ang Iyong Ulat
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-tracking-blocked-title =
     { $blockedCount ->
-        [one] Mga Trackers na Blocked
-       *[other] Mga Trackers na Blocked
+        [one] Tracker na naharang
+       *[other] Mga tracker na naharang
     }
 cfr-whatsnew-tracking-blocked-subtitle = Magmula pa noong { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Tingnan ang Ulat

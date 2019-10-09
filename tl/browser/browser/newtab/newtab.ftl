@@ -83,11 +83,17 @@ newtab-menu-delete-history = Burahin sa Kasaysayan
 newtab-menu-save-to-pocket = I-save sa { -pocket-brand-name }
 newtab-menu-delete-pocket = I-delete sa { -pocket-brand-name }
 newtab-menu-archive-pocket = Mag-archive sa { -pocket-brand-name }
+newtab-menu-show-privacy-info = Ang aming mga suki at iyong privacy
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Tapos na
 newtab-privacy-modal-header = Mahalaga ang iyong privacy.
+newtab-privacy-modal-paragraph =
+    Bukod sa paghahatid ng magagandang kwento, nagpapakita rin kami ng mga 
+    nilalamang inirerekomenda ng piling mga suki. Sinisiguro namin na ang iyong
+    browsing data ay hindi lumalabas mula sa kopya mo ng { -brand-product-name } —
+    hindi namin ito makikita, pati ang mga suki namin.
 newtab-privacy-modal-link = Alamin kung paano gumagana ang privacy sa bagong tab
 
 

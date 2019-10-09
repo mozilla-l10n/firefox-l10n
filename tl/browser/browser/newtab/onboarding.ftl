@@ -74,6 +74,7 @@ onboarding-benefit-sync-text = Dalhin mo kahit saan ang iyong mga bookmark, pass
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Abisuhan ka kapag natagpuan ang iyong personal na impormasyon sa isang data breach.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = I-manage ang mga password na protektado at portable.
 
 ## These strings belong to the individual onboarding messages.
 
