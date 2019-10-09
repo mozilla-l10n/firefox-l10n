@@ -83,6 +83,16 @@ newtab-menu-delete-history = Xóa khỏi lịch sử
 newtab-menu-save-to-pocket = Lưu vào { -pocket-brand-name }
 newtab-menu-delete-pocket = Xóa khỏi { -pocket-brand-name }
 newtab-menu-archive-pocket = Lưu trữ trong { -pocket-brand-name }
+newtab-menu-show-privacy-info = Nhà tài trợ của chúng tôi và sự riêng tư của bạn
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Xong
+newtab-privacy-modal-header = Vấn đề riêng tư của bạn.
+newtab-privacy-modal-link = Tìm hiểu cách hoạt động của quyền riêng tư trên thẻ mới
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Xóa đánh dấu
 # Bookmark is a verb here.
