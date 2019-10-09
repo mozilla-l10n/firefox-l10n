@@ -112,6 +112,7 @@ restart-in-safe-mode-label = เริ่มการทำงานใหม่
 
 audio-backend = แบ็กเอนด์เสียง
 media-title = สื่อ
+media-output-devices-title = อุปกรณ์ส่งออก
 media-input-devices-title = อุปกรณ์รับข้อมูล
 media-device-name = ชื่อ
 media-device-group = กลุ่ม
@@ -166,6 +167,7 @@ try-newer-driver = ถูกปิดกั้นจากรุ่นไดร�
 clear-type-parameters = พารามิเตอร์ ClearType
 compositing = การจัดองค์ประกอบ
 hardware-h264 = การถอดรหัสฮาร์ดแวร์ H264
+main-thread-no-omtc = เธรดหลัก ไม่มี OMTC
 yes = ใช่
 no = ไม่
 unknown = ไม่ทราบ
@@ -188,25 +190,34 @@ gpu-ram = RAM
 gpu-driver-version = รุ่นไดรเวอร์
 gpu-driver-date = วันที่ไดรเวอร์
 gpu-active = ใช้งานอยู่
+webgl1-wsiinfo = ข้อมูลไดรเวอร์ WebGL 1
 webgl1-renderer = ตัวเรนเดอร์ไดรเวอร์ WebGL 1
 webgl1-version = รุ่นไดรเวอร์ WebGL 1
 webgl1-driver-extensions = ส่วนขยายไดรเวอร์ WebGL 1
 webgl1-extensions = ส่วนขยาย WebGL 1
+webgl2-wsiinfo = ข้อมูลไดรเวอร์ WebGL 2
 webgl2-renderer = ตัวเรนเดอร์ไดรเวอร์ WebGL 2
 webgl2-version = รุ่นไดรเวอร์ WebGL 2
 webgl2-driver-extensions = ส่วนขยายไดรเวอร์ WebGL 2
 webgl2-extensions = ส่วนขยาย WebGL 2
+blocklisted-bug = ถูกเพิ่มในรายการปิดกั้นเนื่องจากปัญหาที่ทราบ
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = ข้อบกพร่อง { $bugNumber }
+# Variables
+# $failureCode (string) - String that can be searched in the source tree.
+unknown-failure = ถูกเพิ่มในรายการปิดกั้นแล้ว; รหัสความล้มเหลว { $failureCode }
+d3d11layers-crash-guard = คอมโพสิเตอร์ D3D11
 d3d11video-crash-guard = ตัวถอดรหัสวิดีโอ D3D11
 d3d9video-crash-buard = ตัวถอดรหัสวิดีโอ D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = กลับค่าเดิมเมื่อเริ่มการทำงานใหม่ในครั้งถัดไป
+gpu-process-kill-button = สิ้นสุดโปรเซส GPU
 min-lib-versions = รุ่นต่ำสุดที่ใช้ได้
 loaded-lib-versions = รุ่นที่ใช้อยู่
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Seccomp Thread Synchronization
+has-user-namespaces = เนมสเปซผู้ใช้
 can-sandbox-content = Content Process Sandboxing
 can-sandbox-media = Media Plugin Sandboxing
 sandbox-proc-type-content = เนื้อหา
