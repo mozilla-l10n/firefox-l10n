@@ -55,6 +55,7 @@ policy-FlashPlugin = Consenti o nega l’utilizzo del plugin Flash.
 policy-HardwareAcceleration = Se “false”, disattiva l’accelerazione hardware.
 policy-Homepage = Imposta la pagina iniziale ed eventualmente impedisci modifiche all’opzione.
 policy-InstallAddonsPermission = Consenti a determinati siti web di installare componenti aggiuntivi.
+policy-LegacyProfiles = Disattiva la funzione che impone profili separati per ogni installazione
 policy-LocalFileLinks = Consenti a determinati siti web di usare link a file locali.
 policy-NetworkPrediction = Attiva o disattiva “network prediction” (prelettura DNS).
 policy-NewTabPage = Attiva o disattiva la pagina Nuova scheda.
