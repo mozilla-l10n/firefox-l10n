@@ -107,6 +107,10 @@ sandbox-sys-call-number = การเรียกของระบบ
 sandbox-sys-call-args = อาร์กิวเมนต์
 safe-mode-title = ลองใช้โหมดปลอดภัย
 restart-in-safe-mode-label = เริ่มการทำงานใหม่พร้อมปิดใช้งานส่วนเสริม…
+
+## Media titles
+
+audio-backend = แบ็กเอนด์เสียง
 media-title = สื่อ
 media-input-devices-title = อุปกรณ์รับข้อมูล
 media-device-name = ชื่อ
@@ -118,6 +122,9 @@ media-device-format = รูปแบบ
 media-device-channels = ช่อง
 media-device-rate = อัตรา
 media-device-latency = เวลาแฝง
+
+
+
 intl-title = การทำให้เป็นสากลและการแปลเป็นภาษาท้องถิ่น
 intl-app-title = การตั้งค่าแอปพลิเคชัน
 intl-locales-requested = ภาษาที่ขอ
