@@ -83,6 +83,15 @@ newtab-menu-delete-history = Törlés az előzményekből
 newtab-menu-save-to-pocket = Mentés a { -pocket-brand-name }be
 newtab-menu-delete-pocket = Törlés a { -pocket-brand-name }ből
 newtab-menu-archive-pocket = Archiválás a { -pocket-brand-name }ben
+newtab-menu-show-privacy-info = Támogatóink és az Ön adatvédelme
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Kész
+newtab-privacy-modal-header = Számít az Ön adatvédelme.
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Könyvjelző eltávolítása
 # Bookmark is a verb here.
