@@ -24,6 +24,7 @@ onboarding-welcome-learn-more = Alamin ang mga benepisyo.
 onboarding-welcome-modal-get-body = Nakuha mo na ang browser.<br/>Ngayon, sulitin mo naman ang { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Itodo natin ang proteksyon mo sa privacy.
 onboarding-welcome-modal-privacy-body = Nakuha mo na ang browser. Dagdagan naman natin ngayon ang iyong privacy protection.
+onboarding-welcome-modal-family-learn-more = Alamin ang tungkol sa mga produktong saklaw ng { -brand-product-name }.
 onboarding-welcome-form-header = Magsimula Rito
 onboarding-join-form-header = Sumama sa { -brand-product-name }
 onboarding-join-form-body = Ipasok ang iyong email address para magsimula.
@@ -69,7 +70,9 @@ onboarding-benefit-privacy-title = Tunay na Pribasiya
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Lahat ng aming ginagawa ay umaayon sa aming Pangako sa Personal na Data: Kaunti lang ang kunin. Pangalagaan ito. Walang mga sikreto.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Dalhin mo kahit saan ang iyong mga bookmark, password, kasaysayan at marami pa gamit ang { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Abisuhan ka kapag natagpuan ang iyong personal na impormasyon sa isang data breach.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
