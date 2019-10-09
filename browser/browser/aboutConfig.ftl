@@ -10,6 +10,13 @@ about-config-warning-button = Arriskua onartzen dut
 about-config2-title = Konfigurazio aurreratuak
 about-config-search-input =
     .placeholder = Bilatu
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Kontuz jarraitu
+
+
+
 about-config-show-all = Erakutsi denak
 about-config-pref-add = Gehitu
 about-config-pref-toggle = Txandakatu

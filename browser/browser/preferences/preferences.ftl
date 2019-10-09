@@ -554,6 +554,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Eraman ezazu weba zurekin
 sync-signedout-description = Sinkronizatu laster-markak, historia, fitxak, pasahitzak, gehigarriak eta hobespenak zure gailu guztien artean.
 sync-signedout-account-title = Konektatu { -fxaccount-brand-name } erabiliz
@@ -573,6 +577,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Deskargatu <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> edo <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>erako Firefox zure gailu mugikorrarekin sinkronizatzeko.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Aldatu profileko argazkia
@@ -594,6 +601,34 @@ sync-sign-in =
     .accesskey = H
 sync-signedin-settings-header = Sinkronizazio-ezarpenak
 sync-signedin-settings-desc = Aukeratu zer sinkronizatuko den { -brand-short-name } darabilzun gailuen artean.
+
+## Sync section - enabling or disabling sync.
+
+prefs-sync-now =
+    .labelnotsyncing = Sinkronizatu orain
+    .accesskeynotsyncing = S
+    .labelsyncing = Sinkronizatzen…
+
+## The list of things currently syncing.
+
+sync-currently-syncing-bookmarks = Laster-markak
+sync-currently-syncing-history = Historia
+sync-currently-syncing-tabs = Irekitako fitxak
+sync-currently-syncing-logins-passwords = Saio-hasierak eta pasahitzak
+sync-currently-syncing-addresses = Helbideak
+sync-currently-syncing-creditcards = Kreditu-txartelak
+sync-currently-syncing-addons = Gehigarriak
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Aukerak
+       *[other] Hobespenak
+    }
+sync-change-options =
+    .label = Aldatu…
+    .accesskey = A
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Laster-markak
     .accesskey = m
@@ -628,6 +663,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Aldatu dituzun 'Orokorra', 'Pribatutasuna' eta 'Segurtasuna' ataletako ezarpenak
     .accesskey = o
+
+## The device name controls.
+
 sync-device-name-header = Gailuaren izena
 sync-device-name-change =
     .label = Aldatu gailuaren izena…
