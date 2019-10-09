@@ -89,6 +89,7 @@ newtab-menu-show-privacy-info = Ore pytyvõhára ha iñemigua
 
 newtab-privacy-modal-button-done = Oĩma
 newtab-privacy-modal-header = Ne ñemigua tuichamba’e.
+newtab-privacy-modal-link = Eikuaa mba’éicha omba’apo ñemigua tendayke pyahúpe
 
 
 
