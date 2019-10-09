@@ -5,6 +5,9 @@
 head-title = เกี่ยวกับเครื่องมือนักพัฒนา
 enable-title = เปิดใช้งานเครื่องมือนักพัฒนา Firefox
 enable-inspect-element-title = เปิดใช้งานเครื่องมือนักพัฒนา Firefox เพื่อใช้การตรวจสอบองค์ประกอบ
+enable-inspect-element-message = ตรวจสอบและแก้ไข HTML และ CSS ด้วยตัวตรวจสอบของเครื่องมือนักพัฒนา
+enable-about-debugging-message = พัฒนาและดีบั๊ก WebExtensions ตัวทำงานเว็บ ตัวทำงานบริการ และอื่น ๆ อีกมากมายด้วยเครื่องมือนักพัฒนา Firefox
+enable-key-shortcut-message = คุณเปิดใช้งานทางลัดเครื่องมือนักพัฒนาแล้ว หากนั่นเป็นข้อผิดพลาด คุณสามารถปิดแท็บนี้ได้
 enable-learn-more-link = เรียนรู้เพิ่มเติมเกี่ยวกับเครื่องมือนักพัฒนา
 enable-enable-button = เปิดใช้งานเครื่องมือนักพัฒนา
 enable-close-button = ปิดแท็บนี้
