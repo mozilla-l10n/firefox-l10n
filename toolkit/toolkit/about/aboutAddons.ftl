@@ -308,6 +308,7 @@ addon-options-button =
 ## Add-on actions
 report-addon-button = Segnala
 remove-addon-button = Rimuovi
+remove-addon-disabled-button = Impossibile rimuovere <a data-l10n-name="link">Perché?</a>
 disable-addon-button = Disattiva
 enable-addon-button = Attiva
 expand-addon-button = Altre opzioni
