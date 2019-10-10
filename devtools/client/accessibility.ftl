@@ -47,3 +47,5 @@ accessibility-text-label-issue-toolbar = Las barras de herramientas deben estar 
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-tabindex = Evita usar el atributo <code>tabindex</code> mayor a cero. <a>Aprender más</a>
+accessibility-keyboard-issue-action = Los elementos interactivos deben poder ser activados usando un teclado. <a>Aprender más</a>

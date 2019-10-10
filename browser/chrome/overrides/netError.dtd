@@ -195,6 +195,7 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Parece que tus ajustes de seguridad de red están causando esto. ¿Quieres que se restauren los ajustes predeterminados?">
 <!ENTITY prefReset.label "Restaurar ajustes predeterminados">
 
+<!ENTITY enableTls10.longDesc "Este sitio podría no soportar el protocolo TLS 1.2, el cual es la versión mínima soportada por &brandShortName;. Activar TLS 1.0 y TLS 1.1 podría permitir que esta conexión sea exitosa.">
 <!ENTITY enableTls10.note "TLS 1.0 y TLS 1.1 serán deshabilitados permanentemente en una versión futura.">
 <!ENTITY enableTls10.label "Habilitar TLS 1.0 y 1.1">
 

@@ -61,6 +61,7 @@ certificate-viewer-public-key-info = Información de clave pública
 certificate-viewer-miscellaneous = Misceláneos
 certificate-viewer-fingerprints = Huellas digitales
 certificate-viewer-basic-constraints = Restricciones básicas
+certificate-viewer-authority-info-aia = Información de la autoridad (AIA)
 certificate-viewer-certificate-policies = Políticas de Certificado
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.

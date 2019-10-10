@@ -41,6 +41,7 @@ social-tab-contant = Las redes sociales colocan rastreadores en otros sitios web
 cookie-tab-title = Cookies de rastreo de sitios cruzados
 cookie-tab-content = Estas cookies te siguen de sitio en sitio para recopilar datos sobre lo que haces en línea. Son colocadas por terceros, tales como empresas de publicidad y de analítica. loquear las cookies de rastreo de sitios cruzados reduce el número de anuncios que te siguen. <a data-l10n-name="learn-more-link">Aprender más</a>
 tracker-tab-title = Contenido de rastreo
+tracker-tab-description = Los sitios web pueden cargar anuncios publicitarios, videos y otros elementos con códigos para seguimiento. Bloquearlos contenidos de seguimiento puede ayudar a que los sitios carguen más rápido, pero algunos botones, formularios y campos para conectarse podrían dejar de funcionar. <a data-l10n-name="learn-more-link">Aprender más</a>
 fingerprinter-tab-title = Creadores de huellas (Fingerprinters)
 fingerprinter-tab-content = Los creadores de huellas (Fingerprinters) recolectan ajustes de tu navegador y computador para crear un perfil tuyo. Usando esta huella digital ellos pueden seguirte a través de diferentes sitios web. <a data-l10n-name="learn-more-link">Aprender más</a>
 cryptominer-tab-title = Criptomineros
@@ -73,6 +74,7 @@ lockwise-sync-status =
 lockwise-sync-not-syncing-devices = No se está sincronizando con otros dispositivos
 monitor-title = Presta atención a las filtraciones de datos
 monitor-link = Cómo funciona
+monitor-header-content-signed-in = { -monitor-brand-name } te advierte si tu información ha aparecido en una filtración de datos conocida.
 monitor-sign-up = Regístrate para recibir alertas de filtraciones
 auto-scan = Escaneado automáticamente el día de hoy
 # This string is displayed after a large numeral that indicates the total number
