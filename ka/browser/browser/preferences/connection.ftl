@@ -51,7 +51,7 @@ connection-proxy-socks4 =
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = 5
-connection-proxy-noproxy = არ გამოიყენება შემდეგ მისამართებზე
+connection-proxy-noproxy = არ იქნება გამოყენებული შემდეგ მისამართებზე
     .accesskey = ა
 connection-proxy-noproxy-desc = მაგალითი: .mozilla.org, .net.nz, 192.168.1.0/24
 # Do not translate localhost, 127.0.0.1 and ::1.

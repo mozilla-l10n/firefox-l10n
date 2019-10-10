@@ -53,7 +53,7 @@ fonts-langgroup-latin =
 fonts-langgroup-malayalam =
     .label = მალაიური
 fonts-langgroup-math =
-    .label = მათემატიკა
+    .label = მათემატიკური
 fonts-langgroup-odia =
     .label = ორია
 fonts-langgroup-sinhala =
@@ -138,9 +138,6 @@ fonts-languages-fallback-name-vietnamese =
     .label = ვიეტნამური
 fonts-languages-fallback-name-other =
     .label = სხვა (მათ შორის დასავლეთ ევროპული)
-fonts-very-large-warning-title = შრიფტის უმცირესი ზომა დიდია
-fonts-very-large-warning-message = შრიფტის უმცირეს ზომად არჩეულია ზედმეტად დიდი (24 პიქსელზე მეტი) რიცხვი. ამან შეიძლება გაართულოს ან შეუძლებელი გახადოს საჭირო გვერდების გამოყენება, თუნდაც, ამ გვერდის.
-fonts-very-large-warning-accept = ცვლილებების შენახვა ნებისმიერ შემთხვევაში
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
