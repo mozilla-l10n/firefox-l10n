@@ -147,5 +147,10 @@ breach-alert-dismiss =
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login = Ina endataziun per { $loginTitle } cun quest num d'utilisader exista gia.
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Igl exista gia ina endataziun per { $loginTitle } cun quest num d'utilisader. <a data-l10n-name="duplicate-link">Ir a l'endataziun existenta?</a>
 # This is a generic error message.
 about-logins-error-message-default = Ina errur è succedida durant l'emprova da memorisar quest pled-clav.
