@@ -9,7 +9,6 @@
 <!ENTITY retry.label "Ɛreḍ i tikelt-nniḍen">
 <!ENTITY returnToPreviousPage.label "Uɣal ɣeṛ deffir">
 <!ENTITY returnToPreviousPage1.label "Uɣal ɣer deffir (Yelha)">
-<!ENTITY advanced.label "Iɣewwaṛen leqqayen ">
 <!ENTITY advanced2.label "Talqayt…">
 <!ENTITY viewCertificate.label "Sken aselkin">
 
@@ -94,14 +93,8 @@
   <li>M'ulac aɣilif, nermes imawlan n usmel web ɣef ugur-a.</li>
 </ul>">
 
-<!ENTITY certerror.longpagetitle1 "Tuqqna-inek d taraɣelsant">
-
 <!ENTITY certerror.longpagetitle2 "Ɣur-k: izmer ad yili ugur n teɣlist">
 <!ENTITY certerror.sts.longpagetitle  "Ur yeqqin ara: Yezmer ad yili ugur n teɣlist">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
-will be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara "Imawlan n <span class='hostname'/> ur sewlen ara akken iwata asmel-nsen.  Iwakken ad tettummesten telɣut-inek seg takwerḍa, &brandShortName; ur yeqqin ara ɣeṛ usmel-a web.">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -130,9 +123,6 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Tuccḍa d-yekkan seg ugbur yerẓen">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Asebter-agi i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku tella tuccḍa di tuzzna n isefka.</p><ul><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur-agi.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Rnu tasureft…">
-
 <!ENTITY securityOverride.exceptionButton1Label "Qbel ugur u kemmel">
 
 <!ENTITY errorReporting.automatic2 "Tuzzna n tuccḍiwin am ta, d tallelt ad d-tmuddeḍ i Mozilla akken ad isulu u ad isewḥel ismal web n ukellex">
@@ -146,17 +136,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Talɣut leqqayen: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; ur iqqin ara ɣer <span id='wrongSystemTime_URL'/> acku tamrilt n uselkim-inek tesken-d akud arameɣtu u tuqqna-agi d taɣelsant.</p> <p>Aselkim-inek ittwasbadu ɣer <span id='wrongSystemTime_systemDate'/>, ilaq ad yili di <span id='wrongSystemTime_actualDate'/>. Akken ad yefru ugur-agi senfel iɣewwaṛen n uzemz d wakud akken ad imṣaḍa d wakud amaɣtu.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; ur yeqqin ara ɣer <span id='wrongSystemTimeWithoutReference_URL'/> acku tamrilt n uselkim-inek tesken-d akud arameɣtu u tuqqna-agi d taɣelsant.</p> <p>aselkim-inek ittwasbadu ɣer <span id='wrongSystemTimeWithoutReference_systemDate'/>, akken ad yefru ugur-agi senfel iɣewwaṛen n uzemz d wakud akken ad imṣaḍa d wakud amaɣtu.</p>">
-
-<!ENTITY certerror.pagetitle1  "Tuqqna taraɣelsant">
-
 <!ENTITY certerror.pagetitle2  "Ɣur-k: izmer ad yili ugur n teɣlist">
 <!ENTITY certerror.sts.pagetitle  "Ur yeqqin ara: Yezmer ad yili ugur n teɣlist">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Asmel-agi iseqdac HTTP n tɣellist n umesni ufrin (HSTS) iwakken ad yebgen i &brandShortName; akken ad yeqqen kan s tɣeliist. Ihi, d awezɣi timerna n tsureft i uselkin-agi.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ɣur-s tasertit n tɣellist HTTP Strict Transport Security (HSTS), ay-agi yemmal-d d akken &brandShortName; izmer kan ad iqqen ɣur-s s tɣellist. Ur tezmireḍ ara ad ternuḍ tasureft akken ad twaliḍ asmel-agi.">
 <!ENTITY certerror.copyToClipboard.label "Nɣel aḍris ɣef afus">
 
@@ -179,6 +160,8 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Akken nettwali, d iɣewwaṛen n tɣellist n uzeṭṭa-inek i d-yewwin ugur-a. Tebɣiḍ ad terreḍ iɣewwaṛen imezwar?">
 <!ENTITY prefReset.label "Err-d iɣewwaṛen imezwar">
+
+<!ENTITY enableTls10.label "Rmed TLS1.0 akked 1.1">
 
 <!ENTITY networkProtocolError.title "Tuccḍa deg uneggaf n uẓeṭṭa">
 <!ENTITY networkProtocolError.longDesc "<p>Asebter amiran aniɣer i tetteɛraḍeḍ ad tkecmeḍ ur yezmir ara ad d-iban, acku tuccḍa n uneggaf n uẓeṭṭa teḍra-d.</p><ul><li>Nermes bab n usmel web akken ad iẓeṛ ugur-a.</li></ul>">
