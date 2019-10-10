@@ -83,6 +83,16 @@ newtab-menu-delete-history = Usuń z historii
 newtab-menu-save-to-pocket = Zachowaj w { -pocket-brand-name }
 newtab-menu-delete-pocket = Usuń z { -pocket-brand-name }
 newtab-menu-archive-pocket = Archiwizuj w { -pocket-brand-name }
+newtab-menu-show-privacy-info = Nasi sponsorzy i Twoja prywatność
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = OK
+newtab-privacy-modal-header = Twoja prywatność jest ważna.
+newtab-privacy-modal-link = Więcej informacji o prywatności na stronie nowej karty
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Usuń zakładkę
 # Bookmark is a verb here.
