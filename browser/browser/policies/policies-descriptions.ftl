@@ -32,6 +32,7 @@ policy-DisableFirefoxStudies = Impedisci a { -brand-short-name } di condurre stu
 policy-DisableForgetButton = Impedisci accesso al pulsante “Dimentica”.
 policy-DisableFormHistory = Non conservare la cronologia delle ricerche e dei moduli.
 policy-DisableMasterPasswordCreation = Se impostato a “true” non è possibile impostare una password principale.
+policy-DisablePasswordReveal = Non permettere di mostrare le password nelle credenziali salvate.
 policy-DisablePocket = Disattiva la possibilità di salvare pagine web in Pocket.
 policy-DisablePrivateBrowsing = Disattiva la modalità Navigazione anonima.
 policy-DisableProfileImport = Disattiva il menu per importare dati da un altro browser.
