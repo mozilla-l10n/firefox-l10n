@@ -41,4 +41,4 @@ cert-error-symantec-distrust-admin = नोंथाङा बे असुब�
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = { $hasHSTS } HTTP आ गोखो्ङै बैंगा्खौ दैथाइगा्
-cert-error-details-cert-chain-label = चार्टिफिकेटखौ जिनजिरि:
+cert-error-details-cert-chain-label = चार्टिफिकेटनि जिनजिरि:
