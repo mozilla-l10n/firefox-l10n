@@ -90,7 +90,7 @@ newtab-menu-show-privacy-info = Våre sponsorer og ditt personvern
 newtab-privacy-modal-button-done = Ferdig
 newtab-privacy-modal-header = Personvernet ditt er viktig.
 newtab-privacy-modal-paragraph =
-    I tillegg til å servere fengslende historier, viser vi deg også relevante,
+    I tillegg til å servere fengslende historier, viser vi deg også relevant og
     høyt kontrollert innhold fra utvalgte sponsorer. Du kan være sikker på, at dine surfedata
     aldri forlater ditt personlige eksemplar av  { -brand-product-name } — vi ser dem ikke, og sponsorerene våre ser dem ikke heller.
 newtab-privacy-modal-link = Les mer om hvordan personvernet fungerer på den nye fanen
