@@ -5,7 +5,7 @@
 
 <!--LOCALIZATION NOTE (editorCheck.label): DONT_TRANSLATE -->
 <!ENTITY editorCheck.label "შემდგენი">
-<!ENTITY editorCheck.accesskey "c">
+<!ENTITY editorCheck.accesskey "შ">
 
 <!ENTITY compose.label "შემდგენი">
 <!ENTITY editing.label "ახალი გვერდის პარამეტრები">
