@@ -640,6 +640,9 @@ sync-currently-syncing-prefs =
         [windows] პარამეტრები
        *[other] პარამეტრები
     }
+sync-change-options =
+    .label = შეცვლა…
+    .accesskey = შ
 
 ## The "Choose what to sync" dialog.
 
