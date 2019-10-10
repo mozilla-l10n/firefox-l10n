@@ -89,6 +89,7 @@ newtab-menu-show-privacy-info = Nuestros patrocinadores y tu privacidad
 
 newtab-privacy-modal-button-done = Hecho
 newtab-privacy-modal-header = Tu privacidad importa.
+newtab-privacy-modal-link = Aprende cómo funciona la privacidad en la nueva pestaña
 
 
 
