@@ -37,3 +37,4 @@ synced-tabs-context-manage-devices =
     .label = Sefrek ibenkan…
     .accesskey = D
 fxa-sign-in = Qqen ɣer { -sync-brand-short-name }
+turn-on-sync = Rmed { -sync-brand-short-name }

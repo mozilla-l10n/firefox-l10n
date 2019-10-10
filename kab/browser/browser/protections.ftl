@@ -37,6 +37,7 @@ graph-today = Ass-a
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Udlif igebren amḍan amatu n yal anaw n uneḍfaṛ iweḥlen smana-a.
 social-tab-title = Ineḍfaṛen n iẓeḍwa imettanen
+social-tab-contant = Iẓeḍwa n tmetti srusun ineḍfaren deg yesmal web-nniḍen akken ad ḍefren ayen txedmeḍ, tettwaliḍ, akken d wayen tettnezziheḍ srid. Ayagi yettaǧǧa tikebbaniyin n yiẓeḍwa n tmetti ad issinen ugar n wayen tbeṭṭuḍ deg yimeɣna-k n yiẓeḍwa n tmetti. <a data-l10n-name="learn-more-link"> Issin ugar</a>
 cookie-tab-title = Inagan n tuqqna i uḍfaṛ gar yismal
 tracker-tab-title = Agbur n uḍfaṛ
 fingerprinter-tab-title = Idsilen umḍinen
@@ -93,6 +94,20 @@ full-report-link = Wali aneqqis ummid deg <a data-l10n-name="monitor-inline-link
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Ineḍfaṛen n  yiẓeḍwa n tmetti
+    .aria-label =
+        { $count ->
+            [one] { $count } Ineḍfaṛen n  yiẓeḍwa n tmetti ({ $percentage } %)
+           *[other] { $count } Ineḍfaṛen n  yiẓeḍwa n tmetti ({ $percentage } %)
+        }
+bar-tooltip-cookie =
+    .title = Inagan n tuqqna i uḍfaṛ gar yismal
+    .aria-label =
+        { $count ->
+            [one] { $count } Inagan n tuqqna i uḍfaṛ gar yismal ({ $percentage }%)
+           *[other] { $count } Inagan n tuqqna i uḍfaṛ gar yismal({ $percentage }%)
+        }
 bar-tooltip-tracker =
     .title = Agbur n uḍfaṛ
     .aria-label =

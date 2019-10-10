@@ -162,11 +162,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; Iɣewwaṛen">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Qqen ibenk-nniḍen...">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Qqen ɣer &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Rmed &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName; Tanfiwin">
 
 <!ENTITY fxa.menu.account.label "Amiḍan">
 <!ENTITY fxa.menu.settings.label "Iɣewwaṛen">
@@ -921,10 +923,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Ayɣer?">
+<!ENTITY protections.socialMediaTrackers.label "Ineḍfaṛen n yiẓeḍwa n tmetti">
+<!ENTITY protections.crossSiteTrackingCookies.label "Inagan n tuqqna i uḍfaṛ gar yismal">
 <!ENTITY protections.trackingContent.label "Agbur n uḍfaṛ">
 <!ENTITY protections.fingerprinters.label "Idsilen umḍinen">
 <!ENTITY protections.cryptominers.label "Ikripṭuminaren">
+<!ENTITY protections.noTrackersFound.description "Ulac ineḍfaren i yessen &brandShortName; ittwafen deg usebter-a.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Inagan-a n tuqqna ad k-ḍfṛen seg usmel ɣer wayeḍ akken ad d-leqḍen isefka fell-ak srid. Seddayen-ten-id wid ixeddmen adellel akked tkebbaniyin n tesleḍt.">
+<!ENTITY protections.cryptominers.description "Ikripṭuminaren seqdacen tazmert n usiḍen n unagraw-ik akken ad kksen tadrimt tumḍint. Iskripten n yikripṭuminaren sseɣṣen aẓru-ik, saẓayen aselkim-ik, daɣen zemren ad salin tafaturt-ik n ṣṣehd.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -973,9 +980,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection4.label "Agbur n uḍfaṛ">
 
+<!ENTITY contentBlocking.manageSettings2.label "Sefrek iɣewwaṛen n tɣellist">
 
 <!ENTITY contentBlocking.socialblock.label "Ineḍfaṛen n iẓeḍwa imettanen">
 
+<!ENTITY contentBlocking.cookies2.label "Inagan n tuqqna i uḍfaṛ gar yismal">
 
 <!ENTITY contentBlocking.cryptominers.label "Ikripṭuminaren">
 <!ENTITY contentBlocking.cryptominersView.label "Ikripṭuminaren">
