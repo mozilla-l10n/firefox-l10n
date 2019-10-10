@@ -4,9 +4,9 @@
 
 appmenu-update-available =
     .label = Ang { -brand-shorter-name } ay may bagong update.
-    .buttonlabel = I-download ang Pagbabago
+    .buttonlabel = I-download ang Update
     .buttonaccesskey = D
-    .secondarybuttonlabel = Wag muna
+    .secondarybuttonlabel = Huwag Muna
     .secondarybuttonaccesskey = N
 appmenu-update-available-message = I-update ang iyong { -brand-shorter-name } para sa pinakabago sa speed and privacy.
 appmenu-update-manual =
