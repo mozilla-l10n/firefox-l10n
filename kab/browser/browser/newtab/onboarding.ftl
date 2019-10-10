@@ -21,6 +21,10 @@ onboarding-button-label-get-started = Bdu
 onboarding-welcome-header = Ansuf γer { -brand-short-name }
 onboarding-welcome-body = Tesɛiḍ iminig. <br/> Wali ayen id-yeqqimen seg { -brand-product-name }.
 onboarding-welcome-learn-more = Lmed ugar ɣef ayen yeɛnan ibaɣuren.
+onboarding-welcome-modal-get-body = Tesɛiḍ iminig.<br/>Tura awi-d ayen tzemreḍ seg { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Snerni taɣellist n tbaḑnint-ik/im.
+onboarding-welcome-modal-privacy-body = Tesɛiḑ iminig. Yyaw ad nesnerni taɣellist n tbaḍnit.
+onboarding-welcome-modal-family-learn-more = Lmed ɣef twacult n yifarisen { -brand-product-name }.
 onboarding-welcome-form-header = Bdu dagi
 onboarding-join-form-header = Kki { -brand-product-name }
 onboarding-join-form-body = Sekcem tansa-inek imayl iwakken ad tebduḍ.
@@ -65,6 +69,10 @@ onboarding-benefit-privacy-title = Tudert tabaḍnit n tidet
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = S kra n wayen i nxeddemn yettqadaṛ ṭmana-nneɣ ɣef yisefka udmawanen: Lqeḍ drus n yisefka, mmesten-iten. Ulac tufra.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Awi yid-k ticraḍ-ik n yisebtar, awalen-ik uffiren, azray, d wayen-nniḍen, sekra wanida i tesqeḍceḍ { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 

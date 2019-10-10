@@ -87,6 +87,8 @@ newtab-menu-archive-pocket = Ḥrez di { -pocket-brand-name }
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Immed
+newtab-privacy-modal-header = Aqadeṛ n tudert-ik tabaḍnit yeɛna-aɣ.
+newtab-privacy-modal-link = Lmed amek tettedu tbaḍnit deg yiccer amaynut
 
 
 
