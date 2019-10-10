@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Pierwsze kroki
 onboarding-welcome-header = Witamy w przeglądarce { -brand-short-name }
 onboarding-welcome-body = Masz już przeglądarkę.<br/>Poznaj resztę rodziny { -brand-product-name }.
 onboarding-welcome-learn-more = Więcej informacji o korzyściach.
+onboarding-welcome-modal-get-body = Masz już przeglądarkę.<br/>Teraz w pełni wykorzystaj rodzinę { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Wzmocnij ochronę swojej prywatności.
+onboarding-welcome-modal-privacy-body = Masz już przeglądarkę. Zwiększmy teraz ochronę prywatności.
+onboarding-welcome-modal-family-learn-more = Więcej informacji o rodzinie produktów { -brand-product-name }.
+onboarding-welcome-form-header = Zacznij tutaj
 onboarding-join-form-header = Dołącz do { -brand-product-name }
 onboarding-join-form-body = Wpisz swój adres e-mail, aby zacząć.
 onboarding-join-form-email =
@@ -64,6 +69,12 @@ onboarding-benefit-privacy-title = Prawdziwa prywatność
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Wszystko, co robimy, jest w zgodzie z naszą obietnicą o danych osobowych: zachowujemy mniej, pilnujemy ich bezpieczeństwa, nie mamy żadnych tajemnic.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Zabierz swoje zakładki, hasła, historię i nie tylko wszędzie, gdzie korzystasz z przeglądarki { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Otrzymuj powiadomienia, kiedy Twoje prywatne informacje znajdą się w znanym wycieku danych.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Zarządzaj chronionymi i przenośnymi hasłami.
 
 ## These strings belong to the individual onboarding messages.
 
