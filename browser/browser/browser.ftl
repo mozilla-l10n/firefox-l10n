@@ -62,6 +62,8 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = തിരയല്‍ സജ്ജീകരണങ്ങള്‍ മാറ്റൂ
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = തിരച്ചിൽ സെറ്റിങ്സ് ‌മാറ്റുക
 search-one-offs-context-open-new-tab =
     .label = പുതിയ ടാബില്‍ തിരയുക
     .accesskey = T
