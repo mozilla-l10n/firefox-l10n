@@ -70,6 +70,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = Cerca tu le credentiales salvate? Configura { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = Nulle credentiales synchronisate trovate.
 login-intro-description = Si tu salvava tu credentiales pro { -brand-product-name } sur un apparato differente, ecce ci como a los obtener:
 login-intro-instruction-fxa = Crea o accede a tu { -fxaccount-brand-name } sur le apparato ubi es salvate tu credentiales.
 login-intro-instruction-fxa-settings = Assecura te que le quadro de selection Credentiales es seligite in le parametros de { -sync-brand-short-name }

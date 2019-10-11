@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Predefinir como motor de recerca
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = Definir como Motor de recerca ordinari pro Fenestras anonyme
+    .accesskey = a

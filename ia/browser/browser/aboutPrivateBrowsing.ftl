@@ -26,5 +26,15 @@ about-private-browsing-not-private = Tu non es actualmente in un fenestra privat
 content-blocking-title = Blocada de contentos
 content-blocking-description = Alcun sitos web usa traciatores que pote controlar tu activitate trans internet. In le Fenestras private { -brand-short-name } Content Blocking bloca automaticamente plure traciatores que pote colliger informationes re tu comportamento in navigation.
 about-private-browsing-info-description = { -brand-short-name } cancella tu chronologia de navigation e de recerca quando tu quita le application o claude tote le schedas e fenestras de navigation private. Ben que isto non te rende anonyme al sitos web o a tu providitor de servicio internet, illo rende plus facile mantener private lo que tu face online, salvo que pro illes qui usa iste computator.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } es tu motor de recerca predefinite in Fenestras anonyme
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Pro seliger un differente motor de recerca ir a <a data-l10n-name="link-options">Optiones</a>
+       *[other] Pro seliger un differente motor de recerca ir a <a data-l10n-name="link-options">Preferentias</a>
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = Clauder

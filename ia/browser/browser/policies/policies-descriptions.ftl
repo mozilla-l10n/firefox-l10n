@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = Impedir a { -brand-short-name } de exequer studio
 policy-DisableForgetButton = Impedir accesso al button Oblidar.
 policy-DisableFormHistory = Non rememorar le chronologia de recercas e formularios.
 policy-DisableMasterPasswordCreation = Si ver, non pote esser create un contrasigno principal.
+policy-DisablePasswordReveal = Non consentir esser revelate contrasignos in credentiales salvate.
 policy-DisablePocket = Disactivar le functionalitate pro salvar paginas web in Pocket.
 policy-DisablePrivateBrowsing = Disactivar le Navigation private.
 policy-DisableProfileImport = Disactivar le commando del menu pro importar datos ab un altere navigator.
@@ -61,6 +62,7 @@ policy-HardwareAcceleration = Si false, disactivar le acceleration hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Definir e optionalmente blocar le pagina principal.
 policy-InstallAddonsPermission = Consentir a certe sitos web de installar additivos.
+policy-LegacyProfiles = Disactivar le functionalitate fortiante un profilo separate pro cata installation
 policy-LocalFileLinks = Consentir a specific sitos web de usar ligamines a files local.
 policy-NetworkPrediction = Activar o disactivar prediction del rete (prelectura del DNS).
 policy-NewTabPage = Activar o disactivar le pagina Nove scheda.
