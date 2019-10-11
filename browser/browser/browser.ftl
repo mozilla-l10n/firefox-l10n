@@ -65,3 +65,21 @@ full-screen-autohide =
 full-screen-exit =
     .label = Dilni nga Sa Krejt Ekrani
     .accesskey = D
+
+## Search Engine selection buttons (one-offs)
+
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Këtë herë kërko me:
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Ndryshoji Rregullimet e Kërkimit
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Ndryshoni rregullime kërkimi
+search-one-offs-context-open-new-tab =
+    .label = Kërkoni në Skedë të Re
+    .accesskey = S
+search-one-offs-context-set-as-default =
+    .label = Caktojeni Si Motor Parazgjedhje Kërkimesh
+    .accesskey = P
