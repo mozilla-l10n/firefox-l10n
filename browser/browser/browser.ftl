@@ -65,3 +65,18 @@ full-screen-autohide =
 full-screen-exit =
     .label = Fàg modh na làn-sgrìn
     .accesskey = l
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Roghainnean luirg
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Atharraich na roghainnean luirg
+search-one-offs-context-open-new-tab =
+    .label = Lorg ann an taba ùr
+    .accesskey = t
+search-one-offs-context-set-as-default =
+    .label = Cleachd seo mar an t-einnsean-luirg bunaiteach
+    .accesskey = d
