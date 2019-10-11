@@ -66,6 +66,11 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = සෙවුම් සැකසුම් වෙනස් කරන්න
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = සෙවුම් සිටුවම් වෙනස් කරන්න
 search-one-offs-context-open-new-tab =
     .label = නව ටැබයක සොයන්න
     .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = පෙරනිමි සෙවුම් එළවුම ලෙස තබන්න
+    .accesskey = D
