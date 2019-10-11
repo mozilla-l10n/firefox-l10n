@@ -65,3 +65,18 @@ full-screen-autohide =
 full-screen-exit =
     .label = Ekki fylla skjá
     .accesskey = f
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Breyta leitarstillingum
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Breyta leitarstillingum
+search-one-offs-context-open-new-tab =
+    .label = Leita og birta í nýjum flipa
+    .accesskey = f
+search-one-offs-context-set-as-default =
+    .label = Setja sem sjálfgefna leitarvél
+    .accesskey = l
