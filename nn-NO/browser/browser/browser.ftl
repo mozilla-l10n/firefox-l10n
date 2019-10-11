@@ -65,3 +65,9 @@ full-screen-autohide =
 full-screen-exit =
     .label = Avslutt fullskjermmodus
     .accesskey = v
+
+## Search Engine selection buttons (one-offs)
+
+search-one-offs-context-open-new-tab =
+    .label = Søk i ny fane
+    .accesskey = ø
