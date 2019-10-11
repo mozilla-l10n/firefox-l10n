@@ -72,3 +72,11 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Aldatu bilaketa-ezarpenak
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Aldatu bilaketa-ezarpenak
+search-one-offs-context-open-new-tab =
+    .label = Bilatu fitxa berrian
+    .accesskey = f
+search-one-offs-context-set-as-default =
+    .label = Ezarri bilaketa-motor lehenetsi gisa
+    .accesskey = h
