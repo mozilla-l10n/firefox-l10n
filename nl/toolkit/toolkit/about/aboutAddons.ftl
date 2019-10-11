@@ -319,6 +319,8 @@ addon-options-button =
 
 report-addon-button = Rapporteren
 remove-addon-button = Verwijderen
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Kan niet worden verwijderd <a data-l10n-name="link">Waarom?</a>
 disable-addon-button = Uitschakelen
 enable-addon-button = Inschakelen
 expand-addon-button = Meer opties
