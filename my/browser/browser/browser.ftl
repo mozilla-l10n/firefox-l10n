@@ -66,3 +66,11 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = ရှာဖွေရေး အပြင်အဆင်များကို ပြောင်းလဲရန်
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = ရှာဖွေမှု အပြင်အဆင်များကို ပြောင်းလဲရန်
+search-one-offs-context-open-new-tab =
+    .label = တပ်ဗ်အသစ်တွင် ရှာရန်
+    .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = ပုံသေရှာဖွေရေးယန္တရားအဖြစ် သတ်မှတ်ပါ
+    .accesskey = D
