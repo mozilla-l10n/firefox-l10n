@@ -72,6 +72,8 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Промени поставке претраге
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Промени поставке претраге
 search-one-offs-context-open-new-tab =
     .label = Претражи у новом језичку
     .accesskey = ј
