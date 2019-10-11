@@ -14,3 +14,18 @@ urlbar-translate-notification-anchor =
 
 page-action-add-to-urlbar =
     .label = Agghiunci nnâ sbarra dû nnirizzu
+
+## Auto-hide Context Menu
+
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Mpustazzioni di ricerca
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Cancia li mpustazzioni di ricerca
+search-one-offs-context-open-new-tab =
+    .label = Cerca nta na nova scheda
+    .accesskey = n
