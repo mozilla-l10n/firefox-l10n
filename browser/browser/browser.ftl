@@ -65,3 +65,16 @@ full-screen-autohide =
 full-screen-exit =
     .label = სრულეკრანიანი რეჟიმიდან გამოსვლა
     .accesskey = ს
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = ძიების პარამეტრების შეცვლა
+search-one-offs-context-open-new-tab =
+    .label = ძიება ახალ ჩანართში
+    .accesskey = ნ
+search-one-offs-context-set-as-default =
+    .label = ნაგულისხმევ საძიებო სისტემად დაყენება
+    .accesskey = გ
