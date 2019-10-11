@@ -26,3 +26,17 @@ about-private-browsing-not-private = Questa non è una finestra anonima.
 content-blocking-title = Blocco contenuti
 content-blocking-description = Alcuni siti web utilizzano elementi traccianti in grado di seguire l’attività degli utenti su Internet. Nelle finestre anonime il blocco contenuti di { -brand-short-name } blocca automaticamente molti di questi strumenti, impedendo la raccolta di informazioni sulle abitudini di navigazione dei visitatori.
 about-private-browsing-info-description = { -brand-short-name } cancella la cronologia di ricerca e navigazione quando si chiude l’applicazione o vengono chiuse tutte le finestre e schede in Navigazione anonima. Nonostante questa modalità non ti renda completamente anonimo nei confronti dei siti web o del tuo fornitore di servizi internet, si tratta comunque di uno strumento utile per impedire ad altri utilizzatori di questo computer di ottenere informazioni sulla tua attività online.
+
+
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } è il motore di ricerca predefinito nelle finestre anonime
+about-private-browsing-search-banner-description = {
+  PLATFORM() ->
+     [windows] È possibile selezionare un altro motore di ricerca nelle <a data-l10n-name="link-options">opzioni</a>
+    *[other] È possibile selezionare un altro motore di ricerca nelle <a data-l10n-name="link-options">preferenze</a>
+  }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Chiudi
