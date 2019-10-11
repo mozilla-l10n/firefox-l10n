@@ -303,6 +303,8 @@ addon-options-button =
 
 report-addon-button = Reportar
 remove-addon-button = Remover
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Impossibile eliminar <a data-l10n-name="link">Perque?</a>
 disable-addon-button = Disactivar
 enable-addon-button = Activar
 expand-addon-button = Altere optiones
