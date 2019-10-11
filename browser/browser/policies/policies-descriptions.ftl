@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = Förhindra { -brand-short-name } att genomföra u
 policy-DisableForgetButton = Förhindra tillgång till knappen Glöm.
 policy-DisableFormHistory = Spara inte sök- och formulärhistorik.
 policy-DisableMasterPasswordCreation = Om aktiv, kan inte ett huvudlösenord skapas.
+policy-DisablePasswordReveal = Låt inte lösenord avslöjas i sparade inloggningar.
 policy-DisablePocket = Inaktivera funktionen att spara webbsidor till Pocket.
 policy-DisablePrivateBrowsing = Inaktivera privat surfning.
 policy-DisableProfileImport = Inaktivera menyalternativet att importera data från en annan webbläsare.
@@ -61,6 +62,7 @@ policy-HardwareAcceleration = Om inaktiv, stäng av hårdvaruacceleration.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Ställ in och eventuellt lås startsidan.
 policy-InstallAddonsPermission = Tillåt vissa webbplatser att installera tillägg.
+policy-LegacyProfiles = Inaktivera funktionen som framtvingar en separat profil för varje installation
 policy-LocalFileLinks = Tillåt specifika webbplatser att länka till lokala filer.
 policy-NetworkPrediction = Aktivera eller inaktivera nätverksprediktning (DNS-prefetch).
 policy-NewTabPage = Aktivera eller inaktivera sidan Ny flik.
