@@ -56,3 +56,11 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Socruithe Cuardaigh
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Athraigh na socruithe cuardaigh
+search-one-offs-context-open-new-tab =
+    .label = Cuardaigh i gCluaisín Nua
+    .accesskey = r
+search-one-offs-context-set-as-default =
+    .label = Socraigh mar Inneall Cuardaigh Réamhshocraithe
+    .accesskey = d
