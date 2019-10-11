@@ -72,6 +72,8 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = 更改搜索设置
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = 更改搜索设置
 search-one-offs-context-open-new-tab =
     .label = 在新标签页中搜索
     .accesskey = T
