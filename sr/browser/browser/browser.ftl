@@ -65,3 +65,16 @@ full-screen-autohide =
 full-screen-exit =
     .label = Обустави приказ преко целог екрана
     .accesskey = ц
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Промени поставке претраге
+search-one-offs-context-open-new-tab =
+    .label = Претражи у новом језичку
+    .accesskey = ј
+search-one-offs-context-set-as-default =
+    .label = Постави као подразумевани претраживач
+    .accesskey = т
