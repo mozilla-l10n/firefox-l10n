@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = I-set sa Default Search Engine
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = Itakda bilang Default Search Engine sa mga Private Window
+    .accesskey = P

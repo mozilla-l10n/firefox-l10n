@@ -298,6 +298,8 @@ addon-options-button =
 
 report-addon-button = Isumbong
 remove-addon-button = Tanggalin
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Hindi Matanggal <a data-l10n-name="link">Bakit?</a>
 disable-addon-button = I-disable
 enable-addon-button = I-enable
 expand-addon-button = Karagdagang Pagpipilian

@@ -9,6 +9,6 @@ errors-tab = Mga Mali
 documentation-tab = Dokumentasyon
 no-specified-policies-message = Ang Enterprise Policies na serbisyo ay aktibo ngunit wala pang pinaganang patakaran.
 inactive-message = Ang Enterprise Policies na serbisyo ay hindi aktibo.
-policy-name = Titulo ng Polisiya
+policy-name = Pangalan ng Patakaran
 policy-value = Halaga ng Polisiya
 policy-errors = Mga Mali sa Polisiya

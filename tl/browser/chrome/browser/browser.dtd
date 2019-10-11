@@ -945,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Mga Tracking Content">
 <!ENTITY protections.fingerprinters.label "Mga fingerprinter">
 <!ENTITY protections.cryptominers.label "Mga cryptominer">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Lahat ng mga tracker sa site na ito ay nag-load dahil nakasara ang mga protection.">
 <!ENTITY protections.noTrackersFound.description "Walang mga tracker na kilala ng &brandShortName; na natuklasan sa pahinang ito.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Sinusundan ka ng mga cookie na ito sa iba't-ibang mga site para matyagan ka sa kung ano ang ginagawa mo online. Itinakda ito ng mga third party kagaya ng mga advertiser at kumpanyang may kinalaman sa analytics.">
