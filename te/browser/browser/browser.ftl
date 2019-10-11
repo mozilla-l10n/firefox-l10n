@@ -61,3 +61,9 @@ full-screen-autohide =
 full-screen-exit =
     .label = నిండు తెర రీతిని వదలివెళ్ళు
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+search-one-offs-context-set-as-default =
+    .label = అప్రమేయ శోధన యంత్రంగా అమర్చండి
+    .accesskey = D
