@@ -68,6 +68,18 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = הפעם, לחפש באמצעות:
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = שינוי הגדרות החיפוש
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = שינוי הגדרות החיפוש
 search-one-offs-context-open-new-tab =
     .label = חיפוש בלשונית חדשה
     .accesskey = ל
+search-one-offs-context-set-as-default =
+    .label = הגדרה כמנוע חיפוש ברירת מחדל
+    .accesskey = ב
