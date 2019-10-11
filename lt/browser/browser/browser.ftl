@@ -65,3 +65,18 @@ full-screen-autohide =
 full-screen-exit =
     .label = Grįžti iš viso ekrano veiksenos
     .accesskey = v
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Keisti paieškos nuostatas
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Keisti paieškos nuostatas
+search-one-offs-context-open-new-tab =
+    .label = Ieškoti naujoje kortelėje
+    .accesskey = k
+search-one-offs-context-set-as-default =
+    .label = Laikyti numatytąja ieškykle
+    .accesskey = m
