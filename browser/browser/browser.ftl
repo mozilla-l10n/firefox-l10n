@@ -59,3 +59,15 @@ full-screen-autohide =
 full-screen-exit =
     .label = पूरा पर्दा बन्द गर्नुहोस्
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = खोज सेटिङ परिवर्तन गर्नुहोस्
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = खोज सेटिङ परिवर्तन गर्नुहोस्
+search-one-offs-context-open-new-tab =
+    .label = नयाँ ट्याबमा खोज्नुहोस्
+    .accesskey = T
