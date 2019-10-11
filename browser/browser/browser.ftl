@@ -65,3 +65,18 @@ full-screen-autohide =
 full-screen-exit =
     .label = اخرج من وضع ملء الشاشة
     .accesskey = و
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = غيّر إعدادات البحث
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = غيّر إعدادات البحث
+search-one-offs-context-open-new-tab =
+    .label = ابحث في لسان جديد
+    .accesskey = س
+search-one-offs-context-set-as-default =
+    .label = اجعله محرك البحث الافتراضي
+    .accesskey = ف
