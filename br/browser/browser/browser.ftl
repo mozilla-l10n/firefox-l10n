@@ -65,3 +65,18 @@ full-screen-autohide =
 full-screen-exit =
     .label = Kuitaat ar mod skramm a-bezh
     .accesskey = K
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Kemmañ an arventennoù klask
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Kemmañ an arventennoù klask
+search-one-offs-context-open-new-tab =
+    .label = Klask en ivinell nevez
+    .accesskey = n
+search-one-offs-context-set-as-default =
+    .label = Lakaat evel keflusker enklask dre ziouer
+    .accesskey = k
