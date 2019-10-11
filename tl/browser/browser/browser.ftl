@@ -65,3 +65,12 @@ full-screen-autohide =
 full-screen-exit =
     .label = Lumabas sa Full Screen Mode
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+search-one-offs-context-open-new-tab =
+    .label = Hanapin sa Bagong Tab
+    .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = I-set sa Default Search Engine
+    .accesskey = D
