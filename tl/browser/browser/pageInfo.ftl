@@ -100,10 +100,10 @@ security-view-privacy-clearsitedata =
     .accesskey = C
 security-view-privacy-passwords-value = Nakapag-save na ba ako ng mga password para sa website na ito?
 security-view-privacy-viewpasswords =
-    .label = Ipakita ang naka-saved na Passwords
+    .label = Tingnan ang mga Naka-save na Password
     .accesskey = w
 security-view-technical =
-    .value = Detalyeng Pangtiknikal
+    .value = Detalyeng Pangteknikal
 help-button =
     .label = Tulong
 
