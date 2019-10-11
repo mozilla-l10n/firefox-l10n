@@ -56,3 +56,20 @@ page-action-manage-extension =
     .label = Håndter udvidelse…
 page-action-remove-from-urlbar =
     .label = Fjern fra adressefeltet
+
+## Auto-hide Context Menu
+
+
+## Search Engine selection buttons (one-offs)
+
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Søg denne gang med:
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Skift søgeindstillinger
+search-one-offs-context-open-new-tab =
+    .label = Søg i nyt faneblad
+    .accesskey = f
+search-one-offs-context-set-as-default =
+    .label = Sæt som standard-søgemaskine
+    .accesskey = s
