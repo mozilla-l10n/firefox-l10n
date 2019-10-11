@@ -65,3 +65,9 @@ full-screen-autohide =
 full-screen-exit =
     .label = Ffeɣ seg uskar n ugdil ačaran
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+search-one-offs-context-set-as-default =
+    .label = Sers-it d amsedday n unadi amezwer
+    .accesskey = D
