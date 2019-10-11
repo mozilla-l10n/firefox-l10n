@@ -65,3 +65,18 @@ full-screen-autohide =
 full-screen-exit =
     .label = Tam ekran rejimdən çıx
     .accesskey = e
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Axtarış Tənzimləmələrini Dəyiş
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Axtarış tənzimləmələrinizi dəyişdir
+search-one-offs-context-open-new-tab =
+    .label = Yeni vərəqdə axtar
+    .accesskey = v
+search-one-offs-context-set-as-default =
+    .label = Əsas axtarış mühərriki et
+    .accesskey = m
