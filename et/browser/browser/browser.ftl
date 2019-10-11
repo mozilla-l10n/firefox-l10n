@@ -65,3 +65,9 @@ full-screen-autohide =
 full-screen-exit =
     .label = Välju täisekraanirežiimist
     .accesskey = V
+
+## Search Engine selection buttons (one-offs)
+
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Seekord soorita otsing järgneva otsingumootoriga:
