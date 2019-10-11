@@ -72,6 +72,8 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = ძიების პარამეტრების შეცვლა
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = ძიების პარამეტრების შეცვლა
 search-one-offs-context-open-new-tab =
     .label = ძიება ახალ ჩანართში
     .accesskey = ნ
