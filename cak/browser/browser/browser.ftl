@@ -72,3 +72,11 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Kek'ëx ri taq rajowaxïk ri kanoxïk
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Tijal kinuk'ulem kanob'äl
+search-one-offs-context-open-new-tab =
+    .label = Tikanöx pa k'ak'a' ruwi'
+    .accesskey = r
+search-one-offs-context-set-as-default =
+    .label = Tiya' achi'el ruk'amon wi pe chi kanob'äl
+    .accesskey = r
