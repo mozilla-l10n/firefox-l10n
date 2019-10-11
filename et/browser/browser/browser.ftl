@@ -75,6 +75,8 @@ search-one-offs-with-title = Seekord soorita otsing järgneva otsingumootoriga:
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Muuda otsingu sätteid
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Otsingu sätete muutmine
 search-one-offs-context-open-new-tab =
     .label = Soorita otsing uuel kaardil
     .accesskey = S
