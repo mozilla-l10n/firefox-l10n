@@ -70,6 +70,11 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Ubah Tetapan Carian
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Ubah tetapan carian
 search-one-offs-context-open-new-tab =
     .label = Cari dalam Tab Baru
     .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = Tetapkan sebagai Enjin Carian Piawai
+    .accesskey = P
