@@ -27,3 +27,10 @@ full-screen-autohide =
 full-screen-exit =
     .label = आबुं स्क्रिन म'ड निफ्राय ओंखार लां
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = नागिरनाय सेटिंखौ सोलाय
