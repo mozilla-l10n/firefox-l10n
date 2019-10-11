@@ -72,3 +72,11 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Keresési beállítások módosítása
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Keresési beállítások módosítása
+search-one-offs-context-open-new-tab =
+    .label = Keresés új lapon
+    .accesskey = r
+search-one-offs-context-set-as-default =
+    .label = Legyen alapértelmezett keresőszolgáltatás
+    .accesskey = L
