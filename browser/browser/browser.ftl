@@ -65,3 +65,8 @@ full-screen-autohide =
 full-screen-exit =
     .label = Выйти из полноэкранного режима
     .accesskey = ы
+
+## Search Engine selection buttons (one-offs)
+
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Изменить параметры поиска
