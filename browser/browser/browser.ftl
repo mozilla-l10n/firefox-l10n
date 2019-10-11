@@ -65,3 +65,8 @@ full-screen-autohide =
 full-screen-exit =
     .label = Opuść tryb pełnoekranowy
     .accesskey = O
+
+## Search Engine selection buttons (one-offs)
+
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Zmień ustawienia wyszukiwania
