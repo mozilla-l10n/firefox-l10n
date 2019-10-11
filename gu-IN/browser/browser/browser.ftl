@@ -65,3 +65,18 @@ full-screen-autohide =
 full-screen-exit =
     .label = સંપૂર્ણ સ્ક્રીન સ્થિતિમાંથી બહાર નીકળો
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = શોધ ના સેટિંગ્સ બદલો
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = શોધ ના સેટિંગ્સ બદલો
+search-one-offs-context-open-new-tab =
+    .label = નવી ટૅબમાં શોધો
+    .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = મૂળભૂત શોધ એંજીન તરીકે સેટ કરો
+    .accesskey = D
