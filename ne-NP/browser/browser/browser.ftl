@@ -71,3 +71,6 @@ search-one-offs-change-settings-compact-button =
 search-one-offs-context-open-new-tab =
     .label = नयाँ ट्याबमा खोज्नुहोस्
     .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = पूर्वनिर्धारित खोजी इन्जिन बनाउनुहोस्
+    .accesskey = D
