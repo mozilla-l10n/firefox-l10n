@@ -65,3 +65,18 @@ full-screen-autohide =
 full-screen-exit =
     .label = Modus połneje wobrazowki spušćiś
     .accesskey = M
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Pytańske nastajenja
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Pytańske nastajenja změniś
+search-one-offs-context-open-new-tab =
+    .label = W nowem rejtarku pytaś
+    .accesskey = r
+search-one-offs-context-set-as-default =
+    .label = Ako standardnu pytnicu nastajiś
+    .accesskey = d
