@@ -72,6 +72,8 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Ubah Pengaturan Pencarian
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Ubah setelan pencarian
 search-one-offs-context-open-new-tab =
     .label = Cari di Tab Baru
     .accesskey = T
