@@ -65,3 +65,18 @@ full-screen-autohide =
 full-screen-exit =
     .label = ਪੂਰੀ ਸਕਰੀਨ ਮੋਡ ਬੰਦ ਕਰੋ
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = ਖੋਜ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲੋ
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = ਖੋਜ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲੋ
+search-one-offs-context-open-new-tab =
+    .label = ਨਵੀਂ ਟੈਬ 'ਚ ਖੋਜੋ
+    .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = ਮੂਲ ਖੋਜ ਇੰਜਣ ਵਜੋਂ ਸੈੱਟ ਕਰੋ
+    .accesskey = D
