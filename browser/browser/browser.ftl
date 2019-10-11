@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Definir como mecanismo de pesquisa padrão
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = Definir como mecanismo de pesquisa padrão em janelas privativas
+    .accesskey = p
