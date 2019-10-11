@@ -72,6 +72,8 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Cambiar preferencias de búsqueda
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Cambiar preferencias de búsqueda
 search-one-offs-context-open-new-tab =
     .label = Buscar en nueva pestaña
     .accesskey = p
