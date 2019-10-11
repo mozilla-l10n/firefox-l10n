@@ -304,6 +304,8 @@ addon-options-button =
 
 report-addon-button = K wěsći daś
 remove-addon-button = Wótwónoźeś
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Njedajo se wótwónoźeś <a data-l10n-name="link">Cogodla?</a>
 disable-addon-button = Znjemóžniś
 enable-addon-button = Zmóžniś
 expand-addon-button = Dalšne nastajenja
