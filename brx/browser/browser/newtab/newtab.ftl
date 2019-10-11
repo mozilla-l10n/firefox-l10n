@@ -68,6 +68,13 @@ newtab-menu-unpin = पिन दिहुन
 newtab-menu-delete-history = जारिमिन निफ्राय खोमोर
 newtab-menu-save-to-pocket = { -pocket-brand-name } आव थिना दोन
 newtab-menu-delete-pocket = { -pocket-brand-name } निफ्राय खोमोर
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = जाखांबाइ
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = बुकमाकॅखौ बोखार
 # Bookmark is a verb here.
