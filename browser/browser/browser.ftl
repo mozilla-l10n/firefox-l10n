@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Instellen als standaardzoekmachine
     .accesskey = s
+search-one-offs-context-set-as-default-private =
+    .label = Als standaardzoekmachine voor privévensters instellen
+    .accesskey = p
