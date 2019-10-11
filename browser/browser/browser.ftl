@@ -65,3 +65,16 @@ full-screen-autohide =
 full-screen-exit =
     .label = Sciòrti da-o mòddo a tutto schermo
     .accesskey = S
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Inpostaçioin da riçerca
+search-one-offs-context-open-new-tab =
+    .label = Çerca inte neuvo feuggio
+    .accesskey = n
+search-one-offs-context-set-as-default =
+    .label = Inpòsta comme motô de riçerca predefinio
+    .accesskey = m
