@@ -65,3 +65,15 @@ full-screen-autohide =
 full-screen-exit =
     .label = Izīt nu pylnekrana režyma
     .accesskey = p
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Maineit mekliešonys īstatiejumus
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Maineit mekliešonys īstatiejumus
+search-one-offs-context-set-as-default =
+    .label = Īstateit par nūkluseitū mekleituoju
+    .accesskey = n
