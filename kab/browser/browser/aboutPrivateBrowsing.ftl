@@ -26,3 +26,10 @@ about-private-browsing-not-private = Mačči deg usfaylu uslig i telliḍ tura.
 content-blocking-title = Asewḥel n ugbur
 content-blocking-description = Kra n ismal web seqdacen ineḍfaren izemren ad walin armud-inek deg internet.deg usfaylu uslig, { -brand-short-name } ad isewḥel swudem awurman agbur, akked ineḍrafen ibɣan ad leqḍen talɣut n tunigin-inek.
 about-private-browsing-info-description = { -brand-short-name } iseffeḍ amazray n unadi d tunigin mi ara tefɣeḍ sed usnas neɣ ad tmedleḍ iccaren n ifuyla n tunigin tusligin. aya ad ak-ikkes udem uslig mi ara ti,igeḍ.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } d amseday_innek n unadi amezwer def ifuyla usligen
+about-private-browsing-search-banner-close-button =
+    .aria-label = Mdel
