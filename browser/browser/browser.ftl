@@ -72,3 +72,8 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Alterar definições de pesquisa
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Alterar definições de pesquisa
+search-one-offs-context-set-as-default =
+    .label = Definir como motor de pesquisa predefinido
+    .accesskey = d
