@@ -988,6 +988,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection4.label "حجب المحتوى">
 
 <!ENTITY contentBlocking.manageSettings2.label "أدِر إعدادات الحماية">
+<!ENTITY contentBlocking.manageSettings2.accesskey "د">
 
 <!ENTITY contentBlocking.socialblock.label "متعقبات مواقع التواصل الاجتماعي">
 
