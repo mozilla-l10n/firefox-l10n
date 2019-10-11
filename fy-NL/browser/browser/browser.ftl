@@ -68,10 +68,18 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Diskear sykje mei:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Sykynstellingen wizigje
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Sykynstellingen wizigje
+search-one-offs-context-open-new-tab =
+    .label = Sykje yn Nij ljepblêd
+    .accesskey = N
 search-one-offs-context-set-as-default =
     .label = Ynstelle as standertsykmasine
     .accesskey = s
