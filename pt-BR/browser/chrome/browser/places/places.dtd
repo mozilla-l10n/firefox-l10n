@@ -13,10 +13,10 @@
 <!ENTITY file.close.label               "Fechar">
 <!ENTITY file.close.accesskey           "F">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY views.label                    "Visualizações">
+<!ENTITY views.label                    "Exibição">
 <!ENTITY views.accesskey                "V">
 <!ENTITY views.tooltip                  "Altere sua visualização">
-<!ENTITY view.columns.label             "Mostrar colunas">
+<!ENTITY view.columns.label             "Colunas visíveis">
 <!ENTITY view.columns.accesskey         "c">
 <!ENTITY view.sort.label                "Ordenar por">
 <!ENTITY view.sort.accesskey            "O">
