@@ -72,6 +72,11 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = অনুসন্ধান সেটিং বদল করুন
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = অনুসন্ধান সেটিংস পরিবর্তন করুন
 search-one-offs-context-open-new-tab =
     .label = নতুন ট্যাবে অনুসন্ধান T
     .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = ডিফল্ট অনুসন্ধান ইঞ্জিন হিসেবে সেট করুন
+    .accesskey = D
