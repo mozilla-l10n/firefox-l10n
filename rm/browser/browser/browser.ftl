@@ -65,3 +65,12 @@ full-screen-autohide =
 full-screen-exit =
     .label = Interrumper il modus da maletg entir
     .accesskey = I
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Midar parameters da tschertga
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Midar ils parameters per tschertgar
