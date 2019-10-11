@@ -47,3 +47,18 @@ full-screen-autohide =
 full-screen-exit =
     .label = ອອກຈາກໂຫມດເຕັມຫນ້າຈໍ
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = ປ່ຽນການຕັ້ງຄ່າການຊອກຫາ
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = ປ່ຽນການຕັ້ງຄ່າການຊອກຫາ
+search-one-offs-context-open-new-tab =
+    .label = ຊອກຫາໃນແທັບໃຫມ່
+    .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = ຕັ້ງເປັນເຄື່ອງມືການຊອກຫາເລີ່ມຕົ້ນ
+    .accesskey = D
