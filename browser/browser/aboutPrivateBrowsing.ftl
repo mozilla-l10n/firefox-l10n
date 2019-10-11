@@ -31,5 +31,10 @@ about-private-browsing-info-description = { -brand-short-name } 在您退出本�
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
 about-private-browsing-search-banner-title = { $engineName } 是您在隐私窗口中的默认搜索引擎
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] 要设定专用搜索引擎，请打开<a data-l10n-name="link-options">选项</a>
+       *[other] 要设定专用搜索引擎，请打开<a data-l10n-name="link-options">首选项</a>
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = 关闭

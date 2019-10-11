@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = 阻止 { -brand-short-name } 运行研究实验�
 policy-DisableForgetButton = 阻止使用“忘记”功能。
 policy-DisableFormHistory = 不要记住搜索和表单的历史记录。
 policy-DisableMasterPasswordCreation = 若为 true，将无法创建主密码。
+policy-DisablePasswordReveal = 阻止密码在列表中明文显示
 policy-DisablePocket = 禁用保存网页到 Pocket 的功能。
 policy-DisablePrivateBrowsing = 禁用隐私浏览功能。
 policy-DisableProfileImport = 禁用自其他浏览器导入数据的菜单命令。
@@ -61,6 +62,7 @@ policy-HardwareAcceleration = 若为 false，将会关闭硬件加速。
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = 设置主页，可选择锁定。
 policy-InstallAddonsPermission = 允许特定网站安装附加组件。
+policy-LegacyProfiles = 禁用要求每个安装实例有不同用户配置文件的功能
 policy-LocalFileLinks = 允许特定网站链接到本地文件。
 policy-NetworkPrediction = 启用或禁用网络预测（DNS 预读取）功能。
 policy-NewTabPage = 启用或禁用“新标签页”页面。
