@@ -17,3 +17,10 @@ full-screen-autohide =
 full-screen-exit =
     .label = Ji Moda Dîmender Tijî derkeve
     .accesskey = J
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Eyarên lêgerînê biguherîne
