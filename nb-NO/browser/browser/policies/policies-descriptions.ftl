@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = Forhindre { -brand-short-name } fra å kjøre und
 policy-DisableForgetButton = Forhindre tilgang til knappen Glem.
 policy-DisableFormHistory = Ikke lagre søke- og skjemahistorikk.
 policy-DisableMasterPasswordCreation = Om aktiv, kan ikke et hovedpassord lages.
+policy-DisablePasswordReveal = Ikke la passord bli avslørt for lagrede innlogginger.
 policy-DisablePocket = Deaktiver funksjonen for å lagre nettsider til Pocket.
 policy-DisablePrivateBrowsing = Slå av Privat nettlesing.
 policy-DisableProfileImport = Deaktiver meny-kommandoen for å importere data fra en annen nettleser.
