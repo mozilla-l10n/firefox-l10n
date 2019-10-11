@@ -65,3 +65,8 @@ full-screen-autohide =
 full-screen-exit =
     .label = Tam Ekran Tarzından Çıq
     .accesskey = T
+
+## Search Engine selection buttons (one-offs)
+
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Qıdırma ayarlarını deñiştir
