@@ -70,6 +70,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = Ser du etter lagrede innlogginger? Konfigurer { -sync-brand-short-name }
+about-logins-login-intro-heading-logged-in = Ingen synkroniserte innlogginger funnet.
 login-intro-description = Slik kan du få dine { -brand-product-name } innlogginger hit, om du har lagret de på en annen enhet
 login-intro-instruction-fxa = Lag eller logg inn på din { -fxaccount-brand-name } på enheten der dine innlogginger er lagret
 login-intro-instruction-fxa-settings = Forsikre deg om at du har markert avkryssingsboksen for innlogginger i { -sync-brand-short-name }-innstillingene

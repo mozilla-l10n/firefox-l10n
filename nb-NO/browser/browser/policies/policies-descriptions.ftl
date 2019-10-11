@@ -61,6 +61,7 @@ policy-HardwareAcceleration = Hvis deaktivert, slå av maskinvareakselerasjon.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Sett og eventuelt lås startsiden.
 policy-InstallAddonsPermission = Tillat visse nettsteder å installere utvidelser.
+policy-LegacyProfiles = Slå av funksjonen som påtvinger en egen profil for hver installasjon
 policy-LocalFileLinks = Tillat at bestemte nettsteder kobler til lokale filer.
 policy-NetworkPrediction = Aktiver eller deaktiver nettverkspredikering (DNS-prefetch).
 policy-NewTabPage = Slå på eller av ny fane-siden.
