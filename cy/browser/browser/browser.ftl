@@ -65,3 +65,18 @@ full-screen-autohide =
 full-screen-exit =
     .label = Gadael Modd Sgrin Lawn
     .accesskey = L
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Gosodiadau Chwilio
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Newid y gosodiadau chwilio
+search-one-offs-context-open-new-tab =
+    .label = Chwilio mewn Tab Newydd
+    .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = Gosod fel y Peiriant Chwilio Rhagosodedig
+    .accesskey = R
