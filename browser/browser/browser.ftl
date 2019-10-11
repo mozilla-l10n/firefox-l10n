@@ -65,3 +65,9 @@ full-screen-autohide =
 full-screen-exit =
     .label = יציאה ממצב מסך מלא
     .accesskey = צ
+
+## Search Engine selection buttons (one-offs)
+
+search-one-offs-context-open-new-tab =
+    .label = חיפוש בלשונית חדשה
+    .accesskey = ל
