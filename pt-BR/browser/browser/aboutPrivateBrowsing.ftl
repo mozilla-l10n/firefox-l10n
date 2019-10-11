@@ -26,3 +26,15 @@ about-private-browsing-not-private = Você não está em uma janela privativa no
 content-blocking-title = Bloqueio de conteúdo
 content-blocking-description = Alguns sites usam rastreadores que podem monitorar sua atividade pela Internet. Nas janelas privativas, o bloqueio de conteúdo do { -brand-short-name } bloqueia automaticamente muitos rastreadores que podem coletar informação sobre seu comportamento de navegação.
 about-private-browsing-info-description = O { -brand-short-name } limpa seu histórico de pesquisa e navegação quando você sai do aplicativo ou fecha todas as abas e janelas de navegação privativa. Apesar disso não tornar você anônimo para sites e para seu provedor de serviços de internet, facilita manter o que você faz online privativo para outras pessoas que usam este computador.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } é seu mecanismo de pesquisa padrão em janelas privativas
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Para selecionar outro mecanismo de pesquisa, acesse as <a data-l10n-name="link-options">Opções</a>
+       *[other] Para selecionar outro mecanismo de pesquisa, acesse as <a data-l10n-name="link-options">Preferências</a>
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Fechar

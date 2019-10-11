@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = Impedir que o { -brand-short-name } execute estud
 policy-DisableForgetButton = Impedir acesso ao botão "Esquecer".
 policy-DisableFormHistory = Não recordar o histórico de pesquisas e formulários.
 policy-DisableMasterPasswordCreation = Caso definido como "true", não pode ser criada uma senha mestra.
+policy-DisablePasswordReveal = Não permitir que senhas sejam reveladas em contas salvas.
 policy-DisablePocket = Desativar o recurso de salvar páginas no Pocket.
 policy-DisablePrivateBrowsing = Desativar a navegação privativa.
 policy-DisableProfileImport = Desativar o comando do menu para importar dados de outro navegador.
@@ -61,6 +62,7 @@ policy-HardwareAcceleration = Caso definido como "false", desativar a aceleraç�
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Definir a página inicial e, opcionalmente, impedir que seja alterada.
 policy-InstallAddonsPermission = Permitir que determinados sites instalem extensões.
+policy-LegacyProfiles = Desativar o recurso de impor um perfil separado para cada instalação
 policy-LocalFileLinks = Permitir que sites específicos tenham links para arquivos locais.
 policy-NetworkPrediction = Ativar ou desativar predição de rede (carregamento antecipado de DNS).
 policy-NewTabPage = Ativar ou desativar a página de nova aba.
