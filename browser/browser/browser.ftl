@@ -65,3 +65,13 @@ full-screen-autohide =
 full-screen-exit =
     .label = Излизане от цял екран
     .accesskey = ц
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Настройки на търсене
+search-one-offs-context-set-as-default =
+    .label = Задаване като стандартна търсачка
+    .accesskey = с
