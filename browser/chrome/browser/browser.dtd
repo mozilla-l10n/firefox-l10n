@@ -945,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Slědujuce wopśimjeśe">
 <!ENTITY protections.fingerprinters.label "Palcowe wótśišće">
 <!ENTITY protections.cryptominers.label "Kryptokopanje">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Wšykne pśeslědowaki na toś tom sydle su se zacytali, dokulaž šćit jo znjemóžnjony.">
 <!ENTITY protections.noTrackersFound.description "Žedne pśeslědowaki, kótarež &brandShortName; znajo, njejsu se namakali na toś tom boku.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Toś te cookieje wam wót sedła do sedła slěduju, aby daty wó tom zběrali, což online gótujośo. Stajaju se wót tśeśich póbitowarjow kaž na pśikład wabjarjow a analyzowych pśedewześćow.">
