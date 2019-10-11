@@ -164,7 +164,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label;服务设置">
-<!ENTITY fxa.menu.connectAnotherDevice2.label "连接其他设备…">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "绑定其他设备…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "登录 &brandProductName;">
@@ -945,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "跟踪性内容">
 <!ENTITY protections.fingerprinters.label "数字指纹跟踪程序">
 <!ENTITY protections.cryptominers.label "加密货币挖矿程序">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "隐私保护处于关闭状态，已载入此网站的所有跟踪器。">
 <!ENTITY protections.noTrackersFound.description "此页面上未检测到 &brandShortName; 已知的跟踪器。">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "这些 Cookie 由第三方广告商或分析公司设置，能够在不同网站间跟踪您，以收集您的在线活动数据。">
