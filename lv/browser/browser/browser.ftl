@@ -70,6 +70,8 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Mainīt meklēšanas iestatījumus
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Mainīt meklēšanas iestatījumus
 search-one-offs-context-open-new-tab =
     .label = Meklēt jaunā cilnē
     .accesskey = c
