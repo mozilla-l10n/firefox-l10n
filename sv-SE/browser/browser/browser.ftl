@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Ange som standardsökmotor
     .accesskey = s
+search-one-offs-context-set-as-default-private =
+    .label = Ange som standardsökmotor för privata fönster
+    .accesskey = A
