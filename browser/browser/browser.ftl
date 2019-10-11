@@ -72,6 +72,8 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Muuta hakuasetuksia
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Muuta hakuasetuksia
 search-one-offs-context-open-new-tab =
     .label = Etsi uudessa välilehdessä
     .accesskey = E
