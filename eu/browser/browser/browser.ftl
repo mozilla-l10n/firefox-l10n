@@ -65,3 +65,10 @@ full-screen-autohide =
 full-screen-exit =
     .label = Irten pantaila osoko ikuspegitik
     .accesskey = p
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Aldatu bilaketa-ezarpenak
