@@ -25,3 +25,18 @@ full-screen-autohide =
 full-screen-exit =
     .label = Essi dae sa Mannària prena
     .accesskey = M
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Modìfica sa cunfiguratzione de chirca
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Modìfica sa cunfiguratzione de chirca
+search-one-offs-context-open-new-tab =
+    .label = Chirca in un'ischeda noa
+    .accesskey = C
+search-one-offs-context-set-as-default =
+    .label = Sèbera su motore de chirca predefinidu
+    .accesskey = d
