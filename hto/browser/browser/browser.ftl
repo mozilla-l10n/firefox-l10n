@@ -13,3 +13,19 @@ urlbar-translate-notification-anchor =
     .tooltiptext = Bíe rabe jɨaɨe úiado jóne
 urlbar-translated-notification-anchor =
     .tooltiptext = Kúe dáma bíe rabe jɨaɨe úiado jóne
+
+## Page Action Context Menu
+
+
+## Auto-hide Context Menu
+
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Jenóyena jɨaɨena jóne
+search-one-offs-context-open-new-tab =
+    .label = Kómue úitɨraɨ jéno
+    .accesskey = ú
