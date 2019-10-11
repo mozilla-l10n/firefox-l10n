@@ -23,20 +23,21 @@
 <!ENTITY firstrun_sync_title "تزامُن">
 <!ENTITY updatednewfirstrun_sync_title "الحساب">
 <!ENTITY firstrun_sync_message2 "أكمل من حيث انتهيت.">
+<!ENTITY firstrun_sync_message3 "زامِن العلامات والتأريخ وكلمات السر إلى هاتفك.">
 <!ENTITY firstrun_sync_subtext2 "استعمل «تزامن» لتجد العلامات، وكلمات السر وغيرها من الأمور التي تحفظها في &brandShortName; على أجهزتك.">
 <!ENTITY newfirstrun_sync_subtext "زامِن ما حفظته على المحمول في فَيَرفُكس على سطح المكتب، بكل أمان وأقصى خصوصية.">
 <!ENTITY updatednewfirstrun_sync_subtext "لِج إلى حسابك لتستفد أقصى استفادة من &brandShortName;">
 <!ENTITY firstrun_signin_message "اتصل لتبدأ">
+<!ENTITY firstrun_sendtab_title "أرسِل الألسنة">
+<!ENTITY firstrun_sendtab_message "شارِك الألسنة بين المحمول وسطح المكتب، في لحظة.">
 <!ENTITY firstrun_signin_button "لِج إلى «المزامنة»">
 <!ENTITY newfirstrun_signin_button "فعّل «تزامُن»">
 <!ENTITY updatednewfirstrun_signin_button "لِج إلى &brandShortName;">
-<!ENTITY  onboard_start_button_browser "ابدأ التصفح">
+<!ENTITY onboard_start_button_browser "ابدأ التصفح">
 <!ENTITY firstrun_button_notnow "ليس الآن">
 <!ENTITY firstrun_button_next "التالي">
 
 <!ENTITY firstrun_signin_button2 "لِج">
-
-<!ENTITY firstrun_signup_button "اخرج">
 
 <!ENTITY firstrun_tabqueue_title "الروابط">
 
@@ -48,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "أنت">
 <!ENTITY firstrun_account_message "أتملك &brandShortName; على جهاز آخر؟">
+
+<!ENTITY firstrun_signup_button "اخرج">
 
 <!ENTITY  onboard_start_restricted1 "ابقَ في مأمن و أمسك بزمام الأمور بإصدارة &brandShortName; المبسّطة هذه.">
 
@@ -499,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "شارِك">
 <!ENTITY share_title "شارك عبر">
 <!ENTITY share_image_failed "تعّذرت مشاركة هذا الموقع">
+<!ENTITY share_error_toast_message "تعذّرت المشاركة مع التطبيق المنتقى">
 <!ENTITY save_as_pdf "احفظ ك‍ PDF">
 <!ENTITY print "اطبع">
 <!ENTITY view_page_source "اعرض مصدر الصفحة">
@@ -692,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "تتصل ب‍">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
