@@ -65,3 +65,9 @@ full-screen-autohide =
 full-screen-exit =
     .label = পূর্ণ পর্দাজুড়ে প্রদর্শন মোড থেকে প্রস্থান
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+search-one-offs-context-open-new-tab =
+    .label = নতুন ট্যাবে অনুসন্ধান T
+    .accesskey = T
