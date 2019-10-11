@@ -65,3 +65,18 @@ full-screen-autohide =
 full-screen-exit =
     .label = Surt del mode de pantalla completa
     .accesskey = p
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Canvia els paràmetres de cerca
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Canvia els paràmetres de cerca
+search-one-offs-context-open-new-tab =
+    .label = Cerca en una pestanya nova
+    .accesskey = t
+search-one-offs-context-set-as-default =
+    .label = Defineix com a motor de cerca per defecte
+    .accesskey = D
