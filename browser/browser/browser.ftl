@@ -17,3 +17,10 @@ full-screen-autohide =
 full-screen-exit =
     .label = পূৰ্ণপৰ্দা অৱস্থা প্ৰস্থান কৰক
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = সন্ধানৰ সংহতিসমূহ পৰিবৰ্তন কৰক
