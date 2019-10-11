@@ -64,6 +64,15 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = వెతుకుడు అమరికలు
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = వెతుకుడు అమరికలను మార్చుకోండి
+search-one-offs-context-open-new-tab =
+    .label = కొత్త ట్యాబులో వెతుకు
+    .accesskey = T
 search-one-offs-context-set-as-default =
     .label = అప్రమేయ శోధన యంత్రంగా అమర్చండి
     .accesskey = D
