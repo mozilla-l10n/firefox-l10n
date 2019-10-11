@@ -11,7 +11,7 @@ sync-disconnect-remove-sync-data = 书签、历史记录、密码等。
 sync-disconnect-remove-other-caption = 移除其他隐私数据
 sync-disconnect-remove-other-data = Cookie、缓存、离线网站数据等。
 # Shown while the disconnect is in progress
-sync-disconnect-disconnecting = 正在断开连接…
+sync-disconnect-disconnecting = 正在解绑…
 sync-disconnect-cancel =
     .label = 取消
     .accesskey = C
@@ -22,8 +22,8 @@ sync-disconnect-cancel =
 ## on the state of the checkboxes.
 
 sync-disconnect-confirm-disconnect-delete =
-    .label = 断开并删除
+    .label = 解绑并删除
     .accesskey = D
 sync-disconnect-confirm-disconnect =
-    .label = 仅断开连接
+    .label = 仅解绑
     .accesskey = D
