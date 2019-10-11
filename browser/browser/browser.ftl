@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Set As Default Search Engine
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = Set as Default Search Engine for Private Windows
+    .accesskey = P
