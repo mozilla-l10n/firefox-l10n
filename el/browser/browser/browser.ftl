@@ -72,3 +72,11 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Αλλαγή ρυθμίσεων αναζήτησης
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Αλλαγή ρυθμίσεων αναζήτησης
+search-one-offs-context-open-new-tab =
+    .label = Αναζήτηση σε νέα καρτέλα
+    .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = Ορισμός ως προκαθορισμένη μηχανή αναζήτησης
+    .accesskey = D
