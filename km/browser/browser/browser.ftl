@@ -66,3 +66,5 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = ផ្លាស់ប្ដូរ​ការ​កំណត់​ស្វែងរក
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = ផ្លាស់ប្ដូរ​ការ​កំណត់​ស្វែងរក
