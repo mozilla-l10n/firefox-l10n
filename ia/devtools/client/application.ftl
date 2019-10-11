@@ -93,6 +93,10 @@ manifest-non-existing = Nulle manifestos a inspectar trovate.
 # Text displayed when the page has a manifest embedded in a Data URL and
 # thus we cannot link to it.
 manifest-json-link-data-url = Le manifesto es integrate in un URL de datos.
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Icone
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Manifesto
     .alt = Icone manifesto

@@ -26,3 +26,5 @@ about-private-browsing-not-private = Tu non es actualmente in un fenestra privat
 content-blocking-title = Blocada de contentos
 content-blocking-description = Alcun sitos web usa traciatores que pote controlar tu activitate trans internet. In le Fenestras private { -brand-short-name } Content Blocking bloca automaticamente plure traciatores que pote colliger informationes re tu comportamento in navigation.
 about-private-browsing-info-description = { -brand-short-name } cancella tu chronologia de navigation e de recerca quando tu quita le application o claude tote le schedas e fenestras de navigation private. Ben que isto non te rende anonyme al sitos web o a tu providitor de servicio internet, illo rende plus facile mantener private lo que tu face online, salvo que pro illes qui usa iste computator.
+about-private-browsing-search-banner-close-button =
+    .aria-label = Clauder
