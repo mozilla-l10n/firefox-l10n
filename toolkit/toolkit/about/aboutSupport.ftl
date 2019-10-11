@@ -28,6 +28,7 @@ features-name = שם
 features-version = גרסה
 features-id = מזהה
 processes-type = סוג
+processes-count = כמות
 app-basics-title = מידע יישום בסיסי
 app-basics-name = שם
 app-basics-version = גרסה
