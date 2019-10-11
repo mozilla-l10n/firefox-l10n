@@ -65,3 +65,18 @@ full-screen-autohide =
 full-screen-exit =
     .label = འཆར་ངོས་ཡོངས་ཀྱི་རྣམ་པ་ནས་ཕྱིར་བུད
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = འཚོལ་བཤེར་གྱི་སྒྲིག་འགོད་སྒྱུར་བ
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = འཚོལ་བཤེར་གྱི་སྒྲིག་འགོད་སྒྱུར་བ
+search-one-offs-context-open-new-tab =
+    .label = ཡན་ལག་ངོས་གསར་བའི་ནང་དུ་འཚོལ་བ
+    .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = སྔོན་སྒྲིག་གི་འཚོལ་བྱེད་མ་ལག་ལ་སྒྲིག་པ
+    .accesskey = D
