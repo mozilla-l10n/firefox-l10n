@@ -68,10 +68,15 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = 這次使用下列搜尋引擎搜尋:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = 變更搜尋設定
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = 修改搜尋設定
 search-one-offs-context-open-new-tab =
     .label = 在新分頁中搜尋
     .accesskey = T
