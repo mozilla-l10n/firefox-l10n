@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Встановити типовим засобом пошуку
     .accesskey = т
+search-one-offs-context-set-as-default-private =
+    .label = Встановити типовим засобом пошуку для приватних вікон
+    .accesskey = х

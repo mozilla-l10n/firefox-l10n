@@ -945,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Вміст стеження">
 <!ENTITY protections.fingerprinters.label "Зчитування відбитку браузера">
 <!ENTITY protections.cryptominers.label "Криптомайнери">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Всі елементи стеження на цьому сайті були завантажені, тому що захист вимкнено.">
 <!ENTITY protections.noTrackersFound.description "&brandShortName; не виявив відомих елементів стеження на цій сторінці.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Ці куки переслідують вас від одного сайту до іншого, з метою збирання даних про вашу діяльність онлайн. Вони встановлюються сторонніми рекламними й аналітичними компаніями.">
