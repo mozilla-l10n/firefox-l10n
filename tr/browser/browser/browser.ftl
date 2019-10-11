@@ -71,3 +71,11 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Bir de bununla aramayı deneyin:
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Arama ayarlarını değiştir
+search-one-offs-context-open-new-tab =
+    .label = Yeni sekmede ara
+    .accesskey = s
+search-one-offs-context-set-as-default =
+    .label = Varsayılan arama motoru yap
+    .accesskey = m
