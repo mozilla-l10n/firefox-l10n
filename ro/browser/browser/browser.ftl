@@ -65,3 +65,8 @@ full-screen-autohide =
 full-screen-exit =
     .label = Ieși din modul de ecran complet
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Schimbă setările de căutare
