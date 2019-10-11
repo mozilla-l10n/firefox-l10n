@@ -36,3 +36,5 @@ about-private-browsing-search-banner-description =
         [windows] To select a different search engine go to <a data-l10n-name="link-options">Options</a>
        *[other] To select a different search engine go to <a data-l10n-name="link-options">Preferences</a>
     }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Close
