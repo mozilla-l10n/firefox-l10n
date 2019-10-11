@@ -65,3 +65,18 @@ full-screen-autohide =
 full-screen-exit =
     .label = フルスクリーンモードを終了
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = 検索設定を変更
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = 検索設定を変更します
+search-one-offs-context-open-new-tab =
+    .label = 新規タブで検索
+    .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = デフォルト検索エンジンに設定
+    .accesskey = D
