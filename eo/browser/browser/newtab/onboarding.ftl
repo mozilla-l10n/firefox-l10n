@@ -103,7 +103,7 @@ onboarding-mobile-phone-title = Ricevu { -brand-product-name } en via telefono
 onboarding-mobile-phone-text = Elŝutu { -brand-product-name } por iOS aŭ Android kaj spegulu viajn datumojn inter aparatoj.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
-onboarding-mobile-phone-button = Elŝuti poŝaparata retumilo
+onboarding-mobile-phone-button = Elŝuti poŝaparatan retumilon
 onboarding-send-tabs-title = Sendu langetojn al via aliaj aparatoj
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
