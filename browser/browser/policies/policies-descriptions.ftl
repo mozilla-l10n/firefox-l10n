@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = { -brand-short-name } 연구 실행을 막습니�
 policy-DisableForgetButton = Forget 버튼 접근을 막습니다.
 policy-DisableFormHistory = 검색과 서식 기록을 저장하지 않습니다.
 policy-DisableMasterPasswordCreation = True 값이면 마스터 비밀번호를 만들 수 없습니다.
+policy-DisablePasswordReveal = 저장된 로그인에 비밀번호 보기 기능을 허용하지 않습니다.
 policy-DisablePocket = Pocket에 웹사이트 저장하는 기능을 비활성화 합니다.
 policy-DisablePrivateBrowsing = 사생활 보호 모드를 비활성화 합니다.
 policy-DisableProfileImport = 메뉴에서 다른 브라우저의 데이터를 가져오는 명령을 비활성화 합니다.
@@ -61,6 +62,7 @@ policy-HardwareAcceleration = False 값이면 하드웨어 가속 기능을 끕�
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = 홈페이지를 설정하고 선택적으로 잠급니다.
 policy-InstallAddonsPermission = 특정 웹사이트가 부가 기능을 설치할 수 있게 허용합니다.
+policy-LegacyProfiles = 각 설치별로 다른 프로필 사용을 강제하는 기능을 비활성화 합니다.
 policy-LocalFileLinks = 특정 웹사이트가 로컬 파일을 링크하도록 허용합니다.
 policy-NetworkPrediction = 네트워크 예측(DNS 프리페칭)을 사용 또는 사용하지 않게 합니다.
 policy-NewTabPage = 새 탭 페이지를 활성화하거나 비활성화합니다.
