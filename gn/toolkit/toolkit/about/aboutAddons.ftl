@@ -302,6 +302,8 @@ addon-options-button =
 
 report-addon-button = Momarandu
 remove-addon-button = Mboguete
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Ndaikatúi emboguete <a data-l10n-name="link">¿Mba’ére?</a>
 disable-addon-button = Pe'a
 enable-addon-button = Mbojuruja
 expand-addon-button = Jeporavorãve

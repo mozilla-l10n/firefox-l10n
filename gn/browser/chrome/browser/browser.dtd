@@ -945,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Tetepu rapykuehoha">
 <!ENTITY protections.fingerprinters.label "Kuãhũ kuaaukaha">
 <!ENTITY protections.cryptominers.label "Criptomineros">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Opaite tepykuehoha ko tenda pegua oñemyanyhẽ ñemo’ãha ojepe’aite rupi.">
 <!ENTITY protections.noTrackersFound.description "Ndaipóri tapykuehoha &brandShortName; peg̃uarã ojehechakuaáva ko kutiaroguépe.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Ko’ã kookie ohapykueho opaite hendápe ombyaty hag̃ua mba’ekuaarã ojapóva ñandutípe. Omboaje mbohapyháva, mombe’uháramo ha mba’apoha tesa’ỹijoha.">
