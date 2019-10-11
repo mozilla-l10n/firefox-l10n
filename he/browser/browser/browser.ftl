@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = הגדרה כמנוע חיפוש ברירת מחדל
     .accesskey = ב
+search-one-offs-context-set-as-default-private =
+    .label = הגדרה כמנוע חיפוש ברירת המחדל עבור חלונות פרטיים
+    .accesskey = ג

@@ -26,3 +26,15 @@ about-private-browsing-not-private = אינך כעת בחלון גלישה פר�
 content-blocking-title = חסימת תוכן
 content-blocking-description = אתרים מסוימים משתמשים ברכיבי מעקב היכולים לעקוב אחר הפעילות שלך ברחבי האינטרנט. בחלונות פרטיים, חסימת התוכן של { -brand-short-name } חוסמת באופן אוטומטי רכיבי מעקב רבים שיכולים לאסוף מידע על התנהגות הגלישה שלך.
 about-private-browsing-info-description = { -brand-short-name } מנקה את היסטוריית החיפוש והגלישה שלך כשהיישום נסגר או בעת סגירת כל הלשוניות והחלונות של גלישה פרטית. פעולה זו אמנם לא הופכת אותך לאלמוני כלפי אתרים או ספק האינטרנט שלך, אבל כן מקלה עליך בשמירה על הפעולות המקוונות שלך מפני כל מי שמשתמש במחשב זה.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = ‏{ $engineName } הוא מנוע החיפוש המוגדר כברירת המחדל בחלונות פרטיים
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] לבחירת מנוע חיפוש אחר יש לעבור ל<a data-l10n-name="link-options">אפשרויות</a>
+       *[other] לבחירת מנוע חיפוש אחר יש לעבור ל<a data-l10n-name="link-options">העדפות</a>
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = סגירה

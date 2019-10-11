@@ -87,6 +87,7 @@ newtab-menu-archive-pocket = העברה לארכיון ב־{ -pocket-brand-name 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = סיום
+newtab-privacy-modal-header = הפרטיות שלך חשובה.
 
 
 
