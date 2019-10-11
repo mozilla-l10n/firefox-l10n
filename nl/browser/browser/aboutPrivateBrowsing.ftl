@@ -26,5 +26,15 @@ about-private-browsing-not-private = U bevindt zich momenteel niet in een privé
 content-blocking-title = Inhoudsblokkering
 content-blocking-description = Sommige websites maken gebruik van trackers (‘volgers’) die uw activiteit op het internet kunnen bijhouden. In privévensters blokkeert Inhoudsblokkering van { -brand-short-name } automatisch veel trackers die informatie over uw surfgedrag kunnen verzamelen.
 about-private-browsing-info-description = { -brand-short-name } wist uw zoek- en browsergeschiedenis zodra u de toepassing afsluit of alle privénavigatietabbladen en -vensters sluit. Hoewel privénavigatie u niet anoniem maakt voor websites of uw internetprovider, maakt dit het makkelijker om wat u online doet privé te houden ten opzichte van anderen die deze computer gebruiken.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } is uw standaardzoekmachine in privévensters
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Ga naar <a data-l10n-name="link-options">Opties</a> om een andere zoekmachine te selecteren
+       *[other] Ga naar <a data-l10n-name="link-options">Voorkeuren</a> om een andere zoekmachine te selecteren
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = Sluiten
