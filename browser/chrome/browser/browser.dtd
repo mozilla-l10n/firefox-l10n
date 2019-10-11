@@ -123,7 +123,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxaSignIn.label "登录&syncBrand.shortName.label;服务">
 <!ENTITY fxaSignedIn.tooltip "打开&syncBrand.shortName.label;服务首选项">
-<!ENTITY fxaSignInError.label "重新连接&syncBrand.shortName.label;服务">
+<!ENTITY fxaSignInError.label "重新绑定&syncBrand.shortName.label;服务">
 <!ENTITY fxaUnverified.label "验证您的账户">
 
 
@@ -455,7 +455,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.managedevices.label "管理设备…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "显示受同步标签页侧栏">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "隐藏受同步标签页侧栏">
-<!ENTITY appMenuRemoteTabs.connectdevice.label "连接其他设备">
+<!ENTITY appMenuRemoteTabs.connectdevice.label "关联其他设备">
 
 <!ENTITY appMenuRecentHighlights.label "近期聚焦">
 
