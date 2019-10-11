@@ -65,3 +65,16 @@ full-screen-autohide =
 full-screen-exit =
     .label = 退出全屏模式
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = 更改搜索设置
+search-one-offs-context-open-new-tab =
+    .label = 在新标签页中搜索
+    .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = 设为默认搜索引擎
+    .accesskey = D
