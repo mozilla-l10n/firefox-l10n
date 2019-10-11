@@ -70,6 +70,7 @@ onboarding-benefit-privacy-title = Le respect de la vie privée, pour de vrai
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Tout ce que nous faisons respecte notre « Garantie en matière de données personnelles » : collecter moins de données, les protéger, ne rien cacher.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Emportez avec vous vos marque-pages, mots de passe, historique et bien d’autres éléments partout où vous utilisez { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Recevez une alerte lorsque vos informations personnelles figurent dans une fuite de données connue.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
