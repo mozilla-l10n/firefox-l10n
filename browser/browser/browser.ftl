@@ -65,3 +65,12 @@ full-screen-autohide =
 full-screen-exit =
     .label = 원래 화면으로 복구
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = 검색 설정 바꾸기
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = 검색 설정 바꾸기
