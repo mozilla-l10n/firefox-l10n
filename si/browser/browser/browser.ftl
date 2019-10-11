@@ -59,3 +59,10 @@ full-screen-autohide =
 full-screen-exit =
     .label = පූර්ණතිර ආකාරයෙන් ඉවත් වන්න
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = සෙවුම් සැකසුම් වෙනස් කරන්න
