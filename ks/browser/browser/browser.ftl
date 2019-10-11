@@ -17,3 +17,10 @@ full-screen-autohide =
 full-screen-exit =
     .label = پورئ سكرین موڈ كریو خٲرچ
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = تبدیل کْریو تلاش سیٹینگ
