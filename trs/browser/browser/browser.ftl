@@ -65,3 +65,18 @@ full-screen-autohide =
 full-screen-exit =
     .label = Nagi'iaj lij riña aga' sikà' ràa
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Naduna daj ga sa nana'uit
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Naduna daj ga sa nana'uit
+search-one-offs-context-open-new-tab =
+    .label = Nana'ui' riña a'ngô rakïj ñaj nakàa
+    .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = Nā gahuin sa nana'ui' yitïnj
+    .accesskey = D
