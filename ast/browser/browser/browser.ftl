@@ -52,8 +52,15 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Camudar axustes de gueta
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Camudar preferencies de busca
 search-one-offs-context-open-new-tab =
     .label = Guetar en llingüeta nueva
     .accesskey = L
+search-one-offs-context-set-as-default =
+    .label = Afitar como motor de gueta por defeutu
+    .accesskey = A
