@@ -68,6 +68,15 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Iɣewwaren n unadi
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Beddel iɣewwaren n unadi
+search-one-offs-context-open-new-tab =
+    .label = Nadi deg yiccer amaynut
+    .accesskey = c
 search-one-offs-context-set-as-default =
     .label = Sers-it d amsedday n unadi amezwer
     .accesskey = D
