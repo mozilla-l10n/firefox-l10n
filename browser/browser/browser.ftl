@@ -68,6 +68,13 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Цього разу, пошук з:
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Змінити налаштування пошуку
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Змінити налаштування пошуку
 search-one-offs-context-open-new-tab =
