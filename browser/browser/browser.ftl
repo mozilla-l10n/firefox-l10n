@@ -65,3 +65,9 @@ full-screen-autohide =
 full-screen-exit =
     .label = Tam ekran kipinden çık
     .accesskey = T
+
+## Search Engine selection buttons (one-offs)
+
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Bir de bununla aramayı deneyin:
