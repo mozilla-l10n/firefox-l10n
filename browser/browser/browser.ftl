@@ -65,3 +65,14 @@ full-screen-autohide =
 full-screen-exit =
     .label = Вийти з повноекранного режиму
     .accesskey = В
+
+## Search Engine selection buttons (one-offs)
+
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Змінити налаштування пошуку
+search-one-offs-context-open-new-tab =
+    .label = Пошук в новій вкладці
+    .accesskey = в
+search-one-offs-context-set-as-default =
+    .label = Встановити типовим засобом пошуку
+    .accesskey = т
