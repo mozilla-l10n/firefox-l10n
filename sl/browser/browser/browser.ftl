@@ -72,3 +72,6 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Spremeni nastavitve iskanja
+search-one-offs-context-set-as-default =
+    .label = Nastavi kot privzet iskalnik
+    .accesskey = P
