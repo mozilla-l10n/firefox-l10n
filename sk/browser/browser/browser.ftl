@@ -65,3 +65,16 @@ full-screen-autohide =
 full-screen-exit =
     .label = Ukončiť režim celej obrazovky
     .accesskey = U
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Zmeniť nastavenia vyhľadávania
+search-one-offs-context-open-new-tab =
+    .label = Vyhľadať na novej karte
+    .accesskey = h
+search-one-offs-context-set-as-default =
+    .label = Nastaviť ako predvolený vyhľadávací modul
+    .accesskey = N
