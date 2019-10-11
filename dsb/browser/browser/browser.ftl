@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Ako standardnu pytnicu nastajiś
     .accesskey = d
+search-one-offs-context-set-as-default-private =
+    .label = Ako standardnu pytnicu za priwatne wokna nastajiś
+    .accesskey = A

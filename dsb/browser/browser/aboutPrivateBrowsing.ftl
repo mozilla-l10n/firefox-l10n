@@ -26,3 +26,15 @@ about-private-browsing-not-private = Tuchylu njejsćo w priwatnem woknje.
 content-blocking-title = Blokěrowanje wopśimjeśa
 content-blocking-description = Někotare websedła wužywaju pśeslědowaki, kótarež wašu aktiwitu pśez internet wobglěduju. W priwatnych woknach blokěrowanje wopśimjeśa { -brand-short-name } awtomatiski wjele pśeslědowaki blokěrujo, kótarež mógu informacije wó wašom pśeglědowańskem zaźaržanju nagromaźiś.
 about-private-browsing-info-description = { -brand-short-name } wašu pytańsku a pśeglědowańsku historjiu wuproznijo, gaž nałoženje spušćijośo abo wšykne rejtarki a wokna priwatnego modus zacynijośo. Pšez to se wólažcyjo, pśed drugimi, kótarež toś to licadło wužywaju, schowaś, což online gótujośo, lěcrownož to was za websedła abo wašogo póbitowarja internetneje słužby njeanonymizěrujo.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } jo waša standardna pytnica w priwatnych woknach
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Aby drugu pytnicu wubrał, źiśo k <a data-l10n-name="link-options">nastajenjam</a>
+       *[other] Aby drugu pytnicu wubrał, źiśo k <a data-l10n-name="link-options">nastajenjam</a>
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Zacyniś
