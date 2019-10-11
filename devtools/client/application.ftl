@@ -93,6 +93,10 @@ manifest-non-existing = Geen manifest gevonden om te inspecteren.
 # Text displayed when the page has a manifest embedded in a Data URL and
 # thus we cannot link to it.
 manifest-json-link-data-url = Het manifest is ingebed in een gegevens-URL.
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Pictogram
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Manifest
     .alt = Pictogram Manifest
