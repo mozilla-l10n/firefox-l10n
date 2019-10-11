@@ -26,3 +26,15 @@ about-private-browsing-not-private = Actualmente no está en una ventana privada
 content-blocking-title = Bloqueo de contenido
 content-blocking-description = Algunos sitios web usan rastreadores que pueden monitorear su actividad a través de Internet. En las ventanas privadas de { -brand-short-name } el Bloqueo de contenido automáticamente bloquea muchos rastreadores que pueden recolectar información acerca de su navegación.
 about-private-browsing-info-description = { -brand-short-name } elimina su búsqueda y el historial de navegación cuando sale de la aplicación o cierra todas las pestañas y ventanas de navegación privada. Si bien esto no lo convierte en anónimo en los sitios web o en su proveedor de servicios de Internet, hace que sea más fácil mantener en privado lo que hace en línea cualquier otra persona que use esta computadora.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } es su motor de búsqueda predeterminado en ventanas privadas
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Para seleccionar un motor de búsqueda diferente, vaya a <a data-l10n-name="link-options">Opciones</a>
+       *[other] Para seleccionar un motor de búsqueda diferente, vaya a <a data-l10n-name="link-options">Preferencias</a>
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Cerrar
