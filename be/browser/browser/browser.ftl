@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Зрабіць прадвызначаным пашукавіком
     .accesskey = п
+search-one-offs-context-set-as-default-private =
+    .label = Усталяваць як прадвызначаны пашукавік для прыватных акон
+    .accesskey = з
