@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = 设为默认搜索引擎
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = 设为隐私窗口的默认搜索引擎
+    .accesskey = P

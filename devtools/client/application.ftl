@@ -93,6 +93,13 @@ manifest-non-existing = 未发现要查看的清单文件。
 # Text displayed when the page has a manifest embedded in a Data URL and
 # thus we cannot link to it.
 manifest-json-link-data-url = 清单文件嵌入在数据 URL 中。
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = 图标
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = 未指定图标大小
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = 清单文件
     .alt = 清单文件图标
