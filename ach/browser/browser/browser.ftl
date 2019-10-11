@@ -57,3 +57,18 @@ full-screen-autohide =
 full-screen-exit =
     .label = Kat woko ki i kit wang komputa ma opong
     .accesskey = w
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Lok ter me yeny
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Lok ter me yeny
+search-one-offs-context-open-new-tab =
+    .label = Yeny i dirica matidi manyen
+    .accesskey = d
+search-one-offs-context-set-as-default =
+    .label = Ter calo Ingin me yeny makwongo
+    .accesskey = m
