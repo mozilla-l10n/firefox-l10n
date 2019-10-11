@@ -68,5 +68,15 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Qıdırma Ayarlarını Deñiştir
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Qıdırma ayarlarını deñiştir
+search-one-offs-context-open-new-tab =
+    .label = Yañı İlmekte Qıdır
+    .accesskey = l
+search-one-offs-context-set-as-default =
+    .label = Ögbelgilengen Qıdırma Motorı Olaraq Tesbit Et
+    .accesskey = b
