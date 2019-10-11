@@ -936,6 +936,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.label "עוגיות מעקב חוצות אתרים">
 <!ENTITY protections.trackingContent.label "תוכן מעקב">
 <!ENTITY protections.cryptominers.label "כורי מטבעות דיגיטליים">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "כל רכיבי המעקב באתר זה נטענו מכיוון שההגנות כבויות.">
 <!ENTITY protections.noTrackersFound.description "לא זוהו רכיבי מעקב המוכרים ל־&brandShortName; בדף זה.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "עוגיות אלו עוקבות אחריך מאתר לאתר כדי לאסוף נתונים על הפעילויות המקוונות שלך. הן נוצרות על־ידי גורמי צד־שלישי כמו מפרסמים וחברות אנליטיות.">
