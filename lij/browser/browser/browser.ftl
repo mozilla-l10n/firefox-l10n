@@ -72,6 +72,8 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Inpostaçioin da riçerca
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Cangia inpostaçioin de riçerca
 search-one-offs-context-open-new-tab =
     .label = Çerca inte neuvo feuggio
     .accesskey = n
