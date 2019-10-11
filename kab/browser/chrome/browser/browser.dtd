@@ -906,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Urtiyen n unekcum">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Asellek">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Iwenniten">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Tividyutin">
@@ -919,6 +920,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      These strings are used in the header labels of each of these sections. -->
 <!ENTITY protections.blocking2.label "Iwḥel">
 <!ENTITY protections.notBlocking2.label "Ittusireg">
+<!ENTITY protections.notFound.label "Ur ittwaf ara">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
