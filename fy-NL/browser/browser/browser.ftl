@@ -72,3 +72,6 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Sykynstellingen wizigje
+search-one-offs-context-set-as-default =
+    .label = Ynstelle as standertsykmasine
+    .accesskey = s
