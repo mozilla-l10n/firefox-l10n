@@ -31,5 +31,10 @@ about-private-browsing-info-description = { -brand-short-name } wašu pytansku a
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
 about-private-browsing-search-banner-title = { $engineName } je waša standardna pytawa w priwatnych woknach
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Zo byšće druhu pytawu wubrał, dźiće k <a data-l10n-name="link-options">nastajenjam</a>
+       *[other] Zo byšće druhu pytawu wubrał, dźiće k <a data-l10n-name="link-options">nastajenjam</a>
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = Začinić

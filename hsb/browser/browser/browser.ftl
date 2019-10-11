@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Jako standardnu pytawu nastajić
     .accesskey = d
+search-one-offs-context-set-as-default-private =
+    .label = Jako standardnu pytawu za priwatne wokna nastajić
+    .accesskey = J

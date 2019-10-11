@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = { -brand-short-name } zakazać, studije wuwjesć.
 policy-DisableForgetButton = Přistup na tłóčatko Zabyć zakazać.
 policy-DisableFormHistory = Pytansku a formularnu historiju sej njespomjatkować
 policy-DisableMasterPasswordCreation = Jeli wěrno, njeda so hłowne hesło wutworić.
+policy-DisablePasswordReveal = Njedowolić, zo so hesła w składowanych přizjewjenjach pokazuja
 policy-DisablePocket = Funkciju składowanja webstronow do Pocket znjemóžnić.
 policy-DisablePrivateBrowsing = Priwatny modus znjemóžnić.
 policy-DisableProfileImport = Menijowy přikaz za importowanje datow z druheho wobhladowaka znjemóžnić.
@@ -61,6 +62,7 @@ policy-HardwareAcceleration = Jeli njewěrno, hardwarowe pospěšenje znjemóžn
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Startowu stronu nastajić a na přeće zawrěć.
 policy-InstallAddonsPermission = Wěstym websydłam dowolić, přidatki instalować.
+policy-LegacyProfiles = Funkciju znjemóžnić, kotraž separatny profil za kóždu instalaciju wunuzuje
 policy-LocalFileLinks = Wěstym websydłam dowolić, na lokalne dataje wotkazać.
 policy-NetworkPrediction = Syćowe předzačitanje (DNS-předzačitanje) zmóžnić abo znjemóžnić.
 policy-NewTabPage = Stronu noweho rajtarka zmóžnić abo znjemóžnić.
