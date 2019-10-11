@@ -57,3 +57,18 @@ full-screen-autohide =
 full-screen-exit =
     .label = Prekini prikaz preko cijelog ekrana
     .accesskey = P
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Promijeni postavke pretraživača
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Promijeni postavke za pretragu
+search-one-offs-context-open-new-tab =
+    .label = Traži u novom tabu
+    .accesskey = t
+search-one-offs-context-set-as-default =
+    .label = Postavi kao glavni pretraživač
+    .accesskey = p
