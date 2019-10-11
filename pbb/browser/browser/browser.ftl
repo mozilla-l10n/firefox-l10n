@@ -33,3 +33,16 @@ full-screen-autohide =
 full-screen-exit =
     .label = Thegnxi'saju & jxuka kajseen
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Nxu'pthena wẽdxnxisatx pakwenxisa's
+search-one-offs-context-open-new-tab =
+    .label = U'se pakwen phadenxisatx
+    .accesskey = U
+search-one-offs-context-set-as-default =
+    .label = Txãa bubnxi's nawe pakwen jxanyah
+    .accesskey = j
