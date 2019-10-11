@@ -72,6 +72,9 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Настройки на търсене
+search-one-offs-context-open-new-tab =
+    .label = Търсене в нов раздел
+    .accesskey = р
 search-one-offs-context-set-as-default =
     .label = Задаване като стандартна търсачка
     .accesskey = с
