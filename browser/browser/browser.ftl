@@ -72,3 +72,9 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Změnit nastavení vyhledávání
+search-one-offs-context-open-new-tab =
+    .label = Hledat v novém panelu
+    .accesskey = n
+search-one-offs-context-set-as-default =
+    .label = Nastavit jako výchozí vyhledávač
+    .accesskey = v
