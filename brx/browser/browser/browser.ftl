@@ -34,3 +34,8 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = नागिरनाय सेटिंखौ सोलाय
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = नागिरनाय सेटिंखौ सोलाय
+search-one-offs-context-open-new-tab =
+    .label = गोदान टेबआव नागिर
+    .accesskey = T
