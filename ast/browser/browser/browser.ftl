@@ -49,3 +49,11 @@ full-screen-autohide =
 full-screen-exit =
     .label = Colar del mou pantalla completa
     .accesskey = C
+
+## Search Engine selection buttons (one-offs)
+
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Camudar preferencies de busca
+search-one-offs-context-open-new-tab =
+    .label = Guetar en llingüeta nueva
+    .accesskey = L
