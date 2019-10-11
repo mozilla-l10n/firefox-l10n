@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Emopyenda ijypykuévaramo ha jehekaha mongu'eha
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = Emoĩ jehekaha mongu'eha ijypykuévaramo ovetã ñemíme
+    .accesskey = E

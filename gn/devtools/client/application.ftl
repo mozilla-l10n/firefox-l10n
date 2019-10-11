@@ -93,6 +93,20 @@ manifest-non-existing = Ndojejuhúi je’epyre ojehechajey hag̃ua.
 # Text displayed when the page has a manifest embedded in a Data URL and
 # thus we cannot link to it.
 manifest-json-link-data-url = Pe je’epyre ojuaju mba’ekuaarã URL rehe.
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = Japose: <code>{ $purpose }</code>
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Ta’ãngachu’i
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = Ta’ãngachu’i tuichakue ndive: { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Ta’ãngachu’i tuichakue oje’e’ỹva
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Je'epyre
     .alt = Je'epyre ra'ãnga

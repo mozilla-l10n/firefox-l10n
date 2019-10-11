@@ -30,6 +30,6 @@ about-private-browsing-info-description = { -brand-short-name } ombogue jeheka h
 # in a private window.
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
-about-private-browsing-search-banner-title = { $engineName } ha’e jehekaha mongu'eha ijypykyéva ovetã ñemigua
+about-private-browsing-search-banner-title = { $engineName } ha’e jehekaha mongu'eha ijypykuéva ovetã ñemíme
 about-private-browsing-search-banner-close-button =
     .aria-label = Mboty
