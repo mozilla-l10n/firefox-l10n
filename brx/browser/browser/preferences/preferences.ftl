@@ -198,7 +198,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 play-drm-content-learn-more = गोबां सोलों
 update-application-title = { -brand-short-name } नि आपडेटफोर
@@ -353,11 +353,18 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-account-signin =
     .label = साइन-इन...
     .accesskey = I
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-manage-account = एकाउन्ट सामलाय
     .accesskey = o
@@ -369,12 +376,24 @@ sync-remove-account =
 sync-sign-in =
     .label = साइन-इन
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = बुकमाकॅफोर
     .accesskey = म
 sync-engine-history =
     .label = जारिमिन
     .accesskey = म
+
+## The device name controls.
+
 sync-device-name-cancel =
     .label = नेवसि
     .accesskey = n
@@ -492,7 +511,7 @@ enhanced-tracking-protection-setting-custom =
     .label = कास्टम
     .accesskey = C
 
-##
+
 
 content-blocking-tracking-protection-option-all-windows =
     .label = गासै उइन्ड'स आव
@@ -577,6 +596,9 @@ space-alert-over-5gb-pref-button =
             [windows] O
            *[other] O
         }
+space-alert-under-5gb-ok-button =
+    .label = OK, मिथिबाइ
+    .accesskey = K
 
 ## The following strings are used in the Download section of settings
 
