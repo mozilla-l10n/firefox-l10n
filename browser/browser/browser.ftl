@@ -65,3 +65,16 @@ full-screen-autohide =
 full-screen-exit =
     .label = Poistu kokoruututilasta
     .accesskey = o
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Muuta hakuasetuksia
+search-one-offs-context-open-new-tab =
+    .label = Etsi uudessa välilehdessä
+    .accesskey = E
+search-one-offs-context-set-as-default =
+    .label = Aseta oletushakukoneeksi
+    .accesskey = A
