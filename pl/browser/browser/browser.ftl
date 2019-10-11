@@ -68,5 +68,18 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Tym razem szukaj w:
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Zmień ustawienia wyszukiwania
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Zmień ustawienia wyszukiwania
+search-one-offs-context-open-new-tab =
+    .label = Szukaj w nowej karcie
+    .accesskey = S
+search-one-offs-context-set-as-default =
+    .label = Ustaw jako domyślną wyszukiwarkę
+    .accesskey = U
