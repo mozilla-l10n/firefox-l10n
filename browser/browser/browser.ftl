@@ -65,3 +65,12 @@ full-screen-autohide =
 full-screen-exit =
     .label = Выйсці з поўнаэкраннага рэжыму
     .accesskey = В
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Змяніць налады пошуку
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Змяніць налады пошуку
