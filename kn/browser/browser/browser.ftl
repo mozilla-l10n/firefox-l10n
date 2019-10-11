@@ -55,3 +55,18 @@ full-screen-autohide =
 full-screen-exit =
     .label = ಪೂರ್ಣತೆರೆಯ ವಿಧಾನದಿಂದ ಹೊರನಡೆ
     .accesskey = F
+
+## Search Engine selection buttons (one-offs)
+
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = ಹುಡುಕು ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸು
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = ‍ಹುಡುಕು ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸು
+search-one-offs-context-open-new-tab =
+    .label = ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ಹುಡುಕು
+    .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = ಪೂರ್ವನಿಯೋಜಿತ ಹುಡುಕು ಎಂಜಿನ್‌ ಆಗಿ ಹೊಂದಿಸು
+    .accesskey = D
