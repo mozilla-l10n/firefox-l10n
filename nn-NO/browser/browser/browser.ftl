@@ -68,6 +68,15 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Endre søkjeinnstillingar
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Endre søkjeinnstillingar
 search-one-offs-context-open-new-tab =
     .label = Søk i ny fane
     .accesskey = ø
+search-one-offs-context-set-as-default =
+    .label = Bruk som standard søkjemotor
+    .accesskey = B
