@@ -30,6 +30,8 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> no tiene efecto en e
 inactive-css-not-flex-container = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un contenedor flex.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es un elemento en línea o una celda de tabla.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> no tiene efecto en este elemento ya que tiene una visualización <strong>{ $display }</strong>.
+inactive-css-not-display-block-on-floated = El valor de <strong>display</strong> ha sido cambiado por el motor a <strong>block</strong> porque el elemento es <strong>floated<strong>.
+inactive-css-property-is-impossible-to-override-in-visited = Es imposible anular <strong>{ $property }</strong> debido a la restricción <strong>:visited</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
