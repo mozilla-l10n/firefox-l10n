@@ -89,6 +89,12 @@ newtab-menu-show-privacy-info = Noss sponsurs & tia sfera privata
 
 newtab-privacy-modal-button-done = Finì
 newtab-privacy-modal-header = Tia sfera privata è impurtanta.
+newtab-privacy-modal-paragraph =
+    Ultra dad istorgias captivantas, ta mussain nus era cuntegn relevant, 
+    curà cun premura da sponsurs distinguids. Nus garantin che tias datas
+    da navigaziun na bandunan mai tia copia persunala da { -brand-product-name }  —
+    nus n'avain betg access a questas datas e noss sponsurs n'era betg.
+newtab-privacy-modal-link = Ve a savair co la protecziun da datas funcziuna sin la pagina Nov tab
 
 
 

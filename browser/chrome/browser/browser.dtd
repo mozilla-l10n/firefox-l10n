@@ -158,11 +158,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Annunzià sco">
 <!ENTITY fxa.menu.manageAccount.label "Administrar il conto…">
+<!ENTITY fxa.menu.syncSettings.label "Parameters da &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "Parameters da &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.syncSettings2.label "Parameters da &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Colliar in auter apparat…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -175,6 +176,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Parameters dal conto">
 <!ENTITY fxa.menu.signOut.label "Sortir…">
 <!ENTITY fxa.menu.deviceSettings.label "Parameters da l'apparat">
+<!ENTITY fxa.menu.setupSync.label "Endrizzar &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -943,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Cuntegn che fastizescha">
 <!ENTITY protections.fingerprinters.label "Improntaders dal det">
 <!ENTITY protections.cryptominers.label "Criptominiers">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Chargià tut ils fastizaders sin questa site perquai che las protecziuns èn deactivadas.">
 <!ENTITY protections.noTrackersFound.description "&brandShortName; n'ha chattà nagins fastizaders enconuschents sin questa pagina.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Quests cookies ta suondan dad ina website a l'autra per rimnar datas davart tias activitads en il web. Els vegnan installads da terzas partidas sco firmas da reclama ed analisa da datas.">

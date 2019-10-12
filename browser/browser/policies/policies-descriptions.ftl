@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = Impedir che { -brand-short-name } exequeschia stu
 policy-DisableForgetButton = Impedir l'access al buttun «Emblidar».
 policy-DisableFormHistory = Betg memorisar las endataziuns en champs da tschertgar ed en formulars.
 policy-DisableMasterPasswordCreation = Sche activà èsi impussibel da crear in pled-clav universal.
+policy-DisablePasswordReveal = Betg permetter da mussar pleds-clav en las infurmaziuns d'annunzia memorisadas.
 policy-DisablePocket = Deactivar la funcziun da memorisar paginas d'internet en Pocket.
 policy-DisablePrivateBrowsing = Deactivar il modus privat.
 policy-DisableProfileImport = Deactivar il punct da menu per importar datas dad in auter navigatur.
@@ -61,6 +62,7 @@ policy-HardwareAcceleration = Sche «false», deactivar l'acceleraziun cun agid 
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Definir la pagina da partenza e tut tenor basegn impedir la modificaziun da l'opziun.
 policy-InstallAddonsPermission = Permetter a tschertas websites dad installar supplements.
+policy-LegacyProfiles = Deactivar la funcziun che pretenda in profil separà per mintga installaziun
 policy-LocalFileLinks = Permetter a websites specificas dad utilisar colliaziuns a datotecas localas.
 policy-NetworkPrediction = Activar u deactivar «network prediction» (prelectura DNS).
 policy-NewTabPage = Activar u deactivar la pagina «Nov tab».
