@@ -524,7 +524,9 @@ suggestions-addressbar-settings = Modifica le impostazioni dei suggerimenti per 
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = Mostra i suggerimenti di ricerca prima della cronologia nei risultati della barra degli indirizzi
+    .label = Visualizza suggerimenti di ricerca prima della cronologia nei risultati della barra degli indirizzi
+search-show-suggestions-private-windows =
+    .label = Visualizza suggerimenti di ricerca nelle finestre anonime
 search-suggestions-cant-show = I suggerimenti di ricerca non verranno visualizzati tra i risultati della barra degli indirizzi in quanto { -brand-short-name } è configurato per non salvare la cronologia.
 search-one-click-header = Motori di ricerca in un clic
 search-one-click-desc = Scegli i motori di ricerca alternativi che appaiono nella barra degli indirizzi e nella barra di ricerca quando si inizia a digitare una parola chiave.
