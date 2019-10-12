@@ -899,8 +899,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Ldi ismenyifen n usewḥel n ugbur">
 
 
+<!ENTITY protections.etpON.header "Ammesten yettwaseǧehden mgal aḍfaṛ irmed i usmel-a">
+<!ENTITY protections.etpOFF.header "Ammesten yettwaseǧehden mgal aḍfaṛ irurmed i usmel-a">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Ugar n talɣut ɣef Ammesten mgal aḍfaṛ yettwaseǧehden">
 <!ENTITY protections.settings.label "Iɣewwaṛen n tɣellist">
 <!ENTITY protections.showreport.label "Sken aneqqis">
 <!-- LOCALIZATION NOTE:
@@ -913,6 +916,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Sen ammesten ma tesɛiḍ uguren d:">
 <!ENTITY protections.siteNotWorkingView.issueList.logInFields "Urtiyen n unekcum">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Asellek">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Iwenniten">
