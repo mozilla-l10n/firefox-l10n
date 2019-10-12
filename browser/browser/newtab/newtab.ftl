@@ -83,6 +83,13 @@ newtab-menu-delete-history = ลบออกจากประวัติ
 newtab-menu-save-to-pocket = บันทึกไปยัง { -pocket-brand-name }
 newtab-menu-delete-pocket = ลบจาก { -pocket-brand-name }
 newtab-menu-archive-pocket = เก็บถาวรใน { -pocket-brand-name }
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = เสร็จสิ้น
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = เอาที่คั่นหน้าออก
 # Bookmark is a verb here.

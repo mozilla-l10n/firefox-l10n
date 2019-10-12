@@ -69,6 +69,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = กำลังมองหาการเข้าสู่ระบบที่บันทึกไว้ของคุณ? ตั้งค่า { -sync-brand-short-name }
+about-logins-login-intro-heading-logged-in = ไม่พบการเข้าสู่ระบบที่ซิงค์
 login-intro-description = หากคุณบันทึกการเข้าสู่ระบบของคุณไว้ที่ { -brand-product-name } บนอุปกรณ์อื่น ๆ คุณสามารถนำมาใช้บนอุปกรณ์นี้ได้ด้วยวิธีนี้:
 login-intro-instruction-fxa = สร้างหรือลงชื่อเข้าใช้ { -fxaccount-brand-name } ของคุณบนอุปกรณ์ที่บันทึกการเข้าสู่ระบบของคุณ
 login-intro-instruction-fxa-settings = ตรวจสอบให้แน่ใจว่าคุณได้เลือกกล่องกาเครื่องหมายการเข้าสู่ระบบในการตั้งค่า { -sync-brand-short-name }
