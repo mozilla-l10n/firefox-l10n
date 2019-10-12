@@ -502,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "แบ่งปัน">
 <!ENTITY share_title "แบ่งปันผ่าน">
 <!ENTITY share_image_failed "ไม่สามารถแบ่งปันภาพนี้">
+<!ENTITY share_error_toast_message "ไม่สามารถแชร์ไปยังแอพที่ระบุไว้">
 <!ENTITY save_as_pdf "บันทึกเป็น PDF">
 <!ENTITY print "พิมพ์">
 <!ENTITY view_page_source "ดูต้นฉบับหน้า">
