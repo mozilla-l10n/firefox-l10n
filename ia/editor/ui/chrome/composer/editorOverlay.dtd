@@ -149,6 +149,8 @@
 
 <!ENTITY ParagraphSelect.tooltip "Seliger un formato del paragrapho">
 <!-- Shared in Paragraph, and Toolbar menulist -->
+<!ENTITY bodyTextCmd.label "Texto principal">
+<!ENTITY bodyTextCmd.accesskey "T">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Proprietates avantiate">
 <!ENTITY advancedPropertiesCmd.accesskey "v">
@@ -169,6 +171,12 @@
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Strato">
 
+<!ENTITY increaseIndent.label "Accrescer Indentation">
+<!ENTITY increaseIndent.accesskey "A">
+<!ENTITY increaseIndent.key "]">
+<!ENTITY decreaseIndent.label "Decrescer Indentation">
+<!ENTITY decreaseIndent.accesskey "D">
+<!ENTITY decreaseIndent.key "[">
 
 
 <!-- Table Menu -->
