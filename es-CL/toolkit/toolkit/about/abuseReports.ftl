@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Localized string used as the dialog window title (a new behavior locked
+# behind the "extensions.abuseReport.openDialog" preference).
+# "Report" is a noun in this case, "Report for AddonName".
+#
+# Variables:
+#   $addon-name (string) - Name of the add-on being reported
+abuse-report-dialog-title = Reporte para { $addon-name }
 abuse-report-title-extension = Reportar esta extensión a { -vendor-short-name }
 abuse-report-title-theme = Reportar este tema a { -vendor-short-name }
 abuse-report-subtitle = ¿Cuál es el problema?
