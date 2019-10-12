@@ -31,5 +31,10 @@ about-private-browsing-info-description = { -brand-short-name } iseffeḍ amazra
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
 about-private-browsing-search-banner-title = { $engineName } d amseday_innek n unadi amezwer def ifuyla usligen
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Akken ad tferneḍ amsedday n unadi-nniden ddu ɣer <a data-l10n-name="link-options">Iɣewwaṛen</a>
+       *[other] Akken ad tferneḍ amsedday n unadi-nniden ddu ɣer <a data-l10n-name="link-options">Ismenyifen</a>
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = Mdel

@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Sers-it d amsedday n unadi amezwer
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = Sbadu-t amsedday n unadi amezwer i Windows Private
+    .accesskey = P

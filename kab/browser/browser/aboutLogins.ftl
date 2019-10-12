@@ -70,6 +70,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = Tettnadiḍ inekcam-ik yettwaskelsen? Swel { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = Ulac inekcam yemtawin i yettwafen.
 login-intro-description = Ma teskelseḍ inekcam-ik deg { -brand-product-name } ɣef ddeqs n yibenkan, a-t-an amek ara tkecmeḍ ɣur-sen.
 login-intro-instruction-fxa = Rnu neɣ qqen ɣer { -fxaccount-brand-name } inek ɣef yibenk anida ttwaskelsen yinekcam-ik.
 login-intro-instruction-fxa-settings = Ḍmed d akken trecmeḍ inekcam-ik deg yiɣewwaṛen n { -sync-brand-short-name }.
