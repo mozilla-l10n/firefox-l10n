@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Cumenzar
 onboarding-welcome-header = Bainvegni a { -brand-short-name }
 onboarding-welcome-body = Ti has gia il navigatur.<br/>Emprenda d'enconuscher tschels products da { -brand-product-name }.
 onboarding-welcome-learn-more = Ve a savair dapli davart ils avantatgs.
+onboarding-welcome-modal-get-body = Ti has gia il navigatur.<br/>Profitescha ussa en tuts grads da { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Protecziun da datas d'aut nivel.
+onboarding-welcome-modal-privacy-body = Ti has gia il navigatur. Meglierain anc la protecziun da tias datas.
+onboarding-welcome-modal-family-learn-more = Ulteriuras infurmaziuns davart la paletta da products da { -brand-product-name }.
+onboarding-welcome-form-header = Cumenzar qua
 onboarding-join-form-header = Fa part da { -brand-product-name }
 onboarding-join-form-body = Endatescha tia adressa d'e-mail per cumenzar.
 onboarding-join-form-email =
@@ -64,6 +69,12 @@ onboarding-benefit-privacy-title = Vaira protecziun da datas
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Per tut quai che nus faschain, vala l'empermischun areguard las datas persunalas: Rimnar pauc, memorisar a moda segira e na zuppentar nagut.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Prenda cun tai tes segnapaginas, tes pleds-clav e tia cronologia dapertut là, nua che ti utiliseschas { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Retschaiva in avis en cas che tias datas privatas èn pertutgadas dad ina sperdita da datas enconuschenta.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Administrescha tes pleds-clav uschia ch'els èn protegids e portabels.
 
 ## These strings belong to the individual onboarding messages.
 

@@ -29,6 +29,10 @@
 
 <!ENTITY fillLoginMenu.label          "Emplenir las datas d'annunzia">
 <!ENTITY fillLoginMenu.accesskey      "E">
+<!ENTITY fillSuggestedPassword.label  "Utilisar in pled-clav proponì">
+<!ENTITY fillSuggestedPassword.accesskey "s">
+<!ENTITY fillGeneratedPassword.label  "Utilisar in pled-clav generà a moda segira">
+<!ENTITY fillGeneratedPassword.accesskey "s">
 <!ENTITY fillPasswordMenu.label       "Emplenir il pled-clav">
 <!ENTITY fillPasswordMenu.accesskey   "E">
 <!ENTITY fillUsernameMenu.label       "Emplenir il num d'utilisader">

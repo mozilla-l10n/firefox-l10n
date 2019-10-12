@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Definir sco maschina da tschertgar da standard
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = Definir sco maschina da tschertgar da standard per fanestras privatas
+    .accesskey = p

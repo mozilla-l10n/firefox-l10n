@@ -103,9 +103,11 @@ detail-private-browsing-description2 = Sche permess vegn l'extensiun ad avair ac
 # cannot be overridden by the user.
 detail-private-disallowed-label = Betg permess en fanestras privatas
 detail-private-disallowed-description = Questa extensiun na vegn betg exequida en il modus privat. <label data-l10n-name="detail-private-browsing-learn-more">Ulteriuras infurmaziuns</label>
+detail-private-disallowed-description2 = Questa extensiun na vegn betg exequida en il modus privat. <a data-l10n-name="learn-more">Ulteriuras infurmaziuns</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Basegna access a fanestras privatas
 detail-private-required-description = Questa extensiun ha access a tias activitads en l'internet durant la navigaziun en il modus privat. <label data-l10n-name="detail-private-browsing-learn-more">Ulteriuras infurmaziuns</label>
+detail-private-required-description2 = Questa extensiun ha access a tias activitads online en il modus privat. <a data-l10n-name="learn-more">Ulteriuras infurmaziuns</a>
 detail-private-browsing-on =
     .label = Permetter
     .tooltiptext = Activar en il modus privat
@@ -160,6 +162,9 @@ private-browsing-description2 =
     na vegnan las extensiuns betg a funcziunar en il modus privat e na vegnan er betg ad avair access a tias activitads online en lez modus. 
     Questa midada succeda per che la navigaziun en il modus privat restia privata.
     <label data-l10n-name="private-browsing-learn-more">Vegnir a savair co administrar ils parameters da las extensiuns.</label>
+extensions-view-discopane =
+    .name = Recumandaziuns
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Ultimas actualisaziuns
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -252,6 +257,12 @@ shortcuts-modifier-other = Includer Ctrl u Alt
 shortcuts-invalid = Cumbinaziun nunvalida
 shortcuts-letter = Tippa ina letra
 shortcuts-system = Impussibel da surscriver ina scursanida da { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Cumbinaziun da tastas occupada dublamain
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } vegn utilisà sco cumbinaziun da tastas per plirs cumonds. Cumbinaziuns da tastas duplitgadas pon chaschunar cumportaments nunprevis.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -267,16 +278,65 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Extensiuns e designs èn sco apps per tes navigatur e ta laschan 
+    proteger pleds-clav, telechargiar videos, chattar acziuns spezialas, bloccar
+    reclamas, midar l'apparientscha da tes navigatur e bler auter. Quests pitschens
+    programs vegnan savens sviluppads da terzas partidas. Qua ina selecziun da
+    <a data-l10n-name="learn-more-trigger">recumandaziuns</a> da { -brand-product-name } per segirezza,
+    prestaziun e funcziunalitad maximala.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = Tschertas da questas recumandaziuns èn persunalisadas. Ellas sa basan sin autras extensiuns installadas, preferenzas dal profil e statisticas davart l'utilisaziun.
+discopane-notice-learn-more = Ulteriuras infurmaziuns
+privacy-policy = Directivas per la protecziun da datas
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = da(d) <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Utilisaders: { $dailyUsers }
+install-extension-button = Agiuntar a { -brand-product-name }
+install-theme-button = Installar il design
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Administrar
+find-more-addons = Chattar ulteriurs supplements
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Ulteriuras opziuns
 
 ## Add-on actions
 
 report-addon-button = Rapportar
 remove-addon-button = Allontanar
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Impussibel dad allontanar <a data-l10n-name="link">Pertge?</a>
 disable-addon-button = Deactivar
 enable-addon-button = Activar
 expand-addon-button = Ulteriuras opziuns
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Preferenzas
+       *[other] Preferenzas
+    }
+details-addon-button = Detagls
+release-notes-addon-button = Remartgas davart la versiun
+permissions-addon-button = Autorisaziuns
 addons-enabled-heading = Activà
 addons-disabled-heading = Deactivà
+extension-enabled-heading = Activà
+extension-disabled-heading = Deactivà
+theme-enabled-heading = Activà
+theme-disabled-heading = Deactivà
+plugin-enabled-heading = Activà
+plugin-disabled-heading = Deactivà
+dictionary-enabled-heading = Activà
+dictionary-disabled-heading = Deactivà
 ask-to-activate-button = Dumandar per activar
 always-activate-button = Adina activar
 never-activate-button = Mai activar

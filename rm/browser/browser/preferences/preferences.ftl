@@ -282,6 +282,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Utilisar { $plugin-name } (en { -brand-short-name })
@@ -505,6 +509,12 @@ search-bar-shown =
     .label = Agiuntar la trav da tschertgar a la trav d'utensils
 search-engine-default-header = Maschina da tschertgar da standard
 search-engine-default-desc = Tscherna la maschina da tschertgar da standard per la trav d'adressas e la trav da tschertgar.
+search-engine-default-private-desc = Tscherna la maschina da tschertgar da standard per l'utilisaziun en fanestras privatas.
+search-separate-default-engine =
+    .label = Utilisar questa maschina da tschertgar en fanestras privatas
+    .accesskey = U
+search-suggestions-header = Propostas da tschertga
+search-suggestions-desc = Tscherna co las propostas da maschinas da tschertgar duain cumparair.
 search-suggestions-option =
     .label = Porscher propostas da tschertgar
     .accesskey = s
@@ -518,6 +528,7 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Mussar las propostas da tschertga avant la cronologia da navigaziun en ils resultats da la trav d'adressas
+suggestions-addressbar-settings = Modifitgar las preferenzas per las propostas da la cronologia da navigaziun, dals segnapaginas e dals tabs
 search-suggestions-cant-show = Propostas da tschertgar na vegnan betg mussadas en la trav d'adressas perquai che ti has configurà { -brand-short-name } uschia che la cronologia na vegn betg memorisada.
 search-one-click-header = Maschinas da tschertgar cun-in-clic
 search-one-click-desc = Tscherna las maschinas da tschertgar alternativas che cumparan sut la trav d'adressas e la trav da tschertgar sche ti cumenzas a tippar in pled.
@@ -633,6 +644,9 @@ sync-currently-syncing-prefs =
         [windows] Preferenzas
        *[other] Preferenzas
     }
+sync-change-options =
+    .label = Modifitgar…
+    .accesskey = M
 
 ## The "Choose what to sync" dialog.
 
@@ -643,7 +657,6 @@ sync-choose-what-to-sync-dialog =
     .buttonaccesskeyaccept = M
     .buttonlabelextra2 = Deconnectar…
     .buttonaccesskeyextra2 = D
-sync-choose-heading = Tscherna tge che duai vegnir sincronisà cun tes conto per apparats che utiliseschan { -sync-brand-short-name }:
 sync-engine-bookmarks =
     .label = ils segnapaginas
     .accesskey = g
