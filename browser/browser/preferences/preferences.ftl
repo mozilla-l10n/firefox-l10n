@@ -628,6 +628,9 @@ sync-currently-syncing-prefs =
         [windows] ตัวเลือก
        *[other] ค่ากำหนด
     }
+sync-change-options =
+    .label = เปลี่ยน…
+    .accesskey = ป
 
 ## The "Choose what to sync" dialog.
 
