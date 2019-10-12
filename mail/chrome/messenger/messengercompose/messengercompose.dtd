@@ -86,7 +86,7 @@
 <!ENTITY renameAttachmentCmd.label "Muuda manuse nime…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY reorderAttachmentsCmd.label "Muuda manuste järjestust…">
-<!ENTITY reorderAttachmentsCmd.accesskey "Ü">
+<!ENTITY reorderAttachmentsCmd.accesskey "j">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Manuste paneel">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
@@ -324,7 +324,7 @@
 <!ENTITY renameAttachment.label "Nimeta ümber...">
 <!ENTITY renameAttachment.accesskey "N">
 <!ENTITY reorderAttachments.label "Muuda manuste järjestust…">
-<!ENTITY reorderAttachments.accesskey "Ü">
+<!ENTITY reorderAttachments.accesskey "j">
 <!ENTITY removeAllAttachments.label "Eemalda kõik manused">
 <!ENTITY removeAllAttachments.accesskey "õ">
 <!ENTITY selectAll.label "Vali kõik">
