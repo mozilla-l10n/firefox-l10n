@@ -112,7 +112,7 @@ sandbox-sys-call-proc-type = Tipo ng Proseso
 sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = Subukan mag-safe mode
-restart-in-safe-mode-label = Mag-restart na hindi pinapagana ang mga Add-on…
+restart-in-safe-mode-label = Mag-restart na Naka-Disable ang mga Add-on…
 
 ## Media titles
 

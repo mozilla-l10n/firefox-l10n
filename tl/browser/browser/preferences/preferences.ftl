@@ -57,7 +57,7 @@ close-button =
 feature-enable-requires-restart = { -brand-short-name } ay dapat simulan ulit upang paganahin ang tampok na ito.
 feature-disable-requires-restart = { -brand-short-name } ay dapat simulan ulit upang hindi paganahin ang tampok na ito.
 should-restart-title = I-Restart { -brand-short-name }
-should-restart-ok = Mag-restart { -brand-short-name } ngayon
+should-restart-ok = I-restart na ngayon ang { -brand-short-name }
 cancel-no-restart-button = Kanselahin
 restart-later = I-restart Mamaya
 

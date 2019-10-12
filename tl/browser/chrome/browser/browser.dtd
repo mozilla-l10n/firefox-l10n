@@ -784,7 +784,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "Lumabas &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "Huminto">
+<!ENTITY quitApplicationCmd.label       "Lumabas">
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "Isara ang &brandShorterName;">
 <!ENTITY quitApplicationCmd.key         "Q">
