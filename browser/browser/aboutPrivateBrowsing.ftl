@@ -26,3 +26,15 @@ about-private-browsing-not-private = Hiện tại bạn không sử dụng cửa
 content-blocking-title = Chặn nội dung
 content-blocking-description = Một số trang web sử dụng trình theo dõi có thể giám sát hoạt động của bạn trên Internet. Trong cửa sổ riêng tư, trình chặn nội dung của { -brand-short-name } tự động chặn nhiều trình theo dõi có thể thu thập thông tin về hành vi duyệt web của bạn.
 about-private-browsing-info-description = { -brand-short-name } xóa lịch sử tìm kiếm và duyệt web của bạn khi bạn thoát khỏi ứng dụng hoặc đóng tất cả các thẻ và cửa sổ duyệt web riêng tư. Mặc dù điều này không làm cho bạn ẩn danh với các trang web hoặc nhà cung cấp dịch vụ internet của bạn, nhưng việc giữ kín những gì bạn làm trực tuyến với mọi người sử dụng máy tính này sẽ dễ dàng hơn.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } là công cụ tìm kiếm mặc định của bạn trong cửa sổ riêng tư
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Để chọn một công cụ tìm kiếm khác, hãy truy cập <a data-l10n-name="link-options">Tùy chọn</a>
+       *[other] Để chọn một công cụ tìm kiếm khác, hãy truy cập <a data-l10n-name="link-options">Tùy chỉnh</a>
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Đóng

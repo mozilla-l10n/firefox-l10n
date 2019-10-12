@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Đặt làm công cụ tìm kiếm mặc định
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = Đặt làm công cụ tìm kiếm mặc định cho cửa sổ riêng tư
+    .accesskey = P

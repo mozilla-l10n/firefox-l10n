@@ -89,6 +89,11 @@ newtab-menu-show-privacy-info = Nhà tài trợ của chúng tôi và sự riên
 
 newtab-privacy-modal-button-done = Xong
 newtab-privacy-modal-header = Vấn đề riêng tư của bạn.
+newtab-privacy-modal-paragraph =
+    Ngoài việc tận hưởng những câu chuyện hấp dẫn, chúng tôi cũng cho bạn thấy nội dung
+    có liên quan, được đánh giá cao từ các nhà tài trợ chọn lọc. Hãy yên tâm, dữ liệu duyệt web
+    của bạn không bao giờ để lại bản sao { -brand-product-name } cá nhân của bạn — chúng tôi không thể nhìn
+    thấy nó và các nhà tài trợ của chúng tôi cũng không thể.
 newtab-privacy-modal-link = Tìm hiểu cách hoạt động của quyền riêng tư trên thẻ mới
 
 

@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = Chặn { -brand-short-name } chạy các nghiên 
 policy-DisableForgetButton = Chặn truy cập vào nút Quên.
 policy-DisableFormHistory = Không lưu lịch sử tìm kiếm và biểu mẫu.
 policy-DisableMasterPasswordCreation = Nếu đúng, không thể tạo mật khẩu chính.
+policy-DisablePasswordReveal = Không cho phép mật khẩu được tiết lộ trong thông tin đăng nhập đã lưu.
 policy-DisablePocket = Tắt tính năng lưu trang web vào Pocket.
 policy-DisablePrivateBrowsing = Vô hiệu hóa duyệt web riêng tư.
 policy-DisableProfileImport = Vô hiệu hóa lệnh nhập dữ liệu từ trình duyệt khác trên bảng chọn.
@@ -61,6 +62,7 @@ policy-HardwareAcceleration = Nếu không đúng, hãy tắt chế độ tăng 
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Đặt và tùy chọn khóa trang chủ.
 policy-InstallAddonsPermission = Cho phép một số trang web cài đặt tiện ích.
+policy-LegacyProfiles = Vô hiệu hóa tính năng thực thi một cấu hình riêng cho mỗi cài đặt
 policy-LocalFileLinks = Cho phép các trang web cụ thể để liên kết đến các tập tin cục bộ.
 policy-NetworkPrediction = Kích hoạt hoặc vô hiệu hóa dự đoán mạng (tìm nạp trước DNS).
 policy-NewTabPage = Kích hoạt hoặc vô hiệu hóa trang Thẻ mới.

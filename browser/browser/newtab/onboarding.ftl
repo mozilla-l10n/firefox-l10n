@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Bắt đầu
 onboarding-welcome-header = Chào mừng đến với { -brand-short-name }
 onboarding-welcome-body = Bạn đã có trình duyệt.<br/>Xem phần còn lại của { -brand-product-name }.
 onboarding-welcome-learn-more = Tìm hiểu thêm về các tiện ích.
+onboarding-welcome-modal-get-body = Bạn đã có trình duyệt.<br/>Bây giờ hãy tận dụng tối đa { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Bảo vệ quyền riêng tư của bạn.
+onboarding-welcome-modal-privacy-body = Bạn đã có trình duyệt. Hãy để thêm bảo vệ quyền riêng tư.
+onboarding-welcome-modal-family-learn-more = Tìm hiểu về sản phẩm của gia đình { -brand-product-name }
+onboarding-welcome-form-header = Bắt đầu ở đây
 onboarding-join-form-header = Kết nối { -brand-product-name }
 onboarding-join-form-body = Nhập địa chỉ thư điện tử của bạn để bắt đầu.
 onboarding-join-form-email =
@@ -64,6 +69,12 @@ onboarding-benefit-privacy-title = Quyền riêng tư thực sự
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Tất cả mọi thứ chúng tôi làm đều tôn vinh lời hứa dữ liệu cá nhân của chúng tôi: Lấy ít hơn. Giữ nó an toàn. Không có bí mật.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Nhận dấu trang, mật khẩu, lịch sử của bạn và nhiều nơi khác mà bạn đã đăng nhập vào { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Nhận thông báo khi thông tin cá nhân của bạn bị rò rỉ trong dữ liệu đã biết.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Quản lý mật khẩu được bảo vệ và di động.
 
 ## These strings belong to the individual onboarding messages.
 
