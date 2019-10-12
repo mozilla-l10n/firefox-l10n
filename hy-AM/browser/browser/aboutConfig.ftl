@@ -4,10 +4,27 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = Այստեղ զգույշ եղեք:
+about-config-warning-text = Լրացուցիչ կարգավորումների փոփոխումը կարող է վտանգել այս ծրագրի կայունությունը, անվտանգությունը և աշխատանքի որակը: Դուք պետք է շարունակեք միայն այն դեպքում, երբ վստահ գիտեք թե ինչ էք անում:
+about-config-warning-checkbox = Խնդրում եմ կրկին զգուշացնել։
 about-config-warning-button = Ես ընդունում եմ վտանգը:
 about-config2-title = Ընդլայնված կազմաձևեր
 about-config-search-input =
     .placeholder = Որոնում
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Շարունակեք զգուշությամբ
+about-config-intro-warning-text = Կազմաձևի առաջատար նախապատվությունների փոփոխումը կարող է ազդել { -brand-short-name } ֊ի կատարման կամ անվտանգության վրա:
+about-config-intro-warning-checkbox = Զգուշացեք ինձ, երբ ես փորձում եմ մուտք գործել այս նախընտրություններ
+about-config-intro-warning-button = Ընդունել վտանգը եւ շարունակել
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Այս նախասիրությունների փոփոխությունը կարող է ազդել { -brand-short-name } ֊ի աշխատանքի կամ անվտանգության վրա:
+about-config-page-title = Ընդլայնված նախընտրություններ
+about-config-search-input1 =
+    .placeholder = Որոնել նախընտրանքի անուն
 about-config-show-all = Ցուցադրել բոլորը
 about-config-pref-add = Ավելացնել
 about-config-pref-toggle = Փոփոխել
@@ -30,6 +47,7 @@ about-config-pref-delete-button =
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-boolean = Բուլյան
 about-config-pref-add-type-number = Թիվ
 about-config-pref-add-type-string = Տող
 

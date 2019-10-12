@@ -6,11 +6,24 @@ about-logins-page-title = Մուտքագրումներ և գաղտնաբառեր
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = Վերցրեք ձեր գաղտնաբառերը ամենուր
+login-app-promo-subtitle = Ձեռք բերել անվճար{ -lockwise-brand-name } հավելվածը
+login-app-promo-android =
+    .alt = Ձեռք բերել Google Play-ից
+login-app-promo-apple =
+    .alt = Ներբեռնել App Store-ից
 login-filter =
     .placeholder = Որոնել մուտքագրումներ
 create-login-button = Ստեղծել նոր մուտքագրում
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = Favicon { $title }
 fxaccounts-sign-in-text = Ստացեք ձեր գաղտնաբառերը ձեր մյուս սարքերում
 fxaccounts-sign-in-button = Մուտք գործել { -sync-brand-short-name }
+fxaccounts-avatar-button =
+    .title = Կառավարել հաշիվը
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -23,6 +36,7 @@ menu-menuitem-preferences =
         [windows] Ընտրանքներ
        *[other] Նախապատվություններ
     }
+about-logins-menu-menuitem-help = Օգնություն
 menu-menuitem-android-app = { -lockwise-brand-short-name }-ը Android-ի համար
 menu-menuitem-iphone-app = { -lockwise-brand-short-name }-ը iPhone-ի և iPad-ի համար
 
@@ -37,20 +51,30 @@ login-list-count =
     }
 login-list-sort-label-text = Տեսակավարել ըստ՝
 login-list-name-option = Անվան (Ա-Ֆ)
+login-list-breached-option = Խախտված կայքեր
 login-list-last-changed-option = Վերջին փոփոխության
 login-list-last-used-option = Վերջին օգտագործման
 login-list-intro-title = Մուտքագրումներ չկան
 login-list-intro-description = Երբ պահպանում եք գաղտնաբառը { -brand-product-name }-ում, այն կցուցադրվի այստեղ:
+about-logins-login-list-empty-search-title = Մուտքեր չեն գտնուել
+about-logins-login-list-empty-search-description = Որոնման հետ համընկնում չկա։
 login-list-item-title-new-login = Նոր մուտքագրում
 login-list-item-subtitle-new-login = Նշեք մուտքագրման տվյալները
 login-list-item-subtitle-missing-username = (չկա օգտվողի անուն)
+about-logins-list-item-warning-icon =
+    .alt = Զգուշացման պատկերակ
+    .title = Վնասված վեբ կայք
+about-logins-list-item-breach-icon =
+    .title = Խախտված կայք
 
 ## Introduction screen
 
 login-intro-heading = Փնտրո՞ւմ եք ձեր պահպանված մուտքագրումները: Տեղակայեք { -sync-brand-short-name }-ը:
+about-logins-login-intro-heading-logged-in = Համաժամեցված մուտք չի գտնվել:
 login-intro-description = Եթե պահպանել եք ձեր մուտքագրումները { -brand-product-name }-ում այլ սարքում, ահա թե ինչպես կարող եք ստանալ դրանք.
 login-intro-instruction-fxa = Ստեղծեք կամ մուտք գործեք { -fxaccount-brand-name } այն սարքում, որտեղ ձեր մուտքագրումները պահպանված են
 login-intro-instruction-fxa-settings = Համոզվեք, որ ընտրել եք ձեր Մուտքագրումների նշատուփը { -sync-brand-short-name }-ի կարգավորումներում:
+about-logins-intro-instruction-help = Լրացուցիչ օգնության համար այցելեք <a data-l10n-name="help-link">{ -lockwise-brand-short-name } աջակցել</a>։
 
 ## Login
 
@@ -61,6 +85,8 @@ login-item-origin-label = Կայքի հասցեն
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Օգտվողի անուն
+about-logins-login-item-username =
+    .placeholder = (օգտանուն չկա)
 login-item-copy-username-button-text = Պատճենել
 login-item-copied-username-button-text = Պատճենված
 login-item-password-label = Գաղտնաբառ
@@ -73,6 +99,9 @@ login-item-copied-password-button-text = Պատճենված
 login-item-save-changes-button = Պահպանել փոփոխությունները
 login-item-save-new-button = Պահպանել
 login-item-cancel-button = Չեղարկել
+login-item-time-changed = Վերջին փոփոխությունը ՝ { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Ստեղծված. { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Վերջին անգամ օգտագործված ՝{ DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
@@ -109,6 +138,15 @@ confirm-discard-changes-dialog-confirm-button = Մերժել
 
 breach-alert-text = Այս կայքի գաղտնաբառերը արտահոսք են կամ գողացել են այն բանից հետո, երբ վերջին անգամ թարմացրել եք ձեր մուտքի տվյալները: Փոխեք ձեր գաղտնաբառը ՝ ձեր հաշիվը պաշտպանելու համար:
 breach-alert-link = Իմանալ ավելին
+breach-alert-dismiss =
+    .title = Փակել այս ահազանգը
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = { $loginTitle }-ի համար այդ անունը արդեն գոյություն ունի։
+# This is a generic error message.
+about-logins-error-message-default = Գաղտնաբառի պահման ժամանակ հայտնվեց սխալ։

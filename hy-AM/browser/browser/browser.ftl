@@ -25,6 +25,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Բացել հաղորդագրության վահանակը
 urlbar-geolocation-notification-anchor =
     .tooltiptext = ԲԱցել տեղադրության հարցման վահանակը
+urlbar-storage-access-anchor =
+    .tooltiptext = Բացեք զննող գործունեության թույլտվության վահանակը
 urlbar-translate-notification-anchor =
     .tooltiptext = Թարգմանել այս էջը
 urlbar-web-rtc-share-screen-notification-anchor =
@@ -39,6 +41,8 @@ urlbar-plugins-notification-anchor =
     .tooltiptext = Կառավարել բաղադրիչների օգտագործումը
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Կառավարել խցիկի և/կամ բարձրախոսի համօգտագործումը այս կայքի հետ
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = Բացեք ինքնաշխատ վահանակը
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Պահել տվյալները Մշտական պահեստում
 urlbar-addons-notification-anchor =
@@ -64,6 +68,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Այս անգամ որոնել հետևյալի հետ.
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
