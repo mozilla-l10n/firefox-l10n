@@ -83,6 +83,14 @@ newtab-menu-delete-history = حذف از تاریخچه
 newtab-menu-save-to-pocket = ذخیره‌سازی در { -pocket-brand-name }
 newtab-menu-delete-pocket = حذف از { -pocket-brand-name }
 newtab-menu-archive-pocket = آرشیو در { -pocket-brand-name }
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = انجام شد
+newtab-privacy-modal-header = حریم خصوصی شما اهمیت دارد.
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = حذف نشانک
 # Bookmark is a verb here.
