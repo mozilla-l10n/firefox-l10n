@@ -55,8 +55,10 @@ certificate-viewer-timestamp = Marca de tiempo
 certificate-viewer-value = Valor
 certificate-viewer-version = Versión
 certificate-viewer-business-category = Categoría de negocio
+certificate-viewer-subject-name = Nombre del interesado
 certificate-viewer-issuer-name = Nombre del emisor
 certificate-viewer-validity = Validez
+certificate-viewer-subject-alt-names = Nombres alternativos del interesado
 certificate-viewer-public-key-info = Información de clave pública
 certificate-viewer-miscellaneous = Misceláneos
 certificate-viewer-fingerprints = Huellas digitales
@@ -64,10 +66,12 @@ certificate-viewer-basic-constraints = Restricciones básicas
 certificate-viewer-key-usages = Usos de la clave
 certificate-viewer-extended-key-usages = Usos extendidos de la clave
 certificate-viewer-ocsp-stapling = Estampado OCSP
+certificate-viewer-subject-key-id = ID de clave del interesado
 certificate-viewer-authority-key-id = ID de clave de la autoridad
 certificate-viewer-authority-info-aia = Información de la autoridad (AIA)
 certificate-viewer-certificate-policies = Políticas de certificado
 certificate-viewer-embedded-scts = SCTs incrustados
+certificate-viewer-crl-endpoints = Puntos que término CRL
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Descarga

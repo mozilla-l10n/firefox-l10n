@@ -47,5 +47,9 @@ accessibility-text-label-issue-toolbar = Las barras de herramientas deben estar 
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = Los elementos enfocables debieran tener semánticas interactivas. <a>Aprender más</a>
 accessibility-keyboard-issue-tabindex = Evita usar el atributo <code>tabindex</code> mayor a cero. <a>Aprender más</a>
 accessibility-keyboard-issue-action = Los elementos interactivos deben poder ser activados usando un teclado. <a>Aprender más</a>
+accessibility-keyboard-issue-focusable = Los elementos interactivos deben ser enfocables. <a>Aprender más</a>
+accessibility-keyboard-issue-focus-visible = Los elementos enfocables podrían estar sin el estilo de enfoque. <a>Aprender más</a>
+accessibility-keyboard-issue-mouse-only = Los elementos cliqueables deben ser enfocables y debieran tener semánticas interactivas. <a>Aprender más</a>
