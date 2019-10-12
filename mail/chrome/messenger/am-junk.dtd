@@ -20,10 +20,12 @@
 <!ENTITY whitelistHeader.label "Không tự động đánh dấu thư là rác nếu người gửi ở trong: ">
 <!ENTITY whitelistHeader.accesskey "D">
 
+<!ENTITY ispHeadersWarning.label "Nếu được bật, &brandShortName; sẽ tự động coi các thư được đánh dấu bởi bộ phân loại bên ngoài này là rác.">
 <!ENTITY ispHeaders.label "Tin tưởng bộ lọc đầu đề thư rác của: ">
 <!ENTITY ispHeaders.accesskey "T">
 
 <!ENTITY junkClassification.label "Phần được chọn">
+<!ENTITY junkActions.label "Đích đến và thời gian lưu trữ">
 
 <!ENTITY globalJunkPrefs.label "Tuỳ chỉnh thư rác bao quát…">
 <!ENTITY globalJunkPrefs.accesskey "G">
