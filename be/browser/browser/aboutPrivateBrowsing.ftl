@@ -26,5 +26,15 @@ about-private-browsing-not-private = Вы зараз не ў прыватным 
 content-blocking-title = Блакаванне змесціва
 content-blocking-description = Некаторыя вэб-сайты выкарыстоўваюць трэкеры, якія могуць асочваць вашу дзейнасць у Інтэрнэце. У прыватных вокнах Блакаванне змесціва { -brand-short-name } аўтаматычна блакіруе шмат такіх трэкераў, што могуць збіраць звесткі аб вашым агляданні.
 about-private-browsing-info-description = { -brand-short-name } ачышчае вашу гісторыю пошуку і аглядання, калі вы выходзіце з праграмы або закрываеце ўсе карткі і вокны прыватнага аглядання. У той час як гэта не робіць вас ананімным для вэб-сайтаў і інтэрнэт-правайдара, гэта дазваляе лягчэй трымаць у сакрэце тое, што вы робіце ў сеціве, ад астатніх карыстальнікаў гэтага камп'ютара.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } - ваш прадвызначаны пашукавік у прыватных вокнах
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Каб выбраць іншую пошукавую сістэму, перайдзіце да <a data-l10n-name="link-options">Налад</a>
+       *[other] Каб выбраць іншую пошукавую сістэму, перайдзіце да <a data-l10n-name="link-options">Пераваг</a>
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = Закрыць
