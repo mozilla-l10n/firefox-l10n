@@ -337,6 +337,8 @@ plugin-enabled-heading = Activà
 plugin-disabled-heading = Deactivà
 dictionary-enabled-heading = Activà
 dictionary-disabled-heading = Deactivà
+locale-enabled-heading = Activà
+locale-disabled-heading = Deactivà
 ask-to-activate-button = Dumandar per activar
 always-activate-button = Adina activar
 never-activate-button = Mai activar
@@ -345,6 +347,11 @@ addon-detail-version-label = Versiun
 addon-detail-last-updated-label = Ultima actualisaziun
 addon-detail-homepage-label = Pagina d'internet
 addon-detail-rating-label = Valitaziun
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Valità cun { NUMBER($rating, maximumFractionDigits: 1) } da 5
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
@@ -374,8 +381,31 @@ install-update-button = Actualisar
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Permess en fanestras privatas
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Permess en fanestras privatas
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Sche permess ha questa extensiun access a tias activitads online en il modus privat. <a data-l10n-name="learn-more">Ulteriuras infurmaziuns</a>
 addon-detail-private-browsing-allow = Permetter
 addon-detail-private-browsing-disallow = Betg permetter
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Recumandà
+    .alt = Recumandà
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } recumonda mo extensiuns che correspundan a noss standards da segirezza e prestaziun
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Actualisaziuns disponiblas
 recent-updates-heading = Ultimas actualisaziuns
+release-notes-loading = Chargiar…
+release-notes-error = Perstgisa, ma cun chargiar las remartgas davart la versiun è succedida ina errur.
+addon-permissions-empty = Questa extensiun na pretenda naginas autorisaziuns
+recommended-extensions-heading = Extensiuns recumandadas
+recommended-themes-heading = Designs recumandads
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Inspirà? <a data-l10n-name="link">Creescha tes agen design cun Firefox Color.</a>

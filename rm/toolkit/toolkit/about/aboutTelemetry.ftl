@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Funtauna da datas da ping:
 about-telemetry-show-current-ping-data = Datas da ping actualas
+about-telemetry-show-current-data = Datas actualas
 about-telemetry-show-archived-ping-data = Datas da ping archivadas
 about-telemetry-show-subsession-data = Mussar datas da sesidas subordinadas
 about-telemetry-choose-ping = Tscherner il ping:
@@ -15,6 +16,7 @@ about-telemetry-option-group-older = Pli vegl
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Datas da telemetria
+about-telemetry-current-store = Arcun actual:
 about-telemetry-more-information = Tschertgas ti ulteriuras infurmaziuns?
 about-telemetry-firefox-data-doc = La <a data-l10n-name="data-doc-link">Documentaziun datas da Firefox</a> cuntegna manuals davart la lavur cun noss utensils da datas.
 about-telemetry-telemetry-client-doc = La <a data-l10n-name="client-doc-link">documentaziun client da telemetria da Firefox</a> includa definiziuns per concepts, documentaziuns dad API e referenzas a datas.
@@ -75,6 +77,7 @@ about-telemetry-settings-explanation = La telemetria rimna las { about-telemetry
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Mintga infurmaziun vegn tramessa pachetada en «<a data-l10n-name="ping-link">pings</a>». Ti vesas il ping { $name }, { $timestamp }.
 about-telemetry-ping-details-current = Mintga infurmaziun vegn tramessa pachetada en «<a data-l10n-name="ping-link">pings</a>». Ti vesas il ping actual.
+about-telemetry-data-details-current = Mintga infurmaziun vegn tramessa pachetada en «<a data-l10n-name="ping-link">pings</a>». Ti vesas las datas actualas.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -101,6 +104,8 @@ about-telemetry-no-search-results-all = Perstgisa! Nagins resultats per «{ $sea
 about-telemetry-no-data-to-display = Perstgisa! Naginas datas n'èn disponiblas en «{ $sectionName }»
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = ping actual
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = datas actualas
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = tut
 # button label to copy the histogram
@@ -141,3 +146,6 @@ about-telemetry-origin-count = dumber
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">La telemetria da origin da Firefox</a> codescha las datas avant da las trametter per che { $telemetryServerOwner } possia calcular summas senza savair sche ina instanza specifica da { -brand-product-name } haja contribuì u betg contribuì a questa summa. (<a data-l10n-name="prio-blog-link">Ulteriuras infurmaziuns</a>)
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = Process «{ $process }»

@@ -35,8 +35,17 @@ app-basics-name = Num
 app-basics-version = Versiun
 app-basics-build-id = ID dal build
 app-basics-update-channel = Chanal d'actualisaziuns
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Ordinatur per las actualisaziuns
+       *[other] Ordinatur per las actualisaziuns
+    }
 app-basics-update-history = Cronologia d'actualisaziuns
 app-basics-show-update-history = Mussar la cronologia da las actualisaziuns
+# Represents the path to the binary used to start the application.
+app-basics-binary = Datoteca binara da l'applicaziun
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Ordinatur dal profil
@@ -81,6 +90,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = Protocol da decisiuns
 graphics-crash-guards-title = Funcziunalitads deactivadas da la protecziun cunter collaps
 graphics-workarounds-title = Soluziuns
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = Protocol da fanestras
 place-database-title = Banca da datas «Places»
 place-database-integrity = Integritad
 place-database-verify-integrity = Verifitgar l'integritad
@@ -105,6 +116,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = Empruvar il modus segirà
 restart-in-safe-mode-label = Reaviar cun supplements deactivads…
+
+## Media titles
+
+audio-backend = Backend dad audio
+max-audio-channels = Maximum da chanals
+channel-layout = Modus da chanals preferì
+sample-rate = Frequenza da scannar preferida
 media-title = Multimedia
 media-output-devices-title = Apparats da sortida
 media-input-devices-title = Apparats d'entrada
@@ -117,6 +135,12 @@ media-device-format = Format
 media-device-channels = Chanals
 media-device-rate = Frequenza
 media-device-latency = Latenza
+media-capabilities-title = Funcziunalitad medias
+# List all the entries of the database.
+media-capabilities-enumerate = Percurrer la banca da datas
+
+
+
 intl-title = Internaziunalisaziun & lingua
 intl-app-title = Configuraziun da l'applicaziun
 intl-locales-requested = Linguas dumandadas
@@ -232,10 +256,6 @@ content-uses-tiling = Utilisescha plattinas (cuntegn)
 off-main-thread-paint-enabled = Activà painting ordaifer il thread principal
 off-main-thread-paint-worker-count = Dumber da workers da painting ordaifer il thread principal
 target-frame-rate = Finamira per frequenza da maletgs
-audio-backend = Backend dad audio
-max-audio-channels = Maximum da chanals
-channel-layout = Modus da chanals preferì
-sample-rate = Frequenza da scannar preferida
 min-lib-versions = Versiun minimala spetgada
 loaded-lib-versions = Versiun utilisada
 has-seccomp-bpf = Seccomp-BPF (Filtrar cloms dal sistem)
