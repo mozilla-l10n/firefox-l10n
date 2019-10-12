@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = فضای ذخیره سازی
 site-data-column-last-used =
     .label = آخرین استفاده
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (پرونده محلی)
 site-data-remove-selected =
     .label = حذف موارد انتخاب شده
     .accesskey = ح

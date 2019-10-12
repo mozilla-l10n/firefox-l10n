@@ -43,6 +43,18 @@ lockwise-header-content-logged-in = ذخیره امن گذرواژه‌ها و �
 protection-report-view-logins-button = نمایش ورودها
     .title = به ورودهای ذخیره شده برو
 lockwise-no-logins-content = برای دسترسی به گذرواژه‌هایتان در هر جایی <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> را دریافت کنید.
+turn-on-sync = روشن کردن { -sync-brand-short-name }…
+    .title = به تنظیمات همگام‌سازی برو
+manage-devices = مدیریت دستگاه‌ها
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-sync-status =
+    { $count ->
+        [one] در حال همگام‌سازی با { $count } دستگاه دیگر
+       *[other] در حال همگام‌سازی با { $count } دستگاه دیگر
+    }
+monitor-title = مواضب نشت اطلاعات باشید
+monitor-link = چگونه کار می‌کند
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
