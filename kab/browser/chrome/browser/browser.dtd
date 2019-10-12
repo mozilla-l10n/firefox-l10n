@@ -847,8 +847,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure3 "Taɣellist n tuqqna">
 <!ENTITY identity.connectionNotSecure2 "Tuqqna taraɣelsant">
+<!ENTITY identity.connectionNotSecureSecurityView "Aqli-k ur teqqineḍ ara s wudem aɣelsan ɣeṛ usmel-a.">
 <!ENTITY identity.connectionFile "Asebter-a yettwakles deg uselkim-inek.">
 <!ENTITY identity.connectionVerified2 "Aqli-k tura teqqneḍ s tɣellist ɣeṛ usmel-a, bab-is d:">
+<!ENTITY identity.connectionVerified3 "Aqli-k teqqneḍ s wudem aɣelsan ɣeṛ usmel-a.">
 <!ENTITY identity.connectionInternal "Wa d asebter &brandShortName; aɣelsan.">
 <!ENTITY identity.extensionPage "Asebter-a yuli-d seg usiɣzef.">
 <!ENTITY identity.insecureLoginForms2 "Isem n useqdac d wawal uffir i tesqedceḍ deg usmel-a zemren ad ttwakren.">
