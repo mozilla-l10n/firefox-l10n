@@ -310,6 +310,8 @@ addon-options-button =
 
 report-addon-button = Báo cáo
 remove-addon-button = Xóa
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Không thể xóa bỏ dữ liệu <a data-l10n-name="link">Tại sao?</a>
 disable-addon-button = Tắt
 enable-addon-button = Bật
 expand-addon-button = Tùy chọn khác
