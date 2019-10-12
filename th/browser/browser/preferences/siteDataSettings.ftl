@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = ที่เก็บข้อมูล
 site-data-column-last-used =
     .label = วันที่ใช้ครั้งล่าสุด
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (ไฟล์ในเครื่อง)
 site-data-remove-selected =
     .label = เอาที่เลือกออก
     .accesskey = อ
@@ -28,11 +30,6 @@ site-data-button-cancel =
 site-data-button-save =
     .label = บันทึกการเปลี่ยนแปลง
     .accesskey = บ
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (ถาวร)
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
