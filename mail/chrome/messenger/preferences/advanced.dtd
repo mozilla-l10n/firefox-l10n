@@ -9,6 +9,7 @@
 <!ENTITY itemCertificates.label  "Chứng chỉ">
 
 <!-- General Settings -->
+<!ENTITY enableGlodaSearch.label       "Cho phép tìm kiếm và lập chỉ mục đầy đủ">
 <!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY dateTimeFormatting.label      "Định dạng ngày và giờ">
 <!ENTITY languageSelector.label        "Ngôn ngữ">
