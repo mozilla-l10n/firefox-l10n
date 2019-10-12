@@ -7,9 +7,12 @@
 
 <!ENTITY importFromWin.label            "Nhập tùy chọn, cài đặt tài khoản, sổ địa chỉ, bộ lọc và các dữ liệu khác từ:">
 <!ENTITY importFromNonWin.label         "Nhập tùy chỉnh, cài đặt tài khoản, sổ địa chỉ, bộ lọc và các dữ liệu khác từ:">
+<!ENTITY importSourceNotFound.label     "Không có ứng dụng để nhập dữ liệu từ tìm thấy.">
 
 <!ENTITY importFromNothing.label        "Không nhập gì cả">
 <!ENTITY importFromNothing.accesskey    "K">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 trở lên">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
 
