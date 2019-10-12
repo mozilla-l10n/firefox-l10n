@@ -73,3 +73,22 @@ serviceworker-empty-suggestions-aboutdebugging = Sweḍ ameẓlu workers seg ti�
 manifest-item-identity = Tamagit
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = Tigniyin
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Tignit
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = Tignit s teɣzi: { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Teɣzi n tignit ur tettwassen ara
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Tginit n ulɣu
+    .title = Alɣu
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Tignit n tuccḍa
+    .title = Tuccḍa
