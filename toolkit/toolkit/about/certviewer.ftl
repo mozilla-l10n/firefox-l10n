@@ -12,7 +12,7 @@ certificate-viewer-error-title = Algo se fue a las pailas.
 ## Certificate information labels
 
 certificate-viewer-algorithm = Algoritmo
-certificate-viewer-certificate-authority = Autoridad Certificadora
+certificate-viewer-certificate-authority = Autoridad certificadora
 certificate-viewer-cipher-suite = Programa cifrador
 certificate-viewer-common-name = Nombre común
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
@@ -61,11 +61,16 @@ certificate-viewer-public-key-info = Información de clave pública
 certificate-viewer-miscellaneous = Misceláneos
 certificate-viewer-fingerprints = Huellas digitales
 certificate-viewer-basic-constraints = Restricciones básicas
+certificate-viewer-key-usages = Usos de la clave
+certificate-viewer-extended-key-usages = Usos extendidos de la clave
+certificate-viewer-ocsp-stapling = Estampado OCSP
+certificate-viewer-authority-key-id = ID de clave de la autoridad
 certificate-viewer-authority-info-aia = Información de la autoridad (AIA)
-certificate-viewer-certificate-policies = Políticas de Certificado
+certificate-viewer-certificate-policies = Políticas de certificado
+certificate-viewer-embedded-scts = SCTs incrustados
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
-certificate-viewer-download = Bajar
+certificate-viewer-download = Descarga
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
 # Variables:
 #   $boolean (String) - true/false value for the specific field
