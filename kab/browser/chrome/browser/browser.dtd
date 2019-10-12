@@ -275,6 +275,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Sefrek aseqdec n useɣẓan DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Ldi agalis MIDI">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ɣur-k tisirag-nniḍen akken ad tkecmeḍ ɣeṛ usmel-a web.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Tesweḥleḍ asawaḍ-ik i usmelweb-a.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tesweḥleḍ asawaḍ-inek i usmelweb-a.">
@@ -445,8 +446,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Tebɣid ad twaliḍ da accaren-ik seg yibenkan-nniḍen?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Ldi amtawi n Ismenyifen">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Qqen akken ad d-tsekneḍ tabdart n waccaren seg yibenkan-ik-nniḍen.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Wali tabdart n waccaren seg yibenkan-ik-nniḍen.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Amiḍan-ik yeḥwaǧ ad ittusenqed.">
 <!ENTITY appMenuRemoteTabs.signin.label "Qqen ɣer Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Qqen ɣer &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Rmed &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Sefrek ibenkan…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sken agalis adisan n waccaren yemtawin">
