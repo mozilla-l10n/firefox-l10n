@@ -862,7 +862,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ha blocate partes de iste pagina que non es secur.">
 <!ENTITY identity.passiveLoaded "Partes de iste pagina non es secur (pro exemplo, imagines).">
-<!ENTITY identity.activeLoaded "Tu ha disactivate le protection super iste pagina.">
+<!ENTITY identity.activeLoaded "Tu ha disactivate le protection sur iste pagina.">
 <!ENTITY identity.weakEncryption "Iste pagina usa cryptographia debile.">
 
 <!-- Strings for connection state warnings in the subview. -->
@@ -880,7 +880,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.enableMixedContentBlocking.label "Activar le protection">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
-<!ENTITY identity.disableMixedContentBlocking.label "Inactivar le protection pro le momento">
+<!ENTITY identity.disableMixedContentBlocking.label "Disactivar le protection pro le momento">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "I">
 <!ENTITY identity.learnMore "Saper plus">
 
@@ -1031,12 +1031,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock5.label "Disactivar le blocada pro iste sito">
+<!ENTITY trackingProtection.unblock5.label "Disactivar le blocage pro iste sito">
 <!ENTITY trackingProtection.unblock5.accesskey "D">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate5.label "Disactivar temporarimente le blocada">
+<!ENTITY trackingProtection.unblockPrivate5.label "Disactivar temporarimente le blocage">
 <!ENTITY trackingProtection.unblockPrivate5.accesskey "D">
 <!ENTITY trackingProtection.block6.label "Activar le blocada pro iste sito">
 <!ENTITY trackingProtection.block6.accesskey "A">
@@ -1070,7 +1070,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.header.message "Tu nove scheda cambiava.">
 <!ENTITY newTabControlled.keepButton.label "Mantener le cambios">
 <!ENTITY newTabControlled.keepButton.accesskey "M">
-<!ENTITY newTabControlled.disableButton.label "Inactivar le extension">
+<!ENTITY newTabControlled.disableButton.label "Disactivar le extension">
 <!ENTITY newTabControlled.disableButton.accesskey "I">
 
 <!ENTITY homepageControlled.message "Un extension cambiava lo que tu vide quando tu aperi tu pagina casa. Tu pote restaurar tu parametros si tu non vole iste modification.">
@@ -1078,13 +1078,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.header.message "Tu pagina principal cambiava.">
 <!ENTITY homepageControlled.keepButton.label "Mantener le cambios">
 <!ENTITY homepageControlled.keepButton.accesskey "M">
-<!ENTITY homepageControlled.disableButton.label "Inactivar le extension">
+<!ENTITY homepageControlled.disableButton.label "Disactivar le extension">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
 <!ENTITY tabHideControlled.header.message "Accede a tu schedas celate">
 <!ENTITY tabHideControlled.keepButton.label "Mantener celate le schedas">
 <!ENTITY tabHideControlled.keepButton.accesskey "M">
-<!ENTITY tabHideControlled.disableButton.label "Inactivar le extension">
+<!ENTITY tabHideControlled.disableButton.label "Disactivar le extension">
 <!ENTITY tabHideControlled.disableButton.accesskey "I">
 
 <!ENTITY pageActionButton.tooltip "Actiones del pagina">

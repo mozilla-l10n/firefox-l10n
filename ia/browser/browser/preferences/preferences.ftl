@@ -55,7 +55,7 @@ close-button =
 ## Browser Restart Dialog
 
 feature-enable-requires-restart = { -brand-short-name } tu debe reinitiar pro activar iste functionalitate.
-feature-disable-requires-restart = { -brand-short-name } tu debe reinitiar pro inactivar iste functionalitate.
+feature-disable-requires-restart = { -brand-short-name } debe reinitiar se pro disactivar iste function.
 should-restart-title = Reinitiar { -brand-short-name }
 should-restart-ok = Reinitiar { -brand-short-name } ora
 cancel-no-restart-button = Cancellar
@@ -134,7 +134,7 @@ startup-restore-previous-session =
 startup-restore-warn-on-quit =
     .label = Advertir te quando tu quita le navigator
 disable-extension =
-    .label = Inactivar le extension
+    .label = Disactivar le extension
 tabs-group-header = Schedas
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab percurre le schedas in le ordine usate recentemente
@@ -164,8 +164,8 @@ browser-containers-settings =
 containers-disable-alert-title = Clauder tote le schedas contextual?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Si tu inactiva le schedas contextual ora, { $tabCount } scheda contextual essera claudite. Desira tu vermente inactivar le schedas contextual?
-       *[other] Si tu inactiva le schedas contextual ora, { $tabCount } schedas contextual essera claudite. Desira tu vermente inactivar le schedas contextual?
+        [one] Si tu disactiva le schedas contextual ora, { $tabCount } scheda contextual essera claudite. Desira tu vermente disactivar le schedas contextual?
+       *[other] Si tu disactiva le schedas contextual ora, { $tabCount } schedas contextual essera claudite. Desira tu vermente disactivar le schedas contextual?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->

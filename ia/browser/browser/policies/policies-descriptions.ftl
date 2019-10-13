@@ -23,9 +23,9 @@ policy-CertificatesDescription = Adde certificatos o usa certificatos integrate.
 policy-Cookies = Consentir o negar al sitos web de definir cookies.
 policy-DefaultDownloadDirectory = Configura le directorio de discarga predefinite.
 policy-DisableAppUpdate = Impedir le actualisation del navigator.
-policy-DisableBuiltinPDFViewer = Inactivar PDF.js, le visor de PDF integrate in { -brand-short-name }.
+policy-DisableBuiltinPDFViewer = Disactivar PDF.js, le visor de PDF integrate in { -brand-short-name }.
 policy-DisableDeveloperTools = Blocar le accesso al instrumentos del developpatores.
-policy-DisableFeedbackCommands = Inactivar le commandos pro submitter tu commentarios in le menu Adjuta (Submitter tu opinion e Denunciar sito fraudulente).
+policy-DisableFeedbackCommands = Disactivar le commandos pro submitter tu commentarios in le menu Adjuta (Submitter tu opinion e Denunciar sito fraudulente).
 policy-DisableFirefoxAccounts = Disactivar le servicios basate sur { -fxaccount-brand-name }, comprendite Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Disactivar le functionalitate Firefox Screenshots.

@@ -9,7 +9,7 @@ ssl-connection-error = Un error occurreva durante un connexion a { $hostname }. 
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Codice de error: { $error }
-psmerr-ssl-disabled = On non pote connecter se securmente perque le protocollo SSL ha essite inactivate.
+psmerr-ssl-disabled = Connexion secur impossibile perque le protocollo SSL ha essite disactivate.
 psmerr-ssl2-disabled = On non pote connecter se securmente perque le sito usa un version plus vetule e insecur del protocollo SSL.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
