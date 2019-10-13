@@ -73,6 +73,10 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Nuova funzione:
+
 cfr-whatsnew-button =
   .label = Novità
   .tooltiptext = Novità

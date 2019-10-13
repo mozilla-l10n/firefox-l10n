@@ -34,10 +34,22 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Inserisci un indirizzo email valido
 onboarding-join-form-legal = Proseguendo, accetti le <a data-l10n-name="terms">condizioni di utilizzo del servizio</a> e l’<a data-l10n-name="privacy">informativa sulla privacy</a>.
 onboarding-join-form-continue = Continua
+
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Hai già un account?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Accedi
+
 onboarding-start-browsing-button-label = Inizia a navigare
 onboarding-cards-dismiss =
     .title = Rimuovi
     .aria-label = Rimuovi
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Esploriamo insieme tutto ciò che puoi fare.
+onboarding-fullpage-form-email =
+    .placeholder = Il tuo indirizzo email…
 
 ## Firefox Sync modal dialog strings.
 
@@ -100,6 +112,7 @@ onboarding-data-sync-text2 = Sincronizza segnalibri, password e molto altro in t
 onboarding-data-sync-button2 = Accedi a { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Tieni sotto controllo le violazioni di dati
 onboarding-firefox-monitor-text = { -monitor-brand-name } verifica se la tua email è stata coinvolta in una violazione di dati e ti avvisa se appare in una nuova violazione.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } verifica se la tua email è stata coinvolta in una violazione di dati conosciuta e ti avvisa se appare in una nuova violazione.
 onboarding-firefox-monitor-button = Iscriviti agli avvisi
 onboarding-browse-privately-title = Naviga in modo riservato
 onboarding-browse-privately-text = La navigazione anonima non conserva la cronologia di ricerca e navigazione, mantenendo le tue abitudini di navigazione al sicuro da chiunque altro utilizzi il tuo computer.
