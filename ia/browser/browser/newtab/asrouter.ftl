@@ -107,7 +107,7 @@ cfr-whatsnew-lockwise-take-link-text = Discarga le app
 
 ## Bookmark Sync
 
-cfr-doorhanger-sync-bookmarks-header = Recipe iste marcapaginas sur tu smartphono
+cfr-doorhanger-sync-bookmarks-header = Recipe iste marcapaginas sur tu telephono
 cfr-doorhanger-sync-bookmarks-body = Retene tu marcapaginas, contrasignos, chronologia, etc. sur tote le dispositivos connectite a tu conto { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Activar { -sync-brand-short-name }
     .accesskey = A
