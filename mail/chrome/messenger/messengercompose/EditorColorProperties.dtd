@@ -26,3 +26,4 @@
 <!ENTITY backgroundImage.label "Fona bildo:">
 <!ENTITY backgroundImage.accessKey "b">
 <!ENTITY backgroundImage.tooltip "Uzi tiun ĉi bildon kiel fonon por via paĝo">
+<!ENTITY backgroundImage.shortenedDataURI "Mallongigita ligilo de tipo “data” (kiam kopiita, la plena ligilo aperos en la tondujo)">
