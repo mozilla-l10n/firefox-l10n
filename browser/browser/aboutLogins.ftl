@@ -70,6 +70,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = Po shihni për kredenciale hyrjesh tuajat të ruajtura? Ujdisni { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = S’u gjetën kredenciale të njëkohësuar hyrjesh.
 login-intro-description = Nëse ruajtët kredenciale tuajat hyrjesh te { -brand-product-name } në një pajisje tjetër, ja se si t’i merrni këtu:
 login-intro-instruction-fxa = Krijoni ose hyni te  { -fxaccount-brand-name } e juaj te pajisja ku janë ruajtur kredencialet tuaja të hyrjeve
 login-intro-instruction-fxa-settings = Sigurohuni se keni përzgjedhur kutizën Kredenciale Hyrjeshte Rregullime { -sync-brand-short-name }
