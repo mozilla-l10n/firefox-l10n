@@ -19,7 +19,11 @@ onboarding-button-label-get-started = जागायनोसै
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = { -brand-short-name } आव बरायबाय
+onboarding-welcome-body = नों बा्वजारखौ मोनबाय, <br/>आदा्खौबो नागिर  { -brand-product-name }.
 onboarding-welcome-learn-more = बे मुलामफानि सायाव बांसिन मिथिनो
+onboarding-welcome-modal-family-learn-more = बेसादफोरनि रोखोमनि दोमोनदै सोलों{ -brand-product-name }
+onboarding-welcome-form-header = बेयाव जागायजेन
+onboarding-join-form-header = ज खालाम  { -brand-product-name }
 onboarding-join-form-body = जागायनो थाखाय नोंथांनि इ-मेइल खौ हो
 onboarding-join-form-email =
     .placeholder = इ-मेइल हाबहो
@@ -33,6 +37,7 @@ onboarding-cards-dismiss =
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = { -brand-product-name } खौ लोगोसे लांफा
+onboarding-sync-welcome-learn-more-link = फायारफख्सनि हिसाबनि सोमोनदै गोबां सोलों
 onboarding-sync-form-invalid-input = बाहाय जाथाव इ-मेइल नांगौ
 onboarding-sync-form-input =
     .placeholder = इ-मेइल
@@ -47,6 +52,12 @@ onboarding-sync-form-sub-header = { -sync-brand-name } सिम थांनो
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = बाहायजाथाव बेसादफोर
+onboarding-benefit-knowledge-title = बाहायजाथाव गुन
+onboarding-benefit-privacy-title = थार निजोम जायगा
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
@@ -61,10 +72,13 @@ onboarding-addons-title = दाजाबदाफोर
 onboarding-ghostery-title = Ghostery
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = सिनक
+onboarding-tracking-protection-title2 = आगान नागिरनायनिफा्य रैखा जानाय
 onboarding-tracking-protection-button2 = बेयो माबादि खामानि मावो
+onboarding-data-sync-title = नोंनि फे्मखौ नोंजोंनो लाफा
 onboarding-data-sync-button2 = { -sync-brand-short-name } आव साइन-इन खालाम
 onboarding-browse-privately-title = गावनियावनो नागिर
 onboarding-browse-privately-button = मोनसे प्राइभेट उइन्ड'खौ खेव
+onboarding-firefox-send-title = नोंनि गुबुननो हवरनाय फाइलफोरखौ गावनियावनो दोन
 onboarding-firefox-send-button = { -send-brand-name } खौ नाजा
 onboarding-mobile-phone-title = { -brand-product-name } खौ नोंथांनि जानबुङाव नांगौब्ला
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
