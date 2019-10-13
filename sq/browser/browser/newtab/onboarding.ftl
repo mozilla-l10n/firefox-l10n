@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Fillojani
 onboarding-welcome-header = Mirë se vini te { -brand-short-name }
 onboarding-welcome-body = E morët shfletuesin.<br/>Njihuni me pjesën tjetër të { -brand-product-name }.
 onboarding-welcome-learn-more = Mësoni më tepër mbi përfitimet.
+onboarding-welcome-modal-get-body = E keni shfletuesin.<br/>Tani përfitoni maksimumin prej { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Superngarkoni mbrojtjen e privatësisë tuaj.
+onboarding-welcome-modal-privacy-body = E keni shfletuesin. Le të shtojmë më tepër mbrojtje privatësie.
+onboarding-welcome-modal-family-learn-more = Mësoni rreth produkteve të familjes { -brand-product-name }.
+onboarding-welcome-form-header = Fillojani Këtu
 onboarding-join-form-header = Bëhuni pjesë e { -brand-product-name }
 onboarding-join-form-body = Që t’ia filloni, jepni adresën tuaj email.
 onboarding-join-form-email =
@@ -64,6 +69,12 @@ onboarding-benefit-privacy-title = Privatësi e Vërtetë
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Gjithçka bëjmë pajtohet me Premtimin tonë Mbi të Dhënat Personale: Grumbullim sa më pak. Mbajtje e parrezik. Pa të fshehta.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Merrni me vete faqerojtësit tuaj, fjalëkalimet, historikun, etj, kudo ku përdorni { -brand-product-name }-in.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Njoftohuni kur të dhënat tuaja personale shfaqen në një cenim të ditur të dhënash.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Administroni fjalëkalime që janë të mbrojtur dhe të bartshëm.
 
 ## These strings belong to the individual onboarding messages.
 
