@@ -969,7 +969,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.accesskey         "Y">
 
 <!ENTITY syncSyncNowItem.label        "Mag-sync Na">
-<!ENTITY syncSyncNowItemSyncing.label "Syncing…">
+<!ENTITY syncSyncNowItemSyncing.label "Nagsi-Sync…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Kumonekta ulit sa &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "R">
