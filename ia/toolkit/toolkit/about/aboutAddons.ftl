@@ -150,7 +150,7 @@ disabled-unsigned-heading =
     .value = Alcun additivos ha essite disactivate
 disabled-unsigned-description = Le additivos sequente non ha essite verificate pro uso in { -brand-short-name }. Tu pote <label data-l10n-name="find-addons">cercar alternativas</label> o demandar al disveloppator de facer los verificar.
 disabled-unsigned-learn-more = Saper plus super nostre effortios pro adjutar a guardar tu securitate in linea.
-disabled-unsigned-devinfo = Le disveloppatores con interesse in facer verificar lor additivos es invitate a leger nostre <label data-l10n-name="learn-more">manual</label>.
+disabled-unsigned-devinfo = Le disveloppatores interessate in facer verificar lor additivos es invitate a leger nostre <label data-l10n-name="learn-more">manual</label>.
 plugin-deprecation-description = Alcun cosa manca? Alcun plugins non es plus admittite per { -brand-short-name }. <label data-l10n-name="learn-more">Saper plus.</label>
 legacy-warning-show-legacy = Monstrar le extensiones obsolete
 legacy-extensions =
