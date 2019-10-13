@@ -70,7 +70,7 @@ onboarding-benefit-privacy-title = Confidentialitate ver
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Tote lo que nos face honora nostre promissa sur tu datos personal: nos promitte de prender minus de tu datos, mantener los secur, e non guardar secretos pro te.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Porta tu marcapaginas, contrasignos, chronologia e altero ancora ubique tu usa { -brand-product-name }.
+onboarding-benefit-sync-text = Porta tu marcapaginas, contrasignos, chronologia, etc. a tote le dispositivos ubi tu usa { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Recipe un notification si tu informationes personal es exponite in un violation de datos note.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
@@ -99,7 +99,7 @@ onboarding-tracking-protection-text2 = { -brand-short-name } impedi al sitos web
 onboarding-tracking-protection-button2 = Como functiona illo
 onboarding-data-sync-title = Prende tu parametros con te
 # "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Synchronisa tu marcapaginas, contrasignos e altero ancora ubique tu usa { -brand-product-name }.
+onboarding-data-sync-text2 = Synchronisa tu marcapaginas, contrasignos, etc. sur tote le dispositivos ubi tu usa { -brand-product-name }.
 onboarding-data-sync-button2 = Accede a { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Sta alerte al violationes de datos
 onboarding-firefox-monitor-text = { -monitor-brand-name } controla attentemente si tu email ha apparite in un violation de datos e te avisa si illo es implicate in un nove violation.
@@ -127,7 +127,7 @@ onboarding-lockwise-passwords-title = Porta ubique con te tu contrasignos
 onboarding-lockwise-passwords-text2 = Mantene secur le contrasignos que tu salva e accede facilemente a tu contos con { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Discarga le app
 onboarding-facebook-container-title = Defini limites pro Facebook
-onboarding-facebook-container-text2 = { -facebook-container-brand-name } mantene tu profilo separate de toto le altero, rende plus difficile pro Facebook te adressar con avisos publicitari.
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } mantene tu profilo separate de tote le resto. Il es assi plus difficile pro Facebook importunar te con avisos publicitari.
 onboarding-facebook-container-button = Adder le extension
 
 ## Message strings belonging to the Return to AMO flow
