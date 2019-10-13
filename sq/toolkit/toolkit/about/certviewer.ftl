@@ -22,7 +22,7 @@ certificate-viewer-exponent = Eksponent
 certificate-viewer-id = ID
 certificate-viewer-key-id = ID Kyçi
 certificate-viewer-key-size = Madhësia Kyçi
-certificate-viewer-location = Vendndodhja
+certificate-viewer-location = Vendndodhje
 certificate-viewer-logid = ID Regjistri
 certificate-viewer-method = Metodë
 certificate-viewer-modulus = Modul
@@ -49,9 +49,13 @@ certificate-viewer-business-category = Kategori Biznesi
 certificate-viewer-subject-name = Emër Subjekti
 certificate-viewer-issuer-name = Emër Lëshuesi
 certificate-viewer-validity = Vlefshmëri
+certificate-viewer-public-key-info = Të dhëna Kyçi Publik
 certificate-viewer-miscellaneous = Të ndryshme
 certificate-viewer-fingerprints = Shenja gishtash
 certificate-viewer-key-usages = Përdorime Kyçe
+certificate-viewer-subject-key-id = ID Kyçi Subjekti
+certificate-viewer-authority-key-id = ID Kyçi Autoriteti
+certificate-viewer-authority-info-aia = Të dhëna Autoriteti (AIA)
 certificate-viewer-certificate-policies = Rregulla Dëshmish
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
