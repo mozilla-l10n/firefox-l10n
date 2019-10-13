@@ -97,10 +97,5 @@ onboarding-facebook-container-button = बारा जानाखौ दाज
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = साबायखर, नों मोनबाय  { -brand-short-name }
-# <icon></icon> will be replaced with the icon belonging to the extension
-#
-# Variables:
-#   $addon-name (String) - Name of the add-on
-return-to-amo-addon-header = दा नोंनिसिम मोनहोनोसै
 return-to-amo-extension-button = बारा जानाखौ दाजाबदेर
 return-to-amo-get-started-button = { -brand-short-name } खौ जागायनोसै
