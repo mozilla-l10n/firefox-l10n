@@ -49,7 +49,7 @@
 <!ENTITY rights.webservices-d "Actualisar">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Un synthese del servicios del sito web que le producto incorpora, accompaniate de instructiones sur como inactivar los, si applicabile, debe esser includite hic.">
+<!ENTITY rights.webservices-unbranded "Un summario del servicios web que le producto incorpora, accompaniate de instructiones sur como disactivar los, si applicabile, debe esser includite hic.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Tote le terminos de servicio applicabile pro iste producto debe ser listate ci.">
