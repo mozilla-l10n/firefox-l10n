@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = Neleisti „{ -brand-short-name }“ vykdyti tyri
 policy-DisableForgetButton = Blokuoti prieigą prie mygtuką „Pamiršti“.
 policy-DisableFormHistory = Neįsiminti įvestų paieškos ir formų laukų reikšmių.
 policy-DisableMasterPasswordCreation = Jei „true“, negalima sukurti pagrindinio slaptažodžio.
+policy-DisablePasswordReveal = Neleisti parodyti slaptažodžių įrašytuose prisijungimuose.
 policy-DisablePocket = Išjungti funkcionalumą, skirtą tinklalapių įrašymui į „Pocket“.
 policy-DisablePrivateBrowsing = Išjungti privatųjį naršymą.
 policy-DisableProfileImport = Išjungti meniu komandą, skirtą importuoti duomenis iš kitos naršyklės.
@@ -61,6 +62,7 @@ policy-HardwareAcceleration = Jei „false“, išjungti aparatinį spartinimą.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Nustatyti ir papildomai užrakinti pradžios tinklalapį.
 policy-InstallAddonsPermission = Leisti kai kurioms svetainėms diegti priedus.
+policy-LegacyProfiles = Išjungti reikalavimą turėti atskirą profilį kiekvienai įdiegčiai
 policy-LocalFileLinks = Leisti konkrečioms svetainėms susieti vietinius failus.
 policy-NetworkPrediction = Įjungti arba išjungti tinklo nuspėjimą (parengtinis DNS įkėlimas).
 policy-NewTabPage = Įjungti arba išjungti naujos kortelės puslapį.
