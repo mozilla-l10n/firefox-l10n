@@ -83,6 +83,21 @@ newtab-menu-delete-history = Pašalinti iš istorijos
 newtab-menu-save-to-pocket = Įrašyti į „{ -pocket-brand-name }“
 newtab-menu-delete-pocket = Trinti iš „{ -pocket-brand-name }“
 newtab-menu-archive-pocket = Archyvuoti per „{ -pocket-brand-name }“
+newtab-menu-show-privacy-info = Mūsų rėmėjai ir jūsų privatumas
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Gerai
+newtab-privacy-modal-header = Jūsų privatumas yra svarbus.
+newtab-privacy-modal-paragraph =
+    Mes ne tik pateikiame įtraukiančias istorijas, bet ir rodome susijusį,
+    gerai vertinamą turinį iš atrinktų rėmėjų. Būkite ramūs – jūsų naršymo
+    duomenys niekada neiškeliauja už jūsų asmeninės „{ -brand-product-name }“ ribų – mes jų nematome,
+    kaip ir nemato mūsų rėmėjai.
+newtab-privacy-modal-link = Sužinokite, kaip naujoje kortelėje veikia privatumas
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Pašalinti iš adresyno
 # Bookmark is a verb here.
