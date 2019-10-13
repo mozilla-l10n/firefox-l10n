@@ -142,7 +142,7 @@ was trying to connect. -->
 <!ENTITY sslv3Used.title "Hindi Makakonekta nang Ligtas">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
-<!ENTITY sslv3Used.longDesc2 "Paunang impormasyon: SSL_ERROR_UNSUPPORTED_VERSION">
+<!ENTITY sslv3Used.longDesc2 "Advanced na impormasyon: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY certerror.pagetitle2  "Babala: Mayroong Potential Security Risk">
 <!ENTITY certerror.sts.pagetitle  "Hindi nag-connect: Potential Security Issue">
