@@ -73,13 +73,13 @@ restart-later = Restartovat později
 
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
-extension-controlled-homepage-override = Vaši domovskou stránku spravuje <img data-l10n-name="icon"/> { $name }.
+extension-controlled-homepage-override = Vaši domovskou stránku spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
-extension-controlled-new-tab-url = Stránku v novém panelu spravuje <img data-l10n-name="icon"/> { $name }.
+extension-controlled-new-tab-url = Stránku v novém panelu spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
-extension-controlled-web-notifications = Toto nastavení spravuje <img data-l10n-name="icon"/> { $name }.
+extension-controlled-web-notifications = Toto nastavení spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
 extension-controlled-default-search = Rozšíření <img data-l10n-name="icon"/> { $name } vám nastavilo nový výchozí vyhledávač.
@@ -88,10 +88,10 @@ extension-controlled-default-search = Rozšíření <img data-l10n-name="icon"/>
 extension-controlled-privacy-containers = <img data-l10n-name="icon"/> { $name } vyžaduje kontejnerové panely.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlled-websites-content-blocking-all-trackers = Toto nastavení spravuje <img data-l10n-name="icon"/> { $name }.
+extension-controlled-websites-content-blocking-all-trackers = Toto nastavení spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = Připojení aplikace { -brand-short-name } k internetu spravuje <img data-l10n-name="icon"/> { $name }.
+extension-controlled-proxy-config = Připojení aplikace { -brand-short-name } k internetu spravuje rozšíření <img data-l10n-name="icon"/> { $name }.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
