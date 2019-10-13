@@ -37,5 +37,5 @@
 <!ENTITY fillPasswordMenu.accesskey   "V">
 <!ENTITY fillUsernameMenu.label       "Vyplnit uživatelské jméno">
 <!ENTITY fillUsernameMenu.accesskey   "V">
-<!ENTITY noLoginSuggestions.label     "(Žádné návrhy nenalezeny)">
+<!ENTITY noLoginSuggestions.label     "(Pro tento server nenalezeny žádné přihlašovací údaje)">
 <!ENTITY viewSavedLogins.label        "Zobrazit uložené přihlašovací údaje">

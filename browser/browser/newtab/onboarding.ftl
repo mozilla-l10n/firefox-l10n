@@ -30,9 +30,9 @@ onboarding-join-form-header =
         [masculine] Používejte { -brand-product-name }
        *[other] Používejte aplikaci { -brand-product-name }
     }
-onboarding-join-form-body = Zde vložte svou e-mailovou adresu.
+onboarding-join-form-body = Zde zadejte svou e-mailovou adresu.
 onboarding-join-form-email =
-    .placeholder = Vložte e-mail
+    .placeholder = Zadejte e-mail
 onboarding-join-form-email-error = Je požadován platný e-mail
 onboarding-join-form-legal = Pokračováním souhlasíte s <a data-l10n-name="terms">podmínkami poskytování služby</a> a <a data-l10n-name="privacy">zásadami ochrany osobních údajů</a>.
 onboarding-join-form-continue = Pokračovat
