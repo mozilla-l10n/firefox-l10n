@@ -71,6 +71,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = Tražite svoje spremljene prijave? Postavite { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = Nisu pronađene sinkronizirane prijave.
 login-intro-description = Ukoliko ste spremili svoje prijave na { -brand-product-name } na drugom uređaju, ovako ih možete imati i ovdje:
 login-intro-instruction-fxa = Stvorite ili se prijavite u svoj { -fxaccount-brand-name } na uređaju gdje imate spremljene prijave.
 login-intro-instruction-fxa-settings = Provjerite da li ste odabrali kućicu pored Prijava u { -sync-brand-short-name } postavkama

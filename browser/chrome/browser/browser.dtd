@@ -945,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Sadržaj za praćenje">
 <!ENTITY protections.fingerprinters.label "Jedinstveni otisci">
 <!ENTITY protections.cryptominers.label "Kripto rudari">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Svi pratitelji na ovoj stranici su učitani iz razloga što su zaštite isključene.">
 <!ENTITY protections.noTrackersFound.description "Programi za praćenje koji su poznati &brandShortName;u nisu otkriveni na ovoj stranici.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Ovi kolačići vas prate od stranice do stranice i prikupljaju podatke o tome što radite na Internetu. Postavljeni su od trećih strana kao što su oglašivači i analitičke tvrtke.">

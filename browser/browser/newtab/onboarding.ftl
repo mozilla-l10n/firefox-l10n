@@ -72,6 +72,7 @@ onboarding-benefit-privacy-text = Sve što radimo poštuje naše obećanje o oso
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Uzmi svoje oznake, lozinke, povijest i još mnogo toga gdje god koristiš { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Budite obaviješteni kada pronađemo vaše podatke u poznatom curenju podataka.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Upravljaj lozinkama koje su zaštićene i prenosive.
 
