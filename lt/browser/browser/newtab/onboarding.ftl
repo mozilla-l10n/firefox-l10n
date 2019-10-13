@@ -25,6 +25,7 @@ onboarding-welcome-modal-get-body = Naršyklę jau turite.<br/>Dabar išnaudokit
 onboarding-welcome-modal-supercharge-body = Pagerinkite savo privatumo apsaugą.
 onboarding-welcome-modal-privacy-body = Naršyklę jau turite. Pridėkime daugiau privatumo apsaugos.
 onboarding-welcome-modal-family-learn-more = Susipažinkite su „{ -brand-product-name }“ produktų grupe.
+onboarding-welcome-form-header = Pradėkite čia
 onboarding-join-form-header = Prisijungti prie „{ -brand-product-name }“
 onboarding-join-form-body = Įveskite savo el. pašto adresą.
 onboarding-join-form-email =
