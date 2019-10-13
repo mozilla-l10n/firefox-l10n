@@ -89,6 +89,7 @@ newtab-menu-show-privacy-info = Sponsorët tanë & privatësia jonë
 
 newtab-privacy-modal-button-done = Kaq qe
 newtab-privacy-modal-header = Privatësia juaj ka rëndësi.
+newtab-privacy-modal-link = Mësoni se si funksionon privatësia në skedën e re
 
 
 
