@@ -4,3 +4,6 @@
 
 sync-disconnect-dialog-title = Atjungti „{ -sync-brand-short-name }“?
 sync-disconnect-dialog-body = „{ -brand-product-name }“ nebesinchronizuos duomenų su jūsų paskyra, bet šiame įrenginyje jau esančių naršymo duomenų nepašalins.
+fxa-disconnect-dialog-title = Atjungti „{ -brand-product-name }“?
+fxa-disconnect-dialog-body = „{ -brand-product-name }“ atsijungs nuo jūsų paskyros, tačiau visi šiame įrenginyje esantys naršymo duomenys išliks.
+sync-disconnect-dialog-button = Atsijungti

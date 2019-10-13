@@ -945,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Stebėjimui naudojamas turinys">
 <!ENTITY protections.fingerprinters.label "Skaitmeninių atspaudų stebėjimas">
 <!ENTITY protections.cryptominers.label "Kriptovaliutų kasėjai">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Buvo įkelti visi šioje svetainėje esantys stebėjimo elementai, nes apsaugos yra išjungtos.">
 <!ENTITY protections.noTrackersFound.description "Tinklalapyje nerasta „&brandShortName;“ žinomų stebėjimo elementų.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Šie slapukai seka jus tarp skirtingų svetainių, rinkdami informaciją, ką veikiate naršydami. Jie yra valdomi trečiųjų šalių, pvz., reklamų kūrėjų arba analitikos kompanijų.">
