@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Laikyti numatytąja ieškykle
     .accesskey = m
+search-one-offs-context-set-as-default-private =
+    .label = Skirti numatytąja ieškykle privačiojo naršymo langams
+    .accesskey = p

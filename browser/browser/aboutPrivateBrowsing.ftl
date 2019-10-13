@@ -26,3 +26,15 @@ about-private-browsing-not-private = Šiuo metu jūs esate ne privačiajame lang
 content-blocking-title = Turinio blokavimas
 content-blocking-description = Kai kurios svetainės naudoja elementus, galinčius stebėti jūsų veiklą internete. Privačiojo naršymo languose „{ -brand-short-name }“ turinio blokavimas automatiškai blokuoja daugumą tokių elementų, galinčių rinkti informaciją apie jūsų naršymo įpročius.
 about-private-browsing-info-description = „{ -brand-short-name }“ išvalo jūsų paieškos ir naršymo žurnalą kai išjungiate programą, arba užveriate visas privačiojo naršymo korteles ir langus. Nors tai ir nepadaro jūsų anonimu internete, taip lengviau galite išlaikyti savo privatumą nuo kitų šiuo kompiuteriu besinaudojančių žmonių.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = „{ $engineName }“ yra jūsų numatytoji ieškyklė privačiojo naršymo languose
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Norėdami pasikeisti ieškyklę, eikite į <a data-l10n-name="link-options">Nuostatas</a>
+       *[other] Norėdami pasikeisti ieškyklę, eikite į <a data-l10n-name="link-options">Nuostatas</a>
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Užverti
