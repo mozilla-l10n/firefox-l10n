@@ -74,7 +74,7 @@ search-one-offs-with-title = Tym razem szukaj w:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
-    .label = Zmień ustawienia wyszukiwania
+    .label = Ustawienia wyszukiwania
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Zmień ustawienia wyszukiwania
 search-one-offs-context-open-new-tab =
