@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Comenzar
 onboarding-welcome-header = Bienvenido a { -brand-short-name }
 onboarding-welcome-body = Ya tiene el navegador.<br/>Conozca el resto de { -brand-product-name }.
 onboarding-welcome-learn-more = Saber más sobre las ventajas.
+onboarding-welcome-modal-get-body = Ya tiene el navegador.<br/>Ahora aproveche { -brand-product-name } al máximo.
+onboarding-welcome-modal-supercharge-body = Protección de privacidad al máximo nivel.
+onboarding-welcome-modal-privacy-body = Ya tiene el navegador. Añadamos más protección de privacidad.
+onboarding-welcome-modal-family-learn-more = Conozca más sobre la familia de productos { -brand-product-name }.
+onboarding-welcome-form-header = Empezar aquí
 onboarding-join-form-header = Unirse a { -brand-product-name }
 onboarding-join-form-body = Para empezar, introduzca su dirección de correo.
 onboarding-join-form-email =
@@ -64,6 +69,7 @@ onboarding-benefit-privacy-title = Privacidad de verdad
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Todo lo que hacemos respeta nuestra promesa de datos personales: Tomar menos. Mantenerlo seguro. Sin secretos.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
