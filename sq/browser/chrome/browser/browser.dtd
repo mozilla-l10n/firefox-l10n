@@ -943,6 +943,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Lëndë Gjurmimi">
 <!ENTITY protections.fingerprinters.label "Krijues shenja gishtash">
 <!ENTITY protections.cryptominers.label "Nxjerrës kriptomonedhash">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Janë ngarkuar krejt gjurmuesit në këtë sajt, ngaqë mbrojtjet janë të çaktivizuara.">
 <!ENTITY protections.noTrackersFound.description "Në këtë faqe s’u pikasën gjurmues të ditur nga &brandShortName;.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Këto <em>cookies</em> ju ndjekin nga sajti në sajt për të mbledhur të dhëna rreth çka bëni në internet. Ato depozitohen nga palë të treta, të tilla si shoqëri reklamash dhe analizash.">

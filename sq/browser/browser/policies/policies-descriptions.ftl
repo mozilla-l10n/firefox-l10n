@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = Pengojani { -brand-short-name }-it xhirimin e stu
 policy-DisableForgetButton = Pengoni përdorimin e butoni Harroje.
 policy-DisableFormHistory = Mos mba mend historik kërkimesh dhe plotësimi formularësh.
 policy-DisableMasterPasswordCreation = Nëse zgjidhet <em>true</e>, s’mund të krijohet fjalëkalim i përgjithshëm.
+policy-DisablePasswordReveal = Mos lejo të shfaqen fjalëkalime te kredenciale hyrjesh të ruajtura.
 policy-DisablePocket = Çaktivizoni veçorinë e ruajtjes së faqeve web në Pocket.
 policy-DisablePrivateBrowsing = Çaktivizoni Shfletimin Privat.
 policy-DisableProfileImport = Çaktivizoni te menuja urdhrin për Importim të dhënash nga një tjetër shfletues.
@@ -61,6 +62,7 @@ policy-HardwareAcceleration = Nëse false, çaktivizohet përshpejtimi përmes h
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Caktoni faqen hyrëse, dhe kyçeni në daçi.
 policy-InstallAddonsPermission = Lejojuni disa sajteve të caktuar të instalojnë shtesa.
+policy-LegacyProfiles = Çaktivizo veçorinë e zbatimit me detyrim të një profili veçmas për çdo instalim
 policy-LocalFileLinks = Lejo sajte specifikë të krijojnë lidhje te kartela vendore.
 policy-NetworkPrediction = Aktivizoni ose çaktivizoni parashikim rrjeti (<em>DNS prefetching</em>).
 policy-NewTabPage = Aktivizoni ose çaktivizoni faqen Skedë e Re.

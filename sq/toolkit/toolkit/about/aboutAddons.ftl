@@ -304,6 +304,8 @@ addon-options-button =
 
 report-addon-button = Raportoje
 remove-addon-button = Hiqe
+# The link will always be shown after the other text.
+remove-addon-disabled-button = S’mund të Hiqet <a data-l10n-name="link">Pse?</a>
 disable-addon-button = Çaktivizoje
 enable-addon-button = Aktivizoje
 expand-addon-button = Më tepër Mundësi

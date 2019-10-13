@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Caktojeni Si Motor Parazgjedhje Kërkimesh
     .accesskey = P
+search-one-offs-context-set-as-default-private =
+    .label = Vëre si Motor Kërkimi Parazgjedhje për Dritare Private
+    .accesskey = V
