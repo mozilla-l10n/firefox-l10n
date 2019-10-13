@@ -47,6 +47,7 @@ login-list-count =
         [one] { $count } ल'गइन
        *[other] { $count } ल'हइनफोर
     }
+login-list-sort-label-text = बासिदों
 login-list-name-option = मुं (A-Z)
 login-list-last-changed-option = जोबथि सोलायनाय
 login-list-last-used-option = जोबथि बाहायनाय

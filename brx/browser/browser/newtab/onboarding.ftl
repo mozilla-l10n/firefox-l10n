@@ -21,6 +21,7 @@ onboarding-button-label-get-started = जागायनोसै
 onboarding-welcome-header = { -brand-short-name } आव बरायबाय
 onboarding-welcome-body = नों बा्वजारखौ मोनबाय, <br/>आदा्खौबो नागिर  { -brand-product-name }.
 onboarding-welcome-learn-more = बे मुलामफानि सायाव बांसिन मिथिनो
+onboarding-welcome-modal-privacy-body = नों बा्वजारखौ मोनबाय, थौ गोबां फा्यवेसि रैखा खालामगा्खौ दाजाबदेरनि
 onboarding-welcome-modal-family-learn-more = बेसादफोरनि रोखोमनि दोमोनदै सोलों{ -brand-product-name }
 onboarding-welcome-form-header = बेयाव जागायजेन
 onboarding-join-form-header = ज खालाम  { -brand-product-name }
@@ -84,6 +85,7 @@ onboarding-mobile-phone-title = { -brand-product-name } खौ नोंथा�
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = मबाइल बुकमार्कफोर डाउनल'ड खालाम
+onboarding-send-tabs-title = हरखाबैनो नों थेबफोरखौ दैथायहर
 onboarding-send-tabs-button = थेप दैथायनायजों जागाय
 onboarding-pocket-anywhere-title = जेरावबो फराय आरो खोनासं
 onboarding-pocket-anywhere-button = { -pocket-brand-name } खौ नाजा
