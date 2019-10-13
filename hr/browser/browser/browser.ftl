@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Podesi kao zadanu tražilicu
     .accesskey = d
+search-one-offs-context-set-as-default-private =
+    .label = Postavite zadani pretraživač za Privatno pretraživanje
+    .accesskey = P
