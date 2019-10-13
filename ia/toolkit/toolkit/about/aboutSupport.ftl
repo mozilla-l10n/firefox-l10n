@@ -281,10 +281,10 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Activate per le usator
 multi-process-status-1 = Activate per predefinition
 multi-process-status-2 = Inactive
-multi-process-status-4 = Inactivate per le instrumentos de accessibilitate
-multi-process-status-6 = Inactivate per un introduction de texto non admittite
-multi-process-status-7 = Inactivate per additivos
-multi-process-status-8 = Inactivate fortiatemente
+multi-process-status-4 = Disactivate per le instrumentos de accessibilitate
+multi-process-status-6 = Disactivate per entrata de texto non supportate
+multi-process-status-7 = Disactivate per additivos
+multi-process-status-8 = Disactivate fortiatemente
 multi-process-status-unknown = Stato incognite
 async-pan-zoom = Pan/Zoom asynchrone
 apz-none = nulle
@@ -297,8 +297,8 @@ autoscroll-enabled = auto-rolamento activate
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
-wheel-warning = entrata de rolamento asynchrone inactivate a causa de un preferentia non admittite: { $preferenceKey }
-touch-warning = entrata tactile async inactivate a causa de un preferentia non admittite: { $preferenceKey }
+wheel-warning = entrata asynchrone con rota de mus disactivate a causa de un preferentia non supportate: { $preferenceKey }
+touch-warning = entrata tactile asynchrone disactivate a causa de un preferentia non supportate: { $preferenceKey }
 
 ## Strings representing the status of the Enterprise Policies engine.
 
