@@ -69,7 +69,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Le navigator es configurate a usar un servitor proxy ma le proxy non pote ser trovate.</p><ul><li>Es le configuration del proxy del navigator correcte? Controla le predefinitiones e reproba</li><li>Es le computer connectite a un rete active?</li><li>Ancora problemas? Consulta tu administrator de rete o tu fornitor de Internet pro assistentia.</li></ul>">
 
 <!ENTITY redirectLoop.title "Cyclo de redirection">
-<!ENTITY redirectLoop.longDesc "<p>Le navigator ha cessate de tentar recuperar le elemento requestate. Le sito redirige le requesta de sorta que illo non jammais terminara.</p><ul><li>Ha tu inactivate o blocate cookies necessitate per iste sito?</li><li><em>NOTA</em>: Si acceptar le cookies del sito non resolve le problema, il ha probabilemente un problema de configuration del servitor e non de tu computator.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Le navigator ha cessate de tentar a obtener le elemento requestate. Le sito redirige le requesta de sorta que illo non terminara jammais.</p><ul><li>Ha tu disactivate o blocate cookies necessari pro iste sito?</li><li><em>NOTA</em>: Si acceptar le cookies del sito non resolve le problema, il ha probabilemente un problema de configuration del servitor e non de tu computator.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Responsa non correcte">
 <!ENTITY unknownSocketType.longDesc "<p>Le sito respondeva al requesta de rete in un via inexpectate e le browser non pote continuar.</p>">

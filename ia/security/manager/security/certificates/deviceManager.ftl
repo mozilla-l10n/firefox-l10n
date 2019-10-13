@@ -33,7 +33,7 @@ devmgr-button-enable-fips =
     .label = Activar FIPS
     .accesskey = F
 devmgr-button-disable-fips =
-    .label = Inactivar FIPS
+    .label = Disactivar FIPS
     .accesskey = F
 
 ## Strings used for load device

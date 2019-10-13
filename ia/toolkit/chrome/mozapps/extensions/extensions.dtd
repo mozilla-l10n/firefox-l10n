@@ -5,7 +5,7 @@
 <!-- addon actions -->
 <!ENTITY cmd.enableAddon.label                "Activar">
 <!ENTITY cmd.enableAddon.accesskey            "A">
-<!ENTITY cmd.disableAddon.label               "Inactivar">
+<!ENTITY cmd.disableAddon.label               "Disactivar">
 <!ENTITY cmd.disableAddon.accesskey           "I">
 
 <!ENTITY cmd.askToActivate.label              "Demandar pro activar">

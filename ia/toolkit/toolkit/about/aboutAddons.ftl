@@ -147,7 +147,7 @@ detail-rating =
 addon-restart-now =
     .label = Reinitiar ora
 disabled-unsigned-heading =
-    .value = Alcun additivos ha essite inactivate
+    .value = Alcun additivos ha essite disactivate
 disabled-unsigned-description = Le additivos sequente non ha essite verificate pro le utilisation in { -brand-short-name }. Tu pote <label data-l10n-name="find-addons">trovar le reimplaciamentos</label> o demandar al developpator de los verificar.
 disabled-unsigned-learn-more = Saper plus super nostre effortios pro adjutar a guardar tu securitate in linea.
 disabled-unsigned-devinfo = Developpatores interessate in devenir lor additivos verificate pote continuar legente nostre <label data-l10n-name="learn-more">manual</label>.
@@ -170,7 +170,7 @@ extensions-view-available-updates =
 ## These are global warnings
 
 extensions-warning-safe-mode-label =
-    .value = Tote le additivos ha essite inactivate per le modo secur.
+    .value = Tote le additivos ha essite disactivate per le modo secur.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
 extensions-warning-check-compatibility-label =
