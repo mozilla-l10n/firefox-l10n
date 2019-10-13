@@ -63,16 +63,28 @@ onboarding-ghostery-title = Ghostery
 onboarding-fxa-title = सिनक
 onboarding-tracking-protection-button2 = बेयो माबादि खामानि मावो
 onboarding-data-sync-button2 = { -sync-brand-short-name } आव साइन-इन खालाम
+onboarding-browse-privately-title = गावनियावनो नागिर
 onboarding-browse-privately-button = मोनसे प्राइभेट उइन्ड'खौ खेव
 onboarding-firefox-send-button = { -send-brand-name } खौ नाजा
 onboarding-mobile-phone-title = { -brand-product-name } खौ नोंथांनि जानबुङाव नांगौब्ला
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = मबाइल बुकमार्कफोर डाउनल'ड खालाम
+onboarding-send-tabs-button = थेप दैथायनायजों जागाय
+onboarding-pocket-anywhere-title = जेरावबो फराय आरो खोनासं
 onboarding-pocket-anywhere-button = { -pocket-brand-name } खौ नाजा
 onboarding-lockwise-passwords-title = नोंनि पासवर्दखौ जेरावबो लांंफा
 onboarding-lockwise-passwords-button2 = आपखौ ला
+onboarding-facebook-container-title = फेसबुक जों सिमा खालामना ला
+onboarding-facebook-container-button = बारा जानाखौ दाजाबदेर
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = साबायखर, नों मोनबाय  { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = दा नोंनिसिम मोनहोनोसै
+return-to-amo-extension-button = बारा जानाखौ दाजाबदेर
 return-to-amo-get-started-button = { -brand-short-name } खौ जागायनोसै
