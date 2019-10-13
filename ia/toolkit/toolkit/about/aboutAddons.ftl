@@ -68,7 +68,7 @@ cmd-install-addon =
 cmd-contribute =
     .label = Contribuer
     .accesskey = C
-    .tooltiptext = Contribuer al developpamento de iste additivo
+    .tooltiptext = Contribuer al disveloppamento de iste additivo
 discover-title = Que es additivos?
 discover-description =
     Le additivos es applicationes que te permitte de personalisar { -brand-short-name } con
@@ -81,7 +81,7 @@ detail-version =
     .label = Version
 detail-last-updated =
     .label = Ultime actualisation
-detail-contributions-description = Le developpator de iste additivo demanda que tu le adjuta assecurar su developpamento continue faciente un parve contribution.
+detail-contributions-description = Le disveloppator de iste additivo requesta que tu adjuta a assecurar su disveloppamento continue faciente un parve contribution.
 detail-contributions-button = Collaborar
     .title = Collabora al disveloppamento de iste additivo.
     .accesskey = C
@@ -148,9 +148,9 @@ addon-restart-now =
     .label = Reinitiar ora
 disabled-unsigned-heading =
     .value = Alcun additivos ha essite disactivate
-disabled-unsigned-description = Le additivos sequente non ha essite verificate pro le utilisation in { -brand-short-name }. Tu pote <label data-l10n-name="find-addons">trovar le reimplaciamentos</label> o demandar al developpator de los verificar.
+disabled-unsigned-description = Le additivos sequente non ha essite verificate pro uso in { -brand-short-name }. Tu pote <label data-l10n-name="find-addons">cercar alternativas</label> o demandar al disveloppator de facer los verificar.
 disabled-unsigned-learn-more = Saper plus super nostre effortios pro adjutar a guardar tu securitate in linea.
-disabled-unsigned-devinfo = Developpatores interessate in devenir lor additivos verificate pote continuar legente nostre <label data-l10n-name="learn-more">manual</label>.
+disabled-unsigned-devinfo = Le disveloppatores con interesse in facer verificar lor additivos es invitate a leger nostre <label data-l10n-name="learn-more">manual</label>.
 plugin-deprecation-description = Alcun cosa manca? Alcun plugins non es plus admittite per { -brand-short-name }. <label data-l10n-name="learn-more">Saper plus.</label>
 legacy-warning-show-legacy = Monstrar le extensiones obsolete
 legacy-extensions =
