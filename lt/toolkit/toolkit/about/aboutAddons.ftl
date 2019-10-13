@@ -312,6 +312,8 @@ addon-options-button =
 
 report-addon-button = Pranešti
 remove-addon-button = Pašalinti
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Negalima pašalinti. <a data-l10n-name="link">Kodėl?</a>
 disable-addon-button = Išjungti
 enable-addon-button = Įjungti
 expand-addon-button = Daugiau veiksmų
