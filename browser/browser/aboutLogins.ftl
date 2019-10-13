@@ -151,6 +151,6 @@ about-logins-error-message-duplicate-login = Une entrée pour { $loginTitle } av
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login-with-link = Une nom d’utilisateur ou d’utilisatrice pour { $loginTitle } existe déjà. <a data-l10n-name="duplicate-link"> Accéder à une entrée existante ?</a>
+about-logins-error-message-duplicate-login-with-link = Un nom d’utilisateur ou d’utilisatrice pour { $loginTitle } existe déjà. <a data-l10n-name="duplicate-link">Accéder à l’entrée existante ?</a>
 # This is a generic error message.
 about-logins-error-message-default = Une erreur s’est produite en essayant d’enregistrer ce mot de passe.
