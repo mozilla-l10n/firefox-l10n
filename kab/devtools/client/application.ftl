@@ -69,10 +69,15 @@ serviceworker-empty-suggestions-debugger = Ddu ar ujerred n umeẓlu worker saki
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Sweḍ ameẓlu workers seg tiɣula-nniden. <a> Ldi about:debugging</a>
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Tuccḍiwin akked Ilɣa
 # Header for the Identity section of Manifest inspection displayed in the application panel.
 manifest-item-identity = Tamagit
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = Tigniyin
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = Iswi: <code>{ $purpose }</code>
 # Text displayed as the alt attribute for <img> tags showing the icons in the
 # manifest.
 manifest-icon-img =
