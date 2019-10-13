@@ -24,7 +24,7 @@
 <!-- Below are new strings for the revised new calendar dialog. The above strings should be
     removed/renamed later on -->
 
-<!ENTITY sourcetabs.other.label  "Altero">
+<!ENTITY sourcetabs.other.label  "Altere">
 
 <!ENTITY buttons.create.label "Crear agenda">
 <!ENTITY buttons.create.accesskey "r">
