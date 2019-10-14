@@ -33,8 +33,19 @@
 <!ENTITY actualSizeRadio.tooltip "Restarigi originalajn dimensiojn de bildo">
 <!ENTITY customSizeRadio.label "Propraj dimensioj">
 <!ENTITY customSizeRadio.accessKey "P">
+<!ENTITY customSizeRadio.tooltip "Ŝanĝi dimensiojn de bildo montrata sur la paĝo">
+<!ENTITY heightEditField.label "Alto:">
+<!ENTITY heightEditField.accessKey "A">
+<!ENTITY widthEditField.label "Larĝo:">
+<!ENTITY widthEditField.accessKey "L">
+<!ENTITY constrainCheckbox.label "Konservi proporciojn">
+<!ENTITY constrainCheckbox.accessKey "K">
+<!ENTITY constrainCheckbox.tooltip "Skali la bildon proporcie">
 
 <!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label "Mapo de bildo">
+<!ENTITY removeImageMapButton.label "Forigi">
+<!ENTITY removeImageMapButton.accessKey "F">
 
 <!-- These are the options for image alignment -->
 
