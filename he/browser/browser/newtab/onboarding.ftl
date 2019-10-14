@@ -21,6 +21,7 @@ onboarding-button-label-get-started = תחילת עבודה
 onboarding-welcome-header = ברוכים הבאים אל { -brand-short-name }
 onboarding-welcome-body = הדפדפן כבר בידיך.<br/>עכשיו נציג את שאר { -brand-product-name }.
 onboarding-welcome-learn-more = מידע נוסף על היתרונות.
+onboarding-welcome-form-header = תחילת עבודה
 onboarding-join-form-header = הצטרפות אל { -brand-product-name }
 onboarding-join-form-body = נא להכניס את כתובת הדוא״ל שלך כדי להתחיל.
 onboarding-join-form-email =
@@ -28,10 +29,19 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = נדרשת כתובת דוא״ל חוקית
 onboarding-join-form-legal = בחירה בהמשך התהליך מהווה הסכמה ל<a data-l10n-name="terms">תנאי השירות</a> ול<a data-l10n-name="privacy">הצהרת הפרטיות</a>.
 onboarding-join-form-continue = המשך
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = כבר יש לך חשבון?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = כניסה
 onboarding-start-browsing-button-label = התחלת גלישה
 onboarding-cards-dismiss =
     .title = הסרה
     .aria-label = הסרה
+
+## Welcome full page string
+
+onboarding-fullpage-form-email =
+    .placeholder = כתובת הדוא״ל שלך…
 
 ## Firefox Sync modal dialog strings.
 
