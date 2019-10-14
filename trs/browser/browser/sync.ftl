@@ -4,3 +4,7 @@
 
 fxa-toolbar-sync-now =
     .label = Gi'iaj sun nugua'ān ma
+fxa-toolbar-sync-syncing =
+    .label = Hìaj nagi'iaj guñanj…
+fxa-toolbar-sync-syncing-tabs =
+    .label = Nagi'iaj guñan rakïj ñanj…
