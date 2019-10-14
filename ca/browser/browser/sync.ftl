@@ -4,3 +4,7 @@
 
 fxa-toolbar-sync-now =
     .label = Sincronitza ara
+fxa-toolbar-sync-syncing =
+    .label = S'està sincronitzant…
+fxa-toolbar-sync-syncing-tabs =
+    .label = S'estan sincronitzant les pestanyes…
