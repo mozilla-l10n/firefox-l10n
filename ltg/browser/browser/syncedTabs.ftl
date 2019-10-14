@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Puorvaļdeit īrīces…
     .accesskey = d
+synced-tabs-context-sync-now =
+    .label = Sinhronizeit
+    .accesskey = S
 fxa-sign-in = Pīraksteitīs { -sync-brand-short-name }
