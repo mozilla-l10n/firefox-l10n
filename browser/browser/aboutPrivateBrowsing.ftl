@@ -26,3 +26,15 @@ about-private-browsing-not-private = Nid ydych mewn ffenestr breifat ar hyn o br
 content-blocking-title = Rhwystro Cynnwys
 content-blocking-description = Mae rhai gwefannau yn defnyddio tracwyr sy'n monitro eich gweithgaredd ar draws y rhyngrwyd. Mewn ffenestri preifat mae Rhwystro Cynnwys gan { -brand-short-name } yn rhwystro'n awtomatig unrhyw dracwyr sy'n gallu casglu gwybodaeth am eich ymddygiad pori.
 about-private-browsing-info-description = Mae { -brand-short-name } yn clirio eich hanes chwilio a phori pan fyddwch yn cau'r ap neu'n cau pob tab a ffenestr Pori Preifat. Er nad yw hyn yn eich gwneud yn ddienw i wefannau neu i'ch darparwr gwasanaeth rhyngrwyd, mae'n ei gwneud yn haws i chi gadw'r hyn rydych chi'n ei wneud ar-lein yn breifat rhag unrhyw un arall sy'n defnyddio'r cyfrifiadur hwn.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } yw eich peiriant chwilio rhagosodedig mewn Ffenestri Preifat
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] I ddewis peiriant chwilio gwahanol ewch i <a data-l10n-name="link-options">Dewisiadau</a>
+       *[other] I ddewis peiriant chwilio gwahanol ewch i <a data-l10n-name="link-options">Dewisiadau</a>
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Cau
