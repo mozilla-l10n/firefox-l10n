@@ -4,6 +4,10 @@
 
 fxa-toolbar-sync-now =
     .label = Synchronizuj teraz
+fxa-toolbar-sync-syncing =
+    .label = Synchronizowanie…
+fxa-toolbar-sync-syncing-tabs =
+    .label = Synchronizowanie kart…
 sync-disconnect-dialog-title = Czy rozłączyć { -sync-brand-short-name(case: "acc", capitalization: "lower") }?
 sync-disconnect-dialog-body = { -brand-product-name } zatrzyma synchronizację z tym kontem, ale nie usunie danych przeglądania na tym urządzeniu.
 fxa-disconnect-dialog-title = Czy rozłączyć przeglądarkę { -brand-product-name }?
