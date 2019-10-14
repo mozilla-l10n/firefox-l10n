@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Qurilmalarni boshqarish
     .accesskey = D
+synced-tabs-context-sync-now =
+    .label = Hozir sinxronlash
+    .accesskey = s
 fxa-sign-in = { -sync-brand-short-name }ga kirish
