@@ -46,7 +46,7 @@ onboarding-cards-dismiss =
 
 onboarding-fullpage-welcome-subheader = 让我们开始探索您能做的一切。
 onboarding-fullpage-form-email =
-    .placeholder = 你的电子邮件地址…
+    .placeholder = 您的电子邮件地址…
 
 ## Firefox Sync modal dialog strings.
 
