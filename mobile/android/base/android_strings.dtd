@@ -23,16 +23,21 @@
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY updatednewfirstrun_sync_title "Conta">
 <!ENTITY firstrun_sync_message2 "Retome onde ficou.">
+<!ENTITY firstrun_sync_message3 "Sincronize os seus marcadores, histórico e palavras-passe com o seu telefone.">
 <!ENTITY firstrun_sync_subtext2 "Utilize o Sync para encontrar os marcadores, palavras-passe, e outras coisas que guarda no &brandShortName; em todos os seus dispositivos.">
 <!ENTITY newfirstrun_sync_subtext "Sincronize as coisas que guarda em dispositivos móveis no Firefox para computador, de forma privada e segura.">
 <!ENTITY updatednewfirstrun_sync_subtext "Inicie sessão na sua conta para aproveitar ao máximo o &brandShortName;">
 <!ENTITY firstrun_signin_message "Ligue-se para começar">
+<!ENTITY firstrun_sendtab_title "Enviar separador">
+<!ENTITY firstrun_sendtab_message "Partilhe os separadores do telemóvel para o PC — instantaneamente.">
 <!ENTITY firstrun_signin_button "Iniciar sessão no Sync">
 <!ENTITY newfirstrun_signin_button "Ligar o Sync">
 <!ENTITY updatednewfirstrun_signin_button "Iniciar sessão no &brandShortName;">
-<!ENTITY  onboard_start_button_browser "Iniciar navegação">
+<!ENTITY onboard_start_button_browser "Iniciar navegação">
 <!ENTITY firstrun_button_notnow "Agora não">
 <!ENTITY firstrun_button_next "Seguinte">
+
+<!ENTITY firstrun_signin_button2 "Iniciar sessão">
 
 <!ENTITY firstrun_tabqueue_title "Ligações">
 
@@ -44,6 +49,8 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Eu">
 <!ENTITY firstrun_account_message "Instalou o &brandShortName; noutro dispositivo?">
+
+<!ENTITY firstrun_signup_button "Registar">
 
 <!ENTITY  onboard_start_restricted1 "Mantenha-se seguro e em controlo com esta versão simplificada do &brandShortName;.">
 
@@ -495,6 +502,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Partilhar">
 <!ENTITY share_title "Partilhar através">
 <!ENTITY share_image_failed "Não é possível partilhar esta imagem">
+<!ENTITY share_error_toast_message "Não é possível partilhar a aplicação indicada">
 <!ENTITY save_as_pdf "Guardar como PDF">
 <!ENTITY print "Imprimir">
 <!ENTITY view_page_source "Ver código fonte da página">
@@ -595,7 +603,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Localização">
 <!ENTITY bookmark_edit_keyword "Palavra-chave">
 <!ENTITY bookmark_select_folder "Selecionar pasta">
-
 <!ENTITY bookmark_edit_undo "Desfazer">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -689,6 +696,7 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Está ligado a">
+
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -875,6 +883,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Disponível offline">
 <!ENTITY helper_triple_readerview_open_message "Adicione aos Marcadores itens da Lista de leitura para lê-los offline.">
 <!ENTITY helper_triple_readerview_open_button "Adicionar aos Marcadores">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
+activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "Bem-vindo ao &brandShortName;">
+<!ENTITY activity_stream_signin_description "Comece a sincronizar os marcadores, palavras-passe e muito mais com a sua conta Firefox.">
+<!ENTITY activity_stream_signin_button "Iniciar sessão">
+
+<!ENTITY activity_stream_signup_button "Registar">
+<!ENTITY activity_stream_signin_prompt "Já tem uma conta?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Inicie a sessão.">
 
 <!ENTITY activity_stream_topsites "Sites mais visitados">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
