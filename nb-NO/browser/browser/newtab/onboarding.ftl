@@ -33,10 +33,20 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Gyldig e-postadresse kreves
 onboarding-join-form-legal = Ved å fortsette aksepterer du våre <a data-l10n-name="terms">tjenestevilkår</a> og <a data-l10n-name="privacy">personvernbestemmelser</a>.
 onboarding-join-form-continue = Fortsett
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Har du allerede en konto?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Logg inn
 onboarding-start-browsing-button-label = Start nettlesing
 onboarding-cards-dismiss =
     .title = Avslå
     .aria-label = Avslå
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = La oss starte å utforske alt du kan gjøre.
+onboarding-fullpage-form-email =
+    .placeholder = Din e-postadresse…
 
 ## Firefox Sync modal dialog strings.
 
@@ -103,6 +113,7 @@ onboarding-data-sync-text2 = Synkroniser dine bokmerker, passord og mer overalt 
 onboarding-data-sync-button2 = Logg inn på { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Vær oppmerksom på datalekkasjer
 onboarding-firefox-monitor-text = { -monitor-brand-name } overvåker om e-postenadressen din har dukket opp i datalekkasjer og varsler deg om det vises i en ny lekkasje.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } overvåker om e-postenadressen din har dukket opp i kjente datalekkasjer og varsler deg om det vises i en ny lekkasje.
 onboarding-firefox-monitor-button = Registrer deg for varslinger
 onboarding-browse-privately-title = Surf privat
 onboarding-browse-privately-text = Privat nettlesing fjerner din søke- og nettlesingshistorikk for å holde den hemmelig fra andre som bruker din datamaskin.
