@@ -4,3 +4,5 @@
 
 fxa-toolbar-sync-now =
     .label = İndi Sinxronizə et
+fxa-toolbar-sync-syncing-tabs =
+    .label = Vərəqlər sinxronlaşdırılır…
