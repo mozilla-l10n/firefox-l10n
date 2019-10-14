@@ -4,6 +4,8 @@
 
 fxa-toolbar-sync-now =
     .label = Synkronoi
+fxa-toolbar-sync-syncing-tabs =
+    .label = Synkronoidaan välilehtiä…
 sync-disconnect-dialog-title = Katkaistaanko yhteys { -sync-brand-short-name }-palveluun?
 sync-disconnect-dialog-body = { -brand-product-name } ei enää synkronoi tietoja tilille, mutta mitään tämän laitteen selaustietoja ei poisteta.
 fxa-disconnect-dialog-title = Irrotetaanko { -brand-product-name }?
