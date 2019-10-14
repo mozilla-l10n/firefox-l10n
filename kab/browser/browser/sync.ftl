@@ -4,6 +4,8 @@
 
 fxa-toolbar-sync-now =
     .label = Mtawi tura
+fxa-toolbar-sync-syncing =
+    .label = Amtawi…
 fxa-toolbar-sync-syncing-tabs =
     .label = Amtawi n Iccaren…
 sync-disconnect-dialog-title = Ffeɣ{ -sync-brand-short-name }
