@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Administri aparatojn…
     .accesskey = A
+synced-tabs-context-sync-now =
+    .label = Speguli nun
+    .accesskey = S
 fxa-sign-in = Komenci seancon en { -sync-brand-short-name }
