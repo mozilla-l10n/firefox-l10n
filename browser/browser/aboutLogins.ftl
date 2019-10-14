@@ -136,7 +136,22 @@ confirm-discard-changes-dialog-confirm-button = Descartar
 
 ## Breach Alert notification
 
+breach-alert-text = As palavras-passe deste site foram divulgadas ou roubadas desde a última vez que atualizou as suas credenciais. Altere a sua palavra-passe para proteger a sua conta.
 breach-alert-link = Saber mais acerca desta brecha.
+breach-alert-dismiss =
+    .title = Fechar este alerta
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Já existe uma entrada com esse nome de utilizador para { $loginTitle }.
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Já existe uma entrada com esse nome de utilizador para { $loginTitle }. <a data-l10n-name="duplicate-link">Ir para a entrada existente?</a>
+# This is a generic error message.
+about-logins-error-message-default = Ocorreu um erro enquanto tentava guardar esta palavra-passe.
