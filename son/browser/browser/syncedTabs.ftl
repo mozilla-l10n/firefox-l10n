@@ -32,4 +32,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Jinawey juwal…
     .accesskey = D
+synced-tabs-context-sync-now =
+    .label = Sync sohõ
+    .accesskey = S
 fxa-sign-in = Huru { -sync-brand-short-name } ra
