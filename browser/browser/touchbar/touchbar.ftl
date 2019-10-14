@@ -19,3 +19,15 @@ open-location = Sök eller ange adress
 share = Dela
 close-window = Stäng fönster
 open-sidebar = Sidrad
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Sök i:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = Bokmärken
+search-history = Historik
+search-opentabs = Öppna flikar
+
+
+

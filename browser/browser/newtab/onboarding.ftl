@@ -33,10 +33,19 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Giltig e-postadress krävs
 onboarding-join-form-legal = Genom att fortsätta godkänner du <a data-l10n-name="terms">användarvillkoren</a> och <a data-l10n-name="privacy">sekretesspolicy</a>.
 onboarding-join-form-continue = Fortsätt
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Har du redan ett konto?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Logga in
 onboarding-start-browsing-button-label = Börja surfa
 onboarding-cards-dismiss =
     .title = Ignorera
     .aria-label = Ignorera
+
+## Welcome full page string
+
+onboarding-fullpage-form-email =
+    .placeholder = Din e-postadress…
 
 ## Firefox Sync modal dialog strings.
 
