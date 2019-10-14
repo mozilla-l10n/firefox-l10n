@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = यन्त्रहरू प्रबन्धन गर्नुहोस्...
     .accesskey = D
+synced-tabs-context-sync-now =
+    .label = अहिले सिङ्क गर्नुहोस्
+    .accesskey = S
 fxa-sign-in = { -sync-brand-short-name } मा साइन इन गर्नुहोस
