@@ -945,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Cynnwys Tracio">
 <!ENTITY protections.fingerprinters.label "Bysbrintwyr">
 <!ENTITY protections.cryptominers.label "Cryptogloddwyr">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Mae'r holl dracwyr ar y wefan hon wedi'u llwytho gan fod diogelu wedi'i ddiffodd.">
 <!ENTITY protections.noTrackersFound.description "Dim tracwyr hysbys i &brandShortName; wedi eu canfod ar y dudalen hon.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Mae'r cwcis hyn yn eich dilyn o wefan i wefan i gasglu data am yr hyn rydych chi'n ei wneud ar-lein. Maen nhw'n cael eu gosod gan drydydd partïon fel hysbysebwyr a chwmnïau dadansoddol.">

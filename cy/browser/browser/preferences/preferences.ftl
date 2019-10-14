@@ -294,6 +294,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Defnyddio { $plugin-name } (yn { -brand-short-name })
@@ -540,6 +544,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Dangos awgrymiadau chwilio o flaen hanes yng nghanlyniadau'r bar cyfeiriadau
+search-show-suggestions-private-windows =
+    .label = Dangos awgrymiadau chwilio mewn Ffenestri Preifat
 suggestions-addressbar-settings = Newid dewisiadau ar gyfer hanes pori, nodau tudalen ac awgrymiadau tabiau
 search-suggestions-cant-show = Ni fydd awgrymiadau chwilio'n cael eu dangos yn y bar lleoliad gan eich bod wedi ffurfweddu { -brand-short-name } i byth cofio hanes.
 search-one-click-header = Peiriannau Chwilio Un Clic
@@ -656,6 +662,9 @@ sync-currently-syncing-prefs =
         [windows] Dewisiadau
        *[other] Dewisiadau
     }
+sync-change-options =
+    .label = Newid…
+    .accesskey = N
 
 ## The "Choose what to sync" dialog.
 

@@ -93,6 +93,20 @@ manifest-non-existing = Heb ganfod maniffest i'w arolygu
 # Text displayed when the page has a manifest embedded in a Data URL and
 # thus we cannot link to it.
 manifest-json-link-data-url = Mae'r maniffest wedi'i fewnosod mewn URL Data.
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = Pwrpas: <code>{ $purpose }</code>
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Eicon
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = Eicon gyda meintiau: { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Eicon maint amhenodol
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Maniffest
     .alt = Eicon Maniffest
