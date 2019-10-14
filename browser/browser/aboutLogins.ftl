@@ -114,6 +114,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = ยกเลิก
 confirmation-dialog-dismiss-button =
     .title = ยกเลิก
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] ต้องการเข้าสู่ระบบของคุณทุกที่ที่คุณใช้ { -brand-product-name } หรือไม่? ไปที่ตัวเลือก { -sync-brand-short-name } ของคุณแล้วเลือกกล่องกาเครื่องหมาย การเข้าสู่ระบบ
+       *[other] ต้องการเข้าสู่ระบบของคุณทุกที่ที่คุณใช้ { -brand-product-name } หรือไม่? ไปที่ค่ากำหนด { -sync-brand-short-name } ของคุณแล้วเลือกกล่องกาเครื่องหมาย การเข้าสู่ระบบ
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -137,5 +142,15 @@ breach-alert-dismiss =
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = มีรายการสำหรับ { $loginTitle } พร้อมชื่อผู้ใช้นั้นแล้ว
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = มีรายการสำหรับ { $loginTitle } พร้อมชื่อผู้ใช้นั้นแล้ว <a data-l10n-name="duplicate-link">ต้องการไปยังรายการที่มีอยู่หรือไม่?</a>
 # This is a generic error message.
 about-logins-error-message-default = เกิดข้อผิดพลาดขณะพยายามบันทึกรหัสผ่านนี้
