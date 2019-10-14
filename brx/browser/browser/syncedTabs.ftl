@@ -28,4 +28,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = डिभाइसफोरखौ सामलाय
     .accesskey = D
+synced-tabs-context-sync-now =
+    .label = दानो सिनक खालाम
+    .accesskey = S
 fxa-sign-in = { -sync-brand-short-name } आव साइन-इन खालाम
