@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Urus Peranti…
     .accesskey = P
+synced-tabs-context-sync-now =
+    .label = Sync Sekarang
+    .accesskey = S
 fxa-sign-in = Daftar masuk ke { -sync-brand-short-name }
