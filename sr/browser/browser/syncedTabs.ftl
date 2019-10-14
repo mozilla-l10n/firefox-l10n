@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Управљај уређајима…
     .accesskey = ђ
+synced-tabs-context-sync-now =
+    .label = Синхронизуј сада
+    .accesskey = С
 fxa-sign-in = Пријави се на { -sync-brand-short-name }
