@@ -4,6 +4,10 @@
 
 fxa-toolbar-sync-now =
     .label = 立刻同步
+fxa-toolbar-sync-syncing =
+    .label = 同步中…
+fxa-toolbar-sync-syncing-tabs =
+    .label = 正在同步分頁…
 sync-disconnect-dialog-title = 要取消連線到 { -sync-brand-short-name } 嗎？
 sync-disconnect-dialog-body = { -brand-product-name } 將停止同步您的帳號，但不會刪除此裝置中的任何瀏覽資料。
 fxa-disconnect-dialog-title = 要取消連線到 { -brand-product-name } 嗎？
