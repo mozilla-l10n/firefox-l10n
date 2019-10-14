@@ -4,6 +4,8 @@
 
 fxa-toolbar-sync-now =
     .label = Sincronizar agora
+fxa-toolbar-sync-syncing-tabs =
+    .label = Sincronizando abas…
 sync-disconnect-dialog-title = Desconectar o { -sync-brand-short-name }?
 sync-disconnect-dialog-body = Neste dispositivo, o { -brand-product-name } irá parar de sincronizar sua conta, mas não excluirá nenhum de seus dados de navegação.
 fxa-disconnect-dialog-title = Desconectar o { -brand-product-name }?
