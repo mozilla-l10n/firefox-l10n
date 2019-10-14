@@ -4,3 +4,5 @@
 
 fxa-toolbar-sync-now =
     .label = এখন সিঙ্ক
+fxa-toolbar-sync-syncing-tabs =
+    .label = সিঙ্ককৃত ট্যাব…
