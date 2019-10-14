@@ -4,4 +4,6 @@
 
 fxa-toolbar-sync-now =
     .label = انجام هم‌گام‌سازی
+fxa-toolbar-sync-syncing-tabs =
+    .label = همگام‌سازی زبانه‌ها…
 sync-disconnect-dialog-button = قطع ارتباط
