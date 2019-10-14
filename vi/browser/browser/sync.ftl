@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fxa-toolbar-sync-syncing-tabs =
+    .label = Đang đồng bộ các thẻ…
 sync-disconnect-dialog-title = Ngắt kết nối { -sync-brand-short-name }?
 sync-disconnect-dialog-body = { -brand-product-name } sẽ ngừng đồng bộ hóa với tài khoản của bạn, nhưng sẽ không xóa mọi dữ liệu duyệt web của bạn trên thiết bị này.
 fxa-disconnect-dialog-title = Ngắt kết nối { -brand-product-name }?
