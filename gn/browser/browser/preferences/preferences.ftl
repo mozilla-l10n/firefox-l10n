@@ -282,6 +282,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } jepuru ({ -brand-short-name }-pe)
@@ -524,6 +528,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Tojechauka kundaharape rendápe ñe'ẽreka joguaha tembiasakue mboyve
+search-show-suggestions-private-windows =
+    .label = Ehechauka jehekaha Windows ñemiguávape
 suggestions-addressbar-settings = Emoambue jerohoryvéva kundaha rembiasakuépe g̃uarã, techaukaha ha tendayke jepururã.
 search-suggestions-cant-show = Jeheka je'epyréva ndojekuaamo'ãi kundaharape renda apopyrépe, oñembohekóma rupi { -brand-short-name } aníke nemandu'a tembiasakuére.
 search-one-click-header = Jehekaha mongu'eha jekutu peteĩva

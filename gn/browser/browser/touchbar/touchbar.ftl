@@ -19,3 +19,19 @@ open-location = Eheka térã emoinge kundaharape
 share = Moherakuã
 close-window = Emboty ovetã
 open-sidebar = Tenda yke
+# This string describes shortcuts for search.
+search-popover = Eheka jeike pya’eha
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Eheka amo:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = Techaukaha
+search-history = Tembiasakue
+search-opentabs = Tendayke ijurujáva
+search-tags = Teramoĩ
+search-titles = Teratee
+
+
+

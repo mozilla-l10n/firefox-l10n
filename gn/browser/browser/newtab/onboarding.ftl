@@ -33,10 +33,17 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Eikotevẽ ñandutiveve oikóva
 onboarding-join-form-legal = Eku’ejeývo, emoneĩma umi <a data-l10n-name="terms">Mba'epytyvõrã ñemboguata</a> ha <a data-l10n-name="privacy">Temiñemi purureko</a>.
 onboarding-join-form-continue = Eku'ejey
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = ¿Eguerekóma ne mba’ete?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Eñemboheraguapy
 onboarding-start-browsing-button-label = Eñepyrũ eikundaha
 onboarding-cards-dismiss =
     .title = Emboyke
     .aria-label = Emboyke
+
+## Welcome full page string
+
 
 ## Firefox Sync modal dialog strings.
 

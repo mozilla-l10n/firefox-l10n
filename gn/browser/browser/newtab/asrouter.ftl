@@ -78,6 +78,9 @@ cfr-protections-panel-link-text = Eikuaave
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Peteĩchagua pyahu:
 cfr-whatsnew-button =
     .label = Oĩpa mba'e pyahu
     .tooltiptext = Oĩpa mba'e pyahu
