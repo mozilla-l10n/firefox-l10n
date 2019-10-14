@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Chestionar los dispositivos…
     .accesskey = d
+synced-tabs-context-sync-now =
+    .label = Sincronizar agora
+    .accesskey = z
 fxa-sign-in = Connectar-se a { -sync-brand-short-name }
