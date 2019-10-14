@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Kelola Perangkat…
     .accesskey = D
+synced-tabs-context-sync-now =
+    .label = Sinkronkan Sekarang
+    .accesskey = S
 fxa-sign-in = Masuk ke { -sync-brand-short-name }
