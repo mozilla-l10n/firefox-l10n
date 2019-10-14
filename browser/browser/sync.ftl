@@ -4,6 +4,8 @@
 
 fxa-toolbar-sync-now =
     .label = Sinhroniziraj
+fxa-toolbar-sync-syncing-tabs =
+    .label = Sinhroniziranje zavihkov ...
 sync-disconnect-dialog-title = Odklopim { -sync-brand-short-name }?
 sync-disconnect-dialog-body = { -brand-product-name } bo prenehal sinhronizirati vaš račun, vendar ne bo izbrisal podatkov o brskanju, shranjenih na tej napravi.
 fxa-disconnect-dialog-title = Odklopim { -brand-product-name }?
