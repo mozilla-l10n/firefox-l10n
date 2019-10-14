@@ -19,3 +19,19 @@ open-location = Pytaś abo adresu zapódaś
 share = Źěliś
 close-window = Wokno zacyniś
 open-sidebar = Bócnice
+# This string describes shortcuts for search.
+search-popover = Pytańske skrotconki
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Pytaś w:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = Cytańske znamjenja
+search-history = Historija
+search-opentabs = Wócynjone rejtarki
+search-tags = Wobznamjenja
+search-titles = Titele
+
+
+

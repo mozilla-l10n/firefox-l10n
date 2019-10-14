@@ -33,10 +33,20 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Płaśiwa e-mailowa adresa trěbna
 onboarding-join-form-legal = Gaž pókšacujośo, zwólijośo do <a data-l10n-name="terms">wužywańskich wuměnjenjow</a> a <a data-l10n-name="privacy">powěźeńki priwatnosći</a>.
 onboarding-join-form-continue = Dalej
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Maśo južo konto?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Pśizjawiś
 onboarding-start-browsing-button-label = Pśeglědowanje startowaś
 onboarding-cards-dismiss =
     .title = Zachyśiś
     .aria-label = Zachyśiś
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Zachopmy wšykno wuslěźiś, což móžośo cyniś.
+onboarding-fullpage-form-email =
+    .placeholder = Waša e-mailowa adresa…
 
 ## Firefox Sync modal dialog strings.
 
@@ -103,6 +113,7 @@ onboarding-data-sync-text2 = Synchronizěrujśo swóje cytańske znamjenja a gro
 onboarding-data-sync-button2 = Pla { -sync-brand-short-name } pśizjawiś
 onboarding-firefox-monitor-title = Dajśo se pśi datowych źěrach warnowaś
 onboarding-firefox-monitor-text = { -monitor-brand-name } doglědujo, lěc jo se waša e-mailowa adresa južo w datowej źěrje zjawiła a warnujo was, gdyž se w nowej źěrje pokazujo.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } doglědujo, lěc jo se waša e-mailowa adresa južo w znatej datowej źěrje zjawiła a warnujo was, gdyž se w nowej źěrje pokazujo.
 onboarding-firefox-monitor-button = Za powěźeńki registrěrowaś
 onboarding-browse-privately-title = Pśeglědowajśo z priwatnosću
 onboarding-browse-privately-text = Priwatny modus wašu pytańsku a pśeglědowańsku historiju wulašujo, aby jej pśed kuždym zatajił, kótaryž wašo licadło wužywa.
