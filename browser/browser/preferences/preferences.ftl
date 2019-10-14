@@ -505,6 +505,7 @@ search-bar-shown =
     .label = Lisää hakupalkki työkalupalkkiin
 search-engine-default-header = Oletushakukone
 search-engine-default-desc = Valitse oletushakukone, jota käytetään osoite- ja hakupalkissa.
+search-engine-default-private-desc = Valitse oletushakukone, jota käytetään yksityisissä ikkunoissa.
 search-suggestions-header = Hakuehdotukset
 search-suggestions-desc = Valitse, millä tavalla hakukoneiden ehdotukset näkyvät.
 search-suggestions-option =
