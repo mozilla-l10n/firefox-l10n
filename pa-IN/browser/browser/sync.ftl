@@ -4,3 +4,5 @@
 
 fxa-toolbar-sync-now =
     .label = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
+fxa-toolbar-sync-syncing-tabs =
+    .label = …ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
