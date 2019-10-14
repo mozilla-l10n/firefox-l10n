@@ -33,10 +33,20 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Gyldig e-postadresse påkravd
 onboarding-join-form-legal = Ved å fortsetje godtek du <a data-l10n-name="terms">tenestevilkåra</a> våre og <a data-l10n-name="privacy">personvernerklæringa</a> vår.
 onboarding-join-form-continue = Fortset
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Har du allereie ein konto?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Logg inn
 onboarding-start-browsing-button-label = Start nettlesing
 onboarding-cards-dismiss =
     .title = Avvis
     .aria-label = Avvis
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = La oss starte å utforske alt du kan gjere.
+onboarding-fullpage-form-email =
+    .placeholder = Di e-postadresse…
 
 ## Firefox Sync modal dialog strings.
 
