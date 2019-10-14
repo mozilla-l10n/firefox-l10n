@@ -8,7 +8,6 @@ graph-today = Cheel
 lockwise-title-logged-in = { -lockwise-brand-name }
 protection-report-view-logins-button = Il ixe'teb'al u aq'one'
     .title = Il ixe'teb'al u aq'one' ve kolel kan.
-lockwise-no-logins-content = Chuk u
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
