@@ -4,7 +4,7 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Ecoj de horizontala linio">
+<!ENTITY windowTitle.label "Atributoj  de horizontala linio">
 
 <!ENTITY dimensionsBox.label "Dimensioj">
 <!ENTITY heightEditField.label "Alto:">
@@ -24,3 +24,4 @@
 <!ENTITY threeDShading.accessKey "3">
 <!ENTITY saveSettings.label "Uzi kiel implicitan">
 <!ENTITY saveSettings.accessKey "i">
+<!ENTITY saveSettings.tooltip "Konservi tiujn ĉi agordojn dum enmeti novajn horizontalajn liniojn">
