@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Կառավարել սարքերը…
     .accesskey = ս
+synced-tabs-context-sync-now =
+    .label = Սինք
+    .accesskey = Ս
 fxa-sign-in = Մուտք գործել { -sync-brand-short-name }
