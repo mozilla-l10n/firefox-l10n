@@ -30,6 +30,8 @@ search-search-in = Sök i:
 search-bookmarks = Bokmärken
 search-history = Historik
 search-opentabs = Öppna flikar
+search-tags = Taggar
+search-titles = Rubriker
 
 
 
