@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fxa-toolbar-sync-now =
+    .label = Sincronizar ahora
 sync-disconnect-dialog-title = ¿Desconectar { -sync-brand-short-name }?
 sync-disconnect-dialog-body = { -brand-product-name } se va a desconectar de su cuenta, pero no va a borrar ningún dato de navegación de este dispositivo.
 fxa-disconnect-dialog-title = ¿Desconectar { -brand-product-name }?
