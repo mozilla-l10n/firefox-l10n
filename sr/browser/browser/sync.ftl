@@ -4,3 +4,5 @@
 
 fxa-toolbar-sync-now =
     .label = Синхронизуј сада
+fxa-toolbar-sync-syncing-tabs =
+    .label = Синхронизујем језичке…
