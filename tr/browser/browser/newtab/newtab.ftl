@@ -89,6 +89,7 @@ newtab-menu-show-privacy-info = Sponsorlarımız ve gizliliğiniz
 
 newtab-privacy-modal-button-done = Tamam
 newtab-privacy-modal-header = Gizliliğiniz bizim için önemli.
+newtab-privacy-modal-paragraph = İlginizi çekebilecek yazıların yanı sıra seçkin sponsorlarımızdan gelen bazı içerikleri de gösteriyoruz. Gezinti verileriniz asla bilgisayarınızdaki { -brand-product-name }'un dışına çıkmıyor: Hangi sitelere girdiğinizi ne biz görüyoruz ne de sponsorlarımız.
 newtab-privacy-modal-link = Yeni sekmede gizliliğinizi nasıl koruduğumuzu öğrenin
 
 
