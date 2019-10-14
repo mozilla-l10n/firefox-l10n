@@ -11,7 +11,17 @@
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Adreso de bildo:">
-<!ENTITY locationEditField.accessKey "A">
+<!ENTITY locationEditField.accessKey "d">
+<!ENTITY locationEditField.tooltip "Entajpu nomon aŭ dosierindikon de bildo">
+<!ENTITY locationEditField.shortenedDataURI "Mallongigita ligilo de tipo “data” (kiam kopiita, la plena ligilo aperos en la tondujo)">
+<!ENTITY title.label "Etikedo:">
+<!ENTITY title.accessKey "E">
+<!ENTITY title.tooltip "La HTML‑atributo “title”, montriĝos kiel etikedo de bildo">
+<!ENTITY altText.label "Alternativa teksto:">
+<!ENTITY altText.accessKey "A">
+<!ENTITY altTextEditField.tooltip "Entajpu tekston, kiu estos montrata anstataŭ bildo">
+<!ENTITY noAltText.label "Ne montri alternativan tekston">
+<!ENTITY noAltText.accessKey "N">
 
 
 <!-- These controls are in the Dimensions tab panel -->
