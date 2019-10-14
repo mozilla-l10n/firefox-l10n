@@ -32,4 +32,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Bainistigh Gléasanna…
     .accesskey = G
+synced-tabs-context-sync-now =
+    .label = Sioncronaigh Anois
+    .accesskey = S
 fxa-sign-in = Logáil isteach i { -sync-brand-short-name }
