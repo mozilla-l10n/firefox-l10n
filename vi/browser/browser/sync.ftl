@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fxa-toolbar-sync-now =
+    .label = Đồng bộ ngay
+fxa-toolbar-sync-syncing =
+    .label = Đang đồng bộ hóa…
 fxa-toolbar-sync-syncing-tabs =
     .label = Đang đồng bộ các thẻ…
 sync-disconnect-dialog-title = Ngắt kết nối { -sync-brand-short-name }?
