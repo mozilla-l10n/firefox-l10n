@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Nagi'iaj chre' nej aga'a...
     .accesskey = D
+synced-tabs-context-sync-now =
+    .label = Gi'iaj sun nugua'ān ma
+    .accesskey = S
 fxa-sign-in = Gayi'ì' sesión 'ngà { -sync-brand-short-name }
