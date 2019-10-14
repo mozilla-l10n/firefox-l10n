@@ -4,6 +4,8 @@
 
 fxa-toolbar-sync-now =
     .label = დასინქრონება ახლავე
+fxa-toolbar-sync-syncing =
+    .label = სინქრონდება…
 fxa-toolbar-sync-syncing-tabs =
     .label = ჩანართების დასინქრონება…
 sync-disconnect-dialog-title = გაითიშოს { -sync-brand-short-name }?
