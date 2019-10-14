@@ -26,3 +26,15 @@ about-private-browsing-not-private = Şu anda gizli bir pencerede değilsiniz.
 content-blocking-title = İçerik engelleme
 content-blocking-description = Bazı web siteleri, siteler arasında gezindiğinizde sizi izleyebilecek takipçiler kullanır. Gizli penceredeyken { -brand-short-name }’un içerik engelleme özelliği, gezintinizle ilgili bilgi toplayarak takipçilerin çoğunu otomatik olarak engeller.
 about-private-browsing-info-description = { -brand-short-name } uygulamasından çıktığınızda veya tüm Gizli Gezinti sekmelerini ve pencerelerini kapattığınızda arama ve gezinti geçmişiniz temizlenir. Bu işlem, web sitelerinin ve internet servis sağlayıcınızın sizi tanımamasını sağlamaz ama bu bilgisayarı kullanan başkaları varsa internette yaptıklarınızı onlardan gizlemenizi sağlar.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = Gizli pencerelerde varsayılan arama motorunuz { $engineName }
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Farklı bir arama motoru seçmek için <a data-l10n-name="link-options">Seçenekler</a>’e gidebilirsiniz
+       *[other] Farklı bir arama motoru seçmek için <a data-l10n-name="link-options">Tercihler</a>’e gidebilirsiniz
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Kapat

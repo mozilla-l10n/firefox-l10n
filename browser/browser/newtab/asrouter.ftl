@@ -78,6 +78,9 @@ cfr-protections-panel-link-text = Daha fazla bilgi alın
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Yeni özellik:
 cfr-whatsnew-button =
     .label = Yeni neler var?
     .tooltiptext = Yeni neler var?
