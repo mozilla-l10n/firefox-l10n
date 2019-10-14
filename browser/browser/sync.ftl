@@ -4,6 +4,8 @@
 
 fxa-toolbar-sync-now =
     .label = ซิงค์ตอนนี้
+fxa-toolbar-sync-syncing =
+    .label = กำลังซิงค์…
 fxa-toolbar-sync-syncing-tabs =
     .label = กำลังซิงค์แท็บ…
 sync-disconnect-dialog-title = ตัดการเชื่อมต่อ { -sync-brand-short-name }?
