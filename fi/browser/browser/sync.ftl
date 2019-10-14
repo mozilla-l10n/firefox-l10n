@@ -4,6 +4,8 @@
 
 fxa-toolbar-sync-now =
     .label = Synkronoi
+fxa-toolbar-sync-syncing =
+    .label = Synkronoidaan…
 fxa-toolbar-sync-syncing-tabs =
     .label = Synkronoidaan välilehtiä…
 sync-disconnect-dialog-title = Katkaistaanko yhteys { -sync-brand-short-name }-palveluun?
