@@ -19,3 +19,19 @@ open-location = Chwilio neu rhoi cyfeiriad
 share = Rhannu
 close-window = Cau Ffenestr
 open-sidebar = Barrau Ochr
+# This string describes shortcuts for search.
+search-popover = Chwilio llwybrau byr
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Chwilio yn:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = Nodau Tudalen
+search-history = Hanes
+search-opentabs = Tabiau Agored
+search-tags = Tagiau
+search-titles = Teitlau
+
+
+
