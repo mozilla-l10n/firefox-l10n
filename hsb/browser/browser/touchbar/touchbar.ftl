@@ -19,3 +19,19 @@ open-location = Pytać abo adresu zapodać
 share = Dźělić
 close-window = Wokno začinić
 open-sidebar = Bóčnicy
+# This string describes shortcuts for search.
+search-popover = Pytanske skrótšenki
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Pytać w:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = Zapołožki
+search-history = Historija
+search-opentabs = Wočinjene rajtarki
+search-tags = Znački
+search-titles = Titule
+
+
+
