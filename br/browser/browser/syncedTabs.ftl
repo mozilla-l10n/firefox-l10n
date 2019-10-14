@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Ardeiñ an trevnadoù…
     .accesskey = t
+synced-tabs-context-sync-now =
+    .label = Goubredañ bremañ
+    .accesskey = G
 fxa-sign-in = En em gennaskañ ouzh { -sync-brand-short-name }
