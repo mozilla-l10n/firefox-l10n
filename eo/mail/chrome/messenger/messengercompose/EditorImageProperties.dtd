@@ -23,9 +23,16 @@
 <!ENTITY noAltText.label "Ne montri alternativan tekston">
 <!ENTITY noAltText.accessKey "N">
 
+<!ENTITY previewBox.label "Antaŭvido de bildo">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
+<!ENTITY actualSize.label "Originalaj dimensioj:">
+<!ENTITY actualSizeRadio.label "Originalaj dimensioj">
+<!ENTITY actualSizeRadio.accessKey "O">
+<!ENTITY actualSizeRadio.tooltip "Restarigi originalajn dimensiojn de bildo">
+<!ENTITY customSizeRadio.label "Propraj dimensioj">
+<!ENTITY customSizeRadio.accessKey "P">
 
 <!-- These controls are in the Image Map box of the expanded area -->
 
