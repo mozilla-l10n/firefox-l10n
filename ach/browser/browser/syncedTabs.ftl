@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Lor nyonyo…
     .accesskey = o
+synced-tabs-context-sync-now =
+    .label = Rib Kombedi
+    .accesskey = R
 fxa-sign-in = Dony iyie { -sync-brand-short-name }
