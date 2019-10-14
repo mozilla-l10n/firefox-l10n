@@ -305,6 +305,8 @@ addon-options-button =
 
 report-addon-button = Şikâyet et
 remove-addon-button = Kaldır
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Kaldırılamıyor <a data-l10n-name="link">Neden?</a>
 disable-addon-button = Etkisizleştir
 enable-addon-button = Etkinleştir
 expand-addon-button = Diğer seçenekler

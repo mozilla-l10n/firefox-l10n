@@ -944,6 +944,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Takip amaçlı içerikler">
 <!ENTITY protections.fingerprinters.label "Parmak izi toplayıcılar">
 <!ENTITY protections.cryptominers.label "Kripto madencileri">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Korumalar kapalı olduğu için bu sitedeki tüm takipçiler yüklendi.">
 <!ENTITY protections.noTrackersFound.description "Bu sayfada &brandShortName; tarayıcısının tanıdığı bir takipçi tespit edilmedi.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Bu çerezler, internette yaptığınız şeyler hakkında veri toplamak için sizi siteden siteye takip eder. Reklam verenler ve analiz şirketleri gibi üçüncü taraflar tarafından yerleştirilirler.">
