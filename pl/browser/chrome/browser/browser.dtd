@@ -945,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Treści z elementami śledzącymi">
 <!ENTITY protections.fingerprinters.label "Elementy śledzące przez zbieranie informacji o konfiguracji">
 <!ENTITY protections.cryptominers.label "Elementy używające urządzenia użytkownika do generowania kryptowalut">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Wszystkie elementy śledzące na tej stronie zostały wczytane, ponieważ ochrona jest wyłączona.">
 <!ENTITY protections.noTrackersFound.description "&brandShortName; nie wykrył na tej stronie znanych elementów śledzących.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Te ciasteczka śledzą Cię od strony do strony w celu zbierania danych o tym, co robisz w Internecie. Są umieszczane przez zewnętrzne firmy, takie jak agencje reklamowe i firmy analityczne.">

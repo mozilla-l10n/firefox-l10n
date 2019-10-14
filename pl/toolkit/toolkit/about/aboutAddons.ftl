@@ -92,7 +92,7 @@ detail-update-manual =
     .label = wyłączone
     .tooltiptext = Nie instaluj aktualizacji automatycznie
 # Used as a description for the option to allow or block an add-on in private windows.
-detail-private-browsing-label = Działanie w oknach prywatnych
+detail-private-browsing-label = Działanie w oknach prywatnych:
 detail-private-browsing-description2 = Zezwolenie spowoduje, że rozszerzenie będzie miało dostęp do działań użytkownika w Internecie podczas przeglądania w trybie prywatnym. <label data-l10n-name="detail-private-browsing-learn-more">Więcej informacji</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
@@ -377,11 +377,11 @@ install-update-button = Uaktualnij
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
-    .title = Dozwolone w oknach prywatnych:
+    .title = Dozwolone w oknach prywatnych
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = Dozwolone w oknach prywatnych:
+    .title = Dozwolone w oknach prywatnych
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Zezwolenie spowoduje, że rozszerzenie będzie miało dostęp do działań użytkownika w Internecie podczas przeglądania w trybie prywatnym. <a data-l10n-name="learn-more">Więcej informacji</a>
 addon-detail-private-browsing-allow = zezwalaj

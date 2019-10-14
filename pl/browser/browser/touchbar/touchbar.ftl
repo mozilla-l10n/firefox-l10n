@@ -19,3 +19,19 @@ open-location = Wprowadź adres lub szukaj
 share = Udostępnij
 close-window = Zamknij okno
 open-sidebar = Panele boczne
+# This string describes shortcuts for search.
+search-popover = Skróty wyszukiwania
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Szukaj w:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = zakładkach
+search-history = historii
+search-opentabs = otwartych kartach
+search-tags = etykietach
+search-titles = tytułach
+
+
+
