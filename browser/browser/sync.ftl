@@ -4,4 +4,8 @@
 
 fxa-toolbar-sync-now =
     .label = Jetzt synchronisieren
+fxa-toolbar-sync-syncing =
+    .label = Wird synchronisiert…
+fxa-toolbar-sync-syncing-tabs =
+    .label = Tabs werden synchronisiert…
 sync-disconnect-dialog-body = { -brand-product-name } beendet die Synchronisation mit Ihrem Konto, löscht aber keine Surf-Daten auf diesem Gerät.
