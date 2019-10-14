@@ -4,6 +4,8 @@
 
 fxa-toolbar-sync-now =
     .label = 동기화하기
+fxa-toolbar-sync-syncing =
+    .label = 동기화 중…
 fxa-toolbar-sync-syncing-tabs =
     .label = 탭 동기화중…
 sync-disconnect-dialog-title = { -sync-brand-short-name } 연결을 끊으시겠습니까?
