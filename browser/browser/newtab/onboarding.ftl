@@ -113,6 +113,7 @@ onboarding-data-sync-text2 = Sincronize favoritos, senhas e outras coisas em tod
 onboarding-data-sync-button2 = Entre no { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Fique atento a vazamentos de dados
 onboarding-firefox-monitor-text = O { -monitor-brand-name } verifica se seu e-mail apareceu em um vazamento de dados e manda um alerta para você caso apareça em um novo vazamento.
+onboarding-firefox-monitor-text2 = O { -monitor-brand-name } verifica se seu e-mail apareceu em um vazamento de dados conhecido e envia um alerta caso apareça em um novo vazamento.
 onboarding-firefox-monitor-button = Cadastre-se para receber alertas
 onboarding-browse-privately-title = Navegue com privacidade
 onboarding-browse-privately-text = A navegação privativa limpa seu histórico de pesquisa e navegação para manter em segredo de qualquer um que use o computador.
