@@ -21,8 +21,8 @@ onboarding-button-label-get-started = Cychwyn Arni
 onboarding-welcome-header = Croeso i { -brand-short-name }
 onboarding-welcome-body = Mae'r porwr gyda chi. <br/> Dyma weddill { -brand-product-name }.
 onboarding-welcome-learn-more = Dysgu rhagor am y buddiannau.
-onboarding-welcome-modal-get-body = Mae gennych y porwr. <br/>Nawr, manteisiwch i'r eithaf ar { -brand-product-name }.
-onboarding-welcome-modal-supercharge-body = Grymuswch eich diogelwch preifatrwydd.
+onboarding-welcome-modal-get-body = Mae'r porwr gennych. <br/>Nawr, manteisiwch i'r eithaf ar { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Cryfhewch eich diogelwch preifatrwydd.
 onboarding-welcome-modal-privacy-body = Mae'r porwr gennych chi. Gadewch i ni ychwanegu mwy o ddiogelwch preifatrwydd.
 onboarding-welcome-modal-family-learn-more = Dysgu am deulu cynnyrch { -brand-product-name }.
 onboarding-welcome-form-header = Cychwynnwch Yma
@@ -34,7 +34,7 @@ onboarding-join-form-email-error = Mae angen e-bost dilys
 onboarding-join-form-legal = Drwy barhau, rydych yn cytuno i'r <a data-l10n-name="terms">>Amodau Gwasanaeth</a> a'r <a data-l10n-name="privacy">Hysbysiad Preifatrwydd</a>.
 onboarding-join-form-continue = Parhau
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
-onboarding-join-form-signin-label = Oes gennych chi gyfrif y barod?
+onboarding-join-form-signin-label = A oes gennych chi gyfrif y barod?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Mewngofnodi
 onboarding-start-browsing-button-label = Cychwyn Pori
