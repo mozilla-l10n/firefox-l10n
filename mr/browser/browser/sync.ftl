@@ -4,5 +4,7 @@
 
 fxa-toolbar-sync-now =
     .label = आत्ता सिंक करा
+fxa-toolbar-sync-syncing =
+    .label = सिंक करत आहे…
 fxa-toolbar-sync-syncing-tabs =
     .label = टॅबचे ताळमेळ करत आहे…
