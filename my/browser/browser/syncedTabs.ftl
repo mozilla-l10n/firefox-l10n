@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = ကိရိယာများကို စီမံရန်…
     .accesskey = D
+synced-tabs-context-sync-now =
+    .label = ယခုပင် Sync ကို အသုံးပြုပါ
+    .accesskey = S
 fxa-sign-in = { -sync-brand-short-name } သို့ လက်မှတ်ထိုးဝင်ပါ
