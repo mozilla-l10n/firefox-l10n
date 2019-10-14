@@ -4,6 +4,8 @@
 
 fxa-toolbar-sync-now =
     .label = Sinkroniziraj sada
+fxa-toolbar-sync-syncing =
+    .label = Sinkroniziranje…
 sync-disconnect-dialog-title = Odspojiti { -sync-brand-short-name }?
 sync-disconnect-dialog-body = { -brand-product-name } će prestati sinkronizirati tvoj račun, ali neće izbrisati podatke o tvom pregledavanju na ovom uređaju.
 fxa-disconnect-dialog-title = Odspojiti { -brand-product-name }?
