@@ -4,3 +4,7 @@
 
 fxa-toolbar-sync-now =
     .label = Sincronizar agora
+fxa-toolbar-sync-syncing =
+    .label = A sincronizar…
+fxa-toolbar-sync-syncing-tabs =
+    .label = A sincronizar separadores…
