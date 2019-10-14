@@ -188,6 +188,7 @@ language-name-tlh = คลิงงอน
 language-name-tn = สวานา
 language-name-to = ตองกา
 language-name-tr = ตุรกี
+language-name-trs = ทริคี
 language-name-ts = ซองกา
 language-name-tt = ตาตาร์
 language-name-tw = ทวิ
