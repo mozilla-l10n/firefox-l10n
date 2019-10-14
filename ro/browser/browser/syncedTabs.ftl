@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Gestionează dispozitivele…
     .accesskey = D
+synced-tabs-context-sync-now =
+    .label = Sincronizează acum
+    .accesskey = S
 fxa-sign-in = Autentifică-te în { -sync-brand-short-name }
