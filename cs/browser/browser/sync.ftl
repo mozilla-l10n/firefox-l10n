@@ -4,3 +4,7 @@
 
 fxa-toolbar-sync-now =
     .label = Synchronizovat
+fxa-toolbar-sync-syncing =
+    .label = Probíhá synchronizace…
+fxa-toolbar-sync-syncing-tabs =
+    .label = Probíhá synchronizace panelů…
