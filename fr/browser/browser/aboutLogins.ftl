@@ -70,6 +70,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = Vous recherchez vos identifiants enregistrés ? Configurez { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = Aucun identifiant synchronisé trouvé.
 login-intro-description = Si vous avez enregistré vos identifiants dans { -brand-product-name } sur un autre appareil, voici comment y accéder ici :
 login-intro-instruction-fxa = Connectez-vous ou créez un { -fxaccount-brand-name } sur l’appareil où vos identifiants sont enregistrés.
 login-intro-instruction-fxa-settings = Assurez-vous d’avoir coché la case Identifiants dans les paramètres de { -sync-brand-short-name }.

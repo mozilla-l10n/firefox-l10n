@@ -33,10 +33,20 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Adresse électronique valide requise
 onboarding-join-form-legal = En continuant, vous acceptez nos <a data-l10n-name="terms">Conditions d’utilisation</a> et notre <a data-l10n-name="privacy">Politique de confidentialité</a>.
 onboarding-join-form-continue = Continuer
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Vous possédez déjà un compte ?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Connectez-vous
 onboarding-start-browsing-button-label = Commencer la navigation
 onboarding-cards-dismiss =
     .title = Retirer
     .aria-label = Retirer
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Découvrons tout ce que vous pouvez faire.
+onboarding-fullpage-form-email =
+    .placeholder = Votre adresse électronique…
 
 ## Firefox Sync modal dialog strings.
 
@@ -103,6 +113,7 @@ onboarding-data-sync-text2 = Synchronisez marque-pages, mots de passe, etc., par
 onboarding-data-sync-button2 = Se connecter à { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Suivez de près les fuites de données
 onboarding-firefox-monitor-text = { -monitor-brand-name } vérifie si votre adresse électronique fait partie d’une fuite de données et vous alerte si elle apparaît dans une nouvelle fuite de données.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } vérifie si votre adresse électronique fait partie d’une fuite de données connue et vous alerte si elle apparaît dans une nouvelle fuite de données.
 onboarding-firefox-monitor-button = S’abonner aux alertes
 onboarding-browse-privately-title = Naviguez en toute confidentialité
 onboarding-browse-privately-text = La navigation privée efface vos historiques de navigation et de recherches pour que les autres utilisateurs de votre ordinateur n’en sachent rien.
