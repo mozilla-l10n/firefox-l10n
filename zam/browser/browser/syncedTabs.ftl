@@ -9,4 +9,7 @@ synced-tabs-context-bookmark-single-tab =
 synced-tabs-context-copy =
     .label = Lí Chopa
     .accesskey = C
+synced-tabs-context-sync-now =
+    .label = Sincronizar ahora
+    .accesskey = S
 fxa-sign-in = -taɁ lélù { -sync-brand-short-name }
