@@ -2,8 +2,5 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-synced-tabs-sidebar-unverified = Äre Benotzerkont muss iwwerpréift ginn.
-synced-tabs-context-sync-now =
+fxa-toolbar-sync-now =
     .label = Elo synchroniséieren
-    .accesskey = S
-fxa-sign-in = Bei { -sync-brand-short-name } umellen
