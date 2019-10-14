@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Sýsla með tæki…
     .accesskey = t
+synced-tabs-context-sync-now =
+    .label = Samstilla núna
+    .accesskey = S
 fxa-sign-in = Skráðu þig inn í { -sync-brand-short-name }
