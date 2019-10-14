@@ -4,5 +4,7 @@
 
 fxa-toolbar-sync-now =
     .label = Синхронизировать
+fxa-toolbar-sync-syncing =
+    .label = Синхронизация…
 fxa-toolbar-sync-syncing-tabs =
     .label = Синхронизация вкладок…
