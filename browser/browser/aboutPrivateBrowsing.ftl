@@ -26,3 +26,15 @@ about-private-browsing-not-private = Jelenleg nem privát ablakot használ.
 content-blocking-title = Tartalomblokkolás
 content-blocking-description = Néhány weboldala követőket használ, hogy kövesse a tevékenységét az interneten. A privát ablakokban a { -brand-short-name } tartalomblokkolás automatikusan blokkol számos követőt, melyek információkat gyűjtenek a böngészési tevékenységéről.
 about-private-browsing-info-description = A { -brand-short-name } törli a keresési és böngészési előzményeit, ha kilép az alkalmazásból, vagy bezárja az összes privát böngészi lapot és ablakot. Ugyan ez nem teszi névtelenné a weboldalak vagy a szolgáltatója felé, könnyebbé teszi, hogy bizalmasan kezelje az online tevékenységét, és más ne tudjon róla, aki ezt a számítógépet használja.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = A(z) { $engineName } az alapértelmezett keresőszolgáltatás a privát ablakokban
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Másik keresőszolgáltatás kiválasztásához ugorjon a <a data-l10n-name="link-options">Beállításokhoz</a>
+       *[other] Másik keresőszolgáltatás kiválasztásához ugorjon a <a data-l10n-name="link-options">Beállításokhoz</a>
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Bezárás
