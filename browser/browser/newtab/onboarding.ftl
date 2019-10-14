@@ -33,10 +33,17 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = 請輸入有效的電子郵件信箱
 onboarding-join-form-legal = 繼續使用，代表您同意我們的<a data-l10n-name="terms">使用條款</a>及<a data-l10n-name="privacy">隱私權公告</a>。
 onboarding-join-form-continue = 繼續
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = 已經有帳號了嗎？
+# Text for link to submit the sign in form
+onboarding-join-form-signin = 登入
 onboarding-start-browsing-button-label = 開始瀏覽
 onboarding-cards-dismiss =
     .title = 隱藏
     .aria-label = 隱藏
+
+## Welcome full page string
+
 
 ## Firefox Sync modal dialog strings.
 

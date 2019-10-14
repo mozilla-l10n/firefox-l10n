@@ -19,3 +19,19 @@ open-location = 搜尋或輸入網址
 share = 分享
 close-window = 關閉視窗
 open-sidebar = 側邊欄
+# This string describes shortcuts for search.
+search-popover = 搜尋快速鍵
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = 搜尋下列項目:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = 書籤
+search-history = 瀏覽紀錄
+search-opentabs = 開啟的分頁
+search-tags = 標籤
+search-titles = 標題
+
+
+
