@@ -945,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "追蹤用內容">
 <!ENTITY protections.fingerprinters.label "數位指紋追蹤程式">
 <!ENTITY protections.cryptominers.label "加密貨幣採礦程式">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "由於關閉了追蹤保護功能，已放行本網站中的所有追蹤器。">
 <!ENTITY protections.noTrackersFound.description "&brandShortName; 未在此頁面偵測到已知的追蹤器。">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "一些第三方廣告商或分析公司，會設定這些 Cookie 在不同網站間跟蹤您，收集您的上網紀錄。">

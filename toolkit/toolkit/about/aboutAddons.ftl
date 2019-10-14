@@ -301,6 +301,8 @@ addon-options-button =
 
 report-addon-button = 回報
 remove-addon-button = 移除
+# The link will always be shown after the other text.
+remove-addon-disabled-button = 無法移除，<a data-l10n-name="link">為什麼？</a>
 disable-addon-button = 停用
 enable-addon-button = 啟用
 expand-addon-button = 更多選項

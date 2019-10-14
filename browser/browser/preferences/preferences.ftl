@@ -270,6 +270,10 @@ applications-type-pdf-with-type = { applications-type-pdf }（{ $type }）
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description }（{ $type }）
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending }（{ $type }）
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = 使用 { $plugin-name } (在 { -brand-short-name } 開啟)
@@ -508,6 +512,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = 在網址列顯示的結果中，將搜尋建議放在瀏覽紀錄前面
+search-show-suggestions-private-windows =
+    .label = 於隱私瀏覽視窗中顯示搜尋建議
 suggestions-addressbar-settings = 更改上網紀錄、書籤、分頁建議的相關偏好設定
 search-suggestions-cant-show = 由於您已經設定 { -brand-short-name } 不要記住瀏覽紀錄，網址列中將不會顯示建議搜尋結果。
 search-one-click-header = 快捷搜尋引擎清單
