@@ -4,3 +4,5 @@
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ara
+fxa-toolbar-sync-syncing-tabs =
+    .label = Sincronizacion dels onglets…
