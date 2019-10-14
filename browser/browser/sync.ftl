@@ -4,6 +4,8 @@
 
 fxa-toolbar-sync-now =
     .label = 立即同步
+fxa-toolbar-sync-syncing =
+    .label = 正在同步…
 sync-disconnect-dialog-title = 断开{ -sync-brand-short-name }？
 sync-disconnect-dialog-body = { -brand-product-name } 将停止与您账号的同步，但不会删除此设备上的任何浏览数据。
 fxa-disconnect-dialog-title = 解绑 { -brand-product-name }？
