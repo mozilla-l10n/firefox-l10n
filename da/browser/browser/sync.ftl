@@ -4,3 +4,7 @@
 
 fxa-toolbar-sync-now =
     .label = Synkroniser nu
+fxa-toolbar-sync-syncing =
+    .label = Synkroniserer…
+fxa-toolbar-sync-syncing-tabs =
+    .label = Synkroniserer faneblade…
