@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = Empêcher { -brand-short-name } d’exécuter des
 policy-DisableForgetButton = Empêcher l’accès au bouton d’effacement des données.
 policy-DisableFormHistory = Désactiver la conservation de l’historique des recherches et des formulaires.
 policy-DisableMasterPasswordCreation = Si activé, il sera impossible de créer un mot de passe principal.
+policy-DisablePasswordReveal = Ne pas permettre de révéler les mots de passe dans les identifiants enregistrés.
 policy-DisablePocket = Désactiver la fonctionnalité d’enregistrement de pages web dans Pocket.
 policy-DisablePrivateBrowsing = Désactiver la navigation privée.
 policy-DisableProfileImport = Désactiver la commande de menu permettant d’importer des données à partir d’un autre navigateur.
@@ -61,6 +62,7 @@ policy-HardwareAcceleration = Si faux, désactive l’accélération matérielle
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Définir la page d’accueil et permettre de la verrouiller.
 policy-InstallAddonsPermission = Autoriser certains sites web à installer des extensions.
+policy-LegacyProfiles = Désactiver la fonctionnalité qui impose l’utilisation d’un profil distinct pour chaque installation.
 policy-LocalFileLinks = Autoriser des sites précis à utiliser des liens vers des fichiers locaux.
 policy-NetworkPrediction = Permettre ou interdire la prédiction réseau (prélecture DNS).
 policy-NewTabPage = Activer ou désactiver la page de nouvel onglet.
