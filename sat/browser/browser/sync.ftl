@@ -2,7 +2,5 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-synced-tabs-context-sync-now =
+fxa-toolbar-sync-now =
     .label = नित् मित् ओकतो (S)
-    .accesskey = S
-fxa-sign-in = { -sync-brand-short-name }रे साइन  रे.
