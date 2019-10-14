@@ -4,6 +4,8 @@
 
 fxa-toolbar-sync-now =
     .label = Tixim Wakami
+fxa-toolbar-sync-syncing =
+    .label = Nixim…
 fxa-toolbar-sync-syncing-tabs =
     .label = Tajin Yexim ri Taq Ruwi'…
 sync-disconnect-dialog-title = ¿La nichup ri { -sync-brand-short-name }?
