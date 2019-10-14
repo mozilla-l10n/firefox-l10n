@@ -310,6 +310,8 @@ addon-options-button =
 
 report-addon-button = Adrodd
 remove-addon-button = Tynnu
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Methu ei Dynnu <a data-l10n-name="link"> Pam? </a>
 disable-addon-button = Analluogu
 enable-addon-button = Galluogi
 expand-addon-button = Rhagor o Opsiynau
