@@ -528,6 +528,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = הצגת הצעות חיפוש לפני היסטוריית הגלישה בתוצאות שורת הכתובת
+search-show-suggestions-private-windows =
+    .label = הצגת הצעות חיפוש בחלונות פרטיים
 suggestions-addressbar-settings = שינוי העדפות עבור היסטוריית גלישה, סימניות והצעות לשוניות
 search-suggestions-cant-show = הצעות חיפוש לא יופיעו בתוצאות סרגל המיקום מכיוון שהגדרת ש־{ -brand-short-name } לעולם לא לזכור היסטוריה.
 search-one-click-header = מנועי חיפוש בלחיצה אחת
