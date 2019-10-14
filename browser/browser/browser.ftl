@@ -85,4 +85,4 @@ search-one-offs-context-set-as-default =
     .accesskey = U
 search-one-offs-context-set-as-default-private =
     .label = Ustaw jako domyślną wyszukiwarkę w prywatnych oknach
-    .accesskey = s
+    .accesskey = w
