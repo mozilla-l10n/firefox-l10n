@@ -4,3 +4,5 @@
 
 fxa-toolbar-sync-now =
     .label = ಈಗಲೆ ಸಿಂಕ್ ಮಾಡು
+fxa-toolbar-sync-syncing-tabs =
+    .label = ಹಾಳೆಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಲಾಗುತ್ತಿದೆ…
