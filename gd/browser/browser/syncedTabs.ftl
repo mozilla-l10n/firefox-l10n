@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Stiùirich na h-uidheaman…
     .accesskey = d
+synced-tabs-context-sync-now =
+    .label = Sioncronaich an-dràsta
+    .accesskey = S
 fxa-sign-in = Clàraich a-steach gu { -sync-brand-short-name }
