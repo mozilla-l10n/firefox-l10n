@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fxa-toolbar-sync-now =
+    .label = Synka nu
 sync-disconnect-dialog-title = Koppla ner { -sync-brand-short-name }?
 sync-disconnect-dialog-body = { -brand-product-name } kommer att sluta synkronisera ditt konto men tar inte bort någon av dina surfdata på den här enheten.
 fxa-disconnect-dialog-title = Koppla ner { -brand-product-name }?
