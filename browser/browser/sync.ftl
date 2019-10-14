@@ -4,3 +4,7 @@
 
 fxa-toolbar-sync-now =
     .label = Sinkronizatu orain
+fxa-toolbar-sync-syncing =
+    .label = Sinkronizatzen…
+fxa-toolbar-sync-syncing-tabs =
+    .label = Fitxak sinkronizatzen…
