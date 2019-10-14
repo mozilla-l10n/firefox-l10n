@@ -19,3 +19,19 @@ open-location = Rechercher ou saisir une adresse
 share = Partager
 close-window = Fermer la fenêtre
 open-sidebar = Panneaux latéraux
+# This string describes shortcuts for search.
+search-popover = Raccourcis pour la recherche
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Rechercher dans :
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = Marque-pages
+search-history = Historique
+search-opentabs = Onglets ouverts
+search-tags = Étiquettes
+search-titles = Titres
+
+
+

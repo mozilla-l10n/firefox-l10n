@@ -98,6 +98,10 @@ manifest-json-link-data-url = Le manifeste est intégré dans une URL data.
 manifest-icon-img =
     .alt = Icône
 # Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = Icône avec tailles : { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
 # manifest, in case there's no icon size specified by the user
 manifest-icon-img-title-no-sizes = Icône de taille non spécifiée
 # Sidebar navigation item for Manifest sidebar item section
