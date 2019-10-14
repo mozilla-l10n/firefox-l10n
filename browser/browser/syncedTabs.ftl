@@ -32,4 +32,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Bestuur toestelle…
     .accesskey = t
+synced-tabs-context-sync-now =
+    .label = Sinkroniseer nou
+    .accesskey = S
 fxa-sign-in = Meld aan by { -sync-brand-short-name }
