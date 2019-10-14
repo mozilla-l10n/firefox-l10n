@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Cihazları İdarə et…
     .accesskey = D
+synced-tabs-context-sync-now =
+    .label = İndi Sinxronizə et
+    .accesskey = S
 fxa-sign-in = { -sync-brand-short-name } daxil ol
