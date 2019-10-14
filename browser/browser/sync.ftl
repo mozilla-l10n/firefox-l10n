@@ -4,3 +4,5 @@
 
 fxa-toolbar-sync-now =
     .label = இப்போது ஒத்திசை
+fxa-toolbar-sync-syncing-tabs =
+    .label = ஒத்திசைத்த கீற்றுகள்…
