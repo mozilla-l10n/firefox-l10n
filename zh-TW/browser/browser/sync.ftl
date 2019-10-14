@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fxa-toolbar-sync-now =
+    .label = 立刻同步
 sync-disconnect-dialog-title = 要取消連線到 { -sync-brand-short-name } 嗎？
 sync-disconnect-dialog-body = { -brand-product-name } 將停止同步您的帳號，但不會刪除此裝置中的任何瀏覽資料。
 fxa-disconnect-dialog-title = 要取消連線到 { -brand-product-name } 嗎？
