@@ -82,6 +82,9 @@ cfr-protections-panel-link-text = Dalšne informacije
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Nowa funkcija:
 cfr-whatsnew-button =
     .label = Nowe funkcije a změny
     .tooltiptext = Nowe funkcije a změny
