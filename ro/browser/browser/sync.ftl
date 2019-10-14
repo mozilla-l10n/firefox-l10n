@@ -4,5 +4,7 @@
 
 fxa-toolbar-sync-now =
     .label = Sincronizează acum
+fxa-toolbar-sync-syncing =
+    .label = Se sincronizează…
 fxa-toolbar-sync-syncing-tabs =
     .label = Se sincronizează filele…
