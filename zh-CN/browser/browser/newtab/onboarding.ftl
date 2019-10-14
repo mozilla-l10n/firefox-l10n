@@ -33,10 +33,20 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = 需要有效的电子邮件地址
 onboarding-join-form-legal = 若继续，即表示您同意我们的<a data-l10n-name="terms">服务条款</a>和<a data-l10n-name="privacy">隐私声明</a>。
 onboarding-join-form-continue = 继续
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = 已有账户？
+# Text for link to submit the sign in form
+onboarding-join-form-signin = 登录
 onboarding-start-browsing-button-label = 开始上网冲浪
 onboarding-cards-dismiss =
     .title = 隐藏
     .aria-label = 隐藏
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = 让我们开始探索您能做的一切。
+onboarding-fullpage-form-email =
+    .placeholder = 你的电子邮件地址…
 
 ## Firefox Sync modal dialog strings.
 
@@ -103,6 +113,7 @@ onboarding-data-sync-text2 = 在任何使用 { -brand-product-name } 的地方�
 onboarding-data-sync-button2 = 登录{ -sync-brand-short-name }服务
 onboarding-firefox-monitor-title = 警惕数据外泄
 onboarding-firefox-monitor-text = { -monitor-brand-name } 会监控您的电子邮件地址是否出现在数据外泄事件中，并在有新外泄事件时通知您。
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } 会监控您的电子邮件地址是否出现在已知数据外泄事件中，并在有新外泄事件时通知您。
 onboarding-firefox-monitor-button = 订阅警报
 onboarding-browse-privately-title = 私密浏览
 onboarding-browse-privately-text = 隐私浏览会自动清除您的搜索与上网记录，让使用此计算机的其他人无法得知您在网上的活动。
