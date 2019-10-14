@@ -4,5 +4,7 @@
 
 fxa-toolbar-sync-now =
     .label = { " " }अब तुल्यकालित करें
+fxa-toolbar-sync-syncing =
+    .label = सिंक हो रहा है…
 fxa-toolbar-sync-syncing-tabs =
     .label = टैब्ज़ समक्रमिकरण…
