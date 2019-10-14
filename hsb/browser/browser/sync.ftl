@@ -4,6 +4,10 @@
 
 fxa-toolbar-sync-now =
     .label = Nětko synchronizować
+fxa-toolbar-sync-syncing =
+    .label = Synchronizuje so…
+fxa-toolbar-sync-syncing-tabs =
+    .label = Rajtarki so synchronizuja…
 sync-disconnect-dialog-title = Zwisk z { -sync-brand-short-name } dźělić?
 sync-disconnect-dialog-body = { -brand-product-name } přestanje waše konto synchronizować, ale njezhaša přehladowanske daty na tutym graće.
 fxa-disconnect-dialog-title = Zwisk z { -brand-product-name } dźělić?
