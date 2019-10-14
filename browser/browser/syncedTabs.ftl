@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Pārvaldīt ierīces…
     .accesskey = D
+synced-tabs-context-sync-now =
+    .label = Sinhronizēt
+    .accesskey = S
 fxa-sign-in = Pierakstīties { -sync-brand-short-name }
