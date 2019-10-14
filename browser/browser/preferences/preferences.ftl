@@ -532,6 +532,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Podpowiedzi wyszukiwania nad historią przeglądania w wynikach paska adresu
+search-show-suggestions-private-windows =
+    .label = Podpowiedzi wyszukiwania w prywatnych oknach
 suggestions-addressbar-settings = Zmień ustawienia podpowiedzi z historii przeglądania, zakładek i kart
 search-suggestions-cant-show = Podpowiedzi wyszukiwania nie będą wyświetlane w wynikach paska adresu, ponieważ wyłączono zachowywanie historii przeglądania programu { -brand-short-name }.
 search-one-click-header = Dodatkowe wyszukiwarki

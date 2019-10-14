@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Ustaw jako domyślną wyszukiwarkę
     .accesskey = U
+search-one-offs-context-set-as-default-private =
+    .label = Ustaw jako domyślną wyszukiwarkę w prywatnych oknach
+    .accesskey = s

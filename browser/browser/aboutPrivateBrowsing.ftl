@@ -26,3 +26,15 @@ about-private-browsing-not-private = Okno bez aktywnego trybu prywatnego.
 content-blocking-title = Blokowanie treści
 content-blocking-description = Niektóre strony używają elementów mogących śledzić aktywność użytkownika w Internecie. W oknach przeglądania prywatnego { -brand-short-name } automatycznie zablokuje wiele z elementów mogących zbierać informacje o przeglądaniu.
 about-private-browsing-info-description = { -brand-short-name } czyści historię wyszukiwania i przeglądania po wyłączeniu programu lub zamknięciu wszystkich kart i okien w trybie przeglądania prywatnego. Chociaż nie czyni to użytkownika anonimowym wobec stron internetowych ani dostawcy Internetu, to ułatwia zachowanie prywatności przed pozostałymi użytkownikami komputera.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } to domyślna wyszukiwarka w prywatnych oknach
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] W <a data-l10n-name="link-options">opcjach</a> można wybrać inną wyszukiwarkę
+       *[other] W <a data-l10n-name="link-options">preferencjach</a> można wybrać inną wyszukiwarkę
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Zamknij
