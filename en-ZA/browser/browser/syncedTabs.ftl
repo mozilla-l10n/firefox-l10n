@@ -26,4 +26,7 @@ synced-tabs-context-bookmark-single-tab =
 synced-tabs-context-copy =
     .label = Copy
     .accesskey = C
+synced-tabs-context-sync-now =
+    .label = Sync Now
+    .accesskey = S
 fxa-sign-in = Sign in to { -sync-brand-short-name }
