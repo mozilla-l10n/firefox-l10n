@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Cihazlarnı İdare Et…
     .accesskey = C
+synced-tabs-context-sync-now =
+    .label = Şimdi Aynılaştır
+    .accesskey = A
 fxa-sign-in = { -sync-brand-short-name } oturımı aç
