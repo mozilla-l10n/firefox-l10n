@@ -4,6 +4,8 @@
 
 fxa-toolbar-sync-now =
     .label = Sincronisar ussa
+fxa-toolbar-sync-syncing-tabs =
+    .label = Sincronisar ils tabs…
 sync-disconnect-dialog-title = Deconnectar da { -sync-brand-short-name }?
 sync-disconnect-dialog-body = { -brand-product-name } chala da sincronisar tes conto, ma naginas da las datas da navigaziun na vegnan stizzadas da quest apparat.
 fxa-disconnect-dialog-title = Deconnectar da { -brand-product-name }?
