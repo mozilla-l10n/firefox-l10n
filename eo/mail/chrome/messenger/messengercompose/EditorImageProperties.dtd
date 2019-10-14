@@ -68,5 +68,12 @@
 <!ENTITY showImageLinkBorder.label "Montri borderon ĉirkaŭ bildo kaj ligilo">
 <!ENTITY showImageLinkBorder.accessKey "B">
 <!ENTITY LinkAdvancedEditButton.label "Spertula redakto de ligilo…">
+<!ENTITY LinkAdvancedEditButton.accessKey "S">
+<!ENTITY LinkAdvancedEditButton.tooltip "Aldoni aŭ modifi atributojn HTML, de stiloj kaj de ĝavoskripto">
 
 <!-- These tabs are currently used in the image input dialog -->
+<!ENTITY imageInputTab.label "Formularo">
+<!ENTITY imageLocationTab.label "Adreso">
+<!ENTITY imageDimensionsTab.label "Dimensioj">
+<!ENTITY imageAppearanceTab.label "Aspekto">
+<!ENTITY imageLinkTab.label "Ligilo">
