@@ -4,6 +4,8 @@
 
 fxa-toolbar-sync-now =
     .label = Synka nu
+fxa-toolbar-sync-syncing =
+    .label = Synkroniserar…
 fxa-toolbar-sync-syncing-tabs =
     .label = Synkar flikar…
 sync-disconnect-dialog-title = Koppla ner { -sync-brand-short-name }?
