@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-toolbar-sync-now =
-    .label = { " " }अब तुल्यकालित करें
+    .label = अब तुल्यकालित करें
 fxa-toolbar-sync-syncing =
     .label = सिंक हो रहा है…
 fxa-toolbar-sync-syncing-tabs =
