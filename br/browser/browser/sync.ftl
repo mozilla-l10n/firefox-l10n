@@ -4,3 +4,7 @@
 
 fxa-toolbar-sync-now =
     .label = Goubredañ bremañ
+fxa-toolbar-sync-syncing =
+    .label = O c'houbredañ...
+fxa-toolbar-sync-syncing-tabs =
+    .label = O goubredañ ivinelloù…
