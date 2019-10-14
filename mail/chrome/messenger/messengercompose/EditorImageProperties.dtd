@@ -48,9 +48,25 @@
 <!ENTITY removeImageMapButton.accessKey "F">
 
 <!-- These are the options for image alignment -->
+<!ENTITY alignment.label "Ĝisrandigi tekston al bildo">
+<!ENTITY bottomPopup.value "Sube">
+<!ENTITY topPopup.value "Supre">
+<!ENTITY centerPopup.value "Centre">
+<!ENTITY wrapRightPopup.value "Faldi al dekstro">
+<!ENTITY wrapLeftPopup.value "Faldi al maldekstro">
 
 <!-- These controls are in the Spacing Box -->
+<!ENTITY spacingBox.label "Marĝenoj">
+<!ENTITY leftRightEditField.label "Dekstra kaj maldekstra:">
+<!ENTITY leftRightEditField.accessKey "D">
+<!ENTITY topBottomEditField.label "Supra kaj malsupra:">
+<!ENTITY topBottomEditField.accessKey "S">
+<!ENTITY borderEditField.label "Larĝo de bordero:">
+<!ENTITY borderEditField.accessKey "b">
 
 <!-- These controls are in the Link Box -->
+<!ENTITY showImageLinkBorder.label "Montri borderon ĉirkaŭ bildo kaj ligilo">
+<!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY LinkAdvancedEditButton.label "Spertula redakto de ligilo…">
 
 <!-- These tabs are currently used in the image input dialog -->
