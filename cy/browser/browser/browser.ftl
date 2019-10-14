@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Gosod fel y Peiriant Chwilio Rhagosodedig
     .accesskey = R
+search-one-offs-context-set-as-default-private =
+    .label = Gosod fel y Peiriant Chwilio Rhagosodedig ar gyfer Windows Preifat
+    .accesskey = G

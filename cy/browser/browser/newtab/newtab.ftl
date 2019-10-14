@@ -83,6 +83,21 @@ newtab-menu-delete-history = Dileu o'r Hanes
 newtab-menu-save-to-pocket = Cadw i { -pocket-brand-name }
 newtab-menu-delete-pocket = Dileu o { -pocket-brand-name }
 newtab-menu-archive-pocket = Archifo i { -pocket-brand-name }
+newtab-menu-show-privacy-info = Ein noddwyr a'ch preifatrwydd
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Gorffen
+newtab-privacy-modal-header = Mae eich preifatrwydd yn bwysig.
+newtab-privacy-modal-paragraph =
+    Yn ogystal â darparu straeon cyfareddol, rydyn ni hefyd yn dangos i chi gynnwys 
+    perthnasol wedi'i ddewis yn ofalus gan noddwyr dethol. Peidiwch â phoeni, 
+    nid yw eich data pori byth yn gadael eich copi personol o { -brand-product-name } - nid ydym 
+    yn ei weld, na'n noddwyr chwaith.
+newtab-privacy-modal-link = Dysgwch sut mae preifatrwydd yn gweithio ar y tab newydd
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Tynnu Nod Tudalen
 # Bookmark is a verb here.
