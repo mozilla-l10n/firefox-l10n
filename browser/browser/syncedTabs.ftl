@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = சாதனங்களை நிர்வகி...
     .accesskey = D
+synced-tabs-context-sync-now =
+    .label = இப்போது ஒத்திசை
+    .accesskey = S
 fxa-sign-in = { -sync-brand-short-name } உள்நுழை
