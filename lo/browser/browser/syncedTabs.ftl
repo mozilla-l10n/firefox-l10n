@@ -34,4 +34,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = ຈັດການອຸປະກອນ...
     .accesskey = D
+synced-tabs-context-sync-now =
+    .label = ເລີ່ມການເຊື່ອມຕໍ່ດຽວນີ້
+    .accesskey = S
 fxa-sign-in = ລົງຊື່ເຂົ້າໃຊ້ { -sync-brand-short-name }
