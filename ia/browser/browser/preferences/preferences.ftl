@@ -528,6 +528,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Monstrar le suggestiones de recerca ante le chronologia de navigation in le resultatos del barra de adresse
+search-show-suggestions-private-windows =
+    .label = Monstrar suggestiones in la fenestras de navigation private
 suggestions-addressbar-settings = Cambia preferentias pro chronologia de exploration, marcapaginas e scheda suggestiones
 search-suggestions-cant-show = Le suggestiones de recerca non essera monstrate inter le resultatos del barra de adresse perque tu ha configurate { -brand-short-name } pro non memorisar jammais le chronologia.
 search-one-click-header = Motores de recerca a un sol clic

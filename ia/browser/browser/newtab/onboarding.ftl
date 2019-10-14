@@ -113,6 +113,7 @@ onboarding-data-sync-text2 = Synchronisa tu marcapaginas, contrasignos, etc. sur
 onboarding-data-sync-button2 = Accede a { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Sta alerte al violationes de datos
 onboarding-firefox-monitor-text = { -monitor-brand-name } controla attentemente si tu email ha apparite in un violation de datos e te avisa si illo es implicate in un nove violation.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } controla si tu email appareva in note violationes de datos e te avisa subito si illo es implicate in uno nove.
 onboarding-firefox-monitor-button = Inscriber se al Alertas
 onboarding-browse-privately-title = Naviga reservatemente
 onboarding-browse-privately-text = Le navigation reservate clara tu chronologia de recerca e exploration e lo mantene secrete ab quicunque usa tu computator.

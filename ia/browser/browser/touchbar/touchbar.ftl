@@ -19,3 +19,19 @@ open-location = Insere un adresse o face un recerca
 share = Compartir
 close-window = Clauder fenestra
 open-sidebar = Barras lateral
+# This string describes shortcuts for search.
+search-popover = Vias breve de recerca
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Cercar in:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = Marcapaginas
+search-history = Chronologia
+search-opentabs = Schedas aperte
+search-tags = Etiquettas
+search-titles = Titulos
+
+
+
