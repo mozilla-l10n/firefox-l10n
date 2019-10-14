@@ -6,6 +6,12 @@ about-logins-page-title = Credenciais e palavras-passe
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = Leve as suas palavras-passe para todo o lado
+login-app-promo-subtitle = Obtenha a aplicação gratuita do { -lockwise-brand-name }
+login-app-promo-android =
+    .alt = Obter no Google Play
+login-app-promo-apple =
+    .alt = Transferir da App Store
 login-filter =
     .placeholder = Pesquisar credenciais
 create-login-button = Criar nova credencial
@@ -30,6 +36,7 @@ menu-menuitem-preferences =
         [windows] Opções
        *[other] Preferências
     }
+about-logins-menu-menuitem-help = Ajuda
 menu-menuitem-android-app = { -lockwise-brand-short-name } para Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } para iPhone e iPad
 
@@ -44,14 +51,30 @@ login-list-count =
     }
 login-list-sort-label-text = Ordenar por:
 login-list-name-option = Nome (A-Z)
+login-list-breached-option = Sites invadidos
 login-list-last-changed-option = Última modificação
 login-list-last-used-option = Última utilização
+login-list-intro-title = Não foram encontradas credenciais
+login-list-intro-description = Quando guarda uma palavra-passe no { -brand-product-name }, esta será apresentada aqui.
+about-logins-login-list-empty-search-title = Não foram encontradas credenciais
+about-logins-login-list-empty-search-description = Não foram encontrados resultados que correspondam à sua pesquisa.
 login-list-item-title-new-login = Nova credencial
 login-list-item-subtitle-new-login = Introduza as suas credenciais
 login-list-item-subtitle-missing-username = (sem nome de utilizador)
+about-logins-list-item-warning-icon =
+    .alt = Ícone de aviso
+    .title = Site invadido
+about-logins-list-item-breach-icon =
+    .title = Site invadido
 
 ## Introduction screen
 
+login-intro-heading = Está à procura das suas credenciais guardadas? Configure o { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = Não foram encontradas credenciais sincronizadas.
+login-intro-description = Se guardou as suas credenciais para o { -brand-product-name } num dispositivo diferente, eis como as obter aqui:
+login-intro-instruction-fxa = Crie ou inicie a sessão na sua { -fxaccount-brand-name } no dispositivo onde as suas credenciais estão guardadas
+login-intro-instruction-fxa-settings = Certifique-se que ativou a opção Credenciais nas definições do { -sync-brand-short-name }
+about-logins-intro-instruction-help = Visite o <a data-l10n-name="help-link">Apoio do { -lockwise-brand-short-name }</a> para mais ajuda
 
 ## Login
 
@@ -62,6 +85,8 @@ login-item-origin-label = Endereço do website
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nome de utilizador
+about-logins-login-item-username =
+    .placeholder = (sem nome de utilizador)
 login-item-copy-username-button-text = Copiar
 login-item-copied-username-button-text = Copiado!
 login-item-password-label = Palavra-passe
@@ -90,6 +115,11 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Quer as suas credenciais em todo o lado em que utiliza o { -brand-product-name }? Aceda às Opções do { -sync-brand-short-name } e selecione a opção Credenciais.
+       *[other] Quer as suas credenciais em todo o lado em que utiliza o { -brand-product-name }? Aceda às Preferências do { -sync-brand-short-name } e selecione a opção Credenciais.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
