@@ -4,3 +4,7 @@
 
 fxa-toolbar-sync-now =
     .label = Синхронизиране
+fxa-toolbar-sync-syncing =
+    .label = Синхронизиране…
+fxa-toolbar-sync-syncing-tabs =
+    .label = Синхронизиране на раздели…
