@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Aseta oletushakukoneeksi
     .accesskey = A
+search-one-offs-context-set-as-default-private =
+    .label = Aseta oletushakukoneeksi yksityisissä ikkunoissa
+    .accesskey = A
