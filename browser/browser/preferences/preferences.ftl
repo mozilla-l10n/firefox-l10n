@@ -528,6 +528,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Mostrar sugestões de pesquisa antes do histórico de navegação nos resultados da barra de endereços
+search-show-suggestions-private-windows =
+    .label = Mostrar sugestões de pesquisa em janelas privativas
 suggestions-addressbar-settings = Alterar preferências de sugestões de histórico de navegação, favoritos e abas
 search-suggestions-cant-show = As sugestões de pesquisa não serão mostradas nos resultados da barra de endereço, porque você configurou o { -brand-short-name } para nunca memorizar o histórico.
 search-one-click-header = Mecanismos de pesquisa em um clique
