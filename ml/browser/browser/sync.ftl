@@ -4,3 +4,5 @@
 
 fxa-toolbar-sync-now =
     .label = ഉടന്‍ സിന്‍ക് ചെയ്യുക
+fxa-toolbar-sync-syncing-tabs =
+    .label = ടാബുകൾ സമന്വയിപ്പുക്കുന്നു…
