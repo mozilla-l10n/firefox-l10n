@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = 設為預設搜尋引擎
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = 設為隱私瀏覽模式中的預設搜尋引擎
+    .accesskey = P

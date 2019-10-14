@@ -69,6 +69,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = 在找您儲存的登入資訊嗎？請設定 { -sync-brand-short-name }。
+about-logins-login-intro-heading-logged-in = 找不到同步的登入資訊。
 login-intro-description = 若您在其他裝置上儲存登入資訊到 { -brand-product-name } 過，請參考下列步驟，即可在此裝置使用:
 login-intro-instruction-fxa = 在您儲存登入資訊的裝置，註冊或登入 { -fxaccount-brand-name }
 login-intro-instruction-fxa-settings = 確定在 { -sync-brand-short-name } 設定中勾選了「登入資訊」選取盒

@@ -76,6 +76,9 @@ cfr-protections-panel-link-text = 了解更多
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = 新功能:
 cfr-whatsnew-button =
     .label = 有什麼新鮮事
     .tooltiptext = 有什麼新鮮事
