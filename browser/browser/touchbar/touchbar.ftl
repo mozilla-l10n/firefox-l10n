@@ -19,6 +19,8 @@ open-location = Sök eller ange adress
 share = Dela
 close-window = Stäng fönster
 open-sidebar = Sidrad
+# This string describes shortcuts for search.
+search-popover = Sök genvägar
 # Describes searches limited to a specific scope
 # (e.g. searching only in history).
 search-search-in = Sök i:
