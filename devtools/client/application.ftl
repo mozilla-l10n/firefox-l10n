@@ -64,10 +64,17 @@ manifest-item-warnings = שגיאות ואזהרות
 manifest-item-identity = זהות
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = סמלים
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = מטרה: <code>{ $purpose }</code>
 # Text displayed as the alt attribute for <img> tags showing the icons in the
 # manifest.
 manifest-icon-img =
     .alt = סמל
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = סמל עם גדלים: { $sizes }
 # Sidebar navigation item for Service Workers sidebar item section
 sidebar-item-service-workers = Service Workers
     .alt = סמל Service Workers
