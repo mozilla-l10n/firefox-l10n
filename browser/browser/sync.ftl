@@ -4,6 +4,8 @@
 
 fxa-toolbar-sync-now =
     .label = Synka nu
+fxa-toolbar-sync-syncing-tabs =
+    .label = Synkar flikar…
 sync-disconnect-dialog-title = Koppla ner { -sync-brand-short-name }?
 sync-disconnect-dialog-body = { -brand-product-name } kommer att sluta synkronisera ditt konto men tar inte bort någon av dina surfdata på den här enheten.
 fxa-disconnect-dialog-title = Koppla ner { -brand-product-name }?
