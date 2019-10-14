@@ -93,6 +93,13 @@ manifest-non-existing = Aucun manifeste trouvé à inspecter.
 # Text displayed when the page has a manifest embedded in a Data URL and
 # thus we cannot link to it.
 manifest-json-link-data-url = Le manifeste est intégré dans une URL data.
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Icône
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Icône de taille non spécifiée
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Manifeste
     .alt = Icône de manifeste

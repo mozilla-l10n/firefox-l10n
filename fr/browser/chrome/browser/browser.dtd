@@ -945,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Contenu utilisé pour le pistage">
 <!ENTITY protections.fingerprinters.label "Détecteurs d’empreinte numérique">
 <!ENTITY protections.cryptominers.label "Mineurs de cryptomonnaies">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Tous les traqueurs sur ce site ont été chargés car les protections sont désactivées.">
 <!ENTITY protections.noTrackersFound.description "Aucun traqueur connu par &brandShortName; n’a été détecté sur cette page.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Ces cookies vous suivent de site en site pour collecter des données sur vos faits et gestes en ligne. Ils sont déposés par des tiers, tels que des annonceurs ou des entreprises d’analyse de données.">
