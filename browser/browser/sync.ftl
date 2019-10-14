@@ -4,3 +4,7 @@
 
 fxa-toolbar-sync-now =
     .label = Synchronizovať teraz
+fxa-toolbar-sync-syncing =
+    .label = Synchronizuje sa…
+fxa-toolbar-sync-syncing-tabs =
+    .label = Synchronizujem karty…
