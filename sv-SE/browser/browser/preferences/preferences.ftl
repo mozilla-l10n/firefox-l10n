@@ -528,6 +528,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Visa sökförslag före surfhistoriken i adressfältets resultat
+search-show-suggestions-private-windows =
+    .label = Visa sökförslag i privata fönster
 suggestions-addressbar-settings = Ändra inställningar för surfhistorik, bokmärken och flikförslag
 search-suggestions-cant-show = Sökförslag kommer inte att visas i adressfältet eftersom du har konfigurerat { -brand-short-name } att aldrig spara historik.
 search-one-click-header = Sökfältets sökmotorer
