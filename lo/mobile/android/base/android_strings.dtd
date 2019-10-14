@@ -6,7 +6,7 @@
 <!ENTITY firstrun_urlbar_message2 "ຂອບໃຈທີ່ເລືອກໃຊ້ &brandShortName;">
 <!ENTITY newfirstrun_urlbar_message "ຍິນດີຕ້ອນຮັບສູ່ &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext2 "ເປັນຫນຶ່ງເວັບບຣາວເຊີທີ່ທັນສະໄຫມສຳລັບໂທລະສັບຂອງ Mozilla ທີ່ເປັນອົງກອນບໍ່ຫວັງຜົນກຳໄລ ມຸ່ງຫມັ້ນເພື່ອສ້າງເວັບຟຣີ ແລະ ເປີດກ້ວາງ.">
-<!ENTITY newfirstrun_urlbar_subtext "ວ່ອງໄວ, ເປັນສ່ວນຕົວ ແລະ ເປັນຂອງທ່ານ.">
+<!ENTITY newfirstrun_urlbar_subtext "ວ່ອງໄວ, ເປັນສ່ວນຕົວ ແລະ ຢູ່ຄຽງຂ້າງທ່ານ.">
 <!ENTITY firstrun_panel_title_privacy "ຄວາມເປັນສ່ວນຕົວ">
 <!ENTITY firstrun_privacy_message "ທ່ອງເວັບແບບບໍ່ມີໃຜມາຫລັກເຝົ້າຕິດຕາມ.">
 <!ENTITY firstrun_privacy_subtext "ການທ່ອງເວັບແບບສ່ວນຕົວພ້ອມກັບຕົວບັອກການປ້ອງກັນການຕິດຕາມໃນຂະນະທີ່ທ່ານທ່ອງເວັບ ແລະ ມັນຈະບໍ່ບັນທຶກປະຫວັດການທ່ອງເວັບຂອງທ່ານໄວ້.">
