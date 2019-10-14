@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = Rhwystro { -brand-short-name } rhag rhedeg astudi
 policy-DisableForgetButton = Rhwystro mynediad i'r botwm Anghofio.
 policy-DisableFormHistory = Peidio cofio chwilio a hanes ffurflenni.
 policy-DisableMasterPasswordCreation = Os gwir, nid oes modd creu prif gyfrinair.
+policy-DisablePasswordReveal = Peidiwch â gadael i gyfrineiriau gael eu datgelu mewn mewngofnodi sydd wedi'i gadw.
 policy-DisablePocket = Analluogi'r nodwedd i gadw tudalennau gwe i Pocket.
 policy-DisablePrivateBrowsing = Analluogi Pori Preifat.
 policy-DisableProfileImport = Analluogi'r gorchymyn dewislen i fewnforio data o borwr arall.

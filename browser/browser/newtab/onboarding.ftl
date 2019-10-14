@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Cychwyn Arni
 onboarding-welcome-header = Croeso i { -brand-short-name }
 onboarding-welcome-body = Mae'r porwr gyda chi. <br/> Dyma weddill { -brand-product-name }.
 onboarding-welcome-learn-more = Dysgu rhagor am y buddiannau.
+onboarding-welcome-modal-get-body = Mae gennych y porwr. <br/>Nawr, manteisiwch i'r eithaf ar { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Grymuswch eich diogelwch preifatrwydd.
+onboarding-welcome-modal-privacy-body = Mae'r porwr gennych chi. Gadewch i ni ychwanegu mwy o ddiogelwch preifatrwydd.
+onboarding-welcome-modal-family-learn-more = Dysgu am deulu cynnyrch { -brand-product-name }.
+onboarding-welcome-form-header = Cychwynnwch Yma
 onboarding-join-form-header = Ymunwch â { -brand-product-name }
 onboarding-join-form-body = Rhowch eich cyfeiriad e-bost i ddechrau.
 onboarding-join-form-email =
@@ -28,10 +33,20 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Mae angen e-bost dilys
 onboarding-join-form-legal = Drwy barhau, rydych yn cytuno i'r <a data-l10n-name="terms">>Amodau Gwasanaeth</a> a'r <a data-l10n-name="privacy">Hysbysiad Preifatrwydd</a>.
 onboarding-join-form-continue = Parhau
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Oes gennych chi gyfrif y barod?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Mewngofnodi
 onboarding-start-browsing-button-label = Cychwyn Pori
 onboarding-cards-dismiss =
     .title = Cau
     .aria-label = Cau
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Gadewch i ni ddechrau edrych ar bopeth y gallwch ei wneud.
+onboarding-fullpage-form-email =
+    .placeholder = Eich cyfeiriad e-bost…
 
 ## Firefox Sync modal dialog strings.
 
@@ -64,6 +79,12 @@ onboarding-benefit-privacy-title = Gwir Breifatrwydd
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Mae popeth rydym yn ei wneud yn cadw at ein Addewid ar Ddata Personol: Cymrwch lai. Cadwch ef yn ddiogel. Dim cyfrinachau.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Cymerwch eich nodau tudalen, cyfrineiriau, hanes, a mwy ym mhobman rydych chi'n defnyddio { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Cewch eich hysbysu pan fydd eich manylion personol mewn tor-data hysbys.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Rheoli cyfrineiriau sy'n ddiogel ac yn gludadwy.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -92,6 +113,7 @@ onboarding-data-sync-text2 = Cydweddwch eich nodau tudalen, cyfrineiriau, a mwy 
 onboarding-data-sync-button2 = Mewngofnodwch i { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Cadw'n effro i achosion o dor-data
 onboarding-firefox-monitor-text = Mae { -monitor-brand-name } yn monitro os yw eich e-bost wedi ymddangos mewn tor-data ac yn eich rhybuddio os yw'n ymddangos mewn tor-data newydd.
+onboarding-firefox-monitor-text2 = Mae { -monitor-brand-name } yn monitro os yw eich e-bost wedi ymddangos mewn tor-data ac yn eich rhybuddio os yw'n ymddangos mewn tor-data newydd.
 onboarding-firefox-monitor-button = Cofrestru am Rhybuddion
 onboarding-browse-privately-title = Pori'n Breifat
 onboarding-browse-privately-text = Mae Pori Preifat yn clirio'ch hanes chwilio a phori er mwyn ei gadw'n gyfrinachol rhag unrhyw un sy'n defnyddio'ch cyfrifiadur.
