@@ -4,3 +4,5 @@
 
 fxa-toolbar-sync-now =
     .label = Sinhronizēt
+fxa-toolbar-sync-syncing-tabs =
+    .label = Sinhronizē cilnes…
