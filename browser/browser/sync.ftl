@@ -4,3 +4,5 @@
 
 fxa-toolbar-sync-now =
     .label = Sanngoɗin Jooni
+fxa-toolbar-sync-syncing-tabs =
+    .label = Sync cegenon…
