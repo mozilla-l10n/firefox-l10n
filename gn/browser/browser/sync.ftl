@@ -4,6 +4,8 @@
 
 fxa-toolbar-sync-now =
     .label = Embojuehe ko'ág̃a
+fxa-toolbar-sync-syncing =
+    .label = Embojuehehína…
 fxa-toolbar-sync-syncing-tabs =
     .label = Embojuehe Tendayke…
 sync-disconnect-dialog-title = ¿ Ñesẽte { -sync-brand-short-name }?
