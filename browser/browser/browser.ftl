@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Varsayılan arama motoru yap
     .accesskey = m
+search-one-offs-context-set-as-default-private =
+    .label = Gizli pencerelerde varsayılan arama motoru olarak ayarla
+    .accesskey = G
