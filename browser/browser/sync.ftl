@@ -4,3 +4,5 @@
 
 fxa-toolbar-sync-now =
     .label = এতিয়া সংমিহলি কৰক
+fxa-toolbar-sync-syncing-tabs =
+    .label = টেববোৰ চিংক হৈ আছে…
