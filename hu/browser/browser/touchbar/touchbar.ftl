@@ -19,3 +19,19 @@ open-location = Keressen, vagy adjon meg címet
 share = Megosztás
 close-window = Ablak bezárása
 open-sidebar = Oldalsávok
+# This string describes shortcuts for search.
+search-popover = Keresési gyorsparancsok
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Keresés ebben:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = Könyvjelzők
+search-history = Előzmények
+search-opentabs = Nyitott lapok
+search-tags = Címkék
+search-titles = Címek
+
+
+
