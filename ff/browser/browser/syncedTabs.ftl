@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Toppito Kaɓirɗi…
     .accesskey = K
+synced-tabs-context-sync-now =
+    .label = Sanngoɗin Jooni
+    .accesskey = S
 fxa-sign-in = Teelto { -sync-brand-short-name }
