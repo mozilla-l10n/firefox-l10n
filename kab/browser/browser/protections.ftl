@@ -42,8 +42,10 @@ cookie-tab-title = Inagan n tuqqna i uḍfaṛ gar yismal
 tracker-tab-title = Agbur n uḍfaṛ
 fingerprinter-tab-title = Idsilen umḍinen
 cryptominer-tab-title = Ikripṭuminaren
+cryptominer-tab-content = Ikripṭuminaren seqdacen tazmert n usiḍen n unagraw-ik akken ad kksen tadrimt tumḍint. Iskripten n yikripṭuminaren sseɣṣen aẓru-ik, saẓayen aselkim-ik, daɣen zemren ad salin tafaturt-ik n ṣṣehd. <a data-l10n-name="learn-more-link">Issin ugar</a>
 lockwise-title = Ur sṛuḥuy ara awalen-ik uffiren
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-header-content = { -lockwise-brand-name } iseklas awalen uffiren-ik deg iminig-ik s wudem aɣelsan.
 lockwise-header-content-logged-in = Sekles daɣen mtawi awalen-ik uffiren ɣef yibenkan-ik meṛṛa s wudem aɣelsan.
 protection-report-view-logins-button = Sken-d tuqniwin
     .title = Ddu ɣer inekcumen yettwakelse

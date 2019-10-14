@@ -78,6 +78,9 @@ cfr-protections-panel-link-text = Issin ugar
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Timahilin timaynutin:
 cfr-whatsnew-button =
     .label = Amaynut
     .tooltiptext = Amaynut

@@ -33,10 +33,19 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Ilaq imayl yeɣtin
 onboarding-join-form-legal = Ma tkemmleḍ, ad tqebleḍ <a data-l10n-name="terms">Tiwtilin-nneɣ n useqdec</a> akked <a data-l10n-name="privacy">Tsertit-nneɣ tabaḍnit</a>.
 onboarding-join-form-continue = Kemmel
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Ɣur-k yakan amiḍan?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Kcem
 onboarding-start-browsing-button-label = Bdu tunigin
 onboarding-cards-dismiss =
     .title = Kkes
     .aria-label = Kkes
+
+## Welcome full page string
+
+onboarding-fullpage-form-email =
+    .placeholder = Tansa yinek imayl…
 
 ## Firefox Sync modal dialog strings.
 
@@ -102,6 +111,7 @@ onboarding-data-sync-text2 = Mtawi ticraḍ-ik n yisebtar, awalen-ik uffiren, d 
 onboarding-data-sync-button2 = Qqen ɣer { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Ḍfeṛ s lqerban tarewla n yisefka
 onboarding-firefox-monitor-text = { -monitor-brand-name } yessenqad ma yella tansa-ik imayl tella deg trewla n yisefka daɣen ad k-id-yelɣu ticki tella deg trewla-nniḍen tamaynut n yisefka.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } yessenqad ma yella tansa-ik imayl tella deg trewla n yisefka yettwasnen daɣen ad k-id-yelɣu ticki tella deg trewla-nniḍen tamaynut n yisefka.
 onboarding-firefox-monitor-button = jerred akken ak-id-awḍen ilɣa
 onboarding-browse-privately-title = Inig s wudem uslig
 onboarding-browse-privately-text = Tunigin tusligt ad tesfeḍ anadi-ik d umazray n tunigin akken ad t-teǧǧ d abaḍni seg wid ara yesqedcen aselkim-ik.
