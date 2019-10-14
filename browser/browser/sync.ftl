@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 fxa-toolbar-sync-now =
-    .label = Сінхранізаваць зараз{ " " }
+    .label = Сінхранізаваць зараз
 fxa-toolbar-sync-syncing =
     .label = Сінхранізацыя…
 fxa-toolbar-sync-syncing-tabs =
