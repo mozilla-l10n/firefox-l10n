@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Gestisci dispoxitivi…
     .accesskey = D
+synced-tabs-context-sync-now =
+    .label = Scincronizza òua
+    .accesskey = S
 fxa-sign-in = Acedi a { -sync-brand-short-name }
