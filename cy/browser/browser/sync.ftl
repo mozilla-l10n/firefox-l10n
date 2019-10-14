@@ -4,5 +4,7 @@
 
 fxa-toolbar-sync-now =
     .label = Cydweddu Nawr
+fxa-toolbar-sync-syncing =
+    .label = Cydweddu…
 fxa-toolbar-sync-syncing-tabs =
     .label = Cydweddu Tabiau…
