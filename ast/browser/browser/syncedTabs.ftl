@@ -32,4 +32,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Remanar preseos…
     .accesskey = P
+synced-tabs-context-sync-now =
+    .label = Sincronizar agora
+    .accesskey = z
 fxa-sign-in = Aniciar sesión en { -sync-brand-short-name }
