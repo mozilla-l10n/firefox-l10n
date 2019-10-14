@@ -4,3 +4,7 @@
 
 fxa-toolbar-sync-now =
     .label = Қазір синхрондау
+fxa-toolbar-sync-syncing =
+    .label = Синхрондау…
+fxa-toolbar-sync-syncing-tabs =
+    .label = Беттерді синхрондау…
