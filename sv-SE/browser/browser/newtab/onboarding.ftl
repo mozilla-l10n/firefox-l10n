@@ -44,6 +44,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Låt oss börja utforska allt du kan göra.
 onboarding-fullpage-form-email =
     .placeholder = Din e-postadress…
 
@@ -112,6 +113,7 @@ onboarding-data-sync-text2 = Synkronisera dina bokmärken, lösenord och mer öv
 onboarding-data-sync-button2 = Logga in på { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Var uppmärksam på dataintrång
 onboarding-firefox-monitor-text = { -monitor-brand-name } övervakar om din e-postadress har dykt upp i ett dataintrång och varnar dig om det visas i ett nytt intrång.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } övervakar om din e-postadress har förekommit i ett känt dataintrång och varnar dig om det dyker upp i ett nytt intrång.
 onboarding-firefox-monitor-button = Registrera dig för varningar
 onboarding-browse-privately-title = Surfa privat
 onboarding-browse-privately-text = Privat surfning rensar din sök- och surfhistorik för att hålla den hemlig från alla som använder din dator.
