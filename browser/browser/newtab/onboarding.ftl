@@ -33,10 +33,19 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Érvényes e-mail cím szükséges
 onboarding-join-form-legal = A folytatással elfogadja a <a data-l10n-name="terms">Szolgáltatási feltételeket</a> és az <a data-l10n-name="privacy">Adatvédelmi nyilatkozatot</a>.
 onboarding-join-form-continue = Folytatás
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Már van fiókja?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Bejelentkezés
 onboarding-start-browsing-button-label = Böngészés megkezdése
 onboarding-cards-dismiss =
     .title = Elutasítás
     .aria-label = Elutasítás
+
+## Welcome full page string
+
+onboarding-fullpage-form-email =
+    .placeholder = Az e-mail címe…
 
 ## Firefox Sync modal dialog strings.
 
@@ -103,6 +112,7 @@ onboarding-data-sync-text2 = Szinkronizálja a könyvjelzőket, a jelszavakat é
 onboarding-data-sync-button2 = Jelentkezzen be a { -sync-brand-short-name }be
 onboarding-firefox-monitor-title = Figyeljen az adatszegésekre
 onboarding-firefox-monitor-text = A { -monitor-brand-name } figyeli, hogy az e-mail címe megjelent-e egy adatszegésben, és figyelmezteti Önt, ha az egy új adatszegésben jelenik meg.
+onboarding-firefox-monitor-text2 = A { -monitor-brand-name } figyeli, hogy az e-mail címe megjelent-e egy ismert adatsértésben, és figyelmezteti Önt, ha az egy új adatsértésben jelenik meg.
 onboarding-firefox-monitor-button = Iratkozzon fel a figyelmeztetésekre
 onboarding-browse-privately-title = Böngésszen privát módon
 onboarding-browse-privately-text = A privát böngészés törli a keresési és böngészési előzményeket, hogy titokban tartsa azokat azoktól, akik a számítógépét használják.

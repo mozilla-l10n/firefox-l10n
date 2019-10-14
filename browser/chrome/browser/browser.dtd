@@ -945,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Nyomkövető tartalom">
 <!ENTITY protections.fingerprinters.label "Ujjlenyomat-készítők">
 <!ENTITY protections.cryptominers.label "Kriptobányászok">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "A webhely összes nyomkövetője be lett töltve, mert a védelem ki van kapcsolva.">
 <!ENTITY protections.noTrackersFound.description "Egyetlen ismert nyomkövetőt sem észlelt a &brandShortName; ezen az oldalon.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Ezek a sütik követik Ön oldalról oldalra, és adatokat gyűjtenek az online tevékenységéről. Ezeket olyan harmadik felek állítják be, mint a hirdetők és az elemző cégek.">
