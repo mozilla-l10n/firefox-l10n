@@ -4,3 +4,5 @@
 
 fxa-toolbar-sync-now =
     .label = अहिले सिङ्क गर्नुहोस्
+fxa-toolbar-sync-syncing-tabs =
+    .label = ट्याबहरू Sync हुदैछन…
