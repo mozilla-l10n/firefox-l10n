@@ -4,3 +4,7 @@
 
 fxa-toolbar-sync-now =
     .label = Sioncronaich an-dràsta
+fxa-toolbar-sync-syncing =
+    .label = ’Ga shioncronachadh…
+fxa-toolbar-sync-syncing-tabs =
+    .label = A’ sioncronachadh nan taba...
