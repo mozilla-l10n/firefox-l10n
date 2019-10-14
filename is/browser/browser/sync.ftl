@@ -4,3 +4,5 @@
 
 fxa-toolbar-sync-now =
     .label = Samstilla núna
+fxa-toolbar-sync-syncing-tabs =
+    .label = Samstilli flipa…
