@@ -4,5 +4,7 @@
 
 fxa-toolbar-sync-now =
     .label = Συγχρονισμός τώρα
+fxa-toolbar-sync-syncing =
+    .label = Συγχρονισμός…
 fxa-toolbar-sync-syncing-tabs =
     .label = Συγχρονισμός καρτελών…
