@@ -4,6 +4,8 @@
 
 fxa-toolbar-sync-now =
     .label = زامِن الآن
+fxa-toolbar-sync-syncing-tabs =
+    .label = يُزامن الألسنة…
 sync-disconnect-dialog-title = أأقطع اتصال { -sync-brand-short-name }؟
 sync-disconnect-dialog-body = سيتوقف { -brand-product-name } عن مزامنة حسابك، لكن لن يحذف أيًا من بيانات تصفحك على هذا الجهاز.
 fxa-disconnect-dialog-title = أأقطع اتصال { -brand-product-name }؟
