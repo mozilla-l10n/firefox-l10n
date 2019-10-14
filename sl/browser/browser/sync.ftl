@@ -4,6 +4,8 @@
 
 fxa-toolbar-sync-now =
     .label = Sinhroniziraj
+fxa-toolbar-sync-syncing =
+    .label = Sinhroniziranje …
 fxa-toolbar-sync-syncing-tabs =
     .label = Sinhroniziranje zavihkov ...
 sync-disconnect-dialog-title = Odklopim { -sync-brand-short-name }?
