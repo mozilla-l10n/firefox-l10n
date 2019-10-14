@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = ডিভাইস ব্যবস্থাপনা…
     .accesskey = D
+synced-tabs-context-sync-now =
+    .label = এখন সিঙ্ক
+    .accesskey = S
 fxa-sign-in = { -sync-brand-short-name } এ সাইন ইন করুন
