@@ -36,4 +36,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Kudeatu gailuak…
     .accesskey = g
+synced-tabs-context-sync-now =
+    .label = Sinkronizatu orain
+    .accesskey = S
 fxa-sign-in = Hasi saioa { -sync-brand-short-name }(e)n
