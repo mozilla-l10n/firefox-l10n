@@ -4,5 +4,7 @@
 
 fxa-toolbar-sync-now =
     .label = હમણાં સમન્વયિત કરો
+fxa-toolbar-sync-syncing =
+    .label = સમન્વયન કરી રહ્યું છે…
 fxa-toolbar-sync-syncing-tabs =
     .label = સમન્વય ટૅબ્સ ...
