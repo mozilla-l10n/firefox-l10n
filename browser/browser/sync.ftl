@@ -4,6 +4,10 @@
 
 fxa-toolbar-sync-now =
     .label = No syngronisearje
+fxa-toolbar-sync-syncing =
+    .label = Syngronisearje…
+fxa-toolbar-sync-syncing-tabs =
+    .label = Ljepblêden syngronisearje…
 sync-disconnect-dialog-title = Ferbining mei { -sync-brand-short-name } ferbrekke?
 sync-disconnect-dialog-body = { -brand-product-name } stoppet de syngronisaasje mei jo account, mar sil gjin navigaasjegegevens op dit apparaat fuortsmite.
 fxa-disconnect-dialog-title = Ferbining mei { -brand-product-name } ferbrekke?
