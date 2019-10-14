@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fxa-toolbar-sync-now =
+    .label = زامِن الآن
 sync-disconnect-dialog-title = أأقطع اتصال { -sync-brand-short-name }؟
 sync-disconnect-dialog-body = سيتوقف { -brand-product-name } عن مزامنة حسابك، لكن لن يحذف أيًا من بيانات تصفحك على هذا الجهاز.
 fxa-disconnect-dialog-title = أأقطع اتصال { -brand-product-name }؟
