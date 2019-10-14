@@ -4,3 +4,5 @@
 
 fxa-toolbar-sync-now =
     .label = Sincronizar agora
+fxa-toolbar-sync-syncing-tabs =
+    .label = Sincronización d'as pestanyas…
