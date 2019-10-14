@@ -4,3 +4,5 @@
 
 fxa-toolbar-sync-now =
     .label = Sinkronkan Sekarang
+fxa-toolbar-sync-syncing-tabs =
+    .label = Menyinkronkan Tab…
