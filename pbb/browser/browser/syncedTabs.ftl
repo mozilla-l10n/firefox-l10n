@@ -16,4 +16,7 @@ synced-tabs-context-open-in-new-private-window =
 synced-tabs-context-bookmark-single-tab =
     .label = Kãjãhn na's txhuden ki'phwa'ja's.
     .accesskey = B
+synced-tabs-context-sync-now =
+    .label = Ãçxh kãjãdan
+    .accesskey = S
 fxa-sign-in = U'kan takhna { -sync-brand-short-name }
