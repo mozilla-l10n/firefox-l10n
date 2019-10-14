@@ -4,6 +4,8 @@
 
 fxa-toolbar-sync-now =
     .label = زامِن الآن
+fxa-toolbar-sync-syncing =
+    .label = يُزامن…
 fxa-toolbar-sync-syncing-tabs =
     .label = يُزامن الألسنة…
 sync-disconnect-dialog-title = أأقطع اتصال { -sync-brand-short-name }؟
