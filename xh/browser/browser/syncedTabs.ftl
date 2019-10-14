@@ -32,4 +32,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Lawula Izixhobo…
     .accesskey = I
+synced-tabs-context-sync-now =
+    .label = Ngqamanisa ngoku
+    .accesskey = N
 fxa-sign-in = Ngena { -sync-brand-short-name }
