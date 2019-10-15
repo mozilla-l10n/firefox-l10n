@@ -26,7 +26,6 @@ accessibility-text-label-issue-document-title = I documenti devono avere un <cod
 accessibility-text-label-issue-embed = I contenuti incorporati (“embedded”) devono avere un’etichetta. <a>Ulteriori informazioni</a>
 accessibility-text-label-issue-figure = Figure con didascalie (“caption”) facoltative devono avere un’etichetta. <a>Ulteriori informazioni</a>
 accessibility-text-label-issue-fieldset = Gli elementi <code>fieldset</code> devono avere un’etichetta. <a>Ulteriori informazioni</a>
-accessibility-text-label-issue-fieldset-legend = Utilizzare l’elemento <code>legend</code> per assegnare un’etichetta agli elementi <span>fieldset</span>. <a>Ulteriori informazioni</a>
 accessibility-text-label-issue-fieldset-legend2 = Utilizzare un elemento <code>legend</code> per assegnare un’etichetta a un elemento <span>fieldset</span>. <a>Ulteriori informazioni</a>
 accessibility-text-label-issue-form = Gli elementi di un modulo devono avere un’etichetta. <a>Ulteriori informazioni</a>
 accessibility-text-label-issue-form-visible = Gli elementi di un modulo devono avere un’etichetta di testo visibile. <a>Ulteriori informazioni</a>
@@ -37,7 +36,6 @@ accessibility-text-label-issue-heading-content = Le intestazioni devono avere un
 accessibility-text-label-issue-iframe = Utilizzare l’attributo <code>title</code> per descrivere il contenuto di un <span>iframe</span>. <a>Ulteriori informazioni</a>
 accessibility-text-label-issue-image = I contenuti con immagini devono avere un’etichetta. <a>Ulteriori informazioni</a>
 accessibility-text-label-issue-interactive = Gli elementi interattivi devono avere un’etichetta. <a>Ulteriori informazioni</a>
-accessibility-text-label-issue-optgroup-label = Utilizzare l’attributo <code>label</code> per assegnare un’etichetta agli elementi <span>optgroup</span>. <a>Ulteriori informazioni</a>
 accessibility-text-label-issue-optgroup-label2 = Utilizzare un attributo <code>label</code> per assegnare un’etichetta a un elemento <span>optgroup</span>. <a>Ulteriori informazioni</a>
 accessibility-text-label-issue-toolbar = Le barre degli strumenti devono avere un’etichetta quando è presente più di una barra degli strumenti. <a>Ulteriori informazioni</a>
 
