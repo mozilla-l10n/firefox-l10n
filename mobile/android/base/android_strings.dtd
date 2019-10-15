@@ -25,6 +25,8 @@
 <!ENTITY firstrun_sync_message2 "Наставите тамо где сте стали.">
 <!ENTITY firstrun_sync_subtext2 "Искористите Sync да нађете забелешке, лозинке и друге ствари које сте сачували у &brandShortName;-у на свим вашим уређајима.">
 <!ENTITY newfirstrun_sync_subtext "Синхронизујте ствари које сачувате на мобилном уређају са Firefox-ом за стоне рачунаре, приватно и безбедно.">
+<!ENTITY firstrun_sendtab_title "Пошаљи језичак">
+<!ENTITY firstrun_sendtab_message "Делите картице са телефона на рачунар, у трену.">
 <!ENTITY updatednewfirstrun_sync_subtext "Пријавите се у ваш налог да бисте искористили све предности &brandShortName;-а">
 <!ENTITY firstrun_signin_message "Повежите се, започните">
 <!ENTITY firstrun_signin_button "Пријави се на Sync">
@@ -33,10 +35,9 @@
 <!ENTITY  onboard_start_button_browser "Започните прегледање">
 <!ENTITY firstrun_button_notnow "Не сада">
 <!ENTITY firstrun_button_next "Следеће">
+<!ENTITY firstrun_signup_button "Регистрација">
 
 <!ENTITY firstrun_signin_button2 "Пријава">
-
-<!ENTITY firstrun_signup_button "Регистрација">
 
 <!ENTITY firstrun_tabqueue_title "Везе">
 
@@ -499,6 +500,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Подели">
 <!ENTITY share_title "Подели преко">
 <!ENTITY share_image_failed "Не могу поделити ову слику">
+<!ENTITY share_error_toast_message "Дељење ка назначеној апликацији није могуће">
 <!ENTITY save_as_pdf "Сними као PDF">
 <!ENTITY print "Штампај">
 <!ENTITY view_page_source "Преглед изворног кода">
@@ -882,17 +884,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Ставке читача забелешки се могу прочитати и ван мреже.">
 <!ENTITY helper_triple_readerview_open_button "Додај забелешкама">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
-activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Добродошли у &brandShortName;">
 <!ENTITY activity_stream_signin_description "Почните са синхронизовањем забелешки, лозинки и других делова са вашим Firefox налогом.">
-<!ENTITY activity_stream_signin_button "Пријава">
-
 <!ENTITY activity_stream_signup_button "Регистрација">
 <!ENTITY activity_stream_signin_prompt "Већ имате налог?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Пријави се.">
+
+<!ENTITY activity_stream_signin_button "Пријава">
 
 <!ENTITY activity_stream_topsites "Омиљени сајтови">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
