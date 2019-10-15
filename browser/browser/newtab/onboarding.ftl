@@ -33,10 +33,17 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Необхідна дійсна адреса е-пошти
 onboarding-join-form-legal = Продовжуючи, ви приймаєте <a data-l10n-name="terms">Умови користування</a> і <a data-l10n-name="privacy">Політику приватності</a>.
 onboarding-join-form-continue = Продовжити
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Вже маєте обліковий запис?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Увійти
 onboarding-start-browsing-button-label = Почати перегляд
 onboarding-cards-dismiss =
     .title = Сховати
     .aria-label = Сховати
+
+## Welcome full page string
+
 
 ## Firefox Sync modal dialog strings.
 
