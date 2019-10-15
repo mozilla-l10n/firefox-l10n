@@ -87,28 +87,68 @@ cfr-whatsnew-fx70-title = O { -brand-short-name } agora luta mais pela sua priva
 cfr-whatsnew-fx70-body =
     A atualização mais recente melhora a funcionalidade de Proteção contra a monitorização e torna
     mais fácil do que nunca a criação de palavras-passe seguras para cada site.
+cfr-whatsnew-tracking-protect-title = Proteja-se contra os rastreadores
+cfr-whatsnew-tracking-protect-body =
+    O { -brand-short-name } bloqueia muitos dos rastreadores mais comuns das 
+    redes sociais e inter-sites que monitorizam o que faz na Internet.
+cfr-whatsnew-tracking-protect-link-text = Ver o seu relatório
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Rastreador bloqueado
+       *[other] Rastreadores bloqueados
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Desde { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Ver relatório
+cfr-whatsnew-lockwise-backup-title = Faça uma cópia das suas palavras-passe
+cfr-whatsnew-lockwise-backup-body = Agora, crie palavras-passe seguras que pode aceder em qualquer lugar onde inicie a sessão.
+cfr-whatsnew-lockwise-backup-link-text = Ative as cópias de segurança
+cfr-whatsnew-lockwise-take-title = Leve as suas palavras-passe consigo
+cfr-whatsnew-lockwise-take-body =
+    A aplicação móvel { -lockwise-brand-short-name } permite-lhe aceder com segurança e em  
+    qualquer lugar às cópias de segurança das suas palavras-passe.
+cfr-whatsnew-lockwise-take-link-text = Obter a aplicação
 
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Obtenha este marcador no seu telemóvel
+cfr-doorhanger-sync-bookmarks-body = Leve os seus marcadores, palavras-passe, histórico e muito mais onde tiver a sessão iniciada no { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Ligue o { -sync-brand-short-name }
     .accesskey = L
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Nunca mais perca uma palavra-passe
+cfr-doorhanger-sync-logins-body = Armazene e sincronize com segurança as suas palavras-passe em todos os seus dispositivos.
+cfr-doorhanger-sync-logins-ok-button = Ativar o { -sync-brand-short-name }
+    .accesskey = t
 
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Leia isto em qualquer lugar
 cfr-doorhanger-send-tab-recipe-header = Leve esta receita para a cozinha
+cfr-doorhanger-send-tab-body = O Enviar separador permite-lhe partilhar facilmente esta ligação com o seu telefone ou em qualquer lugar em que tenha a sessão iniciada no { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Experimente o Send Tab
     .accesskey = t
 
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Partilhe este PDF com segurança
+cfr-doorhanger-firefox-send-body = Mantenha os seus documentos confidenciais seguros dos olhares indiscretos com encriptação ponta-a-ponta e uma ligação que desaparece quando terminar.
 cfr-doorhanger-firefox-send-ok-button = Experimente o { -send-brand-name }
     .accesskey = t
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Ver proteções
+    .accesskey = p
+cfr-doorhanger-socialtracking-close-button = Fechar
+    .accesskey = c
+cfr-doorhanger-socialtracking-heading = O { -brand-short-name } impediu que uma rede social o monitorizasse aqui
+cfr-doorhanger-socialtracking-description = A sua privacidade é importante. O { -brand-short-name } agora bloqueia os "trackers" mais comuns das redes sociais, limitando a quantidade de dados que estes podem recolher sobre o que faz on-line.
+cfr-doorhanger-fingerprinters-heading = O { -brand-short-name } bloqueou um identificador nesta página
+cfr-doorhanger-fingerprinters-description = A sua privacidade é importante. O { -brand-short-name } agora bloqueia identificadores, que recolhem partes de informação de identificação exclusiva sobre o seu dispositivo para o monitorizar.
+cfr-doorhanger-cryptominers-heading = O { -brand-short-name } bloqueou um cripto-minerador nesta página
+cfr-doorhanger-cryptominers-description = A sua privacidade é importante. O { -brand-short-name } agora bloqueia os cripto-mineradores, que utilizam o poder de computação do seu sistema para minerar dinheiro digital.
