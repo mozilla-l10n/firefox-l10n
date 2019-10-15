@@ -6,4 +6,4 @@
 ## Reader View
 
 # Announced by screen readers when Reader View is available for a page.
-reader-available-announcement = Läsvy tillgängligt
+reader-available-announcement = Läsvy tillgänglig
