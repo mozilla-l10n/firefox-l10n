@@ -111,7 +111,7 @@
 <!ENTITY changeSettings.label            "Nastajenja změnić">
 <!ENTITY changeSettings.accesskey        "N">
 
-<!ENTITY contactYourProvider.description "&brandShortName; móže wam zmóžnić, zo z pomocu podatych konfiguracjiow k swojej e-mejli dóńdźeće. Ale wy měł so ze swojim administratorom abo e-mejlowym poskićowarjom tutych njepřihódnych zwiskow dla do zwiska stajić. Hlejće huste prašenja za Thunderbird za dalše informacije.">
+<!ENTITY contactYourProvider.description "&brandShortName; móže wam zmóžnić, zo z pomocu podatych konfiguracjiow k swojej e-mejli dóńdźeće. Ale wy měł so ze swojim administratorom abo e-mejlowym poskićowarjom tutych njepřihódnych zwiskow dla do zwiska stajić. Hlejće HUP za Thunderbird za dalše informacije.">
 
 <!ENTITY insecureServer.tooltip.title    "Warnowanje! To je njewěsty serwer.">
 <!ENTITY insecureServer.tooltip.details  "Klikńće na kruh za dalše podrobnosće.">
