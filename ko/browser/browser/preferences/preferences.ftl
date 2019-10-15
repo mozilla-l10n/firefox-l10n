@@ -270,6 +270,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } 사용({ -brand-short-name })
@@ -508,6 +512,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = 주소창 결과의 방문 기록 앞에 검색 제안 보이기
+search-show-suggestions-private-windows =
+    .label = 사생활 보호 창에 검색 제안 표시
 suggestions-addressbar-settings = 방문 기록, 북마크 및 탭 제안에 대한 설정 변경
 search-suggestions-cant-show = 방문 기록을 기억하지 않도록 { -brand-short-name }를 구성했기 때문에 검색 제안이 주소창 결과에 표시되지 않습니다.
 search-one-click-header = 원클릭 검색 사이트

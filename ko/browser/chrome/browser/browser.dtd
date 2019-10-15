@@ -945,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "추적 콘텐츠">
 <!ENTITY protections.fingerprinters.label "핑거프린터">
 <!ENTITY protections.cryptominers.label "크립토마이너">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "보호 기능이 꺼져 있어 이 사이트의 모든 추적기가 로드되었습니다.">
 <!ENTITY protections.noTrackersFound.description "이 페이지에서 &brandShortName;에 알려진 추적기가 탐지되지 않았습니다.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "이러한 쿠키는 사용자가 온라인에서 수행하는 작업에 대한 데이터를 수집하기 위해 사이트 간에 사용자를 따라갑니다. 광고사나 분석 회사와 같은 제3자가 설정합니다.">

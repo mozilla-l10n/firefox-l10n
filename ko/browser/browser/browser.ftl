@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = 기본 검색 엔진으로 설정
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = 사생활 보호 창의 기본 검색 엔진으로 설정
+    .accesskey = P

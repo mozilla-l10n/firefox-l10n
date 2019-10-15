@@ -301,6 +301,8 @@ addon-options-button =
 
 report-addon-button = 신고하기
 remove-addon-button = 제거
+# The link will always be shown after the other text.
+remove-addon-disabled-button = 제거할 수 없음. <a data-l10n-name="link">이유?</a>
 disable-addon-button = 사용 안 함
 enable-addon-button = 사용함
 expand-addon-button = 옵션 더보기

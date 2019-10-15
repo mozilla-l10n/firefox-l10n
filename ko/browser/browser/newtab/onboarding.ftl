@@ -33,10 +33,20 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = 유효한 이메일이 필요합니다
 onboarding-join-form-legal = 계속 진행하면 <a data-l10n-name="terms">서비스 약관</a> 및 <a data-l10n-name="privacy">개인 정보 보호 정책</a>에 동의하게 됩니다.
 onboarding-join-form-continue = 계속
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = 계정이 이미 있습니까?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = 로그인
 onboarding-start-browsing-button-label = 브라우징 시작
 onboarding-cards-dismiss =
     .title = 닫기
     .aria-label = 닫기
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = 여러분이 할 수 있는 모든 것을 탐험해 봅시다.
+onboarding-fullpage-form-email =
+    .placeholder = 이메일 주소…
 
 ## Firefox Sync modal dialog strings.
 
@@ -103,6 +113,7 @@ onboarding-data-sync-text2 = { -brand-product-name }를 사용하는 모든 곳�
 onboarding-data-sync-button2 = { -sync-brand-short-name }에 로그인하기
 onboarding-firefox-monitor-title = 데이터 유출 알림
 onboarding-firefox-monitor-text = { -monitor-brand-name }는 데이터 유출 사건에 사용자의 이메일이 있는지를 모니터링하고 새 데이터 유출 사건에 있으면 사용자에게 알려 줍니다.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name }는 데이터 유출 사건에 사용자의 이메일이 있는지를 모니터링하고 새 데이터 유출 사건에 있으면 사용자에게 알려 줍니다.
 onboarding-firefox-monitor-button = 알림 가입 신청
 onboarding-browse-privately-title = 사생활 보호 모드
 onboarding-browse-privately-text = 사생활 보호 모드가 검색 및 방문 기록을 지우기 때문에 컴퓨터를 사용하는 모든 사람들이 개인 정보를 유지할 수 있습니다.
