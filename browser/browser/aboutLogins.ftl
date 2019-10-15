@@ -69,6 +69,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = 저장된 로그인을 찾으십니까? { -sync-brand-short-name }를 설정하십시오.
+about-logins-login-intro-heading-logged-in = 동기화된 로그인을 찾을 수 없습니다.
 login-intro-description = 다른 기기에 { -brand-product-name }의 로그인을 저장한 경우, 다음 방법을 참조하시기 바랍니다:
 login-intro-instruction-fxa = 로그인이 저장된 기기에서 { -fxaccount-brand-name }을 만들거나 로그인하십시오
 login-intro-instruction-fxa-settings = { -sync-brand-short-name } 설정에서 로그인 확인란을 선택했는지 확인하십시오
