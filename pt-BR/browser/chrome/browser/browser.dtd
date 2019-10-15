@@ -169,7 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.menu.signin.label "Entrar no &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Ativar o &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.firefoxServices.label "Serviços do &brandProductName;">
+<!ENTITY fxa.menu.firefoxServices.label "Serviços &brandProductName;">
 
 <!ENTITY fxa.menu.account.label "Conta">
 <!ENTITY fxa.menu.settings.label "Configurações">
