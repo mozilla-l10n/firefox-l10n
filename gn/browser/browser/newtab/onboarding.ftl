@@ -44,6 +44,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Eñepyrũ ehapereka opaite ejapokuaáva.
 onboarding-fullpage-form-email =
     .placeholder = Ne ñanduti veve…
 
@@ -112,6 +113,7 @@ onboarding-data-sync-text2 = Embojuehe nde rechaukaha, ñe’ẽñemi ha hetave 
 onboarding-data-sync-button2 = Emoñepyrũ tembiapo { -sync-brand-short-name } ndive
 onboarding-firefox-monitor-title = Ema’ẽ tapiáke mba’ekuaarã ñembogua rehe
 onboarding-firefox-monitor-text = { -monitor-brand-name } ohechajey ne ñandutiveve kundaharape osẽpa peteĩ mba’ekuaarã ñemboguapyre ha he’i ndéve osẽjeýramo.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } ohecha ne ñanduti vevépa oĩ peteĩ mba’ekuaarã ojekuaáva ñembyaípe ha ohechauka oĩtaramo ñembyai ipyahúva.
 onboarding-firefox-monitor-button = Eñemboheraguapy og̃uahẽ hag̃ua ndéve kehyjerã
 onboarding-browse-privately-title = Eikundaha ñemi
 onboarding-browse-privately-text = Pe kundaha ñemi ombogue umi jehekaha ha kundaha rembiasakue emoñemi hag̃ua oimeraẽva oipurúvagui mohendaha.

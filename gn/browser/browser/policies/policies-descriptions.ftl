@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = Ani eheja { -brand-short-name } omomba’apo ñem
 policy-DisableForgetButton = Ani eheja votõ Tesaráipe jeike.
 policy-DisableFormHistory = Ani nemandu’a jeheka ha tembiasakue myanyhẽha rehe.
 policy-DisableMasterPasswordCreation = Ojepurúramo "true", ndaikatúi emoheñói ñe'ëñemi ha'etéva.
+policy-DisablePasswordReveal = Ani emoneĩ ojehecha ñe’ẽñemi tembiapo ñepyrũ ñongatupyrépe.
 policy-DisablePocket = Eipe’a ñanduti renda ñeñongatu rembiapoite Pocket-pe.
 policy-DisablePrivateBrowsing = Eipe’a kundaha ñemigua.
 policy-DisableProfileImport = Eipe’a poravorã mbohapeha egueru hag̃ua mba’ekuaarã ambue kundaháragui.
@@ -61,6 +62,7 @@ policy-HardwareAcceleration = Japúramo, eipe’a hardware mbopya’eha.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Emopyenda ha ejoko ejaposẽramo kuatiarogue ñepyrũha.
 policy-InstallAddonsPermission = Emoneĩ ndahetái ñanduti rendápe omboguejývo moimbaha.
+policy-LegacyProfiles = Eipe’a tembiapoite omoĩva mba’ete mombyryguáva emohendakuévo
 policy-LocalFileLinks = Emoneĩ ñanduti renda moha’eñopyrépe ojuajúvo marandurenda pypeguáva.
 policy-NetworkPrediction = Embojuruja térã eipe’a ñanduti kuaapy (DNS oheka mboyve).
 policy-NewTabPage = Emyandy ha embogue kuatiarogue Tendayke Pyahu.
