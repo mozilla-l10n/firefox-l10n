@@ -48,6 +48,7 @@
 <!ENTITY centerPopup.value "In centro">
 
 <!-- These controls are in the Spacing Box -->
+<!ENTITY spacingBox.label "Spatiamento">
 <!ENTITY topBottomEditField.label "Culmine e pede">
 <!ENTITY topBottomEditField.accessKey "C">
 

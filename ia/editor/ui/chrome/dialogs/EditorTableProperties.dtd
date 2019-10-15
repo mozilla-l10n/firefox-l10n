@@ -18,6 +18,8 @@
 <!ENTITY tableWidth.accessKey             "L">
 <!ENTITY tableBorderWidth.label           "Bordo:">
 <!ENTITY tableBorderWidth.accessKey       "B">
+<!ENTITY tableSpacing.label               "Spatiamento:">
+<!ENTITY tableSpacing.accessKey           "S">
 <!ENTITY tableCaption.label               "Legenda:">
 <!ENTITY tableCaption.accessKey           "L">
 <!ENTITY tableCaptionAbove.label          "Supra del tabella">

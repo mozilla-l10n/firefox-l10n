@@ -18,6 +18,7 @@
 <!ENTITY image.value "Imagine">
 <!ENTITY button.value "Button">
 
+<!ENTITY InputSettings.label "Parametros del campo">
 <!ENTITY InputName.label "Nomine del campo:">
 <!ENTITY InputName.accesskey "N">
 <!ENTITY GroupName.label "Nomine del gruppo:">
@@ -42,4 +43,8 @@
 <!ENTITY TextLength.accesskey "L">
 <!ENTITY AccessKey.label "Clave de accesso:">
 <!ENTITY AccessKey.accesskey "C">
+<!ENTITY Accept.label "Acceptar le Typos:">
+<!ENTITY Accept.accesskey "A">
 
+<!ENTITY ImageProperties.label "Proprietates del imagine…">
+<!ENTITY ImageProperties.accesskey "E">

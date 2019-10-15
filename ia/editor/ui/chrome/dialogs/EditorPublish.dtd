@@ -15,8 +15,14 @@
 <!ENTITY newSiteButton.accesskey      "N">
 <!ENTITY sameLocationRadio.label      "Utilisar le mesme adresse que le pagina">
 <!ENTITY sameLocationRadio.accesskey  "U">
+<!ENTITY useSubdirRadio.label         "Utilisar iste sub-plica:">
+<!ENTITY useSubdirRadio.accesskey     "p">
 <!ENTITY pageTitle.label              "Titulo del pagina:">
 <!ENTITY pageTitle.accesskey          "T">
+<!ENTITY filename.label               "Nomine del file:">
+<!ENTITY filename.accesskey           "F">
+<!ENTITY setDefaultButton.label       "Stabilir como predeterminate">
+<!ENTITY setDefaultButton.accesskey   "d">
 <!ENTITY removeButton.label           "Remover le sito">
 <!ENTITY removeButton.accesskey       "R">
 
