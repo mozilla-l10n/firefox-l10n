@@ -21,21 +21,22 @@
 <!ENTITY firstrun_data_message "Mjenje datow, wjace zalutowanjow">
 <!ENTITY firstrun_data_subtext2 "Blokujće wobrazy, zo byšće mjenje datow na kóždym sydłe, kotrež wopytujeće, přetrjebował.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message3 "Synchronizujće swoje zapołožki, historiju a hesła na swojim telefonje.">
 <!ENTITY updatednewfirstrun_sync_title "Konto">
 <!ENTITY firstrun_sync_message2 "Čińće tam dale, hdźež sće přestał.">
-<!ENTITY firstrun_sync_message3 "Synchronizujće swoje zapołožki, historiju a hesła na swojim telefonje.">
 <!ENTITY firstrun_sync_subtext2 "Wužiwajće Sync, zo byšće zapołožki, hesła a druhe wěcy namakał, kotrež w &brandShortName; na wšěch swojich gratach składujeće.">
 <!ENTITY newfirstrun_sync_subtext "Synchronizujće informacije, kotrež na mobilnym graće składujeće, z Firefox za desktop, priwatnje a wěsće.">
-<!ENTITY updatednewfirstrun_sync_subtext "Přizjewće so pola swojeho konta, zo byšće najlěpše z &brandShortName; wućahnył">
-<!ENTITY firstrun_signin_message "Zwjazajće so, započńće">
 <!ENTITY firstrun_sendtab_title "Rajtark słać">
 <!ENTITY firstrun_sendtab_message "Dźělće rajtarki mobilneho telefona z desktopom - hnydom.">
+<!ENTITY updatednewfirstrun_sync_subtext "Přizjewće so pola swojeho konta, zo byšće najlěpše z &brandShortName; wućahnył">
+<!ENTITY firstrun_signin_message "Zwjazajće so, započńće">
 <!ENTITY firstrun_signin_button "Pola Sync přizjewić">
 <!ENTITY newfirstrun_signin_button "Synchronizaciju zapinać">
 <!ENTITY updatednewfirstrun_signin_button "Pola &brandShortName; přizjewić">
-<!ENTITY onboard_start_button_browser "Přehladowanje startować">
+<!ENTITY  onboard_start_button_browser "Přehladowanje startować">
 <!ENTITY firstrun_button_notnow "Nic hnydom">
 <!ENTITY firstrun_button_next "Přichodny">
+<!ENTITY firstrun_signup_button "Registrować">
 
 <!ENTITY firstrun_signin_button2 "Přizjewić">
 
@@ -49,8 +50,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Wy">
 <!ENTITY firstrun_account_message "Maće &brandShortName; na druhim graće?">
-
-<!ENTITY firstrun_signup_button "Registrować">
 
 <!ENTITY  onboard_start_restricted1 "Wostańće dale wěsty a mějće dale kontrolu z tutej zjednorjenej wersiju &brandShortName;.">
 
@@ -216,7 +215,7 @@
 <!ENTITY pref_category_privacy_short "Priwatnosć">
 <!ENTITY pref_category_privacy_summary4 "Slědowanje, přizjewjenja, datowe wuběry">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "Wo &brandShortName;, huste prašenja, komentary">
+<!ENTITY pref_category_vendor_summary2 "Wo &brandShortName;, husto stajene prašenja, komentary">
 <!ENTITY pref_category_datareporting "Datowe wuběry">
 <!ENTITY pref_category_logins "Přizjewjenja">
 <!ENTITY pref_learn_more "Dalše informacije">
@@ -433,7 +432,7 @@ shown from Android O while a tab is being queued.-->
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Podótkńće so nałoženja wobhladowaka a wubjerće &brandShortName;">
 <!ENTITY pref_about_firefox "Wo &brandShortName;">
-<!ENTITY pref_vendor_faqs "Huste prašenja">
+<!ENTITY pref_vendor_faqs "Huste stajene prašenja">
 <!ENTITY pref_vendor_feedback "Komentar pisać">
 
 <!ENTITY pref_dialog_set_default "Jako standard wužiwać">
@@ -696,7 +695,6 @@ shown from Android O while a tab is being queued.-->
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Sće zwjazany z">
-
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -884,17 +882,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Składujće zapiski čitanskeho napohlada jako zapołožki, zo byšće je offline čitał.">
 <!ENTITY helper_triple_readerview_open_button "K zapołožkam přidać">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
-activity_stream_signin_prompt, activity_stream_signin_prompt_button):
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Witajće k &brandShortName;">
 <!ENTITY activity_stream_signin_description "Synchronizujće nětko zapołožki, hesła a wjace ze swojim kontom Firefox.">
-<!ENTITY activity_stream_signin_button "Přizjewić">
-
 <!ENTITY activity_stream_signup_button "Registrować">
 <!ENTITY activity_stream_signin_prompt "Maće hižo konto?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Přizjewće so.">
+
+<!ENTITY activity_stream_signin_button "Přizjewić">
 
 <!ENTITY activity_stream_topsites "Najhusćišo wopytane sydła">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
