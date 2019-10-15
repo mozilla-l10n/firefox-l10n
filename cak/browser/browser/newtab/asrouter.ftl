@@ -78,6 +78,9 @@ cfr-protections-panel-link-text = Tetamäx ch'aqa' chik
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = K'ak'a' samaj:
 cfr-whatsnew-button =
     .label = K'ak'a' Rutzijol
     .tooltiptext = K'ak'a' Rutzijol

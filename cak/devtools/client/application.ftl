@@ -93,6 +93,10 @@ manifest-non-existing = Majun rutzijoxik xilitäj richin ninik'öx.
 # Text displayed when the page has a manifest embedded in a Data URL and
 # thus we cannot link to it.
 manifest-json-link-data-url = Ri tzijoxik k'o pa jun URL richin tzij.
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Wachib'äl
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Rutzijoxik
     .alt = Ruwachib'al rutzijoxik

@@ -33,10 +33,19 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Ütz taqoya'l najowäx
 onboarding-join-form-legal = Pa rub'eyal, rat nawojqaj ri <a data-l10n-name="terms">Rojqanem Samaj</a> chuqa' <a data-l10n-name="privacy">Rutzijol Ichinanem</a>.
 onboarding-join-form-continue = Titikïr chik el
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = ¿La k'o chik jun rub'i' ataqoya'l?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Titikirisäx Molojri'ïl
 onboarding-start-browsing-button-label = Tichap Okem Pa K'amaya'l
 onboarding-cards-dismiss =
     .title = Tichup ruwäch
     .aria-label = Tichup ruwäch
+
+## Welcome full page string
+
+onboarding-fullpage-form-email =
+    .placeholder = Rochochib'al ataqoya'l…
 
 ## Firefox Sync modal dialog strings.
 
@@ -103,6 +112,7 @@ onboarding-data-sync-text2 = Ke'axima' ri taq ayaketal, ewan taq atzij chuqa' ch
 onboarding-data-sync-button2 = Titikirisäx molojri'ïl pa { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Ke'atz'eta' ri Kitzijol Kitz'ilanik Tzij
 onboarding-firefox-monitor-text = { -monitor-brand-name } tanik'oj we ri rub'i' ataqoya'l k'o pa jun kitz'ilanik tzij chuqa' nuya' rutzijol we k'o pa jun k'ak'a' tz'ilanem.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } tanik'oj we ri rub'i' ataqoya'l k'o pa jun kitz'ilanik tzij etaman ruwäch chuqa' nuya' rutzijol we k'o pa jun k'ak'a' tz'ilanem.
 onboarding-firefox-monitor-button = Tatz'ib'aj ab'i' richin ye'akül taq Rutzijol K'ayewal
 onboarding-browse-privately-title = Richinanem Okik'amaya'l
 onboarding-browse-privately-text = Ri Ichinan Okik'amaya'l nuyüj ri taq kanoxïk chuqa' ri runatab'al okem pa k'amaya'l richin chi ewäl chuwäch xab'achike winäq nrokisaj ri kematz'ib'.
