@@ -33,10 +33,19 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Патрабуецца сапраўдны адрас эл.пошты
 onboarding-join-form-legal = Працягваючы, вы згаджаецеся з <a data-l10n-name="terms">Умовамі абслугоўвання</a> і <a data-l10n-name="privacy">Палітыкай прыватнасці</a>.
 onboarding-join-form-continue = Працягнуць
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Ужо маеце ўліковы запіс?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Увайсці
 onboarding-start-browsing-button-label = Пачаць агляданне
 onboarding-cards-dismiss =
     .title = Адхіліць
     .aria-label = Адхіліць
+
+## Welcome full page string
+
+onboarding-fullpage-form-email =
+    .placeholder = Адрас вашай эл.пошты…
 
 ## Firefox Sync modal dialog strings.
 
@@ -103,6 +112,7 @@ onboarding-data-sync-text2 = Сінхранізуйце закладкі, пар
 onboarding-data-sync-button2 = Увайсці ў { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Падпішыцеся на абвесткі аб уцечках дадзеных
 onboarding-firefox-monitor-text = { -monitor-brand-name } кантралюе, ці прысутнічае ваша эл.пошта ва ўцечцы дадзеных і папярэджвае, калі яна з'явіцца ў новай уцечцы.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } кантралюе, ці прысутнічае ваша эл.пошта ў вядомых уцечках дадзеных і папярэджвае, калі яна з'явіцца ў новай уцечцы.
 onboarding-firefox-monitor-button = Падпісацца на абвестку
 onboarding-browse-privately-title = Аглядайце прыватна
 onboarding-browse-privately-text = Прыватнае агляданне ачышчае вашу гісторыю пошуку і аглядання, каб захаваць яе ў сакрэце ад усіх, хто карыстаецца вашым камп'ютарам.
