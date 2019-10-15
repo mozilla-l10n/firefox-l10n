@@ -59,6 +59,13 @@ page-action-remove-from-urlbar =
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = Skjul værktøjslinjer
+    .accesskey = S
+full-screen-exit =
+    .label = Afslut fuld skærm
+    .accesskey = A
+
 
 ## Search Engine selection buttons (one-offs)
 
@@ -77,3 +84,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Sæt som standard-søgemaskine
     .accesskey = s
+search-one-offs-context-set-as-default-private =
+    .label = Sæt som standard-søgemaskine i private vinduer
+    .accesskey = p

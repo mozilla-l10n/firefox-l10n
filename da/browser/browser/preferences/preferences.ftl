@@ -281,6 +281,12 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -457,7 +463,6 @@ choose-bookmark =
 
 home-prefs-content-header = Indhold på Firefox' startside
 home-prefs-content-description = Vælg det indhold, du vil have vist på din startside i Firefox.
-home-prefs-content-discovery-description = Funktionen Opdag indhold på Firefox' startside viser dig relevante artikler af høj kvalitet fra nettet.
 home-prefs-search-header =
     .label = Søgning på internettet
 home-prefs-topsites-header =
@@ -527,6 +532,9 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Vis søgeforslag før resultater fra min browserhistorik i adressefeltet
+
+search-show-suggestions-private-windows =
+    .label = Vis søgeforslag i private vinduer
 
 suggestions-addressbar-settings = Skift indstillinger for søgeforslag fra browserhistorik, bogmærker og åbne faneblade.
 
@@ -645,6 +653,11 @@ sync-currently-syncing-prefs =
         [windows] Indstillinger
        *[other] Indstillinger
     }
+
+
+sync-change-options =
+    .label = Skift…
+    .accesskey = S
 
 ## The "Choose what to sync" dialog.
 
