@@ -857,7 +857,7 @@ addressbar-suggestions-settings = Alterar preferências para as sugestões dos m
 content-blocking-header = Bloqueio de conteúdo
 content-blocking-section-description = Proteja a sua privacidade enquanto navega. Bloqueie conteúdo invisível que monitoriza os sites que visita e lhe perfila. Bloquear parte deste conteúdo pode fazer com que as páginas carreguem mais rapidamente.
 content-blocking-enhanced-tracking-protection = Proteção melhorada contra a monitorização
-content-blocking-section-top-level-description = Os rastreadores seguem-no na Internet para recolher informação sobre os seus hábitos e interesses de navegação. O { -brand-short-name } bloqueia muitos destes rastreadores e outros blocos de código maliciosos.
+content-blocking-section-top-level-description = Os rastreadores seguem-no na Internet para recolher informação sobre os seus hábitos e interesses de navegação. O { -brand-short-name } bloqueia muitos destes rastreadores e outros scripts maliciosos.
 content-blocking-learn-more = Saber mais
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -895,9 +895,13 @@ enhanced-tracking-protection-setting-custom =
 content-blocking-etp-standard-desc = Balanceado para proteção e desempenho. As páginas serão carregadas normalmente.
 content-blocking-etp-strict-desc = Proteção mais forte, mas pode causar problemas em alguns sites ou conteúdos.
 content-blocking-etp-custom-desc = Escolha quais os rastreadores e scripts a bloquear.
+content-blocking-private-windows = Conteúdo de monitorização nas janelas privadas
+content-blocking-cross-site-tracking-cookies = Cookies de monitorização inter-sites
+content-blocking-social-media-trackers = Rastreadores de redes sociais
 content-blocking-all-cookies = Todos os cookies
 content-blocking-unvisited-cookies = Cookies de sites não visitados
 content-blocking-all-windows-trackers = Trackers conhecidos em todas as janelas
+content-blocking-all-windows-tracking-content = Conteúdo de monitorização em todas as janelas
 content-blocking-all-third-party-cookies = Todos os cookies de terceiros
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
