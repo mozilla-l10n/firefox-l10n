@@ -86,6 +86,22 @@ newtab-menu-save-to-pocket = Gem til { -pocket-brand-name }
 newtab-menu-delete-pocket = Slet fra { -pocket-brand-name }
 newtab-menu-archive-pocket = Arkiver i { -pocket-brand-name }
 
+newtab-menu-show-privacy-info = Vores sponsorer og dit privatliv
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Færdig
+newtab-privacy-modal-header = Du har ret til et privatliv
+newtab-privacy-modal-paragraph =
+    Udover at servere fængslende historier viser vi dig også relevant
+    og grundigt undersøgt indhold fra udvalgte sponsorer. Du kan være 
+    sikker på, at dine data aldrig kommer videre end den version af 
+    { -brand-product-name }, du har på din computer — Vi ser ikke dine data, 
+    og det gør vores sponsorer heller ikke.
+newtab-privacy-modal-link = Læs mere om, hvordan sikring af dit privatlive fungerer i nyt faneblad
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Fjern bogmærke
 # Bookmark is a verb here.

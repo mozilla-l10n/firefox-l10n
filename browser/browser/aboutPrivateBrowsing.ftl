@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Læs mere om <a data-l10n-name="learn-more">privat browsing</a>.
 about-private-browsing-info-visited = besøgte sider
+
 privatebrowsingpage-open-private-window-label = Åbn et privat vindue
     .accesskey = p
 about-private-browsing-info-notsaved = Når du browser i et privat vindue gemmer <strong>{ -brand-short-name } ikke</strong>:
@@ -26,3 +27,16 @@ about-private-browsing-not-private = Du befinder dig ikke i et privat vindue.
 content-blocking-title = Blokering af indhold
 content-blocking-description = Nogle websteder benytter teknologi, der kan overvåge din aktivitet på internettet. I private vinduer blokerer { -brand-short-name } automatisk mange af de sporings-tjenester, der kan indsamle information om din aktivitet på nettet.
 about-private-browsing-info-description = { -brand-short-name } rydder din søge- og browsing-historik, når du afslutter programmet eller når du lukker alle private faneblade og vinduer. Dette gør det nemmere at holde din gøren og laden på nettet for dig selv, hvis andre bruger den samme computer. Websteder og din internetudbyder kan dog stadig finde ud af, hvad du foretager dig.
+
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } is your default search engine in Private Windows
+about-private-browsing-search-banner-description = {
+  PLATFORM() ->
+     [windows] Vælg en anden søgetjeneste ved at gå til <a data-l10n-name="link-options">indstillinger</a>
+    *[other] Vælg en anden søgetjeneste ved at gå til <a data-l10n-name="link-options">indstillinger</a>
+  }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Luk

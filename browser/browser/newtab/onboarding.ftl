@@ -2,11 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### UI strings for the simplified onboarding modal / about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
-
 
 ## These button action text can be split onto multiple lines, so use explicit
 ## newlines in translations to control where the line break appears (e.g., to
@@ -21,6 +19,13 @@ onboarding-button-label-get-started = Kom i gang
 onboarding-welcome-header = Velkommen til { -brand-short-name }
 onboarding-welcome-body = Browseren har du allerede.<br/>Mød resten af { -brand-product-name }.
 onboarding-welcome-learn-more = Læs mere om fordelene.
+
+onboarding-welcome-modal-get-body = Browseren har du allerede.<br/> Få resten af fordelene ved { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Få fuld kontrol over beskyttelse af dit privatliv.
+onboarding-welcome-modal-privacy-body = Browseren har du allerede. Lad os få styr på beskyttelse af dit privatliv.
+onboarding-welcome-modal-family-learn-more = Læs mere om resten af produkterne fra { -brand-product-name }.
+onboarding-welcome-form-header = Start Here
+
 onboarding-join-form-header = Slut dig til { -brand-product-name }
 onboarding-join-form-body = Indtast din mailadresse for at komme i gang.
 onboarding-join-form-email =
@@ -28,10 +33,23 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = En gyldig mailadresse kræves
 onboarding-join-form-legal = Ved at fortsætte accepterer du vores <a data-l10n-name="terms">tjenestevilkår</a> og vores <a data-l10n-name="privacy">privatlivspolitik</a>.
 onboarding-join-form-continue = Fortsæt
+
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Har du allerede en konto?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Log ind
+
 onboarding-start-browsing-button-label = Kom i gang
+
 onboarding-cards-dismiss =
     .title = Afvis
     .aria-label = Afvis
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Lad os komme i gang med at undersøge alle dine muligheder.
+onboarding-fullpage-form-email =
+    .placeholder = Din mailadresse…
 
 ## Firefox Sync modal dialog strings.
 
@@ -40,8 +58,10 @@ onboarding-sync-welcome-content = Få adgang til din historik, dine bogmærker, 
 onboarding-sync-welcome-learn-more-link = Læs mere om Firefox-konti
 onboarding-sync-form-invalid-input = En gyldig mailadresse er påkrævet
 onboarding-sync-legal-notice = Ved at fortsætte accepterer du vores <a data-l10n-name="terms">tjenestevilkår</a> og vores <a data-l10n-name="privacy">privatlivspolitik</a>.
+
 onboarding-sync-form-input =
     .placeholder = Mailadresse
+
 onboarding-sync-form-continue-button = Fortsæt
 onboarding-sync-form-skip-login-button = Spring dette trin over
 
@@ -55,8 +75,10 @@ onboarding-sync-form-sub-header = for at fortsætte til { -sync-brand-name }.
 
 onboarding-benefit-products-title = Nyttige produkter
 onboarding-benefit-products-text = Få tingene gjort med en familie af værktøj, der respekterer dit privatliv på alle dine enheder.
+
 onboarding-benefit-knowledge-title = Praktisk viden
 onboarding-benefit-knowledge-text = Lær alt, du skal vide for at have en bedre og mere sikker oplevelse på nettet.
+
 onboarding-benefit-privacy-title = Dit privatliv, din sag
 # "Personal Data Promise" is a concept that should be translated consistently
 # across the product. It refers to a concept shown elsewhere to the user: "The
@@ -64,6 +86,15 @@ onboarding-benefit-privacy-title = Dit privatliv, din sag
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Vi overholder vores løfte om private data i alt, vi gør: Gem mindre. Beskyt alt. Ingen hemmeligheder.
+
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Tag dine bogmærker, adgangskoder, din historik og meget mere med dig på alle dine enheder med { -brand-product-name }.
+
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Get notified when your personal info is in a known data breach.
+
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Manage passwords that are protected and portable.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -92,6 +123,7 @@ onboarding-data-sync-text2 = Synkroniser dine bogmærker, adgangskoder og meget 
 onboarding-data-sync-button2 = Log in på { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Hold øje med datalæk
 onboarding-firefox-monitor-text = { -monitor-brand-name } holder styr på, om din mailadresse har været ramt af datalæk - og giver dig besked, hvis du bliver ramt af nye datalæk.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } holder styr på, om din mailadresse har været ramt af datalæk - og giver dig besked, hvis du bliver ramt af nye datalæk.
 onboarding-firefox-monitor-button = Tilmeld dig advarsler
 onboarding-browse-privately-title = Privat browsing
 onboarding-browse-privately-text = Privat browsing sletter din søge- og browsing-historik for at holde den hemmelig fra andre, der bruger din computer.

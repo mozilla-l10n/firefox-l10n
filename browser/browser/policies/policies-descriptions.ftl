@@ -54,6 +54,8 @@ policy-DisableFormHistory = Husk ikke formular- og søgehistorik.
 
 policy-DisableMasterPasswordCreation = En hovedadgangskode kan ikke oprettes, hvis sat til true.
 
+policy-DisablePasswordReveal = Tillad ikke adgangskoder at blive vist i gemte logins.
+
 policy-DisablePocket = Deaktiver funktionen at gemme websider til Pocket.
 
 policy-DisablePrivateBrowsing = Deaktiver privat browsing.
@@ -104,6 +106,8 @@ policy-HardwareAcceleration = False slår hardware-acceleration fra.
 policy-Homepage = Indstil og lås eventuelt startsiden.
 
 policy-InstallAddonsPermission = Tillad bestemte websteder at installere tilføjelser.
+
+policy-LegacyProfiles = Deaktiver funktionen, der gennemtvinger at hver installation har en separat profil.
 
 policy-LocalFileLinks = Tillad specifikke websteder at linke til lokale filer.
 
