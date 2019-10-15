@@ -3,22 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Wó &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; jo eksperimentelny a móžo njestabilny byś.">
-<!ENTITY aboutPage.telemetryStart               " Sćelo awtomatiski informacije wó wugbaśu, hardwarje, wužywanju a pśiměrjenjach slědk na ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 ", aby &brandShortName; pólěpšył.">
 <!ENTITY aboutPage.checkForUpdates.link         "Aktualizacije pytaś »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Aktualizacije se pytaju…">
 <!ENTITY aboutPage.checkForUpdates.none         "Aktualizacije njestoje k dispoziciji">
 <!ENTITY aboutPage.checkForUpdates.available2   "Aktualizaciju ześěgnuś">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Aktualizacija se ześěgujo…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Aktualizaciju instalěrowaś">
-<!ENTITY aboutPage.faq.label                    "Ceste pšašanja">
+<!ENTITY aboutPage.faq.label                    "CSP">
 <!ENTITY aboutPage.support.label                "Pódpěra">
 <!ENTITY aboutPage.privacyPolicy.label          "Pšawidła priwatnosći">
 <!ENTITY aboutPage.rights.label                 "Wó wašych pšawach">
 <!ENTITY aboutPage.relNotes.label               "Wersijowe informacije">
 <!ENTITY aboutPage.credits.label                "Źěkowanje">
 <!ENTITY aboutPage.license.label                "Licencne informacije">
-<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 <!ENTITY aboutPage.logoTrademark                "Firefox a loga Firefox su wikowe marki załožby Mozilla Foundation.">
