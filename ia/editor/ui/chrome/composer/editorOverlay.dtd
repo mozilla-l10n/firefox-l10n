@@ -93,6 +93,8 @@
 <!ENTITY styleUnderlineCmd.label "Sublinear">
 <!ENTITY styleUnderlineCmd.accesskey "S">
 <!ENTITY styleUnderlineCmd.key "U">
+<!ENTITY styleSubscriptCmd.label "Subscripte">
+<!ENTITY styleSubscriptCmd.accesskey "S">
 <!ENTITY styleEm.label "Emphase">
 <!ENTITY styleEm.accesskey "E">
 <!ENTITY styleStrong.label "Emphase plus forte">
@@ -167,6 +169,8 @@
 <!ENTITY alignRight.label "Dextera">
 <!ENTITY alignRight.accesskey "D">
 <!ENTITY alignRight.tooltip "Alinear a dextra">
+<!ENTITY alignJustify.label "Justificar">
+<!ENTITY alignJustify.accesskey "J">
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Strato">

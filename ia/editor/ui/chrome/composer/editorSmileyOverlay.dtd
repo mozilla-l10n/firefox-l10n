@@ -20,3 +20,9 @@
 <!ENTITY smiley6Cmd.label "Embarassate">
 <!ENTITY smiley6Cmd.accesskey "E">
 <!ENTITY smiley6Cmd.tooltip "Inserer un facie embarassate">
+<!ENTITY smiley7Cmd.label "Indecise">
+<!ENTITY smiley7Cmd.accesskey "I">
+<!ENTITY smiley7Cmd.tooltip "Inserer un facie indecise">
+<!ENTITY smiley8Cmd.label "Surprisa">
+<!ENTITY smiley8Cmd.accesskey "p">
+<!ENTITY smiley8Cmd.tooltip "Inserer un facie surprendite">
