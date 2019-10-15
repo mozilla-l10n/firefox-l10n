@@ -454,7 +454,6 @@ choose-bookmark =
 
 home-prefs-content-header = Pagina iniziale di Firefox
 home-prefs-content-description = Scegli i contenuti da visualizzare nella pagina iniziale di Firefox.
-home-prefs-content-discovery-description = La ricerca di nuovi contenuti nella pagina iniziale di Firefox permette di scoprire letture rilevanti e di alta qualità da tutto il Web.
 home-prefs-search-header =
     .label = Ricerca sul Web
 home-prefs-topsites-header =
