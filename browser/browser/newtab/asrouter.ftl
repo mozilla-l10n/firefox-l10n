@@ -157,3 +157,12 @@ cfr-doorhanger-cryptominers-description = La tua privacy è importante. Adesso {
 cfr-protections-panel-header = Naviga senza lasciarti seguire
 cfr-protections-panel-body = Mantieni i tuoi dati al riparo da occhi indiscreti. { -brand-short-name } ti protegge dagli elementi traccianti più comuni che cercano di seguire le tue attività online.
 cfr-protections-panel-link-text = Ulteriori informazioni
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading = { -brand-short-name } ha bloccato oltre <b>{ $blockedCount }</b> elementi traccianti dal { $date }!
+cfr-doorhanger-milestone-ok-button = Visualizza tutto
+  .accesskey = V
