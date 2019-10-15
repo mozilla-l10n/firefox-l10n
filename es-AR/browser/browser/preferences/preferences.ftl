@@ -461,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Contenido de la página de inicio de Firefox
 home-prefs-content-description = Elija qué contenido desea en la Pantalla de inicio de Firefox.
-home-prefs-content-discovery-description = Content Discovery en la página de inicio de Firefox le permite descubrir artículos relevantes de alta calidad en toda la web.
 home-prefs-search-header =
     .label = Búsqueda en la web
 home-prefs-topsites-header =
@@ -528,6 +527,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Mostrar sugerencias de búsqueda antes que el historial en los resultados de la barra de direcciones
+search-show-suggestions-private-windows =
+    .label = Mostrar sugerencias de búsqueda en pestañas privadas
 suggestions-addressbar-settings = Cambiar las preferencias para el historial de navegación, marcadores y sugerencias de pestañas
 search-suggestions-cant-show = Las sugerencias de búsqueda no se mostrarán en la barra de direcciones porque ha configurado { -brand-short-name } para que nunca recuerde el historial.
 search-one-click-header = Buscadores con un clic

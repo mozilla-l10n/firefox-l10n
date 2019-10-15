@@ -113,6 +113,7 @@ onboarding-data-sync-text2 = Sincronice sus marcadores, contraseñas y mucho má
 onboarding-data-sync-button2 = Ingresar a { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Manténgase alerta a las violaciones de datos
 onboarding-firefox-monitor-text = { -monitor-brand-name } controla si su dirección de correo apareció  en una violación de datos y le avisa si vuelve a aparecer en una nueva violación.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } controla si su dirección de correo apareció en una violación de datos y le avisa si aparece en una nueva violación.
 onboarding-firefox-monitor-button = Registrarse para recibir alertas
 onboarding-browse-privately-title = Navegación privada
 onboarding-browse-privately-text = La navegación privada borra las búsquedas y el historial de navegación para mantenerlo en secreto para cualquier persona que use la computadora.
