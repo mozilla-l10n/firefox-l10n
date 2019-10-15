@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY generalInfo.label                       "Informationes general">
+
+<!ENTITY message.label "messages">
+
+
+
+
+
+
+<!ENTITY folderQuotaUsage.label                  "Uso:">
+<!ENTITY folderQuotaStatus.label                 "Stato:">
+
+<!ENTITY numberOfMessages.label                  "Numero de messages:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "incognite">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
