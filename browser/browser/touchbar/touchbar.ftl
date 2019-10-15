@@ -19,3 +19,19 @@ open-location = 검색어 또는 주소 입력
 share = 공유
 close-window = 창 닫기
 open-sidebar = 탐색창
+# This string describes shortcuts for search.
+search-popover = 검색 단축키
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = 검색 범위:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = 북마크
+search-history = 방문 기록
+search-opentabs = 열린 탭
+search-tags = 태그
+search-titles = 제목
+
+
+

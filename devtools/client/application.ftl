@@ -93,6 +93,20 @@ manifest-non-existing = 검사할 매니페스트가 없습니다.
 # Text displayed when the page has a manifest embedded in a Data URL and
 # thus we cannot link to it.
 manifest-json-link-data-url = 매니페스트는 데이터 URL에 포함됩니다.
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = 용도: <code> { $purpose } </code>
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = 아이콘
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = 아이콘 크기: { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = 크기가 지정안된 아이콘
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = 매니페스트
     .alt = 매니페스트 아이콘
