@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Começar
 onboarding-welcome-header = Bem-vindo(a) ao { -brand-short-name }
 onboarding-welcome-body = Já tem o navegador.<br/>Conheça o resto do { -brand-product-name }.
 onboarding-welcome-learn-more = Saiba mais acerca dos benefícios.
+onboarding-welcome-modal-get-body = Já tem o navegador.<br/>Agora tire o máximo proveito do { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Melhore a sua proteção da privacidade.
+onboarding-welcome-modal-privacy-body = Já tem o navegador. Vamos adicionar mais proteção à privacidade.
+onboarding-welcome-modal-family-learn-more = Saber mais sobre a família de produtos do { -brand-product-name }.
+onboarding-welcome-form-header = Comece aqui
 onboarding-join-form-header = Junte-se ao { -brand-product-name }
 onboarding-join-form-body = Introduza o seu endereço de email para começar.
 onboarding-join-form-email =
@@ -32,6 +37,9 @@ onboarding-start-browsing-button-label = Começar a navegar
 onboarding-cards-dismiss =
     .title = Dispensar
     .aria-label = Dispensar
+
+## Welcome full page string
+
 
 ## Firefox Sync modal dialog strings.
 
@@ -64,6 +72,12 @@ onboarding-benefit-privacy-title = Privacidade verdadeira
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Tudo o que fazemos honra a nossa Promessa de Dados Pessoais: Recolher menos. Mantê-los seguros. Sem segredos.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Leve os seus marcadores, palavras-passe, histórico e muito mais para qualquer lugar onde utilize o { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Seja notificado quando a sua informação pessoal estiver numa violação de dados conhecida.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Faça a gestão de palavras-passe que estão protegidas e portáteis.
 
 ## These strings belong to the individual onboarding messages.
 
