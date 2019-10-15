@@ -70,18 +70,32 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Botão de fecho
     .title = Fechar
 
+## Protections panel
+
+cfr-protections-panel-header = Navegue sem ser seguido
+cfr-protections-panel-body = Guarde os seus dados para si. O { -brand-short-name } protege-o de muitos dos rastreadores mais comuns que monitorizam o que faz na Internet.
+cfr-protections-panel-link-text = Saber mais
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
     .label = Novidades
     .tooltiptext = Novidades
 cfr-whatsnew-panel-header = Novidades
+cfr-whatsnew-release-notes-link-text = Leia as notas de lançamento
+cfr-whatsnew-fx70-title = O { -brand-short-name } agora luta mais pela sua privacidade
+cfr-whatsnew-fx70-body =
+    A atualização mais recente melhora a funcionalidade de Proteção contra a monitorização e torna
+    mais fácil do que nunca a criação de palavras-passe seguras para cada site.
 
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Obtenha este marcador no seu telemóvel
 cfr-doorhanger-sync-bookmarks-ok-button = Ligue o { -sync-brand-short-name }
     .accesskey = L
+
+## Login Sync
+
 
 ## Send Tab
 
@@ -95,3 +109,6 @@ cfr-doorhanger-send-tab-ok-button = Experimente o Send Tab
 cfr-doorhanger-firefox-send-header = Partilhe este PDF com segurança
 cfr-doorhanger-firefox-send-ok-button = Experimente o { -send-brand-name }
     .accesskey = t
+
+## Social Tracking Protection
+
