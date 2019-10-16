@@ -19,3 +19,19 @@ open-location = Tìm kiếm hoặc nhập địa chỉ
 share = Chia sẻ
 close-window = Đóng cửa sổ
 open-sidebar = Thanh bên
+# This string describes shortcuts for search.
+search-popover = Phím tắt tìm kiếm
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Tìm kiếm trong:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = Trang đánh dấu
+search-history = Lịch sử
+search-opentabs = Thẻ đang mở
+search-tags = Thẻ
+search-titles = Tiêu đề
+
+
+

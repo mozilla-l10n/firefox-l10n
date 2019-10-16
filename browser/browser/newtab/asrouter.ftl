@@ -76,6 +76,9 @@ cfr-protections-panel-link-text = Tìm hiểu thêm
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Tính năng mới:
 cfr-whatsnew-button =
     .label = Có gì mới
     .tooltiptext = Có gì mới
@@ -149,3 +152,15 @@ cfr-doorhanger-fingerprinters-heading = { -brand-short-name } đã chặn một 
 cfr-doorhanger-fingerprinters-description = Vấn đề riêng tư của bạn. { -brand-short-name } hiện chặn các dấu vân tay, mà nó thu thập các mẫu thông tin nhận dạng duy nhất về thiết bị của bạn để theo dõi bạn.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } đã chặn một loại tiền điện tử trên trang này
 cfr-doorhanger-cryptominers-description = Vấn đề riêng tư của bạn. { -brand-short-name } hiện chặn các loại tiền điện tử, mà nó sử dụng sức mạnh tính toán của hệ thống của bạn để khai thác tiền kỹ thuật số.
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+       *[other] { -brand-short-name } đã chặn hơn <b>{ $blockedCount }</b> trình theo dõi từ { $date }!
+    }
+cfr-doorhanger-milestone-ok-button = Xem tất cả
+    .accesskey = S
