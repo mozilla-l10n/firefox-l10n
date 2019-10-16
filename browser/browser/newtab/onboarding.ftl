@@ -91,7 +91,7 @@ onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Tag dine bogmærker, adgangskoder, din historik og meget mere med dig på alle dine enheder med { -brand-product-name }.
 
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Få besked, når dine personlige data er blevet ramt af et datalæk.
+onboarding-benefit-monitor-text = Få besked, når dine personlige data er blevet ramt af en datalæk.
 
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Håndter adgangskoder, der er sikre og bærbare.
