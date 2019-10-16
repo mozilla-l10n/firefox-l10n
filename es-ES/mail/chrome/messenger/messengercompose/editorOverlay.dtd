@@ -62,8 +62,8 @@
 <!ENTITY decreaseFontSize.accesskey "r">
 <!ENTITY decrementFontSize.key "&lt;">
 <!ENTITY decrementFontSize.key2 ",">
-<!ENTITY increaseFontSize.label "Más grande">
-<!ENTITY increaseFontSize.accesskey "g">
+<!ENTITY increaseFontSize.label "Mayor">
+<!ENTITY increaseFontSize.accesskey "y">
 <!ENTITY incrementFontSize.key "&gt;">
 <!ENTITY incrementFontSize.key2 ".">
 <!ENTITY fontSizeMenu.label "Tamaño">
@@ -260,7 +260,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Inserta un nuevo enlace con nombre o modifica las propiedades del enlace con nombre seleccionado">
 <!ENTITY TextColorButton.tooltip "Elija un color para el texto">
 <!ENTITY BackgroundColorButton.tooltip "Elija un color para el fondo">
-<!ENTITY throbber.tooltip "Ir a la página web de &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Ir a la página principal de &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Elegir color para remarcar texto">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Establecer tamaño de letra">
