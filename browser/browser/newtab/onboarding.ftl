@@ -34,6 +34,9 @@ onboarding-cards-dismiss =
     .title = Hylkää
     .aria-label = Hylkää
 
+## Welcome full page string
+
+
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Ota { -brand-product-name } matkalle mukaan
@@ -65,6 +68,7 @@ onboarding-benefit-privacy-title = Todellista yksityisyyttä
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Kaikki toimintamme kunnioittaa henkilötietolupaustamme: Kerää vähemmän. Pidä ne turvassa. Ei salaisuuksia.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
