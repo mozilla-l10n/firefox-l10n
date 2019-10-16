@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Protecții privind intimitatea
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Mergi la raportul de intimitate
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Sincronizează acum
