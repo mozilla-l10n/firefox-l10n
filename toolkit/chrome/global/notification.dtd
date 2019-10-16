@@ -8,6 +8,8 @@
 
 <!ENTITY learnMore "Ulteriuras infurmaziuns…">
 
+<!ENTITY learnMoreNoEllipsis "Ulteriuras infurmaziuns">
+
 <!ENTITY defaultButton.label "OK!">
 <!ENTITY defaultButton.accesskey "O">
 
