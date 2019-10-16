@@ -85,5 +85,5 @@ search-one-offs-context-set-as-default =
     .label = Sæt som standard-søgemaskine
     .accesskey = s
 search-one-offs-context-set-as-default-private =
-    .label = Sæt som standard-søgemaskine i private vinduer
+    .label = Sæt som standard-søgetjeneste i private vinduer
     .accesskey = p

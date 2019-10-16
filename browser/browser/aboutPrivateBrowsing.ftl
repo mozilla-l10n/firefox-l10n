@@ -32,7 +32,7 @@ about-private-browsing-info-description = { -brand-short-name } rydder din søge
 # in a private window.
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
-about-private-browsing-search-banner-title = { $engineName } is your default search engine in Private Windows
+about-private-browsing-search-banner-title = { $engineName } er din standard-søgetjeneste i private vinduer
 about-private-browsing-search-banner-description = {
   PLATFORM() ->
      [windows] Vælg en anden søgetjeneste ved at gå til <a data-l10n-name="link-options">indstillinger</a>

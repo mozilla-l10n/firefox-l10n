@@ -98,7 +98,7 @@ newtab-privacy-modal-paragraph =
     sikker på, at dine data aldrig kommer videre end den version af 
     { -brand-product-name }, du har på din computer — Vi ser ikke dine data, 
     og det gør vores sponsorer heller ikke.
-newtab-privacy-modal-link = Læs mere om, hvordan sikring af dit privatlive fungerer i nyt faneblad
+newtab-privacy-modal-link = Læs mere om, hvordan sikring af dit privatliv fungerer i nyt faneblad
 
 ##
 
