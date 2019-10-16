@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = Annak a megakadályozása, hogy a { -brand-short-
 policy-DisableForgetButton = Az Elfelejtés gombhoz hozzáférés megakadályozása.
 policy-DisableFormHistory = Ne jegyezze meg a keresőmezők és űrlapmezők előzményeit.
 policy-DisableMasterPasswordCreation = Ha igaz, akkor nem hozható létre mesterjelszó.
+policy-DisablePasswordReveal = Ne engedje, hogy a mentet bejelentkezésekben szereplő jelszavak megjelenítésre kerüljenek.
 policy-DisablePocket = A weboldalak Pocketbe mentését biztosító funkció letiltása.
 policy-DisablePrivateBrowsing = Privát böngészés letiltása.
 policy-DisableProfileImport = A más böngészőből történő adatimportálás parancsok letiltása.
