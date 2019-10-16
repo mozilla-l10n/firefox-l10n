@@ -151,5 +151,13 @@
 <!ENTITY spellDictionaries.accesskey "I">
 <!ENTITY spellAddDictionaries.label "Descargar más diccionarios…">
 <!ENTITY spellAddDictionaries.accesskey "D">
+<!ENTITY fillLoginMenu.label "Rellenar credencial">
+<!ENTITY fillLoginMenu.accesskey "R">
+<!ENTITY fillPasswordMenu.label "Rellenar contraseña">
+<!ENTITY fillPasswordMenu.accesskey "R">
+<!ENTITY fillUsernameMenu.label "Rellenar nombre de usuario">
+<!ENTITY fillUsernameMenu.accesskey "R">
+<!ENTITY noLoginSuggestions.label "(No hay sugerencias de credenciales)">
+<!ENTITY viewSavedLogins.label "Ver credenciales guardadas">
 <!ENTITY devtoolsInspect.label "Inspeccionar elemento">
 <!ENTITY devtoolsInspect.accesskey "n">

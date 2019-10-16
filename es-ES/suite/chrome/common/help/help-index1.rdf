@@ -2233,14 +2233,4 @@
    </nc:subheadings>
 </rdf:Description>
 
-<rdf:Description about="help-indexAZ.rdf#w">
-   <nc:subheadings>
-     <rdf:Seq><rdf:li>
-       <rdf:Description ID="WebIDE"
-         nc:name="WebIDE"
-         nc:link="developer_tools.xhtml#webide"/>
-     </rdf:li></rdf:Seq>
-   </nc:subheadings>
-</rdf:Description>
-
 </rdf:RDF>
