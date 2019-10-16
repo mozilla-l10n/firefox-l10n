@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = গোপনীয়তা সুরক্ষা
 appmenuitem-protection-report-tooltip =
     .tooltiptext = আপনার গোপনীয়তার প্রতিবেদনে যান
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = এখন সিঙ্ক
