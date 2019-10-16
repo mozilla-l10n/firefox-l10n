@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ
 appmenuitem-protection-report-tooltip =
     .tooltiptext = ਆਪਣੀ ਪਰਦੇਦਾਰੀ ਰਿਪੋਰਟ ‘ਤੇ ਜਾਓ
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
