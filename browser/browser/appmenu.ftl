@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Захист приватності
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Перейти до свого звіту про приватність
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Синхронізувати зараз
