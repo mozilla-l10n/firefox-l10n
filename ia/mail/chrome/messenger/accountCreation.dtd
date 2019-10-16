@@ -4,9 +4,13 @@
 
 <!ENTITY autoconfigWizard2.title         "Configurar un conto email existente">
 
+<!ENTITY emailWizard.title               "Configura tu adresse email existente">
+<!ENTITY emailWizard.caption             "Usa tu adresse email actual">
 <!ENTITY name.label                      "Tu nomine:">
 <!ENTITY name.accesskey                  "n">
+<!ENTITY name.placeholder                "Nomine e nomine de familia">
 <!ENTITY fullname.placeholder            "Tu nomine integre">
+<!ENTITY name.text                       "Nomine a monstrar">
 <!ENTITY name.error                      "Insere tu nomine">
 <!ENTITY email.label                     "Adresse de e-mail:">
 <!ENTITY email.accesskey                 "e">
@@ -18,22 +22,27 @@
 <!ENTITY password.label                  "Contrasigno:">
 <!ENTITY password.accesskey              "C">
 <!ENTITY password.placeholder            "Contrasigno">
+<!ENTITY password.text                   "Optional, essera solo usate pro validar le nomine de usator">
 <!ENTITY password.toggle                 "Monstrar/Celar le contrasigno">
 <!ENTITY rememberPassword.label          "Rememorar le contrasigno">
 <!ENTITY rememberPassword.accesskey      "m">
 <!ENTITY usernameEx.label                "Tu credential:">
 <!ENTITY usernameEx.accesskey            "c">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!ENTITY usernameEx.placeholder          "DOMINIO\nomine-usator">
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Accesso al dominio">
 
 <!ENTITY protocol.label                  "Protocollo:">
+<!ENTITY imapLong.label                  "IMAP (plicas remote)">
+<!ENTITY pop3Long.label                  "POP3 (mantene email sur tu computator)">
 
 <!ENTITY incoming.label                  "In entrata:">
 <!ENTITY incomingColumn.label            "In entrata">
 <!ENTITY outgoing.label                  "In exito:">
 <!ENTITY outgoingColumn.label            "In exito">
 <!ENTITY username.label                  "Nomine del usator:">
+<!ENTITY hostname.label                  "Nomine de servitor">
 <!ENTITY port.label                      "Porta">
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Servitor:">
@@ -55,6 +64,8 @@
 <!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
 <!ENTITY exchange-hostname.label         "Servitor Exchange:">
 
+<!ENTITY advancedSetup.label             "Configuration avantiate">
+<!ENTITY advancedSetup.accesskey         "A">
 <!ENTITY cancel.label                    "Cancellar">
 <!ENTITY cancel.accesskey                "a">
 <!ENTITY continue.label                  "Continuar">
@@ -65,6 +76,8 @@
      displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
+<!ENTITY half-manual-test.label          "Provar de novo">
+<!ENTITY half-manual-test.accesskey      "P">
 <!ENTITY manual-edit.label               "Configuration manual">
 <!ENTITY manual-edit.accesskey           "M">
 <!ENTITY manual-config.label             "Configura manualmente…">
