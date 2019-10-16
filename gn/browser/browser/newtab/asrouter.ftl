@@ -154,5 +154,12 @@ cfr-doorhanger-cryptominers-description = Ne ñemigua tuichamba’e. { -brand-sh
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+       *[other] { -brand-short-name } ojoko hetave <b>{ $blockedCount }</b> tapykuehoha { $date } guive!
+    }
 cfr-doorhanger-milestone-ok-button = Hechapa
     .accesskey = H
