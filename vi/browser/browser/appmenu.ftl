@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Bảo vệ quyền riêng tư
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Đi đến báo cáo bảo mật của bạn
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Đồng bộ ngay
