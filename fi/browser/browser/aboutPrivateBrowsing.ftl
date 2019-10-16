@@ -31,6 +31,6 @@ about-private-browsing-info-description = { -brand-short-name } poistaa haku- ja
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
 about-private-browsing-search-banner-title = { $engineName } on oletushakukone yksityisissä ikkunoissa
-about-private-browsing-search-banner-description = Toisen hakukoneen voi valita <a data-l10n-name="link-options">asetuksista</a>
+about-private-browsing-search-banner-description = Eri hakukoneen voi valita <a data-l10n-name="link-options">asetuksista</a>
 about-private-browsing-search-banner-close-button =
     .aria-label = Sulje
