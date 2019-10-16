@@ -6,3 +6,8 @@
 ## App Menu
 
 appmenuitem-protection-report-title = Заштите приватности
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Синхронизуј сада
