@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Diogelu Preifatrwydd
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Ewch i'ch adroddiad preifatrwydd
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Cydweddu Nawr
