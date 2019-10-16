@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = محافظ‌های حریم‌خصوصی
 appmenuitem-protection-report-tooltip =
     .tooltiptext = به گزارش حریم‌خصوصی خود بروید
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = انجام هم‌گام‌سازی
