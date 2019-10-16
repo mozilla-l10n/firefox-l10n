@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Privatumo apsaugos
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Eiti į jūsų privatumo ataskaitą
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Sinchronizuoti dabar
