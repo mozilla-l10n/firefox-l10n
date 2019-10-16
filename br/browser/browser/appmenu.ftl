@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Gwarez ar vuhez prevez
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Mont d'ho tanevell war ar vuhez prevez
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Goubredañ bremañ
