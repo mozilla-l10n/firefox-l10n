@@ -4,4 +4,10 @@
 
 
 <!-- Window title -->
+<!ENTITY windowTitle.label "Enmeti signon">
+<!ENTITY category.label "Kategorio">
+<!ENTITY letter.label "Litero:">
+<!ENTITY letter.accessKey "L">
+<!ENTITY character.label "Signo:">
+<!ENTITY character.accessKey "S">
 <!ENTITY closeButton.label "Fermi">
