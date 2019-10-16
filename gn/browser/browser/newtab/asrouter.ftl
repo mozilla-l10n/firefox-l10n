@@ -151,3 +151,8 @@ cfr-doorhanger-fingerprinters-heading = { -brand-short-name } ojoko kuãhũ juhu
 cfr-doorhanger-fingerprinters-description = Ne ñemigua tuichamba’e. { -brand-short-name } ko’ág̃a ojoko umi Kuãhũ kuaaukaha, ombyatýva marandu kuaaukaha nde mba’e’oka rehegua ohapykueho hag̃ua.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name }  ojoko criptominero ko kuatiaroguépe
 cfr-doorhanger-cryptominers-description = Ne ñemigua tuichamba’e. { -brand-short-name } ko’ág̃a ojoko umi criptominero, oipurúva tembipurupyahu apopyvusu mbaretekue oguenohẽ hag̃ua viru ñandutigua.
+
+## Enhanced Tracking Protection Milestones
+
+cfr-doorhanger-milestone-ok-button = Hechapa
+    .accesskey = H
