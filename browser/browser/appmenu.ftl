@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Perlindungan Privasi
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Buka laporan privasi Anda
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Sinkronkan Sekarang
