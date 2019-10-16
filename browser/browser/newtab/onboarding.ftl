@@ -33,10 +33,20 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Adressa d'e-mail valida è obligatorica
 onboarding-join-form-legal = Sche ti cuntinueschas, acceptas ti las <a data-l10n-name="terms">cundiziuns d'utilisaziun</a> e las <a data-l10n-name="privacy">infurmaziuns davart la protecziun da datas</a>.
 onboarding-join-form-continue = Cuntinuar
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Ti has gia in conto?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = S'annunziar
 onboarding-start-browsing-button-label = Cumenzar a navigar
 onboarding-cards-dismiss =
     .title = Sbittar
     .aria-label = Sbittar
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Scuvrin tut quai che ti pos far.
+onboarding-fullpage-form-email =
+    .placeholder = Tia adressa d'e-mail…
 
 ## Firefox Sync modal dialog strings.
 
@@ -103,6 +113,7 @@ onboarding-data-sync-text2 = Sincronisescha tes segnapaginas, pleds-clav e dapli
 onboarding-data-sync-button2 = S'annunziar tar { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Lascha t'avertir sche servetschs perdan datas
 onboarding-firefox-monitor-text = { -monitor-brand-name } controllescha sche tia adressa d'e-mail è cumparida en in cas da sperdita da datas e t'avertescha sch'ella cumpara en in nov cas.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } controllescha sche tia adressa d'e-mail è cumparida en in cas enconuschent da sperdita da datas e t'avertescha sch'ella cumpara en in nov cas.
 onboarding-firefox-monitor-button = S'inscriver per avis
 onboarding-browse-privately-title = Navighescha en il modus privat
 onboarding-browse-privately-text = Il modus privat stizza tia cronologia da tschertga e navigaziun per che las autras persunas che utiliseschan tes computer na la vesian betg.
