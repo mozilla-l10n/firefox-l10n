@@ -17,6 +17,7 @@ newsletter-email-placeholder =
 newsletter-privacy-label = Atye agonya ki Mozilla me loono ngec mamega kit ma kitito kwede ii <a data-l10n-name="privacy-policy">Cik me Mung man</a>.
 newsletter-subscribe-button = Coone
 newsletter-thanks-title = Pwoc!
+footer-title = Firefox Developer Edition
 footer-message = Itye ka yenyo gin makato Gitic pa Ludiro? Nen layeny me Firefox ma ki yubo atika ne pi ludiro ki tic me kare ma nyen.
 footer-learn-more-link = Nong ngec mapol
 features-learn-more = Nong ngec mapol
