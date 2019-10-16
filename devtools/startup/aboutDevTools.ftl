@@ -18,7 +18,7 @@ newsletter-title = Новостная рассылка для разработч
 newsletter-message = Получайте новости от разработчиков, советы и ресурсы, отправляемые прямо к вам в почтовый ящик.
 newsletter-email-placeholder =
     .placeholder = Эл. почта
-newsletter-privacy-label = Я согласен с тем, как Mozilla обращается с моей информацией, согласно <a data-l10n-name="privacy-policy">Политике приватности</a>.
+newsletter-privacy-label = Я соглашаюсь с тем, как Mozilla обращается с моей информацией, согласно <a data-l10n-name="privacy-policy">Политике приватности</a>.
 newsletter-subscribe-button = Подписаться
 newsletter-thanks-title = Спасибо!
 newsletter-thanks-message = Если вы ранее не подтверждали подписку на новостные рассылки Mozilla, то вам может понадобится сделать это. Пожалуйста, проверьте вашу папку "Входящие" или "Спам" на наличие письма от нас.
