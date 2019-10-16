@@ -153,3 +153,16 @@ cfr-doorhanger-fingerprinters-heading = A { -brand-short-name } blokkolt egy ujj
 cfr-doorhanger-fingerprinters-description = Számít az adatvédelem. A { -brand-short-name } most már blokkolja az ujjlenyomat-készítőket, melyek egyedileg azonosítható információkat gyűjtenek az eszközéről, hogy követhessék Önt.
 cfr-doorhanger-cryptominers-heading = A { -brand-short-name } blokkolt egy kriptobányászt ezen az oldalon
 cfr-doorhanger-cryptominers-description = Számít az adatvédelem. A { -brand-short-name } most már blokkolja a kriptobányászokat, melyek a rendszere számítási erőforrásait használják, hogy digitális pénzeket bányásszanak.
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] A { -brand-short-name } több mint <b>{ $blockedCount }</b> követőt blokkolt { $date } óta!
+       *[other] A { -brand-short-name } több mint <b>{ $blockedCount }</b> követőt blokkolt { $date } óta!
+    }
+cfr-doorhanger-milestone-ok-button = Összes megjelenítése
+    .accesskey = m

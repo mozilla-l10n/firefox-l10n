@@ -312,6 +312,8 @@ addon-options-button =
 
 report-addon-button = Jelentés
 remove-addon-button = Eltávolítás
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Nem távolítható el <a data-l10n-name="link">Miért?</a>
 disable-addon-button = Letiltás
 enable-addon-button = Engedélyezés
 expand-addon-button = További beállítások

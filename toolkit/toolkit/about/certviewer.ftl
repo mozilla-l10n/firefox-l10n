@@ -6,6 +6,7 @@ certificate-viewer-certificate-section-title = Tanúsítvány
 
 ## Error messages
 
+certificate-viewer-error-message = A tanúsítványinformációkat nem sikerült megtalálni, vagy a tanúsítvány sérült. Próbálja újra.
 certificate-viewer-error-title = Valami hiba történt.
 
 ## Certificate information labels
@@ -64,6 +65,7 @@ certificate-viewer-fingerprints = Ujjlenyomatok
 certificate-viewer-basic-constraints = Alapvető korlátozások
 certificate-viewer-key-usages = Kulcs felhasználások
 certificate-viewer-extended-key-usages = Bővített kulcs felhasználások
+certificate-viewer-ocsp-stapling = OCSP-rögzítés
 certificate-viewer-subject-key-id = Tárgy kulcsazonosítója
 certificate-viewer-authority-key-id = Hitelesítő kulcsazonosítója
 certificate-viewer-authority-info-aia = Hitelesítői információk (AIA)
