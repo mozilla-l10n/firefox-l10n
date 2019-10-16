@@ -24,7 +24,7 @@ onboarding-welcome-modal-get-body = Browseren har du allerede.<br/> Få resten a
 onboarding-welcome-modal-supercharge-body = Få fuld kontrol over beskyttelse af dit privatliv.
 onboarding-welcome-modal-privacy-body = Browseren har du allerede. Lad os få styr på beskyttelse af dit privatliv.
 onboarding-welcome-modal-family-learn-more = Læs mere om resten af produkterne fra { -brand-product-name }.
-onboarding-welcome-form-header = Start Here
+onboarding-welcome-form-header = Start her
 
 onboarding-join-form-header = Slut dig til { -brand-product-name }
 onboarding-join-form-body = Indtast din mailadresse for at komme i gang.
@@ -91,10 +91,10 @@ onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Tag dine bogmærker, adgangskoder, din historik og meget mere med dig på alle dine enheder med { -brand-product-name }.
 
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Get notified when your personal info is in a known data breach.
+onboarding-benefit-monitor-text = Få besked, når dine personlige data er blevet ramt af et datalæk.
 
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Manage passwords that are protected and portable.
+onboarding-benefit-lockwise-text = Håndter adgangskoder, der er sikre og bærbare.
 
 ## These strings belong to the individual onboarding messages.
 
