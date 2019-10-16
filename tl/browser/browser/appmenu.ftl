@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Mga Privacy Protection
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Pumunta sa iyong privacy report
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Mag-sync Na
