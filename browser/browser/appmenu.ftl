@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Adatvédelem
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Ugrás az adatvédelmi jelentéséhez
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Szinkronizálás
