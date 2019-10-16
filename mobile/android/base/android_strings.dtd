@@ -21,10 +21,13 @@
 <!ENTITY firstrun_data_message "कम डेटा , अधिक बचत">
 <!ENTITY firstrun_data_subtext2 "आपके द्वारा देखे गए हर साइट के लिए छवि बंद करें ताकि डेटा कम खर्च हो.">
 <!ENTITY firstrun_sync_title "सिंक">
+<!ENTITY firstrun_sync_message3 "अपने फ़ोन पर बुकमार्क, इतिहास तथा पासवर्ड सिंक करें।">
 <!ENTITY updatednewfirstrun_sync_title "खाता">
 <!ENTITY firstrun_sync_message2 "जहाँ आपने छोड़ा था वहाँ से चुने.">
 <!ENTITY firstrun_sync_subtext2 "सिंक का उपयोग करें बुकमार्क, पासवर्ड, तथा अन्य चीजें अपने सभी उपकरणों पर पाने के लिए जिन्हें आपने &brandShortName; में सहेजा है.">
 <!ENTITY newfirstrun_sync_subtext "निजी तथा सुरक्षित रूप से, डेस्कटॉप हेतु Firefox में अपने मोबाइल पर सहेजे हुए चीज़ों को सिंक करें।">
+<!ENTITY firstrun_sendtab_title "टैब भेजें">
+<!ENTITY firstrun_sendtab_message "मोबाइल से डेस्कटॉप तक टैब साझा करें — तुरंत।">
 <!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; का पूर्ण रूप से लाभ उठाने के लिए अपने खाते में साइन इन करें">
 <!ENTITY firstrun_signin_message "कनेक्टेड हैं, आरंभ करें">
 <!ENTITY firstrun_signin_button "संकलित करने के लिए साइन इन करें">
@@ -33,6 +36,9 @@
 <!ENTITY  onboard_start_button_browser "ब्राउजिंग शुरू करें">
 <!ENTITY firstrun_button_notnow "अभी नहीं">
 <!ENTITY firstrun_button_next "अगला">
+<!ENTITY firstrun_signup_button "साइन अप करें">
+
+<!ENTITY firstrun_signin_button2 "साइन इन करें">
 
 <!ENTITY firstrun_tabqueue_title "लिंक">
 
@@ -495,6 +501,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "साझा करें">
 <!ENTITY share_title "इससे साझा करें">
 <!ENTITY share_image_failed "इस छवि को साझा करने में असमर्थ">
+<!ENTITY share_error_toast_message "संकेतित ऐप को साझा करने में असमर्थ हैं">
 <!ENTITY save_as_pdf "बतौर PDF सहेजें">
 <!ENTITY print "छापें">
 <!ENTITY view_page_source "पृष्ठ श्रोत देखें">
@@ -595,7 +602,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "स्थान">
 <!ENTITY bookmark_edit_keyword "बीजशब्द">
 <!ENTITY bookmark_select_folder "फ़ोल्डर चुनें">
-
 <!ENTITY bookmark_edit_undo "पूर्ववत करें">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -875,6 +881,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "ऑफलाइन उपलब्ध">
 <!ENTITY helper_triple_readerview_open_message "पाठ्य दृष्टि वस्तुओं को ऑफलाइन पढ़ने के लिए उन्हें पुस्तचिन्हित करें.">
 <!ENTITY helper_triple_readerview_open_button "पुस्तचिह्नों में जोड़ें">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "&brandShortName; में आपका स्वागत है">
+<!ENTITY activity_stream_signin_description "बुकमार्क, पासवर्ड और अपने Firefox खाते के साथ और अधिक सिंक करना शुरू करें।">
+<!ENTITY activity_stream_signup_button "साइन अप करें">
+<!ENTITY activity_stream_signin_prompt "पहले से ही एक खाता है?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "साइन इन करें।">
+
+<!ENTITY activity_stream_signin_button "साइन इन करें">
 
 <!ENTITY activity_stream_topsites "सर्वोत्तम साइटें">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
