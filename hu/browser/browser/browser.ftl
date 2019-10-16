@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Legyen alapértelmezett keresőszolgáltatás
     .accesskey = L
+search-one-offs-context-set-as-default-private =
+    .label = Beállítás alapértelmezett keresőszolgáltatásként a privát ablakokban
+    .accesskey = p

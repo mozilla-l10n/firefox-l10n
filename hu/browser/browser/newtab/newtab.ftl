@@ -45,9 +45,6 @@ newtab-topsites-save-button = Mentés
 newtab-topsites-preview-button = Előnézet
 newtab-topsites-add-button = Hozzáadás
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Biztosan törli ezen oldal minden példányát az előzményekből?
@@ -89,6 +86,11 @@ newtab-menu-show-privacy-info = Támogatóink és az Ön adatvédelme
 
 newtab-privacy-modal-button-done = Kész
 newtab-privacy-modal-header = Számít az Ön adatvédelme.
+newtab-privacy-modal-paragraph =
+    A magával ragadó történetek mellett, kiválasztott szponzoraink releváns,
+    válogatott tartalmait is megjelenítjük. Biztos lehet benne, hogy a böngészési adatai
+    sosem hagyják el az Ön { -brand-product-name } példányát – mi nem látjuk azokat,
+    és a szponzoraink sem.
 newtab-privacy-modal-link = Tudja meg, hogyan működik az adatvédelem az új lapon
 
 
@@ -97,10 +99,6 @@ newtab-privacy-modal-link = Tudja meg, hogyan működik az adatvédelem az új l
 newtab-menu-remove-bookmark = Könyvjelző eltávolítása
 # Bookmark is a verb here.
 newtab-menu-bookmark = Könyvjelzőzés
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -130,10 +128,6 @@ newtab-label-removed-bookmark = Könyvjelző törölve
 newtab-label-recommended = Népszerű
 newtab-label-saved = Mentve a { -pocket-brand-name }be
 newtab-label-download = Letöltve
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
