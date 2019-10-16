@@ -68,6 +68,8 @@
 <!ENTITY manual-edit.accesskey           "M">
 <!ENTITY manual-config.label             "Configura manualmente…">
 <!ENTITY manual-config.accesskey         "M">
+<!ENTITY open-provisioner.label          "Obtener un nove adresse email…">
+<!ENTITY open-provisioner.accesskey      "o">
 
 
 <!ENTITY get-help.label                  "Obtener auxilio">
@@ -95,6 +97,7 @@
 <!ENTITY changeSettings.label            "Cambiar parametros">
 <!ENTITY changeSettings.accesskey        "S">
 
+<!ENTITY contactYourProvider.description "&brandShortName; pote consentir te de acceder a tu email per le configurationes fornite. Comocunque, tu deberea continger tu administrator o fornitor de servicio email re iste improprie connexiones. Vide le demandas frequente de Thunderbird pro altere informationes.">
 
 <!ENTITY insecureServer.tooltip.title    "Attention! Servitor insecur.">
 <!ENTITY insecureServer.tooltip.details  "Clicca hic pro altere detalios.">
