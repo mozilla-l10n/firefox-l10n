@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Integritetsskydd
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Gå till din integritetsrapport
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Synka nu
