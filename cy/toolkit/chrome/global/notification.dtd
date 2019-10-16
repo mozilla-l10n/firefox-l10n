@@ -8,6 +8,8 @@
 
 <!ENTITY learnMore "Dysgu rhagor…">
 
+<!ENTITY learnMoreNoEllipsis "Dysgu rhagor">
+
 <!ENTITY defaultButton.label "Iawn!">
 <!ENTITY defaultButton.accesskey "I">
 
