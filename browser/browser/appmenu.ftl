@@ -6,3 +6,8 @@
 ## App Menu
 
 appmenuitem-protection-report-title = Προστασία απορρήτου
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Συγχρονισμός τώρα
