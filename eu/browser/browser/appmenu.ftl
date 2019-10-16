@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Pribatutasun-babesak
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Joan zure pribatutasun-txostenera
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Sinkronizatu orain
