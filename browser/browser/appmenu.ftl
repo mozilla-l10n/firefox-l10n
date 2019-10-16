@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = 隱私保護
 appmenuitem-protection-report-tooltip =
     .tooltiptext = 前往您的隱私報告
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = 立刻同步
