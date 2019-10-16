@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Privaatsuse kaitse
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Vaata oma privaatsuse raportit
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Sünkroniseeri kohe
