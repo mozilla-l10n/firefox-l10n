@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Gizlilik korumaları
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Gizlilik raporuna git
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Şimdi eşitle
