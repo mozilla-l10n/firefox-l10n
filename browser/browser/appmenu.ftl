@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = პირადულობის დაცვა
 appmenuitem-protection-report-tooltip =
     .tooltiptext = პირადულობის ანგარიშზე გადასვლა
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = დასინქრონება ახლავე
