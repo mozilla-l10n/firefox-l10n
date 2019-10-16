@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Защита на лични данни
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Прегледайте доклада за личните данни
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Синхронизиране
