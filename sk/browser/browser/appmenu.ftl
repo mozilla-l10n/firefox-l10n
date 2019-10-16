@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Ochrana súkromia
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Prejsť na prehľad ochrany súkromia
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Synchronizovať teraz
