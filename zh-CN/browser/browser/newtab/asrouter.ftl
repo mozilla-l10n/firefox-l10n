@@ -146,3 +146,15 @@ cfr-doorhanger-fingerprinters-heading = { -brand-short-name } 正在拦截此页
 cfr-doorhanger-fingerprinters-description = 隐私是公民的基本权利。现在起 { -brand-short-name } 会拦截数字指纹跟踪程序，阻止其收集身边设备的唯一识别信息。
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } 正在拦截此页面上的加密货币挖矿程序
 cfr-doorhanger-cryptominers-description = 隐私是公民的基本权利。现在起 { -brand-short-name } 会拦截加密货币挖矿程序，不让其使用您的计算机算力来“挖”数字货币
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+       *[other] 自{ $date }起，{ -brand-short-name } 已拦截超过 <b>{ $blockedCount }</b> 个跟踪器！
+    }
+cfr-doorhanger-milestone-ok-button = 查看全部
+    .accesskey = S
