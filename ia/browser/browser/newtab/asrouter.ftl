@@ -149,3 +149,15 @@ cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blocava un dactylo
 cfr-doorhanger-fingerprinters-description = Tu confidentialitate es importante. { -brand-short-name } bloca ora le dactylogrammatores, que collige pecias de informationes de tu apparatos pro te traciar.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } blocava un cryptominator in iste pagina
 cfr-doorhanger-cryptominers-description = Tu confidentialitate es importante. Ora { -brand-short-name } bloca cryptominatores, que usa le potentia de calculo de tu systemas pro cavar moneta digital.
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+       *[other] { -brand-short-name } blocate sur <b>{ $blockedCount }</b> traciatores desde { $date }!
+    }
+cfr-doorhanger-milestone-ok-button = Vider toto
+    .accesskey = t
