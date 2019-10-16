@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Mbrojtje Privatësie
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Shkoni te raporti juaj mbi privatësinë
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Njëkohësohu Tani
