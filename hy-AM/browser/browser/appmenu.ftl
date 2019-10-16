@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Պաշտպանության զեկույց
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Անցնել գաղտնիության զեկույցին
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Սինք
