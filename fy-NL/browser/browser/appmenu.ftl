@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Privacybeskermingen
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Gean nei jo privacyrapport
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = No syngronisearje
