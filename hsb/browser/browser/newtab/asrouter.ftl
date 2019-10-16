@@ -157,3 +157,18 @@ cfr-doorhanger-fingerprinters-heading = { -brand-short-name } je porstowe wotći
 cfr-doorhanger-fingerprinters-description = Waša priwatnosć je wažna. { -brand-short-name } nětko porstowe wotćišće blokuje, kotrež jasnje idenfikujomne informacije wo wašim graće hromadźa, zo bychu wam slědowali.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } je kryptokopak na tutej stronje zablokował
 cfr-doorhanger-cryptominers-description = Waša priwatnosć je wažna. { -brand-short-name } nětko kryptokopaki blokuje, kotrež ličenski wukon wašeho systema wužiwaja, zo bychu digitalne pjenjezy wudobyli.
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] { -brand-short-name } je přez <b>{ $blockedCount }</b> přesćěhowak wot { $date } zablokował!
+        [two] { -brand-short-name } je přez <b>{ $blockedCount }</b> přesćěhowakaj wot { $date } zablokował!
+        [few] { -brand-short-name } je přez <b>{ $blockedCount }</b> přesćěhowaki wot { $date } zablokował!
+       *[other] { -brand-short-name } je přez <b>{ $blockedCount }</b> přesćěhowakow wot { $date } zablokował!
+    }
+cfr-doorhanger-milestone-ok-button = Wšě pokazać
+    .accesskey = k
