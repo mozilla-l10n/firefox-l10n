@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Protekto de privateco
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Vidu vian raporton pri privateco
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Speguli nun
