@@ -8,3 +8,8 @@
 appmenuitem-protection-report-title = Schutzmaßnahmen
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Bericht zu Schutzmaßnahmen für Datenschutz öffnen
+
+## Firefox Account toolbar button and Sync panel in App menu.
+
+fxa-toolbar-sync-now =
+    .label = Jetzt synchronisieren
