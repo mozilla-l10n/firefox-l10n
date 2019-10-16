@@ -449,7 +449,6 @@ choose-bookmark =
 
 home-prefs-content-header = Nội dung trang chủ của Firefox
 home-prefs-content-description = Chọn nội dung mà bạn muốn thêm vào trang chủ của Firefox.
-home-prefs-content-discovery-description = Khám phá nội dung trong trang chủ Firefox cho phép bạn khám phá các bài viết chất lượng cao, có liên quan trên web.
 home-prefs-search-header =
     .label = Tìm kiếm web
 home-prefs-topsites-header =
@@ -512,6 +511,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Hiện những gợi ý tìm kiếm phía trước lịch sử duyệt web trong kết quả thanh địa chỉ
+search-show-suggestions-private-windows =
+    .label = Hiển thị đề xuất tìm kiếm trong cửa sổ riêng tư
 suggestions-addressbar-settings = Thay đổi tùy chọn cho lịch sử duyệt web, dấu trang và đề xuất thẻ
 search-suggestions-cant-show = Gợi ý tìm kiếm sẽ không được hiện ở thanh địa chỉ vì bạn đã thiết lập { -brand-short-name } không bao giờ ghi nhớ lịch sử.
 search-one-click-header = Công cụ tìm kiếm với một lần nhấn
