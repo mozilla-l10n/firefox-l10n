@@ -461,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Cuntegn da la pagina da partenza da Firefox
 home-prefs-content-description = Tscherna il cuntegn che ti vuls vesair sin la pagina da partenza da Firefox.
-home-prefs-content-discovery-description = La vitrina da cuntegn pussibilitescha da scuvrir artitgels relevants da gronda qualitad en il web.
 home-prefs-search-header =
     .label = Tschertga web
 home-prefs-topsites-header =
@@ -528,6 +527,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Mussar las propostas da tschertga avant la cronologia da navigaziun en ils resultats da la trav d'adressas
+search-show-suggestions-private-windows =
+    .label = Mussar propostas da tschertga en fanestras privatas
 suggestions-addressbar-settings = Modifitgar las preferenzas per las propostas da la cronologia da navigaziun, dals segnapaginas e dals tabs
 search-suggestions-cant-show = Propostas da tschertgar na vegnan betg mussadas en la trav d'adressas perquai che ti has configurà { -brand-short-name } uschia che la cronologia na vegn betg memorisada.
 search-one-click-header = Maschinas da tschertgar cun-in-clic
