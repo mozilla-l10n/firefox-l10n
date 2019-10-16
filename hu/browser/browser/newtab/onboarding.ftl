@@ -44,6 +44,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Fedezzük fel mindazt, amit tehet.
 onboarding-fullpage-form-email =
     .placeholder = Az e-mail címe…
 
