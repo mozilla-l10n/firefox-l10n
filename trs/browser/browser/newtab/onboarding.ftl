@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Gayi'í
 onboarding-welcome-header = Guruhuât gunumânt riña { -brand-short-name }
 onboarding-welcome-body = Ngà nikajt riñan nana'uì't nuguan'an.<br/>Gini'in doj sa hua { -brand-product-name }.
 onboarding-welcome-learn-more = gahuin chrun doj rayi'î nej sunuj nika.
+onboarding-welcome-modal-get-body = Ngà nikajt riña sa nanà'uì't.<br/>Garasun daran' sa nika riña { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Nagi'iaj nùkuaj doj sa narán rayi'ît nga aché nunt.
+onboarding-welcome-modal-privacy-body = Ngà nikajt riña sa nanà'uì't. Ngi'iaj nukuò' doj sa narán ray'ît nga aché nunt.
+onboarding-welcome-modal-family-learn-more = Gini'in doj dàj hua rayi'î nej yi'nïn' rasun nan { -brand-product-name }.
+onboarding-welcome-form-header = gayi'ì hiuj nan
 onboarding-join-form-header = Nakaj dugui' { -brand-product-name }
 onboarding-join-form-body = Gachrun si korreôt da' ga'ue gayi'ìt.
 onboarding-join-form-email =
@@ -28,10 +33,20 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = 'Ngo korreô ni'ñanj an gachrunt
 onboarding-join-form-legal = Si gan'anjt ne' ñaan, ni arâj yinat <a data-l10n-name="terms"> Dàj hua serbîsio</a> ni <a data-l10n-name="privacy">Nuguan' huaa</a>.
 onboarding-join-form-continue = Gun' ne' ñaan
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Ngà hua si kuendâ raj?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Gayi'ì sesiûn
 onboarding-start-browsing-button-label = Gayi'i gache nunt
 onboarding-cards-dismiss =
     .title = Si gui'iaj guendo'
     .aria-label = Si gui'iaj guendo'
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Gayi'ì' gini'ioj daran' sa ga'ue gi'iát.
+onboarding-fullpage-form-email =
+    .placeholder = Si korreô rè'…
 
 ## Firefox Sync modal dialog strings.
 
@@ -64,6 +79,9 @@ onboarding-benefit-privacy-title = Sa huì yangà'a
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Daran' sa hua ni diguminj nuguan' hua rayi'ît: Doj garasunt. Dugumi man. Nitaj nuguan' achrij hùij.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Ganikaj nej si markadôt, dan'ga' huì ni a'ngo nej sa nikajt danè' nanj man'an huajt { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
