@@ -136,7 +136,7 @@ media-capabilities-title = Hupytyha pyrusukue
 # List all the entries of the database.
 media-capabilities-enumerate = Embopapapy mba’ekuaarã guapyha
 
-
+##
 
 intl-title = Mongakuaa & ñemohenda
 intl-app-title = Tembipuru'i ñemboheko
@@ -243,6 +243,7 @@ unknown-failure = Tysýi vai; ayvu jejavy { $failureCode }
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Ta'ãngamýi Mbopapapy'oha
 d3d9video-crash-buard = D3D9 Ta'ãngamýi Mbopapapy'oha
+d3d9video-crash-guard = D3D9 Ta'ãngamýi Mbopapapy'oha
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Embojevy moñepyrũjey uperire
 gpu-process-kill-button = GPU raperekogua mohu'ã
