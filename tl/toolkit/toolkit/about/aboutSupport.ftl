@@ -136,7 +136,7 @@ media-capabilities-title = Mga Media Capability
 # List all the entries of the database.
 media-capabilities-enumerate = Ilista ang database
 
-
+##
 
 intl-title = Internationalization & Localization
 intl-app-title = Mga Application Setting
@@ -243,6 +243,7 @@ unknown-failure = Nakablocklist; failure code { $failureCode }
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video Decoder
 d3d9video-crash-buard = D3D9 Video Decoder
+d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = I-reset sa Susunod na Restart
 gpu-process-kill-button = Patigilin ang mga Proseso ng GPU
