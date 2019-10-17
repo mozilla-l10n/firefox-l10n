@@ -464,7 +464,6 @@ choose-bookmark =
 
 home-prefs-content-header = Домівка Firefox
 home-prefs-content-description = Оберіть бажаний вміст для показу в домівці Firefox.
-home-prefs-content-discovery-description = Огляд вмісту в домівці Firefox дозволяє вам знаходити високоякісні, цікаві статті з усього інтернету.
 home-prefs-search-header =
     .label = Пошук в Інтернеті
 home-prefs-topsites-header =
@@ -532,6 +531,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Показувати пошукові пропозиції перед історією перегляду в результатах панелі адреси
+search-show-suggestions-private-windows =
+    .label = Показувати пошукові пропозиції у приватних вікнах
 suggestions-addressbar-settings = Змінити налаштування для історії перегляду, закладок та пропозицій для вкладок
 search-suggestions-cant-show = Пошукові пропозиції не будуть показуватись в панелі адреси, тому що ви налаштували { -brand-short-name } ніколи не запам'ятовувати історію.
 search-one-click-header = Засоби пошуку в один клік
