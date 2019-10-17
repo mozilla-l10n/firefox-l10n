@@ -137,7 +137,7 @@ media-device-rate = Ρυθμός
 media-device-latency = Καθυστέρηση
 media-capabilities-title = Δυνατότητες μέσων
 
-
+##
 
 intl-title = Διεθνοποίηση & μετάφραση
 intl-app-title = Ρυθμίσεις εφαρμογής
@@ -244,6 +244,7 @@ unknown-failure = Μπλοκαρίστηκε, κωδικός αποτυχίας 
 d3d11layers-crash-guard = Συνθέτης D3D11
 d3d11video-crash-guard = Αποκωδικοποιητής βίντεο D3D11
 d3d9video-crash-buard = Αποκωδικοποιητής βίντεο D3D9
+d3d9video-crash-guard = Αποκωδικοποιητής βίντεο D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Επαναφορά στην επόμενη επανεκκίνηση
 gpu-process-kill-button = Τερματισμός διεργασίας GPU
