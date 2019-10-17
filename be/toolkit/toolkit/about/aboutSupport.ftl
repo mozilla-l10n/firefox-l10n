@@ -139,7 +139,7 @@ media-capabilities-title = Медыя-магчымасці
 # List all the entries of the database.
 media-capabilities-enumerate = Пералічыць базу дадзеных
 
-
+##
 
 intl-title = Інтэрнацыяналізацыя і лакалізацыя
 intl-app-title = Налады праграмы
@@ -251,6 +251,7 @@ unknown-failure = У спісе блакавання; код памылкі { $f
 d3d11layers-crash-guard = Кампазітар D3D11
 d3d11video-crash-guard = Відэадэкодэр D3D11
 d3d9video-crash-buard = Відэадэкодэр D3D9
+d3d9video-crash-guard = Відэадэкодэр D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Скінуць пры наступным перазапуску
 gpu-process-kill-button = Завяршыць GPU працэс
