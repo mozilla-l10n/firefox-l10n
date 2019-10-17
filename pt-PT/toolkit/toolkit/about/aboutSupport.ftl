@@ -59,7 +59,6 @@ app-basics-service-workers = Service Workers registados
 app-basics-profiles = Perfis
 app-basics-launcher-process-status = Processo iniciador
 app-basics-multi-process-support = Multi-processamento de janelas
-app-basics-process-count = Processos de conteúdo Web
 app-basics-remote-processes-count = Processos remotos
 app-basics-enterprise-policies = Políticas empresariais
 app-basics-location-service-key-google = Chave do serviço de localização da Google
@@ -115,6 +114,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumentos
 safe-mode-title = Tente o modo de segurança
 restart-in-safe-mode-label = Reiniciar com os extras desativados…
+
+## Media titles
+
+audio-backend = Backend de áudio
+max-audio-channels = Máximo de canais
+channel-layout = Esquema de canal preferido
+sample-rate = Taxa de amostras preferida
 media-title = Multimédia
 media-output-devices-title = Dispositivos de saída
 media-input-devices-title = Dispositivos de entrada
@@ -127,6 +133,9 @@ media-device-format = Formato
 media-device-channels = Canais
 media-device-rate = Taxa
 media-device-latency = Latência
+
+##
+
 intl-title = Internacionalização e idioma
 intl-app-title = Definições da aplicação
 intl-locales-requested = Idiomas solicitados
@@ -241,12 +250,7 @@ uses-tiling = Utiliza mosaicos
 content-uses-tiling = Utiliza mosaicos (conteúdo)
 off-main-thread-paint-enabled = Pintura fora da thread principal ativada
 off-main-thread-paint-worker-count = Contagem de workers de pintura fora da thread principal
-low-end-machine = Detetada máquina de menor desempenho
 target-frame-rate = Taxa de frames alvo
-audio-backend = Backend de áudio
-max-audio-channels = Máximo de canais
-channel-layout = Esquema de canal preferido
-sample-rate = Taxa de amostras preferida
 min-lib-versions = Versão mínima esperada
 loaded-lib-versions = Versão em utilização
 has-seccomp-bpf = Seccomp-BPF (Filtro de chamada do sistema)
