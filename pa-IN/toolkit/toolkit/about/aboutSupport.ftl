@@ -126,7 +126,7 @@ media-device-channels = ਚੈਨਲ
 media-device-rate = ਰੇਟ
 media-device-latency = ਦੇਰੀ
 
-
+##
 
 intl-title = ਕੌਮਾਂਤਰੀਕਰਨ ਤੇ ਇਲਾਕਾਈਕਰਨ
 intl-app-title = ਐਪਲੀਕੇਸ਼ਨ ਸੈਟਿੰਗਾਂ
@@ -233,6 +233,7 @@ unknown-failure = ਪਾਬੰਦੀਸ਼ੁਦਾ; ਅਸਫ਼ਲਤਾ ਕੋਡ {
 d3d11layers-crash-guard = D3D11 ਕੰਪੋਜ਼ਿਟਰ
 d3d11video-crash-guard = D3D11 ਵੀਡੀਓ ਡੀਕੋਡਰ
 d3d9video-crash-buard = D3D9 ਵੀਡੀਓ ਡੀਕੋਡਰ
+d3d9video-crash-guard = D3D9 ਵੀਡੀਓ ਡੀਕੋਡਰ
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = ਅਗਲੀ ਵਾਰ ਮੁੜ-ਚਲਾਉਣ ਉੱਤੇ ਮੁੜ-ਸੈੱਟ ਕਰੋ
 gpu-process-kill-button = Terminate GPU Process
