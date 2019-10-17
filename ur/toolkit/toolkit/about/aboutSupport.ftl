@@ -217,6 +217,7 @@ unknown-failure = بلیک لسٹ؛ ناکامی کوڈ { $failureCode }
 d3d11layers-crash-guard = D3D11 کمپوزیٹر
 d3d11video-crash-guard = D3D11 ویڈیو کوٹواچک
 d3d9video-crash-buard = D3D9 ویڈیو کوٹواچک
+d3d9video-crash-guard = D3D9 ویڈیو کوٹواچک
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = اگلی بار دوبارہ شروع کرنے پر پھر سیٹ  کریں
 gpu-process-kill-button = GPU عمل کاری بند کریں
