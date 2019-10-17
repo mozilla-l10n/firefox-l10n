@@ -181,6 +181,7 @@ unknown-failure = ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ; ವಿಫಲತ
 d3d11layers-crash-guard = D3D11 ಸಂರಚಕ
 d3d11video-crash-guard = D3D11 ವೀಡಿಯೊ ಡೀಕೋಡರ್
 d3d9video-crash-buard = D3D9 ವೀಡಿಯೊ ಡೀಕೋಡರ್
+d3d9video-crash-guard = D3D9 ವೀಡಿಯೊ ಡೀಕೋಡರ್
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = ಮತ್ತೆ ಶುರುಮಾಡಿದಾಗ ಹಿಂದಿನ ಸ್ಥಿತಿಗೆ ಸ್ಥಾಪಿಸು
 min-lib-versions = ನಿರೀಕ್ಷಿಸಲಾದ ಕನಿಷ್ಟ ಆವೃತ್ತಿ
