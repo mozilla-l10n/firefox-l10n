@@ -39,7 +39,6 @@ app-basics-performance = Teeyan sahã
 app-basics-service-workers = Service Workers hantumantey
 app-basics-profiles = Alhaaley
 app-basics-multi-process-support = Goyboobo zanfuney
-app-basics-key-google = Google Kufal
 app-basics-key-mozilla = Mozilla gorodoo goy kufal
 app-basics-safe-mode = Saajaw alhaali
 show-dir-label =
@@ -83,6 +82,13 @@ sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 safe-mode-title = Saajaw alhaali šii
 restart-in-safe-mode-label = Tunandi taaga nda tontoni kayantey…
+
+## Media titles
+
+audio-backend = Jinde bendoo
+
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -165,7 +171,6 @@ d3d9video-crash-buard = D3D9 widewo feerandikaw
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Yeeti hiino tunandiyanoo ga
 gpu-process-kill-button = GPU goyoo kayandi
-audio-backend = Jinde bendoo
 min-lib-versions = Dumi naatante kul ikaccaa
 loaded-lib-versions = Dumi goyante
 has-seccomp-bpf = Seccomp-BPF (Dabariɲaa ciyari fayyan)
