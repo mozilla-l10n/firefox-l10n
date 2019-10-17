@@ -136,7 +136,7 @@ media-capabilities-title = Medijowe móžnosći
 # List all the entries of the database.
 media-capabilities-enumerate = Datowu banku nalicyś
 
-
+##
 
 intl-title = Internacionalizacija a lokalizacija
 intl-app-title = Nastajenja nałoženja
@@ -253,6 +253,7 @@ unknown-failure = W blokěrowańskej lisćinje; zmólkowy kod { $failureCode }
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video Decoder
 d3d9video-crash-buard = D3D9 Video Decoder
+d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Pśi pśiducem nowem starśe slědk stajiś
 gpu-process-kill-button = GPU-proces skóńcyś
