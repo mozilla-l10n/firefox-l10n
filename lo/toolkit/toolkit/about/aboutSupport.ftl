@@ -89,6 +89,10 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = ລອງໃຊ້ໂຫມດປອດໄພ
 restart-in-safe-mode-label = ເລີ່ມເຮັດວຽກໃຫມ່ພ້ອມປິດໃຊ້ງານໂປຣແກຣມເສີມ…
+
+## Media titles
+
+audio-backend = Audio Backend
 media-title = ມີເດຍ
 media-output-devices-title = ອຸປະກອນອອກ
 media-input-devices-title = ອຸປະກອນເຂົ້າ
@@ -101,6 +105,9 @@ media-device-format = ຮູບແບບ
 media-device-channels = ຊ່ອງ
 media-device-rate = ອັດຕາ
 media-device-latency = ການຍືດເວລາ
+
+##
+
 intl-app-title = ການຕັ້ງຄ່າແອັບພິເຄຊັ່ນ
 intl-os-title = ລະ​ບົບ​ປະ​ຕິ​ບັດ​ການ
 # Variables
@@ -174,10 +181,10 @@ unknown-failure = Blocklisted; ລະຫັດຂໍ້ຜິດພາດ { $fai
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = ຕົວຖອດລະຫັດວິດີໂອ D3D11
 d3d9video-crash-buard = ຕົວຖອດລະຫັດວິດີໂອ D3D9
+d3d9video-crash-guard = ຕົວຖອດລະຫັດວິດີໂອ D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = ກັບໄປສູ່ການຕັ້ງຄ່າເດີມໃນການ Restart ຄັ້ງຕໍ່ໄປ
 gpu-process-kill-button = ຢຸດໂປຣເຊສ GPU
-audio-backend = Audio Backend
 min-lib-versions = ລຸ້ນຕຳສຸດທີ່ສາມາດໃຊ້ໄດ້
 loaded-lib-versions = ລຸ້ນທີ່ກຳລັງນຳໃຊ້ຢູ່
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
