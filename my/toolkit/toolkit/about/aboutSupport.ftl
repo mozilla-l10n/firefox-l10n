@@ -164,6 +164,7 @@ unknown-failure = ပိတ်ပင်စာရင်းထဲ ထည့်ထ�
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video Decoder
 d3d9video-crash-buard = D3D9 Video Decoder
+d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = နောက်တစ်ကြိမ်ဖွင့်သည့်အချိန်တွင် တန်ဖိုးများကို မူလအတိုင်း ပြန်သတ်မှတ်ပါ
 gpu-process-kill-button = GPU လုပ်ဆောင်မှုကို ရပ်ဆိုင်းရန်
