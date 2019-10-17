@@ -49,7 +49,6 @@ app-basics-service-workers = રજીસ્ટર કરેલ Service Workers
 app-basics-profiles = પ્રોફાઇલ્સ
 app-basics-launcher-process-status = લોંચર પ્રક્રિયા
 app-basics-multi-process-support = મલ્ટીપ્રોસેસ વિન્ડો
-app-basics-process-count = વેબ સામગ્રી પ્રક્રિયાઓ
 app-basics-remote-processes-count = દૂરસ્થ પ્રક્રિયાઓ
 app-basics-enterprise-policies = સંગઠન નીતિ
 app-basics-location-service-key-google = Google સ્થાન સર્વિસ કી
@@ -103,6 +102,13 @@ sandbox-sys-call-number = સિસકૉલ
 sandbox-sys-call-args = દલીલો
 safe-mode-title = સુરક્ષિત મોડ અજમાવો
 restart-in-safe-mode-label = નિષ્ક્રિય થયેલ ઍડ-ઑન સાથે પુન:શરૂ કરો…
+
+## Media titles
+
+audio-backend = ઑડિઓ બેકએન્ડ
+max-audio-channels = મહત્તમ ચૅનલ્સ
+channel-layout = મનપસંદ ચેનલ લેઆઉટ
+sample-rate = મનપસંદ નમૂના દર
 media-title = મીડિયા
 media-output-devices-title = આઉટપુટ ઉપકરણો
 media-input-devices-title = ઇનપુટ ઉપકરણો
@@ -115,6 +121,9 @@ media-device-format = બંધારણ
 media-device-channels = ચેનલ્સ
 media-device-rate = દર
 media-device-latency = લેટન્સી
+
+##
+
 intl-title = આંતરરાષ્ટ્રીયકરણ & સ્થાનિકીકરણ
 intl-app-title = એપ્લિકેશનની સેટિંગ્સ
 intl-locales-requested = વિનંતી કરેલ લૉકેલ્સ
@@ -228,12 +237,7 @@ uses-tiling = ટાઇલીંગનો ઉપયોગ કરે છે
 content-uses-tiling = ટાઇલિંગનો ઉપયોગ (સામગ્રી)
 off-main-thread-paint-enabled = બંધ મુખ્ય થ્રેડ પેઈન્ટીંગ સક્ષમ
 off-main-thread-paint-worker-count = મુખ્ય થ્રેડ પેઈન્ટીંગ કામદાર ગણક બંધ
-low-end-machine = ઓછા પ્રભાવશાળી મશીન શોધી કાઢ્યું
 target-frame-rate = લક્ષ્ય ફ્રેમ દર
-audio-backend = ઑડિઓ બેકએન્ડ
-max-audio-channels = મહત્તમ ચૅનલ્સ
-channel-layout = મનપસંદ ચેનલ લેઆઉટ
-sample-rate = મનપસંદ નમૂના દર
 min-lib-versions = ઇચ્છિત ન્યૂનત્તમ આવૃત્તિ
 loaded-lib-versions = વપરાશમાં આવૃત્તિ
 has-seccomp-bpf = Seccomp-BPF (સિસ્ટમ કૉલ ફિલ્ટરિંગ)
