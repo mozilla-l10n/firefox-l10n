@@ -46,9 +46,7 @@ app-basics-service-workers = ලියාපදිංචි කළ Service Worke
 app-basics-profiles = පැතිකඩයන්
 app-basics-launcher-process-status = දියත්කිරීම් සැකසුම
 app-basics-multi-process-support = බහුසැකසුම් කවුළු
-app-basics-process-count = ජාල අන්තර්ගත සැකසුම්
 app-basics-enterprise-policies = ව්‍යවසාය ප්‍රතිපත්ති
-app-basics-key-google = Google යතුර
 app-basics-key-mozilla = Mozilla ස්ථාන සේවා යතුර
 app-basics-safe-mode = ආරක්ෂිත ප්‍රකාරය
 show-dir-label =
@@ -86,6 +84,9 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-args = තර්ක
 safe-mode-title = ආරක්ෂිත ප්‍රකාරය උත්සහ කරන්න
 restart-in-safe-mode-label = ඇඩෝන අක්‍රීය කර යළි ආරම්භ කරන්න…
+
+## Media titles
+
 media-output-devices-title = ප්‍රතිදාන උපාංග
 media-input-devices-title = ආදාන උපකරණ
 media-device-name = නම
@@ -94,6 +95,9 @@ media-device-vendor = සම්පාදක
 media-device-state = තත්වය
 media-device-preferred = කැමති
 media-device-format = හැඩසවිය
+
+##
+
 intl-os-title = මෙහෙයුම් පද්ධතිය
 # Variables
 # $days (Integer) - Number of days of crashes to log
