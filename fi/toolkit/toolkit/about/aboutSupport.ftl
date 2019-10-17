@@ -55,7 +55,6 @@ app-basics-service-workers = Rekisteröidyt Service Workers -apukomentosarjat
 app-basics-profiles = Profiilit
 app-basics-launcher-process-status = Käynnistysprosessi
 app-basics-multi-process-support = Useaa prosessia hyödyntäviä ikkunoita
-app-basics-process-count = Verkkosisällön prosesseja
 app-basics-remote-processes-count = Etäprosessit
 app-basics-enterprise-policies = Yrityskäytännöt
 app-basics-location-service-key-google = Google Location Service -avain
@@ -111,6 +110,13 @@ sandbox-sys-call-number = Järjestelmäkutsu
 sandbox-sys-call-args = Argumentit
 safe-mode-title = Kokeile vikasietotilaa
 restart-in-safe-mode-label = Käynnistä uudelleen ilman lisäosia…
+
+## Media titles
+
+audio-backend = Äänen taustajärjestelmä
+max-audio-channels = Kanavia enintään
+channel-layout = Ensisijainen kanava-asettelu
+sample-rate = Ensisijainen näytteenottotaajuus
 media-title = Media
 media-output-devices-title = Toistolaitteet
 media-input-devices-title = Syöttölaitteet
@@ -123,6 +129,9 @@ media-device-format = Muoto
 media-device-channels = Kanavia
 media-device-rate = Näytteenottotaajuus
 media-device-latency = Viive
+
+##
+
 intl-title = Internationalisointi ja lokalisointi
 intl-app-title = Sovelluksen asetukset
 intl-locales-requested = Pyydetyt localet
@@ -237,12 +246,7 @@ uses-tiling = Käyttää ruutuihin jakoa
 content-uses-tiling = Käyttää ruutuihin jakoa (sisältö)
 off-main-thread-paint-enabled = Pääsäikeen ulkopuolinen piirtäminen käytössä
 off-main-thread-paint-worker-count = Pääsäikeen ulkopuolisen piirtämisen työyksiköitä
-low-end-machine = Havaittu vähemmän suorituskykyinen kone
 target-frame-rate = Tavoitteellinen kuvataajuus
-audio-backend = Äänen taustajärjestelmä
-max-audio-channels = Kanavia enintään
-channel-layout = Ensisijainen kanava-asettelu
-sample-rate = Ensisijainen näytteenottotaajuus
 min-lib-versions = Odotettu minimiversio
 loaded-lib-versions = Käytössä oleva versio
 has-seccomp-bpf = Seccomp-BPF (Järjestelmäkutsujen suodatus)
