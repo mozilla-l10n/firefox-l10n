@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Nā gahuin sa nana'ui' yitïnj
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = Dunâj da' nahuin man sa riña nana'uì' niganjt sa ruhuât riña Private Windows
+    .accesskey = P

@@ -45,9 +45,6 @@ newtab-topsites-save-button = Na'nïnj sà'
 newtab-topsites-preview-button = Daj gá ma
 newtab-topsites-add-button = Nutà'
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Yitinj àni ruat dure' daran' riña gaché nut riña pagina na anj?
@@ -83,14 +80,24 @@ newtab-menu-delete-history = Dure' riña gaché nu'
 newtab-menu-save-to-pocket = Nanín sa'aj riña { -pocket-brand-name }
 newtab-menu-delete-pocket = Dure' riña { -pocket-brand-name }
 newtab-menu-archive-pocket = Nagi'iaj chre' riña { -pocket-brand-name }
+newtab-menu-show-privacy-info = Nej duguî' rugûñu'unj ni sa tna'uej rayi'ît
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Gà' huaj
+newtab-privacy-modal-header = Ûta ña'an hua sa gaché nu huìt
+newtab-privacy-modal-paragraph =
+    Hue'ê hua nej nuguan' nata' nej ñûnj, dadànj ni nadigân ñûnj sa hua ñan'an doj nej, ¶ Sa nagui niña nej duguî' ni'in. Ni si giriñu ruhuât nga sa naga'naj a nga aché nunt¶
+    nitaj a'ngo sinuguan't naj riña aga' nan { -brand-product-name } - rugui' ni'iaj ñûnj¶
+    danj naj huaj riña nej duguî' rugûñu'unj un.
+newtab-privacy-modal-link = Gini'in dàj 'iaj sun sa dugumîn sò' riña rakïj ñanj nakà nan
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Durë' sa arajsun nichrò' doj
 # Bookmark is a verb here.
 newtab-menu-bookmark = Sa arajsun nichrò' doj
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -120,10 +127,6 @@ newtab-label-removed-bookmark = Nare' markadô
 newtab-label-recommended = Chrej nìkoj hua
 newtab-label-saved = Nanín sa'aj riña { -pocket-brand-name }
 newtab-label-download = Ngà nadunin'
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
