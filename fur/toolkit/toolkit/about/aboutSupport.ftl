@@ -30,6 +30,15 @@ a11y-title = Acessibilitât
 a11y-activated = Ative
 copy-text-to-clipboard-label = Copie dut tai Aponts
 restart-in-safe-mode-label = Torne a inviâ cu lis Zontis disativadis
+
+## Media titles
+
+audio-backend = Backend audio
+max-audio-channels = Massim numar di canai
+channel-layout = Aspiet dai canai preferît
+
+##
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -114,15 +123,13 @@ unknown-failure = Inte liste di bloc; codiç di erôr { $failureCode }
 d3d11layers-crash-guard = Composizion D3D11
 d3d11video-crash-guard = Decoder video D3D11
 d3d9video-crash-buard = Decoder video D3D9
+d3d9video-crash-guard = Decoder video D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Ripristine al prossim inviament
 gpu-process-kill-button = Finìs procès GPU
 gpu-device-reset-button = Restaurazion dal dispositîf di ativazion
 uses-tiling = Us di Mosaics
 content-uses-tiling = Us di Mosaics (contignût)
-audio-backend = Backend audio
-max-audio-channels = Massim numar di canai
-channel-layout = Aspiet dai canai preferît
 loaded-lib-versions = Version in funzion
 has-user-namespaces = Spazis Non utent
 has-privileged-user-namespaces = Spazis Non utent par procès privilegjâts
