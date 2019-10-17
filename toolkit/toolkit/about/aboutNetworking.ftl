@@ -38,8 +38,8 @@ set-log-file = Nastavit soubor protokolu
 set-log-modules = Nastavit moduly protokolu
 start-logging = Spustit ukládání protokolu
 stop-logging = Ukončit ukládání protokolu
-dns-lookup = Vyhledávání DNS
-dns-lookup-button = Resolve
+dns-lookup = Vyhledávání v DNS
+dns-lookup-button = Přeložit
 dns-domain = Doména:
 dns-lookup-table-column = IP adresy
 rcwn = Statistiky RCWN
@@ -57,3 +57,9 @@ rcwn-avg-long = Dlouhodobý průměr
 rcwn-std-dev-long = Dlouhodobá směrodatná odchylka
 rcwn-cache-slow = Počet pomalých přístupů do mezipaměti
 rcwn-cache-not-slow = Počet rychlých přístupů do mezipaměti
+
+## Link is intended as "network link"
+
+
+
+
