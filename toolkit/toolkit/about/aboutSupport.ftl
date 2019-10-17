@@ -217,6 +217,7 @@ unknown-failure = مسدود شده،‌ کد خطا { $failureCode }
 d3d11layers-crash-guard = حروفچین D3D11
 d3d11video-crash-guard = رمزگشا فیلم D3D11
 d3d9video-crash-buard = رمزگشا فیلم D3D9
+d3d9video-crash-guard = رمزگشا فیلم D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = تنظیم مجدد بعد از راه اندازی مجدد
 gpu-process-kill-button = خاتمه پروسهٔ GPU
