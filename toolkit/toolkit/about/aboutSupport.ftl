@@ -139,7 +139,7 @@ media-capabilities-title = 媒體能力
 # List all the entries of the database.
 media-capabilities-enumerate = 列舉資料庫
 
-
+##
 
 intl-title = 國際化與在地化
 intl-app-title = 應用程式設定
@@ -226,6 +226,7 @@ unknown-failure = 已封鎖，錯誤代碼 { $failureCode }
 d3d11layers-crash-guard = D3D11 合成器
 d3d11video-crash-guard = D3D11 視訊解碼器
 d3d9video-crash-buard = D3D9 視訊解碼器
+d3d9video-crash-guard = D3D9 視訊解碼器
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = 下次重新啟動時重設
 gpu-process-kill-button = 結束 GPU 處理程序
