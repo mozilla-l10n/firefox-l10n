@@ -58,6 +58,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.tooltip "Eliger un dimension de character">
 <!ENTITY decreaseFontSize.label "Plus micre">
 <!ENTITY decreaseFontSize.accesskey "m">
 <!ENTITY decrementFontSize.key "&lt;">
