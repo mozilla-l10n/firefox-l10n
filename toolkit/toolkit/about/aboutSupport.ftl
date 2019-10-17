@@ -228,6 +228,7 @@ unknown-failure = Á svörtum lista; villukóði { $failureCode }
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Vídeó afkóðari
 d3d9video-crash-buard = D3D9 Vídeó afkóðari
+d3d9video-crash-guard = D3D9 Vídeó afkóðari
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Endurstilla í næstu endurræsingu
 gpu-process-kill-button = Stöðva GPU ferli
