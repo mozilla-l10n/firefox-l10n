@@ -136,7 +136,7 @@ media-capabilities-title = Khả năng truyền thông
 # List all the entries of the database.
 media-capabilities-enumerate = Liệt kê cơ sở dữ liệu
 
-
+##
 
 intl-title = Quốc tế hóa & bản địa hóa
 intl-app-title = Cài đặt ứng dụng
@@ -223,6 +223,7 @@ unknown-failure = Danh sách chặn; mã lỗi { $failureCode }
 d3d11layers-crash-guard = Bộ soạn nhạc D3D11
 d3d11video-crash-guard = Bộ giải mã video D3D11
 d3d9video-crash-buard = Bộ giải mã video D3D9
+d3d9video-crash-guard = Bộ giải mã video D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Đặt lại vào lần khởi động lại tiếp theo
 gpu-process-kill-button = Buộc dừng quá trình GPU
