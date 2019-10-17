@@ -136,7 +136,7 @@ media-capabilities-title = Mediefunksjonar
 # List all the entries of the database.
 media-capabilities-enumerate = Telje opp databasen
 
-
+##
 
 intl-title = Internasjonalisering og lokalisering
 intl-app-title = Programinnstillingar
@@ -243,6 +243,7 @@ unknown-failure = Svartlista; feilkode { $failureCode }
 d3d11layers-crash-guard = D3D11-kompositoren
 d3d11video-crash-guard = D3D11 videodekodar
 d3d9video-crash-buard = D3D9 videodekodar
+d3d9video-crash-guard = D3D9 videodekodar
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Tilbakestill ved neste omstart
 gpu-process-kill-button = Avslutt GPU-prosess
