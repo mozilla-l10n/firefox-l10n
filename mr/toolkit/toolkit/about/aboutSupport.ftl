@@ -46,7 +46,6 @@ app-basics-performance = कामगिरी
 app-basics-service-workers = नोंदणीकृत Service Workers
 app-basics-profiles = प्रोफाइल
 app-basics-multi-process-support = मल्टिप्रोसेस पटल
-app-basics-process-count = वेब मजकूर प्रक्रिया
 app-basics-key-mozilla = Mozilla स्थान सेवा की
 app-basics-safe-mode = सुरक्षित मोड
 show-dir-label =
@@ -96,6 +95,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = बाब
 safe-mode-title = सुरक्षित पद्धत वापरुन बघा
 restart-in-safe-mode-label = ॲड-ऑन्स् निष्क्रिय करुन पुनःसुरू करा…
+
+## Media titles
+
+audio-backend = ऑडिओ बॅकेण्ड
+max-audio-channels = अधिकतम चॅनल
+channel-layout = प्राधान्यकृत चॅनेल मांडणी
+sample-rate = प्राधान्यकृत नमुना दर
 media-title = मीडिया
 media-output-devices-title = आऊटपुट साधने
 media-input-devices-title = इनपुट साधने
@@ -108,6 +114,9 @@ media-device-format = स्वरूप
 media-device-channels = माध्यम
 media-device-rate = दर
 media-device-latency = विलंब
+
+##
+
 intl-title = आंतरराष्ट्रीयकरण & स्थानिकीकरण
 intl-app-title = अनुप्रयोग सेटिंग्ज
 intl-locales-requested = विनंती केलेले लोकेल
@@ -215,10 +224,6 @@ gpu-process-kill-button = GPU प्रक्रिया समाप्त क
 gpu-device-reset-button = ट्रिगर साधन पुनःस्थापान
 uses-tiling = टाइलिंग वापरते
 off-main-thread-paint-enabled = मुख्य थ्रेडपेक्षा वेगळी चित्रकला सक्षम
-audio-backend = ऑडिओ बॅकेण्ड
-max-audio-channels = अधिकतम चॅनल
-channel-layout = प्राधान्यकृत चॅनेल मांडणी
-sample-rate = प्राधान्यकृत नमुना दर
 min-lib-versions = अपेक्षीत किमान आवृत्ती
 loaded-lib-versions = वापरण्याजोगी आवृत्ती
 has-seccomp-bpf = Seccomp-BPF (सिस्टम कॉल फिल्टरिंग)
