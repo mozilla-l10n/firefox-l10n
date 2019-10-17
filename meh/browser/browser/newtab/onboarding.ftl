@@ -21,19 +21,28 @@ onboarding-button-label-get-started = Kajie´e
 onboarding-welcome-header = Kusɨɨ inidáni nkantanu { -brand-short-name }
 onboarding-welcome-body = Nnani´inu ka̱a̱ nánuku.<br/>kuní kuaíyo daa ka̱a̱{ -brand-product-name }.
 onboarding-welcome-learn-more = Ka´vi kue´eka jiee a va´a ya´a.
+onboarding-welcome-form-header = Kajie´e ya´a
 onboarding-join-form-header = Náyonika { -brand-product-name }
 onboarding-join-form-body = Chu´un correo noo´o saa kajie´e.
 onboarding-join-form-email =
     .placeholder = Chu´un correo
 onboarding-join-form-email-error = Nejika chu´unu iin correo vatu
 onboarding-join-form-continue = Kɨ´ɨ
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Kajie´e sesión
 onboarding-start-browsing-button-label = Kajie´e nánuku
 onboarding-cards-dismiss =
     .title = Xita
     .aria-label = Xita
 
+## Welcome full page string
+
+onboarding-fullpage-form-email =
+    .placeholder = Correo electrónico noo´o…
+
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = Kuiso { -brand-product-name } jii noo´o
 onboarding-sync-welcome-learn-more-link = Ka´vi kue´eka jiie´e Firefox Accounts
 onboarding-sync-form-invalid-input = Nejika chu´unu iin correo vatu
 onboarding-sync-form-input =
@@ -74,6 +83,8 @@ onboarding-mobile-phone-text = Xinuun { -brand-product-name } nuu iOS a xíín A
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Xinuun ka̱a̱ nánuku nuu celular
+onboarding-send-tabs-button = Kajie´e ni´i Send Tabs
+onboarding-pocket-anywhere-title = Ka´vi jee teso´o ntaka nuu
 onboarding-lockwise-passwords-title = Kua´a jii contraseña noo´o ntaka nuu
 onboarding-lockwise-passwords-button2 = Ni'i App
 onboarding-facebook-container-title = Tee xi´ñe nuu Facebook
