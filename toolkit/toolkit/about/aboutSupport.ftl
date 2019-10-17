@@ -113,6 +113,13 @@ sandbox-sys-call-number = Sistema-deia
 sandbox-sys-call-args = Argumentuak
 safe-mode-title = Probatu modu segurua
 restart-in-safe-mode-label = Berrabiarazi gehigarriak desgaituta…
+
+## Media titles
+
+audio-backend = Audio backend-a
+max-audio-channels = Gehienezko kanalak
+channel-layout = Hobetsitako kanal-diseinua
+sample-rate = Hobetsitako lagin-abiadura
 media-title = Multimedia
 media-output-devices-title = Irteerako gailuak
 media-input-devices-title = Sarrerako gailuak
@@ -125,6 +132,9 @@ media-device-format = Formatua
 media-device-channels = Kanalak
 media-device-rate = Emaria
 media-device-latency = Atzerapena
+
+##
+
 intl-title = Internazionalizazioa eta lokalizazioa
 intl-app-title = Aplikazioaren ezarpenak
 intl-locales-requested = Eskatutako hizkuntzak
@@ -230,6 +240,7 @@ unknown-failure = Zerrenda beltzean; { $failureCode } hutsegite-kodea
 d3d11layers-crash-guard = D3D11 konposatzailea
 d3d11video-crash-guard = D3D11 bideo-deskodetzailea
 d3d9video-crash-buard = D3D9 bideo-deskodetzailea
+d3d9video-crash-guard = D3D9 bideo-deskodetzailea
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Berrezarri hurrengo berrabiaraztean
 gpu-process-kill-button = Amaitu GPU prozesua
@@ -240,10 +251,6 @@ content-uses-tiling = Mosaikoa darabil (edukia)
 off-main-thread-paint-enabled = Hari nagusitik kanporako margoketa gaituta
 off-main-thread-paint-worker-count = Hari nagusitik kanporako margoketarako langile kopurua
 target-frame-rate = Helburuko marko-emaria
-audio-backend = Audio backend-a
-max-audio-channels = Gehienezko kanalak
-channel-layout = Hobetsitako kanal-diseinua
-sample-rate = Hobetsitako lagin-abiadura
 min-lib-versions = Esperotako bertsio minimoa
 loaded-lib-versions = Erabiltzen dagoen bertsioa
 has-seccomp-bpf = Seccomp-BPF (Sistema-deien iragaztea)
