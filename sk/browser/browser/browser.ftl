@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Nastaviť ako predvolený vyhľadávací modul
     .accesskey = N
+search-one-offs-context-set-as-default-private =
+    .label = Nastaviť ako predvolený vyhľadávací modul pre súkromné prehliadanie
+    .accesskey = o
