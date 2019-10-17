@@ -136,7 +136,7 @@ media-capabilities-title = Medijos galimybės
 # List all the entries of the database.
 media-capabilities-enumerate = Išvardinti duomenų bazės turinį
 
-
+##
 
 intl-title = Internacionalizacija ir lokalizacija
 intl-app-title = Programos nuostatos
@@ -248,6 +248,7 @@ unknown-failure = Užblokuota; gedimo kodas { $failureCode }
 d3d11layers-crash-guard = D3D11 rinkėjo gija
 d3d11video-crash-guard = D3D11 vaizdo iškoduotuvas
 d3d9video-crash-buard = D3D9 vaizdo iškoduotuvas
+d3d9video-crash-guard = D3D9 vaizdo iškoduotuvas
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Atstatyti kito paleidimo metu
 gpu-process-kill-button = Sustabdyti GPU procesą
