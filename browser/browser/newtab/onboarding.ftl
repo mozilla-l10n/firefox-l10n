@@ -44,6 +44,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Давайце пачнём знаёмства з усім, што вы можаце зрабіць.
 onboarding-fullpage-form-email =
     .placeholder = Адрас вашай эл.пошты…
 
