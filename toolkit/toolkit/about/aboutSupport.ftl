@@ -102,6 +102,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argamaidean
 safe-mode-title = Feuch am modh tèarainte
 restart-in-safe-mode-label = Ath-thòisich leis na tuilleadan air an cur à comas…
+
+## Media titles
+
+audio-backend = Audio Backend
+max-audio-channels = Seanailean air a’ char as motha
+channel-layout = Co-dhealbhadh nan seanail as fhearr dhut
+sample-rate = Reat samplachaidh as fhearr dhut
 media-title = Meadhanan
 media-output-devices-title = Uidheaman às-chuir
 media-input-devices-title = Uidheaman ion-chuir
@@ -114,6 +121,9 @@ media-device-format = Fòrmat
 media-device-channels = Seanailean
 media-device-rate = Reat
 media-device-latency = Latency
+
+##
+
 intl-title = Eadar-nàiseantachadh ⁊ ionadaileadh
 intl-app-title = Roghainnean na h-aplacaid
 intl-locales-requested = Dreachan ionadail a chaidh iarraidh
@@ -228,6 +238,7 @@ unknown-failure = Blocklisted; failure code { $failureCode }
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video Decoder
 d3d9video-crash-buard = D3D9 Video Decoder
+d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Ath-shuidhich aig an ath ath-thòiseachadh
 gpu-process-kill-button = Cuir crìoch air pròiseas an GPU
@@ -238,10 +249,6 @@ content-uses-tiling = Cleachd leacachadh (Susbaint)
 off-main-thread-paint-enabled = Off Main Thread Painting Enabled
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Count
 target-frame-rate = Target Frame Rate
-audio-backend = Audio Backend
-max-audio-channels = Seanailean air a’ char as motha
-channel-layout = Co-dhealbhadh nan seanail as fhearr dhut
-sample-rate = Reat samplachaidh as fhearr dhut
 min-lib-versions = An tionndadh as lugha ris a tha dùil
 loaded-lib-versions = An tionndadh a tha 'ga chleachdadh
 has-seccomp-bpf = Seccomp-BPF (Criathradh ghairmean an t-siostaim)
