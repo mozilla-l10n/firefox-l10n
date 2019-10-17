@@ -21,20 +21,14 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Le niveau de protection est réglé sur <b>Standard</b>.
-protection-header-details-strict = Le niveau de protection est réglé sur <b>Strict</b>.
-protection-header-details-custom = Le niveau de protection est réglé sur <b>Personnalisé</b>.
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Le niveau de protection est réglé sur <b>Standard</b>.
     .title = Ouvrir les paramètres de vie privée
 protection-report-header-details-strict = Le niveau de protection est réglé sur <b>Strict</b>.
     .title = Ouvrir les paramètres de vie privée
 protection-report-header-details-custom = Le niveau de protection est réglé sur <b>Personnalisé</b>.
     .title = Ouvrir les paramètres de vie privée
-protection-report-page-title = Protections de la vie privée
-protection-report-content-title = Protections de la vie privée
+protection-report-page-title = Protection de la vie privée
+protection-report-content-title = Protection de la vie privée
 etp-card-title = Protection renforcée contre le pistage
 etp-card-content = Les traqueurs vous suivent en ligne pour collecter des informations sur vos habitudes de navigation et vos centres d’intérêt. { -brand-short-name } bloque un grand nombre de ces traqueurs et de scripts malveillants.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -56,7 +50,6 @@ lockwise-title = N’oubliez plus jamais vos mots de passe
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } conserve de manière sécurisée vos mots de passe dans votre navigateur.
 lockwise-header-content-logged-in = Enregistrez et synchronisez vos mots de passe sur tous vos appareils en toute sécurité.
-about-logins-view-logins-button = Afficher les identifiants
 protection-report-view-logins-button = Afficher les identifiants
     .title = Ouvrir les identifiants enregistrés
 lockwise-no-logins-content = Installez l’application <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> pour avoir vos mots de passe toujours avec vous.
@@ -118,10 +111,6 @@ password-warning =
         [one] mot de passe enregistré peut avoir été compromis par une fuite de données. Changez ce mot de passe pour une sécurité en ligne accrue. <a data-l10n-name="lockwise-link">Voir les mots de passe enregistrés</a>
        *[other] mots de passe enregistrés peuvent avoir été compromis par une fuite de données. Changez ces mots de passe pour une sécurité en ligne accrue. <a data-l10n-name="lockwise-link">Voir les mots de passe enregistrés</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Ouvrir les paramètres de vie privée
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Ouvrir les identifiants enregistrés
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
