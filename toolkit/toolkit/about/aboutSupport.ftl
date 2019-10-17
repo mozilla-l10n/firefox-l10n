@@ -136,7 +136,7 @@ media-capabilities-title = Médiafunkciók
 # List all the entries of the database.
 media-capabilities-enumerate = Adatbázis felsorolása
 
-
+##
 
 intl-title = Nemzetköziesítés és honosítás
 intl-app-title = Alkalmazásbeállítások
@@ -243,6 +243,7 @@ unknown-failure = Blokkolva, hibakód: { $failureCode }
 d3d11layers-crash-guard = D3D11 kompozitáló
 d3d11video-crash-guard = D3D11 videodekóder
 d3d9video-crash-buard = D3D9 videodekóder
+d3d9video-crash-guard = D3D9 videodekóder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Újraindításkor alaphelyzetbe
 gpu-process-kill-button = GPU folyamat leállítása
