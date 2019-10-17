@@ -168,6 +168,7 @@ unknown-failure = Gagayante; kayyan ašariya { $failureCode }
 d3d11layers-crash-guard = D3D11 teekaw
 d3d11video-crash-guard = D3D11 widewo feerandikaw
 d3d9video-crash-buard = D3D9 widewo feerandikaw
+d3d9video-crash-guard = D3D9 widewo feerandikaw
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Yeeti hiino tunandiyanoo ga
 gpu-process-kill-button = GPU goyoo kayandi
