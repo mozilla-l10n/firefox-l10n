@@ -68,6 +68,7 @@ about-logins-login-intro-heading-logged-in = কোনো চিংক্‌ড 
 login-intro-description = যদি আপুনি আপোনাৰ লগইনবোৰ বেলেগ কোনো ডিভাইচত থকা { -brand-product-name }-ত সঞ্চিত কৰিছে তেন্তে সেয়া ইয়াত এনেকৈ পাব:
 login-intro-instruction-fxa = সেই ডিভাইচত আপোনাৰ { -fxaccount-brand-name } সৃষ্টি বা ছাইন ইন কৰক য'ত আপোনাৰ লগইনবোৰ সঞ্চিত কৰি থোৱা আছে।
 login-intro-instruction-fxa-settings = { -sync-brand-short-name } ছেটিংছত লগইনবোৰৰ চ্চেকব'ক্স চয়ন কৰাটো সুনিশ্চিত কৰক
+about-logins-intro-instruction-help = অধিক সহায়ৰ বাবে <a data-l10n-name="help-link">{ -lockwise-brand-short-name } সাহায্য</a>লৈ যাওঁক
 
 ## Login
 
@@ -78,6 +79,8 @@ login-item-origin-label = ৱেবছাইট ঠিকনা
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ব্যৱহাৰকাৰীনাম
+about-logins-login-item-username =
+    .placeholder = (ব্যৱহাৰকাৰীনাম নাই)
 login-item-copy-username-button-text = কপি কৰক
 login-item-copied-username-button-text = কপি কৰা হ'ল!
 login-item-password-label = পাছৱৰ্ড

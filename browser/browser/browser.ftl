@@ -9,6 +9,18 @@ urlbar-identity-button =
 
 urlbar-midi-notification-anchor =
     .tooltiptext = MIDI পেনেল খোলক
+urlbar-default-notification-anchor =
+    .tooltiptext = বাৰ্তা পেনেল খোলক
+urlbar-geolocation-notification-anchor =
+    .tooltiptext = অৱস্থানৰ অনুৰোধৰ পেনেল খোলক
+urlbar-storage-access-anchor =
+    .tooltiptext = ব্ৰাউজিং কাৰ্য্যকলাপৰ অনুমতিৰ পেনেল খোলক
+urlbar-translate-notification-anchor =
+    .tooltiptext = এই পৃষ্ঠাখন অনুবাদ কৰক
+urlbar-translated-notification-anchor =
+    .tooltiptext = পৃষ্ঠা অনুবাদ পৰিচালনা কৰক
+urlbar-plugins-notification-anchor =
+    .tooltiptext = প্লাগ-ইন ব্যৱহাৰ পৰিচালনা কৰক
 
 ## Page Action Context Menu
 
