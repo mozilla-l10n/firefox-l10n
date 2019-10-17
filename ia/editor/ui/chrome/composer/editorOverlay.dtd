@@ -25,6 +25,7 @@
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd2.label "Ligamine…">
 <!ENTITY insertLinkCmd2.accesskey "L">
+<!ENTITY insertAnchorCmd.label "Ancora con nomine…">
 <!ENTITY insertImageCmd.label "Imagine…">
 <!ENTITY insertImageCmd.accesskey "I">
 <!ENTITY insertHLineCmd.label "Linea horizontal">

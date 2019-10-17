@@ -8,6 +8,7 @@
 <!ENTITY new.label              "Nove">
 <!ENTITY open.label             "Aperir">
 <!ENTITY save.label             "Salvar">
+<!ENTITY publish.label          "Publicar">
 <!ENTITY preview.label          "Navigar">
 <!ENTITY cut.label              "Taliar">
 <!ENTITY copy.label             "Copiar">
@@ -23,9 +24,11 @@
 <!ENTITY smaller.label          "Plus micre">
 <!ENTITY larger.label           "Plus grande">
 <!ENTITY bold.label             "Hardite">
+<!ENTITY bullets.label          "Lista punctate">
 <!ENTITY numbers.label          "Numeros">
 <!ENTITY italic.label           "Italico">
 <!ENTITY outdent.label          "Disindentar">
 <!ENTITY indent.label           "Indentar">
 <!ENTITY underline.label        "Sublinear">
 
+<!ENTITY absolutePosition.label "Positionamento absolute">

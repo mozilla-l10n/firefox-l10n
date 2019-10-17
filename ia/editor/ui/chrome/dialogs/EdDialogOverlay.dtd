@@ -12,3 +12,4 @@
 <!ENTITY makeUrlRelative.accessKey "r">
 
 <!-- Shared by Link and Image dialogs -->
+<!ENTITY LinkURLEditField2.label "Insere un position de pagina web, un file local o selige un ancora con nomine o titulo del menu contextual del campo:">
