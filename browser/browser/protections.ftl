@@ -27,8 +27,8 @@ protection-report-header-details-strict = Schutzstufe gesetzt auf <b>Streng</b>.
     .title = Datenschutz-Einstellungen öffnen
 protection-report-header-details-custom = Schutzstufe gesetzt auf <b>Benutzerdefiniert</b>.
     .title = Datenschutz-Einstellungen öffnen
-protection-report-page-title = Privatsphäre-Schutz
-protection-report-content-title = Privatsphäre-Schutz
+protection-report-page-title = Privatsphäre-Schutzmaßnahmen
+protection-report-content-title = Privatsphäre-Schutzmaßnahmen
 etp-card-title = Verbesserter Tracking-Schutz (Schutz vor Aktivitätenverfolgung)
 etp-card-content = Skripte zur Aktivitätenverfolgung (Online-Tracker) folgen Ihnen über Websites hinweg und sammeln Informationen über Ihre Browser-Gewohnheiten und Interessen. { -brand-short-name } blockiert viele dieser Skripte zur Aktivitätenverfolgung und andere böswillige Skripte.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
