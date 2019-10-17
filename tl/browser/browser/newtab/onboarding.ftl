@@ -33,10 +33,17 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Kailangan ng maayos na email
 onboarding-join-form-legal = Kapag nagpatuloy, ikaw ay sumasang-ayon sa <a data-l10n-name="terms">Terms of Service</a> at <a data-l10n-name="privacy">Privacy Notice</a>.
 onboarding-join-form-continue = Magpatuloy
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Mayroon nang account?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Mag-sign In
 onboarding-start-browsing-button-label = Magsimulang Mag-browse
 onboarding-cards-dismiss =
     .title = Paalisin
     .aria-label = Paalisin
+
+## Welcome full page string
+
 
 ## Firefox Sync modal dialog strings.
 
@@ -103,6 +110,7 @@ onboarding-data-sync-text2 = I-sync ang iyong mga bookmark, password, atbp. sa m
 onboarding-data-sync-button2 = Mag-sign-in sa { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Manatiling Alerto sa mga Data Breach
 onboarding-firefox-monitor-text = Binabantayan ng { -monitor-brand-name } kung ang email mo ay lumabas sa isang data breach at inaalerto ka kung ito'y lumabas sa panibagong breach.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } monitors if your email has appeared in a known data breach and alerts you if it appears in a new breach.
 onboarding-firefox-monitor-button = Mag-sign up para sa mga Alert
 onboarding-browse-privately-title = Mag-browse nang Pribado
 onboarding-browse-privately-text = Binubura ng Private Browsing ang kasaysayan ng mga hinanap mo para hindi malaman ng ibang mga gumagamit ng iyong computer.

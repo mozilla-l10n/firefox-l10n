@@ -19,3 +19,16 @@ open-location = Hanapin o ilagay ang address
 share = Ibahagi
 close-window = Isara ang Window
 open-sidebar = Mga sidebar
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Hanapin Sa:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = Mga Bookmark
+search-opentabs = Buksan ang mga Tab
+search-tags = Mga Tag
+search-titles = Mga Pamagat
+
+
+
