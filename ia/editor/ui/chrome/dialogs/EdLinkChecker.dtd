@@ -3,5 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
+<!ENTITY succeeded.label       "Successo">
 <!ENTITY failed.label          "Fallite">
 <!ENTITY closeButton.label     "Clauder">

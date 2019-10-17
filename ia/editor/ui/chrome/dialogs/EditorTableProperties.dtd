@@ -20,6 +20,10 @@
 <!ENTITY tableBorderWidth.accessKey       "B">
 <!ENTITY tableSpacing.label               "Spatiamento:">
 <!ENTITY tableSpacing.accessKey           "S">
+<!ENTITY tablePxBetwCells.label           "pixels inter cellas">
+<!ENTITY tablePxBetwBrdrCellContent.label "pixels inter bordo del cella e contento">
+<!ENTITY tableAlignment.label             "Alineamento tabella:">
+<!ENTITY tableAlignment.accessKey         "n">
 <!ENTITY tableCaption.label               "Legenda:">
 <!ENTITY tableCaption.accessKey           "L">
 <!ENTITY tableCaptionAbove.label          "Supra del tabella">
@@ -36,11 +40,14 @@
 <!ENTITY cellSelectNext.accessKey         "S">
 <!ENTITY cellSelectPrevious.label         "Precedente">
 <!ENTITY cellSelectPrevious.accessKey     "P">
+<!ENTITY applyBeforeChange.label          "Le cambios essera applicate ante modificar le selection.">
 <!ENTITY cellContentAlignment.label       "Alineamento del contento">
 <!ENTITY cellHorizontal.label             "Horizontal:">
 <!ENTITY cellHorizontal.accessKey         "Z">
 <!ENTITY cellVertical.label               "Vertical:">
 <!ENTITY cellVertical.accessKey           "V">
+<!ENTITY cellStyle.label                  "Stilo cella:">
+<!ENTITY cellStyle.accessKey              "t">
 <!ENTITY cellNormal.label                 "Normal">
 <!ENTITY cellHeader.label                 "Titulo">
 <!ENTITY cellWrap.label                   "Circuir">

@@ -22,8 +22,11 @@
 <!ENTITY InitialText.label "Texto initial:">
 <!ENTITY InitialText.accessKey "T">
 
+<!ENTITY TextAreaWrap.label "Modo de incapsulamento:">
+<!ENTITY TextAreaWrap.accessKey "p">
 <!ENTITY WrapDefault.value "Predefinite">
 <!ENTITY WrapOff.value "Inactive">
 <!ENTITY WrapHard.value "Dur">
+<!ENTITY WrapSoft.value "Legier">
 <!ENTITY WrapPhysical.value "Physic">
 <!ENTITY WrapVirtual.value "Virtual">
