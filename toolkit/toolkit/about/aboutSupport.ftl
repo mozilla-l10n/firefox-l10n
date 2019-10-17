@@ -139,7 +139,7 @@ media-capabilities-title = 媒體能力
 # List all the entries of the database.
 media-capabilities-enumerate = 列舉資料庫
 
-##
+
 
 intl-title = 國際化與在地化
 intl-app-title = 應用程式設定
