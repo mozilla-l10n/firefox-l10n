@@ -136,7 +136,7 @@ media-capabilities-title = Возможности медиа
 # List all the entries of the database.
 media-capabilities-enumerate = Вывести записи из базы данных
 
-
+##
 
 intl-title = Интернационализация и Локализация
 intl-app-title = Настройки приложения
@@ -248,6 +248,7 @@ unknown-failure = Заблокировано; код ошибки { $failureCode
 d3d11layers-crash-guard = Композитор D3D11
 d3d11video-crash-guard = Видеодекодер D3D11
 d3d9video-crash-buard = Видеодекодер D3D9
+d3d9video-crash-guard = Видеодекодер D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Сбросить при следующем перезапуске
 gpu-process-kill-button = Завершить процесс видеокарты
