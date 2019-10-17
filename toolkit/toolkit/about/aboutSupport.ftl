@@ -139,7 +139,7 @@ media-capabilities-title = Медіа-можливості
 # List all the entries of the database.
 media-capabilities-enumerate = Перерахувати базу даних
 
-
+##
 
 intl-title = Інтернаціоналізація та локалізація
 intl-app-title = Налаштування програми
@@ -251,6 +251,7 @@ unknown-failure = Заблоковано; код помилки { $failureCode }
 d3d11layers-crash-guard = Композитор D3D11
 d3d11video-crash-guard = Відео декодер D3D11
 d3d9video-crash-buard = Відео декодер D3D9
+d3d9video-crash-guard = Відео декодер D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Скинути при наступному перезавантаженні
 gpu-process-kill-button = Завершити GPU процес
