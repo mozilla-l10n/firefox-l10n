@@ -116,3 +116,8 @@ cfr-doorhanger-send-tab-ok-button = Ni´í Send Tab
 
 cfr-doorhanger-socialtracking-close-button = Nakasɨ
     .accesskey = C
+
+## Enhanced Tracking Protection Milestones
+
+cfr-doorhanger-milestone-ok-button = Kune´ya kuaíyo
+    .accesskey = K

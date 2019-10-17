@@ -26,7 +26,13 @@ newtab-search-box-search-the-web-input =
 newtab-topsites-add-search-engine-header = Chisó ka̱a̱ nánuku
 newtab-topsites-add-topsites-header = Daa sitio xinañu´u
 newtab-topsites-title-label = Título
+newtab-topsites-title-input =
+    .placeholder = Chu´un iin título
 newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = Tee iin URL
+newtab-topsites-url-validation = Nejika chu´unu iin URL vatu
+newtab-topsites-image-validation = Ntu nkuvi síne tutu natava. Nachu´un inka URL
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -34,9 +40,6 @@ newtab-topsites-cancel-button = Nkuvi
 newtab-topsites-delete-history-button = Náxitá nuu sɨ´ɨ nsá´ánu
 newtab-topsites-save-button = Chuva´a
 newtab-topsites-add-button = Tee
-
-## Top Sites - Delete history confirmation dialog. 
-
 
 ## Top Sites - Delete history confirmation dialog.
 
@@ -78,10 +81,6 @@ newtab-menu-remove-bookmark = Xita a ta´a ini noo´o
 # Bookmark is a verb here.
 newtab-menu-bookmark = A ta´a ini noo´o
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -104,10 +103,6 @@ newtab-label-bookmarked = Nte nuu ta´a ini noo´o
 newtab-label-removed-bookmark = Iin a ta´a ini noo´o nxita
 newtab-label-saved = Chuva´a nuu { -pocket-brand-name }
 newtab-label-download = Nxinuu
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
