@@ -42,8 +42,6 @@ app-basics-performance = Gaawaay
 app-basics-service-workers = Service Workers yees denc
 app-basics-profiles = Jëmm
 app-basics-multi-process-support = Palanteeri bari-jëfiin
-app-basics-process-count = Jëfiinu Ëmbéefu Web
-app-basics-key-google = Caabi Google
 app-basics-key-mozilla = Caabig Mozilla Location Service
 app-basics-safe-mode = Anam gu am kaaraange
 show-dir-label =
@@ -92,6 +90,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Joxaale
 safe-mode-title = Jéem ci Anamu Kaaraange
 restart-in-safe-mode-label = Doxadil Lawal yi te Tàmbaliwaat...
+
+## Media titles
+
+audio-backend = Ndéggatu ginaaw bi
+max-audio-channels = Gën-gee-bari yoon
+channel-layout = Anamu yoon wi nga taamu
+sample-rate = Fréquence d’échantillonnage préférée
 media-title = Xibaarukaay
 media-output-devices-title = Jumtukaayu génn
 media-input-devices-title = Jumtukaayu dugg
@@ -104,6 +109,9 @@ media-device-format = Melokaanal
 media-device-channels = Yoon
 media-device-rate = Baraay
 media-device-latency = Yeexaay
+
+##
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes = { $minutes } simili ci ginnaaw
@@ -169,14 +177,11 @@ unknown-failure = Mis sur liste de blocage ; code d’erreur { $failureCode }
 d3d11layers-crash-guard = Compositeur D3D11
 d3d11video-crash-guard = Décodeur vidéo D3D11
 d3d9video-crash-buard = Décodeur vidéo D3D9
+d3d9video-crash-guard = Décodeur vidéo D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Dooraat soo fay-taalaatee
 gpu-process-kill-button = Taxawal jëfiin gu GPU
 gpu-device-reset-button = Door tàmbaliwaatug jumtukaay bi
-audio-backend = Ndéggatu ginaaw bi
-max-audio-channels = Gën-gee-bari yoon
-channel-layout = Anamu yoon wi nga taamu
-sample-rate = Fréquence d’échantillonnage préférée
 min-lib-versions = Gën-gi-tuuti sumb bees yaakaar
 loaded-lib-versions = Sumb bi ñuy jëfandikoo
 has-seccomp-bpf = Seccomp-BPF (Filtrage des appels système)
