@@ -139,7 +139,7 @@ media-capabilities-title = 미디어 기능
 # List all the entries of the database.
 media-capabilities-enumerate = 데이터베이스 열거
 
-
+##
 
 intl-title = 국제화 & 현지화
 intl-app-title = 응용 프로그램 설정
@@ -226,6 +226,7 @@ unknown-failure = 차단됨; 실패 코드 { $failureCode }
 d3d11layers-crash-guard = D3D11 컴포지터
 d3d11video-crash-guard = D3D11 동영상 디코더
 d3d9video-crash-buard = D3D9 동영상 디코더
+d3d9video-crash-guard = D3D9 동영상 디코더
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = 다음 재시작에 초기화
 gpu-process-kill-button = GPU 프로세스 종료
