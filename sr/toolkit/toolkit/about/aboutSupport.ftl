@@ -105,6 +105,13 @@ sandbox-sys-call-number = Системски позив
 sandbox-sys-call-args = Аргументи
 safe-mode-title = Покушај безбедни режим
 restart-in-safe-mode-label = Рестартуј са онемогућеним додацима…
+
+## Media titles
+
+audio-backend = Audio Backend
+max-audio-channels = Највише канала
+channel-layout = Жељени распоред канала
+sample-rate = Жељена стопа семпла
 media-title = Медиј
 media-output-devices-title = Излазни уређаји
 media-input-devices-title = Улазни уређаји
@@ -117,6 +124,9 @@ media-device-format = Формат
 media-device-channels = Канали
 media-device-rate = Стопа
 media-device-latency = Латентност
+
+##
+
 intl-title = Интернационализација & Локализација
 intl-app-title = Поставке апликације
 intl-locales-requested = Захтевани локали
@@ -222,6 +232,7 @@ unknown-failure = На црној листи; код грешке { $failureCode
 d3d11layers-crash-guard = D3D11 композитор
 d3d11video-crash-guard = D3D11 видео декодер
 d3d9video-crash-buard = D3D9 видео декодер
+d3d9video-crash-guard = D3D9 видео декодер
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Ресетуј при следећем покретању
 gpu-process-kill-button = Угаси GPU процес
@@ -230,10 +241,6 @@ uses-tiling = Користи плочице
 content-uses-tiling = Користи плочице (садржај)
 off-main-thread-paint-enabled = Нит за сликање омогућена
 off-main-thread-paint-worker-count = Thread Painting Worker бројач
-audio-backend = Audio Backend
-max-audio-channels = Највише канала
-channel-layout = Жељени распоред канала
-sample-rate = Жељена стопа семпла
 min-lib-versions = Очекивано минимално издање
 loaded-lib-versions = Издање у употреби
 has-seccomp-bpf = Seccomp-BPF (Системско филтрирање позива)
