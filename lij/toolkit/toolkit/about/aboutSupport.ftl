@@ -222,6 +222,7 @@ unknown-failure = Blocòu; Còdice d'erô { $failureCode }
 d3d11layers-crash-guard = Conpositô D3D11
 d3d11video-crash-guard = Decodificatô video D3D11
 d3d9video-crash-buard = Decodificatô video D3D9
+d3d9video-crash-guard = Decodificatô video D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Reinpòsta a-a proscima avertua
 gpu-process-kill-button = Ferma processo GPU
