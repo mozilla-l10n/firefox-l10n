@@ -73,6 +73,13 @@ copy-raw-data-to-clipboard-label = Khuphela iingcombolo ezingahlelwanga kwiklipb
 sandbox-title = Ibhokisi yesanti
 safe-mode-title = Zama iMo yokuSebenza eKhuselekileyo
 restart-in-safe-mode-label = Qalisa kwakhona izongezelelo zenziwe azasebenza…
+
+## Media titles
+
+audio-backend = I-Audio Backend
+
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -152,10 +159,10 @@ unknown-failure = Ibhlokiwe, ikhowudi yokusilela { $failureCode }
 d3d11layers-crash-guard = D3D11 Umyili
 d3d11video-crash-guard = I-D3D11 Video Decoder
 d3d9video-crash-buard = I-D3D9 Video Decoder
+d3d9video-crash-guard = I-D3D9 Video Decoder
 glcontext-crash-guard = I-OpenGL
 reset-on-next-restart = Seta kwakhona Xa Uphinda Uqala
 gpu-process-kill-button = Yekisa iNkqubo yeGPU
-audio-backend = I-Audio Backend
 min-lib-versions = Inguqulelo encinane elindelekileyo
 loaded-lib-versions = Inguqulelo esetyenziswayo
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
