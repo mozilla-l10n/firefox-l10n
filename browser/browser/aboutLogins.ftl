@@ -6,6 +6,12 @@ about-logins-page-title = লগইন আৰু পাছৱৰ্ড
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = যিকোনো ঠাইতে আপোনাৰ পাছৱৰ্ড লৈ যাওঁক
+login-app-promo-subtitle = বিনামূলীয়া { -lockwise-brand-name } এপটো পাওঁক
+login-app-promo-android =
+    .alt = Google প্লে'ত পাওঁক
+login-app-promo-apple =
+    .alt = এপ ষ্ট'ৰত ডাউনল'ড কৰক
 login-filter =
     .placeholder = লগইনৰ সন্ধান কৰক
 create-login-button = নতুন লগইন সৃষ্টি কৰক
@@ -76,12 +82,18 @@ master-password-reload-button =
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = বাতিল কৰক
+confirmation-dialog-dismiss-button =
+    .title = বাতিল কৰক
 confirm-delete-dialog-title = এই লগইন বিলোপ কৰিবনে?
 confirm-delete-dialog-message = এই কাৰ্য্য পিছত পূৰ্বৰ দৰে কৰিব নোৱাৰি।
 confirm-delete-dialog-confirm-button = বিলোপ
+confirm-discard-changes-dialog-message = সঞ্চয় নকৰা সকলো সালসলনি হেৰাই যাব।
 
 ## Breach Alert notification
 
+breach-alert-dismiss =
+    .title = এই সতৰ্ক বন্ধ কৰক
 
 ## Error Messages
 

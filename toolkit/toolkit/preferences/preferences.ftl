@@ -4,7 +4,7 @@
 
 password-not-set =
     .value = (নিৰ্ধাৰিত নহয়)
-failed-pw-change = প্ৰমূখ পাছৱাৰ্ড সলনি কৰিব পৰা নাযায়।
+failed-pw-change = প্ৰমূখ পাছৱাৰ্ড সলনি কৰিব পৰা নগ'ল।
 incorrect-pw = আপুনি শুদ্ধ প্ৰমূখ পাছৱাৰ্ড নিদিলে। অনুগ্ৰহ কৰি আকৌ চেষ্টা কৰক।
 pw-change-ok = প্ৰমূখ পাছৱাৰ্ড সফলভাবে সলনি কৰা হ'ল।
 pw-empty-warning = আপোনাৰ সংৰক্ষিত ৱেব আৰু ঈ-মেইলৰ পাছৱাৰ্ড, ফৰ্ম তথ্য, আৰু ব্যক্তিগত চাবিক সুৰক্ষা দিয়া ন'হ'ব।
@@ -18,8 +18,8 @@ pw-remove-button =
 set-password =
     .title = প্ৰমূখ পাছৱাৰ্ড সলনি কৰক
 set-password-old-password = বৰ্ত্তমানৰ পাছৱাৰ্ড:
-set-password-new-password = নতুন পাছৱাৰ্ড দিয়ক:
-set-password-reenter-password = পাছৱাৰ্ড আকৌ দিয়ক:
+set-password-new-password = নতুন পাছৱাৰ্ড প্ৰবিষ্ট কৰক:
+set-password-reenter-password = পাছৱাৰ্ড আকৌ প্ৰবিষ্ট কৰক:
 set-password-meter = পাছৱাৰ্ডৰ গুণৰ একক
 set-password-meter-loading = ল'ড কৰা হৈছে
 master-password-description = প্ৰমূখ পাছৱাৰ্ড ব্যৱহাৰ কৰা হয় ছাইটৰ পাছৱাৰ্ডৰ দৰে সংবেদনশীল তথ্য সংৰক্ষণ কৰিবলৈ ব্যৱহাৰ কৰা হয়।  আপুনি এটা প্ৰমূখ পাছৱাৰ্ড সৃষ্টি কৰিলে প্ৰতি অধিবেশনত এবাৰ তাক লিখিবলৈ কোৱা হ'ব যেতিয়া { -brand-short-name } এ পাছৱাৰ্ডৰে সংৰক্ষিত তথ্য উদ্ধাৰ কৰে।

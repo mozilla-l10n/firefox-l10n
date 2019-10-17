@@ -2,10 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-config-warning-text = এই অগ্ৰণী ছেটিংছ সলনি কৰাটো এই এপ্লিকেশ্যনৰ স্থিৰতা, নিৰাপত্তা আৰু কাৰ্য্যক্ষমতাৰ বাবে ক্ষতিকাৰক হ'ব পাৰে। আপুনি যি কৰি আছে তাৰ বিষয়ে সুনিশ্চিত হৈহে আগবাঢ়িব।
 about-config-warning-checkbox = মোক আকৌ আমনি কৰকচোন!
 about-config2-title = অগ্ৰণী ক'নফিগাৰেশ্যন
 about-config-search-input =
     .placeholder = সন্ধান কৰক
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = সাৱধান হৈ আগবাঢ়িব
+
+
+
 about-config-show-all = সকলো দেখুৱাওক
 about-config-pref-add = যোগ কৰক
 about-config-pref-toggle = ট'গল কৰক
