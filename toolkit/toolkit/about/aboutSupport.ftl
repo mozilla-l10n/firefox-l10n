@@ -42,8 +42,6 @@ app-basics-performance = Rindimientu
 app-basics-service-workers = Trabayadores rexistraos del serviciu
 app-basics-profiles = Perfiles
 app-basics-multi-process-support = Ventanes multiprocesu
-app-basics-process-count = Procesos de conteníu web
-app-basics-key-google = Clave de Google
 app-basics-key-mozilla = Clave del serviciu d'allugmientu de Mozilla
 app-basics-safe-mode = Mou seguru
 show-dir-label =
@@ -93,6 +91,13 @@ sandbox-sys-call-number = Llamada al sistema
 sandbox-sys-call-args = Argumentos
 safe-mode-title = Probar de mou seguru
 restart-in-safe-mode-label = Reaniciar con complementos desactivaos…
+
+## Media titles
+
+audio-backend = Backend d'audiu
+max-audio-channels = Canales máximos
+channel-layout = Distribución preferida de canales
+sample-rate = Tasa preferida d'amuesa
 media-title = Medios
 media-output-devices-title = Preseos de salida
 media-input-devices-title = Preseos d'entrada
@@ -105,6 +110,9 @@ media-device-format = Formatu
 media-device-channels = Canal
 media-device-rate = Tasa
 media-device-latency = Latencia
+
+##
+
 intl-title = Internacionalización
 intl-app-title = Axustes d'aplicación
 intl-locales-requested = Locales solicitaes
@@ -210,10 +218,6 @@ reset-on-next-restart = Reafitar nel reaniciu próximu
 gpu-process-kill-button = Finar procesos de GPU
 gpu-device-reset-button = Aicionar reaniciu del preséu
 off-main-thread-paint-enabled = Activóse'l pintáu fuera del filu principal
-audio-backend = Backend d'audiu
-max-audio-channels = Canales máximos
-channel-layout = Distribución preferida de canales
-sample-rate = Tasa preferida d'amuesa
 min-lib-versions = Versión mínima esperada
 loaded-lib-versions = Versión n'usu
 has-seccomp-bpf = Seccomp-BPF (peñera de llamaes al sistema)
