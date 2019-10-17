@@ -240,6 +240,7 @@ unknown-failure = Blockiert; Fehlercode { $failureCode }
 d3d11layers-crash-guard = D3D11-Compositor
 d3d11video-crash-guard = D3D11-Videodekoder
 d3d9video-crash-buard = D3D9-Videodekoder
+d3d9video-crash-guard = D3D9-Videodekoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Bei nächstem Neustart zurücksetzen
 gpu-process-kill-button = GPU-Prozess beenden
