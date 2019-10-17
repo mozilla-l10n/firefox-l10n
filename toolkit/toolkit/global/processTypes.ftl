@@ -4,3 +4,9 @@
 
 process-type-web = वेब मजकूर
 process-type-extension = विस्तार
+# process used to isolate webpages that requested special
+# permission to allocate large amounts of memory
+process-type-weblargeallocation = मोठे वाटप
+# process used to communicate with the GPU for
+# graphics acceleration
+process-type-gpu = GPU

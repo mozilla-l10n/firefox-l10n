@@ -63,6 +63,7 @@ permissions-invalid-uri-label = कृपया वैध यजमान ना
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-content-blocking-desc = आपण या साइटसाठी मजकूर अवरोधित करणे निष्क्रिय केले आहे.
 
 ## Exceptions - Cookies
 
