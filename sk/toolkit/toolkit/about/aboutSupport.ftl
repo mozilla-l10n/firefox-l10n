@@ -139,7 +139,7 @@ media-capabilities-title = Podpora médií
 # List all the entries of the database.
 media-capabilities-enumerate = Vypísanie databázy
 
-
+##
 
 intl-title = Internacionalizácia a lokalizácia
 intl-app-title = Nastavenia aplikácie
@@ -251,6 +251,7 @@ unknown-failure = Zablokované; chybový kód { $failureCode }
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video dekodér
 d3d9video-crash-buard = D3D9 Video dekodér
+d3d9video-crash-guard = D3D9 Video dekodér
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Obnoviť pri nasledujúcom reštarte
 gpu-process-kill-button = Ukončiť GPU proces
