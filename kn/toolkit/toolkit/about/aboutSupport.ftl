@@ -39,7 +39,6 @@ app-basics-performance = ಕಾರ್ಯಕ್ಷಮತೆ
 app-basics-service-workers = ನೊಂದಾಯಿಸಿಕೊಂಡ ಸೇವಾ ಕೆಲಸಗಾರರು
 app-basics-profiles = ಪ್ರೊಫೈಲ್‌ಗಳು
 app-basics-multi-process-support = ಬಹುಪ್ರಕ್ರಿಯೆ ಕಿಟಕಿಗಳು
-app-basics-key-google = ಗೂಗಲ್ ಕೀ
 app-basics-key-mozilla = Mozilla ಸ್ಥಳ ಸೇವೆ ಕೀ
 app-basics-safe-mode = ಸುರಕ್ಷಾ ಸ್ಥಿತಿ
 show-dir-label =
@@ -84,6 +83,10 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-args = ವಾದಗಳು
 safe-mode-title = ಸುರಕ್ಷಾ ಸ್ಥಿತಿ ಪ್ರಯತ್ನಿಸಿ
 restart-in-safe-mode-label = ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಿ ಆರಂಭಿಸು…
+
+## Media titles
+
+audio-backend = ಆಡಿಯೋ ಹಿಂಬದಿ
 media-title = ಮಾಧ್ಯಮ
 media-device-name = ಹೆಸರು
 media-device-group = ಗುಂಪು
@@ -94,6 +97,9 @@ media-device-format = ಸ್ವರೂಪ
 media-device-channels = ಚಾನೆಲ್‌ಗಳು
 media-device-rate = ದರ
 media-device-latency = ತಡ
+
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -177,7 +183,6 @@ d3d11video-crash-guard = D3D11 ವೀಡಿಯೊ ಡೀಕೋಡರ್
 d3d9video-crash-buard = D3D9 ವೀಡಿಯೊ ಡೀಕೋಡರ್
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = ಮತ್ತೆ ಶುರುಮಾಡಿದಾಗ ಹಿಂದಿನ ಸ್ಥಿತಿಗೆ ಸ್ಥಾಪಿಸು
-audio-backend = ಆಡಿಯೋ ಹಿಂಬದಿ
 min-lib-versions = ನಿರೀಕ್ಷಿಸಲಾದ ಕನಿಷ್ಟ ಆವೃತ್ತಿ
 loaded-lib-versions = ಬಳಸಬೇಕಿರುವ ಆವೃತ್ತಿ
 has-seccomp-bpf = Seccomp-BPF (ಗಣಕ ವ್ಯವಸ್ಥೆ ಕರೆ ಸೋಸುವಿಕೆ)
