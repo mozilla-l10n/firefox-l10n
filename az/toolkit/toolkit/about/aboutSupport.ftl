@@ -46,9 +46,7 @@ app-basics-service-workers = Qeyd Olunmuş Service Worker-lar
 app-basics-profiles = Profillər
 app-basics-launcher-process-status = Başladıcı Prosesi
 app-basics-multi-process-support = Çox əməliyyatlı Pəncərələr
-app-basics-process-count = Web Məzmun Emalçıları
 app-basics-enterprise-policies = Sahibkarlıq Siyasəti
-app-basics-key-google = Google açarı
 app-basics-key-mozilla = Mozilla Mövqe Xidməti Açarı
 app-basics-safe-mode = Təhlükəsiz Rejim
 show-dir-label =
@@ -98,6 +96,13 @@ sandbox-sys-call-number = Sistem çağrısı
 sandbox-sys-call-args = Parametrlər
 safe-mode-title = Təhlükəsiz Modu Yoxlayın
 restart-in-safe-mode-label = Əlavələr sönülü olaraq yenidən başlat…
+
+## Media titles
+
+audio-backend = Səs arxa tərəfi
+max-audio-channels = Maksimum kanal
+channel-layout = Üstünlük verilən kanal düzülüşü
+sample-rate = Üstünlük verilən nümunə tempi
 media-title = Media
 media-output-devices-title = Çıxış cihazları
 media-input-devices-title = Giriş cihazları
@@ -110,6 +115,9 @@ media-device-format = Format
 media-device-channels = Kanallar
 media-device-rate = Tempi
 media-device-latency = Ləngimə
+
+##
+
 intl-title = Beynəlmiləlləşdirmə və Lokallaşdırma
 intl-app-title = Tətbiqetmə Tənzimləmələri
 intl-locales-requested = İstənilən Dillər
@@ -223,12 +231,7 @@ uses-tiling = Lövhəcik işlədir
 content-uses-tiling = Lövhə işlədir (Məzmun)
 off-main-thread-paint-enabled = Sönülü əsas bağın rənglənməsi aktivdir
 off-main-thread-paint-worker-count = Sönülü əsas bağın rənglənməsi işçi sayı
-low-end-machine = Az məhsuldar maşın aşkarlandı
 target-frame-rate = Hədəf Kadr Sürəti
-audio-backend = Səs arxa tərəfi
-max-audio-channels = Maksimum kanal
-channel-layout = Üstünlük verilən kanal düzülüşü
-sample-rate = Üstünlük verilən nümunə tempi
 min-lib-versions = Gözlənilən minimum versiya
 loaded-lib-versions = İstifadə olunan versiya
 has-seccomp-bpf = Seccomp-BPF (Sistem Çağırışı Filtrləmə)
