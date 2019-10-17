@@ -56,7 +56,6 @@ app-basics-service-workers = Тіркелген жұмыс үрдістері
 app-basics-profiles = Профильдер
 app-basics-launcher-process-status = Жөнелтетін үрдіс
 app-basics-multi-process-support = Мультипроцесс терезелері
-app-basics-process-count = Веб құрамасы процестері
 app-basics-remote-processes-count = Қашықтағы үрдістер
 app-basics-enterprise-policies = Кәсіпоорындық саясаттар
 app-basics-location-service-key-google = Google орналасулар қызметінің кілті
@@ -112,6 +111,13 @@ sandbox-sys-call-number = Жүйелік шақыру
 sandbox-sys-call-args = Аргументтер
 safe-mode-title = Қауіпсіз режимін қолданып көру
 restart-in-safe-mode-label = Сөндірілген кеңейтулермен қайта қосу…
+
+## Media titles
+
+audio-backend = Аудио файлдарын ойнату бағдарламасы
+max-audio-channels = Макс. арналар
+channel-layout = Таңдамалы арналар жаймасы
+sample-rate = Таңдамалы кадрлар жиілігі
 media-title = Мультимедиа
 media-output-devices-title = Шығыс құрылғылары
 media-input-devices-title = Енгізу құрылғылары
@@ -124,6 +130,9 @@ media-device-format = Пішімі
 media-device-channels = Арналар
 media-device-rate = Жиілігі
 media-device-latency = Кідірісі
+
+##
+
 intl-title = Интернационалдандыру және локализация
 intl-app-title = Қолданба баптаулары
 intl-locales-requested = Сұралған локальдер
@@ -238,12 +247,7 @@ uses-tiling = Тайлингті қолданады
 content-uses-tiling = Тайлинг қолданады (мазмұны)
 off-main-thread-paint-enabled = Басты емес ағында элементтерді суреттеу іске қосылған
 off-main-thread-paint-worker-count = Негізгі ағыннан тыс салатын воркер саны
-low-end-machine = Өнімділігі аздау машина аяқталды
 target-frame-rate = Кадр/сек мақсат көрсеткіші
-audio-backend = Аудио файлдарын ойнату бағдарламасы
-max-audio-channels = Макс. арналар
-channel-layout = Таңдамалы арналар жаймасы
-sample-rate = Таңдамалы кадрлар жиілігі
 min-lib-versions = Күтілген минималды нұсқасы
 loaded-lib-versions = Қолданыстағы нұсқасы
 has-seccomp-bpf = Seccomp-BPF (Жүйелік шақыруларды сүзгілеу)
