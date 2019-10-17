@@ -15,6 +15,15 @@ login-app-promo-apple =
 login-filter =
     .placeholder = লগইনৰ সন্ধান কৰক
 create-login-button = নতুন লগইন সৃষ্টি কৰক
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = { $title }-ৰ বাবে ফেভিক'ন
+fxaccounts-sign-in-text = আপোনাৰ পাছৱৰ্ডসমূহ আপোনাৰ অন্যান্য ডিভাইচত পাওঁক
+fxaccounts-sign-in-button = { -sync-brand-short-name }-ত ছাইন ইন কৰক
+fxaccounts-avatar-button =
+    .title = একাউণ্ট পৰিচালনা
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -27,6 +36,9 @@ menu-menuitem-preferences =
         [windows] বিকল্পবোৰ
        *[other] অগ্ৰাধিকাৰ
     }
+about-logins-menu-menuitem-help = সহায়
+menu-menuitem-android-app = Android-ৰ বাবে { -lockwise-brand-short-name }
+menu-menuitem-iphone-app = iPhone আৰু iPad-ৰ বাবে { -lockwise-brand-short-name }
 
 ## Login List
 
@@ -41,12 +53,21 @@ login-list-sort-label-text = সজোৱা ক্ৰম:
 login-list-name-option = নাম (A-Z)
 login-list-last-changed-option = শেষবাৰ সলনি হৈছিল
 login-list-last-used-option = শেষবাৰ ব্যৱহৃত
+login-list-intro-title = কোনো লগইন পোৱা নগ'ল
+login-list-intro-description = যেতিয়া আপুনি { -brand-product-name }-ত কোনো পাছৱৰ্ড সঞ্চয় কৰিব তেতিয়া সেইটো ইয়াত দেখা যাব।
+about-logins-login-list-empty-search-title = কোনো লগইন পোৱা নগ'ল
+about-logins-login-list-empty-search-description = আপোনাৰ সন্ধানৰ সৈতে মিলা কোনো ফলাফল নাই।
 login-list-item-title-new-login = নতুন লগইন
 login-list-item-subtitle-new-login = আপোনাৰ লগইন প্ৰত্যয়পত্ৰ প্ৰবিষ্ট কৰক
 login-list-item-subtitle-missing-username = (কোনো ব্যৱহাৰকাৰীনাম নাই)
 
 ## Introduction screen
 
+login-intro-heading = আপোনাৰ সঞ্চিত লগইনবোৰ বিচাৰি আছে? { -sync-brand-short-name } ছেট আপ কৰক।
+about-logins-login-intro-heading-logged-in = কোনো চিংক্‌ড লগইন পোৱা নগ'ল।
+login-intro-description = যদি আপুনি আপোনাৰ লগইনবোৰ বেলেগ কোনো ডিভাইচত থকা { -brand-product-name }-ত সঞ্চিত কৰিছে তেন্তে সেয়া ইয়াত এনেকৈ পাব:
+login-intro-instruction-fxa = সেই ডিভাইচত আপোনাৰ { -fxaccount-brand-name } সৃষ্টি বা ছাইন ইন কৰক য'ত আপোনাৰ লগইনবোৰ সঞ্চিত কৰি থোৱা আছে।
+login-intro-instruction-fxa-settings = { -sync-brand-short-name } ছেটিংছত লগইনবোৰৰ চ্চেকব'ক্স চয়ন কৰাটো সুনিশ্চিত কৰক
 
 ## Login
 
