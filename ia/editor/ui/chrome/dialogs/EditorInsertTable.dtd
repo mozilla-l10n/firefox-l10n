@@ -14,4 +14,5 @@
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY borderEditField.label "Bordo:">
 <!ENTITY borderEditField.accessKey "B">
+<!ENTITY borderEditField.tooltip "Scribe un numero pro le bordo del tabella, o zero (0) pro nulle bordo">
 <!ENTITY pixels.label "pixels">
