@@ -25,7 +25,6 @@ app-basics-show-update-history = Güí ko kúb
 app-basics-os = OS
 app-basics-profiles = Chóy
 app-basics-multi-process-support = Lô Windows
-app-basics-key-google = Gúa Google
 app-basics-safe-mode = Modo Seguro
 show-dir-label =
     { PLATFORM() ->
@@ -56,6 +55,13 @@ sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 sandbox-sys-call-number = Syscall
 restart-in-safe-mode-label = Bí~rè là kíy...
+
+## Media titles
+
+audio-backend = Audio Backend
+
+##
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -106,10 +112,10 @@ unknown-failure = Blocklisted; failure code { $failureCode }
 d3d11layers-crash-guard = D3D11 Composito
 d3d11video-crash-guard = D3D11 Video Decoder
 d3d9video-crash-buard = D3D9 Video Decoder
+d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Bí~rè là kíy
 gpu-process-kill-button = Terminate GPU Process
-audio-backend = Audio Backend
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Seccomp Thread Synchronization
 can-sandbox-content = Content Process Sandboxing
