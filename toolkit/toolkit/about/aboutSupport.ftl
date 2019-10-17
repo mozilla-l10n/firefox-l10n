@@ -45,9 +45,7 @@ app-basics-performance = Rendemento
 app-basics-service-workers = Service Workers rexistrados
 app-basics-profiles = Perfís
 app-basics-multi-process-support = Xanelas multiproceso
-app-basics-process-count = Procesos do contido web
 app-basics-enterprise-policies = Políticas empresariais
-app-basics-key-google = Chave do Google
 app-basics-key-mozilla = Chave do servizo de localización de Mozilla
 app-basics-safe-mode = Modo seguro
 show-dir-label =
@@ -97,6 +95,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumentos
 safe-mode-title = Probar modo seguro
 restart-in-safe-mode-label = Reiniciar cos complementos desactivados…
+
+## Media titles
+
+audio-backend = Sistema de son
+max-audio-channels = Número máximo de canles
+channel-layout = Deseño de canles preferida
+sample-rate = Frecuencia de mostraxe preferida
 media-title = Medios
 media-output-devices-title = Dispositivos de saída
 media-input-devices-title = Dispositivos de entrada
@@ -109,6 +114,9 @@ media-device-format = Formato
 media-device-channels = Canles
 media-device-rate = Frecuencia
 media-device-latency = Latencia
+
+##
+
 intl-title = Internacionalización e localización
 intl-app-title = Configuración do aplicativo
 intl-locales-requested = Idiomas solicitados
@@ -209,6 +217,7 @@ unknown-failure = Pór na lista de bloqueos; código do erro { $failureCode }
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Descodificador de vídeo D3D11
 d3d9video-crash-buard = Descodificador de vídeo D3D9
+d3d9video-crash-guard = Descodificador de vídeo D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Restabelecer no próximo reinicio
 gpu-process-kill-button = Terminar proceso GPU
@@ -217,10 +226,6 @@ uses-tiling = Usa mosaicos
 content-uses-tiling = Usa mosaicos (contido)
 off-main-thread-paint-enabled = Off Main Thread Painting activado
 off-main-thread-paint-worker-count = Contador de workers Off Main Thread Painting
-audio-backend = Sistema de son
-max-audio-channels = Número máximo de canles
-channel-layout = Deseño de canles preferida
-sample-rate = Frecuencia de mostraxe preferida
 min-lib-versions = Esperábase unha versión mínima
 loaded-lib-versions = Versión en uso
 has-seccomp-bpf = Seccomp-BPF (Filtrado de chamadas do sistema)
