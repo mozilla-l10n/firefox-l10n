@@ -237,6 +237,7 @@ unknown-failure = على قائمة الحجب؛ رمز العطل { $failureCod
 d3d11layers-crash-guard = مركّب D3D11
 d3d11video-crash-guard = فاكك ترميز D3D11 للڤديو
 d3d9video-crash-buard = فاكك ترميز D3D9 للڤديو
+d3d9video-crash-guard = فاكك ترميز D3D9 للڤديو
 glcontext-crash-guard = أوپن‌جي‌إل
 reset-on-next-restart = صفّر عند التشغيل التالي
 gpu-process-kill-button = أنهِ سيرورة وحدة معالجة الرسوميات
