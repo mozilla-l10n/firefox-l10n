@@ -33,10 +33,20 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Jildich e-mailadres fereaske
 onboarding-join-form-legal = Troch fierder te gean, geane jo akkoard mei de <a data-l10n-name="terms">Tsjinstbetingsten</a> en <a data-l10n-name="privacy">Privacyferklearring</a>.
 onboarding-join-form-continue = Trochgean
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Hawwe jo al in account?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Oanmelde
 onboarding-start-browsing-button-label = Begjinne mei sneupen
 onboarding-cards-dismiss =
     .title = Fuortsmite
     .aria-label = Fuortsmite
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Litte wy begjinne mei ferkennen fan wat jo allegearre dwaan kinne.
+onboarding-fullpage-form-email =
+    .placeholder = Jo e-mailadres…
 
 ## Firefox Sync modal dialog strings.
 
@@ -103,6 +113,7 @@ onboarding-data-sync-text2 = Syngronisearje jo blêdwizers, wachtwurden en mear,
 onboarding-data-sync-button2 = Oanmelde by { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Bliuw alert op datalekken
 onboarding-firefox-monitor-text = { -monitor-brand-name } hâldt yn de gaten oft jo e-mailadres foar komt yn in datalek en warskôget jo as dit yn in nij datalek ferskynt.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } hâldt yn de gaten oft jo e-mailadres foar komt yn in bekend datalek en warskôget jo as dit yn in nij lek ferskynt.
 onboarding-firefox-monitor-button = Ynskriuwe foar warskôgingen
 onboarding-browse-privately-title = Privee sneupe
 onboarding-browse-privately-text = Priveenavigaasje wisket jo syk- en navigaasjeskiednis, om dit geheim te hâlden foar elkenien dy't jo kompjûter brûkt.

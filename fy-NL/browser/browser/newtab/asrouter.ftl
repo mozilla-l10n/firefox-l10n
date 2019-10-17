@@ -78,6 +78,9 @@ cfr-protections-panel-link-text = Mear ynfo
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Nije funksje:
 cfr-whatsnew-button =
     .label = Wat is der nij
     .tooltiptext = Wat is der nij
@@ -152,3 +155,16 @@ cfr-doorhanger-fingerprinters-heading = { -brand-short-name } hat in fingerprint
 cfr-doorhanger-fingerprinters-description = Jo privacy is wichtich. { -brand-short-name } blokkearret no fingerprinters, dy't stikjes unyk identifisearbere ynformaasje oer jo apparaat sammelje om jo te folgjen.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } hat in cryptominer op dizze side blokkearre
 cfr-doorhanger-cryptominers-description = Jo privacy is wichtich. { -brand-short-name } blokkearret no cryptominers, dy't de kompjûterkrêft fan jo systeem brûke om digitaal jild te minen.
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] { -brand-short-name } hat <b>{ $blockedCount }</b> tracker blokkearre sûnt { $date }!
+       *[other] { -brand-short-name } hat mear as <b>{ $blockedCount }</b> trackers blokkearre sûnt { $date }!
+    }
+cfr-doorhanger-milestone-ok-button = Alles besjen
+    .accesskey = A

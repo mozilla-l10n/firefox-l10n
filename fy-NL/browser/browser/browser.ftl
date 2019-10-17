@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Ynstelle as standertsykmasine
     .accesskey = s
+search-one-offs-context-set-as-default-private =
+    .label = As standertsykmasine foar priveefinsters ynstelle
+    .accesskey = p
