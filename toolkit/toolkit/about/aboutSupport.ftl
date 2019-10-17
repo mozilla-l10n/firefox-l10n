@@ -213,6 +213,7 @@ unknown-failure = Ta na llistáu de bloquéu; códigu de fallu { $failureCode }
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Descodificador de videu D3D11
 d3d9video-crash-buard = Descodificador de videu D3D9
+d3d9video-crash-guard = Descodificador de videu D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Reafitar nel reaniciu próximu
 gpu-process-kill-button = Finar procesos de GPU
