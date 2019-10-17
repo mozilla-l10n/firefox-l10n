@@ -26,3 +26,15 @@ about-private-browsing-not-private = Se riña ventana hua huìi nut akuan' nï
 content-blocking-title = Garrun' riña kontenido
 content-blocking-description = Hua da'aj nej sîtio ni nikaj man sa naga'naj ga'ue ni'iaj sa 'iát nga aché nunt riña internet. Riña nej bentanâ huìi, sa narán riña nej sa hua nikaj { -brand-short-name } ni narán man'an man riña nej sa naga'naj nan.
 about-private-browsing-info-description = { -brand-short-name } Nadure'ej ne sa nana'uî't nga gaché nunt ni naran riña daran' nej bentâna ni nej rakïj ñanj riña gaché nu huì'. Nan ni sê si gata ruhuaj sisi à'ngo nadure'e sò' riña nej sîtio asi riña duguî' du'uej internet, sani rugûñu'un da' 'ngorïnt gini'in sa 'iát ngà aché nunt ni si ga'ue gini'in a'ngô guìi gà'.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } huin sa nana'uì't nuguan'an ngà hua niña riña Private Windows
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Si ruhuât garasunt a'ngô sa riña nanà'uì't ni gui riña <a data-l10n-name="link-options">Sa huaa</a>
+       *[other] Si ruhuât garasunt a'ngô sa riña nanà'uì't ni gui riña <a data-l10n-name="link-options">Sa aran' ruhuât doj</a>
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Narán
