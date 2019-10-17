@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "Загальне">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Вигляд дня і тижня">
 <!ENTITY pref.calendar.view.multiweekview.caption "Вигляд кількох тижнів">
 <!ENTITY pref.calendar.view.workweek.caption "Робочий тиждень">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Показувати номер тижня в переглядах і міні-місяці">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "т">
 <!ENTITY pref.daysoff.label "Робочі дні тижня:">
+
+<!ENTITY pref.workweekDays.label "Робочі дні:">
 
 <!ENTITY pref.calendar.view.daystart.label "День починається о:">
 <!ENTITY pref.calendar.view.daystart.accesskey "Д">

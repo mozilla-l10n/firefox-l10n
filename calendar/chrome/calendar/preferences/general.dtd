@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Основні налаштування" >
+
 <!ENTITY pref.dateformat.label "Формат дати:" >
 <!ENTITY pref.dateformat.accesskey "Ф">
 <!ENTITY pref.dateformat.long "Повний" >
@@ -24,6 +25,9 @@
 <!ENTITY pref.default_event_length.label "Типова тривалість:" >
 <!ENTITY pref.default_event_length.accesskey "т">
 
+<!ENTITY pref.default_event_task_length.label "Типова тривалість події та завдання">
+<!ENTITY pref.default_event_task_length.accesskey "и">
+
 <!ENTITY pref.default_task_none.label "Немає">
 <!ENTITY pref.default_task_start_of_day.label "Початок дня">
 <!ENTITY pref.default_task_end_of_day.label "Кінець дня">
@@ -34,9 +38,6 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Відносно наступної години">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Панель дня">
-<!ENTITY pref.soondays.label "Розділ майбутніх показує:">
-<!ENTITY pref.soondays.accesskey "п">
-
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,
