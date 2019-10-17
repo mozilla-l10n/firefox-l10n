@@ -83,3 +83,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Bruk som standard søkjemotor
     .accesskey = B
+search-one-offs-context-set-as-default-private =
+    .label = Vel som standard søkjemotor for private vindauge
+    .accesskey = p

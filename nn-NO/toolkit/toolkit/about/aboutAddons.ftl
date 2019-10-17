@@ -310,6 +310,8 @@ addon-options-button =
 
 report-addon-button = Rapporter
 remove-addon-button = Fjern
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Kan ikkje fjernast <a data-l10n-name="link">Kvifor?</a>
 disable-addon-button = Slå av
 enable-addon-button = Slå på
 expand-addon-button = Fleire alternativ
