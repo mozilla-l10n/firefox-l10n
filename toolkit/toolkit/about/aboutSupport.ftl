@@ -213,6 +213,7 @@ unknown-failure = Սև ցուցակում, վթարի կոդը՝ { $failureCode 
 d3d11layers-crash-guard = D3D11 կազմարկիչ
 d3d11video-crash-guard = D3D11 տեսանյութի ապակոդավորիչ
 d3d9video-crash-buard = D3D9 տեսանյութի ապակոդավորիչ
+d3d9video-crash-guard = D3D9 տեսանյութի ապակոդավորիչ
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Վերակայել հաջորդ վերամեկնարկից
 gpu-process-kill-button = Ավարտել GPU ընթացքը
