@@ -45,9 +45,7 @@ app-basics-performance = کارکردگی
 app-basics-service-workers = رجسٹر شدہ خدمت کے کارکنان
 app-basics-profiles = پروفا ئلز
 app-basics-multi-process-support = ملٹی عمل ونڈوں
-app-basics-process-count = ویب مواد پروسیسنگ
 app-basics-enterprise-policies = انٹرپرائز کی پالیسیوں
-app-basics-key-google = Google کلید
 app-basics-key-mozilla = ٘Mozilla مقام سروس کلی
 app-basics-safe-mode = محفوظ موڈ
 show-dir-label =
@@ -97,6 +95,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = دلائل
 safe-mode-title = محفوظ موڈ آزمائیں
 restart-in-safe-mode-label = ایڈز آن نا اہل کر کے دوبارہ شروع کریں...
+
+## Media titles
+
+audio-backend = آڈیو پسدید
+max-audio-channels = زیادہ سے زیادہ چینل
+channel-layout = پسندیدہ چینل لے آؤٹ
+sample-rate = ترجیحی نمونہ شرح
 media-title = میڈیا
 media-output-devices-title = آؤٹ پٹ آلات
 media-input-devices-title = ان پٹ آلات
@@ -109,6 +114,9 @@ media-device-format = شکل
 media-device-channels = چینلز
 media-device-rate = شرح
 media-device-latency = لیٹینسی
+
+##
+
 intl-title = انٹرنیشنلائزیشن & لوکلائزیشن
 intl-app-title = ایپلیکیشن ترتیبات
 intl-locales-requested = درخواست کی گئی زبانات
@@ -217,10 +225,6 @@ uses-tiling = ٹائل کا استعمال
 content-uses-tiling = ٹائل(مواد) کا استعمال
 off-main-thread-paint-enabled = Off Main Thread Painting Enabled
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Count
-audio-backend = آڈیو پسدید
-max-audio-channels = زیادہ سے زیادہ چینل
-channel-layout = پسندیدہ چینل لے آؤٹ
-sample-rate = ترجیحی نمونہ شرح
 min-lib-versions = متوقع کم سے کم ورژن
 loaded-lib-versions = استعمال میں ورژن
 has-seccomp-bpf = Seccomp-BFP (نظام کال فلٹرنگ)
