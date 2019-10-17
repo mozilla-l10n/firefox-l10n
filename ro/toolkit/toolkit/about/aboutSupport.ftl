@@ -139,7 +139,7 @@ media-capabilities-title = Capabilități media
 # List all the entries of the database.
 media-capabilities-enumerate = Enumerare bază de date
 
-
+##
 
 intl-title = Internaționalizare și localizare
 intl-app-title = Setări privind aplicația
@@ -251,6 +251,7 @@ unknown-failure = Pe lista de blocări; codu de eroare { $failureCode }
 d3d11layers-crash-guard = Compozitor D3D11
 d3d11video-crash-guard = Decodor video D3D11
 d3d9video-crash-buard = Decodor video D3D9
+d3d9video-crash-guard = Decodor video D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Resetează la următoarea repornire
 gpu-process-kill-button = Termină procesul GPU
