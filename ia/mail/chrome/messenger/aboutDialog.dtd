@@ -80,6 +80,7 @@
      try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.manual.start        "Discargar le ">
 <!ENTITY update.manual.linkText     "ultime version">
+<!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
@@ -89,6 +90,7 @@
      make the localized text short (see bug 843497 for screenshots). -->
 <!ENTITY update.unsupported.start    "Tu non pote facer altere actualisationes in iste systema. ">
 <!ENTITY update.unsupported.linkText "Saper plus">
+<!ENTITY update.unsupported.end      "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
@@ -96,6 +98,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "Discargante actualisation: ">
+<!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Applicante le actualisation…">
 <!ENTITY update.restarting          "Reinitiante…">
@@ -106,3 +109,4 @@
 <!ENTITY channel.description.start  "Tu es actualmente in le ">
 <!ENTITY channel.description.end    " canal de actualisationes. ">
 
+<!ENTITY cmdCloseMac.commandKey "w">
