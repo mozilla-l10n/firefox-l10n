@@ -4,6 +4,33 @@
 
 <!ENTITY doNotDownloadPop3Movemail.label "Pro sparniar spatio del disco, non discargar:">
 <!ENTITY doNotDownloadNntp.label "Pro sparniar spatio del disco, non discargar pro uso offline:">
+<!ENTITY doNotDownloadImap.label "Pro sparniar spatio del disco, discargamento del messages ab le servitor e magazinage de copias local pro uso offline pote esser gerite per etate e dimension.">
+<!ENTITY allFoldersOffline2.label "Reservar in iste computator le messages de tote le plicas de iste conto">
+<!ENTITY allFoldersOffline2.accesskey "o">
+<!ENTITY offlineNotDownload.label "Messages major de">
+<!ENTITY offlineNotDownload.accesskey "m">
+<!ENTITY autosyncNotDownload.label "Non discargar messages major de">
+<!ENTITY autosyncNotDownload.accesskey "m">
+<!ENTITY kb.label "kB">
+<!ENTITY daysOld.label "dies">
+<!ENTITY message.label "messages">
+<!ENTITY nntpNotDownloadRead.label "Leger le messages">
+<!ENTITY nntpNotDownloadRead.accesskey "r">
+<!ENTITY nntpDownloadMsg.label "Messages major de">
+<!ENTITY nntpDownloadMsg.accesskey "j">
+<!ENTITY retentionCleanup.label "Pre recuperar spatio del disco, vetere message pote ser delite permanentemente.">
+<!ENTITY retentionCleanupImap.label "Pre recuperar spatio del disco, vetere message pote ser delite permanentemente, sia copias e originales local, sia sur le servitor remote.">
+<!ENTITY retentionCleanupPop.label "Pre recuperar spatio del disco, vetere message pote ser delite permanentemente, anque originales sur le servitor remote.">
+<!ENTITY retentionKeepMsg.label "Deler messages major de">
+<!ENTITY retentionKeepMsg.accesskey "r">
+<!ENTITY retentionKeepAll.label "Non deler messages major de">
+<!ENTITY retentionKeepAll.accesskey "n">
+<!ENTITY retentionKeepRecent.label "Deler toto salvo le plus recente">
+<!ENTITY retentionKeepRecent.accesskey "s">
+<!ENTITY offlineImapAdvancedOffline.label "Avantiate…">
+<!ENTITY offlineImapAdvancedOffline.accesskey "v">
+<!ENTITY syncGroupTitle.label "Synchronisation de message">
+<!ENTITY diskspaceGroupTitle.label "Spatio de disco">
 
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
@@ -11,3 +38,8 @@
 
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
+<!ENTITY dayAgeInterval.label            "Dies">
+<!ENTITY weekAgeInterval.label           "Septimanas">
+<!ENTITY monthAgeInterval.label          "Menses">
+<!ENTITY yearAgeInterval.label           "Annos">
+<!ENTITY ageAutosyncAfter.label          "">
