@@ -75,7 +75,13 @@ sandbox-sys-call-pid = PID
 sandbox-sys-call-tid = TID
 safe-mode-title = Tem kit maber
 restart-in-safe-mode-label = Cak odoco ma nongo kijuko med-ikome…
+
+## Media titles
+
 media-device-name = Nying
+
+##
+
 intl-locales-requested = Leb ma kipenyo pi gi
 intl-locales-available = Leb matye
 intl-locales-supported = Leb me purugram
@@ -156,6 +162,7 @@ bug-link = bal { $bugNumber }
 unknown-failure = Kigengo woko; kod me poto { $failureCode }
 d3d11video-crash-guard = Lagony Vidio D3D11
 d3d9video-crash-buard = Lagony Vidio D3D9
+d3d9video-crash-guard = Lagony Vidio D3D9
 glcontext-crash-guard = OpenGL
 min-lib-versions = Cik me gwoko cik mamite
 loaded-lib-versions = Gutye ka tic ki cik
