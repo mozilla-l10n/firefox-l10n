@@ -46,7 +46,6 @@ app-basics-service-workers = Service worker registræ
 app-basics-profiles = Profî
 app-basics-launcher-process-status = Processo lanciatou
 app-basics-multi-process-support = Barcoin moltiprocesso
-app-basics-process-count = Processi di contegnui web
 app-basics-enterprise-policies = Critei aziendali
 app-basics-location-service-key-google = Ciave do serviçio de localizaçion de Google
 app-basics-key-mozilla = Ciave do Serviçio de Localizaçion de Mozilla
@@ -98,6 +97,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argomenti
 safe-mode-title = Preuva o mòddo seguo
 restart-in-safe-mode-label = Arvi torna co-i conponenti azonti dizativæ…
+
+## Media titles
+
+audio-backend = Backend de aodio
+max-audio-channels = Mascimo numero de canâ
+channel-layout = Aspeto preferio do canâ
+sample-rate = Frequensa de canpionamento preferia
 media-title = Media
 media-output-devices-title = Dispoxitivi de output
 media-input-devices-title = Dispoxitivi de input
@@ -110,6 +116,9 @@ media-device-format = Formou
 media-device-channels = Canâ
 media-device-rate = Indice
 media-device-latency = Ritardo
+
+##
+
 intl-title = Internaçionalizaçion e Localizaçion
 intl-app-title = Inpostaçioin da aplicaçion
 intl-locales-requested = Localizaçioin domandæ
@@ -221,10 +230,6 @@ uses-tiling = Deuvia ciapelle
 content-uses-tiling = Deuvia ciapelle (Contegnuo)
 off-main-thread-paint-enabled = Painting Abilitou feua do thread prinçipâ
 off-main-thread-paint-worker-count = Conta do worker Painting feua do thread prinçipâ
-audio-backend = Backend de aodio
-max-audio-channels = Mascimo numero de canâ
-channel-layout = Aspeto preferio do canâ
-sample-rate = Frequensa de canpionamento preferia
 min-lib-versions = M'aspetavo 'na verscion minima
 loaded-lib-versions = Verscion in uzo
 has-seccomp-bpf = Seccomp-BPF (filtro ciamæ de scistema)
