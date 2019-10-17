@@ -45,9 +45,7 @@ app-basics-performance = کارایی
 app-basics-service-workers = Service Workerهای ثبت شده
 app-basics-profiles = نمایه
 app-basics-multi-process-support = پنجره‌های چندپردازشی
-app-basics-process-count = پروسه‌های محتوای وب
 app-basics-enterprise-policies = خط و مش های سازمانی
-app-basics-key-google = کلید گوگل
 app-basics-key-mozilla = کلید سرویس مکان‌یابی موزیلا
 app-basics-safe-mode = حالت امن
 show-dir-label =
@@ -97,6 +95,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = آرگومان‌ها
 safe-mode-title = آزمایش حالت امن
 restart-in-safe-mode-label = راه‌اندازی مجدد، همراه با غیرفعال‌سازی افزونه‌ها…
+
+## Media titles
+
+audio-backend = پسانه صوتی
+max-audio-channels = بیشترین میزان کانال‌ها
+channel-layout = لایه کانال ترجیح داده شده
+sample-rate = نرخ مثال ترجیح داده شده
 media-title = رسانه
 media-output-devices-title = دستگاه‌های خروجی
 media-input-devices-title = دستگاه‌های ورودی
@@ -109,6 +114,9 @@ media-device-format = قالب
 media-device-channels = کانال‌ها
 media-device-rate = ارزیابی
 media-device-latency = تاخیر
+
+##
+
 intl-title = بین المللی سازی& محلی سازی
 intl-app-title = تنظیمات برنامه
 intl-locales-requested = مکان‌های درخواست شده
@@ -216,10 +224,6 @@ gpu-device-reset-button = ماشه راه‌ اندازی مجدد دستگاه
 uses-tiling = استفاده از Tiling
 content-uses-tiling = استفاده از Tiling(محتوا)
 off-main-thread-paint-enabled = Off Main Thread Painting فعال شد
-audio-backend = پسانه صوتی
-max-audio-channels = بیشترین میزان کانال‌ها
-channel-layout = لایه کانال ترجیح داده شده
-sample-rate = نرخ مثال ترجیح داده شده
 min-lib-versions = حداقل نسخهٔ لازم
 loaded-lib-versions = نسخهٔ جاری
 has-seccomp-bpf = Seccomp-BPF (پالایش فراخوانی‌های سیستم)
