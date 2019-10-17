@@ -45,9 +45,7 @@ app-basics-performance = Performança
 app-basics-service-workers = Servici Workers enregistrats
 app-basics-profiles = Perfils
 app-basics-multi-process-support = Fenèstras multiprocessus
-app-basics-process-count = Procediments de contengut web
 app-basics-enterprise-policies = Estrategias d’entrepresa
-app-basics-key-google = Clau Google
 app-basics-key-mozilla = Clau del servici de localizacion de Mozilla
 app-basics-safe-mode = Mòde segur
 show-dir-label =
@@ -97,6 +95,13 @@ sandbox-sys-call-number = Crida del sistèma
 sandbox-sys-call-args = Arguments
 safe-mode-title = Ensajar en mòde securizat
 restart-in-safe-mode-label = Reaviar amb los moduls desactivats…
+
+## Media titles
+
+audio-backend = Sistèma de retorn àudio
+max-audio-channels = Nombre de canals maximal
+channel-layout = Mòde de canal preferit
+sample-rate = Taus d'escandalhatge preferit
 media-title = Mèdia
 media-output-devices-title = Periferics de sortida
 media-input-devices-title = Periferics de dintrada
@@ -109,6 +114,9 @@ media-device-format = Format
 media-device-channels = Canals
 media-device-rate = Taus
 media-device-latency = Laténcia
+
+##
+
 intl-title = Lengas e internacionalizacion
 intl-app-title = Paramètres de l’aplicacion
 intl-locales-requested = Lengas demandadas
@@ -218,10 +226,6 @@ uses-tiling = Utiliza lo caladat
 content-uses-tiling = Utiliza lo caladat (contengut)
 off-main-thread-paint-enabled = Desenhar fòra en del fil d’execucion màger activat
 off-main-thread-paint-worker-count = Nombre de workers que participan al painting en defòra del fial d’execucion principal
-audio-backend = Sistèma de retorn àudio
-max-audio-channels = Nombre de canals maximal
-channel-layout = Mòde de canal preferit
-sample-rate = Taus d'escandalhatge preferit
 min-lib-versions = Version minimala esperada
 loaded-lib-versions = Version utilizada
 has-seccomp-bpf = Seccomp-BPF (Filtratge dels apèls sistèma)
