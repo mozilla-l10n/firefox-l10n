@@ -49,7 +49,6 @@ app-basics-service-workers = Labourerien gwazerezh marilhet
 app-basics-profiles = Aeladoù
 app-basics-launcher-process-status = Araezad al lañser
 app-basics-multi-process-support = Prenestroù liesargerzh
-app-basics-process-count = Araezadoù endalc'hadoù web
 app-basics-remote-processes-count = Araezadoù a-bell
 app-basics-enterprise-policies = Reolennoù embregerezh
 app-basics-location-service-key-google = Alc'hwez gwazerezh Google Loation
@@ -103,6 +102,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguzennoù
 safe-mode-title = Klask ar mod diarvar
 restart-in-safe-mode-label = Adloc'hañ gant an askouezhioù diweredekaet…
+
+## Media titles
+
+audio-backend = Drekva aodio
+max-audio-channels = Niver a sanelloù uc'hek
+channel-layout = Mod sanell gwellañ karet
+sample-rate = Feur standilhon gwellañ karet
 media-title = Media
 media-output-devices-title = Trevnadoù ec'hankañ
 media-input-devices-title = Trevnadoù enankañ
@@ -115,6 +121,9 @@ media-device-format = Mentrezh
 media-device-channels = Sanell
 media-device-rate = Feur
 media-device-latency = Dale
+
+##
+
 intl-title = Etrevoradeladur & lec'hiadur
 intl-app-title = Arventennoù an arload
 intl-locales-requested = Yezhoù goulennet
@@ -243,12 +252,7 @@ uses-tiling = Arver an teolioù
 content-uses-tiling = Ober gant an teolioù (endalc'had)
 off-main-thread-paint-enabled = Pentañ e diavaez an neudenn erounezadur pennañ gweredekaet
 off-main-thread-paint-worker-count = Niver a worker o pentañ e diavaez an neudenn erounezadur pennañ
-low-end-machine = Dinoet eo bet ur mekanik nebeutoc'h digonus
 target-frame-rate = Bukenn feur skeudennoù
-audio-backend = Drekva aodio
-max-audio-channels = Niver a sanelloù uc'hek
-channel-layout = Mod sanell gwellañ karet
-sample-rate = Feur standilhon gwellañ karet
 min-lib-versions = Handelv izek gortozet
 loaded-lib-versions = Handelv en arver
 has-seccomp-bpf = Seccomp-BPF (Silañ ar galvoù reizhiad)
