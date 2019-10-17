@@ -461,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Inhoud van Firefox-startpagina
 home-prefs-content-description = Kies welke inhoud u op uw Firefox-startscherm wilt laten weergeven.
-home-prefs-content-discovery-description = Via Content Discovery op de Firefox-startpagina kunt u relevante artikelen op het hele web met hoge kwaliteit vinden.
 home-prefs-search-header =
     .label = Zoeken op het web
 home-prefs-topsites-header =
@@ -528,6 +527,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Zoeksuggesties boven browsergeschiedenis tonen in adresbalkresultaten
+search-show-suggestions-private-windows =
+    .label = Zoeksuggesties weergeven in privévensters
 suggestions-addressbar-settings = Voorkeuren voor navigatiegeschiedenis, bladwijzers en tabbladsuggesties wijzigen
 search-suggestions-cant-show = Zoeksuggesties worden niet in locatiebalkresultaten getoond, omdat u { -brand-short-name } hebt geconfigureerd om nooit geschiedenis te onthouden.
 search-one-click-header = Eén-klik-zoekmachines
