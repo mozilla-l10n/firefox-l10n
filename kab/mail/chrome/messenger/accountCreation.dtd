@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Sbadu amiḍan n yimayl yellan">
+
 <!ENTITY name.label                      "Isem-ik:">
 <!ENTITY name.accesskey                  "I">
 <!ENTITY name.placeholder                "Aneggaru d amezwaru">
@@ -18,7 +19,6 @@
 <!ENTITY password.text                   "Afrayan, ad ittuseqdec kan i weseɣbel n yisem n uqeddac">
 <!ENTITY rememberPassword.label          "Cfu ɣef awal uffir">
 <!ENTITY rememberPassword.accesskey      "C">
-
 <!ENTITY usernameEx.label                "ISem-is n useqdac:">
 <!ENTITY usernameEx.accesskey            "l">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -26,15 +26,21 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "ISem n taɣult">
 
+<!ENTITY protocol.label                  "Aneggaf:">
 <!ENTITY imapLong.label                  "IMAP (ikaramen inmeggagen)">
 <!ENTITY pop3Long.label                  "POP3 (ḥrez imaylen ɣef uselkim-inek)">
 
 <!ENTITY incoming.label                  "Ad yekcem:">
+<!ENTITY incomingColumn.label            "Ad yekcem">
 <!ENTITY outgoing.label                  "Ad yeffeɣ:">
+<!ENTITY outgoingColumn.label            "Ad yeffeɣ">
 <!ENTITY username.label                  "Isem n useqdac:">
 <!ENTITY hostname.label                  "Asenneftaɣ aqeddac">
 <!ENTITY port.label                      "Tabburt">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Aqeddac:">
+<!ENTITY portRow.label                   "Tabburt:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Asesteb">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -60,7 +66,7 @@
 <!ENTITY stop.label                      "Rken">
 <!ENTITY stop.accesskey                  "R">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Sekyed tikelt nniḍen">
@@ -69,6 +75,9 @@
 <!ENTITY manual-edit.accesskey           "f">
 <!ENTITY open-provisioner.label          "Awi tansa n yimayl tamaynut...">
 <!ENTITY open-provisioner.accesskey      "g">
+
+
+<!ENTITY get-help.label                  "Awi-d tallalt">
 
 
 <!ENTITY warning.label                   "Ɣur-k!">
