@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "स्वागत">
+<!ENTITY firstrun_panel_title_welcome "सुस्वागतम्">
 <!ENTITY firstrun_urlbar_message2 "&brandShortName; निवडल्याबद्दल धन्यवाद">
 <!ENTITY newfirstrun_urlbar_message "&brandShortName; मध्ये आपले स्वागत आहे">
 <!ENTITY firstrun_urlbar_subtext2 "Mozillaचे आधुनिक ब्राउझर ना नफा, मुक्त आणि खुल्या वेबसाठी समर्पित आहे.">
@@ -21,10 +21,13 @@
 <!ENTITY firstrun_data_message "कमी डाटा, अधिक बचत">
 <!ENTITY firstrun_data_subtext2 "प्रत्येक साईट भेटीवर कमी माहिती खर्च करण्यासाठी प्रतिमा अडवा.">
 <!ENTITY firstrun_sync_title "ताळमेळ">
+<!ENTITY firstrun_sync_message3 "आपले बुकमार्क, इतिहास आणि संकेतशब्द आपल्या फोनवर सिंक करा.">
 <!ENTITY updatednewfirstrun_sync_title "खाते">
 <!ENTITY firstrun_sync_message2 "आपण जिथून सोडले तिथून उचला.">
 <!ENTITY firstrun_sync_subtext2 "आपल्या सर्व डिव्हाइसेसवर &brandShortName; मध्ये आपण जतन केलेले बुकमार्क, संकेतशब्द आणि इतर गोष्टी शोधण्यासाठी Sync वापरा.">
 <!ENTITY newfirstrun_sync_subtext "मोबाईल मध्ये साठवलेल्या गोष्टी Firefox डेस्कटॉप वर सुरक्षित आणि खाजगीरित्या मिळवा.">
+<!ENTITY firstrun_sendtab_title "टॅब पाठवा">
+<!ENTITY firstrun_sendtab_message "मोबाईलवरून डेस्कटॉपवर टॅब शेअर करा - झटपट.">
 <!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; मधून जास्तीतजास्त फायदा मिळवण्यासाठी साइन इन करा">
 <!ENTITY firstrun_signin_message "जोडणी करा, प्रारंभ करा">
 <!ENTITY firstrun_signin_button "सींक करण्यासाठी साइन इन करा">
@@ -33,6 +36,7 @@
 <!ENTITY  onboard_start_button_browser "ब्राउझिंगला सुरुवात करा">
 <!ENTITY firstrun_button_notnow "सध्या नाही">
 <!ENTITY firstrun_button_next "पुढे">
+<!ENTITY firstrun_signup_button "साइन अप करा">
 
 <!ENTITY firstrun_signin_button2 "साइन इन करा">
 
@@ -497,6 +501,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "शेअर">
 <!ENTITY share_title "याद्वारे शेअर करा">
 <!ENTITY share_image_failed "ही प्रतिमा शेअर करु शकत नाही">
+<!ENTITY share_error_toast_message "सूचित अॅपवर शेअर करण्यात अक्षम">
 <!ENTITY save_as_pdf "PDF म्हणून साठवा">
 <!ENTITY print "छापा">
 <!ENTITY view_page_source "पृष्ठाचे स्रोत पहा">
@@ -597,7 +602,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "स्थळ">
 <!ENTITY bookmark_edit_keyword "संकेतशब्द">
 <!ENTITY bookmark_select_folder "फोल्डर निवडा">
-
 <!ENTITY bookmark_edit_undo "पूर्ववत् करा">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -878,10 +882,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "वाचक पद्धत घटकांना ऑफलाइन वाचण्यासाठी वाचनखूण लावा.">
 <!ENTITY helper_triple_readerview_open_button "वाचनखुणांमध्ये समाविष्ट करा">
 
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "&brandShortName; मध्ये स्वागत आहे">
+<!ENTITY activity_stream_signin_description "आपल्या फायरफॉक्स खात्यासह बुकमार्क, संकेतशब्द आणि बरेच काही सिंक करणे प्रारंभ करा.">
+<!ENTITY activity_stream_signup_button "साइन अप करा">
+<!ENTITY activity_stream_signin_prompt "आधीपासूनच एक खाते आहे?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "साइन इन करा.">
+
 <!ENTITY activity_stream_signin_button "साइन इन करा">
-<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
-These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "खास साईट">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
