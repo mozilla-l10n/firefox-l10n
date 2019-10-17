@@ -80,6 +80,9 @@ cfr-protections-panel-link-text = Докладніше
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Нова функція:
 cfr-whatsnew-button =
     .label = Що нового
     .tooltiptext = Що нового
@@ -155,3 +158,17 @@ cfr-doorhanger-fingerprinters-heading = { -brand-short-name } заблокува
 cfr-doorhanger-fingerprinters-description = Ваша приватність має значення. { -brand-short-name } тепер блокує зчитування відбитку браузера, що збирає частинки інформації, яка використовується для ідентифікації вашого пристрою і стеження за вами.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } заблокував криптомайнер на цій сторінці
 cfr-doorhanger-cryptominers-description = Ваша приватність має значення. { -brand-short-name } тепер блокує криптомайнери, які використовують ресурси вашої системи для видобутку цифрових грошей.
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] { -brand-short-name } заблокував <b>{ $blockedCount }</b> елемент стеження, починаючи з { $date }!
+        [few] { -brand-short-name } заблокував <b>{ $blockedCount }</b> елементи стеження, починаючи з { $date }!
+       *[many] { -brand-short-name } заблокував понад <b>{ $blockedCount }</b> елементів стеження, починаючи з { $date }!
+    }
+cfr-doorhanger-milestone-ok-button = Дивитись все
+    .accesskey = в

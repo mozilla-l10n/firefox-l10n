@@ -44,6 +44,9 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Розпочнімо знайомство з усіма можливостями.
+onboarding-fullpage-form-email =
+    .placeholder = Адреса вашої е-пошти…
 
 ## Firefox Sync modal dialog strings.
 
@@ -110,6 +113,7 @@ onboarding-data-sync-text2 = Синхронізуйте закладки, пар
 onboarding-data-sync-button2 = Увійти в { -sync-brand-short-name(case: "acc") }
 onboarding-firefox-monitor-title = Отримуйте попередження про витоки даних
 onboarding-firefox-monitor-text = { -monitor-brand-name } стежить, чи не з'явилася ваша адреса електронної пошти у витоках даних і одразу повідомляє вас про це.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } стежить, чи не з'явилася ваша адреса електронної пошти у відомих витоках даних і одразу повідомляє вас про це.
 onboarding-firefox-monitor-button = Підписатися на попередження
 onboarding-browse-privately-title = Користуйтесь інтернетом приватно
 onboarding-browse-privately-text = Приватний перегляд очищує вашу історію пошуку і перегляду, щоб не дозволити дізнатися про це іншим користувачам вашого комп'ютера.
