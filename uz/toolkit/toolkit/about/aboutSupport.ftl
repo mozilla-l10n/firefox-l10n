@@ -67,6 +67,13 @@ copy-raw-data-to-clipboard-label = Manba ma’lumotlarni vaqtinchalik xotiraga n
 sandbox-title = Sandbox
 safe-mode-title = Xavfsizlik usulida urinib ko‘ring
 restart-in-safe-mode-label = Qo‘sh. dasturlarni o‘chirib ishga tushirish
+
+## Media titles
+
+audio-backend = Audio Server
+
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -146,9 +153,9 @@ unknown-failure = Blok ro‘yxatiga qo‘shildi; xatolik kodi: { $failureCode }
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video Decoder
 d3d9video-crash-buard = D3D9 Video Decoder
+d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Keyingi ishga tushishda tiklash
-audio-backend = Audio Server
 min-lib-versions = Kutilgan minimum versiya
 loaded-lib-versions = Foydalanilayotgan versiya
 has-seccomp-bpf = Seccomp-BPF (Tizimni chaqirishni filterlash)
