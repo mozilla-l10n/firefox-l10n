@@ -222,6 +222,7 @@ unknown-failure = Əngəlləndi; xəta kodu { $failureCode }
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video Dekodlayıcı
 d3d9video-crash-buard = D3D9 Video Dekodlayıcı
+d3d9video-crash-guard = D3D9 Video Dekodlayıcı
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Sonrakı yenidən başlatmada sıfırla
 gpu-process-kill-button = GPU Prosesi Dayandır
