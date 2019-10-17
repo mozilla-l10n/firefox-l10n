@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fonts-window =
+    .title = Tipografía
 fonts-window-close =
     .key = w
 
@@ -85,8 +87,13 @@ fonts-monospace = Monospace
     .accesskey = M
 fonts-monospace-size = Naja ka´nu
     .accesskey = u
+fonts-minsize = Naja luli koo letra
+    .accesskey = N
 fonts-minsize-none =
     .label = None
+fonts-allow-own =
+    .label = Kua´a daa  página kaji letra, jee nkaji daa a nee íchi sikɨ
+    .accesskey = K
 
 ## Text Encodings
 ##

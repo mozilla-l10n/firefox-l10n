@@ -35,6 +35,7 @@ category-home =
 pane-search-title = Nánuku
 category-search =
     .tooltiptext = { pane-search-title }
+pane-privacy-title = Privacidad jii seguridad
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 pane-sync-title2 = { -sync-brand-short-name }
@@ -67,6 +68,7 @@ restart-later = Nakajie'e inka ichi
 
 ## Preferences UI Search Results
 
+search-results-header = Nánuku resultados
 search-results-help-link = ¿Nukunu chineiani noo´o? Kune´ya <a data-l10n-name="url">Nuu chinei{ -brand-short-name }</a>
 
 ## General Section
@@ -96,6 +98,7 @@ browser-containers-settings =
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Tu´un jii naja tuvi
+fonts-and-colors-header = Letra jii teku
 default-font-size = Naja ka´nu
     .accesskey = N
 colors-settings =
@@ -146,6 +149,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = Ni´i { $plugin-name } (nuu { -brand-short-name })
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -170,6 +177,7 @@ applications-use-other-label =
 
 play-drm-content-learn-more = Ka´vi kue´eka
 update-application-version = Versión { $version } <a data-l10n-name="learn-more"> Nakuvi a jíía íyo</a>
+update-application-allow-description = Kuvini a { -brand-short-name }
 update-in-progress-message = ¿A kuvinu { -brand-short-name } kaka jii a naxi´ñá?
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.

@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+webpage-languages-window =
+    .title = Ke´i tu´un nuu página web
+    .style = width: 40em
 languages-close-key =
     .key = w
 languages-customize-moveup =
