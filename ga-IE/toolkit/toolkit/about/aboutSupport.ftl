@@ -200,6 +200,7 @@ unknown-failure = Ar an liosta blocála; cód teipthe { $failureCode }
 d3d11layers-crash-guard = Eagraí D3D11
 d3d11video-crash-guard = Díchódóir Físe D3D11
 d3d9video-crash-buard = Díchódóir Físe D3D9
+d3d9video-crash-guard = Díchódóir Físe D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Athshocrú ar an chéad atosú eile
 gpu-process-kill-button = Cuir deireadh le próiseas GPU
