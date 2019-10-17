@@ -113,6 +113,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Nuin saj
 safe-mode-title = Garahue' modo seguro
 restart-in-safe-mode-label = Nayi'í ñun' nga nej sa nitaj si 'iaj sun
+
+## Media titles
+
+audio-backend = Sa guni' Backend
+max-audio-channels = Kanal Max
+channel-layout = Nej kanal nihia' doj ruhuât hua
+sample-rate = Dàj nichrà' hua frecuencia garan' ruhuô'
 media-title = Sa ni'io'
 media-output-devices-title = Dispositivo sa ahuii
 media-input-devices-title = Dispositivo sa âtuj u
@@ -125,6 +132,9 @@ media-device-format = Formatù
 media-device-channels = Nej kanal
 media-device-rate = Sa du'ue
 media-device-latency = 'Iaj sunj
+
+##
+
 intl-title = Nagi'iô guendâ yumiguìi & Narì' man
 intl-app-title = Sa nikaj aplikasiûn
 intl-locales-requested = Sa dukuà nana'ui' si doj
@@ -230,6 +240,7 @@ unknown-failure = Nej sa gire'e; daj hua ma { $failureCode }
 d3d11layers-crash-guard = D3D11 Nikaj ñu'unj
 d3d11video-crash-guard = D3D11 Sa Ni'io'
 d3d9video-crash-buard = D3D11 Sa Ni'io'
+d3d9video-crash-guard = D3D11 Sa Ni'io'
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Nayi'i' Ne'ña an Doj
 gpu-process-kill-button = Ganahuij 'iaj sun GPU
@@ -240,10 +251,6 @@ content-uses-tiling = Garasun Tiling (Sa nika)
 off-main-thread-paint-enabled = Hua habilitado ne'e tàj ñaan
 off-main-thread-paint-worker-count = Nitaj ne' rà guendâ pinturâ Konde
 target-frame-rate = Dàj hìo 'iaj sun aga' nan
-audio-backend = Sa guni' Backend
-max-audio-channels = Kanal Max
-channel-layout = Nej kanal nihia' doj ruhuât hua
-sample-rate = Dàj nichrà' hua frecuencia garan' ruhuô'
 min-lib-versions = Versión ana'uij ñun'
 loaded-lib-versions = Versi´n raj sun'
 has-seccomp-bpf = Seccomp-BPF (riña da'ui gachin sa a'min')
