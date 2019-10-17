@@ -39,7 +39,6 @@ app-basics-performance = Feidhmíocht
 app-basics-service-workers = Oibrithe Seirbhíse Cláraithe
 app-basics-profiles = Próifílí
 app-basics-multi-process-support = Fuinneoga Ilphróisis
-app-basics-key-google = Eochair Google
 app-basics-key-mozilla = Eochair Sheirbhís Geoshuite Mozilla
 app-basics-safe-mode = Mód Slán
 show-dir-label =
@@ -88,6 +87,13 @@ sandbox-sys-call-number = Glao ar an gcóras
 sandbox-sys-call-args = Argóintí
 safe-mode-title = Bain triail as an Mód Slán
 restart-in-safe-mode-label = Atosaigh gan aon bhreiseáin…
+
+## Media titles
+
+audio-backend = Inneall Fuaime
+
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -198,7 +204,6 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = Athshocrú ar an chéad atosú eile
 gpu-process-kill-button = Cuir deireadh le próiseas GPU
 gpu-device-reset-button = Cuir tús le hatosú an ghléis
-audio-backend = Inneall Fuaime
 min-lib-versions = Leagan is sine a rabhthas ag súil leis
 loaded-lib-versions = Leagan in úsáid
 has-seccomp-bpf = Seccomp-BPF (Scagadh Glaonna Córais)
