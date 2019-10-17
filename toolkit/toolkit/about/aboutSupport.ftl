@@ -136,7 +136,7 @@ media-capabilities-title = Gallu Cyfryngol
 # List all the entries of the database.
 media-capabilities-enumerate = Cyfrifo'r gronfa ddata
 
-
+##
 
 intl-title = Rhyngwladoli a Lleoleiddio
 intl-app-title = Gosodiadau'r Rhaglen
@@ -263,6 +263,7 @@ unknown-failure = Wedi ei rwystro; gwall cod { $failureCode }
 d3d11layers-crash-guard = Cyfosodwr D3D11
 d3d11video-crash-guard = Dadgodiwr Fideo D3D11
 d3d9video-crash-buard = Dadgodiwr Fideo D3D9
+d3d9video-crash-guard = Dadgodiwr Fideo D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Ailosod wrth Ailgychwyn
 gpu-process-kill-button = Gorffen Proses GPU
