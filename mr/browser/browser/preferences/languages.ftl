@@ -41,6 +41,7 @@ languages-active-code-format =
 browser-languages-window =
     .title = { -brand-short-name } भाषा सेटिंग
     .style = width: 40em
+browser-languages-description = { -brand-short-name } आपली डीफॉल्ट म्हणून प्रथम भाषा प्रदर्शित करेल आणि आवश्यक असल्यास वैकल्पिक भाषा प्रदर्शित करेल.
 browser-languages-search = अधिक भाषा शोधा ...
 browser-languages-searching =
     .label = भाषा शोधत आहे ...
