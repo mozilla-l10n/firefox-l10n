@@ -218,6 +218,7 @@ unknown-failure = Plaçat dins la lista de blocatge; còde d'error { $failureCod
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Desencodador vidèo D3D11
 d3d9video-crash-buard = Desencodador vidèo D3D9
+d3d9video-crash-guard = Desencodador vidèo D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Reïnicializar en reaviar
 gpu-process-kill-button = Acabar lo procediment GPU
