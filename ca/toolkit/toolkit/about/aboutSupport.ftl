@@ -134,7 +134,7 @@ media-device-rate = Freqüència
 media-device-latency = Latència
 media-capabilities-title = Capacitats multimèdia
 
-
+##
 
 intl-title = Internacionalització i localització
 intl-app-title = Paràmetres de l'aplicació
@@ -233,6 +233,7 @@ unknown-failure = És a la llista de bloquejos; codi d'error { $failureCode }
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Descodificador de vídeo D3D11
 d3d9video-crash-buard = Descodificador de vídeo D3D9
+d3d9video-crash-guard = Descodificador de vídeo D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Reinicialitza als valors per defecte en el proper reinici
 gpu-process-kill-button = Finalitza el procés de GPU
