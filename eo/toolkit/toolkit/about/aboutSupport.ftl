@@ -56,7 +56,6 @@ app-basics-service-workers = Registritaj Service Workers
 app-basics-profiles = Profiloj
 app-basics-launcher-process-status = Lanĉa procezo
 app-basics-multi-process-support = Plurprocezaj fenestroj
-app-basics-process-count = Teksaĵaj enhavaj taskoj
 app-basics-remote-processes-count = Foraj procezoj
 app-basics-enterprise-policies = Kompaniaj politikoj
 app-basics-location-service-key-google = Ŝlosilo de la pozicia servo de Google
@@ -112,6 +111,13 @@ sandbox-sys-call-number = Sistema voko
 sandbox-sys-call-args = Parametroj
 safe-mode-title = Provi la sekuran reĝimon
 restart-in-safe-mode-label = Restartigi kun ĉiuj aldonaĵoj malaktivaj…
+
+## Media titles
+
+audio-backend = Sonsistemo
+max-audio-channels = Maksimuma nombro de kanaloj
+channel-layout = Preferata aranĝo de kanaloj
+sample-rate = Preferata specimena frekvenco
 media-title = Aŭdvidaĵo
 media-output-devices-title = Eligaj aparatoj
 media-input-devices-title = Enigaj aparatoj
@@ -124,6 +130,9 @@ media-device-format = Formo
 media-device-channels = Kanaloj
 media-device-rate = Frekvenco
 media-device-latency = Prokrasto
+
+##
+
 intl-title = Lingvo kaj internacieco
 intl-app-title = Agordoj de programo
 intl-locales-requested = Petitaj lingvoj
@@ -229,6 +238,7 @@ unknown-failure = En bloklisto; kodo de malsukceso { $failureCode }
 d3d11layers-crash-guard = D3D11 Komponisto
 d3d11video-crash-guard = D3D11 Videa malkodilo
 d3d9video-crash-buard = D3D9 Videa malkodilo
+d3d9video-crash-guard = D3D9 Videa malkodilo
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Restarigi en la venonta restarto
 gpu-process-kill-button = Fini procezon de GPU
@@ -238,12 +248,7 @@ uses-tiling = Kaheloj uzataj
 content-uses-tiling = Kaheloj uzataj (enhavo)
 off-main-thread-paint-enabled = La farbado ekster la ĉefa fadeno estas aktiva
 off-main-thread-paint-worker-count = Nombro de workers, kiuj farbas ekster la ĉefa fadeno
-low-end-machine = Malpli pova maŝino trovita
 target-frame-rate = Celata frekvenco de kadroj
-audio-backend = Sonsistemo
-max-audio-channels = Maksimuma nombro de kanaloj
-channel-layout = Preferata aranĝo de kanaloj
-sample-rate = Preferata specimena frekvenco
 min-lib-versions = Minimuma atendita versio
 loaded-lib-versions = Uzata versio
 has-seccomp-bpf = Seccomp-BPF (Filtrado de sistemaj vokoj)
