@@ -200,6 +200,7 @@ unknown-failure = Disenarai-sekat; kod kegagalan { $failureCode }
 d3d11layers-crash-guard = Pengatur huruf D3D11
 d3d11video-crash-guard = D3D11 Dekoder Video
 d3d9video-crash-buard = Penyahkodan Video D3D9
+d3d9video-crash-guard = Penyahkodan Video D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Set semula pada Mula semula yang Seterusnya
 gpu-process-kill-button = Batalkan Proses GPU
