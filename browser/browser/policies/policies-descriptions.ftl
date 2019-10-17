@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = Foarkomme dat { -brand-short-name } ûndersiken �
 policy-DisableForgetButton = Tagong ta de knop Ferjitte foarkomme.
 policy-DisableFormHistory = Gjin syk- en formulierskiednis ûnthâlde.
 policy-DisableMasterPasswordCreation = Wannear true, kin gjin haadwachtwurd oanmakke wurde.
+policy-DisablePasswordReveal = Net tastean dat wachtwurden te sjen binne yn bewarre oanmeldingen.
 policy-DisablePocket = De funksje foar it bewarjen fan websiden nei Pocket útskeakelje.
 policy-DisablePrivateBrowsing = Priveenavigaasje útskeakelje.
 policy-DisableProfileImport = De menuopdracht foar it ymportearjen fan gegevens fan in oare browser út útskeakelje.
@@ -61,6 +62,7 @@ policy-HardwareAcceleration = Wannear false, hardwarefersnelling útskeakelje.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = De startside ynstelle en opsjoneel beskoattelje.
 policy-InstallAddonsPermission = Tastean dat bepaalde websites add-ons ynstallearje.
+policy-LegacyProfiles = Funksje om in ôfsûnderlik profyl foar elke ynstallaasje ôf te twingen útskeakelje
 policy-LocalFileLinks = Spesifike websites tastean te keppeljen nei lokale bestannen.
 policy-NetworkPrediction = ‘Network prediction’ (DNS prefetching) ynskeakelje of útskeakelje.
 policy-NewTabPage = De nije-ljepblêdside ynskeakelje of útskeakelje.
