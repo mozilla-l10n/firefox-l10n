@@ -139,7 +139,7 @@ media-capabilities-title = Meedia esitamise võimekus
 # List all the entries of the database.
 media-capabilities-enumerate = Hinda uuesti
 
-
+##
 
 intl-title = Lokaliseerimine
 intl-app-title = Rakenduse sätted
@@ -246,6 +246,7 @@ unknown-failure = Teadaoleva vea tõttu blokitud; veakood: { $failureCode }
 d3d11layers-crash-guard = D3D11 komposiitor
 d3d11video-crash-guard = D3D11 video dekodeerija
 d3d9video-crash-buard = D3D9 video dekodeerija
+d3d9video-crash-guard = D3D9 video dekodeerija
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Lähtesta järgmisel taaskäivitusel
 gpu-process-kill-button = Peata GPU protsessi töö
