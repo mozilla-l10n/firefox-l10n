@@ -38,7 +38,6 @@ app-basics-show-update-history = Mostra cronologia aggiornamenti
 app-basics-binary = File binario dell’applicazione
 app-basics-profile-dir = Cartella del profilo
 app-basics-enabled-plugins = Plugin attivi
-app-basics-launcher-process-status = Processo launcher
 app-basics-build-config = Configurazione build
 app-basics-user-agent = User agent
 app-basics-os = SO
@@ -46,6 +45,7 @@ app-basics-memory-use = Utilizzo memoria
 app-basics-performance = Prestazioni
 app-basics-service-workers = Service worker registrati
 app-basics-profiles = Profili
+app-basics-launcher-process-status = Processo launcher
 app-basics-multi-process-support = Finestre multiprocesso
 app-basics-remote-processes-count = Processi remoti
 app-basics-enterprise-policies = Criteri a livello aziendale
@@ -101,6 +101,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argomenti
 safe-mode-title = Prova la modalità provvisoria
 restart-in-safe-mode-label = Riavvia disattivando i componenti aggiuntivi…
+
+## Media titles
+
+audio-backend = Back-end audio
+max-audio-channels = Numero massimo di canali
+channel-layout = Layout preferito dei canali
+sample-rate = Frequenza di campionamento preferita
 media-title = Media
 media-output-devices-title = Dispositivi di output
 media-input-devices-title = Dispositivi di input
@@ -115,6 +122,9 @@ media-device-rate = Frequenza
 media-device-latency = Latenza
 media-capabilities-title = Funzionalità media
 media-capabilities-enumerate = Enumerazione database
+
+##
+
 intl-title = Internazionalizzazione e localizzazione
 intl-app-title = Impostazioni dell’applicazione
 intl-locales-requested = Lingue richieste
@@ -220,6 +230,7 @@ unknown-failure = Bloccato: codice non funzionante { $failureCode }
 d3d11layers-crash-guard = D3D11 - Compositore
 d3d11video-crash-guard = D3D11 - Decoder video
 d3d9video-crash-buard = D3D9 - Decoder video
+d3d9video-crash-guard = D3D9 - Decoder video
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Reimposta al prossimo avvio
 gpu-process-kill-button = Termina processo GPU
@@ -230,10 +241,6 @@ content-uses-tiling = Usa Tiling (contenuti)
 off-main-thread-paint-enabled = Off Main Thread Painting attivo
 off-main-thread-paint-worker-count = Conteggio worker Off Main Thread Painting
 target-frame-rate = Obiettivo per frequenza fotogrammi
-audio-backend = Back-end audio
-max-audio-channels = Numero massimo di canali
-channel-layout = Layout preferito dei canali
-sample-rate = Frequenza di campionamento preferita
 min-lib-versions = Versione minima prevista
 loaded-lib-versions = Versione in uso
 has-seccomp-bpf = Seccomp-BPF (filtro chiamate di sistema)
