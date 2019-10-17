@@ -139,7 +139,7 @@ media-capabilities-title = Capacidades de mídia
 # List all the entries of the database.
 media-capabilities-enumerate = Enumeração de banco de dados
 
-
+##
 
 intl-title = Internacionalização & Localização
 intl-app-title = Configurações do aplicativo
@@ -246,6 +246,7 @@ unknown-failure = Bloqueado; código de erro { $failureCode }
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Decodificador de vídeo D3D11
 d3d9video-crash-buard = Decodificador de vídeo D3D9
+d3d9video-crash-guard = Decodificador de vídeo D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Redefinir na próxima reinicialização
 gpu-process-kill-button = Finalizar processo GPU
