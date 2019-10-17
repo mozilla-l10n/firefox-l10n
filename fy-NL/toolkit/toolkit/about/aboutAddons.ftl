@@ -315,6 +315,8 @@ addon-options-button =
 
 report-addon-button = Rapportearje
 remove-addon-button = Fuortsmite
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Kin net fuortsmiten wurde <a data-l10n-name="link">Wêrom?</a>
 disable-addon-button = Utskeakelje
 enable-addon-button = Ynskeakelje
 expand-addon-button = Mear opsjes
