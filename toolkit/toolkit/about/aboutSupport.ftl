@@ -45,9 +45,7 @@ app-basics-performance = Veiktspēja
 app-basics-service-workers = Reģistrētie pakalpojumu darbinieki
 app-basics-profiles = Profili
 app-basics-multi-process-support = Vairāku procesu logs
-app-basics-process-count = Tīmekļa satura process
 app-basics-enterprise-policies = Uzņēmuma politikas
-app-basics-key-google = Google atslēga
 app-basics-key-mozilla = Mozilla atrašanās vietas pakalpojuma atslēga
 app-basics-safe-mode = Drošais režīms
 show-dir-label =
@@ -97,6 +95,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenti
 safe-mode-title = Izmēģini drošo režīmu
 restart-in-safe-mode-label = Pārstartēt ar deaktivētiem papildinājumiem…
+
+## Media titles
+
+audio-backend = Skaņas Backend
+max-audio-channels = Maksimālie kanāli
+channel-layout = Vēlamais kanālu izkārtojums
+sample-rate = Vēlamais kadra ātrums
 media-title = Multimēdijas
 media-output-devices-title = Izvades ierīces
 media-input-devices-title = Ievades ierīces
@@ -109,6 +114,9 @@ media-device-format = Formāts
 media-device-channels = Kanāli
 media-device-rate = Ātrums
 media-device-latency = Aizture
+
+##
+
 intl-title = Internacionalizācija un lokalizācija
 intl-app-title = Programmatūras iestatījumi
 intl-locales-requested = Pieprasītais valodas
@@ -222,10 +230,6 @@ uses-tiling = Izmanto grupēšanu
 content-uses-tiling = Izmanto virsrakstošanu (saturs)
 off-main-thread-paint-enabled = Aktivēta zīmēšana ne galvenajā pavedienā
 off-main-thread-paint-worker-count = Ne galvenajā pavedienā zīmējošo darbinieku skaits
-audio-backend = Skaņas Backend
-max-audio-channels = Maksimālie kanāli
-channel-layout = Vēlamais kanālu izkārtojums
-sample-rate = Vēlamais kadra ātrums
 min-lib-versions = Gaidītā minimālā versija
 loaded-lib-versions = Izmantotā versija
 has-seccomp-bpf = Seccomp-BPF (Sistēmas izsaukumu filtrešana)
