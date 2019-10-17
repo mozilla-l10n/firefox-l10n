@@ -139,7 +139,7 @@ media-capabilities-title = Mediamooglikheden
 # List all the entries of the database.
 media-capabilities-enumerate = Database ynventarisearje
 
-
+##
 
 intl-title = Ynternasjonalisaasje & lokalisaasje
 intl-app-title = Applikaasjeynstellingen
@@ -246,6 +246,7 @@ unknown-failure = Op blokkearlist; flaterkoade { $failureCode }
 d3d11layers-crash-guard = D3D11-compositor
 d3d11video-crash-guard = D3D11-fideodecoder
 d3d9video-crash-buard = D3D9-fideodecoder
+d3d9video-crash-guard = D3D9-fideodecoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Opnij ynstelle nij werstart
 gpu-process-kill-button = GPU-proses beëinigje
