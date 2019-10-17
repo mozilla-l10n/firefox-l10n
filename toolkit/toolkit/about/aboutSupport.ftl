@@ -241,6 +241,7 @@ unknown-failure = Na lista de bloqueio; código de falha { $failureCode }
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Decodificador de vídeo D3D11
 d3d9video-crash-buard = Decodificador de vídeo D3D9
+d3d9video-crash-guard = Decodificador de vídeo D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Repor no próximo reinício
 gpu-process-kill-button = Terminar processo GPU
