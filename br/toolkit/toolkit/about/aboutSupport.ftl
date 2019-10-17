@@ -243,6 +243,7 @@ unknown-failure = Er roll stanket; boneg c'hwitadenn { $failureCode }
 d3d11layers-crash-guard = Kenaozer D3D11
 d3d11video-crash-guard = Ezvoneger Video D3D11
 d3d9video-crash-buard = Ezvoneger Video D3D9
+d3d9video-crash-guard = Ezvoneger Video D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Adderaouekaat en adloc'hañ a zeu
 gpu-process-kill-button = Herzel ar araezad kevregad
