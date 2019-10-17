@@ -45,8 +45,6 @@ app-basics-performance = Արտադրողականություն
 app-basics-service-workers = Գրանցված Service Workers
 app-basics-profiles = Պրոֆիլներ
 app-basics-multi-process-support = Բազմաընթացքային պատուհաններ
-app-basics-process-count = Վեբ բովանդակության ընթացքներ
-app-basics-key-google = Google Key
 app-basics-key-mozilla = Mozilla-ի տեղադրության ծառայության բանալի
 app-basics-safe-mode = Ապահով կերպ
 show-dir-label =
@@ -96,6 +94,10 @@ sandbox-sys-call-number = Համզանգ
 sandbox-sys-call-args = Փաստարկներ
 safe-mode-title = Օգտ. Ապահով կերպը
 restart-in-safe-mode-label = Վերամեկնարկել՝ անջատելով հավելումները...
+
+## Media titles
+
+audio-backend = Ձայնային հետընթաց
 media-title = Մեդիա
 media-output-devices-title = Արտածելու սարքեր
 media-input-devices-title = Ներածելու սարքեր
@@ -108,6 +110,9 @@ media-device-format = Ձևաչափ
 media-device-channels = Ալիքներ
 media-device-rate = ԳՆահատական
 media-device-latency = Սպասում
+
+##
+
 intl-title = Միջազգայնացում և տեղայնացում
 intl-app-title = ՀԱվելվածի կարգավորումներ
 intl-locales-requested = Հարցված լեզուներ
@@ -211,7 +216,6 @@ d3d9video-crash-buard = D3D9 տեսանյութի ապակոդավորիչ
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Վերակայել հաջորդ վերամեկնարկից
 gpu-process-kill-button = Ավարտել GPU ընթացքը
-audio-backend = Ձայնային հետընթաց
 min-lib-versions = Ակնկալվող նվազագույն տարբերակը
 loaded-lib-versions = Օգտագործվող տարբերակը
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
