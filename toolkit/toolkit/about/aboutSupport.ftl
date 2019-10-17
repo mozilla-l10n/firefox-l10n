@@ -39,8 +39,6 @@ app-basics-performance = Jaawgol golle
 app-basics-service-workers = Gollooɓe Sarwiis Heftinaaɓe
 app-basics-profiles = Keftinirɗe
 app-basics-multi-process-support = Kenorɗe Cili Keewɗi
-app-basics-process-count = Sifaaji Loowdi Geese
-app-basics-key-google = Coktirgal Google
 app-basics-key-mozilla = Nokkuje Coktirɗe Mozilla
 app-basics-safe-mode = Mbayka Hoolno
 show-dir-label =
@@ -90,6 +88,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Bannanɗe
 safe-mode-title = Eto Mbayka Hoolno
 restart-in-safe-mode-label = Hurmitin tawa Ɓeyditte ena Ndaaƴaa…
+
+## Media titles
+
+audio-backend = Yuurnorde Ojoo
+max-audio-channels = Max Channels
+channel-layout = Lelnal seen cuɓaaɗo
+sample-rate = Santaas santiyoŋ cuɓaaɗo
 media-title = Mejaa
 media-output-devices-title = Kaɓirkon njaltinirkon
 media-input-devices-title = Kaɓirkon naatnirkon
@@ -102,6 +107,9 @@ media-device-format = Formaa
 media-device-channels = Ceenuuji
 media-device-rate = Battal
 media-device-latency = Deeƴtal
+
+##
+
 intl-app-title = Teelte Jaaɓnirɗe
 intl-locales-requested = Nokkuuje Ɗaɓɓitaaɗe
 intl-locales-available = Nokkuuje Keɓotooɗe
@@ -201,15 +209,12 @@ unknown-failure = Ɓeydaama e doggol falo: dokkol { $failureCode }
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = Dokkitorde Widewoo D3D11
 d3d9video-crash-buard = Dokkitorde Widewoo D3D9
+d3d9video-crash-guard = Dokkitorde Widewoo D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Waklit tuma kurmal garowal
 gpu-process-kill-button = Dartin Cilol GPU
 gpu-device-reset-button = Puɗɗitgol ñiklowel pilot
 off-main-thread-paint-enabled = Off Main Thread Painting hurminaama
-audio-backend = Yuurnorde Ojoo
-max-audio-channels = Max Channels
-channel-layout = Lelnal seen cuɓaaɗo
-sample-rate = Santaas santiyoŋ cuɓaaɗo
 min-lib-versions = Yamre lesiire tijjaande
 loaded-lib-versions = Yamre huutorteende
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
