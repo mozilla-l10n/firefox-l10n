@@ -78,6 +78,9 @@ cfr-protections-panel-link-text = Karagdagang kaalaman
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Bagong tampok:
 cfr-whatsnew-button =
     .label = Ano ang Bago
     .tooltiptext = Ano ang Bago
@@ -146,3 +149,6 @@ cfr-doorhanger-fingerprinters-heading = Hinarang ng { -brand-short-name } ang is
 cfr-doorhanger-fingerprinters-description = Mahalaga ang iyong privacy. Hinaharang na ngayon ng { -brand-short-name } ang mga fingerprinter, na nangongolekta ng bukod-tanging impormasyon tungkol sa device mo para masundan ka.
 cfr-doorhanger-cryptominers-heading = Hinarang ng { -brand-short-name } ang isang cryptominer sa pahinang ito
 cfr-doorhanger-cryptominers-description = Mahalaga ang iyong privacy. Hinaharang na ngayon ng { -brand-short-name } ang mga cryptominer, na ginagamit ang computing power ng sistema mo para magmina ng digital money.
+
+## Enhanced Tracking Protection Milestones
+
