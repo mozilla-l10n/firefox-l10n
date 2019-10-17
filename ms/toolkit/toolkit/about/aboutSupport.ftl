@@ -48,9 +48,7 @@ app-basics-performance = Prestasi
 app-basics-service-workers = Service Workers Berdaftar
 app-basics-profiles = Profil
 app-basics-multi-process-support = Tetingkap Multiproses
-app-basics-process-count = Proses Kandungan Web
 app-basics-enterprise-policies = Polisi Syarikat
-app-basics-key-google = Google Key
 app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = Mod Selamat
 show-dir-label =
@@ -100,6 +98,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Arguments
 safe-mode-title = Cuba Mod Selamat
 restart-in-safe-mode-label = Mula semula dengan Add-ons Dinyahdayakan…
+
+## Media titles
+
+audio-backend = Backend Audio
+max-audio-channels = Saluran Max
+channel-layout = Susun atur Saluran Diutamakan
+sample-rate = Kadar Sampel Diutamakan
 media-title = Media
 media-output-devices-title = Peranti Output
 media-input-devices-title = Peranti Input
@@ -112,6 +117,9 @@ media-device-format = Format
 media-device-channels = Saluran
 media-device-rate = Kadar
 media-device-latency = Kependaman
+
+##
+
 intl-title = Pengantarabangsaan & Lokalisasi
 intl-app-title = Tetapan Aplikasi
 intl-locales-requested = Lokaliti Diminta
@@ -200,10 +208,6 @@ uses-tiling = Menggunakan Jubin
 content-uses-tiling = Guna Jubin (Kandungan)
 off-main-thread-paint-enabled = Tutup Lukisan Thread Utama Didayakan
 off-main-thread-paint-worker-count = Tutup Kiraan Main Thread Painting Worker
-audio-backend = Backend Audio
-max-audio-channels = Saluran Max
-channel-layout = Susun atur Saluran Diutamakan
-sample-rate = Kadar Sampel Diutamakan
 min-lib-versions = Versi minimum yang dijangka
 loaded-lib-versions = Versi yang digunakan
 has-seccomp-bpf = Seccomp-BPF (sistem panggil penapisan)
