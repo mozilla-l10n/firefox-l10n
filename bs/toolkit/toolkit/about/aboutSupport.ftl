@@ -221,6 +221,7 @@ unknown-failure = Blokiran; kod neuspjeha { $failureCode }
 d3d11layers-crash-guard = D3D11 kompozitor
 d3d11video-crash-guard = D3D11 Video dekoder
 d3d9video-crash-buard = D3D9 Video dekoder
+d3d9video-crash-guard = D3D9 Video dekoder
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Resetuj vrijednosti kod sljedećeg restarta
 gpu-process-kill-button = Okončaj GPU procese
