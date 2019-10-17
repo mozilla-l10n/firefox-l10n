@@ -135,7 +135,7 @@ media-device-rate = Shpeshti
 media-device-latency = Vonesë
 media-capabilities-title = Aftësi Media
 
-
+##
 
 intl-title = Ndërkombëtarizim & Përkthim
 intl-app-title = Rregullime Aplikacionesh
@@ -242,6 +242,7 @@ unknown-failure = Vënë në listë të zezë, kod dështimi { $failureCode }
 d3d11layers-crash-guard = Hartues D3D11
 d3d11video-crash-guard = Shkodues Videosh D3D11
 d3d9video-crash-buard = Shkodues Videosh D3D9
+d3d9video-crash-guard = Shkodues Videosh D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Gjatë Rinisjes Tjetër Ktheje te Parazgjedhjet
 gpu-process-kill-button = Përfundoje Procesin GPU
