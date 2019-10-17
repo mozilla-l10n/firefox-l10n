@@ -2,7 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashed-title = টেব ক্রেশ্ব সংবাদদাতা
 crashed-close-tab-button = টেব বন্ধ কৰক
+crashed-header = অহ। আপোনাৰ টেব এইমাত্ৰ ক্রেশ্ব হ'ল।
 crashed-offer-help = আমি সহায় কৰিব পাৰোঁ!
 crashed-single-offer-help-message = পৃষ্ঠা পুনঃল'ড কৰিবলৈ { crashed-restore-tab-button } বাচি লওক।
 crashed-request-help = আপুনি আমাক সহায় কৰিবনে?

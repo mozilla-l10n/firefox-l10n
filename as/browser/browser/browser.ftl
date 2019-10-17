@@ -2,12 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+urlbar-identity-button =
+    .aria-label = ছাইটৰ তথ্য চাওক
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-midi-notification-anchor =
+    .tooltiptext = MIDI পেনেল খোলক
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = ঠিকনা দণ্ডিকাত যোগ কৰক
 
 ## Auto-hide Context Menu
 

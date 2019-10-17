@@ -25,3 +25,5 @@ about-private-browsing =
 about-private-browsing-not-private = আপুনি বৰ্তমান ব্যক্তিগত উইণ্ড'ত নাই।
 content-blocking-title = সমল অৱৰোধকৰণ
 content-blocking-description = আপোনাৰ ইণ্টাৰনেট কাৰ্যকলাপৰ ওপৰত চকু ৰাখিবলৈ কিছুমান ৱেবছাইটে ট্রেকাৰ ব্যৱহাৰ কৰে। ব্যক্তিগত উইণ্ড'বোৰত, আপোনাৰ ব্ৰাউজিং আচৰণৰ বিষয়ে তথ্য সংগ্ৰহ কৰিব পৰা বহুতো ট্রেকাৰ { -brand-short-name }-ৰ সমল অৱৰোধকৰণে স্বয়ংক্ৰিয়ভাৱে অৱৰোধ কৰে।
+about-private-browsing-search-banner-close-button =
+    .aria-label = বন্ধ কৰক
