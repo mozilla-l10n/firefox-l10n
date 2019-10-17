@@ -45,9 +45,7 @@ app-basics-performance = कार्यसम्पादन
 app-basics-service-workers = दर्ता भएका Service Workers
 app-basics-profiles = प्रोफाइलहरू
 app-basics-multi-process-support = बहुप्रक्रिया सञ्झ्यालहरू
-app-basics-process-count = वेब सामग्री प्रक्रियाहरू
 app-basics-enterprise-policies = व्यापारको नीतिहरू
-app-basics-key-google = Google कुञ्जी
 app-basics-key-mozilla = Mozilla स्थान सेवा कुञ्जी
 app-basics-safe-mode = सुरक्षित मोड
 show-dir-label =
@@ -97,6 +95,13 @@ sandbox-sys-call-number = प्रणाली कल
 sandbox-sys-call-args = तर्कहरू
 safe-mode-title = सुरक्षित मोड प्रयास गर्नुहोस
 restart-in-safe-mode-label = एडअनहरू अक्षम पारेर पुनः सुरु गर्नुहोस...
+
+## Media titles
+
+audio-backend = अडियो ब्याकइन्ड
+max-audio-channels = अधिकतम च्यानलहरु
+channel-layout = रुचाइएको च्यानल आवरण
+sample-rate = रुचाइएको नमूना दर
 media-title = सञ्चार
 media-output-devices-title = निर्गत यन्त्रहरु
 media-input-devices-title = आगत यन्त्रहरू
@@ -109,6 +114,9 @@ media-device-format = ढाँचा
 media-device-channels = च्यानलहरू
 media-device-rate = दर
 media-device-latency = विलम्बता
+
+##
+
 intl-title = अन्तरराष्ट्रियकरण & स्थानीयकरण
 intl-app-title = एप्लिकेसन सेटिङहरू
 intl-locales-requested = अनुरोध गरिएको स्थानीयताहरू
@@ -209,6 +217,7 @@ unknown-failure = अबरुद्दसुचीत; विफल कोड {
 d3d11layers-crash-guard = D3D11 मिश्रणकर्ता
 d3d11video-crash-guard = D3D11 भिडियो डीकोडर
 d3d9video-crash-buard = D3D9 भिडियो डिकोडर
+d3d9video-crash-guard = D3D9 भिडियो डिकोडर
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = अर्को पुन:सुचारु गर्दा रिसेट गर्नुहोस्
 gpu-process-kill-button = GPU प्रकृयालाई अन्त्य गर्ने
@@ -217,10 +226,6 @@ uses-tiling = टाइल प्रयोग गर्दछ
 content-uses-tiling = टाइल प्रयोग गर्दछ (सामग्री)
 off-main-thread-paint-enabled = बन्द मुख्य थ्रेड चित्रकला सक्षम गर्नुहोस्
 off-main-thread-paint-worker-count = बन्द मुख्य थ्रेड चित्रकला कार्यकर्ता गणना
-audio-backend = अडियो ब्याकइन्ड
-max-audio-channels = अधिकतम च्यानलहरु
-channel-layout = रुचाइएको च्यानल आवरण
-sample-rate = रुचाइएको नमूना दर
 min-lib-versions = अपेक्षित न्यूनतम संस्करण
 loaded-lib-versions = प्रयोगमा रहेको संस्करण
 has-seccomp-bpf = Seccomp-BPF (सिस्टम कल फ़िल्टरिङ्ग)
