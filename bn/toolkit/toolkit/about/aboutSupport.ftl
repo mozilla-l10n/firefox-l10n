@@ -220,6 +220,7 @@ unknown-failure = ব্লকতালিকাভুক্ত; ব্যর্
 d3d11layers-crash-guard = D3D11 কম্পোজিটর
 d3d11video-crash-guard = D3D11 ভিডিও ডিকোডার
 d3d9video-crash-buard = D3D9 ভিডিও ডিকোডার
+d3d9video-crash-guard = D3D9 ভিডিও ডিকোডার
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = পুনরায় শুরু করার সময় রিসেট করুন
 gpu-process-kill-button = GPU প্রক্রিয়া বন্ধ করুন
