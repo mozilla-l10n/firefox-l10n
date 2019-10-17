@@ -110,6 +110,10 @@ sandbox-sys-call-number = Crida del sistema
 sandbox-sys-call-args = Arguments
 safe-mode-title = Proveu el mode segur
 restart-in-safe-mode-label = Reinicia amb els complements inhabilitats…
+
+## Media titles
+
+audio-backend = Sistema de fons d'àudio
 media-title = Multimèdia
 media-output-devices-title = Dispositius d'eixida
 media-input-devices-title = Dispositius d'entrada
@@ -122,6 +126,9 @@ media-device-format = Format
 media-device-channels = Canals
 media-device-rate = Freqüència
 media-device-latency = Latència
+
+##
+
 intl-title = Internacionalització i localització
 intl-app-title = Paràmetres de l'aplicació
 intl-locales-requested = Llengües sol·licitades
@@ -219,10 +226,10 @@ unknown-failure = És a la llista de bloquejos; codi d'error { $failureCode }
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Descodificador de vídeo D3D11
 d3d9video-crash-buard = Descodificador de vídeo D3D9
+d3d9video-crash-guard = Descodificador de vídeo D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Reinicialitza als valors per defecte en el proper reinici
 gpu-process-kill-button = Finalitza el procés de GPU
-audio-backend = Sistema de fons d'àudio
 min-lib-versions = Versió mínima esperada
 loaded-lib-versions = Versió en ús
 has-seccomp-bpf = Seccomp-BPF (filtratge de crides del sistema)
