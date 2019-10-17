@@ -136,7 +136,7 @@ media-capabilities-title = Çoku ortam yetenekleri
 # List all the entries of the database.
 media-capabilities-enumerate = Veritabanını numaralandır
 
-
+##
 
 intl-title = Uluslararasılaştırma ve yerelleştirme
 intl-app-title = Uygulama ayarları
@@ -243,6 +243,7 @@ unknown-failure = Engellendi. Hata kodu { $failureCode }
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video Çözücüsü
 d3d9video-crash-buard = D3D9 Video Çözücüsü
+d3d9video-crash-guard = D3D9 Video Çözücüsü
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Sonraki yeniden başlatmada sıfırla
 gpu-process-kill-button = GPU işlemini sonlandır
