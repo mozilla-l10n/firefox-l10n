@@ -136,7 +136,7 @@ media-capabilities-title = Kisamaj K'oxom
 # List all the entries of the database.
 media-capabilities-enumerate = Ticholajïx cholxe'el
 
-
+##
 
 intl-title = Elniminïk & Tzalq'omanri'ïl
 intl-app-title = Kinuk'ulem Chokoy
@@ -243,6 +243,7 @@ unknown-failure = Q'ëq cholb'äl: rub'itz'ib' sachoj { $failureCode }
 d3d11layers-crash-guard = D3D11 Chojmirisanel
 d3d11video-crash-guard = D3D11 Silowachib'äl ewanel rusik'ixik
 d3d9video-crash-buard = D3D9 Silowachib'äl Ewanel rusik'ixik
+d3d9video-crash-guard = D3D9 Silowachib'äl Ewanel rusik'ixik
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = K'a xtitzolïx na ri Rutikirisaxik chik
 gpu-process-kill-button = Tik'isb'ëx ri GPU Tajin
