@@ -45,9 +45,7 @@ app-basics-performance = الأداء
 app-basics-service-workers = عمّال الخدمة المسجلين
 app-basics-profiles = ملفات الإعدادات
 app-basics-multi-process-support = نوافذ متعددة السيرورات
-app-basics-process-count = سيرورة محتوى الوب
 app-basics-enterprise-policies = سياسات المؤسسات
-app-basics-key-google = مفتاح جوجل
 app-basics-key-mozilla = مفتاح خدمة التموضع من موزيلا
 app-basics-safe-mode = الوضع الآمن
 show-dir-label =
@@ -97,6 +95,13 @@ sandbox-sys-call-number = نداء النظام
 sandbox-sys-call-args = المعطيات
 safe-mode-title = جرّب الوضع الآمن
 restart-in-safe-mode-label = أعِد التشغيل مع تعطيل الإضافات…
+
+## Media titles
+
+audio-backend = سند الصوت
+max-audio-channels = أقصى عدد للقنوات
+channel-layout = تخطيط القنوات المفضل
+sample-rate = معدل العينات المفضل
 media-title = الوسائط
 media-output-devices-title = أجهزة الخَرْج
 media-input-devices-title = أجهزة الدَخْل
@@ -109,6 +114,9 @@ media-device-format = التنسيق
 media-device-channels = القنوات
 media-device-rate = المعدل
 media-device-latency = الكمون
+
+##
+
 intl-title = التدويل و التوطين
 intl-app-title = إعدادات التطبيق
 intl-locales-requested = المحليات المطلوبة
@@ -237,10 +245,6 @@ uses-tiling = يستخدم البلاطات
 content-uses-tiling = يستخدم البلاطات (المحتوى)
 off-main-thread-paint-enabled = الرسم خارج الخيط الرئيسي مفعل
 off-main-thread-paint-worker-count = عدد عمال الرسم خارج الخيط الرئيسي
-audio-backend = سند الصوت
-max-audio-channels = أقصى عدد للقنوات
-channel-layout = تخطيط القنوات المفضل
-sample-rate = معدل العينات المفضل
 min-lib-versions = أقل إصدارة مقبولة
 loaded-lib-versions = الإصدارة المستخدمة
 has-seccomp-bpf = ‏Seccomp-BPF (ترشيح استدعاءات النظام)
