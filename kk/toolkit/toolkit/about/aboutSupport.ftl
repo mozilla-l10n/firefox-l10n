@@ -238,6 +238,7 @@ unknown-failure = Блоктізіміде; қателік коды { $failureCo
 d3d11layers-crash-guard = D3D11 араластырушысы
 d3d11video-crash-guard = D3D11 видео декодері
 d3d9video-crash-buard = D3D9 видео декодері
+d3d9video-crash-guard = D3D9 видео декодері
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Келесі іске қосылған кезде тастау
 gpu-process-kill-button = GPU процесін тоқтату
