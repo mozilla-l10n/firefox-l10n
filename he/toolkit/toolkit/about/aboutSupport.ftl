@@ -126,7 +126,7 @@ media-device-channels = ערוצים
 media-device-rate = קצב
 media-device-latency = עיכוב
 
-
+##
 
 intl-title = בינלאומי ושפות
 intl-app-title = הגדרות יישום
@@ -223,6 +223,7 @@ bug-link = באג { $bugNumber }
 unknown-failure = הוכנס לרשימה השחורה, קוד כישלון { $failureCode }
 d3d11video-crash-guard = מפענח הווידאו D3D11
 d3d9video-crash-buard = מפענח הווידאו D3D9
+d3d9video-crash-guard = מפענח הווידאו D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = איפוס בהפעלה מחדש הבאה
 gpu-process-kill-button = סיום תהליך GPU
