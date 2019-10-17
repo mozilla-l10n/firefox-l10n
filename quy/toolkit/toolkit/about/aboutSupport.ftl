@@ -67,6 +67,12 @@ copy-raw-data-to-clipboard-label = Rapikunaq  hanku allchanapatamanta qilqaytaqi
 sandbox-title = Aqupata
 safe-mode-title = Qaqakaqta tantiyaspa
 restart-in-safe-mode-label = Kaqmantaqallariy sikisqa huntaypakunawan.
+
+## Media titles
+
+
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -142,6 +148,7 @@ unknown-failure = Blocklisted; failure code { $failureCode } nisqa
 d3d11layers-crash-guard = D3D11 Compositor nisqa
 d3d11video-crash-guard = D3D11 nisqapi tawqachaq qawanapata
 d3d9video-crash-buard = D3D9 nisqapi tawqachaq pata
+d3d9video-crash-guard = D3D9 nisqapi tawqachaq pata
 glcontext-crash-guard = GL nisqa kichasqa
 reset-on-next-restart = Kaqmanta qatiq qallariy
 min-lib-versions = suyasqa pisi imaninan
