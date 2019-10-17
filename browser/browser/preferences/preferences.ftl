@@ -282,6 +282,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } brûke (yn { -brand-short-name })
@@ -457,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Ynhâld fan Firefox-startside
 home-prefs-content-description = Kies hokker ynhâld jo op jo Firefox-startside werjaan wolle.
-home-prefs-content-discovery-description = Fia Content Discovery op de Firefox-startside kinne jo relevante artikelen op it hiele web mei hege kwaliteit fine.
 home-prefs-search-header =
     .label = Sykje op it web
 home-prefs-topsites-header =
@@ -524,6 +527,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Syksuggestjes boppe browserskiednis toane yn adresbalkeresultaten
+search-show-suggestions-private-windows =
+    .label = Syksuggestjes werjaan yn priveefinsters
 suggestions-addressbar-settings = Foarkarren foar navigaasjeskiednis, blêdwizers en ljepblêdfoarstellen wizigje
 search-suggestions-cant-show = Sykfoarstellen wurde net yn lokaasjebalkresultaten toand, omdat jo { -brand-short-name } konfigurearre hawwe om nea skiednis te ûnthâlden.
 search-one-click-header = Ien-klik-sykmasinen
