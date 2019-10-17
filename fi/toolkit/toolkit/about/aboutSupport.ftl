@@ -237,6 +237,7 @@ unknown-failure = Estolistalla; virhekoodi { $failureCode }
 d3d11layers-crash-guard = D3D11-koostaminen
 d3d11video-crash-guard = D3D11-videopurkaja
 d3d9video-crash-buard = D3D9-videopurkaja
+d3d9video-crash-guard = D3D9-videopurkaja
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Nollaa seuraavan käynnistyksen yhteydessä
 gpu-process-kill-button = Lopeta GPU-prosessi
