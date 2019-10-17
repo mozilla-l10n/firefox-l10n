@@ -39,8 +39,6 @@ app-basics-performance = செயல்திறன்
 app-basics-service-workers = பதிவு செய்யப்பட்ட சேவை பணியாளர்கள்
 app-basics-profiles = விவரத்தொகுப்பு
 app-basics-multi-process-support = பன்செயல் சாளரங்கள்
-app-basics-process-count = வலை உள்ளடக்க செயல்பாடுகள்
-app-basics-key-google = கூகுள் திறவகோல்ஹ
 app-basics-key-mozilla = மொசில்லா புவியிடச்சேவைச் சாவி
 app-basics-safe-mode = பாதுகாப்பான முறைமை
 show-dir-label =
@@ -89,6 +87,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = தருமதிப்புகள்
 safe-mode-title = பாதுகாப்பு முறைமையை முயற்சி
 restart-in-safe-mode-label = நீட்சிகளை நீக்கிவிட்டு மீள் துவக்கு.
+
+## Media titles
+
+audio-backend = ஒலி பின்புலம்
+max-audio-channels = அதிகபட்ச சேனல்கள்
+channel-layout = விருப்பமான சேனல் அமைப்பு
+sample-rate = விருப்பமான மாதிரி விகிதம்
 media-title = ஊடகம்
 media-output-devices-title = வெளியீடு சாதனங்கள்
 media-input-devices-title = உள்ளீடு சாதனங்கள்
@@ -101,6 +106,9 @@ media-device-format = முறை
 media-device-channels = சேனல்கள்
 media-device-rate = தரம்
 media-device-latency = தாமதம்
+
+##
+
 intl-app-title = பயன்பாட்டு அமைவுகள்
 intl-locales-requested = கேட்டுக்கொண்ட மொழிகள்
 intl-locales-available = கிடைக்கக்கூடிய மொழிகள்
@@ -203,10 +211,6 @@ glcontext-crash-guard = OpenGL
 reset-on-next-restart = அடுத்த மீள்துவக்கத்தில் மீட்டமை
 gpu-process-kill-button = GPU செயல்பாடுகளை நிறுத்து
 gpu-device-reset-button = சாதன மீட்டமைத்தலைத் தூண்டு
-audio-backend = ஒலி பின்புலம்
-max-audio-channels = அதிகபட்ச சேனல்கள்
-channel-layout = விருப்பமான சேனல் அமைப்பு
-sample-rate = விருப்பமான மாதிரி விகிதம்
 min-lib-versions = எதிர்பார்க்கப்படும் குறைந்தபட்ச பதிப்பு
 loaded-lib-versions = பயன்பாட்டிலுள்ள பதிப்பு
 has-seccomp-bpf = Seccomp-BPF (கணினி அழைத்தல் வடிகட்டி)
