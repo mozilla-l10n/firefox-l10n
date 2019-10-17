@@ -207,6 +207,7 @@ unknown-failure = தடுக்கப்பட்டது; தோல்வி
 d3d11layers-crash-guard = D3D11 தொகுப்பி
 d3d11video-crash-guard = D3D11 காணொளி குறியவிழி
 d3d9video-crash-buard = D3D9 காணொளி குறியவிழி
+d3d9video-crash-guard = D3D9 காணொளி குறியவிழி
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = அடுத்த மீள்துவக்கத்தில் மீட்டமை
 gpu-process-kill-button = GPU செயல்பாடுகளை நிறுத்து
