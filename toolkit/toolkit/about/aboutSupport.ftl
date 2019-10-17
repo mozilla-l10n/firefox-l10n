@@ -139,7 +139,7 @@ media-capabilities-title = Zmogljivosti večpredstavnosti
 # List all the entries of the database.
 media-capabilities-enumerate = Oštevilči bazo podatkov
 
-
+##
 
 intl-title = Jeziki in lokalizacija
 intl-app-title = Nastavitve programa
@@ -256,6 +256,7 @@ unknown-failure = Dodano na seznam zavrnjenih; koda napake { $failureCode }
 d3d11layers-crash-guard = Sestavljalnik D3D11
 d3d11video-crash-guard = Videodekodirnik D3D11
 d3d9video-crash-buard = Videodekodirnik D3D9
+d3d9video-crash-guard = Videodekodirnik D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Ponastavi ob naslednjem zagonu
 gpu-process-kill-button = Prekini proces GPE
