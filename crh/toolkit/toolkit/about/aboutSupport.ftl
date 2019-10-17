@@ -49,9 +49,7 @@ app-basics-service-workers = Qaydlı Hızmet İşçileri
 app-basics-profiles = Profiller
 app-basics-launcher-process-status = Fırlatıcı Süreci
 app-basics-multi-process-support = Çoqlusüreç Pencereler
-app-basics-process-count = Ağ Muhtevası Süreçleri
 app-basics-enterprise-policies = Qurum Siyasetleri
-app-basics-key-google = Google Anahtarı
 app-basics-key-mozilla = Mozilla Qonum Hızmeti Anahtarı
 app-basics-safe-mode = Emin Tarz
 show-dir-label =
@@ -101,6 +99,13 @@ sandbox-sys-call-number = Sistem Çağırışı
 sandbox-sys-call-args = Argumentler
 safe-mode-title = Emin Tarznı Deñe
 restart-in-safe-mode-label = Eklentiler Ğayrıfaalleştirilgen Keliş Kene Başlat…
+
+## Media titles
+
+audio-backend = Audio Arqa-ucu
+max-audio-channels = Azamiy Kanallar
+channel-layout = Tercihli Kanal Tizilimi
+sample-rate = Tercihli Numune Nisbeti
 media-title = Vasat
 media-output-devices-title = Çıqtı Cihazları
 media-input-devices-title = Kirdi Cihazları
@@ -113,6 +118,9 @@ media-device-format = Format
 media-device-channels = Kanallar
 media-device-rate = Nisbet
 media-device-latency = Keçikme
+
+##
+
 intl-title = Milletleraralaştırma & Maalliyleştirme
 intl-app-title = Uyğulama Ayarları
 intl-locales-requested = Rica Etilgen Mahaller
@@ -217,6 +225,7 @@ unknown-failure = Bloklistelengen; muvaffaqiyetsizlik kodu { $failureCode }
 d3d11layers-crash-guard = D3D11 Bileşikleyici
 d3d11video-crash-guard = D3D11 Video Dekodlayıcı
 d3d9video-crash-buard = D3D9 Video Dekodlayıcı
+d3d9video-crash-guard = D3D9 Video Dekodlayıcı
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Soñraki Kene Başlatma üzerine Sıfırla
 gpu-process-kill-button = GPU Sürecini Soñlandır
@@ -226,12 +235,7 @@ uses-tiling = Fayanslamanı Qullanır
 content-uses-tiling = Fayanslamanı Qullanır (Muhteva)
 off-main-thread-paint-enabled = Baş Yip Tışı Boyama Qabilleştirilgen
 off-main-thread-paint-worker-count = Ana Yip Tışı Boyayıcı İşçi Sayısı
-low-end-machine = Daha tüşük icraatlı maşna alğılandı
 target-frame-rate = Hedef Qare Sür'atı
-audio-backend = Audio Arqa-ucu
-max-audio-channels = Azamiy Kanallar
-channel-layout = Tercihli Kanal Tizilimi
-sample-rate = Tercihli Numune Nisbeti
 min-lib-versions = Beklengen asğariy sürüm
 loaded-lib-versions = Qullanımdaki sürüm
 has-seccomp-bpf = Seccomp-BPF (Sistem Çağırımı Süzgüçlemesi)
