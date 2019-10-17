@@ -139,7 +139,7 @@ media-capabilities-title = Funcziunalitad medias
 # List all the entries of the database.
 media-capabilities-enumerate = Percurrer la banca da datas
 
-
+##
 
 intl-title = Internaziunalisaziun & lingua
 intl-app-title = Configuraziun da l'applicaziun
@@ -246,6 +246,7 @@ unknown-failure = Sin la glista naira; numer da sbagl { $failureCode }
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = Decodader da video D3D11
 d3d9video-crash-buard = Decodader da video D3D9
+d3d9video-crash-guard = Decodader da video D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Redefinir cun reaviar la proxima giada
 gpu-process-kill-button = Terminar il process da la GPU
