@@ -51,7 +51,6 @@ app-basics-service-workers = Service Worker Terdaftar
 app-basics-profiles = Profil
 app-basics-launcher-process-status = Proses Peluncur
 app-basics-multi-process-support = Jendela Multiproses
-app-basics-process-count = Proses Konten Web
 app-basics-remote-processes-count = Proses Jarak Jauh
 app-basics-enterprise-policies = Kebijakan Perusahaan
 app-basics-location-service-key-google = Google Location Service Key
@@ -105,6 +104,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumen
 safe-mode-title = Coba Mode Aman
 restart-in-safe-mode-label = Mulai Ulang dengan Pengaya Dinonaktifkan…
+
+## Media titles
+
+audio-backend = Backend Audio
+max-audio-channels = Kanal Maksimal
+channel-layout = Tata Letak Saluran Pilihan
+sample-rate = Tingkat Sampel Pilihan
 media-title = Media
 media-output-devices-title = Peranti Keluaran
 media-input-devices-title = Peranti Masukan
@@ -117,6 +123,9 @@ media-device-format = Format
 media-device-channels = Kanal
 media-device-rate = Nilai
 media-device-latency = Latensi
+
+##
+
 intl-title = Pelokalan dan Internasional
 intl-app-title = Setelan Aplikasi
 intl-locales-requested = Bahasa yang Diminta
@@ -201,6 +210,7 @@ unknown-failure = Dicekal: kode kegagalan { $failureCode }
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Pendekode Video D3D11
 d3d9video-crash-buard = Pendekode Video D3D9
+d3d9video-crash-guard = Pendekode Video D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Setel Ulang pada Mulai Ulang Berikutnya
 gpu-process-kill-button = Matikan Proses GPU
@@ -210,12 +220,7 @@ uses-tiling = Gunakan Tiling
 content-uses-tiling = Gunakan Tiling (Konten)
 off-main-thread-paint-enabled = Off Main Thread Painting Diaktifkan
 off-main-thread-paint-worker-count = Jumlah Off Main Thread Painting Worker
-low-end-machine = Mesin yang berkinerja kurang telah terdeteksi
 target-frame-rate = Tingkat Target Bingkai
-audio-backend = Backend Audio
-max-audio-channels = Kanal Maksimal
-channel-layout = Tata Letak Saluran Pilihan
-sample-rate = Tingkat Sampel Pilihan
 min-lib-versions = Versi minimum diharapkan
 loaded-lib-versions = Versi yang digunakan
 has-seccomp-bpf = Seccomp-BPF (Pemfilteran Pemanggilan Sistem - System Call Filtering)
