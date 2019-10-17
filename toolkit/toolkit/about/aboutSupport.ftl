@@ -126,7 +126,7 @@ media-device-channels = ערוצים
 media-device-rate = קצב
 media-device-latency = עיכוב
 
-##
+
 
 intl-title = בינלאומי ושפות
 intl-app-title = הגדרות יישום
@@ -252,7 +252,7 @@ launcher-process-status-unknown = מצב לא ידוע
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = הופעל על־ידי המשתמש
-multi-process-status-1 = הופעל כבררת מחדל
+multi-process-status-1 = מופעל כברירת מחדל
 multi-process-status-2 = מנוטרל
 multi-process-status-4 = נוטרל עקב כלי נגישות
 multi-process-status-6 = נוטרל עקב קלט טקסט לא נתמך
