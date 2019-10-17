@@ -7,5 +7,9 @@
 
 
 <!ENTITY options.label "Optiones">
+<!ENTITY optionLTR.label "Direction de sinistra a dextra">
+<!ENTITY optionLTR.accesskey "s">
+<!ENTITY optionRTL.label "Direction de dextra a sinistra">
+<!ENTITY optionRTL.accesskey "d">
 
 <!ENTITY insertButton.label "Inserer">

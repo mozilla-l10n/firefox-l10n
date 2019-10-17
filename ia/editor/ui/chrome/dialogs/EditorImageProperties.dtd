@@ -43,9 +43,12 @@
 <!ENTITY removeImageMapButton.accessKey "R">
 
 <!-- These are the options for image alignment -->
+<!ENTITY alignment.label "Alinear texto a imagine">
 <!ENTITY bottomPopup.value "Al base">
 <!ENTITY topPopup.value "Al culmine">
 <!ENTITY centerPopup.value "In centro">
+<!ENTITY wrapRightPopup.value "Incapsular a dextra">
+<!ENTITY wrapLeftPopup.value "Incapsular a sinistra">
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Spatiamento">

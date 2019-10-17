@@ -4,7 +4,9 @@
 
 
 <!-- Window title -->
+<!ENTITY windowTitle.label "Proprietates de lista">
 
+<!ENTITY ListType.label "Typo de lista">
 <!ENTITY none.value "Nulle">
 <!ENTITY numberList.value "Lista numerate">
 <!ENTITY definitionList.value "Lista de definitiones">
