@@ -35,13 +35,13 @@ app-basics-name = Name
 app-basics-version = Version
 app-basics-build-id = Build-ID
 app-basics-update-channel = Update-Kanal
-app-basics-update-history = Update-Chronik
-app-basics-show-update-history = Update-Chronik anzeigen
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Update-Verzeichnis
        *[other] Update-Ordner
     }
+app-basics-update-history = Update-Chronik
+app-basics-show-update-history = Update-Chronik anzeigen
 app-basics-binary = Anwendungsprogrammdatei
 app-basics-profile-dir =
     { PLATFORM() ->
@@ -58,12 +58,10 @@ app-basics-service-workers = Angemeldete Service-Worker
 app-basics-profiles = Profile
 app-basics-launcher-process-status = Starter-Prozess
 app-basics-multi-process-support = Fenster mit mehreren Prozessen
-app-basics-process-count = Web-Inhaltsprozesse
 app-basics-remote-processes-count = Externe Prozesse
 app-basics-enterprise-policies = Unternehmensrichtlinien
 app-basics-location-service-key-google = Google-Location-Service-Schlüssel
 app-basics-safebrowsing-key-google = Google-Safebrowsing-Schlüssel
-app-basics-key-google = Google-Schlüssel
 app-basics-key-mozilla = Mozilla-Location-Service-Schlüssel
 app-basics-safe-mode = Abgesicherter Modus
 show-dir-label =
@@ -115,6 +113,13 @@ sandbox-sys-call-number = Systemaufruf
 sandbox-sys-call-args = Parameter
 safe-mode-title = Abgesicherten Modus probieren
 restart-in-safe-mode-label = Mit deaktivierten Add-ons neu starten…
+
+## Media titles
+
+audio-backend = Audio-Backend
+max-audio-channels = Max. Kanäle
+channel-layout = Bevorzugtes Kanallayout
+sample-rate = Bevorzugte Sample-Rate
 media-title = Medien
 media-output-devices-title = Ausgabegeräte
 media-input-devices-title = Eingabegeräte
@@ -127,6 +132,9 @@ media-device-format = Format
 media-device-channels = Kanäle
 media-device-rate = Rate
 media-device-latency = Latenz
+
+##
+
 intl-title = Internationalisierung & Lokalisierung
 intl-app-title = Anwendungseinstellungen
 intl-locales-requested = Angeforderte Sprachen
@@ -200,7 +208,6 @@ virtual-monitor-disp = Virtueller Bildschirm
 
 found = Gefunden
 missing = Fehlt
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Beschreibung
@@ -242,13 +249,7 @@ uses-tiling = Verwendet Kacheln
 content-uses-tiling = Verwendent Kacheln für Inhalt
 off-main-thread-paint-enabled = Zeichnen auf Nebenthread aktiviert
 off-main-thread-paint-worker-count = Anzahl Worker für Zeichnen auf Nebenthread
-low-end-machine = Leistungsschwaches Gerät erkannt
 target-frame-rate = Anvisierte Bildwiederholfrequenz (Framerate)
-
-audio-backend = Audio-Backend
-max-audio-channels = Max. Kanäle
-channel-layout = Bevorzugtes Kanallayout
-sample-rate = Bevorzugte Sample-Rate
 min-lib-versions = Minimal vorausgesetzte Version
 loaded-lib-versions = Verwendete Version
 has-seccomp-bpf = Seccomp-BPF (Filtern von Systemaufrufen)
@@ -262,14 +263,11 @@ effective-content-sandbox-level = Effektive Ebene der isolierten Umgebung
 sandbox-proc-type-content = Inhalt
 sandbox-proc-type-file = Dateiinhalt
 sandbox-proc-type-media-plugin = Medienplugin
-
 sandbox-proc-type-data-decoder = Datendekoder
-
 launcher-process-status-0 = Aktiviert
 launcher-process-status-1 = Deaktiviert nach Fehler
 launcher-process-status-2 = Deaktivierung erzwungen
 launcher-process-status-unknown = Unbekannter Status
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
