@@ -222,6 +222,7 @@ unknown-failure = Bloķēts; kļūdas kods { $failureCode }
 d3d11layers-crash-guard = D3D11 kompozitors
 d3d11video-crash-guard = D3D11 Video dekoderis
 d3d9video-crash-buard = D3D11 Video dekoderis
+d3d9video-crash-guard = D3D11 Video dekoderis
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Atjaunot nākamajā pārstartēšanā
 gpu-process-kill-button = Pārtraukt GPU procesu
