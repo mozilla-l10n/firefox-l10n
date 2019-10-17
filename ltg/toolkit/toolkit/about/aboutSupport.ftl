@@ -45,9 +45,7 @@ app-basics-performance = Performance
 app-basics-service-workers = Registered Service Workers
 app-basics-profiles = Profili
 app-basics-multi-process-support = Vairuoku procesu lūgs
-app-basics-process-count = Šķārsteikla satura process
 app-basics-enterprise-policies = Uzjāmuma politikas
-app-basics-key-google = Google atslāgs
 app-basics-key-mozilla = Mozilla atsarasšona vītys pakolpuojuma atslāgs
 app-basics-safe-mode = Drūsais režyms
 show-dir-label =
@@ -97,6 +95,13 @@ sandbox-sys-call-number = Syscall
 sandbox-sys-call-args = Argumenti
 safe-mode-title = Try Safe Mode
 restart-in-safe-mode-label = Puorstarteit ar deaktiveitim papyldynuojumym…
+
+## Media titles
+
+audio-backend = Skanis Backend
+max-audio-channels = Max Channels
+channel-layout = Preferred Channel Layout
+sample-rate = Preferred Sample Rate
 media-title = Multimedejis
 media-output-devices-title = Izvades īrīces
 media-input-devices-title = Īvodes īrīces
@@ -109,6 +114,9 @@ media-device-format = Formats
 media-device-channels = Channels
 media-device-rate = Uotrums
 media-device-latency = Aizture
+
+##
+
 intl-title = Internacionalizaceja un lokalizaceja
 intl-app-title = Programaturys īstatiejumi
 intl-locales-requested = Pīpraseitōs volūdas
@@ -222,10 +230,6 @@ uses-tiling = Izmontoj grupiešonu
 content-uses-tiling = Izmontoj viersrakstōšōnu Tiling (saturs)
 off-main-thread-paint-enabled = Off Main Thread Painting Enabled
 off-main-thread-paint-worker-count = Na golvanajā pavedīnī zeimejušū Workers skaits
-audio-backend = Skanis Backend
-max-audio-channels = Max Channels
-channel-layout = Preferred Channel Layout
-sample-rate = Preferred Sample Rate
 min-lib-versions = Gaideituo minimaluo verseja
 loaded-lib-versions = Izmontuotuo verseja
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
