@@ -174,3 +174,15 @@ cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blokerede en finge
 cfr-doorhanger-fingerprinters-description = Du har ret til et privatliv. { -brand-short-name } blokerer nu fingerprinters, der indsamler unikke informationer om din enhed for at spore dig.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } blokerede en cryptominer på denne side
 cfr-doorhanger-cryptominers-description = Du har ret til et privatliv. { -brand-short-name } blokerer nu cryptominers, der bruger dit systems ressourcer til at udvinde digital valuta.
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+  { $blockedCount ->
+   *[other] { -brand-short-name } blokerede mere end <b>{ $blockedCount }</b> sporings-mekanismer siden { $date }!
+  }
+cfr-doorhanger-milestone-ok-button = Vis alle
+  .accesskey = V
