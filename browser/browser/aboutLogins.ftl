@@ -51,6 +51,7 @@ login-list-count =
     }
 login-list-sort-label-text = מיון לפי:
 login-list-name-option = שם (A-Z)
+login-list-breached-option = אתרים פרוצים
 login-list-last-changed-option = שינוי אחרון
 login-list-last-used-option = שימוש אחרון
 login-list-intro-title = לא נמצאו כניסות
@@ -59,6 +60,11 @@ about-logins-login-list-empty-search-description = אין תוצאות התוא�
 login-list-item-title-new-login = כניסה חדשה
 login-list-item-subtitle-new-login = נא להזין את פרטי הכניסה שלך
 login-list-item-subtitle-missing-username = (אין שם משתמש)
+about-logins-list-item-warning-icon =
+    .alt = סמל אזהרה
+    .title = אתר פרוץ
+about-logins-list-item-breach-icon =
+    .title = אתר פרוץ
 
 ## Introduction screen
 

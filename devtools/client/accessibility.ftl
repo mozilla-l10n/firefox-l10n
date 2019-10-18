@@ -15,11 +15,14 @@ accessibility-warning =
     .alt = אזהרה
 accessibility-fail =
     .alt = שגיאה
+accessibility-best-practices =
+    .alt = שיטות הפעלה מומלצות
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has an accessibility issue
 ## with its text label or accessible name.
 
+accessibility-text-label-issue-heading = לכותרות חייבות להיות תוויות. <a>מידע נוסף</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
