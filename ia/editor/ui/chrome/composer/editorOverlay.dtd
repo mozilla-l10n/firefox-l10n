@@ -5,10 +5,12 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
+<!ENTITY saveCmd.key "S">
 
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Collar sin formato">
 <!ENTITY pasteNoFormatting.accesskey "n">
+<!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Collar como">
 <!ENTITY pasteAs.accesskey "o">
 <!ENTITY pasteAsQuotationCmd.label "Collar como citation">
@@ -19,13 +21,16 @@
 <!ENTITY enableInlineSpellChecker.label "Corrector orthographic durante que tu scribe">
 <!ENTITY checkSpellingCmd2.label "Verificar le orthographia…">
 <!ENTITY checkSpellingCmd2.accesskey "r">
+<!ENTITY checkSpellingCmd2.key "p">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Inserer">
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd2.label "Ligamine…">
 <!ENTITY insertLinkCmd2.accesskey "L">
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Ancora con nomine…">
+<!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Imagine…">
 <!ENTITY insertImageCmd.accesskey "I">
 <!ENTITY insertHLineCmd.label "Linea horizontal">
@@ -38,10 +43,14 @@
 <!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Characteres e symbolos…">
 <!ENTITY insertCharsCmd.accesskey "C">
+<!ENTITY insertBreakAllCmd.label "Nove riga sub imagine(s)">
+<!ENTITY insertBreakAllCmd.accesskey "r">
 
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Crear ligamine…">
 <!ENTITY createLinkCmd.accesskey "g">
+<!ENTITY editLinkCmd.label "Rediger ligamine in Composer">
+<!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Eliger un typo de character">
@@ -52,6 +61,8 @@
 <!ENTITY fontFixedWidth.label "Largessa fixe">
 <!ENTITY fontFixedWidth.accesskey "x">
 <!ENTITY fontFixedWidth.key "T">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "H">
 <!ENTITY fontTimes.label "Tempores">
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
@@ -95,8 +106,14 @@
 <!ENTITY styleUnderlineCmd.label "Sublinear">
 <!ENTITY styleUnderlineCmd.accesskey "S">
 <!ENTITY styleUnderlineCmd.key "U">
+<!ENTITY styleStrikeThruCmd.label "Barrate">
+<!ENTITY styleStrikeThruCmd.accesskey "r">
+<!ENTITY styleSuperscriptCmd.label "Apice">
+<!ENTITY styleSuperscriptCmd.accesskey "A">
 <!ENTITY styleSubscriptCmd.label "Subscripte">
 <!ENTITY styleSubscriptCmd.accesskey "S">
+<!ENTITY styleNonbreakingCmd.label "Non nove riga">
+<!ENTITY styleNonbreakingCmd.accesskey "N">
 <!ENTITY styleEm.label "Emphase">
 <!ENTITY styleEm.accesskey "E">
 <!ENTITY styleStrong.label "Emphase plus forte">
@@ -109,12 +126,21 @@
 <!ENTITY styleAcronym.accesskey "r">
 <!ENTITY styleCode.label "Codice">
 <!ENTITY styleCode.accesskey "o">
+<!ENTITY styleSamp.label "Exemplo de egresso">
+<!ENTITY styleSamp.accesskey "m">
 <!ENTITY styleVar.label "Variabile">
 <!ENTITY styleVar.accesskey "V">
 
 <!ENTITY formatFontColor.label "Color del texto…">
 <!ENTITY formatFontColor.accesskey "C">
+<!ENTITY tableOrCellColor.label "Color de fundo tabella o cella…">
+<!ENTITY tableOrCellColor.accesskey "f">
 
+<!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
+<!ENTITY formatRemoveNamedAnchors.label "Remover ancora con nomine">
+<!ENTITY formatRemoveNamedAnchors.accesskey "R">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Paragrapho">
 <!ENTITY paragraphMenu.accesskey "P">
@@ -142,6 +168,8 @@
 <!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "Nulle">
 <!ENTITY noneCmd.accesskey "N">
+<!ENTITY listBulletCmd.label "Punctate">
+<!ENTITY listBulletCmd.accesskey "P">
 <!ENTITY listNumberedCmd.label "Numerate">
 <!ENTITY listNumberedCmd.accesskey "m">
 <!ENTITY listTermCmd.label "Termino">
@@ -173,6 +201,7 @@
 <!ENTITY alignRight.tooltip "Alinear a dextra">
 <!ENTITY alignJustify.label "Justificar">
 <!ENTITY alignJustify.accesskey "J">
+<!ENTITY alignJustify.tooltip "Alinear justificate">
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Strato">
