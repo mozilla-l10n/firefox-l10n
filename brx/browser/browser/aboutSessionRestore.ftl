@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = जथुम्माखौ लाबोफिन
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = निमाहा हो. जों नोंथांनि पेजफोरखैा लाबोफिन नाया‌‍व जेंना मोनगासिनो ।
 restore-page-hide-tabs = आवगयनि टेबफोरखौ दोनखोमा
 restore-page-show-tabs = आवगयनि टेबफोरखौ नाय
 # When tabs are distributed across multiple windows, this message is used as a

@@ -20,3 +20,5 @@ about-private-browsing =
     .title = वेबौ नागिर
 about-private-browsing-not-private = नोंथाङा दासान्दि मोनसे प्राइभेट उइन्ड'आव गैया।
 content-blocking-title = थानाय-आयदा ब्लोक खालामनाय
+about-private-browsing-search-banner-close-button =
+    .aria-label = बन्द खालाम
