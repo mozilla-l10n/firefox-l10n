@@ -13,6 +13,7 @@
 <!ENTITY locationEditField.label "Adresse del imagine:">
 <!ENTITY locationEditField.accessKey "А">
 <!ENTITY locationEditField.tooltip "Insere le nomine de file o position del imagine">
+<!ENTITY locationEditField.shortenedDataURI "URI abbreviate (le commando 'Copiar' placiara in le area de transferentia le URI complete)">
 <!ENTITY title.label "Consilio:">
 <!ENTITY title.accessKey "C">
 <!ENTITY altText.label "Texto alternative">
