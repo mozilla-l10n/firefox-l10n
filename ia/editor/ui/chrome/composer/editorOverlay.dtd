@@ -19,6 +19,7 @@
 <!ENTITY findBarCmd.label "Trovar…">
 <!ENTITY findReplaceCmd.label "Trovar e reimplaciar…">
 <!ENTITY enableInlineSpellChecker.label "Corrector orthographic durante que tu scribe">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "Verificar le orthographia…">
 <!ENTITY checkSpellingCmd2.accesskey "r">
 <!ENTITY checkSpellingCmd2.key "p">
@@ -205,6 +206,8 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Strato">
+<!ENTITY layerSendToBack.tooltip "Inviar al fundo">
+<!ENTITY layerBringToFront.tooltip "Poner al prime plan">
 
 <!ENTITY increaseIndent.label "Accrescer Indentation">
 <!ENTITY increaseIndent.accesskey "A">
@@ -213,6 +216,8 @@
 <!ENTITY decreaseIndent.accesskey "D">
 <!ENTITY decreaseIndent.key "[">
 
+<!ENTITY colorsAndBackground.label "Colores del pagina e fundo…">
+<!ENTITY colorsAndBackground.accesskey "u">
 
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "Tabella">
@@ -288,7 +293,9 @@
 <!ENTITY findToolbarCmd.label "Trovar">
 <!ENTITY findToolbarCmd.tooltip "Trovar texto in le pagina">
 <!ENTITY spellToolbarCmd.label "Orthographia">
+<!ENTITY spellToolbarCmd.tooltip "Verificar orthographia del selection o del pagina">
 <!ENTITY imageToolbarCmd.label "Imagine">
+<!ENTITY imageToolbarCmd.tooltip "Inserer nove imagine o editar le proprietates del imagine seligite">
 <!ENTITY hruleToolbarCmd.label "Linea horizontal">
 <!ENTITY hruleToolbarCmd.tooltip "Inserer linea horizontal o editar le proprietates del linea seligite">
 <!ENTITY tableToolbarCmd.label "Tabella">
@@ -312,7 +319,10 @@
 <!ENTITY underlineToolbarCmd.tooltip "Sublinear">
 <!ENTITY bulletListToolbarCmd.tooltip "Crea o remove le lista punctate">
 <!ENTITY numberListToolbarCmd.tooltip "Crea o remove le lista numerate">
+<!ENTITY outdentToolbarCmd.tooltip "Indentar testo (verso sinistra)">
+<!ENTITY indentToolbarCmd.tooltip "Indentar testo (verso dextra)">
 <!ENTITY AlignPopupButton.tooltip "Seliger alineamento del texto">
+<!ENTITY InsertPopupButton.tooltip "Inserer un ligamine, un ancora, un imagine, un linea horizontal o un tabella">
 <!ENTITY alignLeftButton.tooltip "Alinear texto preter le margine sinistre">
 <!ENTITY alignCenterButton.tooltip "Alinear texto centrate">
 <!ENTITY alignRightButton.tooltip "Alinear texto preter le margine dextre">
@@ -334,3 +344,4 @@
 <!ENTITY removeTOC.label          "Remover">
 <!ENTITY removeTOC.accesskey      "r">
 <!ENTITY tocMenu.label            "Indice del contentos…">
+<!ENTITY tocMenu.accesskey        "n">
