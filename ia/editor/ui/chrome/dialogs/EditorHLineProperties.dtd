@@ -24,3 +24,4 @@
 <!ENTITY threeDShading.accessKey "U">
 <!ENTITY saveSettings.label "Usar como ordinari">
 <!ENTITY saveSettings.accessKey "O">
+<!ENTITY saveSettings.tooltip "Salvar iste parametros pro  usar al insertion de nove lineas horizontal">

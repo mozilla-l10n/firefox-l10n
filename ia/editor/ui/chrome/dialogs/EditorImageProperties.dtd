@@ -12,6 +12,7 @@
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Adresse del imagine:">
 <!ENTITY locationEditField.accessKey "А">
+<!ENTITY locationEditField.tooltip "Insere le nomine de file o position del imagine">
 <!ENTITY title.label "Consilio:">
 <!ENTITY title.accessKey "C">
 <!ENTITY altText.label "Texto alternative">
@@ -37,8 +38,10 @@
 <!ENTITY widthEditField.accessKey "L">
 <!ENTITY constrainCheckbox.label "Restringer">
 <!ENTITY constrainCheckbox.accessKey "R">
+<!ENTITY constrainCheckbox.tooltip "Mantener le reporto del aspecto del imagine">
 
 <!-- These controls are in the Image Map box of the expanded area -->
+<!ENTITY imagemapBox.label "Mappa imagine">
 <!ENTITY removeImageMapButton.label "Remover">
 <!ENTITY removeImageMapButton.accessKey "R">
 
@@ -52,10 +55,16 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "Spatiamento">
+<!ENTITY leftRightEditField.label "Sinistra e dextra:">
+<!ENTITY leftRightEditField.accessKey "S">
 <!ENTITY topBottomEditField.label "Culmine e pede">
 <!ENTITY topBottomEditField.accessKey "C">
+<!ENTITY borderEditField.label "Bordo plen:">
+<!ENTITY borderEditField.accessKey "B">
 
 <!-- These controls are in the Link Box -->
+<!ENTITY showImageLinkBorder.label "Monstrar bordo circum imagine ligate">
+<!ENTITY showImageLinkBorder.accessKey "B">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formulario">

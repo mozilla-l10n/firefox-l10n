@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Window title -->
+<!ENTITY windowTitle.label            "Publicar pagina">
+<!ENTITY windowTitleSettings.label    "Parametros de publication">
 <!ENTITY publishTab.label             "Publicar">
 <!ENTITY settingsTab.label            "Parametros">
 <!ENTITY publishButton.label          "Publicar">
@@ -13,8 +15,13 @@
 <!ENTITY siteList.tooltip             "Elige le sito ubi tu desira publicar">
 <!ENTITY newSiteButton.label          "Nove sito">
 <!ENTITY newSiteButton.accesskey      "N">
+<!ENTITY docDirList.tooltip           "Selige o insere le nomine del sub-plica remote pro iste pagina">
+<!ENTITY publishImgCheckbox.label     "Includer imagines e altere files">
+<!ENTITY publishImgCheckbox.accesskey "a">
+<!ENTITY publishImgCheckbox.tooltip   "Publicar imagines e altere files con ligamine in iste pagina">
 <!ENTITY sameLocationRadio.label      "Utilisar le mesme adresse que le pagina">
 <!ENTITY sameLocationRadio.accesskey  "U">
+<!ENTITY sameLocationRadio.tooltip    "Piblucar files con mesme position de iste pagina">
 <!ENTITY useSubdirRadio.label         "Utilisar iste sub-plica:">
 <!ENTITY useSubdirRadio.accesskey     "p">
 <!ENTITY pageTitle.label              "Titulo del pagina:">
