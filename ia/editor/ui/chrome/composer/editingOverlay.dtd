@@ -8,6 +8,7 @@
 <!ENTITY openFileCmd.key "A">
 <!ENTITY openRemoteCmd.label "Aperir adresse web…">
 <!ENTITY openRemoteCmd.accesskey "w">
+<!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Paginas recente">
 <!ENTITY fileRecentMenu.accesskey "R">
 <!ENTITY saveCmd.label "Salvar">
