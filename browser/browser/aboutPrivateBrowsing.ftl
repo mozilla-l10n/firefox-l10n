@@ -24,3 +24,5 @@ about-private-browsing =
     .title = ਵੈੱਬ ‘ਤੇ ਲੱਭੋ
 about-private-browsing-not-private = ਇਸ ਸਮੇਂ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਨਹੀਂ ਵਰਤ ਰਹੇ ਹੋ।
 content-blocking-title = ਸਮੱਗਰੀ ਪਾਬੰਦੀ
+about-private-browsing-search-banner-close-button =
+    .aria-label = ਬੰਦ ਕਰੋ
