@@ -4,6 +4,7 @@
 
 
 <!-- Window title -->
+<!ENTITY windowTitle.label "Proprietates del linea horizontal">
 
 <!ENTITY dimensionsBox.label "Dimensiones">
 <!ENTITY heightEditField.label "Altor:">
