@@ -56,6 +56,8 @@ rcwn-avg-long = ממוצע ארוך
 rcwn-std-dev-long = סטיית תקן ארוכה
 rcwn-cache-slow = ספירת אטיות במטמון
 rcwn-cache-not-slow = ספירת חוסר אטיות במטמון
+networkid = מזהה רשת
+networkid-id = מזהה רשת
 
 ## Link is intended as "network link"
 

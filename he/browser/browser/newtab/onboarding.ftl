@@ -67,6 +67,9 @@ onboarding-benefit-products-title = מוצרים שימושיים
 onboarding-benefit-products-text = לבצע משימות עם משפחת כלים שמכבדת את הפרטיות שלך בכל המכשירים שלך.
 onboarding-benefit-knowledge-title = ידע מעשי
 onboarding-benefit-privacy-title = פרטיות אמיתית
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 

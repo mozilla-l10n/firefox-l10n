@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = רמת ההגנה היא <b>רגילה</b>
-protection-header-details-strict = רמת ההגנה היא <b>מחמירה</b>
-protection-header-details-custom = רמת ההגנה <b>מותאמת אישית</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = רמת ההגנה היא <b>רגילה</b>
     .title = מעבר להגדרות פרטיות
 protection-report-header-details-strict = רמת ההגנה היא <b>מחמירה</b>
@@ -47,12 +41,12 @@ cookie-tab-title = עוגיות מעקב חוצות אתרים
 cookie-tab-content = עוגיות אלו עוקבות אחריך מאתר לאתר כדי לאסוף נתונים על הפעילויות המקוונות שלך. הן נוצרות על־ידי גורמי צד־שלישי כמו מפרסמים וחברות אנליטיות. חסימת עוגיות מעקב חוצות אתרים מפחיתה את מספר הפרסומות שעוקבות אחריך. <a data-l10n-name="learn-more-link">מידע נוסף</a>
 tracker-tab-title = תוכן מעקב
 tracker-tab-description = אתרים עשויים לטעון פרסומות חיצוניות, סרטונים ותכנים אחרים עם קוד מעקב. חסימת תוכן מעקב יכולה לסייע לאתרים להיטען מהר יותר, אך יתכן שמספר כפתורים, טפסים ושדות התחברות לא יעבדו. <a data-l10n-name="learn-more-link">מידע נוסף</a>
+fingerprinter-tab-title = רכיבי זהות דיגיטלית
 cryptominer-tab-title = כורי מטבעות דיגיטליים
 cryptominer-tab-content = כורי מטבעות דיגיטליים משתמשים בכוח העיבוד של המערכת שלך כדי לכרות כסף דיגיטלי. תסריטי כריית מטבעות מרוקנים את הסוללה שלך, מאטים את המחשב שלך ומגדילים את חשבון החשמל שלך. <a data-l10n-name="learn-more-link">מידע נוסף</a>
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } מאחסן באופן מאובטח את הססמאות שלך בדפדפן.
 lockwise-header-content-logged-in = אחסון וסנכרון הססמאות שלך באופן מאובטח לכל המכשירים שלך.
-about-logins-view-logins-button = הצגת כניסות
 protection-report-view-logins-button = הצגת כניסות
     .title = מעבר לכניסות השמורות
 # This string is displayed after a large numeral that indicates the total number
@@ -77,10 +71,6 @@ lockwise-sync-not-syncing-devices = לא בסנכרון עם מכשירים נו
 monitor-link = איך זה עובד
 auto-scan = נסרק באופן אוטומטי היום
 full-report-link = הצגת הדוח המלא ב־<a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = מעבר להגדרות פרטיות
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = מעבר לכניסות השמורות
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
