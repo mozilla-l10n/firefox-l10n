@@ -19,3 +19,14 @@ open-location = Kirjoita osoite tai hakusana
 share = Jaa
 close-window = Sulje ikkuna
 open-sidebar = Sivupaneelit
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = Kirjanmerkit
+search-history = Historia
+search-opentabs = Avoimet välilehdet
+search-tags = Tunnisteet
+search-titles = Otsikot
+
+
+
