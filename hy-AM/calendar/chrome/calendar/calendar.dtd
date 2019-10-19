@@ -159,7 +159,7 @@
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "O">
 <!ENTITY calendar.context.modifyorviewtask.label      "Բացել առաջադրանք…">
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "O">
-<!ENTITY calendar.context.newevent.label              "Նոր իրադարձութիւն…">
+<!ENTITY calendar.context.newevent.label              "Նոր իրադարձություն…">
 <!ENTITY calendar.context.newevent.accesskey          "N">
 <!ENTITY calendar.context.newtodo.label               "Նոր առաջադրանք…">
 <!ENTITY calendar.context.newtodo.accesskey           "k">
