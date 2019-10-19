@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Daty w trajnem składowaku składowaś
 urlbar-addons-notification-anchor =
     .tooltiptext = Wobcerk powěźeńki dodankoweje instalacije wócyniś
+urlbar-tip-help-icon =
+    .title = Pomoc se wobstaraś
 
 ## Page Action Context Menu
 
