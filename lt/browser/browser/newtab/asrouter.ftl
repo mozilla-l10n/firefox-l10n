@@ -80,6 +80,9 @@ cfr-protections-panel-link-text = Sužinoti daugiau
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Naujovė:
 cfr-whatsnew-button =
     .label = Kas naujo
     .tooltiptext = Kas naujo
@@ -155,3 +158,17 @@ cfr-doorhanger-fingerprinters-heading = „{ -brand-short-name }“ šioje sveta
 cfr-doorhanger-fingerprinters-description = Jūsų privatumas yra svarbus. „{ -brand-short-name }“ jau blokuoja skaitmeninių atspaudų stebėjimo elementus, kurie renka jūsų įrenginį identifikuoti leidžiančią informaciją, kad galėtų jus sekti.
 cfr-doorhanger-cryptominers-heading = „{ -brand-short-name }“ šioje svetainėje užblokavo kriptovaliutų kasėją
 cfr-doorhanger-cryptominers-description = Jūsų privatumas yra svarbus. „{ -brand-short-name }“ jau blokuoja kriptovaliutų kasėjus, kurie naudoja jūsų sistemos resursus skaitmeninių pinigų kasimui.
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] „{ -brand-short-name }“ užblokavo virš <b>{ $blockedCount }</b> stebėjimo elemento nuo { $date }!
+        [few] „{ -brand-short-name }“ užblokavo virš <b>{ $blockedCount }</b> stebėjimo elementų nuo { $date }!
+       *[other] „{ -brand-short-name }“ užblokavo virš <b>{ $blockedCount }</b> stebėjimo elementų nuo { $date }!
+    }
+cfr-doorhanger-milestone-ok-button = Rodyti viską
+    .accesskey = R
