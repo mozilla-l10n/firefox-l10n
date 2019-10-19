@@ -31,6 +31,7 @@ search-bookmarks = Ticraḍ n isebtar
 search-history = Amazray
 search-opentabs = Lddi icarren
 search-tags = Tibzimin
+search-titles = Izwal
 
 
 
