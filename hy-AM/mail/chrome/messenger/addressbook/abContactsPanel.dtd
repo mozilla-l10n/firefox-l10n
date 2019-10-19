@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Տեղեկագրի ցանկի հատկությունները">
 <!ENTITY mailingListPropertiesMenu.accesskey "կ">
 
+<!ENTITY abContextMenuButton.tooltip        "Ցուցադրել հասցեագրքի համագրույթի ընտրացանկը">
 <!ENTITY addressbookPicker.label            "Հասցեագիրք.">
 <!ENTITY addressbookPicker.accesskey        "ք">
 <!ENTITY searchContacts.label               "Որոնել կոնտակտներ.">
@@ -35,9 +36,10 @@
 <!ENTITY editMailingListContext.label       "Խմբագրել ցանկը">
 <!ENTITY editMailingListContext.accesskey   "Խ">
 
-
-
-
+<!ENTITY newContactAbContext.label          "Նոր կապ">
+<!ENTITY newContactAbContext.accesskey      "C">
+<!ENTITY newListAbContext.label             "Նոր ցանկ">
+<!ENTITY newListAbContext.accesskey         "L">
 
 <!ENTITY toButton.label                     "Ավելացնել Ում.">
 <!ENTITY toButton.accesskey                 "A">
