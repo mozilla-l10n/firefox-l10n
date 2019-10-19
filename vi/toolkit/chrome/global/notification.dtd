@@ -8,6 +8,8 @@
 
 <!ENTITY learnMore "Tìm hiểu thêm...">
 
+<!ENTITY learnMoreNoEllipsis "Tìm hiểu thêm">
+
 <!ENTITY defaultButton.label "OK!">
 <!ENTITY defaultButton.accesskey "O">
 

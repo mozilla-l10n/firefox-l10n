@@ -33,10 +33,20 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Yêu cầu thư điện tử hợp lệ
 onboarding-join-form-legal = Khi chọn tiếp tục, bạn đồng ý với <a data-l10n-name="terms">điều khoản dịch vụ</a> và <a data-l10n-name="privacy">thông báo bảo mật</a>.
 onboarding-join-form-continue = Tiếp tục
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Đã có một tài khoản?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Đăng nhập
 onboarding-start-browsing-button-label = Bắt đầu duyệt web
 onboarding-cards-dismiss =
     .title = Bỏ qua
     .aria-label = Bỏ qua
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Hãy bắt đầu khám phá mọi thứ bạn có thể làm.
+onboarding-fullpage-form-email =
+    .placeholder = Địa chỉ email của bạn…
 
 ## Firefox Sync modal dialog strings.
 
@@ -103,6 +113,7 @@ onboarding-data-sync-text2 = Đồng bộ hóa dấu trang, mật khẩu và hơ
 onboarding-data-sync-button2 = Đăng nhập vào { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Cảnh báo về vi phạm dữ liệu
 onboarding-firefox-monitor-text = { -monitor-brand-name } giám sát nếu email của bạn xuất hiện vi phạm dữ liệu và thông báo cho bạn nếu nó xuất hiện trong một vi phạm mới.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } giám sát nếu email của bạn xuất hiện trong vụ rò rỉ dữ liệu đã biết và thông báo cho bạn nếu nó xuất hiện trong vụ rò rỉ mới.
 onboarding-firefox-monitor-button = Đăng ký thông báo
 onboarding-browse-privately-title = Duyệt web riêng tư hơn
 onboarding-browse-privately-text = Duyệt web riêng tư sẽ xóa lịch sử tìm kiếm và duyệt web của bạn để giữ bí mật với bất kỳ ai sử dụng máy tính của bạn.
