@@ -15,6 +15,7 @@ certificate-viewer-algorithm = Algoritmus
 certificate-viewer-certificate-authority = Autoritad da certificaziun
 certificate-viewer-cipher-suite = Cipher Suite
 certificate-viewer-common-name = Num frequent
+certificate-viewer-email-address = Adressa dad e-mail:
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Pajais da registraziun
 certificate-viewer-country = Pajais

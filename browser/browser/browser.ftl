@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Memorisar datas en la memoria durabla
 urlbar-addons-notification-anchor =
     .tooltiptext = Avrir la panela d'installaziun da supplements
+urlbar-tip-help-icon =
+    .title = Ir per agid
 
 ## Page Action Context Menu
 

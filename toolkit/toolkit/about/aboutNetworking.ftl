@@ -9,6 +9,7 @@ ok = OK
 http = HTTP
 sockets = Sockets
 dns = DNS
+dnssuffix = Suffix DNS
 websockets = WebSockets
 refresh = Actualisar
 auto-refresh = Actualisar automaticamain mintga 3 secundas
