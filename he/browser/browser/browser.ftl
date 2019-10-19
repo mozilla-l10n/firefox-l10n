@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = שמירת נתונים באחסון קבוע
 urlbar-addons-notification-anchor =
     .tooltiptext = פתיחת חלונית ההודעות של התקנת תוספות
+urlbar-tip-help-icon =
+    .title = קבלת עזרה
 
 ## Page Action Context Menu
 
