@@ -18,8 +18,7 @@
 <!ENTITY accountsSectionHdr.label     "Փոստարկղեր">
 <!ENTITY subscribeImapFolders.label   "Կառավարել բաժանորդագրությունները">
 <!ENTITY settingsLink.label           "Փոստարկղի մանրամասները">
-<!ENTITY newAcctLink.label            "Ստեղծել նոր փոստարկղ">
-<!ENTITY newAcct.label                "Ստեղծել նոր հաշիվ.">
+<!ENTITY setupNewAcct.label           "Ստեղծել հաշիվ.">
 
 <!ENTITY advFeaturesSectionHdr.label  "Ընդլայնված հնարավորություններ">
 <!ENTITY searchMsgsLink.label         "Նամակների որոնում">
