@@ -58,9 +58,15 @@ about-logins-login-list-empty-search-title = लगइन फोर गैया
 about-logins-login-list-empty-search-description = नोथाङा नागिरनाय बादि जेबो गैया
 login-list-item-title-new-login = गोदान लगइन
 login-list-item-subtitle-missing-username = (बाहायग्रा मुं गया)
+about-logins-list-item-warning-icon =
+    .alt = साबदान होनाय आइकन
+    .title = गाजि् जानाय वेवसाइथ
+about-logins-list-item-breach-icon =
+    .title = गाजि् जानाय वेवसाइथ
 
 ## Introduction screen
 
+about-logins-intro-instruction-help = मदद होगा्  <a data-l10n-name="help-link">{ -lockwise-brand-short-name } जायगायाव थां रैखा </a> मोन्नो
 
 ## Login
 
