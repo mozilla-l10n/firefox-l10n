@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Saugoti duomenis išliekančioje atmintyje
 urlbar-addons-notification-anchor =
     .tooltiptext = Atverti priedo diegimo pranešimo skydelį
+urlbar-tip-help-icon =
+    .title = Žinynas ir pagalba
 
 ## Page Action Context Menu
 
