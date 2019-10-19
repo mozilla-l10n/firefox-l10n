@@ -98,7 +98,7 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "Le servitor proxy recusa connexiones">
+<!ENTITY proxyConnectFailure.title "Le servitor proxy refusa connexiones">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Controla que le parametros del proxy es correcte.</li>
