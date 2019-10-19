@@ -93,6 +93,20 @@ manifest-non-existing = Không tìm thấy bảng kê khai để kiểm tra.
 # Text displayed when the page has a manifest embedded in a Data URL and
 # thus we cannot link to it.
 manifest-json-link-data-url = Tập tin kê khai được nhúng trong URL dữ liệu.
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = Mục đích: <code>{ $purpose }</code>
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Biểu tượng
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = Biểu tượng kích thước: { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Không xác định kích thước biểu tượng
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Kê khai
     .alt = Biểu tượng kê khai
