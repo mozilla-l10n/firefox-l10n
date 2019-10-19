@@ -494,7 +494,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "עוד">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "חפש או הכנס כתובת">
+<!ENTITY urlbar.placeholder2          "חיפוש או הקלדת כתובת">
 <!ENTITY urlbar.accesskey             "ח">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "הרחבה:">
