@@ -32,6 +32,13 @@ app-basics-name = Nama
 app-basics-version = Versi
 app-basics-build-id = ID Build
 app-basics-update-channel = Kanal Pemutakhiran
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] Pemutakhiran Direktori
+       *[other] Pemutakhiran Folder
+    }
 app-basics-update-history = Riwayat Pemutakhiran
 app-basics-show-update-history = Tampilkan Riwayat Pemutakhiran
 # Represents the path to the binary used to start the application.
@@ -124,7 +131,7 @@ media-device-channels = Kanal
 media-device-rate = Nilai
 media-device-latency = Latensi
 
-##
+
 
 intl-title = Pelokalan dan Internasional
 intl-app-title = Setelan Aplikasi

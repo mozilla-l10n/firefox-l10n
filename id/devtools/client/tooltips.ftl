@@ -13,6 +13,14 @@ learn-more = <span data-l10n-name="link">Pelajari lebih lanjut</span>
 ## Variables:
 ##   $property (string) - A CSS property name e.g. "color".
 
+
+## In the Rule View when a CSS property cannot be successfully applied we display
+## an icon. When this icon is hovered this message is displayed to explain why
+## the property is not applied.
+## Variables:
+##   $property (string) - A CSS property name e.g. "color".
+##   $display (string) - A CSS display value e.g. "inline-block".
+
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan kontainer flex atau kontainer grid.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan item flex atau grid.
 inactive-css-not-grid-item = <strong>{ $property }</strong> tidak berdampak pada elemen ini karena bukan item grid.
@@ -25,8 +33,12 @@ inactive-css-not-flex-container = <strong>{ $property }</strong> tidak berdampak
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-fix = Coba tambahkan <strong>display:grid</strong> atau <strong>display:flex</strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Coba tambahkan baik <strong>display:grid</strong>, <strong>display:flex</strong>, maupun <strong>columns:2</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix = Coba tambahkan <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, atau <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-grid-item-fix = Coba tambahkan <strong>display:grid</strong> atau <strong>display:inline-grid</strong> pada induk item. { learn-more }
 inactive-css-not-grid-container-fix = Coba tambahkan <strong>display:grid</strong> atau <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-flex-item-fix = Coba tambahkan <strong>display:flex</strong> atau <strong>display:inline-flex</strong> pada induk item. { learn-more }
 inactive-css-not-flex-container-fix = Coba tambahkan <strong>display:flex</strong> atau <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = Coba tambahkan baik <strong>display:inline</strong> maupun <strong>display:table-cell</strong>. { learn-more }
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Coba tambahkan baik <strong>display:inline-block</strong> maupun <strong>display:block</strong>. { learn-more }
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Coba tambahkan <strong>display:inline-block</strong>. { learn-more }
