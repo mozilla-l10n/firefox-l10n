@@ -89,6 +89,61 @@
 <!ENTITY Company.accesskey              "n">
 <!ENTITY WorkAddress.label              "Հասցե.">
 <!ENTITY WorkAddress.accesskey          "d">
+<!ENTITY WorkCity.label                 "Քաղաք.">
+<!ENTITY WorkCity.accesskey             "y">
+<!ENTITY WorkState.accesskey            "S">
+<!ENTITY WorkZipCode.accesskey          "Z">
+<!ENTITY WorkCountry.label              "Երկիր.">
+<!ENTITY WorkCountry.accesskey          "u">
+<!ENTITY WorkWebPage.label              "Վեբ կայք.">
+<!ENTITY WorkWebPage.accesskey          "e">
 
+<!ENTITY Other.tab                      "Այլ">
+<!ENTITY Other.accesskey                "h">
+<!ENTITY Custom1.label                  "Լրացուցիչ 1․">
+<!ENTITY Custom1.accesskey              "1">
+<!ENTITY Custom2.label                  "Լրացուցիչ 2․">
+<!ENTITY Custom2.accesskey              "2">
+<!ENTITY Custom3.label                  "Լրացուցիչ 3․">
+<!ENTITY Custom3.accesskey              "3">
+<!ENTITY Custom4.label                  "Լրացուցիչ 4․">
+<!ENTITY Custom4.accesskey              "4">
+<!ENTITY Notes.label                    "Նշումներ.">
+<!ENTITY Notes.accesskey                "N">
 
+<!ENTITY Chat.tab                       "Զրույց">
+<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Gtalk.label                    "Google Talk.">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM.">
+<!ENTITY AIM2.accesskey                 "M">
+<!ENTITY Yahoo.label                    "Yahoo!.">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype.">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ.">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN.">
+<!ENTITY MSN2.accesskey                 "N">
+<!ENTITY ICQ.label                      "ICQ.">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber ID.">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "IRC մականուն.">
+<!ENTITY IRC.accesskey                  "R">
 
+<!ENTITY Photo.tab                      "Լուսանկար">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY GenericPhoto.label             "Ընդհանուր նկար">
+<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY DefaultPhoto.label             "Լռելյայն">
+<!ENTITY PhotoFile.label                "Այս համակարգչում">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "Ընտրել">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "Վեբում">
+<!ENTITY PhotoURL.accesskey             "b">
+<!ENTITY PhotoURL.placeholder           "Տեղադրեք կամ նշեք լուսանկարի վեբ հասցեն">
+<!ENTITY UpdatePhoto.label              "Թարմացնել">
+<!ENTITY UpdatePhoto.accesskey          "u">
+<!ENTITY PhotoDropTarget.label          "Քաշեք այստեղ նոր լուսանկար">
