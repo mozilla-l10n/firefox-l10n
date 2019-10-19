@@ -160,3 +160,17 @@ cfr-doorhanger-fingerprinters-heading = { -brand-short-name } zablokował na tej
 cfr-doorhanger-fingerprinters-description = Twoja prywatność jest ważna. { -brand-short-name } blokuje teraz elementy zbierające jednoznacznie identyfikowalne informacje o używanym urządzeniu, aby Cię śledzić.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } zablokował na tej witrynie element używający komputera użytkownika do generowania kryptowalut
 cfr-doorhanger-cryptominers-description = Twoja prywatność jest ważna. { -brand-short-name } blokuje teraz elementy wykorzystujące moc obliczeniową Twojego komputera do generowania cyfrowych walut.
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] { -brand-short-name } od { $date } zablokował ponad <b>{ $blockedCount }</b> element śledzący!
+        [few] { -brand-short-name } od { $date } zablokował ponad <b>{ $blockedCount }</b> elementy śledzące!
+       *[many] { -brand-short-name } od { $date } zablokował ponad <b>{ $blockedCount }</b> elementów śledzących!
+    }
+cfr-doorhanger-milestone-ok-button = Wyświetl wszystkie
+    .accesskey = W
