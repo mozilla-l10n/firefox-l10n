@@ -467,7 +467,6 @@ choose-bookmark =
 
 home-prefs-content-header = Wobsah startoweje strony Firefox
 home-prefs-content-description = Wubjerće, kotry wobsah chceće na swojej startowej wobrazowce Firefox měć.
-home-prefs-content-discovery-description = Content Discovery na startowej stronje Firefox wam zmóžnja, w interneće relewantne nastawki wysokeje kwality namakać.
 home-prefs-search-header =
     .label = Webpytanje
 home-prefs-topsites-header =
@@ -518,6 +517,8 @@ search-bar-shown =
 search-engine-default-header = Standardna pytawa
 search-engine-default-desc = Wubjerće standardnu pytawu, kotraž ma so w adresowym polu a pytanskim polu wužiwać.
 search-engine-default-private-desc = Wubjerće standardnu pytawu za wužiwanje w priwatnych woknach.
+search-engine-default-desc-2 = To je waša standardna pytawa w adresowej lajsće a pytanskej lajsće. Móžeće je kóždy raz přepinać.
+search-engine-default-private-desc-2 = Wubjerće druhu standardnu pytawu jenož za priwatny modus
 search-separate-default-engine =
     .label = Tutu pytawu w priwatnych woknach wužiwać
     .accesskey = T

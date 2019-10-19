@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Daty w trajnym składowaku składować
 urlbar-addons-notification-anchor =
     .tooltiptext = Wobłuk zdźělenki přidatkoweje instalacije wočinić
+urlbar-tip-help-icon =
+    .title = Pomoc sej wobstarać
 
 ## Page Action Context Menu
 

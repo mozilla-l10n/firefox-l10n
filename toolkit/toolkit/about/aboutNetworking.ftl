@@ -9,6 +9,7 @@ ok = W porjadku
 http = HTTP
 sockets = Sokety
 dns = DNS
+dnssuffix = DNS-sufiks
 websockets = Websokety
 refresh = Aktualizować
 auto-refresh = Kóžde 3 sekundy aktualizować
