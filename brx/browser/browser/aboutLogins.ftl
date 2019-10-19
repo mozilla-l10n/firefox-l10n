@@ -49,6 +49,7 @@ login-list-count =
     }
 login-list-sort-label-text = बासिदों
 login-list-name-option = मुं (A-Z)
+login-list-breached-option = वेवसाइथफोरनि गाजि् जानाय
 login-list-last-changed-option = जोबथि सोलायनाय
 login-list-last-used-option = जोबथि बाहायनाय
 login-list-intro-title = लगइन फोर गैया
@@ -102,12 +103,17 @@ confirmation-dialog-dismiss-button =
 confirm-delete-dialog-title = बे ल'गइनखौ बोखारनो?
 confirm-delete-dialog-message = बे हाबाखौ मावनो हायै खालामनो हाया।
 confirm-delete-dialog-confirm-button = खोमोर
+confirm-discard-changes-dialog-title = थिनानै देनै सोलायनाफोरखौ बोखार
+confirm-discard-changes-dialog-message = गासिबो थिनानै दोनै सोलायनायफोरा गोमागोन
 confirm-discard-changes-dialog-confirm-button = नागार
 
 ## Breach Alert notification
 
+breach-alert-link = बे वेवसाइरथ गाजि्जानायफोरनि सोमोनदै गोबां सोलों
 breach-alert-dismiss =
     .title = बे सांग्रांथिखौ बन्द खालाम
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = बे फासवाद खौ लाखिनो नाजानायाव गोरोनथि जादों

@@ -6,6 +6,8 @@ restore-page-tab-title = जथुम्माखौ लाबोफिन
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = निमाहा हो. जों नोंथांनि पेजफोरखैा लाबोफिन नाया‌‍व जेंना मोनगासिनो ।
+restore-page-problem-desc = जो नोंथांनि सिगांनि ब़़जिं सेस'नखाै लाबोफिनायाव जेंना मोनगासिनो | ‍‍‌‌‌‌‌‌‌‌‌
+restore-page-try-this = नोंथांनि सेस'नखाै (Session) दासिमबो लाबोफिननो हायाखै ? माबालाबा मोनसे टेबयाबो (A TAB) जेंनाखाै आोंखारहोयो |
 restore-page-hide-tabs = आवगयनि टेबफोरखौ दोनखोमा
 restore-page-show-tabs = आवगयनि टेबफोरखौ नाय
 # When tabs are distributed across multiple windows, this message is used as a

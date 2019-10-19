@@ -14,10 +14,14 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = साबदान जाना आवगायलां
+about-config-intro-warning-text = गोजौ थाखोनि म'हर होनाय बासिनायखौ सोलायोबा गोहोम खोख्लैनो हागौ{ -brand-short-name } मावफु़ंनाय एबा रैखाथियाव
+about-config-intro-warning-checkbox = सांग्रां जाहो आंखौ जेब्ला बे बासिनायनि लामाखौ मोनहैयो
 about-config-intro-warning-button = खैफोदखौ गनायना ला आरो आवगायलां
 
 
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = बे बासिनायखौ सोलायोबा गोहोम खोख्लैनो हागौ{ -brand-short-name } मावफु़ंनाय एबा रैखाथियाव
 about-config-page-title = सिगांआवनो सायखना लानाय
 about-config-search-input1 =
     .placeholder = मोजांसिन मोन्नाय मुंखौ नागिर
