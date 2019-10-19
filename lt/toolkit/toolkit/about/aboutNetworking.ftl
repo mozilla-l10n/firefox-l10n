@@ -9,6 +9,7 @@ ok = Gerai
 http = HTTP
 sockets = Sujungimai
 dns = DNS
+dnssuffix = DNS prievardis
 websockets = WebSockets
 refresh = Atnaujinti
 auto-refresh = Automatiškai naujinti kas 3 sekundes
