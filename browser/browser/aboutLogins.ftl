@@ -55,6 +55,7 @@ login-list-breached-option = אתרים פרוצים
 login-list-last-changed-option = שינוי אחרון
 login-list-last-used-option = שימוש אחרון
 login-list-intro-title = לא נמצאו כניסות
+login-list-intro-description = ססמאות שיישמרו ב־{ -brand-product-name } יופיעו כאן.
 about-logins-login-list-empty-search-title = לא נמצאו כניסות
 about-logins-login-list-empty-search-description = אין תוצאות התואמות לחיפוש שלך.
 login-list-item-title-new-login = כניסה חדשה
