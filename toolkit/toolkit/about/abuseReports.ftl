@@ -12,6 +12,8 @@ abuse-report-learnmore =
     Tidak yakin masalah apa yang harus dipilih?
     <a data-l10n-name="learnmore-link">Pelajari lebih lanjut tentang melaporkan ekstensi dan tema</a>
 abuse-report-submit-description = Jelaskan masalahnya (opsional)
+abuse-report-textarea =
+    .placeholder = Akan lebih memudahkan bagi kami untuk menangani masalah jika memahami rinciannya. Harap jelaskan apa yang Anda alami. Terima kasih telah membantu kami menjaga Internet tetap sehat.
 
 ## Panel buttons.
 
@@ -42,7 +44,10 @@ abuse-report-messagebar-action-cancel = Batal
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-example = Misal: memuat malware atau mencuri data
 abuse-report-spam-reason = Berisi spam atau iklan
+abuse-report-spam-example = Misal: Memuat iklan di laman web
+abuse-report-settings-reason = Mengubah setelan pencarian, beranda, atau tab baru tanpa memberitahu atau bertanya pada saya
 abuse-report-settings-suggestions-search = Ubah setelan pencarian baku Anda
 abuse-report-settings-suggestions-homepage = Ubah beranda dan tab baru Anda
 abuse-report-deceptive-reason = Berpura-pura menjadi sesuatu yang palsu
