@@ -45,9 +45,6 @@ newtab-topsites-save-button = Spremi
 newtab-topsites-preview-button = Pregled
 newtab-topsites-add-button = Dodaj
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Jeste li sigurni da želite obrisati sve primjere ove stranice iz vaše povijesti?
@@ -89,6 +86,11 @@ newtab-menu-show-privacy-info = Naši sponzori i tvoja privatnost
 
 newtab-privacy-modal-button-done = Gotovo
 newtab-privacy-modal-header = Tvoja privatnost je važna.
+newtab-privacy-modal-paragraph =
+    Osim što vam donosimo očaravajuće priče, također vam prikazujemo
+    visoko provjeren sadržaj odabranih sponzora. Budite uvjereni, vaši
+    podaci nikada ne napuštaju vaš lokalni { -brand-product-name } — mi ih ne vidimo,
+    naši sponzori ih također ne vide.
 newtab-privacy-modal-link = Saznaj kako privatnost funkcionira na novoj kartici
 
 
@@ -97,10 +99,6 @@ newtab-privacy-modal-link = Saznaj kako privatnost funkcionira na novoj kartici
 newtab-menu-remove-bookmark = Ukloni zabilješku
 # Bookmark is a verb here.
 newtab-menu-bookmark = Zabilježi stranicu
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -130,10 +128,6 @@ newtab-label-removed-bookmark = Zabilješka uklonjena
 newtab-label-recommended = Popularno
 newtab-label-saved = Spremljeno u { -pocket-brand-name }
 newtab-label-download = Preuzeto
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
