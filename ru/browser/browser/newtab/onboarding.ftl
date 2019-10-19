@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Начало работы
 onboarding-welcome-header = Добро пожаловать в { -brand-short-name }
 onboarding-welcome-body = Теперь у вас есть браузер.<br/>Познакомьтесь с { -brand-product-name } поближе.
 onboarding-welcome-learn-more = Узнать больше о преимуществах.
+onboarding-welcome-modal-get-body = Теперь у вас есть браузер.<br/>Получите максимальную отдачу от { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = «Перезарядите» вашу защиту приватности.
+onboarding-welcome-modal-privacy-body = У вас уже есть браузер. Теперь давайте добавим ещё больше защиты приватности.
+onboarding-welcome-modal-family-learn-more = Узнайте больше о семействе продуктов { -brand-product-name }.
+onboarding-welcome-form-header = Начните здесь
 onboarding-join-form-header = Присоединитесь к сообществу { -brand-product-name }
 onboarding-join-form-body = Введите ваш адрес эл. почты, чтобы начать.
 onboarding-join-form-email =
@@ -28,10 +33,20 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Введите действующий адрес эл. почты
 onboarding-join-form-legal = Продолжая, вы соглашаетесь с <a data-l10n-name="terms">условиями предоставления услуг</a> и <a data-l10n-name="privacy">уведомлением о конфиденциальности</a>.
 onboarding-join-form-continue = Продолжить
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Уже есть аккаунт?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Войти
 onboarding-start-browsing-button-label = Начать веб-сёрфинг
 onboarding-cards-dismiss =
     .title = Скрыть
     .aria-label = Скрыть
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Давайте узнаем, что вы можете сделать.
+onboarding-fullpage-form-email =
+    .placeholder = Ваш адрес эл. почты…
 
 ## Firefox Sync modal dialog strings.
 
@@ -64,6 +79,12 @@ onboarding-benefit-privacy-title = Истинная приватность
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Во всём, что мы делаем, мы следуем нашему Обещанию по Личным Данным: Собирать меньше. Держать в безопасности. Никаких секретов.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Возьмите ваши закладки, пароли, историю и многое другое с собой, где бы вы ни использовали { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Получайте уведомления, когда ваша личная информация появляется в известных утечках данных.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Управляйте своими паролями, которые хранятся под защитой и переносимы.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -92,6 +113,7 @@ onboarding-data-sync-text2 = Синхронизируйте ваши закла�
 onboarding-data-sync-button2 = Войти в { -sync-brand-short-name(case: "accusative") }
 onboarding-firefox-monitor-title = Подпишитесь на уведомления об утечках данных
 onboarding-firefox-monitor-text = { -monitor-brand-name } следит, не был ли ваш адрес электронной почты затронут утечками данных, и если да, то сразу уведомляет вас об этом.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } следит, не был ли ваш адрес электронной почты затронут известными утечками данных, и если да, то сразу уведомляет вас об этом.
 onboarding-firefox-monitor-button = Подписаться на уведомления
 onboarding-browse-privately-title = Сёрфите приватно
 onboarding-browse-privately-text = Приватный просмотр удаляет вашу историю поиска и просмотров страниц, чтобы держать её в тайне от других людей, которые используют этот компьютер.
