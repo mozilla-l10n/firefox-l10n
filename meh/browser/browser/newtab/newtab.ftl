@@ -118,6 +118,10 @@ newtab-section-menu-privacy-notice = Tu´un xitu a kumiji noo´o
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = Sá´á luli sección
+newtab-section-expand-section-label =
+    .aria-label = Sá´á ka´nu sección
 
 ## Section Headers.
 
