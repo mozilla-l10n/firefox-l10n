@@ -161,64 +161,250 @@
 <!ENTITY calendar.context.modifyorviewtask.accesskey  "O">
 <!ENTITY calendar.context.newevent.label              "Նոր իրադարձութիւն…">
 <!ENTITY calendar.context.newevent.accesskey          "N">
+<!ENTITY calendar.context.newtodo.label               "Նոր առաջադրանք…">
+<!ENTITY calendar.context.newtodo.accesskey           "k">
+<!ENTITY calendar.context.deletetask.label            "Ջնջել առաջադրանք">
+<!ENTITY calendar.context.deletetask.accesskey        "I">
+<!ENTITY calendar.context.deleteevent.label           "Ջնջել իրադարձություն">
+<!ENTITY calendar.context.deleteevent.accesskey       "I">
+<!ENTITY calendar.context.cutevent.label              "Կտրել">
+<!ENTITY calendar.context.cutevent.accesskey          "t">
+<!ENTITY calendar.context.copyevent.label             "Պատճենել">
+<!ENTITY calendar.context.copyevent.accesskey         "C">
+<!ENTITY calendar.context.pasteevent.label            "Դնել">
+<!ENTITY calendar.context.pasteevent.accesskey        "P">
+<!ENTITY calendar.context.button.label                "Այսօրվա փեղկ">
+<!ENTITY calendar.context.button.accesskey            "T">
 
+<!ENTITY calendar.context.attendance.menu.label                 "Մասնակցություն">
+<!ENTITY calendar.context.attendance.menu.accesskey             "d">
+<!ENTITY calendar.context.attendance.occurrence.label           "Այս դեպքում">
+<!ENTITY calendar.context.attendance.all2.label                 "Ավարտել շարքերը">
+<!ENTITY calendar.context.attendance.send.label                 "Ուղարկել ծանուցում հիմա">
+<!ENTITY calendar.context.attendance.send.accesskey             "S">
+<!ENTITY calendar.context.attendance.dontsend.label             "Չուղարկել ծանուցում">
+<!ENTITY calendar.context.attendance.dontsend.accesskey         "D">
 
+<!ENTITY calendar.context.attendance.occ.accepted.accesskey     "A">
+<!ENTITY calendar.context.attendance.occ.accepted.label         "Ընդունված">
+<!ENTITY calendar.context.attendance.occ.tentative.accesskey    "y">
+<!ENTITY calendar.context.attendance.occ.tentative.label        "Նախնական ընդունված">
+<!ENTITY calendar.context.attendance.occ.declined.accesskey     "c">
+<!ENTITY calendar.context.attendance.occ.declined.label         "Մերժված">
+<!ENTITY calendar.context.attendance.occ.delegated.accesskey    "g">
+<!ENTITY calendar.context.attendance.occ.delegated.label        "Պատվիրակված">
+<!ENTITY calendar.context.attendance.occ.needsaction.accesskey  "S">
+<!ENTITY calendar.context.attendance.occ.needsaction.label      "Գործողության կարիք ունի">
+<!ENTITY calendar.context.attendance.occ.inprogress.accesskey   "I">
+<!ENTITY calendar.context.attendance.occ.inprogress.label       "Ընթացքում">
+<!ENTITY calendar.context.attendance.occ.completed.accesskey    "C">
+<!ENTITY calendar.context.attendance.occ.completed.label        "Կատարված">
 
+<!ENTITY calendar.context.attendance.all.accepted.accesskey     "e">
+<!ENTITY calendar.context.attendance.all.accepted.label         "Ընդունված">
+<!ENTITY calendar.context.attendance.all.tentative.accesskey    "v">
+<!ENTITY calendar.context.attendance.all.tentative.label        "Նախնական ընտրված">
+<!ENTITY calendar.context.attendance.all.declined.accesskey     "d">
+<!ENTITY calendar.context.attendance.all.declined.label         "Մերժված">
+<!ENTITY calendar.context.attendance.all.delegated.accesskey    "I">
+<!ENTITY calendar.context.attendance.all.delegated.label        "Պատվիրակված">
+<!ENTITY calendar.context.attendance.all.needsaction.accesskey  "I">
+<!ENTITY calendar.context.attendance.all.needsaction.label      "Գործողության կարիք ունի">
+<!ENTITY calendar.context.attendance.all.inprogress.accesskey   "p">
+<!ENTITY calendar.context.attendance.all.inprogress.label       "Ընթացքում">
+<!ENTITY calendar.context.attendance.all.completed.accesskey    "m">
+<!ENTITY calendar.context.attendance.all.completed.label        "Կատարված">
 
 <!-- Task Context Menu -->
+<!ENTITY calendar.context.progress.label              "Առաջընթաց">
+<!ENTITY calendar.context.progress.accesskey          "P">
+<!ENTITY calendar.context.priority.label              "Առաջնահերթություն">
+<!ENTITY calendar.context.priority.accesskey          "r">
+<!ENTITY calendar.context.postpone.label              "Հետաձգել առաջադրանքը">
+<!ENTITY calendar.context.postpone.accesskey          "s">
 
-<!--=percent sign-->
+<!ENTITY percnt "&#38;#37;" ><!--=percent sign-->
 
+<!ENTITY calendar.context.markcompleted.label     "Նշումը կատարվել է">
+<!ENTITY calendar.context.markcompleted.accesskey "o">
 
+<!ENTITY progress.level.0             "0&percnt; Կատարված է">
+<!ENTITY progress.level.0.accesskey   "0">
+<!ENTITY progress.level.25            "25&percnt; Կատարված է">
+<!ENTITY progress.level.25.accesskey  "2">
+<!ENTITY progress.level.50            "50&percnt; Կատարված է">
+<!ENTITY progress.level.50.accesskey  "5">
+<!ENTITY progress.level.75            "75&percnt; Կատարված է">
+<!ENTITY progress.level.75.accesskey  "7">
+<!ENTITY progress.level.100            "100&percnt; Կատարված է">
+<!ENTITY progress.level.100.accesskey  "1">
 
+<!ENTITY priority.level.none                "Հատկորոշված չէ">
+<!ENTITY priority.level.none.accesskey      "s">
+<!ENTITY priority.level.low                 "Ցածր">
+<!ENTITY priority.level.low.accesskey       "L">
+<!ENTITY priority.level.normal              "Միջին">
+<!ENTITY priority.level.normal.accesskey    "N">
+<!ENTITY priority.level.high                "Բարձր">
+<!ENTITY priority.level.high.accesskey      "H">
 
+<!ENTITY calendar.context.postpone.1hour.label      "1 Ժամ">
+<!ENTITY calendar.context.postpone.1hour.accesskey  "H">
+<!ENTITY calendar.context.postpone.1day.label       "1 Օր">
+<!ENTITY calendar.context.postpone.1day.accesskey   "D">
+<!ENTITY calendar.context.postpone.1week.label      "1 Շաբաթ">
+<!ENTITY calendar.context.postpone.1week.accesskey  "W">
 
+<!ENTITY calendar.copylink.label       "Պատճենել հղման տեղը">
+<!ENTITY calendar.copylink.accesskey   "C">
 
 <!-- Task View -->
 <!-- Note that the above *.context.* strings are currently used for the other
      task action buttons -->
+<!ENTITY calendar.taskview.delete.label     "Ջնջել">
 
 <!-- Server Context Menu -->
+<!ENTITY calendar.context.newserver.label              "Նոր օրացույց…">
+<!ENTITY calendar.context.newserver.accesskey          "N">
+<!ENTITY calendar.context.findcalendar.label           "Գտնել օրացույց…" >
+<!ENTITY calendar.context.findcalendar.accesskey       "F" >
+<!ENTITY calendar.context.deleteserver2.label          "Ջնջել օրացույց…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "D">
 
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
+<!ENTITY calendar.context.removeserver.label           "Հեռացնել օրացույց…">
+<!ENTITY calendar.context.removeserver.accesskey       "R">
+<!ENTITY calendar.context.unsubscribeserver.label      "ապաբաժանորդագրվել օրացույցից…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "U">
+<!ENTITY calendar.context.synccalendars.label          "Համաժամել օրացույցերը">
+<!ENTITY calendar.context.synccalendars.accesskey      "S">
+<!ENTITY calendar.context.publish.label                "Հրապարակել օրացույց…">
+<!ENTITY calendar.context.publish.accesskey            "b">
+<!ENTITY calendar.context.export.label                 "Արտածել օրացույց…">
+<!ENTITY calendar.context.export.accesskey             "E">
+<!ENTITY calendar.context.properties.label             "Հատկություններ">
+<!ENTITY calendar.context.properties.accesskey         "P">
 
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
+<!ENTITY calendar.context.showcalendar.accesskey      "h">
 
 <!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
      This is the access key used for the hideCalendar string -->
+<!ENTITY calendar.context.hidecalendar.accesskey      "H">
 
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showonly.accesskey           "O">
+<!ENTITY calendar.context.showall.label                "Ցուցադրել բոլոր օրացույցերը">
+<!ENTITY calendar.context.showall.accesskey            "A">
 
+<!ENTITY calendar.context.convertmenu.label              "Փոխակերպել">
+<!ENTITY calendar.context.convertmenu.accesskey.mail     "n">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "v">
+<!ENTITY calendar.context.convertmenu.event.label        "Իրադարձություն…">
+<!ENTITY calendar.context.convertmenu.event.accesskey    "E">
+<!ENTITY calendar.context.convertmenu.message.label      "Նամակ…">
+<!ENTITY calendar.context.convertmenu.message.accesskey  "M">
+<!ENTITY calendar.context.convertmenu.task.label         "Առաջադրանք…">
+<!ENTITY calendar.context.convertmenu.task.accesskey     "T">
 
+<!ENTITY calendar.tasks.view.minimonth.label           "Փոքր֊ամիս">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "M">
 
+<!ENTITY calendar.tasks.view.calendarlist.label        "Օրացույցի ցուցակ">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey    "L">
 
+<!ENTITY calendar.tasks.view.filtertasks.label           "Զտել առաջադրանքները">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey       "F">
 
 <!-- Calendar Alarm Dialog -->
 
+<!ENTITY calendar.alarm.location.label              "Տեղ՝" >
+<!ENTITY calendar.alarm.details.label               "Մանրամասներ…" >
 
+<!ENTITY calendar.alarm.snoozefor.label             "Ննջեցնել" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Ննջեցնել բոլորը" >
+<!ENTITY calendar.alarm.title.label                 "Օրացույցի հիշեցումներ" >
+<!ENTITY calendar.alarm.dismiss.label               "Բաց թողնել" >
+<!ENTITY calendar.alarm.dismissall.label            "Բաց թողնել ամբողջը" >
 
+<!ENTITY calendar.alarm.snooze.5minutes.label       "5 Րոպե" >
+<!ENTITY calendar.alarm.snooze.10minutes.label      "10 Րոպե" >
+<!ENTITY calendar.alarm.snooze.15minutes.label      "15 Րոպե" >
+<!ENTITY calendar.alarm.snooze.30minutes.label      "30 Րոպե" >
+<!ENTITY calendar.alarm.snooze.45minutes.label      "45 Րոպե" >
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 Ժամ" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 Ժամ" >
+<!ENTITY calendar.alarm.snooze.1day.label           "1 Օր" >
 
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
+<!ENTITY calendar.alarm.snooze.cancel               "Չեղարկել ննջեցումը">
 
 <!-- Calendar Server Dialog -->
+<!ENTITY calendar.server.dialog.title.edit          "Խմբագրել օրացույցը">
+<!ENTITY calendar.server.dialog.name.label          "Օրացույցի անուն՝">
 
 <!-- Calendar Properties -->
+<!ENTITY calendarproperties.color.label                    "Գույն՝">
+<!ENTITY calendarproperties.webdav.label                   "iCalendar (ICS)">
+<!ENTITY calendarproperties.caldav.label                   "CalDAV">
+<!ENTITY calendarproperties.wcap.label                     "Sun Java System Calendar Server (WCAP)">
+<!ENTITY calendarproperties.format.label                   "Ձևաչափ՝">
+<!ENTITY calendarproperties.location.label                 "Տեղ՝">
+<!ENTITY calendarproperties.refreshInterval.label          "Թարմեցնել օրացույցը՝">
+<!ENTITY calendarproperties.refreshInterval.manual.label   "Ձեռքով">
+<!ENTITY calendarproperties.name.label                     "Անուն՝">
+<!ENTITY calendarproperties.readonly.label                 "Միայն ընթերցել">
+<!ENTITY calendarproperties.firealarms.label               "Ցուցադրել հիշեցումները">
+<!ENTITY calendarproperties.cache3.label                   "Անցանց աջակցություն">
+<!ENTITY calendarproperties.enabled.label                  "Փոխել այս օրացույցը">
+<!ENTITY calendarproperties.forceDisabled.label            "Այս օրացույցի համար մատակարատ չի գտնվել։ Սա պատահում է, եթե Դուք անջատել կամ ապատեղակայել Եք որոշ հավելվածներ։">
+<!ENTITY calendarproperties.unsubscribe.label              "Ապաբաժանորդագրվել">
+<!ENTITY calendarproperties.unsubscribe.accesskey          "U">
 
 <!-- Calendar Publish Dialog -->
+<!ENTITY calendar.publish.dialog.title              "Հրապարակել օրացույց">
+<!ENTITY calendar.publish.url.label                 "Հրապարակվում է URL">
+<!ENTITY calendar.publish.publish.button      "Հրապարակել">
+<!ENTITY calendar.publish.close.button      "Փակել">
 
+<!ENTITY calendar.publish.example.url.description   "Նմանատիպ http://www.myserver.com/webdav/test.ics">
 
 <!-- Select Calendar Dialog -->
+<!ENTITY calendar.select.dialog.title    "Ընտրել օրացույց">
 
 <!-- Calendar Printing -->
+<!ENTITY calendar.print.window.title "Տպել օրացույց">
+<!ENTITY calendar.print.title.label "Վերնագիր՝">
+<!ENTITY calendar.print.layout.label "Դասավորություն՝">
+<!ENTITY calendar.print.range.label "Ինչ տպել">
+<!ENTITY calendar.print.currentView2.label "Ընթացիկ դիտում">
+<!ENTITY calendar.print.selectedEventsAndTasks.label "Ընտրված իրադարձություններ/առաջադրանքներ">
+<!ENTITY calendar.print.tasks.label "Առաջադրանքներ">
+<!ENTITY calendar.print.events.label "Իրադարձություններ">
+<!ENTITY calendar.print.custom.label "Ընտրել տվյալային ընդգրկույթ․">
+<!ENTITY calendar.print.from.label "Որտեղից՝">
+<!ENTITY calendar.print.to.label "Դեպի՝">
+<!ENTITY calendar.print.settingsGroup.label "տպման կարգավորումներ">
+<!ENTITY calendar.print.optionsGroup.label "Ընտրանքներ">
+<!ENTITY calendar.print.taskswithnoduedate.label "Առաջադրանքներ առանց վերջնաժամկետի">
+<!ENTITY calendar.print.completedtasks.label "Կատարված առաջադրանքներ">
 
 <!-- Error reporting -->
+<!ENTITY calendar.error.detail "Մանրամասներ…">
+<!ENTITY calendar.error.code "Սխալի կոդ՝">
+<!ENTITY calendar.error.description "Բովանդակություն՝">
+<!ENTITY calendar.error.title "Հայտնվեց սխալ">
 
 <!-- Extract buttons in message header -->
+<!ENTITY calendar.extract.event.button         "Ավելացնել որպես իրադարձություն">
+<!ENTITY calendar.extract.task.button          "Ավելացնել որպես առաջադրանք">
+<!ENTITY calendar.extract.event.button.tooltip "Հանե՛ք օրացույցի տեղեկությունը հաղորդագրությունից և ավելացրե՛ք ձեր օրացույցի մեջ որպես արդյունք">
+<!ENTITY calendar.extract.task.button.tooltip  "Հանե՛ք օրացույցի տեղեկությունը հաղորդագրությունից և ավելացրե՛ք այն ձեր օրացույցում որպես առաջադրանք">
