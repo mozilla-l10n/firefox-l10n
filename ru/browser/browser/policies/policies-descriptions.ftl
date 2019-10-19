@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = Запрещает { -brand-short-name } выпо
 policy-DisableForgetButton = Закрывает доступ к кнопке «Забыть».
 policy-DisableFormHistory = Отключает запоминание истории поиска и данных форм.
 policy-DisableMasterPasswordCreation = Не позволяет установить мастер-пароль, если установлена в true.
+policy-DisablePasswordReveal = Не позволяет просматривать пароли у сохранённых логинов.
 policy-DisablePocket = Отключает сохранение страниц в Pocket.
 policy-DisablePrivateBrowsing = Отключает приватный просмотр.
 policy-DisableProfileImport = Отключает команду меню для импорта данных из другого браузера.
@@ -61,6 +62,7 @@ policy-HardwareAcceleration = Отключает аппаратное ускор
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Устанавливает домашнюю страницу и, по желанию, блокирует её смену.
 policy-InstallAddonsPermission = Разрешает некоторым веб-сайтам устанавливать дополнения.
+policy-LegacyProfiles = Отключите эту функцию для принудительного создания отдельного профиля для каждой установки
 policy-LocalFileLinks = Разрешает определённым веб-сайтам ссылаться на локальные файлы.
 policy-NetworkPrediction = Включает или отключает прогнозирование сети (предварительная выборка DNS).
 policy-NewTabPage = Включает или отключает страницу новой вкладки.

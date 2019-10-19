@@ -285,6 +285,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Использовать { $plugin-name } (в { -brand-short-name })
@@ -460,7 +464,6 @@ choose-bookmark =
 
 home-prefs-content-header = Домашняя страница Firefox
 home-prefs-content-description = Выберите, какое содержимое вы хотите видеть на домашней странице Firefox.
-home-prefs-content-discovery-description = Обнаружение содержимого на домашней странице Firefox позволит вам находить высококачественные релевантные статьи со всего Интернета.
 home-prefs-search-header =
     .label = Поиск в Интернете
 home-prefs-topsites-header =
@@ -510,6 +513,8 @@ search-bar-shown =
 search-engine-default-header = Поисковая система по умолчанию
 search-engine-default-desc = Выберите поисковую систему по умолчанию для использования в панели адреса и панели поиска.
 search-engine-default-private-desc = Выберите поисковую систему по умолчанию для использования в приватных окнах.
+search-engine-default-desc-2 = Это ваша поисковая система по умолчанию в адресной строке и панели поиска. Вы можете сменить её в любое время.
+search-engine-default-private-desc-2 = Выберите другую поисковую систему по умолчанию для использования только в Приватных окнах
 search-separate-default-engine =
     .label = Использовать в Приватных окнах эту поисковую систему
     .accesskey = п
@@ -528,6 +533,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Отображать поисковые предложения перед историей веб-сёрфинга при использовании панели адреса
+search-show-suggestions-private-windows =
+    .label = Отображать поисковые предложения в Приватных окнах
 suggestions-addressbar-settings = Изменить настройки предложений из журнала посещений, закладок и вкладок
 search-suggestions-cant-show = При использовании панели адреса поисковые предложения отображаться не будут, так как вы настроили { -brand-short-name } никогда не запоминать историю.
 search-one-click-header = Поиск одним щелчком
@@ -644,6 +651,9 @@ sync-currently-syncing-prefs =
         [windows] Настройки
        *[other] Настройки
     }
+sync-change-options =
+    .label = Изменить…
+    .accesskey = м
 
 ## The "Choose what to sync" dialog.
 
