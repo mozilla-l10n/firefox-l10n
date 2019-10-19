@@ -501,8 +501,9 @@ search-bar-shown =
     .label = Aggiungi la barra di ricerca alla barra degli strumenti
 search-engine-default-header = Motore di ricerca predefinito
 search-engine-default-desc = Seleziona il motore di ricerca predefinito da utilizzare nella barra degli indirizzi e nella barra di ricerca.
-
 search-engine-default-private-desc = Seleziona il motore di ricerca predefinito da utilizzare nelle finestre anonime.
+search-engine-default-desc-2 = Questo è il motore di ricerca predefinito per la barra degli indirizzi e la barra di ricerca. È possibile cambiarlo in qualunque momento.
+search-engine-default-private-desc-2 = Scegli un altro motore di ricerca da utilizzare solo nelle finestre anonime
 search-separate-default-engine =
     .label = Utilizza questo motore di ricerca nelle finestre anonime
     .accesskey = U
