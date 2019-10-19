@@ -9,6 +9,7 @@ ok = 确定
 http = HTTP
 sockets = 套接字
 dns = DNS
+dnssuffix = DNS 后缀
 websockets = WebSocket
 refresh = 刷新
 auto-refresh = 每3秒自动刷新一次
