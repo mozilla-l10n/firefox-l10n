@@ -45,9 +45,6 @@ newtab-topsites-save-button = Сохранить
 newtab-topsites-preview-button = Предпросмотр
 newtab-topsites-add-button = Добавить
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Вы действительно хотите удалить все записи об этой странице из вашей истории?
@@ -83,14 +80,25 @@ newtab-menu-delete-history = Удалить из истории
 newtab-menu-save-to-pocket = Сохранить в { -pocket-brand-name }
 newtab-menu-delete-pocket = Удалить из { -pocket-brand-name }
 newtab-menu-archive-pocket = Архивировать в { -pocket-brand-name }
+newtab-menu-show-privacy-info = Наши спонсоры и ваша приватность
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Готово
+newtab-privacy-modal-header = Ваша приватность имеет значение.
+newtab-privacy-modal-paragraph =
+    Помимо сохранения увлекательных статей, мы также показываем вам
+    проверенный контент от избранных спонсоров. Будьте уверены, ваши данные
+    веб-сёрфинга никогда не покинут вашу личную копию { -brand-product-name } — мы не имеем
+    к ним доступа, и наши спонсоры тоже не имеют.
+newtab-privacy-modal-link = Посмотрите, как работает приватность, в новой вкладке
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Удалить закладку
 # Bookmark is a verb here.
 newtab-menu-bookmark = Добавить в закладки
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -120,10 +128,6 @@ newtab-label-removed-bookmark = Закладка удалена
 newtab-label-recommended = Популярные
 newtab-label-saved = Сохранено в { -pocket-brand-name }
 newtab-label-download = Загружено
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
