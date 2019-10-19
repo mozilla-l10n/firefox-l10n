@@ -464,7 +464,6 @@ choose-bookmark =
 
 home-prefs-content-header = Strona startowa Firefoksa
 home-prefs-content-description = Wybierz, co wyświetlać na stronie startowej Firefoksa.
-home-prefs-content-discovery-description = Funkcja odkrywania treści na stronie startowej Firefoksa umożliwia odkrywanie spersonalizowanych artykułów o wysokiej jakości z całego Internetu.
 home-prefs-search-header =
     .label = Pasek wyszukiwania
 home-prefs-topsites-header =
@@ -514,6 +513,8 @@ search-bar-shown =
 search-engine-default-header = Domyślna wyszukiwarka
 search-engine-default-desc = Wybierz domyślną wyszukiwarkę paska adresu i paska wyszukiwania.
 search-engine-default-private-desc = Wybierz domyślną wyszukiwarkę w oknach prywatnych.
+search-engine-default-desc-2 = To domyślna wyszukiwarka paska adresu i paska wyszukiwania. Można ją zmienić w każdej chwili.
+search-engine-default-private-desc-2 = Wybierz inną domyślną wyszukiwarkę tylko w oknach prywatnych
 search-separate-default-engine =
     .label = Używaj tej wyszukiwarki w oknach prywatnych
     .accesskey = U
