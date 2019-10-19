@@ -19,3 +19,19 @@ open-location = Įveskite adresą arba paieškos žodžius
 share = Dalintis
 close-window = Užverti langą
 open-sidebar = Parankinės
+# This string describes shortcuts for search.
+search-popover = Spartieji paieškos klavišai
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Kur ieškoti:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = adresyne
+search-history = žurnale
+search-opentabs = atvertose kortelėse
+search-tags = gairėse
+search-titles = pavadinimuose
+
+
+

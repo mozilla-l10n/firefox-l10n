@@ -464,7 +464,6 @@ choose-bookmark =
 
 home-prefs-content-header = „Firefox“ pradžios turinys
 home-prefs-content-description = Pasirinkite, kokį turinį norite matyti „Firefox“ pradžios ekrane
-home-prefs-content-discovery-description = „Firefox“ turinio atradimas pradžios tinklalapyje leidžia atrasti aukštos kokybės ir jums galimai įdomius straipsnius iš interneto.
 home-prefs-search-header =
     .label = Paieška internete
 home-prefs-topsites-header =
@@ -532,6 +531,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Rodyti paieškos žodžių siūlymus virš naršymo žurnalo, matomus adreso juostos rezultatuose
+search-show-suggestions-private-windows =
+    .label = Rodyti paieškos žodžių siūlymus privačiojo naršymo languose.
 suggestions-addressbar-settings = Keiskite naršymo žurnalo, adresyno, ir kortelių siūlymų nuostatas
 search-suggestions-cant-show = Paieškos žodžių siūlymai adreso lauke nebus rodomi, kadangi esate nustatę, jog „{ -brand-short-name }“ niekada nevestų žurnalo.
 search-one-click-header = Ieškyklės vienu spustelėjimu
