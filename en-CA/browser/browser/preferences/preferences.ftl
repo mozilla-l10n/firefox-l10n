@@ -461,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox Home Content
 home-prefs-content-description = Choose what content you want on your Firefox Home screen.
-home-prefs-content-discovery-description = Content Discovery in Firefox Home allows you to discover high-quality, relevant articles from across the web.
 home-prefs-search-header =
     .label = Web Search
 home-prefs-topsites-header =
@@ -510,6 +509,8 @@ search-bar-shown =
 search-engine-default-header = Default Search Engine
 search-engine-default-desc = Choose the default search engine to use in the address bar and search bar.
 search-engine-default-private-desc = Choose the default search engine to use in Private Windows.
+search-engine-default-desc-2 = This is your default search engine in the address bar and search bar. You can switch it at any time.
+search-engine-default-private-desc-2 = Choose a different default search engine for Private Windows only
 search-separate-default-engine =
     .label = Use this search engine in Private Windows
     .accesskey = U
