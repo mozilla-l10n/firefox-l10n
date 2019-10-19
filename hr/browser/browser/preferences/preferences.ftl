@@ -464,7 +464,6 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox početni sadržaj
 home-prefs-content-description = Odaberite koji sadržaj želite na vašoj Firefox početnoj stranici.
-home-prefs-content-discovery-description = Otkrivanje sadržaja u Firefox početnoj stranici pomaže vam u otkrivanju visoko kvalitenih, relevantnih članaka diljem interneta.
 home-prefs-search-header =
     .label = Web pretraživanje
 home-prefs-topsites-header =
@@ -532,6 +531,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Prikažite prijedloge za pretraživanje ispred povijesti pregledavanja u rezultatima adresne trake
+search-show-suggestions-private-windows =
+    .label = Prikaži prijedloge za pretraživanje u Privatnom pretraživanju
 suggestions-addressbar-settings = Promijeni postavke za povijest pregledavanja, zabilješke i prijedloge za kartice
 search-suggestions-cant-show = Sugestije pretraživanja neće biti prikazane u lokacijskoj traci jer ste podesili { -brand-short-name } da ne pamti povijest.
 search-one-click-header = Pretraživači na jedan klik
