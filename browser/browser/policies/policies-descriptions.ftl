@@ -79,7 +79,7 @@ policy-PromptForDownloadLocation = הצגת שאלה היכן לשמור קבצ�
 policy-Proxy = קביעת תצורה של הגדרות שרת מתווך.
 policy-RequestedLocales = הגדרת רשימת השפות המבוקשות עבור היישום לפי סדר העדפה.
 policy-SanitizeOnShutdown2 = ניקוי נתוני ניווט עם הכיבוי.
-policy-SearchBar = הגדרת מיקום ברירת המחדל של סרגל החיפוש. המשתמש עדיין מורשה להתאים זאת אישית.
+policy-SearchBar = הגדרת מיקום ברירת המחדל של שורת החיפוש. המשתמש עדיין מורשה להתאים זאת אישית.
 policy-SearchEngines = הגדרת תצורת מנועי החיפוש. מדיניות זו זמינה רק בגרסה עם תמיכה מורחבת (ESR).
 policy-SearchSuggestEnabled = הפעלה או השבתה של הצעות חיפוש.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
