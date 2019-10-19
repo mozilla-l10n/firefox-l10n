@@ -33,6 +33,7 @@ printpreview-of =
     .value = da
 printpreview-custom-prompt =
     .value = Scalaziun definida da l'utilisader...
+printpreview-custom-scale-prompt-title = Scala persunalisada
 printpreview-page-setup =
     .label = Organisar la pagina...
     .accesskey = O
