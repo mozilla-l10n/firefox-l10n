@@ -36,7 +36,7 @@ urlbar-indexed-db-notification-anchor =
 urlbar-password-notification-anchor =
     .tooltiptext = Öppna meddelandepanel för sparade lösenord
 urlbar-translated-notification-anchor =
-    .tooltiptext = Hantera sidaöversättning
+    .tooltiptext = Hantera sidöversättning
 urlbar-plugins-notification-anchor =
     .tooltiptext = Hantera plugins som används
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Lagra data i beständig lagring
 urlbar-addons-notification-anchor =
     .tooltiptext = Öppna meddelandepanel för tilläggsinstallation
+urlbar-tip-help-icon =
+    .title = Få hjälp
 
 ## Page Action Context Menu
 

@@ -461,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Innehåll Firefox-startskärm
 home-prefs-content-description = Välj vilket innehåll du vill ha på din startskärm i Firefox.
-home-prefs-content-discovery-description = Content Discovery på Firefox startsida låter dig upptäcka högkvalitativa, relevanta artiklar från hela webben.
 home-prefs-search-header =
     .label = Webbsök
 home-prefs-topsites-header =
@@ -510,6 +509,8 @@ search-bar-shown =
 search-engine-default-header = Standard sökmotor
 search-engine-default-desc = Välj standardsökmotor som ska användas i adressfältet och sökfältet.
 search-engine-default-private-desc = Välj standardsökmotor som ska användas i privata fönster.
+search-engine-default-desc-2 = Detta är din standardsökmotor i adressfältet och sökfältet. Du kan byta när som helst.
+search-engine-default-private-desc-2 = Välj en annan standardsökmotor endast för privata fönster
 search-separate-default-engine =
     .label = Använd den här sökmotorn i privata fönster
     .accesskey = A
