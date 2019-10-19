@@ -32,10 +32,17 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Geçerli bir e-posta gerekiyor
 onboarding-join-form-legal = Devam ederseniz <a data-l10n-name="terms">Hizmet Koşulları</a>’nı ve <a data-l10n-name="privacy">Gizlilik Bildirimi</a>’ni kabul etmiş olursunuz.
 onboarding-join-form-continue = Devam et
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Zaten hesabınız var mı?
 onboarding-start-browsing-button-label = Gezinmeye başla
 onboarding-cards-dismiss =
     .title = Kapat
     .aria-label = Kapat
+
+## Welcome full page string
+
+onboarding-fullpage-form-email =
+    .placeholder = E-posta adresiniz…
 
 ## Firefox Sync modal dialog strings.
 
