@@ -8,6 +8,8 @@
 
 <!ENTITY learnMore "Więcej informacji…">
 
+<!ENTITY learnMoreNoEllipsis "Więcej informacji">
+
 <!ENTITY defaultButton.label "OK">
 <!ENTITY defaultButton.accesskey "O">
 

@@ -168,7 +168,7 @@ cfr-doorhanger-cryptominers-description = Twoja prywatność jest ważna. { -bra
 #   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
-        [one] { -brand-short-name } od { $date } zablokował ponad <b>{ $blockedCount }</b> element śledzący!
+        [one] { -brand-short-name } od { $date } zablokował <b>{ $blockedCount }</b> element śledzący!
         [few] { -brand-short-name } od { $date } zablokował ponad <b>{ $blockedCount }</b> elementy śledzące!
        *[many] { -brand-short-name } od { $date } zablokował ponad <b>{ $blockedCount }</b> elementów śledzących!
     }
