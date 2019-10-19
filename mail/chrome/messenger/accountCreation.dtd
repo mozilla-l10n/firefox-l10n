@@ -44,10 +44,14 @@
 <!ENTITY hostname.label                  "Սպասարկիչի հոսթի անունը">
 <!ENTITY port.label                      "Պորտը">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Սպասարկիչ․">
+<!ENTITY portRow.label                   "Մուտք․">
+<!ENTITY sslRow.label                    "SSL․">
 <!ENTITY auth.label                      "Իսկորոշում">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
 <!-- LOCALIZATION NOTE(exchange.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange.label                  "Փոխանակել">
 <!ENTITY smtp.label                      "SMTP">
 <!ENTITY autodetect.label                "Ինքնորոշում">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
@@ -57,6 +61,7 @@
 <!ENTITY sslTls.label                    "SSL/TLS">
 
 <!-- LOCALIZATION NOTE(exchange-hostname.label): Do not translate Exchange, it is a product name. -->
+<!ENTITY exchange-hostname.label         "Փոխանակման սպասակիչ․">
 
 <!ENTITY advancedSetup.label             "Ընդլայնված կարգ.">
 <!ENTITY advancedSetup.accesskey         "A">
@@ -74,10 +79,14 @@
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Ձեռադիր կարգ.">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY manual-config.label             "Ձեռքով կազմաձևել…">
+<!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Ստանալ էլ. փոստի նոր հասցե…">
 <!ENTITY open-provisioner.accesskey      "g">
 
 
+<!ENTITY get-help.label                  "Ստանալ օգնություն">
+<!ENTITY get-help.accesskey              "H">
 
 
 <!ENTITY warning.label                   "Զգուշացում:">
