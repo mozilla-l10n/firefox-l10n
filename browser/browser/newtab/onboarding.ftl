@@ -33,10 +33,20 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Reikalingas teisingas el. paštas
 onboarding-join-form-legal = Tęsdami, išreiškiate sutikimą su <a data-l10n-name="terms">Paslaugos teikimo nuostatais</a> ir <a data-l10n-name="privacy">Privatumo pranešimu</a>.
 onboarding-join-form-continue = Tęsti
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Jau turite paskyrą?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Prisijungti
 onboarding-start-browsing-button-label = Pradėti naršymą
 onboarding-cards-dismiss =
     .title = Paslėpti
     .aria-label = Paslėpti
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Susipažinkite su viskuo, ką galite atlikti.
+onboarding-fullpage-form-email =
+    .placeholder = Jūsų el. pašto adresas…
 
 ## Firefox Sync modal dialog strings.
 
@@ -103,6 +113,7 @@ onboarding-data-sync-text2 = Sinchronizuokite adresyną, slaptažodžius ir daug
 onboarding-data-sync-button2 = Prisijungti prie „{ -sync-brand-short-name }“
 onboarding-firefox-monitor-title = Būkite įspėti apie duomenų pažeidimus
 onboarding-firefox-monitor-text = „{ -monitor-brand-name }“ stebi, ar jūsų el. paštas pasirodo tarp nutekėjusių duomenų ir apie tai jums praneša.
+onboarding-firefox-monitor-text2 = „{ -monitor-brand-name }“ stebi, ar jūsų el. paštas pasirodo tarp žinomų nutekėjusių duomenų ir apie tai jums praneša.
 onboarding-firefox-monitor-button = Gauti pranešimus
 onboarding-browse-privately-title = Naršykite privačiai
 onboarding-browse-privately-text = Privatuiss naršymas išvalo jūsų paieškos ir naršymo žurnalą, kad jis nebūti matomas kitiems, besinaudojantiems šiuo kompiuteriu.
