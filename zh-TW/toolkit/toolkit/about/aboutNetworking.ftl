@@ -9,6 +9,7 @@ ok = 確定
 http = HTTP
 sockets = Sockets
 dns = DNS
+dnssuffix = DNS 後綴
 websockets = WebSockets
 refresh = 更新
 auto-refresh = 每三秒自動重新整理

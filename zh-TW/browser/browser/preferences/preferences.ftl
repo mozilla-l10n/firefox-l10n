@@ -449,7 +449,6 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox 首頁內容
 home-prefs-content-description = 選擇要在您的 Firefox 首頁顯示哪些內容。
-home-prefs-content-discovery-description = Firefox Home 的內容探索功能可隨您上網，為您尋找高品質而與您有關的文章。
 home-prefs-search-header =
     .label = 網頁搜尋
 home-prefs-topsites-header =
@@ -494,6 +493,8 @@ search-bar-shown =
 search-engine-default-header = 預設搜尋引擎
 search-engine-default-desc = 請選擇在網址列或搜尋列進行搜尋時，預設要使用的搜尋引擎。
 search-engine-default-private-desc = 選擇於隱私瀏覽視窗使用的預設搜尋引擎。
+search-engine-default-desc-2 = 這是您在網址列與搜尋列進行搜尋時，預設會使用的搜尋引擎。可以隨時切換。
+search-engine-default-private-desc-2 = 針對隱私瀏覽視窗選擇不同的預設搜尋引擎
 search-separate-default-engine =
     .label = 於隱私瀏覽視窗使用此搜尋引擎
     .accesskey = U
