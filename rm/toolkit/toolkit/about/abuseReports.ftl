@@ -68,3 +68,20 @@ abuse-report-deceptive-reason = Pretenda dad esser insatge auter
 abuse-report-deceptive-example = Exempel: Descripziun u grafica engianaivla
 abuse-report-broken-reason-extension = Na funcziuna betg, chaschuna problems cun websites u ralentescha { -brand-product-name }
 abuse-report-broken-reason-theme = Na funcziuna betg u chaschuna problems cun l'interfatscha dal navigatur
+abuse-report-broken-example = Exempel: las funcziuns èn plaunas, difficilas dad utilisar u na funcziunan betg; parts da websites na chargian betg u vegnan visualisadas a moda curiusa
+abuse-report-broken-suggestions-extension =
+    Probablamain has ti chattà in sbagl dal program. Ultra da trametter qua in rapport, vegni recumandà 
+    da contactar il sviluppader da l'extensiun per ch'il problem possia vegnir schlià.
+    <a data-l10n-name="support-link">Visita la website da l'extensiun</a> per chattar infurmaziuns davart il sviluppader.
+abuse-report-broken-suggestions-theme =
+    Probablamain has ti chattà in sbagl dal program. Ultra da trametter qua in rapport, vegni recumandà 
+    da contactar il sviluppader dal design per ch'il problem possia vegnir schlià.
+    <a data-l10n-name="support-link">Visita la website dal design</a> per chattar infurmaziuns davart il sviluppader.
+abuse-report-policy-reason = Cuntegn cun odi, violenza e cuntegns illegals
+abuse-report-policy-suggestions =
+    Remartga: Problems cun il dretg d'autur e violaziuns dal dretg da marcas ston vegnir annunziads en in process separà.
+    <a data-l10n-name="report-infringement-link">Fa diever da questas instrucziuns</a> per
+    annunziar il problem.
+abuse-report-unwanted-reason = Jau n'hai mai vulì questa extensiun e na poss betg l'allontanar
+abuse-report-unwanted-example = Exempel: Ina applicaziun ha l'installà senza mes consentiment
+abuse-report-other-reason = Insatge auter
