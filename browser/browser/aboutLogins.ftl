@@ -71,6 +71,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = Ищите сохранённые логины? Настройте { -sync-brand-short-name(case: "accusative") }.
+about-logins-login-intro-heading-logged-in = Синхронизированных логинов не найдено.
 login-intro-description = Если вы сохранили ваши логины в { -brand-product-name } на другом устройстве, то вот как получить к ним доступ здесь:
 login-intro-instruction-fxa = Создайте или войдите в ваш { -fxaccount-brand-name } на устройстве, где сохранены ваши логины
 login-intro-instruction-fxa-settings = Убедитесь, что вы установили флажок «Логины» в настройках { -sync-brand-short-name(case: "genitive") }

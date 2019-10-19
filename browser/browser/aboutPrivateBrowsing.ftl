@@ -26,3 +26,15 @@ about-private-browsing-not-private = Сейчас вы не находитесь
 content-blocking-title = Блокировка содержимого
 content-blocking-description = Некоторые веб-сайты используют трекеры, которые могут следить за вашими действиями в Интернете. В приватных окнах, Блокировка содержимого { -brand-short-name } автоматически блокирует множество трекеров, которые могут собирать информацию о вашем поведении в Интернете.
 about-private-browsing-info-description = { -brand-short-name } удаляет историю поиска и просмотра страниц, когда вы выходите из приложения или закрываете все приватные вкладки и окна. Хотя это не делает вас анонимными для веб-сайтов или вашего Интернет-провайдера, вам будет легче сохранить конфиденциальность ваших действий в Интернете от других людей, которые используют этот компьютер.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } — ваша поисковая система по умолчанию в Приватных окнах
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Чтобы выбрать другую поисковую систему перейдите в <a data-l10n-name="link-options">Настройки</a>
+       *[other] Чтобы выбрать другую поисковую систему перейдите в <a data-l10n-name="link-options">Настройки</a>
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Закрыть

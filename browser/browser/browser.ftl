@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Хранить данные в постоянном хранилище
 urlbar-addons-notification-anchor =
     .tooltiptext = Открыть панель сообщения об установке дополнения
+urlbar-tip-help-icon =
+    .title = Получить помощь
 
 ## Page Action Context Menu
 
@@ -83,3 +85,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Установить как поисковую систему по умолчанию
     .accesskey = о
+search-one-offs-context-set-as-default-private =
+    .label = Использовать данную поисковую систему по умолчанию в Приватных окнах
+    .accesskey = З
