@@ -37,7 +37,7 @@ graph-today = Bugün
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Bu hafta engellenen her takipçi türünün toplam sayısını gösteren bir grafik.
 social-tab-title = Sosyal medya takipçileri
-social-tab-contant = Sosya ağlar, internette yaptıklarınızı, gördüklerinizi ve izlediklerinizi takip etmek için diğer web sitelerine takipçiler yerleştirirler. Bu sayede sosyal medya şirketleri, sosyal medya profillerinizde paylaştıklarınızdan çok daha fazla şey öğrenebilir. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
+social-tab-contant = Sosyal ağlar, internette yaptıklarınızı, gördüklerinizi ve izlediklerinizi takip etmek için diğer web sitelerine takipçiler yerleştirirler. Bu sayede sosyal medya şirketleri, sosyal medya profillerinizde paylaştıklarınızdan çok daha fazla şey öğrenebilir. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
 cookie-tab-title = Siteler arası takip çerezleri
 cookie-tab-content = Bu çerezler gezdiğiniz siteleri takip ederek internette yaptıklarınız hakkında veri toplar. Bu çerezleri reklamcılar ve analitik şirketleri gibi üçüncü taraflar kullanır. Siteler arası takip çerezlerinin engellenmesi, sizi takip eden reklamların sayısını azaltır. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
 tracker-tab-title = Takip amaçlı içerikler
