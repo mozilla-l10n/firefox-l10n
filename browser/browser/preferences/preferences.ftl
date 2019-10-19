@@ -457,7 +457,6 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox 主页内容
 home-prefs-content-description = 选择要在您的 Firefox 主页上显示的版块。
-home-prefs-content-discovery-description = Firefox 主页中的“内容发现”可助您发现网络上的高品质、有价值的文章。
 home-prefs-search-header =
     .label = 网络搜索
 home-prefs-topsites-header =
@@ -502,6 +501,8 @@ search-bar-shown =
 search-engine-default-header = 默认搜索引擎
 search-engine-default-desc = 选择在地址栏和搜索栏中搜索时默认使用的搜索引擎。
 search-engine-default-private-desc = 选择在隐私窗口中默认使用的搜索引擎。
+search-engine-default-desc-2 = 这是地址栏和搜索栏中的默认搜索引擎，您可以随时切换。
+search-engine-default-private-desc-2 = 为隐私窗口选择不同的默认搜索引擎
 search-separate-default-engine =
     .label = 在隐私窗口中使用此搜索引擎
     .accesskey = U

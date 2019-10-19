@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = 在持久存储中存储数据
 urlbar-addons-notification-anchor =
     .tooltiptext = 打开附加组件安装消息面板
+urlbar-tip-help-icon =
+    .title = 获取帮助
 
 ## Page Action Context Menu
 
