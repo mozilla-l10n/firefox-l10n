@@ -80,6 +80,9 @@ cfr-protections-panel-link-text = Saznaj više
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Nova mogućnost:
 cfr-whatsnew-button =
     .label = Što je novo
     .tooltiptext = Što je novo
@@ -153,3 +156,17 @@ cfr-doorhanger-fingerprinters-heading = { -brand-short-name } je blokirao jedins
 cfr-doorhanger-fingerprinters-description = Vaša privatnost je bitna. { -brand-short-name } sada blokira jedinstvene otiske, koji skupljaju dijelove informacija koji su jedinstveni za vas i vaše uređaje kako bi vas mogli pratiti.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } je blokirao kripto rudare na ovoj stranici
 cfr-doorhanger-cryptominers-description = Vaša privatnost je bitna. { -brand-short-name } sada blokira kripto rudare, koji koriste resurse vašeg sustava kako bi rudarili digitalni novac.
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] { -brand-short-name } je blokirao <b>{ $blockedCount }</b> pratitelja od { $date }!
+        [few] { -brand-short-name } je blokirao <b>{ $blockedCount }</b> pratitelja od { $date }!
+       *[other] { -brand-short-name } je blokirao <b>{ $blockedCount }</b> pratitelja od { $date }!
+    }
+cfr-doorhanger-milestone-ok-button = Vidi sve
+    .accesskey = s
