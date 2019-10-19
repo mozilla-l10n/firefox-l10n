@@ -39,7 +39,7 @@
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Показывает различные операции, которые выполняются браузером во время записи, расположенные последовательно в виде водопада.">
 <!ENTITY performanceUI.toolbar.js-calltree "Дерево вызовов">
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Выводит JavaScript функции, на которые браузер потратил больше всего времени при записи.">
-<!ENTITY performanceUI.toolbar.memory-calltree "Размещения">
+<!ENTITY performanceUI.toolbar.memory-calltree "Выделения">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Показывает, как была распределена память во время записи.">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Показывает стек вызовов JavaScript во время записи.">
 
@@ -57,10 +57,10 @@
 <!ENTITY performanceUI.table.samples.tooltip          "Число нахождений этой функции в стеке, когда профайлер сделал замер.">
 <!ENTITY performanceUI.table.function                 "Функция">
 <!ENTITY performanceUI.table.function.tooltip         "Имя и расположение источника замерянной функции.">
-<!ENTITY performanceUI.table.totalAlloc               "Обшее число замерянных размещений">
-<!ENTITY performanceUI.table.totalAlloc.tooltip       "Общее число размещений Объекта, замерянных в этом месте и в вызовах.">
-<!ENTITY performanceUI.table.selfAlloc                "Замерянные у себя размещения">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Число размещений Объекта, замерянных в этом месте.">
+<!ENTITY performanceUI.table.totalAlloc               "Общее число записанных выделений">
+<!ENTITY performanceUI.table.totalAlloc.tooltip       "Общее число выделений памяти объектам, записанных в этом месте и при вызовах.">
+<!ENTITY performanceUI.table.selfAlloc                "Записанные у себя выделения">
+<!ENTITY performanceUI.table.selfAlloc.tooltip        "Число выделений памяти объектам, записанных в этом месте.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
@@ -107,8 +107,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
-<!ENTITY performanceUI.enableAllocations             "Запись размещений">
-<!ENTITY performanceUI.enableAllocations.tooltiptext "Запись размещений Object при профилировании.">
+<!ENTITY performanceUI.enableAllocations             "Запись выделений">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "Запись выделения памяти объектам при профилировании.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate

@@ -71,6 +71,9 @@ serviceworker-empty-suggestions-debugger = Пройдите по шагам пр
 serviceworker-empty-suggestions-aboutdebugging = Исследуйте Service Workers с других доменов. <a>Открыть about:debugging</a>
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Манифест приложения
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Вам необходимо добавить манифест веб-приложения, чтобы исследовать его здесь. <a>Подробнее</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Ошибки и предупреждения
 # Header for the Presentation section of Manifest inspection displayed in the application panel.
@@ -85,6 +88,23 @@ manifest-loaded-ok = Манифест загружен.
 manifest-loaded-error = При загрузка манифеста произошла ошибка:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Не найден манифест для отладки.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Манифест встроен в Data URL.
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = Назначение: <code>{ $purpose }</code>
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Значок
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = Значок с размером: { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Неуказанный размер значка
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Манифест
     .alt = Значок манифеста
