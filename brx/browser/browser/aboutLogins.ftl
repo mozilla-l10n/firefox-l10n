@@ -66,6 +66,7 @@ about-logins-list-item-breach-icon =
 
 ## Introduction screen
 
+login-intro-heading = नोंनि थिनानै दोन्ना लक इनफोरखौ नायगासिनो? थिनानै दोन { -sync-brand-short-name }.
 about-logins-intro-instruction-help = मदद होगा्  <a data-l10n-name="help-link">{ -lockwise-brand-short-name } जायगायाव थां रैखा </a> मोन्नो
 
 ## Login
@@ -97,6 +98,7 @@ login-item-time-used = जोबथा बाहायनाय: { DATETIME($tim
 
 ## Master Password notification
 
+master-password-notification-message = नोंनि थिनानै दोन्नाय logins आरो passwords फोरखौ नायनो थाखाय, नोंनि गाहाय password खौ सोना हो
 master-password-reload-button =
     .label = ल'ग इन
     .accesskey = L
@@ -115,6 +117,7 @@ confirm-discard-changes-dialog-confirm-button = नागार
 
 ## Breach Alert notification
 
+breach-alert-text = नाोंनि लक इन दिथेनगजों लास्थ आवदेथ खालामनायाव बे साइथनिफा्य फासवादखौ खावबाय. नोंनि एखावनखौ रैखा खालामनो थाखाय फासवादखौ सोलाइ
 breach-alert-link = बे वेवसाइरथ गाजि्जानायफोरनि सोमोनदै गोबां सोलों
 breach-alert-dismiss =
     .title = बे सांग्रांथिखौ बन्द खालाम
