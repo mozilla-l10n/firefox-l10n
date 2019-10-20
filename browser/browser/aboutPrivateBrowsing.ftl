@@ -25,4 +25,4 @@ about-private-browsing =
 about-private-browsing-not-private = Vi ne estas nun en privata fenestro.
 content-blocking-title = Blokado de enhavo
 content-blocking-description = Kelkaj retejoj uzas spurilojn kiuj povas sekvi vin tra la reto. En privataj fenestroj, la blokado de enhavo de { -brand-short-name } aŭtomate blokos plurajn spurilojn, kiuj povus kolekti informojn pri via retumo.
-about-private-browsing-info-description = { -brand-short-name } forviŝos vian serĉan kaj retuman historion kiam vi finas la programon aŭ fermas ĉiujn langetojn kaj fenestrojn en privata retumo. Kvankam tio ŝi ne igas vin anonima por retejoj aŭ via reta provizanto, tio faciligas la taskon kaŝi vian retumon de aliaj uzantoj en la sama komputilo.
+about-private-browsing-info-description = { -brand-short-name } forviŝos vian serĉan kaj retuman historion kiam vi finas la programon aŭ fermas ĉiujn langetojn kaj fenestrojn en privata retumo. Kvankam tio ĉi ne igas vin anonima por retejoj aŭ via reta provizanto, ĝi faciligas la taskon kaŝi vian retumon de aliaj uzantoj en la sama komputilo.

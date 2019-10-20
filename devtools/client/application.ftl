@@ -69,5 +69,20 @@ serviceworker-empty-suggestions-debugger = tralegi la registradon de via «Servi
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = inspekti «Service Workers» de aliaj nomregnoj. <a>Malfermi about:debugging</a>
-# Text displayed when no manifest was found for the current page.
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
 manifest-empty-intro = Neniu manifesto por inspekti estis trovita.
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Eraroj kaj avertoj
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Prezento
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Emblemo
+# Text displayed while we are loading the manifest file
+manifest-loading = Manifesto ŝargata…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Manifesto ŝargita.
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = Okazis eraro dum ŝargado de manifesto:
+# Text displayed when the page has no manifest available
+manifest-non-existing = Neniu manifesto trovita por inspekti.
