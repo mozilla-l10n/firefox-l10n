@@ -945,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Contenido de rastreo">
 <!ENTITY protections.fingerprinters.label "Creadores de huellas (Fingerprinters)">
 <!ENTITY protections.cryptominers.label "Criptomineros">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Todos los rastreadores en este sitio se han cargado porque las protecciones están desactivadas.">
 <!ENTITY protections.noTrackersFound.description "No se detectaron rastreadores conocidos por &brandShortName; en esta página.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Estas cookies le siguen de página en página para recopilar información sobre su vida en línea. Suelen ser las agencias de publicidad y de analítica las que las configuran.">
