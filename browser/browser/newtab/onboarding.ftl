@@ -21,6 +21,7 @@ onboarding-button-label-get-started = Aloita
 onboarding-welcome-header = Tervetuloa, { -brand-short-name } tässä
 onboarding-welcome-body = Sait selaimen.<br/>Tapaa muut { -brand-product-name }-palvelut.
 onboarding-welcome-learn-more = Lue lisää hyödyistä.
+onboarding-welcome-modal-family-learn-more = Tutustu { -brand-product-name }-tuoteperheeseen.
 onboarding-welcome-form-header = Aloita tästä
 onboarding-join-form-header = Liity { -brand-product-name }iin
 onboarding-join-form-body = Aloita kirjoittamalla sähköpostiosoitteesi.
@@ -29,6 +30,10 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Kelvollinen sähköposti vaaditaan
 onboarding-join-form-legal = Jatkamalla hyväksyt <a data-l10n-name="terms">käyttöehdot</a> ja <a data-l10n-name="privacy">tietosuojaselosteen</a>.
 onboarding-join-form-continue = Jatka
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Onko sinulla jo tili?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Kirjaudu sisään
 onboarding-start-browsing-button-label = Aloita selaaminen
 onboarding-cards-dismiss =
     .title = Hylkää
@@ -36,6 +41,8 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-form-email =
+    .placeholder = Sähköpostiosoitteesi…
 
 ## Firefox Sync modal dialog strings.
 

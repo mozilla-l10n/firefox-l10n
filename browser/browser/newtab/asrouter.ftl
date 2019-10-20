@@ -78,6 +78,9 @@ cfr-protections-panel-link-text = Lue lisää
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Uusi ominaisuus:
 cfr-whatsnew-button =
     .label = Mitä uutta
     .tooltiptext = Mitä uutta
@@ -148,3 +151,6 @@ cfr-doorhanger-socialtracking-close-button = Sulje
     .accesskey = S
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } esti yksilöijän tällä sivulla
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } esti kryptolouhijan tällä sivulla
+
+## Enhanced Tracking Protection Milestones
+
