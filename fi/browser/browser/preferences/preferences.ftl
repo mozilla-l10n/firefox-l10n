@@ -457,7 +457,6 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox-aloitussivun sisältö
 home-prefs-content-description = Valitse Firefox-aloitussivulle haluamasi sisältö.
-home-prefs-content-discovery-description = Firefox-aloitussivulla olevassa sisällön esittelyosiossa näytetään laadukkaita ja olennaisia artikkeleita ympäri verkkoa.
 home-prefs-search-header =
     .label = Verkkohaku
 home-prefs-topsites-header =
@@ -521,6 +520,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Näytä hakuehdotukset osoitepalkin tuloksissa ennen selaushistoriaa
+search-show-suggestions-private-windows =
+    .label = Näytä hakuehdotukset yksityisissä ikkunoissa
 search-suggestions-cant-show = Hakuehdotuksia ei näytetä osoitepalkista tehtävistä hauista, koska olet valinnut, että { -brand-short-name } ei muista historiaa.
 search-one-click-header = Hakukoneet pikavalikossa
 search-one-click-desc = Valitse vaihtoehtoiset hakukoneet, jotka ilmestyvät osoite- ja hakupalkin alalaitaan, kun alat kirjoittaa hakusanoja.
