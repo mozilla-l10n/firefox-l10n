@@ -449,7 +449,6 @@ choose-bookmark =
 
 home-prefs-content-header = เนื้อหาหน้าแรก Firefox
 home-prefs-content-description = เลือกเนื้อหาที่คุณต้องการในหน้าจอหน้าแรก Firefox ของคุณ
-home-prefs-content-discovery-description = Content Discovery ใน Firefox Home ช่วยให้คุณค้นพบบทความที่มีคุณภาพและมีความเกี่ยวข้องสูงจากทั่วทั้งเว็บ
 home-prefs-search-header =
     .label = การค้นหาเว็บ
 home-prefs-topsites-header =
@@ -494,6 +493,8 @@ search-bar-shown =
 search-engine-default-header = เครื่องมือค้นหาเริ่มต้น
 search-engine-default-desc = เลือกเครื่องมือค้นหาเริ่มต้นที่จะใช้ในแถบที่อยู่และแถบค้นหา
 search-engine-default-private-desc = เลือกเครื่องมือค้นหาเริ่มต้นเพื่อใช้ในหน้าต่างส่วนตัว
+search-engine-default-desc-2 = นี่คือเครื่องมือค้นหาเริ่มต้นของคุณในแถบที่อยู่และแถบค้นหา คุณสามารถเปลี่ยนได้ตลอดเวลา
+search-engine-default-private-desc-2 = เลือกเครื่องมือค้นหาเริ่มต้นอื่นสำหรับเฉพาะหน้าต่างส่วนตัว
 search-separate-default-engine =
     .label = ใช้เครื่องมือค้นหานี้ในหน้าต่างส่วนตัว
     .accesskey = U
@@ -512,6 +513,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = แสดงข้อเสนอแนะการค้นหานำหน้าประวัติการเรียกดูในผลลัพธ์ของแถบที่อยู่
+search-show-suggestions-private-windows =
+    .label = แสดงคำแนะนำการค้นหาในหน้าต่างส่วนตัว
 suggestions-addressbar-settings = เปลี่ยนค่ากำหนดสำหรับประวัติการท่องเว็บ ที่คั่นหน้า และแท็บแนะนำ
 search-suggestions-cant-show = ข้อเสนอแนะการค้นหาจะไม่แสดงในผลลัพธ์ของแถบตำแหน่งที่ตั้งเนื่องจากคุณได้กำหนดค่า { -brand-short-name } ให้ไม่จดจำประวัติเสมอ
 search-one-click-header = เครื่องมือค้นหาในคลิกเดียว
