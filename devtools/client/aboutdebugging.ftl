@@ -140,7 +140,7 @@ about-debugging-network-location-form-invalid = Ogiltigt värdnamn "{ $host-valu
 # Text used as error message if the input value was already registered in the network locations form of the Setup page.
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
-about-debugging-network-location-form-duplicate = Detta värdnamn "{ $host-value }" är redan registrerat
+about-debugging-network-location-form-duplicate = Värdnamnet “{ $host-value }” är redan registrerat
 
 # Runtime Page strings
 
@@ -175,7 +175,7 @@ about-debugging-runtime-profile-button2 = Profilprestanda
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Din webbläsarkonfiguration är inte kompatibel med Service Workers. <a>Läs mer</a>
 # This string is displayed in the runtime page if the remote browser version is too old.
-# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = Den anslutna webbläsaren har en äldre version ({ $runtimeVersion }). Den minsta stödda versionen är ({ $minVersion }). Det här är inställningen stöds inte och kan göra att DevTools misslyckas. Vänligen uppdatera den anslutna webbläsaren. <a>Felsökning</a>
@@ -187,7 +187,7 @@ about-debugging-browser-version-too-old = Den anslutna webbläsaren har en äldr
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Felsökningspanelen kanske inte fungerar med den anslutna webbläsaren. Vänligen använd Firefox { $runtimeVersion } om du behöver använda felsökaren med den här webbläsaren.
 # This string is displayed in the runtime page if the remote browser version is too recent.
-# "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
+# "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
@@ -298,7 +298,7 @@ about-debugging-worker-push-service =
     .label = Push-tjänst
 # Displayed as title of the inspect button when service worker debugging is disabled.
 about-debugging-worker-inspect-action-disabled =
-    .title = Service Worker inspektion är för närvarande inaktiverad för multiprocess { -brand-shorter-name }
+    .title = Inspektion av Service Worker är för närvarande inaktiverad för { -brand-shorter-name } med multiprocess
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = Huvudprocess

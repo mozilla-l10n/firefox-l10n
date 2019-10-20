@@ -45,9 +45,6 @@ newtab-topsites-save-button = Spara
 newtab-topsites-preview-button = Förhandsvisa
 newtab-topsites-add-button = Lägg till
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Är du säker på att du vill radera varje förekomst av den här sidan från din historik?
@@ -78,7 +75,7 @@ newtab-menu-open-new-window = Öppna i nytt fönster
 newtab-menu-open-new-private-window = Öppna i nytt privat fönster
 newtab-menu-dismiss = Ignorera
 newtab-menu-pin = Fäst
-newtab-menu-unpin = Lösgör
+newtab-menu-unpin = Ta bort
 newtab-menu-delete-history = Ta bort från historik
 newtab-menu-save-to-pocket = Spara till { -pocket-brand-name }
 newtab-menu-delete-pocket = Ta bort från { -pocket-brand-name }
@@ -102,10 +99,6 @@ newtab-privacy-modal-link = Lär dig hur sekretess fungerar på den nya fliken
 newtab-menu-remove-bookmark = Ta bort bokmärke
 # Bookmark is a verb here.
 newtab-menu-bookmark = Bokmärke
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -135,10 +128,6 @@ newtab-label-removed-bookmark = Bokmärke har tagits bort
 newtab-label-recommended = Trend
 newtab-label-saved = Spara till { -pocket-brand-name }
 newtab-label-download = Hämtat
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
