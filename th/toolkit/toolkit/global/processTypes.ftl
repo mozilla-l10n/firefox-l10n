@@ -6,12 +6,18 @@ process-type-web = เนื้อหาเว็บ
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = เนื้อหาที่มีสิทธิ
+# process used to run privileged mozilla pages,
+# such as accounts.firefox.com
+process-type-privilegedmozilla = เนื้อหา Mozilla ที่มีสิทธิ
 process-type-extension = ส่วนขยาย
 # process used to open file:// URLs
 process-type-file = ไฟล์ในเครื่อง
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = การจัดสรรขนาดใหญ่
+# process used to isolate a webpage from other web pages
+# to improve security
+process-type-webisolated = เนื้อหาเว็บที่ถูกคัดแยก
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
