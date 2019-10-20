@@ -461,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Conteúdo inicial do Firefox
 home-prefs-content-description = Escolha que conteúdo você quer na tela inicial do Firefox.
-home-prefs-content-discovery-description = A descoberta de conteúdo na página inicial do Firefox permite descobrir artigos relevantes, de alta qualidade, pela web afora.
 home-prefs-search-header =
     .label = Pesquisar na web
 home-prefs-topsites-header =
@@ -510,6 +509,8 @@ search-bar-shown =
 search-engine-default-header = Mecanismo de pesquisa padrão
 search-engine-default-desc = Escolha o mecanismo de pesquisa padrão usado na barra de endereços e na barra de pesquisa.
 search-engine-default-private-desc = Escolha o mecanismo de pesquisa padrão a ser usado em janelas privativas.
+search-engine-default-desc-2 = Este é seu mecanismo de pesquisa padrão na barra de endereços e na barra de pesquisa. Você pode trocar quando quiser.
+search-engine-default-private-desc-2 = Escolha outro mecanismo de pesquisa padrão a ser usado em janelas privativas.
 search-separate-default-engine =
     .label = Usar este mecanismo de pesquisa em janelas privativas
     .accesskey = U
