@@ -76,6 +76,9 @@ cfr-protections-panel-link-text = เรียนรู้เพิ่มเต�
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = คุณสมบัติใหม่:
 cfr-whatsnew-button =
     .label = มีอะไรใหม่
     .tooltiptext = มีอะไรใหม่
@@ -86,6 +89,9 @@ cfr-whatsnew-fx70-body =
     การอัปเดตล่าสุดเพิ่มคุณลักษณะการป้องกันการติดตามและทำให้
     สร้างรหัสผ่านที่ปลอดภัยสำหรับทุกไซต์ได้ง่ายขึ้นกว่าที่เคย
 cfr-whatsnew-tracking-protect-title = ป้องกันตัวคุณเองจากตัวติดตาม
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } บล็อกตัวติดตามสังคมออนไลน์และข้ามไซต์ทั่วไปจำนวนมากที่
+    ติดตามสิ่งที่คุณทำออนไลน์
 cfr-whatsnew-tracking-protect-link-text = ดูรายงานของคุณ
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
@@ -139,3 +145,6 @@ cfr-doorhanger-socialtracking-ok-button = ดูการป้องกัน
 cfr-doorhanger-socialtracking-close-button = ปิด
     .accesskey = ป
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } ได้หยุดเครือข่ายสังคมไม่ให้ติดตามคุณที่นี่
+
+## Enhanced Tracking Protection Milestones
+
