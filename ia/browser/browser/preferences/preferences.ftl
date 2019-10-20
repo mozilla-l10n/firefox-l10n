@@ -461,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Pagina initial de Firefox
 home-prefs-content-description = Elige qual contento tu desira pro tu pagina initial de Firefox.
-home-prefs-content-discovery-description = Content Discovery in Firefox Home te consenti de discoperir articulos pertinente, de alte qualitate, in le Web.
 home-prefs-search-header =
     .label = Recerca del Web
 home-prefs-topsites-header =
@@ -510,6 +509,8 @@ search-bar-shown =
 search-engine-default-header = Motor de recerca predefinite
 search-engine-default-desc = Elige le motor de recerca pro usar como predefinition pro le barra de adresse e le de recerca.
 search-engine-default-private-desc = Elige le motor de recerca predefinite a usar in Fenestras anonyme.
+search-engine-default-desc-2 = Isto es tu motor de recerca predefinite in le barra de adresses e de recerca. Tu pote lo cambiar quando tu vole.
+search-engine-default-private-desc-2 = Selige un motor de recerca differente solo pro fenestras private
 search-separate-default-engine =
     .label = Usar iste motor de recerca in Fenestras anonyme
     .accesskey = U
