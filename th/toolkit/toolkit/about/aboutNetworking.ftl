@@ -9,6 +9,7 @@ ok = ตกลง
 http = HTTP
 sockets = ซ็อกเก็ต
 dns = DNS
+dnssuffix = คำลงท้าย DNS
 websockets = WebSockets
 refresh = เรียกใหม่
 auto-refresh = เรียกใหม่อัตโนมัติทุก 3 วินาที
@@ -44,7 +45,26 @@ dns-domain = โดเมน:
 dns-lookup-table-column = IP
 rcwn = สถิติ RCWN
 rcwn-status = สถานะ RCWN
+rcwn-cache-won-count = จำนวนการใช้แคช
+rcwn-net-won-count = จำนวนการใช้เครือข่าย
 total-network-requests = จำนวนคำขอเครือข่ายรวม
+rcwn-operation = การดำเนินการแคช
 rcwn-perf-open = เปิด
 rcwn-perf-read = อ่าน
 rcwn-perf-write = เขียน
+rcwn-perf-entry-open = เปิดรายการ
+rcwn-avg-short = ค่าเฉลี่ยแบบสั้น
+rcwn-avg-long = ค่าเฉลี่ยแบบยาว
+rcwn-std-dev-long = ค่าเบี่ยงเบนมาตรฐานแบบยาว
+rcwn-cache-slow = จำนวนแคชที่หน่วงเวลา
+rcwn-cache-not-slow = จำนวนแคชที่ไม่ได้หน่วงเวลา
+networkid = ID เครือข่าย
+networkid-id = ID เครือข่าย
+
+## Link is intended as "network link"
+
+networkid-isUp = ลิงก์ถูกเชื่อมต่อแล้ว
+networkid-statusKnown = ทราบสถานะลิงก์แล้ว
+
+
+

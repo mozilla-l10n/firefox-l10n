@@ -15,6 +15,9 @@ column-memory = หน่วยความจำ
 ## Special values for the Name column
 
 ghost-windows = แท็บที่ปิดล่าสุด
+# Variables:
+#   $title (String) - the title of the preloaded page, typically 'New Tab'
+preloaded-tab = โหลดไว้ล่วงหน้า: { $title }
 
 ## Values for the Type column
 
