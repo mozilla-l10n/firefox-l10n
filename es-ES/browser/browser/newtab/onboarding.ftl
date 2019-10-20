@@ -33,10 +33,20 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Una dirección de correo válida es obligatoria
 onboarding-join-form-legal = Si continúas, aceptas los <a data-l10n-name="terms">Términos del servicio</a> y la <a data-l10n-name="privacy">Política de privacidad</a>.
 onboarding-join-form-continue = Continuar
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = ¿Ya tiene una cuenta?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Iniciar sesión
 onboarding-start-browsing-button-label = Empezar a navegar
 onboarding-cards-dismiss =
     .title = Ignorar
     .aria-label = Ignorar
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Comencemos a explorar todo lo que puede hacer.
+onboarding-fullpage-form-email =
+    .placeholder = Su dirección de correo electrónico…
 
 ## Firefox Sync modal dialog strings.
 
@@ -70,6 +80,11 @@ onboarding-benefit-privacy-title = Privacidad de verdad
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Todo lo que hacemos respeta nuestra promesa de datos personales: Tomar menos. Mantenerlo seguro. Sin secretos.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Lleve sus marcadores, contraseñas, historial y más a todos los lugares donde use { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Reciba notificaciones cuando su información personal se encuentre en una filtración de datos conocida.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Gestione sus contraseñas protegidas y portátiles.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -98,6 +113,7 @@ onboarding-data-sync-text2 = Sincronice sus marcadores, contraseñas y mucho má
 onboarding-data-sync-button2 = Iniciar sesión en { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Mantente al día sobre las filtraciones de datos
 onboarding-firefox-monitor-text = { -monitor-brand-name } comprueba si tu dirección de correo ha aparecido en una filtración de datos y te avisa si vuelve a aparecer.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } controla si su dirección de correo apareció en una filtración de datos conocida y le avisa si aparece en una nueva filtración.
 onboarding-firefox-monitor-button = Suscríbase para recibir alertas
 onboarding-browse-privately-title = Navegue de forma privada
 onboarding-browse-privately-text = La navegación privada elimina tu historial de búsquedas y de navegación para que nadie que use tu equipo tenga acceso a ellos.
