@@ -45,9 +45,6 @@ newtab-topsites-save-button = บันทึก
 newtab-topsites-preview-button = แสดงตัวอย่าง
 newtab-topsites-add-button = เพิ่ม
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = คุณแน่ใจหรือไม่ว่าต้องการลบทุกอินสแตนซ์ของหน้านี้ออกจากประวัติของคุณ?
@@ -83,10 +80,13 @@ newtab-menu-delete-history = ลบออกจากประวัติ
 newtab-menu-save-to-pocket = บันทึกไปยัง { -pocket-brand-name }
 newtab-menu-delete-pocket = ลบจาก { -pocket-brand-name }
 newtab-menu-archive-pocket = เก็บถาวรใน { -pocket-brand-name }
+newtab-menu-show-privacy-info = สปอนเซอร์ของเราและความเป็นส่วนตัวของคุณ
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = เสร็จสิ้น
+newtab-privacy-modal-header = ความเป็นส่วนตัวของคุณสำคัญ
+newtab-privacy-modal-link = เรียนรู้วิธีการปกป้องความเป็นส่วนตัวในแท็บใหม่
 
 
 
@@ -94,10 +94,6 @@ newtab-privacy-modal-button-done = เสร็จสิ้น
 newtab-menu-remove-bookmark = เอาที่คั่นหน้าออก
 # Bookmark is a verb here.
 newtab-menu-bookmark = เพิ่มที่คั่นหน้า
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -127,10 +123,6 @@ newtab-label-removed-bookmark = เอาที่คั่นหน้าออ
 newtab-label-recommended = กำลังนิยม
 newtab-label-saved = บันทึกไปยัง { -pocket-brand-name } แล้ว
 newtab-label-download = ดาวน์โหลดแล้ว
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.

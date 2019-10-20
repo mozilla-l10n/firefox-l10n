@@ -21,6 +21,10 @@ onboarding-button-label-get-started = เริ่มต้นใช้งาน
 onboarding-welcome-header = ยินดีต้อนรับสู่ { -brand-short-name }
 onboarding-welcome-body = คุณมีเบราว์เซอร์แล้ว<br/>ชมคุณสมบัติอื่นที่เหลือของ { -brand-product-name }
 onboarding-welcome-learn-more = เรียนรู้เพิ่มเติมเกี่ยวกับประโยชน์
+onboarding-welcome-modal-get-body = คุณมีเบราว์เซอร์แล้ว<br/>มาทำให้ { -brand-product-name } ใช้งานได้อย่างเต็มประสิทธิภาพกัน
+onboarding-welcome-modal-supercharge-body = เพิ่มความคุ้มครองความเป็นส่วนตัวของคุณให้มากขึ้น
+onboarding-welcome-modal-privacy-body = คุณมีเบราว์เซอร์ มาเพิ่มการปกป้องความเป็นส่วนตัวกัน
+onboarding-welcome-modal-family-learn-more = เรียนรู้เกี่ยวกับผลิตภัณฑ์ในตระกูล { -brand-product-name }
 onboarding-welcome-form-header = เริ่มที่นี่
 onboarding-join-form-header = เข้าร่วม { -brand-product-name }
 onboarding-join-form-body = ป้อนที่อยู่อีเมลของคุณเพื่อเริ่มต้นใช้งาน
@@ -33,6 +37,9 @@ onboarding-start-browsing-button-label = เริ่มการเรียก
 onboarding-cards-dismiss =
     .title = ยกเลิก
     .aria-label = ยกเลิก
+
+## Welcome full page string
+
 
 ## Firefox Sync modal dialog strings.
 
