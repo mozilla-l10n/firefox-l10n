@@ -4,4 +4,10 @@
 
 safeb-blocked-malware-page-title = बे वबसाइथआ हाबनायाव नोंनि कमफिउथारखौ गाजि् खालामानो हागौ
 safeb-blocked-unwanted-page-title = बे साइथनि आवगायाव खहा खालामागा् हाबाफारिफोर थानो हागौ
+safeb-blocked-harmful-page-title = बे साइथनि आवगायाव खहा खालामागा्  virus थानो हागौ
+safeb-palm-advisory-desc = बोसोन होजादों  <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = थांफिन
+safeb-palm-see-details-label = गुवारै नाइ
+safeb-palm-notdeceptive =
+    .label = बे जायगाया गाजि् जानाय नंआ
+    .accesskey = ज
