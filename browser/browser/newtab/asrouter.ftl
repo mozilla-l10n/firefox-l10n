@@ -148,3 +148,5 @@ cfr-doorhanger-socialtracking-heading = { -brand-short-name } ได้หยุ
 
 ## Enhanced Tracking Protection Milestones
 
+cfr-doorhanger-milestone-ok-button = ดูทั้งหมด
+    .accesskey = ด

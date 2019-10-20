@@ -5,7 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "เกิดปัญหาในการโหลดหน้า">
+<!ENTITY loadError.label "มีปัญหาในการโหลดหน้า">
 <!ENTITY retry.label "ลองอีกครั้ง">
 <!ENTITY returnToPreviousPage.label "ย้อนกลับ">
 <!ENTITY returnToPreviousPage1.label "ย้อนกลับ (แนะนำ)">
@@ -165,6 +165,8 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "ดูเหมือนว่าการตั้งค่าความปลอดภัยเครือข่ายของคุณอาจเป็นสาเหตุของสิ่งนี้ คุณต้องการเรียกคืนการตั้งค่าเริ่มต้นหรือไม่?">
 <!ENTITY prefReset.label "เรียกคืนการตั้งค่าเริ่มต้น">
 
+<!ENTITY enableTls10.longDesc "เว็บไซต์นี้อาจไม่รองรับโปรโตคอล TLS 1.2 ซึ่งเป็นรุ่นขั้นต่ำที่รองรับโดย &brandShortName; การเปิดใช้งาน TLS 1.0 และ TLS 1.1 อาจทำให้การเชื่อมต่อนี้สำเร็จ">
+<!ENTITY enableTls10.note "TLS 1.0 และ TLS 1.1 จะถูกปิดใช้งานอย่างถาวรในรุ่นอนาคต">
 <!ENTITY enableTls10.label "เปิดใช้งาน TLS 1.0 และ 1.1">
 
 <!ENTITY networkProtocolError.title "ข้อผิดพลาดโปรโตคอลเครือข่าย">

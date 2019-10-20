@@ -19,3 +19,17 @@ open-location = ค้นหาหรือป้อนที่อยู่
 share = แบ่งปัน
 close-window = ปิดหน้าต่าง
 open-sidebar = แถบข้าง
+# This string describes shortcuts for search.
+search-popover = ทางลัดการค้นหา
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = ค้นหาใน:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = ที่คั่นหน้า
+search-history = ประวัติ
+search-titles = ชื่อเรื่อง
+
+
+
