@@ -282,6 +282,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Usar { $plugin-name } (en { -brand-short-name })
@@ -457,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Contenido de la página de inicio de Firefox
 home-prefs-content-description = Seleccione el contenido que desea en la pantalla de inicio de Firefox.
-home-prefs-content-discovery-description = Content Discovery en la página de inicio de Firefox le permite descubrir artículos de alta calidad y relevantes de toda la web.
 home-prefs-search-header =
     .label = Búsqueda web
 home-prefs-topsites-header =
@@ -640,6 +643,9 @@ sync-currently-syncing-prefs =
         [windows] Opciones
        *[other] Preferencias
     }
+sync-change-options =
+    .label = Cambiar…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
