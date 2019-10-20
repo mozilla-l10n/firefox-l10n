@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = จัดเก็บข้อมูลในที่เก็บข้อมูลถาวร
 urlbar-addons-notification-anchor =
     .tooltiptext = เปิดแผงข้อความการติดตั้งส่วนเสริม
+urlbar-tip-help-icon =
+    .title = รับความช่วยเหลือ
 
 ## Page Action Context Menu
 
@@ -83,3 +85,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = ตั้งเป็นเครื่องมือค้นหาเริ่มต้น
     .accesskey = ต
+search-one-offs-context-set-as-default-private =
+    .label = ตั้งเป็นเครื่องมือค้นหาเริ่มต้นสำหรับหน้าต่างส่วนตัว
+    .accesskey = ส
