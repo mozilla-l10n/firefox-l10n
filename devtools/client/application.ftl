@@ -61,9 +61,57 @@ serviceworker-empty-suggestions-debugger = ลงทะเบียนเวิ�
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = ตรวจสอบเวิร์กเกอร์บริการจากโดเมนอื่น <a>เปิด about:debugging</a>
-# Header for the view of Manifest displayed in the application panel for the current page.
+# Header for the Manifest page when we have an actual manifest
 manifest-view-header = ไฟล์กำกับของแอป
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = คุณต้องเพิ่มไฟล์กำกับของแอปพลิเคชันเว็บเพื่อตรวจสอบที่นี่ <a>เรียนรู้เพิ่มเติม</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = ข้อผิดพลาดและคำเตือน
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = ข้อมูลประจำตัว
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = งานนำเสนอ
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = ไอคอน
+# Text displayed while we are loading the manifest file
+manifest-loading = กำลังโหลดไฟล์กำกับ…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = โหลดไฟล์กำกับแล้ว
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = มีข้อผิดพลาดขณะโหลดไฟล์กำกับ:
+# Text displayed when the page has no manifest available
+manifest-non-existing = ไม่พบไฟล์กำกับที่จะตรวจสอบ
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = ไฟล์กำกับถูกฝังอยู่ใน URL ข้อมูล
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = จุดประสงค์: <code>{ $purpose }</code>
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = ไอคอน
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = ไอคอนที่มีขนาด: { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = ไอคอนขนาดที่ไม่ระบุ
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = ไฟล์กำกับ
+    .alt = ไอคอนไฟล์กำกับ
+    .title = ไฟล์กำกับ
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = ตัวทำงานบริการ
+    .alt = ไอคอนตัวทำงานบริการ
+    .title = ตัวทำงานบริการ
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = ไอคอนคำเตือน
+    .title = คำเตือน
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = ไอคอนข้อผิดพลาด
+    .title = ข้อผิดพลาด
