@@ -211,10 +211,10 @@ extensions-updates-update-addons-automatically =
 ## extensions-updates-update-addons-automatically.label menu item).
 
 extensions-updates-reset-updates-to-automatic =
-    .label = Redefinir tote le additivos faciente los actualisar automaticamente
+    .label = Restituer le actualisation automatic pro tote le additivos
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
-    .label = Redefinir tote le additivos faciente los actualisar manualmente
+    .label = Restituer le actualisation manual pro tote le additivos
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -238,8 +238,8 @@ extensions-updates-update-selected =
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
-    .label = Gerer le vias breve del extension
-    .accesskey = V
+    .label = Gerer le accessos directe al extensiones
+    .accesskey = a
 shortcuts-no-addons = Tu non ha ulle extensiones activate
 shortcuts-no-commands = Le sequente extensiones non ha claves accelerator:
 shortcuts-input =
