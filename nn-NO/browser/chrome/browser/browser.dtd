@@ -945,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Sporingsinnhald">
 <!ENTITY protections.fingerprinters.label "Fingerprinters">
 <!ENTITY protections.cryptominers.label "Kryptominarar">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Alle sporfølgjarar på denne nettstaden er lasta fordi sporingsvernet er slått av.">
 <!ENTITY protections.noTrackersFound.description "Ingen sporfølgjarar kjende for &brandShortName; vart oppdaga på denne sida.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Desse infokapslane følgjer deg frå side til side for å samle inn data om kva du gjer på nettet. Dei kjem frå tredjepartar som annonsørar og analyseselskap.">
