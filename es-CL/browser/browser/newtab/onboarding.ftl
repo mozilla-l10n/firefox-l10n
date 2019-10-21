@@ -44,6 +44,9 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Comencemos a explorar todo lo que puedes hacer.
+onboarding-fullpage-form-email =
+    .placeholder = Tu dirección de correo…
 
 ## Firefox Sync modal dialog strings.
 
@@ -110,6 +113,7 @@ onboarding-data-sync-text2 = Sincroniza tus marcadores, contraseñas y más en t
 onboarding-data-sync-button2 = Conéctate a { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Mantente alerta a las filtraciones de datos
 onboarding-firefox-monitor-text = { -monitor-brand-name } monitoriza si tu correo ha aparecido en filtraciones de datos y te alerta si llega a aparecer en una nueva.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } monitoriza si tu correo ha aparecido en filtraciones de datos conocidas y te alerta si llega a aparecer en una nueva.
 onboarding-firefox-monitor-button = Suscríbete para recibir alertas
 onboarding-browse-privately-title = Navega de forma privada
 onboarding-browse-privately-text = La navegación privada limpia tu historial de búsqueda y navegación para mantenerlo secreto de cualquiera que use tu computador.
