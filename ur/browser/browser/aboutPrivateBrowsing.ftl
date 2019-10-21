@@ -23,3 +23,5 @@ about-private-browsing =
 about-private-browsing-not-private = آپ فی الحال نجی دریچے میں نہیں۔
 content-blocking-title = مواد روکنا
 content-blocking-description = کچھ ویب سائٹ ٹریکر کا استعمال کرتے ہے جو انٹرنیٹ پر آپ کے حرکت کی نگرانی کرتے ہے۔ نجی ونڈوز میں، { -brand-short-name } کے مواد روکنے کی خصوصیات خودبخود بہت سے ٹریکر کو روکتا ہے جو آپ کے براؤزنگ کے معلومات جمع کر سکتے ہے۔
+about-private-browsing-search-banner-close-button =
+    .aria-label = بند کریں
