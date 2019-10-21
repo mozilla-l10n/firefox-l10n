@@ -944,6 +944,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Seurantaan tarkoitettu sisältö">
 <!ENTITY protections.fingerprinters.label "Yksilöijät">
 <!ENTITY protections.cryptominers.label "Kryptolouhijat">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Kaikki tämän sivuston seuraimet on ladattu, sillä suojaukset ovat pois päältä.">
 <!ENTITY protections.noTrackersFound.description "Tällä sivulla ei havaittu seuraimia, jotka &brandShortName; tuntee.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Nämä evästeet seuraavat sinua sivustolta toiselle ja keräävät tietoja tekemisistäsi verkossa. Ne on asetettu kolmansien osapuolten, kuten mainostajien ja analytiikkayhtiöiden, toimesta.">

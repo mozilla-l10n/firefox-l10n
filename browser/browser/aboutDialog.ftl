@@ -18,7 +18,7 @@ update-failed = Päivitys ei onnistunut. <label data-l10n-name="failed-link">Lat
 update-failed-main = Päivitys ei onnistunut. <a data-l10n-name="failed-link-main">Lataa uusin versio</a>
 update-adminDisabled = Järjestelmän ylläpitäjä on estänyt päivitykset
 update-noUpdatesFound = Uusin { -brand-short-name }-versio käytössä
-update-otherInstanceHandlingUpdates = Ohjelman päivitys on jo käynnissä
+update-otherInstanceHandlingUpdates = { -brand-short-name }-ohjelman päivitys on jo käynnissä
 update-manual = Lataa päivitys: <label data-l10n-name="manual-link"/>
 update-unsupported = Tälle järjestelmälle ei enää tarjota päivityksiä. <label data-l10n-name="unsupported-link">Lue lisätietoja</label>
 update-restarting = Käynnistetään uudestaan…
