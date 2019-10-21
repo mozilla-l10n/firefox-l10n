@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Cadw data mewn Storfa Barhaus
 urlbar-addons-notification-anchor =
     .tooltiptext = Agor panel neges gosod yr ychwanegyn
+urlbar-tip-help-icon =
+    .title = Derbyn cymorth
 
 ## Page Action Context Menu
 

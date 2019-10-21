@@ -15,6 +15,7 @@ certificate-viewer-algorithm = Algorithm
 certificate-viewer-certificate-authority = Awdurdod Tystysgrif
 certificate-viewer-cipher-suite = Casgliad Seiffr
 certificate-viewer-common-name = Enw Cyffredin
+certificate-viewer-email-address = Cyfeiriad E-bost
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Gwlad Corfforedig
 certificate-viewer-country = Gwlad

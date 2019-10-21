@@ -9,6 +9,7 @@ ok = Iawn
 http = HTTP
 sockets = Socedi
 dns = DNS
+dnssuffix = Ôl-ddodiad DNS
 websockets = WebSockets
 refresh = Adnewyddu
 auto-refresh = Adnewyddu pob 3 eiliad
