@@ -311,6 +311,8 @@ addon-options-button =
 
 report-addon-button = Raportoi
 remove-addon-button = Poista
+# The link will always be shown after the other text.
+remove-addon-disabled-button = <a data-l10n-name="link">Miksi</a> tätä ei voi poistaa?
 disable-addon-button = Poista käytöstä
 enable-addon-button = Käytä
 expand-addon-button = Lisää valintoja

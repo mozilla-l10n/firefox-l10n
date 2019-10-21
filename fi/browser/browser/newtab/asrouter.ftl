@@ -149,6 +149,7 @@ cfr-doorhanger-socialtracking-ok-button = Näytä suojaukset
     .accesskey = N
 cfr-doorhanger-socialtracking-close-button = Sulje
     .accesskey = S
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } pysäytti sosiaalisen verkon seuraamasta sinua täällä
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } esti yksilöijän tällä sivulla
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } esti kryptolouhijan tällä sivulla
 
