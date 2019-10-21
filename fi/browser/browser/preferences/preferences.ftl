@@ -282,6 +282,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Käytä liitännäistä { $plugin-name } (ohjelmassa { -brand-short-name })
@@ -504,7 +508,10 @@ search-bar-shown =
     .label = Lisää hakupalkki työkalupalkkiin
 search-engine-default-header = Oletushakukone
 search-engine-default-desc = Valitse oletushakukone, jota käytetään osoite- ja hakupalkissa.
-search-engine-default-private-desc = Valitse oletushakukone, jota käytetään yksityisissä ikkunoissa.
+search-engine-default-private-desc-2 = Valitse eri oletushakukone vain yksityisiin ikkunoihin
+search-separate-default-engine =
+    .label = Käytä tätä hakukonetta yksityisissä ikkunoissa
+    .accesskey = K
 search-suggestions-header = Hakuehdotukset
 search-suggestions-desc = Valitse, millä tavalla hakukoneiden ehdotukset näkyvät.
 search-suggestions-option =

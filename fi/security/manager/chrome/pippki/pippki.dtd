@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Aseta uuden varmentajan luotettavuus.">
 <!ENTITY downloadCert.trustSSL "Sivustojen todentajana.">
 <!ENTITY downloadCert.trustEmail "Sähköpostien lähettäjien todentajana.">
-<!ENTITY downloadCert.trustObjSign "Ohjelmiston kehittäjien todentajana.">
 <!ENTITY downloadCert.message3 "Ennen kuin varmentaja lisätään yhdellekään luotettujen varmentajien listalle, tulisi sen varmenne, turvallisuuskäytännöt ja menettelytavat tarkistaa (jos ne ovat saatavilla).">
 <!ENTITY downloadCert.viewCert.label "Näytä">
 <!ENTITY downloadCert.viewCert.text "Tarkastele varmentajan varmennetta">
@@ -37,8 +36,8 @@
 <!ENTITY pkcs12.setpassword.label2 "Varmenteen varmuuskopion salasana (uudelleen):">
 <!ENTITY pkcs12.setpassword.reminder "Tärkeää: Jos varmenteen varmuuskopion salasana unohtuu, niin varmennetta ei voi palauttaa myöhemmin. Säilytä salasana turvallisessa paikassa.">
 
-<!ENTITY chooseToken.title  "Valitse tunniste">
-<!ENTITY chooseToken.message1 "Valitse tunniste.">
+<!ENTITY chooseToken.title  "Valitse poletti-ikkuna">
+<!ENTITY chooseToken.message1 "Valitse poletti.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Luodaan salaista avainta">
@@ -46,6 +45,6 @@
 <!ENTITY createCertInfo.msg2 "Odota…">
 
 <!-- Strings for protectedAuth dialog -->
-<!ENTITY protectedAuth.title "Suojattu vuoromerkkitodennus">
-<!ENTITY protectedAuth.msg "Todenna vuoromerkille. Todennustapa riippuu vuoromerkin tyypistä.">
-<!ENTITY protectedAuth.tokenName.label "Vuoromerkki:">
+<!ENTITY protectedAuth.title "Suojattu polettitodennus">
+<!ENTITY protectedAuth.msg "Todenna poletille. Todennustapa riippuu poletin tyypistä.">
+<!ENTITY protectedAuth.tokenName.label "Poletti:">
