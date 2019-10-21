@@ -10,6 +10,14 @@ about-config-warning-button = Αποδέχομαι τον κίνδυνο
 about-config2-title = Προηγμένες ρυθμίσεις
 about-config-search-input =
     .placeholder = Αναζήτηση
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Συνέχεια με προσοχή
+about-config-intro-warning-button = Αποδοχή κινδύνου και συνέχεια
+
+
+
 about-config-search-input1 =
     .placeholder = Αναζήτηση ονόματος προτίμησης
 about-config-show-all = Εμφάνιση όλων
