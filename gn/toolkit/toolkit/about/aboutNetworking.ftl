@@ -9,6 +9,7 @@ ok = MONEĨ
 http = HTTP
 sockets = Moingeha
 dns = DNS
+dnssuffix = Ñe'ẽpehẽ upeigua DNS
 websockets = WebSockets
 refresh = Mbopiro'y
 auto-refresh = Embopiro'y ijehegui 3 aravo'ive og̃uahẽvo

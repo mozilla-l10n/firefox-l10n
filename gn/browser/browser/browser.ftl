@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Mba'ekuaarã ñembyaty, ñembyaty hi'arekuaávape
 urlbar-addons-notification-anchor =
     .tooltiptext = Eike ñe'ẽmondo moĩmbaha ñemohenda ra'ãngarupápe
+urlbar-tip-help-icon =
+    .title = Eipota pytyvõ
 
 ## Page Action Context Menu
 
