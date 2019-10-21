@@ -29,9 +29,7 @@
 
 <!ENTITY fillLoginMenu.label          "填充登录信息">
 <!ENTITY fillLoginMenu.accesskey      "F">
-<!ENTITY fillSuggestedPassword.label  "使用建议的密码">
-<!ENTITY fillSuggestedPassword.accesskey "S">
-<!ENTITY fillGeneratedPassword.label  "使用生成的安全密码">
+<!ENTITY fillGeneratedPassword.label  "生成安全密码">
 <!ENTITY fillGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "填充密码">
 <!ENTITY fillPasswordMenu.accesskey   "F">
