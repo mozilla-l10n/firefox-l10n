@@ -29,8 +29,22 @@ cert-error-domain-mismatch-single = Kakube moko ada gi ki i catibiket. { -brand-
 # $alt-name (String) - Alternate domain name for which the cert is valid.
 cert-error-domain-mismatch-single-nolink = Kakube moko ada gi ki i catibiket. { -brand-short-name } pe geno kakube man pien tiyo ki catibiket ma pe tye atir pi { $hostname }. Catibiket ni tye atir keken pi { $alt-name }.
 # Variables:
+# $subject-alt-names (String) - Alternate domain names for which the cert is valid.
+cert-error-domain-mismatch-multiple = Kakube moko ada gi ki i catibiket. { -brand-short-name } pe geno kakube man pien tiyo ki catibiket ma pe tye atir pi { $hostname }. Catibiket ni tye atir keken pi nying magi: { $subject-alt-names }
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = Kakube moko ada gi ki i catibiket, ma kare gi bedo tye pi cawa moni. Catibiket pi { $hostname } kare ne otum woko i { $not-after-local-time }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Kakube moko ada gi ki i catibiket, ma kare gi bedo tye pi cawa moni. Catibiket pi { $hostname } kare ne pe bibedo tye ni oo wa { $not-after-local-time }.
+# Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Kod me bal: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-symantec-distrust-description = Kakube moko ada gi ki i catibiket, ma luloc me catibiket aye gi miyo. Pol pa luyeny dong pe gigeno catibiket ma jo ma omiyo aye GeoTrust, RapidSSL, Symantec, Thawte, ki VeriSign. { $hostname } tiyo ki catibiket ma aa ki bot laloc acel ikin luloc magi ci dong pe kitwero moko ada pa kakube ne.
 cert-error-symantec-distrust-admin = Itwero miyo ngec bot lalo kakube eni pi peko man.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.

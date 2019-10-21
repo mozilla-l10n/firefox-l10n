@@ -10,6 +10,21 @@ about-config-warning-button = Aye acara ne!
 about-config2-title = Ter ma lamal
 about-config-search-input =
     .placeholder = Yeny
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Mede ki Diro
+about-config-intro-warning-text = Loko ter ma lamal twero loko tic ki ber bedo pa { -brand-short-name }.
+about-config-intro-warning-checkbox = Cika kacce ateme me nongo ter magi
+about-config-intro-warning-button = Yee Acara ne ka Imede
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Loko ter magi twero loko tic ki ber bedo pa { -brand-short-name }.
+about-config-page-title = Ter ma lamal
+about-config-search-input1 =
+    .placeholder = Yeny nying ter
 about-config-show-all = Nyut weng
 about-config-pref-add = Medi
 about-config-pref-toggle = Loki
