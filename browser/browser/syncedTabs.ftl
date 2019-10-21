@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Synkronoidut välilehdet
 synced-tabs-sidebar-noclients-subtitle = Haluatko nähdä muiden laitteiden välilehdet tässä?
 synced-tabs-sidebar-notsignedin = Kirjaudu sisään, jotta voit katsella listaa muiden laitteidesi välilehdistä.
+synced-tabs-sidebar-intro = Näytä lista välilehdistä muilta laitteiltasi.
 synced-tabs-sidebar-unverified = Tilisi tarvitsee vahvistaa.
 synced-tabs-sidebar-notabs = Ei avoimia välilehtiä
 synced-tabs-sidebar-openprefs = Avaa { -sync-brand-short-name }-asetukset

@@ -228,6 +228,7 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Vaikuttaa siltä, että verkon turvallisuusasetukset aiheuttavat tämän. Haluatko palauttaa oletusasetukset?">
 <!ENTITY prefReset.label "Palauta oletusasetukset">
 
+<!ENTITY enableTls10.longDesc "Sivusto ei välttämättä tue TLS 1.2 -yhteyskäytäntöä, joka on vanhin &brandShortName;in tukema versio. TLS 1.0:n ja TLS 1.1:n ottaminen käyttöön saattaa mahdollistaa yhteyden muodostamisen.">
 <!ENTITY enableTls10.note "TLS 1.0 ja TLS 1.1 poistetaan pysyvästi käytöstä tulevassa julkaisussa.">
 <!ENTITY enableTls10.label "Ota käyttöön TLS 1.0 ja 1.1">
 
