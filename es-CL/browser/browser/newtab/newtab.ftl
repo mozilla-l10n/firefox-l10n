@@ -45,9 +45,6 @@ newtab-topsites-save-button = Guardar
 newtab-topsites-preview-button = Vista previa
 newtab-topsites-add-button = Añadir
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = ¿Estás seguro de que quieres eliminar cada instancia de esta página de tu historial?
@@ -89,6 +86,7 @@ newtab-menu-show-privacy-info = Nuestros patrocinadores y tu privacidad
 
 newtab-privacy-modal-button-done = Hecho
 newtab-privacy-modal-header = Tu privacidad importa.
+newtab-privacy-modal-paragraph = Junto con ofrecer historias cautivadoras, te mostramos contenido relevante y muy revisado de patrocinadores seleccionados. No te preocupes, tus datos de navegación jamás dejan tu copia personal de { -brand-product-name } — nosotros los vemos, y tampoco lo hacen nuestros patrocinadores.
 newtab-privacy-modal-link = Aprende cómo funciona la privacidad en la nueva pestaña
 
 
@@ -97,10 +95,6 @@ newtab-privacy-modal-link = Aprende cómo funciona la privacidad en la nueva pes
 newtab-menu-remove-bookmark = Remover marcador
 # Bookmark is a verb here.
 newtab-menu-bookmark = Marcador
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -130,10 +124,6 @@ newtab-label-removed-bookmark = Marcador eliminado
 newtab-label-recommended = Popular
 newtab-label-saved = Guardado en { -pocket-brand-name }
 newtab-label-download = Descargado
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
