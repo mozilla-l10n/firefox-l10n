@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Daten im dauerhaften Speicher speichern
 urlbar-addons-notification-anchor =
     .tooltiptext = Ansicht mit Anfrage zur Installation eines Add-ons öffnen
+urlbar-tip-help-icon =
+    .title = Hilfe erhalten
 
 ## Page Action Context Menu
 
@@ -83,3 +85,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Als Standardsuchmaschine festlegen
     .accesskey = S
+search-one-offs-context-set-as-default-private =
+    .label = Als Standardsuchmaschine für private Fenster festlegen
+    .accesskey = p
