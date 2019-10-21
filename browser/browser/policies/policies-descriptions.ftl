@@ -79,7 +79,7 @@ policy-PromptForDownloadLocation = Spør hvor du skal lagre filer når du laster
 policy-Proxy = Konfigurer proxy-innstillinger.
 policy-RequestedLocales = Velg rekkefølgen av språk, som skal brukes i programmet.
 policy-SanitizeOnShutdown2 = Fjern nettlesingsdata ved avslutning.
-policy-SearchBar = Angi standardplassering for søkefeltet. Brukeren kan fortsatt tilpasse den.
+policy-SearchBar = Angi standardplassering for søkelinjen. Brukeren kan fortsatt tilpasse den.
 policy-SearchEngines = Konfigurer søkemotorinnstillinger. Denne policyen er kun tilgjengelig for Extended Support Release (ESR).
 policy-SearchSuggestEnabled = Slå av eller på søkeforslag.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
