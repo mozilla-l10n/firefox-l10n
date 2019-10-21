@@ -9,6 +9,8 @@ about-logins-page-title = लॉगिन और पासवर्ड
 login-filter =
     .placeholder = लॉगिन खोजें
 create-login-button = नई लॉगिन बनाएँ
+fxaccounts-avatar-button =
+    .title = खाता प्रबंधित करें
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -21,6 +23,7 @@ menu-menuitem-preferences =
         [windows] विकल्प
        *[other] प्राथमिकताएँ
     }
+about-logins-menu-menuitem-help = सहायता
 
 ## Login List
 
@@ -34,6 +37,7 @@ login-list-count =
 login-list-sort-label-text = इसके अनुसार:
 login-list-name-option = नाम (A-Z)
 login-list-last-changed-option = अंतिम परिवर्तन
+about-logins-login-list-empty-search-title = कोई लॉगिन नहीं मिला
 login-list-item-title-new-login = नया लॉगिन
 login-list-item-subtitle-new-login = अपनी लॉगिन जानकारी दर्ज करें
 
@@ -74,6 +78,9 @@ master-password-reload-button =
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = रद्द करें
+confirmation-dialog-dismiss-button =
+    .title = रद्द करें
 confirm-delete-dialog-title = इस लॉगिन को मिटाएं?
 confirm-delete-dialog-message = इस क्रिया को पहले जैसा नहीं किया जा सकता।
 confirm-delete-dialog-confirm-button = मिटाएं
