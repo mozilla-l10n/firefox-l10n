@@ -461,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Contenido de la página de inicio de Firefox
 home-prefs-content-description = Elige qué contenido quieres en tu pantalla de inicio de Firefox.
-home-prefs-content-discovery-description = El Descubrimiento de contenido en el Inicio de Firefox te permite descubrir artículos relevantes de alta calidad provenientes de toda la web.
 home-prefs-search-header =
     .label = Búsqueda web
 home-prefs-topsites-header =
@@ -510,6 +509,8 @@ search-bar-shown =
 search-engine-default-header = Motor de búsqueda predeterminado
 search-engine-default-desc = Elige el motor de búsqueda predeterminado a usar en la barra de direcciones y en la barra de búsqueda.
 search-engine-default-private-desc = Elije el motor de búsqueda predeterminado para usar en ventanas privadas.
+search-engine-default-desc-2 = Este es tu motor de búsqueda predeterminado en la barra de direcciones y en la barra de búsqueda. Puedes cambiarlo en cualquier momento.
+search-engine-default-private-desc-2 = Elije un motor de búsqueda predeterminado diferente para usar solo en ventanas privadas.
 search-separate-default-engine =
     .label = Usar este motor de búsqueda en ventanas privadas
     .accesskey = U
@@ -528,6 +529,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Mostrar sugerencias de búsqueda antes del historial de navegación en los resultados de la barra de direcciones
+search-show-suggestions-private-windows =
+    .label = Mostrar sugerencias de búsqueda en ventanas privadas
 suggestions-addressbar-settings = Cambia las preferencias para las sugerencias del historial de navegación, marcadores y pestañas
 search-suggestions-cant-show = Las sugerencias de búsqueda no serán mostradas en la barra de direcciones porque configuraste { -brand-short-name } para que nunca recuerde el historial.
 search-one-click-header = Motores de búsqueda rápida
