@@ -78,11 +78,15 @@ cfr-protections-panel-link-text = Aprender más
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Nueva funcionalidad:
 cfr-whatsnew-button =
     .label = Qué hay de nuevo
     .tooltiptext = Qué hay de nuevo
 cfr-whatsnew-panel-header = Qué hay de nuevo
 cfr-whatsnew-release-notes-link-text = Lee las notas de la versión
+cfr-whatsnew-fx70-title = { -brand-short-name } ahora lucha con más fuerza por tu privacidad
 cfr-whatsnew-fx70-body =
     La última actualización mejora la función de protección contra seguimiento y hace
     que sea más fácil que nunca el crear contraseñas seguras para cada sitio.
@@ -147,3 +151,15 @@ cfr-doorhanger-fingerprinters-heading = { -brand-short-name } bloqueó un creado
 cfr-doorhanger-fingerprinters-description = Tu privacidad importa. { -brand-short-name } ahora bloquea creadores de huellas digitales (fingerprinters), los que recolectan piezas de información única e identificable sobre tu dispositivo para rastrearte.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } bloqueó un criptominero en esta página
 cfr-doorhanger-cryptominers-description = Tu privacidad importa. { -brand-short-name } ahora bloquea criptomineros, los que usan la potencia de cómputo de tu sistema para minar dinero digital.
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+       *[other] ¡{ -brand-short-name } bloqueó más de <b>{ $blockedCount }</b> rastreadores desde el { $date }!
+    }
+cfr-doorhanger-milestone-ok-button = Ver todos
+    .accesskey = S
