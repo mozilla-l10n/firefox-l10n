@@ -473,7 +473,6 @@ choose-bookmark =
 
 home-prefs-content-header = Cynnwys Cartref Firefox
 home-prefs-content-description = Dewis pa gynnwys rydych eisiau ar eich sgrin Firefox Cartref.
-home-prefs-content-discovery-description = Mae Darganfod Cynnwys yng Nghartref Firefox yn caniatáu i chi ddarganfod erthyglau perthnasol o ansawdd uchel ar draws y we.
 home-prefs-search-header =
     .label = Chwilio'r We
 home-prefs-topsites-header =
@@ -526,6 +525,8 @@ search-bar-shown =
 search-engine-default-header = Peiriant Chwilio Rhagosodedig
 search-engine-default-desc = Dewis y peiriant chwilio ragosodedig i'w ddefnyddio yn y bar cyfeiriad a'r bar chwilio.
 search-engine-default-private-desc = Dewis y peiriant chwilio rhagosodedig i'w ddefnyddio mewn Ffenestri Preifat.
+search-engine-default-desc-2 = Hwn yw'ch peiriant chwilio rhagosodedig yn y bar cyfeiriad a'r bar chwilio. Gallwch ei newid ar unrhyw adeg.
+search-engine-default-private-desc-2 = Dewiswch beiriant chwilio rhagosodedig i'w ddefnyddio yn y Ffenestr Breifat yn unig.
 search-separate-default-engine =
     .label = Defnyddio'r peiriant chwilio hwn mewn Ffenestri Preifat
     .accesskey = D
