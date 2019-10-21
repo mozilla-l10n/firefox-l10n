@@ -33,10 +33,17 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Correo válido requerido
 onboarding-join-form-legal = Al proceder, aceptas los <a data-l10n-name="terms">Términos del servicio</a> y el <a data-l10n-name="privacy">Aviso de privacidad</a>.
 onboarding-join-form-continue = Continuar
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = ¿Ya tienes una cuenta?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Conectarse
 onboarding-start-browsing-button-label = Empezar a navegar
 onboarding-cards-dismiss =
     .title = Descartar
     .aria-label = Descartar
+
+## Welcome full page string
+
 
 ## Firefox Sync modal dialog strings.
 
