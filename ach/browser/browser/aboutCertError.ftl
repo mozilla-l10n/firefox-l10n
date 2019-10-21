@@ -7,6 +7,9 @@
 cert-error-intro = { $hostname } tiyo ki waraga me gwoko kuc ma pe tiyo.
 cert-error-mitm-intro = Kakube moko ada pa tye gi ki i catibiket, ma lumi gi aye luloc me catibiket.
 cert-error-trust-unknown-issuer-intro = Twero bedo ni ngat mo tye ka temo poro kakube ni ka pe myero imede.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-trust-unknown-issuer = Kakube moko ada gi ki i catibiket. { -brand-short-name } pe geno { $hostname } pien lami catibiket ne pe ngene, kiketo cing i caitbiket ne kenken, onyo lapok tic pe tye ka cwalo kakare catibiket ma idyere.
 cert-error-trust-cert-invalid = Pe kigeno waraga man pien kinwongo kibot jo mulil waraga CA mubake.
 cert-error-trust-untrusted-issuer = Waraga pe gene pien lami waraga pe gene.
 cert-error-trust-signature-algorithm-disabled = Waraga ne pe gene pien kiketo cing iye kun kitiyo ki yo me keto cing ma kijuko woko pien yo ne peke ki ber bedo.
@@ -14,6 +17,17 @@ cert-error-trust-expired-issuer = Waraga pe gene pien kara pa lami waraga okato 
 cert-error-trust-self-signed = Pe gigeno waraga pien oketo capa cing kene.
 cert-error-trust-symantec = Catibiket ma lumi gi obedo GeoTrust, RapidSSL, Symantec, Thawte, ki VeriSign pe dong kigeno ber bedo gi pien luloc me catibiket magi pe gi olubo tim mabeco me ber bedo ikare mukato angec.
 cert-error-untrusted-default = Waraga pe bino ki ka ma gene.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-domain-mismatch = Kakube moko ada gi ki i catibiket. { -brand-short-name } pe geno kakube man pien tiyo ki catibiket ma pe tye atir pi { $hostname }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = Kakube moko ada gi ki i catibiket. { -brand-short-name } pe geno kakube man pien tiyo ki catibiket ma pe tye atir pi { $hostname }. Catibiket ni tye atir keken pi <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single-nolink = Kakube moko ada gi ki i catibiket. { -brand-short-name } pe geno kakube man pien tiyo ki catibiket ma pe tye atir pi { $hostname }. Catibiket ni tye atir keken pi { $alt-name }.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Kod me bal: <a data-l10n-name="error-code-link">{ $error }</a>
