@@ -15,6 +15,7 @@ certificate-viewer-algorithm = Algoritme
 certificate-viewer-certificate-authority = Certificaatautoriteit
 certificate-viewer-cipher-suite = Coderingssuite
 certificate-viewer-common-name = Algemene naam
+certificate-viewer-email-address = E-mailadres
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Land van vestiging
 certificate-viewer-country = Land
