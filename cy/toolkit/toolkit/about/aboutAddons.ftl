@@ -283,7 +283,7 @@ discopane-intro =
     yn eu hargymell </a> am ddiogelwch, perfformiad, a swyddogaethau gwell.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
-    Mae rhai o'r argymhellion hyn wedi'u personoli. Maen nhw'n seiliedig ar 
+    Mae rhai o'r argymhellion hyn wedi'u dewis yn benodol ar eich cyfer chi. Maen nhw'n seiliedig ar 
     estyniadau eraill rydych chi wedi'u gosod, eich proffil dewisiadau, a'ch ystadegau defnydd.
 discopane-notice-learn-more = Dysgu rhagor
 privacy-policy = Polisi Preifatrwydd
