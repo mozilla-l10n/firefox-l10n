@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Gegevens yn permaninte opslach bewarje
 urlbar-addons-notification-anchor =
     .tooltiptext = Berjochtepaniel foar add-on-ynstallaasje iepenje
+urlbar-tip-help-icon =
+    .title = Help krije
 
 ## Page Action Context Menu
 
