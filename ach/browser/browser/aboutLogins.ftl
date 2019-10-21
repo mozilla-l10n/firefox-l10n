@@ -2,14 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-logins-page-title = Donyo iyie ki Mung me donyo
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = Wot ki mung me donyo mamegi ka mo keken
 login-app-promo-subtitle = Nong purugram me { -lockwise-brand-name } ma tye me nono
 login-app-promo-android =
     .alt = Nong i Google Play
 login-app-promo-apple =
     .alt = Gam ki i App Store
+login-filter =
+    .placeholder = Yeny Donyo iyie
+create-login-button = Cwe Donyo iyie manyen
 fxaccounts-sign-in-text = Nong mung me donyo mamegi i nyonyo ni mukene
 fxaccounts-sign-in-button = Dony iyie { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -19,6 +24,8 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Yab jami ayera
+# This menuitem is only visible on Windows
+menu-menuitem-import = Kel Mung me donyo…
 about-logins-menu-menuitem-help = Kony
 menu-menuitem-android-app = { -lockwise-brand-short-name } pi Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } pi iPhone ki iPad
@@ -27,6 +34,11 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } pi iPhone ki iPad
 
 login-list =
     .aria-label = Donyo iyie ma rwatte ki lok me yeny
+login-list-count =
+    { $count ->
+        [one] donyo iyie
+       *[other] donyo iyie
+    }
 login-list-name-option = Nying (A-Z)
 login-list-last-changed-option = Yub me agiki
 login-list-last-used-option = Tic kwede me agiki
