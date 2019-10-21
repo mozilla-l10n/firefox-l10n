@@ -461,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Kuatiarogue retepy Firefox ñepyrũháme
 home-prefs-content-description = Eiporavo mba’e retepýpa eipota Firefox mba’erechaha ñepyrũháme.
-home-prefs-content-discovery-description = Content Discovery Firefox kuatiarogue ñepyrũme ohechaukakuaa tetepy oikóva ha iporãva ñandutípe g̃uarã.
 home-prefs-search-header =
     .label = Ñandutípe jeheka
 home-prefs-topsites-header =
@@ -510,6 +509,8 @@ search-bar-shown =
 search-engine-default-header = Hekaha ypykuéva
 search-engine-default-desc = Eiporavo hekaha mongu'eha ijypykuéva eipuru hag̃ua kundaharape ha jehekaha rendápe.
 search-engine-default-private-desc = Eiporavo jehekaha mongu'eha ijypykuéva eipuru hag̃ua ovetã ñemíme.
+search-engine-default-desc-2 = Kóva nde jeheka mongu’eha ypyguáva kundaharape renda ha jehekeha rendápe.
+search-engine-default-private-desc-2 = Emoĩ jeheka mongu’eha ypyguáramo ovetã ñemíme g̃uarã
 search-separate-default-engine =
     .label = Eipuru ko jehekaha mongu'eha ovetã ñemíme.
     .accesskey = E
