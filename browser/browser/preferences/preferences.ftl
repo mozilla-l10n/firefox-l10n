@@ -461,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Innhold Firefox-startside
 home-prefs-content-description = Velg hvilket innhold som du vil ha på din Firefox-startside.
-home-prefs-content-discovery-description = Innholdsoppdagelse på Firefox startside lar deg oppdage relevante artikler av høy kvalitet fra nettet.
 home-prefs-search-header =
     .label = Nettsøk
 home-prefs-topsites-header =
@@ -510,6 +509,7 @@ search-bar-shown =
 search-engine-default-header = Standard søkemotor
 search-engine-default-desc = Velg standardsøkemotor som skal brukes i adresselinjen og søkelinjen.
 search-engine-default-private-desc = Velg hvilklen søkmotor du vil bruke i private vindu.
+search-engine-default-private-desc-2 = Velg en annen standardsøkemotor bare for private vindu
 search-separate-default-engine =
     .label = Bruk denne søkemotoren i private vindu
     .accesskey = u
