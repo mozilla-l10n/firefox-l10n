@@ -243,7 +243,7 @@ manage-extensions-shortcuts =
 shortcuts-no-addons = Tu non ha ulle extensiones activate
 shortcuts-no-commands = Le sequente extensiones non ha claves accelerator:
 shortcuts-input =
-    .placeholder = Scribe un via breve
+    .placeholder = Insere un accesso directe
 shortcuts-browserAction = Activar extension
 shortcuts-pageAction = Activar le action del pagina
 shortcuts-sidebarAction = Monstrar/celar le barra lateral
@@ -251,13 +251,13 @@ shortcuts-modifier-mac = Includer Ctrl, Alt, o ⌘
 shortcuts-modifier-other = Include Ctrl o Alt
 shortcuts-invalid = Combination non valide
 shortcuts-letter = Scribe un littera
-shortcuts-system = Impossibile supplantar un via breve de { -brand-short-name }
+shortcuts-system = Impossibile supplantar un accesso directe de { -brand-short-name }
 # String displayed in warning label when there is a duplicate shortcut
-shortcuts-duplicate = Via breve de claviero duplicate
+shortcuts-duplicate = Accesso directe duplicate
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } es usate como un via breve in plus de un caso. Le vias breve de claviero duplicate pote causar comportamento inaxpectate.
+shortcuts-duplicate-warning-message = { $shortcut } es usate como accesso directe in plus de un caso. Le accessos directe duplicate pote causar un comportamento inexpectate.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
