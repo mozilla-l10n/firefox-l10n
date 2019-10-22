@@ -146,3 +146,15 @@ cfr-doorhanger-fingerprinters-heading = { -brand-short-name }가 이 페이지�
 cfr-doorhanger-fingerprinters-description = 개인 정보는 중요합니다. { -brand-short-name }는 이제 디바이스에 대해 고유하게 식별 가능한 정보 조각을 수집하여 사용자를 추적하는 핑거프린터를 차단합니다.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name }가 이 페이지에서 크립토마이너를 차단했습니다
 cfr-doorhanger-cryptominers-description = 개인 정보는 중요합니다. { -brand-short-name }는 이제 시스템의 컴퓨팅 능력을 사용하여 디지털 화폐를 채굴하는 크립토마이너를 차단합니다.
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+       *[other] { -brand-short-name }가 { $date } 이후 <b>{ $blockedCount }</b>개 이상의 추적기를 차단했습니다!
+    }
+cfr-doorhanger-milestone-ok-button = 모두 보기
+    .accesskey = S
