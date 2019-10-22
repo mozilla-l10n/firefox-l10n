@@ -892,8 +892,8 @@ enhanced-tracking-protection-setting-custom =
 
 
 
-content-blocking-etp-standard-desc = Balanciate pro protection e performance. Paginas cargara normalmente.
-content-blocking-etp-strict-desc = Protection plus forte, ma pote causar alcun sitos o contento collaber.
+content-blocking-etp-standard-desc = Balanciate pro protection e efficientia. Le paginas se carga normalmente.
+content-blocking-etp-strict-desc = Protection reinfortiate, ma certe sitos o contento pote non functionar correctemente.
 content-blocking-etp-custom-desc = Elige qual traciatores e scripts blocar.
 content-blocking-private-windows = Contento traciator in fenestras private
 content-blocking-cross-site-tracking-cookies = Cookies de traciamento inter sitos
@@ -904,7 +904,7 @@ content-blocking-all-windows-trackers = Traciatores note in tote le fenestras
 content-blocking-all-windows-tracking-content = Contento traciator in tote le fenestras
 content-blocking-all-third-party-cookies = Tote le cookies de tertie partes
 content-blocking-cryptominers = Crypto-minatores
-content-blocking-fingerprinters = Dactylogrammatores
+content-blocking-fingerprinters = Traciatores de impression digital
 content-blocking-warning-title = Attention!
 content-blocking-warning-description = Alcun sitos web pote non functionar correctemente con le blocage de contento. Es facile disactivar le blocage pro sitos de confidentia.
 content-blocking-learn-how = Apprender como
@@ -939,8 +939,8 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Dactylogrammatores
-    .accesskey = D
+    .label = Traciatores de impression digital
+    .accesskey = i
 
 ## Privacy Section - Tracking
 

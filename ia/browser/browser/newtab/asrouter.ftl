@@ -145,8 +145,8 @@ cfr-doorhanger-socialtracking-close-button = Clauder
     .accesskey = C
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } ha impedite que un rete social te tracia hic
 cfr-doorhanger-socialtracking-description = Tu confidentialitate es importante. Ora { -brand-short-name } bloca traciatores de retes social commun, limitante quante datos illos pote colliger re que tu face online.
-cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blocava un dactylogrammator in iste pagina
-cfr-doorhanger-fingerprinters-description = Tu confidentialitate es importante. { -brand-short-name } bloca ora le dactylogrammatores, que collige pecias de informationes de tu apparatos pro te traciar.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } ha blocate un traciator de impression digital in iste pagina
+cfr-doorhanger-fingerprinters-description = Tu vita private es importante. { -brand-short-name } bloca ora le traciatores de impression digital que collige pecias de information unic sur tu dispositivo pro traciar te.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } blocava un cryptominator in iste pagina
 cfr-doorhanger-cryptominers-description = Tu confidentialitate es importante. Ora { -brand-short-name } bloca cryptominatores, que usa le potentia de calculo de tu systemas pro cavar moneta digital.
 
