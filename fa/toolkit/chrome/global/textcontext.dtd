@@ -29,6 +29,8 @@
 
 <!ENTITY fillLoginMenu.label          "پرکردن اطلاعات ورود">
 <!ENTITY fillLoginMenu.accesskey      "ا">
+<!ENTITY fillGeneratedPassword.label  "از یک گذرواژهٔ ایمن استفاده کنید">
+<!ENTITY fillGeneratedPassword.accesskey "s">
 <!ENTITY fillPasswordMenu.label       "پرکردن گذرواژه">
 <!ENTITY fillPasswordMenu.accesskey   "گ">
 <!ENTITY fillUsernameMenu.label       "پرکردن نام کاربری">
