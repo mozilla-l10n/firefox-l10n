@@ -5,4 +5,5 @@
 <!ENTITY migration.title "&brandFullName;: Importation de datos">
 <!ENTITY migration.welcome "Benvenite">
 <!ENTITY migration.importing "Importation">
+<!ENTITY migration.list.description "&brandShortName; pote importar datos de agenda ex multe popular applicationes. Datos del sequente applicationes ha essite trovate sur tu computator. Elige ex qual de istos tu vole importar datos.">
 <!ENTITY migration.progress.description "Importation del datos eligite">
