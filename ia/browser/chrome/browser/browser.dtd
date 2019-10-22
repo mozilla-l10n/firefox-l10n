@@ -910,8 +910,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "Sito non functionante?">
-<!ENTITY protections.siteNotWorkingView.title "Sito non functionante?">
+<!ENTITY protections.siteNotWorking.label "Sito non functiona?">
+<!ENTITY protections.siteNotWorkingView.title "Sito non functiona?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
@@ -940,7 +940,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.notBlocking.why.label "Perque?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Blocar isto poterea rumper elementos de alcun sitos web. Sin traciatores, alcun buttones, formas, e campos pro accesso pote non functionar.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Disactivar le protectiones permittera tote le traciatores sur iste sito. Isto poterea totevia meliorar alcun functionalitates del sito web.">
-<!ENTITY protections.socialMediaTrackers.label "Traciatores de medios social">
+<!ENTITY protections.socialMediaTrackers.label "Traciatores de retes social">
 <!ENTITY protections.crossSiteTrackingCookies.label "Le cookies de traciamento tra sitos">
 <!ENTITY protections.trackingContent.label "Contento traciante">
 <!ENTITY protections.fingerprinters.label "Dactylogrammatores">
@@ -952,7 +952,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.cryptominers.description "Minatores occulte usa potentia de calculo de tu systema pro cavar moneta digital. Scripts del minatores occulte exhauri tu batteria, relenta tu computator e pote accrescer le factura de tu energia.">
 <!ENTITY protections.fingerprinters.description "Dactylogrammatores collige parametros de tu navigator e computator pro crear un profilo de te. Per iste dactylogramma, illos pote traciar te inter differente sitos web.">
 <!ENTITY protections.trackingContent2.description "Sitos web pote cargar avisos publicitari externe, videos e altere contento con codification de traciamento. Blocar contento traciator pote adjutar a cargar sitos plus velocemente, ma alcun buttones, formas e campos de accesso pote non functionar.">
-<!ENTITY protections.socialMediaTrackers.description "Retes social placia traciatores sur altere sitos web pro sequer lo que tu face, vide e observa online. Iste consenti al companias de retes social de saper plus re te, ultra illo que tu comparti sur tu profilo de retes social.">
+<!ENTITY protections.socialMediaTrackers.description "Le retes social placia traciatores sur altere sitos web pro sequer lo que tu face, vide e reguarda in linea. Isto permitte al companias de rete social de saper plus sur te, ultra lo que tu comparti sur tu profilos de rete social.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -1004,7 +1004,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.label "Gerer parametros de protection">
 <!ENTITY contentBlocking.manageSettings2.accesskey "t">
 
-<!ENTITY contentBlocking.socialblock.label "Traciatores de medios social">
+<!ENTITY contentBlocking.socialblock.label "Traciatores de retes social">
 
 <!ENTITY contentBlocking.cookies2.label "Le cookies de traciamento tra sitos">
 
