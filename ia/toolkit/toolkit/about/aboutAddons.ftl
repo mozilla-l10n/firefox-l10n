@@ -360,7 +360,7 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> ha essite eliminate.
 pending-uninstall-undo-button = Disfacer
-addon-detail-updates-label = Consentir actualisationes automatic
+addon-detail-updates-label = Actualisation automatic
 addon-detail-updates-radio-default = Predefinite
 addon-detail-updates-radio-on = Activar
 addon-detail-updates-radio-off = Disactivar
