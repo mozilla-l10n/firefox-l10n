@@ -74,7 +74,7 @@
 <!ENTITY lightning.imipbar.btnReschedule.label                              "Reprogrammar">
 <!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Reprogrammar le evento">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Salvar un copia">
-<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Salva un copia del evento in le agenda, independentemente del responsa al organisator. Le lista de participantes sera clarate.">
+<!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Salva un copia del evento in le agenda, independentemente del responsa al organisator. Le lista de participantes essera vacuate.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Provisori">
 <!ENTITY lightning.imipbar.btnTentative2.tooltiptext                        "Acceptar le invitation al evento provisorimente">
 <!ENTITY lightning.imipbar.btnTentativeRecurrences.label                    "Toto provisori">
