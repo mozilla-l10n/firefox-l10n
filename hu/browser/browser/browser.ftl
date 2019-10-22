@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Adatok tárolása az állandó tárban
 urlbar-addons-notification-anchor =
     .tooltiptext = Kiegészítő telepítési üzenetpanel megnyitása
+urlbar-tip-help-icon =
+    .title = Segítség kérése
 
 ## Page Action Context Menu
 
