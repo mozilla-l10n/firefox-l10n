@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Le nivello de protection es preparate a <b>Standard</b>
-protection-header-details-strict = Le nivello de protection es preparate a <b>Restrictive</b>
-protection-header-details-custom = Le nivello de protection es preparate a <b>Personalisate</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Le nivello de protection es preparate a <b>Standard</b>
     .title = Ir al Parametros de confidentialitate
 protection-report-header-details-strict = Le nivello de protection es preparate a <b>Restrictive</b>
@@ -36,7 +30,7 @@ protection-report-header-details-custom = Le nivello de protection es preparate 
 protection-report-page-title = Protectiones del confidentialitate
 protection-report-content-title = Protectiones del confidentialitate
 etp-card-title = Protection de traciamento meliorate
-etp-card-content = Le traciatores te seque circum online pro colliger informationes re tu habitos e interesses de exploration. { -brand-short-name } bloca multe de iste traciatores e altere scripts maligne.
+etp-card-content = Le traciatores te seque circum le rete pro colliger informationes sur tu habitos e interesses de navigation. { -brand-short-name } bloca multes de iste traciatores e altere scripts maligne.
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Hodie
@@ -56,7 +50,6 @@ lockwise-title = Non oblida plus tu contrasignos
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } immagazina con securitate tu contrasignos in tu navigator.
 lockwise-header-content-logged-in = Reserva e synchronisa con securitate tu contrasignos pro totes tu apparatos.
-about-logins-view-logins-button = Vider credentiales
 protection-report-view-logins-button = Vider credentiales
     .title = Ir a Credentiales salvate
 lockwise-no-logins-content = Obtene le application <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> pro haber tu contrasignos ubique.
@@ -118,10 +111,6 @@ password-warning =
         [one] Le credential salvate ha forsan essite exponite in un violation de datos. Cambia iste contrasigno pro melior securitate online. <a data-l10n-name="lockwise-link">Vide le credential salvate</a>
        *[other] Credentiales salvate ha forsan essite exponite in un violation de datos. Cambia iste contrasignos pro melior securitate online. <a data-l10n-name="lockwise-link">Vide credentiales salvate</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Ir al Parametros de confidentialitate
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Ir a Credentiales salvate
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

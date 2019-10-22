@@ -51,4 +51,4 @@ newsletter-error-unknown = Un error non attendite occurreva.
 newsletter-error-timeout = Le demanda de abonamento es expirate.
 # Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
-welcome-message = Tu ha activate con successo Utensiles de disveloppamento! Pro comenciar, explora le menu de Disveloppator de web o aperi le utensiles per { $shortcut }.
+welcome-message = Tu ha correctemente activate le Utensiles de disveloppamento! Pro comenciar, explora le menu "Disveloppator web" o aperi le utensiles per { $shortcut }.
