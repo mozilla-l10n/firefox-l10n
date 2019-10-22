@@ -104,9 +104,9 @@ cfr-whatsnew-tracking-protect-link-text = Wyświetl raport
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-tracking-blocked-title =
     { $blockedCount ->
-        [one] zablokowany element śledzący
-        [few] zablokowane elementy śledzące
-       *[many] zablokowanych elementów śledzących
+        [one] Zablokowany element śledzący
+        [few] Zablokowane elementy śledzące
+       *[many] Zablokowane elementy śledzące
     }
 cfr-whatsnew-tracking-blocked-subtitle = Od { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Wyświetl raport
