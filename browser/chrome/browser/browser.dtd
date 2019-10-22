@@ -232,12 +232,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY mobileBookmarksCmd.label "Mobile Bookmarks">
 <!ENTITY bookmarksToolbarChevron.tooltip "Show more bookmarks">
 
-<!ENTITY backCmd.label                "Backwards">
+<!ENTITY backCmd.label                "Back">
 <!ENTITY backCmd.accesskey            "B">
-<!ENTITY backButton.tooltip           "Go backwards one page">
-<!ENTITY forwardCmd.label             "Forwards">
+<!ENTITY backButton.tooltip           "Go back one page">
+<!ENTITY forwardCmd.label             "Forward">
 <!ENTITY forwardCmd.accesskey         "F">
-<!ENTITY forwardButton.tooltip        "Go forwards one page">
+<!ENTITY forwardButton.tooltip        "Go forward one page">
 <!ENTITY backForwardButtonMenu.tooltip "Right-click or pull down to show history">
 <!ENTITY backForwardButtonMenuMac.tooltip "Pull down to show history">
 <!ENTITY reloadCmd.label              "Reload">

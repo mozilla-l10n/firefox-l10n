@@ -11,7 +11,7 @@ safeb-blocked-malware-page-short-desc = { -brand-short-name } blocked this page 
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } blocked this page because it might try to trick you into installing programs that harm your browsing experience (for example, by changing your homepage or showing extra ads on sites you visit).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } blocked this page because it might try to install dangerous apps that steal or delete your information (for example, photos, passwords, messages and credit cards).
 safeb-palm-advisory-desc = Advisory provided by <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
-safeb-palm-accept-label = Go backwards
+safeb-palm-accept-label = Go back
 safeb-palm-see-details-label = See details
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reported as a deceptive site</a>. You can <a data-l10n-name='report_detection'>report a detection problem</a> or <a data-l10n-name='ignore_warning_link'>ignore the risk</a> and go to this unsafe site.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> has been <a data-l10n-name='error_desc_link'>reported as a deceptive site</a>. You can <a data-l10n-name='report_detection'>report a detection problem</a>.
