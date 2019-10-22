@@ -10,11 +10,6 @@
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
 
-<!-- LOCALIZATION NOTE (browserToolboxStatusMessage): This is the label
-  -  shown next to status details when the Browser Toolbox fails to connect or
-  -  appears to be taking a while to do so. -->
-<!ENTITY browserToolboxStatusMessage "สถานะการเชื่อมต่อของกล่องเครื่องมือเบราว์เซอร์:">
-
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 <!ENTITY options.context.advancedSettings "การตั้งค่าขั้นสูง">
@@ -32,6 +27,8 @@
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
+<!ENTITY options.collapseAttrs.label "ตัดทอนแอตทริบิวต์ DOM">
+<!ENTITY options.collapseAttrs.tooltip "ตัดทอนแอตทริบิวต์แบบยาวในตัวตรวจสอบ">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
@@ -45,6 +42,7 @@
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.authored "ตามหน่วยเดิม">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
@@ -71,11 +69,14 @@
 <!-- LOCALIZATION NOTE (options.enableChrome.label5): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
+<!ENTITY options.enableChrome.label5    "เปิดใช้งานเบราว์เซอร์ chrome และกล่องเครื่องมือการดีบั๊กส่วนเสริม">
+<!ENTITY options.enableChrome.tooltip3  "การเปิดตัวเลือกนี้จะช่วยให้คุณสามารถใช้เครื่องมือนักพัฒนาในบริบทของเบราว์เซอร์ได้ (ผ่าน เครื่องมือ > นักพัฒนาเว็บ > กล่องเครื่องมือเบราว์เซอร์) และดีบั๊กส่วนเสริมจากตัวจัดการส่วนเสริม">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "เปิดใช้งานการดีบั๊กระยะไกล">
+<!ENTITY options.enableRemote.tooltip2  "การเปิดใช้ตัวเลือกนี้จะอนุญาตให้เครื่องมือนักพัฒนาตรวจสอบอินสแตนซ์ระยะไกลเหมือนใน Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -87,11 +88,13 @@
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 <!ENTITY options.disableHTTPCache.label     "ปิดใช้งานแคช HTTP (เมื่อกล่องเครื่องมือเปิดอยู่)">
+<!ENTITY options.disableHTTPCache.tooltip   "การเปิดตัวเลือกนี้จะเป็นการปิดการใช้งานแคช HTTP สำหรับแท็บทั้งหมดที่เปิดกล่องเครื่องมือ ตัวทำงานบริการจะไม่ได้รับผลกระทบจากตัวเลือกนี้">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 <!ENTITY options.enableServiceWorkersHTTP.label     "เปิดใช้งานตัวทำงานบริการผ่าน HTTP (เมื่อกล่องเครื่องมือเปิดอยู่)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "การเปิดตัวเลือกนี้จะเป็นการเปิดใช้งานตัวทำงานบริการผ่าน HTTP สำหรับแท็บทั้งหมดที่เปิดกล่องเครื่องมือ">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -132,6 +135,9 @@
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "เปิดใช้งานการประทับเวลา">
 <!ENTITY options.timestampMessages.tooltip    "ถ้าคุณเปิดใช้งานตัวเลือกคำสั่งนี้ การแสดงผลในเว็บคอนโซลจะแสดงตราเวลา">
+
+<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
+   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
