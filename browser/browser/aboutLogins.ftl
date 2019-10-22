@@ -61,10 +61,16 @@ about-logins-login-list-empty-search-description = Ez dago zure bilaketarekin ba
 login-list-item-title-new-login = Saio-hasiera berria
 login-list-item-subtitle-new-login = Idatzi zure saio-hasierako kredentzialak
 login-list-item-subtitle-missing-username = (erabiltzaile-izenik ez)
+about-logins-list-item-warning-icon =
+    .alt = Abisu-ikonoa
+    .title = Datu-urratzea izandako webgunea
+about-logins-list-item-breach-icon =
+    .title = Datu-urratzea izandako webgunea
 
 ## Introduction screen
 
 login-intro-heading = Gordetako saio-hasieren bila? Konfiguratu { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = Ez da sinkronizatuta saio-hasierarik aurkitu.
 login-intro-description = Saio-hasierarik gorde baduzu beste gailu bateko { -brand-product-name }(e)n, jarraian dituzu hauek hemen eskuratzeko urratsak:
 login-intro-instruction-fxa = Sortu edo hasi saioa zure { -fxaccount-brand-name } kontuan saio-hasierak gordeta dituzun gailuan
 login-intro-instruction-fxa-settings = Ziurtatu 'Saio-hasierak' kontrol-laukia hautatu duzula { -sync-brand-short-name } ezarpenetan
@@ -137,5 +143,15 @@ breach-alert-dismiss =
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Erabiltzaile-izen hori duen sarrera bat badago lehendik ere { $loginTitle } webgunerako.
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Erabiltzaile-izen hori duen sarrera bat badago lehendik ere { $loginTitle } webgunerako. <a data-l10n-name="duplicate-link">Sarrera horretara joan?</a>
 # This is a generic error message.
 about-logins-error-message-default = Errorea gertatu da pasahitz hau gordetzen saiatzean.

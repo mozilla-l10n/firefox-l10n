@@ -71,6 +71,8 @@ serviceworker-empty-suggestions-debugger = Begiratu urratsez urrats zerbitzu-lan
 serviceworker-empty-suggestions-aboutdebugging = Ikustatu beste domeinuetako zerbitzu-langileak. <a>Ireki about:debugging</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Erroreak eta abisuak
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Nortasuna
 # Header for the Presentation section of Manifest inspection displayed in the application panel.
 manifest-item-presentation = Aurkezpena
 # Header for the Icon section of Manifest inspection displayed in the application panel.
@@ -83,6 +85,10 @@ manifest-loaded-ok = Manifestua kargatuta.
 manifest-loaded-error = Errorea gertatu da orria manifestua kargatzean:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Ez da ikuskatzeko manifesturik aurkitu.
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Ikonoa
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Abisu-ikonoa
