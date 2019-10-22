@@ -70,7 +70,7 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "Activar le cassas de depuration del chrome del browser e del additivos">
-<!ENTITY options.enableChrome.tooltip3  "Activar iste option te permittera usar plure instrumentos de developpator in le contexto del navigator (via Instrumentos > Disveloppamento Web > Cassa de instrumentos del navigator) e depurar additivos ab le gestor de additivos">
+<!ENTITY options.enableChrome.tooltip3  "Activar iste option te permittera usar plure instrumentos de disveloppator in le contexto del navigator (via Instrumentos > Disveloppamento Web > Cassa de instrumentos del navigator) e depurar additivos ab le gestor de additivos">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
