@@ -34,6 +34,16 @@ cfr-doorhanger-extension-author = di { $name }
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Suggerimento
 
+cfr-doorhanger-extension-notification2 = Suggerimento
+  .tooltiptext = Estensione suggerita
+  .a11y-announcement = È disponibile un suggerimento per un’estensione
+
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Suggerimento
+  .tooltiptext = Funzione suggerita
+  .a11y-announcement = È disponibile un suggerimento per una funzione
+
 ## Add-on statistics
 ## These strings are used to display the total number of
 ## users and rating for an add-on. They are shown next to each other.
