@@ -24,8 +24,8 @@ graph-total-tracker-summary =
     { $count ->
         [one] byl zablokován <b>jeden</b> sledovací prvek
         [few] byly zablokovány <b>{ $count }</b> sledovací prvky
-       *[other] bylo zalokováno <b>{ $count }</b> sledovacích prvků
-    }
+       *[other] bylo zablokováno <b>{ $count }</b> sledovacích prvků
+    }.
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
