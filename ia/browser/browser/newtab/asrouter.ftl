@@ -105,7 +105,7 @@ cfr-whatsnew-lockwise-backup-title = Reserva tu contrasignos
 cfr-whatsnew-lockwise-backup-body = Genera contrasignos secur pro acceder ab cata apparato connexe a tu conto.
 cfr-whatsnew-lockwise-backup-link-text = Activar le salvamentos
 cfr-whatsnew-lockwise-take-title = Porta tu contrasignos con te
-cfr-whatsnew-lockwise-take-body = Le application mobile { -lockwise-brand-short-name } te pone in grado de acceder ab ubique e con securitate a tu contrasignos reservate.
+cfr-whatsnew-lockwise-take-body = Le application mobile { -lockwise-brand-short-name } te permitte acceder con securitate al copia de reserva de tu contrasignos, non importa ubi tu te trova.
 cfr-whatsnew-lockwise-take-link-text = Discarga le app
 
 ## Bookmark Sync

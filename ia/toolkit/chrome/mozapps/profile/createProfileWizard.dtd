@@ -17,7 +17,7 @@
 <!ENTITY profileCreationIntro.text      "Si tu crea plure profilos tu pote los differentiar per le nomine. Tu pote usar le nomine definite hic o tu pote eliger un altere nomine tu proprie.">
 <!ENTITY profilePrompt.label            "Insere le nove nomine del profilo:">
 <!ENTITY profilePrompt.accesskey        "E">
-<!ENTITY profileDirectoryExplanation.text   "Tu configurationes, preferentias e altere datos relative al usator essera reservate hic:">
+<!ENTITY profileDirectoryExplanation.text   "Tu configurationes, preferentias e altere datos de usator essera immagazinate in:">
 <!ENTITY profileDefaultName             "Usator predefinite">
 <!ENTITY button.choosefolder.label      "Eliger un dossier…">
 <!ENTITY button.choosefolder.accesskey  "E">
