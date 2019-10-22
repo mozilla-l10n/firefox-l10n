@@ -148,7 +148,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara2 "&brandShortName; ha detegite un potential menacia de securitate e non ha continuate a <span class='hostname'/>. Si tu visita iste sito, attaccantes poterea tentar robar informationes como tu contrasignos, adresses de e-mail o detalios de carta de credito.">
 <!ENTITY certerror.sts.introPara "&brandShortName; ha detegite un menacia potential de securitate e non ha continuate a <span class='hostname'/> pois que iste sito web require un connexion secur.">
 
-<!ENTITY certerror.expiredCert.introPara "&brandShortName; ha detegite un problema e non ha continuate a <span class='hostname'/>. Le sito web o es mal configurate o le horologio de tu computator es definite a un tempore errate.">
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; ha detegite un problema e non ha continuate a <span class='hostname'/>. O le sito web es mal configurate, o le horologio de tu computator ha un hora errate.">
 <!ENTITY certerror.expiredCert.secondPara2 "Il pare que le certificato del sito es expirate, isto impedi a &brandShortName; de connecter se in modo secur. Si tu visita iste sito, alicuno pote attaccar e tentar de robar informationes como tu contrasignos, emails, o detalios de cartas de credito.">
 <!ENTITY certerror.expiredCert.sts.secondPara "Il pare que le certificato del sito es expirate, isto impedi a &brandShortName; de connecter se in modo secur.">
 
@@ -226,4 +226,4 @@ was trying to connect. -->
 <!ENTITY enableTls10.label "Activar TLS 1.0 e 1.1">
 
 <!ENTITY networkProtocolError.title "Error de protocollo de rete">
-<!ENTITY networkProtocolError.longDesc "<p>Le pagina que tu tenta vider non pote esser monstrate perque esseva detegite un error in le protocollo de rete.</p><ul><li>Per favor contacta le proprietarios del sito web.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Le pagina que tu tenta vider non pote esser monstrate perque un error ha essite detegite in le protocollo de rete.</p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul>">
