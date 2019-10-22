@@ -145,6 +145,8 @@
 
 <!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
    - label for the checkbox that toggles source maps in all tools -->
+<!ENTITY options.sourceMaps.label      "เปิดใช้งานการแมปต้นฉบับ">
+<!ENTITY options.sourceMaps.tooltip1   "หากคุณเปิดใช้งานตัวเลือกนี้ ต้นฉบับจะถูกแมปในเครื่องมือ">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
@@ -164,6 +166,7 @@
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
 <!ENTITY options.screenshot.clipboard.label      "จับภาพหน้าจอไปยังคลิปบอร์ด">
+<!ENTITY options.screenshot.clipboard.tooltip    "บันทึกไปที่ภาพหน้าจอโดยตรงไปยังคลิปบอร์ด">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
