@@ -315,7 +315,7 @@ preferences-addon-button =
     }
 details-addon-button = Detalios
 release-notes-addon-button = Notas pro iste version
-permissions-addon-button = Permissos
+permissions-addon-button = Permissiones
 addons-enabled-heading = Activate
 addons-disabled-heading = Disactivate
 extension-enabled-heading = Activate

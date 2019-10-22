@@ -74,5 +74,5 @@ abuse-report-broken-suggestions-theme = Il pare que tu ha identificate un defect
 abuse-report-policy-reason = Contento odiose, violente o illegal
 abuse-report-policy-suggestions = Nota: problemas de derectos de autor e marca de fabrica debe ser signalate in un procedura differente. <a data-l10n-name="report-infringement-link">Usa iste instructiones</a> pro signalar le problema.
 abuse-report-unwanted-reason = Io jammais voleva iste extension e non pote remover illo
-abuse-report-unwanted-example = Exemplo: un application lo ha installate sin mi permisso
+abuse-report-unwanted-example = Exemplo: un application lo ha installate sin mi permission
 abuse-report-other-reason = Altere cosa
