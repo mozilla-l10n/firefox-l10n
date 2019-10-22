@@ -449,7 +449,6 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox 홈 콘텐츠
 home-prefs-content-description = Firefox 홈 화면에 나올 콘텐츠를 선택하세요.
-home-prefs-content-discovery-description = Firefox 홈의 콘텐츠 탐색 기능을 사용하면 웹에 있는 고품질의 관련 문서를 탐색할 수 있습니다.
 home-prefs-search-header =
     .label = 웹 검색
 home-prefs-topsites-header =
@@ -493,7 +492,8 @@ search-bar-shown =
     .label = 도구 모음에 검색 표시줄 추가
 search-engine-default-header = 기본 검색 사이트
 search-engine-default-desc = 주소바와 검색바에서 사용할 기본 검색 엔진을 선택하세요.
-search-engine-default-private-desc = 사생활 보호 창에서 사용할 기본 검색 엔진을 선택하십시오.
+search-engine-default-desc-2 = 주소 표시줄과 검색 표시줄의 기본 검색 엔진입니다. 언제든지 바꿀 수 있습니다.
+search-engine-default-private-desc-2 = 사생활 보호 창에서만 사용할 다른 기본 검색 엔진을 선택하십시오
 search-separate-default-engine =
     .label = 이 검색 엔진을 사생활 보호 창에서 사용
     .accesskey = U
