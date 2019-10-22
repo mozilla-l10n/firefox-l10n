@@ -28,10 +28,17 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Baliozko helbide elektronikoa behar da
 onboarding-join-form-legal = Jarraituz gero, <a data-l10n-name="terms">zerbitzuaren baldintzak</a>eta <a data-l10n-name="privacy">pribatutasun-oharra</a> onartzen dituzu.
 onboarding-join-form-continue = Jarraitu
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Hasi saioa
 onboarding-start-browsing-button-label = Hasi nabigatzen
 onboarding-cards-dismiss =
     .title = Baztertu
     .aria-label = Baztertu
+
+## Welcome full page string
+
+onboarding-fullpage-form-email =
+    .placeholder = Zure helbide elektronikoa…
 
 ## Firefox Sync modal dialog strings.
 
@@ -64,6 +71,7 @@ onboarding-benefit-privacy-title = Benetako pribatutasuna
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Egiten dugun guztia gure Datu Pertsonalen Zin-egitearekin bat dator: Gutxiago hartu. Seguru mantendu. Sekreturik ez.
+onboarding-benefit-sync-text = Eraman zure laster-markak, pasahitzak, historia, eta gehiago { -brand-product-name } erabiltzen duzun toki guztietara.
 
 ## These strings belong to the individual onboarding messages.
 

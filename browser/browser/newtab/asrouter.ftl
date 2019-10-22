@@ -78,6 +78,9 @@ cfr-protections-panel-link-text = Argibide gehiago
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Eginbide berria:
 cfr-whatsnew-button =
     .label = Nobedadeak
     .tooltiptext = Nobedadeak
@@ -87,6 +90,14 @@ cfr-whatsnew-fx70-title = { -brand-short-name }(e)k zure pribatutasunarengatik g
 cfr-whatsnew-fx70-body = Azken eguneraketak jarraipenaren babesaren eginbidea hobetzen du eta inoiz baino gehiago errazten du gune bakoitzerako pasahitzak sortzea.
 cfr-whatsnew-tracking-protect-title = Babestu zure burua jarraipen-elementuetatik
 cfr-whatsnew-tracking-protect-link-text = Ikusi zure txostena
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Blokeatutako elementua
+       *[other] Blokeatutako elementuak
+    }
 cfr-whatsnew-tracking-blocked-link-text = Ikusi txostena
 cfr-whatsnew-lockwise-backup-title = Egin zure pasahitzen babeskopia
 cfr-whatsnew-lockwise-backup-body = Sortu saioa hasi behar duzun toki orotan atzi ditzakezun pasahitz seguruak.
@@ -123,3 +134,14 @@ cfr-doorhanger-firefox-send-header = Partekatu PDF hau modu seguruan
 cfr-doorhanger-firefox-send-body = Mantendu zure dokumentu sentikorrak kuxkuxeroengandik seguru muturretik muturrerako zifraketarekin eta erabili ondoren desagertzen den lotura batekin.
 cfr-doorhanger-firefox-send-ok-button = Probatu { -send-brand-name }
     .accesskey = P
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-close-button = Itxi
+    .accesskey = x
+cfr-doorhanger-socialtracking-description = Garrantzitsua da zure pribatutasuna. Sare sozialetako ohiko jarraipen-elementuak blokeatzen ditu orain { -brand-short-name }(e)k, zure lineako jarduerari buruz bil ditzaketen datuak mugatuz.
+
+## Enhanced Tracking Protection Milestones
+
+cfr-doorhanger-milestone-ok-button = Ikusi guztiak
+    .accesskey = I

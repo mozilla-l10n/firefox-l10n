@@ -26,3 +26,5 @@ about-private-browsing-not-private = Une honetan ez zaude leiho pribatu batean.
 content-blocking-title = Edukia blokeatzea
 content-blocking-description = Zenbait webgunek zure jarraipena egin eta Interneten zehar duzun jarduera monitoriza dezakete. Leiho pribatuetan, zure nabigatze-portaerari buruzko informazioa bil lezaketen elementuak automatikoki blokeatuko ditu { -brand-short-name }en edukiaren blokeoak.
 about-private-browsing-info-description = { -brand-short-name }(e)k zure bilaketa- eta nabigazio-historia garbitzen du aplikazioa ixtean edo nabigatze pribatuko fitxa eta leiho guztiak ixtean. Honek ez zaitu anonimo egiten webguneen edo zure interneteko zerbitzu-hornitzailearen aurrean baina erraztu egiten du ordenagailu hau erabiltzen duten beste erabiltzaileengandik online duzun jarduera pribatu mantentzea.
+about-private-browsing-search-banner-close-button =
+    .aria-label = Itxi
