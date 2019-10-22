@@ -37,11 +37,11 @@ graph-today = Hodie
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Un graphico que contine le numero total de cata typo de traciator blocate iste septimana.
 social-tab-title = Traciatores de retes social
-social-tab-contant = Retes social placia traciatores sur altere sitos web pro sequer lo que tu face, vide e observa online. Isto consenti al companias de retes social de saper plus re te, ultra illo que tu comparti sur tu profilo de retes social. <a data-l10n-name="learn-more-link">Saper plus</a>
-cookie-tab-title = Cookies de traciamento tra sitos
+social-tab-contant = Le retes social placia traciatores sur altere sitos web pro sequer lo que tu face, vide e reguarda in linea. Isto permitte al companias de rete social de saper plus sur te, ultra lo que tu comparti sur tu profilos de rete social. <a data-l10n-name="learn-more-link">Saper plus</a>
+cookie-tab-title = Cookies de traciamento inter sitos
 cookie-tab-content = Iste cookies te seque de sito a sito pro colliger datos re lo que tu face online. Illos es ponite per tertie partes tal como publicitarios e companias de analyse datos. Blocar le cookies traciator tra sitos reduce le numero de avisos publicitari que te seque. <a data-l10n-name="learn-more-link">
 tracker-tab-title = Contento traciator
-tracker-tab-description = Sitos web pote cargar avisos publicitari externe, videos e altere contento con codification de traciamento. Blocar contento traciator pote adjutar a cargar sitos plus velocemente, ma alcun buttones, formas e campos de accesso pote non functionar. <a data-l10n-name="learn-more-link">
+tracker-tab-description = Sitos web pote cargar avisos publicitari externe, videos e altere contento con codice de traciamento. Blocar contento traciator pote adjutar sitos a cargar se plus rapidemente, ma alcun buttones, formularios e campos de accesso pote non functionar. <a data-l10n-name="learn-more-link">Saper plus</a>
 fingerprinter-tab-title = Dactylogrammatores
 fingerprinter-tab-content = Dactylogrammatores collige parametros de tu navigator e computator pro crear un profilo re te. Per iste dactylogramma digital, illos pote traciar te inter le differente sitos web. <a data-l10n-name="learn-more-link">
 cryptominer-tab-title = Cryptominatores
@@ -127,11 +127,11 @@ bar-tooltip-social =
            *[other] { $count } traciatores de retes social ({ $percentage }%)
         }
 bar-tooltip-cookie =
-    .title = Cookies de traciamento tra sitos
+    .title = Cookies de traciamento inter sitos
     .aria-label =
         { $count ->
-            [one] { $count } cookie de traciamento tra sitos ( { $percentage } %)
-           *[other] { $count } cookies de traciamento tra sitos ( { $percentage } %)
+            [one] { $count } cookie de traciamento inter sitos ( { $percentage } %)
+           *[other] { $count } cookies de traciamento inter sitos ( { $percentage } %)
         }
 bar-tooltip-tracker =
     .title = Contento traciator
