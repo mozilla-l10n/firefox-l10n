@@ -24,7 +24,7 @@ about-private-browsing =
     .title = Cercar in le Web
 about-private-browsing-not-private = Tu non es actualmente in un fenestra private.
 content-blocking-title = Blocada de contentos
-content-blocking-description = Alcun sitos web usa traciatores que pote controlar tu activitate trans internet. In le Fenestras private { -brand-short-name } Content Blocking bloca automaticamente plure traciatores que pote colliger informationes re tu comportamento in navigation.
+content-blocking-description = Alcun sitos web usa traciatores que pote surveliar tu activitate sur internet. In le fenestras private, { -brand-short-name } Content Blocking bloca automaticamente multe traciatores que pote colliger informationes sur tu comportamento de navigation.
 about-private-browsing-info-description = { -brand-short-name } cancella tu chronologia de navigation e de recerca quando tu quita le application o claude tote le schedas e fenestras de navigation private. Ben que isto non te rende anonyme al sitos web o a tu providitor de servicio internet, illo rende plus facile mantener private lo que tu face online, salvo que pro illes qui usa iste computator.
 # This string is the title for the banner for search engine selection
 # in a private window.

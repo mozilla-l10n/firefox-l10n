@@ -69,7 +69,7 @@ onboarding-sync-form-sub-header = pro continuar con { -sync-brand-name }.
 ## description.
 
 onboarding-benefit-products-title = Productos utile
-onboarding-benefit-products-text = Produce realmente con un familia de applicationes que respecta tu confidentialitate tra tu apparatos.
+onboarding-benefit-products-text = Sia efficace con un familia de instrumentos que respecta tu vita private inter tu apparatos.
 onboarding-benefit-knowledge-title = Cognoscentia practic
 onboarding-benefit-knowledge-text = Apprender toto lo que te besonia saper pro star online in modo plus intelligente e secur.
 onboarding-benefit-privacy-title = Confidentialitate ver
