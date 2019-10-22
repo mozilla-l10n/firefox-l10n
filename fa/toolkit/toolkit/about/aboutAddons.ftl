@@ -240,6 +240,15 @@ go-back-button =
 
 discopane-notice-learn-more = بیشتر بدانید
 privacy-policy = سیاست حریم خصوصی
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = توسط <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = کاربران: { $dailyUsers }
+install-extension-button = افزودن به { -brand-product-name }
 install-theme-button = نصب پوسته
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
