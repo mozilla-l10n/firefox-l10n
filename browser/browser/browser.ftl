@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Store data in Persistent Storage
 urlbar-addons-notification-anchor =
     .tooltiptext = Open add-on installation message panel
+urlbar-tip-help-icon =
+    .title = Get help
 
 ## Page Action Context Menu
 
@@ -83,3 +85,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Set As Default Search Engine
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = Set as Default Search Engine for Private Windows
+    .accesskey = P
