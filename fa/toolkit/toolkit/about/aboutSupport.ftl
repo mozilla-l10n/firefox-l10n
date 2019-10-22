@@ -24,13 +24,25 @@ features-title = امکانات { -brand-short-name }
 features-name = نام
 features-version = نسخه
 features-id = شناسه
+processes-title = پردازش‌های راه دور
+processes-type = نوع
+processes-count = تعداد
 app-basics-title = اطلاعات اولیهٔ برنامه
 app-basics-name = نام
 app-basics-version = نسخه
 app-basics-build-id = شناسه ساخت
 app-basics-update-channel = کانال بروزرسانی
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] بروزرسانی شاخه
+       *[other] بروزرسانی پوشه
+    }
 app-basics-update-history = تاریخچه بروزرسانی
 app-basics-show-update-history = نمایش تاریخچه بروزرسانی
+# Represents the path to the binary used to start the application.
+app-basics-binary = فایل اجرایی برنامه
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] مسیر مجموعه تنظیمات
@@ -45,7 +57,10 @@ app-basics-performance = کارایی
 app-basics-service-workers = Service Workerهای ثبت شده
 app-basics-profiles = نمایه
 app-basics-multi-process-support = پنجره‌های چندپردازشی
+app-basics-remote-processes-count = پردازش‌های راه دور
 app-basics-enterprise-policies = خط و مش های سازمانی
+app-basics-location-service-key-google = کلید سرویس مکان‌یابی گوگل
+app-basics-safebrowsing-key-google = کلید مرور امن گوگل
 app-basics-key-mozilla = کلید سرویس مکان‌یابی موزیلا
 app-basics-safe-mode = حالت امن
 show-dir-label =
@@ -71,6 +86,8 @@ graphics-gpu2-title = پردازنده گرافیکی #2
 graphics-decision-log-title = گزارش تصمیم‌ها
 graphics-crash-guards-title = امکانات غیرفعال شده محافظ فروپاشی
 graphics-workarounds-title = راه‌حل
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = پروتکل پنجره
 place-database-title = پایگاه مکان‌ها
 place-database-integrity = یکپارچگی
 place-database-verify-integrity = بررسی یکپارچگی
@@ -114,8 +131,9 @@ media-device-format = قالب
 media-device-channels = کانال‌ها
 media-device-rate = ارزیابی
 media-device-latency = تاخیر
+media-capabilities-title = قابلیت‌های رسانه
 
-##
+
 
 intl-title = بین المللی سازی& محلی سازی
 intl-app-title = تنظیمات برنامه
@@ -181,6 +199,8 @@ hardware-h264 = رمزگشایی سخت‌افزاری H264
 main-thread-no-omtc = رشته اصلی، بدون OMTC
 yes = بله
 no = خیر
+unknown = نامعلوم
+virtual-monitor-disp = نمایش نمایشگر مجازی
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -188,6 +208,8 @@ no = خیر
 
 found = پیدا شد
 missing = ناپیدا
+gpu-process-pid = شماره پردازه GPU
+gpu-process = پردازه GPU
 gpu-description = توضیحات
 gpu-vendor-id = شناسهٔ تولیدکنندهٔ سخت‌افزار گرافیکی
 gpu-device-id = شناسهٔ سخت‌افزار گرافیکی
@@ -221,6 +243,7 @@ d3d9video-crash-guard = رمزگشا فیلم D3D9
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = تنظیم مجدد بعد از راه اندازی مجدد
 gpu-process-kill-button = خاتمه پروسهٔ GPU
+gpu-device-reset = بازنشانی دستگاه
 gpu-device-reset-button = ماشه راه‌ اندازی مجدد دستگاه
 uses-tiling = استفاده از Tiling
 content-uses-tiling = استفاده از Tiling(محتوا)
@@ -238,6 +261,11 @@ effective-content-sandbox-level = سطح آزمایشیِ پردازشِ محت�
 sandbox-proc-type-content = محتوا
 sandbox-proc-type-file = محتوا پرونده
 sandbox-proc-type-media-plugin = متصل‌شوندهٔ رسانه
+sandbox-proc-type-data-decoder = رمز‌گشایِ داده
+launcher-process-status-0 = فعال شد
+launcher-process-status-1 = به دلیل عدم موفقیت غیرفعال شد
+launcher-process-status-2 = در هر شرایطی غیرفعال شود
+launcher-process-status-unknown = وضعیت نامشخص
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
