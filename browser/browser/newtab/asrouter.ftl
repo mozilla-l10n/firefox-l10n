@@ -182,7 +182,7 @@ cfr-doorhanger-cryptominers-description = Du har ret til et privatliv. { -brand-
 #   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
   { $blockedCount ->
-   *[other] { -brand-short-name } blokerede mere end <b>{ $blockedCount }</b> sporings-mekanismer siden { $date }!
+   *[other] { -brand-short-name } blokerede flere end <b>{ $blockedCount }</b> sporings-mekanismer siden { $date }!
   }
 cfr-doorhanger-milestone-ok-button = Vis alle
   .accesskey = V
