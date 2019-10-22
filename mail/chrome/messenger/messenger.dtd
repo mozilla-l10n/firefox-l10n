@@ -274,12 +274,12 @@
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Procurar">
-<!ENTITY findMenu.accesskey "z">
+<!ENTITY findMenu.accesskey "o">
 <!ENTITY findCmd.label "Procurar nesta mensagem…">
-<!ENTITY findCmd.accesskey "z">
+<!ENTITY findCmd.accesskey "o">
 <!ENTITY findCmd.key "F">
 <!ENTITY findAgainCmd.label "Procurar próxima">
-<!ENTITY findAgainCmd.accesskey "L">
+<!ENTITY findAgainCmd.accesskey "x">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "G">
@@ -465,7 +465,7 @@
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "b">
 <!ENTITY addons.label "Extensões">
-<!ENTITY addons.accesskey "C">
+<!ENTITY addons.accesskey "E">
 <!ENTITY addonPrefs.label "Opções de extensões">
 <!ENTITY addonPrefs.accesskey "O">
 <!ENTITY addonPrefsUnix.label "Preferências de extensões">
