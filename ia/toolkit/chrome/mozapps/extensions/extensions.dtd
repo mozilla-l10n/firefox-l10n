@@ -63,7 +63,7 @@
 <!ENTITY addon.checkingForUpdates.label       "Cercante actualisationes…">
 <!ENTITY addon.releaseNotes.label             "Notas de revision:">
 <!ENTITY addon.loadingReleaseNotes.label      "Cargante…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Pardono, ma il habeva un error cargante le notas de revision">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Un error ha occurrite durante le cargamento del notas de version.">
 
 <!ENTITY addon.createdBy.label                "Per ">
 
