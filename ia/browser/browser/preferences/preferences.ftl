@@ -795,11 +795,11 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies e datos de sitos
-sitedata-total-size-calculating = Calculo del dimension de datos de sito e de memoria tampon…
+sitedata-total-size-calculating = Calculo del dimension de datos de sito e de cache…
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Tu cookies, datos de sito e memoria tampon immagazinate usa actualmente { $value } { $unit } de spatio de disco.
+sitedata-total-size = Tu cookies, datos de sito e cache occupa actualmente { $value } { $unit } de spatio de disco.
 sitedata-learn-more = Saper plus
 sitedata-delete-on-close =
     .label = Deler datos de cookies e sitos quando { -brand-short-name } es claudite

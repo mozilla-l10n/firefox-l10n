@@ -31,7 +31,7 @@ clear-site-data-cookies-info = Eliminar iste datos pote clauder tu sessiones act
 #   $amount (Number) - Amount of cache currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cache-with-data =
-    .label = Contento del web in memoria tampon ({ $amount } { $unit })
+    .label = Contento web in cache ({ $amount } { $unit })
     .accesskey = W
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually

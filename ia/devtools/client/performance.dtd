@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
-<!ENTITY performanceUI.bufferStatusTooltip "Le analysator de rendimento stocka specimenes in un tampon circular, un vice que le tampon attinge le limite de un registration, nove specimenes comencia a superscriber le specimenes in le comencio del registration.">
+<!ENTITY performanceUI.bufferStatusTooltip "Le analysator de rendimento immagazina specimenes in un buffer circular. Un vice que le buffer attinge le limite pro un registration, nove specimenes comencia a superscriber le specimenes al initio del registration.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
@@ -22,7 +22,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
-<!ENTITY performanceUI.bufferStatusFull "Le tampon is plen. Le specimenes le plus ancian es ora superscribite.">
+<!ENTITY performanceUI.bufferStatusFull "Le buffer es plen. Le specimenes le plus ancian essera ora superscribite.">
 
 <!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while

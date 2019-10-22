@@ -42,8 +42,8 @@ cookie-tab-title = Cookies de traciamento inter sitos
 cookie-tab-content = Iste cookies te seque de sito a sito pro colliger datos sur lo que tu face in linea. Illos es ponite per tertie partes como companias de publicitate e de analyse de datos. Blocar le cookies de traciamento inter sitos reduce le numero de avisos publicitari que te seque. <a data-l10n-name="learn-more-link">Lege plus</a>
 tracker-tab-title = Contento traciator
 tracker-tab-description = Sitos web pote cargar avisos publicitari externe, videos e altere contento con codice de traciamento. Blocar contento traciator pote adjutar sitos a cargar se plus rapidemente, ma alcun buttones, formularios e campos de accesso pote non functionar. <a data-l10n-name="learn-more-link">Saper plus</a>
-fingerprinter-tab-title = Dactylogrammatores
-fingerprinter-tab-content = Le detectores de impression digital collige parametros de tu navigator e computator pro crear un profilo de te. Usante iste impression digital, illos pote traciar te inter differente sitos web. <a data-l10n-name="learn-more-link">Lege plus</a>
+fingerprinter-tab-title = Traciatores de impression digital
+fingerprinter-tab-content = Le traciatores de impression digital collige parametros de tu navigator e computator pro crear un profilo de te. Usante iste impression digital, illos pote traciar te inter differente sitos web. <a data-l10n-name="learn-more-link">Lege plus</a>
 cryptominer-tab-title = Cryptominatores
 cryptominer-tab-content = Cryptominatores usa potentia de calculo de tu systema pro cavar moneta digital. Scripts del minatores occulte exhauri tu batteria, relenta tu computator e pote accrescer le factura de tu energia.<a data-l10n-name="learn-more-link">Saper plus</a>
 lockwise-title = Non oblida plus tu contrasignos
@@ -141,11 +141,11 @@ bar-tooltip-tracker =
            *[other] { $count } contento traciator ({ $percentage }%)
         }
 bar-tooltip-fingerprinter =
-    .title = Dactylogrammatores
+    .title = Traciatores de impression digital
     .aria-label =
         { $count ->
-            [one] { $count } dactylogrammator ({ $percentage }%)
-           *[other] { $count } dactylogrammatores ({ $percentage }%)
+            [one] { $count } traciator de impression digital ({ $percentage }%)
+           *[other] { $count } traciatores de impression digital ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
     .title = Cryptominatores
