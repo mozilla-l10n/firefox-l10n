@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Biltegiratzea
 site-data-column-last-used =
     .label = Azkenekoz erabilia
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (fitxategi lokala)
 site-data-remove-selected =
     .label = Kendu hautatutakoak
     .accesskey = K
@@ -28,11 +30,6 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Gorde aldaketak
     .accesskey = G
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (iraunkorra)
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")

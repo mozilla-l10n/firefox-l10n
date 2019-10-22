@@ -45,9 +45,6 @@ newtab-topsites-save-button = Gorde
 newtab-topsites-preview-button = Aurrebista
 newtab-topsites-add-button = Gehitu
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Ziur zaude orri honen agerpen guztiak ezabatu nahi dituzula historiatik?
@@ -83,14 +80,18 @@ newtab-menu-delete-history = Ezabatu historiatik
 newtab-menu-save-to-pocket = Gorde { -pocket-brand-name }-en
 newtab-menu-delete-pocket = Ezabatu { -pocket-brand-name }-etik
 newtab-menu-archive-pocket = Artxibatu { -pocket-brand-name }-en
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Eginda
+newtab-privacy-modal-header = Zure pribatutasuna garrantzitsua da.
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Kendu laster-marka
 # Bookmark is a verb here.
 newtab-menu-bookmark = Egin laster-marka
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -120,10 +121,6 @@ newtab-label-removed-bookmark = Laster-marka kenduta
 newtab-label-recommended = Joerak
 newtab-label-saved = { -pocket-brand-name }-en gordeta
 newtab-label-download = Deskargatuta
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
