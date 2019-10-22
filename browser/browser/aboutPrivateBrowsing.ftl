@@ -26,3 +26,15 @@ about-private-browsing-not-private = شما در حال حاضر در پنجره
 content-blocking-title = مسدود کردن محتوا
 content-blocking-description = برخی وب‌سایت‌ها از ردیاب‌هایی استفاده می‌کنند که می‌توانند بر فعالیت‌های شما در تمام اینترنت نظارت کنند. در پنجره ناشناس، مسدود کردن محتوای { -brand-short-name }، به صورت خودکار ردیاب‌های بسیاری که می‌توانند درمورد نحوه‌ی مرور شما اطلاعات جمع‌آوری کنند را مسدود می‌کند.
 about-private-browsing-info-description = { -brand-short-name } جست‌وجوها و تاریخچه مرور شما را هنگام خروج از برنامه یا بستن تمام پنجره‌ها و زبانه‌های ناشناس پاک می‌کند. اینکار شما را در وب‌سایت‌ها یا فراهم‌کنندهٔ اینترنتتان ناشناس نمی‌کند، اما مخفی کردن فعالیت‌های آنلاین شما را برای هرکس دیگری که از این رایانه استفاده می‌کند را ساده‌تر می‌کند.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } موتور جست‌وجو پیش‌فرض شما در پنجره‌های ناشناس است
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] برای انتخاب یک موتور جست‌وجو دیگر به <a data-l10n-name="link-options">گزینه‌ها</a> بروید
+       *[other] برای انتخاب یک موتور جست‌وجو دیگر به <a data-l10n-name="link-options">ترجیحات</a> بروید
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = بستن

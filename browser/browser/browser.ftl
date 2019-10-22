@@ -25,6 +25,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = باز کردن تابلو پیام‌ها
 urlbar-geolocation-notification-anchor =
     .tooltiptext = باز کردن تابلوی درخواستِ مکان
+urlbar-storage-access-anchor =
+    .tooltiptext = باز کردن تابلوی مجوز فعالیت مرور
 urlbar-translate-notification-anchor =
     .tooltiptext = ترجمه این صفحه
 urlbar-web-rtc-share-screen-notification-anchor =
@@ -45,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = ذخیره اطلاعات به صورت ذخیره دائمی
 urlbar-addons-notification-anchor =
     .tooltiptext = باز کردن تابلو پیام‌های نصب افزودنی‌ها
+urlbar-tip-help-icon =
+    .title = کمک بگیرید
 
 ## Page Action Context Menu
 
@@ -66,6 +70,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = این بار، جست‌وجو با:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -78,3 +85,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = تنظیم به عنوان موتور جست‌وجو پیش‌فرض
     .accesskey = پ
+search-one-offs-context-set-as-default-private =
+    .label = تنظیم به عنوان موتور جست‌وجو پیش‌فرض در پنجره‌های ناشناس
+    .accesskey = P
