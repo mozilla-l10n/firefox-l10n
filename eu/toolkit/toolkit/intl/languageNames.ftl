@@ -188,6 +188,7 @@ language-name-tlh = Klingonera
 language-name-tn = Tswanaera
 language-name-to = Tongera
 language-name-tr = Turkiera
+language-name-trs = Triqui
 language-name-ts = Tsongaera
 language-name-tt = Tatariera
 language-name-tw = Twia

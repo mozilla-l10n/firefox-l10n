@@ -132,8 +132,11 @@ media-device-format = Formatua
 media-device-channels = Kanalak
 media-device-rate = Emaria
 media-device-latency = Atzerapena
+media-capabilities-title = Multimedia-gaitasunak
+# List all the entries of the database.
+media-capabilities-enumerate = Zerrendatu datu-basea
 
-##
+
 
 intl-title = Internazionalizazioa eta lokalizazioa
 intl-app-title = Aplikazioaren ezarpenak

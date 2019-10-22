@@ -298,6 +298,8 @@ addon-options-button =
 
 report-addon-button = Salatu
 remove-addon-button = Kendu
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Ezin da kendu <a data-l10n-name="link">Zergatik?</a>
 disable-addon-button = Desgaitu
 enable-addon-button = Gaitu
 expand-addon-button = Aukera gehiago

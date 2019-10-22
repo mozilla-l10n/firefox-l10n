@@ -9,6 +9,7 @@ ok = Ados
 http = HTTP
 sockets = Socketak
 dns = DNS
+dnssuffix = DNS aurrizkia
 websockets = WebSocketak
 refresh = Berritu
 auto-refresh = Berritu automatikoki 3 segundoro

@@ -457,7 +457,6 @@ choose-bookmark =
 
 home-prefs-content-header = Firefoxen hasiera-orriko edukia
 home-prefs-content-description = Aukeratu zein eduki nahi duzun Firefoxen hasiera-orriko pantailan.
-home-prefs-content-discovery-description = Firefoxen hasierako edukien aurkikuntzaren bidez kalitate altuko artikulu esanguratsuak aurki ditzakezu webean.
 home-prefs-search-header =
     .label = Web bilaketa
 home-prefs-topsites-header =
@@ -505,6 +504,7 @@ search-bar-shown =
     .label = Gehitu bilaketa-barra tresna-barran
 search-engine-default-header = Bilaketa-motor lehenetsia
 search-engine-default-desc = Aukeratu helbide- eta bilaketa-barran erabili beharreko bilaketa-motor lehenetsia.
+search-suggestions-header = Bilaketa-iradokizunak
 search-suggestions-option =
     .label = Hornitu bilaketa-iradokizunak
     .accesskey = b

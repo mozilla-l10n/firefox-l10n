@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Gorde datuak biltegiratze iraunkorrean
 urlbar-addons-notification-anchor =
     .tooltiptext = Ireki gehigarrien instalazio-mezuen panela
+urlbar-tip-help-icon =
+    .title = Lortu laguntza
 
 ## Page Action Context Menu
 

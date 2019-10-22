@@ -8,6 +8,8 @@
 
 <!ENTITY learnMore "Argibide gehiago…">
 
+<!ENTITY learnMoreNoEllipsis "Argibide gehiago">
+
 <!ENTITY defaultButton.label "Ados!">
 <!ENTITY defaultButton.accesskey "A">
 
