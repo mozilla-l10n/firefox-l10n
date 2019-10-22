@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY event.title.label                  "Tinuk' Ruch'akul" >
 
+<!ENTITY event.dialog.keepDurationButton.accesskey "K">
 
 <!ENTITY newevent.from.label                "Richin" >
 <!ENTITY newevent.to.label                  "Chi re" >
@@ -180,3 +182,5 @@
 <!-- Timezone dialog -->
 
 <!-- Read-Only dialog -->
+
+<!-- Summary dialog -->
