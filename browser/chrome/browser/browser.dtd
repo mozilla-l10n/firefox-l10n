@@ -1065,7 +1065,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; 업데이트 내려받기">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; 의 새 복사본 다운로드">
 <!ENTITY updateUnsupported.panelUI.label "추가 업데이트를 수행할 수 없습니다">
-<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; 업데이트를 위해 재시작">
+<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; 업데이트를 위해 다시 시작">
 
 <!ENTITY newTabControlled.header.message "새 탭이 변경되었습니다.">
 <!ENTITY newTabControlled.keepButton.label "변경 사항 유지">

@@ -54,10 +54,10 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = 이 기능을 켜려면 { -brand-short-name }를 반드시 재시작해야 합니다.
-feature-disable-requires-restart = 이 기능을 끄려면 { -brand-short-name }를 반드시 재시작해야 힙니다.
-should-restart-title = { -brand-short-name } 재시작
-should-restart-ok = 지금 { -brand-short-name } 재시작
+feature-enable-requires-restart = 이 기능을 켜려면 { -brand-short-name }를 반드시 다시 시작해야 합니다.
+feature-disable-requires-restart = 이 기능을 끄려면 { -brand-short-name }를 반드시 다시 시작해야 합니다.
+should-restart-title = { -brand-short-name } 다시 시작
+should-restart-ok = 지금 { -brand-short-name } 다시 시작
 cancel-no-restart-button = 취소
 restart-later = 나중에 다시 시작
 
@@ -195,8 +195,8 @@ choose-browser-language-description = { -brand-short-name }가 메뉴나 메시�
 manage-browser-languages-button =
     .label = 대체 설정…
     .accesskey = I
-confirm-browser-language-change-description = 변경 내용 적용을 위해 { -brand-short-name } 재시작
-confirm-browser-language-change-button = 적용하고 재시작
+confirm-browser-language-change-description = 변경 내용 적용을 위해 { -brand-short-name } 다시 시작
+confirm-browser-language-change-button = 적용하고 다시 시작
 translate-web-pages =
     .label = 웹 콘텐츠 번역하기
     .accesskey = T
@@ -517,7 +517,7 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings = 방문 기록, 북마크 및 탭 제안에 대한 설정 변경
 search-suggestions-cant-show = 방문 기록을 기억하지 않도록 { -brand-short-name }를 구성했기 때문에 검색 제안이 주소창 결과에 표시되지 않습니다.
 search-one-click-header = 원클릭 검색 사이트
-search-one-click-desc = 단어 입력을 시작했을 때 주소바와 검색바 아래에 나타날 대체 검색 엔진을 선택하세요.
+search-one-click-desc = 키워드 입력을 시작했을 때 주소 표시줄과 검색 표시줄 아래에 나타날 대체 검색 엔진을 선택하십시오.
 search-choose-engine-column =
     .label = 검색 사이트
 search-choose-keyword-column =
@@ -953,7 +953,7 @@ permissions-notification-settings =
     .accesskey = n
 permissions-notification-link = 더 알아보기
 permissions-notification-pause =
-    .label = { -brand-short-name }를 재시작 할 때 까지 알림을 멈춤
+    .label = { -brand-short-name }가 다시 시작될 때까지 알림을 일시 중지
     .accesskey = n
 permissions-block-autoplay-media2 =
     .label = 웹사이트가 자동으로 소리를 재생하는 것 차단

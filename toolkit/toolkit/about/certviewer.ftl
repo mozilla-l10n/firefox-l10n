@@ -15,6 +15,7 @@ certificate-viewer-algorithm = 알고리즘
 certificate-viewer-certificate-authority = 인증 기관
 certificate-viewer-cipher-suite = 암호 그룹
 certificate-viewer-common-name = 일반 이름
+certificate-viewer-email-address = 이메일 주소
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = 법인 국가
 certificate-viewer-country = 국가
