@@ -28,6 +28,9 @@
 <!ENTITY  onboard_start_button_browser "براؤزنگ شروع کریں">
 <!ENTITY firstrun_button_notnow "ابھی نہیں">
 <!ENTITY firstrun_button_next "اگلا">
+<!ENTITY firstrun_signup_button "سائن اپ کریں">
+
+<!ENTITY firstrun_signin_button2 "سائن ان کریں">
 
 <!ENTITY firstrun_tabqueue_title "روابط">
 
@@ -66,6 +69,7 @@
 <!ENTITY  crash_restart_label "&brandShortName; پھر شروع کریں">
 <!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
      Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_negative_button_text "نظر انداز کریں">
 
 <!ENTITY url_bar_default_text2 "پتہ تلاش یا داخل کریں">
 
@@ -583,7 +587,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_keyword "کلیدی لفظ">
 <!ENTITY bookmark_select_folder "پوشہ کو منتخب کریں">
 
-
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 <!ENTITY site_settings_title3       "سائٹ سیٹنگیں">
@@ -860,6 +863,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "آف لائن دستیاب">
 <!ENTITY helper_triple_readerview_open_message "نشانی پڑھنے والا شہ کا نظارہ کریں تاکہ آفلائین پڑھ سکیں۔">
 <!ENTITY helper_triple_readerview_open_button "نشانیوں میں اضافہ کریں">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signup_button "سائن اپ کریں">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "سائن ان کریں۔">
+
+<!ENTITY activity_stream_signin_button "سائن ان کریں">
 
 <!ENTITY activity_stream_topsites "بہترین سائٹیں">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
