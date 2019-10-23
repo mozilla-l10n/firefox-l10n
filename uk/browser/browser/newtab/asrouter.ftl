@@ -106,7 +106,7 @@ cfr-whatsnew-tracking-blocked-title =
         [few] Заблоковані елементи стеження
        *[many] Заблокованих елементів стеження
     }
-cfr-whatsnew-tracking-blocked-subtitle = Створено { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-subtitle = Починаючи з { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Переглянути звіт
 cfr-whatsnew-lockwise-backup-title = Резервне копіювання паролів
 cfr-whatsnew-lockwise-backup-body = Тепер генеруйте надійні паролі, до яких ви можете отримати доступ де завгодно.

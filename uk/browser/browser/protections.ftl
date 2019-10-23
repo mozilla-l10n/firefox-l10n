@@ -23,15 +23,9 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Рівень захисту - <b>Стандартний</b>
-protection-header-details-strict = Рівень захисту - <b>Суворий</b>
-protection-header-details-custom = Рівень захисту - <b>Власний</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Рівень захисту - <b>Стандартний</b>
     .title = Перейти до налаштувань приватності
-protection-report-header-details-strict = Рівень захисту - <b>Суворий</b>
+protection-report-header-details-strict = Рівень захисту - <b>Надійний</b>
     .title = Перейти до налаштувань приватності
 protection-report-header-details-custom = Рівень захисту - <b>Власний</b>
     .title = Перейти до налаштувань приватності
@@ -58,7 +52,6 @@ lockwise-title = Ніколи більше не забувайте пароль
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } безпечно зберігає ваші паролі в браузері.
 lockwise-header-content-logged-in = Безпечно зберігайте й синхронізуйте свої паролі на всіх пристроях.
-about-logins-view-logins-button = Перегляд записів
 protection-report-view-logins-button = Перегляд записів
     .title = Перейти до збережених паролів
 lockwise-no-logins-content = Отримайте додаток <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>, щоб мати свої паролі всюди з собою.
@@ -126,10 +119,6 @@ password-warning =
         [few] Збережені паролі могли бути викриті у витоку даних. Змініть ці паролі для кращого захисту онлайн. <a data-l10n-name="lockwise-link">Переглянути збережені паролі</a>
        *[many] Збережених паролів могло бути викрито у витоку даних. Змініть ці паролі для кращого захисту онлайн. <a data-l10n-name="lockwise-link">Переглянути збережені паролі</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Перейти до налаштувань приватності
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Перейти до збережених паролів
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

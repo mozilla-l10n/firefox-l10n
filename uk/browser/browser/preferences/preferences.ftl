@@ -512,7 +512,6 @@ search-bar-shown =
     .label = Додати панель пошуку на панель інструментів
 search-engine-default-header = Типовий засіб пошуку
 search-engine-default-desc = Оберіть типовий пошуковий засіб для використання в панелях адреси і пошуку.
-search-engine-default-private-desc = Оберіть типовий засіб пошуку для використання в приватному режимі.
 search-separate-default-engine =
     .label = Використовувати цей засіб пошуку в приватному режимі
     .accesskey = з
@@ -865,13 +864,13 @@ content-blocking-learn-more = Докладніше
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 content-blocking-setting-standard =
-    .label = Звичайне
+    .label = Звичайний
     .accesskey = ч
 content-blocking-setting-strict =
-    .label = Суворе
-    .accesskey = в
+    .label = Надійний
+    .accesskey = й
 content-blocking-setting-custom =
-    .label = Власне
+    .label = Власний
     .accesskey = л
 content-blocking-standard-desc = Збалансовано для захисту і швидкодії. Дозволяє деякі елементи стеження для належної роботи веб-сайтів.
 content-blocking-strict-description = Сильніший захист. Може пошкодити роботу деяких сайтів.
@@ -884,13 +883,13 @@ content-blocking-third-party-cookies = Сторонні куки стеженн�
 
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 enhanced-tracking-protection-setting-standard =
-    .label = Звичайне
+    .label = Звичайний
     .accesskey = ч
 enhanced-tracking-protection-setting-strict =
-    .label = Суворе
-    .accesskey = в
+    .label = Надійний
+    .accesskey = й
 enhanced-tracking-protection-setting-custom =
-    .label = Власне
+    .label = Власний
     .accesskey = л
 
 
