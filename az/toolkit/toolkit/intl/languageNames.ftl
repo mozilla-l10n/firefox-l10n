@@ -188,6 +188,7 @@ language-name-tlh = Klinqonca
 language-name-tn = Tsvana
 language-name-to = Tonqa
 language-name-tr = Türkcə
+language-name-trs = Triqui
 language-name-ts = Tsonqa
 language-name-tt = Tatarca
 language-name-tw = Tvi

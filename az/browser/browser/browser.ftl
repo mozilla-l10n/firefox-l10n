@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Qalıcı Yaddaşda məlumat saxlama
 urlbar-addons-notification-anchor =
     .tooltiptext = Əlavə quraşdırma mesaj panelini aç
+urlbar-tip-help-icon =
+    .title = Köməl alın
 
 ## Page Action Context Menu
 
@@ -68,6 +70,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Bu dəfə bununla axtarın:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -80,3 +85,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Əsas axtarış mühərriki et
     .accesskey = m
+search-one-offs-context-set-as-default-private =
+    .label = Məxfi pəncərələr üçün əsas axtarış mühərriki olarak qur
+    .accesskey = M
