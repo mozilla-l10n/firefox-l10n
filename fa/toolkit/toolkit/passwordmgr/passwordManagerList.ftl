@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = آیا مطمئنید که می‌خواهید تمامی گذرواژه‌هایتان را حذف کنید؟
 remove-all-passwords-title = حذف همهٔ گذرواژه‌ها
 no-master-password-prompt = آیا مطمئنید که می‌خواهید گذرواژه‌هایتان نشان داده شوند؟
+auto-fill-logins-and-passwords =
+    .label = پُر کردن خودکار نام‌های کاربری و گذرواژه‌ها

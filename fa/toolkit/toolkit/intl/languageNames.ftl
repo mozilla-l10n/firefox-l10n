@@ -188,6 +188,7 @@ language-name-tlh = کلینگون
 language-name-tn = تسوانایی
 language-name-to = تونگایی (جزایر تونگا)
 language-name-tr = ترکی استانبولی
+language-name-trs = تریکی
 language-name-ts = تسونگایی
 language-name-tt = تاتاری
 language-name-tw = توی‌یایی
