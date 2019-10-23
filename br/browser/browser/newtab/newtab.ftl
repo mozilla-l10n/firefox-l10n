@@ -45,9 +45,6 @@ newtab-topsites-save-button = Enrollañ
 newtab-topsites-preview-button = Alberz
 newtab-topsites-add-button = Ouzhpennañ
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Sur oc'h e fell deoc'h dilemel kement eriol eus ar bajenn-mañ diouzh ho roll istor?
@@ -83,14 +80,17 @@ newtab-menu-delete-history = Dilemel eus ar roll istor
 newtab-menu-save-to-pocket = Enrollañ etrezek { -pocket-brand-name }
 newtab-menu-delete-pocket = Dilemel eus { -pocket-brand-name }
 newtab-menu-archive-pocket = Diellaouiñ e { -pocket-brand-name }
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Graet
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Dilemel ar sined
 # Bookmark is a verb here.
 newtab-menu-bookmark = Sined
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -120,10 +120,6 @@ newtab-label-removed-bookmark = Sined dilamet
 newtab-label-recommended = Brudet
 newtab-label-saved = Enrollet e { -pocket-brand-name }
 newtab-label-download = Pellgarget
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.

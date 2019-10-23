@@ -155,3 +155,8 @@ cfr-doorhanger-fingerprinters-heading = Stanket eo bet un dinoerien roudoù nive
 cfr-doorhanger-fingerprinters-description = Pouezus eo ho puhez prevez. { -brand-short-name } a stank an dinoerien roudoù niverel, a zastum titouroù a c'hall servij da adanavezout ac'hanoc'h hag heuliañ ac'hanoc'h.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } en deus stanket ur c'hriptogleuzier war ar bajenn-mañ
 cfr-doorhanger-cryptominers-description = Pouezus eo ho puhez prevez. { -brand-short-name } a stank kriptogleuzierien, a c'hall implij galloud jediñ ho reizhiad evit mengleuziañ arc'hant niverel.
+
+## Enhanced Tracking Protection Milestones
+
+cfr-doorhanger-milestone-ok-button = Gwelet pep tra
+    .accesskey = G

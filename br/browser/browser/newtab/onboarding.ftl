@@ -28,10 +28,15 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Postel talvoudek azgoulennet
 onboarding-join-form-legal = En ur genderc'hel ec'h asantit d'an <a data-l10n-name="terms">divizoù arver</a> ha d'ar <a data-l10n-name="privacy">reolenn a-fet buhez prevez</a>.
 onboarding-join-form-continue = Kenderc'hel
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Kennaskañ
 onboarding-start-browsing-button-label = Stagañ da verdeiñ
 onboarding-cards-dismiss =
     .title = Argas
     .aria-label = Argas
+
+## Welcome full page string
+
 
 ## Firefox Sync modal dialog strings.
 

@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Kadavin roadennoù er c'hadaviñ diastal
 urlbar-addons-notification-anchor =
     .tooltiptext = Digeriñ penel kemennadenn staliadur an askouezh
+urlbar-tip-help-icon =
+    .title = Kaout skoazell
 
 ## Page Action Context Menu
 
