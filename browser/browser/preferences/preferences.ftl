@@ -511,7 +511,8 @@ search-bar-shown =
 search-engine-default-header = Standard-søgetjeneste
 search-engine-default-desc = Vælg den søgetjeneste, du vil bruge i adressefeltet og søgefeltet.
 
-search-engine-default-private-desc = Vælg den søgetjeneste, du vil bruge i private vinduer.
+search-engine-default-desc-2 = Dette er din standard-søgetjeneste i adressefeltet og søgefeltet. Du kan altid skifte den ud med en anden.
+search-engine-default-private-desc-2 = Vælg en anden søgetjeneste til brug i private vinduer.
 search-separate-default-engine =
     .label = Brug denne søgetjeneste i private vinduer.
     .accesskey = B
