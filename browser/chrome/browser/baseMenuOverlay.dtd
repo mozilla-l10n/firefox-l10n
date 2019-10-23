@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Kömək"> 
 <!ENTITY helpMenuWin.accesskey    "K">
+
 <!ENTITY aboutProduct2.label      "&brandShorterName; Haqqında">
 <!ENTITY aboutProduct2.accesskey  "H">
 <!ENTITY productHelp2.label       "&brandShorterName; Kömək">
@@ -27,9 +28,6 @@
 <!ENTITY helpSafeMode.accesskey   "Y">
 <!ENTITY helpSafeMode.stop.label       "Əlavələri aktiv edərək Yenidən başla">
 <!ENTITY helpSafeMode.stop.accesskey   "Y">
-
-<!ENTITY healthReport2.label      "&brandShorterName; Sağlamlıq Hesabatı">
-<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Problemlərin aradan qaldırılması üzrə məlumatlar">
 <!ENTITY helpTroubleshootingInfo.accesskey  "P">
@@ -52,3 +50,5 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Hamısını göstər">
+
+<!ENTITY touchBarCmdMac.label           "Touch Bar-ı fərdiləşdir…">

@@ -33,6 +33,7 @@ printpreview-of =
     .value = ->
 printpreview-custom-prompt =
     .value = Fərdi Ölçü…
+printpreview-custom-scale-prompt-title = Fərdi miqyas
 printpreview-page-setup =
     .label = Səhifə nizamı…
     .accesskey = a

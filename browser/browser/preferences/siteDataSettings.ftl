@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Saxlama yeri
 site-data-column-last-used =
     .label = Son istifadə edilmə
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (lokal fayl)
 site-data-remove-selected =
     .label = Seçiləni Sil
     .accesskey = S

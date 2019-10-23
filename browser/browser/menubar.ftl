@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Tam ekran
     .accesskey = T
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Bütün vərəqləri göstər
@@ -212,12 +212,21 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = { -sync-brand-short-name } hesabına daxil ol…
     .accesskey = Y
+menu-tools-fxa-sign-in =
+    .label = { -brand-product-name } giriş…
+    .accesskey = g
+menu-tools-turn-on-sync =
+    .label = { -sync-brand-short-name } aktivləşdir…
+    .accesskey = v
 menu-tools-sync-now =
     .label = İndi Sinxronizə et
     .accesskey = S
 menu-tools-sync-re-auth =
     .label = { -sync-brand-short-name } yenidən qoşul…
     .accesskey = q
+menu-tools-fxa-re-auth =
+    .label = { -brand-product-name } ilə yenidən bağlan…
+    .accesskey = y
 menu-tools-web-developer =
     .label = Web Tərtibatçısı
     .accesskey = W
