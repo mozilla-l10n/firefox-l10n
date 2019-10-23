@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Sinxron Vərəqlər
 synced-tabs-sidebar-noclients-subtitle = Digər cihazlarınızda olan vərəqləri burada görmək istərdiniz?
 synced-tabs-sidebar-notsignedin = Digər cihazlarınızdakı vərəqlərin siyahısını görmək üçün daxil olun.
+synced-tabs-sidebar-intro = Digər cihazlarınızdakı vərəqlərin siyahısını görün.
 synced-tabs-sidebar-unverified = Hesabınız təsdiqlənməlidir.
 synced-tabs-sidebar-notabs = Açıq vərəq yoxdur
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name } nizamlamalarını aç
@@ -40,3 +41,4 @@ synced-tabs-context-sync-now =
     .label = İndi Sinxronizə et
     .accesskey = S
 fxa-sign-in = { -sync-brand-short-name } daxil ol
+turn-on-sync = { -sync-brand-short-name } aktivləşdir
