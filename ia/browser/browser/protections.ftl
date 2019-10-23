@@ -74,8 +74,8 @@ lockwise-sync-status =
 lockwise-sync-not-syncing-devices = Nulle synchronisation a altere apparatos
 monitor-title = Reguardar violationes de datos
 monitor-link = Como illo functiona
-monitor-header-content-no-account = Discoperi { -monitor-brand-name } si tu ha essite parte de un note violation de datos e recipe avisos re nove violationes.
-monitor-header-content-signed-in = { -monitor-brand-name } te adverti si tu information ha apparite in un note violation de datos
+monitor-header-content-no-account = Consulta { -monitor-brand-name } pro vider si tu ha essite parte de un violation cognoscite de datos e reciper avisos sur nove violationes.
+monitor-header-content-signed-in = { -monitor-brand-name } te adverti si tu information ha apparite in un violation cognoscite de datos.
 monitor-sign-up = Inscriber te al Avisos de violation
 auto-scan = Automaticamente scandite hodie
 # This string is displayed after a large numeral that indicates the total number
@@ -91,8 +91,8 @@ info-monitored-emails =
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-        [one] Violation de datos note que exponeva tu informationes
-       *[other] Violationes de datos note que exponeva tu informationes
+        [one] violation cognoscite de datos ha exponite tu information
+       *[other] violationes cognoscite de datos ha exponite tu information
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to

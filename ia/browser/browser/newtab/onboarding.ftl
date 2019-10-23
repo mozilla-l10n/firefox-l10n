@@ -82,7 +82,7 @@ onboarding-benefit-privacy-text = Tote lo que nos face honora nostre promissa su
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Porta tu marcapaginas, contrasignos, chronologia, etc. a tote le dispositivos ubi tu usa { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Recipe un notification si tu informationes personal es exponite in un violation de datos note.
+onboarding-benefit-monitor-text = Recipe un notification si tu informationes personal es exponite in un violation de datos cognoscite.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Gere tu contrasignos protegite e portabile.
 
@@ -113,7 +113,7 @@ onboarding-data-sync-text2 = Synchronisa tu marcapaginas, contrasignos, etc. sur
 onboarding-data-sync-button2 = Accede a { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Sta alerte al violationes de datos
 onboarding-firefox-monitor-text = { -monitor-brand-name } controla attentemente si tu email ha apparite in un violation de datos e te avisa si illo es implicate in un nove violation.
-onboarding-firefox-monitor-text2 = { -monitor-brand-name } controla si tu email appareva in note violationes de datos e te avisa subito si illo es implicate in uno nove.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } controla si tu adresse de e-mail ha apparite in violationes cognoscite de datos e te alerta si illo appare in un nove violation.
 onboarding-firefox-monitor-button = Inscriber se al Alertas
 onboarding-browse-privately-title = Naviga privatemente
 onboarding-browse-privately-text = Le navigation private elimina tu chronologia de recerca e navigation e lo mantene secrete pro altere usatores de tu computator.
