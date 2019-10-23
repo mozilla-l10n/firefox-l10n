@@ -491,7 +491,7 @@ home-prefs-highlights-option-saved-to-pocket =
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Snippets
-home-prefs-snippets-description = Atualizações da { -vendor-short-name } e do { -brand-product-name }
+home-prefs-snippets-description = Novidades da { -vendor-short-name } e do { -brand-product-name }
 home-prefs-sections-rows-option =
     .label =
         { $num ->
@@ -508,7 +508,6 @@ search-bar-shown =
     .label = Adicionar a barra de pesquisa na barra de ferramentas
 search-engine-default-header = Mecanismo de pesquisa padrão
 search-engine-default-desc = Escolha o mecanismo de pesquisa padrão usado na barra de endereços e na barra de pesquisa.
-search-engine-default-private-desc = Escolha o mecanismo de pesquisa padrão a ser usado em janelas privativas.
 search-engine-default-desc-2 = Este é seu mecanismo de pesquisa padrão na barra de endereços e na barra de pesquisa. Você pode trocar quando quiser.
 search-engine-default-private-desc-2 = Escolha outro mecanismo de pesquisa padrão a ser usado em janelas privativas.
 search-separate-default-engine =
