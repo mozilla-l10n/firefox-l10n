@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Armazenamento
 site-data-column-last-used =
     .label = Última utilização
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (ficheiro local)
 site-data-remove-selected =
     .label = Remover selecionados
     .accesskey = R
@@ -28,11 +30,6 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Guardar alterações
     .accesskey = a
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value }{ $unit }
-site-usage-persistent = { site-usage-pattern } (persistente)
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")

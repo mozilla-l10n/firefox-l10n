@@ -155,3 +155,16 @@ cfr-doorhanger-fingerprinters-heading = O { -brand-short-name } bloqueou um iden
 cfr-doorhanger-fingerprinters-description = A sua privacidade é importante. O { -brand-short-name } agora bloqueia identificadores, que recolhem partes de informação de identificação exclusiva sobre o seu dispositivo para o monitorizar.
 cfr-doorhanger-cryptominers-heading = O { -brand-short-name } bloqueou um cripto-minerador nesta página
 cfr-doorhanger-cryptominers-description = A sua privacidade é importante. O { -brand-short-name } agora bloqueia os cripto-mineradores, que utilizam o poder de computação do seu sistema para minerar dinheiro digital.
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] { -brand-short-name } bloqueou mais de <b>{ $blockedCount }</b> rastreadores desde { $date }!
+       *[other] { -brand-short-name } bloqueou mais de <b>{ $blockedCount }</b> rastreadores desde { $date }!
+    }
+cfr-doorhanger-milestone-ok-button = Ver tudo
+    .accesskey = V
