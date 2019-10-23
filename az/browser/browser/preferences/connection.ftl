@@ -70,13 +70,8 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = HTTPS üzərindən DNS-i aktivləşdir
     .accesskey = H
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = İlkin halı işlət ({ $url })
-    .accesskey = U
-    .tooltiptext = HTTPS üzərindən DNS almaq üçün ilkin ünvanı işlət
 connection-dns-over-https-url-custom =
     .label = Fərdi
     .accesskey = F
     .tooltiptext = HTTPS üzərindən DNS almaq üçün fərdi ünvanınızı daxil edin
+connection-dns-over-https-custom-label = Fərdi
