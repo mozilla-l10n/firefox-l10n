@@ -81,14 +81,24 @@ cfr-whatsnew-release-notes-link-text = Lezi e nòtte de version
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-ok-button = Ativa { -sync-brand-short-name }
+    .accesskey = A
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Lezilo donde t'eu
+cfr-doorhanger-send-tab-recipe-header = Pòrtite sta riçetta in cuxinn-a
 
 ## Firefox Send
 
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Amia e proteçioin
+    .accesskey = p
 cfr-doorhanger-socialtracking-close-button = Særa
     .accesskey = S
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } o l'à inpedio a 'na ræ sociale de traciate
+
+## Enhanced Tracking Protection Milestones
+
