@@ -21,10 +21,13 @@
 <!ENTITY firstrun_data_message "Az data, çox qənaət">
 <!ENTITY firstrun_data_subtext2 "Şəkilləri söndürərək ziyarət etdiyiniz hər saytda daha az data xərcləyin.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message3 "Əlfəcin, tarixçə və parollarınızı telefonunuza sinxronlaşdırın.">
 <!ENTITY updatednewfirstrun_sync_title "Hesab">
 <!ENTITY firstrun_sync_message2 "Qaldığınız yerdən davam edin.">
 <!ENTITY firstrun_sync_subtext2 "Sync ilə istədiyiniz cihazınızdan &brandShortName; səyyahına saxladığınız əlfəcin, parol və digər şeyləri rahatlıqla tapın.">
 <!ENTITY newfirstrun_sync_subtext "Mobil cihazınızda qeyd etdiklərinizi məxfi və təhlükəsiz şəkildə kompüterinizdəki Firefox ilə sinxronlaşdırın.">
+<!ENTITY firstrun_sendtab_title "Vərəqi Göndər">
+<!ENTITY firstrun_sendtab_message "Telefonunuzdakı vərəqləri ani olaraq kompüterinizə göndərin.">
 <!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; səyyahınızı tam işlətmək üçün hesabınıza daxil olun">
 <!ENTITY firstrun_signin_message "Qoşul, Başla">
 <!ENTITY firstrun_signin_button "Sync-ə Daxil ol">
@@ -33,6 +36,9 @@
 <!ENTITY  onboard_start_button_browser "Səyahətə Başla">
 <!ENTITY firstrun_button_notnow "İndi deyil">
 <!ENTITY firstrun_button_next "İrəli">
+<!ENTITY firstrun_signup_button "Qeyd ol">
+
+<!ENTITY firstrun_signin_button2 "Daxil ol">
 
 <!ENTITY firstrun_tabqueue_title "Keçidlər">
 
@@ -278,6 +284,7 @@
 <!ENTITY pref_cookies_menu "Cookielər">
 <!ENTITY pref_cookies_accept_all "Aktiv">
 <!ENTITY pref_cookies_not_accept_foreign "Aktivdir, 3-cü tərəf xaric">
+<!ENTITY pref_cookies_not_accept_trackers "Aktivdir, izləyici çərəzlər xaric">
 <!ENTITY pref_cookies_disabled "Söndürülüb">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -494,6 +501,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Paylaş">
 <!ENTITY share_title "Paylaş">
 <!ENTITY share_image_failed "Bu şəkli paylaşmaq mümkün olmadı">
+<!ENTITY share_error_toast_message "Bu tətbiq ilə paylaşmaq mümkün olmadı">
 <!ENTITY save_as_pdf "PDF kimi yadda saxla">
 <!ENTITY print "Çap et">
 <!ENTITY view_page_source "Səhifənin qaynağını göstər">
@@ -594,7 +602,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Ünvan">
 <!ENTITY bookmark_edit_keyword "Açar söz">
 <!ENTITY bookmark_select_folder "Qovluq seç">
-
 <!ENTITY bookmark_edit_undo "Geri al">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -874,6 +881,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Oflayn əlçatandır">
 <!ENTITY helper_triple_readerview_open_message "Oxuma Görünüşündəki məqalələri əlfəcinləyin və daha sonra oflayn oxuyun.">
 <!ENTITY helper_triple_readerview_open_button "Əlfəcinlərə Get">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "&brandShortName; səyyahına xoş gəlmisiniz">
+<!ENTITY activity_stream_signin_description "Firefox hesabınız ilə əlfəcin, parol və daha çoxunu sinxronizə etməyə başlayın.">
+<!ENTITY activity_stream_signup_button "Qeyd ol">
+<!ENTITY activity_stream_signin_prompt "Artıq hesabınız var?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Daxil ol.">
+
+<!ENTITY activity_stream_signin_button "Daxil ol">
 
 <!ENTITY activity_stream_topsites "Qabaqcıl Saytlar">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
