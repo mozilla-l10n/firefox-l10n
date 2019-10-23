@@ -9,6 +9,7 @@ ok = 확인
 http = HTTP
 sockets = Sockets
 dns = DNS
+dnssuffix = DNS 접미사
 websockets = WebSockets
 refresh = 새로고침
 auto-refresh = 3초마다 자동 새로고침

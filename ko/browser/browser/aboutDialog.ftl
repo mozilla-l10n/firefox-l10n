@@ -9,7 +9,7 @@ update-checkForUpdatesButton =
     .label = 업데이트 확인
     .accesskey = C
 update-updateButton =
-    .label = { -brand-shorter-name } 업데이트를 위해 재시작
+    .label = { -brand-shorter-name } 업데이트를 위해 다시 시작
     .accesskey = R
 update-checkingForUpdates = 업데이트를 확인하고 있습니다…
 update-downloading = <img data-l10n-name="icon"/>업데이트 다운로드 중 — <label data-l10n-name="download-status"/>
@@ -21,7 +21,7 @@ update-noUpdatesFound = { -brand-short-name }가 최신 버전입니다.
 update-otherInstanceHandlingUpdates = 다른 { -brand-short-name }에서 이미 업데이트를 하고 있음
 update-manual = 업데이트 위치 <label data-l10n-name="manual-link"/>
 update-unsupported = 이 시스템에서는 더 이상 업데이트를 할 수 없습니다.<label data-l10n-name="unsupported-link">더 알아보기</label>
-update-restarting = 재시작중…
+update-restarting = 다시 시작하는 중…
 channel-description = 현재 사용 중인 업데이트 채널은 <label data-l10n-name="current-channel"></label> 입니다.
 warningDesc-version = { -brand-short-name }는 실험적 버전으로서 불안할 수 있습니다.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>는  <label data-l10n-name="community-exp-creditsLink">모든 사람이 공공 자원으로서 사용하는 </label> 열린 웹을 만들고자 하는 글로벌 커뮤니티입니다.

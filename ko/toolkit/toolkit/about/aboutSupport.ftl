@@ -115,7 +115,7 @@ sandbox-sys-call-proc-type = 프로세스 타입
 sandbox-sys-call-number = 시스템 콜
 sandbox-sys-call-args = 인자
 safe-mode-title = 안전 모드 시도
-restart-in-safe-mode-label = 부가 기능 없이 재시작…
+restart-in-safe-mode-label = 부가기능을 비활성화하고 다시 시작…
 
 ## Media titles
 
@@ -134,12 +134,12 @@ media-device-preferred = 선호
 media-device-format = 형식
 media-device-channels = 채널
 media-device-rate = 비율
-media-device-latency = 지연
+media-device-latency = 지연 시간
 media-capabilities-title = 미디어 기능
 # List all the entries of the database.
 media-capabilities-enumerate = 데이터베이스 열거
 
-##
+
 
 intl-title = 국제화 & 현지화
 intl-app-title = 응용 프로그램 설정
@@ -228,7 +228,7 @@ d3d11video-crash-guard = D3D11 동영상 디코더
 d3d9video-crash-buard = D3D9 동영상 디코더
 d3d9video-crash-guard = D3D9 동영상 디코더
 glcontext-crash-guard = OpenGL
-reset-on-next-restart = 다음 재시작에 초기화
+reset-on-next-restart = 다음에 다시 시작할 때 초기화
 gpu-process-kill-button = GPU 프로세스 종료
 gpu-device-reset = 기기 초기화
 gpu-device-reset-button = 기기 초기화 시작
@@ -237,8 +237,8 @@ content-uses-tiling = 타일링(콘텐츠) 사용
 off-main-thread-paint-enabled = 주 쓰레드 페인팅 끄기 활성화됨
 off-main-thread-paint-worker-count = 주 쓰레드 페인팅 워커 카운트 끔
 target-frame-rate = 목표 프레임 레이트
-min-lib-versions = 이용 중인 최소 버젼
-loaded-lib-versions = 이용 중 버전
+min-lib-versions = 요구되는 최소 버전
+loaded-lib-versions = 사용 중인 버전
 has-seccomp-bpf = Seccomp-BPF (시스템 호출 필터링)
 has-seccomp-tsync = Seccomp 쓰레드 동기화
 has-user-namespaces = 사용자 네임스페이스
@@ -267,7 +267,7 @@ multi-process-status-6 = 지원되지 않는 텍스트 입력으로 인한 비�
 multi-process-status-7 = 부가기능에 의해서 비활성화
 multi-process-status-8 = 강제로 비활성화됨
 multi-process-status-unknown = 알 수 없는 상태
-async-pan-zoom = 비동기 팬/확대
+async-pan-zoom = 비동기 팬 및 확대/축소
 apz-none = 없음
 wheel-enabled = 휠 입력 활성화됨
 touch-enabled = 터치 입력 활성화됨
