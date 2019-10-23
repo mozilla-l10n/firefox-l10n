@@ -86,7 +86,7 @@ cfr-whatsnew-button =
     .tooltiptext = K'ak'a' Rutzijol
 cfr-whatsnew-panel-header = Achike natzijoj
 cfr-whatsnew-release-notes-link-text = Tasik'ij ri k'ak'a' rutzijol
-cfr-whatsnew-fx70-title = { -brand-short-name } wakami tato' ri awichinanem
+cfr-whatsnew-fx70-title = { -brand-short-name } wakami nuya' rejqalem ri awichinanem
 cfr-whatsnew-fx70-body =
     Ri ruk'isib'äl k'exoj nrutzilaj ri Chajinïk chuwäch Ojqanem chuqa' nub'än
     chi man k'ayew ta ye'atz'ük ütz ewan taq tzij kichin ri taq ruxaq.
@@ -155,3 +155,6 @@ cfr-doorhanger-fingerprinters-heading = { -brand-short-name } xuq'ät jun tz'et�
 cfr-doorhanger-fingerprinters-description = Nïm ri awichinanem. { -brand-short-name } wakami yeruq'ät ri tz'etöy retal ruwi' q'ab'aj, ri yekimöl kich'akulal retamab'al retal winäq chi rij ri rokisab'al richin nrojqaj.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } xuq'ät jun ajkriptomin pa re ruxaq re'
 cfr-doorhanger-cryptominers-description = Nïm ri awichinanem. { -brand-short-name } wakami yeruq'ät ri ajkriptomin, nikokisaj ruchuqa' rukematz'ib'il aq'inoj richin nrelesaj kematz'ib'il pwäq.
+
+## Enhanced Tracking Protection Milestones
+
