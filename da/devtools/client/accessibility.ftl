@@ -37,8 +37,6 @@ accessibility-text-label-issue-figure = Figurer og eventuelle billedtekster bør
 
 accessibility-text-label-issue-fieldset = <code>fieldset</code>-elementer skal markeres. <a>Læs mere</a>
 
-accessibility-text-label-issue-fieldset-legend = Brug elementet <code>legend</code> til at føje etiketter til <span>fieldset</span>-elementer. <a>Læs mere</a>
-
 accessibility-text-label-issue-fieldset-legend2 = Brug elementet <code>legend</code> til at føje etiketter til <span>fieldset</span>. <a>Læs mere</a>
 
 accessibility-text-label-issue-form = Formular-elementer skal markeres. <a>Læs mere</a>
@@ -58,8 +56,6 @@ accessibility-text-label-issue-iframe = Brug attributten <code>title</code> til 
 accessibility-text-label-issue-image = Indhold med billeder skal markeres. <a>Læs mere</a>
 
 accessibility-text-label-issue-interactive = Interaktive elementer skal markeres. <a>Læs mere</a>
-
-accessibility-text-label-issue-optgroup-label = Brug attributten <code>label</code> til at markere <span>optgroup</span>-elementer. <a>Læs mere</a>
 
 accessibility-text-label-issue-optgroup-label2 = Brug attributten <code>label</code> til at markere <span>optgroup</span>. <a>Læs mere</a>
 
