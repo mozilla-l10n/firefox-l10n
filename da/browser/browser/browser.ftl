@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Gem data i vedvarende lager
 urlbar-addons-notification-anchor =
     .tooltiptext = Åbn panelet for beskeder om installering af tilføjelser
+urlbar-tip-help-icon =
+    .title = Få hjælp
 
 ## Page Action Context Menu
 
