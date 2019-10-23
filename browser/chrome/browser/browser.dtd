@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "نوار منو">
 <!ENTITY menubarCmd.accesskey "ن">
 <!ENTITY navbarCmd.label "نوار ابزار راهبری">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "ناوبری">
 <!ENTITY personalbarCmd.label "نوار ابزار نشانک‌ها">
 <!ENTITY personalbarCmd.accesskey "ن">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "نشانک‌ها">
 <!ENTITY bookmarksToolbarItem.label "موارد نوار ابزار نشانک‌ها">
 
 <!ENTITY pageSourceCmd.label "متن صفحه">
 <!ENTITY pageSourceCmd.accesskey "م">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "اطلاعات صفحه">
 <!ENTITY pageInfoCmd.accesskey "ا">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "اشکال‌زدای چیدمان">
 <!ENTITY ldbCmd.accesskey "L">
@@ -116,6 +126,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "اتصال مجدد به &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "حساب خود را تایید کنید">
 
+
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "کمینه کردن">
 <!ENTITY fullScreenRestore.tooltip "برگرداندن">
@@ -145,13 +158,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "وارد شده به عنوان">
 <!ENTITY fxa.menu.manageAccount.label "مدیریت حساب…">
 <!ENTITY fxa.menu.syncSettings.label "تنظیمات &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.connectAnotherDevice2.label "اتصال به دستگاه دیگر…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "ورود به &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "فعال‌سازی &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "حساب">
 <!ENTITY fxa.menu.firefoxServices.label "خدمات &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "حساب">
+<!ENTITY fxa.menu.settings.label "تنظیمات">
+<!ENTITY fxa.menu.accountSettings.label "تنظیمات حساب">
+<!ENTITY fxa.menu.signOut.label "خروج…">
+<!ENTITY fxa.menu.deviceSettings.label "تنظیمات دستگاه">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -194,6 +216,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "نشانک‌ها">
 <!ENTITY bookmarksMenu.accesskey "ن">
+
 <!ENTITY bookmarkThisPageCmd.label "نشانک‌گذاری این صفحه">
 <!ENTITY editThisBookmarkCmd.label "ویرایش این نشانک">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -235,6 +258,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "مدیریت استفاده از افزونه">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "اینکه آیا می‌توانید از این سایت اعلان دریافت کنید یا خیر را تغییر دهید">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "ذخیره اطلاعات به صورت ذخیره دائمی">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "مرورگر تحت کنترل از راه دور است">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "باز کردن تابلوی تصدیق هویت وب">
 
@@ -502,6 +526,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "عبارت جست‌وجو">
+
 <!ENTITY contentSearchSubmit.tooltip  "ثبت جست‌وجو">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -944,16 +969,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "ردیاب‌ها">
 
 <!ENTITY contentBlocking.manageSettings.label "مدیریت مسدودسازی محتوا">
-
-<!ENTITY contentBlocking.trackingProtection4.label "محتوای ردیابی">
-
-<!ENTITY contentBlocking.manageSettings2.label "مدیریت تنظیمات حفاظتی">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "ردیاب‌ها">
 
 <!ENTITY contentBlocking.cookies.label "کوکی‌ها">
 <!ENTITY contentBlocking.cookiesView.label "کوکی‌ها و داده‌های سایت">
+
+<!ENTITY contentBlocking.trackingProtection4.label "محتوای ردیابی">
+
+<!ENTITY contentBlocking.manageSettings2.label "مدیریت تنظیمات حفاظتی">
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "ردیاب‌های شبکه‌های اجتماعی">
 
@@ -967,6 +993,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "گزارش مشکلات">
 <!ENTITY contentBlocking.breakageReportView2.description "مسدود کردن محتوا در این وب‌ سایت می‌تواند منجر به مشکلاتی شود. وقتی شما این مشکلات را گزارش دهید،‌ شما به &brandShortName; کمک می‌کنید تا برای همگان بهتر شود. ( این کار یک URL به همراه اطلاعات در خصوص تنظیمات مرورگر شما به موزیلا ارسال می‌کند.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "بیشتر بدانید">
+
 <!ENTITY contentBlocking.breakageReportView.title "گزارش یک سایت خراب">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "اطلاعات بیشتر">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
@@ -1021,6 +1048,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "یک افزودنی محتویات صفحهٔ خانگی شما را تغییر داده است. شما می‌توانید تنظیمات خود را به حالت قبل برگردانید اگر تمایلی به این تغییر ندارید.">
+
 <!ENTITY homepageControlled.header.message "صفحهٔ خانگی شما تغییر کرده است.">
 <!ENTITY homepageControlled.keepButton.label "نگاه داشتن تغییرات">
 <!ENTITY homepageControlled.keepButton.accesskey "K">

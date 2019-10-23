@@ -8,6 +8,11 @@ profiles-create = ایجاد نمایه جدید
 profiles-restart-title = راه‌اندازی مجدد
 profiles-restart-in-safe-mode = راه‌اندازی به همراه غیرفعال‌سازی افزونه ها
 profiles-restart-normal = راه‌اندازی مجدد معمولی
+profiles-conflict = نسخه دیگری از { -brand-product-name } باعث تغییراتی در نمایه‌ها شده است. قبل از ایجاد تغییرات بیشتر، باید { -brand-short-name } را مجدداً راه اندازی کنید.
+profiles-flush-fail-title = تغییرات ذخیره نشد
+profiles-flush-conflict = { profiles-conflict }
+profiles-flush-failed = یک خطای غیرمنتظره مانع از ذخیره تغییرات شما شده است.
+profiles-flush-restart-button = راه‌اندازی مجدد { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = نمایه: { $name }
@@ -21,10 +26,13 @@ profiles-rootdir = شاخه‌ی ریشه
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = شاخه محلی
 profiles-current-profile = این نمایه‌ای است که مورد استفاده قرار می‌گیرد و نمی‌تواند پاک شود.
+profiles-in-use-profile = این نمایه در برنامه دیگری در حال استفاده است و قابل حذف نیست.
 profiles-rename = تغییر نام
 profiles-remove = حذف
 profiles-set-as-default = تنظیم این نمایه به عنوان نمایه پیش فرض
 profiles-launch-profile = اجرا نمایه در مرورگر جدید
+profiles-cannot-set-as-default-title = تنظیم پیش‌فرض امکان پذیر نیست
+profiles-cannot-set-as-default-message = نمایهٔ پیش‌فرض برای { -brand-short-name } قابل تغییر نیست.
 profiles-yes = بله
 profiles-no = نه
 profiles-rename-profile-title = تغییر نام نمایه
@@ -44,6 +52,8 @@ profiles-delete-profile-confirm =
     آیا مایل به حذف پرونده‌های نمایه‌ها هستید؟
 profiles-delete-files = حذف پرونده‌ها
 profiles-dont-delete-files = پرونده‌ها را حذف نکن
+profiles-delete-profile-failed-title = خطا
+profiles-delete-profile-failed-message = هنگام تلاش برای حذف این نمایه خطایی روی داد.
 profiles-opendir =
     { PLATFORM() ->
         [macos] نمایش در یابنده

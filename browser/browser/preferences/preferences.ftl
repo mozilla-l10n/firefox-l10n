@@ -448,7 +448,6 @@ choose-bookmark =
 
 home-prefs-content-header = محتوای صفحه خانگی فایرفاکس
 home-prefs-content-description = انتخاب کنید که چه محتوایی می‌خواهید در صفحه خانگیِ فایرفاکس خود ببینید.
-home-prefs-content-discovery-description = سرویس کشف محتوا در فایرفاکس به شما قابلیت پیدا کردن مطالبِ با کیفیت و مرتبط را در سراسر وب می‌دهد.
 home-prefs-search-header =
     .label = جست‌وجو وب
 home-prefs-topsites-header =
@@ -496,7 +495,6 @@ search-bar-shown =
     .label = اضافه کردن نوار جست‌وجو به نوار ابزار
 search-engine-default-header = موتور جست‌وجو پیش‌فرض
 search-engine-default-desc = انتخاب یک موتور جست‌وجو پیش فرض برای استفاده در نوار ادرس و نوار جست‌وجو
-search-engine-default-private-desc = موتور جستجوی پیش‌فرض را برای استفاده در پنجره ناشناس انتخاب کنید.
 search-separate-default-engine =
     .label = از این موتور جستجو در پنجره‌های ناشناس استفاده کنید
     .accesskey = U
@@ -631,6 +629,9 @@ sync-currently-syncing-prefs =
         [windows] گزینه‌ها
        *[other] ترجیحات
     }
+sync-change-options =
+    .label = تغییر…
+    .accesskey = c
 
 ## The "Choose what to sync" dialog.
 
@@ -864,8 +865,14 @@ content-blocking-cryptominers = استخراج کننده‌های رمزارز�
 content-blocking-warning-title = هوشیار باشید!
 content-blocking-learn-how = بیشتر بدانید
 content-blocking-warning-learn-how = بیشتر بدانید
+content-blocking-reload-tabs-button =
+    .label = بارگذاری مجدد تمام زبانه‌ها
+    .accesskey = R
 content-blocking-trackers-label =
     .label = ردیاب‌ها
+    .accesskey = T
+content-blocking-tracking-content-label =
+    .label = محتوای ردیابی
     .accesskey = T
 content-blocking-tracking-protection-option-all-windows =
     .label = در همه پنجره‌ها
@@ -877,6 +884,8 @@ content-blocking-tracking-protection-change-block-list = تغییر لیست م�
 content-blocking-cookies-label =
     .label = کوکی‌ها
     .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = اطلاعات بیشتر
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
     .label = استخراج کننده‌های رمزارزها
@@ -917,6 +926,7 @@ permissions-block-autoplay-media2 =
 permissions-block-autoplay-media-exceptions =
     .label = استثاناها…
     .accesskey = E
+permissions-autoplay = پخش خودکار
 permissions-autoplay-settings =
     .label = تنظیمات...
     .accesskey = t
