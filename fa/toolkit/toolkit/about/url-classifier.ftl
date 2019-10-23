@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = اطلاعات طبقه بندی شده‌ی URL
+url-classifier-search-title = جست‌وجو
+url-classifier-search-result-title = نتایج
+url-classifier-search-result-uri = URI: { $uri }
+url-classifier-search-result-list = فهرست جداول: { $list }
+url-classifier-search-input = URL
+url-classifier-search-error-invalid-url = URL نامعتبر
+url-classifier-search-error-no-features = هیچ ویژگی‌ای انتخاب نشده است
+url-classifier-search-btn = آغاز جست‌وجو
+url-classifier-search-features = ویژگی‌ها
+url-classifier-search-listType = نوع فهرست
 url-classifier-provider-title = فراهم‌کننده
 url-classifier-provider = فراهم‌کننده
 url-classifier-provider-last-update-time = آخرین زمان بروزرسانی
