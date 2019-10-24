@@ -98,7 +98,7 @@ cfr-whatsnew-fx70-title = { -brand-short-name } lucta ora plus forte pro tu vita
 cfr-whatsnew-fx70-body = Le ultime actualisation meliora le functionalitate de protection contra le traciamento e rende plus facile que jammais crear contrasignos secur pro cata sito.
 cfr-whatsnew-tracking-protect-title = Protege te ab le traciatores
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } bloca multe traciatores commun social e inter sitos que seque lo que tu face in linea.
-cfr-whatsnew-tracking-protect-link-text = Vide tu reporto
+cfr-whatsnew-tracking-protect-link-text = Vider tu reporto
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -108,13 +108,13 @@ cfr-whatsnew-tracking-blocked-title =
        *[other] Traciatores blocate
     }
 cfr-whatsnew-tracking-blocked-subtitle = Desde { DATETIME($earliestDate, month: "long", year: "numeric") }
-cfr-whatsnew-tracking-blocked-link-text = Vide reporto
-cfr-whatsnew-lockwise-backup-title = Reserva tu contrasignos
-cfr-whatsnew-lockwise-backup-body = Genera contrasignos secur pro acceder ab cata apparato connexe a tu conto.
-cfr-whatsnew-lockwise-backup-link-text = Activar le salvamentos
+cfr-whatsnew-tracking-blocked-link-text = Vider reporto
+cfr-whatsnew-lockwise-backup-title = Face un copia de reserva de tu contrasignos
+cfr-whatsnew-lockwise-backup-body = Ora genera contrasignos secur al quales tu pote acceder non importa ab ubi tu te connecte.
+cfr-whatsnew-lockwise-backup-link-text = Activar le copias de reserva
 cfr-whatsnew-lockwise-take-title = Porta tu contrasignos con te
 cfr-whatsnew-lockwise-take-body = Le application mobile { -lockwise-brand-short-name } te permitte acceder con securitate al copia de reserva de tu contrasignos, non importa ubi tu te trova.
-cfr-whatsnew-lockwise-take-link-text = Discarga le app
+cfr-whatsnew-lockwise-take-link-text = Obtener le application
 
 ## Bookmark Sync
 
