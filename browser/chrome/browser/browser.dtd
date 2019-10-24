@@ -276,7 +276,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Upravljajte korištenjem DRM softvera">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Otvori MIDI okno">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Ovoj stranici si odobrio/la dodatne dozvole.">
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ovoj stranici ste odobrili dodatne dozvole.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ovoj ste stranici zabranili korištenje kamere.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ovoj ste stranici zabranili korištenje mikrofona.">
