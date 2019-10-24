@@ -70,13 +70,13 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "Rědowe kašćiki pytanja zmólkow pówjercha wobglědowaka a dodankow zmóžniś">
-<!ENTITY options.enableChrome.tooltip3  "Gaž zmóžnijośo toś to nastajenje, móžośo wšake wuwijarske rědy w konteksće wobglědowaka (pśez Rědy > Webwuwijaŕ > Rědowy kašćik) wužywaś a dodanki ze zastojnika dodankow za zmólkami pśepytowaś">
+<!ENTITY options.enableChrome.tooltip3  "Gaž zmóžnijośo toś to nastajenje, móžośo wšake wuwijaŕske rědy w konteksće wobglědowaka (pśez Rědy > Webwuwijaŕ > Rědowy kašćik) wužywaś a dodanki ze zastojnika dodankow za zmólkami pśepytowaś">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Daloke pytanje za zmólkami">
-<!ENTITY options.enableRemote.tooltip2  "Zmóžnjenje toś togo nastajenja dowólijo wuwijarskim rědam, daloku instancu Firefox ako Firefox OS za zmólkami pśepytowaś">
+<!ENTITY options.enableRemote.tooltip2  "Zmóžnjenje toś togo nastajenja dowólijo wuwijaŕskim rědam, daloku instancu Firefox ako Firefox OS za zmólkami pśepytowaś">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -99,13 +99,13 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-<!ENTITY options.selectDefaultTools.label2    "Standardne wuwijarske rědy">
+<!ENTITY options.selectDefaultTools.label2    "Standardne wuwijaŕske rědy">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
-<!ENTITY options.selectAdditionalTools.label  "Wuwijarske rědy zainstalěrowane pśez dodanki">
+<!ENTITY options.selectAdditionalTools.label  "Wuwijaŕske rědy zainstalěrowane pśez dodanki">
 
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -124,8 +124,8 @@
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
-<!ENTITY options.usedeveditiontheme.label   "Draswtu wobglědowaka wuwijarskeje edicije wužywaś">
-<!ENTITY options.usedeveditiontheme.tooltip "Pśešaltujo drastwu wobglědowaka wuwijarskeje edicije.">
+<!ENTITY options.usedeveditiontheme.label   "Draswtu wobglědowaka wuwijaŕskeje edicije wužywaś">
+<!ENTITY options.usedeveditiontheme.tooltip "Pśešaltujo drastwu wobglědowaka wuwijaŕskeje edicije.">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
