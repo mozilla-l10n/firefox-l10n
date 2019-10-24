@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = შემქმნელი: { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = შემოთავაზება
+cfr-doorhanger-extension-notification2 = შემოთავაზება
+    .tooltiptext = გაფართოების შემოთავაზება
+    .a11y-announcement = ხელმისაწვდომია გაფართოების შემოთავაზება
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = შემოთავაზება
+    .tooltiptext = შესაძლებლობის შემოთავაზება
+    .a11y-announcement = ხელმისაწვდომია შესაძლებლობის შემოთავაზება
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -78,6 +86,9 @@ cfr-protections-panel-link-text = ვრცლად
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = ახალი შესაძლებლობა:
 cfr-whatsnew-button =
     .label = რა სიახლეებია
     .tooltiptext = რა სიახლეებია
@@ -152,3 +163,16 @@ cfr-doorhanger-fingerprinters-heading = { -brand-short-name } ზღუდავ
 cfr-doorhanger-fingerprinters-description = თქვენი პირადულობა მნიშვნელოვანია. { -brand-short-name } ახლა უკვე ზღუდავს მომხმარებლის ამომცნობ საშუალებებს, რომელთაც შეუძლია თქვენი სხვებისგან გამორჩევა თვალის სადევნებლად, თქვენზე შეგროვებული მონაცემებით.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } ზღუდავს კრიპტოვალუტის გამომმუშავებელს ამ საიტზე
 cfr-doorhanger-cryptominers-description = თქვენი პირადულობა მნიშვნელოვანია. { -brand-short-name } ახლა უკვე ზღუდავს კრიპტოვალუტის გამომმუშავებელ საშუალებებს, რომლებიც იყენებს თქვენი სისტემის გამოთვლის სიმძლავრეს ციფრული ფულის მოსაპოვებლად.
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] { -brand-short-name } ზღუდავს <b>{ $blockedCount }</b>-ზე მეტ მეთვალყურეს თარიღიდან { $date }!
+       *[other] { -brand-short-name } ზღუდავს <b>{ $blockedCount }</b>-ზე მეტ მეთვალყურეს თარიღიდან { $date }!
+    }
+cfr-doorhanger-milestone-ok-button = ყველას ნახვა
+    .accesskey = ნ

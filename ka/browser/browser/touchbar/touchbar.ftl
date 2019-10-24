@@ -19,3 +19,19 @@ open-location = მოძებნეთ ან შეიყვანეთ მ�
 share = გაზიარება
 close-window = ფანჯრის დახურვა
 open-sidebar = გვერდითი ზოლები
+# This string describes shortcuts for search.
+search-popover = ძიების მალსახმობები
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = ძიების არე:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = სანიშნები
+search-history = ისტორია
+search-opentabs = გახსნილი ჩანართები
+search-tags = ჭდეები
+search-titles = სათაურები
+
+
+

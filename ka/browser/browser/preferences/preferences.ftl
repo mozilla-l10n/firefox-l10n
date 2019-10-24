@@ -282,6 +282,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } მოდული ({ -brand-short-name }-ში)
@@ -457,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox საწყისი გვერდი
 home-prefs-content-description = აირჩიეთ, თუ რისი გამოჩენა გსურთ Firefox-ის საწყის გვერდზე.
-home-prefs-content-discovery-description = შიგთავსის მოძიება Firefox-ის მთავარ გვერდზე, საშუალებას გაძლევთ აღმოაჩინოთ მაღალი ხარისხის, გამოსადეგი სტატიები მთელ ინტერნეტში.
 home-prefs-search-header =
     .label = საძიებო ველი
 home-prefs-topsites-header =
@@ -505,7 +508,8 @@ search-bar-shown =
     .label = ძიების ველის დამატება ხელსაწყოთა ზოლზე
 search-engine-default-header = ნაგულისხმევი საძიებო სისტემა
 search-engine-default-desc = მიუთითეთ ნაგულისხმევი საძიებო სისტემა, რომელსაც გამოიყენებთ მისამართებისა და ძიების ველებში.
-search-engine-default-private-desc = მიუთითეთ ნაგულისხმევი საძიებო სისტემა, პირადი ფანჯრებისთვის.
+search-engine-default-desc-2 = ეს თქვენი ნაგულისხმევი საძიებოა მისამართებისა და ძიების ველებისთვის. ნებისმიერ დროს შეგიძლიათ შეცვლა.
+search-engine-default-private-desc-2 = აირჩიეთ სხვა საძიებო, მხოლოდ პირადი ფანჯრებისთვის
 search-separate-default-engine =
     .label = ამ საძიებოს გამოყენება პირად ფანჯრებში
     .accesskey = პ
@@ -524,6 +528,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = ძიების შემოთავაზებების, მონახულებული გვერდების ისტორიაზე წინ გამოჩენა, მისამართების ველის შედეგებში
+search-show-suggestions-private-windows =
+    .label = ძიების შემოთავაზებების ჩვენება პირად ფანჯრებში
 suggestions-addressbar-settings = პარამეტრების შეცვლა ისტორიის, სანიშნებისა და ჩანართის შემოთავაზებებისთვის
 search-suggestions-cant-show = მისამართების ველში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან მითითებული გაქვთ, რომ { -brand-short-name } არასოდეს დაიმახსოვრებს ისტორიას.
 search-one-click-header = ერთწკაპიანი საძიებო სისტემები

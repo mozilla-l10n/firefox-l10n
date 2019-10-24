@@ -33,10 +33,20 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = აუცილებელია მართებული ელფოსტა
 onboarding-join-form-legal = გაგრძელების შემთხვევაში, თქვენ ეთანხმებით <a data-l10n-name="terms">მომსახურების პირობებსა</a> და <a data-l10n-name="privacy">პირადი მონაცემების დაცვის განაცხადს</a>.
 onboarding-join-form-continue = გაგრძელება
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = უკვე გაქვთ ანგარიში?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = შესვლა
 onboarding-start-browsing-button-label = დაიწყეთ მოგზაურობა ინტერნეტში
 onboarding-cards-dismiss =
     .title = დამალვა
     .aria-label = დამალვა
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = იხილეთ ყველაფერი, რისი გაკეთება შეგიძლიათ.
+onboarding-fullpage-form-email =
+    .placeholder = თქვენი ელფოსტის მისამართი…
 
 ## Firefox Sync modal dialog strings.
 
@@ -103,6 +113,7 @@ onboarding-data-sync-text2 = დაასინქრონეთ თქვე�
 onboarding-data-sync-button2 = { -sync-brand-short-name } – შესვლა
 onboarding-firefox-monitor-title = შეიტყვეთ, მონაცემების მიტაცების შესახებ
 onboarding-firefox-monitor-text = { -monitor-brand-name } მუდმივად გადაამოწმებს, არის თუ არა თქვენი ელფოსტა მიტაცებულ მონაცემებს შორის და გაცნობებთ აღმოჩენის შემთხვევაში.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } მუდმივად გადაამოწმებს, არის თუ არა თქვენი ელფოსტა ბოლოს მიტაცებულ მონაცემებს შორის და გაცნობებთ აღმოჩენის შემთხვევაში.
 onboarding-firefox-monitor-button = გამოიწერეთ ცნობები
 onboarding-browse-privately-title = მოინახულეთ გვერდები უსაფრთხოდ
 onboarding-browse-privately-text = პირადი თვალიერების რეჟიმი ასუფთავებს თქვენ მიერ მოძიებულ და მონახულებულ გვერდებს და არ უმხელს მათ შესახებ, თქვენი კომპიუტერის სხვა მომხმარებლებს
