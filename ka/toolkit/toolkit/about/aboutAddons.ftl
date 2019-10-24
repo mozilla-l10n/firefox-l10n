@@ -313,6 +313,8 @@ addon-options-button =
 
 report-addon-button = საჩივარი
 remove-addon-button = მოცილება
+# The link will always be shown after the other text.
+remove-addon-disabled-button = ვერ მოცილდება <a data-l10n-name="link">რატომ?</a>
 disable-addon-button = ამორთვა
 enable-addon-button = ჩართვა
 expand-addon-button = დამატებითი პარამეტრები
