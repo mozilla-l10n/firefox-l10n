@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = 由 { $name } 开发
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = 推荐
+cfr-doorhanger-extension-notification2 = 推荐
+    .tooltiptext = 推荐扩展
+    .a11y-announcement = 有推荐扩展可用
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = 推荐
+    .tooltiptext = 推荐功能
+    .a11y-announcement = 有推荐功能可用
 
 ## Add-on statistics
 ## These strings are used to display the total number of
