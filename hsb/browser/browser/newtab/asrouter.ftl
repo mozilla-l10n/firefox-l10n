@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = wot { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Doporučenje
+cfr-doorhanger-extension-notification2 = Doporučenje
+    .tooltiptext = Doporučenje rozšěrjenja
+    .a11y-announcement = Doporučenje rozšěrjenja k dispoziciji
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Doporučenje
+    .tooltiptext = Doporučenje funkcije
+    .a11y-announcement = Doporučenje funkcije k dispoziciji
 
 ## Add-on statistics
 ## These strings are used to display the total number of
