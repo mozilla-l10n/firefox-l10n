@@ -945,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "თვალის მდევნელი შიგთავსი">
 <!ENTITY protections.fingerprinters.label "მომხმარებლის ამომცნობები">
 <!ENTITY protections.cryptominers.label "კრიპტოვალუტის გამომმუშავებლები">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "ყველა მეთვალყურე ჩაიტვირთა ამ საიტზე, ვინაიდან დაცვა გამორთულია.">
 <!ENTITY protections.noTrackersFound.description "ამ გვერდზე მეთვალყურეები, რომელთაც &brandShortName; ცნობს, არ აღმოჩენილა.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "ეს ფუნთუშები თან დაგყვებათ საიტებზე და აგროვებს მონაცემებს, თუ რას აკეთებთ ინტერნეტში. მათ იყენებს გარეშე მხარეები, სარეკლამო და კვლევითი დაწესებულებები.">
