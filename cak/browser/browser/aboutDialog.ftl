@@ -16,7 +16,7 @@ update-downloading = <img data-l10n-name="icon"/>Tajin niqasäx k'exoj ruwäch �
 update-applying = Rokisaxik k'exoj ruwäch…
 update-failed = Man xuchäp ta ri k'exoj ruwäch. <label data-l10n-name="failed-link">Taqasaj ri k'ak'a' ruwäch</label>
 update-failed-main = Man xuchäp ta ri k'exoj ruwäch. <a data-l10n-name="failed-link-main">Taqasaj ri k'ak'a' ruwäch</a>
-update-adminDisabled = Xechup ri taq k'exoj ruwäch ruma ri runuk'samajel aq'inoj
+update-adminDisabled = Xechup ri taq k'exoj ruma ri runuk'samajel q'inoj
 update-noUpdatesFound = { -brand-short-name } jalon chik
 update-otherInstanceHandlingUpdates = { -brand-short-name } tajin nik'ex pa jun chik molaj
 update-manual = Wachel taq k'exoj ruwäch pa <label data-l10n-name="manual-link"/>
@@ -30,8 +30,6 @@ helpus = ¿La nawajo' yato'on? <label data-l10n-name="helpus-donateLink">Taya' j
 bottomLinks-license = Na'oj chi rij ya'öl q’ij
 bottomLinks-rights = Kich'ojib'al K'isib'äl-Okisanel
 bottomLinks-privacy = Runa'ojil ichinanem
-aboutDialog-architecture-sixtyFourBit = 64-bit
-aboutDialog-architecture-thirtyTwoBit = 32-bit
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1
