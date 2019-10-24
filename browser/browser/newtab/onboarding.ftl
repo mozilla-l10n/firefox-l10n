@@ -19,7 +19,7 @@ onboarding-button-label-get-started = Розпочнімо
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Вітаємо в { -brand-short-name }
-onboarding-welcome-body = Ви отримали браузер.<br/>Познайомтеся ближче з { -brand-product-name }.
+onboarding-welcome-body = Тепер у вас є браузер.<br/>Познайомтеся ближче з { -brand-product-name }.
 onboarding-welcome-learn-more = Дізнатися більше про переваги.
 onboarding-welcome-modal-get-body = Ви отримали браузер.<br/>Тепер отримайте максимум можливостей з { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Посильте захист своєї приватності.

@@ -116,7 +116,7 @@ startup-header = Запуск
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
-    .label = Дозволити { -brand-short-name } та Firefox виконуватись одночасно
+    .label = Дозволити одночасну роботу { -brand-short-name } і Firefox
 use-firefox-sync = Підказка: При цьому використовуються окремі профілі. Скористайтеся { -sync-brand-short-name(case: "abl", capitalization: "lower") } для обміну даними між ними.
 get-started-not-logged-in = Увійти в { -sync-brand-short-name(case: "acc") }…
 get-started-configured = Відкрити налаштування { -sync-brand-short-name(case: "dat") }

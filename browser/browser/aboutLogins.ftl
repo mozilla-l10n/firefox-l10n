@@ -7,7 +7,7 @@ about-logins-page-title = Паролі
 # "Google Play" and "App Store" are both branding and should not be translated
 
 login-app-promo-title = Майте доступ до своїх паролів всюди
-login-app-promo-subtitle = Отримайте додаток { -lockwise-brand-name }
+login-app-promo-subtitle = Отримайте безплатний додаток { -lockwise-brand-name }
 login-app-promo-android =
     .alt = Отримати на Google Play
 login-app-promo-apple =

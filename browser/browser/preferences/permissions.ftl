@@ -59,7 +59,7 @@ permissions-capabilities-listitem-allow-session =
 ## Invalid Hostname Dialog
 
 permissions-invalid-uri-title = Введено неправильне мережеве ім’я сервера
-permissions-invalid-uri-label = Введіть правильне мережеве ім’я сервера.
+permissions-invalid-uri-label = Введіть правильне мережеве ім’я сервера
 
 ## Exceptions - Tracking Protection
 
