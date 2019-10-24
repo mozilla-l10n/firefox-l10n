@@ -15,6 +15,7 @@ certificate-viewer-algorithm = ალგორითმი
 certificate-viewer-certificate-authority = სერტიფიკატის გამცემი
 certificate-viewer-cipher-suite = შიფრის ნაკრები
 certificate-viewer-common-name = საერთო სახელი
+certificate-viewer-email-address = ელფოსტის მისამართი
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = წარმ. ქვეყანა
 certificate-viewer-country = ქვეყანა

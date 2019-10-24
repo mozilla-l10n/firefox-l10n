@@ -9,6 +9,7 @@ ok = გასაგებია
 http = HTTP
 sockets = სოკეტები:
 dns = DNS
+dnssuffix = DNS-ბოლოსართი
 websockets = WebSockets
 refresh = გაახლება
 auto-refresh = თვითგაახლება ყოველ 3 წამში

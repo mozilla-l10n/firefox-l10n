@@ -8,6 +8,8 @@
 
 <!ENTITY learnMore "იხილეთ ვრცლად…">
 
+<!ENTITY learnMoreNoEllipsis "იხილეთ ვრცლად">
+
 <!ENTITY defaultButton.label "კარგი!">
 <!ENTITY defaultButton.accesskey "კ">
 
