@@ -114,7 +114,7 @@ about-telemetry-telemetry-ping-type-all = wše
 about-telemetry-histogram-copy = Kopěrowaś
 # these strings are used in the “Slow SQL Statements” section
 about-telemetry-slow-sql-main = Pómałe SQL-pśikaze na głownej nitce
-about-telemetry-slow-sql-other = Pómałe SQL-pśikaze na pomogarskich nitkach
+about-telemetry-slow-sql-other = Pómałe SQL-pśikaze na pomogaŕskich nitkach
 about-telemetry-slow-sql-hits = Trjefarje
 about-telemetry-slow-sql-average = Pśerězny cas (ms)
 about-telemetry-slow-sql-statement = Pśikaz

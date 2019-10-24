@@ -29,13 +29,11 @@
 
 <!ENTITY fillLoginMenu.label          "Pśizjawjenje wupołniś">
 <!ENTITY fillLoginMenu.accesskey      "u">
-<!ENTITY fillSuggestedPassword.label  "Naraźone gronidło wužywaś">
-<!ENTITY fillSuggestedPassword.accesskey "N">
 <!ENTITY fillGeneratedPassword.label  "Wěsćej napórane gronidło wužywaś">
 <!ENTITY fillGeneratedPassword.accesskey "s">
 <!ENTITY fillPasswordMenu.label       "Gronidło wupołniś">
 <!ENTITY fillPasswordMenu.accesskey   "u">
-<!ENTITY fillUsernameMenu.label       "Wužywarske mě wupołniś">
+<!ENTITY fillUsernameMenu.label       "Wužywaŕske mě wupołniś">
 <!ENTITY fillUsernameMenu.accesskey   "u">
 <!ENTITY noLoginSuggestions.label     "(Žedne pśizjaweńske naraźenja)">
 <!ENTITY viewSavedLogins.label        "Skłaźone pśizjawjenja pokazaś">

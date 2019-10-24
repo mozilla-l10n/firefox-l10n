@@ -136,7 +136,7 @@ media-capabilities-title = Medijowe móžnosći
 # List all the entries of the database.
 media-capabilities-enumerate = Datowu banku nalicyś
 
-##
+
 
 intl-title = Internacionalizacija a lokalizacija
 intl-app-title = Nastajenja nałoženja
@@ -268,8 +268,8 @@ min-lib-versions = Wótcakowana minimalna wersija
 loaded-lib-versions = Wužyta wersija
 has-seccomp-bpf = Seccomp-BPF (Filtrowanje systemowych zawołanjow)
 has-seccomp-tsync = Nitkowa synchronizacija Seccomp
-has-user-namespaces = Wužywarske mjenjowe rumy
-has-privileged-user-namespaces = Wužywarske mjenjowe rumy za priwilegěrowane procese
+has-user-namespaces = Wužywaŕske mjenjowe rumy
+has-privileged-user-namespaces = Wužywaŕske mjenjowe rumy za priwilegěrowane procese
 can-sandbox-content = Testowanje wopśimjeśowych procesow w pěskowem kašćiku
 can-sandbox-media = Testowanje medijowych tykacow w pěskowem kašćiku
 content-sandbox-level = Rownina wopśimjeśowych procesow w pěskowem kašćiku
