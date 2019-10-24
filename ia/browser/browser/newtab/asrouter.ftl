@@ -132,10 +132,10 @@ cfr-doorhanger-sync-logins-ok-button = Activa { -sync-brand-short-name }
 
 ## Send Tab
 
-cfr-doorhanger-send-tab-header = Lege lo ubicunque tu es
-cfr-doorhanger-send-tab-recipe-header = Porta iste recepta in cocina
-cfr-doorhanger-send-tab-body = Invia scheda te pone in grado de compartir facilemente iste ligamine a tu telephono o ubicunque tu ha accedite in a { -brand-product-name }.
-cfr-doorhanger-send-tab-ok-button = Proba Invia scheda
+cfr-doorhanger-send-tab-header = Lege isto in viage
+cfr-doorhanger-send-tab-recipe-header = Porta iste recepta al cocina
+cfr-doorhanger-send-tab-body = Inviar Scheda te permitte compartir facilemente iste ligamine a tu telephono o altere dispositivos connectite a tu conto de { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Proba Inviar Scheda
     .accesskey = P
 
 ## Firefox Send
@@ -152,11 +152,11 @@ cfr-doorhanger-socialtracking-ok-button = Vider protectiones
 cfr-doorhanger-socialtracking-close-button = Clauder
     .accesskey = C
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } ha impedite que un rete social te tracia hic
-cfr-doorhanger-socialtracking-description = Tu confidentialitate es importante. Ora { -brand-short-name } bloca traciatores de retes social commun, limitante quante datos illos pote colliger re que tu face online.
+cfr-doorhanger-socialtracking-description = Tu vita private es importante. Ora { -brand-short-name } bloca traciatores de retes social commun, limitante le quantitate de datos que illos pote colliger sur tu activitates in linea.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } ha blocate un traciator de impression digital in iste pagina
 cfr-doorhanger-fingerprinters-description = Tu vita private es importante. { -brand-short-name } bloca ora le traciatores de impression digital que collige pecias de information unic sur tu dispositivo pro traciar te.
-cfr-doorhanger-cryptominers-heading = { -brand-short-name } blocava un cryptominator in iste pagina
-cfr-doorhanger-cryptominers-description = Tu confidentialitate es importante. Ora { -brand-short-name } bloca cryptominatores, que usa le potentia de calculo de tu systemas pro cavar moneta digital.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } ha blocate un cryptominator in iste pagina
+cfr-doorhanger-cryptominers-description = Tu vita private es importante. Ora { -brand-short-name } bloca cryptominatores, que usa le ressources computational de tu systemas pro excavar moneta digital.
 
 ## Enhanced Tracking Protection Milestones
 
@@ -165,7 +165,7 @@ cfr-doorhanger-cryptominers-description = Tu confidentialitate es importante. Or
 #   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
-       *[other] { -brand-short-name } blocate sur <b>{ $blockedCount }</b> traciatores desde { $date }!
+       *[other] { -brand-short-name } ha blocate plus de <b>{ $blockedCount }</b> traciatores desde { $date }!
     }
 cfr-doorhanger-milestone-ok-button = Vider toto
     .accesskey = t
