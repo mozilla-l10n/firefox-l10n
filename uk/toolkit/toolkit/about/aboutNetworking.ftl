@@ -9,6 +9,7 @@ ok = OK
 http = HTTP
 sockets = Сокети
 dns = DNS
+dnssuffix = Суфікс DNS
 websockets = Вебсокети
 refresh = Оновити
 auto-refresh = Автооновлювати кожні 3 секунди
