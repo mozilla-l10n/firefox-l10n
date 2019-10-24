@@ -62,7 +62,7 @@ about-logins-login-list-empty-search-title = Žedne pśizjawjenja namakane
 about-logins-login-list-empty-search-description = Njejsu žedne wuslědki, kótarež wašomu pytanjeju wótpowěduju.
 login-list-item-title-new-login = Nowe pśizjawjenje
 login-list-item-subtitle-new-login = Zapódajśo swóje pśizjawjeńske daty
-login-list-item-subtitle-missing-username = (žedno wužywarske mě)
+login-list-item-subtitle-missing-username = (žedno wužywaŕske mě)
 about-logins-list-item-warning-icon =
     .alt = Warnowański symbol
     .title = Zranjone websedło
@@ -86,9 +86,9 @@ login-item-delete-button = Lašowaś
 login-item-origin-label = Adresa websedła
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-username-label = Wužywarske mě
+login-item-username-label = Wužywaŕske mě
 about-logins-login-item-username =
-    .placeholder = (žedno wužywarske mě)
+    .placeholder = (žedno wužywaŕske mě)
 login-item-copy-username-button-text = Kopěrowaś
 login-item-copied-username-button-text = Kopěrowany!
 login-item-password-label = Gronidło
@@ -149,11 +149,11 @@ breach-alert-dismiss =
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Zapisk za { $loginTitle } z tym wužywarskim mjenim južo eksistěrujo.
+about-logins-error-message-duplicate-login = Zapisk za { $loginTitle } z tym wužywaŕskim mjenim južo eksistěrujo.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login-with-link = Zapisk za { $loginTitle } z tym wužywarskim mjenim južo eksistěrujo. <a data-l10n-name="duplicate-link">K eksistěrujucemu zapiskoju?</a>
+about-logins-error-message-duplicate-login-with-link = Zapisk za { $loginTitle } z tym wužywaŕskim mjenim južo eksistěrujo. <a data-l10n-name="duplicate-link">K eksistěrujucemu zapiskoju?</a>
 # This is a generic error message.
 about-logins-error-message-default = Pśi wopyśe toś to gronidło składowaś, jo zmólka nastała.

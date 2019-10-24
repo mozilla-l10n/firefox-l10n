@@ -357,7 +357,7 @@ update-setting-write-failure-title = Zmólka pśi składowanju aktualizěrowańs
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message =
-    { -brand-short-name } jo starcył na zmólku a njejo toś tu změnu składł. Źiwajśo na to, až se toś to aktualizěrowańske nastajenje pisańske pšawo za slědujucu dataju pomina. Wy abo systemowy administrator móžotej zmólku pórěźiś, gaž wužywarskej kupce połnu kontrolu nad toś teju dataju dajotej.
+    { -brand-short-name } jo starcył na zmólku a njejo toś tu změnu składł. Źiwajśo na to, až se toś to aktualizěrowańske nastajenje pisańske pšawo za slědujucu dataju pomina. Wy abo systemowy administrator móžotej zmólku pórěźiś, gaž wužywaŕskej kupce połnu kontrolu nad toś teju dataju dajotej.
     
     Njedajo se do dataje pisaś: { $path }
 update-in-progress-title = Aktualizacija běžy
@@ -516,7 +516,6 @@ search-bar-shown =
     .label = Pytańske pólo symbolowej rědce pśidaś
 search-engine-default-header = Standardna pytnica
 search-engine-default-desc = Wubjeŕśo standardnu pytnicu, kótaraž ma se w adresowem pólu a pytańskem polu wužywaś.
-search-engine-default-private-desc = Wubjeŕśo standardnu pytnicu za wužywanje w priwatnych woknach.
 search-engine-default-desc-2 = To jo waša standardna pytnica w adresowej rědce a pytańskej rědce. Móžośo je kuždy raz pśešaltowaś.
 search-engine-default-private-desc-2 = Wubjeŕśo drugu standardnu pytnicu jano za priwatny modus
 search-separate-default-engine =
@@ -680,11 +679,11 @@ sync-engine-tabs =
     .accesskey = r
 sync-engine-logins =
     .label = Pśizjawjenja
-    .tooltiptext = Wužywarske mjenja a gronidła, kótarež sćo składł
+    .tooltiptext = Wužywaŕske mjenja a gronidła, kótarež sćo składł
     .accesskey = P
 sync-engine-logins-passwords =
     .label = Pśizjawjenja a gronidła
-    .tooltiptext = Wužywarske mjenja a gronidła, kótarež sćo składł
+    .tooltiptext = Wužywaŕske mjenja a gronidła, kótarež sćo składł
     .accesskey = P
 sync-engine-addresses =
     .label = Adrese
