@@ -33,6 +33,9 @@ onboarding-cards-dismiss =
     .title = Scancella
     .aria-label = Scancella
 
+## Welcome full page string
+
+
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Pòrta { -brand-product-name } con ti
@@ -75,6 +78,7 @@ onboarding-ghostery-text = Navega veloce e in mòddo ciù furbo ò seguo con est
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Scincronizaçion
 onboarding-fxa-text = Registrite pe avei 'n { -fxaccount-brand-name } e scincronizza tutti i segnalibbri, poule segrete e feuggi averti donde se segge ti deuvi { -brand-short-name }.
+onboarding-tracking-protection-button2 = Comme o fonçionn-a
 onboarding-data-sync-title = Pòrta e teu personalizaçioin de longo con ti
 onboarding-data-sync-button2 = Intra in { -sync-brand-short-name }
 onboarding-firefox-monitor-button = Scrivite a-i avisi

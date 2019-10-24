@@ -137,9 +137,6 @@ legacy-warning-show-legacy = Amia estenscioin legacy
 legacy-extensions =
     .value = Estenscioin Legacy
 legacy-extensions-description = Ste estenscioin no va ben co-i corenti standard de { -brand-short-name } coscì en stæti dizativæ. <label data-l10n-name="legacy-learn-more">Pe saveine de ciù in sci conponenti azonti</label>
-extensions-view-discover =
-    .name = Scarega conponenti azonti
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Urtimi agiornamenti
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -247,6 +244,7 @@ remove-addon-button = Scancella
 disable-addon-button = Dizabilita
 enable-addon-button = Abilita
 expand-addon-button = Ciù inpostaçioin
+permissions-addon-button = Permissi
 addons-enabled-heading = Ativou
 addons-disabled-heading = Dizativou
 
