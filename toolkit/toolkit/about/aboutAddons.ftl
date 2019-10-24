@@ -358,7 +358,7 @@ addon-detail-reviews-link =
 
 # Variables:
 #   $addon (string) - Name of the add-on
-pending-uninstall-description = Doplněk <span data-l10n-name="addon-name">{ $addon }</span> byl z aplikace odebrán.
+pending-uninstall-description = Doplněk <span data-l10n-name="addon-name">{ $addon }</span> byl odebrán.
 pending-uninstall-undo-button = Vrátit zpět
 addon-detail-updates-label = Automatické aktualizace
 addon-detail-updates-radio-default = Výchozí nastavení
