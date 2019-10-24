@@ -16,8 +16,8 @@ by NSS/PSM via netError.xhtml. -->
 <!-- Localization note (certerror.introPara1) - The string "#1" will
 be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara1 "თქვენ მოითხოვეთ &brandShortName;-ის უსაფრთხო
-დაკავშირება <b>#1</b>-სთან, მაგრამ ჩვენ უსაფრთხოების გარანტიას ვერ მოგცემთ.">
+<!ENTITY certerror.introPara1 "თქვენ მოითხოვეთ, რომ &brandShortName; დაუკავშირდეს
+უსაფრთხოდ <b>#1</b>-ს, მაგრამ ჩვენ ვერ ვადასტურებთ კავშირის დაცულობას.">
 
 <!ENTITY certerror.whatShouldIDo.heading "რა უნდა ვქნა?">
 <!ENTITY certerror.whatShouldIDo.content "თუ ჩვეულებრივ ამ საიტს
