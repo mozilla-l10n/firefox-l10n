@@ -9,6 +9,14 @@ about-config-warning-button = ମୁଁ ସଙ୍କଟକୁ ଅନୁମୋଦ
 about-config2-title = ଉନ୍ନତ ସଂରଚନା
 about-config-search-input =
     .placeholder = ଖୋଜନ୍ତୁ
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = ସାବଧାନତାର ସହିତ ଆଗାନ୍ତୁ
+
+
+
+about-config-page-title = ଆଧୁନିକ ପସନ୍ଦଗୁଡ଼ିକ
 about-config-search-input1 =
     .placeholder = ପସନ୍ଦ ନାମ ଖୋଜନ୍ତୁ
 about-config-show-all = ସମସ୍ତଙ୍କୁ ଦର୍ଶାନ୍ତୁ
