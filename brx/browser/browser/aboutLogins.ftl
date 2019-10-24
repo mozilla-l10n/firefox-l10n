@@ -42,6 +42,8 @@ menu-menuitem-iphone-app = iPhone आरो iPad नि थाखाय { -lockw
 
 ## Login List
 
+login-list =
+    .aria-label = लाग इनफोरजों मिलायनाय नागिरसंनाय
 login-list-count =
     { $count ->
         [one] { $count } ल'गइन

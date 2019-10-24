@@ -5,6 +5,7 @@
 title-label = प्लागिननि सोमोन्दै
 installed-plugins-label = इनष्टल खालामखानाय प्लागिन
 no-plugins-are-installed-label = जेबो इनष्टल खालामखानाय प्लागिन मोनाखै
+deprecation-description = माबाफोर गोमादों? माखासेे फ्लागिनफोरा आरोबाव हेफाजाब होलिया| <a data-l10n-name="deprecation-link"> बांसिन सोलोंबाव|</a>
 
 ## The information of plugins
 ##
