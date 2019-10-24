@@ -9,6 +9,7 @@ ok = OK
 http = HTTP
 sockets = Socket
 dns = DNS
+dnssuffix = Hậu tố DNS
 websockets = WebSocket
 refresh = Cập nhật
 auto-refresh = Tự tải lại sau 3 giây

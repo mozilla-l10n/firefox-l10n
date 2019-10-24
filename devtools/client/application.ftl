@@ -86,8 +86,12 @@ manifest-item-icons = Biểu tượng
 manifest-loading = Đang tải bản kê khai…
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = Đã tải manifest.
-# Text displayed when there has been an error while trying to load the manifest
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
 manifest-loaded-error = Có lỗi trong khi tải tập tin kê khai:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Lỗi Firefox DevTools
 # Text displayed when the page has no manifest available
 manifest-non-existing = Không tìm thấy bảng kê khai để kiểm tra.
 # Text displayed when the page has a manifest embedded in a Data URL and

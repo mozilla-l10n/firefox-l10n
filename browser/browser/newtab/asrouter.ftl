@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = bởi { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Đề xuất
+cfr-doorhanger-extension-notification2 = Đề xuất
+    .tooltiptext = Tiện ích được đề xuất
+    .a11y-announcement = Tiện ích được đề xuất có sẵn
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Đề xuất
+    .tooltiptext = Tính năng được đề xuất
+    .a11y-announcement = Tính năng được đề xuất có sẵn
 
 ## Add-on statistics
 ## These strings are used to display the total number of
