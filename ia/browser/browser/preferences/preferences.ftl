@@ -464,8 +464,8 @@ home-prefs-content-description = Elige qual contento tu desira pro tu pagina ini
 home-prefs-search-header =
     .label = Recerca del Web
 home-prefs-topsites-header =
-    .label = Sitos popular
-home-prefs-topsites-description = Le sitos que tu visita plus
+    .label = Sitos preferite
+home-prefs-topsites-description = Le sitos que tu visita le plus
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =

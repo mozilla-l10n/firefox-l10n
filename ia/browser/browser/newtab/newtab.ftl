@@ -24,8 +24,8 @@ newtab-search-box-search-the-web-input =
 ## Top Sites - General form dialog.
 
 newtab-topsites-add-search-engine-header = Adder un motor de recerca
-newtab-topsites-add-topsites-header = Nove sito popular
-newtab-topsites-edit-topsites-header = Modificar le sito popular
+newtab-topsites-add-topsites-header = Nove sito preferite
+newtab-topsites-edit-topsites-header = Modificar le sito preferite
 newtab-topsites-title-label = Titulo
 newtab-topsites-title-input =
     .placeholder = Scriber un titulo
@@ -160,28 +160,28 @@ newtab-empty-section-highlights = Comencia a navigar e nos te monstrara hic alcu
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = Tu ja es in die con toto. Reveni plus tarde pro plus historias popular de { $provider }. Non vole attender? Selectiona un subjecto popular pro trovar plus altere historias interessante del Web.
+newtab-empty-section-topstories = Tu ja es toto al currente. Reveni plus tarde pro plus historias popular de { $provider }. Non vole attender? Selige un subjecto popular pro discoperir altere articulos interessante sur le web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = Il ha nihil plus!
-newtab-discovery-empty-section-topstories-content = Controla de novo plus tarde pro altere historias.
-newtab-discovery-empty-section-topstories-try-again-button = Retenta
+newtab-discovery-empty-section-topstories-content = Reveni plus tarde pro leger altere articulos.
+newtab-discovery-empty-section-topstories-try-again-button = Tentar de novo
 newtab-discovery-empty-section-topstories-loading = Cargamento…
 # Displays when a layout in a section took too long to fetch articles.
-newtab-discovery-empty-section-topstories-timed-out = Ups! Nos ha quasi cargate iste section, ma non bastante.
+newtab-discovery-empty-section-topstories-timed-out = Ups! Nos non ha potite cargar tote le articulos de iste section.
 
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Subjectos popular:
 newtab-pocket-more-recommendations = Altere recommendationes
-newtab-pocket-how-it-works = Como illo labora
-newtab-pocket-cta-button = Installa { -pocket-brand-name }
-newtab-pocket-cta-text = Salvar le chronologias que tu ama in { -pocket-brand-name }, e alimenta tu mente con lecturas fascinante.
+newtab-pocket-how-it-works = Como functiona
+newtab-pocket-cta-button = Obtener { -pocket-brand-name }
+newtab-pocket-cta-text = Salva le articulos que tu ama in { -pocket-brand-name }, e alimenta tu mente con lecturas fascinante.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
-newtab-error-fallback-info = Op, error durante le carga de iste contento.
-newtab-error-fallback-refresh-link = Refresca le pagina pro retentar.
+newtab-error-fallback-info = Un error ha occurrite durante le cargamento de iste contento.
+newtab-error-fallback-refresh-link = Refresca le pagina pro tentar de novo.
