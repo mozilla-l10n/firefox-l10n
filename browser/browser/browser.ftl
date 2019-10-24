@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Almacenar datos en el almacenamiento persistente
 urlbar-addons-notification-anchor =
     .tooltiptext = Abrir panel de mensajes de instalación de complementos
+urlbar-tip-help-icon =
+    .title = Obtener ayuda
 
 ## Page Action Context Menu
 
@@ -83,3 +85,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Establecer como motor de búsqueda predeterminado
     .accesskey = p
+search-one-offs-context-set-as-default-private =
+    .label = Establecer como motor de búsqueda predeterminado en Ventanas Privadas
+    .accesskey = P
