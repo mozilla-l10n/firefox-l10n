@@ -461,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Contenu de la page d’accueil de Firefox
 home-prefs-content-description = Choisissez le contenu que vous souhaitez pour la page d’accueil de Firefox.
-home-prefs-content-discovery-description = La découverte de contenu dans l’accueil de Firefox vous propose des articles pertinents et de bonne qualité en provenance des quatre coins du Web.
 home-prefs-search-header =
     .label = Recherche web
 home-prefs-topsites-header =
@@ -509,7 +508,8 @@ search-bar-shown =
     .label = Ajouter la barre de recherche à la barre d’outils
 search-engine-default-header = Moteur de recherche par défaut
 search-engine-default-desc = Sélectionnez le moteur de recherche à utiliser par défaut dans la barre d’adresse et la barre de recherche.
-search-engine-default-private-desc = Choisissez le moteur de recherche par défaut à utiliser dans les fenêtres de navigation privée.
+search-engine-default-desc-2 = Ceci est votre moteur de recherche par défaut dans la barre d’adresse et la barre de recherche. Vous pouvez le changer à tout moment.
+search-engine-default-private-desc-2 = Choisissez un autre moteur de recherche par défaut pour les fenêtres de navigation privée
 search-separate-default-engine =
     .label = Utiliser ce moteur de recherche dans les fenêtres de navigation privée
     .accesskey = U
