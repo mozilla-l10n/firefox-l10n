@@ -2,19 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-head-title = Wó wuwijarskich rědach
-enable-title = Wuwijarske rědy Firefox zmóžniś
-enable-inspect-element-title = Wuwijarske rědy Firefox zmóžniś, aby se Element pśepytowaś wužywało
-enable-inspect-element-message = Pśepytajśo a wobźěłajśo HTML a CSS z Inspektora wuwijarskich rědow.
-enable-about-debugging-message = Wuwijajśo a testujśo WebExtensions, webworkery, service workery a wěcej z wuwijarskimi rědami Firefox.
-enable-key-shortcut-message = Sćo tastowu skrotconku wuwijarskich rědow aktiwěrował. Joli jo to zmólka była, móžośo toś ten rejtark zacyniś.
+head-title = Wó wuwijaŕskich rědach
+enable-title = Wuwijaŕske rědy Firefox zmóžniś
+enable-inspect-element-title = Wuwijaŕske rědy Firefox zmóžniś, aby se Element pśepytowaś wužywało
+enable-inspect-element-message = Pśepytajśo a wobźěłajśo HTML a CSS z Inspektora wuwijaŕskich rědow.
+enable-about-debugging-message = Wuwijajśo a testujśo WebExtensions, webworkery, service workery a wěcej z wuwijaŕskimi rědami Firefox.
+enable-key-shortcut-message = Sćo tastowu skrotconku wuwijaŕskich rědow aktiwěrował. Joli jo to zmólka była, móžośo toś ten rejtark zacyniś.
 enable-menu-message = Wudopołniśo HTML, CSS a JavaScript swójogo websedła z rědami ako Inspektor a pytanje za zmólkami.
-enable-common-message = Wuwijarske rědy Firefox su znjemóžnjone pó standarźe, aby wy wěcej kontrole nad swójim wobglědowakom měł.
-enable-learn-more-link = Zgóńśo wěcej wó wuwijarskich rědach
-enable-enable-button = Wuwijarske rědy zmóžniś
+enable-common-message = Wuwijaŕske rědy Firefox su znjemóžnjone pó standarźe, aby wy wěcej kontrole nad swójim wobglědowakom měł.
+enable-learn-more-link = Zgóńśo wěcej wó wuwijaŕskich rědach
+enable-enable-button = Wuwijaŕske rědy zmóžniś
 enable-close-button = Toś ten rejtark zacyniś
-welcome-title = Witajśo k wuwijarskim rědam Firefox!
-newsletter-title = Wuwijarski powěsćowy list Mozilla
+welcome-title = Witajśo k wuwijaŕskim rědam Firefox!
+newsletter-title = Wuwijaŕski powěsćowy list Mozilla
 newsletter-message = Wobstarajśo se nowosći wuwijarjow, pokaze a resurse, kótarež se direktnje na was sćelu.
 newsletter-email-placeholder =
     .placeholder = E-mail
@@ -23,7 +23,7 @@ newsletter-subscribe-button = Aboněrowaś
 newsletter-thanks-title = Wjeliki źěk!
 newsletter-thanks-message = Jolic hyšći njejsćo abonement powěsćowego lista Mozilla wobkšuśił, musyśo to něnto cyniś. Pšosym glědajśo do dochada posta abo papjernika za mejlku wót nas.
 footer-title = Firefox Developer Edition
-footer-message = Pytaśo wěcej ako jano wuwijarske rědy? Wuslěźćo wobglědowak Firefox, kótaryž jo se specielnje za wuwijarje a moderne źěłowe wótběgi wuwił.
+footer-message = Pytaśo wěcej ako jano wuwijaŕske rědy? Wuslěźćo wobglědowak Firefox, kótaryž jo se specielnje za wuwijarje a moderne źěłowe wótběgi wuwił.
 footer-learn-more-link = Dalšne informacije
 features-learn-more = Dalšne informacije
 features-inspector-title = Inspektor
@@ -51,4 +51,4 @@ newsletter-error-unknown = Njewótcakana zmólka jo nastała.
 newsletter-error-timeout = Póžedanje wó abonement jo cas pśekšocyło.
 # Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
-welcome-message = Sćo wuspěšnje zmóžnił wuwijarske rědy! Aby zachopił, pśepytajśo meni Webwuwijaŕ abo wócyńśo rědy z pomocu tastoweje skrotconki { $shortcut }.
+welcome-message = Sćo wuspěšnje zmóžnił wuwijaŕske rědy! Aby zachopił, pśepytajśo meni Webwuwijaŕ abo wócyńśo rědy z pomocu tastoweje skrotconki { $shortcut }.
