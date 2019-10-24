@@ -91,7 +91,7 @@ manifest-loaded-ok = Manifest laddat.
 manifest-loaded-error = Det uppstod ett fel när man laddade manifestet:
 # Text displayed as an error when there has been a Firefox DevTools error while
 # trying to load the manifest
-manifest-loaded-devtools-error = Firefox DevTools fel
+manifest-loaded-devtools-error = Fel i Firefox DevTools
 # Text displayed when the page has no manifest available
 manifest-non-existing = Inget manifest hittades för att inspektera.
 # Text displayed when the page has a manifest embedded in a Data URL and
