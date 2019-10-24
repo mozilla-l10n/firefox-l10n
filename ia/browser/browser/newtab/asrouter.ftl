@@ -6,22 +6,22 @@
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = Extension recommendate
-cfr-doorhanger-feature-heading = Functionalitates recommendate
+cfr-doorhanger-feature-heading = Functionalitate recommendate
 cfr-doorhanger-pintab-heading = Prova isto: Fixar scheda
 
 
 
 cfr-doorhanger-extension-sumo-link =
-    .tooltiptext = Perque io vide isto
+    .tooltiptext = Proque vide io isto?
 cfr-doorhanger-extension-cancel-button = Non ora
     .accesskey = N
-cfr-doorhanger-extension-ok-button = Adde ora
+cfr-doorhanger-extension-ok-button = Adder ora
     .accesskey = A
-cfr-doorhanger-pintab-ok-button = Fixar scheda
+cfr-doorhanger-pintab-ok-button = Fixar iste scheda
     .accesskey = F
-cfr-doorhanger-extension-manage-settings-button = Gere le definitiones del recommendation
+cfr-doorhanger-extension-manage-settings-button = Gerer le configurationes de recommendation
     .accesskey = G
-cfr-doorhanger-extension-never-show-recommendation = Non plus me monstrar iste recommendation
+cfr-doorhanger-extension-never-show-recommendation = Non monstrar me iste recommendation
     .accesskey = N
 cfr-doorhanger-extension-learn-more-link = Saper plus
 # This string is used on a new line below the add-on name
@@ -59,21 +59,21 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } usator
        *[other] { $total } usatores
     }
-cfr-doorhanger-pintab-description = Accede facilemente al sitos web que tu usa plus frequentemente. Mantene le sitos aperte in un scheda (anque quando tu reinitialisa).
+cfr-doorhanger-pintab-description = Accede facilemente al sitos web que tu usa le plus frequentemente. Mantene le sitos aperte in un scheda (mesmo quando tu reinitia).
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-step1 = <b>Clicca dextre</b> sur le scheda que tu desira appunctar.
-cfr-doorhanger-pintab-step2 = Elige <b>Appunctar scheda</b> ab le menu.
-cfr-doorhanger-pintab-step3 = Si le sito ha un actualisation tu videra un puncto blau sur tu scheda appunctate.
+cfr-doorhanger-pintab-step1 = <b>Face clic dextre</b> sur le scheda que tu vole fixar.
+cfr-doorhanger-pintab-step2 = Elige <b>Fixar scheda</b> in le menu.
+cfr-doorhanger-pintab-step3 = Si le sito se actualisa, un puncto blau apparera sur le scheda fixate.
 cfr-doorhanger-pintab-animation-pause = Pausar
-cfr-doorhanger-pintab-animation-resume = Resumer
+cfr-doorhanger-pintab-animation-resume = Reprender
 
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronisa tu marcapaginas ubique.
-cfr-doorhanger-bookmark-fxa-body = Grande discoperta! Ora non restar sin iste marcapagina sur tu apparatos mobile. Comencia con un { -fxaccount-brand-name }.
-cfr-doorhanger-bookmark-fxa-link-text = Synchronisa marcapaginas ora…
+cfr-doorhanger-bookmark-fxa-body = Grande discoperta! Ora non restar sin iste marcapaginas sur tu dispositivos mobile. Comencia con un { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Synchronisar marcapaginas ora…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Button Clauder
     .title = Clauder
@@ -81,7 +81,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Naviga sin lassar te sequer
-cfr-protections-panel-body = Mantene tu datos pro te mesme. { -brand-short-name } te protege ab multe del plus commun traciatores que seque lo que tu face online.
+cfr-protections-panel-body = Mantene tu datos pro te mesme. { -brand-short-name } te protege ab multes del plus commun traciatores que seque lo que tu face in linea.
 cfr-protections-panel-link-text = Saper plus
 
 ## What's New toolbar button and panel
@@ -93,9 +93,9 @@ cfr-whatsnew-button =
     .label = Novas
     .tooltiptext = Novas
 cfr-whatsnew-panel-header = Novas
-cfr-whatsnew-release-notes-link-text = Lege le notas de version
-cfr-whatsnew-fx70-title = { -brand-short-name } lucta ora plus fortemente pro tu confidentialitate
-cfr-whatsnew-fx70-body = Le ultime actualisation meliora le functionalitate de protection del traciamento e rende plus facile que mais crear contrasignos secur pro cata sito.
+cfr-whatsnew-release-notes-link-text = Leger le notas de version
+cfr-whatsnew-fx70-title = { -brand-short-name } lucta ora plus forte pro tu vita private
+cfr-whatsnew-fx70-body = Le ultime actualisation meliora le functionalitate de protection contra le traciamento e rende plus facile que jammais crear contrasignos secur pro cata sito.
 cfr-whatsnew-tracking-protect-title = Protege te ab le traciatores
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } bloca multe traciatores commun social e inter sitos que seque lo que tu face in linea.
 cfr-whatsnew-tracking-protect-link-text = Vide tu reporto
