@@ -50,8 +50,8 @@ cert-error-symantec-distrust-description = Le sitos web garanti lor identitate p
 cert-error-symantec-distrust-admin = Tu pote informar le administrator del sito web de iste problema.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
-cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
+cert-error-details-hsts-label = Securitate stricte de transporto HTTP: { $hasHSTS }
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
-cert-error-details-key-pinning-label = HTTP Public Key Pinning : { $hasHPKP }
+cert-error-details-key-pinning-label = Fixation de clave public HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Catena de certificato:
