@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Lưu dữ liệu vào bộ nhớ lâu dài
 urlbar-addons-notification-anchor =
     .tooltiptext = Mở bảng thông báo cài đặt tiện ích
+urlbar-tip-help-icon =
+    .title = Trợ giúp
 
 ## Page Action Context Menu
 
