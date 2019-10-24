@@ -71,6 +71,7 @@ about-logins-list-item-breach-icon =
 
 about-logins-login-intro-heading-logged-in = לא נמצאו כניסות מסונכרנות.
 login-intro-description = אם שמרת את הכניסות שלך ל־{ -brand-product-name } במכשיר אחר, כך ניתן לקבל אותן כאן:
+about-logins-intro-instruction-help = ניתן לבקר <a data-l10n-name="help-link">בתמיכה של { -lockwise-brand-short-name }</a> לעזרה נוספת
 
 ## Login
 
