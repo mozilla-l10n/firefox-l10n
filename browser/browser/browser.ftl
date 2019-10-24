@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = მონაცემების შენახვა მუდმივ მეხსიერებაზე
 urlbar-addons-notification-anchor =
     .tooltiptext = დამატების ჩადგმის შეტყობინების არის გახსნა
+urlbar-tip-help-icon =
+    .title = დახმარების მიღება
 
 ## Page Action Context Menu
 
@@ -81,5 +83,8 @@ search-one-offs-context-open-new-tab =
     .label = ძიება ახალ ჩანართში
     .accesskey = ნ
 search-one-offs-context-set-as-default =
-    .label = ნაგულისხმევ საძიებო სისტემად დაყენება
+    .label = ნაგულისხმევ საძიებოდ დაყენება
     .accesskey = გ
+search-one-offs-context-set-as-default-private =
+    .label = ნაგულისხმევ საძიებოდ დაყენება პირად ფანჯრებში
+    .accesskey = პ
