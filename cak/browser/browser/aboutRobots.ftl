@@ -17,7 +17,7 @@ error-short-desc-text = ¡Yojoqäj iwik'in rik'in uxlanib'äl k'u'x chuqa' rik'i
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
 error-long-desc1 = Ri ch'ich' taq ala's mani nikitzelaj jun winäq, ruma man nisamäj ta, tiya' kan chi ruyonil xtrizelaj qa ri'.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
-error-long-desc2 = Ri taq ch'ich'i taq ala's kitz'eton jalajöj taq wachinäq, ri majub'ey xtikinimaj ri winaqi'.
+error-long-desc2 = Ri ch'ich' taq ala's kitz'eton jalajöj taq wachinäq, ri majub'ey xtikinimaj ri winaqi'.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
 error-long-desc3 = Ri ch'ich' taq ala's e t'im taq awachibil, achoq kikin tik'asäs yatetz'an kik'in.
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
