@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Inglês (EU)
+#define MOZ_LANG_TITLE Triqui (Oaxaca)
