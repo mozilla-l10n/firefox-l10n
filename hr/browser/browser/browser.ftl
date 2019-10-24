@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Trajno pohranjuj podatke
 urlbar-addons-notification-anchor =
     .tooltiptext = Otvori ploču s informacijama o instaliranim dodacima
+urlbar-tip-help-icon =
+    .title = Potražite pomoć
 
 ## Page Action Context Menu
 
