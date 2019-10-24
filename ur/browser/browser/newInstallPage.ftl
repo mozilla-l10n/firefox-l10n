@@ -11,6 +11,7 @@ title = اہم خبر
 changed-title = تبدیل کیا ہے
 options-title = میرے اختیارات کیا ہیں؟
 resources = ماخذ
+sync-label = اپنی ای میل داخل کریں
 sync-input =
     .placeholder = ای میل
 sync-button = جاری رکھیں
