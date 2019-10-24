@@ -6,9 +6,9 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } usa un invalide certificato de securitate.
 cert-error-mitm-intro = Sitos web prova lor identitate via certificatos, que es emittite per autoritates de certification.
-cert-error-mitm-mozilla = { -brand-short-name } es adorsate per le organisation se fin lucrative Mozilla, que administra un immagazinage de autoritates de certification (CA) completemente aperite. Le immagazinage CA garanti que le autoritates de certification seque le melior practicas pro le securitate del usator.
-cert-error-mitm-connection = { -brand-short-name } usa le immagazinage CA pro verificar que un connexion es secur, in vice de usar certificatos providite per le systema operative del usator. Alora, si un programma antivirus o un rete intercepta le connexion con un certificato de securitate emittite per un CA que non es in le immagazinage CA de Mozilla, le connexion es considerate insecur.
-cert-error-trust-unknown-issuer-intro = Alcuno possibilemente tenta deluder te per imitar le sito e tu non deberea continuar.
+cert-error-mitm-mozilla = { -brand-short-name } es sustenite per le organisation sin scopo lucrative Mozilla, que administra un magazin de autoritates de certification (CA) completemente aperte. Le magazin CA adjuta a garantir que le autoritates de certification seque le melior practicas pro le securitate del usator.
+cert-error-mitm-connection = { -brand-short-name } usa le magazin CA de Mozilla pro verificar que un connexion es secur, in vice de usar le certificatos fornite per le systema de operation del usator. Dunque, si un programma antivirus o un rete intercepta le connexion con un certificato de securitate emittite per un CA que non es in le magazin CA de Mozilla, le connexion es considerate insecur.
+cert-error-trust-unknown-issuer-intro = Alcuno possibilemente tenta usurpar le identitate del sito. Tu non deberea continuar.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-trust-unknown-issuer = Le sitos web garanti lor identitate per certificatos. { -brand-short-name } non fide de { $hostname } perque su editor de certificato es incognite, le certificato es auto-signate o le servitor non invia le certificato intermedie correcte.
