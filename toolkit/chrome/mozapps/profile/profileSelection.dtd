@@ -5,7 +5,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY            windowtitle.label      "&brandShortName; - Wužywarski profil wubraś">
+<!ENTITY            windowtitle.label      "&brandShortName; - Wužywaŕski profil wubraś">
 
 <!ENTITY            profilename.label      "Profilowe mě:">
 
@@ -20,9 +20,9 @@
 <!ENTITY            renameButton.accesskey "m">
 <!ENTITY            deleteButton.label     "Profil lašowaś…">
 <!ENTITY            deleteButton.accesskey "l">
-<!-- manager entities -->
 
-<!ENTITY            pmDescription.label    "&brandShortName; składujo informacije wó wašych nastajenjach, preferencach a drugich wužywarskich zapiskach we wašom wužywarskem profilu.">
+<!-- manager entities -->
+<!ENTITY            pmDescription.label    "&brandShortName; składujo informacije wó wašych nastajenjach, preferencach a drugich wužywaŕskich zapiskach we wašom wužywaŕskem profilu.">
 
 <!ENTITY            offlineState.label    "Offline źełaś">
 <!ENTITY            offlineState.accesskey "O">
