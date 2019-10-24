@@ -21,7 +21,7 @@ about-config-intro-warning-button = Погодитись на ризик і пр
 
 
 # This is shown on the page before searching but after the warning is accepted.
-about-config-caution-text = Зміна цих налаштувань може вплинути на швидкодію і безпеку { -brand-short-name }.
+about-config-caution-text = Зміна цих налаштувань може вплинути на швидкодію чи безпеку { -brand-short-name }.
 about-config-page-title = Розширені налаштування
 about-config-search-input1 =
     .placeholder = Пошук назви налаштування

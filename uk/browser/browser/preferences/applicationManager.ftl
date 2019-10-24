@@ -8,13 +8,12 @@ app-manager-window =
 app-manager-remove =
     .label = Вилучити
     .accesskey = л
-app-manager-handle-webfeeds = Наступні програми можуть бути використані для обробки Веб-стрічки.
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
-app-manager-handle-protocol = Наступні програми можуть бути використані для обробки посилання { $type }.
+app-manager-handle-protocol = Для обробки посилань { $type } можуть використовуватись такі програми.
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
-app-manager-handle-file = Наступні програми можуть бути використані для обробки вміст { $type }.
+app-manager-handle-file = Для обробки вмісту { $type } можуть використовуватись такі програми.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
