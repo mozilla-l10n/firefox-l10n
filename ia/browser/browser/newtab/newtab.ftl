@@ -45,9 +45,6 @@ newtab-topsites-save-button = Salvar
 newtab-topsites-preview-button = Vista preliminar
 newtab-topsites-add-button = Adder
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Desira tu vermente deler cata instantia de iste pagina de tu chronologia?
@@ -73,26 +70,23 @@ newtab-menu-topsites-placeholder-tooltip =
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
-newtab-menu-edit-topsites = Editar
+newtab-menu-edit-topsites = Modificar
 newtab-menu-open-new-window = Aperir in un nove fenestra
 newtab-menu-open-new-private-window = Aperir in un nove fenestra private
 newtab-menu-dismiss = Dimitter
-newtab-menu-pin = Clavar
-newtab-menu-unpin = Disclavar
+newtab-menu-pin = Fixar
+newtab-menu-unpin = Disfixar
 newtab-menu-delete-history = Deler del chronologia
 newtab-menu-save-to-pocket = Salvar in { -pocket-brand-name }
-newtab-menu-delete-pocket = Delite ex { -pocket-brand-name }
+newtab-menu-delete-pocket = Deler de { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivar in { -pocket-brand-name }
-newtab-menu-show-privacy-info = Nostre subventionatores e tu confidentialitate
+newtab-menu-show-privacy-info = Nostre sponsores e tu vita private
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Facite
-newtab-privacy-modal-header = Tu confidentialitate es importante.
-newtab-privacy-modal-paragraph =
-    In addition a te fornir historias captivante, nos te monstra anque pertinente,
-    ben curate contentos ex sponsors seligite. Resta secur, le datos de tu navigator
-     jammais exi ab { -brand-product-name }: nos non vide los e ni minus nostre sponsors.
+newtab-privacy-modal-header = Tu vita private es importante.
+newtab-privacy-modal-paragraph = In addition a servir te historias captivante, nos te monstra anque contento pertinente e ben curate ab sponsores seligite. Sia assecurate que tu datos de navigation non essera jammais divulgate ab tu copia personal de { -brand-product-name }: nos non los vide, ni nostre sponsores.
 newtab-privacy-modal-link = Apprende como functiona le confidentialitate in le nove scheda.
 
 
@@ -101,10 +95,6 @@ newtab-privacy-modal-link = Apprende como functiona le confidentialitate in le n
 newtab-menu-remove-bookmark = Remover le marcapaginas
 # Bookmark is a verb here.
 newtab-menu-bookmark = Adder marcapaginas
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -135,10 +125,6 @@ newtab-label-recommended = Tendentias
 newtab-label-saved = Salvate in { -pocket-brand-name }
 newtab-label-download = Discargate
 
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
-
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
@@ -147,7 +133,7 @@ newtab-section-menu-collapse-section = Collaber le section
 newtab-section-menu-expand-section = Expander le section
 newtab-section-menu-manage-section = Gerer le section
 newtab-section-menu-manage-webext = Gerer extension
-newtab-section-menu-add-topsite = Adder a sito popular
+newtab-section-menu-add-topsite = Adder sito preferite
 newtab-section-menu-add-search-engine = Adder un motor de recerca
 newtab-section-menu-move-up = Mover in alto
 newtab-section-menu-move-down = Mover in basso
@@ -162,7 +148,7 @@ newtab-section-expand-section-label =
 
 ## Section Headers.
 
-newtab-section-header-topsites = Sitos popular
+newtab-section-header-topsites = Sitos preferite
 newtab-section-header-highlights = In evidentia
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
@@ -170,7 +156,7 @@ newtab-section-header-pocket = Recommendate per { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
-newtab-empty-section-highlights = Comencia navigar e nos te monstrara alcun del grande articulos, videos e altere paginas que tu ha recentemente visitate o addite marcapaginas hic.
+newtab-empty-section-highlights = Comencia a navigar e nos te monstrara hic alcunes del excellente articulos, videos e altere paginas que tu ha recentemente visitate o addite al marcapaginas.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
