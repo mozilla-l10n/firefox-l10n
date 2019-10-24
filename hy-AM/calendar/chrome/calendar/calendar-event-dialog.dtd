@@ -324,6 +324,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month.1.label       "Հունվար" >
 <!ENTITY event.recurrence.pattern.yearly.month.2.label       "Փետրվար" >
 <!ENTITY event.recurrence.pattern.yearly.month.3.label       "Մարտ" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "Ապրիլ" >
 <!ENTITY event.recurrence.pattern.yearly.month.5.label       "Մայիս" >
 <!ENTITY event.recurrence.pattern.yearly.month.6.label       "Հունիս" >
 <!ENTITY event.recurrence.pattern.yearly.month.7.label       "Հուլիս" >
