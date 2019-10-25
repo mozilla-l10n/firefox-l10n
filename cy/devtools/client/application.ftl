@@ -86,8 +86,12 @@ manifest-item-icons = Eiconau
 manifest-loading = Llwytho maniffest ...
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = Manifest wedi'i lwytho.
-# Text displayed when there has been an error while trying to load the manifest
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
 manifest-loaded-error = Bu gwall wrth lwytho'r maniffest:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Gwall Firefox DevTools
 # Text displayed when the page has no manifest available
 manifest-non-existing = Heb ganfod maniffest i'w arolygu
 # Text displayed when the page has a manifest embedded in a Data URL and
