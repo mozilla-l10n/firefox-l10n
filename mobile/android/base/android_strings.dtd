@@ -25,9 +25,9 @@
 <!ENTITY updatednewfirstrun_sync_title "Konto">
 <!ENTITY firstrun_sync_message2 "Machen Sie da weiter, wo Sie aufgehört haben.">
 <!ENTITY firstrun_sync_subtext2 "Mit Sync können Sie jederzeit auf alle Ihre Lesezeichen, Passwörter und anderen Dinge zugreifen, die Sie in &brandShortName; auf anderen Geräten speichern.">
-<!ENTITY newfirstrun_sync_subtext "Synchronisieren Sie in Firefox für Android gespeicherte Einträge mit Firefox für Windows, macOS oder Linux - privat und sicher.">
+<!ENTITY newfirstrun_sync_subtext "Synchronisieren Sie die in Firefox für Android gespeicherten Einträge mit Firefox für Desktop (Windows, macOS oder Linux) - privat und sicher.">
 <!ENTITY firstrun_sendtab_title "Tab senden">
-<!ENTITY firstrun_sendtab_message "Teilen Sie Tabs von mobil zum Desktop — sofort.">
+<!ENTITY firstrun_sendtab_message "Teilen Sie Tabs von Mobilgeräten zum Desktop — sofort.">
 <!ENTITY updatednewfirstrun_sync_subtext "Melden Sie sich mit Ihrem Konto an und nutzen Sie &brandShortName; effektiver.">
 <!ENTITY firstrun_signin_message "Verbinden Sie und legen Sie los">
 <!ENTITY firstrun_signin_button "Bei Sync anmelden">
@@ -45,7 +45,7 @@
 <!ENTITY firstrun_readerview_title "Artikel">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Einfachere Darstellung">
-<!ENTITY firstrun_readerview_subtext "Verwenden Sie die Leseansicht, um Artikel in einer angenehmeren Leseansicht angezeigt zu bekommen \u2014 sogar offline.">
+<!ENTITY firstrun_readerview_subtext "Verwenden Sie die Leseansicht, um Artikel in einer angenehmeren Darstellung anzuzeigen \u2014 sogar offline.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Sie">
