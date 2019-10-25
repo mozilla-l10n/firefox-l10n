@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = S { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Awelleh
+cfr-doorhanger-extension-notification2 = Iwellihen
+    .tooltiptext = Iseɣzaf ihulen
+    .a11y-announcement = Iseɣzaf ihulen i yellan
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Iwellihen
+    .tooltiptext = Timahaltin ihulen
+    .a11y-announcement = Timahaltin ihulen i yellan
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -152,5 +160,13 @@ cfr-doorhanger-cryptominers-description = Aqadeṛ n tudert-ik tusligt d ayen me
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] { -brand-short-name } iwḥel i { $blockedCount }</b> uneḍfar seg
+       *[other] { $date }!
+    }
 cfr-doorhanger-milestone-ok-button = Wali akk
     .accesskey = W
