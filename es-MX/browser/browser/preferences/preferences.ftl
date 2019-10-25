@@ -282,6 +282,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Usar { $plugin-name } (en { -brand-short-name })
@@ -457,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Contenido de la página de inicio de Firefox
 home-prefs-content-description = Selecciona el contenido que desea en la pantalla de inicio de Firefox.
-home-prefs-content-discovery-description = El descubrimiento de contenido en la página de inicio de Firefox te muestra artículos relevantes y de alta calidad provenientes de toda la red.
 home-prefs-search-header =
     .label = Búsqueda web
 home-prefs-topsites-header =
@@ -505,7 +508,7 @@ search-bar-shown =
     .label = Agregar barra de búsqueda en la barra de herramientas
 search-engine-default-header = Buscador predeterminado
 search-engine-default-desc = Elegir el motor de búsqueda predeterminado para usar en la barra de direcciones y en la barra de búsqueda.
-search-engine-default-private-desc = Selecciona el motor de búsqueda predeterminado para usar en ventanas privadas.
+search-engine-default-desc-2 = Este es tu motor de búsqueda predeterminado en la barra de direcciones y en la barra de búsqueda. Puedes cambiarlo en cualquier momento.
 search-separate-default-engine =
     .label = Usar este motor de búsqueda en ventanas privadas
     .accesskey = U
