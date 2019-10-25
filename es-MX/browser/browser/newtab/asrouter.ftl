@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = por { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendación
+cfr-doorhanger-extension-notification2 = Recomendación
+    .tooltiptext = Recomendación de extensión
+    .a11y-announcement = Recomendación de extensión disponible
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Recomendación
+    .tooltiptext = Recomendación de la característica
+    .a11y-announcement = Recomendación de las características disponibles
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -78,6 +86,9 @@ cfr-protections-panel-link-text = Más información
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Nueva característica:
 cfr-whatsnew-button =
     .label = Novedades
     .tooltiptext = Novedades
@@ -152,3 +163,15 @@ cfr-doorhanger-fingerprinters-heading = { -brand-short-name } bloqueó un detect
 cfr-doorhanger-fingerprinters-description = Tu privacidad importa. { -brand-short-name } ahora bloquea los detectores de huellas digitales, que recopilan piezas de información que identifican de forma única a tu dispositivo para poder rastrearte.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } bloqueó un criptominero en esta página
 cfr-doorhanger-cryptominers-description = Tu privacidad es importante. { -brand-short-name } ahora bloquea los criptomineros, que utilizan la potencia informática de tu sistema para extraer dinero digital.
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+       *[other] ¡{ -brand-short-name } bloqueó más de <b>{ $blockedCount }</b> rastreadores desde { $date }!
+    }
+cfr-doorhanger-milestone-ok-button = Ver todo
+    .accesskey = V
