@@ -454,7 +454,6 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox үй парағы құрамасы
 home-prefs-content-description = Firefox үй парағында қандай құраманы көргіңіз келетінді таңдаңыз.
-home-prefs-content-discovery-description = Firefox үй парағында құраманы табу сізге интернеттен жоғары сапалы, релевантты мақалаларды табуға көмектеседі.
 home-prefs-search-header =
     .label = Интернеттен іздеу
 home-prefs-topsites-header =
@@ -583,6 +582,9 @@ sync-profile-picture =
 sync-disconnect =
     .label = Байланысты үзу…
     .accesskey = з
+sync-sign-out =
+    .label = Шығу…
+    .accesskey = Ш
 sync-manage-account = Тіркелгіні басқару
     .accesskey = к
 sync-signedin-unverified = { $email } расталған жоқ
@@ -623,6 +625,9 @@ sync-currently-syncing-prefs =
         [windows] Баптаулар
        *[other] Баптаулар
     }
+sync-change-options =
+    .label = Өзгерту…
+    .accesskey = з
 
 ## The "Choose what to sync" dialog.
 

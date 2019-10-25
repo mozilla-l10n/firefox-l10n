@@ -155,11 +155,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Кім ретінде кірген:">
 <!ENTITY fxa.menu.manageAccount.label "Тіркелгіні басқару…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; баптаулары…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; баптаулары…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Басқа құрылғыны байланыстыру…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -877,6 +877,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Рұқсаттар">
 
+<!ENTITY identity.permissions3 "Рұқсаттар">
 <!ENTITY identity.permissionsEmpty "Бұл сайтқа арнайы рұқсаттарды берген жоқсыз.">
 <!ENTITY identity.permissionsReloadHint "Өзгерістер іске асуы үшін бұл парақты қайта жүктеуіңіз керек болуы мүмкін.">
 <!ENTITY identity.permissionsPreferences.tooltip "Рұқсаттар баптауларын ашу">
