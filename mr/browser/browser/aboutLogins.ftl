@@ -6,6 +6,10 @@ about-logins-page-title = लॉगिन व संकेतशब्द
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-android =
+    .alt = Google Play वर मिळवा
+login-app-promo-apple =
+    .alt = App Store वरुन डाउनलोड करा
 login-filter =
     .placeholder = लॉगिन शोधा
 create-login-button = नविन लॉगिन बनवा
@@ -22,6 +26,7 @@ menu-menuitem-preferences =
         [windows] पर्याय
        *[other] प्राधान्ये
     }
+about-logins-menu-menuitem-help = मदत
 menu-menuitem-android-app = { -lockwise-brand-short-name } Android साठी
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } iPhone and iPad साठी
 
@@ -39,6 +44,8 @@ login-list-name-option = नाव (A-Z)
 login-list-last-changed-option = शेवटचा बदल
 login-list-last-used-option = शेवटचा वापर
 login-list-intro-title = कुठलेही लॉगिन सापडले नाही
+about-logins-login-list-empty-search-title = कुठलेही लॉगिन सापडले नाही
+about-logins-login-list-empty-search-description = आपल्या शोधाशी जुळणारे कोणतेही परिणाम नाहीत.
 login-list-item-title-new-login = नविन लॉगीन
 login-list-item-subtitle-new-login = तुमचे लॉगीन संकेतशब्द टाका
 login-list-item-subtitle-missing-username = (कुठलेही वापरकर्तानाव नाही)
@@ -55,6 +62,8 @@ login-item-origin-label = संकेतस्थळ पत्ता
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = वापरकर्तानाव
+about-logins-login-item-username =
+    .placeholder = (वापरकर्तानाव नाही)
 login-item-copy-username-button-text = प्रत बनवा
 login-item-copied-username-button-text = प्रत बनवली!
 login-item-password-label = संकेतशब्द
@@ -91,6 +100,8 @@ confirm-discard-changes-dialog-confirm-button = रद्द करा
 ## Breach Alert notification
 
 breach-alert-link = या उल्लंघनाबद्दल अधिक जाणून घ्या.
+breach-alert-dismiss =
+    .title = हा इशारा बंद करा
 
 ## Error Messages
 
