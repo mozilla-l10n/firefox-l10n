@@ -33,10 +33,20 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Lypset email i vlefshëm
 onboarding-join-form-legal = Duke vazhduar, pajtoheni me <a data-l10n-name="terms">Kushte Shërbimi</a> dhe <a data-l10n-name="privacy">Shënim Privatësie</a>.
 onboarding-join-form-continue = Vazhdo
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Keni tashmë një llogari?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Hyni
 onboarding-start-browsing-button-label = Filloni të Shfletoni
 onboarding-cards-dismiss =
     .title = Hidhe tej
     .aria-label = Hidhe tej
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Le të fillojmë eksplorimin e gjithçkaje që mund të bëni.
+onboarding-fullpage-form-email =
+    .placeholder = Adresa juaj email…
 
 ## Firefox Sync modal dialog strings.
 
@@ -103,6 +113,7 @@ onboarding-data-sync-text2 = Njëkohësoni faqerojtësit tuaj, fjalëkalimet, et
 onboarding-data-sync-button2 = Hyni në { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Jini Në Dijeni të Shkeljeve të të Dhënave
 onboarding-firefox-monitor-text = { -monitor-brand-name } mbikëqyr se mos email-i juaj është shfaqur në ndonjë shkelje të dhënash dhe ju vë në dijeni nëse shfaqet në një shkelje të re.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } mbikëqyr se mos email-i juaj është parë në ndonjë cenim të ditur të dhënash dhe ju sinjalizon nëse shfaqet në një cenim të ri.
 onboarding-firefox-monitor-button = Regjistrohuni për Sinjalizime
 onboarding-browse-privately-title = Shfletoni Privatisht
 onboarding-browse-privately-text = Shfletimi Privat e spastron historikun tuaj të kërkimeve dhe shfletimit, për ta mbajtur të fshehtë ndaj cilitdo që përdor kompjuterin tuaj.

@@ -461,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Lëndë Firefox Home
 home-prefs-content-description = Zgjidhni ç’lëndë doni në skenën tuaj Firefox.
-home-prefs-content-discovery-description = Zbulimi i Lëndës në Kreun e Firefox-it ju lejon të zbuloni në internet artikuj të cilësisë së lartë, dhe afër interesave tuaja.
 home-prefs-search-header =
     .label = Kërkim Web
 home-prefs-topsites-header =
@@ -509,7 +508,8 @@ search-bar-shown =
     .label = Shtoni te paneli shtyllë kërkimesh
 search-engine-default-header = Motor Parazgjedhje Kërkimesh
 search-engine-default-desc = Zgjidhni motorin parazgjedhje të kërkimeve që do të përdoret te shtylla e adresave dhe shtylla e kërkimeve.
-search-engine-default-private-desc = Zgjidhni motorin parazgjedhje të kërkimeve për t’u përdorur në Dritare Private.
+search-engine-default-desc-2 = Ky është motori juaj parazgjedhje i kërkimeve te shtylla e adresave dhe shtylla e kërkimeve. Mund ta këmbeni me tjetër kur të doni.
+search-engine-default-private-desc-2 = Zgjidhni një motor të ndryshëm kërkimesh, vetëm për Dritare Private
 search-separate-default-engine =
     .label = Në Dritare Private përdor këtë motor kërkimesh
     .accesskey = p
@@ -528,6 +528,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Shfaq te përfundimet në shtyllën e adresave sugjerime kërkimi përpara se historik shfletimi
+search-show-suggestions-private-windows =
+    .label = Shfaq sugjerime kërkimesh në Dritare Private
 suggestions-addressbar-settings = Ndryshoni parapëlqime për historik shfletimesh, faqerojtës, dhe sugjerime skedash
 search-suggestions-cant-show = Këshillimet për kërkime nuk do të shfaqen te shtylla e vendndodhjeve, ngaqë { -brand-short-name }-in e keni formësuar të mos mbajë kurrë mend historikun e shfletimeve.
 search-one-click-header = Motorë kërkimesh me një klikim

@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Depozitoni të dhëna në Depozitë të Qëndrueshme
 urlbar-addons-notification-anchor =
     .tooltiptext = Hapni kuadratin e mesazhit të instalimit të shtesës
+urlbar-tip-help-icon =
+    .title = Merrni ndihmë
 
 ## Page Action Context Menu
 
