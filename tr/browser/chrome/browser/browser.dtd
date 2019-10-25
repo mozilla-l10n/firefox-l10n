@@ -949,7 +949,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Bu çerezler, internette yaptığınız şeyler hakkında veri toplamak için sizi siteden siteye takip eder. Reklam verenler ve analiz şirketleri gibi üçüncü taraflar tarafından yerleştirilirler.">
 <!ENTITY protections.cryptominers.description "Kripto madencileri sayısal para madenciliğinde bulunmak için sisteminizin hesaplama gücünü kullanır. Kripto madencilik komut dosyaları pilinizi tüketir, bilgisayarınızı yavaşlatır ve elektrik faturanızı kabartabilir.">
-<!ENTITY protections.fingerprinters.description "Parmak izi toplayıcıları profilinizi oluşturmak için tarayıcı ve bilgisayarınızdaki ayarları toplarlar. Bu dijital parmak izini kullanarak farklı web siteler arasında sizi takip edebilirler.">
+<!ENTITY protections.fingerprinters.description "Parmak izi toplayıcılar profilinizi oluşturmak için tarayıcı ve bilgisayarınızdaki ayarları toplar. Bu dijital parmak izini kullanarak farklı web siteler arasında sizi takip edebilirler.">
 <!ENTITY protections.trackingContent2.description "Web siteleri; takip kodu içeren harici reklamlar, videolar ve başka içerikler yükleyebilir. Takip amaçlı içerikleri engellemek sitelerin daha hızlı yüklenmesini sağlayabilir ama bazı düğmeler, formlar ve giriş alanları çalışmayabilir.">
 <!ENTITY protections.socialMediaTrackers.description "Sosyal ağlar, internette yaptıklarınızı, gördüklerinizi ve izlediklerinizi takip etmek için diğer web sitelerine takipçiler yerleştirirler. Bu sayede sosyal medya şirketleri, sosyal medya profillerinizde paylaştıklarınızdan çok daha fazla şey öğrenebilir.">
 

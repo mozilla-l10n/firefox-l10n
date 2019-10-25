@@ -43,7 +43,7 @@ cookie-tab-content = Bu çerezler gezdiğiniz siteleri takip ederek internette y
 tracker-tab-title = Takip amaçlı içerikler
 tracker-tab-description = Web siteleri; takip kodu içeren harici reklamlar, videolar ve başka içerikler yükleyebilir. Takip amaçlı içerikleri engellemek sitelerin daha hızlı yüklenmesini sağlayabilir ama bazı düğmeler, formlar ve giriş alanları çalışmayabilir. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
 fingerprinter-tab-title = Parmak izi toplayıcılar
-fingerprinter-tab-content = Parmak izi toplayıcıları profilinizi oluşturmak için tarayıcı ve bilgisayarınızdaki ayarları toplarlar. Bu dijital parmak izini kullanarak farklı web siteler arasında sizi takip edebilirler. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
+fingerprinter-tab-content = Parmak izi toplayıcılar profilinizi oluşturmak için tarayıcı ve bilgisayarınızdaki ayarları toplarlar. Bu dijital parmak izini kullanarak farklı web siteler arasında sizi takip edebilirler. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
 cryptominer-tab-title = Kripto madencileri
 cryptominer-tab-content = Kripto madencileri sayısal para madenciliğinde bulunmak için sisteminizin hesaplama gücünü kullanır. Kripto madencilik komut dosyaları pilinizi tüketir, bilgisayarınızı yavaşlatır ve elektrik faturanızı kabartabilir. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
 lockwise-title = Bir daha hiçbir parolayı unutmayın
