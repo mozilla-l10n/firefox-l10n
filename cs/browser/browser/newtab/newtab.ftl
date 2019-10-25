@@ -45,9 +45,6 @@ newtab-topsites-save-button = Uložit
 newtab-topsites-preview-button = Náhled
 newtab-topsites-add-button = Přidat
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Opravdu chcete smazat všechny výskyty této stránky z vaší historie?
@@ -83,6 +80,7 @@ newtab-menu-delete-history = Smazat z historie
 newtab-menu-save-to-pocket = Uložit do služby { -pocket-brand-name }
 newtab-menu-delete-pocket = Smazat ze služby { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivovat do služby { -pocket-brand-name }
+newtab-menu-show-privacy-info = Naši sponzoři a vaše soukromí
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -95,10 +93,6 @@ newtab-privacy-modal-header = Na vašem soukromí záleží.
 newtab-menu-remove-bookmark = Odebrat záložku
 # Bookmark is a verb here.
 newtab-menu-bookmark = Přidat do záložek
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -128,10 +122,6 @@ newtab-label-removed-bookmark = Záložka odebrána
 newtab-label-recommended = Populární
 newtab-label-saved = Uloženo do služby { -pocket-brand-name }
 newtab-label-download = Staženo
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.

@@ -73,6 +73,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = Hledáte své uložené přihlašovací údaje? Přihlaste se ke službě { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = Nenalezeny žádné synchronizované přihlašovací údaje.
 login-intro-description = Pokud jste si uložili přihlašovací údaje do aplikace { -brand-product-name }, ale na jiném zařízení, můžete je zde získat takto:
 login-intro-instruction-fxa = Vytvořte nebo se přihlaste k účtu { -fxaccount-brand-name } na zařízení, kde máte přihlašovací údaje uložené
 login-intro-instruction-fxa-settings = V nastavení služby { -sync-brand-short-name } na daném zařízení se ujistěte, že máte vybranou synchronizaci přihlašovacích údajů
@@ -150,5 +151,10 @@ breach-alert-dismiss =
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login = Přihlašovací údaje pro { $loginTitle } se stejným uživatelským jménem už existují.
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Přihlašovací údaje pro { $loginTitle } se stejným uživatelským jménem už existují. <a data-l10n-name="duplicate-link">Chcete zobrazit stávající údaje?</a>
 # This is a generic error message.
 about-logins-error-message-default = Při ukládání hesla nastala chyba.

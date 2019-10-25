@@ -285,6 +285,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Použít { $plugin-name } (v aplikaci { -brand-short-name })
@@ -466,7 +470,6 @@ choose-bookmark =
 
 home-prefs-content-header = Obsah domovské stránky Firefoxu
 home-prefs-content-description = Vyberte obsah, který chcete mít na výchozí domovské stránce Firefoxu.
-home-prefs-content-discovery-description = Doporučování obsahu na domovské stránce obsahu vám nabídne kvalitní a relevantní články z celého internetu.
 home-prefs-search-header =
     .label = Vyhledávání na webu
 home-prefs-topsites-header =
@@ -515,7 +518,7 @@ search-bar-shown =
     .label = Přidat na lištu vyhledávací pole
 search-engine-default-header = Výchozí vyhledávač
 search-engine-default-desc = Vyberte výchozí vyhledávač pro hledání z adresního řádku nebo vyhledávacího pole.
-search-engine-default-private-desc = Vyberte výchozí vyhledávač pro použití v režimu anonymního prohlížení.
+search-engine-default-private-desc-2 = Vyberte odlišný výchozí vyhledávač pro použití v režimu anonymního prohlížení
 search-separate-default-engine =
     .label = Použít tento vyhledávač jako výchozí také v režimu anonymního prohlížení
     .accesskey = u
@@ -534,6 +537,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Našeptávat vyhledávání v adresním řádku nad stránkami z historie prohlížení
+search-show-suggestions-private-windows =
+    .label = Našeptávat vyhledávání také v anonymním prohlížení
 suggestions-addressbar-settings = Nastavit našeptávání z historie prohlížení, záložek a otevřených panelů
 search-suggestions-cant-show = Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste aplikaci { -brand-short-name } nastavili, aby si nikdy nepamatovala historii.
 search-one-click-header = Vyhledávání jedním klepnutím
