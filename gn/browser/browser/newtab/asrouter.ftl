@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = Hese { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Je'ete
+cfr-doorhanger-extension-notification2 = Je'eporã
+    .tooltiptext = Jepysokue je'eporã
+    .a11y-announcement = Jepysokue je'eporã eipurukuaáva
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Je'eporã
+    .tooltiptext = Peteĩchagua je'eporã
+    .a11y-announcement = Peteĩchagua je'eporã eipurukuaáva
 
 ## Add-on statistics
 ## These strings are used to display the total number of

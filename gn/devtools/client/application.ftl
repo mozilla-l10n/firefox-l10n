@@ -86,8 +86,12 @@ manifest-item-icons = Ta’ãngachu’i
 manifest-loading = Je’epyre ñemyanyhẽ…
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = Je’epyre ñemyanyhẽpyre.
-# Text displayed when there has been an error while trying to load the manifest
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
 manifest-loaded-error = Ojavy ehupikuévo pe je’epyre:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Firefox DevTools jejavy
 # Text displayed when the page has no manifest available
 manifest-non-existing = Ndojejuhúi je’epyre ojehechajey hag̃ua.
 # Text displayed when the page has a manifest embedded in a Data URL and
