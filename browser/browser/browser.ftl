@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Uložit data natrvalo
 urlbar-addons-notification-anchor =
     .tooltiptext = Otevřít panel zpráv instalace doplňku
+urlbar-tip-help-icon =
+    .title = Získat pomoc
 
 ## Page Action Context Menu
 
@@ -83,3 +85,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Nastavit jako výchozí vyhledávač
     .accesskey = v
+search-one-offs-context-set-as-default-private =
+    .label = Nastavit jako výchozí vyhledávač pro anonymní prohlížení
+    .accesskey = p

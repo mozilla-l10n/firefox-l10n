@@ -36,10 +36,19 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Je požadován platný e-mail
 onboarding-join-form-legal = Pokračováním souhlasíte s <a data-l10n-name="terms">podmínkami poskytování služby</a> a <a data-l10n-name="privacy">zásadami ochrany osobních údajů</a>.
 onboarding-join-form-continue = Pokračovat
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Už máte účet?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Přihlásit se
 onboarding-start-browsing-button-label = Začít prohlížet
 onboarding-cards-dismiss =
     .title = Skrýt
     .aria-label = Skrýt
+
+## Welcome full page string
+
+onboarding-fullpage-form-email =
+    .placeholder = Vaše e-mailová adresa…
 
 ## Firefox Sync modal dialog strings.
 
@@ -109,6 +118,7 @@ onboarding-data-sync-text2 =
 onboarding-data-sync-button2 = Přihlásit ke službě { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Buďte informování o únicích dat
 onboarding-firefox-monitor-text = { -monitor-brand-name } hlídá, jestli vaše e-mailová adresa nebyla součástí nějakého úniku dat, a dá vám vědět, pokud ji v nějakém najde.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } hlídá, jestli vaše e-mailová adresa nebyla součástí nějakého známého úniku dat, a dá vám vědět, pokud ji v nějakém najde.
 onboarding-firefox-monitor-button = Nechte si posílat upozornění
 onboarding-browse-privately-title = Prohlížejte v soukromí
 onboarding-browse-privately-text = Funkce anonymního prohlížení smaže vaši historii vyhledávání a prohlížení a uchová vaše tajemství před ostatními uživateli vašeho počítače.

@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = autor: { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Doporučení
+cfr-doorhanger-extension-notification2 = Doporučení
+    .tooltiptext = Doporučené rozšíření
+    .a11y-announcement = Je dostupné doporučené rozšíření
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Doporučení
+    .tooltiptext = Doporučená funkce
+    .a11y-announcement = Je dostupné doporučení funkce
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -80,6 +88,9 @@ cfr-protections-panel-link-text = Zjistit více
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Nové funkce
 cfr-whatsnew-button =
     .label = Co je nového
     .tooltiptext = Co je nového
@@ -144,3 +155,8 @@ cfr-doorhanger-fingerprinters-heading = Aplikace { -brand-short-name } zabránil
 cfr-doorhanger-fingerprinters-description = Na vašem soukromí záleží. { -brand-short-name } blokuje vytváření otisku vašeho prohlížeče, který může být využit k vaší identifikaci nebo vašemu sledování.
 cfr-doorhanger-cryptominers-heading = Aplikace { -brand-short-name } zablokovala těžbu kryptoměn
 cfr-doorhanger-cryptominers-description = Na vašem soukromí záleží. { -brand-short-name } blokuje těžbu kryptoměn, která spotřebovává výkon vašeho počítače k těžbě digitálních mincí.
+
+## Enhanced Tracking Protection Milestones
+
+cfr-doorhanger-milestone-ok-button = Zobrazit vše
+    .accesskey = v
