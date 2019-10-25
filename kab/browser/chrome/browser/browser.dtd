@@ -150,6 +150,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Ilaq-ak ad tesfeqdeḍ amiḍan-ik uqbel ad tizmireḍ ad temtawiḍ.">
 <!ENTITY fxa.unverified.button.label "Ldi iɣewwaṛen n &syncBrand.shortName.label;…">
 
+<!ENTITY pictureInPictureHideToggle.label "Ffer asfaylu tugna deg tugna">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels

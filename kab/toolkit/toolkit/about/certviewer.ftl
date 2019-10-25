@@ -14,6 +14,7 @@ certificate-viewer-algorithm = Alguritm
 certificate-viewer-certificate-authority = Adabu n uselken
 certificate-viewer-cipher-suite = Asartu n uwgelhen
 certificate-viewer-common-name = ISem amagnu
+certificate-viewer-email-address = Tansa imayl
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Tamurt n usekles
 certificate-viewer-country = Tamurt
@@ -51,6 +52,7 @@ certificate-viewer-version = Lqem
 certificate-viewer-validity = Taneɣbalt
 certificate-viewer-miscellaneous = Ayen nniḍen
 certificate-viewer-fingerprints = Idsilen umḍinen
+certificate-viewer-certificate-policies = Tisertiyin n uselkin
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Sider
