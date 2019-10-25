@@ -34,6 +34,8 @@ onboarding-join-form-legal = Devam ederseniz <a data-l10n-name="terms">Hizmet Ko
 onboarding-join-form-continue = Devam et
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = Zaten hesabınız var mı?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Giriş yap
 onboarding-start-browsing-button-label = Gezinmeye başla
 onboarding-cards-dismiss =
     .title = Kapat
