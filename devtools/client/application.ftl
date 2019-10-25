@@ -86,8 +86,12 @@ manifest-item-icons = Ikonok
 manifest-loading = Leírófájl betöltése…
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = Leírófájl betöltve.
-# Text displayed when there has been an error while trying to load the manifest
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
 manifest-loaded-error = Hiba történt a leírófájl betöltésekor:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Firefox fejlesztői eszközök hiba
 # Text displayed when the page has no manifest available
 manifest-non-existing = Nem található vizsgálható leírófájl.
 # Text displayed when the page has a manifest embedded in a Data URL and

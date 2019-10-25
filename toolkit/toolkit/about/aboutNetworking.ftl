@@ -9,6 +9,7 @@ ok = OK
 http = HTTP
 sockets = Foglalatok
 dns = DNS
+dnssuffix = DNS utótag
 websockets = WebSocketek
 refresh = Frissítés
 auto-refresh = Autofrissítés 3 másodpercenként
