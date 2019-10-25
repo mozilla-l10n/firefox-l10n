@@ -151,6 +151,16 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = पूर्वनिर्धारित वापरा
 security-no-visits = नाही
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] मेटा (1 टॅग)
+           *[other] मेटा ({ $tags } टॅग)
+        }
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -170,6 +180,17 @@ properties-general-size =
         { $bytes ->
             [one] { $kb } KB ({ $bytes } byte)
            *[other] { $kb } KB ({ $bytes } bytes)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] { $type } प्रतिमा (अ‍ॅनिमेटेड, { $frames } फ्रेम)
+           *[other] { $type } प्रतिमा (अ‍ॅनिमेटेड, { $frames } फ्रेम)
         }
 # This string is used to display the type of
 # an image

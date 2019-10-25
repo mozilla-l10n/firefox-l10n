@@ -27,10 +27,19 @@ onboarding-join-form-email =
     .placeholder = ईमेल प्रविष्ट करा
 onboarding-join-form-email-error = वैध ईमेल आवश्यक
 onboarding-join-form-continue = पुढे चला
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = आधीपासूनच एक खाते आहे?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = साइन इन करा
 onboarding-start-browsing-button-label = ब्राउजिंग सुरु करा
 onboarding-cards-dismiss =
     .title = रद्द करा
     .aria-label = रद्द करा
+
+## Welcome full page string
+
+onboarding-fullpage-form-email =
+    .placeholder = आपला ईमेल पत्ता…
 
 ## Firefox Sync modal dialog strings.
 
@@ -54,7 +63,11 @@ onboarding-sync-form-sub-header = { -sync-brand-name } वर सुरू ठ�
 
 onboarding-benefit-products-title = उपयोगी उत्पादने
 onboarding-benefit-knowledge-title = प्रात्यक्षिक ज्ञान
+onboarding-benefit-knowledge-text = ऑनलाईन स्मार्ट आणि सुरक्षित राहण्यासाठी आपणास आवश्यक असलेले सर्व जाणून घ्या.
 onboarding-benefit-privacy-title = खरी गुप्तता
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
@@ -91,6 +104,7 @@ onboarding-send-tabs-title = स्वतःला टॅब त्वरित 
 onboarding-send-tabs-button = टॅब पाठवा वापरणे प्रारंभ करा
 onboarding-pocket-anywhere-title = वाचा आणि ऐका कुठेपण
 onboarding-pocket-anywhere-button = वापरा { -pocket-brand-name }
+onboarding-lockwise-passwords-title = आपले पासवर्ड सर्वत्र न्या
 onboarding-lockwise-passwords-button2 = अॅप मिळवा
 onboarding-facebook-container-title = फेसबुक सह सीमा निश्चित करा
 onboarding-facebook-container-button = एक्सटेंशन जोडा
