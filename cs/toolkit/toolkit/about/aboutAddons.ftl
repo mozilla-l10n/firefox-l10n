@@ -304,6 +304,8 @@ addon-options-button =
 
 report-addon-button = Nahlásit
 remove-addon-button = Odebrat
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Nelze odebrat. <a data-l10n-name="link">Proč?</a>
 disable-addon-button = Zakázat
 enable-addon-button = Povolit
 expand-addon-button = Další možnosti
