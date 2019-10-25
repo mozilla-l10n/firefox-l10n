@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = ад { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Рэкамендацыя
+cfr-doorhanger-extension-notification2 = Рэкамендацыя
+    .tooltiptext = Рэкамендацыя пашырэння
+    .a11y-announcement = Даступна рэкамендацыя пашырэння
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Рэкамендацыя
+    .tooltiptext = Рэкамендацыя функцыі
+    .a11y-announcement = Даступна рэкамендацыя функцыі
 
 ## Add-on statistics
 ## These strings are used to display the total number of

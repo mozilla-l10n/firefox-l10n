@@ -9,6 +9,7 @@ ok = Добра
 http = HTTP
 sockets = Сокеты
 dns = DNS
+dnssuffix = DNS-суфікс
 websockets = Сеціўныя сокеты
 refresh = Паднавіць
 auto-refresh = Паднаўляць кожныя 3 секунды
