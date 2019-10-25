@@ -8,6 +8,8 @@
 
 <!ENTITY learnMore "Mësoni më tepër…">
 
+<!ENTITY learnMoreNoEllipsis "Mësoni më tepër">
+
 <!ENTITY defaultButton.label "OK!">
 <!ENTITY defaultButton.accesskey "O">
 
