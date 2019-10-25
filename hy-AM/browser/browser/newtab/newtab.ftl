@@ -45,9 +45,6 @@ newtab-topsites-save-button = Պահպանել
 newtab-topsites-preview-button = Նախադիտել
 newtab-topsites-add-button = Ավելացնել
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Վստահ եք, որ ցանկանում եք ջնջել այս էջի ամեն մի օրինակ ձեր պատմությունից?
@@ -83,14 +80,20 @@ newtab-menu-delete-history = Ջնջել Պատմությունից
 newtab-menu-save-to-pocket = Պահպանել { -pocket-brand-name }-ում
 newtab-menu-delete-pocket = Ջնջել { -pocket-brand-name }-ից
 newtab-menu-archive-pocket = Արխիվացնել { -pocket-brand-name }-ում
+newtab-menu-show-privacy-info = Մեր հովանավորները և ձեր գաղտնիությունը
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Ավարտ
+newtab-privacy-modal-header = Ձեր գաղտնիությունը կարևոր է։
+newtab-privacy-modal-link = Իմացեք թե ինչպես է գաղտնիությունն աշխատում նոր ներդիրում
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Հեռացնել էջանիշը
 # Bookmark is a verb here.
 newtab-menu-bookmark = Էջանիշ
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -116,13 +119,10 @@ newtab-menu-open-file = Բացել ֆայլը
 
 newtab-label-visited = Այցելած
 newtab-label-bookmarked = Էջանշված
+newtab-label-removed-bookmark = Էջանիշը հեռացվել է
 newtab-label-recommended = Թրենդինգ
 newtab-label-saved = Պահպանված է { -pocket-brand-name }-ում
 newtab-label-download = Ներբեռնված է
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -155,19 +155,32 @@ newtab-section-header-pocket = Առաջարկվում է { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Սկսեք դիտարկել և մենք կցուցադրենք հիանալի հոդվածներ, տեսանյութեր և այլ էջեր, որոնք այցելել եք վերջերս կամ էջանշել եք դրանք:
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = Ամեն ինչ պատրաստ է։ Ստուգեք ավելի ուշ՝ավելի շատ պատմություններ ստանալու համար { $provider } մատակարարից։Չեք կարող սպասել։Ընտրեք հանրաճանաչ թեմա՝ համացանցից ավելի հիանալի պատմություններ գտնելու համար։
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Ամեն ինչ պատրաստ է։
 newtab-discovery-empty-section-topstories-content = Վերադարձեք ավելի ուշ՝ այլ պատմությունների համար:
 newtab-discovery-empty-section-topstories-try-again-button = Կրկին փորձել
 newtab-discovery-empty-section-topstories-loading = Բեռնում...
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Վայ մենք գրեթե բեռնում ենք այս հատվածը, բայց ոչ ամբողջովին:
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Հանրաճանաչ թեմաներ.
+newtab-pocket-more-recommendations = Լրացուցիչ առաջարկություններ
 newtab-pocket-how-it-works = Ինչպես է աշխատում
 newtab-pocket-cta-button = Ստանալ { -pocket-brand-name }
+newtab-pocket-cta-text = Խնայեք ձեր սիրած պատմությունները { -pocket-brand-name }, և ձեր միտքը վառեցրեք հետաքրքրաշարժ ընթերցանությամբ:
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Վայ, ինչ-որ սխալ է տեղի ունեցել այս բովանդակությունը բեռնելու համար:
 newtab-error-fallback-refresh-link = Թարմացրեք էջը՝ կրկին փորձելու համար:
