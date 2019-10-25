@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = gan { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Argymhelliad
+cfr-doorhanger-extension-notification2 = Argymhelliad
+    .tooltiptext = Argymhelliad Estyniad
+    .a11y-announcement = Mae argymhelliad estyniad ar gael
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Argymhelliad
+    .tooltiptext = Argymhelliad Nodwedd
+    .a11y-announcement = Mae argymhelliad nodwedd ar gael
 
 ## Add-on statistics
 ## These strings are used to display the total number of
