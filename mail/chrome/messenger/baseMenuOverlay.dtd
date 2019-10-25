@@ -7,27 +7,14 @@
 <!ENTITY helpMenu.accesskey "e">
 <!-- LOCALIZATION NOTE some localizations of Windows use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "?">
-<!ENTITY helpMenuWin.accesskey "?">
+<!ENTITY helpMenuWin.label "Aide">
+<!ENTITY helpMenuWin.accesskey "e">
 <!ENTITY aboutProduct2.label "À propos de &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey "p">
 <!ENTITY helpTroubleshootingInfo.label     "Informations de dépannage">
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
 <!ENTITY helpSafeMode.label     "Redémarrer, modules désactivés…">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY releaseCmd2.label "Notes de version">
-<!ENTITY releaseCmd2.accesskey "N">
-<!ENTITY whatsNewCmd.label "Nouveautés">
-<!ENTITY whatsNewCmd.accesskey "o">
-<!ENTITY openHelp.label "Rubriques d’aide">
-<!ENTITY openHelp.accesskey "a">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "Aide de &brandFullName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
-
-<!ENTITY aboutMenuCmd2.label "À propos de &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "p">
 <!ENTITY helpSafeMode.stop.label     "Redémarrer, modules activés">
 <!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Aide de &brandShortName;">

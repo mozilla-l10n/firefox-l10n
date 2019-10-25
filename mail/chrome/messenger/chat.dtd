@@ -10,7 +10,7 @@
 <!ENTITY chat.noConv.description       "Utiliser la liste de contacts dans le panneau de gauche pour débuter une conversation.">
 <!ENTITY chat.noPreviousConv.description       "&brandShortName; n’a pas de conversations stockées pour ce contact.">
 <!ENTITY chat.noAccount.title             "Vous n’avez pas encore défini de compte de messagerie instantanée.">
-<!ENTITY chat.noAccount.description       "Laisser &brandShortName; vous guider dans le processus de création de compte.">
+<!ENTITY chat.noAccount.description       "Laissez &brandShortName; vous guider dans le processus de création de compte.">
 <!ENTITY chat.accountWizard.button       "Démarrer">
 <!ENTITY chat.noConnectedAccount.title             "Vos comptes de messagerie instantanée ne sont pas connectés.">
 <!ENTITY chat.noConnectedAccount.description       "Vous pouvez lancer les connexions à partir du dialogue « État des connexions » :">
