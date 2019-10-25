@@ -45,6 +45,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = पर्सिस्टन्ट स्टोरेजमध्ये माहिती साठवा
 urlbar-addons-notification-anchor =
     .tooltiptext = अॅड-ऑन प्रतिष्ठापन संदेश फलक उघडा
+urlbar-tip-help-icon =
+    .title = मदत मिळवा
 
 ## Page Action Context Menu
 
@@ -66,6 +68,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = यावेळी, यासह शोधा:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
