@@ -463,7 +463,6 @@ choose-bookmark =
 
 home-prefs-content-header = محتوى فَيَرفُكس الرئيسي
 home-prefs-content-description = اختر المحتوى الذي تريد عرضه في شاشة بداية فَيَرفُكس.
-home-prefs-content-discovery-description = تتيح لك ميزة ”اكتشاف المحتوى“ في صفحة بداية فَيَرفُكس رؤية مقالات عالية الجودة لها علاقة بما تتابع، تأتيك من أرجاء الوِب.
 home-prefs-search-header =
     .label = ابحث في الوِب
 home-prefs-topsites-header =
@@ -515,7 +514,6 @@ search-bar-shown =
     .label = أضف شريط البحث إلى شريط الأدوات
 search-engine-default-header = محرك البحث المبدئي
 search-engine-default-desc = اختر محرك البحث المبدئي في شريطي العناوين و البحث.
-search-engine-default-private-desc = اختر أي محرّك بحث يكون المبدئي في النوافذ الخاصة.
 search-separate-default-engine =
     .label = استعمل محرك البحث هذا في النوافذ الخاصة
     .accesskey = س
@@ -890,6 +888,7 @@ enhanced-tracking-protection-setting-custom =
 
 
 
+content-blocking-etp-standard-desc = يوازن بين الحماية والأداء. ستتحمّل الصفحات كالعادة.
 content-blocking-etp-strict-desc = حماية أقوى وأعتى، لكنها قد تعطب محتويات بعض المواقع أو المواقع نفسها.
 content-blocking-etp-custom-desc = اختر المتعقّبات والسكربتات التي تريد حجبها.
 content-blocking-cross-site-tracking-cookies = كعكات تتعقّبك بين المواقع
@@ -903,6 +902,7 @@ content-blocking-fingerprinters = مسجّلات البصمات
 content-blocking-warning-title = انتبه!
 content-blocking-warning-description = يمكن أن تعطب بعض المواقع إن حُجب المحتوى. يمكنك بسهولة إلغاء أي نوع حجب للمواقع التي تثق بها.
 content-blocking-learn-how = اطّلع على الطريقة
+content-blocking-etp-warning-description = يمكن أن يضرّ حجب المتعقّبات بمزايا بعض المواقع. أعِد تحميل الصفحات التي فيها متعقّبات لتحميل كلّ محتواها.
 content-blocking-warning-learn-how = اطّلع على المزيد
 content-blocking-reload-description = عليك إعادة تحميل الألسنة لتأخذ هذه التغييرات مفعولها.
 content-blocking-reload-tabs-button =
