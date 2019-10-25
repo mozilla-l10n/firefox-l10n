@@ -148,5 +148,10 @@ breach-alert-dismiss =
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login = { $loginTitle }-ի համար այդ անունը արդեն գոյություն ունի։
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = { $loginTitle }-ի այդ անունով մուտքը արդեն գոյություն ունի։ <a data-l10n-name="duplicate-link">Գնա՞լ առկա մուտքագրումները։</a>
 # This is a generic error message.
 about-logins-error-message-default = Գաղտնաբառի պահման ժամանակ հայտնվեց սխալ։

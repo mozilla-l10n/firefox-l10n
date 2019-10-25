@@ -26,5 +26,15 @@ about-private-browsing-not-private = Այժմ դուք Գաղտնի դիտարկ
 content-blocking-title = Բովանդակության արգելափակում
 content-blocking-description = Որոշ կայքեր օգտագործում են հետևորդներ, որոնք կարող են վերահսկել ձեր գործունեությունը Ինտերնետում: Մասնավոր պատուհաններում, { -brand-short-name }Բովանդակության արգելափակումն ինքնաբերաբար արգելափակում է բազմաթիվ որոնիչներ, որոնք կարող են տեղեկություններ հավաքել ձեր զննարկման վարքի վերաբերյալ:
 about-private-browsing-info-description = { -brand-short-name }֊ը մաքրում է ձեր որոնման և զննարկման պատմությունը, երբ դուրս եք գալիս ծրագրից կամ փակում եք անձնական դիտման բոլոր ներդիրներն ու պատուհանները: Չնայած դա ձեզ անանուն չի դարձնում կայքէջերի կամ ձեր ինտերնետային ծառայություններ մատուցողի համար, այն ավելի հեշտացնում է այն, ինչ անում եք առցանց, անհատական պահելով այս համակարգչից օգտվող ցանկացած այլ անձի կողմից:
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = Անձնական պատուհաններում { $engineName }-ը ձեր որոնման լռելյայն միջոցն է
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Տարբեր որոնման միջոցներ ընտրելու համար գնացեք դեպի <a data-l10n-name="link-options">Ընտրանքներ</a>
+       *[other] Տարբեր որոնման միջոցներ ընտրելու համար գնացեք դեպի <a data-l10n-name="link-options"> Նախընտրություններ</a>
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = Փակել

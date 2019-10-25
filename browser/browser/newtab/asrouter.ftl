@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = { $name }-ի կողմից
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Երաշխավորություն
+cfr-doorhanger-extension-notification2 = Երաշխավորություն
+    .tooltiptext = Ընդլայնման երաշխավորություն
+    .a11y-announcement = Հասանելի ընդլայնման երաշխավորություն
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Երաշխավորություն
+    .tooltiptext = Հատկության երաշխավորություն
+    .a11y-announcement = Հասանլի հատկության երաշխավորություն
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -78,6 +86,9 @@ cfr-protections-panel-link-text = Իմանալ ավելին
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Նոր հատկություն․
 cfr-whatsnew-button =
     .label = Ինչն է նոր
     .tooltiptext = Ինչն է նոր
@@ -132,6 +143,7 @@ cfr-doorhanger-send-tab-ok-button = Փորձեք ուղարկել ներդիր
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Համօգտագործել այս PDF- ն անվտանգ կերպով
+cfr-doorhanger-firefox-send-body = Պահպանեք ձեր զգայուն փաստաթղթերը զերծ հայացք նետելուց՝վերջնական ծածկագրմամբ և այն հղմամբ, որն անհայտանում է, երբ ավարտվում եք։
 cfr-doorhanger-firefox-send-ok-button = Փորձեք { -send-brand-name }
     .accesskey = T
 
@@ -141,3 +153,22 @@ cfr-doorhanger-socialtracking-ok-button = Տեսնել Պաշտպանությո�
     .accesskey = P
 cfr-doorhanger-socialtracking-close-button = Փակել
     .accesskey = C
+cfr-doorhanger-socialtracking-heading = { -brand-short-name }-ը դադարեցրել է հանրային ցանցի հետապնդումը
+cfr-doorhanger-socialtracking-description = Ձեր գաղտնիությունը կարևոր է: { -brand-short-name }-ը այժմ արգելափակում է հանրային մեդիայի ընդհանուր վտանգները, սահմանելով, թե որքան տվյալներ կարող են հավաքել ձեր առցանց գործողությունների մասին։
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } արգելափակում է մատնահետքը այս էջում
+cfr-doorhanger-fingerprinters-description = Ձեր գաղտնիությունը կարևոր է: { -brand-short-name }-ն այժմ արգելափակում է մատնահետքեր, որոնք հավաքում են ձեր սարքի մասին եզակի անձնական տեղեկություններ վնասելու համար։
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } արգելափակեց գաղտնազերծիչը այս էջում
+cfr-doorhanger-cryptominers-description = Ձեր գաղտնիությունը կարևոր է: { -brand-short-name }-ը կարճ անունն թճճփՌէթփայժմ արգելափակում է ծպտյալ սարքերը, որոնք օգտագործում են ձեր համակարգի հաշվարկային ուժը թվային փողերը հանելու համար:
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] { -brand-short-name } արգելափակվել է <b>{ $blockedCount }</b>֊ից ամսաթվից ակսած
+       *[other] { -brand-short-name }արգելափակվել է <b>{ $blockedCount }</b>֊ից ամսաթվից սկսած
+    }
+cfr-doorhanger-milestone-ok-button = Պահպանել բոլորը
+    .accesskey = 

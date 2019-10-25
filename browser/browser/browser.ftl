@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Պահել տվյալները Մշտական պահեստում
 urlbar-addons-notification-anchor =
     .tooltiptext = Բացել հավելման տեղադրման հաղորդագրության վահանակը
+urlbar-tip-help-icon =
+    .title = Ստանալ օգնություն
 
 ## Page Action Context Menu
 
@@ -83,3 +85,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Հաստատել որպես հիմնական Որոնիչ
     .accesskey = հ
+search-one-offs-context-set-as-default-private =
+    .label = Սահմանել որպես լռելյայն որոնման միջոց անձնական պատուհանների համար
+    .accesskey = P
