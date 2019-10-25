@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Barra de menú">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Barra de navegació">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Navegació">
 <!ENTITY personalbarCmd.label "Barra de les adreces d'interés">
 <!ENTITY personalbarCmd.accesskey "B">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Adreces d'interés">
 <!ENTITY bookmarksToolbarItem.label "Elements de la barra de les adreces d'interés">
 
 <!ENTITY pageSourceCmd.label "Codi font de la pàgina">
 <!ENTITY pageSourceCmd.accesskey "o">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Informació de la pàgina">
 <!ENTITY pageInfoCmd.accesskey "I">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Depurador de disposició">
 <!ENTITY ldbCmd.accesskey "D">
@@ -117,6 +127,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Verifiqueu el compte">
 
 
+<!ENTITY togglePictureInPicture.key2 "*">
+<!-- } is above this key on many keyboards -->
+<!ENTITY togglePictureInPicture.key "+"> 
+
 <!ENTITY fullScreenMinimize.tooltip "Minimitza">
 <!ENTITY fullScreenRestore.tooltip "Restaura">
 <!ENTITY fullScreenClose.tooltip "Tanca">
@@ -135,16 +149,37 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fxa.unverified.callout.label "Comproveu el correu">
 <!ENTITY fxa.unverified.description.label "Heu de verificar el vostre compte abans de poder sincronitzar.">
-<!ENTITY fxa.unverified.button.label "Òbriga els paràmetres del &syncBrand.shortName.label;…">
+<!ENTITY fxa.unverified.button.label "Obri els paràmetres del &syncBrand.shortName.label;…">
+
+<!ENTITY pictureInPictureHideToggle.label "Amaga el botó d'Imatge sobre imatge">
+<!ENTITY pictureInPictureHideToggle.accesskey "m">
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 
 <!ENTITY fxa.menu.signedInAs.label "Sessió iniciada com a">
 <!ENTITY fxa.menu.manageAccount.label "Gestiona el compte…">
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+
 <!ENTITY fxa.menu.syncSettings.label "Paràmetres del &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Connecta un altre dispositiu…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
+
+<!ENTITY fxa.menu.signin.label "Inicia la sessió al &brandProductName;">
+<!ENTITY fxa.menu.turnOnSync.label "Activa el &syncBrand.shortName.label;">
+<!ENTITY fxa.menu.firefoxServices.label "Serveis del &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Compte">
+<!ENTITY fxa.menu.settings.label "Paràmetres">
+<!ENTITY fxa.menu.accountSettings.label "Paràmetres del compte">
+<!ENTITY fxa.menu.signOut.label "Tanca la sessió…">
+<!ENTITY fxa.menu.deviceSettings.label "Paràmetres del dispositiu">
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+
+<!ENTITY fxa.service.sendTab.description "Envieu una pestanya instantàniament a qualsevol dispositiu on hàgeu iniciat la sessió.">
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -158,6 +193,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
+
 <!ENTITY exitDOMFullscreen.button "Ix de la pantalla completa (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Ix de la pantalla completa (esc)">
 <!ENTITY leaveDOMFullScreen.label "Ix de la pantalla completa">
@@ -165,7 +201,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
      these two strings are used when right-clicking on a video in the
      content area when the Picture-in-Picture feature is enabled. -->
-
 <!ENTITY pictureInPicture.label "Imatge sobre imatge">
 <!ENTITY pictureInPicture.accesskey "I">
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
@@ -183,11 +218,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Adreces d'interés">
 <!ENTITY bookmarksMenu.accesskey "r">
+
 <!ENTITY bookmarkThisPageCmd.label "Afig la pàgina a les adreces d'interés">
 <!ENTITY editThisBookmarkCmd.label "Edita esta adreça d'interés">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Afig-hi totes les pestanyes…">
+
 <!ENTITY showAllBookmarks2.label "Mostra totes les adreces d'interés">
 <!ENTITY recentBookmarks.label "Afegides recentment">
 <!ENTITY otherBookmarksCmd.label "Altres adreces d'interés">
@@ -223,6 +260,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestiona l'ús dels complements">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Canvia l'opció de si es poden rebre notificacions d'este lloc">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Guarda dades en l'emmagatzematge persistent">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "El navegador està sota control remot">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Òbriga la subfinestra d'autenticació web">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Òbriga la subfinestra de permisos d'activitat de navegació">
@@ -235,7 +273,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Tradueix esta pàgina">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gestiona la traducció de pàgines">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestiona l'ús de programari de DRM">
-<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Òbriga la subfinestra MIDI">
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Obri la subfinestra MIDI">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Heu donat permisos addicionals a este lloc web.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Heu blocat la càmera per a este lloc web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Heu blocat el micròfon per a este lloc web.">
@@ -310,6 +350,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fitxer">
 <!ENTITY fileMenu.accesskey       "F">
+
 <!ENTITY newUserContext.label             "Pestanya de contenidor nova">
 <!ENTITY newUserContext.accesskey         "v">
 <!ENTITY manageUserContext.label          "Gestiona els contenidors">
@@ -359,6 +400,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "a">
 <!ENTITY viewSidebarMenu.label "Barra lateral">
 <!ENTITY viewSidebarMenu.accesskey "e">
+
 <!ENTITY viewCustomizeToolbar.label       "Personalitza…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 <!ENTITY overflowCustomizeToolbar.label       "Personalitza la barra d'eines…">
@@ -372,6 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Restaura la sessió anterior">
 
 <!ENTITY showAllHistoryCmd2.label "Mostra tot l'historial">
+
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Mostra tot l'historial">
@@ -403,8 +446,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Voleu veure ací les pestanyes d'altres dispositius?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Òbriga les preferències de sincronització">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicieu la sessió per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Vegeu una llista de les pestanyes que teniu obertes en altres dispositius.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Cal que verifiqueu el compte.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicia la sessió al Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Inicia la sessió al &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Activa el &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gestiona els dispositius…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Mostra la barra lateral «Pestanyes sincronitzades»">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Amaga la barra lateral «Pestanyes sincronitzades»">
@@ -492,6 +538,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in-content search UI, to be used by screen readers. -->
 
 <!ENTITY contentSearchInput.label     "Consulta de cerca">
+
 <!ENTITY contentSearchSubmit.tooltip  "Envia la cerca">
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
@@ -519,9 +566,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      them when the user has not typed any keyword. -->
 
 <!ENTITY searchWithHeader.label       "Cerca amb:">
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+
+<!ENTITY searchWithDesc.label         "Esta vegada, cerca amb:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+
 <!ENTITY changeSearchSettings.button  "Canvia els paràmetres de cerca">
 <!ENTITY changeSearchSettings.tooltip "Canvia els paràmetres de cerca">
 
@@ -592,10 +645,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Envia l'enllaç per correu…">
 <!ENTITY emailPageCmd.accesskey       "E">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Anomena i guarda la pàgina…">
 <!ENTITY savePageCmd.accesskey        "g">
-<!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2 "d">
+<!ENTITY savePageCmd.accesskey2       "d">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Anomena i guarda el marc…">
 <!ENTITY saveFrameCmd.accesskey       "m">
@@ -699,6 +752,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Augmenta">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "A">
+
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
@@ -706,16 +760,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomReduceCmd.label        "Redueix">
 <!ENTITY fullZoomReduceCmd.accesskey    "d">
+
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Reinicia">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
+
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "Augmenta el text només">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
+
 <!ENTITY fullZoom.label                 "Mida de la pàgina">
 <!ENTITY fullZoom.accesskey             "d">
 
@@ -733,6 +790,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Tanca">
+
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "c">
 
@@ -787,12 +845,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Connexió">
 <!ENTITY identity.connectionSecure "Connexió segura">
 <!ENTITY identity.connectionNotSecure "La connexió no és segura">
+
+<!ENTITY identity.connectionSecure3 "Connexió segura">
+<!ENTITY identity.connectionNotSecure2 "La connexió no és segura">
+<!ENTITY identity.connectionNotSecureSecurityView "No esteu connectat de forma segura a este lloc.">
 <!ENTITY identity.connectionFile "Esta pàgina està guardada a l'ordinador.">
 <!ENTITY identity.connectionVerified2 "Esteu connectat de forma segura a este lloc, mantingut per:">
+<!ENTITY identity.connectionVerified3 "Esteu connectat de forma segura a este lloc.">
 <!ENTITY identity.connectionInternal "Esta és una pàgina del &brandShortName; segura.">
 <!ENTITY identity.extensionPage "Esta pàgina s'ha carregat des d'una extensió.">
 <!ENTITY identity.insecureLoginForms2 "Les dades d'inici de sessió que introduïu en esta pàgina podrien estar en risc.">
 <!ENTITY identity.customRoot "Connexió verificada per un emissor de certificats que no és reconegut per Mozilla.">
+
+<!ENTITY identity.evOwnerLabel2 "Certificat emés per a:">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "El &brandShortName; ha blocat parts d'esta pàgina que no són segures.">
@@ -827,13 +892,68 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Esborra les galetes i dades dels llocs…">
 
 <!ENTITY identity.permissions "Permisos">
+
+<!ENTITY identity.permissions3 "Permisos">
 <!ENTITY identity.permissionsEmpty "No heu donat cap permís especial a este lloc.">
 <!ENTITY identity.permissionsReloadHint "Potser cal que actualitzeu la pàgina per aplicar els canvis.">
-<!ENTITY identity.permissionsPreferences.tooltip "Òbriga les preferències de permisos">
-<!ENTITY identity.contentBlockingPreferences.tooltip "Òbriga les preferències de bloqueig de contingut">
+<!ENTITY identity.permissionsPreferences.tooltip "Obri les preferències de permisos">
+<!ENTITY identity.contentBlockingPreferences.tooltip "Obri les preferències de bloqueig de contingut">
+
+
+<!ENTITY protections.etpON.header "S'ha ACTIVAT la protecció contra el seguiment millorada en este lloc">
+<!ENTITY protections.etpOFF.header "S'ha DESACTIVAT la protecció contra el seguiment millorada en este lloc">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Més informació sobre la protecció contra el seguiment millorada">
+<!ENTITY protections.settings.label "Paràmetres de protecció">
+<!ENTITY protections.showreport.label "Mostra l'informe">
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "El lloc no funciona?">
+<!ENTITY protections.siteNotWorkingView.title "El lloc no funciona?">
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Desactiveu les proteccions si teniu problemes amb:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Camps d'inici de sessió">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Formularis">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Pagaments">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Comentaris">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Vídeos">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Envieu un informe">
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
+
+<!ENTITY protections.blocking2.label "Blocat">
+<!ENTITY protections.notBlocking2.label "Permés">
+<!ENTITY protections.notFound.label "Cap detectat">
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
+<!ENTITY protections.notBlocking.why.label "Per què?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Si els bloqueu, alguns llocs web podrien funcionar de forma inesperada. Sense els elements de seguiment, és possible alguns botons, formularis o camps d'inici de sessió no funcionen.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Si desactiveu les proteccions, permetreu tots els elements de seguiment d'este lloc. També pot millorar la funcionalitat del lloc web.">
+<!ENTITY protections.socialMediaTrackers.label "Elements de seguiment de xarxes socials">
+<!ENTITY protections.crossSiteTrackingCookies.label "Galetes de seguiment entre llocs">
+<!ENTITY protections.trackingContent.label "Contingut que fa seguiment">
+<!ENTITY protections.fingerprinters.label "Generadors d'empremtes digitals">
+<!ENTITY protections.cryptominers.label "Miners de criptomonedes">
+<!ENTITY protections.noTrackersFound.description "No s'ha detectat cap element de seguiment conegut pel &brandShortName; en esta pàgina.">
+
+<!ENTITY protections.crossSiteTrackingCookies.description "Estes galetes vos segueixen de lloc en lloc per recollir dades sobre allò que feu a Internet. Les guarden tercers, com ara anunciants i empreses d'anàlisi de dades.">
+<!ENTITY protections.cryptominers.description "Els miners de criptomonedes utilitzen la potència de càlcul del vostre ordinador per a la mineria de diners digitals. Els scripts de mineria de criptomonedes consumeixen la bateria, alenteixen l'ordinador i poden augmentar la vostra factura d'electricitat.">
+<!ENTITY protections.fingerprinters.description "Els generadors d'empremtes digitals recopilen els paràmetres del vostre navegador per a crear un perfil vostre. A partir d'esta empremta digital, vos poden fer el seguiment entre els diferents llocs web.">
+<!ENTITY protections.trackingContent2.description "Els llocs web poden carregar anuncis, vídeos i altre contingut extern amb un codi de seguiment. Si bloqueu este contingut que fa seguiment, els llocs web es poden carregar més de pressa, però és possible alguns botons, formularis o camps d'inici de sessió no funcionen.">
+<!ENTITY protections.socialMediaTrackers.description "Les xarxes socials col·loquen elements de seguiment en altres llocs web per a fer el seguiment d'allò que feu i veieu a Internet. Això permet a les empreses de xarxes socials recopilar informació de tot allò que compartiu en els vostres perfils de xarxes socials.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-
 
 <!ENTITY tabsToolbar.label "Pestanyes del navegador">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
@@ -846,6 +966,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Inicia la sessió al &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
+
 <!ENTITY syncSyncNowItem.label        "Sincronitza ara">
 <!ENTITY syncSyncNowItemSyncing.label "S'està sincronitzant…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -877,6 +998,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Galetes">
 <!ENTITY contentBlocking.cookiesView.label "Galetes i dades dels llocs">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Contingut que fa seguiment">
+
+<!ENTITY contentBlocking.manageSettings2.label "Gestiona els paràmetres de protecció">
+<!ENTITY contentBlocking.manageSettings2.accesskey "G">
+
+<!ENTITY contentBlocking.socialblock.label "Elements de seguiment de xarxes socials">
+
+<!ENTITY contentBlocking.cookies2.label "Galetes de seguiment entre llocs">
+
 <!ENTITY contentBlocking.cryptominers.label "Miners de criptomonedes">
 <!ENTITY contentBlocking.cryptominersView.label "Miners de criptomonedes">
 
@@ -887,8 +1017,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Notificació de problemes">
 <!ENTITY contentBlocking.breakageReportView2.description "El bloqueig de contingut pot causar problemes en alguns llocs web. Quan notifiqueu un problema, esteu ajudant a millorar el &brandShortName; per a tothom. Això enviarà un URL a Mozilla, juntament amb informació de la configuració del navegador.">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Més informació">
+
+<!ENTITY contentBlocking.breakageReportView.title "Informeu sobre un lloc que no funciona">
+<!ENTITY contentBlocking.breakageReportView3.description "El bloqueig d'alguns elements de seguiment pot causar problemes en alguns llocs web. Notificar estos problemes ajuda a millorar el &brandShortName; per a tothom. Juntament amb l'informe, també s'enviarà a Mozilla un URL i informació de la configuració del vostre navegador.">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Més informació">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Quins problemes heu tingut? (Opcional)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Opcional: Descriviu el problema">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Envia l'informe">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Cancel·la">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
@@ -938,6 +1073,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "I">
 
 <!ENTITY homepageControlled.message "Una extensió ha canviat la pàgina que es mostra a l'inici. Si no voleu acceptar este canvi, podeu restaurar els vostres paràmetres.">
+
 <!ENTITY homepageControlled.header.message "La pàgina d'inici ha canviat.">
 <!ENTITY homepageControlled.keepButton.label "Mantén els canvis">
 <!ENTITY homepageControlled.keepButton.accesskey "M">

@@ -15,6 +15,7 @@
 <!ENTITY newButton.accesskey        "N">
 
 <!ENTITY importButton.label         "Importa…">
+
 <!ENTITY importButton.tooltip       "Importa i afig un full d'estil existent al document">
 <!ENTITY importButton.accesskey     "I">
 
@@ -52,4 +53,4 @@
 <!-- LOCALIZATION NOTE (copyUrl.label): This is the text for the
      context menu item that copies a stylesheet's URL -->
 
-<!ENTITY copyUrl.label            "Copy URL">
+<!ENTITY copyUrl.label            "Copia l'URL">

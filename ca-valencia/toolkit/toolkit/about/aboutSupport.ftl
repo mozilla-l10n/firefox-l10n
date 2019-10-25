@@ -51,11 +51,12 @@ app-basics-profile-dir =
 app-basics-enabled-plugins = Connectors habilitats
 app-basics-build-config = Configuració de la versió
 app-basics-user-agent = Agent d'usuari
-app-basics-os = SO
+app-basics-os = Sistema operatiu
 app-basics-memory-use = Utilització de la memòria
 app-basics-performance = Rendiment
 app-basics-service-workers = Processos de treball de servei registrats
 app-basics-profiles = Perfils
+app-basics-launcher-process-status = Procés d'inici
 app-basics-multi-process-support = Finestres multiprocés
 app-basics-remote-processes-count = Processos remots
 app-basics-enterprise-policies = Polítiques d'empresa
@@ -96,6 +97,8 @@ js-incremental-gc = Recollida de deixalles incremental
 a11y-title = Accessibilitat
 a11y-activated = Activat
 a11y-force-disabled = Evita l'accessibilitat
+a11y-handler-used = Gestor d'accessibilitat utilitzat
+a11y-instantiator = Instanciador d'accessibilitat
 library-version-title = Versions de la biblioteca
 copy-text-to-clipboard-label = Copia el text al porta-retalls
 copy-raw-data-to-clipboard-label = Copia les dades sense processar al porta-retalls
@@ -114,6 +117,9 @@ restart-in-safe-mode-label = Reinicia amb els complements inhabilitats…
 ## Media titles
 
 audio-backend = Sistema de fons d'àudio
+max-audio-channels = Nombre màxim de canals
+channel-layout = Disposició de canals preferida
+sample-rate = Freqüència de mostratge preferida
 media-title = Multimèdia
 media-output-devices-title = Dispositius d'eixida
 media-input-devices-title = Dispositius d'entrada
@@ -126,6 +132,7 @@ media-device-format = Format
 media-device-channels = Canals
 media-device-rate = Freqüència
 media-device-latency = Latència
+media-capabilities-title = Capacitats multimèdia
 
 ##
 
@@ -242,6 +249,8 @@ content-sandbox-level = Nivell de l'entorn de proves de processos de contingut
 effective-content-sandbox-level = Nivell de l'entorn de proves de processos de contingut efectiu
 sandbox-proc-type-content = contingut
 sandbox-proc-type-media-plugin = connector multimèdia
+launcher-process-status-0 = Activat
+launcher-process-status-1 = Desactivat a causa d'un error
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

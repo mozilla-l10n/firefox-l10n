@@ -14,6 +14,11 @@
 
 
 <!ENTITY performanceUI.bufferStatusTooltip "L'analitzador de rendiment emmagatzema mostres en una memòria intermèdia circular i, en assolir el límit de l'enregistrament, va sobreescrivint les mostres des del principi.">
+<!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
+  -  is displayed as a message for why the real time overview graph is disabled
+  -  when running on a non-multiprocess build. -->
+
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "L'enregistrament de dades en temps real està inhabilitat en un Firefox no multiprocés.">
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
@@ -23,7 +28,7 @@
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 
 <!ENTITY performanceUI.bufferStatusFull "La memòria intermèdia és plena. Se sobreescriuran les mostres antigues.">
-<!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
+<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
 

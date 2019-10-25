@@ -20,6 +20,7 @@
 <!ENTITY downloadCert.message1 "Se vos ha demanat que confieu en una entitat certificadora (CA) nova.">
 <!ENTITY downloadCert.trustSSL "Confia en esta CA per identificar llocs web.">
 <!ENTITY downloadCert.trustEmail "Confia en esta CA per identificar usuaris de correu electrònic.">
+<!ENTITY downloadCert.trustObjSign "Confia en esta CA per identificar desenvolupadors de programari.">
 <!ENTITY downloadCert.message3 "Abans de confiar en esta CA amb qualsevol finalitat, cal que n'examineu el certificat i les polítiques i procediments (si estan disponibles).">
 <!ENTITY downloadCert.viewCert.label "Visualitza">
 <!ENTITY downloadCert.viewCert.text "Examina el certificat de la CA">
@@ -35,6 +36,14 @@
 <!ENTITY pkcs12.setpassword.label1 "Contrasenya de la còpia de seguretat del certificat:">
 <!ENTITY pkcs12.setpassword.label2 "Contrasenya de la còpia de seguretat del certificat (un altre cop):">
 <!ENTITY pkcs12.setpassword.reminder "Important: si oblideu la contrasenya de la còpia de seguretat del certificat no podreu recuperar-la més avant. Guardeu-la en un lloc segur.">
+
+<!ENTITY chooseToken.title  "Diàleg de tria del testimoni">
+<!ENTITY chooseToken.message1 "Trieu un testimoni.">
+<!-- Strings for the CreateCertInfo dialog  -->
+
+<!ENTITY createCertInfo.title "S'està generant una clau privada">
+<!ENTITY createCertInfo.msg1 "S'està generant la clau… Pot trigar uns minuts…">
+<!ENTITY createCertInfo.msg2 "Espereu…">
 <!-- Strings for protectedAuth dialog -->
 
 <!ENTITY protectedAuth.title "Autenticació de testimoni protegit">

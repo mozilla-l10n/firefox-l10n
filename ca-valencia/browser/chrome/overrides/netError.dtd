@@ -8,9 +8,9 @@
 <!ENTITY loadError.label "S'ha produït un problema en carregar la pàgina">
 <!ENTITY retry.label "Torna-ho a provar">
 <!ENTITY returnToPreviousPage.label "Vés arrere">
-<!ENTITY returnToPreviousPage1.label "Go Back (Recommended)">
-<!ENTITY advanced2.label "Advanced…">
-<!ENTITY viewCertificate.label "View Certificate">
+<!ENTITY returnToPreviousPage1.label "Vés arrere (recomanat)">
+<!ENTITY advanced2.label "Avançat…">
+<!ENTITY viewCertificate.label "Mostra el certificat">
 <!-- Specific error messages -->
 
 
@@ -20,10 +20,10 @@
 <!ENTITY deniedPortAccess.title "L'adreça està restringida">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.pageTitle "Server Not Found">
+<!ENTITY dnsNotFound.pageTitle "No s'ha trobat el servidor">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY dnsNotFound.title1 "Hmm. We’re having trouble finding that site.">
-<!ENTITY dnsNotFound.longDesc1 "<strong>If that address is correct, here are three other things you can try:</strong> <ul> <li>Try again later.</li> <li>Check your network connection.</li> <li>If you are connected but behind a firewall, check that &brandShortName; has permission to access the Web.</li> </ul>">
+<!ENTITY dnsNotFound.title1 "Tenim problemes per trobar este lloc.">
+<!ENTITY dnsNotFound.longDesc1 "<strong>Si l'adreça és correcta, podeu provar estes tres coses:</strong> <ul> <li>Torneu-ho a provar més tard.</li> <li>Comproveu la vostra connexió a la xarxa.</li> <li>Si esteu connectat a través d'un tallafoc, comproveu que el &brandShortName; tinga permís per accedir al web.</li> </ul>">
 
 <!ENTITY fileNotFound.title "No s'ha trobat el fitxer">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Comproveu les majúscules i minúscules del nom del fitxer i qualsevol altre error que s'haja produït en teclejar.</li> <li>Comproveu que el fitxer no s'haja mogut, canviat de nom o eliminat.</li> </ul>">
@@ -39,9 +39,9 @@
 
 <!ENTITY openPortalLoginPage.label2 "Òbriga la pàgina d'inici de sessió a la xarxa">
 
-<!ENTITY malformedURI.pageTitle "Invalid URL">
+<!ENTITY malformedURI.pageTitle "L'URL no és vàlid">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
-<!ENTITY malformedURI.title1 "Hmm. That address doesn’t look right.">
+<!ENTITY malformedURI.title1 "Esta adreça no pareix correcta.">
 
 <!ENTITY netInterrupt.title "S'ha interromput la connexió">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
@@ -82,25 +82,25 @@
 <!ENTITY nssFailure2.title "Ha fallat la connexió segura">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>La pàgina que esteu intentant veure no es pot mostrar perquè no s'ha pogut verificar l'autenticitat de les dades rebudes.</li> <li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li> </ul>">
 
-<!ENTITY certerror.longpagetitle2 "Warning: Potential Security Risk Ahead">
-<!ENTITY certerror.sts.longpagetitle  "Did Not Connect: Potential Security Issue">
+<!ENTITY certerror.longpagetitle2 "Avís: Risc potencial de seguretat">
+<!ENTITY certerror.sts.longpagetitle  "No s'ha connectat: Problema potencial de seguretat">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara2 "&brandShortName; detected a potential security threat and did not continue to <span class='hostname'/>. If you visit this site, attackers could try to steal information like your passwords, emails, or credit card details.">
-<!ENTITY certerror.sts.introPara "&brandShortName; detected a potential security threat and did not continue to <span class='hostname'/> because this website requires a secure connection.">
+<!ENTITY certerror.introPara2 "El &brandShortName; ha detectat una amenaça potencial de seguretat i ha interromput la connexió a <span class='hostname'/>. Si visiteu este lloc, els atacants podrien robar informació com ara contrasenyes, correus electrònics o detalls de targetes de crèdit.">
+<!ENTITY certerror.sts.introPara "El &brandShortName; ha detectat una amenaça potencial de seguretat i ha interromput la connexió a <span class='hostname'/> perquè este lloc web requereix una connexió segura.">
 
-<!ENTITY certerror.expiredCert.introPara "&brandShortName; detected an issue and did not continue to <span class='hostname'/>. The website is either misconfigured or your computer clock is set to the wrong time.">
-<!ENTITY certerror.expiredCert.secondPara2 "It’s likely the website’s certificate is expired, which prevents &brandShortName; from connecting securely. If you visit this site, attackers could try to steal information like your passwords, emails, or credit card details.">
-<!ENTITY certerror.expiredCert.sts.secondPara "It’s likely the website’s certificate is expired, which prevents &brandShortName; from connecting securely.">
+<!ENTITY certerror.expiredCert.introPara "El &brandShortName; ha detectat un problema i ha interromput la connexió a <span class='hostname'/>. El lloc web està mal configurat o bé l'hora del vostre ordinador no és correcta.">
+<!ENTITY certerror.expiredCert.secondPara2 "És probable que el certificat del lloc web estiga caducat, cosa que impedeix al &brandShortName; connectar-se de forma segura. Si visiteu este lloc, els atacants podrien robar informació com ara contrasenyes, correus electrònics o detalls de targetes de crèdit.">
+<!ENTITY certerror.expiredCert.sts.secondPara "És probable que el certificat del lloc web estiga caducat, cosa que impedeix al &brandShortName; connectar-se de forma segura.">
 
-<!ENTITY certerror.whatCanYouDoAboutItTitle "What can you do about it?">
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Què hi podeu fer?">
 
-<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>The issue is most likely with the website, and there is nothing you can do to resolve it.</p> <p>If you are on a corporate network or using anti-virus software, you can reach out to the support teams for assistance. You can also notify the website’s administrator about the problem.</p>">
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Molt probablement, l'error és del lloc web i no hi podeu fer res per resoldre'l.</p> <p>Si esteu en una xarxa empresarial o utilitzeu programari antivirus, podeu posar-vos en contacte amb l'equip d'assistència tècnica. També podeu notificar el problema a l'administrador del lloc web.</p>">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Your computer clock is set to <span id='wrongSystemTime_systemDate2'/>. Make sure your computer is set to the correct date, time, and time zone in your system settings, and then refresh <span class='hostname'/>.</p> <p>If your clock is already set to the right time, the website is likely misconfigured, and there is nothing you can do to resolve the issue. You can notify the website’s administrator about the problem.</p>">
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Segons el rellotge del vostre ordinador, la data i l'hora actuals són: <span id='wrongSystemTime_systemDate2'/>. Assegureu-vos que l'ordinador tinga definits l'hora, data i fus horari correctes als paràmetres del sistema i, a continuació, torneu a carregar <span class='hostname'/>.</p> <p>Si l'hora del rellotge és correcta, és probable que el lloc web estiga mal configurat i no hi podeu fer res per resoldre-ho. Podeu notificar el problema a l'administrador del lloc web.</p>">
 
-<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>The issue is most likely with the website, and there is nothing you can do to resolve it. You can notify the website’s administrator about the problem.</p>">
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Molt probablement, l'error és del lloc web i no hi podeu fer res per resoldre'l. Podeu notificar el problema a l'administrador del lloc web.</p>">
 
 <!ENTITY sharedLongDesc "<ul> <li>El lloc web podria estar temporalment no disponible o massa ocupat. Torneu-ho a provar d'ací uns moments.</li> <li>Si no podeu carregar cap pàgina, comproveu la connexió a la xarxa del vostre ordinador.</li> <li>Si el vostre ordinador o la vostra xarxa estan protegits per un tallafoc o per un servidor intermediari, assegureu-vos que el &brandShortName; tinga permís per accedir al web.</li> </ul>">
 
@@ -110,7 +110,7 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.title "Error de contingut malmés">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error en la transmissió de les dades.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
 
-<!ENTITY securityOverride.exceptionButton1Label "Accept the Risk and Continue">
+<!ENTITY securityOverride.exceptionButton1Label "Accepte el risc i vull continuar">
 
 <!ENTITY errorReporting.automatic2 "Informa dels errors com este per ajudar a Mozilla a identificar i a blocar els llocs maliciosos">
 <!ENTITY errorReporting.learnMore "Més informació…">
@@ -123,9 +123,9 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informació avançada: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY certerror.pagetitle2  "Warning: Potential Security Risk Ahead">
-<!ENTITY certerror.sts.pagetitle  "Did Not Connect: Potential Security Issue">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> has a security policy called HTTP Strict Transport Security (HSTS), which means that &brandShortName; can only connect to it securely. You can’t add an exception to visit this site.">
+<!ENTITY certerror.pagetitle2  "Avís: Risc potencial de seguretat">
+<!ENTITY certerror.sts.pagetitle  "No s'ha connectat: Problema potencial de seguretat">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> té una política de seguretat anomenada «HTTP Strict Transport Security» (Seguretat estricta de transport HTTP, o HSTS), que vol dir que el &brandShortName; només pot connectar-s'hi de forma segura. No podeu afegir cap excepció per visitar este lloc.">
 <!ENTITY certerror.copyToClipboard.label "Copia el text al porta-retalls">
 
 <!ENTITY inadequateSecurityError.title "La connexió no és segura">
@@ -133,20 +133,20 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utilitza una tecnologia de seguretat obsoleta i vulnerable a atacs. Un atacant podria veure fàcilment la informació que altrament pensaríeu que és segura. Per tal que pugueu visitar el lloc, abans l'administrador del lloc web haurà d'arreglar el servidor.</p><p>Codi d'error: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY blockedByPolicy.title "Blocked Page">
+<!ENTITY blockedByPolicy.title "Pàgina blocada">
 
-<!ENTITY certerror.mitm.title "Software is Preventing &brandShortName; From Safely Connecting to This Site">
-<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> is most likely a safe site, but a secure connection could not be established. This issue is caused by <span class='mitm-name'/>, which is either software on your computer or your network.">
-<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "If your antivirus software includes a feature that scans encrypted connections (often called “web scanning” or “https scanning”), you can disable that feature. If that doesn’t work, you can remove and reinstall the antivirus software.">
-<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "If you are on a corporate network, you can contact your IT department.">
-<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "If you are not familiar with <span class='mitm-name'/>, then this could be an attack and you should not continue to the site.">
-<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "If you are not familiar with <span class='mitm-name'/>, then this could be an attack, and there is nothing you can do to access the site.">
+<!ENTITY certerror.mitm.title "Hi ha programari que impedeix que el &brandShortName; es connecte de forma segura a este lloc">
+<!ENTITY certerror.mitm.longDesc "És probable que <span class='hostname'></span> siga un lloc segur, però no s'ha pogut establir una connexió segura. La causa d'este problema és <span class='mitm-name'/>, que és un programari del vostre ordinador o de la vostra xarxa.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Si el vostre programari antivirus inclou una funció que escaneja les connexions xifrades (que sovint s'anomena «escàner web» o «escàner https»), podeu desactivar-la. Si no funciona, podeu eliminar el programari antivirus i reinstal·lar-lo.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Si vos trobeu en una xarxa corporativa, poseu-vos en contacte amb el vostre departament informàtic.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Si no coneixeu <span class='mitm-name'/>, podria tractar-se d'un atac i no hauríeu de continuar al lloc.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Si no coneixeu <span class='mitm-name'/>, podria tractar-se d'un atac i no hi ha res que pugueu fer per accedir al lloc.">
 
-<!ENTITY clockSkewError.title "Your Computer Clock is Wrong">
-<!ENTITY clockSkewError.longDesc "Your computer thinks it is <span id='wrongSystemTime_systemDate1'/>, which prevents &brandShortName; from connecting securely. To visit <span class='hostname'></span>, update your computer clock in your system settings to the current date, time, and time zone, and then refresh <span class='hostname'></span>.">
+<!ENTITY clockSkewError.title "L'hora del vostre ordinador no és correcta">
+<!ENTITY clockSkewError.longDesc "Segons el vostre ordinador, la data i l'hora actuals són: <span id='wrongSystemTime_systemDate1'/>, cosa que impedeix al &brandShortName; establir una connexió segura. Per visitar <span class='hostname'></span>, actualitzeu el rellotge de l'ordinador als paràmetres del sistema per tal que coincidisca amb la data i hora actuals i el fus horari i, a continuació, torneu a carregar <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Pareix que la configuració actual de seguretat a la xarxa està causant este error. Voleu utilitzar la configuració per defecte?">
 <!ENTITY prefReset.label "Restaura la configuració per defecte">
 
-<!ENTITY networkProtocolError.title "Network Protocol Error">
-<!ENTITY networkProtocolError.longDesc "<p>The page you are trying to view cannot be shown because an error in the network protocol was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
+<!ENTITY networkProtocolError.title "Error del protocol de xarxa">
+<!ENTITY networkProtocolError.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error del protocol de xarxa.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">

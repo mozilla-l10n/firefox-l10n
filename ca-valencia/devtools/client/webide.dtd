@@ -40,8 +40,8 @@
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
 <!ENTITY runtimeMenu_showSettings_label "Paràmetres del dispositiu">
 <!ENTITY runtimeMenu_showSettings_accesskey "r">
-<!ENTITY runtimeMenu_showPerformancePanel_label "Performance">
-<!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
+<!ENTITY runtimeMenu_showPerformancePanel_label "Rendiment">
+<!ENTITY runtimeMenu_showPerformancePanel_accesskey "R">
 
 <!ENTITY viewMenu_label "Visualitza">
 <!ENTITY viewMenu_accesskey "V">

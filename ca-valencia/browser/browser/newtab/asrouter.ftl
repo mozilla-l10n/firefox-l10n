@@ -82,6 +82,28 @@ cfr-whatsnew-button =
     .label = Novetats
     .tooltiptext = Novetats
 cfr-whatsnew-panel-header = Novetats
+cfr-whatsnew-release-notes-link-text = Llegiu les notes de la versió
+cfr-whatsnew-fx70-title = Ara el { -brand-short-name } lluita encara més per la vostra privadesa
+cfr-whatsnew-fx70-body = La darrera actualització millora la funció de protecció contra el seguiment i permet crear contrasenyes segures per a cada lloc molt fàcilment.
+cfr-whatsnew-tracking-protect-title = Protegiu-vos dels elements de seguiment
+cfr-whatsnew-tracking-protect-body = El { -brand-short-name } bloca els elements de seguiment de xarxes socials i entre llocs més habituals que recopilen dades sobre allò que feu a Internet.
+cfr-whatsnew-tracking-protect-link-text = Vegeu el vostre informe
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Element de seguiment blocat
+       *[other] Elements de seguiment blocats
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Des de: { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Vegeu l'informe
+cfr-whatsnew-lockwise-backup-title = Feu una còpia de seguretat de les vostres contrasenyes
+cfr-whatsnew-lockwise-backup-body = Ara podeu generar contrasenyes segures i accedir-hi des de tot arreu on inicieu la sessió.
+cfr-whatsnew-lockwise-backup-link-text = Activeu la còpia de seguretat
+cfr-whatsnew-lockwise-take-title = Les vostres contrasenyes, a tot arreu
+cfr-whatsnew-lockwise-take-body = L'aplicació mòbil del { -lockwise-brand-short-name } vos permet accedir de manera segura a les contrasenyes guardades des de qualsevol lloc.
+cfr-whatsnew-lockwise-take-link-text = Baixa l'aplicació
 
 ## Bookmark Sync
 
@@ -111,3 +133,16 @@ cfr-doorhanger-firefox-send-header = Compartiu este PDF de forma segura
 cfr-doorhanger-firefox-send-body = Manteniu els vostres documents confidencials lluny de mirades indiscretes amb un xifratge d'extrem a extrem i un enllaç que desapareix quan hàgeu acabat.
 cfr-doorhanger-firefox-send-ok-button = Prova el { -send-brand-name }
     .accesskey = P
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Mostra les proteccions
+    .accesskey = M
+cfr-doorhanger-socialtracking-close-button = Tanca
+    .accesskey = T
+cfr-doorhanger-socialtracking-heading = El { -brand-short-name } ha impedit que una xarxa social vos faça el seguiment fins ací
+cfr-doorhanger-socialtracking-description = La vostra privadesa és important. Ara el { -brand-short-name } bloca els elements de seguiment de les xarxes socials més comunes. Això limita la quantitat de dades que poden recopilar sobre allò que feu a Internet.
+cfr-doorhanger-fingerprinters-heading = El { -brand-short-name } ha blocat un generador d'empremtes digitals en esta pàgina
+cfr-doorhanger-fingerprinters-description = La vostra privadesa és important. Ara el { -brand-short-name } bloca els generadors d'empremtes digitals, que recopilen informació del vostre dispositiu que vos podria identificar per a fer-vos el seguiment.
+cfr-doorhanger-cryptominers-heading = El { -brand-short-name } ha blocat un miner de criptomonedes en esta pàgina
+cfr-doorhanger-cryptominers-description = La vostra privadesa és important. Ara el { -brand-short-name } bloca els miners de criptomonedes, que utilitzen la potència de càlcul del vostre ordinador per a la mineria de diners digitals.

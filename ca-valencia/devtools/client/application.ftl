@@ -12,6 +12,10 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
+# Header for the list of Service Workers displayed in the application panel for the current page.
+serviceworker-list-header = Processos de treball de servei
+# Text for the button to unregister a Service Worker. Displayed for active Service Workers.
+serviceworker-worker-unregister = Suprimeix el registre
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Inicia
@@ -31,3 +35,33 @@ serviceworker-worker-status-stopped = Parat
 # Service Worker status. A registering service worker is not yet registered and cannot be
 # started or debugged.
 serviceworker-worker-status-registering = S'està registrant
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Errors i avisos
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Identitat
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Presentació
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Icones
+# Text displayed while we are loading the manifest file
+manifest-loading = S'està carregant el manifest…
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = S'ha carregat el manifest.
+# Text displayed when there has been an error while trying to load the manifest
+manifest-loaded-error = S'ha produït un error en carregar el manifest:
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifest
+    .alt = Icona de manifest
+    .title = Manifest
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Processos de treball de servei
+    .alt = Icona de processos de treball de servei
+    .title = Processos de treball de servei
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Icona d'avís
+    .title = Avís
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Icona d’error
+    .title = Error

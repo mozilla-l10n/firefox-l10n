@@ -395,6 +395,9 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Cerca el text en començar a teclejar
     .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = Activa els controls de vídeo d'imatge sobre imatge
+    .accesskey = A
 browsing-picture-in-picture-learn-more = Més informació
 browsing-cfr-recommendations =
     .label = Recomana extensions durant la navegació
@@ -657,6 +660,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Suggereix i genera contrasenyes segures
     .accesskey = u
+forms-breach-alerts =
+    .label = Mostra alertes sobre contrasenyes per als llocs web relacionats amb filtracions de dades
+    .accesskey = b
 forms-breach-alerts-learn-more-link = Més informació
 forms-fill-logins-and-passwords =
     .label = Emplena automàticament inicis de sessió i contrasenyes
@@ -778,6 +784,8 @@ addressbar-suggestions-settings = Canvia les preferències dels suggeriments de 
 
 content-blocking-header = Bloqueig de contingut
 content-blocking-section-description = Protegiu la vostra privadesa mentre navegueu. Bloqueu el contingut invisible que fa el seguiment dels llocs que visiteu per crear un perfil vostre amb esta informació. Blocant este contingut, és possible que les pàgines es carreguen més ràpid.
+content-blocking-enhanced-tracking-protection = Protecció contra el seguiment millorada
+content-blocking-section-top-level-description = Hi ha elements que vos fan el seguiment mentre navegueu per recopilar informació sobre els vostres hàbits de navegació i interessos. El { -brand-short-name } bloca molts d'estos elements de seguiment i altres scripts maliciosos.
 content-blocking-learn-more = Més informació
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".

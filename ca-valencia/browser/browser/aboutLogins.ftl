@@ -36,6 +36,7 @@ menu-menuitem-preferences =
         [windows] Opcions
        *[other] Preferències
     }
+about-logins-menu-menuitem-help = Ajuda
 menu-menuitem-android-app = { -lockwise-brand-short-name } per a l'Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } per a l'iPhone i iPad
 
@@ -55,9 +56,16 @@ login-list-last-changed-option = Darrera modificació
 login-list-last-used-option = Darrer ús
 login-list-intro-title = No s'ha trobat cap inici de sessió
 login-list-intro-description = Ací es mostren les contrasenyes que guardeu en el { -brand-product-name }.
+about-logins-login-list-empty-search-title = No s'ha trobat cap inici de sessió
+about-logins-login-list-empty-search-description = No hi ha cap resultat que coincidisca amb la cerca.
 login-list-item-title-new-login = Inici de sessió nou
 login-list-item-subtitle-new-login = Introduïu les credencials d'inici de sessió
 login-list-item-subtitle-missing-username = (cap nom d'usuari)
+about-logins-list-item-warning-icon =
+    .alt = Icona d'avís
+    .title = Lloc web amb filtració de dades
+about-logins-list-item-breach-icon =
+    .title = Lloc web amb filtració de dades
 
 ## Introduction screen
 
@@ -65,6 +73,7 @@ login-intro-heading = Esteu cercant els inicis de sessió que heu guardat? Confi
 login-intro-description = Si heu guardat els vostres inicis de sessió en el { -brand-product-name } des d'un altre dispositiu, esta és la manera de tindre-los també ací:
 login-intro-instruction-fxa = Creeu un { -fxaccount-brand-name } o inicieu-hi la sessió des del dispositiu on teniu guardats els vostres inicis de sessió
 login-intro-instruction-fxa-settings = Assegureu-vos que heu seleccionat la casella de selecció Inicis de sessió en els paràmetres del { -sync-brand-short-name }
+about-logins-intro-instruction-help = Visiteu l'<a data-l10n-name="help-link">assistència del { -lockwise-brand-short-name }</a> per obtindre més ajuda
 
 ## Login
 
@@ -75,6 +84,8 @@ login-item-origin-label = Adreça del lloc web
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nom d'usuari
+about-logins-login-item-username =
+    .placeholder = (cap nom d'usuari)
 login-item-copy-username-button-text = Copia
 login-item-copied-username-button-text = S'ha copiat
 login-item-password-label = Contrasenya
@@ -131,3 +142,10 @@ breach-alert-dismiss =
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Ja existeix una entrada per a { $loginTitle } amb este nom d'usuari.
+# This is a generic error message.
+about-logins-error-message-default = S'ha produït un error en intentar guardar esta contrasenya.

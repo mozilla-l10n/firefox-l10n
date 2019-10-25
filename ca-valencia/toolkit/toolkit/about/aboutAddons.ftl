@@ -98,9 +98,11 @@ detail-private-browsing-description2 = Si ho permeteu, l'extensió tindrà accé
 # cannot be overridden by the user.
 detail-private-disallowed-label = No es permet en finestres privades
 detail-private-disallowed-description = Esta extensió no s'executa durant la navegació privada. <label data-l10n-name="detail-private-browsing-learn-more">Més informació</label>
+detail-private-disallowed-description2 = Esta extensió no s'executa durant la navegació privada. <a data-l10n-name="learn-more">Més informació</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Necessita accés a les finestres privades
 detail-private-required-description = Esta extensió té accés a la vostra activitat a Internet durant la navegació privada. <label data-l10n-name="detail-private-browsing-learn-more">Més informació</label>
+detail-private-required-description2 = Esta extensió té accés a la vostra activitat a Internet durant la navegació privada. <a data-l10n-name="learn-more">Més informació</a>
 detail-private-browsing-on =
     .label = Permet
     .tooltiptext = Activa en la navegació privada
@@ -291,11 +293,17 @@ install-theme-button = Instal·la el tema
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Gestiona
 find-more-addons = Cerqueu més complements
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Més opcions
 
 ## Add-on actions
 
 report-addon-button = Informa
 remove-addon-button = Elimina
+# The link will always be shown after the other text.
+remove-addon-disabled-button = No s'ha pogut eliminar. <a data-l10n-name="link">Per què?</a>
 disable-addon-button = Desactiva
 enable-addon-button = Activa
 expand-addon-button = Més opcions
@@ -361,6 +369,11 @@ install-update-button = Actualitza
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Es permet en finestres privades
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Es permet en finestres privades
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Si ho permeteu, l'extensió tindrà accés a la vostra activitat a Internet encara que utilitzeu la navegació privada. <label data-l10n-name="detail-private-browsing-learn-more">Més informació</label>
 addon-detail-private-browsing-allow = Permet
 addon-detail-private-browsing-disallow = No ho permetes
@@ -369,6 +382,11 @@ addon-detail-private-browsing-disallow = No ho permetes
 addon-badge-recommended =
     .title = Recomanat
     .alt = Recomanat
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = El { -brand-product-name } només recomana extensions que compleixen els nostres estàndards de seguretat i de rendiment
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Actualitzacions disponibles
 recent-updates-heading = Actualitzacions recents
 release-notes-loading = S'està carregant…

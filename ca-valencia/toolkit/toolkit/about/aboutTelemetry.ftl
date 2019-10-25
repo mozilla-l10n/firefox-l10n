@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Font de dades de ping:
 about-telemetry-show-current-ping-data = Dades de ping actuals
+about-telemetry-show-current-data = Dades actuals
 about-telemetry-show-archived-ping-data = Dades de ping arxivades
 about-telemetry-show-subsession-data = Mostra dades de la subsessió
 about-telemetry-choose-ping = Trieu el ping:
@@ -16,6 +17,7 @@ about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Dades de telemesura
 about-telemetry-more-information = Voleu més informació?
+about-telemetry-home-section = Inici
 about-telemetry-general-data-section =   Dades generals
 about-telemetry-environment-data-section = Dades de l'entorn
 about-telemetry-session-info-section = Informació de la sessió
@@ -42,8 +44,15 @@ about-telemetry-page-subtitle = Esta pàgina conté la informació del rendiment
 #   $selectedTitle (String): the section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Cerca a { $selectedTitle }
+about-telemetry-filter-all-placeholder =
+    .placeholder = Cerca en totes les seccions
+# Variables:
+#   $searchTerms (String): the searched terms
+about-telemetry-results-for-search = Resultats de «{ $searchTerms }»
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = ping actual
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = dades actuals
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = tot
 # button label to copy the histogram
@@ -74,3 +83,5 @@ about-telemetry-category-header = categoria
 about-telemetry-method-header = mètode
 about-telemetry-object-header = objecte
 about-telemetry-extra-header = extra
+about-telemetry-origin-origin = origen
+about-telemetry-origin-count = recompte

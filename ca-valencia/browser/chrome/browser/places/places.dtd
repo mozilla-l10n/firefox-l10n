@@ -70,11 +70,18 @@
 <!ENTITY cmd.new_separator.label           "Afig un separador">
 <!ENTITY cmd.new_separator.accesskey       "s">
 
+<!ENTITY cmd.reloadLivebookmark.label      "Torna a carregar l'adreça d'interés activa">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "r">
+
+<!ENTITY cmd.moveBookmarks.label                  "Mou…">
+<!ENTITY cmd.moveBookmarks.accesskey              "M">
+
 <!ENTITY col.name.label          "Nom">
 <!ENTITY col.tags.label          "Etiquetes">
 <!ENTITY col.url.label           "Ubicació">
 <!ENTITY col.mostrecentvisit.label "Darrera visita">
 <!ENTITY col.visitcount.label    "Nombre de visites">
+<!ENTITY col.description.label   "Descripció">
 <!ENTITY col.dateadded.label     "Addició">
 <!ENTITY col.lastmodified.label  "Darrera modificació">
 
@@ -91,6 +98,10 @@
 
 <!ENTITY forwardButton.tooltip  "Vés avant">
 
+<!ENTITY detailsPane.more.label "Més">
+<!ENTITY detailsPane.more.accesskey "M">
+<!ENTITY detailsPane.less.label "Menys">
+<!ENTITY detailsPane.less.accesskey "y">
 <!ENTITY detailsPane.selectAnItemText.description "Seleccioneu un element per visualitzar-ne i editar-ne les propietats">
 
 <!ENTITY view.label               "Visualitza">

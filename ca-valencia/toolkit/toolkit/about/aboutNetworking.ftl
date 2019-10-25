@@ -23,6 +23,7 @@ tcp = TCP
 sent = Enviats
 received = Rebuts
 family = Família
+trr = TRR
 addresses = Adreces
 expires = Venciment (segons)
 messages-sent = Missatges enviats
@@ -41,4 +42,13 @@ dns-lookup = Consulta DNS
 dns-lookup-button = Resol
 dns-domain = Domini:
 dns-lookup-table-column = IP
-rcwn-perf-open = Òbriga
+rcwn-operation = Operació de memòria cau
+rcwn-perf-open = Obri
+networkid = ID de xarxa
+networkid-id = ID de xarxa
+
+## Link is intended as "network link"
+
+
+
+

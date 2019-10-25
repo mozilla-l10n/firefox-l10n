@@ -10,6 +10,21 @@ about-config-warning-button = Accepte el risc
 about-config2-title = Configuracions avançades
 about-config-search-input =
     .placeholder = Cerca
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Aneu amb compte.
+about-config-intro-warning-text = La modificació de les preferències avançades de configuració pot afectar el rendiment o la seguretat del { -brand-short-name }.
+about-config-intro-warning-checkbox = Avisa'm en intentar accedir a estes preferències
+about-config-intro-warning-button = Accepte el risc i vull continuar
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = La modificació d'estes preferències de configuració pot afectar el rendiment o la seguretat del { -brand-short-name }.
+about-config-page-title = Preferències avançades
+about-config-search-input1 =
+    .placeholder = Cerca el nom de la preferència
 about-config-show-all = Mostra-ho tot
 about-config-pref-add = Afig
 about-config-pref-toggle = Commuta

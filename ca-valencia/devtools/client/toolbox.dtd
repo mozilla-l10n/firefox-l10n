@@ -9,6 +9,10 @@
 <!ENTITY toggleToolbox.key  "I">
 <!ENTITY toggleToolboxF12.keycode          "VK_F12">
 <!ENTITY toggleToolboxF12.keytext          "F12">
+<!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
+  -  shown next to error details when the Browser Toolbox is unable to open. -->
+
+<!ENTITY browserToolboxErrorMessage          "Error en obrir la Caixa d'eines del navegador:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -32,6 +36,7 @@
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
+
 
 <!ENTITY options.defaultColorUnit.label "Unitat per defecte dels colors">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
@@ -137,11 +142,9 @@
 <!ENTITY options.timestampMessages.tooltip    "Si habiliteu esta opció, es mostraran marques horàries en les ordes i en l'eixida de la consola web">
 <!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
    - label for the checkbox that toggles the warningGroups feature in the Web Console -->
-
-<!ENTITY options.warningGroups.label      "Group similar messages">
-<!ENTITY options.warningGroups.tooltip    "When enabled, similar messages are placed into groups">
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+
 
 <!ENTITY options.debugger.label            "Depurador">
 <!-- LOCALIZATION NOTE (options.sourceMaps.label): This is the
