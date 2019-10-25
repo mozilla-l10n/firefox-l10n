@@ -123,3 +123,5 @@ cfr-doorhanger-socialtracking-close-button = बंद करा
 
 ## Enhanced Tracking Protection Milestones
 
+cfr-doorhanger-milestone-ok-button = सर्व पाहा
+    .accesskey = S
