@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = szerző: { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Javaslat
+cfr-doorhanger-extension-notification2 = Javaslat
+    .tooltiptext = Kiegészítőjavaslat
+    .a11y-announcement = Kiegészítőjavaslat érhető el
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Javaslat
+    .tooltiptext = Funkciójavaslat
+    .a11y-announcement = Funkciójavaslat érhető el
 
 ## Add-on statistics
 ## These strings are used to display the total number of
