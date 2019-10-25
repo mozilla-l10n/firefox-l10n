@@ -21,7 +21,6 @@ onboarding-button-label-get-started = Սկսել
 onboarding-welcome-header = Բարի գալուստ { -brand-short-name }
 onboarding-welcome-body = Դուք ունեք զննարկիչ: <br/> Ծանոթացեք { -brand-product-name } -ի մնացած մասի հետ:
 onboarding-welcome-learn-more = Իմացեք ավելին առավելությունների մասին:
-onboarding-welcome-modal-get-body = Դուք ունեք զննարկիչ<br/>
 onboarding-welcome-modal-supercharge-body = Գերազանցեք ձեր գաղտնիության պաշտպանությունը։
 onboarding-welcome-modal-privacy-body = Դուք ունեք զննարկիչ։ եկեք ավելացնենք ավելի շատ գաղտնիության պաշտպանություն։
 onboarding-welcome-modal-family-learn-more = Իմացեք { -brand-product-name } ապրանքների ընտանիքի մասին։
