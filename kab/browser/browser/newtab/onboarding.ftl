@@ -44,6 +44,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Iyya-d ad nesnirem ayen akk i tzemreḍ ad txedmeḍ.
 onboarding-fullpage-form-email =
     .placeholder = Tansa yinek imayl…
 
