@@ -33,6 +33,10 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = ต้องการอีเมลที่ถูกต้อง
 onboarding-join-form-legal = การดำเนินการต่อถือว่าคุณยอมรับ<a data-l10n-name="terms">เงื่อนไขการใช้บริการ</a>และ<a data-l10n-name="privacy">ข้อกำหนดความเป็นส่วนตัว</a>
 onboarding-join-form-continue = ดำเนินการต่อ
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = มีบัญชีอยู่แล้ว?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = ลงชื่อเข้า
 onboarding-start-browsing-button-label = เริ่มการเรียกดู
 onboarding-cards-dismiss =
     .title = ยกเลิก
@@ -40,6 +44,8 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-form-email =
+    .placeholder = ที่อยู่อีเมลของคุณ…
 
 ## Firefox Sync modal dialog strings.
 

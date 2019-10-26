@@ -31,6 +31,9 @@ cfr-doorhanger-extension-author = โดย { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = คำแนะนำ
+cfr-doorhanger-extension-notification2 = แนะนำ
+    .tooltiptext = ส่วนขยายที่แนะนำ
+    .a11y-announcement = ส่วนขยายแนะนำที่มีอยู่
 
 ## Add-on statistics
 ## These strings are used to display the total number of

@@ -37,3 +37,27 @@ monitor-sign-up = ลงทะเบียนเพื่อรับการ�
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = ตัวติดตามสังคมออนไลน์
+    .aria-label =
+        { $count ->
+           *[other] { $count } ตัวติดตามสังคมออนไลน์ ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = ตัวติดตามเนื้อหา
+    .aria-label =
+        { $count ->
+           *[other] { $count } ตัวติดตามเนื้อหา ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = ลายนิ้วมือดิจิทัล
+    .aria-label =
+        { $count ->
+           *[other] { $count } ลายนิ้วมือดิจิทัล ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = ตัวขุดเหรียญดิจิทัล
+    .aria-label =
+        { $count ->
+           *[other] { $count } ตัวขุดเหรียญดิจิทัล ({ $percentage }%)
+        }
