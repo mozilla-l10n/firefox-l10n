@@ -8,7 +8,7 @@
 <!ENTITY saveCmd.key "S">
 
 <!-- Edit menu items -->
-<!ENTITY pasteNoFormatting.label "Algui sen formo">
+<!ENTITY pasteNoFormatting.label "Alglui neformatitan tekston">
 <!ENTITY pasteNoFormatting.accesskey "A">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Alglui kiel">
