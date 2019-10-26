@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = ଅଧିବେଶନକୁ ପୁନଃସ୍ଥାପନ କରନ୍ତୁ
+# The title is intended to be apologetic and disarming, expressing dismay
+# and regret that we are unable to restore the session for the user
+restore-page-error-title = କ୍ଷମା କରିବେ, ଆପଣଙ୍କର ପୃଷ୍ଠାଗୁଡ଼ିକୁ ପୁନରୁଦ୍ଧାର କରିବାରେ ଆମେ ଅସୁବିଧାରେ ସମ୍ମୁଖୀନ ହେଉଛୁ
 restore-page-hide-tabs = ପୂର୍ବ ଟ୍ୟାବଗୁଡ଼ିକୁ ଲୁଚାନ୍ତୁ
 restore-page-show-tabs = ପୂର୍ବ ଟ୍ୟାବଗୁଡ଼ିକୁ ଦେଖନ୍ତୁ
 # When tabs are distributed across multiple windows, this message is used as a
