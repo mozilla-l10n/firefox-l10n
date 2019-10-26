@@ -937,7 +937,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "Por que?">
+<!ENTITY protections.notBlocking.why.label "Por quê?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Bloquear isso pode interferir em elementos em alguns sites. Sem rastreadores, alguns botões, formulários e campos de acesso a contas podem não funcionar.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Desativar proteções dará permissão a todos os rastreadores neste site. Também pode melhorar algumas funcionalidades do site.">
 <!ENTITY protections.socialMediaTrackers.label "Rastreadores de mídias sociais">
