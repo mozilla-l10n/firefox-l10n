@@ -27,6 +27,7 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar and Context Menus -->
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY editAbPropertiesButton.tooltip                 "Modificar le proprietates del adressario seligite">
 
 <!-- Search Bar -->
 

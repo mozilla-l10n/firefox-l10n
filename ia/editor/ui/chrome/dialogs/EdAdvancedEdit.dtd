@@ -10,4 +10,5 @@
 <!ENTITY tree.valueHeader.label         "Valor">
 <!ENTITY tabHTML.label                  "Attributos HTML">
 
+<!ENTITY editAttribute.label    "Clicca sur un elemento supra pro modificar su valor">
 <!ENTITY removeAttribute.label  "Remover">
