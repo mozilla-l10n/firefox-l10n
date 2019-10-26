@@ -107,11 +107,8 @@ master-password-reload-button =
     .label = Accedi
     .accesskey = A
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Annulla
-confirmation-dialog-dismiss-button =
-    .title = Annulla
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Vuoi avere a disposizione le tue credenziali ovunque utilizzi { -brand-product-name }? Apri le opzioni di { -sync-brand-short-name } e seleziona la voce “Credenziali”.
@@ -124,6 +121,16 @@ enable-password-sync-preferences-button =
            *[other] Apri le preferenze di { -sync-brand-short-name }
         }
     .accesskey = A
+about-logins-enable-password-sync-dont-ask-again-button =
+  .label = Non chiedere nuovamente
+  .accesskey = N
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Annulla
+confirmation-dialog-dismiss-button =
+    .title = Annulla
+
 confirm-delete-dialog-title = Eliminare queste credenziali?
 confirm-delete-dialog-message = Questa operazione non può essere annullata.
 confirm-delete-dialog-confirm-button = Elimina
