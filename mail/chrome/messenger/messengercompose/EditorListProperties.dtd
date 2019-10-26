@@ -7,3 +7,14 @@
 <!ENTITY windowTitle.label "Atributoj de listo">
 
 <!ENTITY ListType.label "Speco de listo">
+<!ENTITY bulletStyle.label "Stilo de buloj:">
+<!ENTITY startingNumber.label "Komenci je:">
+<!ENTITY startingNumber.accessKey "K">
+<!ENTITY none.value "Neniu">
+<!ENTITY bulletList.value "Bula listo (nenumerata)">
+<!ENTITY numberList.value "Numera listo">
+<!ENTITY definitionList.value "Listo de difinoj">
+<!ENTITY changeEntireListRadio.label "Ŝanĝi tutan liston">
+<!ENTITY changeEntireListRadio.accessKey "t">
+<!ENTITY changeSelectedRadio.label "Ŝanĝi nur elektitajn elementojn">
+<!ENTITY changeSelectedRadio.accessKey "e">
