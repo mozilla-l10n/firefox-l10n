@@ -12,6 +12,7 @@
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Adresse del imagine:">
 <!ENTITY locationEditField.accessKey "А">
+<!ENTITY locationEditField.shortenedDataURI "URI de datos abbreviate (copiar placiara le URI complete in le area de transferentia)">
 <!ENTITY title.label "Consilio:">
 <!ENTITY title.accessKey "C">
 <!ENTITY altText.label "Texto alternative">

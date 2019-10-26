@@ -23,3 +23,4 @@
 <!ENTITY colon.character ":">
 <!ENTITY backgroundImage.label "Imagine de fundo:">
 <!ENTITY backgroundImage.accessKey "m">
+<!ENTITY backgroundImage.shortenedDataURI "URI de datos abbreviate (copiar placiara le URI complete in le area de transferentia)">

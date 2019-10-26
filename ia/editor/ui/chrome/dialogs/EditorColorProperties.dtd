@@ -24,3 +24,4 @@
 <!ENTITY backgroundImage.label "Imagine de fundo:">
 <!ENTITY backgroundImage.accessKey "m">
 <!ENTITY backgroundImage.tooltip "Usar un file imagine como fundo pro tu pagina">
+<!ENTITY backgroundImage.shortenedDataURI "URI de datos abbreviate (copiar placiara le URI complete in le area de transferentia)">
