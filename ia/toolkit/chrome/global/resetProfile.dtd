@@ -2,14 +2,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
-<!ENTITY refreshProfile.dialog.title         "Remontar &brandShortName;">
-<!ENTITY refreshProfile.dialog.description1  "Remontar ab le zero pro corriger le problemas e restabilir le rendimento.">
-<!ENTITY refreshProfile.dialog.description2  "Isto:">
-<!ENTITY refreshProfile.dialog.items.label1  "Removera tu additivos e personalisationes">
-<!ENTITY refreshProfile.dialog.items.label2  "Restaurara le parametros de tu navigator a lor predefinitiones">
-<!ENTITY refreshProfile.dialog.button.label  "Remontar &brandShortName;">
-
-<!ENTITY refreshProfile.title                "Da a &brandShortName; un affinamento">
-<!ENTITY refreshProfile.button.label         "Remontar &brandShortName;…">
-
+<!ENTITY refreshProfile.dialog.title         "Refrescar &brandShortName;">
 <!ENTITY refreshProfile.cleaning.description "Quasi facite…">

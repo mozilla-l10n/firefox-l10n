@@ -85,7 +85,7 @@
 </ul>
 ">
 
-<!ENTITY netReset.title "Le connexion ha essite remontate">
+<!ENTITY netReset.title "Le connexion ha essite interrumpite">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Le connexion ha expirate">

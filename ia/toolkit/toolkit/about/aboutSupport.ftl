@@ -139,7 +139,7 @@ media-capabilities-title = Functionalitates del medios
 # List all the entries of the database.
 media-capabilities-enumerate = Enumerar base de datos
 
-##
+
 
 intl-title = Internationalisation & Localisation
 intl-app-title = Parametros del application
@@ -248,7 +248,7 @@ d3d11video-crash-guard = Decodificator de video D3D11
 d3d9video-crash-buard = Decodificator de video D3D9
 d3d9video-crash-guard = Decodificator de video D3D9
 glcontext-crash-guard = OpenGL
-reset-on-next-restart = Remontar al proxime reinitiar
+reset-on-next-restart = Reinitialisar post quitar e reaperir
 gpu-process-kill-button = Terminar le processo GPU
 gpu-device-reset = Restabilir le apparato
 gpu-device-reset-button = Actionar le remontage del apparato
