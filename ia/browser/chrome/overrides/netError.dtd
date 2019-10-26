@@ -199,7 +199,7 @@ was trying to connect. -->
 <!ENTITY certerror.pagetitle2  "Advertentia: Potential risco de securitate avante">
 <!ENTITY certerror.sts.pagetitle  "Non connecter se: possibile problema de securitate">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ha un politica de securitate appellate HTTP Strict Transport Security (HSTS), le qual vole dicer que &brandShortName; solmente pote connecter se a illo de maniera secur. Tu pote adder un exception pro visitar iste sito.">
-<!ENTITY certerror.copyToClipboard.label "Copiar le texto in le planchetta">
+<!ENTITY certerror.copyToClipboard.label "Copiar le texto al area de transferentia">
 
 <!ENTITY inadequateSecurityError.title "Tu connexion non es secur">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate

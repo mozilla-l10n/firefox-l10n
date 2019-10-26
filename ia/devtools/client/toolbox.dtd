@@ -167,8 +167,8 @@
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
-<!ENTITY options.screenshot.clipboard.label      "Capturar instantaneo del schermo e copiar lo in le planchetta">
-<!ENTITY options.screenshot.clipboard.tooltip    "Copiar le instantaneos de schermo directemente in le planchetta">
+<!ENTITY options.screenshot.clipboard.label      "Capturar schermo in area de transferentia">
+<!ENTITY options.screenshot.clipboard.tooltip    "Salva le captura del schermo directemente in le area de transferentia">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
