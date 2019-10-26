@@ -86,8 +86,12 @@ manifest-item-icons = 아이콘
 manifest-loading = 매니페스트 로딩 중…
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = 매니페스트가 로드되었습니다.
-# Text displayed when there has been an error while trying to load the manifest
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
 manifest-loaded-error = 매니페스트를 로드하는 동안 오류가 발생했습니다:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Firefox DevTools 오류
 # Text displayed when the page has no manifest available
 manifest-non-existing = 검사할 매니페스트가 없습니다.
 # Text displayed when the page has a manifest embedded in a Data URL and
