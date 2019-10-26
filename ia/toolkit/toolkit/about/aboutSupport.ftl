@@ -103,8 +103,8 @@ a11y-force-disabled = Impedir le accessibilitate
 a11y-handler-used = Es usate le gestor accessibile
 a11y-instantiator = Generator de accessibilitate
 library-version-title = Versiones de bibliotheca
-copy-text-to-clipboard-label = Copiar le texto in le planchetta
-copy-raw-data-to-clipboard-label = Copiar le datos brute in le planchetta
+copy-text-to-clipboard-label = Copiar le texto al area de transferentia
+copy-raw-data-to-clipboard-label = Copiar le datos brute al area de transferentia
 sandbox-title = Cassa de arena
 sandbox-sys-call-log-title = Appellos de systema rejectate
 sandbox-sys-call-index = #
@@ -185,8 +185,8 @@ pending-reports =
         [one] Tote le reportos de collapso (includente { $reports } collapso pendente in le intervallo indicate)
        *[other] Tote le reportos de collapso (includente { $reports } collapsos pendente in le intervallo indicate)
     }
-raw-data-copied = Datos brute copiate in le planchetta
-text-copied = Texto copiate in le planchetta
+raw-data-copied = Datos brute copiate al area de transferentia
+text-copied = Texto copiate al area de transferentia
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
