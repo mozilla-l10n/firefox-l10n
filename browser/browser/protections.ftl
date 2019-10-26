@@ -27,6 +27,7 @@ lockwise-sync-status =
     { $count ->
        *[other] กำลังซิงค์กับอุปกรณ์อื่น ๆ { $count } เครื่อง
     }
+monitor-title = ให้เราช่วยคอยเฝ้าระวังดูการละเมิดข้อมูล
 monitor-link = วิธีการทำงาน
 monitor-sign-up = ลงทะเบียนเพื่อรับการเตือนการรั่วไหล
 

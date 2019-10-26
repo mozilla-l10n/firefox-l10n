@@ -78,6 +78,9 @@ onboarding-benefit-privacy-title = ความเป็นส่วนตัว
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = ทุกสิ่งที่เราทำเคารพต่อคำมั่นสัญญาด้านข้อมูลส่วนบุคคลของเรา: เก็บให้น้อย รักษาให้ปลอดภัย ไม่มีความลับ
+onboarding-benefit-sync-text = นำที่คั่นหน้า รหัสผ่าน ประวัติ และอื่น ๆ ทุกที่ที่คุณใช้ { -brand-product-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-text = จัดการรหัสผ่านของคุณให้ปลอดภัยและพกพาได้
 
 ## These strings belong to the individual onboarding messages.
 
