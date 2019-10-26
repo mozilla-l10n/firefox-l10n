@@ -49,10 +49,11 @@
 <!ENTITY viewMenu_zoomin_accesskey "A">
 <!ENTITY viewMenu_zoomout_label "Distantiar">
 <!ENTITY viewMenu_zoomout_accesskey "D">
-<!ENTITY viewMenu_resetzoom_label "Remontar le zoom">
+<!ENTITY viewMenu_resetzoom_label "Reinitialisar le zoom">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Aperir un application">
+
 <!ENTITY runtimeButton_label "Eliger le ambiente de execution">
 
 <!-- We try to repicate Firefox' bindings: -->

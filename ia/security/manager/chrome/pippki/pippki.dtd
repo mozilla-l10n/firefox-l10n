@@ -11,16 +11,15 @@
 <!ENTITY setPassword.meter.label "Mensurator de qualitate del contrasigno">
 
 <!-- Values for resetpassword.xul -->
-<!ENTITY resetPasswordButtonLabel "Remontar">
-<!ENTITY resetPassword.title  "Remontar le contrasigno maestro">
-<!ENTITY resetPassword.text  "Si tu remonta tu contrasigno maestro, tote tu contrasignos de email e de web, datos de formularios e claves private essera oblidate. Desira tu vermente remontar tu contrasigno maestro?">
+<!ENTITY resetPasswordButtonLabel "Reinitialisar">
+<!ENTITY resetPassword.title  "Reinitialisar le contrasigno maestro">
+<!ENTITY resetPassword.text  "Si tu reinitialisa tu contrasigno maestro, tote tu contrasignos de e-mail e de web, datos de formularios e claves private essera oblidate. Desira tu vermente reinitialisar tu contrasigno maestro?">
 
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Discargante le certificato">
 <!ENTITY downloadCert.message1 "On te ha demandate a confider a un nove autoritate de certification (CA).">
 <!ENTITY downloadCert.trustSSL "Confider a iste CA pro identificar sitos del web.">
 <!ENTITY downloadCert.trustEmail "Confider a iste CA pro identificar le usatores de email.">
-<!ENTITY downloadCert.trustObjSign "Confider a iste CA pro identificar le developpatores de software.">
 <!ENTITY downloadCert.message3 "Ante confider a iste CA pro qualcunque proposito, tu debe examinar su certificato e su politica e proceduras (si disponibile).">
 <!ENTITY downloadCert.viewCert.label "Vider">
 <!ENTITY downloadCert.viewCert.text "Examinar le certificato de CA">
