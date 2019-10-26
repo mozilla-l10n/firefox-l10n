@@ -5,6 +5,9 @@
 
 ## App Menu
 
+appmenuitem-protection-report-title = ଗୋପନୀୟତା ସୁରକ୍ଷା
+appmenuitem-protection-report-tooltip =
+    .tooltiptext = ଆପଣଙ୍କର ଗୋପନୀୟତା ପତ୍ରକୁ ଯାଆନ୍ତୁ
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 

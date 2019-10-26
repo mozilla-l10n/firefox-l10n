@@ -13,6 +13,7 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = ସାବଧାନତାର ସହିତ ଆଗାନ୍ତୁ
+about-config-intro-warning-button = ଆଶଙ୍କାକୁ ସ୍ୱୀକାର କରନ୍ତୁ ଏବଂ ଆଗାନ୍ତୁ
 
 
 
