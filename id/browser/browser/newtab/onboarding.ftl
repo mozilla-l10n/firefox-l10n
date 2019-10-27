@@ -21,6 +21,7 @@ onboarding-button-label-get-started = Bersiap
 onboarding-welcome-header = Selamat datang di { -brand-short-name }
 onboarding-welcome-body = Anda telah mendapatkan perambannya. <br/>Temui lini produk { -brand-product-name } lainnya.
 onboarding-welcome-learn-more = Pelajari lebih lanjut tentang manfaatnya.
+onboarding-welcome-modal-supercharge-body = Perkuat perlindungan privasi Anda.
 onboarding-welcome-modal-family-learn-more = Pelajari tentang rangkaian produk { -brand-product-name }.
 onboarding-welcome-form-header = Mulai di sini
 onboarding-join-form-header = Bergabunglah dengan { -brand-product-name }
