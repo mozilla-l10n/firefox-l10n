@@ -71,15 +71,15 @@ about-logins-list-item-breach-icon =
 
 login-intro-heading = Cerca tu le credentiales salvate? Configura { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-in = Nulle credentiales synchronisate trovate.
-login-intro-description = Si tu salvava tu credentiales pro { -brand-product-name } sur un apparato differente, ecce ci como a los obtener:
-login-intro-instruction-fxa = Crea o accede a tu { -fxaccount-brand-name } sur le apparato ubi es salvate tu credentiales.
-login-intro-instruction-fxa-settings = Assecura te que le quadro de selection Credentiales es seligite in le parametros de { -sync-brand-short-name }
-about-logins-intro-instruction-help = Visita le <a data-l10n-name="help-link">supporto pro { -lockwise-brand-short-name }</a> per altere adjuta
+login-intro-description = Si tu ha salvate tu credentiales in { -brand-product-name } sur un altere dispositivo, ecce como render los disponibile hic:
+login-intro-instruction-fxa = Crea o identifica te a tu { -fxaccount-brand-name } sur le dispositivo ubi tu credentiales es salvate
+login-intro-instruction-fxa-settings = Assecura te que le quadrato Credentiales es seligite in le parametros de { -sync-brand-short-name }
+about-logins-intro-instruction-help = Visita le <a data-l10n-name="help-link">supporto pro { -lockwise-brand-short-name }</a> pro plus adjuta
 
 ## Login
 
-login-item-new-login-title = Crear nove credential
-login-item-edit-button = Rediger
+login-item-new-login-title = Crear nove credentiales
+login-item-edit-button = Modificar
 login-item-delete-button = Deler
 login-item-origin-label = Adresse web
 login-item-origin =
@@ -93,7 +93,7 @@ login-item-password-label = Contrasigno
 login-item-password-reveal-checkbox-show =
     .title = Monstrar contrasigno
 login-item-password-reveal-checkbox-hide =
-    .title = Celar le contrasigno
+    .title = Celar contrasigno
 login-item-copy-password-button-text = Copiar
 login-item-copied-password-button-text = Copiate!
 login-item-save-changes-button = Salvar le cambiamentos
@@ -101,14 +101,14 @@ login-item-save-new-button = Salvar
 login-item-cancel-button = Cancellar
 login-item-time-changed = Ultime modification : { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Create: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Ultime utilisation : { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Ultime uso: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
-master-password-notification-message = Insere tu contrasigno principal pro vider le credentiales e le contrasignos salvate
+master-password-notification-message = Insere tu contrasigno principal pro vider le credentiales e contrasignos salvate
 master-password-reload-button =
-    .label = Credential
-    .accesskey = C
+    .label = Aperir session
+    .accesskey = A
 
 ## Dialogs
 
@@ -117,8 +117,8 @@ confirmation-dialog-dismiss-button =
     .title = Cancellar
 enable-password-sync-notification-message =
     { PLATFORM() ->
-        [windows] Credentiales disponibile ubique tu usa { -brand-product-name }? Va a Parametros de tu { -sync-brand-short-name } e selige le quadro de selection Credentiales.
-       *[other] Credentiales disponibile ubique tu usa { -brand-product-name }? Va a Preferentias de tu { -sync-brand-short-name } e selige le quadro de selection Credentiales.
+        [windows] Credentiales disponibile ubique tu usa { -brand-product-name }? Va al Optiones de tu { -sync-brand-short-name } e selige le quadrato Credentiales.
+       *[other] Credentiales disponibile ubique tu usa { -brand-product-name }? Va al Preferentias de tu { -sync-brand-short-name } e selige le quadrato Credentiales.
     }
 enable-password-sync-preferences-button =
     .label =
@@ -127,17 +127,17 @@ enable-password-sync-preferences-button =
            *[other] Visita Preferentias de { -sync-brand-short-name }
         }
     .accesskey = V
-confirm-delete-dialog-title = Deler iste credential?
+confirm-delete-dialog-title = Deler iste credentiales?
 confirm-delete-dialog-message = Iste action es irreversibile.
 confirm-delete-dialog-confirm-button = Deler
-confirm-discard-changes-dialog-title = Refusar le modificationes non salvate?
-confirm-discard-changes-dialog-message = Tote le modificationes non salvate sera perdite.
-confirm-discard-changes-dialog-confirm-button = Refusar
+confirm-discard-changes-dialog-title = Abandonar le modificationes non salvate?
+confirm-discard-changes-dialog-message = Tote le modificationes non salvate essera perdite.
+confirm-discard-changes-dialog-confirm-button = Abandonar
 
 ## Breach Alert notification
 
-breach-alert-text = Contrasignos ha essite revelate o robate ab iste sito web desde tu ultime actualisation del detalios de tu accesso. Cambia tu contrasigno pro proteger tu conto.
-breach-alert-link = Saper plus re iste violation.
+breach-alert-text = Le contrasignos de iste sito web ha essite divulgate o robate desde le ultime vice que tu cambiava tu credentiales. Cambia ora tu contrasigno pro proteger tu conto!
+breach-alert-link = Saper plus sur iste violation.
 breach-alert-dismiss =
     .title = Clauder iste alerta
 
