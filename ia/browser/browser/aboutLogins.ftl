@@ -105,7 +105,7 @@ login-item-time-used = Ultime uso: { DATETIME($timeUsed, day: "numeric", month: 
 
 ## Master Password notification
 
-master-password-notification-message = Insere tu contrasigno principal pro vider le credentiales e contrasignos salvate
+master-password-notification-message = Insere tu contrasigno maestro pro vider le credentiales e contrasignos salvate
 master-password-reload-button =
     .label = Aperir session
     .accesskey = A
