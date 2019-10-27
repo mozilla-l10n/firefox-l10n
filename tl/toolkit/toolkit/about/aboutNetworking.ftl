@@ -9,6 +9,7 @@ ok = OK
 http = HTTP
 sockets = Mga socket
 dns = DNS
+dnssuffix = DNS suffix
 websockets = WebSockets
 refresh = I-refresh
 auto-refresh = Mag-rerefresh ng atomatiko kada 3 segundo
