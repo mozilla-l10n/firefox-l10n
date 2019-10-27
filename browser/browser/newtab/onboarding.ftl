@@ -22,6 +22,7 @@ onboarding-welcome-header = Selamat datang di { -brand-short-name }
 onboarding-welcome-body = Anda telah mendapatkan perambannya. <br/>Temui lini produk { -brand-product-name } lainnya.
 onboarding-welcome-learn-more = Pelajari lebih lanjut tentang manfaatnya.
 onboarding-welcome-modal-family-learn-more = Pelajari tentang rangkaian produk { -brand-product-name }.
+onboarding-welcome-form-header = Mulai di sini
 onboarding-join-form-header = Bergabunglah dengan { -brand-product-name }
 onboarding-join-form-body = Masukkan alamat surel Anda untuk memulai.
 onboarding-join-form-email =
@@ -77,6 +78,7 @@ onboarding-benefit-privacy-text = Segala yang kami lakukan menghormati Janji Dat
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Bawa markah, kata sandi, riwayat dan lainnya di mana pun Anda menggunakan { -brand-product-name }
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Dapatkan pemberitahuan saat info pribadi Anda ada di dalam pembobolan data publik.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
