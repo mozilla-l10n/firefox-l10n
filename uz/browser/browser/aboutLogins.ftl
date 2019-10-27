@@ -131,9 +131,27 @@ confirm-delete-dialog-title = Bu login oʻchirilsinmi?
 confirm-delete-dialog-message = Bu amalni orqaga qaytarib boʻlmaydi.
 confirm-delete-dialog-confirm-button = Oʻchirish
 confirm-discard-changes-dialog-title = Saqlanmagan oʻzgarishlar bekor qilinsinmi?
+confirm-discard-changes-dialog-message = Barcha saqlanmagan oʻzgarishlar yoʻqoladi.
+confirm-discard-changes-dialog-confirm-button = Rad etish
 
 ## Breach Alert notification
 
+breach-alert-text = Login maʼlumotlari oxirgi marta yangilangandan keyin shu saytdan parollar olingan yoki oʻgʻirlangan. Hisobingizni himoya qilish uchun parolingizni oʻzgartiring.
+breach-alert-link = Maʼlumotlarning sizib chiqishi haqida batafsil.
+breach-alert-dismiss =
+    .title = Bildirishnomani yopish
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = { $loginTitle } uchun kiritilgan logindan foydalanib kelayotgan foydalanuvchi mavjud.
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = { $loginTitle } uchun kiritilgan foydalanuvchi nomi allaqachon mavjud. <a data-l10n-name="duplicate-link">Mavjud yozuv ochilsinmi?</a>
+# This is a generic error message.
+about-logins-error-message-default = Bu parolni saqlashda xatolik yuz berdi.

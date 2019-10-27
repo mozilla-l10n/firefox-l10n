@@ -16,6 +16,7 @@ cert-error-untrusted-default = Sertifikat ishonchli manbadan emas.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Xatolik kodi: <a data-l10n-name="error-code-link">{ $error }</a>
+cert-error-symantec-distrust-admin = Sayt administratoriga bu muammo haqida xabar berishingiz mumkin.
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP mustahkam transport xavfsizligi: { $hasHSTS }

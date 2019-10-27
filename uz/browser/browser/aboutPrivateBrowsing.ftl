@@ -25,3 +25,10 @@ about-private-browsing =
 about-private-browsing-not-private = Siz hozirda maxfiy oynada emassiz.
 content-blocking-title = Kontentni bloklash
 content-blocking-description = Ba’zi saytlar internetdagi faoliyatingizni o‘rganish uchun kuzatishlari mumkin. Maxfiy oynalarda { -brand-short-name } kontentni bloklash funksiyasi yordamida ko‘plab kuzatuvlarni avtomatik bloklash mumkin. Ularning kuzatishdan maqsadi internetdagi faoliyatingizni o‘rganish.
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Boshqa qidiruv tizimini tanlash uchun <a data-l10n-name="link-options">Parametrlar</a> sahifasini oching
+       *[other] Boshqa qidiruv tizimini tanlash uchun <a data-l10n-name="link-options">Parametrlar</a> sahifasini oching
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Yopish
