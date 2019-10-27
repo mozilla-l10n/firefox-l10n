@@ -94,7 +94,7 @@ onboarding-benefit-lockwise-text = Gere tu contrasignos protegite e portabile.
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Navigation private
-onboarding-private-browsing-text = Naviga per te mesme. Navigation private con le Blocada de contentos bloca le traciatores online que te seque circum le web.
+onboarding-private-browsing-text = Naviga solitarimente. Le navigation private con blocage de contento bloca le traciatores in linea que te seque a transverso le web.
 onboarding-screenshots-title = Instantaneos
 onboarding-screenshots-text = Captura, salva e comparti instantaneos - sin lassar { -brand-short-name }. Captura un region o un pagina integre durante que tu naviga. Pois salva lo al web pro facile accesso e compartimento.
 onboarding-addons-title = Additivos
@@ -105,7 +105,7 @@ onboarding-ghostery-text = Naviga plus veloce, in maniera plus intelligente o pl
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Inscribe te a un { -fxaccount-brand-name } e synchronisa tu marcapaginas, contrasignos e schedas aperte ubicunque tu usa { -brand-short-name }.
 onboarding-tracking-protection-title2 = Protection contra le traciamento
-onboarding-tracking-protection-text2 = { -brand-short-name } impedi al sitos web de te traciar online, obstruente pro avisos publicitari te sequer circum le Web.
+onboarding-tracking-protection-text2 = { -brand-short-name } impedi al sitos web de traciar te in linea, assi que le servitores de publicitate non pote sequer te a transverso le web.
 onboarding-tracking-protection-button2 = Como functiona illo
 onboarding-data-sync-title = Prende tu parametros con te
 # "Sync" is short for synchronize.
