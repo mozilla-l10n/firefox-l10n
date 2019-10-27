@@ -509,6 +509,7 @@ search-bar-shown =
 search-engine-default-header = Buscador predeterminado
 search-engine-default-desc = Elija el buscador por omisión que desea usar en las barras de direcciones y de búsqueda.
 search-engine-default-desc-2 = Este es su buscador predeterminado en la barra de direcciones y la barra de búsqueda. Puede cambiarlo en cualquier momento.
+search-engine-default-private-desc-2 = Elija un buscador predeterminado diferente para usar solo en ventanas privadas
 search-separate-default-engine =
     .label = Usar este buscador en ventanas privadas
     .accesskey = U
@@ -527,6 +528,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Mostrar sugerencias de búsqueda antes del historial de navegación en los resultados de la barra de direcciones
+search-show-suggestions-private-windows =
+    .label = Mostrar sugerencias de búsqueda en ventanas privadas
 suggestions-addressbar-settings = Cambiar las preferencias para el historial de navegación, marcadores y sugerencias de pestañas
 search-suggestions-cant-show = Las sugerencias de búsqueda no se mostrarán en los resultados de la barra de direcciones porque ha configurado { -brand-short-name } para que nunca recuerde el historial.
 search-one-click-header = Buscadores con un clic
