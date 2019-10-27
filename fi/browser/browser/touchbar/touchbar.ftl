@@ -19,6 +19,9 @@ open-location = Kirjoita osoite tai hakusana
 share = Jaa
 close-window = Sulje ikkuna
 open-sidebar = Sivupaneelit
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Hae:
 
 ## Various categories of shortcuts for search.
 
