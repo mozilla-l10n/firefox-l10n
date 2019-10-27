@@ -80,6 +80,7 @@ onboarding-benefit-sync-text = Bawa markah, kata sandi, riwayat dan lainnya di m
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Dapatkan pemberitahuan saat info pribadi Anda ada di dalam pembobolan data publik.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Mengelola kata sandi yang dilindungi dan portabel.
 
 ## These strings belong to the individual onboarding messages.
 
