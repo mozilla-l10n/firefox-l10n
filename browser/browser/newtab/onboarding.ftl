@@ -106,6 +106,7 @@ onboarding-data-sync-text2 = Sinkronkan markah, kata sandi, dan lainnya di mana 
 onboarding-data-sync-button2 = Masuk ke { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Selalu Waspada akan Pembobolan Data
 onboarding-firefox-monitor-text = { -monitor-brand-name } memantau jika surel Anda telah muncul dalam pembobolan data dan memberitahu Anda jika muncul dalam pembobolan terbaru.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } memantau jika surel Anda telah muncul dalam pembobolan data publik dan memberitahu Anda jika muncul dalam pembobolan terbaru.
 onboarding-firefox-monitor-button = Daftar untuk Pemberitahuan
 onboarding-browse-privately-title = Menjelajah Secara Privat
 onboarding-browse-privately-text = Penjelajahan Pribadi menghapus pencarian dan riwayat penjelajahan Anda untuk merahasiakannya dari orang yang menggunakan komputer Anda.
