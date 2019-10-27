@@ -36,7 +36,7 @@ onboarding-join-form-continue = Continuar
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = Ha tu jam un conto?
 # Text for link to submit the sign in form
-onboarding-join-form-signin = Accede
+onboarding-join-form-signin = Aperir session
 onboarding-start-browsing-button-label = Comencia a navigar
 onboarding-cards-dismiss =
     .title = Dimitter
