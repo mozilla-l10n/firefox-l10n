@@ -70,17 +70,17 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
-<!ENTITY FontSizeSelect.tooltip "Elektu grandon de tiparo">
-<!ENTITY decreaseFontSize.label "Pli eta">
-<!ENTITY decreaseFontSize.accesskey "e">
+<!ENTITY FontSizeSelect.tooltip "Elekti grandon de tiparo">
+<!ENTITY decreaseFontSize.label "Malpli granda">
+<!ENTITY decreaseFontSize.accesskey "M">
 <!ENTITY decrementFontSize.key "&lt;">
 <!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Pli granda">
-<!ENTITY increaseFontSize.accesskey "">
+<!ENTITY increaseFontSize.accesskey "P">
 <!ENTITY incrementFontSize.key "&gt;">
 <!ENTITY incrementFontSize.key2 "."> <!-- > is above this key on many keyboards -->
 
-<!ENTITY fontSizeMenu.label "Grando">
+<!ENTITY fontSizeMenu.label "Grando de tiparo">
 <!ENTITY fontSizeMenu.accesskey "G">
 <!ENTITY size-tinyCmd.label "Eteta">
 <!ENTITY size-tinyCmd.accesskey "E">
