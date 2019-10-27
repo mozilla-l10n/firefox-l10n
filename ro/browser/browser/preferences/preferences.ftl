@@ -310,7 +310,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Conținut Digital Rights Management (DRM)
 play-drm-content =
@@ -460,7 +460,6 @@ choose-bookmark =
 
 home-prefs-content-header = Conținutul paginii de start Firefox
 home-prefs-content-description = Alege ce conținut vrei pe ecranul de start Firefox.
-home-prefs-content-discovery-description = Descoperirea de conținut din pagina de start Firefox îți permite să descoperi articole relevante de calitate înaltă de pe web.
 home-prefs-search-header =
     .label = Căutare web
 home-prefs-topsites-header =
@@ -558,6 +557,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Ia webul cu tine
 sync-signedout-description = Sincronizează marcajele, istoricul, filele, parolele, suplimentele și preferințele pe toate dispozitivele.
 sync-signedout-account-title = Conectează-te cu un { -fxaccount-brand-name }
@@ -577,6 +580,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Descarcă Firefox pentru <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> sau <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ca să sincronizezi datele cu dispozitivul mobil.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Schimbă fotografia de profil
@@ -598,6 +604,15 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Setări de sincronizare
 sync-signedin-settings-desc = Alege ce să sincronizezi pe dispozitive folosind { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Marcaje
     .accesskey = M
@@ -632,6 +647,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Setările generale, de confidențialitate și securitate pe care le-ai schimbat
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Numele dispozitivului
 sync-device-name-change =
     .label = Schimbă numele dispozitivului
@@ -665,7 +683,7 @@ forms-generate-passwords =
     .label = Sugerează și generează parole puternice
     .accesskey = u
 forms-breach-alerts =
-    .label = Afișează alerte despre parole pentru site-uri web sparte
+    .label = Afișează alerte despre parole pentru site-urile web a căror securitate a fost încălcată
     .accesskey = b
 forms-breach-alerts-learn-more-link = Află mai multe
 forms-fill-logins-and-passwords =
@@ -822,7 +840,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizată
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = Echilibrat pentru protecție și performanță. Paginile se vor încărca normal.
 content-blocking-etp-strict-desc = O protecție mai puternică, dar poate provoca funcționarea necorespunzătoare a site-urilor sau a conținutului.
