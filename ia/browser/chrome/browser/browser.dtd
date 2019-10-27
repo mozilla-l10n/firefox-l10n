@@ -121,7 +121,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.key "R">
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
-<!ENTITY fxaSignIn.label "Connecter se a &syncBrand.shortName.label;">
+<!ENTITY fxaSignIn.label "Aperir session a &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Aperir le preferentias de &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconnecter se a &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verificar tu conto">
@@ -156,7 +156,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.signedInAs.label "Authenticate como">
+<!ENTITY fxa.menu.signedInAs.label "In session como">
 <!ENTITY fxa.menu.manageAccount.label "Gerer le conto…">
 <!ENTITY fxa.menu.syncSettings.label "Parametros de &syncBrand.shortName.label;…">
 
@@ -167,20 +167,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Connecter un altere apparato…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
-<!ENTITY fxa.menu.signin.label "Accede a &brandProductName;">
+<!ENTITY fxa.menu.signin.label "Aperir session a &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activar &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Servicios de &brandProductName;">
 
 <!ENTITY fxa.menu.account.label "Conto">
 <!ENTITY fxa.menu.settings.label "Parametros">
 <!ENTITY fxa.menu.accountSettings.label "Parametros del conto">
-<!ENTITY fxa.menu.signOut.label "Disconnexion…">
+<!ENTITY fxa.menu.signOut.label "Clauder session…">
 <!ENTITY fxa.menu.deviceSettings.label "Parametros del apparato">
 <!ENTITY fxa.menu.setupSync.label "Configurar &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.sendTab.description "Invia un scheda instantaneemente a ulle dispositivo que tu ha accedite.">
+<!ENTITY fxa.service.sendTab.description "Invia un scheda instantaneemente a qualcunque dispositivo in que tu ha aperite session.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -389,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Preferentias">
 <!ENTITY preferencesCmdUnix.accesskey     "P">
-<!ENTITY logins.label                           "Connexiones e contrasignos">
+<!ENTITY logins.label                           "Contos e contrasignos">
 
 <!ENTITY clearRecentHistory.label               "Vacuar le chronologia recente…">
 
@@ -446,11 +446,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Desira tu vider le schedas de altere apparatos hic?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Aperir le preferentias de Sync">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Authentica te pro vider un lista de schedas de tu altere apparatos.">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Aperi session pro vider un lista de schedas de tu altere dispositivos.">
 <!ENTITY appMenuRemoteTabs.welcome.label "Vider un lista de schedas de tu altere apparatos.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Il necesse verificar tu conto.">
-<!ENTITY appMenuRemoteTabs.signin.label "Connecter se a Sync">
-<!ENTITY appMenuRemoteTabs.signintosync.label "Acceder a &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.signin.label "Aperir session a Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Aperir session a &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Activar &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Gerer le apparatos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vider le barra lateral de schedas synchronisate">
@@ -965,7 +965,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSignIn.label             "Connecter se a &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.label             "Aperir session a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 
 <!ENTITY syncSyncNowItem.label        "Synchronisar ora">

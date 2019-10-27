@@ -4,7 +4,7 @@
 
 synced-tabs-sidebar-title = Schedas synchronisate
 synced-tabs-sidebar-noclients-subtitle = Desira tu vider le schedas de altere apparatos hic?
-synced-tabs-sidebar-notsignedin = Authentica te pro vider un lista de schedas de tu altere apparatos.
+synced-tabs-sidebar-notsignedin = Aperi session pro vider un lista de schedas de tu altere apparatos.
 synced-tabs-sidebar-intro = Vider un lista de schedas de tu altere apparatos.
 synced-tabs-sidebar-unverified = Tu conto debe esser verificate.
 synced-tabs-sidebar-notabs = Nulle schedas aperite
@@ -40,5 +40,5 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = Synchronisar ora
     .accesskey = S
-fxa-sign-in = Connecter se a { -sync-brand-short-name }
+fxa-sign-in = Aperir session a { -sync-brand-short-name }
 turn-on-sync = Accender { -sync-brand-short-name }
