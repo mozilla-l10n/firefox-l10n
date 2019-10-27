@@ -71,7 +71,7 @@ show-dir-label =
     { PLATFORM() ->
         [macos] Mostrar no Finder
         [windows] Abrir pasta
-       *[other] Abrir pasta
+       *[other] Abrir diretório
     }
 modified-key-prefs-title = Preferências importantes modificadas
 modified-prefs-name = Nome
@@ -139,7 +139,7 @@ media-capabilities-title = Capacidades de mídia
 # List all the entries of the database.
 media-capabilities-enumerate = Enumeração de banco de dados
 
-##
+
 
 intl-title = Internacionalização & Localização
 intl-app-title = Configurações do aplicativo
