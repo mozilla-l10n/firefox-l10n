@@ -16,7 +16,7 @@
 <!ENTITY gdata.reminder.default "Memento predefinite">
 <!ENTITY gdata.reminder.action.sms.label "Inviar un message de texto">
 
-<!ENTITY gdata.wizard.session.description "Elige un session existente o insere tu adresse email pro crear uno nove. Tu besonia solo de un session per conto.">
+<!ENTITY gdata.wizard.session.description "Elige un session existente o insere tu adresse email pro crear un nove. Tu require solmente un session per conto.">
 <!ENTITY gdata.wizard.calendars.description "Selige le agendas e activitates al quales tu vole te abonar.">
 
 <!ENTITY gdata.wizard.nextstep.description "Avantia al proxime grado pro definir tu agendas.">
