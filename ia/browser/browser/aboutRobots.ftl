@@ -15,7 +15,7 @@ error-title-text = Salute, humanos!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = Nos ha venite pro visitar te in pace e con bon voluntate!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
-error-long-desc1 = Un robot non pote nocer un esser human o, per inaction, permitter que un esser human suffre damnos.
+error-long-desc1 = Un robot non debe nocer a un esser human ni, per inaction, permitter que un esser human suffre damnos.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = Le robots ha vidite cosas que vos humanos non poterea creder.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
