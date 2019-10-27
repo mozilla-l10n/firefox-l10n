@@ -18,7 +18,6 @@
 <!ENTITY custompage.shortdescription  "Customize your calendar" >
 <!ENTITY custompage.longdescription   "You can give your calendar a nickname and colorize the events from this calendar." >
 
-<!ENTITY finishpage.shortdescription  "Calendar Created" >
 <!ENTITY finishpage.longdescription   "ਤੁਹਾਡਾ ਕੈਲੰਡਰ ਬਣਾਇਆ ਗਿਆ ਹੈ।" >
 
 <!-- Below are new strings for the revised new calendar dialog. The above strings should be
