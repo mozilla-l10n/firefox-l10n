@@ -5,8 +5,11 @@
 sync-disconnect-dialog =
     .title = जरायनायखौ गार { -sync-brand-short-name }?
     .style = गुवार: 36 इम; खमसिन-गोजौव: 35 इम;
+sync-disconnect-heading = बे कमफिउथारनि बा्वजार दाथाफोरखौ खोमोरनो गोसो दं नामा ? नोंनि  { -sync-brand-name } दाथाफोरा नोंनि हिसाबआवनो थागोन, गोसो गैयाबाबो
 sync-disconnect-remove-sync-caption = दाथाखौ { -sync-brand-name } खोमोर
+sync-disconnect-remove-sync-data = बुखमारक, हिसथि्, फासवाद, बायदि बायदि
 sync-disconnect-remove-other-caption = गुबुन गावनि दाथाखौ खोमोर
+sync-disconnect-remove-other-data = कुखिस, केस, वफलाइन वेवसाइथ दाथा बायदि बायदि
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = जरायनायखौ खोमोरगासिनो…
 sync-disconnect-cancel =
