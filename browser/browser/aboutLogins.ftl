@@ -52,7 +52,7 @@ login-list-count =
     }
 login-list-sort-label-text = Sortează după:
 login-list-name-option = Nume (A-Z)
-login-list-breached-option = Site-uri web care au suferit breșe
+login-list-breached-option = Site-uri web a căror securitate a fost încălcată
 login-list-last-changed-option = Ultima modificare
 login-list-last-used-option = Ultima utilizare
 login-list-intro-title = Nicio autentificare găsită
@@ -62,6 +62,11 @@ about-logins-login-list-empty-search-description = Nu există rezultate care să
 login-list-item-title-new-login = Date de autentificare noi
 login-list-item-subtitle-new-login = Introdu datele tale de autentificare
 login-list-item-subtitle-missing-username = (niciun nume de utilizator)
+about-logins-list-item-warning-icon =
+    .alt = Pictogramă de avertisment
+    .title = Site web a cărui securitate a fost încălcată
+about-logins-list-item-breach-icon =
+    .title = Site web a cărui securitate a fost încălcată
 
 ## Introduction screen
 
@@ -126,8 +131,8 @@ confirm-discard-changes-dialog-confirm-button = Înlătură
 
 ## Breach Alert notification
 
-breach-alert-text = Parolele au fost divulgate sau furate de pe acest site web după ce ți-ai actualizat ultima oară datele de autentificare. Schimbă-ți parola ca să îți protejezi contul.
-breach-alert-link = Află mai multe despre această breșă.
+breach-alert-text = Parolele au fost divulgate sau furate de pe acest site web după ce ți-ai actualizat ultima oară detaliile de autentificare. Schimbă parola ca să îți protejezi contul.
+breach-alert-link = Află mai multe despre această încălcare a securității datelor.
 breach-alert-dismiss =
     .title = Închide această alertă
 

@@ -33,6 +33,9 @@ onboarding-cards-dismiss =
     .title = Înlătură
     .aria-label = Înlătură
 
+## Welcome full page string
+
+
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Ia { -brand-product-name } cu tine
@@ -64,6 +67,7 @@ onboarding-benefit-privacy-title = Confidențialitate cu adevărat
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Ne ținem de promisiunea noastră privind datele cu caracter personal prin tot ceea ce facem: Luăm mai puține informații. Le păstrăm în siguranță. Fără secrete.
+onboarding-benefit-monitor-text = Primește notificare când informațiile tale cu caracter personal sunt într-o încălcare a securității datelor cunoscută.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -90,8 +94,9 @@ onboarding-data-sync-title = Ia-ți cu tine setările
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Sincronizează-ți marcajele, parolele și multe altele oriunde folosești { -brand-product-name }.
 onboarding-data-sync-button2 = Autentifică-te în { -sync-brand-short-name }
-onboarding-firefox-monitor-title = Rămâi la curent cu breșele de date
-onboarding-firefox-monitor-text = { -monitor-brand-name } monitorizează dacă adresa ta de e-mail a apărut în breșe de date și te alertează dacă apare în breșe noi.
+onboarding-firefox-monitor-title = Rămâi la curent cu încălcările securității datelor
+onboarding-firefox-monitor-text = { -monitor-brand-name } monitorizează dacă adresa ta de e-mail a apărut într-o încălcare a securității datelor și te alertează dacă apare într-o încălcare nouă.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } monitorizează dacă adresa ta de e-mail a apărut într-o încălcare a securității datelor cunoscută și te alertează dacă apare într-o încălcare nouă.
 onboarding-firefox-monitor-button = Înregistrează-te pentru alerte
 onboarding-browse-privately-title = Navighează privat
 onboarding-browse-privately-text = Navigarea privată îți șterge căutările și istoricul de navigare pentru a le păstra secrete față de oricine altcineva folosește calculatorul.
