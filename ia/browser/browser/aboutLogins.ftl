@@ -2,19 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-logins-page-title = Accessos e contrasignos
+about-logins-page-title = Contos e contrasignos
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Porta ubique con te tu contrasignos
+login-app-promo-title = Porta tu contrasignos sempre con te
 login-app-promo-subtitle = Installa le app gratuite { -lockwise-brand-name }
 login-app-promo-android =
-    .alt = Discarga lo ex Google Play
+    .alt = Discarga lo de Google Play
 login-app-promo-apple =
-    .alt = Discarga lo ex App Store
+    .alt = Discarga lo de App Store
 login-filter =
     .placeholder = Cercar credentiales
-create-login-button = Crear un nove accesso
+create-login-button = Crear nove credentiales
 # This string is used as alternative text for favicon images.
 # Variables:
 #   $title (String) - The title of the website associated with the favicon.
@@ -23,14 +23,14 @@ login-favicon =
 fxaccounts-sign-in-text = Accede a tu credentiales sur tote tu apparatos
 fxaccounts-sign-in-button = Accede a { -sync-brand-short-name }
 fxaccounts-avatar-button =
-    .title = Gerer le conto
+    .title = Gerer conto
 
 ## The ⋯ menu that is in the top corner of the page
 
 menu =
-    .title = Aperir le menu
+    .title = Aperir menu
 # This menuitem is only visible on Windows
-menu-menuitem-import = Importar le contrasignos…
+menu-menuitem-import = Importar contrasignos…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Optiones
@@ -43,22 +43,22 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name } pro iPhone e iPad
 ## Login List
 
 login-list =
-    .aria-label = Credentiales concordante le recercas
+    .aria-label = Credentiales resultante del recerca
 login-list-count =
     { $count ->
-        [one] accesso a { $count }
-       *[other] accessos a { $count }
+        [one] { $count } conto
+       *[other] { $count } contos
     }
 login-list-sort-label-text = Ordinar per:
 login-list-name-option = Nomine (A-Z)
 login-list-breached-option = Sitos web violate
 login-list-last-changed-option = Ultime modification
-login-list-last-used-option = Ultime vice usate
+login-list-last-used-option = Ultime uso
 login-list-intro-title = Nulle credentiales trovate
-login-list-intro-description = Le contrasignos salvate in { -brand-product-name } sera monstrate hic.
+login-list-intro-description = Le contrasignos salvate in { -brand-product-name } apparera hic.
 about-logins-login-list-empty-search-title = Nulle credentiales trovate
-about-logins-login-list-empty-search-description = Il ha nulle resultatos concordante tu recerca.
-login-list-item-title-new-login = Nove credential
+about-logins-login-list-empty-search-description = Le recerca non ha producite resultatos.
+login-list-item-title-new-login = Nove credentiales
 login-list-item-subtitle-new-login = Insere le credentiales de accesso
 login-list-item-subtitle-missing-username = (nulle nomine de usator)
 about-logins-list-item-warning-icon =

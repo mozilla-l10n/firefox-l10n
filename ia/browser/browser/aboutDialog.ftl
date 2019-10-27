@@ -24,9 +24,9 @@ update-unsupported = Tu non pote facer plus actualisationes in iste systema. <la
 update-restarting = Reinitiante…
 channel-description = Tu es actualmente in le canal de actualisationes <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } es experimental e pote esser instabile.
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> es un <label data-l10n-name="community-exp-creditsLink">communitate mundial</label> qui travalia unite pro mantener le Web aperite, public e accessibile a totes.
-community-2 = { -brand-short-name } es designate per <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, un <label data-l10n-name="community-creditsLink">communitate mundial</label> qui travalia unite pro mantener le Web aperite, public e accessibile a totes.
-helpus = Desira tu adjutar? <label data-l10n-name="helpus-donateLink">Face un donation</label> o <label data-l10n-name="helpus-getInvolvedLink">collabora!</label>
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> es un <label data-l10n-name="community-exp-creditsLink">communitate mundial</label> que travalia insimul pro mantener le Web aperte, public e accessibile a totes.
+community-2 = { -brand-short-name } es concipite per <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, un <label data-l10n-name="community-creditsLink">communitate mundial</label> que travalia insimul pro mantener le Web aperte, public e accessibile a totes.
+helpus = Vole adjutar? <label data-l10n-name="helpus-donateLink">Face un donation</label> o <label data-l10n-name="helpus-getInvolvedLink">participa!</label>
 bottomLinks-license = Informationes de licentia
 bottomLinks-rights = Derectos del usator
 bottomLinks-privacy = Politica de confidentialitate
