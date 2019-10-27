@@ -34,3 +34,7 @@ manifest-item-identity = सिनायथि
 manifest-item-presentation = दिन्थिनाय हाबा
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = आइकनफोर
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = आइकन

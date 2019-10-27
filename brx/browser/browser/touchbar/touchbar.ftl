@@ -17,3 +17,10 @@ open-location = थंखौ नागिर एबा हाबहो
 share = शेयार
 close-window = उइन्ड'खौ बन्द खालाम
 open-sidebar = साइटबार
+
+## Various categories of shortcuts for search.
+
+search-tags = टेगफोर
+
+
+
