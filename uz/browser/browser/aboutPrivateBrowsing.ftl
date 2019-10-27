@@ -25,6 +25,12 @@ about-private-browsing =
 about-private-browsing-not-private = Siz hozirda maxfiy oynada emassiz.
 content-blocking-title = Kontentni bloklash
 content-blocking-description = Ba’zi saytlar internetdagi faoliyatingizni o‘rganish uchun kuzatishlari mumkin. Maxfiy oynalarda { -brand-short-name } kontentni bloklash funksiyasi yordamida ko‘plab kuzatuvlarni avtomatik bloklash mumkin. Ularning kuzatishdan maqsadi internetdagi faoliyatingizni o‘rganish.
+about-private-browsing-info-description = Ilovadan chiqsangiz yoki Maxfiy ko'rish oynalarini yopsangiz, qidiruv va ochilgan saytlar tarixini { -brand-short-name } tozalab tashlaydi. Bu sizni sayt va internet provayderingiz uchun anonim qila olmaydi, lekin bu kompyuterdan foydalanuvchi insonlardan brauzeridagi faoliyatingizni yashirishda yordam beradi.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } – Maxfiy oynalardagi asosiy qidiruv tizimingiz
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
         [windows] Boshqa qidiruv tizimini tanlash uchun <a data-l10n-name="link-options">Parametrlar</a> sahifasini oching
