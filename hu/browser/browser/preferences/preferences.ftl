@@ -461,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox kezdőlap tartalma
 home-prefs-content-description = Válassza ki milyen tartalmat szeretne a Firefox kezdőlapon.
-home-prefs-content-discovery-description = A Firefox kezdőlapon lévő tartalomfelfedezéssel kiváló minőségű, releváns cikkeket találhat szerte a weben.
 home-prefs-search-header =
     .label = Webes keresés
 home-prefs-topsites-header =
@@ -509,7 +508,8 @@ search-bar-shown =
     .label = Keresősáv hozzáadása az eszköztárhoz
 search-engine-default-header = Alapértelmezett keresőszolgáltatás
 search-engine-default-desc = Válassza ki a címsávban és a keresősávban alapértelmezetten használandó keresőszolgáltatást.
-search-engine-default-private-desc = Válassza ki a privát ablakokban használandó alapértelmezett keresőszolgáltatást.
+search-engine-default-desc-2 = Ez az alapértelmezett keresőszolgáltatás a cím- és keresősávban. Bármikor átválthatja.
+search-engine-default-private-desc-2 = Válasszon egy másik keresőszolgáltatást kizárólag a privát ablakokhoz
 search-separate-default-engine =
     .label = E keresőszolgáltatás használata a privát ablakokban
     .accesskey = h
