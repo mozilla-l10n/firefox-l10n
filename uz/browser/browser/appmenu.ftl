@@ -5,8 +5,11 @@
 
 ## App Menu
 
+appmenuitem-protection-report-title = Maxfiylik himoyasi
+appmenuitem-protection-report-tooltip =
+    .tooltiptext = Maxfiylik haqidagi hisobotga kirish
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
-    .label = Hozir sinxronlash
+    .label = Sinxronlash

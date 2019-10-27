@@ -36,3 +36,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Tushundim
     .buttonaccesskey = O
 appmenu-addon-post-install-message = Qoʻshimcha dasturlarni <image data-l10n-name='addon-menu-icon'></image> menyusidagi <image data-l10n-name='addon-install-icon'></image> ustiga bosib, boshqarish mumkin.
+appmenu-addon-post-install-incognito-checkbox =
+    .label = Bu kengaytmani Maxfiy oynalarda ishga tushishiga ruxsat berish
+    .accesskey = r
+appmenu-addon-private-browsing-learn-more = Kengaytmalar sozlamalarini boshqarish haqida batafsil

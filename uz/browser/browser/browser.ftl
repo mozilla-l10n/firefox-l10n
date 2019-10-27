@@ -3,20 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 urlbar-identity-button =
-    .aria-label = Sayt haqidagi ma’lumotni ko‘rish
+    .aria-label = Sayt maʼlumotini koʻrish
 
 ## Tooltips for images appearing in the address bar
 
 urlbar-services-notification-anchor =
-    .tooltiptext = Xabarni o‘rnatish panelini ochish
+    .tooltiptext = Xabarni oʻrnatish panelini ochish
 urlbar-web-notification-anchor =
-    .tooltiptext = Saytdan eslatma olish imkoniyatini o‘zgartirish
+    .tooltiptext = Saytdan bildirishnoma olish imkoniyatini oʻzgartirish
 urlbar-midi-notification-anchor =
-    .tooltiptext = MIDI-panelni ochish
+    .tooltiptext = MIDI panelini ochish
 urlbar-eme-notification-anchor =
     .tooltiptext = DRM dasturidan foydalanishni boshqarish
 urlbar-web-authn-anchor =
-    .tooltiptext = Internetda tasdiqdan o‘tish panelini ochish
+    .tooltiptext = Internetda tasdiqdan oʻtish panelini ochish
 urlbar-canvas-notification-anchor =
     .tooltiptext = Canvas ichidagi ma’lumotlarga ruxsatni boshqarish
 urlbar-web-rtc-share-microphone-notification-anchor =
@@ -25,10 +25,12 @@ urlbar-default-notification-anchor =
     .tooltiptext = Xabar panelini ochish
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Joylashuvni so‘rash panelini ochish
+urlbar-storage-access-anchor =
+    .tooltiptext = Internetda ishlashdan oldin ruxsatnomalar panelini ochish
 urlbar-translate-notification-anchor =
-    .tooltiptext = Bu sahifa tarjima qilish
+    .tooltiptext = Bu sahifani tarjima qilish
 urlbar-web-rtc-share-screen-notification-anchor =
-    .tooltiptext = Oynalar yoki ekranni sayt bilan bo‘lishishni boshqarish
+    .tooltiptext = Oynalar yoki ekranni sayt bilan ulashishni boshqarish
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Xabarlarni oflayn saqlash panelini ochish
 urlbar-password-notification-anchor =
@@ -45,11 +47,13 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Ma’lumotlarni doimiy xotiraga saqlash
 urlbar-addons-notification-anchor =
     .tooltiptext = Qo‘shimcha dastur o‘rnatish xabari panelini ochish
+urlbar-tip-help-icon =
+    .title = Yordam olish
 
 ## Page Action Context Menu
 
 page-action-add-to-urlbar =
-    .label = Manzil paneliga qo‘shish
+    .label = Manzil paneliga qoʻshish
 page-action-manage-extension =
     .label = Kengaytmani boshqarish
 page-action-remove-from-urlbar =
@@ -66,15 +70,21 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Bu safar quyidagi bilan izlash:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Qidiruv sozlamalarini o‘zgartirish
 search-one-offs-change-settings-compact-button =
-    .tooltiptext = Qidiruv sozlamalarini o‘zgartirish
+    .tooltiptext = Qidiruv sozlamalarini oʻzgartirish
 search-one-offs-context-open-new-tab =
     .label = Yangi ichki oynadan qidirish
     .accesskey = i
 search-one-offs-context-set-as-default =
     .label = Standart qidiruv tizimi sifatida o‘rnatish
     .accesskey = S
+search-one-offs-context-set-as-default-private =
+    .label = Maxfiy oynalar uchun asosiy qidiruv tizimi sifatida oʻrnatish
+    .accesskey = s
