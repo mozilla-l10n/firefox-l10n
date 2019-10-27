@@ -18,7 +18,7 @@
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Serĉi…">
 <!ENTITY findReplaceCmd.label "Serĉi kaj anstataŭigi…">
-<!ENTITY enableInlineSpellChecker.label "Kontroli literumadon dum tajpado">
+<!ENTITY enableInlineSpellChecker.label "Kontroli literumadon dum tajpi">
 <!ENTITY enableInlineSpellChecker.accesskey "K">
 <!ENTITY checkSpellingCmd2.label "Kontroli literumadon…">
 <!ENTITY checkSpellingCmd2.accesskey "l">
@@ -27,31 +27,31 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Enmeti">
 <!ENTITY insertMenu.accesskey "E">
-<!ENTITY insertLinkCmd2.label "Ligilo…">
+<!ENTITY insertLinkCmd2.label "Ligilon…">
 <!ENTITY insertLinkCmd2.accesskey "L">
 <!ENTITY insertLinkCmd2.key "K">
-<!ENTITY insertAnchorCmd.label "Nomita ankro…">
+<!ENTITY insertAnchorCmd.label "Nomitan ankron…">
 <!ENTITY insertAnchorCmd.accesskey "N">
-<!ENTITY insertImageCmd.label "Bildo…">
+<!ENTITY insertImageCmd.label "Bildon…">
 <!ENTITY insertImageCmd.accesskey "B">
-<!ENTITY insertHLineCmd.label "Horizontala linio">
+<!ENTITY insertHLineCmd.label "Horizontalan linion">
 <!ENTITY insertHLineCmd.accesskey "H">
-<!ENTITY insertTableCmd.label "Tabelo…">
+<!ENTITY insertTableCmd.label "Tabelon…">
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-<!ENTITY insertMathCmd.label "Matematika esprimo…">
+<!ENTITY insertMathCmd.label "Matematikan esprimon…">
 <!ENTITY insertMathCmd.accesskey "M">
-<!ENTITY insertCharsCmd.label "Signoj kaj simboloj…">
+<!ENTITY insertCharsCmd.label "Signon aŭ simbolon…">
 <!ENTITY insertCharsCmd.accesskey "S">
-<!ENTITY insertBreakAllCmd.label "Nova linio sub bildo(j)">
-<!ENTITY insertBreakAllCmd.accesskey "N">
+<!ENTITY insertBreakAllCmd.label "Disigan linion sub bildo(j)">
+<!ENTITY insertBreakAllCmd.accesskey "D">
 
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Krei ligilon…">
 <!ENTITY createLinkCmd.accesskey "K">
 <!ENTITY editLinkCmd.label "Modifi ligilon en nova redaktilo">
-<!ENTITY editLinkCmd.accesskey "m">
+<!ENTITY editLinkCmd.accesskey "M">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Elekti tiparon">
@@ -59,8 +59,8 @@
 <!ENTITY fontfaceMenu.accesskey "T">
 <!ENTITY fontVarWidth.label "Varia larĝo">
 <!ENTITY fontVarWidth.accesskey "V">
-<!ENTITY fontFixedWidth.label "Fiksa larĝo">
-<!ENTITY fontFixedWidth.accesskey "k">
+<!ENTITY fontFixedWidth.label "Egala larĝo">
+<!ENTITY fontFixedWidth.accesskey "E">
 <!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "l">
