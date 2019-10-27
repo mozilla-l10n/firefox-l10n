@@ -29,6 +29,6 @@ remove-password =
 remove-info =
     .value = Tu debe inserer tu actual contrasigno pro continuar:
 remove-warning1 = Tu contrasigno principal servi a proteger le informationes sensibile como le contrasignos del sitos.
-remove-warning2 = Si tu remove tu contrasigno principal tu informationes non essera plus protegite si tu computator es compromittite.
+remove-warning2 = Si tu remove tu contrasigno maestro, tu informationes non essera plus protegite si tu computator es compromittite.
 remove-password-old-password =
     .value = Contrasigno actual:
