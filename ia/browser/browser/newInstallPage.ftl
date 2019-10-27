@@ -9,7 +9,7 @@
 
 title = Novas importante
 heading = Cambios a tu profilo de { -brand-short-name }
-changed-title = Que es cambiate?
+changed-title = Que ha cambiate?
 changed-desc-profiles = Iste installation de { -brand-short-name } ha un nove profilo. Un profilo es le collection de files ubi Firefox salva informationes tal como marcapaginas, contrasignos e preferentias de usator.
 changed-desc-dedicated = Pro render plus facile e plus secur passar inter installationes de Firefox (anque Firefox, Firefox ESR, Firefox Beta, Firefox Edition pro disveloppatores, e Firefox Nightly), iste installation ora ha un profilo dedicate. Illo non comparti automaticamente tu informationes salvate con altere installationes de Firefox.
 lost = <b>Tu non ha perdite ulle datos personal o personalisationes.</b> Si tu ha jam salvate informationes in Firefox sur iste computator, il es ancora disponibile in un altere installation de Firefox.
