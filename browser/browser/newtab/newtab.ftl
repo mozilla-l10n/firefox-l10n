@@ -45,9 +45,6 @@ newtab-topsites-save-button = Tallenna
 newtab-topsites-preview-button = Esikatsele
 newtab-topsites-add-button = Lisää
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Haluatko varmasti poistaa tämän sivun kaikkialta historiastasi?
@@ -89,6 +86,7 @@ newtab-menu-show-privacy-info = Tukijamme ja yksityisyytesi
 
 newtab-privacy-modal-button-done = Valmis
 newtab-privacy-modal-header = Yksityisyydelläsi on merkitystä.
+newtab-privacy-modal-link = Opi miten yksityisyys on esillä uusi välilehti -sivulla
 
 
 
@@ -96,10 +94,6 @@ newtab-privacy-modal-header = Yksityisyydelläsi on merkitystä.
 newtab-menu-remove-bookmark = Poista kirjanmerkki
 # Bookmark is a verb here.
 newtab-menu-bookmark = Lisää kirjanmerkki
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -129,10 +123,6 @@ newtab-label-removed-bookmark = Kirjanmerkki poistettu
 newtab-label-recommended = Pinnalla
 newtab-label-saved = Tallennettu { -pocket-brand-name }-palveluun
 newtab-label-download = Ladatut
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
