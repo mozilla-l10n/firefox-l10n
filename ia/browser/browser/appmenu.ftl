@@ -5,9 +5,9 @@
 
 ## App Menu
 
-appmenuitem-protection-report-title = Protectiones del confidentialitate
+appmenuitem-protection-report-title = Protectiones del vita private
 appmenuitem-protection-report-tooltip =
-    .tooltiptext = Va a tu reporto de confidentialitate
+    .tooltiptext = Visitar tu reporto de vita private
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
