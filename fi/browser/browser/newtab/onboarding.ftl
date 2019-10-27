@@ -22,6 +22,7 @@ onboarding-welcome-header = Tervetuloa, { -brand-short-name } tässä
 onboarding-welcome-body = Sait selaimen.<br/>Tapaa muut { -brand-product-name }-palvelut.
 onboarding-welcome-learn-more = Lue lisää hyödyistä.
 onboarding-welcome-modal-get-body = Sait selaimen.<br/>Nyt tutustu loppuihin { -brand-product-name }-palveluihin.
+onboarding-welcome-modal-supercharge-body = Sähköistä yksityisyydensuojasi.
 onboarding-welcome-modal-privacy-body = Olet saanut selaimen. Lisätään siihen hieman yksityisyyden suojaa.
 onboarding-welcome-modal-family-learn-more = Tutustu { -brand-product-name }-tuoteperheeseen.
 onboarding-welcome-form-header = Aloita tästä
