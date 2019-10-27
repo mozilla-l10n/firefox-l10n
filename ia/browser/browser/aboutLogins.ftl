@@ -21,7 +21,7 @@ create-login-button = Crear nove credentiales
 login-favicon =
     .alt = Favicon pro{ $title }
 fxaccounts-sign-in-text = Accede a tu credentiales sur tote tu apparatos
-fxaccounts-sign-in-button = Accede a { -sync-brand-short-name }
+fxaccounts-sign-in-button = Aperir session a { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Gerer conto
 
