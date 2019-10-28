@@ -16,6 +16,7 @@
 <!ENTITY locationEditField.shortenedDataURI "URI de datos abbreviate (copiar placiara le URI complete in le area de transferentia)">
 <!ENTITY title.label "Consilio:">
 <!ENTITY title.accessKey "C">
+<!ENTITY title.tooltip "Le attributo html 'titulo' que appare como quadro de suggestion">
 <!ENTITY altText.label "Texto alternative">
 <!ENTITY altText.accessKey "A">
 <!ENTITY altTextEditField.tooltip "Typo de texto a monstrar in loco del imagine">
@@ -66,6 +67,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Monstrar bordo circum imagine ligate">
 <!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY LinkAdvancedEditButton.label "Redaction avantiate del ligamine…">
+<!ENTITY LinkAdvancedEditButton.accessKey "l">
+<!ENTITY LinkAdvancedEditButton.tooltip "Adder o modificar attributos HTML, attributos de stilo e JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Formulario">

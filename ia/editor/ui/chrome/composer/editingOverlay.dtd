@@ -26,9 +26,12 @@
 <!ENTITY fileRevert.accesskey "t">
 
 <!-- Edit menu items -->
+<!ENTITY publishSettings.label "Parametros de publication del sito…">
+<!ENTITY publishSettings.accesskey "b">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Nove">
+<!ENTITY newToolbarCmd.tooltip "Crear un nove pagina con Composer">
 <!ENTITY openToolbarCmd.label "Aperir">
 <!ENTITY openToolbarCmd.tooltip "Aperir un file local">
 <!ENTITY saveToolbarCmd.tooltip "Salvar la file localmente">
