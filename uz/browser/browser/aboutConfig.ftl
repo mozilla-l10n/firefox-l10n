@@ -10,6 +10,13 @@ about-config-warning-button = Xavfda qolishga roziman
 about-config2-title = Qoʻshimcha sozlamalar
 about-config-search-input =
     .placeholder = Qidirish
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Ehtiyotkorlik bilan davom eting
+
+
+
 about-config-show-all = Hammasini koʻrsatish
 about-config-pref-add = Qoʻshish
 about-config-pref-toggle = Almashish
