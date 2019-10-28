@@ -65,6 +65,7 @@ about-logins-list-item-breach-icon =
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-in = Δεν βρέθηκαν συγχρονισμένες συνδέσεις.
 
 ## Login
 

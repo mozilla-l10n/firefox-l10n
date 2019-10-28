@@ -77,11 +77,17 @@ cfr-protections-panel-link-text = Μάθετε περισσότερα
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Νέο χαρακτηριστικό:
 cfr-whatsnew-button =
     .label = Τι νέο υπάρχει
     .tooltiptext = Τι νέο υπάρχει
 cfr-whatsnew-panel-header = Τι νέο υπάρχει
+cfr-whatsnew-release-notes-link-text = Διαβάστε τις σημειώσεις έκδοσης
+cfr-whatsnew-tracking-protect-link-text = Προβολή της αναφοράς σας
 cfr-whatsnew-tracking-blocked-link-text = Προβολή αναφοράς
+cfr-whatsnew-lockwise-backup-link-text = Ενεργοποίηση των αντιγράφων ασφαλείας
 cfr-whatsnew-lockwise-take-link-text = Λήψη εφαρμογής
 
 ## Bookmark Sync
@@ -110,3 +116,6 @@ cfr-doorhanger-socialtracking-ok-button = Προβολή προστασίας
     .accesskey = Π
 cfr-doorhanger-socialtracking-close-button = Κλείσιμο
     .accesskey = Κ
+
+## Enhanced Tracking Protection Milestones
+

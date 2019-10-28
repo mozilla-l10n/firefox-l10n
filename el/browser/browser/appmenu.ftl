@@ -6,6 +6,8 @@
 ## App Menu
 
 appmenuitem-protection-report-title = Προστασία απορρήτου
+appmenuitem-protection-report-tooltip =
+    .tooltiptext = Μεταβείτε στην αναφορά απορρήτου σας
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
