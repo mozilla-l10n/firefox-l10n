@@ -19,14 +19,19 @@
 <!ENTITY findBarCmd.label "Trovar…">
 <!ENTITY findReplaceCmd.label "Trovar e reimplaciar…">
 <!ENTITY enableInlineSpellChecker.label "Corrector orthographic durante que tu scribe">
+<!ENTITY enableInlineSpellChecker.accesskey "C">
 <!ENTITY checkSpellingCmd2.label "Verificar le orthographia…">
 <!ENTITY checkSpellingCmd2.accesskey "r">
+<!ENTITY checkSpellingCmd2.key "c">
 
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Inserer">
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd2.label "Ligamine…">
 <!ENTITY insertLinkCmd2.accesskey "L">
+<!ENTITY insertLinkCmd2.key "L">
+<!ENTITY insertAnchorCmd.label "Ancora con nomine…">
+<!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Imagine…">
 <!ENTITY insertImageCmd.accesskey "I">
 <!ENTITY insertHLineCmd.label "Linea horizontal">
@@ -39,10 +44,14 @@
 <!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Characteres e symbolos…">
 <!ENTITY insertCharsCmd.accesskey "C">
+<!ENTITY insertBreakAllCmd.label "Nove riga sub imagine(s)">
+<!ENTITY insertBreakAllCmd.accesskey "N">
 
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Crear ligamine…">
 <!ENTITY createLinkCmd.accesskey "g">
+<!ENTITY editLinkCmd.label "Rediger ligamine in Composer">
+<!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Eliger un typo de character">
@@ -53,6 +62,8 @@
 <!ENTITY fontFixedWidth.label "Largessa fixe">
 <!ENTITY fontFixedWidth.accesskey "x">
 <!ENTITY fontFixedWidth.key "T">
+<!ENTITY fontHelvetica.label "Helvetica, Arial">
+<!ENTITY fontHelvetica.accesskey "H">
 <!ENTITY fontTimes.label "Tempores">
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
@@ -100,6 +111,10 @@
 <!ENTITY styleStrikeThruCmd.accesskey "B">
 <!ENTITY styleSuperscriptCmd.label "Apice">
 <!ENTITY styleSuperscriptCmd.accesskey "A">
+<!ENTITY styleSubscriptCmd.label "Sub-indice">
+<!ENTITY styleSubscriptCmd.accesskey "S">
+<!ENTITY styleNonbreakingCmd.label "Non nove riga">
+<!ENTITY styleNonbreakingCmd.accesskey "N">
 <!ENTITY styleEm.label "Emphase">
 <!ENTITY styleEm.accesskey "E">
 <!ENTITY styleStrong.label "Emphase plus forte">
@@ -112,12 +127,21 @@
 <!ENTITY styleAcronym.accesskey "r">
 <!ENTITY styleCode.label "Codice">
 <!ENTITY styleCode.accesskey "o">
+<!ENTITY styleSamp.label "Exemplo de egresso">
+<!ENTITY styleSamp.accesskey "x">
 <!ENTITY styleVar.label "Variabile">
 <!ENTITY styleVar.accesskey "V">
 
 <!ENTITY formatFontColor.label "Color del texto…">
 <!ENTITY formatFontColor.accesskey "C">
+<!ENTITY tableOrCellColor.label "Color de fundo tabella o cella…">
+<!ENTITY tableOrCellColor.accesskey "F">
 
+<!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
+<!ENTITY formatRemoveNamedAnchors.label "Remover ancora con nomine">
+<!ENTITY formatRemoveNamedAnchors.accesskey "R">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Paragrapho">
 <!ENTITY paragraphMenu.accesskey "P">
@@ -145,6 +169,8 @@
 <!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "Nulle">
 <!ENTITY noneCmd.accesskey "N">
+<!ENTITY listBulletCmd.label "Punctate">
+<!ENTITY listBulletCmd.accesskey "P">
 <!ENTITY listNumberedCmd.label "Numerate">
 <!ENTITY listNumberedCmd.accesskey "m">
 <!ENTITY listTermCmd.label "Termino">
@@ -156,6 +182,8 @@
 
 <!ENTITY ParagraphSelect.tooltip "Seliger un formato del paragrapho">
 <!-- Shared in Paragraph, and Toolbar menulist -->
+<!ENTITY bodyTextCmd.label "Texto principal">
+<!ENTITY bodyTextCmd.accesskey "T">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Proprietates avantiate">
 <!ENTITY advancedPropertiesCmd.accesskey "v">
@@ -172,11 +200,24 @@
 <!ENTITY alignRight.label "Dextera">
 <!ENTITY alignRight.accesskey "D">
 <!ENTITY alignRight.tooltip "Alinear a dextra">
+<!ENTITY alignJustify.label "Justificar">
+<!ENTITY alignJustify.accesskey "J">
+<!ENTITY alignJustify.tooltip "Alinear justificate">
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Strato">
+<!ENTITY layerSendToBack.tooltip "Inviar al fundo">
+<!ENTITY layerBringToFront.tooltip "Poner al prime plan">
 
+<!ENTITY increaseIndent.label "Accrescer indentation">
+<!ENTITY increaseIndent.accesskey "i">
+<!ENTITY increaseIndent.key "]">
+<!ENTITY decreaseIndent.label "Decrescer indentation">
+<!ENTITY decreaseIndent.accesskey "D">
+<!ENTITY decreaseIndent.key "[">
 
+<!ENTITY colorsAndBackground.label "Colores del pagina e fundo…">
+<!ENTITY colorsAndBackground.accesskey "u">
 
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "Tabella">
@@ -252,21 +293,47 @@
 <!ENTITY findToolbarCmd.label "Trovar">
 <!ENTITY findToolbarCmd.tooltip "Trovar texto in le pagina">
 <!ENTITY spellToolbarCmd.label "Orthographia">
+<!ENTITY spellToolbarCmd.tooltip "Verificar orthographia del selection o del pagina">
 <!ENTITY imageToolbarCmd.label "Imagine">
+<!ENTITY imageToolbarCmd.tooltip "Inserer un nove imagine o modificar le proprietates del imagine seligite">
+<!ENTITY hruleToolbarCmd.label "Linea horizontal">
+<!ENTITY hruleToolbarCmd.tooltip "Inserer un linea horizontal o modificar le proprietates del linea seligite">
 <!ENTITY tableToolbarCmd.label "Tabella">
+<!ENTITY tableToolbarCmd.tooltip "Inserer un nove tabella o modificar le proprietates del tabella seligite">
 <!ENTITY linkToolbarCmd.label "Ligamine">
+<!ENTITY linkToolbarCmd.tooltip "Inserer un nove ligamine o modificar le proprietates del ligamine seligite">
 <!ENTITY anchorToolbarCmd.label "Ancora">
+<!ENTITY anchorToolbarCmd.tooltip "Inserer un nove ancora con nomine o modificar le proprietates del ancora seligite">
+<!ENTITY TextColorButton.tooltip "Selige color del texto">
+<!ENTITY BackgroundColorButton.tooltip "Selige color del fundo">
+<!ENTITY throbber.tooltip2 "Va al pagina principal de &brandShortName;">
+<!ENTITY HighlightColorButton.tooltip "Selige le color pro evidentiar texto">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Defini le dimension del character">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Dimension del character minor">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Dimension del character major">
 <!ENTITY boldToolbarCmd.tooltip "Hardite">
 <!ENTITY italicToolbarCmd.tooltip "Italico">
 <!ENTITY underlineToolbarCmd.tooltip "Sublinear">
+<!ENTITY bulletListToolbarCmd.tooltip "Crea o remove le lista punctate">
+<!ENTITY numberListToolbarCmd.tooltip "Crea o remove le lista numerate">
+<!ENTITY outdentToolbarCmd.tooltip "Indentar testo (verso sinistra)">
+<!ENTITY indentToolbarCmd.tooltip "Indentar testo (verso dextra)">
+<!ENTITY AlignPopupButton.tooltip "Seliger alineamento del texto">
+<!ENTITY InsertPopupButton.tooltip "Inserer un ligamine, un ancora, un imagine, un linea horizontal o un tabella">
+<!ENTITY alignLeftButton.tooltip "Alinear texto preter le margine sinistre">
+<!ENTITY alignCenterButton.tooltip "Alinear texto centrate">
+<!ENTITY alignRightButton.tooltip "Alinear texto preter le margine dextre">
+<!ENTITY alignJustifyButton.tooltip "Alinear texto preter le margines sinistre e dextre">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Seliger">
 <!ENTITY structSelect.accesskey     "s">
 <!ENTITY structRemoveTag.label      "Remover le tag">
 <!ENTITY structRemoveTag.accesskey  "r">
+<!ENTITY structChangeTag.label      "Modificar tag">
+<!ENTITY structChangeTag.accesskey  "M">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Inserer">
@@ -276,3 +343,4 @@
 <!ENTITY removeTOC.label          "Remover">
 <!ENTITY removeTOC.accesskey      "r">
 <!ENTITY tocMenu.label            "Indice del contentos…">
+<!ENTITY tocMenu.accesskey        "n">
