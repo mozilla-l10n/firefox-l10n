@@ -136,6 +136,9 @@ menu-view-page-style-no-style =
 menu-view-page-basic-style =
     .label = ମୌଳିକ ପୃଷ୍ଠା ଶୈଳୀ
     .accesskey = B
+menu-view-charset =
+    .label = ଲେଖା ଏନକୋଡ଼ିଂ:
+    .accesskey = ସି
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
@@ -209,12 +212,21 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = { -sync-brand-short-name }ରେ ଲଗଇନ କରନ୍ତୁ...
     .accesskey = y
+menu-tools-fxa-sign-in =
+    .label = { -brand-product-name }ରେ ସାଇନ ଇନ କରନ୍ତୁ
+    .accesskey = ଜି
+menu-tools-turn-on-sync =
+    .label = { -sync-brand-short-name }କୁ ଚାଲୁ କରନ୍ତୁ
+    .accesskey = ନ
 menu-tools-sync-now =
     .label = ବର୍ତ୍ତମାନ ସନ୍ତୁଳନ କରନ୍ତୁ
     .accesskey = S
 menu-tools-sync-re-auth =
     .label = { -sync-brand-short-name } ସହିତ ପୁଣି ସଂଯୋଗ କରନ୍ତୁ…
     .accesskey = R
+menu-tools-fxa-re-auth =
+    .label = { -brand-product-name } ସହିତ ପୁଣି ସଂଯୋଗ କରନ୍ତୁ…
+    .accesskey = ର
 menu-tools-web-developer =
     .label = ୱେବ ବିକାଶକ
     .accesskey = W
