@@ -113,6 +113,7 @@ onboarding-data-sync-text2 = Nagi'iaj guñan si markadôt, dan'ga' huì ni a'ngo
 onboarding-data-sync-button2 = Nutà' si yugît riña { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Sasà' ni'iajt da' si gi'iaj duku nej si ngà nej nuguan' màn 'iát
 onboarding-firefox-monitor-text = { -monitor-brand-name } dugumî sisi hua 'ngo nuguan' ruhuâ nej si gi'iaj tu nej si ni nata' na'an sisi huin ruhuâ nej si gi'iaj tu ñû nej si.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } duguminj sisī huā sa giran' si korreôt nī atāj nan'an sisī huā sa ruhuâ gi'iaj yi'ì.
 onboarding-firefox-monitor-button = Nutà' si yugît da' ga'ue nàtaj rayi'î sa huaa
 onboarding-browse-privately-title = Gache nu huì
 onboarding-browse-privately-text = Sa 'ia nga aché nu huìt huin sisi nadure'e daran' chre sa nana'uît ni sa ni'iajt gaché nunt ni si giriñui ruhuât sisi hua a'ngô duguî' garasun aga' sikà rà nan.
