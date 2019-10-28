@@ -27,6 +27,7 @@
 <!ENTITY firstrun_sync_subtext2 "Garasun Sync da’ nana’uì’t nej marcador, da’nga’ huìi nī a’ngô nej sa nū sà’ riña&brandShortName; riña daran’ nej si agâ’t">
 <!ENTITY newfirstrun_sync_subtext "Nagi\&apos;iaj nuguan\&apos;àn nej rasuun na\&apos;nín sà\&apos;t riña si gagâ\&apos;t li guendâ eskritôrio, da\&apos; gā huì ginunj.">
 <!ENTITY firstrun_sendtab_title "Gā\&apos;nïnj gan\&apos;ānj rakïj ñanj">
+<!ENTITY firstrun_sendtab_message "Duguachîn rakïj ñanj asìj riña si agâ\&apos;t lo gan\&apos;an riña eskritorio — nda nanè chre.">
 <!ENTITY updatednewfirstrun_sync_subtext "Gayi\&apos;ì sesiûn riña si kuendât da\&apos; hue\&apos;êt chre ga\&apos;ue garasunt &brandShortName;">
 <!ENTITY firstrun_signin_message "Gatu ni gayi\&apos;ít">
 <!ENTITY firstrun_signin_button "Gatu\&apos; riña Sync">
@@ -35,6 +36,7 @@
 <!ENTITY  onboard_start_button_browser "Gayi\&apos;i gache nunt">
 <!ENTITY firstrun_button_notnow "Si ga\&apos;ue a\&apos;kuan\&apos; \&apos;nin">
 <!ENTITY firstrun_button_next "ne\&apos;ñàan">
+<!ENTITY firstrun_signup_button "Nutà\&apos; si yuguît">
 
 <!ENTITY firstrun_signin_button2 "Gayi\&apos;ì sesiûn">
 
