@@ -282,6 +282,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Garasun' { $plugin-name } (riña { -brand-short-name })
@@ -307,7 +311,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Sa ma DRM (Digital Rights Management - Sa Dugumin)
 play-drm-content =
@@ -457,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Sa nū riña pagina ayi'ì Firefox
 home-prefs-content-description = Gini'iaj ahuin si ruat gini'iaj riña Firefox.
-home-prefs-content-discovery-description = Sa nari' nej rasuun riña Firefox Homea'nïn da' narì't nej nuguan' hua ña'an doj riña da' hua nge web.
 home-prefs-search-header =
     .label = Nana'uì' web
 home-prefs-topsites-header =
@@ -554,6 +557,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Ganikaj web ga'ant
 sync-signedout-description = Gi'iaj sun ma 'ngà markador, riña sa gaché nu't, da'ngà huìi riña da'ua si aga't.
 sync-signedout-account-title = Gatu' 'ngà { -fxaccount-brand-name }
@@ -573,6 +580,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Naduni' Firefox guenda <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> guenda <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> da' gi'iaj sun ma 'ngà si agat.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Nadunā ña du'uat
@@ -594,6 +604,15 @@ sync-sign-in =
     .accesskey = G
 sync-signedin-settings-header = Nagi'iô' daj huin ruhuô' Sync
 sync-signedin-settings-desc = Ganahui ahuin si gi'iaj sun 'ngà aga' rajsun { -brand-short-name }
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Sa raj sun nichrò' doj
     .accesskey = S
@@ -628,6 +647,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Daj sugumi' nej sa rajsun'
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Si yugui aga'a
 sync-device-name-change =
     .label = Naduno' si yugui aga'a...
@@ -814,7 +836,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Nagi'iaj
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = Nda hue'ê chre huaj da' gi'iaj sunj ni naran rayi'ît. Nej pâjina ni nayi'nïn riña man dàj rû' 'iaj yitïn.
 content-blocking-etp-strict-desc = Nùkuaj doj naran rayi'ît, sani ga'ue si gi'iaj sun hue'ê da'aj sîtio asi sa màn riñanj.
