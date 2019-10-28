@@ -7,6 +7,8 @@
 
 
 <!ENTITY options.label "Optiones">
+<!ENTITY optionInline.label "Modo connexe">
+<!ENTITY optionInline.accesskey "x">
 <!ENTITY optionLTR.label "Direction de sinistra a dextra">
 <!ENTITY optionLTR.accesskey "s">
 <!ENTITY optionRTL.label "Direction de dextra a sinistra">
