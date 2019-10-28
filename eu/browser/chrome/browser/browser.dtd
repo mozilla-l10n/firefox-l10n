@@ -175,6 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Kontuaren ezarpenak">
 <!ENTITY fxa.menu.signOut.label "Amaitu saioa…">
 <!ENTITY fxa.menu.deviceSettings.label "Gailuaren ezarpenak">
+<!ENTITY fxa.menu.setupSync.label "Konfiguratu &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -445,8 +446,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Beste gailuetako zure fitxak hemen ikusi nahi dituzu?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Ireki Sinkronizazio-hobespenak">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Hasi saioa zure beste gailuetako fitxak ikusteko.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Ikusi zure beste gailuetako fitxen zerrenda.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Zure kontua egiaztatu egin behar da.">
 <!ENTITY appMenuRemoteTabs.signin.label "Hasi saioa Sync-en">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Hasi saioa &syncBrand.shortName.label;(e)n…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Aktibatu &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Kudeatu gailuak…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ikusi sinkronizatutako fitxen alboko barra">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Ezkutatu sinkronizatutako fitxen alboko barra">
@@ -852,6 +856,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Orri honetan sartutako saio-hasierak arriskuan egon litezke.">
 <!ENTITY identity.customRoot "Mozillak onetsi gabeko ziurtagiri-jaulkitzaile batek egiaztatu du konexioa.">
 
+<!ENTITY identity.evOwnerLabel2 "Ziurtagiriaren honi jaulkia:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName;(e)k seguruak ez diren orri honetako zatiak blokeatu ditu.">
@@ -939,11 +944,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Edukiaren jarraipena">
 <!ENTITY protections.fingerprinters.label "Hatz-marka bidezko jarraipena">
 <!ENTITY protections.cryptominers.label "Kriptomeatzariak">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Babesa desgaituta dagoenez, gune honetako jarraipen-elementu guztiak kargatu dira.">
 <!ENTITY protections.noTrackersFound.description "&brandShortName;(r)i ezagunak zaizkion jarraipen-elementurik ez da aurkitu orri honetan.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Cookie hauek guneen artean jarraitzen zaituzte zure lineako jarduerari buruzko datuak biltzeko. Hirugarrenek ezartzen dituzte hauek, adibidez iragarleen eta estatistiken enpresek.">
 <!ENTITY protections.cryptominers.description "Kriptomeatzariek zure sistemaren konputazio-ahalmena erabiltzen dute diru digitala ustiatzeko. Script kriptomeatzariek zure bateria agortzen dute, zure ordenagailua makaltzen dute eta zure elektrizitate-faktura igo dezakete.">
 <!ENTITY protections.fingerprinters.description "Hatz-marka bidezko jarraipenak zuri buruzko profil bat osatzen du zure nabigatzailetik eta ordenagailutik ezarpenak bilduz. Hatz-marka digital hau erabiliz, hainbat webgunetan zehar zure jarraipena egin dezakete.">
+<!ENTITY protections.trackingContent2.description "Webguneek kanpoko iragarkiak, bideoak eta jarraipen-kodea izan lezaketen bestelako edukiak karga ditzakete. Edukiaren jarraipena blokeatzeak guneak azkarrago kargatzen lagun dezake baina zenbait botoi, inprimaki eta saio-hasierako eremu ez ibiltzea eragin lezake.">
 <!ENTITY protections.socialMediaTrackers.description "Egiten eta ikusten duzunaren jarraipena egin ahal izateko, jarraipen-elementuak ipintzen dituzte sare sozialek beste webguneetan. Honen bitartez sare sozialetako enpresek zuri buruz dagoeneko dakitena baino gehiago jakin dezakete.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.

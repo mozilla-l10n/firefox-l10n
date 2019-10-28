@@ -586,6 +586,9 @@ sync-profile-picture =
 sync-disconnect =
     .label = Deskonektatu…
     .accesskey = D
+sync-sign-out =
+    .label = Amaitu saioa…
+    .accesskey = A
 sync-manage-account = Kudeatu kontua
     .accesskey = o
 sync-signedin-unverified = { $email } ez dago egiaztatuta.
@@ -604,6 +607,12 @@ sync-signedin-settings-desc = Aukeratu zer sinkronizatuko den { -brand-short-nam
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Sinkronizazioa: aktibo
+prefs-syncing-off = Sinkronizazioa: inaktibo
+prefs-sync-setup =
+    .label = Konfiguratu { -sync-brand-short-name }…
+    .accesskey = K
+prefs-sync-offer-setup-label = Sinkronizatu laster-markak, historia, fitxak, pasahitzak, gehigarriak eta hobespenak zure gailu guztien artean.
 prefs-sync-now =
     .labelnotsyncing = Sinkronizatu orain
     .accesskeynotsyncing = S
@@ -611,6 +620,7 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Une honetan ondorengo elementuak sinkronizatzen dira:
 sync-currently-syncing-bookmarks = Laster-markak
 sync-currently-syncing-history = Historia
 sync-currently-syncing-tabs = Irekitako fitxak
@@ -629,6 +639,13 @@ sync-change-options =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Aukeratu zer sinkronizatu
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Gorde aldaketak
+    .buttonaccesskeyaccept = G
+    .buttonlabelextra2 = Deskonektatu…
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = Laster-markak
     .accesskey = m
@@ -642,6 +659,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = Saio-hasierak
     .tooltiptext = Gorde dituzun erabiltzaile-izen eta pasahitzak
+    .accesskey = S
+sync-engine-logins-passwords =
+    .label = Saio-hasierak eta pasahitzak
+    .tooltiptext = Gorde dituzun saio-hasiera eta pasahitzak
     .accesskey = S
 sync-engine-addresses =
     .label = Helbideak
@@ -698,6 +719,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Iradoki eta sortu pasahitz sendoak
     .accesskey = d
+forms-breach-alerts =
+    .label = Erakutsi datu-urratzeak izan dituzten webguneetako pasahitzei buruzko abisuak
+    .accesskey = E
 forms-breach-alerts-learn-more-link = Argibide gehiago
 forms-fill-logins-and-passwords =
     .label = Automatikoki bete erabiltzaile-izen eta pasahitzak

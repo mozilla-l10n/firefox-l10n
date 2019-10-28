@@ -97,6 +97,7 @@ cfr-whatsnew-release-notes-link-text = Irakurri bertsio-oharrak
 cfr-whatsnew-fx70-title = { -brand-short-name }(e)k zure pribatutasunarengatik gogorrago egiten du borrokan orain
 cfr-whatsnew-fx70-body = Azken eguneraketak jarraipenaren babesaren eginbidea hobetzen du eta inoiz baino gehiago errazten du gune bakoitzerako pasahitzak sortzea.
 cfr-whatsnew-tracking-protect-title = Babestu zure burua jarraipen-elementuetatik
+cfr-whatsnew-tracking-protect-body = Zure jarraipena egiten duten sare sozialetako eta guneen arteko ohiko elementuak blokeatzen ditu orain { -brand-short-name }(e)k.
 cfr-whatsnew-tracking-protect-link-text = Ikusi zure txostena
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
@@ -145,9 +146,16 @@ cfr-doorhanger-firefox-send-ok-button = Probatu { -send-brand-name }
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Ikusi babesak
+    .accesskey = k
 cfr-doorhanger-socialtracking-close-button = Itxi
     .accesskey = x
+cfr-doorhanger-socialtracking-heading = Sare sozial batek zure jarraipena egitea eragotzi du { -brand-short-name }(e)k
 cfr-doorhanger-socialtracking-description = Garrantzitsua da zure pribatutasuna. Sare sozialetako ohiko jarraipen-elementuak blokeatzen ditu orain { -brand-short-name }(e)k, zure lineako jarduerari buruz bil ditzaketen datuak mugatuz.
+cfr-doorhanger-fingerprinters-heading = Hatz-marka bidezko jarraipena blokeatu du orri honetan { -brand-short-name }(e)k
+cfr-doorhanger-fingerprinters-description = Garrantzitsua da zure pribatutasuna. Hatz-marka bidezko jarraipena blokeatzen du orain { -brand-short-name }(e)k, zeinak zure gailuari buruzko identifikazio bakarreko datuak biltzen dituen zure jarraipena egiteko.
+cfr-doorhanger-cryptominers-heading = Kriptomeatzari bat blokeatu du orri honetan { -brand-short-name }(e)k
+cfr-doorhanger-cryptominers-description = Garrantzitsua da zure pribatutasuna. Kriptomeatzariak blokeatzen ditu orain { -brand-short-name }(e)k, zeinak zure sistemaren konputazio-ahalmena erabiltzen duten diru digitala ustiatzeko.
 
 ## Enhanced Tracking Protection Milestones
 

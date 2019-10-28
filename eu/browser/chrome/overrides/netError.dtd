@@ -174,5 +174,7 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Badirudi zure sareko segurtasun-ezarpenek eragiten dutela hau. Ezarpen lehenetsiak berrezarri nahi dituzu?">
 <!ENTITY prefReset.label "Berrezarri ezarpen lehenetsiak">
 
+<!ENTITY enableTls10.label "Gaitu TLS 1.0 eta 1.1">
+
 <!ENTITY networkProtocolError.title "Sare-protokoloaren errorea">
 <!ENTITY networkProtocolError.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da erakutsi errore bat detektatu delako sareko protokoloan.</p><ul><li>Jar zaitez harremanetan webgunearen jabeekin arazo honen berri emateko.</li></ul>">
