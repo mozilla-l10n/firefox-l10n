@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Configurar una cuenta de correo existente">
+
+<!ENTITY emailWizard.title               "Introduce tu correo electrónico existente">
 <!ENTITY name.label                      "Tu nombre:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Nombre y apellido">
@@ -18,6 +20,8 @@
 <!ENTITY password.text                   "Opcional, se usará solamente para verificar el nombre de usuario">
 <!ENTITY rememberPassword.label          "Recordar contraseña">
 <!ENTITY rememberPassword.accesskey      "m">
+<!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
+<!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 
 <!ENTITY imapLong.label                  "IMAP (carpetas remotas)">
 <!ENTITY pop3Long.label                  "POP3 (mantener correo en tu equipo)">
@@ -53,7 +57,7 @@
 <!ENTITY stop.label                      "Detener">
 <!ENTITY stop.accesskey                  "S">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Volver a probar">
@@ -62,6 +66,8 @@
 <!ENTITY manual-edit.accesskey           "M">
 <!ENTITY open-provisioner.label          "Obtener una nueva dirección de correo electrónico…">
 <!ENTITY open-provisioner.accesskey      "g">
+
+
 
 
 <!ENTITY warning.label                   "¡Advertencia!">
