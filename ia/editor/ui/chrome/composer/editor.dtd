@@ -46,6 +46,7 @@
 <!ENTITY NormalModeTab.label "Normal">
 <!ENTITY NormalMode.label "Modo de redaction Normal">
 <!ENTITY NormalMode.accesskey "N">
+<!ENTITY NormalMode.tooltip "Monstrar bordos de tabula e ancoras nominate">
 <!ENTITY AllTagsModeTab.label "Tags HTML">
 <!ENTITY AllTagsMode.label "Tags HTML">
 <!ENTITY AllTagsMode.accesskey "a">
@@ -54,6 +55,7 @@
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
      or use latin "rtl" if you want this image to the right of text. You do
      not need to include HTML in the label 'HTMLSourceModeTab.label' -->
+<!ENTITY HTMLSourceModeTab.dir "ltr">
 <!ENTITY HTMLSourceModeTab.label "Fonte">
 <!ENTITY HTMLSourceMode.label "Fonte HTML">
 <!ENTITY HTMLSourceMode.accesskey "H">

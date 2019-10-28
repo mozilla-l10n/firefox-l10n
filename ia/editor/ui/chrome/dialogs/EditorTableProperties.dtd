@@ -16,10 +16,13 @@
 <!ENTITY tableHeight.accessKey            "t">
 <!ENTITY tableWidth.label                 "Largessa:">
 <!ENTITY tableWidth.accessKey             "L">
+<!ENTITY tableBorderSpacing.label         "Bordos e spatiamento">
 <!ENTITY tableBorderWidth.label           "Bordo:">
 <!ENTITY tableBorderWidth.accessKey       "B">
 <!ENTITY tableSpacing.label               "Spatiamento:">
 <!ENTITY tableSpacing.accessKey           "S">
+<!ENTITY tablePadding.label               "Margines:">
+<!ENTITY tablePadding.accessKey           "M">
 <!ENTITY tablePxBetwCells.label           "pixels inter cellas">
 <!ENTITY tablePxBetwBrdrCellContent.label "pixels inter bordo del cella e contento">
 <!ENTITY tableAlignment.label             "Alineamento tabella:">
@@ -55,6 +58,7 @@
 <!ENTITY cellAlignMiddle.label            "Medie">
 <!ENTITY cellAlignBottom.label            "Basso">
 <!ENTITY cellAlignJustify.label           "Justificar">
+<!ENTITY cellUseCheckboxHelp.label        "Usar le quadratos de selection pro definir qual proprietates applicar a tote le cellas seligite">
 
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Dimension">
