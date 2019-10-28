@@ -501,6 +501,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Ga\&apos;nì\&apos; ngà">
 <!ENTITY share_title "Duyingô\&apos; ngà">
 <!ENTITY share_image_failed "Sī ga\&apos;ue duyingô\&apos; ñadu\&apos;ua ñanj na">
+<!ENTITY share_error_toast_message "Na\&apos;ue duguachinj ngà aplikasiûn nan">
 <!ENTITY save_as_pdf "Na\&apos;ninj nga PDF">
 <!ENTITY print "nari\&apos; ñadu\&apos;ua">
 <!ENTITY view_page_source "Gini\&apos;iaj Da\&apos;nga\&apos; Ñaan">
@@ -885,7 +886,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Guruhuât gunumânt riña &brandShortName;">
 <!ENTITY activity_stream_signin_description "Gayi\&apos;ì nagi\&apos;iaj nuguan\&apos;ànt nej si markadôt, da\&apos;nga\&apos; huìi nī doj sa huāa ngà si kuendât Firefox.">
+<!ENTITY activity_stream_signup_button "Nutà\&apos; si yuguît">
+<!ENTITY activity_stream_signin_prompt "Ngà huā si kuendâ raj?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Gayi\&apos;ì sesiûn.">
 
 <!ENTITY activity_stream_signin_button "Gayi\&apos;ì sesiûn">
 
