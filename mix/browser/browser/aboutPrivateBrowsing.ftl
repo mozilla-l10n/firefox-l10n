@@ -24,3 +24,5 @@ about-private-browsing =
     .title = Nduku nu web
 about-private-browsing-not-private = Su ventana seé kui.
 content-blocking-title = Kasi kontenido
+about-private-browsing-search-banner-close-button =
+    .aria-label = Kasi
