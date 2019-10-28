@@ -16,6 +16,7 @@
 <!ENTITY print.label            "Imprimer">
 <!ENTITY find.label             "Trovar">
 <!ENTITY image.label            "Imagine">
+<!ENTITY hline.label            "Linea horizontal">
 <!ENTITY table.label            "Tabella">
 <!ENTITY link.label             "Ligamine">
 <!ENTITY anchor.label           "Ancora">
@@ -32,3 +33,5 @@
 <!ENTITY underline.label        "Sublinear">
 
 <!ENTITY absolutePosition.label "Positionamento absolute">
+<!ENTITY decreaseZIndex.label   "Inviar al fundo">
+<!ENTITY increaseZIndex.label   "Poner al prime plan">

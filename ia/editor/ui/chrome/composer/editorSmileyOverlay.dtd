@@ -26,3 +26,4 @@
 <!ENTITY smiley8Cmd.label "Surprisa">
 <!ENTITY smiley8Cmd.accesskey "p">
 <!ENTITY smiley8Cmd.tooltip "Inserer un facie surprendite">
+<!ENTITY SmileButton.tooltip "Inserer un facie surridente">
