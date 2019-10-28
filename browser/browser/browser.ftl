@@ -85,3 +85,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Ezarri bilaketa-motor lehenetsi gisa
     .accesskey = h
+search-one-offs-context-set-as-default-private =
+    .label = Ezarri leiho pribatuetarako bilaketa-motor lehenetsi gisa
+    .accesskey = E
