@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = egilea: { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Gomendioa
+cfr-doorhanger-extension-notification2 = Gomendioa
+    .tooltiptext = Hedapenaren gomendioa
+    .a11y-announcement = Hedapenaren gomendioa erabilgarri dago
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Gomendioa
+    .tooltiptext = Eginbidearen gomendioa
+    .a11y-announcement = Eginbidearen gomendioa erabilgarri dago
 
 ## Add-on statistics
 ## These strings are used to display the total number of

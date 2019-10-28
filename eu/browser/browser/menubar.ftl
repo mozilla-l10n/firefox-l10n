@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Pantaila osoa
     .accesskey = P
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Erakutsi fitxa guztiak
@@ -212,12 +212,21 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Hasi saioa { -sync-brand-short-name }(e)n…
     .accesskey = Y
+menu-tools-fxa-sign-in =
+    .label = Hasi saioa { -brand-product-name }(e)n…
+    .accesskey = H
+menu-tools-turn-on-sync =
+    .label = Aktibatu { -sync-brand-short-name }…
+    .accesskey = A
 menu-tools-sync-now =
     .label = Sinkronizatu orain
     .accesskey = S
 menu-tools-sync-re-auth =
     .label = Birkonektatu { -sync-brand-short-name }(e)ra
     .accesskey = r
+menu-tools-fxa-re-auth =
+    .label = Birkonektatu { -brand-product-name }(e)ra…
+    .accesskey = B
 menu-tools-web-developer =
     .label = Web garapena
     .accesskey = W
