@@ -96,6 +96,13 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Kunchatu
 confirmation-dialog-dismiss-button =
     .title = Kunchatu
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Kunchee ña inka vaá { -sync-brand-short-name }
+           *[other] Kunchee ña inka vaá { -sync-brand-short-name }
+        }
+    .accesskey = K
 confirm-delete-dialog-title = ¿A Stuù sivi yo'o?
 confirm-delete-dialog-message = Ma kuu sau chu'un yo
 confirm-delete-dialog-confirm-button = Stoò

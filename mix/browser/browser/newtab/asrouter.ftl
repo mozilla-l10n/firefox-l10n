@@ -68,6 +68,9 @@ cfr-whatsnew-button =
     .label = Nchi yee ña tsaa
     .tooltiptext = Nchi yee ña tsaa
 cfr-whatsnew-panel-header = Nchi yee ña tsaa
+cfr-whatsnew-tracking-blocked-link-text = Ku ncheé tutu
+cfr-whatsnew-lockwise-backup-title = Chika vaá tu'un se'e ku
+cfr-whatsnew-lockwise-take-link-text = Snuú aplicación
 
 ## Bookmark Sync
 
@@ -86,3 +89,11 @@ cfr-doorhanger-sync-logins-ok-button = Ndatu'un { -sync-brand-short-name }
 
 cfr-doorhanger-firefox-send-ok-button = Kuachu'un { -send-brand-name }
     .accesskey = K
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-close-button = Kasi
+    .accesskey = K
+
+## Enhanced Tracking Protection Milestones
+
