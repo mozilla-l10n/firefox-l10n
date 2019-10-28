@@ -4,7 +4,7 @@
 
 sync-disconnect-dialog =
     .title = जरायनायखौ गार { -sync-brand-short-name }?
-    .style = गुवार: 36 इम; खमसिन-गोजौव: 35 इम;
+    .style = width: 36em; min-height: 35em;
 sync-disconnect-heading = बे कमफिउथारनि बा्वजार दाथाफोरखौ खोमोरनो गोसो दं नामा ? नोंनि  { -sync-brand-name } दाथाफोरा नोंनि हिसाबआवनो थागोन, गोसो गैयाबाबो
 sync-disconnect-remove-sync-caption = दाथाखौ { -sync-brand-name } खोमोर
 sync-disconnect-remove-sync-data = बुखमारक, हिसथि्, फासवाद, बायदि बायदि
