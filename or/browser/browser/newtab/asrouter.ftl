@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = { $name }ଦ୍ୱାରା
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = ସୁପାରିଶ:
+cfr-doorhanger-extension-notification2 = ସୁପାରିଶ
+    .tooltiptext = ଏକଷ୍ଟେନ୍ସନ ସୁପାରିଶ
+    .a11y-announcement = ଏକଷ୍ଟେନ୍ସନ ସୁପାରିଶ ଉପଲବ୍ଧ
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = ସୁପାରିଶ
+    .tooltiptext = ସୁବିଧା ସୁପାରିଶ
+    .a11y-announcement = ସୁବିଧା ସୁପାରିଶ ଉପଲବ୍ଧ
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -70,6 +78,9 @@ cfr-protections-panel-link-text = ଅଧିକ ଜ୍ଞାନ ଆହରଣ କ�
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = ନୂତନ ସୁବିଧା:
 cfr-whatsnew-button =
     .label = ନୂଆ କଣ ରହିଛି
     .tooltiptext = ନୂଆ କଣ ରହିଛି
@@ -105,3 +116,6 @@ cfr-doorhanger-socialtracking-ok-button = ସୁରକ୍ଷା ଦେଖନ୍�
     .accesskey = ପି
 cfr-doorhanger-socialtracking-close-button = ବନ୍ଦ କରନ୍ତୁ
     .accesskey = ସି
+
+## Enhanced Tracking Protection Milestones
+
