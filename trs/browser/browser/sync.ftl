@@ -7,3 +7,4 @@ fxa-toolbar-sync-syncing =
 fxa-toolbar-sync-syncing-tabs =
     .label = Nagi'iaj guñān rakïj ñanj…
 sync-disconnect-dialog-title = Gahuī riña { -sync-brand-short-name } anj?
+sync-disconnect-dialog-body = { -brand-product-name } si nagi'iaj nuguàn'anj si kuendât sanī si nadure'ej nej sa gi'iát.
