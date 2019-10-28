@@ -461,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Agbur agejdan Firefox
 home-prefs-content-description = Fren agbur i tebɣiḍ deg ugdil agejdan Firefox.
-home-prefs-content-discovery-description = Agbur n usebter agejdan n Firefox yessumur imagraden usdiden n tɣara ifazen i d-yekkan seg kuẓ n tɣemmaṛ n Web.
 home-prefs-search-header =
     .label = Anadi Web
 home-prefs-topsites-header =
@@ -509,7 +508,8 @@ search-bar-shown =
     .label = Rnu afeggag n unadi deg ufeggag n ifecka
 search-engine-default-header = Amsedday n unadi amezwer
 search-engine-default-desc = Fren amsedday n unadi amezwer ad tesqedceḍ deg ufeggag n tansa akked deg ufeggag n unadi.
-search-engine-default-private-desc = Fren amsedday n unadi amezwer i useqdec deg yisfuyla n tunigin tusligt.
+search-engine-default-desc-2 = Wagi d amsedday-ik n unadi amezwer deg ufeggag n tensa akked ufeggag n unadi. Tzemreḍ ad t-tbeddleḍ melmi tebɣiḍ.
+search-engine-default-private-desc-2 = Fren amsedday-nniḍen n unadi amezwer i yisfuyla n tunigin tusligt.
 search-separate-default-engine =
     .label = Seqdec amsedday-a n unadi deg usfaylu n tunigin tusligt
     .accesskey = q
@@ -528,6 +528,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Sken-d asumer n unadi uqbel amazray n tunigin deg ugemmuḍ deg ufeggag n tansa
+search-show-suggestions-private-windows =
+    .label = Sken isumar n unadi deg isfuyla n tunigin tusligin
 suggestions-addressbar-settings = Beddel ismenyifen i uzray n tunigin, ticraḍ n yisebtar akked isumar n yiccaren
 search-suggestions-cant-show = Anadi n isumar ur d ittwaskan ara deg yigmaḍ n ufeggag n tansa acku tsewleḍ { -brand-short-name } akken ur iḥerrez ara amazray.
 search-one-click-header = Imseddayen n unadi ara tkecmeḍ s yiwen n usiti

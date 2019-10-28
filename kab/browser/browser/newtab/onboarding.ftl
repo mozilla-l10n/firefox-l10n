@@ -82,6 +82,7 @@ onboarding-benefit-privacy-text = S kra n wayen i nxeddemn yettqadaṛ ṭmana-n
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Awi yid-k ticraḍ-ik n yisebtar, awalen-ik uffiren, azray, d wayen-nniḍen, sekra wanida i tesqeḍceḍ { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Rmes-d alɣu ticki tilɣa-ik tudmawanin banent-d deg trewla n yisefka yettwassnen.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Sefrek awalen uffiren i yettwaḍemnen u ara yili yid-k yal amkan.
 
