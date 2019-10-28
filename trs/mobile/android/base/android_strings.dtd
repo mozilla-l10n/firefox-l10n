@@ -21,10 +21,12 @@
 <!ENTITY firstrun_data_message "Ninaj doj dâtos, niko sa nun sa\&apos;">
 <!ENTITY firstrun_data_subtext2 "Si naduninjt nej ñan du\&apos;uo\&apos; da\&apos; si gutin\&apos; nikôt datos nga atûj riñan internet.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message3 "Nāgi\&apos;iaj nuguàn\&apos;àn me markadô, Sa gi\&apos;iát nī men da\&apos;nga\&apos; huìi riña si agâ\&apos;t.">
 <!ENTITY updatednewfirstrun_sync_title "Kuênta">
 <!ENTITY firstrun_sync_message2 "Nakāj danè’ gudunâjt.">
 <!ENTITY firstrun_sync_subtext2 "Garasun Sync da’ nana’uì’t nej marcador, da’nga’ huìi nī a’ngô nej sa nū sà’ riña&brandShortName; riña daran’ nej si agâ’t">
 <!ENTITY newfirstrun_sync_subtext "Nagi\&apos;iaj nuguan\&apos;àn nej rasuun na\&apos;nín sà\&apos;t riña si gagâ\&apos;t li guendâ eskritôrio, da\&apos; gā huì ginunj.">
+<!ENTITY firstrun_sendtab_title "Gā\&apos;nïnj gan\&apos;ānj rakïj ñanj">
 <!ENTITY updatednewfirstrun_sync_subtext "Gayi\&apos;ì sesiûn riña si kuendât da\&apos; hue\&apos;êt chre ga\&apos;ue garasunt &brandShortName;">
 <!ENTITY firstrun_signin_message "Gatu ni gayi\&apos;ít">
 <!ENTITY firstrun_signin_button "Gatu\&apos; riña Sync">
@@ -597,7 +599,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Dane\&apos; huin">
 <!ENTITY bookmark_edit_keyword "Nuguan huii">
 <!ENTITY bookmark_select_folder "Nagui karpêta">
-
 <!ENTITY bookmark_edit_undo "Nadurê\&apos;">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -878,11 +879,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Hua \&apos;ngo rakïj ñanj ruguñu\&apos;unj gahio\&apos; nuj si nitaj internet hua.">
 <!ENTITY helper_triple_readerview_open_button "Nutò\&apos; riña sa raj sun nichro\&apos; doj">
 
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Guruhuât gunumânt riña &brandShortName;">
 <!ENTITY activity_stream_signin_description "Gayi\&apos;ì nagi\&apos;iaj nuguan\&apos;ànt nej si markadôt, da\&apos;nga\&apos; huìi nī doj sa huāa ngà si kuendât Firefox.">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+
 <!ENTITY activity_stream_signin_button "Gayi\&apos;ì sesiûn">
-<!-- LOCALIZATION NOTE (activity_stream_signin_title & activity_stream_signin_description & activity_stream_signin_button):
-These labels are shown in the Activity Stream recommending the user to sign in. -->
 
 <!ENTITY activity_stream_topsites "Sa yitïnj doj">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
