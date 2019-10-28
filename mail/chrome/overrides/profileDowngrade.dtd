@@ -12,6 +12,7 @@
 <!ENTITY window.title "Eski bir &brandProductName; sürümünü çalıştırdınız">
 <!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync2 "&brandProductName; uygulamasının daha yeni bir sürümü, profilinizi bu eski sürümle artık uyumlu olmayacak şekilde güncellemiş olabilir. Bu profili yalnızca o yeni sürümle kullanın veya bu &brandShortName; kopyası için yeni bir profil oluşturun. Yeni profil oluşturursanız hesaplarınızı, takvimlerinizi ve eklentilerinizi tekrar kurmanız gerekir.">
 
 <!ENTITY window.moreinfo "Daha fazla bilgi…">
 <!ENTITY window.create "Yeni profil oluştur">
