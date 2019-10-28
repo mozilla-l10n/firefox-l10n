@@ -82,6 +82,9 @@ onboarding-benefit-privacy-text = Daran' sa hua ni diguminj nuguan' hua rayi'ît
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Ganikaj nej si markadôt, dan'ga' huì ni a'ngo nej sa nikajt danè' nanj man'an huajt { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Nahuin ra'a nuguàn'àn sisī huā sa dukuâ ga'uì' yi'ì sò'.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Dugumî dan'ga' huì huā raan nī nej portâtil
 
 ## These strings belong to the individual onboarding messages.
 
