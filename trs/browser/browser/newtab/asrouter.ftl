@@ -31,6 +31,9 @@ cfr-doorhanger-extension-author = ne' { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Sā sa'a huin ânj
+cfr-doorhanger-extension-notification2 = Nuguan' ganikò't
+    .tooltiptext = Ekstensiûn
+    .a11y-announcement = Ekstensiûn
 
 ## Add-on statistics
 ## These strings are used to display the total number of

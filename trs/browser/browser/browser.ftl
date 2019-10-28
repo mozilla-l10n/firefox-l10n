@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Nachrâ so' datos da' gahuin rān ma
 urlbar-addons-notification-anchor =
     .tooltiptext = Na'nïn' riña ma nugua'an da' ga'ni' sa ni'iaj nichro' doj
+urlbar-tip-help-icon =
+    .title = Nana'uì' sa rugûñu'ūnj sò'
 
 ## Page Action Context Menu
 
