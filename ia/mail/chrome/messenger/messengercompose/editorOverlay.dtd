@@ -5,10 +5,12 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
+<!ENTITY saveCmd.key "S">
 
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Collar sin formato">
 <!ENTITY pasteNoFormatting.accesskey "n">
+<!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Collar como">
 <!ENTITY pasteAs.accesskey "o">
 <!ENTITY pasteAsQuotationCmd.label "Collar como citation">
@@ -57,6 +59,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.tooltip "Eliger un dimension de character">
 <!ENTITY decreaseFontSize.label "Plus micre">
 <!ENTITY decreaseFontSize.accesskey "m">
 <!ENTITY decrementFontSize.key "&lt;">
@@ -93,6 +96,10 @@
 <!ENTITY styleUnderlineCmd.label "Sublinear">
 <!ENTITY styleUnderlineCmd.accesskey "S">
 <!ENTITY styleUnderlineCmd.key "U">
+<!ENTITY styleStrikeThruCmd.label "Barrate">
+<!ENTITY styleStrikeThruCmd.accesskey "B">
+<!ENTITY styleSuperscriptCmd.label "Apice">
+<!ENTITY styleSuperscriptCmd.accesskey "A">
 <!ENTITY styleEm.label "Emphase">
 <!ENTITY styleEm.accesskey "E">
 <!ENTITY styleStrong.label "Emphase plus forte">

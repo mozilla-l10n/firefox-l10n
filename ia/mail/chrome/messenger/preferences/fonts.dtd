@@ -2,7 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  fontsAndEncodingsDialog.title           "Typos de character &amp; codificationes">
 
+<!ENTITY  language.label                          "Typos de character pro:">
+<!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                              "Dimension:">
 <!ENTITY  sizeProportional.accesskey              "o">
@@ -60,6 +63,8 @@
 
 <!-- fonts in message -->
 <!ENTITY  fontControl.label                       "Controlo del characteres">
+<!ENTITY  useFixedWidthForPlainText.label         "Usar un typo de character a largessa fixe pro messages de texto simple">
+<!ENTITY  fixedWidth.accesskey                    "x">
 <!ENTITY  useDocumentFonts.label                  "Consenti al messages de usar altere characteres">
 <!ENTITY  useDocumentFonts.accesskey              "o">
 
@@ -71,3 +76,5 @@
 
 <!ENTITY viewDefaultCharsetList.label     "Posta in arrivata:">
 <!ENTITY viewDefaultCharsetList.accesskey  "">
+<!ENTITY replyInDefaultCharset3.label     "Quando possibile usa, in replicas, le codification de texto predefinite">
+<!ENTITY replyInDefaultCharset3.accesskey "Q">

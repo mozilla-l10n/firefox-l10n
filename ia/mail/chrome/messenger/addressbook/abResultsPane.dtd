@@ -10,6 +10,8 @@
 <!ENTITY PrimaryEmail.accesskey                "E">
 <!ENTITY Company.label                         "Organisation">
 <!ENTITY Company.accesskey                     "z">
+<!ENTITY _PhoneticName.label                   "Nomine phonetic">
+<!ENTITY _PhoneticName.accesskey               "o">
 <!ENTITY NickName.label                        "Pseudonymo">
 <!ENTITY NickName.accesskey                    "i">
 <!ENTITY SecondEmail.label                     "Altere adresse email">
@@ -20,6 +22,8 @@
 <!ENTITY JobTitle.accesskey                    "T">
 <!ENTITY CellularNumber.label                  "Mobile">
 <!ENTITY CellularNumber.accesskey              "M">
+<!ENTITY PagerNumber.label                     "Cerca-personas">
+<!ENTITY PagerNumber.accesskey                 "C">
 <!ENTITY FaxNumber.label                       "Fax">
 <!ENTITY FaxNumber.accesskey                   "F">
 <!ENTITY HomePhone.label                       "Telephono casa">
