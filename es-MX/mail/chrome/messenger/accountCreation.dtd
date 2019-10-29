@@ -27,9 +27,11 @@
 <!ENTITY rememberPassword.label          "Recordar contraseña">
 <!ENTITY rememberPassword.accesskey      "m">
 <!ENTITY usernameEx.label                "Tu inicio de sesión:">
+<!ENTITY usernameEx.accesskey            "l">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
 <!ENTITY usernameEx.placeholder          "TUDOMINIO\tunombredeusuario">
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
+<!ENTITY usernameEx.text                 "Inicio de sesión de dominio">
 
 <!ENTITY protocol.label                  "Protocolo:">
 <!ENTITY imapLong.label                  "IMAP (carpetas remotas)">
@@ -79,11 +81,13 @@
 <!ENTITY manual-edit.label               "Configuración manual">
 <!ENTITY manual-edit.accesskey           "M">
 <!ENTITY manual-config.label             "Configurar manualmente…">
+<!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Obtener una nueva dirección de correo electrónico…">
 <!ENTITY open-provisioner.accesskey      "g">
 
 
 <!ENTITY get-help.label                  "Obtener ayuda">
+<!ENTITY get-help.accesskey              "H">
 
 
 <!ENTITY warning.label                   "¡Advertencia!">
