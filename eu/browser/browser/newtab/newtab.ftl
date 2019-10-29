@@ -80,11 +80,17 @@ newtab-menu-delete-history = Ezabatu historiatik
 newtab-menu-save-to-pocket = Gorde { -pocket-brand-name }-en
 newtab-menu-delete-pocket = Ezabatu { -pocket-brand-name }-etik
 newtab-menu-archive-pocket = Artxibatu { -pocket-brand-name }-en
+newtab-menu-show-privacy-info = Gure babesleak eta zure pribatutasuna
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Eginda
 newtab-privacy-modal-header = Zure pribatutasuna garrantzitsua da.
+newtab-privacy-modal-paragraph =
+    Harrapatuko zaituzten istorioak biltzeaz gain, hautatutako babesleek
+    hornitutako eta aurrez ikuskatutako eduki esanguratsua ere erakusten dizugu.
+    Zaude lasai, zure nabigatze-datuak inoiz ez dira zure { -brand-product-name }(e)tik irtengo — ez guk ez eta gure babesleek ez dute halakorik ikusten.
+newtab-privacy-modal-link = Ikasi pribatutasuna nola dabilen fitxa berrian
 
 
 

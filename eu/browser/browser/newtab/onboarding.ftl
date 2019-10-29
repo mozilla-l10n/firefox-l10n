@@ -21,6 +21,7 @@ onboarding-button-label-get-started = Hasi erabiltzen
 onboarding-welcome-header = Ongi etorri { -brand-short-name }(e)ra
 onboarding-welcome-body = Nabigatzailea duzu.<br/>Ezagutu gainerako { -brand-product-name } produktuen familia.
 onboarding-welcome-learn-more = Abantailei buruzko argibide gehiago.
+onboarding-welcome-modal-get-body = Nabigatzailea duzu.<br/>Orain atera zukua { -brand-product-name } familiari.
 onboarding-welcome-modal-supercharge-body = Hobetu zure pribatutasunaren babesa.
 onboarding-welcome-modal-privacy-body = Nabigatzailea badaukazu. Babes dezagun gehiago pribatutasuna.
 onboarding-welcome-modal-family-learn-more = Ezagutu { -brand-product-name } produktuen familia osoa.

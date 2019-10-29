@@ -127,7 +127,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Egiaztatu zure kontua">
 
 
- <!-- } is above this key on many keyboards -->
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Txikitu">
 <!ENTITY fullScreenRestore.tooltip "Berreskuratu">
@@ -1001,6 +1002,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection4.label "Edukiaren jarraipena">
 
 <!ENTITY contentBlocking.manageSettings2.label "Kudeatu babesaren ezarpenak">
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Sare sozialetako jarraipen-elementuak">
 
