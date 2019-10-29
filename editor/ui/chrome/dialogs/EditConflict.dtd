@@ -4,7 +4,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Bewerkingswijzigingen selecteren">
-<!ENTITY conflictWarning.label "Deze pagina is gewijzigd door een ander programma, maar u hebt ook onopgeslagen wijzigingen in Composer.">
+<!ENTITY conflictWarning.label "Deze pagina is gewijzigd door een ander programma, maar u hebt ook niet-opgeslagen wijzigingen in Composer.">
 <!ENTITY conflictResolve.label "Selecteer welke versie u wilt behouden:">
 <!ENTITY keepCurrentPageButton.label "Wijzigingen op deze pagina behouden">
 <!ENTITY useOtherPageButton.label "Huidige pagina overschrijven met andere wijzigingen">

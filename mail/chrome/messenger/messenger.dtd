@@ -742,7 +742,7 @@
 <!ENTITY accountColumn2.tooltip "Sorteren op account">
 <!ENTITY statusColumn2.tooltip "Sorteren op status">
 <!ENTITY sizeColumn2.tooltip "Sorteren op grootte">
-<!ENTITY junkStatusColumn2.tooltip "Sorteren op ongewenstberichtstatus">
+<!ENTITY junkStatusColumn2.tooltip "Sorteren op ongewensteberichtstatus">
 <!ENTITY unreadColumn2.tooltip "Aantal ongelezen berichten in conversatie">
 <!ENTITY totalColumn2.tooltip "Totale aantal berichten in conversatie">
 <!ENTITY readColumn2.tooltip "Sorteren op gelezen">
