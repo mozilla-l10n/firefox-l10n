@@ -23,12 +23,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Ustawiony jest <b>standardowy</b> poziom ochrony
-protection-header-details-strict = Ustawiony jest <b>ścisły</b> poziom ochrony
-protection-header-details-custom = Ustawiony jest <b>własny</b> poziom ochrony
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Ustawiony jest <b>standardowy</b> poziom ochrony
     .title = Otwórz ustawienia prywatności
 protection-report-header-details-strict = Ustawiony jest <b>ścisły</b> poziom ochrony
@@ -58,7 +52,6 @@ lockwise-title = Już nigdy nie zapomnij żadnego hasła
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } bezpiecznie przechowuje Twoje hasła w przeglądarce.
 lockwise-header-content-logged-in = Bezpiecznie przechowuj i synchronizuj hasła na wszystkich urządzeniach.
-about-logins-view-logins-button = Wyświetl dane logowania
 protection-report-view-logins-button = Wyświetl dane logowania
     .title = Wyświetl zachowane dane logowania
 lockwise-no-logins-content = Pobierz aplikację <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>, aby mieć hasła zawsze przy sobie.
@@ -83,7 +76,7 @@ lockwise-sync-status =
        *[many] Synchronizowanie z { $count } innymi urządzeniami
     }
 lockwise-sync-not-syncing-devices = Żadne inne urządzenia nie są synchronizowane
-monitor-title = Miej oko na wyciekach danych
+monitor-title = Miej oko na wycieki danych
 monitor-link = Jak to działa
 monitor-header-content-no-account = Wypróbuj { -monitor-brand-name }, aby sprawdzić, czy Twoje dane nie wyciekły i otrzymywać powiadomienia o nowych wyciekach danych.
 monitor-header-content-signed-in = { -monitor-brand-name } ostrzega, jeśli Twoje dane pojawiły się w znanym wycieku.
@@ -126,10 +119,6 @@ password-warning =
         [few] zachowane dane logowania mogły zostać ujawnione w wycieku danych. Zmień te hasła, aby zachować bezpieczeństwo w Internecie. <a data-l10n-name="lockwise-link">Wyświetl zachowane dane logowania</a>
        *[many] zachowanych danych logowania mogło zostać ujawnionych w wycieku danych. Zmień te hasła, aby zachować bezpieczeństwo w Internecie. <a data-l10n-name="lockwise-link">Wyświetl zachowane dane logowania</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Otwórz ustawienia prywatności
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Wyświetl zachowane dane logowania
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
