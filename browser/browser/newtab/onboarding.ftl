@@ -21,6 +21,10 @@ onboarding-button-label-get-started = Hasi erabiltzen
 onboarding-welcome-header = Ongi etorri { -brand-short-name }(e)ra
 onboarding-welcome-body = Nabigatzailea duzu.<br/>Ezagutu gainerako { -brand-product-name } produktuen familia.
 onboarding-welcome-learn-more = Abantailei buruzko argibide gehiago.
+onboarding-welcome-modal-supercharge-body = Hobetu zure pribatutasunaren babesa.
+onboarding-welcome-modal-privacy-body = Nabigatzailea badaukazu. Babes dezagun gehiago pribatutasuna.
+onboarding-welcome-modal-family-learn-more = Ezagutu { -brand-product-name } produktuen familia osoa.
+onboarding-welcome-form-header = Hasi hemen
 onboarding-join-form-header = Egizu bat { -brand-product-name }(r)ekin
 onboarding-join-form-body = Hasteko, idatzi zure helbide elektronikoa.
 onboarding-join-form-email =
@@ -28,6 +32,8 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Baliozko helbide elektronikoa behar da
 onboarding-join-form-legal = Jarraituz gero, <a data-l10n-name="terms">zerbitzuaren baldintzak</a>eta <a data-l10n-name="privacy">pribatutasun-oharra</a> onartzen dituzu.
 onboarding-join-form-continue = Jarraitu
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Dagoeneko baduzu kontua?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Hasi saioa
 onboarding-start-browsing-button-label = Hasi nabigatzen
@@ -37,6 +43,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Has gaitezen arakatzen egin dezakezun guztia.
 onboarding-fullpage-form-email =
     .placeholder = Zure helbide elektronikoa…
 
@@ -71,7 +78,12 @@ onboarding-benefit-privacy-title = Benetako pribatutasuna
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Egiten dugun guztia gure Datu Pertsonalen Zin-egitearekin bat dator: Gutxiago hartu. Seguru mantendu. Sekreturik ez.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Eraman zure laster-markak, pasahitzak, historia, eta gehiago { -brand-product-name } erabiltzen duzun toki guztietara.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Jaso jakinarazpenak zure informazio pertsonala datu-urratze ezagun batean badago.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Kudeatu pasahitzak, babespean eta eramangarri.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -100,6 +112,7 @@ onboarding-data-sync-text2 = Sinkronizatu zure laster-markak, pasahitzak eta geh
 onboarding-data-sync-button2 = Hasi sioa { -sync-brand-short-name }(e)n
 onboarding-firefox-monitor-title = Erne ibili datuen urradudari
 onboarding-firefox-monitor-text = { -monitor-brand-name }(e)k zure helbide elektronikoa monitorizatzen du datuen urradura berri batean agertuko balitz abisatzeko.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name }(e)k zure helbide elektronikoa monitorizatzen du datuen urradura ezagun batean agertuko balitz abisatzeko.
 onboarding-firefox-monitor-button = Eman izena abisuak jasotzeko
 onboarding-browse-privately-title = Nabigatu modu pribatuan
 onboarding-browse-privately-text = Nabigatze pribatuak zure bilaketa- eta nabigatze-historia garbitzen ditu zure ordenagailua darabilen jendearengandik sekretu mantentzeko.
