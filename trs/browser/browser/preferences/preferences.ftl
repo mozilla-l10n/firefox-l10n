@@ -625,9 +625,21 @@ prefs-syncing-off = Sa nagi'iaj nuguàn'àn: OFF
 prefs-sync-setup =
     .label = Gi'iaj Yugui{ -sync-brand-short-name }…
     .accesskey = S
+prefs-sync-offer-setup-label = Nāgi'iaj nuguàn'àn nej si markadôt, Sa gini'iājt, da'nga' huìi nī a'ngô gà' nej sa huā riña si agâ't.
+prefs-sync-now =
+    .labelnotsyncing = Nagi'iaj nuguàn'àn hīaj
+    .accesskeynotsyncing = N
+    .labelsyncing = Nagi'iaj nuguàn'anj…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Hīaj nagi'iaj nuguàn'ànt sā huā nan:
+sync-currently-syncing-bookmarks = Nej markadô
+sync-currently-syncing-history = Sa gini'iājt
+sync-currently-syncing-tabs = Na'nïn nej rakïj ñanj
+sync-currently-syncing-logins-passwords = Nej riña gayi'ìt sesiûn nī nej da'nga' huìi
+sync-currently-syncing-addresses = Nej direksiûn
+sync-currently-syncing-creditcards = Tarjetâ san'ānj an
 
 ## The "Choose what to sync" dialog.
 
