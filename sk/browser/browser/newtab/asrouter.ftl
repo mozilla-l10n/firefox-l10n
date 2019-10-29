@@ -80,6 +80,9 @@ cfr-protections-panel-link-text = Ďalšie informácie
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Nová funkcia:
 cfr-whatsnew-button =
     .label = Čo je nové
     .tooltiptext = Čo je nové
@@ -129,3 +132,8 @@ cfr-doorhanger-socialtracking-ok-button = Podrobnosti
     .accesskey = P
 cfr-doorhanger-socialtracking-close-button = Zavrieť
     .accesskey = Z
+
+## Enhanced Tracking Protection Milestones
+
+cfr-doorhanger-milestone-ok-button = Zobraziť všetko
+    .accesskey = v

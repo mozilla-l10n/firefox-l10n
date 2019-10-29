@@ -316,6 +316,8 @@ addon-options-button =
 
 report-addon-button = Nahlásiť
 remove-addon-button = Odstrániť
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Nie je možné odstrániť. <a data-l10n-name="link">Prečo?</a>
 disable-addon-button = Zakázať
 enable-addon-button = Povoliť
 expand-addon-button = Ďalšie možnosti
