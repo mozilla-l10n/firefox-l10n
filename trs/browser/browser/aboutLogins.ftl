@@ -108,7 +108,7 @@ login-item-time-used = Diû rukù garâj sunt man: { DATETIME($timeUsed, day: "n
 master-password-notification-message = Gachrun da'naga' huî nikajt ni ga'ue ni'iajt si yugui usuârio ni nej da'nga' huì na'nïn sà't
 master-password-reload-button =
     .label = Gayi'ì sesiûn
-    .accesskey = L
+    .accesskey = G
 
 ## Dialogs
 
