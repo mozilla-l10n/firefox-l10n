@@ -460,7 +460,6 @@ choose-bookmark =
 
 home-prefs-content-header = Obsah domovskej stránky Firefoxu
 home-prefs-content-description = Vyberte si obsah, ktorý chcete mať na domovskej stránke svojho Firefoxu.
-home-prefs-content-discovery-description = Odporúčanie obsahu na domovskej stránke Firefoxu vám umožňuje objaviť vysokokvalitné a relevantné články z celého internetu.
 home-prefs-search-header =
     .label = Vyhľadávanie na webe
 home-prefs-topsites-header =
@@ -509,7 +508,7 @@ search-bar-shown =
     .label = Pridať na panel nástrojov vyhľadávací panel
 search-engine-default-header = Predvolený vyhľadávací modul
 search-engine-default-desc = Vyberte si predvolený vyhľadávací modul pre vyhľadávanie z panela s adresou a vyhľadávacieho panela.
-search-engine-default-private-desc = Vyberte si predvolený vyhľadávací modul pre vyhľadávanie v súkromných oknách.
+search-engine-default-desc-2 = Toto je váš predvolený vyhľadávací modul pre vyhľadávanie z panela s adresou a vyhľadávacieho panela. Kedykoľvek ho môžete zmeniť.
 search-separate-default-engine =
     .label = Použiť tento vyhľadávací modul v súkromných oknách
     .accesskey = P
@@ -642,6 +641,9 @@ sync-currently-syncing-prefs =
         [windows] Možnosti
        *[other] Možnosti
     }
+sync-change-options =
+    .label = Zmeniť…
+    .accesskey = Z
 
 ## The "Choose what to sync" dialog.
 
@@ -875,6 +877,7 @@ enhanced-tracking-protection-setting-custom =
 
 
 
+content-blocking-etp-strict-desc = Viac blokovaného obsahu zvyšuje pravdepodobnosť, že niektoré stránky nebudú správne fungovať.
 content-blocking-all-cookies = Všetky cookies
 content-blocking-unvisited-cookies = Cookies z nenavštívených stránok
 content-blocking-all-windows-trackers = Známe sledovacie prvky sú blokované vždy
