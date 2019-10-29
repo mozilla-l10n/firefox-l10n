@@ -640,9 +640,25 @@ sync-currently-syncing-tabs = Na'nïn nej rakïj ñanj
 sync-currently-syncing-logins-passwords = Nej riña gayi'ìt sesiûn nī nej da'nga' huìi
 sync-currently-syncing-addresses = Nej direksiûn
 sync-currently-syncing-creditcards = Tarjetâ san'ānj an
+sync-currently-syncing-addons = Sa ga'ue nutò'
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Sa ga'ue gi'iát
+       *[other] Sa arajsunt doj
+    }
+sync-change-options =
+    .label = Nadunā…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Ni'iāj nùhuin si ruhuât nāgi'iaj nuguàn'ànt
+    .style = Choose What To Sync
+    .buttonlabelaccept = Na'nïnj sà' nej sa nadunât
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Nitāj si 'iaj sunj…
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = Sa raj sun nichrò' doj
     .accesskey = S
@@ -656,6 +672,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = Nej riña ayi'ì' sesión
     .tooltiptext = Gara sun nej da'nga 'ngà nun sa'
+    .accesskey = L
+sync-engine-logins-passwords =
+    .label = Nej riña gayi'ìt sesiûn nī nej da'nga' huìi
+    .tooltiptext = Si yuguît nī nej da'nga' huì na'nïn sà't
     .accesskey = L
 sync-engine-addresses =
     .label = Hiuj gun'
@@ -712,6 +732,10 @@ forms-exceptions =
 forms-generate-passwords =
     .label = Gataj ni giri nej da'nga' huì hua hue'ê
     .accesskey = u
+forms-breach-alerts =
+    .label = Gunumàn nuguan' riñant sisī huā sa ruhuâ gatsij da'nga' huìi
+    .accesskey = b
+forms-breach-alerts-learn-more-link = Gahuin chrūn doj
 forms-fill-logins-and-passwords =
     .label = Nachrun man'an riña ayi'ì sesiôn asi da'nga' huìi
     .accesskey = i
