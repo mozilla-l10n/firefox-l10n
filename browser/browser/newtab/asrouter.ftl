@@ -107,6 +107,7 @@ cfr-whatsnew-tracking-blocked-title =
         [one] Blokeatutako elementua
        *[other] Blokeatutako elementuak
     }
+cfr-whatsnew-tracking-blocked-subtitle = Data honetatik: { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Ikusi txostena
 cfr-whatsnew-lockwise-backup-title = Egin zure pasahitzen babeskopia
 cfr-whatsnew-lockwise-backup-body = Sortu saioa hasi behar duzun toki orotan atzi ditzakezun pasahitz seguruak.
@@ -159,5 +160,13 @@ cfr-doorhanger-cryptominers-description = Garrantzitsua da zure pribatutasuna. K
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] { -brand-short-name }(e)k <b>{ $blockedCount }</b> jarraipen-elementu baino gehiago blokeatu ditu data honetatik aurrera: { $date }
+       *[other] { -brand-short-name }(e)k <b>{ $blockedCount }</b> jarraipen-elementu baino gehiago blokeatu ditu data honetatik aurrera: { $date }
+    }
 cfr-doorhanger-milestone-ok-button = Ikusi guztiak
     .accesskey = I

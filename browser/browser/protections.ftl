@@ -78,6 +78,30 @@ monitor-header-content-no-account = Egiaztatu { -monitor-brand-name } ezaguna de
 monitor-header-content-signed-in = { -monitor-brand-name } tresnak abisatu egiten zaitu zure informazioa datuen inguruko urratze ezagunen batean azaldu bada.
 monitor-sign-up = Eman izena datuen inguruko urratzeen abisuetara
 auto-scan = Automatikoki eskaneatuta gaur
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Helbide elektroniko monitorizatzen ari da.
+       *[other] Helbide elektroniko monitorizatzen ari dira.
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Datuen inguruko urratzek zure informazioa agerian utzi du
+       *[other] Datuen inguruko urratzek zure informazioa agerian utzi dute
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Pasahitz agerian utzi da datuen inguruko urratze guztien artean
+       *[other] Pasahitz agerian utzi dira datuen inguruko urratze guztien artean
+    }
 full-report-link = Ikusi txosten osoa <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>(e)n
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
