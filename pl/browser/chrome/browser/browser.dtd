@@ -848,10 +848,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure3 "Zabezpieczone połączenie">
 <!ENTITY identity.connectionNotSecure2 "Niezabezpieczone połączenie">
-<!ENTITY identity.connectionNotSecureSecurityView "Połączenie z tą stroną nie jest zabezpieczone.">
+<!ENTITY identity.connectionNotSecureSecurityView "Połączenie z tą witryną nie jest zabezpieczone.">
 <!ENTITY identity.connectionFile "Strona wczytana z tego komputera.">
-<!ENTITY identity.connectionVerified2 "Połączenie bezpieczne, strona:">
-<!ENTITY identity.connectionVerified3 "Połączenie z tą stroną jest zabezpieczone.">
+<!ENTITY identity.connectionVerified2 "Połączenie bezpieczne, witryna:">
+<!ENTITY identity.connectionVerified3 "Połączenie z tą witryną jest zabezpieczone.">
 <!ENTITY identity.connectionInternal "To jest strona programu &brandShortName;.">
 <!ENTITY identity.extensionPage "Ta strona została wczytana przez rozszerzenie.">
 <!ENTITY identity.insecureLoginForms2 "Dane logowania wprowadzone na tej stronie nie są chronione.">
@@ -866,15 +866,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Strona używa słabego szyfrowania.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Prywatność podczas łączenia się z tą stroną nie jest chroniona. Przesyłane informacje (np. hasła, wiadomości, numery kart) mogą być dostępne dla innych.">
+<!ENTITY identity.description.insecure "Prywatność podczas łączenia się z tą witryną nie jest chroniona. Przesyłane informacje (np. hasła, wiadomości, numery kart) mogą być dostępne dla innych.">
 <!ENTITY identity.description.insecureLoginForms "Dane logowania wprowadzone na tej stronie nie są bezpieczne i mogą być dostępne dla innych.">
-<!ENTITY identity.description.weakCipher "Połączenie z tą stroną nie zapewnia prywatności, ponieważ szyfrowanie nie jest wystarczające.">
-<!ENTITY identity.description.weakCipher2 "Informacje na stronie mogą być dostępne dla innych, a jej działanie modyfikowane.">
+<!ENTITY identity.description.weakCipher "Połączenie z tą witryną nie zapewnia prywatności, ponieważ szyfrowanie nie jest wystarczające.">
+<!ENTITY identity.description.weakCipher2 "Informacje na witrynie mogą być dostępne dla innych, a jej działanie modyfikowane.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; zablokował elementy tej strony, które nie były przesłane w sposób bezpieczny.">
-<!ENTITY identity.description.passiveLoaded "Połączenie z tą stroną nie zapewnia prywatności, a przesyłane informacje mogą być dostępne dla innych.">
-<!ENTITY identity.description.passiveLoaded2 "Niektóre elementy tej strony (np. obrazy) nie były przesłane w sposób bezpieczny.">
+<!ENTITY identity.description.passiveLoaded "Połączenie z tą witryną nie zapewnia prywatności, a przesyłane informacje mogą być dostępne dla innych.">
+<!ENTITY identity.description.passiveLoaded2 "Niektóre elementy tej witryny (np. obrazy) nie były przesłane w sposób bezpieczny.">
 <!ENTITY identity.description.passiveLoaded3 "&brandShortName; zablokował niektóre elementy strony, mimo to nie wszystkie pozostałe elementy były przesłane w sposób bezpieczny (np. obrazy).">
-<!ENTITY identity.description.activeLoaded "Strona zawiera elementy, które nie były przesłane w sposób bezpieczny (np. skrypty) i połączenie z nią nie zapewnia prywatności.">
+<!ENTITY identity.description.activeLoaded "Witryna zawiera elementy, które nie były przesłane w sposób bezpieczny (np. skrypty) i połączenie z nią nie zapewnia prywatności.">
 <!ENTITY identity.description.activeLoaded2 "Przesyłane informacje (np. hasła, wiadomości, numery kart) mogą być dostępne dla innych.">
 <!ENTITY identity.description.customRoot "Mozilla nie rozpoznaje tego wystawcy certyfikatu. Mógł zostać dodany przez system operacyjny lub administratora.">
 
