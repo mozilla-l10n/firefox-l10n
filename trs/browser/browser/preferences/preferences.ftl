@@ -514,6 +514,7 @@ search-separate-default-engine =
     .label = Garasun sa nana'ui' nan riña Windows Huìi
     .accesskey = U
 search-suggestions-header = Nej sa ga'ue nanà'uì't
+search-suggestions-desc = Naguī dàj guruguì' nuguan' nata' dà gā sa riñā nanà'uì'.
 search-suggestions-option =
     .label = Gato' ahuin sa ga'ue nàna'ui'
     .accesskey = s
