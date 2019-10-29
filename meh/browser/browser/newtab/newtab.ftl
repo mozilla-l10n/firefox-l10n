@@ -36,7 +36,7 @@ newtab-topsites-image-validation = Ntu nkuvi síne tutu natava. Nachu´un inka U
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
-newtab-topsites-cancel-button = Nkuvi
+newtab-topsites-cancel-button = Nkuvi-ka
 newtab-topsites-delete-history-button = Náxitá nuu sɨ´ɨ nsá´ánu
 newtab-topsites-save-button = Chuva´a
 newtab-topsites-add-button = Tee

@@ -661,7 +661,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Ka´vi kue´eka">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Chu´un íchi reporte">
-<!ENTITY contentBlocking.breakageReportView.cancel.label "Nkuvi">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Nkuvi-ka">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control

@@ -5,7 +5,7 @@
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Kene...
 sync-disconnect-cancel =
-    .label = Nkuvi
+    .label = Nkuvi-ka
     .accesskey = C
 
 ## Disconnect confirm Button
