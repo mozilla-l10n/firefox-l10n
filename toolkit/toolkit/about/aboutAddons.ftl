@@ -303,7 +303,7 @@ addon-options-button =
 report-addon-button = דיווח
 remove-addon-button = הסרה
 # The link will always be shown after the other text.
-remove-addon-disabled-button = בלתי ניתן להסרה <a data-l10n-name="link">למה?</a>
+remove-addon-disabled-button = לא ניתן להסרה <a data-l10n-name="link">למה?</a>
 disable-addon-button = השבתה
 enable-addon-button = הפעלה
 expand-addon-button = אפשרויות נוספות
