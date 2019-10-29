@@ -14,3 +14,6 @@ appmenu-update-whats-new =
 appmenu-addon-private-browsing-installed =
     .buttonlabel = ଠିକ ଅଛି, ବୁଝିଲି
     .buttonaccesskey = ଓ
+appmenu-addon-post-install-incognito-checkbox =
+    .label = ଏକଷ୍ଟେନ୍ସନଟିକୁ ଗୋପନୀୟ ୱିଣ୍ଡୋରେ ଚାଲିବାର ଅନୁମତି ଦିଅନ୍ତୁ
+    .accesskey = ଏ
