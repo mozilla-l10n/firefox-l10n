@@ -528,6 +528,9 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Nadigan asinij sa nana'ui' 'ngà da' sa 'ngà gini'io' riña dukuán direksion
+search-show-suggestions-private-windows =
+    .label = Dīganj nuguan' dàj nanà'uì' riña Windows guendâ 'ngo rîn'
+suggestions-addressbar-settings = Nadunā dàj gā sa gini'iājt nga gaché nunt, nej markadô nī dàj gā rakïj ñanj
 search-suggestions-cant-show = Nej sa nana'uit nī se si nadiganj riña dukuán direksion dàdin' dàdanj nagi'iât { -brand-short-name } da' si nachra sa'aj.
 search-one-click-header = Nana'ui' 'ngà gurin klik
 search-one-click-desc = Ganahui' ahuin 'nga si ruhuo' nana'ui', 'ngà gayi'ìt gachrunt nī nachi nità ma daki dukuán direksion.
@@ -596,6 +599,9 @@ sync-profile-picture =
 sync-disconnect =
     .label = Gahui'...
     .accesskey = D
+sync-sign-out =
+    .label = Gahuī…
+    .accesskey = G
 sync-manage-account = Dugumi' Kuenda
     .accesskey = D
 sync-signedin-unverified = { $email } se sa ni'in huin ma.
@@ -614,6 +620,11 @@ sync-signedin-settings-desc = Ganahui ahuin si gi'iaj sun 'ngà aga' rajsun { -b
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Sa nagi'iaj nuguàn'àn: Nachrūn
+prefs-syncing-off = Sa nagi'iaj nuguàn'àn: OFF
+prefs-sync-setup =
+    .label = Gi'iaj Yugui{ -sync-brand-short-name }…
+    .accesskey = S
 
 ## The list of things currently syncing.
 
