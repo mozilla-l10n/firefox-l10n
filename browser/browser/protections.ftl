@@ -54,7 +54,7 @@ lockwise-header-content = { -lockwise-brand-name } îți stochează în siguran�
 lockwise-header-content-logged-in = Stochează-ți și sincronizează-ți parolele în siguranță pe toate dispozitivele.
 protection-report-view-logins-button = Vezi datele de autentificare
     .title = Mergi la Date de autentificare salvate
-lockwise-no-logins-content = Instalează aplicația <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> ca să îți iei cu tine peste tot parolele.
+lockwise-no-logins-content = Instalează aplicația <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> pentru a-ți lua parolele cu tine peste tot.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.

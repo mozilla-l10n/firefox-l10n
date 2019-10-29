@@ -111,7 +111,7 @@ cfr-whatsnew-lockwise-take-link-text = Obține aplicația
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Obține acest marcaj pe telefon
-cfr-doorhanger-sync-bookmarks-body = Ia cu tine marcajele, parolele, istoricul și multe altele oriunde te conectezi la { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-body = Ia-ți cu tine marcajele, parolele, istoricul și multe altele oriunde ești autentificat(ă) în { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Activează  { -sync-brand-short-name }
     .accesskey = T
 
@@ -143,3 +143,6 @@ cfr-doorhanger-socialtracking-ok-button = Vezi protecțiile
     .accesskey = P
 cfr-doorhanger-socialtracking-close-button = Închide
     .accesskey = C
+
+## Enhanced Tracking Protection Milestones
+
