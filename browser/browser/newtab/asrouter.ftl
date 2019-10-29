@@ -74,6 +74,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = ଅନୁସରଣହୀନ ବ୍ରାଉଜିଂ କରନ୍ତୁ
 cfr-protections-panel-link-text = ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ
 
 ## What's New toolbar button and panel
@@ -87,8 +88,19 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = ନୂଆ କଣ ରହିଛି
 cfr-whatsnew-release-notes-link-text = ମୁକ୍ତିଲାଭ ଟିପ୍ପଣୀ ପଢ଼ନ୍ତୁ
 cfr-whatsnew-tracking-protect-link-text = ଆପଣଙ୍କର ଦଲିଲ ଦେଖନ୍ତୁ
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] ଅନୁସାରଣକାରୀକୁ ରୋକିଦିଆଗଲା
+       *[other] ଅନୁସାରଣକାରୀଙ୍କୁ ରୋକିଦିଆଗଲା
+    }
+cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } ଠାରୁ
 cfr-whatsnew-tracking-blocked-link-text = ଦଲିଲ ଦେଖନ୍ତୁ
+cfr-whatsnew-lockwise-backup-title = ପାସୱାର୍ଡ଼ଗୁଡ଼ିକର ଗୋଟିଏ ନକଲ ସଂରକ୍ଷଣ କରନ୍ତୁ
 cfr-whatsnew-lockwise-backup-link-text = ବ୍ୟାକଅପକୁ ଚାଲୁ କରନ୍ତୁ
+cfr-whatsnew-lockwise-take-title = ନିଜ ପାସୱାର୍ଡ଼ ନିଜ ସହିତ ନିଅନ୍ତୁ
 cfr-whatsnew-lockwise-take-link-text = ଆପଟି ଅକ୍ତିଆର କରନ୍ତୁ
 
 ## Bookmark Sync
@@ -96,17 +108,20 @@ cfr-whatsnew-lockwise-take-link-text = ଆପଟି ଅକ୍ତିଆର କର
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = କଦାପି ପୁଣିଥରେ ପାସୱାର୍ଡ଼ ହଜାନ୍ତୁ ନାହିଁ
 cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name }କୁ ଚାଲୁ କରନ୍ତୁ
     .accesskey = ଟି
 
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = ଚାଲୁ ଚାଲୁ ପଢ଼ନ୍ତୁ
+cfr-doorhanger-send-tab-recipe-header = ଏହି ପ୍ରଣାଳୀଟିକୁ ରୋଷେଇ ଘରକୁ ନିଅନ୍ତୁ
 cfr-doorhanger-send-tab-ok-button = ପଠାଯିବା ଟ୍ୟାବ ଚେଷ୍ଟା କରନ୍ତୁ
     .accesskey = ଟି
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = ସୁରକ୍ଷାର ସହ ପିଡିଏଫ ବଣ୍ଟନ କରନ୍ତୁ
 cfr-doorhanger-firefox-send-ok-button = { -send-brand-name }କୁ ଚେଷ୍ଟା କରନ୍ତୁ
     .accesskey = ଟ
 
