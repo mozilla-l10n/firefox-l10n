@@ -19,3 +19,19 @@ open-location = Nana'uì' asi gachrûn direksiûn
 share = Duyingo'
 close-window = Nàrrun' bentâna
 open-sidebar = Dukuán nū yi'ní man
+# This string describes shortcuts for search.
+search-popover = Nanà'uì' nej aksêso dirêkto
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Nanà'uì' riña:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = Sa raj sun nichrò' doj
+search-history = Sa gini’iājt
+search-opentabs = Na'nïn rakïj ñanj
+search-tags = Da'nga' achrûn'
+search-titles = Nej si yugui
+
+
+
