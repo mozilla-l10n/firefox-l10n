@@ -34,6 +34,11 @@ cfr-doorhanger-extension-notification = Tilråding
 cfr-doorhanger-extension-notification2 = Tilråding
     .tooltiptext = Utvidingstilråding
     .a11y-announcement = Utvidingstilråding tilgjengeleg
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Tilråding
+    .tooltiptext = Funksjonstilråding
+    .a11y-announcement = Funksjonstilråding tilgjengeleg
 
 ## Add-on statistics
 ## These strings are used to display the total number of
