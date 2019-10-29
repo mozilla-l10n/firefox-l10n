@@ -74,7 +74,7 @@ login-intro-heading = Îți cauți datele de autentificare salvate? Configureaz�
 login-intro-description = Dacă ți-ai salvat datele de autentificare în { -brand-product-name } pe un alt dispozitiv, iată cum le poți aduce aici:
 login-intro-instruction-fxa = Creează un cont sau autentifică-te în { -fxaccount-brand-name } pe dispozitivul pe care ai salvat datele de autentificare
 login-intro-instruction-fxa-settings = Asigură-te că ai bifat caseta de selectare Date de autentificare în Setările { -sync-brand-short-name }
-about-logins-intro-instruction-help = Intră pe <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Asistență</a> pentru ajutor suplimentar
+about-logins-intro-instruction-help = Intră pe <a data-l10n-name="help-link">asistență { -lockwise-brand-short-name }</a> pentru ajutor suplimentar
 
 ## Login
 
