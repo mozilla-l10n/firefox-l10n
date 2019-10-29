@@ -26,5 +26,10 @@ about-private-browsing-not-private = Wakami man at k'o ta chupam jun ichinan tzu
 content-blocking-title = Ruq'atik Rupam
 content-blocking-description = Jujun ajk'amaya'l ruxaq yekokisaj ojqanela' ri yetikïr nikinik'oj asamaj pan K'amaya'l. Pa ri ichinan rutzuwäch { -brand-short-name } ri Ruyonil Niq'at Rupam yeruq'ät k'ïy ojqanela', ri yetikïr nikimöl etamab'äl chi rij ri awokem pa k'amaya'l.
 about-private-browsing-info-description = { -brand-short-name } nuyüj ri akanoxik chuqa' runatab'al awokem pa k'amaya'l toq yatel pa ri okisab'äl o ye'atz'aíj ri taq ruwi' chuqa' ichinan okem taq tzuwäch. Estape' re re' man yatrewaj ta pan ajk'amaya'l o chuwäch ri niya'on k'amaya'l chawe. Nub'än chi man k'ayew ta nachajij ri ichinan nab'än pa k'amab'ey chuwäch jun chik winäq nrokisaj ri kematz'ib' ri'.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = Ja ri { $engineName } awokik'amaya'l k'o wakami kichin Ichinan taq Tzuwäch
 about-private-browsing-search-banner-close-button =
     .aria-label = Titz'apïx
