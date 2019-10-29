@@ -155,18 +155,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Autentificat ca">
 <!ENTITY fxa.menu.manageAccount.label "Gestionează contul…">
+<!ENTITY fxa.menu.syncSettings.label "Setări pentru &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "Setări pentru &syncBrand.shortName.label;…">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Conectează alt dispozitiv…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Autentifică-te în &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activează &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Cont">
 <!ENTITY fxa.menu.firefoxServices.label "Servicii &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Cont">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -251,6 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestionează utilizarea pluginurilor">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Schimbă dacă să mai primești notificări de la acest site sau nu">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Stochează date în stocarea persistentă">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browserul este controlat de la distanță">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Deschide panoul de autentificare web">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Deschide panoul de permisiuni pentru activitatea de navigare">
@@ -880,7 +882,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions3 "Permisiuni">
 <!ENTITY identity.permissionsEmpty "Nu ai acordat acestui site nicio permisiune specială.">
-<!ENTITY identity.permissionsReloadHint "Ar putea fi nevoie să reîncarci pagina pentru aplicarea modificărilor.">
+<!ENTITY identity.permissionsReloadHint "Ar putea fi nevoie să reîncarci pagina pentru a aplica modificările.">
 <!ENTITY identity.permissionsPreferences.tooltip "Deschide preferințele pentru permisiuni">
 <!ENTITY identity.contentBlockingPreferences.tooltip "Deschide preferințele pentru blocarea de conținut">
 
@@ -975,10 +977,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Elemente de urmărire">
 
 <!ENTITY contentBlocking.manageSettings.label "Gestionează blocarea de conținut">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Conținut de urmărire">
-
-<!ENTITY contentBlocking.manageSettings2.label "Gestionează setările pentru protecție">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Elemente de urmărire">
@@ -987,6 +985,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookie-uri">
 <!ENTITY contentBlocking.cookiesView.label "Cookie-uri și date ale site-urilor">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Conținut de urmărire">
+
+<!ENTITY contentBlocking.manageSettings2.label "Gestionează setările pentru protecție">
 
 <!ENTITY contentBlocking.socialblock.label "Elemente de urmărire ale rețelelor sociale">
 

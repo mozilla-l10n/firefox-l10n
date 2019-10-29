@@ -67,6 +67,7 @@ onboarding-benefit-privacy-title = Confidențialitate cu adevărat
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Ne ținem de promisiunea noastră privind datele cu caracter personal prin tot ceea ce facem: Luăm mai puține informații. Le păstrăm în siguranță. Fără secrete.
+onboarding-benefit-sync-text = Ia-ți cu tine marcajele, parolele, istoricul și multe altele oriunde folosești { -brand-product-name }.
 onboarding-benefit-monitor-text = Primește notificare când informațiile tale cu caracter personal sunt într-o încălcare cunoscută a securității datelor.
 
 ## These strings belong to the individual onboarding messages.
