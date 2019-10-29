@@ -155,6 +155,16 @@ items are mutually exclusive. -->
 <!ENTITY spellDictionaries.accesskey    "l">
 <!ENTITY spellAddDictionaries.label     "Meer woordenboeken downloaden">
 <!ENTITY spellAddDictionaries.accesskey "M">
+
+<!ENTITY fillLoginMenu.label          "Aanmelding invullen">
+<!ENTITY fillLoginMenu.accesskey      "u">
+<!ENTITY fillPasswordMenu.label       "Wachtwoord invullen">
+<!ENTITY fillPasswordMenu.accesskey   "u">
+<!ENTITY fillUsernameMenu.label       "Gebruikersnaam invullen">
+<!ENTITY fillUsernameMenu.accesskey   "u">
+<!ENTITY noLoginSuggestions.label     "(Geen aanmeldingssuggesties)">
+<!ENTITY viewSavedLogins.label        "Opgeslagen aanmeldingen weergeven">
+
 <!-- Developer Tools -->
 <!ENTITY devtoolsInspect.label          "Element inspecteren">
 <!ENTITY devtoolsInspect.accesskey      "m">

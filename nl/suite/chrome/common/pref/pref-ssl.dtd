@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY SSLTLSProtocolVersions.caption    "SSL/TLS-protocolversies">
+<!ENTITY SSLTLSProtocolVersions.caption     "SSL/TLS-protocolversies">
 <!ENTITY SSLTLSWarnings.caption             "SSL/TLS-waarschuwingen">
 <!ENTITY SSLMixedContent.caption            "Gemengde inhoud">
 <!ENTITY SSLClientAuthMethod.caption        "Clientcertificaatselectie">
@@ -27,7 +27,7 @@
 <!ENTITY warn.leavingsecure                 "Het verlaten van een pagina die versleuteling ondersteunt">
 <!ENTITY warn.leavingsecure.accesskey       "v">
 
-<!ENTITY mixed.description                  "Versleutelde pagina’s kunnen niet-versleutelde inhoud bevatten die kwetsbaar is voor afluistering. &brandShortName; kan dat detecteren en blokkeren:">
+<!ENTITY mixed.description                  "Versleutelde pagina’s kunnen niet-versleutelde inhoud bevatten die kwetsbaar is voor afluisteren en vervalsing. &brandShortName; kan dat detecteren en blokkeren:">
 <!ENTITY warn.mixedactivecontent            "Mij waarschuwen wanneer versleutelde pagina’s niet-beveiligde inhoud bevatten">
 <!ENTITY warn.mixedactivecontent.accesskey  "M">
 <!ENTITY block.activecontent                "Niet-beveiligde inhoud niet laden op versleutelde pagina’s">
