@@ -83,9 +83,9 @@
 <!ENTITY fontSizeMenu.label "Grando de tiparo">
 <!ENTITY fontSizeMenu.accesskey "G">
 <!ENTITY size-tinyCmd.label "Eteta">
-<!ENTITY size-tinyCmd.accesskey "E">
+<!ENTITY size-tinyCmd.accesskey "t">
 <!ENTITY size-smallCmd.label "Eta">
-<!ENTITY size-smallCmd.accesskey "t">
+<!ENTITY size-smallCmd.accesskey "E">
 <!ENTITY size-mediumCmd.label "Mezgranda">
 <!ENTITY size-mediumCmd.accesskey "M">
 <!ENTITY size-largeCmd.label "Grandega">
