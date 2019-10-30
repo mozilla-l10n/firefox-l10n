@@ -1,1 +1,1 @@
-#define MOZ_LANG_TITLE Norsk nynorsk (NO)
+#define MOZ_LANG_TITLE Norsk (nynorsk)
