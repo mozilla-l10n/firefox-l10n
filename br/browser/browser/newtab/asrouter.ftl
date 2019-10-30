@@ -31,6 +31,9 @@ cfr-doorhanger-extension-author = gant { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Erbedadennoù
+cfr-doorhanger-extension-notification2 = Erbedadenn
+    .tooltiptext = Erbedadenn askouezh
+    .a11y-announcement = Erbedadenn askouezh egerzh
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -84,6 +87,9 @@ cfr-protections-panel-link-text = Gouzout hiroc'h
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Keweriuster nevez:
 cfr-whatsnew-button =
     .label = Petra nevez
     .tooltiptext = Petra nevez

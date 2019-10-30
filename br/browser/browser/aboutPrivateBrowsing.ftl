@@ -26,3 +26,15 @@ about-private-browsing-not-private = N'emaoc'h ket e-barzh ur prenestr merdeiñ 
 content-blocking-title = Stankadur endalc'had
 content-blocking-description = Lec'hiennoù 'zo a arver heulierien evit evezhiañ hoc'h oberiantiz war an internet. E prenestroù pevez e c'hall { -brand-short-name } stankañ eur a heulier a c'hallfe dastum titouroù a-zivout hoc'h emzalc'h merdeiñ.
 about-private-browsing-info-description = { -brand-short-name } a skarzh ho roll istor klask ha merdeiñ pa guitait an arload pe pa serrit an holl brenestroù hag ivinelloù merdeiñ prevez. Daoust ma ne lak ket ac'hanoc'h da vezañ dizanv evit al lec'hiennoù pe evit ho pourchaser kenrouedad e vo aesoc'h da zerc'hel prevez ar pezh a rit enlinenn evit an dud all a implij an urzhiataer-mañ.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } eo ho lusker klask dre ziouer er prenestroù prevez
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Evit dibab ul lusker klask all, kit en <a data-l10n-name="link-options">Dibarzhioù</a>
+       *[other] Evit dibab ul lusker klask all, kit er <a data-l10n-name="link-options">Gwellvezioù</a>
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Serriñ
