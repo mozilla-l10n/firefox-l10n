@@ -111,7 +111,7 @@
 <!ENTITY changeSettings.label            "Cambiar parametros">
 <!ENTITY changeSettings.accesskey        "S">
 
-<!ENTITY contactYourProvider.description "&brandShortName; pote consentir te de acceder a tu email per le configurationes fornite. Comocunque, tu deberea continger tu administrator o fornitor de servicio email re iste improprie connexiones. Vide le demandas frequente de Thunderbird pro altere informationes.">
+<!ENTITY contactYourProvider.description "&brandShortName; pote permitter te de acceder a tu e-mail usante le configurationes fornite. Nonobstante, tu deberea contactar tu administrator o fornitor de servicio e-mail pro informar les de iste connexiones incorrecte. Vide le FAQ de Thunderbird pro plus informationes.">
 
 <!ENTITY insecureServer.tooltip.title    "Attention! Servitor insecur.">
 <!ENTITY insecureServer.tooltip.details  "Clicca hic pro altere detalios.">
