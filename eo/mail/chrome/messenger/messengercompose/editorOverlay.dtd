@@ -87,8 +87,8 @@
 <!ENTITY size-smallCmd.label "Eta">
 <!ENTITY size-smallCmd.accesskey "E">
 <!ENTITY size-mediumCmd.label "Mezgranda">
-<!ENTITY size-mediumCmd.accesskey "M">
-<!ENTITY size-largeCmd.label "Grandega">
+<!ENTITY size-mediumCmd.accesskey "z">
+<!ENTITY size-largeCmd.label "Granda">
 <!ENTITY size-largeCmd.accesskey "G">
 <!ENTITY size-extraLargeCmd.label "Grandega">
 <!ENTITY size-extraLargeCmd.accesskey "E">
