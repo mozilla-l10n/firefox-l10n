@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "C">
 <!ENTITY folderPaneBar.label "Barra de herramientas del panel de la carpeta">
 <!ENTITY folderPaneBar.accesskey "F">
-<!ENTITY folderModeSelector.label "Vistas de carpeta">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Ordenar por">
@@ -441,6 +440,8 @@
 <!ENTITY openMessageWindowCmd.accesskey "A">
 <!ENTITY openMessageWindowCmd.key "a">
 <!ENTITY openInConversationCmd.label "Abrir en conversación">
+<!ENTITY openInConversationCmd.accesskey "s">
+<!ENTITY openInConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Adjuntos">
 <!ENTITY openAttachmentListCmd.accesskey "h">
 <!ENTITY openFeedMessage1.label "Cuando se abran mensajes">
@@ -585,6 +586,7 @@
 <!ENTITY fileButton.tooltip "Archivar mensaje seleccionado">
 <!ENTITY archiveButton.tooltip "Archivar mensajes seleccionados">
 <!ENTITY openConversationButton.tooltip "Mostrar conversación del mensaje seleccionado">
+<!ENTITY openMsgConversationButton.tooltip "Mostrar conversación del mensaje seleccionado">
 <!ENTITY nextButton.tooltip "Cambiar al siguiente mensaje no leído">
 <!ENTITY nextMsgButton.tooltip "Cambiar al siguiente mensaje">
 <!ENTITY previousButton.tooltip "Cambiar al mensaje previo no leído">
@@ -603,6 +605,7 @@
 <!ENTITY tagButton.tooltip "Etiquetas de mensajes">
 <!ENTITY compactButton.tooltip "Quitar mensajes borrados de la carpeta seleccionada">
 <!ENTITY appmenuButton1.tooltip "Mostrar el menú de &brandShortName;">
+<!ENTITY addonsButton.tooltip "Administrar tus complementos">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Reenviar incorporado">
@@ -703,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Guardar búsqueda como carpeta…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Seleccionar mensajes">
 <!ENTITY threadColumn.label "Conversación">
 <!ENTITY fromColumn.label "Remitente">
 <!ENTITY recipientColumn.label "Destinatario">
@@ -726,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Seleccionar columnas para mostrar">
+<!ENTITY selectColumn.tooltip "Alternar seleccionar todos los mensajes">
 <!ENTITY threadColumn2.tooltip "Mostrar conversaciones">
 <!ENTITY fromColumn2.tooltip "Ordenar por remitente">
 <!ENTITY recipientColumn2.tooltip "Ordenar por destinatario">
@@ -791,6 +796,7 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Reciente">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY contextMoveCopyMsgFavoritesMenu.label "Favoritos">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "F">
 <!ENTITY contextCopyMsgMenu.label "Copiar a">
 <!ENTITY contextCopyMsgMenu.accesskey "C">
 <!ENTITY contextKillThreadMenu.label "Ignorar conversación">
@@ -810,12 +816,6 @@
 <!ENTITY contextPrintPreview.label "Vista previa">
 <!ENTITY contextPrintPreview.accesskey "v">
 
-<!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Restablecer columnas por defecto">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -855,7 +855,6 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Esta carpeta">
-
 
 <!-- Media (video/audio) controls -->
 <!ENTITY contextPlay.label "Reproducir">
