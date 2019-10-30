@@ -109,9 +109,9 @@
 <!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "Trastrekita">
 <!ENTITY styleStrikeThruCmd.accesskey "T">
-<!ENTITY styleSuperscriptCmd.label "Superindica">
+<!ENTITY styleSuperscriptCmd.label "Indico supra">
 <!ENTITY styleSuperscriptCmd.accesskey "p">
-<!ENTITY styleSubscriptCmd.label "Subindica">
+<!ENTITY styleSubscriptCmd.label "Indico suba">
 <!ENTITY styleSubscriptCmd.accesskey "b">
 <!ENTITY styleNonbreakingCmd.label "Sen salto de linio">
 <!ENTITY styleNonbreakingCmd.accesskey "l">
