@@ -209,11 +209,11 @@
 <!ENTITY event.attendees.accesskey                        "e">
 <!ENTITY event.alldayevent.label                          "De hele dag" >
 <!ENTITY event.alldayevent.accesskey                      "">
-<!ENTITY event.from.label                                 "Begin:" >
+<!ENTITY event.from.label                                 "Van:" >
 <!ENTITY event.from.accesskey                             "">
 <!ENTITY task.from.label                                  "Begin:" >
 <!ENTITY task.from.accesskey                              "e">
-<!ENTITY event.to.label                                   "Einde:" >
+<!ENTITY event.to.label                                   "Tot:" >
 <!ENTITY event.to.accesskey                               "">
 <!ENTITY task.to.label                                    "Einddatum:" >
 <!ENTITY task.to.accesskey                                "u">
