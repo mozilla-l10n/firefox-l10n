@@ -26,7 +26,7 @@ about-telemetry-keyed-histogram-section = היסטוגרמות ממופתחות
 about-telemetry-events-section = אירועים
 about-telemetry-simple-measurements-section = מדדים פשוטים
 about-telemetry-slow-sql-section = משפטי SQL איטיים
-about-telemetry-addon-details-section = פרטי תוספת
+about-telemetry-addon-details-section = פרטי תוספות
 about-telemetry-captured-stacks-section = מחסניות שנלכדו
 about-telemetry-late-writes-section = כתיבה מאוחרת
 about-telemetry-raw-payload-section = מטען גולמי
@@ -76,6 +76,8 @@ about-telemetry-no-search-results-all = מצטערים! אין תוצאות בכ
 # Variables:
 #   $sectionName (String): is replaced by the section name.
 about-telemetry-no-data-to-display = מצטערים! כרגע אין נתונים זמינים ב־“{ $sectionName }”
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = נתונים נוכחיים
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = הכל
 # button label to copy the histogram
