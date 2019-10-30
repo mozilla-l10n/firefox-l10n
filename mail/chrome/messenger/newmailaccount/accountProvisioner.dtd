@@ -23,6 +23,7 @@
 <!ENTITY success.title.after ", la siguiente dirección de correo electrónico está disponible para ti:">
 <!ENTITY success.tip "(También puedes buscar apodos o algún otro término para encontrar más correos electrónicos)">
 <!ENTITY existing.header "¿Ya tienes una dirección que quieras usar?">
+<!ENTITY tinyheader.title "¿Tienes una dirección?">
 <!ENTITY successful.title "¡Felicidades!">
 <!ENTITY successful.close "Cerrar esta ventana.">
 <!ENTITY input.namePlaceholder "Tu nombre o apodo">
