@@ -13,6 +13,12 @@ login-app-promo-apple =
 login-filter =
     .placeholder = लॉगिन शोधा
 create-login-button = नविन लॉगिन बनवा
+# This string is used as alternative text for favicon images.
+# Variables:
+#   $title (String) - The title of the website associated with the favicon.
+login-favicon =
+    .alt = { $title } साठी Favicon
+fxaccounts-sign-in-text = आपल्या इतर उपकरणांवर आपले पासवर्ड मिळवा
 fxaccounts-sign-in-button = { -sync-brand-short-name } मध्ये साइन इन करा
 fxaccounts-avatar-button =
     .title = खाते व्यवस्थापित करा
@@ -21,6 +27,8 @@ fxaccounts-avatar-button =
 
 menu =
     .title = मेनू उघडा
+# This menuitem is only visible on Windows
+menu-menuitem-import = पासवर्ड आयात करा…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] पर्याय
@@ -95,6 +103,8 @@ confirmation-dialog-dismiss-button =
 confirm-delete-dialog-title = लॉगिन मिटवायचे?
 confirm-delete-dialog-message = ही कृती बदलू शकत नाही
 confirm-delete-dialog-confirm-button = मिटवा
+confirm-discard-changes-dialog-title = जतन न केलेले बदल टाकून द्यायचे?
+confirm-discard-changes-dialog-message = सर्व जतन न केलेले बदल गमावले जातील.
 confirm-discard-changes-dialog-confirm-button = रद्द करा
 
 ## Breach Alert notification

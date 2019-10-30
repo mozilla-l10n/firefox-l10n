@@ -21,6 +21,7 @@ onboarding-button-label-get-started = सुरु करा
 onboarding-welcome-header = { -brand-short-name } मध्ये आपले स्वागत आहे
 onboarding-welcome-body = आपल्याला आपले ब्राऊझर मिळाले.<br/> उर्वरित { -brand-product-name } ला भेटा.
 onboarding-welcome-learn-more = होणाऱ्या लाभाबद्दल अधिक जाणून घ्या.
+onboarding-welcome-form-header = इथून सुरुवात करा
 onboarding-join-form-header = { -brand-product-name } मध्ये सहभागी व्हा.
 onboarding-join-form-body = सुरू करण्यासाठी आपला ईमेल प्रविष्ट करा.
 onboarding-join-form-email =
