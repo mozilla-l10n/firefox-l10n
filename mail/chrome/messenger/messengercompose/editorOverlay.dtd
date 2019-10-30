@@ -91,18 +91,18 @@
 <!ENTITY size-largeCmd.label "Granda">
 <!ENTITY size-largeCmd.accesskey "G">
 <!ENTITY size-extraLargeCmd.label "Grandega">
-<!ENTITY size-extraLargeCmd.accesskey "E">
-<!ENTITY size-hugeCmd.label "Grandegega">
-<!ENTITY size-hugeCmd.accesskey "G">
+<!ENTITY size-extraLargeCmd.accesskey "r">
+<!ENTITY size-hugeCmd.label "Tre grandega">
+<!ENTITY size-hugeCmd.accesskey "T">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Stilo de teksto">
 <!ENTITY fontStyleMenu.accesskey "S">
-<!ENTITY styleBoldCmd.label "Dika">
-<!ENTITY styleBoldCmd.accesskey "D">
+<!ENTITY styleBoldCmd.label "Grasa">
+<!ENTITY styleBoldCmd.accesskey "G">
 <!ENTITY styleBoldCmd.key "B">
-<!ENTITY styleItalicCmd.label "Oblikva">
-<!ENTITY styleItalicCmd.accesskey "O">
+<!ENTITY styleItalicCmd.label "Kursiva">
+<!ENTITY styleItalicCmd.accesskey "K">
 <!ENTITY styleItalicCmd.key "I">
 <!ENTITY styleUnderlineCmd.label "Substrekita">
 <!ENTITY styleUnderlineCmd.accesskey "S">
@@ -112,7 +112,7 @@
 <!ENTITY styleSuperscriptCmd.label "Superindica">
 <!ENTITY styleSuperscriptCmd.accesskey "p">
 <!ENTITY styleSubscriptCmd.label "Subindica">
-<!ENTITY styleSubscriptCmd.accesskey "S">
+<!ENTITY styleSubscriptCmd.accesskey "b">
 <!ENTITY styleNonbreakingCmd.label "Sen salto de linio">
 <!ENTITY styleNonbreakingCmd.accesskey "l">
 <!ENTITY styleEm.label "Emfazo">
