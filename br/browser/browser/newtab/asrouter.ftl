@@ -164,5 +164,16 @@ cfr-doorhanger-cryptominers-description = Pouezus eo ho puhez prevez. { -brand-s
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] Stanket ez eus bet ouzhpenn <b>{ $blockedCount }</b> heulier gant { -brand-short-name } abaoe { $date }!Stanket ez eus bet ouzhpenn <b>{ $blockedCount }</b> heulier gant { -brand-short-name } abaoe { $date }!
+        [two] Stanket ez eus bet ouzhpenn <b>{ $blockedCount }</b> heulier gant { -brand-short-name } abaoe { $date }!
+        [few] Stanket ez eus bet ouzhpenn <b>{ $blockedCount }</b> heulier gant { -brand-short-name } abaoe { $date }!
+        [many] Stanket ez eus bet ouzhpenn <b>{ $blockedCount }</b> a heulierien gant { -brand-short-name } abaoe { $date }!
+       *[other] Stanket ez eus bet ouzhpenn <b>{ $blockedCount }</b> heulier gant { -brand-short-name } abaoe { $date }!
+    }
 cfr-doorhanger-milestone-ok-button = Gwelet pep tra
     .accesskey = G
