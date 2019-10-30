@@ -208,7 +208,7 @@
 <!ENTITY event.attendees.label                            "Genodigden:" >
 <!ENTITY event.attendees.accesskey                        "e">
 <!ENTITY event.alldayevent.label                          "De hele dag" >
-<!ENTITY event.alldayevent.accesskey                      "h">
+<!ENTITY event.alldayevent.accesskey                      "">
 <!ENTITY event.from.label                                 "Begin:" >
 <!ENTITY event.from.accesskey                             "">
 <!ENTITY task.from.label                                  "Begin:" >
