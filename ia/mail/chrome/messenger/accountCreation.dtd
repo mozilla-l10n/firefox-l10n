@@ -116,6 +116,6 @@
 <!ENTITY insecureServer.tooltip.title    "Attention! Servitor insecur.">
 <!ENTITY insecureServer.tooltip.details  "Clicca hic pro altere detalios.">
 
-<!ENTITY insecureUnencrypted.description "Tu email e authentication ha essite inviate non cifrate, assi tu contrasigno (e tu message) poterea facilemente ser legite per altere personas. &brandShortName; te lassara acceder a tu email, ma tu deberea continger tu fornitor de servicios email re configurar le servitor con un connexion secur.">
+<!ENTITY insecureUnencrypted.description "Tu adresse de e-mail e authentication se invia sin cryptation, de sorta que tu contrasigno (e tu message) poterea facilemente esser legite per altere personas. &brandShortName; te lassa acceder a tu e-mail, ma tu deberea contactar tu fornitor de servicio e-mail a proposito de configurar le servitor con un connexion secur.">
 <!ENTITY insecureSelfSigned.description  "Le servitor usa un certificato que nos non pote verificar, assi nos non pote assecura te que alcuno non intercepta le traffico inter &brandShortName; e tu servitor. &brandShortName; te lassara acceder a tu email, ma tu deberea realmente obtener que tu fornitor de servicio email configura le servitor con un certificato digne de fide.">
 <!ENTITY secureServer.description        "Congratulationes! Servitor secur.">
