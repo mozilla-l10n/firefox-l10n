@@ -654,7 +654,7 @@ sync-change-options =
 
 sync-choose-what-to-sync-dialog =
     .title = Ni'iāj nùhuin si ruhuât nāgi'iaj nuguàn'ànt
-    .style = Choose What To Sync
+    .style = width: 36em; min-height: 35em;
     .buttonlabelaccept = Na'nïnj sà' nej sa nadunât
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Nitāj si 'iaj sunj…
