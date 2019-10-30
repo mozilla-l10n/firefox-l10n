@@ -274,6 +274,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } वापरा ({ -brand-short-name } अंतर्गत)
@@ -328,6 +332,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = शोध इंजिन आपोआप अद्ययावत करा
     .accesskey = e
+update-in-progress-title = अद्यतन प्रगतीपथावर
 
 ## General Section - Performance
 
@@ -666,6 +671,10 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = अपवाद…
     .accesskey = x
+forms-generate-passwords =
+    .label = सशक्त पासवर्ड सुचवून तयार करा
+    .accesskey = u
+forms-breach-alerts-learn-more-link = अधिक जाणा
 forms-saved-logins =
     .label = साठवलेले लॉगइन्स…
     .accesskey = L
@@ -768,6 +777,7 @@ addressbar-suggestions-settings = शोध इंजिनसाठी सू�
 ## Privacy Section - Content Blocking
 
 content-blocking-header = मजकूर अडवणी
+content-blocking-enhanced-tracking-protection = वर्धित ट्रॅकिंग संरक्षण
 content-blocking-learn-more = अधिक जाणून घ्या
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -805,12 +815,16 @@ content-blocking-unvisited-cookies = भेट न दिलेल्या स�
 content-blocking-all-windows-trackers = सर्व विंडोमध्ये ज्ञात ट्रॅकर
 content-blocking-warning-title = सावधान!
 content-blocking-learn-how = कसे ते जाणा
+content-blocking-warning-learn-how = कसे ते जाणा
 content-blocking-reload-description = हे बदल लागू करण्यासाठी आपले टॅब रीलोड करावे लागतील.
 content-blocking-reload-tabs-button =
     .label = सर्व टॅब्ज पुन्हा लोड करा
     .accesskey = R
 content-blocking-trackers-label =
     .label = ट्रॅकर
+    .accesskey = T
+content-blocking-tracking-content-label =
+    .label = ट्रॅकिंग मजकूर
     .accesskey = T
 content-blocking-tracking-protection-option-all-windows =
     .label = सर्व पटलामध्ये
@@ -824,6 +838,15 @@ content-blocking-cookies-label =
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = अधिक माहिती
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = क्रिप्टोमाइनर
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = फिंगरप्रिंटर
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
@@ -854,6 +877,9 @@ permissions-notification-link = अधिक जाणा
 permissions-notification-pause =
     .label = सूचना { -brand-short-name } पुन्हा सुरु होईपर्यंत स्थगित करा
     .accesskey = n
+permissions-block-autoplay-media2 =
+    .label = संकेतस्थळांना स्वायत्ततेने ध्वनी चालवण्यापासून रोखा
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = अपवाद…
     .accesskey = E
