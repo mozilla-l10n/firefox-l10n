@@ -86,6 +86,7 @@ newtab-menu-show-privacy-info = आमचे प्रायोजक आणि 
 
 newtab-privacy-modal-button-done = झाले
 newtab-privacy-modal-header = आपली गोपनीयता महत्वाची आहे.
+newtab-privacy-modal-link = नवीन टॅबवर गोपनीयता कसे कार्य करते ते जाणून घ्या
 
 
 

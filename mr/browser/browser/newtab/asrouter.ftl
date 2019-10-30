@@ -78,6 +78,7 @@ cfr-whatsnew-button =
     .label = नवीन काय आहे
     .tooltiptext = नवीन काय आहे
 cfr-whatsnew-panel-header = नवीन काय आहे
+cfr-whatsnew-release-notes-link-text = प्रकाशन नोट्स वाचा
 cfr-whatsnew-fx70-title = { -brand-short-name } आता आपल्या गोपनीयतेसाठी कठोर संघर्ष करते
 cfr-whatsnew-tracking-protect-title = ट्रॅकर्सपासून स्वतःचे रक्षण करा
 cfr-whatsnew-tracking-protect-link-text = आपला अहवाल पहा
@@ -91,11 +92,14 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } पासून
 cfr-whatsnew-tracking-blocked-link-text = अहवाल पहा
+cfr-whatsnew-lockwise-backup-title = आपले पासवर्ड बॅक-अप करा
 cfr-whatsnew-lockwise-backup-link-text = बॅकअप चालू करा
+cfr-whatsnew-lockwise-take-title = आपले पासवर्ड आपल्या सोबत न्या
 cfr-whatsnew-lockwise-take-link-text = अॅप मिळवा
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = हा बुकमार्क आपल्या फोनवर मिळवा
 cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name } चालू करा
     .accesskey = T
 

@@ -299,7 +299,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = डिजिटल हक्क व्यवस्थापन (डीआरएम) मजकूर
 play-drm-content =
@@ -367,6 +367,7 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = लिहीण्यास सुरूवात केल्यावर मजकुर शोधा
     .accesskey = x
+browsing-picture-in-picture-learn-more = अधिक जाणा
 browsing-cfr-recommendations =
     .label = आपण ब्राउझ करता तेव्हा विस्तारांची शिफारस करा
     .accesskey = R
@@ -472,6 +473,7 @@ search-bar-shown =
     .label = साधनपट्टीत शोध पट्टी जोडा
 search-engine-default-header = पूर्वनिर्धारित शोध इंजिन
 search-engine-default-desc = पत्ता पट्टी आणि शोध पट्टी मध्ये वापरण्यासाठी पूर्वनिर्धारित शोध इंजिन निवडा
+search-suggestions-header = शोध सूचना
 search-suggestions-option =
     .label = शोध सूचना पुरवा
     .accesskey = s
@@ -521,6 +523,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = आपला वेब आपल्याबरोबर घेऊन चला
 sync-signedout-description = आपल्या सर्व साधणांकरीता आपल्या वाचनखूणा, इतिहास, टॅब, पासवर्ड, ॲड-ऑन्स्, आणि प्राधान्ये समक्रमित करा.
 sync-signedout-account-title = { -fxaccount-brand-name } सह जोडा
@@ -541,11 +547,17 @@ sync-mobile-promo = साठी डाउनलोड करा <img data-l10n-
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = प्रोफाइल प्रतिमा बदला
 sync-disconnect =
     .label = जोडणी मोडा…
     .accesskey = D
+sync-sign-out =
+    .label = साइन आउट करा…
+    .accesskey = g
 sync-manage-account = खाते व्यवस्थापित करा
     .accesskey = o
 sync-signedin-unverified = { $email } चाचणी झाली नाही.
@@ -561,6 +573,29 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = ताळमेळ सेटिंग्ज
 sync-signedin-settings-desc = { -brand-short-name } वापरून आपल्या उपकरणांवर काय सिंक्रोनाईझ करायचे ते निवडा.
+
+## Sync section - enabling or disabling sync.
+
+prefs-sync-now =
+    .labelnotsyncing = आत्ता सिंक करा
+    .accesskeynotsyncing = N
+    .labelsyncing = सिंक करत आहे
+
+## The list of things currently syncing.
+
+sync-currently-syncing-bookmarks = वाचनखूणा
+sync-currently-syncing-history = इतिहास
+sync-currently-syncing-tabs = खुले टॅब
+sync-currently-syncing-logins-passwords = लॉगिन आणि पासवर्ड
+sync-currently-syncing-addresses = पत्ते
+sync-currently-syncing-creditcards = क्रेडिट कार्ड
+sync-currently-syncing-addons = ॲड-ऑन
+sync-change-options =
+    .label = बदला…
+    .accesskey = C
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = वाचनखुणा
     .accesskey = m
@@ -574,6 +609,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = लॉगिन्स
     .tooltiptext = आपण साठवलेली वापरकर्तानावे व पासवर्ड
+    .accesskey = L
+sync-engine-logins-passwords =
+    .label = लॉगिन आणि पासवर्ड
+    .tooltiptext = आपण जतन केलेली वापरकर्ता नावे आणि पासवर्ड
     .accesskey = L
 sync-engine-addresses =
     .label = पत्ते
@@ -595,6 +634,9 @@ sync-engine-prefs =
         }
     .tooltiptext = आपण बदललेले साधारण, सुरक्षा आणि गोपनीयता सेटिंग
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = साधनाचे नाव:
 sync-device-name-change =
     .label = साधनाचे नाव बदला…
@@ -756,7 +798,7 @@ enhanced-tracking-protection-setting-custom =
     .label = पसंतीचे
     .accesskey = C
 
-##
+
 
 content-blocking-all-cookies = सर्व कुकीज
 content-blocking-unvisited-cookies = भेट न दिलेल्या साइटवरील कुकीज
