@@ -63,6 +63,12 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Ejokóma mba'ekuaarã ñembyaty hi'aréva ko ñanduti renda pegua.
 urlbar-popup-blocked =
     .tooltiptext = Ejokoukákuri ovetã apysẽva ko ñandutirendápe g̃uarã.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Ejokóma ñemboheta ijeheguíva mba’epu rehegua ko ñanduti rendápe g̃uarã.
+urlbar-canvas-blocked =
+    .tooltiptext = Ejokoukákuri kuaapy canvas rehegua ñeguenohẽ ko ñandutirendápe g̃uarã.
+urlbar-midi-blocked =
+    .tooltiptext = Ejokóma MIDI pe jeike ko ñanduti rendápe g̃uarã.
 
 ## Page Action Context Menu
 
