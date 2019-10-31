@@ -49,6 +49,18 @@ urlbar-addons-notification-anchor =
     .tooltiptext = باز کردن تابلو پیام‌های نصب افزودنی‌ها
 urlbar-tip-help-icon =
     .title = کمک بگیرید
+urlbar-geolocation-blocked =
+    .tooltiptext = شما این پایگاه‌وب را برای دسترسی به اطلاعات مکانی مسدود کرده‌اید.
+urlbar-web-notifications-blocked =
+    .tooltiptext = شما این پایگاه‌وب را برای امکان ارسال اعلان مسدود کرده‌اید.
+urlbar-camera-blocked =
+    .tooltiptext = شما این پایگاه‌وب را برای دسترسی به دوربین مسدود کرده‌اید.
+urlbar-microphone-blocked =
+    .tooltiptext = شما این پایگاه‌وب را برای دسترسی به میکروفن مسدود کرده‌اید.
+urlbar-screen-blocked =
+    .tooltiptext = شما این پایگاه‌وب را برای اشتراک‌گذاری صفحهٔ خود مسدود کرده‌اید.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = شما این پایگاه‌وب را برای ذخیره اطلاعات مسدود کرده‌اید.
 
 ## Page Action Context Menu
 
