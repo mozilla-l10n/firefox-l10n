@@ -69,6 +69,8 @@ urlbar-canvas-blocked =
     .tooltiptext = 이 사이트의 캔바스 데이터 추출을 차단하였습니다.
 urlbar-midi-blocked =
     .tooltiptext = 이 사이트의 MIDI 접근을 차단하였습니다.
+urlbar-install-blocked =
+    .tooltiptext = 이 사이트의 부가 기능 설치를 차단했습니다.
 
 ## Page Action Context Menu
 
