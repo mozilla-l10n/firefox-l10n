@@ -45,6 +45,14 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Gardar las donadas dins un emmagazinatge permanent
 urlbar-addons-notification-anchor =
     .tooltiptext = Mostrar lo messatge d'installation del modul
+urlbar-geolocation-blocked =
+    .tooltiptext = Avètz blocat la geolocalizacion per aqueste site.
+urlbar-microphone-blocked =
+    .tooltiptext = Avètz blocat lo microfòn per aqueste site.
+urlbar-screen-blocked =
+    .tooltiptext = Avètz empachat aquel site de partejar vòstre ecran.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Avètz empachat aquel site de gardar de biais persistent de donadas.
 
 ## Page Action Context Menu
 
