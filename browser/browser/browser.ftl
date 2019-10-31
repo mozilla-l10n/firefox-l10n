@@ -47,6 +47,18 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Desa dades en l'emmagatzematge persistent
 urlbar-addons-notification-anchor =
     .tooltiptext = Obre la subfinestra del missatge d'instal·lació del complement
+urlbar-geolocation-blocked =
+    .tooltiptext = Heu blocat la informació d'ubicació per a aquest lloc web.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Heu blocat les notificacions per a aquest lloc web.
+urlbar-camera-blocked =
+    .tooltiptext = Heu blocat la càmera per a aquest lloc web.
+urlbar-microphone-blocked =
+    .tooltiptext = Heu blocat el micròfon per a aquest lloc web.
+urlbar-screen-blocked =
+    .tooltiptext = Heu blocat la compartició de la pantalla en aquest lloc web.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Heu blocat l'emmagatzematge persistent per a aquest lloc web.
 
 ## Page Action Context Menu
 
