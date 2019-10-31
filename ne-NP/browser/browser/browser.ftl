@@ -41,6 +41,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = डाटालाई लगातार भण्डारणमा राख्नुहोस्
 urlbar-addons-notification-anchor =
     .tooltiptext = एडअन स्थापना सन्देश प्यानल खोल्नुहोस्
+urlbar-camera-blocked =
+    .tooltiptext = तपाईँले यो वेबसाइटको लागि आफ्नो क्यामेरा अवरुद्ध गर्नु भएको छ
+urlbar-microphone-blocked =
+    .tooltiptext = तपाईँले यो वेबसाइटको लागि आफ्नो माइक्रोफोन अवरुद्ध गर्नु भएको छ
 
 ## Page Action Context Menu
 
