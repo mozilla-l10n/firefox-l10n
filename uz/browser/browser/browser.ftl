@@ -59,6 +59,14 @@ urlbar-microphone-blocked =
     .tooltiptext = Bu sayt uchun mikrofonni bloklab qo‘ygansiz.
 urlbar-screen-blocked =
     .tooltiptext = Bu sayt uchun ekranni ulashishni bloklab qo‘ygansiz.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Bu sayt uchun doimiy xotirani blokladingiz.
+urlbar-popup-blocked =
+    .tooltiptext = Bu sayt uchun qalqib chiquvchi oynalarni blokladingiz.
+urlbar-canvas-blocked =
+    .tooltiptext = Bu sayt uchun canvas ma’lumotlarini chiqarishni blokladingiz.
+urlbar-midi-blocked =
+    .tooltiptext = Bu sayt uchun MIDI ruxsatini blokladingiz.
 
 ## Page Action Context Menu
 
