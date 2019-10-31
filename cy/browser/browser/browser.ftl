@@ -49,6 +49,12 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Agor panel neges gosod yr ychwanegyn
 urlbar-tip-help-icon =
     .title = Derbyn cymorth
+urlbar-popup-blocked =
+    .tooltiptext = Rydych wedi rhwystro llamlenni ar gyfer y wefan hon.
+urlbar-canvas-blocked =
+    .tooltiptext = Rydych wedi rhwystro tynnu data canvas o'r wefan hon.
+urlbar-midi-blocked =
+    .tooltiptext = Rydych wedi rhwystro mynediad MIDI ar gyfer y wefan hon.
 
 ## Page Action Context Menu
 
