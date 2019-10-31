@@ -57,6 +57,12 @@ urlbar-screen-blocked =
     .tooltiptext = Ha blocau la compartición d'a pantalla en iste puesto web.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ha blocau l'almagazenamiento persistent de datos pa iste puesto web.
+urlbar-popup-blocked =
+    .tooltiptext = Has blocau las finestras emerchents en este puesto web.
+urlbar-canvas-blocked =
+    .tooltiptext = Has blocau la extracción de datos de lienzo pa este puesto web.
+urlbar-midi-blocked =
+    .tooltiptext = Tiens blocau l'acceso MIDI en esta web.
 
 ## Page Action Context Menu
 
