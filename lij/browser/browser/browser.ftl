@@ -47,6 +47,26 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Sarva dæti inta memöia persistente
 urlbar-addons-notification-anchor =
     .tooltiptext = Arvi o panello de instalaçion conponente azonto
+urlbar-geolocation-blocked =
+    .tooltiptext = T'æ blocòu e informaçioin de localizaçion pe sto scito.
+urlbar-web-notifications-blocked =
+    .tooltiptext = T'æ blocòu e notifiche pe sto scito.
+urlbar-camera-blocked =
+    .tooltiptext = T'æ blocòu a fòtocamera pe sto scito.
+urlbar-microphone-blocked =
+    .tooltiptext = T'æ blocòu o micròfono pe sto scito.
+urlbar-screen-blocked =
+    .tooltiptext = T'æ blocòu a condivixon schermo pe sto scito.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = T'æ blocòu o sarvataggio persistente pe sto scito.
+urlbar-popup-blocked =
+    .tooltiptext = Ti æ blocòu i pop-up pe sto scito.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Ti æ blocòu l'aoto-ezegoçion co-o son in sto scito.
+urlbar-canvas-blocked =
+    .tooltiptext = Ti æ blocòu l'estaçion dæti canvas pe sto scito.
+urlbar-midi-blocked =
+    .tooltiptext = Ti æ blocòu l'acesso MIDI pe sto scito.
 
 ## Page Action Context Menu
 
