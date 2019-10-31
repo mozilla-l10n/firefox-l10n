@@ -57,6 +57,10 @@ urlbar-screen-blocked =
     .tooltiptext = இத்தளத்தில் திரைப் பகிர்வை முடக்கியுள்ளீர்கள்.
 urlbar-persistent-storage-blocked =
     .tooltiptext = நீங்கள் நிரந்தர சேமிப்பை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.
+urlbar-canvas-blocked =
+    .tooltiptext = திரை தரவு எடுப்பை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.
+urlbar-midi-blocked =
+    .tooltiptext = இந்த தளத்தில் MIDI அணுகலை முடக்கியுள்ளீர்கள்.
 
 ## Page Action Context Menu
 
