@@ -47,6 +47,18 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Geyma gögn í varanlegri gagnageymslu
 urlbar-addons-notification-anchor =
     .tooltiptext = Opna skilaboðaflipa fyrir viðbótauppsetningu
+urlbar-geolocation-blocked =
+    .tooltiptext = Þú hefur lokað fyrir staðsetningarupplýsingar á þessu vefsvæði.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Þú hefur lokað fyrir tilkynningar á þessu vefsvæði.
+urlbar-camera-blocked =
+    .tooltiptext = Þú hefur lokað fyrir myndavélina á þessu vefsvæði.
+urlbar-microphone-blocked =
+    .tooltiptext = Þú hefur lokað fyrir hljóðnema á þessu vefsvæði.
+urlbar-screen-blocked =
+    .tooltiptext = Þú hefur lokað fyrir að deila skjáum á þessu vefsvæði.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Þú hefur lokað fyrir gagna geymslu á þessu vefsvæði.
 
 ## Page Action Context Menu
 
