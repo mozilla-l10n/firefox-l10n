@@ -45,6 +45,26 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Glabāt datus pastāvīgajā krātuvē
 urlbar-addons-notification-anchor =
     .tooltiptext = Atvērt papildinājumu instalēšanas ziņojumu paneli
+urlbar-geolocation-blocked =
+    .tooltiptext = Atrašanās vietas informācijas koplietošana ar šo lapu ir bloķēta.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Paziņojumu saņemšana no šīs lapas ir bloķēta.
+urlbar-camera-blocked =
+    .tooltiptext = Kameras izmantošana šajā lapā ir bloķēta.
+urlbar-microphone-blocked =
+    .tooltiptext = Mikrofona izmantošana šajā lapā ir bloķēta.
+urlbar-screen-blocked =
+    .tooltiptext = Ekrāna koplietošana ar šo lapu ir bloķēta.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Datu glabāšana ir bloķēta šajā lapā.
+urlbar-popup-blocked =
+    .tooltiptext = Uzlecošo logu rādīšana no šīs lapas ir bloķēta.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Automātiskā multimēdiju ar skaņu atskaņošana šajā lapā ir bloķēta.
+urlbar-canvas-blocked =
+    .tooltiptext = Šīs lapas canvas datu ieguve ir bloķēta.
+urlbar-midi-blocked =
+    .tooltiptext = MIDI izmantošana šajā lapā ir bloķēta.
 
 ## Page Action Context Menu
 
