@@ -49,6 +49,10 @@ urlbar-microphone-blocked =
     .tooltiptext = Igengo woko mikropon mamegi pi kakube man.
 urlbar-screen-blocked =
     .tooltiptext = Igengo woko kakube man me nywako wang kio mamegi
+urlbar-midi-blocked =
+    .tooltiptext = I gengo woko nongo MIDI pi kakube man.
+urlbar-install-blocked =
+    .tooltiptext = Igengo woko keto med-ikome pi kakube man.
 
 ## Page Action Context Menu
 
