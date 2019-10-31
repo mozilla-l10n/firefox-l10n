@@ -47,10 +47,26 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Globōt datus pastōveigā krōtuvē
 urlbar-addons-notification-anchor =
     .tooltiptext = Attaiseit papyldynuojumu instaliešonys ziņuojumu paneli
+urlbar-geolocation-blocked =
+    .tooltiptext = Acarašonas vītys informacejis kūplītuošona ar itū lopu ir blokeita.
 urlbar-web-notifications-blocked =
     .tooltiptext = Paziņuojumu sajimšona nu ituos lopys ir blokeita.
+urlbar-camera-blocked =
+    .tooltiptext = Kameras izmontōšona itymā lopā ir aizlīgta.
+urlbar-microphone-blocked =
+    .tooltiptext = Mikrofona izmontōšona itymā lopā ir aizlīgta.
 urlbar-screen-blocked =
     .tooltiptext = Ekrana kūplītuošona ar itū lopu ir blokeita.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Datu saglpbōšona itymā lopā ir aizlīgta.
+urlbar-popup-blocked =
+    .tooltiptext = Izlacušū lūku rōdiešona itymā lopā ir aizlīgta.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Tu esi bloķiejs automatisku multimedeju atskaņōšonu itymā lopā.
+urlbar-canvas-blocked =
+    .tooltiptext = Datu sajimšona nu ituos lopys canvas ir blokeita.
+urlbar-midi-blocked =
+    .tooltiptext = Tu esi aizlīdzs MIDI pīkļuvi itai lopai.
 
 ## Page Action Context Menu
 
