@@ -59,6 +59,12 @@ urlbar-screen-blocked =
     .tooltiptext = Þú hefur lokað fyrir að deila skjáum á þessu vefsvæði.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Þú hefur lokað fyrir gagna geymslu á þessu vefsvæði.
+urlbar-popup-blocked =
+    .tooltiptext = Þú hefur lokað á sprettiglugga fyrir þetta vefsvæði.
+urlbar-canvas-blocked =
+    .tooltiptext = Þú hefur lokað á að nálgast gluggagögn fyrir þetta vefsvæði.
+urlbar-midi-blocked =
+    .tooltiptext = Þú hefur lokað fyrir MIDI aðgang á þessu vefsvæði.
 
 ## Page Action Context Menu
 
