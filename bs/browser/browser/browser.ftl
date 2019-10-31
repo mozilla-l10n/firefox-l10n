@@ -39,6 +39,18 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Pohrani podatke u trajno spremište
 urlbar-addons-notification-anchor =
     .tooltiptext = Otvori panel s porukama instalacije add-ona
+urlbar-geolocation-blocked =
+    .tooltiptext = Blokirali ste lokacijske informacije za ovu web stranicu.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Blokirali ste notifikacije za ovu web stranicu.
+urlbar-camera-blocked =
+    .tooltiptext = Blokirali ste vašu kameru za ovu web stranicu.
+urlbar-microphone-blocked =
+    .tooltiptext = Blokirali ste vaš mikrofon za ovu web stranicu.
+urlbar-screen-blocked =
+    .tooltiptext = Blokirali ste dijeljenje vašeg ekrana ovoj web stranici.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Blokirali ste trajno spremište za ovu web stranicu.
 
 ## Page Action Context Menu
 
