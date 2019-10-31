@@ -47,8 +47,26 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Verilerni Sebatkâr Mağazda mağazla
 urlbar-addons-notification-anchor =
     .tooltiptext = Eklenti qurulımı mesaj panelini aç
+urlbar-geolocation-blocked =
+    .tooltiptext = Bu sayttan qonum malümatını bloklağan olasıñız.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Bu sayt içün tebliğlerni bloklağan olasıñız.
+urlbar-camera-blocked =
+    .tooltiptext = Bu sayt içün kamerañıznı bloklağan olasıñız.
+urlbar-microphone-blocked =
+    .tooltiptext = Bu sayt içün mikrofonıñıznı bloklağan olasıñız.
+urlbar-screen-blocked =
+    .tooltiptext = Bu saytnıñ ekranıñıznı üleşmesini bloklağan olasıñız.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Bu sayt içün sebatkâr mağaznı bloklağan olasıñız.
+urlbar-popup-blocked =
+    .tooltiptext = Bu ağ-saytı içün peydalarnı bloklağan olasıñız.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Bu ağ-saytı içün davuşlı avto-oynat vasatını bloklağan olasıñız.
+urlbar-canvas-blocked =
+    .tooltiptext = Bu sayt içün kanaviçe veriler istihracını bloklağan olasıñız.
+urlbar-midi-blocked =
+    .tooltiptext = Bu sayt içün MİDİ irişimini bloklağan olasıñız.
 
 ## Page Action Context Menu
 
