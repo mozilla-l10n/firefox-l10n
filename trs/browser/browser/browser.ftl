@@ -69,6 +69,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Gi'iaj blokeandot da' si gida'à nej dugui' datos canva guenda sitio web na.
 urlbar-midi-blocked =
     .tooltiptext = Gi'iaj blokeandot MIDI guenda sitio web na.
+urlbar-install-blocked =
+    .tooltiptext = Naránt da' nutà' man nej sa huāa guendâ sitiô nan.
 
 ## Page Action Context Menu
 
