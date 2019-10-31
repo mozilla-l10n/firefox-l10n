@@ -57,6 +57,8 @@ urlbar-microphone-blocked =
     .tooltiptext = Za to stran ste zavrnili uporabo mikrofona.
 urlbar-screen-blocked =
     .tooltiptext = Za to stran ste zavrnili deljenje zaslona.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Za to spletno stran ste zavrnili trajno shrambo.
 urlbar-midi-blocked =
     .tooltiptext = Za to stran ste zavrnili uporabo MIDI.
 
