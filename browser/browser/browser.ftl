@@ -47,6 +47,16 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Kalıcı depolamada veri depola
 urlbar-addons-notification-anchor =
     .tooltiptext = Eklenti yükleme mesajı panelini aç
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Bu sitenin kalıcı veri depolamasını engellediniz.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Bu sitenin sesli medya dosyalarını otomatik oynatmasını engellediniz.
+urlbar-canvas-blocked =
+    .tooltiptext = Bu sitenin kanvastan veri ayıklamasını engellediniz.
+urlbar-midi-blocked =
+    .tooltiptext = Bu sitenin MIDI erişimini engellediniz.
+urlbar-install-blocked =
+    .tooltiptext = Bu sitenin eklenti yüklemesini engellediniz.
 
 ## Page Action Context Menu
 
