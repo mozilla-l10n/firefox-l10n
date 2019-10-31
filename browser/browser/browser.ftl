@@ -61,6 +61,16 @@ urlbar-screen-blocked =
     .tooltiptext = Ви заблокували доступ до екрану для цього веб-сайту.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ви заблокували постійне сховище для цього веб-сайту.
+urlbar-popup-blocked =
+    .tooltiptext = Ви заблокували виринаючі вікна для цього веб-сайту.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Ви заблокували автовідтворення медіа зі звуком для цього веб-сайту.
+urlbar-canvas-blocked =
+    .tooltiptext = Ви заблокували видобування даних canvas для цього веб-сайту.
+urlbar-midi-blocked =
+    .tooltiptext = Ви заблокували MIDI доступ для цього веб-сайту.
+urlbar-install-blocked =
+    .tooltiptext = Ви заблокували встановлення додатка з цього веб-сайту.
 
 ## Page Action Context Menu
 
