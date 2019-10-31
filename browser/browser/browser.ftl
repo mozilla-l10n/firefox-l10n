@@ -61,8 +61,16 @@ urlbar-screen-blocked =
     .tooltiptext = Bạn đã chặn việc chia sẻ màn hình của mình với trang web này.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Bạn đã chặn lưu dữ liệu lâu dài ở trang này.
+urlbar-popup-blocked =
+    .tooltiptext = Bạn đã chặn cửa sổ bật lên ở trang web này.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Bạn đã chặn phương tiện tự động phát có âm thanh cho trang web này.
 urlbar-canvas-blocked =
     .tooltiptext = Bạn đã chặn khai thác dữ liệu canvas đối với trang web này.
+urlbar-midi-blocked =
+    .tooltiptext = Bạn đã chặn quyền truy cập MIDI của trang web này.
+urlbar-install-blocked =
+    .tooltiptext = Bạn đã chặn cài đặt tiện ích cho trang web này.
 
 ## Page Action Context Menu
 
