@@ -63,10 +63,14 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Ha bloqueado el almacenamiento de datos para este sitio web.
 urlbar-popup-blocked =
     .tooltiptext = Ha bloqueado las ventanas emergentes en este sitio web.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Ha bloqueado la reproducción automática de medios con sonido para este sitio web.
 urlbar-canvas-blocked =
     .tooltiptext = Ha bloqueado la extracción de datos de canvas en este sitio web.
 urlbar-midi-blocked =
     .tooltiptext = Ha bloqueado el acceso al MIDI para este sitio web.
+urlbar-install-blocked =
+    .tooltiptext = Ha bloqueado la instalación de complementos para este sitio web.
 
 ## Page Action Context Menu
 
