@@ -49,12 +49,22 @@ urlbar-geolocation-blocked =
     .tooltiptext = Avètz blocat la geolocalizacion per aqueste site.
 urlbar-web-notifications-blocked =
     .tooltiptext = Avètz blocat las notificacions per aquel site.
+urlbar-camera-blocked =
+    .tooltiptext = Avètz blocat la camèra per aqueste site.
 urlbar-microphone-blocked =
     .tooltiptext = Avètz blocat lo microfòn per aqueste site.
 urlbar-screen-blocked =
     .tooltiptext = Avètz empachat aquel site de partejar vòstre ecran.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Avètz empachat aquel site de gardar de biais persistent de donadas.
+urlbar-popup-blocked =
+    .tooltiptext = Avètz blocat la fenèstras surgentas per aqueste site.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Avètz blocat la lectura automatica dels mèdias amb son per aqueste site.
+urlbar-canvas-blocked =
+    .tooltiptext = Avètz empachat aqueste site de traire d’informacions de canvas.
+urlbar-midi-blocked =
+    .tooltiptext = Avètz blocat l’accès MIDI per aqueste site web.
 
 ## Page Action Context Menu
 
