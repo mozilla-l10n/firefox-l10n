@@ -49,6 +49,26 @@ urlbar-addons-notification-anchor =
     .tooltiptext = 부가기능 설치 메시지 패널 열기
 urlbar-tip-help-icon =
     .title = 도움 받기
+urlbar-geolocation-blocked =
+    .tooltiptext = 이 사이트의 위치 정보 사용을 차단하였습니다.
+urlbar-web-notifications-blocked =
+    .tooltiptext = 이 사이트의 알림 사용을 차단하였습니다.
+urlbar-camera-blocked =
+    .tooltiptext = 이 사이트의 카메라 사용을 차단하였습니다.
+urlbar-microphone-blocked =
+    .tooltiptext = 이 사이트의 마이크 사용을 차단하였습니다.
+urlbar-screen-blocked =
+    .tooltiptext = 이 사이트의 화면 공유를 차단하였습니다.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = 이 사이트의 영구 저장소 사용을 차단하였습니다.
+urlbar-popup-blocked =
+    .tooltiptext = 이 사이트의 팝업을 차단하였습니다.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = 이 사이트의 소리있는 미디어 자동재생을 차단하였습니다.
+urlbar-canvas-blocked =
+    .tooltiptext = 이 사이트의 캔바스 데이터 추출을 차단하였습니다.
+urlbar-midi-blocked =
+    .tooltiptext = 이 사이트의 MIDI 접근을 차단하였습니다.
 
 ## Page Action Context Menu
 
