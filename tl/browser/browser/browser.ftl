@@ -65,6 +65,8 @@ urlbar-popup-blocked =
     .tooltiptext = Hinarangan mo ang mga pop-up sa website na ito.
 urlbar-canvas-blocked =
     .tooltiptext = Na-block mo ang data extraction ng canvas para sa website na ito.
+urlbar-midi-blocked =
+    .tooltiptext = Na-block mo ang access sa MIDI para sa website na ito.
 
 ## Page Action Context Menu
 
