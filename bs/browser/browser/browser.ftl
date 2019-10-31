@@ -51,6 +51,10 @@ urlbar-screen-blocked =
     .tooltiptext = Blokirali ste dijeljenje vašeg ekrana ovoj web stranici.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Blokirali ste trajno spremište za ovu web stranicu.
+urlbar-popup-blocked =
+    .tooltiptext = Imate blokirane pop-up prozore za ovu web stranicu.
+urlbar-canvas-blocked =
+    .tooltiptext = Blokirali ste ekstrakciju canvas podataka za ovu web stranicu.
 
 ## Page Action Context Menu
 
