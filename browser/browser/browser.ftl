@@ -59,6 +59,16 @@ urlbar-microphone-blocked =
     .tooltiptext = Du har blockerat din mikrofon för denna webbsida.
 urlbar-screen-blocked =
     .tooltiptext = Du har blockerat denna webbsida från att få dela din skärm
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Du har blockerat beständig lagring för denna webbplats.
+urlbar-popup-blocked =
+    .tooltiptext = Du har blockerat popup-fönster för den här webbplatsen.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Du har blockerat automatisk uppspelning av media med ljud för den här webbplatsen.
+urlbar-canvas-blocked =
+    .tooltiptext = Du har blockerat canvas-extrahering för denna webbplats.
+urlbar-midi-blocked =
+    .tooltiptext = Du har blockerat MIDI-åtkomst för denna webbplats.
 
 ## Page Action Context Menu
 
