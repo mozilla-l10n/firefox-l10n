@@ -15,8 +15,8 @@ graph-week-summary =
 # earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
-        [one] <b>{ $count }</b> tracciante bloccato dal { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] <b>{ $count }</b> traccianti bloccati dal { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [one] <b>{ $count }</b> elemento tracciante bloccato dal { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> elementi traccianti bloccati dal { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -35,7 +35,7 @@ etp-card-content = Gli elementi traccianti ti seguono online al fine di raccogli
 # capitalization for this string should match the output for your locale.
 graph-today = oggi
 # This string is used to describe the graph for screenreader users.
-graph-legend-description = Grafico contenente il numero totale di traccianti bloccati questa settimana, suddiviso per tipologia.
+graph-legend-description = Grafico contenente il numero totale di elementi traccianti bloccati questa settimana, suddiviso per tipologia.
 social-tab-title = Traccianti dei social media
 social-tab-contant = I social network impostano elementi traccianti in altri siti per scoprire cosa fai, leggi e guardi quando sei online. In questo modo sono in grado di raccogliere molte più informazioni rispetto a quello che condividi nei tuoi profili online. <a data-l10n-name="learn-more-link">Ulteriori informazioni</a>
 cookie-tab-title = Cookie traccianti intersito
