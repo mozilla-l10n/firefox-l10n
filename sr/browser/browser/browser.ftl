@@ -57,6 +57,16 @@ urlbar-microphone-blocked =
     .tooltiptext = Блокирали сте микрофон за овај веб сајт.
 urlbar-screen-blocked =
     .tooltiptext = Блокирали сте дељење екрана за овај веб сајт.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Блокирали сте трајно складиштење за овај веб сајт.
+urlbar-popup-blocked =
+    .tooltiptext = Блокирали сте искачуће прозоре за овај веб сајт.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Блокирали сте аутоматско пуштање медија са звуком за овај веб сајт.
+urlbar-canvas-blocked =
+    .tooltiptext = Блокирали сте екстрактовање података слике за овај веб сајт.
+urlbar-midi-blocked =
+    .tooltiptext = Блокирали сте MIDI приступ за овај веб сајт.
 
 ## Page Action Context Menu
 
