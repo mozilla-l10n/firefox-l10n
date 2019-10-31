@@ -45,6 +45,18 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = நிரந்தர சேமிப்பகத்தில் தரவை வை
 urlbar-addons-notification-anchor =
     .tooltiptext = கூடுதல் இணைப்பு நிறுவல் செய்திப் பலகத்தை திற
+urlbar-geolocation-blocked =
+    .tooltiptext = உங்கள் இடத்தகவலை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.
+urlbar-web-notifications-blocked =
+    .tooltiptext = அறிவிப்புகளை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.
+urlbar-camera-blocked =
+    .tooltiptext = இந்த தளத்தில் நிழற்படக் கருவியை முடக்கியுள்ளீர்கள்.
+urlbar-microphone-blocked =
+    .tooltiptext = இத்தளத்தில் ஒலிவாங்கியை முடக்கியுள்ளீர்கள்.
+urlbar-screen-blocked =
+    .tooltiptext = இத்தளத்தில் திரைப் பகிர்வை முடக்கியுள்ளீர்கள்.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = நீங்கள் நிரந்தர சேமிப்பை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.
 
 ## Page Action Context Menu
 
