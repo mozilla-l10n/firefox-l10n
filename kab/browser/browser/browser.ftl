@@ -51,6 +51,12 @@ urlbar-tip-help-icon =
     .title = Awi tallelt
 urlbar-screen-blocked =
     .tooltiptext = Tesweḥleḍ asmelweb-a seg beṭṭu n ugdil-inek.
+urlbar-popup-blocked =
+    .tooltiptext = Tesweḥleḍ asfaylu udhim i usmel-agi.
+urlbar-canvas-blocked =
+    .tooltiptext = Tesweḥleḍ tussfa n yisefka n ubeckil i usmelweb-a.
+urlbar-midi-blocked =
+    .tooltiptext = Tesweḥleḍ anekcum i MIDI γer usmel-agi.
 
 ## Page Action Context Menu
 
