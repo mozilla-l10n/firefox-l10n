@@ -59,6 +59,10 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = A daaƴii ndesgu duumiingu e ndee lowre.
 urlbar-popup-blocked =
     .tooltiptext = A faddiima kenorɗe pop-up nder ndee lowre.
+urlbar-canvas-blocked =
+    .tooltiptext = A daaƴii aaftogol keɓe keertol wonande ndee lowre geese.
+urlbar-midi-blocked =
+    .tooltiptext = A daaƴii keɓgol MIDI wonande ndee lowre geese.
 
 ## Page Action Context Menu
 
