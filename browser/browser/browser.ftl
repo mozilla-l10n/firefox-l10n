@@ -55,6 +55,12 @@ urlbar-microphone-blocked =
     .tooltiptext = Ai blocat microfonul pentru acest site web.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ai blocat stocarea persistentă de date pentru acest site web.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Ai blocat redarea automată a conținutului media cu sunet pe acest site web.
+urlbar-canvas-blocked =
+    .tooltiptext = Ai blocat extragerea de date canvas pentru acest site.
+urlbar-midi-blocked =
+    .tooltiptext = Ai blocat accesul MIDI pentru acest site web.
 
 ## Page Action Context Menu
 
