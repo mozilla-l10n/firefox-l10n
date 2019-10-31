@@ -61,6 +61,10 @@ urlbar-screen-blocked =
     .tooltiptext = Ovoj ste stranici zabranili dijeljenje vaše radne površine.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ovoj ste stranici zabranili mogućnost trajne pohrane podataka.
+urlbar-midi-blocked =
+    .tooltiptext = Blokirali ste MIDI pristup za ovu web stranicu.
+urlbar-install-blocked =
+    .tooltiptext = Ovoj stranici ste zabranili instalaciju dodataka.
 
 ## Page Action Context Menu
 
