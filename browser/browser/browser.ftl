@@ -61,6 +61,14 @@ urlbar-screen-blocked =
     .tooltiptext = Ti has bloccà la pussaivladad da questa website da cundivider tes visur.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ti has bloccà la memoria durabla per questa website.
+urlbar-popup-blocked =
+    .tooltiptext = Ti has bloccà pop-ups per questa website.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Ti has bloccà la reproducziun automatica dad elements da multimedia cun tun.
+urlbar-canvas-blocked =
+    .tooltiptext = Ti has bloccà l'extracziun da datas da canvas per questa website.
+urlbar-midi-blocked =
+    .tooltiptext = Ti has bloccà l'access a MIDI per questa pagina d'internet.
 
 ## Page Action Context Menu
 
