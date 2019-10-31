@@ -59,6 +59,16 @@ urlbar-screen-blocked =
     .tooltiptext = Heu blocat la compartició de la pantalla en aquest lloc web.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Heu blocat l'emmagatzematge persistent per a aquest lloc web.
+urlbar-popup-blocked =
+    .tooltiptext = Heu blocat les finestres emergents per a aquest lloc web.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Heu blocat la reproducció automàtica de contingut multimèdia amb so per a aquest lloc web.
+urlbar-canvas-blocked =
+    .tooltiptext = Heu blocat l'extracció de dades de llenç (canvas) per a aquest lloc web.
+urlbar-midi-blocked =
+    .tooltiptext = Heu blocat l'accés MIDI per a aquest lloc web.
+urlbar-install-blocked =
+    .tooltiptext = Heu blocat la instal·lació de complements per a aquest lloc web.
 
 ## Page Action Context Menu
 
