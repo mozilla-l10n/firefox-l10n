@@ -45,6 +45,26 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Simpan data dalam Storan Kekal
 urlbar-addons-notification-anchor =
     .tooltiptext = Buka panel mesej pemasangan add-on
+urlbar-geolocation-blocked =
+    .tooltiptext = Anda telah menyekat maklumat lokasi untuk laman web ini.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Anda telah menyekat notifikasi untuk laman web ini.
+urlbar-camera-blocked =
+    .tooltiptext = Anda telah menyekat kamera anda untuk laman web ini.
+urlbar-microphone-blocked =
+    .tooltiptext = Anda telah menyekat mikrofon anda untuk laman web ini.
+urlbar-screen-blocked =
+    .tooltiptext = Anda telah menyekat laman web ini daripada berkongsi skrin anda.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Anda telah menghalang storan gigih untuk laman web ini.
+urlbar-popup-blocked =
+    .tooltiptext = Anda telah menyekat pop-up untuk laman web ini.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Anda telah menyekat media automain dengan suara untuk laman web ini.
+urlbar-canvas-blocked =
+    .tooltiptext = Anda telah menyekat ekstraksi data kanvas untuk laman web ini.
+urlbar-midi-blocked =
+    .tooltiptext = Anda telah menyekat akses MIDI untuk laman web ini.
 
 ## Page Action Context Menu
 
