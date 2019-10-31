@@ -49,12 +49,26 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Otvorí panel správ inštalácie doplnkov
 urlbar-geolocation-blocked =
     .tooltiptext = Tejto stránke ste zakázali zisťovať vašu polohu.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Tejto stránke ste zakázali zobrazovať upozornenia.
 urlbar-camera-blocked =
     .tooltiptext = Tejto stránke ste zakázali prístup k vašej kamere.
 urlbar-microphone-blocked =
     .tooltiptext = Tejto stránke ste zakázali prístup v vášmu mikrofónu.
 urlbar-screen-blocked =
     .tooltiptext = Tejto stránke ste zakázali zdieľanie vašej obrazovky.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Tejto stránke ste zakázali ukladanie údajov do trvalého úložiska.
+urlbar-popup-blocked =
+    .tooltiptext = Tejto stránke ste zablokovali zobrazovanie vyskakovacích okien.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Tejto stránke ste zablokovali automatické prehrávania médií so zvukom.
+urlbar-canvas-blocked =
+    .tooltiptext = Tejto stránke ste zakázali prístup k údajom canvasu.
+urlbar-midi-blocked =
+    .tooltiptext = Tejto stránke ste zakázali prístup k MIDI.
+urlbar-install-blocked =
+    .tooltiptext = Tejto stránke ste zakázali inštaláciu doplnkov.
 
 ## Page Action Context Menu
 
