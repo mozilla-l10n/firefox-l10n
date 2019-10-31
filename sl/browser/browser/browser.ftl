@@ -59,6 +59,12 @@ urlbar-screen-blocked =
     .tooltiptext = Za to stran ste zavrnili deljenje zaslona.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Za to spletno stran ste zavrnili trajno shrambo.
+urlbar-popup-blocked =
+    .tooltiptext = Za to stran ste zavrnili pojavna okna.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Za to stran ste zavrnili samodejno predvajanje večpredstavnosti z zvokom.
+urlbar-canvas-blocked =
+    .tooltiptext = Za to stran ste zavrnili izločanje podatkov platna.
 urlbar-midi-blocked =
     .tooltiptext = Za to stran ste zavrnili uporabo MIDI.
 
