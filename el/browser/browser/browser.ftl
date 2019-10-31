@@ -49,6 +49,8 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Άνοιγμα πλαισίου μηνυμάτων εγκατάστασης προσθέτων
 urlbar-tip-help-icon =
     .title = Λάβετε βοήθεια
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Έχετε αποκλείσει την επίμονη αποθήκευση για αυτή την ιστοσελίδα.
 
 ## Page Action Context Menu
 
