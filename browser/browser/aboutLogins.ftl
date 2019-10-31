@@ -75,6 +75,7 @@ login-intro-description = Als u uw aanmeldgegevens bij { -brand-product-name } o
 login-intro-instruction-fxa = Maak op het apparaat waarop uw aanmeldgegevens staan een { -fxaccount-brand-name } of meld u aan
 login-intro-instruction-fxa-settings = Zorg ervoor dat u het veld Aanmeldingen in de instellingen van { -sync-brand-short-name } hebt aangevinkt
 about-logins-intro-instruction-help = Bezoek <a data-l10n-name="help-link">Ondersteuning voor { -lockwise-brand-short-name }</a> voor meer hulp
+about-logins-intro-import = Als uw aanmeldingen in een andere browser worden opgeslagen, kunt u <a data-l10n-name="import-link">ze importeren in { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -110,11 +111,8 @@ master-password-reload-button =
     .label = Aanmelden
     .accesskey = A
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Annuleren
-confirmation-dialog-dismiss-button =
-    .title = Annuleren
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Wilt u uw aanmeldingen overal waar u { -brand-product-name } gebruikt? Ga naar de opties van { -sync-brand-short-name } en vink het veld Aanmeldingen aan.
@@ -127,6 +125,15 @@ enable-password-sync-preferences-button =
            *[other] { -sync-brand-short-name }-voorkeuren bekijken
         }
     .accesskey = b
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Dit niet meer vragen
+    .accesskey = D
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Annuleren
+confirmation-dialog-dismiss-button =
+    .title = Annuleren
 confirm-delete-dialog-title = Deze aanmelding verwijderen?
 confirm-delete-dialog-message = Deze actie kan niet ongedaan worden gemaakt.
 confirm-delete-dialog-confirm-button = Verwijderen
