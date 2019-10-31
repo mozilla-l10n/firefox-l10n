@@ -49,6 +49,18 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Abrir painel de mensagem de instalação de extra
 urlbar-tip-help-icon =
     .title = Obter ajuda
+urlbar-geolocation-blocked =
+    .tooltiptext = Bloqueou a informação de localização para este website.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Bloqueou as notificações para este website.
+urlbar-camera-blocked =
+    .tooltiptext = Bloqueou a sua câmara para este website.
+urlbar-microphone-blocked =
+    .tooltiptext = Bloqueou o seu microfone para este website.
+urlbar-screen-blocked =
+    .tooltiptext = Bloqueou este website de partilhar o seu ecrã.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Bloqueou o armazenamento de dados para este website.
 
 ## Page Action Context Menu
 
