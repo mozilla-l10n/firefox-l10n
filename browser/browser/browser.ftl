@@ -49,6 +49,16 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Afficher le message d’installation du module complémentaire
 urlbar-tip-help-icon =
     .title = Obtenir de l’aide
+urlbar-geolocation-blocked =
+    .tooltiptext = Vous avez empêché ce site d’accéder à vos données de géolocalisation.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Vous avez empêché ce site d’envoyer des notifications.
+urlbar-camera-blocked =
+    .tooltiptext = Vous avez empêché ce site d’accéder à votre caméra.
+urlbar-microphone-blocked =
+    .tooltiptext = Vous avez empêché ce site d’accéder à votre microphone.
+urlbar-screen-blocked =
+    .tooltiptext = Vous avez empêché ce site de partager votre écran.
 
 ## Page Action Context Menu
 
