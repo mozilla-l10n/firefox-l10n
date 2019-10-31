@@ -49,6 +49,16 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Öppna meddelandepanel för tilläggsinstallation
 urlbar-tip-help-icon =
     .title = Få hjälp
+urlbar-geolocation-blocked =
+    .tooltiptext = Du har blockerat platsinformation för denna webbplats.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Du har blockerat notifieringar för denna webbsida.
+urlbar-camera-blocked =
+    .tooltiptext = Du har blockerat din kamera för denna webbsida.
+urlbar-microphone-blocked =
+    .tooltiptext = Du har blockerat din mikrofon för denna webbsida.
+urlbar-screen-blocked =
+    .tooltiptext = Du har blockerat denna webbsida från att få dela din skärm
 
 ## Page Action Context Menu
 
