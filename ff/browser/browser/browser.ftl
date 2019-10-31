@@ -45,6 +45,18 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Mooftu keɓe e Ndesgu Duumiingu
 urlbar-addons-notification-anchor =
     .tooltiptext = Uddit ɗaldugal ɓatakuure aafirgal ɓeyditte
+urlbar-geolocation-blocked =
+    .tooltiptext = A daaƴii humpito nokkuure e ndee lowre.
+urlbar-web-notifications-blocked =
+    .tooltiptext = A daaƴii tintine e ndee lowre.
+urlbar-camera-blocked =
+    .tooltiptext = A daaƴii kameraa maa e ndee lowre.
+urlbar-microphone-blocked =
+    .tooltiptext = A daaƴii mikoroo maa e ndee lowre.
+urlbar-screen-blocked =
+    .tooltiptext = A daaƴii ndee lowre e lollingol yaynirde maa.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = A daaƴii ndesgu duumiingu e ndee lowre.
 
 ## Page Action Context Menu
 
