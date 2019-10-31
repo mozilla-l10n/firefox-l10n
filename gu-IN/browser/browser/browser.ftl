@@ -47,6 +47,16 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = સ્થાયી સંગ્રહમાં ડેટા સંગ્રહ કરો
 urlbar-addons-notification-anchor =
     .tooltiptext = ઍડ-ઑન ઇન્સ્ટોલેશન મેસેજ પેનલ ખોલો
+urlbar-geolocation-blocked =
+    .tooltiptext = તમે આ વેબસાઇટ માટે સ્થાન માહિતી અવરોધિત કરી છે.
+urlbar-web-notifications-blocked =
+    .tooltiptext = તમે આ વેબસાઇટ માટે સૂચનાઓ અવરોધિત કર્યા છે.
+urlbar-screen-blocked =
+    .tooltiptext = તમે તમારી સ્ક્રીન શેર આ વેબસાઇટ અવરોધિત કર્યા છે.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = તમે આ વેબસાઇટ માટે સતત સંગ્રહ અવરોધિત કર્યા છે.
+urlbar-popup-blocked =
+    .tooltiptext = તમે આ વેબસાઇટ માટે પોપ-અપ્સને અવરોધિત કર્યા છે.
 
 ## Page Action Context Menu
 
