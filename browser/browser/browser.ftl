@@ -49,10 +49,26 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Άνοιγμα πλαισίου μηνυμάτων εγκατάστασης προσθέτων
 urlbar-tip-help-icon =
     .title = Λάβετε βοήθεια
+urlbar-geolocation-blocked =
+    .tooltiptext = Έχετε αποκλείσει τις πληροφορίες τοποθεσίας για αυτή την ιστοσελίδα.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Έχετε αποκλείσει τις ειδοποιήσεις για αυτή την ιστοσελίδα.
+urlbar-camera-blocked =
+    .tooltiptext = Έχετε αποκλείσει την κάμερά σας για αυτή την ιστοσελίδα.
+urlbar-microphone-blocked =
+    .tooltiptext = Έχετε αποκλείσει το μικρόφωνό σας για αυτή την ιστοσελίδα.
 urlbar-screen-blocked =
     .tooltiptext = Έχετε αποκλείσει τον ιστοτόπο από το μοίρασμα της οθόνης σας.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Έχετε αποκλείσει την επίμονη αποθήκευση για αυτή την ιστοσελίδα.
+urlbar-popup-blocked =
+    .tooltiptext = Έχετε αποκλείσει τα αναδυόμενα παράθυρα για αυτή την ιστοσελίδα.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Έχετε αποκλείσει πολυμέσα αυτόματης αναπαραγωγής για αυτή την ιστοσελίδα.
+urlbar-canvas-blocked =
+    .tooltiptext = Έχετε αποκλείσει την εξαγωγή δεδομένων καμβά για αυτή την ιστοσελίδα.
+urlbar-midi-blocked =
+    .tooltiptext = Έχετε αποκλείσει την πρόσβαση MIDI για αυτή την ιστοσελίδα.
 
 ## Page Action Context Menu
 
