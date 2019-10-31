@@ -51,12 +51,18 @@ urlbar-tip-help-icon =
     .title = Дапамога
 urlbar-geolocation-blocked =
     .tooltiptext = Вы заблакавалі звесткі аб месцазнаходжанні для гэтага вэб-сайта.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Вы заблакавалі абвесткі з гэтага вэб-сайта.
 urlbar-camera-blocked =
     .tooltiptext = Вы заблакавалі сваю камеру на гэтым вэб-сайце.
 urlbar-microphone-blocked =
     .tooltiptext = Вы заблакавалі свой мікрафон на гэтым вэб-сайце.
 urlbar-screen-blocked =
     .tooltiptext = Вы заблакавалі гэтаму вэб-сайту магчымасць бачыць ваш экран.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Вы заблакавалі аўтапрайграванне медый з гукам на гэтым вэб-сайце.
+urlbar-install-blocked =
+    .tooltiptext = Вы заблакавалі ўсталяванне дадаткаў з гэтага вэб-сайта.
 
 ## Page Action Context Menu
 
