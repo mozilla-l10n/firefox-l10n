@@ -59,6 +59,16 @@ urlbar-screen-blocked =
     .tooltiptext = لقد حجبت هذا الموقع من مشاركة شاشتك.
 urlbar-persistent-storage-blocked =
     .tooltiptext = لقد حجبت الحفظ الدائم للبيانات عن هذا الموقع.
+urlbar-popup-blocked =
+    .tooltiptext = لقد حجبت المنبثقات من هذا الموقع.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = لقد حجبت تشغيل الوسائط التي تحتوي صوتا تلقائيا في هذا الموقع.
+urlbar-canvas-blocked =
+    .tooltiptext = لقد منعت استخراج بيانات رقعة الرسم في هذا الموقع.
+urlbar-midi-blocked =
+    .tooltiptext = لقد حجبنا عن هذا الموقع الوصول إلى MIDI.
+urlbar-install-blocked =
+    .tooltiptext = حجبت تثبيت الإضافات في هذا الموقع.
 
 ## Page Action Context Menu
 
