@@ -68,7 +68,7 @@ urlbar-autoplay-media-blocked =
 urlbar-canvas-blocked =
     .tooltiptext = חסמת חילוץ נתוני משטחי ציור עבור אתר זה.
 urlbar-midi-blocked =
-    .tooltiptext = חסמת גישת MIDI לאתר זה.
+    .tooltiptext = חסמת גישת MIDI עבור אתר זה.
 urlbar-install-blocked =
     .tooltiptext = חסמת התקנת תוספות עבור אתר זה.
 
