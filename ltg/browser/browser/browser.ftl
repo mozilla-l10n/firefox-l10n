@@ -47,6 +47,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Globōt datus pastōveigā krōtuvē
 urlbar-addons-notification-anchor =
     .tooltiptext = Attaiseit papyldynuojumu instaliešonys ziņuojumu paneli
+urlbar-web-notifications-blocked =
+    .tooltiptext = Paziņuojumu sajimšona nu ituos lopys ir blokeita.
+urlbar-screen-blocked =
+    .tooltiptext = Ekrana kūplītuošona ar itū lopu ir blokeita.
 
 ## Page Action Context Menu
 
