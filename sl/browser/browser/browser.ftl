@@ -47,6 +47,16 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Shrani podatke v trajni shrambi
 urlbar-addons-notification-anchor =
     .tooltiptext = Odpri ploščo s sporočili o namestitvah dodatkov
+urlbar-geolocation-blocked =
+    .tooltiptext = Za to stran ste zavrnili uporabo podatkov o lokaciji.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Za to stran ste zavrnili prikaz obvestil.
+urlbar-camera-blocked =
+    .tooltiptext = Za to stran ste zavrnili uporabo kamere.
+urlbar-microphone-blocked =
+    .tooltiptext = Za to stran ste zavrnili uporabo mikrofona.
+urlbar-screen-blocked =
+    .tooltiptext = Za to stran ste zavrnili deljenje zaslona.
 urlbar-midi-blocked =
     .tooltiptext = Za to stran ste zavrnili uporabo MIDI.
 
