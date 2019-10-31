@@ -49,6 +49,28 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Berjochtepaniel foar add-on-ynstallaasje iepenje
 urlbar-tip-help-icon =
     .title = Help krije
+urlbar-geolocation-blocked =
+    .tooltiptext = Jo hawwe jo lokaasjeynformaasje foar dizze website blokkearre.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Jo hawwe notifikaasjes foar dizze website blokkearre.
+urlbar-camera-blocked =
+    .tooltiptext = Jo hawwe jo kamera foar dizze website blokkearre.
+urlbar-microphone-blocked =
+    .tooltiptext = Jo hawwe jo mikrofoan foar dizze website blokkearre.
+urlbar-screen-blocked =
+    .tooltiptext = Jo hawwe jo it dielen fan jo skerm foar dizze website blokkearre.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Jo hawwe permaninte opslach foar dizze website blokkearre.
+urlbar-popup-blocked =
+    .tooltiptext = Jo hawwe pop-ups foar dizze website blokkearre.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Jo hawwe automatysk ôfspylje foar dizze website blokkearre.
+urlbar-canvas-blocked =
+    .tooltiptext = Jo hawwe canvas-gegevensekstraksje foar dizze website blokkearre.
+urlbar-midi-blocked =
+    .tooltiptext = Jo hawwe MIDI foar dizze website blokkearre.
+urlbar-install-blocked =
+    .tooltiptext = Jo hawwe ynstallaasje fan add-ons foar dizze website blokkearre.
 
 ## Page Action Context Menu
 
