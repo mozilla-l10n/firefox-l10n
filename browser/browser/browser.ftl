@@ -49,6 +49,22 @@ urlbar-addons-notification-anchor =
     .tooltiptext = დამატების ჩადგმის შეტყობინების არის გახსნა
 urlbar-tip-help-icon =
     .title = დახმარების მიღება
+urlbar-geolocation-blocked =
+    .tooltiptext = ამ საიტისთვის თქვენს მდებარეობაზე წვდომა შეზღუდული გაქვთ.
+urlbar-web-notifications-blocked =
+    .tooltiptext = ამ საიტისთვის შეტყობინებების ჩვენების უფლება შეზღუდული გაქვთ.
+urlbar-camera-blocked =
+    .tooltiptext = ამ საიტისთვის თქვენი კამერის გამოყენების უფლება შეზღუდული გაქვთ.
+urlbar-microphone-blocked =
+    .tooltiptext = ამ საიტისთვის თქვენი მიკროფონის გამოყენების უფლება შეზღუდული გაქვთ.
+urlbar-screen-blocked =
+    .tooltiptext = ამ საიტისთვის თქვენი ეკრანის გაზიარების უფლება შეზღუდული გაქვთ.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = ამ საიტისთვის, მუდმივ მეხსიერებასთან წვდომა შეზღუდული გაქვთ.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = ამ საიტისთვის მედიაფაილების თვითგაშვების უფლება შეზღუდული გაქვთ.
+urlbar-midi-blocked =
+    .tooltiptext = ამ საიტისთვის MIDI წვდომის უფლება შეზღუდული გაქვთ.
 
 ## Page Action Context Menu
 
