@@ -4,6 +4,7 @@
 
 <!ENTITY pref.toolbars.title    "Barras de instrumentos">
 
+<!ENTITY composition.caption    "Monstra iste buttones in le Barra del instrumentos de composition:">
 
 <!ENTITY new.label              "Nove">
 <!ENTITY open.label             "Aperir">
@@ -21,6 +22,7 @@
 <!ENTITY link.label             "Ligamine">
 <!ENTITY anchor.label           "Ancora">
 
+<!ENTITY formatting.caption     "Monstra iste buttones in le Barra del instrumentos de formattation:">
 
 <!ENTITY smaller.label          "Plus micre">
 <!ENTITY larger.label           "Plus grande">
