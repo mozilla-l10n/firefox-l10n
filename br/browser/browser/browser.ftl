@@ -49,6 +49,18 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Digeriñ penel kemennadenn staliadur an askouezh
 urlbar-tip-help-icon =
     .title = Kaout skoazell
+urlbar-geolocation-blocked =
+    .tooltiptext = Stanket ho peus an titouroù lec'hiadur evit al lec'hienn-mañ.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Stanket ho peus ar rebuzadurioù evit al lec'hienn-mañ.
+urlbar-camera-blocked =
+    .tooltiptext = Stanket ho peus ho kamera evit al lec'hienn-mañ.
+urlbar-microphone-blocked =
+    .tooltiptext = Stanket ho peus ho mikrofon evit al lec'hienn-mañ.
+urlbar-screen-blocked =
+    .tooltiptext = Difennet ho peus al lec'hienn-mañ da rannañ ho skramm.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Stanket ho peus ar c'hadaviñ diastal evit al lec'hienn-mañ.
 
 ## Page Action Context Menu
 
