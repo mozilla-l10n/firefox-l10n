@@ -47,6 +47,14 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Stochează date în stocarea persistentă
 urlbar-addons-notification-anchor =
     .tooltiptext = Deschide panoul cu mesaje privind instalarea de suplimente
+urlbar-web-notifications-blocked =
+    .tooltiptext = Ai blocat notificările pentru acest site web.
+urlbar-camera-blocked =
+    .tooltiptext = Ai blocat camera pentru acest site web.
+urlbar-microphone-blocked =
+    .tooltiptext = Ai blocat microfonul pentru acest site web.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Ai blocat stocarea persistentă de date pentru acest site web.
 
 ## Page Action Context Menu
 
