@@ -79,6 +79,7 @@ login-intro-description = Os gwnaethoch gadw eich mewngofnodion i { -brand-produ
 login-intro-instruction-fxa = Creu neu fewngofnodi i'ch { -fxaccount-brand-name } ar y ddyfais lle mae'ch mewngofnodion yn cael eu cadw
 login-intro-instruction-fxa-settings = Sicrhewch eich bod wedi dewis y blwch gwirio Mewngofnodion yng Ngosodiadau { -sync-brand-short-name }
 about-logins-intro-instruction-help = Ewch i <a data-l10n-name="help-link"> Cefnogaeth { -lockwise-brand-short-name }</a> i gael rhagor o gymorth
+about-logins-intro-import = Os yw eich mewngofnodion yn cael eu cadw mewn porwr arall, gallwch <a data-l10n-name="import-link">eu mewnforio i { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -114,11 +115,8 @@ master-password-reload-button =
     .label = Mewngofnodi
     .accesskey = M
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Diddymu
-confirmation-dialog-dismiss-button =
-    .title = Diddymu
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Eisiau eich mewngofnodion ym mhobman rydych chi'n defnyddio { -brand-product-name }? Ewch i Ddewisiadau { -sync-brand-short-name } a dewiswch y blwch gwirio Mewngofnodi.
@@ -131,6 +129,15 @@ enable-password-sync-preferences-button =
            *[other] Ewch i { -sync-brand-short-name } Dewisiadau
         }
     .accesskey = E
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Peidiwch gofyn i mi eto
+    .accesskey = g
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Diddymu
+confirmation-dialog-dismiss-button =
+    .title = Diddymu
 confirm-delete-dialog-title = Dileu'r mewngofnod hwn?
 confirm-delete-dialog-message = Nid oes modd dadwneud y weithred hon.
 confirm-delete-dialog-confirm-button = Dileu
