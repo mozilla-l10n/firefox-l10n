@@ -49,6 +49,18 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Open add-on installation message panel
 urlbar-tip-help-icon =
     .title = Get help
+urlbar-geolocation-blocked =
+    .tooltiptext = You have blocked location information for this web site.
+urlbar-web-notifications-blocked =
+    .tooltiptext = You have blocked notifications for this web site.
+urlbar-camera-blocked =
+    .tooltiptext = You have blocked your camera for this web site.
+urlbar-microphone-blocked =
+    .tooltiptext = You have blocked your microphone for this web site.
+urlbar-screen-blocked =
+    .tooltiptext = You have blocked this web site from sharing your screen.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = You have blocked persistent storage for this web site.
 
 ## Page Action Context Menu
 
