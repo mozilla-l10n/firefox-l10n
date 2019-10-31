@@ -57,6 +57,10 @@ urlbar-microphone-blocked =
     .tooltiptext = Vi blokis vian mikrofonon por tiu ĉi retejo.
 urlbar-screen-blocked =
     .tooltiptext = Vi blokis dividon de la ekrano por tiu retejo.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Vi blokis la daŭran konservejon por ĉi tiu retejo.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Vi blokis aŭtomatan ludadon de sono por tiu ĉi retejo.
 urlbar-install-blocked =
     .tooltiptext = Vi blokis la instalon de aldonaĵoj por tiu ĉi retejo.
 
