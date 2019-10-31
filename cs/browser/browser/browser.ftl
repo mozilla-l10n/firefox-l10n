@@ -49,6 +49,28 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Otevřít panel zpráv instalace doplňku
 urlbar-tip-help-icon =
     .title = Získat pomoc
+urlbar-geolocation-blocked =
+    .tooltiptext = Tomuto serveru jste zablokovali zjišťovat vaši polohu.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Tomuto serveru jste zablokovali zobrazovat oznámení.
+urlbar-camera-blocked =
+    .tooltiptext = Tomuto serveru jste zablokovali přístup k vaší kameře.
+urlbar-microphone-blocked =
+    .tooltiptext = Tomuto serveru jste zablokovali přístup k vašemu mikrofonu.
+urlbar-screen-blocked =
+    .tooltiptext = Tomuto serveru jste zablokovali sdílení vaší obrazovky.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Tomuto serveru jste zablokovali ukládání dat natrvalo.
+urlbar-popup-blocked =
+    .tooltiptext = Tomuto serveru jste zablokovali otevírání vyskakovacích oken.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Pro tento server jste zablokovali automatické přehrávání médií se zvukem.
+urlbar-canvas-blocked =
+    .tooltiptext = Tomuto serveru jste zablokovali přístup k informacím canvasu.
+urlbar-midi-blocked =
+    .tooltiptext = Tomuto serveru jste zablokovali přístup k MIDI zařízením.
+urlbar-install-blocked =
+    .tooltiptext = Tomuto serveru jste zablokovali instalaci doplňků.
 
 ## Page Action Context Menu
 
