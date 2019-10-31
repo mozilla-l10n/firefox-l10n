@@ -47,6 +47,16 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Складишти податке у трајном складишту
 urlbar-addons-notification-anchor =
     .tooltiptext = Отвори панел са инсталацијом додатака
+urlbar-geolocation-blocked =
+    .tooltiptext = Блокирали сте локацију за овај веб сајт.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Блокирали сте обавештења за овај веб сајт.
+urlbar-camera-blocked =
+    .tooltiptext = Блокирали сте камеру за овај веб сајт.
+urlbar-microphone-blocked =
+    .tooltiptext = Блокирали сте микрофон за овај веб сајт.
+urlbar-screen-blocked =
+    .tooltiptext = Блокирали сте дељење екрана за овај веб сајт.
 
 ## Page Action Context Menu
 
