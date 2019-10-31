@@ -57,12 +57,16 @@ urlbar-microphone-blocked =
     .tooltiptext = Anda telah memblokir mikrofon Anda untuk situs web ini.
 urlbar-screen-blocked =
     .tooltiptext = Anda telah memblokir situs ini untuk berbagi layar Anda.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Anda telah memblokir penyimpanan tetap untuk situs web ini.
 urlbar-popup-blocked =
     .tooltiptext = Anda telah memblokir pop-up untuk situs web ini.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Anda telah memblokir media putar-otomatis dengan suara untuk situs web ini.
 urlbar-canvas-blocked =
     .tooltiptext = Anda telah memblokir ekstraksi data canvas untuk situs web ini.
+urlbar-midi-blocked =
+    .tooltiptext = Anda telah memblokir akses MIDI untuk situs web ini.
 urlbar-install-blocked =
     .tooltiptext = Anda telah memblokir pemasangan pengaya untuk situs Web ini.
 
