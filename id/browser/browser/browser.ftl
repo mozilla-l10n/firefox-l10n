@@ -51,8 +51,12 @@ urlbar-screen-blocked =
     .tooltiptext = Anda telah memblokir situs ini untuk berbagi layar Anda.
 urlbar-popup-blocked =
     .tooltiptext = Anda telah memblokir pop-up untuk situs web ini.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Anda telah memblokir media putar-otomatis dengan suara untuk situs web ini.
 urlbar-canvas-blocked =
     .tooltiptext = Anda telah memblokir ekstraksi data canvas untuk situs web ini.
+urlbar-install-blocked =
+    .tooltiptext = Anda telah memblokir pemasangan pengaya untuk situs Web ini.
 
 ## Page Action Context Menu
 
