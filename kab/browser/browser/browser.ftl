@@ -49,6 +49,8 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Ldi agalis n yizen i usebded n uzegrir
 urlbar-tip-help-icon =
     .title = Awi tallelt
+urlbar-screen-blocked =
+    .tooltiptext = Tesweḥleḍ asmelweb-a seg beṭṭu n ugdil-inek.
 
 ## Page Action Context Menu
 
