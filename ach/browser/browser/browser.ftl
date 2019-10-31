@@ -39,6 +39,16 @@ urlbar-autoplay-notification-anchor =
     .tooltiptext = Yab dirica me tuko pire kene
 urlbar-addons-notification-anchor =
     .tooltiptext = Yab dirica me kwena pi keto med-ikome
+urlbar-geolocation-blocked =
+    .tooltiptext = Igengo woko ngec me kabedo pi kakube man.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Igengo woko jami angeya pi kakube man.
+urlbar-camera-blocked =
+    .tooltiptext = Igengo woko lamak cal mamegi pi kakube man.
+urlbar-microphone-blocked =
+    .tooltiptext = Igengo woko mikropon mamegi pi kakube man.
+urlbar-screen-blocked =
+    .tooltiptext = Igengo woko kakube man me nywako wang kio mamegi
 
 ## Page Action Context Menu
 
