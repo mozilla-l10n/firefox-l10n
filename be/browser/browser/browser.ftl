@@ -61,8 +61,14 @@ urlbar-screen-blocked =
     .tooltiptext = Вы заблакавалі гэтаму вэб-сайту магчымасць бачыць ваш экран.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Вы заблакавалі захоўванне звестак для гэтага вэб-сайта.
+urlbar-popup-blocked =
+    .tooltiptext = Вы заблакавалі выплыўныя вокны для гэтага вэб-сайта.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Вы заблакавалі аўтапрайграванне медый з гукам на гэтым вэб-сайце.
+urlbar-canvas-blocked =
+    .tooltiptext = Вы заблакавалі выманне дадзеных canvas для гэтага вэб-сайта.
+urlbar-midi-blocked =
+    .tooltiptext = Вы заблакавалі MIDI доступ для гэтага вэб-сайта.
 urlbar-install-blocked =
     .tooltiptext = Вы заблакавалі ўсталяванне дадаткаў з гэтага вэб-сайта.
 
