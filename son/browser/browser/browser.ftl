@@ -37,6 +37,18 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Bayhayey jiši jišiyan duumante ra
 urlbar-addons-notification-anchor =
     .tooltiptext = Tontoni sinjiyan alhabar fasaldoo feeri
+urlbar-geolocation-blocked =
+    .tooltiptext = War na gorodoo alhabar gagay interneti nungoo woo se.
+urlbar-web-notifications-blocked =
+    .tooltiptext = War na bangandiyaney gagay interneti nungoo woo se.
+urlbar-camera-blocked =
+    .tooltiptext = War na war biizaahayaa gagay interneti nungoo woo se.
+urlbar-microphone-blocked =
+    .tooltiptext = War na war mikrowoo gagay interneti nungoo woo se.
+urlbar-screen-blocked =
+    .tooltiptext = War na interneti nungoo woo gagay nd'a ma war dijoo zemni.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = War na bayhaya jišiyan duumante gagay interneti nungoo woo se.
 
 ## Page Action Context Menu
 
