@@ -13,6 +13,10 @@ urlbar-translate-notification-anchor =
     .tooltiptext = Borta custa pàgina
 urlbar-translated-notification-anchor =
     .tooltiptext = Manìgia sa tradutzione de sa pàgina
+urlbar-camera-blocked =
+    .tooltiptext = As blocadu sa càmera pro custu situ.
+urlbar-microphone-blocked =
+    .tooltiptext = As blocadu su micròfonu pro custu situ.
 
 ## Page Action Context Menu
 
