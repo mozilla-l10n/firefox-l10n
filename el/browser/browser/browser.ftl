@@ -69,6 +69,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Έχετε αποκλείσει την εξαγωγή δεδομένων καμβά για αυτή την ιστοσελίδα.
 urlbar-midi-blocked =
     .tooltiptext = Έχετε αποκλείσει την πρόσβαση MIDI για αυτή την ιστοσελίδα.
+urlbar-install-blocked =
+    .tooltiptext = Έχετε αποκλείσει την εγκατάσταση προσθέτων για αυτή την ιστοσελίδα.
 
 ## Page Action Context Menu
 
