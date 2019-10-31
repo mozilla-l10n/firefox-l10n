@@ -49,6 +49,8 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Buksan ang add-on intallation message panel
 urlbar-tip-help-icon =
     .title = Humingi ng tulong
+urlbar-canvas-blocked =
+    .tooltiptext = Na-block mo ang data extraction ng canvas para sa website na ito.
 
 ## Page Action Context Menu
 
