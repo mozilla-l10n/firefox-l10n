@@ -8,6 +8,8 @@
 
 <!ENTITY setDefaultButton.label "Stabilir como predeterminate">
 <!ENTITY setDefaultButton.accesskey "P">
+<!ENTITY removeButton.label "Remover le conto">
+<!ENTITY removeButton.accesskey "R">
 
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
