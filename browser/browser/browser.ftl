@@ -61,6 +61,16 @@ urlbar-screen-blocked =
     .tooltiptext = Bloqueou este website de partilhar o seu ecrã.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Bloqueou o armazenamento de dados para este website.
+urlbar-popup-blocked =
+    .tooltiptext = Bloqueou pop-ups para este website.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Bloqueou a reprodução automática de multimédia para este website.
+urlbar-canvas-blocked =
+    .tooltiptext = Bloqueou a extração de dados da tela para este website.
+urlbar-midi-blocked =
+    .tooltiptext = Bloqueou o acesso MIDI para este website.
+urlbar-install-blocked =
+    .tooltiptext = Bloqueou a instalação de extras para este website.
 
 ## Page Action Context Menu
 
