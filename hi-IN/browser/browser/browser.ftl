@@ -61,6 +61,10 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = आपने इस वेबसाइट के लिए सतत संग्रहण को अवरुद्ध किया है.
 urlbar-popup-blocked =
     .tooltiptext = आपने इस वेबसाइट पर पॉप-अप अवरुद्ध किए हैं.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = आपने इस वेबसाइट के लिए धवनी के साथ ऑटोप्ले मीडिया को अवरुद्ध कर दिया है.
+urlbar-midi-blocked =
+    .tooltiptext = आपने इस वेबसाइट के लिए MIDI उपयोग अवरुद्ध कर दिया है.
 
 ## Page Action Context Menu
 
