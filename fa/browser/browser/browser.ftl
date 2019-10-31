@@ -67,6 +67,8 @@ urlbar-autoplay-media-blocked =
     .tooltiptext = شما پخش خودکار رسانه صدا را برای این پایگاه اینترنتی مسدود کرده‌اید.
 urlbar-canvas-blocked =
     .tooltiptext = شما بوم‌های استراخ شده‌ای از این وب سایت دادرید که مسدود شده‌‌اند.
+urlbar-midi-blocked =
+    .tooltiptext = شما دسترسی این وب‌سایت به MIDI را مسدود کرده‌اید.
 
 ## Page Action Context Menu
 
