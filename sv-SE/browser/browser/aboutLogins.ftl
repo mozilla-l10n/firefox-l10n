@@ -126,7 +126,7 @@ enable-password-sync-preferences-button =
     .accesskey = B
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Fråga mig inte igen
-    .accesskey = D
+    .accesskey = F
 
 ## Dialogs
 
