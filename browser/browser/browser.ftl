@@ -59,6 +59,8 @@ urlbar-screen-blocked =
     .tooltiptext = आपने अपने स्क्रीन को साझा करने से इस वेबसाइट को अवरूद्ध किया हैं.
 urlbar-persistent-storage-blocked =
     .tooltiptext = आपने इस वेबसाइट के लिए सतत संग्रहण को अवरुद्ध किया है.
+urlbar-popup-blocked =
+    .tooltiptext = आपने इस वेबसाइट पर पॉप-अप अवरुद्ध किए हैं.
 
 ## Page Action Context Menu
 
