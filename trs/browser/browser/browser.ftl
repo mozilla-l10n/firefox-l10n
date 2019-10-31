@@ -49,8 +49,26 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Na'nïn' riña ma nugua'an da' ga'ni' sa ni'iaj nichro' doj
 urlbar-tip-help-icon =
     .title = Nana'uì' sa rugûñu'ūnj sò'
+urlbar-geolocation-blocked =
+    .tooltiptext = Gi'iaj blokeandot dara' nuguan'an guenda sitio web na.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Gi'iaj blokeandot da' si nahuin ra'àt nuguan'an guenda sitio web na.
+urlbar-camera-blocked =
+    .tooltiptext = Gi'iaj blokeandot si kamarat guenda sitio web na.
+urlbar-microphone-blocked =
+    .tooltiptext = Gi'iaj blokeandot sa uxun nanèe guenda sitio web na.
+urlbar-screen-blocked =
+    .tooltiptext = Gi'iaj blokeandot da' ni si gini'iaj nej dugui' a'ngo hiuj u riña du'ua si aga't.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Gi'iaj blokeandot da' si nachrá sa' nuguan'an guenda sitio web na.
 urlbar-popup-blocked =
     .tooltiptext = Gi'iaj blokeandot nej pop-ups guenda sitio web na.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Gi'iaj blokeandot sa uxun nanèe guenda sitio web na.
+urlbar-canvas-blocked =
+    .tooltiptext = Gi'iaj blokeandot da' si gida'à nej dugui' datos canva guenda sitio web na.
+urlbar-midi-blocked =
+    .tooltiptext = Gi'iaj blokeandot MIDI guenda sitio web na.
 
 ## Page Action Context Menu
 
