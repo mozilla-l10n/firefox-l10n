@@ -49,6 +49,10 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Abrir painel de mensagem de instalação de extensões
 urlbar-tip-help-icon =
     .title = Obter ajuda
+urlbar-popup-blocked =
+    .tooltiptext = Você bloqueou pop-ups para esse site.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Você bloqueou a reprodução automática de mídia com som para esse site.
 
 ## Page Action Context Menu
 
