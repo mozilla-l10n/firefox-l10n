@@ -887,7 +887,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "ຍິນດີຕ້ອນຮັບສູ່ &brandShortName;">
-<!ENTITY activity_stream_signin_description "ເລີ່ມການ Sync ຂໍ້ມູນບືກມາກ, ລະຫັດຜ່ານ ແລະ ອື່ນໆດ້ວຍບັນຊີ Firefox ຂອງທ່ານ.">
+<!ENTITY activity_stream_signin_description "ເລີ່ມການ Sync ຂໍ້ມູນບຸກມາກ, ລະຫັດຜ່ານ ແລະ ອື່ນໆດ້ວຍບັນຊີ Firefox ຂອງທ່ານ.">
 <!ENTITY activity_stream_signup_button "ລົງ​ທະ​ບຽນ">
 <!ENTITY activity_stream_signin_prompt "ມີບັນຊີຢູ່ແລ້ວບໍ່?">
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
