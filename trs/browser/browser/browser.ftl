@@ -49,6 +49,8 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Na'nïn' riña ma nugua'an da' ga'ni' sa ni'iaj nichro' doj
 urlbar-tip-help-icon =
     .title = Nana'uì' sa rugûñu'ūnj sò'
+urlbar-popup-blocked =
+    .tooltiptext = Gi'iaj blokeandot nej pop-ups guenda sitio web na.
 
 ## Page Action Context Menu
 
