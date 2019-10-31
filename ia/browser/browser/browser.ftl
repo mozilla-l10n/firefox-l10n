@@ -65,6 +65,12 @@ urlbar-popup-blocked =
     .tooltiptext = Tu ha blocate le fenestras emergente pro iste sito web.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Tu ha blocate le reproduction automatic de contento multimedia con sono pro iste sito web.
+urlbar-canvas-blocked =
+    .tooltiptext = Tu ha blocate le extraction de datos de canevas pro iste sito web.
+urlbar-midi-blocked =
+    .tooltiptext = Tu ha blocate le accesso MIDI pro iste sito web.
+urlbar-install-blocked =
+    .tooltiptext = Tu ha blocate le accesso al installation de additivos pro iste sito web.
 
 ## Page Action Context Menu
 
