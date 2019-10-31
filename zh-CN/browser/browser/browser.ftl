@@ -49,6 +49,8 @@ urlbar-addons-notification-anchor =
     .tooltiptext = 打开附加组件安装消息面板
 urlbar-tip-help-icon =
     .title = 获取帮助
+urlbar-canvas-blocked =
+    .tooltiptext = 您已禁止此网站获取 Canvas 数据。
 
 ## Page Action Context Menu
 
