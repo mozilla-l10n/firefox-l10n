@@ -47,20 +47,28 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Stochează date în stocarea persistentă
 urlbar-addons-notification-anchor =
     .tooltiptext = Deschide panoul cu mesaje privind instalarea de suplimente
+urlbar-geolocation-blocked =
+    .tooltiptext = Ai blocat informațiile despre locație pentru acest site web.
 urlbar-web-notifications-blocked =
     .tooltiptext = Ai blocat notificările pentru acest site web.
 urlbar-camera-blocked =
     .tooltiptext = Ai blocat camera pentru acest site web.
 urlbar-microphone-blocked =
     .tooltiptext = Ai blocat microfonul pentru acest site web.
+urlbar-screen-blocked =
+    .tooltiptext = Ai blocat partajarea ecranului pe acest site web.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ai blocat stocarea persistentă de date pentru acest site web.
+urlbar-popup-blocked =
+    .tooltiptext = Ai blocat ferestrele pop-up pe acest site.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Ai blocat redarea automată a conținutului media cu sunet pe acest site web.
 urlbar-canvas-blocked =
     .tooltiptext = Ai blocat extragerea de date canvas pentru acest site.
 urlbar-midi-blocked =
     .tooltiptext = Ai blocat accesul MIDI pentru acest site web.
+urlbar-install-blocked =
+    .tooltiptext = Ai blocat suplimentele instalate pentru acest site web.
 
 ## Page Action Context Menu
 
