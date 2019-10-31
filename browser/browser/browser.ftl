@@ -59,6 +59,14 @@ urlbar-screen-blocked =
     .tooltiptext = このウェブサイトでの画面の共有をブロックしました。
 urlbar-persistent-storage-blocked =
     .tooltiptext = このウェブサイトの永続ストレージの使用をブロックしました。
+urlbar-popup-blocked =
+    .tooltiptext = このウェブサイトのポップアップをブロックしました。
+urlbar-autoplay-media-blocked =
+    .tooltiptext = このウェブサイトの音声付きメディアの自動再生をブロックしました。
+urlbar-canvas-blocked =
+    .tooltiptext = このウェブサイトの Canvas データの抽出をブロックしました。
+urlbar-midi-blocked =
+    .tooltiptext = このウェブサイトの MIDI へのアクセスをブロックしました。
 urlbar-install-blocked =
     .tooltiptext = このウェブサイトのアドオンのインストールをブロックしました。
 
