@@ -47,6 +47,16 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = স্থায়ী স্টোরেজের মধ্যে তথ্য সংরক্ষণ করুন
 urlbar-addons-notification-anchor =
     .tooltiptext = অ্যাড-অন ইন্সটল করার ম্যাসেজ প্যানেল খুলুন
+urlbar-geolocation-blocked =
+    .tooltiptext = আপনি এই ওয়েবসাইট থেকে আপনার অবস্থানের তথ্য ব্লক করেছেন।
+urlbar-web-notifications-blocked =
+    .tooltiptext = আপনি এই ওয়েবসাইটের ক্ষেত্রে নোটিফিকেশন ব্লক করেছেন।
+urlbar-camera-blocked =
+    .tooltiptext = আপনি এই ওয়েবসাইট থেকে আপনার ক্যামেরা ব্লক করেছেন।
+urlbar-microphone-blocked =
+    .tooltiptext = আপনি এই ওয়েবসাইট থেকে আপনার মাইক্রোফোন ব্লক করেছেন।
+urlbar-screen-blocked =
+    .tooltiptext = আপনি এই ওয়েবসাইট থেকে আপনার স্ক্রিন শেয়ার করা ব্লক করেছেন।
 
 ## Page Action Context Menu
 
