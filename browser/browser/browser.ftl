@@ -59,6 +59,18 @@ urlbar-microphone-blocked =
     .tooltiptext = Du har blokkert mikrofonen for dette nettstedet.
 urlbar-screen-blocked =
     .tooltiptext = Du har blokkert dette nettstedet fra å dele din skjerm.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Du har blokkert vedvarende lagring for denne nettsiden.
+urlbar-popup-blocked =
+    .tooltiptext = Du har blokkert sprettoppvinduer for dette nettstedet.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Du har blokkert automatisk avspilling av medier med lyd på dette nettstedet.
+urlbar-canvas-blocked =
+    .tooltiptext = Du har blokkert uttrekking av canvas-data for dette nettstedet.
+urlbar-midi-blocked =
+    .tooltiptext = Du har blokkert MIDI-tilgang for dette nettstedet.
+urlbar-install-blocked =
+    .tooltiptext = Du har blokkert installasjon av utvidelser for dette nettstedet.
 
 ## Page Action Context Menu
 
