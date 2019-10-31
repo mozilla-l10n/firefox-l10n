@@ -51,7 +51,7 @@
 <!ENTITY modelDeleteImmediately.accesskey "w">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY expungeOnExit.label "Postvak IN opruimen bij afsluiten">
-<!ENTITY expungeOnExit.accesskey "E">
+<!ENTITY expungeOnExit.accesskey "I">
 <!ENTITY emptyTrashOnExit.label "Prullenbak leegmaken bij afsluiten">
 <!ENTITY emptyTrashOnExit.accesskey "f">
 <!ENTITY loginAtStartup.label "Op nieuwe berichten controleren bij opstarten">
