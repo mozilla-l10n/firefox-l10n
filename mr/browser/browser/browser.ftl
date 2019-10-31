@@ -47,6 +47,18 @@ urlbar-addons-notification-anchor =
     .tooltiptext = अॅड-ऑन प्रतिष्ठापन संदेश फलक उघडा
 urlbar-tip-help-icon =
     .title = मदत मिळवा
+urlbar-geolocation-blocked =
+    .tooltiptext = आपण ह्या वेबसाईटसाठी स्थळाची माहिती अवरोधित केली आहे.
+urlbar-web-notifications-blocked =
+    .tooltiptext = आपण ह्या वेबसाइटसाठी सूचना अवरोधित केल्या आहे.
+urlbar-camera-blocked =
+    .tooltiptext = आपण ह्या वेबसाईटसाठी आपला कॅमेरा अवरोधित केला आहे.
+urlbar-microphone-blocked =
+    .tooltiptext = आपण ह्या वेबसाईटसाठी आपला मायक्रोफोन अवरोधित केला आहे.
+urlbar-screen-blocked =
+    .tooltiptext = ह्या वेबसाईटला आपण आपली स्क्रीन शेअर करण्यापासून अवरोधित केले आहे.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = आपण दीर्घस्थायी स्टोरेज ह्या वेबसाईटसाठी अवरोधित केला आहे.
 
 ## Page Action Context Menu
 
