@@ -61,6 +61,12 @@ urlbar-screen-blocked =
     .tooltiptext = Դուք արգելափակել եք այս կայքը՝ ձեր էկրանի համօգտագործելուց:
 urlbar-persistent-storage-blocked =
     .tooltiptext = Դուք արգելափակել եք մշտական պահեստը այս կայքի համար:
+urlbar-popup-blocked =
+    .tooltiptext = Դուք ունեք արգելափակված ելնող պատուհաններ այս կայքում:
+urlbar-canvas-blocked =
+    .tooltiptext = Դուք արգելափակել եք canvas տվյալների դուրս բերումը այս կայքի համար:
+urlbar-midi-blocked =
+    .tooltiptext = Դուք արգելափակել եք MIDI մատչումը այս կայքին:
 
 ## Page Action Context Menu
 
