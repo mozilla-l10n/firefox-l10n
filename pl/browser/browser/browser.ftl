@@ -49,6 +49,28 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Wyświetl zapytanie o instalację dodatków
 urlbar-tip-help-icon =
     .title = Pomoc
+urlbar-geolocation-blocked =
+    .tooltiptext = Udostępnianie położenia tej witrynie zostało zablokowane
+urlbar-web-notifications-blocked =
+    .tooltiptext = Powiadomienia z tej witryny zostały zablokowane
+urlbar-camera-blocked =
+    .tooltiptext = Udostępnianie kamery tej witrynie zostało zablokowane
+urlbar-microphone-blocked =
+    .tooltiptext = Udostępnianie mikrofonu tej witrynie zostało zablokowane
+urlbar-screen-blocked =
+    .tooltiptext = Udostępnianie obrazu ekranu tej witrynie zostało zablokowane
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Przechowywanie danych na komputerze przez tę witrynę zostało zablokowane
+urlbar-popup-blocked =
+    .tooltiptext = Wyskakujące okna na tej witrynie są blokowane
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Automatyczne odtwarzanie treści z dźwiękiem przez tę witrynę zostało zablokowane
+urlbar-canvas-blocked =
+    .tooltiptext = Odczytywanie danych canvas przez witrynę zostało zablokowane
+urlbar-midi-blocked =
+    .tooltiptext = Dostęp do urządzeń MIDI dla tej witryny został zablokowany
+urlbar-install-blocked =
+    .tooltiptext = Instalacja dodatków przez tę witrynę została zablokowana
 
 ## Page Action Context Menu
 
