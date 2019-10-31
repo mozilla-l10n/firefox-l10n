@@ -25,6 +25,16 @@ urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Менаџирајте го споделувањето на вашата камера и/или микрофон со ова место
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Складирани податоци во Трајно складиште
+urlbar-geolocation-blocked =
+    .tooltiptext = Го блокиравте пристапот до локациските информации за ова мрежно место.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Ги блокиравте известувањата за ова мрежно место.
+urlbar-camera-blocked =
+    .tooltiptext = Го блокиравте пристапот до камерата за ова мрежно место.
+urlbar-microphone-blocked =
+    .tooltiptext = Го блокиравте пристапот до микрофонот за ова мрежно место.
+urlbar-screen-blocked =
+    .tooltiptext = Го блокиравте споделувањето на екранот од страна на ова мрежно место.
 
 ## Page Action Context Menu
 
