@@ -69,6 +69,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Ejokoukákuri kuaapy canvas rehegua ñeguenohẽ ko ñandutirendápe g̃uarã.
 urlbar-midi-blocked =
     .tooltiptext = Ejokóma MIDI pe jeike ko ñanduti rendápe g̃uarã.
+urlbar-install-blocked =
+    .tooltiptext = Ejokóma tembipuru’i ñemohenda ko ñandutípe g̃uarã.
 
 ## Page Action Context Menu
 
