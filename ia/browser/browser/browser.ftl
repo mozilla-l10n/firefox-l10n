@@ -49,6 +49,20 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Aperir le pannello de messages de installation de additivos
 urlbar-tip-help-icon =
     .title = Obtene auxilio
+urlbar-geolocation-blocked =
+    .tooltiptext = Tu ha blocate le accesso al geolocalisation pro iste sito web.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Tu ha blocate iste sito web de inviar notificationes.
+urlbar-camera-blocked =
+    .tooltiptext = Tu ha blocate tu camera pro iste sito web.
+urlbar-microphone-blocked =
+    .tooltiptext = Tu ha blocate tu microphono pro iste sito web.
+urlbar-screen-blocked =
+    .tooltiptext = Tu ha blocate iste sito web de compartir tu schermo.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Tu ha blocate le stockage persistente pro iste sito web.
+urlbar-popup-blocked =
+    .tooltiptext = Tu ha blocate le fenestras emergente pro iste sito web.
 
 ## Page Action Context Menu
 
