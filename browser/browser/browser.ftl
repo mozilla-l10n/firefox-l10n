@@ -35,6 +35,16 @@ urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Bestuur die deel van die kamera en/of mikrofoon met die werf
 urlbar-addons-notification-anchor =
     .tooltiptext = Open paneel met boodskappe oor byvoeginginstallasie
+urlbar-geolocation-blocked =
+    .tooltiptext = U het ligginginligting geblok vir dié webwerf.
+urlbar-web-notifications-blocked =
+    .tooltiptext = U het kennisgewings geblok vir dié webwerf.
+urlbar-camera-blocked =
+    .tooltiptext = U het die kamera geblok vir dié webwerf.
+urlbar-microphone-blocked =
+    .tooltiptext = U het die mikrofoon geblok vir dié webwerf.
+urlbar-screen-blocked =
+    .tooltiptext = U het dié webwerf geblok om die skerm te deel.
 
 ## Page Action Context Menu
 
