@@ -61,6 +61,16 @@ urlbar-screen-blocked =
     .tooltiptext = Sće tutomu websydłu dźělenje swojeje wobrazowki zakazał.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Sće trajny składowak za tute websydło zablokował.
+urlbar-popup-blocked =
+    .tooltiptext = Sće wuskakowace wokna za tute websydło zablokował.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Sće awtomatiske wothraće medijow ze zynkom za tute websydło zablokował.
+urlbar-canvas-blocked =
+    .tooltiptext = Sće přistup ke canvasowym datam za tute websydło zablokował.
+urlbar-midi-blocked =
+    .tooltiptext = Sće přistup na MIDI za tute websydło zablokował.
+urlbar-install-blocked =
+    .tooltiptext = Sće instalowanje přidatkow za tute websydło zablokował.
 
 ## Page Action Context Menu
 
