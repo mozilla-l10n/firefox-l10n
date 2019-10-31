@@ -67,6 +67,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Xe'aq'ät ri kelesaxik kitzij taq peraj pa re ruxaq k'amaya'l re'.
 urlbar-midi-blocked =
     .tooltiptext = Xaq'ät ri MIDI rokem re ruxaq k'amaya'l re'.
+urlbar-install-blocked =
+    .tooltiptext = Xaq'ät kiyakik taq rutz'aqat ajk'amaya'l ruxaq re'.
 
 ## Page Action Context Menu
 
