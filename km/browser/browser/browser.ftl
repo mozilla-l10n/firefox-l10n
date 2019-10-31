@@ -41,6 +41,20 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = ផ្ទុក​ទិន្នន័យ​នៅ​ក្នុង​កន្លែង​ផ្ទុក​អចិន្ត្រៃយ៍
 urlbar-addons-notification-anchor =
     .tooltiptext = បើក​ផ្ទាំង​សារ​ដំឡើង​កម្មវិធី​ផ្នែក​បន្ថែម
+urlbar-geolocation-blocked =
+    .tooltiptext = អ្នក​បាន​បិទ​ព័ត៌មាន​អំពី​ទីតាំង​សម្រាប់​វិបសាយ​នេះ។
+urlbar-web-notifications-blocked =
+    .tooltiptext = អ្នក​បាន​បិទ​ការ​ជូនដំណឹង​សម្រាប់​វិបសាយ​នេះ។
+urlbar-camera-blocked =
+    .tooltiptext = អ្នក​បាន​បិទ​កាមេរ៉ា​របស់​អ្នក​សម្រាប់​វិបសាយ​នេះ។
+urlbar-microphone-blocked =
+    .tooltiptext = អ្នក​បាន​បិទ​មីក្រូហ្វូន​របស់​អ្នក​សម្រាប់​វិបសាយ​នេះ។
+urlbar-screen-blocked =
+    .tooltiptext = អ្នក​បាន​បិទ​វិបសាយ​នេះ​ពី​ការ​ចែករំលែក​អេក្រង់​របស់​អ្នក។
+urlbar-popup-blocked =
+    .tooltiptext = អ្នក​បាន​ទប់ស្កាត់​ផ្ទាំង​លេចឡើង​សម្រាប់​គេហទំព័រ​នេះ។
+urlbar-canvas-blocked =
+    .tooltiptext = អ្នក​បាន​ទប់ស្កាត់​ការដកទិន្នន័យ​កម្មវិធីកែ​រូបភាព​សម្រាប់​គេហទំព័រ​នេះ។
 
 ## Page Action Context Menu
 
