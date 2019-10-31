@@ -74,6 +74,7 @@ lockwise-sync-status =
 lockwise-sync-not-syncing-devices = No se está sincronizando con otros dispositivos
 monitor-title = Presta atención a las filtraciones de datos
 monitor-link = Cómo funciona
+monitor-header-content-no-account = Revisa { -monitor-brand-name } para ver si has sido parte de una filtración de datos conocida, y recibe alertas sobre nuevas filtraciones.
 monitor-header-content-signed-in = { -monitor-brand-name } te advierte si tu información ha aparecido en una filtración de datos conocida.
 monitor-sign-up = Regístrate para recibir alertas de filtraciones
 auto-scan = Escaneado automáticamente el día de hoy
