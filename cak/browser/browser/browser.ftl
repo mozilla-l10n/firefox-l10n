@@ -59,6 +59,14 @@ urlbar-screen-blocked =
     .tooltiptext = Xq'at re ruxaq k'amaya'l re' pa komonïk ruwäch.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Xaq'ät ri jutaqil ruyakoj re ruxaq k'amaya'l re'.
+urlbar-popup-blocked =
+    .tooltiptext = Xq'at ri elesäy pop-ups richin re ruxaq k'amaya'l re'.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Xaq'ät ri ruyonil rutzijonem taq tob'äl k'o kik'oxom pa re ruxaq k'amaya'l re'.
+urlbar-canvas-blocked =
+    .tooltiptext = Xe'aq'ät ri kelesaxik kitzij taq peraj pa re ruxaq k'amaya'l re'.
+urlbar-midi-blocked =
+    .tooltiptext = Xaq'ät ri MIDI rokem re ruxaq k'amaya'l re'.
 
 ## Page Action Context Menu
 
