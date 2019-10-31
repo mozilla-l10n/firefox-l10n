@@ -63,6 +63,8 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Tu ha blocate le stockage persistente pro iste sito web.
 urlbar-popup-blocked =
     .tooltiptext = Tu ha blocate le fenestras emergente pro iste sito web.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Tu ha blocate le reproduction automatic de contento multimedia con sono pro iste sito web.
 
 ## Page Action Context Menu
 
