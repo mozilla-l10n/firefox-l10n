@@ -47,6 +47,18 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Konservi datumojn en daŭra konservejo
 urlbar-addons-notification-anchor =
     .tooltiptext = Malfermi panelon de mesaĝoj de instalo de aldonaĵo
+urlbar-geolocation-blocked =
+    .tooltiptext = Vi blokis informon pri via pozicio por tiu ĉi retejo.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Vi blokis sciigojn por tiu ĉi retejo.
+urlbar-camera-blocked =
+    .tooltiptext = Vi blokis vian filmilon por tiu ĉi retejo.
+urlbar-microphone-blocked =
+    .tooltiptext = Vi blokis vian mikrofonon por tiu ĉi retejo.
+urlbar-screen-blocked =
+    .tooltiptext = Vi blokis dividon de la ekrano por tiu retejo.
+urlbar-install-blocked =
+    .tooltiptext = Vi blokis la instalon de aldonaĵoj por tiu ĉi retejo.
 
 ## Page Action Context Menu
 
