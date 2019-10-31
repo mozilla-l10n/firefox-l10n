@@ -47,6 +47,18 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = حفظ البيانات في مساحة تخزين دائمة
 urlbar-addons-notification-anchor =
     .tooltiptext = افتح لوحة رسائل تنصيب الإضافات
+urlbar-geolocation-blocked =
+    .tooltiptext = لقد حجبت معلومات مكانك عن هذا الموقع.
+urlbar-web-notifications-blocked =
+    .tooltiptext = لقد حجبت التنبيهات عن هذا الموقع.
+urlbar-camera-blocked =
+    .tooltiptext = لقد حجبت كمرتك عن هذا الموقع.
+urlbar-microphone-blocked =
+    .tooltiptext = لقد حجبت ميكروفونك عن هذا الموقع.
+urlbar-screen-blocked =
+    .tooltiptext = لقد حجبت هذا الموقع من مشاركة شاشتك.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = لقد حجبت الحفظ الدائم للبيانات عن هذا الموقع.
 
 ## Page Action Context Menu
 
