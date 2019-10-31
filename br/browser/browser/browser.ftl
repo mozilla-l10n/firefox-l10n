@@ -61,6 +61,16 @@ urlbar-screen-blocked =
     .tooltiptext = Difennet ho peus al lec'hienn-mañ da rannañ ho skramm.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Stanket ho peus ar c'hadaviñ diastal evit al lec'hienn-mañ.
+urlbar-popup-blocked =
+    .tooltiptext = Stanket hoc'h eus an diflugelloù evit al lec'hienn-mañ.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Stanket ho peus al lenn emgefreek media gant ar son evit al lec'hienn-mañ.
+urlbar-canvas-blocked =
+    .tooltiptext = Stanket ho peus eztennadur ar roadennoù ar steuenn.
+urlbar-midi-blocked =
+    .tooltiptext = Stanket ho peus an haeziñ MIDI evit al lec'hienn-mañ.
+urlbar-install-blocked =
+    .tooltiptext = Stanket ho peus ar staliadurioù askouezhioù war al lec'hienn-mañ.
 
 ## Page Action Context Menu
 
