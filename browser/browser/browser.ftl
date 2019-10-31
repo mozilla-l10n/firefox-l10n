@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Shrani podatke v trajni shrambi
 urlbar-addons-notification-anchor =
     .tooltiptext = Odpri ploščo s sporočili o namestitvah dodatkov
+urlbar-midi-blocked =
+    .tooltiptext = Za to stran ste zavrnili uporabo MIDI.
 
 ## Page Action Context Menu
 
