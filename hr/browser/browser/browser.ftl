@@ -49,6 +49,18 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Otvori ploču s informacijama o instaliranim dodacima
 urlbar-tip-help-icon =
     .title = Potražite pomoć
+urlbar-geolocation-blocked =
+    .tooltiptext = Ovoj stranici ste zabranili pristup informaciji o vašoj lokaciji.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Ovoj ste stranici zabranili slanje obavijesti.
+urlbar-camera-blocked =
+    .tooltiptext = Ovoj ste stranici zabranili korištenje kamere.
+urlbar-microphone-blocked =
+    .tooltiptext = Ovoj ste stranici zabranili korištenje mikrofona.
+urlbar-screen-blocked =
+    .tooltiptext = Ovoj ste stranici zabranili dijeljenje vaše radne površine.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Ovoj ste stranici zabranili mogućnost trajne pohrane podataka.
 
 ## Page Action Context Menu
 
