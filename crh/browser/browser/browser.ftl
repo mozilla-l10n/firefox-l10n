@@ -47,6 +47,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Verilerni Sebatkâr Mağazda mağazla
 urlbar-addons-notification-anchor =
     .tooltiptext = Eklenti qurulımı mesaj panelini aç
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Bu sayt içün sebatkâr mağaznı bloklağan olasıñız.
 
 ## Page Action Context Menu
 
