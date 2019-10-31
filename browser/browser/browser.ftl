@@ -49,6 +49,14 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Адкрыць панэль паведамленняў аб усталяванні дадатка
 urlbar-tip-help-icon =
     .title = Дапамога
+urlbar-geolocation-blocked =
+    .tooltiptext = Вы заблакавалі звесткі аб месцазнаходжанні для гэтага вэб-сайта.
+urlbar-camera-blocked =
+    .tooltiptext = Вы заблакавалі сваю камеру на гэтым вэб-сайце.
+urlbar-microphone-blocked =
+    .tooltiptext = Вы заблакавалі свой мікрафон на гэтым вэб-сайце.
+urlbar-screen-blocked =
+    .tooltiptext = Вы заблакавалі гэтаму вэб-сайту магчымасць бачыць ваш экран.
 
 ## Page Action Context Menu
 
