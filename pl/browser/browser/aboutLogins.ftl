@@ -76,6 +76,7 @@ login-intro-description = Aby przenieść tutaj dane logowania zachowane w prze
 login-intro-instruction-fxa = Zarejestruj się lub zaloguj na { -fxaccount-brand-name(case: "loc", capitalization: "lower") } na urządzeniu, w którym zachowano dane logowania
 login-intro-instruction-fxa-settings = Upewnij się, że opcja „Dane logowania” jest zaznaczona w ustawieniach { -sync-brand-short-name(case: "gen", capitalization: "lower") }
 about-logins-intro-instruction-help = <a data-l10n-name="help-link">Pomoc usługi { -lockwise-brand-short-name }</a> zawiera więcej informacji
+about-logins-intro-import = Jeśli dane logowania są zachowane w innej przeglądarce, możesz <a data-l10n-name="import-link">zaimportować je do usługi { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -111,11 +112,8 @@ master-password-reload-button =
     .label = Zaloguj się
     .accesskey = Z
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Anuluj
-confirmation-dialog-dismiss-button =
-    .title = Anuluj
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Chcesz mieć swoje hasła wszędzie, gdzie korzystasz z przeglądarki { -brand-product-name }? Przejdź do opcji { -sync-brand-short-name(case: "gen", capitalization: "lower") } i zaznacz opcję „Dane logowania”.
@@ -128,6 +126,15 @@ enable-password-sync-preferences-button =
            *[other] Otwórz preferencje { -sync-brand-short-name(case: "gen", capitalization: "lower") }
         }
     .accesskey = O
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Nie pytaj ponownie
+    .accesskey = N
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Anuluj
+confirmation-dialog-dismiss-button =
+    .title = Anuluj
 confirm-delete-dialog-title = Usunąć te dane logowania?
 confirm-delete-dialog-message = Tej czynności nie można cofnąć.
 confirm-delete-dialog-confirm-button = Usuń
