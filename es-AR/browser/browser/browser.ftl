@@ -49,6 +49,28 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Abrir panel de mensajes de instalación de complementos
 urlbar-tip-help-icon =
     .title = Obtener ayuda
+urlbar-geolocation-blocked =
+    .tooltiptext = Bloqueó la información de ubicación para este sitio web.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Bloqueó las notificaciones para este sitio web.
+urlbar-camera-blocked =
+    .tooltiptext = Bloqueó la cámara para este sitio web.
+urlbar-microphone-blocked =
+    .tooltiptext = Bloqueó el micrófono para este sitio web.
+urlbar-screen-blocked =
+    .tooltiptext = Bloqueó este sitio web para que no comparta la pantalla.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Bloqueó el almacenamiento persistente para este sitio web.
+urlbar-popup-blocked =
+    .tooltiptext = Bloqueó las ventanas emergentes para este sitio web.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Bloqueó los medios de reproducción automática con sonido para este sitio web.
+urlbar-canvas-blocked =
+    .tooltiptext = Bloqueó la extracción de datos de canvas para este sitio web.
+urlbar-midi-blocked =
+    .tooltiptext = Bloqueó el acceso a MIDI para este sitio web.
+urlbar-install-blocked =
+    .tooltiptext = Bloqueó la instalación de complementos para este sitio web.
 
 ## Page Action Context Menu
 
