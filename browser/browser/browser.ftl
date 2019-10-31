@@ -45,6 +45,22 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Garda os datos en almacenamento persistente
 urlbar-addons-notification-anchor =
     .tooltiptext = Abre o panel da mensaxe de instalación do complemento
+urlbar-geolocation-blocked =
+    .tooltiptext = Bloqueou a información da localización para este sitio web.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Bloqueou as notificacións para este sitio web.
+urlbar-screen-blocked =
+    .tooltiptext = Impediu que este sitio web comparta a súa pantalla.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Bloqueou o almacenamento de datos persistentes para este sitio web.
+urlbar-popup-blocked =
+    .tooltiptext = Bloqueou as xanelas emerxentes para este sitio web.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Bloqueou a reprodución automática de medios con son para este sitio web.
+urlbar-canvas-blocked =
+    .tooltiptext = Bloqueou a extracción de datos de canvas para este sitio web.
+urlbar-midi-blocked =
+    .tooltiptext = Bloqueou o acceso MIDI para este sitio web.
 
 ## Page Action Context Menu
 
