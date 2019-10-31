@@ -63,6 +63,8 @@ urlbar-popup-blocked =
     .tooltiptext = आपने इस वेबसाइट पर पॉप-अप अवरुद्ध किए हैं.
 urlbar-autoplay-media-blocked =
     .tooltiptext = आपने इस वेबसाइट के लिए धवनी के साथ ऑटोप्ले मीडिया को अवरुद्ध कर दिया है.
+urlbar-canvas-blocked =
+    .tooltiptext = आपने इस वेबसाइट के लिए कैनवास डेटा निष्कर्षण को अवरोधित किया है.
 urlbar-midi-blocked =
     .tooltiptext = आपने इस वेबसाइट के लिए MIDI उपयोग अवरुद्ध कर दिया है.
 
