@@ -47,6 +47,16 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Деректерді тұрақты қоймада сақтау
 urlbar-addons-notification-anchor =
     .tooltiptext = Кеңейтулерді орнату хабарламалар панелін ашу
+urlbar-geolocation-blocked =
+    .tooltiptext = Сіз орналасу ақпаратымен бөлісуді бұл вебсайтқа блоктадыңыз.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Сіз хабарламаларды бұл вебсайтқа блоктадыңыз.
+urlbar-microphone-blocked =
+    .tooltiptext = Сіз микрофоныңызды қолдануды бұл вебсайтқа блоктадыңыз.
+urlbar-screen-blocked =
+    .tooltiptext = Сіз экраныңызбен бөлісуді бұл вебсайтқа блоктадыңыз.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Сіз тұрақты деректер қоймасын қолдануды бұл вебсайтқа блоктадыңыз.
 
 ## Page Action Context Menu
 
