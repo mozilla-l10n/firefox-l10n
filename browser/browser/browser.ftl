@@ -35,6 +35,18 @@ urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Remanar compartir cámara y/o micrófonu col sitiu
 urlbar-addons-notification-anchor =
     .tooltiptext = Abrir panel de mensaxes d'instalación de complementos
+urlbar-geolocation-blocked =
+    .tooltiptext = Bloquiesti la to información d'allugamientu pa esti sitiu web.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Bloquiesti los avisos pa esti sitiu web.
+urlbar-camera-blocked =
+    .tooltiptext = Bloquiesti la to cámara pa esti sitiu web.
+urlbar-microphone-blocked =
+    .tooltiptext = Bloquiesti'l to micrófonu pa esti sitiu web.
+urlbar-screen-blocked =
+    .tooltiptext = Bloquiesti la compartición de pantalla pa esti sitiu web.
+urlbar-popup-blocked =
+    .tooltiptext = Bloquiesti los ventanos emerxentes d'esti sitiu web.
 
 ## Page Action Context Menu
 
