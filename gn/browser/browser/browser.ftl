@@ -49,6 +49,18 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Eike ñe'ẽmondo moĩmbaha ñemohenda ra'ãngarupápe
 urlbar-tip-help-icon =
     .title = Eipota pytyvõ
+urlbar-geolocation-blocked =
+    .tooltiptext = Ejokóma marandu ejuhukuaa hag̃ua ko ñanduti renda.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Ejokóma ñemomarandu ko ñanduti rendápe g̃uarã.
+urlbar-camera-blocked =
+    .tooltiptext = Ejokóma ne ta'ãngamýi ko ñanduti rendápe g̃uarã.
+urlbar-microphone-blocked =
+    .tooltiptext = Ejokóma ne ñe'ẽatãha ko ñanduti rendápe g̃uarã.
+urlbar-screen-blocked =
+    .tooltiptext = Ejokóma ko ñanduti renda emoherakuã hag̃ua ne mba'erechaha.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Ejokóma mba'ekuaarã ñembyaty hi'aréva ko ñanduti renda pegua.
 
 ## Page Action Context Menu
 
