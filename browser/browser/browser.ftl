@@ -49,6 +49,28 @@ urlbar-addons-notification-anchor =
     .tooltiptext = 開啟附加元件安裝訊息面板
 urlbar-tip-help-icon =
     .title = 取得幫助
+urlbar-geolocation-blocked =
+    .tooltiptext = 您已封鎖此網站取得您所在位置資訊的權限。
+urlbar-web-notifications-blocked =
+    .tooltiptext = 您已封鎖此網站推送通知的權限。
+urlbar-camera-blocked =
+    .tooltiptext = 您已封鎖此網站的攝影機存取權限。
+urlbar-microphone-blocked =
+    .tooltiptext = 您已封鎖此網站存取您麥克風的權限。
+urlbar-screen-blocked =
+    .tooltiptext = 您已封鎖此網站分享您螢幕畫面的權限。
+urlbar-persistent-storage-blocked =
+    .tooltiptext = 您已封鎖此網站儲存資料至持續性儲存空間。
+urlbar-popup-blocked =
+    .tooltiptext = 您封鎖了此網站的彈出視窗。
+urlbar-autoplay-media-blocked =
+    .tooltiptext = 您已封鎖此網站自動播放有聲音的媒體內容。
+urlbar-canvas-blocked =
+    .tooltiptext = 您已封鎖此網站讀取 canvas 資料的權限。
+urlbar-midi-blocked =
+    .tooltiptext = 您已封鎖此網站的 MIDI 存取權限。
+urlbar-install-blocked =
+    .tooltiptext = 您已封鎖此網站安裝附加元件。
 
 ## Page Action Context Menu
 
