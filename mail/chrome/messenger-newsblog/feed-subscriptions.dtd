@@ -7,7 +7,10 @@
 <!ENTITY learnMore.label             "Saber más acerca de los canales">
 
 <!ENTITY feedTitle.label             "Título:">
+<!ENTITY feedTitle.accesskey         "T">
 
+<!ENTITY feedLocation.label          "URL del canal:">
+<!ENTITY feedLocation.accesskey      "F">
 <!ENTITY locationValidate.label      "Validar">
 
 <!ENTITY feedFolder.label            "Almacenar los artículos en:">
