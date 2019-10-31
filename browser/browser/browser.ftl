@@ -61,6 +61,16 @@ urlbar-screen-blocked =
     .tooltiptext = Pantaila partekatzea blokeatuta daukazu webgune honetarako.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Datuen biltegiratze iraunkorra blokeatuta daukazu webgune honetarako.
+urlbar-popup-blocked =
+    .tooltiptext = Popup leihoak blokeatuta dauzkazu webgune honetarako.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Soinudun multimedia automatikoki erreproduzitzea blokeatuta daukazu gune honetarako.
+urlbar-canvas-blocked =
+    .tooltiptext = Canvas-eko datuen erauzketa blokeatuta daukazu webgune honetarako.
+urlbar-midi-blocked =
+    .tooltiptext = MIDI sarbidea blokeatuta daukazu webgune honetarako.
+urlbar-install-blocked =
+    .tooltiptext = Gehigarrien instalazioa blokeatuta daukazu webgune honetarako.
 
 ## Page Action Context Menu
 
