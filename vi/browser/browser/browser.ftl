@@ -55,6 +55,8 @@ urlbar-web-notifications-blocked =
     .tooltiptext = Bạn đã chặn thông báo ở trang này.
 urlbar-screen-blocked =
     .tooltiptext = Bạn đã chặn việc chia sẻ màn hình của mình với trang web này.
+urlbar-canvas-blocked =
+    .tooltiptext = Bạn đã chặn khai thác dữ liệu canvas đối với trang web này.
 
 ## Page Action Context Menu
 
