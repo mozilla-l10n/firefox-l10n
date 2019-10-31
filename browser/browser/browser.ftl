@@ -67,6 +67,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Þú hefur lokað á að nálgast gluggagögn fyrir þetta vefsvæði.
 urlbar-midi-blocked =
     .tooltiptext = Þú hefur lokað fyrir MIDI aðgang á þessu vefsvæði.
+urlbar-install-blocked =
+    .tooltiptext = Þú hefur lokað fyrir staðsetningarupplýsingar á þessu vefsvæði.
 
 ## Page Action Context Menu
 
