@@ -41,6 +41,10 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = අනවරත ගබඩාවේ දත්ත ගබඩා කරන්න
 urlbar-addons-notification-anchor =
     .tooltiptext = ඇඩෝන ස්ථාපනය කිරීමේ පණිවිඩ පුවරුව විවෘත කරන්න
+urlbar-persistent-storage-blocked =
+    .tooltiptext = ඔබ මෙම අඩවිය සඳහා අනවරත ගබඩාව අවහිර කර ඇත.
+urlbar-popup-blocked =
+    .tooltiptext = ඔබ මෙම අඩවිය සඳහා පොප්-අප් වළක්වා ඇත.
 
 ## Page Action Context Menu
 
