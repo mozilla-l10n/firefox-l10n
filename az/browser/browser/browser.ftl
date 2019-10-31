@@ -49,6 +49,26 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Əlavə quraşdırma mesaj panelini aç
 urlbar-tip-help-icon =
     .title = Köməl alın
+urlbar-geolocation-blocked =
+    .tooltiptext = Bu sayt üçün məkan məlumatlarını əngəllədiniz.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Bu sayt üçün bildirişləri əngəllədiniz.
+urlbar-camera-blocked =
+    .tooltiptext = Bu sayt üçün kameranızı əngəllədiniz.
+urlbar-microphone-blocked =
+    .tooltiptext = Bu sayt üçün mikrofonunuzu əngəllədiniz.
+urlbar-screen-blocked =
+    .tooltiptext = Bu saytı ekranınızı paylaşmaqdan əngəllədiniz.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Bu sayt üçün qalıcı yaddaşı əngəllədiniz.
+urlbar-popup-blocked =
+    .tooltiptext = Bu sayt üçün peyda olan pəncərələri əngəllədiniz.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Bu sayt üçün səsli medianın avto oxutmasını əngəlləmisiniz.
+urlbar-canvas-blocked =
+    .tooltiptext = Bu sayt üçün lövhə (canvas) məlumatı çıxartmanı əngəllədiniz.
+urlbar-midi-blocked =
+    .tooltiptext = Bu saytın MIDI işlətməsini əngəlləmisiniz.
 
 ## Page Action Context Menu
 
