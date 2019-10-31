@@ -69,6 +69,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Tesweḥleḍ tussfa n yisefka n ubeckil i usmelweb-a.
 urlbar-midi-blocked =
     .tooltiptext = Tesweḥleḍ anekcum i MIDI γer usmel-agi.
+urlbar-install-blocked =
+    .tooltiptext = Tesweḥleḍ asbeddi n yizegrar i usmel-a.
 
 ## Page Action Context Menu
 
