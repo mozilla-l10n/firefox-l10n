@@ -47,6 +47,28 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Използване на хранилището за постоянни данни
 urlbar-addons-notification-anchor =
     .tooltiptext = Отваряне на панел със съобщението за инсталиране на добавка
+urlbar-geolocation-blocked =
+    .tooltiptext = Забранили сте на страницата достъп до вашето местоположение.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Забранили сте на страницата да ви изпраща известия.
+urlbar-camera-blocked =
+    .tooltiptext = Забранили сте на страницата достъп до вашата камера.
+urlbar-microphone-blocked =
+    .tooltiptext = Забранили сте на страницата достъп до вашия микрофон.
+urlbar-screen-blocked =
+    .tooltiptext = Забранили сте на страницата споделянето на вашия екран.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Забранили сте на страницата достъп до хранилището за постоянни данни.
+urlbar-popup-blocked =
+    .tooltiptext = Забранили сте на страницата да отваря изскачащи прозорци.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Забранили сте автоматичното възпроизвеждане на медия на страницата.
+urlbar-canvas-blocked =
+    .tooltiptext = Забранили сте достъпа до данните от canvas на тази страница.
+urlbar-midi-blocked =
+    .tooltiptext = Забранили сте на страницата достъп до MIDI.
+urlbar-install-blocked =
+    .tooltiptext = Забранили сте на страницата да инсталира добавки.
 
 ## Page Action Context Menu
 
