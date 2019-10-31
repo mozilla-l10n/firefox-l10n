@@ -55,6 +55,10 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = तपाईँले यो वेबसाइटको लागि लगातार भण्डारण अवरुद्ध गर्नु भएको छ।
 urlbar-popup-blocked =
     .tooltiptext = तपाईँले यो वेबसाइटको लागि पपअप अवरुद्ध गर्नु भएको छ|
+urlbar-canvas-blocked =
+    .tooltiptext = तपाईँले यो वेबसाइटको लागि क्यानभस डाटाको निकास अवरुद्ध गर्नु भएको छ।
+urlbar-midi-blocked =
+    .tooltiptext = तपाईँले यो वेबसाइटको लागि MIDI अवरुद्ध गर्नु भएको छ।
 
 ## Page Action Context Menu
 
