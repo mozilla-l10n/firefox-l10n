@@ -59,6 +59,12 @@ urlbar-screen-blocked =
     .tooltiptext = ह्या वेबसाईटला आपण आपली स्क्रीन शेअर करण्यापासून अवरोधित केले आहे.
 urlbar-persistent-storage-blocked =
     .tooltiptext = आपण दीर्घस्थायी स्टोरेज ह्या वेबसाईटसाठी अवरोधित केला आहे.
+urlbar-popup-blocked =
+    .tooltiptext = ह्या संकेतस्थळासाठी आपण पॉप-अप अडवले आहेत.
+urlbar-canvas-blocked =
+    .tooltiptext = आपण ह्या वेबसाइटसाठी कॅनव्हास डेटा उतारा अवरोधित केला आहे.
+urlbar-midi-blocked =
+    .tooltiptext = या संकेतस्थळासाठी MIDI वापर अवरोधित केला आहे.
 
 ## Page Action Context Menu
 
