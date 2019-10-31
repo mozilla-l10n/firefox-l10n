@@ -75,6 +75,7 @@ login-intro-description = Si salvaste tus inicios de sesión en { -brand-product
 login-intro-instruction-fxa = Crea o inicia sesión en tu { -fxaccount-brand-name } en el dispositivo donde tus inicios de sesión están guardados
 login-intro-instruction-fxa-settings = Asegúrate que has seleccionado la casilla de inicios de sesión en los ajustes de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Consulta <a data-l10n-name="help-link">ayuda de { -lockwise-brand-short-name }</a> para obtener más ayuda
+about-logins-intro-import = Si tus inicios de sesión están guardados en otro navegador, puedes <a data-l10n-name="import-link">importarlos a { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -110,11 +111,8 @@ master-password-reload-button =
     .label = Iniciar sesión
     .accesskey = L
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Cancelar
-confirmation-dialog-dismiss-button =
-    .title = Cancelar
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] ¿Quieres ver tus inicios de sesión en todas partes donde uses { -brand-product-name }? Abre Opciones de { -sync-brand-short-name } y selecciona la casilla de verificación Inicios de sesión.
@@ -127,6 +125,15 @@ enable-password-sync-preferences-button =
            *[other] Visita las preferencias de { -sync-brand-short-name }
         }
     .accesskey = V
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = No me preguntes de nuevo
+    .accesskey = D
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Cancelar
+confirmation-dialog-dismiss-button =
+    .title = Cancelar
 confirm-delete-dialog-title = ¿Eliminar este inicio de sesión?
 confirm-delete-dialog-message = Esta acción no se puede deshacer
 confirm-delete-dialog-confirm-button = Eliminar
