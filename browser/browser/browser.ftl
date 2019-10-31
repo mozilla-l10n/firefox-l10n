@@ -49,6 +49,8 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Opne meldingspanel for tileggsinstallasjon
 urlbar-tip-help-icon =
     .title = Få hjelp
+urlbar-geolocation-blocked =
+    .tooltiptext = Du har blokkert plasseringsinformasjon for denne nettstaden.
 urlbar-web-notifications-blocked =
     .tooltiptext = Du har blokkert meldingar for denne nettstaden.
 urlbar-camera-blocked =
@@ -57,6 +59,16 @@ urlbar-microphone-blocked =
     .tooltiptext = Du har blokkert mikrofonen for denne nettstaden.
 urlbar-screen-blocked =
     .tooltiptext = Du har blokkert denne nettstaden frå å dele skjermen din.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Du har blokkert vedvarande lagring for denne nettsida.
+urlbar-popup-blocked =
+    .tooltiptext = Du har blokkert sprettoppvindauge for denne nettstaden.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Du har blokkert automatisk avspeling av media med lyd på denne nettsida.
+urlbar-canvas-blocked =
+    .tooltiptext = Du har blokkert canvas-datauthenting for denne nettstaden.
+urlbar-midi-blocked =
+    .tooltiptext = Du har blokkert MIDI-tilgang for denne nettsida.
 
 ## Page Action Context Menu
 
