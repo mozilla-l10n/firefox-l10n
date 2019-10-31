@@ -49,6 +49,18 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Wobłuk zdźělenki přidatkoweje instalacije wočinić
 urlbar-tip-help-icon =
     .title = Pomoc sej wobstarać
+urlbar-geolocation-blocked =
+    .tooltiptext = Sće tutomu websydłu informacijie wo stejnišću zapowědźił.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Sće zdźělenki za tute websydło zablokował.
+urlbar-camera-blocked =
+    .tooltiptext = Sće swoju kameru za tute websydło zablokował.
+urlbar-microphone-blocked =
+    .tooltiptext = Sće swój mikrofon za tute websydło zablokował.
+urlbar-screen-blocked =
+    .tooltiptext = Sće tutomu websydłu dźělenje swojeje wobrazowki zakazał.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Sće trajny składowak za tute websydło zablokował.
 
 ## Page Action Context Menu
 
