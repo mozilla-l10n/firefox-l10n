@@ -49,6 +49,18 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Atverti priedo diegimo pranešimo skydelį
 urlbar-tip-help-icon =
     .title = Žinynas ir pagalba
+urlbar-geolocation-blocked =
+    .tooltiptext = Šioje svetainėje esate užblokavę buvimo vietos informaciją.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Šioje svetainėje esate užblokavę pranešimus.
+urlbar-camera-blocked =
+    .tooltiptext = Šioje svetainėje esate užblokavę savo kamerą.
+urlbar-microphone-blocked =
+    .tooltiptext = Šioje svetainėje esate užblokavę savo mikrofoną.
+urlbar-screen-blocked =
+    .tooltiptext = Šiai svetainei neleidžiate dalintis ekrano vaizdu.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Šioje svetainėje esate užblokavę išliekančių duomenų saugojimą.
 
 ## Page Action Context Menu
 
