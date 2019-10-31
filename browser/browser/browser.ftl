@@ -59,6 +59,14 @@ urlbar-microphone-blocked =
     .tooltiptext = Vous avez empêché ce site d’accéder à votre microphone.
 urlbar-screen-blocked =
     .tooltiptext = Vous avez empêché ce site de partager votre écran.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Vous avez empêché ce site d’utiliser le stockage persistant.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Vous avez empêché ce site de lire automatiquement du contenu multimédia comportant du son.
+urlbar-canvas-blocked =
+    .tooltiptext = Vous avez empêché ce site d’extraire des informations de canvas.
+urlbar-midi-blocked =
+    .tooltiptext = Vous avez bloqué l’accès MIDI pour ce site web.
 
 ## Page Action Context Menu
 
