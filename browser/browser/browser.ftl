@@ -63,6 +63,10 @@ urlbar-popup-blocked =
     .tooltiptext = আপনি এই ওয়েবসাইটের জন্য পপ-আপ ব্লক করেছেন।
 urlbar-autoplay-media-blocked =
     .tooltiptext = আপনি এই ওয়েবসাইটের ক্ষেত্রে সাউন্ডের সাথে অটোপ্লে ব্লক করেছেন।
+urlbar-canvas-blocked =
+    .tooltiptext = আপনি এই ওয়েবসাইটের জন্য ক্যানভাস ডেটা নিষ্কাশন ব্লক করেছেন।
+urlbar-midi-blocked =
+    .tooltiptext = আপনি ওয়েবসাইটটির জন্য MIDI এর প্রবেশ ব্লক করেছেন।
 
 ## Page Action Context Menu
 
