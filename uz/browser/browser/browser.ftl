@@ -49,6 +49,16 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Qo‘shimcha dastur o‘rnatish xabari panelini ochish
 urlbar-tip-help-icon =
     .title = Yordam olish
+urlbar-geolocation-blocked =
+    .tooltiptext = Bu sayt uchun joylashuv ma’lumotini bloklab qo‘ygansiz.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Bu saytdan bildirishnomalarni olishni bloklab qo‘ygansiz.
+urlbar-camera-blocked =
+    .tooltiptext = Bu sayt uchun kamerani bloklab qo‘ygansiz.
+urlbar-microphone-blocked =
+    .tooltiptext = Bu sayt uchun mikrofonni bloklab qo‘ygansiz.
+urlbar-screen-blocked =
+    .tooltiptext = Bu sayt uchun ekranni ulashishni bloklab qo‘ygansiz.
 
 ## Page Action Context Menu
 
