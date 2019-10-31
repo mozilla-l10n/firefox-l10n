@@ -47,6 +47,14 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Uloží údaje do trvalého úložiska
 urlbar-addons-notification-anchor =
     .tooltiptext = Otvorí panel správ inštalácie doplnkov
+urlbar-geolocation-blocked =
+    .tooltiptext = Tejto stránke ste zakázali zisťovať vašu polohu.
+urlbar-camera-blocked =
+    .tooltiptext = Tejto stránke ste zakázali prístup k vašej kamere.
+urlbar-microphone-blocked =
+    .tooltiptext = Tejto stránke ste zakázali prístup v vášmu mikrofónu.
+urlbar-screen-blocked =
+    .tooltiptext = Tejto stránke ste zakázali zdieľanie vašej obrazovky.
 
 ## Page Action Context Menu
 
