@@ -53,6 +53,8 @@ urlbar-geolocation-blocked =
     .tooltiptext = חסמת מפני האתר הזה לגשת לנתוני המיקום שלך.
 urlbar-screen-blocked =
     .tooltiptext = חסמת מפני האתר הזה את האפשרות לשתף את המסך שלך.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = חסמת את האתר הזה משמירת נתונים קבועים.
 urlbar-midi-blocked =
     .tooltiptext = חסמת גישת MIDI לאתר זה.
 
