@@ -51,12 +51,26 @@ urlbar-tip-help-icon =
     .title = קבלת עזרה
 urlbar-geolocation-blocked =
     .tooltiptext = חסמת מפני האתר הזה לגשת לנתוני המיקום שלך.
+urlbar-web-notifications-blocked =
+    .tooltiptext = חסמת התרעות עבור אתר זה.
+urlbar-camera-blocked =
+    .tooltiptext = חסמת את המצלמה שלך עבור אתר זה.
+urlbar-microphone-blocked =
+    .tooltiptext = חסמת את המיקרופון שלך עבור אתר זה.
 urlbar-screen-blocked =
     .tooltiptext = חסמת מפני האתר הזה את האפשרות לשתף את המסך שלך.
 urlbar-persistent-storage-blocked =
     .tooltiptext = חסמת את האתר הזה משמירת נתונים קבועים.
+urlbar-popup-blocked =
+    .tooltiptext = חסמת חלונות קופצים עבור אתר זה.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = חסמת ניגון אוטומטי של מדיה עם קול עבור אתר זה.
+urlbar-canvas-blocked =
+    .tooltiptext = חסמת חילוץ נתוני משטחי ציור עבור אתר זה.
 urlbar-midi-blocked =
     .tooltiptext = חסמת גישת MIDI לאתר זה.
+urlbar-install-blocked =
+    .tooltiptext = חסמת התקנת תוספות עבור אתר זה.
 
 ## Page Action Context Menu
 
