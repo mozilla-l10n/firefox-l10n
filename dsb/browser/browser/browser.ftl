@@ -49,6 +49,8 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Wobcerk powěźeńki dodankoweje instalacije wócyniś
 urlbar-tip-help-icon =
     .title = Pomoc se wobstaraś
+urlbar-geolocation-blocked =
+    .tooltiptext = Sćo toś tomu websedłoju informacijie wó městnje zawoborał.
 urlbar-web-notifications-blocked =
     .tooltiptext = Sćo powěźeńki za toś to websedło zablokěrował.
 urlbar-camera-blocked =
@@ -59,6 +61,16 @@ urlbar-screen-blocked =
     .tooltiptext = Sćo toś tomu websedłoju źělenje swójeje wobrazowki zakazał.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Sćo trajny składowak za toś to websedło blokěrował.
+urlbar-popup-blocked =
+    .tooltiptext = Sćo wuskokujuce wokna za toś to websedło blokěrował.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Sćo zablokěrował awtomatiske wótgraśe medijow ze zukom za toś to websedło.
+urlbar-canvas-blocked =
+    .tooltiptext = Sćo blokěrował pśistup ku canvasowym datam za toś to websedło.
+urlbar-midi-blocked =
+    .tooltiptext = Sćo blokěrował pśistup k MIDI za toś to websedło.
+urlbar-install-blocked =
+    .tooltiptext = Sćo blokěrował instalěrowanje dodankow za toś to websedło.
 
 ## Page Action Context Menu
 
