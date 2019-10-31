@@ -104,11 +104,8 @@ master-password-reload-button =
     .label = כניסה
     .accesskey = כ
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = ביטול
-confirmation-dialog-dismiss-button =
-    .title = ביטול
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -116,6 +113,15 @@ enable-password-sync-preferences-button =
            *[other] פתיחת העדפות { -sync-brand-short-name }
         }
     .accesskey = פ
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = לא לשאול אותי שוב
+    .accesskey = ל
+
+## Dialogs
+
+confirmation-dialog-cancel-button = ביטול
+confirmation-dialog-dismiss-button =
+    .title = ביטול
 confirm-delete-dialog-title = האם למחוק כניסה זו?
 confirm-delete-dialog-message = לא ניתן לבטל פעולה זו.
 confirm-delete-dialog-confirm-button = מחיקה

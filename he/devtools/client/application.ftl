@@ -64,6 +64,9 @@ manifest-item-warnings = שגיאות ואזהרות
 manifest-item-identity = זהות
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = סמלים
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = שגיאת כלי הפיתוח של Firefox
 # Text displayed at manifest icons to label their purpose, as declared
 # in the manifest.
 manifest-icon-purpose = מטרה: <code>{ $purpose }</code>
