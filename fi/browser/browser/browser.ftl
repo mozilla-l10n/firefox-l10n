@@ -47,6 +47,24 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Tallenna tietoja pysyvään tallennustilaan
 urlbar-addons-notification-anchor =
     .tooltiptext = Avaa lisäosan asentamisen viestipaneeli
+urlbar-geolocation-blocked =
+    .tooltiptext = Olet estänyt sijaintitiedot tältä sivustolta.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Olet estänyt ilmoitukset tältä sivustolta.
+urlbar-camera-blocked =
+    .tooltiptext = Olet estänyt kameran tältä sivustolta.
+urlbar-microphone-blocked =
+    .tooltiptext = Olet estänyt mikrofonin tältä sivustolta.
+urlbar-screen-blocked =
+    .tooltiptext = Olet estänyt tämän sivuston jakamasta näyttöäsi.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Olet estänyt pysyvän tallennustilan käytön tältä sivustolta.
+urlbar-popup-blocked =
+    .tooltiptext = Olet estänyt ponnahdusikkunat tältä sivustolta.
+urlbar-canvas-blocked =
+    .tooltiptext = Olet estänyt kanvaksen sisällön lukemisen tältä sivustolta.
+urlbar-midi-blocked =
+    .tooltiptext = Olet estänyt MIDI-käytön tältä sivustolta.
 
 ## Page Action Context Menu
 
