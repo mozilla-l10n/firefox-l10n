@@ -69,6 +69,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Вы заблокировали извлечение данных canvas с этого веб-сайта.
 urlbar-midi-blocked =
     .tooltiptext = Вы заблокировали доступ этого веб-сайта к MIDI.
+urlbar-install-blocked =
+    .tooltiptext = Вы заблокировали установку дополнений с этого веб-сайта.
 
 ## Page Action Context Menu
 
