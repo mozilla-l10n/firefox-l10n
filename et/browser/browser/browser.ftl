@@ -47,6 +47,18 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Salvesta andmeid püsivalt
 urlbar-addons-notification-anchor =
     .tooltiptext = Ava lisa paigaldamise teavituspaneel
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Oled sellel saidil keelanud andmete püsivalt salvestamise.
+urlbar-popup-blocked =
+    .tooltiptext = Oled sellel lehel hüpikaknad blokkinud.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Oled sellel lehel heliga meedia automaatse esitamise blokkinud.
+urlbar-canvas-blocked =
+    .tooltiptext = Oled sellel lehel keelanud kanvaa andmete ekstraktimise.
+urlbar-midi-blocked =
+    .tooltiptext = Oled sellel lehel keelanud ligipääsu MIDIle.
+urlbar-install-blocked =
+    .tooltiptext = Oled sellel lehel keelanud lisade paigaldamise.
 
 ## Page Action Context Menu
 
