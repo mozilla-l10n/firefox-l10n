@@ -77,6 +77,7 @@ login-intro-description = Jeli sće swoje přizjewjenja { -brand-product-name } 
 login-intro-instruction-fxa = Załožće abo přizjewće so pola swojeho { -fxaccount-brand-name } na graće, hdźež waše přizjewjenja su składowane
 login-intro-instruction-fxa-settings = Přeswědčće so, zo sće kontrolny kašćik přizjewjenjow w nastajenjach { -sync-brand-short-name } wubrał
 about-logins-intro-instruction-help = Wopytajće <a data-l10n-name="help-link">pomoc { -lockwise-brand-short-name }</a> za wjace pomocy
+about-logins-intro-import = Jeli waše přizjewjenja su składowane w druhim wobhladowaku, móžeće <a data-l10n-name="import-link">je do { -lockwise-brand-short-name } importować</a>
 
 ## Login
 
@@ -112,11 +113,8 @@ master-password-reload-button =
     .label = Přizjewić
     .accesskey = P
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Přetorhnyć
-confirmation-dialog-dismiss-button =
-    .title = Přetorhnyć
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Chceće swoje přizjewjenja wšudźe wužiwać, hdźež { -brand-product-name } wužiwaće? Dźiće k swojim nastajenjam { -sync-brand-short-name } a wubjerće kontrolny kašćik přizjewjenjow.
@@ -129,6 +127,15 @@ enable-password-sync-preferences-button =
            *[other] Nastajenja { -sync-brand-short-name } wopytać
         }
     .accesskey = N
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Hižo so njeprašeć
+    .accesskey = H
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Přetorhnyć
+confirmation-dialog-dismiss-button =
+    .title = Přetorhnyć
 confirm-delete-dialog-title = Tute přizjewjenje zhašeć?
 confirm-delete-dialog-message = Tuta akcija njeda so cofnyć.
 confirm-delete-dialog-confirm-button = Zhašeć
