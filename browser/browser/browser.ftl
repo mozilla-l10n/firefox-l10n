@@ -47,6 +47,18 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Stòr dàta san stòras bhuan
 urlbar-addons-notification-anchor =
     .tooltiptext = Fosgail panail teachdaireachdan stàladh thuilleadan
+urlbar-geolocation-blocked =
+    .tooltiptext = Bhac thu fiosrachadh mun ionad agad air an làrach-lìn seo.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Bhac thu brathan air an làrach-lìn seo.
+urlbar-camera-blocked =
+    .tooltiptext = Bhac thu an camara agad air an làrach-lìn seo.
+urlbar-microphone-blocked =
+    .tooltiptext = Bhac thu am micreofon agad air an làrach-lìn seo.
+urlbar-screen-blocked =
+    .tooltiptext = Bhac thu an làrach-lìn seo o bhith a’ co-roinneadh na sgrìn agad.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Bhac thu stòras dàta buan mu choinneamh na làraich-lìn seo.
 
 ## Page Action Context Menu
 
