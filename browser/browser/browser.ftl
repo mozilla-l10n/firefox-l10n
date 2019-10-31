@@ -49,6 +49,12 @@ urlbar-addons-notification-anchor =
     .tooltiptext = פתיחת חלונית ההודעות של התקנת תוספות
 urlbar-tip-help-icon =
     .title = קבלת עזרה
+urlbar-geolocation-blocked =
+    .tooltiptext = חסמת מפני האתר הזה לגשת לנתוני המיקום שלך.
+urlbar-screen-blocked =
+    .tooltiptext = חסמת מפני האתר הזה את האפשרות לשתף את המסך שלך.
+urlbar-midi-blocked =
+    .tooltiptext = חסמת גישת MIDI לאתר זה.
 
 ## Page Action Context Menu
 
