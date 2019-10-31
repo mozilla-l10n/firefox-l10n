@@ -49,6 +49,24 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Abrir panel de mensajes de instalación de complementos
 urlbar-tip-help-icon =
     .title = Obtener ayuda
+urlbar-geolocation-blocked =
+    .tooltiptext = Está bloqueada tu información de ubicación para este sitio web.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Están bloqueadas las notificaciones para este sitio web.
+urlbar-camera-blocked =
+    .tooltiptext = Tu cámara está bloqueada para este sitio web.
+urlbar-microphone-blocked =
+    .tooltiptext = Tu micrófono está bloqueado para este sitio web.
+urlbar-screen-blocked =
+    .tooltiptext = Este sitio web está bloqueado para compartir tu pantalla.
+urlbar-popup-blocked =
+    .tooltiptext = Tienes bloqueadas las pop-ups para este sitio web.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Bloqueaste la reproducción automática de sonidos multimedia para este sitio web.
+urlbar-canvas-blocked =
+    .tooltiptext = Has bloqueado la extracción de datos de canvas para este sitio.
+urlbar-midi-blocked =
+    .tooltiptext = Haz bloqueado el acceso al MIDI para este sitio web.
 
 ## Page Action Context Menu
 
