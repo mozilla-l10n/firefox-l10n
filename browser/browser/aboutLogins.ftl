@@ -77,6 +77,7 @@ login-intro-description = Jolic sćo składł swóje pśizjawjenja { -brand-prod
 login-intro-instruction-fxa = Załožćo abo pśizjawśo se pla swójogo { -fxaccount-brand-name } na rěźe, źož waše pśizjawjenja su skłaźone
 login-intro-instruction-fxa-settings = Pśeznańśo se, až sćo wubrał kontrolny kašćik pśizjawjenjow w nastajenjach { -sync-brand-short-name }
 about-logins-intro-instruction-help = Woglědajśo se k <a data-l10n-name="help-link">pomocy { -lockwise-brand-short-name }</a> za wěcej pomocy
+about-logins-intro-import = Jolic waše pśizjawjenja su skłaźone w drugem wobglědowaku, móžośo <a data-l10n-name="import-link">je do { -lockwise-brand-short-name } importěrowaś</a>
 
 ## Login
 
@@ -112,11 +113,8 @@ master-password-reload-button =
     .label = Pśizjawiś
     .accesskey = P
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Pśetergnuś
-confirmation-dialog-dismiss-button =
-    .title = Pśetergnuś
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Cośo swóje pśizjawjenja wšuźi wužywaś, źož { -brand-product-name } wužywaśo? Źiśo k swójim nastajenjam { -sync-brand-short-name } a wubjeŕśo kontrolny kašćik pśizjawjenjow.
@@ -129,6 +127,15 @@ enable-password-sync-preferences-button =
            *[other] Nastajenja { -sync-brand-short-name } se woglědaś
         }
     .accesskey = N
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Wěcej se njepšašaś
+    .accesskey = W
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Pśetergnuś
+confirmation-dialog-dismiss-button =
+    .title = Pśetergnuś
 confirm-delete-dialog-title = Toś to pśizjawjenje wulašowaś?
 confirm-delete-dialog-message = Toś ta akcija njedajo se anulěrowaś.
 confirm-delete-dialog-confirm-button = Lašowaś
