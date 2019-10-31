@@ -49,6 +49,8 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Abrir el panel de mensajes de instalación de complementos
 urlbar-tip-help-icon =
     .title = Obtener ayuda
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Ha bloqueado el almacenamiento de datos para este sitio web.
 
 ## Page Action Context Menu
 
