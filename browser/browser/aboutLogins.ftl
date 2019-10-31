@@ -110,11 +110,8 @@ master-password-reload-button =
     .label = Logga in
     .accesskey = L
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Avbryt
-confirmation-dialog-dismiss-button =
-    .title = Avbryt
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Vill du ha dina inloggningar överallt där du använder { -brand-product-name }? Gå till inställningar för { -sync-brand-short-name } och markera kryssrutan Inloggningar.
@@ -127,6 +124,15 @@ enable-password-sync-preferences-button =
            *[other] Besök { -sync-brand-short-name } Inställningar
         }
     .accesskey = B
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Fråga mig inte igen
+    .accesskey = D
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Avbryt
+confirmation-dialog-dismiss-button =
+    .title = Avbryt
 confirm-delete-dialog-title = Ta bort denna inloggning?
 confirm-delete-dialog-message = Den här åtgärden kan inte ångras.
 confirm-delete-dialog-confirm-button = Ta bort
