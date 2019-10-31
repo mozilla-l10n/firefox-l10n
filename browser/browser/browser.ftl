@@ -57,6 +57,8 @@ urlbar-screen-blocked =
     .tooltiptext = A daaƴii ndee lowre e lollingol yaynirde maa.
 urlbar-persistent-storage-blocked =
     .tooltiptext = A daaƴii ndesgu duumiingu e ndee lowre.
+urlbar-popup-blocked =
+    .tooltiptext = A faddiima kenorɗe pop-up nder ndee lowre.
 
 ## Page Action Context Menu
 
