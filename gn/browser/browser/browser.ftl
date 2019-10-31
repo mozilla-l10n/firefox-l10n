@@ -61,6 +61,8 @@ urlbar-screen-blocked =
     .tooltiptext = Ejokóma ko ñanduti renda emoherakuã hag̃ua ne mba'erechaha.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ejokóma mba'ekuaarã ñembyaty hi'aréva ko ñanduti renda pegua.
+urlbar-popup-blocked =
+    .tooltiptext = Ejokoukákuri ovetã apysẽva ko ñandutirendápe g̃uarã.
 
 ## Page Action Context Menu
 
