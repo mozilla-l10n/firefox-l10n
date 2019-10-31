@@ -74,6 +74,7 @@ login-intro-description = 若您曾在其他设备上将登录信息保存到 { 
 login-intro-instruction-fxa = 在您保存登录信息的设备，注册或登录 { -fxaccount-brand-name }
 login-intro-instruction-fxa-settings = 确定您已在“{ -sync-brand-short-name }”设置中勾选了“登录信息”复选框
 about-logins-intro-instruction-help = 若需帮助，请访问 <a data-l10n-name="help-link">{ -lockwise-brand-short-name } 用户支持</a>
+about-logins-intro-import = 若登录信息保存在其他浏览器，您可以<a data-l10n-name="import-link">导入到 { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -109,11 +110,8 @@ master-password-reload-button =
     .label = 登录
     .accesskey = L
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = 取消
-confirmation-dialog-dismiss-button =
-    .title = 取消
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] 想将使用 { -brand-product-name } 时填写的登录信息随身携带？打开您的 { -sync-brand-short-name } 选项，选中“登录信息”复选框。
@@ -126,6 +124,15 @@ enable-password-sync-preferences-button =
            *[other] 前往{ -sync-brand-short-name }首选项
         }
     .accesskey = V
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = 不再询问
+    .accesskey = D
+
+## Dialogs
+
+confirmation-dialog-cancel-button = 取消
+confirmation-dialog-dismiss-button =
+    .title = 取消
 confirm-delete-dialog-title = 删除此登录信息？
 confirm-delete-dialog-message = 此操作不可撤销。
 confirm-delete-dialog-confirm-button = 删除
