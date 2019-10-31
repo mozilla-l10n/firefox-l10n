@@ -74,6 +74,7 @@ login-intro-description = 若您在其他裝置上儲存登入資訊到 { -brand
 login-intro-instruction-fxa = 在您儲存登入資訊的裝置，註冊或登入 { -fxaccount-brand-name }
 login-intro-instruction-fxa-settings = 確定在 { -sync-brand-short-name } 設定中勾選了「登入資訊」選取盒
 about-logins-intro-instruction-help = 若需協助，請到 <a data-l10n-name="help-link">{ -lockwise-brand-short-name } 技術支援站</a>
+about-logins-intro-import = 若登入資訊儲存在其他瀏覽器，您可以<a data-l10n-name="import-link">匯入到 { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -109,11 +110,8 @@ master-password-reload-button =
     .label = 登入
     .accesskey = L
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = 取消
-confirmation-dialog-dismiss-button =
-    .title = 取消
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] 想要在使用 { -brand-product-name } 的其他裝置上也能同步登入資訊嗎？請到 { -sync-brand-short-name } 選項勾選「登入資訊」選取盒。
@@ -126,6 +124,15 @@ enable-password-sync-preferences-button =
            *[other] 前往 { -sync-brand-short-name } 偏好設定
         }
     .accesskey = V
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = 不要再問我
+    .accesskey = D
+
+## Dialogs
+
+confirmation-dialog-cancel-button = 取消
+confirmation-dialog-dismiss-button =
+    .title = 取消
 confirm-delete-dialog-title = 要刪除這筆登入資訊嗎？
 confirm-delete-dialog-message = 此動作無法復原。
 confirm-delete-dialog-confirm-button = 刪除
