@@ -61,6 +61,12 @@ urlbar-screen-blocked =
     .tooltiptext = شما این پایگاه‌وب را برای اشتراک‌گذاری صفحهٔ خود مسدود کرده‌اید.
 urlbar-persistent-storage-blocked =
     .tooltiptext = شما این پایگاه‌وب را برای ذخیره اطلاعات مسدود کرده‌اید.
+urlbar-popup-blocked =
+    .tooltiptext = شما پنجره باز شو مسدود شده برای این پایگاه اینترنتی دارید.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = شما پخش خودکار رسانه صدا را برای این پایگاه اینترنتی مسدود کرده‌اید.
+urlbar-canvas-blocked =
+    .tooltiptext = شما بوم‌های استراخ شده‌ای از این وب سایت دادرید که مسدود شده‌‌اند.
 
 ## Page Action Context Menu
 
