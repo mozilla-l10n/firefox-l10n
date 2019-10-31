@@ -43,6 +43,22 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = నిరంతర నిల్వ డేటాని నిల్వ చేయండి
 urlbar-addons-notification-anchor =
     .tooltiptext = యాడ్-ఆన్ స్థాపన సందేశపు ప్యానెలు తెరువు
+urlbar-geolocation-blocked =
+    .tooltiptext = మీ స్థాన సమాచారాన్ని వాడకుండా ఈ వెబ్‌సైటుని నిరోధించారు.
+urlbar-web-notifications-blocked =
+    .tooltiptext = నోటిఫికేషన్లు చూపించకుండా ఈ వెబ్‌సైటుని నిరోధించారు.
+urlbar-camera-blocked =
+    .tooltiptext = మీ కెమెరాను వాడకుండా ఈ వెబ్‌సైటుని నిరోధించారు.
+urlbar-microphone-blocked =
+    .tooltiptext = మీ మైక్రోఫోనును వాడకుండా ఈ వెబ్‌సైటుని నిరోధించారు.
+urlbar-screen-blocked =
+    .tooltiptext = మీ తెరను పంచుకోకుండా ఈ వెబ్‌సైటుని నిరోధించారు.
+urlbar-popup-blocked =
+    .tooltiptext = మీరు ఈ వెబ్‌సైటు యొక్క పాప్-అప్లను నిరోధించారు.
+urlbar-canvas-blocked =
+    .tooltiptext = ఈ వెబ్‌సైటుని కాన్వాస్ డేటా వెలికితీయకుండా మీరు నిరోధించారు.
+urlbar-midi-blocked =
+    .tooltiptext = MIDI సౌలభ్యాన్ని పొందకుండా ఈ వెబ్‌సైటుని మీరు నిరోధించారు.
 
 ## Page Action Context Menu
 
