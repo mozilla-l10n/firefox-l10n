@@ -61,6 +61,16 @@ urlbar-screen-blocked =
     .tooltiptext = Šiai svetainei neleidžiate dalintis ekrano vaizdu.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Šioje svetainėje esate užblokavę išliekančių duomenų saugojimą.
+urlbar-popup-blocked =
+    .tooltiptext = Šioje svetainėje esate užblokavę iškylančiuosius langus.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Šioje svetainėje esate užblokavę automatinį medijos grojimą.
+urlbar-canvas-blocked =
+    .tooltiptext = Šioje svetainėje esate užblokavę drobės duomenų išgavimą.
+urlbar-midi-blocked =
+    .tooltiptext = Šioje svetainėje esate užblokavę MIDI naudojimą.
+urlbar-install-blocked =
+    .tooltiptext = Šioje svetainėje esate užblokavę priedų diegimą.
 
 ## Page Action Context Menu
 
