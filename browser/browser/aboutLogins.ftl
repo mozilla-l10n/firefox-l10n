@@ -74,6 +74,7 @@ login-intro-description = Nếu bạn đã lưu thông tin đăng nhập của m
 login-intro-instruction-fxa = Tạo hoặc đăng nhập vào { -fxaccount-brand-name } trên thiết bị nơi đăng nhập của bạn được lưu
 login-intro-instruction-fxa-settings = Đảm bảo rằng bạn đã chọn hộp kiểm Đăng nhập trong Cài đặt { -sync-brand-short-name }
 about-logins-intro-instruction-help = Truy cập <a data-l10n-name="help-link">hỗ trợ của { -lockwise-brand-short-name }</a> để được trợ giúp thêm
+about-logins-intro-import = Nếu thông tin đăng nhập của bạn được lưu trong một trình duyệt khác, bạn có thể <a data-l10n-name="import-link"> nhập chúng vào { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -109,11 +110,8 @@ master-password-reload-button =
     .label = Đăng nhập
     .accesskey = L
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Hủy bỏ
-confirmation-dialog-dismiss-button =
-    .title = Hủy bỏ
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Muốn có thông tin đăng nhập của bạn ở mọi nơi bạn sử dụng { -brand-product-name }? Chuyển đến tùy chọn { -sync-brand-short-name } của bạn và chọn hộp kiểm Đăng nhập.
@@ -126,6 +124,15 @@ enable-password-sync-preferences-button =
            *[other] Truy cập tùy chỉnh { -sync-brand-short-name }
         }
     .accesskey = V
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Đừng hỏi lại tôi nữa.
+    .accesskey = D
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Hủy bỏ
+confirmation-dialog-dismiss-button =
+    .title = Hủy bỏ
 confirm-delete-dialog-title = Xoá thông tin đăng nhập này?
 confirm-delete-dialog-message = Thao tác này không thể hoàn tác được.
 confirm-delete-dialog-confirm-button = Xóa
