@@ -49,6 +49,18 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Kiegészítő telepítési üzenetpanel megnyitása
 urlbar-tip-help-icon =
     .title = Segítség kérése
+urlbar-geolocation-blocked =
+    .tooltiptext = Blokkolta a helymeghatározási információkat ezen az oldalon.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Blokkolta az értesítéseket ezen az oldalon.
+urlbar-camera-blocked =
+    .tooltiptext = Blokkolta a kamerát ezen az oldalon.
+urlbar-microphone-blocked =
+    .tooltiptext = Blokkolta a mikrofont ezen az oldalon.
+urlbar-screen-blocked =
+    .tooltiptext = Blokkolta a képernyőmegosztást ezen az oldalon.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Blokkolta az állandó adattárolást ezen az oldalon.
 
 ## Page Action Context Menu
 
