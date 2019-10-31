@@ -75,6 +75,7 @@ login-intro-description = Si tu ha salvate tu credentiales in { -brand-product-n
 login-intro-instruction-fxa = Crea o identifica te a tu { -fxaccount-brand-name } sur le dispositivo ubi tu credentiales es salvate
 login-intro-instruction-fxa-settings = Assecura te que le quadrato Credentiales es seligite in le parametros de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Visita le <a data-l10n-name="help-link">supporto pro { -lockwise-brand-short-name }</a> pro plus adjuta
+about-logins-intro-import = Si tu credentiales es salvate in un altere navigator, tu pote <a data-l10n-name="import-link">importar los in { -lockwise-brand-short-name }</a
 
 ## Login
 
@@ -110,11 +111,8 @@ master-password-reload-button =
     .label = Aperir session
     .accesskey = A
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Cancellar
-confirmation-dialog-dismiss-button =
-    .title = Cancellar
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Credentiales disponibile ubique tu usa { -brand-product-name }? Va al Optiones de tu { -sync-brand-short-name } e selige le quadrato Credentiales.
@@ -127,6 +125,15 @@ enable-password-sync-preferences-button =
            *[other] Visita Preferentias de { -sync-brand-short-name }
         }
     .accesskey = V
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Non plus questionar me
+    .accesskey = N
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Cancellar
+confirmation-dialog-dismiss-button =
+    .title = Cancellar
 confirm-delete-dialog-title = Deler iste credentiales?
 confirm-delete-dialog-message = Iste action es irreversibile.
 confirm-delete-dialog-confirm-button = Deler
