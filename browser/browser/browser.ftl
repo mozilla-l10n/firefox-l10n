@@ -59,6 +59,14 @@ urlbar-screen-blocked =
     .tooltiptext = Bhac thu an làrach-lìn seo o bhith a’ co-roinneadh na sgrìn agad.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Bhac thu stòras dàta buan mu choinneamh na làraich-lìn seo.
+urlbar-popup-blocked =
+    .tooltiptext = Bhac thu priob-uinneagan air an làrach-lìn seo.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Bhac thu fèin-chluich de mheadhanan aig a bheil fuaim air an làrach-lìn seo.
+urlbar-canvas-blocked =
+    .tooltiptext = Bhac thu às-tharraing dàta canabhais air an làrach-lìn seo.
+urlbar-midi-blocked =
+    .tooltiptext = Bhac thu inntrigeadh MIDI air an làrach-lìn seo.
 
 ## Page Action Context Menu
 
