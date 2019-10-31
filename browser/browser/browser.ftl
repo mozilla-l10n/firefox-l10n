@@ -67,6 +67,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Za to stran ste zavrnili izločanje podatkov platna.
 urlbar-midi-blocked =
     .tooltiptext = Za to stran ste zavrnili uporabo MIDI.
+urlbar-install-blocked =
+    .tooltiptext = Za to stran ste zavrnili namestitev dodatkov.
 
 ## Page Action Context Menu
 
