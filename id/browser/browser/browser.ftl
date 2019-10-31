@@ -47,6 +47,12 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Simpan data di Penyimpanan Persisten
 urlbar-addons-notification-anchor =
     .tooltiptext = Buka panel pesan pemasangan pengaya
+urlbar-screen-blocked =
+    .tooltiptext = Anda telah memblokir situs ini untuk berbagi layar Anda.
+urlbar-popup-blocked =
+    .tooltiptext = Anda telah memblokir pop-up untuk situs web ini.
+urlbar-canvas-blocked =
+    .tooltiptext = Anda telah memblokir ekstraksi data canvas untuk situs web ini.
 
 ## Page Action Context Menu
 
