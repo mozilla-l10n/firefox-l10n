@@ -61,6 +61,8 @@ urlbar-screen-blocked =
     .tooltiptext = Na-block mo ang website na ito mula sa pagbabahagi ng iyong screen.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Na-block mo ang paulit-ulit na imbakan para sa website na ito.
+urlbar-popup-blocked =
+    .tooltiptext = Hinarangan mo ang mga pop-up sa website na ito.
 urlbar-canvas-blocked =
     .tooltiptext = Na-block mo ang data extraction ng canvas para sa website na ito.
 
