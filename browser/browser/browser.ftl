@@ -49,6 +49,18 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Avrir la panela d'installaziun da supplements
 urlbar-tip-help-icon =
     .title = Ir per agid
+urlbar-geolocation-blocked =
+    .tooltiptext = Ti has bloccà las infurmaziuns da geolocalisaziun per questa website.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Ti has bloccà ils messadis da questa website.
+urlbar-camera-blocked =
+    .tooltiptext = Ti has bloccà tia camera per questa website.
+urlbar-microphone-blocked =
+    .tooltiptext = Ti has bloccà tes microfon per questa website.
+urlbar-screen-blocked =
+    .tooltiptext = Ti has bloccà la pussaivladad da questa website da cundivider tes visur.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Ti has bloccà la memoria durabla per questa website.
 
 ## Page Action Context Menu
 
