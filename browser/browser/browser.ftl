@@ -49,6 +49,18 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Բացել հավելման տեղադրման հաղորդագրության վահանակը
 urlbar-tip-help-icon =
     .title = Ստանալ օգնություն
+urlbar-geolocation-blocked =
+    .tooltiptext = Դուք արգելափակել եք տեղադրության տեղեկությունը այս կայքի համար:
+urlbar-web-notifications-blocked =
+    .tooltiptext = Դուք արգելափակել եք ծանուցումները այս կայքի համար:
+urlbar-camera-blocked =
+    .tooltiptext = Դուք արգելափակել եք ձեր տեսախցիկը այս կայքի համար:
+urlbar-microphone-blocked =
+    .tooltiptext = Դուք արգելափակել եք բարձրախոսը այս կայքի համար:
+urlbar-screen-blocked =
+    .tooltiptext = Դուք արգելափակել եք այս կայքը՝ ձեր էկրանի համօգտագործելուց:
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Դուք արգելափակել եք մշտական պահեստը այս կայքի համար:
 
 ## Page Action Context Menu
 
