@@ -37,6 +37,18 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Gcina idatha kuGcino oluQhubekayo
 urlbar-addons-notification-anchor =
     .tooltiptext = Vula iphanele yokongezelela umyalezo wokufakela
+urlbar-geolocation-blocked =
+    .tooltiptext = Uyibhlokile inkcazelo yendawo kule webhusayithi.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Uzibhlokile izaziso kule webhusayithi.
+urlbar-camera-blocked =
+    .tooltiptext = Uyibhlokile ikhamera yakho kule webhusayithi.
+urlbar-microphone-blocked =
+    .tooltiptext = Uyibhlokile imayikhrofoni yakho kule webhusayithi.
+urlbar-screen-blocked =
+    .tooltiptext = Uyibhlokile le webhusayithi ekwabelaneni ngesikrini sakho.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Ulubhlokile ugcino oluqhubekayo lwedatha kule webhusayithi.
 
 ## Page Action Context Menu
 
