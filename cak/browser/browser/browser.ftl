@@ -47,6 +47,18 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Keyak taq tzij pa Jutaqil Yakoj
 urlbar-addons-notification-anchor =
     .tooltiptext = Tijaq tz'aqat pa rupas tzijol richin niyak
+urlbar-geolocation-blocked =
+    .tooltiptext = Xq'at ri ruk'ojlem etamab'äl pa re ruxaq k'amaya'l re'.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Xeq'at ri taq rutzijol pa re ruxaq k'amaya'l re'.
+urlbar-camera-blocked =
+    .tooltiptext = Xq'at ri elesäy ruwachib'al re ruxaq k'amaya'l re'.
+urlbar-microphone-blocked =
+    .tooltiptext = Xq'at ri q'asäy ach'ab'äl pa re ruxaq k'amaya'l re'.
+urlbar-screen-blocked =
+    .tooltiptext = Xq'at re ruxaq k'amaya'l re' pa komonïk ruwäch.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Xaq'ät ri jutaqil ruyakoj re ruxaq k'amaya'l re'.
 
 ## Page Action Context Menu
 
