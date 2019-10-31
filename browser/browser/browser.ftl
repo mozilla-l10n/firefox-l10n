@@ -49,6 +49,28 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Hapni kuadratin e mesazhit të instalimit të shtesës
 urlbar-tip-help-icon =
     .title = Merrni ndihmë
+urlbar-geolocation-blocked =
+    .tooltiptext = Ia keni bllokuar këtij sajti të dhënat mbi vendndodhjen tuaj.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Ia keni bllokuar këtij sajti njoftimet.
+urlbar-camera-blocked =
+    .tooltiptext = E keni bllokuar kamerën tuaj për këtë sajt.
+urlbar-microphone-blocked =
+    .tooltiptext = E keni bllokuar kamerën tuaj për këtë sajt.
+urlbar-screen-blocked =
+    .tooltiptext = Ia keni bllokuar këtij sajti përdorimin e ekranit tuaj.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = E keni bllokuar depozitimin e qëndrueshëm për këtë sajt.
+urlbar-popup-blocked =
+    .tooltiptext = I keni bllokuar flluskat për këtë sajt.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = E keni bllokuar vetëluajtje mediash me tinguj tuaj për këtë sajt.
+urlbar-canvas-blocked =
+    .tooltiptext = Për këtë sajt e keni bllokuar përftimin e të dhënave të kanavacës.
+urlbar-midi-blocked =
+    .tooltiptext = E keni bllokuar hyrjen MIDI për këtë sajt.
+urlbar-install-blocked =
+    .tooltiptext = Ia keni bllokuar këtij sajti instalimin e shtesave.
 
 ## Page Action Context Menu
 
