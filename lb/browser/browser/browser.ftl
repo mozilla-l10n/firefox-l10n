@@ -23,6 +23,14 @@ urlbar-translated-notification-anchor =
     .tooltiptext = Säitiwwersetzung geréieren
 urlbar-addons-notification-anchor =
     .tooltiptext = Add-on Installatioun Messagepanneau opmaachen
+urlbar-geolocation-blocked =
+    .tooltiptext = Du hues den Zougrëff op d'Informatioun vun Denger Positioun fir dësen Internetsite gespaart.
+urlbar-camera-blocked =
+    .tooltiptext = Du hues Deng Kamera fir dësen Internetsite gespaart.
+urlbar-microphone-blocked =
+    .tooltiptext = Du hues Däi Mikro fir dësen Internetsite gespaart.
+urlbar-screen-blocked =
+    .tooltiptext = Du hues den Zougrëff op Däin Ecran fir dësen Internetsite gespaart.
 
 ## Page Action Context Menu
 
