@@ -59,8 +59,14 @@ urlbar-screen-blocked =
     .tooltiptext = Vi blokis dividon de la ekrano por tiu retejo.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Vi blokis la daŭran konservejon por ĉi tiu retejo.
+urlbar-popup-blocked =
+    .tooltiptext = Vi blokis ŝprucfenestrojn por tiu ĉi retejo.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Vi blokis aŭtomatan ludadon de sono por tiu ĉi retejo.
+urlbar-canvas-blocked =
+    .tooltiptext = Vi blokis la eltiron de datumoj el kanvaso por tiu ĉi retejo.
+urlbar-midi-blocked =
+    .tooltiptext = Vi blokis la aliron MIDI por tiu ĉi retejo.
 urlbar-install-blocked =
     .tooltiptext = Vi blokis la instalon de aldonaĵoj por tiu ĉi retejo.
 
