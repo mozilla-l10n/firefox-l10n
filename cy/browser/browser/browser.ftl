@@ -63,10 +63,14 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = Rydych wedi rhwystro storio data parhaus ar gyfer y wefan hon.
 urlbar-popup-blocked =
     .tooltiptext = Rydych wedi rhwystro llamlenni ar gyfer y wefan hon.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Rydych wedi rhwystro cyfrwng awtochwarae gyda seiniau ar gyfer y wefan hon.
 urlbar-canvas-blocked =
     .tooltiptext = Rydych wedi rhwystro tynnu data canvas o'r wefan hon.
 urlbar-midi-blocked =
     .tooltiptext = Rydych wedi rhwystro mynediad MIDI ar gyfer y wefan hon.
+urlbar-install-blocked =
+    .tooltiptext = Rydych wedi rhwystro gosod ychwanegion ar gyfer y wefan hon.
 
 ## Page Action Context Menu
 
