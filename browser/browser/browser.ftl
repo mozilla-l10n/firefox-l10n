@@ -45,6 +45,8 @@ urlbar-camera-blocked =
     .tooltiptext = तपाईँले यो वेबसाइटको लागि आफ्नो क्यामेरा अवरुद्ध गर्नु भएको छ
 urlbar-microphone-blocked =
     .tooltiptext = तपाईँले यो वेबसाइटको लागि आफ्नो माइक्रोफोन अवरुद्ध गर्नु भएको छ
+urlbar-popup-blocked =
+    .tooltiptext = तपाईँले यो वेबसाइटको लागि पपअप अवरुद्ध गर्नु भएको छ|
 
 ## Page Action Context Menu
 
