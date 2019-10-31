@@ -75,6 +75,7 @@ login-intro-description = Saio-hasierarik gorde baduzu beste gailu bateko { -bra
 login-intro-instruction-fxa = Sortu edo hasi saioa zure { -fxaccount-brand-name } kontuan saio-hasierak gordeta dituzun gailuan
 login-intro-instruction-fxa-settings = Ziurtatu 'Saio-hasierak' kontrol-laukia hautatu duzula { -sync-brand-short-name } ezarpenetan
 about-logins-intro-instruction-help = Laguntza jasotzeko, bisitatu <a data-l10n-name="help-link">{ -lockwise-brand-short-name } laguntza</a>
+about-logins-intro-import = Zure saio-hasierak beste nabigatzaile batean gordeta badituzu, <a data-l10n-name="import-link">{ -lockwise-brand-short-name }(e)n inporta ditzakezu</a>
 
 ## Login
 
@@ -110,11 +111,8 @@ master-password-reload-button =
     .label = Hasi saioa
     .accesskey = H
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Utzi
-confirmation-dialog-dismiss-button =
-    .title = Utzi
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] { -brand-product-name } erabiltzen duzun toki orotan izan nahi dituzu zure saio-hasierak? Zoaz zure { -sync-brand-short-name } aukeretara eta hautatu 'Saio-hasierak' kontrol-laukia.
@@ -127,6 +125,15 @@ enable-password-sync-preferences-button =
            *[other] Bisitatu { -sync-brand-short-name } hobespenak
         }
     .accesskey = B
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Ez galdetu berriz
+    .accesskey = z
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Utzi
+confirmation-dialog-dismiss-button =
+    .title = Utzi
 confirm-delete-dialog-title = Ezabatu saio-hasiera hau?
 confirm-delete-dialog-message = Ekintza hau ezin da desegin.
 confirm-delete-dialog-confirm-button = Ezabatu
