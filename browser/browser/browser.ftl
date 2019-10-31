@@ -61,6 +61,14 @@ urlbar-screen-blocked =
     .tooltiptext = You have blocked this web site from sharing your screen.
 urlbar-persistent-storage-blocked =
     .tooltiptext = You have blocked persistent storage for this web site.
+urlbar-popup-blocked =
+    .tooltiptext = You have blocked pop-ups for this web site.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = You have blocked autoplay media with sound for this web site.
+urlbar-canvas-blocked =
+    .tooltiptext = You have blocked canvas data extraction for this web site.
+urlbar-midi-blocked =
+    .tooltiptext = You have blocked MIDI access for this web site.
 
 ## Page Action Context Menu
 
