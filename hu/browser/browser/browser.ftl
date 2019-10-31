@@ -61,6 +61,16 @@ urlbar-screen-blocked =
     .tooltiptext = Blokkolta a képernyőmegosztást ezen az oldalon.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Blokkolta az állandó adattárolást ezen az oldalon.
+urlbar-popup-blocked =
+    .tooltiptext = Blokkolta a felugró ablakokat ezen az oldalon.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Blokkolta a média automatikus hangos lejátszását ezen az oldalon.
+urlbar-canvas-blocked =
+    .tooltiptext = Blokkolta a vászonadatok kinyerését ezen az oldalon.
+urlbar-midi-blocked =
+    .tooltiptext = Blokkolta a MIDI elérést ezen az oldalon.
+urlbar-install-blocked =
+    .tooltiptext = Blokkolta a kiegészítők telepítését erről az oldalról.
 
 ## Page Action Context Menu
 
