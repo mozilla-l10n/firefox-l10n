@@ -49,6 +49,12 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Mở bảng thông báo cài đặt tiện ích
 urlbar-tip-help-icon =
     .title = Trợ giúp
+urlbar-geolocation-blocked =
+    .tooltiptext = Bạn đã chặn thông tin địa điểm ở trang này.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Bạn đã chặn thông báo ở trang này.
+urlbar-screen-blocked =
+    .tooltiptext = Bạn đã chặn việc chia sẻ màn hình của mình với trang web này.
 
 ## Page Action Context Menu
 
