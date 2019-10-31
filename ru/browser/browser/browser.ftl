@@ -49,6 +49,16 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Открыть панель сообщения об установке дополнения
 urlbar-tip-help-icon =
     .title = Получить помощь
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Вы заблокировали доступ этого веб-сайта к постоянному хранилищу.
+urlbar-popup-blocked =
+    .tooltiptext = Вы заблокировали всплывающие окна с этого веб-сайта.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Вы заблокировали автоматическое воспроизводение медиа со звуком с этого веб-сайта.
+urlbar-canvas-blocked =
+    .tooltiptext = Вы заблокировали извлечение данных canvas с этого веб-сайта.
+urlbar-midi-blocked =
+    .tooltiptext = Вы заблокировали доступ этого веб-сайта к MIDI.
 
 ## Page Action Context Menu
 
