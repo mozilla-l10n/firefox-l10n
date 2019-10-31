@@ -45,6 +45,16 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = مسلسل اسٹوریج میں کوائف اسٹور کرے
 urlbar-addons-notification-anchor =
     .tooltiptext = ایڈاون کا تنصیب شدہ پیغام کا پینل کھولیں
+urlbar-geolocation-blocked =
+    .tooltiptext = آپ نے اس ویب سائٹ کے لیئے محل وقوع کی معلومات کو بلاک کیا ہوا ہے
+urlbar-web-notifications-blocked =
+    .tooltiptext = آپ نے اس ویب سائٹ کے لیئے اطلاع کو بلاک کیا ہوا ہے
+urlbar-camera-blocked =
+    .tooltiptext = آپ نے اس ویب سائٹ کے لیئے کیمرہ بلاک کیا ہوا ہے
+urlbar-microphone-blocked =
+    .tooltiptext = آپ نے اس ویب سائٹ کے لیئے مائیکروفون بلاک کیا ہوا ہے۔
+urlbar-screen-blocked =
+    .tooltiptext = آپ نے اس ویب سائٹ کو سکرین کا اشتراک کرنے سے بلاک کیا ہے
 
 ## Page Action Context Menu
 
