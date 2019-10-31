@@ -49,6 +49,18 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Ireki gehigarrien instalazio-mezuen panela
 urlbar-tip-help-icon =
     .title = Lortu laguntza
+urlbar-geolocation-blocked =
+    .tooltiptext = Kokalekuaren informazioa blokeatuta daukazu webgune honetarako.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Jakinarazpenak blokeatuta dauzkazu webgune honetarako.
+urlbar-camera-blocked =
+    .tooltiptext = Kamera blokeatuta daukazu webgune honetarako.
+urlbar-microphone-blocked =
+    .tooltiptext = Mikrofonoa blokeatuta daukazu webgune honetarako.
+urlbar-screen-blocked =
+    .tooltiptext = Pantaila partekatzea blokeatuta daukazu webgune honetarako.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Datuen biltegiratze iraunkorra blokeatuta daukazu webgune honetarako.
 
 ## Page Action Context Menu
 
