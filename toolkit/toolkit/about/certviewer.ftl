@@ -15,6 +15,7 @@ certificate-viewer-algorithm = אלגוריתם
 certificate-viewer-certificate-authority = רשות אישורים
 certificate-viewer-cipher-suite = ערכת צפנים
 certificate-viewer-common-name = שם נפוץ
+certificate-viewer-email-address = כתובת דוא״ל
 certificate-viewer-country = מדינה
 certificate-viewer-distribution-point = נקודת הפצה
 certificate-viewer-dns-name = שם DNS
