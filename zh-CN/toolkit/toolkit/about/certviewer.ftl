@@ -33,8 +33,8 @@ certificate-viewer-logid = 日志标识符
 certificate-viewer-method = 方法
 certificate-viewer-modulus = 模块
 certificate-viewer-name = 名称
-certificate-viewer-not-after = 不晚于
-certificate-viewer-not-before = 不早于
+certificate-viewer-not-after = 终止时间
+certificate-viewer-not-before = 起始时间
 certificate-viewer-organization = 组织
 certificate-viewer-organizational-unit = 组织单位
 certificate-viewer-policy = 策略
@@ -43,7 +43,7 @@ certificate-viewer-public-value = 公开值
 certificate-viewer-purposes = 用途
 certificate-viewer-qualifier = 限定符
 certificate-viewer-qualifiers = 限定符
-certificate-viewer-required = 必需
+certificate-viewer-required = 必要
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = 注册州/省
 certificate-viewer-state-province = 州/省
@@ -71,7 +71,7 @@ certificate-viewer-subject-key-id = 主题密钥标识符
 certificate-viewer-authority-key-id = 颁发机构密钥标识符
 certificate-viewer-authority-info-aia = 颁发机构信息（AIA）
 certificate-viewer-certificate-policies = 证书策略
-certificate-viewer-embedded-scts = 嵌入式 SCT
+certificate-viewer-embedded-scts = 嵌入的 SCT 信息
 certificate-viewer-crl-endpoints = CRL 端点
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
