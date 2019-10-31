@@ -51,12 +51,24 @@ urlbar-geolocation-blocked =
     .tooltiptext = Сіз орналасу ақпаратымен бөлісуді бұл вебсайтқа блоктадыңыз.
 urlbar-web-notifications-blocked =
     .tooltiptext = Сіз хабарламаларды бұл вебсайтқа блоктадыңыз.
+urlbar-camera-blocked =
+    .tooltiptext = Камераңызды қолдануды бұл веб-сайтқа бұғаттадыңыз.
 urlbar-microphone-blocked =
     .tooltiptext = Сіз микрофоныңызды қолдануды бұл вебсайтқа блоктадыңыз.
 urlbar-screen-blocked =
     .tooltiptext = Сіз экраныңызбен бөлісуді бұл вебсайтқа блоктадыңыз.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Сіз тұрақты деректер қоймасын қолдануды бұл вебсайтқа блоктадыңыз.
+urlbar-popup-blocked =
+    .tooltiptext = Бұл веб-сайт үшін атып шығатын терезелерді бұғаттадыңыз.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Бұл веб-сайт үшін дыбысы бар медианы автоойнатуды бұғаттағансыз.
+urlbar-canvas-blocked =
+    .tooltiptext = Сіз canvas деректерін тарқатуды бұл вебсайтқа блоктадыңыз.
+urlbar-midi-blocked =
+    .tooltiptext = Сіз MIDI қолдануды бұл вебсайтқа блоктадыңыз.
+urlbar-install-blocked =
+    .tooltiptext = Сіз қосымшаларды орнатуды бұл вебсайтқа блоктадыңыз.
 
 ## Page Action Context Menu
 
