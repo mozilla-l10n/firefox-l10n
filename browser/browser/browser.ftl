@@ -67,6 +67,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Olet estänyt kanvaksen sisällön lukemisen tältä sivustolta.
 urlbar-midi-blocked =
     .tooltiptext = Olet estänyt MIDI-käytön tältä sivustolta.
+urlbar-install-blocked =
+    .tooltiptext = Olet estänyt lisäosien asennuksen tältä sivustolta.
 
 ## Page Action Context Menu
 
