@@ -47,6 +47,28 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Guarda dades en l'emmagatzematge persistent
 urlbar-addons-notification-anchor =
     .tooltiptext = Òbriga la subfinestra del missatge d'instal·lació del complement
+urlbar-geolocation-blocked =
+    .tooltiptext = Heu blocat la informació d'ubicació per a este lloc web.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Heu blocat les notificacions per a este lloc web.
+urlbar-camera-blocked =
+    .tooltiptext = Heu blocat la càmera per a este lloc web.
+urlbar-microphone-blocked =
+    .tooltiptext = Heu blocat el micròfon per a este lloc web.
+urlbar-screen-blocked =
+    .tooltiptext = Heu blocat la compartició de la pantalla en este lloc web.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Heu blocat l'emmagatzematge persistent per a este lloc web.
+urlbar-popup-blocked =
+    .tooltiptext = Heu blocat les finestres emergents per a este lloc web.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Heu blocat la reproducció automàtica de contingut multimèdia amb so per a este lloc web.
+urlbar-canvas-blocked =
+    .tooltiptext = Heu blocat l'extracció de dades de llenç (canvas) per a este lloc web.
+urlbar-midi-blocked =
+    .tooltiptext = Heu blocat l'accés MIDI per a este lloc web.
+urlbar-install-blocked =
+    .tooltiptext = Heu blocat la instal·lació de complements per a este lloc web.
 
 ## Page Action Context Menu
 
