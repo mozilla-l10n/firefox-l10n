@@ -14,10 +14,12 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = সাবধানতার সাথে এগিয়ে যান
+about-config-intro-warning-checkbox = এই প্রিফারেন্স-এ প্রবেশ করার সময় আমাকে সতর্ক করুন
 about-config-intro-warning-button = ঝুঁকি নিন এবং চালিয়ে যান
 
 
 
+about-config-page-title = উন্নত পছন্দসমূহ
 about-config-show-all = সব দেখাও
 about-config-pref-add = যোগ
 about-config-pref-toggle = টগল
