@@ -93,6 +93,7 @@ cfr-whatsnew-tracking-protect-title = Chráňte sa pred sledovacími prvkami
 cfr-whatsnew-tracking-protect-link-text = Podrobnosti
 cfr-whatsnew-tracking-blocked-subtitle = Od { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Podrobnosti
+cfr-whatsnew-lockwise-backup-body = Vygenerujte si bezpečné heslá ku ktorým budete mať prístup bez ohľadu na to, odkiaľ sa budete prihlasovať.
 cfr-whatsnew-lockwise-take-title = Vezmite si svoje heslá so sebou
 cfr-whatsnew-lockwise-take-body = S mobilnou aplikáciou { -lockwise-brand-short-name } získate bezpečný prístup k vašim zálohovaným prihlasovacím údajom - a to kdekoľvek.
 cfr-whatsnew-lockwise-take-link-text = Prevziať aplikáciu
