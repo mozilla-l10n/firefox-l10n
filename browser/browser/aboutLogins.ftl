@@ -110,11 +110,8 @@ master-password-reload-button =
     .label = Prihlásiť sa
     .accesskey = P
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Zrušiť
-confirmation-dialog-dismiss-button =
-    .title = Zrušiť
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Chcete mať svoje heslá všade so sebou? Otvorte nastavenia služby { -sync-brand-short-name } a zaškrtnite možnosť synchronizácie prihlasovacích údajov.
@@ -127,6 +124,15 @@ enable-password-sync-preferences-button =
            *[other] Navštívte možnosti aplikácie { -sync-brand-short-name }
         }
     .accesskey = m
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Nabudúce sa už nepýtať
+    .accesskey = N
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Zrušiť
+confirmation-dialog-dismiss-button =
+    .title = Zrušiť
 confirm-delete-dialog-title = Odstrániť tieto prihlasovacie údaje?
 confirm-delete-dialog-message = Túto akciu nie je možné vrátiť späť.
 confirm-delete-dialog-confirm-button = Odstrániť
