@@ -147,6 +147,10 @@
 <!ENTITY paragraphMenu.accesskey "A">
 <!ENTITY paragraphParagraphCmd.label "Alineo">
 <!ENTITY paragraphParagraphCmd.accesskey "A">
+<!ENTITY heading1Cmd.label "Titolo 1">
+<!ENTITY heading1Cmd.accesskey "1">
+<!ENTITY heading2Cmd.label "Titolo 2">
+<!ENTITY heading2Cmd.accesskey "2">
 
 <!-- List menu items -->
 
