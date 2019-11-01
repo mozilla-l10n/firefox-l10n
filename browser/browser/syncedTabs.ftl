@@ -40,3 +40,4 @@ synced-tabs-context-sync-now =
     .label = आत्ता सिंक करा
     .accesskey = S
 fxa-sign-in = { -sync-brand-short-name } मध्ये प्रवेश करा
+turn-on-sync = { -sync-brand-short-name } चालू करा
