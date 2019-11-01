@@ -134,8 +134,19 @@
 
 <!ENTITY formatFontColor.label "Koloro de teksto…">
 <!ENTITY formatFontColor.accesskey "K">
+<!ENTITY tableOrCellColor.label "Fona koloro de tabelo aŭ ĉelo…">
+<!ENTITY tableOrCellColor.accesskey "F">
 
+<!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
+<!ENTITY formatRemoveNamedAnchors.label "Forigi nomitan ankron">
+<!ENTITY formatRemoveNamedAnchors.accesskey "r">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
+<!ENTITY paragraphMenu.label "Alineo">
+<!ENTITY paragraphMenu.accesskey "A">
+<!ENTITY paragraphParagraphCmd.label "Alineo">
+<!ENTITY paragraphParagraphCmd.accesskey "A">
 
 <!-- List menu items -->
 
