@@ -6,7 +6,7 @@
 <!ENTITY window.size                  "width: 55em; height: 34em;">
 
 <!-- First wizard page -->
-<!ENTITY profileCreationExplanation_1.text  "&brandShortName; stocka informationes super tu parametros e preferentias in tu profilo personal.">
+<!ENTITY profileCreationExplanation_1.text  "&brandShortName; immagazina informationes sur tu configurationes e preferentias in tu profilo personal.">
 <!ENTITY profileCreationExplanation_2.text  "Si tu comparti iste copia de &brandShortName; con altere usatores, tu pote usar le profilos pro tener separate le informationes de cata usator. Pro isto, cata usator debe crear su proprie profilo.">
 <!ENTITY profileCreationExplanation_3.text  "Si tu es le sol persona que usa iste copia de &brandShortName;, tu debe haber al minus un profilo. Si tu lo desira, tu pote crear plure profilos pro te mesme, pro tener gruppos differente de configurationes e de preferentias. Per exemplo tu pote voler profilos separate pro uso commercial e personal.">
 <!ENTITY profileCreationExplanation_4.text  "Pro comenciar a crear tu profilo, clicca sur Sequente.">

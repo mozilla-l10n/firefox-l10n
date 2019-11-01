@@ -283,13 +283,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.screenBlocked.tooltip            "Tu ha blocate iste sito web de compartir tu schermo.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Tu ha blocate le accesso al geolocalisation pro iste sito web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tu ha blocate iste sito web de inviar notificationes.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Tu ha blocate le stockage persistente pro iste sito web.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Tu ha blocate le immagazinage persistente pro iste sito web.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Tu ha blocate le fenestras emergente pro iste sito web.">
 <!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Tu ha blocate le reproduction automatic de contento multimedia con sono pro iste sito web.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "Tu ha blocate le extraction de datos de canevas pro iste sito web.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tu ha blocate iste sito web per le plug-in de Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tu ha blocate le accesso MIDI pro iste sito web.">
 <!ENTITY urlbar.installBlocked.tooltip           "Tu ha blocate le accesso al installation de additivos pro iste sito web.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Monstrar le chronologia">
 

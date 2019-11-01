@@ -22,7 +22,7 @@
 <!ENTITY            deleteButton.accesskey "D">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; stocka informationes super tu paramentos, preferentias e altere elementos de usator in tu profilo de usator.">
+<!ENTITY            pmDescription.label    "&brandShortName; immagazina informationes sur tu configurationes, preferentias e altere datos personal in tu profilo de usator.">
 
 <!ENTITY            offlineState.label    "Travaliar disconnectite">
 <!ENTITY            offlineState.accesskey "o">

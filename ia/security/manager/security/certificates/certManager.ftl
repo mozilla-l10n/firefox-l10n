@@ -132,7 +132,7 @@ pkcs12-dup-data = Le certificato e le clave private existe ja sur le dispositivo
 
 choose-p12-backup-file-dialog = Nomine de file a salveguardar
 file-browse-pkcs12-spec = Files PKCS12
-choose-p12-restore-file-dialog = File certificato a importar
+choose-p12-restore-file-dialog = File de certificato a importar
 
 ## Import certificate(s) file dialog
 
@@ -155,7 +155,7 @@ delete-user-cert-impact = Si tu dele un de tu proprie certificatos, tu non poter
 delete-ssl-cert-title =
     .title = Deler le exceptiones de certificato de servitor
 delete-ssl-cert-confirm = Desira tu vermente deler iste exceptiones de servitor?
-delete-ssl-cert-impact = Si tu dele un exception del servitor, su restaura le verificationes de securitate usual pro ille servitor e require que illo usa un certificato valide.
+delete-ssl-cert-impact = Si tu dele un exception de servitor, tu restaura le verificationes de securitate normal pro ille servitor e require que illo usa un certificato valide.
 delete-ca-cert-title =
     .title = Deler o non plus confider a certificatos de CA
 delete-ca-cert-confirm = Tu ha requestate de deler iste certificatos del CA. Pro le certificatos integrate, tote le confidentias essera removite, le qual ha le mesme effecto. Desira tu vermente deler o non plus confider?
