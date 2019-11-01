@@ -87,7 +87,7 @@ newtab-menu-show-privacy-info = Nostre sponsores e tu vita private
 newtab-privacy-modal-button-done = Facite
 newtab-privacy-modal-header = Tu vita private es importante.
 newtab-privacy-modal-paragraph = In addition a servir te historias captivante, nos te monstra anque contento pertinente e ben curate ab sponsores seligite. Sia assecurate que tu datos de navigation non essera jammais divulgate ab tu copia personal de { -brand-product-name }: nos non los vide, ni nostre sponsores.
-newtab-privacy-modal-link = Apprende como functiona le confidentialitate in le nove scheda.
+newtab-privacy-modal-link = Saper plus sur le respecto del vita private in le pagina de nove scheda
 
 
 

@@ -21,10 +21,10 @@ onboarding-button-label-get-started = Comencia
 onboarding-welcome-header = Benvenite a { -brand-short-name }
 onboarding-welcome-body = Tu ha recipite le navigator.<br/>Obtene le resto de { -brand-product-name }.
 onboarding-welcome-learn-more = Saper plus re le beneficios.
-onboarding-welcome-modal-get-body = Tu ha recipite le navigator.<br/>Ora obtene le plus de { -brand-product-name }.
-onboarding-welcome-modal-supercharge-body = Protection del confidentialitate al maxime nivello.
-onboarding-welcome-modal-privacy-body = Tu ha jam le navigator. Adde plus protection de confidentialitate.
-onboarding-welcome-modal-family-learn-more = Apprende re le familia de productos de { -brand-product-name }.
+onboarding-welcome-modal-get-body = Tu ha obtenite le navigator.<br/>Ora tira le maxime avantage de { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Maximisa le protection de tu vita private.
+onboarding-welcome-modal-privacy-body = Tu ha obtenite le navigator. Que nos augmenta ora le protection de tu vita private.
+onboarding-welcome-modal-family-learn-more = Lege plus sur le familia de productos de { -brand-product-name }.
 onboarding-welcome-form-header = Comencia ci
 onboarding-join-form-header = Junge te a { -brand-product-name }
 onboarding-join-form-body = Insere tu adresse de e-mail pro comenciar.
@@ -44,9 +44,9 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
-onboarding-fullpage-welcome-subheader = Discoperi que facer.
+onboarding-fullpage-welcome-subheader = Que nos comencia a explorar tote le possibilitates.
 onboarding-fullpage-form-email =
-    .placeholder = Tu adresse email…
+    .placeholder = Tu adresse de e-mail…
 
 ## Firefox Sync modal dialog strings.
 
@@ -84,7 +84,7 @@ onboarding-benefit-sync-text = Porta tu marcapaginas, contrasignos, chronologia,
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Recipe un notification si tu informationes personal es exponite in un violation de datos cognoscite.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
-onboarding-benefit-lockwise-text = Gere tu contrasignos protegite e portabile.
+onboarding-benefit-lockwise-text = Gere tu contrasignos de maniera protegite e portabile.
 
 ## These strings belong to the individual onboarding messages.
 
