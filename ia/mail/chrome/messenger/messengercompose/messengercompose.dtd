@@ -79,29 +79,93 @@
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "Deler">
 <!ENTITY deleteCmd.accesskey "d">
+<!ENTITY editRewrapCmd.label "Re-incapsular">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "Renominar annexo…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY reorderAttachmentsCmd.label "Reordinar annexos…">
+<!ENTITY reorderAttachmentsCmd.accesskey "x">
+<!ENTITY reorderAttachmentsCmd.key "x">
+<!ENTITY toggleAttachmentPaneCmd.label "Quadro de annexos">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
      as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.accesskey "n">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
      As Mac does not have access keys, this key defines a Mac-only, cross-l10n
      shortcut key (Ctrl+M). Typically, this key should not be translated unless
      otherwise required by specific needs of the localization. -->
+<!ENTITY toggleAttachmentPaneCmd.key "m">
+<!ENTITY selectAllCmd.label "Seliger toto">
+<!ENTITY selectAllCmd.accesskey "t">
+<!ENTITY selectAllCmd.key "T">
+<!ENTITY findBarCmd.label "Cercar…">
+<!ENTITY findBarCmd.accesskey "C">
+<!ENTITY findBarCmd.key "F">
+<!ENTITY findReplaceCmd.label "Trovar e reimplaciar…">
+<!ENTITY findReplaceCmd.accesskey "r">
+<!ENTITY findReplaceCmd.key "H">
+<!ENTITY findAgainCmd.label "Cercar novemente">
+<!ENTITY findAgainCmd.accesskey "o">
+<!ENTITY findAgainCmd.key "G">
+<!ENTITY findAgainCmd.key2 "VK_F3">
+<!ENTITY findPrevCmd.label "Cercar le precedente">
+<!ENTITY findPrevCmd.accesskey "d">
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!-- Reorder Attachment Panel -->
+<!ENTITY reorderAttachmentsPanel.label "Reordinar annexos">
+<!ENTITY moveAttachmentTopPanelBtn.label "Mover al initio">
+<!ENTITY moveAttachmentUpPanelBtn.label "Mover in alto">
+<!ENTITY moveAttachmentBundleUpPanelBtn.label "Mover insimul">
+<!ENTITY moveAttachmentDownPanelBtn.label "Mover in basso">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Mover al fundo">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Ordinar: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Ordinar: Z - A">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Ordinar selection: A - Z">
+<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Ordinar selection: Z - A">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
+<!ENTITY viewMenu.label "Vider">
+<!ENTITY viewMenu.accesskey "v">
+<!ENTITY viewToolbarsMenuNew.label "Barras de instrumentos">
+<!ENTITY viewToolbarsMenuNew.accesskey "t">
+<!ENTITY menubarCmd.label "Barra de menu">
+<!ENTITY menubarCmd.accesskey "m">
+<!ENTITY showCompositionToolbarCmd.label "Barra de instrumentos de composition">
+<!ENTITY showCompositionToolbarCmd.accesskey "o">
+<!ENTITY showFormattingBarCmd.label "Barra de formattation">
+<!ENTITY showFormattingBarCmd.accesskey "f">
+<!ENTITY showTaskbarCmd.label "Barra de stato">
+<!ENTITY showTaskbarCmd.accesskey "s">
+<!ENTITY customizeToolbar.label "Personalisar…">
+<!ENTITY customizeToolbar.accesskey "P">
 
+<!ENTITY addressSidebar.label "Barra lateral de contactos">
+<!ENTITY addressSidebar.accesskey "o">
 
 <!-- Format Menu -->
+<!ENTITY formatMenu.label "Formato">
+<!ENTITY formatMenu.accesskey "o">
 
 <!-- Options Menu -->
+<!ENTITY optionsMenu.label "Optiones">
+<!ENTITY optionsMenu.accesskey "p">
+<!ENTITY checkSpellingCmd2.label "Verificar le orthographia…">
+<!ENTITY checkSpellingCmd2.key "p">
+<!ENTITY checkSpellingCmd2.key2 "VK_F7">
+<!ENTITY checkSpellingCmd2.accesskey "h">
+<!ENTITY enableInlineSpellChecker.label "Corrector orthographic durante que tu scribe">
+<!ENTITY enableInlineSpellChecker.accesskey "C">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
@@ -109,14 +173,38 @@
 <!-- Tools Menu -->
 
 <!--  Mac OS X Window Menu -->
+<!ENTITY zoomWindow.label "Zoom">
+<!ENTITY windowMenu.label "Fenestra">
 
 <!-- Mail Toolbar -->
+<!ENTITY sendButton.label "Inviar">
+<!ENTITY quoteButton.label "Citar">
+<!ENTITY addressButton.label "Contactos">
+<!ENTITY attachButton.label "Annexar">
+<!ENTITY saveButton.label "Salvar">
+<!ENTITY printButton.label "Imprimer">
 
 <!-- Mail Toolbar Tooltips -->
+<!ENTITY sendButton.tooltip "Inviar iste message ora">
+<!ENTITY sendlaterButton.tooltip "Inviar iste message plus tarde">
+<!ENTITY quoteButton.tooltip "Citar le previe message">
+<!ENTITY attachButton.tooltip2 "Adder annexo">
+<!ENTITY spellingButton.tooltip "Verificar orthographia del selection o del message">
+<!ENTITY saveButton.tooltip "Salvar iste message">
+<!ENTITY cutButton.tooltip              "Taliar">
+<!ENTITY copyButton.tooltip             "Copiar">
+<!ENTITY pasteButton.tooltip            "Collar">
+<!ENTITY printButton.tooltip "Imprimer iste message">
 
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace.style "width: 9em;">
+<!ENTITY fromAddr.label "De:">
+<!ENTITY fromAddr.accesskey "e">
+<!ENTITY toAddr.label "A:">
+<!ENTITY ccAddr.label "Cc:">
+<!ENTITY replyAddr.label "Responder a:">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings of attachmentCount in composeMsgs.properties.
      Please ensure that this access key is unique: Do not duplicate any other
@@ -127,8 +215,28 @@
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 
 <!-- Message Pane Context Menu -->
+<!ENTITY copy.label "Copiar">
+<!ENTITY copy.accesskey "C">
+<!ENTITY paste.label "Collar">
+<!ENTITY paste.accesskey "o">
+<!ENTITY pasteQuote.label "Collar como citation">
+<!ENTITY pasteQuote.accesskey "c">
 
 <!-- Attachment Item and List Context Menus -->
+<!ENTITY openAttachment.label "Aperir">
+<!ENTITY openAttachment.accesskey "A">
+<!ENTITY delete.label "Deler">
+<!ENTITY delete.accesskey "D">
+<!ENTITY removeAttachment.label "Remover annexo">
+<!ENTITY removeAttachment.accesskey "x">
+<!ENTITY renameAttachment.label "Renominar…">
+<!ENTITY renameAttachment.accesskey "R">
+<!ENTITY reorderAttachments.label "Reordinar annexos…">
+<!ENTITY reorderAttachments.accesskey "x">
+<!ENTITY removeAllAttachments.label "Remover tote le annexos">
+<!ENTITY removeAllAttachments.accesskey "v">
+<!ENTITY selectAll.label "Seliger toto">
+<!ENTITY selectAll.accesskey "t">
 
 <!-- Attachment Pane Header Bar Context Menu -->
 <!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
