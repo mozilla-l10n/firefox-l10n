@@ -113,8 +113,8 @@
 <!ENTITY styleSuperscriptCmd.accesskey "p">
 <!ENTITY styleSubscriptCmd.label "Indico suba">
 <!ENTITY styleSubscriptCmd.accesskey "b">
-<!ENTITY styleNonbreakingCmd.label "Sen salto de linio">
-<!ENTITY styleNonbreakingCmd.accesskey "l">
+<!ENTITY styleNonbreakingCmd.label "Sen rompi linion">
+<!ENTITY styleNonbreakingCmd.accesskey "r">
 <!ENTITY styleEm.label "Emfazo">
 <!ENTITY styleEm.accesskey "E">
 <!ENTITY styleStrong.label "Pli forta emfazo">
@@ -124,12 +124,12 @@
 <!ENTITY styleAbbr.label "Mallongigo">
 <!ENTITY styleAbbr.accesskey "M">
 <!ENTITY styleAcronym.label "Akronimo">
-<!ENTITY styleAcronym.accesskey "k">
+<!ENTITY styleAcronym.accesskey "A">
 <!ENTITY styleCode.label "Kodo">
-<!ENTITY styleCode.accesskey "K">
+<!ENTITY styleCode.accesskey "d">
 <!ENTITY styleSamp.label "Ekzemplo">
 <!ENTITY styleSamp.accesskey "E">
-<!ENTITY styleVar.label "Varia">
+<!ENTITY styleVar.label "Variablo">
 <!ENTITY styleVar.accesskey "V">
 
 <!ENTITY formatFontColor.label "Koloro de teksto…">
