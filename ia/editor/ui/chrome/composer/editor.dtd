@@ -50,6 +50,7 @@
 <!ENTITY AllTagsModeTab.label "Tags HTML">
 <!ENTITY AllTagsMode.label "Tags HTML">
 <!ENTITY AllTagsMode.accesskey "a">
+<!ENTITY AllTagsMode.tooltip "Monstrar icones pro tote le tags HTML">
 <!-- LOCALIZATION NOTE: (HTMLSourceModeTab.dir, HTMLSourceModeTab.label)
      Do NOT translate text for 'HTMLSourceModeTab.dir', use latin "ltr" if
      you want the <html> image to left of the 'HTMLSourceModeTab.label' text,
@@ -59,6 +60,8 @@
 <!ENTITY HTMLSourceModeTab.label "Fonte">
 <!ENTITY HTMLSourceMode.label "Fonte HTML">
 <!ENTITY HTMLSourceMode.accesskey "H">
+<!ENTITY HTMLSourceMode.tooltip "Rediger fonte HTML">
 <!ENTITY PreviewModeTab.label "Vista preliminar">
 <!ENTITY PreviewMode.label "Vista preliminar">
 <!ENTITY PreviewMode.accesskey "P">
+<!ENTITY PreviewMode.tooltip "Monstrar como WYSIWYG (como in le navigator)">
