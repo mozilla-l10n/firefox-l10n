@@ -514,7 +514,7 @@ search-separate-default-engine =
     .label = Usar iste motor de recerca in fenestras private
     .accesskey = U
 search-suggestions-header = Suggestiones de recerca
-search-suggestions-desc = Elige como appare le suggestiones ex motores de recerca.
+search-suggestions-desc = Elige como appare le suggestiones de motores de recerca.
 search-suggestions-option =
     .label = Monstrar suggestiones de recerca
     .accesskey = s
@@ -529,7 +529,7 @@ search-show-suggestions-url-bar-option =
 search-show-suggestions-above-history-option =
     .label = Monstrar le suggestiones de recerca ante le chronologia de navigation in le resultatos del barra de adresse
 search-show-suggestions-private-windows =
-    .label = Monstrar suggestiones in la fenestras de navigation private
+    .label = Monstrar suggestiones de recerca in fenestras private
 suggestions-addressbar-settings = Cambiar preferentias pro suggestiones a base de chronologia, marcapaginas e schedas
 search-suggestions-cant-show = Le suggestiones de recerca non essera monstrate inter le resultatos del barra de adresse perque tu ha configurate { -brand-short-name } pro non memorisar jammais le chronologia.
 search-one-click-header = Motores de recerca a un sol clic
@@ -647,8 +647,8 @@ sync-currently-syncing-prefs =
        *[other] Preferentias
     }
 sync-change-options =
-    .label = Modification...
-    .accesskey = M
+    .label = Cambiar…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 

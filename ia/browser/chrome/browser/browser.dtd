@@ -946,7 +946,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Contento traciante">
 <!ENTITY protections.fingerprinters.label "Traciatores de impression digital">
 <!ENTITY protections.cryptominers.label "Crypto-minatores">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Tote le traciatores sur iste sito ha essite cargate perque le protectiones es extinguite.">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Tote le traciatores sur iste sito ha essite cargate perque le protectiones ha essite disactivate.">
 <!ENTITY protections.noTrackersFound.description "Nulle traciator cognoscite per &brandShortName; ha essite detegite sur iste pagina.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Iste cookies te seque de sito a sito pro colliger datos sur lo que tu face in linea. Illos es ponite per tertie partes como companias de publicitate e de analyse de datos.">
