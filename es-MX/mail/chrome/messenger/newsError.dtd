@@ -20,6 +20,8 @@
 
 <!-- LOCALIZATION NOTE (trySearching.title): A string preceding the message's
      ID. -->
+<!ENTITY trySearching.title "Intenta buscar por artículo:">
 
 <!-- LOCALIZATION NOTE (removeExpiredArticles.title): The label for the button
      to remove all expired articles from the newsgroup. -->
+<!ENTITY removeExpiredArticles.title "Eliminar todos los artículos expirados">
