@@ -34,6 +34,7 @@
 <!ENTITY tableCaptionLeft.label           "A sinistra del tabella">
 <!ENTITY tableCaptionRight.label          "A dextra del tabella">
 <!ENTITY tableCaptionNone.label           "Nulle">
+<!ENTITY tableInheritColor.label           "(Sia le color del pagina transparente)">
 
 <!ENTITY cellSelection.label              "Selection">
 <!ENTITY cellSelectCell.label             "Cella">
@@ -53,11 +54,15 @@
 <!ENTITY cellStyle.accessKey              "t">
 <!ENTITY cellNormal.label                 "Normal">
 <!ENTITY cellHeader.label                 "Titulo">
+<!ENTITY cellTextWrap.label               "Incapsular texto:">
+<!ENTITY cellTextWrap.accessKey           "t">
 <!ENTITY cellWrap.label                   "Circuir">
+<!ENTITY cellNoWrap.label                 "Non incapsular">
 <!ENTITY cellAlignTop.label               "Apice">
 <!ENTITY cellAlignMiddle.label            "Medie">
 <!ENTITY cellAlignBottom.label            "Basso">
 <!ENTITY cellAlignJustify.label           "Justificar">
+<!ENTITY cellInheritColor.label           "(Sia le color del tabella transparente)">
 <!ENTITY cellUseCheckboxHelp.label        "Usar le quadratos de selection pro definir qual proprietates applicar a tote le cellas seligite">
 
 <!-- Used in both Table and Cell panels  -->
