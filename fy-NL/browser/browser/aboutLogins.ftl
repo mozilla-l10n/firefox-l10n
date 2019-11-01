@@ -75,6 +75,7 @@ login-intro-description = As jo jo oanmeldgegevens by { -brand-product-name } op
 login-intro-instruction-fxa = Meitsje op it apparaat wêrop jo oanmeldgegevens stean in { -fxaccount-brand-name } of meld jo oan
 login-intro-instruction-fxa-settings = Soargje derfoar dat jo it fjild Oanmeldingen yn de ynstellingen fan { -sync-brand-short-name } oanfinkt hawwe
 about-logins-intro-instruction-help = Besykje <a data-l10n-name="help-link">Stipe foar { -lockwise-brand-short-name }</a> foar mear help
+about-logins-intro-import = As jo oanmeldingen yn in oare browser bewarre wurde, kinne jo <a data-l10n-name="import-link">se ymportearje yn { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -110,11 +111,8 @@ master-password-reload-button =
     .label = Oanmelde
     .accesskey = O
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Annulearje
-confirmation-dialog-dismiss-button =
-    .title = Annulearje
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Wolle jo jo oanmeldingen oeral wêr't jo { -brand-product-name } brûke? Gean nei de opsjes fan { -sync-brand-short-name } en finkje it fjild Oanmeldingen oan.
@@ -127,6 +125,15 @@ enable-password-sync-preferences-button =
            *[other] { -sync-brand-short-name }-foarkarren besjen
         }
     .accesskey = b
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Dit net mear freegje
+    .accesskey = D
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Annulearje
+confirmation-dialog-dismiss-button =
+    .title = Annulearje
 confirm-delete-dialog-title = Dizze oanmelding fuortsmite?
 confirm-delete-dialog-message = Dizze aksje kin net ûngedien makke wurde.
 confirm-delete-dialog-confirm-button = Fuortsmite
