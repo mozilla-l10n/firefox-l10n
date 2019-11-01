@@ -147,7 +147,7 @@ intl-locales-requested = Localisationes requirite
 intl-locales-available = Localisationes disponibile
 intl-locales-supported = Linguas del application
 intl-locales-default = Localisation predefinite
-intl-os-title = Systema operative
+intl-os-title = Systema de operation
 intl-os-prefs-system-locales = Localisationes del systema
 intl-regional-prefs = Preferentias regional
 # Variables
@@ -192,7 +192,7 @@ text-copied = Texto copiate al area de transferentia
 
 blocked-driver = Blocate per le version de tu driver graphic.
 blocked-gfx-card = Blocate per tu carta graphic per problemas del driver non resolvite.
-blocked-os-version = Blocate per le version de tu systema operative.
+blocked-os-version = Blocate pro le version de tu systema de operation.
 blocked-mismatched-version = Blocate perque le registro e le DLL ha un discordantia super le version de tu conductor graphic.
 # Variables
 # $driverVersion - The graphics driver version string
