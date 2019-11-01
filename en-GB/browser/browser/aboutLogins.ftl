@@ -75,6 +75,7 @@ login-intro-description = If you saved your logins to { -brand-product-name } on
 login-intro-instruction-fxa = Create or sign in to your { -fxaccount-brand-name } on the device where your logins are saved
 login-intro-instruction-fxa-settings = Make sure you’ve selected the Logins tickbox in { -sync-brand-short-name } Settings
 about-logins-intro-instruction-help = Visit <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Support</a> for more help
+about-logins-intro-import = If your logins are saved in another browser, you can <a data-l10n-name="import-link">import them into { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -110,11 +111,8 @@ master-password-reload-button =
     .label = Log in
     .accesskey = L
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Cancel
-confirmation-dialog-dismiss-button =
-    .title = Cancel
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Want your logins everywhere you use { -brand-product-name }? Go to your { -sync-brand-short-name } Options and select the Logins tickbox.
@@ -127,6 +125,15 @@ enable-password-sync-preferences-button =
            *[other] Visit { -sync-brand-short-name } Preferences
         }
     .accesskey = V
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Don’t ask me again
+    .accesskey = D
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Cancel
+confirmation-dialog-dismiss-button =
+    .title = Cancel
 confirm-delete-dialog-title = Delete this login?
 confirm-delete-dialog-message = This action cannot be undone.
 confirm-delete-dialog-confirm-button = Delete
