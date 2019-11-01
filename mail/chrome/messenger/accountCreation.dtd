@@ -3,10 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Налаштувати наявний обліковий запис пошти">
+
 <!ENTITY name.label                      "Ваше ім’я:">
 <!ENTITY name.accesskey                  "і">
 <!ENTITY name.placeholder                "Ім’я Прізвище">
+<!ENTITY fullname.placeholder            "Ваше ім'я та прізвище">
 <!ENTITY name.text                       "Ваше ім’я, яким його бачитимуть інші">
+<!ENTITY name.error                      "Введіть своє ім’я або псевдонім">
 <!ENTITY email.label                     "Поштова адреса:">
 <!ENTITY email.accesskey                 "а">
 <!-- LOCALIZATION NOTE(email.placeholder): Domain @example.com must stay in English -->
@@ -18,7 +21,6 @@
 <!ENTITY password.text                   "Додатково, буде використане лише для перевірки імені користувача">
 <!ENTITY rememberPassword.label          "Запам’ятати пароль">
 <!ENTITY rememberPassword.accesskey      "з">
-
 <!ENTITY usernameEx.label                "Ваше ім'я користувача:">
 <!ENTITY usernameEx.accesskey            "м">
 <!-- LOCALIZATION NOTE(usernameEx.placeholder): YOURDOMAIN refers to the Windows domain in ActiveDirectory. yourusername refers to the user's account name in Windows. -->
@@ -26,6 +28,7 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Ім'я користувача домену">
 
+<!ENTITY protocol.label                  "Протокол:">
 <!ENTITY imapLong.label                  "IMAP (віддалені теки)">
 <!ENTITY pop3Long.label                  "POP3 (зберігати пошту на вашому комп’ютері)">
 
@@ -35,6 +38,9 @@
 <!ENTITY hostname.label                  "Хост сервера">
 <!ENTITY port.label                      "Порт">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Сервер:">
+<!ENTITY portRow.label                   "Порт:">
+<!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Автентифікація">
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                      "POP3">
@@ -60,7 +66,7 @@
 <!ENTITY stop.label                      "Зупинити">
 <!ENTITY stop.accesskey                  "З">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is
-     displayed on the button in manual edit mode which will re-guess
+     displayed on the button in manual config mode which will re-guess
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Спробувати">
@@ -69,6 +75,9 @@
 <!ENTITY manual-edit.accesskey           "В">
 <!ENTITY open-provisioner.label          "Отримати нову адресу електронної пошти…">
 <!ENTITY open-provisioner.accesskey      "О">
+
+
+<!ENTITY get-help.label                  "Отримати допомогу">
 
 
 <!ENTITY warning.label                   "Увага!">
