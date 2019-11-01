@@ -7,7 +7,7 @@ restore-page-tab-title = Restaurar le session
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = Nos lo regretta. Nos ha problemas a recuperar tu paginas.
 restore-page-problem-desc = Nos ha problemas a restaurar tu ultime session de navigation. Selige "Restaurar le session" pro retentar.
-restore-page-try-this = Ancora non succede restaurar tu session? Alcun vices, un scheda causa le problema. Examina le schedas precedente, retira le marcas de selection del schedas que tu non require, e postea restaura.
+restore-page-try-this = Ancora non succede a restaurar tu session? Alcun vices, un scheda causa le problema. Examina le schedas precedente, dismarca le schedas que tu non require, e postea restaura.
 restore-page-hide-tabs = Celar le schedas precedente
 restore-page-show-tabs = Vider le schedas precedente
 # When tabs are distributed across multiple windows, this message is used as a
