@@ -1,0 +1,146 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!ENTITY msgComposeWindow.title "Rediger: (nulle subjecto)">
+
+<!-- File Menu -->
+<!ENTITY fileMenu.label "File">
+<!ENTITY fileMenu.accesskey "f">
+<!ENTITY newMenu.label "Nove">
+<!ENTITY newMenu.accesskey "N">
+<!ENTITY newMessage.label "Message">
+<!ENTITY newMessage.key "M">
+<!ENTITY newMessageCmd2.key "N">
+<!ENTITY newMessage.accesskey "M">
+<!ENTITY newContact.label "Contacto del libro de adresses…">
+<!ENTITY newContact.accesskey "C">
+<!ENTITY attachMenu.label "Annexar">
+<!ENTITY attachMenu.accesskey "x">
+<!ENTITY attachFileCmd.label "File(s)…">
+<!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachPageCmd.label "Pagina web…">
+<!ENTITY attachPageCmd.accesskey "w">
+<!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
+<!ENTITY attachVCardCmd.label "Carta de visita (vCard)">
+<!ENTITY attachVCardCmd.accesskey "P">
+<!ENTITY remindLater.label "Rememora me plus tarde">
+<!ENTITY remindLater.accesskey "t">
+<!ENTITY closeCmd.label "Clauder">
+<!ENTITY closeCmd.key "W">
+<!ENTITY closeCmd.accesskey "c">
+<!ENTITY saveCmd.label "Salvar">
+<!ENTITY saveCmd.key "S">
+<!ENTITY saveCmd.accesskey "s">
+<!ENTITY saveAsCmd.label "Salvar como">
+<!ENTITY saveAsCmd.accesskey "c">
+<!ENTITY saveAsFileCmd.label "File…">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsDraftCmd.label "Minuta">
+<!ENTITY saveAsDraftCmd.accesskey "M">
+<!ENTITY saveAsTemplateCmd.label "Modello">
+<!ENTITY saveAsTemplateCmd.accesskey "M">
+<!ENTITY sendNowCmd.label "Inviar ora">
+<!ENTITY sendCmd.keycode "VK_RETURN">
+<!ENTITY sendNowCmd.accesskey "u">
+<!ENTITY sendLaterCmd.label "Inviar plus tarde">
+<!ENTITY sendLaterCmd.keycode "VK_RETURN">
+<!ENTITY sendLaterCmd.accesskey "t">
+<!ENTITY printSetupCmd.label "Configurar le pagina…">
+<!ENTITY printSetupCmd.accesskey "o">
+<!ENTITY printPreviewCmd.label "Vista preliminar del impression">
+<!ENTITY printPreviewCmd.accesskey "p">
+<!ENTITY printCmd.label "Imprimer…">
+<!ENTITY printCmd.key "I">
+<!ENTITY printCmd.accesskey "I">
+
+<!-- Edit Menu -->
+<!ENTITY editMenu.label "Rediger">
+<!ENTITY editMenu.accesskey "R">
+<!ENTITY undoCmd.label "Disfacer">
+<!ENTITY undoCmd.key "Z">
+<!ENTITY undoCmd.accesskey "D">
+<!ENTITY redoCmd.label "Refacer">
+<!ENTITY redoCmd.key "Y">
+<!ENTITY redoCmd.accesskey "r">
+<!ENTITY cutCmd.label "Taliar">
+<!ENTITY cutCmd.key "X">
+<!ENTITY cutCmd.accesskey "t">
+<!ENTITY copyCmd.label "Copiar">
+<!ENTITY copyCmd.key "C">
+<!ENTITY copyCmd.accesskey "c">
+<!ENTITY pasteCmd.label "Collar">
+<!ENTITY pasteCmd.key "V">
+<!ENTITY pasteCmd.accesskey "p">
+<!ENTITY pasteNoFormattingCmd.key "V">
+<!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY editRewrapCmd.accesskey "w">
+<!ENTITY deleteCmd.label "Deler">
+<!ENTITY deleteCmd.accesskey "d">
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
+     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
+     as attachments.accesskey. -->
+<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
+     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
+     shortcut key (Ctrl+M). Typically, this key should not be translated unless
+     otherwise required by specific needs of the localization. -->
+
+<!-- Reorder Attachment Panel -->
+
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
+<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
+     Please ensure that this translation matches
+     sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
+
+<!-- View Menu -->
+
+
+<!-- Format Menu -->
+
+<!-- Options Menu -->
+
+<!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
+
+
+<!-- Tools Menu -->
+
+<!--  Mac OS X Window Menu -->
+
+<!-- Mail Toolbar -->
+
+<!-- Mail Toolbar Tooltips -->
+
+<!-- Headers -->
+<!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
+     be taken from the strings of attachmentCount in composeMsgs.properties.
+     Please ensure that this access key is unique: Do not duplicate any other
+     first-level access keys of the compose window, e.g. those of main menu,
+     buttons, or labels (message headers, contacts side bar, attachment reminder
+     bar). -->
+
+<!-- Format Toolbar, imported from editorAppShell.xul -->
+
+<!-- Message Pane Context Menu -->
+
+<!-- Attachment Item and List Context Menus -->
+
+<!-- Attachment Pane Header Bar Context Menu -->
+<!-- LOCALIZATION NOTE (initiallyShowAttachmentPane.label):
+     Should use the same wording as startExpandedCmd.label
+     in msgHdrViewOverlay.dtd. -->
+
+<!-- Spell checker context menu items -->
+
+<!-- Title for the address picker panel -->
+
+<!-- Identity popup customize menuitem -->
+
+<!-- Accessibility name for the document -->
+
+<!-- Status Bar -->
