@@ -8,7 +8,7 @@
 <!ENTITY cmd.disableAddon.label               "Disactivar">
 <!ENTITY cmd.disableAddon.accesskey           "I">
 
-<!ENTITY cmd.askToActivate.label              "Demandar pro activar">
+<!ENTITY cmd.askToActivate.label              "Demandar ante de activar">
 <!ENTITY cmd.askToActivate.tooltip            "Demandar cata vice si usar iste additivo">
 <!ENTITY cmd.alwaysActivate.label             "Sempre activar">
 <!ENTITY cmd.alwaysActivate.tooltip           "Sempre usar iste additivo">
