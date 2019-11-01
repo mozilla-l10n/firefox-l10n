@@ -75,6 +75,7 @@ login-intro-description = Slik kan du få dine { -brand-product-name } innloggin
 login-intro-instruction-fxa = Lag eller logg inn på din { -fxaccount-brand-name } på enheten der dine innlogginger er lagret
 login-intro-instruction-fxa-settings = Forsikre deg om at du har markert avkryssingsboksen for innlogginger i { -sync-brand-short-name }-innstillingene
 about-logins-intro-instruction-help = Gå til <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Support</a> for mer hjelp
+about-logins-intro-import = Hvis innloggingene dine er lagret i en annen nettleser, kan du <a data-l10n-name="import-link">importere dem til { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -110,11 +111,8 @@ master-password-reload-button =
     .label = Logg inn
     .accesskey = L
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Avbryt
-confirmation-dialog-dismiss-button =
-    .title = Avbryt
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Vil du ha innlogginger overalt hvor du bruker { -brand-product-name }? Gå til { -sync-brand-short-name }-innstillingene, og velg avkryssingsboks for Innlogginger.
@@ -127,6 +125,15 @@ enable-password-sync-preferences-button =
            *[other] Gå til { -sync-brand-short-name }-innstillinger
         }
     .accesskey = G
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Ikke spør igjen
+    .accesskey = I
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Avbryt
+confirmation-dialog-dismiss-button =
+    .title = Avbryt
 confirm-delete-dialog-title = Slett denne innloggingen?
 confirm-delete-dialog-message = Denne handlingen kan ikke angres.
 confirm-delete-dialog-confirm-button = Slett
