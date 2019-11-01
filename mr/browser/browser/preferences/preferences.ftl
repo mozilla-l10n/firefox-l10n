@@ -333,6 +333,10 @@ update-enable-search-update =
     .label = शोध इंजिन आपोआप अद्ययावत करा
     .accesskey = e
 update-in-progress-title = अद्यतन प्रगतीपथावर
+update-in-progress-ok-button = रद्द करा
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = पुढे चला
 
 ## General Section - Performance
 
@@ -595,6 +599,11 @@ sync-currently-syncing-logins-passwords = लॉगिन आणि पासव
 sync-currently-syncing-addresses = पत्ते
 sync-currently-syncing-creditcards = क्रेडिट कार्ड
 sync-currently-syncing-addons = ॲड-ऑन
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] पर्याय
+       *[other] प्राधान्यक्रम
+    }
 sync-change-options =
     .label = बदला…
     .accesskey = C
@@ -810,9 +819,16 @@ enhanced-tracking-protection-setting-custom =
 
 
 
+content-blocking-etp-custom-desc = कोणती ट्रॅकर्स आणि स्क्रिप्ट अवरोधित करायची ते निवडा.
+content-blocking-cross-site-tracking-cookies = क्रॉस-साईट ट्रॅकिंग कुकी
+content-blocking-social-media-trackers = सोशल मीडिया ट्रॅकर
 content-blocking-all-cookies = सर्व कुकीज
 content-blocking-unvisited-cookies = भेट न दिलेल्या साइटवरील कुकीज
 content-blocking-all-windows-trackers = सर्व विंडोमध्ये ज्ञात ट्रॅकर
+content-blocking-all-windows-tracking-content = सर्व विंडोमधील सामग्री ट्रॅक करणे
+content-blocking-all-third-party-cookies = सर्व तृतीय-पक्ष कुकीज
+content-blocking-cryptominers = क्रिप्टोमाइनर
+content-blocking-fingerprinters = फिंगरप्रिंटर
 content-blocking-warning-title = सावधान!
 content-blocking-learn-how = कसे ते जाणा
 content-blocking-warning-learn-how = कसे ते जाणा
