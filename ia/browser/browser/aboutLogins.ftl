@@ -126,7 +126,7 @@ enable-password-sync-preferences-button =
         }
     .accesskey = V
 about-logins-enable-password-sync-dont-ask-again-button =
-    .label = Non plus questionar me
+    .label = Non plus demandar me isto
     .accesskey = N
 
 ## Dialogs
