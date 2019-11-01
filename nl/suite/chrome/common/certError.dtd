@@ -14,6 +14,13 @@ be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "U hebt &brandShortName; gevraagd een beveiligde verbinding
 te maken met <b>#1</b>, maar we kunnen niet bevestigen dat uw verbinding is beveiligd.">
+
+<!-- Localization note (certerror.introPara1a) - The text content of the span
+tag will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara1a "U hebt &brandShortName; gevraagd een beveiligde verbinding
+te maken met <span class='hostname'/>, maar we kunnen niet bevestigen dat uw verbinding
+is beveiligd.">
 <!ENTITY certerror.introPara2 "Normaal gesproken zullen websites vertrouwde identificatie
 tonen wanneer u een beveiligde verbinding wilt opzetten, om te bewijzen dat u naar de
 juiste plek gaat. De identiteit van deze website kan echter niet worden geverifieerd.">
