@@ -69,6 +69,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = Сақталған логиндерді іздеудесіз бе? { -sync-brand-short-name } баптаңыз.
+about-logins-login-intro-heading-logged-in = Синхрондалған логиндер табылмады.
 login-intro-description = Логиндерді басқа құрылғыдағы { -brand-product-name } ішіне сақтасаңыз, оларды осында келесідей алуға болады:
 login-intro-instruction-fxa = Логиндеріңіз сақталған құрылғыда { -fxaccount-brand-name } тіркелгісін жасаңыз немесе оған кіріңіз
 login-intro-instruction-fxa-settings = { -sync-brand-short-name } баптауларында Логиндер белгіленгеніне көз жеткізіңіз
@@ -108,11 +109,8 @@ master-password-reload-button =
     .label = Кіру
     .accesskey = к
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Бас тарту
-confirmation-dialog-dismiss-button =
-    .title = Бас тарту
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -120,6 +118,15 @@ enable-password-sync-preferences-button =
            *[other] { -sync-brand-short-name } баптауларын ашыңыз
         }
     .accesskey = п
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Келесіде осы сұрақты қоймау
+    .accesskey = д
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Бас тарту
+confirmation-dialog-dismiss-button =
+    .title = Бас тарту
 confirm-delete-dialog-title = Бұл логинді өшіру керек пе?
 confirm-delete-dialog-message = Бұл әрекетті болдырмау мүмкін емес болады.
 confirm-delete-dialog-confirm-button = Өшіру
