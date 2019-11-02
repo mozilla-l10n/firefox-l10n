@@ -418,6 +418,7 @@ theme-heading = Gestione temi
 plugin-heading = Gestione plugin
 dictionary-heading = Gestione dizionari
 locale-heading = Gestione lingue
+updates-heading = Gestione aggiornamenti
 discover-heading = Personalizza { -brand-short-name }
 shortcuts-heading = Gestione scorciatoie da tastiera
 theme-heading-search-label = Trova altri temi
