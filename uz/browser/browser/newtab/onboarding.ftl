@@ -12,21 +12,57 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-try-now = Sinab ko‘ring
+onboarding-button-label-learn-more = Batafsil
+onboarding-button-label-try-now = Sinab koʻring
+onboarding-button-label-get-started = Boshlash
 
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = { -brand-short-name }ga xush kelibsiz
-onboarding-start-browsing-button-label = Internetda kezishni boshlang
+onboarding-welcome-body = Endi brauzeringiz bor.<br/>{ -brand-product-name } bilan yaqindan tanishing.
+onboarding-welcome-learn-more = Yutuqlari haqida batafsil maʼlumot oling.
+onboarding-welcome-modal-get-body = Endi brauzeringiz bor.<br/>{ -brand-product-name }dan samarali foydalaning.
+onboarding-welcome-modal-supercharge-body = Maxfiyligingiz himoyasini “qayta quvvatlang”.
+onboarding-welcome-modal-privacy-body = Brauzeringiz bor. Endi unga maxfiylik himoyasini qoʻshamiz.
+onboarding-welcome-modal-family-learn-more = { -brand-product-name } mahsulotlari oilasi bilan tanishing.
+onboarding-welcome-form-header = Bu yerdan boshlang
+onboarding-join-form-header = { -brand-product-name } hamjamiyatiga qoʻshiling
+onboarding-join-form-body = Boshlash uchun e-mail manzilingizni kiriting.
+onboarding-join-form-email =
+    .placeholder = E-pochta manzilingizni kiriting
+onboarding-join-form-email-error = E-pochta manzilini xatosiz kiriting
+onboarding-join-form-legal = Davom etish bilan siz <a data-l10n-name="terms">Xizmat koʻrsatish shartlari</a> va <a data-l10n-name="privacy">Maxfiylik eslamtlari</a>ga rozilik bildirgan hisoblanasiz.
+onboarding-join-form-continue = Davom etish
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Hisobingiz bormi?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Hisobga kirish
+onboarding-start-browsing-button-label = Koʻrishni boshlash
 onboarding-cards-dismiss =
-    .title = Rad etish
-    .aria-label = Rad etish
+    .title = Yopish
+    .aria-label = Yopish
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Qoʻlingizdan nima kelishini sinab koʻramiz.
+onboarding-fullpage-form-email =
+    .placeholder = E-pochta manzilingiz
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = { -brand-product-name }ni oʻzingiz bilan olib yuring
+onboarding-sync-welcome-content = Xatchoʻp, tarix, parol va boshqa turli sozlamalarni barcha qurilmalaringizga sinxronlang.
+onboarding-sync-welcome-learn-more-link = Firefox hisoblari haqida batafsil maʼlumot oling
+onboarding-sync-form-invalid-input = E-pochta manzilini xatosiz kiriting
+onboarding-sync-legal-notice = Davom etish orqali siz <a data-l10n-name="terms"> Xizmat koʻrsatish shartlari </a> va <a data-l10n-name="privacy"> Maxfiylik eslatmalari </a>ga rozilik bildirasiz.
+onboarding-sync-form-input =
+    .placeholder = E-pochta
+onboarding-sync-form-continue-button = Davom etish
+onboarding-sync-form-skip-login-button = Ushbu bosqichni oʻtkazib yuboring
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = E-pochtangizni kiriting
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
