@@ -38,7 +38,7 @@ cfr-doorhanger-extension-author = af { $name }
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Anbefaling
 
-cfr-doorhanger-extension-notification2 = Recommendation
+cfr-doorhanger-extension-notification2 = Anbefaling
   .tooltiptext = Anbefalet udvidelse
   .a11y-announcement = Anbefalet udvidelse tilgængelig
 
