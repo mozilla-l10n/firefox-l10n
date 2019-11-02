@@ -76,6 +76,7 @@ login-intro-description = Калі вы захавалі свае лагіны �
 login-intro-instruction-fxa = Стварыце альбо ўвайдзіце ў свой { -fxaccount-brand-name } на прыладзе, дзе захоўваюцца вашы лагіны
 login-intro-instruction-fxa-settings = Пераканайцеся, што вы ўстанавілі сцяжок Лагіны у наладах { -sync-brand-short-name }
 about-logins-intro-instruction-help = Для атрымання дадатковай даведкі наведайце <a data-l10n-name="help-link">{ -lockwise-brand-short-name } падтрымку</a>
+about-logins-intro-import = Калі вашы паролі захоўваюцца ў іншым браўзеры, вы можаце <a data-l10n-name="import-link">імпартаваць іх у { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -111,11 +112,8 @@ master-password-reload-button =
     .label = Увайсці
     .accesskey = У
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Скасаваць
-confirmation-dialog-dismiss-button =
-    .title = Скасаваць
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Хочаце мець свае лагіны ўсюды, дзе карыстаецеся { -brand-product-name }? Перайдзіце ў налады { -sync-brand-short-name } і выберыце сцяжок Лагіны.
@@ -128,6 +126,15 @@ enable-password-sync-preferences-button =
            *[other] Адкрыць налады { -sync-brand-short-name }
         }
     .accesskey = А
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Больш не пытацца
+    .accesskey = а
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Скасаваць
+confirmation-dialog-dismiss-button =
+    .title = Скасаваць
 confirm-delete-dialog-title = Выдаліць гэты лагін?
 confirm-delete-dialog-message = Гэтае дзеянне незваротнае.
 confirm-delete-dialog-confirm-button = Выдаліць
