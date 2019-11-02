@@ -195,12 +195,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Visualizza aggiornamenti recenti
     .accesskey = V
+addon-updates-check-for-updates = Controlla aggiornamenti
+    .accesskey = C
+addon-updates-view-updates = Visualizza aggiornamenti recenti
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Aggiorna automaticamente i componenti aggiuntivi
+    .accesskey = A
+addon-updates-update-addons-automatically = Aggiorna automaticamente i componenti aggiuntivi
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -214,6 +220,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = Ripristina l’aggiornamento manuale per tutti i componenti aggiuntivi
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = Ripristina l’aggiornamento automatico per tutti i componenti aggiuntivi
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Ripristina l’aggiornamento manuale per tutti i componenti aggiuntivi
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -233,16 +243,27 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installa aggiornamenti
     .tooltiptext = Installa gli aggiornamenti disponibili in questo elenco
+addon-updates-updating = Aggiornamento dei componenti aggiuntivi in corso
+addon-updates-installed = I componenti aggiuntivi sono stati aggiornati.
+addon-updates-none-found = Nessun aggiornamento disponibile
+addon-updates-manual-updates-found = Visualizza aggiornamenti disponibili
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Installa componente aggiuntivo da file…
+    .accesskey = I
 addon-install-from-file-dialog-title = Selezionare i componenti aggiuntivi da installare
 addon-install-from-file-filter-name = Componenti aggiuntivi
+addon-open-about-debugging = Debug componenti aggiuntivi
+    .accesskey = D
 
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
     .label = Gestisci scorciatoie da tastiera
+    .accesskey = G
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Gestisci scorciatoie da tastiera
     .accesskey = G
 shortcuts-no-addons = Non ci sono estensioni attive.
 shortcuts-no-commands = Le seguenti estensioni non hanno scorciatoie da tastiera:
@@ -385,3 +406,14 @@ recommended-theme-1 = Ti senti creativo? <a data-l10n-name="link">Disegna il tuo
 
 ## Page headings
 
+extension-heading = Gestione estensioni
+theme-heading = Gestione temi
+plugin-heading = Gestione plugin
+dictionary-heading = Gestione dizionari
+locale-heading = Gestione lingue
+discover-heading = Personalizza { -brand-short-name }
+shortcuts-heading = Gestione scorciatoie da tastiera
+theme-heading-search-label = Trova altri temi
+extension-heading-search-label = Trova altre estensioni
+addons-heading-search-input =
+    .placeholder = Cerca in addons.mozilla.org
