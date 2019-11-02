@@ -75,11 +75,13 @@ when there are no windows but Firefox is still running. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
-<!ENTITY personalbarCmd.label "Xatcho‘plar paneli">
+<!ENTITY navbar.accessibleLabel "Navigatsiya">
+<!ENTITY personalbarCmd.label "Xatchoʻplar paneli">
 <!ENTITY personalbarCmd.accesskey "X">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Xatchoʻplar">
 <!ENTITY bookmarksToolbarItem.label "Xatcho‘plar paneli bandlari">
 
 <!ENTITY pageSourceCmd.label "Sahifa manbasi">
@@ -134,35 +136,54 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Firefoxni oʻzingiz bilan olib keting">
+<!ENTITY fxa.signin.description.label "Xatchoʻp, tarix, parol va boshqa turli sozlamalarni barcha qurilmalaringizga sinxronlang.">
+<!ENTITY fxa.signin.button.label "&syncBrand.shortName.label;ni yoqish">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "E-pochta manzilni tekshirish">
+<!ENTITY fxa.unverified.description.label "Sinxronlashdan oldin hisobingizni tasdiqlashingiz lozim.">
+<!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; sozlamalarini ochish">
 
+<!ENTITY pictureInPictureHideToggle.label "Rasm ichida rasm rejimini yashirish">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Kirilgan hisob nomi:">
+<!ENTITY fxa.menu.manageAccount.label "Hisobni boshqarish">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; sozlamalari">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; sozlamalari">
+<!ENTITY fxa.menu.connectAnotherDevice2.label "Boshqa qurilmani ulash">
+<!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "&brandProductName; hisobiga kirish">
+<!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label;ni yoqish">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName; xizmatlari">
 
 <!ENTITY fxa.menu.account.label "Hisob">
 <!ENTITY fxa.menu.settings.label "Sozlamalar">
 <!ENTITY fxa.menu.accountSettings.label "Hisob sozlamalari">
 <!ENTITY fxa.menu.signOut.label "Chiqish…">
+<!ENTITY fxa.menu.deviceSettings.label "Qurilma sozlamalari">
+<!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label;ni sozlash…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
+<!ENTITY fxa.service.sendTab.description "Ichki oynani hisobingizdan kirilgan boshqa qurilmaga yuboring.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-<!ENTITY fullscreenWarning.beforeDomain.label "">
+<!ENTITY fullscreenWarning.beforeDomain.label " ">
 <!ENTITY fullscreenWarning.afterDomain.label "– hozir butun ekranda">
 <!ENTITY fullscreenWarning.generic.label "Bu hujjat hozir butun ekranda ko‘rinmoqda">
 
@@ -224,7 +245,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Chop qilish">
 <!ENTITY printButton.tooltip          "Ushbu sahifani chop qilish">
 
-<!ENTITY urlbar.viewSiteInfo.label                      "Sayt haqidagi ma’lumotni ko‘rish">
+<!ENTITY urlbar.viewSiteInfo.label                      "Sayt haqidagi maʼlumotni koʻrish">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Xabar panelini ochish">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Joylashuvni so‘rash panelini ochish">
@@ -394,6 +415,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "So‘nggi tarixni tozalash">
 <!ENTITY appMenuHistory.restoreSession.label "Oldingi seansni tiklash">
 <!ENTITY appMenuHistory.viewSidebar.label "Tarixni yon panelda ko‘rsatish">
+<!ENTITY appMenuHistory.hideSidebar.label "Tarix yon panelini yashirish">
 <!ENTITY appMenuHistory.recentHistory.label "Oxirgi tarix">
 <!ENTITY appMenuHelp.label "Yordam">
 
@@ -418,10 +440,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Bu yerdagi ichki oynalarni boshqa qurilmalarda ko‘rishni xohlaysizmi?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Sinxronizatsiya parametrlarini ochish">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Ichki oynalar ro‘yxatini boshqa qurilmalarda ko‘rish uchun Firefox hisobiga kiring.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Boshqa qurilmalaridagi ichki oynalar roʻyxatini koʻring.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Hisobingiz tasdiqlanishi kerak.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sinxronlash uchun tizimga kiring">
+<!ENTITY appMenuRemoteTabs.signintosync.label "&syncBrand.shortName.label; hisobiga kirish">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "&syncBrand.shortName.label;ni yoqish">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Qurilmalarni boshqarish…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sinxronlangan ichki oynalar yon panelini ko‘rish">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Sinxronlangan ichki oynalar yon panelini yashirish">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Boshqa qurilmaga ulanish">
 
 <!ENTITY appMenuRecentHighlights.label "So‘nggi ajratilgan saytlar">
@@ -454,6 +480,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Kengayma ustidan shikoyat qilish">
+<!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -536,6 +564,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchWithDesc.label):
      This string prompts the user to use the list of one-click search engines in
      the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "Bu safar, quyidagi bilan izlang:">
 
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
@@ -601,6 +630,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Pocket xizmatiga saqlash">
+<!ENTITY saveToPocketCmd.label        "Sahifani Pocket xizmatiga saqlash">
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "Havolani Pocket xizmatiga saqlash">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Pocket roʻyxatini koʻrish">
 
 <!ENTITY emailPageCmd.label           "Havolani e-pochtadan jo‘natish">
 <!ENTITY emailPageCmd.accesskey       "e">
@@ -800,15 +835,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 <!ENTITY identity.securityView.label "Sayt xavfsizligi">
 
+<!ENTITY identity.connection "Ulanish">
 <!ENTITY identity.connectionSecure "Xavfsiz ulanish">
 <!ENTITY identity.connectionNotSecure "Ulanish – xavfsiz emas">
 
+<!ENTITY identity.connectionSecure3 "Xavfsiz ulanish">
+<!ENTITY identity.connectionNotSecure2 "Ishonchsiz ulanish">
+<!ENTITY identity.connectionNotSecureSecurityView "Bu saytga ishonchsiz aloqa bilan ulangansiz.">
 <!ENTITY identity.connectionFile "Bu sahifa kompyuteringizda saqlangan.">
 <!ENTITY identity.connectionVerified2 "Siz bu saytga xavfsiz ulandingiz, sayt egasi:">
+<!ENTITY identity.connectionVerified3 "Bu saytga ishonchli aloqa bilan ulangansiz.">
 <!ENTITY identity.connectionInternal "Bu ishonchli &brandShortName; sahifasi.">
 <!ENTITY identity.extensionPage "Bu sahifa kengaytmadan yuklandi.">
 <!ENTITY identity.insecureLoginForms2 "Bu sahifaga kiritilgan ma’lumotlar o‘g‘irlanishi mumkin.">
 
+<!ENTITY identity.evOwnerLabel2 "Sertifikat beruvchi:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ushbu sahifaning xavfli bo‘lgan qismlarini blokladi.">
@@ -843,6 +884,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Ruxsat">
 
+<!ENTITY identity.permissions3 "Ruxsatlar">
 <!ENTITY identity.permissionsEmpty "Bu saytga hech qanday maxsus ruxsat bermagansiz.">
 <!ENTITY identity.permissionsReloadHint "O‘zgarishlar amalga oshishi uchun sahifani yangilashingiz kerak.">
 <!ENTITY identity.permissionsPreferences.tooltip "Ruxsat parametrlarini ochish">
