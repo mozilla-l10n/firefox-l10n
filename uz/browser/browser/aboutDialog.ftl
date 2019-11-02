@@ -9,9 +9,9 @@ update-checkForUpdatesButton =
     .label = Yangilash uchun tekshirish
     .accesskey = t
 update-updateButton =
-    .label = { -brand-shorter-name }ni yangilash uchun uni qayta ishga tushiring
+    .label = { -brand-shorter-name } yangilanishi uchun qayta ishga tushiring
     .accesskey = R
-update-checkingForUpdates = Yangilanishlar uchun tekshirilmoqda...
+update-checkingForUpdates = Yangilanishlar uchun tekshirish...
 update-downloading = <img data-l10n-name="icon"/>Yangilanish yuklab olinmoqda —<label data-l10n-name="download-status"/>
 update-applying = Yangilanish qo‘llanmoqda…
 update-failed = Yangilab bo‘lmadi.<label data-l10n-name="failed-link">So‘nggi versiyani yuklab olish</label>
