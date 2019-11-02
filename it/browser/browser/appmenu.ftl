@@ -13,3 +13,10 @@ appmenuitem-protection-report-tooltip =
 
 fxa-toolbar-sync-now =
     .label = Sincronizza adesso
+
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+  .label = Aumenta zoom
+appmenuitem-zoom-reduce =
+  .label = Riduci zoom
