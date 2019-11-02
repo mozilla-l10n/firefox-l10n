@@ -75,6 +75,7 @@ login-intro-description = თუ თქვენს მონაცემებ�
 login-intro-instruction-fxa = შედით ან შექმენით { -fxaccount-brand-name } იმ მოწყობილობიდან, რომელზეც თქვენი ანგარიშები ინახება
 login-intro-instruction-fxa-settings = დარწმუნდით, რომ მონიშნული გაქვთ ანგარიშების უჯრა { -sync-brand-short-name(case: "gen") } პარამეტრებში
 about-logins-intro-instruction-help = იხილეთ <a data-l10n-name="help-link">{ -lockwise-brand-short-name }-მხარდაჭერის</a> გვერდი, დახმარების მისაღებად
+about-logins-intro-import = თუ თქვენი ანგარიშების მონაცემებ, სხვა ბრაუზერში ინახება, შეგიძლიათ <a data-l10n-name="import-link">გადმოიტანოთ { -lockwise-brand-short-name }-ში</a>
 
 ## Login
 
@@ -110,11 +111,8 @@ master-password-reload-button =
     .label = შესვლა
     .accesskey = ლ
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = გაუქმება
-confirmation-dialog-dismiss-button =
-    .title = გაუქმება
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] გსურთ თქვენი ანგარიშები თან იქონიოთ ყველგან, სადაც { -brand-product-name } გიყენიათ? გადადით { -sync-brand-short-name(case: "gen") } პარამეტრებში და მონიშნეთ ანგარიშების უჯრა.
@@ -127,6 +125,15 @@ enable-password-sync-preferences-button =
            *[other] იხილეთ { -sync-brand-short-name(case: "gen") } პარამეტრები
         }
     .accesskey = ი
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = მომავალში შეკითხვის გარეშე
+    .accesskey = გ
+
+## Dialogs
+
+confirmation-dialog-cancel-button = გაუქმება
+confirmation-dialog-dismiss-button =
+    .title = გაუქმება
 confirm-delete-dialog-title = წაიშალოს ეს ანგარიში?
 confirm-delete-dialog-message = ეს ქმედება შეუქცევადია.
 confirm-delete-dialog-confirm-button = წაშლა
