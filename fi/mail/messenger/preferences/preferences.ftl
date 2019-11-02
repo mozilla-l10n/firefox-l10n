@@ -40,6 +40,7 @@ update-pref-write-failure-title = Kirjoitusvirhe
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Asetuksia ei voitu tallentaa. Ei voitu kirjoittaa tiedostoon: { $path }
+update-setting-write-failure-title = Virhe päivitysasetusten päivittämisessä
 update-in-progress-title = Päivitys käynnissä
 update-in-progress-message = Haluatko, että { -brand-short-name } jatkaa tätä päivitystä?
 update-in-progress-ok-button = &Hylkää

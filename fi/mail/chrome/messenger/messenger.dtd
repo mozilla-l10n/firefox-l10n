@@ -706,6 +706,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Tallenna haku kansiona…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Valitse viestit">
 <!ENTITY threadColumn.label "Viestiketju">
 <!ENTITY fromColumn.label "Lähettäjä">
 <!ENTITY recipientColumn.label "Vastaanottaja">
