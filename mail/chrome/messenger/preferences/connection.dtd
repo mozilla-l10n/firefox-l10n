@@ -15,7 +15,7 @@
 <!ENTITY  WPADTypeRadio.accesskey       "w">
 <!ENTITY  manualTypeRadio.label         "手動設定 Proxy:">
 <!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "Proxy 自動設定網址 (URL):">
+<!ENTITY  autoTypeRadio.label           "Proxy 自動設定網址:">
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "重新載入">
 <!ENTITY  reload.accesskey              "l">
@@ -51,9 +51,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "開啟 DNS over HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "b">
-<!ENTITY  dnsOverHttpsUrlDefault.label     "使用預設值">
-<!ENTITY  dnsOverHttpsUrlDefault.accesskey "l">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "使用預設網址來解析 DNS over HTTPS">
-<!ENTITY  dnsOverHttpsUrlCustom.label      "自訂">
-<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "t">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "輸入您想要用來解析 DNS over HTTPS 的網址">
