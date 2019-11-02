@@ -112,6 +112,10 @@ manifest-loaded-ok = Manifest indlæst.
 # Text displayed when there has been an error while trying to load the manifest
 manifest-loaded-error = Der opstod en fejl under indlæsning af manifestet:
 
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Fejl med udviklerværktøjerne i Firefox
+
 # Text displayed when the page has no manifest available
 manifest-non-existing = Der blev ikke fundet noget manifest at inspicere.
 

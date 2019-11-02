@@ -38,6 +38,16 @@ cfr-doorhanger-extension-author = af { $name }
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Anbefaling
 
+cfr-doorhanger-extension-notification2 = Recommendation
+  .tooltiptext = Anbefalet udvidelse
+  .a11y-announcement = Anbefalet udvidelse tilgængelig
+
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Anbefaling
+  .tooltiptext = Anbefalet funktion
+  .a11y-announcement = Anbefalet funktion tilgængelig
+
 ## Add-on statistics
 ## These strings are used to display the total number of
 ## users and rating for an add-on. They are shown next to each other.
@@ -168,6 +178,8 @@ cfr-doorhanger-socialtracking-ok-button = Se beskyttelse
   .accesskey = b
 cfr-doorhanger-socialtracking-close-button = Luk
   .accesskey = L
+cfr-doorhanger-socialtracking-dont-show-again = Vis mig ikke meddelelser som denne igen
+  .accesskey = V
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } forhindrede et socialt netværk i at spore dig på denne side
 cfr-doorhanger-socialtracking-description = Du har ret til et privatliv. { -brand-short-name } blokerer nu de mest almindelige sporings-mekanismer fra sociale medier for at begrænse, hvor meget data de kan indsamle om din adfærd på nettet. 
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blokerede en fingerprinter på denne side
