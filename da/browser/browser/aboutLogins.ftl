@@ -82,6 +82,8 @@ login-intro-instruction-fxa = Opret eller log ind på din { -fxaccount-brand-nam
 login-intro-instruction-fxa-settings = Vær sikker på, at du har sat et flueben ud for Logins i { -sync-brand-short-name }-indstillingerne.
 about-logins-intro-instruction-help = Besøg <a data-l10n-name="help-link">{ -lockwise-brand-short-name } denne side</a> for at få mere hjælp
 
+about-logins-intro-import = Hvis dine logins er gemt i en anden browser kan du <a data-l10n-name="import-link">importere dem til { -lockwise-brand-short-name }</a>
+
 ## Login
 
 login-item-new-login-title = Opret nyt login
@@ -133,7 +135,11 @@ enable-password-sync-preferences-button =
         [windows] Gå til { -sync-brand-short-name }-indstillinger
        *[other] Gå til { -sync-brand-short-name }-indstillinger
     }
-  .accesskey = V
+  .accesskey = G
+
+about-logins-enable-password-sync-dont-ask-again-button =
+  .label = Spørg mig ikke igen
+  .accesskey = S
 
 confirm-delete-dialog-title = Slet dette login?
 confirm-delete-dialog-message = Denne handling kan ikke fortrydes.
