@@ -186,6 +186,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Attiva
     .tooltiptext = Attiva il controllo sulla sicurezza degli aggiornamenti dei componenti aggiuntivi
+extensions-warning-safe-mode = Tutti i componenti aggiuntivi sono stati disattivati dalla modalità provvisoria.
+extensions-warning-check-compatibility = Il controllo di compatibilità dei componenti aggiuntivi è disattivato. Potrebbero essere presenti dei componenti aggiuntivi non compatibili.
+extensions-warning-check-compatibility-button = Attiva
+    .title = Attiva il controllo di compatibilità dei componenti aggiuntivi
+extensions-warning-update-security = Il controllo sulla sicurezza degli aggiornamenti dei componenti aggiuntivi è disattivato. Il sistema potrebbe essere danneggiato da un aggiornamento.
+extensions-warning-update-security-button = Attiva
+    .title = Attiva il controllo sulla sicurezza degli aggiornamenti dei componenti aggiuntivi
 
 ## Strings connected to add-on updates
 
