@@ -4,6 +4,12 @@
 
 saved-logins =
     .title = Tallennetut kirjautumistiedot
+window-close =
+    .key = s
+focus-search-shortcut =
+    .key = e
+focus-search-altshortcut =
+    .key = E
 copy-provider-url-cmd =
     .label = Kopioi osoite
     .accesskey = o
