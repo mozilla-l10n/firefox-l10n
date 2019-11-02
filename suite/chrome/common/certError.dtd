@@ -14,6 +14,13 @@ be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "თქვენ &brandShortName; მოსთხოვეთ უსაფრთხოდ
 დაგაკავშიროთ სერვერთან <b>#1</b>, მაგრამ ჩვენ ვერ დავადასტურებთ, რომ კავშირი უსაფრთხოა.">
+
+<!-- Localization note (certerror.introPara1a) - The text content of the span
+tag will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara1a "თქვენ მოითხოვეთ, რომ &brandShortName; დაუკავშირდეს
+უსაფრთხოდ მისამართს <span class='hostname'/>, მაგრამ ჩვენ ვერ ვადასტურებთ კავშირის
+დაცულობას.">
 <!ENTITY certerror.introPara2 "ჩვეულებრივ, როცა უსაფრთხო დაკავშირებას ცდილობთ,
 საიტები წარმოადგენენ სანდო საბუთს იმის დასამტკიცებლად, რომ მართებულ
 მისამართზე მოხვდით. თუმცა, ამ საიტის ნამდვილობის დამოწმება ვერ ხერხდება.">
