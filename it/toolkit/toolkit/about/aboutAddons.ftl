@@ -234,6 +234,11 @@ extensions-updates-update-selected =
     .label = Installa aggiornamenti
     .tooltiptext = Installa gli aggiornamenti disponibili in questo elenco
 
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = Selezionare i componenti aggiuntivi da installare
+addon-install-from-file-filter-name = Componenti aggiuntivi
+
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
@@ -242,26 +247,21 @@ manage-extensions-shortcuts =
 shortcuts-no-addons = Non ci sono estensioni attive.
 shortcuts-no-commands = Le seguenti estensioni non hanno scorciatoie da tastiera:
 shortcuts-input =
-  .placeholder = Inserisci una scorciatoia
-
+    .placeholder = Inserisci una scorciatoia
 shortcuts-browserAction = Attiva estensione
 shortcuts-pageAction = Attiva azione pagina
 shortcuts-sidebarAction = Attiva/disattiva barra laterale
-
 shortcuts-modifier-mac = Includi Ctrl, Alt o ⌘
 shortcuts-modifier-other = Includi Ctrl o Alt
 shortcuts-invalid = Combinazione non valida
 shortcuts-letter = Inserisci una lettera
 shortcuts-system = Non è possibile sostituire una scorciatoia da tastiera di { -brand-short-name }
-
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Scorciatoia da tastiera duplicata
-
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = La combinazione { $shortcut } è utilizzata come scorciatoia da tastiera per più comandi. Scorciatoie duplicate possono causare comportamenti imprevisti.
-
 shortcuts-exists = Già utilizzata da { $addon }
 shortcuts-card-expand-button = Visualizza altre { $numberToShow }
 shortcuts-card-collapse-button = Mostra meno scorciatoie
@@ -280,15 +280,12 @@ discopane-intro =
     terze parti. Ecco una selezione <a data-l10n-name="learn-more-trigger">
     consigliata</a> da { -brand-product-name }, con la garanzia di sicurezza,
     prestazioni e funzionalità al massimo livello.
-
 discopane-notice-recommendations =
     Alcuni consigli in questa pagina sono personalizzati. Sono basati sulle
     estensioni già installate, le impostazioni del profilo e statistiche
     d’utilizzo.
 discopane-notice-learn-more = Ulteriori informazioni
-
 privacy-policy = Informativa sulla privacy
-
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -306,6 +303,7 @@ addon-options-button =
     .aria-label = Altre opzioni
 
 ## Add-on actions
+
 report-addon-button = Segnala
 remove-addon-button = Rimuovi
 remove-addon-disabled-button = Impossibile rimuovere <a data-l10n-name="link">Perché?</a>
@@ -322,44 +320,38 @@ release-notes-addon-button = Note di versione
 permissions-addon-button = Permessi
 addons-enabled-heading = Elementi attivi
 addons-disabled-heading = Elementi disattivati
-
 extension-enabled-heading = Attive
 extension-disabled-heading = Disattivate
-
 theme-enabled-heading = Attivi
 theme-disabled-heading = Disattivati
-
 plugin-enabled-heading = Attivi
 plugin-disabled-heading = Disattivati
-
 dictionary-enabled-heading = Attivi
 dictionary-disabled-heading = Disattivati
-
 locale-enabled-heading = Attive
 locale-disabled-heading = Disattivate
-
 ask-to-activate-button = Chiedi prima di attivare
 always-activate-button = Attiva sempre
 never-activate-button = Non attivare mai
-
 addon-detail-author-label = Autore
 addon-detail-version-label = Versione
 addon-detail-last-updated-label = Ultimo aggiornamento
 addon-detail-homepage-label = Sito web
 addon-detail-rating-label = Voto
-
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
-  .title = Voto: { NUMBER($rating, maximumFractionDigits: 1) } su 5
-
+    .title = Voto: { NUMBER($rating, maximumFractionDigits: 1) } su 5
 addon-name-disabled = { $name } (disattivato)
 addon-detail-reviews-link =
     { $numberOfReviews ->
         [one] { $numberOfReviews } recensione
        *[other] { $numberOfReviews } recensioni
-}
+    }
+
+## Pending uninstall message bar
+
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> è stato rimosso.
 pending-uninstall-undo-button = Annulla
 addon-detail-updates-label = Aggiornamento automatico
@@ -377,11 +369,11 @@ addon-detail-private-browsing-help = Se viene garantito il permesso, l’estensi
 addon-detail-private-browsing-allow = Consenti
 addon-detail-private-browsing-disallow = Non consentire
 addon-badge-recommended =
-  .title = Consigliata
-  .alt = Consigliata
+    .title = Consigliata
+    .alt = Consigliata
 addon-badge-recommended2 =
-  .title = Vengono consigliate solo estensioni che soddisfano i requisiti di sicurezza e prestazioni di { -brand-product-name }
-  .aria-label = { addon-badge-recommended2.title }
+    .title = Vengono consigliate solo estensioni che soddisfano i requisiti di sicurezza e prestazioni di { -brand-product-name }
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Aggiornamenti disponibili
 recent-updates-heading = Aggiornamenti recenti
 release-notes-loading = Caricamento in corso…
@@ -390,3 +382,6 @@ addon-permissions-empty = Questa estensione non richiede alcun permesso
 recommended-extensions-heading = Estensioni consigliate
 recommended-themes-heading = Temi consigliati
 recommended-theme-1 = Ti senti creativo? <a data-l10n-name="link">Disegna il tuo tema con Firefox Color</a>.
+
+## Page headings
+
