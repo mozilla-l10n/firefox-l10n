@@ -16,7 +16,7 @@
 <!ENTITY  manualTypeRadio.accesskey     "M">
 <!ENTITY  wpadTypeRadio.label           "自動偵測 Proxy 設定">
 <!ENTITY  wpadTypeRadio.accesskey       "A">
-<!ENTITY  autoTypeRadio.label           "Proxy 自動設定網址 (URL):">
+<!ENTITY  autoTypeRadio.label           "Proxy 自動設定網址:">
 <!ENTITY  autoTypeRadio.accesskey       "c">
 <!ENTITY  reload.label                  "重新載入">
 <!ENTITY  reload.accesskey              "R">
@@ -29,4 +29,3 @@
 <!ENTITY  noproxy.label                 "直接連線:">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "範例: .mozilla.org, .net.tw, 192.168.1.0/24">
-
