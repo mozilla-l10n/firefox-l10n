@@ -75,6 +75,7 @@ login-intro-description = We xe'ayäk ri rutikirib'al amolojri'ïl pa { -brand-p
 login-intro-instruction-fxa = Tatz'uku' o tatikirisaj molojri'ïl pa { -fxaccount-brand-name } chupam ri okisab'äl, akuchi' e yakäl ri tikirib'äl amolojri'ïl
 login-intro-instruction-fxa-settings = Tatz'eta' chi xacha' ri k'ojlib'äl richin kitikitib'al molojri'ïl pa ri runuk'ulem { -sync-brand-short-name }.
 about-logins-intro-instruction-help = Tatz'eta' <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Tob'äl</a> richin ch'aqa' chik to'ïk.
+about-logins-intro-import = We ri rutikirib'al amolojri'ïl yakon pa jun chik okik'amaya'l, yatikïr <a data-l10n-name="import-link">ye'ajïk' pa { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -110,11 +111,8 @@ master-password-reload-button =
     .label = Titikirisäx molojri'ïl
     .accesskey = m
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Tiq'at
-confirmation-dialog-dismiss-button =
-    .title = Tiq'at
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] ¿La nawajo' ye'atz'ët rutikirib'al taq amolojri'ïl xab'akuchi' nawokisaj { -brand-product-name } { -brand-product-name }? Tajaqa' Taq Rucha'oj { -sync-brand-short-name } richin nacha' ri peraj rujikib'axik rutikirib'al taq molojri'ïl.
@@ -127,6 +125,15 @@ enable-password-sync-preferences-button =
            *[other] Titz'et { -sync-brand-short-name } Taq Ajowab'äl
         }
     .accesskey = t
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Mani nab'än chik pe re k'utunïk re' chwe
+    .accesskey = M
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Tiq'at
+confirmation-dialog-dismiss-button =
+    .title = Tiq'at
 confirm-delete-dialog-title = ¿La niyuj re rutikirib'al molojri'ïl?
 confirm-delete-dialog-message = Man nitzolin ta chik re samaj.
 confirm-delete-dialog-confirm-button = Tiyuj
