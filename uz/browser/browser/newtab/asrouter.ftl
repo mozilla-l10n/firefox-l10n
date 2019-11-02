@@ -2,13 +2,27 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Tavsiya qilingan kengaytma
+cfr-doorhanger-feature-heading = Tavsiya qilingan funksiya
+cfr-doorhanger-pintab-heading = Sinab koʻring: Ichki oynani qistirish
+
+
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Men buni nega ko‘ryapman
 cfr-doorhanger-extension-cancel-button = Hozir emas
     .accesskey = e
-cfr-doorhanger-extension-ok-button = Hozir qo‘shish
+cfr-doorhanger-extension-ok-button = Hozir qoʻshish
     .accesskey = q
+cfr-doorhanger-pintab-ok-button = Bu ichki oynani qistirish
+    .accesskey = q
+cfr-doorhanger-extension-manage-settings-button = Tavsiya sozlamalarini boshqarish
+    .accesskey = T
+cfr-doorhanger-extension-never-show-recommendation = Bu tavsiya menga koʻrsatilmasin
+    .accesskey = k
 cfr-doorhanger-extension-learn-more-link = Batafsil
 # This string is used on a new line below the add-on name
 # Variables:
@@ -17,6 +31,14 @@ cfr-doorhanger-extension-author = { $name } bo‘yicha
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Tavsiya
+cfr-doorhanger-extension-notification2 = Tavsiya
+    .tooltiptext = Kengaytma taklifi
+    .a11y-announcement = Kengaytma taklifi mavjud
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Tavsiya
+    .tooltiptext = Funksiya tavsiyasi
+    .a11y-announcement = Funksiya tavsiyasi mavjud
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -37,3 +59,36 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } ta foydalanuvchi
        *[other] { $total } ta foydalanuvchi
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+
+## Firefox Accounts Message
+
+
+## Protections panel
+
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-panel-header = Yangi xususiyatlar
+cfr-whatsnew-release-notes-link-text = Reliz qaydlarini oʻqish
+cfr-whatsnew-fx70-title = { -brand-short-name } endi xavfsizligingiz uchun yanada qattiqroq kurashadi
+
+## Bookmark Sync
+
+
+## Login Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+
+
+## Social Tracking Protection
+
+
+## Enhanced Tracking Protection Milestones
+

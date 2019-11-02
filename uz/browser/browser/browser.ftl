@@ -69,6 +69,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Bu sayt uchun canvas ma’lumotlarini chiqarishni blokladingiz.
 urlbar-midi-blocked =
     .tooltiptext = Bu sayt uchun MIDI ruxsatini blokladingiz.
+urlbar-install-blocked =
+    .tooltiptext = Bu saytdan qoʻshimcha dastur oʻrnatishni bloklagansiz.
 
 ## Page Action Context Menu
 
@@ -96,14 +98,14 @@ search-one-offs-with-title = Bu safar quyidagi bilan izlash:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
-    .label = Qidiruv sozlamalarini o‘zgartirish
+    .label = Qidiruv sozlamalarini oʻzgartirish
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Qidiruv sozlamalarini oʻzgartirish
 search-one-offs-context-open-new-tab =
     .label = Yangi ichki oynadan qidirish
     .accesskey = i
 search-one-offs-context-set-as-default =
-    .label = Standart qidiruv tizimi sifatida o‘rnatish
+    .label = Asosiy qidiruv tizimi sifatida oʻrnatish
     .accesskey = S
 search-one-offs-context-set-as-default-private =
     .label = Maxfiy oynalar uchun asosiy qidiruv tizimi sifatida oʻrnatish
