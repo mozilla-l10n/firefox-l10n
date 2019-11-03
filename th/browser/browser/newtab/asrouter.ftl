@@ -152,7 +152,10 @@ cfr-doorhanger-socialtracking-ok-button = ดูการป้องกัน
     .accesskey = ด
 cfr-doorhanger-socialtracking-close-button = ปิด
     .accesskey = ป
+cfr-doorhanger-socialtracking-dont-show-again = ไม่ต้องแสดงข้อความเช่นนี้ให้ฉันอีก
+    .accesskey = ม
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } ได้หยุดเครือข่ายสังคมไม่ให้ติดตามคุณที่นี่
+cfr-doorhanger-socialtracking-description = ความเป็นส่วนตัวของคุณสำคัญ { -brand-short-name } จะปิดกั้นตัวติดตามสื่อสังคมออนไลน์ทั่วไป โดยจำกัดจำนวนข้อมูลที่สามารถรวบรวมเกี่ยวกับสิ่งที่คุณทำทางออนไลน์
 
 ## Enhanced Tracking Protection Milestones
 
