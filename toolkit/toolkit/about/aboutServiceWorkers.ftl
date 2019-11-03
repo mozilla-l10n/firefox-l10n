@@ -6,7 +6,7 @@
 ### The term "Service Workers" and "Workers" should not be translated
 
 about-service-workers-title = 關於 Service Workers
-about-service-workers-main-title = 已註冊的 Service Workers
+about-service-workers-main-title = 註冊的 Service Worker
 about-service-workers-warning-not-enabled = 未啟用 Service Workers。
 about-service-workers-warning-no-service-workers = 未註冊 Service Workers。
 # The original title of service workers' information
@@ -14,12 +14,6 @@ about-service-workers-warning-no-service-workers = 未註冊 Service Workers。
 # Variables:
 #   $originTitle: original title
 origin-title = 來源: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } 應用程式 ID { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
