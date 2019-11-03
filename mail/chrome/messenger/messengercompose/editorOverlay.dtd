@@ -189,6 +189,19 @@
 <!ENTITY advancedPropertiesCmd.accesskey "p">
 
 <!-- Align menu items -->
+<!ENTITY alignMenu.label "Ĝisrandigi">
+<!ENTITY alignMenu.accesskey "d">
+<!ENTITY alignLeft.label "maldekstren">
+<!ENTITY alignLeft.accesskey "m">
+<!ENTITY alignLeft.tooltip "Rektigi al maldekstro">
+<!ENTITY alignCenter.label "centren">
+<!ENTITY alignCenter.accesskey "c">
+<!ENTITY alignCenter.tooltip "Centrigi elementon">
+<!ENTITY alignRight.label "dekstren">
+<!ENTITY alignRight.accesskey "d">
+<!ENTITY alignRight.tooltip "Rektigi al dekstro">
+<!ENTITY alignJustify.label "ambaŭflanken">
+<!ENTITY alignJustify.accesskey "a">
 
 <!-- Layer toolbar items -->
 
