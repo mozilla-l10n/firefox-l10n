@@ -21,6 +21,7 @@ onboarding-button-label-get-started = Бастау
 onboarding-welcome-header = { -brand-short-name } өніміне қош келдіңіз
 onboarding-welcome-body = Браузеріңіз бар.<br/>{ -brand-product-name } қалған бөлігімен танысыңыз.
 onboarding-welcome-learn-more = Артықшылықтары туралы көбірек біліңіз.
+onboarding-welcome-form-header = Осы жерден бастаңыз
 onboarding-join-form-header = { -brand-product-name } қоғамдастығына қосылыңыз
 onboarding-join-form-body = Бастау үшін, эл. пошта адресіңізді енгізіңіз.
 onboarding-join-form-email =
@@ -28,10 +29,19 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Жарамды эл. пошта адресі керек
 onboarding-join-form-legal = Жалғастыру арқылы сіз <a data-l10n-name="terms">Қызмет көрсету шарттары</a> және <a data-l10n-name="privacy">Жекелік ескертуі</a> шарттарымен келісесіз.
 onboarding-join-form-continue = Жалғастыру
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Тіркелгіңіз бар ма?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Кіру
 onboarding-start-browsing-button-label = Шолуды бастау
 onboarding-cards-dismiss =
     .title = Тайдыру
     .aria-label = Тайдыру
+
+## Welcome full page string
+
+onboarding-fullpage-form-email =
+    .placeholder = Эл. пошта адресіңіз…
 
 ## Firefox Sync modal dialog strings.
 
@@ -64,6 +74,9 @@ onboarding-benefit-privacy-title = Шынайы жекелік
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Біз жасайтын барлық нәрсе біздің Жеке Деректер Уәдесіне сай: Азырақ алу. Оны қауіпсіз сақтау. Құпиясыз.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 

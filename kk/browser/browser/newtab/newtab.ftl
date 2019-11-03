@@ -45,9 +45,6 @@ newtab-topsites-save-button = Сақтау
 newtab-topsites-preview-button = Алдын-ала қарау
 newtab-topsites-add-button = Қосу
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Бұл парақтың барлық кездесулерін шолу тарихыңыздан өшіруді қалайсыз ба?
@@ -83,14 +80,19 @@ newtab-menu-delete-history = Тарихтан өшіру
 newtab-menu-save-to-pocket = { -pocket-brand-name } ішіне сақтау
 newtab-menu-delete-pocket = { -pocket-brand-name }-тен өшіру
 newtab-menu-archive-pocket = { -pocket-brand-name }-те архивтеу
+newtab-menu-show-privacy-info = Біздің демеушілеріміз және сіздің жекелігіңіз
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Дайын
+newtab-privacy-modal-header = Сіздің жекелігіңіз маңызды.
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Бетбелгіні өшіру
 # Bookmark is a verb here.
 newtab-menu-bookmark = Бетбелгілерге қосу
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -116,13 +118,10 @@ newtab-menu-open-file = Файлды ашу
 
 newtab-label-visited = Қаралған
 newtab-label-bookmarked = Бетбелгілерде
+newtab-label-removed-bookmark = Бетбелгі өшірілді
 newtab-label-recommended = Әйгілі
 newtab-label-saved = { -pocket-brand-name }-ке сақталған
 newtab-label-download = Жүктеп алынған
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
