@@ -59,6 +59,7 @@ login-list-intro-description = আপনি যখন { -brand-product-name } �
 about-logins-login-list-empty-search-title = কোনও লগইন পাওয়া যায়নি
 about-logins-login-list-empty-search-description = আপনার অনুসন্ধানের সাথে কোনও কিছু মিলছে না।
 login-list-item-title-new-login = নতুন লগইন
+login-list-item-subtitle-new-login = আপনার লগইন পরিচয়পত্র লিখুন
 login-list-item-subtitle-missing-username = (কোনও ব্যবহারকারীর নাম নেই)
 about-logins-list-item-warning-icon =
     .alt = সতর্কতা আইকন
@@ -69,6 +70,8 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = আপনার সংরক্ষিত লগইন সন্ধান করছেন? { -sync-brand-short-name } সেট আপ করুন।
+about-logins-login-intro-heading-logged-in = সিংক হওয়া কোনো লগইন পাওয়া যায়নি।
+login-intro-instruction-fxa = আপনার লগইন সমূহ সংরক্ষিত রয়েছে এমন ডিভাইসে আপনার { -fxaccount-brand-name } সাইন ইন করুন বা তৈরী করুন।
 login-intro-instruction-fxa-settings = নিশ্চিত করুন যে আপনি { -sync-brand-short-name } সেটিং এ লগইন চেকবক্সটি নির্বাচন করেছেন
 about-logins-intro-instruction-help = আরও সহায়তার জন্য <a data-l10n-name="help-link">{ -lockwise-brand-short-name } দেখুন
 

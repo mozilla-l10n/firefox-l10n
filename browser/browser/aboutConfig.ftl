@@ -14,12 +14,17 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = সাবধানতার সাথে এগিয়ে যান
+about-config-intro-warning-text = অ্যাডভান্সড কনফিগারেশন প্রিফারেন্স পরিবর্তন করলে { -brand-short-name } এর কার্যকারিতা ও নিরাপত্তায় প্রভাব ফেলতে পারে।
 about-config-intro-warning-checkbox = এই প্রিফারেন্স-এ প্রবেশ করার সময় আমাকে সতর্ক করুন
 about-config-intro-warning-button = ঝুঁকি নিন এবং চালিয়ে যান
 
 
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = এই কনফিগারেশন পরিবর্তন করলে { -brand-short-name } এর কার্যকারিতা ও নিরাপত্তায় প্রভাব পড়তে পারে।
 about-config-page-title = উন্নত পছন্দসমূহ
+about-config-search-input1 =
+    .placeholder = প্রিফারেন্সের নাম খুঁজুন
 about-config-show-all = সব দেখাও
 about-config-pref-add = যোগ
 about-config-pref-toggle = টগল
