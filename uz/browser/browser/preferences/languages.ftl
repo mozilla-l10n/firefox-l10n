@@ -2,17 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-languages-window =
-    .title = Tillar
-    .style = width: 30em
 webpage-languages-window =
     .title = Sahifa til sozlamalari
     .style = width: 40em
 languages-close-key =
     .key = w
-languages-description = Sahifalar ba’zida bir nechta tilni taklif qilishi mumkin.Parametrlarga muvofiq tarzda bu sahifalar ko‘rinadigan tillarni tanlang
+languages-description = Sahifalar baʼzida bir nechta tilni taklif qilishi mumkin. Parametrlarga muvofiq tarzda bu sahifalar koʻrinadigan tillarni tanlang
 languages-customize-spoof-english =
-    .label = Maxfiylikni oshirish uchun saytlarning ingliz tilidagi versiyasini so‘rash
+    .label = Maxfiylikni oshirish uchun saytlarning ingliz tilidagi versiyasini soʻrash
 languages-customize-moveup =
     .label = Yuqoriga
     .accesskey = Y
@@ -45,3 +42,14 @@ browser-languages-window =
     .title = { -brand-short-name } til sozlamalari
     .style = width: 40em
 browser-languages-description = { -brand-short-name } standart til sifatida birinchi tanlagan tilingizda ko‘rsatadi. Kerak bo‘lganda muqobil tildan ham foydalanadi.
+browser-languages-search = Boshqa tillarni qidirish…
+browser-languages-searching =
+    .label = Tillar qidirilmoqda…
+browser-languages-downloading =
+    .label = Yuklab olinmoqda...
+browser-languages-select-language =
+    .label = Qoʻshish uchun tilni tanlang…
+    .placeholder = Qoʻshish uchun tilni tanlang…
+browser-languages-installed-label = Oʻrnatilgan tillar
+browser-languages-available-label = Mavjud tillar
+browser-languages-error = { -brand-short-name } tillarni hozir yangilay olmaydi. Internetga ulanishni tekshiring va qaytadan urining.
