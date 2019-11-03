@@ -20,6 +20,7 @@ ssl-error-export-only-server = Kan niet beveiligd communiceren. Peer ondersteunt
 ssl-error-us-only-server = Kan niet beveiligd communiceren. Peer vereist hoge graad van versleuteling, die niet wordt ondersteund.
 ssl-error-no-cypher-overlap = Kan niet beveiligd communiceren met peer: geen algeme(e)n(e) versleutelingsalgoritme(n).
 ssl-error-no-certificate = Kan het benodigde certificaat of de sleutel voor authenticatie niet vinden.
+ssl-error-bad-certificate = Kan niet beveiligd communiceren met peer: certificaat van peer werd verworpen.
 ssl-error-bad-client = De server heeft onjuiste gegevens ontvangen van de client.
 ssl-error-bad-server = De client heeft onjuiste gegevens ontvangen van de server.
 ssl-error-unsupported-certificate-type = Niet-ondersteund certificaattype.
