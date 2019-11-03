@@ -76,6 +76,7 @@ login-intro-description = Если вы сохранили ваши логины
 login-intro-instruction-fxa = Создайте или войдите в ваш { -fxaccount-brand-name } на устройстве, где сохранены ваши логины
 login-intro-instruction-fxa-settings = Убедитесь, что вы установили флажок «Логины» в настройках { -sync-brand-short-name(case: "genitive") }
 about-logins-intro-instruction-help = Посетите <a data-l10n-name="help-link">Поддержку { -lockwise-brand-short-name }</a> для получения помощи
+about-logins-intro-import = Если ваши логины сохранены в другом браузере, вы можете <a data-l10n-name="import-link">импортировать их в { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -111,11 +112,8 @@ master-password-reload-button =
     .label = Войти
     .accesskey = В
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Отмена
-confirmation-dialog-dismiss-button =
-    .title = Отмена
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Хотите получать доступ к вашим логинам везде, где бы вы ни использовали { -brand-product-name }? Перейдите в настройки { -sync-brand-short-name(case: "genitive") } и выберите «Логины».
@@ -128,6 +126,15 @@ enable-password-sync-preferences-button =
            *[other] Открыть настройки { -sync-brand-short-name(case: "genitive") }
         }
     .accesskey = О
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Не спрашивать в следующий раз
+    .accesskey = е
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Отмена
+confirmation-dialog-dismiss-button =
+    .title = Отмена
 confirm-delete-dialog-title = Удалить этот логин?
 confirm-delete-dialog-message = Это действие не может быть отменено.
 confirm-delete-dialog-confirm-button = Удалить
