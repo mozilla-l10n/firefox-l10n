@@ -105,13 +105,13 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Maket sozlagich">
 <!ENTITY ldbCmd.accesskey "L">
-<!ENTITY mirrorTabCmd.label "Ko‘zgu ichki oyna">
+<!ENTITY mirrorTabCmd.label "Varaqni translatsiya qilish">
 <!ENTITY mirrorTabCmd.accesskey "K">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Butun ekran’ga o‘tish">
+<!ENTITY enterFullScreenCmd.label "Butun ekranda ochish">
 <!ENTITY enterFullScreenCmd.accesskey "B">
-<!ENTITY exitFullScreenCmd.label "Butun ekran’dan chiqish">
+<!ENTITY exitFullScreenCmd.label "Butun ekran rejimidan chiqish">
 <!ENTITY exitFullScreenCmd.accesskey "B">
 <!ENTITY fullScreenCmd.label "Butun ekran">
 <!ENTITY fullScreenCmd.accesskey "B">
@@ -952,6 +952,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Bundan kukilar internetda nima qilayotganingizni bilish uchun saytlarda sizni kuzatib boradi. Bunday kukilar analitik kompaniya va reklama beruvchilar tomonidan oʻrnatiladi.">
 <!ENTITY protections.cryptominers.description "Kriptomaynerlar raqamli pullarni qoʻlga kiritish uchun tizimingizning hisoblash quvvatidan foydalanadi. Bunday skriptlar batareya quvvatini tez tugatadi, kompyuter ishlashini sekinlashtiradi va elektr energiyasi toʻlovlarini koʻpaytirishi mumkin.">
 <!ENTITY protections.fingerprinters.description "Raqamli imzo yiʻguvchilar sizning nomingizdan profil yaratish uchun brauzer va kompyuteringiz sozlamalaridan foydalanadi. Bu raqamli imzodan foydalanib ular turli saytlardagi faoliyatingizni kuzatishi mumkin.">
+<!ENTITY protections.trackingContent2.description "Saytlar tashqi reklama, video va boshqa turli kontentlarni kuzatish kodi bilan birga yuklashi mumkin. Kuzatuvchi kontentni bloklasangiz, saytlarni tez yuklanadi, lekin ayrim tugma, shakl va login maydonlari ishlamasligi mumkin.">
+<!ENTITY protections.socialMediaTrackers.description "Ijtimoiy tarmoqlar boshqa saytlarga kuzatuvchilarni joylaydi. Internetda nima qilayotganligingiz, nimani tomosha qilayotganligingizni bilishni istashadi. Bu ijtimoy mediya kompaniyalari egalariga siz haqingizda va ijtimoiy mediya profillaringizda nimani ulashayotganingizni koʻproq bilish imkonini beradi.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -968,6 +970,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.accesskey         "Y">
 
 <!ENTITY syncSyncNowItem.label        "Hozir sinxronlash">
+<!ENTITY syncSyncNowItemSyncing.label "Sinxronlanmoqda…">
 <!ENTITY syncSyncNowItem.accesskey    "s">
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; ga qayta ulanish…">
 <!ENTITY syncReAuthItem.accesskey     "q">
@@ -986,32 +989,58 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.detected "Bu saytda bloklanadigan kontent aniqlandi.">
 <!ENTITY contentBlocking.notDetected "Bu saytda bloklanadigan kontent aniqlanmadi.">
 
+<!ENTITY contentBlocking.trackingProtection3.label "Kuzatuvchilar">
 
+<!ENTITY contentBlocking.manageSettings.label "Kontentni bloklashni boshqarish">
+<!ENTITY contentBlocking.manageSettings.accesskey "M">
 
+<!ENTITY contentBlocking.trackersView.label "Kuzatuvchilar">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "Barcha kuzatuvchilarni bloklash uchun kontentni bloklashda “Qatʼiy” bandini tanlang.">
 
+<!ENTITY contentBlocking.cookies.label "Kukilar">
+<!ENTITY contentBlocking.cookiesView.label "Kuki va sayt maʼlumotlari">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Kuzatuvchi kontent">
 
+<!ENTITY contentBlocking.manageSettings2.label "Himoya sozlamalarini boshqarish">
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
+<!ENTITY contentBlocking.socialblock.label "Ijtimoiy tarmoq kuzatuvchilari">
 
+<!ENTITY contentBlocking.cookies2.label "Saytlararo kuzatuvchi kukilar">
 
+<!ENTITY contentBlocking.cryptominers.label "Kriptomaynerlar">
+<!ENTITY contentBlocking.cryptominersView.label "Kriptomaynerlar">
 
+<!ENTITY contentBlocking.fingerprinters.label "Raqamli imzo yigʻuvchilar">
+<!ENTITY contentBlocking.fingerprintersView.label "Raqamli imzo yigʻuvchilar">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Muammo haqida xabar berish">
 <!ENTITY contentBlocking.breakageReportView.label "Muammolar haqida xabar berish">
 <!ENTITY contentBlocking.breakageReportView2.description "Kontentni bloklash ba’zi saytlarda muammo keltirib chiqarishi mumkin. Muammolar haqida xabar bersangiz, &brandShortName;ni yanada yaxshilashda yordam bergan hisoblanasiz. (Bu xabarda URL va brauzer sozlamalari bo‘ladi)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Batafsil">
 
+<!ENTITY contentBlocking.breakageReportView.title "Buzilgan sayt haqida xabar berish">
+<!ENTITY contentBlocking.breakageReportView3.description "Ayrim kuzatuvchilarni bloklasangiz, baʼzi saytlarda muammo paydo boʻlishi mumkin. Bu muammo haqida xabar berish bilan siz &brandShortName;ni yaxshilashda yordam bergan hisoblanasiz. Bu hisobot bilan birga URL manzili va brauzeringiz sozlamalari haqidagi maʼlumotlar ham Mozillaga yuboriladi">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Batafsil">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Sizda qanday muammo? (Ixtiyoriy)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Ixtiyoriy: muammoni tasvirlab bering">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Hisobot yuborish">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Bekor qilish">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Bu sayt uchun bloklashni oʻchirib qoʻyish">
+<!ENTITY trackingProtection.unblock5.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Bloklashni vaqtincha oʻchirib qoʻyish">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
+<!ENTITY trackingProtection.block6.label "Bu sayt uchun bloklashni yoqib qoʻyish">
+<!ENTITY trackingProtection.block6.accesskey "T">
 <!ENTITY trackingProtection.reload2.label "Sahifani yangilash">
 <!ENTITY trackingProtection.reload2.accesskey "R">
 
@@ -1036,6 +1065,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; uchun yangilanishni yuklab olish">
 <!ENTITY updateManual.panelUI.label "&brandShorterName;ning oxirgi versiyasini yuklab olish">
+<!ENTITY updateUnsupported.panelUI.label "Keyingi yangilanishlarni amalga oshira olmaysiz">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName;ni yangilash uchun uni qayta ishga tushiring">
 
 <!ENTITY newTabControlled.header.message "Yangi ichki oyna o‘zgardi.">
