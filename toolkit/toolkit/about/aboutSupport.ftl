@@ -24,6 +24,8 @@ features-title = { -brand-short-name } বৈশিষ্ট্যসমূহ
 features-name = নাম
 features-version = সংস্করণ
 features-id = ID
+processes-type = ধরণ
+processes-count = গণনা
 app-basics-title = অ্যাপ্লিকেশনের প্রাথমিক তথ্য
 app-basics-name = নাম
 app-basics-version = সংস্করণ
@@ -115,7 +117,7 @@ media-device-channels = চ্যানেল
 media-device-rate = মূল্যায়ন করুন
 media-device-latency = যোজনী
 
-##
+
 
 intl-title = আন্তর্জাতিকিকরণ & স্থানীয়করণ
 intl-app-title = অ্যাপ্লিকেশন সেটিং
@@ -243,6 +245,8 @@ sandbox-proc-type-content = কন্টেন্ট
 sandbox-proc-type-file = ফাইল কনটেন্ট
 sandbox-proc-type-media-plugin = মিডিয়া প্লাগইন
 launcher-process-status-0 = সক্রিয় হয়েছে
+launcher-process-status-2 = জোরপূর্বক নিষ্ক্রিয় করা হয়েছে
+launcher-process-status-unknown = অজ্ঞাত অবস্থা
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
