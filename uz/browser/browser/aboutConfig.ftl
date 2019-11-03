@@ -14,9 +14,17 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Ehtiyotkorlik bilan davom eting
+about-config-intro-warning-text = Qoʻshimcha sozlamalarni oʻzgartirsangiz, { -brand-short-name } samaradorligi yoki xavfsizligiga taʼsir qilishi mumkin.
+about-config-intro-warning-checkbox = Bu parametrlarga kirishga harakat qilganimda, meni ogohlantir
+about-config-intro-warning-button = Xavfni oʻz zimmamga olaman va davom etaman
 
 
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Bu parametlarni oʻzgartirsangiz, { -brand-short-name } samaradorligi yoki xavfsizligiga taʼsir qilishi mumkin.
+about-config-page-title = Qoʻshimcha parametrlar
+about-config-search-input1 =
+    .placeholder = Parametr nomini izlash
 about-config-show-all = Hammasini koʻrsatish
 about-config-pref-add = Qoʻshish
 about-config-pref-toggle = Almashish

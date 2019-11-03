@@ -75,6 +75,7 @@ login-intro-description = Loginlaringizni boshqa qurilmadagi { -brand-product-na
 login-intro-instruction-fxa = Yangi hisob yarating yoki loginlaringiz saqlangan qurilmadagi { -fxaccount-brand-name } hisobiga kiring
 login-intro-instruction-fxa-settings = { -sync-brand-short-name } sozlamalaridagi Loginlar maydonchasiga belgi qoʻyishingiz lozim
 about-logins-intro-instruction-help = Yana yordam olish uchun <a data-l10n-name="help-link">{ -lockwise-brand-short-name }Yordam</a> sahifasini oching
+about-logins-intro-import = Loginlaringiz boshqa brauzerga saqlangan boʻlsa, ularni <a data-l10n-name="import-link">import qilishingiz mumkin { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -110,11 +111,8 @@ master-password-reload-button =
     .label = Kirish
     .accesskey = K
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Bekor qilish
-confirmation-dialog-dismiss-button =
-    .title = Bekor qilish
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] { -brand-product-name } brauzeridan xohlagan joyingizda loginlaringizga kirishni xohlaysizmi? { -sync-brand-short-name } parametriga kiring va Loginlar maydonchasiga belgi qoʻying.
@@ -127,6 +125,15 @@ enable-password-sync-preferences-button =
            *[other] { -sync-brand-short-name } parametrlariga kiring
         }
     .accesskey = V
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Yana soʻralmasin
+    .accesskey = s
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Bekor qilish
+confirmation-dialog-dismiss-button =
+    .title = Bekor qilish
 confirm-delete-dialog-title = Bu login oʻchirilsinmi?
 confirm-delete-dialog-message = Bu amalni orqaga qaytarib boʻlmaydi.
 confirm-delete-dialog-confirm-button = Oʻchirish
