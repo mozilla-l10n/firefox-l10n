@@ -196,14 +196,18 @@
 <!ENTITY alignLeft.tooltip "Rektigi al maldekstro">
 <!ENTITY alignCenter.label "centren">
 <!ENTITY alignCenter.accesskey "c">
-<!ENTITY alignCenter.tooltip "Centrigi elementon">
+<!ENTITY alignCenter.tooltip "Centrigi la elementon">
 <!ENTITY alignRight.label "dekstren">
 <!ENTITY alignRight.accesskey "d">
 <!ENTITY alignRight.tooltip "Rektigi al dekstro">
 <!ENTITY alignJustify.label "ambaŭflanken">
 <!ENTITY alignJustify.accesskey "a">
+<!ENTITY alignJustify.tooltip "Alkadrigi la elementon ambaŭflanken">
 
 <!-- Layer toolbar items -->
+<!ENTITY layer.tooltip "Tavolo">
+<!ENTITY layerSendToBack.tooltip "Movi fonen">
+<!ENTITY layerBringToFront.tooltip "Movi malfonen">
 
 
 
