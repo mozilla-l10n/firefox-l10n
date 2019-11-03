@@ -168,18 +168,25 @@
 <!ENTITY formatlistMenu.label "Listo">
 <!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "Neniu">
-<!ENTITY noneCmd.accesskey "N">
+<!ENTITY noneCmd.accesskey "u">
 <!ENTITY listBulletCmd.label "Bula">
 <!ENTITY listBulletCmd.accesskey "B">
 <!ENTITY listNumberedCmd.label "Numerata">
-<!ENTITY listNumberedCmd.accesskey "m">
+<!ENTITY listNumberedCmd.accesskey "N">
 <!ENTITY listTermCmd.label "De kategorioj">
 <!ENTITY listTermCmd.accesskey "k">
 <!ENTITY listDefinitionCmd.label "De difinoj">
 <!ENTITY listDefinitionCmd.accesskey "d">
+<!ENTITY listPropsCmd.label "Atributoj de listo…">
+<!ENTITY listPropsCmd.accesskey "A">
 
+<!ENTITY ParagraphSelect.tooltip "Elekti formon de alineo">
 <!-- Shared in Paragraph, and Toolbar menulist -->
+<!ENTITY bodyTextCmd.label "Enhavo">
+<!ENTITY bodyTextCmd.accesskey "E">
 <!-- isn't used in menu now, but may be added in future -->
+<!ENTITY advancedPropertiesCmd.label "Spertulaj atributoj">
+<!ENTITY advancedPropertiesCmd.accesskey "p">
 
 <!-- Align menu items -->
 
