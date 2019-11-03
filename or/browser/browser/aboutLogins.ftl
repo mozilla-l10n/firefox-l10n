@@ -103,11 +103,8 @@ master-password-reload-button =
     .label = ଲଗଇନ
     .accesskey = ଏଲ
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = ବାତିଲ
-confirmation-dialog-dismiss-button =
-    .title = ବାତିଲ କରନ୍ତୁ
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -115,6 +112,15 @@ enable-password-sync-preferences-button =
            *[other] { -sync-brand-short-name }ର ସାଜସଜ୍ଜା ଦେଖନ୍ତୁ
         }
     .accesskey = ଭ
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = ମୋତେ ପୁଣିଥରେ ପଚାରନ୍ତୁ ନାହିଁ
+    .accesskey = ଡ
+
+## Dialogs
+
+confirmation-dialog-cancel-button = ବାତିଲ
+confirmation-dialog-dismiss-button =
+    .title = ବାତିଲ କରନ୍ତୁ
 confirm-delete-dialog-title = ଲଗଇନକୁ ବିଲୋପ କରିଦେବେ?
 confirm-delete-dialog-message = ଏହି କାର୍ଯ୍ୟର ପଦକ୍ଷେପ ବାତିଲ କରିପାରିବେ ନାହିଁ।
 confirm-delete-dialog-confirm-button = ଅପସାରଣ କରନ୍ତୁ
@@ -130,3 +136,5 @@ breach-alert-dismiss =
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = ପାସୱାର୍ଡ଼ ସଂରକ୍ଷଣ ସମୟରେ ତ୍ରୁଟିଟିଏ ଘଟିଲା

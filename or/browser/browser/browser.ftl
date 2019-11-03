@@ -45,6 +45,14 @@ urlbar-addons-notification-anchor =
     .tooltiptext = ଆଡ-ଅନ ଇନଷ୍ଟଲ ମେସେଜ ପ୍ୟାନେଲ ଖୋଲନ୍ତୁ
 urlbar-tip-help-icon =
     .title = ସେବା ପାଆନ୍ତୁ
+urlbar-geolocation-blocked =
+    .tooltiptext = ଏହି ୱେବସାଇଟ ପାଇଁ ଆପଣ ଠିକଣା ସୂଚନା ବନ୍ଦ କରିଛନ୍ତି
+urlbar-web-notifications-blocked =
+    .tooltiptext = ଏହି ୱେବସାଇଟ ପାଇଁ ଆପଣ ବିଜ୍ଞପ୍ତି ବନ୍ଦ କରିଛନ୍ତି
+urlbar-camera-blocked =
+    .tooltiptext = ଏହି ୱେବସାଇଟ ପାଇଁ ଆପଣ କ୍ୟାମେରା ବନ୍ଦ କରିଛନ୍ତି
+urlbar-microphone-blocked =
+    .tooltiptext = ଏହି ୱେବସାଇଟ ପାଇଁ ଆପଣ ମାଇକ୍ରୋଫୋନ ବନ୍ଦ କରିଛନ୍ତି
 
 ## Page Action Context Menu
 
