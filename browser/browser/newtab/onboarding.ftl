@@ -21,6 +21,10 @@ onboarding-button-label-get-started = শুরু করুন
 onboarding-welcome-header = { -brand-short-name } এ স্বাগতম
 onboarding-welcome-body = ব্রাউজার ইন্সটল হয়েছে। <br/> { -brand-product-name } বাকি  অংশ দেখুন।
 onboarding-welcome-learn-more = সুবিধাগুলো সম্পর্কে আরও জানুন।
+onboarding-welcome-modal-supercharge-body = আপনার গোপনীয়তা সুরক্ষা সুপারচার্জ করুন।
+onboarding-welcome-modal-privacy-body = ব্রাউজার ইনস্টল হয়েছে। চলুন, আরো গোপনীয়তা সুরক্ষা যুক্ত করা যাক।
+onboarding-welcome-modal-family-learn-more = পণ্যের { -brand-product-name } গোত্র সম্পর্কে জানুন।
+onboarding-welcome-form-header = এখান থেকে শুরু করুন
 onboarding-join-form-header = { -brand-product-name } এ যোগ দিন
 onboarding-join-form-body = শুরু করতে এখানে আপনার ইমেইল ঠিকানা দিন।
 onboarding-join-form-email =
@@ -28,10 +32,20 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = বৈধ ইমেইল আবশ্যক
 onboarding-join-form-legal = এগিয়ে যাওয়ার মাধ্যমে আপনি <a data-l10n-name="terms"> এর পরিষেবার শর্তাবলী</a> এবং <a data-l10n-name="privacy"> গোপনীয়তা বিজ্ঞপ্তি</a> এর সাথে একমত হবেন।
 onboarding-join-form-continue = চালিয়ে যান
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = ইতিমধ্যে একটি অ্যাকাউন্ট রয়েছে?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = সাইন ইন
 onboarding-start-browsing-button-label = ব্রাউজিং শুরু করুন
 onboarding-cards-dismiss =
     .title = বাতিল
     .aria-label = বাতিল
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = আসুন আপনি যা কিছু করতে পারেন তা অন্বেষণ করা শুরু করুন।
+onboarding-fullpage-form-email =
+    .placeholder = আপনার ইমেইল ঠিকানা…
 
 ## Firefox Sync modal dialog strings.
 
@@ -57,6 +71,11 @@ onboarding-benefit-products-title = দরকারী পণ্য
 onboarding-benefit-knowledge-title = ব্যবহারিক জ্ঞান
 onboarding-benefit-knowledge-text = অনলাইনে স্মার্ট ও নিরাপদে থাকাতে আপনার যা জানা দরকার তা শিখুন।
 onboarding-benefit-privacy-title = সত্যিকারের গোপনীয়তা
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = আপনার ব্যক্তিগত তথ্য বেহাত করে তা সম্পর্কে অবহিত হন।
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = আপনার নিরাপদ ও বহনযোগ্য পাসওয়ার্ড ম্যানেজ করুন।
 
 ## These strings belong to the individual onboarding messages.
 

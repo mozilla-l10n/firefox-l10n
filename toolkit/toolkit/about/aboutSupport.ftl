@@ -33,6 +33,8 @@ app-basics-build-id = বিল্ড ID
 app-basics-update-channel = হালনাগাদ চ্যানেলে
 app-basics-update-history = হালনাগাদের ইতিহাস
 app-basics-show-update-history = হালনাগাদের ইতিহাস প্রদর্শন
+# Represents the path to the binary used to start the application.
+app-basics-binary = বাইনারি এপ্লিকেশন
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] প্রোফাইল ডিরেক্টরি

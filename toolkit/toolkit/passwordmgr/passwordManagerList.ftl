@@ -71,3 +71,5 @@ remove-all-shown =
 remove-all-passwords-prompt = আপনি কি নিশ্চিত আপনি সব পাসওয়ার্ড অপসারণ করতে চান?
 remove-all-passwords-title = সব পাসওয়ার্ড অপসারণ করা হবে
 no-master-password-prompt = আপনি কি নিশ্চিত আপনি পাসওয়ার্ড প্রদর্শন করতে চান?
+auto-fill-logins-and-passwords =
+    .label = লগইন এবং পাসওয়ার্ড সয়ংক্রিয়ভাবে পূরণকরণ
