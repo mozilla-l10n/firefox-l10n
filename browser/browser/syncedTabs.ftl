@@ -40,3 +40,4 @@ synced-tabs-context-sync-now =
     .label = Қазір синхрондау
     .accesskey = с
 fxa-sign-in = { -sync-brand-short-name } ішіне кіру
+turn-on-sync = { -sync-brand-short-name } іске қосу

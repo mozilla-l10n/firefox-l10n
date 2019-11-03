@@ -160,6 +160,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; баптаулары">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Басқа құрылғыны байланыстыру…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -283,6 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Сіз бұл вебсайтқа Adobe Flash қолдануды блоктадыңыз.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Сіз MIDI қолдануды бұл вебсайтқа блоктадыңыз.">
 <!ENTITY urlbar.installBlocked.tooltip           "Сіз қосымшаларды орнатуды бұл вебсайтқа блоктадыңыз.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Тарихты көрсету">
 
@@ -915,6 +917,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Неге?">
+<!ENTITY protections.socialMediaTrackers.label "Әлеуметтік желілер трекерлері">
 <!ENTITY protections.fingerprinters.label "Баспаны жинаушылар">
 <!ENTITY protections.cryptominers.label "Криптомайнерлер">
 
@@ -966,6 +969,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY contentBlocking.socialblock.label "Әлеуметтік желілер трекерлері">
 
 
 <!ENTITY contentBlocking.cryptominers.label "Криптомайнерлер">

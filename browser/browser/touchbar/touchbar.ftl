@@ -19,3 +19,19 @@ open-location = Іздеу немесе адрес
 share = Бөлісу
 close-window = Терезені жабу
 open-sidebar = Бүйір панельдер
+# This string describes shortcuts for search.
+search-popover = Іздеу жүйелер таңбашалары
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Қайда іздеу:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = Бетбелгілер
+search-history = Тарихы
+search-opentabs = Ашық беттер
+search-tags = Тегтер
+search-titles = Тақырыптар
+
+
+

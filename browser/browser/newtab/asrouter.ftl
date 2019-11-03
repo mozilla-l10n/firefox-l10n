@@ -113,3 +113,8 @@ cfr-doorhanger-send-tab-recipe-header = Бұл рецептті ас үйге а
 
 cfr-doorhanger-socialtracking-close-button = Жабу
     .accesskey = Ж
+
+## Enhanced Tracking Protection Milestones
+
+cfr-doorhanger-milestone-ok-button = Барлығын қарау
+    .accesskey = р
