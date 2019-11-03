@@ -86,6 +86,9 @@ cfr-protections-panel-link-text = আরও জানুন
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = নতুন বৈশিষ্ট্যসমূহঃ
 cfr-whatsnew-button =
     .label = নতুন কি আছে
     .tooltiptext = নতুন যা আছে
@@ -143,6 +146,13 @@ cfr-doorhanger-socialtracking-ok-button = সুরক্ষা দেখুন
     .accesskey = P
 cfr-doorhanger-socialtracking-close-button = বন্ধ
     .accesskey = C
+cfr-doorhanger-socialtracking-dont-show-again = আমাকে পুনঃরায় এই ধরণের মেসেজ দেখাবেন না
+    .accesskey = D
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } এখানে একটি সামাজিক নেটওয়ার্ক হতে আপনাকে ট্র্যাকিং করা বন্ধ করে দিয়েছে
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } এই পাতায় একটি ক্রিপ্টোমাইনারকে ব্লক করে দিয়েছে
+cfr-doorhanger-cryptominers-description = আপনার গোপনীয়তার বিষয়টি গুরুত্বপূর্ণ। { -brand-short-name } এখন ক্রিপ্টোমাইনারদের ব্লক করে, যা ডিজিটাল অর্থ তৈরি করতে আপনার সিস্টেমের কম্পিউটিং শক্তি ব্যবহার করে।
 
 ## Enhanced Tracking Protection Milestones
 
+cfr-doorhanger-milestone-ok-button = সবগুলো দেখুন
+    .accesskey = S

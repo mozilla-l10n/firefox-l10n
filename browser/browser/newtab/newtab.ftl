@@ -45,9 +45,6 @@ newtab-topsites-save-button = সংরক্ষণ
 newtab-topsites-preview-button = প্রাকদর্শন
 newtab-topsites-add-button = যোগ
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = আপনি কি নিশ্চিতভাবে আপনার ইতিহাস থেকে এই পাতার সকল কিছু মুছে ফেলতে চান?
@@ -83,14 +80,19 @@ newtab-menu-delete-history = ইতিহাস থেকে মুছে ফে
 newtab-menu-save-to-pocket = { -pocket-brand-name } এ সংরক্ষণ করুন
 newtab-menu-delete-pocket = { -pocket-brand-name } থেকে মুছে দিন
 newtab-menu-archive-pocket = { -pocket-brand-name } এ আর্কাইভ করুন
+newtab-menu-show-privacy-info = আমাদের স্পনসর এবং আপনার গোপনীয়তা
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = সম্পন্ন
+newtab-privacy-modal-header = আপনার গোপনীয়তার বিষয়টি গুরুত্বপূর্ণ।
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = বুকমার্ক মুছে দিন
 # Bookmark is a verb here.
 newtab-menu-bookmark = বুকমার্ক
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -120,10 +122,6 @@ newtab-label-removed-bookmark = বুকমার্ক মুছে ফেল�
 newtab-label-recommended = ঝোঁক
 newtab-label-saved = { -pocket-brand-name } এ সংরক্ষণ করুন
 newtab-label-download = ডাউনলোড হয়েছে
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
