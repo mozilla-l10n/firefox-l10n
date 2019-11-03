@@ -75,6 +75,7 @@ login-intro-description = Si guardaste tus conexiones en { -brand-product-name }
 login-intro-instruction-fxa = Crea o conéctate a tu { -fxaccount-brand-name } en el dispositivo en que tienes guardadas tus conexiones
 login-intro-instruction-fxa-settings = Asegúrate de seleccionar la marca de conexiones en los ajustes de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Visita el <a data-l10n-name="help-link">Soporte de { -lockwise-brand-short-name }</a> para más ayuda
+about-logins-intro-import = Si tus conexiones están guardadas en otro navegador, puedes <a data-l10n-name="import-link">importarlas a { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -110,11 +111,8 @@ master-password-reload-button =
     .label = Conectarse
     .accesskey = L
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Cancelar
-confirmation-dialog-dismiss-button =
-    .title = Cancelar
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] ¿Quieres tener tus conexiones en todas partes en que usas { -brand-product-name }? Ve a Opciones de { -sync-brand-short-name } y selecciona la casilla de verificación de Conexiones.
@@ -127,6 +125,15 @@ enable-password-sync-preferences-button =
            *[other] Visita las preferencias de { -sync-brand-short-name }
         }
     .accesskey = V
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = No volver a preguntar
+    .accesskey = D
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Cancelar
+confirmation-dialog-dismiss-button =
+    .title = Cancelar
 confirm-delete-dialog-title = ¿Eliminar esta conexión?
 confirm-delete-dialog-message = Esta acción no puede revertirse.
 confirm-delete-dialog-confirm-button = Eliminar
