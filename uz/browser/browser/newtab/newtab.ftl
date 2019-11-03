@@ -86,6 +86,7 @@ newtab-menu-show-privacy-info = Bizning homiylarimiz va sizning maxfiyligingiz
 
 newtab-privacy-modal-button-done = Tayyor
 newtab-privacy-modal-header = Maxfiyligingiz shaxsiy hayotingizga tegishli.
+newtab-privacy-modal-link = Yangi ichki oynada maxfiylik qanday boʻlishi haqida batafsil maʼlumot oling
 
 
 
@@ -162,6 +163,8 @@ newtab-empty-section-topstories = Hammasini ko‘rib chiqdingiz. { $provider }da
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Hammasini oʻqib chiqdingiz!
+newtab-discovery-empty-section-topstories-content = Yana boshqa maqolalarni oʻqish uchun keyinroq tashrif buyuring.
 newtab-discovery-empty-section-topstories-try-again-button = Yana urining
 newtab-discovery-empty-section-topstories-loading = Yuklanmoqda...
 # Displays when a layout in a section took too long to fetch articles.
@@ -172,6 +175,9 @@ newtab-discovery-empty-section-topstories-timed-out = Obbo! Biz deyarli bu qismn
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Mashhur mavzular:
 newtab-pocket-more-recommendations = Yana tavsiyalar
+newtab-pocket-how-it-works = U qanday ishlaydi
+newtab-pocket-cta-button = { -pocket-brand-name }ni yuklab olish
+newtab-pocket-cta-text = Sizga yoqqan maqolalarni { -pocket-brand-name } xizmatiga saqlab qoʻying va maroqli oʻqib, tafakkuringizni rivojlantiring
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
