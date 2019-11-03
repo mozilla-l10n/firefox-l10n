@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = sukūrė { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendacija
+cfr-doorhanger-extension-notification2 = Rekomendacija
+    .tooltiptext = Priedo rekomendacija
+    .a11y-announcement = Siūloma priedo rekomendacija
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Rekomendacija
+    .tooltiptext = Funkcijos rekomendacija
+    .a11y-announcement = Siūloma funkcijos rekomendacija
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -152,6 +160,8 @@ cfr-doorhanger-socialtracking-ok-button = Peržiūrėti apsaugas
     .accesskey = p
 cfr-doorhanger-socialtracking-close-button = Užverti
     .accesskey = U
+cfr-doorhanger-socialtracking-dont-show-again = Daugiau tokių pranešimų nerodyti
+    .accesskey = D
 cfr-doorhanger-socialtracking-heading = „{ -brand-short-name }“ neleido socialiniam tinklui čia jūsų sekti
 cfr-doorhanger-socialtracking-description = Jūsų privatumas yra svarbus. „{ -brand-short-name }“ jau blokuoja dažniausius socialinių tinklų stebėjimo elementus, taip ribojant, kiek duomenų jie gali surinkti apie jūsų naršymo veiklą.
 cfr-doorhanger-fingerprinters-heading = „{ -brand-short-name }“ šioje svetainėje užblokavo skaitmeninių atspaudų stebėjimo elementą
