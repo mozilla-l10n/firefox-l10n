@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = { $name } দ্বারা
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = সুপারিশকৃত
+cfr-doorhanger-extension-notification2 = প্রস্তাবনা
+    .tooltiptext = এক্সটেনশনের প্রস্তাবনা
+    .a11y-announcement = এক্সটেনশনের প্রস্তাবনা পাওয়া যাচ্ছে
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = প্রস্তাবনা
+    .tooltiptext = ফিচারের প্রস্তাবনা
+    .a11y-announcement = ফিচারের প্রস্তাবনা পাওয়া যাচ্ছে
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -73,6 +81,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = অনুসৃত না হয়েই ব্রাউজ করুন
+cfr-protections-panel-body = নিজের তথ্য নিজের কাছে রাখুন।  { -brand-short-name }  আপনাকে প্রচলিত ট্র‍্যাকারগুলো যা অনলাইনে আপনি কি করেন তা অনুসরণ করে তার বেশিরভাগ থেকেই রক্ষা করে ।
 cfr-protections-panel-link-text = আরও জানুন
 
 ## What's New toolbar button and panel
@@ -130,5 +139,10 @@ cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } পরখ করু
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = সুরক্ষা দেখুন
+    .accesskey = P
 cfr-doorhanger-socialtracking-close-button = বন্ধ
     .accesskey = C
+
+## Enhanced Tracking Protection Milestones
+

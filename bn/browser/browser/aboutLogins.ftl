@@ -106,11 +106,8 @@ master-password-reload-button =
     .label = লগ ইন
     .accesskey = L
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = বাতিল
-confirmation-dialog-dismiss-button =
-    .title = বাতিল
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -118,6 +115,15 @@ enable-password-sync-preferences-button =
            *[other] পছন্দসমূহের জন্য { -sync-brand-short-name } দেখুন
         }
     .accesskey = v
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = আমাকে আবার জিজ্ঞেস করবেন না
+    .accesskey = D
+
+## Dialogs
+
+confirmation-dialog-cancel-button = বাতিল
+confirmation-dialog-dismiss-button =
+    .title = বাতিল
 confirm-delete-dialog-title = লগইন মুছে দেওয়া হবে?
 confirm-delete-dialog-message = এই পরিবর্তনটি অপরিবর্তনীয়!
 confirm-delete-dialog-confirm-button = মুছে ফেলুন
@@ -127,10 +133,21 @@ confirm-discard-changes-dialog-confirm-button = বাতিল
 
 ## Breach Alert notification
 
+breach-alert-link = এই লঙ্ঘন সম্পর্কে আরও জানুন।
 breach-alert-dismiss =
     .title = সতর্ক করা বন্ধ করুন
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = { $loginTitle } নামের ইউজার পূর্বের থেকেই আছে।
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = { $loginTitle } নামের ইউজার পূর্বের থেকেই আছে। <a data-l10n-name="duplicate-link">পূর্বে থাকা ইউজারটিতে যেতে চান?</a>
 # This is a generic error message.
 about-logins-error-message-default = এই পাসওয়ার্ডটি সংরক্ষণ করার চেষ্টা করার সময় একটি ত্রুটি ঘটেছে।
