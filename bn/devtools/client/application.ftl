@@ -53,7 +53,7 @@ serviceworker-worker-status-registering = নিবন্ধ হচ্ছে
 # Suggestion to check for errors in the Console to investigate why a service worker is not
 # registered. Clicking on the link opens the webconsole.
 serviceworker-empty-suggestions-console = কনসোলে ত্রুটি সন্ধান করুন। <a> কনসোল খুলুন </a>
-# Header for the view of Manifest displayed in the application panel for the current page.
+# Header for the Manifest page when we have an actual manifest
 manifest-view-header = অ্যাপ ম্যানিফেস্ট
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = ত্রুটি এবং সতর্কতা
@@ -67,10 +67,15 @@ manifest-item-icons = আইকনগুলো
 manifest-loading = ম্যানিফেস্ট লোড হচ্ছে...
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = ম্যানিফেস্ট লোড হয়েছে।
-# Text displayed when there has been an error while trying to load the manifest
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
 manifest-loaded-error = ম্যানিফেস্টটি লোড করার সময় একটি ত্রুটি হয়েছিল:
 # Text displayed when the page has no manifest available
 manifest-non-existing = পরিদর্শন করার মতো কোনও ম্যানিফেস্ট পাওয়া যায় নি।
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = আইকন
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = সতর্কতা আইকন

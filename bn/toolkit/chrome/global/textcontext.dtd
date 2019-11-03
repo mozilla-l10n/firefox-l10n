@@ -29,6 +29,7 @@
 
 <!ENTITY fillLoginMenu.label          "লগিন পূরণ F">
 <!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillGeneratedPassword.label  "একটি সুরক্ষিতভাবে তৈরি পাসওয়ার্ড ব্যাবহার করুন">
 <!ENTITY fillPasswordMenu.label       "পাসওয়ার্ড পূরণ F">
 <!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "ইউজারনেম পূরণ F">

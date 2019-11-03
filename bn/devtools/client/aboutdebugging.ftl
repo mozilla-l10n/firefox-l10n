@@ -252,5 +252,7 @@ about-debugging-main-process-name = প্রধান প্রক্রিয়�
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = বার্তা বন্ধ করুন
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = ত্রুটির বিস্তারিত
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = বিস্তারিত

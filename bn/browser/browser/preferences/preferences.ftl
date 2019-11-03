@@ -510,6 +510,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = ঠিকানা বার ফলাফলে ব্রাউজিং ইতিহাসের আগে অনুসন্ধান পরামর্শ দেখাও
+search-show-suggestions-private-windows =
+    .label = ব্যক্তিগত উইন্ডোতে অনুসন্ধানের পরামর্শগুলি দেখান
 search-suggestions-cant-show = { -brand-short-name } এর কনফিগারেশনে ইতিহাস মনে না রাখতে বলার কারনে লোকেশন বারে অনুসন্ধান পরামর্শ দেখাবে না।
 search-one-click-header = এক-ক্লিক অনুসন্ধান ইঞ্জিন
 search-one-click-desc = আপনি কীওয়ার্ড লিখতে শুরু করার সময় ঠিকানা বার এবং অনুসন্ধান বারের নীচে প্রদর্শিত বিকল্প অনুসন্ধান ইঞ্জিনগুলো নির্বাচন করুন।
@@ -599,6 +601,8 @@ sync-signedin-settings-desc = { -brand-short-name } দিয়ে আপনার
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = সিঙ্ক: চালু
+prefs-syncing-off = সিঙ্ক: বন্ধ
 prefs-sync-now =
     .labelnotsyncing = এখনই সিঙ্ক করুন
     .accesskeynotsyncing = N
@@ -618,6 +622,9 @@ sync-currently-syncing-prefs =
         [windows] অপশন
        *[other] পছন্দসমূহ
     }
+sync-change-options =
+    .label = পরিবর্তন করুন...
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 

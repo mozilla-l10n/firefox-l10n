@@ -188,6 +188,7 @@ language-name-tlh = ক্লিংগন
 language-name-tn = সোয়ানা
 language-name-to = টঙ্গা
 language-name-tr = তুর্কি
+language-name-trs = ট্রিকুই
 language-name-ts = তুংগা
 language-name-tt = তাতার
 language-name-tw = টুয়ি
