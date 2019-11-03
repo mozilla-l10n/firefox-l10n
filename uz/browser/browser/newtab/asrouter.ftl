@@ -62,9 +62,17 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-animation-pause = Pauza
+cfr-doorhanger-pintab-animation-resume = Davom etish
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = Xatchoʻplardan har qanday joyda foydalanishingiz mumkin
+cfr-doorhanger-bookmark-fxa-body = Ajoyib topilma! Endi mobil qurilmalaringizga bu xatchoʻplarni sinxornlang. { -fxaccount-brand-name } yarating.
+cfr-doorhanger-bookmark-fxa-link-text = Xatchoʻplarni sinxronlash ...
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Yopish tugmasi
+    .title = Yopish
 
 ## Protections panel
 

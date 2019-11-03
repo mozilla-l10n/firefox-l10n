@@ -15,14 +15,15 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Qidiruv
     .aria-label = Qidiruv
-newtab-search-box-search-the-web-text = Internetda izlash
+newtab-search-box-search-the-web-text = Internetdan izlash
 newtab-search-box-search-the-web-input =
-    .placeholder = Internetda izlash
-    .title = Internetda izlash
-    .aria-label = Internetda izlash
+    .placeholder = Internetdan izlash
+    .title = Internetdan izlash
+    .aria-label = Internetdan izlash
 
 ## Top Sites - General form dialog.
 
+newtab-topsites-add-search-engine-header = Qidiruv tizimini qoʻshish
 newtab-topsites-add-topsites-header = Yangi ommabop sayt
 newtab-topsites-edit-topsites-header = Ommabop saytni tahrirlash
 newtab-topsites-title-label = Sarlavha
@@ -41,17 +42,27 @@ newtab-topsites-image-validation = Rasm yuklanmadi. Boshqa URL manzildan foydala
 newtab-topsites-cancel-button = Bekor qilish
 newtab-topsites-delete-history-button = Tarixdan o‘chirish
 newtab-topsites-save-button = Saqlash
-newtab-topsites-preview-button = Ko’rib chiqish
-newtab-topsites-add-button = Qo‘shish
+newtab-topsites-preview-button = Koʻrib chiqish
+newtab-topsites-add-button = Qoʻshish
 
-## Top Sites - Delete history confirmation dialog. 
+## Top Sites - Delete history confirmation dialog.
 
-newtab-confirm-delete-history-p1 = Ushbu sahifaning har bir nusxasini tarixingizdan o‘chirmoqchimisiz?
+newtab-confirm-delete-history-p1 = Ushbu sahifaning har bir nusxasini tarixingizdan oʻchirmoqchimisiz?
 # "This action" refers to deleting a page from history.
-newtab-confirm-delete-history-p2 = Bu amalni ortga qaytarib bo‘lmaydi.
+newtab-confirm-delete-history-p2 = Bu amalni ortga qaytarib boʻlmaydi.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Menyuni ochish
+    .aria-label = Menyuni ochish
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Menyuni ochish
+    .aria-label = { $title } uchun matn menyusini ochish
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Bu saytni tahrirlash
@@ -69,12 +80,21 @@ newtab-menu-delete-history = Tarixdan o‘chirish
 newtab-menu-save-to-pocket = { -pocket-brand-name } xizmatiga saqlash
 newtab-menu-delete-pocket = { -pocket-brand-name } xizmatidan o‘chirish
 newtab-menu-archive-pocket = { -pocket-brand-name } orqali arxivlash
+newtab-menu-show-privacy-info = Bizning homiylarimiz va sizning maxfiyligingiz
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Tayyor
+newtab-privacy-modal-header = Maxfiyligingiz shaxsiy hayotingizga tegishli.
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Xatcho‘pni olib tashlash
 # Bookmark is a verb here.
 newtab-menu-bookmark = Xatcho‘p
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = Havoladan nusxa olish
@@ -98,21 +118,31 @@ newtab-menu-open-file = Faylni ochish
 
 newtab-label-visited = Kirilgan
 newtab-label-bookmarked = Xatcho‘pga qo‘shilgan
+newtab-label-removed-bookmark = Xatchoʻp olib tashlandi
 newtab-label-recommended = Trendda
 newtab-label-saved = { -pocket-brand-name } xizmatiga saqlandi
 newtab-label-download = Yuklab olindi
 
-## Section Menu: These strings are displayed in the section context menu and are 
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Qismni olib tashlash
 newtab-section-menu-collapse-section = Qismni yig‘ish
 newtab-section-menu-expand-section = Qismni yoyish
 newtab-section-menu-manage-section = Qismni boshqarish
+newtab-section-menu-manage-webext = Kengaytmani boshqarish
 newtab-section-menu-add-topsite = Ommabop saytga qo‘shish
+newtab-section-menu-add-search-engine = Qidiruv tizimini qoʻshish
 newtab-section-menu-move-up = Tepaga ko‘tarish
 newtab-section-menu-move-down = Pastga tushirish
 newtab-section-menu-privacy-notice = Maxfiylik eslatmalari
+
+## Section aria-labels
+
+newtab-section-collapse-section-label =
+    .aria-label = Qismni yigʻish
+newtab-section-expand-section-label =
+    .aria-label = Qismni yoyish
 
 ## Section Headers.
 
@@ -130,10 +160,18 @@ newtab-empty-section-highlights = Saytlarni ko‘rishni boshlashingiz bilan biz 
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Hammasini ko‘rib chiqdingiz. { $provider }dan so‘nggi hikoyalarni o‘qish uchun keyinroq bu sahifaga qayting. Kuta olmaysizmi? Internetdan eng zo‘r hikoyalarni topish uchun ommabop mavzuni tanlang.
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+newtab-discovery-empty-section-topstories-try-again-button = Yana urining
+newtab-discovery-empty-section-topstories-loading = Yuklanmoqda...
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Obbo! Biz deyarli bu qismni yuklab boʻlgandik, lekin ulgurmabmiz.
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Mashhur mavzular:
+newtab-pocket-more-recommendations = Yana tavsiyalar
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
