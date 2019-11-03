@@ -36,3 +36,7 @@
 <!ENTITY dntTrackingNotOkay.label2 "บอกไซต์ว่าฉันไม่ต้องการถูกติดตาม">
 <!ENTITY dntTrackingNotOkay.accesskey "บ">
 <!ENTITY doNotTrackInfo.label "เรียนรู้เพิ่มเติมเกี่ยวกับไม่ติดตาม">
+
+<!ENTITY doNotTrackCheck.label "ส่งสัญญาณ “ไม่ติดตาม” ให้กับเว็บไซต์ว่าคุณไม่ต้องการถูกติดตาม">
+<!ENTITY doNotTrackCheck.accesskey "ง">
+<!ENTITY doNotTrackLearnMore.label "เรียนรู้เพิ่มเติม">
