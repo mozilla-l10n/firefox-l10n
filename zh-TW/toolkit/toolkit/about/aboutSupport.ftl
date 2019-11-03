@@ -51,15 +51,15 @@ app-basics-profile-dir =
         [linux] 設定檔目錄
        *[other] 設定檔目錄
     }
-app-basics-enabled-plugins = 已啟用的外掛程式
+app-basics-enabled-plugins = 啟用的外掛程式
 app-basics-build-config = 編譯組態
 app-basics-user-agent = 使用者代理字串（User Agent）
 app-basics-os = 作業系統
 app-basics-memory-use = 記憶體使用量
 app-basics-performance = 效能
-app-basics-service-workers = 已註冊的 Service Workers
+app-basics-service-workers = 註冊的 Service Worker
 app-basics-profiles = 設定檔
-app-basics-launcher-process-status = 啟動器 Process
+app-basics-launcher-process-status = 啟動器處理程序
 app-basics-multi-process-support = 多程序視窗
 app-basics-remote-processes-count = 遠端處理程序
 app-basics-enterprise-policies = 企業政策
@@ -73,7 +73,7 @@ show-dir-label =
         [windows] 開啟資料夾
        *[other] 開啟資料夾
     }
-modified-key-prefs-title = 已修改的重要偏好設定
+modified-key-prefs-title = 修改過的重要偏好設定
 modified-prefs-name = 名稱
 modified-prefs-value = 值
 user-js-title = user.js 偏好設定
@@ -134,7 +134,7 @@ media-device-preferred = 偏好使用
 media-device-format = 格式
 media-device-channels = 頻道
 media-device-rate = 取樣率
-media-device-latency = Latency
+media-device-latency = 延滯
 media-capabilities-title = 媒體能力
 # List all the entries of the database.
 media-capabilities-enumerate = 列舉資料庫
