@@ -2,14 +2,28 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+# The category name in the <b> tag will be bold.
+protection-report-header-details-standard = ระดับการป้องกันถูกตั้งเป็น <b>มาตรฐาน</b>
+    .title = ไปที่การตั้งค่าความเป็นส่วนตัว
+protection-report-header-details-strict = ระดับการป้องกันถูกตั้งเป็น <b>เข้มงวด</b>
+    .title = ไปที่การตั้งค่าความเป็นส่วนตัว
+protection-report-header-details-custom = ระดับการป้องกันถูกตั้งเป็น <b>กำหนดเอง</b>
+    .title = ไปที่การตั้งค่าความเป็นส่วนตัว
 protection-report-page-title = การปกป้องความเป็นส่วนตัว
 protection-report-content-title = การปกป้องความเป็นส่วนตัว
 etp-card-title = การป้องกันการติดตามที่มากขึ้น
+etp-card-content = ตัวติดตามจะติดตามคุณทางออนไลน์เพื่อรวบรวมข้อมูลเกี่ยวกับพฤติกรรมการค้นหาและความสนใจของคุณ { -brand-short-name } ปิดกั้นตัวติดตามและสคริปต์ที่เป็นอันตรายอื่น ๆ จำนวนมาก
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = วันนี้
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = กราฟที่มีจำนวนตัวติดตามแต่ละชนิดทั้งหมดที่ถูกปิดกั้นในสัปดาห์นี้
 social-tab-title = ตัวติดตามสังคมออนไลน์
+social-tab-contant = เครือข่ายสังคมออนไลน์จะวางตัวติดตามบนเว็บไซต์อื่น ๆ เพื่อติดตามสิ่งที่คุณทำ และดูทางออนไลน์ ซึ่งทำให้บริษัทสังคมออนไลน์สามารถเรียนรู้เพิ่มเติมเกี่ยวกับคุณนอกเหนือจากที่คุณแบ่งปันในโปรไฟล์สังคมออนไลน์ของคุณ <a data-l10n-name="learn-more-link">เรียนรู้เพิ่มเติม</a>
 cookie-tab-title = คุกกี้ติดตามข้ามไซต์
+cookie-tab-content = คุกกี้เหล่านี้ติดตามคุณจากไซต์หนึ่งไปยังอีกไซต์หนึ่งเพื่อรวบรวมข้อมูลเกี่ยวกับสิ่งที่คุณทำทางออนไลน์ ซึ่งถูกตั้งค่าโดยบุคคลที่สาม เช่น ผู้โฆษณาและบริษัทการวิเคราะห์ การปิดกั้นคุกกี้ติดตามข้ามไซต์จะช่วยลดจำนวนโฆษณาที่ติดตามคุณไป <a data-l10n-name="learn-more-link">เรียนรู้เพิ่มเติม</a>
 tracker-tab-title = ตัวติดตามเนื้อหา
 fingerprinter-tab-title = ลายนิ้วมือดิจิทัล
 cryptominer-tab-title = ตัวขุดเหรียญดิจิทัล

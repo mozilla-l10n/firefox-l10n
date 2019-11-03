@@ -109,11 +109,8 @@ master-password-reload-button =
     .label = เข้าสู่ระบบ
     .accesskey = ข
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = ยกเลิก
-confirmation-dialog-dismiss-button =
-    .title = ยกเลิก
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] ต้องการเข้าสู่ระบบของคุณทุกที่ที่คุณใช้ { -brand-product-name } หรือไม่? ไปที่ตัวเลือก { -sync-brand-short-name } ของคุณแล้วเลือกกล่องกาเครื่องหมาย การเข้าสู่ระบบ
@@ -126,6 +123,15 @@ enable-password-sync-preferences-button =
            *[other] เยี่ยมชมค่ากำหนด { -sync-brand-short-name }
         }
     .accesskey = ย
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = ไม่ต้องถามฉันอีก
+    .accesskey = ม
+
+## Dialogs
+
+confirmation-dialog-cancel-button = ยกเลิก
+confirmation-dialog-dismiss-button =
+    .title = ยกเลิก
 confirm-delete-dialog-title = ลบการเข้าสู่ระบบนี้?
 confirm-delete-dialog-message = การกระทำนี้ไม่สามารถเลิกทำได้
 confirm-delete-dialog-confirm-button = ลบ
