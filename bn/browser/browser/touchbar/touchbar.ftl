@@ -19,3 +19,18 @@ open-location = অনুসন্ধান করুন বা ঠিকান�
 share = শেয়ার করুন
 close-window = উইন্ডো বন্ধ করুন
 open-sidebar = সাইডবার
+# This string describes shortcuts for search.
+search-popover = শর্টকাট অনুসন্ধান করুন
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = অনুসন্ধান:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = বুকমার্ক
+search-history = ইতিহাস
+search-tags = ট্যাগসমূহ
+search-titles = শিরোনাম
+
+
+

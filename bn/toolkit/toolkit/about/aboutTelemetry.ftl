@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = পিং তথ্যের উৎস:
 about-telemetry-show-current-ping-data = বর্তমান পিং তথ্য
+about-telemetry-show-current-data = বর্তমান তথ্য
 about-telemetry-show-archived-ping-data = আর্কাইভ পিং তথ্য
 about-telemetry-show-subsession-data = সাবসেশনের তথ্য দেখান
 about-telemetry-choose-ping = পিং নির্বাচন করুন:

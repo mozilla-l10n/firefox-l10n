@@ -33,6 +33,7 @@ printpreview-of =
     .value = সর্বমোট
 printpreview-custom-prompt =
     .value = স্বনির্ধারিত আকার পরিবর্তন…
+printpreview-custom-scale-prompt-title = স্বনির্ধারিত মাপনী
 printpreview-page-setup =
     .label = পাতার সেটআপ…
     .accesskey = u
