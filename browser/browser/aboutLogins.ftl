@@ -71,6 +71,7 @@ about-logins-list-item-breach-icon =
 
 login-intro-heading = আপনার সংরক্ষিত লগইন সন্ধান করছেন? { -sync-brand-short-name } সেট আপ করুন।
 about-logins-login-intro-heading-logged-in = সিংক হওয়া কোনো লগইন পাওয়া যায়নি।
+login-intro-description = আপনি যদি ভিন্ন কোন ডিভাইসের { -brand-product-name } এ আপনার লগইন সমূহ সংরক্ষণ করে থাকেন, তাহলে সেগুলো কিভাবে পাবেন, সেটি এখানে রয়েছে:
 login-intro-instruction-fxa = আপনার লগইন সমূহ সংরক্ষিত রয়েছে এমন ডিভাইসে আপনার { -fxaccount-brand-name } সাইন ইন করুন বা তৈরী করুন।
 login-intro-instruction-fxa-settings = নিশ্চিত করুন যে আপনি { -sync-brand-short-name } সেটিং এ লগইন চেকবক্সটি নির্বাচন করেছেন
 about-logins-intro-instruction-help = আরও সহায়তার জন্য <a data-l10n-name="help-link">{ -lockwise-brand-short-name } দেখুন
