@@ -21,15 +21,24 @@
 <!ENTITY firstrun_data_message "Kam trafik sarflab, ko‘proq saqlash">
 <!ENTITY firstrun_data_subtext2 "Saytlarga kirganda trafikni tejash uchun rasmlarni bloklashingiz mumkin.">
 <!ENTITY firstrun_sync_title "Sinxronlash">
+<!ENTITY firstrun_sync_message3 "Xatchoʻplar, tarix va parollaringizni telefoningizga sinxronlang.">
+<!ENTITY updatednewfirstrun_sync_title "Hisob">
 <!ENTITY firstrun_sync_message2 "Qolgan joyidan davom eting.">
 <!ENTITY firstrun_sync_subtext2 "Sinxronizatsiyadan &brandShortName; brauzeriga saqlangan xatcho‘p, parol va boshqa kerakli narsalarni barcha qurilmalarda topish uchun foydalaning.">
 <!ENTITY newfirstrun_sync_subtext "Telefoningizdagi Firefox brauzeriga saqlaganlaringizni kompyuterdagi Firefoxga maxfiy va xavfsiz ravishda sinxronlang.">
+<!ENTITY firstrun_sendtab_title "Ichki oynani joʻnatish">
+<!ENTITY firstrun_sendtab_message "Ichki oynalarni telefondan kompyuterga yuboring – bir lahzada.">
+<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName;dan yanada samarali foydalanish uchun hisobingizga kiring">
 <!ENTITY firstrun_signin_message "Ulaning va boshlang">
 <!ENTITY firstrun_signin_button "Sinxronlash uchun tizimga kirish">
 <!ENTITY newfirstrun_signin_button "Sinxronizatsiyani yoqish">
+<!ENTITY updatednewfirstrun_signin_button "&brandShortName; hisobiga kirish">
 <!ENTITY  onboard_start_button_browser "Ko‘rishni boshlash">
 <!ENTITY firstrun_button_notnow "Hozir emas">
 <!ENTITY firstrun_button_next "Keyingi">
+<!ENTITY firstrun_signup_button "Roʻyxatdan oʻtish">
+
+<!ENTITY firstrun_signin_button2 "Hisobga kirish">
 
 <!ENTITY firstrun_tabqueue_title "Havolalar">
 
@@ -66,6 +75,11 @@
 <!ENTITY  sending_crash_report "Nosozlik ma’lumoti\u2026ni jo‘natish">
 <!ENTITY  crash_close_label "Yopish">
 <!ENTITY  crash_restart_label "&brandShortName;ni qayta ishga tushirish">
+<!-- Localization note (crash_notification_title, crash_notification_message, crash_notification_negative_button_text)
+     Text displayed in a system notification to allow starting the Crash Reporter (Android Q and later).-->
+<!ENTITY  crash_notification_title "&brandShortName;da nosozlik yuz berdi">
+<!ENTITY  crash_notification_message "&vendorShortName;ga hisobot yuborish uchun bosing">
+<!ENTITY  crash_notification_negative_button_text "Rad qilish">
 
 <!ENTITY url_bar_default_text2 "Izlang yoki manzilni kiriting">
 
@@ -108,6 +122,9 @@
 <!ENTITY bookmark_folder_updated "Jild yangilandi">
 <!ENTITY bookmark_parent_folder "Yuqori jild">
 <!ENTITY bookmark_add_folder "Yangi jild qo‘shish">
+<!-- Localization note (bookmark_default_folder_title): Default title is used if user doesn't specify
+     one when he is creating a bookmark folder -->
+<!ENTITY bookmark_default_folder_title "(nomsiz)">
 
 <!ENTITY reader_saved_offline "Qurilma xotirasiga saqlandi">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -267,6 +284,7 @@
 <!ENTITY pref_cookies_menu "Kukilar">
 <!ENTITY pref_cookies_accept_all "Yoqib qo‘yilgan">
 <!ENTITY pref_cookies_not_accept_foreign "Begona saytlardan boshqalari yoqib qo‘yildi">
+<!ENTITY pref_cookies_not_accept_trackers "Yoqilgan, kuzatuvchi kukilardan boshqa">
 <!ENTITY pref_cookies_disabled "O‘chirib qo‘yilgan">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -327,11 +345,6 @@
 
 <!ENTITY pref_pwa "Ilg‘or veb ilovalar">
 <!ENTITY pref_pwa_summary "Veb ilovalarni bosh ekranga qo‘shishga ruxsat beradi">
-
-<!ENTITY tracking_protection_prompt_title "Hozir kuzatishdan himoyalanish bilan">
-<!ENTITY tracking_protection_prompt_text "Kuzatish elementlari faol ravishda bloklanmoqda, shuning uchun xavotir olmang.">
-<!ENTITY tracking_protection_prompt_tip_text "Ko‘proq ma’lumot olish uchun Maxfiylik sozlamalariga kiring">
-<!ENTITY tracking_protection_prompt_action_button "Tushundim!">
 
 <!ENTITY tab_queue_toast_message3 "Ichki oyna &brandShortName;ga saqlandi">
 <!ENTITY tab_queue_toast_action "Hozir ochish">
@@ -413,14 +426,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Yuklab olishlar">
 <!ENTITY pref_private_data_syncedTabs "Sinxronlangan ichki oynalar">
 
-<!ENTITY pref_default_browser "Asosiy brauzer sifatida tayinlash">
-
 <!ENTITY pref_default_browser2 "&brandShortName;ni asosiy brauzeringizga aylantiring">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "“Brauzer” ilovasi ustiga bosing va &brandShortName;ni tanlang">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla qo‘llab-quvvatlash xizmatiga kirish">
 <!ENTITY pref_about_firefox "&brandShortName; haqida">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Mulohaza bildiring">
@@ -491,6 +501,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Bo‘lishish">
 <!ENTITY share_title "Bo‘lishish">
 <!ENTITY share_image_failed "Rasm bo‘lishiilmadi">
+<!ENTITY share_error_toast_message "Tanlangan ilovaga yuborilmadi">
 <!ENTITY save_as_pdf "PDF sifatida saqlash">
 <!ENTITY print "Chop qilish">
 <!ENTITY view_page_source "Sahifa manbasini ko‘rish">
@@ -591,6 +602,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Manzili">
 <!ENTITY bookmark_edit_keyword "Kalit so‘z">
 <!ENTITY bookmark_select_folder "Jildni tanlash">
+<!ENTITY bookmark_edit_undo "Amalni bekor qilish">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -679,6 +691,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY filepicker_audio_title "Yozib olingan ovozni tanlang">
 <!ENTITY filepicker_image_title "Tushirilgan rasmni tanlang">
 <!ENTITY filepicker_video_title "Yozib olingan videoni tanlang">
+<!ENTITY filepicker_permission_denied "Talab qilingan ruxsatlar berilmadi, tizim fayllarini tanlagich faollashtirildi.">
 
 <!-- Site identity popup -->
 <!ENTITY identity_connected_to "Ulangan:">
@@ -869,6 +882,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "\&quot;O‘qish rejimi\&quot;dagi saytlarni oflayn o‘qish uchun xatcho‘plarga qo‘shing.">
 <!ENTITY helper_triple_readerview_open_button "Xatcho‘plarga qo‘shish">
 
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "&brandShortName;ga xush kelibsiz">
+<!ENTITY activity_stream_signin_description "Firefox hisobi bilan xatochoʻp va parol kabilarni sinxronlashni boshlang.">
+<!ENTITY activity_stream_signup_button "Roʻyxatdan oʻtish">
+<!ENTITY activity_stream_signin_prompt "Hisobingiz bormi?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Hisobga kirish.">
+
+<!ENTITY activity_stream_signin_button "Hisobga kirish">
+
 <!ENTITY activity_stream_topsites "Ommabop saytlar">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "&brandPocket; tomonidan tavsiya qilingan">
@@ -918,6 +942,7 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_title "Pauza">
 <!ENTITY pip_pause_button_description "Pauzalash">
 
+<!ENTITY pref_notification_settings_link "Bildirishnoma sozlamalarini boshqarish">
 <!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Brauzer">
 <!ENTITY mls_notification_channel "&vendorShortName; joylashuv xizmati">
