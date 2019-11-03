@@ -62,7 +62,7 @@ policy-HardwareAcceleration = Отключает аппаратное ускор
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Устанавливает домашнюю страницу и, по желанию, блокирует её смену.
 policy-InstallAddonsPermission = Разрешает некоторым веб-сайтам устанавливать дополнения.
-policy-LegacyProfiles = Отключите эту функцию для принудительного создания отдельного профиля для каждой установки
+policy-LegacyProfiles = Отключает функцию для принудительного создания отдельного профиля для каждой установки
 policy-LocalFileLinks = Разрешает определённым веб-сайтам ссылаться на локальные файлы.
 policy-NetworkPrediction = Включает или отключает прогнозирование сети (предварительная выборка DNS).
 policy-NewTabPage = Включает или отключает страницу новой вкладки.
