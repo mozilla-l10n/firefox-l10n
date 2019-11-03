@@ -30,6 +30,7 @@
 <!ENTITY helpFeedbackPage.accesskey "v">
 
 <!ENTITY helpShowTour2.label "&brandShorterName;-rondleiding">
+<!ENTITY helpShowTour2.accesskey "d">
 
 <!ENTITY helpGetInvolvedPage.label "Meedoen">
 <!ENTITY helpGetInvolvedPage.accesskey "M">
