@@ -169,6 +169,14 @@
 <!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "Neniu">
 <!ENTITY noneCmd.accesskey "N">
+<!ENTITY listBulletCmd.label "Bula">
+<!ENTITY listBulletCmd.accesskey "B">
+<!ENTITY listNumberedCmd.label "Numerata">
+<!ENTITY listNumberedCmd.accesskey "m">
+<!ENTITY listTermCmd.label "De kategorioj">
+<!ENTITY listTermCmd.accesskey "k">
+<!ENTITY listDefinitionCmd.label "De difinoj">
+<!ENTITY listDefinitionCmd.accesskey "d">
 
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!-- isn't used in menu now, but may be added in future -->
