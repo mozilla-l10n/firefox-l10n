@@ -951,6 +951,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Bundan kukilar internetda nima qilayotganingizni bilish uchun saytlarda sizni kuzatib boradi. Bunday kukilar analitik kompaniya va reklama beruvchilar tomonidan oʻrnatiladi.">
 <!ENTITY protections.cryptominers.description "Kriptomaynerlar raqamli pullarni qoʻlga kiritish uchun tizimingizning hisoblash quvvatidan foydalanadi. Bunday skriptlar batareya quvvatini tez tugatadi, kompyuter ishlashini sekinlashtiradi va elektr energiyasi toʻlovlarini koʻpaytirishi mumkin.">
+<!ENTITY protections.fingerprinters.description "Raqamli imzo yiʻguvchilar sizning nomingizdan profil yaratish uchun brauzer va kompyuteringiz sozlamalaridan foydalanadi. Bu raqamli imzodan foydalanib ular turli saytlardagi faoliyatingizni kuzatishi mumkin.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
