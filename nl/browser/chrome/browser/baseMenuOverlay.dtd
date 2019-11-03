@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Help"> 
 <!ENTITY helpMenuWin.accesskey    "H">
+
 <!ENTITY aboutProduct2.label      "Over &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "O">
 <!ENTITY productHelp2.label       "&brandShorterName; Help">
@@ -35,7 +36,6 @@
 <!ENTITY helpFeedbackPage.accesskey  "v">
 
 <!ENTITY helpShowTour2.label            "&brandShorterName;-rondleiding">
-<!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Voorkeuren…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
