@@ -161,8 +161,14 @@
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Adreso">
 <!ENTITY paragraphAddressCmd.accesskey "d">
+<!ENTITY paragraphPreformatCmd.label "Antaŭformati">
+<!ENTITY paragraphPreformatCmd.accesskey "f">
 
 <!-- List menu items -->
+<!ENTITY formatlistMenu.label "Listo">
+<!ENTITY formatlistMenu.accesskey "L">
+<!ENTITY noneCmd.label "Neniu">
+<!ENTITY noneCmd.accesskey "N">
 
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!-- isn't used in menu now, but may be added in future -->
