@@ -46,6 +46,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  listAllTabs.label      "Barcha ichki oynalar ro‘yxati">
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "Ichki oynalarni izlash">
 
 <!ENTITY tabCmd.label "Yangi ichki oyna">
 <!ENTITY tabCmd.accesskey "i">
@@ -64,7 +65,10 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.label "Chop qilish…">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
+<!ENTITY importFromAnotherBrowserCmd.label "Boshqa brauzerdan import qilish">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
+<!ENTITY taskManagerCmd.label "Vazifa menejeri">
 
 <!ENTITY goOfflineCmd.label "Oflayn ishlash">
 <!ENTITY goOfflineCmd.accesskey "i">
@@ -260,6 +264,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Brauzer nazorat ostida!">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Internetda tasdiqdan o‘tish panelini ochish">
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Internetda ishlashdan oldin ruxsatnomalar panelini ochish">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Kamera yoki mikrofonni sayt bilan bo‘lishishni boshqarish">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Mikrofonni sayt bilan bo‘lishishni boshqarish">
@@ -271,6 +276,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM dasturidan foydalanishni boshqarish">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI-panelni ochish">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Bu saytga qoʻshimcha maxsus ruxsat bergansiz.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Bu sayt uchun kamerani bloklab qo‘ygansiz.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Bu sayt uchun mikrofonni bloklab qo‘ygansiz.">
@@ -283,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "Bu sayt uchun canvas ma’lumotlarini chiqarishni blokladingiz.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Bu saytda Adobe Flash plaginidan foydalanishni taqiqladingiz.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Bu sayt uchun MIDI ruxsatini blokladingiz.">
+<!ENTITY urlbar.installBlocked.tooltip           "Bu saytdan qoʻshimcha dastur oʻrnatishni bloklagansiz.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tarixni ko‘rsatish">
@@ -383,6 +390,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmd2.accesskey     "M">
 <!ENTITY preferencesCmdUnix.label       "Parametrlar">
 <!ENTITY preferencesCmdUnix.accesskey     "m">
+<!ENTITY logins.label                           "Login va parollar">
 
 <!ENTITY clearRecentHistory.label               "So‘nggi tarixni tozalash">
 
@@ -848,6 +856,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "Bu ishonchli &brandShortName; sahifasi.">
 <!ENTITY identity.extensionPage "Bu sahifa kengaytmadan yuklandi.">
 <!ENTITY identity.insecureLoginForms2 "Bu sahifaga kiritilgan ma’lumotlar o‘g‘irlanishi mumkin.">
+<!ENTITY identity.customRoot "Aloqa Mozilla tomonidan tasdiqlanmagan sertifikat beruvchi tomonidan tasdiqlangan.">
 
 <!ENTITY identity.evOwnerLabel2 "Sertifikat beruvchi:">
 

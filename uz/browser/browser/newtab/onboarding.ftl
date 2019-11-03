@@ -67,6 +67,9 @@ onboarding-sync-form-header = E-pochtangizni kiriting
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Foydali mahsulotlar
+onboarding-benefit-privacy-title = Haqiqiy maxfiylik
+onboarding-benefit-sync-title = { -sync-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
