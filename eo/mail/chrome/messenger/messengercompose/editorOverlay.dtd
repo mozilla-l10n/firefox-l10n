@@ -186,7 +186,7 @@
 <!ENTITY bodyTextCmd.accesskey "E">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Spertulaj atributoj">
-<!ENTITY advancedPropertiesCmd.accesskey "p">
+<!ENTITY advancedPropertiesCmd.accesskey "j">
 
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Ĝisrandigi">
@@ -209,11 +209,23 @@
 <!ENTITY layerSendToBack.tooltip "Movi fonen">
 <!ENTITY layerBringToFront.tooltip "Movi malfonen">
 
+<!ENTITY increaseIndent.label "Pliigi marĝenon">
+<!ENTITY increaseIndent.accesskey "P">
+<!ENTITY increaseIndent.key "]">
+<!ENTITY decreaseIndent.label "Malpliigi marĝenon">
+<!ENTITY decreaseIndent.accesskey "M">
+<!ENTITY decreaseIndent.key "[">
 
+<!ENTITY colorsAndBackground.label "Koloroj de paĝo kaj fono…">
+<!ENTITY colorsAndBackground.accesskey "o">
 
 <!-- Table Menu -->
+<!ENTITY tableMenu.label "Tabelo">
+<!ENTITY tableMenu.accesskey "b">
 
 <!-- Select Submenu -->
+<!ENTITY tableSelectMenu.label "Marki">
+<!ENTITY tableSelectMenu.accesskey "M">
 
 
 <!-- Insert SubMenu -->
