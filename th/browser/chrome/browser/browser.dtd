@@ -176,6 +176,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "การตั้งค่าบัญชี">
 <!ENTITY fxa.menu.signOut.label "ลงชื่อออก…">
 <!ENTITY fxa.menu.deviceSettings.label "การตั้งค่าอุปกรณ์">
+<!ENTITY fxa.menu.setupSync.label "ตั้งค่า &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -289,6 +290,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "คุณได้ปิดกั้นเว็บไซต์นี้จากการใช้ปลั๊กอิน Adobe Flash">
 <!ENTITY urlbar.midiBlocked.tooltip              "คุณได้ปิดกั้นการเข้าถึง MIDI สำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.installBlocked.tooltip           "คุณได้ปิดกั้นการติดตั้งส่วนเสริมสำหรับเว็บไซต์นี้">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "แสดงประวัติ">
 
@@ -937,16 +939,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "ทำไม?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "การปิดกั้นคุณลักษณะเหล่านี้อาจทำให้องค์ประกอบของบางเว็บไซต์เสียหายได้ หากไม่มีตัวติดตาม ปุ่ม แบบฟอร์ม และฟิลด์การเข้าสู่ระบบบางส่วนอาจไม่ทำงาน">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "การปิดการป้องกันจะเป็นการอนุญาตตัวติดตามทั้งหมดในไซต์นี้ นอกจากนี้ยังช่วยปรับปรุงฟังก์ชันการทำงานบางอย่างของเว็บไซต์">
 <!ENTITY protections.socialMediaTrackers.label "ตัวติดตามสังคมออนไลน์">
 <!ENTITY protections.crossSiteTrackingCookies.label "คุกกี้ติดตามข้ามไซต์">
 <!ENTITY protections.trackingContent.label "ตัวติดตามเนื้อหา">
 <!ENTITY protections.fingerprinters.label "ลายนิ้วมือดิจิทัล">
 <!ENTITY protections.cryptominers.label "ตัวขุดเหรียญดิจิทัล">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "ตัวติดตามทั้งหมดในไซต์นี้ถูกโหลดเนื่องจากการป้องกันถูกปิด">
 <!ENTITY protections.noTrackersFound.description "ไม่มีตัวติดตามที่ &brandShortName; รู้จักถูกตรวจพบที่หน้านี้">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "คุกกี้เหล่านี้ติดตามคุณจากไซต์หนึ่งไปยังอีกไซต์หนึ่งเพื่อรวบรวมข้อมูลเกี่ยวกับสิ่งที่คุณทำทางออนไลน์ พวกมันถูกตั้งค่าโดยบุคคลที่สามเช่น นักโฆษณาและบริษัทวิเคราะห์">
 <!ENTITY protections.cryptominers.description "ตัวขุดเหรียญคริปโตดิจิตอลใช้พลังการคำนวณของระบบของคุณเพื่อสร้างเงินคริปโตดิจิทัล สคริปต์ขุดเหรียญดิจิทัลจะทำให้พลังงานแบตเตอรี่ของคุณลดลง คอมพิวเตอร์ของคุณช้าลง และเพิ่มค่าไฟฟ้าของคุณได้">
+<!ENTITY protections.fingerprinters.description "ลายนิ้วมือดิจิทัลรวบรวมการตั้งค่าจากเบราว์เซอร์และคอมพิวเตอร์ของคุณเพื่อสร้างโปรไฟล์ของคุณ การใช้ลายนิ้วมือดิจิทัลจะทำให้สามารถติดตามคุณผ่านเว็บไซต์ต่าง ๆ ได้">
 <!ENTITY protections.trackingContent2.description "เว็บไซต์อาจโหลดโฆษณา วิดีโอ และเนื้อหาอื่น ๆ นอกเว็บที่มีโค้ดติดตาม การปิดกั้นเนื้อหาการติดตามจะทำให้เว็บไซต์โหลดเร็วขึ้น แต่ปุ่มบางปุ่ม ฟอร์ม และเขตข้อมูลการเข้าสู่ระบบอาจไม่ทำงาน">
+<!ENTITY protections.socialMediaTrackers.description "เครือข่ายสังคมออนไลน์จะวางตัวติดตามบนเว็บไซต์อื่น ๆ เพื่อติดตามสิ่งที่คุณทำ และดูทางออนไลน์ ซึ่งทำให้บริษัทสังคมออนไลน์สามารถเรียนรู้เพิ่มเติมเกี่ยวกับคุณนอกเหนือจากที่คุณแบ่งปันในโปรไฟล์สังคมออนไลน์ของคุณ">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
