@@ -5,16 +5,23 @@
 <!ENTITY itemGeneral.label       "General">
 <!ENTITY dataChoicesTab.label    "Selectiones de datos">
 <!ENTITY itemUpdate.label        "Actualisar">
+<!ENTITY itemNetworking.label    "Rete e spatio sur disco">
 <!ENTITY itemCertificates.label  "Certificatos">
 
 <!-- General Settings -->
 <!ENTITY languageSelector.label        "Lingua">
+<!ENTITY allowHWAccel.label            "Usar le acceleration de hardware quando disponibile">
+<!ENTITY allowHWAccel.accesskey        "h">
 
 
+<!ENTITY checkDefaultsNow.label        "Controlar ora…">
+<!ENTITY checkDefaultsNow.accesskey    "o">
+<!ENTITY configEditDesc.label          "Configuration avantiate">
 <!ENTITY configEdit.label              "Editor de configuration…">
 <!ENTITY configEdit.accesskey          "c">
 <!ENTITY returnReceiptsInfo.label      "Determinar como &brandShortName; tracta le receptas de retorno">
 <!ENTITY showReturnReceipts.label      "Receptas de retorno…">
+<!ENTITY showReturnReceipts.accesskey  "R">
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetria">
@@ -62,6 +69,8 @@
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace                       "Spatio de disco">
+<!ENTITY offlineCompactFolders.label     "Compactar tote le plicas quando se recupera plus de">
+<!ENTITY offlineCompactFolders.accesskey "t">
 <!ENTITY offlineCompactFoldersMB.label   "MB total">
 
 <!-- LOCALIZATION NOTE:
@@ -84,6 +93,8 @@
 <!ENTITY certs.auto.accesskey            "S">
 <!ENTITY certs.ask                       "Demandar me cata vice">
 <!ENTITY certs.ask.accesskey             "D">
+<!ENTITY enableOCSP.label                "Querer le servitores responditor OCSP pro confirmar le validitate actual del certificatos">
+<!ENTITY enableOCSP.accesskey            "Q">
 
 <!ENTITY manageCertificates.label "Gerer certificatos">
 <!ENTITY manageCertificates.accesskey "G">
