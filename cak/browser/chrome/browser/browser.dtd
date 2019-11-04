@@ -292,6 +292,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           " Xaq'ät kiyakik taq rutz'aqat ajk'amaya'l ruxaq re'.
 ">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tik'ut pe ri natab'äl">
 
 <!ENTITY searchItem.title             "Tikanöx">
@@ -947,6 +948,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Rojqanem Rupam">
 <!ENTITY protections.fingerprinters.label "Ketal ruwi' q'ab'aj">
 <!ENTITY protections.cryptominers.label "Cryptominers">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Xesamajïx konojel ri ojqanela' pa re ruxaq re' ruma chupül ri chajinem.">
 <!ENTITY protections.noTrackersFound.description "Majun ojqanela' etaman richin &brandShortName; xe'ilitäj pa re ruxaq re'.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Re taq kuki re' yatkitzeqelb'ej pa taq ruxaq richin nikimöl taq tzij chi rij ri nab'än pa k'amab'ey. Yekijikib'a' aj rox winäq achi'el tzijonela' chuqa' ch'onel taq k'ayinela'.">
