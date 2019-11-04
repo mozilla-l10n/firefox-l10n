@@ -136,9 +136,9 @@ legacy-warning-show-legacy = সব পুরাতন এক্সটেনশ�
 legacy-extensions =
     .value = লিগ্যাসি এক্সটেনশন
 legacy-extensions-description = এই এক্সটেনশন বর্তমান { -brand-short-name } মান পূরণ করে না তাই তাদের নিষ্ক্রিয় করা হয়েছে। <label data-l10n-name="legacy-learn-more">অ্যাড-অন এ পরিবর্তন সম্পর্কে আরও জানুন</label>
-extensions-view-discover =
-    .name = অ্যাড-অন নিন
-    .tooltiptext = { extensions-view-discover.name }
+extensions-view-discopane =
+    .name = সুপারিশসমূহ
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = সাম্প্রতিক হালনাগাদ
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -219,19 +219,137 @@ extensions-updates-update-selected =
 manage-extensions-shortcuts =
     .label = এক্সটেনশন এর শর্টকাট পরিচালনা করুন
     .accesskey = S
+shortcuts-no-addons = আপনার কোনো এক্সটেনশন সক্রিয় নেই।
+shortcuts-no-commands = উল্লেখিত এক্সটেনশনের শর্টকাট নেই:
 shortcuts-input =
     .placeholder = একটি শর্টকাট টাইপ করুন
 shortcuts-browserAction = এক্সটেনশন সক্রিয় করুন
+shortcuts-pageAction = পাতার কর্ম সক্রিয় করুন
+shortcuts-sidebarAction = সাইডবার টগল করুন
+shortcuts-modifier-mac = Ctrl, Alt, অথবা ⌘ যুক্ত করুন
+shortcuts-modifier-other = Ctrl বা Alt যুক্ত করুন
+shortcuts-invalid = অকার্যকর সমন্বয়
 shortcuts-letter = একটি চিঠি লিখুন
+shortcuts-system = { -brand-short-name } শর্টকাট ওভাররাইড করা যাবে না
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = সদৃশ শর্টকাট
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = { $addon } দ্বারা ইতিমধ্যে ব্যবহৃত
 shortcuts-card-collapse-button = কম দেখাও
 go-back-button =
     .tooltiptext = ফিরে যাও
 
+## Recommended add-ons page
+
+discopane-notice-learn-more = আরও জানুন
+privacy-policy = গোপনীয়তা নীতি
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = <a data-l10n-name="author">{ $author }</a> দ্বারা
+install-extension-button = { -brand-product-name } এ যোগ করুন
+install-theme-button = থিম ইন্সটল করুন
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = পরিচালনা
+find-more-addons = আরও অ্যাড-অন খুঁজুন
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = আরও অপশন
+
 ## Add-on actions
 
+report-addon-button = রিপোর্ট
 remove-addon-button = অপসারণ
+# The link will always be shown after the other text.
+remove-addon-disabled-button = সরানো যাবে না <a data-l10n-name="link">কেনো?</a>
 disable-addon-button = নিষ্ক্রিয়
 enable-addon-button = সক্রিয়
 expand-addon-button = আরও অপশন
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] বিকল্প
+       *[other] পছন্দসমূহ
+    }
+details-addon-button = বিশদ বিবরণ
+release-notes-addon-button = রিলিজ নোট
+permissions-addon-button = অনুমতিসমূহ
 addons-enabled-heading = সক্রিয় হয়েছে
 addons-disabled-heading = নিষ্ক্রিয় হয়েছে
+extension-enabled-heading = সক্রিয়
+extension-disabled-heading = নিষ্ক্রিয়
+theme-enabled-heading = সক্রিয়
+theme-disabled-heading = নিষ্ক্রিয়
+plugin-enabled-heading = সক্রিয়
+plugin-disabled-heading = নিষ্ক্রিয়
+dictionary-enabled-heading = সক্রিয়
+dictionary-disabled-heading = নিষ্ক্রিয়
+locale-enabled-heading = সক্রিয়
+locale-disabled-heading = নিষ্ক্রিয়
+ask-to-activate-button = সক্রিয় করতে জিজ্ঞাসা করুন
+always-activate-button = সর্বদা সক্রিয়
+never-activate-button = কখনোই সক্রিয় নয়
+addon-detail-author-label = লেখক
+addon-detail-version-label = সংস্করণ
+addon-detail-last-updated-label = সর্বশেষ হালনাগাদ
+addon-detail-homepage-label = হোমপেজ
+addon-detail-rating-label = রেটিং
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = 5 এর ভেতর মান { NUMBER($rating, maximumFractionDigits: 1) }
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (নিষ্ক্রিয়)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } পর্যালোচনা
+       *[other] { $numberOfReviews } পর্যালোচনা
+    }
+
+## Pending uninstall message bar
+
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> বাতিল করে দেয়া হয়েছে।
+pending-uninstall-undo-button = পূর্বাবস্থায় ফিরে যান
+addon-detail-updates-label = স্বয়ংক্রিয়ভাবে আপডেটের অনুমতি দিন
+addon-detail-updates-radio-default = ডিফল্ট
+addon-detail-updates-radio-on = সচল
+addon-detail-updates-radio-off = বন্ধ
+addon-detail-update-check-label = হালনাগাদ এর জন্য অনুসন্ধান করুন
+install-update-button = হালনাগাদ
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = ব্যক্তিগত উইন্ডোতে অনুমোদিত
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = ব্যক্তিগত উইন্ডোতে অনুমোদিত
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-help = অনুমতি পেলে, প্রাইভেট ব্রাউজ করার সময় এই এক্সটেনশনে আপনার অনলাইন কার্যতালিকা পাবে। <a data-l10n-name="learn-more">আরো জানুন</a>
+addon-detail-private-browsing-allow = অনুমতি দাও
+addon-detail-private-browsing-disallow = অনুমতি দিও না
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = সুপারিশকৃত
+    .alt = সুপারিশকৃত
+available-updates-heading = বিদ্যমান হালনাগাদ
+recent-updates-heading = সাম্প্রতিক হালনাগাদ
+release-notes-loading = লোডিং…
+addon-permissions-empty = এই এক্সটেনশনের জন্য কোনো অনুমতির প্রয়োজন নেই
+recommended-extensions-heading = প্রস্তাবিত এক্সটেনশনগুলি
+recommended-themes-heading = প্রস্তাবিত থিমস
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = সৃজনশীল মনে হচ্ছে? <a data-l10n-name="link">Firefox Color দিয়ে নিজের থিম তৈরি করুন।</a>

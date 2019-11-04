@@ -282,6 +282,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ব্যবহার করা হবে ({ -brand-short-name } তে)
@@ -496,7 +500,13 @@ search-bar-shown =
     .label = টুলবারে অনুসন্ধান বার যুক্ত করুন
 search-engine-default-header = ডিফল্ট অনুসন্ধান ইঞ্জিন
 search-engine-default-desc = ঠিকানা বার এবং অনুসন্ধান বারে ব্যবহারের জন্য ডিফল্ট অনুসন্ধান ইঞ্জিন পছন্দ করুন।
+search-engine-default-desc-2 = এটি ঠিকানা বার এবং অনুসন্ধান বারে আপনার ডিফল্ট অনুসন্ধান ইঞ্জিন। আপনি যেকোন সময় পরিবর্তন করতে পারবেন।
+search-engine-default-private-desc-2 = কেবলমাত্র ব্যক্তিগত উইন্ডোজের জন্য আলাদা ডিফল্ট অনুসন্ধান ইঞ্জিন নির্বাচন করুন
+search-separate-default-engine =
+    .label = ব্যক্তিগত উইন্ডোতে এই অনুসন্ধান ইঞ্জিনটি ব্যবহার করুন
+    .accesskey = U
 search-suggestions-header = অনুসন্ধান প্রস্তাবনা
+search-suggestions-desc = অনুসন্ধান ইঞ্জিনের পরামর্শ কীভাবে উপস্থিত হয় তা নির্বাচন করুন।
 search-suggestions-option =
     .label = অনুসন্ধান পরামর্শ প্রদান করুন
     .accesskey = s
@@ -512,6 +522,7 @@ search-show-suggestions-above-history-option =
     .label = ঠিকানা বার ফলাফলে ব্রাউজিং ইতিহাসের আগে অনুসন্ধান পরামর্শ দেখাও
 search-show-suggestions-private-windows =
     .label = ব্যক্তিগত উইন্ডোতে অনুসন্ধানের পরামর্শগুলি দেখান
+suggestions-addressbar-settings = ব্রাউজিং ইতিহাস, বুকমার্ক ও ট্যাব সুপারিশের জন্য পছন্দগুলো পরিবর্তন করুন
 search-suggestions-cant-show = { -brand-short-name } এর কনফিগারেশনে ইতিহাস মনে না রাখতে বলার কারনে লোকেশন বারে অনুসন্ধান পরামর্শ দেখাবে না।
 search-one-click-header = এক-ক্লিক অনুসন্ধান ইঞ্জিন
 search-one-click-desc = আপনি কীওয়ার্ড লিখতে শুরু করার সময় ঠিকানা বার এবং অনুসন্ধান বারের নীচে প্রদর্শিত বিকল্প অনুসন্ধান ইঞ্জিনগুলো নির্বাচন করুন।
@@ -603,6 +614,10 @@ sync-signedin-settings-desc = { -brand-short-name } দিয়ে আপনার
 
 prefs-syncing-on = সিঙ্ক: চালু
 prefs-syncing-off = সিঙ্ক: বন্ধ
+prefs-sync-setup =
+    .label = { -sync-brand-short-name } সেটাপ করুন…
+    .accesskey = S
+prefs-sync-offer-setup-label = আপনার সব ডিভাইসে আপনার সব বুকমার্ক, ইতিহাস, ট্যাব, পাসওয়ার্ড, অ্যাড-অন এবং পছন্দসমূহ সিঙ্ক করুন।
 prefs-sync-now =
     .labelnotsyncing = এখনই সিঙ্ক করুন
     .accesskeynotsyncing = N
@@ -610,6 +625,7 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = আপনি বর্তমানে এই আইটেম সিঙ্ক করছেন:
 sync-currently-syncing-bookmarks = বুকমার্ক
 sync-currently-syncing-history = ইতিহাস
 sync-currently-syncing-tabs = ট্যাব খুলুন
@@ -628,6 +644,13 @@ sync-change-options =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = কি সিঙ্ক করবেন তা ঠিক করুন
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = পরিবর্তন সংরক্ষণ করুন
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = বিছিন্ন...
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = বুকমার্ক
     .accesskey = m
@@ -701,6 +724,9 @@ forms-exceptions =
 forms-generate-passwords =
     .label = শক্তিশালী পাসওয়ার্ডের পরামর্শ দিন এবং তৈরি করুন
     .accesskey = u
+forms-breach-alerts =
+    .label = তথ্য চুরি হওয়া ওয়েবসাইটের পাসওয়ার্ডের ব্যাপারে সতর্ক করুন
+    .accesskey = b
 forms-breach-alerts-learn-more-link = আরও জানুন
 forms-fill-logins-and-passwords =
     .label = লগইন এবং পাসওয়ার্ড সয়ংক্রিয়ভাবে পূরণ করুন
@@ -821,6 +847,7 @@ addressbar-suggestions-settings = অনুসন্ধান ইঞ্জিন
 ## Privacy Section - Content Blocking
 
 content-blocking-header = কনটেন্ট ব্লকিং
+content-blocking-section-description = ব্রাউজ করার সময় আপনার গোপনীয়তা রক্ষা করুন।  অদৃশ্য কনটেন্ট আপনাকে ট্র্যাক করে ও আপনার তথ্য সংগ্রহ করে।  এর কিছু কনটেন্ট  ব্লক করলে পাতা দ্রুত লোড হবে।
 content-blocking-enhanced-tracking-protection = বর্ধিত ট্র্যাকিং সুরক্ষা
 content-blocking-learn-more = আরও জানুন
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
@@ -973,6 +1000,8 @@ collection-health-report-link = আরও জানুন
 collection-studies =
     .label = { -brand-short-name } কে ইনস্টল এবং চালানোর অনুমতি দিন
 collection-studies-link = { -brand-short-name } অধ্যয়ন দেখুন
+addon-recommendations =
+    .label = { -brand-short-name } কে ব্যক্তিগতকৃত এক্সটেশন প্রস্তাবনার অনুমতি দিন।
 addon-recommendations-link = আরও জানুন
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
