@@ -21,11 +21,14 @@ create-login-button = Nieuwe aanmelding maken
 login-favicon =
     .alt = Favicon voor { $title }
 fxaccounts-sign-in-text = Breng uw wachtwoorden naar uw andere apparaten
+fxaccounts-sign-in-button = Aanmelden bij { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Account beheren
 
 ## The ⋯ menu that is in the top corner of the page
 
+menu =
+    .title = Menu openen
 # This menuitem is only visible on Windows
 menu-menuitem-import = Wachtwoorden importeren…
 menu-menuitem-preferences =
