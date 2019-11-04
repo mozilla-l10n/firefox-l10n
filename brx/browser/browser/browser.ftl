@@ -11,11 +11,23 @@ urlbar-midi-notification-anchor =
     .tooltiptext = मिदि पेनल खेव
 urlbar-translate-notification-anchor =
     .tooltiptext = बे बिलाइखौ राव सोलाय
+urlbar-geolocation-blocked =
+    .tooltiptext = नों बे वबसाइथनि जायगा, फोरमायथिखौ बन्द खालामना दोनबाय
+urlbar-web-notifications-blocked =
+    .tooltiptext = नों बे वेबसाइथनि नथिफिखेसनखौ बन्द खालामना दोनबाय
+urlbar-camera-blocked =
+    .tooltiptext = नों बे वेबसाइथनि खेमेराखौ बन्द खालामना दोनबाय
+urlbar-microphone-blocked =
+    .tooltiptext = नों बे वेबसाइथनि माइखफनखौ बन्द खालामना दोनबाय
+urlbar-screen-blocked =
+    .tooltiptext = नों बे वेबसाइथनि फरदाखखौ गुबुनजों बाहागो खालामनायनिफाय बन्द खालामना दोनबाय
 
 ## Page Action Context Menu
 
 page-action-add-to-urlbar =
     .label = एद्रेसबारोव दाजाबदेर
+page-action-manage-extension =
+    .label = बारायनायखौ सामलाइ
 page-action-remove-from-urlbar =
     .label = एद्रेसबारनिफ्राय खोमर
 
