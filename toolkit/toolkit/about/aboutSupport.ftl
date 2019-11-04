@@ -24,6 +24,7 @@ features-title = { -brand-short-name } বৈশিষ্ট্যসমূহ
 features-name = নাম
 features-version = সংস্করণ
 features-id = ID
+processes-title = দূরবর্তী প্রক্রিয়া
 processes-type = ধরণ
 processes-count = গণনা
 app-basics-title = অ্যাপ্লিকেশনের প্রাথমিক তথ্য
@@ -31,6 +32,13 @@ app-basics-name = নাম
 app-basics-version = সংস্করণ
 app-basics-build-id = বিল্ড ID
 app-basics-update-channel = হালনাগাদ চ্যানেলে
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
+app-basics-update-dir =
+    { PLATFORM() ->
+        [linux] directory হালনাগাদ
+       *[other] folder হালনাগাদ
+    }
 app-basics-update-history = হালনাগাদের ইতিহাস
 app-basics-show-update-history = হালনাগাদের ইতিহাস প্রদর্শন
 # Represents the path to the binary used to start the application.
@@ -48,8 +56,11 @@ app-basics-memory-use = মেমোরির ব্যবহার
 app-basics-performance = কার্যকারিতা
 app-basics-service-workers = নিবন্ধিত সার্ভিস কর্মীরা
 app-basics-profiles = প্রোফাইল
+app-basics-launcher-process-status = লঞ্চার প্রক্রিয়া
 app-basics-multi-process-support = মাল্টিপ্রসেস উইন্ডো
+app-basics-remote-processes-count = দূরবর্তী প্রক্রিয়া
 app-basics-enterprise-policies = এন্ট্রারপ্রাইজ নীতিগুলি
+app-basics-location-service-key-google = Google অবস্থান পরিষেবা কী
 app-basics-key-mozilla = Mozilla লোকেশন সার্ভিস Key
 app-basics-safe-mode = সেফ মোড
 show-dir-label =
@@ -75,6 +86,8 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = সিদ্ধান্ত লগ
 graphics-crash-guards-title = Crash Guard নিষ্ক্রিয় বৈশিষ্ট্য
 graphics-workarounds-title = কাজ করা হবে
+# Windowing system in use on Linux (e.g. X11, Wayland).
+graphics-window-protocol = উইন্ডো প্রোটোকল
 place-database-title = স্থান ডাটাবেজ
 place-database-integrity = বিশুদ্ধতা
 place-database-verify-integrity = বিশুদ্ধতা যাচাই
@@ -118,6 +131,7 @@ media-device-format = ফরম্যাট
 media-device-channels = চ্যানেল
 media-device-rate = মূল্যায়ন করুন
 media-device-latency = যোজনী
+media-capabilities-title = মিডিয়ার ক্ষমতা
 
 
 
@@ -186,6 +200,7 @@ main-thread-no-omtc = মূল থ্রেড, OMTC নাই
 yes = হ্যাঁ
 no = না
 unknown = অজানা
+virtual-monitor-disp = ভার্চুয়াল মনিটর প্রদর্শন
 
 ## The following strings indicate if an API key has been found.
 ## In some development versions, it's expected for some API keys that they are
@@ -246,7 +261,9 @@ effective-content-sandbox-level = ইফেক্টিভ কন্টেন্
 sandbox-proc-type-content = কন্টেন্ট
 sandbox-proc-type-file = ফাইল কনটেন্ট
 sandbox-proc-type-media-plugin = মিডিয়া প্লাগইন
+sandbox-proc-type-data-decoder = ডাটা ডিকোডার
 launcher-process-status-0 = সক্রিয় হয়েছে
+launcher-process-status-1 = ব্যর্থতার কারণে নিস্ক্রিয়
 launcher-process-status-2 = জোরপূর্বক নিষ্ক্রিয় করা হয়েছে
 launcher-process-status-unknown = অজ্ঞাত অবস্থা
 # Variables

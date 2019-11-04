@@ -450,8 +450,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.welcome.label "আপনার অন্যান্য ডিভাইসের ট্যাবের তালিকা দেখুন।">
 <!ENTITY appMenuRemoteTabs.unverified.label "আপনার অ্যাকাউন্ট যাচাই করা প্রয়োজন।">
 <!ENTITY appMenuRemoteTabs.signin.label "সিঙ্ক করতে সাইন ইন করুন">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "&syncBrand.shortName.label; চালু করুন…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "ডিভাইস ব্যবস্থাপনা…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "সিঙ্ককৃত ট্যাবগুলো সাইডবারে দেখুন">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "সিঙ্ক হওয়া ট্যাব সাইডবারে লুকান">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "অন্য ডিভাইস সংযুক্ত করুন">
 
 <!ENTITY appMenuRecentHighlights.label "বর্তমান হাইলাইট">
@@ -853,6 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.extensionPage "এই পাতাটি কোন এক্সটেনশন থেকে লোড হয়েছে।">
 <!ENTITY identity.insecureLoginForms2 "এই পাতায় লগইন করতে যে তথ্য দিয়েছেন তা চুরি হতে পারে।">
 
+<!ENTITY identity.evOwnerLabel2 "সার্টিফিকেট দেওয়া হয়েছে:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; নিরাপদ নয় তাই এই পাতার অংশ ব্লক করা হয়েছে।">
@@ -1004,6 +1007,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView2.description "কন্টেন্ট ব্লকিং কিছু ওয়েবসাইটের সঙ্গে সমস্যা হতে পারে। যখন আপনি সমস্যার রিপোর্ট করেন, তখন আপনি &brandShortName; সবার জন্য ভাল করে তৈরি করতে সহায়তা করবেন। (এটি একটি URL এবং আপনার ব্রাউজার সেটিং সম্পর্কিত তথ্য Mozilla তে পাঠাবে।)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "আরও জানুন">
 
+<!ENTITY contentBlocking.breakageReportView.title "একটি অচল সাইট রিপোর্ট করুন">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "আরও জানুন">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "আপনার কি সমস্যা ছিল? (ঐচ্ছিক)">
