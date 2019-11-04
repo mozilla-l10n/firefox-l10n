@@ -105,6 +105,12 @@ master-password-reload-button =
     .label = ल'ग इन
     .accesskey = L
 
+## Password Sync notification
+
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = आंनाव आरोबाव दासोंसै
+    .accesskey = द
+
 ## Dialogs
 
 confirmation-dialog-cancel-button = नेवसि

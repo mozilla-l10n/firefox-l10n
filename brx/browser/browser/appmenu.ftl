@@ -5,6 +5,9 @@
 
 ## App Menu
 
+appmenuitem-protection-report-title = गुमुरथि रैखाथि
+appmenuitem-protection-report-tooltip =
+    .tooltiptext = नोंथांनि गुमुरथिनि फोरमान बिलाइआव थां
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
