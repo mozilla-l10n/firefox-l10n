@@ -227,8 +227,39 @@
 <!ENTITY tableSelectMenu.label "Marki">
 <!ENTITY tableSelectMenu.accesskey "M">
 
+<!ENTITY tableSelectMenu2.label "Marki tabelon">
+<!ENTITY tableSelectMenu2.accesskey "M">
+<!ENTITY tableInsertMenu2.label "Enmeti tabelon">
+<!ENTITY tableInsertMenu2.accesskey "E">
+<!ENTITY tableDeleteMenu2.label "Forigi tabelon">
+<!ENTITY tableDeleteMenu2.accesskey "F">
 
 <!-- Insert SubMenu -->
+<!ENTITY tableInsertMenu.label "Enmeti">
+<!ENTITY tableInsertMenu.accesskey "E">
+<!ENTITY tableTable.label "tabelon">
+<!ENTITY tableTable.accesskey "t">
+<!ENTITY tableRow.label "vicon">
+<!ENTITY tableRows.label "vico(j)n">
+<!ENTITY tableRow.accesskey "v">
+<!ENTITY tableRowAbove.label "vicon supre">
+<!ENTITY tableRowAbove.accesskey "p">
+<!ENTITY tableRowBelow.label "vicon sube">
+<!ENTITY tableRowBelow.accesskey "b">
+<!ENTITY tableColumn.label "kolumnon">
+<!ENTITY tableColumns.label "kolumno(j)n">
+<!ENTITY tableColumn.accesskey "k">
+<!ENTITY tableColumnBefore.label "kolumnon maldekstre">
+<!ENTITY tableColumnBefore.accesskey "m">
+<!ENTITY tableColumnAfter.label "kolumnon dekstre">
+<!ENTITY tableColumnAfter.accesskey "d">
+<!ENTITY tableCell.label "ĉelon">
+<!ENTITY tableCells.label "ĉelo(j)n">
+<!ENTITY tableCell.accesskey "l">
+<!ENTITY tableCellContents.label "enhavon de ĉelo">
+<!ENTITY tableCellContents.accesskey "e">
+<!ENTITY tableAllCells.label "ĉiujn ĉelojn">
+<!ENTITY tableAllCells.accesskey "j">
 <!-- Delete SubMenu -->
 
 <!-- text for "Join Cells" is in editor.properties
