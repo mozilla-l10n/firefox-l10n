@@ -8,6 +8,12 @@
 
 <!ENTITY accountActionsButton.label "Actiones del conto">
 <!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY addIMAccountButton.label "Adder conto chat…">
+<!ENTITY addIMAccountButton.accesskey "C">
+<!ENTITY addFeedAccountButton.label "Adder conto fluxo…">
+<!ENTITY addFeedAccountButton.accesskey "F">
+<!ENTITY addOtherAccountButton.label "Adder altere conto…">
+<!ENTITY addOtherAccountButton.accesskey "a">
 <!ENTITY setDefaultButton.label "Stabilir como predeterminate">
 <!ENTITY setDefaultButton.accesskey "P">
 <!ENTITY removeButton.label "Remover le conto">

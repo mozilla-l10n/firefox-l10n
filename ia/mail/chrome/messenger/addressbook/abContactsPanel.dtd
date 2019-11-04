@@ -3,6 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY addressbookPicker.label            "Libro del adresses:">
+<!ENTITY addressbookPicker.accesskey        "b">
+<!ENTITY searchContacts.label               "Cercar contactos:">
+<!ENTITY searchContacts.accesskey           "n">
+<!ENTITY SearchNameOrEmail.label            "Nomine o adresse email">
 
 <!ENTITY propertiesContext.label            "Proprietates">
 <!ENTITY propertiesContext.accesskey        "i">
