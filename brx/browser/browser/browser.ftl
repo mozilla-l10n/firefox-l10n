@@ -9,8 +9,12 @@ urlbar-identity-button =
 
 urlbar-midi-notification-anchor =
     .tooltiptext = मिदि पेनल खेव
+urlbar-eme-notification-anchor =
+    .tooltiptext = DRM software बाहायनायखौ सामलाइ
 urlbar-translate-notification-anchor =
     .tooltiptext = बे बिलाइखौ राव सोलाय
+urlbar-tip-help-icon =
+    .title = मदद नागिर
 urlbar-geolocation-blocked =
     .tooltiptext = नों बे वबसाइथनि जायगा, फोरमायथिखौ बन्द खालामना दोनबाय
 urlbar-web-notifications-blocked =
@@ -21,6 +25,18 @@ urlbar-microphone-blocked =
     .tooltiptext = नों बे वेबसाइथनि माइखफनखौ बन्द खालामना दोनबाय
 urlbar-screen-blocked =
     .tooltiptext = नों बे वेबसाइथनि फरदाखखौ गुबुनजों बाहागो खालामनायनिफाय बन्द खालामना दोनबाय
+urlbar-persistent-storage-blocked =
+    .tooltiptext = नों बे वेबसाइथनि दलरै थानाय थिनानै दोनगा् जायगाखौ बन्द खालामना दोनबाय
+urlbar-popup-blocked =
+    .tooltiptext = नों बे वेबसाइथनि फफ आफ खौ बन्द खालामना दोनबाय
+urlbar-autoplay-media-blocked =
+    .tooltiptext = नों बे वेबसाइथनि गावनो गाव गोमगा् मिदिया आरो सोदोबखौ बन्द खालामना दोनबाय
+urlbar-canvas-blocked =
+    .tooltiptext = नों बे वेबसाइथनि खेनवेस खौरां बोखारना लाबोनायखौ बन्द खालामना दोनबाय
+urlbar-midi-blocked =
+    .tooltiptext = नों बे वेबसाइथनि मिदि हाबगा् लामाखौ बन्द खालामना दोनबाय
+urlbar-install-blocked =
+    .tooltiptext = नों बे वेबसाइथनि एद अन इन्सथल खालामगा्खौ बन्द खालामना दोनबाय
 
 ## Page Action Context Menu
 
@@ -54,3 +70,9 @@ search-one-offs-change-settings-compact-button =
 search-one-offs-context-open-new-tab =
     .label = गोदान टेबआव नागिर
     .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = Default Search Engine आ थिना हो
+    .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = गावनिनो  Windows नि थाखाय Default Search Engine आ थिना हो
+    .accesskey = ग
