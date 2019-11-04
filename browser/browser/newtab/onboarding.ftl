@@ -129,11 +129,13 @@ onboarding-mobile-phone-button = মোবাইল ব্রাউজার ড
 onboarding-send-tabs-title = তাৎক্ষনিক নিজেকে ট্যাব পাঠান
 onboarding-send-tabs-button = Send Tabs ব্যবহার শুরু করুন
 onboarding-pocket-anywhere-title = যেকোন স্থানে পড়ুন এবং শুনুন।
+onboarding-pocket-anywhere-text2 = আপনার প্রিয় কনটেন্ট { -pocket-brand-name } অ্যাপে অফলাইনে সংরক্ষণ করে রাখুন এবং আপনার সুবিধামতো পড়ুন , শুনুন ও দেখুন।
 onboarding-pocket-anywhere-button = { -pocket-brand-name } পরখ করুন
 onboarding-lockwise-passwords-title = আপনার পাসওয়ার্ড সবখানে নিন।
 onboarding-lockwise-passwords-text2 = আপনি যে পাসওয়ার্ডগুলো সংরক্ষণ করেছেন সেগুলি সুরক্ষিত রাখুন এবং সহজেই আপনার অ্যাকাউন্টগুলোতে { -lockwise-brand-name } দিয়ে লগ ইন করুন।
 onboarding-lockwise-passwords-button2 = অ্যাপটি ডাউনলোড করুন
 onboarding-facebook-container-title = Facebook মাধ্যমে সীমানা নির্ধারণ করুন
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } আপনার প্রোফাইলকে সবকিছু থেকে আলাদা রেখে আপনাকে লক্ষ্য করে বিজ্ঞাপণ দেওয়া কঠিন করে তোলে।
 onboarding-facebook-container-button = এক্সটেনশনটি যোগ করুন
 
 ## Message strings belonging to the Return to AMO flow
