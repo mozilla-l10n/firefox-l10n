@@ -69,6 +69,11 @@ serviceworker-empty-suggestions-debugger = Begiratu urratsez urrats zerbitzu-lan
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Ikustatu beste domeinuetako zerbitzu-langileak. <a>Ireki about:debugging</a>
+# Header for the Manifest page when we have an actual manifest
+manifest-view-header = Aplikazioaren manifestua
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Aplikazioaren manifestu-fitxategia gehitu behar duzu hemen ikuskatu ahal izateko. <a>Argibide gehiago</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Erroreak eta abisuak
 # Header for the Identity section of Manifest inspection displayed in the application panel.
@@ -81,14 +86,39 @@ manifest-item-icons = Ikonoak
 manifest-loading = Manifestua kargatzen…
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = Manifestua kargatuta.
-# Text displayed when there has been an error while trying to load the manifest
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
 manifest-loaded-error = Errorea gertatu da orria manifestua kargatzean:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Firefox DevTools errorea
 # Text displayed when the page has no manifest available
 manifest-non-existing = Ez da ikuskatzeko manifesturik aurkitu.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = Manifestua datuen URL batean kapsulatuta dago.
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = Helburua: <code>{ $purpose }</code>
 # Text displayed as the alt attribute for <img> tags showing the icons in the
 # manifest.
 manifest-icon-img =
     .alt = Ikonoa
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = Ondorengo tamainak dituen ikonoa: { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Zehaztu gabeko ikono-tamaina
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifestua
+    .alt = Manifestuaren ikonoa
+    .title = Manifestua
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers = Zerbitzu-langileak
+    .alt = Zerbitzu-langileen ikonoa
+    .title = Zerbitzu-langileak
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = Abisu-ikonoa
