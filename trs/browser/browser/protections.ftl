@@ -9,12 +9,15 @@ graph-week-summary =
         [one] { -brand-short-name } narán riña  { $count } sa naga'naj a semanâ gâchin
        *[other] { -brand-short-name } narán riña { $count } sa naga'naj a semanâ gâchin
     }
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-header-details-standard = Danaj yakàn nukuaj sa narán <b>man Da'nga' ngè</b>
-protection-header-details-strict = Danaj yakàn nùkuaj sa narán <b>Ûta yakàn huaj</b>
-protection-header-details-custom = Danaj yakàn nùkuaj sa narán <b>Dàj nagi'iát</b>
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] <b>{ $count }</b> naran riña sa naga'naj a asij { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> naran riña nej sa naga'naj a asij { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -38,6 +41,7 @@ social-tab-contant = Da' gini'in nej rêd sosiâl nej sa 'iát ni sa ni'iajt ri�
 cookie-tab-title = Nej kokî nikò' riña nej sîtio
 cookie-tab-content = Nej kokî nan ni nikò' nej man sò' danè' nanj gahuin huajt da' gini'in sa 'iát. Sa a'nïn guì ânej e huin, dà' rû' guì du'uèj e asi nej sû' nariñu sa aran' ruhuô'. Si naránt riña nej kokî nan ni si gurugui' nìko nej anûnsio gini'iajt. <a data-l10n-name="learn-more-link">Gahuin chrun doj</a>
 tracker-tab-title = Sa nikò' nej kontenîdo
+tracker-tab-description = Huā da'àj nej sîtio nī ga'ue nadiganj nej anûnsio, sa ni'io' nī a'ngô nej sa ga'ue nikāj sa naga'nāj a. Ga'ue nayi'nïn hìo doj nej sîtio si naránt riña nej sa naga'nāj a, sanī huā da'āj nej butûn, formulario asi riña gayi'ìt sesiûn sī ga'ue gi'iaj sunj. <a data-l10n-name="learn-more-link">Gāhuin chrūn doj</a>
 fingerprinter-tab-title = Nej da'nga ra'a
 fingerprinter-tab-content = Nej da'nga' digîtal ni nakaj nej man nej sa hua 'iát riña si aga't ni narij 'ngo si pefît. Ngà da'nga' digital nan, ga'ue ganikò' nej si sò' riña ga'ì sîtio. <a data-l10n-name="learn-more-link">Gahuin chrun doj</a>
 cryptominer-tab-title = Nej kriptominêro
@@ -46,6 +50,8 @@ lockwise-title = Si gini'ñûnt da'nga' huì nikajt a'ngô ñû
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } na'nïn sà' hue'ej nej da'nga' huì nikajt riña aché nunt
 lockwise-header-content-logged-in = Nachra sà' ni nagi'iaj guña nej da'nga' huì nikajt riña daran nej si aga't.
+protection-report-view-logins-button = Ni’iā riña gayì’ìt sesiûn
+    .title = Guīj riña na’nïn sà’t riña gayì’ìt sesiûn
 lockwise-no-logins-content = Nadunïnj aplikasiûn <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> da' ganikajt nej si da'nga' huìt gan'anjt danè' garan' ruhuât.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -65,10 +71,37 @@ lockwise-sync-status =
         [one] Nagi'iaj guña { $count } ngà a'ngô aga'a
        *[other] Nagi'iaj guña { $count } ngà a'ngô nej aga'a
     }
+lockwise-sync-not-syncing-devices = Nu ga'ue nagi'iaj nuguàn’anj ngà a'ngô nej aga'a
 monitor-title = Sasà' ni'iajt sisi nadunâ nej si sa hua riña nej dâto
 monitor-link = Dàj 'iaj sunj
+monitor-header-content-no-account = Nātsij ni'iajt { -monitor-brand-name } da' gini'înt sisī gi'iaj yi'ì nej si si datôt nī ga'ue nahuin ra'at nej nuguan' natà' snan'anj sisī ruhuâ nej si gi'iaj yi'ì ñû nej si.
+monitor-header-content-signed-in = { -monitor-brand-name } atāj snan'ānj gunïnt sisī gi'iaj yi'ì nej si nej datô nikājt.
 monitor-sign-up = Nutà' si yuguît da' ga'ue nahuin ra'ât nej nuguan' a'min rayi'ì sa nu dugahuin
 auto-scan = Gui hìaj ni 'iaj eskaneândo man'an man
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] Si direksiûn korreô nikāj ñun'ūnjt
+       *[other] Si direksiûn nej korreô nikāj ñun'ūnjt
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] Dunâj ni'nïnj chre sa gire' nej dâto nuguan' hua 'iát
+       *[other] Dunâj ni'nïnj chre nej sa gire' nej dâto nuguan' hua 'iát
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] Huā ni'nïnj chre da'nga' huì riña ga'ue huā sa giran't
+       *[other] Huā ni'nïnj chre nej da'nga' huì riña ga'ue huā sa giran't
+    }
 full-report-link = Ni'iaj da' hua ngè infôrme rayi'î <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
@@ -78,10 +111,6 @@ password-warning =
         [one] Riña gayi'ì sesiûn na'nïn sà't ni hua riña ahi ginun si datôt. Naduna da'nga' huì nan da' ga gudadû doj gachet riña lînia. <a data-l10n-name="lockwise-link">Gini'iaj riña gayi'ìt sesûn na'nïn sà't</a>
        *[other] Riña gayi'ì nej sesiûn na'nïn sà't ni hua riña ahi ginun si datôt. Naduna nej da'nga' huì nan da' ga gudadû doj gachet riña lînia. <a data-l10n-name="lockwise-link">Gini'iaj riña gayi'ìt sesûn na'nïn sà't</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Guij riña si configurasiûn sa naràn rayi'ît
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Guij riña màn nej riña gayi'ìt sesiûn na'nïn sà't
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
