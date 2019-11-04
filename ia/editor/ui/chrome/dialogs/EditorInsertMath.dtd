@@ -9,9 +9,12 @@
 <!ENTITY options.label "Optiones">
 <!ENTITY optionInline.label "Modo connexe">
 <!ENTITY optionInline.accesskey "x">
+<!ENTITY optionDisplay.label "Modo de monstrar">
+<!ENTITY optionDisplay.accesskey "M">
 <!ENTITY optionLTR.label "Direction de sinistra a dextra">
 <!ENTITY optionLTR.accesskey "s">
 <!ENTITY optionRTL.label "Direction de dextra a sinistra">
 <!ENTITY optionRTL.accesskey "d">
 
 <!ENTITY insertButton.label "Inserer">
+<!ENTITY insertButton.accesskey "I">

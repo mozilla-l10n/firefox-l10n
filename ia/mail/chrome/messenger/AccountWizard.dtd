@@ -16,6 +16,7 @@
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Identitate">
+<!ENTITY identityDesc.label "Cata conto ha un identitate, que es le informationes que te identifica al alteres quando illes recipe tu messages.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
@@ -89,3 +90,5 @@
 <!ENTITY serverTypePrefix.label "Typo de servitor in arrivata:">
 <!ENTITY serverNamePrefix.label "Nomine del servitor in arrivata:">
 <!ENTITY smtpServerNamePrefix.label "Nomine del servitor in exito (SMTP):">
+<!ENTITY downloadOnLogin.label "Discargar ora le messages">
+<!ENTITY downloadOnLogin.accesskey "D">

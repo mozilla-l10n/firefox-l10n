@@ -11,6 +11,7 @@
 <!ENTITY  recentFiles.title             "Menu de paginas recente">
 <!ENTITY  documentsInMenu.label         "Numero maxime de paginas listate:">
 <!ENTITY  documentsInMenu.accesskey     "n">
+<!ENTITY  savingFiles.title             "Salvante o publicante paginas">
 <!ENTITY  preserveExisting.label        "Conservar le structura HTML existente">
 <!ENTITY  preserveExisting.accesskey    "C">
 <!ENTITY  composerEditing.label         "Redaction">

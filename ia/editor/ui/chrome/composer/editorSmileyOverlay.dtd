@@ -46,6 +46,9 @@
 <!ENTITY smiley14Cmd.label "Innocente">
 <!ENTITY smiley14Cmd.accesskey "I">
 <!ENTITY smiley14Cmd.tooltip "Inserer un facie innocente">
+<!ENTITY smiley15Cmd.label "Plancto">
+<!ENTITY smiley15Cmd.accesskey "P">
+<!ENTITY smiley15Cmd.tooltip "Inserer un facie que plora">
 <!ENTITY smiley16Cmd.label "Bucca sigillate">
 <!ENTITY smiley16Cmd.accesskey "t">
 <!ENTITY smiley16Cmd.tooltip "Inserer un facie con bucca clause">
