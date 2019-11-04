@@ -107,3 +107,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = ডিফল্ট অনুসন্ধান ইঞ্জিন হিসেবে সেট করুন
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = ব্যক্তিগত উইন্ডোর জন্য ডিফল্ট অনুসন্ধান ইঞ্জিন হিসেবে সেট করুন
+    .accesskey = P

@@ -225,6 +225,15 @@ about-debugging-extension-id =
 about-debugging-worker-action-push = পুশ করুন
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = শুরু
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = পুশ করুন
+    .disabledTitle = { -brand-shorter-name } মাল্টিপ্রসেসের জন্য সার্ভিস ওয়ার্কার পুশ বর্তমানে নিষ্ক্রিয় রয়েছে
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = শুরু করুন
+    .disabledTitle = { -brand-shorter-name } মাল্টিপ্রসেসের জন্য সার্ভিস ওয়ার্কারের শুরু বর্তমানে নিষ্ক্রিয়
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = অনিবন্ধিত
 # Displayed for service workers in runtime pages that listen to Fetch events.
@@ -254,5 +263,7 @@ about-debugging-message-close-icon =
     .alt = বার্তা বন্ধ করুন
 # Label text used for the error details of message component.
 about-debugging-message-details-label-error = ত্রুটির বিস্তারিত
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = সতর্কবার্তার বিস্তারিত
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = বিস্তারিত

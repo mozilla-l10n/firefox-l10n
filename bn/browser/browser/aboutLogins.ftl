@@ -113,6 +113,11 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] যেখানে আপনি { -brand-product-name } ব্যবহার করেন সেসব জায়গাগুলোতে আপনার লগইন ব্যবহার করতে চান ? আপনার { -sync-brand-short-name } অপশনে যান এবং লগইন চেকবক্স নির্বাচন করুন ।
+       *[other] যেখানে আপনি { -brand-product-name } ব্যবহার করেন সেসব জায়গাগুলোতে আপনার লগইন ব্যবহার করতে চান ? আপনার { -sync-brand-short-name } অপশনে যান এবং লগইন চেকবক্স নির্বাচন করুন ।
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -138,6 +143,7 @@ confirm-discard-changes-dialog-confirm-button = বাতিল
 
 ## Breach Alert notification
 
+breach-alert-text = আপনার সবশেষ পাসওয়ার্ড হালনাগাদ করার পরে এই ওয়েবসাইট থেকে পাসওয়ার্ড ফাঁস বা চুরি হয়েছে। আপনার অ্যাকাউন্ট সুরক্ষিত করতে পাসওয়ার্ড পরিবর্তন করুন।
 breach-alert-link = এই লঙ্ঘন সম্পর্কে আরও জানুন।
 breach-alert-dismiss =
     .title = সতর্ক করা বন্ধ করুন
