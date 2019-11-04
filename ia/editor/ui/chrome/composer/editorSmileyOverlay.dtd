@@ -26,4 +26,25 @@
 <!ENTITY smiley8Cmd.label "Surprisa">
 <!ENTITY smiley8Cmd.accesskey "p">
 <!ENTITY smiley8Cmd.tooltip "Inserer un facie surprendite">
+<!ENTITY smiley9Cmd.label "Basio">
+<!ENTITY smiley9Cmd.accesskey "B">
+<!ENTITY smiley9Cmd.tooltip "Inserer un facie que basia">
+<!ENTITY smiley10Cmd.label "Crito">
+<!ENTITY smiley10Cmd.accesskey "C">
+<!ENTITY smiley10Cmd.tooltip "Inserer un facie que crita">
+<!ENTITY smiley11Cmd.label "Sympathic">
+<!ENTITY smiley11Cmd.accesskey "S">
+<!ENTITY smiley11Cmd.tooltip "Inserer un facie sympathic">
+<!ENTITY smiley12Cmd.label "Moneta in bucca">
+<!ENTITY smiley12Cmd.accesskey "M">
+<!ENTITY smiley12Cmd.tooltip "Inserer un facie con moneta in bucca">
+<!ENTITY smiley13Cmd.label "Scarpa in bucca">
+<!ENTITY smiley13Cmd.accesskey "S">
+<!ENTITY smiley13Cmd.tooltip "Inserer un facie con scarpa in bucca">
+<!ENTITY smiley14Cmd.label "Innocente">
+<!ENTITY smiley14Cmd.accesskey "I">
+<!ENTITY smiley14Cmd.tooltip "Inserer un facie innocente">
+<!ENTITY smiley16Cmd.label "Bucca sigillate">
+<!ENTITY smiley16Cmd.accesskey "t">
+<!ENTITY smiley16Cmd.tooltip "Inserer un facie con bucca clause">
 <!ENTITY SmileButton.tooltip "Inserer un facie surridente">

@@ -12,4 +12,5 @@
 <!ENTITY authorInput.accessKey "A">
 <!ENTITY descriptionInput.label "Description:">
 <!ENTITY descriptionInput.accessKey "D">
+<!ENTITY locationNewPage.label "[Nove pagina, non ancora salvate]">
 <!ENTITY EditHEADSource1.label "Usatores avantiate:">

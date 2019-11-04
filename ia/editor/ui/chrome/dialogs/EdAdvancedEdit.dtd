@@ -6,6 +6,7 @@
 <!ENTITY AttName.label                  "Attributo: ">
 <!ENTITY AttValue.label                 "Valor: ">
 <!ENTITY PropertyName.label             "Proprietate: ">
+<!ENTITY currentattributesfor.label     "Attributos actual pro: ">
 <!ENTITY tree.attributeHeader.label     "Attributo">
 <!ENTITY tree.propertyHeader.label      "Proprietate">
 <!ENTITY tree.valueHeader.label         "Valor">
