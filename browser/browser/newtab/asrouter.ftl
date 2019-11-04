@@ -160,3 +160,5 @@ cfr-doorhanger-cryptominers-description = Gizliliğiniz bizim için önemli. { -
 
 ## Enhanced Tracking Protection Milestones
 
+cfr-doorhanger-milestone-ok-button = Tümünü göster
+    .accesskey = T
