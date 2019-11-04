@@ -31,5 +31,10 @@ about-private-browsing-info-description = { -brand-short-name } nuyüj ri ri ruk
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
 about-private-browsing-search-banner-title = Ja ri { $engineName } awokik'amaya'l k'o wakami kichin Ichinan taq Tzuwäch
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Richin nicha' jun chik okik'amaya'l, jät pa <a data-l10n-name="link-options">Taq Cha'oj</a>
+       *[other] Richin nicha' jun chik okik'amaya'l, jät pa <a data-l10n-name="link-options">Taq Ajowab'äl</a>
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = Titz'apïx
