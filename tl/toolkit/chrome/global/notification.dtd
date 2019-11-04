@@ -8,6 +8,8 @@
 
 <!ENTITY learnMore "Alamin pa...">
 
+<!ENTITY learnMoreNoEllipsis "Alamin">
+
 <!ENTITY defaultButton.label "OK!">
 <!ENTITY defaultButton.accesskey "O">
 

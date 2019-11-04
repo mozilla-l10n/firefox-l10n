@@ -44,6 +44,8 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-form-email =
+    .placeholder = Ang iyong email address...
 
 ## Firefox Sync modal dialog strings.
 
