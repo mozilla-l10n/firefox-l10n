@@ -33,6 +33,7 @@ printpreview-of =
     .value = si
 printpreview-custom-prompt =
     .value = Skalâ nagi'iát…
+printpreview-custom-scale-prompt-title = Skalâ nagi'iát
 printpreview-page-setup =
     .label = Naduna sa hua riña Pâjina…
     .accesskey = u

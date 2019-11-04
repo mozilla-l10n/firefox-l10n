@@ -75,6 +75,7 @@ login-intro-description = Si nari't riña gayi'ìt sesiôn riña { -brand-produc
 login-intro-instruction-fxa = Giri nej si gayi'ì sesiôn riña { -fxaccount-brand-name } riña nej aga' ngaà nun sa' ma.
 login-intro-instruction-fxa-settings = Ni'iaj si ganahuit riña gayi'iìt sesioôn riña { -sync-brand-short-name }
 about-logins-intro-instruction-help = Guij riña <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Sopôrte</a> da' narì't doj sa rugûñu'unj sò'
+about-logins-intro-import = Sisī nej riña gayi’ìt sesiûn nu sà’ riña a’ngô riña nana’uî’t, ga’ue <a data-l10n-name="import-link">duguachînt riña { -lockwise-brand-short-name }
 
 ## Login
 
@@ -110,11 +111,8 @@ master-password-reload-button =
     .label = Gayi'ì sesiûn
     .accesskey = L
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Duyichin'
-confirmation-dialog-dismiss-button =
-    .title = Duyichin'
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Ruhuât riña ayi'ìt sesiûn danè' huin man'an ayi'ìt ngà { -brand-product-name } aj? Guij danè' taj { -sync-brand-short-name } ni naguit nej riña ayi'ìt.
@@ -127,6 +125,15 @@ enable-password-sync-preferences-button =
            *[other] Ni'iaj daj hua { -sync-brand-short-name }
         }
     .accesskey = N
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Sī gachín na’ānj ñût ñùnj
+    .accesskey = D
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Duyichin'
+confirmation-dialog-dismiss-button =
+    .title = Duyichin'
 confirm-delete-dialog-title = ¿Nadurê't riña gayi'ìt sesión na anj?
 confirm-delete-dialog-message = Si ga'ue dure' sa 'ngà gahuin na.
 confirm-delete-dialog-confirm-button = Dure'
