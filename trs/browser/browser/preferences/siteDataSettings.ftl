@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Riña ma sa' ma
 site-data-column-last-used =
     .label = Sa garajsun rukù nï't
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (archivo nichrùn'un)
 site-data-remove-selected =
     .label = Guxun sa ganahui'
     .accesskey = G
