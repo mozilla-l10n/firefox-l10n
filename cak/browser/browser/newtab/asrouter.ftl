@@ -157,6 +157,8 @@ cfr-doorhanger-socialtracking-ok-button = Ketz'et taq chajinem
     .accesskey = h
 cfr-doorhanger-socialtracking-close-button = Titz'apïx
     .accesskey = t
+cfr-doorhanger-socialtracking-dont-show-again = Man kek'ut chik pe taq rutzijol achi'el re'
+    .accesskey = M
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } xuq'ät chi jun aj winäq k'amab'ey yatrojqaj wawe'
 cfr-doorhanger-socialtracking-description = K'atzinel ri awichinanem. { -brand-short-name } wakami yeruq'ät ri kojqanela' aj winäq k'amab'ey, nuq'ät runimilem tzij yetikïr nikimöl chi rij ri nasamajij pa k'amab'ey.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } xuq'ät jun tz'etöy retal ruwi' q'ab'aj pa re ruxaq re'
@@ -166,3 +168,13 @@ cfr-doorhanger-cryptominers-description = Nïm ri awichinanem. { -brand-short-na
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] ¡{ -brand-short-name } xeruq'ät k'ïy <b>{ $blockedCount }</b> taq ojqanela' pa { $date }!
+       *[other] ¡{ -brand-short-name } xeruq'ät k'ïy <b>{ $blockedCount }</b> taq ojqanela' pa { $date }!
+    }
+cfr-doorhanger-milestone-ok-button = Titzet Ronojel
+    .accesskey = t

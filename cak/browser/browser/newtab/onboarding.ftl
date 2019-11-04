@@ -44,6 +44,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Tiqachapa' rutz'etik ronojel ri yatikïr nab'än.
 onboarding-fullpage-form-email =
     .placeholder = Rochochib'al ataqoya'l…
 
