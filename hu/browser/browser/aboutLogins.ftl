@@ -110,11 +110,8 @@ master-password-reload-button =
     .label = Bejelentkezés
     .accesskey = B
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Mégse
-confirmation-dialog-dismiss-button =
-    .title = Mégse
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Mindenhol szeretne hozzáférni a bejelentkezéseihez, ahol a { -brand-product-name }ot használja? Ugorjon a { -sync-brand-short-name } beállításokhoz és jelölje be a Bejelentkezések választógombot.
@@ -127,6 +124,15 @@ enable-password-sync-preferences-button =
            *[other] { -sync-brand-short-name } beállítások megtekintése
         }
     .accesskey = m
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Ne kérdezze meg többet
+    .accesskey = N
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Mégse
+confirmation-dialog-dismiss-button =
+    .title = Mégse
 confirm-delete-dialog-title = Törli a bejelentkezést?
 confirm-delete-dialog-message = Ez a művelet nem vonható vissza.
 confirm-delete-dialog-confirm-button = Törlés
