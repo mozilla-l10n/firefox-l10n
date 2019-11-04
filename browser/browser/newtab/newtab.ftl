@@ -45,9 +45,6 @@ newtab-topsites-save-button = Opslaan
 newtab-topsites-preview-button = Voorbeeld
 newtab-topsites-add-button = Toevoegen
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Weet u zeker dat u alle exemplaren van deze pagina uit uw geschiedenis wilt verwijderen?
@@ -103,10 +100,6 @@ newtab-menu-remove-bookmark = Bladwijzer verwijderen
 # Bookmark is a verb here.
 newtab-menu-bookmark = Bladwijzer maken
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -135,10 +128,6 @@ newtab-label-removed-bookmark = Bladwijzer verwijderd
 newtab-label-recommended = Trending
 newtab-label-saved = Opgeslagen naar { -pocket-brand-name }
 newtab-label-download = Gedownload
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -181,7 +170,6 @@ newtab-empty-section-topstories = U bent weer bij. Kijk later nog eens voor meer
 
 newtab-discovery-empty-section-topstories-header = U bent helemaal bij!
 newtab-discovery-empty-section-topstories-content = Kom later terug voor meer verhalen.
-newtab-discovery-empty-section-topstories-try-again-button = Nogmaals proberen
 newtab-discovery-empty-section-topstories-loading = Laden…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Oeps! We hadden deze sectie bijna geladen, maar toch niet helemaal.

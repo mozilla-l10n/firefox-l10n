@@ -119,7 +119,6 @@ onboarding-browse-privately-title = Privé browsen
 onboarding-browse-privately-text = Privénavigatie wist uw zoek- en navigatiegeschiedenis, om dit geheim te houden voor iedereen die uw computer gebruikt.
 onboarding-firefox-send-title = Houd uw gedeelde bestanden privé
 onboarding-firefox-send-text2 = Upload uw bestanden naar { -send-brand-name } om ze te delen met end-to-endversleuteling en een koppeling die automatisch vervalt.
-onboarding-firefox-send-button = Probeer { -send-brand-name }
 onboarding-mobile-phone-title = Download { -brand-product-name } naar uw telefoon
 onboarding-mobile-phone-text = Download { -brand-product-name } voor iOS of Android en synchroniseer uw gegevens op verschillende apparaten.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
