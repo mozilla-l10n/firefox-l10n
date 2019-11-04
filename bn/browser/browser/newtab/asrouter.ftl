@@ -156,6 +156,8 @@ cfr-doorhanger-socialtracking-close-button = বন্ধ
 cfr-doorhanger-socialtracking-dont-show-again = আমাকে পুনঃরায় এই ধরণের মেসেজ দেখাবেন না
     .accesskey = D
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } এখানে একটি সামাজিক নেটওয়ার্ক হতে আপনাকে ট্র্যাকিং করা বন্ধ করে দিয়েছে
+cfr-doorhanger-socialtracking-description = আপনার গোপনীয়তার বিষয়টি গুরুত্বপূর্ণ। { -brand-short-name } এখন থেকে প্রচলিত মিডিয়া ট্র্যাকার ব্লক করে, আপনি অনলাইনে কি করেন সেই তথ্য চুরির সম্ভবনা কমিয়ে দেয়।
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } এই পাতায় একটি আঙুলের ছাপ সনাক্তকারী ব্লক করেছে
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } এই পাতায় একটি ক্রিপ্টোমাইনারকে ব্লক করে দিয়েছে
 cfr-doorhanger-cryptominers-description = আপনার গোপনীয়তার বিষয়টি গুরুত্বপূর্ণ। { -brand-short-name } এখন ক্রিপ্টোমাইনারদের ব্লক করে, যা ডিজিটাল অর্থ তৈরি করতে আপনার সিস্টেমের কম্পিউটিং শক্তি ব্যবহার করে।
 
