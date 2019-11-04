@@ -41,7 +41,13 @@
 <!ENTITY HomePhone.accesskey            "i">
 <!ENTITY FaxNumber.label                "Fax:">
 <!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY CellularNumber.label           "Cellular:">
+<!ENTITY CellularNumber.accesskey       "e">
 
+<!ENTITY Home.tab                       "Private">
+<!ENTITY Home.accesskey                 "P">
+<!ENTITY HomeAddress.label              "Adresse:">
+<!ENTITY HomeAddress.accesskey          "d">
 <!ENTITY HomeCountry.label              "Pais:">
 <!ENTITY HomeCountry.accesskey          "a">
 
@@ -54,3 +60,5 @@
 
 
 
+<!ENTITY UpdatePhoto.label              "Actualisar">
+<!ENTITY UpdatePhoto.accesskey          "u">

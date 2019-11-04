@@ -34,6 +34,8 @@
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP3">
 <!ENTITY popType.accesskey "P">
+<!ENTITY leaveMsgsOnSrvr.label "Lassar messages sur le servitor">
+<!ENTITY leaveMsgsOnSrvr.accesskey "L">
 <!ENTITY portNum.label "Porta:">
 <!ENTITY portNum.accesskey "o">
 <!ENTITY defaultPortLabel.label "Predefinite:">
