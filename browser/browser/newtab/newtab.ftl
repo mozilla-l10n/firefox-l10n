@@ -170,6 +170,7 @@ newtab-empty-section-topstories = U bent weer bij. Kijk later nog eens voor meer
 
 newtab-discovery-empty-section-topstories-header = U bent helemaal bij!
 newtab-discovery-empty-section-topstories-content = Kom later terug voor meer verhalen.
+newtab-discovery-empty-section-topstories-try-again-button = Opnieuw proberen
 newtab-discovery-empty-section-topstories-loading = Laden…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Oeps! We hadden deze sectie bijna geladen, maar toch niet helemaal.
