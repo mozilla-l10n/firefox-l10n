@@ -3,3 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 process-type-web = ওয়েব কন্টেন্ট
+process-type-extension = এক্সটেনশন
+# process used to open file:// URLs
+process-type-file = স্থানীয় ফাইল
+# process used to isolate a webpage from other web pages
+# to improve security
+process-type-webisolated = বিচ্ছিন্ন ওয়েব কন্টেন্ট
+# process used to communicate with the GPU for
+# graphics acceleration
+process-type-gpu = GPU
