@@ -7,8 +7,10 @@
 <!ENTITY pageColors.label "Colores del pagina">
 <!ENTITY defaultColorsRadio.label "Colores predefinite del lector (Non definir le colores in le pagina)">
 <!ENTITY defaultColorsRadio.accessKey "P">
+<!ENTITY defaultColorsRadio.tooltip "Utilisar solo le colores predefinite del navigator del visor (lector)">
 <!ENTITY customColorsRadio.label "Usar colores personalisate:">
 <!ENTITY customColorsRadio.accessKey "P">
+<!ENTITY customColorsRadio.tooltip "Iste colores predefinite supplanta illos del navigator del visor">
 
 <!ENTITY normalText.label "Texto normal">
 <!ENTITY normalText.accessKey "N">
@@ -23,4 +25,5 @@
 <!ENTITY colon.character ":">
 <!ENTITY backgroundImage.label "Imagine de fundo:">
 <!ENTITY backgroundImage.accessKey "m">
+<!ENTITY backgroundImage.tooltip "Usar un file imagine como fundo pro tu pagina">
 <!ENTITY backgroundImage.shortenedDataURI "URI de datos abbreviate (copiar placiara le URI complete in le area de transferentia)">

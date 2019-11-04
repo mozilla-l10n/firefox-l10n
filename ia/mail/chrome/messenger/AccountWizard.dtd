@@ -27,6 +27,7 @@
 
 <!-- Entities for Incoming Server page -->
 
+<!ENTITY incomingTitle.label "Informationes del servitor in arrivata">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">

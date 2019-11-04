@@ -20,6 +20,9 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.undo.accesskey               "D">
 <!ENTITY cmd.retry.label                  "Retentar">
 <!ENTITY cmd.retry.accesskey              "R">
+<!ENTITY cmd.removeFromList.label         "Remover del lista">
+<!ENTITY cmd.removeFromList.accesskey     "e">
 
 <!ENTITY cmd.clearList.label              "Clarar le lista">
 
+<!ENTITY searchBox.label                  "Cercar…">
