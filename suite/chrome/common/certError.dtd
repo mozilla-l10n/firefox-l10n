@@ -14,6 +14,11 @@ be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Du har instruerat &brandShortName; att ansluta
 till <b>#1</b> på ett säkert sätt, men det går inte att bekräfta att anslutningen verkligen är säker.">
+
+<!-- Localization note (certerror.introPara1a) - The text content of the span
+tag will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara1a "Du har instruerat &brandShortName; att ansluta till <span class='hostname'/> på ett säkert sätt, men det går inte att bekräfta att anslutningen verkligen är säker.">
 <!ENTITY certerror.introPara2 "När du i normala fall försöker ansluta på ett säkert sätt
 kommer webbplatser att presentera tillförlitlig identifikation som bevisar att
 du kommit till rätt plats. Den här webbplatsens identitet kan däremot inte verifieras.">
