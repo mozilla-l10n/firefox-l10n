@@ -500,7 +500,6 @@ search-bar-shown =
     .label = 添加搜索栏到工具栏
 search-engine-default-header = 默认搜索引擎
 search-engine-default-desc = 选择在地址栏和搜索栏中搜索时默认使用的搜索引擎。
-search-engine-default-private-desc = 选择在隐私窗口中默认使用的搜索引擎。
 search-engine-default-desc-2 = 这是地址栏和搜索栏中的默认搜索引擎，您可以随时切换。
 search-engine-default-private-desc-2 = 为隐私窗口选择不同的默认搜索引擎
 search-separate-default-engine =
@@ -613,8 +612,8 @@ sync-signedin-settings-desc = 选择 { -brand-short-name } 要在您的设备间
 
 ## Sync section - enabling or disabling sync.
 
-prefs-syncing-on = 同步：开
-prefs-syncing-off = 同步：关
+prefs-syncing-on = 同步：开启
+prefs-syncing-off = 同步：关闭
 prefs-sync-setup =
     .label = 设置{ -sync-brand-short-name }
     .accesskey = S
