@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Riña ma sa raj sun'">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "Dukuán ma sa garasun' da' gache nu'">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Sun aché nuu">
 <!ENTITY personalbarCmd.label "Riñan man sa gara sun'">
 <!ENTITY personalbarCmd.accesskey "B">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Sa raj sun nichrò' doj">
 <!ENTITY bookmarksToolbarItem.label "Dukuán màn sa garasun' ngà nej markador">
 
 <!ENTITY pageSourceCmd.label "Si kodigo pagina">
 <!ENTITY pageSourceCmd.accesskey "o">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Rayi'ì pagina na">
 <!ENTITY pageInfoCmd.accesskey "I">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Sa nagi'iaj hue'è diseño">
 <!ENTITY ldbCmd.accesskey "L">
@@ -116,6 +126,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Gatu' 'ngà &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Natsîj si kuedât">
 
+
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Nagi'iaj lij">
 <!ENTITY fullScreenRestore.tooltip "Dunaj daj rû' gaj">
@@ -146,13 +159,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "Dānaj nutà't si yuguît">
 <!ENTITY fxa.menu.manageAccount.label "Si Kuendâ Administrador…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Nagi'iaj…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; Nagi'iaj">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Duguatûj a'ngô aga'a…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Nutà' si yuguît riña &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Nachrūn &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Kuênta">
 <!ENTITY fxa.menu.firefoxServices.label "Nej serbisiû &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Kuênta">
+<!ENTITY fxa.menu.settings.label "Nagi'iô'">
+<!ENTITY fxa.menu.accountSettings.label "Sa nagi’iô’ riña Kuênda">
+<!ENTITY fxa.menu.signOut.label "Gahuī…">
+<!ENTITY fxa.menu.deviceSettings.label "Nagi'io' aga' nan">
+<!ENTITY fxa.menu.setupSync.label "Nagi’iaj &syncBrand.shortName.label;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -195,6 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Sa raj sun nichrò' doj">
 <!ENTITY bookmarksMenu.accesskey "B">
+
 <!ENTITY bookmarkThisPageCmd.label "Sa raj sun nichrà' doj pagina na">
 <!ENTITY editThisBookmarkCmd.label "Nagi'io' sa arajsun nichrò' doj">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -236,6 +261,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Nachrá so' plugins">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Naduno' da' nahuin ro'ô' si nuguan' sitio">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Nachrâ so' datos da' gahuin rān ma">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Àsij gan' nikaj ñu'unj nej dugui' navegador">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Na'nïn' panel nani'in da'nga' web">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Na'nïn riña nej sa 'na' achín ni'iát da' gachē nunt">
@@ -264,6 +290,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Gi'iaj blokeandot da' si garajsun sitio web na Adobe Flash plugin.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Gi'iaj blokeandot MIDI guenda sitio web na.">
 <!ENTITY urlbar.installBlocked.tooltip           "Naránt da' nutà' man nej sa huāa guendâ sitiô nan.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Digû' riña gaché nu'">
 
@@ -421,8 +448,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ni'iaj rakïj ñaj nū riña a'ngo si aga' asij ñuna ànj">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Na'nït sa nagi'iaj Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Gayi'ì sesión da' ni'iaj nej rakïj ñaj asij riña a'ngo si agat.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Ni’iāj nej rakïj ñaj āsìj riña a'ngô nej si agâ’t.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Da'ui' ma ganatsij ma si kuentat">
 <!ENTITY appMenuRemoteTabs.signin.label "Gatu' riña Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Gayi’ì sesiûn riña &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Nachrūn &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Nagi'iaj chre' nej aga'a...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ni'io' nej rakïnj ñaj nūn dukuán nahuìi">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Gachrī huì' dukuán 'na' nej rakïj ñanj huā nuguan'àan">
@@ -510,6 +540,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Nana'ui' konsulta">
+
 <!ENTITY contentSearchSubmit.tooltip  "Ga'nin' ga'anj sa nana'ui'">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -814,9 +845,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Koneksiôn">
 <!ENTITY identity.connectionSecure "Konexiôn yitinj in">
-
-<!ENTITY identity.connectionSecure2 "Huā seguridâ nikāj koneksiôn">
 <!ENTITY identity.connectionNotSecure "Nitaj si yitïnj hua coneksion na">
+
+<!ENTITY identity.connectionSecure3 "Huā seguridâ nikāj koneksiôn">
+<!ENTITY identity.connectionNotSecure2 "Nitāj seguridâ nikāj koneksiôn">
 <!ENTITY identity.connectionNotSecureSecurityView "Nitāj si huā hue'e seguridâ nikāj sitiô nan.">
 <!ENTITY identity.connectionFile "'Ngà nu sa' pajinâ na riña si aga't.">
 <!ENTITY identity.connectionVerified2 "Hua yitïnj sitio na, nikoj:">
@@ -826,7 +858,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Nej sesion ayi'ì hiuna nī nitaj si yitïnj hua ma.">
 <!ENTITY identity.customRoot "'Ngō sa ri sertifikadô nitāj si nani'in Mozilla gini'iāj dàj 'iaj sun koneksiûn nan.">
 
-<!ENTITY identity.evOwnerLabel "Sa si'iaj sitiô nan huin:">
+<!ENTITY identity.evOwnerLabel2 "Sertifikadô giri sa gu’nàj:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; garán ma riña da'aj sa 'na' riña pajinâ na dadin' ahī hua ma.">
@@ -862,9 +894,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Gachinj ni'iô'">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Yi'nïn' nej sa da'uî' gachìnj ni'iô'">
-
 <!ENTITY identity.permissions3 "Gachinj ni'iô'">
 <!ENTITY identity.permissionsEmpty "Nitaj si huaj gatut riña sitio na daj garan' ruat.">
 <!ENTITY identity.permissionsReloadHint "Nagi'iaj nakà ñut pajinâ na da' gi'iaj sun sa nadunat.">
@@ -878,7 +907,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Gini'in doj dàj hua rayi'î sa narán rayi'ît nga aché nunt">
 <!ENTITY protections.settings.label "Riña 'na' nej sa nagi'iô' sa narán rayi'î'">
-<!ENTITY protections.report.label "Ni'iaj da' huā ngej">
 <!ENTITY protections.showreport.label "Nadigân repôrte">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
@@ -896,7 +924,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Du'ue">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Nuguan' atāj nej si">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Nej sa siki' ni'io'">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Huā nïn' na'ue gi'iaj sun sitio nga gisîj naránt riña sa dugumîn sò' a'?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Ga'nïnj 'ngo infôrme">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
@@ -919,12 +946,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Sa nikò' dàj hua sa màn riñanj">
 <!ENTITY protections.fingerprinters.label "Nej da'nga ra'a">
 <!ENTITY protections.cryptominers.label "Nej kriptominêro">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Gatûj daran’ chre sa naga’nāj a riña sitiô nan dadin’ huā na’àj sa dugumîn.">
 <!ENTITY protections.noTrackersFound.description "Nitāj nej sa naga'nāj ni'în' guendâ&brandShortName; nari'ij riña pajinâ nan.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Nikò' nej kokî nan danè' huin huājt da' gini'in sa 'iát nga aché nunt. Nej sa a'nïn a'ngô da'āj guìi huin, daj rû' sí du'uèj e asi nej ssí nadigi'ñû sa 'iaj guìi.">
 <!ENTITY protections.cryptominers.description "Sa nùkuaj 'iaj sun si agâ't arâj sun nej kriptominêro da' girī nej si san'ānj dijitâl. Dunahuij hìo nej si scripts kriptominerîa si pilât, nagi'iaj na si aga't nī yakàn numâ ñanj ña'aan riñat.">
 <!ENTITY protections.fingerprinters.description "Nakāj nej da'nga' dijîtal sa huā riña aché nunt nī riña si aga't da' girij 'ngō si perfît. Ga'ue naga'nāj nej si sò' ahuin man'an riña sitiô huājt ngà da'nga' digitâl nan.">
-<!ENTITY protections.trackingContent.description "Huā da'àj nej sîtio nī ga'ue nadiganj nej anûnsio, sa ni'io' nī a'ngô nej sa ga'ue nikāj sa naga'nāj a. Ga'ue nayi'nïn hìo doj nej sîtio si naránt riña nej sa naga'nāj a, sanī huā da'āj nej butûn, formulario asi riña gayi'ìt sesiûn sī ga'ue gi'iaj sunj.">
+<!ENTITY protections.trackingContent2.description "Huā da'àj nej sîtio nī ga'ue nadiganj nej anûnsio, sa ni'io' nī a'ngô nej sa ga'ue nikāj sa naga'nāj a. Ga'ue nayi'nïn hìo doj nej sîtio si naránt riña nej sa naga'nāj a, sanī huā da'āj nej butûn, formulario asi riña gayi'ìt sesiûn sī ga'ue gi'iaj sunj.">
 <!ENTITY protections.socialMediaTrackers.description "A'nïn nej rêd sosiâl nej sa naga'nāj a riña a'ngô da'āj ne sîtio da' gini'in nùj hùin si 'iát, ni'iājt nī ni'înt riña lînia. Huê nan a'nïnj da' gini'in nej sa si'iaj rêd sosiâl sa 'iát nga aché nunt riña a'ngô ña se rêd sosiâl huin.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -964,10 +992,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Sa naga'naj">
 
 <!ENTITY contentBlocking.manageSettings.label "Ganikaj ñu'un sa arán riña kontenido">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Sa nikò' dàj hua sa màn riñanj">
-
-<!ENTITY contentBlocking.manageSettings2.label "Ganikāj ñu'ūnj dàj nadunāt riña sa dugumî sò'">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "Sa naga'naj">
@@ -975,6 +999,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies.label "Nej kôki">
 <!ENTITY contentBlocking.cookiesView.label "Nej kôki ni nej si datô sîtio">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Sa nikò' dàj hua sa màn riñanj">
+
+<!ENTITY contentBlocking.manageSettings2.label "Ganikāj ñu'ūnj dàj nadunāt riña sa dugumî sò'">
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Nej sa naga'nāj nej rêd sosiâl">
 
@@ -990,6 +1019,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Nato' sa gire'e">
 <!ENTITY contentBlocking.breakageReportView2.description "Sa narán riña nej sa huaa ga'ue gi'iaj yì'ij riña da'aj sîtio. Ngà natâ't nej sa 'iaj a'nan' ni rugûnu'unjt riña &brandShortName; yitïnj chre. (Na'nín 'ngo URL, danj naj nuguan' a'min rayi'î da nagi'iát si nabegadôr Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Gahuin chrūn doj">
+
 <!ENTITY contentBlocking.breakageReportView.title "Natà' sna'ānj dàj hua 'ngō sitiô gire'e">
 <!ENTITY contentBlocking.breakageReportView3.description "Ga'ue ga'uì' yi'ì da'āj nej sa naga'nāj naránt riña da'āj nej sîtio. Sisī natà' sna'ānjt nej sa huā nan nī rugûñu'ūnjt riña &brandShortName; da' gā hue'ej riña darûn'. Na'nïnj nuguan' ga'nïnt naj 'ngō URL nī 'ngō nuguan' dàj nadunā sa huā riña aché nunt si'iaj Mozilla.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Gahuin chrūn doj">
@@ -1045,6 +1075,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "'Ngo extensiôn ganaduna si pajinât. Ga'ue nagi'iaj ñut si danj huin ruat.">
+
 <!ENTITY homepageControlled.header.message "Nadunà si pajinât riña ayi'ìt.">
 <!ENTITY homepageControlled.keepButton.label "Gàj run' naduno'">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
