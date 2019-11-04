@@ -21,6 +21,7 @@ onboarding-button-label-get-started = শুরু করুন
 onboarding-welcome-header = { -brand-short-name } এ স্বাগতম
 onboarding-welcome-body = ব্রাউজার ইন্সটল হয়েছে। <br/> { -brand-product-name } বাকি  অংশ দেখুন।
 onboarding-welcome-learn-more = সুবিধাগুলো সম্পর্কে আরও জানুন।
+onboarding-welcome-modal-get-body = ব্রাউজার ইনস্টল হয়েছে।<br/>এখন { -brand-product-name } থেকে সর্বাধিক সুবিধা পান।
 onboarding-welcome-modal-supercharge-body = আপনার গোপনীয়তা সুরক্ষা সুপারচার্জ করুন।
 onboarding-welcome-modal-privacy-body = ব্রাউজার ইনস্টল হয়েছে। চলুন, আরো গোপনীয়তা সুরক্ষা যুক্ত করা যাক।
 onboarding-welcome-modal-family-learn-more = পণ্যের { -brand-product-name } গোত্র সম্পর্কে জানুন।
@@ -68,6 +69,7 @@ onboarding-sync-form-sub-header = { -sync-brand-name } অব্যাহত র
 ## description.
 
 onboarding-benefit-products-title = দরকারী পণ্য
+onboarding-benefit-products-text = টুলসের সমষ্টি দিয়ে কাজ সেরে নিন যা আপনার গোপনীয়তাকে গুরুত্ব দেয়।
 onboarding-benefit-knowledge-title = ব্যবহারিক জ্ঞান
 onboarding-benefit-knowledge-text = অনলাইনে স্মার্ট ও নিরাপদে থাকাতে আপনার যা জানা দরকার তা শিখুন।
 onboarding-benefit-privacy-title = সত্যিকারের গোপনীয়তা
