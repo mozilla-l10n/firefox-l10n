@@ -43,6 +43,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Yapabileceğiniz her şeyi keşfetmeye başlayalım.
 onboarding-fullpage-form-email =
     .placeholder = E-posta adresiniz…
 

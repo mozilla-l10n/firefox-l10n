@@ -110,11 +110,8 @@ master-password-reload-button =
     .label = Giriş yap
     .accesskey = G
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = İptal
-confirmation-dialog-dismiss-button =
-    .title = İptal
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Hesaplarınıza { -brand-product-name } kullandığınız her yerden erişmek ister misiniz? { -sync-brand-short-name } seçeneklerine gidip “Hesaplar”ı işaretleyin.
@@ -127,6 +124,15 @@ enable-password-sync-preferences-button =
            *[other] { -sync-brand-short-name } tercihlerine git
         }
     .accesskey = t
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Bunu bir daha sorma
+    .accesskey = B
+
+## Dialogs
+
+confirmation-dialog-cancel-button = İptal
+confirmation-dialog-dismiss-button =
+    .title = İptal
 confirm-delete-dialog-title = Bu hesap silinsin mi?
 confirm-delete-dialog-message = Bu işlem geri alınamaz.
 confirm-delete-dialog-confirm-button = Sil
