@@ -11,6 +11,7 @@
 <!ENTITY startingNumber.label "Numero initial:">
 <!ENTITY startingNumber.accessKey "i">
 <!ENTITY none.value "Nulle">
+<!ENTITY bulletList.value "Lista a punctos (sin numeros)">
 <!ENTITY numberList.value "Lista numerate">
 <!ENTITY definitionList.value "Lista de definitiones">
 <!ENTITY changeEntireListRadio.label "Cambiar tote le lista">
