@@ -14,6 +14,13 @@ be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Azt kérte, hogy a &brandShortName; biztonságosan kapcsolódjon
 ide: <b>#1</b>, de nem tudunk meggyőződni arról, hogy a kapcsolat biztonságos.">
+
+<!-- Localization note (certerror.introPara1a) - The text content of the span
+tag will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara1a "Azt szerette volna, hogy a &brandShortName; biztonságosan
+kapcsolódjon a következőhöz: <span class='hostname'/>, de nem garantálható,
+hogy a kapcsolat biztonságos.">
 <!ENTITY certerror.introPara2 "Általában amikor megpróbál biztonságosan csatlakozni, a weboldalak
 megbízható tanúsítványt mutatnak be, hogy bizonyítsák, hogy a megfelelő
 helyre megy. Azonban ennek a webhelynek nem ellenőrizhető az azonosítása.">
