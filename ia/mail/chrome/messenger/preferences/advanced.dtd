@@ -1,0 +1,96 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemGeneral.label       "General">
+<!ENTITY dataChoicesTab.label    "Selectiones de datos">
+<!ENTITY itemUpdate.label        "Actualisar">
+<!ENTITY itemCertificates.label  "Certificatos">
+
+<!-- General Settings -->
+<!ENTITY languageSelector.label        "Lingua">
+
+
+<!ENTITY configEdit.label              "Editor de configuration…">
+<!ENTITY configEdit.accesskey          "c">
+<!ENTITY returnReceiptsInfo.label      "Determinar como &brandShortName; tracta le receptas de retorno">
+<!ENTITY showReturnReceipts.label      "Receptas de retorno…">
+
+<!-- Data Choices -->
+<!ENTITY telemetrySection.label          "Telemetria">
+<!ENTITY enableTelemetry.label           "Activar telemetria">
+<!ENTITY enableTelemetry.accesskey       "t">
+<!ENTITY telemetryLearnMore.label        "Saper plus">
+
+<!ENTITY crashReporterSection.label      "Reportator de crash">
+<!ENTITY enableCrashReporter.label       "Activar reportator de crash">
+<!ENTITY enableCrashReporter.accesskey   "c">
+<!ENTITY crashReporterLearnMore.label    "Saper plus">
+
+<!-- Update -->
+<!-- LOCALIZATION NOTE (updateApp.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
+<!ENTITY updateApp2.label                "Actualisationes de &brandShortName;">
+<!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
+  followed by a version number, keep the trailing space or replace it with
+  a different character as needed. updateApp.version.post is displayed after
+  the version number, and is empty on purpose for English. You can use it
+  if required by your language.
+ -->
+<!ENTITY updateApp.version.pre           "Version ">
+<!ENTITY updateApp.version.post          "">
+<!ENTITY updateAppAllow.description      "Permitter &brandShortName; a">
+<!ENTITY updateAuto.label                "Installar automaticamente actualisationes (recommendate: major securitate)">
+<!ENTITY updateAuto.accesskey            "a">
+<!ENTITY updateCheck.label               "Recercar actualisationes, ma permitter que tu selige si los installar">
+<!ENTITY updateCheck.accesskey           "R">
+<!ENTITY updateHistory.label             "Monstrar le chronologia del actualisationes">
+<!ENTITY updateHistory.accesskey         "c">
+
+<!ENTITY useService.label                "Usar un servicio in secunde plano pro installar le actualisationes">
+<!ENTITY useService.accesskey            "s">
+
+
+<!-- Networking and Disk Space -->
+<!ENTITY showSettings.label            "Parametros…">
+<!ENTITY showSettings.accesskey        "S">
+<!ENTITY connectionsInfo.caption       "Connexion">
+<!ENTITY offlineInfo.caption           "Offline">
+<!ENTITY showOffline.label             "Offline…">
+<!ENTITY showOffline.accesskey         "O">
+
+<!ENTITY Diskspace                       "Spatio de disco">
+<!ENTITY offlineCompactFoldersMB.label   "MB total">
+
+<!-- LOCALIZATION NOTE:
+  The entities useCacheBefore.label and useCacheAfter.label appear on a single
+  line in preferences as follows:
+
+  &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
+-->
+<!ENTITY useCacheBefore.label            "Usar usque">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB de spatio pro le cache">
+<!ENTITY overrideSmartCacheSize.label    "Supplantar le gestion automatic del cache">
+<!ENTITY overrideSmartCacheSize.accesskey "u">
+<!ENTITY clearCacheNow.label             "Clarar ora">
+<!ENTITY clearCacheNow.accesskey         "C">
+
+<!-- Certificates -->
+<!ENTITY certSelection.description       "Quando un servitor require mi certificato personal:">
+<!ENTITY certs.auto                      "Selectionar un automaticamente">
+<!ENTITY certs.auto.accesskey            "S">
+<!ENTITY certs.ask                       "Demandar me cata vice">
+<!ENTITY certs.ask.accesskey             "D">
+
+<!ENTITY manageCertificates.label "Gerer certificatos">
+<!ENTITY manageCertificates.accesskey "G">
+<!ENTITY viewSecurityDevices.label "Dispositivos de securitate">
+<!ENTITY viewSecurityDevices.accesskey "D">
+
+<!ENTITY manageCertificates2.label "Gerer certificatos…">
+<!ENTITY manageCertificates2.accesskey "G">
+<!ENTITY viewSecurityDevices2.label "Dispositivos de securitate…">
+<!ENTITY viewSecurityDevices2.accesskey "D">
