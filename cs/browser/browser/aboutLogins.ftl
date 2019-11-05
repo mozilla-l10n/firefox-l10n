@@ -52,9 +52,9 @@ login-list-count =
         [4] čtvery přihlašovací údaje
        *[other] { $count } přihlašovacích údajů
     }
-login-list-sort-label-text = Seřadit:
-login-list-name-option = podle názvu (A-Z)
-login-list-breached-option = Stránky, na kterých došlo k úniku dat
+login-list-sort-label-text = Seřadit podle:
+login-list-name-option = názvu (A-Z)
+login-list-breached-option = serveru, kde došlo k úniku dat
 login-list-last-changed-option = naposledy změněno
 login-list-last-used-option = naposledy použito
 login-list-intro-title = Nenalezeny žádné přihlašovací údaje
@@ -113,11 +113,8 @@ master-password-reload-button =
     .label = Přihlásit se
     .accesskey = P
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Zrušit
-confirmation-dialog-dismiss-button =
-    .title = Zrušit
 enable-password-sync-notification-message =
     Chcete svá hesla všude s sebou, kde používáte aplikaci { -brand-product-name }? Otevřete { PLATFORM() ->
         [windows] možnosti
@@ -130,6 +127,15 @@ enable-password-sync-preferences-button =
            *[other] Předvolby
         } aplikace { -sync-brand-short-name }
     .accesskey = V
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Příště se už neptat
+    .accesskey = n
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Zrušit
+confirmation-dialog-dismiss-button =
+    .title = Zrušit
 confirm-delete-dialog-title = Smazat tyto přihlašovací údaje?
 confirm-delete-dialog-message = Tuto akci nelze vzít zpět.
 confirm-delete-dialog-confirm-button = Smazat
