@@ -12,6 +12,7 @@
 <!ENTITY smiley2Cmd.label "Corrugation del fronte">
 <!ENTITY smiley2Cmd.accesskey "C">
 <!ENTITY smiley2Cmd.tooltip "Inserer un facie triste">
+<!ENTITY smiley3Cmd.label "Palpebration">
 <!ENTITY smiley3Cmd.tooltip "Inserer un facie que batte le palpebra">
 <!ENTITY smiley4Cmd.label "Lingua de foras">
 <!ENTITY smiley4Cmd.accesskey "L">

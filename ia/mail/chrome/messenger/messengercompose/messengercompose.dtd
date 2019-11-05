@@ -213,6 +213,7 @@
      bar). -->
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
+<!ENTITY smiley3Cmd.label "Palpebration">
 
 <!-- Message Pane Context Menu -->
 <!ENTITY copy.label "Copiar">
