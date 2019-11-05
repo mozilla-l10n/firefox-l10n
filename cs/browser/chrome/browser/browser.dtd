@@ -158,11 +158,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Přihlášen(a) jako">
 <!ENTITY fxa.menu.manageAccount.label "Správa účtu…">
+<!ENTITY fxa.menu.syncSettings.label "Nastavení synchronizace…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "Nastavení synchronizace…">
+<!ENTITY fxa.menu.syncSettings2.label "Nastavení synchronizace">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Připojit další zařízení…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -175,6 +176,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Nastavení účtu">
 <!ENTITY fxa.menu.signOut.label "Odhlásit se…">
 <!ENTITY fxa.menu.deviceSettings.label "Nastavení zařízení">
+<!ENTITY fxa.menu.setupSync.label "Nastavit &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -288,6 +290,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tomuto serveru jste zablokovali používání zásuvného modulu Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tomuto serveru jste zablokovali přístup k MIDI zařízením.">
 <!ENTITY urlbar.installBlocked.tooltip           "Tomuto serveru jste zablokovali instalaci doplňků.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobrazí historii">
 
@@ -898,7 +901,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "Otevřít nastavení blokování obsahu">
 
 
-<!ENTITY protections.etpON.header "Rozšířená ochrana proti sledování je povolena">
+<!ENTITY protections.etpON.header "Rozšířená ochrana proti sledování je zapnuta">
 <!ENTITY protections.etpOFF.header "Rozšířená ochrana proti sledování je vypnuta">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
@@ -943,6 +946,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Sledující obsah">
 <!ENTITY protections.fingerprinters.label "Vytváření otisku prohlížeče">
 <!ENTITY protections.cryptominers.label "Těžba kryptoměn">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Všechny sledovací prvky na této stránce byly načteny, protože ochrana proti sledování je vypnutá.">
 <!ENTITY protections.noTrackersFound.description "Aplikace &brandShortName; na této stránce nenalezla žádné známé sledovací prvky.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Tyto cookies slouží k vašemu sledování napříč webovými stránkami a sběru dat o tom, co na internetu děláte. Používají je třetí strany jako jsou reklamní systémy nebo analytické společnosti.">

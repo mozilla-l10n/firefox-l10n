@@ -158,5 +158,14 @@ cfr-doorhanger-cryptominers-description = Na vašem soukromí záleží. { -bran
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] Od { $date } aplikace { -brand-short-name } zablokovala jeden sledovací prvek.
+        [few] Od { $date } aplikace { -brand-short-name } zablokovala více než <b>{ $blockedCount }</b> sledovací prvky.
+       *[other] Od { $date } aplikace { -brand-short-name } zablokovala více než <b>{ $blockedCount }</b> sledovacích prvků.
+    }
 cfr-doorhanger-milestone-ok-button = Zobrazit vše
     .accesskey = v

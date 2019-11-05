@@ -518,6 +518,7 @@ search-bar-shown =
     .label = Přidat na lištu vyhledávací pole
 search-engine-default-header = Výchozí vyhledávač
 search-engine-default-desc = Vyberte výchozí vyhledávač pro hledání z adresního řádku nebo vyhledávacího pole.
+search-engine-default-desc-2 = Toto je váš výchozí vyhledávač pro adresní řádek i vyhledávací pole. Můžete ho kdykoliv změnit.
 search-engine-default-private-desc-2 = Vyberte odlišný výchozí vyhledávač pro použití v režimu anonymního prohlížení
 search-separate-default-engine =
     .label = Použít tento vyhledávač jako výchozí také v režimu anonymního prohlížení
