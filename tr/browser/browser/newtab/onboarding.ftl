@@ -81,6 +81,7 @@ onboarding-benefit-privacy-text = Yaptığımız her şeyde Kişisel Veri Sözü
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Yer imlerinizi, parolalarınızı, geçmişinizi ve daha fazlasını { -brand-product-name } kullandığınız her yere taşıyın.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Kişisel bilgileriniz yeni bir veri ihlalinde geçerilirse size haber verelim.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Parolalarınızı güvenle saklayın ve yanınızda taşıyın.
 

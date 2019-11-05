@@ -146,7 +146,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "E-postanızı kontrol edin">
-<!ENTITY fxa.unverified.description.label "Eşitlemeyi başlatabilmek için hesabınızı doğrulamanız gerekir.">
+<!ENTITY fxa.unverified.description.label "Eşitlemeyi başlatmak için hesabınızı doğrulamanız gerekiyor.">
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; ayarlarını aç…">
 
 <!ENTITY pictureInPictureHideToggle.label "Görüntü içinde görüntü düğmesini gizle">
@@ -289,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Bu web sitesinin Adobe Flash yan uygulamasını kullanmasını engellediniz.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Bu sitenin MIDI erişimini engellediniz.">
 <!ENTITY urlbar.installBlocked.tooltip           "Bu sitenin eklenti yüklemesini engellediniz.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Geçmişi göster">
 
