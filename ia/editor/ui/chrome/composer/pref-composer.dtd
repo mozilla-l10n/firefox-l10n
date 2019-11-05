@@ -14,4 +14,7 @@
 <!ENTITY  savingFiles.title             "Salvante o publicante paginas">
 <!ENTITY  preserveExisting.label        "Conservar le structura HTML existente">
 <!ENTITY  preserveExisting.accesskey    "C">
+<!ENTITY  preserveExisting.tooltip      "Preserva interruptiones de linea e formattation original del pagina">
+<!ENTITY  saveAssociatedFiles.label     "Salvar imagines e altere files associate insimul al pagina">
+<!ENTITY  saveAssociatedFiles.accesskey "S">
 <!ENTITY  composerEditing.label         "Redaction">
