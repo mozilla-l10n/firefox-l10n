@@ -37,6 +37,7 @@ login-list-count =
 login-list-sort-label-text = इसके अनुसार:
 login-list-name-option = नाम (A-Z)
 login-list-last-changed-option = अंतिम परिवर्तन
+login-list-intro-title = कोई लॉग इन नहीं मिला
 about-logins-login-list-empty-search-title = कोई लॉगिन नहीं मिला
 login-list-item-title-new-login = नया लॉगिन
 login-list-item-subtitle-new-login = अपनी लॉगिन जानकारी दर्ज करें
@@ -75,6 +76,9 @@ master-password-notification-message = सहेजे गए लॉगिन �
 master-password-reload-button =
     .label = लॉग इन
     .accesskey = L
+
+## Password Sync notification
+
 
 ## Dialogs
 
