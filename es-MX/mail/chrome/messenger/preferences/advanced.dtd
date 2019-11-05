@@ -101,7 +101,29 @@
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
+<!ENTITY useCacheBefore.label            "Utilizar hasta">
+<!ENTITY useCacheBefore.accesskey        "U">
+<!ENTITY useCacheAfter.label             "MB de espacio para el caché">
+<!ENTITY overrideSmartCacheSize.label    "Anular la administración automática de caché">
+<!ENTITY overrideSmartCacheSize.accesskey "v">
+<!ENTITY clearCacheNow.label             "Limpiar ahora">
+<!ENTITY clearCacheNow.accesskey         "C">
 
 <!-- Certificates -->
+<!ENTITY certSelection.description       "Cuando un servidor solicite mi certificado personal:">
+<!ENTITY certs.auto                      "Seleccionar uno automáticamente">
+<!ENTITY certs.auto.accesskey            "S">
+<!ENTITY certs.ask                       "Preguntarme cada vez">
+<!ENTITY certs.ask.accesskey             "A">
+<!ENTITY enableOCSP.label                "Consultar servidores de respuesta OCSP para confirmar la validez actual de los certificados">
+<!ENTITY enableOCSP.accesskey            "Q">
 
+<!ENTITY manageCertificates.label "Administrar certificados">
+<!ENTITY manageCertificates.accesskey "M">
+<!ENTITY viewSecurityDevices.label "Dispositivos de seguridad">
+<!ENTITY viewSecurityDevices.accesskey "D">
 
+<!ENTITY manageCertificates2.label "Administrar certificados…">
+<!ENTITY manageCertificates2.accesskey "M">
+<!ENTITY viewSecurityDevices2.label "Dispositivos de seguridad…">
+<!ENTITY viewSecurityDevices2.accesskey "D">
