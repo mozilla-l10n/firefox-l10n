@@ -273,8 +273,17 @@
      the access key must exist in both of those strings
      But value must be set here for accesskey to draw properly
 -->
+<!ENTITY tableJoinCells.label "Kunfandi ĉelojn">
+<!ENTITY tableJoinCells.accesskey "K">
+<!ENTITY tableSplitCell.label "Dividi ĉelon">
+<!ENTITY tableSplitCell.accesskey "D">
+<!ENTITY convertToTable.label "Krei tabelon el la elektaĵo">
+<!ENTITY convertToTable.accesskey "t">
+<!ENTITY tableProperties.label "Atributoj de tabelo…">
+<!ENTITY tableProperties.accesskey "A">
 
 <!-- Toolbar-only items -->
+<!ENTITY menuBar.tooltip "Strio de menuo">
 
 <!-- Editor toolbar -->
 <!ENTITY boldToolbarCmd.tooltip "Dika">
