@@ -26,3 +26,15 @@ about-private-browsing-not-private = Trenutno niste v zasebnem oknu.
 content-blocking-title = Zavračanje vsebine
 content-blocking-description = Nekatere spletne strani uporabljajo sledilce, ki lahko nadzirajo vašo dejavnost na internetu. V zasebnih oknih { -brand-short-name }ovo zavračanje vsebine samodejno zavrne številne sledilce, ki zbirajo podatke o vašem vedenju na internetu.
 about-private-browsing-info-description = { -brand-short-name } izbriše zgodovino iskanja in brskanja, ko zaprete program ali ko zaprete vse zavihke in okna zasebnega brskanja. Čeprav to ne pomeni, da ste za spletna mesta ali ponudnike internetnih storitev anonimni, vam omogoča preprostejše ohranjanje zasebnosti na spletu pred ostalimi uporabniki tega računalnika.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } je vaš privzeti iskalnik v zasebnih oknih
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Če želite izbrati drug iskalnik, pojdite v <a data-l10n-name="link-options">Možnosti</a>
+       *[other] Če želite izbrati drug iskalnik, pojdite v <a data-l10n-name="link-options">Nastavitve</a>
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Zapri

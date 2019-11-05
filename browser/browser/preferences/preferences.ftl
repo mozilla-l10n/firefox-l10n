@@ -288,6 +288,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Uporabi { $plugin-name } (v { -brand-short-name })
@@ -463,7 +467,6 @@ choose-bookmark =
 
 home-prefs-content-header = Vsebina domače strani Firefoxa
 home-prefs-content-description = Izberite vsebino, ki jo želite prikazati na domači strani Firefoxa.
-home-prefs-content-discovery-description = Odkrivanje vsebine na Firefoxovi domači strani vam pomaga odkriti kakovostne članke na spletu, ki bi vas utegnili zanimati.
 home-prefs-search-header =
     .label = Iskanje po spletu
 home-prefs-topsites-header =
@@ -513,7 +516,8 @@ search-bar-shown =
     .label = Dodaj iskalno vrstico v orodno vrstico
 search-engine-default-header = Privzet iskalnik
 search-engine-default-desc = Izberite privzeti iskalnik, ki ga želite uporabiti v naslovni in iskalni vrstici.
-search-engine-default-private-desc = Izberite privzeti iskalnik v zasebnih oknih.
+search-engine-default-desc-2 = To je vaš privzeti iskalnik v naslovni vrstici in iskalni vrstici. Kadarkoli ga lahko zamenjate.
+search-engine-default-private-desc-2 = Izberite drug privzet iskalnik posebej za zasebna okna
 search-separate-default-engine =
     .label = Uporabi ta iskalnik v zasebnih oknih
     .accesskey = i
@@ -532,6 +536,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Med rezultati naslovne vrstice prikaži predloge iskanja pred zgodovino brskanja
+search-show-suggestions-private-windows =
+    .label = Prikazuj predloge iskanja v zasebnih oknih
 suggestions-addressbar-settings = Spremeni nastavitve za zgodovino brskanja, zaznamke in predloge zavihkov
 search-suggestions-cant-show = Predlogi iskanja v vrstici z naslovom ne bodo prikazani, ker ste { -brand-short-name } nastavili tako, da si nikoli ne zapomni zgodovine.
 search-one-click-header = Iskalniki, dostopni z enim klikom
