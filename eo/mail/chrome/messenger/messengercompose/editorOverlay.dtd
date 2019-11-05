@@ -284,6 +284,29 @@
 
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Strio de menuo">
+<!ENTITY formatToolbar.tooltip "Strio de formatado">
+<!ENTITY cutToolbarCmd.tooltip "Eltondi">
+<!ENTITY copyToolbarCmd.tooltip "Kopii">
+<!ENTITY pasteToolbarCmd.tooltip "Alglui">
+<!ENTITY printToolbarCmd.label "Presi">
+<!ENTITY printToolbarCmd.tooltip "Presi tiun ĉi paĝon">
+<!ENTITY findToolbarCmd.label "Serĉi">
+<!ENTITY findToolbarCmd.tooltip "Serĉi tekston en la paĝo">
+<!ENTITY spellToolbarCmd.label "Ortografio">
+<!ENTITY spellToolbarCmd.tooltip "Kontroli pri ortografiaj eraroj en la elekto aŭ en la tuta paĝo">
+<!ENTITY imageToolbarCmd.label "Bildo">
+<!ENTITY imageToolbarCmd.tooltip "Enmeti novan bildon aŭ redakti atributojn de elektita bildo">
+<!ENTITY hruleToolbarCmd.label "Horizontala linio">
+<!ENTITY hruleToolbarCmd.tooltip "Enmeti horizontalan linion aŭ redakti atributojn de elektita linio">
+<!ENTITY tableToolbarCmd.label "Tabelo">
+<!ENTITY tableToolbarCmd.tooltip "Enmeti novan tabelon aŭ redakti atributojn de elektita tabelo">
+<!ENTITY linkToolbarCmd.label "Ligilo">
+<!ENTITY linkToolbarCmd.tooltip "Enmeti novan ligilon aŭ redakti atributojn de elektita ligilo">
+<!ENTITY anchorToolbarCmd.label "Ankro">
+<!ENTITY anchorToolbarCmd.tooltip "Enmeti novan nomitan ankron aŭ redakti atributojn de elektita ankro">
+<!ENTITY TextColorButton.tooltip "Elekti koloron de teksto">
+<!ENTITY BackgroundColorButton.tooltip "Elekti koloron de fono">
+<!ENTITY throbber.tooltip2 "Iri al retejo de la programo &brandShortName;">
 
 <!-- Editor toolbar -->
 <!ENTITY boldToolbarCmd.tooltip "Dika">
