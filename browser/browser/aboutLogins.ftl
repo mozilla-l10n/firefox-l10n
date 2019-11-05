@@ -63,7 +63,7 @@ login-list-item-subtitle-new-login = Voer uw aanmeldgegevens in
 login-list-item-subtitle-missing-username = (geen gebruikersnaam)
 about-logins-list-item-warning-icon =
     .alt = Waarschuwingspictogram
-    .title = Getroffen website
+    .title = Website met datalek
 about-logins-list-item-breach-icon =
     .title = Website met datalek
 
