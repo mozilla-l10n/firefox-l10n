@@ -163,12 +163,16 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.title "Nitaj si gua hue'e si conexion re'">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> arâj sunj ‘ngō sa gō nitāj si arán hue’ê riña sa yi’ìi. Si gatū nej si nī nda nanè chre gini’in nej si sa màn sà’ ‘iát. Asinïn da’ui sû’ nikāj ñu’ūnj sitiô nan nagi’iaj si man da’ ga’ue gatūt riñanj.</p><p>Da’nga’ nikāj sa gahui a’nan’an: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Hua blokeado pagina">
 
+<!ENTITY certerror.mitm.title "Na’uēj Software ga’nïn riña &brandShortName; da’ gatū sa’àj riña sitiô nan">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> Huin ‘ngō sitiô sà’a si gūruhuaj, sanī na’ue gi’iaj konektandô sà’aj. <span class='mitm-name'/> huin sa ‘iaj hua sa huā dànanj, nī sa nū riña si aga’t nî’ asi riña red arâj sunt.">
 
 <!ENTITY clockSkewError.title "Nitaj si nū hue'ê hora riña si aga't">
 
 <!ENTITY prefReset.label "Nagi'iaj run' hua nianj">
+
 
 <!ENTITY networkProtocolError.title "Gire' si protokolo red">
