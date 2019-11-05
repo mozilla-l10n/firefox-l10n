@@ -181,5 +181,8 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Nagi'iaj run' hua nianj">
 
 <!ENTITY enableTls10.longDesc "Si guruhuaj nī nitāj si aran’ sitiô nan ngà TLS 1.2, dadin’ huê man huin ‘ngō sa achín &brandShortName;. Si nachrūnt TLS 1.0 ngà TLS 1.1 ga’ue ga’nïn gatūt si gurūhuaj.">
+<!ENTITY enableTls10.note "TLS 1.0 ngà TLS 1.1 narè’ nguèj man ngà versiûn nakà guruguì’.">
+<!ENTITY enableTls10.label "Nachrūn TLS 1.0 ngà 1.1">
 
 <!ENTITY networkProtocolError.title "Gire' si protokolo red">
+<!ENTITY networkProtocolError.longDesc "<p>Pajinâ ni'iājt ruhuât nī na'ue nayi'nïn dadin' huā a'nan' si protokolô red.</p><ul><li>Gi'iaj 'ngō sununj nī natà' na'ānj' riña nej duguî' sī’iaj huin pajinâ nan.</li></ul>">
