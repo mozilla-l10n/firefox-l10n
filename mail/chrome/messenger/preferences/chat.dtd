@@ -4,6 +4,10 @@
 
 <!ENTITY  generalTab.label            "General">
 
+<!ENTITY  startupAction.label         "Cuando &brandShortName; inicie:">
+<!ENTITY  startupAction.accesskey     "s">
+<!ENTITY  startupOffline.label        "Mantener mis cuentas de chat sin conexión">
+<!ENTITY  startupConnectAuto.label    "Conectar mis cuentas de chat automáticamente">
 
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
@@ -11,9 +15,32 @@ displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
+<!ENTITY  reportIdleAfter.label         "Informar a mis contactos que estoy inactivo después de">
+<!ENTITY  reportIdleAfter.accesskey     "I">
+<!ENTITY  idleTime                      "minutos de inactividad">
 
+<!ENTITY  andSetStatusToAway.label      "y establecer mi estado como Ausente con el siguiente mensaje de estado:">
+<!ENTITY  andSetStatusToAway.accesskey  "A">
 
+<!ENTITY  sendTyping.label              "Enviar notificaciones de escritura en conversaciones">
+<!ENTITY  sendTyping.accesskey          "t">
 
+<!ENTITY  chatNotifications.label             "Cuando lleguen mensajes dirigidos a ti:">
+<!ENTITY  desktopChatNotifications.label      "Mostrar una notificación:">
+<!ENTITY  desktopChatNotifications.accesskey  "c">
+<!ENTITY  completeNotification.label          "con nombre de remitente y vista previa de mensaje">
+<!ENTITY  buddyInfoOnly.label                 "solo con nombre de remitente">
+<!ENTITY  dummyNotification.label             "sin ninguna información">
+<!ENTITY  getAttention.label                  "Hacer visible el elemento de la barra de tareas">
+<!ENTITY  getAttention.accesskey              "F">
+<!ENTITY  getAttentionMac.label               "Animar el ícono del dock">
+<!ENTITY  getAttentionMac.accesskey           "o">
+<!ENTITY  chatSound.accesskey                 "d">
+<!ENTITY  chatSound.label                     "Reproducir un sonido">
+<!ENTITY  play.label                          "Reproducir">
+<!ENTITY  play.accesskey                      "P">
+<!ENTITY  systemSound.label                   "Sonido predeterminado para correo nuevo">
+<!ENTITY  systemSound.accesskey               "D">
 
 <!ENTITY messageStyleTheme.label           "Tema:">
 <!ENTITY messageStyleDefaultTheme.label    "Predeterminado">
