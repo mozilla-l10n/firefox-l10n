@@ -8,6 +8,8 @@
 
 <!ENTITY accountActionsButton.label "Actiones del conto">
 <!ENTITY accountActionsButton.accesskey "A">
+<!ENTITY addMailAccountButton.label "Adder conto email…">
+<!ENTITY addMailAccountButton.accesskey "A">
 <!ENTITY addIMAccountButton.label "Adder conto chat…">
 <!ENTITY addIMAccountButton.accesskey "C">
 <!ENTITY addFeedAccountButton.label "Adder conto fluxo…">

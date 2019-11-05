@@ -36,7 +36,13 @@
 <!ENTITY PrimaryEmail.accesskey         "E">
 <!ENTITY SecondEmail.label              "Altere adresse email:">
 <!ENTITY SecondEmail.accesskey          "e">
+<!ENTITY PlainText.label                "Texto simple">
+<!ENTITY HTML.label                     "HTML">
+<!ENTITY Unknown.label                  "Incognite">
+<!ENTITY chatName.label                 "Nomine de chat:">
 
+<!ENTITY WorkPhone.label                "Labor:">
+<!ENTITY WorkPhone.accesskey            "b">
 <!ENTITY HomePhone.label                "Pagina initial:">
 <!ENTITY HomePhone.accesskey            "i">
 <!ENTITY FaxNumber.label                "Fax:">
@@ -48,6 +54,10 @@
 <!ENTITY Home.accesskey                 "P">
 <!ENTITY HomeAddress.label              "Adresse:">
 <!ENTITY HomeAddress.accesskey          "d">
+<!ENTITY HomeAddress2.label             "">
+<!ENTITY HomeAddress2.accesskey         "">
+<!ENTITY HomeCity.label                 "Citate:">
+<!ENTITY HomeCity.accesskey             "t">
 <!ENTITY HomeCountry.label              "Pais:">
 <!ENTITY HomeCountry.accesskey          "a">
 
@@ -59,6 +69,31 @@
 <!ENTITY Company.accesskey              "n">
 
 
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN2.accesskey                 "N">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "ID Jabber:">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "Pseudonyme IRC:">
+<!ENTITY IRC.accesskey                  "P">
 
+<!ENTITY Photo.tab                      "Photo">
+<!ENTITY Photo.accesskey                "o">
+<!ENTITY GenericPhoto.label             "Photo generic">
+<!ENTITY GenericPhoto.accesskey         "G">
+<!ENTITY DefaultPhoto.label             "Predefinite">
+<!ENTITY PhotoFile.label                "Sur iste computator">
+<!ENTITY PhotoFile.accesskey            "n">
+<!ENTITY BrowsePhoto.label              "Foliettar">
+<!ENTITY BrowsePhoto.accesskey          "r">
+<!ENTITY PhotoURL.label                 "Sur le Web">
+<!ENTITY PhotoURL.accesskey             "b">
 <!ENTITY UpdatePhoto.label              "Actualisar">
 <!ENTITY UpdatePhoto.accesskey          "u">

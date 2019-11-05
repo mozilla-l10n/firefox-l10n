@@ -28,6 +28,7 @@
 <!ENTITY useSubdirRadio.accesskey     "p">
 <!ENTITY pageTitle.label              "Titulo del pagina:">
 <!ENTITY pageTitle.accesskey          "T">
+<!ENTITY pageTitle.tooltip            "Insere un titulo pro identificar le pagina in le fenestra e in marcapaginas">
 <!ENTITY filename.label               "Nomine del file:">
 <!ENTITY filename.accesskey           "F">
 <!ENTITY setDefaultButton.label       "Stabilir como predeterminate">

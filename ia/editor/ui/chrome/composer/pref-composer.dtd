@@ -18,3 +18,5 @@
 <!ENTITY  saveAssociatedFiles.label     "Salvar imagines e altere files associate insimul al pagina">
 <!ENTITY  saveAssociatedFiles.accesskey "S">
 <!ENTITY  composerEditing.label         "Redaction">
+<!ENTITY  crInPCreatesNewP.label        "Pulsar le clave invio crea sempre un nove paragrapho">
+<!ENTITY  crInPCreatesNewP.accesskey    "i">
