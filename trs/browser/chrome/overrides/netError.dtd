@@ -169,6 +169,10 @@ was trying to connect. -->
 
 <!ENTITY certerror.mitm.title "Na’uēj Software ga’nïn riña &brandShortName; da’ gatū sa’àj riña sitiô nan">
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> Huin ‘ngō sitiô sà’a si gūruhuaj, sanī na’ue gi’iaj konektandô sà’aj. <span class='mitm-name'/> huin sa ‘iaj hua sa huā dànanj, nī sa nū riña si aga’t nî’ asi riña red arâj sunt.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Sisī antivirus nikājt nani’in man nej koneksiûn huā ráan (gu’nàj “web scanning” asi “https scanning”), ga’ue dunâ’àjt sa huā dànanj. Sisī na’ue nī nadure’ antivirus nī na’nïnj ñût man.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Sisī riña ‘ngō red korporatiba nut nī, ga’ue ga’mint riña dukuâ sun informâtika.">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Sisī nitāj si râj sun yìtïnjt <span class='mitm-name'/>, ga’ue si sa yi’ìi huin nan nī dugunàj huaj si gahuīt riña sîtio.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Sisī nitāj si râj sun yìtïnjt <span class='mitm-name'/>, ga’ue si sa yi’ìi huin nan nī nitāj dàj gāj gatūt riña sitiô nan ngà’.">
 
 <!ENTITY clockSkewError.title "Nitaj si nū hue'ê hora riña si aga't">
 
