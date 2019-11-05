@@ -260,7 +260,13 @@
 <!ENTITY tableCellContents.accesskey "e">
 <!ENTITY tableAllCells.label "ĉiujn ĉelojn">
 <!ENTITY tableAllCells.accesskey "j">
+<!ENTITY tableCellBefore.label "ĉelon maldekstre">
+<!ENTITY tableCellBefore.accesskey "e">
+<!ENTITY tableCellAfter.label "ĉelon dekstre">
+<!ENTITY tableCellAfter.accesskey "l">
 <!-- Delete SubMenu -->
+<!ENTITY tableDeleteMenu.label "Forigi">
+<!ENTITY tableDeleteMenu.accesskey "F">
 
 <!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
