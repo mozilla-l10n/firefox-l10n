@@ -24,5 +24,10 @@ about-private-browsing =
 about-private-browsing-not-private = ଆପଣ ବର୍ତ୍ତମାନ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋରେ ନାହାନ୍ତି।
 content-blocking-title = କଣ୍ଟେଣ୍ଟ ଅଟକ
 content-blocking-description = ଅନେକ ୱେବସାଇଟ ଟ୍ରାକର ବ୍ୟବହାର କରି ଇଣ୍ତରନେଟରେ ଆପଣଙ୍କ କାର୍ଯ୍ୟକଳାପ ପର୍ଯବେକ୍ଷଣ କରିପାରନ୍ତି । ବ୍ୟକ୍ତିଗତ ଉଇଣ୍ଡୋରେ, { -brand-short-name } କଣ୍ଟେଣ୍ଟ ବ୍ଲକିଂ ଆପେଆପେ ଆପଣଙ୍କର ବ୍ରାଉଜିଂ ବ୍ୟବହାର ବାବଦରେ ତଥ୍ୟ ସଂଗ୍ରହ କରୁଥିବା ଅନେକ ଟ୍ରାକରଗୁଡ଼ିକୁ ଅଟକାଇ ଦିଏ ।
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = ଗୋପନୀୟ ୱିଣ୍ଡୋରେ { $engineName } ଆପଣଙ୍କର ପୂର୍ବ ସଂରକ୍ଷିତ ସନ୍ଧାନ ଇଞ୍ଜିନ ଅଟେ
 about-private-browsing-search-banner-close-button =
     .aria-label = ବନ୍ଦ କରନ୍ତୁ

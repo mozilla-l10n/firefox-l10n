@@ -11,6 +11,7 @@ crashed-offer-help = ଆମେ ସାହାର୍ଯ୍ୟ କରିପାରି
 crashed-single-offer-help-message = ପୃଷ୍ଠାଟିକୁ ରିଲୋଡ କରିବାକୁ { crashed-restore-tab-button }କୁ ଚୟନ କରନ୍ତୁ
 crashed-request-help = ଆପଣ ଆମକୁ ସାହାର୍ଯ୍ୟ କରିବେ କି?
 crashed-request-report-title = ଏହି ଟ୍ୟାବପାଇଁ ଅଭିଯୋଗ କରନ୍ତୁ
+crashed-send-report = ସ୍ୱତଃପ୍ରବୁର୍ତ୍ତ ଭାବରେ ଦୁର୍ଘଟଣା ଦଲିଲ କରନ୍ତୁ ଯାହାଦ୍ୱାରା ଆମେ ଏଭଳି ଘଟଣା ପରେ ଠିକ କରିପାରିବୁ
 crashed-comment =
     .placeholder = ମତାମତ ଦିଅନ୍ତୁ (ଆପଣଙ୍କ ମତ ସମସ୍ତେ ପଢ଼ିପାରିବେ) ଏହା ବାଧ୍ୟତାମୂଳକ ନୁହେଁ
 crashed-email-placeholder = ଆପଣଙ୍କର ଇମେଲ ଠିକଣା ଏଠାରେ ଭରଣ କରନ୍ତୁ
