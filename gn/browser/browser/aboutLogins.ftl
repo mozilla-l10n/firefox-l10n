@@ -110,11 +110,8 @@ master-password-reload-button =
     .label = Tembiapo ñepyrũ
     .accesskey = L
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Heja
-confirmation-dialog-dismiss-button =
-    .title = Heja
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] ¿Eipotápa tembiapo ñepyrũ opaite eipuruhápe { -brand-product-name }? Tereho { -sync-brand-short-name } Jeporavorãme ha embosa’y pe tembiapo ñepyrũ kora jehechajey.
@@ -127,6 +124,15 @@ enable-password-sync-preferences-button =
            *[other] Eike { -sync-brand-short-name } Oguerohoryvévape
         }
     .accesskey = V
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Anive eporandujey
+    .accesskey = D
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Heja
+confirmation-dialog-dismiss-button =
+    .title = Heja
 confirm-delete-dialog-title = ¿Embogue ko tembiapo ñepyrũ?
 confirm-delete-dialog-message = Ko tembiapoite ndaikatúi emboguevi.
 confirm-delete-dialog-confirm-button = Mboguete
