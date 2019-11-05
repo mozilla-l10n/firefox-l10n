@@ -41,6 +41,19 @@ sentence. -->
 <!ENTITY  play.accesskey                      "P">
 <!ENTITY  systemSound.label                   "Sonido predeterminado para correo nuevo">
 <!ENTITY  systemSound.accesskey               "D">
+<!ENTITY  customsound.label                   "Usar el siguiente archivo de sonido">
+<!ENTITY  customsound.accesskey               "U">
+<!ENTITY  browse.label                        "Buscar…">
+<!ENTITY  browse.accesskey                    "B">
 
+<!ENTITY messageStyleTab.title             "Estilos de mensaje">
+<!ENTITY messageStylePreview.label         "Vista previa:">
 <!ENTITY messageStyleTheme.label           "Tema:">
+<!ENTITY messageStyleTheme.accesskey       "T">
+<!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
+<!ENTITY messageStyleBubblesTheme.label    "Burbujas">
+<!ENTITY messageStyleDarkTheme.label       "Oscuro">
+<!ENTITY messageStylePaperSheetsTheme.label "Hojas de papel">
+<!ENTITY messageStyleSimpleTheme.label     "Simple">
 <!ENTITY messageStyleDefaultTheme.label    "Predeterminado">
+<!ENTITY messageStyleVariant.label         "Variante:">
