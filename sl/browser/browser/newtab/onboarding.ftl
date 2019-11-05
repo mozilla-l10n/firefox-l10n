@@ -33,10 +33,20 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Vnesite veljaven e-poštni naslov
 onboarding-join-form-legal = Z nadaljevanjem se strinjate s <a data-l10n-name="terms">pogoji uporabe</a> in z <a data-l10n-name="privacy">obvestilom o zasebnosti</a>.
 onboarding-join-form-continue = Nadaljuj
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Že imate račun?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Prijavite se
 onboarding-start-browsing-button-label = Začnite z brskanjem
 onboarding-cards-dismiss =
     .title = Opusti
     .aria-label = Opusti
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Začnimo z raziskovanjem vsega, kar lahko storite.
+onboarding-fullpage-form-email =
+    .placeholder = Vaš e-poštni naslov …
 
 ## Firefox Sync modal dialog strings.
 
@@ -103,6 +113,7 @@ onboarding-data-sync-text2 = Sinhronizirajte zaznamke, gesla in druge podatke po
 onboarding-data-sync-button2 = Prijava v { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Bodite obveščeni o krajah podatkov
 onboarding-firefox-monitor-text = { -monitor-brand-name } spremlja, ali se je vaš e-poštni naslov pojavil v kraji podatkov, in vas obvesti v primeru novih kraj podatkov.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } spremlja, ali se je vaš e-poštni naslov pojavil v znani kraji podatkov, in vas obvesti v primeru novih kraj podatkov.
 onboarding-firefox-monitor-button = Prijavite se na opozorila
 onboarding-browse-privately-title = Brskajte zasebno
 onboarding-browse-privately-text = Zasebno brskanje izbriše zgodovino iskanja in brskanja, tako da ostaneta skriti vsem, ki uporabljajo vaš računalnik.

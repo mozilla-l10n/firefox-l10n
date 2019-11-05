@@ -72,10 +72,12 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = Iščete shranjene prijave? Nastavite { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = Ni najdenih sinhroniziranih prijav.
 login-intro-description = Če ste svoje prijave shranili v { -brand-product-name } v drugi napravi, jih lahko prenesete sem, tako da:
 login-intro-instruction-fxa = Ustvarite { -fxaccount-brand-name } ali se prijavite na napravi, kjer so shranjene vaše prijave
 login-intro-instruction-fxa-settings = Prepričajte se, da ste v Nastavitvah { -sync-brand-short-name }a označili polje Prijave
 about-logins-intro-instruction-help = Za dodatno pomoč obiščite <a data-l10n-name="help-link">Podporo { -lockwise-brand-short-name }</a>
+about-logins-intro-import = Če so vaše prijave shranjene v drugem brskalniku, jih lahko <a data-l10n-name="import-link">uvozite v { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -111,11 +113,8 @@ master-password-reload-button =
     .label = Prijava
     .accesskey = P
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Prekliči
-confirmation-dialog-dismiss-button =
-    .title = Prekliči
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Želite imeti svoje prijave povsod, kjer uporabljate { -brand-product-name }? Pojdite na Možnosti { -sync-brand-short-name }a in izberite polje Prijave.
@@ -128,6 +127,15 @@ enable-password-sync-preferences-button =
            *[other] Obišči nastavitve { -sync-brand-short-name }a
         }
     .accesskey = š
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Ne sprašuj več
+    .accesskey = N
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Prekliči
+confirmation-dialog-dismiss-button =
+    .title = Prekliči
 confirm-delete-dialog-title = Izbrišem to prijavo?
 confirm-delete-dialog-message = Tega dejanja ni mogoče razveljaviti.
 confirm-delete-dialog-confirm-button = Izbriši

@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = { -brand-short-name }u prepreči izvajanje razisk
 policy-DisableForgetButton = Prepreči dostop do gumba Pozabi.
 policy-DisableFormHistory = Ne shranjuj zgodovine iskanja in obrazcev.
 policy-DisableMasterPasswordCreation = Če je "true", glavnega gesla ni mogoče ustvariti.
+policy-DisablePasswordReveal = Ne dovoli razkrivanja gesel na seznamu shranjenih prijav.
 policy-DisablePocket = Onemogoči možnost shranjevanja spletnih strani v Pocket.
 policy-DisablePrivateBrowsing = Onemogoči zasebno brskanje.
 policy-DisableProfileImport = Onemogoči menijski ukaz Uvozi podatke drugega brskalnika.
@@ -61,6 +62,7 @@ policy-HardwareAcceleration = Če je "false", izklopi strojno pospeševanje.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Nastavi in po potrebi zakleni domačo stran.
 policy-InstallAddonsPermission = Določenim spletnim stranem dovoli nameščanje dodatkov.
+policy-LegacyProfiles = Onemogoči možnost ustvarjanja ločenega profila za vsako namestitev
 policy-LocalFileLinks = Določenim spletnim stranem dovoli povezovanje na krajevne datoteke.
 policy-NetworkPrediction = Omogoči ali onemogoči napovedovanje omrežja (vnaprejšnje pridobivanje DNS).
 policy-NewTabPage = Omogoči ali onemogoči stran novega zavihka.

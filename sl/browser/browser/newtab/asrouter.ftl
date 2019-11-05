@@ -82,6 +82,9 @@ cfr-protections-panel-link-text = Več o tem
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Novost:
 cfr-whatsnew-button =
     .label = Novosti
     .tooltiptext = Novosti
@@ -152,9 +155,26 @@ cfr-doorhanger-socialtracking-ok-button = Oglejte si zaščite
     .accesskey = g
 cfr-doorhanger-socialtracking-close-button = Zapri
     .accesskey = Z
+cfr-doorhanger-socialtracking-dont-show-again = Ne prikazuj več takšnih sporočil
+    .accesskey = N
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } je preprečil družbenemu omrežju, da bi vam tukaj sledilo
 cfr-doorhanger-socialtracking-description = Vaša zasebnost je pomembna. { -brand-short-name } zdaj zavrača običajne sledilce družbenih omrežij in omejuje, koliko podatkov lahko zberejo o tem, kar počnete na spletu.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } je na tej strani zavrnil sledilca prstnega odtisa brskalnika
 cfr-doorhanger-fingerprinters-description = Vaša zasebnost je pomembna. { -brand-short-name } sedaj zavrača sledilce prstnih odtisov, ki zbirajo edinstvene podatke o vaši napravi za vašo prepoznavo in sledenje.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } je na tej strani zavrnil kriptorudarja
 cfr-doorhanger-cryptominers-description = Vaša zasebnost je pomembna. { -brand-short-name } sedaj zavrača kriptorudarje, ki izkoriščajo zmogljivost vašega računalnika za rudarjenje digitalnega denarja.
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] { -brand-short-name } je od { $date } zavrnil več kot <b>{ $blockedCount }</b> sledilca!
+        [two] { -brand-short-name } je od { $date } zavrnil več kot <b>{ $blockedCount }</b> sledilca!
+        [few] { -brand-short-name } je od { $date } zavrnil več kot <b>{ $blockedCount }</b> sledilce!
+       *[other] { -brand-short-name } je od { $date } zavrnil več kot <b>{ $blockedCount }</b> sledilcev!
+    }
+cfr-doorhanger-milestone-ok-button = Prikaži vse
+    .accesskey = P

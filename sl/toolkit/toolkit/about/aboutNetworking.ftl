@@ -9,6 +9,7 @@ ok = V redu
 http = HTTP
 sockets = Vtičnice
 dns = DNS
+dnssuffix = Pripona DNS
 websockets = WebSockets
 refresh = Osveži
 auto-refresh = Samodejno osveži vsake 3 sekunde

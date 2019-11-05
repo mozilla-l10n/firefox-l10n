@@ -291,6 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Za to stran ste zavrnili uporabo MIDI.">
 <!ENTITY urlbar.installBlocked.tooltip           "Za to stran ste zavrnili namestitev dodatkov.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Pokaži zgodovino">
 
 <!ENTITY searchItem.title             "Iskanje">
@@ -945,6 +946,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Sledilna vsebina">
 <!ENTITY protections.fingerprinters.label "Sledilci prstnih odtisov">
 <!ENTITY protections.cryptominers.label "Kriptorudarji">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Naloženi so vsi sledilci na strani, ker so zaščite izklopljene.">
 <!ENTITY protections.noTrackersFound.description "&brandShortName; na strani ni zaznal znanih sledilcev.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Ti piškotki vas spremljajo po straneh in zbirajo podatke o tem, kaj počnete na spletu. Namestijo jih tretje strani, kot so oglaševalci in analitična podjetja.">

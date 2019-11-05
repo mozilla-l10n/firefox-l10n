@@ -86,13 +86,21 @@ manifest-item-icons = Ikone
 manifest-loading = Nalaganje manifesta …
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = Manifest naložen.
-# Text displayed when there has been an error while trying to load the manifest
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
 manifest-loaded-error = Pri nalaganju manifesta je prišlo do napake:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Ni najdenega manifesta za pregled.
 # Text displayed when the page has a manifest embedded in a Data URL and
 # thus we cannot link to it.
 manifest-json-link-data-url = Manifest je vdelan v podatkovni URL.
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = Namen: <code>{ $purpose }</code>
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Ikona
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Manifest
     .alt = Ikona manifesta
