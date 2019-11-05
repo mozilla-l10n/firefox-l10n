@@ -33,6 +33,7 @@ newtab-topsites-url-label = ୟୁଆର୍‌ଏଲ୍‌
 newtab-topsites-url-input =
     .placeholder = ଗୋଟିଏ ଯୁଆରଏଲ ଲେଖନ୍ତୁ କିମ୍ବା ଛାପନ୍ତୁ
 newtab-topsites-url-validation = ବୈଧ ଯୁଆରଏଲ ଆବଶ୍ୟକ
+newtab-topsites-image-url-label = ଇଚ୍ଛାରୁପି ଛବି ଯୁଆରଏଲ
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
@@ -41,9 +42,6 @@ newtab-topsites-delete-history-button = ପୁରୁଣା ତଥ୍ୟରୁ �
 newtab-topsites-save-button = ସଂରକ୍ଷଣ କରନ୍ତୁ
 newtab-topsites-preview-button = ପ୍ରାକଦର୍ଶନ
 newtab-topsites-add-button = ଯୋଗ କରନ୍ତୁ
-
-## Top Sites - Delete history confirmation dialog. 
-
 
 ## Top Sites - Delete history confirmation dialog.
 
@@ -79,14 +77,18 @@ newtab-menu-delete-history = ପୁରୁଣା ତଥ୍ୟରୁ ବାହା�
 newtab-menu-save-to-pocket = { -pocket-brand-name }ରେ ସଂରକ୍ଷଣ କରନ୍ତୁ
 newtab-menu-delete-pocket = { -pocket-brand-name }ରୁ ବିଲୋପ କରନ୍ତୁ
 newtab-menu-archive-pocket = { -pocket-brand-name }ରେ ସକ୍ରିୟ
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = ସମାପ୍ତ
+newtab-privacy-modal-header = ଆପଣଙ୍କର ଗୋପନୀୟତା ଜରୁରୀ ଅଟେ
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = ବୁକମାର୍କ କାଢ଼ିଦିଅନ୍ତୁ
 # Bookmark is a verb here.
 newtab-menu-bookmark = ଚିହ୍ନିତ ସ୍ଥାନ
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -116,10 +118,6 @@ newtab-label-removed-bookmark = ବୁକମାର୍କ କଢ଼ାଯାଇ�
 newtab-label-recommended = ଟ୍ରେଣ୍ଡିଂ
 newtab-label-saved = { -pocket-brand-name }ରେ ସଂରକ୍ଷିତ
 newtab-label-download = ଆହରଣ ହୋଇସାରିଛି
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -155,6 +153,7 @@ newtab-section-header-pocket = { $provider }ଦ୍ୱାରା ସୁପାର�
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = ଆପଣ ଧରି ପାରିଛନ୍ତି
 newtab-discovery-empty-section-topstories-content = ଅଧିକ କାହାଣୀପାଇଁ ପରେ ଦେଖନ୍ତୁ
 newtab-discovery-empty-section-topstories-try-again-button = ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ
 newtab-discovery-empty-section-topstories-loading = ଲୋଡ଼ ହେଉଛି...

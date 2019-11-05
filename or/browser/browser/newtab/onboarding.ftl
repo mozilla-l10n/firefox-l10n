@@ -20,16 +20,27 @@ onboarding-button-label-get-started = ଆରମ୍ଭ କରନ୍ତୁ
 
 onboarding-welcome-header = { -brand-short-name }କୁ ସ୍ୱାଗତ
 onboarding-welcome-learn-more = ସୁବିଧାଗୁଡ଼ିକ ବିଷୟରେ ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ
+onboarding-welcome-modal-supercharge-body = ଆପଣଙ୍କର ଗୋପନୀୟତା ସୁରକ୍ଷାକୁ ସମ୍ପୂର୍ଣ୍ଣ ଚାର୍ଜ କରନ୍ତୁ
+onboarding-welcome-form-header = ଏଠାରେ ଆରମ୍ଭ କରନ୍ତୁ
 onboarding-join-form-header = { -brand-product-name }ରେ ଯୋଗଦାନ କରନ୍ତୁ
 onboarding-join-form-body = ନିଜର ଇମେଲ ଠିକଣା ଏଠାରେ ଭରନ୍ତୁ
 onboarding-join-form-email =
     .placeholder = ଇମେଲ ଭରନ୍ତୁ
 onboarding-join-form-email-error = ବୈଧ ଇମେଲ ଆବଶ୍ୟକ
 onboarding-join-form-continue = ଆଗାନ୍ତୁ
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = ଖାତାଟିଏ ଆଗରୁ ଅଛି କି?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = ସାଇନ ଇନ
 onboarding-start-browsing-button-label = ବ୍ରାଉଜିଂ ଆରମ୍ଭ କରନ୍ତୁ
 onboarding-cards-dismiss =
     .title = ଖାରଜ କରିବା
     .aria-label = ଖାରଜ କରିବା
+
+## Welcome full page string
+
+onboarding-fullpage-form-email =
+    .placeholder = ଆପଣଙ୍କର ଇମେଲ ଠିକଣା...
 
 ## Firefox Sync modal dialog strings.
 
@@ -52,6 +63,9 @@ onboarding-sync-form-sub-header = { -sync-brand-name }ସହ ଆଗେଇବା�
 onboarding-benefit-products-title = ଆବଶ୍ୟକୀୟ ବସ୍ତୁଗୁଡ଼ିକ
 onboarding-benefit-knowledge-title = ବ୍ୟବହାରିକ ଜ୍ଞାନ
 onboarding-benefit-privacy-title = ସତ୍ୟ ଗୋପନୀୟତା
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
@@ -78,6 +92,7 @@ onboarding-mobile-phone-title = { -brand-product-name }କୁ ଆପଣଙ୍କ
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = ମୋବାଇଲ ବ୍ରାଉଜର ଡାଉନଲୋଡ଼ କରନ୍ତୁ
+onboarding-send-tabs-button = ସେଣ୍ଡ ଟ୍ୟାବ ବ୍ୟବହାର ଆରମ୍ଭ କରନ୍ତୁ
 onboarding-pocket-anywhere-title = ଯେକୌଣସିଠାରେ ପଢ଼ନ୍ତୁ ଏବଂ ଶୁଣନ୍ତୁ
 onboarding-pocket-anywhere-button = { -pocket-brand-name }କୁ ଚେଷ୍ଟା କରନ୍ତୁ
 onboarding-lockwise-passwords-title = ଆପଣଙ୍କର ପାସୱାର୍ଡ଼ ସବୁଆଡ଼େ ନିଅନ୍ତୁ
