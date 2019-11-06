@@ -148,6 +148,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Vumela
     .tooltiptext = Vumela uhlaziyo lwesongezelelo sokukhangela ukhuseleko
+extensions-warning-safe-mode = Zonke izongezelelo ziqhwalelisiwe ngemo ekhuselekileyo.
+extensions-warning-check-compatibility = Isongezelelo sokukhangela uhambelwanosiqhwalelisiwe. Usenokuba nezongezelelo ezingahambelaniyo.
+extensions-warning-check-compatibility-button = Vumela
+    .title = Vumela isongezelelo sokukhangela uhambelwano
+extensions-warning-update-security = Uhlaziyo lwesongezelelo sokukhangela ukhuseleko luqhwalelisiwe. Ungahlangatyezwa luhlaziyo.
+extensions-warning-update-security-button = Vumela
+    .title = Vumela uhlaziyo lwesongezelelo sokukhangela ukhuseleko
 
 ## Strings connected to add-on updates
 
