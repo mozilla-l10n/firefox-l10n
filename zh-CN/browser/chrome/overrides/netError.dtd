@@ -146,6 +146,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "已依内容安全策略拦截">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; 已依照该页面的内容安全策略阻止了它以这种方式载入。</p>">
 
+<!ENTITY xfoBlocked.title "因 X-Frame-Options 政策阻止">
+
 <!ENTITY corruptedContentErrorv2.title "内容损坏错误">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>由于检测到在数据传输过程中存在错误，无法显示您正要查看的页面。</p><ul><li>建议向此网站的管理员反馈这个问题。</li></ul>">
 
