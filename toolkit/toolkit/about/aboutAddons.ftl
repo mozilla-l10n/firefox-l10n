@@ -161,8 +161,11 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = చేతనపరచు
     .tooltiptext = పొడిగింత నవీకరణ రక్షణ పరిశీలనను చేతనముచేయి
+extensions-warning-safe-mode = అన్ని పొడిగింతలు సేఫ్ మోడ్ చేత అచేతనపరచబడినవి.
+extensions-warning-check-compatibility = పొడిగింత సారూప్యతా పరిశీలన అచేతనమైంది. మీరు సారూప్యతలేని పొడిగింతలు కలిగివుండవచ్చును.
 extensions-warning-check-compatibility-button = చేతనపరచు
     .title = పొడిగింత సారూప్యతా పరిశీలనను చేతనపరచు
+extensions-warning-update-security = పొడిగింత నవీకరణ రక్షణ పరిశీలన అచేతనమైంది. మీ జోక్యం లేకుండా నవీకరణలు జరుగవచ్చు.
 extensions-warning-update-security-button = చేతనపరచు
     .title = పొడిగింత నవీకరణ రక్షణ పరిశీలనను చేతనముచేయి
 
