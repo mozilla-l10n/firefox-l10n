@@ -239,6 +239,9 @@ addon-open-about-debugging = نقّح الإضافات
 manage-extensions-shortcuts =
     .label = أدِر اختصارات الامتدادات
     .accesskey = د
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = أدِر اختصارات الامتدادات
+    .accesskey = د
 shortcuts-no-addons = ليس لديك أيّ امتدادات مفعّلة.
 shortcuts-no-commands = لا اختصارات للامتدادات الآتية:
 shortcuts-input =
@@ -258,3 +261,10 @@ addon-detail-private-browsing-disallow = غير مسموح
 
 ## Page headings
 
+extension-heading = أدِر الامتدادات لديك
+theme-heading = أدِر السمات لديك
+plugin-heading = أدِر الملحقات لديك
+dictionary-heading = أدِر القواميس لديك
+locale-heading = أدِر اللغات لديك
+shortcuts-heading = أدِر اختصارات الامتدادات
+extension-heading-search-label = ابحث عن امتدادات أكثر
