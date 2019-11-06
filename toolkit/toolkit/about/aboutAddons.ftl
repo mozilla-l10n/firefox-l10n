@@ -263,6 +263,9 @@ addon-open-about-debugging = Gỡ lỗi tiện ích
 manage-extensions-shortcuts =
     .label = Quản lý phím tắt tiện ích mở rộng
     .accesskey = s
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Quản lý phím tắt tiện ích mở rộng
+    .accesskey = s
 shortcuts-no-addons = Bạn không có bất kỳ tiện ích mở rộng nào được kích hoạt.
 shortcuts-no-commands = Các tiện ích mở rộng sau không có phím tắt:
 shortcuts-input =
@@ -436,6 +439,7 @@ plugin-heading = Quản lí phần bổ trợ của bạn
 dictionary-heading = Quản lí từ điển của bạn
 locale-heading = Quản lí ngôn ngữ của bạn
 discover-heading = Cá nhân hóa { -brand-short-name } của bạn
+shortcuts-heading = Quản lý phím tắt tiện ích mở rộng
 theme-heading-search-label = Tìm thêm chủ đề
 extension-heading-search-label = Tìm thêm tiện ích
 addons-heading-search-input =
