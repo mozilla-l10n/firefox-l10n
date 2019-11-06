@@ -50,9 +50,6 @@ detail-rating =
     .value = Judizi
 addon-restart-now =
     .label = Torne a inviâ cumò
-extensions-view-discover =
-    .name = Cjate zontis
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Ultins inzornaments
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -83,12 +80,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Viôt i ultins inzornaments
     .accesskey = V
+addon-updates-check-for-updates = Cîr inzornaments
+    .accesskey = C
+addon-updates-view-updates = Viôt i ultins inzornaments
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Inzorne in automatic lis zontis
+    .accesskey = a
+addon-updates-update-addons-automatically = Inzorne in automatic lis zontis
     .accesskey = a
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -112,3 +115,27 @@ extensions-updates-none-found =
     .value = Nissun inzornament cjatât
 extensions-updates-manual-updates-found =
     .label = Viôt i inzornaments disponibii
+addon-updates-updating = Daûr a inzornâ lis zontis
+addon-updates-installed = Lis tôs zontis a son stadis inzornadis.
+addon-updates-none-found = Nissun inzornament cjatât
+addon-updates-manual-updates-found = Viôt i inzornaments disponibii
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = Sielç une zonte di instalâ
+addon-install-from-file-filter-name = Zontis
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
