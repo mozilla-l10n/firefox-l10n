@@ -255,6 +255,8 @@ addon-install-from-file = Įdiegti priedą iš failo…
     .accesskey = d
 addon-install-from-file-dialog-title = Parinkite norimą įdiegti priedą
 addon-install-from-file-filter-name = Add-ons
+addon-open-about-debugging = Derinti priedus
+    .accesskey = r
 
 ## Extension shortcut management
 
