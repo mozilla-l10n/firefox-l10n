@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Sa Krejt Ekrani
     .accesskey = E
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Shfaqini Krejt Skedat
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Raportoni Sajt të Rremë…
     .accesskey = m
+menu-help-not-deceptive =
+    .label = Ky s'është sajt i rremë…
+    .accesskey = r
