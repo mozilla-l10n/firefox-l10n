@@ -281,3 +281,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Tilkynna svindlsvæði…
     .accesskey = d
+menu-help-not-deceptive =
+    .label = Þetta er ekki svindlsvæði…
+    .accesskey = d
