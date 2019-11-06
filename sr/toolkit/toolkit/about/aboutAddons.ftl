@@ -193,6 +193,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Погледај недавна ажурирања
     .accesskey = н
+addon-updates-check-for-updates = Провери да ли постоје ажурирања
+    .accesskey = П
 addon-updates-view-updates = Погледај недавна ажурирања
     .accesskey = н
 
@@ -201,6 +203,8 @@ addon-updates-view-updates = Погледај недавна ажурирања
 
 extensions-updates-update-addons-automatically =
     .label = Аутоматски ажурирај додатке
+    .accesskey = А
+addon-updates-update-addons-automatically = Аутоматски ажурирај додатке
     .accesskey = А
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -215,6 +219,8 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = Све додатке мануелно надогради
     .accesskey = м
+addon-updates-reset-updates-to-automatic = Све додатке аутоматски ажурирај
+    .accesskey = С
 addon-updates-reset-updates-to-manual = Све додатке мануелно надогради
     .accesskey = м
 
@@ -235,6 +241,10 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Инсталирај ажурирања
     .tooltiptext = Инсталирајте доступна ажурирања са овог списка
+addon-updates-updating = Ажурирам додатке
+addon-updates-installed = Ваши додаци су ажурирани.
+addon-updates-none-found = Нема ажурирања
+addon-updates-manual-updates-found = Погледај доступна ажурирања
 
 ## Add-on install/debug strings for page options menu
 
