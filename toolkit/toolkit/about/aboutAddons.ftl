@@ -187,6 +187,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Включить
     .tooltiptext = Включить проверку безопасного обновления дополнений
+extensions-warning-safe-mode = В безопасном режиме все дополнения отключены.
+extensions-warning-check-compatibility = Проверка совместимости дополнений отключена. У вас могут иметься несовместимые дополнения.
+extensions-warning-check-compatibility-button = Включить
+    .title = Включить проверку совместимости дополнений
+extensions-warning-update-security = Проверка безопасного обновления дополнений отключена. Обновления могут поставить вас под угрозу.
+extensions-warning-update-security-button = Включить
+    .title = Включить проверку безопасного обновления дополнений
 
 ## Strings connected to add-on updates
 
