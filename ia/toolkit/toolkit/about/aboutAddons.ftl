@@ -196,12 +196,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Vider le actualisationes recente
     .accesskey = V
+addon-updates-check-for-updates = Cercar actualisationes
+    .accesskey = C
+addon-updates-view-updates = Vider le actualisationes recente
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Actualisar le additivos automaticamente
+    .accesskey = A
+addon-updates-update-addons-automatically = Actualisar le additivos automaticamente
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -234,9 +240,19 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installar le actualisationes
     .tooltiptext = Installar le actualisationes disponibile de iste lista
+addon-updates-updating = Actualisante additivos
+addon-updates-installed = Tu additivos ha essite actualisate.
+addon-updates-none-found = Nulle actualisationes trovate
+addon-updates-manual-updates-found = Vider le actualisationes disponibile
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Installar additivo ab un file…
+    .accesskey = I
+addon-install-from-file-dialog-title = Selige le additivo pro installar
+addon-install-from-file-filter-name = Additivos
+addon-open-about-debugging = Depurar le additivos
+    .accesskey = D
 
 ## Extension shortcut management
 
