@@ -200,6 +200,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Kürzlich durchgeführte Updates anzeigen
     .accesskey = K
+addon-updates-check-for-updates = Auf Updates überprüfen
+    .accesskey = A
 addon-updates-view-updates = Kürzlich durchgeführte Updates anzeigen
     .accesskey = K
 
