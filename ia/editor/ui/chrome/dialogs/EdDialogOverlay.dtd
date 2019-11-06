@@ -11,6 +11,8 @@
 <!ENTITY chooseFileLinkButton.accessKey "i">
 <!ENTITY makeUrlRelative.label "URL es relative al position del pagina">
 <!ENTITY makeUrlRelative.accessKey "r">
+<!ENTITY makeUrlRelative.tooltip "Cambiar tra URL relative e absolute. Il es necesse que le pagina ha essite salvate.">
 
 <!-- Shared by Link and Image dialogs -->
 <!ENTITY LinkURLEditField2.label "Insere un position de pagina web, un file local o selige un ancora con nomine o titulo del menu contextual del campo:">
+<!ENTITY LinkURLEditField2.accessKey "t">

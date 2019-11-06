@@ -5,6 +5,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label "Inserer expression mathematic">
 
+<!ENTITY sourceEditField.label "Insere le codice fonte LaTeX:">
 
 <!ENTITY options.label "Optiones">
 <!ENTITY optionInline.label "Modo connexe">

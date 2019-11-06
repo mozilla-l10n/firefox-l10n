@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Proprietates del lista de diffusion">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
+<!ENTITY abContextMenuButton.tooltip        "Monstrar menu contextual del libro de adresses">
 <!ENTITY addressbookPicker.label            "Libro del adresses:">
 <!ENTITY addressbookPicker.accesskey        "b">
 <!ENTITY searchContacts.label               "Cercar contactos:">
