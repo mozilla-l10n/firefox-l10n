@@ -202,6 +202,8 @@ addon-install-from-file = Instaliraj Add-on iz fajla…
     .accesskey = I
 addon-install-from-file-dialog-title = Izaberite add-on za instalaciju
 addon-install-from-file-filter-name = Add-oni
+addon-open-about-debugging = Debagiranje add-ona
+    .accesskey = b
 
 ## Extension shortcut management
 
