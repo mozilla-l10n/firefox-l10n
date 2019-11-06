@@ -131,6 +131,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = সামৰ্থবান কৰক
     .tooltiptext = এড-অন আপডেইট সুৰক্ষা নীৰিক্ষণ সামৰ্থবান কৰক
+extensions-warning-safe-mode = সকলো এড-অন সুৰক্ষিত অৱস্থা দ্বাৰা অসামৰ্থবান
+extensions-warning-check-compatibility = এড-অন খাপ খোৱা নীৰিক্ষণ অসামৰ্থবান কৰা আছে। আপোনাৰ খুব সম্ভব খাপ নোখোৱা এড-অনসমূহ আছে
+extensions-warning-check-compatibility-button = সামৰ্থবান কৰক
+    .title = এড-অন খাপ খোৱা নীৰিক্ষণ সামৰ্থবান কৰক
+extensions-warning-update-security = এড-অন আপডেইট সুৰক্ষা নীৰিক্ষণ অসামৰ্থবান কৰা আছে। আপুনি আপডেইটসমূহৰে আপোচ কৰিব লগিয়া হব পাৰে।
+extensions-warning-update-security-button = সামৰ্থবান কৰক
+    .title = এড-অন আপডেইট সুৰক্ষা নীৰিক্ষণ সামৰ্থবান কৰক
 
 ## Strings connected to add-on updates
 
