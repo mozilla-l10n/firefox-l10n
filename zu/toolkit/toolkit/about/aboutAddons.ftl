@@ -104,9 +104,6 @@ detail-rating =
     .value = Ukala
 addon-restart-now =
     .label = Qala kabusha manje
-extensions-view-discover =
-    .name = Thola okungezwayo
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Ukuvuselela kwamanje
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -181,3 +178,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Ifaka ukuvuselela
     .tooltiptext = Faka ukuvuselela okukhona kulolu hlu
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
