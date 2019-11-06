@@ -212,6 +212,8 @@ addon-install-from-file = Sinji tontoni tuku boŋ…
     .accesskey = i
 addon-install-from-file-dialog-title = Tontoni suuba k'a sinji
 addon-install-from-file-filter-name = Tontoney
+addon-open-about-debugging = Hanseyan tontoney
+    .accesskey = a
 
 ## Extension shortcut management
 
