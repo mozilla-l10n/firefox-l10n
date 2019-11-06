@@ -530,6 +530,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Zobrazovať návrhy vyhľadávania v paneli s adresou pred históriou prehliadania
+search-show-suggestions-private-windows =
+    .label = Zobrazovať návrhy vyhľadávania v súkromnom prehliadaní
 search-suggestions-cant-show = Návrhy vyhľadávania nebudú zobrazené vo výsledkoch panela s adresou, pretože ste { -brand-short-name } nastavili tak, aby si nepamätal históriu.
 search-one-click-header = Vyhľadávacie moduly na jedno kliknutie
 search-one-click-desc = Vyberte ďalšie vyhľadávacie moduly, ktoré sa zobrazia v ponuke panela s adresou a vyhľadávacieho panela.
@@ -651,6 +653,13 @@ sync-change-options =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Vyberte, čo chcete synchronizovať
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Uložiť zmeny
+    .buttonaccesskeyaccept = U
+    .buttonlabelextra2 = Odpojiť…
+    .buttonaccesskeyextra2 = O
 sync-engine-bookmarks =
     .label = Záložky
     .accesskey = Z
@@ -847,6 +856,7 @@ addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
 content-blocking-header = Blokovanie obsahu a ochrana pred sledovaním
 content-blocking-section-description = Chráňte svoje súkromie pri surfovaní na internete. Zablokujte neviditeľný obsah, ktorý vás sleduje na navštívených stránkach a tvorí profil vášho správania. Blokovanie takéhoto obsahu môže zrýchliť načítavanie stránok.
 content-blocking-enhanced-tracking-protection = Rozšírená ochrana pred sledovaním
+content-blocking-section-top-level-description = Sledovacie prvky zbierajú informácie o tom, čo na internete robíte. { -brand-short-name } blokuje množstvo takýchto prvkov a ďalších škodlivých skriptov.
 content-blocking-learn-more = Ďalšie informácie
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -881,7 +891,12 @@ enhanced-tracking-protection-setting-custom =
 
 
 
+content-blocking-etp-standard-desc = Vyvážená ochrana a výkon. Neovplyvní načítanie webových stránok.
 content-blocking-etp-strict-desc = Viac blokovaného obsahu zvyšuje pravdepodobnosť, že niektoré stránky nebudú správne fungovať.
+content-blocking-etp-custom-desc = Vyberte sledovacie prvky a skripty, ktoré chcete blokovať.
+content-blocking-private-windows = Sledovací obsah je blokovaní v súkromných oknách
+content-blocking-cross-site-tracking-cookies = Blokované sú sledovacie cookies
+content-blocking-social-media-trackers = Blokované sú sledovacie prvky sociálnych sietí
 content-blocking-all-cookies = Všetky cookies
 content-blocking-unvisited-cookies = Cookies z nenavštívených stránok
 content-blocking-all-windows-trackers = Známe sledovacie prvky sú blokované vždy

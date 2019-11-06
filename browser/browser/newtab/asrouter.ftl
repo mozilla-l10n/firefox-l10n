@@ -89,6 +89,9 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Čo je nové
 cfr-whatsnew-release-notes-link-text = Prečítajte si poznámky k vydaniu
 cfr-whatsnew-fx70-title = { -brand-short-name } tvrdo bojuje za vaše súkromie
+cfr-whatsnew-fx70-body =
+    Najnovšia aktualizácia vylepšuje ochranu pred sledovaním a zjednodušuje 
+    tvorbu bezpečných hesiel pre akúkoľvek stránku.
 cfr-whatsnew-tracking-protect-title = Chráňte sa pred sledovacími prvkami
 cfr-whatsnew-tracking-protect-link-text = Podrobnosti
 cfr-whatsnew-tracking-blocked-subtitle = Od { DATETIME($earliestDate, month: "long", year: "numeric") }
