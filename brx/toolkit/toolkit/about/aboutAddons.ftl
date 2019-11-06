@@ -288,3 +288,5 @@ release-notes-error = निमाहा, नाथाय ओंखारना�
 
 ## Page headings
 
+addons-heading-search-input =
+    .placeholder = नागिर addons.mozilla.org
