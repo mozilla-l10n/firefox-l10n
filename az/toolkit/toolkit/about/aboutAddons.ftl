@@ -167,7 +167,11 @@ extensions-warning-update-security-enable =
     .tooltiptext = Əlavə yeniləmə təhlükəsizliyinə  nəzarəti aktivləşdir
 extensions-warning-safe-mode = Bütün əlavələr təhlükəsizlik rejimdə söndürüldü.
 extensions-warning-check-compatibility = Əlavə uyğunluq nəzarəti söndürülüb. Uyğun olmayan əlavələriniz ola bilər.
+extensions-warning-check-compatibility-button = Aktiv et
+    .title = Əlavə uyğunluq nəzarətini aktivləşdir
 extensions-warning-update-security = Əlavə yeniləmə təhlükəsizliyinə  nəzarəti söndürülüb. Yeniləmələr təhlükəli ola bilər.
+extensions-warning-update-security-button = Aktiv et
+    .title = Əlavə yeniləmə təhlükəsizliyinə  nəzarəti aktivləşdir
 
 ## Strings connected to add-on updates
 
