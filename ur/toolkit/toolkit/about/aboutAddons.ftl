@@ -227,6 +227,8 @@ addon-install-from-file = ایڈ اون مسل سے تنصیب کریں...
     .accesskey = ت
 addon-install-from-file-dialog-title = تنصیب کرنے کے لیے ایڈ اون منتخب کریں
 addon-install-from-file-filter-name = ایڈ اون
+addon-open-about-debugging = ایڈز آن ازالہ کرے
+    .accesskey = b
 
 ## Extension shortcut management
 
