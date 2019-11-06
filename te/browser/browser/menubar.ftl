@@ -278,3 +278,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = మోసపూరిత సైట్ ను నివేదించండి…
     .accesskey = D
+menu-help-not-deceptive =
+    .label = ఇది ఒక మోసపూరిత సైట్ కాదు...
+    .accesskey = d
