@@ -113,8 +113,24 @@ extensions-updates-updating =
 extensions-updates-manual-updates-found =
     .label = ເບິ່ງການອັບເດດທີ່ມີຢູ່
 
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = ຕິດຕັ້ງ Add-ons ຈາກໄຟລ໌…
+    .accesskey = I
+addon-open-about-debugging = ດີບັກ Add-on
+    .accesskey = B
+
 ## Extension shortcut management
 
 
+## Recommended add-ons page
+
+
 ## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
 
