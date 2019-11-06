@@ -262,6 +262,9 @@ addon-open-about-debugging = Emopotĩ Moĩmbahakuéra
 manage-extensions-shortcuts =
     .label = Eñangareko jepysokue jeike pya’eha rehe
     .accesskey = S
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Eñangareko jepysokue jeike pya’eha rehe
+    .accesskey = S
 shortcuts-no-addons = Ndoguerekói jepysokue ijurujáva.
 shortcuts-no-commands = Ko’ã jepysokue ndoguerekói jeike pya’eha:
 shortcuts-input =
@@ -423,3 +426,14 @@ recommended-theme-1 = ¿Emoheñoisépa? <a data-l10n-name="link">Emoheñoi ne te
 
 ## Page headings
 
+extension-heading = Emongu’e nde jepysokue
+theme-heading = Emongu’e nde téma
+plugin-heading = Emongu’e nde mboguejyrã’i
+dictionary-heading = Emongu’e ne ñe’ẽryrukuéra
+locale-heading = Emongu’e ne ñe’ẽnguéra
+discover-heading = Emomba'e nde { -brand-short-name }
+shortcuts-heading = Eñangareko jepysokue jeike pya’eháre
+theme-heading-search-label = Ejuhuvéta téma
+extension-heading-search-label = Ejuhuvéta jepysokue
+addons-heading-search-input =
+    .placeholder = Eheka addons.mozilla.org
