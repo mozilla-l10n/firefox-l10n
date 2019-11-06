@@ -43,6 +43,9 @@ detail-version =
 ## Status messages displayed when updating add-ons
 
 
+## Add-on install/debug strings for page options menu
+
+
 ## Extension shortcut management
 
 
@@ -67,3 +70,8 @@ addon-detail-version-label = Tilax ivatz
 ## Pending uninstall message bar
 
 addon-detail-updates-radio-default = A' chite' at kan
+
+## Page headings
+
+theme-heading = Nuk' unq'a kame'
+locale-heading = Nuk' unq'a va yolb'ale'
