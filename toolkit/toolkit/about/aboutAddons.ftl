@@ -233,6 +233,8 @@ addon-install-from-file = ફાઇલમાંથી ઍડ-ઓનને સ્
     .accesskey = I
 addon-install-from-file-dialog-title = સ્થાપિત કરવા માટે ઍડ-ઓનને પસંદ કરો
 addon-install-from-file-filter-name = ઍડ-ઓન
+addon-open-about-debugging = ઍડ-ઑન્સ ડીબગ કરો
+    .accesskey = B
 
 ## Extension shortcut management
 
