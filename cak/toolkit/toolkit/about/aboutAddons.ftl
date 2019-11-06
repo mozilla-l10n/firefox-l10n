@@ -263,6 +263,9 @@ addon-open-about-debugging = Kechojmirisäx taq tz'aqat
 manage-extensions-shortcuts =
     .label = Kenuk'samajïx Kichojokem taq K'amal
     .accesskey = i
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Kenuk'samajïx Kichojokem taq K'amal
+    .accesskey = i
 shortcuts-no-addons = Majun ak'amal atzijon.
 shortcuts-no-commands = Re taq k'amal re' majun ruq'a' rokem pitz'b'äl:
 shortcuts-input =
@@ -427,3 +430,14 @@ recommended-theme-1 = ¿La at na'owinäq? <a data-l10n-name="link">Tatz'uku' awa
 
 ## Page headings
 
+extension-heading = Ke'anuk'samajij ri taq ak'amal
+theme-heading = Ke'anuk'samajij ri taq awachinel
+plugin-heading = Ke'anuk'samajij ri taq anak'ab'al
+dictionary-heading = Ke'anuk'samajij ri taq asoltzij
+locale-heading = Ke'anuk'samajij ri taq ach'ab'äl
+discover-heading = Tawichinaj { -brand-short-name }
+shortcuts-heading = Kenuk'samajïx Kichojokem taq K'amal
+theme-heading-search-label = Ke'ilitäj ch'aqa' chik taq wachinel
+extension-heading-search-label = Ke'ilitäj ch'aqa' chik taq k'amal
+addons-heading-search-input =
+    .placeholder = Tikanöx addons.mozilla.org
