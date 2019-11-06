@@ -184,6 +184,9 @@ addon-updates-manual-updates-found = উপলব্ধ আপডেইটসম
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = ফাইলৰ পৰা এড-অন ইনস্টল কৰক…
+    .accesskey = I
+addon-install-from-file-dialog-title = ইনস্টল কৰিবলে এড-অন বাছক
 addon-install-from-file-filter-name = এড-অনসমূহ
 
 ## Extension shortcut management
