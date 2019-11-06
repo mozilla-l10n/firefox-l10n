@@ -196,6 +196,10 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Vis nyleg oppdaterte
     .accesskey = V
+addon-updates-check-for-updates = Sjå etter oppdateringar no
+    .accesskey = S
+addon-updates-view-updates = Vis nyleg oppdaterte
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -234,6 +238,11 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installer oppdateringane
     .tooltiptext = Installer tilgjengelege oppdateringar i denne lista
+addon-updates-none-found = Fann ingen oppdateringar
+addon-updates-manual-updates-found = Vis tilgjengelege oppdateringar
+
+## Add-on install/debug strings for page options menu
+
 
 ## Extension shortcut management
 
@@ -405,3 +414,6 @@ recommended-themes-heading = Tilrådde tema
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Er du i det kreative hjørnet? <a data-l10n-name="link">Bygg ditt eige tema med Firefox Color.</a>
+
+## Page headings
+
