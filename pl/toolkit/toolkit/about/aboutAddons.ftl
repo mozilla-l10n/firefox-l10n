@@ -414,3 +414,10 @@ recommended-theme-1 = Masz ochotę coś stworzyć? <a data-l10n-name="link">Utw�
 
 ## Page headings
 
+extension-heading = Zarządzanie rozszerzeniami
+theme-heading = Zarządzanie motywami
+plugin-heading = Zarządzanie wtyczkami
+dictionary-heading = Zarządzanie słownikami
+locale-heading = Zarządzanie pakietami językowymi
+theme-heading-search-label = Wyszukaj więcej motywów
+extension-heading-search-label = Wyszukaj więcej rozszerzeń
