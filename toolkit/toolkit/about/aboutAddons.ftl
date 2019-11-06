@@ -433,9 +433,14 @@ recommended-theme-1 = ¿Te sientes creativo? <a data-l10n-name="link"> Crea tu p
 
 ## Page headings
 
+extension-heading = Administra tus complementos
+theme-heading = Administra tus temas
+plugin-heading = Administra tus plugins
 dictionary-heading = Administrar diccionarios
+locale-heading = Administra tus idiomas
 discover-heading = Personaliza tu { -brand-short-name }
 shortcuts-heading = Administrar atajos de extensiones
 theme-heading-search-label = Buscar más temas
+extension-heading-search-label = Encontrar más extensiones
 addons-heading-search-input =
     .placeholder = Buscar en addons.mozilla.org
