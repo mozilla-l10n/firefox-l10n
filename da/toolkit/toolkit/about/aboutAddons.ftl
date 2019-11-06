@@ -200,6 +200,7 @@ extensions-warning-safe-mode = Alle tilføjelser er blevet deaktiveret i fejlsik
 extensions-warning-check-compatibility = Kompatibilitetstjek for tilføjelser er deaktiverert. Du kan have inkompatible tilføjelser.
 extensions-warning-check-compatibility-button = Aktiver
     .title = Aktiver kompatibilitetstjek for tilføjelser
+extensions-warning-update-security = Sikkerhedstjek ved opdatering af tilføjelser er deaktiveret. Du kan blive kompromiteret ved opdateringer.
 extensions-warning-update-security-button = Aktiver
     .title = Aktiver sikkerhedstjek ved opdatering af tilføjelser
 
