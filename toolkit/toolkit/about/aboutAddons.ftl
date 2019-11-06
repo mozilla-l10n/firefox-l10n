@@ -435,6 +435,7 @@ plugin-heading = Yan uygulamarınızı yönetin
 dictionary-heading = Sözlüklerinizi yönetin
 locale-heading = Dillerinizi yönetin
 discover-heading = { -brand-short-name } tarayıcınızı kişiselleştirin
+shortcuts-heading = Eklenti kısayollarını yönet
 theme-heading-search-label = Daha fazla tema bul
 extension-heading-search-label = Daha fazla eklenti bul
 addons-heading-search-input =
