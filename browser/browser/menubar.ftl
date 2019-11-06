@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = სრული ეკრანი
     .accesskey = ს
 
-
+##
 
 menu-view-show-all-tabs =
     .label = ყველა ჩანართის ჩვენება
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = მოხსენება თაღლითურ საიტზე…
     .accesskey = თ
+menu-help-not-deceptive =
+    .label = ეს თაღლითური საიტი არაა…
+    .accesskey = ე
