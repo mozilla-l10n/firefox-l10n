@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Plen schermo
     .accesskey = P
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Monstrar tote le schedas
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Denunciar un sito fraudulente…
     .accesskey = D
+menu-help-not-deceptive =
+    .label = Iste sito non es fraudulente…
+    .accesskey = d
