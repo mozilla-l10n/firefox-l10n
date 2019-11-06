@@ -165,6 +165,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = فعّل
     .tooltiptext = فعّل التحقق من أمن تحديثات الإضافات
+extensions-warning-safe-mode = النمط الآمن عطّل جميع الإضافات.
+extensions-warning-check-compatibility = التحقق من توافقية الإضافات قد عُطّل. قد يكون لديك إضافات غير متوافقة.
+extensions-warning-check-compatibility-button = فعّل
+    .title = فعّل التحقق من توافقية الإضافات
+extensions-warning-update-security = التحقق من أمن التحديثات قد عُطّل. قد تشكل التهديدات عليك خطرًا.
+extensions-warning-update-security-button = فعّل
+    .title = فعّل التحقق من أمن تحديثات الإضافات
 
 ## Strings connected to add-on updates
 
