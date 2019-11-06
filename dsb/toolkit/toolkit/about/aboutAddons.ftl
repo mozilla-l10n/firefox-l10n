@@ -195,12 +195,16 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Nowe aktualizacije se woglědaś
     .accesskey = N
+addon-updates-check-for-updates = Za aktualizacijami pytaś
+    .accesskey = a
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Dodanki awtomatiski aktualizěrowaś
+    .accesskey = D
+addon-updates-update-addons-automatically = Dodanki awtomatiski aktualizěrowaś
     .accesskey = D
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -214,6 +218,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = z
 extensions-updates-reset-updates-to-manual =
     .label = Wšykne dodanki manuelnje aktualizěrowaś
+    .accesskey = m
+addon-updates-reset-updates-to-automatic = Wšykne dodanki zasej awtomatiski aktualizěrowaś
+    .accesskey = z
+addon-updates-reset-updates-to-manual = Wšykne dodanki manuelnje aktualizěrowaś
     .accesskey = m
 
 ## Status messages displayed when updating add-ons
@@ -233,6 +241,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Aktualizacije instalěrowaś
     .tooltiptext = K dispoziciji stojece aktualizacije z lisćiny instalěrowaś
+addon-updates-updating = Aktualizěrowanje dodankow
+addon-updates-installed = Waše dodanki su se zaktualizěrowali.
+addon-updates-none-found = Žedne aktualizacije namakane
+addon-updates-manual-updates-found = K dispoziciji stojece aktualizacije se woglědaś
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Dodank z dataje instalěrowaś…
+    .accesskey = D
+addon-install-from-file-dialog-title = Dodank za instalaciju wubraś
+addon-install-from-file-filter-name = Dodanki
 
 ## Extension shortcut management
 
@@ -401,3 +420,6 @@ recommended-themes-heading = Dopórucone drastwy
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Cujośo se kreatiwny? <a data-l10n-name="link">Napórajśo swójsku drastwu z Firefox Color.</a>
+
+## Page headings
+
