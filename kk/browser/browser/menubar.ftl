@@ -281,3 +281,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Фишингті сайт туралы хабарлау…
     .accesskey = Ф
+menu-help-not-deceptive =
+    .label = Бұл фишингті сайт емес…
+    .accesskey = ш
