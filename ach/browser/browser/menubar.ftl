@@ -278,3 +278,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Mi ripot i kom kakube me bwola…
     .accesskey = b
+menu-help-not-deceptive =
+    .label = Man pe kakube me bwola…
+    .accesskey = b
