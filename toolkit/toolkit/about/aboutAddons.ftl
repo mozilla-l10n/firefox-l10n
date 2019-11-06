@@ -263,6 +263,9 @@ addon-open-about-debugging = Kiegészítők hibakeresése
 manage-extensions-shortcuts =
     .label = Kiegészítő-gyorsbillentyűk kezelése
     .accesskey = o
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Kiegészítő-gyorsbillentyűk kezelése
+    .accesskey = o
 shortcuts-no-addons = Egyetlen kiegészítő sincs engedélyezve.
 shortcuts-no-commands = A következő kiegészítők nem rendelkeznek gyorsbillentyűvel:
 shortcuts-input =
@@ -433,3 +436,14 @@ recommended-theme-1 = Kreatívnak érzi magát? <a data-l10n-name="link">Állít
 
 ## Page headings
 
+extension-heading = Kiegészítők kezelése
+theme-heading = Témák kezelése
+plugin-heading = Bővítmények kezelése
+dictionary-heading = Szótárak kezelése
+locale-heading = Nyelvek kezelése
+discover-heading = A { -brand-short-name } testreszabása
+shortcuts-heading = Kiegészítő-gyorsbillentyűk kezelése
+theme-heading-search-label = További témák keresése
+extension-heading-search-label = További kiegészítők keresése
+addons-heading-search-input =
+    .placeholder = Keresés itt: addons.mozilla.org
