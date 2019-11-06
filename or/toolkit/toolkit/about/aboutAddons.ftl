@@ -104,9 +104,6 @@ detail-rating =
     .value = ମୂଲ୍ୟାଙ୍କନ
 addon-restart-now =
     .label = ବର୍ତ୍ତମାନ ପୁନଃଚାଳନ କରନ୍ତୁ
-extensions-view-discover =
-    .name = ଏଡ-ଅନଗୁଡ଼ିକୁ ଗ୍ରହଣ କରନ୍ତୁ
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = ନିକଟର ଅପଡେଟଗୁଡ଼ିକ
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -181,3 +178,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ଥାପନ କରନ୍ତୁ
     .tooltiptext = ଏହି ତାଲିକାରେ ଉପଲବ୍ଧ ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ଥାପନ କରନ୍ତୁ
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
