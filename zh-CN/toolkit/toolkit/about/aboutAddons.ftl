@@ -184,6 +184,12 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = 启用
     .tooltiptext = 启用附加组件安全更新检查
+extensions-warning-check-compatibility = 附加组件兼容性检查已禁用。您可能有不兼容的附加组件。
+extensions-warning-check-compatibility-button = 启用
+    .title = 启用附加组件兼容性检查
+extensions-warning-update-security = 附加组件更新安全检查已被禁用。您可能会受到更新带来的安全威胁。
+extensions-warning-update-security-button = 启用
+    .title = 启用附加组件安全更新检查
 
 ## Strings connected to add-on updates
 
