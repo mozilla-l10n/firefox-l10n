@@ -264,6 +264,9 @@ addon-open-about-debugging = Dodatki za razhroščevanje
 manage-extensions-shortcuts =
     .label = Upravljanje bližnjic razširitev
     .accesskey = b
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Upravljanje bližnjic razširitev
+    .accesskey = b
 shortcuts-no-addons = Nimate omogočenih razširitev.
 shortcuts-no-commands = Naslednje razširitve nimajo dodeljenih bližnjic:
 shortcuts-input =
@@ -442,6 +445,7 @@ theme-heading = Upravljanje tem
 plugin-heading = Upravljanje vtičnikov
 dictionary-heading = Upravljanje slovarjev
 locale-heading = Upravljanje jezikov
+discover-heading = Prilagodite svoj { -brand-short-name }
 shortcuts-heading = Upravljanje bližnjic razširitev
 theme-heading-search-label = Poišči več tem
 extension-heading-search-label = Poišči več razširitev
