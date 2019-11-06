@@ -257,6 +257,8 @@ addon-install-from-file = Installer un module depuis un fichier…
     .accesskey = I
 addon-install-from-file-dialog-title = Sélectionner un module à installer
 addon-install-from-file-filter-name = Modules complémentaires
+addon-open-about-debugging = Déboguer des modules
+    .accesskey = b
 
 ## Extension shortcut management
 
