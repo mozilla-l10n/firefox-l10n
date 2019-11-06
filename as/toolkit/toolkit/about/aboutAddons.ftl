@@ -178,9 +178,13 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = আপডেইটসমূহ ইনস্টল কৰক
     .tooltiptext = এই তালিকাত থকা উপলব্ধ আপডেইটসমূহ ইনস্টল কৰক
+addon-updates-installed = আপোনাৰ এড-অনসমূহ আপডেইট কৰা হল।
+addon-updates-none-found = কোনো আপডেইট পোৱা নগল
+addon-updates-manual-updates-found = উপলব্ধ আপডেইটসমূহ দৰ্শন কৰক
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file-filter-name = এড-অনসমূহ
 
 ## Extension shortcut management
 
