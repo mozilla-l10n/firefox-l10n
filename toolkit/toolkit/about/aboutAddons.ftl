@@ -193,6 +193,10 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Vezi actualizările recente
     .accesskey = V
+addon-updates-check-for-updates = Caută actualizări
+    .accesskey = C
+addon-updates-view-updates = Vezi actualizările recente
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -231,6 +235,13 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalează actualizările
     .tooltiptext = Instalează actualizările disponibile în această listă
+addon-updates-updating = Se actualizează suplimentele
+addon-updates-none-found = Nicio actualizare găsită
+addon-updates-manual-updates-found = Vezi actualizările disponibile
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-filter-name = Suplimente
 
 ## Extension shortcut management
 
@@ -390,3 +401,6 @@ recommended-themes-heading = Teme recomandate
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Te simți creativ? <a data-l10n-name="link">Construiește-ți propria temă cu Firefox Color.</a>
+
+## Page headings
+
