@@ -278,3 +278,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = အတုအယောင်ဝဘ်ဆိုက်ကို သတင်းပို့ပါ…
     .accesskey = d
+menu-help-not-deceptive =
+    .label = အတုအယောင်ဝဘ်ဆိုက် မဟုတ်ပါ…
+    .accesskey = d
