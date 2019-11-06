@@ -180,6 +180,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Dugi'iaj sun' man
     .tooltiptext = Nachrun sa dugumîn si hua hue'ê nej sa nahuin nakà riña aga' nan
+extensions-warning-safe-mode = Giyichin' hue'ê daran' nej komplemênto.
+extensions-warning-check-compatibility = Nej sa natsij nej komplemênto nitaj si 'iaj sun. Ga'ue ginu komplemênto nitaj si ara' ngà aga' nan.
+extensions-warning-check-compatibility-button = Dugi'iaj sun' man
+    .title = Nachrun sa natsij si aran' nej komplemênto ngà nej aga' nan
+extensions-warning-update-security = Giyichin' sa natsij si hua nïn 'iaj sun nej komplemênto. Ga'ue ni nahuin nakà 'ngo sa nu garan' ruhuât.
+extensions-warning-update-security-button = Dugi'iaj sun' man
+    .title = Nachrun sa dugumîn si hua hue'ê nej sa nahuin nakà riña aga' nan
 
 ## Strings connected to add-on updates
 
