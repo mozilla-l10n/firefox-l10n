@@ -258,6 +258,9 @@ addon-open-about-debugging = Araztu gehigarriak
 manage-extensions-shortcuts =
     .label = Kudeatu hedapenen lasterbideak
     .accesskey = K
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Kudeatu hedapenen lasterbideak
+    .accesskey = K
 shortcuts-no-addons = Ez daukazu hedapenik gaituta.
 shortcuts-no-commands = Ondorengo hedapenek ez dute lasterbiderik:
 shortcuts-input =
@@ -419,3 +422,14 @@ recommended-theme-1 = Sortzaile izan nahi? <a data-l10n-name="link">Egizu zure i
 
 ## Page headings
 
+extension-heading = Kudeatu zure hedapenak
+theme-heading = Kudeatu zure itxurak
+plugin-heading = Kudeatu zure pluginak
+dictionary-heading = Kudeatu zure hiztegiak
+locale-heading = Kudeatu zure hizkuntzak
+discover-heading = Pertsonalizatu zure { -brand-short-name }
+shortcuts-heading = Kudeatu hedapenen lasterbideak
+theme-heading-search-label = Bilatu itxura gehiago
+extension-heading-search-label = Bilatu hedapen gehiago
+addons-heading-search-input =
+    .placeholder = Bilatu addons.mozilla.org gunean
