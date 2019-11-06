@@ -187,6 +187,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Engedélyezés
     .tooltiptext = Kiegészítők frissítésekor a biztonsági ellenőrzés engedélyezése
+extensions-warning-safe-mode = Minden kiegészítő tiltva van a csökkentett mód miatt.
+extensions-warning-check-compatibility = A kiegészítők kompatibilitásának vizsgálata tiltva van. Előfordulhat, hogy nem kompatibilis kiegészítői vannak.
+extensions-warning-check-compatibility-button = Engedélyezés
+    .title = Kiegészítők kompatibilitási ellenőrzésének engedélyezése
+extensions-warning-update-security = A kiegészítők biztonsági vizsgálata tiltva van. A frissítések biztonsági kockázatot hordoznak.
+extensions-warning-update-security-button = Engedélyezés
+    .title = Kiegészítők frissítésekor a biztonsági ellenőrzés engedélyezése
 
 ## Strings connected to add-on updates
 
