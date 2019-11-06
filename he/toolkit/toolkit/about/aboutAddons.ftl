@@ -245,6 +245,7 @@ addon-updates-none-found = לא נמצאו עדכונים
 
 addon-install-from-file = התקנת תוספת מקובץ…
     .accesskey = ה
+addon-install-from-file-dialog-title = בחירת תוספת להתקנה
 addon-install-from-file-filter-name = תוספות
 
 ## Extension shortcut management
