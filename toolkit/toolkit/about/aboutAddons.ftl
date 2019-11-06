@@ -187,6 +187,8 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Ativar
     .tooltiptext = Ativar verificação de segurança de atualização do extra
+extensions-warning-check-compatibility-button = Ativar
+    .title = Ativar verificação de compatibilidade de extras
 
 ## Strings connected to add-on updates
 
