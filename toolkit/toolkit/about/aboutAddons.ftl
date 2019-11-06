@@ -236,6 +236,11 @@ extensions-updates-update-selected =
     .label = Namesti posodobitve
     .tooltiptext = Namesti posodobitve, ki so na voljo v seznamu
 
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = Izberite dodatek za namestitev
+addon-install-from-file-filter-name = Dodatki
+
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
@@ -411,3 +416,6 @@ recommended-themes-heading = Priporočene teme
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Ste ustvarjalno razpoloženi? <a data-l10n-name="link">Ustvarite lastno temo s Firefox Colorjem.</a>
+
+## Page headings
+
