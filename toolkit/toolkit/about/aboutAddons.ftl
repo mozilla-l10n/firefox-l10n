@@ -227,7 +227,12 @@ addon-updates-manual-updates-found = اعرض التحديثات المتاحة
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = نصّب إضافة من ملف…
+    .accesskey = ن
+addon-install-from-file-dialog-title = اختر إضافة لتنصيبها
 addon-install-from-file-filter-name = الإضافات
+addon-open-about-debugging = نقّح الإضافات
+    .accesskey = ن
 
 ## Extension shortcut management
 
