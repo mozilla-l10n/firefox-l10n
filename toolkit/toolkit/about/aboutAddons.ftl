@@ -196,12 +196,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Ver actualizaciones recientes
     .accesskey = V
+addon-updates-check-for-updates = Buscar actualizaciones
+    .accesskey = c
+addon-updates-view-updates = Ver actualizaciones recientes
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Actualizar los complementos automáticamente
+    .accesskey = A
+addon-updates-update-addons-automatically = Actualizar los complementos automáticamente
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -215,6 +221,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = Restablecer todos los complementos para actualizar manualmente
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = Restablecer todos los complementos para actualizar automáticamente
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Restablecer todos los complementos para actualizar manualmente
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -234,6 +244,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalar actualizaciones
     .tooltiptext = Instalar actualizaciones disponibles en esta lista
+addon-updates-updating = Actualizando complementos
+addon-updates-installed = Tus complementos han sido actualizados.
+addon-updates-none-found = No se encontraron actualizaciones
+addon-updates-manual-updates-found = Ver actualizaciones disponibles
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Instalar complemento desde archivo…
+    .accesskey = I
+addon-install-from-file-dialog-title = Seleccionar este complemento para instalar
+addon-install-from-file-filter-name = Complementos
 
 ## Extension shortcut management
 
@@ -404,3 +425,6 @@ recommended-themes-heading = Temas recomendados
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = ¿Te sientes creativo? <a data-l10n-name="link"> Crea tu propio tema con Firefox Color. </a>
+
+## Page headings
+
