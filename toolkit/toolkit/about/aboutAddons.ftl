@@ -207,6 +207,8 @@ addon-updates-view-updates = Пабачыць нядаўнія абнаўлен�
 extensions-updates-update-addons-automatically =
     .label = Аўтаматычна абнаўляць дадаткі
     .accesskey = А
+addon-updates-update-addons-automatically = Аўтаматычна абнаўляць дадаткі
+    .accesskey = А
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
