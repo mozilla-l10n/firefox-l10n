@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Połna wobrazowka
     .accesskey = P
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Wšě rajtarki pokazać
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Wobšudne sydło zdźělić…
     .accesskey = b
+menu-help-not-deceptive =
+    .label = To wobšudne sydło njeje…
+    .accesskey = d
