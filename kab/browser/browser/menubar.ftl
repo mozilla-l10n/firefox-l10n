@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Agdil Ačaran
     .accesskey = A
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Sken akk accaren
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Mmel-aɣ-d asmel ur nemɛin ara…
     .accesskey = m
+menu-help-not-deceptive =
+    .label = Mačči d asmel web n ukellex…
+    .accesskey = d
