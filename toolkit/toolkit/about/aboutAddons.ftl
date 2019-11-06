@@ -189,10 +189,16 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = अद्यतन संस्थापित  करू
     .tooltiptext = ई सूची मे उपलब्ध अद्यतन संस्थापित  करू
+addon-updates-updating = सहयुक्ति अद्यतन कए रहल अछि
+addon-updates-installed = अहाँक सहयुक्ति अद्यतन कएल जाए चुकल अछि.
+addon-updates-none-found = कोनो अद्यतन नहि भेटल
 addon-updates-manual-updates-found = उपलब्ध अद्यतन देखू
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = फाइल सँ सहयुक्ति संस्थापित करू …
+    .accesskey = I
+addon-install-from-file-dialog-title = संस्थापित करब क लेल सहयुक्ति चुनू
 addon-install-from-file-filter-name = सहयुक्तियाँ
 
 ## Extension shortcut management
