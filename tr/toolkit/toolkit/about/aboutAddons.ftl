@@ -196,6 +196,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = En son güncellemelere bak
     .accesskey = b
+addon-updates-check-for-updates = Güncellemeleri denetle
+    .accesskey = G
 addon-updates-view-updates = En son güncellemelere bak
     .accesskey = b
 
@@ -204,6 +206,8 @@ addon-updates-view-updates = En son güncellemelere bak
 
 extensions-updates-update-addons-automatically =
     .label = Eklentileri kendiliğinden güncelle
+    .accesskey = n
+addon-updates-update-addons-automatically = Eklentileri kendiliğinden güncelle
     .accesskey = n
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -217,6 +221,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = a
 extensions-updates-reset-updates-to-manual =
     .label = Tüm eklentileri elle güncellenecek şekilde ayarla
+    .accesskey = a
+addon-updates-reset-updates-to-automatic = Tüm eklentileri kendiliğinden güncellenecek şekilde ayarla
+    .accesskey = a
+addon-updates-reset-updates-to-manual = Tüm eklentileri elle güncellenecek şekilde ayarla
     .accesskey = a
 
 ## Status messages displayed when updating add-ons
@@ -236,10 +244,15 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Güncellemeleri kur
     .tooltiptext = Bu listedeki mevcut güncellemeleri kur
+addon-updates-updating = Eklentiler güncelleniyor
+addon-updates-installed = Eklentileriniz güncellendi.
+addon-updates-none-found = Güncelleme bulunamadı
 addon-updates-manual-updates-found = Yüklenebilir güncellemelere bak
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Dosyadan eklenti kur...
+    .accesskey = k
 addon-install-from-file-dialog-title = Kurulacak eklentiyi seçin
 addon-install-from-file-filter-name = Eklentiler
 addon-open-about-debugging = Eklentilerde hata ayıkla
@@ -249,6 +262,9 @@ addon-open-about-debugging = Eklentilerde hata ayıkla
 
 manage-extensions-shortcuts =
     .label = Eklenti kısayollarını yönet
+    .accesskey = E
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Eklenti kısayollarını yönet
     .accesskey = E
 shortcuts-no-addons = Herhangi bir eklentiyi etkinleştirmediniz.
 shortcuts-no-commands = Aşağıdaki eklentilerin kısayolları yok:
@@ -413,5 +429,13 @@ recommended-theme-1 = Yaratıcı gününüzde misiniz? <a data-l10n-name="link">
 
 ## Page headings
 
+extension-heading = Eklentilerinizi yönetin
+theme-heading = Temalarınızı yönetin
+plugin-heading = Yan uygulamarınızı yönetin
+dictionary-heading = Sözlüklerinizi yönetin
+locale-heading = Dillerinizi yönetin
+discover-heading = { -brand-short-name } tarayıcınızı kişiselleştirin
+theme-heading-search-label = Daha fazla tema bul
+extension-heading-search-label = Daha fazla eklenti bul
 addons-heading-search-input =
     .placeholder = addons.mozilla.org’da ara
