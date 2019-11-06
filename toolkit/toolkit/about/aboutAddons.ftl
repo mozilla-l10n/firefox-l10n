@@ -166,12 +166,16 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Afichar las mesas a jorn recentas
     .accesskey = A
+addon-updates-view-updates = Afichar las mesas a jorn recentas
+    .accesskey = A
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Metre a jorn los moduls automaticament
+    .accesskey = M
+addon-updates-update-addons-automatically = Metre a jorn los moduls automaticament
     .accesskey = M
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -185,6 +189,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = c
 extensions-updates-reset-updates-to-manual =
     .label = Desactivar la mesa a jorn automatica per totes los moduls
+    .accesskey = D
+addon-updates-reset-updates-to-automatic = Activar la mesa a jorn automatica per totes los moduls
+    .accesskey = c
+addon-updates-reset-updates-to-manual = Desactivar la mesa a jorn automatica per totes los moduls
     .accesskey = D
 
 ## Status messages displayed when updating add-ons
@@ -204,9 +212,15 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installar las mesas a jorn
     .tooltiptext = Installar las mesas a jorn disponiblas dins aquesta lista
+addon-updates-updating = Mesa a jorn dels moduls
+addon-updates-installed = Vòstres moduls son estats meses a jorn.
+addon-updates-none-found = Cap de mesa a jorn pas trobada
+addon-updates-manual-updates-found = Afichar las mesas a jorn disponiblas
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file-dialog-title = Causissètz un modul d'installar
+addon-install-from-file-filter-name = Moduls complementaris
 
 ## Extension shortcut management
 
