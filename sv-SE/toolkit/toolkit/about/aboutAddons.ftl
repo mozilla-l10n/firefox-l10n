@@ -436,6 +436,7 @@ plugin-heading = Hantera dina insticksmoduler
 dictionary-heading = Hantera dina ordlistor
 locale-heading = Hantera dina språk
 discover-heading = Anpassa { -brand-short-name }
+shortcuts-heading = Hantera genvägar för tillägg
 theme-heading-search-label = Hitta fler teman
 extension-heading-search-label = Hitta fler tillägg
 addons-heading-search-input =
