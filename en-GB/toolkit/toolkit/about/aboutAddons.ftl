@@ -445,6 +445,7 @@ plugin-heading = Manage Your Plugins
 dictionary-heading = Manage Your Dictionaries
 locale-heading = Manage Your Languages
 discover-heading = Personalise Your { -brand-short-name }
+shortcuts-heading = Manage Extension Shortcuts
 theme-heading-search-label = Find more themes
 extension-heading-search-label = Find more extensions
 addons-heading-search-input =
