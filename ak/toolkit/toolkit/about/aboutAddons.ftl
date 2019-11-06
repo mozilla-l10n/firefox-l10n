@@ -140,12 +140,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Hwɛ ndansa yi mu ntoso
     .accesskey = w
+addon-updates-check-for-updates = Hwehwɛ Ntoso
+    .accesskey = H
+addon-updates-view-updates = Hwɛ ndansa yi mu ntoso
+    .accesskey = w
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = To nkaho so otomatikmu
+    .accesskey = k
+addon-updates-update-addons-automatically = To nkaho so otomatikmu
     .accesskey = k
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -159,6 +165,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = h
 extensions-updates-reset-updates-to-manual =
     .label = San-hyɛ nkaho nyinara ama wɔenya wɔn ntoso manoal kwan so
+    .accesskey = h
+addon-updates-reset-updates-to-automatic = San-hyɛ nkaho nyinara ama wɔenya wɔn ntoso otomatikmu
+    .accesskey = h
+addon-updates-reset-updates-to-manual = San-hyɛ nkaho nyinara ama wɔenya wɔn ntoso manoal kwan so
     .accesskey = h
 
 ## Status messages displayed when updating add-ons
@@ -178,9 +188,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instɔl ntoso
     .tooltiptext = Instɔl ntoso a wɔda-hɔ
+addon-updates-updating = Reto nkaho so
+addon-updates-installed = Wɔato wo nkaho wɔn so.
+addon-updates-none-found = Ennhu ntoso biara
+addon-updates-manual-updates-found = Hwɛ ntoso a wɔwɔ hɔ
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Instɔl kaho firi fael mu…
+    .accesskey = I
+addon-install-from-file-dialog-title = Paw kaho a wo pɛ sɛ wo instɔl
+addon-install-from-file-filter-name = Nkaho
 
 ## Extension shortcut management
 
