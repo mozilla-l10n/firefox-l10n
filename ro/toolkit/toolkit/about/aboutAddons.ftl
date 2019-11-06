@@ -217,6 +217,10 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = Resetează toate suplimentele să se actualizeze manual
     .accesskey = R
+addon-updates-reset-updates-to-automatic = Resetează toate suplimentele să se actualizeze automat
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Resetează toate suplimentele să se actualizeze manual
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
