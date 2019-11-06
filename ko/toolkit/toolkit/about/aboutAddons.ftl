@@ -197,6 +197,8 @@ extensions-updates-view-updates =
     .accesskey = V
 addon-updates-check-for-updates = 업데이트 확인하기
     .accesskey = C
+addon-updates-view-updates = 최근 업데이트 보기
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -219,6 +221,10 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = 모든 부가기능을 수동 업데이트로 재설정
     .accesskey = R
+addon-updates-reset-updates-to-automatic = 모든 부가기능을 자동 업데이트로 재설정
+    .accesskey = R
+addon-updates-reset-updates-to-manual = 모든 부가기능을 수동 업데이트로 재설정
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
@@ -239,6 +245,7 @@ extensions-updates-update-selected =
     .tooltiptext = 현재 목록 내 업데이트 설치하기
 addon-updates-updating = 업데이트 확인 중
 addon-updates-installed = 업데이트가 완료되었습니다.
+addon-updates-none-found = 업데이트 없음
 addon-updates-manual-updates-found = 업데이트 가능 항목 보기
 
 ## Add-on install/debug strings for page options menu
@@ -254,6 +261,9 @@ addon-open-about-debugging = 부가 기능 디버그
 
 manage-extensions-shortcuts =
     .label = 확장기능 단축키 관리
+    .accesskey = S
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = 확장기능 단축키 관리
     .accesskey = S
 shortcuts-no-addons = 활성화된 확장기능이 없습니다.
 shortcuts-no-commands = 다음 확장기능에는 단축키가 없습니다:
@@ -419,6 +429,8 @@ theme-heading = 테마 관리
 plugin-heading = 플러그인 관리
 dictionary-heading = 사전 관리
 locale-heading = 언어 관리
+discover-heading = { -brand-short-name } 개인화
+shortcuts-heading = 확장기능 단축키 관리
 theme-heading-search-label = 더 많은 테마
 extension-heading-search-label = 더 많은 확장기능
 addons-heading-search-input =
