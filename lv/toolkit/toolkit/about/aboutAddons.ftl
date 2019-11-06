@@ -157,6 +157,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Aplūkot nesenos atjauninājumus
     .accesskey = n
+addon-updates-check-for-updates = Meklēt atjauninājumus
+    .accesskey = M
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
