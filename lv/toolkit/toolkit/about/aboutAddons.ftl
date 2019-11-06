@@ -159,12 +159,16 @@ extensions-updates-view-updates =
     .accesskey = n
 addon-updates-check-for-updates = Meklēt atjauninājumus
     .accesskey = M
+addon-updates-view-updates = Aplūkot nesenos atjauninājumus
+    .accesskey = n
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Atjaunināt papildinājumus automātiski
+    .accesskey = A
+addon-updates-update-addons-automatically = Atjaunināt papildinājumus automātiski
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -178,6 +182,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = l
 extensions-updates-reset-updates-to-manual =
     .label = Atjaunināt visus papildinājumus manuāli
+    .accesskey = m
+addon-updates-reset-updates-to-automatic = Atjaunināt visus papildinājumus automātiski
+    .accesskey = l
+addon-updates-reset-updates-to-manual = Atjaunināt visus papildinājumus manuāli
     .accesskey = m
 
 ## Status messages displayed when updating add-ons
@@ -197,9 +205,19 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalēt atjauninājumus
     .tooltiptext = Instalēt visus šajā sarakstā pieejamos atjauninājumus
+addon-updates-updating = Atjaunina papildinājumus
+addon-updates-installed = Jūsu papildinājumi ir atjaunināti.
+addon-updates-none-found = Atjauninājumi nav atrasti
+addon-updates-manual-updates-found = Aplūkot pieejamos atjauninājumus
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Instalēt no faila…
+    .accesskey = I
+addon-install-from-file-dialog-title = Izvēlieties instalējamo papildinājumu
+addon-install-from-file-filter-name = Papildinājumi
+addon-open-about-debugging = Atkļūdot papildinājumus
+    .accesskey = d
 
 ## Extension shortcut management
 
