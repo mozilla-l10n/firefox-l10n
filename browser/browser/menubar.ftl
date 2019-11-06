@@ -281,3 +281,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Betrügerische Website melden…
     .accesskey = m
+menu-help-not-deceptive =
+    .label = Dies ist keine betrügerische Website…
+    .accesskey = g
