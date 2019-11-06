@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = 全屏
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = 显示所有标签页
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = 举报诈骗网站…
     .accesskey = D
+menu-help-not-deceptive =
+    .label = 这不是诈骗网站…
+    .accesskey = d
