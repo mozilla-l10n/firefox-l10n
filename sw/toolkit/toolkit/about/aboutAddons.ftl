@@ -131,6 +131,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Wezesha
     .tooltiptext = Wezesha ukaguzi wa usalama wa visasaisho vya vifaa vya nyongeza
+extensions-warning-safe-mode = Vifaa vyote vya nyongeza vimelemazwa na hali tumizi ya usalama.
+extensions-warning-check-compatibility = Ukaguzi wa utangamanifu wa kifaa cha nyongeza umelemazwa. Waweza kuwa na vifaa vya nyongeza sitangamanifu.
+extensions-warning-check-compatibility-button = Wezesha
+    .title = Wezesha ukaguzi wa utangamanifu wa kifaa cha nyongeza
+extensions-warning-update-security = Ukaguzi wa usalama wa kisasaisho cha vifaa vya nyongeza. Waweza kuwa umeafikiwa na visasaisho.
+extensions-warning-update-security-button = Wezesha
+    .title = Wezesha ukaguzi wa usalama wa visasaisho vya vifaa vya nyongeza
 
 ## Strings connected to add-on updates
 
