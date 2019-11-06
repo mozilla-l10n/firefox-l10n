@@ -260,6 +260,9 @@ addon-open-about-debugging = Испитај додатке
 manage-extensions-shortcuts =
     .label = Управљај пречицама екстензија
     .accesskey = с
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Управљај пречицама екстензија
+    .accesskey = с
 shortcuts-no-addons = Немате омогућених проширења.
 shortcuts-browserAction = Активирај екстензију
 
@@ -358,3 +361,13 @@ recommended-theme-1 = Креативни сте? <a data-l10n-name="link">Нап
 
 ## Page headings
 
+extension-heading = Управљајте вашим екстензијама
+theme-heading = Управљајте вашим темама
+plugin-heading = Управљајте вашим прикључцима
+dictionary-heading = Управљајте вашим речницима
+locale-heading = Управљајте вашим језицима
+shortcuts-heading = Управљај пречицама екстензија
+theme-heading-search-label = Нађите више тема
+extension-heading-search-label = Нађите више екстензија
+addons-heading-search-input =
+    .placeholder = Претражи сајт addons.mozilla.org
