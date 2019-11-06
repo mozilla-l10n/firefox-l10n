@@ -172,6 +172,9 @@ extensions-warning-safe-mode = همهٔ افزودنی‌ها به دلیل مر
 extensions-warning-check-compatibility = کنترل سازگاری افزودنی‌ها غیر فعال است. ممکن است افزودنی‌های ناسازگاری داشته باشید.
 extensions-warning-check-compatibility-button = فعال کردن
     .title = فعال کردن کنترل سازگاری افزودنی‌ها
+extensions-warning-update-security = بررسی امنیتی بروزرسانی افزودنی‌ها غیر فعال است. ممکن است افزودنی‌های‌تان به صورت ناامن بروزرسانی شوند.
+extensions-warning-update-security-button = فعال کردن
+    .title = فعال کردن بررسی امنیتی بروزرسانی افزودنی‌ها
 
 ## Strings connected to add-on updates
 
