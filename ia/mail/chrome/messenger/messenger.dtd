@@ -57,14 +57,74 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Conto actual">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
+<!ENTITY subscribeCmd.label "Subscriber…">
+<!ENTITY subscribeCmd.accesskey "b">
+<!ENTITY deleteFolder.label "Deler plica">
+<!ENTITY deleteFolder.accesskey "e">
+<!ENTITY renameFolder.label "Renominar plica…">
+<!ENTITY renameFolder.accesskey "R">
+<!ENTITY renameFolder.key "VK_F2">
+<!ENTITY emptyTrashCmd.label "Vacuar immunditia">
+<!ENTITY emptyTrashCmd.accesskey "c">
+<!ENTITY offlineMenu.label "Offline">
+<!ENTITY offlineMenu.accesskey "l">
+<!ENTITY offlineGoOfflineCmd.label "Laborar disconnexe">
+<!ENTITY offlineGoOfflineCmd.accesskey "d">
+<!ENTITY printCmd.label "Imprimer…">
+<!ENTITY printCmd.accesskey "I">
+<!ENTITY printCmd.key "p">
+<!ENTITY printPreviewCmd.label "Vista preliminar del impression">
+<!ENTITY printPreviewCmd.accesskey "V">
+<!ENTITY printSetupCmd.label "Configurar le pagina…">
+<!ENTITY printSetupCmd.accesskey "p">
 
 <!-- Edit Menu -->
+<!ENTITY deleteMsgCmd.label "Deler message">
+<!ENTITY deleteMsgCmd.accesskey "D">
+<!ENTITY deleteFolderCmd.label "Deler le plica">
+<!ENTITY deleteFolderCmd.accesskey "D">
+<!ENTITY unsubscribeNewsgroupCmd.label "Cancellar le inscription">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "c">
+<!ENTITY selectMenu.label "Seliger">
+<!ENTITY selectMenu.accesskey "S">
+<!ENTITY all.label "Toto">
+<!ENTITY all.accesskey "T">
+<!ENTITY selectThreadCmd.label "Filo">
+<!ENTITY selectThreadCmd.accesskey "F">
+<!ENTITY folderPropsCmd2.label "Proprietates">
+<!ENTITY folderPropsFolderCmd2.label "Proprietates del plica">
+<!ENTITY undoDefaultCmd.label "Disfacer">
+<!ENTITY undoDefaultCmd.accesskey "D">
+<!ENTITY redoDefaultCmd.label "Refacer">
+<!ENTITY redoDefaultCmd.accesskey "R">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Barra de menu">
+<!ENTITY menubarCmd.accesskey "m">
+<!ENTITY customizeToolbar.label "Personalisar…">
+<!ENTITY customizeToolbar.accesskey "C">
 
+<!ENTITY messagePaneLayoutStyle.label "Disposition">
+<!ENTITY messagePaneLayoutStyle.accesskey "D">
 
+<!ENTITY folderView.label "Plicas">
+<!ENTITY folderView.accesskey "P">
+<!ENTITY allFolders.label "Toto">
+<!ENTITY allFolders.accesskey "T">
+<!ENTITY unreadFolders.label "Non legite">
+<!ENTITY unreadFolders.accesskey "l">
+<!ENTITY favoriteFolders.label "Favorite">
+<!ENTITY favoriteFolders.accesskey "F">
+<!ENTITY recentFolders.label "Recente">
+<!ENTITY recentFolders.accesskey "R">
 
 <!-- Sort Menu -->
+<!ENTITY msgsMenu.label "Messages">
+<!ENTITY msgsMenu.accesskey "M">
+<!ENTITY threads.label "Filos">
+<!ENTITY threads.accesskey "i">
+<!ENTITY allMsgsCmd.label "Toto">
+<!ENTITY allMsgsCmd.accesskey "T">
 
 
 
