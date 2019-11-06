@@ -157,12 +157,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Féach ar Nuashonruithe Le Déanaí
     .accesskey = F
+addon-updates-check-for-updates = Lorg Nuashonruithe
+    .accesskey = L
+addon-updates-view-updates = Féach ar Nuashonruithe Le Déanaí
+    .accesskey = F
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Nuashonraigh Breiseáin go hUathoibríoch
+    .accesskey = B
+addon-updates-update-addons-automatically = Nuashonraigh Breiseáin go hUathoibríoch
     .accesskey = B
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -176,6 +182,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = r
 extensions-updates-reset-updates-to-manual =
     .label = Athshocraigh nuashonrú láimhe na mbreiseán
+    .accesskey = r
+addon-updates-reset-updates-to-automatic = Athshocraigh nuashonrú uathoibríoch na mbreiseán
+    .accesskey = r
+addon-updates-reset-updates-to-manual = Athshocraigh nuashonrú láimhe na mbreiseán
     .accesskey = r
 
 ## Status messages displayed when updating add-ons
@@ -195,9 +205,15 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Suiteáil Nuashonruithe
     .tooltiptext = Suiteáil na nuashonruithe atá ar fáil sa liosta seo
+addon-updates-updating = Breiseáin á nuashonrú
+addon-updates-installed = Nuashonraíodh do chuid breiseán.
+addon-updates-none-found = Ní bhfuarthas nuashonruithe
+addon-updates-manual-updates-found = Féach ar Nuashonruithe Ar Fáil
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Suiteáil Breiseán Ó Chomhad…
+    .accesskey = S
 addon-install-from-file-dialog-title = Roghnaigh breiseán le suiteáil
 addon-install-from-file-filter-name = Breiseáin
 
