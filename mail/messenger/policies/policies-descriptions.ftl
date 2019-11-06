@@ -37,12 +37,23 @@ policy-DontCheckDefaultClient = Poista käytöstä oletussähköpostiohjelman ta
 policy-DownloadDirectory = Aseta ja lukitse latauskansio.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Salli tai estä sisällön esto tai estä sen käyttö halutessasi.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Asenna, poista tai lukitse laajennuksia. Asennusasetus ottaa parametreiksi URL-osoitteita tai polkuja. Poisto- ja lukitsemisasetukset ottavat parametreiksi laajennusten ID:itä.
+policy-ExtensionSettings = Hallitse kaikkia laajennuksen asentamisen osa-alueita.
 policy-ExtensionUpdate = Käytä tai poista käytöstä laajennusten automaattiset päivitykset.
 policy-HardwareAcceleration = Jos epätosi, poista laitteistokiihdytys käytöstä.
 policy-InstallAddonsPermission = Salli tiettyjen sivustojen asentaa lisäosia.
 policy-LocalFileLinks = Salli tiettyjen sivustojen linkittää paikallisiin tiedostoihin.
+policy-NetworkPrediction = Ota käyttöön tai poista käytöstä verkkoennakointi (DNS-esihaku).
+policy-OfferToSaveLogins = Pakota asetus, joka sallii { -brand-short-name }in tarjota käyttäjätunnusten ja salasanojen tallentamista. Sekä tosi- että epätosi-arvot hyväksytään.
+policy-OverrideFirstRunPage = Korvaa ensimmäisen käynnistyskerran sivu. Aseta tämä käytäntö tyhjäksi, jos haluat poistaa ensimmäisen käyttökerran sivun käytöstä.
+policy-OverridePostUpdatePage = Korvaa päivityksen jälkeinen ”Mitä uutta” -sivu. Aseta tämä käytäntö tyhjäksi, jos haluat poistaa päivityksen jälkeisen sivun käytöstä.
+policy-Preferences = Aseta ja lukitse arvo asetusten osajoukolle.
 policy-PromptForDownloadLocation = Kysy mihin ladattavat tiedostot tallennetaan.
 policy-Proxy = Määritä välityspalvelimen asetukset.
+policy-RequestedLocales = Aseta pyydetyt sovelluksen kielet suosituimmuusjärjestyksessä.
 policy-SanitizeOnShutdown2 = Poista selailutiedot kun ohjelma suljetaan
 policy-SearchEngines = Muokkaa hakukoneiden asetuksia. Tämä käytäntö on saatavilla vain laajennetun tuen (ESR) julkaisulle .
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
