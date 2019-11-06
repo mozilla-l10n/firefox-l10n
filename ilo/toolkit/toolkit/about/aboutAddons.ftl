@@ -49,9 +49,6 @@ detail-check-for-updates =
     .tooltiptext = Palutputen ti pananarimaan kadaytoy a raman
 addon-restart-now =
     .label = Irugi manen itan
-extensions-view-discover =
-    .name = Biroken ti Raman
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Nabiit a Pannanarimaan
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -76,6 +73,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Ipadlaw ti Nabiit a Pannanarimaan
     .accesskey = V
+addon-updates-check-for-updates = Palutputen ti Pannanarimaan
+    .accesskey = C
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -102,3 +101,25 @@ extensions-updates-none-found =
     .value = Awan ti nabirokan a pannarimaan
 extensions-updates-manual-updates-found =
     .label = Ipakita ti Maal-ala a Pannanarimaan
+addon-updates-updating = Tartarimnen ti raman
+addon-updates-installed = Natarimaan ti raman.
+addon-updates-none-found = Awan ti nabirokan a pannarimaan
+addon-updates-manual-updates-found = Ipakita ti Maal-ala a Pannanarimaan
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
