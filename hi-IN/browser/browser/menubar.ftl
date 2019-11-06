@@ -281,3 +281,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = भ्रमकारी भुजाल प्रतिवेदन…
     .accesskey = d
+menu-help-not-deceptive =
+    .label = यह एक भ्रमकारी भुजाल नहीं है…
+    .accesskey = d
