@@ -170,12 +170,16 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = ఇటీవలి తాజాకరణలను చూడండి
     .accesskey = V
+addon-updates-check-for-updates = నవీకరణల కొరకు పరిశీలించు
+    .accesskey = C
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = పొడిగింతలను స్వయంచాలకంగా నవీకరించు
+    .accesskey = A
+addon-updates-update-addons-automatically = పొడిగింతలను స్వయంచాలకంగా నవీకరించు
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -189,6 +193,8 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = పొడగింతలన్నీ మానవీయంగా తాజాపరచుకునేలా మార్చు
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = స్వయంచాలకంగా నవీకరించుటకు అన్ని పొడిగింతలును రీసెట్ చేయు
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -208,10 +214,13 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = తాజాకరణలను స్థాపించు
     .tooltiptext = ఈ జాబితాలోని తాజాకరణలను స్థాపించు
+addon-updates-updating = పొడిగింతలను నవీకరిస్తున్నది
 
 ## Add-on install/debug strings for page options menu
 
 addon-install-from-file-filter-name = పొడిగింతలు
+addon-open-about-debugging = పొడిగింతలను డీబగ్ చేయుము
+    .accesskey = B
 
 ## Extension shortcut management
 
