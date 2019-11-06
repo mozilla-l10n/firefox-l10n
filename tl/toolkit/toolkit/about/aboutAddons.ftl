@@ -191,6 +191,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Tingnan ang mga Bagong Update
     .accesskey = T
+addon-updates-check-for-updates = Maghanap ng mga Update
+    .accesskey = M
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -211,6 +213,8 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = Ibalik ang lahat ng Add-ons upang mabago nang mano-mano
     .accesskey = I
+addon-updates-reset-updates-to-manual = Ibalik ang lahat ng Add-ons upang mabago nang mano-mano
+    .accesskey = I
 
 ## Status messages displayed when updating add-ons
 
@@ -229,6 +233,14 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = I-install ang mga Update
     .tooltiptext = I-install ang mga update na nasa listahan
+addon-updates-none-found = Walang updates na nakita
+addon-updates-manual-updates-found = Tingnan Lahat ng mga Update
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Mag-install ng Add-on Mula sa File…
+    .accesskey = i
+addon-install-from-file-dialog-title = Piliin ang add-on na iinstall
 
 ## Extension shortcut management
 
@@ -393,3 +405,6 @@ recommended-themes-heading = Mga Inirerekomendang Tema
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = May pagkamalikhain? <a data-l10n-name="link">Bumuo ng sarili mong tema gamit ang Firefox Color.</a>
+
+## Page headings
+
