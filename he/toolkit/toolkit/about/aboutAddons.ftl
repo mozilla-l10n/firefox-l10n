@@ -202,6 +202,8 @@ extensions-updates-view-updates =
 extensions-updates-update-addons-automatically =
     .label = עדכון תוספות אוטומטי
     .accesskey = ע
+addon-updates-update-addons-automatically = עדכון תוספות אוטומטי
+    .accesskey = ע
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -233,6 +235,14 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = התקנת עדכונים
     .tooltiptext = התקנת העדכונים הזמינים ברשימה זו
+addon-updates-updating = מעדכן תוספות
+addon-updates-installed = התוספות שלך עודכנו.
+addon-updates-none-found = לא נמצאו עדכונים
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = התקנת תוספת מקובץ…
+    .accesskey = ה
 
 ## Extension shortcut management
 
@@ -387,3 +397,6 @@ recommended-themes-heading = ערכות נושא מומלצות
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = גל של יצירתיות שוטף אותך? <a data-l10n-name="link">ניתן ליצור ערכת נושא משלך בעזרת Firefox Color.</a>
+
+## Page headings
+
