@@ -2,13 +2,61 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY titledefault.label "&brandFullName;">
+<!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
+<!ENTITY newFolderCmd.label "Plica…">
+<!ENTITY newFolderCmd.accesskey "P">
+<!ENTITY closeTabCmd2.label "Clauder scheda">
+<!ENTITY closeTabCmd2.accesskey "C">
+<!ENTITY closeOtherTabsCmd2.label "Clauder altere schedas">
+<!ENTITY closeOtherTabsCmd2.accesskey "a">
+<!ENTITY recentlyClosedTabsCmd.label "Schedas claudite recentemente">
+<!ENTITY recentlyClosedTabsCmd.accesskey "r">
 
+<!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
      Menu option to cause the current tab to be migrated to a new Thunderbird
      window.
      -->
+<!ENTITY moveToNewWindow.label "Mover a un nove fenestra">
+<!ENTITY moveToNewWindow.accesskey "F">
+<!ENTITY newVirtualFolderCmd.label "Recerca salvate…">
+<!ENTITY newVirtualFolderCmd.accesskey "S">
+<!ENTITY newOtherAccountsCmd.label "Altere contos…">
+<!ENTITY newOtherAccountsCmd.accesskey "A">
+<!ENTITY newCreateEmailAccountCmd.label "Crear un nove conto email…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "C">
+<!ENTITY newExistingEmailAccountCmd.label "Conto email existente…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "e">
+<!ENTITY newIMAccountCmd.label "Conto chat…">
+<!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newFeedAccountCmd.label "Conto fluxo…">
+<!ENTITY newFeedAccountCmd.accesskey "x">
+<!ENTITY newIMContactCmd.label "Contacto chat…">
+<!ENTITY newIMContactCmd.accesskey "h">
+<!ENTITY  newMessageCmd2.key "N">
+<!ENTITY  newMessageCmd.key "M">
+<!ENTITY  newMessageCmd.label "Message">
+<!ENTITY  newMessageCmd.accesskey "m">
+<!ENTITY  newContactCmd.label "Contacto del libro de adresses…">
+<!ENTITY  newContactCmd.accesskey "C">
+<!ENTITY openMessageFileCmd.label "Aperir message salvate…">
+<!ENTITY openMessageFileCmd.accesskey "A">
+<!ENTITY saveAsMenu.label "Salvar como">
+<!ENTITY saveAsMenu.accesskey "S">
+<!ENTITY saveAsFileCmd.label "File">
+<!ENTITY saveAsFileCmd.accesskey "F">
+<!ENTITY saveAsFileCmd.key "s">
+<!ENTITY saveAsTemplateCmd.label "Modello">
+<!ENTITY saveAsTemplateCmd.accesskey "M">
+<!ENTITY getNewMsgForCmd.label "Discargar nove messages pro">
+<!ENTITY getNewMsgForCmd.accesskey "v">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Tote le contos">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Conto actual">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
 
 <!-- Edit Menu -->
 
