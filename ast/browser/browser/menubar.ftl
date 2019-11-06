@@ -273,3 +273,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Reportar sitiu fraudulentu…
     .accesskey = R
+menu-help-not-deceptive =
+    .label = Esti nun ye un sitiu fraudulentu…
+    .accesskey = f
