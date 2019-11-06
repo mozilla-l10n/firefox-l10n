@@ -428,6 +428,7 @@ theme-heading = ניהול ערכות הנושא שלך
 plugin-heading = ניהול התוספים החיצוניים שלך
 dictionary-heading = ניהול המילונים שלך
 locale-heading = ניהול השפות שלך
+updates-heading = ניהול העדכונים שלך
 discover-heading = התאמה אישית של ה־{ -brand-short-name } שלך
 shortcuts-heading = ניהול קיצורי דרך להרחבות
 theme-heading-search-label = חיפוש ערכות נושא נוספות
