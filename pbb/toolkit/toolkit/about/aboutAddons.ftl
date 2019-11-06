@@ -151,6 +151,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = U'sesatx thehgwa'ja's yu'thẽhna
     .accesskey = U
+addon-updates-check-for-updates = Yu'pthẽwa'ja's pakwen
+    .accesskey = Y
 addon-updates-view-updates = U'sesatx thehgwa'ja's yu'thẽhna
     .accesskey = U
 
