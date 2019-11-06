@@ -9,6 +9,13 @@ appmenuitem-protection-report-title = הגנות פרטיות
 appmenuitem-protection-report-tooltip =
     .tooltiptext = מעבר לדוח הפרטיות שלך
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = התקרבות
+appmenuitem-zoom-reduce =
+    .label = התרחקות
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
