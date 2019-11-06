@@ -200,6 +200,9 @@ extensions-warning-safe-mode = Alle add-ons zijn uitgeschakeld door de veilige m
 extensions-warning-check-compatibility = Compatibiliteitscontrole voor add-ons is uitgeschakeld. Mogelijk hebt u incompatibele add-ons.
 extensions-warning-check-compatibility-button = Inschakelen
     .title = Add-on-compatibiliteitscontrole inschakelen
+extensions-warning-update-security = Beveiligingscontrole voor add-on-updates is uitgeschakeld. Mogelijk loopt u een beveiligingsrisico door updates.
+extensions-warning-update-security-button = Inschakelen
+    .title = Beveiligingscontrole voor add-on-updates inschakelen
 
 ## Strings connected to add-on updates
 
