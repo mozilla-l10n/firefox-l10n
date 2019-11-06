@@ -182,6 +182,7 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = I-enable
     .tooltiptext = I-enable ang add-on security checking
+extensions-warning-safe-mode = Idinisable lahat ng mga add-on sa safe mode.
 extensions-warning-check-compatibility = Naka-disable ang add-on compatibility checking. Posibleng may incompatible add-on ka.
 extensions-warning-check-compatibility-button = I-enable
     .title = I-enable ang add-on compatibility checking
