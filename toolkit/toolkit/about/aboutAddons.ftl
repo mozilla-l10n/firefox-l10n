@@ -131,6 +131,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Nika amandla
     .tooltiptext = Nika amandla ukuhlola kokuvikeleka kokuvuselela
+extensions-warning-safe-mode = Konke okwengezwayo kukhutshaziwe ngesimo sokuvikela.
+extensions-warning-check-compatibility = Ukuhlolwa kokusebenzisana kokungezwayo kukhutshaziwe. Ungaba nokungezwayo okungasebenzisani.
+extensions-warning-check-compatibility-button = Nika amandla
+    .title = Nika amandla ukuhlola okusebenzisanayo kokungezwayo
+extensions-warning-update-security = Ukuvikeleka kokuhlola okungeziwe kukhutshaziwe. Unganikwa ukuvuselela.
+extensions-warning-update-security-button = Nika amandla
+    .title = Nika amandla ukuhlola kokuvikeleka kokuvuselela
 
 ## Strings connected to add-on updates
 
