@@ -243,8 +243,12 @@ addon-updates-manual-updates-found = ਉਪਲੱਬਧ ਅੱਪਡੇਟ ਵ�
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = …ਐਡ-ਆਨ ਫਾਈਲ ਤੋਂ ਇੰਸਟਾਲ ਕਰੋ
+    .accesskey = I
 addon-install-from-file-dialog-title = ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਐਡ-ਆਨ ਚੁਣੋ
 addon-install-from-file-filter-name = ਐਡ-ਆਨ
+addon-open-about-debugging = ਐਡ-ਆਨ ਨੂੰ ਡੀਬੱਗ ਕਰੋ
+    .accesskey = B
 
 ## Extension shortcut management
 
