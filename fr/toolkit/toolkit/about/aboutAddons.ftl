@@ -263,6 +263,9 @@ addon-install-from-file-filter-name = Modules complémentaires
 manage-extensions-shortcuts =
     .label = Gérer les raccourcis d’extensions
     .accesskey = G
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Gérer les raccourcis d’extensions
+    .accesskey = G
 shortcuts-no-addons = Aucune extension n’est activée.
 shortcuts-no-commands = Les extensions suivantes ne disposent pas de raccourcis :
 shortcuts-input =
@@ -424,3 +427,5 @@ recommended-theme-1 = Vous avez la fibre créative ? <a data-l10n-name="link">C
 
 ## Page headings
 
+discover-heading = Personnalisez { -brand-short-name }
+shortcuts-heading = Gestion des raccourcis d’extensions
