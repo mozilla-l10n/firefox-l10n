@@ -200,12 +200,16 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Kürzlich durchgeführte Updates anzeigen
     .accesskey = K
+addon-updates-view-updates = Kürzlich durchgeführte Updates anzeigen
+    .accesskey = K
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Add-ons automatisch aktualisieren
+    .accesskey = a
+addon-updates-update-addons-automatically = Add-ons automatisch aktualisieren
     .accesskey = a
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -219,6 +223,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = u
 extensions-updates-reset-updates-to-manual =
     .label = Alle Add-ons umstellen auf manuelle Aktualisierung
+    .accesskey = u
+addon-updates-reset-updates-to-automatic = Alle Add-ons umstellen auf automatische Aktualisierung
+    .accesskey = u
+addon-updates-reset-updates-to-manual = Alle Add-ons umstellen auf manuelle Aktualisierung
     .accesskey = u
 
 ## Status messages displayed when updating add-ons
@@ -241,9 +249,14 @@ extensions-updates-update-selected =
 addon-updates-updating = Add-ons werden aktualisiert
 addon-updates-installed = Ihre Add-ons wurden aktualisiert.
 addon-updates-none-found = Keine Updates gefunden
+addon-updates-manual-updates-found = Verfügbare Updates anzeigen
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Add-on aus Datei installieren…
+    .accesskey = A
+addon-install-from-file-dialog-title = Zu installierendes Add-on auswählen
+addon-install-from-file-filter-name = Add-ons
 
 ## Extension shortcut management
 
