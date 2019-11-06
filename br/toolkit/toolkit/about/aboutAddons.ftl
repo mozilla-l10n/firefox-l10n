@@ -253,6 +253,9 @@ addon-open-about-debugging = Diveugañ an askouezhioù
 manage-extensions-shortcuts =
     .label = Merañ ar berradennoù askouezhioù
     .accesskey = b
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Merañ ar berradennoù askouezhioù
+    .accesskey = b
 shortcuts-no-addons = N'ho peus askouezh ebet gweredekaet.
 shortcuts-no-commands = An askouezhioù da-heul n'ho deus ket a verradenn:
 shortcuts-input =
@@ -318,3 +321,14 @@ addon-detail-reviews-link =
 
 ## Page headings
 
+extension-heading = Merañ hoc'h askouezhioù
+theme-heading = Merañ ho neuzioù
+plugin-heading = Merañ hoc'h enlugelladoù
+dictionary-heading = Merañ ho keriaduioù
+locale-heading = Merañ ho yezhoù
+discover-heading = Personelait ho { -brand-short-name }
+shortcuts-heading = Merañ berradennoù an askouezhioù
+theme-heading-search-label = Kaout muioc'h a neuzioù
+extension-heading-search-label = Kavout muioc'h a askouezhioù
+addons-heading-search-input =
+    .placeholder = Klask war addons.mozilla.org
