@@ -140,6 +140,9 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = सक्रिय  करू
     .tooltiptext = सहयुक्ति अद्यतन सुरक्षा जाँच सक्रिय करू
+extensions-warning-safe-mode = सभटा सहयुक्ति सुरक्षित विधि क द्वारा निष्क्रिय कएल गेल अछि.
+extensions-warning-check-compatibility = सहयुक्ति सुसंगतता जाँच निष्क्रिय अछि. अहाँक पास असंगत सहयुक्ति भए सकैत अछि.
+extensions-warning-update-security = सहयुक्ति अद्यतन सुरक्षा जाँच निष्क्रिय अछि. अहाँक सुरक्षा अद्यतनक द्वारा संदिग्ध भए सकैत अछि.
 
 ## Strings connected to add-on updates
 
