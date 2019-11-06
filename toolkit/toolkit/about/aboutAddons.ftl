@@ -177,12 +177,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = مشاهده بروزرسانی‌های اخیر
     .accesskey = م
+addon-updates-check-for-updates = بررسی برای بروزرسانی‌ها
+    .accesskey = ب
+addon-updates-view-updates = مشاهده بروزرسانی‌های اخیر
+    .accesskey = م
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = بروزرسانی خودکار همهٔ افزودنی‌ها
+    .accesskey = ب
+addon-updates-update-addons-automatically = بروزرسانی خودکار همهٔ افزودنی‌ها
     .accesskey = ب
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -196,6 +202,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = خ
 extensions-updates-reset-updates-to-manual =
     .label = تنظیم مجدد همهٔ افزودنی‌ها برای انجام بروزرسانی بصورت دستی
+    .accesskey = ت
+addon-updates-reset-updates-to-automatic = تنظیم مجدد همهٔ افزودنی‌ها برای انجام بروزرسانی بصورت خودکار
+    .accesskey = خ
+addon-updates-reset-updates-to-manual = تنظیم مجدد همهٔ افزودنی‌ها برای انجام بروزرسانی بصورت دستی
     .accesskey = ت
 
 ## Status messages displayed when updating add-ons
@@ -215,7 +225,10 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = نصب بروزرسانی
     .tooltiptext = نصب بروزرسانی‌های موجود در این فهرست
+addon-updates-updating = در حال بروزرسانی افزودنی‌ها
 addon-updates-installed = افزودنی‌های شما به‌هنگام شدند.
+addon-updates-none-found = هیچ بروزرسانی‌ای پیدا نشد
+addon-updates-manual-updates-found = مشاهدهٔ بروزرسانی‌های موجود
 
 ## Add-on install/debug strings for page options menu
 
@@ -223,6 +236,8 @@ addon-install-from-file = نصب افزودنی از یک پرونده…
     .accesskey = ن
 addon-install-from-file-dialog-title = افزودنی مورد نظر برای نصب را انتخاب کنید
 addon-install-from-file-filter-name = افزودنی‌ها
+addon-open-about-debugging = اشکال‌زدایی افزودنی‌ها
+    .accesskey = ی
 
 ## Extension shortcut management
 
