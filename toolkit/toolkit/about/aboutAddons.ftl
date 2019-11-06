@@ -193,6 +193,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Погледај недавна ажурирања
     .accesskey = н
+addon-updates-view-updates = Погледај недавна ажурирања
+    .accesskey = н
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -212,6 +214,8 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = С
 extensions-updates-reset-updates-to-manual =
     .label = Све додатке мануелно надогради
+    .accesskey = м
+addon-updates-reset-updates-to-manual = Све додатке мануелно надогради
     .accesskey = м
 
 ## Status messages displayed when updating add-ons
@@ -238,6 +242,8 @@ addon-install-from-file = Инсталирај додатак из датоте�
     .accesskey = И
 addon-install-from-file-dialog-title = Изаберите додатке за инсталирање
 addon-install-from-file-filter-name = Додаци
+addon-open-about-debugging = Испитај додатке
+    .accesskey = д
 
 ## Extension shortcut management
 
