@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Pa vysu ekranu
     .accesskey = v
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Ruodeit vysys cilnes
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Report Deceptive Site…
     .accesskey = D
+menu-help-not-deceptive =
+    .label = This isn’t a deceptive site…
+    .accesskey = d
