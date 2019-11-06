@@ -104,9 +104,6 @@ detail-rating =
     .value = Dengdan
 addon-restart-now =
     .label = Niha ji nû ve bide destpêkirin
-extensions-view-discover =
-    .name = Add-onan bistîne
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Rojanekirin Nêz
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -181,3 +178,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Rojanekirinan saz bike
     .tooltiptext = Rpjanekirinê di vê lîsteyê de saz bike
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
