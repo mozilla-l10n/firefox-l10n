@@ -192,6 +192,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Ativar
     .tooltiptext = Ativar verificação de segurança da atualização de extensões
+extensions-warning-safe-mode = Todos as extensões foram desativadas pelo modo de segurança.
+extensions-warning-check-compatibility = A verificação de compatibilidade de extensões está desativada. Você pode ter extensões incompatíveis.
+extensions-warning-check-compatibility-button = Ativar
+    .title = Ativar verificação de compatibilidade de extensões
+extensions-warning-update-security = A verificação de segurança de atualizações de extensões está desativada. Atualizações de extensões podem comprometer seu computador.
+extensions-warning-update-security-button = Ativar
+    .title = Ativar verificação de segurança da atualização de extensões
 
 ## Strings connected to add-on updates
 
