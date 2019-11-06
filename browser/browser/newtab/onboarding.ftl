@@ -90,12 +90,28 @@ onboarding-tracking-protection-title2 = محافظت از ردگیری شدن
 onboarding-tracking-protection-text2 = { -brand-short-name } کمک می‌کند تا ردگیری آنلاین شما توسط وبسایت‌ها متوقف شود و آگهی‌ها نیز به سختی شما را در وب دنبال خواهند کرد.
 onboarding-tracking-protection-button2 = چطور کار می‌کند
 onboarding-data-sync-title = تنظیماتتان را با خود ببرید
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = هرجا که از { -brand-product-name } استفاده می‌کنید، نشانک‌ها، گذرواژه‌ها و بسیاری چیزهای دیگر را همگام‌سازی کنید.
+onboarding-data-sync-button2 = وارد { -sync-brand-short-name } شوید
+onboarding-firefox-monitor-text = { -monitor-brand-name } مراقب است چنانچه ایمیل شما در یک نشت اطلاعات دیده شده باشد یا در یک نشت اطلاعات جدید ظاهر شود، به شما اطلاع‌رسانی می‌کند.
 onboarding-firefox-monitor-button = برای دریافت اخطارها عضو شوید
 onboarding-browse-privately-title = مرور ناشناس
 onboarding-browse-privately-text = مرور ناشناس، سابقه جستجو و مرور شما را پاک می‌کند تا آن را از دید کسانی که از کامپیوتر شما استفاده می‌کنند مخفی نگه دارد.
 onboarding-browse-privately-button = یک پنجره ناشناس باز کنید
+onboarding-firefox-send-title = فایل‌های به اشتراک گذاشته شده خود را خصوصی نگه دارید
+onboarding-firefox-send-text2 = برای به اشتراک گذاشتن فایل‌های خود با رمز گذاری نقطه به نقطه و لینک دارای تاریخ انقضا، آن‌ها را در { -send-brand-name } بارگذاری کنید.
 onboarding-firefox-send-button = { -send-brand-name } را امتحان کنید
+onboarding-mobile-phone-title = { -brand-product-name } را بر روی تلفن خود داشته باشید
+onboarding-mobile-phone-text = { -brand-product-name } را برای iOS یا Android دریافت کنید و اطلاعات خود را بین دستگاه‌های مختلف همگام‌سازی کنید.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = مرورگر همراه را دریافت کنید
 onboarding-send-tabs-title = بلافاصله زبانه‌ها را برای خود بفرستید
+onboarding-send-tabs-button = استفاده از فرستادن زبانه‌ها را آغاز کنید
+onboarding-pocket-anywhere-title = هرجایی بخوانید و بشنوید
+onboarding-pocket-anywhere-text2 = محتوای مورد علاقه خود را با اپ { -pocket-brand-name } به صورت آفلاین ذخیره کنید و هر زمان که برایتان مناسب بود آن را بخوانید، بشنوید یا تماشا کنید.
+onboarding-pocket-anywhere-button = { -pocket-brand-name } را امتحان کنید
+onboarding-lockwise-passwords-title = گذرواژه‌هایتان را با خود به هرجایی ببرید
 onboarding-facebook-container-button = اضافه کردن افزونه
 
 ## Message strings belonging to the Return to AMO flow
