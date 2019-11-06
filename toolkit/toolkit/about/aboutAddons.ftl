@@ -113,9 +113,6 @@ disabled-unsigned-heading =
 disabled-unsigned-description = { -brand-short-name } निम्नलिखित एड-ऑन उपयोग मे जाँचल नहि गेल अछि. अहाँ जाँचि सकैत छी<label data-l10n-name="find-addons">प्रतिस्थापन पाबू</label>अथवा डेवलपर सँ कहियो कि ओकरा जाँचि लिअ.
 disabled-unsigned-learn-more = अहाँ अपना केँ ऑनलाइन सुरक्षित राखब लेल हमर आओर अनेक प्रयासक बारे मे जानकारी पाउ.
 disabled-unsigned-devinfo = डेवलपर रुचि देखाबत हुए अपन एड-ऑन केँ जाँचनाय जारी राखत पढ़ि कए<label data-l10n-name="learn-more">मैनुअल</label>.
-extensions-view-discover =
-    .name = सहयुक्ति पाउ
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = हालिया अद्यतन
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -151,6 +148,8 @@ extensions-updates-check-for-updates =
     .accesskey = C
 extensions-updates-view-updates =
     .label = हालिया अद्यतन देखू
+    .accesskey = V
+addon-updates-view-updates = हालिया अद्यतन देखू
     .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
@@ -190,3 +189,23 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = अद्यतन संस्थापित  करू
     .tooltiptext = ई सूची मे उपलब्ध अद्यतन संस्थापित  करू
+addon-updates-manual-updates-found = उपलब्ध अद्यतन देखू
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-filter-name = सहयुक्तियाँ
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
