@@ -186,6 +186,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Zmóžnić
     .tooltiptext = Přepruwowanje wěstoty aktualizacije zmóžnić
+extensions-warning-safe-mode = Wšě přidatki su so přez wěsty modus znjemóžnili.
+extensions-warning-check-compatibility = Přepruwowanje přidatkoweje kompatibelnosće je znjemóžnjene. Je móžno, zo maće njekompatibelne přidatki.
+extensions-warning-check-compatibility-button = Zmóžnić
+    .title = Přepruwowanje přidatkoweje kompatibelnosće zmóžnić
+extensions-warning-update-security = Přepruwowanje wěstoty aktualizacije je znjemóžnjene. Je móžno, zo aktualizacije wam wohrožuja.
+extensions-warning-update-security-button = Zmóžnić
+    .title = Přepruwowanje wěstoty aktualizacije zmóžnić
 
 ## Strings connected to add-on updates
 
