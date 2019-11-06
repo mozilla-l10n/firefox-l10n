@@ -198,6 +198,8 @@ extensions-updates-view-updates =
     .accesskey = N
 addon-updates-check-for-updates = Hae päivityksiä
     .accesskey = H
+addon-updates-view-updates = Näytä tuoreet päivitykset
+    .accesskey = N
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -260,6 +262,9 @@ addon-open-about-debugging = Jäljitä lisäosien virheitä
 
 manage-extensions-shortcuts =
     .label = Hallitse laajennusten pikanäppäimiä
+    .accesskey = t
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Hallitse laajennusten pikanäppäimiä
     .accesskey = t
 shortcuts-no-addons = Yhtäkään lisäosaa ei ole otettu käyttöön.
 shortcuts-no-commands = Seuraavilla laajennuksilla ei ole pikanäppäimiä:
@@ -426,3 +431,11 @@ recommended-theme-1 = Haluatko kokeilla itse? <a data-l10n-name="link">Voit luod
 
 ## Page headings
 
+extension-heading = Laajennusten hallinta
+theme-heading = Teemojen hallinta
+plugin-heading = Liitännäisten hallinta
+dictionary-heading = Sanastojen hallinta
+locale-heading = Kielten hallinta
+shortcuts-heading = Laajennusten pikanäppäinten hallinta
+addons-heading-search-input =
+    .placeholder = Etsi addons.mozilla.orgista
