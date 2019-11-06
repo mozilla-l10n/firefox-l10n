@@ -45,6 +45,7 @@ detail-version =
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file-filter-name = Tzajsal tetz
 
 ## Extension shortcut management
 
@@ -75,3 +76,4 @@ addon-detail-updates-radio-default = A' chite' at kan
 
 theme-heading = Nuk' unq'a kame'
 locale-heading = Nuk' unq'a va yolb'ale'
+theme-heading-search-label = Lej kan kam
