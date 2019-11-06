@@ -256,6 +256,9 @@ addon-open-about-debugging = Қосымшаларды жөндеу
 manage-extensions-shortcuts =
     .label = Кеңейтудің пернетақта жарлықтарын басқару
     .accesskey = ж
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Кеңейтудің пернетақта жарлықтарын басқару
+    .accesskey = ж
 shortcuts-no-addons = Сізде ешқандай кеңейтулер орнатылмаған.
 shortcuts-no-commands = Келесі кеңейтулерде жарлықтар жоқ:
 shortcuts-input =
@@ -401,3 +404,12 @@ recommended-theme-1 = Шабытты сезіп тұрсыз ба? <a data-l10n-
 
 ## Page headings
 
+extension-heading = Кеңейтулерді басқару
+theme-heading = Темаларды басқару
+plugin-heading = Плагиндерді басқару
+dictionary-heading = Сөздіктерді басқару
+locale-heading = Тілдерді басқару
+discover-heading = Өз { -brand-short-name } жеке қылыңыз
+shortcuts-heading = Кеңейтудің пернетақта жарлықтарын басқару
+theme-heading-search-label = Көбірек темаларды табу
+extension-heading-search-label = Көбірек кеңейтулерді табу
