@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Celá obrazovka
     .accesskey = C
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Zobrazit všechny panely
@@ -289,4 +289,7 @@ menu-help-safe-mode-with-addons =
 # phishing-afterload-warning-message.dtd is shown.
 menu-help-report-deceptive-site =
     .label = Nahlásit klamavou stránku…
+    .accesskey = l
+menu-help-not-deceptive =
+    .label = Tato stránka není klamavá…
     .accesskey = l
