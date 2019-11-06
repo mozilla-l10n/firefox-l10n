@@ -196,12 +196,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Vaata hiljutisi uuendusi
     .accesskey = V
+addon-updates-check-for-updates = Kontrolli uuendusi
+    .accesskey = o
+addon-updates-view-updates = Vaata hiljutisi uuendusi
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Lisasid uuendatakse automaatselt
+    .accesskey = L
+addon-updates-update-addons-automatically = Lisasid uuendatakse automaatselt
     .accesskey = L
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -215,6 +221,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = M
 extensions-updates-reset-updates-to-manual =
     .label = Määra kõik lisad käsitsi uuendamisele
+    .accesskey = M
+addon-updates-reset-updates-to-automatic = Määra kõik lisad uuendama automaatselt
+    .accesskey = M
+addon-updates-reset-updates-to-manual = Määra kõik lisad käsitsi uuendamisele
     .accesskey = M
 
 ## Status messages displayed when updating add-ons
@@ -234,11 +244,27 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Paigalda uuendused
     .tooltiptext = Paigalda saadaolevad uuendused sellest nimekirjast
+addon-updates-updating = Lisade uuendamine
+addon-updates-installed = Lisad on uuendatud.
+addon-updates-none-found = Uuendusi ei leitud
+addon-updates-manual-updates-found = Vaata saadaolevaid uuendusi
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Paigalda lisa failist…
+    .accesskey = P
+addon-install-from-file-dialog-title = Paigaldatava lisa valimine
+addon-install-from-file-filter-name = Lisad
+addon-open-about-debugging = Debugi lisasid
+    .accesskey = D
 
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
     .label = Halda laienduste kiirklahve
+    .accesskey = H
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Halda laienduste kiirklahve
     .accesskey = H
 shortcuts-no-addons = Ühtki laiendust pole lubatud.
 shortcuts-no-commands = Järgmistel laiendustel puuduvad kiirklahvid:
@@ -398,3 +424,17 @@ recommended-themes-heading = Soovitatavad teemad
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Tunned end loomingulisena? <a data-l10n-name="link">Loo endale oma teema Firefox Coloriga.</a>
+
+## Page headings
+
+extension-heading = Laienduste haldamine
+theme-heading = Teemade haldamine
+plugin-heading = Pluginate haldamine
+dictionary-heading = Sõnastike haldamine
+locale-heading = Keelte haldamine
+discover-heading = Isikupärasta oma { -brand-short-name }
+shortcuts-heading = Halda laienduste kiirklahve
+theme-heading-search-label = Leia rohkem teemasid
+extension-heading-search-label = Leia rohkem laiendusi
+addons-heading-search-input =
+    .placeholder = Otsi saidilt addons.mozilla.org
