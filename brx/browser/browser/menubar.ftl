@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = आबुं स्क्रिन
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = गासै टेबखौ दिन्थि
@@ -281,3 +281,6 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = मावथि खालामनाय Add-ons जों जागाय
     .accesskey = R
+menu-help-not-deceptive =
+    .label = बे जायगाया गाजि् जानाय नंआ
+    .accesskey = ज
