@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = पडदाभर
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = सर्व ट्रॅक दाखवा
@@ -280,4 +280,7 @@ menu-help-safe-mode-with-addons =
 # phishing-afterload-warning-message.dtd is shown.
 menu-help-report-deceptive-site =
     .label = फसवी साईट कळवा…
+    .accesskey = d
+menu-help-not-deceptive =
+    .label = ही साईट फसवी नाही…
     .accesskey = d
