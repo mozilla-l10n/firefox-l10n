@@ -179,6 +179,10 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = ਚਾਲੂ
     .tooltiptext = ਐਡ-ਆਨ ਉੱਤੇ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕੀਤਾ ਜਾਂਦਾ ਹੈ
+extensions-warning-check-compatibility = ਐਡ-ਆਨ ਅਨੁਕੂਲਤਾ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਹੈ। ਤੁਹਾਡੇ ਕੋਲ ਗ਼ੈਰ-ਅਨੁਕੂਲ ਐਡ-ਆਨ ਹੋ ਸਕਦੀਆਂ ਹਨ।
+extensions-warning-update-security = ਐਡ-ਆਨ ਅੱਪਡੇਟ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਹੈ। ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਰਾਹੀਂ ਖਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।
+extensions-warning-update-security-button = ਚਾਲੂ
+    .title = ਐਡ-ਆਨ ਉੱਤੇ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕੀਤਾ ਜਾਂਦਾ ਹੈ
 
 ## Strings connected to add-on updates
 
