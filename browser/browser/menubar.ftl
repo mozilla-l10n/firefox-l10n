@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Full Screen
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Show All Tabs
@@ -289,4 +289,7 @@ menu-help-safe-mode-with-addons =
 # phishing-afterload-warning-message.dtd is shown.
 menu-help-report-deceptive-site =
     .label = Report deceptive site…
+    .accesskey = d
+menu-help-not-deceptive =
+    .label = This isn't a deceptive site…
     .accesskey = d
