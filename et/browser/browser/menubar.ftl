@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Täisekraani režiim
     .accesskey = r
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Kuva kõiki kaarte
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Teata veebivõltsingust…
     .accesskey = T
+menu-help-not-deceptive =
+    .label = See ei ole veebivõltsing…
+    .accesskey = b
