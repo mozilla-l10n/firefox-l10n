@@ -152,9 +152,6 @@ legacy-extensions-description = Chan eil na leudachain seo a’ coileanadh stann
 private-browsing-description2 =
     Tha { -brand-short-name } ag atharrachadh mar a dh’obraicheas leudachain ann am brabhsadh prìobhaideach. Cha ruith leudachan ùr sam bith a chuireas tu ri { -brand-short-name } ann an uinneagan prìobhaideach. Chan obraich an leudachan ann am brabhsadh prìobhaideach gus an ceadaich thu e sna roghainnean agus cha bhi cothrom aige air do ghnìomhachd air loidhne . Rinn sinn seo gus am brabhsadh prìobhaideach a chumail prìobhaideach.
     <label data-l10n-name="private-browsing-learn-more">Mar a stiùiricheas tu roghainnean nan leudachan</label>
-extensions-view-discover =
-    .name = Faigh tuilleadain
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Ùrachaidhean a rinn thu o chionn goirid
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -191,12 +188,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Seall na h-ùrachaidhean faisg orm
     .accesskey = S
+addon-updates-check-for-updates = Lorg ùrachaidhean
+    .accesskey = c
+addon-updates-view-updates = Seall na h-ùrachaidhean faisg orm
+    .accesskey = S
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Ùraich na tuilleadain gu fèin-obrachail
+    .accesskey = a
+addon-updates-update-addons-automatically = Ùraich na tuilleadain gu fèin-obrachail
     .accesskey = a
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -210,6 +213,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = r
 extensions-updates-reset-updates-to-manual =
     .label = Ath-shuidhich gach tuilleadan airson 's gun ùraich iad de làimh
+    .accesskey = r
+addon-updates-reset-updates-to-automatic = Ath-shuidhich gach tuilleadan airson 's gun ùraich iad gu fèin-obrachail
+    .accesskey = r
+addon-updates-reset-updates-to-manual = Ath-shuidhich gach tuilleadan airson 's gun ùraich iad de làimh
     .accesskey = r
 
 ## Status messages displayed when updating add-ons
@@ -229,13 +236,23 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Stàlaich na h-ùrachaidhean
     .tooltiptext = Stàlaich na h-ùrachaidhean san liosta seo a tha ri am faighinn
+addon-updates-updating = Ag ùrachadh nan tuilleadan
+addon-updates-installed = Chaidh na tuilleadain agad ùrachadh.
+addon-updates-none-found = Cha deach ùrachadh a lorg
+addon-updates-manual-updates-found = Seall na h-ùrachaidhean a tha ri am faighinn
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Stàlaich tuilleadan o fhaidhle…
+    .accesskey = i
+addon-install-from-file-dialog-title = Tagh tuilleadan ri stàladh
+addon-install-from-file-filter-name = Tuilleadain
 
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
     .label = Stiùirich ath-ghoiridean an leudachain
     .accesskey = S
-shortcuts-empty-message = Chan eil ath-ghoirid aig an leudachan seo.
 shortcuts-no-addons = Chan eil leudachan sam bith an comas agad.
 shortcuts-no-commands = Chan eil ath-ghoirid aig na leudachain a leanas:
 shortcuts-input =
@@ -262,6 +279,9 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Seall nas lugha
 go-back-button =
     .tooltiptext = Air ais
+
+## Recommended add-ons page
+
 
 ## Add-on actions
 
@@ -290,3 +310,9 @@ addon-detail-reviews-link =
         [few] { $numberOfReviews } lèirmheasan
        *[other] { $numberOfReviews } lèirmheas
     }
+
+## Pending uninstall message bar
+
+
+## Page headings
+
