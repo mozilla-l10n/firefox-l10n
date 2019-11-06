@@ -143,6 +143,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = ಶಕ್ತಗೊಳಿಸು
     .tooltiptext = ಆಡ್-ಆನ್ ಅಪ್‌ಡೇಟ್ ಸುರಕ್ಷತಾ ಪರಿಶೀಲನೆಯನ್ನು ಶಕ್ತಗೊಳಿಸು
+extensions-warning-safe-mode = ಎಲ್ಲಾ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಸುರಕ್ಷತಾ ಕ್ರಮದಿಂದ ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ.
+extensions-warning-check-compatibility = ಆಡ್-ಆನ್‌ ಹೊಂದಾಣಿಕೆ ಪರಿಶೀಲನೆಯನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ. ನೀವು ಹೊಂದಾಣಿಕೆಯಾಗದ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಹೊಂದಿರಬಹುದು.
+extensions-warning-check-compatibility-button = ಶಕ್ತಗೊಳಿಸು
+    .title = ಆಡ್-ಆನ್ ಹೊಂದಾಣಿಕೆ ಪರಿಶೀಲನೆಯನ್ನು ಶಕ್ತಗೊಳಿಸು
+extensions-warning-update-security = ಆಡ್-ಆನ್ ಅಪ್‌ಡೇಟ್ ಸುರಕ್ಷತಾ ಪರಿಶೀಲನೆಯನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ. ನೀವು ಅಪ್‌ಡೇಟ್‌ಗಳಿಂದ ರಾಜಿ ಮಾಡಿಕೊಂಡಂತಾಗಬಹುದು.
+extensions-warning-update-security-button = ಶಕ್ತಗೊಳಿಸು
+    .title = ಆಡ್-ಆನ್ ಅಪ್‌ಡೇಟ್ ಸುರಕ್ಷತಾ ಪರಿಶೀಲನೆಯನ್ನು ಶಕ್ತಗೊಳಿಸು
 
 ## Strings connected to add-on updates
 
