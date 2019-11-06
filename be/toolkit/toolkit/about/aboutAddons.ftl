@@ -198,6 +198,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Пабачыць нядаўнія абнаўленні
     .accesskey = б
+addon-updates-view-updates = Пабачыць нядаўнія абнаўленні
+    .accesskey = б
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -218,6 +220,10 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = Наладзіць усе дадаткі на ручное абнаўленне
     .accesskey = Н
+addon-updates-reset-updates-to-automatic = Наладзіць усе дадаткі абнаўляцца самастойна
+    .accesskey = Н
+addon-updates-reset-updates-to-manual = Наладзіць усе дадаткі на ручное абнаўленне
+    .accesskey = Н
 
 ## Status messages displayed when updating add-ons
 
@@ -236,6 +242,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Усталяваць абнаўленні
     .tooltiptext = Усталяваць даступныя абнаўленні з гэтага спісу
+addon-updates-updating = Абнаўленне дадаткаў
+addon-updates-installed = Вашы дадаткі абноўленыя.
+addon-updates-none-found = Абнаўленні не знойдзеныя
+addon-updates-manual-updates-found = Пабачыць даступныя абнаўленні
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Усталяваць дадатак з файла…
+    .accesskey = У
+addon-install-from-file-dialog-title = Выберыце дадатак для ўсталявання
+addon-install-from-file-filter-name = Дадаткі
 
 ## Extension shortcut management
 
@@ -410,3 +427,6 @@ recommended-themes-heading = Рэкамендаваныя тэмы
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Адчуваеце натхненне? <a data-l10n-name="link">Стварыце ўласную тэму з дапамогай Firefox Color.</a>
+
+## Page headings
+
