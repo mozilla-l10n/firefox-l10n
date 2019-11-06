@@ -197,6 +197,8 @@ extensions-updates-view-updates =
     .accesskey = N
 addon-updates-check-for-updates = Za aktualizacijami pytaś
     .accesskey = a
+addon-updates-view-updates = Nowe aktualizacije se woglědaś
+    .accesskey = N
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -259,6 +261,9 @@ addon-open-about-debugging = Dodanki za zmólkami pśepytowaś
 
 manage-extensions-shortcuts =
     .label = Tastowe skrotconki rozšyrjenjow zastojaś
+    .accesskey = T
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Tastowe skrotconki rozšyrjenjow zastojaś
     .accesskey = T
 shortcuts-no-addons = Njejśco zmóžnił žedne rozšyrjenja.
 shortcuts-no-commands = Slědujuce rozšyrjenja njamaju  tastowe skrotconki:
@@ -425,3 +430,14 @@ recommended-theme-1 = Cujośo se kreatiwny? <a data-l10n-name="link">Napórajśo
 
 ## Page headings
 
+extension-heading = Waše rozšyrjenja zastojaś
+theme-heading = Waše drastwy zastojaś
+plugin-heading = Waše tykace zastojaś
+dictionary-heading = Waše słowniki zastojaś
+locale-heading = Waše rěcy zastojaś
+discover-heading = Personalizěrujśo swój { -brand-short-name }
+shortcuts-heading = Tastowe skrotconki rozšyrjenjow zastojaś
+theme-heading-search-label = Dalšne drastwy pytaś
+extension-heading-search-label = Dalšne rozšyrjenja pytaś
+addons-heading-search-input =
+    .placeholder = Na addons.mozilla.org pytaś
