@@ -104,9 +104,6 @@ detail-rating =
     .value = Tekanyetšo:
 addon-restart-now =
     .label = Thoma ka leswa gona bjale
-extensions-view-discover =
-    .name = Hwetša ditlaleletši
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Dimpshafatšo tša moragobjale
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -181,3 +178,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Lokela dimpshafatšo
     .tooltiptext = Lokela dimpshafatšo tšeo di hwetšagalago lelokelelong
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
