@@ -185,6 +185,8 @@ addon-updates-view-updates = اعرض التحديثات الأخيرة
 extensions-updates-update-addons-automatically =
     .label = حدّث الإضافات تلقائيًا
     .accesskey = ق
+addon-updates-update-addons-automatically = حدّث الإضافات تلقائيًا
+    .accesskey = ق
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
