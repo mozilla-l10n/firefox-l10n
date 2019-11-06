@@ -130,9 +130,6 @@ legacy-warning-show-legacy = Afichar las extensions obsolètas
 legacy-extensions =
     .value = Extensions obsolètas
 legacy-extensions-description = Aquestas extensions respèctan pas los estandards actuals de { -brand-short-name } e son estadas desactivadas. <label data-l10n-name="legacy-learn-more">Ne saber mai suls cambiaments dels moduls</label>
-extensions-view-discover =
-    .name = Obténer de moduls complementaris
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Mes a jorn
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -207,3 +204,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installar las mesas a jorn
     .tooltiptext = Installar las mesas a jorn disponiblas dins aquesta lista
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
