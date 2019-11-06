@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Πλήρης οθόνη
     .accesskey = Π
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Προβολή όλων των καρτελών
@@ -281,3 +281,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Αναφορά παραπλανητικής σελίδας…
     .accesskey = Α
+menu-help-not-deceptive =
+    .label = Αυτή δεν είναι μια παραπλανητική ιστοσελίδα…
+    .accesskey = δ
