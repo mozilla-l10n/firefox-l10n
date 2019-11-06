@@ -150,7 +150,7 @@ menu-view-full-screen =
     .label = முழுத்திரை
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = அனைத்து கீற்றுகளையும் காட்டு
@@ -277,4 +277,7 @@ menu-help-safe-mode-with-addons =
 # phishing-afterload-warning-message.dtd is shown.
 menu-help-report-deceptive-site =
     .label = ஏமாற்று தளத்தைப் புகார் செய்…
+    .accesskey = d
+menu-help-not-deceptive =
+    .label = இது ஓர் ஏமாற்று தளம் அல்ல
     .accesskey = d
