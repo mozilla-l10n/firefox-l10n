@@ -166,12 +166,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = সাম্প্রতিক হালনাগাদ দেখাও
     .accesskey = V
+addon-updates-check-for-updates = হালনাগাদের জন্য পরীক্ষা
+    .accesskey = C
+addon-updates-view-updates = সাম্প্রতিক হালনাগাদ দেখাও
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = স্বয়ংক্রিয়ভাবে অ্যাড-অন হালনাগাদ
+    .accesskey = A
+addon-updates-update-addons-automatically = স্বয়ংক্রিয়ভাবে অ্যাড-অন হালনাগাদ
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -243,3 +249,12 @@ addons-disabled-heading = নিষ্ক্রিয় হয়েছে
 
 ## Page headings
 
+extension-heading = আপনার এক্সটেনশন ব্যবস্থাপনা
+theme-heading = আপনার থিম ব্যবস্থাপনা
+plugin-heading = আপনার প্লাগইন ব্যবস্থাপনা
+dictionary-heading = আপনার অভিধান ব্যবস্থাপনা
+locale-heading = আপনার ভাষা ব্যবস্থাপনা
+theme-heading-search-label = আরও থিম খুঁজুন
+extension-heading-search-label = আরও এক্সটেনশন খুঁজুন
+addons-heading-search-input =
+    .placeholder = addons.mozilla.org এ অনুসন্ধান করুন
