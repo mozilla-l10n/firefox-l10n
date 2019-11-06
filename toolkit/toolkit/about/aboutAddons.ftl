@@ -216,6 +216,8 @@ addon-install-from-file = Suiteáil Breiseán Ó Chomhad…
     .accesskey = S
 addon-install-from-file-dialog-title = Roghnaigh breiseán le suiteáil
 addon-install-from-file-filter-name = Breiseáin
+addon-open-about-debugging = Dífhabhtaigh Breiseáin
+    .accesskey = b
 
 ## Extension shortcut management
 
