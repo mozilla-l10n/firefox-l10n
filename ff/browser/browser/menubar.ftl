@@ -150,7 +150,7 @@ menu-view-full-screen =
     .label = Njaajeendi Yaynirde
     .accesskey = N
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Hollu Tabbe Fof
@@ -278,3 +278,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Jaŋto lowre fuuntoore
     .accesskey = w
+menu-help-not-deceptive =
+    .label = Ɗum wonaa lowre fuuntoore…
+    .accesskey = d
