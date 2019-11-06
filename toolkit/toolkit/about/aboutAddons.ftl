@@ -165,6 +165,9 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Aktiv et
     .tooltiptext = Əlavə yeniləmə təhlükəsizliyinə  nəzarəti aktivləşdir
+extensions-warning-safe-mode = Bütün əlavələr təhlükəsizlik rejimdə söndürüldü.
+extensions-warning-check-compatibility = Əlavə uyğunluq nəzarəti söndürülüb. Uyğun olmayan əlavələriniz ola bilər.
+extensions-warning-update-security = Əlavə yeniləmə təhlükəsizliyinə  nəzarəti söndürülüb. Yeniləmələr təhlükəli ola bilər.
 
 ## Strings connected to add-on updates
 
