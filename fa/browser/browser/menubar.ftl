@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = تمام‌صفحه
     .accesskey = ت
 
-
+##
 
 menu-view-show-all-tabs =
     .label = نمایش همه زبانه‌ها
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = گزارشِ سایت گمراه‌کننده…
     .accesskey = گ
+menu-help-not-deceptive =
+    .label = این یک سایت گمراه‌کننده نیست…
+    .accesskey = d
