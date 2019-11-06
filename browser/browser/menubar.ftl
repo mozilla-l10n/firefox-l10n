@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = পূর্ণ পর্দাজুড়ে প্রদর্শন
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = সব ট্যাব দেখানো হবে
@@ -289,4 +289,7 @@ menu-help-safe-mode-with-addons =
 # phishing-afterload-warning-message.dtd is shown.
 menu-help-report-deceptive-site =
     .label = ক্ষতিকারক সাইট হিসেবে রিপোর্ট করুন…
+    .accesskey = d
+menu-help-not-deceptive =
+    .label = এটি কোন ক্ষতিকারক সাইট না…
     .accesskey = d
