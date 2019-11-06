@@ -278,3 +278,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Informar de puesto malicioso…
     .accesskey = I
+menu-help-not-deceptive =
+    .label = Iste no ye un puesto malicioso…
+    .accesskey = m
