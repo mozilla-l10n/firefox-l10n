@@ -278,3 +278,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Senhalar un site enganaire…
     .accesskey = S
+menu-help-not-deceptive =
+    .label = Es pas un site malvolent…
+    .accesskey = m
