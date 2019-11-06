@@ -140,12 +140,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = नितोक् हा़लियाक् को ञेल मे
     .accesskey = V
+addon-updates-check-for-updates = हा़लियाक् को ला़गित् तेंघान
+    .accesskey = C
+addon-updates-view-updates = नितोक् हा़लियाक् को ञेल मे
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = एड-ऑनस आच् आच् ते हा़ली मे
+    .accesskey = A
+addon-updates-update-addons-automatically = एड-ऑनस आच् आच् ते हा़ली मे
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -159,6 +165,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = जोतो एड-ऑनस आच् आच् लेका ते हा़ली होचो दोहड़ा साजाव मे
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = एड-ऑनस आच् आच् लेकाते ते हा़ली होचो दोहड़ा साजाव में
+    .accesskey = R
+addon-updates-reset-updates-to-manual = जोतो एड-ऑनस आच् आच् लेका ते हा़ली होचो दोहड़ा साजाव मे
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -185,6 +195,8 @@ addon-updates-manual-updates-found = ञामोक् हा़लियाक
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = रेत् खोन एड-ऑन बो़हाल मे…
+    .accesskey = I
 addon-install-from-file-dialog-title = एड-ऑन बो़हाल ला़गित् बाछाव मे
 addon-install-from-file-filter-name = एड-ऑनस
 
