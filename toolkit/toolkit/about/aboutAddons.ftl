@@ -214,6 +214,8 @@ addon-install-from-file = ഫയലില്‍ നിന്നും ആഡ്-
     .accesskey = I
 addon-install-from-file-dialog-title = ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതിനുള്ള ആഡ്-ഓണ്‍ തെരഞ്ഞെടുക്കുക
 addon-install-from-file-filter-name = ആഡ്-ഓണുകള്‍
+addon-open-about-debugging = ആഡ്-ഓണുകള്‍ ഡീബഗ് ചെയ്യുക
+    .accesskey = B
 
 ## Extension shortcut management
 
