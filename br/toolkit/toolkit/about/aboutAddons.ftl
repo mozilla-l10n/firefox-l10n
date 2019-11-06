@@ -177,6 +177,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Gweredekaat
     .tooltiptext = Gweredekaat ar gwiriadur a-fet diogelroez hizivadur an askouezh
+extensions-warning-safe-mode = An holl askouezhioù zo bet diweredekaet gant ar mod diogelroez.
+extensions-warning-check-compatibility = Gwiriañ keverlec'hded an askouezhioù zo dizaotreet. Posupl eo deoc'h kaout askouezhioù nad int ket keverlec'h.
+extensions-warning-check-compatibility-button = Gweredekaat
+    .title = Gweredekaat ar gwiriadur evit keverlec'hded an askouezh
+extensions-warning-update-security = Diweredekaet eo ar gwiriañ evit hizivaat an askouezhioù. Marteze e viot lakaet en arvar gant hizivadurioù.
+extensions-warning-update-security-button = Gweredekaat
+    .title = Gweredekaat ar gwiriadur a-fet diogelroez hizivadur an askouezh
 
 ## Strings connected to add-on updates
 
