@@ -149,6 +149,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = हालिया अद्यतन देखू
     .accesskey = V
+addon-updates-check-for-updates = अद्यतनकएल जाएँच  करू
+    .accesskey = C
 addon-updates-view-updates = हालिया अद्यतन देखू
     .accesskey = V
 
@@ -157,6 +159,8 @@ addon-updates-view-updates = हालिया अद्यतन देखू
 
 extensions-updates-update-addons-automatically =
     .label = सहयुक्ति स्वतः अद्यतन  करू
+    .accesskey = A
+addon-updates-update-addons-automatically = सहयुक्ति स्वतः अद्यतन  करू
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -170,6 +174,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = दस्ती रूप सँ अद्यतन करब क लेल सबहि सहयुक्ति फेर सेट  करू
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = अद्यतन स्वतः करबाक लेल सबहि सहयुक्ति फेर सेट  करू
+    .accesskey = R
+addon-updates-reset-updates-to-manual = दस्ती रूप सँ अद्यतन करब क लेल सबहि सहयुक्ति फेर सेट  करू
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
