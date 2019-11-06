@@ -201,6 +201,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Resinte fernijingen toane
     .accesskey = T
+addon-updates-check-for-updates = Kontrolearje op fernijingen
+    .accesskey = K
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -239,6 +241,10 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Ynstallearje fernijingen
     .tooltiptext = Ynstallearje beskikbere fernijingen op dize list
+addon-updates-none-found = Gjin fernijingen fûn
+
+## Add-on install/debug strings for page options menu
+
 
 ## Extension shortcut management
 
@@ -410,3 +416,6 @@ recommended-themes-heading = Oanrekommandearre tema's
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Fiele jo jo kreätyf? <a data-l10n-name="link"> Bou jo eigen tema mei Firefox Color.</a>
+
+## Page headings
+
