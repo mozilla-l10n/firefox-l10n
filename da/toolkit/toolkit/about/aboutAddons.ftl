@@ -205,6 +205,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Vis seneste opdateringer
     .accesskey = V
+addon-updates-check-for-updates = Søg efter opdateringer
+    .accesskey = T
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
