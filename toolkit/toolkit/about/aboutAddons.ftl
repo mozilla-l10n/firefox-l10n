@@ -442,6 +442,7 @@ theme-heading = Hantera dina teman
 plugin-heading = Hantera dina insticksmoduler
 dictionary-heading = Hantera dina ordlistor
 locale-heading = Hantera dina språk
+updates-heading = Hantera dina uppdateringar
 discover-heading = Anpassa { -brand-short-name }
 shortcuts-heading = Hantera genvägar för tillägg
 theme-heading-search-label = Hitta fler teman
