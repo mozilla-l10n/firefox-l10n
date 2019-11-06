@@ -174,12 +174,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Skoða nýlegar uppfærslur
     .accesskey = S
+addon-updates-check-for-updates = Leita að uppfærslum
+    .accesskey = L
+addon-updates-view-updates = Skoða nýlegar uppfærslur
+    .accesskey = S
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Uppfæra viðbætur sjálfvirkt
+    .accesskey = a
+addon-updates-update-addons-automatically = Uppfæra viðbætur sjálfvirkt
     .accesskey = a
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -193,6 +199,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = r
 extensions-updates-reset-updates-to-manual =
     .label = Endurstilla allar viðbætur á handvirka uppfærslu
+    .accesskey = r
+addon-updates-reset-updates-to-automatic = Endurstilla allar viðbætur á sjálfvirka uppfærslu
+    .accesskey = r
+addon-updates-reset-updates-to-manual = Endurstilla allar viðbætur á handvirka uppfærslu
     .accesskey = r
 
 ## Status messages displayed when updating add-ons
@@ -212,11 +222,19 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Setja inn uppfærslur
     .tooltiptext = Setja inn allar uppfærslur í þessum lista
+addon-updates-updating = Uppfæri viðbætur
+addon-updates-installed = Búið er að uppfæra viðbætur.
+addon-updates-none-found = Engar uppfærslur fundust
+addon-updates-manual-updates-found = Skoða fáanlegar uppfærslur
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Setja inn viðbót frá skrá…
+    .accesskey = i
 addon-install-from-file-dialog-title = Veldu viðbót til að setja inn
 addon-install-from-file-filter-name = Viðbætur
+addon-open-about-debugging = Kemba viðbætur
+    .accesskey = b
 
 ## Extension shortcut management
 
