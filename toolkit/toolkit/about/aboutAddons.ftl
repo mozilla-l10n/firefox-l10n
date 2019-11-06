@@ -189,6 +189,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Activer
     .tooltiptext = Activer la vérification de mises à jour de sécurité pour les modules complémentaires
+extensions-warning-safe-mode = Tous les modules complémentaires ont été désactivés par le mode sans échec.
+extensions-warning-check-compatibility = La vérification de compatibilité des modules complémentaires est désactivée. Vous avez peut-être des modules complémentaires incompatibles.
+extensions-warning-check-compatibility-button = Activer
+    .title = Activer la vérification de compatibilité
+extensions-warning-update-security = La vérification de mises à jour de sécurité pour les modules complémentaires est désactivée. Vous avez peut-être des modules complémentaires non sûrs.
+extensions-warning-update-security-button = Activer
+    .title = Activer la vérification de mises à jour de sécurité pour les modules complémentaires
 
 ## Strings connected to add-on updates
 
