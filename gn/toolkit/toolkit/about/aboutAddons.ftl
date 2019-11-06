@@ -195,12 +195,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Ñembohekopyahu ramovéva jehecha
     .accesskey = V
+addon-updates-check-for-updates = Ñembohekopyahu jeheka
+    .accesskey = C
+addon-updates-view-updates = Ñembohekopyahu ramovéva jehecha
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Moĩmbaha ijeheguietéva mbohekopyahu
+    .accesskey = A
+addon-updates-update-addons-automatically = Moĩmbaha ijeheguietéva mbohekopyahu
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -214,6 +220,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = Emboheko opaite moĩmbaha oñembohekopyahu hag̃uáicha pópe
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = Emboheko opaite umi moimbaha oñembohekopyahu hag̃ua ijeheguiete
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Emboheko opaite moĩmbaha oñembohekopyahu hag̃uáicha pópe
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -233,6 +243,19 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Ñembohekopyahu mohenda
     .tooltiptext = Ñembohekopyahu eipurukuaáva ko tysýi pegua mohenda
+addon-updates-updating = Moimbaha hekopyahuhína
+addon-updates-installed = Oñembohekopyahúma nemoimbaha.
+addon-updates-none-found = Ndojejuhúi ñembohekopyahu
+addon-updates-manual-updates-found = Ehecha ñembohekopyahu eipurukuaáva
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Emohenda moĩmbaha marandurenda guive…
+    .accesskey = I
+addon-install-from-file-dialog-title = Eiporavo moimbaha emohenda hag̃ua
+addon-install-from-file-filter-name = Moĩmbahakuéra
+addon-open-about-debugging = Emopotĩ Moĩmbahakuéra
+    .accesskey = p
 
 ## Extension shortcut management
 
@@ -397,3 +420,6 @@ recommended-themes-heading = Téma je’eporãpyre
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = ¿Emoheñoisépa? <a data-l10n-name="link">Emoheñoi ne temarã Firefox Color ndive.</a>
+
+## Page headings
+
