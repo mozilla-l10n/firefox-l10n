@@ -235,6 +235,11 @@ extensions-updates-update-selected =
     .label = Güncellemeleri kur
     .tooltiptext = Bu listedeki mevcut güncellemeleri kur
 
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = Kurulacak eklentiyi seçin
+addon-install-from-file-filter-name = Eklentiler
+
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
@@ -400,3 +405,6 @@ recommended-themes-heading = Önerilen temalar
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Yaratıcı gününüzde misiniz? <a data-l10n-name="link">Firefox Color ile kendi temanızı oluşturun.</a>
+
+## Page headings
+
