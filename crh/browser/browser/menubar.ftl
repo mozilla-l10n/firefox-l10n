@@ -278,3 +278,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Yañıltıcı Saytnı Maruza Et…
     .accesskey = Y
+menu-help-not-deceptive =
+    .label = Bu, yañıltıcı bir sayt degildir…
+    .accesskey = d
