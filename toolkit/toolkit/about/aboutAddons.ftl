@@ -433,3 +433,12 @@ recommended-theme-1 = Чувствуете прилив вдохновения? 
 
 ## Page headings
 
+extension-heading = Управление моими расширениями
+theme-heading = Управление моими темами
+plugin-heading = Управление моими плагинами
+dictionary-heading = Управление моими словарями
+locale-heading = Управление моими языками
+theme-heading-search-label = Найти другие темы
+extension-heading-search-label = Найти больше расширений
+addons-heading-search-input =
+    .placeholder = Поиск на addons.mozilla.org
