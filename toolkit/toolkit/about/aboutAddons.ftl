@@ -448,6 +448,7 @@ theme-heading = Управление моими темами
 plugin-heading = Управление моими плагинами
 dictionary-heading = Управление моими словарями
 locale-heading = Управление моими языками
+updates-heading = Управление моими обновлениями
 discover-heading = Сделайте { -brand-short-name } своим
 shortcuts-heading = Управление горячими клавишами расширений
 theme-heading-search-label = Найти другие темы
