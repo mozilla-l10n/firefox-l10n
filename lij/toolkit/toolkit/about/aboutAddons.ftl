@@ -164,6 +164,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Abilita
     .tooltiptext = Abilita o contròllo de seguessa in sci agiornamenti di conponenti azonti
+extensions-warning-safe-mode = Tutti i conponenti azonti son stæti dizabilitæ da o moddo seguo.
+extensions-warning-check-compatibility = O contròllo de conpatibilitæ di conponenti azonti l'é dizabilita. Ti peu avei di conponenti azonti no conpatibili.
+extensions-warning-check-compatibility-button = Abilita
+    .title = Abilita o contròllo a conpatibilitæ di conponenti azonti
+extensions-warning-update-security = O contròllo de seguessa in sci agiornamenti di conponenti azonti o l'é dizabilitou. Te peu capitâ de ese aroinou da i agiornamenti.
+extensions-warning-update-security-button = Abilita
+    .title = Abilita o contròllo de seguessa in sci agiornamenti di conponenti azonti
 
 ## Strings connected to add-on updates
 
