@@ -276,3 +276,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Prijavi obmanjujuću stranicu…
     .accesskey = o
+menu-help-not-deceptive =
+    .label = Ovo nije obmanjujuća stranica…
+    .accesskey = o
