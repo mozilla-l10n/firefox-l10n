@@ -140,12 +140,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Binisa ukuvuselela kwamanje
     .accesskey = B
+addon-updates-check-for-updates = Hlola ukuvuselela
+    .accesskey = H
+addon-updates-view-updates = Binisa ukuvuselela kwamanje
+    .accesskey = B
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Vuselela okwengezwayo ngokuzenzakalela
+    .accesskey = o
+addon-updates-update-addons-automatically = Vuselela okwengezwayo ngokuzenzakalela
     .accesskey = o
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -159,6 +165,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = H
 extensions-updates-reset-updates-to-manual =
     .label = Hlela kabusha konke okwengezwayo ukuze kuviselelwe nguwe
+    .accesskey = H
+addon-updates-reset-updates-to-automatic = Hlela kabusha konke okwengezwayo ukuze kuvuselele kuzenzakalele
+    .accesskey = H
+addon-updates-reset-updates-to-manual = Hlela kabusha konke okwengezwayo ukuze kuviselelwe nguwe
     .accesskey = H
 
 ## Status messages displayed when updating add-ons
@@ -178,9 +188,16 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Ifaka ukuvuselela
     .tooltiptext = Faka ukuvuselela okukhona kulolu hlu
+addon-updates-updating = Ukuvuselela kokwengezwayo
+addon-updates-installed = Okwengeziwe kwakho kuvuselelwe.
+addon-updates-none-found = Akukho ukuvuselela okutholakele
+addon-updates-manual-updates-found = Bonisa ukuvuselela okukhona
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Faka okwengezwayo kusuka efayilini…
+    .accesskey = F
+addon-install-from-file-filter-name = Okwengeziwe
 
 ## Extension shortcut management
 
