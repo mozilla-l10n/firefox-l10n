@@ -163,12 +163,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Ver anovamientos recientes
     .accesskey = V
+addon-updates-check-for-updates = Comprobar anovamientos
+    .accesskey = C
+addon-updates-view-updates = Ver anovamientos recientes
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Anovar complementos automáticamente
+    .accesskey = A
+addon-updates-update-addons-automatically = Anovar complementos automáticamente
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -182,6 +188,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = Reafitar tolos complementos p'anovalos a mano
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = Reafitar tolos complementos p'anovalos automáticamente
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Reafitar tolos complementos p'anovalos a mano
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -201,10 +211,19 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalar anovamientos
     .tooltiptext = Instalar los anovamientos disponibles nesti llistáu
+addon-updates-updating = Anovando complementos
+addon-updates-installed = Anováronse los complementos.
+addon-updates-none-found = Nun s'alcontraron anovamientos
+addon-updates-manual-updates-found = Ver anovamientos disponibles
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Instalar complementu dende ficheru…
+    .accesskey = I
+addon-install-from-file-dialog-title = Esbilla'l compltementu pa instalar
 addon-install-from-file-filter-name = Complementos
+addon-open-about-debugging = Depurar complementos
+    .accesskey = D
 
 ## Extension shortcut management
 
@@ -226,3 +245,8 @@ locale-enabled-heading = Activóse
 
 ## Page headings
 
+extension-heading = Xestión d'estensiones
+theme-heading = Xestión d'estilos
+plugin-heading = Xestión de plugins
+dictionary-heading = Xestión de diccionarios
+locale-heading = Xestión de llingües
