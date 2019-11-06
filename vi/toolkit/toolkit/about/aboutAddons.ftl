@@ -196,12 +196,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Xem các cập nhật gần đây
     .accesskey = V
+addon-updates-check-for-updates = Kiểm tra cập nhật
+    .accesskey = C
+addon-updates-view-updates = Xem các cập nhật gần đây
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Tự động cập nhật tiện ích
+    .accesskey = A
+addon-updates-update-addons-automatically = Tự động cập nhật tiện ích
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -215,6 +221,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = Thiết lập cập nhật thủ công tất cả các tiện ích
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = Thiết lập cập nhật tự động tất cả các tiện ích
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Thiết lập cập nhật thủ công tất cả các tiện ích
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -235,13 +245,18 @@ extensions-updates-update-selected =
     .label = Cài đặt cập nhật
     .tooltiptext = Cài đặt các cập nhật trong danh sách này
 addon-updates-updating = Đang cập nhật tiện ích
+addon-updates-installed = Các tiện ích của bạn đã được cập nhật.
 addon-updates-none-found = Không tìm thấy cập nhật
 addon-updates-manual-updates-found = Xem các cập nhật hiện có
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Cài đặt tiện ích từ tập tin…
+    .accesskey = I
 addon-install-from-file-dialog-title = Chọn tiện ích để cài đặt
 addon-install-from-file-filter-name = Tiện ích
+addon-open-about-debugging = Gỡ lỗi tiện ích
+    .accesskey = b
 
 ## Extension shortcut management
 
@@ -415,3 +430,13 @@ recommended-theme-1 = Cảm thấy muốn sáng tạo? <a data-l10n-name="link">
 
 ## Page headings
 
+extension-heading = Quản lí tiện ích của bạn
+theme-heading = Quản lí chủ đề của bạn
+plugin-heading = Quản lí phần bổ trợ của bạn
+dictionary-heading = Quản lí từ điển của bạn
+locale-heading = Quản lí ngôn ngữ của bạn
+discover-heading = Cá nhân hóa { -brand-short-name } của bạn
+theme-heading-search-label = Tìm thêm chủ đề
+extension-heading-search-label = Tìm thêm tiện ích
+addons-heading-search-input =
+    .placeholder = Tìm kiếm addons.mozilla.org
