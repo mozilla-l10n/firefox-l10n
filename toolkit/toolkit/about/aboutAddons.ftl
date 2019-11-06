@@ -390,3 +390,5 @@ recommended-theme-1 = Merasa kreatif? <a data-l10n-name="link">Buat tema Anda se
 ## Page headings
 
 shortcuts-heading = Kelola Pintasan Ekstensi
+addons-heading-search-input =
+    .placeholder = Cari addons.mozilla.org
