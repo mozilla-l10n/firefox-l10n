@@ -173,12 +173,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Fanni vedde i urtimi agiornamenti
     .accesskey = v
+addon-updates-check-for-updates = Çerca agiornamenti
+    .accesskey = c
+addon-updates-view-updates = Fanni vedde i urtimi agiornamenti
+    .accesskey = v
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Agiorna i conponenti azonti in aotomatico
+    .accesskey = A
+addon-updates-update-addons-automatically = Agiorna i conponenti azonti in aotomatico
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -192,6 +198,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = Reinpòsta tutti i conponenti azonti pe agiornali a man
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = Reinpòsta tutti i conponenti azonti pe agiornali in aotomatico
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Reinpòsta tutti i conponenti azonti pe agiornali a man
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -211,6 +221,15 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installa Agiornamento
     .tooltiptext = Installa i Agiornamenti da lista
+addon-updates-updating = Agiorno i conponenti azonti
+addon-updates-installed = I teu conponenti azonti son stæti agiornæ.
+addon-updates-none-found = Nisciun agiornamento trovou
+addon-updates-manual-updates-found = Fanni vedde i agiornamenti disponibili
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = Seleçionn-a i conponenti da instalâ
+addon-install-from-file-filter-name = Conponenti azonti
 
 ## Extension shortcut management
 
@@ -249,4 +268,7 @@ addons-enabled-heading = Ativou
 addons-disabled-heading = Dizativou
 
 ## Pending uninstall message bar
+
+
+## Page headings
 
