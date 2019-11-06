@@ -189,6 +189,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Ενεργοποίηση
     .tooltiptext = Ενεργοποίηση ελέγχου ασφαλείας ενημερώσεων προσθέτων
+extensions-warning-safe-mode = Όλα τα πρόσθετα έχουν απενεργοποιηθεί στην ασφαλή λειτουργία.
+extensions-warning-check-compatibility = Ο έλεγχος συμβατότητας προσθέτων είναι ανενεργός. Μπορεί να έχετε ασύμβατα πρόσθετα.
+extensions-warning-check-compatibility-button = Ενεργοποίηση
+    .title = Ενεργοποίηση ελέγχου συμβατότητας προσθέτων
+extensions-warning-update-security = Ο έλεγχος ασφαλείας ενημερώσεων  προσθέτων είναι ανενεργός. Μπορεί να κινδυνέψετε.
+extensions-warning-update-security-button = Ενεργοποίηση
+    .title = Ενεργοποίηση ελέγχου ασφαλείας ενημερώσεων προσθέτων
 
 ## Strings connected to add-on updates
 
