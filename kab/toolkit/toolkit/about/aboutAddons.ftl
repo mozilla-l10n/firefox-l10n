@@ -176,6 +176,12 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Rmed
     .tooltiptext = Rmed asenqed n ileqman n tɣellist i yezgrar isemmadanen
+extensions-warning-safe-mode = Armad n izegrar yekkes-it uskar aɣalsan.
+extensions-warning-check-compatibility-button = Rmed
+    .title = Rmed asenqed n tisiḍent
+extensions-warning-update-security = Asenqed n ileqman n tɣellist n izegrar ur yermid ara. Yezmer ad tesɛuḍ yir izegrar.
+extensions-warning-update-security-button = Rmed
+    .title = Rmed asenqed n ileqman n tɣellist i yezgrar isemmadanen
 
 ## Strings connected to add-on updates
 
