@@ -227,6 +227,10 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = Definir atualização manual de tudo
     .accesskey = D
+addon-updates-reset-updates-to-automatic = Definir atualização automática de tudo
+    .accesskey = D
+addon-updates-reset-updates-to-manual = Definir atualização manual de tudo
+    .accesskey = D
 
 ## Status messages displayed when updating add-ons
 
@@ -256,11 +260,16 @@ addon-install-from-file = Instalar de um arquivo…
     .accesskey = I
 addon-install-from-file-dialog-title = Selecionar extensão para instalar
 addon-install-from-file-filter-name = Extensões
+addon-open-about-debugging = Depurar extensões
+    .accesskey = x
 
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
     .label = Gerenciar atalhos de extensões
+    .accesskey = h
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Gerenciar atalhos de extensões
     .accesskey = h
 shortcuts-no-addons = Você não tem nenhuma extensão ativada.
 shortcuts-no-commands = As seguintes extensões não têm atalhos de teclado:
@@ -430,3 +439,14 @@ recommended-theme-1 = Sentindo criatividade? <a data-l10n-name="link">Crie seu p
 
 ## Page headings
 
+extension-heading = Gerenciamento de extensões
+theme-heading = Gerenciamento de temas
+plugin-heading = Gerenciamento de plugins
+dictionary-heading = Gerenciamento de dicionários
+locale-heading = Gerenciamento de idiomas
+discover-heading = Personalize o { -brand-short-name }
+shortcuts-heading = Gerenciar atalhos de extensões
+theme-heading-search-label = Encontrar mais temas
+extension-heading-search-label = Encontrar mais extensões
+addons-heading-search-input =
+    .placeholder = Pesquisar em addons.mozilla.org
