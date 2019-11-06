@@ -104,9 +104,6 @@ detail-rating =
     .value = दोर ठा़वका़
 addon-restart-now =
     .label = नित दोहड़ा एहोब मे
-extensions-view-discover =
-    .name = एड-ऑनस ञाम में
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = नितोक् हा़लियाक् को
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -181,3 +178,27 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = हा़लियाक् को बो़हाल मे
     .tooltiptext = नोवा लिसटी रे ञामोक् हा़लियाक् को बो़हाल मे
+addon-updates-updating = एड ऑन को हा़ली येत् आ.
+addon-updates-installed = आमाक् सहा़ली आकाना.
+addon-updates-none-found = जाहान हा़लियाक् को बाय ञाम लेना
+addon-updates-manual-updates-found = ञामोक् हा़लियाक् को ञेंल मे
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = एड-ऑन बो़हाल ला़गित् बाछाव मे
+addon-install-from-file-filter-name = एड-ऑनस
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
