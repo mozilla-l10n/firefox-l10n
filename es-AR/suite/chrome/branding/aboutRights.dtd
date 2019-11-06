@@ -57,7 +57,7 @@
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "Servicios de complementos: ">
-<!ENTITY rights.addons-b "Por defecto, &brandShortName; sugerirá complementos de la página &view.discover.label; y verfiica por actualizaciones en intervalos regulares.  Si desea deshabilitar estas funcionalidades para evitar comunicación de información sobre complementos instalados al servidor, siga estos pasos:">
+<!ENTITY rights.addons-b "De manera predeterminada, &brandShortName; va a sugerir complementos de la página &view.discover.label; y va a verificar si hay actualizaciones a intervalos regulares.  Si desea deshabilitar estas funcionalidades para evitar la comunicación de información sobre complementos instalados al servidor, siga estos pasos:">
 <!ENTITY rights.addons-term1 "Abra las preferencias de aplicación">
 <!ENTITY rights.addons-term2 "Seleccione el panel &smart.label; en la categoría &advance.label;">
 <!ENTITY rights.addons-term3 "Desmarque las opciones a &quot;&autoAddOnsUpdates.label;&quot; y &quot;&enablePersonalized.label;&quot;">
