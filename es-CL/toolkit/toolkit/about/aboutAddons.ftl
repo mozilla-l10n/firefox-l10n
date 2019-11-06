@@ -191,12 +191,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Ver actualizaciones recientes
     .accesskey = V
+addon-updates-check-for-updates = Buscar actualizaciones
+    .accesskey = c
+addon-updates-view-updates = Ver actualizaciones recientes
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Actualizar complementos automáticamente
+    .accesskey = A
+addon-updates-update-addons-automatically = Actualizar complementos automáticamente
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -210,6 +216,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = Reiniciar todos los complementos a actualización manual
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = Reiniciar todos los complementos a actualización automática
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Reiniciar todos los complementos a actualización manual
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -229,9 +239,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalar actualizaciones
     .tooltiptext = Instalar actualizaciones disponibles en esta lista
+addon-updates-updating = Actualizando complementos
+addon-updates-installed = Sus complementos han sido actualizados.
+addon-updates-none-found = No se encontraron actualizaciones
+addon-updates-manual-updates-found = Ver actualizaciones disponibles
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Instalar complemento desde archivo…
+    .accesskey = I
+addon-install-from-file-dialog-title = Selecionar complemento para instalar
+addon-install-from-file-filter-name = Complementos
 addon-open-about-debugging = Depurar complementos
     .accesskey = B
 
@@ -239,6 +257,9 @@ addon-open-about-debugging = Depurar complementos
 
 manage-extensions-shortcuts =
     .label = Gestionar atajos de extensiones
+    .accesskey = S
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Gestionar atajos de extensiones
     .accesskey = S
 shortcuts-no-addons = No tienes ninguna extensión habilitada.
 shortcuts-no-commands = Las siguientes extensiones no tienen atajos:
@@ -401,3 +422,14 @@ recommended-theme-1 = ¿Te sientes creativo? <a data-l10n-name="link"> Crea tu p
 
 ## Page headings
 
+extension-heading = Gestiona tus extensiones
+theme-heading = Gestiona tus temas
+plugin-heading = Gestiona tus complementos
+dictionary-heading = Gestiona tus diccionarios
+locale-heading = Gestiona tus idiomas
+discover-heading = Personaliza tu { -brand-short-name }
+shortcuts-heading = Gestionar atajos de extensiones
+theme-heading-search-label = Buscar más temas
+extension-heading-search-label = Buscar más extensiones
+addons-heading-search-input =
+    .placeholder = Buscar en addons.mozilla.org
