@@ -201,6 +201,8 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = Reset All Add-ons to Update Manually
     .accesskey = R
+addon-updates-reset-updates-to-manual = Reset All Add-ons to Update Manually
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
