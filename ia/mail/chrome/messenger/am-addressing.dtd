@@ -10,10 +10,18 @@
 <!ENTITY editDirectories.label     "Redaction de directorios…">
 <!ENTITY editDirectories.accesskey "R">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
+<!ENTITY directories.label         "Usar un servitor LDAP differente:">
+<!ENTITY directories.accesskey     "d">
+<!ENTITY directoriesNone.label     "Nulle">
 
 <!-- am-addressing.xul -->
 
+<!ENTITY compositionGroupTitle.label          "Composition">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
+<!ENTITY useHtml.label                        "Rediger le messages in HTML">
+<!ENTITY useHtml.accesskey                    "R">
+<!ENTITY autoQuote.label                      "Citar automaticamente le message original in le responsa">
+<!ENTITY autoQuote.accesskey                  "m">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 
 
