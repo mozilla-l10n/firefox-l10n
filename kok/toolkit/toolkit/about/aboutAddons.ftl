@@ -104,9 +104,6 @@ detail-rating =
     .value = रेटींग
 addon-restart-now =
     .label = आता परत चालू करात
-extensions-view-discover =
-    .name = अँड-ऑन मेळयात
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = हालींचे अपडेट
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -143,12 +140,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = आनी हालींचे अपडेट पळयात
     .accesskey = V
+addon-updates-check-for-updates = आनी अपडेटांखातीर तपासात
+    .accesskey = C
+addon-updates-view-updates = आनी हालींचे अपडेट पळयात
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = अपडेट आनी अँड-ऑन आपसूक
+    .accesskey = A
+addon-updates-update-addons-automatically = अपडेट आनी अँड-ऑन आपसूक
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -162,6 +165,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = आनी हातान अपडेट जावपाक सगले अँड-ऑन परत स्थापीत करात
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = आनी आपसूक अपडेट जावपाक सगले अँड-ऑन परत स्थापीत करात
+    .accesskey = R
+addon-updates-reset-updates-to-manual = आनी हातान अपडेट जावपाक सगले अँड-ऑन परत स्थापीत करात
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -181,3 +188,29 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = अपडेट स्थापीत करात
     .tooltiptext = वळेरीत उपलब्ध अपडेट स्थापीत करात
+addon-updates-updating = अँड-ऑन अपडेट करतात
+addon-updates-installed = तुमचे अँड-ऑन अपडेट केल्यात
+addon-updates-none-found = सुदार उपलबाद ना
+addon-updates-manual-updates-found = उपलब्ध अपडेट पळयात
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = आनी फायलींतल्यान अँड-ऑन स्थापीत करा
+    .accesskey = I
+addon-install-from-file-dialog-title = स्थापीत करपाक अँड-ऑन वेंचात
+addon-install-from-file-filter-name = अँड-ऑन
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
