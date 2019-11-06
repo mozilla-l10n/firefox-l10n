@@ -193,12 +193,16 @@ extensions-updates-view-updates =
     .accesskey = T
 addon-updates-check-for-updates = Maghanap ng mga Update
     .accesskey = M
+addon-updates-view-updates = Tingnan ang mga Bagong Update
+    .accesskey = T
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = I-update nang Kusa ang mga Add-on
+    .accesskey = A
+addon-updates-update-addons-automatically = I-update nang Kusa ang mga Add-on
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -213,6 +217,8 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = Ibalik ang lahat ng Add-ons upang mabago nang mano-mano
     .accesskey = I
+addon-updates-reset-updates-to-automatic = I-reset lahat ng mga add-on para kusang mag-update
+    .accesskey = r
 addon-updates-reset-updates-to-manual = Ibalik ang lahat ng Add-ons upang mabago nang mano-mano
     .accesskey = I
 
@@ -233,6 +239,8 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = I-install ang mga Update
     .tooltiptext = I-install ang mga update na nasa listahan
+addon-updates-updating = Ina-update ang mga add-on
+addon-updates-installed = Na-update na ang add-on mo.
 addon-updates-none-found = Walang updates na nakita
 addon-updates-manual-updates-found = Tingnan Lahat ng mga Update
 
@@ -241,11 +249,17 @@ addon-updates-manual-updates-found = Tingnan Lahat ng mga Update
 addon-install-from-file = Mag-install ng Add-on Mula sa File…
     .accesskey = i
 addon-install-from-file-dialog-title = Piliin ang add-on na iinstall
+addon-install-from-file-filter-name = Mga add-on
+addon-open-about-debugging = I-debug ang mga Add-on
+    .accesskey = B
 
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
     .label = I-manage ang mga Extension Shortcut
+    .accesskey = S
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = I-manage ang mga Extension Shortcut
     .accesskey = S
 shortcuts-no-addons = Wala kang extension na naka-enable.
 shortcuts-no-commands = Ang mga sumusunod na extension ay walang shortcut:
@@ -408,5 +422,14 @@ recommended-theme-1 = May pagkamalikhain? <a data-l10n-name="link">Bumuo ng sari
 
 ## Page headings
 
+extension-heading = I-manage ang Iyong mga Extension
+theme-heading = I-manage ang Iyong mga Tema
+plugin-heading = I-manage ang Iyong mga Plugin
+dictionary-heading = I-manage ang Iyong mga Diksiyonaryo
+locale-heading = I-manage ang Iyong mga Wika
+discover-heading = Ipasadya mo ang Iyong { -brand-short-name }
+shortcuts-heading = I-manage ang mga Extension Shortcut
+theme-heading-search-label = Maghanap pa ng ibang mga tema
+extension-heading-search-label = Maghanap pa ng ibang mga extension
 addons-heading-search-input =
     .placeholder = Hanapin sa addons.mozilla.org
