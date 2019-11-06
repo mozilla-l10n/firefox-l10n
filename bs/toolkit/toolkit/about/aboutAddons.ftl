@@ -121,9 +121,6 @@ legacy-warning-show-legacy = Prikaže zastarjele ekstenzije
 legacy-extensions =
     .value = Zastarjele ekstenzije
 legacy-extensions-description = Ove ekstenzije ne zadovoljavaju trenutne { -brand-short-name } standarde i stoga su deaktivirane. <label data-l10n-name="legacy-learn-more">Saznajte više o promjenama na add-onima</label>
-extensions-view-discover =
-    .name = Dobavi Add-one
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Nedavne nadogradnje
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -198,3 +195,25 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Nadogradi
     .tooltiptext = Instaliraj dostupne nadogradnje na ovoj listi
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Instaliraj Add-on iz fajla…
+    .accesskey = I
+addon-install-from-file-dialog-title = Izaberite add-on za instalaciju
+addon-install-from-file-filter-name = Add-oni
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
