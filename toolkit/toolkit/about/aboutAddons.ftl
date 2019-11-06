@@ -140,12 +140,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = শেহতীয়া আপডেইটসমূহ দৰ্শন কৰক
     .accesskey = V
+addon-updates-check-for-updates = আপডেইটসমূহৰ বাবে নীৰিক্ষণ কৰক
+    .accesskey = C
+addon-updates-view-updates = শেহতীয়া আপডেইটসমূহ দৰ্শন কৰক
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = স্বচালিতভাৱে এড-অনসমূহ আপডেইট কৰক
+    .accesskey = A
+addon-updates-update-addons-automatically = স্বচালিতভাৱে এড-অনসমূহ আপডেইট কৰক
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -159,6 +165,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = সকলো এড-অন হস্তচালিতভাৱে আপডেইট হবলে পুনৰ সংহতি কৰক
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = সকলো এড-অন স্বচালিতভাৱে আপডেইট হবলে পুনৰ সংহতি কৰক
+    .accesskey = R
+addon-updates-reset-updates-to-manual = সকলো এড-অন হস্তচালিতভাৱে আপডেইট হবলে পুনৰ সংহতি কৰক
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -178,6 +188,7 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = আপডেইটসমূহ ইনস্টল কৰক
     .tooltiptext = এই তালিকাত থকা উপলব্ধ আপডেইটসমূহ ইনস্টল কৰক
+addon-updates-updating = এড-অনসমূহ আপডেইট কৰা হৈছে
 addon-updates-installed = আপোনাৰ এড-অনসমূহ আপডেইট কৰা হল।
 addon-updates-none-found = কোনো আপডেইট পোৱা নগল
 addon-updates-manual-updates-found = উপলব্ধ আপডেইটসমূহ দৰ্শন কৰক
