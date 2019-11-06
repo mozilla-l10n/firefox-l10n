@@ -104,9 +104,6 @@ detail-rating =
     .value = Kadirio
 addon-restart-now =
     .label = Anza upya sasa
-extensions-view-discover =
-    .name = Pata Vifaa vya nyongeza
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Visasaisho vya hivi karibuni
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -143,12 +140,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Angalia Visasaisho vya Hivi Karibuni
     .accesskey = A
+addon-updates-check-for-updates = Kagua Visasaisho
+    .accesskey = K
+addon-updates-view-updates = Angalia Visasaisho vya Hivi Karibuni
+    .accesskey = A
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Sasaisha Vifaa vya nyongeza Kiotomatiki
+    .accesskey = V
+addon-updates-update-addons-automatically = Sasaisha Vifaa vya nyongeza Kiotomatiki
     .accesskey = V
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -162,6 +165,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = W
 extensions-updates-reset-updates-to-manual =
     .label = Weka upya Vifaa vyote vya nyongeza Visasaishe kwa Mikono
+    .accesskey = W
+addon-updates-reset-updates-to-automatic = Weka upya Vifaa vyote va nyongeza Visasaishe Kiotomatiki
+    .accesskey = W
+addon-updates-reset-updates-to-manual = Weka upya Vifaa vyote vya nyongeza Visasaishe kwa Mikono
     .accesskey = W
 
 ## Status messages displayed when updating add-ons
@@ -181,3 +188,29 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Sakinisha Visasaisho
     .tooltiptext = Sakinisha visasaisho vinavyopatikana katika orodha hii
+addon-updates-updating = Kusasaisha vifaa vya nyongeza
+addon-updates-installed = Vifaa vyako vya nyongeza vimesasaishwa.
+addon-updates-none-found = Hakuna visasaisho vimepatikana
+addon-updates-manual-updates-found = Angalia Visasaisho Vinavyopatikana
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Sakinisha Vifaa vya nyongeza Kutoka kwa Fail…
+    .accesskey = S
+addon-install-from-file-dialog-title = Chagua kifaa cha nyongeza cha kusakinishwa
+addon-install-from-file-filter-name = Vifaa vya nyongeza
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
