@@ -189,6 +189,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Уключыць
     .tooltiptext = Уключыць праверку бяспечнасці абнаўленняў дадаткаў
+extensions-warning-safe-mode = Усе дадаткі адключаны бяспечным рэжымам.
+extensions-warning-check-compatibility = Праверка сумяшчальнасці дадаткаў адключана. Вы можаце мець несумяшчальныя дадаткі.
+extensions-warning-check-compatibility-button = Уключыць
+    .title = Уключыць праверку сумяшчальнасці дадаткаў
+extensions-warning-update-security = Праверка бяспечнасці дадаткаў адключана. Вы можаце быць падведзены пад рызыку абнаўленнямі.
+extensions-warning-update-security-button = Уключыць
+    .title = Уключыць праверку бяспечнасці абнаўленняў дадаткаў
 
 ## Strings connected to add-on updates
 
