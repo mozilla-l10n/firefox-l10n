@@ -245,6 +245,8 @@ addon-install-from-file = Staliañ askouezhioù diouzh ar restr...
     .accesskey = i
 addon-install-from-file-dialog-title = Diuzit an askouezh da vezañ staliet
 addon-install-from-file-filter-name = Askouezhioù
+addon-open-about-debugging = Diveugañ an askouezhioù
+    .accesskey = v
 
 ## Extension shortcut management
 
