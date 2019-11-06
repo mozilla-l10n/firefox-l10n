@@ -215,6 +215,8 @@ extensions-updates-update-selected =
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file-dialog-title = સ્થાપિત કરવા માટે ઍડ-ઓનને પસંદ કરો
+addon-install-from-file-filter-name = ઍડ-ઓન
 
 ## Extension shortcut management
 
