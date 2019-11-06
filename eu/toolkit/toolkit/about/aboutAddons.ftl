@@ -182,6 +182,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Gaitu
     .tooltiptext = Gaitu gehigarrien eguneraketa-segurtasuna egiaztatzea
+extensions-warning-safe-mode = Modu seguruak gehigarri guztiak desgaitu ditu.
+extensions-warning-check-compatibility = Gehigarrien bateragarritasuna egiaztatzea desgaituta dago. Gehigarri bateraezinak izan ditzakezu.
+extensions-warning-check-compatibility-button = Gaitu
+    .title = Gaitu gehigarrien bateragarritasuna egiaztatzea
+extensions-warning-update-security = Gehigarrien eguneraketa-segurtasuna egiaztatzea desgaituta dago. Eguneraketek arriskuan jar zaitzakete.
+extensions-warning-update-security-button = Gaitu
+    .title = Gaitu gehigarrien eguneraketa-segurtasuna egiaztatzea
 
 ## Strings connected to add-on updates
 
