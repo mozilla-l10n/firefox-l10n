@@ -192,6 +192,10 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Увімкнути
     .tooltiptext = Увімкнути перевірку безпечного оновлення додатків
+extensions-warning-safe-mode = В безпечному режимі всі додатки вимкнено.
+extensions-warning-check-compatibility = Перевірка сумісності додатків вимкнена. У вас можуть бути несумісні додатки.
+extensions-warning-check-compatibility-button = Увімкнути
+    .title = Увімкнути перевірку сумісності додатків
 
 ## Strings connected to add-on updates
 
