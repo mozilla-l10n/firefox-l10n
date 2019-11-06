@@ -11,14 +11,18 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = آدرس سفارشی به‌روزرسانی برنامه را تنظیم کنید.
+policy-Authentication = احراز هویت یکپارچه را برای وب‌سایت‌هایی که از آن پشتیبانی می‌کنند پیکربندی کنید.
 policy-BlockAboutAddons = دسترسی به مدیریت افزونه‌ها (about:addons) را مسدود کنید.
 policy-BlockAboutConfig = دسترسی به صفحه about:config را مسدود کنید.
 policy-BlockAboutProfiles = دسترسی به صفحه about:profiles را مسدود کنید.
 policy-BlockAboutSupport = دسترسی به صفحه about:support را مسدود کنید.
 policy-CertificatesDescription = گواهینامه‌ها را اضافه کنید یا از گواهینامه‌های داخلی استفاده کنید.
+policy-Cookies = اجازه دادن یا اجازه ندادن به وب‌سایت‌ها برای تنظیم کوکی.
+policy-DefaultDownloadDirectory = پوشه پیش‌فرض برای بارگیری را تنظیم کنید.
 policy-DisableAppUpdate = جلوگیری از به روز رسانی مرورگر.
 policy-DisableBuiltinPDFViewer = غیرفعال کردن PDF.js، نمایشگر داخلی PDF در { -brand-short-name }.
 policy-DisableDeveloperTools = دسترسی به ابزارهای توسعه‌دهندگان را مسدود کنید.
+policy-DisableFirefoxAccounts = خدمات برپایه { -fxaccount-brand-name } شامل همگام‌سازی را غیرفعال کن.
 policy-DisableFormHistory = جستجو وتاریخچه فرم را به خاطر نسپار.
 policy-DNSOverHTTPS = پیکربندی DNS بر روی HTTPS.
 policy-DontCheckDefaultBrowser = غیر فعال کردن بررسی مرورگر پیش‌فرض در هنگام راه اندازی
