@@ -136,6 +136,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = हाहोनाय खालाम
     .tooltiptext = Add-on आपडेट रैखाथि आनजाद आनजाद खालामनायखौ हाहोनाय खालाम
+extensions-warning-safe-mode = गासै add-ons खौ रैखाथि म'डजों लोरबां खालामबाय।
+extensions-warning-check-compatibility = Add-on गोरोबनायखौ आनजाद खालामनायखौ लोरबां खालामनाय जायो। नोंथांहा गोरोबै add-ons दं जानो हागौ।
+extensions-warning-check-compatibility-button = हाहोनाय खालाम
+    .title = add-on गोरोबथिगोनां आनजाद खालामनायखौ हाहोनाय खालाम
+extensions-warning-update-security = Add-on आपडेटखौ आनजाद खालामनायखौ लोरबां खालामनाय जायो। नोंथाङा आपडेटजों गोरोबना दं जानो हागौ।
+extensions-warning-update-security-button = हाहोनाय खालाम
+    .title = Add-on आपडेट रैखाथि आनजाद आनजाद खालामनायखौ हाहोनाय खालाम
 
 ## Strings connected to add-on updates
 
