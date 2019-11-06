@@ -437,5 +437,13 @@ recommended-theme-1 = Ste ustvarjalno razpoloženi? <a data-l10n-name="link">Ust
 
 ## Page headings
 
+extension-heading = Upravljanje razširitev
+theme-heading = Upravljanje tem
+plugin-heading = Upravljanje vtičnikov
+dictionary-heading = Upravljanje slovarjev
+locale-heading = Upravljanje jezikov
+shortcuts-heading = Upravljanje bližnjic razširitev
 theme-heading-search-label = Poišči več tem
 extension-heading-search-label = Poišči več razširitev
+addons-heading-search-input =
+    .placeholder = Iskanje po addons.mozilla.org
