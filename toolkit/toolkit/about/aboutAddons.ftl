@@ -241,6 +241,9 @@ addon-open-about-debugging = Əlavələri Sazla
 manage-extensions-shortcuts =
     .label = Uzantı Qısa-yollarını İdarə et
     .accesskey = S
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Uzantı Qısa-yollarını İdarə et
+    .accesskey = S
 shortcuts-no-addons = Aktiv uzantınız yoxdur.
 shortcuts-no-commands = Bu uzantıların qısa-yolları yoxdur:
 shortcuts-input =
@@ -278,3 +281,14 @@ addons-disabled-heading = Söndürülüb
 
 ## Page headings
 
+extension-heading = Uzantılarını idarə et
+theme-heading = Mözvularını idarə et
+plugin-heading = Qoşmalarını idarə et
+dictionary-heading = Lüğətlərini idarə et
+locale-heading = Dillərini idarə et
+discover-heading = { -brand-short-name } səyyahınızı şəxsiləşdirin
+shortcuts-heading = Uzantı Qısa-yollarını İdarə et
+theme-heading-search-label = Daha çox mövzu tap
+extension-heading-search-label = Daha çox uzantı tap
+addons-heading-search-input =
+    .placeholder = addons.mozilla.org saytında axtar
