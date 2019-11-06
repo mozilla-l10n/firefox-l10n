@@ -262,3 +262,6 @@ menu-help-safe-mode-without-addons =
 menu-help-safe-mode-with-addons =
     .label = Restart with Add-ons Enabled
     .accesskey = R
+menu-help-not-deceptive =
+    .label = This isn’t a deceptive site…
+    .accesskey = d
