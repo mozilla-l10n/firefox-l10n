@@ -186,7 +186,7 @@ extensions-warning-safe-mode = Alla tillägg är inaktiverade i felsäkert läge
 extensions-warning-check-compatibility = Kompatibilitetskontroll av tillägg är inaktiverat. Du kan ha inkompatibla tillägg.
 extensions-warning-check-compatibility-button = Aktivera
     .title = Aktiverar kompatibilitetskontroll av tillägg
-extensions-warning-update-security = Säkerhetskontroll av tilläggsuppdateringar är inaktiverat. Du är sårbar för skadliga uppdateringar.
+extensions-warning-update-security = Säkerhetskontroll av tilläggsuppdateringar är inaktiverad. Du är sårbar för skadliga uppdateringar.
 extensions-warning-update-security-button = Aktivera
     .title = Aktiverar säkerhetskontroll av tilläggsuppdateringar
 
@@ -224,10 +224,10 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = Ställ om alla tillägg till manuell uppdatering
     .accesskey = S
-addon-updates-reset-updates-to-automatic = Ställ om alla tillägg till automatisk uppdatering
-    .accesskey = S
-addon-updates-reset-updates-to-manual = Ställ om alla tillägg till manuell uppdatering
-    .accesskey = S
+addon-updates-reset-updates-to-automatic = Återställ alla tillägg till automatisk uppdatering
+    .accesskey = t
+addon-updates-reset-updates-to-manual = Återställ alla tillägg till manuell uppdatering
+    .accesskey = t
 
 ## Status messages displayed when updating add-ons
 
@@ -254,11 +254,11 @@ addon-updates-manual-updates-found = Se tillgängliga uppdateringar
 ## Add-on install/debug strings for page options menu
 
 addon-install-from-file = Installera tillägg från fil…
-    .accesskey = I
+    .accesskey = n
 addon-install-from-file-dialog-title = Välj ett tillägg att installera
 addon-install-from-file-filter-name = Tillägg
 addon-open-about-debugging = Felsök tillägg
-    .accesskey = s
+    .accesskey = F
 
 ## Extension shortcut management
 
