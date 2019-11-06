@@ -131,6 +131,10 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = ସକ୍ରିୟ
     .tooltiptext = ଆଡ଼-ଅନ ଅପଡେଟ ସୁରକ୍ଷା ଯାଞ୍ଚକୁ ସକ୍ରିୟ କରନ୍ତୁ
+extensions-warning-safe-mode = ସମସ୍ତ ଏଡ-ଅନଗୁଡ଼ିକୁ ସୁରକ୍ଷିତ ଭାବରେ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି।
+extensions-warning-check-compatibility = ଏଡ-ଅନ ସୁସଙ୍ଗତତା ଯାଞ୍ଚକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି। ଆପଣଙ୍କ ପାଖରେ ହୁଏତଃ ଅସଙ୍ଗତ ଏଡ-ଅନ ଅଛି।
+extensions-warning-check-compatibility-button = ସକ୍ରିୟ
+    .title = ଏଡ-ଅନ ସୁସଙ୍ଗତତା ଯାଞ୍ଚକୁ ସକ୍ରିୟ କରନ୍ତୁ
 
 ## Strings connected to add-on updates
 
