@@ -192,6 +192,11 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Ynskeakelje
     .tooltiptext = Skeakelje feilichheidskontrole foar add-onsfernijingen yn
+extensions-warning-check-compatibility = Kontrole op kompatibileit foar add-ons is útskeakele. Jo kinne ynkompatibele add-ons hawwe.
+extensions-warning-check-compatibility-button = Ynskeakelje
+    .title = Skeakelje kontrole fan kompatibileit foar add-ons yn
+extensions-warning-update-security-button = Ynskeakelje
+    .title = Skeakelje feilichheidskontrole foar add-onsfernijingen yn
 
 ## Strings connected to add-on updates
 
