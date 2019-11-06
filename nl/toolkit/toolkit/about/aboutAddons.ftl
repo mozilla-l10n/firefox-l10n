@@ -438,3 +438,5 @@ recommended-theme-1 = Voelt u zich creatief? <a data-l10n-name="link"> Bouw uw e
 
 ## Page headings
 
+addons-heading-search-input =
+    .placeholder = addons.mozilla.org doorzoeken
