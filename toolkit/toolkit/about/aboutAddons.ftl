@@ -184,8 +184,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Омогући
     .tooltiptext = Омогући проверавање безбедности додатка
+extensions-warning-safe-mode = Сви додаци су онемогућени у безбедном начину рада.
+extensions-warning-check-compatibility = Провера усклађености додатака је искључена. Можда имате некомпатибилне додатке.
 extensions-warning-check-compatibility-button = Укључи
     .title = Омогући проверавање компатибилности додатка
+extensions-warning-update-security = Безбедносна провера додатака је искључена. Неисправни додаци могу да наруше безбедност система.
+extensions-warning-update-security-button = Омогући
+    .title = Омогући проверавање безбедности додатка
 
 ## Strings connected to add-on updates
 
