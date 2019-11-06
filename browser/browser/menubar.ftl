@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Tela inteira
     .accesskey = T
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Mostrar todas as abas
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Denunciar site enganoso…
     .accesskey = r
+menu-help-not-deceptive =
+    .label = Este não é um site enganoso…
+    .accesskey = e
