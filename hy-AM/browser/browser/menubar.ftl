@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Բացել Լիաէկրան
     .accesskey = Բ
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Ցուցադրել բոլոր ներդիրները
@@ -289,4 +289,7 @@ menu-help-safe-mode-with-addons =
 # phishing-afterload-warning-message.dtd is shown.
 menu-help-report-deceptive-site =
     .label = Զեկուցել խաբուսիկ կայքի մասին...
+    .accesskey = խ
+menu-help-not-deceptive =
+    .label = Սա խաբուսիկ կայք չէ...
     .accesskey = խ
