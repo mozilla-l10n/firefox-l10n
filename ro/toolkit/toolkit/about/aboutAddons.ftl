@@ -240,12 +240,15 @@ extensions-updates-update-selected =
     .label = Instalează actualizările
     .tooltiptext = Instalează actualizările disponibile în această listă
 addon-updates-updating = Se actualizează suplimentele
+addon-updates-installed = Suplimentele tale au fost actualizate.
 addon-updates-none-found = Nicio actualizare găsită
 addon-updates-manual-updates-found = Vezi actualizările disponibile
 
 ## Add-on install/debug strings for page options menu
 
 addon-install-from-file-filter-name = Suplimente
+addon-open-about-debugging = Depanează suplimente
+    .accesskey = b
 
 ## Extension shortcut management
 
