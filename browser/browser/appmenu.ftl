@@ -9,6 +9,13 @@ appmenuitem-protection-report-title = Personvernsikring
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Gå til personvernrapporten
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Forstørre
+appmenuitem-zoom-reduce =
+    .label = Forminske
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
