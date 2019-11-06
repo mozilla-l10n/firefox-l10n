@@ -136,6 +136,8 @@ extensions-warning-check-compatibility = एड- ऑन सोंगोताक
 extensions-warning-check-compatibility-button = हुय होचो
     .title = हुय होचो तेयार एड-ऑन सोंगोत ए ञेलेत् आ
 extensions-warning-update-security = एड-ऑन आ़पती ञेल दो बाङ हुय होचो बाकाना . आम हा़ली को दाराय ते सुला़नामा दाड़ेयाक् आ .
+extensions-warning-update-security-button = हुय होचो
+    .title = एड-ऑन हा़ली ञेंल हुय होचो तेयार में
 
 ## Strings connected to add-on updates
 
