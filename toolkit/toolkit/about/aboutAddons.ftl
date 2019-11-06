@@ -197,6 +197,7 @@ addon-updates-manual-updates-found = Bonisa ukuvuselela okukhona
 
 addon-install-from-file = Faka okwengezwayo kusuka efayilini…
     .accesskey = F
+addon-install-from-file-dialog-title = Khetha okwengeziwe ukufake
 addon-install-from-file-filter-name = Okwengeziwe
 
 ## Extension shortcut management
