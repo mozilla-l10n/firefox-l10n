@@ -181,6 +181,8 @@ addon-updates-view-updates = नुकत्याच सुधारणां�
 extensions-updates-update-addons-automatically =
     .label = ॲड-ऑन्स् स्वयं सुधारित करा
     .accesskey = A
+addon-updates-update-addons-automatically = ॲड-ऑन्स् स्वयं सुधारित करा
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -193,6 +195,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = सुधारणा स्वहस्ते करण्यासाठी सर्व ॲड-ऑन्स् मूळस्थितीत आणा
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = स्वयं सुधारणा करण्यासाठी सर्व ॲड-ऑन्स् मूळस्थितीत आणा
+    .accesskey = R
+addon-updates-reset-updates-to-manual = सुधारणा स्वहस्ते करण्यासाठी सर्व ॲड-ऑन्स् मूळस्थितीत आणा
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -212,11 +218,19 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = सुधारणा प्रतिष्ठापीत करा
     .tooltiptext = या सूचीतील उपलब्ध सुधारणा प्रतिष्ठापीत करा
+addon-updates-updating = ॲड-ऑन्स् सुधारीत करत आहे
+addon-updates-installed = आपले ॲड-ऑन्स् सुधारीत केले.
 addon-updates-none-found = सुधारणा आढळले नाही
 addon-updates-manual-updates-found = उपलब्ध सुधारणांचे दृष्य
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = फाइलपासून ॲड-ऑन इंस्टॉल करा…
+    .accesskey = I
+addon-install-from-file-dialog-title = प्रतिष्ठापनकरीता ॲड-ऑन नीवडा
+addon-install-from-file-filter-name = ॲड-ऑन्स्
+addon-open-about-debugging = अॅड-ऑनस डीबग करा
+    .accesskey = b
 
 ## Extension shortcut management
 
