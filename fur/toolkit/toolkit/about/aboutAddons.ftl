@@ -71,6 +71,9 @@ extensions-warning-update-security-label =
     .value = Il control de sigurece dai inzornaments des zontis al è disativât. Tu podaressis vê problemis di sigurece par vie dai inzornaments.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-safe-mode = Dutis lis zontis a son stadis disativadis pal Mût sigûr.
+extensions-warning-check-compatibility = Il control di compatibilitât des zontis al è disativât. Tu podaressis vê zontis incompatibilis.
+extensions-warning-update-security = Il control de sigurece dai inzornaments des zontis al è disativât. Tu podaressis vê problemis di sigurece par vie dai inzornaments.
 
 ## Strings connected to add-on updates
 
