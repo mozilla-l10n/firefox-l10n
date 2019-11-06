@@ -196,6 +196,12 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Aktiver
     .tooltiptext = Aktiver sikkerhedstjek ved opdatering af tilføjelser
+extensions-warning-safe-mode = Alle tilføjelser er blevet deaktiveret i fejlsikker tilstand.
+extensions-warning-check-compatibility = Kompatibilitetstjek for tilføjelser er deaktiverert. Du kan have inkompatible tilføjelser.
+extensions-warning-check-compatibility-button = Aktiver
+    .title = Aktiver kompatibilitetstjek for tilføjelser
+extensions-warning-update-security-button = Aktiver
+    .title = Aktiver sikkerhedstjek ved opdatering af tilføjelser
 
 ## Strings connected to add-on updates
 
