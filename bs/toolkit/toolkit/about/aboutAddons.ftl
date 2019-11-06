@@ -148,6 +148,10 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Omogući
     .tooltiptext = Omogući provjeravanje sigurnosti nadogradnje add-ona
+extensions-warning-safe-mode = Svi add-oni su onemogućeni od strane sigurnog režima.
+extensions-warning-check-compatibility = Provjera kompatibilnosti add-ona je onemogućena. Možda imate nekompatibilnih add-ona.
+extensions-warning-check-compatibility-button = Omogući
+    .title = Omogući provjeravanje kompatibilnosti add-ona
 
 ## Strings connected to add-on updates
 
