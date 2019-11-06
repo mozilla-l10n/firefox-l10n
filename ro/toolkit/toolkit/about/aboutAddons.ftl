@@ -204,6 +204,8 @@ addon-updates-view-updates = Vezi actualizările recente
 extensions-updates-update-addons-automatically =
     .label = Actualizează automat suplimentele
     .accesskey = A
+addon-updates-update-addons-automatically = Actualizează automat suplimentele
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -257,6 +259,9 @@ addon-open-about-debugging = Depanează suplimente
 
 manage-extensions-shortcuts =
     .label = Gestionează comenzile rapide ale extensiilor
+    .accesskey = S
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Gestionează comenzile rapide ale extensiilor
     .accesskey = S
 shortcuts-no-addons = Nu ai activat nicio extensie.
 shortcuts-no-commands = Următoarele extensii nu au comenzi rapide:
