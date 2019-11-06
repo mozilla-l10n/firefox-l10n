@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Полный экран
     .accesskey = э
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Показать все вкладки
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Сообщить о поддельном сайте…
     .accesskey = о
+menu-help-not-deceptive =
+    .label = Это не поддельный сайт…
+    .accesskey = е
