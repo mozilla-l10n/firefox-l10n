@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Teljes képernyő
     .accesskey = T
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Az összes böngészőlap megjelenítése
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Félrevezető oldal jelentése…
     .accesskey = F
+menu-help-not-deceptive =
+    .label = Ez nem félrevezető oldal…
+    .accesskey = n
