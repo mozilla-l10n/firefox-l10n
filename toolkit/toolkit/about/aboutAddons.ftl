@@ -188,6 +188,7 @@ extensions-warning-update-security-enable =
     .label = Ota käyttöön
     .tooltiptext = Ota lisäosien päivitysten turvallisuustarkistus käyttöön
 extensions-warning-safe-mode = Kaikki lisäosat on poistettu käytöstä vikasietotilassa.
+extensions-warning-check-compatibility = Lisäosien yhteensopivuuden tarkistus ei ole käytössä. Osa lisäosista voi olla epäyhteensopivia.
 extensions-warning-check-compatibility-button = Ota käyttöön
     .title = Ota lisäosien yhteensopivuuden tarkistus käyttöön
 extensions-warning-update-security = Lisäosien päivitysten turvallisuustarkistus ei ole käytössä. Päivitykset voivat saastuttaa koneesi.
