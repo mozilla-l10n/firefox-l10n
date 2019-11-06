@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Tryb pełnoekranowy
     .accesskey = T
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Wyświetl wszystkie karty
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Zgłoś oszustwo internetowe…
     .accesskey = Z
+menu-help-not-deceptive =
+    .label = To nie jest oszustwo…
+    .accesskey = n
