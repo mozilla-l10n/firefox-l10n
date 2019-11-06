@@ -166,6 +166,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Afichar las mesas a jorn recentas
     .accesskey = A
+addon-updates-check-for-updates = Recercar de mesas a jorn
+    .accesskey = R
 addon-updates-view-updates = Afichar las mesas a jorn recentas
     .accesskey = A
 
