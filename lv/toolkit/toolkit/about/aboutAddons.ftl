@@ -148,6 +148,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Aktivēt
     .tooltiptext = Aktivēt papildinājumu drošības pārbaudi
+extensions-warning-safe-mode = Drošais režīms ir deaktivējis visus papildinājumu.
+extensions-warning-check-compatibility = Papildinājumu savietojamības pārbaude ir deaktivēta. Iespējams jums ir nesavietojami papildinājumu.
+extensions-warning-check-compatibility-button = Aktivēt
+    .title = Aktivēt papildinājumu savietojamības pārbaudi
+extensions-warning-update-security = Papildinājumu drošības pārbaude ir deaktivēta. Iespējams jums ir nedroši papildinājumu.
+extensions-warning-update-security-button = Aktivēt
+    .title = Aktivēt papildinājumu drošības pārbaudi
 
 ## Strings connected to add-on updates
 
