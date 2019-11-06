@@ -260,6 +260,9 @@ addon-open-about-debugging = Depura complements
 manage-extensions-shortcuts =
     .label = Gestiona les dreceres de les extensions
     .accesskey = G
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Gestiona les dreceres de les extensions
+    .accesskey = G
 shortcuts-no-addons = No teniu cap extensió activada.
 shortcuts-no-commands = Les extensions següents no tenen dreceres:
 shortcuts-input =
@@ -423,3 +426,14 @@ recommended-theme-1 = Us sentiu creatiu? <a data-l10n-name="link">Creeu el vostr
 
 ## Page headings
 
+extension-heading = Gestioneu les extensions
+theme-heading = Gestioneu els temes
+plugin-heading = Gestioneu els connectors
+dictionary-heading = Gestioneu els diccionaris
+locale-heading = Gestioneu les llengües
+discover-heading = Personalitzeu el { -brand-short-name }
+shortcuts-heading = Gestioneu les dreceres de les extensions
+theme-heading-search-label = Cerqueu més temes
+extension-heading-search-label = Cerqueu més extensions
+addons-heading-search-input =
+    .placeholder = Cerca a addons.mozilla.org
