@@ -189,12 +189,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Vidi ĵusajn ĝisdatigojn
     .accesskey = V
+addon-updates-check-for-updates = Kontroli ĉu estas ĝisdatigoj
+    .accesskey = K
+addon-updates-view-updates = Vidi ĵusajn ĝisdatigojn
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Aŭtomate ĝisdatigi aldonaĵojn
+    .accesskey = A
+addon-updates-update-addons-automatically = Aŭtomate ĝisdatigi aldonaĵojn
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -208,6 +214,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = I
 extensions-updates-reset-updates-to-manual =
     .label = Igi ĉiujn aldonaĵojn ĝisdatiĝi malaŭtomate
+    .accesskey = I
+addon-updates-reset-updates-to-automatic = Igi ĉiujn aldonaĵojn ĝisdatiĝi aŭtomate
+    .accesskey = I
+addon-updates-reset-updates-to-manual = Igi ĉiujn aldonaĵojn ĝisdatiĝi malaŭtomate
     .accesskey = I
 
 ## Status messages displayed when updating add-ons
@@ -227,11 +237,27 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instali ĝisdatigojn
     .tooltiptext = Instali haveblajn ĝisdatigojn en tiu ĉi listo
+addon-updates-updating = Ĝisdatigado de aldonaĵoj
+addon-updates-installed = Viaj aldonaĵoj estis ĝisdatigitaj.
+addon-updates-none-found = Neniu ĝisdatigo trovita
+addon-updates-manual-updates-found = Vidi haveblajn ĝisdatigojn
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Instali aldonaĵon el dosiero…
+    .accesskey = I
+addon-install-from-file-dialog-title = Elekti aldonaĵon por instali
+addon-install-from-file-filter-name = Aldonaĵoj
+addon-open-about-debugging = Senerarigi aldonaĵojn
+    .accesskey = S
 
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
     .label = Administri alirklavojn de etendaĵoj
+    .accesskey = A
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Administri alirklavojn de etendaĵoj
     .accesskey = A
 shortcuts-no-addons = Vi havas neniun aktivan etendaĵon.
 shortcuts-no-commands = La jenaj etendaĵoj ne havas alirklavojn:
@@ -375,3 +401,9 @@ recommended-themes-heading = Rekomenditaj etosoj
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Ĉu vi kreemas? <a data-l10n-name="link">Kreu vian propran etoson per Firefox Color.</a>
+
+## Page headings
+
+discover-heading = Personecigu vian { -brand-short-name }
+addons-heading-search-input =
+    .placeholder = Serĉi en addons.mozilla.org
