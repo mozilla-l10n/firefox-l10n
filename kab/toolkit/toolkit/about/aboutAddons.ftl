@@ -177,6 +177,7 @@ extensions-warning-update-security-enable =
     .label = Rmed
     .tooltiptext = Rmed asenqed n ileqman n tɣellist i yezgrar isemmadanen
 extensions-warning-safe-mode = Armad n izegrar yekkes-it uskar aɣalsan.
+extensions-warning-check-compatibility = Asenqed n umṣada n izegrar ur yermid ara. Yezmer ad tesɛuḍ izegrar ur yemṣadan ara.
 extensions-warning-check-compatibility-button = Rmed
     .title = Rmed asenqed n tisiḍent
 extensions-warning-update-security = Asenqed n ileqman n tɣellist n izegrar ur yermid ara. Yezmer ad tesɛuḍ yir izegrar.
