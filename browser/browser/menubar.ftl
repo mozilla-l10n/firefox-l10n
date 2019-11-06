@@ -273,3 +273,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Tuairiscigh suíomh cealgach…
     .accesskey = c
+menu-help-not-deceptive =
+    .label = Ní suíomh cealgach é seo…
+    .accesskey = c
