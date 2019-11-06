@@ -193,12 +193,16 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Visualitza les actualitzacions recents
     .accesskey = V
+addon-updates-view-updates = Visualitza les actualitzacions recents
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Actualitza els complements automàticament
+    .accesskey = A
+addon-updates-update-addons-automatically = Actualitza els complements automàticament
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -212,6 +216,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = Reinicia tots els complements perquè s'actualitzin manualment
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = Reinicia tots els complements perquè s'actualitzin automàticament
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Reinicia tots els complements perquè s'actualitzin manualment
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -231,6 +239,16 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instal·la les actualitzacions
     .tooltiptext = Instal·la les actualitzacions disponibles en aquesta llista
+addon-updates-updating = S'estan actualitzant els complements
+addon-updates-installed = S'han actualitzat els vostres complements.
+addon-updates-none-found = No s'ha trobat cap actualització
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Instal·la un complement des d'un fitxer…
+    .accesskey = I
+addon-install-from-file-dialog-title = Seleccioneu un complement per instal·lar
+addon-install-from-file-filter-name = Complements
 
 ## Extension shortcut management
 
@@ -397,3 +415,6 @@ recommended-themes-heading = Temes recomanats
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Us sentiu creatiu? <a data-l10n-name="link">Creeu el vostre propi tema amb el Firefox Color.</a>
+
+## Page headings
+
