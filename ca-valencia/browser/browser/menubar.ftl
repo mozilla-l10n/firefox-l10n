@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Informa que el lloc és maliciós…
     .accesskey = I
+menu-help-not-deceptive =
+    .label = No és cap lloc maliciós…
+    .accesskey = m
