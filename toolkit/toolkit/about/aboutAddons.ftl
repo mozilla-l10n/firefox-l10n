@@ -241,6 +241,9 @@ addon-open-about-debugging = ઍડ-ઑન્સ ડીબગ કરો
 manage-extensions-shortcuts =
     .label = એક્સ્ટેંશન શૉર્ટકટ્સ મેનેજ કરો
     .accesskey = S
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = એક્સ્ટેંશન શૉર્ટકટ્સ મેનેજ કરો
+    .accesskey = S
 shortcuts-no-addons = તમારી પાસે કોઈ એક્સ્ટેન્શન સક્ષમ નથી.
 shortcuts-no-commands = નીચેના એક્સ્ટેન્શન્સમાં શૉર્ટકટ્સ નથી:
 shortcuts-input =
@@ -278,3 +281,4 @@ addons-disabled-heading = નિષ્ક્રિય
 
 ## Page headings
 
+shortcuts-heading = એક્સ્ટેંશન શૉર્ટકટ્સ મેનેજ કરો
