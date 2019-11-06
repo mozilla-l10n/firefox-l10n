@@ -214,6 +214,11 @@ extensions-updates-update-selected =
     .label = হালনাগাদ ইনস্টল করুন
     .tooltiptext = তালিকায় বিদ্যমান হালনাগাদ ইনস্টল করুন
 
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = ইনস্টল করার জন্য অ্যাড-অন নির্বাচন
+addon-install-from-file-filter-name = অ্যাড-অন
+
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
@@ -353,3 +358,6 @@ recommended-themes-heading = প্রস্তাবিত থিমস
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = সৃজনশীল মনে হচ্ছে? <a data-l10n-name="link">Firefox Color দিয়ে নিজের থিম তৈরি করুন।</a>
+
+## Page headings
+
