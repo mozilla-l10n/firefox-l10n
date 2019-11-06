@@ -222,6 +222,10 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = Restituer le actualisation manual pro tote le additivos
     .accesskey = R
+addon-updates-reset-updates-to-automatic = Restituer le actualisation automatic pro tote le additivos
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Restituer le actualisation manual pro tote le additivos
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
@@ -258,6 +262,9 @@ addon-open-about-debugging = Depurar le additivos
 
 manage-extensions-shortcuts =
     .label = Gerer le accessos directe al extensiones
+    .accesskey = a
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Gerer le accessos directe al extensiones
     .accesskey = a
 shortcuts-no-addons = Tu non ha extensiones activate.
 shortcuts-no-commands = Le sequente extensiones non ha claves accelerator:
@@ -420,10 +427,13 @@ recommended-theme-1 = Te senti creative? <a data-l10n-name="link">Crea tu propri
 
 ## Page headings
 
+extension-heading = Gerer tu extensiones
 theme-heading = Gere tu themas
 plugin-heading = Gere tu plugins
 dictionary-heading = Gere tu dictionarios
+locale-heading = Gerer tu linguas
 discover-heading = Personalisa tu { -brand-short-name }
+shortcuts-heading = Gerer le accessos directe al extensiones
 theme-heading-search-label = Trova plus themas
 extension-heading-search-label = Trova plus extensiones
 addons-heading-search-input =
