@@ -157,6 +157,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Activar
     .tooltiptext = Activar la verificacion de mesas a jorn de seguretat pels moduls complementaris
+extensions-warning-safe-mode = Totes los moduls complementaris son estats desactivats pel mòde sens fracàs.
+extensions-warning-check-compatibility = La verificacion de compatibilitat pels moduls complementaris es desactivada. Es possible que d'unes moduls sián incompatibles.
+extensions-warning-check-compatibility-button = Activar
+    .title = Activar la verificacion de compatibilitat
+extensions-warning-update-security = La verificacion de compatibilitat pels moduls complementaris es desactivada. Es possible que d'unas mesas a jorn sián problematicas.
+extensions-warning-update-security-button = Activar
+    .title = Activar la verificacion de mesas a jorn de seguretat pels moduls complementaris
 
 ## Strings connected to add-on updates
 
