@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Anmeld vildledende websted…
     .accesskey = A
+menu-help-not-deceptive =
+    .label = Dette er ikke et vildledende websted…
+    .accesskey = v
