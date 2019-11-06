@@ -41,3 +41,22 @@ extensions-updates-check-for-updates =
 
 ## Status messages displayed when updating add-ons
 
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-filter-name = Peungaya
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
