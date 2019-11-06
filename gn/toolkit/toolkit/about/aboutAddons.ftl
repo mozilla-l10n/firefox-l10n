@@ -186,6 +186,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Myandy
     .tooltiptext = Emyandy jehechajey moimbaha rekorosãrã reheguáva
+extensions-warning-safe-mode = Opaite moĩmbaha oñemongepáma teko jerovia rupi.
+extensions-warning-check-compatibility = Ojueheguáva jehechajey moĩmbaha reheguáva oñemongéma. Ikatu oguereko heta juehegua'ỹva.
+extensions-warning-check-compatibility-button = Myandy
+    .title = Ojueheguáva jehechajey moimbaha reheguáva myandy.
+extensions-warning-update-security = Tekorosãrã jehechajey moĩmbaha rehegua oñemongéma. Ikatu ehecha nde rekorosãrã oñembyaikuaáva embohekopyahu aja.
+extensions-warning-update-security-button = Myandy
+    .title = Emyandy jehechajey moimbaha rekorosãrã reheguáva
 
 ## Strings connected to add-on updates
 
