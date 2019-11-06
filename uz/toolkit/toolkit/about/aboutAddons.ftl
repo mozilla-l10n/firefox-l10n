@@ -116,9 +116,6 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Quyidagi qo‘shimcha dasturlar { -brand-short-name } brauzerida foydalanish uchun tasdiqdan o‘tmagan. Siz <label data-l10n-name="find-addons">almashtiriladiganlarini topishingiz</label> yoki dasturchidan ularni tasdiqlashini so‘rashingiz mumkin.
 disabled-unsigned-learn-more = Onlayn xavfsizligingizni ta’minlash uchun qilayotgan harakatlarimiz haqida batafsil ma’lumot oling.
 disabled-unsigned-devinfo = Dasturchilar qo‘shimcha dasturlarini bizning qo‘llanmamizni o‘qib, tasdiqdan o‘tkazishga <label data-l10n-name="learn-more">qiziqishadi</label>.
-extensions-view-discover =
-    .name = Qoʻshimcha dasturlarni olish
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Soʻnggi yangilanishlar
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -155,12 +152,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Soʻnggi yangilanishlarni koʻrish
     .accesskey = k
+addon-updates-check-for-updates = Yangilanishlar uchun tekshirish
+    .accesskey = t
+addon-updates-view-updates = Soʻnggi yangilanishlarni koʻrish
+    .accesskey = k
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Qoʻshimcha dasturlarni avtomatik yangilash
+    .accesskey = Q
+addon-updates-update-addons-automatically = Qoʻshimcha dasturlarni avtomatik yangilash
     .accesskey = Q
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -174,6 +177,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = t
 extensions-updates-reset-updates-to-manual =
     .label = Qoʻlbola yangilash uchun barcha qoʻshimcha dasturlarni tiklash
+    .accesskey = t
+addon-updates-reset-updates-to-automatic = Barcha qoʻshimcha dasturlarni avtomatik yangilash uchun tiklash
+    .accesskey = t
+addon-updates-reset-updates-to-manual = Qoʻlbola yangilash uchun barcha qoʻshimcha dasturlarni tiklash
     .accesskey = t
 
 ## Status messages displayed when updating add-ons
@@ -193,3 +200,29 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Yangilanishlarni oʻrnatish
     .tooltiptext = Ushbu roʻyxatdagi mavjud yangilanishlarni oʻrnatish
+addon-updates-updating = Qoʻshimcha dasturlarni yangilash
+addon-updates-installed = Qoʻshimcha dasturingiz yangilandi.
+addon-updates-none-found = Yangilanishlar topilmadi
+addon-updates-manual-updates-found = Mavjud yangilanishlarni koʻrish
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Qoʻshimcha dasturlarni fayldan oʻrnatish
+    .accesskey = o
+addon-install-from-file-dialog-title = Oʻrnatish uchun qoʻshimcha dasturni tanlang
+addon-install-from-file-filter-name = Qoʻshimcha dasturlar
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
