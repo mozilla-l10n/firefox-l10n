@@ -263,6 +263,9 @@ addon-open-about-debugging = Depurar complementos
 manage-extensions-shortcuts =
     .label = Administrar atajos de extensiones
     .accesskey = s
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Administrar atajos de extensiones
+    .accesskey = s
 shortcuts-no-addons = No tienes complementos habilitados.
 shortcuts-no-commands = Las siguientes extensiones no tienen atajos:
 shortcuts-input =
@@ -431,6 +434,7 @@ recommended-theme-1 = ¿Te sientes creativo? <a data-l10n-name="link"> Crea tu p
 ## Page headings
 
 dictionary-heading = Administrar diccionarios
+discover-heading = Personaliza tu { -brand-short-name }
 shortcuts-heading = Administrar atajos de extensiones
 theme-heading-search-label = Buscar más temas
 addons-heading-search-input =
