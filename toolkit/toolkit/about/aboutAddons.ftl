@@ -198,6 +198,8 @@ extensions-updates-update-selected =
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file-dialog-title = Roghnaigh breiseán le suiteáil
+addon-install-from-file-filter-name = Breiseáin
 
 ## Extension shortcut management
 
