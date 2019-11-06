@@ -75,6 +75,8 @@ extensions-updates-view-updates =
     .accesskey = V
 addon-updates-check-for-updates = Palutputen ti Pannanarimaan
     .accesskey = C
+addon-updates-view-updates = Ipadlaw ti Nabiit a Pannanarimaan
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -108,6 +110,7 @@ addon-updates-manual-updates-found = Ipakita ti Maal-ala a Pannanarimaan
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file-filter-name = Raman
 
 ## Extension shortcut management
 
