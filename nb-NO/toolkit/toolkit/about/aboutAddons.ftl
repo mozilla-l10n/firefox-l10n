@@ -263,6 +263,9 @@ addon-open-about-debugging = Debug-utvidelser
 manage-extensions-shortcuts =
     .label = Håndter snarveier for utvidelser
     .accesskey = s
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Håndter snarveier for utvidelser
+    .accesskey = s
 shortcuts-no-addons = Du har ingen utvidelser aktivert.
 shortcuts-no-commands = Følgende utvidelser har ikke snarveier:
 shortcuts-input =
@@ -431,3 +434,14 @@ recommended-theme-1 = Er du i det kreative hjørnet? <a data-l10n-name="link">By
 
 ## Page headings
 
+extension-heading = Behandle utvidelsene dine
+theme-heading = Behandle temaene dine
+plugin-heading = Behandle programtilleggene dine
+dictionary-heading = Behandle ordbøkene dine
+locale-heading = Behandle språkene dine
+discover-heading = Tilpass din { -brand-short-name }
+shortcuts-heading = Håndter snarveier for utvidelser
+theme-heading-search-label = Finn flere tema
+extension-heading-search-label = Finn flere utvidelser
+addons-heading-search-input =
+    .placeholder = Søk på addons.mozilla.org
