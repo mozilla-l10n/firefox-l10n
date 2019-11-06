@@ -130,9 +130,6 @@ legacy-warning-show-legacy = সব পুরাতন এক্সটেনশ�
 legacy-extensions =
     .value = লিগ্যাসি এক্সটেনশন
 legacy-extensions-description = এই এক্সটেনশন বর্তমান { -brand-short-name } মান পূরণ করে না তাই তাদের নিষ্ক্রিয় করা হয়েছে। <label data-l10n-name="legacy-learn-more">অ্যাড-অন এ পরিবর্তন সম্পর্কে আরও জানুন</label>
-extensions-view-discover =
-    .name = অ্যাড-অন নিন
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = সাম্প্রতিক হালনাগাদ
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -208,10 +205,18 @@ extensions-updates-update-selected =
     .label = হালনাগাদ ইনস্টল করুন
     .tooltiptext = তালিকায় বিদ্যমান হালনাগাদ ইনস্টল করুন
 
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = ইনস্টল করার জন্য অ্যাড-অন নির্বাচন
+addon-install-from-file-filter-name = অ্যাড-অন
+
 ## Extension shortcut management
 
 go-back-button =
     .tooltiptext = ফিরে যাও
+
+## Recommended add-ons page
+
 
 ## Add-on actions
 
@@ -220,3 +225,9 @@ disable-addon-button = নিষ্ক্রিয়
 enable-addon-button = সক্রিয়
 addons-enabled-heading = সক্রিয় হয়েছে
 addons-disabled-heading = নিষ্ক্রিয় হয়েছে
+
+## Pending uninstall message bar
+
+
+## Page headings
+
