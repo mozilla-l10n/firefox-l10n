@@ -184,6 +184,7 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Activează
     .tooltiptext = Activează verificarea securității actualizărilor suplimentelor
+extensions-warning-safe-mode = Toate suplimentele sunt dezactivate în modul Sigur.
 extensions-warning-check-compatibility = Verificarea compatibilității suplimentelor este dezactivată. Ai putea avea suplimente incompatibile.
 extensions-warning-check-compatibility-button = Activează
     .title = Activează verificarea compatibilității suplimentelor
