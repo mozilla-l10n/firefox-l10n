@@ -117,9 +117,6 @@ disabled-unsigned-description = កម្មវិធី​ផ្នែក​ប
 disabled-unsigned-learn-more = ស្វែងយល់​បន្ថែម​អំពី​ការ​ព្យាយាម​របស់​យើង​ដើម្បី​ជួយ​រក្សា​សុវត្ថិភាព​របស់​អ្នក​នៅ​លើ​អ៊ីនធឺណិត។
 disabled-unsigned-devinfo = អ្នក​អភិវឌ្ឍ​ដែល​ចាប់អារម្មណ៍​​ដើម្បី​​បញ្ជាក់​កម្មវិធី​​ផ្នែក​បន្ថែម​របស់​ពួកគេ​អាច​បន្ត​ដោយ​អាន <label data-l10n-name="learn-more">ដោយដៃ</label>.
 plugin-deprecation-description = មាន​បាត់​អ្វី​មែន​ទេ? ផ្នែក​បន្ថែម​មួយ​ចំនួន​មិន​គាំទ្រ​ដោយ { -brand-short-name } ទៀត​ទេ។ <label data-l10n-name="learn-more">ស្វែងយល់បន្ថែម</label>
-extensions-view-discover =
-    .name = យក​កម្មវិធី​បន្ថែម
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = បច្ចុប្បន្នភាព​ថ្មី​ៗ
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -156,6 +153,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = មើល​បច្ចុប្បន្នភាព​ថ្មីៗ
     .accesskey = V
+addon-updates-check-for-updates = ពិនិត្យមើល​បច្ចុប្បន្នភាព
+    .accesskey = ព
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -194,3 +193,27 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = ដំឡើង​បច្ចុប្បន្នភាព
     .tooltiptext = ដំឡើង​បច្ចុប្បន្នភាព​ដែល​មាន​នៅ​ក្នុង​បញ្ជី​នេះ
+addon-updates-updating = កំពុង​ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​បន្ថែម
+addon-updates-installed = កម្មវិធី​បន្ថែម​របស់​អ្នក​ត្រូវ​បាន​ធ្វើ​បច្ចុប្បន្នភាព ។
+addon-updates-none-found = រក​មិន​ឃើញ​បច្ចុប្បន្នភាព
+addon-updates-manual-updates-found = មើល​បច្ចុប្បន្នភាព​ដែល​មាន
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = ជ្រើស​កម្មវិធី​បន្ថែម​ដើម្បី​ដំឡើង
+addon-install-from-file-filter-name = កម្មវិធី​បន្ថែម
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
