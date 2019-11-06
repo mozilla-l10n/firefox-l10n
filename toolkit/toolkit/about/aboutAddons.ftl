@@ -263,6 +263,9 @@ addon-open-about-debugging = Derinti priedus
 manage-extensions-shortcuts =
     .label = Tvarkyti sparčiuosius klavišus priedams
     .accesskey = s
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Tvarkyti sparčiuosius klavišus priedams
+    .accesskey = s
 shortcuts-no-addons = Neturite jokių įjungtų priedų.
 shortcuts-no-commands = Šie priedai neturi sparčiųjų klavišų komandų:
 shortcuts-input =
@@ -434,3 +437,14 @@ recommended-theme-1 = Jaučiatės kūrybiškai? <a data-l10n-name="link">Sukurki
 
 ## Page headings
 
+extension-heading = Tvarkykite savo priedus
+theme-heading = Tvarkykite savo apvalkalus
+plugin-heading = Tvarkykite savo papildinius
+dictionary-heading = Tvarkykite savo žodynus
+locale-heading = Tvarkykite savo kalbas
+discover-heading = Individualizuokite savo „{ -brand-short-name }“
+shortcuts-heading = Tvarkyti sparčiuosius klavišus priedams
+theme-heading-search-label = Rasti daugiau apvalkalų
+extension-heading-search-label = Rasti daugiau priedų
+addons-heading-search-input =
+    .placeholder = Ieškoti per addons.mozilla.org
