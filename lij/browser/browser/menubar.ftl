@@ -281,3 +281,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Segnala scito mascarson…
     .accesskey = R
+menu-help-not-deceptive =
+    .label = Questo o no l'é 'n scito inganevole…
+    .accesskey = g
