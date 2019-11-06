@@ -189,12 +189,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Соңғы жаңартуларды қарау
     .accesskey = о
+addon-updates-check-for-updates = Жаңартуларды тексеру
+    .accesskey = к
+addon-updates-view-updates = Соңғы жаңартуларды қарау
+    .accesskey = о
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Кеңейтулерді автожаңарту
+    .accesskey = е
+addon-updates-update-addons-automatically = Кеңейтулерді автожаңарту
     .accesskey = е
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -208,6 +214,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = а
 extensions-updates-reset-updates-to-manual =
     .label = Барлық кеңейтулерді тек қолмен жаңартылатындай етіп қылу
+    .accesskey = о
+addon-updates-reset-updates-to-automatic = Барлық кеңейтулерді автожаңартылатындай етіп қылу
+    .accesskey = а
+addon-updates-reset-updates-to-manual = Барлық кеңейтулерді тек қолмен жаңартылатындай етіп қылу
     .accesskey = о
 
 ## Status messages displayed when updating add-ons
@@ -227,6 +237,14 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Жаңартуларды орнату
     .tooltiptext = Бұл тізімдегі қолжетерлік жаңартуларды орнату
+addon-updates-updating = Қосымшалар жаңартылуда
+addon-updates-installed = Қосымшаларыңыз жаңартылды.
+addon-updates-none-found = Жаңартулар табылмады
+addon-updates-manual-updates-found = Қолжетерлік жаңартуларды көрсету
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = Орнату үшін кеңейтуді таңдаңыз
 
 ## Extension shortcut management
 
@@ -375,3 +393,6 @@ recommended-themes-heading = Ұсынылатын темалар
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Шабытты сезіп тұрсыз ба? <a data-l10n-name="link">Firefox Color көмегімен өз темаңызды жасаңыз.</a>
+
+## Page headings
+
