@@ -212,6 +212,8 @@ addon-install-from-file = အက်အွန်တွေ ကို ဖိုင�
     .accesskey = အ
 addon-install-from-file-dialog-title = တပ်ဆင်ရန်အတ်အွန်အားရွေးချယ်ပါ။
 addon-install-from-file-filter-name = ပေါင်းထည့် ဆော့ဗ်ဝဲများ
+addon-open-about-debugging = အတ်အွန်များကို အမှားရှာရန်
+    .accesskey = b
 
 ## Extension shortcut management
 
