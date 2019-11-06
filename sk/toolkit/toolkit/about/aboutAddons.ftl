@@ -201,12 +201,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Zobraziť nedávno aktualizované
     .accesskey = Z
+addon-updates-check-for-updates = Vyhľadať aktualizácie
+    .accesskey = V
+addon-updates-view-updates = Zobraziť nedávno aktualizované
+    .accesskey = Z
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Automaticky aktualizovať doplnky
+    .accesskey = A
+addon-updates-update-addons-automatically = Automaticky aktualizovať doplnky
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -220,6 +226,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = s
 extensions-updates-reset-updates-to-manual =
     .label = Nastaviť všetky doplnky na manuálne aktualizovanie
+    .accesskey = s
+addon-updates-reset-updates-to-automatic = Nastaviť všetky doplnky na automatické aktualizovanie
+    .accesskey = s
+addon-updates-reset-updates-to-manual = Nastaviť všetky doplnky na manuálne aktualizovanie
     .accesskey = s
 
 ## Status messages displayed when updating add-ons
@@ -239,6 +249,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Nainštalovať aktualizácie
     .tooltiptext = Nainštalovať aktualizácie dostupné v zozname
+addon-updates-updating = Aktualizujú sa doplnky
+addon-updates-installed = Vaše doplnky boli aktualizované.
+addon-updates-none-found = Neboli nájdené žiadne aktualizácie
+addon-updates-manual-updates-found = Zobraziť dostupné aktualizácie
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Nainštalovať doplnok zo súboru…
+    .accesskey = N
+addon-install-from-file-dialog-title = Zvoľte doplnok, ktorý chcete nainštalovať
+addon-install-from-file-filter-name = Doplnky
 
 ## Extension shortcut management
 
@@ -412,3 +433,6 @@ recommended-themes-heading = Odporúčané témy vzhľadu
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Ste tvoriví? <a data-l10n-name="link">Vytvorte si svoju vlastnú tému vzhľadu pomocou Firefox Color.</a>
+
+## Page headings
+
