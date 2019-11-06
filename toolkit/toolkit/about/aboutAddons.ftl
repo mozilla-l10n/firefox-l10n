@@ -160,6 +160,10 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = ହସ୍ତକୃତ ଭାବରେ ଅଦ୍ୟତନ କରିବା ପାଇଁ ସମସ୍ତ ଏଡ-ଅନଗୁଡ଼ିକୁ  ପୁନଃସ୍ଥାପନ କରନ୍ତୁ
     .accesskey = R
+addon-updates-reset-updates-to-automatic = ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଅଦ୍ୟତନ କରିବା ପାଇଁ ସମସ୍ତ ଏଡ-ଅନଗୁଡ଼ିକୁ  ପୁନଃସ୍ଥାପନ କରନ୍ତୁ
+    .accesskey = R
+addon-updates-reset-updates-to-manual = ହସ୍ତକୃତ ଭାବରେ ଅଦ୍ୟତନ କରିବା ପାଇଁ ସମସ୍ତ ଏଡ-ଅନଗୁଡ଼ିକୁ  ପୁନଃସ୍ଥାପନ କରନ୍ତୁ
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
@@ -178,9 +182,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ଥାପନ କରନ୍ତୁ
     .tooltiptext = ଏହି ତାଲିକାରେ ଉପଲବ୍ଧ ଅଦ୍ୟତନଗୁଡ଼ିକୁ ସ୍ଥାପନ କରନ୍ତୁ
+addon-updates-updating = ଏଡ-ଅନଗୁଡ଼ିକୁ ଅଦ୍ୟତନ କରୁଅଛି
+addon-updates-installed = ଆପଣଙ୍କର ଏଡ-ଅନଗୁଡ଼ିକ ଅଦ୍ୟତିତ ହୋଇଛି।
+addon-updates-none-found = କୌଣସି ଅଦ୍ୟତନ ମିଳିଲା ନାହିଁ
+addon-updates-manual-updates-found = ଉପଲବ୍ଧ ଅଦ୍ୟତନଗୁଡ଼ିକୁ ଦେଖନ୍ତୁ
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = ଫାଇଲରୁ ଏଡ-ଅନକୁ ସ୍ଥାପନ କରନ୍ତୁ…
+    .accesskey = I
+addon-install-from-file-dialog-title = ସ୍ଥାପନ କରିବା ପାଇଁ ଏଡ-ଅନ ବାଛନ୍ତୁ
+addon-install-from-file-filter-name = ଏଡ-ଅନଗୁଡ଼ିକ
 
 ## Extension shortcut management
 
