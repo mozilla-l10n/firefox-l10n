@@ -131,6 +131,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = مجاز
     .tooltiptext = ایڈ آن اپ ڈیٹ حفٲظتی جانچ بنٲویو ممكن
+extensions-warning-safe-mode = سٲری ایڈ آنس چھَ ناممكن بناونئ آمِت سیف موڈ كئ زریع
+extensions-warning-check-compatibility = ایڈ۔آن کمپیٹیبیلٹی چکینگ چھ ڈیسیبلْڈ۔ توہیہ ما آسن اِن کمپیٹیبْل ایڈ۔آن۔
+extensions-warning-check-compatibility-button = مجاز
+    .title = ایڈ آں رلُن جانچ بنٲویو ممكن
+extensions-warning-update-security = ایڈ۔آن اپڈیٹ حفاظت چکینگ چھ ڈیسیبْل کرنْہ آمْژ۔ توہیہ ما أسیو کمپرومایز کورمُت اپڈیٹو ذریعہ۔
+extensions-warning-update-security-button = مجاز
+    .title = ایڈ آن اپ ڈیٹ حفٲظتی جانچ بنٲویو ممكن
 
 ## Strings connected to add-on updates
 
