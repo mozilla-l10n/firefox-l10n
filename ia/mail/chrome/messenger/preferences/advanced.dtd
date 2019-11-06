@@ -65,6 +65,7 @@
 <!ENTITY showSettings.accesskey        "S">
 <!ENTITY connectionsInfo.caption       "Connexion">
 <!ENTITY offlineInfo.caption           "Offline">
+<!ENTITY offlineInfo.label             "Configurar le parametros offline">
 <!ENTITY showOffline.label             "Offline…">
 <!ENTITY showOffline.accesskey         "O">
 
