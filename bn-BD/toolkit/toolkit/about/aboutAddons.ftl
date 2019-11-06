@@ -157,6 +157,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = সক্রিয়
     .tooltiptext = অ্যাড-অন হালনাগাদকরন নিরাপত্তা পরীক্ষা করা সক্রিয়
+extensions-warning-safe-mode = নিরাপদ মোড এর সাহায্যে সব অ্যাড-অন নিস্ক্রিয়।
+extensions-warning-check-compatibility = অ্যাড-অনের উপযুক্ততা পরীক্ষা নিস্ক্রিয়। আপনার অ্যাড-অন অনুপোযুক্ত হতে পারে।
+extensions-warning-check-compatibility-button = সক্রিয়
+    .title = অ্যাড-অনের উপযুক্ততা পরীক্ষা সক্রিয়
+extensions-warning-update-security = অ্যাড-অন হালনাগাদকরন পরীক্ষা নিস্ক্রিয়। আপনি সম্ভবত হালনাগাদকরনের সাথে আপোষ করে নিয়েছেন।
+extensions-warning-update-security-button = সক্রিয়
+    .title = অ্যাড-অন হালনাগাদকরন নিরাপত্তা পরীক্ষা করা সক্রিয়
 
 ## Strings connected to add-on updates
 
