@@ -184,6 +184,8 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Омогући
     .tooltiptext = Омогући проверавање безбедности додатка
+extensions-warning-check-compatibility-button = Укључи
+    .title = Омогући проверавање компатибилности додатка
 
 ## Strings connected to add-on updates
 
