@@ -244,7 +244,12 @@ addon-updates-manual-updates-found = Қолжетерлік жаңартулар
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Файлдан қосымшаны орнату…
+    .accesskey = Ф
 addon-install-from-file-dialog-title = Орнату үшін кеңейтуді таңдаңыз
+addon-install-from-file-filter-name = Қосымшалар
+addon-open-about-debugging = Қосымшаларды жөндеу
+    .accesskey = д
 
 ## Extension shortcut management
 
