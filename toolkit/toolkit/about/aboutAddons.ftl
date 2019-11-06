@@ -198,6 +198,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Пабачыць нядаўнія абнаўленні
     .accesskey = б
+addon-updates-check-for-updates = Праверыць наяўнасць абнаўленняў
+    .accesskey = с
 addon-updates-view-updates = Пабачыць нядаўнія абнаўленні
     .accesskey = б
 
@@ -262,6 +264,9 @@ addon-open-about-debugging = Адладка дадаткаў
 
 manage-extensions-shortcuts =
     .label = Кіраваць спалучэннямі клавіш пашырэнняў
+    .accesskey = ы
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Кіраваць спалучэннямі клавіш пашырэнняў
     .accesskey = ы
 shortcuts-no-addons = У вас не ўключана ніводнага пашырэння.
 shortcuts-no-commands = Наступныя пашырэнні не маюць спалучэнняў клавіш:
@@ -434,3 +439,14 @@ recommended-theme-1 = Адчуваеце натхненне? <a data-l10n-name="
 
 ## Page headings
 
+extension-heading = Кіруйце сваімі пашырэннямі
+theme-heading = Кіруйце сваімі тэмамі
+plugin-heading = Кіруйце сваімі плагінамі
+dictionary-heading = Кіруйце сваімі слоўнікамі
+locale-heading = Кіруйце сваімі мовамі
+discover-heading = Персаналізуйце свой { -brand-short-name }
+shortcuts-heading = Кіраваць спалучэннямі клавіш пашырэнняў
+theme-heading-search-label = Знайсці іншыя тэмы
+extension-heading-search-label = Знайсці іншыя пашырэнні
+addons-heading-search-input =
+    .placeholder = Пошук на addons.mozilla.org
