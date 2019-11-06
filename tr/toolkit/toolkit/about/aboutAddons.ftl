@@ -196,6 +196,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = En son güncellemelere bak
     .accesskey = b
+addon-updates-view-updates = En son güncellemelere bak
+    .accesskey = b
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -240,6 +242,8 @@ addon-updates-manual-updates-found = Yüklenebilir güncellemelere bak
 
 addon-install-from-file-dialog-title = Kurulacak eklentiyi seçin
 addon-install-from-file-filter-name = Eklentiler
+addon-open-about-debugging = Eklentilerde hata ayıkla
+    .accesskey = h
 
 ## Extension shortcut management
 
@@ -409,3 +413,5 @@ recommended-theme-1 = Yaratıcı gününüzde misiniz? <a data-l10n-name="link">
 
 ## Page headings
 
+addons-heading-search-input =
+    .placeholder = addons.mozilla.org’da ara
