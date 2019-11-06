@@ -239,6 +239,10 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalar atualizações
     .tooltiptext = Instalar as atualizações disponíveis desta lista
+addon-updates-none-found = Nenhuma atualização encontrada
+
+## Add-on install/debug strings for page options menu
+
 
 ## Extension shortcut management
 
@@ -410,3 +414,6 @@ recommended-themes-heading = Temas recomendados
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Sentindo criatividade? <a data-l10n-name="link">Crie seu próprio tema com o Firefox Color.</a>
+
+## Page headings
+
