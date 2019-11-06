@@ -104,9 +104,6 @@ detail-rating =
     .value = হাৰাংক
 addon-restart-now =
     .label = এতিয়া পুনৰাম্ভ কৰক
-extensions-view-discover =
-    .name = এড-অনসমূহ প্ৰাপ্ত কৰক
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = শেহতীয়া আপডেইটসমূহ
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -181,3 +178,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = আপডেইটসমূহ ইনস্টল কৰক
     .tooltiptext = এই তালিকাত থকা উপলব্ধ আপডেইটসমূহ ইনস্টল কৰক
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
