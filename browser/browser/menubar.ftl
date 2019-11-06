@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Visas ekranas
     .accesskey = V
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Rodyti visas korteles
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Pranešti apie apgaulingą svetainę…
     .accesskey = a
+menu-help-not-deceptive =
+    .label = Tai nėra apgaulinga svetainė…
+    .accesskey = g
