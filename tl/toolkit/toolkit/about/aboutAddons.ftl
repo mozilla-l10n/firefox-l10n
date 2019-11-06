@@ -408,3 +408,5 @@ recommended-theme-1 = May pagkamalikhain? <a data-l10n-name="link">Bumuo ng sari
 
 ## Page headings
 
+addons-heading-search-input =
+    .placeholder = Hanapin sa addons.mozilla.org
