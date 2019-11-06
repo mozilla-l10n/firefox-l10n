@@ -176,6 +176,8 @@ extensions-updates-view-updates =
 extensions-updates-update-addons-automatically =
     .label = Kemaskini Add-ons secara Automatik
     .accesskey = A
+addon-updates-update-addons-automatically = Kemaskini Add-ons secara Automatik
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -208,9 +210,14 @@ extensions-updates-update-selected =
     .label = Pasang Kemaskini
     .tooltiptext = Pasang kemaskini yang tersedia di dalam senarai ini
 addon-updates-updating = Mengemaskini add-on
+addon-updates-installed = Add-ons anda telah dikemaskini.
+addon-updates-none-found = Tiada kemaskini ditemui
+addon-updates-manual-updates-found = Papar Kemaskini Tersedia
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Pasang Add-ons Dari Fail…
+    .accesskey = I
 addon-install-from-file-dialog-title = Pilih add-on untuk dipasang
 addon-install-from-file-filter-name = Add-ons
 
@@ -228,3 +235,12 @@ addon-install-from-file-filter-name = Add-ons
 
 ## Page headings
 
+extension-heading = Urus ekstensi anda
+theme-heading = Urus tema anda
+plugin-heading = Urus plugin anda
+dictionary-heading = Urus kamus anda
+locale-heading = Urus bahasa anda
+theme-heading-search-label = Cari tema selanjutnya
+extension-heading-search-label = Cari ekstensi selanjutnya
+addons-heading-search-input =
+    .placeholder = Cari di addons.mozilla.org
