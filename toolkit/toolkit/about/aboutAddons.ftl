@@ -200,6 +200,8 @@ extensions-updates-view-updates =
     .accesskey = φ
 addon-updates-check-for-updates = Έλεγχος για ενημερώσεις
     .accesskey = χ
+addon-updates-view-updates = Εμφάνιση πρόσφατων ενημερώσεων
+    .accesskey = φ
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -244,9 +246,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Εγκατάσταση ενημερώσεων
     .tooltiptext = Εγκατάσταση των διαθέσιμων ενημερώσεων σε αυτή τη λίστα
+addon-updates-updating = Γίνεται ενημέρωση προσθέτων
+addon-updates-installed = Τα πρόσθετα σας ενημερώθηκαν.
+addon-updates-none-found = Δεν βρέθηκαν ενημερώσεις
+addon-updates-manual-updates-found = Εμφάνιση διαθέσιμων ενημερώσεων
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Εγκατάσταση πρόσθετου από αρχείο…
+    .accesskey = γ
+addon-install-from-file-dialog-title = Επιλέξτε πρόσθετο για εγκατάσταση
+addon-install-from-file-filter-name = Πρόσθετα
 
 ## Extension shortcut management
 
