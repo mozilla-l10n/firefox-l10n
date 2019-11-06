@@ -228,6 +228,10 @@ extensions-updates-update-selected =
     .label = Ga'nïnj nej sa nakà doj
     .tooltiptext = Ga'nïn nej sa ga'ue nahuin nakà nu riña lsita nan
 
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-filter-name = Sa rugu ñunúnj
+
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
@@ -358,3 +362,6 @@ recommended-themes-heading = Nej temâ ga'ue garasunt
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Ûta hua sa ahui ràt ruhuâ raj? <a data-l10n-name="link">Girirà dàj ga si temât ngà Firefox Color.</a>
+
+## Page headings
+
