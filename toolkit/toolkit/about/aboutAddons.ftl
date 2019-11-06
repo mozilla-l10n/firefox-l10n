@@ -119,9 +119,6 @@ disabled-unsigned-devinfo = തങ്ങളുടെ ആഡോണുകൾ വ�
 plugin-deprecation-description = എന്തെങ്കിലും നഷ്ടമായോ? ചില പ്ലഗിന്നുകൾ ഇനിമുതൽ { -brand-short-name } പിന്തുണയ്ക്കില്ല. <label data-l10n-name="learn-more">കൂടുതല്‍ അറിയുക.</label>
 legacy-warning-show-legacy = പഴയ എക്സ്റ്റെന്‍ഷനും കാണിക്കുക
 legacy-extensions-description = ഈ എക്സ്റ്റൻഷെനുകൾ നിലവിലെ { -brand-short-name } മാനദണ്ഡങ്ങൾ പാലിക്കുന്നുല്ല, ആയതിനാൽ അവ നിർജ്ജീവമാക്കിയിട്ടുണ്ട്. <label data-l10n-name="legacy-learn-more">ആഡ്-ഓണുകളിലെ മാറ്റങ്ങളെക്കുറിച്ച് അറിയുക</label>
-extensions-view-discover =
-    .name = ആഡ്-ഓണുകള്‍ ലഭ്യമാകുക
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = ഏറ്റവും പുതിയ പരിഷ്കരണങ്ങള്‍
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -196,3 +193,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക
     .tooltiptext = പട്ടികയില്‍ ലഭ്യമായ പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
