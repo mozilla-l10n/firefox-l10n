@@ -165,6 +165,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Activar
     .tooltiptext = Activar a comprebación de seguranza d'os complementos
+extensions-warning-safe-mode = O modo seguro ha desactivau totz os complementos.
+extensions-warning-check-compatibility = A comprebación de compatibilidad d'os complementos ye desactivada. Puestar tienga complementos incompatibles.
+extensions-warning-check-compatibility-button = Activar
+    .title = Activar a comprebación de compatibilidad d'os complementos
+extensions-warning-update-security = A comprebación de seguranza d'os complementos ye desactivada. As actualizacions podrían meter-le en risque.
+extensions-warning-update-security-button = Activar
+    .title = Activar a comprebación de seguranza d'os complementos
 
 ## Strings connected to add-on updates
 
