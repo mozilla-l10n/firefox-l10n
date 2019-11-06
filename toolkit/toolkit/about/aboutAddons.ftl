@@ -26,6 +26,9 @@ extensions-warning-update-security-label =
     .value = Нэмэгдлийн аюулгүйн нууцлалын шинэчлэл тохиргоо хоригдсон байна. Шинэчлэх явцад танд анхааруулах болно.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-safe-mode = Бүх нэмэгдлүүд хамгаалалтын горимд хоригдсон.
+extensions-warning-check-compatibility = Нэмэгдлүүдийн тохиромжтой эсэхийг шалгах нь хоригдсон. Танд тохиромжгүй нэмэгдлүүд байж магадгүй.
+extensions-warning-update-security = Нэмэгдлийн аюулгүйн нууцлалын шинэчлэл тохиргоо хоригдсон байна. Шинэчлэх явцад танд анхааруулах болно.
 
 ## Strings connected to add-on updates
 
