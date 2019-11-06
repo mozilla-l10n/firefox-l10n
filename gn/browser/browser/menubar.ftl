@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Mba'erechaha tuichavéva
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Opaite tendayke jehechauka
@@ -289,4 +289,7 @@ menu-help-safe-mode-with-addons =
 # phishing-afterload-warning-message.dtd is shown.
 menu-help-report-deceptive-site =
     .label = Emombe'u ñandutirenda ivaiha...
+    .accesskey = d
+menu-help-not-deceptive =
+    .label = Kóva ndaha'éi tenda ombotavyséva…
     .accesskey = d
