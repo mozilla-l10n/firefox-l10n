@@ -242,6 +242,7 @@ extensions-updates-update-selected =
     .label = 安装选中的更新
     .tooltiptext = 安装在此列表选中的可用更新
 addon-updates-updating = 正在更新附加组件
+addon-updates-installed = 您的附加组件更新完毕。
 addon-updates-none-found = 没有找到可用的更新
 addon-updates-manual-updates-found = 查看可用更新
 
@@ -251,6 +252,8 @@ addon-install-from-file = 从文件安装附加组件…
     .accesskey = I
 addon-install-from-file-dialog-title = 选择附加组件来安装
 addon-install-from-file-filter-name = 附加组件
+addon-open-about-debugging = 调试附加组件
+    .accesskey = B
 
 ## Extension shortcut management
 
@@ -416,3 +419,5 @@ recommended-theme-1 = 有好的创意？<a data-l10n-name="link">使用 Firefox 
 
 ## Page headings
 
+theme-heading-search-label = 寻找更多主题
+extension-heading-search-label = 寻找更多扩展
