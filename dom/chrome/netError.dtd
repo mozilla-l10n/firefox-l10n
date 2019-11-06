@@ -84,6 +84,9 @@
 <!ENTITY cspBlocked.title "נחסם בהתאם למדיניות האבטחה של התוכן">
 <!ENTITY cspBlocked.longDesc "<p>הדפדפן מונע מדף זה להיטען בדרך זו מאחר שמדיניות אבטחת התוכן מונעת זאת.</p>">
 
+<!ENTITY xfoBlocked.title "נחסם בהתאם למדיניות ה־X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>הדפדפן מנע מדף זה להיטען בהקשר זה מכיוון שלדף יש מדיניות X-Frame-Options שאינה מרשה זאת.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "שגיאת תוכן פגום">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>לא ניתן להציג את הדף המבוקש מכיוון שאותרה שגיאה בתעבורת הנתונים.</p><ul><li>נא ליצור קשר עם בעלי האתר כדי ליידע אותם על בעיה זו.</li></ul>">
 
