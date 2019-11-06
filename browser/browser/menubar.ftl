@@ -278,3 +278,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = ભ્રામક સાઇટની જાણ કરો ...
     .accesskey = D
+menu-help-not-deceptive =
+    .label = આ એક ભ્રામક સાઇટ નથી…
+    .accesskey = d
