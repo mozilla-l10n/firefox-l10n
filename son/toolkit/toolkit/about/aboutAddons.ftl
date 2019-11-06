@@ -117,9 +117,6 @@ disabled-unsigned-description = Tontoney wey mana hin ka tabatandi ka goy nda { 
 disabled-unsigned-learn-more = Bay ka tonton kaŋ ir ga durkutu ka war saajaw interneti ra.
 disabled-unsigned-devinfo = Cinakey kaŋ ga boona ngi tontoney ma korosandi ma gaabandi ka caw ir <label data-l10n-name="learn-more">fahamandi tiira ra</label>.
 plugin-deprecation-description = Haya foo ga kuma? Sukari fooyaŋ ši kanbandi koyne { -brand-short-name } ga. <label data-l10n-name="learn-more">Bay ka tonton.</label>
-extensions-view-discover =
-    .name = Tontoney zaa
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Taagandiri kokorantey
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -194,3 +191,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Taagandirey sinji
     .tooltiptext = Taagandiri barantey sinji maašeedaa woo ra
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
