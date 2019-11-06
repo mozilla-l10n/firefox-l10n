@@ -14,6 +14,12 @@ be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara1 "Požiadali ste, aby sa &brandShortName; pripojil k stránke <b>#1</b>
 prostredníctvom zabezpečeného pripojenia. Nemôžeme vás však uistiť, že toto pripojenie je naozaj zabezpečené.">
+
+<!-- Localization note (certerror.introPara1a) - The text content of the span
+tag will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+<!ENTITY certerror.introPara1a "Požiadali ste, aby sa &brandShortName; pripojil k stránke <span class='hostname'/>
+prostredníctvom zabezpečeného pripojenia. Nemôžeme vás však uistiť, že toto pripojenie je naozaj zabezpečené.">
 <!ENTITY certerror.introPara2 "Keď sa pripájate pomocou zabezpečeného pripojenia,
 stránka zvyčajne poskytne identifikačné údaje na overenie, že sa pripájate k správnej stránke.
  Identita tejto stránky však nemohla byť overená.">
