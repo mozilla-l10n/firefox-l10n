@@ -243,3 +243,6 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
+menu-help-not-deceptive =
+    .label = នេះ​មិនមែន​ជា​វេបសាយ​បញ្ឆោត​ទេ…
+    .accesskey = d
