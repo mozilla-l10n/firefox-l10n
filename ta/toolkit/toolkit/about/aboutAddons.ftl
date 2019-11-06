@@ -121,9 +121,6 @@ legacy-warning-show-legacy = மரபு நீட்சிகளைக் க�
 legacy-extensions =
     .value = மரபு நீட்சிகள்
 legacy-extensions-description = தற்போதைய { -brand-short-name } தரத்துடன் இல்லாததால் இந்த நீட்சிகள் முடக்கி வைக்கப்படும். <label data-l10n-name="legacy-learn-more">துணை நிரல்களுக்கான மாற்றங்களை அறியுங்கள்</label>
-extensions-view-discover =
-    .name = துணை நிரல்களைப் பெறு
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = சமீபத்திய புதுப்பித்தல்கள்
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -160,12 +157,16 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = சமீபத்திய மேம்படுத்தல்களை பார்
     .accesskey = V
+addon-updates-view-updates = சமீபத்திய மேம்படுத்தல்களை பார்
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = கூடுதல் இணைப்புகளை தானாக புதுப்பி
+    .accesskey = A
+addon-updates-update-addons-automatically = கூடுதல் இணைப்புகளை தானாக புதுப்பி
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -179,6 +180,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = கைமுறையாக புதுப்பிக்க அனைத்து கூடுதல் இணைப்புகளையும் மறுஅமை
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = தானாக புதுப்பிக்க அனைத்து கூடுதல் இணைப்புகளையும் மறுஅமை
+    .accesskey = R
+addon-updates-reset-updates-to-manual = கைமுறையாக புதுப்பிக்க அனைத்து கூடுதல் இணைப்புகளையும் மறுஅமை
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -198,3 +203,26 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = புதுப்பித்தல்களை நிறுவு
     .tooltiptext = இந்த பட்டியலில் இருக்கும் புதுப்பித்தல்களை நிறுவவும்
+addon-updates-updating = கூடுதல் இணைப்புகளை புதுப்பிக்கிறது
+addon-updates-none-found = புதுப்பித்தல்கள் எதுவும் காணப்படவில்லை
+addon-updates-manual-updates-found = இருக்கும் புதுப்பித்தல்களை பார்
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = நிறுவ கூடுதல் இணைப்பைத் தேர்ந்தெடு
+addon-install-from-file-filter-name = கூடுதல் இணைப்பு
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
