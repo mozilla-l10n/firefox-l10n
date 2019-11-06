@@ -253,6 +253,8 @@ addon-install-from-file = Asenna lisäosa tiedostosta…
     .accesskey = A
 addon-install-from-file-dialog-title = Valitse asennettava lisäosa
 addon-install-from-file-filter-name = Lisäosat
+addon-open-about-debugging = Jäljitä lisäosien virheitä
+    .accesskey = J
 
 ## Extension shortcut management
 
