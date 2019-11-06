@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Pantalla completa
     .accesskey = l
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Mostrar todas las pestañas
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Informar sitio engañoso…
     .accesskey = f
+menu-help-not-deceptive =
+    .label = Este sitio no es engañoso…
+    .accesskey = e
