@@ -183,6 +183,15 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = आपडेटफोरखौ इनष्टल खालाम
     .tooltiptext = बे लिस्टयाव थानाय आपडेटखौ इनष्टल खालाम
+addon-updates-updating = add-ons खौ आपडेट खालाम गासिनो दं
+addon-updates-installed = नोंथांनि add-ons खौ आपडेट खालामबाय।
+addon-updates-none-found = जेबो आपडेट मोनाखै
+addon-updates-manual-updates-found = थानाय आपडेटखौ नाइ
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = इनष्टल खालामनो add-on खौ सायख
+addon-install-from-file-filter-name = Add-ons
 
 ## Extension shortcut management
 
@@ -264,3 +273,6 @@ available-updates-heading = थानाय आपडेटफोर
 recent-updates-heading = दानि आपडेट
 release-notes-loading = ल'ड खालाम गासिनो दं...
 release-notes-error = निमाहा, नाथाय ओंखारनाय लिरसुंथाइखौ ल'ड खालामनाय समाव गोरोन्थि जादों।
+
+## Page headings
+
