@@ -183,6 +183,10 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = Վերակայել հավելումները՝ դրանք ձեռքով թարմացնելու համար
     .accesskey = վ
+addon-updates-reset-updates-to-automatic = Վերակայել բոլոր հավելումները՝ ինքնաշխատ թարմացնելու համար
+    .accesskey = Վ
+addon-updates-reset-updates-to-manual = Վերակայել հավելումները՝ դրանք ձեռքով թարմացնելու համար
+    .accesskey = վ
 
 ## Status messages displayed when updating add-ons
 
@@ -212,6 +216,8 @@ addon-install-from-file = Տեղակայեք հավելումը Ֆայլից...
     .accesskey = Տ
 addon-install-from-file-dialog-title = Ընտրեք տեղադրվող հավելումը
 addon-install-from-file-filter-name = Հավելումներ
+addon-open-about-debugging = Վրիպազերծել հավելումները
+    .accesskey = պ
 
 ## Extension shortcut management
 
