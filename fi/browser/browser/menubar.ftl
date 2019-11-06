@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Kokoruututila
     .accesskey = K
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Näytä kaikki välilehdet
@@ -289,4 +289,7 @@ menu-help-safe-mode-with-addons =
 # phishing-afterload-warning-message.dtd is shown.
 menu-help-report-deceptive-site =
     .label = Ilmoita petollinen sivusto…
+    .accesskey = p
+menu-help-not-deceptive =
+    .label = Tämä ei ole petollinen sivusto…
     .accesskey = p
