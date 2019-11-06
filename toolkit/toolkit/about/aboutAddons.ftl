@@ -168,6 +168,10 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = فعال کردن
     .tooltiptext = فعال کردن بررسی امنیتی بروزرسانی افزودنی‌ها
+extensions-warning-safe-mode = همهٔ افزودنی‌ها به دلیل مرور در حالت امن غیر فعال شده‌اند.
+extensions-warning-check-compatibility = کنترل سازگاری افزودنی‌ها غیر فعال است. ممکن است افزودنی‌های ناسازگاری داشته باشید.
+extensions-warning-check-compatibility-button = فعال کردن
+    .title = فعال کردن کنترل سازگاری افزودنی‌ها
 
 ## Strings connected to add-on updates
 
