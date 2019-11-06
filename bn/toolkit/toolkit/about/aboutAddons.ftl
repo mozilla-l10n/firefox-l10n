@@ -195,6 +195,10 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = সব অ্যাড-অন নিজ হাতে হালনাগাদ করার জন্য পুন:নির্ধারন করা হবে R
     .accesskey = R
+addon-updates-reset-updates-to-automatic = সব অ্যাড-অন স্বয়ংক্রিয়ভাবে হালনাগাদ করার জন্য পুন:নির্ধারন করা হবে R
+    .accesskey = R
+addon-updates-reset-updates-to-manual = সব অ্যাড-অন নিজ হাতে হালনাগাদ করার জন্য পুন:নির্ধারন করা হবে R
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
@@ -213,9 +217,15 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = হালনাগাদ ইনস্টল করুন
     .tooltiptext = তালিকায় বিদ্যমান হালনাগাদ ইনস্টল করুন
+addon-updates-updating = অ্যাড-অন হালনাগাদ করা হচ্ছে
+addon-updates-installed = আপনার সকল অ্যাড-অন হালনাগাদ করা হয়েছে।
+addon-updates-none-found = কোনো হালনাগাদ পাওয়া যায়নি
+addon-updates-manual-updates-found = বিদ্যমান হালনাগাদ প্রদর্শিত হবে
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = ফাইল থেকে অ্যাড-অন ইনস্টল… I
+    .accesskey = I
 addon-install-from-file-dialog-title = ইনস্টল করার জন্য অ্যাড-অন নির্বাচন
 addon-install-from-file-filter-name = অ্যাড-অন
 
