@@ -252,6 +252,9 @@ addon-open-about-debugging = Dadfygio Ychwanegion
 manage-extensions-shortcuts =
     .label = Rheoli Estyniad Llwybrau Byr
     .accesskey = R
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Rheoli Estyniad Llwybrau Byr
+    .accesskey = R
 shortcuts-no-addons = Nid oes gennych unrhyw estyniadau wedi'u galluogi.
 shortcuts-no-commands = Nid oes gan yr estyniadau canlynol lwybrau byr:
 shortcuts-input =
@@ -427,3 +430,14 @@ recommended-theme-1 = Teimlo'n greadigol? <a data-l10n-name="link">Adeiladwch ei
 
 ## Page headings
 
+extension-heading = Rheoli eich estyniadau
+theme-heading = Rheoli eich themâu
+plugin-heading = Rheoli eich ategion
+dictionary-heading = Rheoli eich geiriaduron
+locale-heading = Rheoli eich ieithoedd
+discover-heading = Personoli Eich { -brand-short-name }
+shortcuts-heading = Rheoli Estyniad Llwybrau Byr
+theme-heading-search-label = Canfod themâu eraill
+extension-heading-search-label = Canfod estyniadau eraill
+addons-heading-search-input =
+    .placeholder = Search addons.mozilla.org
