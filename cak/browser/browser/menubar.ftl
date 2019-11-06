@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Chijun ruwa kematz'ib'
     .accesskey = C
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Kek'ut pe ronojel ri taq ruwi'
@@ -289,4 +289,7 @@ menu-help-safe-mode-with-addons =
 # phishing-afterload-warning-message.dtd is shown.
 menu-help-report-deceptive-site =
     .label = Rutzijol q'olonel ruxaq k'amaya'l…
+    .accesskey = q
+menu-help-not-deceptive =
+    .label = Re re' man q'olonel ta chi ruxaq k'amaya'l…
     .accesskey = q
