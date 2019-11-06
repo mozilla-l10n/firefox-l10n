@@ -196,12 +196,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Rodyti paskiausiai atnaujintus priedus
     .accesskey = p
+addon-updates-check-for-updates = Tikrinti, ar yra naujinimų
+    .accesskey = T
+addon-updates-view-updates = Rodyti paskiausiai atnaujintus priedus
+    .accesskey = p
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Naujinti priedus automatiškai
+    .accesskey = N
+addon-updates-update-addons-automatically = Naujinti priedus automatiškai
     .accesskey = N
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -215,6 +221,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = V
 extensions-updates-reset-updates-to-manual =
     .label = Visus priedus naujinti rankiniu būdu
+    .accesskey = V
+addon-updates-reset-updates-to-automatic = Visus priedus naujinti automatiškai
+    .accesskey = V
+addon-updates-reset-updates-to-manual = Visus priedus naujinti rankiniu būdu
     .accesskey = V
 
 ## Status messages displayed when updating add-ons
@@ -234,6 +244,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Įdiegti naujinimus
     .tooltiptext = Įdiegti šiame sąraše esančių priedų naujinimus
+addon-updates-updating = Priedai naujinami
+addon-updates-installed = Turimi priedai atnaujinti.
+addon-updates-none-found = Naujinimų nerasta
+addon-updates-manual-updates-found = Rodyti galimus atnaujinti priedus
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Įdiegti priedą iš failo…
+    .accesskey = d
+addon-install-from-file-dialog-title = Parinkite norimą įdiegti priedą
+addon-install-from-file-filter-name = Add-ons
 
 ## Extension shortcut management
 
@@ -408,3 +429,6 @@ recommended-themes-heading = Rekomenduojami grafiniai apvalkalai
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Jaučiatės kūrybiškai? <a data-l10n-name="link">Sukurkite savo grafinį apvalkalą su „Firefox Color“.</a>
+
+## Page headings
+
