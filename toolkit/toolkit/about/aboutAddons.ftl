@@ -186,6 +186,9 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = 開啟
     .tooltiptext = 開啟附加元件更新安全性檢查
+extensions-warning-safe-mode = 所有附加元件於安全模式中都已停用。
+extensions-warning-check-compatibility = 已停止檢查附加元件相容性，您可能有不相容的附加元件。
+extensions-warning-update-security = 已停止檢查附加元件安全性，更新程式可能不安全。
 
 ## Strings connected to add-on updates
 
