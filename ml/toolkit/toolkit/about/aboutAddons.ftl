@@ -155,12 +155,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = ഏറ്റവും പുതിയ പരിഷ്കരങ്ങള്‍ കാണുക
     .accesskey = V
+addon-updates-check-for-updates = പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക
+    .accesskey = C
+addon-updates-view-updates = ഏറ്റവും പുതിയ പരിഷ്കരങ്ങള്‍ കാണുക
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = ഓട്ടോമാറ്റിക്കായി ആഡ്-ഓണുകള്‍ പരിഷ്കരിയ്ക്കുക
+    .accesskey = A
+addon-updates-update-addons-automatically = ഓട്ടോമാറ്റിക്കായി ആഡ്-ഓണുകള്‍ പരിഷ്കരിയ്ക്കുക
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -174,6 +180,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = മാനുവലായി പരിഷ്കരിയ്ക്കുന്നതിനായി എല്ലാ ആഡ്-ഓണുകളും വീണ്ടും സജ്ജമാക്കുക
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = ഓട്ടോമാറ്റിക്കായി പരിഷ്കരിയ്ക്കുന്നതിനു് എല്ലാ ആഡ്-ഓണുകളും വീണ്ടും സജ്ജമാക്കുക
+    .accesskey = R
+addon-updates-reset-updates-to-manual = മാനുവലായി പരിഷ്കരിയ്ക്കുന്നതിനായി എല്ലാ ആഡ്-ഓണുകളും വീണ്ടും സജ്ജമാക്കുക
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -193,9 +203,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക
     .tooltiptext = പട്ടികയില്‍ ലഭ്യമായ പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക
+addon-updates-updating = ആഡ്-ഓണുകള്‍ പരിഷ്കരിയ്ക്കുന്നു
+addon-updates-installed = നിങ്ങളുടെ ആഡ്-ഓണുകള്‍ പരിഷ്കരിച്ചിരിയ്ക്കുന്നു.
+addon-updates-none-found = പരിഷ്കരണങ്ങള്‍ ലഭ്യമല്ല
+addon-updates-manual-updates-found = ലഭ്യമായ പരിഷ്കരണങ്ങള്‍ കാണുക
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = ഫയലില്‍ നിന്നും ആഡ്-ഓണ്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക…
+    .accesskey = I
+addon-install-from-file-dialog-title = ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതിനുള്ള ആഡ്-ഓണ്‍ തെരഞ്ഞെടുക്കുക
+addon-install-from-file-filter-name = ആഡ്-ഓണുകള്‍
 
 ## Extension shortcut management
 
