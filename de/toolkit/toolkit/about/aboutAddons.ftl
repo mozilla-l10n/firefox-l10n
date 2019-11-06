@@ -257,11 +257,16 @@ addon-install-from-file = Add-on aus Datei installieren…
     .accesskey = A
 addon-install-from-file-dialog-title = Zu installierendes Add-on auswählen
 addon-install-from-file-filter-name = Add-ons
+addon-open-about-debugging = Add-ons debuggen
+    .accesskey = b
 
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
     .label = Tastenkombination für Erweiterungen verwalten
+    .accesskey = T
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Tastenkombination für Erweiterungen verwalten
     .accesskey = T
 shortcuts-no-addons = Es sind keine Erweiterungen installiert.
 shortcuts-no-commands = Folgende Erweiterungen verfügen über keine Tastenkombinationen:
@@ -430,3 +435,12 @@ recommended-theme-1 = Fühlen Sie sich inspiriert? <a data-l10n-name="link">Erst
 
 ## Page headings
 
+extension-heading = Erweiterungen verwalten
+theme-heading = Themes verwalten
+plugin-heading = Plugins verwalten
+dictionary-heading = Wörterbücher verwalten
+locale-heading = Sprachen verwalten
+discover-heading = { -brand-short-name } anpassen
+shortcuts-heading = Tastenkombination für Erweiterungen verwalten
+addons-heading-search-input =
+    .placeholder = Auf addons.mozilla.org suchen
