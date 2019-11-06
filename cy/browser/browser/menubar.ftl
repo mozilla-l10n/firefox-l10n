@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Sgrin Lawn
     .accesskey = S
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Dangos Pob Tab
@@ -289,4 +289,7 @@ menu-help-safe-mode-with-addons =
 # phishing-afterload-warning-message.dtd is shown.
 menu-help-report-deceptive-site =
     .label = Adroddwch ar wefan twyllodrus…
+    .accesskey = t
+menu-help-not-deceptive =
+    .label = Nid yw hon yn wefan twyllodrus…
     .accesskey = t
