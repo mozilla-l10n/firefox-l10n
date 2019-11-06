@@ -242,6 +242,7 @@ extensions-updates-update-selected =
     .label = 安装选中的更新
     .tooltiptext = 安装在此列表选中的可用更新
 addon-updates-updating = 正在更新附加组件
+addon-updates-none-found = 没有找到可用的更新
 addon-updates-manual-updates-found = 查看可用更新
 
 ## Add-on install/debug strings for page options menu
