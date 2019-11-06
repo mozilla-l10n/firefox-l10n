@@ -178,6 +178,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = เปิดใช้งาน
     .tooltiptext = เปิดใช้งานการตรวจสอบความปลอดภัยของการอัปเดตส่วนเสริม
+extensions-warning-safe-mode = ส่วนเสริมทั้งหมดถูกปิดใช้งานโดยโหมดปลอดภัย
+extensions-warning-check-compatibility = การตรวจสอบความเข้ากันได้ของส่วนเสริมถูกปิดใช้งาน คุณอาจมีส่วนเสริมที่เข้ากันไม่ได้
+extensions-warning-check-compatibility-button = เปิดใช้งาน
+    .title = เปิดใช้งานการตรวจสอบความเข้ากันได้ของส่วนเสริม
+extensions-warning-update-security = การตรวจสอบความปลอดภัยของการอัปเดตส่วนเสริมถูกปิดใช้งาน คุณอาจถูกบุกรุกโดยการอัปเดต
+extensions-warning-update-security-button = เปิดใช้งาน
+    .title = เปิดใช้งานการตรวจสอบความปลอดภัยของการอัปเดตส่วนเสริม
 
 ## Strings connected to add-on updates
 
