@@ -196,12 +196,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Ver atualizações recentes
     .accesskey = V
+addon-updates-check-for-updates = Procurar atualizações
+    .accesskey = c
+addon-updates-view-updates = Ver atualizações recentes
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Atualizar extras automaticamente
+    .accesskey = A
+addon-updates-update-addons-automatically = Atualizar extras automaticamente
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -234,6 +240,10 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalar atualizações
     .tooltiptext = Instalar atualizações disponíveis nesta lista
+addon-updates-updating = A atualizar extras
+addon-updates-installed = Os seus extras foram atualizados.
+addon-updates-none-found = Nenhuma atualização encontrada
+addon-updates-manual-updates-found = Ver atualizações disponíveis
 
 ## Add-on install/debug strings for page options menu
 
