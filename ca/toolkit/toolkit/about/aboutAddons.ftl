@@ -244,6 +244,7 @@ extensions-updates-update-selected =
 addon-updates-updating = S'estan actualitzant els complements
 addon-updates-installed = S'han actualitzat els vostres complements.
 addon-updates-none-found = No s'ha trobat cap actualització
+addon-updates-manual-updates-found = Mostra les actualitzacions disponibles
 
 ## Add-on install/debug strings for page options menu
 
@@ -251,6 +252,8 @@ addon-install-from-file = Instal·la un complement des d'un fitxer…
     .accesskey = I
 addon-install-from-file-dialog-title = Seleccioneu un complement per instal·lar
 addon-install-from-file-filter-name = Complements
+addon-open-about-debugging = Depura complements
+    .accesskey = u
 
 ## Extension shortcut management
 
