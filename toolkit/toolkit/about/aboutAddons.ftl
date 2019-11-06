@@ -255,6 +255,8 @@ addon-install-from-file = Instalar complemento desde archivo…
     .accesskey = I
 addon-install-from-file-dialog-title = Seleccionar este complemento para instalar
 addon-install-from-file-filter-name = Complementos
+addon-open-about-debugging = Depurar complementos
+    .accesskey = p
 
 ## Extension shortcut management
 
