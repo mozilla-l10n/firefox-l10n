@@ -91,12 +91,16 @@ extensions-warning-update-security-container =
 extensions-updates-check-for-updates =
     .label = ກວດສອບການອັບເດດ
     .accesskey = C
+addon-updates-check-for-updates = ກວດສອບການອັບເດດ
+    .accesskey = C
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = ອັບເດດ Add-ons ໂດຍອັດຕະໂນມັດ
+    .accesskey = A
+addon-updates-update-addons-automatically = ອັບເດດ Add-ons ໂດຍອັດຕະໂນມັດ
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -112,11 +116,14 @@ extensions-updates-updating =
     .value = ກຳລັງອັບເດດ add-ons
 extensions-updates-manual-updates-found =
     .label = ເບິ່ງການອັບເດດທີ່ມີຢູ່
+addon-updates-updating = ກຳລັງອັບເດດ add-ons
+addon-updates-manual-updates-found = ເບິ່ງການອັບເດດທີ່ມີຢູ່
 
 ## Add-on install/debug strings for page options menu
 
 addon-install-from-file = ຕິດຕັ້ງ Add-ons ຈາກໄຟລ໌…
     .accesskey = I
+addon-install-from-file-filter-name = Add-ons
 addon-open-about-debugging = ດີບັກ Add-on
     .accesskey = B
 
