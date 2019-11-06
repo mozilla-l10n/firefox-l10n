@@ -19,12 +19,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = 保護等級設為<b>標準</b>
-protection-header-details-strict = 保護等級設為<b>嚴格</b>
-protection-header-details-custom = 保護等級設為<b>自訂</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = 保護等級設為<b>標準</b>
     .title = 前往隱私設定
 protection-report-header-details-strict = 保護等級設為<b>嚴格</b>
@@ -35,6 +29,7 @@ protection-report-page-title = 隱私保護
 protection-report-content-title = 隱私保護
 etp-card-title = 加強型追蹤保護
 etp-card-content = 追蹤器會在網路上跟蹤您，收集您的興趣與喜好。{ -brand-short-name } 會封鎖許多追蹤器與其他有害指令碼。
+protection-report-manage-protections = 管理設定
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = 今天
@@ -54,7 +49,6 @@ lockwise-title = 不再忘記密碼
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } 會安全地在您的瀏覽器中儲存密碼。
 lockwise-header-content-logged-in = 安全地儲存密碼，並同步到您的所有裝置中。
-about-logins-view-logins-button = 檢視登入資訊
 protection-report-view-logins-button = 檢視登入資訊
     .title = 前往已存登入資訊
 lockwise-no-logins-content = 下載 <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> App，把密碼隨身帶著走。
@@ -110,10 +104,6 @@ password-warning =
     { $count ->
        *[other] 有網站發生資料外洩事件，當中可能流出了您儲存的登入資訊。請更改此密碼以維護線上安全。<a data-l10n-name="lockwise-link">檢視已存登入資訊</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = 前往隱私設定
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = 前往已存登入資訊
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
