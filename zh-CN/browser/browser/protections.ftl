@@ -29,6 +29,7 @@ protection-report-page-title = 隐私保护
 protection-report-content-title = 隐私保护
 etp-card-title = 强化隐私保护
 etp-card-content = 网络上跟踪器无所不在。它们跟踪您的上网行踪，收集您的上网习惯与兴趣爱好。{ -brand-short-name } 能拦截诸多这类跟踪器，以及其他有害的程序。
+protection-report-etp-card-content-custom-not-blocking = 目前已关闭所有保护功能。通过管理 { -brand-short-name } 保护设置，即可选择要拦截的跟踪器。
 protection-report-manage-protections = 管理设置
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
