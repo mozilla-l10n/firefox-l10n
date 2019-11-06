@@ -152,12 +152,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = সর্বশেষ আপডেটগুলি দেখুন
     .accesskey = স
+addon-updates-check-for-updates = আপডেটের উপস্থিতি পরীক্ষা করুন
+    .accesskey = C
+addon-updates-view-updates = সর্বশেষ আপডেটগুলি দেখুন
+    .accesskey = স
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = স্বয়ংক্রিয়ভাবে অতিরিক্ত সামগ্রী আপডেট করা হবে
+    .accesskey = A
+addon-updates-update-addons-automatically = স্বয়ংক্রিয়ভাবে অতিরিক্ত সামগ্রী আপডেট করা হবে
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -171,6 +177,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = ব্যবহারকারী দ্বারা আপডেট করার উদ্দেশ্যে চিহ্নিত সকল অতিরিক্ত সামগ্রী পুনরায় নির্ধারণ করা হবে
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = স্বয়ংক্রিয়ভাবে আপডেট করার উদ্দেশ্যে চিহ্নিত সকল অতিরিক্ত সামগ্রী পুনরায় নির্ধারণ করা হবে
+    .accesskey = R
+addon-updates-reset-updates-to-manual = ব্যবহারকারী দ্বারা আপডেট করার উদ্দেশ্যে চিহ্নিত সকল অতিরিক্ত সামগ্রী পুনরায় নির্ধারণ করা হবে
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -190,9 +200,19 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = আপডেট ইনস্টল করুন
     .tooltiptext = এই তালিকায় উপলব্ধ আপডেটগুলি ইনস্টল করুন
+addon-updates-updating = অতিরিক্ত সামগ্রী আপডেট করুন
+addon-updates-installed = অতিরিক্ত সামগ্রীগুলি আপডেট করা হয়েছে।
+addon-updates-none-found = কোনো আপডেট পাওয়া যায়নি
+addon-updates-manual-updates-found = উপলব্ধ সকল আপডেট প্রদর্শন
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = ফাইল থেকে অতিরিক্ত সামগ্রী ইনস্টল করুন…
+    .accesskey = I
+addon-install-from-file-dialog-title = ইনস্টল করার জন্য অতিরিক্ত সামগ্রী নির্বাচন করুন
+addon-install-from-file-filter-name = অতিরিক্ত সামগ্রী
+addon-open-about-debugging = অ্যাড-অন ডিবাগ
+    .accesskey = b
 
 ## Extension shortcut management
 
