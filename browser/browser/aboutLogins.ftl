@@ -6,6 +6,8 @@ about-logins-page-title = लॉगिन व संकेतशब्द
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-title = आपले पासवर्ड सर्वत्र न्या
+login-app-promo-subtitle = विनामूल्य { -lockwise-brand-name } अॅप मिळवा
 login-app-promo-android =
     .alt = Google Play वर मिळवा
 login-app-promo-apple =
@@ -95,6 +97,12 @@ master-password-reload-button =
     .label = लॉग इन
     .accesskey = L
 
+## Password Sync notification
+
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = मला पुन्हा विचारू नका
+    .accesskey = D
+
 ## Dialogs
 
 confirmation-dialog-cancel-button = रद्द करा
@@ -115,3 +123,10 @@ breach-alert-dismiss =
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = त्या वापरकर्त्यासह { $loginTitle } साठी नोंद आधीपासून आहे.
+# This is a generic error message.
+about-logins-error-message-default = हा पासवर्ड साठवताना त्रुटी आली.
