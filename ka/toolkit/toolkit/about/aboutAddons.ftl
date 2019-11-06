@@ -190,6 +190,11 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = ჩართვა
     .tooltiptext = დამატებების განახლების უსაფრთხოების შემოწმების ჩართვა
+extensions-warning-check-compatibility-button = ჩართვა
+    .title = დამატებების თავსებადობის შემოწმების ჩართვა
+extensions-warning-update-security = დამატების განახლების უსაფრთხოების შემოწმება გამორთულია. განახლებამ შესაძლოა ზიანი მოგაყენოთ.
+extensions-warning-update-security-button = ჩართვა
+    .title = დამატებების განახლების უსაფრთხოების შემოწმების ჩართვა
 
 ## Strings connected to add-on updates
 
