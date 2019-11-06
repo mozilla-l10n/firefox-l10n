@@ -256,6 +256,8 @@ addon-install-from-file = Namesti dodatek iz datoteke …
     .accesskey = I
 addon-install-from-file-dialog-title = Izberite dodatek za namestitev
 addon-install-from-file-filter-name = Dodatki
+addon-open-about-debugging = Dodatki za razhroščevanje
+    .accesskey = D
 
 ## Extension shortcut management
 
