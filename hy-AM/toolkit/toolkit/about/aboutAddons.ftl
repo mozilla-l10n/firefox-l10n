@@ -148,6 +148,7 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Միացնել
     .tooltiptext = Միացնել հավելման թարմացման անվտանգության ստուգումը
+extensions-warning-safe-mode = Ապահով կերպը պասիվացրել է բոլոր հավելումները:
 extensions-warning-check-compatibility = Հավելումների համատեղելիության ստուգումը պասիվ է: Դուք կարող էք ունենալ անհամատեղելի հավելումներ:
 extensions-warning-check-compatibility-button = Միացնել
     .title = Միացնել հավելման համատեղելիության ստուգումը
