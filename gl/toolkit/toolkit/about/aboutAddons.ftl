@@ -130,9 +130,6 @@ legacy-warning-show-legacy = Amosar as extensións herdadas
 legacy-extensions =
     .value = Extensións herdadas
 legacy-extensions-description = Estas extensións non cumpren os estándares actuais de { -brand-short-name }, así que foron desactivadas. <label data-l10n-name="legacy-learn-more">Máis información sobre os cambios nos complementos</label>
-extensions-view-discover =
-    .name = Obter complementos
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Actualizacións recentes
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -169,12 +166,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Ver actualizacións recentes
     .accesskey = V
+addon-updates-check-for-updates = Buscar actualizacións
+    .accesskey = c
+addon-updates-view-updates = Ver actualizacións recentes
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Actualizar os complementos automaticamente
+    .accesskey = A
+addon-updates-update-addons-automatically = Actualizar os complementos automaticamente
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -188,6 +191,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = Restabelecer todos os complementos para actualizalos manualmente
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = Restabelecer todos os complementos para actualizalos automaticamente
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Restabelecer todos os complementos para actualizalos manualmente
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -207,3 +214,36 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalar actualizacións
     .tooltiptext = Instalar as actualizacións dispoñíbeis desta lista
+addon-updates-updating = Actualizando os complementos
+addon-updates-installed = Actualizáronse os seus complementos.
+addon-updates-none-found = Non se atoparon actualizacións
+addon-updates-manual-updates-found = Ver actualizacións dispoñíbeis
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Instalar complemento desde o ficheiro…
+    .accesskey = I
+addon-install-from-file-dialog-title = Seleccionar o complemento para instalar
+addon-install-from-file-filter-name = Complementos
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
+extension-heading = Xestione as súas extensións
+theme-heading = Xestione os seus temas
+plugin-heading = Xestione os seus engadidos
+dictionary-heading = Xestione os seus dicionarios
+locale-heading = Xestione os seus idiomas
+theme-heading-search-label = Atopar máis temas
+extension-heading-search-label = Atopar máis extensións
