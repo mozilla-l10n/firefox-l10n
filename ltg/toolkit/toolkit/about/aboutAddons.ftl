@@ -157,12 +157,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Apsavērt nasenūs atjaunynuojumus
     .accesskey = n
+addon-updates-check-for-updates = Mekleit atjaunynuojumus
+    .accesskey = M
+addon-updates-view-updates = Apsavērt nasenūs atjaunynuojumus
+    .accesskey = n
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Atjaunynuot papyldynuojums automatiski
+    .accesskey = A
+addon-updates-update-addons-automatically = Atjaunynuot papyldynuojums automatiski
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -176,6 +182,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = l
 extensions-updates-reset-updates-to-manual =
     .label = Atjaunynuot vysus papyldynuojums manuali
+    .accesskey = m
+addon-updates-reset-updates-to-automatic = Atjaunynuot vysus papyldynuojums automatiski
+    .accesskey = l
+addon-updates-reset-updates-to-manual = Atjaunynuot vysus papyldynuojums manuali
     .accesskey = m
 
 ## Status messages displayed when updating add-ons
@@ -195,9 +205,19 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instaleit atjaunynuojumus
     .tooltiptext = Instaleit vysus itymā sarokstā pīejamūs atjaunynuojumus
+addon-updates-updating = Atjaunynoj papyldynuojums
+addon-updates-installed = Jiusu papyldynuojumi ir atjaunynuoti.
+addon-updates-none-found = Atjaunynuojumi nav atrosti
+addon-updates-manual-updates-found = Apsavērt pīejamūs atjaunynuojumus
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Instaleit nu faila…
+    .accesskey = I
+addon-install-from-file-dialog-title = Izavielit instalejamū papyldynuojumu
+addon-install-from-file-filter-name = Papyldynuojumi
+addon-open-about-debugging = Atklaiduot papyldynuojums
+    .accesskey = d
 
 ## Extension shortcut management
 
