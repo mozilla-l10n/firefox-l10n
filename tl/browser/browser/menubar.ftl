@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Buong Screen
     .accesskey = B
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Ipakita ang Lahat ng Mga Tab
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Magsumbong ng Mapanlinlang na Site...
     .accesskey = D
+menu-help-not-deceptive =
+    .label = Ito ay hindi mapagkunwaring site...
+    .accesskey = d
