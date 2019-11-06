@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = Zabráni aplikácii { -brand-short-name } spúš�
 policy-DisableForgetButton = Zablokuje prístup ku tlačidlu Zabudnúť.
 policy-DisableFormHistory = Vypne ukladanie histórie vyhľadávania a formulárov.
 policy-DisableMasterPasswordCreation = Hodnota true znemožní nastavenie hlavného hesla.
+policy-DisablePasswordReveal = Zablokuje zobrazovanie hesiel v správcovi prihlasovacích údajov.
 policy-DisablePocket = Vypne funkciu pre ukladanie stránok do služby Pocket.
 policy-DisablePrivateBrowsing = Zablokuje súkromné prehliadanie
 policy-DisableProfileImport = Zablokuje možnosť importu údajov z iných prehliadačov.
@@ -61,6 +62,7 @@ policy-HardwareAcceleration = Ak je nastavená hodnota false, vypne hardvérové
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Nastaví a v prípade potreby uzamkne domovskú stránku.
 policy-InstallAddonsPermission = Povolí určitým webovým stránkam inštalovať doplnky.
+policy-LegacyProfiles = Vypne funkciu, ktorá vynucuje samostatný profil pre každú inštaláciu aplikácie
 policy-LocalFileLinks = Povolí určitým webovým stránkam odkazovať na súbory uložené na pevnom disku.
 policy-NetworkPrediction = Povolí alebo zakáže prednačítavanie DNS (prefetching).
 policy-NewTabPage = Povolí alebo zakáže stránku novej karty.
