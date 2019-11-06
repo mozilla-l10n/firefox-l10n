@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Folslein skerm
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Alle ljepblêden toane
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Misliedende website rapportearje…
     .accesskey = M
+menu-help-not-deceptive =
+    .label = Dit is gjin misliedende website…
+    .accesskey = m
