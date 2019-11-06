@@ -144,9 +144,6 @@ private-browsing-description2 =
     { -brand-short-name } pe bitic pire kene i Dirica me Mung. Nikwanyo ka iyee i ter, lamed meno pe bitic ikare me yeny i mung, ki pe binongo tic mamegi me wiyamo
     kunu. Watimo alokaloka man me gwoko yeny me mung mamegi i mung.
     <label data-l10n-name="private-browsing-learn-more">Nong ngec ikit me loono ter pa lamed</label>
-extensions-view-discover =
-    .name = Gam med-ikome
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Ngec manyen ma cokki
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -222,6 +219,11 @@ extensions-updates-update-selected =
     .label = Ket ngec manyen
     .tooltiptext = Ket ngec manyen matye i nying jami man
 
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = Yer lamed ikome ki i keti
+addon-install-from-file-filter-name = Lamed ikome
+
 ## Extension shortcut management
 
 shortcuts-no-addons = Pe itye ki lamed mo ma kicako.
@@ -235,5 +237,14 @@ shortcuts-modifier-other = Ket Ctrl onyo Alt
 #   $addon (string) - Name of the add-on
 shortcuts-exists = { $addon } dong tye katic kwede
 
+## Recommended add-ons page
+
+
 ## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
 
