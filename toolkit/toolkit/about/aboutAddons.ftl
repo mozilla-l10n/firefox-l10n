@@ -201,6 +201,8 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = Reset All Add-ons to Update Manually
     .accesskey = R
+addon-updates-reset-updates-to-automatic = ස්වයංක්‍රීයව යාවත්කාලීන කිරීමට සියළු ඇඩෝන ප්‍රත්‍යාරම්භ (Restart) කරන්න
+    .accesskey = R
 addon-updates-reset-updates-to-manual = Reset All Add-ons to Update Manually
     .accesskey = R
 
