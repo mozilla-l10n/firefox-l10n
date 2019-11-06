@@ -180,6 +180,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Aktivigi
     .tooltiptext = Aktivigi la kontroladon de sekurecaj ĝisdatigoj de aldonaĵoj
+extensions-warning-safe-mode = Ĉiuj aldonaĵoj estis malaktivigitaj de la sekura reĝimo.
+extensions-warning-check-compatibility = La kontrolado de kongrueco de aldonaĵoj estas malaktiva.  Vi povus havi nekongruajn aldonaĵojn.
+extensions-warning-check-compatibility-button = Aktivigi
+    .title = Aktivigi la kontroladon de kongrueco de aldonaĵoj
+extensions-warning-update-security = La kontrolado de sekurecaj ĝisdatigoj de aldonaĵoj ne estas aktiva.  Vi povus esti kompromitita de ĝisdatigoj.
+extensions-warning-update-security-button = Aktivigi
+    .title = Aktivigi la kontroladon de sekurecaj ĝisdatigoj de aldonaĵoj
 
 ## Strings connected to add-on updates
 
