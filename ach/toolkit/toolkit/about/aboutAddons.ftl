@@ -180,12 +180,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Nen ngec manyen macocoki
     .accesskey = N
+addon-updates-check-for-updates = Rot pi ngec manyen
+    .accesskey = R
+addon-updates-view-updates = Nen ngec manyen macocoki
+    .accesskey = N
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Ket ngec manyen i med-ikome pire kene
+    .accesskey = m
+addon-updates-update-addons-automatically = Ket ngec manyen i med-ikome pire kene
     .accesskey = m
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -199,6 +205,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = N
 extensions-updates-reset-updates-to-manual =
     .label = Nwo tero med-ikome weng me keto ngec manyen ki cing
+    .accesskey = N
+addon-updates-reset-updates-to-automatic = Nwo tero med-ikome weng me keto ngec manyen pire kene
+    .accesskey = N
+addon-updates-reset-updates-to-manual = Nwo tero med-ikome weng me keto ngec manyen ki cing
     .accesskey = N
 
 ## Status messages displayed when updating add-ons
@@ -218,11 +228,19 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Ket ngec manyen
     .tooltiptext = Ket ngec manyen matye i nying jami man
+addon-updates-updating = Keto ngec manyen iye med-ikome
+addon-updates-installed = Ki tyeko keto ngec mayen iye med-ikome mamegi.
+addon-updates-none-found = Pe ki nongo ngec manyen
+addon-updates-manual-updates-found = Nen ngec manyen matye
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Ket med-ikome ki i pwail…
+    .accesskey = K
 addon-install-from-file-dialog-title = Yer lamed ikome ki i keti
 addon-install-from-file-filter-name = Lamed ikome
+addon-open-about-debugging = Nong bal i Med-ikome
+    .accesskey = o
 
 ## Extension shortcut management
 
