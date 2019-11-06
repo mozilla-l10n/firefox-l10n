@@ -252,6 +252,8 @@ addon-install-from-file = Dodank z dataje instalěrowaś…
     .accesskey = D
 addon-install-from-file-dialog-title = Dodank za instalaciju wubraś
 addon-install-from-file-filter-name = Dodanki
+addon-open-about-debugging = Dodanki za zmólkami pśepytowaś
+    .accesskey = m
 
 ## Extension shortcut management
 
