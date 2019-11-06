@@ -281,3 +281,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Dèan aithris air làrach ionnsaighe…
     .accesskey = D
+menu-help-not-deceptive =
+    .label = Chan e làrach foill a tha seo…
+    .accesskey = d
