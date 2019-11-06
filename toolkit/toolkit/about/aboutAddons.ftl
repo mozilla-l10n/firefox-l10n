@@ -169,6 +169,10 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Papar Kemaskini Terbaru
     .accesskey = P
+addon-updates-check-for-updates = Semak Kemaskini
+    .accesskey = e
+addon-updates-view-updates = Papar Kemaskini Terbaru
+    .accesskey = P
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -190,6 +194,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = u
 extensions-updates-reset-updates-to-manual =
     .label = Set semula Semua Add-ons Untuk Kemaskini Manual
+    .accesskey = n
+addon-updates-reset-updates-to-automatic = Set semula Semua Add-ons untuk Kemaskini Automatik
+    .accesskey = u
+addon-updates-reset-updates-to-manual = Set semula Semua Add-ons Untuk Kemaskini Manual
     .accesskey = n
 
 ## Status messages displayed when updating add-ons
@@ -220,6 +228,8 @@ addon-install-from-file = Pasang Add-ons Dari Fail…
     .accesskey = I
 addon-install-from-file-dialog-title = Pilih add-on untuk dipasang
 addon-install-from-file-filter-name = Add-ons
+addon-open-about-debugging = Add-ons Nyahpepijat
+    .accesskey = s
 
 ## Extension shortcut management
 
