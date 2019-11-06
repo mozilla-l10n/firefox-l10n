@@ -191,12 +191,16 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Последни обновявания
     .accesskey = о
+addon-updates-view-updates = Последни обновявания
+    .accesskey = о
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Автоматично обновяване на добавките
+    .accesskey = А
+addon-updates-update-addons-automatically = Автоматично обновяване на добавките
     .accesskey = А
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -210,6 +214,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = Н
 extensions-updates-reset-updates-to-manual =
     .label = Нулиране на всички добавки, за да бъдат ръчно обновявани
+    .accesskey = у
+addon-updates-reset-updates-to-automatic = Нулиране на всички добавки, за да бъдат автоматично обновявани
+    .accesskey = Н
+addon-updates-reset-updates-to-manual = Нулиране на всички добавки, за да бъдат ръчно обновявани
     .accesskey = у
 
 ## Status messages displayed when updating add-ons
@@ -229,6 +237,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Инсталиране на обновявания
     .tooltiptext = Инсталиране на наличните обновявания от този списък
+addon-updates-updating = Обновяване на добавките
+addon-updates-manual-updates-found = Показване на наличните обновявания
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Инсталиране на добавка от файл…
+    .accesskey = И
+addon-install-from-file-dialog-title = Изберете добавка за инсталиране
+addon-install-from-file-filter-name = Добавки
+addon-open-about-debugging = Дебъгване на добавки
+    .accesskey = Д
 
 ## Extension shortcut management
 
@@ -360,3 +379,6 @@ release-notes-error = За съжаление, зареждането на бе�
 addon-permissions-empty = Разширението не изисква никакви права
 recommended-extensions-heading = Препоръчани разширения
 recommended-themes-heading = Препоръчани теми
+
+## Page headings
+
