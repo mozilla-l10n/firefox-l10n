@@ -228,6 +228,10 @@ extensions-updates-update-selected =
     .label = Instalovat aktualizace
     .tooltiptext = Nainstaluje vybrané aktualizace
 
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = Zvolte doplněk k instalaci
+
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
@@ -400,3 +404,6 @@ recommended-themes-heading = Doporučené vzhledy
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Jste tvořiví? <a data-l10n-name="link">Vyrobte si vlastní vzhled pomocí Firefox Color.</a>
+
+## Page headings
+
