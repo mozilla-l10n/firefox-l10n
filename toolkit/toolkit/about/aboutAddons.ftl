@@ -166,6 +166,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = බලැති (Enable) කරන්න
     .tooltiptext = ඇඩෝන යාවත්කාලීන කිරීමේ ආරක්ෂක සැකසුම් බලැතා (Enable) කරන්න
+extensions-warning-safe-mode = ආරක්ෂිත මාදිලිය (safe mode) විසින් සියළු ඇඩෝන කර ඇත.
+extensions-warning-check-compatibility = ඇඩෝන අනුකූලතා පරීක්ෂාව අබල (disable) කර ඇත. මෙහි අනුකූල නොවන ඇඩෝන තිබිය හැකිය.
+extensions-warning-check-compatibility-button = බලැති (Enable) කරන්න
+    .title = ඇඩෝන අනුකූලතා පරීක්ෂාව බලැති (Enable) කරන්න
+extensions-warning-update-security = Add-on update security checking is disabled. You may be compromised by updates.
+extensions-warning-update-security-button = බලැති (Enable) කරන්න
+    .title = ඇඩෝන යාවත්කාලීන කිරීමේ ආරක්ෂක සැකසුම් බලැතා (Enable) කරන්න
 
 ## Strings connected to add-on updates
 
