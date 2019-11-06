@@ -193,12 +193,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Visualitza les actualitzacions recents
     .accesskey = V
+addon-updates-check-for-updates = Cerca actualitzacions
+    .accesskey = C
+addon-updates-view-updates = Visualitza les actualitzacions recents
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Actualitza els complements automàticament
+    .accesskey = A
+addon-updates-update-addons-automatically = Actualitza els complements automàticament
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -212,6 +218,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = Reinicia tots els complements perquè s'actualitzen manualment
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = Reinicia tots els complements perquè s'actualitzen automàticament
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Reinicia tots els complements perquè s'actualitzen manualment
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -231,11 +241,27 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instal·la les actualitzacions
     .tooltiptext = Instal·la les actualitzacions disponibles en esta llista
+addon-updates-updating = S'estan actualitzant els complements
+addon-updates-installed = S'han actualitzat els vostres complements.
+addon-updates-none-found = No s'ha trobat cap actualització
+addon-updates-manual-updates-found = Mostra les actualitzacions disponibles
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Instal·la un complement des d'un fitxer…
+    .accesskey = I
+addon-install-from-file-dialog-title = Seleccioneu un complement per instal·lar
+addon-install-from-file-filter-name = Complements
+addon-open-about-debugging = Depura complements
+    .accesskey = u
 
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
     .label = Gestiona les dreceres de les extensions
+    .accesskey = G
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Gestiona les dreceres de les extensions
     .accesskey = G
 shortcuts-no-addons = No teniu cap extensió activada.
 shortcuts-no-commands = Les extensions següents no tenen dreceres:
@@ -397,3 +423,17 @@ recommended-themes-heading = Temes recomanats
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Vos sentiu creatiu? <a data-l10n-name="link">Creeu el vostre propi tema amb el Firefox Color.</a>
+
+## Page headings
+
+extension-heading = Gestioneu les extensions
+theme-heading = Gestioneu els temes
+plugin-heading = Gestioneu els connectors
+dictionary-heading = Gestioneu els diccionaris
+locale-heading = Gestioneu les llengües
+discover-heading = Personalitzeu el { -brand-short-name }
+shortcuts-heading = Gestioneu les dreceres de les extensions
+theme-heading-search-label = Cerqueu més temes
+extension-heading-search-label = Cerqueu més extensions
+addons-heading-search-input =
+    .placeholder = Cerca a addons.mozilla.org
