@@ -439,6 +439,11 @@ recommended-theme-1 = Feeling creative? <a data-l10n-name="link">Build your own 
 
 ## Page headings
 
+extension-heading = Manage Your Extensions
+theme-heading = Manage Your Themes
+plugin-heading = Manage Your Plugins
+dictionary-heading = Manage Your Dictionaries
+locale-heading = Manage Your Languages
 discover-heading = Personalize Your { -brand-short-name }
 shortcuts-heading = Manage Extension Shortcuts
 theme-heading-search-label = Find more themes
