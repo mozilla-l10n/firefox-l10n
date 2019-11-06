@@ -153,12 +153,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Taagandiri kokorantey guna
     .accesskey = g
+addon-updates-check-for-updates = Taagandirey ceeci
+    .accesskey = c
+addon-updates-view-updates = Taagandiri kokorantey guna
+    .accesskey = g
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Tontoni boŋ-taagandiri
+    .accesskey = T
+addon-updates-update-addons-automatically = Tontoni boŋ-taagandiri
     .accesskey = T
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -172,6 +178,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = w
 extensions-updates-reset-updates-to-manual =
     .label = Tontoney kul willi boŋ-taagandiri nda kanbe
+    .accesskey = w
+addon-updates-reset-updates-to-automatic = Tontoney kul willi boŋ-taagandiri bande
+    .accesskey = w
+addon-updates-reset-updates-to-manual = Tontoney kul willi boŋ-taagandiri nda kanbe
     .accesskey = w
 
 ## Status messages displayed when updating add-ons
@@ -191,9 +201,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Taagandirey sinji
     .tooltiptext = Taagandiri barantey sinji maašeedaa woo ra
+addon-updates-updating = Goo ma tontoney taagandi
+addon-updates-installed = War tontoney n' ka taagandi.
+addon-updates-none-found = Taagandiri kul mana duwandi
+addon-updates-manual-updates-found = Taagandiri barantey guna
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Sinji tontoni tuku boŋ…
+    .accesskey = i
+addon-install-from-file-dialog-title = Tontoni suuba k'a sinji
+addon-install-from-file-filter-name = Tontoney
 
 ## Extension shortcut management
 
