@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Segnala un sito ingannevole…
     .accesskey = e
+menu-help-not-deceptive =
+    .label = Non è un sito ingannevole…
+    .accesskey = e
