@@ -187,12 +187,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = ดูการอัปเดตล่าสุด
     .accesskey = ด
+addon-updates-check-for-updates = ตรวจสอบการอัปเดต
+    .accesskey = ต
+addon-updates-view-updates = ดูการอัปเดตล่าสุด
+    .accesskey = ด
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = อัปเดตส่วนเสริมโดยอัตโนมัติ
+    .accesskey = อ
+addon-updates-update-addons-automatically = อัปเดตส่วนเสริมโดยอัตโนมัติ
     .accesskey = อ
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -206,6 +212,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = ก
 extensions-updates-reset-updates-to-manual =
     .label = กลับค่าเดิมของส่วนเสริมทั้งหมดเป็นอัปเดตด้วยตนเอง
+    .accesskey = ก
+addon-updates-reset-updates-to-automatic = กลับค่าเดิมของส่วนเสริมทั้งหมดเป็นอัปเดตโดยอัตโนมัติ
+    .accesskey = ก
+addon-updates-reset-updates-to-manual = กลับค่าเดิมของส่วนเสริมทั้งหมดเป็นอัปเดตด้วยตนเอง
     .accesskey = ก
 
 ## Status messages displayed when updating add-ons
@@ -225,15 +235,27 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = ติดตั้งการอัปเดต
     .tooltiptext = ติดตั้งการอัปเดตที่มีในรายการนี้
+addon-updates-updating = กำลังอัปเดตส่วนเสริม
+addon-updates-installed = อัปเดตส่วนเสริมของคุณแล้ว
+addon-updates-none-found = ไม่พบการอัปเดต
+addon-updates-manual-updates-found = ดูการอัปเดตที่มี
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = ติดตั้งส่วนเสริมจากไฟล์…
+    .accesskey = ง
+addon-install-from-file-dialog-title = เลือกส่วนเสริมที่จะติดตั้ง
 addon-install-from-file-filter-name = ส่วนเสริม
+addon-open-about-debugging = ดีบั๊กส่วนเสริม
+    .accesskey = บ
 
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
     .label = จัดการทางลัดส่วนขยาย
+    .accesskey = จ
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = จัดการทางลัดส่วนขยาย
     .accesskey = จ
 shortcuts-no-addons = คุณไม่ได้เปิดใช้งานส่วนขยายใด ๆ
 shortcuts-no-commands = ส่วนขยายดังต่อไปนี้ไม่มีทางลัด:
@@ -372,3 +394,12 @@ recommended-theme-1 = รู้สึกสร้างสรรค์ใช่�
 
 ## Page headings
 
+extension-heading = จัดการส่วนขยายของคุณ
+theme-heading = จัดการชุดตกแต่งของคุณ
+plugin-heading = จัดการปลั๊กอินของคุณ
+dictionary-heading = จัดการพจนานุกรมของคุณ
+locale-heading = จัดการภาษาของคุณ
+theme-heading-search-label = ค้นหาชุดตกแต่งเพิ่มเติม
+extension-heading-search-label = ค้นหาส่วนขยายเพิ่มเติม
+addons-heading-search-input =
+    .placeholder = ค้นหา addons.mozilla.org
