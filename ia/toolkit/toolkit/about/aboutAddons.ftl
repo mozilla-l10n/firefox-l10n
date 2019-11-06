@@ -235,6 +235,9 @@ extensions-updates-update-selected =
     .label = Installar le actualisationes
     .tooltiptext = Installar le actualisationes disponibile de iste lista
 
+## Add-on install/debug strings for page options menu
+
+
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
@@ -398,3 +401,14 @@ recommended-themes-heading = Themas recommendate
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Te senti creative? <a data-l10n-name="link">Crea tu proprie thema con Firefox Color.</a>
+
+## Page headings
+
+theme-heading = Gere tu themas
+plugin-heading = Gere tu plugins
+dictionary-heading = Gere tu dictionarios
+discover-heading = Personalisa tu { -brand-short-name }
+theme-heading-search-label = Trova plus themas
+extension-heading-search-label = Trova plus extensiones
+addons-heading-search-input =
+    .placeholder = Cercar sur addons.mozilla.org
