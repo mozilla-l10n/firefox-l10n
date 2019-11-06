@@ -124,6 +124,9 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blokkert av tryggingspraksis for innhald">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; hindra nettsida frå å laste inn på denne måten fordi nettsida har ein tryggingspraksis som forbyr det.</p>">
 
+<!ENTITY xfoBlocked.title "Blokkert av X-Frame-Options-policy">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; hindra denne nettsida i å laste i denne konteksten fordi nettsida har ein X-Frame-Options-policy som ikkje tillater det.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Øydelagt innhald">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Sida du prøver å vise kan ikkje opnast fordi ein feil i dataoverføringa vart oppdaga.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om dette problemet.</li></ul>">
 
