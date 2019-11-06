@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Pantaila osoa
     .accesskey = P
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Erakutsi fitxa guztiak
@@ -289,4 +289,7 @@ menu-help-safe-mode-with-addons =
 # phishing-afterload-warning-message.dtd is shown.
 menu-help-report-deceptive-site =
     .label = Eman gune iruzurtiaren berri…
+    .accesskey = i
+menu-help-not-deceptive =
+    .label = Hau ez da gune iruzurtia…
     .accesskey = i
