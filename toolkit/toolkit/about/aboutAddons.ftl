@@ -191,6 +191,7 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Aktivieren
     .tooltiptext = Überprüfung auf Sicherheitsupdates für Add-ons aktivieren
+extensions-warning-safe-mode = Alle Add-ons wurden durch den Abgesicherten Modus deaktiviert.
 
 ## Strings connected to add-on updates
 
