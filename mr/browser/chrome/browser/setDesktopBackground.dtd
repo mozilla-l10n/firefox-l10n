@@ -18,3 +18,4 @@
 <!ENTITY setDesktopBackground.title "डेस्कटॉपची पार्श्वभूमी विशद करा">
 <!ENTITY openDesktopPrefs.label     "डेस्कटॉपवरील प्राधान्यक्रम उघडा">
 <!ENTITY closeWindow.key            "w">
+<!ENTITY previewUnavailable         "पूर्वावलोकन उपलब्ध नाही">
