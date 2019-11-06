@@ -136,6 +136,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Włączë
     .tooltiptext = Włączë sprôwdzanié bezpiekù aktualizacje dodôwków
+extensions-warning-safe-mode = Wszëtczé dodôwczi òstałé wëłączoné przez awariowi trib.
+extensions-warning-check-compatibility = Sprôwdzanié kòmpatibilnotë dodôwków je wëłączoné. Jaczés dodôwczi mògą bëc niekòmpatibilne.
+extensions-warning-check-compatibility-button = Włączë
+    .title = Włączë sprôwdzanié kòmpatibilnotë dodôwków
+extensions-warning-update-security = Sprôwdzanié bezpiekù aktualizacje je wëłączoné. Aktualizacje mògą bëc zagrożenim.
+extensions-warning-update-security-button = Włączë
+    .title = Włączë sprôwdzanié bezpiekù aktualizacje dodôwków
 
 ## Strings connected to add-on updates
 
