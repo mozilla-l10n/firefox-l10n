@@ -195,6 +195,7 @@ extensions-warning-safe-mode = Alle Add-ons wurden durch den Abgesicherten Modus
 extensions-warning-check-compatibility = Die Addon-Kompatibilitäts-Prüfung ist deaktiviert. Sie könnten inkompatible Add-ons haben.
 extensions-warning-check-compatibility-button = Aktivieren
     .title = Addon-Kompatibilitäts-Prüfung aktivieren
+extensions-warning-update-security = Die Überprüfung der Sicherheit von Add-on-Updates ist deaktiviert. Ihre Sicherheit könnte durch Updates kompromittiert worden sein.
 extensions-warning-update-security-button = Aktivieren
     .title = Überprüfung auf Sicherheitsupdates für Add-ons aktivieren
 
