@@ -121,9 +121,6 @@ legacy-warning-show-legacy = Wys verouderde uitbreidings
 legacy-extensions =
     .value = Verouderde uitbreidings
 legacy-extensions-description = Dié uitbreidings voldoen nie aan { -brand-short-name } se huidige standaarde nie, en is dus gedeaktiveer. <label data-l10n-name="legacy-learn-more">Lees meer oor veranderinge aan byvoegings</label>
-extensions-view-discover =
-    .name = Kry byvoegings
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Onlangse bywerkings
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -198,3 +195,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installeer bywerkings
     .tooltiptext = Installeer beskikbare bywerkings in hierdie lys
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
