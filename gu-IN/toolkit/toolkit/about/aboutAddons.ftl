@@ -174,12 +174,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = તાજેતરનાં સુધારાઓને દર્શાવો
     .accesskey = V
+addon-updates-check-for-updates = સુધારાઓ માટે ચકાસો
+    .accesskey = C
+addon-updates-view-updates = તાજેતરનાં સુધારાઓને દર્શાવો
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = આપમેળે ઍડ-ઓનને સુધારો
+    .accesskey = A
+addon-updates-update-addons-automatically = આપમેળે ઍડ-ઓનને સુધારો
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -193,6 +199,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = પોતાની જાતે સુધારવા માટે બધા ઍડ-ઓનને પુન:સુયોજિત કરો
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = આપમેળે સુધારવા માટે બધા ઍડ-ઓનને પુન:સુયોજિત કરો
+    .accesskey = R
+addon-updates-reset-updates-to-manual = પોતાની જાતે સુધારવા માટે બધા ઍડ-ઓનને પુન:સુયોજિત કરો
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -212,9 +222,15 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = સુધારાઓને સ્થાપિત કરો
     .tooltiptext = આ યાદીમાં ઉપલબ્ધ સુધારાઓને સ્થાપિત કરો
+addon-updates-updating = ઍડ-ઓનને સુધારી રહ્યા છે
+addon-updates-installed = તમારા ઍડ-ઓનને સુધારી દેવામાં આવ્યા છે.
+addon-updates-none-found = સુધારાઓ મળ્યા નથી
+addon-updates-manual-updates-found = ઉપલબ્ધ સુધારાઓને દર્શાવો
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = ફાઇલમાંથી ઍડ-ઓનને સ્થાપિત કરો…
+    .accesskey = I
 addon-install-from-file-dialog-title = સ્થાપિત કરવા માટે ઍડ-ઓનને પસંદ કરો
 addon-install-from-file-filter-name = ઍડ-ઓન
 
