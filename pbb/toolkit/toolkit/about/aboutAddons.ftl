@@ -142,6 +142,12 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Mki'ta
     .tooltiptext = Ki'tan ãahn isa dxi'htepa' phuphna kãajãhwa'j
+extensions-warning-safe-mode = Jxuka kãajãhnxisa fxiçxhanxiya' neyũutxna tud tud isa.
+extensions-warning-check-compatibility = Puutx jadasa's thẽhgna kãajãhna naa fxiçxanxisa's. Idxa' puutx jada kãajãnxisa's ji'phuya' ewune'ga.
+extensions-warning-check-compatibility-button = Mki'ta
+    .title = Kẽse'hna we'wen katxhuden ki'h kãajãhna.
+extensions-warning-update-security-button = Mki'ta
+    .title = Ki'tan ãahn isa dxi'htepa' phuphna kãajãhwa'j
 
 ## Strings connected to add-on updates
 
