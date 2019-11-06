@@ -201,12 +201,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Показати недавні оновлення
     .accesskey = н
+addon-updates-check-for-updates = Перевірити оновлення
+    .accesskey = П
+addon-updates-view-updates = Показати недавні оновлення
+    .accesskey = н
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Оновлювати додатки автоматично
+    .accesskey = а
+addon-updates-update-addons-automatically = Оновлювати додатки автоматично
     .accesskey = а
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -220,6 +226,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = к
 extensions-updates-reset-updates-to-manual =
     .label = Перемкнути всі додатки на ручне оновлення
+    .accesskey = к
+addon-updates-reset-updates-to-automatic = Перемкнути всі додатки на автоматичне оновлення
+    .accesskey = к
+addon-updates-reset-updates-to-manual = Перемкнути всі додатки на ручне оновлення
     .accesskey = к
 
 ## Status messages displayed when updating add-ons
@@ -239,6 +249,15 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Встановити оновлення
     .tooltiptext = Встановити доступні у цьому списку оновлення
+addon-updates-updating = Оновлення додатків
+addon-updates-installed = Ваші додатки були оновлені.
+addon-updates-none-found = Оновлень не знайдено
+addon-updates-manual-updates-found = Переглянути доступні оновлення
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = Виберіть додаток для встановлення
+addon-install-from-file-filter-name = Додатки
 
 ## Extension shortcut management
 
@@ -410,3 +429,6 @@ recommended-themes-heading = Рекомендовані теми
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Відчуваєте творче натхнення? <a data-l10n-name="link">Створіть власну тему за допомогою Firefox Color.</a>
+
+## Page headings
+
