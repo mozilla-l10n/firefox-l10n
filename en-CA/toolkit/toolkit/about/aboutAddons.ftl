@@ -268,6 +268,9 @@ addon-open-about-debugging = Debug Add-ons
 manage-extensions-shortcuts =
     .label = Manage Extension Shortcuts
     .accesskey = S
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Manage Extension Shortcuts
+    .accesskey = S
 shortcuts-no-addons = You don’t have any extensions enabled.
 shortcuts-no-commands = The following extensions do not have shortcuts:
 shortcuts-input =
@@ -436,3 +439,9 @@ recommended-theme-1 = Feeling creative? <a data-l10n-name="link">Build your own 
 
 ## Page headings
 
+discover-heading = Personalize Your { -brand-short-name }
+shortcuts-heading = Manage Extension Shortcuts
+theme-heading-search-label = Find more themes
+extension-heading-search-label = Find more extensions
+addons-heading-search-input =
+    .placeholder = Search addons.mozilla.org
