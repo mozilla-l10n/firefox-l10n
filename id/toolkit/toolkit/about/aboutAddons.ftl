@@ -196,6 +196,8 @@ extensions-updates-view-updates =
     .accesskey = V
 addon-updates-check-for-updates = Periksa Versi Baru
     .accesskey = P
+addon-updates-view-updates = Tampilkan Versi Baru
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
