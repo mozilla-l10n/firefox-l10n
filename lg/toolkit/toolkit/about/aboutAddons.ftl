@@ -104,9 +104,6 @@ detail-rating =
     .value = kupima
 addon-restart-now =
     .label = Tandika nate kati
-extensions-view-discover =
-    .name = Funa Ebigattibwako
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Ebituusa ebbipya
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -181,3 +178,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Teekamu Ebitusaganya
     .tooltiptext = Teeka ebyokutuukanya ebiriwo mu lukalala luno
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
