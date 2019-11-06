@@ -50,3 +50,22 @@ extensions-warning-update-security-container =
 
 ## Status messages displayed when updating add-ons
 
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-filter-name = Ko-kùb
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
