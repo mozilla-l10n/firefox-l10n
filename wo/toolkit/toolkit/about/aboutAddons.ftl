@@ -109,9 +109,6 @@ detail-rating =
     .value = Yëgg
 addon-restart-now =
     .label = Tambaliwaatal léegi
-extensions-view-discover =
-    .name = Katalog
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Yeesal
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -148,12 +145,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Wone yeesal yi bees
     .accesskey = W
+addon-updates-check-for-updates = Wut ay yeesal
+    .accesskey = W
+addon-updates-view-updates = Wone yeesal yi bees
+    .accesskey = W
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Yeesal boppam modil yi
+    .accesskey = Y
+addon-updates-update-addons-automatically = Yeesal boppam modil yi
     .accesskey = Y
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -167,6 +170,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = S
 extensions-updates-reset-updates-to-manual =
     .label = Suuxal yeesalu boppam bu bépp modil
+    .accesskey = S
+addon-updates-reset-updates-to-automatic = Suqali yeesalu boppam bu bépp modil
+    .accesskey = S
+addon-updates-reset-updates-to-manual = Suuxal yeesalu boppam bu bépp modil
     .accesskey = S
 
 ## Status messages displayed when updating add-ons
@@ -186,3 +193,29 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Samp yeesal yi
     .tooltiptext = Samp yeesal yi féex ci lim bii
+addon-updates-updating = Yeesal modil yi
+addon-updates-installed = Say modil yees nañu.
+addon-updates-none-found = Amul benn yeesal bu féex
+addon-updates-manual-updates-found = Wone yeesal yi féex
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Samp modil dale ko ci…
+    .accesskey = S
+addon-install-from-file-dialog-title = Tann modil booy samp
+addon-install-from-file-filter-name = Modili mottali
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
