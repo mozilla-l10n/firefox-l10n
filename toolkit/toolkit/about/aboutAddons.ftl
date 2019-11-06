@@ -187,6 +187,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Luba
     .tooltiptext = Luba lisade uuendamise turvalisuse kontrollimine
+extensions-warning-safe-mode = Kõik lisad on ohutu režiimi poolt keelatud.
+extensions-warning-check-compatibility = Lisade ühilduvuse kontrollimine on keelatud. Kasutusel võib olla mitteühilduvaid lisasid.
+extensions-warning-check-compatibility-button = Luba
+    .title = Luba lisade ühilduvuse kontrollimine
+extensions-warning-update-security = Lisade uuendamise turvalisuse kontrollimine on keelatud. Sinu turvalisus võib uuenduste tõttu ohus olla.
+extensions-warning-update-security-button = Luba
+    .title = Luba lisade uuendamise turvalisuse kontrollimine
 
 ## Strings connected to add-on updates
 
