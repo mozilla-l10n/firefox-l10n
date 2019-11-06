@@ -207,6 +207,8 @@ addon-updates-view-updates = Vis nyleg oppdaterte
 extensions-updates-update-addons-automatically =
     .label = Oppdater tillegga automatisk
     .accesskey = O
+addon-updates-update-addons-automatically = Oppdater tillegga automatisk
+    .accesskey = O
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -219,6 +221,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = T
 extensions-updates-reset-updates-to-manual =
     .label = Tilbakestill alle tillegga til å oppdatere manuelt
+    .accesskey = T
+addon-updates-reset-updates-to-automatic = Tilbakestill alle tillegga til å oppdatere automatisk
+    .accesskey = T
+addon-updates-reset-updates-to-manual = Tilbakestill alle tillegga til å oppdatere manuelt
     .accesskey = T
 
 ## Status messages displayed when updating add-ons
@@ -238,11 +244,19 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installer oppdateringane
     .tooltiptext = Installer tilgjengelege oppdateringar i denne lista
+addon-updates-updating = Oppdaterer tillegga
+addon-updates-installed = Tillegga dine er oppdaterte.
 addon-updates-none-found = Fann ingen oppdateringar
 addon-updates-manual-updates-found = Vis tilgjengelege oppdateringar
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Installer tillegg frå ei fil…
+    .accesskey = I
+addon-install-from-file-dialog-title = Vel eit tillegg å installere å installera
+addon-install-from-file-filter-name = Tillegg
+addon-open-about-debugging = Feilsøk tillegg
+    .accesskey = D
 
 ## Extension shortcut management
 
@@ -417,3 +431,11 @@ recommended-theme-1 = Er du i det kreative hjørnet? <a data-l10n-name="link">By
 
 ## Page headings
 
+theme-heading = Handter temaa dine
+plugin-heading = Handter programtillegga dine
+dictionary-heading = Handter ordbøkene dine
+locale-heading = Handter språka dine
+theme-heading-search-label = Finn fleire tema
+extension-heading-search-label = Finn fleire utvidingar
+addons-heading-search-input =
+    .placeholder = Søk på addons.mozilla.org
