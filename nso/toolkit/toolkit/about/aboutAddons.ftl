@@ -140,12 +140,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Lebelela dimpshafatšo tša moragobjale
     .accesskey = b
+addon-updates-check-for-updates = Lekola dimpshafatšo
+    .accesskey = k
+addon-updates-view-updates = Lebelela dimpshafatšo tša moragobjale
+    .accesskey = b
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Mpshafatša ditlaleletši ka maitirišo
+    .accesskey = a
+addon-updates-update-addons-automatically = Mpshafatša ditlaleletši ka maitirišo
     .accesskey = a
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -159,6 +165,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = B
 extensions-updates-reset-updates-to-manual =
     .label = Beakanya ka leswa ditlaleletši tšohle gore di mpshafatše ka maitirelo
+    .accesskey = B
+addon-updates-reset-updates-to-automatic = Beakanya ka leswa ditlaleletši tšohle gore di mpshafatše ka maitirišo
+    .accesskey = B
+addon-updates-reset-updates-to-manual = Beakanya ka leswa ditlaleletši tšohle gore di mpshafatše ka maitirelo
     .accesskey = B
 
 ## Status messages displayed when updating add-ons
@@ -178,9 +188,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Lokela dimpshafatšo
     .tooltiptext = Lokela dimpshafatšo tšeo di hwetšagalago lelokelelong
+addon-updates-updating = Go mpshafatša ditlaleletši
+addon-updates-installed = Ditlaleletši tša gago di mpshafaditšwe.
+addon-updates-none-found = Ga go a hwetšwa dikaonafatšo
+addon-updates-manual-updates-found = Lebelela dimpshafatšo tšeo di lego gona
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Lokela setlaleletši go tšwa faeleng...
+    .accesskey = L
+addon-install-from-file-dialog-title = Kgetha setlaleletši gore o se lokele
+addon-install-from-file-filter-name = Ditlaleletši
 
 ## Extension shortcut management
 
