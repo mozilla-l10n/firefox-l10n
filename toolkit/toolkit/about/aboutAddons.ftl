@@ -121,9 +121,6 @@ legacy-warning-show-legacy = Rādīt vēsturiskos papildinājumus
 legacy-extensions =
     .value = Vēsturiskie papildinājumi
 legacy-extensions-description = Šie paplašinājumi neatbilst pašreizējiem { -brand-short-name } standartiem, tāpēc tie tika deaktivizēti. <label data-l10n-name="legacy-learn-more">Uzzināt vairāk par papildinājumu izmaiņām</label>
-extensions-view-discover =
-    .name = Iegūt papildinājumus
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Nesenie atjauninājumi
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -198,3 +195,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalēt atjauninājumus
     .tooltiptext = Instalēt visus šajā sarakstā pieejamos atjauninājumus
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
