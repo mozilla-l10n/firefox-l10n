@@ -187,6 +187,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Slå på
     .tooltiptext = Slå på sikkerhetskontroll av utvidelsesoppdateringer
+extensions-warning-safe-mode = Alle utvidelser er avslått av sikker modus.
+extensions-warning-check-compatibility = Kompatibilitetskontroll er avslått. Du har kanskje ukompatible utvidelser.
+extensions-warning-check-compatibility-button = Slå på
+    .title = Slå på kompatibilitetskontroll
+extensions-warning-update-security = Sikkerhetskontroll av utvidelsesoppdateringer er avslått. Sikkerheten din kan bli satt i fare av oppdateringer.
+extensions-warning-update-security-button = Slå på
+    .title = Slå på sikkerhetskontroll av utvidelsesoppdateringer
 
 ## Strings connected to add-on updates
 
