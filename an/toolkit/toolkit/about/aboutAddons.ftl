@@ -248,3 +248,5 @@ addon-install-from-file-filter-name = Complementos
 
 ## Page headings
 
+addons-heading-search-input =
+    .placeholder = Mirar en addons.mozilla.org
