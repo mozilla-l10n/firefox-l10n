@@ -404,6 +404,14 @@ recommended-theme-1 = Ĉu vi kreemas? <a data-l10n-name="link">Kreu vian propran
 
 ## Page headings
 
+extension-heading = Administri viajn etendaĵojn
+theme-heading = Administri viajn etosojn
+plugin-heading = Administri viajn kromprogramojn
+dictionary-heading = Administri viajn vortarojn
+locale-heading = Administri lingvojn
 discover-heading = Personecigu vian { -brand-short-name }
+shortcuts-heading = Administri alirklavojn de etendaĵoj
+theme-heading-search-label = Serĉi pli da etosoj
+extension-heading-search-label = Serĉi pli da etendaĵoj
 addons-heading-search-input =
     .placeholder = Serĉi en addons.mozilla.org
