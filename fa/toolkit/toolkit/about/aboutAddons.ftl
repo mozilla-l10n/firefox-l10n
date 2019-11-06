@@ -215,9 +215,12 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = نصب بروزرسانی
     .tooltiptext = نصب بروزرسانی‌های موجود در این فهرست
+addon-updates-installed = افزودنی‌های شما به‌هنگام شدند.
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = نصب افزودنی از یک پرونده…
+    .accesskey = ن
 addon-install-from-file-dialog-title = افزودنی مورد نظر برای نصب را انتخاب کنید
 addon-install-from-file-filter-name = افزودنی‌ها
 
