@@ -140,12 +140,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Rojanekirinên Nêz Nîşan Bide
     .accesskey = R
+addon-updates-check-for-updates = Li rojanekirinan bigere
+    .accesskey = L
+addon-updates-view-updates = Rojanekirinên Nêz Nîşan Bide
+    .accesskey = R
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Add-onan xweber rojane bike
+    .accesskey = A
+addon-updates-update-addons-automatically = Add-onan xweber rojane bike
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -159,6 +165,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = r
 extensions-updates-reset-updates-to-manual =
     .label = Ji bo rojanekirina bi destan hemû add-onan vesaz bike
+    .accesskey = r
+addon-updates-reset-updates-to-automatic = Ji bo rojanekirina xweber hemû add-onan vesaz bike
+    .accesskey = r
+addon-updates-reset-updates-to-manual = Ji bo rojanekirina bi destan hemû add-onan vesaz bike
     .accesskey = r
 
 ## Status messages displayed when updating add-ons
@@ -178,9 +188,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Rojanekirinan saz bike
     .tooltiptext = Rpjanekirinê di vê lîsteyê de saz bike
+addon-updates-updating = Add-onan rojane dıke
+addon-updates-installed = Add-onön te hatın rojanekırın.
+addon-updates-none-found = Tu rojanekirin nehat dîtin
+addon-updates-manual-updates-found = Rojanekirinên Amade Nîşan Bide
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Add-onê ji pelî saz bike…
+    .accesskey = i
+addon-install-from-file-dialog-title = Add-ona ku were sazkirin hilbijêre
+addon-install-from-file-filter-name = Add-on
 
 ## Extension shortcut management
 
