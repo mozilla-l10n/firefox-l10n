@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Połna wobrazowka
     .accesskey = P
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Wšykne rejtarki pokazaś
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Wobšudnikojske sedło k wěsći daś…
     .accesskey = b
+menu-help-not-deceptive =
+    .label = To njejo wobšudnikojske sedło…
+    .accesskey = d
