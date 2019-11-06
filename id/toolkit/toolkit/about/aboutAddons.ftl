@@ -251,6 +251,8 @@ addon-install-from-file = Pasang Pengaya dari Berkas…
     .accesskey = B
 addon-install-from-file-dialog-title = Pilih berkas pengaya untuk dipasang
 addon-install-from-file-filter-name = Pengaya
+addon-open-about-debugging = Debug Pengaya
+    .accesskey = b
 
 ## Extension shortcut management
 
