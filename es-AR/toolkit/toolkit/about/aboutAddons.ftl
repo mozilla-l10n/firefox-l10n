@@ -189,6 +189,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Habilitar
     .tooltiptext = Habilitar la verificación de las actualizaciones de seguridad
+extensions-warning-safe-mode = Todos los complementos fueron deshabilitados por el Modo seguro.
+extensions-warning-check-compatibility = La verificación de compatibilidad de los  complementos está deshabilitada. Puede tener complementos incompatibles.
+extensions-warning-check-compatibility-button = Habilitar
+    .title = Habilitar la verificación de la compatibilidad de los complementos
+extensions-warning-update-security = La verificación de actualizaciones de seguridad de complementos está deshabilitada. Puede estar comprometido por las actualizaciones.
+extensions-warning-update-security-button = Habilitar
+    .title = Habilitar la verificación de las actualizaciones de seguridad
 
 ## Strings connected to add-on updates
 
