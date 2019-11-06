@@ -205,12 +205,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Recente updates bekijken
     .accesskey = R
+addon-updates-check-for-updates = Controleren op updates
+    .accesskey = C
+addon-updates-view-updates = Recente updates bekijken
+    .accesskey = R
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Add-ons automatisch bijwerken
+    .accesskey = a
+addon-updates-update-addons-automatically = Add-ons automatisch bijwerken
     .accesskey = a
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -224,6 +230,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = t
 extensions-updates-reset-updates-to-manual =
     .label = Alle add-ons terugzetten naar handmatig bijwerken
+    .accesskey = t
+addon-updates-reset-updates-to-automatic = Alle add-ons terugzetten naar automatisch bijwerken
+    .accesskey = t
+addon-updates-reset-updates-to-manual = Alle add-ons terugzetten naar handmatig bijwerken
     .accesskey = t
 
 ## Status messages displayed when updating add-ons
@@ -243,6 +253,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Updates installeren
     .tooltiptext = Beschikbare updates in deze lijst installeren
+addon-updates-updating = Add-ons worden bijgewerkt
+addon-updates-installed = Uw add-ons zijn bijgewerkt.
+addon-updates-none-found = Geen updates gevonden
+addon-updates-manual-updates-found = Beschikbare updates bekijken
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Add-on installeren via bestand…
+    .accesskey = s
+addon-install-from-file-dialog-title = Add-on voor installatie selecteren
+addon-install-from-file-filter-name = Add-ons
 
 ## Extension shortcut management
 
@@ -414,3 +435,6 @@ recommended-themes-heading = Aanbevolen thema’s
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Voelt u zich creatief? <a data-l10n-name="link"> Bouw uw eigen thema met Firefox Color.</a>
+
+## Page headings
+
