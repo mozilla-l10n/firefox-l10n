@@ -210,6 +210,7 @@ addon-updates-manual-updates-found = Տեսնել Առկա Թարմացումն�
 
 addon-install-from-file = Տեղակայեք հավելումը Ֆայլից...
     .accesskey = Տ
+addon-install-from-file-dialog-title = Ընտրեք տեղադրվող հավելումը
 addon-install-from-file-filter-name = Հավելումներ
 
 ## Extension shortcut management
