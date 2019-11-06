@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Toàn màn hình
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Hiện tất cả các thẻ
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Báo cáo trang lừa đảo…
     .accesskey = c
+menu-help-not-deceptive =
+    .label = Đây không phải là một trang lừa đảo…
+    .accesskey = d
