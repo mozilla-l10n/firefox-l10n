@@ -195,6 +195,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = הצגת עדכונים אחרונים
     .accesskey = ה
+addon-updates-check-for-updates = בדיקה אחר עדכונים
+    .accesskey = ב
 addon-updates-view-updates = הצגת עדכונים אחרונים
     .accesskey = ה
 
@@ -219,6 +221,10 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = איפוס כל התוספות לעדכון ידני
     .accesskey = א
+addon-updates-reset-updates-to-automatic = איפוס כל התוספות לעדכון אוטומטי
+    .accesskey = א
+addon-updates-reset-updates-to-manual = איפוס כל התוספות לעדכון ידני
+    .accesskey = א
 
 ## Status messages displayed when updating add-ons
 
@@ -240,6 +246,7 @@ extensions-updates-update-selected =
 addon-updates-updating = מעדכן תוספות
 addon-updates-installed = התוספות שלך עודכנו.
 addon-updates-none-found = לא נמצאו עדכונים
+addon-updates-manual-updates-found = הצגת עדכונים זמינים
 
 ## Add-on install/debug strings for page options menu
 
@@ -247,11 +254,16 @@ addon-install-from-file = התקנת תוספת מקובץ…
     .accesskey = ה
 addon-install-from-file-dialog-title = בחירת תוספת להתקנה
 addon-install-from-file-filter-name = תוספות
+addon-open-about-debugging = ניפוי שגיאות של תוספות
+    .accesskey = נ
 
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
     .label = ניהול קיצורי דרך להרחבות
+    .accesskey = נ
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = ניהול קיצורי דרך להרחבות
     .accesskey = נ
 shortcuts-no-addons = אין לך הרחבות מופעלות.
 shortcuts-no-commands = להרחבות הבאות אין קיצורי דרך:
@@ -404,3 +416,14 @@ recommended-theme-1 = גל של יצירתיות שוטף אותך? <a data-l10n
 
 ## Page headings
 
+extension-heading = ניהול ההרחבות שלך
+theme-heading = ניהול ערכות הנושא שלך
+plugin-heading = ניהול התוספים החיצוניים שלך
+dictionary-heading = ניהול המילונים שלך
+locale-heading = ניהול השפות שלך
+discover-heading = התאמה אישית של ה־{ -brand-short-name } שלך
+shortcuts-heading = ניהול קיצורי דרך להרחבות
+theme-heading-search-label = חיפוש ערכות נושא נוספות
+extension-heading-search-label = חיפוש הרחבות נוספות
+addons-heading-search-input =
+    .placeholder = חיפוש ב־addons.mozilla.org
