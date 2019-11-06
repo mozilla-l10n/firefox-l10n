@@ -278,3 +278,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = প্রতারণামূলক সাইট রিপোর্ট করুন…
     .accesskey = d
+menu-help-not-deceptive =
+    .label = এটা একটি প্রতারক সাইট নয়…
+    .accesskey = d
