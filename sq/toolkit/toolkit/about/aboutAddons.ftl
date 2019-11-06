@@ -185,6 +185,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Aktivizoje
     .tooltiptext = Aktivizoni kontrollin e përditësimit të shtesave
+extensions-warning-safe-mode = Mënyra e Parrezik ka çaktivizuar krejt shtesat.
+extensions-warning-check-compatibility = Kontrolli i përputhshmërisë së shtesave është i çaktivizuar. Keni shtesa të papërputhshme.
+extensions-warning-check-compatibility-button = Aktivizoje
+    .title = Aktivizoni kontrollin e përputhshmërisë së shtesave
+extensions-warning-update-security = Kontrolli i përditësimit të shtesave është i çaktivizuar. Përditësimet mund t'ju hapin punë.
+extensions-warning-update-security-button = Aktivizoje
+    .title = Aktivizoni kontrollin e përditësimit të shtesave
 
 ## Strings connected to add-on updates
 
