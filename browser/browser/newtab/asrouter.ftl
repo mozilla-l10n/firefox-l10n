@@ -95,7 +95,11 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = تازه‌ها
 cfr-whatsnew-release-notes-link-text = یادداشت‌های انتشار را بخوانید
 cfr-whatsnew-fx70-title = { -brand-short-name } برای حریم‌شخصی شما سخت‌تر می جنگد
+cfr-whatsnew-fx70-body = آخرین به روزرسانی، ویژگی محافظت در برابر ردیابی را ارتقا داده است و ساختن گذرواژه امن برای هر وب‌سایتی را از همیشه ساده‌تر کرده است.
 cfr-whatsnew-tracking-protect-title = خود را در مقابل ردیاب‌ها محافظت کنید
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } بسیاری از ردیاب‌های اجتماعی و بین وب‌سایتی را که
+    فعالیت آنلاین شما را دنبال می‌کنند، مسدود می‌کند.
 cfr-whatsnew-tracking-protect-link-text = گزارش خود را مشاهده کنید
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
@@ -117,6 +121,7 @@ cfr-whatsnew-lockwise-take-link-text = دریافت اپ
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = این نشانک را بر روی تلفن خود دریافت کنید
+cfr-doorhanger-sync-bookmarks-body = می‌توانید نشانک‌ها، گذرواژه‌ها و تاریخچه مرور خود را با خود به هر جایی که وارد حساب کاربریتان در { -brand-product-name } شده باشید، ببرید.
 cfr-doorhanger-sync-bookmarks-ok-button = روشن کردنِ { -sync-brand-short-name }
     .accesskey = T
 
@@ -147,6 +152,8 @@ cfr-doorhanger-socialtracking-close-button = بستن
     .accesskey = C
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } یک شبکه اجتماعی را در هنگام ردیابی شما متوقف کرد
 cfr-doorhanger-socialtracking-description = حریم‌خصوصی شما اهمیت دارد. { -brand-short-name } ردیاب‌های متداولِ رسانه‌های اجتماعی را مسدود، و میزان داده‌هایی که می‌توانند در مورد آنچه که برخط انجام می‌دهید جمع‌آوری کنند را محدود می‌کند.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name }  یک برداشت کننده‌ی اثر انگشت را در این صفحه مسدود کرد.
+cfr-doorhanger-fingerprinters-description = حریم‌خصوصی شما اهمیت دارد. { -brand-short-name } اکنون برداشت کنندگان اثر انگشت را که برای ردیابی شما اطلاعات منحصر به فرد قابل شناسایی شما را جمع می‌کنند، مسدود می‌کند.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } یک استخراج کنندهٔ رمزارزها را در این صفحه مسدود کرد
 cfr-doorhanger-cryptominers-description = حریم‌خصوصی شما اهمیت دارد. { -brand-short-name } استخراج کننده‌های رمز‌ارزها را که از قدرت پردازش سیستم شما برای استخراج پول دیجیتالی استفاده می‌کنند، مسدود می‌کند.
 
