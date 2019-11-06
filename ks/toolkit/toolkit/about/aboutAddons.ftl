@@ -104,9 +104,6 @@ detail-rating =
     .value = ریٹینگ
 addon-restart-now =
     .label = وئن كریو دوبارئ شروع
-extensions-view-discover =
-    .name = یڈ آنس انیو
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = حالئك اپڈیٹس
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -143,12 +140,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = حالئك اپڈیٹس وچھیو
     .accesskey = V
+addon-updates-check-for-updates = اپڈیٹس خٲطرئ ركیو جانچ
+    .accesskey = C
+addon-updates-view-updates = حالئك اپڈیٹس وچھیو
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = ایڈ آنس كریو اپ ڈیٹ پانٲی
+    .accesskey = A
+addon-updates-update-addons-automatically = ایڈ آنس كریو اپ ڈیٹ پانٲی
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -162,6 +165,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = ری سیٹ كریو سٲری اپڈیٹس ٳَتھ سٲتھ اپڈیٹ كرنئ خٲطر
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = ری سیٹ كریو سٲری اپڈیٹس پانٲی اپڈیٹ كرنئ خٲطر
+    .accesskey = R
+addon-updates-reset-updates-to-manual = ری سیٹ كریو سٲری اپڈیٹس ٳَتھ سٲتھ اپڈیٹ كرنئ خٲطر
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -181,3 +188,29 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = اپڈیٹس كریو اِنسٹال
     .tooltiptext = یَتھ فہرستس منز دستیاب  اپڈیٹس كریو  اِنسٹال
+addon-updates-updating = ایڈ آنس اپڈيٹ كران
+addon-updates-installed = تُہِند ایڈ آنس چھَ اپ ڈیٹ آمِت كرنئ
+addon-updates-none-found = كہین اپڈیٹ آی نئ اتھی
+addon-updates-manual-updates-found = دستیاب اپ ڈيٹس وچھیو
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = فایلئ پ۪یٹھئ كریو ايڈ آن اِنسٹال
+    .accesskey = I
+addon-install-from-file-dialog-title = ايڈ آن ژٲریو اِنسٹال كرنئ خٲطرئ
+addon-install-from-file-filter-name = ایڈ۔آنس
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
