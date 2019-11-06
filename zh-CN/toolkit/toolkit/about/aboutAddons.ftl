@@ -419,5 +419,10 @@ recommended-theme-1 = 有好的创意？<a data-l10n-name="link">使用 Firefox 
 
 ## Page headings
 
+extension-heading = 管理您的扩展
+theme-heading = 管理您的主题
+plugin-heading = 管理您的插件
+dictionary-heading = 管理您的字典
+locale-heading = 管理您的语言包
 theme-heading-search-label = 寻找更多主题
 extension-heading-search-label = 寻找更多扩展
