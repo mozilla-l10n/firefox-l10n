@@ -281,3 +281,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Denunci trompan retejon…
     .accesskey = D
+menu-help-not-deceptive =
+    .label = Tiu ĉi ne estas trompa retejo…
+    .accesskey = t
