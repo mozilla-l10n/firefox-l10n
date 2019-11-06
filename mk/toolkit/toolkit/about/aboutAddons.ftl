@@ -124,9 +124,6 @@ legacy-warning-show-legacy = Прикажи застарени проширув�
 legacy-extensions =
     .value = Застарени проширувања
 legacy-extensions-description = Овие проширувања не се во согласност со сегашните стандарди на { -brand-short-name } па, беа исклучени. <label data-l10n-name="legacy-learn-more">Дознајте повеќе за измените на додатоците</label>
-extensions-view-discover =
-    .name = Земи додатоци
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Скорешни надградби
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -201,3 +198,23 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Инсталирање на надградбите
     .tooltiptext = Инсталирај ги достапните надградби од оваа листа
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = Изберете додаток за инсталација
+addon-install-from-file-filter-name = Додатоци
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
