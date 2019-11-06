@@ -194,12 +194,16 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Tampilkan Versi Baru
     .accesskey = V
+addon-updates-check-for-updates = Periksa Versi Baru
+    .accesskey = P
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Otomatis Perbarui Pengaya
+    .accesskey = O
+addon-updates-update-addons-automatically = Otomatis Perbarui Pengaya
     .accesskey = O
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -213,6 +217,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = S
 extensions-updates-reset-updates-to-manual =
     .label = Setel Ulang Semua Pengaya agar Hanya Diperbarui Manual
+    .accesskey = M
+addon-updates-reset-updates-to-automatic = Setel Ulang Semua Pengaya agar Diperbarui Otomatis
+    .accesskey = S
+addon-updates-reset-updates-to-manual = Setel Ulang Semua Pengaya agar Hanya Diperbarui Manual
     .accesskey = M
 
 ## Status messages displayed when updating add-ons
@@ -232,11 +240,25 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Pasang Versi Baru
     .tooltiptext = Pasang versi baru yang ada pada daftar ini
+addon-updates-updating = Memperbarui pengaya
+addon-updates-installed = Pengaya Anda telah diperbarui.
+addon-updates-none-found = Tidak ada versi baru ditemukan
+addon-updates-manual-updates-found = Tampilkan Versi Baru yang Tersedia
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Pasang Pengaya dari Berkas…
+    .accesskey = B
+addon-install-from-file-dialog-title = Pilih berkas pengaya untuk dipasang
+addon-install-from-file-filter-name = Pengaya
 
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
     .label = Kelola Pintasan Ekstensi
+    .accesskey = K
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Kelola Pintasan Ekstensi
     .accesskey = K
 shortcuts-no-addons = Anda tidak memiliki ekstensi yang aktif.
 shortcuts-no-commands = Ekstensi berikut tidak memiliki pintasan:
@@ -360,3 +382,7 @@ recommended-themes-heading = Tema yang Disarankan
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Merasa kreatif? <a data-l10n-name="link">Buat tema Anda sendiri dengan Firefox Color.</a>
+
+## Page headings
+
+shortcuts-heading = Kelola Pintasan Ekstensi
