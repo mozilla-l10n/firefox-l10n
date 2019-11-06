@@ -205,12 +205,15 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Aaf Kesɗitine
     .tooltiptext = Aaf kesɗitine goodaaɗe e ngol doggol
+addon-updates-updating = Nana hesɗitina ɓeyditte
 addon-updates-installed = Ɓeyditte maa kesɗitinaama.
 addon-updates-none-found = Alaa kesɗitine njiytaa
 addon-updates-manual-updates-found = Hollir Kesɗitine Goodaaɗe
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Aaf Ɓeyditte Iwde e Fiilde…
+    .accesskey = A
 addon-install-from-file-filter-name = Ɓeyditte
 
 ## Extension shortcut management
