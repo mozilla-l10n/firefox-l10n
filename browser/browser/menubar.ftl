@@ -281,3 +281,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Пријави обманљив сајт…
     .accesskey = о
+menu-help-not-deceptive =
+    .label = Ово није обманљив сајт…
+    .accesskey = н
