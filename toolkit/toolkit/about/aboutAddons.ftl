@@ -184,6 +184,7 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = 启用
     .tooltiptext = 启用附加组件安全更新检查
+extensions-warning-safe-mode = 所有附加组件都已被安全模式暂时禁用。
 extensions-warning-check-compatibility = 附加组件兼容性检查已禁用。您可能有不兼容的附加组件。
 extensions-warning-check-compatibility-button = 启用
     .title = 启用附加组件兼容性检查
