@@ -183,6 +183,10 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = Stel alle byvoegings om handmatig by te werk
     .accesskey = S
+addon-updates-reset-updates-to-automatic = Stel alle byvoegings om outomaties by te werk
+    .accesskey = S
+addon-updates-reset-updates-to-manual = Stel alle byvoegings om handmatig by te werk
+    .accesskey = S
 
 ## Status messages displayed when updating add-ons
 
@@ -212,6 +216,8 @@ addon-install-from-file = Installeer byvoeging uit lêer…
     .accesskey = I
 addon-install-from-file-dialog-title = Kies byvoeging om te installeer
 addon-install-from-file-filter-name = Byvoegings
+addon-open-about-debugging = Ontfout byvoegings
+    .accesskey = b
 
 ## Extension shortcut management
 
