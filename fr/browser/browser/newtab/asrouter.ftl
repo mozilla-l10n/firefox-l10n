@@ -142,7 +142,7 @@ cfr-doorhanger-firefox-send-ok-button = Essayer { -send-brand-name }
 ## Social Tracking Protection
 
 cfr-doorhanger-socialtracking-ok-button = Voir les protections
-    .accesskey = p
+    .accesskey = V
 cfr-doorhanger-socialtracking-close-button = Fermer
     .accesskey = F
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } a empêché un réseau social de vous pister ici
