@@ -131,6 +131,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Sɔ
     .tooltiptext = Sɔ fidie a ɛbɔ wo ho ban firi ntoso ma nkaho a wɔnndi mu
+extensions-warning-safe-mode = Ahotew mu edum nkaho nyinara.
+extensions-warning-check-compatibility = Kaho wɔn nsɛ ne nhwehwɛmu edum. Etumi ba no sɛ wo nni nkaho a wɔfa.
+extensions-warning-check-compatibility-button = Sɔ
+    .title = Sɔ fidie a ɛkyerɛ sɛ nkaho no fa anaaso ɛmmfa a
+extensions-warning-update-security = Kaho sikuriti ntoso wɔn nhwehwɛmu edum. Etumi ba no sɛ ntoso bɛma wo ho ada hɔ.
+extensions-warning-update-security-button = Sɔ
+    .title = Sɔ fidie a ɛbɔ wo ho ban firi ntoso ma nkaho a wɔnndi mu
 
 ## Strings connected to add-on updates
 
