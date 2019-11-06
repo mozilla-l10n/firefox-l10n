@@ -278,3 +278,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Ziņot par maldinošu lapu…
     .accesskey = d
+menu-help-not-deceptive =
+    .label = Šī nav maldinoša lapa…
+    .accesskey = d
