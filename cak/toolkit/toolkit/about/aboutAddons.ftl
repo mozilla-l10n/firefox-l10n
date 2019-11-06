@@ -196,12 +196,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Ketz'et k'ak'a' taq k'exoj
     .accesskey = K
+addon-updates-check-for-updates = Kekanöx taq k'exoj
+    .accesskey = K
+addon-updates-view-updates = Ketz'et k'ak'a' taq k'exoj
+    .accesskey = K
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = kek'ex taq tz'aqat pa kiyonil
+    .accesskey = k
+addon-updates-update-addons-automatically = kek'ex taq tz'aqat pa kiyonil
     .accesskey = k
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -215,6 +221,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = T
 extensions-updates-reset-updates-to-manual =
     .label = Titzolïx chi kij konojel ri taq tz'aqat richin kek'ex pa chi q'ab'aj.
+    .accesskey = T
+addon-updates-reset-updates-to-automatic = Titzolïx chi kij konojel ri taq tz'aqat richin kek'ex pa kiyonil
+    .accesskey = T
+addon-updates-reset-updates-to-manual = Titzolïx chi kij konojel ri taq tz'aqat richin kek'ex pa chi q'ab'aj.
     .accesskey = T
 
 ## Status messages displayed when updating add-ons
@@ -234,6 +244,18 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Keyak taq k'exoj
     .tooltiptext = Keyak ri taq k'exoj e k'o pa re rucholajem re'
+addon-updates-updating = Tajin yek'ex ri taq tz'aqat
+addon-updates-installed = Xek'extäj re taq atz'aqat re'.
+addon-updates-manual-updates-found = Ketz'et ri taq k'exoj e k'o
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Tiyak ri tz'aqat rik'in ri yakb'äl…
+    .accesskey = T
+addon-install-from-file-dialog-title = Ticha' re tz'aqat re' richin niyak qa
+addon-install-from-file-filter-name = Taq tz’aqat
+addon-open-about-debugging = Kechojmirisäx taq tz'aqat
+    .accesskey = c
 
 ## Extension shortcut management
 
@@ -401,3 +423,6 @@ recommended-themes-heading = Chilab'en taq Wachinel
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = ¿La at na'owinäq? <a data-l10n-name="link">Tatz'uku' awachinel rik'in ri Firefox Color.</a>
+
+## Page headings
+
