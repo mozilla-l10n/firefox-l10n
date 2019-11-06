@@ -276,3 +276,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = आक्रामक साइट भएको प्रतिवेदन दिनुहोस्…
     .accesskey = d
+menu-help-not-deceptive =
+    .label = यो भ्रामक साइट होइन…
+    .accesskey = d
