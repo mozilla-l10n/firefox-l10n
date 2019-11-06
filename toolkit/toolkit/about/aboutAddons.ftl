@@ -263,6 +263,9 @@ addon-open-about-debugging = Feilsøk tillegg
 manage-extensions-shortcuts =
     .label = Handter snarvegar for tillegg
     .accesskey = H
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Handter snarvegar for tillegg
+    .accesskey = H
 shortcuts-no-addons = Du har ingen utvidinga aktiverte.
 shortcuts-no-commands = Følgjande utvidingar har ikkje snarvegar:
 shortcuts-input =
@@ -431,10 +434,13 @@ recommended-theme-1 = Er du i det kreative hjørnet? <a data-l10n-name="link">By
 
 ## Page headings
 
+extension-heading = Handter utvidingane dine
 theme-heading = Handter temaa dine
 plugin-heading = Handter programtillegga dine
 dictionary-heading = Handter ordbøkene dine
 locale-heading = Handter språka dine
+discover-heading = Tilpass { -brand-short-name }
+shortcuts-heading = Handter snarvegar for utvidingar
 theme-heading-search-label = Finn fleire tema
 extension-heading-search-label = Finn fleire utvidingar
 addons-heading-search-input =
