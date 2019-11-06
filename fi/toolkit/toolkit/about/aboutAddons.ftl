@@ -187,6 +187,12 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Ota käyttöön
     .tooltiptext = Ota lisäosien päivitysten turvallisuustarkistus käyttöön
+extensions-warning-safe-mode = Kaikki lisäosat on poistettu käytöstä vikasietotilassa.
+extensions-warning-check-compatibility-button = Ota käyttöön
+    .title = Ota lisäosien yhteensopivuuden tarkistus käyttöön
+extensions-warning-update-security = Lisäosien päivitysten turvallisuustarkistus ei ole käytössä. Päivitykset voivat saastuttaa koneesi.
+extensions-warning-update-security-button = Ota käyttöön
+    .title = Ota lisäosien päivitysten turvallisuustarkistus käyttöön
 
 ## Strings connected to add-on updates
 
