@@ -278,3 +278,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = ລາຍງາຍເວັບໄຊທ໌ປອມແປງ…
     .accesskey = D
+menu-help-not-deceptive =
+    .label = ນີ້ບໍ່ແມ່ນເວັບໄຊທ໌ປອມແປງ…
+    .accesskey = ປ
