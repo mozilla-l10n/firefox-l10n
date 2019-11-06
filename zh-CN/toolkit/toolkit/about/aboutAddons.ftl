@@ -193,12 +193,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = 查看最近更新
     .accesskey = V
+addon-updates-check-for-updates = 检查更新
+    .accesskey = C
+addon-updates-view-updates = 查看最近更新
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = 自动更新附加组件
+    .accesskey = A
+addon-updates-update-addons-automatically = 自动更新附加组件
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -212,6 +218,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = 重设所有附加组件为手动更新
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = 重设所有附加组件为自动更新
+    .accesskey = R
+addon-updates-reset-updates-to-manual = 重设所有附加组件为手动更新
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -231,6 +241,15 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = 安装选中的更新
     .tooltiptext = 安装在此列表选中的可用更新
+addon-updates-updating = 正在更新附加组件
+addon-updates-manual-updates-found = 查看可用更新
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = 从文件安装附加组件…
+    .accesskey = I
+addon-install-from-file-dialog-title = 选择附加组件来安装
+addon-install-from-file-filter-name = 附加组件
 
 ## Extension shortcut management
 
@@ -393,3 +412,6 @@ recommended-themes-heading = 推荐主题
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = 有好的创意？<a data-l10n-name="link">使用 Firefox Color 打造自己的主题。</a>
+
+## Page headings
+
