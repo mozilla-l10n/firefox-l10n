@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Skramm a-bezh
     .accesskey = S
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Diskouez an holl ivinelloù
@@ -289,4 +289,7 @@ menu-help-safe-mode-with-addons =
 # phishing-afterload-warning-message.dtd is shown.
 menu-help-report-deceptive-site =
     .label = Danevelliñ al lec'hienn dagus…
+    .accesskey = d
+menu-help-not-deceptive =
+    .label = N'eo ket ul lec’hienn dagus…
     .accesskey = d
