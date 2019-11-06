@@ -161,6 +161,10 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = చేతనపరచు
     .tooltiptext = పొడిగింత నవీకరణ రక్షణ పరిశీలనను చేతనముచేయి
+extensions-warning-check-compatibility-button = చేతనపరచు
+    .title = పొడిగింత సారూప్యతా పరిశీలనను చేతనపరచు
+extensions-warning-update-security-button = చేతనపరచు
+    .title = పొడిగింత నవీకరణ రక్షణ పరిశీలనను చేతనముచేయి
 
 ## Strings connected to add-on updates
 
