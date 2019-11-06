@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Na celú obrazovku
     .accesskey = c
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Zobraziť všetky karty
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Nahlásenie podvodnej stránky…
     .accesskey = N
+menu-help-not-deceptive =
+    .label = Toto nie je podvodná stránka…
+    .accesskey = T
