@@ -172,6 +172,8 @@ extensions-updates-view-updates =
     .accesskey = V
 addon-updates-check-for-updates = నవీకరణల కొరకు పరిశీలించు
     .accesskey = C
+addon-updates-view-updates = ఇటీవలి తాజాకరణలను చూడండి
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -196,6 +198,8 @@ extensions-updates-reset-updates-to-manual =
     .accesskey = R
 addon-updates-reset-updates-to-automatic = స్వయంచాలకంగా నవీకరించుటకు అన్ని పొడిగింతలును రీసెట్ చేయు
     .accesskey = R
+addon-updates-reset-updates-to-manual = పొడగింతలన్నీ మానవీయంగా తాజాపరచుకునేలా మార్చు
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
@@ -215,9 +219,15 @@ extensions-updates-update-selected =
     .label = తాజాకరణలను స్థాపించు
     .tooltiptext = ఈ జాబితాలోని తాజాకరణలను స్థాపించు
 addon-updates-updating = పొడిగింతలను నవీకరిస్తున్నది
+addon-updates-installed = మీ పొడిగింతలు తాజాకరించబడ్డాయి.
+addon-updates-none-found = తాజాకరణలు ఏమీ లేవు
+addon-updates-manual-updates-found = అందుబాటులోని తాజాకరణలను చూడండి
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = ఫైలు నుండి పొడిగింతను స్థాపించు…
+    .accesskey = I
+addon-install-from-file-dialog-title = స్థాపించాల్సిన పొడిగింతను ఎంచుకోండి
 addon-install-from-file-filter-name = పొడిగింతలు
 addon-open-about-debugging = పొడిగింతలను డీబగ్ చేయుము
     .accesskey = B
@@ -279,3 +289,4 @@ recent-updates-heading = ఇటీవలి తాజాకరణలు
 
 ## Page headings
 
+theme-heading-search-label = మరిన్ని అలంకారాలను కనుగొనండి
