@@ -138,9 +138,6 @@ legacy-extensions =
     .value = امتدادات عتيقة
 legacy-extensions-description = لا تحقق هذه الامتدادات معايير { -brand-short-name } الحالية، لذا عُطّلت. <label data-l10n-name="legacy-learn-more">تعرّف على التغييرات على الإضافات</label>
 private-browsing-description2 = بدأ { -brand-short-name } بتغيير كيفية عمل الامتدادات في التصفح الخاص. مبدئيًا، لن تعمل أي امتدادات جديدة تُضيفها إلى { -brand-short-name } في النوافذ الخاصة. إن لم تغيّر ذلك وتسمح به في الإعدادات فلن يعمل الامتداد وأنت في التصفح الخاص، ولن يملك حق الوصول إلى نشاطك على الوِب فيها. أجرينا هذا التغيير ليكون التصفح الخاص خاصًا بحق. <label data-l10n-name="private-browsing-learn-more">اطّلع على طريقة إدارة إعدادات الامتدادات</label>
-extensions-view-discover =
-    .name = احصل على الإضافات
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = التحديثات الأخيرة
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -177,6 +174,10 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = اعرض التحديثات الأخيرة
     .accesskey = ض
+addon-updates-check-for-updates = التمس التحديثات
+    .accesskey = ت
+addon-updates-view-updates = اعرض التحديثات الأخيرة
+    .accesskey = ض
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -197,6 +198,10 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = اجعل تحديث كل الإضافات يدويًا
     .accesskey = ف
+addon-updates-reset-updates-to-automatic = اجعل تحديث كل الإضافات تلقائيًا
+    .accesskey = ف
+addon-updates-reset-updates-to-manual = اجعل تحديث كل الإضافات يدويًا
+    .accesskey = ف
 
 ## Status messages displayed when updating add-ons
 
@@ -215,6 +220,14 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = نصّب التحديثات
     .tooltiptext = نصّب التحديثات المتاحة في هذه اللائحة
+addon-updates-updating = يحدّث الإضافات
+addon-updates-installed = حُدّثت إضافاتك.
+addon-updates-none-found = لا يوجد تحديثات
+addon-updates-manual-updates-found = اعرض التحديثات المتاحة
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-filter-name = الإضافات
 
 ## Extension shortcut management
 
@@ -237,3 +250,6 @@ shortcuts-input =
 addon-detail-private-browsing-help = إن سمحت به فسيملك هذا الامتداد تصريح الوصول إلى نشاطك على الإنترنت وأنت تتصفح تصفحا خاصا. <a data-l10n-name="learn-more">اطّلع على المزيد</label>
 addon-detail-private-browsing-allow = مسموح
 addon-detail-private-browsing-disallow = غير مسموح
+
+## Page headings
+
