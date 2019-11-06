@@ -281,3 +281,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Raportează site-uri înșelătoare…
     .accesskey = d
+menu-help-not-deceptive =
+    .label = Nu este un site înșelător…
+    .accesskey = d
