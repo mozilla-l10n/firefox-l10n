@@ -44,3 +44,23 @@ extensions-warning-update-security-container =
 
 extensions-updates-none-found =
     .value = Báñeika fɨnofɨnoga
+addon-updates-none-found = Báñeika fɨnofɨnoga
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-filter-name = Jɨaɨe
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
