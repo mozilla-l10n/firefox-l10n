@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = 全螢幕
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = 顯示所有分頁
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = 回報詐騙網站…
     .accesskey = D
+menu-help-not-deceptive =
+    .label = 這不是詐騙網站…
+    .accesskey = d
