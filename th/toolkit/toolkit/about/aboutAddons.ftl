@@ -226,6 +226,10 @@ extensions-updates-update-selected =
     .label = ติดตั้งการอัปเดต
     .tooltiptext = ติดตั้งการอัปเดตที่มีในรายการนี้
 
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-filter-name = ส่วนเสริม
+
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
@@ -365,3 +369,6 @@ recommended-themes-heading = ชุดตกแต่งที่แนะนำ
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = รู้สึกสร้างสรรค์ใช่ไหม? <a data-l10n-name="link">สร้างชุดตกแต่งในรูปแบบของคุณเองด้วย Firefox Color</a>
+
+## Page headings
+
