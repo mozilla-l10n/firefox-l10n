@@ -131,6 +131,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Kgontšha
     .tooltiptext = Kgontšha go lekola tšhireletšego ya mpshafatšo ya setlaleletši
+extensions-warning-safe-mode = Ditlaleletši tšohle di šitišitšwe ke mokgwa o bolokegilego.
+extensions-warning-check-compatibility = Go lekola tshepelelano ya setlaleletši go šitišitšwe. O ka ba o na le ditlaleletši tše sa kwanego.
+extensions-warning-check-compatibility-button = Kgontšha
+    .title = Kgontšha go lekola tshepelelano ya setlaleletši
+extensions-warning-update-security = Go lekola tšhireletšego ya mpshafatšo ya setlaleletši go šitišitšwe. O ka tsenywa mathateng ke dimpshafatšo.
+extensions-warning-update-security-button = Kgontšha
+    .title = Kgontšha go lekola tšhireletšego ya mpshafatšo ya setlaleletši
 
 ## Strings connected to add-on updates
 
