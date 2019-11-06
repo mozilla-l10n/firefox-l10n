@@ -271,3 +271,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Rapporteer misleidende werf…
     .accesskey = d
+menu-help-not-deceptive =
+    .label = Nié 'n misleidende werf nie…
+    .accesskey = d
