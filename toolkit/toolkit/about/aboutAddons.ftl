@@ -228,13 +228,20 @@ addon-updates-manual-updates-found = Fanni vedde i agiornamenti disponibili
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Installa i conponenti azonti da 'n schedaio…
+    .accesskey = I
 addon-install-from-file-dialog-title = Seleçionn-a i conponenti da instalâ
 addon-install-from-file-filter-name = Conponenti azonti
+addon-open-about-debugging = Debug di conponenti azonti
+    .accesskey = B
 
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
     .label = Gestisci scorsaeiu de estenscioin
+    .accesskey = G
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Gestisci scorsaeiu de estenscioin
     .accesskey = G
 shortcuts-input =
     .placeholder = Inserisci 'n scorsaieu
