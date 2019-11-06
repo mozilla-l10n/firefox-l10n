@@ -250,6 +250,8 @@ addon-install-from-file = Instalatu gehigarria fitxategitik…
     .accesskey = I
 addon-install-from-file-dialog-title = Hautatu instalatzeko gehigarria
 addon-install-from-file-filter-name = Gehigarriak
+addon-open-about-debugging = Araztu gehigarriak
+    .accesskey = z
 
 ## Extension shortcut management
 
