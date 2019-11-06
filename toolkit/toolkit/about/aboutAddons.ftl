@@ -151,6 +151,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = सक्षम पार्नुहोस्
     .tooltiptext = एड-अन अद्यावधिक सुरक्षा जाँच सक्षम पार्नुहोस्
+extensions-warning-safe-mode = सबै एडअनहरू सुरक्षित मोडद्वारा असक्षम गरिएको छ।
+extensions-warning-check-compatibility = एडअन अनुकूलता जाँच अक्षम पारिएको छ। तपाईँसँग अमिल्दो एडअनहरू हुन सक्छन्।
+extensions-warning-check-compatibility-button = सक्षम पार्नुहोस्
+    .title = एडअन समर्थन जाँच सक्षम पार्नुहोस्
+extensions-warning-update-security = एडअनमा अद्यावधिक सुरक्षा जाँच असक्षम छ। तपाईँ अद्यावधिकसँग सम्झौता गरिरहनुभएको छ।
+extensions-warning-update-security-button = सक्षम पार्नुहोस्
+    .title = एड-अन अद्यावधिक सुरक्षा जाँच सक्षम पार्नुहोस्
 
 ## Strings connected to add-on updates
 
