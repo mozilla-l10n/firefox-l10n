@@ -266,3 +266,5 @@ shortcuts-exists = { $addon } dong tye katic kwede
 
 ## Page headings
 
+addons-heading-search-input =
+    .placeholder = Yeny addons.mozilla.org
