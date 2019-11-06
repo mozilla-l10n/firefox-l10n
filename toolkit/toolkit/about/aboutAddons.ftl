@@ -260,6 +260,8 @@ addon-install-from-file = Install Add-on From File…
     .accesskey = I
 addon-install-from-file-dialog-title = Select add-on to install
 addon-install-from-file-filter-name = Add-ons
+addon-open-about-debugging = Debug Add-ons
+    .accesskey = b
 
 ## Extension shortcut management
 
