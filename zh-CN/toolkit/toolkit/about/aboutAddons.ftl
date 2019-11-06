@@ -260,6 +260,9 @@ addon-open-about-debugging = 调试附加组件
 manage-extensions-shortcuts =
     .label = 管理扩展快捷键
     .accesskey = S
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = 管理扩展快捷键
+    .accesskey = S
 shortcuts-no-addons = 您没有启用任何扩展。
 shortcuts-no-commands = 下列扩展没有快捷键：
 shortcuts-input =
@@ -424,6 +427,7 @@ theme-heading = 管理您的主题
 plugin-heading = 管理您的插件
 dictionary-heading = 管理您的字典
 locale-heading = 管理您的语言包
+shortcuts-heading = 管理扩展快捷键
 theme-heading-search-label = 寻找更多主题
 extension-heading-search-label = 寻找更多扩展
 addons-heading-search-input =
