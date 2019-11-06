@@ -196,12 +196,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Ver actualizaciones recientes
     .accesskey = V
+addon-updates-check-for-updates = Buscar actualizaciones
+    .accesskey = B
+addon-updates-view-updates = Ver actualizaciones recientes
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Actualizar complementos automáticamente
+    .accesskey = A
+addon-updates-update-addons-automatically = Actualizar complementos automáticamente
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -215,6 +221,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = Configurar todos los complementos para que se actualicen manualmente
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = Configurar todos los complementos para que se actualicen automáticamente
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Configurar todos los complementos para que se actualicen manualmente
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -234,11 +244,19 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalar actualizaciones
     .tooltiptext = Instalar actualizaciones disponibles en esta lista
+addon-updates-updating = Actualizando complementos
+addon-updates-installed = Se han actualizado sus complementos.
+addon-updates-none-found = No se han encontrado actualizaciones
+addon-updates-manual-updates-found = Ver actualizaciones disponibles
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Instalar complemento desde archivo…
+    .accesskey = I
 addon-install-from-file-dialog-title = Seleccione el complemento para instalar
 addon-install-from-file-filter-name = Complementos
+addon-open-about-debugging = Depurar complementos
+    .accesskey = u
 
 ## Extension shortcut management
 
