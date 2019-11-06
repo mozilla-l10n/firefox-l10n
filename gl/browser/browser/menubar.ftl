@@ -278,3 +278,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Informar de sitio enganoso…
     .accesskey = d
+menu-help-not-deceptive =
+    .label = Non é un sitio enganoso…
+    .accesskey = g
