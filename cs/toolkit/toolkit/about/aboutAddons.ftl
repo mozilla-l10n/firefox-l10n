@@ -231,6 +231,7 @@ extensions-updates-update-selected =
 ## Add-on install/debug strings for page options menu
 
 addon-install-from-file-dialog-title = Zvolte doplněk k instalaci
+addon-install-from-file-filter-name = Doplňky
 
 ## Extension shortcut management
 
