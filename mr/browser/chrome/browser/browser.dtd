@@ -839,12 +839,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure3 "जोडणी सुरक्षित">
 <!ENTITY identity.connectionNotSecure2 "असुरक्षित जोडणी">
+<!ENTITY identity.connectionNotSecureSecurityView "आपण या साइटशी सुरक्षितपणे कनेक्ट केलेले नाही.">
 <!ENTITY identity.connectionFile "हे पृष्ठ आपल्या संगणकावर संचयीत केले गेले आहे.">
 <!ENTITY identity.connectionVerified2 ":द्वारे चालवण्यात येणाऱ्या साईटला आपण सुरक्षितपणे जुळलेले आहात">
+<!ENTITY identity.connectionVerified3 "आपण या साइटशी सुरक्षितपणे कनेक्ट केले आहे.">
 <!ENTITY identity.connectionInternal "हे सुरक्षित &brandShortName; पृष्ठ आहे.">
 <!ENTITY identity.extensionPage "हे पृष्ठ एका विस्तारापासून लोड केलेले आहे.">
 <!ENTITY identity.insecureLoginForms2 "आपण ह्या पृष्ठावर दिलेल्या लॉग इन माहितीबरोबर तडजोड होऊ शकते.">
 
+<!ENTITY identity.evOwnerLabel2 "यांना प्रमाणपत्र दिले:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ने ह्या पृष्ठावरील काही असुरक्षित भाग अडवले आहेत.">
@@ -879,14 +882,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "परवानगी">
 
+<!ENTITY identity.permissions3 "परवानग्या">
 <!ENTITY identity.permissionsEmpty "आपण ह्या साईटला काही विशेष परवानग्या दिलेल्या नाहीत.">
 <!ENTITY identity.permissionsReloadHint "आपल्याला बदल लागू करण्यासाठी पृष्ठ पुन्हा लोड करावे लागू शकते.">
 <!ENTITY identity.permissionsPreferences.tooltip "परवानग्या प्राधान्ये उघडा">
 <!ENTITY identity.contentBlockingPreferences.tooltip "मजकूर अवरोधन प्राधान्यता उघडा">
 
 
+<!ENTITY protections.etpON.header "या साइटसाठी वर्धित ट्रॅकिंग संरक्षण चालू आहे">
+<!ENTITY protections.etpOFF.header "या साइटसाठी वर्धित ट्रॅकिंग संरक्षण बंद आहे">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "वर्धित ट्रॅकिंग संरक्षण बद्दल अधिक माहिती">
+<!ENTITY protections.settings.label "संरक्षण सेटिंग">
+<!ENTITY protections.showreport.label "अहवाल दर्शवा">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -898,7 +907,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
 <!ENTITY protections.siteNotWorkingView.header "आपल्‍याला यासह समस्‍या येत असल्यास संरक्षण बंद करा:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "लॉगिन फील्ड">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "फॉर्म">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "देयके">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "टिप्पण्या">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "व्हिडीओ">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "अहवाल पाठवा">
@@ -909,10 +920,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "अवरोधित">
+<!ENTITY protections.notBlocking2.label "अनुमत">
+<!ENTITY protections.notFound.label "काहीही आढळले नाही">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "का?">
+<!ENTITY protections.socialMediaTrackers.label "सोशल मीडिया ट्रॅकर">
+<!ENTITY protections.crossSiteTrackingCookies.label "क्रॉस-साईट ट्रॅकिंग कुकी">
+<!ENTITY protections.trackingContent.label "ट्रॅकिंग मजकूर">
+<!ENTITY protections.fingerprinters.label "फिंगरप्रिंटर">
+<!ENTITY protections.cryptominers.label "क्रिप्टोमाइनर">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "या साइटवरील सर्व ट्रॅकर लोड केले गेले आहेत कारण संरक्षण बंद आहे.">
+<!ENTITY protections.noTrackersFound.description "या पृष्ठावर &brandShortName; ला ज्ञात कोणतेही ट्रॅकर आढळले नाहीत.">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -959,11 +980,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "कुकीज">
 <!ENTITY contentBlocking.cookiesView.label "कुकीज आणि साईट माहिती">
 
+<!ENTITY contentBlocking.trackingProtection4.label "ट्रॅकिंग मजकूर">
 
+<!ENTITY contentBlocking.manageSettings2.label "संरक्षण सेटिंग व्यवस्थापित करा">
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
+<!ENTITY contentBlocking.socialblock.label "सोशल मीडिया ट्रॅकर">
 
+<!ENTITY contentBlocking.cookies2.label "क्रॉस-साईट ट्रॅकिंग कुकी">
 
+<!ENTITY contentBlocking.cryptominers.label "क्रिप्टोमाइनर">
+<!ENTITY contentBlocking.cryptominersView.label "क्रिप्टोमाइनर">
 
+<!ENTITY contentBlocking.fingerprinters.label "फिंगरप्रिंटर">
+<!ENTITY contentBlocking.fingerprintersView.label "फिंगरप्रिंटर">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "समस्या नोंदवा">
 <!ENTITY contentBlocking.breakageReportView.label "समस्या अहवाल द्या">
