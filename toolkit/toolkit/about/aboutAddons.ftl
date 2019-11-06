@@ -190,9 +190,15 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸು
     .tooltiptext = ಈ ಪಟ್ಟಿಯಲ್ಲಿ ಲಭ್ಯವಿರುವ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸು
+addon-updates-updating = ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲಾಗುತ್ತದೆ
+addon-updates-installed = ನಿಮ್ಮ ಆಡ್-ಆನ್‌ಗಳನ್ನು ಅಪ್‌ಡೇಟ್‌ ಮಾಡಲಾಗಿದೆ.
+addon-updates-none-found = ಯಾವುದೆ ಅಪ್‌ಡೇಟ್‌ಗಳು ಕಂಡುಬಂದಿಲ್ಲ
+addon-updates-manual-updates-found = ಲಭ್ಯವಿರುವ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ನೋಡಿ
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file-dialog-title = ಅನುಸ್ಥಾಪಿಸಲು ಆಡ್-ಆನ್‌ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿ
+addon-install-from-file-filter-name = ಆಡ್-ಆನ್‌ಗಳು
 
 ## Extension shortcut management
 
