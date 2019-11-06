@@ -215,6 +215,8 @@ extensions-updates-update-selected =
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file-dialog-title = Veldu viðbót til að setja inn
+addon-install-from-file-filter-name = Viðbætur
 
 ## Extension shortcut management
 
