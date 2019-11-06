@@ -232,6 +232,8 @@ addon-install-from-file = ඇඩෝන ගොනුවෙන් ස්ථාප�
     .accesskey = I
 addon-install-from-file-dialog-title = ස්ථාපනය සඳහා ඇඩෝන තෝරන්න
 addon-install-from-file-filter-name = ඇඩෝන
+addon-open-about-debugging = ඇඩෝන දෝශ නිරාකරණය
+    .accesskey = B
 
 ## Extension shortcut management
 
@@ -258,3 +260,5 @@ addons-disabled-heading = අක්‍රීය කළ
 
 ## Page headings
 
+addons-heading-search-input =
+    .placeholder = addons.mozilla.org සොයන්න
