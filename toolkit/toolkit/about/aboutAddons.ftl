@@ -140,12 +140,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = ନିକଟର ଅପଡେଟଗୁଡ଼ିକୁ ଦେଖନ୍ତୁ
     .accesskey = V
+addon-updates-check-for-updates = ଅପଡେଟଗୁଡ଼ିକ ପାଇଁ ଯାଞ୍ଚକରନ୍ତୁ
+    .accesskey = C
+addon-updates-view-updates = ନିକଟର ଅପଡେଟଗୁଡ଼ିକୁ ଦେଖନ୍ତୁ
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = ସ୍ୱୟଂଚାଳିତ ଭାବେ ଅଡ଼-ଅନଗୁଡ଼ିକୁ ଅପଡେଟ କରନ୍ତୁ
+    .accesskey = A
+addon-updates-update-addons-automatically = ସ୍ୱୟଂଚାଳିତ ଭାବେ ଅଡ଼-ଅନଗୁଡ଼ିକୁ ଅପଡେଟ କରନ୍ତୁ
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
