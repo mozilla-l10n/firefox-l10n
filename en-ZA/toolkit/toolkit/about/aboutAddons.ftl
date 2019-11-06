@@ -116,9 +116,6 @@ disabled-unsigned-heading =
 disabled-unsigned-description = The following add-ons have not been verified for use in { -brand-short-name }. You can <label data-l10n-name="find-addons">find replacements</label> or ask the developer to get them verified.
 disabled-unsigned-learn-more = Learn more about our efforts to help keep you safe online.
 disabled-unsigned-devinfo = Developers interested in getting their add-ons verified can continue by reading our <label data-l10n-name="learn-more">manual</label>.
-extensions-view-discover =
-    .name = Get Add-ons
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Recent Updates
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -155,12 +152,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = View Recent Updates
     .accesskey = V
+addon-updates-check-for-updates = Check for Updates
+    .accesskey = C
+addon-updates-view-updates = View Recent Updates
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Update Add-ons Automatically
+    .accesskey = A
+addon-updates-update-addons-automatically = Update Add-ons Automatically
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -174,6 +177,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = Reset All Add-ons to Update Manually
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = Reset All Add-ons to Update Automatically
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Reset All Add-ons to Update Manually
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -193,3 +200,29 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Install Updates
     .tooltiptext = Install available updates in this list
+addon-updates-updating = Updating add-ons
+addon-updates-installed = Your add-ons have been updated.
+addon-updates-none-found = No updates found
+addon-updates-manual-updates-found = View Available Updates
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Install Add-on From File…
+    .accesskey = I
+addon-install-from-file-dialog-title = Select add-on to install
+addon-install-from-file-filter-name = Add-ons
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
