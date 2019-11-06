@@ -268,6 +268,9 @@ addon-open-about-debugging = Debugar supplements
 manage-extensions-shortcuts =
     .label = Administrar scursanidas dad extensiuns
     .accesskey = s
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Administrar scursanidas dad extensiuns
+    .accesskey = s
 shortcuts-no-addons = Naginas extensiuns activadas.
 shortcuts-no-commands = Las suandantas extensiuns n'han naginas cumbinaziuns da tastas:
 shortcuts-input =
@@ -435,4 +438,14 @@ recommended-theme-1 = Inspirà? <a data-l10n-name="link">Creescha tes agen desig
 
 ## Page headings
 
+extension-heading = Administrar tias extensiuns
+theme-heading = Administrar tes designs
+plugin-heading = Administrar tes plug-ins
+dictionary-heading = Administrar tes dicziunaris
+locale-heading = Administrar tias linguas
 discover-heading = Persunalisescha tes { -brand-short-name }
+shortcuts-heading = Administrar scursanidas dad extensiuns
+theme-heading-search-label = Chattar ulteriurs designs
+extension-heading-search-label = Chattar ulteriuras extensiuns
+addons-heading-search-input =
+    .placeholder = Tschertgar sin addons.mozilla.org
