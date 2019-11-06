@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Nagi'iaj gachrò' riña aga' sikà' ràa
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Ni'io' daran' nej rakïj ñaj
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Nato' ahui sitio nitaj si 'iaj sun hue'e...
     .accesskey = D
+menu-help-not-deceptive =
+    .label = Se sitio diga'ñu'unj huin ma maj...
+    .accesskey = d
