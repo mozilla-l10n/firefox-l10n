@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = توسط { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = توصیه
+cfr-doorhanger-extension-notification2 = توصیه
+    .tooltiptext = افزونه‌های توصیه شده
+    .a11y-announcement = افزونه‌های توصیه شده موجود
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = توصیه
+    .tooltiptext = ویژگی‌های توصیه شده
+    .a11y-announcement = ویژگی‌های توصیه شده موجود
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -51,15 +59,20 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } کاربر
        *[other] { $total } کاربر
     }
+cfr-doorhanger-pintab-description = به آسانی به وب‌سایت‌های پرکاربرد خود دسترسی داشته باشید. وب‌سایت‌ها در یک زبانه باز نگه دارید(حتی با راه‌اندازی دوباره نرم‌افزار).
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = بر زبانه‌ای که می‌خواهید آن را سنجاق کنید <b>راست-کلیک</b> کنید.
+cfr-doorhanger-pintab-step2 = گزینه <b>سنجاق کردن زبانه</b> را از این منو انتخاب کنید.
+cfr-doorhanger-pintab-step3 = اگر این وب‌سایت به روزرسانی داشته باشد، یک نقطه آبی در کنار زبانه سنجاق شده خواهید دید.
 cfr-doorhanger-pintab-animation-pause = توقف
 cfr-doorhanger-pintab-animation-resume = راه اندازی
 
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = نشانک‌های خود را در هر جایی همگام کنید.
+cfr-doorhanger-bookmark-fxa-body = یک یافته فوق العاده! اکنون بدون این نشانک در دستگاه‌های تلفن همراه خود نماند. با یک { -fxaccount-brand-name } شروع کنید.
 cfr-doorhanger-bookmark-fxa-link-text = نشانک‌ها را همگام کن...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = دکمه بستن
@@ -73,6 +86,9 @@ cfr-protections-panel-link-text = بیشتر بدانید
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = ویژگی‌های جدید:
 cfr-whatsnew-button =
     .label = تازه‌ها
     .tooltiptext = تازه‌ها
@@ -133,3 +149,6 @@ cfr-doorhanger-socialtracking-heading = { -brand-short-name } یک شبکه اج
 cfr-doorhanger-socialtracking-description = حریم‌خصوصی شما اهمیت دارد. { -brand-short-name } ردیاب‌های متداولِ رسانه‌های اجتماعی را مسدود، و میزان داده‌هایی که می‌توانند در مورد آنچه که برخط انجام می‌دهید جمع‌آوری کنند را محدود می‌کند.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } یک استخراج کنندهٔ رمزارزها را در این صفحه مسدود کرد
 cfr-doorhanger-cryptominers-description = حریم‌خصوصی شما اهمیت دارد. { -brand-short-name } استخراج کننده‌های رمز‌ارزها را که از قدرت پردازش سیستم شما برای استخراج پول دیجیتالی استفاده می‌کنند، مسدود می‌کند.
+
+## Enhanced Tracking Protection Milestones
+

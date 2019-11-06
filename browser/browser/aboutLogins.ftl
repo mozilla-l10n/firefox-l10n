@@ -75,6 +75,7 @@ login-intro-description = اگر شما ورودتون به{ -brand-product-name
 login-intro-instruction-fxa = { -fxaccount-brand-name } خود را ایجاد کنید یا بر روی دستگاهی که ورود های خود راثبت کرده اید به این حساب وارد شوید.
 login-intro-instruction-fxa-settings = مطمئن شوید که جعبه ورود در تنظیمات { -sync-brand-short-name } را انتخاب کرده اید.
 about-logins-intro-instruction-help = برای دریافت کمک بیشتری یا پشتیبانی به  <a data-l10n-name="help-link">{ -lockwise-brand-short-name }پشتیبانی</a> مراجعه کنید
+about-logins-intro-import = اگر اطلاعات ورود شما، در مرورگر دیگری ثبت شده است، می‌توانید از طریق <a data-l10n-name="import-link"> آن‌ها را به { -lockwise-brand-short-name }</a> منتقل کنید.
 
 ## Login
 
@@ -110,11 +111,8 @@ master-password-reload-button =
     .label = ورود
     .accesskey = و
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = انصراف
-confirmation-dialog-dismiss-button =
-    .title = انصراف
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] آیا می‌خواهید اطلاعات ورود خود را هر جایی که از { -brand-product-name } استفاده می‌کنید با خود داشته باشید؟ به گزینه‌های { -sync-brand-short-name } بروید و کادر ورود را انتخاب کنید.
@@ -127,6 +125,15 @@ enable-password-sync-preferences-button =
            *[other] ترجیحات { -sync-brand-short-name } را ببینید
         }
     .accesskey = گ
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = دوباره از من نپرس
+    .accesskey = د
+
+## Dialogs
+
+confirmation-dialog-cancel-button = انصراف
+confirmation-dialog-dismiss-button =
+    .title = انصراف
 confirm-delete-dialog-title = حذف این ورود؟
 confirm-delete-dialog-message = این عمل قابل برگشت نیست.
 confirm-delete-dialog-confirm-button = حذف
