@@ -14,6 +14,16 @@
 <!ENTITY playSoundMac.accesskey           "t">
 <!ENTITY showAnimatedAlert.label          "Monstrar un alerta">
 <!ENTITY showAnimatedAlert.accesskey      "M">
+<!ENTITY notificationAlertSettings2.label "Le alertas e le sono predefinite pote ser disactivate per le pannello del notificationes in le preferentias del systema.">
+<!ENTITY customizeMailAlert.label         "Personalisar…">
+<!ENTITY customizeMailAlert.accesskey     "P">
 
 
+<!ENTITY play.label                       "Reproducer">
+<!ENTITY play.accesskey                   "R">
+<!ENTITY browse.label                     "Foliettar…">
+<!ENTITY browse.accesskey                 "F">
 
+<!ENTITY defaultSearchEngine.label        "Motor de recerca predefinite">
+<!ENTITY removeSearchEngine.label         "Remover">
+<!ENTITY removeSearchEngine.accesskey     "v">
