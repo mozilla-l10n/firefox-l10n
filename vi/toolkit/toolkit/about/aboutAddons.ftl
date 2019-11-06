@@ -187,6 +187,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Bật
     .tooltiptext = Kích hoạt kiểm tra tính bảo mật của cập nhật cho tiện ích
+extensions-warning-safe-mode = Tất cả tiện ích đã bị vô hiệu hóa bởi chế độ an toàn.
+extensions-warning-check-compatibility = Việc kiểm tra tính tương thích của tiện ích đã bị vô hiệu hóa. Có thể bạn đang dùng các tiện ích không còn tương thích nữa.
+extensions-warning-check-compatibility-button = Bật
+    .title = Kích hoạt kiểm tra tính tương thích của tiện ích
+extensions-warning-update-security = Việc kiểm tra tính an toàn của các cập nhật tiện ích đã bị vô hiệu hóa. Bạn có thể bị tổn hại nếu cập nhật.
+extensions-warning-update-security-button = Bật
+    .title = Kích hoạt kiểm tra tính bảo mật của cập nhật cho tiện ích
 
 ## Strings connected to add-on updates
 
