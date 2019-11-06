@@ -154,6 +154,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Activar
     .tooltiptext = Activar comprobación de seguranza de complementos
+extensions-warning-safe-mode = El mou seguru desactivó tolos complementos.
+extensions-warning-check-compatibility = La comprobación de compatibilidá de complementos ta desactivada. Pue que tengas complementos incompatibles.
+extensions-warning-check-compatibility-button = Activar
+    .title = Activar comprobación de compatibilidá de complementos
+extensions-warning-update-security = La comprobación de seguranza de complementos ta desactivada. Los anovamientos podríen ser un riesgu.
+extensions-warning-update-security-button = Activar
+    .title = Activar comprobación de seguranza de complementos
 
 ## Strings connected to add-on updates
 
