@@ -389,6 +389,13 @@ recommended-theme-1 = Merasa kreatif? <a data-l10n-name="link">Buat tema Anda se
 
 ## Page headings
 
+extension-heading = Kelola ekstensi Anda
+theme-heading = Kelola tema Anda
+plugin-heading = Kelola plugin Anda
+dictionary-heading = Kelola kamus Anda
+locale-heading = Kelola bahasa Anda
 shortcuts-heading = Kelola Pintasan Ekstensi
+theme-heading-search-label = Temukan lebih banyak tema
+extension-heading-search-label = Temukan lebih banyak ekstensi
 addons-heading-search-input =
     .placeholder = Cari addons.mozilla.org
