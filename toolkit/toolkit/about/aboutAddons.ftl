@@ -195,6 +195,10 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = 檢視最近的更新
     .accesskey = V
+addon-updates-check-for-updates = 檢查更新
+    .accesskey = C
+addon-updates-view-updates = 檢視最近的更新
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -215,6 +219,10 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = 將所有附加元件設定成手動更新
     .accesskey = R
+addon-updates-reset-updates-to-automatic = 重設所有附加元件的自動更新設定
+    .accesskey = R
+addon-updates-reset-updates-to-manual = 將所有附加元件設定成手動更新
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
@@ -233,6 +241,16 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = 安裝更新
     .tooltiptext = 安裝此清單中可用的更新
+addon-updates-updating = 正在更新附加元件
+addon-updates-none-found = 找不到更新
+addon-updates-manual-updates-found = 檢視可用的更新
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = 從檔案安裝附加元件…
+    .accesskey = I
+addon-install-from-file-dialog-title = 請選擇要安裝的附加元件
+addon-install-from-file-filter-name = 附加元件
 
 ## Extension shortcut management
 
@@ -395,3 +413,6 @@ recommended-themes-heading = 推薦的佈景主題
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = 突然有個靈感嗎？<a data-l10n-name="link">使用 Firefox Color 來打造自己的佈景主題。</a>
+
+## Page headings
+
