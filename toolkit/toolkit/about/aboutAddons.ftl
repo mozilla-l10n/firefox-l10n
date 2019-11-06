@@ -188,7 +188,11 @@ extensions-warning-update-security-enable =
     .tooltiptext = הפעלת בדיקות אבטחה לעדכוני תוספות
 extensions-warning-safe-mode = כל התוספות נוטרלו במצב בטוח.
 extensions-warning-check-compatibility = בדיקת תאימות תוספות מנוטלת. ייתכן וברשותך הרחבות לא תואמות.
+extensions-warning-check-compatibility-button = הפעלה
+    .title = הפעלת בדיקת תאימות תוספות
 extensions-warning-update-security = בדיקת האבטחה של התוספות כרגע מנוטרלת. עדכונים לתוספות עלולים לסכן אותך.
+extensions-warning-update-security-button = הפעלה
+    .title = הפעלת בדיקות אבטחה לעדכוני תוספות
 
 ## Strings connected to add-on updates
 
