@@ -138,9 +138,6 @@ legacy-warning-show-legacy = જૂના એક્સ્ટેન્શન્�
 legacy-extensions =
     .value = જૂના એક્સ્ટેન્શન્સ
 legacy-extensions-description = આ એક્સ્ટેન્શન્સ વર્તમાન { -brand-short-name } ધોરણો મળતા નથી જેથી તેઓ નિષ્ક્રિય કરવામાં આવેલ છે. <label data-l10n-name="legacy-learn-more">ઍડ-ઑન્સમાં ફેરફારો વધુ શીખો</label>
-extensions-view-discover =
-    .name = ઍડ-ઓનને મેળવો
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = તાજેતરનાં સુધારાઓ
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -216,12 +213,14 @@ extensions-updates-update-selected =
     .label = સુધારાઓને સ્થાપિત કરો
     .tooltiptext = આ યાદીમાં ઉપલબ્ધ સુધારાઓને સ્થાપિત કરો
 
+## Add-on install/debug strings for page options menu
+
+
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
     .label = એક્સ્ટેંશન શૉર્ટકટ્સ મેનેજ કરો
     .accesskey = S
-shortcuts-empty-message = આ એક્સ્ટેન્શન માટે કોઈ શૉર્ટકટ્સ નથી.
 shortcuts-no-addons = તમારી પાસે કોઈ એક્સ્ટેન્શન સક્ષમ નથી.
 shortcuts-no-commands = નીચેના એક્સ્ટેન્શન્સમાં શૉર્ટકટ્સ નથી:
 shortcuts-input =
@@ -243,6 +242,9 @@ shortcuts-card-collapse-button = ઓછું બતાવો
 go-back-button =
     .tooltiptext = પાછળ જાવ
 
+## Recommended add-ons page
+
+
 ## Add-on actions
 
 remove-addon-button = દૂર કરો
@@ -250,3 +252,9 @@ disable-addon-button = નિષ્ક્રિય
 enable-addon-button = સક્રિય
 addons-enabled-heading = સક્રિય
 addons-disabled-heading = નિષ્ક્રિય
+
+## Pending uninstall message bar
+
+
+## Page headings
+
