@@ -278,3 +278,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = پر فریب سایٹ کی رپورٹ کریں…
     .accesskey = d
+menu-help-not-deceptive =
+    .label = یہ فریبی سائٹ نہیں ہے…
+    .accesskey = ف
