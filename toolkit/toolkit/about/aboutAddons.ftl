@@ -90,7 +90,6 @@ detail-update-manual =
     .tooltiptext = No instalar as actualizacions automaticament
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Executar en finestras privadas
-detail-private-browsing-description = La extesión funcionará en finestras privadas, y tendrá acceso a las suyas actividatz en linia. <label data-l10n-name="detail-private-browsing-learn-more">Faga clic pa saber-ne mas</label>
 detail-private-browsing-on =
     .label = Permitir
     .tooltiptext = Activar en navegación privada
@@ -139,9 +138,6 @@ legacy-warning-show-legacy = Amostrar las extensions obsoletas
 legacy-extensions =
     .value = Extensions obsoletas
 legacy-extensions-description = Estas extensions no respondern a las exichencias actuals de { -brand-short-name }, pero lo qual s'han desactivau. <label data-l10n-name="legacy-learn-more">Saber mas sobre los cambios en as extensions</label>
-extensions-view-discover =
-    .name = Mas complementos
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Actualizacions recients
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -178,12 +174,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Veyer as actualizacions recients
     .accesskey = V
+addon-updates-check-for-updates = Mirar si i hai actualizacions
+    .accesskey = M
+addon-updates-view-updates = Veyer as actualizacions recients
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Esviellar os complementos automaticament
+    .accesskey = E
+addon-updates-update-addons-automatically = Esviellar os complementos automaticament
     .accesskey = E
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -197,6 +199,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = Reiniciar totz os complementos ta que s'esviellen manualment
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = Reiniciar totz os complementos ta que s'esviellen automaticament
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Reiniciar totz os complementos ta que s'esviellen manualment
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -216,6 +222,29 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalar as actualizacions
     .tooltiptext = Instalar as actualizacions disponibles en ista lista
+addon-updates-updating = Se son actualizando os complementos
+addon-updates-installed = S'han actualizau os suyos complementos.
+addon-updates-none-found = No s'ha trobau garra actualización
+addon-updates-manual-updates-found = Veyer as actualizacions disponibles
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Instalar un complemento dende un fichero…
+    .accesskey = I
+addon-install-from-file-dialog-title = Seleccionar un complemento ta instalar
+addon-install-from-file-filter-name = Complementos
 
 ## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
 
