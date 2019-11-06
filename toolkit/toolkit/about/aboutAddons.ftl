@@ -180,6 +180,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Іске қосу
     .tooltiptext = Кеңейтулер жаңартуларын қауісіздікке тексеруді іске қосу
+extensions-warning-safe-mode = Барлық кеңейтулер қауіпсіз режимімен сөндірілген.
+extensions-warning-check-compatibility = Кеңейтулер үйлесімдігін тексеруді сөндіру. Сізде үйлесімсіз кеңейтулер бар болуы мүмкін.
+extensions-warning-check-compatibility-button = Іске қосу
+    .title = Кеңейтулер үйлесімдігін тексеруді іске қосу
+extensions-warning-update-security = Кеңейтулер жаңартуларын қауісіздікке тексеру сөндірулі. Жаңартулармен қор болуыңыз мүмкін.
+extensions-warning-update-security-button = Іске қосу
+    .title = Кеңейтулер жаңартуларын қауісіздікке тексеруді іске қосу
 
 ## Strings connected to add-on updates
 
