@@ -230,6 +230,11 @@ extensions-updates-update-selected =
     .label = Instalar actualizaciones
     .tooltiptext = Instalar actualizaciones disponibles en esta lista
 
+## Add-on install/debug strings for page options menu
+
+addon-open-about-debugging = Depurar complementos
+    .accesskey = B
+
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
@@ -393,3 +398,6 @@ recommended-themes-heading = Temas recomendados
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = ¿Te sientes creativo? <a data-l10n-name="link"> Crea tu propio tema con Firefox Color. </a>
+
+## Page headings
+
