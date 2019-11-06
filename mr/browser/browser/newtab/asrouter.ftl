@@ -112,6 +112,8 @@ cfr-doorhanger-sync-logins-ok-button = { -sync-brand-short-name } चालू �
 
 cfr-doorhanger-send-tab-header = जाता जाता हे वाचा
 cfr-doorhanger-send-tab-recipe-header = ही कृती स्वयंपाकघरात घ्या
+cfr-doorhanger-send-tab-ok-button = टॅब पाठवणे वापरून पहा
+    .accesskey = T
 
 ## Firefox Send
 

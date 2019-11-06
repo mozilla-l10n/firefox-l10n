@@ -332,6 +332,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = शोध इंजिन आपोआप अद्ययावत करा
     .accesskey = e
+update-setting-write-failure-title = अद्यतन प्राधान्ये जतन करताना त्रुटी
 update-in-progress-title = अद्यतन प्रगतीपथावर
 update-in-progress-ok-button = रद्द करा
 # Continue is the cancel button so pressing escape or using a platform standard
