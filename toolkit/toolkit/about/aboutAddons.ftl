@@ -264,11 +264,16 @@ addon-install-from-file = Add-on installeren via bestand…
     .accesskey = s
 addon-install-from-file-dialog-title = Add-on voor installatie selecteren
 addon-install-from-file-filter-name = Add-ons
+addon-open-about-debugging = Add-ons debuggen
+    .accesskey = b
 
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
     .label = Extensiesneltoetsen beheren
+    .accesskey = E
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Extensiesneltoetsen beheren
     .accesskey = E
 shortcuts-no-addons = U hebt geen extensies ingeschakeld.
 shortcuts-no-commands = De volgende extensies hebben geen sneltoetsen:
@@ -438,5 +443,13 @@ recommended-theme-1 = Voelt u zich creatief? <a data-l10n-name="link"> Bouw uw e
 
 ## Page headings
 
+extension-heading = Uw extensies beheren
+theme-heading = Uw thema’s beheren
+plugin-heading = Uw plug-ins beheren
+dictionary-heading = Uw woordenboeken beheren
+locale-heading = Uw talen beheren
+shortcuts-heading = Extensiesneltoetsen beheren
+theme-heading-search-label = Meer thema’s zoeken
+extension-heading-search-label = Meer extensies zoeken
 addons-heading-search-input =
     .placeholder = addons.mozilla.org doorzoeken
