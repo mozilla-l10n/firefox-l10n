@@ -278,3 +278,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Laporkan laman yang mengelirukan…
     .accesskey = m
+menu-help-not-deceptive =
+    .label = Ini bukan laman mengelirukan…
+    .accesskey = m
