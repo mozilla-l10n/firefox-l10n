@@ -191,12 +191,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Visa nyligen uppdaterade
     .accesskey = V
+addon-updates-check-for-updates = Sök efter uppdateringar
+    .accesskey = u
+addon-updates-view-updates = Visa nyligen uppdaterade
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Installera uppdateringar automatiskt
+    .accesskey = t
+addon-updates-update-addons-automatically = Installera uppdateringar automatiskt
     .accesskey = t
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -210,6 +216,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = S
 extensions-updates-reset-updates-to-manual =
     .label = Ställ om alla tillägg till manuell uppdatering
+    .accesskey = S
+addon-updates-reset-updates-to-automatic = Ställ om alla tillägg till automatisk uppdatering
+    .accesskey = S
+addon-updates-reset-updates-to-manual = Ställ om alla tillägg till manuell uppdatering
     .accesskey = S
 
 ## Status messages displayed when updating add-ons
@@ -229,6 +239,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installera uppdateringar
     .tooltiptext = Installerar tillgängliga uppdateringar från listan
+addon-updates-updating = Uppdaterar tillägg
+addon-updates-installed = Dina tillägg har uppdaterats.
+addon-updates-none-found = Inga uppdateringar hittades
+addon-updates-manual-updates-found = Se tillgängliga uppdateringar
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Installera tillägg från fil…
+    .accesskey = I
+addon-install-from-file-dialog-title = Välj ett tillägg att installera
+addon-install-from-file-filter-name = Tillägg
 
 ## Extension shortcut management
 
@@ -401,3 +422,6 @@ recommended-themes-heading = Rekommenderade teman
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Känner du dig kreativ? <a data-l10n-name="link">Skapa ditt egna tema med Firefox Color.</a>
+
+## Page headings
+
