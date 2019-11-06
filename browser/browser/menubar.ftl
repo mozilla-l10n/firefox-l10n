@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = เต็มหน้าจอ
     .accesskey = จ
 
-
+##
 
 menu-view-show-all-tabs =
     .label = แสดงแท็บทั้งหมด
@@ -289,4 +289,7 @@ menu-help-safe-mode-with-addons =
 # phishing-afterload-warning-message.dtd is shown.
 menu-help-report-deceptive-site =
     .label = รายงานไซต์หลอกลวง…
+    .accesskey = ห
+menu-help-not-deceptive =
+    .label = นี่ไม่ใช่ไซต์หลอกลวง…
     .accesskey = ห
