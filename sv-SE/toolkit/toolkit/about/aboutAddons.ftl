@@ -258,6 +258,9 @@ addon-open-about-debugging = Felsök tillägg
 manage-extensions-shortcuts =
     .label = Hantera genvägar för tillägg
     .accesskey = g
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Hantera genvägar för tillägg
+    .accesskey = g
 shortcuts-no-addons = Du har inga tillägg aktiverade.
 shortcuts-no-commands = Följande tillägg har inte genvägar:
 shortcuts-input =
@@ -427,3 +430,13 @@ recommended-theme-1 = Känner du dig kreativ? <a data-l10n-name="link">Skapa dit
 
 ## Page headings
 
+extension-heading = Hantera dina tillägg
+theme-heading = Hantera dina teman
+plugin-heading = Hantera dina insticksmoduler
+dictionary-heading = Hantera dina ordlistor
+locale-heading = Hantera dina språk
+discover-heading = Anpassa { -brand-short-name }
+theme-heading-search-label = Hitta fler teman
+extension-heading-search-label = Hitta fler tillägg
+addons-heading-search-input =
+    .placeholder = Sök på addons.mozilla.org
