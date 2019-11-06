@@ -134,9 +134,6 @@ legacy-warning-show-legacy = सर्व वारसा विस्तार 
 legacy-extensions =
     .value = वारसा विस्तार
 legacy-extensions-description = हे विस्तार सध्याच्या { -brand-short-name } मानकांमध्ये बसत नाही म्हणून ते निष्क्रिय करण्यात आले आहेत. <label data-l10n-name="legacy-learn-more">ॲड-ऑन्सबद्दल बदल जाणा</label>
-extensions-view-discover =
-    .name = ॲड-ऑन्स् प्राप्त करा
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = नुकतीच सुधारणा
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -172,6 +169,10 @@ extensions-updates-check-for-updates =
     .accesskey = C
 extensions-updates-view-updates =
     .label = नुकत्याच सुधारणांचे दृष्य
+    .accesskey = V
+addon-updates-check-for-updates = सुधारणांकरीता तपासणी करा
+    .accesskey = C
+addon-updates-view-updates = नुकत्याच सुधारणांचे दृष्य
     .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
@@ -211,6 +212,11 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = सुधारणा प्रतिष्ठापीत करा
     .tooltiptext = या सूचीतील उपलब्ध सुधारणा प्रतिष्ठापीत करा
+addon-updates-none-found = सुधारणा आढळले नाही
+addon-updates-manual-updates-found = उपलब्ध सुधारणांचे दृष्य
+
+## Add-on install/debug strings for page options menu
+
 
 ## Extension shortcut management
 
@@ -266,3 +272,6 @@ release-notes-loading = लोड करत आहे…
 release-notes-error = माफ करा, परंतु प्रकाशन टिपा लोड करतेवेळी त्रुटी आढळली.
 addon-permissions-empty = या विस्तारास कोणत्याही परवानगीची आवश्यकता नाही
 recommended-extensions-heading = शिफारस केलेले विस्तार
+
+## Page headings
+
