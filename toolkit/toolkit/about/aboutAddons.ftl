@@ -446,6 +446,7 @@ theme-heading = Behandle temaene dine
 plugin-heading = Behandle programtilleggene dine
 dictionary-heading = Behandle ordbøkene dine
 locale-heading = Behandle språkene dine
+updates-heading = Behandle oppdateringene
 discover-heading = Tilpass din { -brand-short-name }
 shortcuts-heading = Håndter snarveier for utvidelser
 theme-heading-search-label = Finn flere tema
