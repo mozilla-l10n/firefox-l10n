@@ -234,6 +234,12 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Cài đặt cập nhật
     .tooltiptext = Cài đặt các cập nhật trong danh sách này
+addon-updates-none-found = Không tìm thấy cập nhật
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = Chọn tiện ích để cài đặt
+addon-install-from-file-filter-name = Tiện ích
 
 ## Extension shortcut management
 
@@ -404,3 +410,6 @@ recommended-themes-heading = Chủ đề được đề xuất
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Cảm thấy muốn sáng tạo? <a data-l10n-name="link">Xây dựng chủ đề của riêng bạn với Firefox Color.</a>
+
+## Page headings
+
