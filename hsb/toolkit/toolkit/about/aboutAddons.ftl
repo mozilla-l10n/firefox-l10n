@@ -195,12 +195,16 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Nowe aktualizacije sej wobhladać
     .accesskey = N
+addon-updates-check-for-updates = Za aktualizacijemi pytać
+    .accesskey = p
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Přidatki awtomatisce aktualizować
+    .accesskey = a
+addon-updates-update-addons-automatically = Přidatki awtomatisce aktualizować
     .accesskey = a
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -214,6 +218,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = z
 extensions-updates-reset-updates-to-manual =
     .label = Wšě přidatki manuelnje aktualizować
+    .accesskey = m
+addon-updates-reset-updates-to-automatic = Wšě přidatki zaso awtomatisce aktualizować
+    .accesskey = z
+addon-updates-reset-updates-to-manual = Wšě přidatki manuelnje aktualizować
     .accesskey = m
 
 ## Status messages displayed when updating add-ons
@@ -233,6 +241,19 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Aktualizacije instalować
     .tooltiptext = K dispoziciji stejace aktualizacije z lisćiny instalować
+addon-updates-updating = Aktualizowanje přidatkow
+addon-updates-installed = Waše přidatki su so zaktualizowali.
+addon-updates-none-found = Žane aktualizacije namakane
+addon-updates-manual-updates-found = K dispoziciji stejace aktualizacije sej wobhladać
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Přidatk z dataje instalować…
+    .accesskey = P
+addon-install-from-file-dialog-title = Přidatk za instalaciju wubrać
+addon-install-from-file-filter-name = Přidatki
+addon-open-about-debugging = Přidatki za zmylkami přepytować
+    .accesskey = d
 
 ## Extension shortcut management
 
@@ -401,3 +422,6 @@ recommended-themes-heading = Doporučene drasty
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Čujeće so kreatiwny? <a data-l10n-name="link">Wutworće swójsku drastu z Firefox Color.</a>
+
+## Page headings
+
