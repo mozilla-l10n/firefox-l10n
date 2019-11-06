@@ -208,6 +208,8 @@ extensions-updates-view-updates =
 extensions-updates-update-addons-automatically =
     .label = Atualizar automaticamente
     .accesskey = A
+addon-updates-update-addons-automatically = Atualizar automaticamente
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -243,6 +245,8 @@ addon-updates-none-found = Nenhuma atualização encontrada
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Instalar de um arquivo…
+    .accesskey = I
 
 ## Extension shortcut management
 
