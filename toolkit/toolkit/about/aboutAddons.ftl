@@ -258,6 +258,9 @@ addon-open-about-debugging = Otklanjanje grešaka u dodacima
 manage-extensions-shortcuts =
     .label = Upravljanje tipkovničkim kraticama dodatka
     .accesskey = U
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Upravljanje tipkovničkim kraticama dodatka
+    .accesskey = U
 shortcuts-no-addons = Nemate omogućenih dodataka
 shortcuts-no-commands = Sljedeći dodaci nemaju prečice:
 shortcuts-input =
@@ -429,3 +432,5 @@ recommended-theme-1 = Osjećate li se kreativno? <a data-l10n-name="link">Izradi
 
 ## Page headings
 
+discover-heading = Prilagodite svoj { -brand-short-name }
+shortcuts-heading = Upravljanje prečacima dodataka
