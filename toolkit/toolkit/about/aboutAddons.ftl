@@ -198,6 +198,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Afficher les mises à jour récentes
     .accesskey = A
+addon-updates-check-for-updates = Rechercher des mises à jour
+    .accesskey = R
 addon-updates-view-updates = Afficher les mises à jour récentes
     .accesskey = A
 
@@ -206,6 +208,8 @@ addon-updates-view-updates = Afficher les mises à jour récentes
 
 extensions-updates-update-addons-automatically =
     .label = Mettre à jour les modules automatiquement
+    .accesskey = M
+addon-updates-update-addons-automatically = Mettre à jour les modules automatiquement
     .accesskey = M
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -219,6 +223,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = c
 extensions-updates-reset-updates-to-manual =
     .label = Désactiver la mise à jour automatique pour tous les modules
+    .accesskey = D
+addon-updates-reset-updates-to-automatic = Activer la mise à jour automatique pour tous les modules
+    .accesskey = c
+addon-updates-reset-updates-to-manual = Désactiver la mise à jour automatique pour tous les modules
     .accesskey = D
 
 ## Status messages displayed when updating add-ons
@@ -238,9 +246,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installer les mises à jour
     .tooltiptext = Installer les mises à jour disponibles dans cette liste
+addon-updates-updating = Mise à jour des modules
+addon-updates-installed = Vos modules ont été mis à jour.
+addon-updates-none-found = Aucune mise à jour disponible
+addon-updates-manual-updates-found = Afficher les mises à jour disponibles
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Installer un module depuis un fichier…
+    .accesskey = I
+addon-install-from-file-dialog-title = Sélectionner un module à installer
+addon-install-from-file-filter-name = Modules complémentaires
 
 ## Extension shortcut management
 
