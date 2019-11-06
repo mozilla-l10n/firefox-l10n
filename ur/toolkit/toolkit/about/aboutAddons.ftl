@@ -132,9 +132,6 @@ plugin-deprecation-description = کسی شہ کی کمی ہے؟ { -brand-short-n
 legacy-warning-show-legacy = میراث توسیعات دکھائیں
 legacy-extensions =
     .value = میراث ایکسٹینشن
-extensions-view-discover =
-    .name = ایڈ اون لائیں
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = حالیہ تازہ کاریاں
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -171,12 +168,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = حالیہ تازہ کاریاں نظارہ کریں
     .accesskey = ن
+addon-updates-check-for-updates = تازہ کاریوں کے لیے پڑتال کریں
+    .accesskey = پ
+addon-updates-view-updates = حالیہ تازہ کاریاں نظارہ کریں
+    .accesskey = ن
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = ایڈ اون خود بخود تازہ کریں
+    .accesskey = ا
+addon-updates-update-addons-automatically = ایڈ اون خود بخود تازہ کریں
     .accesskey = ا
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -190,6 +193,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = پ
 extensions-updates-reset-updates-to-manual =
     .label = تما ایڈ اون کو دستی بہ تازہ ہونے کے لیے پھر سیٹ کریں
+    .accesskey = پ
+addon-updates-reset-updates-to-automatic = تما ایڈ اون کو خود بخود تازہ ہونے کے لیے پھر سیٹ کریں
+    .accesskey = پ
+addon-updates-reset-updates-to-manual = تما ایڈ اون کو دستی بہ تازہ ہونے کے لیے پھر سیٹ کریں
     .accesskey = پ
 
 ## Status messages displayed when updating add-ons
@@ -209,6 +216,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = تازہ کاریاں تنصیب کریں
     .tooltiptext = اس فہرست میں دستیاب تازہ کاریاں تنصیب کریں
+addon-updates-updating = ایڈ اون تازہ کر رہا ہے
+addon-updates-installed = آپ کے ایڈ اون تازہ ہو گئے ہیں۔
+addon-updates-none-found = کوئی تازہ کاریاں نہیں ملیں
+addon-updates-manual-updates-found = دستیاب تازہ کاریاں نظارہ کریں
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = ایڈ اون مسل سے تنصیب کریں...
+    .accesskey = ت
+addon-install-from-file-dialog-title = تنصیب کرنے کے لیے ایڈ اون منتخب کریں
+addon-install-from-file-filter-name = ایڈ اون
 
 ## Extension shortcut management
 
@@ -227,3 +245,6 @@ addons-disabled-heading = غیر فعال
 
 addon-detail-updates-radio-on = آن کریں
 addon-detail-updates-radio-off = بند کریں
+
+## Page headings
+
