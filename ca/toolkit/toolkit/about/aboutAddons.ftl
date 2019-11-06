@@ -193,6 +193,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Visualitza les actualitzacions recents
     .accesskey = V
+addon-updates-check-for-updates = Cerca actualitzacions
+    .accesskey = C
 addon-updates-view-updates = Visualitza les actualitzacions recents
     .accesskey = V
 
