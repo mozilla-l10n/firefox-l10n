@@ -131,6 +131,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Холбоо
     .tooltiptext = Саҥардыы кэмигэр арчылыыр сулууспаны холбоо
+extensions-warning-safe-mode = Куттала суох үлэлиир эрэсиимҥэ эбиискэлэр араарыллаллар.
+extensions-warning-check-compatibility = Эбиискэлэр сөп түбэһэллэрин тургутуу араарыллыбыт. Сөп түбэспэт эбиискэлэр баар буолуохтарны сөп.
+extensions-warning-check-compatibility-button = Холбоо
+    .title = Эбиискэлэр сөп түбэһэллэрин тургутууну холбоо
+extensions-warning-update-security = Эбиискэлэри саҥардарга арчылыыр сулууспа араарыллыбыт. Онон саҥартаххына ол бу буолуон сөп.
+extensions-warning-update-security-button = Холбоо
+    .title = Саҥардыы кэмигэр арчылыыр сулууспаны холбоо
 
 ## Strings connected to add-on updates
 
