@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Tela inteira
     .accesskey = T
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Mostrar todas as abas
@@ -285,11 +285,10 @@ menu-help-safe-mode-with-addons =
     .label = Reiniciar com extensões ativadas
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Denunciar site enganoso…
     .accesskey = r
 menu-help-not-deceptive =
     .label = Este não é um site enganoso…
-    .accesskey = e
+    .accesskey = E

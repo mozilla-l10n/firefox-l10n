@@ -192,7 +192,7 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Ativar
     .tooltiptext = Ativar verificação de segurança da atualização de extensões
-extensions-warning-safe-mode = Todos as extensões foram desativadas pelo modo de segurança.
+extensions-warning-safe-mode = Todas as extensões foram desativadas pelo modo de segurança.
 extensions-warning-check-compatibility = A verificação de compatibilidade de extensões está desativada. Você pode ter extensões incompatíveis.
 extensions-warning-check-compatibility-button = Ativar
     .title = Ativar verificação de compatibilidade de extensões
@@ -211,7 +211,7 @@ extensions-updates-view-updates =
 addon-updates-check-for-updates = Verificar se há atualizações
     .accesskey = V
 addon-updates-view-updates = Ver atualizações recentes
-    .accesskey = E
+    .accesskey = e
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -256,7 +256,7 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalar atualizações
     .tooltiptext = Instalar as atualizações disponíveis desta lista
-addon-updates-updating = Atualizando as extensões
+addon-updates-updating = Atualizando extensões
 addon-updates-installed = Suas extensões foram atualizadas.
 addon-updates-none-found = Nenhuma atualização encontrada
 addon-updates-manual-updates-found = Ver atualizações disponíveis
@@ -451,6 +451,7 @@ theme-heading = Gerenciamento de temas
 plugin-heading = Gerenciamento de plugins
 dictionary-heading = Gerenciamento de dicionários
 locale-heading = Gerenciamento de idiomas
+updates-heading = Gerencie suas atualizações
 discover-heading = Personalize o { -brand-short-name }
 shortcuts-heading = Gerenciar atalhos de extensões
 theme-heading-search-label = Encontrar mais temas
