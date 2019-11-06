@@ -131,6 +131,11 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = हुय होचो
     .tooltiptext = एड-ऑन हा़ली ञेंल हुय होचो तेयार में
+extensions-warning-safe-mode = जोतो एड-ऑनस जा़पती ओबोसता दाराय ते बाङ हुय होचो आकाना.
+extensions-warning-check-compatibility = एड- ऑन सोंगोताक् ञेल ञेल दो बाय हुय होचो आकाना.आम एड -ऑन बाङ सोंगगोत हुय दाड़ेयाक् .
+extensions-warning-check-compatibility-button = हुय होचो
+    .title = हुय होचो तेयार एड-ऑन सोंगोत ए ञेलेत् आ
+extensions-warning-update-security = एड-ऑन आ़पती ञेल दो बाङ हुय होचो बाकाना . आम हा़ली को दाराय ते सुला़नामा दाड़ेयाक् आ .
 
 ## Strings connected to add-on updates
 
