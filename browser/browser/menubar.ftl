@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Fullskjerm
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Vis alle faner
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Rapporter villeiande nettstad…
     .accesskey = R
+menu-help-not-deceptive =
+    .label = Dette er ikkje ein villeiande nettstad…
+    .accesskey = d
