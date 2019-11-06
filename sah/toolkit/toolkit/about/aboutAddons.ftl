@@ -104,9 +104,6 @@ detail-rating =
     .value = Рейтинг
 addon-restart-now =
     .label = Билигин хос холбоо
-extensions-view-discover =
-    .name = Эбиискэлэри хачайдан
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Соторутааҥы саҥардыылар
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -143,12 +140,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Соторутааҥҥы саҥардыылары көрүү
     .accesskey = С
+addon-updates-check-for-updates = Саҥардыы баарын көрүү
+    .accesskey = д
+addon-updates-view-updates = Соторутааҥҥы саҥардыылары көрүү
+    .accesskey = С
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Эбиискэлэри аптамаатынан саҥарт
+    .accesskey = а
+addon-updates-update-addons-automatically = Эбиискэлэри аптамаатынан саҥарт
     .accesskey = а
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -162,6 +165,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = э
 extensions-updates-reset-updates-to-manual =
     .label = Туох баар эбиискэлэргэ илииннэн саҥардыыны холбоо
+    .accesskey = э
+addon-updates-reset-updates-to-automatic = Туох баар эбиискэлэргэ аптамаатынан саҥардыыны холбоо
+    .accesskey = э
+addon-updates-reset-updates-to-manual = Туох баар эбиискэлэргэ илииннэн саҥардыыны холбоо
     .accesskey = э
 
 ## Status messages displayed when updating add-ons
@@ -181,3 +188,29 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Саҥардыылары туруор
     .tooltiptext = Бу тиһиктэн туруоруллар кыахтаах саҥардыылары туруор
+addon-updates-updating = Эбиискэлэри саҥардыы
+addon-updates-installed = Эбиискэлэриҥ саҥардылыннылар.
+addon-updates-none-found = Саҥардыы көстүбэтэ
+addon-updates-manual-updates-found = Туттуллар кыахтаах саҥардыылары көрдөр
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Эбиискэни билэттэн туруор…
+    .accesskey = с
+addon-install-from-file-dialog-title = Туоруорар эбиискэҕин тал
+addon-install-from-file-filter-name = Эбиискэлэр
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
