@@ -187,6 +187,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Włącz
     .tooltiptext = Włącz sprawdzanie bezpieczeństwa aktualizacji dodatków
+extensions-warning-safe-mode = Wszystkie dodatki zostały wyłączone przez tryb awaryjny
+extensions-warning-check-compatibility = Sprawdzanie zgodności dodatków jest wyłączone. Dodatki mogą być niezgodne.
+extensions-warning-check-compatibility-button = Włącz
+    .title = Włącz sprawdzanie zgodności dodatków
+extensions-warning-update-security = Sprawdzanie bezpieczeństwa aktualizacji jest wyłączone. Aktualizacje mogą powodować zagrożenie.
+extensions-warning-update-security-button = Włącz
+    .title = Włącz sprawdzanie bezpieczeństwa aktualizacji dodatków
 
 ## Strings connected to add-on updates
 
