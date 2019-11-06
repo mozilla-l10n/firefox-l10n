@@ -187,6 +187,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Habilitar
     .tooltiptext = Habilitar chequeo de seguridad para la actualización del complemento
+extensions-warning-safe-mode = Todos los complementos han sido deshabilitados en modo seguro.
+extensions-warning-check-compatibility = Chequeo de compatibilidad para complementos esta deshabilitada. Tu puedes tener complementos incompatibles.
+extensions-warning-check-compatibility-button = Habilitar
+    .title = Habilitar chequeo de compatibilidad para complementos.
+extensions-warning-update-security = El chequeo de seguridad para actualización del complemento esta deshabilitada. Tu navegador puede estar en peligro por las actualizaciones.
+extensions-warning-update-security-button = Habilitar
+    .title = Habilitar chequeo de seguridad para la actualización del complemento
 
 ## Strings connected to add-on updates
 
