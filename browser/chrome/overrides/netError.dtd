@@ -9,10 +9,7 @@
 <!ENTITY retry.label "पुन्हा प्रयत्न करा">
 <!ENTITY returnToPreviousPage.label "मागे जा">
 <!ENTITY returnToPreviousPage1.label "मागे जा (शिफारसीय)">
-<!ENTITY advanced.label "प्रगत">
-<!ENTITY continue2.label "अधिक…">
 <!ENTITY advanced2.label "प्रगत…">
-<!ENTITY moreInformation.label "अधिक माहिती">
 <!ENTITY viewCertificate.label "प्रमाणपत्र पहा">
 
 <!-- Specific error messages -->
@@ -90,12 +87,10 @@
 <!ENTITY nssFailure2.title "सुरक्षीत जोडणी अपयशी">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>प्राप्त माहितीची अधिप्रमाणता तपासता न आल्यामुळे आपणास इच्छिक पृष्ठ पाहता येणार नाही.</li> <li>कृपया संकेतस्थळाच्या मालकाला या अडचणी विषयी अवगत करा.</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "आपली जोडणी सुरक्षीत नाही">
 <!ENTITY certerror.longpagetitle2 "चेतावणी: पुढे संभाव्य सुरक्षा धोका आहे">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "<span class='hostname'/> च्या मालकाने त्यांची वेबसाइट अयोग्य प्रकारे कॉन्फिगर केली आहे. आपली माहिती चोरीला जाऊ नये यासाठी, &brandShortName; ने या संकेतस्थळाशी जोडणी केली नाही.">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "आपण याबद्दल काय करू शकता?">
@@ -108,11 +103,10 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "अंतर्भुत माहिती सुरक्षा धोरणद्वारे रोखले गेले">
 <!ENTITY cspBlocked.longDesc "<p>पृष्ठामध्ये अंतर्भुत माहिती सुरक्षा धोरण आढळल्यामुळे &brandShortName;ने पृष्ठाला याप्रकारे लोड होण्यापासून रोखले.</p>">
 
+
 <!ENTITY corruptedContentErrorv2.title "दोषीत अंतर्भुत माहिती त्रुटी">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>डाटा स्थानांतरनवेळी त्रुटी आढळल्याने दृष्यास्पद पृष्ठ दाखवणे अशक्य आहे.</p><ul><li>या अडचणीविषयी माहिती पूरवण्याकरीता, कृपया संकेतस्थळाच्या मालकांशी संपर्क करा.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "अपवाद जोडा…">
 <!ENTITY securityOverride.exceptionButton1Label "जोखिम स्वीकारा आणि पुढे चालू ठेवा">
 
 <!ENTITY errorReporting.automatic2 "Mozilla ला दुर्भावनायुक्त साईट्स ओळखता यावे साठी व त्यांना अवरोधीत करता यावे यासाठी अश्या प्रकारच्या त्रुटी सादर करा">
@@ -126,14 +120,6 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "सखोल माहिती: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; <span id='wrongSystemTime_URL'/> ला जोडले गेले नाही कारण आपल्या संगणकाचे घड्य़ाळ चुकिची वेळ दर्शवत आहे असे दिसते आणि ही बाब सुरक्षित जोडणी करण्यासाठी अडथळा आणत आहे.</p> <p> आपला संगणक <span id='wrongSystemTime_systemDate'/> या वेळेवर आहे, जो की <span id='wrongSystemTime_actualDate'/> या वेळेवर असायला हवा होता. ही समस्या निवारण्यासाठी, आपली तारीख आणि वेळ बदलून बरोबर करा. </p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; <span id='wrongSystemTimeWithoutReference_URL'/> ला जोडले गेले नाही कारण आपल्या संगणकाचे घड्य़ाळ चुकीची वेळ दर्शवत आहे असे दिसते आणि ही बाब सुरक्षित जोडणी करण्यासाठी अडथळा आणत आहे.</p> <p> आपला संगणक <span id='wrongSystemTimeWithoutReference_systemDate'/> या वेळेवर आहे. ही समस्या निवारण्यासाठी, आपली तारीख आणि वेळ बदलून बरोबर करा.</p>">
-
-<!ENTITY certerror.pagetitle1  "असुरक्षित जोडणी">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ही साईट HTTP वापरते कठोर वाहतूक सुरक्षा (HSTS) असे निर्देशित करते की &brandShortName;हिच्याशी फक्त सुरक्षितपणे जोडणी करू शकतो. परिणामी, या एका प्रमाणपत्रासाठी अपवाद समाविष्ट करणे  शक्य नाही.">
 <!ENTITY certerror.copyToClipboard.label "क्लिपबोर्डमध्ये मजकूरचे प्रत बनवा">
 
 <!ENTITY inadequateSecurityError.title "आपली जोडणी सुरक्षीत नाही">
@@ -148,5 +134,7 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "असे दिसते की आपल्या नेटवर्क सुरक्षा सेटिंग्ज या साठी कारणीभूत असू शकते.आपण पूर्वनिर्धारित सेटिंग्ज पुनर्संचयित करू इच्छिता का?">
 <!ENTITY prefReset.label "पूर्वनिर्धारीत सेटिंग पुनर्स्थापित करा">
+
+<!ENTITY enableTls10.label "TLS 1.0 आणि 1.1 सक्षम करा">
 
 <!ENTITY networkProtocolError.title "नेटवर्क नियमात त्रुटी">
