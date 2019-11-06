@@ -289,3 +289,11 @@ recommended-extensions-heading = शिफारस केलेले विस
 
 ## Page headings
 
+extension-heading = विस्तार व्यवस्थापित करा
+theme-heading = थीम व्यवस्थापित करा
+plugin-heading = प्लगइन व्यवस्थापित करा
+dictionary-heading = शब्दकोश व्यवस्थापित करा
+locale-heading = भाषा व्यवस्थापित करा
+shortcuts-heading = विस्तार शॉर्टकट व्यवस्थापित करा
+theme-heading-search-label = अधिक थीम शोधा
+extension-heading-search-label = अधिक विस्तार शोधा
