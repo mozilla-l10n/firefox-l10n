@@ -160,6 +160,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Dayakan
     .tooltiptext = Dayakan semakan keselamatan kemaskini add-on
+extensions-warning-safe-mode = Semua add-ons telah dinyahdayakan oleh mod selamat.
+extensions-warning-check-compatibility = Pemeriksaan kesesuaian add-on telah dinyahdayakan. Anda mungkin mempunyai add-on yang tidak sesuai.
+extensions-warning-check-compatibility-button = Dayakan
+    .title = Dayakan semakan kesesuaian add-on
+extensions-warning-update-security = Semakan keselamatan kemaskini add-on telah dinyahdayakan. Anda mungkin terdedah kepada bahaya ketika mengemaskini.
+extensions-warning-update-security-button = Dayakan
+    .title = Dayakan semakan keselamatan kemaskini add-on
 
 ## Strings connected to add-on updates
 
