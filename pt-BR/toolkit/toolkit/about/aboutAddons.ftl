@@ -201,6 +201,10 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Ver atualizações recentes
     .accesskey = E
+addon-updates-check-for-updates = Verificar se há atualizações
+    .accesskey = V
+addon-updates-view-updates = Ver atualizações recentes
+    .accesskey = E
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -241,12 +245,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalar atualizações
     .tooltiptext = Instalar as atualizações disponíveis desta lista
+addon-updates-updating = Atualizando as extensões
+addon-updates-installed = Suas extensões foram atualizadas.
 addon-updates-none-found = Nenhuma atualização encontrada
+addon-updates-manual-updates-found = Ver atualizações disponíveis
 
 ## Add-on install/debug strings for page options menu
 
 addon-install-from-file = Instalar de um arquivo…
     .accesskey = I
+addon-install-from-file-dialog-title = Selecionar extensão para instalar
+addon-install-from-file-filter-name = Extensões
 
 ## Extension shortcut management
 
