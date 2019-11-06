@@ -255,6 +255,8 @@ addon-install-from-file = Kiegészítő telepítése fájlból…
     .accesskey = f
 addon-install-from-file-dialog-title = Válassza ki a telepíteni kívánt kiegészítőt
 addon-install-from-file-filter-name = Kiegészítők
+addon-open-about-debugging = Kiegészítők hibakeresése
+    .accesskey = h
 
 ## Extension shortcut management
 
