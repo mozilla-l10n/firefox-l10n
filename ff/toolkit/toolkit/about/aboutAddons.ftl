@@ -121,9 +121,6 @@ legacy-warning-show-legacy = Hollu Jokke donaaɗe
 legacy-extensions =
     .value = Timmite gaadanteeje
 legacy-extensions-description = Ɗee timmitte ɗooftaaki nanondiraaɗe { -brand-short-name } wadde ɗe ndaaƴaama. <label data-l10n-name="legacy-learn-more">Ɓeydu humpito baɗte waylooji ɓeyditte</label>
-extensions-view-discover =
-    .name = Ɗaɓɓu Ɓeyditte
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Kesɗitine Cakkitiiɗe
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -160,12 +157,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Hollir Kesɗitine Cakkitiiɗe
     .accesskey = H
+addon-updates-check-for-updates = Yuurno kesɗitine
+    .accesskey = Y
+addon-updates-view-updates = Hollir Kesɗitine Cakkitiiɗe
+    .accesskey = H
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Hesɗitin Ɓeyditte e Jaajol
+    .accesskey = Ɓ
+addon-updates-update-addons-automatically = Hesɗitin Ɓeyditte e Jaajol
     .accesskey = Ɓ
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -179,6 +182,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = W
 extensions-updates-reset-updates-to-manual =
     .label = Waklit Ɓeyditte Fof yoo Kesɗitino e Junngol
+    .accesskey = W
+addon-updates-reset-updates-to-automatic = Waklit Ɓeyditte Fof yoo Kesɗitino e Jaajol
+    .accesskey = W
+addon-updates-reset-updates-to-manual = Waklit Ɓeyditte Fof yoo Kesɗitino e Junngol
     .accesskey = W
 
 ## Status messages displayed when updating add-ons
@@ -198,3 +205,25 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Aaf Kesɗitine
     .tooltiptext = Aaf kesɗitine goodaaɗe e ngol doggol
+addon-updates-installed = Ɓeyditte maa kesɗitinaama.
+addon-updates-none-found = Alaa kesɗitine njiytaa
+addon-updates-manual-updates-found = Hollir Kesɗitine Goodaaɗe
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-filter-name = Ɓeyditte
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
