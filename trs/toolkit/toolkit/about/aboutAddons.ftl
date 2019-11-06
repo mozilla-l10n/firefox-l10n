@@ -189,12 +189,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Ni'iaj nej sa hìaj nahuin nakà
     .accesskey = V
+addon-updates-check-for-updates = Nana'uì' sa Nahuin nakà doj
+    .accesskey = C
+addon-updates-view-updates = Ni'iaj nej sa hìaj nahuin nakà
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Dunaj nahuin nakà ma'an nej komplemênto
+    .accesskey = A
+addon-updates-update-addons-automatically = Dunaj nahuin nakà ma'an nej komplemênto
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -208,6 +214,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = Na'nïnj ñû daran' nej komplemênto da' ga'ue nagi'iaj nakà nej man
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = Na'nïnj ñû daran' nej komplemênto da' ga'ue nahuin nakà ma'an nej man
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Na'nïnj ñû daran' nej komplemênto da' ga'ue nagi'iaj nakà nej man
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -227,15 +237,27 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Ga'nïnj nej sa nakà doj
     .tooltiptext = Ga'nïn nej sa ga'ue nahuin nakà nu riña lsita nan
+addon-updates-updating = Sa nagi'iaj nakà nej komplemênto
+addon-updates-installed = Ngà nahuin nakà nej si komplementôt.
+addon-updates-none-found = Nu nari'ìj nej sa nahuin nakàa
+addon-updates-manual-updates-found = Ni'iaj nej sa ga'ue nahuin nakà
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Ga'nïnj Komplemênto asij riña archibô…
+    .accesskey = I
+addon-install-from-file-dialog-title = Nagui komplemento ruhuât ga'nïnjt
 addon-install-from-file-filter-name = Sa rugu ñunúnj
+addon-open-about-debugging = Nej komplemênto nagi'iaj depurandô
+    .accesskey = B
 
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
     .label = Ni'iaj dàj nagi'iát riña ekstensiûn
+    .accesskey = S
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Ni'iaj dàj nagi'iát riña ekstensiûn
     .accesskey = S
 shortcuts-no-addons = Nitaj ngà' si 'ngo ekstensiûn 'iaj sun 'iát.
 shortcuts-no-commands = Nitaj a'ngô nùhuin si hua riña nej ekstensiûn nan:
@@ -365,3 +387,14 @@ recommended-theme-1 = Ûta hua sa ahui ràt ruhuâ raj? <a data-l10n-name="link"
 
 ## Page headings
 
+extension-heading = Nanà'uì' nej si extensiûnt
+theme-heading = Nanaà'ui' nej si temât
+plugin-heading = Nanà'uì' nej sa nutà't doj
+dictionary-heading = Nanà'uì' nej si diksionariôt
+locale-heading = Nanà'uì' nej si nuguàn't
+discover-heading = Nagi'iaj dàj garan' ruhuât si { -brand-short-name }
+shortcuts-heading = Dugumîn nej akseso direkto riña nej ekstensiûn
+theme-heading-search-label = Narì't doj têma
+extension-heading-search-label = Narì't doj extensiûn
+addons-heading-search-input =
+    .placeholder = Nana'uì' addons.mozilla.org
