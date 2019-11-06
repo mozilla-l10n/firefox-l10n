@@ -435,3 +435,5 @@ recommended-theme-1 = Ste ustvarjalno razpoloženi? <a data-l10n-name="link">Ust
 
 ## Page headings
 
+theme-heading-search-label = Poišči več tem
+extension-heading-search-label = Poišči več razširitev
