@@ -377,3 +377,5 @@ recommended-theme-1 = احساس خلاقیت می کنید؟ <a data-l10n-name=
 
 ## Page headings
 
+addons-heading-search-input =
+    .placeholder = جست‌ و جو addons.mozilla.org
