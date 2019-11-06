@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Увесь экран
     .accesskey = У
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Паказаць усе карткі
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Паведаміць аб падробленым сайце…
     .accesskey = П
+menu-help-not-deceptive =
+    .label = Гэта не падманлівы сайт…
+    .accesskey = в
