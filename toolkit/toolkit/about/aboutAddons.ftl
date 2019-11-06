@@ -191,6 +191,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Последни обновявания
     .accesskey = о
+addon-updates-check-for-updates = Проверка за обновяване
+    .accesskey = П
 addon-updates-view-updates = Последни обновявания
     .accesskey = о
 
@@ -238,6 +240,8 @@ extensions-updates-update-selected =
     .label = Инсталиране на обновявания
     .tooltiptext = Инсталиране на наличните обновявания от този списък
 addon-updates-updating = Обновяване на добавките
+addon-updates-installed = Добавките са обновени.
+addon-updates-none-found = Не са открити обновявания
 addon-updates-manual-updates-found = Показване на наличните обновявания
 
 ## Add-on install/debug strings for page options menu
@@ -253,6 +257,9 @@ addon-open-about-debugging = Дебъгване на добавки
 
 manage-extensions-shortcuts =
     .label = Управление на клавишните комбинации на разширението
+    .accesskey = к
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Управление на клавишните комбинации на разширението
     .accesskey = к
 shortcuts-no-addons = Нямате включени разширения.
 shortcuts-no-commands = Следните разширения нямат клавишни комбинации:
@@ -382,3 +389,13 @@ recommended-themes-heading = Препоръчани теми
 
 ## Page headings
 
+extension-heading = Управление на добавките
+theme-heading = Управление на теми
+plugin-heading = Управление на приставки
+dictionary-heading = Управление на речници
+locale-heading = Управление на езици
+shortcuts-heading = Управление на клавишните комбинации на разширението
+theme-heading-search-label = Още теми
+extension-heading-search-label = Още разширения
+addons-heading-search-input =
+    .placeholder = търсене в addons.mozilla.org
