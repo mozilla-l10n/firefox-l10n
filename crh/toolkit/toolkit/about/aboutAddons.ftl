@@ -95,7 +95,6 @@ detail-update-manual =
     .tooltiptext = Yañartmalarnı öz-özünden qurma
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Hususiy Pencerelerde Çaptır
-detail-private-browsing-description = Uzantı Hususiy Pencerelerde çalışacaq ve hat-üstü faaliyetleriñizge irişimi olacaq. <label data-l10n-name="detail-private-browsing-learn-more">Daha çoq ögren</label>iñiz
 detail-private-browsing-on =
     .label = İzin Ber
     .tooltiptext = Hususiy Seyranda Qabilleştir
@@ -147,9 +146,6 @@ legacy-extensions-description = Bu uzantılar cari { -brand-short-name } standar
 private-browsing-description2 =
     { -brand-short-name } uzantılarnıñ hususiy seyranda nasıl çalışqanını deñiştire. { -brand-short-name } içine eklegeniñiz er angi yañı eklentiler ögbelgilengen olaraq Hususiy Pencerelerde çapmaycaq. Ayarlarda oña izin bermegeniñiz taqdirde, uzantı hususiy seyranda olğanda çalışmaycaq ve andaki hat-üstü faaliyetleriñizge irişimi olmaycaq.
     <label data-l10n-name="private-browsing-learn-more">Uzantı ayarlarınıñ nasıl idare etilgenini ögreniñiz.</label>
-extensions-view-discover =
-    .name = Eklentilerni Elde Et
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Deminki Yañartmalar
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -186,12 +182,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Deminki Yañartmalarğa Baq
     .accesskey = B
+addon-updates-check-for-updates = Yañartmalar içün Teşker
+    .accesskey = T
+addon-updates-view-updates = Deminki Yañartmalarğa Baq
+    .accesskey = B
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Eklentilerni Öz-özünden Yañart
+    .accesskey = z
+addon-updates-update-addons-automatically = Eklentilerni Öz-özünden Yañart
     .accesskey = z
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -205,6 +207,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = S
 extensions-updates-reset-updates-to-manual =
     .label = Episi Eklentilerni Elnen Yañartılmaq Üzre Sıfırla
+    .accesskey = S
+addon-updates-reset-updates-to-automatic = Episi Eklentilerni Öz-özünden Yañartılmaq Üzre Sıfırla
+    .accesskey = S
+addon-updates-reset-updates-to-manual = Episi Eklentilerni Elnen Yañartılmaq Üzre Sıfırla
     .accesskey = S
 
 ## Status messages displayed when updating add-ons
@@ -224,13 +230,28 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Yañartmalarnı Qur
     .tooltiptext = Bu listedeki faydalanışlı yañartmalarnı qur
+addon-updates-updating = Eklentiler yañartıla
+addon-updates-installed = Eklentileriñiz yañartılğandır.
+addon-updates-none-found = Tapılğan yañartmalar yoq
+addon-updates-manual-updates-found = Faydalanışlı Yañartmalarğa Baq
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Dosyeden Eklenti Qur…
+    .accesskey = Q
+addon-install-from-file-dialog-title = Qurulacaq eklentini saylañız
+addon-install-from-file-filter-name = Eklentiler
+addon-open-about-debugging = Eklentilerni İlletsizleştir
+    .accesskey = s
 
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
     .label = Eklenti Qısqayollarını İdare Et
     .accesskey = r
-shortcuts-empty-message = Bu eklenti içün qısqayollar yoq.
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Eklenti Qısqayollarını İdare Et
+    .accesskey = r
 shortcuts-no-addons = Qabilleştirilgen er angi bir eklentiñiz yoq.
 shortcuts-no-commands = Aşağıdaki uzantılarnıñ qısqayolları yoq:
 shortcuts-input =
@@ -252,6 +273,9 @@ shortcuts-card-collapse-button = Daha Az Köster
 go-back-button =
     .tooltiptext = Keri bar
 
+## Recommended add-ons page
+
+
 ## Add-on actions
 
 remove-addon-button = Çetleştir
@@ -259,3 +283,19 @@ disable-addon-button = Naqabilleştir
 enable-addon-button = Qabilleştir
 addons-enabled-heading = Qabilleştirilgen
 addons-disabled-heading = Naqabilleştirilgen
+
+## Pending uninstall message bar
+
+
+## Page headings
+
+extension-heading = Eklentileriñizni İdare Etiñiz
+theme-heading = Temalarıñıznı İdare Etiñiz
+plugin-heading = Plaginleriñizni İdare Etiñiz
+dictionary-heading = Luğatlarıñıznı İdare Etiñiz
+locale-heading = Tilleriñizni İdare Etiñiz
+shortcuts-heading = Eklenti Qısqa-yollarını İdare Etiñiz
+theme-heading-search-label = Daa çoq temalar tap
+extension-heading-search-label = Daa çoq eklentiler tap
+addons-heading-search-input =
+    .placeholder = addons.mozilla.org’da qıdır
