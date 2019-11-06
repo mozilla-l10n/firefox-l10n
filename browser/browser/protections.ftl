@@ -5,20 +5,25 @@
 protection-report-page-title = गोपनीयता संरक्षण
 protection-report-content-title = गोपनीयता संरक्षण
 etp-card-title = वर्धित ट्रॅकिंग संरक्षण
+protection-report-manage-protections = सेटिंग व्यवस्थापित करा
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = आज
+# This string is used to describe the graph for screenreader users.
+graph-legend-description = या आठवड्यात अडवलेल्या प्रत्येक प्रकारच्या ट्रॅकरची एकूण संख्या असलेला आलेख.
 social-tab-title = सोशल मीडिया ट्रॅकर
 cookie-tab-title = क्रॉस-साईट ट्रॅकिंग कुकी
 tracker-tab-title = ट्रॅकिंग मजकूर
 fingerprinter-tab-title = फिंगरप्रिंटर
 cryptominer-tab-title = क्रिप्टोमाइनर
+lockwise-title = पुन्हा कधीही पासवर्ड विसरू नका
 lockwise-title-logged-in = { -lockwise-brand-name }
 protection-report-view-logins-button = लॉगिन पहा
     .title = जतन लॉगिन वर जा
 turn-on-sync = { -sync-brand-short-name } चालू करा…
     .title = सिंक प्राधान्यतावर जा
 manage-devices = उपकरणे व्यवस्थापित करा
+monitor-title = माहिती उल्लंघनावर लक्ष ठेवा.
 monitor-link = हे कसे कार्य करते
 auto-scan = आज स्वयंचलितपणे स्कॅन केले
 

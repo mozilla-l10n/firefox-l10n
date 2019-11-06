@@ -7,3 +7,4 @@ fxa-toolbar-sync-syncing =
 fxa-toolbar-sync-syncing-tabs =
     .label = टॅबचे ताळमेळ करत आहे…
 sync-disconnect-dialog-title = { -sync-brand-short-name } जोडणी तोडायची?
+sync-disconnect-dialog-button = जोडणी तोडा

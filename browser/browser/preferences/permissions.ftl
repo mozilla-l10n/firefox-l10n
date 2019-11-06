@@ -63,7 +63,11 @@ permissions-invalid-uri-label = कृपया वैध यजमान ना
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-content-blocking-window =
+    .title = अपवाद - मजकूर अवरोधन
+    .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = आपण या साइटसाठी मजकूर अवरोधित करणे निष्क्रिय केले आहे.
+permissions-exceptions-etp-desc = आपण या वेबसाइटवर संरक्षण बंद केले आहे.
 
 ## Exceptions - Cookies
 

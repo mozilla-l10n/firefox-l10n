@@ -76,12 +76,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "मेन्यू पट्टी">
 <!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "संचारन साधनपट्टी">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "संचारन">
 <!ENTITY personalbarCmd.label "वाचनखूणा साधनपट्टी">
 <!ENTITY personalbarCmd.accesskey "B">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "वाचनखूणा">
 <!ENTITY bookmarksToolbarItem.label "साधनपट्टीतील घटकांना वाचनखूण लावा">
 
 <!ENTITY pageSourceCmd.label "पृष्ठाचे स्रोत">
 <!ENTITY pageSourceCmd.accesskey "o">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "पृष्ठाची माहिती">
 <!ENTITY pageInfoCmd.accesskey "I">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "लेआऊट डिबगर">
 <!ENTITY ldbCmd.accesskey "L">
@@ -117,6 +127,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "आपले खाते सत्यापित करा">
 
 
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+
 <!ENTITY fullScreenMinimize.tooltip "छोटे करा">
 <!ENTITY fullScreenRestore.tooltip "पूर्वस्थितीत आणा">
 <!ENTITY fullScreenClose.tooltip "बंद करा">
@@ -137,22 +150,35 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "सिंक करण्यापूर्वी आपल्याला आपले खाते सत्यापित करणे आवश्यक आहे.">
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; सेटिंग उघडा…">
 
+<!ENTITY pictureInPictureHideToggle.label "पिक्चर-इन-पिक्चर टॉगल लपवा">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
+
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "म्हणून साइन इन">
 <!ENTITY fxa.menu.manageAccount.label "खाते व्यवस्थापित करा…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; सेटिंग…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; सेटिंग">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "अन्य उपकरण जोडा…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "&brandProductName; मध्ये साइन इन करा">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label; चालू करा;">
+<!ENTITY fxa.menu.firefoxServices.label "&brandProductName; सेवा">
+
 <!ENTITY fxa.menu.account.label "खाते">
+<!ENTITY fxa.menu.settings.label "सेटिंग">
+<!ENTITY fxa.menu.accountSettings.label "खाते सेटिंग">
+<!ENTITY fxa.menu.signOut.label "साइन आउट करा…">
+<!ENTITY fxa.menu.deviceSettings.label "उपकरण सेटिंग">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.send.launch "लाँच करा &sendShortName;">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -191,6 +217,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "वाचनखुणा">
 <!ENTITY bookmarksMenu.accesskey "B">
+
 <!ENTITY bookmarkThisPageCmd.label "या पृष्ठास वाचनखूण लावा">
 <!ENTITY editThisBookmarkCmd.label "ही वाचनखूण संपादीत करा">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -232,6 +259,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "प्लग-इनचा वापर व्यवस्थापित करा">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "साईटने आपल्याला सूचना दर्शवाव्या किंवा कसे यासाठी योग्य बदल करा">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "पर्सिस्टन्ट स्टोरेजमध्ये माहिती साठवा">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ब्राउझर दूरस्थ नियंत्रणामध्ये आहे">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "वेब अनुज्ञापन फलक उघडा">
 
@@ -245,6 +273,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM सॉफ्टवेअर वापराचे व्यवस्थापन करा">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI पटल उघडा">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "आपण ह्या वेबसाईटसाठी आपला कॅमेरा अवरोधित केला आहे.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "आपण ह्या वेबसाईटसाठी आपला मायक्रोफोन अवरोधित केला आहे.">
 <!ENTITY urlbar.screenBlocked.tooltip            "ह्या वेबसाईटला आपण आपली स्क्रीन शेअर करण्यापासून अवरोधित केले आहे.">
@@ -255,6 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "आपण ह्या वेबसाइटसाठी कॅनव्हास डेटा उतारा अवरोधित केला आहे.">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "ह्या संकेतस्थळाला आपण Adobe Flash प्लगिन वापरण्यापासून अवरोधित केले आहे.">
 <!ENTITY urlbar.midiBlocked.tooltip              "या संकेतस्थळासाठी MIDI वापर अवरोधित केला आहे.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास दाखवा">
 
@@ -387,6 +417,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "ताजे इतिहास नष्ट करा…">
 <!ENTITY appMenuHistory.restoreSession.label "मागील सत्र पूर्वस्थितीत आणा">
 <!ENTITY appMenuHistory.viewSidebar.label "इतिहास बाजूच्यापट्टीचे दृष्य">
+<!ENTITY appMenuHistory.hideSidebar.label "इतिहास साइडबार लपवा">
 <!ENTITY appMenuHistory.recentHistory.label "ताजा इतिहास">
 <!ENTITY appMenuHelp.label "मदत">
 
@@ -438,6 +469,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "आणखी घटक समाविष्ट करा…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "टूलबारमध्ये स्वयं-लपवा">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "एक्सटेन्शन व्यवस्थापित करा">
 <!ENTITY customizeMenu.manageExtension.accesskey "E">
@@ -446,6 +478,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "विस्ताराची तक्रार करा">
 <!ENTITY customizeMenu.reportExtension.accesskey "o">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -497,6 +530,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "शोधण्यासाठी संज्ञा">
+
 <!ENTITY contentSearchSubmit.tooltip  "शोध संकलित करा">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -524,6 +558,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "सह शोधा:">
+
+<!-- LOCALIZATION NOTE (searchWithDesc.label):
+     This string prompts the user to use the list of one-click search engines in
+     the Urlbar and searchbar. -->
+<!ENTITY searchWithDesc.label         "यावेळी, यासह शोधा:">
+
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -795,18 +835,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "जोडणी">
 <!ENTITY identity.connectionSecure "सुरक्षित जोडणी">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-
 <!ENTITY identity.connectionNotSecure "जोडणी असुरक्षित आहे">
+
+<!ENTITY identity.connectionSecure3 "जोडणी सुरक्षित">
+<!ENTITY identity.connectionNotSecure2 "असुरक्षित जोडणी">
 <!ENTITY identity.connectionFile "हे पृष्ठ आपल्या संगणकावर संचयीत केले गेले आहे.">
 <!ENTITY identity.connectionVerified2 ":द्वारे चालवण्यात येणाऱ्या साईटला आपण सुरक्षितपणे जुळलेले आहात">
 <!ENTITY identity.connectionInternal "हे सुरक्षित &brandShortName; पृष्ठ आहे.">
 <!ENTITY identity.extensionPage "हे पृष्ठ एका विस्तारापासून लोड केलेले आहे.">
 <!ENTITY identity.insecureLoginForms2 "आपण ह्या पृष्ठावर दिलेल्या लॉग इन माहितीबरोबर तडजोड होऊ शकते.">
 
-<!ENTITY identity.evOwnerLabel "यांच्या मालकीची साइट:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ने ह्या पृष्ठावरील काही असुरक्षित भाग अडवले आहेत.">
@@ -841,15 +879,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "परवानगी">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "प्रस्थापित परवानग्या">
 <!ENTITY identity.permissionsEmpty "आपण ह्या साईटला काही विशेष परवानग्या दिलेल्या नाहीत.">
 <!ENTITY identity.permissionsReloadHint "आपल्याला बदल लागू करण्यासाठी पृष्ठ पुन्हा लोड करावे लागू शकते.">
 <!ENTITY identity.permissionsPreferences.tooltip "परवानग्या प्राधान्ये उघडा">
 <!ENTITY identity.contentBlockingPreferences.tooltip "मजकूर अवरोधन प्राधान्यता उघडा">
 
 
-<!ENTITY protections.report.label "पूर्ण अहवाल दर्शवा">
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -866,9 +903,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.videos "व्हिडीओ">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "अहवाल पाठवा">
 
-<!ENTITY protections.blocking.label "अवरोधन">
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "का?">
-
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -907,21 +951,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "ट्रॅकर">
 
-
 <!ENTITY contentBlocking.manageSettings.label "मजकूर अवरोधन व्यवस्थापित करा">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "ट्रॅकर">
-
 
 <!ENTITY contentBlocking.cookies.label "कुकीज">
 <!ENTITY contentBlocking.cookiesView.label "कुकीज आणि साईट माहिती">
 
 
 
+
+
+
+
 <!ENTITY contentBlocking.openBreakageReportView2.label "समस्या नोंदवा">
 <!ENTITY contentBlocking.breakageReportView.label "समस्या अहवाल द्या">
 <!ENTITY contentBlocking.breakageReportView.learnMore "अधिक जाणून घ्या">
+
 <!ENTITY contentBlocking.breakageReportView.title "एक तुटलेली साइट नोंदवा">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "अधिक जाणा">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
@@ -974,6 +1021,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.disableButton.label "विस्तारण बंद करा">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
+
 
 <!ENTITY homepageControlled.header.message "आपले मुख्यपृष्ठ बदलले आहे.">
 <!ENTITY homepageControlled.keepButton.label "बदल जतन करा">

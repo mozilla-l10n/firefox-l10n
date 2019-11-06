@@ -9,6 +9,13 @@ appmenuitem-protection-report-title = गोपनीयता संरक्�
 appmenuitem-protection-report-tooltip =
     .tooltiptext = आपल्या गोपनीयता अहवालावर जा
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = मोठे करा
+appmenuitem-zoom-reduce =
+    .label = छोटे करा
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
