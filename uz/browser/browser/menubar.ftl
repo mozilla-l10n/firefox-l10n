@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Butun ekran
     .accesskey = B
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Barcha ichki oynalarni ko‘rsatish
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Qalbaki sayt haqida xabar berish…
     .accesskey = Q
+menu-help-not-deceptive =
+    .label = Bu sayt qalbaki emas…
+    .accesskey = d
