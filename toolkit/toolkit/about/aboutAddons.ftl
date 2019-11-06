@@ -204,6 +204,8 @@ addon-updates-view-updates = Gweld Diweddariadau Diweddar
 extensions-updates-update-addons-automatically =
     .label = Diweddaru Ychwanegion yn Awtomatig
     .accesskey = A
+addon-updates-update-addons-automatically = Diweddaru Ychwanegion yn Awtomatig
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -216,6 +218,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = P
 extensions-updates-reset-updates-to-manual =
     .label = Ailosod Pob Ychwanegyn i Ddiweddaru gyda Llaw
+    .accesskey = L
+addon-updates-reset-updates-to-automatic = Ailosod Pob Ychwanegyn i'w Diweddaru'n Awtomatig
+    .accesskey = P
+addon-updates-reset-updates-to-manual = Ailosod Pob Ychwanegyn i Ddiweddaru gyda Llaw
     .accesskey = L
 
 ## Status messages displayed when updating add-ons
@@ -242,6 +248,8 @@ addon-updates-manual-updates-found = Gweld Diweddariadau ar Gael
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Gosod Ychwanegyn o Ffeil…
+    .accesskey = G
 addon-install-from-file-dialog-title = Dewis ategyn i'w osod
 addon-install-from-file-filter-name = Ychwanegion
 addon-open-about-debugging = Dadfygio Ychwanegion
