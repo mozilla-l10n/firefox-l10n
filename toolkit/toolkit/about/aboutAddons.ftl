@@ -268,6 +268,9 @@ addon-open-about-debugging = Ladiť doplnky
 manage-extensions-shortcuts =
     .label = Spravovať klávesové skratky pre rozšírenia
     .accesskey = n
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Spravovať klávesové skratky pre rozšírenia
+    .accesskey = n
 shortcuts-no-addons = Nemáte povolené žiadne rozšírenie.
 shortcuts-no-commands = Nasledujúce rozšírenia nemajú skratky:
 shortcuts-input =
@@ -438,3 +441,14 @@ recommended-theme-1 = Ste tvoriví? <a data-l10n-name="link">Vytvorte si svoju v
 
 ## Page headings
 
+extension-heading = Spravujte svoje rozšírenia
+theme-heading = Spravujte svoje témy vzhľadu
+plugin-heading = Spravujte svoje zásuvné moduly
+dictionary-heading = Spravujte svoje slovníky
+locale-heading = Spravujte svoje jazyky
+discover-heading = Prispôsobte si { -brand-short-name }
+shortcuts-heading = Správa klávesových skratiek pre rozšírenia
+theme-heading-search-label = Nájdite ďalšie témy vzhľadu
+extension-heading-search-label = Nájdite ďalšie rozšírenia
+addons-heading-search-input =
+    .placeholder = Hľadať na addons.mozilla.org
