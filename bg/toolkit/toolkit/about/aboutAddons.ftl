@@ -182,6 +182,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Включване
     .tooltiptext = Включване на проверка за безопасност на обновяването на добавки
+extensions-warning-safe-mode = Всички добавки са изключени от Надеждния режим.
+extensions-warning-check-compatibility = Проверката за съвместимост на добавките е изключена. Възможно е да имате несъвместими добавки.
+extensions-warning-check-compatibility-button = Включване
+    .title = Включване на проверка за съвместимост на добавки
+extensions-warning-update-security = Проверката за безопасност на обновяването на добавки е изключена. Възможно е системата да се компрометира от добавки.
+extensions-warning-update-security-button = Включване
+    .title = Включване на проверка за безопасност на обновяването на добавки
 
 ## Strings connected to add-on updates
 
