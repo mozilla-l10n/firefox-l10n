@@ -247,6 +247,8 @@ addon-install-from-file = 파일에서 부가 기능 설치…
     .accesskey = I
 addon-install-from-file-dialog-title = 설치할 부가 기능 선택
 addon-install-from-file-filter-name = 부가 기능
+addon-open-about-debugging = 부가 기능 디버그
+    .accesskey = B
 
 ## Extension shortcut management
 
