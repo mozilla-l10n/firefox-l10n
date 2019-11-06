@@ -198,12 +198,16 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Εμφάνιση πρόσφατων ενημερώσεων
     .accesskey = φ
+addon-updates-check-for-updates = Έλεγχος για ενημερώσεις
+    .accesskey = χ
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Αυτόματη ενημέρωση προσθέτων
+    .accesskey = Α
+addon-updates-update-addons-automatically = Αυτόματη ενημέρωση προσθέτων
     .accesskey = Α
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -217,6 +221,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = Ρ
 extensions-updates-reset-updates-to-manual =
     .label = Ρύθμιση όλων των προσθέτων σε χειροκίνητη ενημέρωση
+    .accesskey = χ
+addon-updates-reset-updates-to-automatic = Ρύθμιση όλων των προσθέτων σε αυτόματη ενημέρωση
+    .accesskey = Ρ
+addon-updates-reset-updates-to-manual = Ρύθμιση όλων των προσθέτων σε χειροκίνητη ενημέρωση
     .accesskey = χ
 
 ## Status messages displayed when updating add-ons
@@ -236,6 +244,9 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Εγκατάσταση ενημερώσεων
     .tooltiptext = Εγκατάσταση των διαθέσιμων ενημερώσεων σε αυτή τη λίστα
+
+## Add-on install/debug strings for page options menu
+
 
 ## Extension shortcut management
 
@@ -401,3 +412,6 @@ recommended-themes-heading = Προτεινόμενα θέματα
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Αισθάνεστε δημιουργικοί; <a data-l10n-name="link">Δημιουργήστε το δικό σας θέμα με το Firefox Color.</a>
+
+## Page headings
+
