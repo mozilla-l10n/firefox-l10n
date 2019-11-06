@@ -115,9 +115,6 @@ disabled-unsigned-heading =
     .value = Maai kãajãhnxisa' kçxhaçxanimeek neyũu.
 disabled-unsigned-description = Yaçkawe'sxa's kãajanxisa' ki'h thẽgnximee neyũutxna idx vxisnxisa' { -brand-short-name }.Ewuma'kh.<label data-l10n-name="find-addons">Uyna yu'pthẽhna</label>meeçxa' papẽhyna mjĩsa's ki'h thẽgya'.
 disabled-unsigned-learn-more = Thakwe jiyuya kwesx çxaçxa yatxnxisatx pu'çxjxa phuphwaja's txa dxi'the.
-extensions-view-discover =
-    .name = Ji'phunxi's kãajã'na
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Ãçxhtewe'sxa's yu'pthẽhna
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -154,12 +151,16 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = U'sesatx thehgwa'ja's yu'thẽhna
     .accesskey = U
+addon-updates-view-updates = U'sesatx thehgwa'ja's yu'thẽhna
+    .accesskey = U
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Yu'pthẽhna kãajãwa'ja's txãaiçxa's
+    .accesskey = Y
+addon-updates-update-addons-automatically = Yu'pthẽhna kãajãwa'ja's txãaiçxa's
     .accesskey = Y
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -173,6 +174,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = P
 extensions-updates-reset-updates-to-manual =
     .label = Phewuhn jxuka kãajãnxisatx ki'ki'n yu'pthẽhn kuse vxinxisatx
+    .accesskey = P
+addon-updates-reset-updates-to-automatic = Phewu'hn jxuka kãajãhnxisaatx ki´h txãaiçxaa yu'pthẽhn.
+    .accesskey = P
+addon-updates-reset-updates-to-manual = Phewuhn jxuka kãajãnxisatx ki'ki'n yu'pthẽhn kuse vxinxisatx
     .accesskey = P
 
 ## Status messages displayed when updating add-ons
@@ -192,3 +197,31 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Çxkitxan yu'pthẽwa'ja's
     .tooltiptext = Çxkitxan yu'pthẽhn een jipthu na's kãajãdaya'
+addon-updates-updating = Kãajã'hna ki'h yu'pthẽwa'ja's
+addon-updates-installed = Idx kãajãnxisa' yu'thẽnxiya' ũsa'.
+addon-updates-none-found = Yu´pthẽwa'ja's uymeeta'
+addon-updates-manual-updates-found = Thẽgna yu'pthẽwa'ja's een ji'phsa's
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Çxkitxãn manentey eç jxawnisa's kãajãhna...
+    .accesskey = Ç
+addon-install-from-file-dialog-title = Txhitxna naa kãajãhnxisa' çxkitxana
+addon-install-from-file-filter-name = Kãajãhwa'j
+addon-open-about-debugging = Yatenxi's kãajãhna
+    .accesskey = Y
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
