@@ -148,6 +148,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Daaƴtu
     .tooltiptext = Daaƴtu ƴeewtagol kisnal ɓeyditte
+extensions-warning-safe-mode = Mbayka kisnal daaƴii ɓeyditte fof.
+extensions-warning-check-compatibility = Ƴeewtagol jaaɓdugol ɓeyditte koko daaƴaa. Aɗa waawi jogaade ɓeyditte ɗe njaaɓaani.
+extensions-warning-check-compatibility-button = Daaƴtu
+    .title = Daaƴtu ƴeewtagol jaaɓdugol ɓeyditte
+extensions-warning-update-security = Ƴeewtagol kisnal ɓeyditte koko daaƴaa. Aɗa waawi heɓde caɗe e kesɗitine.
+extensions-warning-update-security-button = Daaƴtu
+    .title = Daaƴtu ƴeewtagol kisnal ɓeyditte
 
 ## Strings connected to add-on updates
 
