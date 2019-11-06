@@ -250,3 +250,5 @@ addon-detail-updates-radio-off = بند کریں
 
 ## Page headings
 
+addons-heading-search-input =
+    .placeholder = addons.mozilla.org تلاش کریں
