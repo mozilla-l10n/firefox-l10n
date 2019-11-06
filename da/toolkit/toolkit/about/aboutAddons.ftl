@@ -272,6 +272,9 @@ addon-open-about-debugging = Debug udvidelser
 manage-extensions-shortcuts =
     .label = Håndter genveje til udvidelser
     .accesskey = H
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Håndter genveje til udvidelser
+    .accesskey = H
 shortcuts-no-addons = Du har ikke aktiveret nogen udvidelser.
 shortcuts-no-commands = Følgende udvidelser han ingen genveje:
 shortcuts-input =
@@ -440,3 +443,14 @@ recommended-theme-1 = Er du i det kreative hjørne? <a data-l10n-name="link">Byg
 
 ## Page headings
 
+extension-heading = Håndter dine udvidelser
+theme-heading = Håndter dine temaer
+plugin-heading = Håndter dine plugins
+dictionary-heading = Håndter dine ordbøger
+locale-heading = Håndter dine sprog
+discover-heading = Tilpas { -brand-short-name }
+shortcuts-heading = Håndter genveje til dine udvidelser
+theme-heading-search-label = Find flere temaer
+extension-heading-search-label = Find flere udvidelser
+addons-heading-search-input =
+    .placeholder = Søg på addons.mozilla.org
