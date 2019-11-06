@@ -256,6 +256,8 @@ addon-updates-manual-updates-found = Переглянути доступні о�
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Встановити додаток з файлу…
+    .accesskey = В
 addon-install-from-file-dialog-title = Виберіть додаток для встановлення
 addon-install-from-file-filter-name = Додатки
 
@@ -263,6 +265,9 @@ addon-install-from-file-filter-name = Додатки
 
 manage-extensions-shortcuts =
     .label = Керувати комбінаціями клавіш розширень
+    .accesskey = б
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Керувати комбінаціями клавіш розширень
     .accesskey = б
 shortcuts-no-addons = У вас не увімкнено жодного розширення.
 shortcuts-no-commands = Такі розширення не мають комбінацій клавіш:
@@ -432,3 +437,14 @@ recommended-theme-1 = Відчуваєте творче натхнення? <a d
 
 ## Page headings
 
+extension-heading = Керуйте своїми розширеннями
+theme-heading = Керуйте своїми темами
+plugin-heading = Керуйте своїми плагінами
+dictionary-heading = Керуйте своїми словниками
+locale-heading = Керуйте своїми мовами
+discover-heading = Персоналізуйте свій { -brand-short-name }
+shortcuts-heading = Керувати комбінаціями клавіш розширень
+theme-heading-search-label = Знайти інші теми
+extension-heading-search-label = Знайти інші розширення
+addons-heading-search-input =
+    .placeholder = Пошук на addons.mozilla.org
