@@ -225,6 +225,8 @@ addon-install-from-file = फ़ाइल से सहयुक्ति सं
     .accesskey = I
 addon-install-from-file-dialog-title = संस्थापित करने के लिए सहयुक्ति चुनें
 addon-install-from-file-filter-name = सहयुक्तियाँ
+addon-open-about-debugging = सहयुक्ति दोषसुधार
+    .accesskey = b
 
 ## Extension shortcut management
 
