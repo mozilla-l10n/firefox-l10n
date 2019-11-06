@@ -198,12 +198,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Ver actualizaciones recientes
     .accesskey = V
+addon-updates-check-for-updates = Buscar actualizaciones
+    .accesskey = c
+addon-updates-view-updates = Ver actualizaciones recientes
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Actualizar complementos automáticamente
+    .accesskey = A
+addon-updates-update-addons-automatically = Actualizar complementos automáticamente
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -217,6 +223,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = Reiniciar todos los complementos a actualización manual
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = Reiniciar todos los complementos a actualización automática
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Reiniciar todos los complementos a actualización manual
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -236,11 +246,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalar actualizaciones
     .tooltiptext = Instalar las actualizaciones disponibles en esta lista
+addon-updates-updating = Actualizando complementos
+addon-updates-none-found = No se encontraron actualizaciones
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Instalar complemento desde archivo…
+    .accesskey = I
 addon-install-from-file-dialog-title = Selecionar complemento para instalar
 addon-install-from-file-filter-name = Complemento
+addon-open-about-debugging = Depurar complementos
+    .accesskey = D
 
 ## Extension shortcut management
 
@@ -413,3 +429,12 @@ recommended-theme-1 = ¿Se siente creativo? <a data-l10n-name="link"> Cree su pr
 
 ## Page headings
 
+extension-heading = Administrar extensiones
+theme-heading = Administrar temas
+plugin-heading = Administrar plugins
+dictionary-heading = Administrar diccionarios
+locale-heading = Administrar idiomas
+theme-heading-search-label = Encontrar mas temas
+extension-heading-search-label = Encontrar mas extensiones
+addons-heading-search-input =
+    .placeholder = Buscar en addons.mozilla.org
