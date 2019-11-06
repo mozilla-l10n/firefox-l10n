@@ -196,12 +196,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Показать недавние обновления
     .accesskey = к
+addon-updates-check-for-updates = Проверить наличие обновлений
+    .accesskey = о
+addon-updates-view-updates = Показать недавние обновления
+    .accesskey = к
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Автоматически обновлять дополнения
+    .accesskey = в
+addon-updates-update-addons-automatically = Автоматически обновлять дополнения
     .accesskey = в
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -215,6 +221,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = с
 extensions-updates-reset-updates-to-manual =
     .label = Установить для всех дополнений режим ручного обновления
+    .accesskey = с
+addon-updates-reset-updates-to-automatic = Установить для всех дополнений режим автоматического обновления
+    .accesskey = с
+addon-updates-reset-updates-to-manual = Установить для всех дополнений режим ручного обновления
     .accesskey = с
 
 ## Status messages displayed when updating add-ons
@@ -234,6 +244,19 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Установить обновления
     .tooltiptext = Установить доступные обновления из этого списка
+addon-updates-updating = Обновление дополнений
+addon-updates-installed = Ваши дополнения были обновлены.
+addon-updates-none-found = Обновлений не найдено
+addon-updates-manual-updates-found = Показать доступные обновления
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Установить дополнение из файла…
+    .accesskey = а
+addon-install-from-file-dialog-title = Выберите дополнение для установки
+addon-install-from-file-filter-name = Дополнения
+addon-open-about-debugging = Отладка дополнений
+    .accesskey = л
 
 ## Extension shortcut management
 
@@ -407,3 +430,6 @@ recommended-themes-heading = Рекомендуемые темы
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Чувствуете прилив вдохновения? <a data-l10n-name="link">Создайте свою собственную тему с помощью Firefox Color.</a>
+
+## Page headings
+
