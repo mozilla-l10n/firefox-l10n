@@ -432,5 +432,14 @@ recommended-theme-1 = Osjećate li se kreativno? <a data-l10n-name="link">Izradi
 
 ## Page headings
 
+extension-heading = Upravljanje dodacima
+theme-heading = Upravljanje temama
+plugin-heading = Upravljanje priključcima
+dictionary-heading = Upravljanje rječnicima
+locale-heading = Upravljanje jezicima
 discover-heading = Prilagodite svoj { -brand-short-name }
 shortcuts-heading = Upravljanje prečacima dodataka
+theme-heading-search-label = Pronađite više tema
+extension-heading-search-label = Pronađite više dodataka
+addons-heading-search-input =
+    .placeholder = Pretraži addons.mozilla.org
