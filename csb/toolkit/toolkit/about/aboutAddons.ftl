@@ -109,9 +109,6 @@ detail-rating =
     .value = Òbsądë
 addon-restart-now =
     .label = Zrëszë znowa
-extensions-view-discover =
-    .name = Dobëjë dodôwczi
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Slédné zaktualnienia
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -148,12 +145,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Wëskrzëni slédné zaktualnienia
     .accesskey = W
+addon-updates-check-for-updates = Sprôwdzë zaktualnienia
+    .accesskey = S
+addon-updates-view-updates = Wëskrzëni slédné zaktualnienia
+    .accesskey = W
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Aùtomatno aktualizëje dodôwczi
+    .accesskey = A
+addon-updates-update-addons-automatically = Aùtomatno aktualizëje dodôwczi
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -167,6 +170,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = a
 extensions-updates-reset-updates-to-manual =
     .label = Włączë rãczną aktualizacjã dodôwków
+    .accesskey = r
+addon-updates-reset-updates-to-automatic = Włączë aùtomatną aktualizacjã dodôwków
+    .accesskey = a
+addon-updates-reset-updates-to-manual = Włączë rãczną aktualizacjã dodôwków
     .accesskey = r
 
 ## Status messages displayed when updating add-ons
@@ -186,3 +193,29 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Winstalëjë aktualizacje
     .tooltiptext = Winstalëje przistãpné aktualizacje z ti lëstë
+addon-updates-updating = Aktualizacjô dodôwków
+addon-updates-installed = Dodôwczi òstałé zaktualnioné.
+addon-updates-none-found = Nie nalôzł aktualizacjów
+addon-updates-manual-updates-found = Wëskrzëni przistãpné aktualizacje
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Winstalëje pòdôwczi z lopka…
+    .accesskey = l
+addon-install-from-file-dialog-title = Wëbierzë dodôwk do winstalowaniô
+addon-install-from-file-filter-name = Dodôwczi
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
