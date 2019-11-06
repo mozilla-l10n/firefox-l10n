@@ -419,6 +419,7 @@ theme-heading = Gestionează temele
 plugin-heading = Gestionează pluginurile
 dictionary-heading = Gestionează dicționarele
 locale-heading = Gestionează limbile
+discover-heading = Personalizează { -brand-short-name }
 shortcuts-heading = Gestionează comenzile rapide ale extensiilor
 theme-heading-search-label = Găsește mai multe teme
 extension-heading-search-label = Găsește mai multe extensii
