@@ -252,6 +252,9 @@ addon-open-about-debugging = Izegrar n tseɣtit
 manage-extensions-shortcuts =
     .label = Sefrek inegzumen n isiɣzaf
     .accesskey = i
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Sefrek inegzumen n isiɣzaf
+    .accesskey = i
 shortcuts-no-addons = Ur ɣur-k ara ula d yiwen n usiɣzef iremden.
 shortcuts-no-commands = Isiɣzaf id-iteddun ur sɛin ara inegzumen:
 shortcuts-input =
@@ -381,3 +384,13 @@ recommended-themes-heading = Isental ihulen
 
 ## Page headings
 
+extension-heading = Sefrek isiɣzaf-ik/im
+theme-heading = Sefrek isental-ik/im
+plugin-heading = Sefrek izegrar-ik/im
+dictionary-heading = Sefrek imawalen-ik/im
+locale-heading = Sefrekl tutlayin-ik/im
+shortcuts-heading = Sefrek inegzumen n isiɣzaf
+theme-heading-search-label = Af-d ugar n isental
+extension-heading-search-label = Af-d ugar n isiɣzaf
+addons-heading-search-input =
+    .placeholder = Nadi addons.mozilla.org
