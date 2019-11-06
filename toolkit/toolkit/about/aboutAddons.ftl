@@ -196,12 +196,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = A legutóbbi frissítések megtekintése
     .accesskey = A
+addon-updates-check-for-updates = Frissítések keresése
+    .accesskey = F
+addon-updates-view-updates = A legutóbbi frissítések megtekintése
+    .accesskey = A
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Kiegészítők automatikus frissítése
+    .accesskey = K
+addon-updates-update-addons-automatically = Kiegészítők automatikus frissítése
     .accesskey = K
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -215,6 +221,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = M
 extensions-updates-reset-updates-to-manual =
     .label = Minden kiegészítő kézi frissítése
+    .accesskey = k
+addon-updates-reset-updates-to-automatic = Minden kiegészítő automatikus frissítése
+    .accesskey = M
+addon-updates-reset-updates-to-manual = Minden kiegészítő kézi frissítése
     .accesskey = k
 
 ## Status messages displayed when updating add-ons
@@ -234,6 +244,15 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Frissítések telepítése
     .tooltiptext = A listán szereplő frissítések telepítése
+addon-updates-updating = Kiegészítők frissítése
+addon-updates-installed = A kiegészítői frissítve lettek.
+addon-updates-none-found = Nem találhatók frissítések
+addon-updates-manual-updates-found = Az elérhető frissítések megtekintése
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = Válassza ki a telepíteni kívánt kiegészítőt
+addon-install-from-file-filter-name = Kiegészítők
 
 ## Extension shortcut management
 
@@ -407,3 +426,6 @@ recommended-themes-heading = Ajánlott témák
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Kreatívnak érzi magát? <a data-l10n-name="link">Állítsa össze a saját témáját a Firefox Color használatával.</a>
+
+## Page headings
+
