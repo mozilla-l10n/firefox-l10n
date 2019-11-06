@@ -131,6 +131,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Çalakkirin
     .tooltiptext = Destûrê bide kontrolkirina ewlekariyê ya rojanekirina add-onan
+extensions-warning-safe-mode = Hemû add-on ji hêla moda ewle ve hatin neçalakirin.
+extensions-warning-check-compatibility = Kontrolkirina hevgirtina add-onan hat neçalakirin. Dibe ku add-onên te yên hev nagirin hene.
+extensions-warning-check-compatibility-button = Çalakkirin
+    .title = Destûrê bide kontrolkirina hevgirtina add-onan
+extensions-warning-update-security = Di rojanekirina add-onan de kontrolkirina ewlekariyê girtî ye. Dibe ku rojanekirin ne ewle bin.
+extensions-warning-update-security-button = Çalakkirin
+    .title = Destûrê bide kontrolkirina ewlekariyê ya rojanekirina add-onan
 
 ## Strings connected to add-on updates
 
