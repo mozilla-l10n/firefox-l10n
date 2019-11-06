@@ -188,6 +188,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Omogoči
     .tooltiptext = Omogoči preverjanje, ali je posodobitev dodatka varna
+extensions-warning-safe-mode = Zaradi dela v varnem načinu so vsi dodatki onemogočeni.
+extensions-warning-check-compatibility = Preverjanje združljivosti dodatkov je onemogočeno. Mogoče imate nameščene dodatke, ki niso združljivi.
+extensions-warning-check-compatibility-button = Omogoči
+    .title = Omogoči preverjanje združljivosti dodatkov
+extensions-warning-update-security = Preverjanje, ali je posodobitev dodatkov varna, je onemogočeno. Posodobitve lahko ogrozijo vaš sistem.
+extensions-warning-update-security-button = Omogoči
+    .title = Omogoči preverjanje, ali je posodobitev dodatka varna
 
 ## Strings connected to add-on updates
 
