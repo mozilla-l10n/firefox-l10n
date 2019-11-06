@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = 전체 화면
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = 모든 탭 표시
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = 가짜 사이트 신고…
     .accesskey = D
+menu-help-not-deceptive =
+    .label = 이 사이트는 가짜 사이트가 아닙니다…
+    .accesskey = d
