@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Layar Penuh
     .accesskey = P
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Tampilkan Semua Tab
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Laporkan Situs Tipuan…
     .accesskey = s
+menu-help-not-deceptive =
+    .label = Ini bukan situs tipuan…
+    .accesskey = d
