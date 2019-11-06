@@ -121,9 +121,6 @@ legacy-warning-show-legacy = Bonisa izongezelelo ezizizikhokelo
 legacy-extensions =
     .value = IZongezelelo zeziKhokelo
 legacy-extensions-description = Ezi zongezelelo azidibani nemilinganiselo ye{ -brand-short-name } ekhoyo ngoko iye yayekiswa. <label data-l10n-name="legacy-learn-more">Funda ngotshintsho kwizongezelelo</label>
-extensions-view-discover =
-    .name = Fumana izongezelelo
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Uhlaziyo lwakutshanje
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -198,3 +195,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Fakela iZihlaziyi
     .tooltiptext = Fakela uhlaziyo olufumanekayo kolu ludwe
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
