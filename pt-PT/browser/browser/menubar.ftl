@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Ecrã completo
     .accesskey = E
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Mostrar todos os separadores
@@ -289,4 +289,7 @@ menu-help-safe-mode-with-addons =
 # phishing-afterload-warning-message.dtd is shown.
 menu-help-report-deceptive-site =
     .label = Reportar site decetivo…
+    .accesskey = d
+menu-help-not-deceptive =
+    .label = Este não é um site decetivo…
     .accesskey = d
