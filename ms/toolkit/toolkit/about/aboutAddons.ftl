@@ -133,9 +133,6 @@ legacy-warning-show-legacy = Pamerkan ekstensi legasi
 legacy-extensions =
     .value = Ekstensi Legasi
 legacy-extensions-description = Ekstensi berikut tidak memenuhi piawai { -brand-short-name } oleh itu dinyahaktifkan. <label data-l10n-name="legacy-learn-more">Ketahui lanjut perubahan add-ons</label>
-extensions-view-discover =
-    .name = Dapatkan Add-ons
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Kemaskini Terkini
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -210,3 +207,24 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Pasang Kemaskini
     .tooltiptext = Pasang kemaskini yang tersedia di dalam senarai ini
+addon-updates-updating = Mengemaskini add-on
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = Pilih add-on untuk dipasang
+addon-install-from-file-filter-name = Add-ons
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
