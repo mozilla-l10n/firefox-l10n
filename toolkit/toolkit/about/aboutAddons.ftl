@@ -436,6 +436,7 @@ theme-heading = 管理您的佈景主題
 plugin-heading = 管理您的外掛程式
 dictionary-heading = 管理您的字典
 locale-heading = 管理您的語言套件
+updates-heading = 管理您的更新
 discover-heading = 個人化您的 { -brand-short-name }
 shortcuts-heading = 管理擴充套件快速鍵
 theme-heading-search-label = 尋找更多佈景主題

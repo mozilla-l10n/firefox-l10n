@@ -29,6 +29,7 @@ protection-report-page-title = 隱私保護
 protection-report-content-title = 隱私保護
 etp-card-title = 加強型追蹤保護
 etp-card-content = 追蹤器會在網路上跟蹤您，收集您的興趣與喜好。{ -brand-short-name } 會封鎖許多追蹤器與其他有害指令碼。
+protection-report-etp-card-content-custom-not-blocking = 目前已關閉所有保護。請調整 { -brand-short-name } 保護設定，決定要封鎖哪些類型的追蹤器。
 protection-report-manage-protections = 管理設定
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
