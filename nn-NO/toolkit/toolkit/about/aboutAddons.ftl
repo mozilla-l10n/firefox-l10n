@@ -446,6 +446,7 @@ theme-heading = Handter temaa dine
 plugin-heading = Handter programtillegga dine
 dictionary-heading = Handter ordbøkene dine
 locale-heading = Handter språka dine
+updates-heading = Handter oppdateringar
 discover-heading = Tilpass { -brand-short-name }
 shortcuts-heading = Handter snarvegar for utvidingar
 theme-heading-search-label = Finn fleire tema
