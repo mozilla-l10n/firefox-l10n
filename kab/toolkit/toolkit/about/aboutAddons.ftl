@@ -185,12 +185,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Sken ileqman n melmi kan
     .accesskey = S
+addon-updates-check-for-updates = Nadi ileqman
+    .accesskey = N
+addon-updates-view-updates = Sken ileqman n melmi kan
+    .accesskey = S
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Leqqem s wudem awurman izegrar
+    .accesskey = L
+addon-updates-update-addons-automatically = Leqqem s wudem awurman izegrar
     .accesskey = L
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -204,6 +210,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = Tukksa n urmad n uleqqem awurman n izegrar meṛṛa
+    .accesskey = T
+addon-updates-reset-updates-to-automatic = Rmed aleqqem awurman i yizegrar meṛṛa
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Tukksa n urmad n uleqqem awurman n izegrar meṛṛa
     .accesskey = T
 
 ## Status messages displayed when updating add-ons
@@ -223,6 +233,18 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Sebded ileqman
     .tooltiptext = Sebded ileqman yellan di tebdart-agi
+addon-updates-updating = Aleqqem n izegrar
+addon-updates-installed = Izegrar-inek ttwaleqqmen.
+addon-updates-none-found = ulac ileqman yettwafen
+addon-updates-manual-updates-found = Sken ileqman yellan
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Sebded azegrir seg ufaylu…
+    .accesskey = S
+addon-install-from-file-filter-name = Izegrar
+addon-open-about-debugging = Izegrar n tseɣtit
+    .accesskey = I
 
 ## Extension shortcut management
 
@@ -355,3 +377,6 @@ release-notes-error = Suref-aɣ, teḍṛa-d tuccḍa deg usali n iwenniten n lq
 addon-permissions-empty = Asiɣzef-agi ur yesra ara tisirag
 recommended-extensions-heading = Isiɣzaf ihulen
 recommended-themes-heading = Isental ihulen
+
+## Page headings
+
