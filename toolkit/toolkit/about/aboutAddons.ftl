@@ -200,6 +200,10 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = Bütün əlavələri əllə yeniləyəcək şəkildə nizamla
     .accesskey = a
+addon-updates-reset-updates-to-automatic = Bütün əlavələri avtomatik yeniləyəcək şəkildə nizamla
+    .accesskey = a
+addon-updates-reset-updates-to-manual = Bütün əlavələri əllə yeniləyəcək şəkildə nizamla
+    .accesskey = a
 
 ## Status messages displayed when updating add-ons
 
@@ -218,6 +222,7 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Yeniləmələri quraşdır
     .tooltiptext = Bu siyahıdakı yeniləmələri quraşdır
+addon-updates-updating = Əlavələr yenilənir
 addon-updates-installed = Əlavələriniz yenilənir.
 addon-updates-none-found = Yenilənmə tapılmadı
 addon-updates-manual-updates-found = Quraşdırıla biləcək yeniləmələrə bax
@@ -227,6 +232,9 @@ addon-updates-manual-updates-found = Quraşdırıla biləcək yeniləmələrə b
 addon-install-from-file = Fayldan əlavə qur...
     .accesskey = I
 addon-install-from-file-dialog-title = Quraşdırılacaq əlavəni seçin
+addon-install-from-file-filter-name = Əlavələr
+addon-open-about-debugging = Əlavələri Sazla
+    .accesskey = z
 
 ## Extension shortcut management
 
