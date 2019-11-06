@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Skyddsnivån är inställd på <b>Standard</b>
-protection-header-details-strict = Skyddsnivån är inställd på <b>Strikt</b>
-protection-header-details-custom = Skyddsnivån är inställd på <b>Anpassad</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Skyddsnivån är inställd på <b>Standard</b>
     .title = Gå till sekretessinställningar
 protection-report-header-details-strict = Skyddsnivån är inställd på <b>Strikt</b>
@@ -37,6 +31,7 @@ protection-report-page-title = Integritetsskydd
 protection-report-content-title = Integritetsskydd
 etp-card-title = Förbättrat spårningsskydd
 etp-card-content = Trackers följer dig runt online för att samla in information om dina surfvanor och intressen. { -brand-short-name } blockerar många av dessa trackers och andra skadliga skript.
+protection-report-manage-protections = Hantera inställningar
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Idag
@@ -56,7 +51,6 @@ lockwise-title = Glöm aldrig ett lösenord igen
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } lagrar dina lösenord på ett säkert sätt i din webbläsare.
 lockwise-header-content-logged-in = Lagra och synkronisera dina lösenord på ett säkert sätt mellan alla dina enheter.
-about-logins-view-logins-button = Visa inloggningar
 protection-report-view-logins-button = Visa inloggningar
     .title = Gå till sparade inloggningar
 lockwise-no-logins-content = Hämta appen <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> för att komma åt dina lösenord överallt.
@@ -118,10 +112,6 @@ password-warning =
         [one] Lagrat lösenord kan ha avslöjats i ett intrång. Ändra detta lösenord för att nå en bättre säkerhet online. <a data-l10n-name="lockwise-link">Visa lagrade lösenord</a>
        *[other] Lagrade lösenord kan ha avslöjats i ett intrång. Ändra dessa lösenord för att nå en bättre säkerhet online. <a data-l10n-name="lockwise-link">Visa lagrade lösenord</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Gå till sekretessinställningar
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Gå till Sparade inloggningar
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
