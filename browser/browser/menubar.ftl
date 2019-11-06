@@ -278,3 +278,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = ক্ষতিকারক সাইট হিসেবে রিপোর্ট করুন…
     .accesskey = d
+menu-help-not-deceptive =
+    .label = এটি কোন ক্ষতিকারক সাইট না…
+    .accesskey = d
