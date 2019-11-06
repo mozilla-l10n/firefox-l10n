@@ -157,12 +157,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Jonga uhlaziyo lwakutshanje
     .accesskey = J
+addon-updates-check-for-updates = Khangela iZihlaziyi
+    .accesskey = K
+addon-updates-view-updates = Jonga uhlaziyo lwakutshanje
+    .accesskey = J
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Uhlaziyo nezongezelelo ngokuzenzekelayo
+    .accesskey = n
+addon-updates-update-addons-automatically = Uhlaziyo nezongezelelo ngokuzenzekelayo
     .accesskey = n
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -176,6 +182,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = S
 extensions-updates-reset-updates-to-manual =
     .label = Seta kwakhona zonke izongezelelo zihlaziywe ngesandla
+    .accesskey = S
+addon-updates-reset-updates-to-automatic = Seta kwakhona zonke izongezelelo zihlaziye ngokuzenzekelayo
+    .accesskey = S
+addon-updates-reset-updates-to-manual = Seta kwakhona zonke izongezelelo zihlaziywe ngesandla
     .accesskey = S
 
 ## Status messages displayed when updating add-ons
@@ -195,9 +205,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Fakela iZihlaziyi
     .tooltiptext = Fakela uhlaziyo olufumanekayo kolu ludwe
+addon-updates-updating = Ihlaziya izongezelelo
+addon-updates-installed = Izongezelelo zakho zihlaziyiwe.
+addon-updates-none-found = Akukho zihlaziyi zifumanekayo
+addon-updates-manual-updates-found = Jonga uhlaziyo olufumanekayo
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Fakela izongezelelo ezisuka kule fayile…
+    .accesskey = F
+addon-install-from-file-dialog-title = Khetha isongezelelo ukufakela
+addon-install-from-file-filter-name = Izongezelelo
 
 ## Extension shortcut management
 
