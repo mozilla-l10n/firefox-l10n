@@ -250,6 +250,8 @@ addon-install-from-file = Installera tillägg från fil…
     .accesskey = I
 addon-install-from-file-dialog-title = Välj ett tillägg att installera
 addon-install-from-file-filter-name = Tillägg
+addon-open-about-debugging = Felsök tillägg
+    .accesskey = s
 
 ## Extension shortcut management
 
