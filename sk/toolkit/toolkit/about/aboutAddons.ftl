@@ -260,6 +260,8 @@ addon-install-from-file = Nainštalovať doplnok zo súboru…
     .accesskey = N
 addon-install-from-file-dialog-title = Zvoľte doplnok, ktorý chcete nainštalovať
 addon-install-from-file-filter-name = Doplnky
+addon-open-about-debugging = Ladiť doplnky
+    .accesskey = L
 
 ## Extension shortcut management
 
