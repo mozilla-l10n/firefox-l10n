@@ -192,6 +192,11 @@ extensions-warning-update-security-enable =
     .label = Aktivieren
     .tooltiptext = Überprüfung auf Sicherheitsupdates für Add-ons aktivieren
 extensions-warning-safe-mode = Alle Add-ons wurden durch den Abgesicherten Modus deaktiviert.
+extensions-warning-check-compatibility = Die Addon-Kompatibilitäts-Prüfung ist deaktiviert. Sie könnten inkompatible Add-ons haben.
+extensions-warning-check-compatibility-button = Aktivieren
+    .title = Addon-Kompatibilitäts-Prüfung aktivieren
+extensions-warning-update-security-button = Aktivieren
+    .title = Überprüfung auf Sicherheitsupdates für Add-ons aktivieren
 
 ## Strings connected to add-on updates
 
