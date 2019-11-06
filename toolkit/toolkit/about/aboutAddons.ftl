@@ -223,6 +223,10 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = Stel hânmjittich fernije yn foar alle add-ons
     .accesskey = S
+addon-updates-reset-updates-to-automatic = Stel automatysk fernije yn foar alle add-ons
+    .accesskey = S
+addon-updates-reset-updates-to-manual = Stel hânmjittich fernije yn foar alle add-ons
+    .accesskey = S
 
 ## Status messages displayed when updating add-ons
 
@@ -241,10 +245,18 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Ynstallearje fernijingen
     .tooltiptext = Ynstallearje beskikbere fernijingen op dize list
+addon-updates-updating = Add-ons oan it bywurkjen
+addon-updates-installed = Jo add-ons binne bywurke.
 addon-updates-none-found = Gjin fernijingen fûn
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Ynstallearje add-on út bestân…
+    .accesskey = Y
+addon-install-from-file-dialog-title = Selektearje add-on om te ynstallearjen
+addon-install-from-file-filter-name = Add-ons
+addon-open-about-debugging = Add-ons debugge
+    .accesskey = b
 
 ## Extension shortcut management
 
