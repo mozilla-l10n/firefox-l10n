@@ -201,12 +201,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Mussar las ultimas actualisaziuns
     .accesskey = a
+addon-updates-check-for-updates = Tschertgar actualisaziuns
+    .accesskey = T
+addon-updates-view-updates = Mussar las ultimas actualisaziuns
+    .accesskey = a
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Actualisar automaticamain ils supplements
+    .accesskey = A
+addon-updates-update-addons-automatically = Actualisar automaticamain ils supplements
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -220,6 +226,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = Midar tut ils supplements sin l'actualisaziun manuala
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = Midar tut ils supplements sin l'actualisaziun automatica
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Midar tut ils supplements sin l'actualisaziun manuala
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -239,6 +249,19 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installar las actualisaziuns
     .tooltiptext = Installar las actualisaziuns disponiblas en questa glista
+addon-updates-updating = Ils supplements vegnan actualisads
+addon-updates-installed = Tes supplements èn vegnids actualisads.
+addon-updates-none-found = Chattà naginas actualisaziuns
+addon-updates-manual-updates-found = Mussar las actualisaziuns disponiblas
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Installar in supplement a basa dad ina datoteca…
+    .accesskey = I
+addon-install-from-file-dialog-title = Tscherna il supplement per l'installar
+addon-install-from-file-filter-name = Supplements
+addon-open-about-debugging = Debugar supplements
+    .accesskey = b
 
 ## Extension shortcut management
 
@@ -409,3 +432,7 @@ recommended-themes-heading = Designs recumandads
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Inspirà? <a data-l10n-name="link">Creescha tes agen design cun Firefox Color.</a>
+
+## Page headings
+
+discover-heading = Persunalisescha tes { -brand-short-name }
