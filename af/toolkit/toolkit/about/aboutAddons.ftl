@@ -148,6 +148,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Aktiveer
     .tooltiptext = Aktiveer byvoegingsbywerking-beveiliging-kontrole
+extensions-warning-safe-mode = Alle byvoegings is deur veilige modus gedeaktiveer.
+extensions-warning-check-compatibility = Kontrolering of byvoegings versoenbaar is, is gedeaktiveer. U het moontlik onversoenbare byvoegings.
+extensions-warning-check-compatibility-button = Aktiveer
+    .title = Aktiveer byvoeging-versoenbaarheidkontrole
+extensions-warning-update-security = Kontrolering vir bywerkings vir byvoegings is gedeaktiveer. U kan dalk deur bywerkings gekompromitteer word.
+extensions-warning-update-security-button = Aktiveer
+    .title = Aktiveer byvoegingsbywerking-beveiliging-kontrole
 
 ## Strings connected to add-on updates
 
