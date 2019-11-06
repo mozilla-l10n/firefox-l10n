@@ -233,6 +233,9 @@ addon-open-about-debugging = सहयुक्ति दोषसुधार
 manage-extensions-shortcuts =
     .label = एक्सटेंशन शॉर्टकट प्रबंधित करें
     .accesskey = S
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = एक्सटेंशन शॉर्टकट प्रबंधित करें
+    .accesskey = S
 shortcuts-no-addons = आपके पास कोई एक्सटेंशन सक्रिय नहीं है।
 shortcuts-input =
     .placeholder = एक शॉर्टकट टाइप करें
@@ -272,3 +275,5 @@ addon-detail-updates-radio-off = बंद
 
 ## Page headings
 
+addons-heading-search-input =
+    .placeholder = addons.mozilla.org खोजें
