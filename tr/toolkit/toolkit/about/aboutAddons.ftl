@@ -234,6 +234,7 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Güncellemeleri kur
     .tooltiptext = Bu listedeki mevcut güncellemeleri kur
+addon-updates-manual-updates-found = Yüklenebilir güncellemelere bak
 
 ## Add-on install/debug strings for page options menu
 
