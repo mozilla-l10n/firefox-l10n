@@ -263,6 +263,9 @@ addon-open-about-debugging = Depurar extras
 manage-extensions-shortcuts =
     .label = Gerir atalhos de extensões
     .accesskey = s
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Gerir atalhos de extensões
+    .accesskey = s
 shortcuts-no-addons = Não tem quaisquer extensões ativadas.
 shortcuts-no-commands = As seguintes extensões não possuem atalhos:
 shortcuts-input =
@@ -409,3 +412,14 @@ recommended-theme-1 = A sentir-se criativo(a)? <a data-l10n-name="link">Crie o s
 
 ## Page headings
 
+extension-heading = Gira as suas extensões
+theme-heading = Gira os seus temas
+plugin-heading = Gira os seus plugins
+dictionary-heading = Gira os seus dicionários
+locale-heading = Gira os seus idiomas
+discover-heading = Personalize o seu { -brand-short-name }
+shortcuts-heading = Gira atalhos de extensões
+theme-heading-search-label = Encontre mais temas
+extension-heading-search-label = Encontre mais extensões
+addons-heading-search-input =
+    .placeholder = Pesquisar addons.mozilla.org
