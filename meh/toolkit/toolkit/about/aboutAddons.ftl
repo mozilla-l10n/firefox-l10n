@@ -55,6 +55,10 @@ extensions-warning-update-security-container =
 ## Status messages displayed when updating add-ons
 
 
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-filter-name = Iin a nachisó-kúmani
+
 ## Extension shortcut management
 
 
@@ -75,3 +79,6 @@ preferences-addon-button =
 
 addon-detail-updates-radio-off = Xina´va
 release-notes-loading = Kunetu…
+
+## Page headings
+
