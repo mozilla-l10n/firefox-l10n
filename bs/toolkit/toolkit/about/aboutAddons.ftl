@@ -157,12 +157,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Prikaži nedavne nadogradnje
     .accesskey = v
+addon-updates-check-for-updates = Provjeri za nadogradnje
+    .accesskey = P
+addon-updates-view-updates = Prikaži nedavne nadogradnje
+    .accesskey = v
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Automatski nadograđuj add-one
+    .accesskey = A
+addon-updates-update-addons-automatically = Automatski nadograđuj add-one
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -176,6 +182,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = r
 extensions-updates-reset-updates-to-manual =
     .label = Postavi sve add-one da se ručno nadograđuju
+    .accesskey = r
+addon-updates-reset-updates-to-automatic = Postavi sve add-one da se automatski nadograđuju
+    .accesskey = r
+addon-updates-reset-updates-to-manual = Postavi sve add-one da se ručno nadograđuju
     .accesskey = r
 
 ## Status messages displayed when updating add-ons
@@ -195,6 +205,10 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Nadogradi
     .tooltiptext = Instaliraj dostupne nadogradnje na ovoj listi
+addon-updates-updating = Nadograđujem add-one
+addon-updates-installed = Vaši add-oni su nadograđeni.
+addon-updates-none-found = Nijedna nadogradnja nije pronađena
+addon-updates-manual-updates-found = Prikaži dostupne nadogradnje
 
 ## Add-on install/debug strings for page options menu
 
