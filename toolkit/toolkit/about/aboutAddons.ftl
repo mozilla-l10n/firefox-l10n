@@ -216,6 +216,8 @@ addon-install-from-file = Fakela izongezelelo ezisuka kule fayile…
     .accesskey = F
 addon-install-from-file-dialog-title = Khetha isongezelelo ukufakela
 addon-install-from-file-filter-name = Izongezelelo
+addon-open-about-debugging = Khuphaibhagi Kwizongezelelo
+    .accesskey = i
 
 ## Extension shortcut management
 
