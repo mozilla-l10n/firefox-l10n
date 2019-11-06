@@ -211,6 +211,8 @@ addon-install-from-file = Qoʻshimcha dasturlarni fayldan oʻrnatish
     .accesskey = o
 addon-install-from-file-dialog-title = Oʻrnatish uchun qoʻshimcha dasturni tanlang
 addon-install-from-file-filter-name = Qoʻshimcha dasturlar
+addon-open-about-debugging = Qo‘shimcha dasturlarni tuzatish
+    .accesskey = t
 
 ## Extension shortcut management
 
