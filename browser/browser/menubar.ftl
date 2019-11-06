@@ -273,3 +273,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Xela isayithi yenkohliso…
     .accesskey = y
+menu-help-not-deceptive =
+    .label = Le asiyosayithi yenkohliso…
+    .accesskey = d
