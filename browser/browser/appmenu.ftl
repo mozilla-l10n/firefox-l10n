@@ -9,6 +9,13 @@ appmenuitem-protection-report-title = Škity priwatnosće
 appmenuitem-protection-report-tooltip =
     .tooltiptext = K wašej rozprawje priwatnosće přeńć
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Powjetšić
+appmenuitem-zoom-reduce =
+    .label = Pomjeńšić
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =

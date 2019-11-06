@@ -442,6 +442,7 @@ theme-heading = Waše drasty rjadować
 plugin-heading = Waše tykače rjadować
 dictionary-heading = Rjadujće swoje słowniki
 locale-heading = Rjadujće swoje rěče
+updates-heading = Waše aktualizacije rjadować
 discover-heading = Personalizujće swój { -brand-short-name }
 shortcuts-heading = Tastowe skrótšenki rozšěrjenjow rjadować
 theme-heading-search-label = Dalše drasty pytać

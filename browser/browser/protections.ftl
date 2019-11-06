@@ -25,12 +25,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Škitny schodźenk je so na <b>Standard</b> stajił
-protection-header-details-strict = Škitny schodźenk je so na <b>Striktny</b> stajił
-protection-header-details-custom = Škitny schodźenk je so na <b>Swójski</b> stajił
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Škitny schodźenk je so na <b>Standard</b> stajił
     .title = K nastajenjam priwatnosće
 protection-report-header-details-strict = Škitny schodźenk je so na <b>Striktny</b> stajił
@@ -41,6 +35,7 @@ protection-report-page-title = Škity priwatnosće
 protection-report-content-title = Škity priwatnosće
 etp-card-title = Polěpšeny slědowanski škit
 etp-card-content = Přesćěhowaki wam online slěduja, zo bychu informacije wo wašich přehladowanskich zwučenosćach a zajimach hromadźili. { -brand-short-name } wjele z tutych přesćěhowakow a druhe złóstne skripty blokuje.
+protection-report-manage-protections = Nastajenja rjadować
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Dźensa
@@ -60,7 +55,6 @@ lockwise-title = Njezabywajće ženje wjace hesło
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } waše hesła we wašim wobhladowaku wěsće składuje.
 lockwise-header-content-logged-in = Składujće a synchronizujće hesła za wšě waše graty.
-about-logins-view-logins-button = Přizjewjenja pokazać
 protection-report-view-logins-button = Přizjewjenja pokazać
     .title = K składowanym přizjewjenjam
 lockwise-no-logins-content = Wobstarajće sej nałoženje <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }, zo byšće swoje hesła wšudźe sobu wzał.
@@ -134,10 +128,6 @@ password-warning =
         [few] Składowane přizjewjenja su so w datowej dźěrje wotkryli. Změńće tute hesła za lěpšu wěstotu online. <a data-l10n-name="lockwise-link">Składowane přizjewjenja pokazać</a>
        *[other] Składowane přizjewjenja su so w datowej dźěrje wotkryli. Změńće tute hesła za lěpšu wěstotu online. <a data-l10n-name="lockwise-link">Składowane přizjewjenja pokazać</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = K nastajenjam priwatnosće
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = K składowanym přizjewjenjam
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
