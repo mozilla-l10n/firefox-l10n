@@ -247,6 +247,8 @@ addon-install-from-file = Stàlaich tuilleadan o fhaidhle…
     .accesskey = i
 addon-install-from-file-dialog-title = Tagh tuilleadan ri stàladh
 addon-install-from-file-filter-name = Tuilleadain
+addon-open-about-debugging = Dì-bhugaich na tuilleadain
+    .accesskey = b
 
 ## Extension shortcut management
 
