@@ -214,7 +214,10 @@ addon-updates-manual-updates-found = Hollir Kesɗitine Goodaaɗe
 
 addon-install-from-file = Aaf Ɓeyditte Iwde e Fiilde…
     .accesskey = A
+addon-install-from-file-dialog-title = Labo ɓeydital njiɗ-ɗaa aafde
 addon-install-from-file-filter-name = Ɓeyditte
+addon-open-about-debugging = Buggito Ɓeyditte
+    .accesskey = b
 
 ## Extension shortcut management
 
