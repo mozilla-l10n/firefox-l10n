@@ -171,6 +171,12 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Ye
     .tooltiptext = Ye ngiyo ber bedo pa ngec mayen
+extensions-warning-safe-mode = Kit maber ojuko woko med-ikome weng.
+extensions-warning-check-compatibility-button = Ye
+    .title = Ye ngiyo rwate me tic pa med-ikome
+extensions-warning-update-security = Ngiyo ber bedo pa ngec manyen me med-ikome kijuko woko. Mogo nongo inongo peko ki bot ngec manyen.
+extensions-warning-update-security-button = Ye
+    .title = Ye ngiyo ber bedo pa ngec mayen
 
 ## Strings connected to add-on updates
 
