@@ -234,7 +234,9 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Cài đặt cập nhật
     .tooltiptext = Cài đặt các cập nhật trong danh sách này
+addon-updates-updating = Đang cập nhật tiện ích
 addon-updates-none-found = Không tìm thấy cập nhật
+addon-updates-manual-updates-found = Xem các cập nhật hiện có
 
 ## Add-on install/debug strings for page options menu
 
