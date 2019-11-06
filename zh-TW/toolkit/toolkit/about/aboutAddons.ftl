@@ -206,6 +206,8 @@ addon-updates-view-updates = 檢視最近的更新
 extensions-updates-update-addons-automatically =
     .label = 自動更新附加元件
     .accesskey = A
+addon-updates-update-addons-automatically = 自動更新附加元件
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -242,6 +244,7 @@ extensions-updates-update-selected =
     .label = 安裝更新
     .tooltiptext = 安裝此清單中可用的更新
 addon-updates-updating = 正在更新附加元件
+addon-updates-installed = 已更新您的附加元件。
 addon-updates-none-found = 找不到更新
 addon-updates-manual-updates-found = 檢視可用的更新
 
@@ -251,11 +254,16 @@ addon-install-from-file = 從檔案安裝附加元件…
     .accesskey = I
 addon-install-from-file-dialog-title = 請選擇要安裝的附加元件
 addon-install-from-file-filter-name = 附加元件
+addon-open-about-debugging = 對附加元件除錯
+    .accesskey = B
 
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
     .label = 管理擴充套件快速鍵
+    .accesskey = S
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = 管理擴充套件快速鍵
     .accesskey = S
 shortcuts-no-addons = 您並未啟用任何擴充套件。
 shortcuts-no-commands = 下列擴充套件沒有快速鍵:
@@ -416,3 +424,14 @@ recommended-theme-1 = 突然有個靈感嗎？<a data-l10n-name="link">使用 Fi
 
 ## Page headings
 
+extension-heading = 管理您的擴充套件
+theme-heading = 管理您的佈景主題
+plugin-heading = 管理您的外掛程式
+dictionary-heading = 管理您的字典
+locale-heading = 管理您的語言套件
+discover-heading = 個人化您的 { -brand-short-name }
+shortcuts-heading = 管理擴充套件快速鍵
+theme-heading-search-label = 尋找更多佈景主題
+extension-heading-search-label = 尋找更多擴充套件
+addons-heading-search-input =
+    .placeholder = 在 addons.mozilla.org 搜尋
