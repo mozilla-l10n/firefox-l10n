@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ
     .accesskey = F
 
-
+##
 
 menu-view-show-all-tabs =
     .label = ਸਭ ਟੈਬ ਵੇਖੋ
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = …ਭਰਮਪੂਰਕ ਸਾਈਟ ਨੂੰ ਰਿਪੋਰਟ
     .accesskey = D
+menu-help-not-deceptive =
+    .label = ਇਹ ਭਰਮਪੂਰਨ ਸਾਈਟ ਨਹੀਂ ਹੈ…
+    .accesskey = d
