@@ -195,6 +195,8 @@ extensions-updates-view-updates =
     .accesskey = D
 addon-updates-check-for-updates = Gwirio am Ddiweddariadau
     .accesskey = G
+addon-updates-view-updates = Gweld Diweddariadau Diweddar
+    .accesskey = D
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -233,6 +235,8 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Gosod Diweddariadau
     .tooltiptext = Gosod diweddariadau sydd ar gael o'r rhestr
+addon-updates-updating = Diweddaru ychwanegion
+addon-updates-installed = Mae eich ychwanegion wedi eu diweddaru.
 addon-updates-none-found = Heb ganfod diweddariadau
 addon-updates-manual-updates-found = Gweld Diweddariadau ar Gael
 
