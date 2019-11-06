@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Tam ekran
     .accesskey = T
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Tüm sekmeleri göster
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Aldatıcı siteyi ihbar et…
     .accesskey = A
+menu-help-not-deceptive =
+    .label = Bu site aldatıcı değil…
+    .accesskey = d
