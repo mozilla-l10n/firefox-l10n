@@ -209,6 +209,10 @@ extensions-updates-update-selected =
     .label = తాజాకరణలను స్థాపించు
     .tooltiptext = ఈ జాబితాలోని తాజాకరణలను స్థాపించు
 
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-filter-name = పొడిగింతలు
+
 ## Extension shortcut management
 
 shortcuts-card-collapse-button = తక్కువ చూపించు
@@ -263,3 +267,6 @@ addon-detail-private-browsing-allow = అనుమతించు
 addon-detail-private-browsing-disallow = అనుమతించ వద్దు
 available-updates-heading = అందుబాటులో ఉన్న తాజాకరణలు
 recent-updates-heading = ఇటీవలి తాజాకరణలు
+
+## Page headings
+
