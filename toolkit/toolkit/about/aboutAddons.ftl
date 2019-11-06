@@ -412,3 +412,12 @@ recommended-theme-1 = 창의적인 느낌이 떠오르시나요? <a data-l10n-na
 
 ## Page headings
 
+extension-heading = 확장기능 관리
+theme-heading = 테마 관리
+plugin-heading = 플러그인 관리
+dictionary-heading = 사전 관리
+locale-heading = 언어 관리
+theme-heading-search-label = 더 많은 테마
+extension-heading-search-label = 더 많은 확장기능
+addons-heading-search-input =
+    .placeholder = addons.mozilla.org 검색
