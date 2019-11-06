@@ -219,6 +219,8 @@ addon-install-from-file = Инсталирај додаток од датоте�
     .accesskey = И
 addon-install-from-file-dialog-title = Изберете додаток за инсталација
 addon-install-from-file-filter-name = Додатоци
+addon-open-about-debugging = Дебагирање на додатоци
+    .accesskey = B
 
 ## Extension shortcut management
 
