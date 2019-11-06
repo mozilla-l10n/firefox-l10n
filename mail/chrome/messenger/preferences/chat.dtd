@@ -57,3 +57,8 @@ sentence. -->
 <!ENTITY messageStyleSimpleTheme.label     "Simple">
 <!ENTITY messageStyleDefaultTheme.label    "Predeterminado">
 <!ENTITY messageStyleVariant.label         "Variante:">
+<!ENTITY messageStyleVariant.accesskey     "V">
+<!ENTITY messageStyleShowHeader.label      "Mostrar encabezado">
+<!ENTITY messageStyleShowHeader.accesskey  "H">
+<!ENTITY messageStyleNoPreview.title       "No está disponible la vista previa">
+<!ENTITY messageStyleNoPreview.description "Este tema no es válido o no está actualmente disponible (deshabilitar complemento, modo seguro, …).">
