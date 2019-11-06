@@ -116,9 +116,6 @@ disabled-unsigned-heading =
 disabled-unsigned-description = ಈ ಕೆಳಗಿನ ಆಡ್-‌ಆನ್‌ಗಳನ್ನು { -brand-short-name } ನಲ್ಲಿನ ಬಳಕೆಗೆ ದೃಢಪಡಿಸಲಾಗಿಲ್ಲ. ನೀವು ಬೇಕಿದ್ದಲ್ಲಿ <label data-l10n-name="find-addons">ಬದಲಾವಣೆಗಳನ್ನು ಹುಡುಕು</label> ಅಥವಾ ಅವುಗಳನ್ನು ದೃಢಪಡಿಸಲು ಡೆವೆಲಪರ್ ಅನ್ನು ಕೇಳಿಕೊಳ್ಳಬಹುದು.
 disabled-unsigned-learn-more = ನಿಮ್ಮನ್ನು ಆನ್‌ಲೈನ್ ಸುರಕ್ಷಿತವಾಗಿರುವಲ್ಲಿ ಸಹಾಯ ಮಾಡುವ ನಮ್ಮ ಶ್ರಮದ ಬಗ್ಗೆ ಹೆಚ್ಚು ತಿಳಿಯಿರಿ.
 disabled-unsigned-devinfo = ತಮ್ಮ ಆಡ್-ಅನ್‌ಗಳನ್ನು ದೃಢಪಡಿಸಿಕೊಳ್ಳ ಬಯಸಲು ಇಚ್ಛಿಸುವ ಡೆವೆಲಪರ್‌ಗಳು ಮುದುವರೆಯಲು ಓದಿ ನಮ್ಮ <label data-l10n-name="learn-more">ಕೈಪಿಡಿ</label>.
-extensions-view-discover =
-    .name = ಆಡ್-ಆನ್‌ಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳಿ
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = ಇತ್ತೀಚಿನ ಅಪ್‌ಡೇಟ್‌ಗಳು
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -193,3 +190,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸು
     .tooltiptext = ಈ ಪಟ್ಟಿಯಲ್ಲಿ ಲಭ್ಯವಿರುವ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸು
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
