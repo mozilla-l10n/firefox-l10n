@@ -198,6 +198,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Afficher les mises à jour récentes
     .accesskey = A
+addon-updates-view-updates = Afficher les mises à jour récentes
+    .accesskey = A
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -236,6 +238,9 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Installer les mises à jour
     .tooltiptext = Installer les mises à jour disponibles dans cette liste
+
+## Add-on install/debug strings for page options menu
+
 
 ## Extension shortcut management
 
@@ -400,3 +405,6 @@ recommended-themes-heading = Thèmes recommandés
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Vous avez la fibre créative ? <a data-l10n-name="link">Créez votre propre thème avec Firefox Color.</a>
+
+## Page headings
+
