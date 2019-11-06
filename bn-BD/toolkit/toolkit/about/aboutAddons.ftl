@@ -219,6 +219,8 @@ addon-install-from-file = ফাইল থেকে অ্যাড-অন ই�
     .accesskey = I
 addon-install-from-file-dialog-title = ইনস্টল করার জন্য অ্যাড-অন নির্বাচন
 addon-install-from-file-filter-name = অ্যাড-অন
+addon-open-about-debugging = অ্যাড-অন ডিবাগ
+    .accesskey = b
 
 ## Extension shortcut management
 
