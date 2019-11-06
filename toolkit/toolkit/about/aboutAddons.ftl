@@ -427,5 +427,14 @@ recommended-theme-1 = Vous avez la fibre créative ? <a data-l10n-name="link">C
 
 ## Page headings
 
+extension-heading = Gestion de vos extensions
+theme-heading = Gestion de vos thèmes
+plugin-heading = Gestion de vos plugins
+dictionary-heading = Gestion de vos dictionnaires
+locale-heading = Gestion des langues
 discover-heading = Personnalisez { -brand-short-name }
 shortcuts-heading = Gestion des raccourcis d’extensions
+theme-heading-search-label = Trouver d’autres thèmes
+extension-heading-search-label = Trouver d’autres extensions
+addons-heading-search-input =
+    .placeholder = Rechercher sur addons.mozilla.org
