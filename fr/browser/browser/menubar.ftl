@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Plein écran
     .accesskey = P
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Afficher tous les onglets
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Signaler un site trompeur…
     .accesskey = t
+menu-help-not-deceptive =
+    .label = Ce site n’est pas trompeur…
+    .accesskey = C
