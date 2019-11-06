@@ -138,9 +138,6 @@ legacy-warning-show-legacy = Köhnəlmiş qoşmaları göstər
 legacy-extensions =
     .value = Köhnəlmiş Qoşmalar
 legacy-extensions-description = Bu qoşmalar hazırkı { -brand-short-name } standartlarına cavab vermirlər və bu səbəbdən söndürüldülər. <label data-l10n-name="legacy-learn-more">Əlavələrə olan dəyişikliklər haqqında öyrən</label>
-extensions-view-discover =
-    .name = Əlavə Endirin
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Yaxın vaxtlardakı yeniləmələr
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -177,12 +174,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Yaxın vaxtdakı yeniləmələrə bax
     .accesskey = b
+addon-updates-check-for-updates = Yeniləmələrə bax…
+    .accesskey = C
+addon-updates-view-updates = Yaxın vaxtdakı yeniləmələrə bax
+    .accesskey = b
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Əlavələri avtomatik yenilə
+    .accesskey = n
+addon-updates-update-addons-automatically = Əlavələri avtomatik yenilə
     .accesskey = n
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -215,13 +218,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Yeniləmələri quraşdır
     .tooltiptext = Bu siyahıdakı yeniləmələri quraşdır
+addon-updates-installed = Əlavələriniz yenilənir.
+addon-updates-none-found = Yenilənmə tapılmadı
+addon-updates-manual-updates-found = Quraşdırıla biləcək yeniləmələrə bax
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Fayldan əlavə qur...
+    .accesskey = I
+addon-install-from-file-dialog-title = Quraşdırılacaq əlavəni seçin
 
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
     .label = Uzantı Qısa-yollarını İdarə et
     .accesskey = S
-shortcuts-empty-message = Bu uzantı üçün qısayol yoxdur.
 shortcuts-no-addons = Aktiv uzantınız yoxdur.
 shortcuts-no-commands = Bu uzantıların qısa-yolları yoxdur:
 shortcuts-input =
@@ -243,6 +254,9 @@ shortcuts-card-collapse-button = Daha az göstər
 go-back-button =
     .tooltiptext = Geri get
 
+## Recommended add-ons page
+
+
 ## Add-on actions
 
 remove-addon-button = Sil
@@ -250,3 +264,9 @@ disable-addon-button = Söndür
 enable-addon-button = Aktiv et
 addons-enabled-heading = Aktivdir
 addons-disabled-heading = Söndürülüb
+
+## Pending uninstall message bar
+
+
+## Page headings
+
