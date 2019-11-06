@@ -193,6 +193,8 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Gweld Diweddariadau Diweddar
     .accesskey = D
+addon-updates-check-for-updates = Gwirio am Ddiweddariadau
+    .accesskey = G
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -231,6 +233,13 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Gosod Diweddariadau
     .tooltiptext = Gosod diweddariadau sydd ar gael o'r rhestr
+addon-updates-none-found = Heb ganfod diweddariadau
+addon-updates-manual-updates-found = Gweld Diweddariadau ar Gael
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = Dewis ategyn i'w osod
+addon-install-from-file-filter-name = Ychwanegion
 
 ## Extension shortcut management
 
@@ -409,3 +418,6 @@ recommended-themes-heading = Themâu Cymeradwy
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Teimlo'n greadigol? <a data-l10n-name="link">Adeiladwch eich thema eich hun gyda Firefox Color. </a>
+
+## Page headings
+
