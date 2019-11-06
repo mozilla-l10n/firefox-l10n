@@ -41,6 +41,14 @@ update-pref-write-failure-title = Kirjoitusvirhe
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Asetuksia ei voitu tallentaa. Ei voitu kirjoittaa tiedostoon: { $path }
 update-setting-write-failure-title = Virhe päivitysasetusten päivittämisessä
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } törmäsi virheeseen, eikä voinut tallentaa tätä muutosta. Huomaa, että tämän päivitysasetuksen muuttaminen edellyttää kirjoitusoikeutta alla mainittuun tiedostoon. Järjestelmänvalvojasi saattaa pystyä ratkaisemaan tämän virheen antamalla ryhmälle "Users" täydet oikeudet tähän tiedostoon
+    
+    Ei voitu kirjoittaa tiedostoon: { $path }
 update-in-progress-title = Päivitys käynnissä
 update-in-progress-message = Haluatko, että { -brand-short-name } jatkaa tätä päivitystä?
 update-in-progress-ok-button = &Hylkää
