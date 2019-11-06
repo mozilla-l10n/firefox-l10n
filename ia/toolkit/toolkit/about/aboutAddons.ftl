@@ -439,6 +439,7 @@ theme-heading = Gere tu themas
 plugin-heading = Gere tu plugins
 dictionary-heading = Gere tu dictionarios
 locale-heading = Gerer tu linguas
+updates-heading = Gere tu actualisationes
 discover-heading = Personalisa tu { -brand-short-name }
 shortcuts-heading = Gerer le accessos directe al extensiones
 theme-heading-search-label = Trova plus themas
