@@ -427,6 +427,7 @@ theme-heading = 管理您的主题
 plugin-heading = 管理您的插件
 dictionary-heading = 管理您的字典
 locale-heading = 管理您的语言包
+discover-heading = 让 { -brand-short-name } 有你的个性
 shortcuts-heading = 管理扩展快捷键
 theme-heading-search-label = 寻找更多主题
 extension-heading-search-label = 寻找更多扩展
