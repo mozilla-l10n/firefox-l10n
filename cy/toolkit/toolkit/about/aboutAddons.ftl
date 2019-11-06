@@ -184,6 +184,10 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Galluogi
     .tooltiptext = Galluogi gwirio diogelwch diweddariad ychwanegyn
+extensions-warning-check-compatibility-button = Galluogi
+    .title = Galluogi gwirio cydnawsedd ychwanegion
+extensions-warning-update-security-button = Galluogi
+    .title = Galluogi gwirio diogelwch diweddariad ychwanegyn
 
 ## Strings connected to add-on updates
 
