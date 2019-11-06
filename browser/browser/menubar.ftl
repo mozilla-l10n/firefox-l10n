@@ -273,3 +273,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = തെറ്റിദ്ധരിപ്പിക്കുന്ന സൈറ്റ് റിപ്പോര്‍ട്ട് ചെയ്യുക…
     .accesskey = D
+menu-help-not-deceptive =
+    .label = ഇത് വഞ്ചനാപരമായ സൈറ്റല്ല…
+    .accesskey = d
