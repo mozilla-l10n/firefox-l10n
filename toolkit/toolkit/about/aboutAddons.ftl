@@ -196,12 +196,16 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Näytä tuoreet päivitykset
     .accesskey = N
+addon-updates-check-for-updates = Hae päivityksiä
+    .accesskey = H
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Päivitä lisäosat automaattisesti
+    .accesskey = u
+addon-updates-update-addons-automatically = Päivitä lisäosat automaattisesti
     .accesskey = u
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -215,6 +219,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = P
 extensions-updates-reset-updates-to-manual =
     .label = Aseta kaikki lisäosat päivittymään vain käsin
+    .accesskey = k
+addon-updates-reset-updates-to-automatic = Aseta kaikki lisäosat päivittymään automaattisesti
+    .accesskey = P
+addon-updates-reset-updates-to-manual = Aseta kaikki lisäosat päivittymään vain käsin
     .accesskey = k
 
 ## Status messages displayed when updating add-ons
@@ -234,6 +242,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Asenna päivitykset
     .tooltiptext = Asenna tämän listan saatavilla olevat päivitykset
+addon-updates-updating = Päivitetään lisäosia
+addon-updates-installed = Lisäosat on päivitetty.
+addon-updates-none-found = Päivityksiä ei löytynyt
+addon-updates-manual-updates-found = Näytä saatavilla olevat päivitykset
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Asenna lisäosa tiedostosta…
+    .accesskey = A
+addon-install-from-file-dialog-title = Valitse asennettava lisäosa
+addon-install-from-file-filter-name = Lisäosat
 
 ## Extension shortcut management
 
@@ -402,3 +421,6 @@ recommended-themes-heading = Suositellut teemat
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Haluatko kokeilla itse? <a data-l10n-name="link">Voit luoda oman teeman Firefox Color -ohjelmalla.</a>
+
+## Page headings
+
