@@ -255,6 +255,9 @@ addon-open-about-debugging = Dì-bhugaich na tuilleadain
 manage-extensions-shortcuts =
     .label = Stiùirich ath-ghoiridean an leudachain
     .accesskey = S
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Stiùirich ath-ghoiridean an leudachain
+    .accesskey = S
 shortcuts-no-addons = Chan eil leudachan sam bith an comas agad.
 shortcuts-no-commands = Chan eil ath-ghoirid aig na leudachain a leanas:
 shortcuts-input =
@@ -318,3 +321,13 @@ addon-detail-reviews-link =
 
 ## Page headings
 
+extension-heading = Stiùirich na leudachain agad
+theme-heading = Stiùirich na h-ùrlaran agad
+plugin-heading = Stiùirich na plugain agad
+dictionary-heading = Stiùirich na faclairean agad
+locale-heading = Stiùirich na cànain agad
+shortcuts-heading = Stiùirich ath-ghoiridean an leudachain
+theme-heading-search-label = Lorg barrachd ùrlaran
+extension-heading-search-label = Lorg barrachd leudachan
+addons-heading-search-input =
+    .placeholder = Lorg air addons.mozilla.org
