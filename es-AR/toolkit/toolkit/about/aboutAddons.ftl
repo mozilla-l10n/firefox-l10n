@@ -247,7 +247,9 @@ extensions-updates-update-selected =
     .label = Instalar actualizaciones
     .tooltiptext = Instalar las actualizaciones disponibles en esta lista
 addon-updates-updating = Actualizando complementos
+addon-updates-installed = Se actualizaron sus complementos.
 addon-updates-none-found = No se encontraron actualizaciones
+addon-updates-manual-updates-found = Ver las actualizaciones disponibles
 
 ## Add-on install/debug strings for page options menu
 
@@ -262,6 +264,9 @@ addon-open-about-debugging = Depurar complementos
 
 manage-extensions-shortcuts =
     .label = Administrar los accesos directos del complemento
+    .accesskey = S
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Administrar los accesos directos del complemento
     .accesskey = S
 shortcuts-no-addons = No tiene ningún complemento habilitado.
 shortcuts-no-commands = Los siguientes complementos no tienen atajos de teclado:
@@ -434,6 +439,8 @@ theme-heading = Administrar temas
 plugin-heading = Administrar plugins
 dictionary-heading = Administrar diccionarios
 locale-heading = Administrar idiomas
+discover-heading = Personalice su { -brand-short-name }
+shortcuts-heading = Administrar Accesos directos de extensión
 theme-heading-search-label = Encontrar mas temas
 extension-heading-search-label = Encontrar mas extensiones
 addons-heading-search-input =
