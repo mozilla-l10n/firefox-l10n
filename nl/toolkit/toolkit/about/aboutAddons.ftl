@@ -196,6 +196,10 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Inschakelen
     .tooltiptext = Beveiligingscontrole voor add-on-updates inschakelen
+extensions-warning-safe-mode = Alle add-ons zijn uitgeschakeld door de veilige modus.
+extensions-warning-check-compatibility = Compatibiliteitscontrole voor add-ons is uitgeschakeld. Mogelijk hebt u incompatibele add-ons.
+extensions-warning-check-compatibility-button = Inschakelen
+    .title = Add-on-compatibiliteitscontrole inschakelen
 
 ## Strings connected to add-on updates
 
