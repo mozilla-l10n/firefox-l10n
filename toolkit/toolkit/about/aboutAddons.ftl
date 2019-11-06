@@ -377,5 +377,14 @@ recommended-theme-1 = احساس خلاقیت می کنید؟ <a data-l10n-name=
 
 ## Page headings
 
+extension-heading = افزونه‌های خود را مدیریت کنید
+theme-heading = تم‌های خود را مدیریت کنید
+plugin-heading = افزونه‌های خود را مدیریت کنید
+dictionary-heading = لغتنامه‌های خود را مدیریت کنید
+locale-heading = زبانهای خود را مدیریت کنید
+discover-heading = { -brand-short-name } خود را سفارشی کنید
+shortcuts-heading = میانبرهای افزونه را مدیریت کنید
+theme-heading-search-label = تم‌های بیشتری پیدا کنید
+extension-heading-search-label = افزونه‌های بیشتری پیدا کنید
 addons-heading-search-input =
     .placeholder = جست‌ و جو addons.mozilla.org
