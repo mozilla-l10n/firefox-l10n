@@ -173,6 +173,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Qabilleştir
     .tooltiptext = Eklenti yañartması emniyet teşkerüvini qabilleştir
+extensions-warning-safe-mode = Episi eklentiler emin tarz tarafından ğayrıqabilleştirilgendir.
+extensions-warning-check-compatibility = Eklenti telif qabiliyeti teşkerüvi qabil degildir. Belki ğayrı-qabili-telif eklentileriñiz bar.
+extensions-warning-check-compatibility-button = Qabilleştir
+    .title = Eklenti telif qabiliyeti teşkerüvini qabilleştir
+extensions-warning-update-security = Eklenti yañartması emniyet teşkerüvi qabil degildir. Yañartmalar tarafından tehlükege atılabilirsiñiz.
+extensions-warning-update-security-button = Qabilleştir
+    .title = Eklenti yañartması emniyet teşkerüvini qabilleştir
 
 ## Strings connected to add-on updates
 
