@@ -183,7 +183,11 @@ extensions-warning-update-security-enable =
     .label = I-enable
     .tooltiptext = I-enable ang add-on security checking
 extensions-warning-check-compatibility = Naka-disable ang add-on compatibility checking. Posibleng may incompatible add-on ka.
+extensions-warning-check-compatibility-button = I-enable
+    .title = I-enable ang add-on compatibility checking
 extensions-warning-update-security = Naka-disable ang update security checking. Posibleng ma-compromise ka ng updates.
+extensions-warning-update-security-button = I-enable
+    .title = I-enable ang add-on security checking
 
 ## Strings connected to add-on updates
 
