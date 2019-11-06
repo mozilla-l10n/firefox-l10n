@@ -121,9 +121,6 @@ legacy-warning-show-legacy = Ցուցադրել հնացած ընդլայնու�
 legacy-extensions =
     .value = Հնացած ընդլայնումներ
 legacy-extensions-description = Այս ընդլայնումները չեն համապատասխանում { -brand-short-name }-ի պահանջներին և ապաակտիվացվել են: <label data-l10n-name="legacy-learn-more">Իմանալ ավելին հավելումների փոփոխությունների մասին</label>
-extensions-view-discover =
-    .name = Ձեռք բերել հավելումներ
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Վերջին Թարմացումները
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -160,12 +157,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Տեսնել Վերջին Թարմացումները
     .accesskey = Տ
+addon-updates-check-for-updates = Ստուգել թարմացումները
+    .accesskey = Ս
+addon-updates-view-updates = Տեսնել Վերջին Թարմացումները
+    .accesskey = Տ
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Թարմացնել հավելումները ինքնաբերաբար
+    .accesskey = Թ
+addon-updates-update-addons-automatically = Թարմացնել հավելումները ինքնաբերաբար
     .accesskey = Թ
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -198,3 +201,28 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Տեղադրել Թարմացումները
     .tooltiptext = Տեղադրում է այս ցանկում առկա թարմացումները:
+addon-updates-updating = Հավելումները թարմացվում են
+addon-updates-installed = Ձեր հավելումը թարմացվեց:
+addon-updates-none-found = Թարմացում չի գտնվել
+addon-updates-manual-updates-found = Տեսնել Առկա Թարմացումները
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Տեղակայեք հավելումը Ֆայլից...
+    .accesskey = Տ
+addon-install-from-file-filter-name = Հավելումներ
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
