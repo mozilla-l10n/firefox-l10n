@@ -195,12 +195,16 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = 최근 업데이트 보기
     .accesskey = V
+addon-updates-check-for-updates = 업데이트 확인하기
+    .accesskey = C
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = 자동 업데이트 하기
+    .accesskey = A
+addon-updates-update-addons-automatically = 자동 업데이트 하기
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -233,6 +237,16 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = 업데이트 설치
     .tooltiptext = 현재 목록 내 업데이트 설치하기
+addon-updates-updating = 업데이트 확인 중
+addon-updates-installed = 업데이트가 완료되었습니다.
+addon-updates-manual-updates-found = 업데이트 가능 항목 보기
+
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = 파일에서 부가 기능 설치…
+    .accesskey = I
+addon-install-from-file-dialog-title = 설치할 부가 기능 선택
+addon-install-from-file-filter-name = 부가 기능
 
 ## Extension shortcut management
 
@@ -395,3 +409,6 @@ recommended-themes-heading = 추천 테마
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = 창의적인 느낌이 떠오르시나요? <a data-l10n-name="link">Firefox Color로 나만의 테마를 만들어 보십시오.</a>
+
+## Page headings
+
