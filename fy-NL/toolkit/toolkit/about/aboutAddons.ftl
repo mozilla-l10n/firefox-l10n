@@ -203,12 +203,16 @@ extensions-updates-view-updates =
     .accesskey = T
 addon-updates-check-for-updates = Kontrolearje op fernijingen
     .accesskey = K
+addon-updates-view-updates = Resinte fernijingen toane
+    .accesskey = T
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Add-ons automatysk fernije
+    .accesskey = a
+addon-updates-update-addons-automatically = Add-ons automatysk fernije
     .accesskey = a
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -248,6 +252,7 @@ extensions-updates-update-selected =
 addon-updates-updating = Add-ons oan it bywurkjen
 addon-updates-installed = Jo add-ons binne bywurke.
 addon-updates-none-found = Gjin fernijingen fûn
+addon-updates-manual-updates-found = Beskikbere fernijingen toane
 
 ## Add-on install/debug strings for page options menu
 
@@ -262,6 +267,9 @@ addon-open-about-debugging = Add-ons debugge
 
 manage-extensions-shortcuts =
     .label = Utwreidingsfluchtoetsen beheare
+    .accesskey = U
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Utwreidingsfluchtoetsen beheare
     .accesskey = U
 shortcuts-no-addons = Jo hawwe gjin útwreidingen ynskeakele.
 shortcuts-no-commands = De folgjende útwreidingen hawwe gjin fluchtoetsen:
@@ -431,3 +439,14 @@ recommended-theme-1 = Fiele jo jo kreätyf? <a data-l10n-name="link"> Bou jo eig
 
 ## Page headings
 
+extension-heading = Jo útwreidingen beheare
+theme-heading = Jo tema’s beheare
+plugin-heading = Jo ynstekkers beheare
+dictionary-heading = Jo wurdboeken beheare
+locale-heading = Jo talen beheare
+discover-heading = Personalisearje jo { -brand-short-name }
+shortcuts-heading = Utwreidingsfluchtoetsen beheare
+theme-heading-search-label = Mear tema’s sykje
+extension-heading-search-label = Mear útwreidingen sykje
+addons-heading-search-input =
+    .placeholder = addons.mozilla.org trochsykje
