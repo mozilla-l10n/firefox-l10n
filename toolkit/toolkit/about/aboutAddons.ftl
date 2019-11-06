@@ -260,6 +260,8 @@ addon-install-from-file = Встановити додаток з файлу…
     .accesskey = В
 addon-install-from-file-dialog-title = Виберіть додаток для встановлення
 addon-install-from-file-filter-name = Додатки
+addon-open-about-debugging = Зневадження додатків
+    .accesskey = З
 
 ## Extension shortcut management
 
