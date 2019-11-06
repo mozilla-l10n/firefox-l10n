@@ -104,9 +104,6 @@ detail-rating =
     .value = Gyina-bea:
 addon-restart-now =
     .label = San hyɛ ase seisei ara
-extensions-view-discover =
-    .name = Gye Nkaho
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Ntoso a nsa aka no ndansa yi
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -181,3 +178,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instɔl ntoso
     .tooltiptext = Instɔl ntoso a wɔda-hɔ
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
