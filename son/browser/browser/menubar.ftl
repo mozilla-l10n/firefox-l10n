@@ -273,3 +273,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Darga nungu bayrandi…
     .accesskey = D
+menu-help-not-deceptive =
+    .label = Woo manti darga nungu…
+    .accesskey = d
