@@ -232,6 +232,13 @@ extensions-updates-update-selected =
     .label = Инсталирај ажурирања
     .tooltiptext = Инсталирајте доступна ажурирања са овог списка
 
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file = Инсталирај додатак из датотеке…
+    .accesskey = И
+addon-install-from-file-dialog-title = Изаберите додатке за инсталирање
+addon-install-from-file-filter-name = Додаци
+
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
@@ -332,3 +339,6 @@ recommended-themes-heading = Препоручене теме
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Креативни сте? <a data-l10n-name="link">Направите своју сопствену тему уз помоћ Firefox Color-а.</a>
+
+## Page headings
+
