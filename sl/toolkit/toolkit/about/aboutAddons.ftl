@@ -197,12 +197,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Pokaži nedavne posodobitve
     .accesskey = n
+addon-updates-check-for-updates = Poišči posodobitve
+    .accesskey = P
+addon-updates-view-updates = Pokaži nedavne posodobitve
+    .accesskey = n
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Samodejno posodobi dodatke
+    .accesskey = d
+addon-updates-update-addons-automatically = Samodejno posodobi dodatke
     .accesskey = d
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -216,6 +222,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = S
 extensions-updates-reset-updates-to-manual =
     .label = Ponastavi vse dodatke na ročno posodabljanje
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = Ponastavi vse dodatke na samodejno posodabljanje
+    .accesskey = S
+addon-updates-reset-updates-to-manual = Ponastavi vse dodatke na ročno posodabljanje
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -235,9 +245,15 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Namesti posodobitve
     .tooltiptext = Namesti posodobitve, ki so na voljo v seznamu
+addon-updates-updating = Posodabljanje dodatkov
+addon-updates-installed = Vaši dodatki so posodobljeni.
+addon-updates-none-found = Ni novih posodobitev
+addon-updates-manual-updates-found = Preglej vse posodobitve
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Namesti dodatek iz datoteke …
+    .accesskey = I
 addon-install-from-file-dialog-title = Izberite dodatek za namestitev
 addon-install-from-file-filter-name = Dodatki
 
