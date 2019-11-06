@@ -207,6 +207,8 @@ extensions-updates-view-updates =
     .accesskey = V
 addon-updates-check-for-updates = Søg efter opdateringer
     .accesskey = T
+addon-updates-view-updates = Vis seneste opdateringer
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
@@ -262,6 +264,8 @@ addon-install-from-file = Installer tilføjelse fra fil…
     .accesskey = I
 addon-install-from-file-dialog-title = Vælg tilføjelser der skal installeres
 addon-install-from-file-filter-name = Tilføjelser
+addon-open-about-debugging = Debug udvidelser
+    .accesskey = e
 
 ## Extension shortcut management
 
