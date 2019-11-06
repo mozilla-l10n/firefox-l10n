@@ -123,6 +123,7 @@ addon-updates-manual-updates-found = ເບິ່ງການອັບເດດ�
 
 addon-install-from-file = ຕິດຕັ້ງ Add-ons ຈາກໄຟລ໌…
     .accesskey = I
+addon-install-from-file-dialog-title = ເລືອກ add-on ເພື່ອທີ່ຈະຕິດຕັ້ງ
 addon-install-from-file-filter-name = Add-ons
 addon-open-about-debugging = ດີບັກ Add-on
     .accesskey = B
