@@ -185,6 +185,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Aktifkan
     .tooltiptext = Aktifkan pemeriksaan keamanan pemutakhiran pengaya
+extensions-warning-safe-mode = Semua pengaya telah dinonaktifkan dalam mode aman.
+extensions-warning-check-compatibility = Pemeriksaan kompatibilitas pengaya telah dinonaktifkan. Anda mungkin menggunakan pengaya yang tidak kompatibel.
+extensions-warning-check-compatibility-button = Aktifkan
+    .title = Aktifkan pemeriksaan kompatibilitas pengaya
+extensions-warning-update-security = Pemeriksaan keamanan pemutakhiran pengaya telah dinonaktifkan. Pemutakhiran pengaya saat ini memiliki risiko keamanan.
+extensions-warning-update-security-button = Aktifkan
+    .title = Aktifkan pemeriksaan keamanan pemutakhiran pengaya
 
 ## Strings connected to add-on updates
 
