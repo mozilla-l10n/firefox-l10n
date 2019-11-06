@@ -140,12 +140,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Laba okutuukanya okukoleddwa emabegako
     .accesskey = L
+addon-updates-check-for-updates = Kebera Ebitusaganya Ebipya
+    .accesskey = e
+addon-updates-view-updates = Laba okutuukanya okukoleddwa emabegako
+    .accesskey = L
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Tuukanya Ebyongerwako wekka
+    .accesskey = E
+addon-updates-update-addons-automatically = Tuukanya Ebyongerwako wekka
     .accesskey = E
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -159,6 +165,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = T
 extensions-updates-reset-updates-to-manual =
     .label = Tegeka ebyokwongerako byonna bituusaganyizibwe
+    .accesskey = T
+addon-updates-reset-updates-to-automatic = Tegeka ebyokwongerako byonna byetuukanye byokka
+    .accesskey = T
+addon-updates-reset-updates-to-manual = Tegeka ebyokwongerako byonna bituusaganyizibwe
     .accesskey = T
 
 ## Status messages displayed when updating add-ons
@@ -178,9 +188,17 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Teekamu Ebitusaganya
     .tooltiptext = Teeka ebyokutuukanya ebiriwo mu lukalala luno
+addon-updates-updating = Kutuukanya byongerwako
+addon-updates-installed = Ebyongerwako byo bituukanyiziddwa
+addon-updates-none-found = Tewali bituusa bizuuliddwa
+addon-updates-manual-updates-found = Laba ebyokutuukanya ebiriwo
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Teekako ebyongerwako okuva mu fayiro
+    .accesskey = T
+addon-install-from-file-dialog-title = Londa ekyongerwako kyo'okuteekamu
+addon-install-from-file-filter-name = Ebigattibwako
 
 ## Extension shortcut management
 
