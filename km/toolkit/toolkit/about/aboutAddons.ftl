@@ -155,12 +155,16 @@ extensions-updates-view-updates =
     .accesskey = V
 addon-updates-check-for-updates = ពិនិត្យមើល​បច្ចុប្បន្នភាព
     .accesskey = ព
+addon-updates-view-updates = មើល​បច្ចុប្បន្នភាព​ថ្មីៗ
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​បន្ថែម​ដោយ​ស្វ័យប្រវត្តិ
+    .accesskey = A
+addon-updates-update-addons-automatically = ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​បន្ថែម​ដោយ​ស្វ័យប្រវត្តិ
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -174,6 +178,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = កំណត់​កម្មវិធី​បន្ថែម​ទាំងអស់​ឡើង​វិញ ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព​ដោយ​ដៃ
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = កំណត់​កម្មវិធី​បន្ថែម​ទាំងអស់​ឡើង​វិញ ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ
+    .accesskey = R
+addon-updates-reset-updates-to-manual = កំណត់​កម្មវិធី​បន្ថែម​ទាំងអស់​ឡើង​វិញ ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព​ដោយ​ដៃ
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -200,6 +208,8 @@ addon-updates-manual-updates-found = មើល​បច្ចុប្បន្�
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = ដំឡើង​កម្មវិធី​បន្ថែម​ពី​ឯកសារ…
+    .accesskey = I
 addon-install-from-file-dialog-title = ជ្រើស​កម្មវិធី​បន្ថែម​ដើម្បី​ដំឡើង
 addon-install-from-file-filter-name = កម្មវិធី​បន្ថែម
 
