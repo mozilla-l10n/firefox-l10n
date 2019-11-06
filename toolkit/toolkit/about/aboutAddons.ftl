@@ -209,6 +209,8 @@ addon-updates-manual-updates-found = இருக்கும் புதுப
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = கோப்பிலிருந்து நீட்சிகள் நிறுவுகிறது…
+    .accesskey = க
 addon-install-from-file-dialog-title = நிறுவ கூடுதல் இணைப்பைத் தேர்ந்தெடு
 addon-install-from-file-filter-name = கூடுதல் இணைப்பு
 
