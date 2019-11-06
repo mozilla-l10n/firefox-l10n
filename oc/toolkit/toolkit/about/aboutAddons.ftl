@@ -221,8 +221,12 @@ addon-updates-manual-updates-found = Afichar las mesas a jorn disponiblas
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Installar un modul dins d’un fichièr…
+    .accesskey = I
 addon-install-from-file-dialog-title = Causissètz un modul d'installar
 addon-install-from-file-filter-name = Moduls complementaris
+addon-open-about-debugging = Desbugar los moduls
+    .accesskey = B
 
 ## Extension shortcut management
 
@@ -238,3 +242,12 @@ addon-install-from-file-filter-name = Moduls complementaris
 
 ## Page headings
 
+extension-heading = Gestion de las extensions
+theme-heading = Gestion dels tèmas
+plugin-heading = Gestion dels plugins
+dictionary-heading = Gestion dels diccionaris
+locale-heading = Gestion de las lengas
+theme-heading-search-label = Trobar mai de tèmas
+extension-heading-search-label = Trobar mai d’extensions
+addons-heading-search-input =
+    .placeholder = Cercar sus addons.mozilla.org
