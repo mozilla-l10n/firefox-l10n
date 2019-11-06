@@ -212,6 +212,8 @@ addon-install-from-file = ដំឡើង​កម្មវិធី​បន្
     .accesskey = I
 addon-install-from-file-dialog-title = ជ្រើស​កម្មវិធី​បន្ថែម​ដើម្បី​ដំឡើង
 addon-install-from-file-filter-name = កម្មវិធី​បន្ថែម
+addon-open-about-debugging = បំបាត់​កំហុស​ផ្នែក​បន្ថែម
+    .accesskey = B
 
 ## Extension shortcut management
 
