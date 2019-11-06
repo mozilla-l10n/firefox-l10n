@@ -255,6 +255,9 @@ addon-open-about-debugging = ਐਡ-ਆਨ ਨੂੰ ਡੀਬੱਗ ਕਰੋ
 manage-extensions-shortcuts =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਸ਼ਾਰਟਕੱਟ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
     .accesskey = S
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = ਇਕਸਟੈਨਸ਼ਨ ਸ਼ਾਰਟਕੱਟ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+    .accesskey = S
 shortcuts-no-addons = ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਵੀ ਸਮਰੱਥ ਕੀਤੀ ਇਕਸਟੈਨਸ਼ਨ ਨਹੀਂ ਹੈ।
 shortcuts-no-commands = ਅੱਗੇ ਦਿੱਤੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੇ ਸ਼ਾਰਟਕੱਟ ਨਹੀਂ ਹਨ:
 shortcuts-input =
@@ -400,3 +403,14 @@ recommended-themes-heading = ਸਿਫਾਰਸ਼ੀ ਥੀਮ
 
 ## Page headings
 
+extension-heading = ਆਪਣੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+theme-heading = ਆਪਣੇ ਥੀਮਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+plugin-heading = ਆਪਣੀਆਂ ਪਲੱਗਇਨ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+dictionary-heading = ਆਪਣੀਆਂ ਡਿਕਸ਼ਨਰੀਆਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+locale-heading = ਆਪਣੀਆਂ ਭਾਸ਼ਾਵਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+discover-heading = ਆਪਣੇ { -brand-short-name } ਨੂੰ ਆਪਣਾ ਬਣਾਓ
+shortcuts-heading = ਇਕਸਟੈਨਸ਼ਨ ਸ਼ਾਰਟਕੱਟਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+theme-heading-search-label = ਹੋਰ ਥੀਮ ਲੱਭੋ
+extension-heading-search-label = ਹੋਰ ਇਕਸਟੈਨਸ਼ਨਾਂ ਲੱਭੋ
+addons-heading-search-input =
+    .placeholder = addons.mozilla.org ਨੂੰ ਖੋਜੋ
