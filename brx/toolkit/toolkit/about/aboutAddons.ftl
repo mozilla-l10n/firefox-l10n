@@ -145,12 +145,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = दानि आपडेटफोरखौ नाइ
     .accesskey = V
+addon-updates-check-for-updates = आपडेटफोरनि थाखाय आवजाद खालाम
+    .accesskey = C
+addon-updates-view-updates = दानि आपडेटफोरखौ नाइ
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Add-ons खौ गावनो गाव महरै आपडेट खालाम
+    .accesskey = A
+addon-updates-update-addons-automatically = Add-ons खौ गावनो गाव महरै आपडेट खालाम
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -164,6 +170,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = R
 extensions-updates-reset-updates-to-manual =
     .label = आखायजों आपडेट खालामनो गासै Add-ons खौ फिन फज
+    .accesskey = R
+addon-updates-reset-updates-to-automatic = गावनो गाव महरै आपडेट खालामनो गासै Add-ons खौ फिन फज
+    .accesskey = R
+addon-updates-reset-updates-to-manual = आखायजों आपडेट खालामनो गासै Add-ons खौ फिन फज
     .accesskey = R
 
 ## Status messages displayed when updating add-ons
@@ -190,6 +200,8 @@ addon-updates-manual-updates-found = थानाय आपडेटखौ न�
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = फाइल निफ्राय Add-on खौ इनष्टल खालाम...
+    .accesskey = I
 addon-install-from-file-dialog-title = इनष्टल खालामनो add-on खौ सायख
 addon-install-from-file-filter-name = Add-ons
 
