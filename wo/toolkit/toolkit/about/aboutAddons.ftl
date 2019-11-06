@@ -136,6 +136,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Suqali
     .tooltiptext = Suqali wóoralu yeesali kaaraange yu modili mottali yi
+extensions-warning-safe-mode = Anamu ñakk lajj suuxal na modili yokk yépp.
+extensions-warning-check-compatibility = Wóorliku andu modili mottali yi dafa suux. Xëyna dafa am ay modil yu mënula and.
+extensions-warning-check-compatibility-button = Suqali
+    .title = Suqali seetlu yi ànd
+extensions-warning-update-security = Wóoralu yeesali kaarange modili mottali yi dafa suux. Xëyna da nga am ay modili mottali yu wóorul.
+extensions-warning-update-security-button = Suqali
+    .title = Suqali wóoralu yeesali kaaraange yu modili mottali yi
 
 ## Strings connected to add-on updates
 
