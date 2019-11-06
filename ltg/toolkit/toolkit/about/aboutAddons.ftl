@@ -121,9 +121,6 @@ legacy-warning-show-legacy = Show legacy extensions
 legacy-extensions =
     .value = Legacy Extensions
 legacy-extensions-description = These extensions do not meet current { -brand-short-name } standards so they have been deactivated. <label data-l10n-name="legacy-learn-more">Learn about the changes to add-ons</label>
-extensions-view-discover =
-    .name = Īgiut papyldynuojums
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Nasenī atjaunynuojumi
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -198,3 +195,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instaleit atjaunynuojumus
     .tooltiptext = Instaleit vysus itymā sarokstā pīejamūs atjaunynuojumus
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
