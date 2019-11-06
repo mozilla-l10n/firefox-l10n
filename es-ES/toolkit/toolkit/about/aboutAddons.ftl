@@ -263,6 +263,9 @@ addon-open-about-debugging = Depurar complementos
 manage-extensions-shortcuts =
     .label = Administrar atajos de extensiones
     .accesskey = s
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Administrar atajos de extensiones
+    .accesskey = s
 shortcuts-no-addons = No tiene ninguna extensión habilitada.
 shortcuts-no-commands = Las siguientes extensiones no tienen atajos:
 shortcuts-input =
