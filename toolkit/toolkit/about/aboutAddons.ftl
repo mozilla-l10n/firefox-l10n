@@ -188,8 +188,12 @@ extensions-warning-update-security-enable =
     .label = Ativar
     .tooltiptext = Ativar verificação de segurança de atualização do extra
 extensions-warning-safe-mode = Todos os extras foram desativados pelo modo de segurança.
+extensions-warning-check-compatibility = A verificação de compatibilidade de extras está desativada. Poderá ter extras incompatíveis.
 extensions-warning-check-compatibility-button = Ativar
     .title = Ativar verificação de compatibilidade de extras
+extensions-warning-update-security = A verificação de compatibilidade de extras está desativada. Poderá estar comprometido com atualizações.
+extensions-warning-update-security-button = Ativar
+    .title = Ativar verificação de segurança de atualização do extra
 
 ## Strings connected to add-on updates
 
