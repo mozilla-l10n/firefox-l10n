@@ -121,9 +121,6 @@ legacy-warning-show-legacy = Taispeáin seaneisínteachtaí
 legacy-extensions =
     .value = Seaneisínteachtaí
 legacy-extensions-description = Ní chloíonn na heisínteachtaí seo le caighdeáin { -brand-short-name } a thuilleadh agus dhíchumasaíomar iad. <label data-l10n-name="legacy-learn-more">Foghlaim faoi na hathruithe ar bhreiseáin</label>
-extensions-view-discover =
-    .name = Faigh Breiseáin
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Nuashonruithe Le Déanaí
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -198,3 +195,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Suiteáil Nuashonruithe
     .tooltiptext = Suiteáil na nuashonruithe atá ar fáil sa liosta seo
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
