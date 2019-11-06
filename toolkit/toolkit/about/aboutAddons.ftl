@@ -222,6 +222,10 @@ extensions-updates-reset-updates-to-automatic =
 extensions-updates-reset-updates-to-manual =
     .label = Repor atualização manual para todos os extras
     .accesskey = R
+addon-updates-reset-updates-to-automatic = Repor atualização automática para todos os extras
+    .accesskey = R
+addon-updates-reset-updates-to-manual = Repor atualização manual para todos os extras
+    .accesskey = R
 
 ## Status messages displayed when updating add-ons
 
@@ -247,7 +251,12 @@ addon-updates-manual-updates-found = Ver atualizações disponíveis
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Instalar extra a partir de ficheiro…
+    .accesskey = I
+addon-install-from-file-dialog-title = Selecione o extra a instalar
 addon-install-from-file-filter-name = Extras
+addon-open-about-debugging = Depurar extras
+    .accesskey = p
 
 ## Extension shortcut management
 
