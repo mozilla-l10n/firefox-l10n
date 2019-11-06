@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Helskärm
     .accesskey = H
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Visa alla flikar
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Rapportera vilseledande webbplats…
     .accesskey = d
+menu-help-not-deceptive =
+    .label = Detta är inte en vilseledande webbplats…
+    .accesskey = v
