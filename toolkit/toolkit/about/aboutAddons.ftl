@@ -246,6 +246,9 @@ addon-updates-manual-updates-found = Vezi actualizările disponibile
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Instalează un supliment dintr-un fișier…
+    .accesskey = I
+addon-install-from-file-dialog-title = Selectează suplimentul pentru instalare
 addon-install-from-file-filter-name = Suplimente
 addon-open-about-debugging = Depanează suplimente
     .accesskey = b
@@ -411,3 +414,13 @@ recommended-theme-1 = Te simți creativ? <a data-l10n-name="link">Construiește-
 
 ## Page headings
 
+extension-heading = Gestionează extensiile
+theme-heading = Gestionează temele
+plugin-heading = Gestionează pluginurile
+dictionary-heading = Gestionează dicționarele
+locale-heading = Gestionează limbile
+shortcuts-heading = Gestionează comenzile rapide ale extensiilor
+theme-heading-search-label = Găsește mai multe teme
+extension-heading-search-label = Găsește mai multe extensii
+addons-heading-search-input =
+    .placeholder = Caută pe addons.mozilla.org
