@@ -179,6 +179,13 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Cuir an comas
     .tooltiptext = Cuir an comas sgrùdadh tèarainteachd nan tuilleadan
+extensions-warning-safe-mode = Chaidh a h-uile tuilleadan a chur à comas leis a' mhodh sàbhailte.
+extensions-warning-check-compatibility = Chaidh an sgrùdadh air co-chòrdalachd nan tuilleadain a chur à comas. Dh'fhaodadh gu bheil tuilleadan agad nach eil co-chòrdail.
+extensions-warning-check-compatibility-button = Cuir an comas
+    .title = Cuir an comas sgrùdadh co-chòrdalachd nan tuilleadan
+extensions-warning-update-security = Chaidh an sgrùdadh tèarainteachd air ùrachadh nan tuilleadain a chur à comas. Dh'fhaodadh gun cuir ùrachaidhean cron ort.
+extensions-warning-update-security-button = Cuir an comas
+    .title = Cuir an comas sgrùdadh tèarainteachd nan tuilleadan
 
 ## Strings connected to add-on updates
 
