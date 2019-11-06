@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = מסך מלא
     .accesskey = ס
 
-
+##
 
 menu-view-show-all-tabs =
     .label = הצגת כל הלשוניות
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = דיווח על אתר מטעה…
     .accesskey = ד
+menu-help-not-deceptive =
+    .label = אתר זה אינו אתר מטעה…
+    .accesskey = א
