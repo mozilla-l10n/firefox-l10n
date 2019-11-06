@@ -275,3 +275,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = අවිශ්වාසී අඩවිය වාර්ථා කරන්න ...
     .accesskey = D
+menu-help-not-deceptive =
+    .label = මෙය කූට අඩවියක් නොවේ
+    .accesskey = d
