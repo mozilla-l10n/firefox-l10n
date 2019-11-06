@@ -216,6 +216,11 @@ extensions-updates-update-selected =
     .label = نصب بروزرسانی
     .tooltiptext = نصب بروزرسانی‌های موجود در این فهرست
 
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-dialog-title = افزودنی مورد نظر برای نصب را انتخاب کنید
+addon-install-from-file-filter-name = افزودنی‌ها
+
 ## Extension shortcut management
 
 shortcuts-sidebarAction = تغییر حالت نوار کناری
@@ -351,3 +356,6 @@ recommended-themes-heading = پوسته‌های توصیه شده
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = احساس خلاقیت می کنید؟ <a data-l10n-name="link">با FireFox Color پوسته خودتان را بسازید.</a>
+
+## Page headings
+
