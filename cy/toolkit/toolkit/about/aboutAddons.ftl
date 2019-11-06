@@ -244,6 +244,8 @@ addon-updates-manual-updates-found = Gweld Diweddariadau ar Gael
 
 addon-install-from-file-dialog-title = Dewis ategyn i'w osod
 addon-install-from-file-filter-name = Ychwanegion
+addon-open-about-debugging = Dadfygio Ychwanegion
+    .accesskey = Y
 
 ## Extension shortcut management
 
