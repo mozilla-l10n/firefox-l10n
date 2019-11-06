@@ -257,6 +257,8 @@ addon-install-from-file = Εγκατάσταση πρόσθετου από αρ�
     .accesskey = γ
 addon-install-from-file-dialog-title = Επιλέξτε πρόσθετο για εγκατάσταση
 addon-install-from-file-filter-name = Πρόσθετα
+addon-open-about-debugging = Αποσφαλμάτωση πρόσθετων
+    .accesskey = θ
 
 ## Extension shortcut management
 
