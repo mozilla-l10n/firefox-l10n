@@ -124,9 +124,6 @@ legacy-warning-show-legacy = बिरासत एक्सटेन्सन�
 legacy-extensions =
     .value = बिरासत एक्सटेन्सनहरू
 legacy-extensions-description = यी एक्सटेन्सनहरूले { -brand-short-name } को हालको मानकहरू पुरा गर्दैनन् त्यसैले तिनीहरु निष्क्रिय गरिएका छन् । <label data-l10n-name="legacy-learn-more">एड-अनहरू मा भएको परिवर्तनहरू बारे जान्नुहोस्</label>
-extensions-view-discover =
-    .name = एड-अनहरू प्राप्त गर्नुहोस्
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = हालका अद्यावधिकहरू
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -201,3 +198,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = अद्यावधिहरू स्थापना गर्नुहोस्
     .tooltiptext = यो सूचीमा रहेका सबै अद्यावधीहरू स्थापना गर्नुहोस्
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
