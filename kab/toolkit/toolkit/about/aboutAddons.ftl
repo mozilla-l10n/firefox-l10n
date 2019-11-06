@@ -242,6 +242,7 @@ addon-updates-manual-updates-found = Sken ileqman yellan
 
 addon-install-from-file = Sebded azegrir seg ufaylu…
     .accesskey = S
+addon-install-from-file-dialog-title = Fren azegrir ad tesbeddeḍ
 addon-install-from-file-filter-name = Izegrar
 addon-open-about-debugging = Izegrar n tseɣtit
     .accesskey = I
