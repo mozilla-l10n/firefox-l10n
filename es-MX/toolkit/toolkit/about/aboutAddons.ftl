@@ -445,6 +445,7 @@ theme-heading = Administra tus temas
 plugin-heading = Administra tus plugins
 dictionary-heading = Administrar diccionarios
 locale-heading = Administra tus idiomas
+updates-heading = Administra tus actualizaciones
 discover-heading = Personaliza tu { -brand-short-name }
 shortcuts-heading = Administrar atajos de extensiones
 theme-heading-search-label = Buscar más temas

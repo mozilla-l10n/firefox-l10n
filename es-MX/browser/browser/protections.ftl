@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = El nivel de protección es <b>estándar</b>
-protection-header-details-strict = El nivel de protección es <b>estricto</b>
-protection-header-details-custom = El nivel de protección es <b>personalizado</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = El nivel de protección es <b>estándar</b>
     .title = Ir a la configuración de privacidad
 protection-report-header-details-strict = El nivel de protección es <b>estricto</b>
@@ -37,6 +31,8 @@ protection-report-page-title = Protecciones de privacidad
 protection-report-content-title = Protecciones de privacidad
 etp-card-title = Protección antirrastreo mejorada
 etp-card-content = Los rastreadores te van siguiendo para recopilar información sobre tus hábitos de navegación y tus intereses. { -brand-short-name } bloquea muchos rastreadores y otros scripts maliciosos.
+protection-report-etp-card-content-custom-not-blocking = Todas las protecciones están desactivadas en este momento. Selecciona qué rastreadores bloquear administrando las configuraciones de protección de { -brand-short-name }.
+protection-report-manage-protections = Administrar configuración
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Hoy
@@ -56,7 +52,6 @@ lockwise-title = Que ya no se te olvide ninguna otra contraseña
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } guarda de manera segura tus contraseñas en el navegador.
 lockwise-header-content-logged-in = Almacena y sincroniza tus contraseñas en todos tus dispositivos.
-about-logins-view-logins-button = Ver credenciales
 protection-report-view-logins-button = Ver credenciales
     .title = Ir a los inicios de sesión guardados
 lockwise-no-logins-content = Obtén la app <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> para tener tus contraseñas en cualquier lugar.
@@ -118,10 +113,6 @@ password-warning =
         [one] Inicio de sesión guardado puede estar expuesto en una filtración de datos. Cambiar esta contraseña para una mejor seguridad en línea. <a data-l10n-name="lockwise-link">Ver inicios de sesión guardados</a>
        *[other] Inicios de sesión guardados pueden estar expuestos en una filtración de datos. Cambiar estas contraseñas para mejor seguridad en línea. <a data-l10n-name="lockwise-link">Ver inicios de sesión guardados</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Ir a la configuración de privacidad
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Ir a los inicios de sesión guardados
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
