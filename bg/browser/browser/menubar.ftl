@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Цял екран
     .accesskey = Ц
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Показване на всички раздели
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Докладване на измамническа страница…
     .accesskey = з
+menu-help-not-deceptive =
+    .label = Това не е измамническа страница…
+    .accesskey = н
