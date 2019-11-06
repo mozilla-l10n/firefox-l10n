@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Celoten zaslon
     .accesskey = C
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Prikaži vse zavihke
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Prijavi zavajajočo stran …
     .accesskey = P
+menu-help-not-deceptive =
+    .label = To ni zavajajoča stran …
+    .accesskey = z
