@@ -187,6 +187,12 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Activar
     .tooltiptext = Activar le verification de securitate pro le actualisation del additivos
+extensions-warning-check-compatibility = Le verification de compatibilitate de additivos es inactive. Tu pote haber additivos incompatibile.
+extensions-warning-check-compatibility-button = Activar
+    .title = Activar le verification de compatibilitate de additivos
+extensions-warning-update-security = Le verification de securitate pro le actualisation del additivos es inactive. Tu pote esser compromittite per actualisationes.
+extensions-warning-update-security-button = Activar
+    .title = Activar le verification de securitate pro le actualisation del additivos
 
 ## Strings connected to add-on updates
 
