@@ -116,9 +116,6 @@ disabled-unsigned-heading =
 disabled-unsigned-description = নিম্নলিখিত অ্যাড অন { -brand-short-name } ব্যবহারের জন্য যাচাই করা হয় নি। আপনি পারেন <label data-l10n-name="find-addons">প্রতিস্থাপন খুঁজে বের করুন</label> বা তাদের যাচাই করার জন্যে ডেভেলপার দের জিজ্ঞাসা করুন।
 disabled-unsigned-learn-more = আপনাকে নিরাপদ রাখার জন্য আমাদের সাহায্য করতে আমাদের প্রচেষ্টা সম্পর্কে আরও জানুন।
 disabled-unsigned-devinfo = উৎসাহী ডেভেলপার রা যারা তাদের অ্যাড অন ভেরিফাই করাতে চান তারা পড়তে পারেন আমাদের <label data-l10n-name="learn-more">ব্যবহারকারীর দ্বারা</label>।
-extensions-view-discover =
-    .name = অতিরিক্ত সামগ্রী প্রাপ্ত করুন
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = সর্বশেষ আপডেট
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -193,3 +190,21 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = আপডেট ইনস্টল করুন
     .tooltiptext = এই তালিকায় উপলব্ধ আপডেটগুলি ইনস্টল করুন
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
+
