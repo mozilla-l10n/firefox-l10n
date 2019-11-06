@@ -90,7 +90,6 @@ detail-update-manual =
     .tooltiptext = Ekki setja sjálfvirkt inn uppfærslur
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Keyra í huliðsgluggum
-detail-private-browsing-description = Viðbótin mun virka í huliðsgluggum og hafa aðgang að netvirkni þar. <label data-l10n-name="detail-private-browsing-learn-more">Fræðast meira</label>.
 detail-private-browsing-on =
     .label = Heimila
     .tooltiptext = Heimila í huliðsvöfrun
@@ -139,9 +138,6 @@ legacy-warning-show-legacy = Sýna allar gamlar viðbætur
 legacy-extensions =
     .value = Gamlar viðbætur
 legacy-extensions-description = Þessar viðbætur standast ekki núverandi staðla í { -brand-short-name } þannig að þær hafa verið gerðar óvirkar. <label data-l10n-name="legacy-learn-more">Fræðast um breytingar á viðbótum</label>
-extensions-view-discover =
-    .name = Ná í viðbætur
-    .tooltiptext = { extensions-view-discover.name }
 extensions-view-recent-updates =
     .name = Nýlegar uppfærslur
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -217,6 +213,9 @@ extensions-updates-update-selected =
     .label = Setja inn uppfærslur
     .tooltiptext = Setja inn allar uppfærslur í þessum lista
 
+## Add-on install/debug strings for page options menu
+
+
 ## Extension shortcut management
 
 shortcuts-input =
@@ -238,6 +237,9 @@ shortcuts-card-collapse-button = Sýna minna
 go-back-button =
     .tooltiptext = Til baka
 
+## Recommended add-ons page
+
+
 ## Add-on actions
 
 remove-addon-button = Fjarlægja
@@ -245,3 +247,9 @@ disable-addon-button = Óvirkja
 enable-addon-button = Virkja
 addons-enabled-heading = Virkjað
 addons-disabled-heading = Óvirkt
+
+## Pending uninstall message bar
+
+
+## Page headings
+
