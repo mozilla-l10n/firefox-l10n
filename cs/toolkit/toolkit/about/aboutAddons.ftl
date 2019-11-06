@@ -189,12 +189,18 @@ extensions-updates-check-for-updates =
 extensions-updates-view-updates =
     .label = Zobrazit nedávno aktualizované doplňky
     .accesskey = Z
+addon-updates-check-for-updates = Zkontrolovat aktualizace
+    .accesskey = k
+addon-updates-view-updates = Zobrazit nedávno aktualizované doplňky
+    .accesskey = Z
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
 extensions-updates-update-addons-automatically =
     .label = Automaticky aktualizovat doplňky
+    .accesskey = A
+addon-updates-update-addons-automatically = Automaticky aktualizovat doplňky
     .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
@@ -208,6 +214,10 @@ extensions-updates-reset-updates-to-automatic =
     .accesskey = N
 extensions-updates-reset-updates-to-manual =
     .label = Nastavit všem doplňkům manuální aktualizaci
+    .accesskey = N
+addon-updates-reset-updates-to-automatic = Nastavit všem doplňkům automatickou aktualizaci
+    .accesskey = N
+addon-updates-reset-updates-to-manual = Nastavit všem doplňkům manuální aktualizaci
     .accesskey = N
 
 ## Status messages displayed when updating add-ons
@@ -227,16 +237,27 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Instalovat aktualizace
     .tooltiptext = Nainstaluje vybrané aktualizace
+addon-updates-updating = Probíhá aktualizace doplňků
+addon-updates-installed = Doplňky byly aktualizovány.
+addon-updates-none-found = Nebyly nalezeny žádné aktualizace
+addon-updates-manual-updates-found = Zobrazit dostupné aktualizace
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Instalovat doplněk ze souboru…
+    .accesskey = I
 addon-install-from-file-dialog-title = Zvolte doplněk k instalaci
 addon-install-from-file-filter-name = Doplňky
+addon-open-about-debugging = Ladění doplňků
+    .accesskey = L
 
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
     .label = Správa klávesových zkratek pro rozšíření
+    .accesskey = S
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Správa klávesových zkratek pro rozšíření
     .accesskey = S
 shortcuts-no-addons = Nemáte povoleno žádné rozšíření.
 shortcuts-no-commands = Následující rozšíření nemají žádné klávesové zkratky:
@@ -408,3 +429,14 @@ recommended-theme-1 = Jste tvořiví? <a data-l10n-name="link">Vyrobte si vlastn
 
 ## Page headings
 
+extension-heading = Správa rozšíření
+theme-heading = Správa vzhledů
+plugin-heading = Správa zásuvných modulů
+dictionary-heading = Správa slovníků
+locale-heading = Správa jazyků
+discover-heading = Přizpůsobte si aplikaci { -brand-short-name }
+shortcuts-heading = Správa klávesových zkratek pro rozšíření
+theme-heading-search-label = Najít další vzhledy
+extension-heading-search-label = Najít další rozšíření
+addons-heading-search-input =
+    .placeholder = Vyhledat na addons.mozilla.org
