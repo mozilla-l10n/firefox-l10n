@@ -265,6 +265,9 @@ addon-open-about-debugging = Αποσφαλμάτωση πρόσθετων
 manage-extensions-shortcuts =
     .label = Διαχείριση συντομεύσεων επέκτασης
     .accesskey = σ
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Διαχείριση συντομεύσεων επέκτασης
+    .accesskey = σ
 shortcuts-no-addons = Δεν έχετε ενεργοποιήσει καμία επέκταση.
 shortcuts-no-commands = Οι εξής επεκτάσεις δεν έχουν συντομεύσεις:
 shortcuts-input =
@@ -427,3 +430,14 @@ recommended-theme-1 = Αισθάνεστε δημιουργικοί; <a data-l10
 
 ## Page headings
 
+extension-heading = Διαχείριση των επεκτάσεών σας
+theme-heading = Διαχείριση των θεμάτων σας
+plugin-heading = Διαχείριση των αρθρωμάτων σας
+dictionary-heading = Διαχείριση των λεξικών σας
+locale-heading = Διαχείριση των γλωσσών σας
+discover-heading = Εξατομικεύστε το { -brand-short-name } σας
+shortcuts-heading = Διαχείριση συντομεύσεων επέκτασης
+theme-heading-search-label = Βρείτε περισσότερα θέματα
+extension-heading-search-label = Βρείτε περισσότερες επεκτάσεις
+addons-heading-search-input =
+    .placeholder = Αναζήτηση στο addons.mozilla.org
