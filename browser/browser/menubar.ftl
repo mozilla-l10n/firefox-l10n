@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Potpuni zaslon
     .accesskey = o
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Prikaži sve kartice
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Prijavi obmanjujuću stranicu…
     .accesskey = o
+menu-help-not-deceptive =
+    .label = Ovo nije obmanjujuća stranica…
+    .accesskey = d
