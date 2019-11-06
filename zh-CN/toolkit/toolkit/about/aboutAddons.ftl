@@ -426,3 +426,5 @@ dictionary-heading = 管理您的字典
 locale-heading = 管理您的语言包
 theme-heading-search-label = 寻找更多主题
 extension-heading-search-label = 寻找更多扩展
+addons-heading-search-input =
+    .placeholder = 在 addons.mozilla.org 搜索
