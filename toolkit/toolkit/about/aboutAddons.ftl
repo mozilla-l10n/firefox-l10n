@@ -242,6 +242,9 @@ addon-open-about-debugging = অ্যাড-অন ডিবাগ
 manage-extensions-shortcuts =
     .label = এক্সটেনশন এর শর্টকাট পরিচালনা করুন
     .accesskey = S
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = এক্সটেনশন এর শর্টকাট পরিচালনা করুন
+    .accesskey = S
 shortcuts-no-addons = আপনার কোনো এক্সটেনশন সক্রিয় নেই।
 shortcuts-no-commands = উল্লেখিত এক্সটেনশনের শর্টকাট নেই:
 shortcuts-input =
