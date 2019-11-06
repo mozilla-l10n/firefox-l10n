@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Volledig scherm
     .accesskey = d
 
-
+##
 
 menu-view-show-all-tabs =
     .label = Alle tabbladen tonen
@@ -290,3 +290,6 @@ menu-help-safe-mode-with-addons =
 menu-help-report-deceptive-site =
     .label = Misleidende website rapporteren…
     .accesskey = M
+menu-help-not-deceptive =
+    .label = Dit is geen misleidende website…
+    .accesskey = m
