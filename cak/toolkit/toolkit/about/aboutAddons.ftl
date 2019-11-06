@@ -246,6 +246,7 @@ extensions-updates-update-selected =
     .tooltiptext = Keyak ri taq k'exoj e k'o pa re rucholajem re'
 addon-updates-updating = Tajin yek'ex ri taq tz'aqat
 addon-updates-installed = Xek'extäj re taq atz'aqat re'.
+addon-updates-none-found = Majun taq k'exoj ruwäch xe'ilitäj
 addon-updates-manual-updates-found = Ketz'et ri taq k'exoj e k'o
 
 ## Add-on install/debug strings for page options menu
