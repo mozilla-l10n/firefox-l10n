@@ -202,6 +202,10 @@ extensions-updates-update-selected =
     .label = Instalar anovamientos
     .tooltiptext = Instalar los anovamientos disponibles nesti llistáu
 
+## Add-on install/debug strings for page options menu
+
+addon-install-from-file-filter-name = Complementos
+
 ## Extension shortcut management
 
 
@@ -218,4 +222,7 @@ dictionary-enabled-heading = Activóse
 locale-enabled-heading = Activóse
 
 ## Pending uninstall message bar
+
+
+## Page headings
 
