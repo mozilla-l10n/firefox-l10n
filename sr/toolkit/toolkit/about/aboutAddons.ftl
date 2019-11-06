@@ -366,6 +366,7 @@ theme-heading = Управљајте вашим темама
 plugin-heading = Управљајте вашим прикључцима
 dictionary-heading = Управљајте вашим речницима
 locale-heading = Управљајте вашим језицима
+discover-heading = Персонализујте ваш { -brand-short-name }
 shortcuts-heading = Управљај пречицама екстензија
 theme-heading-search-label = Нађите више тема
 extension-heading-search-label = Нађите више екстензија
