@@ -187,6 +187,12 @@ extensions-warning-update-security-container =
 extensions-warning-update-security-enable =
     .label = Etkinleştir
     .tooltiptext = Eklenti güncelleme güvenliği denetimini devreye sok
+extensions-warning-safe-mode = Tüm eklentiler güvenli kipte devre dışı bırakıldı.
+extensions-warning-check-compatibility-button = Etkinleştir
+    .title = Eklenti uyumluluk denetimini devreye sok
+extensions-warning-update-security = Eklenti güncelleme güvenliği denetimi devre dışı. Güncellemelerle tehlikeye düşebilirsiniz.
+extensions-warning-update-security-button = Etkinleştir
+    .title = Eklenti güncelleme güvenliği denetimini devreye sok
 
 ## Strings connected to add-on updates
 
