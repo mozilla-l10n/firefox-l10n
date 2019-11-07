@@ -10,4 +10,5 @@
 <!ENTITY windowTitle2.label "Salvar e cambiar le codification del texto">
 <!ENTITY documentTitleTitle.label "Titulo del pagina">
 <!ENTITY documentCharsetTitle2.label "Codification del texto">
+<!ENTITY documentCharsetDesc2.label "Elige le codification de texto que tu desira salvar in un documento:">
 <!ENTITY documentExportToText.label "Exportar como texto">

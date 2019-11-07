@@ -14,3 +14,4 @@
 <!ENTITY descriptionInput.accessKey "D">
 <!ENTITY locationNewPage.label "[Nove pagina, non ancora salvate]">
 <!ENTITY EditHEADSource1.label "Usatores avantiate:">
+<!ENTITY EditHEADSource2.label "Pro rediger altere contentos del region &lt;head&gt; usa &quot;HTML Source&quot; in le Menu vider o le barra del instrumentos in modo rediger.">
