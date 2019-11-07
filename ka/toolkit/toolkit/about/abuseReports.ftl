@@ -59,17 +59,23 @@ abuse-report-messagebar-action-cancel = გაუქმება
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = ზიანს აყენებს ჩემს კომპიუტერსა და მონაცემებს
+abuse-report-damage-reason-v2 = დააზიანა ჩემი კომპიუტერი და მოიპარა ჩემი მონაცემები
 abuse-report-damage-example = მაგალითად: დააყენა მავნე პროგრამა ან მოიპარა მონაცემები
 abuse-report-spam-reason = აგდებს შემაწუხებელ რეკლამებს
+abuse-report-spam-reason-v2 = შეიცავს ჯართს ან ამატებს არასასურველ რეკლამებს
 abuse-report-spam-example = მაგალითად: ათავსებს რეკლამებს ვებგვერდებზე
 abuse-report-settings-reason = შეცვალა ჩემი საძიებო სისტემა, საწყისი გვერდი ან ახალი ჩანართი უნებართვოდ
+abuse-report-settings-reason-v2 = შეცვალა ჩემი საძიებო სისტემა, საწყისი გვერდი ან ახალი ჩანართი უნებართვოდ
 abuse-report-settings-suggestions = მოხსენების გამოგზავნამდე, შეგიძლიათ სცადოთ პარამეტრების შეცვლა:
 abuse-report-settings-suggestions-search = ცვლის თქვენს ნაგულისხმევ საძიებო სისტემას
 abuse-report-settings-suggestions-homepage = ცვლის თქვენს საწყის გვერდს და ახალ ჩანართს
-abuse-report-deceptive-reason = თავს სხვა რამედ ასაღებს
+abuse-report-deceptive-reason = თავის სხვა რამედ გასაღება
+abuse-report-deceptive-reason-v2 = თავს სხვა რამედ ასაღებს
 abuse-report-deceptive-example = მაგალითად: შემაცდენელი აღწერა ან სურათები
 abuse-report-broken-reason-extension = არ იმუშავა, დააზიანა ვებსაიტები ან შეანელა { -brand-product-name }
 abuse-report-broken-reason-theme = არ მუშაობს ან აზიანებს ბრაუზერის გამოსახულებას
+abuse-report-broken-reason-extension-v2 = არ იმუშავა, დააზიანა ვებსაიტები ან შეანელა { -brand-product-name }
+abuse-report-broken-reason-theme-v2 = არ მუშაობს ან აზიანებს ბრაუზერის გამოსახულებას
 abuse-report-broken-example = მაგალითად: შესაძლებლობები ნელია, რთული გამოსაყენებელია ან არ მუშაობს; საიტების ნაწილი არ იტვირთება ან უჩვეულოდ გამოიყურება
 abuse-report-broken-suggestions-extension =
     როგორც ჩანს, თქვენ აღმოაჩინეთ ხარვეზი. აქ გამოგზავნილი მოხსენების გარდა, კარგი იქნება, თუ მუშაობასთან დაკავშირებული საკითხების მოსაგვარებლად, თავად გაფართოების შემმუშავებელს დაუკავშირდებით.
@@ -79,10 +85,12 @@ abuse-report-broken-suggestions-theme =
     დაკავშირებული საკითხების მოსაგვარებლად, თავად თემის შემმუშავებელს დაუკავშირდებით.
     <a data-l10n-name="support-link">ეწვიეთ თემის ვებსაიტს</a> შემმუშავებელთან დასაკავშირებლად.
 abuse-report-policy-reason = სიძულვილის, ძალადობის ან უკანონობის შემცველია
+abuse-report-policy-reason-v2 = სიძულვილის, ძალადობის ან უკანონობის შემცველია
 abuse-report-policy-suggestions =
     შენიშვნა: საავტორო უფლებებისა და სავაჭრო ნიშნების დარღვევების შესახებ, მოხსენებები ცალკე უნდა გამოიგზავნოს.
     <a data-l10n-name="report-infringement-link">ისარგებლეთ ამ მითითებებით</a>
     ხარვეზის მოხსენებისთვის.
 abuse-report-unwanted-reason = არასდროს მდომებია ეს გაფართოება და ვერ ვიცილებ
+abuse-report-unwanted-reason-v2 = არასოდეს მდომებია და არ ვიცი როგორ მოვიცილო
 abuse-report-unwanted-example = მაგალითად: პროგრამა თავისით ჩაიდგა უნებართვოდ
 abuse-report-other-reason = სხვა

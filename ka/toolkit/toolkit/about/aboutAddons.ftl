@@ -449,6 +449,7 @@ theme-heading = თემების მართვა
 plugin-heading = მოდულების მართვა
 dictionary-heading = ლექსიკონების მართვა
 locale-heading = ენების მართვა
+updates-heading = განახლებების მართვა
 discover-heading = მოირგეთ თქვენი { -brand-short-name }
 shortcuts-heading = გაფართოებების ღილაკების მართვა
 theme-heading-search-label = სხვა თემების მოძიება
