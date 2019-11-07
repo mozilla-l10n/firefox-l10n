@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = დაცვის დონედ მითითებულია <b>ჩვეულებრივი</b>
-protection-header-details-strict = დაცვის დონედ მითითებულია <b>მკაცრი</b>
-protection-header-details-custom = დაცვის დონედ მითითებულია <b>მორგებული</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = დაცვის დონედ მითითებულია <b>ჩვეულებრივი</b>
     .title = პირადულობის პარამეტრებზე გადასვლა
 protection-report-header-details-strict = დაცვის დონედ მითითებულია <b>მკაცრი</b>
@@ -37,6 +31,8 @@ protection-report-page-title = პირადულობის დაცვა
 protection-report-content-title = პირადულობის დაცვა
 etp-card-title = თვალთვალისგან გაძლიერებული დაცვა
 etp-card-content = მეთვალყურეები თან დაგყვებათ მთელ ინტერნეტში და აგროვებს ინფორმაციას თქვენი ჩვევებისა და მისწრაფებების შესახებ. { -brand-short-name } ზღუდავს ამ მეთვალყურეების უმეტესობასა და სხვა მავნე კოდებსაც.
+protection-report-etp-card-content-custom-not-blocking = დაცვა სრულად გამორთულია ამჟამად. უსაფრთხოების პარამეტრებიდან შეარჩიეთ მეთვალყურეები, რომელთაც შეზღუდავს { -brand-short-name }.
+protection-report-manage-protections = პარამეტრების მართვა
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = დღეს
@@ -56,7 +52,6 @@ lockwise-title = აღარასდროს დაკარგავთ პ�
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } უსაფრთხოდ შეინახავს თქვენს პაროლებს ბრაუზერში.
 lockwise-header-content-logged-in = პაროლების უსაფრთხო შენახვა და გაზიარება ყველა თქვენს მოწყობილობაზე.
-about-logins-view-logins-button = ანგარიშების ნახვა
 protection-report-view-logins-button = ანგარიშების ნახვა
     .title = ანგარიშის შენახულ მონაცემებზე გადასვლა
 lockwise-no-logins-content = გადმოწერეთ აპლიკაცია <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> პაროლების თან წასაღებად.
@@ -118,10 +113,6 @@ password-warning =
         [one] ანგარიშის ინფორმაცია შესაძლოა გამჟღავნებული იყოს მონაცემთა მიტაცების შედეგად. უსაფრთხოებისთვის, ჯობია შეცვალოთ აღნიშნული პაროლი. <a data-l10n-name="lockwise-link">იხილეთ შენახული მონაცემები</a>
        *[other] ანგარიშის ინფორმაცია შესაძლოა გამჟღავნებული იყოს მონაცემთა მიტაცების შედეგად. უსაფრთხოებისთვის, ჯობია შეცვალოთ აღნიშნული პაროლები. <a data-l10n-name="lockwise-link">იხილეთ შენახული მონაცემები</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = პირადულობის პარამეტრებზე გადასვლა
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = შენახულ ანგარიშებზე გადასვლა
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
