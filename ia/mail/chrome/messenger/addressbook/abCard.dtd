@@ -53,6 +53,8 @@
 <!ENTITY HomePhone.accesskey            "i">
 <!ENTITY FaxNumber.label                "Fax:">
 <!ENTITY FaxNumber.accesskey            "x">
+<!ENTITY PagerNumber.label              "Cerca-personas:">
+<!ENTITY PagerNumber.accesskey          "p">
 <!ENTITY CellularNumber.label           "Cellular:">
 <!ENTITY CellularNumber.accesskey       "e">
 
