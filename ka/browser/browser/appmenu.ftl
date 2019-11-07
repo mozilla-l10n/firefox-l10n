@@ -9,6 +9,13 @@ appmenuitem-protection-report-title = პირადულობის და�
 appmenuitem-protection-report-tooltip =
     .tooltiptext = პირადულობის ანგარიშზე გადასვლა
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = მიახლოება
+appmenuitem-zoom-reduce =
+    .label = დაშორება
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
