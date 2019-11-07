@@ -316,6 +316,9 @@
 <!ENTITY boldToolbarCmd.tooltip "Grasa">
 <!ENTITY italicToolbarCmd.tooltip "Kursiva">
 <!ENTITY underlineToolbarCmd.tooltip "Substrekita">
+<!ENTITY bulletListToolbarCmd.tooltip "Krei aŭ forigi bulan liston">
+<!ENTITY numberListToolbarCmd.tooltip "Krei aŭ forigi numeratan liston">
+<!ENTITY outdentToolbarCmd.tooltip "Malpliigi marĝenon (movi maldekstren)">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Elekti">
