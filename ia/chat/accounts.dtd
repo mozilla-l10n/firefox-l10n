@@ -17,7 +17,7 @@
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "Nulle conto ancora configurate">
-<!ENTITY accountManager.noAccount.description "Clicca sur le button &amp;accountManager.newAccount.label; pro lassa &amp;brandShortName; guidar te per le procedura pro configurar un nove conto.">
+<!ENTITY accountManager.noAccount.description "Clicca sur le button &amp;accountManager.newAccount.label; pro lassar &amp;brandShortName; guidar te per le procedura de configuration.">
 <!ENTITY account.autoSignOn.label     "Authentication al initio">
 <!ENTITY account.autoSignOn.accesskey "A">
 <!ENTITY account.connect.label        "Connecter">
@@ -38,4 +38,4 @@
 <!ENTITY account.showDebugLog.accesskey "M">
 <!ENTITY account.connecting           "Connexion…">
 <!ENTITY account.disconnecting        "Disconnexion…">
-<!ENTITY account.disconnected         "Non connexe">
+<!ENTITY account.disconnected         "Non connectite">
