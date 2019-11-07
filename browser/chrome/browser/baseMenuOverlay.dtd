@@ -16,6 +16,7 @@
 <!ENTITY helpMenuWin.accesskey    "H">
 
 <!ENTITY aboutProduct2.label      "Over &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "O">
 <!ENTITY productHelp2.label       "&brandShorterName; Help">
 <!ENTITY productHelp2.accesskey   "H">
 <!ENTITY helpMac.commandkey       "?">

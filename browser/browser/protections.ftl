@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Beschermingsniveau is ingesteld op <b>Standaard</b>
-protection-header-details-strict = Beschermingsniveau is ingesteld op <b>Streng</b>
-protection-header-details-custom = Beschermingsniveau is ingesteld op <b>Aangepast</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Beschermingsniveau is ingesteld op <b>Standaard</b>
     .title = Naar privacyinstellingen
 protection-report-header-details-strict = Beschermingsniveau is ingesteld op <b>Streng</b>
@@ -37,6 +31,8 @@ protection-report-page-title = Privacybeschermingen
 protection-report-content-title = Privacybeschermingen
 etp-card-title = Verbeterde bescherming tegen volgen
 etp-card-content = Trackers volgen u online om gegevens over uw surfgedrag en interesses te verzamelen. { -brand-short-name } blokkeert veel van deze trackers en andere kwaadwillende scripts.
+protection-report-etp-card-content-custom-not-blocking = Alle beschermingen zijn momenteel uitgeschakeld. Kies welke trackers u wilt blokkeren door uw beschermingsinstellingen in { -brand-short-name } te beheren.
+protection-report-manage-protections = Instellingen beheren
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Vandaag
@@ -56,7 +52,6 @@ lockwise-title = Vergeet nooit meer een wachtwoord
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } slaat uw wachtwoorden veilig op in uw browser.
 lockwise-header-content-logged-in = Bewaar en synchroniseer uw wachtwoorden veilig op al uw apparaten.
-about-logins-view-logins-button = Aanmeldingen weergeven
 protection-report-view-logins-button = Aanmeldingen weergeven
     .title = Naar opgeslagen aanmeldingen
 lockwise-no-logins-content = Download de <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>-app om uw wachtwoorden overal mee naartoe te nemen.
@@ -118,10 +113,6 @@ password-warning =
         [one] opgeslagen aanmelding is mogelijk gelekt in een datalek. Wijzig dit wachtwoord voor betere online beveiliging. <a data-l10n-name="lockwise-link">Opgeslagen aanmeldingen bekijken</a>
        *[other] opgeslagen aanmeldingen zijn mogelijk gelekt in een datalek. Wijzig deze wachtwoorden voor betere online beveiliging. <a data-l10n-name="lockwise-link">Opgeslagen aanmeldingen bekijken</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Naar privacyinstellingen
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Naar opgeslagen aanmeldingen
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

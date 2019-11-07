@@ -291,6 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "U hebt MIDI-toegang voor deze website geblokkeerd.">
 <!ENTITY urlbar.installBlocked.tooltip           "U hebt installatie van add-ons voor deze website geblokkeerd.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Geschiedenis tonen">
 
 <!ENTITY searchItem.title             "Zoeken">
@@ -1090,7 +1091,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Pagina-acties">
 <!ENTITY pageAction.addToUrlbar.label "Toevoegen aan adresbalk">
 <!ENTITY pageAction.removeFromUrlbar.label "Verwijderen van adresbalk">
-<!ENTITY pageAction.manageExtension.label "Extensies beheren…">
+<!ENTITY pageAction.manageExtension.label "Extensie beheren…">
 
 <!ENTITY sendToDevice.syncNotReady.label "Apparaten synchroniseren…">
 
