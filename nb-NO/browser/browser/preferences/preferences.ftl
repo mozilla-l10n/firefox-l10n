@@ -508,7 +508,6 @@ search-bar-shown =
     .label = Legg til søkelinje i verktøylinjen
 search-engine-default-header = Standard søkemotor
 search-engine-default-desc = Velg standardsøkemotor som skal brukes i adresselinjen og søkelinjen.
-search-engine-default-private-desc = Velg hvilklen søkmotor du vil bruke i private vindu.
 search-engine-default-desc-2 = Dette er din standard søkemotor i adresselinjen og søkelinjen. Du kan bytte når som helst.
 search-engine-default-private-desc-2 = Velg en annen standardsøkemotor bare for private vinduer
 search-separate-default-engine =
@@ -1018,7 +1017,7 @@ addon-recommendations-link = Les mer
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Datarapportering er deaktivert for denne byggekonfigurasjonen
 collection-backlogged-crash-reports =
-    .label = Tillat { -brand-short-name } å sende etterslepne krasjrapporter på dine vegner
+    .label = Tillat { -brand-short-name } å sende etterslepne krasjrapporter på dine vegne
     .accesskey = s
 collection-backlogged-crash-reports-link = Les mer
 
