@@ -139,6 +139,9 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "'Ngo narán aga' na riña sitiô na yi'ì sa mà riñaj">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; Nu ga'nïn da' nayi'nïn página na dadin' hua sa ma riñaj ni ga'ue si sa yi'ìi huin nej ma.</p>">
 
+<!ENTITY xfoBlocked.title "Ganarán riñaj ‘iaj nuguan’ gu’nàj X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; nu ga’nïn nayi’nïn pajinâ nan dadin‘ nīka ‘ngō nuguan‘ gu’nàj X-Frame-Options.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Gire'ej dadin' sa nun riñan hua a'nan'">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Pajinâ ruhuât ni'iajt ni na'ue guruguì'ij dadin' nari'ij 'ngo sa a'ui' riña nej dâto.</p><ul><li>Gi'iaj 'ngo sununj un ni natà' na'anj riña nej duguî' 'nïnj ra'a sitiô nan da' nahui man.</li></ul>">
 
