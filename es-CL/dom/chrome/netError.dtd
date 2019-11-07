@@ -85,6 +85,8 @@
 <!ENTITY cspBlocked.title "Bloqueado por la política de seguridad de contenido">
 <!ENTITY cspBlocked.longDesc "<p>El navegador evitó que se cargue esta página de esta forma porque tiene una política de seguridad de contenido que no lo permite.</p>">
 
+<!ENTITY xfoBlocked.title "Bloqueado por la política X-Frame-Options">
+
 <!ENTITY corruptedContentErrorv2.title "Error de contenido corrupto">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La página que estás intentando ver no puede ser mostrada por que se detectó un error en la transmisión de datos.</p><ul><li>Por favor, contacta a los dueños del sitio para avisarles de este problema.</li></ul>">
 
