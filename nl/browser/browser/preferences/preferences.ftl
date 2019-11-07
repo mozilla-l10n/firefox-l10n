@@ -671,7 +671,7 @@ sync-engine-tabs =
     .accesskey = t
 sync-engine-logins =
     .label = Aanmeldingen
-    .tooltiptext = Gebruikersnamen en wachtwoorden die u hebt opgeslagen
+    .tooltiptext = Door u opgeslagen gebruikersnamen en wachtwoorden
     .accesskey = n
 sync-engine-logins-passwords =
     .label = Aanmeldingen en wachtwoorden
@@ -722,7 +722,11 @@ privacy-header = Browserprivacy
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Aanmeldingen en wachtwoorden
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Vragen voor opslaan van aanmeldingen en wachtwoorden voor websites
     .accesskey = r
@@ -736,6 +740,7 @@ forms-breach-alerts =
     .label = Waarschuwingen over wachtwoorden voor getroffen websites tonen
     .accesskey = f
 forms-breach-alerts-learn-more-link = Meer info
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Aanmeldingen en wachtwoorden automatisch invullen
     .accesskey = A
