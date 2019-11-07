@@ -93,8 +93,8 @@
 <!ENTITY cspBlocked.title "Blocate per le politica de securitate del contento">
 <!ENTITY cspBlocked.longDesc "<p>Le navigator impedi de cargar iste pagina in iste maniera perque le pagina ha politica de securitate del contento que non lo permitte.</p>">
 
-<!ENTITY xfoBlocked.title "Blocate per regulamento X-Frame-Options">
-<!ENTITY xfoBlocked.longDesc "<p>Le navigator ha impedite le cargamento de iste pagina in iste contexto perque le pagina ha un regulamento X-Frame-Options que lo impedi.</p>">
+<!ENTITY xfoBlocked.title "Blocate per politica X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>Le navigator ha blocate le cargamento de iste pagina in iste contexto perque le pagina ha un politica X-Frame-Options que non lo permitte.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Error de contento corrumpite">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Le pagina que tu tenta vider non pote esser monstrate perque un error in le transmission de datos esseva detectate.</p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul>">

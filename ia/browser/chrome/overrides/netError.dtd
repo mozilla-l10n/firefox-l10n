@@ -180,8 +180,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blocate per le politica de securitate del contento">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; impediva a iste pagina de cargar in iste maniera proque le pagina ha un regula de securitate de contento que non lo permitte.</p>">
 
-<!ENTITY xfoBlocked.title "Blocate per regula de X-Frame-Options">
-<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; impediva iste pagina de cargar in iste contexto perque le pagina ha un regulamento X-Frame-Options que lo impedi.</p>">
+<!ENTITY xfoBlocked.title "Blocate per politica X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; ha blocate le cargamento de iste pagina in iste contexto perque le pagina ha un politica X-Frame-Options que non lo permitte.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Error de contento corrumpite">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Le pagina que tu tenta vider non pote ser monstrate a causa de un error revelate in le transmission del datos.</p><ul><li>Per favor contacta le proprietarios del sito web pro informar les de iste problema.</li></ul>">

@@ -31,7 +31,7 @@ protection-report-page-title = Protectiones del confidentialitate
 protection-report-content-title = Protectiones del confidentialitate
 etp-card-title = Protection de traciamento meliorate
 etp-card-content = Le traciatores te seque in linea pro colliger informationes sur tu habitos e interesses de navigation. { -brand-short-name } bloca multes de iste traciatores e altere scripts maligne.
-protection-report-etp-card-content-custom-not-blocking = Tote le protectiones es actualmente disactivate. Selige qual objectos spia blocar per le configuration del protectiones de { -brand-short-name }.
+protection-report-etp-card-content-custom-not-blocking = Tote le protectiones es actualmente disactivate. Selige le traciatores a blocar per gerer le parametros de protection de { -brand-short-name }.
 protection-report-manage-protections = Gerer le parametros
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
