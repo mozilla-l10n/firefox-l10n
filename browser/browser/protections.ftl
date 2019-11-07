@@ -19,12 +19,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = 보호 수준이 <b>표준</b>으로 설정되었습니다
-protection-header-details-strict = 보호 수준이 <b>엄격</b>으로 설정되었습니다
-protection-header-details-custom = 보호 수준이 <b>사용자 지정</b>으로 설정되었습니다
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = 보호 수준이 <b>표준</b>으로 설정되었습니다
     .title = 개인정보 보호 설정으로 이동
 protection-report-header-details-strict = 보호 수준이 <b>엄격</b>으로 설정되었습니다
@@ -35,6 +29,7 @@ protection-report-page-title = 개인 정보 보호
 protection-report-content-title = 개인 정보 보호
 etp-card-title = 향상된 추적 방지 기능
 etp-card-content = 추적기는 온라인에서 사용자를 따라다니며 브라우징 습관과 관심사에 대한 정보를 수집합니다. { -brand-short-name }는 이러한 많은 추적기 및 기타 악성 스크립트를 차단합니다.
+protection-report-manage-protections = 설정 관리
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = 오늘
@@ -54,7 +49,6 @@ lockwise-title = 비밀번호를 다시 잊지 마세요
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name }은 비밀번호를 브라우저에 안전하게 저장합니다.
 lockwise-header-content-logged-in = 비밀번호를 모든 기기에 안전하게 저장하고 동기화합니다.
-about-logins-view-logins-button = 로그인 보기
 protection-report-view-logins-button = 로그인 보기
     .title = 저장된 로그인으로 이동
 lockwise-no-logins-content = <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> 앱을 통해 어디서나 비밀번호를 사용하십시오.
@@ -110,10 +104,6 @@ password-warning =
     { $count ->
        *[other] 저장된 로그인이 데이터 유출에 노출되었을 수 있습니다. 더 나은 온라인 보안을 위해 이 비밀번호를 변경하십시오. <a data-l10n-name="lockwise-link">저장된 로그인 보기</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = 개인정보 보호 설정으로 이동
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = 저장된 로그인으로 이동
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
