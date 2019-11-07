@@ -455,6 +455,7 @@ theme-heading = Uw thema’s beheren
 plugin-heading = Uw plug-ins beheren
 dictionary-heading = Uw woordenboeken beheren
 locale-heading = Uw talen beheren
+updates-heading = Uw updates beheren
 discover-heading = Uw { -brand-short-name } personaliseren
 shortcuts-heading = Extensiesneltoetsen beheren
 theme-heading-search-label = Meer thema’s zoeken

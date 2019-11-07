@@ -23,7 +23,7 @@ about-telemetry-telemetry-client-doc = De <a data-l10n-name="client-doc-link">Fi
 about-telemetry-telemetry-dashboard = Met de <a data-l10n-name="dashboard-link">Telemetry-dashboards</a> kunt u de gegevens visualiseren die Mozilla via Telemetry ontvangt.
 about-telemetry-telemetry-probe-dictionary = De <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> biedt details en beschrijvingen voor de probes die door Telemetry worden verzameld.
 about-telemetry-show-in-Firefox-json-viewer = Openen in de JSON-viewer
-about-telemetry-home-section = Start
+about-telemetry-home-section = Startpagina
 about-telemetry-general-data-section = Algemene gegevens
 about-telemetry-environment-data-section = Omgevingsgegevens
 about-telemetry-session-info-section = Sessie-informatie
