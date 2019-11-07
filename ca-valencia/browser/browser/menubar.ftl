@@ -27,7 +27,7 @@ menu-file-open-location =
     .label = Òbriga la ubicació…
 menu-file-open-file =
     .label = Òbriga un fitxer…
-    .accesskey = O
+    .accesskey = f
 menu-file-close =
     .label = Tanca
     .accesskey = c
@@ -75,7 +75,7 @@ menu-edit-copy =
     .accesskey = C
 menu-edit-paste =
     .label = Apega
-    .accesskey = x
+    .accesskey = A
 menu-edit-delete =
     .label = Suprimeix
     .accesskey = u
@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Pantalla completa
     .accesskey = P
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Mostra totes les pestanyes
@@ -214,7 +214,7 @@ menu-tools-sync-sign-in =
     .accesskey = y
 menu-tools-fxa-sign-in =
     .label = Inicia la sessió al { -brand-product-name }…
-    .accesskey = F
+    .accesskey = I
 menu-tools-turn-on-sync =
     .label = Activa el { -sync-brand-short-name }…
     .accesskey = n
@@ -285,8 +285,7 @@ menu-help-safe-mode-with-addons =
     .label = Reinicia amb els complements habilitats
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Informa que el lloc és maliciós…
     .accesskey = I
