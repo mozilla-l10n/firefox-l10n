@@ -20,4 +20,4 @@
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
-trademarkInfo = Firefox і эмблема Firefox – таварныя знакі Mozilla Foundation.
+trademarkInfo = Firefox і эмблема Firefox — таварныя знакі Mozilla Foundation.
