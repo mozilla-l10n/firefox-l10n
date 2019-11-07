@@ -722,7 +722,11 @@ privacy-header = Confidentialitate del navigator
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Authenticationes e contrasignos
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Demanda de salvar authenticationes e contrasignos de sito
     .accesskey = r
@@ -736,6 +740,7 @@ forms-breach-alerts =
     .label = Monstrar avisos pro contrasignos de sitos web violate
     .accesskey = v
 forms-breach-alerts-learn-more-link = Saper plus
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Auto-popular le authenticationes pro accessos e contrasignos
     .accesskey = A
@@ -1086,7 +1091,7 @@ space-alert-under-5gb-message = { -brand-short-name } non ha bastante spatio de 
 
 desktop-folder-name = Scriptorio
 downloads-folder-name = Discargamentos
-choose-download-folder-title = Eliger le dossier de discarga:
+choose-download-folder-title = Elige le dossier de discargamentos:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
 save-files-to-cloud-storage =

@@ -98,7 +98,7 @@ menu-view =
     .label = Vider
     .accesskey = V
 menu-view-toolbars-menu =
-    .label = Barras de utensiles
+    .label = Barras de instrumentos
     .accesskey = B
 menu-view-customize-toolbar =
     .label = Personalisar…
@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Plen schermo
     .accesskey = P
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Monstrar tote le schedas
@@ -285,8 +285,7 @@ menu-help-safe-mode-with-addons =
     .label = Reinitiar con le additivos active
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Denunciar un sito fraudulente…
     .accesskey = D

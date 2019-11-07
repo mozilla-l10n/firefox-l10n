@@ -28,7 +28,6 @@ accessibility-text-label-issue-document-title = Documentos debe haber un <code>t
 accessibility-text-label-issue-embed = Contento integrate debe ser etiquettate. <a>Saper plus</a>
 accessibility-text-label-issue-figure = Figuras con legendas optional deberea ser etiquettate. <a>Saper plus</a>
 accessibility-text-label-issue-fieldset = Elementos <code>fieldset</code> debe ser etiquettate. <a>Saper plus</a>
-accessibility-text-label-issue-fieldset-legend = Usa elemento <code>legend</code> pro etiquettar elementos <span>fieldset</span>. <a>Saper plus</a>
 accessibility-text-label-issue-fieldset-legend2 = Usa un elemento <code>legend</code> pro etiquettar un <span>fieldset</span>. <a>Saper plus</a>
 accessibility-text-label-issue-form = Elementos de formulario debe ser etiquettate. <a>Saper plus</a>
 accessibility-text-label-issue-form-visible = Elementos de formulario deberea haber un etiquetta de texto visibile. <a>Saper plus</a>
@@ -39,9 +38,8 @@ accessibility-text-label-issue-heading-content = Les titulos debe haber un conte
 accessibility-text-label-issue-iframe = Usa attributo <code>title</code> pro describer contento <span>iframe</span>. <a>Saper plus</a>
 accessibility-text-label-issue-image = Contento con imagines debe ser etiquettate. <a>Saper plus</a>
 accessibility-text-label-issue-interactive = Elementos interactive debe ser etiquettate. <a>Saper plus</a>
-accessibility-text-label-issue-optgroup-label = Usa attributo <code>label</code> pro etiquettar elementos <span>optgroup</span>. <a>Saper plus</a>
 accessibility-text-label-issue-optgroup-label2 = Usa un attributo  <code>label</code> pro etiquettar un elemento <span>optgroup</span>. <a>Saper plus</a>
-accessibility-text-label-issue-toolbar = Barras del instrumentos debe ser etiquettate quando on ha plus de uno. <a>Saper plus</a>
+accessibility-text-label-issue-toolbar = Le barras de instrumentos debe esser etiquettate quando il ha plus de un. <a>Saper plus</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility

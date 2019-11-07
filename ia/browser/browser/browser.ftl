@@ -84,7 +84,7 @@ page-action-remove-from-urlbar =
 ## Auto-hide Context Menu
 
 full-screen-autohide =
-    .label = Celar instrumentarios
+    .label = Celar barras de instrumentos
     .accesskey = C
 full-screen-exit =
     .label = Exir del modo plen schermo

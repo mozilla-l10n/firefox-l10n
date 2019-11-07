@@ -133,7 +133,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenMinimize.tooltip "Minimisar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
 <!ENTITY fullScreenClose.tooltip "Clauder">
-<!ENTITY fullScreenAutohide.label "Celar instrumentarios">
+<!ENTITY fullScreenAutohide.label "Celar le barras de instrumentos">
 <!ENTITY fullScreenAutohide.accesskey "C">
 <!ENTITY fullScreenExit.label "Exir del modo plen schermo">
 <!ENTITY fullScreenExit.accesskey "E">
@@ -475,7 +475,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "C">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Disclavar del menu disbordante">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
-<!ENTITY customizeMenu.removeFromToolbar.label "Remover del barra de utensiles">
+<!ENTITY customizeMenu.removeFromToolbar.label "Remover del barra de instrumentos">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Adder plus elementos…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
