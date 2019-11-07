@@ -730,6 +730,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Valitse näkyvät sarakkeet">
+<!ENTITY selectColumn.tooltip "Valitse kaikki viestit tai poista valinta">
 <!ENTITY threadColumn2.tooltip "Näytä viestiketjut">
 <!ENTITY fromColumn2.tooltip "Järjestä lähettäjän mukaan">
 <!ENTITY recipientColumn2.tooltip "Järjestä vastaanottajan mukaan">
