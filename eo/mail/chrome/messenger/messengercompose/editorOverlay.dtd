@@ -319,19 +319,28 @@
 <!ENTITY bulletListToolbarCmd.tooltip "Krei aŭ forigi bulan liston">
 <!ENTITY numberListToolbarCmd.tooltip "Krei aŭ forigi numeratan liston">
 <!ENTITY outdentToolbarCmd.tooltip "Malpliigi marĝenon (movi maldekstren)">
+<!ENTITY indentToolbarCmd.tooltip "Pliigi marĝenon (movi dekstren)">
+<!ENTITY AlignPopupButton.tooltip "Elekti ĝisrandigon de teksto">
+<!ENTITY InsertPopupButton.tooltip "Enmeti ligilon, ankron, bildon, horizontalan linion aŭ tabelon">
+<!ENTITY alignLeftButton.tooltip "Ĝisrandigi tekston al maldekstra marĝeno">
+<!ENTITY alignCenterButton.tooltip "Ĝisrandigi tekston al la centro">
+<!ENTITY alignRightButton.tooltip "Ĝisrandigi tekston al dekstra marĝeno">
+<!ENTITY alignJustifyButton.tooltip "Ĝisrandigi tekston egale al maldekstra kaj dekstra marĝenoj">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "Elekti">
 <!ENTITY structSelect.accesskey     "E">
 <!ENTITY structRemoveTag.label      "Forigi etikedon">
-<!ENTITY structRemoveTag.accesskey  "F">
+<!ENTITY structRemoveTag.accesskey  "r">
 <!ENTITY structChangeTag.label      "Ŝanĝi etikedon">
-<!ENTITY structChangeTag.accesskey  "e">
+<!ENTITY structChangeTag.accesskey  "n">
 
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label          "Enmeti">
-<!ENTITY insertTOC.accesskey      "E">
+<!ENTITY insertTOC.accesskey      "m">
 <!ENTITY updateTOC.label          "Ĝisdatigi">
 <!ENTITY updateTOC.accesskey      "d">
 <!ENTITY removeTOC.label          "Forigi">
 <!ENTITY removeTOC.accesskey      "F">
+<!ENTITY tocMenu.label            "Enhavtabelo…">
+<!ENTITY tocMenu.accesskey        "t">
