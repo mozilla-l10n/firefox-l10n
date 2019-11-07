@@ -9,6 +9,13 @@ appmenuitem-protection-report-title = Nej sa dugumîn sa hua huìi
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Ni'iāj dàj hua rayi'î sa huì huā 'iát
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Nāgi’iaj nichrùn’
+appmenuitem-zoom-reduce =
+    .label = Nāgi’iaj gùn’
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
