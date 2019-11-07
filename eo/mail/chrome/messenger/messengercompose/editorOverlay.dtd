@@ -307,10 +307,14 @@
 <!ENTITY TextColorButton.tooltip "Elekti koloron de teksto">
 <!ENTITY BackgroundColorButton.tooltip "Elekti koloron de fono">
 <!ENTITY throbber.tooltip2 "Iri al retejo de la programo &brandShortName;">
+<!ENTITY HighlightColorButton.tooltip "Elekti koloron de prilumo de teksto">
 
 <!-- Editor toolbar -->
-<!ENTITY boldToolbarCmd.tooltip "Dika">
-<!ENTITY italicToolbarCmd.tooltip "Oblikva">
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Elekti grandon de tiparo">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Pli malgranda tiparo">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Pli granda tiparo">
+<!ENTITY boldToolbarCmd.tooltip "Grasa">
+<!ENTITY italicToolbarCmd.tooltip "Kursiva">
 <!ENTITY underlineToolbarCmd.tooltip "Substrekita">
 
 <!-- Structure Toolbar Context Menu items -->
