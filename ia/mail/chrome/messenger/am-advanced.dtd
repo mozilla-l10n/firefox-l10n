@@ -10,3 +10,4 @@
 <!-- LOCALIZATION NOTE (smtpDescription.label): do not translate "SMTP" in below line -->
 
 
+<!ENTITY connectionSecurity.label "Securitate de connexion: ">

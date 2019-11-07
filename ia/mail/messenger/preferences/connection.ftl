@@ -2,5 +2,5 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-accounts-outgoing-servers = Servitores in exito
-accounts-conn-security = Securitate de connexion
+connection-dns-over-https-url-resolver = Usar fornitor
+    .accesskey = r

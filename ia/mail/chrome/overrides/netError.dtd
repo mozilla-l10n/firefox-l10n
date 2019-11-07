@@ -8,22 +8,37 @@
 
 <!-- Specific error messages -->
 
+<!ENTITY connectionFailure.title "Incapace de connecter se">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Verifica si le adresse non ha errores ortographic tales como <strong>ww</strong>.example.com in vice de <strong>www</strong>.example.com</li> <li>Si tu es incapace de cargar qualcunque paginas, verifica le connexion de tu computator al rete.</li> <li>Si tu computator o rete es protegite per un firewall o proxy, assecura te que &brandShortName; ha permission pro acceder al web.</li> </ul>">
 
 
 
 
 
+<!ENTITY netInterrupt.title "Le connexion ha essite interrumpite">
 
 
 
 
 
+<!ENTITY netReset.title "Le connexion ha essite restabilite">
+
+<!ENTITY netTimeout.title "Le connexion ha expirate">
 
 
+<!ENTITY proxyConnectFailure.title "Le servitor proxy recusa connexiones">
 
-
-
-
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Controla que sia correcte le parametros del proxy.</li>
+  <li>Controla que tu computator ha un connexion de rete functionante.</li>
+  <li>Assecurate, si tu computator o rete es protegite per un firewall o proxy, 
+   que  &brandShortName; pote acceder le Web.</li>
+</ul>
+">
 
 
 
@@ -31,6 +46,14 @@
 
 <!ENTITY nssBadCert.title "Connexion secur fallite">
 
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>Le sito pote esser temporarimente indisponibile o troppo occupate. Retenta in un momento.</li>
+  <li>Si tu non pote cargar alcun pagina, verifica le connexion de tu computator al rete.</li>
+  <li>Si tu computator o rete es protegite per un firewall o proxy, assecura te
+    que &brandShortName; es permittite a acceder al Web.</li>
+</ul>
+">
 
 
 
@@ -40,8 +63,10 @@ contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
+<!ENTITY securityOverride.warningContent "<p>Tu non deberea adder un exception si tu usa un connexion a Internet que tu non fide completemente o si tu nonsole vider un advertimento pro iste servitor.</p> <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
 
+<!ENTITY inadequateSecurityError.title "Tu connexion non es secur">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 

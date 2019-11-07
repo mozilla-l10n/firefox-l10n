@@ -10,6 +10,7 @@
 <!ENTITY directoryBaseDN.accesskey         "b">
 <!ENTITY findButton.label                  "Cercar">
 <!ENTITY findButton.accesskey              "c">
+<!ENTITY directorySecure.label             "Usar connexion secur (SSL)">
 <!ENTITY General.tab                       "General">
 <!ENTITY Offline.tab                       "Offline">
 <!ENTITY Advanced.tab                      "Avantiate">
