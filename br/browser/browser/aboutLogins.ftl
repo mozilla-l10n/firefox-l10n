@@ -78,6 +78,7 @@ login-intro-description = M'ho peus enrollet ho titouroù kennaskañ { -brand-pr
 login-intro-instruction-fxa = Krouit pe kennaskit d'ho { -fxaccount-brand-name } war an trevnad lec'h m'eo enrollet ho titouroù kennaskañ
 login-intro-instruction-fxa-settings = Gwiriekait ho peus diuzet ar boestoù kevaskañ Kennaskañ e arventennoù { -sync-brand-short-name }
 about-logins-intro-instruction-help = Kit war <a data-l10n-name="help-link">skoazell { -lockwise-brand-short-name }</a> evit kaout sikour
+about-logins-intro-import = Mard eo enrollet ho titouroù kennaskañ en ur merdeer all e c'hallit <a data-l10n-name="import-link">enporzhiañ anezho e { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -113,11 +114,8 @@ master-password-reload-button =
     .label = Kennaskañ
     .accesskey = K
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Nullañ
-confirmation-dialog-dismiss-button =
-    .title = Nullañ
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Fellout a ra deoc'h kaout ho titouroù kennaskañ e pep lec'h ma arverit { -brand-product-name }? Kit e-barzh dibarzhioù { -sync-brand-short-name } ha diuzit ar voest kevaskañ Titouroù kennaskañ.
@@ -130,6 +128,15 @@ enable-password-sync-preferences-button =
            *[other] Gwellvezioù { -sync-brand-short-name }
         }
     .accesskey = o
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Na c'houlennit en-dro
+    .accesskey = N
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Nullañ
+confirmation-dialog-dismiss-button =
+    .title = Nullañ
 confirm-delete-dialog-title = Dilemel an titouroù kennaskañ-mañ?
 confirm-delete-dialog-message = N'haller ket dizober kement-se.
 confirm-delete-dialog-confirm-button = Dilemel

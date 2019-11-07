@@ -80,10 +80,13 @@ newtab-menu-delete-history = Dilemel eus ar roll istor
 newtab-menu-save-to-pocket = Enrollañ etrezek { -pocket-brand-name }
 newtab-menu-delete-pocket = Dilemel eus { -pocket-brand-name }
 newtab-menu-archive-pocket = Diellaouiñ e { -pocket-brand-name }
+newtab-menu-show-privacy-info = Hor c'hevelerien hag ho puhez prevez
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Graet
+newtab-privacy-modal-header = Pouezus eo ho puhez prevez
+newtab-privacy-modal-link = Deskit penaos ec'h a en-dro ar prevezded war an ivinell nevez
 
 
 

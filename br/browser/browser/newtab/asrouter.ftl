@@ -34,6 +34,11 @@ cfr-doorhanger-extension-notification = Erbedadennoù
 cfr-doorhanger-extension-notification2 = Erbedadenn
     .tooltiptext = Erbedadenn askouezh
     .a11y-announcement = Erbedadenn askouezh egerzh
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Erbedadenn
+    .tooltiptext = Erbedadenn keweriuster
+    .a11y-announcement = Un erbedadenn keweriuster nevez a zo da lenn
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -155,6 +160,8 @@ cfr-doorhanger-socialtracking-ok-button = Gwelout ar gwarezioù
     .accesskey = G
 cfr-doorhanger-socialtracking-close-button = Serriñ
     .accesskey = S
+cfr-doorhanger-socialtracking-dont-show-again = Na ziskouez din kemennadennoù evel-se en-dro
+    .accesskey = N
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } en deus harzhet ur rouedad kevredadel d'hoc'h heuliañ amañ
 cfr-doorhanger-socialtracking-description = Pouezus eo ho puhez prevez. { -brand-short-name } a stank an heulierien media kevredadel boutin evit bevenniñ ar c'hementad a roadennoù a c'hallont dastum diwar-benn ar pezh a rit enlinenn.
 cfr-doorhanger-fingerprinters-heading = Stanket eo bet un dinoerien roudoù niverel gant { -brand-short-name } war ar bajenn-mañ

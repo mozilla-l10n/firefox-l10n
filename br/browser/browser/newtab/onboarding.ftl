@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Stagañ e-barzh
 onboarding-welcome-header = Donemat war { -brand-short-name }
 onboarding-welcome-body = Ar merdeer a zo ganeoc'h.<br/>Dizoloit peurrest { -brand-product-name }.
 onboarding-welcome-learn-more = Gouzout hiroc'h a-zivout ar spletoù.
+onboarding-welcome-modal-get-body = Ar merdeer a zo ganeoc'h. <br/>Bremañ e c'hallit implij { -brand-product-name } en doare gwellañ.
+onboarding-welcome-modal-supercharge-body = Gwarezit ho puhez prevez
+onboarding-welcome-modal-privacy-body = Ar merdeer a zo ganeoc'h. Gwarezomp muioc'h ho puhez prevez.
+onboarding-welcome-modal-family-learn-more = Gouzout hiroc'h a-zivout ar familh aozadoù { -brand-product-name }.
+onboarding-welcome-form-header = Kregiñ amañ
 onboarding-join-form-header = Kejañ gant { -brand-product-name }
 onboarding-join-form-body = Enankit ho chomlec'h postel da gregiñ ganti.
 onboarding-join-form-email =
@@ -28,6 +33,8 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Postel talvoudek azgoulennet
 onboarding-join-form-legal = En ur genderc'hel ec'h asantit d'an <a data-l10n-name="terms">divizoù arver</a> ha d'ar <a data-l10n-name="privacy">reolenn a-fet buhez prevez</a>.
 onboarding-join-form-continue = Kenderc'hel
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Ur gont a zo ganeoc'h endeo?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = Kennaskañ
 onboarding-start-browsing-button-label = Stagañ da verdeiñ
@@ -37,6 +44,9 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Krogomp da zizoloiñ ar pezh a c'hallit ober.
+onboarding-fullpage-form-email =
+    .placeholder = Ho chomlec'h postel…
 
 ## Firefox Sync modal dialog strings.
 
@@ -69,6 +79,7 @@ onboarding-benefit-privacy-title = Doujañ ouzh ho puhez prevez evit gwir
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Holl ar pezh a reomp a zouj ouzh hon Gwarant a-fet Roadennoù Personel
+onboarding-benefit-sync-title = { -sync-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
