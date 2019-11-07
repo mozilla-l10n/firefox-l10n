@@ -191,7 +191,7 @@ extensions-warning-safe-mode = Tote le additivos ha essite disactivate per le mo
 extensions-warning-check-compatibility = Le verification de compatibilitate de additivos es inactive. Tu pote haber additivos incompatibile.
 extensions-warning-check-compatibility-button = Activar
     .title = Activar le verification de compatibilitate de additivos
-extensions-warning-update-security = Le verification de securitate pro le actualisation del additivos es inactive. Tu pote esser compromittite per actualisationes.
+extensions-warning-update-security = Le verification de securitate pro le actualisation del additivos es inactive. Le actualisationes poterea damnificar tu systema.
 extensions-warning-update-security-button = Activar
     .title = Activar le verification de securitate pro le actualisation del additivos
 
@@ -260,7 +260,7 @@ addon-updates-manual-updates-found = Vider le actualisationes disponibile
 
 addon-install-from-file = Installar additivo ab un file…
     .accesskey = I
-addon-install-from-file-dialog-title = Selige le additivo pro installar
+addon-install-from-file-dialog-title = Selige le additivo a installar
 addon-install-from-file-filter-name = Additivos
 addon-open-about-debugging = Depurar le additivos
     .accesskey = D
@@ -435,11 +435,11 @@ recommended-theme-1 = Te senti creative? <a data-l10n-name="link">Crea tu propri
 ## Page headings
 
 extension-heading = Gerer tu extensiones
-theme-heading = Gere tu themas
-plugin-heading = Gere tu plugins
-dictionary-heading = Gere tu dictionarios
+theme-heading = Gerer tu themas
+plugin-heading = Gerer tu plugins
+dictionary-heading = Gerer tu dictionarios
 locale-heading = Gerer tu linguas
-updates-heading = Gere tu actualisationes
+updates-heading = Gerer tu actualisationes
 discover-heading = Personalisa tu { -brand-short-name }
 shortcuts-heading = Gerer le accessos directe al extensiones
 theme-heading-search-label = Trova plus themas

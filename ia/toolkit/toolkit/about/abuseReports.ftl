@@ -60,7 +60,7 @@ abuse-report-damage-reason = Damnifica mi computator e datos
 abuse-report-damage-reason-v2 = Illo ha damnificate mi computator o compromittite mi datos
 abuse-report-damage-example = Exemplo: malware injectate o datos robate
 abuse-report-spam-reason = Crea spam o publicitate
-abuse-report-spam-reason-v2 = Illo contine SPAM o insere publicitate indesirate
+abuse-report-spam-reason-v2 = Illo contine spam o insere publicitate indesirate
 abuse-report-spam-example = Exemplo: insere avisos publicitari sur paginas web
 abuse-report-settings-reason = Cambiava mi motor de recerca, pagina principal o nove scheda sin informa o demandar me
 abuse-report-settings-reason-v2 = Illo ha cambiate mi motor de recerca, pagina principal o nove scheda sin informar me o demandar me
@@ -73,7 +73,7 @@ abuse-report-deceptive-example = Exemplo: description o graphica fraudulente
 abuse-report-broken-reason-extension = Non functiona, rumpe sitos web, o relenta { -brand-product-name }
 abuse-report-broken-reason-theme = Non functiona o rumpe le exhibition del navigator
 abuse-report-broken-reason-extension-v2 = Illo non functiona, rumpe sitos web o relenta { -brand-product-name }
-abuse-report-broken-reason-theme-v2 = Non functiona o rumpe le exhibition del navigator
+abuse-report-broken-reason-theme-v2 = Non functiona o rumpe le disposition visual del navigator
 abuse-report-broken-example = Exemplo: le functionalitate es lente, dur a usar, o non functiona; partes de sitos web non carga o pare inusual
 abuse-report-broken-suggestions-extension = Il pare que tu ha identificate un defecto. In addition a inviar un signalation ci, le melior maniera de resolver un problema de functionalitate es de contactar le programmator del extension. <a data-l10n-name="support-link">Visita le sito web del extension</a> pro obtener le informationes del disveloppator.
 abuse-report-broken-suggestions-theme = Il pare que tu ha identificate un defecto. In addition a inviar un signalation ci, le melior maniera de resolver un problema de functionalitate es de contactar le disveloppator del thema. <a data-l10n-name="support-link">Visita le sito web del thema</a> pro obtener le informationes del disveloppator.
@@ -81,6 +81,6 @@ abuse-report-policy-reason = Contento odiose, violente o illegal
 abuse-report-policy-reason-v2 = Contento odiose, violente o illegal
 abuse-report-policy-suggestions = Nota: problemas de derectos de autor e marca de fabrica debe ser signalate in un procedura differente. <a data-l10n-name="report-infringement-link">Usa iste instructiones</a> pro signalar le problema.
 abuse-report-unwanted-reason = Io jammais voleva iste extension e non pote remover illo
-abuse-report-unwanted-reason-v2 = Io jammais lo voleva e non sape como liberar me de illo
+abuse-report-unwanted-reason-v2 = Io non lo ha jammais volite e non sape como liberar me de illo
 abuse-report-unwanted-example = Exemplo: un application lo ha installate sin mi permission
 abuse-report-other-reason = Altere cosa
