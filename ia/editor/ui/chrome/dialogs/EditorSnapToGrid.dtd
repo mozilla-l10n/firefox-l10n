@@ -4,7 +4,10 @@
 
 
 <!-- Window title -->
+<!ENTITY windowTitle.label "Alinear al grillia">
 
+<!ENTITY enableSnapToGrid.label "activa le alineamento al grillia">
+<!ENTITY enableSnapToGrid.accessKey "a">
 
 <!ENTITY sizeEditField.label "Dimension:">
 <!ENTITY sizeEditField.accessKey "D">
