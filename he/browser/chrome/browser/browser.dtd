@@ -289,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "חסמת גישת MIDI לאתר זה.">
 <!ENTITY urlbar.installBlocked.tooltip           "חסמת התקנת תוספות עבור אתר זה.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "הצגת היסטוריה">
 
 <!ENTITY searchItem.title             "חיפוש">
@@ -1013,12 +1014,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.learnMore "מידע נוסף">
 
 <!ENTITY contentBlocking.breakageReportView.title "דיווח על אתר שבור">
-<!ENTITY contentBlocking.breakageReportView3.description "חסימת רכיבי מעקב מסויימים עשויה לגרום לתקלות במגוון אתרים. דיווח על הבעיות האלה מסייע בשיפור &brandShortName; לטובת הכלל. בדיווח זה תשלח את כתובת האתר ומידע על הגדרות הדפדפן שלך ל‏־Mozilla.">
+<!ENTITY contentBlocking.breakageReportView3.description "חסימת רכיבי מעקב מסויימים עשויה לגרום לתקלות במגוון אתרים. דיווח על הבעיות האלה מסייע בשיפור &brandShortName; לטובת הכלל. בדיווח זה יישלחו ל־Mozilla כתובת האתר ומידע על הגדרות הדפדפן שלך.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "מידע נוסף">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "כתובת">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "באילו בעיות נתקלת? (לא חובה)">
 <!ENTITY contentBlocking.breakageReportView2.collection.comments.label "אופציונלי: תיאור הבעיה">
-<!ENTITY contentBlocking.breakageReportView.sendReport.label "שליחת דוח">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "שליחת דיווח">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "ביטול">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
