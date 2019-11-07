@@ -169,10 +169,34 @@
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
+<!ENTITY returnReceiptMenu.label "Recepta de retorno">
+<!ENTITY returnReceiptMenu.accesskey "t">
+<!ENTITY priorityMenu.label "Prioritate">
+<!ENTITY priorityMenu.accesskey "p">
+<!ENTITY priorityButton.title "Prioritate">
+<!ENTITY priorityButton.tooltiptext "Cambiar le prioritate del message">
+<!ENTITY priorityButton.label "Prioritate:">
+<!ENTITY lowestPriorityCmd.label "Plus basse">
+<!ENTITY lowestPriorityCmd.accesskey "l">
+<!ENTITY lowPriorityCmd.label "Basse">
+<!ENTITY lowPriorityCmd.accesskey "o">
+<!ENTITY normalPriorityCmd.label "Normal">
+<!ENTITY normalPriorityCmd.accesskey "n">
+<!ENTITY highPriorityCmd.label "Alte">
+<!ENTITY highPriorityCmd.accesskey "i">
+<!ENTITY highestPriorityCmd.label "Plus alte">
+<!ENTITY highestPriorityCmd.accesskey "H">
 
 <!-- Tools Menu -->
+<!ENTITY preferencesCmd2.label "Optiones">
+<!ENTITY preferencesCmd2.accesskey "O">
+<!ENTITY preferencesCmdUnix.label "Preferentias">
+<!ENTITY preferencesCmdUnix.accesskey "n">
 
 <!--  Mac OS X Window Menu -->
+<!ENTITY minimizeWindow.key "m">
+<!ENTITY minimizeWindow.label "Minimisar">
+<!ENTITY bringAllToFront.label "Poner toto al prime plan">
 <!ENTITY zoomWindow.label "Zoom">
 <!ENTITY windowMenu.label "Fenestra">
 
@@ -205,6 +229,8 @@
 <!ENTITY toAddr.label "A:">
 <!ENTITY ccAddr.label "Cc:">
 <!ENTITY replyAddr.label "Responder a:">
+<!ENTITY subject.label "Subjecto:">
+<!ENTITY subject.accesskey "S">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings of attachmentCount in composeMsgs.properties.
      Please ensure that this access key is unique: Do not duplicate any other
@@ -214,8 +240,12 @@
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY smiley3Cmd.label "Palpebration">
+<!ENTITY smiley14Cmd.label "Innocente">
+<!ENTITY smiley16Cmd.label "Bucca sigillate">
 
 <!-- Message Pane Context Menu -->
+<!ENTITY spellCheckAddToDictionary.label "Adder al dictionario">
+<!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY copy.label "Copiar">
 <!ENTITY copy.accesskey "C">
 <!ENTITY paste.label "Collar">
@@ -247,9 +277,11 @@
 <!-- Spell checker context menu items -->
 
 <!-- Title for the address picker panel -->
+<!ENTITY addressesSidebarTitle.label "Contactos">
 
 <!-- Identity popup customize menuitem -->
 
 <!-- Accessibility name for the document -->
 
 <!-- Status Bar -->
+<!ENTITY encodingStatusPanel.tooltip "Codification del texto">
