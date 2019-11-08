@@ -18,6 +18,7 @@ about-config-intro-warning-button = Αποδοχή κινδύνου και συ�
 
 
 
+about-config-page-title = Προηγμένες προτιμήσεις
 about-config-search-input1 =
     .placeholder = Αναζήτηση ονόματος προτίμησης
 about-config-show-all = Εμφάνιση όλων

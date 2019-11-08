@@ -158,18 +158,24 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Σε σύνδεση ως">
 <!ENTITY fxa.menu.manageAccount.label "Διαχείριση λογαριασμού…">
+<!ENTITY fxa.menu.syncSettings.label "Ρυθμίσεις &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "Ρυθμίσεις &syncBrand.shortName.label;…">
+<!ENTITY fxa.menu.syncSettings2.label "Ρυθμίσεις &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Σύνδεση άλλης συσκευής…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Σύνδεση στο &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Ενεργοποίηση &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Λογαριασμός">
 <!ENTITY fxa.menu.firefoxServices.label "Υπηρεσίες &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Λογαριασμός">
+<!ENTITY fxa.menu.settings.label "Ρυθμίσεις">
+<!ENTITY fxa.menu.accountSettings.label "Ρυθμίσεις λογαριασμού">
+<!ENTITY fxa.menu.signOut.label "Αποσύνδεση…">
+<!ENTITY fxa.menu.deviceSettings.label "Ρυθμίσεις συσκευής">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -281,6 +287,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Έχετε αποκλείσει τη χρήση του αρθρώματος Adobe Flash για αυτή την ιστοσελίδα.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Έχετε αποκλείσει την πρόσβαση MIDI για αυτή την ιστοσελίδα.">
 <!ENTITY urlbar.installBlocked.tooltip           "Έχετε αποκλείσει την εγκατάσταση προσθέτων για αυτή την ιστοσελίδα.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Προβολή ιστορικού">
 
@@ -959,10 +966,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Ιχνηλάτες">
 
 <!ENTITY contentBlocking.manageSettings.label "Διαχείριση φραγής περιεχομένου">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Περιεχόμενο καταγραφής">
-
-<!ENTITY contentBlocking.manageSettings2.label "Διαχείριση ρυθμίσεων προστασίας">
 <!ENTITY contentBlocking.manageSettings.accesskey "Δ">
 
 <!ENTITY contentBlocking.trackersView.label "Ιχνηλάτες">
@@ -971,6 +974,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies και δεδομένα ιστοσελίδων">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Περιεχόμενο καταγραφής">
+
+<!ENTITY contentBlocking.manageSettings2.label "Διαχείριση ρυθμίσεων προστασίας">
 <!ENTITY contentBlocking.manageSettings2.accesskey "Δ">
 
 

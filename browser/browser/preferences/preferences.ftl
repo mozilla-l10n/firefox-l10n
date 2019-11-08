@@ -282,6 +282,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Χρήση αρθρώματος "{ $plugin-name }" (σε { -brand-short-name })
@@ -307,7 +311,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Περιεχόμενο διαχείρισης ψηφιακών δικαιωμάτων (DRM)
 play-drm-content =
@@ -454,7 +458,6 @@ choose-bookmark =
 
 home-prefs-content-header = Περιεχόμενο αρχικής σελίδας Firefox
 home-prefs-content-description = Επιλέξτε τι περιεχόμενο θέλετε στην αρχική σελίδα του Firefox σας.
-home-prefs-content-discovery-description = Η ανακάλυψη περιεχομένου στην Αρχική Firefox σάς επιτρέπει να ανακαλύψετε υψηλής ποιότητας, σχετικά άρθρα από όλο τον ιστό.
 home-prefs-search-header =
     .label = Διαδικτυακή αναζήτηση
 home-prefs-topsites-header =
@@ -502,6 +505,7 @@ search-bar-shown =
     .label = Προσθήκη γραμμής αναζήτησης στη γραμμή εργαλείων
 search-engine-default-header = Προεπιλεγμένη μηχανή αναζήτησης
 search-engine-default-desc = Επιλέξτε την προεπιλεγμένη μηχανή αναζήτησης για χρήση στη γραμμή διευθύνσεων και στη γραμμή αναζήτησης.
+search-suggestions-header = Προτάσεις αναζήτησης
 search-suggestions-option =
     .label = Παροχή προτάσεων αναζήτησης
     .accesskey = Π
@@ -551,6 +555,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Πάρτε μαζί σας το διαδίκτυο
 sync-signedout-description = Συγχρονίστε τους σελιδοδείκτες, το ιστορικό, τις καρτέλες, τους κωδικούς πρόσβασης, τα πρόσθετα, καθώς και τις προτιμήσεις σας σε όλες τις συσκευές σας.
 sync-signedout-account-title = Σύνδεση με ένα { -fxaccount-brand-name }
@@ -571,11 +579,17 @@ sync-mobile-promo = Κάντε λήψη του Firefox για <img data-l10n-na
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Αλλαγή εικόνας προφίλ
 sync-disconnect =
     .label = Αποσύνδεση…
     .accesskey = Α
+sync-sign-out =
+    .label = Αποσύνδεση…
+    .accesskey = ν
 sync-manage-account = Διαχείριση λογαριασμού
     .accesskey = η
 sync-signedin-unverified = { $email } Μη επαληθευμένος.
@@ -591,6 +605,32 @@ sync-sign-in =
     .accesskey = σ
 sync-signedin-settings-header = Ρυθμίσεις Sync
 sync-signedin-settings-desc = Επιλέξτε τι θα συγχρονίζεται στις συσκευές σας με το { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+prefs-syncing-on = Συγχρονισμός: ΕΝΕΡΓΟΣ
+prefs-syncing-off = Συγχρονισμός: ΑΝΕΝΕΡΓΟΣ
+
+## The list of things currently syncing.
+
+sync-currently-syncing-bookmarks = Σελιδοδείκτες
+sync-currently-syncing-history = Ιστορικό
+sync-currently-syncing-tabs = Ανοικτές καρτέλες
+sync-currently-syncing-logins-passwords = Συνδέσεις και κωδικοί πρόσβασης
+sync-currently-syncing-addresses = Διευθύνσεις
+sync-currently-syncing-creditcards = Πιστωτικές κάρτες
+sync-currently-syncing-addons = Πρόσθετα
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Επιλογές
+       *[other] Προτιμήσεις
+    }
+sync-change-options =
+    .label = Αλλαγή…
+    .accesskey = Α
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Σελιδοδείκτες
     .accesskey = δ
@@ -604,6 +644,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = Συνδέσεις
     .tooltiptext = Ονόματα χρήστη και κωδικοί πρόσβασης που έχετε αποθηκεύσει
+    .accesskey = Σ
+sync-engine-logins-passwords =
+    .label = Συνδέσεις και κωδικοί πρόσβασης
+    .tooltiptext = Αποθηκευμένα ονόματα χρήστη και κωδικοί πρόσβασης
     .accesskey = Σ
 sync-engine-addresses =
     .label = Διευθύνσεις
@@ -625,6 +669,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Γενικές ρυθμίσεις, ρυθμίσεις απορρήτου και ασφάλειας που έχετε αλλάξει
     .accesskey = ς
+
+## The device name controls.
+
 sync-device-name-header = Όνομα συσκευής
 sync-device-name-change =
     .label = Αλλαγή ονόματος συσκευής…
@@ -647,7 +694,11 @@ privacy-header = Απόρρητο προγράμματος περιήγησης
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Συνδέσεις & κωδικοί πρόσβασης
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Ερώτηση για αποθήκευση συνδέσεων και κωδικών πρόσβασης για ιστοσελίδες
     .accesskey = β
@@ -771,6 +822,7 @@ addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τ�
 
 content-blocking-header = Φραγή περιεχομένου
 content-blocking-section-description = Προστατέψτε το απόρρητό σας ενώ περιηγείστε. Αποκλείστε το αόρατο περιεχόμενο που καταγράφει τις ιστοσελίδες που επισκέπτεστε και δημιουργεί ένα προφίλ για εσάς. Η φραγή μέρους του περιεχομένου αυτού μπορεί να επιταχύνει τη φόρτωση σελίδων.
+content-blocking-enhanced-tracking-protection = Ενισχυμένη προστασία από καταγραφή
 content-blocking-learn-more = Μάθετε περισσότερα
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -803,7 +855,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Προσαρμοσμένη
     .accesskey = Π
 
-##
+
 
 content-blocking-all-cookies = Όλα τα cookies
 content-blocking-unvisited-cookies = Cookies από ιστοσελίδες που δεν έχετε επισκεφθεί

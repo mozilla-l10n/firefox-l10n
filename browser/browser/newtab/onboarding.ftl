@@ -28,10 +28,17 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Απαιτείται έγκυρο email
 onboarding-join-form-legal = Συνεχίζοντας, συμφωνείτε με τους <a data-l10n-name="terms">όρους υπηρεσίας</a> και τη <a data-l10n-name="privacy">σημείωση απορρήτου</a>.
 onboarding-join-form-continue = Συνέχεια
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Έχετε ήδη λογαριασμό;
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Σύνδεση
 onboarding-start-browsing-button-label = Έναρξη περιήγησης
 onboarding-cards-dismiss =
     .title = Απόρριψη
     .aria-label = Απόρριψη
+
+## Welcome full page string
+
 
 ## Firefox Sync modal dialog strings.
 
@@ -64,6 +71,9 @@ onboarding-benefit-privacy-title = Πραγματική ιδιωτικότητα
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Όλα όσα κάνουμε τιμούν την υπόσχεση μας σχετικά με τα προσωπικά δεδομένα: Λιγότερα δεδομένα. Με ασφάλεια. Χωρίς μυστικά.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 

@@ -5,12 +5,14 @@
 protection-report-page-title = Προστασία απορρήτου
 protection-report-content-title = Προστασία απορρήτου
 etp-card-title = Ενισχυμένη προστασία από καταγραφή
+protection-report-manage-protections = Διαχείριση ρυθμίσεων
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Σήμερα
 tracker-tab-title = Περιεχόμενο καταγραφής
 lockwise-title-logged-in = { -lockwise-brand-name }
-about-logins-view-logins-button = Προβολή συνδέσεων
+protection-report-view-logins-button = Προβολή συνδέσεων
+    .title = Μετάβαση στις αποθηκευμένες συνδέσεις
 turn-on-sync = Ενεργοποίηση { -sync-brand-short-name }…
     .title = Μετάβαση στις προτιμήσεις συγχρονισμού
 manage-devices = Διαχείριση συσκευών
