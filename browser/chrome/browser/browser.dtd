@@ -150,6 +150,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "আপনি সিঙ্ক করার আগে আপনাকে নিজের অ্যাকাউন্টটি যাচাই করাতে হবে।">
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; সেটিংস খুলুন…">
 
+<!ENTITY pictureInPictureHideToggle.label "পিকচার-ইন-পিকচার টগল লুকান">
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
@@ -450,6 +451,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.welcome.label "আপনার অন্যান্য ডিভাইসের ট্যাবের তালিকা দেখুন।">
 <!ENTITY appMenuRemoteTabs.unverified.label "আপনার অ্যাকাউন্ট যাচাই করা প্রয়োজন।">
 <!ENTITY appMenuRemoteTabs.signin.label "সিঙ্ক করতে সাইন ইন করুন">
+<!ENTITY appMenuRemoteTabs.signintosync.label "&syncBrand.shortName.label; এ সাইন ইন করুন…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "&syncBrand.shortName.label; চালু করুন…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "ডিভাইস ব্যবস্থাপনা…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "সিঙ্ককৃত ট্যাবগুলো সাইডবারে দেখুন">
@@ -854,6 +856,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "এটি একটি সুরক্ষিত &brandShortName; পাতা।">
 <!ENTITY identity.extensionPage "এই পাতাটি কোন এক্সটেনশন থেকে লোড হয়েছে।">
 <!ENTITY identity.insecureLoginForms2 "এই পাতায় লগইন করতে যে তথ্য দিয়েছেন তা চুরি হতে পারে।">
+<!ENTITY identity.customRoot "Mozilla দ্বারা স্বীকৃত নয় এমন প্রশংসাপত্র জারিকারী দ্বারা সংযোগ যাচাই করা হয়েছে।">
 
 <!ENTITY identity.evOwnerLabel2 "সার্টিফিকেট দেওয়া হয়েছে:">
 
@@ -874,6 +877,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.passiveLoaded3 "যদিও &brandShortName; কিছু কন্টেন্ট প্রতিরোধ করেছে, তবুও পাতাটিতে এখনও কিছু কন্টেন্ট আছে যা নিরাপদ নয় (যেমন ছবি)।">
 <!ENTITY identity.description.activeLoaded "এই ওয়েবসাইটে যে বিষয়বস্তু রয়েছে তা নিরাপদ নয় (যেমন স্ক্রিপ্ট) এবং আপনার সংযোগটি ব্যক্তিগত নয়।">
 <!ENTITY identity.description.activeLoaded2 "আপনার এই সাইটে শেয়ার করা তথ্য অন্যরা দেখতে পারেন (যেমন পাসওয়ার্ড, বার্তা, ক্রেডিট কার্ড, ইত্যাদি।)।">
+<!ENTITY identity.description.customRoot "Mozilla এই সার্টিফিকেট আনুমোদনকারীকে চিনতে পারছে না। এটি আপনার অপারেটিং সিস্টেম বা প্রশাসক দ্বারা যুক্ত করা হতে পারে।">
 
 <!ENTITY identity.enableMixedContentBlocking.label "E ইমেইলের নিরাপত্তা">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
@@ -935,6 +939,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "কেন?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "এগুলি ব্লক করা হলে কিছু ওয়েবসাইটের উপাদান বিগড়ে দিতে পারে। ট্র্যাকার ছাড়া, কিছু বোতাম, ফরম এবং লগইন ক্ষেত্র কাজ নাও করতে পারে।">
 <!ENTITY protections.socialMediaTrackers.label "সোশ্যাল মিডিয়া ট্র্যাকার">
 <!ENTITY protections.crossSiteTrackingCookies.label "ক্রস-সাইট ট্র্যাকিং কুকিজ">
 <!ENTITY protections.trackingContent.label "ট্র্যাকিং কন্টেন্ট">
