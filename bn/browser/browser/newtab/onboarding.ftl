@@ -127,6 +127,9 @@ onboarding-mobile-phone-text = iOS বা Android জন্য { -brand-product-
 # browser.
 onboarding-mobile-phone-button = মোবাইল ব্রাউজার ডাউনলোড করুন
 onboarding-send-tabs-title = তাৎক্ষনিক নিজেকে ট্যাব পাঠান
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Send Tabs তাৎক্ষণিকভাবে পাতা অনুলিপি, প্রতিলেপন, বা ব্রাউজার থেকে বের হওয়া ছাড়াই আপনার অন্য ডিভাইসে শেয়ার করে।
 onboarding-send-tabs-button = Send Tabs ব্যবহার শুরু করুন
 onboarding-pocket-anywhere-title = যেকোন স্থানে পড়ুন এবং শুনুন।
 onboarding-pocket-anywhere-text2 = আপনার প্রিয় কনটেন্ট { -pocket-brand-name } অ্যাপে অফলাইনে সংরক্ষণ করে রাখুন এবং আপনার সুবিধামতো পড়ুন , শুনুন ও দেখুন।

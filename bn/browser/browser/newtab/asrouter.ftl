@@ -166,5 +166,13 @@ cfr-doorhanger-cryptominers-description = আপনার গোপনীয়�
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] { -brand-short-name } <b>{ $blockedCount } </b> এর উপর ট্র্যাকার { $date } তারিখ থেকে ব্লক!
+       *[other] { -brand-short-name } <b>{ $blockedCount } </b> এর উপর ট্র্যাকার { $date } তারিখ থেকে ব্লক!
+    }
 cfr-doorhanger-milestone-ok-button = সব দেখুন
     .accesskey = S
