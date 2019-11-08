@@ -63,6 +63,7 @@ abuse-report-settings-suggestions = Bago isumbong ang extension, subukan mo muna
 abuse-report-settings-suggestions-search = Baguhin ang iyong mga default search setting
 abuse-report-settings-suggestions-homepage = Baguhin ang iyong homepage at bagong tab
 abuse-report-deceptive-reason = Mapagpanggap
+abuse-report-deceptive-reason-v2 = Nagpapanggap
 abuse-report-deceptive-example = Halimbawa: Mapanlinlang na pagkakalarawan
 abuse-report-broken-reason-extension = Hindi gumagana, naninira ng website, o nagpapabagal sa { -brand-product-name }
 abuse-report-broken-reason-theme = Hindi gumagana o naninira ng display ng browser

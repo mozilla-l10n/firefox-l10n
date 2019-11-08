@@ -9,6 +9,13 @@ appmenuitem-protection-report-title = Mga Privacy Protection
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Pumunta sa iyong privacy report
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = i-Zoom in
+appmenuitem-zoom-reduce =
+    .label = i-Zoom out
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =

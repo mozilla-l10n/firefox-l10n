@@ -26,6 +26,7 @@ search-search-in = Hanapin Sa:
 ## Various categories of shortcuts for search.
 
 search-bookmarks = Mga Bookmark
+search-history = Kasaysayan
 search-opentabs = Buksan ang mga Tab
 search-tags = Mga Tag
 search-titles = Mga Pamagat

@@ -110,11 +110,8 @@ master-password-reload-button =
     .label = Mag-log in
     .accesskey = L
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Kanselahin
-confirmation-dialog-dismiss-button =
-    .title = Kanselahin
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Gusto mo bang magamit ang mga login mo kahit saan mo dalhin ang { -brand-product-name }? Puntahan ang iyong mga Pagpipilian sa { -sync-brand-short-name } at piliin ang Mga Login na checkbox.
@@ -127,6 +124,15 @@ enable-password-sync-preferences-button =
            *[other] Tingnan ang mga kagustuhan para sa { -sync-brand-short-name }
         }
     .accesskey = V
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Huwag nang muling itanong
+    .accesskey = H
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Kanselahin
+confirmation-dialog-dismiss-button =
+    .title = Kanselahin
 confirm-delete-dialog-title = Burahin ang login na ito?
 confirm-delete-dialog-message = Itong action ay hindi na mababawi.
 confirm-delete-dialog-confirm-button = Burahin

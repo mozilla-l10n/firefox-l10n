@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = ni { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendasyon
+cfr-doorhanger-extension-notification2 = Rekomendasyon
+    .tooltiptext = Rekomendasyon
+    .a11y-announcement = Rekomendasyon
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Rekomendasyon
+    .tooltiptext = Rekomendasyon
+    .a11y-announcement = Rekomendasyon
 
 ## Add-on statistics
 ## These strings are used to display the total number of
