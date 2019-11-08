@@ -178,7 +178,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY SearchNameOrEmail.label                        "Όνομα ή e-mail">
 <!ENTITY SearchNameOrEmail.accesskey                    "ν">
 <!ENTITY advancedButton.tooltip                         "Προχωρημένη αναζήτηση διεύθυνσης">
-<!ENTITY quickSearchCmd.key                             "ζ">
+<!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Γρήγορη αναζήτηση">
 
 <!-- Results Pane -->

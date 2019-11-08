@@ -36,5 +36,5 @@
 <!ENTITY folderPickerPrefix.accesskey "λ">
 <!ENTITY helpButton.label "Βοήθεια">
 <!ENTITY helpButton.accesskey "Β">
-<!ENTITY closeCmd.key "Κ">
+<!ENTITY closeCmd.key "W">
 <!ENTITY searchBox.emptyText "Αναζήτηση φίλτρων κατά όνομα…">
