@@ -46,6 +46,9 @@
 <!ENTITY pasteCmd.accesskey                             "C">
 <!ENTITY deleteCmd.label                                "Deler">
 <!ENTITY deleteCmd.accesskey                            "D">
+<!ENTITY deleteAbCmd.label                              "Deler libro del adresses">
+<!ENTITY deleteContactCmd.label                         "Deler contacto">
+<!ENTITY deleteContactsCmd.label                        "Deler contactos">
 <!ENTITY selectAllCmd.label                             "Seliger toto">
 <!ENTITY selectAllCmd.key                               "t">
 <!ENTITY searchAddressesCmd.key                         "f">

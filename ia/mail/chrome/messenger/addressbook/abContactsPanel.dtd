@@ -33,5 +33,9 @@
 <!ENTITY abPropertiesContext.accesskey      "i">
 <!ENTITY editContactContext.label           "Rediger le contacto">
 <!ENTITY editContactContext.accesskey       "R">
+<!ENTITY editMailingListContext.label       "Modificar le lista">
+<!ENTITY editMailingListContext.accesskey   "M">
 
+<!ENTITY newContactAbContext.label          "Nove contacto">
+<!ENTITY newContactAbContext.accesskey      "C">
 
