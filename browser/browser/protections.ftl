@@ -9,8 +9,6 @@ graph-week-summary =
         [one] { $count } ট্র্যাকার গত সপ্তাহে { -brand-short-name } ব্লক করেছে
        *[other] { $count } ট্র্যাকার গত সপ্তাহে { -brand-short-name } ব্লক করেছে
     }
-protection-header-details-strict = সুরক্ষা স্তরটি <b> কঠোর </ b> সেট করা আছে
-protection-header-details-custom = সুরক্ষা স্তরটি <b> কাস্টম </ b> সেট করা আছে
 protection-report-header-details-strict = সুরক্ষা স্তরটি <b> কঠোর </ b> সেট করা আছে
     .title = গোপনীয়তা সেটিং এ যান
 protection-report-header-details-custom = সুরক্ষা স্তরটি <b> কাস্টম </ b> সেট করা আছে
@@ -18,6 +16,7 @@ protection-report-header-details-custom = সুরক্ষা স্তরট�
 protection-report-page-title = গোপনীয়তা সুরক্ষা
 protection-report-content-title = গোপনীয়তা সুরক্ষা
 etp-card-title = বর্ধিত ট্র্যাকিং সুরক্ষা
+protection-report-manage-protections = সেটিং পরিচালনা
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = আজ
@@ -30,7 +29,6 @@ lockwise-title = আবার কখনো পাসওয়ার্ড ভু
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } নিরাপদভাবে ব্রাউজারে আপনার পাসওয়ার্ড সংরক্ষণ করে।
 lockwise-header-content-logged-in = নিরাপদভাবে আপনার সকল ডিভাইসে আপনার পাসওয়ার্ড সংরক্ষণ করুন এবং সিঙ্ক করুন।
-about-logins-view-logins-button = লগইন সমূহ দেখুন
 protection-report-view-logins-button = লগইন সমূহ দেখুন
     .title = সংরক্ষিত লগইন এ যান
 turn-on-sync = { -sync-brand-short-name } চালু করুন...
@@ -55,10 +53,6 @@ info-monitored-emails =
         [one] ইমেইল ঠিকানা পর্যবেক্ষণ করা হচ্ছে।
        *[other] ইমেইল ঠিকানাগুলো পর্যবেক্ষণ করা হচ্ছে।
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = গোপনীয়তা সেটিং এ যান
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = সংরক্ষিত লগইন এ যান
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
