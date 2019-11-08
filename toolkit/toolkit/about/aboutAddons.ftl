@@ -441,6 +441,7 @@ theme-heading = Temalarınızı yönetin
 plugin-heading = Yan uygulamarınızı yönetin
 dictionary-heading = Sözlüklerinizi yönetin
 locale-heading = Dillerinizi yönetin
+updates-heading = Güncellemelerinizi yönetin
 discover-heading = { -brand-short-name } tarayıcınızı kişiselleştirin
 shortcuts-heading = Eklenti kısayollarını yönet
 theme-heading-search-label = Daha fazla tema bul

@@ -9,6 +9,7 @@ ok = Tamam
 http = HTTP
 sockets = Sockets
 dns = DNS
+dnssuffix = DNS soneki
 websockets = WebSockets
 refresh = Yenile
 auto-refresh = 3 saniyede bir otomatik yenile
