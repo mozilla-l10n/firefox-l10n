@@ -1,0 +1,24 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemGeneral.label                   "General">
+<!ENTITY itemAutoComplete.label              "Adresses">
+
+
+
+<!ENTITY fontSize.label                       "Dimension:">
+<!ENTITY fontSize.accesskey                   "d">
+<!ENTITY bgColor.label                        "Color de fundo:">
+<!ENTITY bgColor.accesskey                    "f">
+<!ENTITY restoreHTMLDefaults.label            "Restaurar predefinitiones">
+<!ENTITY restoreHTMLDefaults.accesskey        "R">
+
+<!ENTITY downloadDictionaries.label           "Discargar altere dictionarios">
+
+<!ENTITY autoSaveEnd.label                    "minutas">
+
+
+
+<!ENTITY attachmentReminderOptions.label       "Parolas clave…">
+<!ENTITY attachmentReminderOptions.accesskey   "k">
