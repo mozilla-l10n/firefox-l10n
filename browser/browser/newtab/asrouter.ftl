@@ -76,7 +76,7 @@ cfr-doorhanger-bookmark-fxa-body = দারুন! আপনার মোবা
 cfr-doorhanger-bookmark-fxa-link-text = এখনই বুকমার্ক সিঙ্ক করুন...
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = বন্ধ বোতাম
-    .title = শিরোনাম
+    .title = বন্ধ
 
 ## Protections panel
 
@@ -163,5 +163,5 @@ cfr-doorhanger-cryptominers-description = আপনার গোপনীয়�
 
 ## Enhanced Tracking Protection Milestones
 
-cfr-doorhanger-milestone-ok-button = সবগুলো দেখুন
+cfr-doorhanger-milestone-ok-button = সব দেখুন
     .accesskey = S
