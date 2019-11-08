@@ -65,10 +65,12 @@
 <!ENTITY useService.label                "Usar un servicio in secunde plano pro installar le actualisationes">
 <!ENTITY useService.accesskey            "s">
 
+<!ENTITY updateCrossUserSettingWarning.description "Iste configuration sera applicate a tote le contos de Windows e profilos de &brandShortName; usante iste installation de &brandShortName;.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Parametros…">
 <!ENTITY showSettings.accesskey        "S">
+<!ENTITY proxiesConfigure.label        "Configurar como &brandShortName; se connecte a Internet">
 <!ENTITY connectionsInfo.caption       "Connexion">
 <!ENTITY offlineInfo.caption           "Offline">
 <!ENTITY offlineInfo.label             "Configurar le parametros offline">
