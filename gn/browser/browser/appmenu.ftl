@@ -9,6 +9,13 @@ appmenuitem-protection-report-title = Ñemiguáva ñemo’ã
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Tereho ne marandu’i ñemiguápe
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Moag̃ui
+appmenuitem-zoom-reduce =
+    .label = Momombyry
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =

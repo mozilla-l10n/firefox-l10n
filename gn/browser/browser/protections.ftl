@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Ñemo’ã oñembohape <b>Estándar</b>-pe
-protection-header-details-strict = Ñemo’ã oñembohape <b>Estricto</b>-pe
-protection-header-details-custom = Ñemo’ã oñembohape <b>Personalizado</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Ñemo’ã oñembohape <b>Estándar</b>-pe
     .title = Eho ñemigua moĩporãme
 protection-report-header-details-strict = Ñemo’ã oñembohape <b>Estricto</b>-pe
@@ -37,6 +31,7 @@ protection-report-page-title = Ñemigua ñemo'ã
 protection-report-content-title = Ñemigua mo’ãha
 etp-card-title = Tapykueho mo’ãha mbotuichapyre
 etp-card-content = Umi tapykuehoha oike ñandutípe ombyaty hag̃ua marandu umi nerembiapo rapykuere. { -brand-short-name } ojoko heta tapykuehoha ha ambue scripts imarãva.
+protection-report-manage-protections = Eñangareko ñembohekóre
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Ko árape
@@ -56,7 +51,6 @@ lockwise-title = Anivéke nderesarái ne ñe’ẽñemígui
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } ombyaty iñe’ẽñemi ikundahápe tekorosãme.
 lockwise-header-content-logged-in = Embyaty ha embojuehe ne ñe’ẽñemi opaite ne mba’e’okápe tekorosãme.
-about-logins-view-logins-button = Ehecha tembiapo ñepyrũ
 protection-report-view-logins-button = Ehecha tembiapo ñepyrũ
     .title = Eho jeikeha ñongatupyrépe
 lockwise-no-logins-content = Eguereko pe tembipuru’i <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> egueraha hag̃ua ne ñe’ẽñemi opa hendápe.
@@ -118,10 +112,6 @@ password-warning =
         [one] Tembiapo ñepyrũ ñongatupyre ikatu kuri oĩ mba’ekuaarã imarãkuaahápe. Emoambue ko ñe’ẽñemi hekorosãve hag̃ua ñandutípe. <a data-l10n-name="lockwise-link">Ehecha tembiapo ñepyrũ ñongatupyre</a>
        *[other] Tembiapo ñepyrũ ñongatupyre ikatu kuri oĩ mba’ekuaarã imarãkuaahápe. Emoambue ko ñe’ẽñemi hekorosãve hag̃ua ñandutípe. <a data-l10n-name="lockwise-link">Ehecha tembiapo ñepyrũ ñongatupyre</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Eho ñemigua moĩporãme
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Eho jeikeha ñongatupyrépe
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

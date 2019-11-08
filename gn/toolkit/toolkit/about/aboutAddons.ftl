@@ -438,6 +438,7 @@ theme-heading = Emongu’e nde téma
 plugin-heading = Emongu’e nde mboguejyrã’i
 dictionary-heading = Emongu’e ne ñe’ẽryrukuéra
 locale-heading = Emongu’e ne ñe’ẽnguéra
+updates-heading = Eñangareko ne ñembohekopyahúre
 discover-heading = Emomba'e nde { -brand-short-name }
 shortcuts-heading = Eñangareko jepysokue jeike pya’eháre
 theme-heading-search-label = Ejuhuvéta téma
