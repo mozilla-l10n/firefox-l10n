@@ -33,6 +33,7 @@ policy-DisableFirefoxStudies = { -brand-short-name } tarayıcısının araştır
 policy-DisableForgetButton = Unut düğmesine erişimi engelle.
 policy-DisableFormHistory = Arama ve form geçmişini hatırlama.
 policy-DisableMasterPasswordCreation = true ise ana parola oluşturulamaz.
+policy-DisablePasswordReveal = Kayıtlı hesaplardaki parolaların görüntülenmesine izin verme.
 policy-DisablePocket = Web sayfalarını Pocket'a kaydetme özelliğini devre dışı bırak.
 policy-DisablePrivateBrowsing = Gizli gezintiyi devre dışı bırak.
 policy-DisableProfileImport = Başka tarayıcılardaki verileri içe aktarmaya olanak veren menü komutunu devre dışı bırak.
@@ -61,6 +62,7 @@ policy-HardwareAcceleration = false ise donanım ivmelenmesini kapat.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Giriş sayfasını ayarla ve isteğe bağlı olarak kilitle.
 policy-InstallAddonsPermission = Belirli websitelerinin eklenti yüklemesine izin ver.
+policy-LegacyProfiles = Her kurulum için ayrı bir profil oluşturmayı zorunlu tutan özelliği devre dışı bırak
 policy-LocalFileLinks = Belirli web sitelerinin yerel dosyalara bağlantı vermesine izin ver.
 policy-NetworkPrediction = Ağ tahminini (DNS prefetching) aç veya kapat.
 policy-NewTabPage = Yeni Sekme sayfasını etkinleştir veya devre dışı bırak.
