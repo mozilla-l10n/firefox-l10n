@@ -24,5 +24,5 @@ blocklist-button-ok =
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
 blocklist-item-moz-std-listName = স্তর ১ বাঁধা তালিকা (প্রস্তাবিত)।
-blocklist-item-moz-full-listName = লেভেল ২ ব্লক লিস্ট।
+blocklist-item-moz-full-listName = লেভেল 2 ব্লক লিস্ট।
 blocklist-item-moz-full-description = সকল সনাক্তকৃত ট্র্যাকার কে ব্লক করে। কিছু ওয়েব সাইট অথবা কন্টেন্ট সঠিকভাবে লোড নাও হতে পারে।
