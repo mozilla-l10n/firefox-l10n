@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Πλήρης οθόνη
     .accesskey = Π
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Προβολή όλων των καρτελών
@@ -212,6 +212,12 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = Σύνδεση στο { -sync-brand-short-name }…
     .accesskey = ν
+menu-tools-fxa-sign-in =
+    .label = Σύνδεση στο { -brand-product-name }…
+    .accesskey = δ
+menu-tools-turn-on-sync =
+    .label = Ενεργοποίηση { -sync-brand-short-name }…
+    .accesskey = ρ
 menu-tools-sync-now =
     .label = Συγχρονισμός τώρα
     .accesskey = Σ
@@ -276,8 +282,7 @@ menu-help-safe-mode-with-addons =
     .label = Επανεκκίνηση με ενεργά πρόσθετα
     .accesskey = π
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Αναφορά παραπλανητικής σελίδας…
     .accesskey = Α

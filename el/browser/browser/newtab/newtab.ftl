@@ -45,9 +45,6 @@ newtab-topsites-save-button = Αποθήκευση
 newtab-topsites-preview-button = Προεπισκόπηση
 newtab-topsites-add-button = Προσθήκη
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Θέλετε σίγουρα να διαγράψετε κάθε παρουσία της σελίδας αυτής από το ιστορικό σας;
@@ -83,14 +80,17 @@ newtab-menu-delete-history = Διαγραφή από ιστορικό
 newtab-menu-save-to-pocket = Αποθήκευση στο { -pocket-brand-name }
 newtab-menu-delete-pocket = Διαγραφή από το { -pocket-brand-name }
 newtab-menu-archive-pocket = Αρχειοθέτηση στο { -pocket-brand-name }
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Τέλος
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Αφαίρεση σελιδοδείκτη
 # Bookmark is a verb here.
 newtab-menu-bookmark = Προσθήκη σελιδοδείκτη
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -120,10 +120,6 @@ newtab-label-removed-bookmark = Ο σελιδοδείκτης αφαιρέθηκ
 newtab-label-recommended = Τάσεις
 newtab-label-saved = Αποθηκεύτηκε στο { -pocket-brand-name }
 newtab-label-download = Λήψεις
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
