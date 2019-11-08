@@ -6,7 +6,10 @@
 
 <!ENTITY addressing.label          "Composition &amp; Adresses">
 <!ENTITY addressingGroupTitle.label "Adresses">
+<!ENTITY addressingText.label      "Durante le recerca del adresses:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
+<!ENTITY useGlobal.label           "Usar mi preferentias de servitor LDP global pro iste conto">
+<!ENTITY useGlobal.accesskey       "U">
 <!ENTITY editDirectories.label     "Redaction de directorios…">
 <!ENTITY editDirectories.accesskey "R">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
@@ -37,4 +40,8 @@
 <!ENTITY includeSigOnForward.label            "Includer firma in messages transferite">
 <!ENTITY includeSigOnForward.accesskey        "t">
 
+<!ENTITY globalComposingPrefs.label           "Preferentias global de redaction…">
+<!ENTITY globalComposingPrefs.accesskey       "G">
 
+<!ENTITY globalAddressingPrefs.label          "Preferentias global de adresses…">
+<!ENTITY globalAddressingPrefs.accesskey      "P">

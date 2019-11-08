@@ -38,4 +38,12 @@
 
 <!ENTITY newContactAbContext.label          "Nove contacto">
 <!ENTITY newContactAbContext.accesskey      "C">
+<!ENTITY newListAbContext.label             "Nove lista">
+<!ENTITY newListAbContext.accesskey         "L">
 
+<!ENTITY toButton.label                     "Adder a:">
+<!ENTITY toButton.accesskey                 "A">
+<!ENTITY ccButton.label                     "Adder a Cc:">
+<!ENTITY ccButton.accesskey                 "C">
+<!ENTITY bccButton.label                    "Adder a Bcc:">
+<!ENTITY bccButton.accesskey                "B">

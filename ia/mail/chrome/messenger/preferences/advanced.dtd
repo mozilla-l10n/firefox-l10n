@@ -13,7 +13,13 @@
 <!ENTITY allowHWAccel.label            "Usar le acceleration de hardware quando disponibile">
 <!ENTITY allowHWAccel.accesskey        "h">
 
+<!ENTITY scrolling.label               "Rolamento">
+<!ENTITY useAutoScroll.label           "Usar rolamento automatic">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Usar le rolamento suave">
+<!ENTITY useSmoothScrolling.accesskey  "s">
 
+<!ENTITY systemIntegration.label       "Integration de systema">
 <!ENTITY checkDefaultsNow.label        "Controlar ora…">
 <!ENTITY checkDefaultsNow.accesskey    "o">
 <!ENTITY configEditDesc.label          "Configuration avantiate">
