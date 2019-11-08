@@ -461,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox giriş sayfası içeriği
 home-prefs-content-description = Firefox giriş sayfasında görmek istediğiniz içerikleri seçin.
-home-prefs-content-discovery-description = Firefox giriş sayfasındaki içerik keşfi özelliği, internetteki kaliteli ve ilginizi çekebilecek yazıları keşfetmenizi sağlar.
 home-prefs-search-header =
     .label = Web araması
 home-prefs-topsites-header =
@@ -509,7 +508,8 @@ search-bar-shown =
     .label = Araç çubuğuna arama çubuğunu ekle
 search-engine-default-header = Varsayılan arama motoru
 search-engine-default-desc = Adres çubuğunda ve arama çubuğunda kullanılacak varsayılan arama motorunu seçin.
-search-engine-default-private-desc = Gizli pencerelerde kullanılacak varsayılan arama motorunu seçin.
+search-engine-default-desc-2 = Bu, adres çubuğundaki ve arama çubuğundaki varsayılan arama motorunuzdur. İstediğiniz zaman değiştirebilirsiniz.
+search-engine-default-private-desc-2 = Yalnızca gizli pencerelerde kullanmak istediğiniz arama motorunu seçin
 search-separate-default-engine =
     .label = Gizli pencerelerde bu arama motorunu kullan
     .accesskey = G
@@ -722,7 +722,11 @@ privacy-header = Tarayıcı gizliliği
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Hesaplar ve parolalar
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Sitelerdeki kullanıcı adı ve parolalarımı kaydetmeyi öner
     .accesskey = r
@@ -736,6 +740,7 @@ forms-breach-alerts =
     .label = Veri ihlaline uğrayan sitelerdeki parolalarla ilgili uyarı göster
     .accesskey = V
 forms-breach-alerts-learn-more-link = Daha fazla bilgi al
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Kullanıcı adı ve parolaları otomatik doldur
     .accesskey = ı

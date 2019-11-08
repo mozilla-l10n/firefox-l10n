@@ -61,19 +61,25 @@ abuse-report-messagebar-action-cancel = Vazgeç
 abuse-report-damage-reason = Bilgisayarıma ve verilerime zarar veriyor
 abuse-report-damage-example = Örnek: Kötü amaçlı yazılım yüklüyor veya veri çalıyor
 abuse-report-spam-reason = Spam veya reklam oluşturuyor
+abuse-report-spam-reason-v2 = Spam içeriyor veya istenmeyen reklamlar ekliyor
 abuse-report-spam-example = Örnek: Web sayfalarına reklam yerleştiriyor
 abuse-report-settings-reason = Bana haber vermeden arama motorumu, giriş sayfamı veya yeni sekmeyi değiştirdi
+abuse-report-settings-reason-v2 = Bana haber vermeden veya sormadan arama motorumu, giriş sayfamı veya yeni sekmemi değiştirdi
 abuse-report-settings-suggestions = Eklentiyi şikâyet etmeden önce ayarlarınızı değiştirmeyi deneyebilirsiniz:
 abuse-report-settings-suggestions-search = Varsayılan arama ayarlarınızı değiştirin
 abuse-report-settings-suggestions-homepage = Giriş sayfanızı ve yeni sekmenizi değiştirin
 abuse-report-deceptive-reason = Olmadığı bir şeymiş gibi davranıyor
+abuse-report-deceptive-reason-v2 = Olduğunu iddia ettiği gibi bir şey değil
 abuse-report-deceptive-example = Örnek: Yanıltıcı açıklama veya görüntü
 abuse-report-broken-reason-extension = Çalışmıyor, web sitelerini bozuyor veya { -brand-product-name } tarayıcımı yavaşlatıyor
 abuse-report-broken-reason-theme = Çalışmıyor veya tarayıcı ekranını bozuyor
+abuse-report-broken-reason-extension-v2 = Çalışmıyor, web sitelerini bozuyor veya { -brand-product-name } tarayıcımı yavaşlatıyor
+abuse-report-broken-reason-theme-v2 = Çalışmıyor veya tarayıcı ekranını bozuyor
 abuse-report-broken-example = Örnek: Özellikler yavaş, kullanması zor veya çalışmıyor; sitelerin bazı kısımları yüklenmiyor veya bozuk görünüyor
 abuse-report-broken-suggestions-extension = Bir hata (bug) bulmuş olabilirsiniz. Buradan rapor göndermenin yanı sıra, işlevsellik sorunlarını çözmenin en iyi yolu eklentinin geliştiricisiyle iletişime geçmektir. Geliştirici bilgilerine ulaşmak için <a data-l10n-name="support-link">eklentinin sitesini ziyaret edin</a>.
 abuse-report-broken-suggestions-theme = Bir hata (bug) bulmuş olabilirsiniz. Buradan rapor göndermenin yanı sıra, işlevsellik sorunlarını çözmenin en iyi yolu temanın geliştiricisiyle iletişime geçmektir. Geliştirici bilgilerine ulaşmak için <a data-l10n-name="support-link">temanın sitesini ziyaret edin</a>.
 abuse-report-policy-reason = Nefret söylemi, şiddet veya yasa dışı içerik
+abuse-report-policy-reason-v2 = Nefret söylemi, şiddet veya yasa dışı içerik içeriyor
 abuse-report-policy-suggestions =
     Not: Telif hakkı ve ticari marka sorunlarını ayrı bir yerden rapor etmeniz gerekiyor.
     Sorunu rapor etmek için <a data-l10n-name="report-infringement-link">bu yönergeleri kullanın</a>.
