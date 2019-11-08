@@ -10,6 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+policy-3rdparty = WebExtensions যেন chrome.storage.managed এর মাধ্যমে এক্সেস করতে পারে সে নীতি ঠিক করুন।
 policy-AppUpdateURL = কাস্টম অ্যাপ আপডেট URL সেট করুন।
 policy-Authentication = সমর্থিত সাইটের জন্য অভ্যন্তরীণ ব্যবহারকারী প্রমাণীকরণ কনফিগার করুন।
 policy-BlockAboutAddons = অ্যাড-অন পরিচালকের অ্যাক্সেস প্রতিরোধ করুন (about:addons)।
@@ -32,6 +33,7 @@ policy-DisableFirefoxStudies = চলমান গবেষণা থেকে {
 policy-DisableForgetButton = Forget বাটন ব্যবহারে বিরত রাখুন।
 policy-DisableFormHistory = অনুসন্ধান ও ফরম ইতিহাস মনে রাখবে না।
 policy-DisableMasterPasswordCreation = সত্য হলে, মাস্টার পাসওয়ার্ড তৈরি করা সম্ভব নয়।
+policy-DisablePasswordReveal = সংরক্ষিত লগইনে পাসওয়ার্ড প্রকাশ করার অনুমতি দেবেন না।
 policy-DisablePocket = Pocket এ ওয়েবপেজ সংরক্ষণ করার বৈশিষ্ট্য নিস্ক্রিয় করুন।
 policy-DisablePrivateBrowsing = ব্যক্তিগত ব্রাউজিং নিস্ক্রিয় করুন।
 policy-DisableProfileImport = অন্য ব্রাউজার থেকে তথ্য আমদানি করার মেনু নির্দেশটি নিস্ক্রিয় করুন।
@@ -64,12 +66,18 @@ policy-LegacyProfiles = প্রতিটি ইনস্টলেশনের 
 policy-LocalFileLinks = নির্ধারিত ওয়েবসাইকে লোকাল ফাইলগুলোকে লিঙ্ক করার অনুমতি দিন।
 policy-NetworkPrediction = নেটওয়ার্ক পূর্বাভাস সক্রিয় অথবা নিষ্ক্রিয় করুন। (DNS prefetching)
 policy-NewTabPage = নতুন ট্যাব সক্রিয় বা নিষ্ক্রিয় করুন।
+policy-NoDefaultBookmarks = { -brand-short-name }, এবং স্মার্ট বুকমার্কস (সর্বাধিক দেখা, সাম্প্রতিক ট্যাগ্) এর মাধ্যমে ডিফল্ট বুকমার্ক বান্ডেল করা তৈরি করা নিষ্ক্রিয় করুন। দ্রষ্টব্য: প্রোফাইলটি প্রথম চালানোর আগে ব্যবহার করা হলেই কেবল নীতিটি কার্যকর হবে।
+policy-OfferToSaveLogins = সংরক্ষিত লগইন ও পাসওয়ার্ড মনে রাখার জন্য জিজ্ঞাসা করতে { -brand-short-name } কে অনুমতি দেওয়ার জন্য সেটিং জোড়পূর্বক প্রয়োগ করুন। সত্য ও মিথ্যা উভয় মান গ্রহণযোগ্য।
+policy-OfferToSaveLoginsDefault = সংরক্ষিত লগইন ও পাসওয়ার্ড মনে রাখার জন্য জিজ্ঞাসা করতে { -brand-short-name } কে অনুমতি দেওয়ার জন্য ডিফল্ট মান সেট করুন। সত্য ও মিথ্যা উভয় মান গ্রহণযোগ্য।
+policy-OverrideFirstRunPage = প্রথমবার চালান পাতা বাতিল করুন। আপনি যদি প্রথমবার চালান পাতা নিস্ক্রিয় করতে চান তবে এই নীতিটি ফাঁকা রাখুন।
+policy-OverridePostUpdatePage = "নতুন কী আছে" পাতায় পোস্ট-হালনাগাদ বাতিল করুন। আপনি যদি পোস্ট-হালনাগাদ পাতা নিস্ক্রিয় করতে চান তবে এই নীতিটি ফাঁকা রাখুন।
 policy-PasswordManagerEnabled = পাসওয়ার্ড ম্যানেজারে পাসওয়ার্ড সংরক্ষণ চালু করুন।
 policy-Permissions = ক্যামেরা, মাইক্রোফোন, লোকেশন এবং নোটিফিকেশনের জন্য অনুমতিগুলি কনফিগার করুন।
 policy-PopupBlocking = নির্দিষ্ট ওয়েবসাইটের ক্ষেত্রে ডিফল্টরূপে পপআপ প্রদর্শন করার অনুমতি দিন।
 policy-Preferences = পছন্দগুলির একটি উপসেটের জন্য মান সেট এবং লক করুন।
 policy-PromptForDownloadLocation = কোথায় ফাইল সংরক্ষণ করবে ডাউনলোডের সময় তা জিজ্ঞাসা কর।
 policy-Proxy = পক্সি সেটিং ঠিক করুন
+policy-RequestedLocales = পছন্দ অনুসারে অ্যাপ্লিকেশনের জন্য অনুরোধকৃত লোকালের তালিকা সেট করুন।
 policy-SanitizeOnShutdown2 = শাটডাউনের সময় নেভিগেশন ডেটা সাফ করুন।
 policy-SearchBar = অনুসন্ধান বারের ডিফল্ট অবস্থান সেট করুন। ব্যবহারকারী এখনও এটি কাস্টমাইজ করতে পারবেন।
 policy-SearchEngines = সার্চ ইঞ্জিন সেটিংস কনফিগার করুন। এই পলিসি কেবল এক্সটেন্ডেড সমর্থিত রিলিজ (ESR) সংস্করণে উপলভ্য।
