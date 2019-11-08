@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title "Regulas de filtro">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">
+<!ENTITY filterName.label "Nomine del filtro:">
+<!ENTITY filterName.accesskey "i">
+
+
+<!ENTITY lowestPriorityCmd.label "Plus basse">
+<!ENTITY lowPriorityCmd.label "Basse">
+<!ENTITY normalPriorityCmd.label "Normal">
+<!ENTITY highPriorityCmd.label "Alte">
+<!ENTITY highestPriorityCmd.label "Plus alte">
+
+
+
+
+<!-- New Style Filter Rule Actions -->
+
+
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
