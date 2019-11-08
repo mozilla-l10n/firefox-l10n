@@ -55,7 +55,7 @@
 <!ENTITY printPreviewCmd.label "Προεπισκόπηση εκτύπωσης">
 <!ENTITY printPreviewCmd.accesskey "ρ">
 <!ENTITY printCmd.label "Εκτύπωση...">
-<!ENTITY printCmd.key "κ">
+<!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "Ε">
 
 <!-- Edit Menu -->
@@ -82,12 +82,12 @@
 <!ENTITY deleteCmd.label "Διαγραφή">
 <!ENTITY deleteCmd.accesskey "Δ">
 <!ENTITY editRewrapCmd.label "Aναδίπλωση">
-<!ENTITY editRewrapCmd.key "Α">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Μετονομασία συνημμένου…">
 <!ENTITY renameAttachmentCmd.accesskey "τ">
 <!ENTITY reorderAttachmentsCmd.label "Επανακατάταξη Συνημμένων…">
 <!ENTITY reorderAttachmentsCmd.accesskey "π">
-<!ENTITY reorderAttachmentsCmd.key "χ">
+<!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Πίνακας συνημμένων">
 <!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
      For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same

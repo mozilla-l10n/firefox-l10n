@@ -268,8 +268,8 @@
 
 <!ENTITY pageSourceCmd.label "Κώδικας μηνύματος">
 <!ENTITY pageSourceCmd.accesskey "κ">
-<!ENTITY pageSourceCmd.key "κ">
-<!ENTITY getNewMessagesCmd.key "ε">
+<!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
 <!ENTITY getAllNewMessagesCmd.key "Ε">
 
 <!-- Search Menu -->
@@ -277,7 +277,7 @@
 <!ENTITY findMenu.accesskey "Ε">
 <!ENTITY findCmd.label "Εύρεση σε αυτό το μήνυμα...">
 <!ENTITY findCmd.accesskey "σ">
-<!ENTITY findCmd.key "ρ">
+<!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "Εύρεση ξανά">
 <!ENTITY findAgainCmd.accesskey "ξ">
 <!ENTITY findAgainCmd.key "g">
@@ -286,7 +286,7 @@
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY searchMailCmd.label "Αναζήτηση μηνυμάτων...">
 <!ENTITY searchMailCmd.accesskey "μ">
-<!ENTITY searchMailCmd.key "ζ">
+<!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "Αναζήτηση διευθύνσεων…">
 <!ENTITY searchAddressesCmd.accesskey "ζ">
 
@@ -297,7 +297,7 @@
 <!ENTITY nextMenu.accesskey "ν">
 <!ENTITY nextMsgCmd.label "Μήνυμα">
 <!ENTITY nextMsgCmd.accesskey "Μ">
-<!ENTITY nextMsgCmd.key "π">
+<!ENTITY nextMsgCmd.key "f">
 <!ENTITY nextUnreadMsgCmd.label "Μη αναγνωσμένο μήνυμα">
 <!ENTITY nextUnreadMsgCmd.accesskey "ν">
 <!ENTITY nextUnreadMsgCmd.key "ο">
@@ -310,10 +310,10 @@
 <!ENTITY prevMenu.accesskey "Π">
 <!ENTITY prevMsgCmd.label "Μήνυμα">
 <!ENTITY prevMsgCmd.accesskey "Μ">
-<!ENTITY prevMsgCmd.key "ρ">
+<!ENTITY prevMsgCmd.key "b">
 <!ENTITY prevUnreadMsgCmd.label "Μη αναγνωσμένο μήνυμα">
 <!ENTITY prevUnreadMsgCmd.accesskey "η">
-<!ENTITY prevUnreadMsgCmd.key "μ">
+<!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goForwardCmd.label "Μπροστά">
 <!ENTITY goForwardCmd.accesskey "Μ">
 <!ENTITY goForwardCmd.commandKey "]">
