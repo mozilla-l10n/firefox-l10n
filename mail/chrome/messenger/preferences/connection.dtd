@@ -46,3 +46,6 @@
 <!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "No pedir autenticación si la contraseña está guardada">
 <!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  dnsOverHttps.label            "Habilitar DNS sobre HTTPS">
+<!ENTITY  dnsOverHttps.accesskey        "b">
