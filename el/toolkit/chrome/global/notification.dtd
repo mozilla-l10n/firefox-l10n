@@ -8,6 +8,8 @@
 
 <!ENTITY learnMore "Μάθετε περισσότερα…">
 
+<!ENTITY learnMoreNoEllipsis "Μάθετε περισσότερα">
+
 <!ENTITY defaultButton.label "Εντάξει!">
 <!ENTITY defaultButton.accesskey "Ε">
 

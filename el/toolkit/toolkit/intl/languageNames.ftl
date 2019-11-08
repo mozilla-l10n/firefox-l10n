@@ -188,6 +188,7 @@ language-name-tlh = Κλίνγκον
 language-name-tn = Τσουάνα
 language-name-to = Τόνγκα
 language-name-tr = Τουρκικά
+language-name-trs = Τρίκι
 language-name-ts = Τσόνγκα
 language-name-tt = Τατάρ
 language-name-tw = Τουί
