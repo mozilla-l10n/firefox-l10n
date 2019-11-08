@@ -14,6 +14,7 @@ certificate-viewer-algorithm = Αλγόριθμος
 certificate-viewer-certificate-authority = Αρχή πιστοποιητικού
 certificate-viewer-cipher-suite = Σουίτα κρυπτογράφησης
 certificate-viewer-common-name = Κοινό όνομα
+certificate-viewer-email-address = Διεύθυνση email
 certificate-viewer-country = Χώρα
 certificate-viewer-dns-name = Όνομα DNS
 certificate-viewer-id = ID
@@ -43,3 +44,24 @@ certificate-viewer-timestamp = Χρονική σήμανση
 certificate-viewer-value = Τιμή
 certificate-viewer-version = Έκδοση
 certificate-viewer-business-category = Κατηγορία επιχείρησης
+certificate-viewer-validity = Εγκυρότητα
+certificate-viewer-miscellaneous = Διάφορα
+# This message is used as a row header in the Miscellaneous section. 
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Λήψη
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] Ναι
+       *[false] Όχι
+    }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
+certificate-viewer-download-pem = PEM (πιστοποιητικό)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (αλυσίδα)
+    .download = { $fileName }-chain.pem
