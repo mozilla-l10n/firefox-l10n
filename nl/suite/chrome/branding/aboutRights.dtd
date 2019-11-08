@@ -30,7 +30,7 @@
 <!ENTITY rights.intro-point2d "Enkele onderdelen in &brandShortName;, zoals de Crashreporter, bieden u de mogelijkheid feedback aan &vendorShortName; te leveren. Door het indienen van feedback geeft u &vendorShortName; toestemming de feedback te gebruiken om hun producten te verbeteren, de feedback op hun websites te publiceren en de feedback te verspreiden.">
 
 <!-- point 2da is technically point 3. in the list -->
-<!ENTITY rights.intro-point2da "Enkele onderdelen in &brandShortName;, zoals de Crashreporter, bieden u de mogelijkheid feedback aan &vendorShortName; te leveren. Door het indienen van feedback geeft u &vendorShortName; toestemming de feedback te gebruiken om zijn producten te verbeteren, de feedback op zijn websites te publiceren en de feedback te verspreiden.">
+<!ENTITY rights.intro-point2da "Enkele onderdelen in &brandShortName;, zoals de Crashreporter, bieden u de mogelijkheid feedback aan &vendorShortName; te leveren. Door het indienen van feedback geeft u &vendorShortName; toestemming de feedback te gebruiken om hun producten te verbeteren, de feedback op hun websites te publiceren en de feedback te verspreiden.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Privacybeleidsregels voor producten van &vendorShortName; zijn ">
