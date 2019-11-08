@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY  language.label                          "Fuentes para:">
+<!ENTITY  language.accesskey                      "t">
+
+<!ENTITY  size.label                              "Tamaño:">
+<!ENTITY  sizeProportional.accesskey              "e">
+<!ENTITY  sizeMonospace.accesskey                 "i">
+
+<!ENTITY  proportional.label                      "Proporcional:">
+<!ENTITY  proportional.accesskey                  "P">
+
+<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.accesskey                    "n">
+<!ENTITY  monospace.label                         "Monospace:">
+<!ENTITY  monospace.accesskey                     "M">
+
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Latino">
+<!ENTITY  font.langGroup.japanese                 "Japonés">
+<!ENTITY  font.langGroup.trad-chinese             "Chino tradicional (Taiwán)">
+<!ENTITY  font.langGroup.simpl-chinese            "Chino simplificado">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Chino tradicional (Hong Kong)">
+<!ENTITY  font.langGroup.korean                   "Coreano">
+<!ENTITY  font.langGroup.cyrillic                 "Cirílico">
+<!ENTITY  font.langGroup.el                       "Griego">
+<!ENTITY  font.langGroup.other                    "Otros sistemas de escritura">
+<!ENTITY  font.langGroup.thai                     "Tailandés">
+<!ENTITY  font.langGroup.hebrew                   "Hebreo">
+<!ENTITY  font.langGroup.arabic                   "Arábico">
+<!ENTITY  font.langGroup.devanagari               "Devanagari">
+<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.armenian                 "Armenio">
+<!ENTITY  font.langGroup.bengali                  "Bengalí">
+<!ENTITY  font.langGroup.canadian                 "Silabario Canadiense Unificado">
+<!-- Minimum font size -->
+
+<!-- default font type -->
+
+<!-- fonts in message -->
+
+<!-- Language settings -->
+
