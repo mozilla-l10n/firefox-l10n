@@ -186,6 +186,7 @@ language-name-tlh = Klingone
 language-name-tn = Cuanga
 language-name-to = Tonga
 language-name-tr = Turke
+language-name-trs = Trikui
 language-name-ts = Conga
 language-name-tt = Tatare
 language-name-tw = Tui

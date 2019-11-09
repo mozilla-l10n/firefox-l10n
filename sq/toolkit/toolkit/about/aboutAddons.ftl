@@ -440,6 +440,7 @@ theme-heading = Administroni temat tuaja
 plugin-heading = Administroni shtojcat tuaja
 dictionary-heading = Administroni fjalorët tuaj
 locale-heading = Administroni gjuhët tuaja
+updates-heading = Administroni Përditësimet Tuaja
 discover-heading = Personalizoni { -brand-short-name }-in Tuaj
 shortcuts-heading = Administroni Shkurtore Zgjerimesh
 theme-heading-search-label = Gjeni më tepër tema
