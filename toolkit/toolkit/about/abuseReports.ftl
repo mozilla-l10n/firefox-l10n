@@ -12,6 +12,12 @@ abuse-report-dialog-title = { $addon-name } এর জন্য প্রতি�
 abuse-report-title-extension = { -vendor-short-name } এর নিকট এই এক্সটেনশনটি রিপোর্ট করুন
 abuse-report-title-theme = { -vendor-short-name } এর নিকট এই থিম টি রিপোর্ট করুন
 abuse-report-subtitle = বিষয়টি টি কি?
+# Variables:
+#   $author-name (string) - Name of the add-on author
+abuse-report-addon-authored-by = <a data-l10n-name="author-name">{ $author-name }</a> দ্বারা
+abuse-report-learnmore =
+    নিশ্চিত নন কোন সমস্যাটি নির্বাচন করবেন?
+    <a data-l10n-name="learnmore-link">এক্সটেনশন এবং থিম রিপোর্ট করার বিষয়ে আরও জানুন</a>
 abuse-report-submit-description = সমস্যাটি বর্ণনা করুন (ঐচ্ছিক)
 
 ## Panel buttons.
