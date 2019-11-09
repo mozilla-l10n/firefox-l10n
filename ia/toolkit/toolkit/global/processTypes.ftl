@@ -20,7 +20,7 @@ process-type-file = File local
 process-type-weblargeallocation = Allocation de grande dimensiones
 # process used to isolate a webpage from other web pages
 # to improve security
-process-type-webisolated = Contentos web isolate
+process-type-webisolated = Contento web isolate
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
