@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Pati një gabim në dërgimin e raportit. Ju lutemi, riprovoni.
+
