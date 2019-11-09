@@ -126,7 +126,7 @@ newtab-label-visited = পরিদর্শিত
 newtab-label-bookmarked = বুকমার্ক করা হয়েছে
 newtab-label-removed-bookmark = বুকমার্ক মুছে ফেলা হয়েছে
 newtab-label-recommended = ঝোঁক
-newtab-label-saved = { -pocket-brand-name } এ সংরক্ষণ করুন
+newtab-label-saved = { -pocket-brand-name } এ সংরক্ষণ হয়েছে
 newtab-label-download = ডাউনলোড হয়েছে
 
 ## Section Menu: These strings are displayed in the section context menu and are
