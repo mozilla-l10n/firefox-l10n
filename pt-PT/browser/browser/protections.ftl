@@ -39,7 +39,7 @@ graph-legend-description = Um gráfico contendo o número total de cada tipo de 
 social-tab-title = Rastreadores de redes sociais
 cookie-tab-title = Cookies de monitorização inter-sites
 tracker-tab-title = Monitorização de conteúdo
-fingerprinter-tab-title = Detetores de impressão digital
+fingerprinter-tab-title = Identificadores
 cryptominer-tab-title = Cripto-mineradores
 cryptominer-tab-content = Os cripto-mineradores utilizam o poder de computação do seu sistema para minerar dinheiro digital. Os scripts de cripto-mineração podem descarregar a sua bateria, tornar o seu computador mais lento e aumentar os custos com a sua fatura elétrica. <a data-l10n-name="learn-more-link">Saber mais</a>
 lockwise-title = Nunca mais esqueça uma palavra-passe
@@ -78,9 +78,26 @@ auto-scan = Analisado hoje, de forma automática
 # your localization, because it would result in the number showing twice.
 info-monitored-emails =
     { $count ->
-        [one] O endereço de e-mail está a ser monitorizado
-       *[other] Os endereços de e-mail estão a ser monitorizados
+        [one] endereço de e-mail em monitorização
+       *[other] endereços de e-mail em monitorização
     }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] violação de dados conhecida que expôs a sua informação
+       *[other] violações de dados conhecidas que expuseram a sua informação
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] palavra-passe exposta em todas as violações
+       *[other] palavras-passe expostas em todas as violações
+    }
+full-report-link = Ver o relatório completo em <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
@@ -89,3 +106,41 @@ info-monitored-emails =
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-social =
+    .title = Rastreadores de redes sociais
+    .aria-label =
+        { $count ->
+            [one] { $count } rastreador de rede social ({ $percentage }%)
+           *[other] { $count } rastreadores de redes sociais ({ $percentage }%)
+        }
+bar-tooltip-cookie =
+    .title = Cookies de monitorização inter-sites
+    .aria-label =
+        { $count ->
+            [one]
+                { $count } cookie de monitorização inter-sites ({ $percentage }%)
+                { $count } cross-site tracking cookie ({ $percentage }%)
+                { $count } cookie de monitorização ente sites ({ $percentage }%)
+           *[other] { $count } cookies de monitorização inter-sites ({ $percentage }%)
+        }
+bar-tooltip-tracker =
+    .title = Conteúdo de monitorização
+    .aria-label =
+        { $count ->
+            [one] { $count } conteúdo de monitorização ({ $percentage }%)
+           *[other] { $count } conteúdos de monitorização ({ $percentage }%)
+        }
+bar-tooltip-fingerprinter =
+    .title = Identificadores
+    .aria-label =
+        { $count ->
+            [one] { $count } identificador ({ $percentage }%)
+           *[other] { $count } identificadores ({ $percentage }%)
+        }
+bar-tooltip-cryptominer =
+    .title = Cripto-mineradores
+    .aria-label =
+        { $count ->
+            [one] { $count } cripto-minerador ({ $percentage }%)
+           *[other] { $count } cripto-mineradores ({ $percentage }%)
+        }
