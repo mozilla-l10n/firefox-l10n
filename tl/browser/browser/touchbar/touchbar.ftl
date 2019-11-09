@@ -19,6 +19,8 @@ open-location = Hanapin o ilagay ang address
 share = Ibahagi
 close-window = Isara ang Window
 open-sidebar = Mga sidebar
+# This string describes shortcuts for search.
+search-popover = Mga shortcut sa paghahanap
 # Describes searches limited to a specific scope
 # (e.g. searching only in history).
 search-search-in = Hanapin Sa:

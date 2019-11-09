@@ -434,6 +434,7 @@ theme-heading = I-manage ang Iyong mga Tema
 plugin-heading = I-manage ang Iyong mga Plugin
 dictionary-heading = I-manage ang Iyong mga Diksiyonaryo
 locale-heading = I-manage ang Iyong mga Wika
+updates-heading = Pamahalaan ang Iyong Mga Update
 discover-heading = Ipasadya mo ang Iyong { -brand-short-name }
 shortcuts-heading = I-manage ang mga Extension Shortcut
 theme-heading-search-label = Maghanap pa ng ibang mga tema
