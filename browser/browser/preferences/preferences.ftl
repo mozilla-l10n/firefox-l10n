@@ -512,7 +512,6 @@ search-bar-shown =
     .label = Osobny pasek wyszukiwania
 search-engine-default-header = Domyślna wyszukiwarka
 search-engine-default-desc = Wybierz domyślną wyszukiwarkę paska adresu i paska wyszukiwania.
-search-engine-default-private-desc = Wybierz domyślną wyszukiwarkę w oknach prywatnych.
 search-engine-default-desc-2 = To domyślna wyszukiwarka paska adresu i paska wyszukiwania. Można ją zmienić w każdej chwili.
 search-engine-default-private-desc-2 = Wybierz inną domyślną wyszukiwarkę tylko w oknach prywatnych
 search-separate-default-engine =
@@ -727,7 +726,11 @@ privacy-header = Prywatność
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Dane logowania i hasła
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Pytanie o zachowywanie danych logowania do witryn
     .accesskey = P
@@ -741,9 +744,10 @@ forms-breach-alerts =
     .label = Powiadomienia o hasłach do stron, z których wyciekły dane
     .accesskey = o
 forms-breach-alerts-learn-more-link = Więcej informacji
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
-    .label = Wypełnianie danych logowania i haseł
-    .accesskey = W
+    .label = Automatyczne wypełnianie formularzy logowania
+    .accesskey = A
 forms-saved-logins =
     .label = Zachowane dane logowania…
     .accesskey = d
