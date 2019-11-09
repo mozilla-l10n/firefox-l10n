@@ -73,5 +73,6 @@ abuse-report-broken-suggestions-theme = Mukhang nakahanap ka ng bug. Bukod sa pa
 abuse-report-policy-reason = Nakapopoot, marahas, o iligal na nilalaman.
 abuse-report-policy-suggestions = Tandaan: Ang mga issue patungkol sa copyright at trademark ay dapat iulat sa hiwalay na proseso. <a data-l10n-name="report-infringement-link">Gamitin ang mga panutong ito</a> para maiulat ang problema.
 abuse-report-unwanted-reason = Ni minsan ay di ginusto ang extension na ito at hindi ko ito matanggal-tanggal.
+abuse-report-unwanted-reason-v2 = Hindi ko ito nais at hindi alam kung paano mapupuksa ito
 abuse-report-unwanted-example = Halimbawa: May application na nagkabit nito nang walang pahintulot.
 abuse-report-other-reason = Iba pa
