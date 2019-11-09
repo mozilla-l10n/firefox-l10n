@@ -898,7 +898,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "Tu non ha concedite ulle permission special a iste sito.">
 <!ENTITY identity.permissionsReloadHint "Il es possibile que tu debe recargar le pagina pro que le cambios se applica.">
 <!ENTITY identity.permissionsPreferences.tooltip "Aperir le preferentias de permissiones">
-<!ENTITY identity.contentBlockingPreferences.tooltip "Aperir le preferentias del blocada de contentos">
+<!ENTITY identity.contentBlockingPreferences.tooltip "Aperir le preferentias del blocage de contento">
 
 
 <!ENTITY protections.etpON.header "Le Protection avantiate contra le traciamento es ora ACTIVE pro iste sito">
@@ -985,13 +985,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Le audio del scheda essera compartite.">
 <!ENTITY getUserMedia.allWindowsShared.message "Tote le fenestras visibile super tu schermo essera compartite.">
 
-<!ENTITY contentBlocking.title "Blocada de contentos">
+<!ENTITY contentBlocking.title "Blocage de contento">
 <!ENTITY contentBlocking.detected "Contento blocabile detegite sur iste sito.">
 <!ENTITY contentBlocking.notDetected "Nulle contento blocabile detegite sur iste sito.">
 
 <!ENTITY contentBlocking.trackingProtection3.label "Traciatores">
 
-<!ENTITY contentBlocking.manageSettings.label "Gerer le blocage de contentos">
+<!ENTITY contentBlocking.manageSettings.label "Gerer le blocage de contento">
 <!ENTITY contentBlocking.manageSettings.accesskey "G">
 
 <!ENTITY contentBlocking.trackersView.label "Traciatores">
@@ -1017,7 +1017,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Reportar un problema">
 <!ENTITY contentBlocking.breakageReportView.label "Reportar problemas">
-<!ENTITY contentBlocking.breakageReportView2.description "Le Blocada de contentos pote causar problemas con alcun sitos web. Quando tu reporta problemas, tu adjutara a render &brandShortName; melior pro totes. (Isto inviara a Mozilla un URL tam ben como informationes circa configurationes de tu navigator.)">
+<!ENTITY contentBlocking.breakageReportView2.description "Le blocage de contento pote causar problemas con alcun sitos web. Quando tu reporta problemas, tu adjutara a render &brandShortName; melior pro totes. (Isto inviara a Mozilla un adresse URL e informationes sur le configuration de tu navigator.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Saper plus">
 
 <!ENTITY contentBlocking.breakageReportView.title "Reportar sito rupte">

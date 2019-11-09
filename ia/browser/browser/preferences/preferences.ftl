@@ -818,7 +818,7 @@ sitedata-disallow-cookies-option =
     .accesskey = B
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
-sitedata-block-desc = Typo de contentos blocate
+sitedata-block-desc = Typo de contento blocate
     .accesskey = T
 sitedata-option-block-trackers =
     .label = Traciatores de tertie partes
@@ -1032,9 +1032,9 @@ collection-backlogged-crash-reports-link = Saper plus
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Securitate
-security-browsing-protection = Protection contra contentos fraudulente e softwares periculose
+security-browsing-protection = Protection contra contento fraudulente e software periculose
 security-enable-safe-browsing =
-    .label = Blocar le contentos periculose o fraudulente
+    .label = Blocar le contento periculose e fraudulente
     .accesskey = B
 security-enable-safe-browsing-link = Saper plus
 security-block-downloads =

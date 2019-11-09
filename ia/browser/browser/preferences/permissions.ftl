@@ -64,9 +64,9 @@ permissions-invalid-uri-label = Per favor insere un nomine de hoste valide
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-content-blocking-window =
-    .title = Exceptiones - Blocada de contentos
+    .title = Exceptiones - Blocage de contento
     .style = { permissions-window.style }
-permissions-exceptions-content-blocking-desc = Tu ha disactivate le Blocada de contentos pro iste sito web.
+permissions-exceptions-content-blocking-desc = Tu ha disactivate le blocage de contento pro iste sito web.
 permissions-exceptions-etp-window =
     .title = Exceptiones del Protection meliorate contra le traciamento
     .style = { permissions-window.style }
