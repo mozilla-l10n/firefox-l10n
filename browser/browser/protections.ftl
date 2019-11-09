@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Si Shkallë Mbrojtjeje është caktuar ajo <b>Standarde</b>
-protection-header-details-strict = Si Shkallë Mbrojtjeje është caktuar ajo <b>Strikte</b>
-protection-header-details-custom = Si Shkallë Mbrojtjeje është caktuar një <b>Vetjake</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Si Shkallë Mbrojtjeje është caktuar ajo <b>Standarde</b>
     .title = Kaloni te Rregullime për Privatësinë
 protection-report-header-details-strict = Si Shkallë Mbrojtjeje është caktuar ajo <b>Strikte</b>
@@ -37,6 +31,8 @@ protection-report-page-title = Mbrojtje Privatësie
 protection-report-content-title = Mbrojtje Privatësie
 etp-card-title = Mbrojtje e Thelluar Nga Gjurmimi
 etp-card-content = Gjurmuesit ju ndjekin nëpër internet për të grumbulluar të dhëna rreth zakoneve dhe interesave tuaja të shfletimit. { -brand-short-name } bllokon mjaft prej këtyre gjurmuesve dhe programtheve të tjerë dashakeqë.
+protection-report-etp-card-content-custom-not-blocking = Krejt mbrojtjet janë të çaktivizuara. Duke administruar rregullimet tuaja për mbrojtje { -brand-short-name }, zgjidhni cilët gjurmues të bllokohen.
+protection-report-manage-protections = Administroni Rregullime
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Sot
@@ -56,7 +52,6 @@ lockwise-title = Mos harroni kurrë më një fjalëkalim
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } depoziton në mënyrë të sigurt fjalëkalimet tuaj në shfletuesin tuaj.
 lockwise-header-content-logged-in = Depozitoni dhe njëkohësoni në mënyrë të sigurt fjalëkalimet tuaj në krejt pajisjet tuaja.
-about-logins-view-logins-button = Shihni Hyrjet
 protection-report-view-logins-button = Shihni Hyrjet
     .title = Kaloni te Kredenciale të Ruajtura Hyrjesh
 lockwise-no-logins-content = Merrni aplikacionin <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> që t’i merrni kudo me vete fjalëkalimet tuaj.
@@ -118,10 +113,6 @@ password-warning =
         [one] Palë kredenciale të ruajtur hyrjesh mund të jetë ekspozuar në një cenim të dhënash.Për siguri më të mirë në internet, ndryshojeni këtë fjalëkalim. <a data-l10n-name="lockwise-link">Shihni Kredenciale Hyrjesh të Ruajtur</a>
        *[other] Palë kredenciale të ruajtur hyrjesh mund të jenë ekspozuar në një cenim të dhënash.Për siguri më të mirë në internet, ndryshojeni këtë fjalëkalim. <a data-l10n-name="lockwise-link">Shihni Kredenciale Hyrjesh të Ruajtur</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Kaloni te Rregullime për Privatësinë
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Kaloni te Kredenciale të Ruajtura Hyrjesh
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
