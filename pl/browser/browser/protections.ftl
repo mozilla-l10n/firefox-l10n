@@ -33,6 +33,8 @@ protection-report-page-title = Ochrona prywatności
 protection-report-content-title = Ochrona prywatności
 etp-card-title = Wzmocniona ochrona przed śledzeniem
 etp-card-content = Elementy śledzące monitorują Cię w Internecie, zbierając informacje o Twoich działaniach i zainteresowaniach. { -brand-short-name } blokuje wiele tych elementów i inne złośliwe skrypty.
+protection-report-etp-card-content-custom-not-blocking = Cała ochrona jest obecnie wyłączona. Wybierz, które elementy śledzące blokować w ustawieniach ochrony przeglądarki { -brand-short-name }.
+protection-report-manage-protections = Otwórz ustawienia
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = dzisiaj
