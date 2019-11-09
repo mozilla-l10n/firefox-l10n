@@ -80,6 +80,7 @@ abuse-report-broken-suggestions-theme =
     för att få ett funktionalitetsproblem löst, är att kontakta utvecklaren av temat.
     <a data-l10n-name="support-link">Besök temats webbplats</a> för att få utvecklarinformation.
 abuse-report-policy-reason = Hatligt, våldsamt eller olagligt innehåll
+abuse-report-policy-reason-v2 = Den innehåller hatfullt, våldsamt eller olagligt innehåll
 abuse-report-policy-suggestions =
     Obs! Upphovsrätt och varumärkesproblem måste rapporteras i en separat process.
     <a data-l10n-name="report-infringement-link">Använd dessa anvisningar</a> till
