@@ -722,7 +722,11 @@ privacy-header = Privacidade do navegador
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Credenciais e palavras-passe
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Perguntar para guardar credenciais e palavras-passe para websites
     .accesskey = r
@@ -736,6 +740,7 @@ forms-breach-alerts =
     .label = Mostrar alertas sobre as palavras-passe para os sites violados
     .accesskey = v
 forms-breach-alerts-learn-more-link = Saber mais
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Auto-preencher credenciais e palavras-passe
     .accesskey = i
@@ -802,9 +807,9 @@ sitedata-total-size-calculating = A calcular tamanho dos dados de sites e cache�
 sitedata-total-size = Os seus cookies, dados de sites e cache estão atualmente a utilizar { $value } { $unit } de espaço em disco.
 sitedata-learn-more = Saber mais
 sitedata-delete-on-close =
-    .label = Apagar cookies e dados de sites quando o { -brand-short-name } é fechado
+    .label = Eliminar cookies e os dados de sites quando o { -brand-short-name } é fechado
     .accesskey = c
-sitedata-delete-on-close-private-browsing = No modo de navegação privada permanente, os cookies e dados do site irão ser sempre limpos quando o { -brand-short-name } for fechado.
+sitedata-delete-on-close-private-browsing = No modo de navegação privada permanente, os cookies e os dados de sites irão ser sempre limpos quando o { -brand-short-name } é fechado.
 sitedata-allow-cookies-option =
     .label = Aceitar cookies e dados de sites
     .accesskey = A
@@ -887,7 +892,7 @@ enhanced-tracking-protection-setting-strict =
     .label = Estrito
     .accesskey = r
 enhanced-tracking-protection-setting-custom =
-    .label = Personalizado
+    .label = Personalizada
     .accesskey = e
 
 
