@@ -79,6 +79,7 @@ when there are no windows but Firefox is still running. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Navigácia">
 <!ENTITY personalbarCmd.label "Panel záložiek">
 <!ENTITY personalbarCmd.accesskey "z">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
@@ -157,11 +158,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Prihlásený ako">
 <!ENTITY fxa.menu.manageAccount.label "Správa účtu…">
+<!ENTITY fxa.menu.syncSettings.label "Nastavenie synchronizácie…">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings.label "Nastavenie synchronizácie…">
+<!ENTITY fxa.menu.syncSettings2.label "Nastavenie synchronizácie">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Pripojiť ďalšie zariadenie…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -174,6 +176,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Nastavenia účtu">
 <!ENTITY fxa.menu.signOut.label "Odhlásiť sa…">
 <!ENTITY fxa.menu.deviceSettings.label "Nastavenia zariadenia">
+<!ENTITY fxa.menu.setupSync.label "Nastaviť službu &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -287,6 +290,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Tejto stránke ste zablokovali možnosť používať zásuvný modul Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Tejto stránke ste zakázali prístup k MIDI.">
 <!ENTITY urlbar.installBlocked.tooltip           "Tejto stránke ste zakázali inštaláciu doplnkov.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobraziť históriu">
 
@@ -447,6 +451,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.welcome.label "Zobraziť zoznam kariet z ostatných zariadení.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Váš účet musí byť overený.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prihlásiť sa k službe Sync">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Prihlásiť sa do služby &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Zapnúť službu &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Spravovať zariadenia…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Zobraziť synchronizované karty na bočnom paneli">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Skryť synchronizované karty na bočnom paneli">
@@ -901,6 +907,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Ďalšie informácie o rozšírenej ochrane pred sledovaním">
 <!ENTITY protections.settings.label "Nastavenia ochrany">
+<!ENTITY protections.showreport.label "Zobraziť podrobnosti">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -925,11 +932,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Zablokované">
+<!ENTITY protections.notBlocking2.label "Povolené">
+<!ENTITY protections.notFound.label "Nenájdené">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Prečo?">
+<!ENTITY protections.socialMediaTrackers.label "Sledovacie prvky sociálnych sietí">
+<!ENTITY protections.crossSiteTrackingCookies.label "Sledovacie cookies">
+<!ENTITY protections.trackingContent.label "Sledovací obsah">
+<!ENTITY protections.fingerprinters.label "Odtlačok prehliadača">
+<!ENTITY protections.cryptominers.label "Ťažba kryptomien">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Všetky sledovacie prvky na tejto stránke boli načítané, pretože ochrana je vypnutá.">
+<!ENTITY protections.noTrackersFound.description "Aplikácia &brandShortName; nenašla na tejto stránke žiadne známe sledovacie prvky.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Tieto cookies slúžia na vaše sledovanie naprieč webovými stránkami a na zber údajov o tom, čo na internete robíte. Používajú ich tretie strany, ako sú reklamné či analytické spoločnosti.">
+<!ENTITY protections.cryptominers.description "Ťažba kryptomien používa výpočtový výkon vášho počítača na získavanie digitálnych mien. Bežiace skripty vybíjajú vašu batériu, spomaľujú váš počítač a zvyšujú váš účet za elektrinu.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -976,9 +995,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies a údaje stránok">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Sledovací obsah">
 
+<!ENTITY contentBlocking.manageSettings2.label "Spravovať nastavenia ochrany">
+<!ENTITY contentBlocking.manageSettings2.accesskey "o">
 
+<!ENTITY contentBlocking.socialblock.label "Sledovacie prvky sociálnych sietí">
 
+<!ENTITY contentBlocking.cookies2.label "Sledovacie cookies">
 
 <!ENTITY contentBlocking.cryptominers.label "Ťažba kryptomien">
 <!ENTITY contentBlocking.cryptominersView.label "Ťažba kryptomien">

@@ -723,7 +723,11 @@ privacy-header = Súkromie
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Prihlasovacie údaje
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Ponúkať uloženie prihlasovacích údajov na webových stránkach
     .accesskey = r
@@ -737,6 +741,7 @@ forms-breach-alerts =
     .label = Zobrazovať upozornenia na stránky, na ktorých prišlo k úniku dát
     .accesskey = b
 forms-breach-alerts-learn-more-link = Ďalšie informácie
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Automaticky vypĺňať prihlasovacie údaje a heslá
     .accesskey = u
@@ -880,13 +885,13 @@ content-blocking-third-party-cookies = Blokované sú sledovacie cookies tretíc
 
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 enhanced-tracking-protection-setting-standard =
-    .label = Štandardné
+    .label = Štandardná
     .accesskey = t
 enhanced-tracking-protection-setting-strict =
-    .label = Prísne
+    .label = Prísna
     .accesskey = P
 enhanced-tracking-protection-setting-custom =
-    .label = Vlastné
+    .label = Vlastná
     .accesskey = V
 
 
