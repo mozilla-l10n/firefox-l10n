@@ -447,6 +447,7 @@ theme-heading = Zarządzanie motywami
 plugin-heading = Zarządzanie wtyczkami
 dictionary-heading = Zarządzanie słownikami
 locale-heading = Zarządzanie pakietami językowymi
+updates-heading = Zarządzanie aktualizacjami
 discover-heading = Dostosuj przeglądarkę { -brand-short-name }
 shortcuts-heading = Zarządzanie skrótami rozszerzeń
 theme-heading-search-label = Wyszukaj więcej motywów
