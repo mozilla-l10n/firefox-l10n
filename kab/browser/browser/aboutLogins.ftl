@@ -110,11 +110,8 @@ master-password-reload-button =
     .label = Kcem
     .accesskey = K
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Sefsex
-confirmation-dialog-dismiss-button =
-    .title = Sefsex
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Tebɣiḍ ad tkecmeḍ ɣer yinekcam-ik sekra wanida i tesseqdaceḍ { -brand-product-name } ? Ddu ɣer yiɣewwaṛen n { -sync-brand-short-name } sakin ṛcem taxxamt inekcam.
@@ -127,6 +124,15 @@ enable-password-sync-preferences-button =
            *[other] Rzu ɣer yismenyifen n  { -sync-brand-short-name }
         }
     .accesskey = C
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Ur yi-d-ssutur ara tikkelt-nniḍen
+    .accesskey = U
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Sefsex
+confirmation-dialog-dismiss-button =
+    .title = Sefsex
 confirm-delete-dialog-title = Kkes anekcam-agi?
 confirm-delete-dialog-message = Ulac tuɣalin ɣer deffir.
 confirm-delete-dialog-confirm-button = Kkes
