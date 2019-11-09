@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Separadores sincronizados
 synced-tabs-sidebar-noclients-subtitle = Pretende ver os seus separadores de outros dispositivos aqui?
 synced-tabs-sidebar-notsignedin = Inicie sessão para ver uma lista de separadores dos seus outros dispositivos.
+synced-tabs-sidebar-intro = Ver uma lista de separadores dos seus outros dispositivos.
 synced-tabs-sidebar-unverified = A sua conta necessita de ser verificada.
 synced-tabs-sidebar-notabs = Sem separadores abertos
 synced-tabs-sidebar-openprefs = Abrir preferências do { -sync-brand-short-name }
@@ -40,3 +41,4 @@ synced-tabs-context-sync-now =
     .label = Sincronizar agora
     .accesskey = S
 fxa-sign-in = Iniciar sessão no { -sync-brand-short-name }
+turn-on-sync = Ativar { -sync-brand-short-name }
