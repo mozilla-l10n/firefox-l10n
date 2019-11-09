@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = por { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendação
+cfr-doorhanger-extension-notification2 = Recomendação
+    .tooltiptext = Recomendação de extensão
+    .a11y-announcement = Recomendação de extensão disponível
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Recomendação
+    .tooltiptext = Recomendação de funcionalidade
+    .a11y-announcement = Recomendação de funcionalidade disponível
 
 ## Add-on statistics
 ## These strings are used to display the total number of
