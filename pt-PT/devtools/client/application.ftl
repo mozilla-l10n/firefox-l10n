@@ -69,3 +69,64 @@ serviceworker-empty-suggestions-debugger = Investigue o seu registo de Service W
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
 serviceworker-empty-suggestions-aboutdebugging = Inspecione Service Workers de outros domínios. <a>Abrir about:debugging</a>
+# Header for the Manifest page when we have an actual manifest
+manifest-view-header = Manifesto da aplicação
+# Header for the Manifest page when there's no manifest to inspect
+# The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
+manifest-empty-intro = Precisa de adicionar um manifesto da aplicação Web para o inspecionar aqui. <a>Saber mais</a>
+# Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
+manifest-item-warnings = Erros e avisos
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Identidade
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Apresentação
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = Ícones
+# Text displayed while we are loading the manifest file
+manifest-loading = A carregar o manifesto...
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = Manifesto carregado.
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
+manifest-loaded-error = Ocorreu um erro ao carregar o manifesto:
+# Text displayed when the page has no manifest available
+manifest-non-existing = Não foi encontrado nenhum manifesto para inspecionar.
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = O manifesto está incorporado num URL de dados.
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = Propósito: <code>{ $purpose }</code>
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Ícone
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = Ícone com os tamanhos: { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Tamanho não especificado do ícone
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = Manifesto
+    .alt = Ícone do manifesto
+    .title = Manifesto
+# Sidebar navigation item for Service Workers sidebar item section
+sidebar-item-service-workers =
+    Operadores de serviço
+    Service Workers
+    Service Workers
+    Service Workers
+    Service Workers
+    Service Workers
+    .alt = Ícone de operadores de serviço
+    .title = Operadores de serviço
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Ícone de aviso
+    .title = Aviso
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = Ícone de erro
+    .title = Erro
