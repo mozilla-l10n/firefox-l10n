@@ -72,4 +72,4 @@ remove-all-passwords-prompt = Czy na pewno usunąć wszystkie hasła?
 remove-all-passwords-title = Usuń wszystkie hasła
 no-master-password-prompt = Czy na pewno wyświetlić hasła?
 auto-fill-logins-and-passwords =
-    .label = Wypełnianie danych logowania i haseł
+    .label = Automatyczne wypełnianie formularzy logowania
