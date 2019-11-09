@@ -9,7 +9,7 @@ graph-week-summary =
         [one] { $count } ট্র্যাকার গত সপ্তাহে { -brand-short-name } ব্লক করেছে
        *[other] { $count } ট্র্যাকার গত সপ্তাহে { -brand-short-name } ব্লক করেছে
     }
-protection-report-header-details-strict = সুরক্ষা স্তরটি <b> কঠোর </ b> সেট করা আছে
+protection-report-header-details-strict = সুরক্ষা স্তর <b>কঠোর</ b> সেট করা আছে
     .title = গোপনীয়তা সেটিং এ যান
 protection-report-header-details-custom = সুরক্ষা স্তরটি <b> কাস্টম </ b> সেট করা আছে
     .title = গোপনীয়তা সেটিং এ যান
@@ -44,6 +44,7 @@ lockwise-sync-status =
 lockwise-sync-not-syncing-devices = অন্যান্য ডিভাইসে সিঙ্ক হচ্ছে না
 monitor-title = ডাটা ফাটল সন্ধান করুন
 monitor-link = কিভাবে এটি কাজ করে
+monitor-sign-up = লংঘন সতর্কতার জন্য সাইনআপ করুন
 auto-scan = আজ স্বয়ংক্রিয়ভাবে স্ক্যান করা হয়েছে
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -52,6 +53,14 @@ info-monitored-emails =
     { $count ->
         [one] ইমেইল ঠিকানা পর্যবেক্ষণ করা হচ্ছে।
        *[other] ইমেইল ঠিকানাগুলো পর্যবেক্ষণ করা হচ্ছে।
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] পরিচিত ডেটা লঙ্ঘন আপনার তথ্য উন্মোচিত করেছে
+       *[other] পরিচিত ডেটা লঙ্ঘন আপনার তথ্য উন্মোচিত করেছে
     }
 
 ## The title attribute is used to display the type of protection.
