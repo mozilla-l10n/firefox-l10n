@@ -940,12 +940,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "কেন?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "এগুলি ব্লক করা হলে কিছু ওয়েবসাইটের উপাদান বিগড়ে দিতে পারে। ট্র্যাকার ছাড়া, কিছু বোতাম, ফরম এবং লগইন ক্ষেত্র কাজ নাও করতে পারে।">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "সুরক্ষা বন্ধ করা এই সাইটে সমস্ত ট্র্যাকারকে অনুমতি দেয়। এটি ওয়েবসাইটে কিছু কার্যকারিতাও উন্নত করতে পারে।">
 <!ENTITY protections.socialMediaTrackers.label "সোশ্যাল মিডিয়া ট্র্যাকার">
 <!ENTITY protections.crossSiteTrackingCookies.label "ক্রস-সাইট ট্র্যাকিং কুকিজ">
 <!ENTITY protections.trackingContent.label "ট্র্যাকিং কন্টেন্ট">
 <!ENTITY protections.fingerprinters.label "ফিঙ্গারপ্রিন্টারস">
 <!ENTITY protections.cryptominers.label "ক্রিপ্টোমাইনার">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "সুরক্ষা বন্ধ করার কারণে এই সাইটে সমস্ত ট্র্যাকার লোড করা হয়েছে।">
+<!ENTITY protections.noTrackersFound.description "&brandShortName; এর জানা কোন ট্র্যাকার এই পাতায় সনাক্ত করা যায়নি।">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "এই কুকিগুলো আপনাকে এক সাইট থেকে আরেক সাইট অনুসরণ করে আপনি অনলাইনে কি করেন সেই ডাটা সংগ্রহ করে। বিজ্ঞাপনদাতা এবং বিশ্লেষণ কোম্পানীর মত তৃতীয় পক্ষীয় এটা সেট করে।">
+<!ENTITY protections.cryptominers.description "ক্রিপ্টোমাইনাররা আপনার সিস্টেমের কম্পিউটিং শক্তি ডিজিটাল অর্থ মাইনিং এ ব্যবহার করে। ক্রিপ্টোমাইনিং স্ক্রিপ্টগুলি আপনার ব্যাটারি নিষ্কাশন করে, আপনার কম্পিউটারকে ধীর করে দেয় এবং আপনার বিদ্যুৎ বিল বাড়িয়ে দিতে পারে।">
+<!ENTITY protections.fingerprinters.description "আপনার প্রোফাইল তৈরি করতে ফিঙ্গারপিন্টার আপনার ব্রাউজার এবং কম্পিউটার থেকে সেটিংস সংগ্রহ করে। এই ডিজিটাল ফিঙ্গারপ্রিন্ট ব্যবহার করে, তারা বিভিন্ন ওয়েবসাইট জুড়ে আপনাকে ট্র্যাক করতে পারে।">
+<!ENTITY protections.trackingContent2.description "ওয়েবসাইট হয়তো ট্র্যাকিং কোডসহ বাহ্যিক বিজ্ঞাপন, ভিডিও এবং অন্যান্য কন্টেন্ট লোড করতে পারে। ট্র্যাকিং কন্টেন্ট ব্লক করা সাইটকে দ্রুত লোড করতে সহায়তা করে তবে কিছু বোতাম, ফর্ম এবং লগইন ক্ষেত্র কাজ নাও করতে পারে।">
+<!ENTITY protections.socialMediaTrackers.description "আপনি যা করেন, যা দেখেন এবং যা অনলাইনে দেখেন তা জানার জন্য সোশ্যাল নেটওয়ার্কগুলি অন্যান্য ওয়েবসাইটে ট্র্যাকার রাখে। এই সোশ্যাল মিডিয়া কোম্পানীগুলি আপনার সামাজিক মিডিয়া প্রোফাইলে আপনি যা শেয়ার করেন তার বাইরেও আপনার সম্পর্কে জানতে দেয়।">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -1013,6 +1021,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.learnMore "আরও জানুন">
 
 <!ENTITY contentBlocking.breakageReportView.title "একটি অচল সাইট রিপোর্ট করুন">
+<!ENTITY contentBlocking.breakageReportView3.description "নির্দিষ্ট কিছু ট্র্যাকার ব্লক করলে কিছু ওয়েবসাইটে সমস্যা হতে পারে। এই সমস্যা রিপোর্ট করা &brandShortName; কে সবার জন্য আরও ভাল করতে সহায়তা করে। এই রিপোর্ট পাঠানোর মাধ্যমে একটি URL এবং Mozilla তে আপনার ব্রাউজার সেটিংস সম্পর্কিত তথ্য প্রেরণ করবে।">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "আরও জানুন">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "আপনার কি সমস্যা ছিল? (ঐচ্ছিক)">
