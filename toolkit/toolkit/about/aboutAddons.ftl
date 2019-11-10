@@ -451,6 +451,7 @@ theme-heading = Кіруйце сваімі тэмамі
 plugin-heading = Кіруйце сваімі плагінамі
 dictionary-heading = Кіруйце сваімі слоўнікамі
 locale-heading = Кіруйце сваімі мовамі
+updates-heading = Кіруйце сваімі абнаўленнямі
 discover-heading = Персаналізуйце свой { -brand-short-name }
 shortcuts-heading = Кіраваць спалучэннямі клавіш пашырэнняў
 theme-heading-search-label = Знайсці іншыя тэмы
