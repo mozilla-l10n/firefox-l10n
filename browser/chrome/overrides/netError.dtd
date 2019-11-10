@@ -115,6 +115,9 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Užblokuota dėl saugumo politikos">
 <!ENTITY cspBlocked.longDesc "<p>„&brandShortName;“ neleido įkelti šio tinklalapio, nes jo saugumo politika neleidžia jo turinio įterpti nurodytuoju būdu.</p>">
 
+<!ENTITY xfoBlocked.title "Užblokuota dėl „X-Frame-Options“ politikos">
+<!ENTITY xfoBlocked.longDesc "<p>„&brandShortName;“ neleido įkelti šio tinklalapio šiame kontekste, nes jo „X-Frame-Options“ politika to neleidžia.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Klaida: duomenys pažeisti">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Tinklalapio, kurį bandote atverti, parodyti negalima, nes perduodant duomenis įvyko klaida.</p><ul><li>Siūlome susisiekti su svetainės savininkais ar valdytojais ir pranešti jiems apie šią problemą.</li></ul>">
 
