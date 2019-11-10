@@ -166,7 +166,7 @@ newtab-empty-section-topstories = Tu ja es toto al currente. Reveni plus tarde p
 
 newtab-discovery-empty-section-topstories-header = Il ha nihil plus!
 newtab-discovery-empty-section-topstories-content = Reveni plus tarde pro leger altere articulos.
-newtab-discovery-empty-section-topstories-try-again-button = Tentar de novo
+newtab-discovery-empty-section-topstories-try-again-button = Retentar
 newtab-discovery-empty-section-topstories-loading = Cargamento…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ups! Nos non ha potite cargar tote le articulos de iste section.
