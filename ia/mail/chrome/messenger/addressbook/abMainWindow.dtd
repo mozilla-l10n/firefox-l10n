@@ -55,6 +55,13 @@
 <!ENTITY selectAllCmd.accesskey                         "A">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
+<!ENTITY propertiesMenu.label                           "Proprietates">
+<!ENTITY propertiesMenu.accesskey                       "i">
+<!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "Proprietates del libro de adresses">
+<!ENTITY abPropertiesMenu.accesskey                     "i">
+<!ENTITY contactPropertiesMenu.label                    "Proprietates del contacto">
+<!ENTITY contactPropertiesMenu.accesskey                "i">
 <!ENTITY mailingListPropertiesMenu.label                "Proprietates del lista de diffusion">
 <!ENTITY mailingListPropertiesMenu.accesskey            "i">
 

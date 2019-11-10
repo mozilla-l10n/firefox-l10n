@@ -7,7 +7,7 @@
 <!ENTITY propertiesCmd.key                  "i">
 <!ENTITY abPropertiesMenu.label             "Proprietates del libro de adresses">
 <!ENTITY abPropertiesMenu.accesskey         "i">
-<!ENTITY contactPropertiesMenu.label        "Proprietates del contracto">
+<!ENTITY contactPropertiesMenu.label        "Proprietates del contacto">
 <!ENTITY contactPropertiesMenu.accesskey    "i">
 <!ENTITY mailingListPropertiesMenu.label    "Proprietates del lista de diffusion">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
