@@ -140,8 +140,8 @@ cfr-doorhanger-sync-logins-ok-button = Включить { -sync-brand-short-name
 cfr-doorhanger-send-tab-header = Читайте на ходу
 cfr-doorhanger-send-tab-recipe-header = Возьмите этот рецепт на кухню
 cfr-doorhanger-send-tab-body = Отправка вкладок позволяет вам легко поделиться этой ссылкой со своим телефоном или везде, где бы вы ни вошли в { -brand-product-name }.
-cfr-doorhanger-send-tab-ok-button = Попробуйте отправить вкладку
-    .accesskey = е
+cfr-doorhanger-send-tab-ok-button = Испытайте отправку вкладки
+    .accesskey = ы
 
 ## Firefox Send
 
