@@ -168,6 +168,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Заблакавана палітыкай бяспекі змесціва">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; адмовіў старонцы ў чытанні такім спосабам, бо палітыка бяспекі змесціва гэтай старонкі забараняе гэта.</p>">
 
+<!ENTITY xfoBlocked.title "Заблакавана палітыкай X-Frame-Options">
+
 <!ENTITY corruptedContentErrorv2.title "Памылка пашкоджанага змесціва">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Старонка, якую вы спрабуеце адкрыць, не можа быць паказана, бо выяўлена памылка перадачы даных.</p><ul><li>Калі ласка, паведаміце ўладальніку сайта пра гэтую праблему.</li></ul>">
 
