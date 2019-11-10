@@ -5,6 +5,16 @@
 
 ## App Menu
 
+appmenuitem-protection-report-title = Жекелікті қорғау
+appmenuitem-protection-report-tooltip =
+    .tooltiptext = Жекелік есептемесіне өту
+
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Кішірейту
+appmenuitem-zoom-reduce =
+    .label = Кішірейту
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
