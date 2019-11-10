@@ -59,10 +59,13 @@ abuse-report-messagebar-action-cancel = Avbryt
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = Skadat min dator och data
+abuse-report-damage-reason-v2 = Den skadade min dator eller äventyrade mina data
 abuse-report-damage-example = Exempel: Injicerad skadlig kod eller stulit data
 abuse-report-spam-reason = Skapar skräppost eller reklam
+abuse-report-spam-reason-v2 = Det innehåller spam eller infogar oönskad reklam
 abuse-report-spam-example = Exempel: Infogar annonser på webbsidor
 abuse-report-settings-reason = Ändrade min sökmotor, hemsida eller ny flik utan att informera eller fråga mig
+abuse-report-settings-reason-v2 = Det ändrade min sökmotor, startsida eller nya flikar utan att informera eller fråga mig
 abuse-report-settings-suggestions = Innan du anmäler tillägget kan du försöka ändra dina inställningar:
 abuse-report-settings-suggestions-search = Ändra dina standardinställningar för sökning
 abuse-report-settings-suggestions-homepage = Ändra din startsida och ny flik
@@ -71,6 +74,8 @@ abuse-report-deceptive-reason-v2 = Sidan påstår sig vara något som den inte �
 abuse-report-deceptive-example = Exempel: Vilseledande beskrivning eller bilder
 abuse-report-broken-reason-extension = Fungerar inte, stör webbplatser eller saktar ner { -brand-product-name }
 abuse-report-broken-reason-theme = Fungerar inte eller stör webbläsarens display
+abuse-report-broken-reason-extension-v2 = Det fungerar inte, stör webbplatser eller slöar ner { -brand-product-name }
+abuse-report-broken-reason-theme-v2 = Det fungerar inte eller stör webbläsarens utseende
 abuse-report-broken-example = Exempel: Funktionen är långsam, svår att använda, eller fungerar inte. delar av webbplatser laddas inte eller ser ovanliga ut
 abuse-report-broken-suggestions-extension =
     Det låter som om du har identifierat ett fel. Förutom att skicka en rapport här, det bästa sättet
@@ -87,5 +92,6 @@ abuse-report-policy-suggestions =
     <a data-l10n-name="report-infringement-link">Använd dessa anvisningar</a> till
     att rapportera problemet.
 abuse-report-unwanted-reason = Ville aldrig ha det här tillägget och kan inte bli av med det
+abuse-report-unwanted-reason-v2 = Jag ville aldrig ha det och vet inte hur jag ska bli av med det
 abuse-report-unwanted-example = Exempel: En applikation installerade den utan min tillåtelse
 abuse-report-other-reason = Något annat

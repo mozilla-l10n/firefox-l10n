@@ -125,6 +125,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; förhindrade sidan från att öppnas på detta sätt eftersom sidan har en säkerhetspolicy för innehåll som inte tillåter detta.</p>">
 
 <!ENTITY xfoBlocked.title "Blockerad av X-Frame-Options Policy">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; förhindrade denna sida att laddas i detta sammanhang eftersom sidan har en X-Frame-Options policy som inte tillåter det.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Skadat innehåll">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Sidan du försöker se kan inte visas på grund av att ett fel i dataöverföringen upptäcktes.</p><ul><li>Kontakta ägarna till webbplatsen för att informera dem om detta problem.</li></ul>">
