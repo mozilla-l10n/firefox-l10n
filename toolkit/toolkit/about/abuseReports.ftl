@@ -22,7 +22,7 @@ abuse-report-submit-description = সমস্যাটি বর্ণনা �
 
 ## Panel buttons.
 
-abuse-report-cancel-button = বাতিল ক্রুন
+abuse-report-cancel-button = বাতিল
 abuse-report-next-button = পরবর্তী
 abuse-report-goback-button = ফিরে যান
 abuse-report-submit-button = জমা দিন
