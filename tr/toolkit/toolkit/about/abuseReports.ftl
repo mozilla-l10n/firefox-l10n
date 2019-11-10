@@ -59,6 +59,7 @@ abuse-report-messagebar-action-cancel = Vazgeç
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = Bilgisayarıma ve verilerime zarar veriyor
+abuse-report-damage-reason-v2 = Bilgisayarıma zarar verdi veya verilerimi tehlikeye attı
 abuse-report-damage-example = Örnek: Kötü amaçlı yazılım yüklüyor veya veri çalıyor
 abuse-report-spam-reason = Spam veya reklam oluşturuyor
 abuse-report-spam-reason-v2 = Spam içeriyor veya istenmeyen reklamlar ekliyor

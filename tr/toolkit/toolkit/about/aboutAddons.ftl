@@ -438,7 +438,7 @@ recommended-theme-1 = Yaratıcı gününüzde misiniz? <a data-l10n-name="link">
 
 extension-heading = Eklentilerinizi yönetin
 theme-heading = Temalarınızı yönetin
-plugin-heading = Yan uygulamarınızı yönetin
+plugin-heading = Yan uygulamalarınızı yönetin
 dictionary-heading = Sözlüklerinizi yönetin
 locale-heading = Dillerinizi yönetin
 updates-heading = Güncellemelerinizi yönetin
