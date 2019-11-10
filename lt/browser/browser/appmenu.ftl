@@ -9,6 +9,13 @@ appmenuitem-protection-report-title = Privatumo apsaugos
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Eiti į jūsų privatumo ataskaitą
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Padidinti
+appmenuitem-zoom-reduce =
+    .label = Sumažinti
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =

@@ -23,12 +23,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Parinktas <b>numatytasis</b> apsaugos lygmuo
-protection-header-details-strict = Parinktas <b>griežtas</b> apsaugos lygmuo
-protection-header-details-custom = Parinktas <b>tinkintas</b> apsaugos lygmuo
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Parinktas <b>numatytasis</b> apsaugos lygmuo
     .title = Eiti į privatumo nuostatas
 protection-report-header-details-strict = Parinktas <b>griežtas</b> apsaugos lygmuo
@@ -39,6 +33,8 @@ protection-report-page-title = Privatumo apsaugos
 protection-report-content-title = Privatumo apsaugos
 etp-card-title = Išplėsta apsauga nuo stebėjimo
 etp-card-content = Stebėjimo elementai seka jus internete, siekdami surinkti informacijos apie jūsų naršymo įpročius ir pomėgius. „{ -brand-short-name }“ blokuoja daugelį šių elementų ir kitų kenksmingų scenarijų.
+protection-report-etp-card-content-custom-not-blocking = Šiuo metu visos apsaugos yra išjungtos. Pasirinkite, ką norite blokuoti, per savo „{ -brand-short-name }“ apsaugų nuostatas.
+protection-report-manage-protections = Keisti nuostatas
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Šiandien
@@ -58,7 +54,6 @@ lockwise-title = Daugiau nepamirškite nė vieno slaptažodžio
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = „{ -lockwise-brand-name }“ saugiai įrašo slaptažodžius į jūsų naršyklę.
 lockwise-header-content-logged-in = Saugiai laikykite ir sinchronizuokite slaptažodžius tarp visų savo įrenginių.
-about-logins-view-logins-button = Peržiūrėti prisijungimus
 protection-report-view-logins-button = Peržiūrėti prisijungimus
     .title = Eiti į įrašytus prisijungimus
 lockwise-no-logins-content = Naudokite programą <a data-l10n-name="lockwise-inline-link">„{ -lockwise-brand-name }“</a>, norėdami savo slaptažodžius turėti visur.
@@ -126,10 +121,6 @@ password-warning =
         [few] įrašyti prisijungimai galėjo patekti tarp nutekėjusių duomenų. Pasikeiskite šiuos slaptažodžius dėl didesnio saugumo. <a data-l10n-name="lockwise-link">Peržiūrėti įrašytus prisijungimus</a>
        *[other] Įrašytų prisijungimų galėjo patekti tarp nutekėjusių duomenų. Pasikeiskite šiuos slaptažodžius dėl didesnio saugumo. <a data-l10n-name="lockwise-link">Peržiūrėti įrašytus prisijungimus</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Eiti į privatumo nuostatas
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Eiti į įrašytus prisijungimus
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

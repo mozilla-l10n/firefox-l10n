@@ -449,6 +449,7 @@ theme-heading = Tvarkykite savo apvalkalus
 plugin-heading = Tvarkykite savo papildinius
 dictionary-heading = Tvarkykite savo žodynus
 locale-heading = Tvarkykite savo kalbas
+updates-heading = Tvarkykite savo naujinimus
 discover-heading = Individualizuokite savo „{ -brand-short-name }“
 shortcuts-heading = Tvarkyti sparčiuosius klavišus priedams
 theme-heading-search-label = Rasti daugiau apvalkalų
