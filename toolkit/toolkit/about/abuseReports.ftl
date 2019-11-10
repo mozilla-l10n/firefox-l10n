@@ -67,6 +67,7 @@ abuse-report-settings-suggestions = Innan du anmäler tillägget kan du försök
 abuse-report-settings-suggestions-search = Ändra dina standardinställningar för sökning
 abuse-report-settings-suggestions-homepage = Ändra din startsida och ny flik
 abuse-report-deceptive-reason = Låtsas att vara något som det inte är
+abuse-report-deceptive-reason-v2 = Sidan påstår sig vara något som den inte är
 abuse-report-deceptive-example = Exempel: Vilseledande beskrivning eller bilder
 abuse-report-broken-reason-extension = Fungerar inte, stör webbplatser eller saktar ner { -brand-product-name }
 abuse-report-broken-reason-theme = Fungerar inte eller stör webbläsarens display
