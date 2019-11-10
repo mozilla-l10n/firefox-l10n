@@ -96,6 +96,12 @@ master-password-reload-button =
     .label = Пријави ме
     .accesskey = р
 
+## Password Sync notification
+
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Не питај ме поново
+    .accesskey = Н
+
 ## Dialogs
 
 confirmation-dialog-cancel-button = Откажи
