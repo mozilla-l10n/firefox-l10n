@@ -141,7 +141,7 @@
 ">
 
 <!ENTITY certerror.longpagetitle2 "Advertentia: Potential risco de securitate avante">
-<!ENTITY certerror.sts.longpagetitle  "Non connecter se: possibile problema de securitate">
+<!ENTITY certerror.sts.longpagetitle  "Non connectite: possibile problema de securitate">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -200,7 +200,7 @@ was trying to connect. -->
 <!ENTITY sslv3Used.longDesc2 "Informationes avantiate: SSL_ERROR_UNSUPPORTED_VERSION">
 
 <!ENTITY certerror.pagetitle2  "Advertentia: Potential risco de securitate avante">
-<!ENTITY certerror.sts.pagetitle  "Non connecter se: possibile problema de securitate">
+<!ENTITY certerror.sts.pagetitle  "Non connectite: possibile problema de securitate">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ha un politica de securitate appellate HTTP Strict Transport Security (HSTS), le qual vole dicer que &brandShortName; solmente pote connecter se a illo de maniera secur. Tu pote adder un exception pro visitar iste sito.">
 <!ENTITY certerror.copyToClipboard.label "Copiar le texto al area de transferentia">
 
