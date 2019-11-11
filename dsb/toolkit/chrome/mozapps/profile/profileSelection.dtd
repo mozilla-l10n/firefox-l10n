@@ -24,7 +24,7 @@
 <!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; składujo informacije wó wašych nastajenjach, preferencach a drugich wužywaŕskich zapiskach we wašom wužywaŕskem profilu.">
 
-<!ENTITY            offlineState.label    "Offline źełaś">
+<!ENTITY            offlineState.label    "Offline źěłaś">
 <!ENTITY            offlineState.accesskey "O">
 
 <!ENTITY            useSelected.label       "Wubrany profil wužywaś, mimo aby se pśi startowanju pšašało">
