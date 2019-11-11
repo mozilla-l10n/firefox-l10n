@@ -9,6 +9,13 @@ appmenuitem-protection-report-title = Richinanem Chajinem
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Tatz'eta' ri ichinan rutzijol
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Tinaqajäx
+appmenuitem-zoom-reduce =
+    .label = Tijech'äx
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
