@@ -8,6 +8,8 @@
 
 <!ENTITY learnMore "Tetamäx ch'aqa' chik…">
 
+<!ENTITY learnMoreNoEllipsis "Tetamäx ch'aqa' chik">
+
 <!ENTITY defaultButton.label "ÜTZ!">
 <!ENTITY defaultButton.accesskey "Ü">
 
