@@ -50,7 +50,9 @@
 <!ENTITY reading.caption                  "Lectura">
 <!ENTITY display.caption                  "Apariencia">
 <!ENTITY displayName.label                "Nombre para mostrar:">
+<!ENTITY showCondensedAddresses.accesskey "S">
 
+<!ENTITY autoMarkAsRead.accesskey         "A">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
