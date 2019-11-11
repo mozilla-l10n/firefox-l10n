@@ -75,6 +75,7 @@ login-intro-description = Ha egy másik eszközön mentette a bejelentkezéseit 
 login-intro-instruction-fxa = Hozzon létre egyet, vagy jelentkezzen be a { -fxaccount-brand-name }jába azon az eszközön, amelyen a bejelentkezéseit menti
 login-intro-instruction-fxa-settings = Győződjön meg róla, hogy bejelölte a Bejelentkezések választómezőt a { -sync-brand-short-name } beállításokban
 about-logins-intro-instruction-help = További segítéségért keresse fel a <a data-l10n-name="help-link">{ -lockwise-brand-short-name } támogatást</a>
+about-logins-intro-import = Ha bejelentkezéseit egy másik böngészőben mentette el, <a data-l10n-name="import-link">importálhatja azokat a { -lockwise-brand-short-name }-ba</a>
 
 ## Login
 

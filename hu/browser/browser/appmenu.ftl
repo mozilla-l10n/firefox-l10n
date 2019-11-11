@@ -9,6 +9,13 @@ appmenuitem-protection-report-title = Adatvédelem
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Ugrás az adatvédelmi jelentéséhez
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Nagyítás
+appmenuitem-zoom-reduce =
+    .label = Kicsinyítés
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
