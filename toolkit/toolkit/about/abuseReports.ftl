@@ -63,13 +63,17 @@ abuse-report-damage-example = Na primer: namešča zlonamerne programe ali krade
 abuse-report-spam-reason = Vsiljuje vsebino ali oglase
 abuse-report-spam-example = Na primer: dodaja oglase na spletne strani
 abuse-report-settings-reason = Brez moje privolitve je zamenjala moj iskalnik, domačo stran ali stran novega zavihka
+abuse-report-settings-reason-v2 = Brez moje privolitve je zamenjala moj iskalnik, domačo stran ali stran novega zavihka
 abuse-report-settings-suggestions = Preden razširitev prijavite, lahko poskusite spremeniti nastavitve:
 abuse-report-settings-suggestions-search = Spremenite nastavitve privzetega iskalnika
 abuse-report-settings-suggestions-homepage = Spremenite domačo stran in nov zavihek
 abuse-report-deceptive-reason = Izdaja se za nekaj drugega
+abuse-report-deceptive-reason-v2 = Izdaja se za nekaj drugega
 abuse-report-deceptive-example = Na primer: zavajajoč opis ali slike
 abuse-report-broken-reason-extension = Ne deluje, kvari spletne strani ali upočasnjuje { -brand-product-name }
 abuse-report-broken-reason-theme = Ne deluje ali pokvari zaslon brskalnika
+abuse-report-broken-reason-extension-v2 = Ne deluje, kvari spletne strani ali upočasnjuje { -brand-product-name }
+abuse-report-broken-reason-theme-v2 = Ne deluje ali pokvari zaslon brskalnika
 abuse-report-broken-example = Primer: Zmogljivosti so počasne, težke za uporabo ali ne delujejo. Deli spletnih mest se ne naložijo ali izgledajo nenavadno
 abuse-report-broken-suggestions-extension =
     Zdi se, da ste odkrili napako. Za razrešitev težave vam poleg pošiljanja poročila priporočamo,
@@ -80,6 +84,7 @@ abuse-report-broken-suggestions-theme =
     da se obrnete na razvijalca teme. Podatke o razvijalcu lahko najdete na
     <a data-l10n-name="support-link"> spletnem mestu teme </a>.
 abuse-report-policy-reason = Sovražna, nasilna ali nezakonita vsebina
+abuse-report-policy-reason-v2 = Vsebuje sovražno, nasilno ali nezakonito vsebino
 abuse-report-policy-suggestions =
     Opomba: Kršitve avtorskih pravic in blagovnih znamk je potrebno prijaviti v ločenem postopku.
     Za prijavo težave <a data-l10n-name="report-infringement-link">sledite tem navodilom</a>.
