@@ -307,7 +307,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Inhalte mit DRM-Kopierschutz
 play-drm-content =
@@ -457,7 +457,6 @@ choose-bookmark =
 
 home-prefs-content-header = Inhalte des Firefox-Startbildschirms
 home-prefs-content-description = Wählen Sie, welche Inhalte auf Ihrem Firefox-Startbildschirm angezeigt werden sollen.
-home-prefs-content-discovery-description = "Neues aus dem Netz" macht auf gute Inhalte im Internet aufmerksam.
 home-prefs-search-header =
     .label = Internetsuche
 home-prefs-topsites-header =
@@ -554,6 +553,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = So haben Sie das Web überall dabei.
 sync-signedout-description = Synchronisieren Sie Ihre Lesezeichen, Chronik, Tabs, Passwörter, Add-ons und Einstellungen zwischen allen Ihren Geräten.
 sync-signedout-account-title = Verbinden Sie mit einem { -fxaccount-brand-name }
@@ -573,6 +576,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Firefox für <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> oder <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> herunterladen, um mit Ihrem Handy zu synchronisieren.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Profilbild ändern
@@ -594,6 +600,15 @@ sync-sign-in =
     .accesskey = m
 sync-signedin-settings-header = Sync-Einstellungen
 sync-signedin-settings-desc = Wählen Sie die zwischen den Geräten zu synchronisierenden { -brand-short-name }-Eigenschaften.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Lesezeichen
     .accesskey = L
@@ -628,6 +643,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Durch Sie geänderte allgemeine, Datenschutz- und Sicherheitseinstellungen
     .accesskey = E
+
+## The device name controls.
+
 sync-device-name-header = Gerätename
 sync-device-name-change =
     .label = Gerät umbenennen…
@@ -650,7 +668,11 @@ privacy-header = Browser-Datenschutz
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Zugangsdaten & Passwörter
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Fragen, ob Zugangsdaten und Passwörter für Websites gespeichert werden sollen
     .accesskey = F
@@ -664,6 +686,7 @@ forms-breach-alerts =
     .label = Alarme für Passwörter, deren Websites von einem Datenleck betroffen waren
     .accesskey = A
 forms-breach-alerts-learn-more-link = Weitere Informationen
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Zugangsdaten und Passwörter automatisch ausfüllen
     .accesskey = Z
@@ -699,7 +722,7 @@ history-remember-option-never =
     .label = niemals anlegen
 history-remember-option-custom =
     .label = nach benutzerdefinierten Einstellungen anlegen
-history-remember-description = { -brand-short-name } wird die Adressen der besuchten Webseiten, Downloads sowie eingebene Formular- und Suchdaten speichern.
+history-remember-description = { -brand-short-name } wird die Adressen der besuchten Webseiten, Downloads sowie eingegebene Formular- und Suchdaten speichern.
 history-dontremember-description = { -brand-short-name } wird dieselben Einstellungen wie im Privaten Modus verwenden und keinerlei Chronik anlegen, während Sie { -brand-short-name } benutzen.
 history-private-browsing-permanent =
     .label = Immer den Privaten Modus verwenden
@@ -818,7 +841,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Benutzerdefiniert
     .accesskey = B
 
-##
+
 
 content-blocking-etp-standard-desc = Ausgewogen zwischen Schutz und Leistung. Seiten laden normal.
 content-blocking-etp-strict-desc = Stärkerer Schutz, einige Websites oder mancher Inhalt funktioniert eventuell nicht.
