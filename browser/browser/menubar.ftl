@@ -53,13 +53,13 @@ menu-file-import-from-another-browser =
     .label = Z druheho wobhladowaka importować…
     .accesskey = i
 menu-file-go-offline =
-    .label = Offline dźełać
+    .label = Offline dźěłać
     .accesskey = O
 
 ## Edit Menu
 
 menu-edit =
-    .label = Wobdźełać
+    .label = Wobdźěłać
     .accesskey = b
 menu-edit-undo =
     .label = Cofnyć
@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Połna wobrazowka
     .accesskey = P
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Wšě rajtarki pokazać
@@ -285,8 +285,7 @@ menu-help-safe-mode-with-addons =
     .label = Ze zmóžnjenymi přidatkami znowa startować
     .accesskey = Z
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Wobšudne sydło zdźělić…
     .accesskey = b

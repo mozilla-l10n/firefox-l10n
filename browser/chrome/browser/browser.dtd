@@ -70,7 +70,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY taskManagerCmd.label "Zrjadowak nadawkow">
 
-<!ENTITY goOfflineCmd.label "Offline dźełać">
+<!ENTITY goOfflineCmd.label "Offline dźěłać">
 <!ENTITY goOfflineCmd.accesskey "O">
 
 <!ENTITY menubarCmd.label "Menijowa lajsta">
@@ -291,6 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Sće přistup na MIDI za tute websydło zablokował.">
 <!ENTITY urlbar.installBlocked.tooltip           "Sće instalowanje přidatkow za tute websydło zablokował.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Historiju pokazać">
 
 <!ENTITY searchItem.title             "Pytać">
@@ -362,7 +363,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.label     "Nowe priwatne wokno">
 <!ENTITY newPrivateWindow.accesskey "r">
 
-<!ENTITY editMenu.label         "Wobdźełać">
+<!ENTITY editMenu.label         "Wobdźěłać">
 <!ENTITY editMenu.accesskey       "b">
 <!ENTITY undoCmd.label            "Cofnyć">
 <!ENTITY undoCmd.key            "Z">
@@ -807,8 +808,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Nastajenja za blokowanje wuskakowacych woknow wobdźełać…">
-<!ENTITY editPopupSettings.label "Nastajenja za blokowanje wuskakowacych woknow wobdźełać…">
+<!ENTITY editPopupSettingsUnix.label "Nastajenja za blokowanje wuskakowacych woknow wobdźěłać…">
+<!ENTITY editPopupSettings.label "Nastajenja za blokowanje wuskakowacych woknow wobdźěłać…">
 <!ENTITY editPopupSettings.accesskey "o">
 <!ENTITY dontShowMessage.accesskey "n">
 
