@@ -76,6 +76,9 @@
 <!ENTITY cspBlocked.title "Q'aton ruma ri Runa'ojil Rujikomal Rupam Etamab'äl">
 <!ENTITY cspBlocked.longDesc "<p>Ri okik'amaya'l man xuya' ta q'ij chi xjaqatäj ri ruxaq k'amaya'l, ruma ri ruxaq k'amaya'l k'o runa'oj pa ruwi' chajinïk, ri man nuya' ta q'ij.</p>">
 
+<!ENTITY xfoBlocked.title "Xq'at ruma ri X-Frame-Options Na'ojil">
+<!ENTITY xfoBlocked.longDesc "<p>Ri okik'amaya'l xuq'ät rusamajixik re ruxaq re' pa re rub'eyal re'. ruma chi ri ruxaq rojqan ri X-Frame-Options na'ojil, ri man nuya' taq 'ij chi re.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Sachoj ruma itzel rupam">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ri ruxaq wuj tajin natojtob'ej natz'ët man tikirel ta nik'ut pe ruma xilitäj jun sachoj toq yeq'alajisäx pe ri taq tzij.</p><ul><li>Tab'ana' utzil, taya' rutzijol chi rij re k'ayewal re' chi ke ri rajaw ruxaq k'amaya'l.</li></ul>">
 
