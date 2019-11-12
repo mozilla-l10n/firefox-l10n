@@ -434,6 +434,7 @@ theme-heading = Kudeatu zure itxurak
 plugin-heading = Kudeatu zure pluginak
 dictionary-heading = Kudeatu zure hiztegiak
 locale-heading = Kudeatu zure hizkuntzak
+updates-heading = Kudeatu zure eguneraketak
 discover-heading = Pertsonalizatu zure { -brand-short-name }
 shortcuts-heading = Kudeatu hedapenen lasterbideak
 theme-heading-search-label = Bilatu itxura gehiago
