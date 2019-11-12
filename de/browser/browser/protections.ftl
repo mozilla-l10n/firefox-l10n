@@ -31,6 +31,7 @@ protection-report-page-title = Privatsphäre-Schutzmaßnahmen
 protection-report-content-title = Privatsphäre-Schutzmaßnahmen
 etp-card-title = Verbesserter Tracking-Schutz (Schutz vor Aktivitätenverfolgung)
 etp-card-content = Skripte zur Aktivitätenverfolgung (Online-Tracker) folgen Ihnen über Websites hinweg und sammeln Informationen über Ihre Browser-Gewohnheiten und Interessen. { -brand-short-name } blockiert viele dieser Skripte zur Aktivitätenverfolgung und andere böswillige Skripte.
+protection-report-manage-protections = Einstellungen verwalten
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Heute

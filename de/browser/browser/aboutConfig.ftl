@@ -10,6 +10,14 @@ about-config-warning-button = Ich bin mir der Gefahren bewusst
 about-config2-title = Erweiterte Konfiguration
 about-config-search-input =
     .placeholder = Suchen
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-text = Das Ändern von erweiterten Konfigurationseinstellungen kann sich auf die Leistung oder Sicherheit von { -brand-short-name } auswirken.
+
+
+
+about-config-page-title = Erweiterte Einstellungen
 about-config-show-all = Alle Einstellungen anzeigen
 about-config-pref-add = Hinzufügen
 about-config-pref-toggle = Umschalten

@@ -109,11 +109,8 @@ master-password-reload-button =
     .label = Anmelden
     .accesskey = m
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Abbrechen
-confirmation-dialog-dismiss-button =
-    .title = Abbrechen
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Wollen Sie Ihre Zugangsdaten überall verfügbar haben, wo Sie { -brand-product-name } nutzen? Öffnen Sie die Einstellungen für { -sync-brand-short-name } und wählen Sie das Kontrollfeld "Zugangsdaten" aus.
@@ -126,6 +123,15 @@ enable-password-sync-preferences-button =
            *[other] Einstellungen für { -sync-brand-short-name } öffnen
         }
     .accesskey = E
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Nicht mehr nachfragen
+    .accesskey = N
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Abbrechen
+confirmation-dialog-dismiss-button =
+    .title = Abbrechen
 confirm-delete-dialog-title = Diese Zugangsdaten entfernen
 confirm-delete-dialog-message = Diese Aktion kann nicht rückgängig gemacht werden.
 confirm-delete-dialog-confirm-button = Entfernen
