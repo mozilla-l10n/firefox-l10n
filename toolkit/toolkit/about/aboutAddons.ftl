@@ -450,6 +450,7 @@ theme-heading = Rheoli eich themâu
 plugin-heading = Rheoli eich ategion
 dictionary-heading = Rheoli eich geiriaduron
 locale-heading = Rheoli eich ieithoedd
+updates-heading = Rheoli Eich Diweddariadau
 discover-heading = Personoli Eich { -brand-short-name }
 shortcuts-heading = Rheoli Estyniad Llwybrau Byr
 theme-heading-search-label = Canfod themâu eraill
