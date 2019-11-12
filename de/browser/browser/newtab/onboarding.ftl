@@ -40,6 +40,8 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-form-email =
+    .placeholder = Ihre E-Mail-Adresse…
 
 ## Firefox Sync modal dialog strings.
 
