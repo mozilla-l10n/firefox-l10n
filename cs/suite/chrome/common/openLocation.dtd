@@ -4,7 +4,7 @@
 
 <!-- extracted from content/openLocation.xul -->
 
-<!ENTITY enter.label "Vložte adresu stránky (URL), nebo zadejte místní soubor, který chcete otevřít:">
+<!ENTITY enter.label "Zadejte adresu stránky (URL) nebo místního souboru, který chcete otevřít:">
 <!-- LOCALIZATION NOTE (enter.accesskey): should be present in both enter.label
      as defined above and attachEnterLabel as defined in
      openLocation.properties -->
