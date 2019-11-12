@@ -140,7 +140,7 @@ cfr-doorhanger-send-tab-ok-button = Kokeile välilehden lähettämistä
 
 cfr-doorhanger-firefox-send-header = Jaa tämä PDF turvallisesti
 cfr-doorhanger-firefox-send-body = Pidä arkaluonteiset asiakirjasi turvassa uteliailta silmiltä käyttämällä läpisalausta ja automaattisesti vanhenevaa linkkiä.
-cfr-doorhanger-firefox-send-ok-button = Kokeile { -send-brand-name }-palvelua
+cfr-doorhanger-firefox-send-ok-button = Kokeile { -send-brand-name }iä
     .accesskey = K
 
 ## Social Tracking Protection
