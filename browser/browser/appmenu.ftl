@@ -9,6 +9,13 @@ appmenuitem-protection-report-title = Diogelu Preifatrwydd
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Ewch i'ch adroddiad preifatrwydd
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Chwyddo mewn
+appmenuitem-zoom-reduce =
+    .label = Chwyddo allan
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =

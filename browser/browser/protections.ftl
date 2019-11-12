@@ -29,12 +29,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Mae'r Lefel Diogelu wedi'i osod i <b>Safonol</b>
-protection-header-details-strict = Mae'r Lefel Diogelu wedi'i osod i <b>Llym</b>
-protection-header-details-custom = Mae'r Lefel Diogelu wedi'i osod i <b>Cyfaddas</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Mae'r Lefel Diogelu wedi'i osod i <b>Safonol</b>
     .title = Ewch i'r Gosodiadau Preifatrwydd
 protection-report-header-details-strict = Mae'r Lefel Diogelu wedi'i osod i <b>Llym</b>
@@ -45,6 +39,8 @@ protection-report-page-title = Diogelu Preifatrwydd
 protection-report-content-title = Diogelu Preifatrwydd
 etp-card-title = Diogelwch Uwch Rhag Tracio
 etp-card-content = Mae tracwyr yn eich dilyn ar-lein i gasglu gwybodaeth am eich arferion pori a'ch diddordebau. Mae { -brand-short-name } yn rhwystro llawer o'r tracwyr hyn a sgriptiau maleisus eraill.
+protection-report-etp-card-content-custom-not-blocking = Mae'r holl ddiogelu wedi'u diffodd ar hyn o bryd. Dewiswch pa dracwyr i'w rhwystro trwy reoli eich gosodiadau diogelu { -brand-short-name }.
+protection-report-manage-protections = Rheoli Gosodiadau
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Heddiw
@@ -64,7 +60,6 @@ lockwise-title = Peidiwch byth ag anghofio cyfrinair eto
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = Mae { -lockwise-brand-name } yn cadw'ch cyfrineiriau yn ddiogel yn eich porwr.
 lockwise-header-content-logged-in = Cadwch a chydweddwch eich cyfrineiriau'n ddiogel i'ch holl ddyfeisiau.
-about-logins-view-logins-button = Gweld Mewngofnodi
 protection-report-view-logins-button = Gweld Mewngofnodi
     .title = Ewch i'r Mewngofnodin wedi'u Cadw
 lockwise-no-logins-content = Defnyddiwch yr ap <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name } i gymryd eich cyfrineiriau i bob man.
@@ -150,10 +145,6 @@ password-warning =
         [many] Mewngofnod wedi'i gadw o bosib wedi'i amlygu mewn tor-data. Newidiwch y cyfrineiriau hyn i gael gwell diogelwch ar-lein. <a data-l10n-name="lockwise-link">Edrych ar eich Mewngofnodion wedi'u Cadw</a>
        *[other] Mewngofnod wedi'i gadw o bosib wedi'i amlygu mewn tor-data. Newidiwch y cyfrineiriau hyn i gael gwell diogelwch ar-lein. <a data-l10n-name="lockwise-link">Edrych ar eich Mewngofnodion wedi'u Cadw</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Ewch i'r Gosodiadau Preifatrwydd
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Ewch i'r Mewngofnodin wedi'u Cadw
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
