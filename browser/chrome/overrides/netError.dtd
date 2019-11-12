@@ -155,6 +155,10 @@ was trying to connect. -->
 
 <!ENTITY certerror.mitm.title "নিরাপদে এই সাইটে সংযোগ প্রদানে সফ্টওয়্যার &brandShortName; কে বাঁধা দিচ্ছে">
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> সম্ভবত এটি একটি নিরাপদ সাইট, কিন্তু একটি সুরক্ষিত সংযোগ স্থাপন করা যায় নি। এই সমস্যাটি <span class='mitm-name'/>দ্বারা হয়েছে, যা আপনার কম্পিউটারের অথবা আপনার নেটওয়ার্কে অবস্থিত কোন সফটওয়্যার।">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "যদি আপনার অ্যান্টিভাইরাস সফ্টওয়্যারটিতে এমন কোনও বৈশিষ্ট্য অন্তর্ভুক্ত থাকে যা এনক্রিপ্ট হওয়া সংযোগগুলি (প্রায়ই “ওয়েব স্ক্যানিং” বা “https স্ক্যানিং” নামে পরিচিত) স্ক্যান করে, আপনি সেই বৈশিষ্ট্যটি অক্ষম করতে পারেন। যদি এটিতে কাজ না হয় তবে আপনি অ্যান্টিভাইরাস সফটওয়্যারটি সরিয়ে এবং পুনরায় ইনস্টল করতে পারেন।">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "যদি আপনি কোন কর্পোরেট নেটওয়ার্কে থাকেন, তবে আপনার IT বিভাগে যোগাযোগ করতে পারেন।">
+<!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "আপনি যদি <span class='mitm-name'/>এর সাথে পরিচিত না হোন, তাহলে এটি একটি আক্রমণ হতে পারে এবং আপনার আর চালিয়ে যাওয়া উচিৎ হবে না।">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "আপনি যদি <span class='mitm-name'/>এর সাথে পরিচিত না হয়ে থাকেন, তাহলে এটি একটি আক্রমণ হতে পারে, এবং সাইটে অ্যাক্সেস করার জন্য আপনার কিছুই করার নেই।">
 
 <!ENTITY clockSkewError.title "আপনার কম্পিউটারের ঘড়ি ভুল">
 <!ENTITY clockSkewError.longDesc "আপনার কম্পিউটার মনে করে এটি <span id='wrongSystemTime_systemDate1'/>, যা &brandShortName; কে নিরাপদভাবে সংযুক্ত হওয়া থেকে বিরত রাখছে। <span class='hostname'></span> এ ভিজিট করতে হলে, আপনার সিস্টেম সেটিংসে গিয়ে আপনার কম্পিউটারের ঘড়ির বর্তমান তারিখ, সময় এবং সময় অঞ্চল আপডেট করুন এবং তারপর <span class='hostname'></span> রিফ্রেশ করুন।">
@@ -167,3 +171,4 @@ was trying to connect. -->
 <!ENTITY enableTls10.label "TLS 1.0 ও 1.1 সক্রিয় করুন">
 
 <!ENTITY networkProtocolError.title "নেটওয়ার্ক প্রটোকল ত্রুটি">
+<!ENTITY networkProtocolError.longDesc "<p>আপনি যে পাতাটি দেখতে চাচ্ছেন নেটওয়ার্ক প্রটোকলে একটি ত্রুটি দেখা দেওয়ায় তা দেখানো সম্ভব হচ্ছে না।</p><ul><li>অনুগ্রহ করে এই সমস্যা জানিয়ে ওয়েবসাইটের মালিকের সাথে যোগাযোগ করুন।</li></ul>">
