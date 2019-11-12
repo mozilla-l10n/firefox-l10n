@@ -15,6 +15,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Síne panel daa mensajes
 urlbar-plugins-notification-anchor =
     .tooltiptext = Tetiñu naja ni´i plugins
+urlbar-tip-help-icon =
+    .title = Nánuku chineída noo´o
 
 ## Page Action Context Menu
 
