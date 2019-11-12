@@ -54,11 +54,16 @@
 
 
 
+<!ENTITY nssBadCert.title "Gire' conexión hia">
 
+<!ENTITY securityOverride.linkText "Ga’ue nutà’t ‘ngō sa sê sa anïn ruhuât…">
+
+<!ENTITY cspBlocked.title "'Ngō narán aga' na riña sitiô na yi'ì sa mà riñaj">
 
 
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
 
