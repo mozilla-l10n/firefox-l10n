@@ -442,6 +442,7 @@ theme-heading = Waše drastwy zastojaś
 plugin-heading = Waše tykace zastojaś
 dictionary-heading = Waše słowniki zastojaś
 locale-heading = Waše rěcy zastojaś
+updates-heading = Waše aktualizacije zastojaś
 discover-heading = Personalizěrujśo swój { -brand-short-name }
 shortcuts-heading = Tastowe skrotconki rozšyrjenjow zastojaś
 theme-heading-search-label = Dalšne drastwy pytaś
