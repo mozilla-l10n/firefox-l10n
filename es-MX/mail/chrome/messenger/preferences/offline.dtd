@@ -1,0 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY offlineDialog.title "Configuraciones sin conexión">
+
+<!ENTITY checkAutoDetect.label "Seguir automáticamente el estado de conexión detectado">
+<!ENTITY checkAutoDetect.accesskey "d">
+<!ENTITY radioRememberPrevState.accesskey "R">
+<!ENTITY radioAskState.accesskey "k">
+<!ENTITY radioAlwaysOnlineState.label "Conectado">
+<!ENTITY radioAlwaysOnlineState.accesskey "l">
+<!ENTITY radioAlwaysOffline.label "Sin conexión">
+

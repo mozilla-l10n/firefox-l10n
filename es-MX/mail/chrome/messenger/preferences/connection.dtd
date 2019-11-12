@@ -46,6 +46,9 @@
 <!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "No pedir autenticación si la contraseña está guardada">
 <!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.tooltip        "Esta opción silenciosamente te autentica en proxies cuando has guardado credenciales para ellos. Se te preguntará si falla la autenticación.">
+<!ENTITY  socksRemoteDNS.label          "DNS proxy al usar SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "Habilitar DNS sobre HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "b">
+<!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Usa la URL predeterminada para resolver DNS sobre HTTPS">
