@@ -51,8 +51,11 @@
 
 
 
+<!ENTITY redirectLoop.title "Dàj na’nïn nikā ñunj">
 
+<!ENTITY unknownSocketType.title "Nitāj si huā hue’ê nuguan’ dunanikàjt">
 
+<!ENTITY nssFailure2.title "Gire' conexión hia">
 
 <!ENTITY nssBadCert.title "Gire' conexión hia">
 
