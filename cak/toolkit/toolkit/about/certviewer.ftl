@@ -15,6 +15,7 @@ certificate-viewer-algorithm = Alworit
 certificate-viewer-certificate-authority = SSL Taqonel Taqöy Ruwujil B'i'aj
 certificate-viewer-cipher-suite = Molaj taq man Etaman ta:
 certificate-viewer-common-name = Relik Rub'i'
+certificate-viewer-email-address = Rochochib'al Taqoya'l
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Amaq'
 certificate-viewer-country = Amaq'
