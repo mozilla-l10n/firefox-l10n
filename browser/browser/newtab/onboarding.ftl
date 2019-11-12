@@ -21,6 +21,7 @@ onboarding-button-label-get-started = Einführung
 onboarding-welcome-header = Willkommen bei { -brand-short-name }
 onboarding-welcome-body = Den Browser hast du schon. <br/>Lerne jetzt auch den Rest von { -brand-product-name } kennen.
 onboarding-welcome-learn-more = Weitere Infos zu den Vorteilen.
+onboarding-welcome-modal-get-body = Den Browser haben Sie schon.<br/> Holen Sie jetzt das Beste aus { -brand-product-name } heraus.
 onboarding-join-form-header = Komm zu { -brand-product-name }
 onboarding-join-form-body = Gib deine E-Mail-Adresse ein und leg los.
 onboarding-join-form-email =
@@ -28,10 +29,17 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Gültige E-Mail-Adresse erforderlich
 onboarding-join-form-legal = Indem du fortfährst, stimmst du unseren <a data-l10n-name="terms">Nutzungsbedingungen</a> und unserer <a data-l10n-name="privacy">Datenschutzerklärung</a> zu.
 onboarding-join-form-continue = Weiter
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Haben Sie schon ein Konto?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Anmelden
 onboarding-start-browsing-button-label = Hier geht’s zum Browser
 onboarding-cards-dismiss =
     .title = Entfernen
     .aria-label = Entfernen
+
+## Welcome full page string
+
 
 ## Firefox Sync modal dialog strings.
 

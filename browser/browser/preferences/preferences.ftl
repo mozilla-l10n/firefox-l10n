@@ -504,6 +504,7 @@ search-bar-shown =
     .label = Suchleiste zur Symbolleiste hinzufügen
 search-engine-default-header = Standardsuchmaschine
 search-engine-default-desc = Wählen Sie Ihre Standardsuchmaschine für die Adress- und Suchleiste.
+search-suggestions-header = Suchvorschläge
 search-suggestions-option =
     .label = Suchvorschläge anzeigen
     .accesskey = S
@@ -606,6 +607,21 @@ sync-signedin-settings-desc = Wählen Sie die zwischen den Geräten zu synchroni
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-bookmarks = Lesezeichen
+sync-currently-syncing-history = Chronik
+sync-currently-syncing-tabs = Offene Tabs
+sync-currently-syncing-logins-passwords = Zugangsdaten und Passwörter
+sync-currently-syncing-addresses = Adressen
+sync-currently-syncing-creditcards = Kreditkarten
+sync-currently-syncing-addons = Add-ons
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Einstellungen
+       *[other] Einstellungen
+    }
+sync-change-options =
+    .label = Ändern…
+    .accesskey = Ä
 
 ## The "Choose what to sync" dialog.
 

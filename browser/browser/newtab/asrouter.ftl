@@ -78,6 +78,9 @@ cfr-protections-panel-link-text = Weitere Information
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Neue Funktion:
 cfr-whatsnew-button =
     .label = Neue Funktionen und Änderungen
     .tooltiptext = Neue Funktionen und Änderungen
@@ -152,3 +155,6 @@ cfr-doorhanger-fingerprinters-heading = { -brand-short-name } hat einen Fingerab
 cfr-doorhanger-fingerprinters-description = Deine Privatsphäre ist uns wichtig. { -brand-short-name } blockiert jetzt Fingerabdrücke, die eindeutig identifizierbare Informationen zu deinem Gerät sammeln, um dich zu tracken.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } hat einen Fingerabdruck auf dieser Seite blockiert
 cfr-doorhanger-cryptominers-description = Deine Privatsphäre ist uns wichtig. { -brand-short-name } blockiert jetzt Krypto-Miner, die die Rechenleistung deines Systems nutzen wollen, um digitale Währungen zu schürfen.
+
+## Enhanced Tracking Protection Milestones
+
