@@ -102,6 +102,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.expiredCert.introPara "&brandShortName; একটি সমস্যা শনাক্ত করেছে এবং <span class='hostname'/>এ চালিয়ে যায়নি। ওয়েবসাইটটি হয়তোবা ভুলভাবে কনফিগার করা আছে অথবা আপনার কম্পিউটারের ঘড়িতে ভুল সময় সেট করা আছে।">
 <!ENTITY certerror.expiredCert.secondPara2 "সম্ভবত ওয়েবসাইটটির সার্টিফিকেটের মেয়াদ শেষ হয়ে গিয়েছে, যা &brandShortName; কে নিরাপদে সংযোগ স্থাপন থেকে বাধা দিচ্ছে। আপনি যদি এই সাইটটি দেখেন, তবে আক্রমণকারীরা আপনার পাসওয়ার্ড, ইমেইল অথবা ক্রেডিট কার্ডের মত তথ্য চুরি করার চেষ্টা করতে পারে।">
+<!ENTITY certerror.expiredCert.sts.secondPara "সম্ভবত ওয়েবসাইটটির সার্টিফিকেটের মেয়াদ শেষ হয়ে গিয়েছে, যা &brandShortName; কে নিরাপদে সংযোগ স্থাপন করতে বাধা দিচ্ছে।">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "এ ব্যাপারে আপনি কি করতে পারেন?">
 
@@ -121,6 +122,8 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "কন্টেন্টের নিরাপত্তা নীতিমালা দ্বারা ব্লক">
 <!ENTITY cspBlocked.longDesc "<p>এভাবে পাতা লোড করতে &brandShortName; বাধা দেয় কারণ এ পাতার বিষয়বস্তুর নিরাপত্তা নীতিমালা এটা করতে অনুমোদন দেয় না।</p>">
 
+<!ENTITY xfoBlocked.title "X-Frame-Options নীতি দ্বারা ব্লক করা হয়েছে">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; এই পেজটিকে এই প্রাসিঙ্গকতায় লোড করতে বাধা দিয়েছে, কারণ পেজেটিতে X-Frame-Options পলিসি রয়েছে, যা এটিকে অনুমতি দেয় না।</p>">
 
 <!ENTITY corruptedContentErrorv2.title "ক্ষতিগ্রস্ত বিষয়বস্তুর ত্রুটি">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>প্রাপ্ত তথ্যের যথার্থতা পরীক্ষা করা সম্ভব না হওয়ার ফলে পাতাটি প্রদর্শন করা সম্ভব হয়নি।</p><ul><li>অনুগ্রহ করে এই সমস্যা সম্পর্কে ওয়েব-সাইট নির্মাতাদের অবগত করুন।</li></ul>">
@@ -151,6 +154,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "ব্লক করা পাতা">
 
 <!ENTITY certerror.mitm.title "নিরাপদে এই সাইটে সংযোগ প্রদানে সফ্টওয়্যার &brandShortName; কে বাঁধা দিচ্ছে">
+<!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> সম্ভবত এটি একটি নিরাপদ সাইট, কিন্তু একটি সুরক্ষিত সংযোগ স্থাপন করা যায় নি। এই সমস্যাটি <span class='mitm-name'/>দ্বারা হয়েছে, যা আপনার কম্পিউটারের অথবা আপনার নেটওয়ার্কে অবস্থিত কোন সফটওয়্যার।">
 
 <!ENTITY clockSkewError.title "আপনার কম্পিউটারের ঘড়ি ভুল">
 <!ENTITY clockSkewError.longDesc "আপনার কম্পিউটার মনে করে এটি <span id='wrongSystemTime_systemDate1'/>, যা &brandShortName; কে নিরাপদভাবে সংযুক্ত হওয়া থেকে বিরত রাখছে। <span class='hostname'></span> এ ভিজিট করতে হলে, আপনার সিস্টেম সেটিংসে গিয়ে আপনার কম্পিউটারের ঘড়ির বর্তমান তারিখ, সময় এবং সময় অঞ্চল আপডেট করুন এবং তারপর <span class='hostname'></span> রিফ্রেশ করুন।">
