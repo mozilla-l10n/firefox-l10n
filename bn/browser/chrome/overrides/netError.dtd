@@ -9,9 +9,7 @@
 <!ENTITY retry.label "পুনরায় চেষ্টা করুন">
 <!ENTITY returnToPreviousPage.label "পিছনে ফিরে যাও">
 <!ENTITY returnToPreviousPage1.label "পেছনে যান (সুপারিশকৃত)">
-<!ENTITY advanced.label "উচ্চপর্যায়">
 <!ENTITY advanced2.label "উন্নত…">
-<!ENTITY moreInformation.label "অধিক তথ্য">
 <!ENTITY viewCertificate.label "সার্টিফিকেট প্রদর্শন">
 
 <!-- Specific error messages -->
@@ -94,17 +92,13 @@
 <!ENTITY nssFailure2.title "নিরাপদ সংযোগ স্থাপন করতে ব্যর্থ">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>প্রাপ্ত তথ্যের যথার্থতা পরীক্ষা করা সম্ভব না হওয়ার ফলে প্রদর্শনের জন্য চিহ্নিত পাতা প্রদর্শন করা সম্ভব হয়নি।</li> <li>অনুগ্রহ করে এই সমস্যা সম্পর্কে ওয়েব-সাইট নির্মাতাদের সূচিত করুন।</li> </ul>">
 
-<!ENTITY certerror.longpagetitle1 "আপনার সংযোগ নিরাপদ নয়">
-
 <!ENTITY certerror.longpagetitle2 "সতর্কতা: সামনে সম্ভাব্য নিরাপত্তা ঝুঁকি রয়েছে">
 <!ENTITY certerror.sts.longpagetitle  "সংযুক্ত হয়নি: সম্ভাব্য নিরাপত্তা সমস্যা">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
-will be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara "<span class='hostname'/> এর মালিক তাদের ওয়েবসাইটটি ত্রুটিপূর্ণভাবে কনফিগার করেছেন।  আপনার তথ্যকে চুরি হয়ে যাওয়া থেকে বাঁচানোর জন্য &brandShortName; ওয়েবসাইটটির সাথে যুক্ত করা হয়নি।">
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara2 "&brandShortName; একটি সম্ভাব্য হুমকি শনাক্ত করেছে এবং <span class='hostname'/>এ প্রবেশ করেনি। যদি আপনি এই সাইটটিতে প্রবেশ করেন, তাহলে আক্রমণকারীরা আপনার পাসওয়ার্ড, ইমেইল অথবা ক্রেডিট কার্ডের মত তথ্য চুরি করার চেষ্টা করতে পারে।">
+<!ENTITY certerror.sts.introPara "&brandShortName; একটি সম্ভাব্য হুমকি শনাক্ত করেছে এবং <span class='hostname'/> এ কাজ করেনি কারণ এই ওয়েবসাইটটিতে একটি নিরাপদ সংযোগ প্রয়োজন।">
 
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "এ ব্যাপারে আপনি কি করতে পারেন?">
@@ -125,11 +119,9 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "কন্টেন্টের নিরাপত্তা নীতিমালা দ্বারা ব্লক">
 <!ENTITY cspBlocked.longDesc "<p>এভাবে পাতা লোড করতে &brandShortName; বাধা দেয় কারণ এ পাতার বিষয়বস্তুর নিরাপত্তা নীতিমালা এটা করতে অনুমোদন দেয় না।</p>">
 
+
 <!ENTITY corruptedContentErrorv2.title "ক্ষতিগ্রস্ত বিষয়বস্তুর ত্রুটি">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>প্রাপ্ত তথ্যের যথার্থতা পরীক্ষা করা সম্ভব না হওয়ার ফলে পাতাটি প্রদর্শন করা সম্ভব হয়নি।</p><ul><li>অনুগ্রহ করে এই সমস্যা সম্পর্কে ওয়েব-সাইট নির্মাতাদের অবগত করুন।</li></ul>">
-
-
-<!ENTITY securityOverride.exceptionButtonLabel "ব্যতিক্রম যোগ…">
 
 <!ENTITY securityOverride.exceptionButton1Label "ঝুঁকি নিন এবং চালিয়ে যান">
 
@@ -144,17 +136,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "বিস্তারিত তথ্য: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; আপনার <span id='wrongSystemTime_URL'/> সাথে সংযোগ স্থাপন করেনি। কারণ আপনার কম্পিউটারের ঘড়ি ভুল সময় প্রদর্শন করছে, যা নিরাপদ সংযোগ স্থাপনের অন্তরায়।</p><p>আপনার কম্পিউটার<span id='wrongSystemTime_systemDate'/> সেট করা রয়েছে, অথচ এটি <span id='wrongSystemTime_actualDate'/> সেট থাকার কথা। এই সমস্যা দূর করতে, আপনার তারিখ ও সময়ের সেটিং সঠিক করুন।</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; আপনার <span id='wrongSystemTimeWithoutReference_URL'/> সাথে সংযোগ স্থাপন করেনি। কারণ আপনার কম্পিউটারের ঘড়ি ভুল সময় প্রদর্শন করছে, যা নিরাপদ সংযোগ স্থাপনের অন্তরায়।</p><p>আপনার কম্পিউটার <span id='wrongSystemTimeWithoutReference_systemDate'/> সেট করা রয়েছে। এই সমস্যা দূর করতে, আপনার তারিখ ও সময়ের সেটিং সঠিক করুন।</p>">
-
-<!ENTITY certerror.pagetitle1  "অনিরাপদ সংযোগ">
-
 <!ENTITY certerror.pagetitle2  "সতর্কতা: সামনে সম্ভাব্য নিরাপত্তা ঝুঁকি রয়েছে">
 <!ENTITY certerror.sts.pagetitle  "সংযুক্ত হয়নি: সম্ভাব্য নিরাপত্তা সমস্যা">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "সাইটটি HTTP ব্যবহার করে পরিবহনে সর্বোচ্চ নিরাপত্তা (HSTS) নিশ্চিত করে যে &brandShortName; এর সাথে শুধুমাত্র সুরক্ষিত সংযোগ করবে। যার ফলে, এই সার্টিফিকেট এর জন্যে একটি ব্যতিক্রম যোগ করা যাবেনা।">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> এর HTTP স্ট্রিক্ট ট্রান্সপোর্ট সিকিউরিটি (এইচএসটিএস) নামে একটি নিরাপত্তা নীতি রয়েছে, যার মানে হল যে &brandShortName; শুধুমাত্র নিরাপদভাবে সংযোগ করতে পারবে। আপনি এই সাইট দেখার জন্য কোন ব্যতিক্রম যোগ করতে পারবেন না।">
 <!ENTITY certerror.copyToClipboard.label "লেখা ক্লিপবোর্ডে অনুলিপি করুন।">
 
@@ -172,5 +155,9 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "আপনার নেটওয়ার্কের সুরক্ষা সেটিং এই সমস্যা কারণ বলে প্রতীয়মান হচ্ছে। আপনি কি সেটিং পূর্বাবস্থায় ফিরিয়ে নিতে চান?">
 <!ENTITY prefReset.label "ডিফল্ট সেটিং পুনঃস্থাপন করুন">
+
+<!ENTITY enableTls10.longDesc "এই ওয়েবসাইট TLS 1.2 প্রোটোকল সমর্থন নাও করতে পারে, যা সর্বনিম্ন সংস্করণ &brandShortName;দ্বারা সমর্থিত। TLS 1.0 এবং TLS 1.1 সক্রিয় করার মাধ্যমে এই সংযোগটি সফল হতেও পারে।">
+<!ENTITY enableTls10.note "TLS 1.0 ও TLS 1.1 কে ভবিষ্যৎ রিলিজে পুরোপুরি নিষ্ক্রিয় করে দেওয়া হবে।">
+<!ENTITY enableTls10.label "TLS 1.0 ও 1.1 সক্রিয় করুন">
 
 <!ENTITY networkProtocolError.title "নেটওয়ার্ক প্রটোকল ত্রুটি">
