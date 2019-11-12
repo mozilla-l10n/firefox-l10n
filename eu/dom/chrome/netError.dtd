@@ -76,6 +76,9 @@
 <!ENTITY cspBlocked.title "Edukien segurtasun-politikak blokeatuta">
 <!ENTITY cspBlocked.longDesc "<p>Nabigatzaileak orri hau modu honetan kargatzea eragotzi du edukien segurtasun-politikak baimentzen ez duelako.</p>">
 
+<!ENTITY xfoBlocked.title "X-Frame-Options politikak blokeatuta">
+<!ENTITY xfoBlocked.longDesc "<p>Nabigatzaileak orri hau testuinguru honetan kargatzea eragotzi du daukan X-Frame-Options politikak baimentzen ez duelako.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Hondatutako edukien errorea">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da erakutsi datuen transmisioan errore bat detektatu delako.</p><ul><li>Jarri harremanetan gunearen arduradunarekin arazo honen berri emateko.</li></ul>">
 

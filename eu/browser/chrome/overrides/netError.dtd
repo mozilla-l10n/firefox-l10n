@@ -133,6 +133,9 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Edukien segurtasun-politikak blokeatuta">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;(e)k orri hau modu honetan kargatzea eragotzi du edukien segurtasun-politikak baimentzen ez duelako.</p>">
 
+<!ENTITY xfoBlocked.title "X-Frame-Options politikak blokeatuta">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName;(e)k orri hau testuinguru honetan kargatzea eragotzi du daukan X-Frame-Options politikak baimentzen ez duelako.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Hondatutako edukien errorea">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da erakutsi errore bat detektatu delako datu-transmisioan.</p><ul><li>Jar zaitez harremanetan webgunearen jabeekin arazo honen berri emateko.</li></ul>">
 

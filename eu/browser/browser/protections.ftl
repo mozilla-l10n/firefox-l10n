@@ -31,6 +31,8 @@ protection-report-page-title = Pribatutasun-babesak
 protection-report-content-title = Pribatutasun-babesak
 etp-card-title = Jarraipenaren babes hobetua
 etp-card-content = Jarraipen-elementuek zure lineako jarraipena egiten dute zure nabigatze-ohitura eta -interesei buruzko informazioa biltzeko. Jarraipen-elementu eta bestelako script maltzurretako asko blokeatzen ditu { -brand-short-name }(e)k.
+protection-report-etp-card-content-custom-not-blocking = Une honetan babes guztiak desgaituta daude. Aukeratu zein jarraipen-elementu blokeatu zure { -brand-short-name } babes-ezarpenak kudeatuz.
+protection-report-manage-protections = Kudeatu ezarpenak
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Gaur
