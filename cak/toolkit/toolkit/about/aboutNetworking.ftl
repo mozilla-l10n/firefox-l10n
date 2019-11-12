@@ -9,6 +9,7 @@ ok = Ütz
 http = HTTP
 sockets = Chuq'b'äl
 dns = DNS
+dnssuffix = DNS rij tzij
 websockets = WebSockets
 refresh = Titzolïx
 auto-refresh = Tutzolij rupaläj pa ruyonil pa jujun 3 xil ch'utiramaj

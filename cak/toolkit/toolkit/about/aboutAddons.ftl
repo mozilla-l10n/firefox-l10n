@@ -341,6 +341,8 @@ addon-options-button =
 
 report-addon-button = Tiya' rutzijol
 remove-addon-button = Tiyuj
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Man Tikirel ta Niyuj el <a data-l10n-name="link">¿Aruma?</a>
 disable-addon-button = Tichup
 enable-addon-button = Titzij
 expand-addon-button = Ch'aqa' chik taq Cha'oj
@@ -442,6 +444,7 @@ theme-heading = Ke'anuk'samajij ri taq awachinel
 plugin-heading = Ke'anuk'samajij ri taq anak'ab'al
 dictionary-heading = Ke'anuk'samajij ri taq asoltzij
 locale-heading = Ke'anuk'samajij ri taq ach'ab'äl
+updates-heading = Ke'anuk'samajij ri taq Ak'exoj
 discover-heading = Tawichinaj { -brand-short-name }
 shortcuts-heading = Kenuk'samajïx Kichojokem taq K'amal
 theme-heading-search-label = Ke'ilitäj ch'aqa' chik taq wachinel
