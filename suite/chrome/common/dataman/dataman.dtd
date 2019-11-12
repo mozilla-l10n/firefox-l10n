@@ -70,7 +70,7 @@
 <!ENTITY perm.AllowSession "Povolit pro relaci">
 <!ENTITY perm.Block "Blokovat">
 
-<!ENTITY perm.host.placeholder "Vložte název serveru">
+<!ENTITY perm.host.placeholder "Zadejte název serveru">
 <!ENTITY perm.button.add.label "Přidat">
 <!ENTITY perm.button.add.accesskey "P">
 
