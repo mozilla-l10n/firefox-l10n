@@ -9,6 +9,13 @@ appmenuitem-protection-report-title = Bảo vệ quyền riêng tư
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Đi đến báo cáo bảo mật của bạn
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Phóng to
+appmenuitem-zoom-reduce =
+    .label = Thu nhỏ
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
