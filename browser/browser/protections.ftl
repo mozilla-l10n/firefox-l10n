@@ -19,12 +19,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Cấp bảo vệ được đặt thành <b>Tiêu chuẩn</b>
-protection-header-details-strict = Cấp bảo vệ được đặt thành <b>Nghiêm ngặt</b>
-protection-header-details-custom = Cấp bảo vệ được đặt thành <b>Tùy chỉnh</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Cấp bảo vệ được đặt thành <b>Tiêu chuẩn</b>
     .title = Đi đến Cài đặt bảo mật
 protection-report-header-details-strict = Cấp bảo vệ được đặt thành <b>Nghiêm ngặt</b>
@@ -35,6 +29,8 @@ protection-report-page-title = Bảo vệ quyền riêng tư
 protection-report-content-title = Bảo vệ quyền riêng tư
 etp-card-title = Trình chống theo dõi nâng cao
 etp-card-content = Trình theo dõi theo bạn trên mạng để thu thập thông tin về thói quen và sở thích duyệt web của bạn. { -brand-short-name } chặn nhiều trình theo dõi và các tập lệnh độc hại khác.
+protection-report-etp-card-content-custom-not-blocking = Tất cả các bảo vệ hiện đang tắt. Chọn trình theo dõi nào sẽ chặn bằng cách quản lý cài đặt bảo vệ { -brand-short-name } của bạn.
+protection-report-manage-protections = Quản lý cài đặt
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Hôm nay
@@ -54,7 +50,6 @@ lockwise-title = Không bao giờ quên mật khẩu lần nữa
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } lưu trữ an toàn mật khẩu của bạn trong trình duyệt của bạn.
 lockwise-header-content-logged-in = Lưu trữ an toàn và đồng bộ hóa mật khẩu của bạn với tất cả các thiết bị của bạn.
-about-logins-view-logins-button = Xem thông tin đăng nhập
 protection-report-view-logins-button = Xem thông tin đăng nhập
     .title = Đi đến Thông tin đăng nhập đã lưu
 lockwise-no-logins-content = Tải ứng dụng <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> để mang mật khẩu của bạn đi khắp mọi nơi.
@@ -110,10 +105,6 @@ password-warning =
     { $count ->
        *[other] Thông tin đăng nhập đã lưu có thể đã bị lộ trong một vụ rò rỉ dữ liệu. Thay đổi các mật khẩu này để bảo mật trực tuyến tốt hơn. <a data-l10n-name="lockwise-link">Xem thông tin đăng nhập đã lưu</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Đi đến Cài đặt bảo mật
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Đi đến Thông tin đăng nhập đã lưu
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

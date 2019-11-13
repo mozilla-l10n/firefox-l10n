@@ -445,6 +445,7 @@ theme-heading = Quản lí chủ đề của bạn
 plugin-heading = Quản lí phần bổ trợ của bạn
 dictionary-heading = Quản lí từ điển của bạn
 locale-heading = Quản lí ngôn ngữ của bạn
+updates-heading = Quản lý cập nhật của bạn
 discover-heading = Cá nhân hóa { -brand-short-name } của bạn
 shortcuts-heading = Quản lý phím tắt tiện ích mở rộng
 theme-heading-search-label = Tìm thêm chủ đề
