@@ -135,6 +135,19 @@
 <!-- Go Menu -->
 
 <!-- Message Menu -->
+<!ENTITY replyMsgCmd.label "Responder">
+<!ENTITY replyMsgCmd.accesskey "R">
+<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replySenderCmd.label "Responder solmente al expeditor">
+<!ENTITY replySenderCmd.accesskey "R">
+<!ENTITY replyNewsgroupCmd2.label "Responder al gruppo">
+<!ENTITY replyNewsgroupCmd2.accesskey "u">
+<!ENTITY replyToAllMsgCmd.label "Responder a totes">
+<!ENTITY replyToAllMsgCmd.accesskey "p">
+<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToListMsgCmd.label "Responder al lista">
+<!ENTITY replyToListMsgCmd.accesskey "L">
+<!ENTITY replyToListMsgCmd.key "l">
 <!ENTITY editAsNewMsgCmd.label "Modificar como nove message">
 <!ENTITY editAsNewMsgCmd.accesskey "M">
 <!ENTITY editAsNewMsgCmd.key "m">
@@ -158,8 +171,12 @@
     This should be the text printed on the key defined in the previous string. -->
 
 <!-- Mail Toolbar -->
+<!ENTITY replyButton.label "Responder">
+<!ENTITY replyAllButton.label "Responder a totes">
+<!ENTITY replyListButton.label "Responder al lista">
 
 <!-- Mail Toolbar Tooltips-->
+<!ENTITY replyButton.tooltip "Responder al message">
 
 <!-- Toolbar Button Popup -->
 

@@ -4,6 +4,9 @@
 
 <!-- extracted from am-main.xul -->
 
+<!ENTITY replyTo.label "Adresse pro responsas:">
+<!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.placeholder "Le destinatarios respondera a iste altere adresse">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 
 

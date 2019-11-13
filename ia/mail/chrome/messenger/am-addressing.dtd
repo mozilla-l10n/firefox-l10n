@@ -35,7 +35,7 @@
 <!ENTITY place.accesskey                      "f">
 <!ENTITY belowText.label                      "sub le citation (recommendate)">
 <!ENTITY aboveText.label                      "sub mi responsa (ante le texto citate)">
-<!ENTITY includeSigOnReply.label              "Includer firma in le responsas">
+<!ENTITY includeSigOnReply.label              "Includer le signatura in le responsas">
 <!ENTITY includeSigOnReply.accesskey          "I">
 <!ENTITY includeSigOnForward.label            "Includer firma in messages transferite">
 <!ENTITY includeSigOnForward.accesskey        "t">
