@@ -2,12 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ## App Menu
 
 appmenuitem-protection-report-title = Privatlivs-beskyttelse
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Vis rapport om beskyttelse af dit privatliv
+
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+  .label = Zoom ind
+appmenuitem-zoom-reduce =
+  .label = Zoom ud
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 

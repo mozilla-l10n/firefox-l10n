@@ -455,6 +455,7 @@ theme-heading = Håndter dine temaer
 plugin-heading = Håndter dine plugins
 dictionary-heading = Håndter dine ordbøger
 locale-heading = Håndter dine sprog
+updates-heading = Håndter dine opdateringer
 discover-heading = Tilpas { -brand-short-name }
 shortcuts-heading = Håndter genveje til dine udvidelser
 theme-heading-search-label = Find flere temaer
