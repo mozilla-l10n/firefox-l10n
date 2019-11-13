@@ -300,6 +300,18 @@ go-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    এক্সটেনশন এবং থীমগুলি আপনার ব্রাউজারের অ্যাপের মত, এবং এদের মাধ্যমে আপনি 
+    পাসওয়ার্ড সুরক্ষা, ভিডিও ডাউনলোড, ডিল খোঁজা, বিরক্তিকর অ্যাড ব্লক করা, ব্রাউজারের চেহারা 
+    বদলসহ আরও অনেক কিছু করতে পারেন। এইসব ছোট ছোট সফটওয়্যার প্রোগ্রাম অনেক সময়
+    তৃতীয় কারও দ্বারা তৈরি করা হয়। অসাধারণ নিরাপত্তা, কর্মক্ষমতা এবং কার্যকারিতার জন্য এখানে 
+    { -brand-product-name } <a data-l10n-name="learn-more-trigger">সুপারিশ</a>।
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    এর মধ্যে কিছু সুপারিশ পারসোনালাইজ সম্পর্কিত। এদের ভিত্তি অন্য
+     যেসব এক্সটেনশন আপনি ইন্সটল করেছেন, আপনার প্রোফাইল পছন্দসমূহ এবং ব্যাবহারের পরিসংখ্যান।
 discopane-notice-learn-more = আরও জানুন
 privacy-policy = গোপনীয়তা নীতি
 # Refers to the author of an add-on, shown below the name of the add-on.
