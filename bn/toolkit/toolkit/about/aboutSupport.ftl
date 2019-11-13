@@ -61,6 +61,7 @@ app-basics-multi-process-support = মাল্টিপ্রসেস উই�
 app-basics-remote-processes-count = দূরবর্তী প্রক্রিয়া
 app-basics-enterprise-policies = এন্ট্রারপ্রাইজ নীতিগুলি
 app-basics-location-service-key-google = Google অবস্থান পরিষেবা কী
+app-basics-safebrowsing-key-google = Google নিরাপদ ব্রাউজিং কী
 app-basics-key-mozilla = Mozilla লোকেশন সার্ভিস Key
 app-basics-safe-mode = সেফ মোড
 show-dir-label =
@@ -132,6 +133,8 @@ media-device-channels = চ্যানেল
 media-device-rate = মূল্যায়ন করুন
 media-device-latency = যোজনী
 media-capabilities-title = মিডিয়ার ক্ষমতা
+# List all the entries of the database.
+media-capabilities-enumerate = ডাটাবেইজ তালিকাভুক্তি
 
 
 
@@ -216,6 +219,7 @@ gpu-device-id = ডিভাইস ID
 gpu-subsys-id = Subsys ID
 gpu-drivers = ড্রাইভার
 gpu-ram = RAM
+gpu-driver-vendor = ড্রাইভার বিক্রেতা
 gpu-driver-version = ড্রাইভার সংস্করণ
 gpu-driver-date = ড্রাইভারের তারিখ
 gpu-active = সক্রিয়
@@ -246,8 +250,10 @@ gpu-process-kill-button = GPU প্রক্রিয়া বন্ধ করু
 gpu-device-reset = ডিভাইস রিসেট
 gpu-device-reset-button = ট্রিগার ডিভাইস রিসেট
 uses-tiling = Tiling ব্যবহার করে
+content-uses-tiling = টাইলিং (কনটেন্ট) এর ব্যবহার
 off-main-thread-paint-enabled = অফ মেইন থ্রেড পেইন্টিং সক্রিয়
 off-main-thread-paint-worker-count = Main Thread Painting Worker Count বন্ধ
+target-frame-rate = টার্গেট ফ্রেম রেট
 min-lib-versions = প্রত্যাশিত সর্বনিম্ন সংস্করণ
 loaded-lib-versions = ব্যবহৃত সংস্করণ
 has-seccomp-bpf = Seccomp-BPF (সিস্টেম কল ফিল্টারিং)
