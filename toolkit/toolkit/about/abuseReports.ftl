@@ -85,5 +85,6 @@ abuse-report-policy-suggestions =
     Not: Telif hakkı ve ticari marka sorunlarını ayrı bir yerden rapor etmeniz gerekiyor.
     Sorunu rapor etmek için <a data-l10n-name="report-infringement-link">bu yönergeleri kullanın</a>.
 abuse-report-unwanted-reason = Bu eklentiyi yüklemeyi ben istemedim ve eklentiyi kaldıramıyorum
+abuse-report-unwanted-reason-v2 = Bunu yüklemek istemedim ve nasıl kurtulacağımı bilmiyorum
 abuse-report-unwanted-example = Örnek: Bir yazılım, bu eklentiyi benim iznim olmadan yüklemiş
 abuse-report-other-reason = Başka bir şey
