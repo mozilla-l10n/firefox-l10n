@@ -14,6 +14,7 @@ certificate-viewer-error-title = Jokin meni pieleen.
 certificate-viewer-algorithm = Algoritmi
 certificate-viewer-certificate-authority = Varmenteen myöntäjä
 certificate-viewer-common-name = Yleinen nimi
+certificate-viewer-email-address = Sähköpostiosoite
 certificate-viewer-country = Maa
 certificate-viewer-distribution-point = Jakelupiste
 certificate-viewer-dns-name = DNS-nimi
