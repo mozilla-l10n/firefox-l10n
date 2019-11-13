@@ -15,6 +15,8 @@ accessibility-warning =
     .alt = Upozorenje
 accessibility-fail =
     .alt = Greška
+accessibility-best-practices =
+    .alt = Uvriježena praksa
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has an accessibility issue
@@ -26,7 +28,6 @@ accessibility-text-label-issue-document-title = Dokumenti moraju sadržati <code
 accessibility-text-label-issue-embed = Ugrađeni sadržaj mora biti označen. <a>Saznaj više</a>
 accessibility-text-label-issue-figure = Slike s neobaveznim opisima bi trebali biti označene. <a>Saznaj više</a>
 accessibility-text-label-issue-fieldset = <code>fieldset</code> elementi moraju imati oznaku. <a>Saznaj više</a>
-accessibility-text-label-issue-fieldset-legend = Koristi <code>legend</code> element za označavanje <span>fieldset</span> elemenata. <a>Saznaj više</a>
 accessibility-text-label-issue-fieldset-legend2 = Koristi <code>legend</code> element za označavanje jednog <span>fieldset</span>. <a>Saznaj više</a>
 accessibility-text-label-issue-form = Elementi obrasca moraju biti označeni. <a>Saznaj više</a>
 accessibility-text-label-issue-form-visible = Elementi obrasca bi trebali imati vidljivu tekstualnu oznaku. <a>Saznaj više</a>
@@ -37,7 +38,6 @@ accessibility-text-label-issue-heading-content = Naslovi bi trebali imati vidlji
 accessibility-text-label-issue-iframe = Koristi <code>title</code> atribut za opis <span>iframe</span> sadržaja. <a>Saznaj više</a>
 accessibility-text-label-issue-image = Sadržaj sa slikom mora biti označen. <a>Saznaj više</a>
 accessibility-text-label-issue-interactive = Interaktivni elementi moraju biti označeni. <a>Saznaj više</a>
-accessibility-text-label-issue-optgroup-label = Koristi <code>label</code> atribut za označavanje <span>optgroup</span> elemenata. <a>Saznaj više</a>
 accessibility-text-label-issue-optgroup-label2 = Koristi jedan <code>label</code> atribut za označavanje jednog <span>optgroup</span>. <a>Saznaj više</a>
 accessibility-text-label-issue-toolbar = Alatne trake moraju biti označene, ako ima više od jedne alatne trake. <a>Saznaj više</a>
 
@@ -45,6 +45,8 @@ accessibility-text-label-issue-toolbar = Alatne trake moraju biti označene, ako
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = Fokusirajući elementi trebaju imati interaktivnu semantiku. <a>Saznaj više</a>
 accessibility-keyboard-issue-tabindex = Izbjegni koristiti <code>tabindex</code> atribut, veći od nula. <a>Saznaj više</a>
 accessibility-keyboard-issue-action = Interaktivni elementi se moraju moći aktivirati pomoću tipkovnice. <a>Saznaj više</a>
 accessibility-keyboard-issue-focusable = Interaktivni elementi se moraju moći fokusirati. <a>Saznaj više</a>
+accessibility-keyboard-issue-focus-visible = Elementu kojeg je moguće fokusirati možda nedostaje stil fokusiranja. <a>Saznaj više</a>
