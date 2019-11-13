@@ -31,7 +31,7 @@ features-inspector-desc = Inspecione e melhore o código para construir layouts 
 features-console-title = Consola
 features-console-desc = Identifique problemas de CSS, JavaScript, segurança e de rede. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-debugger-title = Depurador
-features-debugger-desc = Um potente depurador de JavaScript com suporte para a sua framework. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-debugger-desc = Um depurador de JavaScript poderoso com suporte para a sua framework. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-network-title = Rede
 features-network-desc = Monitorize pedidos de rede que possam tornar lento ou bloquear o seu site. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Armazenamento
