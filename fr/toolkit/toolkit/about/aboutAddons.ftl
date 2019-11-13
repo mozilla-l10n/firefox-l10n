@@ -441,6 +441,7 @@ theme-heading = Gestion de vos thèmes
 plugin-heading = Gestion de vos plugins
 dictionary-heading = Gestion de vos dictionnaires
 locale-heading = Gestion des langues
+updates-heading = Gestion de vos mises à jour
 discover-heading = Personnalisez { -brand-short-name }
 shortcuts-heading = Gestion des raccourcis d’extensions
 theme-heading-search-label = Trouver d’autres thèmes

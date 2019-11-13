@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = par { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recommandation
+cfr-doorhanger-extension-notification2 = Recommandation
+    .tooltiptext = Recommandation d’extension
+    .a11y-announcement = Recommandation d’extension disponible
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Recommandation
+    .tooltiptext = Recommandation de fonctionnalité
+    .a11y-announcement = Recommandation de fonctionnalité disponible
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -145,6 +153,8 @@ cfr-doorhanger-socialtracking-ok-button = Voir les protections
     .accesskey = V
 cfr-doorhanger-socialtracking-close-button = Fermer
     .accesskey = F
+cfr-doorhanger-socialtracking-dont-show-again = Ne plus me montrer de messages comme celui-ci
+    .accesskey = N
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } a empêché un réseau social de vous pister ici
 cfr-doorhanger-socialtracking-description = Le respect de votre vie privée est important. { -brand-short-name } bloque désormais les traqueurs de réseaux sociaux courants, limitant ainsi la quantité de données qu’ils peuvent recueillir sur votre activité en ligne.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } a bloqué un traqueur d’empreinte numérique sur cette page

@@ -86,8 +86,12 @@ manifest-item-icons = Icônes
 manifest-loading = Chargement du manifeste…
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = Manifeste chargé.
-# Text displayed when there has been an error while trying to load the manifest
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
 manifest-loaded-error = Une erreur s’est produite lors du chargement du manifeste :
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Erreur des outils de développement de Firefox
 # Text displayed when the page has no manifest available
 manifest-non-existing = Aucun manifeste trouvé à inspecter.
 # Text displayed when the page has a manifest embedded in a Data URL and
