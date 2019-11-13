@@ -57,11 +57,11 @@ cmd-preferences =
            *[other] O
         }
 cmd-enable-theme =
-    .label = Postavi temu
-    .accesskey = t
+    .label = Aktiviraj motiv
+    .accesskey = k
 cmd-disable-theme =
-    .label = Onemogući temu
-    .accesskey = t
+    .label = Deaktiviraj motiv
+    .accesskey = k
 cmd-install-addon =
     .label = Instaliraj
     .accesskey = I
@@ -70,7 +70,7 @@ cmd-contribute =
     .accesskey = D
     .tooltiptext = Doprinesite razvoju ovog dodatka
 discover-title = Što su dodaci?
-discover-description = Dodaci su aplikacije koje vam omogućavaju personalizaciju { -brand-short-name }a s dodatnim funkcionalnostima ili stilom. Isprobajte bočnu traku koja vam ušteđuje vrijeme, dodajte vremensku prognozu ili postavite drugu temu za { -brand-short-name }.
+discover-description = Dodaci su aplikacije koje omogućuju prilagođavanje { -brand-short-name }a s dodatnim funkcionalnostima ili stilom. Isprobajte bočnu traku koja vam ušteđuje vrijeme, dodajte vremensku prognozu ili postavite drugi motiv za { -brand-short-name }.
 discover-footer = Kada ste spojeni na Internet, u ovom će prozoru biti istaknute neke od najboljih i najpopularnijih dodataka koje možete isprobati.
 detail-version =
     .label = Inačica
@@ -305,7 +305,7 @@ go-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro =
-    Dodaci i teme su kao aplikacije za vaš preglednik i oni vam omogućavaju
+    Dodaci i motivi su kao aplikacije za vaš preglednik i oni vam omogućavaju
     da zaštitite lozinke, preuzimate video na disk, pronađete akcije, blokirate
     naporne reklame, izmjenite kako vaš preglednik izgleda i puno više. Ovi mali
     programi su često razvijeni od treće strane. Ovdje možete pronaći
@@ -326,7 +326,7 @@ created-by-author = od <a data-l10n-name="author">{ $author }</a>
 #   $dailyUsers (number) - The number of daily users.
 user-count = Korisnici: { $dailyUsers }
 install-extension-button = Dodaj u { -brand-product-name }
-install-theme-button = Instaliraj temu
+install-theme-button = Instaliraj motiv
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Upravljanje
@@ -432,21 +432,21 @@ release-notes-loading = Učitavanje…
 release-notes-error = Došlo je do greške pri učitavanju napomena o izdanju.
 addon-permissions-empty = Ovaj dodatak ne zahtjeva nikakve dozvole.
 recommended-extensions-heading = Preporučeni dodatci
-recommended-themes-heading = Preporučene teme
+recommended-themes-heading = Preporučeni motivi
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
-recommended-theme-1 = Osjećate li se kreativno? <a data-l10n-name="link">Izradite vlastitu temu s Firefox Color.</a>
+recommended-theme-1 = Osjećate li se kreativno? <a data-l10n-name="link">Izradite vlastiti motiv s Firefox Color.</a>
 
 ## Page headings
 
 extension-heading = Upravljanje dodacima
-theme-heading = Upravljanje temama
+theme-heading = Upravljaj motivima
 plugin-heading = Upravljanje priključcima
 dictionary-heading = Upravljanje rječnicima
 locale-heading = Upravljanje jezicima
 discover-heading = Prilagodite svoj { -brand-short-name }
 shortcuts-heading = Upravljanje prečacima dodataka
-theme-heading-search-label = Pronađite više tema
+theme-heading-search-label = Pronađi daljnje motive
 extension-heading-search-label = Pronađite više dodataka
 addons-heading-search-input =
     .placeholder = Pretraži addons.mozilla.org

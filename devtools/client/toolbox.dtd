@@ -119,12 +119,12 @@
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
   -  tools. -->
-<!ENTITY options.selectDevToolsTheme.label2   "Teme">
+<!ENTITY options.selectDevToolsTheme.label2   "Motivi">
 
 <!-- LOCALIZATION NOTE (options.usedeveditiontheme.*) Options under the
   -  toolbox for enabling and disabling the Developer Edition browser theme. -->
-<!ENTITY options.usedeveditiontheme.label   "Koristi temu preglednika razvojnog izdanja">
-<!ENTITY options.usedeveditiontheme.tooltip "Uključuje/isključuje temu preglednika razvojnog izdanja.">
+<!ENTITY options.usedeveditiontheme.label   "Koristi motiv razvojnog izdanja preglednika">
+<!ENTITY options.usedeveditiontheme.tooltip "Uključuje/isključuje motiv razvojnog izdanja preglednika.">
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->

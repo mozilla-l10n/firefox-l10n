@@ -46,7 +46,7 @@ pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
 help-button-label = { -brand-short-name } podrška
-addons-button-label = Proširenja i Teme
+addons-button-label = Proširenja i motivi
 focus-search =
     .key = f
 close-button =
@@ -726,7 +726,11 @@ privacy-header = Privatnost preglednika
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Prijave i lozinke
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Pitaj za spremanje prijava i lozinka za web stranice
     .accesskey = r
@@ -740,6 +744,7 @@ forms-breach-alerts =
     .label = Prikaži upozorenja o lozinkama za zlonamjerne web stranice
     .accesskey = u
 forms-breach-alerts-learn-more-link = Saznaj više
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Automatski popuni prijave i lozinke
     .accesskey = i
