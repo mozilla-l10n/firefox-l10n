@@ -5,7 +5,7 @@
 <!ENTITY safeModeDialog.title             "&brandShortName; sigurni način rada">
 <!ENTITY window.width                     "37em">
 
-<!ENTITY safeModeDescription.label        "&brandShortName; je pokrenut u sigurnom načinu rada, koji privremeno onemogućava vaše prilagođene postavke, teme i dodatke.">
+<!ENTITY safeModeDescription.label        "&brandShortName; je pokrenut u sigurnom načinu rada, koji privremeno onemogućava tvoje prilagođene postavke, motive i dodatke.">
 <!ENTITY safeModeDescription2.label       "Neke od ovih promjena možete učiniti trajnima:">
 
 <!ENTITY disableAddons.label              "Onemogući sve dodatke">
