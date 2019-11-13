@@ -77,6 +77,9 @@ detail-version =
 detail-last-updated =
     .label = সর্বশেষ হালনাগাদ
 detail-contributions-description = এ অ্যাড-অন ডেভেলপার বলে যে, আপনি আপনার যে কোনো ছোট অবদান দিয়েও এই অ্যাড-অনের উন্নয়নে সহায়তা করতে পারেন।
+detail-contributions-button = অবদান রাখুন
+    .title = এই অ্যাড-অনের বিকাশে অবদান রাখুন
+    .accesskey = C
 detail-update-type =
     .value = স্বয়ংক্রিয় হালনাগাদ
 detail-update-default =
@@ -88,6 +91,11 @@ detail-update-automatic =
 detail-update-manual =
     .label = বন্ধ
     .tooltiptext = স্বয়ংক্রিয়ভাবে হালনাগাদ ইনস্টল করা হবে না
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = ব্যক্তিগত উইন্ডোতে রান করুন
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = ব্যক্তিগত উইন্ডোতে অনুমোদিত নয়
 detail-private-browsing-on =
     .label = অনুমতি দিন
     .tooltiptext = ব্যক্তিগত ব্রাউজিং সক্রিয় করুন
@@ -266,6 +274,10 @@ shortcuts-letter = একটি চিঠি লিখুন
 shortcuts-system = { -brand-short-name } শর্টকাট ওভাররাইড করা যাবে না
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = সদৃশ শর্টকাট
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } একাধিক ক্ষেত্রে শর্টকাট হিসাবে ব্যবহৃত হচ্ছে। সদৃশ শর্টকাটগুলি অপ্রত্যাশিত আচরণের কারণ হতে পারে।
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -282,6 +294,10 @@ privacy-policy = গোপনীয়তা নীতি
 # Variables:
 #   $author (string) - The name of the add-on developer.
 created-by-author = <a data-l10n-name="author">{ $author }</a> দ্বারা
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = ব্যবহারকারী: { $dailyUsers }
 install-extension-button = { -brand-product-name } এ যোগ করুন
 install-theme-button = থিম ইন্সটল করুন
 # The label of the button that appears after installing an add-on. Upon click,
@@ -394,6 +410,7 @@ theme-heading = আপনার থিম ব্যবস্থাপনা
 plugin-heading = আপনার প্লাগইন ব্যবস্থাপনা
 dictionary-heading = আপনার অভিধান ব্যবস্থাপনা
 locale-heading = আপনার ভাষা ব্যবস্থাপনা
+updates-heading = আপনার হালনাগাদ পরিচালনা করুন
 theme-heading-search-label = আরও থিম খুঁজুন
 extension-heading-search-label = আরও এক্সটেনশন খুঁজুন
 addons-heading-search-input =

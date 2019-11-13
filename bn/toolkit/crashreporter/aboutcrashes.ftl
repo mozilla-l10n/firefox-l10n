@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
 crash-reports-title = ক্র্যাশ রিপোর্ট
-clear-all-reports-label = সব প্রতিবেদন অপসারণ
 delete-button-label = সব পরিষ্কার
 delete-confirm-title = আপনি কি নিশ্চিত?
-delete-confirm-description = এটি সব প্রতিবেদন মুছে দেবে এবং পরে আর ফেরত পাওয়া যাবে না।
+delete-unsubmitted-description = এটি জমা না দেওয়া সকল ক্রাশ রিপোর্ট মুছে ফেলবে এবং পূর্বাবস্থায় ফেরানো যাবে না।
+delete-submitted-description = এটি জমা দেওয়া ক্র্যাশ রিপোর্ট তালিকা মুছে ফেলবে কিন্তু জমা দেওয়া ডাটা মুছে ফেলবে না। এটা পূর্বাবস্থায় ফেরানো যাবে না।
 crashes-unsubmitted-label = জমা না দেয়া ক্র্যাশ প্রতিবেদনসমূহ
 id-heading = প্রতিবেদন আইডি
 date-crashed-heading = ক্র‍্যাশের তারিখ

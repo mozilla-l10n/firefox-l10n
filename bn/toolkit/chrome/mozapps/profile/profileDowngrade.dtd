@@ -9,6 +9,8 @@
  Firefox" and "version" is used to mean "the specific revision number of a
  given Firefox channel". These terms are not synonymous.
 -->
+<!ENTITY window.title "আপনি Firefox এর একটি পুরনো সংস্করণ চালু করেছেন">
+<!ENTITY window.style "width: 490px;">
 
 
 <!ENTITY window.create "নতুন প্রোফাইল তৈরি করুন">
