@@ -328,6 +328,10 @@ install-theme-button = Instalar tema
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Gerir
 find-more-addons = Encontrar mais extras
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Mais opções
 
 ## Add-on actions
 
@@ -406,6 +410,11 @@ addon-detail-private-browsing-disallow = Não permitir
 addon-badge-recommended =
     .title = Recomendada
     .alt = Recomendada
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = O { -brand-product-name } recomenda apenas as extensões que cumpram aos nossos padrões para segurança e desempenho.
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Atualizações disponíveis
 recent-updates-heading = Atualizações recentes
 release-notes-loading = A carregar…
