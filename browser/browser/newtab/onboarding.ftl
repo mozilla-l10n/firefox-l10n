@@ -21,6 +21,7 @@ onboarding-button-label-get-started = आरंभ करें
 onboarding-welcome-header = { -brand-short-name } में स्वागत है
 onboarding-welcome-body = आपको ब्राउज़र मिल गया है। <br/> बाकी { -brand-product-name } के बारे में जानें।
 onboarding-welcome-learn-more = लाभ के बारे में अधिक जानें।
+onboarding-welcome-form-header = यहां से शुरू करें
 onboarding-join-form-header = { -brand-product-name } से जुड़ें
 onboarding-join-form-body = प्रारंभ करने के लिए ईमेल का पता प्रविष्ट करें।
 onboarding-join-form-email =
@@ -28,10 +29,17 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = वैध ईमेल की ज़रूरत
 onboarding-join-form-legal = आगे बढ़ते हुए, आप <a data-l10n-name="terms"> सेवा की शर्तों </a> और <a data-l10n-name="privacy"> गोपनीयता सूचना </a> से सहमत होते हैं।
 onboarding-join-form-continue = जारी रखें
+# Text for link to submit the sign in form
+onboarding-join-form-signin = साइन इन
 onboarding-start-browsing-button-label = ब्राउज़िंग शुरू करें
 onboarding-cards-dismiss =
     .title = निरस्त करें
     .aria-label = निरस्त करें
+
+## Welcome full page string
+
+onboarding-fullpage-form-email =
+    .placeholder = आपका ईमेल पता…
 
 ## Firefox Sync modal dialog strings.
 

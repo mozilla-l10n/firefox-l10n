@@ -10,6 +10,15 @@ about-config-warning-button = मैं जोखिम स्वीकार �
 about-config2-title = उन्नत कॉन्फ़िगरेशन
 about-config-search-input =
     .placeholder = खोजें
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = सावधानी के साथ आगे बढ़ें
+about-config-intro-warning-checkbox = जब मैं इन सुविधाओं का उपयोग करने का प्रयास करूं तो मुझे चेतावनी दें
+about-config-intro-warning-button = जोखिम को स्वीकार करें और जारी रखें
+
+
+
 about-config-show-all = सभी दिखाएँ
 about-config-pref-add = जोड़ें
 about-config-pref-toggle = टागल करें

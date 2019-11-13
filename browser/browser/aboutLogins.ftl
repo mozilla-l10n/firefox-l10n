@@ -6,9 +6,14 @@ about-logins-page-title = लॉगिन और पासवर्ड
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-android =
+    .alt = इसे Google Play पर पायें
+login-app-promo-apple =
+    .alt = अप्प स्टोर पर डाउनलोड करें
 login-filter =
     .placeholder = लॉगिन खोजें
 create-login-button = नई लॉगिन बनाएँ
+fxaccounts-sign-in-text = अपने पासवर्ड को अपने अन्य उपकरणों पर प्राप्त करें
 fxaccounts-avatar-button =
     .title = खाता प्रबंधित करें
 
@@ -91,6 +96,8 @@ confirm-delete-dialog-confirm-button = मिटाएं
 
 ## Breach Alert notification
 
+breach-alert-dismiss =
+    .title = इस अलर्ट को बंद करें
 
 ## Error Messages
 

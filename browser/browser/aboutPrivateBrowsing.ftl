@@ -25,3 +25,5 @@ about-private-browsing =
 about-private-browsing-not-private = आप फिलहाल एक निजी विंडो में नहीं हैं.
 content-blocking-title = सामग्री अवरोधन
 content-blocking-description = कुछ वेबसाइटें ट्रैकर का उपयोग करती हैं जो इंटरनेट पर आपकी गतिविधि की निगरानी कर सकती हैं। निजी विंडो में { -brand-short-name } सामग्री अवरोधन स्वचालित रूप से कई ट्रैकरों को अवरुद्ध करता है जो आपके ब्राउज़िंग व्यवहार के बारे में जानकारी एकत्र कर सकते हैं।
+about-private-browsing-search-banner-close-button =
+    .aria-label = बंद करें
