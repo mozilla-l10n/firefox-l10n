@@ -70,12 +70,25 @@ manifest-loaded-ok = ম্যানিফেস্ট লোড হয়েছে
 # Text displayed as a caption when there has been an error while trying to
 # load the manifest
 manifest-loaded-error = ম্যানিফেস্টটি লোড করার সময় একটি ত্রুটি হয়েছিল:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Firefox DevTools ত্রুটি
 # Text displayed when the page has no manifest available
 manifest-non-existing = পরিদর্শন করার মতো কোনও ম্যানিফেস্ট পাওয়া যায় নি।
+# Text displayed when the page has a manifest embedded in a Data URL and
+# thus we cannot link to it.
+manifest-json-link-data-url = ম্যানিফেস্ট একটি ডাটা URL- এ বসানো হয়েছে।
+# Text displayed at manifest icons to label their purpose, as declared
+# in the manifest.
+manifest-icon-purpose = উদ্দেশ্য: <code>{ $purpose }</code>
 # Text displayed as the alt attribute for <img> tags showing the icons in the
 # manifest.
 manifest-icon-img =
     .alt = আইকন
+# Sidebar navigation item for Manifest sidebar item section
+sidebar-item-manifest = ম্যানিফেস্ট
+    .alt = ম্যানিফেস্ট আইকন
+    .title = ম্যানিফেস্ট
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = সতর্কতা আইকন
