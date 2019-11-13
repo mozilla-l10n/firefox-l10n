@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY replyToField4.label "Responder a">
+
+<!ENTITY inReplyToField4.label "In responsa a">
+
+<!ENTITY hdrSmartReplyButton1.label "Responsa intelligente">
+<!ENTITY hdrReplyButton1.label "Responder">
+<!ENTITY hdrReplyButton2.tooltip "Responder al expeditor de iste message">
+<!ENTITY hdrReplyAllButton1.label "Responder a totes">
+<!ENTITY hdrReplyAllButton1.tooltip "Responder al expeditor e a tote le destinatarios">
+<!ENTITY hdrReplyListButton1.label "Responder al lista">
+<!ENTITY hdrReplyListButton1.tooltip "Responder al lista de diffusion">
+
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Sempre monstrar Responder al expeditor">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
+
+
+<!-- Attachment bar context menu items -->
+
+<!-- Attachment context menu items -->
+
+
+
+<!-- Attachment toolbar items -->
+
+

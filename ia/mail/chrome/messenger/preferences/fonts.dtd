@@ -76,5 +76,5 @@
 
 <!ENTITY viewDefaultCharsetList.label     "Posta in arrivata:">
 <!ENTITY viewDefaultCharsetList.accesskey  "">
-<!ENTITY replyInDefaultCharset3.label     "Quando possibile usa, in replicas, le codification de texto predefinite">
+<!ENTITY replyInDefaultCharset3.label     "Quando possibile, usar le codification de texto predefinite in responsas">
 <!ENTITY replyInDefaultCharset3.accesskey "Q">
