@@ -95,6 +95,8 @@ cfr-doorhanger-sync-bookmarks-header = इस बुकमार्क को �
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-close-button = बंद करें
+    .accesskey = C
 
 ## Enhanced Tracking Protection Milestones
 
