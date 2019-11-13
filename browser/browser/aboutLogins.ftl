@@ -42,7 +42,9 @@ login-list-count =
 login-list-sort-label-text = इसके अनुसार:
 login-list-name-option = नाम (A-Z)
 login-list-last-changed-option = अंतिम परिवर्तन
+login-list-last-used-option = अंतिम प्रयुक्त
 login-list-intro-title = कोई लॉग इन नहीं मिला
+login-list-intro-description = जब आप { -brand-product-name } में पासवर्ड सहेजते हैं, तो वह यहाँ दिखाई देगा।
 about-logins-login-list-empty-search-title = कोई लॉगिन नहीं मिला
 login-list-item-title-new-login = नया लॉगिन
 login-list-item-subtitle-new-login = अपनी लॉगिन जानकारी दर्ज करें
@@ -59,6 +61,8 @@ login-item-origin-label = वेबसाइट का पता
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = उपयोक्ता नाम
+about-logins-login-item-username =
+    .placeholder = (कोई उपयोक्तानाम नहीं)
 login-item-copy-username-button-text = कॉपी करें
 login-item-copied-username-button-text = कॉपी हो गया!
 login-item-password-label = पासवर्ड
@@ -96,6 +100,7 @@ confirm-delete-dialog-confirm-button = मिटाएं
 
 ## Breach Alert notification
 
+breach-alert-link = इस उल्लंघन के बारे में और जानें।
 breach-alert-dismiss =
     .title = इस अलर्ट को बंद करें
 

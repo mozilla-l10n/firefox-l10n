@@ -29,6 +29,8 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = वैध ईमेल की ज़रूरत
 onboarding-join-form-legal = आगे बढ़ते हुए, आप <a data-l10n-name="terms"> सेवा की शर्तों </a> और <a data-l10n-name="privacy"> गोपनीयता सूचना </a> से सहमत होते हैं।
 onboarding-join-form-continue = जारी रखें
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = पहले से ही एक खाता है?
 # Text for link to submit the sign in form
 onboarding-join-form-signin = साइन इन
 onboarding-start-browsing-button-label = ब्राउज़िंग शुरू करें

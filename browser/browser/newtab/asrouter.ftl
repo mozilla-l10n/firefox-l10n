@@ -73,12 +73,16 @@ cfr-protections-panel-link-text = अधिक जानें
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = नई विशेषताएँ:
 cfr-whatsnew-button =
     .label = क्या नया है
     .tooltiptext = क्या नया है
 cfr-whatsnew-panel-header = क्या नया है
 cfr-whatsnew-tracking-protect-link-text = अपनी रिपोर्ट देखें
 cfr-whatsnew-tracking-blocked-link-text = रिपोर्ट देखें
+cfr-whatsnew-lockwise-take-link-text = एप्प प्राप्त करें
 
 ## Bookmark Sync
 
@@ -86,6 +90,7 @@ cfr-doorhanger-sync-bookmarks-header = इस बुकमार्क को �
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = पासवर्ड को फिर कभी न खोएं
 
 ## Send Tab
 

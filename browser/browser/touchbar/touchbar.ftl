@@ -18,3 +18,11 @@ reader-view = पाठक परिदृश्य
 open-location = खोजें या पता दर्ज करें
 share = साझा करें
 close-window = विंडो बंद करें
+
+## Various categories of shortcuts for search.
+
+search-opentabs = टैब खोलें
+search-tags = टैग
+
+
+
