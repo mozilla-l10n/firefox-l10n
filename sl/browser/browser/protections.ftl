@@ -25,12 +25,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Raven zaščite je nastavljena na <b>Običajno</b>
-protection-header-details-strict = Raven zaščite je nastavljena na <b>Strogo</b>
-protection-header-details-custom = Raven zaščite je nastavljena na <b>Po meri</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Raven zaščite je nastavljena na <b>Običajno</b>
     .title = Pojdi na nastavitve zasebnosti
 protection-report-header-details-strict = Raven zaščite je nastavljena na <b>Strogo</b>
@@ -41,6 +35,7 @@ protection-report-page-title = Zaščite zasebnosti
 protection-report-content-title = Zaščite zasebnosti
 etp-card-title = Izboljšana zaščita pred sledenjem
 etp-card-content = Sledilci vas spremljajo po spletu ter zbirajo podatke o vaših navadah in zanimanjih. { -brand-short-name } zavrača veliko teh sledilcev in drugih zlonamernih skriptov.
+protection-report-manage-protections = Upravljanje nastavitev
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Danes
@@ -60,7 +55,6 @@ lockwise-title = Nikoli več ne pozabite gesla
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } varno hrani vaša gesla v brskalniku.
 lockwise-header-content-logged-in = Varno hranite in sinhronizirajte svoja gesla na vseh napravah.
-about-logins-view-logins-button = Ogled prijav
 protection-report-view-logins-button = Ogled prijav
     .title = Pojdi na shranjene prijave
 lockwise-no-logins-content = Prenesite aplikacijo <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> in vzemite gesla s seboj.
@@ -134,10 +128,6 @@ password-warning =
         [few] Shranjene prijave so morda bile izpostavljene v kraji podatkov. Za večjo varnost na spletu spremenite gesla. <a data-l10n-name="lockwise-link">Ogled shranjenih prijav</a>
        *[other] Shranjenih prijav je morda bilo izpostavljenih v kraji podatkov. Za večjo varnost na spletu spremenite gesla. <a data-l10n-name="lockwise-link">Ogled shranjenih prijav</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Pojdi na nastavitve zasebnosti
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Pojdi na shranjene prijave
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
