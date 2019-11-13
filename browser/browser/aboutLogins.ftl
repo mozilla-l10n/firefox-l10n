@@ -76,6 +76,7 @@ login-intro-description = Ukoliko ste spremili svoje prijave na { -brand-product
 login-intro-instruction-fxa = Stvorite ili se prijavite u svoj { -fxaccount-brand-name } na uređaju gdje imate spremljene prijave.
 login-intro-instruction-fxa-settings = Provjerite da li ste odabrali kućicu pored Prijava u { -sync-brand-short-name } postavkama
 about-logins-intro-instruction-help = Posjeti <a data-l10n-name="help-link">{ -lockwise-brand-short-name } podršku</a> za dodatnu pomoć
+about-logins-intro-import = Ako su tvoje prijave spremljene u jednom drugom pregledniku, možeš ih <a data-l10n-name="import-link"> uvesti u { -lockwise-brand-short-name } </a>
 
 ## Login
 
@@ -111,11 +112,8 @@ master-password-reload-button =
     .label = Prijava
     .accesskey = r
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Otkaži
-confirmation-dialog-dismiss-button =
-    .title = Otkaži
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Želite li svoje prijave svugdje gdje koristite { -brand-product-name }? Idite u { -sync-brand-short-name } mogućnosti i odaberite kućicu pored Prijava.
@@ -128,6 +126,15 @@ enable-password-sync-preferences-button =
            *[other] Posjetite { -sync-brand-short-name } mogućnosti
         }
     .accesskey = m
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Ne pitaj me ponovo
+    .accesskey = N
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Otkaži
+confirmation-dialog-dismiss-button =
+    .title = Otkaži
 confirm-delete-dialog-title = Obriši ovu prijavu?
 confirm-delete-dialog-message = Ova radnja se neće moći poništiti.
 confirm-delete-dialog-confirm-button = Obriši
