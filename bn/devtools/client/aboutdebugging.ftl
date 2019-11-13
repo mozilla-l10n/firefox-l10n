@@ -80,6 +80,8 @@ about-debugging-refresh-usb-devices-button = ডিভাইস রিফ্র�
 
 # Title of the Setup page.
 about-debugging-setup-title = সেটআপ
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = আপনি যে সংযোগ পদ্ধতিতে ডিভাইসটি রিমোটলি ডিবাগ করতে চান তা কনফিগার করুন।
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = একটি ডিভাইস সংযুক্ত করুন
 # USB section of the Setup page
@@ -155,6 +157,9 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = প্রক্রিয়া
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = প্রোফাইল কর্মক্ষমতা
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -255,6 +260,9 @@ about-debugging-worker-status-registering = রেজিস্টার কর�
 # of a worker
 about-debugging-worker-push-service =
     .label = পুশ সার্ভিস
+# Displayed as title of the inspect button when service worker debugging is disabled.
+about-debugging-worker-inspect-action-disabled =
+    .title = Service Worker পরিদর্শন বর্তমানে { -brand-shorter-name } মাল্টিপ্রসেসের জন্য বন্ধ আছে
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-name = প্রধান প্রক্রিয়া
