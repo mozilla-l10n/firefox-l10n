@@ -33,6 +33,8 @@ protection-report-page-title = Zaštite privatnosti
 protection-report-content-title = Zaštite privatnosti
 etp-card-title = Poboljšana zaštita od praćenja
 etp-card-content = Programi za praćenje prate tvoje radnje prilikom pregledavanja interneta i služe za prikupljanje podataka o tvojim navikama i interesima. { -brand-short-name } blokira mnoge takve programe kao i druge zlonamjerne skripte.
+protection-report-etp-card-content-custom-not-blocking = Sve zaštite su trenutačno isključene. Upravljaj programima za praćenje koje želiš blokirati u { -brand-short-name } postavkama zaštite.
+protection-report-manage-protections = Upravljanje postavkama
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Danas
