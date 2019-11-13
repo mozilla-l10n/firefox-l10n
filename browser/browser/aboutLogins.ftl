@@ -75,6 +75,7 @@ login-intro-description = Sche ti has memorisà tias infurmaziuns d'annunzia en 
 login-intro-instruction-fxa = Acceda al u creescha in { -fxaccount-brand-name } cun l'apparat nua che las infurmaziuns d'annunzia èn memorisadas
 login-intro-instruction-fxa-settings = Controllescha che la chaschetta da controlla «Infurmaziuns d'annunzia» saja activada en las preferenzas da { -sync-brand-short-name }
 about-logins-intro-instruction-help = Per agid, visitar <a data-l10n-name="help-link">il support da { -lockwise-brand-short-name }</a>
+about-logins-intro-import = En cas che las infurmaziuns d'annunzia èn memorisadas en in auter navigatur èsi pussaivel da las <a data-l10n-name="import-link">importar en { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -110,11 +111,8 @@ master-password-reload-button =
     .label = Annunzia
     .accesskey = A
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Interrumper
-confirmation-dialog-dismiss-button =
-    .title = Interrumper
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Vuls ti avair a disposiziun tias infurmaziuns d'annunzia dapertut là nua che ti utiliseschas { -brand-product-name }? Acceda a las preferenzas da { -sync-brand-short-name } e tscherna la chaschetta da controlla «Infurmaziuns d'annunzia».
@@ -127,6 +125,15 @@ enable-password-sync-preferences-button =
            *[other] Avrir las preferenzas da { -sync-brand-short-name }
         }
     .accesskey = A
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Betg pli dumandar
+    .accesskey = B
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Interrumper
+confirmation-dialog-dismiss-button =
+    .title = Interrumper
 confirm-delete-dialog-title = Stizzar questas infurmaziuns d'annunzia?
 confirm-delete-dialog-message = Questa acziun na po betg vegnir revocada.
 confirm-delete-dialog-confirm-button = Stizzar
