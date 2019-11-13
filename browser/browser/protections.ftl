@@ -32,7 +32,7 @@ protection-report-content-title = Privatlivs-beskyttelse
 etp-card-title = Udvidet beskyttelse mod sporing
 etp-card-content = Sporings-tjenester følger dig rundt på nettet for at indsamle information om dine vaner og interesser. { -brand-short-name } blokerer mange af disse sporings-tjenester og andre ondsindede scripts.
 
-protection-report-etp-card-content-custom-not-blocking = Beskyttelse er i øjeblikket slået fra. Vælg hvilke sporings-tjenester, der skal blokeres, ved at ændre dine indstillinger for beskyttelse i { -brand-short-name }.
+protection-report-etp-card-content-custom-not-blocking = Beskyttelse er slået fra. Du kan vælge, hvilke sporings-tjenester der skal blokeres, i indstillingerne for beskyttelse i { -brand-short-name }.
 protection-report-manage-protections = Håndter indstillinger
 
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,

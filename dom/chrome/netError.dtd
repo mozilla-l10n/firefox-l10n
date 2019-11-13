@@ -88,7 +88,7 @@
 <!ENTITY cspBlocked.longDesc "<p>Browseren forhindrede denne side i at blive indlæst, da den har en indholdssikkerhedspolitik, der forbyder det.</p>">
 
 <!ENTITY xfoBlocked.title "Blokeret af politik for X-Frame-Options">
-<!ENTITY xfoBlocked.longDesc "<p>Browseren forhindrede denne side i at blive indlæst, fordi siden har en politik for X-Frame-Options policyder forbyder det.</p>">
+<!ENTITY xfoBlocked.longDesc "<p>Browseren forhindrede denne side i at blive indlæst, fordi siden har en politik for X-Frame-Options, der forbyder det.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Fejlbehæftet indhold">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Siden kan ikke vises, da der er fundet en fejl i overførslen af data.</p><ul><li>Kontakt ejerne af webstedet omkring dette problem.</li></ul>">
