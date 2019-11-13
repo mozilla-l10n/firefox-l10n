@@ -28,7 +28,7 @@ about-telemetry-histograms-section = Histogrami
 about-telemetry-keyed-histogram-section =   Histogrami s ključem
 about-telemetry-events-section = događaji
 about-telemetry-simple-measurements-section = Jednostavna mjerenja
-about-telemetry-slow-sql-section = Spori SQL upiti
+about-telemetry-slow-sql-section = Spore SQL izjave
 about-telemetry-addon-details-section = Detalji dodatka
 about-telemetry-captured-stacks-section = uhvaćeni stogovi
 about-telemetry-late-writes-section = Zakašnjela zapisivanja
@@ -104,11 +104,11 @@ about-telemetry-telemetry-ping-type-all = svi
 # button label to copy the histogram
 about-telemetry-histogram-copy = Kopiraj
 # these strings are used in the “Slow SQL Statements” section
-about-telemetry-slow-sql-main = Spori SQL upiti na glavnoj niti
-about-telemetry-slow-sql-other = Spori SQL upiti na pomoćnim nitima
+about-telemetry-slow-sql-main = Spore SQL izjave na glavnoj niti
+about-telemetry-slow-sql-other = Spore SQL izjave na pomoćnim nitima
 about-telemetry-slow-sql-hits = Pogoci
 about-telemetry-slow-sql-average = Pros. vrijeme (ms)
-about-telemetry-slow-sql-statement = Upit
+about-telemetry-slow-sql-statement = Izjava
 # these strings are used in the “Add-on Details” section
 about-telemetry-addon-table-id = ID dodatka
 about-telemetry-addon-table-details = Detalji
