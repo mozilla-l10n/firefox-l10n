@@ -9,6 +9,13 @@ appmenuitem-protection-report-title = Proteção de privacidade
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Ir ao seu relatório de privacidade
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Ampliar
+appmenuitem-zoom-reduce =
+    .label = Reduzir
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
