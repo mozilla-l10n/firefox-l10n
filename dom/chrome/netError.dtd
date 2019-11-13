@@ -76,6 +76,9 @@
 <!ENTITY cspBlocked.title "কন্টেন্ট নিরাপত্তা নীতিমালা দ্বারা ব্লক">
 <!ENTITY cspBlocked.longDesc "<p>ব্রাউজারটি এই ভাবে পাতাটি লোড করতে প্রতিরোধ করে কারন পাতাটির কন্টেন্ট নিরাপত্তা নীতিমালা এটিকে অনুমোদন দেয়না। </p>">
 
+<!ENTITY xfoBlocked.title "X-Frame-Options নীতি দ্বারা ব্লক করা হয়েছে">
+<!ENTITY xfoBlocked.longDesc "<p>ব্রাউজার এভাবে পাতাটি লোড করতে বাঁধা দিচ্ছে কারণ পাতাটির X-Frame-Options এটিকে অনুমোদন দেয় না।</p>">
+
 <!ENTITY corruptedContentErrorv2.title "ক্ষতিগ্রস্ত বিষয়বস্তুর ত্রুটি">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>উপাত্ত সম্প্রচারে ত্রুটি পাওয়া গেছে, তাই আপনি যে পাতাটি দেখতে চেষ্টা করছেন তা প্রদর্শন করা সম্ভব হয়নি।</p><ul><li>অনুগ্রহ করে এই সমস্যা সম্পর্কে ওয়েব-সাইট নির্মাতাদের অবগত করুন।</li></ul>">
 
@@ -90,3 +93,4 @@
 <!ENTITY blockedByPolicy.title "ব্লক করা পাতা">
 
 <!ENTITY networkProtocolError.title "নেটওয়ার্ক প্রটোকল ত্রুটি">
+<!ENTITY networkProtocolError.longDesc "<p>আপনি যে পাতাটি দেখতে চাচ্ছেন নেটওয়ার্ক প্রটোকলে একটি ত্রুটি হওয়ায় তা দেখানো সম্ভব হচ্ছে না।</p><ul><li>অনুগ্রহ করে এই সমস্যা জানিয়ে ওয়েবসাইটের মালিকের সাথে যোগাযোগ করুন।</li></ul>">
