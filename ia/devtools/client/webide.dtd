@@ -158,7 +158,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Si tu altere dispositivo demanda un token in vice de scander un codice QR, per favor copia le valor infra, al altere apparato:">
-<!ENTITY wifi_auth_qr_size_note "Si le codice QR sembtroppo parve pro stabilir le connexion correctemente, tenta approximar le zoom o aggrandir le fenestra.">
+<!ENTITY wifi_auth_qr_size_note "Si le codice QR sembla troppo parve pro stabilir le connexion correctemente, tenta facer zoom avante o aggrandir le fenestra.">
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Registros de commandos pre-impacchettage">
