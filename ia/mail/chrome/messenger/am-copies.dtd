@@ -4,7 +4,7 @@
 
 <!-- extracted from am-copies.xul -->
 
-<!ENTITY copyAndFolderTitle.label "Copias &amp; plicas">
+<!ENTITY copyAndFolderTitle.label "Copias e dossiers">
 <!ENTITY fccReplyFollowsParent.label "Placiar responsas in le dossier del message respondite">
 <!ENTITY fccReplyFollowsParent.accesskey "R">
 <!-- LOCALIZATION NOTE (ccAddress.label): do not translate "Cc" in below line -->

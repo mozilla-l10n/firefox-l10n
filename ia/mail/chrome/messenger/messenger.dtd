@@ -6,7 +6,7 @@
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
-<!ENTITY newFolderCmd.label "Plica…">
+<!ENTITY newFolderCmd.label "Dossier…">
 <!ENTITY newFolderCmd.accesskey "P">
 <!ENTITY closeTabCmd2.label "Clauder scheda">
 <!ENTITY closeTabCmd2.accesskey "C">
@@ -59,9 +59,9 @@
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
 <!ENTITY subscribeCmd.label "Subscriber…">
 <!ENTITY subscribeCmd.accesskey "b">
-<!ENTITY deleteFolder.label "Deler plica">
+<!ENTITY deleteFolder.label "Deler dossier">
 <!ENTITY deleteFolder.accesskey "e">
-<!ENTITY renameFolder.label "Renominar plica…">
+<!ENTITY renameFolder.label "Renominar dossier…">
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY emptyTrashCmd.label "Vacuar immunditia">
@@ -81,7 +81,7 @@
 <!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Deler message">
 <!ENTITY deleteMsgCmd.accesskey "D">
-<!ENTITY deleteFolderCmd.label "Deler le plica">
+<!ENTITY deleteFolderCmd.label "Deler dossier">
 <!ENTITY deleteFolderCmd.accesskey "D">
 <!ENTITY unsubscribeNewsgroupCmd.label "Cancellar le inscription">
 <!ENTITY unsubscribeNewsgroupCmd.accesskey "c">

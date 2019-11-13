@@ -5,7 +5,7 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Pro sparniar spatio del disco, non discargar:">
 <!ENTITY doNotDownloadNntp.label "Pro sparniar spatio del disco, non discargar pro uso offline:">
 <!ENTITY doNotDownloadImap.label "Pro sparniar spatio del disco, discargamento del messages ab le servitor e magazinage de copias local pro uso offline pote esser gerite per etate e dimension.">
-<!ENTITY allFoldersOffline2.label "Reservar in iste computator le messages de tote le plicas de iste conto">
+<!ENTITY allFoldersOffline2.label "Conservar le messages de tote le dossiers de iste conto sur iste computator">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY offlineNotDownload.label "Messages major de">
 <!ENTITY offlineNotDownload.accesskey "m">

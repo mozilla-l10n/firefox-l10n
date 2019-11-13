@@ -98,4 +98,4 @@
 <!ENTITY smtpServerNamePrefix.label "Nomine del servitor in exito (SMTP):">
 <!ENTITY downloadOnLogin.label "Discargar ora le messages">
 <!ENTITY downloadOnLogin.accesskey "D">
-<!ENTITY deferStorageDesc.label "Dismarca iste quadrato de selection pro reservar email pro iste conto in su proprie directorio. Assi iste conto apparera de maxime nivello. Alteremente, illo sera parte del conto Cassa de ingresso global del plicas local.">
+<!ENTITY deferStorageDesc.label "Dismarca iste quadrato pro immagazinar le posta de iste conto in su proprie directorio. Isto face le conto apparer como conto de nivello principal. Alteremente, illo facera parte del conto de cassa de entrata global in le dossiers local.">
