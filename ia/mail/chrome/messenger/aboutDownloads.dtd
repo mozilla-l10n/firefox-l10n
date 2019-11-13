@@ -9,7 +9,7 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.show.label                            "Aperir le plica que lo contine">
+<!ENTITY cmd.show.label                            "Aperir le dossier que lo contine">
 <!ENTITY cmd.show.accesskey                        "P">
 <!ENTITY cmd.showMac.label                         "Monstrar in Finder">
 <!ENTITY cmd.showMac.accesskey                     "F">

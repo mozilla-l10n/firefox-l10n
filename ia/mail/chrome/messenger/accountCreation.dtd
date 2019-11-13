@@ -34,7 +34,7 @@
 <!ENTITY usernameEx.text                 "Accesso al dominio">
 
 <!ENTITY protocol.label                  "Protocollo:">
-<!ENTITY imapLong.label                  "IMAP (plicas remote)">
+<!ENTITY imapLong.label                  "IMAP (dossiers remote)">
 <!ENTITY pop3Long.label                  "POP3 (mantene email sur tu computator)">
 
 <!ENTITY incoming.label                  "In entrata:">
