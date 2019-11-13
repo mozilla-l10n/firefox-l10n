@@ -106,11 +106,8 @@ master-password-reload-button =
     .label = Kirjaudu
     .accesskey = K
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Peruuta
-confirmation-dialog-dismiss-button =
-    .title = Peruuta
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Haluatko kirjautumistietosi mukaasi minne tahansa, kun käytät { -brand-product-name }ia? Siirry { -sync-brand-short-name }-asetuksiin ja rastita Kirjautumistiedot-valinta.
@@ -119,6 +116,15 @@ enable-password-sync-notification-message =
 enable-password-sync-preferences-button =
     .label = Siirry { -sync-brand-short-name }-asetuksiin
     .accesskey = S
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Älä kysy uudelleen
+    .accesskey = Ä
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Peruuta
+confirmation-dialog-dismiss-button =
+    .title = Peruuta
 confirm-delete-dialog-title = Poistetaanko tämä kirjautumistieto?
 confirm-delete-dialog-message = Tätä toimintoa ei voi perua.
 confirm-delete-dialog-confirm-button = Poista

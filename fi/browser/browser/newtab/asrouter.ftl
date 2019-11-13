@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = tekijältä { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Suositus
+cfr-doorhanger-extension-notification2 = Suositus
+    .tooltiptext = Laajennussuositus
+    .a11y-announcement = Laajennussuositus saatavilla
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Suositus
+    .tooltiptext = Ominaisuussuositus
+    .a11y-announcement = Ominaisuussuositus saatavilla
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -149,9 +157,13 @@ cfr-doorhanger-socialtracking-ok-button = Näytä suojaukset
     .accesskey = N
 cfr-doorhanger-socialtracking-close-button = Sulje
     .accesskey = S
+cfr-doorhanger-socialtracking-dont-show-again = Älä näytä tämän kaltaisia viestejä jatkossa
+    .accesskey = Ä
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } pysäytti sosiaalisen verkon seuraamasta sinua täällä
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } esti yksilöijän tällä sivulla
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } esti kryptolouhijan tällä sivulla
 
 ## Enhanced Tracking Protection Milestones
 
+cfr-doorhanger-milestone-ok-button = Näytä kaikki
+    .accesskey = N
