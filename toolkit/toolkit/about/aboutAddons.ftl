@@ -96,6 +96,8 @@ detail-private-browsing-label = ব্যক্তিগত উইন্ডো�
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = ব্যক্তিগত উইন্ডোতে অনুমোদিত নয়
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = ব্যক্তিগত উইন্ডোতে প্রবেশ প্রয়োজন
 detail-private-browsing-on =
     .label = অনুমতি দিন
     .tooltiptext = ব্যক্তিগত ব্রাউজিং সক্রিয় করুন
@@ -411,6 +413,8 @@ plugin-heading = আপনার প্লাগইন ব্যবস্থা�
 dictionary-heading = আপনার অভিধান ব্যবস্থাপনা
 locale-heading = আপনার ভাষা ব্যবস্থাপনা
 updates-heading = আপনার হালনাগাদ পরিচালনা করুন
+discover-heading = আপনার { -brand-short-name } নিজের মত করুন
+shortcuts-heading = এক্সটেনশন শর্টকাট পরিচালনা করুন
 theme-heading-search-label = আরও থিম খুঁজুন
 extension-heading-search-label = আরও এক্সটেনশন খুঁজুন
 addons-heading-search-input =
