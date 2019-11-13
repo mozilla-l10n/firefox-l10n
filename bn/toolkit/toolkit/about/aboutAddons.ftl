@@ -93,11 +93,16 @@ detail-update-manual =
     .tooltiptext = স্বয়ংক্রিয়ভাবে হালনাগাদ ইনস্টল করা হবে না
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = ব্যক্তিগত উইন্ডোতে রান করুন
+detail-private-browsing-description2 = অনুমতি দেয়া হলে, ব্যাক্তিগত ব্রাউজিং করার সময় এই এক্সটেনশন আপনার অনলাইন কর্মকান্ড সম্পর্কে জানতে পারে। <label data-l10n-name="detail-private-browsing-learn-more">আরও জানুন</a>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = ব্যক্তিগত উইন্ডোতে অনুমোদিত নয়
+detail-private-disallowed-description = ব্যক্তিগত ব্রাউজিং এর সময় এই এক্সটেনশন কাজ করবে না। <label data-l10n-name="detail-private-browsing-learn-more">আরো জানুন</label>
+detail-private-disallowed-description2 = ব্যক্তিগত ব্রাউজিং এর সময় এই এক্সটেনশন কাজ করবেনা।<a data-l10n-name="learn-more"> আরও জানুন </a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = ব্যক্তিগত উইন্ডোতে প্রবেশ প্রয়োজন
+detail-private-required-description = ব্যক্তিগত ব্রাউজিং করার সময় এই এক্সটেনশন আপনার অনলাইন কর্মকান্ড সম্পর্কে জানতে পারে। <label data-l10n-name="detail-private-browsing-learn-more">আরও জানুন </label>
+detail-private-required-description2 = ব্যক্তিগত ব্রাউজিং করার সময় এই এক্সটেনশন আপনার অনলাইন কর্মকান্ড সম্পর্কে জানতে পারে। <a data-l10n-name="learn-more"> আরও জানুন </a>
 detail-private-browsing-on =
     .label = অনুমতি দিন
     .tooltiptext = ব্যক্তিগত ব্রাউজিং সক্রিয় করুন
@@ -284,6 +289,11 @@ shortcuts-duplicate-warning-message = { $shortcut } একাধিক ক্ষ
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = { $addon } দ্বারা ইতিমধ্যে ব্যবহৃত
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] আরও { $numberToShow } দেখাও
+       *[other] আরও { $numberToShow } দেখাও
+    }
 shortcuts-card-collapse-button = কম দেখাও
 go-back-button =
     .tooltiptext = ফিরে যাও
@@ -395,9 +405,15 @@ addon-detail-private-browsing-disallow = অনুমতি দিও না
 addon-badge-recommended =
     .title = সুপারিশকৃত
     .alt = সুপারিশকৃত
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } কেবলমাত্র সেই সব এক্সটেনশনকে সুপারিশ করা হয় যা সুরক্ষা এবং কার্যক্ষমতার দিক দিয়ে আমাদের মানদণ্ড পূরণ করে
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = বিদ্যমান হালনাগাদ
 recent-updates-heading = সাম্প্রতিক হালনাগাদ
 release-notes-loading = লোডিং…
+release-notes-error = দুঃখিত, রিলিজ নোট লোড করার সময় ত্রুটি হয়েছিল।
 addon-permissions-empty = এই এক্সটেনশনের জন্য কোনো অনুমতির প্রয়োজন নেই
 recommended-extensions-heading = প্রস্তাবিত এক্সটেনশনগুলি
 recommended-themes-heading = প্রস্তাবিত থিমস
