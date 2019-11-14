@@ -77,7 +77,7 @@ manifest-icon-img =
 # Text displayed as the title attribute for <img> tags showing the icons in the
 # manifest. `$sizes` is a user-dependent string that has been parsed as a
 # space-separated list of `<width>x<height>` sizes or the keyword `any`.
-manifest-icon-img-title = Ikona s veličinama: { $size }
+manifest-icon-img-title = Ikona s veličinama: { $sizes }
 # Text displayed as the title attribute for <img> tags showing the icons in the
 # manifest, in case there's no icon size specified by the user
 manifest-icon-img-title-no-sizes = Ikona neodređene veličine
