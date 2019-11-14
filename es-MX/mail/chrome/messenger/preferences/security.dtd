@@ -21,9 +21,25 @@
 <!ENTITY enableAdaptiveJunkLogging.accesskey "E">
 <!ENTITY openJunkLog.label "Mostrar registro">
 <!ENTITY openJunkLog.accesskey "S">
+<!ENTITY resetTrainingData.label "Borrar entrenamiento">
+<!ENTITY resetTrainingData.accesskey "R">
 
 <!-- Phishing Detector -->
+<!ENTITY phishingDetector1.intro  "&brandShortName; puede analizar mensajes buscando correos sospechosos de fraude buscando las técnicas más conocidas con que puedan engañarlo.">
+<!ENTITY enablePhishingDetector1.label    "Decirme si el mensaje que estoy leyendo es sospechosos de fraude de correo">
+<!ENTITY enablePhishingDetector1.accesskey  "T">
+<!ENTITY useDownloadedList.label "Usar una lista descargada de correos fraudulentos">
+<!ENTITY useDownloadedList.accesskey "U">
 
 <!-- Passwords -->
+<!ENTITY savedPasswords.intro           "&brandShortName; puede recordar contraseñas para todas tus cuentas.">
+<!ENTITY useMasterPassword.label        "Usar una contraseña maestra">
+<!ENTITY useMasterPassword.accesskey    "U">
+<!ENTITY masterPassword.intro           "Una contraseña maestra protege todas tus contraseñas, pero debes ingresarla una vez por sesión.">
+<!ENTITY changeMasterPassword.label     "Cambiar contraseña maestra…">
+<!ENTITY changeMasterPassword.accesskey "C">
+<!ENTITY savedPasswords.label           "Contraseñas guardadas…">
+<!ENTITY savedPasswords.accesskey       "S">
 
 <!-- Anti Virus -->
+<!ENTITY antiVirus.accesskey  "A">
