@@ -82,10 +82,16 @@ about-debugging-refresh-usb-devices-button = ডিভাইস রিফ্র�
 about-debugging-setup-title = সেটআপ
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = আপনি যে সংযোগ পদ্ধতিতে ডিভাইসটি রিমোটলি ডিবাগ করতে চান তা কনফিগার করুন।
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox = ট্যাব, এক্সটেনশন এবং পরিষেবা কর্মীদের ডিবাগ করতে <a>{ about-debugging-this-firefox-runtime-name }</a> ব্যবহার করুন, { -brand-shorter-name }এই সংস্করণে।
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = এক্সটেনশন এবং পরিষেবা কর্মীদের ডিবাগ করতে <a>{ about-debugging-this-firefox-runtime-name }</a>ব্যবহার করুন, { -brand-shorter-name }এই সংস্করণে।
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = একটি ডিভাইস সংযুক্ত করুন
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = এটি সক্রিয় করার মাধ্যমে Andriod এর USB ডিবাগিং এর প্রয়োজনীয় কম্পোনেন্ট { -brand-shorter-name } ডাউনলোড হয়ে যুক্ত হবে।
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = USB ডিভাইস সক্রিয় করুন
