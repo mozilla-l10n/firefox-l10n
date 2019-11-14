@@ -92,7 +92,7 @@
 <!ENTITY selectThreadCmd.label "Filo">
 <!ENTITY selectThreadCmd.accesskey "F">
 <!ENTITY folderPropsCmd2.label "Proprietates">
-<!ENTITY folderPropsFolderCmd2.label "Proprietates del plica">
+<!ENTITY folderPropsFolderCmd2.label "Proprietates del dossier">
 <!ENTITY undoDefaultCmd.label "Disfacer">
 <!ENTITY undoDefaultCmd.accesskey "D">
 <!ENTITY redoDefaultCmd.label "Refacer">
@@ -107,7 +107,7 @@
 <!ENTITY messagePaneLayoutStyle.label "Disposition">
 <!ENTITY messagePaneLayoutStyle.accesskey "D">
 
-<!ENTITY folderView.label "Plicas">
+<!ENTITY folderView.label "Dossiers">
 <!ENTITY folderView.accesskey "P">
 <!ENTITY allFolders.label "Toto">
 <!ENTITY allFolders.accesskey "T">
