@@ -31,7 +31,7 @@
 <!ENTITY cmd.retry.label                  "Retentar">
 <!ENTITY cmd.goToDownloadPage.label       "Ir al pagina de discargamento">
 <!ENTITY cmd.goToDownloadPage.accesskey   "G">
-<!ENTITY cmd.copyDownloadLink.label       "Copiar le ligamine del download">
+<!ENTITY cmd.copyDownloadLink.label       "Copiar le ligamine de discargamento">
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "Remover del chronologia">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
