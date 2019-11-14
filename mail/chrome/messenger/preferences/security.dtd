@@ -3,8 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemJunk.label          "Papelera">
+<!ENTITY itemPhishing.label      "Fraudes de correo">
+<!ENTITY itemPasswords.label     "Contraseñas">
+<!ENTITY itemAntiVirus.label     "Antivirus">
 
 <!-- Junk Mail Controls -->
+<!ENTITY junkMail.intro "Configuración predeterminada de correo basura. Las configuraciones específicas de cada cuenta deben ser realizadas en configuración de cuentas.">
+<!ENTITY manualMark.label "Cuando marco mensajes como basura:">
+<!ENTITY manualMark.accesskey "W">
+<!ENTITY manualMarkModeMove.label "Moverlos a la carpeta de correo basura">
+<!ENTITY manualMarkModeMove.accesskey "o">
+<!ENTITY manualMarkModeDelete.label "Eliminarlos">
+<!ENTITY manualMarkModeDelete.accesskey "D">
+<!ENTITY markAsReadOnSpam.label "Marcar mensajes determinados para ser basura como leídos">
+<!ENTITY markAsReadOnSpam.accesskey "M">
+<!ENTITY enableAdaptiveJunkLogging.label "Habilitar el registro del filtro de basura adaptativo">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
+<!ENTITY openJunkLog.label "Mostrar registro">
+<!ENTITY openJunkLog.accesskey "S">
 
 <!-- Phishing Detector -->
 
