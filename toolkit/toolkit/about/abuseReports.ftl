@@ -59,8 +59,10 @@ abuse-report-messagebar-action-cancel = Přetorhnyć
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = Poškodźa mój ličak a daty
+abuse-report-damage-reason-v2 = Je mójličak wobškodźił abo moje daty wohrozył
 abuse-report-damage-example = Přikład: Zašćěpjena škódna softwara abo pokradnjene daty
 abuse-report-spam-reason = Wutworja spam abo wabjenje
+abuse-report-spam-reason-v2 = Wobsahuje spam abo zasadźuje njewitane wabjenje
 abuse-report-spam-example = Přikład: wabjenje na webstronach zasadźić
 abuse-report-settings-reason = Je moju pytawu, startowu stronu abo nowy rajtark změniło, bjez toho zo by mje informowało abo so mje prašało
 abuse-report-settings-reason-v2 = Je moju pytawu, startowu stronu abo nowy rajtark změniło, bjez toho zo by mje informowało abo so mje prašało
@@ -68,6 +70,7 @@ abuse-report-settings-suggestions = Prjedy hač rozšěrjenje zdźěliće, móž
 abuse-report-settings-suggestions-search = Změńće swoje standardne pytanske nastajenja
 abuse-report-settings-suggestions-homepage = Změńće swoju startowu stronu a nowy rajtark
 abuse-report-deceptive-reason = Twjerdźi něšto być, štož njeje
+abuse-report-deceptive-reason-v2 = Twjerdźi, zo to njeje
 abuse-report-deceptive-example = Přikład: Zamylace wopisanje abo zamylaca wobraznosć
 abuse-report-broken-reason-extension = Njefunguje, wobškodźa websydła abo spomala { -brand-product-name }
 abuse-report-broken-reason-theme = Njefunguje abo skóncuje zwobraznjenje wobhladowaka
@@ -80,5 +83,6 @@ abuse-report-policy-reason = Hidypołny, namócny abo ilegalny wobsah
 abuse-report-policy-reason-v2 = Wobsahuje hidypołny, namócny abo ilegalny wobsah
 abuse-report-policy-suggestions = Kedźbu: Problemy z awtorstwom a wikowanskim znamjenjom dyrbja so na druhe wašnje zdźělić. <a data-l10n-name="report-infringement-link">Sćěhujće tute instrukcije</a>, zo byšće problem zdźělił.
 abuse-report-unwanted-reason = Njejsym tute rozšěrjenje ženje chył a njemóžu jo wotbyć
+abuse-report-unwanted-reason-v2 = Njejsym to ženje chył a njewěm, kak móžu to wotbyć
 abuse-report-unwanted-example = Přikład: Nałoženje je jón bjez dowolnosće zainstalowało
 abuse-report-other-reason = Něšto druhe
