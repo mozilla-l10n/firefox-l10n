@@ -37,7 +37,7 @@
 <!ENTITY pkcs12.setpassword.reminder "Importante: Si tu oblida le contrasigno de tu copia de reserva del certificato, tu non potera restaurar iste copia de reserva plus tarde. Per favor guarda lo in un loco secur.">
 
 <!ENTITY chooseToken.title  "Dialogo de election de token">
-<!ENTITY chooseToken.message1 "Por favor elige un token.">
+<!ENTITY chooseToken.message1 "Per favor elige un token.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Generante un clave private">
