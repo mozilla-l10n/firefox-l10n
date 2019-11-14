@@ -19,6 +19,8 @@ about-config-intro-warning-button = जोखिम को स्वीकार
 
 
 
+about-config-search-input1 =
+    .placeholder = वरीयता नाम खोजें
 about-config-show-all = सभी दिखाएँ
 about-config-pref-add = जोड़ें
 about-config-pref-toggle = टागल करें

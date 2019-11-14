@@ -21,6 +21,8 @@ close-window = विंडो बंद करें
 
 ## Various categories of shortcuts for search.
 
+search-bookmarks = बुकमार्क्स
+search-history = इतिहास
 search-opentabs = टैब खोलें
 search-tags = टैग
 

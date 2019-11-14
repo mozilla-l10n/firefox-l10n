@@ -80,6 +80,7 @@ cfr-whatsnew-button =
     .label = क्या नया है
     .tooltiptext = क्या नया है
 cfr-whatsnew-panel-header = क्या नया है
+cfr-whatsnew-release-notes-link-text = रिलीज नोट्स पढ़ें
 cfr-whatsnew-tracking-protect-link-text = अपनी रिपोर्ट देखें
 cfr-whatsnew-tracking-blocked-link-text = रिपोर्ट देखें
 cfr-whatsnew-lockwise-take-link-text = एप्प प्राप्त करें

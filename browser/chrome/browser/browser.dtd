@@ -869,9 +869,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.showreport.label "रिपोर्ट दिखाएं">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "साइट काम नहीं कर रही?">
+<!ENTITY protections.siteNotWorkingView.title "साइट काम नहीं कर रही?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
@@ -935,6 +938,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookiesView.label "कुकीज़ और साइट आँकड़ा">
 
 
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 
 
