@@ -35,6 +35,7 @@ protection-report-page-title = Škity priwatnosće
 protection-report-content-title = Škity priwatnosće
 etp-card-title = Polěpšeny slědowanski škit
 etp-card-content = Přesćěhowaki wam online slěduja, zo bychu informacije wo wašich přehladowanskich zwučenosćach a zajimach hromadźili. { -brand-short-name } wjele z tutych přesćěhowakow a druhe złóstne skripty blokuje.
+protection-report-etp-card-content-custom-not-blocking = Wšě škity su tuchwilu wotpinjene. Wubjerće, kotre přesćěhówaki maja so přez rjadowanje wašich škitnych nastajenjow { -brand-short-name } blokować.
 protection-report-manage-protections = Nastajenja rjadować
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
