@@ -635,7 +635,7 @@ prefs-sync-now =
 
 ## The list of things currently syncing.
 
-sync-currently-syncing-heading = В момента се синхронизир тези елементи:
+sync-currently-syncing-heading = В момента се синхронизират следните елементи:
 sync-currently-syncing-bookmarks = Отметки
 sync-currently-syncing-history = История
 sync-currently-syncing-tabs = Отворени раздели
