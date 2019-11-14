@@ -86,8 +86,8 @@ devinfo-label =
     .label = Etiquetta
 devinfo-serialnum =
     .label = Numero serial
-fips-nonempty-password-required = Le modo FIPS necessita que tu ha definite un contrasigno maestro pro cata dispositivo de securitate. Per favor defini le contrasigno ante tentar activar le modo FIPS.
-unable-to-toggle-fips = Incapace de cambiar le modo FIPS pro le dispositivo de securitate. Il es recommendate que tu exi e reinitia iste application.
+fips-nonempty-password-required = Le modo FIPS exige que tu defini un contrasigno maestro pro cata dispositivo de securitate. Per favor defini le contrasigno ante de tentar activar le modo FIPS.
+unable-to-toggle-fips = Impossibile cambiar le modo FIPS pro le dispositivo de securitate. Es recommendate quitar e reinitiar iste application.
 load-pk11-module-file-picker-title = Eliger un apparato PKCS#11 pro cargar
 # Load Module Dialog
 load-module-help-empty-module-name =
