@@ -2,4 +2,4 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protections-panel-sendreportview-error = Есепті жіберу кезінде қате орын алды. Кейінірек қайталап көріңіз.
+pictureinpicture-player-title = Суреттегі сурет
