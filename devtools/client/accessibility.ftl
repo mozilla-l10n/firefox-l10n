@@ -50,3 +50,4 @@ accessibility-keyboard-issue-tabindex = Izbjegni koristiti <code>tabindex</code>
 accessibility-keyboard-issue-action = Interaktivni elementi se moraju moći aktivirati pomoću tipkovnice. <a>Saznaj više</a>
 accessibility-keyboard-issue-focusable = Interaktivni elementi se moraju moći fokusirati. <a>Saznaj više</a>
 accessibility-keyboard-issue-focus-visible = Elementu kojeg je moguće fokusirati možda nedostaje stil fokusiranja. <a>Saznaj više</a>
+accessibility-keyboard-issue-mouse-only = Elementi koje je moguće kliknuti, trebaju imati interaktivnu semantiku. <a>Saznaj više</a>
