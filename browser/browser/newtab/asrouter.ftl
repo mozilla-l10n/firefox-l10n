@@ -94,7 +94,9 @@ cfr-whatsnew-button =
     .tooltiptext = Новото в това издание
 cfr-whatsnew-panel-header = Какво е новото
 cfr-whatsnew-release-notes-link-text = Прочетете бележките към изданието
+cfr-whatsnew-fx70-title = { -brand-short-name } вече се бори по-отдадено за вашата поверителност
 cfr-whatsnew-tracking-protect-title = Защитете се от проследяване
+cfr-whatsnew-tracking-protect-link-text = Вижте отчета
 cfr-whatsnew-tracking-blocked-subtitle = От { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-lockwise-take-link-text = Вземете приложението
 
