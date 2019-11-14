@@ -50,7 +50,7 @@ serviceworker-worker-status = 狀態
 # be debugged and stopped.
 serviceworker-worker-status-running = 執行中
 # Service Worker status. A stopped service worker is registered but not currently active.
-serviceworker-worker-status-stopped = 已停止
+serviceworker-worker-status-stopped = 停止
 # Service Worker status. A registering service worker is not yet registered and cannot be
 # started or debugged.
 serviceworker-worker-status-registering = 註冊中
