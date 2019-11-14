@@ -32,8 +32,13 @@ cfr-doorhanger-extension-author = от { $name }
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Препоръка
 cfr-doorhanger-extension-notification2 = Препоръка
-    .tooltiptext = Препоръка за разширението
-    .a11y-announcement = Препоръката за разширението е достъпна
+    .tooltiptext = Препоръка за разширение
+    .a11y-announcement = Налична е препоръка за разширение
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Препоръка
+    .tooltiptext = Препоръка за възможност
+    .a11y-announcement = Налична е препоръка за възможност
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -76,6 +81,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Преглеждайте без да бъдете следени
+cfr-protections-panel-body = Пазете вашите данни само ваши. { -brand-short-name } ви предпазва от много от най-разпространените проследявания, които следват вашите действия онлайн.
 cfr-protections-panel-link-text = Научете повече
 
 ## What's New toolbar button and panel
@@ -108,6 +114,7 @@ cfr-whatsnew-lockwise-take-link-text = Вземете приложението
 
 cfr-doorhanger-socialtracking-close-button = Затваряне
     .accesskey = з
+cfr-doorhanger-socialtracking-description = Поверителността ви е от значение. { -brand-short-name } вече спира проследяванията от разпространените социални мрежи, ограничавайки събираните данни за действията ви в мрежата.
 
 ## Enhanced Tracking Protection Milestones
 
