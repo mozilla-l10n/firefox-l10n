@@ -45,9 +45,6 @@ newtab-topsites-save-button = Запазване
 newtab-topsites-preview-button = Преглед
 newtab-topsites-add-button = Добавяне
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Сигурни ли сте, че желаете да премахнете страницата навсякъде от историята?
@@ -83,14 +80,17 @@ newtab-menu-delete-history = Премахване
 newtab-menu-save-to-pocket = Запазване в { -pocket-brand-name }
 newtab-menu-delete-pocket = Изтриване от { -pocket-brand-name }
 newtab-menu-archive-pocket = Архивиране в { -pocket-brand-name }
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Готово
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Премахване на отметка
 # Bookmark is a verb here.
 newtab-menu-bookmark = Отметка
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -120,10 +120,6 @@ newtab-label-removed-bookmark = Отметката е премахната
 newtab-label-recommended = Тенденции
 newtab-label-saved = Запазено в { -pocket-brand-name }
 newtab-label-download = Изтеглено
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.

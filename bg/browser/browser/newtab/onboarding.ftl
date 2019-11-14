@@ -19,8 +19,12 @@ onboarding-button-label-get-started = Въведение
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Добре дошли във { -brand-short-name }
-onboarding-welcome-body = Разполагате с четеца.<br/>Запознайте се с останалото от { -brand-product-name }.
+onboarding-welcome-body = Разполагате с четеца.<br/>Запознайте се с останалото от { -brand-product-name }
 onboarding-welcome-learn-more = Научете повече за ползите.
+onboarding-welcome-modal-get-body = Разполагате с четеца.<br/>Сега се възползвайте максимално от { -brand-product-name }.
+onboarding-welcome-modal-privacy-body = Разполагате с четеца. Нека подобрим поверителността.
+onboarding-welcome-modal-family-learn-more = Научете повече за семейството от продукти на { -brand-product-name }.
+onboarding-welcome-form-header = Започнете оттук
 onboarding-join-form-header = Присъединете се към { -brand-product-name }
 onboarding-join-form-body = За начало въведете адреса на своята ел. поща.
 onboarding-join-form-email =
@@ -28,10 +32,19 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Необходим е валиден адрес на ел. поща
 onboarding-join-form-legal = Продължавайки, вие се съгласявате с <a data-l10n-name="terms">условията на услугата</a> и <a data-l10n-name="privacy">политиката за лични данни</a>.
 onboarding-join-form-continue = Продължаване
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Имате профил?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Впишете се
 onboarding-start-browsing-button-label = Започнете да разглеждате
 onboarding-cards-dismiss =
     .title = Отхвърляне
     .aria-label = Отхвърляне
+
+## Welcome full page string
+
+onboarding-fullpage-form-email =
+    .placeholder = Адрес на електронна поща
 
 ## Firefox Sync modal dialog strings.
 
@@ -63,6 +76,9 @@ onboarding-benefit-privacy-title = Истинска поверителност
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Всичко, което правим зачита нашето обещание за личните данни: Взимаме по-малко, Пазим го зорко. Без тайни.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 
@@ -89,7 +105,7 @@ onboarding-data-sync-title = Вземете своите настройки съ
 onboarding-data-sync-text2 = Синхронизирайте своите отметки, пароли и други навсякъде, където използвате { -brand-product-name }.
 onboarding-data-sync-button2 = Вписване в { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Бъдете уведомени при пробив на данни
-onboarding-firefox-monitor-button = Регистрирайте се за сигнали
+onboarding-firefox-monitor-button = Регистриране за сигнали
 onboarding-browse-privately-title = Разглеждайте поверително
 onboarding-browse-privately-button = Отваряне на поверителен прозорец
 onboarding-firefox-send-title = Дръжте споделените си файлове лични
