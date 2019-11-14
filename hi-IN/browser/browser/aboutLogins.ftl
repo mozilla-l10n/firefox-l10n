@@ -46,11 +46,14 @@ login-list-last-used-option = अंतिम प्रयुक्त
 login-list-intro-title = कोई लॉग इन नहीं मिला
 login-list-intro-description = जब आप { -brand-product-name } में पासवर्ड सहेजते हैं, तो वह यहाँ दिखाई देगा।
 about-logins-login-list-empty-search-title = कोई लॉगिन नहीं मिला
+about-logins-login-list-empty-search-description = आपकी खोज के अनुरूप कोई परिणाम नहीं मिला है।
 login-list-item-title-new-login = नया लॉगिन
 login-list-item-subtitle-new-login = अपनी लॉगिन जानकारी दर्ज करें
+login-list-item-subtitle-missing-username = (कोई उपयोगकर्ता नाम नहीं)
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-in = कोई संकलित लॉगिन नहीं मिला।
 
 ## Login
 
@@ -106,3 +109,5 @@ breach-alert-dismiss =
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = पासवर्ड सहेजने का प्रयास करते समय एक त्रुटि हुई।
