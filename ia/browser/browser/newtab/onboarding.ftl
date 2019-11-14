@@ -80,7 +80,7 @@ onboarding-benefit-privacy-title = Confidentialitate ver
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Tote lo que nos face honora nostre promissa sur tu datos personal: nos promitte de prender minus de tu datos, mantener los secur, e non guardar secretos pro te.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
-onboarding-benefit-sync-text = Porta tu marcapaginas, contrasignos, chronologia, etc. a tote le dispositivos ubi tu usa { -brand-product-name }.
+onboarding-benefit-sync-text = Porta tu marcapaginas, contrasignos, chronologia, etc. a tote le apparatos ubi tu usa { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Recipe un notification si tu informationes personal es exponite in un violation de datos cognoscite.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
@@ -109,7 +109,7 @@ onboarding-tracking-protection-text2 = { -brand-short-name } impedi al sitos web
 onboarding-tracking-protection-button2 = Como functiona illo
 onboarding-data-sync-title = Prende tu parametros con te
 # "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Synchronisa tu marcapaginas, contrasignos, etc. sur tote le dispositivos ubi tu usa { -brand-product-name }.
+onboarding-data-sync-text2 = Synchronisa tu marcapaginas, contrasignos, etc. sur tote le apparatos ubi tu usa { -brand-product-name }.
 onboarding-data-sync-button2 = Aperir session a { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Sta alerte al violationes de datos
 onboarding-firefox-monitor-text = { -monitor-brand-name } controla attentemente si tu email ha apparite in un violation de datos e te avisa si illo es implicate in un nove violation.

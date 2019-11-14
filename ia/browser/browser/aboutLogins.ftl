@@ -71,8 +71,8 @@ about-logins-list-item-breach-icon =
 
 login-intro-heading = Cerca tu le credentiales salvate? Configura { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-in = Nulle credentiales synchronisate trovate.
-login-intro-description = Si tu ha salvate tu credentiales in { -brand-product-name } sur un altere dispositivo, ecce como render los disponibile hic:
-login-intro-instruction-fxa = Crea o identifica te a tu { -fxaccount-brand-name } sur le dispositivo ubi tu credentiales es salvate
+login-intro-description = Si tu ha salvate tu credentiales in { -brand-product-name } sur un altere apparato, ecce como render los disponibile hic:
+login-intro-instruction-fxa = Crea o identifica te a tu { -fxaccount-brand-name } sur le apparato ubi tu credentiales es salvate
 login-intro-instruction-fxa-settings = Assecura te que le quadrato Credentiales es seligite in le parametros de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Visita le <a data-l10n-name="help-link">supporto pro { -lockwise-brand-short-name }</a> pro plus adjuta
 about-logins-intro-import = Si tu credentiales es salvate in un altere navigator, tu pote <a data-l10n-name="import-link">importar los in { -lockwise-brand-short-name }</a

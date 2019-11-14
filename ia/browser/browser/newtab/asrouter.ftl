@@ -72,7 +72,7 @@ cfr-doorhanger-pintab-animation-resume = Reprender
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-header = Synchronisa tu marcapaginas ubique.
-cfr-doorhanger-bookmark-fxa-body = Grande discoperta! Ora non restar sin iste marcapaginas sur tu dispositivos mobile. Comencia con un { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-body = Grande discoperta! Ora non restar sin iste marcapaginas sur tu apparatos mobile. Comencia con un { -fxaccount-brand-name }.
 cfr-doorhanger-bookmark-fxa-link-text = Synchronisar marcapaginas ora…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = Button Clauder
@@ -119,7 +119,7 @@ cfr-whatsnew-lockwise-take-link-text = Obtener le application
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Recipe iste marcapaginas sur tu telephono
-cfr-doorhanger-sync-bookmarks-body = Retene tu marcapaginas, contrasignos, chronologia, etc. sur tote le dispositivos connectite a tu conto { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-body = Retene tu marcapaginas, contrasignos, chronologia, etc. sur tote le apparatos connectite a tu conto { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Activar { -sync-brand-short-name }
     .accesskey = A
 
@@ -134,7 +134,7 @@ cfr-doorhanger-sync-logins-ok-button = Activa { -sync-brand-short-name }
 
 cfr-doorhanger-send-tab-header = Lege isto in viage
 cfr-doorhanger-send-tab-recipe-header = Porta iste recepta al cocina
-cfr-doorhanger-send-tab-body = Inviar Scheda te permitte compartir facilemente iste ligamine a tu telephono o altere dispositivos connectite a tu conto de { -brand-product-name }.
+cfr-doorhanger-send-tab-body = Inviar Scheda te permitte compartir facilemente iste ligamine a tu telephono o altere apparatos connectite a tu conto de { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Proba Inviar Scheda
     .accesskey = P
 
@@ -156,7 +156,7 @@ cfr-doorhanger-socialtracking-dont-show-again = Non plus monstrar me messages co
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } ha impedite que un rete social te tracia hic
 cfr-doorhanger-socialtracking-description = Tu vita private es importante. Ora { -brand-short-name } bloca traciatores de retes social commun, limitante le quantitate de datos que illos pote colliger sur tu activitates in linea.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } ha blocate un traciator de impression digital in iste pagina
-cfr-doorhanger-fingerprinters-description = Tu vita private es importante. { -brand-short-name } bloca ora le traciatores de impression digital que collige pecias de information unic sur tu dispositivo pro traciar te.
+cfr-doorhanger-fingerprinters-description = Tu vita private es importante. { -brand-short-name } bloca ora le traciatores de impression digital que collige pecias de information unic sur tu apparato pro traciar te.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } ha blocate un cryptominator in iste pagina
 cfr-doorhanger-cryptominers-description = Tu vita private es importante. Ora { -brand-short-name } bloca cryptominatores, que usa le ressources computational de tu systemas pro excavar moneta digital.
 

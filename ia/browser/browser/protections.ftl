@@ -70,8 +70,8 @@ manage-devices = Gerer apparatos
 #   $count (Number) - Number of devices connected with sync.
 lockwise-sync-status =
     { $count ->
-        [one] Synchronisation a { $count } altere dispositivo
-       *[other] Synchronisation a { $count } altere dispositivos
+        [one] Synchronisation a { $count } altere apparato
+       *[other] Synchronisation a { $count } altere apparatos
     }
 lockwise-sync-not-syncing-devices = Nulle synchronisation a altere apparatos
 monitor-title = Reguardar violationes de datos

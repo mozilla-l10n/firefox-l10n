@@ -180,7 +180,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.sendTab.description "Invia un scheda instantaneemente a qualcunque dispositivo in que tu ha aperite session.">
+<!ENTITY fxa.service.sendTab.description "Invia un scheda instantaneemente a qualcunque apparato in que tu ha aperite session.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -447,7 +447,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Desira tu vider le schedas de altere apparatos hic?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Aperir le preferentias de Sync">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Aperi session pro vider un lista de schedas de tu altere dispositivos.">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Aperi session pro vider un lista de schedas de tu altere apparatos.">
 <!ENTITY appMenuRemoteTabs.welcome.label "Vider un lista de schedas de tu altere apparatos.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Il necesse verificar tu conto.">
 <!ENTITY appMenuRemoteTabs.signin.label "Aperir session a Sync">
