@@ -622,6 +622,9 @@ sync-signedin-settings-desc = Valitse tiedot, jotka synkronoidaan niiden laittei
 
 prefs-syncing-on = Synkronointi: PÄÄLLÄ
 prefs-syncing-off = Synkronointi: POIS PÄÄLTÄ
+prefs-sync-setup =
+    .label = Määritä { -sync-brand-short-name }…
+    .accesskey = M
 prefs-sync-offer-setup-label = Synkronoi kirjanmerkit, historia, välilehdet, salasanat, lisäosat ja asetukset kaikkien laitteidesi välillä.
 prefs-sync-now =
     .labelnotsyncing = Synkronoi nyt
@@ -719,7 +722,11 @@ privacy-header = Selaimen tietosuoja
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Käyttäjätunnukset ja salasanat
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Ehdota sivustojen käyttäjätunnusten ja salasanojen tallentamista
     .accesskey = v
@@ -733,6 +740,7 @@ forms-breach-alerts =
     .label = Näytä hälytykset salasanoista sivustoille, jotka ovat kokeneet tietomurron
     .accesskey = h
 forms-breach-alerts-learn-more-link = Lue lisää
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Täytä automaattisesti käyttäjätunnukset ja salasanat
     .accesskey = T

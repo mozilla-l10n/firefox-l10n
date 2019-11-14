@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Suojaustasoksi on asetettu <b>tavallinen</b>
-protection-header-details-strict = Suojaustasoksi on asetettu <b>tiukka</b>
-protection-header-details-custom = Suojaustasoksi on asetettu <b>oma</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Suojaustasoksi on asetettu <b>tavallinen</b>
     .title = Siirry yksityisyysasetuksiin
 protection-report-header-details-strict = Suojaustasoksi on asetettu <b>tiukka</b>
@@ -37,6 +31,7 @@ protection-report-page-title = Yksityisyyden suojaukset
 protection-report-content-title = Yksityisyyden suojaukset
 etp-card-title = Tehostettu seurannan suojaus
 etp-card-content = Seuraimet seuraavat sinua verkossa ja keräävät tietoja selaustapoihisi ja kiinnostuksen kohteisiisi liittyen. { -brand-short-name } estää monet näistä seuraimista ja muita haitallisia komentosarjoja.
+protection-report-manage-protections = Hallitse asetuksia
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Tänään
@@ -56,7 +51,6 @@ lockwise-title = Lopeta salasanojen unohtaminen
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } tallentaa salasanasi turvallisesti selaimeesi.
 lockwise-header-content-logged-in = Tallenna salasanasi turvallisesti ja synkronoi ne eri laitteiden välillä.
-about-logins-view-logins-button = Näytä kirjautumistiedot
 protection-report-view-logins-button = Näytä kirjautumistiedot
     .title = Siirry tallennettuihin kirjautumistietoihin
 lockwise-no-logins-content = Hanki <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>-sovellus ja ota salasanat mukaasi minne menetkin.
@@ -118,10 +112,6 @@ password-warning =
         [one] Tallennettu kirjautumistieto saattaa olla paljastunut tietovuodossa. Vaihda tämä salasana parantaaksesi tietoturvaasi verkossa. <a data-l10n-name="lockwise-link">Näytä tallennetut kirjautumistiedot</a>
        *[other] Tallennettuja kirjautumistietoja saattaa olla paljastunut tietovuodossa. Vaihda nämä salasanat parantaaksesi tietoturvaasi verkossa. <a data-l10n-name="lockwise-link">Näytä tallennetut kirjautumistiedot</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Siirry yksityisyysasetuksiin
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Siirry tallennettuihin kirjautumistietoihin
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
