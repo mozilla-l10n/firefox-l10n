@@ -65,7 +65,7 @@
 <!ENTITY useService.label                "Usar un servicio in secunde plano pro installar le actualisationes">
 <!ENTITY useService.accesskey            "s">
 
-<!ENTITY updateCrossUserSettingWarning.description "Iste configuration sera applicate a tote le contos de Windows e profilos de &brandShortName; usante iste installation de &brandShortName;.">
+<!ENTITY updateCrossUserSettingWarning.description "Iste configuration se applicara a tote le contos de Windows e profilos de &brandShortName; que usa iste installation de &brandShortName;.">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Parametros…">
@@ -78,7 +78,7 @@
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace                       "Spatio de disco">
-<!ENTITY offlineCompactFolders.label     "Compactar tote le plicas quando se recupera plus de">
+<!ENTITY offlineCompactFolders.label     "Compactar tote le dossiers quando se recupera plus de">
 <!ENTITY offlineCompactFolders.accesskey "t">
 <!ENTITY offlineCompactFoldersMB.label   "MB total">
 
