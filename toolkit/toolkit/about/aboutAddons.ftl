@@ -448,6 +448,7 @@ theme-heading = Témák kezelése
 plugin-heading = Bővítmények kezelése
 dictionary-heading = Szótárak kezelése
 locale-heading = Nyelvek kezelése
+updates-heading = Frissítések kezelése
 discover-heading = A { -brand-short-name } testreszabása
 shortcuts-heading = Kiegészítő-gyorsbillentyűk kezelése
 theme-heading-search-label = További témák keresése
