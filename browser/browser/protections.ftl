@@ -31,6 +31,8 @@ protection-report-page-title = Privacybeskermingen
 protection-report-content-title = Privacybeskermingen
 etp-card-title = Ferbettere beskerming tsjin folgjen
 etp-card-content = Trackers folgje jo online om gegevens oer jo sneupgedrach en ynteresses te sammeljen. { -brand-short-name } blokkearret in protte fan dizze trackers en oare kweawollende scripts.
+protection-report-etp-card-content-custom-not-blocking = Alle beskermingen binne op it stuit útskeakele. Kies hokker trackers jo blokkearje wolle troch jo { -brand-short-name } beskermingsynstellingen te behearen.
+protection-report-manage-protections = Ynstellingen beheare
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Hjoed
