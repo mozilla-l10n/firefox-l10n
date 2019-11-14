@@ -282,6 +282,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Използване на { $plugin-name } (в { -brand-short-name })
@@ -459,7 +463,6 @@ choose-bookmark =
 
 home-prefs-content-header = Начална страница на Firefox
 home-prefs-content-description = Изберете съдържанието, което искате да виждате на началната страница на Firefox.
-home-prefs-content-discovery-description = Откриването на съдържание от началната страница на Firefox ви позволява да откривате висококачествени и подходящи статии от мрежата.
 home-prefs-search-header =
     .label = Търсене в Мрежата
 home-prefs-topsites-header =
@@ -507,6 +510,11 @@ search-bar-shown =
     .label = Добавяне на лента за търсене в лентата с инструменти
 search-engine-default-header = Стандартна търсеща машина
 search-engine-default-desc = Изберете търсеща машина, която да използвате от адресната лента и лентата за търсене.
+search-engine-default-desc-2 = Това е вашата търсачка по подразбиране в адресната лента и в лентата за търсене. Можете да я променяте по всяко време.
+search-engine-default-private-desc-2 = Изберете друга търсачка по подразбиране само при поверително разглеждане
+search-separate-default-engine =
+    .label = Използвайте тази търсачка при поверително разглеждане
+    .accesskey = И
 search-suggestions-header = Предложения при търсене
 search-suggestions-desc = Изберете как да се показват предложенията от търсещи машини.
 search-suggestions-option =
@@ -522,6 +530,8 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Показване на подсказките преди резултатите от историята при търсене от адресната лента
+search-show-suggestions-private-windows =
+    .label = Показване на предложенията за търсене при поверително разглеждане
 suggestions-addressbar-settings = Променете настройките за история на разглеждане, отметки и предлагане на раздели
 search-suggestions-cant-show = Предложения при търсене в резултатите на адресната лента няма да бъдат показвани, защото { -brand-short-name } е настроен да не запазва историята на разглеждане.
 search-one-click-header = Търсене с едно щракване
@@ -711,7 +721,11 @@ privacy-header = Поверителност на четеца
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Регистрации и пароли
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Питане при запазване имена и пароли за вход в страниците
     .accesskey = т
@@ -725,6 +739,7 @@ forms-breach-alerts =
     .label = Показване на известия за изтекли пароли от разбити страници
     .accesskey = и
 forms-breach-alerts-learn-more-link = Научете повече
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Автоматично попълване на регистрации и пароли
     .accesskey = р

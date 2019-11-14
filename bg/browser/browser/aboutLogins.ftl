@@ -69,6 +69,10 @@ about-logins-list-item-breach-icon =
 
 ## Introduction screen
 
+login-intro-heading = Търсите запазените си данни за вход? Настройте { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = Не са намерени синхронизирани регистрации.
+about-logins-intro-instruction-help = Посетете <a data-l10n-name="help-link">Поддръжка за { -lockwise-brand-short-name }</a> за повече помощ.
+about-logins-intro-import = Ако вашите регистрации са запазени в друг мрежов четец, можете да ги <a data-l10n-name="import-link">внесете във { -lockwise-brand-short-name }</a>.
 
 ## Login
 
@@ -95,6 +99,9 @@ login-item-save-new-button = Запазване
 login-item-cancel-button = Отказ
 
 ## Master Password notification
+
+
+## Password Sync notification
 
 
 ## Dialogs

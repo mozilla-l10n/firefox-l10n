@@ -31,6 +31,9 @@ cfr-doorhanger-extension-author = от { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Препоръка
+cfr-doorhanger-extension-notification2 = Препоръка
+    .tooltiptext = Препоръка за разширението
+    .a11y-announcement = Препоръката за разширението е достъпна
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -81,6 +84,10 @@ cfr-whatsnew-button =
     .label = Какво е новото
     .tooltiptext = Новото в това издание
 cfr-whatsnew-panel-header = Какво е новото
+cfr-whatsnew-release-notes-link-text = Прочетете бележките към изданието
+cfr-whatsnew-tracking-protect-title = Защитете се от проследяване
+cfr-whatsnew-tracking-blocked-subtitle = От { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-lockwise-take-link-text = Вземете приложението
 
 ## Bookmark Sync
 
@@ -98,3 +105,6 @@ cfr-whatsnew-panel-header = Какво е новото
 
 cfr-doorhanger-socialtracking-close-button = Затваряне
     .accesskey = з
+
+## Enhanced Tracking Protection Milestones
+
