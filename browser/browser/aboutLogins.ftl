@@ -97,19 +97,35 @@ login-item-copied-password-button-text = Копирано!
 login-item-save-changes-button = Запазване
 login-item-save-new-button = Запазване
 login-item-cancel-button = Отказ
+login-item-time-changed = Последна промяна: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Създадване: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Последна употреба: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## Master Password notification
 
 
 ## Password Sync notification
 
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Настройки на { -sync-brand-short-name }
+           *[other] Настройки на { -sync-brand-short-name }
+        }
+    .accesskey = т
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Спиране на този въпрос
+    .accesskey = п
 
 ## Dialogs
 
 confirmation-dialog-cancel-button = Отказ
 confirmation-dialog-dismiss-button =
     .title = Отказ
+confirm-delete-dialog-title = Изтриване на регистрацията?
+confirm-delete-dialog-message = Действието е необратимо.
 confirm-delete-dialog-confirm-button = Изтриване
+confirm-discard-changes-dialog-title = Отказвате се от промените?
 confirm-discard-changes-dialog-message = Незапазените промени ще бъдат изгубени.
 confirm-discard-changes-dialog-confirm-button = Отхвърляне
 
