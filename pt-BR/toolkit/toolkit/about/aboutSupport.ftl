@@ -39,8 +39,8 @@ app-basics-update-channel = Canal de atualização
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] Diretório de atualizações
-       *[other] Pasta de atualizações
+        [linux] Diretório de atualização
+       *[other] Pasta de atualização
     }
 app-basics-update-history = Histórico de atualizações
 app-basics-show-update-history = Mostrar histórico de atualizações
@@ -141,7 +141,7 @@ media-capabilities-enumerate = Enumeração de banco de dados
 
 
 
-intl-title = Internacionalização & Localização
+intl-title = Internacionalização e localização
 intl-app-title = Configurações do aplicativo
 intl-locales-requested = Idiomas solicitados
 intl-locales-available = Idiomas disponíveis
