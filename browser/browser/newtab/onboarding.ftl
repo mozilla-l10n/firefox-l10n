@@ -44,6 +44,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Tutkitaanpa mitä kaikkea voit tehdä.
 onboarding-fullpage-form-email =
     .placeholder = Sähköpostiosoitteesi…
 
