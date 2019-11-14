@@ -74,8 +74,8 @@
 <!ENTITY projectPanel_myProjects "Mi projectos">
 <!ENTITY projectPanel_runtimeApps "Applicationes del ambiente">
 <!ENTITY projectPanel_tabs "Schedas">
-<!ENTITY runtimePanel_usb "Dispositivos USB">
-<!ENTITY runtimePanel_wifi "Dispositivos Wi-Fi">
+<!ENTITY runtimePanel_usb "Apparatos USB">
+<!ENTITY runtimePanel_wifi "Apparatos Wi-Fi">
 <!ENTITY runtimePanel_other "Alteres">
 <!ENTITY runtimePanel_nousbdevice "Impossibile vider tu apparato?">
 <!ENTITY runtimePanel_refreshDevices_label "Actualisar le apparatos">
@@ -148,7 +148,7 @@
 <!ENTITY wifi_auth_header "Identification del cliente">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
-<!ENTITY wifi_auth_scan_request "Le puncto terminal al qual tu tenta connecter te necessita altere informationes pro identificar le connexion.  Per favor scande le codice QR infra via le linea de commando in tu altere apparato.">
+<!ENTITY wifi_auth_scan_request "Le puncto terminal al qual tu tenta connecter te require plus information pro authenticar le connexion. Per favor scanna le codice QR sequente via le requesta monstrate sur tu altere apparato.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
 <!ENTITY wifi_auth_no_scanner "Nulle suggestion de scanner QR?">
@@ -157,7 +157,7 @@
 <!ENTITY wifi_auth_yes_scanner "Ha un suggestion de scanner QR?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
-<!ENTITY wifi_auth_token_request "Si tu altere dispositivo demanda un token in vice de scander un codice QR, per favor copia le valor infra, al altere apparato:">
+<!ENTITY wifi_auth_token_request "Si tu altere apparato demanda un token in vice de scannar un codice QR, per favor insere le valor sequente sur le altere apparato:">
 <!ENTITY wifi_auth_qr_size_note "Si le codice QR sembla troppo parve pro stabilir le connexion correctemente, tenta facer zoom avante o aggrandir le fenestra.">
 
 <!-- Logs panel -->
