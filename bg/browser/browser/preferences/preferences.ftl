@@ -648,6 +648,9 @@ sync-currently-syncing-prefs =
         [windows] Настройки
        *[other] Настройки
     }
+sync-change-options =
+    .label = Променяне…
+    .accesskey = П
 
 ## The "Choose what to sync" dialog.
 
@@ -861,6 +864,7 @@ addressbar-suggestions-settings = Настройки на предложения
 content-blocking-header = Ограничаване на съдържание
 content-blocking-section-description = Защитете личните си данни, докато разглеждате. Ограничете невидимото съдържание, което следи посещаваните от вас страници и ви профилира. Спирането на част от това съдържание може да подобри зареждането на страниците.
 content-blocking-enhanced-tracking-protection = Разширена защита от проследяване
+content-blocking-section-top-level-description = Проследяванията ви следват онлайн, за да събират информация за навиците и интересите ви при разглеждане. { -brand-short-name } спира много от тях, както и други злонамерени скриптове.
 content-blocking-learn-more = Научете повече
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
