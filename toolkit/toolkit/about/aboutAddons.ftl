@@ -451,6 +451,7 @@ theme-heading = Jo tema’s beheare
 plugin-heading = Jo ynstekkers beheare
 dictionary-heading = Jo wurdboeken beheare
 locale-heading = Jo talen beheare
+updates-heading = Jo fernijingen beheare
 discover-heading = Personalisearje jo { -brand-short-name }
 shortcuts-heading = Utwreidingsfluchtoetsen beheare
 theme-heading-search-label = Mear tema’s sykje
