@@ -461,7 +461,7 @@ home-prefs-search-header =
     .label = Internetsuche
 home-prefs-topsites-header =
     .label = Wichtige Seiten
-home-prefs-topsites-description = Die von die Ihnen am meisten besuchten Websites
+home-prefs-topsites-description = Die von Ihnen am meisten besuchten Websites
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
