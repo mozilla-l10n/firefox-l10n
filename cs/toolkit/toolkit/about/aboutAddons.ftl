@@ -441,6 +441,7 @@ theme-heading = Správa vzhledů
 plugin-heading = Správa zásuvných modulů
 dictionary-heading = Správa slovníků
 locale-heading = Správa jazyků
+updates-heading = Správa aktualizací
 discover-heading = Přizpůsobte si aplikaci { -brand-short-name }
 shortcuts-heading = Správa klávesových zkratek pro rozšíření
 theme-heading-search-label = Najít další vzhledy

@@ -57,22 +57,29 @@ abuse-report-messagebar-action-cancel = Zrušit
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = Poškození počítače nebo dat
+abuse-report-damage-reason-v2 = Poškozuje můj počítač nebo data
 abuse-report-damage-example = Příklad: malware či krádež dat
 abuse-report-spam-reason = Spam nebo reklamy
+abuse-report-spam-reason-v2 = Obsahuje spam nebo vkládá nevyžádané reklamy
 abuse-report-spam-example = Příklad: vkládání reklam do webových stránek
 abuse-report-settings-reason = Změna vyhledávače, domovské stránky nebo nového panelu bez předchozího varování
+abuse-report-settings-reason-v2 = Mění nastavení vyhledávače, domovské stránky nebo nového panelu bez předchozího dotazu
 abuse-report-settings-suggestions = Před nahlášením tohoto rozšíření prosím zkontrolujte tato nastavení:
 abuse-report-settings-suggestions-search = nastavení výchozího vyhledávače
 abuse-report-settings-suggestions-homepage = nastavení domovské stránky a nového panelu
 abuse-report-deceptive-reason = Vydává se za něco jiného
+abuse-report-deceptive-reason-v2 = Vydává se za něco jiného
 abuse-report-deceptive-example = Příklad: zavádějící popis nebo náhledy
 abuse-report-broken-reason-extension = Nefunkční, rozbité webové stránky nebo zpomalení aplikace { -brand-product-name }
 abuse-report-broken-reason-theme = Nefunkční nebo rozbité rozhraní prohlížeče
+abuse-report-broken-reason-theme-v2 = Nefunguje nebo robíjí rozhraní prohlížeče
 abuse-report-broken-example = Příklad: funkce je pomalá, špatně se používá, vůbec nefunguje, nebo omezuje funkčnost a zobrazení webových stránek
 abuse-report-broken-suggestions-extension = Zdá se, že jste objevili chybu. Kromě odeslání hlášení nám v řešení problému pomůže, pokud kontaktujete i autora rozšíření. <a data-l10n-name="support-link">Navštivte stránky rozšíření</a>, kde na autora najdete kontakt.
 abuse-report-broken-suggestions-theme = Zdá se, že jste objevili chybu. Kromě odeslání hlášení nám v řešení problému pomůže, pokud kontaktujete i autora vzhledu. <a data-l10n-name="support-link">Navštivte stránky vzhledu</a>, kde na autora najdete kontakt.
 abuse-report-policy-reason = Nenávistný, násilný nebo nelegální obsah
+abuse-report-policy-reason-v2 = Obsahuje nenávistný, násilný nebo nelegální obsah
 abuse-report-policy-suggestions = Poznámka: Problémy s autorskými právy prosím hlaste podle <a data-l10n-name="report-infringement-link">tohoto návodu</a>.
 abuse-report-unwanted-reason = Nevyžádané rozšíření, které nejde odebrat
+abuse-report-unwanted-reason-v2 = Toto rozšíření jsem nechtěl(a) instalovat a nevím, jak ho odebrat
 abuse-report-unwanted-example = Příklad: nainstalováno cizí aplikací bez vašeho svolení
 abuse-report-other-reason = Něco jiného
