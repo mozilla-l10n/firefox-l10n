@@ -352,7 +352,7 @@ update-pref-write-failure-message = Errore durante il salvataggio della preferen
 update-setting-write-failure-title = Errore durante il salvataggio delle preferenze
 update-setting-write-failure-message =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le preferenze è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-    
+
     Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
 update-in-progress-message = Consentire a { -brand-short-name } di completare l’aggiornamento?
@@ -577,6 +577,9 @@ sync-signedout-account-create = Non hai ancora un account? Scopri come crearne u
 sync-signedout-account-signin =
     .label = Accedi…
     .accesskey = d
+sync-signedout-account-signin2 =
+    .label = Accedi a { -sync-brand-short-name }…
+    .accesskey = d    
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
