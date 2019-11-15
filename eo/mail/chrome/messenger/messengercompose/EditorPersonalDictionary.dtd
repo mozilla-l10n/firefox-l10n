@@ -12,5 +12,7 @@
 <!ENTITY DictionaryList.label "Vortoj en vortaro:">
 <!ENTITY DictionaryList.accessKey "V">
 <!ENTITY RemoveButton.label "Forigi">
+<!ENTITY RemoveButton.accessKey "F">
 
 <!ENTITY CloseButton.label "Fermi">
+<!ENTITY CloseButton.accessKey "i">
