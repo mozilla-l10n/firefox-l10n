@@ -12,7 +12,7 @@ cfr-doorhanger-pintab-heading = Prøv dette: Fest fana
 
 
 cfr-doorhanger-extension-sumo-link =
-    .tooltiptext = Kvifor ser eg dette?
+    .tooltiptext = Kvifor ser eg dette
 cfr-doorhanger-extension-cancel-button = Ikkje no
     .accesskey = n
 cfr-doorhanger-extension-ok-button = Legg til no
