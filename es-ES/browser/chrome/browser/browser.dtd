@@ -276,7 +276,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administrar uso de software DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Abrir el panel MIDI">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Ha concedido persmisos adicionales a este sitio web.">
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ha concedido permisos adicionales a este sitio web.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ha bloqueado su cámara para este sitio web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ha bloqueado su micrófono para este sitio web.">
@@ -290,6 +290,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ha bloqueado que este sitio web utilice el plugin de Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Ha bloqueado el acceso al MIDI para este sitio web.">
 <!ENTITY urlbar.installBlocked.tooltip           "Ha bloqueado la instalación de complementos para este sitio web.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
 
