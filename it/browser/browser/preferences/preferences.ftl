@@ -14,6 +14,11 @@ pref-page =
             [windows] Opzioni
            *[other] Preferenze
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Opzioni
+       *[other] Preferenze
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -347,7 +352,7 @@ update-pref-write-failure-message = Errore durante il salvataggio della preferen
 update-setting-write-failure-title = Errore durante il salvataggio delle preferenze
 update-setting-write-failure-message =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le preferenze è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-
+    
     Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
 update-in-progress-message = Consentire a { -brand-short-name } di completare l’aggiornamento?
@@ -506,17 +511,14 @@ search-engine-default-private-desc-2 = Scegli un altro motore di ricerca da util
 search-separate-default-engine =
     .label = Utilizza questo motore di ricerca nelle finestre anonime
     .accesskey = U
-
 search-suggestions-header = Suggerimenti di ricerca
 search-suggestions-desc = Scegli come visualizzare i suggerimenti dai motori di ricerca.
-
 search-suggestions-option =
     .label = Visualizza suggerimenti di ricerca
     .accesskey = V
 search-show-suggestions-url-bar-option =
     .label = Visualizza suggerimenti di ricerca tra i risultati della barra degli indirizzi
     .accesskey = i
-suggestions-addressbar-settings = Modifica le impostazioni dei suggerimenti per cronologia di navigazione, segnalibri e schede
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -526,6 +528,7 @@ search-show-suggestions-above-history-option =
     .label = Visualizza suggerimenti di ricerca prima della cronologia nei risultati della barra degli indirizzi
 search-show-suggestions-private-windows =
     .label = Visualizza suggerimenti di ricerca nelle finestre anonime
+suggestions-addressbar-settings = Modifica le impostazioni dei suggerimenti per cronologia di navigazione, segnalibri e schede
 search-suggestions-cant-show = I suggerimenti di ricerca non verranno visualizzati tra i risultati della barra degli indirizzi in quanto { -brand-short-name } è configurato per non salvare la cronologia.
 search-one-click-header = Motori di ricerca in un clic
 search-one-click-desc = Scegli i motori di ricerca alternativi che appaiono nella barra degli indirizzi e nella barra di ricerca quando si inizia a digitare una parola chiave.
@@ -562,6 +565,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Il tuo Web, sempre con te
 sync-signedout-description = Sincronizza segnalibri, cronologia, schede, password, componenti aggiuntivi e impostazioni attraverso tutti i tuoi dispositivi.
 sync-signedout-account-title = Connetti il tuo { -fxaccount-brand-name }
@@ -581,6 +588,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Scarica Firefox per <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> per sincronizzare con cellulari e tablet.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Cambia l’immagine del profilo
@@ -622,7 +632,6 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-heading = I seguenti elementi vengono attualmente sincronizzati:
-
 sync-currently-syncing-bookmarks = Segnalibri
 sync-currently-syncing-history = Cronologia
 sync-currently-syncing-tabs = Schede aperte
@@ -648,7 +657,6 @@ sync-choose-what-to-sync-dialog =
     .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Disconnetti…
     .buttonaccesskeyextra2 = D
-
 sync-engine-bookmarks =
     .label = Segnalibri
     .accesskey = e
@@ -659,12 +667,12 @@ sync-engine-tabs =
     .label = Schede aperte
     .tooltiptext = Elementi aperti nei dispositivi sincronizzati
     .accesskey = h
-sync-engine-logins-passwords =
-    .label = Credenziali e password
-    .tooltiptext = Nomi utente e password salvati
-    .accesskey = i
 sync-engine-logins =
     .label = Credenziali
+    .tooltiptext = Nomi utente e password salvati
+    .accesskey = i
+sync-engine-logins-passwords =
+    .label = Credenziali e password
     .tooltiptext = Nomi utente e password salvati
     .accesskey = i
 sync-engine-addresses =
@@ -687,6 +695,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Impostazioni modificate nei pannelli “Generale” e “Privacy e sicurezza”
     .accesskey = z
+
+## The device name controls.
+
 sync-device-name-header = Nome dispositivo
 sync-device-name-change =
     .label = Cambia nome dispositivo…
@@ -708,6 +719,9 @@ sync-fxa-privacy-notice = Informativa sulla privacy
 privacy-header = Privacy del browser
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = Credenziali e password
 forms-ask-to-save-logins =
