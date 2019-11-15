@@ -39,7 +39,13 @@ abuse-report-submit-button = জমা দিন
 ##   $addon-name (string) - Name of the add-on
 
 abuse-report-messagebar-aborted = <span data-l10n-name="addon-name">{ $addon-name }</span>এর জন্য রিপোর্ট বাতিল করা হয়েছে।
+abuse-report-messagebar-submitting = <span data-l10n-name="addon-name">{ $addon-name }</span>এর জন্য রিপোর্ট পাঠানো হচ্ছে।
+abuse-report-messagebar-submitted = রিপোর্ট জমা দেওয়ার জন্য আপনাকে ধন্যবাদ। আপনি কি <span data-l10n-name="addon-name">{ $addon-name }</span> অপসারণ করতে চান?
 abuse-report-messagebar-submitted-noremove = একটি প্রতিবেদন জমা দেওয়ার জন্য আপনাকে ধন্যবাদ।
+abuse-report-messagebar-removed-extension = রিপোর্ট জমা দেওয়ার জন্য আপনাকে ধন্যবাদ। আপনি <span data-l10n-name="addon-name">{ $addon-name }</span> এক্সটেনশনটি অপসারণ করেছেন।
+abuse-report-messagebar-removed-theme = রিপোর্ট জমা দেওয়ার জন্য আপনাকে ধন্যবাদ। আপনি <span data-l10n-name="addon-name">{ $addon-name }</span> থিমটি অপসারণ করেছেন।
+abuse-report-messagebar-error = <span data-l10n-name="addon-name"></span> এর রিপোর্ট জমা দেওয়ার সময় এখানে সমস্যা ছিল।
+abuse-report-messagebar-error-recent-submit = <span data-l10n-name="addon-name">{ $addon-name }</span> এর রিপোর্ট পাঠানো হয়নি কারণ সম্প্রতি অন্য একটি রিপোর্ট পাঠানো হয়েছে।
 
 ## Message bars actions.
 
