@@ -12,6 +12,11 @@ pref-page =
             [windows] විකල්ප
            *[other] මනාපයන්
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] විකල්ප
+       *[other] මනාපයන්
+    }
 pane-general-title = සාමාන්‍ය
 category-general =
     .tooltiptext = { pane-general-title }
@@ -439,6 +444,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = ඔබේ ජාලය ඔබ සමඟ ගෙනයන්න
 sync-signedout-account-title = { -fxaccount-brand-name } සමඟ සම්බන්ද වන්න
 sync-signedout-account-create = ගිණුමක් නැද්ද? අාරම්භ කරන්න
@@ -458,6 +467,9 @@ sync-mobile-promo = මෙය සඳහා Firefox බාගත කරන්න 
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = පැතිකඩ පින්තූරය වෙනස් කරන්න
 sync-disconnect =
@@ -476,6 +488,15 @@ sync-remove-account =
 sync-sign-in =
     .label = පිවිසෙන්න
     .accesskey = g
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = පිටුසළකුණු
     .accesskey = m
@@ -494,6 +515,9 @@ sync-engine-creditcards =
     .label = ණය පත්
     .tooltiptext = නම්,අංක සහ කල් ඉකුත්වන දින ( ඩෙස්ක්ටොප් පමණි)
     .accesskey = C
+
+## The device name controls.
+
 sync-device-name-header = උපාංග නාමය
 sync-device-name-change =
     .label = මෙවලම් නාමය වෙනස් කරන්න...
@@ -512,6 +536,9 @@ sync-fxa-privacy-notice = පෞද්ගලිකත්ව දැන්වී�
 privacy-header = ගවේශන පුද්ගලිකත්වය
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = පිවිසුම් සහ මුරපද
 forms-exceptions =
