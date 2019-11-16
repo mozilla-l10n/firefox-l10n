@@ -8,6 +8,11 @@ pref-page =
             [windows] Options
            *[other] Preferences
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Options
+       *[other] Preferences
+    }
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -255,6 +260,10 @@ search-keyword-warning-bookmark = You have chosen a keyword that is currently in
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-description = Synchronise your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.
 sync-signedout-account-title = Connect with a { -fxaccount-brand-name }
 # This message contains two links and two icon images.
@@ -269,16 +278,31 @@ sync-mobile-promo = Download Firefox for <img data-l10n-name="android-icon"/> <a
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Change profile picture
 sync-signedin-unverified = ​ { $email } is not verified.
 sync-signedin-login-failure = Please sign in to reconnect { $email } ​
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Bookmarks
     .accesskey = m
 sync-engine-history =
     .label = History
     .accesskey = r
+
+## The device name controls.
+
 sync-device-name-header = Device Name
 sync-tos-link = Terms of Service
 sync-fxa-privacy-notice = Privacy Notice
@@ -287,6 +311,9 @@ sync-fxa-privacy-notice = Privacy Notice
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = Exceptions…
