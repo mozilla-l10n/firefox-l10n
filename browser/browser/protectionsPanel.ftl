@@ -3,3 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Der opstod en fejl med at sende rapporten. Prøv igen senere.
+
+# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
+protections-panel-sitefixedsendreport-label = Er problemet med webstedet løst? Send rapport

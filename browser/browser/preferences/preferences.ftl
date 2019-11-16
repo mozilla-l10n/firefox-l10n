@@ -581,9 +581,15 @@ sync-signedout-description = Synkroniser dine bogmærker, historik, faneblade, a
 sync-signedout-account-title = Opret forbindelse med en { -fxaccount-brand-name }
 sync-signedout-account-create = Har du ingen konto? Opret én her
     .accesskey = O
+
 sync-signedout-account-signin =
     .label = Log ind…
     .accesskey = i
+
+sync-signedout-account-signin2 =
+    .label = Log ind på { -sync-brand-short-name }…
+    .accesskey = i
+
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download

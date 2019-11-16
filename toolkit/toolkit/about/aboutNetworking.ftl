@@ -16,6 +16,7 @@ auto-refresh = Opdater hvert 3. sekund
 hostname = Værtsnavn
 port = Port
 http2 = HTTP/2
+about-networking-http-version = HTTP-version
 ssl = SSL
 active = Aktiv
 idle = Inaktiv
