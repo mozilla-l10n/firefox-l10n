@@ -8,6 +8,11 @@ pref-page =
             [windows] Suubarey
            *[other] Ibaayey
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Suubarey
+       *[other] Ibaayey
+    }
 pane-general-title = Yamma
 category-general =
     .tooltiptext = { pane-general-title }
@@ -328,6 +333,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = War internetoo kanbe war bande
 sync-signedout-description = War doo-šilbawey, taariki, kanji, šennikufaley, tontoney nda ibaayey hangandi cere war jinawey kul ga.
 sync-signedout-account-title = Ciya nda { -fxaccount-brand-name } foo
@@ -343,6 +352,9 @@ sync-mobile-promo = Firefox zumandi <img data-l10n-name="android-icon"/> <a data
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Alhaali bii barmay
 sync-disconnect =
@@ -355,12 +367,24 @@ sync-sign-in =
     .accesskey = H
 sync-signedin-settings-header = Sync kayandiyaney
 sync-signedin-settings-desc = Suuba woo kaŋ ga hangandi war jinawey ga nda { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Doo-šilbawey
     .accesskey = D
 sync-engine-history =
     .label = Taariki
     .accesskey = r
+
+## The device name controls.
+
 sync-device-name-header = Jinay maa
 sync-device-name-change =
     .label = Jinay maa barmay…
@@ -378,6 +402,9 @@ sync-fxa-privacy-notice = Sutura laasaabay
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = Hasarawey…
