@@ -14,6 +14,11 @@ pref-page =
             [windows] Taq cha'oj
            *[other] Taq ajowab'äl
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Taq cha'oj
+       *[other] Taq ajowab'äl
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -311,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Kematz'ib'il ch'ojib'äl Runuk'samajixik (DRM) Rupam
 play-drm-content =
@@ -722,6 +727,9 @@ privacy-header = Richinanem Okik'amaya'l
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Kitikirisanïk Molojri'ïl & Ewan taq Tzij
 forms-ask-to-save-logins =
     .label = Tik'utüx chi rij ri kiyakik kitikirib'al taq molojri'ïl chuqa' ri ewan taq kitzij taq ruxaq ajk'amaya'l
@@ -890,7 +898,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Ichinan
     .accesskey = I
 
-
+##
 
 content-blocking-etp-standard-desc = Silan richin chajinem chuqa' rub'eyal nisamäj. Achi'el jutaqil xkesamäj ri taq ruxaq.
 content-blocking-etp-strict-desc = Nïm chajinem, xa xe chi nub'än chi jujun taq ruxaq o rupam man yesamäj ta.
