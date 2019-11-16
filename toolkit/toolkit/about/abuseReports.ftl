@@ -21,6 +21,7 @@ abuse-report-submit-button = দাখিল কৰক
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
+abuse-report-messagebar-submitting = <span data-l10n-name="addon-name"></span>-ৰ বাবে প্ৰতিবেদন পঠিয়াই থকা হৈছে।
 abuse-report-messagebar-submitted-noremove = প্ৰতিবেদন দাখিল কৰাৰ বাবে ধন্যবাদ।
 
 ## Message bars actions.
@@ -38,3 +39,4 @@ abuse-report-damage-reason = মোৰ কম্পিউটাৰ আৰু ড
 abuse-report-damage-example = উদাহৰণ: মেলৱেৰ সুমুৱাইছে বা ডাটা চুৰ কৰিছে
 abuse-report-spam-reason = স্পাম বা বিজ্ঞাপন সৃষ্টি কৰে
 abuse-report-spam-example = উদাহৰণ: ৱেবপৃষ্ঠাবোৰত বিজ্ঞাপন ভৰাই
+abuse-report-settings-reason = মোক নজনোৱাকৈ বা নুসুধাকৈ মোৰ সন্ধান ইঞ্জিন, গৃহপৃষ্ঠা বা নতুন টেব সলনি কৰিছে।

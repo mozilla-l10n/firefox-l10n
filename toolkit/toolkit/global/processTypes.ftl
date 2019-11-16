@@ -18,6 +18,9 @@ process-type-file = স্থানীয় ফাইল
 # process used to isolate webpages that requested special
 # permission to allocate large amounts of memory
 process-type-weblargeallocation = বৃহৎ আবণ্টন
+# process used to isolate a webpage from other web pages
+# to improve security
+process-type-webisolated = অকলশৰীয়া ৱেব সমল
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
