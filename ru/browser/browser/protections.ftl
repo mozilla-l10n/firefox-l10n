@@ -23,12 +23,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Уровень защиты — <b>Стандартная</b>
-protection-header-details-strict = Уровень защиты — <b>Строгая</b>
-protection-header-details-custom = Уровень защиты — <b>Персональная</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Уровень защиты — <b>Стандартная</b>
     .title = Перейти в настройки приватности
 protection-report-header-details-strict = Уровень защиты — <b>Строгая</b>
@@ -39,6 +33,8 @@ protection-report-page-title = Защита приватности
 protection-report-content-title = Защита приватности
 etp-card-title = Улучшенная защита от отслеживания
 etp-card-content = Трекеры отслеживают вас в Интернете, чтобы собирать информацию о ваших привычках и интересах. { -brand-short-name } блокирует многие из этих трекеров и других вредоносных скриптов.
+protection-report-etp-card-content-custom-not-blocking = Все защиты в настоящее время отключены. Выберите, какие трекеры нужно блокировать, управляя настройками защиты { -brand-short-name }.
+protection-report-manage-protections = Управление настройками
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Сегодня
@@ -58,7 +54,6 @@ lockwise-title = Никогда больше не забывайте свои п
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } надёжно хранит пароли в вашем браузере.
 lockwise-header-content-logged-in = Надёжно храните и синхронизируйте свои пароли со всеми вашими устройствами.
-about-logins-view-logins-button = Просмотр логинов
 protection-report-view-logins-button = Просмотр логинов
     .title = Перейти к сохранённым логинам
 lockwise-no-logins-content = Загрузите приложение <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>, чтобы держать свои пароли всегда с собой.
@@ -126,10 +121,6 @@ password-warning =
         [few] Сохранённых логина были скомпрометированы утечкой данных. Измените пароль для обеспечения безопасности. <a data-l10n-name="lockwise-link">Посмотреть сохранённые логины</a>
        *[many] Сохранённых логинов были скомпрометированы утечкой данных. Измените пароль для обеспечения безопасности. <a data-l10n-name="lockwise-link">Посмотреть сохранённые логины</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Перейти в настройки приватности
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Перейти к сохранённым логинам
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
