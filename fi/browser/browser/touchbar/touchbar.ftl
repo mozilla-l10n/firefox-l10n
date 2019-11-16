@@ -19,6 +19,8 @@ open-location = Kirjoita osoite tai hakusana
 share = Jaa
 close-window = Sulje ikkuna
 open-sidebar = Sivupaneelit
+# This string describes shortcuts for search.
+search-popover = Hakuoikotiet
 # Describes searches limited to a specific scope
 # (e.g. searching only in history).
 search-search-in = Hae:
