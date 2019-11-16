@@ -12,6 +12,11 @@ pref-page =
             [windows] Կարգավորումներ
            *[other] Կարգավորումներ
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Կարգավորումներ
+       *[other] Կարգավորումներ
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -504,6 +509,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Ձեր վեբը Ձեզ հետ է
 sync-signedout-description = Համաժամեցրեք ձեր բոլոր էջանիշերը, պատմությունը, ներդիրները, գաղտնաբաեռրը, հավելումները և կարգավորումները ձեր բոլոր սարքերի միջև:
 sync-signedout-account-title = Կապակցել { -fxaccount-brand-name }-ի հետ
@@ -523,6 +532,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Ներբեռնել Firefox-ը <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> կամ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a>-ի համար՝ համաժամեցնելու բջջային սարքի հետ:
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Փոխել պրոֆիլի նկարը
@@ -544,6 +556,15 @@ sync-sign-in =
     .accesskey = տ
 sync-signedin-settings-header = Սինքի կարգավորումներ
 sync-signedin-settings-desc = Ընտրեք, թե { -brand-short-name }-ի միջոցով ինչը համաժամեցնել ձեր սարքերի միջև:
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Էջանիշերը
     .accesskey = ն
@@ -578,6 +599,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Ընդհանուր, Գաղտնիություն և Անվտանգության կարգավորումները, որոնք դուք փոխել եք
     .accesskey = ը
+
+## The device name controls.
+
 sync-device-name-header = Սարքի անունը
 sync-device-name-change =
     .label = Փոխել սարքի անունը…
@@ -598,6 +622,9 @@ sync-fxa-privacy-notice = Գաղտնիության Դրույթները
 privacy-header = Դիտարկիչի գաղտնիություն
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-ask-to-save-logins =
     .label = Հարցնել և պահպանել մուտքագրումները և գաղտնաբառրը կայքերի համար
