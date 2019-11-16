@@ -8,6 +8,11 @@ pref-page =
             [windows] Опциялара
            *[other] Туруоруулар
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Опциялара
+       *[other] Туруоруулар
+    }
 pane-general-title = Сүрүн
 category-general =
     .tooltiptext = { pane-general-title }
@@ -216,7 +221,23 @@ search-keyword-warning-bookmark = Эн талбыт аатыҥ биир бэли
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
     .label = Бэлиэтээһиннэр
@@ -224,12 +245,18 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Сурунаал
     .accesskey = а
+
+## The device name controls.
+
 sync-tos-link = Туһаныы усулуобуйата
 
 ## Privacy Section
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = Туорааһыннар...
