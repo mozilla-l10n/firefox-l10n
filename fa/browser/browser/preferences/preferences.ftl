@@ -14,6 +14,11 @@ pref-page =
             [windows] گزینه‌ها
            *[other] ترجیحات
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] گزینه‌ها
+       *[other] ترجیحات
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -307,7 +312,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = محتوا مدیریت حقوق دیجیتال(DRM)
 play-drm-content =
@@ -705,6 +710,9 @@ privacy-header = حریم خصوصی مرورگر
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = ورودها و گذرواژه‌ها
 forms-ask-to-save-logins =
     .label = در مورد ذخیره کردن نام‌کاربری و گذرواژه‌ها برای پایگاه‌ها سوال کن
@@ -856,7 +864,7 @@ enhanced-tracking-protection-setting-custom =
     .label = سفارشی
     .accesskey = C
 
-
+##
 
 content-blocking-all-cookies = همه کوکی‌ها
 content-blocking-all-windows-trackers = ردیاب‌های شناخته شده در تمام پنجره‌ها
