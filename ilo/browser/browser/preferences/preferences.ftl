@@ -8,6 +8,11 @@ pref-page =
             [windows] Opsion
            *[other] Pagdumdumaan
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Opsion
+       *[other] Pagdumdumaan
+    }
 pane-general-title = Sapasap
 category-general =
     .tooltiptext = { pane-general-title }
@@ -150,7 +155,23 @@ search-keyword-warning-title = Napamindua a Balikas-tulbek
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
     .label = Pannanda
@@ -158,12 +179,18 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Pakasaritaan
     .accesskey = r
+
+## The device name controls.
+
 sync-tos-link = Pagannurotan ti Serbisio
 
 ## Privacy Section
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = Laksid...
