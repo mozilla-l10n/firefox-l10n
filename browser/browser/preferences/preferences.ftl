@@ -319,7 +319,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Digital Rights Management (DRM) змесціва
 play-drm-content =
@@ -588,6 +588,9 @@ sync-signedout-account-create = Няма ўліковага запісу? Дав
 sync-signedout-account-signin =
     .label = Увайсці…
     .accesskey = а
+sync-signedout-account-signin2 =
+    .label = Увайсці ў { -sync-brand-short-name }…
+    .accesskey = ў
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -735,6 +738,7 @@ privacy-header = Прыватнасць браўзера
 ## Privacy Section - Logins and Passwords
 
 logins-header = Лагіны & Паролі
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Прапаноўваць захаваць лагіны і паролі для вэб-сайтаў
     .accesskey = р
@@ -748,6 +752,7 @@ forms-breach-alerts =
     .label = Паказваць апавяшчэнні аб паролях для сайтаў, у якіх уцеклі дадзеныя
     .accesskey = і
 forms-breach-alerts-learn-more-link = Падрабязней
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Аўтаматычна запаўняць лагіны і паролі
     .accesskey = ў
@@ -902,7 +907,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Адмыслова
     .accesskey = с
 
-##
+
 
 content-blocking-etp-standard-desc = Збалансаваная ахова і прадукцыйнасць. Старонкі загружаюцца нармальна.
 content-blocking-etp-strict-desc = Больш моцная ахова, але можа прывесці да парушэння некаторых сайтаў ці змесціва.
