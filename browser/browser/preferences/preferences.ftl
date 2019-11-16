@@ -14,6 +14,11 @@ pref-page =
             [windows] Dewisiadau
            *[other] Dewisiadau
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Dewisiadau
+       *[other] Dewisiadau
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -323,7 +328,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Cynnwys Rheoli Hawliau Digidol (DRM)
 play-drm-content =
@@ -524,7 +529,6 @@ search-bar-shown =
     .label = Ychwanegu'r bar chwilio i'r bar offer
 search-engine-default-header = Peiriant Chwilio Rhagosodedig
 search-engine-default-desc = Dewis y peiriant chwilio ragosodedig i'w ddefnyddio yn y bar cyfeiriad a'r bar chwilio.
-search-engine-default-private-desc = Dewis y peiriant chwilio rhagosodedig i'w ddefnyddio mewn Ffenestri Preifat.
 search-engine-default-desc-2 = Hwn yw'ch peiriant chwilio rhagosodedig yn y bar cyfeiriad a'r bar chwilio. Gallwch ei newid ar unrhyw adeg.
 search-engine-default-private-desc-2 = Dewiswch beiriant chwilio rhagosodedig i'w ddefnyddio yn y Ffenestr Breifat yn unig.
 search-separate-default-engine =
@@ -739,6 +743,9 @@ privacy-header = Preifatrwydd y Porwr
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Mewngofnodion a Chyfrineiriau
 forms-ask-to-save-logins =
     .label = Gofyn i gadw mewngofnodion a chyfrineiriau ar gyfer gwefannau
@@ -907,7 +914,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Cyfaddas
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = Cydbwysedd rhwng diogelwch a pherfformiad. Bydd tudalennau'n llwytho fel arfer.
 content-blocking-etp-strict-desc = Diogelwch cryfach, ond gall achosi i rai gwefannau neu gynnwys dorri.
