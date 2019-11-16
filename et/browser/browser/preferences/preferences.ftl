@@ -14,6 +14,11 @@ pref-page =
             [windows] Sätted
            *[other] Eelistused
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Sätted
+       *[other] Eelistused
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -307,7 +312,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Autoriõiguse digitaalkaitsega (DRM) sisu
 play-drm-content =
@@ -457,7 +462,6 @@ choose-bookmark =
 
 home-prefs-content-header = Firefoxi avalehe sisu
 home-prefs-content-description = Vali sisu, mida soovid Firefoxi avalehel näha.
-home-prefs-content-discovery-description = Sisu avastamise funktsionaalsus Firefoxi avalehel võimaldab sul leida kõrge kvaliteediga seonduvaid artikleid kogu internetist.
 home-prefs-search-header =
     .label = Veebiotsing
 home-prefs-topsites-header =
@@ -505,7 +509,6 @@ search-bar-shown =
     .label = Kasutatakse eraldi otsinguriba
 search-engine-default-header = Vaikeotsingumootor
 search-engine-default-desc = Vali vaikeotsingumootor, mida kasutatakse aadressi- ja otsinguribal.
-search-engine-default-private-desc = Vali privaatsetes akendes kasutatav otsingumootor.
 search-separate-default-engine =
     .label = Seda otsingumootorit kasutatakse ka privaatsetes akendes
     .accesskey = e
@@ -716,6 +719,9 @@ privacy-header = Veebilehitseja privaatsus
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Kasutajatunnused ja paroolid
 forms-ask-to-save-logins =
     .label = Küsitakse saitide kasutajatunnuste meelespidamise nõusolekut
@@ -884,7 +890,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Kohandatud
     .accesskey = K
 
-
+##
 
 content-blocking-etp-standard-desc = Tasakaalustatud kaitse ja jõudluse jaoks. Lehed laaditakse tavapäraselt.
 content-blocking-etp-strict-desc = Tugevam kaitse, võib põhjustada mõnel saidil või sisus probleeme.
