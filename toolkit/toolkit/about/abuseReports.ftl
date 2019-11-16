@@ -72,6 +72,7 @@ abuse-report-deceptive-reason-v2 = Vydává se za něco jiného
 abuse-report-deceptive-example = Příklad: zavádějící popis nebo náhledy
 abuse-report-broken-reason-extension = Nefunkční, rozbité webové stránky nebo zpomalení aplikace { -brand-product-name }
 abuse-report-broken-reason-theme = Nefunkční nebo rozbité rozhraní prohlížeče
+abuse-report-broken-reason-extension-v2 = Nefunguje, rozbíjí webové stránky nebo aplikaci { -brand-product-name } zpomaluje
 abuse-report-broken-reason-theme-v2 = Nefunguje nebo robíjí rozhraní prohlížeče
 abuse-report-broken-example = Příklad: funkce je pomalá, špatně se používá, vůbec nefunguje, nebo omezuje funkčnost a zobrazení webových stránek
 abuse-report-broken-suggestions-extension = Zdá se, že jste objevili chybu. Kromě odeslání hlášení nám v řešení problému pomůže, pokud kontaktujete i autora rozšíření. <a data-l10n-name="support-link">Navštivte stránky rozšíření</a>, kde na autora najdete kontakt.

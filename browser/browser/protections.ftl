@@ -39,6 +39,7 @@ protection-report-page-title = Ochrana soukromí
 protection-report-content-title = Ochrana soukromí
 etp-card-title = Rozšířená ochrana proti sledování
 etp-card-content = Sledovací prvky sbírají informace, co a kde na internetu děláte, jaké máte návyky a co vás zajímá. { -brand-short-name } blokuje mnoho takových prvků i dalších škodlivých skriptů.
+protection-report-manage-protections = Nastavení
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Dnes
