@@ -76,7 +76,7 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Activar le depuration remote">
-<!ENTITY options.enableRemote.tooltip2  "Activar iste option consentira al instrumentos de disveloppamento de depurar un instantia remote como Firefox OS">
+<!ENTITY options.enableRemote.tooltip2  "Activar iste option permittera al instrumentos de disveloppamento de depurar un instantia remote como Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
