@@ -78,12 +78,14 @@ login-intro-description = Pokud jste si uložili přihlašovací údaje do aplik
 login-intro-instruction-fxa = Vytvořte nebo se přihlaste k účtu { -fxaccount-brand-name } na zařízení, kde máte přihlašovací údaje uložené
 login-intro-instruction-fxa-settings = V nastavení služby { -sync-brand-short-name } na daném zařízení se ujistěte, že máte vybranou synchronizaci přihlašovacích údajů
 about-logins-intro-instruction-help = Pro další pomoc navštivte <a data-l10n-name="help-link">nápovědu { -lockwise-brand-short-name }</a>
+about-logins-intro-import = Pokud máte přihlašovací údaje uložené v jiném prohlížeči, můžete je <a data-l10n-name="import-link">importovat do { -lockwise-brand-short-name }</a>
 
 ## Login
 
 login-item-new-login-title = Nové přihlašovací údaje
 login-item-edit-button = Upravit
 login-item-delete-button = Smazat
+about-logins-login-item-remove-button = Odstranit
 login-item-origin-label = Adresa serveru
 login-item-origin =
     .placeholder = https://www.example.com
@@ -127,6 +129,7 @@ enable-password-sync-preferences-button =
            *[other] Předvolby
         } aplikace { -sync-brand-short-name }
     .accesskey = V
+confirm-delete-dialog-title = Smazat tyto přihlašovací údaje?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Příště se už neptat
     .accesskey = n
@@ -136,9 +139,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Zrušit
 confirmation-dialog-dismiss-button =
     .title = Zrušit
-confirm-delete-dialog-title = Smazat tyto přihlašovací údaje?
+about-logins-confirm-remove-dialog-title = Odstranit tyto přihlašovací údaje?
 confirm-delete-dialog-message = Tuto akci nelze vzít zpět.
 confirm-delete-dialog-confirm-button = Smazat
+about-logins-confirm-remove-dialog-confirm-button = Odstranit
 confirm-discard-changes-dialog-title = Zahodit neuložené změny?
 confirm-discard-changes-dialog-message = Všechny neuložené změny budou ztraceny.
 confirm-discard-changes-dialog-confirm-button = Zahodit
