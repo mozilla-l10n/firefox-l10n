@@ -14,6 +14,11 @@ pref-page =
             [windows] 설정
            *[other] 환경 설정
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] 설정
+       *[other] 환경 설정
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -299,7 +304,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = 디지털 권리 관리(DRM) 콘텐츠
 play-drm-content =
@@ -706,6 +711,9 @@ privacy-header = 브라우저 개인정보
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = 로그인과 비밀번호
 forms-ask-to-save-logins =
     .label = 웹사이트의 로그인과 비밀번호를 기억할지 묻기
@@ -874,7 +882,7 @@ enhanced-tracking-protection-setting-custom =
     .label = 사용자 지정
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = 보호와 성능사이의 균형이 잡혀 있습니다. 페이지가 정상적으로 로드됩니다.
 content-blocking-etp-strict-desc = 더 강력한 보호 기능을 제공하지만, 일부 사이트나 콘텐츠가 손상될 수 있습니다.
