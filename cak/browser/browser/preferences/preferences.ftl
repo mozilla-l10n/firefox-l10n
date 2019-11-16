@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Kematz'ib'il ch'ojib'äl Runuk'samajixik (DRM) Rupam
 play-drm-content =
@@ -584,6 +584,9 @@ sync-signedout-account-create = ¿La man k'o ta jun ataqoya'l? Titikirisäx
 sync-signedout-account-signin =
     .label = Titikirisäx molojri'ïl…
     .accesskey = C
+sync-signedout-account-signin2 =
+    .label = Tatz'ib'aj ab'i' pa { -sync-brand-short-name }…
+    .accesskey = p
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -731,6 +734,7 @@ privacy-header = Richinanem Okik'amaya'l
 ## Privacy Section - Logins and Passwords
 
 logins-header = Kitikirisanïk Molojri'ïl & Ewan taq Tzij
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Tik'utüx chi rij ri kiyakik kitikirib'al taq molojri'ïl chuqa' ri ewan taq kitzij taq ruxaq ajk'amaya'l
     .accesskey = r
@@ -744,6 +748,7 @@ forms-breach-alerts =
     .label = Kek'ut pe rutzijol taq k'ayewal chi kij ewan taq tzij kichin tz'ilan ajk'amaya'l ruxaq.
     .accesskey = n
 forms-breach-alerts-learn-more-link = Tetamäx ch'aqa' chik
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Ruyonil ketz'aqatisäx ri tikirib'äl molojri'ïl chuqa' ewan taq tzij
     .accesskey = i
@@ -898,7 +903,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Ichinan
     .accesskey = I
 
-##
+
 
 content-blocking-etp-standard-desc = Silan richin chajinem chuqa' rub'eyal nisamäj. Achi'el jutaqil xkesamäj ri taq ruxaq.
 content-blocking-etp-strict-desc = Nïm chajinem, xa xe chi nub'än chi jujun taq ruxaq o rupam man yesamäj ta.

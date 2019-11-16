@@ -16,6 +16,7 @@ auto-refresh = Tutzolij rupaläj pa ruyonil pa jujun 3 xil ch'utiramaj
 hostname = Rub'i' ruk'u'x samaj
 port = B'ey
 http2 = HTTP/2
+about-networking-http-version = HTTP Ruwäch
 ssl = SSL
 active = Tzijïl
 idle = Man tzijïl ta

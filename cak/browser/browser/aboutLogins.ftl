@@ -82,6 +82,7 @@ about-logins-intro-import = We ri rutikirib'al amolojri'ïl yakon pa jun chik ok
 login-item-new-login-title = Titz'uk K'ak'a' Tikirib'äl Molojri'ïl
 login-item-edit-button = Tinuk'
 login-item-delete-button = Tiyuj
+about-logins-login-item-remove-button = Tiyuj
 login-item-origin-label = Ajk'amaya'l Ochochib'äl
 login-item-origin =
     .placeholder = https://www.example.com
@@ -125,6 +126,7 @@ enable-password-sync-preferences-button =
            *[other] Titz'et { -sync-brand-short-name } Taq Ajowab'äl
         }
     .accesskey = t
+confirm-delete-dialog-title = ¿La niyuj re rutikirib'al molojri'ïl?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Mani nab'än chik pe re k'utunïk re' chwe
     .accesskey = M
@@ -134,9 +136,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Tiq'at
 confirmation-dialog-dismiss-button =
     .title = Tiq'at
-confirm-delete-dialog-title = ¿La niyuj re rutikirib'al molojri'ïl?
+about-logins-confirm-remove-dialog-title = ¿La niyuj el rutikirib'al re moloj re'?
 confirm-delete-dialog-message = Man nitzolin ta chik re samaj.
 confirm-delete-dialog-confirm-button = Tiyuj
+about-logins-confirm-remove-dialog-confirm-button = Tiyuj
 confirm-discard-changes-dialog-title = ¿La yech'aqïx ri taq jaloj man eyakon ta?
 confirm-discard-changes-dialog-message = Xkesach ronojel ri jaloj man eyakon ta.
 confirm-discard-changes-dialog-confirm-button = Tich'aqïx
