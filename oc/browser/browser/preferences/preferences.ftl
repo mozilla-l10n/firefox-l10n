@@ -14,6 +14,11 @@ pref-page =
             [windows] Opcions
            *[other] Preferéncias
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Opcions
+       *[other] Preferéncias
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -523,6 +528,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Emportatz vòstre Web pertot
 sync-signedout-description = Sincronizatz vòstres marcapaginas, istoric, onglets, senhals, moduls, e preferéncias per totes vòstres periferics.
 sync-signedout-account-title = Se connectar amb un { -fxaccount-brand-name }
@@ -542,6 +551,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Telecargatz Firefox per <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> per sincronizar vòstre periferic mobil.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Cambiar la fòto de perfil de l'utilizaire
@@ -563,6 +575,15 @@ sync-sign-in =
     .accesskey = x
 sync-signedin-settings-header = Paramètres de sincronizacion
 sync-signedin-settings-desc = Causir çò que cal sincronizar per vòstres periferics qu'utilizan { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Marcapaginas
     .accesskey = M
@@ -597,6 +618,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Los paramètres qu’avètz cambiat dins General, Vida Privada e Seguretat
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Nom de l'aparelh
 sync-device-name-change =
     .label = Cambiar lo nom del periferic…
@@ -615,6 +639,9 @@ sync-fxa-privacy-notice = Politica de confidencialitat
 privacy-header = Confidencialitat del navegador
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = Identificants e senhals
 forms-ask-to-save-logins =
