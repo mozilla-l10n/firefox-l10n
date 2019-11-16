@@ -14,6 +14,11 @@ pref-page =
             [windows] Beállítások
            *[other] Beállítások
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Beállítások
+       *[other] Beállítások
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -311,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Digitális jogkezelést (DRM) használó tartalom
 play-drm-content =
@@ -722,6 +727,9 @@ privacy-header = Böngésző adatvédelme
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Bejelentkezések és jelszavak
 forms-ask-to-save-logins =
     .label = Felhasználónevek és jelszavak megjegyzésének megkérdezése az oldalakhoz
@@ -890,7 +898,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Egyéni
     .accesskey = E
 
-
+##
 
 content-blocking-etp-standard-desc = Kiegyensúlyozott védelem és teljesítmény. Az oldalak normálisan fognak betölteni.
 content-blocking-etp-strict-desc = Erősebb védelem, de egyes webhelyek és tartalmak hibásan működhetnek.
