@@ -12,6 +12,11 @@ pref-page =
             [windows] ഉപാധികള്‍
            *[other] മുന്‍ഗണനകള്‍
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] ഉപാധികള്‍
+       *[other] മുന്‍ഗണനകള്‍
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -454,6 +459,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = നിങ്ങളുടെ വെബിനെ നിങ്ങളുടെ കൂടെ കൊണ്ട് പോവുക
 sync-signedout-description = നിങ്ങളുടെ അടയാളക്കുറിപ്പുകള്‍, നാള്‍വഴികൾ, ടാബുകള്‍, രഹസ്യവാക്കുകള്‍, ആഡോണുകള്‍, ക്രമീകരണങ്ങള്‍ നിങ്ങളുടെ എല്ലാ ഡിവൈസുകളിലേക്കും പൊരുത്തപ്പെടുത്തുക.
 sync-signedout-account-title = { -fxaccount-brand-name } -ന്‍റെ ഒപ്പം കണക്റ്റ് ചെയ്യുക
@@ -473,6 +482,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = വേണ്ടി ഫയർഫോക്സ് ഡൌൺലോഡ് ചെയ്യുക<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">ആന്‍ഡ്രോയിഡ്</a> അല്ലെങ്കില്‍ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">ഐഓഎസ്</a> നിങ്ങളുടെ മൊബൈൽ ഉപകരണം ഉപയോഗിച്ച് സമന്വയിപ്പിക്കാൻ വേണ്ടി.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = പ്രൊഫൈല്‍ ചിത്രം മാറ്റുക
@@ -494,6 +506,15 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = സിങ്ക് ക്രമീകരണങ്ങള്‍
 sync-signedin-settings-desc = { -brand-short-name } ഉപയോഗിച്ച് എന്താണ് നിങ്ങളുടെ ഉപകരണങ്ങളിൽ സമന്വയിപ്പിക്കേണ്ടത് എന്ന് തിരഞ്ഞെടുക്കുക.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = അടയാളക്കുറിപ്പുകള്‍
     .accesskey = m
@@ -512,6 +533,9 @@ sync-engine-creditcards =
     .label = ക്രഡിറ്റ് കാർഡുകൾ
     .tooltiptext = പേര്, നമ്പർ, കാലാവധി
     .accesskey = C
+
+## The device name controls.
+
 sync-device-name-header = ഡിവൈസ് പേര്
 sync-device-name-change =
     .label = ഉപകരണത്തിന്റെ പേര് മാറ്റുക…
@@ -531,6 +555,9 @@ sync-fxa-privacy-notice = സ്വകാര്യ പോളിസി
 privacy-header = ബ്രൗസർ സ്വകാര്യത
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = ഉപയോക്തൃനാമങ്ങളും രഹസ്യവാക്കുകളും
 forms-exceptions =
