@@ -8,6 +8,11 @@ pref-page =
             [windows] Опции
            *[other] Поставки
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Опции
+       *[other] Поставки
+    }
 pane-general-title = Централа
 category-general =
     .tooltiptext = { pane-general-title }
@@ -286,7 +291,23 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
     .label = Обележувачи
@@ -294,6 +315,9 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Историја
     .accesskey = р
+
+## The device name controls.
+
 sync-device-name-header = Име на уред
 sync-device-name-cancel =
     .label = Откажи
@@ -305,6 +329,9 @@ sync-fxa-privacy-notice = Белешка за приватност
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = Исклучоци…
