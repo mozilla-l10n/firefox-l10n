@@ -12,6 +12,11 @@ pref-page =
             [windows] Iestatījumi
            *[other] Iestatījumi
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Iestatījumi
+       *[other] Iestatījumi
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -526,6 +531,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Paņem tīmekli sev līdz
 sync-signedout-description = Sinhronizējiet vēsturi, grāmatzīmes, paroles, papildinājumus un iestatījumus visās jūsu izmantotajās ierīcēs.
 sync-signedout-account-title = Pieslēdzieties ar { -fxaccount-brand-name }
@@ -545,6 +554,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Lejupielādēt Firefox <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> vai <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> lai sinhronizētos ar mobilajām ierīcēm.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Mainīt profila attēlu
@@ -566,6 +578,15 @@ sync-sign-in =
     .accesskey = p
 sync-signedin-settings-header = Sync iestatījumi
 sync-signedin-settings-desc = Izvēlēties, ko sinhronizēt ierīcē, izmantojot uz { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Grāmatzīmes
     .accesskey = m
@@ -600,6 +621,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Izmainītie iestatījumi, privātums un drošība
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Ierīces nosaukums
 sync-device-name-change =
     .label = Mainīt ierīces nosaukumu…
@@ -618,6 +642,9 @@ sync-fxa-privacy-notice = Privātuma piezīme
 privacy-header = Pārlūka privātums
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = Lietotājvārdi un paroles
 forms-ask-to-save-logins =
