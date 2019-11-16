@@ -14,6 +14,11 @@ pref-page =
             [windows] বিকল্প
            *[other] পছন্দ
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] বিকল্প
+       *[other] পছন্দ
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -526,6 +531,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = আপনার সাথে আপনার ওয়েব নিন
 sync-signedout-description = আপনার সকল ডিভাইস জুড়ে আপনার বুকমার্ক, ইতিহাস, ট্যাব, পাসওয়ার্ড, অ্যাড টার্ন, এবং পছন্দসমূহ সুসংগত করুন।
 sync-signedout-account-title = { -fxaccount-brand-name } সাথে সংযোগ স্থাপন করুন
@@ -545,6 +554,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Firefox ডাউনলোড <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> বা <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> আপনার মোবাইল ডিভাইসের সাথে সুসংগত করতে।
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = প্রোফাইল ছবি পরিবর্তন করুন
@@ -566,6 +578,15 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = সিঙ্কের সেটিংস
 sync-signedin-settings-desc = { -brand-short-name } দিয়ে আপনার ডিভাইসে কি সিঙ্ক্রোনাইজ করা হবে তা নির্বাচন করুন।
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = বুকমার্ক
     .accesskey = ব
@@ -600,6 +621,9 @@ sync-engine-prefs =
         }
     .tooltiptext = সাধারণ, গোপনীয়তা এবং নিরাপত্তা সেটিং এ আপনি যা পরিবর্তন করেছেন
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = ডিভাইস নাম
 sync-device-name-change =
     .label = ডিভাইস নাম পরিবর্তন করুন…
@@ -618,6 +642,9 @@ sync-fxa-privacy-notice = গোপনীয়তা সংক্রান্ত �
 privacy-header = ব্রাউজারের গোপনীয়তা
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = লগইন এবং পাসওয়ার্ড
 forms-ask-to-save-logins =
