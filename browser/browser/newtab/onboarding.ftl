@@ -80,9 +80,11 @@ onboarding-benefit-privacy-title = Todellista yksityisyyttä
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Kaikki toimintamme kunnioittaa henkilötietolupaustamme: Kerää vähemmän. Pidä ne turvassa. Ei salaisuuksia.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Ota kirjanmerkkisi, salasanasi ja selaushistoriasi mukaan kaikkialle, missä käytät { -brand-product-name }ia.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Saat ilmoituksen, kun tietovuodosta on löytynyt henkilökohtaisia tietojasi.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Hallitse salasanoja, jotka ovat turvassa ja mukaan otettavissa.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -111,6 +113,7 @@ onboarding-data-sync-text2 = Synkronoi kirjanmerkit, salasanat ja paljon muuta k
 onboarding-data-sync-button2 = Kirjaudu sisään { -sync-brand-short-name }-palveluun
 onboarding-firefox-monitor-title = Pysy ajan tasalla tietovuodoista
 onboarding-firefox-monitor-text = { -monitor-brand-name } tarkkailee, onko sähköpostiosoitteesi ollut mukana tietovuodossa, ja ilmoittaa, jos se on mukana uudessa tietovuodossa.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } tarkkailee, onko sähköpostiosoitteesi ollut mukana tunnetuissa tietovuodoissa ja lähettää sinulle hälytyksen, jos joudut osalliseksi uudessa vuodossa.
 onboarding-firefox-monitor-button = Tilaa ilmoitukset
 onboarding-browse-privately-title = Selaa yksityisesti
 onboarding-browse-privately-text = Yksityinen selaus tyhjentää haku- ja selaushistorian, jotta se säilyy salassa kaikilta muilta, jotka käyttävät tietokonettasi.
