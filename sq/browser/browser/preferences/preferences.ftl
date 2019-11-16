@@ -14,6 +14,11 @@ pref-page =
             [windows] Mundësi
            *[other] Parapëlqime
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Mundësi
+       *[other] Parapëlqime
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -311,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Lëndën nën Digital Rights Management (DRM)
 play-drm-content =
@@ -722,6 +727,9 @@ privacy-header = Privatësi Shfletuesi
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Kredenciale Hyrjesh & Fjalëkalime
 forms-ask-to-save-logins =
     .label = Pyet të ruhen apo jo kredenciale hyrjesh dhe fjalëkalime për sajte
@@ -890,7 +898,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Vetjak
     .accesskey = V
 
-
+##
 
 content-blocking-etp-standard-desc = I baraspeshuar për mbrojtje dhe funksionim. Faqet do të ngarkohen normalisht.
 content-blocking-etp-strict-desc = Mbrojtje më e fortë, por mund të shkaktojë mosfunksionim për disa sajte apo lëndë.
