@@ -12,6 +12,11 @@ pref-page =
             [windows] اختیارات
            *[other] ترجیحات
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] اختیارات
+       *[other] ترجیحات
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -450,6 +455,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = اپنی ویب اپنے ساتھ رکھیں
 sync-signedout-description = اپنے تمام ڈیوائس اپنے بک مارکس، تاریخ، ٹیب، پاس ورڈ، ایڈ اون، اور ترجیحات کو ہم وقت ساز کریں۔
 sync-signedout-account-title = کسی { -fxaccount-brand-name } کے ساتھ جڑیں
@@ -470,6 +479,9 @@ sync-mobile-promo = Firefox ڈاؤن لوڈ کریں <img data-l10n-name="androi
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = پروفائل کی تصویر تبدیل کریں
 sync-disconnect =
@@ -489,6 +501,15 @@ sync-sign-in =
     .label = سائن ان کریں
     .accesskey = g
 sync-signedin-settings-header = ہمہ وقت ساز ترتیبات
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = بک مارک
     .accesskey = m
@@ -519,6 +540,9 @@ sync-engine-prefs =
         }
     .tooltiptext = عمومی، رازداری اور سلامتی سیٹنگیں جو آپ نے تبدیل کی
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = آلہ کا نام
 sync-device-name-change =
     .label = آلہ کا نام تبدیل کریں…
@@ -539,6 +563,9 @@ sync-fxa-privacy-notice = اطلاع نامہ نجی نوعیت
 privacy-header = براؤزر رازداری
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = لاگ ان & پاس ورڈ
 forms-exceptions =
