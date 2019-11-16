@@ -16,6 +16,7 @@ auto-refresh = 每三秒自動重新整理
 hostname = 主機名稱
 port = 埠號
 http2 = HTTP/2
+about-networking-http-version = HTTP 版本
 ssl = SSL
 active = 使用中
 idle = 閒置

@@ -304,7 +304,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = 數位權利管理（DRM）內容
 play-drm-content =
@@ -568,6 +568,9 @@ sync-signedout-account-create = 沒有帳號嗎？開始使用
 sync-signedout-account-signin =
     .label = 登入…
     .accesskey = I
+sync-signedout-account-signin2 =
+    .label = 登入 { -sync-brand-short-name }…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -715,6 +718,7 @@ privacy-header = 瀏覽器隱私權
 ## Privacy Section - Logins and Passwords
 
 logins-header = 登入資訊與密碼
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = 向您詢問是否要記住網站的登入帳號與密碼
     .accesskey = r
@@ -728,6 +732,7 @@ forms-breach-alerts =
     .label = 針對發生過資料外洩的網站顯示密碼警告
     .accesskey = b
 forms-breach-alerts-learn-more-link = 了解更多
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = 自動填寫登入資訊與密碼
     .accesskey = i
@@ -882,7 +887,7 @@ enhanced-tracking-protection-setting-custom =
     .label = 自訂
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = 兼顧保護與效能。網站可正常運作。
 content-blocking-etp-strict-desc = 保護更強大，但可能會導致某些網站或內容故障。
