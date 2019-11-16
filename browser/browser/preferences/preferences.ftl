@@ -14,6 +14,11 @@ pref-page =
             [windows] Preferenzas
            *[other] Preferenzas
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Preferenzas
+       *[other] Preferenzas
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -311,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Cuntegn DRM (Digital Rights Management)
 play-drm-content =
@@ -508,7 +513,6 @@ search-bar-shown =
     .label = Agiuntar la trav da tschertgar a la trav d'utensils
 search-engine-default-header = Maschina da tschertgar da standard
 search-engine-default-desc = Tscherna la maschina da tschertgar da standard per la trav d'adressas e la trav da tschertgar.
-search-engine-default-private-desc = Tscherna la maschina da tschertgar da standard per l'utilisaziun en fanestras privatas.
 search-engine-default-desc-2 = Quai è la maschina da tschertgar predefinida per la trav d'adressas e la trav da tschertga. Ti la pos midar da tut temp.
 search-engine-default-private-desc-2 = Tscherna in'autra maschina da tschertgar da standard mo per fanestras privatas
 search-separate-default-engine =
@@ -723,6 +727,9 @@ privacy-header = Protecziun da datas
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Infurmaziuns d'annunzia & pleds-clav
 forms-ask-to-save-logins =
     .label = Dumandar da memorisar las infurmaziuns d'annunzia ed ils pleds-clav per paginas d'internet
@@ -891,7 +898,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Persunalisà
     .accesskey = u
 
-
+##
 
 content-blocking-etp-standard-desc = Equiliber tranter protecziun e prestaziun. Paginas chargian normal.
 content-blocking-etp-strict-desc = Ina protecziun pli severa, ma po avair per consequenza che tschertas websites u tscherts cuntegns na funcziuneschan betg pli.
