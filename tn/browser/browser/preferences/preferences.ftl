@@ -8,6 +8,11 @@ pref-page =
             [windows] Diitlhophelwa
            *[other] Diratwabogolo
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Diitlhophelwa
+       *[other] Diratwabogolo
+    }
 pane-general-title = Ka kakaretso
 category-general =
     .tooltiptext = { pane-general-title }
@@ -194,15 +199,37 @@ search-keyword-warning-bookmark = O tlhophile lefokopatlo le ga jaana le dirisiw
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-signedin-unverified = { $email } ga e a netefadiwa.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
+
+## The device name controls.
+
 sync-tos-link = Melawana ya Tirelo
 
 ## Privacy Section
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-master-pw-fips-title = Ga jaana o mo mokgweng wa FIPS. FIPS e tlhoka Khunololamoraba e Kgolo e e seng lolea.
 forms-master-pw-fips-desc = Phetolo ya Khunololamoraba e retetse
