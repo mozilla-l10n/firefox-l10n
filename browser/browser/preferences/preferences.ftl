@@ -12,6 +12,11 @@ pref-page =
             [windows] विकल्पहरू
            *[other] प्राथमिकताहरू
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] विकल्पहरू
+       *[other] प्राथमिकताहरू
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -475,6 +480,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = तपाईँको वेब अाफुसँगै लैजानुहोस्
 sync-signedout-description = सबै यन्त्रहरूमा आफ्नो पुस्तकचिनो, इतिहास, ट्याबहरू, गोप्यशब्दहरू, एडअनहरू, र प्राथमिकताहरू समक्रमण गर्नुहोस्।
 sync-signedout-account-title = एक { -fxaccount-brand-name } संग जडान गर्नुहोस्
@@ -495,6 +504,9 @@ sync-mobile-promo = निम्नको लागि Firefox डाउनल�
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = प्रोफाइल तस्वीर परिवर्तन गर्नुहोस्
 sync-disconnect =
@@ -509,12 +521,24 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Sync सेटिङ्गहरू
 sync-signedin-settings-desc = { -brand-short-name } प्रयोग गरेर तपाईँको उपकरणहरूमा के समक्रमण गर्ने हो छान्नुहोस् ।
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = पुस्तकचिनोहरू
     .accesskey = m
 sync-engine-history =
     .label = इतिहास
     .accesskey = r
+
+## The device name controls.
+
 sync-device-name-header = यन्त्रको नामः
 sync-device-name-change =
     .label = उपकरणको नाम परिवर्तन गर्नुहोस्…
@@ -533,6 +557,9 @@ sync-fxa-privacy-notice = गोपनीयता नीति
 privacy-header = ब्राउजर गोपनीयता
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = अपवादहरू...
