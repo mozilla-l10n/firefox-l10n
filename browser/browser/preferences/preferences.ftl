@@ -14,6 +14,11 @@ pref-page =
             [windows] Asetukset
            *[other] Asetukset
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Asetukset
+       *[other] Asetukset
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -311,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Käyttöoikeuksien hallintaa (DRM) käyttävä sisältö
 play-drm-content =
@@ -895,7 +900,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Oma
     .accesskey = O
 
-
+##
 
 content-blocking-etp-standard-desc = Tasapainotettu suojauksen ja suorituskyvyn välillä. Sivut latautuvat normaalisti.
 content-blocking-etp-strict-desc = Vahvempi suojaus, mutta saattaa aiheuttaa sivustojen tai sisällön toimimattomuutta.
