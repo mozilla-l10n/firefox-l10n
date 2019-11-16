@@ -14,6 +14,11 @@ pref-page =
             [windows] Seçenekler
            *[other] Tercihler
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Seçenekler
+       *[other] Tercihler
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -532,6 +537,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Ağ’ıñıznı Yanıñızda Alıñız
 sync-signedout-description = Saifeimleriñizni, keçmişiñizni, ilmekleriñizni, eklentileriñizni ve tercihleriñizni episi cihazlarıñız arqalı aynılaştırıñız.
 sync-signedout-account-title = { -fxaccount-brand-name } ile bağlanıñız
@@ -551,6 +560,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Mobil cihazıñız ile aynılaştırmaq içün <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> yaki <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> içün Firefox'nı endiriñiz.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Profil resmini değiştir
@@ -572,6 +584,15 @@ sync-sign-in =
     .accesskey = G
 sync-signedin-settings-header = Sync ayarları
 sync-signedin-settings-desc = { -brand-short-name } kullanan cihazlarınız arasında eşitlenecek öğeleri seçin.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Saifeimleri
     .accesskey = m
@@ -606,6 +627,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Değiştirdiğiniz Genel, Gizlilik ve Güvenlik ayarları
     .accesskey = T
+
+## The device name controls.
+
 sync-device-name-header = Cihaz adı
 sync-device-name-change =
     .label = Cihaz Adını Deñiştir…
@@ -627,6 +651,9 @@ sync-fxa-privacy-notice = Gizlilik Bildirimi
 privacy-header = Kezici Hususiyatı
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = İçeri İmzalanmalar ve Sır-sözler
 forms-ask-to-save-logins =
