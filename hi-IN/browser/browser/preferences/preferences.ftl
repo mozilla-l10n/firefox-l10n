@@ -12,6 +12,11 @@ pref-page =
             [windows] विकल्प
            *[other] वरीयता
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] विकल्प
+       *[other] वरीयता
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -298,7 +303,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = डिजिटल राइट्स मैनेजमेंट (DRM) सामग्री
 play-drm-content =
@@ -789,7 +794,7 @@ enhanced-tracking-protection-setting-custom =
     .label = मनपसंद
     .accesskey = त
 
-
+##
 
 content-blocking-all-cookies = सारे कुकीज़
 content-blocking-all-windows-trackers = सभी विंडो में ज्ञात ट्रैकर्स
