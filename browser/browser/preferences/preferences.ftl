@@ -14,6 +14,11 @@ pref-page =
             [windows] 選項
            *[other] 偏好設定
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] 選項
+       *[other] 偏好設定
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -299,7 +304,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = 數位權利管理（DRM）內容
 play-drm-content =
@@ -492,7 +497,6 @@ search-bar-shown =
     .label = 在工具列加入搜尋列
 search-engine-default-header = 預設搜尋引擎
 search-engine-default-desc = 請選擇在網址列或搜尋列進行搜尋時，預設要使用的搜尋引擎。
-search-engine-default-private-desc = 選擇於隱私瀏覽視窗使用的預設搜尋引擎。
 search-engine-default-desc-2 = 這是您在網址列與搜尋列進行搜尋時，預設會使用的搜尋引擎。可以隨時切換。
 search-engine-default-private-desc-2 = 針對隱私瀏覽視窗選擇不同的預設搜尋引擎
 search-separate-default-engine =
@@ -707,6 +711,9 @@ privacy-header = 瀏覽器隱私權
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = 登入資訊與密碼
 forms-ask-to-save-logins =
     .label = 向您詢問是否要記住網站的登入帳號與密碼
@@ -875,7 +882,7 @@ enhanced-tracking-protection-setting-custom =
     .label = 自訂
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = 兼顧保護與效能。網站可正常運作。
 content-blocking-etp-strict-desc = 保護更強大，但可能會導致某些網站或內容故障。
