@@ -8,6 +8,11 @@ pref-page =
             [windows] Amahitamo
            *[other] Ibyatoranyijwe
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Amahitamo
+       *[other] Ibyatoranyijwe
+    }
 pane-general-title = Rusange
 category-general =
     .tooltiptext = { pane-general-title }
@@ -157,7 +162,26 @@ use-current-pages =
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
+
+## The device name controls.
 
 sync-tos-link = Amabwiriza ya serivisi
 
@@ -165,6 +189,9 @@ sync-tos-link = Amabwiriza ya serivisi
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = Amarengayobora...
