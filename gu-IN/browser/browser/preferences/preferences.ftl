@@ -14,6 +14,11 @@ pref-page =
             [windows] વિકલ્પો
            *[other] પસંદગીઓ
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] વિકલ્પો
+       *[other] પસંદગીઓ
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -529,6 +534,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = તમારું વેબ તમારી સાથે રાખો
 sync-signedout-description = તમારા બધા ઉપકરણો પર તમારા બુકમાર્ક્સ, ઇતિહાસ, ટૅબ્સ, પાસવર્ડ્સ, ઍડ-ઑન્સ અને પસંદગીઓને સમન્વયિત કરો.
 sync-signedout-account-title = { -fxaccount-brand-name } સાથે જોડાણ કરો
@@ -548,6 +557,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = ડાઉનલોડ કરો Firefox માટે <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> અથવા <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> તમારા મોબાઇલ ઉપકરણ સાથે સમન્વયિત કરવા માટે.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = પ્રોફાઇલ ચિત્ર બદલો
@@ -569,6 +581,15 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = સમન્વયન સેટિંગ્સ
 sync-signedin-settings-desc = તમારા ઉપકરણો પર સમન્વયિત કરવાનું શું પસંદ કરો તે પસંદ કરો { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = બુકમાર્ક્સ
     .accesskey = m
@@ -603,6 +624,9 @@ sync-engine-prefs =
         }
     .tooltiptext = સામાન્ય, ગોપનીયતા અને સુરક્ષા સેટિંગ્સ જે તમે બદલ્યાં છે
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = ઉપકરણનું નામ
 sync-device-name-change =
     .label = ઉપકરણ નામ બદલો…
@@ -624,6 +648,9 @@ sync-fxa-privacy-notice = ખાનગી સૂચના
 privacy-header = બ્રાઉઝર ગોપનીયતા
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = લૉગ-ઇન્સ અને પાસવર્ડ્સ
 forms-ask-to-save-logins =
