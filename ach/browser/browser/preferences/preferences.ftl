@@ -14,6 +14,11 @@ pref-page =
             [windows] Gin ayera
            *[other] Ter
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Gin ayera
+       *[other] Ter
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -510,6 +515,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Ter Kakube ni kwedi
 sync-signedout-description = Rib alamabuk, gin mukato, dirica matino, mung me donyo, med-ikome ki ter i nyonyo ni weng.
 sync-signedout-account-title = Kube ki { -fxaccount-brand-name }
@@ -529,6 +538,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Gam Firefox pi <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> onyo <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> me ribo ki nyonyo mamegi me cing.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Lok cal me propwail
@@ -550,6 +562,15 @@ sync-sign-in =
     .accesskey = o
 sync-signedin-settings-header = Ter me Ribo
 sync-signedin-settings-desc = Yer ngo me ariba i nyonyo ni ki { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Alama me buk
     .accesskey = l
@@ -584,6 +605,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Ter ma jwi, me mung, ki me ber bedo ma iloko gi
     .accesskey = m
+
+## The device name controls.
+
 sync-device-name-header = Nying Nyonyo
 sync-device-name-change =
     .label = Lok nying nyonyo…
@@ -605,6 +629,9 @@ sync-fxa-privacy-notice = Ngec me mung
 privacy-header = Mung pa layeny
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = Donyo iyie ki mung me donyo
 forms-ask-to-save-logins =
