@@ -35,6 +35,8 @@ app-basics-name = Nimi
 app-basics-version = Versio
 app-basics-build-id = Koosteen tunniste
 app-basics-update-channel = Päivityskanava
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir = Päivityskansio
 app-basics-update-history = Päivityshistoria
 app-basics-show-update-history = Näytä päivityshistoria
@@ -129,8 +131,11 @@ media-device-format = Muoto
 media-device-channels = Kanavia
 media-device-rate = Näytteenottotaajuus
 media-device-latency = Viive
+media-capabilities-title = Mediaominaisuudet
+# List all the entries of the database.
+media-capabilities-enumerate = Listaa tietokannan sisältö
 
-##
+
 
 intl-title = Internationalisointi ja lokalisointi
 intl-app-title = Sovelluksen asetukset
@@ -141,6 +146,19 @@ intl-locales-default = Oletuslocale
 intl-os-title = Käyttöjärjestelmä
 intl-os-prefs-system-locales = Järjestelmän localet
 intl-regional-prefs = Alueasetukset
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

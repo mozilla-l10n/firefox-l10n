@@ -86,6 +86,11 @@ newtab-menu-show-privacy-info = Tukijamme ja yksityisyytesi
 
 newtab-privacy-modal-button-done = Valmis
 newtab-privacy-modal-header = Yksityisyydelläsi on merkitystä.
+newtab-privacy-modal-paragraph =
+    Kiehtovien tarinoiden tarjoamisen lisäksi näytämme sinulle myös sinua kiinnostavaa, 
+    tarkastettua sisältöä valituilta sponsoreilta. Voit olla varma, että selaustietosi
+    pysyvät omassa { -brand-product-name }-kopiossasi – emme näe niitä eivätkä 
+    myöskään sponsorimme.
 newtab-privacy-modal-link = Opi miten yksityisyys on esillä uusi välilehti -sivulla
 
 
