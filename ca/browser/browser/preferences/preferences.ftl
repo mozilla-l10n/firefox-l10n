@@ -457,7 +457,6 @@ choose-bookmark =
 
 home-prefs-content-header = Contingut d'inici del Firefox
 home-prefs-content-description = Trieu el contingut que voleu a la pantalla d'inici del Firefox.
-home-prefs-content-discovery-description = El descobriment de contingut en la pàgina d'inici del Firefox us permet descobrir articles de gran qualitat i rellevants de tot el web.
 home-prefs-search-header =
     .label = Cerca web
 home-prefs-topsites-header =
@@ -554,6 +553,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = El vostre web a tot arreu
 sync-signedout-description = Sincronitzeu les vostres adreces d'interès, historial, pestanyes, contrasenyes, complements i preferències en tots els vostres dispositius.
 sync-signedout-account-title = Connecteu-vos amb un { -fxaccount-brand-name }
@@ -573,6 +576,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Baixeu el Firefox per a l'<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o per a l'<img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> per sincronitzar amb el vostre dispositiu mòbil.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Canvia la imatge de perfil
@@ -594,6 +600,15 @@ sync-sign-in =
     .accesskey = I
 sync-signedin-settings-header = Paràmetres de sincronització
 sync-signedin-settings-desc = Trieu què voleu sincronitzar entre els vostres dispositius que utilitzen el { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Adreces d'interès
     .accesskey = d
@@ -628,6 +643,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Paràmetres generals, de privadesa i de seguretat que heu canviat
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Nom del dispositiu
 sync-device-name-change =
     .label = Canvia el nom del dispositiu…
@@ -649,6 +667,9 @@ sync-fxa-privacy-notice = Avís de privadesa
 privacy-header = Privadesa del navegador
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = Inicis de sessió i contrasenyes
 forms-ask-to-save-logins =
