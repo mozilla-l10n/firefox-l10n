@@ -14,6 +14,11 @@ pref-page =
             [windows] Opciones
            *[other] Preferencias
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Opciones
+       *[other] Preferencias
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -311,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Contenido sujeto a administración de derechos de autor (DRM)
 play-drm-content =
@@ -722,6 +727,9 @@ privacy-header = Privacidad del navegador
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Usuarios y contraseñas
 forms-ask-to-save-logins =
     .label = Preguntar para guardar contraseñas e inicios de sesión de sitios web
@@ -890,7 +898,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizado
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = Equilibrado para protección y rendimiento. Las páginas se cargarán normalmente.
 content-blocking-etp-strict-desc = Mayor protección, pero puede provocar que fallen algunos sitios o contenidos.
