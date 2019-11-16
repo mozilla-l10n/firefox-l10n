@@ -14,6 +14,11 @@ pref-page =
             [windows] གདམ་ཚན
            *[other] སྒྲིག་འགོད
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] གདམ་ཚན
+       *[other] སྒྲིག་འགོད
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -249,6 +254,14 @@ applications-type-column =
 applications-action-column =
     .label = Action
     .accesskey = A
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 drm-content-header = Digital Rights Management (DRM) Content
 play-drm-content =
     .label = Play DRM-controlled content
@@ -431,6 +444,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Take your Web with you
 sync-signedout-description = Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.
 sync-signedout-account-title = Connect with a { -fxaccount-brand-name }
@@ -450,6 +467,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Download Firefox for <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> or <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> to synchronize with your mobile device.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Change profile picture
@@ -471,6 +491,15 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Sync Settings
 sync-signedin-settings-desc = Choose what to synchronize on your devices using { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Bookmarks
     .accesskey = m
@@ -505,6 +534,9 @@ sync-engine-prefs =
         }
     .tooltiptext = General, Privacy, and Security settings you’ve changed
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Device Name
 sync-device-name-change =
     .label = Change Device Name…
@@ -523,6 +555,9 @@ sync-fxa-privacy-notice = Privacy Notice
 privacy-header = Browser Privacy
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = ནང་འཇུག་དང་གསང་གྲངས
 forms-ask-to-save-logins =
