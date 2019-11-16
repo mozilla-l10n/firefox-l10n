@@ -89,6 +89,7 @@ about-logins-intro-import = Hvis dine logins er gemt i en anden browser, kan du 
 login-item-new-login-title = Opret nyt login
 login-item-edit-button = Rediger
 login-item-delete-button = Slet
+about-logins-login-item-remove-button = Fjern
 login-item-origin-label = Webstedets adresse
 login-item-origin =
   .placeholder = https://www.eksempel.dk
@@ -137,13 +138,16 @@ enable-password-sync-preferences-button =
     }
   .accesskey = G
 
+confirm-delete-dialog-title = Slet dette login?
 about-logins-enable-password-sync-dont-ask-again-button =
   .label = Spørg mig ikke igen
   .accesskey = S
 
-confirm-delete-dialog-title = Slet dette login?
+about-logins-confirm-remove-dialog-title = Fjern dette login?
 confirm-delete-dialog-message = Denne handling kan ikke fortrydes.
 confirm-delete-dialog-confirm-button = Slet
+
+about-logins-confirm-remove-dialog-confirm-button = Fjern
 
 confirm-discard-changes-dialog-title = Annuller ikke-gemte ændringer?
 confirm-discard-changes-dialog-message = Alle ikke-gemte ændringer vil gå tabt.
