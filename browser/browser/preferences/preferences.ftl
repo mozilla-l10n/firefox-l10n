@@ -14,6 +14,11 @@ pref-page =
             [windows] Opsjes
            *[other] Opsjes
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Opsjes
+       *[other] Opsjes
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -311,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Digital Rights Management (DRM)-ynhâld
 play-drm-content =
@@ -508,7 +513,6 @@ search-bar-shown =
     .label = Sykbalke yn arkbalke tafoegje
 search-engine-default-header = Standertsykmasine
 search-engine-default-desc = Kies de standert sykmasine foar gebrûk yn de adresbalke en sykbalke.
-search-engine-default-private-desc = Kies de standertsykmasine dy't jo yn priveefinsters brûke wolle.
 search-engine-default-desc-2 = Dit is jo standertsykmasine yn de adresbalke en de sykbalke. Jo kinne dizze op elk momint wizigje.
 search-engine-default-private-desc-2 = Kies in oare standertsykmasine dy't jo yn priveefinsters brûke wolle
 search-separate-default-engine =
@@ -723,6 +727,9 @@ privacy-header = Browserprivacy
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Oanmeldingen & Wachtwurden
 forms-ask-to-save-logins =
     .label = Freegje om oanmeldingen en wachtwurden foar websites te ûnthâlden
@@ -891,7 +898,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Oanpast
     .accesskey = O
 
-
+##
 
 content-blocking-etp-standard-desc = Balansearre foar beskerming en prestaasjes. Siden lade normaal.
 content-blocking-etp-strict-desc = Sterkere beskerming, mar kin der foar soargje dat guon websites of ynhâld net wurkje.
