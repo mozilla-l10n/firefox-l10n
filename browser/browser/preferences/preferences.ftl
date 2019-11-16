@@ -14,6 +14,11 @@ pref-page =
             [windows] Баптаулар
            *[other] Баптаулар
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Баптаулар
+       *[other] Баптаулар
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -307,7 +312,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Цифрлық құқықтарды басқару (DRM) құрамасы
 play-drm-content =
@@ -710,6 +715,9 @@ privacy-header = Браузер жекелігі
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Логиндер және парольдер
 forms-ask-to-save-logins =
     .label = Веб-сайттар үшін логиндер мен парольдерді сақтауды сұрау
@@ -869,7 +877,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Таңдауыңызша
     .accesskey = ы
 
-
+##
 
 content-blocking-social-media-trackers = Әлеуметтік желілер трекерлері
 content-blocking-all-cookies = Барлық cookie файлдары
