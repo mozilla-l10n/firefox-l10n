@@ -14,6 +14,11 @@ pref-page =
             [windows] Innstillinger
            *[other] Innstillinger
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Innstillinger
+       *[other] Innstillinger
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -311,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Digital Rights Management (DRM) innhold
 play-drm-content =
@@ -722,6 +727,9 @@ privacy-header = Nettleserpersonvern
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Innlogginger og passord
 forms-ask-to-save-logins =
     .label = Spør om å lagre brukernavn og passord for nettsteder
@@ -890,7 +898,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Tilpasset
     .accesskey = T
 
-
+##
 
 content-blocking-etp-standard-desc = Balansert for beskyttelse og ytelse. Sider lastes normalt.
 content-blocking-etp-strict-desc = Sterkere beskyttelse, men kan føre til at noen nettsteder eller innhold ikke vil fungere.
