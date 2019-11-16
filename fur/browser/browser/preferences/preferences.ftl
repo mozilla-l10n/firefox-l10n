@@ -8,6 +8,11 @@ pref-page =
             [windows] Opzions
            *[other] Preferencis
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Opzions
+       *[other] Preferencis
+    }
 pane-general-title = Gjenerâl
 category-general =
     .tooltiptext = { pane-general-title }
@@ -207,7 +212,26 @@ search-keyword-warning-bookmark = Tu âs sielzût une peraule clâf za doprade p
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
+
+## The device name controls.
 
 sync-tos-link = Tiermins dal servizi
 
@@ -215,6 +239,9 @@ sync-tos-link = Tiermins dal servizi
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = Ecezions…
