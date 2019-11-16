@@ -12,6 +12,11 @@ pref-page =
             [windows] Moslamalar
            *[other] Moslamalar
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Moslamalar
+       *[other] Moslamalar
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -473,6 +478,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Internet doim siz bilan birga
 sync-signedout-description = Xatcho‘plar, tarix, tablar, parollar, qo‘shimcha dasturlar va boshqa parametrlarni barcha qurilmalar aro sinxronlang.
 sync-signedout-account-title = { -fxaccount-brand-name } bilan ulanish
@@ -492,6 +501,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Firefox brauzerini mobil qurilmangiz bilan sinxronlash uchun <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> yoki <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> uchun versiyalarini yuklab oling.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Profil rasmini o‘zgartirish
@@ -513,6 +525,15 @@ sync-sign-in =
     .accesskey = K
 sync-signedin-settings-header = Sinxronizatsiya moslamalari
 sync-signedin-settings-desc = Qurilmangizda { -brand-short-name }dan foydalanib nimalarni sinxronlashni tanlang.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Xatchoʻplar
     .accesskey = X
@@ -547,6 +568,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Siz o‘zgartrigan umumiy, maxfiylik va xavfsizlik sozlamalari
     .accesskey = P
+
+## The device name controls.
+
 sync-device-name-header = Qurilma nomi
 sync-device-name-change =
     .label = Qurilma nomini o‘zgartirish…
@@ -565,6 +589,9 @@ sync-fxa-privacy-notice = Maxfiylik ogohlantirishlari
 privacy-header = Brauzer maxfiyligi
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-ask-to-save-logins =
     .label = Saytlar uchun taxallus va parollarni saqlash so‘ralsin
