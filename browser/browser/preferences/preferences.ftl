@@ -429,7 +429,6 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox Ev Məzmunu
 home-prefs-content-description = Firefox Evdə hansı məzmunları görmək istədiyinizi seçin.
-home-prefs-content-discovery-description = Firefox Evdəki Məzmun Kəşfi yüksək keyfiyyətli və sizə uyğun internet məqalələrini kəşf etməyinizə imkan verir.
 home-prefs-search-header =
     .label = Web Axtarış
 home-prefs-topsites-header =
@@ -526,6 +525,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Web-inizi özünüzlə gəzdirin
 sync-signedout-description = Əlfəçin, keçmiş, vərəq, parol, əlavə və nizamlamalarınızı bütün cihazlarınız arasında sinxronlaşdırın.
 sync-signedout-account-title = { -fxaccount-brand-name } ilə qoşulun
@@ -545,6 +548,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Mobil cihazınızda sinronlaşdırmaq istəyirsinizsə <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> və ya <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> üçün Firefox endirin.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Profil şəklini dəyiş
@@ -566,6 +572,15 @@ sync-sign-in =
     .accesskey = x
 sync-signedin-settings-header = Sync Tənzimləmələri
 sync-signedin-settings-desc = { -brand-short-name } işlədən cihazlarınızda nələrin sinxronlaşacağını seçin.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Əlfəcinlər
     .accesskey = c
@@ -600,6 +615,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Dəyişdirdiyiniz Ümumi, Məxfilik və Təhlükəsizlik tənzimləmələri
     .accesskey = l
+
+## The device name controls.
+
 sync-device-name-header = Cihaz Adı
 sync-device-name-change =
     .label = Cihaz adını dəyişdir…
@@ -621,6 +639,9 @@ sync-fxa-privacy-notice = Məxfilik Bildirişi
 privacy-header = Səyahər Məxfiliyi
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = Hesablar və Parollar
 forms-ask-to-save-logins =
