@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Contenido con Digital Rights Management (DRM)
 play-drm-content =
@@ -584,6 +584,9 @@ sync-signedout-account-create = ¿No tiene una cuenta? Comencemos
 sync-signedout-account-signin =
     .label = Ingresar…
     .accesskey = I
+sync-signedout-account-signin2 =
+    .label = Iniciar sesión en { -sync-brand-short-name }…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -731,6 +734,7 @@ privacy-header = Privacidad del navegador
 ## Privacy Section - Logins and Passwords
 
 logins-header = Inicios de sesión y contraseñas
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Preguntar acerca de guardar inicios de sesión y contraseñas para los sitios web
     .accesskey = r
@@ -744,6 +748,7 @@ forms-breach-alerts =
     .label = Mostrar alertas sobre contraseñas para sitios web violados
     .accesskey = b
 forms-breach-alerts-learn-more-link = Conocer más
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Autocompletar inicios de sesión y contraseñas
     .accesskey = i
@@ -898,7 +903,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizada
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = Equilibrado para protección y rendimiento. Las páginas se van a cargar normalmente.
 content-blocking-etp-strict-desc = Mayor protección, pero puede causar que algunos sitios o contenido no se carguen.
