@@ -8,6 +8,11 @@ pref-page =
             [windows] Tànneef
            *[other] Taamu yi
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Tànneef
+       *[other] Taamu yi
+    }
 pane-general-title = Ëmb lépp
 category-general =
     .tooltiptext = { pane-general-title }
@@ -210,7 +215,23 @@ search-keyword-warning-bookmark = Tànn nga caabi baat bu benn mandarga xët di 
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
     .label = Mandarga xët yi
@@ -218,12 +239,18 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Jaar jaar
     .accesskey = r
+
+## The device name controls.
+
 sync-tos-link = Sart yi ñu koy jëfandikoo
 
 ## Privacy Section
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = Seppi yi…
