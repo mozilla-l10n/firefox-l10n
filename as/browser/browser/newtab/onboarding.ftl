@@ -19,16 +19,22 @@ onboarding-button-label-get-started = আৰম্ভ কৰক
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = { -brand-short-name }-লৈ স্বাগতম
+onboarding-welcome-body = আপুনি ব্ৰাউজাৰ পালে।<br/>{ -brand-product-name }-ৰ বাকীখিনিৰ সৈতে চিনাকি হওঁক।
+onboarding-welcome-learn-more = লাভবোৰৰ বিষয়ে অধিক জানক।
 onboarding-join-form-header = { -brand-product-name }-ক যোগদান কৰক
 onboarding-join-form-body = আৰম্ভ কৰিবলৈ আপোনাৰ ইমেইল ঠিকনা প্ৰবিষ্ট কৰক।
 onboarding-join-form-email =
     .placeholder = ইমেইল প্ৰবিষ্ট কৰক
 onboarding-join-form-email-error = বৈধ ইমেইলৰ প্ৰয়োজন
+onboarding-join-form-legal = আগবাঢ়ি, আপুনি <a data-l10n-name="terms">সেৱাৰ চৰ্তাৱলী</a> আৰু <a data-l10n-name="privacy">গোপনীয়তা জাননী</a>লৈ সন্মতি জনাইছে।
 onboarding-join-form-continue = অব্যাহত ৰাখক
 onboarding-start-browsing-button-label = ব্ৰাউজ কৰা আৰম্ভ কৰক
 onboarding-cards-dismiss =
     .title = খাৰিজ কৰক
     .aria-label = খাৰিজ কৰক
+
+## Welcome full page string
+
 
 ## Firefox Sync modal dialog strings.
 
@@ -60,6 +66,8 @@ onboarding-benefit-products-title = উপযোগী পণ্য
 ## The string for the button is found above, in the UI strings section
 
 onboarding-screenshots-title = স্ক্ৰীণশ্ব'ট
+onboarding-screenshots-text = স্ক্ৰীণশ্ব'ট লওঁক, সঞ্চয় আৰু ভাগ-বতৰা কৰক - { -brand-short-name }-ৰ পৰা ওলাই নোযোৱাকৈয়ে। আপুনি ব্ৰাউজ কৰোঁতেই পৃষ্ঠাৰ কোনো অংশ বা গোটেইখিনি কেপচাৰ কৰক। পিছত সহজে পাবলৈ আৰু ভাগ-বতৰা কৰিবলৈ ৱেবত সঞ্চয় কৰক।
+onboarding-ghostery-title = Ghostery
 onboarding-tracking-protection-button2 = ই কেনেকৈ কাম কৰে
 onboarding-browse-privately-title = গোপনে ব্ৰাউজ কৰক
 onboarding-browse-privately-button = ব্যক্তিগত উইণ্ড' এখন খোলক
