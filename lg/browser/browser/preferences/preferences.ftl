@@ -8,6 +8,11 @@ pref-page =
             [windows] Ebyokulondako
            *[other] Okweroboza
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Ebyokulondako
+       *[other] Okweroboza
+    }
 pane-general-title = Awamu
 category-general =
     .tooltiptext = { pane-general-title }
@@ -214,7 +219,23 @@ search-keyword-warning-bookmark = Olonze ekigambo ekikulu ekiri mu kukozesebwa a
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
     .label = Obulambe
@@ -222,12 +243,18 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Ebyafaayo
     .accesskey = f
+
+## The device name controls.
+
 sync-tos-link = Amateeka g'empeereza
 
 ## Privacy Section
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = Okujjako…
