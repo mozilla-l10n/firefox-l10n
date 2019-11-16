@@ -12,6 +12,11 @@ pref-page =
             [windows] தேர்வுகள்
            *[other] முன்னுரிமைகள்
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] தேர்வுகள்
+       *[other] முன்னுரிமைகள்
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -417,7 +422,6 @@ choose-bookmark =
 
 home-prefs-content-header = Firefox முகப்பு உள்ளடக்கம்
 home-prefs-content-description = உங்கள் பயர்பாக்ஸ் முகப்புத் திரையில் என்ன உள்ளடக்கம் வேண்டுமென்று தேர்ந்தெடு.
-home-prefs-content-discovery-description = பயர்பாஃசு முகப்பில் உள்ள உள்ளடக்க கண்டுபிடிப்பு, வலைத்தளங்களில் உள்ள உயர் தர, தொடர்புடைய கட்டுரைகளைக் கண்டறிய அனுமதிக்கிறது.
 home-prefs-search-header =
     .label = வலை தேடல்
 home-prefs-topsites-header =
@@ -510,6 +514,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = இணைத்தை உங்களுடன் வைத்திருங்கள்
 sync-signedout-description = புத்தகக்குறிகள், வரலாறு, கீற்றுகள், கடவுச்சொற்கள், துணை நிரல்கள், மற்றும் முன்னுரிமைகளை எல்லா கருவிகளிலும் ஒத்திசை.
 sync-signedout-account-title = { -fxaccount-brand-name } உடன் இணையுங்கள்
@@ -529,6 +537,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = பயர்பாக்சை <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">ஆண்ட்ராய்டு</a> (அ) <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> இயங்குதளங்களுக்குப் பதிவிறக்கி கைபேசியுடன் ஒத்திசையுங்கள்.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = சுயவிவரப் படத்தை மாற்று
@@ -550,6 +561,15 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = ஒத்திசைவு அமைவுகள்
 sync-signedin-settings-desc = கீழ்க்கண்டவற்றில் வேண்டியதைத் தேர்வு செய்து { -brand-short-name } மூலம் ஒத்திசை.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = புத்தகக்குறிகள்
     .accesskey = m
@@ -584,6 +604,9 @@ sync-engine-prefs =
         }
     .tooltiptext = நீங்கள் மாற்றியுள்ள பொதுவான, தனியுரிமை மற்றும் பாதுகாப்பு அமைப்புகள்
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = கருவியின் பெயர்
 sync-device-name-change =
     .label = கருவியின் பெயரை மாற்றவும்…
@@ -602,6 +625,9 @@ sync-fxa-privacy-notice = தனியுரிம கொள்கை
 privacy-header = உலாவி தனியுரிமை
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-ask-to-save-logins =
     .label = இணைய தளங்களுக்கான புகுபதிகைகள் கடவுச்சொற்களை சேமிக்க கேள்
