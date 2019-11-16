@@ -12,6 +12,11 @@ pref-page =
             [windows] Pilihan
            *[other] Keutamaan
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Pilihan
+       *[other] Keutamaan
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -506,6 +511,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Bawa Web dengan anda
 sync-signedout-description = Sync tandabuku, sejarah, tab, kata laluan, add-ons dan pilihan anda pada semua peranti anda.
 sync-signedout-account-title = Sambung dengan { -fxaccount-brand-name }
@@ -525,6 +534,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Muat turun Firefox untuk<img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> atau <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> untuk sync dengan peranti mudah alih anda.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Tukar gambar profil
@@ -546,6 +558,15 @@ sync-sign-in =
     .accesskey = d
 sync-signedin-settings-header = Tetapan Sync
 sync-signedin-settings-desc = Pilih ciri yang mahu anda sync pada peranti menggunakan { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Tandabuku
     .accesskey = a
@@ -580,6 +601,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Tetapan Umum, Privasi dan Keselamatan yang anda sudah ubah
     .accesskey = a
+
+## The device name controls.
+
 sync-device-name-header = Nama Peranti
 sync-device-name-change =
     .label = Tukar Nama Peranti…
@@ -598,6 +622,9 @@ sync-fxa-privacy-notice = Notis Privasi
 privacy-header = Privasi Pelayar
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = Log masuk & Kata laluan
 forms-ask-to-save-logins =
