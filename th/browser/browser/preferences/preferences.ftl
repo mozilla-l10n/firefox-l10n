@@ -14,6 +14,11 @@ pref-page =
             [windows] ตัวเลือก
            *[other] ค่ากำหนด
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] ตัวเลือก
+       *[other] ค่ากำหนด
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -299,7 +304,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = เนื้อหา Digital Rights Management (DRM)
 play-drm-content =
@@ -492,7 +497,6 @@ search-bar-shown =
     .label = เพิ่มแถบค้นหาในแถบเครื่องมือ
 search-engine-default-header = เครื่องมือค้นหาเริ่มต้น
 search-engine-default-desc = เลือกเครื่องมือค้นหาเริ่มต้นที่จะใช้ในแถบที่อยู่และแถบค้นหา
-search-engine-default-private-desc = เลือกเครื่องมือค้นหาเริ่มต้นเพื่อใช้ในหน้าต่างส่วนตัว
 search-engine-default-desc-2 = นี่คือเครื่องมือค้นหาเริ่มต้นของคุณในแถบที่อยู่และแถบค้นหา คุณสามารถเปลี่ยนได้ตลอดเวลา
 search-engine-default-private-desc-2 = เลือกเครื่องมือค้นหาเริ่มต้นอื่นสำหรับเฉพาะหน้าต่างส่วนตัว
 search-separate-default-engine =
@@ -707,6 +711,9 @@ privacy-header = ความเป็นส่วนตัวเบราว์
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = การเข้าสู่ระบบและรหัสผ่าน
 forms-ask-to-save-logins =
     .label = ถามเพื่อบันทึกการเข้าสู่ระบบและรหัสผ่านสำหรับเว็บไซต์
@@ -875,7 +882,7 @@ enhanced-tracking-protection-setting-custom =
     .label = กำหนดเอง
     .accesskey = ก
 
-
+##
 
 content-blocking-etp-standard-desc = การป้องกันและประสิทธิภาพแบบสมดุล หน้าเว็บจะโหลดเป็นปกติ
 content-blocking-etp-strict-desc = การป้องกันที่แกร่งขึ้น แต่อาจทำให้บางไซต์หรือเนื้อหาหยุดทำงานได้
