@@ -8,6 +8,11 @@ pref-page =
             [windows] Kuan tak kel xhin
            *[other] Koo lash luu
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Kuan tak kel xhin
+       *[other] Koo lash luu
+    }
 pane-general-title = Ree ta koo taak niel
 category-general =
     .tooltiptext = { pane-general-title }
@@ -178,21 +183,43 @@ search-choose-keyword-column =
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-signedin-login-failure = -taɁ lélù { $email }
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Ndó~làz=ná
     .accesskey = z
 sync-engine-history =
     .label = Ree koo güil
     .accesskey = o
+
+## The device name controls.
+
 sync-tos-link = Xha mub kee noo xhin
 
 ## Privacy Section
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = Koo tak toob luu...
