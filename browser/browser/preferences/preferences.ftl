@@ -14,6 +14,11 @@ pref-page =
             [windows] Nastajenja
            *[other] Nastajenja
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Nastajenja
+       *[other] Nastajenja
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -317,7 +322,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Wobsah Digital Right Management (DRM)
 play-drm-content =
@@ -516,7 +521,6 @@ search-bar-shown =
     .label = Pytanske polo symbolowej lajsće přidać
 search-engine-default-header = Standardna pytawa
 search-engine-default-desc = Wubjerće standardnu pytawu, kotraž ma so w adresowym polu a pytanskim polu wužiwać.
-search-engine-default-private-desc = Wubjerće standardnu pytawu za wužiwanje w priwatnych woknach.
 search-engine-default-desc-2 = To je waša standardna pytawa w adresowej lajsće a pytanskej lajsće. Móžeće je kóždy raz přepinać.
 search-engine-default-private-desc-2 = Wubjerće druhu standardnu pytawu jenož za priwatny modus
 search-separate-default-engine =
@@ -731,6 +735,9 @@ privacy-header = Priwatnosć wobhladowaka
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Přizjewjenja a hesła
 forms-ask-to-save-logins =
     .label = Prašeć so, hač so maja přizjewjenja a hesła składować
@@ -899,7 +906,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Swójski
     .accesskey = S
 
-
+##
 
 content-blocking-etp-standard-desc = Wuwaženy za škit a wukon. Strony so normalnje začitaja.
 content-blocking-etp-strict-desc = Mócniši škit, ale móže zawinować, zo někotre sydła abo wobsa hižo njefunguja.
