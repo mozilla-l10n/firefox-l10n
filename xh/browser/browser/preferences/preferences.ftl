@@ -12,6 +12,11 @@ pref-page =
             [windows] Ekunokukhethwa kuko
            *[other] Izikhethwa
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Ekunokukhethwa kuko
+       *[other] Izikhethwa
+    }
 pane-general-title = Jikelele
 category-general =
     .tooltiptext = { pane-general-title }
@@ -355,6 +360,10 @@ containers-add-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Phatha iWebhu Yakho Apho Ukhoyo
 sync-signedout-description = Ngqamanisa iibhukmakhi zakho, iimbali, iithebhu, iiphaswedi, ezongezelelwayo, kunye neepreferensi kuzo zonke izixhobo zakho.
 sync-signedout-account-title = Qhagamshela nge{ -fxaccount-brand-name }
@@ -370,6 +379,9 @@ sync-mobile-promo = Dawnlowuda iFirefox ye<img data-l10n-name="android-icon"/> <
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Tshintsha umfanekiso weprofayili
 sync-disconnect =
@@ -382,12 +394,24 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Ngqamanisa iiSetingi
 sync-signedin-settings-desc = Khetha izinto oza kuzingqamanisa kwizixhobo zakho usebenzisa i{ -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Izalathisi eziphawulayo
     .accesskey = e
 sync-engine-history =
     .label = Imbali
     .accesskey = l
+
+## The device name controls.
+
 sync-device-name-header = Igama lesixhobo
 sync-device-name-change =
     .label = Tshintsha iGama leSixhobo...
@@ -405,6 +429,9 @@ sync-fxa-privacy-notice = Isaziso sabucala
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = Izinxaxhi…
