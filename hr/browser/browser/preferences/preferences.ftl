@@ -14,6 +14,11 @@ pref-page =
             [windows] Mogućnosti
            *[other] Postavke
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Mogućnosti
+       *[other] Postavke
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -314,7 +319,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Digital Rights Management (DRM) sadržaj
 play-drm-content =
@@ -899,7 +904,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Prilagođeno
     .accesskey = P
 
-
+##
 
 content-blocking-etp-standard-desc = Uravnoteženo za zaštitu i performansu. Stranice će se normalno učitavati.
 content-blocking-etp-strict-desc = Jača zaštita, ali može prouzročiti lom nekih web lokacija ili sadržaja.
