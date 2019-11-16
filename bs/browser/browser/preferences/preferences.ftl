@@ -12,6 +12,11 @@ pref-page =
             [windows] Opcije
            *[other] Postavke
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Opcije
+       *[other] Postavke
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -488,6 +493,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Ponesite vaš Web sa vama
 sync-signedout-description = Sinhronizujte vaše zabilješke, historiju, tabove, lozinke, add-one, i druge postavke na svim vašim uređajima.
 sync-signedout-account-title = Poveži se sa { -fxaccount-brand-name }
@@ -507,6 +516,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Preuzmi Firefox za <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ili <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> za sinhronizaciju sa vašim mobilnim uređajem.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Promijenite profilnu sliku
@@ -528,6 +540,15 @@ sync-sign-in =
     .accesskey = a
 sync-signedin-settings-header = Sync postavke
 sync-signedin-settings-desc = Izaberite šta sinhronizovati na vašim uređajima pomoću { -brand-short-name }a.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Zabilješke
     .accesskey = Z
@@ -562,6 +583,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Opće, postavke privatnosti, te sigurnosti koje ste promijenili
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Naziv uređaja
 sync-device-name-change =
     .label = Promijeni naziv uređaja…
@@ -580,6 +604,9 @@ sync-fxa-privacy-notice = Polica privatnosti
 privacy-header = Privatnost browsera
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-ask-to-save-logins =
     .label = Pitaj za pamćenje prijava i lozinki za web stranice
