@@ -8,6 +8,11 @@ pref-page =
             [windows] Сонголт
            *[other] Тохируулга
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Сонголт
+       *[other] Тохируулга
+    }
 pane-general-title = Ердийн
 category-general =
     .tooltiptext = { pane-general-title }
@@ -199,7 +204,26 @@ search-keyword-warning-bookmark = Та одоогоор хаяганд хэрэ�
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
+
+## The device name controls.
 
 sync-tos-link = үйлчилгээний нөхцөл
 
@@ -207,6 +231,9 @@ sync-tos-link = үйлчилгээний нөхцөл
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = Зөвшөөрөгдсөн хуудас…
