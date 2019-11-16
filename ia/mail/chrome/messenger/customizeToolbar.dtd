@@ -1,0 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialog.title             "Personalisar le barra de instrumentos">
+<!ENTITY iconsAndText.label       "Icones e texto">
+<!ENTITY icons.label              "Icones">
+<!ENTITY undoChanges.label        "Disfacer le cambios">
