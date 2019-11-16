@@ -12,6 +12,11 @@ pref-page =
             [windows] Opcións
            *[other] Preferencias
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Opcións
+       *[other] Preferencias
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -522,6 +527,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Leve a Web con vostede
 sync-signedout-description = Sincronice os marcadores, o historial, as lapelas, os contrasinais, os complementos e as preferencias en todos os seus dispositivos.
 sync-signedout-account-title = Conectar con { -fxaccount-brand-name }
@@ -541,6 +550,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Descargar Firefox para <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ou <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> para sincronizar co seu dispositivo móbil.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Cambiar a foto do perfil
@@ -562,6 +574,15 @@ sync-sign-in =
     .accesskey = f
 sync-signedin-settings-header = Configuración de Sync
 sync-signedin-settings-desc = Use { -brand-short-name } para seleccionar o que desexa sincronizar nos seus dispositivos
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = M
@@ -596,6 +617,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Axustes xerais, de privacidade e seguranza que vostede cambiou
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Nome do dispositivo
 sync-device-name-change =
     .label = Cambiar nome do dispositivo…
@@ -614,6 +638,9 @@ sync-fxa-privacy-notice = Política de privacidade
 privacy-header = Privacidade do navegador
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = Identificacións e contrasinais
 forms-ask-to-save-logins =
