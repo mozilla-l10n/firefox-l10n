@@ -314,7 +314,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Skaitmeninių teisių valdymo (DRM) turinys
 play-drm-content =
@@ -512,7 +512,6 @@ search-bar-shown =
     .label = Pridėti paieškos lauką į priemonių juostą
 search-engine-default-header = Numatytoji ieškyklė
 search-engine-default-desc = Pasirinkite numatytąją ieškyklę, kuri bus naudojama adreso ir paieškos laukuose.
-search-engine-default-private-desc = Pasirinkite numatytąją ieškyklę, kuri bus naudojama privačiuose languose.
 search-engine-default-desc-2 = Tai yra jūsų numatytoji ieškyklė adreso ir paieškos laukuose. Ją galite bet kada pakeisti.
 search-engine-default-private-desc-2 = Pasirinkite kitą numatytąją ieškyklę, kuri bus skirta tik privačiojo naršymo langams
 search-separate-default-engine =
@@ -727,6 +726,9 @@ privacy-header = Naršyklės privatumas
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Prisijungimai ir slaptažodžiai
 forms-ask-to-save-logins =
     .label = Klausti, ar norite įrašyti svetainių prisijungimus ir slaptažodžius
@@ -895,7 +897,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Pasirinktinė
     .accesskey = P
 
-
+##
 
 content-blocking-etp-standard-desc = Subalansuota apsaugai ir našumui. Tinklalapiai bus įkeliami įprastai.
 content-blocking-etp-strict-desc = Stipresnė apsauga, tačiau gali sutrikti kai kurių svetainių veikimas.
