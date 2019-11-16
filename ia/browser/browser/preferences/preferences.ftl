@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Contento protegite per DRM (Gestion de Derectos Digital)
 play-drm-content =
@@ -583,6 +583,9 @@ sync-signedout-account-create = Non ha un conto? Comencia hic
     .accesskey = C
 sync-signedout-account-signin =
     .label = Aperir session…
+    .accesskey = A
+sync-signedout-account-signin2 =
+    .label = Aperir session a { -sync-brand-short-name }…
     .accesskey = A
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -900,7 +903,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalisate
     .accesskey = P
 
-##
+
 
 content-blocking-etp-standard-desc = Balanciate pro protection e efficientia. Le paginas se carga normalmente.
 content-blocking-etp-strict-desc = Protection reinfortiate, ma certe sitos o contento pote non functionar correctemente.

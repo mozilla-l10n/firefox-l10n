@@ -16,6 +16,7 @@ auto-refresh = Refrescamento automatic cata 3 secundas
 hostname = Nomine del hoste
 port = Porta
 http2 = HTTP/2
+about-networking-http-version = Version de HTTP
 ssl = SSL
 active = Active
 idle = Inactive

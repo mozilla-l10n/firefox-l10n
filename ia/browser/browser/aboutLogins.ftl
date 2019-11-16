@@ -82,6 +82,7 @@ about-logins-intro-import = Si tu credentiales es salvate in un altere navigator
 login-item-new-login-title = Crear nove credentiales
 login-item-edit-button = Modificar
 login-item-delete-button = Deler
+about-logins-login-item-remove-button = Remover
 login-item-origin-label = Adresse web
 login-item-origin =
     .placeholder = https://www.example.com
@@ -125,6 +126,7 @@ enable-password-sync-preferences-button =
            *[other] Visita Preferentias de { -sync-brand-short-name }
         }
     .accesskey = V
+confirm-delete-dialog-title = Deler iste credentiales?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Non plus demandar me isto
     .accesskey = N
@@ -134,9 +136,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Cancellar
 confirmation-dialog-dismiss-button =
     .title = Cancellar
-confirm-delete-dialog-title = Deler iste credentiales?
+about-logins-confirm-remove-dialog-title = Remover iste credentiales?
 confirm-delete-dialog-message = Iste action es irreversibile.
 confirm-delete-dialog-confirm-button = Deler
+about-logins-confirm-remove-dialog-confirm-button = Remover
 confirm-discard-changes-dialog-title = Abandonar le modificationes non salvate?
 confirm-discard-changes-dialog-message = Tote le modificationes non salvate essera perdite.
 confirm-discard-changes-dialog-confirm-button = Abandonar

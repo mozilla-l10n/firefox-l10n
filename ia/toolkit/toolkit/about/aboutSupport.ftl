@@ -150,6 +150,22 @@ intl-locales-default = Localisation predefinite
 intl-os-title = Systema de operation
 intl-os-prefs-system-locales = Localisationes del systema
 intl-regional-prefs = Preferentias regional
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Depuration remote (protocollo de Chromium)
+remote-debugging-accepting-connections = Connexiones ora acceptate
+remote-debugging-url = Adresse URL
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
