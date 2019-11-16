@@ -14,6 +14,11 @@ pref-page =
             [windows] Uzziuna
            *[other] Prifirenzi
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Uzziuna
+       *[other] Prifirenzi
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -467,6 +472,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Portati appressu la to Riti
 sync-signedout-description = Sincrunizza li to nzingalibbra, la crunuluggìa, li schedi, li palori d'accessu, l'agghiuncitini e li prifirenzi attraversu tutti li to dispusitivi.
 sync-signedout-account-title = Cunnetti cu un { -fxaccount-brand-name }
@@ -486,6 +495,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Scàrrica Firefox pi <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> pi sincrunizzàriti cû to dispusitivu mòbbili.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Cancia la mmàggini di prufilu
@@ -507,6 +519,15 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Mpustazziuna di sincrunizzazziuni
 sync-signedin-settings-desc = Scigghi chi vo' sincrunizzari nnê to dispusitivi usannu { -brand-short-name }
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Nzingalibbra
     .accesskey = m
@@ -541,6 +562,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Mpustazziuna ginirali, di privatizza e di sicurizza ca canciasti
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Nomu dû dispusitivu
 sync-device-name-change =
     .label = Cancia lu nomu dû dispusitivu...
@@ -562,6 +586,9 @@ sync-fxa-privacy-notice = Abbisu di privatizza
 privacy-header = Privatizza navigaturi
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = Accessi e palori d'accessu
 forms-ask-to-save-logins =
