@@ -80,6 +80,7 @@ about-logins-intro-instruction-help = Көбірек білу үшін, <a data-
 login-item-new-login-title = Жаңа логинді жасау
 login-item-edit-button = Түзету
 login-item-delete-button = Өшіру
+about-logins-login-item-remove-button = Өшіру
 login-item-origin-label = Веб-сайт адресі
 login-item-origin =
     .placeholder = https://www.example.com
@@ -118,6 +119,7 @@ enable-password-sync-preferences-button =
            *[other] { -sync-brand-short-name } баптауларын ашыңыз
         }
     .accesskey = п
+confirm-delete-dialog-title = Бұл логинді өшіру керек пе?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Келесіде осы сұрақты қоймау
     .accesskey = д
@@ -127,9 +129,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Бас тарту
 confirmation-dialog-dismiss-button =
     .title = Бас тарту
-confirm-delete-dialog-title = Бұл логинді өшіру керек пе?
+about-logins-confirm-remove-dialog-title = Бұл логинді өшіру керек пе?
 confirm-delete-dialog-message = Бұл әрекетті болдырмау мүмкін емес болады.
 confirm-delete-dialog-confirm-button = Өшіру
+about-logins-confirm-remove-dialog-confirm-button = Өшіру
 confirm-discard-changes-dialog-title = Сақталмаған өзгерістерді тайдыру керек пе?
 confirm-discard-changes-dialog-message = Барлық сақталмаған өзгерістер жоғалады.
 confirm-discard-changes-dialog-confirm-button = Тайдыру
