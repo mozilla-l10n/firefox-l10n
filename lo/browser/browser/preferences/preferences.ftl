@@ -12,6 +12,11 @@ pref-page =
             [windows] ທາງເລືອກ
            *[other] ຕັ້ງຄ່າ
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] ທາງເລືອກ
+       *[other] ຕັ້ງຄ່າ
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -387,6 +392,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = ນຳເອົາເວັບຂອງທ່ານໄປກັບທ່ານ
 sync-signedout-description = ເຊື່ອມຂໍ້ມູນບຸກມາກ, ປະຫວັດການໃຊ້ງານລ່າສຸດ, ແທັບ, ລະຫັດຜ່ານ, ສ່ວນເສີມ, ແລະການຕັ້ງຄ່າຂອງທ່ານໃຫ້ກົງກັນໃນທຸກໆອຸປະກອນ.
 sync-signedout-account-title = ເຊື່ອມຕໍ່ດ້ວຍ { -fxaccount-brand-name }
@@ -406,6 +415,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = ດາວໂຫລດ Firefox ສຳລັບ <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> ຫລື <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ເພື່ອຊິງຄ໌ກັບອຸປະກອນມືຖືຂອງທ່ານ.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = ປ່ຽນຮູບປະຈຳຕົວ
@@ -427,6 +439,15 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = ການຕັ້ງຄ່າ Sync
 sync-signedin-settings-desc = ເລືອກຂໍ້ມູນທີ່ຈະເຊື່ອມໃນອຸປະກອນຂອງທ່ານໂດຍໃຊ້ { -brand-short-name }
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = ບຸກມາກ
     .accesskey = m
@@ -461,6 +482,9 @@ sync-engine-prefs =
         }
     .tooltiptext = ການຄັ້ງຄ່າທົ່ວໄປ, ສ່ວນໂຕ, ແລະຄວາມປອດໄພທີ່ທ່ານໄດ້ປ່ຽນແປງ
     .accesskey = ຕ
+
+## The device name controls.
+
 sync-device-name-header = ຊື່ອຸປະກອນ
 sync-device-name-change =
     .label = ປ່ຽນຊື່ອຸປະກອນ…
@@ -479,6 +503,9 @@ sync-fxa-privacy-notice = ນະໂຍບາຍຄວາມເປັນສ່ວ
 privacy-header = ຄວາມເປັນສ່ວນຕົວຂອງບຣາວເຊີ
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-ask-to-save-logins =
     .label = ຖາມເພື່ອບັນທຶກການເຂົ້າສູ່ລະບົບແລະລະຫັດຜ່ານສຳລັບເວັບໄຊ
