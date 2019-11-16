@@ -12,6 +12,11 @@ pref-page =
             [windows] विकल्प
            *[other] वरीयता
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] विकल्प
+       *[other] वरीयता
+    }
 pane-general-title = सामान्य
 category-general =
     .tooltiptext = { pane-general-title }
@@ -285,21 +290,40 @@ search-keyword-warning-bookmark = अहाँ एकटाटा बीजश�
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-description = अपन सभ उपकरण पर अपन बुकमार्क, इतिहास, टैब, पासवर्ड, ऐड-ऑन, आओर वरीयताकेँ तुल्यकालित करू.
 sync-signedout-account-title = { -fxaccount-brand-name } सँग कनेक्ट करू.
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = प्रोफ़ाइल फोटो बदलू
 sync-signedin-unverified = { $email } सत्यापित नहि अछि.
 sync-signedin-login-failure = फिनु सँ कनेक्ट करबाक लेल साइन इन करू { $email }
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = पुस्तचिह्न
     .accesskey = m
 sync-engine-history =
     .label = इतिहास
     .accesskey = r
+
+## The device name controls.
+
 sync-device-name-header = युक्ति नाम
 sync-tos-link = सेवा शर्त
 sync-fxa-privacy-notice = गोपनीयता नीति
@@ -308,6 +332,9 @@ sync-fxa-privacy-notice = गोपनीयता नीति
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = अपवाद…
