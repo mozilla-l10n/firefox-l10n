@@ -82,6 +82,7 @@ about-logins-intro-import = Si sus inicios de sesión se guardan en otro navegad
 login-item-new-login-title = Crear nuevo inicio de sesión
 login-item-edit-button = Editar
 login-item-delete-button = Eliminar
+about-logins-login-item-remove-button = Eliminar
 login-item-origin-label = Dirección web
 login-item-origin =
     .placeholder = https://www.example.com
@@ -125,6 +126,7 @@ enable-password-sync-preferences-button =
            *[other] Vaya a Preferencias de { -sync-brand-short-name }
         }
     .accesskey = V
+confirm-delete-dialog-title = ¿Borrar este inicio de sesión?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = No preguntarme de nuevo
     .accesskey = D
@@ -134,9 +136,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
-confirm-delete-dialog-title = ¿Borrar este inicio de sesión?
+about-logins-confirm-remove-dialog-title = ¿Eliminar este inicio de sesión?
 confirm-delete-dialog-message = Esta acción no puede deshacerse.
 confirm-delete-dialog-confirm-button = Eliminar
+about-logins-confirm-remove-dialog-confirm-button = Eliminar
 confirm-discard-changes-dialog-title = ¿Descartar cambios no guardados?
 confirm-discard-changes-dialog-message = Se van a perder todos los cambios no guardados.
 confirm-discard-changes-dialog-confirm-button = Descartar
