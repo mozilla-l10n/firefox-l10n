@@ -160,6 +160,8 @@ intl-regional-prefs = 區域偏好設定
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = 遠端除錯（Chromium 通訊協定）
+remote-debugging-accepting-connections = 接受連線
 remote-debugging-url = 網址
 
 
