@@ -14,6 +14,11 @@ pref-page =
             [windows] Налаштування
            *[other] Налаштування
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Налаштування
+       *[other] Налаштування
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -314,7 +319,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Вміст з керуванням цифровими правами (DRM)
 play-drm-content =
@@ -726,6 +731,9 @@ privacy-header = Приватність браузера
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Входи і паролі
 forms-ask-to-save-logins =
     .label = Запит збереження паролів для веб-сайтів
@@ -894,7 +902,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Власний
     .accesskey = л
 
-
+##
 
 content-blocking-etp-standard-desc = Збалансований захист і швидкодія. Сторінки завантажуватимуться нормально.
 content-blocking-etp-strict-desc = Надійніший захист, але може пошкоджувати деякі сайти чи їх вміст.
