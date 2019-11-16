@@ -14,6 +14,11 @@ pref-page =
             [windows] Inpostaçioin
            *[other] Preferense
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Inpostaçioin
+       *[other] Preferense
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -306,7 +311,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Contegnuo da Gestion di Diritti Digitali (DRM)
 play-drm-content =
@@ -648,6 +653,9 @@ privacy-header = Privacy do navegatô
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Login e Poule segrete
 forms-ask-to-save-logins =
     .label = Domanda se sarvâ acessi e poule segrete pe-i sciti
@@ -795,7 +803,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizzou
     .accesskey = P
 
-
+##
 
 content-blocking-all-cookies = Tutti i cookie
 content-blocking-all-windows-trackers = Elementi che tracian conosciui in tutti i barcoin
