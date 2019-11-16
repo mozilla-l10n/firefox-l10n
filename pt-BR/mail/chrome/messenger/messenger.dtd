@@ -971,3 +971,7 @@
 <!ENTITY dockOptions.label              "Opções do ícone…">
 <!ENTITY writeNewMessageDock.label      "Escrever nova mensagem">
 <!ENTITY openAddressBookDock.label      "Abrir catálogo de endereços">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Voltar uma página">
+<!ENTITY browseForwardButton.tooltip "Avançar uma página">
