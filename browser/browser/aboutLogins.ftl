@@ -79,6 +79,7 @@ about-logins-intro-import = אם הכניסות שלך שמורות בדפדפן
 login-item-new-login-title = יצירת כניסה חדשה
 login-item-edit-button = עריכה
 login-item-delete-button = מחיקה
+about-logins-login-item-remove-button = הסרה
 login-item-origin-label = כתובת אתר
 login-item-origin =
     .placeholder = https://www.example.com
@@ -114,6 +115,7 @@ enable-password-sync-preferences-button =
            *[other] פתיחת העדפות { -sync-brand-short-name }
         }
     .accesskey = פ
+confirm-delete-dialog-title = האם למחוק כניסה זו?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = לא לשאול אותי שוב
     .accesskey = ל
@@ -123,9 +125,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = ביטול
 confirmation-dialog-dismiss-button =
     .title = ביטול
-confirm-delete-dialog-title = האם למחוק כניסה זו?
+about-logins-confirm-remove-dialog-title = להסיר כניסה זו?
 confirm-delete-dialog-message = לא ניתן לבטל פעולה זו.
 confirm-delete-dialog-confirm-button = מחיקה
+about-logins-confirm-remove-dialog-confirm-button = הסרה
 confirm-discard-changes-dialog-title = האם לבטל את השינויים שלא נשמרו?
 confirm-discard-changes-dialog-message = כל השינויים שלא נשמרו יאבדו.
 
