@@ -456,7 +456,6 @@ choose-bookmark =
 
 home-prefs-content-header = Садржај Firefox почетне странице
 home-prefs-content-description = Изаберите садржај који желите видети на вашој Firefox почетној страници.
-home-prefs-content-discovery-description = Откривање садржаја на Firefox почетној вам омогућава да добијете веома квалитетне и вама значајне чланке са целог веба.
 home-prefs-search-header =
     .label = Веб претрага
 home-prefs-topsites-header =
@@ -554,6 +553,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Понесите веб са собом
 sync-signedout-description = Синхронизујте забелешке, историјат, јазичке, лозинке, додатке и поставке на свим уређајима.
 sync-signedout-account-title = Повезивање са { -fxaccount-brand-name }
@@ -573,6 +576,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Преузмите Firefox за <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> или <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> да синхронизујете ваше мобилне уређаје.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Промени профилну слику
@@ -594,6 +600,15 @@ sync-sign-in =
     .accesskey = и
 sync-signedin-settings-header = Sync поставке
 sync-signedin-settings-desc = Изаберите шта да се синхронизује на вашем уређају користећи { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Забелешке
     .accesskey = З
@@ -628,6 +643,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Опште, поставке приватности и безбедности које сте изменили
     .accesskey = П
+
+## The device name controls.
+
 sync-device-name-header = Име уређаја
 sync-device-name-change =
     .label = Измени име уређаја…
@@ -649,6 +667,9 @@ sync-fxa-privacy-notice = Обавештење о приватности
 privacy-header = Приватност прегледача
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = Пријаве и лозинке
 forms-ask-to-save-logins =
