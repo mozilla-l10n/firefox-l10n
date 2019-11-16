@@ -12,6 +12,11 @@ pref-page =
             [windows] Cuɓe
            *[other] Cuɓoraaɗe
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Cuɓe
+       *[other] Cuɓoraaɗe
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -301,7 +306,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Loowdi Toppitagol Jojjanɗe Ngaandiwe (DRM)
 play-drm-content =
@@ -637,6 +642,9 @@ privacy-header = Suturo Wanngorde
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Ceŋorɗe & Pinle
 forms-ask-to-save-logins =
     .label = Laaɓndo mbele a hisnat baccooje e pinle lowe
@@ -750,7 +758,7 @@ content-blocking-learn-more = Ɓeydu humpito
 ## Enhanced Tracking Protection.
 
 
-
+##
 
 content-blocking-tracking-protection-change-block-list = Waylo doggol padde
 
