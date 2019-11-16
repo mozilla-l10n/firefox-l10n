@@ -12,6 +12,11 @@ pref-page =
             [windows] Atô
            *[other] Atô
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Atô
+       *[other] Atô
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -478,6 +483,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Cok Web Droen Sajan Droen
 sync-signedout-description = Peuakô bookmark droen, riwayat, tab, lageuem rahsia, add-on, ngön preferensi antara mandum peukakah droen.
 sync-signedout-account-title = Meuhubông ngön saboh { -fxaccount-brand-name }
@@ -497,6 +506,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Donlod Firefox keu <img data-l10n-name="android-icon"/><a data-l10n-name="android-link"> Android </a> atawa <img data-l10n-name="ios-icon"/><a data-l10n-name="ios-link"> iOS</a> bah jeut saban hi lam peukakah mobile droen.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Gantoe gamba profil
@@ -518,6 +530,15 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Peuakô neuatô
 sync-signedin-settings-desc = Pileh pue ta sinkron lam peukakah droen nyang ngui { -brand-short-name }
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Bôh tanda
     .accesskey = B
@@ -552,6 +573,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Atô Umom, Jaga Rasia, ngön Keuamanan nyang neugantoe
     .accesskey = A
+
+## The device name controls.
+
 sync-device-name-header = Nan Peukakah
 sync-device-name-change =
     .label = Gantoe Nan Peukakah...
@@ -570,6 +594,9 @@ sync-fxa-privacy-notice = Bri thëe privasi
 privacy-header = Privasi Browser
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-ask-to-save-logins =
     .label = Lakèe keubah info tamong ngön lageuem rahsia keu situs wèb
