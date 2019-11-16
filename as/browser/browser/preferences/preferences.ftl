@@ -8,6 +8,11 @@ pref-page =
             [windows] বিকল্প
            *[other] পছন্দসমূহ
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] বিকল্প
+       *[other] পছন্দসমূহ
+    }
 pane-general-title = সাধাৰণ
 category-general =
     .tooltiptext = { pane-general-title }
@@ -235,16 +240,35 @@ search-keyword-warning-bookmark = এটা পত্ৰচিহ্নৰ দ�
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-signedin-unverified = আপোনাৰ ইমেইল ঠিকনা { $email } সতা সত্য নিৰূপিত নহয়।
 sync-signedin-login-failure = পুনৰ সংযোগ কৰিবলৈ অনুগ্ৰহ কৰি ছাইন ইন কৰক { $email }
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = পত্ৰচিহ্নসমূহ
     .accesskey = m
 sync-engine-history =
     .label = ইতিহাস
     .accesskey = r
+
+## The device name controls.
+
 sync-tos-link = সেৱাৰ চুক্তিসমূহ
 sync-fxa-privacy-notice = গোপনীয়তা ঘোষণা
 
@@ -252,6 +276,9 @@ sync-fxa-privacy-notice = গোপনীয়তা ঘোষণা
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = ব্যতিক্ৰমসমূহ…
