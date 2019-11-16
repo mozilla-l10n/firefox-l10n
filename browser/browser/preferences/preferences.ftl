@@ -311,7 +311,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Contenido con Digital Rights Management (DRM)
 play-drm-content =
@@ -508,7 +508,6 @@ search-bar-shown =
     .label = Agregar barra de búsqueda a la barra de herramientas
 search-engine-default-header = Buscador predeterminado
 search-engine-default-desc = Seleccionar el buscador predeterminado para usar en la barra de direcciones y la barra de búsqueda.
-search-engine-default-private-desc = Elija el motor de búsqueda predeterminado para usar en ventanas privadas
 search-engine-default-desc-2 = Este es su motor de búsqueda predeterminado en la barra de direcciones y la barra de búsqueda. Puede cambiarlo en cualquier momento.
 search-engine-default-private-desc-2 = Establecer como motor de búsqueda predeterminado solo para ventanas privadas
 search-separate-default-engine =
@@ -723,6 +722,9 @@ privacy-header = Privacidad del navegador
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Inicios de sesión y contraseñas
 forms-ask-to-save-logins =
     .label = Preguntar acerca de guardar inicios de sesión y contraseñas para los sitios web
@@ -891,7 +893,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizada
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = Equilibrado para protección y rendimiento. Las páginas se van a cargar normalmente.
 content-blocking-etp-strict-desc = Mayor protección, pero puede causar que algunos sitios o contenido no se carguen.
