@@ -14,6 +14,11 @@ pref-page =
             [windows] Seçenekler
            *[other] Tercihler
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Seçenekler
+       *[other] Tercihler
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -311,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Sayısal Hak Yönetimi (DRM) içerikleri
 play-drm-content =
@@ -895,7 +900,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Özel
     .accesskey = Ö
 
-
+##
 
 content-blocking-etp-standard-desc = Dengeli koruma ve performans. Sayfalar normal şekilde yüklenir.
 content-blocking-etp-strict-desc = Daha güçlü koruma, ama bazı siteler ve içerikler düzgün çalışmayabilir.
