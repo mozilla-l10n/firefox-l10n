@@ -11,6 +11,11 @@ pref-page =
             [windows] Preferencias
            *[other] Preferencias
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Preferencias
+       *[other] Preferencias
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -132,6 +137,14 @@ download-choose-folder =
            *[other] x
         }
 applications-header = Aplicaciones
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+
+##
+
 play-drm-content-learn-more = Skua'a kuakaa
 update-application-title = { -brand-short-name } ña tsaá
 update-application-version = Versión { $version } <a data-l10n-name="learn-more">Nchi yee</a>
@@ -194,11 +207,18 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-account-signin =
     .label = Kitsaa
     .accesskey = k
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-disconnect =
     .label = Keè
@@ -209,6 +229,15 @@ sync-remove-account =
 sync-sign-in =
     .label = Kitsaa
     .accesskey = K
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = m
@@ -227,6 +256,9 @@ sync-engine-addons =
     .label = Add-ons
     .tooltiptext = Add-ons
     .accesskey = A
+
+## The device name controls.
+
 sync-device-name-cancel =
     .label = Kunchatu
     .accesskey = k
@@ -238,6 +270,9 @@ sync-device-name-save =
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 
 ## Privacy Section - History
