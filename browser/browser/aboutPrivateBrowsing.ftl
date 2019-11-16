@@ -31,5 +31,10 @@ about-private-browsing-info-description = { -brand-short-name } leert die eingeg
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
 about-private-browsing-search-banner-title = { $engineName } ist Ihre Standardsuchmaschine in privaten Fenstern
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Eine andere Suchmaschine kann in den <a data-l10n-name="link-options">Einstellungen</a> festgelegt werden.
+       *[other] Eine andere Suchmaschine kann in den <a data-l10n-name="link-options">Einstellungen</a> festgelegt werden.
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = Schließen

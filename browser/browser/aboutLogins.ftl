@@ -70,10 +70,12 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = Suchen Sie Ihre gespeicherten Zugangsdaten? Richten Sie { -sync-brand-short-name } ein.
+about-logins-login-intro-heading-logged-in = Keine synchronisierten Zugangsdaten gefunden.
 login-intro-description = Wenn Sie Ihre Zugangsdaten in { -brand-product-name } auf einem anderen Gerät gespeichert haben, können Sie diese hier abrufen:
 login-intro-instruction-fxa = Auf dem Gerät mit Ihren gespeicherten Zugangsdaten: Erstellen Sie ein { -fxaccount-brand-name } oder melden Sie sich damit an.
 login-intro-instruction-fxa-settings = Überprüfen Sie, dass das Kontrollfeld "Zugangsdaten" in den { -sync-brand-short-name }-Einstellungen ausgewählt ist.
 about-logins-intro-instruction-help = Weitere Hilfe finden Sie auf der <a data-l10n-name="help-link">Support-Seite für { -lockwise-brand-short-name }</a>.
+about-logins-intro-import = Wenn Ihre Zugangsdaten in einem anderen Browser gespeichert sind, können Sie diese in { -lockwise-brand-short-name } <a data-l10n-name="import-link">importieren</a>.
 
 ## Login
 
@@ -123,6 +125,7 @@ enable-password-sync-preferences-button =
            *[other] Einstellungen für { -sync-brand-short-name } öffnen
         }
     .accesskey = E
+confirm-delete-dialog-title = Diese Zugangsdaten entfernen
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Nicht mehr nachfragen
     .accesskey = N
@@ -132,7 +135,6 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Abbrechen
 confirmation-dialog-dismiss-button =
     .title = Abbrechen
-confirm-delete-dialog-title = Diese Zugangsdaten entfernen
 confirm-delete-dialog-message = Diese Aktion kann nicht rückgängig gemacht werden.
 confirm-delete-dialog-confirm-button = Entfernen
 confirm-discard-changes-dialog-title = Nicht gespeicherte Änderungen verwerfen?
