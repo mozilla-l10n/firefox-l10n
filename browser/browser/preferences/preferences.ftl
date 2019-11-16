@@ -14,6 +14,11 @@ pref-page =
             [windows] Opciones
            *[other] Preferencies
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Opciones
+       *[other] Preferencies
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -518,6 +523,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Lleva la web contigo
 sync-signedout-description = Sincroniza los tos marcadores, historial, llingüetes, contraseñes, add-ons y preferencies pente tolos tos preseos.
 sync-signedout-account-title = Coneutar con una { -fxaccount-brand-name }
@@ -537,6 +546,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Baxa Firefox pa <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> o <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> pa sincronizar col to preséu móvil.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Camudar semeya de perfil
@@ -558,6 +570,15 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Axustes de Sync
 sync-signedin-settings-desc = Escueyi qué sincronizar nos preseos usando { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Marcadores
     .accesskey = m
@@ -592,6 +613,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Configuración xeneral, de privacidá y de seguranza que cambiasti
     .accesskey = O
+
+## The device name controls.
+
 sync-device-name-header = Nome del preséu
 sync-device-name-change =
     .label = Camudar nome del preséu…
@@ -610,6 +634,9 @@ sync-fxa-privacy-notice = Avisu de privacidá
 privacy-header = Privacidá del restolador
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = Usuarios y contraseñes
 forms-ask-to-save-logins =
