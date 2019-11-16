@@ -14,6 +14,11 @@ pref-page =
             [windows] Nagui’iaj
            *[other] Nagui’iaj
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Nagui’iaj
+       *[other] Nagui’iaj
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -311,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Sa ma DRM (Digital Rights Management - Sa Dugumin)
 play-drm-content =
@@ -722,6 +727,9 @@ privacy-header = Daj da'ui navegador gi'iaj sunj
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Gayi'ìt gatut ni Da'nga' huìi
 forms-ask-to-save-logins =
     .label = Da'ui nachi' na'ān si na'ninj sa'aj sa gayi'i nī da'nga' huìi guenda nej sitio na
@@ -890,7 +898,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Nagi'iaj
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = Nda hue'ê chre huaj da' gi'iaj sunj ni naran rayi'ît. Nej pâjina ni nayi'nïn riña man dàj rû' 'iaj yitïn.
 content-blocking-etp-strict-desc = Nùkuaj doj naran rayi'ît, sani ga'ue si gi'iaj sun hue'ê da'aj sîtio asi sa màn riñanj.
