@@ -23,6 +23,9 @@ accessibility-best-practices =
 ## with its text label or accessible name.
 
 accessibility-text-label-issue-heading = לכותרות חייבות להיות תוויות. <a>מידע נוסף</a>
+accessibility-text-label-issue-image = לתוכן עם תמונות חייבות להיות תוויות. <a>מידע נוסף</a>
+accessibility-text-label-issue-interactive = לרכיבים אינטראקטיביים חייבות להיות תוויות. <a>מידע נוסף</a>
+accessibility-text-label-issue-toolbar = לסרגלי כלים חייבות להיות תוויות כשיש יותר מסרגל כלים אחד. <a>מידע נוסף</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility

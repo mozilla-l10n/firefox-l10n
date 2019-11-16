@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = תוכן ניהול זכויות דיגיטלי (DRM)
 play-drm-content =
@@ -584,6 +584,9 @@ sync-signedout-account-create = אין ברשותך חשבון? תחילת עב�
 sync-signedout-account-signin =
     .label = התחברות…
     .accesskey = ה
+sync-signedout-account-signin2 =
+    .label = התחברות אל { -sync-brand-short-name }…
+    .accesskey = ה
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -731,6 +734,7 @@ privacy-header = פרטיות דפדפן
 ## Privacy Section - Logins and Passwords
 
 logins-header = כניסות וססמאות
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = הצגת בקשה לשמירת פרטי כניסה וססמאות לאתרים
     .accesskey = צ
@@ -738,6 +742,7 @@ forms-exceptions =
     .label = חריגות…
     .accesskey = ר
 forms-breach-alerts-learn-more-link = מידע נוסף
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = מילוי אוטומטי של כניסות וססמאות
     .accesskey = מ
@@ -888,7 +893,7 @@ enhanced-tracking-protection-setting-custom =
     .label = התאמה אישית
     .accesskey = ה
 
-##
+
 
 content-blocking-etp-standard-desc = מאוזן בין הגנה לביצועים. דפים ייטענו כרגיל.
 content-blocking-etp-strict-desc = הגנה חזקה יותר, אך עשויה לשבש פעילות של אתרים או תוכן.

@@ -79,6 +79,8 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = לגלוש מבלי שעוקבים אחריך
+cfr-protections-panel-body = הנתונים שלך נשארים אצלך. { -brand-short-name } מגן עליך מפני רוב רכיבי הריגול שעוקבים אחר הפעילות המקוונת שלך.
 cfr-protections-panel-link-text = מידע נוסף
 
 ## What's New toolbar button and panel
