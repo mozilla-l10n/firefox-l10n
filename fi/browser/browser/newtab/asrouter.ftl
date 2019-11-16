@@ -160,8 +160,11 @@ cfr-doorhanger-socialtracking-close-button = Sulje
 cfr-doorhanger-socialtracking-dont-show-again = Älä näytä tämän kaltaisia viestejä jatkossa
     .accesskey = Ä
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } pysäytti sosiaalisen verkon seuraamasta sinua täällä
+cfr-doorhanger-socialtracking-description = Yksityisyytesi on tärkeää. { -brand-short-name } estää nyt yleiset sosiaalisen median seuraimet, ja siten rajoittaa mahdollisuuksia kerätä tietoja verkossa tekemistäsi asioista.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } esti yksilöijän tällä sivulla
+cfr-doorhanger-fingerprinters-description = Yksityisyytesi on tärkeää. { -brand-short-name } estää nyt yksilöijät, jotka keräävät yksilöitävissä olevia uniikkeja tietoja laitteestasi seurataksesi sinua.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } esti kryptolouhijan tällä sivulla
+cfr-doorhanger-cryptominers-description = Yksityisyytesi on tärkeää. { -brand-short-name } estää nyt kryptolouhijat, jotka käyttävät tietokoneen tehoa digitaalisen valuutan louhimiseen.
 
 ## Enhanced Tracking Protection Milestones
 

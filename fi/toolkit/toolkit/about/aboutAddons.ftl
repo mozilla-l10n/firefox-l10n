@@ -443,6 +443,7 @@ theme-heading = Teemojen hallinta
 plugin-heading = Liitännäisten hallinta
 dictionary-heading = Sanastojen hallinta
 locale-heading = Kielten hallinta
+updates-heading = Hallitse päivityksiä
 discover-heading = Tee { -brand-short-name }ista mieleisesi
 shortcuts-heading = Laajennusten pikanäppäinten hallinta
 theme-heading-search-label = Etsi lisää teemoja
