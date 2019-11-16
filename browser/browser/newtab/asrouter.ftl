@@ -81,7 +81,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Selaa ilman seurantaa
-cfr-protections-panel-body = Pidä tietosi itselläsi. { -brand-short-name } suojaa sinua useimmilta yleisimmiltä tekemisiäsi verkossa jäljittäviltä seuraimilta.
+cfr-protections-panel-body = Pidä tietosi itselläsi. { -brand-short-name } suojaa sinua useilta yleisiltä seuraimilta, jotka seuraavat tekemisiäsi verkossa.
 cfr-protections-panel-link-text = Lue lisää
 
 ## What's New toolbar button and panel
