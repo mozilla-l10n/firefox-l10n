@@ -8,6 +8,11 @@ pref-page =
             [windows] Erakuani
            *[other] Sánteru xénchakuecha
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Erakuani
+       *[other] Sánteru xénchakuecha
+    }
 pane-general-title = Iamu ampe
 category-general =
     .tooltiptext = { pane-general-title }
@@ -155,7 +160,23 @@ search-remove-engine =
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
     .label = Kuirunharitarakuecha
@@ -163,12 +184,18 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Patsakata
     .accesskey = P
+
+## The device name controls.
+
 sync-tos-link = Arisïksï anchikurhioka
 
 ## Privacy Section
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 
 ## Privacy Section - History
