@@ -14,6 +14,11 @@ pref-page =
             [windows] Roghainnean
            *[other] Roghainnean
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Roghainnean
+       *[other] Roghainnean
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -443,7 +448,6 @@ choose-bookmark =
 
 home-prefs-content-header = Susbaint sgrìn mhòr Firefox
 home-prefs-content-description = Tagh an t-susbaint a bu mhath leat fhaicinn air sgrìn mhòr Firefox
-home-prefs-content-discovery-description = Bheir fidreadh susbaint ann am Firefox Home cothrom dhut sàr-artaigealan iomchaidh o fheadh an lìn a lorg.
 home-prefs-search-header =
     .label = Lorg air an lìon
 home-prefs-topsites-header =
@@ -542,6 +546,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Thoir leat an lìon
 sync-signedout-description = Sioncronaich an eachdraidh, na comharran-lìn, na faclan-faire, tuilleadain is roghainnean agad air feadh nan uidheaman agad.
 sync-signedout-account-title = Dèan ceangal le { -fxaccount-brand-name }
@@ -561,6 +569,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Luchdaich a-nuas Firefox airson <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> no <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> gus sioncronachadh a dhèanamh leis an uidheam mobile agad.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Atharraich dealbh na pròifil
@@ -582,6 +593,15 @@ sync-sign-in =
     .accesskey = t
 sync-signedin-settings-header = Roghainnean sioncronachaidh
 sync-signedin-settings-desc = Cuir romhad na thèid a shioncronachadh le { -brand-short-name } air na h-uidheaman agad.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = na comharran-lìn agam
     .accesskey = m
@@ -616,6 +636,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Roghainnean coitcheann, prìobhaideachd is tèarainteachd a dh’atharraich thu
     .accesskey = n
+
+## The device name controls.
+
 sync-device-name-header = Ainm an uidheim
 sync-device-name-change =
     .label = Atharraich ainm an uidheim...
@@ -637,6 +660,9 @@ sync-fxa-privacy-notice = Sanas prìobhaideachd
 privacy-header = Prìobhaideachd a’ bhrabhsair
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = Clàraidhean a-steach ⁊ faclan-faire
 forms-ask-to-save-logins =
