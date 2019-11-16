@@ -971,3 +971,7 @@
 <!ENTITY dockOptions.label              "应用图标选项…">
 <!ENTITY writeNewMessageDock.label      "撰写新邮件">
 <!ENTITY openAddressBookDock.label      "打开通讯录">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "返回上一页">
+<!ENTITY browseForwardButton.tooltip "转到下一页">
