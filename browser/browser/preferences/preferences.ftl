@@ -14,6 +14,11 @@ pref-page =
             [windows] Inställningar
            *[other] Inställningar
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Inställningar
+       *[other] Inställningar
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -311,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Digital Rights Management (DRM) innehåll
 play-drm-content =
@@ -508,7 +513,6 @@ search-bar-shown =
     .label = Lägg till sökfältet i verktygsfältet
 search-engine-default-header = Standard sökmotor
 search-engine-default-desc = Välj standardsökmotor som ska användas i adressfältet och sökfältet.
-search-engine-default-private-desc = Välj standardsökmotor som ska användas i privata fönster.
 search-engine-default-desc-2 = Detta är din standardsökmotor i adressfältet och sökfältet. Du kan byta när som helst.
 search-engine-default-private-desc-2 = Välj en annan standardsökmotor endast för privata fönster
 search-separate-default-engine =
@@ -723,6 +727,9 @@ privacy-header = Webbläsarintegritet
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Inloggningar & lösenord
 forms-ask-to-save-logins =
     .label = Fråga för att spara inloggningar och lösenord för webbplatser
@@ -891,7 +898,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Anpassad
     .accesskey = A
 
-
+##
 
 content-blocking-etp-standard-desc = Balanserad för skydd och prestanda. Sidor laddas normalt.
 content-blocking-etp-strict-desc = Starkare skydd, men kan leda till att vissa webbplatser eller innehåll inte fungerar.
