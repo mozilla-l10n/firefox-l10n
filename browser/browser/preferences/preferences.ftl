@@ -14,6 +14,11 @@ pref-page =
             [windows] Opciones
            *[other] Preferencias
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Opciones
+       *[other] Preferencias
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -311,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Contenido con DRM (Gestión de derechos digitales)
 play-drm-content =
@@ -508,7 +513,6 @@ search-bar-shown =
     .label = Añadir barra de búsqueda a la barra de herramientas
 search-engine-default-header = Motor de búsqueda predeterminado
 search-engine-default-desc = Elige el motor de búsqueda predeterminado a usar en la barra de direcciones y en la barra de búsqueda.
-search-engine-default-private-desc = Elije el motor de búsqueda predeterminado para usar en ventanas privadas.
 search-engine-default-desc-2 = Este es tu motor de búsqueda predeterminado en la barra de direcciones y en la barra de búsqueda. Puedes cambiarlo en cualquier momento.
 search-engine-default-private-desc-2 = Elije un motor de búsqueda predeterminado diferente para usar solo en ventanas privadas.
 search-separate-default-engine =
@@ -723,6 +727,9 @@ privacy-header = Privacidad del navegador
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Conexiones y contraseñas
 forms-ask-to-save-logins =
     .label = Preguntar para guardar conexiones y contraseñas para sitios web
@@ -891,7 +898,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizada
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = Equilibrado para protección y rendimiento. Las páginas se cargarán normalmente.
 content-blocking-etp-strict-desc = Mayor protección, pero puede hacer que algunos sitios o contenidos fallen.
