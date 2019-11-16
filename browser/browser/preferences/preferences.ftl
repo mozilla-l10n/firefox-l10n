@@ -14,6 +14,11 @@ pref-page =
             [windows] Možnosti
            *[other] Možnosti
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Možnosti
+       *[other] Možnosti
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -314,7 +319,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Obsah chránený pomocou Digital Rights Management (DRM)
 play-drm-content =
@@ -897,7 +902,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Vlastná
     .accesskey = V
 
-
+##
 
 content-blocking-etp-standard-desc = Vyvážená ochrana a výkon. Neovplyvní načítanie webových stránok.
 content-blocking-etp-strict-desc = Viac blokovaného obsahu zvyšuje pravdepodobnosť, že niektoré stránky nebudú správne fungovať.
