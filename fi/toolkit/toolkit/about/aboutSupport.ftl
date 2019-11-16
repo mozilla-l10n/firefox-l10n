@@ -156,6 +156,9 @@ intl-regional-prefs = Alueasetukset
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Etävianjäljitys (Chromium-protokolla)
+remote-debugging-accepting-connections = Hyväksyy yhteyksiä
+remote-debugging-url = URL-osoite
 
 
 

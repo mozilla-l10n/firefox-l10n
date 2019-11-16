@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Käyttöoikeuksien hallintaa (DRM) käyttävä sisältö
 play-drm-content =
@@ -583,6 +583,9 @@ sync-signedout-account-create = Eikö sinulla ole tiliä? Aloitetaan
     .accesskey = E
 sync-signedout-account-signin =
     .label = Kirjaudu sisään…
+    .accesskey = i
+sync-signedout-account-signin2 =
+    .label = Kirjaudu { -sync-brand-short-name }-palveluun…
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -900,7 +903,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Oma
     .accesskey = O
 
-##
+
 
 content-blocking-etp-standard-desc = Tasapainotettu suojauksen ja suorituskyvyn välillä. Sivut latautuvat normaalisti.
 content-blocking-etp-strict-desc = Vahvempi suojaus, mutta saattaa aiheuttaa sivustojen tai sisällön toimimattomuutta.

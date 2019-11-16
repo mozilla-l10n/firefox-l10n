@@ -41,6 +41,8 @@ certificate-viewer-policy = Käytäntö
 certificate-viewer-protocol = Protokolla
 certificate-viewer-public-value = Julkinen arvo
 certificate-viewer-purposes = Käyttötarkoitukset
+certificate-viewer-qualifier = Tarkenne
+certificate-viewer-qualifiers = Tarkenteet
 certificate-viewer-required = Vaaditaan
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Perustuspaikkakunta
@@ -70,7 +72,7 @@ certificate-viewer-authority-key-id = Varmentajan avaimen tunnus
 certificate-viewer-authority-info-aia = Varmentajan tiedonsaanti (AIA)
 certificate-viewer-certificate-policies = Varmennekäytännöt
 certificate-viewer-embedded-scts = Upotetut SCT:t
-certificate-viewer-crl-endpoints = CRL-päätepisteet
+certificate-viewer-crl-endpoints = CRL-jakelupisteet
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Lataa
