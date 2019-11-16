@@ -136,7 +136,7 @@ media-capabilities-title = Medijowe móžnosće
 # List all the entries of the database.
 media-capabilities-enumerate = Datowu banku naličić
 
-##
+
 
 intl-title = Internacionalizacija a lokalizacija
 intl-app-title = Nastajenja nałoženja
@@ -147,6 +147,22 @@ intl-locales-default = Standardna rěč
 intl-os-title = Dźěłowy system
 intl-os-prefs-system-locales = Systemowe rěče
 intl-regional-prefs = Regionalne nastajenja
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Zdalene pytanje zmylkow (protokol Chromium)
+remote-debugging-accepting-connections = Zwiski so přijimaja
+remote-debugging-url = URL
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

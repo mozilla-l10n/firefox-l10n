@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Při słanju rozprawy je zmylk wustupił. Prošu spytajće pozdźišo hišće raz.
+# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
+protections-panel-sitefixedsendreport-label = Sydło porjedźene? Sćelće rozprawu
