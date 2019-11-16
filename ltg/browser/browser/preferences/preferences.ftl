@@ -12,6 +12,11 @@ pref-page =
             [windows] Īstatiejumi
            *[other] Īstatiejumi
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Īstatiejumi
+       *[other] Īstatiejumi
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -506,6 +511,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Take Your Web With You
 sync-signedout-description = Synchronize your bookmarks, history, tabs, passwords, add-ons, and preferences across all your devices.
 sync-signedout-account-title = Pīsasliedzit ar { -fxaccount-brand-name }
@@ -525,6 +534,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Lejupīluodeit Firefox <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> voi <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> to sync with your mobile device.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Maineit profila attālu
@@ -546,6 +558,15 @@ sync-sign-in =
     .accesskey = P
 sync-signedin-settings-header = Sync īstatiejumi
 sync-signedin-settings-desc = Izavieleit, kū sinhronizeit īreicī, izmontojūt iz { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Gruomotzeimes
     .accesskey = m
@@ -580,6 +601,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Tevis izmaineitī īstatiejumi: kūpejī, privātums un drūšeiba
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Īrīces nūsaukums
 sync-device-name-change =
     .label = Maineit īrīces nūsaukumu…
@@ -598,6 +622,9 @@ sync-fxa-privacy-notice = Privatuma pīzeime
 privacy-header = Puorlūka privatums
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-ask-to-save-logins =
     .label = Vaicōt, kab saglobōt lopu pīzasaciešonas informaceji
