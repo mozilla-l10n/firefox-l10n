@@ -84,6 +84,7 @@ about-logins-intro-import = Jeli waše přizjewjenja su składowane w druhim wob
 login-item-new-login-title = Nowe přizjewjenje załožić
 login-item-edit-button = Wobdźěłać
 login-item-delete-button = Zhašeć
+about-logins-login-item-remove-button = Wotstronić
 login-item-origin-label = Adresa websydła
 login-item-origin =
     .placeholder = https://www.example.com
@@ -127,6 +128,7 @@ enable-password-sync-preferences-button =
            *[other] Nastajenja { -sync-brand-short-name } wopytać
         }
     .accesskey = N
+confirm-delete-dialog-title = Tute přizjewjenje zhašeć?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Hižo so njeprašeć
     .accesskey = H
@@ -136,9 +138,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Přetorhnyć
 confirmation-dialog-dismiss-button =
     .title = Přetorhnyć
-confirm-delete-dialog-title = Tute přizjewjenje zhašeć?
+about-logins-confirm-remove-dialog-title = Tute přizjewjenje wotstronić?
 confirm-delete-dialog-message = Tuta akcija njeda so cofnyć.
 confirm-delete-dialog-confirm-button = Zhašeć
+about-logins-confirm-remove-dialog-confirm-button = Wotstronić
 confirm-discard-changes-dialog-title = Njeskładowane změny zaćisnyć?
 confirm-discard-changes-dialog-message = Wšě njeskładowane změny so zhubja.
 confirm-discard-changes-dialog-confirm-button = Zaćisnyć

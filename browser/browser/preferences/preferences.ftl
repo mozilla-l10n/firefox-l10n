@@ -322,7 +322,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Wobsah Digital Right Management (DRM)
 play-drm-content =
@@ -592,6 +592,9 @@ sync-signedout-account-create = Nimaće konto? Započńće
 sync-signedout-account-signin =
     .label = Přizjewić…
     .accesskey = P
+sync-signedout-account-signin2 =
+    .label = So pola { -sync-brand-short-name } přizjewić…
+    .accesskey = S
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -739,6 +742,7 @@ privacy-header = Priwatnosć wobhladowaka
 ## Privacy Section - Logins and Passwords
 
 logins-header = Přizjewjenja a hesła
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Prašeć so, hač so maja přizjewjenja a hesła składować
     .accesskey = r
@@ -752,6 +756,7 @@ forms-breach-alerts =
     .label = Warnowanja za hesła zranjenych websydłow
     .accesskey = z
 forms-breach-alerts-learn-more-link = Dalše informacije
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Přizjewjenja a hesła awtomatisce zapisać
     .accesskey = z
@@ -906,7 +911,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Swójski
     .accesskey = S
 
-##
+
 
 content-blocking-etp-standard-desc = Wuwaženy za škit a wukon. Strony so normalnje začitaja.
 content-blocking-etp-strict-desc = Mócniši škit, ale móže zawinować, zo někotre sydła abo wobsa hižo njefunguja.
