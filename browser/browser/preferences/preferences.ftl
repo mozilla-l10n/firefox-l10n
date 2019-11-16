@@ -14,6 +14,11 @@ pref-page =
             [windows] Pengaturan
            *[other] Pengaturan
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Pengaturan
+       *[other] Pengaturan
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
