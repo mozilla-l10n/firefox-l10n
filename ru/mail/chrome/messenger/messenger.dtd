@@ -971,3 +971,7 @@
 <!ENTITY dockOptions.label              "Наcтройки значка приложения…">
 <!ENTITY writeNewMessageDock.label      "Создать новое сообщение">
 <!ENTITY openAddressBookDock.label      "Открыть адресную книгу">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "На предыдущую страницу">
+<!ENTITY browseForwardButton.tooltip "На следующую страницу">
