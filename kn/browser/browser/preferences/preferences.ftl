@@ -12,6 +12,11 @@ pref-page =
             [windows] ಆಯ್ಕೆಗಳು
            *[other] ಆದ್ಯತೆಗಳು
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] ಆಯ್ಕೆಗಳು
+       *[other] ಆದ್ಯತೆಗಳು
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -393,6 +398,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = ಜಾಲವನ್ನು ನಿಮ್ಮೊಂದಿಗೆ ಒಯ್ಯಿರಿ
 sync-signedout-description = ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳ ಜೊತೆ ನಿಮ್ಮ ಪುಟಗುರುತುಗಳು, ಇತಿಹಾಸ, ಹಾಳೆ, ಪ್ರವೇಶ ಪದ, ಆಡ್-ಆನ್‌ಗಳು, ಮತ್ತು ಆದ್ಯತೆಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಿ
 sync-signedout-account-title = { -fxaccount-brand-name } ನೊಂದಿಗೆ ಸಂಪರ್ಕಿಸು
@@ -413,6 +422,9 @@ sync-mobile-promo = Firefox ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ<img data-l1
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = ಪ್ರೊಫೈಲ್ ಚಿತ್ರವನ್ನು ಬದಲಾಯಿಸು
 sync-disconnect =
@@ -429,6 +441,15 @@ sync-sign-in =
     .label = ಒಳಗೆ ಪ್ರವೇಶಿಸು‍
     .accesskey = g
 sync-signedin-settings-header = ಸಿಂಕ್‍ನ ಸಿದ್ಧತೆಗಳು
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = ಪುಟಗುರುತುಗಳು
     .accesskey = m
@@ -439,6 +460,9 @@ sync-engine-tabs =
     .label = ತೆರೆದ ಟ್ಯಾಬ್‌ಗಳು
     .tooltiptext = ಸಿಂಕ್ ಮಾಡಲಾದ ಸಾಧನಗಳಲ್ಲಿ ಏನನ್ನು ತೆರೆಯಲಾಗಿದೆಯೋ ಅವುಗಳ ಪಟ್ಟಿ
     .accesskey = t
+
+## The device name controls.
+
 sync-device-name-header = ಸಾಧನದ ಹೆಸರು
 sync-device-name-change =
     .label = ಸಾಧನದ ಹೆಸರನ್ನು ಬದಲಿಸಿ…
@@ -457,6 +481,9 @@ sync-fxa-privacy-notice = ಗೌಪ್ಯತಾ ಸೂಚನೆ
 privacy-header = ವೀಕ್ಷಕದ ಗೌಪ್ಯತೆ
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = ವಿನಾಯಿತಿಗಳು...
