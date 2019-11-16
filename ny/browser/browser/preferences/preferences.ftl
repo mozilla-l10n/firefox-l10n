@@ -8,6 +8,11 @@ pref-page =
             [windows] Zochita kusankha
            *[other] Makonda
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Zochita kusankha
+       *[other] Makonda
+    }
 category-general =
     .tooltiptext = { pane-general-title }
 pane-search-title = Fufuzani
@@ -101,7 +106,23 @@ applications-use-other-label =
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
     .label = Chidziwitso
@@ -110,10 +131,16 @@ sync-engine-history =
     .label = Mbiri
     .accesskey = M
 
+## The device name controls.
+
+
 ## Privacy Section
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 
 ## Privacy Section - History
