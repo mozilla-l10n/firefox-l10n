@@ -14,6 +14,11 @@ pref-page =
             [windows] Επιλογές
            *[other] Προτιμήσεις
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Επιλογές
+       *[other] Προτιμήσεις
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -311,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Περιεχόμενο διαχείρισης ψηφιακών δικαιωμάτων (DRM)
 play-drm-content =
@@ -855,7 +860,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Προσαρμοσμένη
     .accesskey = Π
 
-
+##
 
 content-blocking-all-cookies = Όλα τα cookies
 content-blocking-unvisited-cookies = Cookies από ιστοσελίδες που δεν έχετε επισκεφθεί
