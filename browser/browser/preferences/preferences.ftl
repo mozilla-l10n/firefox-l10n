@@ -12,6 +12,11 @@ pref-page =
             [windows] ជម្រើស
            *[other] ចំណូលចិត្ត
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] ជម្រើស
+       *[other] ចំណូលចិត្ត
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -473,6 +478,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = យក​បណ្ដាញ​របស់​អ្នក​ជាមួយ​អ្នក
 sync-signedout-description = ធ្វើ​សម​កាល​កម្ម​ចំណាំ​ ប្រវត្តិ ផ្ទាំង ពាក្យ​សម្ងាត់​ កម្មវិធី​ផ្នែក​បន្ថែម​ និង​ចំណូល​ចិត្ត​របស់​អ្នក​ ចំពោះ​គ្រប់​ឧបករណ៍​របស់​អ្នក។​
 sync-signedout-account-title = ភ្ជាប់​ជាមួយ​ { -fxaccount-brand-name }
@@ -493,6 +502,9 @@ sync-mobile-promo = ទាញ​យក​ Firefox សម្រាប់​<img d
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = ប្តូរ​​រូប​ប្រូ​ហ្វាល់
 sync-disconnect =
@@ -510,12 +522,24 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = ការ​កំណត់​សមកាលកម្ម
 sync-signedin-settings-desc = ជ្រើស​អ្វី​ដែល​ត្រូវ​ធ្វើ​សមកាលកម្ម​នៅ​លើ​ឧបករណ៍​របស់​អ្នក​ដោយ​ប្រើ { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = ចំណាំ
     .accesskey = m
 sync-engine-history =
     .label = ប្រវត្តិ
     .accesskey = r
+
+## The device name controls.
+
 sync-device-name-header = ឈ្មោះ​ឧបករណ៍
 sync-device-name-change =
     .label = ប្ដូរ​ឈ្មោះ​ឧបករណ៍…
@@ -534,6 +558,9 @@ sync-fxa-privacy-notice = គោលនយោបាយ​ឯកជន
 privacy-header = ឯកជនភាព​កម្មវិធី​រុករក​តាម​អ៊ីនធឺណិត
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = ករណី​លើកលែង…
