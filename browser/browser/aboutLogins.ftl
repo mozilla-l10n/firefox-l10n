@@ -82,6 +82,7 @@ about-logins-intro-import = Hvis innloggingene dine er lagret i en annen nettles
 login-item-new-login-title = Lag ny innlogging
 login-item-edit-button = Rediger
 login-item-delete-button = Slett
+about-logins-login-item-remove-button = Fjern
 login-item-origin-label = Nettadresse
 login-item-origin =
     .placeholder = https://www.example.com
@@ -125,6 +126,7 @@ enable-password-sync-preferences-button =
            *[other] Gå til { -sync-brand-short-name }-innstillinger
         }
     .accesskey = G
+confirm-delete-dialog-title = Slett denne innloggingen?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Ikke spør igjen
     .accesskey = I
@@ -134,9 +136,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Avbryt
 confirmation-dialog-dismiss-button =
     .title = Avbryt
-confirm-delete-dialog-title = Slett denne innloggingen?
+about-logins-confirm-remove-dialog-title = Fjern denne innloggingen?
 confirm-delete-dialog-message = Denne handlingen kan ikke angres.
 confirm-delete-dialog-confirm-button = Slett
+about-logins-confirm-remove-dialog-confirm-button = Fjern
 confirm-discard-changes-dialog-title = Vil du forkaste endringer som ikke er lagret?
 confirm-discard-changes-dialog-message = Alle ikke-lagrede endringer vil gå tapt.
 confirm-discard-changes-dialog-confirm-button = Forkast
