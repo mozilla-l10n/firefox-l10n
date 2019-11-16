@@ -11,6 +11,11 @@ pref-page =
             [windows] Kaji
            *[other] Preferencias
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Kaji
+       *[other] Preferencias
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -173,7 +178,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 play-drm-content-learn-more = Ka´vi kue´eka
 update-application-version = Versión { $version } <a data-l10n-name="learn-more"> Nakuvi a jíía íyo</a>
@@ -331,6 +336,9 @@ privacy-header = Nánuku yu´u
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Nuu kajie´e sesión jii contraseñas
 forms-exceptions =
     .label = Excepciones…
@@ -400,7 +408,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizado
     .accesskey = P
 
-
+##
 
 content-blocking-all-cookies = Kuaiyo daa cookies
 content-blocking-all-third-party-cookies = Kuaiyo Cookies daa inka
