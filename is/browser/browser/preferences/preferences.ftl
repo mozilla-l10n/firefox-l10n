@@ -14,6 +14,11 @@ pref-page =
             [windows] Valkostir
            *[other] Valkostir
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Valkostir
+       *[other] Valkostir
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -541,6 +546,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Taktu vefinn með þér
 sync-signedout-description = Samstilltu bókamerki, feril, flipa, lykilorð, viðbætur, og stillingará milli allra þinna tækja.
 sync-signedout-account-title = Tengjast með { -fxaccount-brand-name }
@@ -560,6 +569,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Hala niður Firefox fyrir <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> eða <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> til að samstilla með farsímanum.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Breyta notandamynd
@@ -581,6 +593,15 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Sync stillingar
 sync-signedin-settings-desc = Velja hvað á að samstilla á tækjum sem eru að nota { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Bókamerki
     .accesskey = m
@@ -615,6 +636,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Almennt, friðhelgi, og öryggistillingar sem þú hefur breytt
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Tækjanafn
 sync-device-name-change =
     .label = Breyta nafni tækis…
@@ -636,6 +660,9 @@ sync-fxa-privacy-notice = Upplýsingar um meðferð persónuupplýsinga
 privacy-header = Friðhelgi vafra
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = Innskráning og lykilorð
 forms-ask-to-save-logins =
