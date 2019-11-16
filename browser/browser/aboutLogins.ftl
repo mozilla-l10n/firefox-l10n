@@ -83,6 +83,7 @@ about-logins-intro-import = Если ваши логины сохранены в
 login-item-new-login-title = Создать новый логин
 login-item-edit-button = Изменить
 login-item-delete-button = Удалить
+about-logins-login-item-remove-button = Удалить
 login-item-origin-label = Адрес веб-сайта
 login-item-origin =
     .placeholder = https://www.example.com
@@ -126,6 +127,7 @@ enable-password-sync-preferences-button =
            *[other] Открыть настройки { -sync-brand-short-name(case: "genitive") }
         }
     .accesskey = О
+confirm-delete-dialog-title = Удалить этот логин?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Не спрашивать в следующий раз
     .accesskey = е
@@ -135,9 +137,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Отмена
 confirmation-dialog-dismiss-button =
     .title = Отмена
-confirm-delete-dialog-title = Удалить этот логин?
+about-logins-confirm-remove-dialog-title = Удалить этот логин?
 confirm-delete-dialog-message = Это действие не может быть отменено.
 confirm-delete-dialog-confirm-button = Удалить
+about-logins-confirm-remove-dialog-confirm-button = Удалить
 confirm-discard-changes-dialog-title = Отменить несохранённые изменения?
 confirm-discard-changes-dialog-message = Все несохранённые изменения будут потеряны.
 confirm-discard-changes-dialog-confirm-button = Отменить

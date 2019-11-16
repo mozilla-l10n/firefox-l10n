@@ -58,7 +58,7 @@ abuse-report-messagebar-action-cancel = Отмена
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Вредит работе компьютера и моим данным
+abuse-report-damage-reason = Вредит работе моего компьютера и моим данным
 abuse-report-damage-reason-v2 = Вредит работе компьютера или крадёт мои данные
 abuse-report-damage-example = Например: Вредоносное ПО или кража данных
 abuse-report-spam-reason = Создаёт спам или рекламу
