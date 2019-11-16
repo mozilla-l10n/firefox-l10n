@@ -14,6 +14,11 @@ pref-page =
             [windows] 选项
            *[other] 首选项
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] 选项
+       *[other] 首选项
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -307,7 +312,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = 采用数字版权管理（DRM）的内容
 play-drm-content =
@@ -714,6 +719,9 @@ privacy-header = 浏览器隐私
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = 登录信息与密码
 forms-ask-to-save-logins =
     .label = 向您询问是否保存网站的登录名和密码
@@ -882,7 +890,7 @@ enhanced-tracking-protection-setting-custom =
     .label = 自定义
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = 平衡保护和性能。页面将正常加载。
 content-blocking-etp-strict-desc = 更强大的保护，但可能导致某些网站异常。
