@@ -12,6 +12,11 @@ pref-page =
             [windows] Astellungen
            *[other] Astellungen
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Astellungen
+       *[other] Astellungen
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -313,7 +318,23 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
     .label = Lieszeechen
@@ -326,6 +347,9 @@ sync-engine-creditcards =
     .label = Kreditkaarten
     .tooltiptext = Nimm, Nummeren an Oflafsatum
     .accesskey = C
+
+## The device name controls.
+
 sync-device-name-header = Numm vum Apparat
 sync-device-name-cancel =
     .label = Ofbriechen
@@ -338,6 +362,9 @@ sync-device-name-save =
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 
 ## Privacy Section - History
