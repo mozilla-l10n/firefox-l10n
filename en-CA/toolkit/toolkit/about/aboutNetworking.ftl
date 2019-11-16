@@ -16,6 +16,7 @@ auto-refresh = Autorefresh every 3 seconds
 hostname = Hostname
 port = Port
 http2 = HTTP/2
+about-networking-http-version = HTTP Version
 ssl = SSL
 active = Active
 idle = Idle
