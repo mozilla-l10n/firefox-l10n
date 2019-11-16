@@ -130,7 +130,7 @@ media-capabilities-title = Podpora médií
 # List all the entries of the database.
 media-capabilities-enumerate = Vypsat databázi
 
-##
+
 
 intl-title = Internacionalizace a lokalizace
 intl-app-title = Nastavení aplikace
@@ -141,6 +141,22 @@ intl-locales-default = Výchozí jazyk
 intl-os-title = Operační systém
 intl-os-prefs-system-locales = Jazyky systému
 intl-regional-prefs = Předvolby regionu
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Vzdálené ladění (protokol Chromia)
+remote-debugging-accepting-connections = Přijímá spojení
+remote-debugging-url = URL
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
