@@ -8,6 +8,11 @@ pref-page =
             [windows] Nɨzeye
            *[other] Kúe gaɨga
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Nɨzeye
+       *[other] Kúe gaɨga
+    }
 pane-general-title = Nána
 category-general =
     .tooltiptext = { pane-general-title }
@@ -190,6 +195,10 @@ choose-bookmark =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-description = Dáamakɨ jone rigɨnua, jagaɨ, úitɨraɨ, fakara íemei ó gaɨga ráa ó jóriaɨmo.
 sync-signedout-account-title = Zɨtade { -fxaccount-brand-name }
 # This message contains two links and two icon images.
@@ -204,16 +213,31 @@ sync-mobile-promo = Firefox yunude nɨbai <img data-l10n-name="android-icon"/> <
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Jɨaɨe jóreño ó náama mamekɨmo jóne
 sync-signedin-unverified = Fákara íyano... { $email } Naɨ éroñega.
 sync-signedin-login-failure = Ábɨno nitayena taɨne yuamo { $email } Ábɨno nitayena taɨne yuamo
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Rɨgɨnua
     .accesskey = R
 sync-engine-history =
     .label = Jáganɨaɨ
     .accesskey = a
+
+## The device name controls.
+
 sync-device-name-header = Jóriaɨ mámekɨ
 sync-tos-link = Taɨniamo, ñúe ite
 sync-fxa-privacy-notice = Káɨe bíe fáka Dáma kue úai
@@ -222,6 +246,9 @@ sync-fxa-privacy-notice = Káɨe bíe fáka Dáma kue úai
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = Jɨ́aɨmakɨ…
