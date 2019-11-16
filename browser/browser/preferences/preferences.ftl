@@ -311,7 +311,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = תוכן ניהול זכויות דיגיטלי (DRM)
 play-drm-content =
@@ -508,7 +508,6 @@ search-bar-shown =
     .label = הוספת שורת החיפוש לסרגל הכלים
 search-engine-default-header = מנוע חיפוש ברירת מחדל
 search-engine-default-desc = בחירת מנוע חיפוש ברירת המחדל לשימוש בשורת הכתובת ובשורת החיפוש.
-search-engine-default-private-desc = בחירת מנוע חיפוש ברירת המחדל לשימוש בחלונות פרטיים.
 search-engine-default-desc-2 = זהו מנוע החיפוש המוגדר כברירת מחדל בשורת הכתובת ובשורת החיפוש. ניתן להחליף אותו בכל עת.
 search-engine-default-private-desc-2 = בחירת מנוע חיפוש אחר עבור חלונות פרטיים בלבד
 search-separate-default-engine =
@@ -723,6 +722,9 @@ privacy-header = פרטיות דפדפן
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = כניסות וססמאות
 forms-ask-to-save-logins =
     .label = הצגת בקשה לשמירת פרטי כניסה וססמאות לאתרים
@@ -881,7 +883,7 @@ enhanced-tracking-protection-setting-custom =
     .label = התאמה אישית
     .accesskey = ה
 
-
+##
 
 content-blocking-etp-standard-desc = מאוזן בין הגנה לביצועים. דפים ייטענו כרגיל.
 content-blocking-etp-strict-desc = הגנה חזקה יותר, אך עשויה לשבש פעילות של אתרים או תוכן.
