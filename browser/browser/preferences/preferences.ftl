@@ -312,7 +312,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = 采用数字版权管理（DRM）的内容
 play-drm-content =
@@ -576,6 +576,9 @@ sync-signedout-account-create = 没有账户吗？注册一个吧
 sync-signedout-account-signin =
     .label = 登录…
     .accesskey = I
+sync-signedout-account-signin2 =
+    .label = 登录{ -sync-brand-short-name }服务…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -723,6 +726,7 @@ privacy-header = 浏览器隐私
 ## Privacy Section - Logins and Passwords
 
 logins-header = 登录信息与密码
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = 向您询问是否保存网站的登录名和密码
     .accesskey = r
@@ -736,6 +740,7 @@ forms-breach-alerts =
     .label = 显示有关网站密码外泄的提醒
     .accesskey = b
 forms-breach-alerts-learn-more-link = 详细了解
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = 自动填写登录名和密码
     .accesskey = i
@@ -890,7 +895,7 @@ enhanced-tracking-protection-setting-custom =
     .label = 自定义
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = 平衡保护和性能。页面将正常加载。
 content-blocking-etp-strict-desc = 更强大的保护，但可能导致某些网站异常。
