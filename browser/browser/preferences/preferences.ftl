@@ -314,7 +314,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Содержимое использующее технические средства защиты авторских прав (DRM)
 play-drm-content =
@@ -512,7 +512,6 @@ search-bar-shown =
     .label = Добавить панель поиска на панель инструментов
 search-engine-default-header = Поисковая система по умолчанию
 search-engine-default-desc = Выберите поисковую систему по умолчанию для использования в панели адреса и панели поиска.
-search-engine-default-private-desc = Выберите поисковую систему по умолчанию для использования в приватных окнах.
 search-engine-default-desc-2 = Это ваша поисковая система по умолчанию в адресной строке и панели поиска. Вы можете сменить её в любое время.
 search-engine-default-private-desc-2 = Выберите другую поисковую систему по умолчанию для использования только в Приватных окнах
 search-separate-default-engine =
@@ -727,6 +726,9 @@ privacy-header = Приватность браузера
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Логины и пароли
 forms-ask-to-save-logins =
     .label = Запрашивать сохранение логинов и паролей для веб-сайтов
@@ -895,7 +897,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Персональная
     .accesskey = а
 
-
+##
 
 content-blocking-etp-standard-desc = Обеспечивает наилучший баланс защиты и производительности. Страницы будут загружаться нормально.
 content-blocking-etp-strict-desc = Усиленная защита может вызывать проблемы с некоторыми веб-сайтами и их содержимым.
