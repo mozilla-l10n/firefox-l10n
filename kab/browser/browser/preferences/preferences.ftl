@@ -14,6 +14,11 @@ pref-page =
             [windows] Iɣewwaṛen
            *[other] Ismenyifen
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Iɣewwaṛen
+       *[other] Ismenyifen
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -311,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Izerfan n usefrek n ugbur umḍin (DRM)
 play-drm-content =
@@ -722,6 +727,9 @@ privacy-header = Tabaḍnit n iminig
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Inekcam & wawalen uffiren
 forms-ask-to-save-logins =
     .label = Suter akken ad teskelseḍ inekcam d wawalen uffiren i yismal web
@@ -890,7 +898,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Udmawan
     .accesskey = d
 
-
+##
 
 content-blocking-etp-standard-desc = Yerked gar ummesten akked tmellit. ISebtar ad d-alin s wudem amagnu.
 content-blocking-etp-strict-desc = Ammesten yettwaseǧhed, maca kra n yismal akked ugbur yemzer ur teddun ara akken iwata.
