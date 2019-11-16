@@ -14,6 +14,11 @@ pref-page =
             [windows] ਚੋਣਾਂ
            *[other] ਮੇਰੀ ਪਸੰਦ
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] ਚੋਣਾਂ
+       *[other] ਮੇਰੀ ਪਸੰਦ
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -527,6 +532,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = ਆਪਣੇ ਵੈੱਬ ਨੂੰ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ
 sync-signedout-description = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ, ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ, ਐਡ-ਆਨ ਅਤੇ ਪਸੰਦਾਂ ਨੂੰ ਸੈਕਰੋਨਾਈਜ਼ ਕਰੋ।
 sync-signedout-account-title = { -fxaccount-brand-name } ਨਾਲ ਕਨੈਕਟ ਕਰੋ
@@ -546,6 +555,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨਾਲ ਸਿੰਕ ਕਰਨ ਲਈ <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">ਐਂਡਰਾਈਡ</a> ਜਾਂ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> ਲਈ ਫਾਇਰਫਾਕਸ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ।
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = ਬਿਉਰਾ ਤਸਵੀਰ ਨੂੰ ਬਦਲੋ
@@ -567,6 +579,15 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = ਸਿੰਕ ਦੀਆਂ ਸੈਟਿੰਗਾਂ
 sync-signedin-settings-desc = ਚੁਣੋ ਕਿ { -brand-short-name } ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਤੁਹਾਡੇ ਡਿਵਾਈਸਾਂ 'ਤੇ ਕੀ ਸਿੰਕ ਕੀਤਾ ਜਾਵੇ।
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = ਬੁੱਕਮਾਰਕ
     .accesskey = m
@@ -601,6 +622,9 @@ sync-engine-prefs =
         }
     .tooltiptext = ਤੁਹਾਡੇ ਵਲੋਂ ਬਦਲੀਆਂ ਗਈਆਂ ਆਮ, ਪਰਦੇਦਾਰੀ ਅਤੇ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ
     .accesskey = S
+
+## The device name controls.
+
 sync-device-name-header = ਡਿਵਾਈਸ ਨਾਂ
 sync-device-name-change =
     .label = …ਡਿਵਾਈਸ ਦਾ ਨਾਂ ਚੁਣੋ
@@ -622,6 +646,9 @@ sync-fxa-privacy-notice = ਪਰਦੇਦਾਰੀ ਬਾਰੇ ਸੂਚਨਾ
 privacy-header = ਬਰਾਊਜ਼ਰ ਪਰਦੇਦਾਰੀ
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = ਲਾਗਇਨ ਤੇ ਪਾਸਵਰਡ
 forms-ask-to-save-logins =
