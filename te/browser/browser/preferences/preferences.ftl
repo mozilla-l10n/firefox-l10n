@@ -12,6 +12,11 @@ pref-page =
             [windows] ఎంపికలు
            *[other] అభిరుచులు
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] ఎంపికలు
+       *[other] అభిరుచులు
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -500,6 +505,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = మీ జాలాన్ని మీతో తీసుకువెళ్ళండి
 sync-signedout-description = మీ ఇష్టాంశాలను, చరిత్రను, ట్యాబులను, సంకేతపదాలను, పొడగింతలను, అభిరుచులను మీ పరికరాలన్నింటిలోనూ సింక్రనైజ్ చెయ్యండి.
 sync-signedout-account-title = ఒక { -fxaccount-brand-name }‌తో అనుసంధానించండి
@@ -520,6 +529,9 @@ sync-mobile-promo = మీ మొబైలు పరికరంతో సిం
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = ప్రొఫైల్ చిత్రం మార్చు
 sync-disconnect =
@@ -539,6 +551,15 @@ sync-sign-in =
     .label = ప్రవేశించండి
     .accesskey = g
 sync-signedin-settings-header = సింక్ అమరికలు
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = ఇష్టాంశాలు
     .accesskey = m
@@ -573,6 +594,9 @@ sync-engine-prefs =
         }
     .tooltiptext = మీరు మార్చుకున్న సాధారణ, అంతరంగికత, భద్రతా అమరికలు
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = పరికరం పేరు
 sync-device-name-change =
     .label = పరికరం పేరు మార్చు…
@@ -594,6 +618,9 @@ sync-fxa-privacy-notice = గోప్యతా నోటీసు
 privacy-header = విహరిణి గోప్యత
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = ప్రవేశాలు & సంకేతపదాలు
 forms-ask-to-save-logins =
