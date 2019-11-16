@@ -311,7 +311,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Digital Rights Management (DRM) Content
 play-drm-content =
@@ -461,7 +461,6 @@ choose-bookmark =
 
 home-prefs-content-header = Makikita sa Home ng Firefox
 home-prefs-content-description = Piliin kung anong nilalaman ang gusto mo sa iyong screen ng Home ng Firefox.
-home-prefs-content-discovery-description = Ang Content Discovery sa Firefox Home ay tumutulong sa iyo para makahanap ng mataas na uri at may-katuturang impormasyon mula sa web.
 home-prefs-search-header =
     .label = Paghahanap sa Web
 home-prefs-topsites-header =
@@ -509,7 +508,6 @@ search-bar-shown =
     .label = Idagdag ang search bar sa toolbar
 search-engine-default-header = Default na Search Engine
 search-engine-default-desc = Piliin ang default na search engine na gagamitin sa address bar at search bar.
-search-engine-default-private-desc = Piliin ang default search engine na gagamitin sa mga Private Window.
 search-separate-default-engine =
     .label = Gamitin ang search engine na ito sa mga Private Window
     .accesskey = U
@@ -720,6 +718,9 @@ privacy-header = Browser Privacy
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Mga Login at mga Password
 forms-ask-to-save-logins =
     .label = Magtanong kung dapat mag-save ng mga login at password sa mga website
@@ -888,7 +889,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Pasadya
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = Balansado para sa proteksyon at performance. Normal na maglo-load ang mga pahina.
 content-blocking-etp-strict-desc = Mas malakas na proteksyon, pero maaaring ikasira ng ilang mga site o content.
