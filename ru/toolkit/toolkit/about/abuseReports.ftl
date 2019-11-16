@@ -58,18 +58,24 @@ abuse-report-messagebar-action-cancel = Отмена
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
-abuse-report-damage-reason = Повреждает данные на компьютере
+abuse-report-damage-reason = Вредит работе компьютера и моим данным
+abuse-report-damage-reason-v2 = Вредит работе компьютера или крадёт мои данные
 abuse-report-damage-example = Например: Вредоносное ПО или кража данных
 abuse-report-spam-reason = Создаёт спам или рекламу
+abuse-report-spam-reason-v2 = Содержит спам или вставляет нежелательную рекламу
 abuse-report-spam-example = Например: Вставляет рекламу на веб-страницы
 abuse-report-settings-reason = Изменяет мою поисковую систему, домашнюю страницу или страницу новой вкладки, не сообщая и не спрашивая меня
+abuse-report-settings-reason-v2 = Изменяет мою поисковую систему, домашнюю страницу или страницу новой вкладки, не сообщая и не спрашивая меня
 abuse-report-settings-suggestions = Перед отправкой жалобы на расширение, вы можете попробовать изменить настройки:
 abuse-report-settings-suggestions-search = Изменяет настройки поиска по умолчанию
 abuse-report-settings-suggestions-homepage = Изменяет домашнюю страницу и страницу новой вкладки
 abuse-report-deceptive-reason = Притворяется тем, чем не является
+abuse-report-deceptive-reason-v2 = Выдаёт себя не за то, чем является
 abuse-report-deceptive-example = Например: Описание или изображение вводят в заблуждение
 abuse-report-broken-reason-extension = Не работает, ломает веб-сайты или замедляет работу { -brand-product-name }
 abuse-report-broken-reason-theme = Не работает или нарушает работу браузера
+abuse-report-broken-reason-extension-v2 = Не работает, ломает веб-сайты или замедляет работу { -brand-product-name }
+abuse-report-broken-reason-theme-v2 = Не работает или нарушает работу браузера
 abuse-report-broken-example = Например: Медленная работа, трудности с использованием или не работает; части веб-сайтов не загружаются или выглядят необычно
 abuse-report-broken-suggestions-extension =
     Похоже, что вы обнаружили ошибку. В дополнение к отправке жалобы здесь, лучшим способом
@@ -80,10 +86,12 @@ abuse-report-broken-suggestions-theme =
     решения проблемы будет связь с разработчиком темы.
     <a data-l10n-name="support-link">Посетите веб-сайт темы</a> для получения информации о разработчике.
 abuse-report-policy-reason = Незаконное, жестокое, вызывающее ненависть содержимое
+abuse-report-policy-reason-v2 = Содержит незаконное, жестокое, вызывающее ненависть содержимое
 abuse-report-policy-suggestions =
     Примечание: Жалобы на нарушение авторских прав и торговых марок должны подаваться отдельно.
     <a data-l10n-name="report-infringement-link">Воспользуйтесь этими инструкциями</a>, чтобы
     сообщить о проблеме.
 abuse-report-unwanted-reason = Никогда не устанавливал(а) это расширение и не могу от него избавиться
+abuse-report-unwanted-reason-v2 = Я никогда не устанавливал(а) его и не знаю, как от него избавиться
 abuse-report-unwanted-example = Например: Приложение установило его без моего разрешения
 abuse-report-other-reason = Что-то другое
