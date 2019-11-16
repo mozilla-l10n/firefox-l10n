@@ -16,6 +16,7 @@ auto-refresh = 每3秒自动刷新一次
 hostname = 主机名
 port = 端口
 http2 = HTTP/2
+about-networking-http-version = HTTP 版本
 ssl = SSL
 active = 活动
 idle = 空闲

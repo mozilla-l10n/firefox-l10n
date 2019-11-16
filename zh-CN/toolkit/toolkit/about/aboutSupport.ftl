@@ -139,7 +139,7 @@ media-capabilities-title = 媒体能力
 # List all the entries of the database.
 media-capabilities-enumerate = 枚举数据库
 
-##
+
 
 intl-title = 国际化与本地化
 intl-app-title = 应用程序设置
@@ -150,6 +150,22 @@ intl-locales-default = 默认语言环境
 intl-os-title = 操作系统
 intl-os-prefs-system-locales = 系统语言环境
 intl-regional-prefs = 地区偏好
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = 远程调试（Chromium 协议）
+remote-debugging-accepting-connections = 接受连接
+remote-debugging-url = URL
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = 近 { $days } 天的崩溃报告

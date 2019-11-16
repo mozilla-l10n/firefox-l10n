@@ -81,6 +81,7 @@ about-logins-intro-import = 若登录信息保存在其他浏览器，您可以<
 login-item-new-login-title = 新建登录信息
 login-item-edit-button = 编辑
 login-item-delete-button = 删除
+about-logins-login-item-remove-button = 移除
 login-item-origin-label = 网址
 login-item-origin =
     .placeholder = https://www.example.com
@@ -124,6 +125,7 @@ enable-password-sync-preferences-button =
            *[other] 前往{ -sync-brand-short-name }首选项
         }
     .accesskey = V
+confirm-delete-dialog-title = 删除此登录信息？
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = 不再询问
     .accesskey = D
@@ -133,9 +135,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = 取消
 confirmation-dialog-dismiss-button =
     .title = 取消
-confirm-delete-dialog-title = 删除此登录信息？
+about-logins-confirm-remove-dialog-title = 删除此登录信息？
 confirm-delete-dialog-message = 此操作不可撤销。
 confirm-delete-dialog-confirm-button = 删除
+about-logins-confirm-remove-dialog-confirm-button = 移除
 confirm-discard-changes-dialog-title = 要丢弃未保存的更改吗？
 confirm-discard-changes-dialog-message = 将失去所有未保存的更改。
 confirm-discard-changes-dialog-confirm-button = 丢弃
