@@ -8,6 +8,11 @@ pref-page =
             [windows] Optziones
            *[other] Preferèntzias
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Optziones
+       *[other] Preferèntzias
+    }
 pane-general-title = Generale
 category-general =
     .tooltiptext = { pane-general-title }
@@ -112,15 +117,37 @@ containers-remove-button =
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-signedin-settings-header = Assètios de Sync
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
+
+## The device name controls.
+
 sync-tos-link = Cunditziones de su servìtziu
 
 ## Privacy Section
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 
 ## Privacy Section - History
