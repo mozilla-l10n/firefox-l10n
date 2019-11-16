@@ -12,6 +12,11 @@ pref-page =
             [windows] ရွေးစရာများ
            *[other] နှစ်သက်ရာ အပြင်အဆင်များ
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] ရွေးစရာများ
+       *[other] နှစ်သက်ရာ အပြင်အဆင်များ
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -484,6 +489,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = ဝဘ်ကို သင့်နဲ့အတူ ခေါ်ဆောင်သွားပါ
 sync-signedout-description = သင့်ကိရိယာအားလုံးရှိ စာမှတ်များ၊ မှတ်တမ်း၊ စာမျက်နှာများ၊ စကားဝှက်များ၊ အတ်အွန်များနှင့် အပြင်အဆင်များကို တစ်ပြေးညီဖြစ်စေပါ။
 sync-signedout-account-title = { -fxaccount-brand-name } ကို အသုံးပြုပြီး ချိတ်ဆက်ရန်
@@ -503,6 +512,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = ထိုစနစ်အတွက် မီးမြေခွေးကို ဆွဲယူကူးပါ၊ <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> သို့မဟုတ် <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> သင့်မိုဘိုင်းလ်ကိရိယာများကို တစ်ပြေးညီဖြစ်စေရန်
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = ပရိုဖိုင်းရုပ်ပုံကို ပြောင်းလဲရန်
@@ -524,6 +536,15 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Sync အပြင်အဆင်များ
 sync-signedin-settings-desc = { -brand-short-name } ကို အသုံးပြုပြီး သင်၏ ကိရိယာများတွင် ပြိုင်တူလုပ်မည့်အရာများကို ရွေးပါ။
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = စာမှတ်များ
     .accesskey = m
@@ -558,6 +579,9 @@ sync-engine-prefs =
         }
     .tooltiptext = ပြောင်းလဲထားသော အထွေထွေ၊ကိုယ်ရေးကိုယ်တာနှင့် လုံခြုံမှုအပြင်အဆင်များ
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = ကိရိယာအမည်
 sync-device-name-change =
     .label = ကိရိယာအမည်ကို ပြောင်းလဲရန်…
@@ -579,6 +603,9 @@ sync-fxa-privacy-notice = ကိုယ်ရေးကာကွယ်မှု �
 privacy-header = ဘရောင်ဇာ ကိုယ်ရေးကာကွယ်မှု
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = အကောင့်ဝင်ရောက်မှုနှင့်စကားဝှက်များ
 forms-ask-to-save-logins =
