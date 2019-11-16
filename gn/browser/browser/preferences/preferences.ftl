@@ -14,6 +14,11 @@ pref-page =
             [windows] Jeporavorã
            *[other] Jerohoryvéva
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Jeporavorã
+       *[other] Jerohoryvéva
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -311,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Tembiapo Ñandutigua Derécho (TÑD) retepy
 play-drm-content =
@@ -508,7 +513,6 @@ search-bar-shown =
     .label = Toñembojoaju jeheka renda tembipuru rendápe
 search-engine-default-header = Hekaha ypykuéva
 search-engine-default-desc = Eiporavo hekaha mongu'eha ijypykuéva eipuru hag̃ua kundaharape ha jehekaha rendápe.
-search-engine-default-private-desc = Eiporavo jehekaha mongu'eha ijypykuéva eipuru hag̃ua ovetã ñemíme.
 search-engine-default-desc-2 = Kóva nde jeheka mongu’eha ypyguáva kundaharape renda ha jehekeha rendápe.
 search-engine-default-private-desc-2 = Emoĩ jeheka mongu’eha ypyguáramo ovetã ñemíme g̃uarã
 search-separate-default-engine =
@@ -723,6 +727,9 @@ privacy-header = Kundahára Ñemigua
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Tembiapo ñepyrũ ha ñe’ẽñemi
 forms-ask-to-save-logins =
     .label = Eporandu eñongatu hag̃ua tembiapo ñepyrũ ha ñe’ẽñemi ñandutípe
@@ -891,7 +898,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Ñemomba’epyre
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = Imbytéva ñemo’ã ha tembiapokuépe g̃uarã. Umi kuatiarogue henyhẽta hekoitépe.
 content-blocking-etp-strict-desc = Ñemo’ãve, hákatu ikatu ndahetái tenda térã tetepy nahenyhẽi.
