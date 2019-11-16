@@ -311,7 +311,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Digital Rights Management (DRM) innhald
 play-drm-content =
@@ -508,7 +508,6 @@ search-bar-shown =
     .label = Legg til søkjelinje i verktøylinja
 search-engine-default-header = Standard søkjemotor
 search-engine-default-desc = Vel standardsøkjemotor som skal brukast i adresselinja og søkelinja.
-search-engine-default-private-desc = Vel kva for søkjemotor du vil bruke i private vindauge.
 search-engine-default-desc-2 = Dette er standardsøkemotoren din i adresselinja og søkelinja. Du kan byte når som helst.
 search-engine-default-private-desc-2 = Vel ein annan standardsøkjemotor berre for private vindauge
 search-separate-default-engine =
@@ -723,6 +722,9 @@ privacy-header = Nettlesarpersonvern
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Innloggingar og passord
 forms-ask-to-save-logins =
     .label = Spør om å lagre innloggingar og passord for nettsider
@@ -891,7 +893,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Tilpassa
     .accesskey = T
 
-
+##
 
 content-blocking-etp-standard-desc = Balansert for vern og yting. Sider vil laste normalt.
 content-blocking-etp-strict-desc = Sterkare vern, men kan føre til at nokre nettstadar eller innhald ikkje vil fungere.
