@@ -88,7 +88,7 @@
 <!ENTITY cspBlocked.longDesc "<p>Selain esti tämän sivun latautumisen tässä yhteydessä, koska sivun sisällön tietosuojakäytäntö kieltää sen.</p>">
 
 <!ENTITY xfoBlocked.title "Estetty X-Frame-Options-käytännön perusteella">
-<!ENTITY xfoBlocked.longDesc "<p>Selain esti tätä sivua latautumasta tässä asiayhteydessä, koska sivu sisältää latauksen estävän X-Frame-Options-käytännön.</p>">
+<!ENTITY xfoBlocked.longDesc "<p>Selain esti tätä sivua latautumasta tässä yhteydessä, koska sivu sisältää latauksen estävän X-Frame-Options-käytännön.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Sisältö vioittunut -virhe">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Avattavaa sivua ei voida näyttää, koska tiedonsiirrossa tapahtui virhe.</p><ul><li>Ilmoitathan ongelmasta sivuston omistajalle.</li></ul>">
