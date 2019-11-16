@@ -8,6 +8,11 @@ pref-page =
             [windows] Machaguo
            *[other] Mapendeleo
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Machaguo
+       *[other] Mapendeleo
+    }
 pane-general-title = Ya kawaida
 category-general =
     .tooltiptext = { pane-general-title }
@@ -215,7 +220,23 @@ search-keyword-warning-bookmark = Umechagua nenomsingi ambalo kwa sasa linatumiw
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
+
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
 
 sync-engine-bookmarks =
     .label = Alamisho
@@ -223,12 +244,18 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historia
     .accesskey = r
+
+## The device name controls.
+
 sync-tos-link = Masharti ya Huduma
 
 ## Privacy Section
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = Mambo ya pekee…
