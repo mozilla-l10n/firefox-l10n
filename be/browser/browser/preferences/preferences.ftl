@@ -314,7 +314,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Digital Rights Management (DRM) змесціва
 play-drm-content =
@@ -512,7 +512,6 @@ search-bar-shown =
     .label = Дадаць радок пошуку на паліцу прылад
 search-engine-default-header = Прадвызначаны пашукавік
 search-engine-default-desc = Выберыце прадвызначаную пошукавую сістэму для выкарыстання ў адрасным радку і панэлі пошуку.
-search-engine-default-private-desc = Выберыце прадвызначаную пошукавую сістэму для выкарыстання ў прыватным рэжыме.
 search-engine-default-desc-2 = Гэта прадвызначаная пошукавая сістэма ў адрасным радку і радку пошуку. Вы можаце пераключыць яе ў любы час.
 search-engine-default-private-desc-2 = Выберыце іншую прадвызначаную пошукавую сістэму толькі для прыватных акон
 search-separate-default-engine =
@@ -727,6 +726,9 @@ privacy-header = Прыватнасць браўзера
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = Лагіны & Паролі
 forms-ask-to-save-logins =
     .label = Прапаноўваць захаваць лагіны і паролі для вэб-сайтаў
@@ -895,7 +897,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Адмыслова
     .accesskey = с
 
-
+##
 
 content-blocking-etp-standard-desc = Збалансаваная ахова і прадукцыйнасць. Старонкі загружаюцца нармальна.
 content-blocking-etp-strict-desc = Больш моцная ахова, але можа прывесці да парушэння некаторых сайтаў ці змесціва.
