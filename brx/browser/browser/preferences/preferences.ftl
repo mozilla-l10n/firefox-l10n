@@ -11,6 +11,11 @@ pref-page =
             [windows] उफ्राफोर
            *[other] पसन्दफोर
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] उफ्राफोर
+       *[other] पसन्दफोर
+    }
 pane-general-title = सरासनस्रा
 category-general =
     .tooltiptext = { pane-general-title }
@@ -198,7 +203,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 play-drm-content-learn-more = गोबां सोलों
 update-application-title = { -brand-short-name } नि आपडेटफोर
@@ -408,6 +413,9 @@ sync-fxa-privacy-notice = गुमुरथि मिथिसारहोन�
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = लगिनफोर आरो पासवर्डफोर
 forms-exceptions =
     .label = Exceptions…
@@ -511,7 +519,7 @@ enhanced-tracking-protection-setting-custom =
     .label = कास्टम
     .accesskey = C
 
-
+##
 
 content-blocking-tracking-protection-option-all-windows =
     .label = गासै उइन्ड'स आव
