@@ -12,6 +12,11 @@ pref-page =
             [windows] पर्याय
            *[other] प्राधान्यक्रम
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] पर्याय
+       *[other] प्राधान्यक्रम
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -303,7 +308,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = डिजिटल हक्क व्यवस्थापन (डीआरएम) मजकूर
 play-drm-content =
@@ -674,6 +679,9 @@ privacy-header = ब्राऊजर गोपनीयता
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = लॉगिन आणि पासवर्ड
 forms-ask-to-save-logins =
     .label = संकेतस्थळासाठी लॉगिन आणि पासवर्ड साठवण्यासाठी विचारा
@@ -818,7 +826,7 @@ enhanced-tracking-protection-setting-custom =
     .label = पसंतीचे
     .accesskey = C
 
-
+##
 
 content-blocking-etp-custom-desc = कोणती ट्रॅकर्स आणि स्क्रिप्ट अवरोधित करायची ते निवडा.
 content-blocking-cross-site-tracking-cookies = क्रॉस-साईट ट्रॅकिंग कुकी
