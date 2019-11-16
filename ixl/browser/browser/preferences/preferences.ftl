@@ -9,6 +9,11 @@ pref-page =
             [windows] Unka'te
            *[other] Uve' ni chit asa'
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Unka'te
+       *[other] Uve' ni chit asa'
+    }
 pane-home-title = Ixe´te'ba'l
 category-home =
     .tooltiptext = { pane-home-title }
@@ -99,7 +104,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 play-drm-content-learn-more = Ootzi ka'te
 update-pref-write-failure-title = Yansamal itz'ib'ale'
@@ -201,6 +206,9 @@ sync-device-name-save =
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 forms-breach-alerts-learn-more-link = Ootzi ka'te
 
 ## Privacy Section - History
@@ -230,7 +238,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Eetz chitu'
     .accesskey = C
 
-
+##
 
 content-blocking-cookies-label =
     .label = Cookies
