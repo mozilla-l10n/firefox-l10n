@@ -971,3 +971,7 @@
 <!ENTITY dockOptions.label              "Alternativ programsymbol…">
 <!ENTITY writeNewMessageDock.label      "Skriv nytt meddelande">
 <!ENTITY openAddressBookDock.label      "Öppna adressboken">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Gå tillbaka en sida">
+<!ENTITY browseForwardButton.tooltip "Gå framåt en sida">
