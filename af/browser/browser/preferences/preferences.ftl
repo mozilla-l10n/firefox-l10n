@@ -11,6 +11,11 @@ pref-page =
             [windows] Opsies
            *[other] Voorkeure
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Opsies
+       *[other] Voorkeure
+    }
 pane-general-title = Algemeen
 category-general =
     .tooltiptext = { pane-general-title }
@@ -339,6 +344,10 @@ containers-add-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Neem die Web saam
 sync-signedout-description = Sinkroniseer boekmerke, geskiedenis, oortjies, wagwoorde, byvoegings en voorkeure oor alle toestelle.
 sync-signedout-account-title = Koppel met 'n { -fxaccount-brand-name }
@@ -354,6 +363,9 @@ sync-mobile-promo = Laai Firefox af vir <img data-l10n-name="android-icon"/> <a 
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Verander profielprent
 sync-disconnect =
@@ -366,12 +378,24 @@ sync-sign-in =
     .accesskey = M
 sync-signedin-settings-header = Sync-instellings
 sync-signedin-settings-desc = Kies wat om tussen toestelle te sinkroniseer met { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Boekmerke
     .accesskey = m
 sync-engine-history =
     .label = Geskiedenis
     .accesskey = G
+
+## The device name controls.
+
 sync-device-name-header = Toestelnaam
 sync-device-name-change =
     .label = Verander toestelnaam…
@@ -389,6 +413,9 @@ sync-fxa-privacy-notice = Privaatheidkennisgewing
 
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = Uitsonderings…
