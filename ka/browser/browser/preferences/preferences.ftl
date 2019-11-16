@@ -14,6 +14,11 @@ pref-page =
             [windows] პარამეტრები
            *[other] პარამეტრები
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] პარამეტრები
+       *[other] პარამეტრები
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -311,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = ციფრული უფლებების მართვის (DRM) შიგთავსი
 play-drm-content =
@@ -722,6 +727,9 @@ privacy-header = ბრაუზერის პირადულობა
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
 logins-header = ანგარიშის სახელები და პაროლები
 forms-ask-to-save-logins =
     .label = საიტებზე შესვლის მონაცემების დამახსოვრების მოთხოვნა
@@ -890,7 +898,7 @@ enhanced-tracking-protection-setting-custom =
     .label = მორგებული
     .accesskey = გ
 
-
+##
 
 content-blocking-etp-standard-desc = წონასწორული უსაფრთხოებასა და წარმადობას შორის. გვერდები ჩაიტვირთება ჩვეულებრივ.
 content-blocking-etp-strict-desc = მძლავრი დაცვა, თუმცა გამოიწვევს საიტების ან შიგთავსის ნაწილის გაუმართაობას.
