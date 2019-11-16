@@ -150,6 +150,20 @@ intl-locales-default = 預設語系
 intl-os-title = 作業系統
 intl-os-prefs-system-locales = 系統語系
 intl-regional-prefs = 區域偏好設定
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-url = 網址
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = 最近 { $days } 天內的錯誤資訊報表
