@@ -12,6 +12,11 @@ pref-page =
             [windows] Roghanna
            *[other] Sainroghanna
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Roghanna
+       *[other] Sainroghanna
+    }
 pane-general-title = Ginearálta
 category-general =
     .tooltiptext = { pane-general-title }
@@ -426,6 +431,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Beir do Ghréasán féin leat
 sync-signedout-description = Siocrónaigh do chuid leabharmharcanna, stair, cluaisíní, focail fhaire, breiseáin, agus sainroghanna ar do ghléasanna go léir.
 sync-signedout-account-title = Ceangail le { -fxaccount-brand-name }
@@ -444,6 +453,9 @@ sync-mobile-promo = Íoslódáil Firefox ar <img data-l10n-name="android-icon"/>
 
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Athraigh an pictiúr próifíle
 sync-disconnect =
@@ -458,6 +470,15 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Socruithe Sioncronaithe
 sync-signedin-settings-desc = Roghnaigh na rudaí le sioncronú ar do chuid gléasanna ag úsáid { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Leabharmharcanna
     .accesskey = L
@@ -472,6 +493,9 @@ sync-engine-creditcards =
     .label = Cártaí creidmheasa
     .tooltiptext = Ainmneacha, uimhreacha, agus dátaí éaga (deasc amháin)
     .accesskey = C
+
+## The device name controls.
+
 sync-device-name-header = Ainm an Ghléis
 sync-device-name-change =
     .label = Athraigh Ainm an Ghléis
@@ -490,6 +514,9 @@ sync-fxa-privacy-notice = Fógra Príobháideachais
 privacy-header = Príobháideachas
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = Eisceachtaí…
