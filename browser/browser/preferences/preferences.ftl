@@ -12,6 +12,11 @@ pref-page =
             [windows] Opcions
            *[other] Preferencias
         }
+pref-page-title =
+    { PLATFORM() ->
+        [windows] Opcions
+       *[other] Preferencias
+    }
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -499,6 +504,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Leva-te lo web con tu
 sync-signedout-description = Sincroniza os tuyos marcapachinas, historial, pestanyas, claus, complementos y preferencias entre totz os tuyos dispositivos.
 sync-signedout-account-title = Connectar con una { -fxaccount-brand-name }
@@ -518,6 +527,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Descargar Firefos pa <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> u bien lo <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> sincronizar con o tuyo dispositivo mobil.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Cambiar a imachen de perfil
@@ -539,6 +551,15 @@ sync-sign-in =
     .accesskey = g
 sync-signedin-settings-header = Achustes de sincronización
 sync-signedin-settings-desc = Trigar qué sincronizar en os tuyos dispostivos fendo servir { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = Marcapachinas
     .accesskey = M
@@ -573,6 +594,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Achustes chenerals, de privacidat y de seguranza que has cambiaus
     .accesskey = s
+
+## The device name controls.
+
 sync-device-name-header = Nombre d'o dispositivo
 sync-device-name-change =
     .label = Cambiar lo nombre d'o dispositivo...
@@ -591,6 +615,9 @@ sync-fxa-privacy-notice = Nota sobre privacidat
 privacy-header = Privacidat d'o navegador
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 forms-ask-to-save-logins =
     .label = Demandar alzar usuarios y claus d'os puestos web
