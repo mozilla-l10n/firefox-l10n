@@ -453,7 +453,6 @@ choose-bookmark =
 
 home-prefs-content-header = Enhavo de la hejmekrano de Firefox
 home-prefs-content-description = Elektu la enhavon, kiun vi volas en via hejmekrano de Firefox.
-home-prefs-content-discovery-description = Malkovro de enhavo en la eka paĝo de Firefox permesas al vi trovi altkvalitajn elstarajn artikolojn el la tuta teksaĵo.
 home-prefs-search-header =
     .label = Serĉo en la reto
 home-prefs-topsites-header =
@@ -550,6 +549,10 @@ containers-remove-button =
 
 ## Sync Section - Signed out
 
+
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Kunporti vian Teksaĵon kun vi
 sync-signedout-description = Speguli viajn legosignojn, historion, langetojn, pasvortojn, aldonaĵojn kaj preferojn en ĉiuj viaj aparatoj.
 sync-signedout-account-title = Konekti al { -fxaccount-brand-name }
@@ -569,6 +572,9 @@ sync-signedout-account-signin =
 sync-mobile-promo = Elŝuti Firefox por <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Android</a> aŭ <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> por speguli kun via portebla aparato.
 
 ## Sync Section - Signed in
+
+
+## Firefox Account - Signed in
 
 sync-profile-picture =
     .tooltiptext = Ŝanĝi bildon de profilo
@@ -590,6 +596,15 @@ sync-sign-in =
     .accesskey = K
 sync-signedin-settings-header = Agordoj de Spegulado
 sync-signedin-settings-desc = Elekti tion, kion vi volas speguli en la aparatoj viaj, kiuj uzas { -brand-short-name }.
+
+## Sync section - enabling or disabling sync.
+
+
+## The list of things currently syncing.
+
+
+## The "Choose what to sync" dialog.
+
 sync-engine-bookmarks =
     .label = legosignojn
     .accesskey = l
@@ -624,6 +639,9 @@ sync-engine-prefs =
         }
     .tooltiptext = Ĝeneralaj, privatecaj kaj sekurecaj agordoj ŝanĝitaj de vi
     .accesskey = p
+
+## The device name controls.
+
 sync-device-name-header = Nomo de aparato
 sync-device-name-change =
     .label = Ŝanĝi nomon de aparato…
@@ -645,6 +663,9 @@ sync-fxa-privacy-notice = Rimarko pri privateco
 privacy-header = Retumila privateco
 
 ## Privacy Section - Forms
+
+
+## Privacy Section - Logins and Passwords
 
 logins-header = Akreditiloj kaj pasvortoj
 forms-ask-to-save-logins =
