@@ -33,6 +33,7 @@ printpreview-of =
     .value = ইয়াৰ
 printpreview-custom-prompt =
     .value = স্বনিৰ্বাচিত স্কেল...
+printpreview-custom-scale-prompt-title = নিজৰ হিচাপৰ স্কেইল
 printpreview-page-setup =
     .label = পৃষ্ঠাৰ সংস্থাপন…
     .accesskey = u

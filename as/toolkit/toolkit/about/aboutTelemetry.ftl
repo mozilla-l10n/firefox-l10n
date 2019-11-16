@@ -55,6 +55,7 @@ about-telemetry-histogram-stats =
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = এই পৃষ্ঠায় টেলিমেট্ৰি দ্বাৰা সংগ্ৰহ কৰা পৰিৱেশন, হাৰ্ডৱেৰ, ব্যৱহাৰ আৰু স্বনিৰ্বাচনসমূহৰ বিষয়ে তথ্য দেখুৱায়। এই তথ্য { -brand-full-name } ক উন্নত কৰাত সহায় কৰিবলে { $telemetryServerOwner } লৈ জমা দিয়া হয়।
+about-telemetry-settings-explanation = টেলিমেট্ৰীয়ে { about-telemetry-data-type } গোটাই আছে আৰু আপল'ড <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>।
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -112,11 +113,13 @@ about-telemetry-late-writes-title = শেষ লিখনি #{ $lateWriteCount
 about-telemetry-stack-title = স্টেক:
 about-telemetry-memory-map-title = মেমৰিৰ মেপ:
 about-telemetry-error-fetching-symbols = চিহ্নসমূহ প্ৰাপ্ত কৰোতে এটা ত্ৰুটি দেখা দিলে। আপুনি ইন্টাৰনেটৰ সৈতে সংযুক্ত আছে নে নীৰিক্ষণ কৰি পুনৰ চেষ্টা কৰি চাওক।
+about-telemetry-time-stamp-header = সময়-মোহৰ
 about-telemetry-category-header = বৰ্গ
 about-telemetry-method-header = পদ্ধতি
 about-telemetry-object-header = অবজেক্ট
 about-telemetry-extra-header = অতিৰিক্ত
 about-telemetry-origin-section = মূল টেলিমেট্ৰী
+about-telemetry-origin-origin = উৎস
 about-telemetry-origin-count = সংখ্যা
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
