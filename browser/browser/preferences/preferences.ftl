@@ -319,7 +319,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Skaitmeninių teisių valdymo (DRM) turinys
 play-drm-content =
@@ -588,6 +588,9 @@ sync-signedout-account-create = Neturite paskyros? Pradėkite naudotis
 sync-signedout-account-signin =
     .label = Prisijungti…
     .accesskey = J
+sync-signedout-account-signin2 =
+    .label = Jungtis prie „{ -sync-brand-short-name }“…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -735,6 +738,7 @@ privacy-header = Naršyklės privatumas
 ## Privacy Section - Logins and Passwords
 
 logins-header = Prisijungimai ir slaptažodžiai
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Klausti, ar norite įrašyti svetainių prisijungimus ir slaptažodžius
     .accesskey = r
@@ -748,6 +752,7 @@ forms-breach-alerts =
     .label = Rodyti įspėjimus apie slaptažodžius pažeistose svetainėse
     .accesskey = d
 forms-breach-alerts-learn-more-link = Sužinoti daugiau
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Automatiškai užpildyti prisijungimus ir slaptažodžius
     .accesskey = m
@@ -902,7 +907,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Pasirinktinė
     .accesskey = P
 
-##
+
 
 content-blocking-etp-standard-desc = Subalansuota apsaugai ir našumui. Tinklalapiai bus įkeliami įprastai.
 content-blocking-etp-strict-desc = Stipresnė apsauga, tačiau gali sutrikti kai kurių svetainių veikimas.

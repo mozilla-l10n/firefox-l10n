@@ -136,7 +136,7 @@ media-capabilities-title = Medijos galimybės
 # List all the entries of the database.
 media-capabilities-enumerate = Išvardinti duomenų bazės turinį
 
-##
+
 
 intl-title = Internacionalizacija ir lokalizacija
 intl-app-title = Programos nuostatos
@@ -147,6 +147,21 @@ intl-locales-default = Numatytoji lokalė
 intl-os-title = Operacinė sistema
 intl-os-prefs-system-locales = Sistemos lokalės
 intl-regional-prefs = Regionų nuostatos
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Nuotolinis derinimas („Chromium“ protokolu)
+remote-debugging-url = URL
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

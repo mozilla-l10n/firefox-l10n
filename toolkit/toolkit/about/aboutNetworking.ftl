@@ -16,6 +16,7 @@ auto-refresh = Automatiškai naujinti kas 3 sekundes
 hostname = Serverio vardas
 port = Prievadas
 http2 = HTTP/2
+about-networking-http-version = HTTP laida
 ssl = SSL
 active = Aktyvus
 idle = Neveiksnus
