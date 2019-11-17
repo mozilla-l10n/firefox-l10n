@@ -82,6 +82,7 @@ about-logins-intro-import = Ma yella tuqqna-inek tettwasekles deg yiminig-nniḍ
 login-item-new-login-title = Rnu anekcum amaynut
 login-item-edit-button = Ẓreg
 login-item-delete-button = Kkes
+about-logins-login-item-remove-button = Kkes
 login-item-origin-label = Tansa n usmel web
 login-item-origin =
     .placeholder = https://www.example.com
@@ -125,6 +126,7 @@ enable-password-sync-preferences-button =
            *[other] Rzu ɣer yismenyifen n  { -sync-brand-short-name }
         }
     .accesskey = C
+confirm-delete-dialog-title = Kkes anekcam-agi?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Ur yi-d-ssutur ara tikkelt-nniḍen
     .accesskey = U
@@ -134,9 +136,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Sefsex
 confirmation-dialog-dismiss-button =
     .title = Sefsex
-confirm-delete-dialog-title = Kkes anekcam-agi?
+about-logins-confirm-remove-dialog-title = Kkes anekcam-agi?
 confirm-delete-dialog-message = Ulac tuɣalin ɣer deffir.
 confirm-delete-dialog-confirm-button = Kkes
+about-logins-confirm-remove-dialog-confirm-button = Kkes
 confirm-discard-changes-dialog-title = Sefsex isenfal-agi?
 confirm-discard-changes-dialog-message = Akk isnifal ur nettwakles ara ad ttwaksen.
 confirm-discard-changes-dialog-confirm-button = Kkes
