@@ -16,6 +16,7 @@ auto-refresh = Elke 3 sekonden opnij lade
 hostname = Hostnamme
 port = Poarte
 http2 = HTTP/2
+about-networking-http-version = HTTP-ferzje
 ssl = SSL
 active = Aktyf
 idle = Wachtet

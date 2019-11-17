@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Der is in flater bard by it ferstjoeren fan it rapport. Probearje it letter nochris.
+# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
+protections-panel-sitefixedsendreport-label = Website reparearre? Ferstjoer rapport

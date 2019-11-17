@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Digital Rights Management (DRM)-ynhâld
 play-drm-content =
@@ -584,6 +584,9 @@ sync-signedout-account-create = Hawwe jo gjin account? Registrearje
 sync-signedout-account-signin =
     .label = Oanmelde…
     .accesskey = O
+sync-signedout-account-signin2 =
+    .label = Oanmelde by { -sync-brand-short-name }…
+    .accesskey = O
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -731,6 +734,7 @@ privacy-header = Browserprivacy
 ## Privacy Section - Logins and Passwords
 
 logins-header = Oanmeldingen & Wachtwurden
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Freegje om oanmeldingen en wachtwurden foar websites te ûnthâlden
     .accesskey = F
@@ -744,6 +748,7 @@ forms-breach-alerts =
     .label = Warskôgingen oer wachtwurden foar troffen websites toane
     .accesskey = f
 forms-breach-alerts-learn-more-link = Mear ynfo
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Oanmeldingen en wachtwurden automatysk ynfolje
     .accesskey = O
@@ -898,7 +903,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Oanpast
     .accesskey = O
 
-##
+
 
 content-blocking-etp-standard-desc = Balansearre foar beskerming en prestaasjes. Siden lade normaal.
 content-blocking-etp-strict-desc = Sterkere beskerming, mar kin der foar soargje dat guon websites of ynhâld net wurkje.
