@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Aɣbalu n isefka n Ping:
 about-telemetry-show-current-ping-data = Isefkan Ping amiran
+about-telemetry-show-current-data = Isefka imiranen
 about-telemetry-show-archived-ping-data = Isefka n Ping ittwaɣebṛen
 about-telemetry-show-subsession-data = Sken isefka n adtiɣimit
 about-telemetry-choose-ping = Fren ping:
@@ -91,6 +92,8 @@ about-telemetry-no-search-results-all = Nesḥasef! Ulac igemmaḍ ula d yiwet n
 about-telemetry-no-data-to-display = Nesḥasef! Ulac akka tura isefka i “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = aping amiran
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = Isefka imiranen
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = akk
 # button label to copy the histogram

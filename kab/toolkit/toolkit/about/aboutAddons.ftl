@@ -396,6 +396,7 @@ theme-heading = Sefrek isental-ik/im
 plugin-heading = Sefrek izegrar-ik/im
 dictionary-heading = Sefrek imawalen-ik/im
 locale-heading = Sefrekl tutlayin-ik/im
+updates-heading = Sefrek ileqman-ik
 discover-heading = Err { -brand-short-name }-ik d udmawan
 shortcuts-heading = Sefrek inegzumen n isiɣzaf
 theme-heading-search-label = Af-d ugar n isental

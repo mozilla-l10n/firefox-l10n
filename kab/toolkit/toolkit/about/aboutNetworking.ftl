@@ -15,6 +15,7 @@ auto-refresh = Smiren yal 3 n tasinin
 hostname = Asenneftaɣ
 port = Tabburt
 http2 = HTTP/2
+about-networking-http-version = Lqem HTTP
 ssl = SSL
 active = Urmid
 idle = idle
