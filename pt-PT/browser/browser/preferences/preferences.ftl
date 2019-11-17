@@ -121,7 +121,7 @@ startup-header = Arranque
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
-    .label = Permitir que o { -brand-short-name } e o Firefox sejam utilizados em simultâneo
+    .label = Permitir que o { -brand-short-name } e o Firefox sejam executados ao mesmo tempo
 use-firefox-sync = Dica: Isto utiliza perfis separados. Utilize o { -sync-brand-short-name } para partilhar dados entre eles.
 get-started-not-logged-in = Iniciar sessão no { -sync-brand-short-name }…
 get-started-configured = Abrir preferências do { -sync-brand-short-name }
@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Conteúdo com Gestão de Direitos Digitais (DRM)
 play-drm-content =
@@ -900,7 +900,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizada
     .accesskey = e
 
-##
+
 
 content-blocking-etp-standard-desc = Balanceado para proteção e desempenho. As páginas serão carregadas normalmente.
 content-blocking-etp-strict-desc = Proteção mais forte, mas pode causar problemas em alguns sites ou conteúdos.
