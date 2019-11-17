@@ -27,11 +27,11 @@ onboarding-welcome-modal-privacy-body = Já tem o navegador. Vamos adicionar mai
 onboarding-welcome-modal-family-learn-more = Saber mais sobre a família de produtos do { -brand-product-name }.
 onboarding-welcome-form-header = Comece aqui
 onboarding-join-form-header = Junte-se ao { -brand-product-name }
-onboarding-join-form-body = Introduza o seu endereço de email para começar.
+onboarding-join-form-body = Insira o seu endereço de e-mail para começar.
 onboarding-join-form-email =
-    .placeholder = Introduzir email
-onboarding-join-form-email-error = Email válido requerido
-onboarding-join-form-legal = Ao proceder, concorda com os <a data-l10n-name="terms">Termos de serviço</a> e <a data-l10n-name="privacy">Aviso de privacidade</a>.
+    .placeholder = Insira o e-mail
+onboarding-join-form-email-error = É necessário um e-mail válido
+onboarding-join-form-legal = Ao continuar, concorda com os <a data-l10n-name="terms">Termos de serviço</a> e o <a data-l10n-name="privacy">Aviso de privacidade</a>.
 onboarding-join-form-continue = Continuar
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = Já tem uma conta?

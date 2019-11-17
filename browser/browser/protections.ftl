@@ -31,6 +31,7 @@ protection-report-page-title = Proteções de privacidade
 protection-report-content-title = Proteções de privacidade
 etp-card-title = Proteção melhorada contra a monitorização
 etp-card-content = Os rastreadores seguem-no na Internet para recolher informação sobre os seus hábitos e interesses de navegação. O { -brand-short-name } bloqueia muitos desses rastreadores e outros "scripts" maliciosos.
+protection-report-manage-protections = Gerir definições
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Hoje
@@ -98,6 +99,14 @@ info-exposed-passwords-found =
        *[other] palavras-passe expostas em todas as violações
     }
 full-report-link = Ver o relatório completo em <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] As credenciais guardadas podem ser expostas numa violação de dados. Altere esta palavra-passe para uma melhor segurança on-line. <a data-l10n-name="lockwise-link">Ver credenciais guardadas</a>
+       *[other] As credenciais guardadas podem ser expostas numa violação de dados. Altere estas palavras-passe para uma melhor segurança on-line. <a data-l10n-name="lockwise-link">Ver credenciais guardadas</a>
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
