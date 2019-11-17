@@ -73,8 +73,13 @@ serviceworker-empty-suggestions-aboutdebugging = Sweḍ ameẓlu workers seg ti�
 manifest-item-warnings = Tuccḍiwin akked Ilɣa
 # Header for the Identity section of Manifest inspection displayed in the application panel.
 manifest-item-identity = Tamagit
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = Asissen
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = Tigniyin
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Tuccḍa n Firefox DevTools
 # Text displayed at manifest icons to label their purpose, as declared
 # in the manifest.
 manifest-icon-purpose = Iswi: <code>{ $purpose }</code>
