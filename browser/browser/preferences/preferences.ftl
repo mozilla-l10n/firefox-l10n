@@ -584,6 +584,9 @@ sync-signedout-account-create = Haben Sie noch kein Konto? Erstellen Sie eines.
 sync-signedout-account-signin =
     .label = Anmelden…
     .accesskey = A
+sync-signedout-account-signin2 =
+    .label = Bei { -sync-brand-short-name } anmelden…
+    .accesskey = B
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -604,6 +607,9 @@ sync-profile-picture =
 sync-disconnect =
     .label = Trennen…
     .accesskey = r
+sync-sign-out =
+    .label = Abmelden…
+    .accesskey = b
 sync-manage-account = Konto verwalten
     .accesskey = v
 sync-signedin-unverified = { $email } wurde noch nicht bestätigt.
@@ -622,9 +628,20 @@ sync-signedin-settings-desc = Wählen Sie die zwischen den Geräten zu synchroni
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Synchronisation: EIN
+prefs-syncing-off = Synchronisation: AUS
+prefs-sync-setup =
+    .label = { -sync-brand-short-name } einrichten…
+    .accesskey = e
+prefs-sync-offer-setup-label = Synchronisieren Sie Ihre Lesezeichen, Chronik, Tabs, Passwörter, Add-ons und Einstellungen zwischen allen Ihren Geräten.
+prefs-sync-now =
+    .labelnotsyncing = Jetzt synchronisieren
+    .accesskeynotsyncing = J
+    .labelsyncing = Wird synchronisiert…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Derzeit werden folgende Elemente synchronisiert:
 sync-currently-syncing-bookmarks = Lesezeichen
 sync-currently-syncing-history = Chronik
 sync-currently-syncing-tabs = Offene Tabs
@@ -643,6 +660,13 @@ sync-change-options =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Auswählen, was synchronisiert wird
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Änderungen speichern
+    .buttonaccesskeyaccept = s
+    .buttonlabelextra2 = Trennen…
+    .buttonaccesskeyextra2 = T
 sync-engine-bookmarks =
     .label = Lesezeichen
     .accesskey = L
@@ -657,9 +681,13 @@ sync-engine-logins =
     .label = Zugangsdaten
     .tooltiptext = Durch Sie gespeicherte Benutzernamen und Passwörter
     .accesskey = Z
+sync-engine-logins-passwords =
+    .label = Zugangsdaten und Passwörter
+    .tooltiptext = Gespeicherte Benutzernamen und Passwörter
+    .accesskey = Z
 sync-engine-addresses =
     .label = Adressen
-    .tooltiptext = Durch Sie gespeicherte postalische Adressen (nur für Desktops)
+    .tooltiptext = Gespeicherte postalische Adressen (nur für Desktops)
     .accesskey = d
 sync-engine-creditcards =
     .label = Kreditkarten
