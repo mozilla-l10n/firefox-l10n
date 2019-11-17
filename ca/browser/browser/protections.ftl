@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = El nivell de protecció és: <b>Estàndard</b>
-protection-header-details-strict = El nivell de protecció és: <b>Estricte</b>
-protection-header-details-custom = El nivell de protecció és: <b>Personalitzat</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = El nivell de protecció és: <b>Estàndard</b>
     .title = Vés als paràmetres de privadesa
 protection-report-header-details-strict = El nivell de protecció és: <b>Estricte</b>
@@ -37,6 +31,7 @@ protection-report-page-title = Proteccions de privadesa
 protection-report-content-title = Proteccions de privadesa
 etp-card-title = Protecció contra el seguiment millorada
 etp-card-content = Hi ha elements que us fan el seguiment mentre navegueu per recopilar informació sobre els vostres hàbits de navegació i interessos. El { -brand-short-name } bloca molts d'aquests elements de seguiment i altres scripts maliciosos.
+protection-report-manage-protections = Gestiona els paràmetres
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = avui
@@ -56,7 +51,6 @@ lockwise-title = No oblideu mai més cap contrasenya
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } emmagatzema les contrasenyes de forma segura en el vostre navegador.
 lockwise-header-content-logged-in = Deseu i sincronitzeu les contrasenyes de forma segura en tots els vostres dispositius.
-about-logins-view-logins-button = Mostra els inicis de sessió
 protection-report-view-logins-button = Mostra els inicis de sessió
     .title = Vés als inicis de sessió desats
 lockwise-no-logins-content = Instal·leu l'aplicació <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> per accedir a les vostres contrasenyes des de qualsevol lloc.
@@ -118,10 +112,6 @@ password-warning =
         [one] inici de sessió pot haver estat exposat en una filtració de dades. Canvieu aquesta contrasenya per millorar la vostra seguretat en línia. <a data-l10n-name="lockwise-link">Mostra els inicis de sessió desats</a>
        *[other] inicis de sessió poden haver estat exposats en una filtració de dades. Canvieu aquesta contrasenya per millorar la vostra seguretat en línia. <a data-l10n-name="lockwise-link">Mostra els inicis de sessió desats</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Vés als paràmetres de privadesa
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Vés als inicis de sessió desats
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

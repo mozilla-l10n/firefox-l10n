@@ -75,12 +75,14 @@ login-intro-description = Si heu desat els vostres inicis de sessió en el { -br
 login-intro-instruction-fxa = Creeu un { -fxaccount-brand-name } o inicieu-hi la sessió des del dispositiu on teniu desats els vostres inicis de sessió
 login-intro-instruction-fxa-settings = Assegureu-vos que heu seleccionat la casella de selecció Inicis de sessió en els paràmetres del { -sync-brand-short-name }
 about-logins-intro-instruction-help = Visiteu l'<a data-l10n-name="help-link">assisència del { -lockwise-brand-short-name }</a> per obtenir més ajuda
+about-logins-intro-import = Si els vostres inicis de sessió estan desats en un altre navegador, podeu <a data-l10n-name="import-link">importar-los al { -lockwise-brand-short-name }</a>
 
 ## Login
 
 login-item-new-login-title = Crea un inici de sessió
 login-item-edit-button = Edita
 login-item-delete-button = Suprimeix
+about-logins-login-item-remove-button = Elimina
 login-item-origin-label = Adreça del lloc web
 login-item-origin =
     .placeholder = https://www.example.com
@@ -125,14 +127,19 @@ enable-password-sync-preferences-button =
         }
     .accesskey = V
 confirm-delete-dialog-title = Voleu suprimir aquest inici de sessió?
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = No m'ho tornis a demanar
+    .accesskey = N
 
 ## Dialogs
 
 confirmation-dialog-cancel-button = Cancel·la
 confirmation-dialog-dismiss-button =
     .title = Cancel·la
+about-logins-confirm-remove-dialog-title = Voleu eliminar aquest inici de sessió?
 confirm-delete-dialog-message = Aquesta acció no es pot desfer.
 confirm-delete-dialog-confirm-button = Suprimeix
+about-logins-confirm-remove-dialog-confirm-button = Elimina
 confirm-discard-changes-dialog-title = Voleu descartar els canvis no desats?
 confirm-discard-changes-dialog-message = Es perdran tots els canvis que no hàgiu desat.
 confirm-discard-changes-dialog-confirm-button = Descarta
