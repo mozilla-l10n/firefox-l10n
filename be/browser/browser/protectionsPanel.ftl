@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Узнікла памылка пры адпраўцы справаздачы. Калі ласка, паспрабуйце зноў пазней.
+# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
+protections-panel-sitefixedsendreport-label = Сайт выпраўлены? Адправіць справаздачу

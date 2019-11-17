@@ -16,6 +16,7 @@ auto-refresh = Паднаўляць кожныя 3 секунды
 hostname = Назва трымальніка
 port = Порт
 http2 = HTTP/2
+about-networking-http-version = Версія HTTP
 ssl = SSL
 active = Дзейны
 idle = Бяздзейны
