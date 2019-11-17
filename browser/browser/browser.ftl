@@ -92,6 +92,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Осы рет, келесімен іздеу:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -104,3 +107,6 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Негізгі іздеу жүйесі ретінде орнату
     .accesskey = г
+search-one-offs-context-set-as-default-private =
+    .label = Жекелік терезелері үшін негізгі іздеу жүйесі ретінде орнату
+    .accesskey = р
