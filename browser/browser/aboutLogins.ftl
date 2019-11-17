@@ -83,6 +83,7 @@ about-logins-intro-import = Jeigu turite kitoje naršyklėje įrašytų prisijun
 login-item-new-login-title = Sukurti naują prisijungimą
 login-item-edit-button = Taisyti
 login-item-delete-button = Pašalinti
+about-logins-login-item-remove-button = Pašalinti
 login-item-origin-label = Svetainės adresas
 login-item-origin =
     .placeholder = https://www.example.com
@@ -126,6 +127,7 @@ enable-password-sync-preferences-button =
            *[other] Aplankyti „{ -sync-brand-short-name }“ nuostatas
         }
     .accesskey = A
+confirm-delete-dialog-title = Pašalinti šį prisijungimą?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Daugiau neklausti
     .accesskey = D
@@ -135,9 +137,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Atsisakyti
 confirmation-dialog-dismiss-button =
     .title = Atsisakyti
-confirm-delete-dialog-title = Pašalinti šį prisijungimą?
+about-logins-confirm-remove-dialog-title = Pašalinti šį prisijungimą?
 confirm-delete-dialog-message = Atlikus šį veiksmą, jo atšaukti neįmanoma.
 confirm-delete-dialog-confirm-button = Šalinti
+about-logins-confirm-remove-dialog-confirm-button = Pašalinti
 confirm-discard-changes-dialog-title = Atsisakyti neįrašytų pakeitimų?
 confirm-discard-changes-dialog-message = Visi neįrašyti pakeitimai bus prarasti.
 confirm-discard-changes-dialog-confirm-button = Atsisakyti
