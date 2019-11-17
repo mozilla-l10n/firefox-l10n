@@ -83,6 +83,7 @@ about-logins-intro-import = Калі вашы паролі захоўваюцц�
 login-item-new-login-title = Дадаць новы лагін
 login-item-edit-button = Змяніць
 login-item-delete-button = Сцерці
+about-logins-login-item-remove-button = Выдаліць
 login-item-origin-label = Адрас сайта
 login-item-origin =
     .placeholder = https://www.example.com
@@ -126,6 +127,7 @@ enable-password-sync-preferences-button =
            *[other] Адкрыць налады { -sync-brand-short-name }
         }
     .accesskey = А
+confirm-delete-dialog-title = Выдаліць гэты лагін?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Больш не пытацца
     .accesskey = а
@@ -135,9 +137,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Скасаваць
 confirmation-dialog-dismiss-button =
     .title = Скасаваць
-confirm-delete-dialog-title = Выдаліць гэты лагін?
+about-logins-confirm-remove-dialog-title = Выдаліць гэты лагін?
 confirm-delete-dialog-message = Гэтае дзеянне незваротнае.
 confirm-delete-dialog-confirm-button = Выдаліць
+about-logins-confirm-remove-dialog-confirm-button = Выдаліць
 confirm-discard-changes-dialog-title = Адхіліць незахаваныя змены?
 confirm-discard-changes-dialog-message = Усе незапісаныя змены будуць страчаны.
 confirm-discard-changes-dialog-confirm-button = Адхіліць
