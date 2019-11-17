@@ -195,6 +195,9 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Bloqueado por la política de seguridad de contenido">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; evitó que esta página se cargue de esta forma porque la página tiene una política de seguridad de contenido que no lo permite.</p>">
 
+<!ENTITY xfoBlocked.title "Bloqueado por la política X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; evitó que esta página se cargue en este contexto porque la página tiene una política X-Frame-Options que no lo permite.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Error de contenido dañado">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La página que está intentando ver no se puede mostrar porque se ha detectado un error en la transmisión de datos.</p><ul><li>Contacte con los propietarios del sitio web para informarles de este problema.</li></ul>">
 

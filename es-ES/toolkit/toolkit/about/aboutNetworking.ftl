@@ -16,6 +16,7 @@ auto-refresh = Referescar automáticamente cada 3 segundos
 hostname = Nombre del servidor
 port = Puerto
 http2 = HTTP/2
+about-networking-http-version = Versión HTTP
 ssl = SSL
 active = Activado
 idle = Inactivo
