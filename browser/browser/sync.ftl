@@ -6,4 +6,6 @@ fxa-toolbar-sync-syncing =
     .label = S'està sincronitzant…
 fxa-toolbar-sync-syncing-tabs =
     .label = S'estan sincronitzant les pestanyes…
+sync-disconnect-dialog-title = Voleu desconnectar el { -sync-brand-short-name }?
+fxa-disconnect-dialog-title = Voleu desconnectar el { -brand-product-name }?
 sync-disconnect-dialog-button = Desconnecta

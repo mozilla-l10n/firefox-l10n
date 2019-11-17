@@ -287,6 +287,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Utilitza { $plugin-name } (en el { -brand-short-name })
@@ -509,6 +513,11 @@ search-bar-shown =
     .label = Afegeix la barra de cerca a la barra d'eines
 search-engine-default-header = Motor de cerca per defecte
 search-engine-default-desc = Trieu el motor de cerca per defecte que s'utilitzarà en la barra d'adreces i de cerca.
+search-engine-default-private-desc-2 = Trieu un altre motor de cerca per defecte només per a les finestres privades
+search-separate-default-engine =
+    .label = Utilitza aquest motor de cerca en les finestres privades
+    .accesskey = U
+search-suggestions-header = Suggeriments de cerca
 search-suggestions-option =
     .label = Mostra suggeriments de cerca
     .accesskey = s
@@ -570,6 +579,9 @@ sync-signedout-account-create = No teniu un compte? Comencem
 sync-signedout-account-signin =
     .label = Inicia la sessió…
     .accesskey = I
+sync-signedout-account-signin2 =
+    .label = Inicia la sessió al { -sync-brand-short-name }…
+    .accesskey = I
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -611,22 +623,45 @@ sync-signedin-settings-desc = Trieu què voleu sincronitzar entre els vostres di
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Sincronització: ACTIVADA
+prefs-syncing-off = Sincronització: DESACTIVADA
+prefs-sync-setup =
+    .label = Configura el { -sync-brand-short-name }…
+    .accesskey = C
 prefs-sync-offer-setup-label = Sincronitzeu les vostres adreces d'interès, historial, pestanyes, contrasenyes, complements i preferències en tots els vostres dispositius.
+prefs-sync-now =
+    .labelnotsyncing = Sincronitza ara
+    .accesskeynotsyncing = S
+    .labelsyncing = S'està sincronitzant…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Actualment se sincronitzen aquests elements:
+sync-currently-syncing-bookmarks = Adreces d'interès
 sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Pestanyes obertes
 sync-currently-syncing-logins-passwords = Inicis de sessió i contrasenyes
 sync-currently-syncing-addresses = Adreces
 sync-currently-syncing-creditcards = Targetes de crèdit
 sync-currently-syncing-addons = Complements
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Opcions
+       *[other] Preferències
+    }
 sync-change-options =
     .label = Canvia…
     .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Trieu què voleu sincronitzar
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Desa els canvis
+    .buttonaccesskeyaccept = c
+    .buttonlabelextra2 = Desconnecta…
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = Adreces d'interès
     .accesskey = d
@@ -639,6 +674,10 @@ sync-engine-tabs =
     .accesskey = T
 sync-engine-logins =
     .label = Inicis de sessió
+    .tooltiptext = Noms d'usuari i contrasenyes que heu desat
+    .accesskey = I
+sync-engine-logins-passwords =
+    .label = Inicis de sessió i contrasenyes
     .tooltiptext = Noms d'usuari i contrasenyes que heu desat
     .accesskey = I
 sync-engine-addresses =

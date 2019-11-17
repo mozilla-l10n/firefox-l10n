@@ -80,10 +80,12 @@ newtab-menu-delete-history = Elimina de l'historial
 newtab-menu-save-to-pocket = Desa al { -pocket-brand-name }
 newtab-menu-delete-pocket = Suprimeix del { -pocket-brand-name }
 newtab-menu-archive-pocket = Arxiva en el { -pocket-brand-name }
+newtab-menu-show-privacy-info = Els nostres patrocinadors i la vostra privadesa
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Fet
+newtab-privacy-modal-header = La vostra privadesa és important.
 
 
 

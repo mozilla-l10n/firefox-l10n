@@ -21,6 +21,7 @@ onboarding-button-label-get-started = Primers passos
 onboarding-welcome-header = Us donem la benvinguda al { -brand-short-name }
 onboarding-welcome-body = Ja teniu el navegador.<br/>Ara descobriu la resta del { -brand-product-name }.
 onboarding-welcome-learn-more = Més informació sobre els beneficis.
+onboarding-welcome-modal-get-body = Ja teniu el navegador.<br/>Ara traieu tot el profit del { -brand-product-name }.
 onboarding-welcome-form-header = Comenceu aquí
 onboarding-join-form-header = Uniu-vos al { -brand-product-name }
 onboarding-join-form-body = Introduïu la vostra adreça electrònica per començar.

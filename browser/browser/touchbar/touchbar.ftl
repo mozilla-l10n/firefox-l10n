@@ -19,3 +19,19 @@ open-location = Escriviu una cerca o adreça
 share = Comparteix
 close-window = Tanca la finestra
 open-sidebar = Barres laterals
+# This string describes shortcuts for search.
+search-popover = Dreceres de cerca
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Cerca en:
+
+## Various categories of shortcuts for search.
+
+search-bookmarks = Adreces d'interès
+search-history = Historial
+search-opentabs = Pestanyes obertes
+search-tags = Etiquetes
+search-titles = Títols
+
+
+
