@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = ციფრული უფლებების მართვის (DRM) შიგთავსი
 play-drm-content =
@@ -584,6 +584,9 @@ sync-signedout-account-create = არ გაქვთ ანგარიში?
 sync-signedout-account-signin =
     .label = შესვლა
     .accesskey = შ
+sync-signedout-account-signin2 =
+    .label = { -sync-brand-short-name } – შესვლა…
+    .accesskey = შ
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -731,6 +734,7 @@ privacy-header = ბრაუზერის პირადულობა
 ## Privacy Section - Logins and Passwords
 
 logins-header = ანგარიშის სახელები და პაროლები
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = საიტებზე შესვლის მონაცემების დამახსოვრების მოთხოვნა
     .accesskey = შ
@@ -744,6 +748,7 @@ forms-breach-alerts =
     .label = შეტყობინება პაროლებზე, იერიშმიტანილი საიტებისთვის
     .accesskey = შ
 forms-breach-alerts-learn-more-link = იხილეთ ვრცლად
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = ანგარიშის მონაცემების თვითშევსება
     .accesskey = ა
@@ -898,7 +903,7 @@ enhanced-tracking-protection-setting-custom =
     .label = მორგებული
     .accesskey = გ
 
-##
+
 
 content-blocking-etp-standard-desc = წონასწორული უსაფრთხოებასა და წარმადობას შორის. გვერდები ჩაიტვირთება ჩვეულებრივ.
 content-blocking-etp-strict-desc = მძლავრი დაცვა, თუმცა გამოიწვევს საიტების ან შიგთავსის ნაწილის გაუმართაობას.

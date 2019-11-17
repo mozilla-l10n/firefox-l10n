@@ -16,6 +16,7 @@ auto-refresh = თვითგაახლება ყოველ 3 წამ�
 hostname = ჰოსტის სახელი
 port = პორტი
 http2 = HTTP/2
+about-networking-http-version = HTTP-ვერსია
 ssl = SSL
 active = მოქმედი
 idle = უქმი

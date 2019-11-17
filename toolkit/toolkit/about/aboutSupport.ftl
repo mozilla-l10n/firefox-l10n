@@ -136,7 +136,7 @@ media-capabilities-title = მასალის შესაძლებლო�
 # List all the entries of the database.
 media-capabilities-enumerate = მონაცემთა ბაზის გამოთვლა
 
-##
+
 
 intl-title = საერთაშორისოობა და ცალკეულ ენებზე მორგება
 intl-app-title = პროგრამის პარამეტრები
@@ -147,6 +147,22 @@ intl-locales-default = ნაგულისხმევი ენა
 intl-os-title = საოპერაციო სისტემა
 intl-os-prefs-system-locales = სისტემის ენები
 intl-regional-prefs = რეგიონალური პარამეტრები
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = დისტანციური გამართვა (Chromium-ოქმი)
+remote-debugging-accepting-connections = კავშირების მიღება
+remote-debugging-url = URL-ბმული
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

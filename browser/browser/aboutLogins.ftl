@@ -82,6 +82,7 @@ about-logins-intro-import = თუ თქვენი ანგარიშე�
 login-item-new-login-title = ანგარიშის ახალი მონაცემები
 login-item-edit-button = ჩასწორება
 login-item-delete-button = წაშლა
+about-logins-login-item-remove-button = მოცილება
 login-item-origin-label = საიტის მისამართი
 login-item-origin =
     .placeholder = https://www.example.com
@@ -125,6 +126,7 @@ enable-password-sync-preferences-button =
            *[other] იხილეთ { -sync-brand-short-name(case: "gen") } პარამეტრები
         }
     .accesskey = ი
+confirm-delete-dialog-title = წაიშალოს ეს ანგარიში?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = მომავალში შეკითხვის გარეშე
     .accesskey = გ
@@ -134,9 +136,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = გაუქმება
 confirmation-dialog-dismiss-button =
     .title = გაუქმება
-confirm-delete-dialog-title = წაიშალოს ეს ანგარიში?
+about-logins-confirm-remove-dialog-title = მოცილდეს ეს მონაცემები?
 confirm-delete-dialog-message = ეს ქმედება შეუქცევადია.
 confirm-delete-dialog-confirm-button = წაშლა
+about-logins-confirm-remove-dialog-confirm-button = მოცილება
 confirm-discard-changes-dialog-title = გაუქმდეს შეუნახავი ცვლილებები?
 confirm-discard-changes-dialog-message = ყველა შეუნახავი ცვლილება დაიკარგება.
 confirm-discard-changes-dialog-confirm-button = გაუქმება
