@@ -287,6 +287,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } (in { -brand-short-name }) verwenden
@@ -312,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Inhalte mit DRM-Kopierschutz
 play-drm-content =
@@ -509,7 +513,13 @@ search-bar-shown =
     .label = Suchleiste zur Symbolleiste hinzufügen
 search-engine-default-header = Standardsuchmaschine
 search-engine-default-desc = Wählen Sie Ihre Standardsuchmaschine für die Adress- und Suchleiste.
+search-engine-default-desc-2 = Das ist Ihre Standardsuchmaschine in der Adress- und Suchleiste. Sie können diese jederzeit ändern.
+search-engine-default-private-desc-2 = Wählen Sie eine andere Standardsuchmaschine nur für private Fenster.
+search-separate-default-engine =
+    .label = Diese Suchmaschine in privaten Fenstern verwenden
+    .accesskey = p
 search-suggestions-header = Suchvorschläge
+search-suggestions-desc = Wählen Sie, wie Suchvorschläge von Suchmaschinen angezeigt werden.
 search-suggestions-option =
     .label = Suchvorschläge anzeigen
     .accesskey = S
@@ -523,6 +533,9 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = In Adressleiste Suchvorschläge vor Einträgen aus der Browser-Chronik anzeigen
+search-show-suggestions-private-windows =
+    .label = Suchvorschläge in privaten Fenstern anzeigen
+suggestions-addressbar-settings = Einstellungen für Chronik, Lesezeichen und vorgeschlagene offene Tabs ändern
 search-suggestions-cant-show = Suchvorschläge werden nicht in der Adressleiste angezeigt, weil { -brand-short-name } angewiesen wurde, keine Chronik zu speichern.
 search-one-click-header = Ein-Klick-Suchmaschinen
 search-one-click-desc = Wählen Sie die Suchmaschinen, welche unterhalb der Adress- bzw. Suchleiste angezeigt werden, nachdem Sie den Suchbegriff eingegeben haben.
@@ -862,7 +875,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Benutzerdefiniert
     .accesskey = B
 
-##
+
 
 content-blocking-etp-standard-desc = Ausgewogen zwischen Schutz und Leistung. Seiten laden normal.
 content-blocking-etp-strict-desc = Stärkerer Schutz, einige Websites oder mancher Inhalt funktioniert eventuell nicht.
