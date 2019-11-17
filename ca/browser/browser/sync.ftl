@@ -7,5 +7,7 @@ fxa-toolbar-sync-syncing =
 fxa-toolbar-sync-syncing-tabs =
     .label = S'estan sincronitzant les pestanyes…
 sync-disconnect-dialog-title = Voleu desconnectar el { -sync-brand-short-name }?
+sync-disconnect-dialog-body = El { -brand-product-name } deixarà de sincronitzar-se amb el vostre compte, però les vostres dades de navegació d'aquest dispositiu no se suprimiran.
 fxa-disconnect-dialog-title = Voleu desconnectar el { -brand-product-name }?
+fxa-disconnect-dialog-body = El { -brand-product-name } es desconnectarà del vostre compte, però les vostres dades de navegació d'aquest dispositiu no se suprimiran.
 sync-disconnect-dialog-button = Desconnecta

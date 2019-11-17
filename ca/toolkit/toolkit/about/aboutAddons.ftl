@@ -438,6 +438,7 @@ theme-heading = Gestioneu els temes
 plugin-heading = Gestioneu els connectors
 dictionary-heading = Gestioneu els diccionaris
 locale-heading = Gestioneu les llengües
+updates-heading = Gestioneu les actualitzacions
 discover-heading = Personalitzeu el { -brand-short-name }
 shortcuts-heading = Gestioneu les dreceres de les extensions
 theme-heading-search-label = Cerqueu més temes

@@ -31,6 +31,7 @@ protection-report-page-title = Proteccions de privadesa
 protection-report-content-title = Proteccions de privadesa
 etp-card-title = Protecció contra el seguiment millorada
 etp-card-content = Hi ha elements que us fan el seguiment mentre navegueu per recopilar informació sobre els vostres hàbits de navegació i interessos. El { -brand-short-name } bloca molts d'aquests elements de seguiment i altres scripts maliciosos.
+protection-report-etp-card-content-custom-not-blocking = Actualment totes les proteccions estan desactivades. Trieu quins elements de seguiment voleu blocar en els paràmetres de protecció del { -brand-short-name }.
 protection-report-manage-protections = Gestiona els paràmetres
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.

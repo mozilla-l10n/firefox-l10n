@@ -86,6 +86,7 @@ newtab-menu-show-privacy-info = Els nostres patrocinadors i la vostra privadesa
 
 newtab-privacy-modal-button-done = Fet
 newtab-privacy-modal-header = La vostra privadesa és important.
+newtab-privacy-modal-link = Vegeu com funciona la privadesa en la pestanya nova
 
 
 
