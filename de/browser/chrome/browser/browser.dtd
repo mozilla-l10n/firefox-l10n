@@ -451,6 +451,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.welcome.label "Zeigt eine Liste der Tabs von Ihren anderen Geräten an.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Ihr Konto muss verifiziert werden.">
 <!ENTITY appMenuRemoteTabs.signin.label "Bei Sync anmelden">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Bei &syncBrand.shortName.label; anmelden…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "&syncBrand.shortName.label; aktivieren…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Geräte verwalten…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sidebar mit synchronisierten Tabs">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Sidebar mit synchronisierten Tabs schließen">
