@@ -82,6 +82,7 @@ about-logins-intro-import = Sisī nej riña gayi’ìt sesiûn nu sà’ riña a
 login-item-new-login-title = Giri 'ngo sa gayi'ì sesiûn nakàa
 login-item-edit-button = Nagi'iô'
 login-item-delete-button = Dure'
+about-logins-login-item-remove-button = Guxūn
 login-item-origin-label = Si Direlsiûn Sîtio
 login-item-origin =
     .placeholder = https://www.example.com
@@ -125,6 +126,7 @@ enable-password-sync-preferences-button =
            *[other] Ni'iaj daj hua { -sync-brand-short-name }
         }
     .accesskey = N
+confirm-delete-dialog-title = ¿Nadurê't riña gayi'ìt sesión na anj?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Sī gachín na’ānj ñût ñùnj
     .accesskey = D
@@ -134,9 +136,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Duyichin'
 confirmation-dialog-dismiss-button =
     .title = Duyichin'
-confirm-delete-dialog-title = ¿Nadurê't riña gayi'ìt sesión na anj?
+about-logins-confirm-remove-dialog-title = ¿Nadurê't riña gayi'ìt sesión na anj?
 confirm-delete-dialog-message = Si ga'ue dure' sa 'ngà gahuin na.
 confirm-delete-dialog-confirm-button = Dure'
+about-logins-confirm-remove-dialog-confirm-button = Guxūn
 confirm-discard-changes-dialog-title = ¿Nadurê't nej sa nun na'nïnj sà' raj?
 confirm-discard-changes-dialog-message = Gan'anj ni'ia daran' nej sa nagi'iát ni nu na'nïnj sà't.
 confirm-discard-changes-dialog-confirm-button = Dunâj man

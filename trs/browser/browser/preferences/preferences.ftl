@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Sa ma DRM (Digital Rights Management - Sa Dugumin)
 play-drm-content =
@@ -584,6 +584,9 @@ sync-signedout-account-create = Nitaj si taj si yugui ra'. Gayi'ì aj
 sync-signedout-account-signin =
     .label = Gayi'i sesión
     .accesskey = I
+sync-signedout-account-signin2 =
+    .label = Gaui'i' sesión riña { -sync-brand-short-name }…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -731,6 +734,7 @@ privacy-header = Daj da'ui navegador gi'iaj sunj
 ## Privacy Section - Logins and Passwords
 
 logins-header = Gayi'ìt gatut ni Da'nga' huìi
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Da'ui nachi' na'ān si na'ninj sa'aj sa gayi'i nī da'nga' huìi guenda nej sitio na
     .accesskey = r
@@ -744,6 +748,7 @@ forms-breach-alerts =
     .label = Gunumàn nuguan' riñant sisī huā sa ruhuâ gatsij da'nga' huìi
     .accesskey = b
 forms-breach-alerts-learn-more-link = Gahuin chrūn doj
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Nachrun man'an riña ayi'ì sesiôn asi da'nga' huìi
     .accesskey = i
@@ -898,7 +903,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Nagi'iaj
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = Nda hue'ê chre huaj da' gi'iaj sunj ni naran rayi'ît. Nej pâjina ni nayi'nïn riña man dàj rû' 'iaj yitïn.
 content-blocking-etp-strict-desc = Nùkuaj doj naran rayi'ît, sani ga'ue si gi'iaj sun hue'ê da'aj sîtio asi sa màn riñanj.
