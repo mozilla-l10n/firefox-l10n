@@ -36,3 +36,5 @@ about-private-browsing-search-banner-description =
         [windows] Per seleccionar un altre motor de cerca, aneu a les <a data-l10n-name="link-options">Opcions</a>
        *[other] Per seleccionar un altre motor de cerca, aneu a les <a data-l10n-name="link-options">Preferències</a>
     }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Tanca

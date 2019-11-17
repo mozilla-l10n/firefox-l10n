@@ -45,9 +45,6 @@ newtab-topsites-save-button = Desa
 newtab-topsites-preview-button = Previsualització
 newtab-topsites-add-button = Afegeix
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Segur que voleu suprimir de l'historial totes les instàncies d'aquesta pàgina?
@@ -83,14 +80,17 @@ newtab-menu-delete-history = Elimina de l'historial
 newtab-menu-save-to-pocket = Desa al { -pocket-brand-name }
 newtab-menu-delete-pocket = Suprimeix del { -pocket-brand-name }
 newtab-menu-archive-pocket = Arxiva en el { -pocket-brand-name }
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Fet
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Elimina l'adreça d'interès
 # Bookmark is a verb here.
 newtab-menu-bookmark = Afegeix a les adreces d'interès
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -120,10 +120,6 @@ newtab-label-removed-bookmark = S'ha eliminat l'adreça d'interès
 newtab-label-recommended = Tendència
 newtab-label-saved = Desat al { -pocket-brand-name }
 newtab-label-download = Baixat
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
