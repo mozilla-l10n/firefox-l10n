@@ -971,3 +971,7 @@
 <!ENTITY dockOptions.label              "Programmasymboolopties…">
 <!ENTITY writeNewMessageDock.label      "Nieuw bericht opstellen">
 <!ENTITY openAddressBookDock.label      "Adresboek openen">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Een pagina terug gaan">
+<!ENTITY browseForwardButton.tooltip "Een pagina vooruit gaan">
