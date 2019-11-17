@@ -158,6 +158,7 @@ intl-regional-prefs = Regionų nuostatos
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
 remote-debugging-title = Nuotolinis derinimas („Chromium“ protokolu)
+remote-debugging-accepting-connections = Galima prisijungti
 remote-debugging-url = URL
 
 
