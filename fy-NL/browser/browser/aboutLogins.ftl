@@ -82,6 +82,7 @@ about-logins-intro-import = As jo oanmeldingen yn in oare browser bewarre wurde,
 login-item-new-login-title = Nij oanmelding meitsje
 login-item-edit-button = Bewurkje
 login-item-delete-button = Fuortsmite
+about-logins-login-item-remove-button = Fuortsmite
 login-item-origin-label = Websiteadres
 login-item-origin =
     .placeholder = https://www.example.com
@@ -125,6 +126,7 @@ enable-password-sync-preferences-button =
            *[other] { -sync-brand-short-name }-foarkarren besjen
         }
     .accesskey = b
+confirm-delete-dialog-title = Dizze oanmelding fuortsmite?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Dit net mear freegje
     .accesskey = D
@@ -134,9 +136,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Annulearje
 confirmation-dialog-dismiss-button =
     .title = Annulearje
-confirm-delete-dialog-title = Dizze oanmelding fuortsmite?
+about-logins-confirm-remove-dialog-title = Dizze oanmelding fuortsmite?
 confirm-delete-dialog-message = Dizze aksje kin net ûngedien makke wurde.
 confirm-delete-dialog-confirm-button = Fuortsmite
+about-logins-confirm-remove-dialog-confirm-button = Fuortsmite
 confirm-discard-changes-dialog-title = Dizze wizigingen ferwerpe?
 confirm-discard-changes-dialog-message = Alle net-bewarre wizigingen gean ferlern.
 confirm-discard-changes-dialog-confirm-button = Ferwerpe
