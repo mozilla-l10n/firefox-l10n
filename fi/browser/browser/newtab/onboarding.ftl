@@ -109,7 +109,7 @@ onboarding-tracking-protection-text2 = { -brand-short-name } auttaa estämään 
 onboarding-tracking-protection-button2 = Kuinka se toimii
 onboarding-data-sync-title = Ota asetukset mukaasi
 # "Sync" is short for synchronize.
-onboarding-data-sync-text2 = Synkronoi kirjanmerkit, salasanat ja paljon muuta kaikkialla, missä käytät { -brand-product-name }ia.
+onboarding-data-sync-text2 = Synkronoi kirjanmerkit, salasanat jne. kaikkialle, missä käytät { -brand-product-name }ia.
 onboarding-data-sync-button2 = Kirjaudu sisään { -sync-brand-short-name }-palveluun
 onboarding-firefox-monitor-title = Pysy ajan tasalla tietovuodoista
 onboarding-firefox-monitor-text = { -monitor-brand-name } tarkkailee, onko sähköpostiosoitteesi ollut mukana tietovuodossa, ja ilmoittaa, jos se on mukana uudessa tietovuodossa.
