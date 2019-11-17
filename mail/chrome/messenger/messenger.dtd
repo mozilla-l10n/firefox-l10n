@@ -971,3 +971,7 @@
 <!ENTITY dockOptions.label              "Opziuns da l'icona da l'applicaziun…">
 <!ENTITY writeNewMessageDock.label      "Scriver in nov messadi">
 <!ENTITY openAddressBookDock.label      "Avrir il cudeschet d'adressas">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "A la pagina precedenta">
+<!ENTITY browseForwardButton.tooltip "A la proxima pagina">
