@@ -971,3 +971,7 @@
 <!ENTITY dockOptions.label              "პროგრამის ხატულის პარამეტრები…">
 <!ENTITY writeNewMessageDock.label      "ახალი წერილის შექმნა">
 <!ENTITY openAddressBookDock.label      "წიგნაკის გახსნა">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "ერთი გვერდით წინ">
+<!ENTITY browseForwardButton.tooltip "ერთი გვერდით შემდგომ">
