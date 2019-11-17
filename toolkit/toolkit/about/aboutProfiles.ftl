@@ -47,7 +47,7 @@ profiles-delete-profile-title = Poista profiili
 # Variables:
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm =
-    Profiilin poistaminen poistaa profiilin saatavilla olevien profiilien luettelosta eikä tätä toimintoa voi kumota.
+    Profiilin poistaminen poistaa profiilin käytettävissä olevien profiilien listalta eikä tätä toimintoa voi kumota.
     Voit myös halutessasi poistaa profiilin datatiedostot, mukaan lukien asetuksesi, varmenteet ja muut käyttäjäkohtaiset tiedot. Tämä valinta poistaa kansion ”{ $dir }” eikä tätä toimintoa voi kumota.
     Haluatko poistaa profiilin datatiedostot?
 profiles-delete-files = Poista tiedostot
