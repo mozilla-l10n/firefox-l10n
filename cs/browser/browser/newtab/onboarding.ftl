@@ -22,6 +22,7 @@ onboarding-welcome-header = Vítá vás { -brand-short-name }
 onboarding-welcome-body = Prohlížeč teď už máte.<br/>Poznejte ještě zbytek aplikace { -brand-product-name }.
 onboarding-welcome-learn-more = Další výhody.
 onboarding-welcome-modal-get-body = Prohlížeč teď už máte.<br/>Využijte aplikaci { -brand-product-name } naplno.
+onboarding-welcome-modal-supercharge-body = Dopřejte si silnou ochranu soukromí.
 onboarding-welcome-modal-privacy-body = Prohlížeč už teď máte. Přidejme k němu ještě trochu ochrany soukromí.
 onboarding-welcome-modal-family-learn-more = Zjistěte více o celé rodině produktů { -brand-product-name }.
 onboarding-welcome-form-header = Začněme
@@ -47,6 +48,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Teď vám ukážeme, jaké máte možnosti.
 onboarding-fullpage-form-email =
     .placeholder = Vaše e-mailová adresa…
 
@@ -84,6 +86,7 @@ onboarding-benefit-privacy-text = Slibujeme, že nezneužijeme vaše data. Mén�
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Vezměte si své záložky, hesla, historii a další data všude tam, kde používáte aplikaci { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Nechte se upozornit, pokud se vaše údaje objeví ve známém úniku dat.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Spravujte hesla bezpečně i na cestách.
 

@@ -86,6 +86,8 @@ newtab-menu-show-privacy-info = Naši sponzoři a vaše soukromí
 
 newtab-privacy-modal-button-done = Hotovo
 newtab-privacy-modal-header = Na vašem soukromí záleží.
+newtab-privacy-modal-paragraph = Kromě zajímavých článků zobrazujeme také relevantní a prověřený obsah od vybraných sponzorů. Nemusíte se ale bát, vaše údaje nikdy neopustí váš { -brand-product-name } - neodesílají se nám ani našim sponzorům.
+newtab-privacy-modal-link = Zjistěte, jak chráníme vaše soukromí na stránce nového panelu.
 
 
 

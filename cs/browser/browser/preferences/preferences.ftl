@@ -319,7 +319,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Obsah chráněný pomocí Digital Rights Management (DRM)
 play-drm-content =
@@ -594,6 +594,9 @@ sync-signedout-account-create = Nemáte účet? Začněte tady
 sync-signedout-account-signin =
     .label = Přihlásit se…
     .accesskey = i
+sync-signedout-account-signin2 =
+    .label = Přihlášení k { -sync-brand-short-name(case: "dat") }…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -745,6 +748,7 @@ privacy-header = Nastavení soukromí
 ## Privacy Section - Logins and Passwords
 
 logins-header = Přihlašovací údaje
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Ptát se na ukládání přihlašovacích údajů
     .accesskey = P
@@ -758,6 +762,7 @@ forms-breach-alerts =
     .label = Upozorňovat na hesla uložená pro servery, kde došlo k úniku dat
     .accesskey = ú
 forms-breach-alerts-learn-more-link = Zjistit více
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Automaticky vyplňovat přihlašovací údaje
     .accesskey = y
@@ -912,7 +917,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Vlastní
     .accesskey = V
 
-##
+
 
 content-blocking-etp-standard-desc = Vyvážená ochrana a výkon. Neovlivní správné načítání webových stránek.
 content-blocking-etp-strict-desc = Silnější ochrana. Může omezit fungování některých stránek.
