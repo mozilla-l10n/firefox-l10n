@@ -2,9 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxa-toolbar-sync-now =
-    .label = Sincronitza ara
 fxa-toolbar-sync-syncing =
     .label = S'està sincronitzant…
 fxa-toolbar-sync-syncing-tabs =
     .label = S'estan sincronitzant les pestanyes…
+sync-disconnect-dialog-button = Desconnecta

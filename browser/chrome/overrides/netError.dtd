@@ -122,6 +122,7 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blocat per la política de seguretat del contingut">
 <!ENTITY cspBlocked.longDesc "<p>El &brandShortName; ha impedit que la pàgina es carregui d'aquesta manera perquè la pàgina té una política de seguretat del contingut que no ho permet.</p>">
 
+
 <!ENTITY corruptedContentErrorv2.title "Error de contingut malmès">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error en la transmissió de les dades.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">
 
@@ -162,6 +163,8 @@ was trying to connect. -->
 
 <!ENTITY prefReset.longDesc "Sembla que la configuració actual de seguretat a la xarxa està causant aquest error. Voleu utilitzar la configuració per defecte?">
 <!ENTITY prefReset.label "Restaura la configuració per defecte">
+
+<!ENTITY enableTls10.label "Habilita TLS 1.0 i 1.1">
 
 <!ENTITY networkProtocolError.title "Error del protocol de xarxa">
 <!ENTITY networkProtocolError.longDesc "<p>La pàgina que esteu intentant veure no es pot mostrar perquè s'ha produït un error del protocol de xarxa.</p><ul><li>Poseu-vos en contacte amb els propietaris del lloc web per informar-los del problema.</li></ul>">

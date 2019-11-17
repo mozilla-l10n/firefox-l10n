@@ -21,6 +21,7 @@ onboarding-button-label-get-started = Primers passos
 onboarding-welcome-header = Us donem la benvinguda al { -brand-short-name }
 onboarding-welcome-body = Ja teniu el navegador.<br/>Ara descobriu la resta del { -brand-product-name }.
 onboarding-welcome-learn-more = Més informació sobre els beneficis.
+onboarding-welcome-form-header = Comenceu aquí
 onboarding-join-form-header = Uniu-vos al { -brand-product-name }
 onboarding-join-form-body = Introduïu la vostra adreça electrònica per començar.
 onboarding-join-form-email =
@@ -28,10 +29,19 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Cal una adreça electrònica vàlida
 onboarding-join-form-legal = En continuar, accepteu les <a data-l10n-name="terms">condicions d'ús del servei</a> i l'<a data-l10n-name="privacy">avís de privadesa</a>.
 onboarding-join-form-continue = Continua
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Ja teniu un compte?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Inicia la sessió
 onboarding-start-browsing-button-label = Comença a navegar
 onboarding-cards-dismiss =
     .title = Descarta
     .aria-label = Descarta
+
+## Welcome full page string
+
+onboarding-fullpage-form-email =
+    .placeholder = La vostra adreça electrònica…
 
 ## Firefox Sync modal dialog strings.
 
@@ -64,6 +74,12 @@ onboarding-benefit-privacy-title = Privadesa de debò
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Tot el que fem respecta la nostra «Promesa sobre les dades personals»: recollir menys dades, mantenir-les segures i sense secrets.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Accediu a les adreces d'interès, les contrasenyes, l'historial i molt més a tot arreu on utilitzeu el { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Rebeu notificacions si la vostra informació personal apareix en alguna filtració de dades coneguda.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Gestioneu les contrasenyes de forma segura i portàtil.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -92,6 +108,7 @@ onboarding-data-sync-text2 = Sincronitzeu les adreces d'interès, les contraseny
 onboarding-data-sync-button2 = Inicia la sessió al { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Estigueu al cas de les filtracions de dades
 onboarding-firefox-monitor-text = El { -monitor-brand-name } comprova si la vostra adreça electrònica ha aparegut en alguna filtració de dades i us avisa si apareix en posteriors filtracions.
+onboarding-firefox-monitor-text2 = El { -monitor-brand-name } comprova si la vostra adreça electrònica ha aparegut en alguna filtració de dades coneguda i us avisa si apareix en posteriors filtracions.
 onboarding-firefox-monitor-button = Subscriu-me per rebre alertes
 onboarding-browse-privately-title = Navegueu amb privadesa
 onboarding-browse-privately-text = La navegació privada esborra el vostre historial de cerques i de navegació per tal que ningú més que utilitzi l'ordinador pugui tenir-hi accés.

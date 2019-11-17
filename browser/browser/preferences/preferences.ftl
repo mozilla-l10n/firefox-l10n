@@ -312,7 +312,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Contingut DRM (Digital Rights Management, Gestió de drets digitals)
 play-drm-content =
@@ -590,6 +590,9 @@ sync-profile-picture =
 sync-disconnect =
     .label = Desconnecta…
     .accesskey = D
+sync-sign-out =
+    .label = Tanca la sessió…
+    .accesskey = T
 sync-manage-account = Gestiona el compte
     .accesskey = a
 sync-signedin-unverified = { $email } no està verificat.
@@ -608,9 +611,19 @@ sync-signedin-settings-desc = Trieu què voleu sincronitzar entre els vostres di
 
 ## Sync section - enabling or disabling sync.
 
+prefs-sync-offer-setup-label = Sincronitzeu les vostres adreces d'interès, historial, pestanyes, contrasenyes, complements i preferències en tots els vostres dispositius.
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-history = Historial
+sync-currently-syncing-tabs = Pestanyes obertes
+sync-currently-syncing-logins-passwords = Inicis de sessió i contrasenyes
+sync-currently-syncing-addresses = Adreces
+sync-currently-syncing-creditcards = Targetes de crèdit
+sync-currently-syncing-addons = Complements
+sync-change-options =
+    .label = Canvia…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
@@ -677,6 +690,7 @@ privacy-header = Privadesa del navegador
 ## Privacy Section - Logins and Passwords
 
 logins-header = Inicis de sessió i contrasenyes
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Demana si vull desar les dades d'inici de sessió i contrasenyes dels llocs web
     .accesskey = d
@@ -690,6 +704,7 @@ forms-breach-alerts =
     .label = Mostra alertes sobre contrasenyes per als llocs web relacionats amb filtracions de dades
     .accesskey = b
 forms-breach-alerts-learn-more-link = Més informació
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Emplena automàticament inicis de sessió i contrasenyes
     .accesskey = i
@@ -844,7 +859,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalitzada
     .accesskey = P
 
-##
+
 
 content-blocking-etp-standard-desc = Equilibri entre protecció i rendiment. Les pàgines es carregaran amb normalitat.
 content-blocking-etp-strict-desc = Més protecció, però pot fer que alguns llocs o algun contingut no funcionin correctament.

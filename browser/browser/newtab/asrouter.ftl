@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = per { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomanació
+cfr-doorhanger-extension-notification2 = Recomanació
+    .tooltiptext = Recomanació d'extensió
+    .a11y-announcement = Recomanació d'extensió disponible
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Recomanació
+    .tooltiptext = Recomanació de característica
+    .a11y-announcement = Recomanació de característica disponible
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -78,6 +86,9 @@ cfr-protections-panel-link-text = Més informació
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Novetat:
 cfr-whatsnew-button =
     .label = Novetats
     .tooltiptext = Novetats
@@ -140,9 +151,23 @@ cfr-doorhanger-socialtracking-ok-button = Mostra les proteccions
     .accesskey = M
 cfr-doorhanger-socialtracking-close-button = Tanca
     .accesskey = T
+cfr-doorhanger-socialtracking-dont-show-again = No em tornis a mostrar cap missatge com aquest
+    .accesskey = N
 cfr-doorhanger-socialtracking-heading = El { -brand-short-name } ha impedit que una xarxa social us faci el seguiment fins aquí
 cfr-doorhanger-socialtracking-description = La vostra privadesa és important. Ara el { -brand-short-name } bloca els elements de seguiment de les xarxes socials més comunes. Això limita la quantitat de dades que poden recopilar sobre allò que feu a Internet.
 cfr-doorhanger-fingerprinters-heading = El { -brand-short-name } ha blocat un generador d'empremtes digitals en aquesta pàgina
 cfr-doorhanger-fingerprinters-description = La vostra privadesa és important. Ara el { -brand-short-name } bloca els generadors d'empremtes digitals, que recopilen informació del vostre dispositiu que us podria identificar per a fer-vos el seguiment.
 cfr-doorhanger-cryptominers-heading = El { -brand-short-name } ha blocat un miner de criptomonedes en aquesta pàgina
 cfr-doorhanger-cryptominers-description = La vostra privadesa és important. Ara el { -brand-short-name } bloca els miners de criptomonedes, que utilitzen la potència de càlcul del vostre ordinador per a la mineria de diners digitals.
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+       *[other] El { -brand-short-name } ha blocat més de <b>{ $blockedCount }</b> elements de seguiment des del { $date }
+    }
+cfr-doorhanger-milestone-ok-button = Mostra-ho tot
+    .accesskey = M
