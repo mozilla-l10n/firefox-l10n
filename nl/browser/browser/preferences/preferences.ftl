@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Digital Rights Management (DRM)-inhoud
 play-drm-content =
@@ -583,6 +583,9 @@ sync-signedout-account-create = Hebt u geen account? Beginnen
     .accesskey = c
 sync-signedout-account-signin =
     .label = Aanmelden…
+    .accesskey = A
+sync-signedout-account-signin2 =
+    .label = Aanmelden bij { -sync-brand-short-name }…
     .accesskey = A
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -900,7 +903,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Aangepast
     .accesskey = A
 
-##
+
 
 content-blocking-etp-standard-desc = Gebalanceerd voor bescherming en prestaties. Pagina’s laden normaal.
 content-blocking-etp-strict-desc = Sterkere bescherming, maar kan er voor zorgen dat sommige websites of inhoud niet werken.
