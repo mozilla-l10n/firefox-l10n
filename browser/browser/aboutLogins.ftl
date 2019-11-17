@@ -84,6 +84,7 @@ about-logins-intro-import = Če so vaše prijave shranjene v drugem brskalniku, 
 login-item-new-login-title = Ustvari novo prijavo
 login-item-edit-button = Uredi
 login-item-delete-button = Izbriši
+about-logins-login-item-remove-button = Odstrani
 login-item-origin-label = Naslov spletnega mesta
 login-item-origin =
     .placeholder = https://www.example.com
@@ -127,6 +128,7 @@ enable-password-sync-preferences-button =
            *[other] Obišči nastavitve { -sync-brand-short-name }a
         }
     .accesskey = š
+confirm-delete-dialog-title = Izbrišem to prijavo?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Ne sprašuj več
     .accesskey = N
@@ -136,9 +138,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Prekliči
 confirmation-dialog-dismiss-button =
     .title = Prekliči
-confirm-delete-dialog-title = Izbrišem to prijavo?
+about-logins-confirm-remove-dialog-title = Odstranim to prijavo?
 confirm-delete-dialog-message = Tega dejanja ni mogoče razveljaviti.
 confirm-delete-dialog-confirm-button = Izbriši
+about-logins-confirm-remove-dialog-confirm-button = Odstrani
 confirm-discard-changes-dialog-title = Zavržem neshranjene spremembe?
 confirm-discard-changes-dialog-message = Vse neshranjene spremembe bodo izgubljene.
 confirm-discard-changes-dialog-confirm-button = Prezri
