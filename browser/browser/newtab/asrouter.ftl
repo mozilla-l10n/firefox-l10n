@@ -173,7 +173,7 @@ cfr-doorhanger-cryptominers-description = Yksityisyytesi on tärkeää. { -brand
 #   $date (String) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading =
     { $blockedCount ->
-       *[other] { -brand-short-name } esti yli <b>{ $blockedCount }</b> seurainta { $date } lähtien!
+       *[other] { -brand-short-name } on estänyt yli <b>{ $blockedCount }</b> seurainta { $date } lähtien!
     }
 cfr-doorhanger-milestone-ok-button = Näytä kaikki
     .accesskey = N

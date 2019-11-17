@@ -31,7 +31,7 @@ protection-report-page-title = Yksityisyyden suojaukset
 protection-report-content-title = Yksityisyyden suojaukset
 etp-card-title = Tehostettu seurannan suojaus
 etp-card-content = Seuraimet seuraavat sinua verkossa ja keräävät tietoja selaustapoihisi ja kiinnostuksen kohteisiisi liittyen. { -brand-short-name } estää monet näistä seuraimista ja muita haitallisia komentosarjoja.
-protection-report-etp-card-content-custom-not-blocking = Kaikki suojaukset ovat pois päältä. Valitse mitkä seuraimet estetään { -brand-short-name }-suojauksen asetuksista.
+protection-report-etp-card-content-custom-not-blocking = Kaikki suojaukset ovat pois päältä. Valitse estettävät seuraimet { -brand-short-name }-suojausasetuksista.
 protection-report-manage-protections = Hallitse asetuksia
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
