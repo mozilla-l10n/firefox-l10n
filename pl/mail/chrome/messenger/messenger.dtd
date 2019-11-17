@@ -971,3 +971,7 @@
 <!ENTITY dockOptions.label              "Opcje ikony aplikacji…">
 <!ENTITY writeNewMessageDock.label      "Nowa wiadomość">
 <!ENTITY openAddressBookDock.label      "Książka adresowa">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Przejdź do poprzedniej strony">
+<!ENTITY browseForwardButton.tooltip "Przejdź do następnej strony">
