@@ -16,6 +16,7 @@ auto-refresh = Om de 3 seconden automatisch vernieuwen
 hostname = Hostnaam
 port = Poort
 http2 = HTTP/2
+about-networking-http-version = HTTP-versie
 ssl = SSL
 active = Actief
 idle = Niet actief
