@@ -946,6 +946,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Contingut que fa seguiment">
 <!ENTITY protections.fingerprinters.label "Generadors d'empremtes digitals">
 <!ENTITY protections.cryptominers.label "Miners de criptomonedes">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "S'han carregat tots els elements de seguiment d'aquest lloc perquè les proteccions estan desactivades.">
 <!ENTITY protections.noTrackersFound.description "No s'ha detectat cap element de seguiment conegut pel &brandShortName; en aquesta pàgina.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Aquestes galetes us segueixen de lloc en lloc per recollir dades sobre allò que feu a Internet. Les desen tercers, com ara anunciants i empreses d'anàlisi de dades.">
