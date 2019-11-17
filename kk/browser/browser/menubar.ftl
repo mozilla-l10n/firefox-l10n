@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = Толық экран режимі
     .accesskey = Т
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Барлық беттерді көрсету
@@ -212,12 +212,21 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = { -sync-brand-short-name } ішіне кіру…
     .accesskey = у
+menu-tools-fxa-sign-in =
+    .label = { -brand-product-name } ішіне кіру…
+    .accesskey = к
+menu-tools-turn-on-sync =
+    .label = { -sync-brand-short-name } іске қосу…
+    .accesskey = е
 menu-tools-sync-now =
     .label = Қазір синхрондау
     .accesskey = с
 menu-tools-sync-re-auth =
     .label = { -sync-brand-short-name } үшін қайта байланысу…
     .accesskey = R
+menu-tools-fxa-re-auth =
+    .label = { -brand-product-name } ішіне қайта байланысу…
+    .accesskey = й
 menu-tools-web-developer =
     .label = Веб-әзірлеуші
     .accesskey = В
@@ -276,8 +285,7 @@ menu-help-safe-mode-with-addons =
     .label = Сөндірілген кеңейтулермен қайта қосу
     .accesskey = р
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Фишингті сайт туралы хабарлау…
     .accesskey = Ф

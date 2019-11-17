@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = { $name } шығарған
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Ұсыныс
+cfr-doorhanger-extension-notification2 = Ұсыныс
+    .tooltiptext = Кеңейту ұсынысы
+    .a11y-announcement = Кеңейту ұсынысы қолжетерлік
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Ұсыныс
+    .tooltiptext = Мүмкіндік ұсынысы
+    .a11y-announcement = Мүмкіндік ұсынысы қолжетерлік
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -74,10 +82,15 @@ cfr-protections-panel-link-text = Көбірек білу
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Жаңа мүмкіндік:
 cfr-whatsnew-button =
     .label = Не жаңалық
     .tooltiptext = Не жаңалық
 cfr-whatsnew-panel-header = Не жаңалық
+cfr-whatsnew-release-notes-link-text = Шығарылым ескертпесін оқу
+cfr-whatsnew-tracking-protect-title = Өзіңізді трекерлерден қорғаңыз
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -87,6 +100,7 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } бастап
 cfr-whatsnew-tracking-blocked-link-text = Есептемені қарау
+cfr-whatsnew-lockwise-backup-title = Парольдеріңіздің қор көшірмесін жасаңыз
 cfr-whatsnew-lockwise-take-link-text = Қолданбаны алу
 
 ## Bookmark Sync
