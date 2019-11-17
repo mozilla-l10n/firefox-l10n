@@ -180,6 +180,7 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Parece que as suas definições de segurança de rede podem estar a causar isto. Pretende que as definições predefinidas sejam restauradas?">
 <!ENTITY prefReset.label "Restaurar definições predefinidas">
 
+<!ENTITY enableTls10.longDesc "Este site poderá não suportar o protocolo TLS 1.2, a versão mínima suportada pelo &brandShortName;. A ativação do TLS 1.0 e TLS 1.1 poderá permitir que esta ligação seja bem-sucedida.">
 <!ENTITY enableTls10.note "TLS 1.0 e TLS 1.1 serão desativados de forma permanente numa próxima versão.">
 <!ENTITY enableTls10.label "Ativar TLS 1.0 e 1.1">
 

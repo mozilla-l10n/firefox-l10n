@@ -38,9 +38,16 @@ accessibility-text-label-issue-heading-content = Cabeçalhos devem ter conteúdo
 accessibility-text-label-issue-iframe = Utilize o atributo <code>title</code> para descrever conteúdo <span>iframe</span>. <a>Saber mais</a>
 accessibility-text-label-issue-image = Conteúdo com imagens deve ser rotulado. <a>Saber mais</a>
 accessibility-text-label-issue-interactive = Elementos interativos devem ser rotulados. <a>Saber mais</a>
+accessibility-text-label-issue-optgroup-label2 = Utilize um atributo <code>label</code> para etiquetar um <span>"optgroup"</span>. <a>Saber mais</a>
 accessibility-text-label-issue-toolbar = Barras de ferramentas devem ser rotuladas quando houver mais de uma barra de ferramentas. <a>Saber mais</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = Os elementos focáveis devem ter semântica de interação. <a>Saber mais</a>
+accessibility-keyboard-issue-tabindex = Evite utilizar o atributo <code>tabindex</code> com um valor maior do que zero. <a>Saber mais</a>
+accessibility-keyboard-issue-action = Deve ser possível ativar elementos interativos com recurso a um teclado. <a>Saber mais</a>
+accessibility-keyboard-issue-focusable = Deve ser possível focar elementos interativos. <a>Saber mais </a>
+accessibility-keyboard-issue-focus-visible = Pode estar em falta o estilo de foco de um elemento focável. <a>Saber mais</a>
+accessibility-keyboard-issue-mouse-only = Os elementos clicáveis ​​devem ser focáveis ​​e ter semântica de interação. <a>Saber mais</a>
