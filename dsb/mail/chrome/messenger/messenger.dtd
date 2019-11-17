@@ -971,3 +971,7 @@
 <!ENTITY dockOptions.label              "Nastajenja nałožeńskich symbolow…">
 <!ENTITY writeNewMessageDock.label      "Nowu powěsć pisaś">
 <!ENTITY openAddressBookDock.label      "Adresnik wócyniś">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Jaden bok slědk">
+<!ENTITY browseForwardButton.tooltip "Jaden bok doprědka">
