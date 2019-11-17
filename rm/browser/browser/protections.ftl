@@ -31,6 +31,8 @@ protection-report-page-title = Protecziun da la sfera privata
 protection-report-content-title = Protecziun da la sfera privata
 etp-card-title = Protecziun avanzada cunter il fastizar
 etp-card-content = Fastizaders ta suondan online per rimnar infurmaziuns davart tias disas da navigar e tes interess. { -brand-short-name } blochescha blers da quests fastizaders ed auters scripts donnegius.
+protection-report-etp-card-content-custom-not-blocking = Tut las protecziuns èn actualmain deactivadas. Tscherna ils fastizaders che duain vegnir bloccads cun administrar ils parameters da protecziuns da { -brand-short-name }.
+protection-report-manage-protections = Administrar ils parameters
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Oz

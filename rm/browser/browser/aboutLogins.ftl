@@ -82,6 +82,7 @@ about-logins-intro-import = En cas che las infurmaziuns d'annunzia èn memorisad
 login-item-new-login-title = Creescha ina nova infurmaziun d'annunzia
 login-item-edit-button = Modifitgar
 login-item-delete-button = Stizzar
+about-logins-login-item-remove-button = Allontanar
 login-item-origin-label = Adressa da la website
 login-item-origin =
     .placeholder = https://www.example.com
@@ -125,6 +126,7 @@ enable-password-sync-preferences-button =
            *[other] Avrir las preferenzas da { -sync-brand-short-name }
         }
     .accesskey = A
+confirm-delete-dialog-title = Stizzar questas infurmaziuns d'annunzia?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Betg pli dumandar
     .accesskey = B
@@ -134,9 +136,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Interrumper
 confirmation-dialog-dismiss-button =
     .title = Interrumper
-confirm-delete-dialog-title = Stizzar questas infurmaziuns d'annunzia?
+about-logins-confirm-remove-dialog-title = Allontanar questas infurmaziuns d'annunzia?
 confirm-delete-dialog-message = Questa acziun na po betg vegnir revocada.
 confirm-delete-dialog-confirm-button = Stizzar
+about-logins-confirm-remove-dialog-confirm-button = Allontanar
 confirm-discard-changes-dialog-title = Ignorar las modificaziuns betg memorisadas?
 confirm-discard-changes-dialog-message = Tut las modificaziuns betg memorisadas van a perder.
 confirm-discard-changes-dialog-confirm-button = Ignorar
