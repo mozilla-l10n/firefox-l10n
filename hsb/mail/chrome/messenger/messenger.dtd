@@ -971,3 +971,7 @@
 <!ENTITY dockOptions.label              "Nastajenja nałoženskich symbolow…">
 <!ENTITY writeNewMessageDock.label      "Nowu powěsć pisać">
 <!ENTITY openAddressBookDock.label      "Adresnik wočinić">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Jednu stronu wróćo">
+<!ENTITY browseForwardButton.tooltip "Jednu stronu doprědka">
