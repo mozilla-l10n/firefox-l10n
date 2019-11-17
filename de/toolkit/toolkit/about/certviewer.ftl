@@ -35,7 +35,25 @@ certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Seriennummer
 certificate-viewer-value = Wert
 certificate-viewer-version = Version
+certificate-viewer-certificate-policies = Zertifikatsregeln
+certificate-viewer-embedded-scts = Enthaltene signierte Zertifikatzeitstempel (SCT)
+certificate-viewer-crl-endpoints = Endpunkte für CRL (Zertifikatsperrliste)
+# This message is used as a row header in the Miscellaneous section. 
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Speichern
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] Ja
+       *[false] Nein
+    }
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (Zertifikat)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (Zertifikatskette)
+    .download = { $fileName }-zertifikatskette.pem
