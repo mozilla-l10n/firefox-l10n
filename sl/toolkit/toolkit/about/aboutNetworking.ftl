@@ -16,6 +16,7 @@ auto-refresh = Samodejno osveži vsake 3 sekunde
 hostname = Ime gostitelja
 port = Vrata
 http2 = HTTP/2
+about-networking-http-version = Različica HTTP
 ssl = SSL
 active = Aktivno
 idle = Mirovanje
