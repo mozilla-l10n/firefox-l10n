@@ -70,6 +70,7 @@ about-logins-list-item-breach-icon =
 ## Introduction screen
 
 login-intro-heading = Esteu cercant els inicis de sessió que heu desat? Configureu el { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = No s'ha trobat cap inici de sessió sincronitzat.
 login-intro-description = Si heu desat els vostres inicis de sessió en el { -brand-product-name } des d'un altre dispositiu, aquesta és la manera de tenir-los també aquí:
 login-intro-instruction-fxa = Creeu un { -fxaccount-brand-name } o inicieu-hi la sessió des del dispositiu on teniu desats els vostres inicis de sessió
 login-intro-instruction-fxa-settings = Assegureu-vos que heu seleccionat la casella de selecció Inicis de sessió en els paràmetres del { -sync-brand-short-name }
@@ -109,11 +110,8 @@ master-password-reload-button =
     .label = Inicia la sessió
     .accesskey = I
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Cancel·la
-confirmation-dialog-dismiss-button =
-    .title = Cancel·la
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Voleu accedir als vostres inicis de sessió arreu on utilitzeu el { -brand-product-name }? Aneu a les Opcions del { -sync-brand-short-name } i marqueu la casella de selecció Inicis de sessió.
@@ -127,6 +125,12 @@ enable-password-sync-preferences-button =
         }
     .accesskey = V
 confirm-delete-dialog-title = Voleu suprimir aquest inici de sessió?
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Cancel·la
+confirmation-dialog-dismiss-button =
+    .title = Cancel·la
 confirm-delete-dialog-message = Aquesta acció no es pot desfer.
 confirm-delete-dialog-confirm-button = Suprimeix
 confirm-discard-changes-dialog-title = Voleu descartar els canvis no desats?
@@ -147,5 +151,10 @@ breach-alert-dismiss =
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login = Ja existeix una entrada per a { $loginTitle } amb aquest nom d'usuari.
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Ja existeix una entrada per a { $loginTitle } amb aquest nom d'usuari. <a data-l10n-name="duplicate-link">Voleu anar a l'entrada existent?</a>
 # This is a generic error message.
 about-logins-error-message-default = S'ha produït un error en intentar desar aquesta contrasenya.
