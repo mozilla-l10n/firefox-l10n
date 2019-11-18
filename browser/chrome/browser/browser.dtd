@@ -932,6 +932,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Blokita">
+<!ENTITY protections.notBlocking2.label "Permesata">
+<!ENTITY protections.notFound.label "Neniu eltrovita">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
@@ -943,11 +946,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Spurila enhavo">
 <!ENTITY protections.fingerprinters.label "Identigiloj de ciferecaj spuroj">
 <!ENTITY protections.cryptominers.label "Miniloj de ĉifromono">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Ĉiuj spuriloj en tiu ĉi retejo estis ŝargitaj ĉar protektoj estas malaktivaj.">
 <!ENTITY protections.noTrackersFound.description "Neniu spurilo, konata de &brandShortName;, estis trovita en tiu ĉi paĝo.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Tiuj ĉi kuketoj sekvas vin inter retejoj por kolekti informon pri via retumo. Ili estas difinitaj de aliaj, ekzemple de reklamistoj kaj retumanalizaj entreprenoj.">
 <!ENTITY protections.cryptominers.description "La miniloj de ĉifromono uzas la kalkulpovon de via komputilo por mini ciferecan monon. Minado de ĉifromono eluzas vian baterion, malrapidigas vian komputilon kaj povas konsumi pli da elekto, kiun vi devos pagi.">
 <!ENTITY protections.fingerprinters.description "La identigiloj de ciferecaj spuroj kolektas agordojn de via retumilo kaj komputilo por krei profilon de vi. Per tiu cifereca spuro, ili povas sekvi vin tra malsamaj retejoj.">
+<!ENTITY protections.trackingContent2.description "Retejoj povas ŝargi eksterajn reklamojn, filmetojn kaj aliajn enhavojn, kiuj kunportas spurilojn. Blokado de spurila enhavo povas helpi rapidgi la ŝargadon de retejoj, sed kelkaj butonoj, formularoj kaj legitimilaj kampoj povus ne funkcii.">
 <!ENTITY protections.socialMediaTrackers.description "Socia retoj aldonas spurilojn en aliaj retejoj por sekvi vin kaj scii kion vi vidas kaj faras dum retumo. Tiu permesas al sociretaj entreprenoj havi informon pri vi, kiun vi ne dividas per viaj sociretaj profiloj.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -998,6 +1003,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection4.label "Spurila enhavo">
 
 <!ENTITY contentBlocking.manageSettings2.label "Administri agordojn de protekto">
+<!ENTITY contentBlocking.manageSettings2.accesskey "R">
 
 <!ENTITY contentBlocking.socialblock.label "Sociretaj spuriloj">
 
