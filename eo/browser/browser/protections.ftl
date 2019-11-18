@@ -9,12 +9,15 @@ graph-week-summary =
         [one] { -brand-short-name } blokis 1 spurilon du la lasta semajno
        *[other] { -brand-short-name } blokis { $count } spurilojn dum la lasta semajno
     }
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-header-details-standard = La nivelo de protekto estas <b>norma</b>
-protection-header-details-strict = La nivelo de protekto estas <b>rigora</b>
-protection-header-details-custom = La nivelo de protekto estas <b>personecigita</b>
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] <b>{ $count }</b> spurilo blokita ekde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> spuriloj blokitaj ekde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -28,6 +31,7 @@ protection-report-page-title = Protektoj de privateco
 protection-report-content-title = Protektoj de privateco
 etp-card-title = Plibonigita protekto kontraŭ spurado
 etp-card-content = Spuriloj sekvas vin en la reto por kolekti informon pri via kutima retumo kaj pri viaj interesoj. { -brand-short-name } blokas plurajn el tiuj spuriloj kaj aliajn malicajn skriptojn.
+protection-report-manage-protections = Administri agordojn
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Hodiaŭ
@@ -38,6 +42,7 @@ social-tab-contant = Socia retoj aldonas spurilojn en aliaj retejoj por sekvi vi
 cookie-tab-title = Interretejaj spurilaj kuketoj
 cookie-tab-content = Tiuj ĉi kuketoj sekvas vin inter retejoj por kolekti informon pri via retumo. Ili estas difinitaj de aliaj, ekzemple de reklamistoj kaj retumanalizaj entreprenoj. Blokado de interretejaj spurilaj kuketoj reduktas la kvanton de reklamoj kiuj sekvas vin ĉien. <a data-l10n-name="learn-more-link">Pli da informo</a>
 tracker-tab-title = Spurila enhavo
+tracker-tab-description = Retejoj povas ŝargi eksterajn reklamojn, filmetojn kaj alian enhavon, kiuj havas spurilan kodon. Blokado de spurila enhavo povas rapidigi la ŝargadon de retejoj, sed kelkaj butonoj, formularoj kaj legitimilaj kampoj povus ne funkcii. <a data-l10n-name="learn-more-link">Pli da informo</a>
 fingerprinter-tab-title = Identigiloj de ciferecaj spuroj
 fingerprinter-tab-content = La identigiloj de ciferecaj spuroj kolektas agordojn de via retumilo kaj komputilo por krei profilon de vi. Per tiu cifereca spuro, ili povas sekvi vin tra malsamaj retejoj.<a data-l10n-name="learn-more-link">Pli da informo</a>
 cryptominer-tab-title = Miniloj de ĉifromono
@@ -46,6 +51,8 @@ lockwise-title = Neniam denove forgesu pasvorton
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } sekure konservas viajn pasvortojn en via retumilo.
 lockwise-header-content-logged-in = Sekure konservu kaj spegulu viajn pasvortojn en ĉiuj viaj aparatoj.
+protection-report-view-logins-button = Vidi legitimilojn
+    .title = Iri al konservitaj legitimiloj
 lockwise-no-logins-content = Ricevu la programon <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> por kunporti viajn pasvortojn ĉien.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -65,6 +72,7 @@ lockwise-sync-status =
         [one] Spegulado al alia aparato
        *[other] Spegulado al { $count } aliaj aparatoj
     }
+lockwise-sync-not-syncing-devices = Neniu spegulado al aliaj aparatoj.
 monitor-title = Estu atenta je datumfuĝoj
 monitor-link = Kiel funkcias tio
 monitor-sign-up = Abonu la atentigojn pri datumfuĝoj
@@ -78,10 +86,6 @@ password-warning =
         [one] Konservita legitimilo estis eble elmetita de datumfuĝo. Ŝanĝu tiun ĉi pasvorton por pli bona sekureco reta. <a data-l10n-name="lockwise-link">Vidi konservitajn legitimiloj</a>
        *[other] Konservitaj legitimiloj estis eble elmetitaj de datumfuĝo. Ŝanĝu tiujn ĉi pasvortojn por pli bona sekureco reta. <a data-l10n-name="lockwise-link">Vidi konservitajn legitimiloj</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Iri al la privatecaj agordoj
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Iri al la konservitaj legitimiloj
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
