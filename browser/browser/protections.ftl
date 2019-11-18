@@ -39,9 +39,13 @@ graph-today = Hoje
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Um gráfico contendo o número total de cada tipo de rastreador bloqueado esta semana.
 social-tab-title = Rastreadores de redes sociais
+social-tab-contant = As redes sociais colocam rastreadores em outros sites que monitorização o que faz, vê e assiste na Internet. Isto permite que estas empresas de redes sociais saibam mais sobre si, para além do que partilha no seu perfil nas redes sociais. <a data-l10n-name="learn-more-link">Saber mais</a>
 cookie-tab-title = Cookies de monitorização inter-sites
+cookie-tab-content = Estas cookies seguem-no entre vários sites para recolher dados sobre o que faz na Internet. São definidas por terceiros, como anunciantes ou empresas de análise. O bloqueio de cookies de rastreamento inter-sites reduz o número de anúncios que o seguem. <a data-l10n-name="learn-more-link">Saber mais</a>
 tracker-tab-title = Monitorização de conteúdo
+tracker-tab-description = Os sites podem carregar anúncios, vídeos e outros conteúdos externos com códigos de rastreamento. O bloqueio de conteúdos de rastreamento pode ajudar os sites a carregar mais rapidamente, mas alguns botões, formulários e campos de autenticação podem não funcionar. <a data-l10n-name="learn-more-link">Saber mais</a>
 fingerprinter-tab-title = Identificadores
+fingerprinter-tab-content = Os identificadores recolhem informações do seu navegador e computador para criar um perfil sobre si. Ao utilizar este identificador digital, estes podem monitorizá-lo em vários sites diferentes. <a data-l10n-name="learn-more-link">Saber mais</a>
 cryptominer-tab-title = Cripto-mineradores
 cryptominer-tab-content = Os cripto-mineradores utilizam o poder de computação do seu sistema para minerar dinheiro digital. Os scripts de cripto-mineração podem descarregar a sua bateria, tornar o seu computador mais lento e aumentar os custos com a sua fatura elétrica. <a data-l10n-name="learn-more-link">Saber mais</a>
 lockwise-title = Nunca mais esqueça uma palavra-passe
