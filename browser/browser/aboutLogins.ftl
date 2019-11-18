@@ -82,6 +82,7 @@ about-logins-intro-import = اگر اطلاعات ورود شما، در مرو�
 login-item-new-login-title = ایجاد اطلاعات ورود جدید
 login-item-edit-button = ویرایش
 login-item-delete-button = حذف
+about-logins-login-item-remove-button = حذف
 login-item-origin-label = آدرس پایگاه
 login-item-origin =
     .placeholder = https://www.example.com
@@ -125,6 +126,7 @@ enable-password-sync-preferences-button =
            *[other] ترجیحات { -sync-brand-short-name } را ببینید
         }
     .accesskey = گ
+confirm-delete-dialog-title = حذف این ورود؟
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = دوباره از من نپرس
     .accesskey = د
@@ -134,9 +136,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = انصراف
 confirmation-dialog-dismiss-button =
     .title = انصراف
-confirm-delete-dialog-title = حذف این ورود؟
+about-logins-confirm-remove-dialog-title = حذف این ورود؟
 confirm-delete-dialog-message = این عمل قابل برگشت نیست.
 confirm-delete-dialog-confirm-button = حذف
+about-logins-confirm-remove-dialog-confirm-button = حذف
 confirm-discard-changes-dialog-title = تغییرات ذخیره نشده نادیده گرفته شود؟
 confirm-discard-changes-dialog-message = تمام تغییرات ذخیره نشده از بین می‌روند.
 confirm-discard-changes-dialog-confirm-button = نادیده گرفتن
