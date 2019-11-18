@@ -83,6 +83,7 @@ about-logins-intro-import = Якщо ваші паролі збережено в
 login-item-new-login-title = Створити новий запис
 login-item-edit-button = Змінити
 login-item-delete-button = Видалити
+about-logins-login-item-remove-button = Вилучити
 login-item-origin-label = Адреса веб-сайту
 login-item-origin =
     .placeholder = https://www.example.com
@@ -126,6 +127,7 @@ enable-password-sync-preferences-button =
            *[other] Відкрити налаштування { -sync-brand-short-name(case: "gen") }
         }
     .accesskey = В
+confirm-delete-dialog-title = Видалити цей запис?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Не питати знову
     .accesskey = Н
@@ -135,9 +137,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Скасувати
 confirmation-dialog-dismiss-button =
     .title = Скасувати
-confirm-delete-dialog-title = Видалити цей запис?
+about-logins-confirm-remove-dialog-title = Вилучити цей пароль?
 confirm-delete-dialog-message = Це незворотна дія.
 confirm-delete-dialog-confirm-button = Видалити
+about-logins-confirm-remove-dialog-confirm-button = Вилучити
 confirm-discard-changes-dialog-title = Відхилити незбережені зміни?
 confirm-discard-changes-dialog-message = Всі незбережені зміни будуть втрачені.
 confirm-discard-changes-dialog-confirm-button = Відхилити

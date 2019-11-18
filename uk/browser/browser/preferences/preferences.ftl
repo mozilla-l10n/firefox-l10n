@@ -319,7 +319,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Вміст з керуванням цифровими правами (DRM)
 play-drm-content =
@@ -588,6 +588,9 @@ sync-signedout-account-create = Не маєте облікового запис�
 sync-signedout-account-signin =
     .label = Увійти…
     .accesskey = У
+sync-signedout-account-signin2 =
+    .label = Увійти в { -sync-brand-short-name(case: "acc") }…
+    .accesskey = в
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -735,6 +738,7 @@ privacy-header = Приватність браузера
 ## Privacy Section - Logins and Passwords
 
 logins-header = Входи і паролі
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Запит збереження паролів для веб-сайтів
     .accesskey = п
@@ -748,6 +752,7 @@ forms-breach-alerts =
     .label = Показувати сповіщення про паролі для зламаних веб-сайтів
     .accesskey = з
 forms-breach-alerts-learn-more-link = Докладніше
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Автозаповнення паролів
     .accesskey = з
@@ -902,7 +907,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Власний
     .accesskey = л
 
-##
+
 
 content-blocking-etp-standard-desc = Збалансований захист і швидкодія. Сторінки завантажуватимуться нормально.
 content-blocking-etp-strict-desc = Надійніший захист, але може пошкоджувати деякі сайти чи їх вміст.
