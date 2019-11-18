@@ -453,6 +453,7 @@ theme-heading = Spravujte svoje témy vzhľadu
 plugin-heading = Spravujte svoje zásuvné moduly
 dictionary-heading = Spravujte svoje slovníky
 locale-heading = Spravujte svoje jazyky
+updates-heading = Spravujte svoje aktualizácie
 discover-heading = Prispôsobte si { -brand-short-name }
 shortcuts-heading = Správa klávesových skratiek pre rozšírenia
 theme-heading-search-label = Nájdite ďalšie témy vzhľadu

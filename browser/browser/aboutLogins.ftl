@@ -83,6 +83,7 @@ about-logins-intro-import = Ak máte prihlasovacie údaje uložené v inom prehl
 login-item-new-login-title = Nové prihlasovacie údaje
 login-item-edit-button = Upraviť
 login-item-delete-button = Odstrániť
+about-logins-login-item-remove-button = Odstrániť
 login-item-origin-label = Adresa webovej stránky
 login-item-origin =
     .placeholder = https://www.example.com
@@ -126,6 +127,7 @@ enable-password-sync-preferences-button =
            *[other] Navštívte možnosti aplikácie { -sync-brand-short-name }
         }
     .accesskey = m
+confirm-delete-dialog-title = Odstrániť tieto prihlasovacie údaje?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Nabudúce sa už nepýtať
     .accesskey = N
@@ -135,9 +137,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Zrušiť
 confirmation-dialog-dismiss-button =
     .title = Zrušiť
-confirm-delete-dialog-title = Odstrániť tieto prihlasovacie údaje?
+about-logins-confirm-remove-dialog-title = Chcete odstrániť tento prihlasovací údaj?
 confirm-delete-dialog-message = Túto akciu nie je možné vrátiť späť.
 confirm-delete-dialog-confirm-button = Odstrániť
+about-logins-confirm-remove-dialog-confirm-button = Odstrániť
 confirm-discard-changes-dialog-title = Chcete zahodiť neuložené zmeny?
 confirm-discard-changes-dialog-message = Všetky neuložené zmeny budú stratené.
 confirm-discard-changes-dialog-confirm-button = Zahodiť
