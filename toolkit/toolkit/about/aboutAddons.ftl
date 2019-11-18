@@ -100,9 +100,11 @@ detail-private-browsing-description2 = Quando permitido, a extensão irá ter ac
 # cannot be overridden by the user.
 detail-private-disallowed-label = Não permitido em janelas privadas
 detail-private-disallowed-description = Esta extensão não é executada durante a navegação privada. <label data-l10n-name="detail-private-browsing-learn-more">Saber mais</label>
+detail-private-disallowed-description2 = Esta extensão não é executada durante a navegação privada. <a data-l10n-name="learn-more">Saber mais</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Requer acesso a janelas privadas
 detail-private-required-description = Esta extensão tem acesso às suas atividades online enquanto durante a navegação privada. <<label data-l10n-name="detail-private-browsing-learn-more">Saber mais</label>
+detail-private-required-description2 = Esta extensão tem acesso às suas atividades on-line durante a navegação privada. <a data-l10n-name="learn-more">Saber mais</a>
 detail-private-browsing-on =
     .label = Permitir
     .tooltiptext = Ativar em navegação privada
@@ -285,6 +287,8 @@ shortcuts-modifier-other = Incluir Ctrl ou Alt
 shortcuts-invalid = Combinação inválida
 shortcuts-letter = Escrever uma letra
 shortcuts-system = Não é possível sobrepor um atalho do { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Atalho duplicado
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -402,6 +406,11 @@ install-update-button = Atualizar
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Permitido em janelas privadas
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Permitido nas janelas privadas
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Quando permitido, a extensão irá ter acesso às suas atividades online durante a navegação privada. <a data-l10n-name="learn-more">Saber mais</a>
 addon-detail-private-browsing-allow = Permitir
 addon-detail-private-browsing-disallow = Não permitir
@@ -433,6 +442,7 @@ theme-heading = Gira os seus temas
 plugin-heading = Gira os seus plugins
 dictionary-heading = Gira os seus dicionários
 locale-heading = Gira os seus idiomas
+updates-heading = Gerir as auas atualizações
 discover-heading = Personalize o seu { -brand-short-name }
 shortcuts-heading = Gira atalhos de extensões
 theme-heading-search-label = Encontre mais temas

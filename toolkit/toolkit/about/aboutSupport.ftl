@@ -35,6 +35,8 @@ app-basics-name = Nome
 app-basics-version = Versão
 app-basics-build-id = ID da compilação
 app-basics-update-channel = Canal de atualização
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Diretório de atualizações
@@ -133,8 +135,11 @@ media-device-format = Formato
 media-device-channels = Canais
 media-device-rate = Taxa
 media-device-latency = Latência
+media-capabilities-title = Recursos de media
+# List all the entries of the database.
+media-capabilities-enumerate = Base de dados de enumeração
 
-##
+
 
 intl-title = Internacionalização e idioma
 intl-app-title = Definições da aplicação
@@ -145,6 +150,19 @@ intl-locales-default = Idioma predefinido
 intl-os-title = Sistema operativo
 intl-os-prefs-system-locales = Idiomas do sistema
 intl-regional-prefs = Preferências regionais
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

@@ -75,12 +75,14 @@ login-intro-description = Se guardou as suas credenciais para o { -brand-product
 login-intro-instruction-fxa = Crie ou inicie a sessão na sua { -fxaccount-brand-name } no dispositivo onde as suas credenciais estão guardadas
 login-intro-instruction-fxa-settings = Certifique-se que ativou a opção Credenciais nas definições do { -sync-brand-short-name }
 about-logins-intro-instruction-help = Visite o <a data-l10n-name="help-link">Apoio do { -lockwise-brand-short-name }</a> para mais ajuda
+about-logins-intro-import = Se as suas credenciais estão guardadas noutro navegador, pode <a data-l10n-name="import-link">importar as mesmas para o { -lockwise-brand-short-name }</a>
 
 ## Login
 
 login-item-new-login-title = Criar nova credencial
 login-item-edit-button = Editar
 login-item-delete-button = Apagar
+about-logins-login-item-remove-button = Remover
 login-item-origin-label = Endereço do website
 login-item-origin =
     .placeholder = https://www.example.com
@@ -124,6 +126,7 @@ enable-password-sync-preferences-button =
            *[other] Visitar as preferências do { -sync-brand-short-name }
         }
     .accesskey = V
+confirm-delete-dialog-title = Apagar esta credencial?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Não voltar a perguntar
     .accesskey = N
@@ -133,9 +136,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
-confirm-delete-dialog-title = Apagar esta credencial?
+about-logins-confirm-remove-dialog-title = Remover esta credencial?
 confirm-delete-dialog-message = Esta ação não pode ser desfeita.
 confirm-delete-dialog-confirm-button = Apagar
+about-logins-confirm-remove-dialog-confirm-button = Remover
 confirm-discard-changes-dialog-title = Descartar alterações não guardadas?
 confirm-discard-changes-dialog-message = Todas as alterações não guardadas irão ser perdidas.
 confirm-discard-changes-dialog-confirm-button = Descartar

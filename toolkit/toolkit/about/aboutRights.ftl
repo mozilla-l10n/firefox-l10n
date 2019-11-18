@@ -5,7 +5,10 @@
 rights-title = Acerca dos seus direitos
 rights-intro = O { -brand-full-name } é um software livre e de código aberto, construído por uma comunidade de milhares de pessoas por todo o mundo. Existem algumas coisas que deve saber:
 rights-intro-point-1 = O { -brand-short-name } é disponibilizado nos termos da <a data-l10n-name="mozilla-public-license-link">Mozilla Public License</a>. Isto significa que pode utilizar, copiar e distribuir o { -brand-short-name } para outras pessoas.  Também pode modificar o código fonte do { -brand-short-name } conforme as suas necessidades. A Mozilla Public License também lhe dá o direito de distribuir as suas versões modificadas.
-rights-intro-point-2 = Não lhe é concedido nenhum direito às marcas registadas ou licenças das marcas registadas da Fundação Mozilla ou de qualquer outra parte, incluindo sem limitações, o nome ou logótipo do Firefox. Informação adicional sobre marcas registadas pode ser encontrada <a data-l10n-name="mozilla-trademarks-link">aqui</a>.
+rights-intro-point-2 =
+    Não lhe são concedidos quaisquer direitos de marcas registadas ou licenças das marcas registadas da
+    Fundação Mozilla ou qualquer outra parte incluindo, sem limitações, o nome ou logótipo do Firefox.
+    Pode encontrar informação adicional sobre as marcas registadas <a data-l10n-name="mozilla-trademarks-link">aqui</a>.
 rights-intro-point-3 = Algumas funcionalidades no { -brand-short-name }, tais como o relator de falhas, dão-lhe a opção de fornecer feedback à { -vendor-short-name }. Ao escolher enviar feedback, você dá à { -vendor-short-name } autorização para utilizar o feedback para melhorar os seus produtos, para publicar o feedback nos seus websites e para distribuir o feedback.
 rights-intro-point-4 = Como é que usamos a sua informação pessoal e feedback enviados para a { -vendor-short-name } através do { -brand-short-name } é descrito na <a data-l10n-name="mozilla-privacy-policy-link">Política de privacidade do { -brand-short-name }</a>.
 rights-intro-point-4-unbranded = Quaisquer políticas de privacidade aplicáveis a este produto devem ser colocadas aqui.
