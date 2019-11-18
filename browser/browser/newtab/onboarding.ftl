@@ -21,6 +21,11 @@ onboarding-button-label-get-started = Unuaj paŝoj
 onboarding-welcome-header = Bonvenon al { -brand-short-name }
 onboarding-welcome-body = Vi havas la retumilon.<br/>Konatiĝu kun la cetero de { -brand-product-name }.
 onboarding-welcome-learn-more = Pli da informo pri la utiloj.
+onboarding-welcome-modal-get-body = Vi havas la retumilon.<br/>Nun eltiru la maksimumon el { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Maksimumigi vian privatecan protekton.
+onboarding-welcome-modal-privacy-body = Vi havas la retumilon. Aldonu ni pli da privatecaj protektoj.
+onboarding-welcome-modal-family-learn-more = Pli da informo pri la familio de produktoj de { -brand-product-name }.
+onboarding-welcome-form-header = Komencu ĉi tie
 onboarding-join-form-header = Venu al { -brand-product-name }
 onboarding-join-form-body = Por komenci, tajpu vian retpoŝtan adreson.
 onboarding-join-form-email =
@@ -28,10 +33,20 @@ onboarding-join-form-email =
 onboarding-join-form-email-error = Valida retpoŝta adreso postulata
 onboarding-join-form-legal = Se vi daŭrigas, vi akceptas la <a data-l10n-name="terms">kondiĉojn de uzo</a> kaj la <a data-l10n-name="privacy">rimarkon pri privateco</a>.
 onboarding-join-form-continue = Daŭrigi
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Ĉu vi jam havas konton?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Komenci seancon
 onboarding-start-browsing-button-label = Komenci retumi
 onboarding-cards-dismiss =
     .title = Ignori
     .aria-label = Ignori
+
+## Welcome full page string
+
+onboarding-fullpage-welcome-subheader = Unue, ni esploru ĉion, kion vi povas fari.
+onboarding-fullpage-form-email =
+    .placeholder = Vian retpoŝtan adreson…
 
 ## Firefox Sync modal dialog strings.
 
@@ -64,6 +79,12 @@ onboarding-benefit-privacy-title = Fakta privateco
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Ĉio, kion ni faras, plenumas nian promeson pri personaj datumoj: preni malpli, teni ilin sekuraj, esti honestaj.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Portu viajn legosignojn, pasvortojn, historion, kaj pli, ĉien, kie vi uzas { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Ricevi sciigon kiam viaj personaj datumoj aperas en konata datumfuĝo.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Administri pasvortojn tiel ke ili estas kaj protektitaj kaj porteblaj.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -92,6 +113,7 @@ onboarding-data-sync-text2 = Spegulu viajn legosignojn, pasvortojn, kaj pli da a
 onboarding-data-sync-button2 = Komenci seancon en { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Estu informata pri datumŝteloj
 onboarding-firefox-monitor-text = { -monitor-brand-name } kontrolas ĉu via retpoŝta adreso iam aperis en datumŝtelo kaj atentigas vin se ĝi aperas en nova ŝtelo.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } kontrolas ĉu via retpoŝta adreso iam aperis en konata datumfuĝo kaj atentigas vin se ĝi aperas en nova datumfuĝo.
 onboarding-firefox-monitor-button = Aboni la atentigojn
 onboarding-browse-privately-title = Retumu private
 onboarding-browse-privately-text = Privata retumo viŝas vian serĉan kaj retuman historiojn, por kaŝi ilin de aliaj, kiu uzas vian komputilon.
