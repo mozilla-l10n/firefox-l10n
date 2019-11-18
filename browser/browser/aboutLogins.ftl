@@ -36,6 +36,7 @@ menu-menuitem-preferences =
         [windows] Elektebloj
        *[other] Preferoj
     }
+about-logins-menu-menuitem-help = Helpo
 menu-menuitem-android-app = { -lockwise-brand-short-name } por Android
 menu-menuitem-iphone-app = { -lockwise-brand-short-name } por iPhone kaj iPad
 
@@ -55,6 +56,8 @@ login-list-last-changed-option = Laste modifita
 login-list-last-used-option = Last uzita
 login-list-intro-title = Neniu legitimilo trovita
 login-list-intro-description = Kiam vi konservas pasvortojn en { -brand-product-name }, ĝi aperos ĉi tie.
+about-logins-login-list-empty-search-title = Neniu legitimilo trovita
+about-logins-login-list-empty-search-description = Neniu rezulto kongruas kun via serĉo.
 login-list-item-title-new-login = Nova legitimilo
 login-list-item-subtitle-new-login = Tajpu viajn legitimilojn
 login-list-item-subtitle-missing-username = (sen nomo de uzanto)
@@ -98,11 +101,8 @@ master-password-reload-button =
     .label = Komenci seancon
     .accesskey = K
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Nuligi
-confirmation-dialog-dismiss-button =
-    .title = Nuligi
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Ĉu vi volas ĉiam havi vian legitimilojn, ĉie kie vi uzas { -brand-product-name }? Iru al la elektebloj de { -sync-brand-short-name } kaj elektu la markobutonon Legitimiloj.
@@ -116,6 +116,12 @@ enable-password-sync-preferences-button =
         }
     .accesskey = V
 confirm-delete-dialog-title = Ĉu forigi tiun ĉi legitimilon?
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Nuligi
+confirmation-dialog-dismiss-button =
+    .title = Nuligi
 confirm-delete-dialog-message = Tiu ĉi ago ne estas malfarebla.
 confirm-delete-dialog-confirm-button = Forigi
 confirm-discard-changes-dialog-title = Ĉu ignori nekonservitajn ŝanĝojn?

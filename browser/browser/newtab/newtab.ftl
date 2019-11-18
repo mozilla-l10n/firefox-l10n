@@ -45,9 +45,6 @@ newtab-topsites-save-button = Konservi
 newtab-topsites-preview-button = Antaŭvidi
 newtab-topsites-add-button = Aldoni
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Ĉu vi certe volas forigi ĉiun aperon de tiu ĉi paĝo el via historio?
@@ -83,14 +80,21 @@ newtab-menu-delete-history = Forigi el historio
 newtab-menu-save-to-pocket = Konservi en { -pocket-brand-name }
 newtab-menu-delete-pocket = Forigi el { -pocket-brand-name }
 newtab-menu-archive-pocket = Arĥivi en { -pocket-brand-name }
+newtab-menu-show-privacy-info = Niaj patronoj kaj via privateco
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Farita
+newtab-privacy-modal-header = Via privateco gravas.
+newtab-privacy-modal-paragraph = Krom allogajn artikolojn ni montras al vi ankaŭ gravajn, zorge reviziitan enhavon el elektitaj patronoj. Estu certa, viaj retumaj datumoj neniam foriras el via loka instalaĵo de { -brand-product-name } — ni ne vidas ilin, kaj ankaŭ ne niaj patronoj.
+newtab-privacy-modal-link = Pli da informo pri privateco en novaj folioj
+
+
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Forigi legosignon
 # Bookmark is a verb here.
 newtab-menu-bookmark = Aldoni legosignon
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -120,10 +124,6 @@ newtab-label-removed-bookmark = Legosigno forigita
 newtab-label-recommended = Tendencoj
 newtab-label-saved = Konservita en { -pocket-brand-name }
 newtab-label-download = Elŝutita
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
