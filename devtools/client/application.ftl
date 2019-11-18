@@ -86,7 +86,16 @@ manifest-item-icons = Emblemo
 manifest-loading = Manifesto ŝargata…
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = Manifesto ŝargita.
-# Text displayed when there has been an error while trying to load the manifest
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
 manifest-loaded-error = Okazis eraro dum ŝargado de manifesto:
 # Text displayed when the page has no manifest available
 manifest-non-existing = Neniu manifesto trovita por inspekti.
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = Emblemo
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = Averta emblemo
+    .title = Averto
