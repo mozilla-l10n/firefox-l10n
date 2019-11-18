@@ -95,6 +95,32 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Novaĵoj
 cfr-whatsnew-release-notes-link-text = Legi la notojn pri liverado
 cfr-whatsnew-fx70-title = { -brand-short-name } luktas pli forte por via privateco
+cfr-whatsnew-fx70-body =
+    La lasta ĝisdatigo plibonigas la protekton kontraŭ spurado kaj faciligas la
+    kreadon de sekuraj pasvortoj por ĉiu retejo.
+cfr-whatsnew-tracking-protect-title = Protektu vin kontraŭ spuriloj
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } blokas plurajn oftajn sociajn kaj interretejajn spurilojn,
+    kiuj sekvas vian retumon.
+cfr-whatsnew-tracking-protect-link-text = Vidi vian raporton
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] spurilo blokita
+       *[other] spuriloj blokitaj
+    }
+cfr-whatsnew-tracking-blocked-subtitle = ekde { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Vidi raporton
+cfr-whatsnew-lockwise-backup-title = Sekurkopii viajn pasvortojn
+cfr-whatsnew-lockwise-backup-body = Nun kreu sekurajn pasvortojn, kiujn vi povas aliri ĉie, kie vi konektiĝas.
+cfr-whatsnew-lockwise-backup-link-text = Ŝalti sekurkopiojn
+cfr-whatsnew-lockwise-take-title = Kunportu viajn pasvortojn
+cfr-whatsnew-lockwise-take-body =
+    La poŝaparata programo { -lockwise-brand-short-name } permesas al vi sekure aliri viajn
+    konservitajn pasvortojn, el ie ajn.
+cfr-whatsnew-lockwise-take-link-text = Ricevi la programon
 
 ## Bookmark Sync
 
@@ -127,6 +153,27 @@ cfr-doorhanger-firefox-send-ok-button = Provu { -send-brand-name }
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Vidi protektojn
+    .accesskey = V
+cfr-doorhanger-socialtracking-close-button = Fermi
+    .accesskey = F
+cfr-doorhanger-socialtracking-dont-show-again = Ne montri al ĉi tiajn mesaĝojn denove
+    .accesskey = N
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } evitis ke spurilo socireta sekvu vin ĉi tie
+cfr-doorhanger-socialtracking-description = Via privateco gravas. { -brand-short-name } blokas nun oftajn sociretajn spurilojn, kio limigas la kvanton de datumoj pri via retumo, kiun ili povas kolekti.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } blokis identigilon de cifereca spuro en tiu ĉi paĝo
+cfr-doorhanger-fingerprinters-description = Via privateco gravas. { -brand-short-name } nun blokas identigilojn de ciferecaj spuroj, kiuj kolektas informojn pri via aparato, kiu unike identigas vin, por povi sekvi vian retumon.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } blokis minilon de ĉifromono en tiu ĉi paĝo
+cfr-doorhanger-cryptominers-description = Via privateco gravas. { -brand-short-name } nun blokas minilojn de ĉifromono, kiuj uzas la povon kalkulan de via aparato por mini ciferecan monon.
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+       *[other] { -brand-short-name } blokis pli ol <b>{ $blockedCount }</b> spurilojn ekde { $date }!
+    }
+cfr-doorhanger-milestone-ok-button = Vidi ĉiujn
+    .accesskey = V
