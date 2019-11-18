@@ -61,23 +61,34 @@ about-logins-login-list-empty-search-description = Neniu rezulto kongruas kun vi
 login-list-item-title-new-login = Nova legitimilo
 login-list-item-subtitle-new-login = Tajpu viajn legitimilojn
 login-list-item-subtitle-missing-username = (sen nomo de uzanto)
+about-logins-list-item-warning-icon =
+    .alt = Averta emblemo
+    .title = Retejo kun datumfuĝo
+about-logins-list-item-breach-icon =
+    .title = Retejo kun datumfuĝo
 
 ## Introduction screen
 
 login-intro-heading = Ĉu vi serĉas viajn konservitajn legitimilojn? Agordu { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = Neniu spegulita legitimilo trovita.
 login-intro-description = Se vi konservis viajn legitimilojn en { -brand-product-name } en alia aparato, vi povas havi ilin ankaŭ ĉi tie jene:
 login-intro-instruction-fxa = Krei konton aŭ komencu seancon en { -fxaccount-brand-name } en la aparato, kie la legitimiloj estas konservitaj
 login-intro-instruction-fxa-settings = Certu esti elektinta la markobutonon Legitimiloj en la agordoj de { -sync-brand-short-name }
+about-logins-intro-instruction-help = Vizitu <a data-l10n-name="help-link">helpo pri { -lockwise-brand-short-name }</a> por pli da informo
+about-logins-intro-import = Se viaj legitimiloj estas konservitaj en alia retumilo, vi povas <a data-l10n-name="import-link">enporti ilin en { -lockwise-brand-short-name }</a>
 
 ## Login
 
 login-item-new-login-title = Krei novan legitimilon
 login-item-edit-button = Redakti
 login-item-delete-button = Forigi
+about-logins-login-item-remove-button = Forigi
 login-item-origin-label = Adreso de retejo
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Nomo de uzanto
+about-logins-login-item-username =
+    .placeholder = (sen nomo de uzanto)
 login-item-copy-username-button-text = Kopii
 login-item-copied-username-button-text = Kopiita!
 login-item-password-label = Pasvorto
@@ -116,14 +127,19 @@ enable-password-sync-preferences-button =
         }
     .accesskey = V
 confirm-delete-dialog-title = Ĉu forigi tiun ĉi legitimilon?
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Ne demandi denove
+    .accesskey = N
 
 ## Dialogs
 
 confirmation-dialog-cancel-button = Nuligi
 confirmation-dialog-dismiss-button =
     .title = Nuligi
+about-logins-confirm-remove-dialog-title = Ĉu forigi tiun ĉi legitimilon?
 confirm-delete-dialog-message = Tiu ĉi ago ne estas malfarebla.
 confirm-delete-dialog-confirm-button = Forigi
+about-logins-confirm-remove-dialog-confirm-button = Forigi
 confirm-discard-changes-dialog-title = Ĉu ignori nekonservitajn ŝanĝojn?
 confirm-discard-changes-dialog-message = Ĉiuj nekonservitaj ŝanĝoj estos perditaj.
 confirm-discard-changes-dialog-confirm-button = Ignori
@@ -137,3 +153,15 @@ breach-alert-dismiss =
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login = Jam ekzistas elemento por { $loginTitle } kun tiu nomo de uzanto.
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Jam ekzistas elemento por { $loginTitle } kun tiu nomo de uzanto. <a data-l10n-name="duplicate-link">Ĉu iri al la ekzistanta elemento?</a>
+# This is a generic error message.
+about-logins-error-message-default = Eraro okazis dum konservo de tiu ĉi pasvorto.

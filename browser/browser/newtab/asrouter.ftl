@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = de { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendo
+cfr-doorhanger-extension-notification2 = Rekomendo
+    .tooltiptext = Rekomendo pri etendaĵo
+    .a11y-announcement = Havebla rekomendo pri etendaĵo
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Rekomendo
+    .tooltiptext = Rekomendo pri trajto
+    .a11y-announcement = Havebla rekomendo pri trajto
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -78,10 +86,15 @@ cfr-protections-panel-link-text = Pli da informo
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Nova trajto:
 cfr-whatsnew-button =
     .label = Novaĵoj
     .tooltiptext = Novaĵoj
 cfr-whatsnew-panel-header = Novaĵoj
+cfr-whatsnew-release-notes-link-text = Legi la notojn pri liverado
+cfr-whatsnew-fx70-title = { -brand-short-name } luktas pli forte por via privateco
 
 ## Bookmark Sync
 
@@ -111,3 +124,9 @@ cfr-doorhanger-firefox-send-header = Sekure dividi tiun ĉi PDF
 cfr-doorhanger-firefox-send-body = Gardu viajn konfidecajn dokumentojn sekure kaj for de trudaj rigardoj per ĉifrado interklienta kaj ligiloj kiuj malaperas kiam vi finas.
 cfr-doorhanger-firefox-send-ok-button = Provu { -send-brand-name }
     .accesskey = P
+
+## Social Tracking Protection
+
+
+## Enhanced Tracking Protection Milestones
+
