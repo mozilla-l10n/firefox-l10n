@@ -86,6 +86,7 @@ about-logins-intro-import = Os yw eich mewngofnodion yn cael eu cadw mewn porwr 
 login-item-new-login-title = Creu Mewngofnod Newydd
 login-item-edit-button = Golygu
 login-item-delete-button = Dileu
+about-logins-login-item-remove-button = Tynnu
 login-item-origin-label = Cyfeiriad Gwefan
 login-item-origin =
     .placeholder = https://www.example.com
@@ -129,6 +130,7 @@ enable-password-sync-preferences-button =
            *[other] Ewch i { -sync-brand-short-name } Dewisiadau
         }
     .accesskey = E
+confirm-delete-dialog-title = Dileu'r mewngofnod hwn?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Peidiwch gofyn i mi eto
     .accesskey = g
@@ -138,9 +140,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Diddymu
 confirmation-dialog-dismiss-button =
     .title = Diddymu
-confirm-delete-dialog-title = Dileu'r mewngofnod hwn?
+about-logins-confirm-remove-dialog-title = Dileu'r mewngofnod?
 confirm-delete-dialog-message = Nid oes modd dadwneud y weithred hon.
 confirm-delete-dialog-confirm-button = Dileu
+about-logins-confirm-remove-dialog-confirm-button = Tynnu
 confirm-discard-changes-dialog-title = Hepgor newidiadau heb eu cadw?
 confirm-discard-changes-dialog-message = Bydd yr holl newidiadau sydd heb eu cadw'n cael eu colli.
 confirm-discard-changes-dialog-confirm-button = Dileu

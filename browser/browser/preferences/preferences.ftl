@@ -328,7 +328,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Cynnwys Rheoli Hawliau Digidol (DRM)
 play-drm-content =
@@ -600,6 +600,9 @@ sync-signedout-account-create = Dim cyfrif? Cychwynnwch arni
 sync-signedout-account-signin =
     .label = Mewngofnodi…
     .accesskey = M
+sync-signedout-account-signin2 =
+    .label = Mewngofnodi i { -sync-brand-short-name }…
+    .accesskey = M
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -747,6 +750,7 @@ privacy-header = Preifatrwydd y Porwr
 ## Privacy Section - Logins and Passwords
 
 logins-header = Mewngofnodion a Chyfrineiriau
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Gofyn i gadw mewngofnodion a chyfrineiriau ar gyfer gwefannau
     .accesskey = G
@@ -760,6 +764,7 @@ forms-breach-alerts =
     .label = Dangos rhybuddion am gyfrineiriau ar gyfer gwefannau sydd wedi' cael tor-data
     .accesskey = r
 forms-breach-alerts-learn-more-link = Dysgu rhagor
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Awtolanw mewngofnodion a chyfrineiriau
     .accesskey = A
@@ -914,7 +919,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Cyfaddas
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = Cydbwysedd rhwng diogelwch a pherfformiad. Bydd tudalennau'n llwytho fel arfer.
 content-blocking-etp-strict-desc = Diogelwch cryfach, ond gall achosi i rai gwefannau neu gynnwys dorri.
