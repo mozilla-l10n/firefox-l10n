@@ -9,10 +9,7 @@
 <!ENTITY retry.label "Klopodi denove">
 <!ENTITY returnToPreviousPage.label "Iri reen">
 <!ENTITY returnToPreviousPage1.label "Reen (rekomendita)">
-<!ENTITY advanced.label "Spertula">
-<!ENTITY continue2.label "Pli…">
 <!ENTITY advanced2.label "Spertula…">
-<!ENTITY moreInformation.label "Pli da informo">
 <!ENTITY viewCertificate.label "Vidi atestilon">
 
 <!-- Specific error messages -->
@@ -130,13 +127,11 @@
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle1 "Via konekto ne estas sekura">
 <!ENTITY certerror.longpagetitle2 "Averto: Ebla sekureca risko antaŭ vi">
 <!ENTITY certerror.sts.longpagetitle  "Malsukcesa konekto: ebla sekureca problemo">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "La posedanto de <span class='hostname'/> malĝuste agordis sian retejon. Por protekti viajn datumojn kontraŭ ŝtelo, &brandShortName; ne konektiĝis al tiu ĉi retejo.">
 <!ENTITY certerror.introPara2 "&brandShortName; trovis eblan sekurecan riskon kaj ne konektiĝis al <span class='hostname'/>. Se vi tamen vizitas tiun ĉi retejon, atakantoj povus klopodi ŝteli informojn, kiel ezkemple viajn pasvortojn, retpoŝtajn mesaĝojn aŭ detalojn de via kreditkarto.">
 <!ENTITY certerror.sts.introPara "&brandShortName; trovis eblan sekurecan riskon kaj ne malfermis <span class='hostname'/> ĉar tiu retejo postulas sekuran konekton.">
 
@@ -164,11 +159,12 @@ was trying to connect. -->
 <!ENTITY cspBlocked.title "Blokita de la sekureca politiko pri enhavo">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ne permesis ŝargi la paĝon ĉi tiel, ĉar la paĝo havas sekurecan politikon pri enhavo kiu malpermesas tion.</p>">
 
+<!ENTITY xfoBlocked.title "Blokita de politiko X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; evitis la ŝargadon de la paĝo en tiu ĉi kunteksto, ĉar la paĝo havas politikon X-Frame-Options, kiu malpermesas tion.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Eraro pro difektita enhavo">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La paĝo, kiun vi klopodas vidi, ne povas esti montrita ĉar okazis eraro dum la transmeto de datumoj.</p><ul><li>Bonvolu kontakti la posedantojn de la retejo por raporti al ili tiun ĉi problemon.</li></ul>">
 
-
-<!ENTITY securityOverride.exceptionButtonLabel "Aldoni escepton…">
 <!ENTITY securityOverride.exceptionButton1Label "Akcepti la riskon kaj daŭrigi">
 
 <!ENTITY errorReporting.automatic2 "Raporti erarojn kiel tiu ĉi por helpi Mozillan identigi kaj bloki malicajn retejojn">
@@ -182,17 +178,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Spertula informo: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
-                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
-     tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; ne konektiĝis al <span id='wrongSystemTime_URL'/>, ĉar la horloĝo en via komputilo ŝajne montras malĝustan horon, kaj tio malebligas sekuran konekton.</p><p>La dato en via komputilo estas nun <span id='wrongSystemTime_systemDate'/>, sed ĝi devus esti <span id='wrongSystemTime_actualDate'/>. Por solvi ĉi tiun problemon, ŝanĝu la daton kaj horon, tiel ke ili estos ĝustaj.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; ne konektiĝis al <span id='wrongSystemTimeWithoutReference_URL'/>, ĉar la horloĝo en via komputilo ŝajne montras malĝustan horon, kaj tio malebligas sekuran konekton.</p><p>La dato en via komputilo estas nun <span id='wrongSystemTimeWithoutReference_systemDate'/>. Por solvi ĉi tiun problemon, ŝanĝu la daton kaj horon, tiel ke ili estos ĝustaj.</p>">
-
-<!ENTITY certerror.pagetitle1  "Nesekura konekto">
 <!ENTITY certerror.pagetitle2  "Averto: Ebla sekureca risko antaŭ vi">
 <!ENTITY certerror.sts.pagetitle  "Malsukcesa konekto: ebla sekureca problemo">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tiu ĉi retejo uzas HTTP
-Strict Transport Security (HSTS) por specifi ke &brandShortName; nur povas konekti ĝin sekure. Pro tio, ne eblas aldoni escepton por tiu ĉi atestilo.">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> uzas sekurecan politikon, kiun oni nomas HTTP Strict Transport Security (HSTS), kiu devigas &brandShortName; konektiĝi sekure. Vi ne povas aldoni escepton por viziti tiun ĉi retejon.">
 <!ENTITY certerror.copyToClipboard.label "Kopii tekston al tondujo">
 
@@ -215,6 +202,10 @@ Strict Transport Security (HSTS) por specifi ke &brandShortName; nur povas konek
 
 <!ENTITY prefReset.longDesc "Ŝajne viaj retaj sekurecaj agordoj povus esti la kaŭzo. Ĉu vi volas restarigi la normajn agordojn?">
 <!ENTITY prefReset.label "Restarigi normajn agordojn">
+
+<!ENTITY enableTls10.longDesc "Tiu ĉi retejo eble ne subtenas la protokolon TLS 1.2, kiu estas la minimuma versio subtenata de &brandShortName;. Ŝalto de TLS 1.0 kaj TLS 1.1 povus ebligi sukcesan konekton kun tiu ĉi retejo.">
+<!ENTITY enableTls10.note "TLS 1.0 kaj TLS 1.1 estos porĉiame malaktivaj en venonta versio.">
+<!ENTITY enableTls10.label "Aktivigi TLS 1.0 kaj 1.1">
 
 <!ENTITY networkProtocolError.title "Eraro en reta protokolo">
 <!ENTITY networkProtocolError.longDesc "<p>La paĝo, kiun vi provas vidi, ne povas esti montrita ĉar okazis eraro en la reta protokolo.</p><ul><li>Bonvolu kontakti la posedantojn de la retejo por raporti al ili tiun ĉi problemon.</li></ul>">
