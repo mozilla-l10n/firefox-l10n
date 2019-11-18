@@ -6,16 +6,21 @@ certificate-viewer-certificate-section-title = Certificado
 
 ## Error messages
 
+certificate-viewer-error-title = Algo correu mal.
 
 ## Certificate information labels
 
 certificate-viewer-algorithm = Algoritmo
+certificate-viewer-certificate-authority = Autoridade de certificação
 certificate-viewer-common-name = Nome comum
 certificate-viewer-email-address = Endereço de e-mail
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = País de filiação
 certificate-viewer-country = País
+certificate-viewer-curve = Curva
+certificate-viewer-distribution-point = Ponto de distribuição
 certificate-viewer-dns-name = Nome de DNS
+certificate-viewer-exponent = Exponente
 certificate-viewer-id = ID
 certificate-viewer-key-id = ID da chave
 certificate-viewer-key-size = Tamanho da chave
@@ -33,6 +38,8 @@ certificate-viewer-policy = Política
 certificate-viewer-protocol = Protocolo
 certificate-viewer-public-value = Valor público
 certificate-viewer-purposes = Propósitos
+certificate-viewer-qualifier = Qualificador
+certificate-viewer-qualifiers = Qualificadores
 certificate-viewer-required = Obrigatório
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Concelho/Distrito de filiação
@@ -42,14 +49,19 @@ certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Número de série
 certificate-viewer-signature-algorithm = Algoritmo da assinatura
 certificate-viewer-signature-scheme = Esquema da assinatura
+certificate-viewer-timestamp = Marcador temporal
 certificate-viewer-value = Valor
 certificate-viewer-version = Versão
 certificate-viewer-business-category = Categoria empresarial
 certificate-viewer-subject-name = Nome do sujeito
 certificate-viewer-issuer-name = Nome do emissor
 certificate-viewer-validity = Validade
+certificate-viewer-public-key-info = Informação da chave pública
 certificate-viewer-miscellaneous = Diversos
 certificate-viewer-fingerprints = Assinaturas digitais
+certificate-viewer-certificate-policies = Políticas de certificado
+certificate-viewer-embedded-scts = SCTs incorporadas
+certificate-viewer-crl-endpoints = Pontos de invocação da CRL
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Transferir

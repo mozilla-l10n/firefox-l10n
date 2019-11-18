@@ -584,6 +584,9 @@ sync-signedout-account-create = Não tem uma conta? Comece aqui
 sync-signedout-account-signin =
     .label = Iniciar sessão…
     .accesskey = I
+sync-signedout-account-signin2 =
+    .label = Iniciar sessão no { -sync-brand-short-name }…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download

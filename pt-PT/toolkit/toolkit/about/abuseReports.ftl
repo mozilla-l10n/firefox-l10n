@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Localized string used as the dialog window title (a new behavior locked
+# behind the "extensions.abuseReport.openDialog" preference).
+# "Report" is a noun in this case, "Report for AddonName".
+#
+# Variables:
+#   $addon-name (string) - Name of the add-on being reported
+abuse-report-dialog-title = Reportar para { $addon-name }
 abuse-report-title-extension = Reportar esta extensão à { -vendor-short-name }
 abuse-report-title-theme = Reportar este tema à { -vendor-short-name }
 abuse-report-subtitle = Qual é o problema?
@@ -52,8 +59,10 @@ abuse-report-messagebar-action-cancel = Cancelar
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = Danifica o meu computador e dados
+abuse-report-damage-reason-v2 = Danificou o meu computador ou comprometeu os meus dados
 abuse-report-damage-example = Exemplo: malware injetado ou dados furtados
 abuse-report-spam-reason = Cria spam ou publicidade
+abuse-report-spam-reason-v2 = Contém spam ou insere publicidade não-solicitada
 abuse-report-spam-example = Exemplo: inserir anúncios em páginas da web
 abuse-report-settings-reason = Alterou o meu motor de pesquisa, página inicial ou novo separador sem informar ou me perguntar
 abuse-report-settings-suggestions = Antes de reportar a extensão, pode tentar alterar as suas definições:
@@ -63,6 +72,8 @@ abuse-report-deceptive-reason = Finge ser algo que não é
 abuse-report-deceptive-example = Exemplo: descrição ou imagem enganosa
 abuse-report-broken-reason-extension = Não funciona, quebra websites ou torna o { -brand-product-name } lento
 abuse-report-broken-reason-theme = Não funciona ou quebra a exibição do navegador
+abuse-report-broken-reason-extension-v2 = Não funciona, quebra sites ou torna o { -brand-product-name } mais lento
+abuse-report-broken-reason-theme-v2 = Não funciona ou quebra a visualização do navegador
 abuse-report-broken-example = Exemplo: funcionalidades lentas, difíceis de usar ou não funcionam; partes de websites não são carregadas ou parecem invulgares
 abuse-report-broken-suggestions-extension =
     Parece que identificou um bug. Além de submeter um relatório aqui, a melhor maneira
@@ -73,8 +84,9 @@ abuse-report-broken-suggestions-theme =
     para obter um problema de funcionalidade resolvido é entrar em contacto com o programador do tema.
     <a data-l10n-name="support-link">Visite o website do tema</a> para obter informação do programador.
 abuse-report-policy-reason = Conteúdo odioso, violento ou ilegal
+abuse-report-policy-reason-v2 = Contém conteúdo odioso, violento, ou ilegal
 abuse-report-policy-suggestions =
-    Nota: os problemas de direitos de autor e marcas registadas devem ser reportados num processo separado.
+    Nota: os problemas de direitos de autor e marcas registadas devem ser reportados num processo em separado.
     <a data-l10n-name="report-infringement-link">Utilize estas instruções</a> para
     reportar o problema.
 abuse-report-unwanted-reason = Nunca quis esta extensão e não me consigo ver livre dela

@@ -31,6 +31,7 @@ protection-report-page-title = Proteções de privacidade
 protection-report-content-title = Proteções de privacidade
 etp-card-title = Proteção melhorada contra a monitorização
 etp-card-content = Os rastreadores seguem-no na Internet para recolher informação sobre os seus hábitos e interesses de navegação. O { -brand-short-name } bloqueia muitos desses rastreadores e outros "scripts" maliciosos.
+protection-report-etp-card-content-custom-not-blocking = Atualmente, todas as proteções estão desativadas. Escolha que rastreadores devem ser bloqueados gerindo as definições de proteção do { -brand-short-name }.
 protection-report-manage-protections = Gerir definições
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
