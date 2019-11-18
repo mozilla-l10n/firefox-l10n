@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Spegulitaj langetoj
 synced-tabs-sidebar-noclients-subtitle = Ĉu vi volas vidi ĉi tie viajn langetojn el aliaj aparatoj?
 synced-tabs-sidebar-notsignedin = Komencu seancon por vidi liston de langetoj el viaj aliaj aparatoj.
+synced-tabs-sidebar-intro = Vidi liston de langetoj en viaj aliaj aparatoj.
 synced-tabs-sidebar-unverified = Via konto bezonas esti kontrolita.
 synced-tabs-sidebar-notabs = Neniu malfermita langeto
 synced-tabs-sidebar-openprefs = Malfermi preferojn de { -sync-brand-short-name }
@@ -40,3 +41,4 @@ synced-tabs-context-sync-now =
     .label = Speguli nun
     .accesskey = S
 fxa-sign-in = Komenci seancon en { -sync-brand-short-name }
+turn-on-sync = Ŝalto de { -sync-brand-short-name }
