@@ -161,6 +161,8 @@ intl-regional-prefs = Préférences régionales
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
 remote-debugging-title = Débogage à distance (protocole Chromium)
+remote-debugging-accepting-connections = Accepter les connexions
+remote-debugging-url = URL
 
 
 
