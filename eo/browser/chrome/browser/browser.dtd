@@ -79,11 +79,13 @@ when there are no windows but Firefox is still running. -->
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Esplorado">
 <!ENTITY personalbarCmd.label "Ilaro de legosignoj">
 <!ENTITY personalbarCmd.accesskey "e">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Legosignoj">
 <!ENTITY bookmarksToolbarItem.label "Elementoj de ilaro de legosignoj">
 
 <!ENTITY pageSourceCmd.label "Fonto de paĝo">
@@ -125,7 +127,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Konfirmi vian konton">
 
 
- <!-- } is above this key on many keyboards -->
+<!ENTITY togglePictureInPicture.key2 "}">
+<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Malplejgrandigi">
 <!ENTITY fullScreenRestore.tooltip "Normala grando">
@@ -160,6 +163,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings2.label "Agordoj de &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Konekti alian aparaton…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -168,6 +172,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.firefoxServices.label "Servoj de &brandProductName;">
 
 <!ENTITY fxa.menu.account.label "Konto">
+<!ENTITY fxa.menu.settings.label "Agordoj">
+<!ENTITY fxa.menu.accountSettings.label "Agordoj de konto">
+<!ENTITY fxa.menu.signOut.label "Fini seancon…">
+<!ENTITY fxa.menu.deviceSettings.label "Agordoj de aparato">
+<!ENTITY fxa.menu.setupSync.label "Agordoj de &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -267,6 +276,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administri uzon de DRM programaro">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Malfermi panelon MIDI">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Vi aldonis permesojn al tiu ĉi retejo.">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Vi blokis vian filmilon por tiu ĉi retejo.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Vi blokis vian mikrofonon por tiu ĉi retejo.">
@@ -438,8 +448,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Ĉu vi volas vidi ĉi tie viajn langetojn el aliaj aparatoj?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Malfermi preferojn de spegulado">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Komencu seancon por vidi liston de langetoj el viaj aliaj aparatoj.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Vidi liston de langetoj en viaj aliaj aparatoj.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Via konto bezonas esti kontrolita.">
 <!ENTITY appMenuRemoteTabs.signin.label "Komencu seancon en Spegulado">
+<!ENTITY appMenuRemoteTabs.signintosync.label "Komenci seancon en &syncBrand.shortName.label;…">
+<!ENTITY appMenuRemoteTabs.turnonsync.label "Ŝalto de &syncBrand.shortName.label;…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Administri aparatojn…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vidi flankan strion de spegulitaj langetoj">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Kaŝi flankan strion de spegulitaj langetoj">
@@ -834,6 +847,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Sekura konekto">
 <!ENTITY identity.connectionNotSecure "Nesekura konekto">
 
+<!ENTITY identity.connectionSecure3 "Sekura konekto">
+<!ENTITY identity.connectionNotSecure2 "Nesekura konekto">
 <!ENTITY identity.connectionNotSecureSecurityView "Vi ne estas sekure konektita al tiu ĉi retejo.">
 <!ENTITY identity.connectionFile "Tiu ĉi paĝo estas konservita en via komputilo.">
 <!ENTITY identity.connectionVerified2 "Vi estas sekure konektita al tiu ĉi retejo, kies posedanto estas:">
@@ -843,6 +858,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Akreditiloj uzitaj en tiu ĉi paĝo povus esti riskitaj.">
 <!ENTITY identity.customRoot "Konekto kontrolita de eldoninto de atestilo, kiu ne estas rekonita de Mozilla.">
 
+<!ENTITY identity.evOwnerLabel2 "Atestilo eldonita por:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; blokis partojn de tiu ĉi paĝo, kiuj ne estas sekuraj.">
@@ -878,6 +894,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Permesoj">
 
+<!ENTITY identity.permissions3 "Permesoj">
 <!ENTITY identity.permissionsEmpty "Vi ne donis iun ajn specialan permeson al tiu ĉi retejo.">
 <!ENTITY identity.permissionsReloadHint "Vi eble bezonos reŝargi la paĝon por ke la ŝanĝoj estu aplikitaj.">
 <!ENTITY identity.permissionsPreferences.tooltip "Malfermi preferojn de permesoj">
@@ -890,6 +907,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Pli da informo pri la plibonigita protekto kontraŭ spurado">
 <!ENTITY protections.settings.label "Agordoj de protekto">
+<!ENTITY protections.showreport.label "Montri raporton">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
