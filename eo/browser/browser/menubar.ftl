@@ -147,13 +147,13 @@ menu-view-enter-full-screen =
     .label = Eniri plenekranan reĝimon
     .accesskey = n
 menu-view-exit-full-screen =
-    .label = Eliri el ekranplena reĝimo
+    .label = Eliri el plenekrana reĝimo
     .accesskey = l
 menu-view-full-screen =
     .label = Plenekrane
     .accesskey = P
 
-##
+
 
 menu-view-show-all-tabs =
     .label = Montri ĉiujn langetojn
@@ -276,8 +276,7 @@ menu-help-safe-mode-with-addons =
     .label = Restartigi kun aldonaĵoj aktivaj
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = Denunci trompan retejon…
     .accesskey = D

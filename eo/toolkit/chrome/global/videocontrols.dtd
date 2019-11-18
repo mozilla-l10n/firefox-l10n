@@ -6,8 +6,8 @@
 <!ENTITY playButton.pauseLabel "Paŭzigi">
 <!ENTITY muteButton.muteLabel "Silentigi">
 <!ENTITY muteButton.unmuteLabel "Malsilentigi">
-<!ENTITY fullscreenButton.enterfullscreenlabel "Ekranplena reĝimo">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Eliri el ekranplena reĝimo">
+<!ENTITY fullscreenButton.enterfullscreenlabel "Plenekrana reĝimo">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Eliri el plenekrana reĝimo">
 <!ENTITY castingButton.castingLabel "Sendi al ekrano">
 <!ENTITY closedCaption.off "Malŝaltita">
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
