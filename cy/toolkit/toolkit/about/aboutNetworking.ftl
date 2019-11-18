@@ -16,6 +16,7 @@ auto-refresh = Adnewyddu pob 3 eiliad
 hostname = Enw Gwesteiwr
 port = Porth
 http2 = HTTP/2
+about-networking-http-version = Fersiwn HTTP
 ssl = SSL
 active = Gweithredol
 idle = Segur

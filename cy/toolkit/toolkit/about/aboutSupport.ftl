@@ -136,7 +136,7 @@ media-capabilities-title = Gallu Cyfryngol
 # List all the entries of the database.
 media-capabilities-enumerate = Cyfrifo'r gronfa ddata
 
-##
+
 
 intl-title = Rhyngwladoli a Lleoleiddio
 intl-app-title = Gosodiadau'r Rhaglen
@@ -147,6 +147,22 @@ intl-locales-default = Locale Rhagosodedig
 intl-os-title = System Weithredu
 intl-os-prefs-system-locales = Locales y System
 intl-regional-prefs = Dewisiadau Rhanbarthol
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Dadfygio o Bell (Protocol Cromiwm)
+remote-debugging-accepting-connections = Derbyn Cysylltiadau
+remote-debugging-url = URL
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
