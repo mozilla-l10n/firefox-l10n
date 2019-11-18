@@ -39,7 +39,7 @@ graph-today = Hoje
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Um gráfico contendo o número total de cada tipo de rastreador bloqueado esta semana.
 social-tab-title = Rastreadores de redes sociais
-social-tab-contant = As redes sociais colocam rastreadores em outros sites que monitorização o que faz, vê e assiste na Internet. Isto permite que estas empresas de redes sociais saibam mais sobre si, para além do que partilha no seu perfil nas redes sociais. <a data-l10n-name="learn-more-link">Saber mais</a>
+social-tab-contant = As redes sociais colocam rastreadores em outros sites para monitorizar o que faz, vê e assiste na Internet. Isto permite que estas empresas de redes sociais saibam mais sobre si, para além do que partilha no seu perfil nas redes sociais. <a data-l10n-name="learn-more-link">Saber mais</a>
 cookie-tab-title = Cookies de monitorização inter-sites
 cookie-tab-content = Estas cookies seguem-no entre vários sites para recolher dados sobre o que faz na Internet. São definidas por terceiros, como anunciantes ou empresas de análise. O bloqueio de cookies de rastreamento inter-sites reduz o número de anúncios que o seguem. <a data-l10n-name="learn-more-link">Saber mais</a>
 tracker-tab-title = Monitorização de conteúdo
@@ -76,6 +76,7 @@ lockwise-sync-status =
 lockwise-sync-not-syncing-devices = Não está a sincronizar para outros dispositivos
 monitor-title = Procurar por violações de dados
 monitor-link = Como funciona
+monitor-header-content-no-account = Aceda ao { -monitor-brand-name } para confirmar se fez parte de uma violação de dados conhecida e para obter alertas sobre novas intrusões.
 monitor-header-content-signed-in = O { -monitor-brand-name } avisa-o se a sua informação apareceu numa violação de dados conhecida.
 monitor-sign-up = Registar para Alertas de violação
 auto-scan = Analisado hoje, de forma automática
