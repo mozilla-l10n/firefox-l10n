@@ -8,7 +8,9 @@
 
 <!ENTITY learnMore "Pli da informo…">
 
-<!ENTITY defaultButton.label "Akcepti">
+<!ENTITY learnMoreNoEllipsis "Pli da informo">
+
+<!ENTITY defaultButton.label "En ordo!">
 <!ENTITY defaultButton.accesskey "A">
 
 <!ENTITY moreActionsButton.accessibleLabel "Aliaj agoj">

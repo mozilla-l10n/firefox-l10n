@@ -31,6 +31,7 @@ protection-report-page-title = Protektoj de privateco
 protection-report-content-title = Protektoj de privateco
 etp-card-title = Plibonigita protekto kontraŭ spurado
 etp-card-content = Spuriloj sekvas vin en la reto por kolekti informon pri via kutima retumo kaj pri viaj interesoj. { -brand-short-name } blokas plurajn el tiuj spuriloj kaj aliajn malicajn skriptojn.
+protection-report-etp-card-content-custom-not-blocking = Ĉiuj protektoj estas nun malŝaltitaj. Elektu la spurilojn, kiujn vi volas bloki, per administrado de la agordoj pri protekto de { -brand-short-name }.
 protection-report-manage-protections = Administri agordojn
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
@@ -75,8 +76,34 @@ lockwise-sync-status =
 lockwise-sync-not-syncing-devices = Neniu spegulado al aliaj aparatoj.
 monitor-title = Estu atenta je datumfuĝoj
 monitor-link = Kiel funkcias tio
+monitor-header-content-no-account = Kontrolu { -monitor-brand-name } por vidi ĉu vi estis viktimo de konata datumfuĝo kaj ricevu atentigojn pri novaj datumfuĝoj.
+monitor-header-content-signed-in = { -monitor-brand-name } avertas vin se viaj informoj aperas en konata datumfuĝo.
 monitor-sign-up = Abonu la atentigojn pri datumfuĝoj
 auto-scan = Aŭtomate kontrolitaj hodiaŭ
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] retpoŝta adreso kontrolata
+       *[other] retpoŝtaj adresoj kontrolataj
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] konata datumfuĝo elmetis viajn informojn
+       *[other] konataj datumfuĝoj elmetis viajn informojn
+    }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] pasvorto elmetita en ĉiuj datumfuĝoj
+       *[other] pasvortoj elmetitaj en ĉiuj datumfuĝoj
+    }
 full-report-link = Vidi la tutan raporton en <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
