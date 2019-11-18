@@ -74,7 +74,6 @@ modified-key-prefs-title = Mga Mahalagang Binagong Kagustuhan
 modified-prefs-name = Pangalan
 modified-prefs-value = Halaga
 user-js-title = user.js Preferences
-user-js-description = Your profile folder contains a <a data-l10n-name="user-js-link">user.js file</a>, which includes preferences that were not created by { -brand-short-name }.
 locked-key-prefs-title = Mga Importanteng Nakapinid na Kagustuhan
 locked-prefs-name = Pangalan
 locked-prefs-value = Halaga
@@ -136,7 +135,7 @@ media-capabilities-title = Mga Media Capability
 # List all the entries of the database.
 media-capabilities-enumerate = Ilista ang database
 
-##
+
 
 intl-title = Internationalization & Localization
 intl-app-title = Mga Application Setting
@@ -147,6 +146,19 @@ intl-locales-default = Default Locale
 intl-os-title = Operating System
 intl-os-prefs-system-locales = Mga System Locale
 intl-regional-prefs = Mga Regional Preference
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
