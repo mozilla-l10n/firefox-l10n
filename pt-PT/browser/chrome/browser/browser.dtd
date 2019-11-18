@@ -946,9 +946,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.trackingContent.label "Conteúdo de monitorização">
 <!ENTITY protections.fingerprinters.label "Fingerprinters">
 <!ENTITY protections.cryptominers.label "Cryptominers">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Todos os rastreadores deste site foram carregados porque as proteções estão desativadas.">
 <!ENTITY protections.noTrackersFound.description "Nenhum tracker conhecido pelo &brandShortName; foi detetado nesta página.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Estes cookies seguem-no entre os vários sites para recolher dados sobre o que faz na Internet. São definidos por terceiros, como anunciantes e empresas de análise.">
 <!ENTITY protections.cryptominers.description "Os cripto-mineradores utilizam o poder de computação do seu sistema para minerar dinheiro digital. Os scripts de cripto-mineração podem descarregar a sua bateria, tornar o seu computador mais lento e aumentar os custos com a sua fatura elétrica.">
+<!ENTITY protections.fingerprinters.description "Os identificadores recolhem informações do seu navegador e computador para criar um perfil sobre si. Ao utilizar este identificador digital, estes podem monitorizá-lo em vários sites diferentes.">
+<!ENTITY protections.trackingContent2.description "Os sites podem carregar anúncios, vídeos e outros conteúdos externos com códigos de rastreamento. O bloqueio de conteúdos de rastreamento pode ajudar os sites a carregar mais rapidamente, mas alguns botões, formulários e campos de autenticação podem não funcionar.">
+<!ENTITY protections.socialMediaTrackers.description "As redes sociais colocam rastreadores em outros sites para monitorizar o que faz, vê e assiste na Internet. Isto permite que estas empresas de redes sociais saibam mais sobre si, para além do que partilha no seu perfil nas redes sociais.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -1016,6 +1021,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.learnMore "Saber mais">
 
 <!ENTITY contentBlocking.breakageReportView.title "Reportar um site quebrado">
+<!ENTITY contentBlocking.breakageReportView3.description "O bloqueio de determinados rastreadores pode causar problemas com alguns sites. Reportar estes problemas ajuda o &brandShortName; a melhorar para todos. O envio deste relatório irá enviar um endereço e informação sobre as suas definições do navegador à Mozilla.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Saber mais">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Que problemas teve? (opcional)">
