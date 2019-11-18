@@ -29,6 +29,9 @@ search-search-in = Serĉi en:
 
 search-bookmarks = Legosignoj
 search-history = Historio
+search-opentabs = Malfermitaj langetoj
+search-tags = Etikedoj
+search-titles = Titoloj
 
 
 
