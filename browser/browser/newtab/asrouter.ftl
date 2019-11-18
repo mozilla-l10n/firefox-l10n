@@ -128,10 +128,14 @@ cfr-doorhanger-sync-logins-ok-button = הפעלת { -sync-brand-short-name }
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-ok-button = לנסות את Send Tab
+    .accesskey = ל
 
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = שיתוף ה־PDF הזה באופן מאובטח
+cfr-doorhanger-firefox-send-ok-button = לנסות את { -send-brand-name }
+    .accesskey = ל
 
 ## Social Tracking Protection
 
