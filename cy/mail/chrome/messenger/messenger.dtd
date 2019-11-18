@@ -971,3 +971,7 @@
 <!ENTITY dockOptions.label              "Dewisiadau Eicon Ap…">
 <!ENTITY writeNewMessageDock.label      "Ysgrifennu Neges Newydd">
 <!ENTITY openAddressBookDock.label      "Agor y Llyfr Cyfeiriadau">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Nôl un tudalen">
+<!ENTITY browseForwardButton.tooltip "Mynd ymlaen un tudalen">
