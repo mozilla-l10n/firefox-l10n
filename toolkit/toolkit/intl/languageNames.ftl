@@ -188,6 +188,7 @@ language-name-tlh = Klingona
 language-name-tn = Cvana
 language-name-to = Tongaa
 language-name-tr = Turka
+language-name-trs = Trikia
 language-name-ts = Conga
 language-name-tt = Tatara
 language-name-tw = Akana
