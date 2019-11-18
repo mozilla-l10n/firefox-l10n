@@ -32,6 +32,8 @@ app-basics-name = Nomo
 app-basics-version = Versio
 app-basics-build-id = Identigilo de konstruo
 app-basics-update-channel = Kanalo de ĝisdatigo
+# This message refers to the folder used to store updates on the device,
+# as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Dosierujo de ĝisdatigoj
@@ -130,8 +132,11 @@ media-device-format = Formo
 media-device-channels = Kanaloj
 media-device-rate = Frekvenco
 media-device-latency = Prokrasto
+media-capabilities-title = Aŭdvidaĵaj kapabloj
+# List all the entries of the database.
+media-capabilities-enumerate = Listigi datumbazon
 
-##
+
 
 intl-title = Lingvo kaj internacieco
 intl-app-title = Agordoj de programo
@@ -142,6 +147,22 @@ intl-locales-default = Norma lingvo
 intl-os-title = Mastruma sistemo
 intl-os-prefs-system-locales = Lingvoj de la sistemo
 intl-regional-prefs = Regionaj preferoj
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Fora senerarigo (protokolo Chromium)
+remote-debugging-accepting-connections = Konektoj akceptataj
+remote-debugging-url = Retadreso
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

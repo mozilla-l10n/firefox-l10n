@@ -76,12 +76,19 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Strio de menuo">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Ilaro de navigado">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbarCmd.label "Ilaro de legosignoj">
 <!ENTITY personalbarCmd.accesskey "e">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY bookmarksToolbarItem.label "Elementoj de ilaro de legosignoj">
 
 <!ENTITY pageSourceCmd.label "Fonto de paĝo">
 <!ENTITY pageSourceCmd.accesskey "p">
+
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -92,6 +99,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Informo pri paĝo">
 <!ENTITY pageInfoCmd.accesskey "I">
+
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Erarserĉilo de aranĝo">
 <!ENTITY ldbCmd.accesskey "a">
@@ -116,6 +124,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Rekonekti al &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Konfirmi vian konton">
 
+
+ <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Malplejgrandigi">
 <!ENTITY fullScreenRestore.tooltip "Normala grando">
@@ -146,13 +156,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "Seanco komencita kiel">
 <!ENTITY fxa.menu.manageAccount.label "Administri konton…">
 <!ENTITY fxa.menu.syncSettings.label "Agordoj de &syncBrand.shortName.label;…">
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Konekti alian aparaton…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
 <!ENTITY fxa.menu.signin.label "Komenci seancon en &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Ŝalti &syncBrand.shortName.label;">
-<!ENTITY fxa.menu.account.label "Konto">
 <!ENTITY fxa.menu.firefoxServices.label "Servoj de &brandProductName;">
+
+<!ENTITY fxa.menu.account.label "Konto">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -172,7 +187,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      is uppercase, while on Mac keyboards it is lowercase -->
 <!ENTITY exitDOMFullscreen.button "Eliri el plenekrana reĝimo (Esk)">
 <!ENTITY exitDOMFullscreenMac.button "Eliri el plenekrana reĝimo (esk)">
-<!ENTITY leaveDOMFullScreen.label "Eliri el ekranplena reĝimo">
+<!ENTITY leaveDOMFullScreen.label "Eliri el plenekrana reĝimo">
 <!ENTITY leaveDOMFullScreen.accesskey "e">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
@@ -195,6 +210,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Legosignoj">
 <!ENTITY bookmarksMenu.accesskey "L">
+
 <!ENTITY bookmarkThisPageCmd.label "Aldoni legosignon por tiu ĉi paĝo">
 <!ENTITY editThisBookmarkCmd.label "Redakti tiun ĉi legosignon">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -236,6 +252,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administri uzon de kromprogramoj">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Decidi ĉu vi povas ricevi sciigojn el la retejo">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Konservi datumojn en daŭra konservejo">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "La retumilo estas sub fora regado">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Malfermi panelon de Teksaĵa aŭtentikigo">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Malfermi panelon de permesoj de retumo">
@@ -250,6 +267,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administri uzon de DRM programaro">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Malfermi panelon MIDI">
 
+
 <!ENTITY urlbar.cameraBlocked.tooltip            "Vi blokis vian filmilon por tiu ĉi retejo.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Vi blokis vian mikrofonon por tiu ĉi retejo.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Vi blokis dividon de la ekrano por tiu retejo.">
@@ -262,6 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Vi blokis la kromprogramon Adobe Flash en tiu ĉi retejo.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Vi blokis la aliron MIDI por tiu ĉi retejo.">
 <!ENTITY urlbar.installBlocked.tooltip           "Vi blokis la instalon de aldonaĵoj por tiu ĉi retejo.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Montri historion">
 
@@ -508,6 +527,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Kion serĉi">
+
 <!ENTITY contentSearchSubmit.tooltip  "Sendi serĉon">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -812,13 +832,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connection "Konekto">
 <!ENTITY identity.connectionSecure "Sekura konekto">
-
-<!-- LOCALIZATION NOTE (identity.securityView.label2)
-     This is the header of the security subview in the Site Identity panel. -->
-<!ENTITY identity.securityView.label2 "Sekureco de konekto">
-
-<!ENTITY identity.connectionSecure2 "Sekura konekto">
 <!ENTITY identity.connectionNotSecure "Nesekura konekto">
+
 <!ENTITY identity.connectionNotSecureSecurityView "Vi ne estas sekure konektita al tiu ĉi retejo.">
 <!ENTITY identity.connectionFile "Tiu ĉi paĝo estas konservita en via komputilo.">
 <!ENTITY identity.connectionVerified2 "Vi estas sekure konektita al tiu ĉi retejo, kies posedanto estas:">
@@ -828,7 +843,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Akreditiloj uzitaj en tiu ĉi paĝo povus esti riskitaj.">
 <!ENTITY identity.customRoot "Konekto kontrolita de eldoninto de atestilo, kiu ne estas rekonita de Mozilla.">
 
-<!ENTITY identity.evOwnerLabel "Retejo posedata de:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; blokis partojn de tiu ĉi paĝo, kiuj ne estas sekuraj.">
@@ -864,8 +878,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Permesoj">
 
-<!-- LOCALIZATION NOTE (identity.permissions2): "set" as in "configured for this website" -->
-<!ENTITY identity.permissions2 "Permesoj">
 <!ENTITY identity.permissionsEmpty "Vi ne donis iun ajn specialan permeson al tiu ĉi retejo.">
 <!ENTITY identity.permissionsReloadHint "Vi eble bezonos reŝargi la paĝon por ke la ŝanĝoj estu aplikitaj.">
 <!ENTITY identity.permissionsPreferences.tooltip "Malfermi preferojn de permesoj">
@@ -878,7 +890,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.etpMoreInfo.label "Pli da informo pri la plibonigita protekto kontraŭ spurado">
 <!ENTITY protections.settings.label "Agordoj de protekto">
-<!ENTITY protections.report.label "Montri tutan raporton">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
@@ -895,11 +906,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.siteNotWorkingView.issueList.payments "Pagoj">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "Komentoj">
 <!ENTITY protections.siteNotWorkingView.issueList.videos "Filmetoj">
-<!ENTITY protections.siteNotWorkingView.siteStillBroken.label "Ĉu post la malŝalto de protektoj la retejo ankoraŭ ne funkcias?">
 <!ENTITY protections.siteNotWorkingView.sendReport.label "Sendi raporton">
 
-<!ENTITY protections.blocking.label "Blokata">
-<!ENTITY protections.notBlocking.label "Neblokataj">
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Kial?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Blokado de tiuj ĉi elementoj povas misfunkciigi kelkajn retejojn. Sen spuriloj, kelkaj butonoj, formularoj, kaj legitimilaj kampoj, povus ne funkcii.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Malŝalto de protektoj permesos ĉiujn spurilojn en tiu ĉi retejo. Tio povus ankaŭ plibonigi la funkciado de la retejo.">
@@ -913,7 +930,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Tiuj ĉi kuketoj sekvas vin inter retejoj por kolekti informon pri via retumo. Ili estas difinitaj de aliaj, ekzemple de reklamistoj kaj retumanalizaj entreprenoj.">
 <!ENTITY protections.cryptominers.description "La miniloj de ĉifromono uzas la kalkulpovon de via komputilo por mini ciferecan monon. Minado de ĉifromono eluzas vian baterion, malrapidigas vian komputilon kaj povas konsumi pli da elekto, kiun vi devos pagi.">
 <!ENTITY protections.fingerprinters.description "La identigiloj de ciferecaj spuroj kolektas agordojn de via retumilo kaj komputilo por krei profilon de vi. Per tiu cifereca spuro, ili povas sekvi vin tra malsamaj retejoj.">
-<!ENTITY protections.trackingContent.description "Retejoj povas ŝargi eksterajn reklamojn, filmetojn kaj alian enhavon, kiuj havas spurilan kodon. Blokado de spurila enhavo povas rapidigi la ŝargadon de retejoj, sed kelkaj butonoj, formularoj kaj legitimilaj kampoj povus ne funkcii.">
 <!ENTITY protections.socialMediaTrackers.description "Socia retoj aldonas spurilojn en aliaj retejoj por sekvi vin kaj scii kion vi vidas kaj faras dum retumo. Tiu permesas al sociretaj entreprenoj havi informon pri vi, kiun vi ne dividas per viaj sociretaj profiloj.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -953,18 +969,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.trackingProtection3.label "Spuriloj">
 
 <!ENTITY contentBlocking.manageSettings.label "Administri blokadon de enhavo">
-
-<!ENTITY contentBlocking.trackingProtection4.label "Spurila enhavo">
-
-<!ENTITY contentBlocking.manageSettings2.label "Administri agordojn de protekto">
 <!ENTITY contentBlocking.manageSettings.accesskey "A">
 
 <!ENTITY contentBlocking.trackersView.label "Spuriloj">
-
 <!ENTITY contentBlocking.trackersView.strictInfo.label "Por bloki ĉiujn spurilojn, difinu la blokadon de enhavo kiel “Strikta”.">
 
 <!ENTITY contentBlocking.cookies.label "Kuketoj">
 <!ENTITY contentBlocking.cookiesView.label "Kuketoj kaj retejaj datumoj">
+
+<!ENTITY contentBlocking.trackingProtection4.label "Spurila enhavo">
+
+<!ENTITY contentBlocking.manageSettings2.label "Administri agordojn de protekto">
 
 <!ENTITY contentBlocking.socialblock.label "Sociretaj spuriloj">
 
@@ -980,6 +995,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Raporti problemojn">
 <!ENTITY contentBlocking.breakageReportView2.description "La blokado de enhavo povas okazigi problemojn en kelkaj retejoj. Se vi raportas problemojn, vi helpos nin plibonigi &brandShortName; por ĉiuj. (Tio ĉi sendos al Mozilla retadreson kaj informojn pri la agordoj de via retumilo.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Pli da informo">
+
 <!ENTITY contentBlocking.breakageReportView.title "Raporti ne bone funkciantan retejon">
 <!ENTITY contentBlocking.breakageReportView3.description "Blokado de kelkaj spuriloj povas misfunkciigi retejojn. Raportado de tiuj ĉi problemoj helpas plibonigi &brandShortName; por ĉiuj. Sendo de tiu ĉi raporto al Mozilla estos akompanata de retadreso kaj informo pri viaj retumilaj agordoj.">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Pli da informo">
@@ -1035,6 +1051,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "e">
 
 <!ENTITY homepageControlled.message "Etendaĵo ŝanĝis vian ĉefpaĝon. Vi povas restarigi viajn agordojn se vi ne akceptas tiun ŝanĝon.">
+
 <!ENTITY homepageControlled.header.message "Via ĉefpaĝo ŝanĝiĝis.">
 <!ENTITY homepageControlled.keepButton.label "Gardi ŝanĝojn">
 <!ENTITY homepageControlled.keepButton.accesskey "G">
