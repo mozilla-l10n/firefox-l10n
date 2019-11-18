@@ -139,7 +139,7 @@ media-capabilities-title = Capacités média
 # List all the entries of the database.
 media-capabilities-enumerate = Parcourir la base de données
 
-##
+
 
 intl-title = Langue et internationalisation
 intl-app-title = Paramètres d’application
@@ -150,6 +150,20 @@ intl-locales-default = Langue par défaut
 intl-os-title = Système d’exploitation
 intl-os-prefs-system-locales = Langues du système
 intl-regional-prefs = Préférences régionales
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Débogage à distance (protocole Chromium)
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
