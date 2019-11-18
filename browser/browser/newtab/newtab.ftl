@@ -86,6 +86,12 @@ newtab-menu-show-privacy-info = Unsere Sponsoren & Ihre Privatsphäre
 
 newtab-privacy-modal-button-done = Fertig
 newtab-privacy-modal-header = Ihre Privatsphäre ist wichtig.
+newtab-privacy-modal-paragraph =
+    Neben spannenden Geschichten zeigen wir Ihnen auch relevante,
+    geprüfte Inhalte von ausgewählten Sponsoren. Ihre 
+    Surf-Daten verlassen niemals Ihre { -brand-product-name }-Installation - wir sehen sie nicht und unsere
+    Sponsoren auch nicht.
+newtab-privacy-modal-link = Wie Datenschutz für die Tab-Startseite funktioniert
 
 
 
