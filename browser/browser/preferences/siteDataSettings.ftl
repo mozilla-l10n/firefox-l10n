@@ -19,6 +19,8 @@ site-data-column-storage =
     .label = Konservejo
 site-data-column-last-used =
     .label = Laste uzita
+# This label is used in the "Host" column for local files, which have no host.
+site-data-local-file-host = (loka dosiero)
 site-data-remove-selected =
     .label = Forigi elektitajn
     .accesskey = e
@@ -28,11 +30,6 @@ site-data-button-cancel =
 site-data-button-save =
     .label = Konservi ŝanĝojn
     .accesskey = K
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (persista)
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
