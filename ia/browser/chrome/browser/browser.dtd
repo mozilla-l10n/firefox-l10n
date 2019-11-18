@@ -577,8 +577,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Cambiar le parametros de recerca">
-<!ENTITY changeSearchSettings.tooltip "Cambiar le parametros de recerca">
+<!ENTITY changeSearchSettings.button  "Preferentias de recerca">
+<!ENTITY changeSearchSettings.tooltip "Cambiar le preferentias de recerca">
 
 <!ENTITY searchInNewTab.label         "Cercar in le nove scheda">
 <!ENTITY searchInNewTab.accesskey     "C">
