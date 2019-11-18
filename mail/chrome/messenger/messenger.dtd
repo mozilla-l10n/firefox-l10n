@@ -971,3 +971,7 @@
 <!ENTITY dockOptions.label              "Nastavenia ikony aplikácie…">
 <!ENTITY writeNewMessageDock.label      "Nová e-mailová správa">
 <!ENTITY openAddressBookDock.label      "Otvoriť adresár">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Prejsť naspäť o jednu stránku">
+<!ENTITY browseForwardButton.tooltip "Prejsť dopredu o jednu stránku">
