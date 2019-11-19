@@ -289,6 +289,10 @@ shortcuts-letter = Escrever uma letra
 shortcuts-system = Não é possível sobrepor um atalho do { -brand-short-name }
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Atalho duplicado
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } está a ser utilizado como um atalho em mais do que um caso. Atalhos duplicados podem causar comportamentos inesperados.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
