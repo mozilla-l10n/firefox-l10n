@@ -129,7 +129,7 @@ permissions-site-notification-disable-desc = Isto irá impedir quaisquer sites n
 permissions-site-location-window =
     .title = Definições - Permissões de localização
     .style = { permissions-window.style }
-permissions-site-location-desc = Os sites seguintes solicitaram o acesso à sua localização. Pode especificar quais os sites que têm permissão para aceder à sua localização. Pode também bloquear novos pedidos, solicitando que seja pedida autorização para aceder à sua localização.
+permissions-site-location-desc = Os sites seguintes solicitaram acesso à sua localização. Pode especificar quais os sites que têm permissão para aceder à sua localização. Pode também bloquear novos pedidos, solicitando que seja pedida autorização para aceder à sua localização.
 permissions-site-location-disable-label =
     .label = Bloquear novas solicitações a perguntar para aceder à sua localização
 permissions-site-location-disable-desc = Isto irá impedir quaisquer sites não listados acima de solicitar permissão para aceder à sua localização. Bloquear o acesso à sua localização pode quebrar algumas funcionalidades dos sites.
@@ -139,17 +139,17 @@ permissions-site-location-disable-desc = Isto irá impedir quaisquer sites não 
 permissions-site-camera-window =
     .title = Definições - Permissões de câmara
     .style = { permissions-window.style }
-permissions-site-camera-desc = Os seguintes websites solicitaram para aceder à sua câmara. Pode especificar quais os websites que têm permissão para aceder à sua câmara. Pode também bloquear novas solicitações a perguntar para aceder à sua câmara.
+permissions-site-camera-desc = Os sites seguintes solicitaram acesso à sua câmara. Pode especificar quais os sites que têm permissão para aceder à sua câmara. Pode também bloquear novos pedidos, solicitando que seja pedida autorização para aceder à sua câmara.
 permissions-site-camera-disable-label =
     .label = Bloquear novas solicitações a perguntar para aceder à sua câmara
-permissions-site-camera-disable-desc = Isto irá impedir quaisquer websites não listados acima de solicitar permissão para aceder à sua câmara. Bloquear notificações pode quebrar algumas funcionalidades de websites.
+permissions-site-camera-disable-desc = Isto irá impedir quaisquer sites não listados acima de solicitar permissão para aceder à sua câmara. Bloquear o acesso à sua câmara pode quebrar algumas funcionalidades dos sites.
 
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
     .title = Definições - Permissões de microfone
     .style = { permissions-window.style }
-permissions-site-microphone-desc = Os seguintes websites solicitaram para aceder ao seu microfone. Pode especificar quais os websites que têm permissão para aceder ao seu microfone. Pode também bloquear novas solicitações a perguntar para aceder ao seu microfone.
+permissions-site-microphone-desc = Os sites seguintes solicitaram acesso ao seu microfone. Pode especificar quais os sites que têm permissão para aceder ao seu microfone. Pode também bloquear novos pedidos, solicitando que seja pedida autorização para aceder ao seu microfone.
 permissions-site-microphone-disable-label =
     .label = Bloquear novas solicitações a perguntar para aceder ao seu microfone
-permissions-site-microphone-disable-desc = Isto irá impedir quaisquer websites não listados acima de solicitar permissão para aceder ao seu microfone. Bloquear notificações pode quebrar algumas funcionalidades de websites.
+permissions-site-microphone-disable-desc = Isto irá impedir quaisquer sites não listados acima de solicitar permissão para aceder ao seu microfone. Bloquear o acesso ao seu microfone pode quebrar algumas funcionalidades dos sites.

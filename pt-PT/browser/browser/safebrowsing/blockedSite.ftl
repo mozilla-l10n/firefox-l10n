@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 safeb-blocked-phishing-page-title = Site decetivo adiante
-safeb-blocked-malware-page-title = Visitar este website pode prejudicar o seu computador
+safeb-blocked-malware-page-title = Visitar este site pode danificar o seu computador
 safeb-blocked-unwanted-page-title = O site adiante pode conter programas prejudiciais
 safeb-blocked-harmful-page-title = O site adiante pode conter malware
 safeb-blocked-phishing-page-short-desc = O { -brand-short-name } bloqueou esta página porque poderia tentar levar-lhe a fazer algo perigoso como instalar software ou revelar informação pessoal como palavras-passe ou cartões de crédito.

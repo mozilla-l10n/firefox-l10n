@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Enviar um sinal “Do Not Track” significando que não pretende ser monitorizado(a)
+do-not-track-description = Enviar um sinal “Do Not Track” aos sites com a indicação que não quer ser monitorizado(a)
 do-not-track-learn-more = Saber mais
 do-not-track-option-default-content-blocking-known =
     .label = Apenas quando o { -brand-short-name } está definido para bloquear os rastreadores conhecidos
@@ -93,7 +93,7 @@ extension-controlled-default-search = Uma extensão, <img data-l10n-name="icon"/
 extension-controlled-privacy-containers = Uma extensão, <img data-l10n-name="icon"/> { $name }, requer separadores contentores.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlled-websites-content-blocking-all-trackers = Uma extensão,<img data-l10n-name="icon"/>{ $name }, está a controlar esta definição.
+extension-controlled-websites-content-blocking-all-trackers = Uma extensão, <img data-l10n-name="icon"/>{ $name }, está a controlar esta definição.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlled-proxy-config = Uma extensão, <img data-l10n-name="icon"/> { $name }, está a controlar como o { -brand-short-name } se liga à internet.
@@ -736,8 +736,8 @@ privacy-header = Privacidade do navegador
 logins-header = Credenciais e palavras-passe
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
-    .label = Perguntar para guardar credenciais e palavras-passe para websites
-    .accesskey = r
+    .label = Pedir para guardar credenciais e palavras-passe para sites
+    .accesskey = P
 forms-exceptions =
     .label = Exceções…
     .accesskey = x
@@ -837,9 +837,9 @@ sitedata-option-block-cross-site-and-social-media-trackers =
 sitedata-option-block-unvisited =
     .label = Cookies de sites não visitados
 sitedata-option-block-all-third-party =
-    .label = Todos os cookies de terceiros (pode causar com que websites quebrem)
+    .label = Todos os cookies de terceiros (poderá resultar em falhas nos sites)
 sitedata-option-block-all =
-    .label = Todos os cookies (irá causar com que websites quebrem)
+    .label = Todos os cookies (irá resultar na falha de sites)
 sitedata-clear =
     .label = Limpar dados…
     .accesskey = L
@@ -919,7 +919,7 @@ content-blocking-all-third-party-cookies = Todos os cookies de terceiros
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 content-blocking-warning-title = Atenção!
-content-blocking-warning-description = Bloquear conteúdo pode causar com que alguns websites quebrem. É fácil desativar o bloqueio para sites em que confia.
+content-blocking-warning-description = O bloqueio de conteúdo pode fazer com que alguns sites quebrem. É fácil desativar o bloqueio para sites em que confia.
 content-blocking-learn-how = Saber mais
 content-blocking-etp-warning-description = O bloqueio de rastreadores poderá afetar a funcionalidade de alguns sites. Recarregue uma página com rastreadores para carregar todo o conteúdo.
 content-blocking-warning-learn-how = Saiba como
@@ -947,13 +947,13 @@ content-blocking-expand-section =
     .tooltiptext = Mais informação
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
-    .label = Cryptominers
-    .accesskey = y
+    .label = Cripto-mineradores
+    .accesskey = C
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Fingerprinters
-    .accesskey = F
+    .label = Identificadores
+    .accesskey = I
 
 ## Privacy Section - Tracking
 
@@ -985,8 +985,8 @@ permissions-notification-pause =
     .label = Pausar notificações até o { -brand-short-name } reiniciar
     .accesskey = n
 permissions-block-autoplay-media2 =
-    .label = Bloquear websites de reproduzir som automaticamente
-    .accesskey = B
+    .label = Impedir os sites de reproduzir som automaticamente
+    .accesskey = I
 permissions-block-autoplay-media-exceptions =
     .label = Exceções…
     .accesskey = E
@@ -1001,7 +1001,7 @@ permissions-block-popups-exceptions =
     .label = Exceções…
     .accesskey = E
 permissions-addon-install-warning =
-    .label = Avisar-lhe quando os websites tentam instalar extras
+    .label = Avisar quando os sites tentam instalar extras
     .accesskey = A
 permissions-addon-exceptions =
     .label = Exceções…
@@ -1087,13 +1087,13 @@ space-alert-over-5gb-pref-button =
         }
 space-alert-over-5gb-message =
     { PLATFORM() ->
-        [windows] O { -brand-short-name } está a ficar sem espaço em disco. Os conteúdos de websites podem não ser mostrados corretamente. Pode limpar os dados armazenados em Opções > Privacidade e Segurança > Cookies e dados de sites.
-       *[other] O { -brand-short-name } está a ficar sem espaço em disco. Os conteúdos de websites podem não ser mostrados corretamente. Pode limpar os dados armazenados em Preferências > Privacidade e Segurança > Cookies e dados de sites.
+        [windows] O { -brand-short-name } está a ficar sem espaço em disco. Os conteúdos de sites podem não ser apresentados corretamente. Pode limpar os dados armazenados em Opções > Privacidade e segurança > Cookies e dados de sites.
+       *[other] O { -brand-short-name } está a ficar sem espaço em disco. Os conteúdos de sites podem não ser apresentados corretamente. Pode limpar os dados armazenados em Preferências > Privacidade e segurança > Cookies e dados de sites.
     }
 space-alert-under-5gb-ok-button =
     .label = OK, entendi
     .accesskey = K
-space-alert-under-5gb-message = O { -brand-short-name } está a ficar sem espaço em disco. Os conteúdos de websites podem não ser mostrados devidamente. Visite “Saber mais” para otimizar a utilização do seu disco para melhor experiência de navegação.
+space-alert-under-5gb-message = O { -brand-short-name } está a ficar sem espaço em disco. Os conteúdos de sites podem não ser apresentados corretamente. Visite “Saber mais” para otimizar a utilização do seu disco e melhorar a experiência de navegação.
 
 ## The following strings are used in the Download section of settings
 
