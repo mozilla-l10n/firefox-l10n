@@ -89,6 +89,9 @@ manifest-loaded-ok = Manifest naložen.
 # Text displayed as a caption when there has been an error while trying to
 # load the manifest
 manifest-loaded-error = Pri nalaganju manifesta je prišlo do napake:
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = Napaka Firefoxovih razvojnih orodij
 # Text displayed when the page has no manifest available
 manifest-non-existing = Ni najdenega manifesta za pregled.
 # Text displayed when the page has a manifest embedded in a Data URL and
@@ -101,6 +104,13 @@ manifest-icon-purpose = Namen: <code>{ $purpose }</code>
 # manifest.
 manifest-icon-img =
     .alt = Ikona
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = Ikona z velikostmi: { $sizes }
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest, in case there's no icon size specified by the user
+manifest-icon-img-title-no-sizes = Ikona nedoločene velikosti
 # Sidebar navigation item for Manifest sidebar item section
 sidebar-item-manifest = Manifest
     .alt = Ikona manifesta

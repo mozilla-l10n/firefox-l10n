@@ -452,6 +452,7 @@ theme-heading = Upravljanje tem
 plugin-heading = Upravljanje vtičnikov
 dictionary-heading = Upravljanje slovarjev
 locale-heading = Upravljanje jezikov
+updates-heading = Upravljanje posodobitev
 discover-heading = Prilagodite svoj { -brand-short-name }
 shortcuts-heading = Upravljanje bližnjic razširitev
 theme-heading-search-label = Poišči več tem

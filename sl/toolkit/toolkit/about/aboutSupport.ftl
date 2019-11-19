@@ -39,8 +39,8 @@ app-basics-update-channel = Posodobitveni kanal
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] Posodobi mapo
-       *[other] Posodobi mapo
+        [linux] Mapa za posodobitve
+       *[other] Mapa za posodobitve
     }
 app-basics-update-history = Zgodovina posodobitev
 app-basics-show-update-history = Prikaži zgodovino posodobitev
@@ -160,6 +160,8 @@ intl-regional-prefs = Območne nastavitve
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Oddaljeno razhroščevanje (protokol Chromium)
+remote-debugging-accepting-connections = Sprejema povezave
 remote-debugging-url = URL
 
 

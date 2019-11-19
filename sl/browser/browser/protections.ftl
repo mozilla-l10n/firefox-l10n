@@ -35,6 +35,7 @@ protection-report-page-title = Zaščite zasebnosti
 protection-report-content-title = Zaščite zasebnosti
 etp-card-title = Izboljšana zaščita pred sledenjem
 etp-card-content = Sledilci vas spremljajo po spletu ter zbirajo podatke o vaših navadah in zanimanjih. { -brand-short-name } zavrača veliko teh sledilcev in drugih zlonamernih skriptov.
+protection-report-etp-card-content-custom-not-blocking = Vse zaščite so trenutno izklopljene. V nastavitvah { -brand-short-name }a izberite, katere sledilce želite zavračati.
 protection-report-manage-protections = Upravljanje nastavitev
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.

@@ -34,6 +34,11 @@ cfr-doorhanger-extension-notification = Priporočilo
 cfr-doorhanger-extension-notification2 = Priporočilo
     .tooltiptext = Priporočilo razširitve
     .a11y-announcement = Na voljo je priporočilo razširitve
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Priporočilo
+    .tooltiptext = Priporočilo možnosti
+    .a11y-announcement = Na voljo je priporočilo možnosti
 
 ## Add-on statistics
 ## These strings are used to display the total number of
