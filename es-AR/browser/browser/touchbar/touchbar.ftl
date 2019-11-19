@@ -20,7 +20,7 @@ share = Compartir
 close-window = Cerrar ventana
 open-sidebar = Barras laterales
 # This string describes shortcuts for search.
-search-popover = Buscar atajos
+search-popover = Atajos de búsqueda
 # Describes searches limited to a specific scope
 # (e.g. searching only in history).
 search-search-in = Buscar en:
