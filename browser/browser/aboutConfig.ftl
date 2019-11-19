@@ -10,6 +10,21 @@ about-config-warning-button = Mi akceptas la riskon
 about-config2-title = Spertulaj agordoj
 about-config-search-input =
     .placeholder = Serĉi
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-title = Daŭrigu singarde
+about-config-intro-warning-text = La ŝanĝo de spertulaj agordaj preferoj povas efiki sur la sekureco kaj efikeco de { -brand-short-name }.
+about-config-intro-warning-checkbox = Averti min kiam mi pretas aliri tiujn ĉi preferojn
+about-config-intro-warning-button = Akcepti la riskon kaj daŭrigi
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = La ŝanĝo de tiuj ĉi preferoj povas efiki sur la sekureco kaj efikeco de { -brand-short-name }.
+about-config-page-title = Spertulaj preferoj
+about-config-search-input1 =
+    .placeholder = Serĉi nomon de prefero
 about-config-show-all = Montri ĉiujn
 about-config-pref-add = Aldoni
 about-config-pref-toggle = Baskuligi
