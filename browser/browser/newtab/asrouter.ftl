@@ -155,7 +155,7 @@ cfr-doorhanger-firefox-send-ok-button = { -send-brand-name } wupruwować
 
 ## Social Tracking Protection
 
-cfr-doorhanger-socialtracking-ok-button = Škity pokazać
+cfr-doorhanger-socialtracking-ok-button = Škit pokazać
     .accesskey = p
 cfr-doorhanger-socialtracking-close-button = Začinić
     .accesskey = Z
