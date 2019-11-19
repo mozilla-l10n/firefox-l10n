@@ -153,7 +153,7 @@ menu-view-full-screen =
     .label = पूर्ण स्क्रीन
     .accesskey = F
 
-##
+
 
 menu-view-show-all-tabs =
     .label = सभी टैब दिखाएँ
@@ -212,6 +212,9 @@ menu-tools-addons =
 menu-tools-sync-sign-in =
     .label = { -sync-brand-short-name } में साइन इन करें...
     .accesskey = Y
+menu-tools-fxa-sign-in =
+    .label = { -brand-product-name }… के लिए साइन इन करें
+    .accesskey = g
 menu-tools-sync-now =
     .label = अब तुल्यकालित करें
     .accesskey = S
@@ -276,8 +279,7 @@ menu-help-safe-mode-with-addons =
     .label = सक्षम सहयुक्तियों के साथ फिर आरंभ करें
     .accesskey = R
 # Label of the Help menu item. Either this or
-# safeb.palm.notdeceptive.label from
-# phishing-afterload-warning-message.dtd is shown.
+# menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = भ्रमकारी भुजाल प्रतिवेदन…
     .accesskey = d

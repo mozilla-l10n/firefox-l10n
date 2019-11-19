@@ -138,6 +138,10 @@ newtab-section-menu-privacy-notice = गोपनीयता नीति
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = अनुभाग संक्षिप्त करें
+newtab-section-expand-section-label =
+    .aria-label = अनुभाग विस्तृत करें
 
 ## Section Headers.
 
