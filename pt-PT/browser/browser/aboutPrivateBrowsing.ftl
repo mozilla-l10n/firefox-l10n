@@ -24,8 +24,8 @@ about-private-browsing =
     .title = Pesquisar na Web
 about-private-browsing-not-private = Atualmente, não está numa janela privada.
 content-blocking-title = Bloqueio de conteúdo
-content-blocking-description = Alguns websites utilizam trackers que podem monitorizar a sua atividade pela Internet. Nas janelas privadas o Bloqueio de conteúdo do { -brand-short-name } bloqueia automaticamente muitos trackers que podem recolher informação acerca do seu comportamento de navegação.
-about-private-browsing-info-description = O { -brand-short-name } limpa o seu histórico de pesquisa e navegação quando sai da aplicação ou fecha todos os separadores e janelas de navegação privada. Embora não lhe torne anónimo(a) para websites ou o seu provedor de serviço de internet, isto torna mais fácil manter privado o que faz online de alguém que utiliza este computador.
+content-blocking-description = Alguns sites utilizam rastreadores que podem monitorizar a sua atividade pela Internet. Nas janelas privadas o Bloqueio de conteúdo do { -brand-short-name } bloqueia automaticamente muitos dos rastreadores que podem recolher informações sobre o seu comportamento de navegação.
+about-private-browsing-info-description = O { -brand-short-name } limpa o seu histórico de pesquisa e navegação quando sai da aplicação ou fecha todos os separadores e janelas de navegação privada. Embora não o torne anónimo(a) para sites ou para o seu provedor de serviço de Internet, isto torna mais fácil manter privado o que faz na Internet de alguém que utilize este computador.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
