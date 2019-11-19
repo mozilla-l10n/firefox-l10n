@@ -136,7 +136,7 @@ media-capabilities-title = Hupytyha pyrusukue
 # List all the entries of the database.
 media-capabilities-enumerate = Embopapapy mba’ekuaarã guapyha
 
-##
+
 
 intl-title = Mongakuaa & ñemohenda
 intl-app-title = Tembipuru'i ñemboheko
@@ -147,6 +147,22 @@ intl-locales-default = Ñe'ẽnguéra ijypykuéva
 intl-os-title = Apopyvusu oku'éva
 intl-os-prefs-system-locales = Ñe'ẽnguéra apopyvusu rehegua
 intl-regional-prefs = Jerohoryvéva tendaguáva
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Ñemopotĩ okayguáva (Chromium raperekoite)
+remote-debugging-accepting-connections = Emoneĩ jeike
+remote-debugging-url = URL
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

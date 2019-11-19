@@ -16,6 +16,7 @@ auto-refresh = Embopiro'y ijehegui 3 aravo'ive og̃uahẽvo
 hostname = Mohendahavusu réra
 port = Mbojuajuhaite
 http2 = HTTP/2
+about-networking-http-version = HTTP peteĩchagua
 ssl = SSL
 active = Myandypyre
 idle = okéva

@@ -81,6 +81,7 @@ about-logins-intro-instruction-help = Eho <a data-l10n-name="help-link">-pe { -l
 login-item-new-login-title = Tembiapo ñepyrũ pyahu moheñói
 login-item-edit-button = Mbosako'i
 login-item-delete-button = Mboguete
+about-logins-login-item-remove-button = Mboguete
 login-item-origin-label = Ñanduti kundaharape
 login-item-origin =
     .placeholder = https://www.example.com
@@ -124,6 +125,7 @@ enable-password-sync-preferences-button =
            *[other] Eike { -sync-brand-short-name } Oguerohoryvévape
         }
     .accesskey = V
+confirm-delete-dialog-title = ¿Embogue ko tembiapo ñepyrũ?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Anive eporandujey
     .accesskey = D
@@ -133,9 +135,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Heja
 confirmation-dialog-dismiss-button =
     .title = Heja
-confirm-delete-dialog-title = ¿Embogue ko tembiapo ñepyrũ?
+about-logins-confirm-remove-dialog-title = ¿Emboguete ko tembiapo ñepyrũ?
 confirm-delete-dialog-message = Ko tembiapoite ndaikatúi emboguevi.
 confirm-delete-dialog-confirm-button = Mboguete
+about-logins-confirm-remove-dialog-confirm-button = Mboguete
 confirm-discard-changes-dialog-title = ¿Emboyke moambue eñongatu’ỹva?
 confirm-discard-changes-dialog-message = Opaite ñemoambue oñeñongatu’ỹva oguepáta.
 confirm-discard-changes-dialog-confirm-button = Hejarei

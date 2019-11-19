@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Tembiapo Ñandutigua Derécho (TÑD) retepy
 play-drm-content =
@@ -584,6 +584,9 @@ sync-signedout-account-create = Nanemba'etéi gueteri piko? Ejapomi
 sync-signedout-account-signin =
     .label = Eike…
     .accesskey = I
+sync-signedout-account-signin2 =
+    .label = Eñepyrũ tembiapo { -sync-brand-short-name }-pe…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -731,6 +734,7 @@ privacy-header = Kundahára Ñemigua
 ## Privacy Section - Logins and Passwords
 
 logins-header = Tembiapo ñepyrũ ha ñe’ẽñemi
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Eporandu eñongatu hag̃ua tembiapo ñepyrũ ha ñe’ẽñemi ñandutípe
     .accesskey = E
@@ -744,6 +748,7 @@ forms-breach-alerts =
     .label = Ehechauka kyhyjerã ñe’ẽñemi rehegua tenda imarãvape
     .accesskey = b
 forms-breach-alerts-learn-more-link = Kuaave
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Tembiapo ñepyrũ ha ñe’ẽñemi myanyhẽjehegui
     .accesskey = i
@@ -898,7 +903,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Ñemomba’epyre
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = Imbytéva ñemo’ã ha tembiapokuépe g̃uarã. Umi kuatiarogue henyhẽta hekoitépe.
 content-blocking-etp-strict-desc = Ñemo’ãve, hákatu ikatu ndahetái tenda térã tetepy nahenyhẽi.
