@@ -137,7 +137,7 @@ media-device-rate = Taxa
 media-device-latency = Latência
 media-capabilities-title = Recursos de media
 # List all the entries of the database.
-media-capabilities-enumerate = Base de dados de enumeração
+media-capabilities-enumerate = Enumeração de base de dados
 
 
 
@@ -160,6 +160,9 @@ intl-regional-prefs = Preferências regionais
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Depuração remota (Protocolo do Chromium)
+remote-debugging-accepting-connections = A aceitar ligações
+remote-debugging-url = Endereço
 
 
 
