@@ -60,6 +60,7 @@ about-logins-login-intro-heading-logged-in = कोई संकलित लॉ
 login-item-new-login-title = नया लॉगिन बनाएं
 login-item-edit-button = संपादित करें
 login-item-delete-button = मिटाएं
+about-logins-login-item-remove-button = हटाएँ
 login-item-origin-label = वेबसाइट का पता
 login-item-origin =
     .placeholder = https://www.example.com
@@ -91,15 +92,19 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+confirm-delete-dialog-title = इस लॉगिन को मिटाएं?
 
 ## Dialogs
 
 confirmation-dialog-cancel-button = रद्द करें
 confirmation-dialog-dismiss-button =
     .title = रद्द करें
-confirm-delete-dialog-title = इस लॉगिन को मिटाएं?
+about-logins-confirm-remove-dialog-title = इस लॉगिन को हटाएँ?
 confirm-delete-dialog-message = इस क्रिया को पहले जैसा नहीं किया जा सकता।
 confirm-delete-dialog-confirm-button = मिटाएं
+about-logins-confirm-remove-dialog-confirm-button = हटाएँ
+confirm-discard-changes-dialog-title = न सहेजे गए परिवर्तनों को छोड़ें?
+confirm-discard-changes-dialog-confirm-button = छोड़ें
 
 ## Breach Alert notification
 
