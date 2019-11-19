@@ -21,10 +21,13 @@
 <!ENTITY firstrun_data_message "Malpli da datumoj, pli da ŝparo">
 <!ENTITY firstrun_data_subtext2 "Malŝalti bildojn, por uzi malpli da datumoj en ĉiu vizitata retejo.">
 <!ENTITY firstrun_sync_title "Speguli">
+<!ENTITY firstrun_sync_message3 "Spegulu viajn legosignojn, historion kaj pasvortojn en via telefono.">
 <!ENTITY updatednewfirstrun_sync_title "Konto">
 <!ENTITY firstrun_sync_message2 "Rekomencu kie vi haltis.">
 <!ENTITY firstrun_sync_subtext2 "Uzu Speguli por retrovi en ĉiuj viaj aparatoj la legosignojn, pasvortojn kaj aliajn aferojn kiun vi konservis en &brandShortName;.">
 <!ENTITY newfirstrun_sync_subtext "Sekure kaj private spegulu en la komputila Firefox la aferojn, kiujn vi konservas en poŝaparatoj.">
+<!ENTITY firstrun_sendtab_title "Sendi langeton">
+<!ENTITY firstrun_sendtab_message "Dividi langetojn inter poŝaparatoj kaj komputiloj — tuj.">
 <!ENTITY updatednewfirstrun_sync_subtext "Komencu seancon en via konto por eltiri la maksimumon el &brandShortName;">
 <!ENTITY firstrun_signin_message "Komencu seancon kaj eku">
 <!ENTITY firstrun_signin_button "Komenci seancon en Speguli">
@@ -33,6 +36,9 @@
 <!ENTITY  onboard_start_button_browser "Komenci retumi">
 <!ENTITY firstrun_button_notnow "Nun ne">
 <!ENTITY firstrun_button_next "Antaŭen">
+<!ENTITY firstrun_signup_button "Registriĝi">
+
+<!ENTITY firstrun_signin_button2 "Komenci seancon">
 
 <!ENTITY firstrun_tabqueue_title "Ligiloj">
 
@@ -495,6 +501,7 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY share "Havigi">
 <!ENTITY share_title "Havigi per">
 <!ENTITY share_image_failed "Ne eblas dividi tiun ĉi bildon">
+<!ENTITY share_error_toast_message "Ne eblis dividi ion kun la celita programo">
 <!ENTITY save_as_pdf "Konservi kiel PDF">
 <!ENTITY print "Presi">
 <!ENTITY view_page_source "Vidi fonton de paĝo">
@@ -595,7 +602,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY bookmark_edit_location "Retadreso">
 <!ENTITY bookmark_edit_keyword "Kategoria vorto">
 <!ENTITY bookmark_select_folder "Elekti dosierujon">
-
 <!ENTITY bookmark_edit_undo "Malfari">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
@@ -875,6 +881,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_title "Malkonektite disponebla">
 <!ENTITY helper_triple_readerview_open_message "Aldoni al legosignoj elementojn de legila vido, por legi ilin malkonektite.">
 <!ENTITY helper_triple_readerview_open_button "Aldoni al legosignoj">
+
+<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signin_button):
+- These labels are shown in the Activity Stream recommending the user to sign in. -->
+<!ENTITY activity_stream_signin_title "Bonvenon al &brandShortName;">
+<!ENTITY activity_stream_signin_description "Komenci speguli legosignojn, pasvortojn kaj aliajn aferojn per via konto de Firefox.">
+<!ENTITY activity_stream_signup_button "Registriĝi">
+<!ENTITY activity_stream_signin_prompt "Ĉu vi jam havas konton?">
+<!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
+<!ENTITY activity_stream_signin_prompt_button "Komenci seancon.">
+
+<!ENTITY activity_stream_signin_button "Komenci seancon">
 
 <!ENTITY activity_stream_topsites "Plej vizititaj retejoj">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
