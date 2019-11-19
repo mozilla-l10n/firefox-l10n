@@ -940,7 +940,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Cogodla?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Gaž toś te elementy blokěrujośo, snaź wěste websedła wěcej pšawje njefunkcioněruju. Někotare tłocaški, formulary a pśizjawjeńske póla njemógli bźez pśeslědowakow pčawje funkcioněrowaś.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Gaž šćity znjemóžnjaśo, se wšykne pśeslědowaki na toś tom sedle dowólujo. To móžo wěstu funkcionalnosć websedła pólěpšyś.">
+<!ENTITY protections.notBlocking.why.etpOff.tooltip "Gaž šćit znjemóžnjaśo, se wšykne pśeslědowaki na toś tom sedle dowólujo. To móžo wěstu funkcionalnosć websedła pólěpšyś.">
 <!ENTITY protections.socialMediaTrackers.label "Pśeslědowaki socialnych medijow">
 <!ENTITY protections.crossSiteTrackingCookies.label "Slědujuce cookieje mjazy sedłami">
 <!ENTITY protections.trackingContent.label "Slědujuce wopśimjeśe">
