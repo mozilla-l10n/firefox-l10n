@@ -94,7 +94,7 @@ onboarding-benefit-lockwise-text = Faça a gestão de palavras-passe que estão 
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Navegação privada
-onboarding-private-browsing-text = Navegue por si mesmo(a). A Navegação privada com Bloqueio de conteúdo bloqueia trackers online que lhe seguem pela web.
+onboarding-private-browsing-text = Navegue sozinho. A Navegação privada com Bloqueio de conteúdo bloqueia os rastreadores que o seguem na Internet.
 onboarding-screenshots-title = Capturas de ecrã
 onboarding-screenshots-text = Tire, guarde e partilhe capturas de ecrã - sem sair do { -brand-short-name }. Enquanto navega, capture uma região ou uma página inteira. Depois guarde na web para facilitar o acesso e a partilha.
 onboarding-addons-title = Extras
