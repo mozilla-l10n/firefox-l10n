@@ -9,10 +9,13 @@
 <!ENTITY connectionFailure.title "Ntu nkuvi kivɨ">
 
 
+<!ENTITY dnsNotFound.title "Ntu nnani´i nuu">
 
 
+<!ENTITY fileAccessDenied.title "Ntu kuvi síne archivo ya´a">
 
 
+<!ENTITY malformedURI.title "Ntu íyo vatu nuu">
 
 
 
