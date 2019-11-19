@@ -944,8 +944,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.socialMediaTrackers.label "Rastreadores de redes sociais">
 <!ENTITY protections.crossSiteTrackingCookies.label "Cookies de monitorização entre sites">
 <!ENTITY protections.trackingContent.label "Conteúdo de monitorização">
-<!ENTITY protections.fingerprinters.label "Fingerprinters">
-<!ENTITY protections.cryptominers.label "Cryptominers">
+<!ENTITY protections.fingerprinters.label "Identificadores">
+<!ENTITY protections.cryptominers.label "Cripto-mineradores">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Todos os rastreadores deste site foram carregados porque as proteções estão desativadas.">
 <!ENTITY protections.noTrackersFound.description "Não foi detetado nenhum rastreador conhecido pelo &brandShortName; nesta página.">
 
@@ -1009,11 +1009,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.cookies2.label "Cookies de monitorização inter-sites">
 
-<!ENTITY contentBlocking.cryptominers.label "Cryptominers">
-<!ENTITY contentBlocking.cryptominersView.label "Cryptominers">
+<!ENTITY contentBlocking.cryptominers.label "Cripto-mineradores">
+<!ENTITY contentBlocking.cryptominersView.label "Cripto-mineradores">
 
-<!ENTITY contentBlocking.fingerprinters.label "Fingerprinters">
-<!ENTITY contentBlocking.fingerprintersView.label "Fingerprinters">
+<!ENTITY contentBlocking.fingerprinters.label "Identificadores">
+<!ENTITY contentBlocking.fingerprintersView.label "Identificadores">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Reportar um problema">
 <!ENTITY contentBlocking.breakageReportView.label "Reportar problemas">

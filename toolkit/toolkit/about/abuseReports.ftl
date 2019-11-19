@@ -72,19 +72,19 @@ abuse-report-settings-suggestions-homepage = Alterar a sua página inicial e nov
 abuse-report-deceptive-reason = Finge ser algo que não é
 abuse-report-deceptive-reason-v2 = Alega ser algo que não é
 abuse-report-deceptive-example = Exemplo: descrição ou imagem enganosa
-abuse-report-broken-reason-extension = Não funciona, quebra websites ou torna o { -brand-product-name } lento
+abuse-report-broken-reason-extension = Não funciona, quebra sites ou torna o { -brand-product-name } lento
 abuse-report-broken-reason-theme = Não funciona ou quebra a exibição do navegador
 abuse-report-broken-reason-extension-v2 = Não funciona, quebra sites ou torna o { -brand-product-name } mais lento
 abuse-report-broken-reason-theme-v2 = Não funciona ou quebra a visualização do navegador
-abuse-report-broken-example = Exemplo: funcionalidades lentas, difíceis de usar ou não funcionam; partes de websites não são carregadas ou parecem invulgares
+abuse-report-broken-example = Exemplo: funcionalidades lentas, difíceis de utilizar ou que não funcionam; partes de sites que não são carregadas ou parecem estranhas
 abuse-report-broken-suggestions-extension =
     Parece que identificou um bug. Além de submeter um relatório aqui, a melhor maneira
-    para obter um problema de funcionalidade resolvido é entrar em contacto com o programador da extensão.
-    <a data-l10n-name="support-link">Visite o website da extensão</a> para obter informação do programador.
+    de resolver um problema de funcionalidade é entrar em contacto com o programador da extensão.
+    <a data-l10n-name="support-link">Visite o site da extensão</a> para obter informações sobre o programador.
 abuse-report-broken-suggestions-theme =
     Parece que identificou um bug. Além de submeter um relatório aqui, a melhor maneira
-    para obter um problema de funcionalidade resolvido é entrar em contacto com o programador do tema.
-    <a data-l10n-name="support-link">Visite o website do tema</a> para obter informação do programador.
+    de resolver um problema de funcionalidade é entrar em contacto com o programador do tema.
+    <a data-l10n-name="support-link">Visite o site do tema</a> para obter informações sobre o programador.
 abuse-report-policy-reason = Conteúdo odioso, violento ou ilegal
 abuse-report-policy-reason-v2 = Contém conteúdo odioso, violento, ou ilegal
 abuse-report-policy-suggestions =

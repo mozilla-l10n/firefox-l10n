@@ -18,7 +18,7 @@
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "A transferir certificado">
 <!ENTITY downloadCert.message1 "Foi-lhe pedido para confiar numa nova autoridade certificadora (CA).">
-<!ENTITY downloadCert.trustSSL "Confiar nesta entidade de certificação para identificar websites.">
+<!ENTITY downloadCert.trustSSL "Confiar nesta entidade de certificação para identificar sites.">
 <!ENTITY downloadCert.trustEmail "Confiar nesta CA para identificar utilizadores de email.">
 <!ENTITY downloadCert.message3 "Antes de confiar nesta CA para qualquer fim, deve examinar o seu certificado, a sua política e os seus procedimentos (se disponíveis).">
 <!ENTITY downloadCert.viewCert.label "Ver">

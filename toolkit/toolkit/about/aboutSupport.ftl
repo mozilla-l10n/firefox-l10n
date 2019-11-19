@@ -6,7 +6,7 @@ page-title = Informação para resolução de problemas
 page-subtitle =
     Esta página contém informação técnica que pode ser útil para quando estiver
     a tentar resolver um problema. Se estiver à procura de respostas a questões comuns
-    acerca do { -brand-short-name }, aceda ao nosso <a data-l10n-name="support-link">website de apoio</a>.
+    acerca do { -brand-short-name }, aceda ao nosso <a data-l10n-name="support-link">site de apoio</a>.
 crashes-title = Relatórios de falha
 crashes-id = ID do relatório
 crashes-send-date = Enviado

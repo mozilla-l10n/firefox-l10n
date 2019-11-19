@@ -9,7 +9,7 @@ rights-intro-point-2 =
     Não lhe são concedidos quaisquer direitos de marcas registadas ou licenças das marcas registadas da
     Fundação Mozilla ou qualquer outra parte incluindo, sem limitações, o nome ou logótipo do Firefox.
     Pode encontrar informação adicional sobre as marcas registadas <a data-l10n-name="mozilla-trademarks-link">aqui</a>.
-rights-intro-point-3 = Algumas funcionalidades no { -brand-short-name }, tais como o relator de falhas, dão-lhe a opção de fornecer feedback à { -vendor-short-name }. Ao escolher enviar feedback, você dá à { -vendor-short-name } autorização para utilizar o feedback para melhorar os seus produtos, para publicar o feedback nos seus websites e para distribuir o feedback.
+rights-intro-point-3 = Algumas funcionalidades no { -brand-short-name }, tais como o relator de falhas, dão-lhe a opção de fornecer feedback à { -vendor-short-name }. Ao escolher enviar o feedback, autoriza o { -vendor-short-name } a utilizar o feedback para melhorar os seus produtos, para publicar o feedback nos seus sites e a distribuir o feedback.
 rights-intro-point-4 = Como é que usamos a sua informação pessoal e feedback enviados para a { -vendor-short-name } através do { -brand-short-name } é descrito na <a data-l10n-name="mozilla-privacy-policy-link">Política de privacidade do { -brand-short-name }</a>.
 rights-intro-point-4-unbranded = Quaisquer políticas de privacidade aplicáveis a este produto devem ser colocadas aqui.
 rights-intro-point-5 = Algumas das funcionalidades do { -brand-short-name } fazem uso de serviços de informação baseados na web, no entanto, não podemos garantir que são 100% eficazes ou livres de erros. Mais detalhes, incluindo informação sobre como desativar as funcionalidades que utilizam estes serviços, podem ser encontrados nos <a data-l10n-name="mozilla-service-terms-link">termos do serviço</a>.
@@ -28,7 +28,10 @@ rights-locationawarebrowsing-term-1 = Na barra de URL, escreva <code>about:confi
 rights-locationawarebrowsing-term-2 = Escreva geo.enabled
 rights-locationawarebrowsing-term-3 = Duplo clique na preferência geo.enabled
 rights-locationawarebrowsing-term-4 = A navegação com conhecimento da localização está agora desativada
-rights-webservices-unbranded = Uma visão dos serviços de websites que o produto incorpora, assim como instruções de como os desativar, se necessário, devem ser colocados aqui.
+rights-webservices-unbranded =
+    Uma visão dos serviços de sites que o produto incorpora, 
+    assim como instruções sobre como os desativar, se necessário, devem ser 
+    colocados aqui.
 rights-webservices-term-unbranded = Quaisquer termos de serviço devem ser listados aqui.
 rights-webservices-term-1 = A { -vendor-short-name } os seus contribuidores, licenciantes e parceiros trabalham para fornecer os serviços mais precisos e atualizados.  No entanto, não podemos garantir que esta informação é abrangente e livre de erros.  Por exemplo, o serviço de navegação segura poderá não identificar alguns sites perigosos e identificar alguns sites seguros com erro e, no serviço de localização, todas as localizações devolvidas pelos nossos fornecedores do serviço são apenas estimativas e nem nós nem os nossos fornecedores do serviço garantimos a exatidão das localizações fornecidas.
 rights-webservices-term-2 = A { -vendor-short-name } pode descontinuar ou alterar os serviços a qualquer momento.
