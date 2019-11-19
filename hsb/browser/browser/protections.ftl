@@ -31,11 +31,11 @@ protection-report-header-details-strict = Škitny schodźenk je so na <b>Striktn
     .title = K nastajenjam priwatnosće
 protection-report-header-details-custom = Škitny schodźenk je so na <b>Swójski</b> stajił
     .title = K nastajenjam priwatnosće
-protection-report-page-title = Škity priwatnosće
-protection-report-content-title = Škity priwatnosće
+protection-report-page-title = Škit priwatnosće
+protection-report-content-title = Škit priwatnosće
 etp-card-title = Polěpšeny slědowanski škit
 etp-card-content = Přesćěhowaki wam online slěduja, zo bychu informacije wo wašich přehladowanskich zwučenosćach a zajimach hromadźili. { -brand-short-name } wjele z tutych přesćěhowakow a druhe złóstne skripty blokuje.
-protection-report-etp-card-content-custom-not-blocking = Wšě škity su tuchwilu wotpinjene. Wubjerće, kotre přesćěhówaki maja so přez rjadowanje wašich škitnych nastajenjow { -brand-short-name } blokować.
+protection-report-etp-card-content-custom-not-blocking = Kóždy škit je tuchwilu wotpinjeny. Wubjerće, kotre přesćěhowaki maja so přez rjadowanje wašich škitnych nastajenjow { -brand-short-name } blokować.
 protection-report-manage-protections = Nastajenja rjadować
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
