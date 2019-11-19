@@ -57,7 +57,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Documento expirado">
-<!ENTITY notCached.longDesc "<p>O documento solicitado não está disponível na cache do &brandShortName;.</p><ul><li>Como precaução de segurança, o &brandShortName; não solicita novamente e de forma automática documentos sensíveis.</li><li>Clique em Tentar novamente para solicitar novamente o documento do website.</li></ul>">
+<!ENTITY notCached.longDesc "<p>O documento solicitado não está disponível na cache do &brandShortName;.</p><ul><li>Como medida de segurança, o &brandShortName; não solicita novamente e de forma automática documentos sensíveis.</li><li>Clique em Tentar novamente para solicitar novamente o documento do site.</li></ul>">
 
 <!ENTITY netOffline.title "Modo offline">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Pressione &quot;Tentar novamente&quot; para trocar para o modo online e recarregar a página.</li> </ul>">
@@ -65,14 +65,14 @@
 <!ENTITY contentEncodingError.title "Erro de codificação de conteúdo">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Por favor, contacte os proprietários do website para os informar deste problema.</li>
+  <li>Por favor, contacte os proprietários do site para os informar deste problema.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Tipo de ficheiro inseguro">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Por favor, contacte os proprietários do website para os informar deste problema.</li>
+  <li>Por favor, contacte os proprietários do site para os informar deste problema.</li>
 </ul>
 ">
 
@@ -101,8 +101,9 @@
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>A página que está a tentar ver não pode ser mostrada porque não foi possível verificar a autenticidade dos dados recebidos.</li>
-  <li>Por favor contacte os proprietários do website para os informar deste problema.</li>
-</ul>">
+  <li>Por favor, contacte os proprietários do site para os informar deste problema.</li>
+</ul>
+">
 
 <!ENTITY certerror.longpagetitle2 "Aviso: Potencial risco de segurança à frente">
 <!ENTITY certerror.sts.longpagetitle  "Não se ligou: potencial problema de segurança">
@@ -110,26 +111,27 @@
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara2 "O &brandShortName; detetou um potencial risco de segurança e não continuou para <span class='hostname'/>. Se visitar este site, atacantes podem tentar furtar informação como palavras-passe, emails, ou detalhes de cartão de crédito.">
-<!ENTITY certerror.sts.introPara "O &brandShortName; detetou uma potencial ameaça de segurança e não continuou para <span class='hostname'/> porque este website requer uma ligação segura.">
+<!ENTITY certerror.sts.introPara "O &brandShortName; detetou uma potencial ameaça de segurança e não continuou para <span class='hostname'/> porque este site requer uma ligação segura.">
 
-<!ENTITY certerror.expiredCert.introPara "O &brandShortName; detetou um problema e não continuou para <span class='hostname'/>. O website está mal configurado ou o relógio do computador está definido para a hora errada.">
-<!ENTITY certerror.expiredCert.secondPara2 "É provável que o certificado do website tenha expirado, o que impede o &brandShortName; de se ligar com segurança. Se visitar este site, atacantes podem tentar furtar informação como as suas palavras-passe, emails, ou detalhes de cartões de crédito.">
-<!ENTITY certerror.expiredCert.sts.secondPara "É provável que o certificado do website tenha expirado, o que impede o &brandShortName; de se ligar com segurança.">
+<!ENTITY certerror.expiredCert.introPara "O &brandShortName; detetou um problema e não continuou para <span class='hostname'/>. O site está mal configurado ou o relógio do computador está definido para a hora errada.">
+<!ENTITY certerror.expiredCert.secondPara2 "É provável que o certificado do site tenha expirado, o que impede o &brandShortName; de se ligar com segurança. Se visitar este site, atacantes podem tentar furtar informação como as suas palavras-passe, emails, ou detalhes de cartões de crédito.">
+<!ENTITY certerror.expiredCert.sts.secondPara "É provável que o certificado do site tenha expirado, o que impede o &brandShortName; de se ligar com segurança.">
 
 <!ENTITY certerror.whatCanYouDoAboutItTitle "O que pode fazer quanto a isto?">
 
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
-<p>O problema é mais provável ser com o website, e não há nada que possa fazer para o resolver.</p>
-<p>Se está numa rede empresarial ou a utilizar software de anti-vírus, pode entrar em contacto com as equipas de apoio para assistência. Pode também notificar o administrador do website acerca do problema.</p>
+<p>O mais provável é que o problema seja do site e não há nada que possa fazer para o resolver.</p>
+<p>Se está numa rede empresarial ou a utilizar software de anti-vírus, pode entrar em contacto com as equipas de apoio para assistência. Pode também notificar o administrador do site sobre o problema.</p>
 ">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
 <p>O relógio do seu computador está definido para <span id='wrongSystemTime_systemDate2'/>. Certifique-se que o seu computador está definido para a data, hora e fuso horário corretos nas suas definições de sistema, e depois atualize <span class='hostname'/>.</p>
-<p>Se o seu relógio já está definido para a hora correta, o website deve estar mal configurado, e não há nada que possa fazer para resolver o problema. Pode notificar o administrador do website acerca do problema.</p>
+<p>Se o seu relógio já está definido para a hora correta, o site deve estar mal configurado e não há nada que possa fazer para resolver o problema. Pode notificar o administrador do site sobre o problema.</p>
 ">
 
 <!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
-<p>O problema é mais provável ser com o website, e não há nada que possa fazer para o resolver. Pode notificar o administrador do website acerca do problema.</p>">
+<p>O mais provável é que o problema seja do site e não há nada que possa fazer para o resolver. Pode notificar o administrador do site sobre o problema.</p>
+">
 
 <!ENTITY sharedLongDesc "<ul> <li>O site pode estar temporariamente indisponível ou demasiado ocupado. Tente novamente dentro de alguns momentos.</li> <li>Se não conseguir carregar quaisquer páginas, verifique a ligação do seu computador à rede.</li> <li>Se o seu computador ou rede estiverem protegidos por uma firewall ou proxy, certifique-se de que o &brandShortName; tem permissão para aceder à Web.</li> </ul>">
 
@@ -140,7 +142,7 @@ was trying to connect. -->
 <!ENTITY xfoBlocked.longDesc "<p>O &brandShortName; impediu que esta página fosse carregada porque a página possui uma política X-Frame-Options que proíbe o seu carregamento neste contexto.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Conteúdo corrompido">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>A página que está a tentar ver não pode ser mostrada porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor contacte os proprietários do website para os informar deste problema.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>A página que está a tentar ver não pode ser mostrada porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor contacte os proprietários do site para os informar sobre este problema.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Aceitar o risco e continuar">
 
@@ -148,7 +150,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "Saber mais…">
 
 <!ENTITY remoteXUL.title "XUL remoto">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacte os proprietários do website para os informar sobre este problema.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Por favor, contacte os proprietários do site para os informar sobre este problema.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Não é possível ligar com segurança">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
@@ -163,7 +165,7 @@ was trying to connect. -->
 <!ENTITY inadequateSecurityError.title "A sua ligação não é segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utiliza tecnologia de segurança que está desatualizada e vulnerável a ataques. Um atacante pode facilmente revelar informação que pensou estar segura. O administrador do website precisa de corrigir o servidor primeiro antes que possa visitar o site.</p><p>Código de erro: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utiliza tecnologia de segurança que está desatualizada e vulnerável a ataques. Um atacante pode facilmente revelar a informação que você achou que estaria segura. O administrador do site necessita de corrigir o problema no servidor antes de poder visitar o site.</p><p>Código de erro: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Página bloqueada">
 
@@ -185,4 +187,4 @@ was trying to connect. -->
 <!ENTITY enableTls10.label "Ativar TLS 1.0 e 1.1">
 
 <!ENTITY networkProtocolError.title "Erro de protocolo de rede">
-<!ENTITY networkProtocolError.longDesc "<p>A página que está a tentar ver não pode ser mostrada porque um erro de protocolo de rede foi detetado.</p><ul><li>Por favor contacte os proprietários do website para os informar deste problema.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>A página que está a tentar ver não pode ser mostrada porque um erro de protocolo de rede foi detetado.</p><ul><li>Por favor contacte os proprietários do site para os informar sobre este problema.</li></ul>">
