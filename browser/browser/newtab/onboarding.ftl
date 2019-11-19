@@ -105,7 +105,7 @@ onboarding-ghostery-text = Navegue mais rápido, mais inteligentemente, ou com m
 onboarding-fxa-title = Sincronizar
 onboarding-fxa-text = Registe-se para uma { -fxaccount-brand-name } e sincronize os seus marcadores, palavras-passe, e separadores abertos onde quer que utilize o { -brand-short-name }.
 onboarding-tracking-protection-title2 = Proteção da monitorização
-onboarding-tracking-protection-text2 = O { -brand-short-name } ajudar a parar os websites de lhe monitorizar online, fazendo mais difícil com que os anúncios lhe sigam pela web.
+onboarding-tracking-protection-text2 = O { -brand-short-name } ajuda a impedir que os sites o rastreiem na Internet, tornando mais difícil que os anúncios o sigam na web.
 onboarding-tracking-protection-button2 = Como funciona
 onboarding-data-sync-title = Leve as suas definições consigo
 # "Sync" is short for synchronize.

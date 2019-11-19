@@ -61,9 +61,9 @@ policy-FlashPlugin = Permitir ou negar a utilização do plugin Flash.
 policy-HardwareAcceleration = Se falso, desligar aceleração de hardware.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Definir e bloquear opcionalmente a página inicial.
-policy-InstallAddonsPermission = Permitir a certos websites instalar extras.
+policy-InstallAddonsPermission = Permitir a instalação de extras a determinados sites.
 policy-LegacyProfiles = Desativar a funcionalidade de forçar um perfil separado para cada instalação
-policy-LocalFileLinks = Permitir a websites específicos ligar a ficheiros locais.
+policy-LocalFileLinks = Permitir que determinados sites estabeleçam ligações a ficheiros locais.
 policy-NetworkPrediction = Ativar ou desativar a previsão de rede (pré-obtenção de DNS).
 policy-NewTabPage = Ativar ou desativar a página de novo separador.
 policy-NoDefaultBookmarks = Desativar a criação de marcadores predefinidos empacotados com o { -brand-short-name }, e os Marcadores inteligentes (Mais visitados, Etiquetas recentes). Nota: esta política é apenas eficaz se utilizada antes da primeira execução do perfil.
@@ -73,7 +73,7 @@ policy-OverrideFirstRunPage = Sobrepor a página de primeira execução. Defina 
 policy-OverridePostUpdatePage = Sobrepor a página "Novidades" pós-atualização. Defina esta política para blank se pretende desativar a página pós-atualização.
 policy-PasswordManagerEnabled = Ativar a opção de guardar as palavras-passe no gestor de palavras-passe.
 policy-Permissions = Configurar permissões para a câmara, microfone, localização e notificações.
-policy-PopupBlocking = Permitir certos websites de mostrar popups por predefinição.
+policy-PopupBlocking = Permitir que determinados sites mostrem popups por predefinição.
 policy-Preferences = Definir e bloquear o valor para um subconjunto de preferências.
 policy-PromptForDownloadLocation = Perguntar onde guardar os ficheiros durante a transferência.
 policy-Proxy = Configurar definições proxy.
@@ -88,4 +88,4 @@ policy-SSLVersionMax = Definir a versão máxima de SSL.
 policy-SSLVersionMin = Definir a versão mínima de SSL.
 policy-SupportMenu = Adicionar um item de menu de suporte personalizado ao menu de ajuda.
 # “format” refers to the format used for the value of this policy.
-policy-WebsiteFilter = Bloquear websites de serem visitados. Veja a documentação para mais detalhes sobre o formato.
+policy-WebsiteFilter = Impedir que sites sejam visitados. Consulte a documentação para mais detalhes sobre o formato.
