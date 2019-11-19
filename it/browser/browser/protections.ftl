@@ -62,12 +62,18 @@ lockwise-passwords-stored = Password salvate in modo sicuro <a data-l10n-name="l
 turn-on-sync = Attiva { -sync-brand-short-name }…
     .title = Apri le impostazioni di sincronizzazione
 manage-devices = Gestisci dispositivi
+manage-connected-devices = Gestisci dispositivi…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-sync-status =
     { $count ->
         [one] Sincronizzato con un altro dispositivo
        *[other] Sincronizzato con { $count } altri dispositivi
+    }
+lockwise-connected-device-status =
+    { $count ->
+        [one] Connesso con un dispositivo
+       *[other] Connesso con { $count } dispositivi
     }
 lockwise-sync-not-syncing-devices = Non sincronizzato con altri dispositivi
 monitor-title = Tieni sotto controllo le violazioni di dati
