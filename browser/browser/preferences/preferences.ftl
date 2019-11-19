@@ -322,7 +322,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Vsebina upravljanja digitalnih pravic (DRM)
 play-drm-content =
@@ -592,6 +592,9 @@ sync-signedout-account-create = Še nimate računa? Začnite
 sync-signedout-account-signin =
     .label = Prijava …
     .accesskey = P
+sync-signedout-account-signin2 =
+    .label = Prijava v { -sync-brand-short-name } …
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -739,6 +742,7 @@ privacy-header = Zasebnost brskalnika
 ## Privacy Section - Logins and Passwords
 
 logins-header = Prijave in gesla
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Ponujaj shranjevanje prijav in gesel za spletne strani
     .accesskey = g
@@ -752,6 +756,7 @@ forms-breach-alerts =
     .label = Prikaži opozorila o geslih za ogrožene spletne strani
     .accesskey = P
 forms-breach-alerts-learn-more-link = Več o tem
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Samodejno izpolni prijave in gesla
     .accesskey = S
@@ -906,7 +911,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Po meri
     .accesskey = m
 
-##
+
 
 content-blocking-etp-standard-desc = Uravnotežena zaščita in delovanje. Strani bodo delovale običajno.
 content-blocking-etp-strict-desc = Močnejša zaščita, ki pa lahko povzroči nedelovanje nekaterih strani ali vsebine.
