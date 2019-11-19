@@ -9,7 +9,7 @@ sync-disconnect-heading = Também pretende remover dados de navegador neste comp
 sync-disconnect-remove-sync-caption = Remover dados do { -sync-brand-name }
 sync-disconnect-remove-sync-data = Marcadores, histórico, palavras-passe, etc.
 sync-disconnect-remove-other-caption = Remover outros dados privados
-sync-disconnect-remove-other-data = Cookies, cache, dados de websites offline, etc.
+sync-disconnect-remove-other-data = Cookies, cache, dados offline de sites, etc.
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = A desassociar...
 sync-disconnect-cancel =
