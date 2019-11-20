@@ -93,6 +93,7 @@ onboarding-data-sync-title = تنظیماتتان را با خود ببرید
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = هرجا که از { -brand-product-name } استفاده می‌کنید، نشانک‌ها، گذرواژه‌ها و بسیاری چیزهای دیگر را همگام‌سازی کنید.
 onboarding-data-sync-button2 = وارد { -sync-brand-short-name } شوید
+onboarding-firefox-monitor-title = نسبت به نشت اطلاعات آگاه باشید
 onboarding-firefox-monitor-text = { -monitor-brand-name } مراقب است چنانچه ایمیل شما در یک نشت اطلاعات دیده شده باشد یا در یک نشت اطلاعات جدید ظاهر شود، به شما اطلاع‌رسانی می‌کند.
 onboarding-firefox-monitor-button = برای دریافت اخطارها عضو شوید
 onboarding-browse-privately-title = مرور ناشناس

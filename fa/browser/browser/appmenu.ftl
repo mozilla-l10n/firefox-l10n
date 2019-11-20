@@ -9,6 +9,13 @@ appmenuitem-protection-report-title = محافظ‌های حریم‌خصوصی
 appmenuitem-protection-report-tooltip =
     .tooltiptext = به گزارش حریم‌خصوصی خود بروید
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = بزرگ‌نمایی
+appmenuitem-zoom-reduce =
+    .label = کوچک‌نمایی
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =

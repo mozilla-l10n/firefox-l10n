@@ -8,6 +8,8 @@
 
 <!ENTITY learnMore "اطلاعات بیشتر...">
 
+<!ENTITY learnMoreNoEllipsis "اطلاعات بیشتر">
+
 <!ENTITY defaultButton.label "باشه!">
 <!ENTITY defaultButton.accesskey "ب">
 

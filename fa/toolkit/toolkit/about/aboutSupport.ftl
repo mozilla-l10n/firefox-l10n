@@ -144,6 +144,19 @@ intl-locales-default = مکان‌های پیش فرض
 intl-os-title = سیستم عامل
 intl-os-prefs-system-locales = سیستم‌های محلی
 intl-regional-prefs = ترجیحات منطقه‌ای
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -248,6 +261,7 @@ gpu-device-reset-button = ماشه راه‌ اندازی مجدد دستگاه
 uses-tiling = استفاده از Tiling
 content-uses-tiling = استفاده از Tiling(محتوا)
 off-main-thread-paint-enabled = Off Main Thread Painting فعال شد
+target-frame-rate = نرخ فریم هدف
 min-lib-versions = حداقل نسخهٔ لازم
 loaded-lib-versions = نسخهٔ جاری
 has-seccomp-bpf = Seccomp-BPF (پالایش فراخوانی‌های سیستم)
