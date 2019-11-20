@@ -141,6 +141,9 @@ legacy-warning-show-legacy = نمایش ضمیمه‌های قدیمی
 legacy-extensions =
     .value = ضمیمه‌های قدیمی
 legacy-extensions-description = این ضمیمه‌ها استاندارهای لازم { -brand-short-name } را ندارند و به همین دلیل غیرفعال شده‌اند. <label data-l10n-name="legacy-learn-more">در مورد تغییرات در افزودنی‌ها بیشتر بدانید</label>
+extensions-view-discopane =
+    .name = توصیه‌ها
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = بروزرسانی‌های اخیر
     .tooltiptext = { extensions-view-recent-updates.name }
@@ -248,6 +251,13 @@ addon-open-about-debugging = اشکال‌زدایی افزودنی‌ها
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = میانبرهای افزونه را مدیریت کنید
+    .accesskey = م
+shortcuts-no-addons = شما هیچ افزونه فعالی ندارید.
+shortcuts-input =
+    .placeholder = یک میانبر وارد کنید
+shortcuts-browserAction = افزونه را فعال کنید
 shortcuts-sidebarAction = تغییر حالت نوار کناری
 shortcuts-invalid = ترکیب نامعتبر است
 shortcuts-letter = یک حرف تایپ کنید
