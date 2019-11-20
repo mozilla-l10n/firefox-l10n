@@ -971,3 +971,7 @@
 <!ENTITY dockOptions.label              "Appikon beállításai…">
 <!ENTITY writeNewMessageDock.label      "Új üzenet írása">
 <!ENTITY openAddressBookDock.label      "Címjegyzék megnyitása">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Ugrás az előző oldalra">
+<!ENTITY browseForwardButton.tooltip "Ugrás a következő oldalra">
