@@ -16,6 +16,7 @@ auto-refresh = 3 saniyede bir otomatik yenile
 hostname = Makine adı
 port = Port
 http2 = HTTP/2
+about-networking-http-version = HTTP sürümü
 ssl = SSL
 active = Etkin
 idle = Beklemede

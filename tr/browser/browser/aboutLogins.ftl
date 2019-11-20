@@ -82,6 +82,7 @@ about-logins-intro-import = Hesaplarınız başka bir tarayıcıda kayıtlıysa 
 login-item-new-login-title = Yeni hesap oluştur
 login-item-edit-button = Düzenle
 login-item-delete-button = Sil
+about-logins-login-item-remove-button = Kaldır
 login-item-origin-label = Web sitesi adresi
 login-item-origin =
     .placeholder = https://www.example.com
@@ -125,6 +126,7 @@ enable-password-sync-preferences-button =
            *[other] { -sync-brand-short-name } tercihlerine git
         }
     .accesskey = t
+confirm-delete-dialog-title = Bu hesap silinsin mi?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Bunu bir daha sorma
     .accesskey = B
@@ -134,9 +136,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = İptal
 confirmation-dialog-dismiss-button =
     .title = İptal
-confirm-delete-dialog-title = Bu hesap silinsin mi?
+about-logins-confirm-remove-dialog-title = Bu hesap kaldırılsın mı?
 confirm-delete-dialog-message = Bu işlem geri alınamaz.
 confirm-delete-dialog-confirm-button = Sil
+about-logins-confirm-remove-dialog-confirm-button = Kaldır
 confirm-discard-changes-dialog-title = Kaydedilmemiş değişikliklerden vazgeçilsin mi?
 confirm-discard-changes-dialog-message = Kaydedilmemiş değişikliklerin tümü kaybolacak.
 confirm-discard-changes-dialog-confirm-button = Vazgeç
