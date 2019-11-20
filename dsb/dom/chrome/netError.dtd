@@ -76,6 +76,9 @@
 <!ENTITY cspBlocked.title "Pśez wěstotne pšawidła za wopśimjeśe zablokěrowany">
 <!ENTITY cspBlocked.longDesc "<p>Wobglědowak jo zacytowanjoju toś togo boka na toś ten nałog zajźował, dokulaž bok ma wěstotne pšawidła za wopśimjeśe, kótarež to njedowóluju.</p>">
 
+<!ENTITY xfoBlocked.title "Pśez pšawidła X-Frame-Options zablokěrowane">
+<!ENTITY xfoBlocked.longDesc "<p>Wobglědowak jo zacytanjeju toś togo boka w toś tom konteksće zajźował, dokulaž bok ma pšawidła X-Frame-Options, kótarež to njedowóluju.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Zmólka - wobškóźone wopśimjeśe">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Bok, kótaryž cośo se woglědaś, njedajo se pokazaś, dokulaž jo se zmólka pśi pśenosowanju datow namakała.</p><ul><li>Pšosym stajśo se z wobsejźarjami websedła do zwiska, aby je wó toś tom problemje informěrował.</li></ul>">
 
