@@ -136,7 +136,7 @@ media-capabilities-title = Médiafunkciók
 # List all the entries of the database.
 media-capabilities-enumerate = Adatbázis felsorolása
 
-##
+
 
 intl-title = Nemzetköziesítés és honosítás
 intl-app-title = Alkalmazásbeállítások
@@ -147,6 +147,22 @@ intl-locales-default = Alapértelmezett területi beállítás
 intl-os-title = Operációs rendszer
 intl-os-prefs-system-locales = Rendszer területi beállításai
 intl-regional-prefs = Területi beállítások
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Távoli hibakeresés (Chromium protokoll)
+remote-debugging-accepting-connections = Kapcsolatok elfogadása
+remote-debugging-url = URL
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

@@ -16,6 +16,7 @@ auto-refresh = Autofrissítés 3 másodpercenként
 hostname = Gépnév
 port = Port
 http2 = HTTP/2
+about-networking-http-version = HTTP verzió
 ssl = SSL
 active = Aktív
 idle = Tétlen

@@ -82,6 +82,7 @@ about-logins-intro-import = Ha bejelentkezéseit egy másik böngészőben mente
 login-item-new-login-title = Új bejelentkezés létrehozása
 login-item-edit-button = Szerkesztés
 login-item-delete-button = Törlés
+about-logins-login-item-remove-button = Eltávolítás
 login-item-origin-label = Honlap címe
 login-item-origin =
     .placeholder = https://www.example.com
@@ -125,6 +126,7 @@ enable-password-sync-preferences-button =
            *[other] { -sync-brand-short-name } beállítások megtekintése
         }
     .accesskey = m
+confirm-delete-dialog-title = Törli a bejelentkezést?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Ne kérdezze meg többet
     .accesskey = N
@@ -134,9 +136,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Mégse
 confirmation-dialog-dismiss-button =
     .title = Mégse
-confirm-delete-dialog-title = Törli a bejelentkezést?
+about-logins-confirm-remove-dialog-title = Eltávolítja ezt a bejelentkezést?
 confirm-delete-dialog-message = Ez a művelet nem vonható vissza.
 confirm-delete-dialog-confirm-button = Törlés
+about-logins-confirm-remove-dialog-confirm-button = Eltávolítás
 confirm-discard-changes-dialog-title = Elveti a mentetlen módosításokat?
 confirm-discard-changes-dialog-message = Minden nem mentett változás elvész.
 confirm-discard-changes-dialog-confirm-button = Elvetés
