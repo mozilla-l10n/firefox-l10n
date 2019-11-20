@@ -282,6 +282,10 @@ shortcuts-letter = Gachrun 'ngo lêchra
 shortcuts-system = Si ga'ue durêe't 'ngo akseso direkto { -brand-short-name }
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Narī ñanj du’ua aksêso direkto
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut } huā ga’ì hiūj riñā ‘iaj sunj. Nej sa huā dànanj nī ga’ue nadunā sa gi’ia.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -317,11 +321,17 @@ install-theme-button = ga'nïnj têma
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Ganikaj ñu'un'
 find-more-addons = Narì' doj sa nutà't
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Doj sa ga'ue nagi'át
 
 ## Add-on actions
 
 report-addon-button = Gutà' 'ngo gakïn'ïn
 remove-addon-button = Guxūn
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Na’ue narè’ej <a data-l10n-name="link">Nù huin saj?</a>
 disable-addon-button = Dunikïn'
 enable-addon-button = Dugi'iaj sun' man
 expand-addon-button = Doj sa ga'ue nagi'át
@@ -335,6 +345,16 @@ release-notes-addon-button = Nuguan' ri' riña aga' na
 permissions-addon-button = Gachinj ni'iô'
 addons-enabled-heading = Ngà 'iaj sunj
 addons-disabled-heading = Nitaj si huáj
+extension-enabled-heading = Ngà 'iaj sunj
+extension-disabled-heading = Nitaj si 'iaj sunj
+theme-enabled-heading = Ngà 'iaj sunj
+theme-disabled-heading = Nitāj si 'iaj sunj
+plugin-enabled-heading = Ngà 'iaj sunj
+plugin-disabled-heading = Nitāj si 'iaj sunj
+dictionary-enabled-heading = Ngà 'iaj sunj
+dictionary-disabled-heading = Nitāj si 'iaj sunj
+locale-enabled-heading = Ngà 'iaj sunj
+locale-disabled-heading = Nitāj si 'iaj sunj
 ask-to-activate-button = Gachinj nì'iaj dugi'iaj sunt man
 always-activate-button = Dugi'iaj sun yitïnj man
 never-activate-button = Nitaj aman dugi'iaj sunt man
@@ -377,6 +397,11 @@ install-update-button = Nagi'iaj nakà
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Màn riña nej bentanâ huìi huaj
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Màn riña nej bentanâ huìi huaj
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Sisi ga'nïn, ekstensiûn nan ga'ue ni'iaj sa 'iát nga aché nun huìt. <a data-l10n-name="learn-more">Gahuin chrun doj</a>
 addon-detail-private-browsing-allow = Ga'nïn
 addon-detail-private-browsing-disallow = Si ga'nï'
@@ -385,6 +410,11 @@ addon-detail-private-browsing-disallow = Si ga'nï'
 addon-badge-recommended =
     .title = Sā sà'a huin ânj
     .alt = Sā sà'a huin ânj
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } nadiganj nej ekstensiûn nikò’ si nuguàn’ ñûnj dàj duguminj nī dàj ‘iaj sunj
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Nej sa ga'ue nahuin nakà
 recent-updates-heading = Nej sa hìaj nahuin nakà
 release-notes-loading = Hìaj ayi'ij...
@@ -403,6 +433,7 @@ theme-heading = Nanaà'ui' nej si temât
 plugin-heading = Nanà'uì' nej sa nutà't doj
 dictionary-heading = Nanà'uì' nej si diksionariôt
 locale-heading = Nanà'uì' nej si nuguàn't
+updates-heading = Ganikāj ñu’ūnj nej sa nagi’iaj nakàt
 discover-heading = Nagi'iaj dàj garan' ruhuât si { -brand-short-name }
 shortcuts-heading = Dugumîn nej akseso direkto riña nej ekstensiûn
 theme-heading-search-label = Narì't doj têma
