@@ -136,7 +136,7 @@ media-capabilities-title = Çoku ortam yetenekleri
 # List all the entries of the database.
 media-capabilities-enumerate = Veritabanını numaralandır
 
-##
+
 
 intl-title = Uluslararasılaştırma ve yerelleştirme
 intl-app-title = Uygulama ayarları
@@ -147,6 +147,22 @@ intl-locales-default = Varsayılan dil
 intl-os-title = İşletim sistemi
 intl-os-prefs-system-locales = Sistem dilleri
 intl-regional-prefs = Bölgesel tercihler
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Uzaktan hata ayıklama (Chromium protokolü)
+remote-debugging-accepting-connections = Bağlantılar kabul ediliyor mu?
+remote-debugging-url = URL
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
