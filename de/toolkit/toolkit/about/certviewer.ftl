@@ -6,7 +6,7 @@ certificate-viewer-certificate-section-title = Zertifikat
 
 ## Error messages
 
-certificate-viewer-error-message = Die Zertifikatsinformationen wurden nicht finden oder das Zertifikat ist beschädigt. Bitte versuchen Sie es erneut.
+certificate-viewer-error-message = Die Zertifikatsinformationen wurden nicht gefunden oder das Zertifikat ist beschädigt. Bitte versuchen Sie es erneut.
 certificate-viewer-error-title = Es trat ein Problem auf.
 
 ## Certificate information labels
@@ -61,13 +61,13 @@ certificate-viewer-issuer-name = Ausstellername
 certificate-viewer-validity = Gültigkeit
 certificate-viewer-subject-alt-names = Alternative Inhaberbezeichnungen
 certificate-viewer-public-key-info = Öffentlicher Schlüssel - Informationen
-certificate-viewer-miscellaneous = Sonstiges
+certificate-viewer-miscellaneous = Verschiedenes
 certificate-viewer-fingerprints = Fingerabdrücke
 certificate-viewer-basic-constraints = Basiseinschränkungen
 certificate-viewer-key-usages = Schlüsselverwendung
 certificate-viewer-extended-key-usages = Erweitere Schlüsselverwendung
 certificate-viewer-ocsp-stapling = TLS-Zertifizierungsabfrage-Erweiterung (OCSP Stapling)
-certificate-viewer-subject-key-id = ID für verwendeten Schlüssel des Zertifikatinhabes (Subject Key ID)
+certificate-viewer-subject-key-id = ID für verwendeten Schlüssel des Zertifikatinhabers (Subject Key ID)
 certificate-viewer-authority-key-id = ID für verwendeten Schlüssel der Zertifizierungsstelle (Authority Key ID)
 certificate-viewer-authority-info-aia = Zertifizierungsstelleninformationen - Authority Info (AIA)
 certificate-viewer-certificate-policies = Zertifikatsregeln
