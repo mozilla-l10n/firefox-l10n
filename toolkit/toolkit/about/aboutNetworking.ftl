@@ -16,6 +16,7 @@ auto-refresh = Kužde 3 sekundy aktualizěrowaś
 hostname = Hostmě
 port = Port
 http2 = HTTP/2
+about-networking-http-version = HTTP-wersija
 ssl = SSL
 active = Aktiwny
 idle = Prozny chód
