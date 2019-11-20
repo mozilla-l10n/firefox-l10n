@@ -76,6 +76,7 @@ about-logins-intro-instruction-help = मदद होगा्  <a data-l10n-na
 login-item-new-login-title = गोदान ल'गइन खुलि
 login-item-edit-button = सुजुनाय
 login-item-delete-button = खोमोर
+about-logins-login-item-remove-button = बोखार
 login-item-origin-label = वेबसाइट थं
 login-item-origin =
     .placeholder = https://www.example.com
@@ -107,6 +108,7 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+confirm-delete-dialog-title = बे ल'गइनखौ बोखारनो?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = आंनाव आरोबाव दासोंसै
     .accesskey = द
@@ -116,9 +118,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = नेवसि
 confirmation-dialog-dismiss-button =
     .title = नेवसि
-confirm-delete-dialog-title = बे ल'गइनखौ बोखारनो?
+about-logins-confirm-remove-dialog-title = बे ल'गइनखौ बोखारनो?
 confirm-delete-dialog-message = बे हाबाखौ मावनो हायै खालामनो हाया।
 confirm-delete-dialog-confirm-button = खोमोर
+about-logins-confirm-remove-dialog-confirm-button = बोखार
 confirm-discard-changes-dialog-title = थिनानै देनै सोलायनाफोरखौ बोखार
 confirm-discard-changes-dialog-message = गासिबो थिनानै दोनै सोलायनायफोरा गोमागोन
 confirm-discard-changes-dialog-confirm-button = नागार
