@@ -971,3 +971,7 @@
 <!ENTITY dockOptions.label              "Aplikazio-ikonoaren aukerak…">
 <!ENTITY writeNewMessageDock.label      "Idatzi mezu berria">
 <!ENTITY openAddressBookDock.label      "Ireki helbide-liburua">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Joan orri bat atzera">
+<!ENTITY browseForwardButton.tooltip "Joan orri bat aurrera">
