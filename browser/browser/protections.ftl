@@ -82,6 +82,16 @@ lockwise-sync-status =
        *[other] Synchronizěrujo se z { $count } drugimi rědami
     }
 lockwise-sync-not-syncing-devices = Z drugimi rědami njesynchronizěrowaś
+manage-connected-devices = Rědy rědowaś…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Z { $count } rědom zwězany
+        [two] Z { $count } rědoma zwězany
+        [few] Z { $count } rědami zwězany
+       *[other] Z { $count } rědami zwězany
+    }
 monitor-title = Rozglědujśo se za datowymi źěrami
 monitor-link = Kak funkcioněrujo
 monitor-header-content-no-account = Pśeglědajśo { -monitor-brand-name }, aby zwěsćił, lěc sćo padnuł na znatu datowu źěru a warnowanja wó nowych źěrach dostawaśo.

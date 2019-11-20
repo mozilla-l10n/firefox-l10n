@@ -322,7 +322,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Wopśimjeśe Digital Right Management (DRM)
 play-drm-content =
@@ -592,6 +592,9 @@ sync-signedout-account-create = Njamaśo konto? Zachopśo
 sync-signedout-account-signin =
     .label = Pśizjawiś…
     .accesskey = P
+sync-signedout-account-signin2 =
+    .label = Se pla { -sync-brand-short-name } pśizjawiś…
+    .accesskey = l
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -739,6 +742,7 @@ privacy-header = Priwatnosć wobglědowaka
 ## Privacy Section - Logins and Passwords
 
 logins-header = Pśizjawjenja a gronidła
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Pšašaś se, lěc se maju pśizjawjenja a gronidła składowaś
     .accesskey = a
@@ -752,6 +756,7 @@ forms-breach-alerts =
     .label = Warnowanja za gronidła zranjonych websedłow
     .accesskey = z
 forms-breach-alerts-learn-more-link = Dalšne informacije
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Pśizjawjenja a gronidła awtomatiski zapisaś
     .accesskey = i
@@ -906,7 +911,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Swójski
     .accesskey = S
 
-##
+
 
 content-blocking-etp-standard-desc = Wuwažony za šćit a wugbaśe. Boki se normalnje zacytaju.
 content-blocking-etp-strict-desc = Mócnjejšy šćit, ale móžo zawinowaś, až někotare sedła abo wopśimjeśe wěcej njefunkcioněruju.
