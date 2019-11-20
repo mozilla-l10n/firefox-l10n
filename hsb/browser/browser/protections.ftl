@@ -82,6 +82,16 @@ lockwise-sync-status =
        *[other] Synchronizuje so z { $count } druhimi gratami
     }
 lockwise-sync-not-syncing-devices = Z druhimi gratami njesynchronizować
+manage-connected-devices = Graty rjadować…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Z { $count } gratom zwjazany
+        [two] Z { $count } gratomaj zwjazany
+        [few] Z { $count } gratami zwjazany
+       *[other] Z { $count } gratami zwjazany
+    }
 monitor-title = Rozhladujće so za datowymi dźěrami
 monitor-link = Kak funguje
 monitor-header-content-no-account = Přepruwujće { -monitor-brand-name }, zo byšće zwěsćił, hač sće na znatu datowu dźěru padnył a warnowanja wo nowych dźěrach dóstawaće.
