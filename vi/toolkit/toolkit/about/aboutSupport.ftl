@@ -136,7 +136,7 @@ media-capabilities-title = Khả năng truyền thông
 # List all the entries of the database.
 media-capabilities-enumerate = Liệt kê cơ sở dữ liệu
 
-##
+
 
 intl-title = Quốc tế hóa & bản địa hóa
 intl-app-title = Cài đặt ứng dụng
@@ -147,6 +147,22 @@ intl-locales-default = Ngôn ngữ mặc định
 intl-os-title = Hệ điều hành
 intl-os-prefs-system-locales = Ngôn ngữ hệ thống
 intl-regional-prefs = Cài đặt khu vực
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Gỡ lỗi từ xa (Giao thức Chromium)
+remote-debugging-accepting-connections = Đang cho phép kết nối
+remote-debugging-url = URL
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = Báo cáo lỗi trong { $days } ngày gần đây

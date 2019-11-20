@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Có lỗi khi gửi báo cáo. Vui lòng thử lại sau.
+# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
+protections-panel-sitefixedsendreport-label = Trang web có bình thường không? Hãy gửi báo cáo
