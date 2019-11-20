@@ -74,12 +74,14 @@ login-intro-description = หากคุณบันทึกการเข้
 login-intro-instruction-fxa = สร้างหรือลงชื่อเข้าใช้ { -fxaccount-brand-name } ของคุณบนอุปกรณ์ที่บันทึกการเข้าสู่ระบบของคุณ
 login-intro-instruction-fxa-settings = ตรวจสอบให้แน่ใจว่าคุณได้เลือกกล่องกาเครื่องหมายการเข้าสู่ระบบในการตั้งค่า { -sync-brand-short-name }
 about-logins-intro-instruction-help = เยี่ยมชม<a data-l10n-name="help-link">ฝ่ายสนับสนุน { -lockwise-brand-short-name }</a> สำหรับวิธีใช้เพิ่มเติม
+about-logins-intro-import = หากการเข้าสู่ระบบของคุณถูกบันทึกไว้ในเบราว์เซอร์อื่นคุณสามารถ <a data-l10n-name="import-link"> นำเข้าข้อมูลเหล่านี้ใน { -lockwise-brand-short-name } </a>
 
 ## Login
 
 login-item-new-login-title = สร้างการเข้าสู่ระบบใหม่
 login-item-edit-button = แก้ไข
 login-item-delete-button = ลบ
+about-logins-login-item-remove-button = ลบ
 login-item-origin-label = ที่อยู่เว็บไซต์
 login-item-origin =
     .placeholder = https://www.example.com
@@ -123,6 +125,7 @@ enable-password-sync-preferences-button =
            *[other] เยี่ยมชมค่ากำหนด { -sync-brand-short-name }
         }
     .accesskey = ย
+confirm-delete-dialog-title = ลบการเข้าสู่ระบบนี้?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = ไม่ต้องถามฉันอีก
     .accesskey = ม
@@ -132,9 +135,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = ยกเลิก
 confirmation-dialog-dismiss-button =
     .title = ยกเลิก
-confirm-delete-dialog-title = ลบการเข้าสู่ระบบนี้?
+about-logins-confirm-remove-dialog-title = ลบการเข้าสู่ระบบนี้?
 confirm-delete-dialog-message = การกระทำนี้ไม่สามารถเลิกทำได้
 confirm-delete-dialog-confirm-button = ลบ
+about-logins-confirm-remove-dialog-confirm-button = ลบ
 confirm-discard-changes-dialog-title = ละทิ้งการเปลี่ยนแปลงที่ยังไม่ได้บันทึก?
 confirm-discard-changes-dialog-message = การเปลี่ยนแปลงที่ยังไม่ได้บันทึกทั้งหมดจะสูญหาย
 confirm-discard-changes-dialog-confirm-button = ละทิ้ง
