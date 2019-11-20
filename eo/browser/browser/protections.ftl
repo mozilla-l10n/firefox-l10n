@@ -74,6 +74,14 @@ lockwise-sync-status =
        *[other] Spegulado al { $count } aliaj aparatoj
     }
 lockwise-sync-not-syncing-devices = Neniu spegulado al aliaj aparatoj.
+manage-connected-devices = Administri aparatojn…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Konektita kun unu aparato
+       *[other] Konektita kun { $count } aparatoj
+    }
 monitor-title = Estu atenta je datumfuĝoj
 monitor-link = Kiel funkcias tio
 monitor-header-content-no-account = Kontrolu { -monitor-brand-name } por vidi ĉu vi estis viktimo de konata datumfuĝo kaj ricevu atentigojn pri novaj datumfuĝoj.
