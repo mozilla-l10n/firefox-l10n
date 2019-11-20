@@ -70,6 +70,13 @@ lockwise-sync-status =
        *[other] 與另 { $count } 部裝置同步
     }
 lockwise-sync-not-syncing-devices = 未與其他裝置同步
+manage-connected-devices = 管理裝置…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+       *[other] 已連線到 { $count } 台裝置
+    }
 monitor-title = 檢查是否發生資料外洩事件
 monitor-link = 原理是什麼
 monitor-header-content-no-account = 使用 { -monitor-brand-name } 檢查您是否處於已知的資料外洩事件之中，並在有新事件發生時收到通知。
