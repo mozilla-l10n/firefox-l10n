@@ -74,6 +74,14 @@ lockwise-sync-status =
        *[other] Synchroniseert met { $count } andere apparaten
     }
 lockwise-sync-not-syncing-devices = Synchroniseert niet met andere apparaten
+manage-connected-devices = Apparaten beheren…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Verbonden met { $count } apparaat
+       *[other] Verbonden met { $count } apparaten
+    }
 monitor-title = Let op datalekken
 monitor-link = Hoe het werkt
 monitor-header-content-no-account = Kijk op { -monitor-brand-name } om te zien of u getroffen bent door een bekend datalek en ontvang waarschuwingen over nieuwe datalekken.
