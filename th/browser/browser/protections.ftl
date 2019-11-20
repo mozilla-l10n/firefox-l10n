@@ -2,6 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+graph-week-summary =
+    { $count ->
+       *[other] { -brand-short-name } ปิดกั้นตัวติดตาม { $count } ตัวตลอดสัปดาห์ที่ผ่านมา
+    }
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -15,6 +21,7 @@ protection-report-page-title = การปกป้องความเป็�
 protection-report-content-title = การปกป้องความเป็นส่วนตัว
 etp-card-title = การป้องกันการติดตามที่มากขึ้น
 etp-card-content = ตัวติดตามจะติดตามคุณทางออนไลน์เพื่อรวบรวมข้อมูลเกี่ยวกับพฤติกรรมการค้นหาและความสนใจของคุณ { -brand-short-name } ปิดกั้นตัวติดตามและสคริปต์ที่เป็นอันตรายอื่น ๆ จำนวนมาก
+protection-report-manage-protections = จัดการการตั้งค่า
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = วันนี้
@@ -54,6 +61,13 @@ lockwise-sync-status =
        *[other] กำลังซิงค์กับอุปกรณ์อื่น ๆ { $count } เครื่อง
     }
 lockwise-sync-not-syncing-devices = ไม่ซิงค์กับอุปกรณ์อื่น
+manage-connected-devices = จัดการอุปกรณ์…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+       *[other] เชื่อมต่อแล้วกับ { $count } อุปกรณ์
+    }
 monitor-title = ให้เราช่วยคอยเฝ้าระวังดูการละเมิดข้อมูล
 monitor-link = วิธีการทำงาน
 monitor-header-content-no-account = ตรวจสอบ { -monitor-brand-name } เพื่อดูว่าคุณเป็นส่วนหนึ่งของการรั่วไหลข้อมูลหรือไม่ และรับการแจ้งเตือนเกี่ยวกับข้อมูลที่รั่วไหลใหม่
@@ -81,6 +95,7 @@ info-exposed-passwords-found =
     { $count ->
        *[other] รหัสผ่านที่ถูกเปิดเผยในช่องโหว่ทั้งหมด
     }
+full-report-link = ดูรายงานฉบับเต็ม <a data-l10n-name="monitor-inline-link"> { -monitor-brand-name } </a>
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
