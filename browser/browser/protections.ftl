@@ -78,6 +78,15 @@ lockwise-sync-status =
        *[many] Synchronizowanie z { $count } innymi urządzeniami
     }
 lockwise-sync-not-syncing-devices = Żadne inne urządzenia nie są synchronizowane
+manage-connected-devices = Zarządzaj urządzeniami…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Połączono z { $count } urządzeniem
+        [few] Połączono z { $count } urządzeniami
+       *[many] Połączono z { $count } urządzeniami
+    }
 monitor-title = Miej oko na wycieki danych
 monitor-link = Jak to działa
 monitor-header-content-no-account = Wypróbuj { -monitor-brand-name }, aby sprawdzić, czy Twoje dane nie wyciekły i otrzymywać powiadomienia o nowych wyciekach danych.
