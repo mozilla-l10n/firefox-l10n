@@ -971,3 +971,7 @@
 <!ENTITY dockOptions.label              "Uygulama simgesi seçenekleri…">
 <!ENTITY writeNewMessageDock.label      "Yeni ileti yaz">
 <!ENTITY openAddressBookDock.label      "Adres defterini aç">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Bir sayfa geri git">
+<!ENTITY browseForwardButton.tooltip "Bir sayfa ileri git">
