@@ -71,8 +71,24 @@ lockwise-sync-status =
        *[other] בסנכרון עם { $count } מכשירים נוספים
     }
 lockwise-sync-not-syncing-devices = לא בסנכרון עם מכשירים נוספים
+manage-connected-devices = ניהול מכשירים…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] מחובר למכשיר אחד
+       *[other] מחובר ל־{ $count } מכשירים
+    }
 monitor-link = איך זה עובד
 auto-scan = נסרק באופן אוטומטי היום
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-monitored-emails =
+    { $count ->
+        [one] כתובת דוא״ל במעקב
+       *[other] כתובות דוא״ל במעקב
+    }
 full-report-link = הצגת הדוח המלא ב־<a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 
 ## The title attribute is used to display the type of protection.
