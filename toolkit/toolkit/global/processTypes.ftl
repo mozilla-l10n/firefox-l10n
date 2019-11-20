@@ -6,6 +6,9 @@ process-type-web = เนื้อหาเว็บ
 # process used to run privileged pages,
 # such as about:home
 process-type-privileged = เนื้อหาที่มีสิทธิ
+# process used to run privileged about pages,
+# such as about:home
+process-type-privilegedabout = สิทธิพิเศษเกี่ยวกับ
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = เนื้อหา Mozilla ที่มีสิทธิ
