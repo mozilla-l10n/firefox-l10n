@@ -8,6 +8,8 @@
 
 <!ENTITY learnMore "เรียนรู้เพิ่มเติม…">
 
+<!ENTITY learnMoreNoEllipsis "เรียนรู้เพิ่มเติม">
+
 <!ENTITY defaultButton.label "ตกลง!">
 <!ENTITY defaultButton.accesskey "ต">
 

@@ -304,7 +304,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = เนื้อหา Digital Rights Management (DRM)
 play-drm-content =
@@ -568,6 +568,9 @@ sync-signedout-account-create = ไม่มีบัญชี? เริ่ม�
 sync-signedout-account-signin =
     .label = ลงชื่อเข้า…
     .accesskey = ล
+sync-signedout-account-signin2 =
+    .label = ลงชื่อเข้า { -sync-brand-short-name }…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -715,6 +718,7 @@ privacy-header = ความเป็นส่วนตัวเบราว์
 ## Privacy Section - Logins and Passwords
 
 logins-header = การเข้าสู่ระบบและรหัสผ่าน
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = ถามเพื่อบันทึกการเข้าสู่ระบบและรหัสผ่านสำหรับเว็บไซต์
     .accesskey = ถ
@@ -728,6 +732,7 @@ forms-breach-alerts =
     .label = แสดงการแจ้งเตือนเกี่ยวกับรหัสผ่านสำหรับเว็บไซต์ที่มีการรั่วไหล
     .accesskey = b
 forms-breach-alerts-learn-more-link = เรียนรู้เพิ่มเติม
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = กรอกข้อมูลการเข้าสู่ระบบและรหัสผ่านอัตโนมัติ
     .accesskey = ร
@@ -882,7 +887,7 @@ enhanced-tracking-protection-setting-custom =
     .label = กำหนดเอง
     .accesskey = ก
 
-##
+
 
 content-blocking-etp-standard-desc = การป้องกันและประสิทธิภาพแบบสมดุล หน้าเว็บจะโหลดเป็นปกติ
 content-blocking-etp-strict-desc = การป้องกันที่แกร่งขึ้น แต่อาจทำให้บางไซต์หรือเนื้อหาหยุดทำงานได้
