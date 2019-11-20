@@ -16,6 +16,7 @@ auto-refresh = Tự tải lại sau 3 giây
 hostname = Tên máy chủ
 port = Cổng
 http2 = HTTP/2
+about-networking-http-version = Phiên bản HTTP
 ssl = SSL
 active = Đang hoạt động
 idle = Đang nghỉ

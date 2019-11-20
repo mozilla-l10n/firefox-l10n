@@ -81,6 +81,7 @@ about-logins-intro-import = Nếu thông tin đăng nhập của bạn được 
 login-item-new-login-title = Tạo đăng nhập mới
 login-item-edit-button = Chỉnh sửa
 login-item-delete-button = Xóa
+about-logins-login-item-remove-button = Xóa
 login-item-origin-label = Địa chỉ trang web
 login-item-origin =
     .placeholder = https://www.example.com
@@ -124,6 +125,7 @@ enable-password-sync-preferences-button =
            *[other] Truy cập tùy chỉnh { -sync-brand-short-name }
         }
     .accesskey = V
+confirm-delete-dialog-title = Xoá thông tin đăng nhập này?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Đừng hỏi lại tôi nữa.
     .accesskey = D
@@ -133,9 +135,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Hủy bỏ
 confirmation-dialog-dismiss-button =
     .title = Hủy bỏ
-confirm-delete-dialog-title = Xoá thông tin đăng nhập này?
+about-logins-confirm-remove-dialog-title = Xoá thông tin đăng nhập này?
 confirm-delete-dialog-message = Thao tác này không thể hoàn tác được.
 confirm-delete-dialog-confirm-button = Xóa
+about-logins-confirm-remove-dialog-confirm-button = Xóa
 confirm-discard-changes-dialog-title = Hủy bỏ những thay đổi chưa lưu?
 confirm-discard-changes-dialog-message = Tất cả các thay đổi chưa được lưu sẽ bị mất.
 confirm-discard-changes-dialog-confirm-button = Loại bỏ

@@ -304,7 +304,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Nội dung quản lý bản quyền kỹ thuật số (DRM)
 play-drm-content =
@@ -568,6 +568,9 @@ sync-signedout-account-create = Bạn chưa có tài khoản? Bắt đầu
 sync-signedout-account-signin =
     .label = Đăng nhập…
     .accesskey = I
+sync-signedout-account-signin2 =
+    .label = Đăng nhập vào { -sync-brand-short-name }…
+    .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -715,6 +718,7 @@ privacy-header = Duyệt web riêng tư
 ## Privacy Section - Logins and Passwords
 
 logins-header = Đăng nhập & mật khẩu
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Hỏi để lưu lại thông tin đăng nhập và mật khẩu cho trang web
     .accesskey = r
@@ -728,6 +732,7 @@ forms-breach-alerts =
     .label = Hiển thị cảnh báo về mật khẩu cho các trang web bị rò rỉ
     .accesskey = b
 forms-breach-alerts-learn-more-link = Tìm hiểu thêm
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Tự động điền đăng nhập và mật khẩu
     .accesskey = i
@@ -882,7 +887,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Tùy chỉnh
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = Cân bằng để bảo vệ và hiệu suất. Các trang sẽ tải bình thường.
 content-blocking-etp-strict-desc = Bảo vệ mạnh mẽ hơn, nhưng có thể khiến một số trang web và nội dung bị phá vỡ.
