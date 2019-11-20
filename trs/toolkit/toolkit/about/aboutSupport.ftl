@@ -132,8 +132,11 @@ media-device-format = Formatù
 media-device-channels = Nej kanal
 media-device-rate = Sa du'ue
 media-device-latency = 'Iaj sunj
+media-capabilities-title = Dàj nìko ga’ue gimàn multimêdia
+# List all the entries of the database.
+media-capabilities-enumerate = Ganachrūn nûmero riña basê mà dâto
 
-##
+
 
 intl-title = Nagi'iô guendâ yumiguìi & Narì' man
 intl-app-title = Sa nikaj aplikasiûn
@@ -144,6 +147,22 @@ intl-locales-default = Sa dukuà 'na' niñaa
 intl-os-title = Sistêma Operatîbo
 intl-os-prefs-system-locales = Nej sistema dukuàa
 intl-regional-prefs = Sa nana'uî' doj màn nichrùn'un
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-title = Depurasiûn remota (si protokolô Chromiun)
+remote-debugging-accepting-connections = Garāyina koneksiûn
+remote-debugging-url = URL
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =

@@ -98,9 +98,11 @@ detail-private-browsing-description2 = Sisi ga'ue ga'nïn, extensiûn nan ni ga'
 # cannot be overridden by the user.
 detail-private-disallowed-label = Si ga'ue riña Windows huìi
 detail-private-disallowed-description = Nga aché nunt riña Windows huìi ni nitaj si 'iaj sun ekstensiûn nan. <label data-l10n-name="detail-private-browsing-learn-more">Gahuin Chrun doj</label>
+detail-private-disallowed-description2 = Ngà aché nun huìt nī nitāj si ‘iaj sun ekstensiûn nan. <a data-l10n-name="learn-more">Gāhuin chrūn doj</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Da'ui na'nïn riña Windows huìi
 detail-private-required-description = Ga'ue ni'iaj ekstensiûn nan sa' 'iát nga aché nun huìt. <label data-l10n-name="detail-private-browsing-learn-more">Gahuin Chrun Doj</label>
+detail-private-required-description2 = Ngà aché nun huìt nī atûj ekstensiûn na ni’ia sa ‘iát. <a data-l10n-name="learn-more">Gāhuin chrūn doj</a>
 detail-private-browsing-on =
     .label = Ga'nïn
     .tooltiptext = Nachrun riña aché nun huìt
@@ -278,6 +280,8 @@ shortcuts-modifier-other = Na'nïnj Ctrl asi Alt
 shortcuts-invalid = Nu narì't nachrun man
 shortcuts-letter = Gachrun 'ngo lêchra
 shortcuts-system = Si ga'ue durêe't 'ngo akseso direkto { -brand-short-name }
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Narī ñanj du’ua aksêso direkto
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
