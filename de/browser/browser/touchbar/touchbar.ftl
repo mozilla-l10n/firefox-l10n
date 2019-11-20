@@ -31,7 +31,7 @@ search-bookmarks = Lesezeichen
 search-history = Chronik
 search-opentabs = Offene Tabs
 search-tags = Schlagwörter
-search-titles = Titel
+search-titles = Name
 
 
 
