@@ -90,6 +90,18 @@ lockwise-sync-status =
        *[other] Cydweddu i { $count } dyfais arall
     }
 lockwise-sync-not-syncing-devices = Ddim yn cydweddu â dyfeisiau eraill.
+manage-connected-devices = Rheoli dyfeisiau…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [zero] Wedi'i gysylltu i { $count } dyfais
+        [one] Wedi'i gysylltu i { $count } dyfais
+        [two] Wedi'i gysylltu i { $count } ddyfais
+        [few] Wedi'i gysylltu i { $count } dyfais
+        [many] Wedi'i gysylltu i { $count } dyfais
+       *[other] Wedi'i gysylltu i { $count } dyfais
+    }
 monitor-title = Cadw llygad allan am dor-data.
 monitor-link = Sut mae'n gweithio
 monitor-header-content-no-account = Edrychwch ar { -monitor-brand-name } i weld a ydych chi wedi bod yn rhan o dor-data a chael rhybuddion am dor-data newydd.
