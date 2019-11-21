@@ -78,6 +78,15 @@ lockwise-sync-status =
        *[many] Сінхранізуецца з { $count } іншымі прыладамі
     }
 lockwise-sync-not-syncing-devices = Не сінхранізуецца з іншымі прыладамі
+manage-connected-devices = Кіраваць прыладамі…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Злучаны з { $count } прыладай
+        [few] Злучаны з { $count } прыладамі
+       *[many] Злучаны з { $count } прыладамі
+    }
 monitor-title = Сачыце за ўцечкамі дадзеных
 monitor-link = Як гэта працуе
 monitor-header-content-no-account = Паспрабуйце { -monitor-brand-name }, каб спраўдзіць, ці не ўцяклі вашы дадзеныя у вядомых узломах, і атрымліваць апавяшчэнні аб новых уцечках.
