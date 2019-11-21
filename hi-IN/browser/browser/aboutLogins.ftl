@@ -54,6 +54,9 @@ about-logins-login-list-empty-search-description = आपकी खोज के
 login-list-item-title-new-login = नया लॉगिन
 login-list-item-subtitle-new-login = अपनी लॉगिन जानकारी दर्ज करें
 login-list-item-subtitle-missing-username = (कोई उपयोगकर्ता नाम नहीं)
+about-logins-list-item-warning-icon =
+    .alt = चेतावनी शीर्षक
+    .title = वेबसाइट का उल्लंघन किया
 about-logins-list-item-breach-icon =
     .title = उलंघित वेबसाइट
 

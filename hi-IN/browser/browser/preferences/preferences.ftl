@@ -278,6 +278,10 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } ({ -brand-short-name } में) का प्रयोग करें
@@ -333,7 +337,12 @@ update-enable-search-update =
     .label = स्वचालित रूप से खोज इंजन का अद्यतन करें
     .accesskey = e
 update-pref-write-failure-title = असफलता लिखे
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = वरीयता को सहेजने में असमर्थ। फ़ाइल में नहीं लिखा जाएगा: { $path }
+update-setting-write-failure-title = अद्यतन वरीयताओं को सहेजने में गलती
 update-in-progress-title = अद्यतन जारी है
+update-in-progress-message = क्या आप { -brand-short-name } के अपडेट को जारी रखना चाहते हैं?
 update-in-progress-ok-button = और छोड़े
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -480,6 +489,9 @@ search-bar-shown =
     .label = औज़ार पट्टी में खोज पट्टी जोड़े
 search-engine-default-header = तयशुदा खोज इंजिन
 search-engine-default-desc = पता पट्टी और खोज पट्टी में उपयोग करने के लिए डिफ़ॉल्ट खोज इंजन का चयन करें.
+search-separate-default-engine =
+    .label = इस खोज इंजन का उपयोग निजी विंडोज में करें
+    .accesskey = U
 search-suggestions-header = खोज सुझाव
 search-suggestions-option =
     .label = खोज सुझाव प्रदान करें
@@ -494,6 +506,9 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = पता पट्टी परिणामों में खोज सुझावों को ब्राउज़िंग इतिहास के आगे देखें
+search-show-suggestions-private-windows =
+    .label = निजी विंडोज में खोज सुझाव दिखाएं
+suggestions-addressbar-settings = ब्राउज़िंग इतिहास, बुकमार्क और टैब सुझावों के लिए प्राथमिकताएं बदलें
 search-suggestions-cant-show = खोज सुझाव स्थान पट्टी में दिखाएँ नहीं जायेंगे क्योंकी आपने { -brand-short-name } को कभी भी इतिहास याद न रखने क लिए कॉन्फ़िगर करा है
 search-one-click-header = एकल-क्लिक सर्च इंजन
 search-one-click-desc = खोजशब्द दर्ज करना प्रारंभ करते समय वैकल्पिक खोज इंजिन चुने जोकि पता पट्टी और खोज पट्टी के नीचे प्रकट होते हैं.
@@ -588,6 +603,7 @@ sync-signedin-settings-desc = चुने, { -brand-short-name } का उप�
 
 sync-currently-syncing-bookmarks = बुकमार्क्स
 sync-currently-syncing-history = इतिहास
+sync-currently-syncing-tabs = टैबों को खोलें
 sync-currently-syncing-creditcards = क्रेडिट कार्ड्स
 sync-change-options =
     .label = बदलें...
