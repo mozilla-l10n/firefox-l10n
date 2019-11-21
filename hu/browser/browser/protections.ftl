@@ -74,6 +74,14 @@ lockwise-sync-status =
        *[other] Szinkronizálás { $count } további eszközre
     }
 lockwise-sync-not-syncing-devices = Nincs szinkronizálás más eszközökre
+manage-connected-devices = Eszközök kezelése…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] { $count } eszközhöz kapcsolódva
+       *[other] { $count } eszközhöz kapcsolódva
+    }
 monitor-title = Legyen résen az adatsértések miatt.
 monitor-link = Hogyan működik
 monitor-header-content-no-account = Ellenőrizze a { -monitor-brand-name } oldalt, és nézze meg, hogy szerepelt-e valamilyen ismert adatsértésben, és kapjon értesítést az új adatsértésekről.
