@@ -14,7 +14,7 @@
 <!ENTITY accountManager.close.label          "დახურვა">
 <!ENTITY accountManager.close.accesskey      "დ">
 <!-- This should match account.commandkey in instantbird.dtd -->
-<!ENTITY accountManager.close.commandkey     "მ">
+<!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
 <!ENTITY accountManager.noAccount.title      "ჯერჯერობით, არცერთი ანგარიში არაა გამართული">
 <!ENTITY accountManager.noAccount.description "დააწკაპეთ &accountManager.newAccount.label; ღილაკზე, რომ დაგეხმაროთ &brandShortName; ახალი ანგარიშის გამართვაში.">

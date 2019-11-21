@@ -950,7 +950,7 @@
 
 <!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "ჩაკეცვა">
-<!ENTITY minimizeWindow.key "ჩ">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "ყველას წინ გადატანა">
 <!ENTITY zoomWindow.label "ზომის ცვლილება">
 
@@ -960,10 +960,10 @@
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "მომსახურებები">
 <!ENTITY hideThisAppCmdMac.label        "&brandShortName; პროგრამის დამალვა">
-<!ENTITY hideThisAppCmdMac.commandkey   "დ">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
 <!ENTITY hideOtherAppsCmdMac.label      "სხვების დამალვა">
-<!ENTITY hideOtherAppsCmdMac.commandkey "დ">
+<!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "ყველას ჩვენება">
 

@@ -178,7 +178,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY SearchNameOrEmail.label                        "სახელი ან ელფოსტა">
 <!ENTITY SearchNameOrEmail.accesskey                    "ს">
 <!ENTITY advancedButton.tooltip                         "მისამართის გაფართოებული ძიება">
-<!ENTITY quickSearchCmd.key                             "ფ">
+<!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "სწრაფი ძიება">
 
 <!-- Results Pane -->
@@ -238,6 +238,6 @@ because displayed names don't have the comma in between. -->
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label                               "ფანჯარა">
 <!ENTITY minimizeWindow.label                           "ჩაკეცვა">
-<!ENTITY minimizeWindow.key                             "ც">
+<!ENTITY minimizeWindow.key                             "m">
 <!ENTITY bringAllToFront.label                          "წინა პლანზე გადმოტანა">
 <!ENTITY zoomWindow.label                               "ზომის ცვლილება">
