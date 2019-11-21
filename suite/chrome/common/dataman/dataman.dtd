@@ -4,7 +4,7 @@
 
 <!ENTITY dataman.windowTitle "მონაცემთა მართვა">
 
-<!ENTITY selectAll.key "რ">
+<!ENTITY selectAll.key "a">
 
 <!ENTITY select.all.label "ყველა სახის მონაცემები">
 <!ENTITY select.cookies.label "მხოლოდ ფუნთუშები">
@@ -14,7 +14,7 @@
 <!ENTITY select.storage.label "მხოლოდ საცავი">
 
 <!ENTITY domain.search.placeholder "დომენების ძიება">
-<!ENTITY domain.search.key "ძ">
+<!ENTITY domain.search.key "f">
 
 <!ENTITY domain.tree.domain.label "დომენი">
 

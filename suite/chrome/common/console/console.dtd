@@ -33,7 +33,7 @@
 <!ENTITY sortLast.label        "ბოლო > პირველი დალაგება">
 <!ENTITY sortLast.accesskey    "ბ">
 <!ENTITY closeCmd.commandkey   "w">
-<!ENTITY focus1.commandkey     "I">
+<!ENTITY focus1.commandkey     "l">
 <!ENTITY focus2.commandkey     "d">
 
 <!ENTITY menuBar.tooltip       "მენიუს ზოლი">

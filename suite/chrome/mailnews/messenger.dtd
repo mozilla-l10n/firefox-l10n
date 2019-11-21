@@ -48,7 +48,7 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.label "ყველა ანგარიში">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "ყ">
 <!ENTITY getAllNewMsgCmd.label "ყველა ახალი წერილის მიღება">
-<!ENTITY getAllNewMsgCmd2.key "მ">
+<!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "ჯგუფის შემდეგი 500 წერილის მიღება">
 <!ENTITY getNextNMsgCmd.accesskey "შ">
 <!ENTITY sendUnsentCmd.label "გასაგზავნი წერილების გაგზავნა">
