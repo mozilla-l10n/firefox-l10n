@@ -79,6 +79,15 @@ lockwise-sync-status =
        *[other] s { $count } dalšími zařízeními
     }
 lockwise-sync-not-syncing-devices = Není nastavena synchronizace s dalšími zařízeními
+manage-connected-devices = Správa zařízení…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Spojeno s jedním dalším zařízením.
+        [few] Spojeno se { $count } dalšími zařízeními.
+       *[other] Spojeno s { $count } dalšími zařízeními.
+    }
 monitor-title = Pozor na úniky dat
 monitor-link = Jak to funguje
 monitor-header-content-no-account = { -monitor-brand-name } zkotrolujte, zda byly vaše údaje součástí nějakého známého úniku dat, a může vás i upozornit, pokud se vyskytnou nějakém novém.
