@@ -157,6 +157,8 @@ intl-regional-prefs = Regionale innstillingar
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = Ekstern feilsøking (Chromium-protokoll)
+remote-debugging-accepting-connections = Godta tilkoplingar
 remote-debugging-url = Nettadresse
 
 
