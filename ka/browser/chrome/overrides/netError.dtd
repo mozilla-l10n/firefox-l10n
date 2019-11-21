@@ -208,7 +208,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle2  "ფრთხილად: სახიფათოა">
 <!ENTITY certerror.sts.pagetitle  "ვერ დაუკავშირდა: სავარაუდოდ უსაფრთხოების ხარვეზის გამო">
-<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> საიტს გააჩნია უსაფრთხოების დებულება სახელად HTTP Strict Transport Security (HSTS), რაც ნიშნავს, რომ &brandShortName; მას მხოლოდ უსაფრთხო შეერთებით შეიძლება დაუკავშირდეს. თქვენ ვერ შეძლებთ გამონაკლისის დაშვებას ამ საიტის მოსანახულებლად.">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "საიტს <span class='hostname'></span> გააჩნია უსაფრთხოების დებულება სახელწოდებით HTTP Strict Transport Security (HSTS), რაც ნიშნავს, რომ &brandShortName; მას მხოლოდ უსაფრთხო შეერთებით შეიძლება დაუკავშირდეს. თქვენ ვერ შეძლებთ გამონაკლისის დაშვებას ამ საიტის მოსანახულებლად.">
 <!ENTITY certerror.copyToClipboard.label "ტექსტის ასლის აღება">
 
 <!ENTITY inadequateSecurityError.title "კავშირი დაუცველია">
