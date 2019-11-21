@@ -10,6 +10,18 @@ about-config-warning-button = Accept riscul
 about-config2-title = Configurații avansate
 about-config-search-input =
     .placeholder = Caută
+
+## These strings appear on the warning you see when first visiting about:config.
+
+about-config-intro-warning-text = Modificarea preferințelor avansate de configurare poate afecta performanța sau securitatea din { -brand-short-name }.
+
+
+
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Modificarea acestor preferințe poate afecta performanța sau securitatea din { -brand-short-name }.
+about-config-page-title = Preferințe avansate
+about-config-search-input1 =
+    .placeholder = Caută numele preferinței
 about-config-show-all = Afișează tot
 about-config-pref-add = Adaugă
 about-config-pref-toggle = Comută
