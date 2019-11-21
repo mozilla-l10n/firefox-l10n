@@ -14,7 +14,7 @@
 <!ENTITY devtoolsConnect.accesskey       "დ">
 
 <!ENTITY browserConsoleCmd.label         "ბრაუზერის კონსოლი">
-<!ENTITY browserConsoleCmd.commandkey    "Z">
+<!ENTITY browserConsoleCmd.commandkey    "Ζ">
 <!ENTITY browserConsoleCmd.accesskey     "B">
 
 <!ENTITY responsiveDesignTool.label      "თავსებადი იერსახის ხედი">
