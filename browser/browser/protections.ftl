@@ -74,6 +74,14 @@ lockwise-sync-status =
        *[other] Synkroniserer med { $count } andre einingar
     }
 lockwise-sync-not-syncing-devices = Synkroniserer ikkje til andre einingar
+manage-connected-devices = Handter einingar…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Kopla til { $count } eining
+       *[other] Kopla til { $count } einingar
+    }
 monitor-title = Sjå opp for på datalekkasjer.
 monitor-link = Korleis det verkar
 monitor-header-content-no-account = SJekk { -monitor-brand-name } for å sjå om du har vore ein del av ein datalekkasje, og få varsel om nye datalekkasjar.
