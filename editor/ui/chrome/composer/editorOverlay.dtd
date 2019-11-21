@@ -5,7 +5,7 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY saveCmd.key "შ">
+<!ENTITY saveCmd.key "S">
 
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "ჩასმა გაფორმების გარეშე">
@@ -141,7 +141,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "სახელობითი ღუზების მოცილება">
 <!ENTITY formatRemoveNamedAnchors.accesskey "მ">
-<!ENTITY formatRemoveNamedAnchors2.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "პარაგრაფი">
 <!ENTITY paragraphMenu.accesskey "პ">

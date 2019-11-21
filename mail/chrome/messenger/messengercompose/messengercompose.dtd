@@ -11,7 +11,7 @@
 <!ENTITY newMenu.label "ახალი">
 <!ENTITY newMenu.accesskey "ა">
 <!ENTITY newMessage.label "წერილი">
-<!ENTITY newMessage.key "წ">
+<!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "წ">
 <!ENTITY newContact.label "პირი წიგნაკიდან…">
@@ -82,7 +82,7 @@
 <!ENTITY deleteCmd.label "წაშლა">
 <!ENTITY deleteCmd.accesskey "წ">
 <!ENTITY editRewrapCmd.label "გადაფორმატება">
-<!ENTITY editRewrapCmd.key "გ">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "დანართის გადარქმევა…">
 <!ENTITY renameAttachmentCmd.accesskey "ქ">
 <!ENTITY reorderAttachmentsCmd.label "დანართების გადალაგება…">
@@ -103,7 +103,7 @@
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "პოვნა…">
 <!ENTITY findBarCmd.accesskey "ო">
-<!ENTITY findBarCmd.key "პ">
+<!ENTITY findBarCmd.key "F">
 <!ENTITY findReplaceCmd.label "პოვნა და ჩანაცვლება…">
 <!ENTITY findReplaceCmd.accesskey "ც">
 <!ENTITY findReplaceCmd.key "H">
@@ -134,7 +134,7 @@
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "მონიშნულის ანბანურად დალაგება: ა - ზ">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "მონიშნულის ანბანურად დალაგება: ზ - ა">
-<!ENTITY sortAttachmentsPanelBtn.key "ა">
+<!ENTITY sortAttachmentsPanelBtn.key "y">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "ჩვენება">
