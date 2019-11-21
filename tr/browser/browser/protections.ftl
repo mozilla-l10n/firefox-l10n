@@ -74,6 +74,14 @@ lockwise-sync-status =
        *[other] { $count } cihazla eşitleniyor
     }
 lockwise-sync-not-syncing-devices = Diğer cihazlarla eşitlenmiyor
+manage-connected-devices = Cihazları yönet…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] { $count } cihaza bağlı
+       *[other] { $count } cihaza bağlı
+    }
 monitor-title = Veri hırsızlıklarından haberiniz olsun
 monitor-link = Nasıl çalışır?
 monitor-header-content-no-account = Bilinen veri ihlallerinde bilgilerinizin çalınıp çalınmadığını öğrenmek ve yeni ihlallerden haberdar olmak için { -monitor-brand-name }’ü ziyaret edin.
