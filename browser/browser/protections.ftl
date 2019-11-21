@@ -70,6 +70,13 @@ lockwise-sync-status =
        *[other] Đang đồng bộ hóa với { $count } thiết bị khác
     }
 lockwise-sync-not-syncing-devices = Không đồng bộ hóa với các thiết bị khác.
+manage-connected-devices = Quản lý thiết bị…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+       *[other] Đã kết nối { $count } thiết bị
+    }
 monitor-title = Xem các rò rỉ dữ liệu
 monitor-link = Nó hoạt động như thế nào
 monitor-header-content-no-account = Kiểm tra tại { -monitor-brand-name } để xem bạn có phải là một phần của rò rỉ dữ liệu hay không và nhận thông báo về các rò rỉ mới.
