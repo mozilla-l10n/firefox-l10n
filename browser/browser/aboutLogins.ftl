@@ -6,6 +6,7 @@ about-logins-page-title = लॉगिन और पासवर्ड
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
+login-app-promo-subtitle = मुफ्त { -lockwise-brand-name } ऐप प्राप्त करें
 login-app-promo-android =
     .alt = इसे Google Play पर पायें
 login-app-promo-apple =
@@ -14,6 +15,7 @@ login-filter =
     .placeholder = लॉगिन खोजें
 create-login-button = नई लॉगिन बनाएँ
 fxaccounts-sign-in-text = अपने पासवर्ड को अपने अन्य उपकरणों पर प्राप्त करें
+fxaccounts-sign-in-button = { -sync-brand-short-name } में साइन इन करें
 fxaccounts-avatar-button =
     .title = खाता प्रबंधित करें
 
@@ -29,6 +31,7 @@ menu-menuitem-preferences =
        *[other] प्राथमिकताएँ
     }
 about-logins-menu-menuitem-help = सहायता
+menu-menuitem-iphone-app = iPhone और iPad के लिए { -lockwise-brand-short-name }
 
 ## Login List
 
@@ -41,6 +44,7 @@ login-list-count =
     }
 login-list-sort-label-text = इसके अनुसार:
 login-list-name-option = नाम (A-Z)
+login-list-breached-option = उलंघित वेबसाइटें
 login-list-last-changed-option = अंतिम परिवर्तन
 login-list-last-used-option = अंतिम प्रयुक्त
 login-list-intro-title = कोई लॉग इन नहीं मिला
@@ -50,6 +54,8 @@ about-logins-login-list-empty-search-description = आपकी खोज के
 login-list-item-title-new-login = नया लॉगिन
 login-list-item-subtitle-new-login = अपनी लॉगिन जानकारी दर्ज करें
 login-list-item-subtitle-missing-username = (कोई उपयोगकर्ता नाम नहीं)
+about-logins-list-item-breach-icon =
+    .title = उलंघित वेबसाइट
 
 ## Introduction screen
 

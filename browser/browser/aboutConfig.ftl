@@ -19,6 +19,7 @@ about-config-intro-warning-button = जोखिम को स्वीकार
 
 
 
+about-config-page-title = उन्नत प्राथमिकताएँ
 about-config-search-input1 =
     .placeholder = वरीयता नाम खोजें
 about-config-show-all = सभी दिखाएँ
