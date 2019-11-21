@@ -74,6 +74,14 @@ lockwise-sync-status =
        *[other] Nixim rik'in { $count } ch'aqa' chik okisab'äl
     }
 lockwise-sync-not-syncing-devices = Man nixim ta kik'in ch'aqa' chik ta okisab'äl.
+manage-connected-devices = Kenuk'samajïx taq okisaxel…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Tokisäx rik'in { $count } okisab'äl
+       *[other] Tokisäx rik'in { $count } taq okisab'äl
+    }
 monitor-title = Taya' retal ri kitz'ilanem taq tzij
 monitor-link = Achike rub'eyal nisamäj
 monitor-header-content-no-account = Tanik'oj { -monitor-brand-name } richin natz'ët we xatz'iläx pa jun tz'ilanem tzij etaman ruwäch chuqa' tak'ulu' rutzijol k'ayewal chi kij k'ak'a' taq tz'ilanem.
