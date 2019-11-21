@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Sayısal Hak Yönetimi (DRM) içerikleri
 play-drm-content =
@@ -584,6 +584,9 @@ sync-signedout-account-create = Hesabınız yok mu? Hemen açın
 sync-signedout-account-signin =
     .label = Giriş yap…
     .accesskey = G
+sync-signedout-account-signin2 =
+    .label = { -sync-brand-short-name }’e giriş yap…
+    .accesskey = r
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -900,7 +903,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Özel
     .accesskey = Ö
 
-##
+
 
 content-blocking-etp-standard-desc = Dengeli koruma ve performans. Sayfalar normal şekilde yüklenir.
 content-blocking-etp-strict-desc = Daha güçlü koruma, ama bazı siteler ve içerikler düzgün çalışmayabilir.
