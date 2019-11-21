@@ -971,3 +971,7 @@
 <!ENTITY dockOptions.label              "Mundësi Ikone Aplikacioni…">
 <!ENTITY writeNewMessageDock.label      "Shkruani Mesazh të Ri">
 <!ENTITY openAddressBookDock.label      "Hap Libër Adresash">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Shkoni mbrapsht një faqe">
+<!ENTITY browseForwardButton.tooltip "Shkoni përpara një faqe">
