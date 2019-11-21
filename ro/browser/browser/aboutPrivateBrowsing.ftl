@@ -26,3 +26,8 @@ about-private-browsing-not-private = În prezent nu ești într-o fereastră pri
 content-blocking-title = Blocare de conținut
 content-blocking-description = Unele site-uri web folosesc elemente de urmărire care îți pot monitoriza activitatea pe Internet. În ferestrele private { -brand-short-name }, blocarea de conținut blochează automat multe elemente de urmărire care pot colecta informații despre comportamentul tău de navigare.
 about-private-browsing-info-description = { -brand-short-name } îți șterge istoricul de căutare și de navigare când ieși din aplicație sau închizi toate filele și ferestrele private. Deși nu te face anonim pentru site-uri sau pentru furnizorul de internet, îți permite să-ți păstrezi confidențialitatea activității online față de oricine altcineva care folosește acest calculator.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } este motorul tău de căutare implicit în ferestrele private

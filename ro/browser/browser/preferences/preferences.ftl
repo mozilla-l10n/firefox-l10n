@@ -315,7 +315,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = Conținut Digital Rights Management (DRM)
 play-drm-content =
@@ -513,6 +513,11 @@ search-bar-shown =
     .label = Adaugă bara de căutare în bara de unelte
 search-engine-default-header = Motor de căutare implicit
 search-engine-default-desc = Alege motorul de căutare implicit pentru a fi folosit în bara de adresă și în bara de căutare.
+search-engine-default-desc-2 = Acesta este motorul tău de căutare implicit din bara de adresă și bara de căutare. Îl poți comuta oricând.
+search-engine-default-private-desc-2 = Alege un alt motor de căutare implicit numai pentru ferestrele private
+search-separate-default-engine =
+    .label = Folosește acest motor de căutare în ferestrele private
+    .accesskey = U
 search-suggestions-option =
     .label = Furnizează sugestii de căutare
     .accesskey = s
@@ -681,6 +686,7 @@ privacy-header = Confidențialitate în browser
 ## Privacy Section - Logins and Passwords
 
 logins-header = Autentificări și parole
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Solicită salvarea autentificărilor și parolelor pentru site-urile web
     .accesskey = r
@@ -694,6 +700,7 @@ forms-breach-alerts =
     .label = Afișează alerte despre parole pentru site-urile web a căror securitate a fost încălcată
     .accesskey = b
 forms-breach-alerts-learn-more-link = Află mai multe
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Completează automat autentificări și parole
     .accesskey = i
@@ -848,7 +855,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalizată
     .accesskey = C
 
-##
+
 
 content-blocking-etp-standard-desc = Echilibrat pentru protecție și performanță. Paginile se vor încărca normal.
 content-blocking-etp-strict-desc = O protecție mai puternică, dar poate provoca funcționarea necorespunzătoare a site-urilor sau a conținutului.

@@ -33,6 +33,7 @@ protection-report-page-title = Protecții privind intimitatea
 protection-report-content-title = Protecții privind intimitatea
 etp-card-title = Protecție îmbunătățită împotriva urmăririi
 etp-card-content = Elementele de urmărire te urmăresc online pentru a colecta informații despre obiceiurile și interesele tale de navigare. { -brand-short-name } blochează multe dintre aceste elementele de urmărire și alte scripturi rău-intenționate.
+protection-report-manage-protections = Gestionează setările
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Astăzi
