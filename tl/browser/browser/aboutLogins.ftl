@@ -81,6 +81,7 @@ about-logins-intro-instruction-help = Bisitahin ang <a data-l10n-name="help-link
 login-item-new-login-title = Gumawa ng Panibagong Login
 login-item-edit-button = Baguhin
 login-item-delete-button = Burahin
+about-logins-login-item-remove-button = Tanggalin
 login-item-origin-label = Website Address
 login-item-origin =
     .placeholder = https://www.example.com
@@ -124,6 +125,7 @@ enable-password-sync-preferences-button =
            *[other] Tingnan ang mga kagustuhan para sa { -sync-brand-short-name }
         }
     .accesskey = V
+confirm-delete-dialog-title = Burahin ang login na ito?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Huwag nang muling itanong
     .accesskey = H
@@ -133,9 +135,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Kanselahin
 confirmation-dialog-dismiss-button =
     .title = Kanselahin
-confirm-delete-dialog-title = Burahin ang login na ito?
+about-logins-confirm-remove-dialog-title = Alisin ang login?
 confirm-delete-dialog-message = Itong action ay hindi na mababawi.
 confirm-delete-dialog-confirm-button = Burahin
+about-logins-confirm-remove-dialog-confirm-button = Tanggalin
 confirm-discard-changes-dialog-title = Itapon ang mga hindi nai-save na pagbabago?
 confirm-discard-changes-dialog-message = Lahat ng hindi nai-save na mga pagbabago ay mawawala.
 confirm-discard-changes-dialog-confirm-button = Balewalain

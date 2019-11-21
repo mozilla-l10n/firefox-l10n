@@ -16,6 +16,7 @@ auto-refresh = Mag-rerefresh ng atomatiko kada 3 segundo
 hostname = Hostname
 port = Port
 http2 = HTTP/2
+about-networking-http-version = Bersyon ng HTTP
 ssl = SSL
 active = Aktibo
 idle = Walang ginagawa
