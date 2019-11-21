@@ -291,6 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "ამ საიტისთვის MIDI წვდომის უფლება შეზღუდული გაქვთ.">
 <!ENTITY urlbar.installBlocked.tooltip           "ამ საიტისთვის დამატების ჩადგმის უფლება შეზღუდული გაქვთ.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ისტორიის ჩვენება">
 
 <!ENTITY searchItem.title             "ძიება">
@@ -1060,7 +1061,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.buttonlabel         "გმადლობთ!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "ვრცლად, DRM-ის შესახებ…">
-<!ENTITY emeLearnMoreContextMenu.accesskey        "ტ">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; განახლების ჩამოტვირთვა">
 <!ENTITY updateManual.panelUI.label "ჩამოიტვირთოს ახალი ვერსიის &brandShorterName;">
