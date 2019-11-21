@@ -25,5 +25,10 @@ about-private-browsing =
 about-private-browsing-not-private = आप फिलहाल एक निजी विंडो में नहीं हैं.
 content-blocking-title = सामग्री अवरोधन
 content-blocking-description = कुछ वेबसाइटें ट्रैकर का उपयोग करती हैं जो इंटरनेट पर आपकी गतिविधि की निगरानी कर सकती हैं। निजी विंडो में { -brand-short-name } सामग्री अवरोधन स्वचालित रूप से कई ट्रैकरों को अवरुद्ध करता है जो आपके ब्राउज़िंग व्यवहार के बारे में जानकारी एकत्र कर सकते हैं।
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = निजी विंडोज में { $engineName } आपका डिफ़ॉल्ट खोज इंजन है
 about-private-browsing-search-banner-close-button =
     .aria-label = बंद करें
