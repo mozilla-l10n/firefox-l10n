@@ -74,6 +74,14 @@ lockwise-sync-status =
        *[other] Synkronoidaan { $count } muulle laitteelle
     }
 lockwise-sync-not-syncing-devices = Ei synkronointia muille laitteille
+manage-connected-devices = Hallitse laitteita…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Yhdistetty { $count } laitteeseen
+       *[other] Yhdistetty { $count } laitteeseen
+    }
 monitor-title = Ota tietovuodot tarkkailuun
 monitor-link = Kuinka se toimii
 monitor-header-content-no-account = Tutustu { -monitor-brand-name }iin nähdäksesi onko tietojasi paljastunut tunnetuissa tietovuodoissa, ja vastaanota hälytys jos tietojasi paljastuu uusissa vuodoissa.
