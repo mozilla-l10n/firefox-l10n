@@ -77,6 +77,7 @@
 <!ENTITY cspBlocked.longDesc "<p>Nettlesaren hindra denne sida frå å lasta inn på denne måten, fordi nettsida har ein tryggingspraksis for sider som forbyr det.</p>">
 
 <!ENTITY xfoBlocked.title "Blokkert av X-Frame-Options-policy">
+<!ENTITY xfoBlocked.longDesc "<p>Nettlesaren hindra denne nettsida i å laste i denne konteksten fordi nettsida har ein X-Frame-Options-policy som ikkje tillèt det.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Feil - øydelagt innhald">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Sida du freistar å visa kan ikkje opnast fordi ein feil i dataoverføringa vart oppdaga.</p><ul><li>Kontakt eigarane av nettstaden og informer dei om problemet.</li></ul>">

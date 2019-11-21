@@ -59,6 +59,7 @@ abuse-report-messagebar-action-cancel = Avbryt
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = Skadar datamaskina mi og dataa mine
+abuse-report-damage-reason-v2 = Det skada datamaskina mi eller kompromitterte dattaa mine.
 abuse-report-damage-example = Døme: Injiserte skadeleg kode eller stal data
 abuse-report-spam-reason = Viser spam eller reklamar
 abuse-report-spam-example = Døme: Set inn reklame på nettsider
