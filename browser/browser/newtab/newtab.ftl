@@ -118,6 +118,7 @@ newtab-menu-open-file = फ़ाइल खोलें
 
 newtab-label-visited = देखी गई
 newtab-label-bookmarked = बुकमार्क लगाया हुआ
+newtab-label-removed-bookmark = बुकमार्क हटाया गया
 newtab-label-recommended = लोकप्रिय
 newtab-label-saved = { -pocket-brand-name } में सहेजा
 newtab-label-download = डाउनलोड की गई

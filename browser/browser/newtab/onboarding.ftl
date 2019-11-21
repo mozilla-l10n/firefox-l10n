@@ -74,6 +74,9 @@ onboarding-benefit-privacy-title = सच्ची गोपनीयता
 # make and do. We take less data. We keep it safe. And we make sure that we are
 # transparent about how we use it."
 onboarding-benefit-privacy-text = हम जो कुछ भी करते हैं वह हमारे व्यक्तिगत डेटा वादा का सम्मान करता है: कम लें। उसे सुरक्षित रखें। कोई रहस्य नहीं।
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
 

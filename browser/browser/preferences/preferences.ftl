@@ -303,7 +303,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-##
+
 
 drm-content-header = डिजिटल राइट्स मैनेजमेंट (DRM) सामग्री
 play-drm-content =
@@ -332,6 +332,7 @@ update-application-use-service =
 update-enable-search-update =
     .label = स्वचालित रूप से खोज इंजन का अद्यतन करें
     .accesskey = e
+update-pref-write-failure-title = असफलता लिखे
 update-in-progress-title = अद्यतन जारी है
 update-in-progress-ok-button = और छोड़े
 # Continue is the cancel button so pressing escape or using a platform standard
@@ -794,7 +795,7 @@ enhanced-tracking-protection-setting-custom =
     .label = मनपसंद
     .accesskey = त
 
-##
+
 
 content-blocking-all-cookies = सारे कुकीज़
 content-blocking-all-windows-trackers = सभी विंडो में ज्ञात ट्रैकर्स
