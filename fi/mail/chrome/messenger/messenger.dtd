@@ -971,3 +971,7 @@
 <!ENTITY dockOptions.label              "Sovelluskuvakkeen asetukset…">
 <!ENTITY writeNewMessageDock.label      "Kirjoita uusi viesti">
 <!ENTITY openAddressBookDock.label      "Avaa osoitekirja">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Siirry sivu taaksepäin">
+<!ENTITY browseForwardButton.tooltip "Siirry sivu eteenpäin">
