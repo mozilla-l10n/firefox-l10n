@@ -81,6 +81,7 @@ about-logins-intro-instruction-help = Intră pe <a data-l10n-name="help-link">as
 login-item-new-login-title = Creează o autentificare nouă
 login-item-edit-button = Editează
 login-item-delete-button = Șterge
+about-logins-login-item-remove-button = Elimină
 login-item-origin-label = Adresa site-ului web
 login-item-origin =
     .placeholder = https://www.example.com
@@ -110,11 +111,8 @@ master-password-reload-button =
     .label = Autentificare
     .accesskey = L
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Renunță
-confirmation-dialog-dismiss-button =
-    .title = Renunță
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -123,8 +121,16 @@ enable-password-sync-preferences-button =
         }
     .accesskey = V
 confirm-delete-dialog-title = Ștergi această autentificare?
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Renunță
+confirmation-dialog-dismiss-button =
+    .title = Renunță
+about-logins-confirm-remove-dialog-title = Elimini această autentificare?
 confirm-delete-dialog-message = Această acțiune este ireversibilă.
 confirm-delete-dialog-confirm-button = Șterge
+about-logins-confirm-remove-dialog-confirm-button = Elimină
 confirm-discard-changes-dialog-title = Înlături modificările nesalvate?
 confirm-discard-changes-dialog-message = Toate modificările nesalvate vor fi pierdute.
 confirm-discard-changes-dialog-confirm-button = Înlătură
