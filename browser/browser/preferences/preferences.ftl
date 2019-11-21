@@ -198,7 +198,7 @@ language-and-appearance-header = Limbă și aspect
 fonts-and-colors-header = Fonturi și culori
 default-font = Font implicit
     .accesskey = D
-default-font-size = Mărime
+default-font-size = Dimensiune
     .accesskey = S
 advanced-fonts =
     .label = Avansat…
@@ -518,6 +518,8 @@ search-engine-default-private-desc-2 = Alege un alt motor de căutare implicit n
 search-separate-default-engine =
     .label = Folosește acest motor de căutare în ferestrele private
     .accesskey = U
+search-suggestions-header = Sugestii de căutare
+search-suggestions-desc = Alege felul în care apar sugestiile motoarelor de căutare.
 search-suggestions-option =
     .label = Furnizează sugestii de căutare
     .accesskey = s
@@ -531,6 +533,9 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Afișează sugestiile de căutare înaintea istoricului de navigare în rezultatele din bara de adresă
+search-show-suggestions-private-windows =
+    .label = Afișează sugestii de căutare în ferestrele private
+suggestions-addressbar-settings = Modifică preferințele pentru istoricul de navigare, marcaje și sugestii cu privire la file
 search-suggestions-cant-show = Sugestiile de căutare nu vor fi afișate în rezultatele din bara de adrese deoarece ai configurat { -brand-short-name } ca să nu țină minte niciodată istoricul.
 search-one-click-header = Motoare de căutare la un clic distanță
 search-one-click-desc = Alege motoarele de căutare alternative care apar sub bara de adresă și bara de căutare atunci când începi să introduci un cuvânt cheie.
@@ -617,12 +622,41 @@ sync-signedin-settings-desc = Alege ce să sincronizezi pe dispozitive folosind 
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Sincronizare: ACTIVATĂ
+prefs-syncing-off = Sincronizare: DEZACTIVATĂ
+prefs-sync-now =
+    .labelnotsyncing = Sincronizează acum
+    .accesskeynotsyncing = N
+    .labelsyncing = Se sincronizează…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = În prezent, sincronizezi aceste elemente:
+sync-currently-syncing-bookmarks = Marcaje
+sync-currently-syncing-history = Istoric
+sync-currently-syncing-tabs = File deschise
+sync-currently-syncing-logins-passwords = Date de autentificare și parole
+sync-currently-syncing-addresses = Adrese
+sync-currently-syncing-creditcards = Carduri de credit
+sync-currently-syncing-addons = Suplimente
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Opțiuni
+       *[other] Preferințe
+    }
+sync-change-options =
+    .label = Modifică…
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Alege ce să sincronizezi
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Salvează modificările
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Deconectează-te…
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = Marcaje
     .accesskey = M
