@@ -70,6 +70,7 @@ lockwise-sync-status =
        *[other] Amtawi akked { $count } n yibenkan-nniḍen
     }
 lockwise-sync-not-syncing-devices = Ulac amtawi d yibenkan nniḍen
+manage-connected-devices = Sefrek ibenkan…
 monitor-title = Sers allen-ik ɣef trewla n yisefka.
 monitor-link = Amek iteddu
 monitor-sign-up = jerred ɣer yilɣa n trewla n yisefa
