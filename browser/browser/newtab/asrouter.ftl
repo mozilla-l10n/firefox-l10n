@@ -76,6 +76,9 @@ cfr-protections-panel-link-text = Pelajari lebih lanjut
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Fitur baru:
 cfr-whatsnew-button =
     .label = Yang Baru
     .tooltiptext = Yang Baru
@@ -121,3 +124,6 @@ cfr-doorhanger-firefox-send-header = Bagikan PDF ini dengan aman
 
 cfr-doorhanger-socialtracking-close-button = Tutup
     .accesskey = T
+
+## Enhanced Tracking Protection Milestones
+
