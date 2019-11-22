@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-logins-page-title = লগইন এবং পাসওয়ার্ড
+about-logins-page-title = লগইন ও পাসওয়ার্ড
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
@@ -82,6 +82,7 @@ about-logins-intro-import = আপনার লগিন সমূহ যদি 
 login-item-new-login-title = নতুন লগইন তৈরি করুন
 login-item-edit-button = সম্পাদনা
 login-item-delete-button = মুছে ফেলুন
+about-logins-login-item-remove-button = অপসারণ
 login-item-origin-label = ওয়েবসাইটের ঠিকানা
 login-item-origin =
     .placeholder = https://www.example.com
@@ -125,6 +126,7 @@ enable-password-sync-preferences-button =
            *[other] পছন্দসমূহের জন্য { -sync-brand-short-name } দেখুন
         }
     .accesskey = v
+confirm-delete-dialog-title = লগইন মুছে দেওয়া হবে?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = আমাকে আবার জিজ্ঞেস করবেন না
     .accesskey = D
@@ -134,9 +136,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = বাতিল
 confirmation-dialog-dismiss-button =
     .title = বাতিল
-confirm-delete-dialog-title = লগইন মুছে দেওয়া হবে?
+about-logins-confirm-remove-dialog-title = লগইনটি মুছে ফেলবেন?
 confirm-delete-dialog-message = এই পরিবর্তনটি অপরিবর্তনীয়!
 confirm-delete-dialog-confirm-button = মুছে ফেলুন
+about-logins-confirm-remove-dialog-confirm-button = অপসারণ
 confirm-discard-changes-dialog-title = সংরক্ষিত পরিবর্তনগুলো বাতিল করতে চান?
 confirm-discard-changes-dialog-message = সংরক্ষিত সকল পরিবর্তনগুলো হারিয়ে যাবে।
 confirm-discard-changes-dialog-confirm-button = বাতিল
