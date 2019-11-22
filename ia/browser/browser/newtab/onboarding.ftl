@@ -100,7 +100,7 @@ onboarding-screenshots-text = Captura, salva e comparti instantaneos - sin lassa
 onboarding-addons-title = Additivos
 onboarding-addons-text = Adde ancora plus functionalitates que face { -brand-short-name } travaliar pro te. Compara precios, consulta le meteo, o exprime tu personalitate con un thema personalisate.
 onboarding-ghostery-title = Ghostery
-onboarding-ghostery-text = Naviga plus veloce, in maniera plus intelligente o plus secur con extensiones como Ghostery, que te pone in grado de blocar enoiose avisos publicitari.
+onboarding-ghostery-text = Navigation plus rapide, plus intelligente o plus secur con extensiones como Ghostery, que te permitte de blocar annuncios moleste.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Inscribe te pro un { -fxaccount-brand-name } e synchronisa tu marcapaginas, contrasignos e schedas aperte ubicunque tu usa { -brand-short-name }.
@@ -138,7 +138,7 @@ onboarding-lockwise-passwords-title = Porta ubique con te tu contrasignos
 onboarding-lockwise-passwords-text2 = Mantene secur le contrasignos que tu salva e accede facilemente a tu contos con { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Discarga le app
 onboarding-facebook-container-title = Defini limites pro Facebook
-onboarding-facebook-container-text2 = { -facebook-container-brand-name } mantene tu profilo separate de tote le resto. Il es assi plus difficile pro Facebook importunar te con avisos publicitari.
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } mantene tu profilo separate de tote le resto. Il es assi plus difficile pro Facebook exploitar tu datos personal pro publicitate.
 onboarding-facebook-container-button = Adder le extension
 
 ## Message strings belonging to the Return to AMO flow

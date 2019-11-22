@@ -308,7 +308,7 @@ go-back-button =
 
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Le extensiones e le themas es como mini-applicationes pro tu navigator e illos te consenti de proteger contrasignos, discargar videos, trovar offertas, blocar enoiose avisos publicitari, cambiar le apparentia de tu navigator e multo plus. Iste micre programmas software es sovente disveloppate per un tertie parte. Ecce un selection que { -brand-product-name } <a data-l10n-name="learn-more-trigger">recommenda</a> pro securitate, rendimento e functionalitate exceptional.
+discopane-intro = Le extensiones e le themas es como mini-applicationes pro tu navigator e illos te permitte de proteger contrasignos, discargar videos, trovar offertas, blocar annuncios moleste, cambiar le apparentia de tu navigator e multo plus. Iste micre programmas software es sovente disveloppate per un tertio. Ecce un selection que { -brand-product-name } <a data-l10n-name="learn-more-trigger">recommenda</a> pro securitate, rendimento e functionalitate excellente.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Parte de iste recommendationes es personalisate. Illos basate sur preferentias de profilo e statistica de uso de altere extensiones que tu ha installate.
 discopane-notice-learn-more = Saper plus
