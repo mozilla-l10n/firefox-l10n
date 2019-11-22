@@ -1039,7 +1039,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate5.label "Disactivar temporarimente le blocage">
 <!ENTITY trackingProtection.unblockPrivate5.accesskey "D">
-<!ENTITY trackingProtection.block6.label "Activar le blocada pro iste sito">
+<!ENTITY trackingProtection.block6.label "Activar le blocage pro iste sito">
 <!ENTITY trackingProtection.block6.accesskey "A">
 <!ENTITY trackingProtection.reload2.label "Recargar le pagina">
 <!ENTITY trackingProtection.reload2.accesskey "R">

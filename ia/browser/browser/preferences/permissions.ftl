@@ -122,7 +122,7 @@ permissions-site-notification-window =
 permissions-site-notification-desc = Le sitos web sequente ha requirite de te mitter notificationes. Tu pote specificar a qual sitos web es consentite de te mitter notificationes. Tu pote alsi blocar nove requestas de consentir notificationes.
 permissions-site-notification-disable-label =
     .label = Blocar nove requestas de consentir notificationes
-permissions-site-notification-disable-desc = Isto impedira qualcunque sitos web non listate antea de demandar licentia a mitter notificationes. Le blocada del notificationes pote infringer le functionalitate de alcun sito web.
+permissions-site-notification-disable-desc = Isto impedi a omne sitos web non listate hic supra de demandar permission pro inviar notificationes. Blocar notificationes pote rumper alcun functiones de sitos web.
 
 ## Site Permissions - Location
 
