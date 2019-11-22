@@ -48,7 +48,7 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights.webservices-a "&brandFullName; offere servicios optional (&quot;Services&quot;), tal como le servicio actualisation additivos, que es disponibile pro tu uso con iste version binari de &brandShortName; como describite infra. Si tu non vole usar le Servicios o le terminos infra es inacceptabile, tu pote inactivar le Servicio actualisation additivos, aperiente le preferentias del application, per le selection de ">
+<!ENTITY rights.webservices-a "&brandFullName; offere servicios optional (&quot;Servicios&quot;), como le servicio de actualisation de additivos, que es disponibile pro tu uso con iste version executabile de &brandShortName; como describite infra. Si tu non vole usar le Servicios o le terminos infra es inacceptabile, tu pote disactivar le servicio de actualisation de additivos, aperiente le preferentias del application, per le selection de ">
 <!ENTITY rights.webservices-b "Avantiate">
 <!ENTITY rights.webservices-c " section, sequite per le ">
 <!ENTITY rights.webservices-d "Actualisar">
