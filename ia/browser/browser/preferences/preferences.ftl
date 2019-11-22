@@ -868,9 +868,9 @@ addressbar-suggestions-settings = Cambiar le preferentias pro le suggestiones de
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Blocage de contento
-content-blocking-section-description = Protege tu confidentialitate durante que tu naviga. Bloca le contento invisibile que tracia le sitos que tu visita e crea tu profilo. Blocar parte de iste contento pote render plus veloce cargar paginas.
+content-blocking-section-description = Protege tu vita private durante que tu naviga. Bloca le contento invisibile que tracia le sitos que tu visita pro mantener un profilo de te. Blocar un parte de iste contento pote render le cargamento de paginas plus rapide.
 content-blocking-enhanced-tracking-protection = Protection de traciamento meliorate
-content-blocking-section-top-level-description = Le traciatores te seque circum le rete pro colliger informationes sur tu habitos e interesses de navigation. { -brand-short-name } bloca multes de iste traciatores e altere scripts maligne.
+content-blocking-section-top-level-description = Le traciatores te seque per tote le rete pro colliger informationes sur tu habitos e interesses de navigation. { -brand-short-name } bloca multes de iste traciatores e altere scripts maligne.
 content-blocking-learn-more = Saper plus
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -883,11 +883,11 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Personalisate
     .accesskey = P
-content-blocking-standard-desc = Equilibrio perfecte inter protection e rendimento. Permitte alcun traciatores a fin que le sitos web functiona correctemente.
-content-blocking-strict-description = Un protection plus forte pote facer errar in alcun sitos.
+content-blocking-standard-desc = Equilibrio inter protection e rendimento. Permitte alcun traciatores a fin que sitos web functiona correctemente.
+content-blocking-strict-description = Protection plus forte, ma alcun sitos pote faller.
 content-blocking-custom-desc = Elige que blocar.
-content-blocking-private-trackers = Traciatores note solo in Fenestras private
-content-blocking-third-party-cookies = Cookies traciator de tertie partes
+content-blocking-private-trackers = Traciatores cognoscite, solmente in fenestras private
+content-blocking-third-party-cookies = Cookies de traciamento de tertios
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -905,23 +905,23 @@ enhanced-tracking-protection-setting-custom =
 
 
 
-content-blocking-etp-standard-desc = Balanciate pro protection e efficientia. Le paginas se carga normalmente.
+content-blocking-etp-standard-desc = Equilibrio inter protection e rendimento. Le paginas se carga normalmente.
 content-blocking-etp-strict-desc = Protection reinfortiate, ma certe sitos o contento pote non functionar correctemente.
 content-blocking-etp-custom-desc = Elige qual traciatores e scripts blocar.
-content-blocking-private-windows = Contento traciator in fenestras private
+content-blocking-private-windows = Contento de traciamento in fenestras private
 content-blocking-cross-site-tracking-cookies = Cookies de traciamento inter sitos
 content-blocking-social-media-trackers = Traciatores de retes social
 content-blocking-all-cookies = Tote le cookies
-content-blocking-unvisited-cookies = Cookie ab sitos web non visitate
-content-blocking-all-windows-trackers = Traciatores note in tote le fenestras
-content-blocking-all-windows-tracking-content = Contento traciator in tote le fenestras
-content-blocking-all-third-party-cookies = Tote le cookies de tertie partes
+content-blocking-unvisited-cookies = Cookie de sitos web non visitate
+content-blocking-all-windows-trackers = Traciatores cognoscite in tote le fenestras
+content-blocking-all-windows-tracking-content = Contento de traciamento in tote le fenestras
+content-blocking-all-third-party-cookies = Tote le cookies de tertios
 content-blocking-cryptominers = Crypto-minatores
 content-blocking-fingerprinters = Traciatores de impression digital
 content-blocking-warning-title = Attention!
-content-blocking-warning-description = Alcun sitos web pote non functionar correctemente con le blocage de contento. Es facile disactivar le blocage pro sitos de confidentia.
+content-blocking-warning-description = Alcun sitos web pote non functionar correctemente con le blocage de contento. Es facile disactivar le blocage pro le sitos in que tu ha confidentia.
 content-blocking-learn-how = Apprender como
-content-blocking-etp-warning-description = Blocar traciatores poterea haber impacto sur le functionalitate de alcun sitos.
+content-blocking-etp-warning-description = Blocar traciatores pote impedir le functionamento de certe sitos. Recarga un pagina con su traciatores pro cargar tote le contento.
 content-blocking-warning-learn-how = Apprende como
 content-blocking-reload-description = Tu debera recargar tu schedas pro applicar iste cambios.
 content-blocking-reload-tabs-button =
@@ -931,13 +931,13 @@ content-blocking-trackers-label =
     .label = Traciatores
     .accesskey = T
 content-blocking-tracking-content-label =
-    .label = Contento traciator
+    .label = Contento de traciamento
     .accesskey = t
 content-blocking-tracking-protection-option-all-windows =
     .label = In tote le fenestras
     .accesskey = t
 content-blocking-option-private =
-    .label = Solo in Fenestras private
+    .label = Solmente in fenestras private
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Cambiar le lista de blocage
 content-blocking-cookies-label =
