@@ -155,8 +155,8 @@ cfr-doorhanger-socialtracking-dont-show-again = Non plus monstrar me messages co
     .accesskey = N
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } ha impedite que un rete social te tracia hic
 cfr-doorhanger-socialtracking-description = Tu vita private es importante. Ora { -brand-short-name } bloca traciatores de retes social commun, limitante le quantitate de datos que illos pote colliger sur tu activitates in linea.
-cfr-doorhanger-fingerprinters-heading = { -brand-short-name } ha blocate un traciator de impression digital in iste pagina
-cfr-doorhanger-fingerprinters-description = Tu vita private es importante. { -brand-short-name } bloca ora le traciatores de impression digital que collige pecias de information unic sur tu apparato pro traciar te.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } ha blocate un dactylogrammator in iste pagina
+cfr-doorhanger-fingerprinters-description = Tu vita private es importante. { -brand-short-name } bloca ora le dactylogrammatores que collige pecias de information unic sur tu apparato pro traciar te.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } ha blocate un cryptominator in iste pagina
 cfr-doorhanger-cryptominers-description = Tu vita private es importante. Ora { -brand-short-name } bloca cryptominatores, que usa le ressources computational de tu systemas pro excavar moneta digital.
 

@@ -21,8 +21,8 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-report-header-details-standard = Le nivello de protection es preparate a <b>Standard</b>
-    .title = Ir al Parametros de confidentialitate
+protection-report-header-details-standard = Le nivello de protection es adjustate a <b>Standard</b>
+    .title = Ir al parametros de vita private
 protection-report-header-details-strict = Le nivello de protection es preparate a <b>Restrictive</b>
     .title = Ir al Parametros de confidentialitate
 protection-report-header-details-custom = Le nivello de protection es preparate a <b>Personalisate</b>
@@ -41,10 +41,10 @@ graph-legend-description = Un graphico que contine le numero total de cata typo 
 social-tab-title = Traciatores de retes social
 social-tab-contant = Le retes social placia traciatores sur altere sitos web pro sequer lo que tu face, vide e reguarda in linea. Isto permitte al companias de rete social de saper plus sur te, ultra lo que tu comparti sur tu profilos de rete social. <a data-l10n-name="learn-more-link">Saper plus</a>
 cookie-tab-title = Cookies de traciamento inter sitos
-cookie-tab-content = Iste cookies te seque de sito a sito pro colliger datos sur lo que tu face in linea. Illos es ponite per tertie partes como companias de publicitate e de analyse de datos. Blocar le cookies de traciamento inter sitos reduce le numero de avisos publicitari que te seque. <a data-l10n-name="learn-more-link">Lege plus</a>
+cookie-tab-content = Iste cookies te seque de sito a sito pro colliger datos sur lo que tu face in linea. Illos es deponite per tertios, p.ex. companias de publicitate e de analyse de datos. Blocar le cookies de traciamento inter sitos reduce le numero de annuncios que te seque. <a data-l10n-name="learn-more-link">Lege plus</a>
 tracker-tab-title = Contento traciator
-tracker-tab-description = Sitos web pote cargar avisos publicitari externe, videos e altere contento con codice de traciamento. Blocar contento traciator pote adjutar sitos a cargar se plus rapidemente, ma alcun buttones, formularios e campos de accesso pote non functionar. <a data-l10n-name="learn-more-link">Saper plus</a>
-fingerprinter-tab-title = Traciatores de impression digital
+tracker-tab-description = Sitos web pote cargar annuncios externe, videos e altere contento con codice de traciamento. Blocar contento de traciamento pote adjutar sitos a cargar se plus rapidemente, ma alcun buttones, formularios e campos de accesso pote non functionar. <a data-l10n-name="learn-more-link">Saper plus</a>
+fingerprinter-tab-title = Dactylogrammatores
 fingerprinter-tab-content = Le traciatores de impression digital collige parametros de tu navigator e computator pro crear un profilo de te. Usante iste impression digital, illos pote traciar te inter differente sitos web. <a data-l10n-name="learn-more-link">Lege plus</a>
 cryptominer-tab-title = Cryptominatores
 cryptominer-tab-content = Cryptominatores usa potentia de calculo de tu systema pro cavar moneta digital. Scripts del minatores occulte exhauri tu batteria, relenta tu computator e pote accrescer le factura de tu energia.<a data-l10n-name="learn-more-link">Saper plus</a>

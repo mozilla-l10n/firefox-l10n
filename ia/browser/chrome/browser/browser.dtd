@@ -952,7 +952,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Iste cookies te seque de sito a sito pro colliger datos sur lo que tu face in linea. Illos es ponite per tertie partes como companias de publicitate e de analyse de datos.">
 <!ENTITY protections.cryptominers.description "Minatores occulte usa potentia de calculo de tu systema pro cavar moneta digital. Scripts del minatores occulte exhauri tu batteria, relenta tu computator e pote accrescer le factura de tu energia.">
 <!ENTITY protections.fingerprinters.description "Le traciatores de impression digital collige parametros de tu navigator e computator pro crear un profilo de te. Usante iste impression digital, illos pote traciar te inter differente sitos web.">
-<!ENTITY protections.trackingContent2.description "Sitos web pote cargar avisos publicitari externe, videos e altere contento con codice de traciamento. Blocar contento traciator pote adjutar sitos a cargar se plus rapidemente, ma alcun buttones, formularios e campos de accesso pote non functionar.">
+<!ENTITY protections.trackingContent2.description "Sitos web pote cargar annuncios externe, videos e altere contento con codice de traciamento. Blocar contento de traciamento pote adjutar sitos a cargar se plus rapidemente, ma alcun buttones, formularios e campos de accesso pote non functionar.">
 <!ENTITY protections.socialMediaTrackers.description "Le retes social placia traciatores sur altere sitos web pro sequer lo que tu face, vide e reguarda in linea. Isto permitte al companias de rete social de saper plus sur te, ultra lo que tu comparti sur tu profilos de rete social.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -1000,7 +1000,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookies">
 <!ENTITY contentBlocking.cookiesView.label "Cookies e datos de sitos">
 
-<!ENTITY contentBlocking.trackingProtection4.label "Contento traciante">
+<!ENTITY contentBlocking.trackingProtection4.label "Contento de traciamento">
 
 <!ENTITY contentBlocking.manageSettings2.label "Gerer parametros de protection">
 <!ENTITY contentBlocking.manageSettings2.accesskey "t">

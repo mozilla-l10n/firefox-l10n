@@ -917,7 +917,7 @@ content-blocking-all-windows-trackers = Traciatores cognoscite in tote le fenest
 content-blocking-all-windows-tracking-content = Contento de traciamento in tote le fenestras
 content-blocking-all-third-party-cookies = Tote le cookies de tertios
 content-blocking-cryptominers = Crypto-minatores
-content-blocking-fingerprinters = Traciatores de impression digital
+content-blocking-fingerprinters = Dactylogrammatores
 content-blocking-warning-title = Attention!
 content-blocking-warning-description = Alcun sitos web pote non functionar correctemente con le blocage de contento. Es facile disactivar le blocage pro le sitos in que tu ha confidentia.
 content-blocking-learn-how = Apprender como
@@ -944,7 +944,7 @@ content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
 content-blocking-expand-section =
-    .tooltiptext = Plus de informationes
+    .tooltiptext = Plus informationes
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
     .label = Cryptominatores
@@ -952,8 +952,8 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Traciatores de impression digital
-    .accesskey = i
+    .label = Dactylogrammatores
+    .accesskey = D
 
 ## Privacy Section - Tracking
 
