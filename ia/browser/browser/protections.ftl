@@ -74,6 +74,14 @@ lockwise-sync-status =
        *[other] Synchronisation a { $count } altere apparatos
     }
 lockwise-sync-not-syncing-devices = Nulle synchronisation a altere apparatos
+manage-connected-devices = Gerer apparatos…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] Connectite a { $count } apparato
+       *[other] Connectite a { $count } apparatos
+    }
 monitor-title = Reguardar violationes de datos
 monitor-link = Como illo functiona
 monitor-header-content-no-account = Consulta { -monitor-brand-name } pro vider si tu ha essite parte de un violation cognoscite de datos e reciper avisos sur nove violationes.
