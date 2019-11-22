@@ -31,8 +31,20 @@ accessibility-text-label-issue-fieldset-legend2 = <span>ফিল্ডসেট
 accessibility-text-label-issue-form = ফর্মের এলিমেন্ট অবশ্যই লেবেল করা থাকতে হবে। <a>আরো জানুন</a>
 accessibility-text-label-issue-form-visible = ফর্মের এলিমেন্টে একটি দৃশ্যমান পাঠ্য লেবেল থাকা উচিত। <a>আরো জানুন</a>
 accessibility-text-label-issue-frame = <code>ফ্রেম</code> এলিমেন্ট অবশ্যই লেবেল করা থাকতে হবে। <a>আরো জানুন</a>
+accessibility-text-label-issue-glyph = <span>mglyph</span> এলিমেন্ট লেবেল করতে <code>alt </code>অ্যাট্রিবিউট ব্যবহার করুন। <a>আরো জানুন</a>
+accessibility-text-label-issue-heading = শিরোনাম অবশ্যই লেবেল করা উচিত। <a>আরও জানুন</a>
+accessibility-text-label-issue-heading-content = শিরোনামে দৃশ্যমান লেখা থাকা উচিত। <a>আরো জানুন</a>
+accessibility-text-label-issue-iframe = <span>iframe</span> এর কনটেন্ট বর্ণনা করতে <code>শিরোনাম</code> অ্যাট্রিবিউট ব্যবহার করুন।
+accessibility-text-label-issue-image = ছবি সহ কনটেন্টে অবশ্যই লেবেল করা থাকতে হবে। <a> আরও জানুন </a>
+accessibility-text-label-issue-interactive = ইন্টারেক্টিভ এলিমেন্টগুলো অবশ্যই লেবেল করা থাকতে হবে। <a>আরো জানুন</a>
+accessibility-text-label-issue-optgroup-label2 = <span> অপটোগ্রুপ </span> লেবেল করতে <code> লেবেল </ কোড> বৈশিষ্ট্যটি ব্যবহার করুন। <a> আরও জানুন </a>
+accessibility-text-label-issue-toolbar = যখন একাধিক টুলবার থাকে তখন অবশ্যই তাদের লেবেল করা উচিৎ। <a>আরো জানুন</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility
 ## issue.
 
+accessibility-keyboard-issue-semantics = ফোকাসযোগ্য এলিমেন্টে ইন্টারেক্টিভ সিমেনটিকস থাকা উচিত। <a> আরও জানুন </a>
+accessibility-keyboard-issue-tabindex = শূন্যের চেয়ে বড় <code>ট্যাবইনডেক্স</code> অ্যাট্রিবিউট ব্যবহার করা থেকে বিরত থাকুন। <a>আরো জানুন</a>
+accessibility-keyboard-issue-action = ইন্টারেক্টিভ এলিমেন্টগুলি একটি কীবোর্ড ব্যবহার করে সক্রিয় করতে সক্ষম হতে হবে। <a> আরও জানুন </a>
+accessibility-keyboard-issue-focus-visible = ফোকাসযোগ্য এলিমেন্টের ফোকাস স্টাইলিং নাও থাকতে পারে। <a> আরও জানুন </a>
