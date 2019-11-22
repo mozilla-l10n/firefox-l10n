@@ -74,6 +74,14 @@ lockwise-sync-status =
        *[other] { $count } অন্য ডিভাইসগুলোতে সিঙ্ক হচ্ছে
     }
 lockwise-sync-not-syncing-devices = অন্যান্য ডিভাইসে সিঙ্ক হচ্ছে না
+manage-connected-devices = ডিভাইস ব্যবস্থাপনা…
+# Variables:
+#   $count (Number) - Number of devices connected with sync.
+lockwise-connected-device-status =
+    { $count ->
+        [one] { $count } টি ডিভাইসে সংযুক্ত
+       *[other] { $count } টি ডিভাইসে সংযুক্ত
+    }
 monitor-title = ডাটা ফাটল সন্ধান করুন
 monitor-link = কিভাবে এটি কাজ করে
 monitor-header-content-no-account = যাচাই করে দেখুন { -monitor-brand-name } জানা ডাটা লঙ্ঘনের অংশ হয়েছে কিনা এবং নতুন লঙ্ঘন সম্পর্কে সঙ্কেত পান।

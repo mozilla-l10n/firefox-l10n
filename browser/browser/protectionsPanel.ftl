@@ -2,4 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protections-panel-sendreportview-error = প্রতিবেদনটি প্রেরণে একটি ত্রুটি হয়েছিল। পরে আবার চেষ্টা করুন।
+protections-panel-sendreportview-error = রিপোর্টি পাঠাতে একটি ত্রুটি হয়েছিল। পরে আবার চেষ্টা করুন।
+# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
+protections-panel-sitefixedsendreport-label = সাইট ঠিক হয়েছে? রিপোর্ট পাঠাও
