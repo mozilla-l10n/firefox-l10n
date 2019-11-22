@@ -57,7 +57,7 @@ containers-color-toolbar =
 containers-icon-fence =
     .label = Barriera
 containers-icon-fingerprint =
-    .label = Impression digital
+    .label = Dactylogramma
 containers-icon-briefcase =
     .label = Valise
 # String represents a money sign but currently uses a dollar sign

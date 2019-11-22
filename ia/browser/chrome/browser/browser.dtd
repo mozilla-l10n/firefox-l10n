@@ -944,14 +944,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.socialMediaTrackers.label "Traciatores de retes social">
 <!ENTITY protections.crossSiteTrackingCookies.label "Cookies de traciamento inter sitos">
 <!ENTITY protections.trackingContent.label "Contento traciante">
-<!ENTITY protections.fingerprinters.label "Traciatores de impression digital">
+<!ENTITY protections.fingerprinters.label "Dactylogrammatores">
 <!ENTITY protections.cryptominers.label "Crypto-minatores">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Tote le traciatores sur iste sito ha essite cargate perque le protectiones ha essite disactivate.">
 <!ENTITY protections.noTrackersFound.description "Nulle traciator cognoscite per &brandShortName; ha essite detegite sur iste pagina.">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "Iste cookies te seque de sito a sito pro colliger datos sur lo que tu face in linea. Illos es ponite per tertie partes como companias de publicitate e de analyse de datos.">
 <!ENTITY protections.cryptominers.description "Minatores occulte usa potentia de calculo de tu systema pro cavar moneta digital. Scripts del minatores occulte exhauri tu batteria, relenta tu computator e pote accrescer le factura de tu energia.">
-<!ENTITY protections.fingerprinters.description "Le traciatores de impression digital collige parametros de tu navigator e computator pro crear un profilo de te. Usante iste impression digital, illos pote traciar te inter differente sitos web.">
+<!ENTITY protections.fingerprinters.description "Le dactylogrammatores collige parametros de tu navigator e computator pro crear un profilo de te. Usante iste identitate digital, illos pote traciar te inter differente sitos web.">
 <!ENTITY protections.trackingContent2.description "Sitos web pote cargar annuncios externe, videos e altere contento con codice de traciamento. Blocar contento de traciamento pote adjutar sitos a cargar se plus rapidemente, ma alcun buttones, formularios e campos de accesso pote non functionar.">
 <!ENTITY protections.socialMediaTrackers.description "Le retes social placia traciatores sur altere sitos web pro sequer lo que tu face, vide e reguarda in linea. Isto permitte al companias de rete social de saper plus sur te, ultra lo que tu comparti sur tu profilos de rete social.">
 
@@ -1012,8 +1012,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cryptominers.label "Cryptominatores">
 <!ENTITY contentBlocking.cryptominersView.label "Cryptominatores">
 
-<!ENTITY contentBlocking.fingerprinters.label "Traciatores de impression digital">
-<!ENTITY contentBlocking.fingerprintersView.label "Traciatores de impression digital">
+<!ENTITY contentBlocking.fingerprinters.label "Dactylogrammatores">
+<!ENTITY contentBlocking.fingerprintersView.label "Dactylogrammatores">
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Reportar un problema">
 <!ENTITY contentBlocking.breakageReportView.label "Reportar problemas">
