@@ -28,6 +28,8 @@
 <!ENTITY fillLoginMenu.accesskey "m">
 <!ENTITY fillGeneratedPassword.label "Usa password generata in modo sicuro">
 <!ENTITY fillGeneratedPassword.accesskey "w">
+<!ENTITY useGeneratedPassword.label "Usa password generata in modo sicuro…">
+<!ENTITY useGeneratedPassword.accesskey "w">
 <!ENTITY fillPasswordMenu.label "Compila password">
 <!ENTITY fillPasswordMenu.accesskey "m">
 <!ENTITY fillUsernameMenu.label "Compila nome utente">
