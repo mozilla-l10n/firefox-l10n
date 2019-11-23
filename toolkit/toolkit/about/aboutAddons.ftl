@@ -337,6 +337,10 @@ remove-addon-button = Elimină
 disable-addon-button = Dezactivează
 enable-addon-button = Activează
 expand-addon-button = Mai multe opțiuni
+disable-addon-button-label =
+    .aria-label = Dezactivează
+enable-addon-button-label =
+    .aria-label = Activează
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Opțiuni
