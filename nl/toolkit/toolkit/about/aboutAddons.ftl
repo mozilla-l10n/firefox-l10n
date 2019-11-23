@@ -357,6 +357,10 @@ remove-addon-disabled-button = Kan niet worden verwijderd <a data-l10n-name="lin
 disable-addon-button = Uitschakelen
 enable-addon-button = Inschakelen
 expand-addon-button = Meer opties
+disable-addon-button-label =
+    .aria-label = Uitschakelen
+enable-addon-button-label =
+    .aria-label = Inschakelen
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Opties
