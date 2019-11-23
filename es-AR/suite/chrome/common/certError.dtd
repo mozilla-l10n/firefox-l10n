@@ -43,3 +43,6 @@ conozca que hay una buena razón para que este sitio no use una identificación 
 <!ENTITY certerror.addException.label "Agregar excepción…">
 
 <!ENTITY certerror.technical.heading "Detalles técnicos">
+
+<!ENTITY dnsNotFound.pageTitle "No se encontró el servidor">
+<!ENTITY malformedURI.pageTitle "URL inválida">
