@@ -37,3 +37,8 @@
 <!ENTITY smiley10Cmd.accesskey "i">
 <!ENTITY smiley10Cmd.tooltip "Enmeti kriantan vizaĝeton">
 <!ENTITY smiley11Cmd.label "Kontento">
+<!ENTITY smiley11Cmd.accesskey "n">
+<!ENTITY smiley11Cmd.tooltip "Enmeti kontentan vizaĝeton">
+<!ENTITY smiley12Cmd.label "Mondeziro">
+<!ENTITY smiley12Cmd.accesskey "z">
+<!ENTITY smiley12Cmd.tooltip "Enmeti vizaĝeton kun dolaroj">
