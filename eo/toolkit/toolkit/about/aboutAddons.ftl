@@ -336,6 +336,10 @@ remove-addon-disabled-button = Ne eblas forigi ĝin. <a data-l10n-name="link">Ki
 disable-addon-button = Malaktivigi
 enable-addon-button = Aktivigi
 expand-addon-button = Pli da elektebloj
+disable-addon-button-label =
+    .aria-label = Malaktivigi
+enable-addon-button-label =
+    .aria-label = Aktivigi
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Preferoj
