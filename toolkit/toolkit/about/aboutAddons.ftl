@@ -352,6 +352,10 @@ remove-addon-disabled-button = Impussibel dad allontanar <a data-l10n-name="link
 disable-addon-button = Deactivar
 enable-addon-button = Activar
 expand-addon-button = Ulteriuras opziuns
+disable-addon-button-label =
+    .aria-label = Deactivar
+enable-addon-button-label =
+    .aria-label = Activar
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Preferenzas
