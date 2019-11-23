@@ -280,6 +280,10 @@ go-back-button =
 remove-addon-button = દૂર કરો
 disable-addon-button = નિષ્ક્રિય
 enable-addon-button = સક્રિય
+disable-addon-button-label =
+    .aria-label = નિષ્ક્રિય
+enable-addon-button-label =
+    .aria-label = સક્રિય
 addons-enabled-heading = સક્રિય
 addons-disabled-heading = નિષ્ક્રિય
 
