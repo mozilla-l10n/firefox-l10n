@@ -335,6 +335,10 @@ remove-addon-disabled-button = Na’ue narè’ej <a data-l10n-name="link">Nù h
 disable-addon-button = Dunikïn'
 enable-addon-button = Dugi'iaj sun' man
 expand-addon-button = Doj sa ga'ue nagi'át
+disable-addon-button-label =
+    .aria-label = Dunikïn'
+enable-addon-button-label =
+    .aria-label = Dugi'iaj sun' man
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Sa huaa
