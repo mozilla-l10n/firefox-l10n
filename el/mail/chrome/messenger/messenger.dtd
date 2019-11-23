@@ -971,3 +971,7 @@
 <!ENTITY dockOptions.label              "Επιλογές εικονιδίου εφαρμογής..">
 <!ENTITY writeNewMessageDock.label      "Σύνταξη νέου μηνύματος">
 <!ENTITY openAddressBookDock.label      "Άνοιγμα βιβλίου διευθύνσεων">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Μετάβαση μια σελίδα πίσω">
+<!ENTITY browseForwardButton.tooltip "Μετάβαση μια σελίδα μπροστά">
