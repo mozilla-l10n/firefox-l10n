@@ -312,6 +312,10 @@ remove-addon-button = Kkes
 disable-addon-button = Ssens
 enable-addon-button = Rmed
 expand-addon-button = Ugar n iɣewwaṛen
+disable-addon-button-label =
+    .aria-label = Ssens
+enable-addon-button-label =
+    .aria-label = Rmed
 preferences-addon-button =
     { PLATFORM() ->
         [windows] iɣewwaṛen
