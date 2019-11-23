@@ -288,6 +288,10 @@ go-back-button =
 remove-addon-button = Çetleştir
 disable-addon-button = Naqabilleştir
 enable-addon-button = Qabilleştir
+disable-addon-button-label =
+    .aria-label = Naqabilleştir
+enable-addon-button-label =
+    .aria-label = Qabilleştir
 addons-enabled-heading = Qabilleştirilgen
 addons-disabled-heading = Naqabilleştirilgen
 
