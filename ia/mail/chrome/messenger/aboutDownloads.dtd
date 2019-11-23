@@ -17,7 +17,7 @@
 <!ENTITY cmd.open.accesskey                        "A">
 <!ENTITY cmd.removeFromHistory.label               "Remover del chronologia">
 <!ENTITY cmd.removeFromHistory.accesskey           "e">
-<!ENTITY cmd.clearList.label                       "Clarar le lista">
+<!ENTITY cmd.clearList.label                       "Rader le lista">
 <!ENTITY cmd.clearList.accesskey                   "C">
 <!ENTITY cmd.clearList.tooltip                     "Remover tote le entratas del lista de files salvate, a exception de illos in discargamento.">
 <!ENTITY cmd.searchDownloads.label                 "Cercar…">

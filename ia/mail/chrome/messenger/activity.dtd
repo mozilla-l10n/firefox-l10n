@@ -18,11 +18,17 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.cancel.accesskey             "C">
 <!ENTITY cmd.undo.label                   "Disfacer">
 <!ENTITY cmd.undo.accesskey               "D">
+<!ENTITY cmd.recover.label                "Recuperar">
+<!ENTITY cmd.recover.accesskey            "p">
 <!ENTITY cmd.retry.label                  "Retentar">
 <!ENTITY cmd.retry.accesskey              "R">
 <!ENTITY cmd.removeFromList.label         "Remover del lista">
 <!ENTITY cmd.removeFromList.accesskey     "e">
 
-<!ENTITY cmd.clearList.label              "Clarar le lista">
+<!ENTITY cmd.close.commandkey             "w">
+<!ENTITY cmd.close2.commandkey            "j">
+<!ENTITY cmd.close2Unix.commandkey        "y">
+<!ENTITY cmd.clearList.label              "Rader le lista">
+<!ENTITY cmd.clearList.tooltip            "Remove entratas terminate, cancellate e fallite del lista">
 
 <!ENTITY searchBox.label                  "Cercar…">

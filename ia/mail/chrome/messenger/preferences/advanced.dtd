@@ -93,7 +93,7 @@
 <!ENTITY useCacheAfter.label             "MB de spatio pro le cache">
 <!ENTITY overrideSmartCacheSize.label    "Supplantar le gestion automatic del cache">
 <!ENTITY overrideSmartCacheSize.accesskey "u">
-<!ENTITY clearCacheNow.label             "Clarar ora">
+<!ENTITY clearCacheNow.label             "Rader ora">
 <!ENTITY clearCacheNow.accesskey         "C">
 
 <!-- Certificates -->
