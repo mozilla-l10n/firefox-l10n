@@ -43,7 +43,7 @@ social-tab-contant = Le retes social placia traciatores sur altere sitos web pro
 cookie-tab-title = Cookies de traciamento inter sitos
 cookie-tab-content = Iste cookies te seque de sito a sito pro colliger datos sur lo que tu face in linea. Illos es deponite per tertios, p.ex. companias de publicitate e de analyse de datos. Blocar le cookies de traciamento inter sitos reduce le numero de annuncios que te seque. <a data-l10n-name="learn-more-link">Lege plus</a>
 tracker-tab-title = Contento traciator
-tracker-tab-description = Sitos web pote cargar annuncios externe, videos e altere contento con codice de traciamento. Blocar contento de traciamento pote adjutar sitos a cargar se plus rapidemente, ma alcun buttones, formularios e campos de accesso pote non functionar. <a data-l10n-name="learn-more-link">Saper plus</a>
+tracker-tab-description = Sitos web pote cargar annuncios externe, videos e altere contento con codice de traciamento. Blocar contento de traciamento pote adjutar sitos a cargar se plus rapidemente, ma alcun buttones, formularios e campos de aperir session pote non functionar. <a data-l10n-name="learn-more-link">Saper plus</a>
 fingerprinter-tab-title = Dactylogrammatores
 fingerprinter-tab-content = Le dactylogrammatores collige parametros de tu navigator e computator pro crear un profilo de te. Usante iste identitate digital, illos pote traciar te inter differente sitos web. <a data-l10n-name="learn-more-link">Lege plus</a>
 cryptominer-tab-title = Cryptominatores

@@ -939,7 +939,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Perque?">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "Blocar isto poterea rumper elementos de alcun sitos web. Sin traciatores, alcun buttones, formas, e campos pro accesso pote non functionar.">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Blocar istes poterea rumper elementos de alcun sitos web. Sin traciatores, alcun buttones, formularios e campos de aperir session poterea non functionar.">
 <!ENTITY protections.notBlocking.why.etpOff.tooltip "Disactivar le protectiones permittera tote le traciatores sur iste sito. Isto poterea totevia meliorar alcun functionalitates del sito web.">
 <!ENTITY protections.socialMediaTrackers.label "Traciatores de retes social">
 <!ENTITY protections.crossSiteTrackingCookies.label "Cookies de traciamento inter sitos">
@@ -952,7 +952,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY protections.crossSiteTrackingCookies.description "Iste cookies te seque de sito a sito pro colliger datos sur lo que tu face in linea. Illos es ponite per tertie partes como companias de publicitate e de analyse de datos.">
 <!ENTITY protections.cryptominers.description "Minatores occulte usa potentia de calculo de tu systema pro cavar moneta digital. Scripts del minatores occulte exhauri tu batteria, relenta tu computator e pote accrescer le factura de tu energia.">
 <!ENTITY protections.fingerprinters.description "Le dactylogrammatores collige parametros de tu navigator e computator pro crear un profilo de te. Usante iste identitate digital, illos pote traciar te inter differente sitos web.">
-<!ENTITY protections.trackingContent2.description "Sitos web pote cargar annuncios externe, videos e altere contento con codice de traciamento. Blocar contento de traciamento pote adjutar sitos a cargar se plus rapidemente, ma alcun buttones, formularios e campos de accesso pote non functionar.">
+<!ENTITY protections.trackingContent2.description "Sitos web pote cargar annuncios externe, videos e altere contento con codice de traciamento. Blocar contento de traciamento pote adjutar sitos a cargar se plus rapidemente, ma alcun buttones, formularios e campos de aperir session pote non functionar.">
 <!ENTITY protections.socialMediaTrackers.description "Le retes social placia traciatores sur altere sitos web pro sequer lo que tu face, vide e reguarda in linea. Isto permitte al companias de rete social de saper plus sur te, ultra lo que tu comparti sur tu profilos de rete social.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.

@@ -141,12 +141,12 @@ onboarding-lockwise-passwords-title = Porta ubique con te tu contrasignos
 onboarding-lockwise-passwords-text2 = Mantene secur le contrasignos que tu salva e accede facilemente a tu contos con { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Discarga le app
 onboarding-lockwise-strong-passwords-title = Crea e immagazina contrasignos forte
-onboarding-lockwise-strong-passwords-text = Con { -lockwise-brand-name } tu pote crear forte  contrasignos e los salvar in un unic posto.
+onboarding-lockwise-strong-passwords-text = Con { -lockwise-brand-name } tu pote crear contrasignos secur e salvar los in un loco central.
 onboarding-lockwise-strong-passwords-button = Gere tu credentiales
 onboarding-facebook-container-title = Defini limites pro Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } mantene tu profilo separate de tote le resto. Il es assi plus difficile pro Facebook exploitar tu datos personal pro publicitate.
 onboarding-facebook-container-button = Adder le extension
-onboarding-import-browser-settings-title = Importa tu marcapaginas, contrasignos e altero ancora
+onboarding-import-browser-settings-title = Importa tu marcapaginas, contrasignos e multo plus
 onboarding-import-browser-settings-text = Facile a initiar: porta tu sitos e parametros de Chrome con te.
 onboarding-import-browser-settings-button = Importar datos de Chrome
 
