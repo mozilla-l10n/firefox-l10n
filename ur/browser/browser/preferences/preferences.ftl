@@ -499,7 +499,7 @@ sync-profile-picture =
 sync-disconnect =
     .label = منقطع کریں…
     .accesskey = D
-sync-manage-account = اکاؤنٹ کا بندوبست کریں
+sync-manage-account = اکاؤنٹ کا منظم کریں
     .accesskey = o
 sync-signedin-unverified = { $email } توثیق شدہ نہیں ہے۔
 sync-signedin-login-failure = پھر جڑنے کے لیے سائن ان کریں { $email }
@@ -566,7 +566,7 @@ sync-device-name-save =
     .label = محفوظ کریں
     .accesskey = v
 sync-connect-another-device = اہک اور آلہ جوڑیں
-sync-manage-devices = آلات کو بندرست کریں
+sync-manage-devices = آلات کو منظم کریں
 sync-tos-link = سروس کی ٹرمز
 sync-fxa-privacy-notice = اطلاع نامہ نجی نوعیت
 
@@ -646,7 +646,7 @@ sitedata-clear =
     .label = کوائف… خالی کریں
     .accesskey = l
 sitedata-settings =
-    .label = کوائف… بندرست کریں
+    .label = کوائف… منظم کریں
     .accesskey = M
 
 ## Privacy Section - Address Bar

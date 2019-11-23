@@ -10,7 +10,7 @@ login-filter =
     .placeholder = لاگ ان تلاش کریں
 create-login-button = نیا لاگ ان بنائیں
 fxaccounts-avatar-button =
-    .title = اکاؤنٹ کا بندوبست کریں
+    .title = اکاؤنٹ کا منظم کریں
 
 ## The ⋯ menu that is in the top corner of the page
 

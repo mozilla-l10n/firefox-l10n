@@ -6,7 +6,7 @@
 ## Settings
 
 site-data-settings-window =
-    .title = کوکیوں اور سائٹ کے کواِئف کو بندرست کریں
+    .title = کوکیوں اور سائٹ کے کواِئف کو منظم کریں
 site-data-search-textbox =
     .placeholder = ویبسائٹ تلاش کریں
     .accesskey = S
