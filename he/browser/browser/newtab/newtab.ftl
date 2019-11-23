@@ -45,9 +45,6 @@ newtab-topsites-save-button = שמירה
 newtab-topsites-preview-button = תצוגה מקדימה
 newtab-topsites-add-button = הוספה
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = למחוק כל עותק של העמוד הזה מההיסטוריה שלך?
@@ -96,10 +93,6 @@ newtab-menu-remove-bookmark = הסרת סימנייה
 # Bookmark is a verb here.
 newtab-menu-bookmark = הוספת סימנייה
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -128,10 +121,6 @@ newtab-label-removed-bookmark = הסימנייה הוסרה
 newtab-label-recommended = פופולרי
 newtab-label-saved = נשמר ל־{ -pocket-brand-name }
 newtab-label-download = התקבל
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -181,6 +170,7 @@ newtab-discovery-empty-section-topstories-loading = בטעינה…
 newtab-pocket-read-more = נושאים פופולריים:
 newtab-pocket-more-recommendations = המלצות נוספות
 newtab-pocket-how-it-works = איך זה עובד
+newtab-pocket-whats-pocket = מה זה { -pocket-brand-name }?
 newtab-pocket-cta-button = קבלת { -pocket-brand-name }
 newtab-pocket-cta-text = שמירת הסיפורים שאהבת ב־{ -pocket-brand-name } על מנת למלא את מחשבתך בקריאה מרתקת.
 

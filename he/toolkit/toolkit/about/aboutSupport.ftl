@@ -137,6 +137,20 @@ intl-locales-default = שפת ברירת המחדל
 intl-os-title = מערכת הפעלה
 intl-os-prefs-system-locales = שפות המערכת
 intl-regional-prefs = העדפות אזוריות
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+remote-debugging-url = כתובת
+
+
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
