@@ -240,6 +240,10 @@ remove-addon-button = बोखार
 disable-addon-button = लोरबां खालाम
 enable-addon-button = हाहोनाय खालाम
 expand-addon-button = गोबां उफ्रा
+disable-addon-button-label =
+    .aria-label = लोरबां खालाम
+enable-addon-button-label =
+    .aria-label = हाहोनाय खालाम
 preferences-addon-button =
     { PLATFORM() ->
         [windows] उफ्रा
