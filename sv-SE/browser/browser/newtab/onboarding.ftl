@@ -137,9 +137,13 @@ onboarding-pocket-anywhere-button = Prova { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Ta med dina lösenord överallt
 onboarding-lockwise-passwords-text2 = Håll lösenordet du sparar säkert och logga enkelt in på dina konton med { -lockwise-brand-name }
 onboarding-lockwise-passwords-button2 = Hämta appen
+onboarding-lockwise-strong-passwords-title = Skapa och lagra starka lösenord
+onboarding-lockwise-strong-passwords-button = Hantera dina inloggningar
 onboarding-facebook-container-title = Ange gränser för Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } håller din profil skild från allt annat, vilket gör det svårare för Facebook att rikta annonser.
 onboarding-facebook-container-button = Lägg till tillägget
+onboarding-import-browser-settings-title = Importera dina bokmärken, lösenord och mer
+onboarding-import-browser-settings-button = Importera Chrome data
 
 ## Message strings belonging to the Return to AMO flow
 
