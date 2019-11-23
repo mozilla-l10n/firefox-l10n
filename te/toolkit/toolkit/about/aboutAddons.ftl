@@ -264,6 +264,10 @@ remove-addon-button = తొలగించు
 disable-addon-button = అచేతనించు
 enable-addon-button = చేతనించు
 expand-addon-button = మరిన్ని ఎంపికలు
+disable-addon-button-label =
+    .aria-label = అచేతనించు
+enable-addon-button-label =
+    .aria-label = చేతనించు
 preferences-addon-button =
     { PLATFORM() ->
         [windows] ఎంపికలు
