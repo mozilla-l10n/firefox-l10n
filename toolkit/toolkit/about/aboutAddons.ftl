@@ -341,6 +341,10 @@ remove-addon-button = Eemalda
 disable-addon-button = Keela
 enable-addon-button = Luba
 expand-addon-button = Rohkem sätteid
+disable-addon-button-label =
+    .aria-label = Keela
+enable-addon-button-label =
+    .aria-label = Luba
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Sätted
