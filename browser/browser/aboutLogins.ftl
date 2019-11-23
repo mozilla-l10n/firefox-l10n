@@ -101,6 +101,13 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] { -sync-brand-short-name } विकल्प पर जाएँ
+           *[other] { -sync-brand-short-name } वरीयताएँ पर जाएँ
+        }
+    .accesskey = V
 confirm-delete-dialog-title = इस लॉगिन को मिटाएं?
 
 ## Dialogs
