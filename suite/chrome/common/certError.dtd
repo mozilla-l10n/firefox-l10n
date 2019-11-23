@@ -32,3 +32,6 @@ was trying to connect. -->
 <!ENTITY certerror.addException.label "新增例外網站…">
 
 <!ENTITY certerror.technical.heading "技術細節">
+
+<!ENTITY dnsNotFound.pageTitle "找不到伺服器">
+<!ENTITY malformedURI.pageTitle "網址無效">
