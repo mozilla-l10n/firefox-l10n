@@ -604,7 +604,15 @@ sync-signedin-settings-desc = चुने, { -brand-short-name } का उप�
 sync-currently-syncing-bookmarks = बुकमार्क्स
 sync-currently-syncing-history = इतिहास
 sync-currently-syncing-tabs = टैबों को खोलें
+sync-currently-syncing-logins-passwords = लॉगिन और पासवर्ड
+sync-currently-syncing-addresses = पते
 sync-currently-syncing-creditcards = क्रेडिट कार्ड्स
+sync-currently-syncing-addons = ऐड-ऑन
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] विकल्प
+       *[other] वरीयताएँ
+    }
 sync-change-options =
     .label = बदलें...
     .accesskey = C
@@ -624,6 +632,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = लॉग इन
     .tooltiptext = आपके द्वारा सहेजे गए उपयोगकर्ता नाम तथा पासवर्ड
+    .accesskey = L
+sync-engine-logins-passwords =
+    .label = लॉगिन और पासवर्ड
+    .tooltiptext = आपके द्वारा सहेजे गए उपयोगकर्ता नाम और पासवर्ड
     .accesskey = L
 sync-engine-addresses =
     .label = पता
