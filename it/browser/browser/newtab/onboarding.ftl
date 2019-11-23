@@ -135,6 +135,9 @@ onboarding-lockwise-passwords-button2 = Scarica l’app
 onboarding-facebook-container-title = Metti un limite a Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } mantiene il tuo profilo separato da tutto il resto. In questo modo per Facebook diventerà più difficile mostrarti pubblicità mirate.
 onboarding-facebook-container-button = Aggiungi l’estensione
+onboarding-import-browser-settings-title = Importa segnalibri, password e altro ancora
+onboarding-import-browser-settings-text = Recupera facilmente i tuoi siti e le tue informazioni da Chrome e inizia subito a navigare.
+onboarding-import-browser-settings-button = Importa i dati da Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
