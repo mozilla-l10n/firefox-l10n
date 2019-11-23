@@ -45,3 +45,6 @@ det er en god grunn til at dette nettstedet mangler sikker identifikasjon.">
 <!ENTITY certerror.addException.label "Lag en unntaksregel …">
 
 <!ENTITY certerror.technical.heading "Tekniske detaljer">
+
+<!ENTITY dnsNotFound.pageTitle "Fant ikke serveren">
+<!ENTITY malformedURI.pageTitle "Ugyldig nettadresse">
