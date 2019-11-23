@@ -248,6 +248,10 @@ go-back-button =
 remove-addon-button = অপসারণ
 disable-addon-button = নিষ্ক্রিয়
 enable-addon-button = সক্রিয়
+disable-addon-button-label =
+    .aria-label = নিষ্ক্রিয়
+enable-addon-button-label =
+    .aria-label = সক্রিয়
 addons-enabled-heading = সক্রিয় হয়েছে
 addons-disabled-heading = নিষ্ক্রিয় হয়েছে
 
