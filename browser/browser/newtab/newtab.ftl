@@ -45,9 +45,6 @@ newtab-topsites-save-button = Składować
 newtab-topsites-preview-button = Přehlad
 newtab-topsites-add-button = Přidać
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Chceće woprawdźe kóždu instancu tuteje strony ze swojeje historije zhašeć?
@@ -103,10 +100,6 @@ newtab-menu-remove-bookmark = Zapołožku wotstronić
 # Bookmark is a verb here.
 newtab-menu-bookmark = Zapołožki składować
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
-
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
@@ -135,10 +128,6 @@ newtab-label-removed-bookmark = Zapołožka je so wotstroniła
 newtab-label-recommended = Popularny
 newtab-label-saved = Do { -pocket-brand-name } składowany
 newtab-label-download = Sćehnjeny
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -192,6 +181,7 @@ newtab-discovery-empty-section-topstories-timed-out = Hopla! Smy tutón wotrězk
 newtab-pocket-read-more = Woblubowane temy:
 newtab-pocket-more-recommendations = Dalše doporučenja
 newtab-pocket-how-it-works = Kak funguje
+newtab-pocket-whats-pocket = Što je { -pocket-brand-name }?
 newtab-pocket-cta-button = { -pocket-brand-name } wobstarać
 newtab-pocket-cta-text = Składujće stawizny, kotrež so wam spodobuja, w { -pocket-brand-name } a žiwće swój duch z fascinowacymi čitančkami.
 
