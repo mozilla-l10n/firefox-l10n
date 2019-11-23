@@ -42,3 +42,6 @@ hackeando tua conexão.</b>">
 <!ENTITY certerror.addException.label "Adicionar exceção…">
 
 <!ENTITY certerror.technical.heading "Detalhes técnicos">
+
+<!ENTITY dnsNotFound.pageTitle "Servidor não encontrado">
+<!ENTITY malformedURI.pageTitle "URL inválida">
