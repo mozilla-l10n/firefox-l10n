@@ -247,6 +247,10 @@ addon-open-about-debugging = ایڈز آن ازالہ کرے
 
 disable-addon-button = غیر فعال
 enable-addon-button = فعال
+disable-addon-button-label =
+    .aria-label = غیر فعال
+enable-addon-button-label =
+    .aria-label = فعال
 addons-enabled-heading = فعال
 addons-disabled-heading = غیر فعال
 
