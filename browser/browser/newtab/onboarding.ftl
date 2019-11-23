@@ -130,6 +130,9 @@ onboarding-send-tabs-title = Envíese las pestañas instantáneamente
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Send Tabs comparte páginas de forma instantánea entre sus dispositivos sin copiar, pegar ni salir del navegador.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Comparta fácilmente páginas entre sus dispositivos sin tener que copiar enlaces o cerrar el navegador.
 onboarding-send-tabs-button = Empiece a usar Send Tabs
 onboarding-pocket-anywhere-title = Leer y escuchar en cualquier lugar
 onboarding-pocket-anywhere-text2 = Guarde su contenido favorito sin conexión gracias a la aplicación { -pocket-brand-name } y léalo, escúchelo o véalo dónde y cuándo mejor le convenga.
@@ -137,9 +140,15 @@ onboarding-pocket-anywhere-button = Probar { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Lleve sus contraseñas a todas partes
 onboarding-lockwise-passwords-text2 = Mantenga seguras las contraseñas que guarda e inicie sesión fácilmente en sus cuentas con { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Obtener la aplicación
+onboarding-lockwise-strong-passwords-title = Crear y almacenar contraseñas seguras
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } crea contraseñas seguras en el acto y las guarda en un solo lugar.
+onboarding-lockwise-strong-passwords-button = Administre sus inicios de sesión
 onboarding-facebook-container-title = Configure límites con Facebook
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } separa su perfil de todo lo demás, haciendo más difícil que Facebook pueda mostrarle publicidad.
 onboarding-facebook-container-button = Agregar la extensión
+onboarding-import-browser-settings-title = Importe sus marcadores, contraseñas y más
+onboarding-import-browser-settings-text = Métase por completo: lleve fácilmente sus sitios y configuraciones de Chrome con usted.
+onboarding-import-browser-settings-button = Importar datos de Chrome
 
 ## Message strings belonging to the Return to AMO flow
 
