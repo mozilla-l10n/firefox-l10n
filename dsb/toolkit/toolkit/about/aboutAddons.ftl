@@ -342,6 +342,10 @@ remove-addon-disabled-button = Njedajo se wótwónoźeś <a data-l10n-name="link
 disable-addon-button = Znjemóžniś
 enable-addon-button = Zmóžniś
 expand-addon-button = Dalšne nastajenja
+disable-addon-button-label =
+    .aria-label = Znjemóžniś
+enable-addon-button-label =
+    .aria-label = Zmóžniś
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Nastajenja
