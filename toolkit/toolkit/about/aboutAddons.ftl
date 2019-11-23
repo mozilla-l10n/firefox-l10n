@@ -306,6 +306,10 @@ remove-addon-button = حذف
 disable-addon-button = غیرفعال کردن
 enable-addon-button = فعال کردن
 expand-addon-button = گزینه‌های بیشتر
+disable-addon-button-label =
+    .aria-label = غیرفعال کردن
+enable-addon-button-label =
+    .aria-label = فعال کردن
 preferences-addon-button =
     { PLATFORM() ->
         [windows] گزینه‌ها
