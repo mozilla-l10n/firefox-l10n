@@ -353,6 +353,10 @@ remove-addon-disabled-button = Kin net fuortsmiten wurde <a data-l10n-name="link
 disable-addon-button = Utskeakelje
 enable-addon-button = Ynskeakelje
 expand-addon-button = Mear opsjes
+disable-addon-button-label =
+    .aria-label = Utskeakelje
+enable-addon-button-label =
+    .aria-label = Ynskeakelje
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Opsjes
