@@ -759,6 +759,9 @@ sitedata-total-size-calculating = साइट डेटा और कैश आ
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = आपकी संग्रहीत कुकीज़, साइट डेटा और कैश वर्तमान में डिस्क स्थान के { $value } { $unit } का उपयोग कर रहे हैं।
 sitedata-learn-more = अधिक जानें
+sitedata-delete-on-close =
+    .label = { -brand-short-name } बंद होने पर कुकीज़ और साइट डेटा हटा दें
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = कुकीज़ और साइट डेटा स्वीकार करें
     .accesskey = A
