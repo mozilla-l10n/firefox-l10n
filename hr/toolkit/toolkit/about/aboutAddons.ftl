@@ -345,6 +345,10 @@ remove-addon-disabled-button = Ne može se ukloniti. <a data-l10n-name="link">Za
 disable-addon-button = Onemogući
 enable-addon-button = Omogući
 expand-addon-button = Više mogućnosti
+disable-addon-button-label =
+    .aria-label = Onemogući
+enable-addon-button-label =
+    .aria-label = Omogući
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Mogućnosti
