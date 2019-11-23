@@ -343,6 +343,10 @@ remove-addon-disabled-button = Kaldırılamıyor <a data-l10n-name="link">Neden?
 disable-addon-button = Etkisizleştir
 enable-addon-button = Etkinleştir
 expand-addon-button = Diğer seçenekler
+disable-addon-button-label =
+    .aria-label = Etkisizleştir
+enable-addon-button-label =
+    .aria-label = Etkinleştir
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Seçenekler
