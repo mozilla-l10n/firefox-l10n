@@ -272,6 +272,10 @@ go-back-button =
 remove-addon-button = Fjarlægja
 disable-addon-button = Óvirkja
 enable-addon-button = Virkja
+disable-addon-button-label =
+    .aria-label = Óvirkja
+enable-addon-button-label =
+    .aria-label = Virkja
 addons-enabled-heading = Virkjað
 addons-disabled-heading = Óvirkt
 
