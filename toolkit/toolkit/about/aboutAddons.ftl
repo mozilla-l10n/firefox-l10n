@@ -348,6 +348,10 @@ remove-addon-disabled-button = Kan ikkje fjernast <a data-l10n-name="link">Kvifo
 disable-addon-button = Slå av
 enable-addon-button = Slå på
 expand-addon-button = Fleire alternativ
+disable-addon-button-label =
+    .aria-label = Slå av
+enable-addon-button-label =
+    .aria-label = Slå på
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Innstillingar
