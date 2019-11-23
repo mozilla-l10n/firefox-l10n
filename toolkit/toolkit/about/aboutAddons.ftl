@@ -348,6 +348,10 @@ remove-addon-disabled-button = Nie można usunąć <a data-l10n-name="link">Dlac
 disable-addon-button = Wyłącz
 enable-addon-button = Włącz
 expand-addon-button = Więcej opcji
+disable-addon-button-label =
+    .aria-label = Wyłącz
+enable-addon-button-label =
+    .aria-label = Włącz
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Opcje
