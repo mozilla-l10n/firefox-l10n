@@ -130,6 +130,9 @@ onboarding-send-tabs-title = 即時發送分頁給自己
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Send Tabs 可即時於您的各個裝置間分享分頁，不需要複製、貼上或離開瀏覽器。
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = 輕鬆地在您的各個裝置間分享網頁，不需要複製網址或離開瀏覽器。
 onboarding-send-tabs-button = 開始使用 Send Tabs
 onboarding-pocket-anywhere-title = 隨處閱讀隨處聽
 onboarding-pocket-anywhere-text2 = 可使用 { -pocket-brand-name } 將您最愛的文章儲存下來，這樣就可以在有空的時候閱讀、聆聽或觀賞，就算離線也沒問題。
@@ -137,9 +140,15 @@ onboarding-pocket-anywhere-button = 試用 { -pocket-brand-name }
 onboarding-lockwise-passwords-title = 密碼隨身帶著走
 onboarding-lockwise-passwords-text2 = { -lockwise-brand-name } 會安全地儲存您的密碼，讓您可輕鬆在各個網站上登入帳號。
 onboarding-lockwise-passwords-button2 = 下載程式
+onboarding-lockwise-strong-passwords-title = 建立並儲存強密碼
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } 可直接在網頁表單中建立強密碼，並且儲存在同一個地方，方便使用。
+onboarding-lockwise-strong-passwords-button = 管理您的登入資訊
 onboarding-facebook-container-title = 為 Facebook 設定邊界
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } 可將您的 Facebook 身分隔絕於其他網站之外，使其更難在網路上追蹤您。
 onboarding-facebook-container-button = 安裝擴充套件
+onboarding-import-browser-settings-title = 匯入您的書籤、密碼與更多資料
+onboarding-import-browser-settings-text = 別猶豫—馬上把您的 Chrome 網站資料與設定匯入進來。
+onboarding-import-browser-settings-button = 匯入 Chrome 資料
 
 ## Message strings belonging to the Return to AMO flow
 
